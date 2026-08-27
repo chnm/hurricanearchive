@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ $items := .RegularPages }}
+{{ $paginator := .Paginate $items }}
+<div id="items-heading">
+	<div class="heading">  <h2> Items ({{ len $items }} total) </h2>
+		{{ partial "items-nav.html" "all" }}
+	</div>
+</div>
+
+<div id="items-primary">
+	{{ range $paginator.Pages }}
+		{{ partial "item-card.html" . }}
+	{{ end }}
+</div>
+{{ partial "pager.html" $paginator }}
+{{ end }}

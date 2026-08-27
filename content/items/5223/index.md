@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/5223
+  - /items/show/5223.html
+collections:
+  - '65'
+date: '2006-09-11 19:27:01'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSCN0668.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a53515b8514fb2a53515f6c.jpg
+    id: 4325
+    mime: image/jpeg
+    original_filename: DSCN0668.JPG
+    thumb: /files/thumbnails/14fb2a53515b8514fb2a53515f6c.jpg
+    url: /files/original/14fb2a53515b8514fb2a53515f6c.jpg
+geo:
+id: 5223
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2006-09-11 19:29:51'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '5223'
+tags: []
+title: DSCN0668.JPG
+type: items
+---

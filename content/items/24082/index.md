@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/24082
+  - /items/show/24082.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0007stbernardparishS&R.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29eaf5399614fb29eaf54397.jpg
+    id: 21026
+    mime: image/jpeg
+    original_filename: DSC 0007stbernardparishS&R.JPG
+    thumb: /files/thumbnails/14fb29eaf5399614fb29eaf54397.jpg
+    url: /files/original/14fb29eaf5399614fb29eaf54397.jpg
+geo:
+id: 24082
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '24082'
+tags: []
+title: DSC 0007stbernardparishS&R.JPG
+type: items
+---

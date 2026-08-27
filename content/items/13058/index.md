@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/13058
+  - /items/show/13058.html
+collections:
+  - '89'
+date: '2006-11-27 20:02:46'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: before west street.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a20b7581114fb2a20b75bf6.jpg
+    id: 11068
+    mime: image/jpeg
+    original_filename: before west street.jpg
+    thumb: /files/thumbnails/14fb2a20b7581114fb2a20b75bf6.jpg
+    url: /files/original/14fb2a20b7581114fb2a20b75bf6.jpg
+geo:
+id: 13058
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2006-11-27 20:07:12'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '13058'
+tags: []
+title: before west street.jpg
+type: items
+---

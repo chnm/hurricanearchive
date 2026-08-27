@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/24343
+  - /items/show/24343.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: 501058-R1-19-17A.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29e8a470dd14fb29e8a472f4.jpg
+    id: 21287
+    mime: image/jpeg
+    original_filename: 501058-R1-19-17A.jpg
+    thumb: /files/thumbnails/14fb29e8a470dd14fb29e8a472f4.jpg
+    url: /files/original/14fb29e8a470dd14fb29e8a472f4.jpg
+geo:
+id: 24343
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '24343'
+tags: []
+title: 501058-R1-19-17A.jpg
+type: items
+---

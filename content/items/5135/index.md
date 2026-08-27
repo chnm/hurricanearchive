@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/5135
+  - /items/show/5135.html
+collections:
+  - '65'
+date: '2006-09-11 19:27:01'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSCN0497.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a53cbee5114fb2a53cbf22f.jpg
+    id: 4237
+    mime: image/jpeg
+    original_filename: DSCN0497.JPG
+    thumb: /files/thumbnails/14fb2a53cbee5114fb2a53cbf22f.jpg
+    url: /files/original/14fb2a53cbee5114fb2a53cbf22f.jpg
+geo:
+id: 5135
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2006-09-11 19:29:25'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '5135'
+tags: []
+title: DSCN0497.JPG
+type: items
+---

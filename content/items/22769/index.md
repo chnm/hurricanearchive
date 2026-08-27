@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/22769
+  - /items/show/22769.html
+collections:
+  - '102'
+date: '2007-02-02 03:39:53'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: S4300125Jacksonbarracks.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29f41d6d3114fb29f41d7111.jpg
+    id: 19720
+    mime: image/jpeg
+    original_filename: S4300125Jacksonbarracks.JPG
+    thumb: /files/thumbnails/14fb29f41d6d3114fb29f41d7111.jpg
+    url: /files/original/14fb29f41d6d3114fb29f41d7111.jpg
+geo:
+id: 22769
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '22769'
+tags: []
+title: S4300125Jacksonbarracks.JPG
+type: items
+---

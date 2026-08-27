@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/21493
+  - /items/show/21493.html
+collections:
+  - '102'
+date: '2007-02-02 03:39:53'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0276-2-9-15.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29fe2cf7e614fb29fe2cfbcf.jpg
+    id: 18444
+    mime: image/jpeg
+    original_filename: DSC 0276-2-9-15.JPG
+    thumb: /files/thumbnails/14fb29fe2cf7e614fb29fe2cfbcf.jpg
+    url: /files/original/14fb29fe2cf7e614fb29fe2cfbcf.jpg
+geo:
+id: 21493
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '21493'
+tags: []
+title: DSC 0276-2-9-15.JPG
+type: items
+---

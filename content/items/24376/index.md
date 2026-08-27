@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/24376
+  - /items/show/24376.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: 501059-R1-24-23A.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29e8615df314fb29e86161e2.jpg
+    id: 21320
+    mime: image/jpeg
+    original_filename: 501059-R1-24-23A.jpg
+    thumb: /files/thumbnails/14fb29e8615df314fb29e86161e2.jpg
+    url: /files/original/14fb29e8615df314fb29e86161e2.jpg
+geo:
+id: 24376
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '24376'
+tags: []
+title: 501059-R1-24-23A.jpg
+type: items
+---

@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/23433
+  - /items/show/23433.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0101cameronS&R.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29ef762d9b14fb29ef7636b1.jpg
+    id: 20377
+    mime: image/jpeg
+    original_filename: DSC 0101cameronS&R.JPG
+    thumb: /files/thumbnails/14fb29ef762d9b14fb29ef7636b1.jpg
+    url: /files/original/14fb29ef762d9b14fb29ef7636b1.jpg
+geo:
+id: 23433
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '23433'
+tags: []
+title: DSC 0101cameronS&R.JPG
+type: items
+---

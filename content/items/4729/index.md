@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/4729
+  - /items/show/4729.html
+collections:
+  - '64'
+date: '2006-09-11 19:27:01'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSCN0076.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a55e2684614fb2a55e26c20.jpg
+    id: 3831
+    mime: image/jpeg
+    original_filename: DSCN0076.JPG
+    thumb: /files/thumbnails/14fb2a55e2684614fb2a55e26c20.jpg
+    url: /files/original/14fb2a55e2684614fb2a55e26c20.jpg
+geo:
+id: 4729
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2006-09-11 19:27:36'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '4729'
+tags: []
+title: DSCN0076.JPG
+type: items
+---

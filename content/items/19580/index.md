@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/19580
+  - /items/show/19580.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: S4300034zephyrfield.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0ef952d114fb2a0ef956b4.jpg
+    id: 16533
+    mime: image/jpeg
+    original_filename: S4300034zephyrfield.JPG
+    thumb: /files/thumbnails/14fb2a0ef952d114fb2a0ef956b4.jpg
+    url: /files/original/14fb2a0ef952d114fb2a0ef956b4.jpg
+geo:
+id: 19580
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '19580'
+tags: []
+title: S4300034zephyrfield.JPG
+type: items
+---

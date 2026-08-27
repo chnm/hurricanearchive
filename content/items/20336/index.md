@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20336
+  - /items/show/20336.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0002H.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a08bbfe7914fb2a08bc0251.jpg
+    id: 17289
+    mime: image/jpeg
+    original_filename: DSC 0002H.JPG
+    thumb: /files/thumbnails/14fb2a08bbfe7914fb2a08bc0251.jpg
+    url: /files/original/14fb2a08bbfe7914fb2a08bc0251.jpg
+geo:
+id: 20336
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20336'
+tags: []
+title: DSC 0002H.JPG
+type: items
+---

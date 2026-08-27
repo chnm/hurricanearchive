@@ -1,0 +1,77 @@
+{{ define "main" }}
+{{- $featured := where (where site.RegularPages "Type" "items") "Params.featured" true -}}
+{{- $featImgs := slice -}}
+{{- range (where $featured "Params.item_type" "Still Image") -}}
+  {{- if gt (len .Params.files) 0 -}}{{- $featImgs = $featImgs | append . -}}{{- end -}}
+{{- end -}}
+{{- $stories := first 2 (where $featured "Params.item_type" "Document") -}}
+
+	<div id="home" class="primary">
+		<h2>Featured Image</h2>
+		<div id="featured-item">
+			{{- with $featImgs }}
+				{{- $first := index . 0 }}
+				{{- $f := index $first.Params.files 0 }}
+				<a id="featured-link" href="{{ $first.RelPermalink }}"><img id="featured-img" src="{{ or $f.fullsize $f.url }}" alt="{{ $f.original_filename }}" title="{{ $f.original_filename }}"></a>
+				<h4 id="featured-title">{{ $first.Title }}</h4>
+				{{- /* Pick a random featured image per page load, matching the original Omeka random_featured_item().
+				       The first image is rendered server-side so no-JS clients and crawlers still get a valid one. */}}
+				{{- $data := slice }}
+				{{- range . }}{{ $df := index .Params.files 0 }}{{ $data = $data | append (dict "href" .RelPermalink "src" (or $df.fullsize $df.url) "title" .Title "alt" $df.original_filename) }}{{ end }}
+				<script type="application/json" id="featured-data">{{ $data | jsonify | safeJS }}</script>
+				<script>
+				(function () {
+					var el = document.getElementById('featured-data');
+					if (!el) return;
+					var items = JSON.parse(el.textContent || '[]');
+					if (items.length < 2) return;
+					var pick = items[Math.floor(Math.random() * items.length)];
+					var link = document.getElementById('featured-link');
+					var img = document.getElementById('featured-img');
+					var title = document.getElementById('featured-title');
+					if (link) link.href = pick.href;
+					if (img) { img.src = pick.src; img.alt = pick.alt; img.title = pick.alt; }
+					if (title) title.textContent = pick.title;
+				})();
+				</script>
+			{{- end }}
+		</div>
+		<div id="explanation">
+			<p>We welcome contributions from survivors, first responders, relief workers, family, friends, and anyone with reflections on the hurricanes and their aftermath</p>
+			<a href="{{ "contributionphase/" | relURL }}">Add to the Archive</a>
+		</div>
+	</div>
+
+	<div id="home" class="secondary">
+		<h2>Featured Stories</h2>
+		{{ range $stories }}
+			{{ $desc := "" }}
+			{{ with .Params.dublin_core.Description }}{{ $desc = (index . 0).text }}{{ end }}
+			{{ $desc = $desc | plainify | replaceRE `\\[rnt]` " " | replaceRE `\s+` " " }}
+			<div class="story">
+				<p>&#8220;{{ $desc | truncate 280 "" }}&#8221; <a href="{{ .RelPermalink }}">More...</a></p>
+			</div>
+		{{ end }}
+	</div>
+
+	<div id="home" class="tertiary">
+		<h2>Browse</h2>
+		<div class="browse-links">
+			<ul>
+				<li class="nav-images"><a href="{{ "items/image/" | relURL }}">Images</a></li>
+				<li class="nav-stories"><a href="{{ "items/story/" | relURL }}">Stories</a></li>
+				<li class="nav-oral-histories"><a href="{{ "items/oral-history/" | relURL }}">Oral Histories</a></li>
+				<li class="nav-video"><a href="{{ "items/video/" | relURL }}">Video</a></li>
+			</ul>
+		</div>
+		<h2>Map</h2>
+		<div class="map">
+			<a href="{{ "map/" | relURL }}"><img src="{{ "themes/hurricane/images/map.jpg" | relURL }}" alt="Map"></a>
+		</div>
+		<h2>Tags</h2>
+		<div class="tags">
+			{{ $tags := first 8 site.Taxonomies.tags.ByCount }}
+			{{ range $i, $t := $tags }}{{ if $i }}, {{ end }}<a href="{{ $t.Page.RelPermalink }}" rel="tag">{{ $t.Page.Title }}</a>{{ end }}
+		</div>
+	</div>
+{{ end }}

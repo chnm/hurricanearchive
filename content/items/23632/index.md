@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/23632
+  - /items/show/23632.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: P1010073empireS&R.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29ee59a86c14fb29ee59ac52.jpg
+    id: 20576
+    mime: image/jpeg
+    original_filename: P1010073empireS&R.JPG
+    thumb: /files/thumbnails/14fb29ee59a86c14fb29ee59ac52.jpg
+    url: /files/original/14fb29ee59a86c14fb29ee59ac52.jpg
+geo:
+id: 23632
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '23632'
+tags: []
+title: P1010073empireS&R.JPG
+type: items
+---

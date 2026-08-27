@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/21982
+  - /items/show/21982.html
+collections:
+  - '102'
+date: '2007-02-02 03:39:53'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: Picture 313-J2.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29faa10fc014fb29faa1139c.jpg
+    id: 18933
+    mime: image/jpeg
+    original_filename: Picture 313-J2.jpg
+    thumb: /files/thumbnails/14fb29faa10fc014fb29faa1139c.jpg
+    url: /files/original/14fb29faa10fc014fb29faa1139c.jpg
+geo:
+id: 21982
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '21982'
+tags: []
+title: Picture 313-J2.jpg
+type: items
+---

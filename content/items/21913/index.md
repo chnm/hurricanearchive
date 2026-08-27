@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/21913
+  - /items/show/21913.html
+collections:
+  - '102'
+date: '2007-02-02 03:39:53'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: UNO - South Side of Campus.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29fb09535314fb29fb095710.jpg
+    id: 18864
+    mime: image/jpeg
+    original_filename: UNO - South Side of Campus.jpg
+    thumb: /files/thumbnails/14fb29fb09535314fb29fb095710.jpg
+    url: /files/original/14fb29fb09535314fb29fb095710.jpg
+geo:
+id: 21913
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '21913'
+tags: []
+title: UNO - South Side of Campus.jpg
+type: items
+---

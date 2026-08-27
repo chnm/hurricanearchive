@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/5268
+  - /items/show/5268.html
+collections:
+  - '65'
+date: '2006-09-11 19:27:01'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSCN0713.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a531965ac14fb2a53196991.jpg
+    id: 4370
+    mime: image/jpeg
+    original_filename: DSCN0713.JPG
+    thumb: /files/thumbnails/14fb2a531965ac14fb2a53196991.jpg
+    url: /files/original/14fb2a531965ac14fb2a53196991.jpg
+geo:
+id: 5268
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2006-09-11 19:30:03'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '5268'
+tags: []
+title: DSCN0713.JPG
+type: items
+---

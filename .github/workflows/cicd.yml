@@ -1,0 +1,28 @@
+name: "[hurricanearchive.org] Hugo Build, Release, Deploy"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "**"
+    paths:
+      - '**'
+      - "!.github/**"
+
+jobs:
+
+  hugo-build-release-deploy:
+    uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
+    secrets: inherit
+    with:
+      runner_labels: '["self-hosted","IncusOS"]'
+      hugo-context-root: "."
+      hugo-devl-url: "https://hurricane.dev.chnm.gmu.edu"
+      #hugo-prod-url: "https://hurricanearchive.org"
+
+      build-artifact-name: "hurricanearchive-website"
+      release-tag-name-type: "iso"
+
+      website-devl-fqdn: "hurricane.dev.chnm.gmu.edu"
+      #website-prod-fqdn: "hurricanearchive.org"
+

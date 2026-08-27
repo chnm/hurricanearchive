@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/19680
+  - /items/show/19680.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: CPL. William Thompson 067cplthompson.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0e6d6a2814fb2a0e6d6e0e.jpg
+    id: 16633
+    mime: image/jpeg
+    original_filename: CPL. William Thompson 067cplthompson.jpg
+    thumb: /files/thumbnails/14fb2a0e6d6a2814fb2a0e6d6e0e.jpg
+    url: /files/original/14fb2a0e6d6a2814fb2a0e6d6e0e.jpg
+geo:
+id: 19680
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '19680'
+tags: []
+title: CPL. William Thompson 067cplthompson.jpg
+type: items
+---

@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/23551
+  - /items/show/23551.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0175neworleansS&R.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29ef07831914fb29ef0786ff.jpg
+    id: 20495
+    mime: image/jpeg
+    original_filename: DSC 0175neworleansS&R.JPG
+    thumb: /files/thumbnails/14fb29ef07831914fb29ef0786ff.jpg
+    url: /files/original/14fb29ef07831914fb29ef0786ff.jpg
+geo:
+id: 23551
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '23551'
+tags: []
+title: DSC 0175neworleansS&R.JPG
+type: items
+---

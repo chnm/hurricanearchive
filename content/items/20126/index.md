@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20126
+  - /items/show/20126.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: Picture 223cplthompson.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0b29a47c14fb2a0b29a860.jpg
+    id: 17079
+    mime: image/jpeg
+    original_filename: Picture 223cplthompson.jpg
+    thumb: /files/thumbnails/14fb2a0b29a47c14fb2a0b29a860.jpg
+    url: /files/original/14fb2a0b29a47c14fb2a0b29a860.jpg
+geo:
+id: 20126
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20126'
+tags: []
+title: Picture 223cplthompson.jpg
+type: items
+---

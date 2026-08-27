@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/19197
+  - /items/show/19197.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: CPL. William Thompson 107.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a11eed00714fb2a11ef032a.jpg
+    id: 16150
+    mime: image/jpeg
+    original_filename: CPL. William Thompson 107.jpg
+    thumb: /files/thumbnails/14fb2a11eed00714fb2a11ef032a.jpg
+    url: /files/original/14fb2a11eed00714fb2a11ef032a.jpg
+geo:
+id: 19197
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '19197'
+tags: []
+title: CPL. William Thompson 107.jpg
+type: items
+---

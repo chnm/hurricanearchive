@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/23684
+  - /items/show/23684.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: P1010125empireS&R.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29ede7a09914fb29ede7a7f8.jpg
+    id: 20628
+    mime: image/jpeg
+    original_filename: P1010125empireS&R.JPG
+    thumb: /files/thumbnails/14fb29ede7a09914fb29ede7a7f8.jpg
+    url: /files/original/14fb29ede7a09914fb29ede7a7f8.jpg
+geo:
+id: 23684
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '23684'
+tags: []
+title: P1010125empireS&R.JPG
+type: items
+---

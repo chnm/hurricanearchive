@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20850
+  - /items/show/20850.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0132.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a02d9512114fb2a02d9551d.jpg
+    id: 17803
+    mime: image/jpeg
+    original_filename: DSC 0132.JPG
+    thumb: /files/thumbnails/14fb2a02d9512114fb2a02d9551d.jpg
+    url: /files/original/14fb2a02d9512114fb2a02d9551d.jpg
+geo:
+id: 20850
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20850'
+tags: []
+title: DSC 0132.JPG
+type: items
+---

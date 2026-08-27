@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20134
+  - /items/show/20134.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: Picture 231cplthompson.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0b1ca2e614fb2a0b1ca6ca.jpg
+    id: 17087
+    mime: image/jpeg
+    original_filename: Picture 231cplthompson.jpg
+    thumb: /files/thumbnails/14fb2a0b1ca2e614fb2a0b1ca6ca.jpg
+    url: /files/original/14fb2a0b1ca2e614fb2a0b1ca6ca.jpg
+geo:
+id: 20134
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20134'
+tags: []
+title: Picture 231cplthompson.jpg
+type: items
+---

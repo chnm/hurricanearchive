@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/25078
+  - /items/show/25078.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 1664superdome.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29e277937814fb29e2779b1a.jpg
+    id: 22022
+    mime: image/jpeg
+    original_filename: DSC 1664superdome.JPG
+    thumb: /files/thumbnails/14fb29e277937814fb29e2779b1a.jpg
+    url: /files/original/14fb29e277937814fb29e2779b1a.jpg
+geo:
+id: 25078
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '25078'
+tags: []
+title: DSC 1664superdome.JPG
+type: items
+---

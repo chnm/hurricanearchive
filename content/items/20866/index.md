@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20866
+  - /items/show/20866.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0136-2-9-15.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0293808214fb2a02938fa7.jpg
+    id: 17819
+    mime: image/jpeg
+    original_filename: DSC 0136-2-9-15.JPG
+    thumb: /files/thumbnails/14fb2a0293808214fb2a02938fa7.jpg
+    url: /files/original/14fb2a0293808214fb2a02938fa7.jpg
+geo:
+id: 20866
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20866'
+tags: []
+title: DSC 0136-2-9-15.JPG
+type: items
+---

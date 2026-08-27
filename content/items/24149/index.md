@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/24149
+  - /items/show/24149.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0021cameron2S&R.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29ea45a57914fb29ea45a95f.jpg
+    id: 21093
+    mime: image/jpeg
+    original_filename: DSC 0021cameron2S&R.JPG
+    thumb: /files/thumbnails/14fb29ea45a57914fb29ea45a95f.jpg
+    url: /files/original/14fb29ea45a57914fb29ea45a95f.jpg
+geo:
+id: 24149
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '24149'
+tags: []
+title: DSC 0021cameron2S&R.JPG
+type: items
+---

@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20468
+  - /items/show/20468.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0019-9-25.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0704f9e314fb2a0704fdc6.jpg
+    id: 17421
+    mime: image/jpeg
+    original_filename: DSC 0019-9-25.JPG
+    thumb: /files/thumbnails/14fb2a0704f9e314fb2a0704fdc6.jpg
+    url: /files/original/14fb2a0704f9e314fb2a0704fdc6.jpg
+geo:
+id: 20468
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20468'
+tags: []
+title: DSC 0019-9-25.JPG
+type: items
+---

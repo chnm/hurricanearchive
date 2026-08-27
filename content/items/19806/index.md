@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/19806
+  - /items/show/19806.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: Copy of Picture 127cplthompson.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0db1ad2014fb2a0db1b106.jpg
+    id: 16759
+    mime: image/jpeg
+    original_filename: Copy of Picture 127cplthompson.jpg
+    thumb: /files/thumbnails/14fb2a0db1ad2014fb2a0db1b106.jpg
+    url: /files/original/14fb2a0db1ad2014fb2a0db1b106.jpg
+geo:
+id: 19806
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '19806'
+tags: []
+title: Copy of Picture 127cplthompson.jpg
+type: items
+---

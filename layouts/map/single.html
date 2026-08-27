@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div id="browse" class="map">
+	<div id="heading">
+		<div class="heading">  <h2> Map </h2>
+		</div>
+	</div>
+	<p>{{ .Params.items }} geotagged items.</p>
+	<div id="map" style="height: 600px;"></div>
+</div>
+<script>
+window.addEventListener('load', function () {
+	fetch('{{ "index.geo.json" | relURL }}').then(function (r) { return r.json(); }).then(function (points) {
+		var map = L.map('map').setView([30, -90], 6);
+		L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; OpenStreetMap contributors'
+		}).addTo(map);
+		var group = L.featureGroup();
+		points.forEach(function (p) {
+			L.marker([p.lat, p.lng]).bindPopup('<a href="' + p.url + '">' + p.title + '</a>').addTo(group);
+		});
+		group.addTo(map);
+		if (points.length) { map.fitBounds(group.getBounds().pad(0.1)); }
+	});
+});
+</script>
+{{ end }}

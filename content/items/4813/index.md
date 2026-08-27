@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/4813
+  - /items/show/4813.html
+collections:
+  - '65'
+date: '2006-09-11 19:27:01'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSCN0126.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a5554f5db14fb2a5554f9c1.jpg
+    id: 3915
+    mime: image/jpeg
+    original_filename: DSCN0126.JPG
+    thumb: /files/thumbnails/14fb2a5554f5db14fb2a5554f9c1.jpg
+    url: /files/original/14fb2a5554f5db14fb2a5554f9c1.jpg
+geo:
+id: 4813
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2006-09-11 19:27:57'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '4813'
+tags: []
+title: DSCN0126.JPG
+type: items
+---

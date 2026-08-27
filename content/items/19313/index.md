@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/19313
+  - /items/show/19313.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: J2 (31).JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a1138cf5814fb2a1138d33f.jpg
+    id: 16266
+    mime: image/jpeg
+    original_filename: J2 (31).JPG
+    thumb: /files/thumbnails/14fb2a1138cf5814fb2a1138d33f.jpg
+    url: /files/original/14fb2a1138cf5814fb2a1138d33f.jpg
+geo:
+id: 19313
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '19313'
+tags: []
+title: J2 (31).JPG
+type: items
+---

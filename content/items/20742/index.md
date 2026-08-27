@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20742
+  - /items/show/20742.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0069-16.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a042bd62b14fb2a042bda10.jpg
+    id: 17695
+    mime: image/jpeg
+    original_filename: DSC 0069-16.JPG
+    thumb: /files/thumbnails/14fb2a042bd62b14fb2a042bda10.jpg
+    url: /files/original/14fb2a042bd62b14fb2a042bda10.jpg
+geo:
+id: 20742
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20742'
+tags: []
+title: DSC 0069-16.JPG
+type: items
+---

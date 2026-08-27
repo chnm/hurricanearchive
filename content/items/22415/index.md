@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/22415
+  - /items/show/22415.html
+collections:
+  - '102'
+date: '2007-02-02 03:39:53'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 1254Jacksonbarracks.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29f69a9fe214fb29f69aa605.jpg
+    id: 19366
+    mime: image/jpeg
+    original_filename: DSC 1254Jacksonbarracks.JPG
+    thumb: /files/thumbnails/14fb29f69a9fe214fb29f69aa605.jpg
+    url: /files/original/14fb29f69a9fe214fb29f69aa605.jpg
+geo:
+id: 22415
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '22415'
+tags: []
+title: DSC 1254Jacksonbarracks.JPG
+type: items
+---

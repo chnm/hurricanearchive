@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/21530
+  - /items/show/21530.html
+collections:
+  - '102'
+date: '2007-02-02 03:39:53'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0285-2-9-15.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29fdc0abca14fb29fdc0afb0.jpg
+    id: 18481
+    mime: image/jpeg
+    original_filename: DSC 0285-2-9-15.JPG
+    thumb: /files/thumbnails/14fb29fdc0abca14fb29fdc0afb0.jpg
+    url: /files/original/14fb29fdc0abca14fb29fdc0afb0.jpg
+geo:
+id: 21530
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '21530'
+tags: []
+title: DSC 0285-2-9-15.JPG
+type: items
+---

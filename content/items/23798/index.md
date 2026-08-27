@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/23798
+  - /items/show/23798.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: S4300043neworleansS&R.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29ed04b83914fb29ed04bc17.jpg
+    id: 20742
+    mime: image/jpeg
+    original_filename: S4300043neworleansS&R.JPG
+    thumb: /files/thumbnails/14fb29ed04b83914fb29ed04bc17.jpg
+    url: /files/original/14fb29ed04b83914fb29ed04bc17.jpg
+geo:
+id: 23798
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '23798'
+tags: []
+title: S4300043neworleansS&R.JPG
+type: items
+---

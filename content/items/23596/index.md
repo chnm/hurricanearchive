@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/23596
+  - /items/show/23596.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 1596neworleansS&R.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29ee92989d14fb29ee929c7b.jpg
+    id: 20540
+    mime: image/jpeg
+    original_filename: DSC 1596neworleansS&R.JPG
+    thumb: /files/thumbnails/14fb29ee92989d14fb29ee929c7b.jpg
+    url: /files/original/14fb29ee92989d14fb29ee929c7b.jpg
+geo:
+id: 23596
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '23596'
+tags: []
+title: DSC 1596neworleansS&R.JPG
+type: items
+---

@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20048
+  - /items/show/20048.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: Picture 145cplthompson.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0b910b4d14fb2a0b910f2b.jpg
+    id: 17001
+    mime: image/jpeg
+    original_filename: Picture 145cplthompson.jpg
+    thumb: /files/thumbnails/14fb2a0b910b4d14fb2a0b910f2b.jpg
+    url: /files/original/14fb2a0b910b4d14fb2a0b910f2b.jpg
+geo:
+id: 20048
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20048'
+tags: []
+title: Picture 145cplthompson.jpg
+type: items
+---

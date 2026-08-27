@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/21690
+  - /items/show/21690.html
+collections:
+  - '102'
+date: '2007-02-02 03:39:53'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: FH000017.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29fc6853e914fb29fc6857c8.jpg
+    id: 18641
+    mime: image/jpeg
+    original_filename: FH000017.jpg
+    thumb: /files/thumbnails/14fb29fc6853e914fb29fc6857c8.jpg
+    url: /files/original/14fb29fc6853e914fb29fc6857c8.jpg
+geo:
+id: 21690
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '21690'
+tags: []
+title: FH000017.jpg
+type: items
+---

@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/23882
+  - /items/show/23882.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: flagneworleansS&R.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29eca0ae3d14fb29eca0b223.jpg
+    id: 20826
+    mime: image/jpeg
+    original_filename: flagneworleansS&R.jpg
+    thumb: /files/thumbnails/14fb29eca0ae3d14fb29eca0b223.jpg
+    url: /files/original/14fb29eca0ae3d14fb29eca0b223.jpg
+geo:
+id: 23882
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '23882'
+tags: []
+title: flagneworleansS&R.jpg
+type: items
+---

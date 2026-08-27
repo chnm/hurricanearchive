@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div id="primary">
+	<h1>{{ .Title }}</h1>
+	{{ partial "original-source.html" . }}
+	{{ .Content }}
+</div>
+{{ end }}

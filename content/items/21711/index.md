@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/21711
+  - /items/show/21711.html
+collections:
+  - '102'
+date: '2007-02-02 03:39:53'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: P1010013.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29fc50cbb214fb29fc50cf99.jpg
+    id: 18662
+    mime: image/jpeg
+    original_filename: P1010013.JPG
+    thumb: /files/thumbnails/14fb29fc50cbb214fb29fc50cf99.jpg
+    url: /files/original/14fb29fc50cbb214fb29fc50cf99.jpg
+geo:
+id: 21711
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '21711'
+tags: []
+title: P1010013.JPG
+type: items
+---

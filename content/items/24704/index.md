@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/24704
+  - /items/show/24704.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: 501055-R1-06-5Asuperdome.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29e577af7114fb29e577b540.jpg
+    id: 21648
+    mime: image/jpeg
+    original_filename: 501055-R1-06-5Asuperdome.jpg
+    thumb: /files/thumbnails/14fb29e577af7114fb29e577b540.jpg
+    url: /files/original/14fb29e577af7114fb29e577b540.jpg
+geo:
+id: 24704
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '24704'
+tags: []
+title: 501055-R1-06-5Asuperdome.jpg
+type: items
+---

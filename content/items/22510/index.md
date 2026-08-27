@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/22510
+  - /items/show/22510.html
+collections:
+  - '102'
+date: '2007-02-02 03:39:53'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 1351Jacksonbarracks.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29f5c2c1eb14fb29f5c2c5d0.jpg
+    id: 19461
+    mime: image/jpeg
+    original_filename: DSC 1351Jacksonbarracks.JPG
+    thumb: /files/thumbnails/14fb29f5c2c1eb14fb29f5c2c5d0.jpg
+    url: /files/original/14fb29f5c2c1eb14fb29f5c2c5d0.jpg
+geo:
+id: 22510
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '22510'
+tags: []
+title: DSC 1351Jacksonbarracks.JPG
+type: items
+---

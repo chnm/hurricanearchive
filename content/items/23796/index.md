@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/23796
+  - /items/show/23796.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: PuppystbernardparishS&R.bmp
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29ed05d17214fb29ed05d548.jpg
+    id: 20740
+    mime: image/x-ms-bmp
+    original_filename: PuppystbernardparishS&R.bmp
+    thumb: /files/thumbnails/14fb29ed05d17214fb29ed05d548.jpg
+    url: /files/original/14fb29ed05d17214fb29ed05d548.jpg
+geo:
+id: 23796
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '23796'
+tags: []
+title: PuppystbernardparishS&R.bmp
+type: items
+---

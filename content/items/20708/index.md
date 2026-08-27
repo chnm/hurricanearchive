@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20708
+  - /items/show/20708.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0062-2-9-26.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a04cd749f14fb2a04cd7883.jpg
+    id: 17661
+    mime: image/jpeg
+    original_filename: DSC 0062-2-9-26.JPG
+    thumb: /files/thumbnails/14fb2a04cd749f14fb2a04cd7883.jpg
+    url: /files/original/14fb2a04cd749f14fb2a04cd7883.jpg
+geo:
+id: 20708
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20708'
+tags: []
+title: DSC 0062-2-9-26.JPG
+type: items
+---

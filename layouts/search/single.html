@@ -1,0 +1,34 @@
+{{ define "main" }}
+{{- /* Static search results, backed by the pagefind index built in the
+       Docker image (/pagefind/*). Mirrors the legacy Omeka behaviour: a
+       keyword box whose results render as the same thumbnail+title cards as
+       the browse pages. The header search form GETs ?q= to this page. */ -}}
+<div id="items-heading">
+	<div class="heading">  <h2> Search </h2>
+		{{- /* Item-type facet bar — same tabs/classes as items-nav so it matches
+		       the browse pages, but these filter the current query in place
+		       (wired up + live counts injected by search.js). data-type holds the
+		       Omeka item_type stored in the pagefind "type" filter. */ -}}
+		<ul class="navigation" id="search-filters" hidden>
+			<li class="nav-all-items" data-type=""><a href="#"><span class="lbl">All Items</span> <span class="cnt"></span></a></li>
+			<li class="nav-images" data-type="Still Image"><a href="#"><span class="lbl">Images</span> <span class="cnt"></span></a></li>
+			<li class="nav-stories" data-type="Document"><a href="#"><span class="lbl">Stories</span> <span class="cnt"></span></a></li>
+			<li class="nav-oral-histories" data-type="Oral History"><a href="#"><span class="lbl">Oral Histories</span> <span class="cnt"></span></a></li>
+			<li class="nav-video" data-type="Moving Image"><a href="#"><span class="lbl">Video</span> <span class="cnt"></span></a></li>
+		</ul>
+	</div>
+</div>
+
+<div id="search-page">
+	{{- /* No dedicated search box here: the always-present header search form
+	       (#search-form) is the input. search.js intercepts its submit on this
+	       page for in-place results; on every other page it GETs ?q= here. */ -}}
+	<p id="search-status" aria-live="polite"></p>
+	<div id="items-primary" class="search-results"></div>
+	<div id="search-more"></div>
+</div>
+
+{{ with resources.Get "js/search.js" }}
+<script type="module" src="{{ .RelPermalink }}"></script>
+{{ end }}
+{{ end }}

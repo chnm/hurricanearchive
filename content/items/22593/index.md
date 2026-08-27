@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/22593
+  - /items/show/22593.html
+collections:
+  - '102'
+date: '2007-02-02 03:39:53'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: IMG 0544Jacksonbarracks.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29f522e14414fb29f522e487.jpg
+    id: 19544
+    mime: image/jpeg
+    original_filename: IMG 0544Jacksonbarracks.JPG
+    thumb: /files/thumbnails/14fb29f522e14414fb29f522e487.jpg
+    url: /files/original/14fb29f522e14414fb29f522e487.jpg
+geo:
+id: 22593
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '22593'
+tags: []
+title: IMG 0544Jacksonbarracks.JPG
+type: items
+---

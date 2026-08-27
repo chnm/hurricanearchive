@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/19484
+  - /items/show/19484.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: Picture 044engineers.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0fc5a13e14fb2a0fc5a523.jpg
+    id: 16437
+    mime: image/jpeg
+    original_filename: Picture 044engineers.jpg
+    thumb: /files/thumbnails/14fb2a0fc5a13e14fb2a0fc5a523.jpg
+    url: /files/original/14fb2a0fc5a13e14fb2a0fc5a523.jpg
+geo:
+id: 19484
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '19484'
+tags: []
+title: Picture 044engineers.jpg
+type: items
+---

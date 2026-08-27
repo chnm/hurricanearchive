@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20158
+  - /items/show/20158.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: Picture 255cplthompson.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0b032a7314fb2a0b032e59.jpg
+    id: 17111
+    mime: image/jpeg
+    original_filename: Picture 255cplthompson.jpg
+    thumb: /files/thumbnails/14fb2a0b032a7314fb2a0b032e59.jpg
+    url: /files/original/14fb2a0b032a7314fb2a0b032e59.jpg
+geo:
+id: 20158
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20158'
+tags: []
+title: Picture 255cplthompson.jpg
+type: items
+---

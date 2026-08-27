@@ -1,0 +1,65 @@
+/* Thin override layered on top of the vendored legacy "hurricane" theme stylesheet
+   (themes/hurricane/css/style.css). Keep this minimal: the legacy sheet drives the look.
+   Only fixes for elements that differ between the dynamic Omeka site and this static build. */
+
+/* Browse grids: contain the floated cards so the panel background renders. */
+#items-primary,
+#items-heading,
+#collections,
+.popularity { overflow: hidden; }
+
+#collection-items { clear: both; }
+
+/* Leaflet map containers (item geolocation + map browse page). */
+.leaflet-container { background: #ddd; }
+#geolocation .geolocation-map,
+#map { max-width: 100%; }
+
+/* Archived-copy notice banner. Structure adapted from eec.dev.chnm.gmu.edu;
+   recolored to the hurricane palette: navy link blue (#369) with a sage-green
+   (#c6d6c2) nav-accent border and off-white (#f7f7f7) panel text.
+   The bar is full-bleed across the viewport (breaking out of the 1066px body
+   column); its content stays aligned to that column via the __inner wrapper. */
+/* The 100vw full-bleed banner can poke ~1 scrollbar-width past the content box
+   on platforms with classic (non-overlay) scrollbars. Clip it at the root.
+   overflow-x: clip (not hidden) does not form a scroll container, so the
+   banner's position: sticky keeps working. */
+html { overflow-x: clip; }
+.hdmb-archive-banner {
+	box-sizing: border-box;
+	width: 100vw;
+	margin-left: calc(50% - 50vw);
+	margin-right: calc(50% - 50vw);
+	background-color: #336699;
+	color: #f7f7f7;
+	border-bottom: 3px solid #c6d6c2;
+	font: 12px Verdana, Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+	position: sticky;
+	top: 0;
+	z-index: 9999;
+}
+.hdmb-archive-banner__inner {
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	max-width: 1066px;
+	margin: 0 auto;
+	padding: 8px 12px;
+}
+.hdmb-archive-banner__logo {
+	display: inline-block;
+	flex-shrink: 0;
+	width: 31px;
+	height: 30px;
+	margin-right: 15px;
+	background: #f7f7f7 url("/assets/rrchnm_logo.png") center center / contain no-repeat;
+	border-radius: 3px;
+}
+.hdmb-archive-banner a { color: #f7f7f7; text-decoration: underline; }
+.hdmb-archive-banner a:hover { color: #fff; }
+
+/* dev-only "View original" link (development environment) */
+.dev-source-link { margin: 0.25em 0 1em; font-size: 0.85em; }
+.dev-source-link a { display: inline-block; padding: 0.15em 0.6em; border: 1px dashed #c9a227; border-radius: 4px; background: #fffbe6; color: #8a6d00; text-decoration: none; }
+.dev-source-link a:hover { background: #fff3bf; }

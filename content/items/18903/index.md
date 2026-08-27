@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/18903
+  - /items/show/18903.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0253downtownnola.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a14726b3f14fb2a14726e5b.jpg
+    id: 15856
+    mime: image/jpeg
+    original_filename: DSC 0253downtownnola.JPG
+    thumb: /files/thumbnails/14fb2a14726b3f14fb2a14726e5b.jpg
+    url: /files/original/14fb2a14726b3f14fb2a14726e5b.jpg
+geo:
+id: 18903
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '18903'
+tags: []
+title: DSC 0253downtownnola.JPG
+type: items
+---

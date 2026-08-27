@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/18846
+  - /items/show/18846.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0066ninthwardnola.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a14f1976c14fb2a14f19b52.jpg
+    id: 15799
+    mime: image/jpeg
+    original_filename: DSC 0066ninthwardnola.JPG
+    thumb: /files/thumbnails/14fb2a14f1976c14fb2a14f19b52.jpg
+    url: /files/original/14fb2a14f1976c14fb2a14f19b52.jpg
+geo:
+id: 18846
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '18846'
+tags: []
+title: DSC 0066ninthwardnola.JPG
+type: items
+---

@@ -1,0 +1,43 @@
+---
+aliases:
+  - /items/show/3482
+  - /items/show/3482.html
+collections:
+  - '52'
+date: '2006-08-24 16:01:55'
+draft: false
+dublin_core:
+  Description:
+    - html: false
+      text: Two enormous trees fell between these two houses.
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: P1010056.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a5b88fd6514fb2a5b89014b.jpg
+    id: 2903
+    mime: image/jpeg
+    original_filename: P1010056.JPG
+    thumb: /files/thumbnails/14fb2a5b88fd6514fb2a5b89014b.jpg
+    url: /files/original/14fb2a5b88fd6514fb2a5b89014b.jpg
+geo:
+id: 3482
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2006-09-20 18:54:51'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '3482'
+tags: []
+title: P1010056.JPG
+type: items
+---
+
+{{< raw >}}
+Two enormous trees fell between these two houses.
+{{< /raw >}}

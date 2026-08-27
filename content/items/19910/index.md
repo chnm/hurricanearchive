@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/19910
+  - /items/show/19910.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: Picture 006cplthompson.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0caaea0e14fb2a0caaf7e4.jpg
+    id: 16863
+    mime: image/jpeg
+    original_filename: Picture 006cplthompson.jpg
+    thumb: /files/thumbnails/14fb2a0caaea0e14fb2a0caaf7e4.jpg
+    url: /files/original/14fb2a0caaea0e14fb2a0caaf7e4.jpg
+geo:
+id: 19910
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '19910'
+tags: []
+title: Picture 006cplthompson.jpg
+type: items
+---

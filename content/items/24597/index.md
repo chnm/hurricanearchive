@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/24597
+  - /items/show/24597.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0124-2-9-26.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29e643c7da14fb29e643cbc0.jpg
+    id: 21541
+    mime: image/jpeg
+    original_filename: DSC 0124-2-9-26.JPG
+    thumb: /files/thumbnails/14fb29e643c7da14fb29e643cbc0.jpg
+    url: /files/original/14fb29e643c7da14fb29e643cbc0.jpg
+geo:
+id: 24597
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '24597'
+tags: []
+title: DSC 0124-2-9-26.JPG
+type: items
+---

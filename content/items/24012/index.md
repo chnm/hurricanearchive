@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/24012
+  - /items/show/24012.html
+collections:
+  - '102'
+date: '2007-02-02 19:50:07'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: 09280014plaqueminesparishS&R.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29ebf078c814fb29ebf07cad.jpg
+    id: 20956
+    mime: image/jpeg
+    original_filename: 09280014plaqueminesparishS&R.JPG
+    thumb: /files/thumbnails/14fb29ebf078c814fb29ebf07cad.jpg
+    url: /files/original/14fb29ebf078c814fb29ebf07cad.jpg
+geo:
+id: 24012
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:09:05'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '24012'
+tags: []
+title: 09280014plaqueminesparishS&R.JPG
+type: items
+---

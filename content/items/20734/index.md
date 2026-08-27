@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20734
+  - /items/show/20734.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSC 0067-9-25.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0432735e14fb2a0432c385.jpg
+    id: 17687
+    mime: image/jpeg
+    original_filename: DSC 0067-9-25.JPG
+    thumb: /files/thumbnails/14fb2a0432735e14fb2a0432c385.jpg
+    url: /files/original/14fb2a0432735e14fb2a0432c385.jpg
+geo:
+id: 20734
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20734'
+tags: []
+title: DSC 0067-9-25.JPG
+type: items
+---

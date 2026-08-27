@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/30766
+  - /items/show/30766.html
+collections:
+  - '169'
+date: '2007-07-27 15:39:30'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DCP 7647.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29cc8f256c14fb29cc8f294a.jpg
+    id: 23866
+    mime: image/jpeg
+    original_filename: DCP 7647.JPG
+    thumb: /files/thumbnails/14fb29cc8f256c14fb29cc8f294a.jpg
+    url: /files/original/14fb29cc8f256c14fb29cc8f294a.jpg
+geo:
+id: 30766
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-07-27 15:42:36'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '30766'
+tags: []
+title: DCP 7647.JPG
+type: items
+---

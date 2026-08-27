@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/20183
+  - /items/show/20183.html
+collections:
+  - '102'
+date: '2007-02-01 21:27:41'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: Copy (2) of DSC 0020.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a0ae6b2db14fb2a0ae6ba55.jpg
+    id: 17136
+    mime: image/jpeg
+    original_filename: Copy (2) of DSC 0020.JPG
+    thumb: /files/thumbnails/14fb2a0ae6b2db14fb2a0ae6ba55.jpg
+    url: /files/original/14fb2a0ae6b2db14fb2a0ae6ba55.jpg
+geo:
+id: 20183
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '20183'
+tags: []
+title: Copy (2) of DSC 0020.JPG
+type: items
+---

@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/5037
+  - /items/show/5037.html
+collections:
+  - '65'
+date: '2006-09-11 19:27:01'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: DSCN0382.JPG
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb2a545015a914fb2a54501986.jpg
+    id: 4139
+    mime: image/jpeg
+    original_filename: DSCN0382.JPG
+    thumb: /files/thumbnails/14fb2a545015a914fb2a54501986.jpg
+    url: /files/original/14fb2a545015a914fb2a54501986.jpg
+geo:
+id: 5037
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2006-09-11 19:28:59'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '5037'
+tags: []
+title: DSCN0382.JPG
+type: items
+---

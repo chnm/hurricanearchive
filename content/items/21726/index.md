@@ -1,0 +1,36 @@
+---
+aliases:
+  - /items/show/21726
+  - /items/show/21726.html
+collections:
+  - '102'
+date: '2007-02-02 03:39:53'
+draft: false
+dublin_core:
+  Language:
+    - html: false
+      text: eng
+  Title:
+    - html: false
+      text: Picture3.png
+featured: false
+files:
+  - fullsize: /files/fullsize/14fb29fc29a3f014fb29fc29a7d7.jpg
+    id: 18677
+    mime: image/png
+    original_filename: Picture3.png
+    thumb: /files/thumbnails/14fb29fc29a3f014fb29fc29a7d7.jpg
+    url: /files/original/14fb29fc29a3f014fb29fc29a7d7.jpg
+geo:
+id: 21726
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2007-02-05 15:08:14'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '21726'
+tags: []
+title: Picture3.png
+type: items
+---
