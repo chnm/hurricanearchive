@@ -18,11 +18,11 @@ jobs:
       runner_labels: '["self-hosted","IncusOS"]'
       hugo-context-root: "."
       hugo-devl-url: "https://hurricane.dev.chnm.gmu.edu"
-      #hugo-prod-url: "https://hurricanearchive.org"
+      hugo-prod-url: "https://hurricanearchive.org"
 
       build-artifact-name: "hurricanearchive-website"
       release-tag-name-type: "iso"
 
       website-devl-fqdn: "hurricane.dev.chnm.gmu.edu"
-      #website-prod-fqdn: "hurricanearchive.org"
+      website-prod-fqdn: "hurricanearchive.org"
 
