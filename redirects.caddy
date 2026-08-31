@@ -1,0 +1,35 @@
+# redirects.caddy — Legacy Omeka Classic path -> native Hugo path (301).
+#
+# Modeled on chnm/911digitalarchive. Imported into the site's Caddy fragment at
+# deploy time (see Dockerfile: `import /srv/redirects.caddy`). On the CHNM deploy
+# path the container Caddyfile is discarded — the pipeline extracts /srv and the
+# target host's Caddy imports this file from the deployed content root — so the
+# Dockerfile copies it into /srv.
+#
+# Caddy `map` keys on {path} only, so legacy query-string variants collapse to
+# their base-path target: e.g. /items/browse?tags=Katrina and
+# /items/browse?collection=10 both -> /items/ (the collection itself is at
+# /collections/10/, reachable from /collections/show/10; individual tags live at
+# /tags/<slug>/, reachable from the /tags/ cloud). Per-item and per-collection
+# moves are single regex keys (both slash variants + the optional .html wget
+# suffix), not one line per record.
+#
+# /files/* (images, PDFs, audio) is served by the fronting web server, not here.
+
+map {path} {redirect_target} {
+	default ""
+	~^/items/show/([0-9]+)(?:\.html)?/?$        /items/${1}/
+	~^/collections/show/([0-9]+)(?:\.html)?/?$  /collections/${1}/
+	/items                    /items/
+	/items/browse             /items/
+	/items/browse/            /items/
+	/items/tags               /tags/
+	/items/search             /search/
+	/collections              /collections/
+	/collections/browse       /collections/
+	/collections/browse/      /collections/
+	/geolocation/map/browse   /map/
+	/geolocation/map          /map/
+}
+@hasRedirect expression `{redirect_target} != ""`
+redir @hasRedirect {redirect_target} 301

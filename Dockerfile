@@ -26,6 +26,13 @@ FROM stagex/user-caddy
 
 COPY --from=stagex/core-musl / /
 COPY --from=build-stage /app/public /srv
+# Legacy-URL 301s (map {path} fragment). On the CHNM deploy path this container's
+# Caddyfile is discarded — the pipeline extracts /srv and the target host's Caddy
+# imports redirects.caddy from the deployed content root. So it MUST live inside
+# /srv; anywhere else and it's absent from the release artifact and every legacy
+# URL 404s. Landing it at /srv/redirects.caddy also gives `docker run` local-dev
+# parity below.
+COPY --from=build-stage /app/redirects.caddy /srv/redirects.caddy
 
 COPY <<'EOF' /etc/caddy/Caddyfile
 {
@@ -36,6 +43,11 @@ COPY <<'EOF' /etc/caddy/Caddyfile
 :80 {
 	root * /srv
 	encode gzip zstd
+
+	# Legacy Omeka URL redirects (301s). Kept first so they win before
+	# file_server. /files/* is intentionally absent — the fronting web server
+	# serves media from the file store.
+	import /srv/redirects.caddy
 
 	# Backward compatibility: /img/* serves from /assets/img/*
 	rewrite /img/* /assets{uri}
