@@ -20,7 +20,6 @@ jobs:
       hugo-devl-url: "https://hurricane.dev.chnm.gmu.edu"
       hugo-prod-url: "https://hurricanearchive.org"
 
-      build-artifact-name: "hurricanearchive-website"
       release-tag-name-type: "iso"
 
       website-devl-fqdn: "hurricane.dev.chnm.gmu.edu"
