@@ -4,11 +4,12 @@
 {{ partial "head.html" . }}
 </head>
 <body{{ with .Params.bodyid }} id="{{ . }}"{{ end }}>
+<a class="skip-link" href="#content">Skip to main content</a>
 {{ partial "archive-banner.html" . }}
 {{ partial "header.html" . }}
-<div id="content">
+<main id="content" tabindex="-1">
 {{ block "main" . }}{{ end }}
-</div>
+</main>
 {{ partial "footer.html" . }}
 </body>
 </html>

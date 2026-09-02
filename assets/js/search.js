@@ -60,9 +60,12 @@ function cardHTML(d) {
   const title = (d.meta && d.meta.title) || d.url || 'Untitled';
   const img = d.meta && d.meta.image;
   if (img) {
+    // The thumbnail's alt is intentionally empty (descriptive alt for item
+    // images is out of scope); give the image-only link an accessible name from
+    // the item title so it isn't an unlabelled link (WCAG 2.4.4 / 4.1.2).
     return (
       '<div class="item hentry"><div class="item-meta"><div class="item-img">' +
-      '<a href="' + escapeHtml(url) + '"><img src="' + escapeHtml(img) + '" alt="" loading="lazy"></a>' +
+      '<a href="' + escapeHtml(url) + '" aria-label="' + escapeHtml(title) + '"><img src="' + escapeHtml(img) + '" alt="" loading="lazy"></a>' +
       '<p><a href="' + escapeHtml(url) + '">' + escapeHtml(truncate(title, 20)) + '</a></p>' +
       '</div></div></div>'
     );

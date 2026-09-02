@@ -69,10 +69,12 @@
 		{{ end }}
 	</div>
 
-	<div id="pagination-bottom" class="pagination" data-pagefind-ignore>
+	<nav id="pagination-bottom" class="pagination" data-pagefind-ignore aria-label="Item">
+		<ul>
 		{{ with .PrevInSection }}<li id="previous-item" class="previous"><a href="{{ .RelPermalink }}">Previous Item</a></li>{{ end }}
 		{{ with .NextInSection }}<li id="next-item" class="next"><a href="{{ .RelPermalink }}">Next Item</a></li>{{ end }}
-	</div>
+		</ul>
+	</nav>
 </div>
 </div>
 {{ end }}
