@@ -28,8 +28,13 @@ html { overflow-x: clip; }
 .hdmb-archive-banner {
 	box-sizing: border-box;
 	width: 100vw;
-	margin-left: calc(50% - 50vw);
-	margin-right: calc(50% - 50vw);
+	/* Full-bleed break-out. The `50%` resolves against the fixed 1066px body, so
+	   below ~1066px viewports `50% - 50vw` turns positive and would shove the bar
+	   right (leaving a gap on the left and clipping it on the right). Clamp with
+	   min(0px, …) so the margin is only ever negative: full-bleed on wide screens,
+	   flush to the viewport's left edge (full visible width) on narrow ones. */
+	margin-left: min(0px, calc(50% - 50vw));
+	margin-right: min(0px, calc(50% - 50vw));
 	background-color: #336699;
 	color: #f7f7f7;
 	border-bottom: 3px solid #c6d6c2;
