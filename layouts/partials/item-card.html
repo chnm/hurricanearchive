@@ -9,13 +9,13 @@
 		<div class="item-img">
 			{{- $sq := replace (or $img.thumb $img.fullsize $img.url) "/thumbnails/" "/square_thumbnails/" }}
 			<a href="{{ .RelPermalink }}"><img src="{{ $sq }}" alt="{{ or (index ($img.alt | default dict) "en") $title }}"></a>
-			<p><a href="{{ .RelPermalink }}">{{ $title | truncate 20 "…" }}</a></p>
+			<p><a class="item-card-title" href="{{ .RelPermalink }}">{{ $title }}</a></p>
 		</div>
 		{{- else }}
 		<div class="browse-item-description">
-			<h5><a href="{{ .RelPermalink }}">{{ $title }}</a></h5>
+			<h2 class="item-card-heading"><a href="{{ .RelPermalink }}">{{ $title }}</a></h2>
 		</div>
-		<p><a href="{{ .RelPermalink }}">{{ $title | truncate 20 "…" }}</a></p>
+		<p><a class="item-card-title" href="{{ .RelPermalink }}">{{ $title }}</a></p>
 		{{- end }}
 	</div><!-- end class="item-meta" -->
 </div><!-- end class="item hentry" -->

@@ -13,7 +13,7 @@
 				{{- $first := index . 0 }}
 				{{- $f := index $first.Params.files 0 }}
 				<a id="featured-link" href="{{ $first.RelPermalink }}"><img id="featured-img" src="{{ or $f.fullsize $f.url }}" alt="{{ or (index ($f.alt | default dict) "en") (partial "item-title.html" $first) }}"></a>
-				<h4 id="featured-title">{{ partial "item-title.html" $first }}</h4>
+				<h3 id="featured-title">{{ partial "item-title.html" $first }}</h3>
 				{{- /* Pick a random featured image per page load, matching the original Omeka random_featured_item().
 				       The first image is rendered server-side so no-JS clients and crawlers still get a valid one. */}}
 				{{- $data := slice }}

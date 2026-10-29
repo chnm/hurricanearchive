@@ -2,7 +2,7 @@
 {{ $items := .RegularPages }}
 {{ $paginator := .Paginate $items }}
 <div id="items-heading">
-	<div class="heading">  <h2> Items ({{ len $items }} total) </h2>
+	<div class="heading">  <h1> Items ({{ len $items }} total) </h1>
 		{{ partial "items-nav.html" "all" }}
 	</div>
 </div>

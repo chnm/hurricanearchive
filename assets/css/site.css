@@ -63,3 +63,68 @@ html { overflow-x: clip; }
 .dev-source-link { margin: 0.25em 0 1em; font-size: 0.85em; }
 .dev-source-link a { display: inline-block; padding: 0.15em 0.6em; border: 1px dashed #c9a227; border-radius: 4px; background: #fffbe6; color: #8a6d00; text-decoration: none; }
 .dev-source-link a:hover { background: #fff3bf; }
+
+/* ===========================================================================
+   Accessibility (WCAG 2.2 AA) overrides (chnm/sustainability#140). They depart
+   from the legacy palette where it fails AA.
+   =========================================================================== */
+
+/* 1.4.3 Contrast: the theme's #369 link is 3.26-4.31:1 on its blue, slate and
+   sage panels. #204a73 is at least 4.99:1 on all of them. */
+a:link, a:visited, a:hover, a:active, a:focus { color: #204a73; }
+
+/* 1.4.1 Use of Color: underline links that sit in running text. */
+.blurb p a, #content p a, #content li a, .element-text a, #footer a, #explanation a {
+	text-decoration: underline;
+}
+#content .item-meta a, #content .pagination a, #content .navigation a { text-decoration: none; }
+
+/* 2.4.1 Bypass Blocks: skip link, visible on focus. */
+#skipnav { position: absolute; left: -9999px; top: 0; z-index: 10000; padding: 8px 12px; background: #fff; color: #204a73; font-size: 1.2em; }
+#skipnav:focus { left: 8px; top: 8px; }
+#content:focus { outline: none; }
+
+/* The header tagline is an <h1> only on the home page; keep its look elsewhere. */
+.blurb .blurb-title { font: 1.9em Optima, Verdana, sans-serif; padding: 10px 0 0; margin: 0; }
+.heading h1 { font-size: 1.8em; }
+
+/* 2.5.8 Target Size: search button, pager and card title links at least 24px tall. */
+#submit_search { min-height: 24px; }
+.pagination a, .pagination li.pagination_current { display: inline-block; min-width: 24px; min-height: 24px; line-height: 24px; box-sizing: border-box; text-align: center; }
+/* Card titles were cut to 20 characters in the markup; show the full title to
+   assistive tech and clip it visually instead. */
+a.item-card-title { display: block; min-height: 24px; line-height: 24px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* Keep the banner's light links after the global link color above. */
+.hdmb-archive-banner a:link, .hdmb-archive-banner a:visited, .hdmb-archive-banner a:hover { color: #f7f7f7; }
+.leaflet-container .leaflet-control-attribution a { text-decoration: underline; }
+
+/* Headings re-leveled for order (card h5 -> h2, featured h4 -> h3); keep the old look. */
+.item-meta h2.item-card-heading { background: #fff; font-weight: normal; font-size: 1.22em; padding: 5px; height: 163px; overflow: hidden; }
+#home h3#featured-title { font-size: 1.2em; padding-left: 18px; font-style: italic; background: #fff; }
+
+/* 1.4.10 Reflow: the legacy theme is a fixed 1066px column. Below that, let the
+   columns take the window width and stack, so nothing scrolls sideways at 320px. */
+@media (max-width: 1080px) {
+	body { width: auto; }
+	#header, #content, #primary, #tertiary, #wrap, #map-contents, #featured-content,
+	#home.primary, #home.secondary, #home.tertiary, #featured-blurb, #addyourphotos a {
+		float: none; width: auto; max-width: 100%; box-sizing: border-box; margin-left: 0; margin-right: 0;
+	}
+	#featured-item img, #main-image img, .item-file img { max-width: 100%; height: auto; box-sizing: border-box; }
+	#main-image a img { margin-right: 0; width: auto; height: auto; }
+	#featured-blurb { height: auto; }
+	.hdmb-logo { float: none; }
+	.hdmb-logo a { margin: 0 auto; }
+	.blurb { padding: 0; margin: 10px 0 0; }
+	.search { float: none; width: auto; height: auto; margin: 10px 0; }
+	.search-clear { display: none; }
+	ul#mainnav { overflow: hidden; }
+	#browse div#map, #map { width: auto; }
+	#items-heading ul { float: none; left: 0; }
+	.heading .navigation li { right: 0; }
+	#content { padding: 12px; }
+	img { max-width: 100%; }
+	.download-file { display: block; max-width: 100%; overflow-wrap: anywhere; }
+	.citation-url, .element-text { overflow-wrap: anywhere; }
+}

@@ -5,7 +5,7 @@
 {{ $items := where site.RegularPages "Params.item_type" .Params.item_type }}
 {{ $paginator := .Paginate $items }}
 <div id="items-heading">
-	<div class="heading">  <h2> {{ .Title }} ({{ len $items }} total) </h2>
+	<div class="heading">  <h1> {{ .Title }} ({{ len $items }} total) </h1>
 		{{ partial "items-nav.html" .Params.nav_key }}
 	</div>
 </div>
