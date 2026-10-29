@@ -21,6 +21,8 @@ files:
     original_filename: 58.jpg
     thumb: /files/thumbnails/14fb2a604cd94214fb2a604cdd29.jpg
     url: /files/original/14fb2a604cd94214fb2a604cdd29.jpg
+    alt:
+      en: "Child's crayon drawing titled \"Faith\" featuring a sun, a star with a lightning-bolt tail, a rainbow over green grass, a purple flower, and pink shooting stars in the corners."
 geo:
 id: 2763
 item_type: Still Image

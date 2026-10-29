@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047media.JPG
     thumb: /files/thumbnails/14fb29f292c50914fb29f292cc3a.jpg
     url: /files/original/14fb29f292c50914fb29f292cc3a.jpg
+    alt:
+      en: "Aerial view from a helicopter, with a crew member's helmet and camera visible in the foreground, overlooking a canal construction site with steel pilings, cranes, and heavy equipment amid a flood-damaged residential neighborhood."
 geo:
 id: 22941
 item_type: Still Image

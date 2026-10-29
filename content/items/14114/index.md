@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0017.JPG
     thumb: /files/thumbnails/14fb2a1bb52e5814fb2a1bb5323f.jpg
     url: /files/original/14fb2a1bb52e5814fb2a1bb5323f.jpg
+    alt:
+      en: "Dark, blurry nighttime scene under a shelter with large military cargo trucks and several people in camouflage uniforms standing nearby, one climbing onto a truck bed."
 geo:
   address: ''
   lat: 0.0

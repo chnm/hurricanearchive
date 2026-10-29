@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8742.jpg
     thumb: /files/thumbnails/14fb2a65b4a0de14fb2a65b4a42e.jpg
     url: /files/original/14fb2a65b4a0de14fb2a65b4a42e.jpg
+    alt:
+      en: "A white Dodge Stratus lies crushed under fallen tree debris amid dead grass and broken branches, with rows of bare concrete house pilings visible in the background among leafless trees."
 geo:
 id: 2529
 item_type: Still Image

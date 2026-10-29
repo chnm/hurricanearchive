@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0072grandisle.JPG
     thumb: /files/thumbnails/14fb2a14e51a9d14fb2a14e51e81.jpg
     url: /files/original/14fb2a14e51a9d14fb2a14e51e81.jpg
+    alt:
+      en: "Aerial view from a helicopter of a storm-devastated coastal landscape, with stripped trees, scattered debris, and vehicles along a roadway running parallel to a wide waterway."
 geo:
 id: 18855
 item_type: Still Image

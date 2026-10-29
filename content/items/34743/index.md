@@ -20,6 +20,8 @@ files:
     original_filename: 2421695480_3d077ba1d9.
     thumb: /files/thumbnails/14fb29c8ee6c7014fb29c8ee7054.jpg
     url: /files/original/14fb29c8ee6c7014fb29c8ee7054.jpg
+    alt:
+      en: "Weathered wooden house with a corrugated metal roof, two open doorways, and a broken window, with a bicycle and wooden shelving unit propped against the exterior wall amid surrounding trees."
 geo:
 id: 34743
 item_type: Still Image

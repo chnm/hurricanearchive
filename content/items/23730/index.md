@@ -21,6 +21,8 @@ files:
     original_filename: P1010171empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed66af5a14fb29ed66b33f.jpg
     url: /files/original/14fb29ed66af5a14fb29ed66b33f.jpg
+    alt:
+      en: "Flooded landscape with a collapsed, tilted house partially submerged in brown water, surrounded by storm debris, downed trees, and piles of reddish-brown plant matter."
 geo:
 id: 23730
 item_type: Still Image

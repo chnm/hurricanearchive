@@ -26,6 +26,8 @@ files:
     original_filename: DSCF3331_60a6a4350b.JPG
     thumb: /files/thumbnails/14fb2a6dbe599a14fb2a6dbe5d81.jpg
     url: /files/original/14fb2a6dbe599a14fb2a6dbe5d81.jpg
+    alt:
+      en: "A holiday model train display at a mall, featuring a snow-covered village with small houses, a church, vehicles, and tracks, overlooked by large stuffed animals including a giraffe and monkey."
 geo:
   address: ''
   lat: 30.0045981475423

@@ -20,6 +20,8 @@ files:
     original_filename: 2420880101_f4bc3eb87d.
     thumb: /files/thumbnails/14fb29c9173a5a14fb29c9174118.jpg
     url: /files/original/14fb29c9173a5a14fb29c9174118.jpg
+    alt:
+      en: "Decayed bathroom interior with a rusted, stained bathtub and peeling teal wood-paneled walls; an open window reveals overgrown trees and shows missing wall boards beneath it."
 geo:
 id: 34734
 item_type: Still Image

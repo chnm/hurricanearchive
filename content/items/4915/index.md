@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0234.JPG
     thumb: /files/thumbnails/14fb2a54f7bb2314fb2a54f7befe.jpg
     url: /files/original/14fb2a54f7bb2314fb2a54f7befe.jpg
+    alt:
+      en: "Debris field of shattered wood, roofing, and household items scattered beneath broken and leaning pine trees, with downed power lines overhead and a small stepladder lying on the ground."
 geo:
 id: 4915
 item_type: Still Image

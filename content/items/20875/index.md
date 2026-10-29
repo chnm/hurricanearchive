@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0137-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0262ece814fb2a0262f0cc.jpg
     url: /files/original/14fb2a0262ece814fb2a0262f0cc.jpg
+    alt:
+      en: "Aerial view of South Cameron High School with heavily damaged roofing, debris scattered across the grounds, and surrounding floodwaters submerging the parking lot and roadway."
 geo:
 id: 20875
 item_type: Still Image

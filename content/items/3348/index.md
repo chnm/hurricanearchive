@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (14).JPG
     thumb: /files/thumbnails/14fb2a5c4b1bb014fb2a5c4b1f95.jpg
     url: /files/original/14fb2a5c4b1bb014fb2a5c4b1f95.jpg
+    alt:
+      en: "A line of vehicles waits on a debris-strewn road beside a cleared, gravel-covered lot with traffic cones, damaged trees, and a distant bridge under a partly cloudy sky."
 geo:
 id: 3348
 item_type: Still Image

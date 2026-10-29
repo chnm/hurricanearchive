@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9195.jpg
     thumb: /files/thumbnails/14fb2a6378329a14fb2a6378366e.jpg
     url: /files/original/14fb2a6378329a14fb2a6378366e.jpg
+    alt:
+      en: "A red fire hydrant stands amid storm debris and a slab foundation, with a tattered American flag flying and a water tower visible in the distance."
 geo:
 id: 2645
 item_type: Still Image

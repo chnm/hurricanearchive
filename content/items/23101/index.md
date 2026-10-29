@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0111OEP.JPG
     thumb: /files/thumbnails/14fb29f18ebf9614fb29f18ec374.jpg
     url: /files/original/14fb29f18ebf9614fb29f18ec374.jpg
+    alt:
+      en: "Busy emergency operations center with staff at cluttered cubicles, an American flag, and projector screens displaying news footage and bullet points about hospital and nursing home evacuations."
 geo:
 id: 23101
 item_type: Still Image

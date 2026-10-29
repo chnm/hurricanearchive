@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28563.jpg
     thumb: /files/thumbnails/14fb2a6d0b896c14fb2a6d0b8d51.jpg
     url: /files/original/14fb2a6d0b896c14fb2a6d0b8d51.jpg
+    alt:
+      en: "A damaged brick ranch house with a partially stripped roof stands amid a barren, debris-strewn yard with a leafless tree, reflecting storm devastation in the Lakeview District."
 geo:
   address: ''
   lat: 0.0

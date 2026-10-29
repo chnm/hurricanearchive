@@ -21,6 +21,8 @@ files:
     original_filename: 1st Floor flooding at Jack BrksJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f978c4d814fb29f978c8b5.jpg
     url: /files/original/14fb29f978c4d814fb29f978c8b5.jpg
+    alt:
+      en: "Grainy, dark photo of a flooded interior floor with faint white spray-painted markings visible on the water's surface, possibly rescue or search notations."
 geo:
 id: 22119
 item_type: Still Image

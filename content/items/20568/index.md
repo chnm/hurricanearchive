@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035H.JPG
     thumb: /files/thumbnails/14fb2a0619c0fd14fb2a0619c4ed.jpg
     url: /files/original/14fb2a0619c0fd14fb2a0619c4ed.jpg
+    alt:
+      en: "Group photo of five women in matching Hooters uniforms (white tank tops and orange shorts) from the Siegen Lane, Baton Rouge location, posing with men including someone in military camouflage."
 geo:
 id: 20568
 item_type: Still Image

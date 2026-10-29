@@ -26,6 +26,8 @@ files:
     original_filename: 013_tin_from_roof_463ffbbba0.jpg
     thumb: /files/thumbnails/14fb2a704db98d14fb2a704dc158.jpg
     url: /files/original/14fb2a704db98d14fb2a704dc158.jpg
+    alt:
+      en: "Crumpled sheet of metal roofing debris piled at the base of a utility pole beside a street sign reading \"Stewart St,\" in front of a beige brick building."
 geo:
   address: ''
   lat: 30.651656

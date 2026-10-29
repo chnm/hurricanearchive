@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0986superdome.JPG
     thumb: /files/thumbnails/14fb29e3ec98bc14fb29e3eca5de.jpg
     url: /files/original/14fb29e3ec98bc14fb29e3eca5de.jpg
+    alt:
+      en: "A military service member wearing camouflage fatigues and a beret helps guide a man from a wheelchair into a tan pickup truck, while another man assists from inside the vehicle."
 geo:
 id: 24911
 item_type: Still Image

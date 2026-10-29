@@ -20,6 +20,8 @@ files:
     original_filename: 114538705_d367b0837c.jpg
     thumb: /files/thumbnails/14fb29d16c179214fb29d16c1b78.jpg
     url: /files/original/14fb29d16c179214fb29d16c1b78.jpg
+    alt:
+      en: "Group of people stand outside a brick house examining a white door marked with spray-painted orange symbols, near a mailbox numbered 6055; one person wears a shirt reading \"Tunnel of Oppression.\""
 geo:
 id: 28712
 item_type: Still Image

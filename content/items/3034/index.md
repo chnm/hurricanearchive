@@ -21,6 +21,8 @@ files:
     original_filename: 100_0283.JPG
     thumb: /files/thumbnails/14fb2a5e8a6d6d14fb2a5e8a707b.jpg
     url: /files/original/14fb2a5e8a6d6d14fb2a5e8a707b.jpg
+    alt:
+      en: "Large gray naval vessel with gun turrets docked beside a pier, viewed from a railed walkway along the waterline on a clear day."
 geo:
 id: 3034
 item_type: Still Image

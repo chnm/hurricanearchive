@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0078abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efc073bb14fb29efc0779a.jpg
     url: /files/original/14fb29efc073bb14fb29efc0779a.jpg
+    alt:
+      en: "Aerial view of a shrimp boat stranded on a narrow grassy levee between flooded fields, with four cattle grazing and standing in the surrounding floodwater nearby."
 geo:
 id: 23380
 item_type: Still Image

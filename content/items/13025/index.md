@@ -21,6 +21,8 @@ files:
     original_filename: before bank2.jpg
     thumb: /files/thumbnails/14fb2a211850d114fb2a211854b2.jpg
     url: /files/original/14fb2a211850d114fb2a211854b2.jpg
+    alt:
+      en: "Upward view of a tall, beige high-rise office building with rows of windows, photographed against an overcast sky."
 geo:
 id: 13025
 item_type: Still Image

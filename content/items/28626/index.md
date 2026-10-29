@@ -23,6 +23,8 @@ files:
     original_filename: 158949268_17ab505665.jpg
     thumb: /files/thumbnails/14fb29d209134914fb29d2091717.jpg
     url: /files/original/14fb29d209134914fb29d2091717.jpg
+    alt:
+      en: "A storm-damaged light blue house tilted off its foundation, with a blue car crushed beneath its leaning side, \"Lot #1\" spray-painted in green on the siding, surrounded by overgrown grass."
 geo:
 id: 28626
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300003zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f4b074714fb2a0f4b0b2c.jpg
     url: /files/original/14fb2a0f4b074714fb2a0f4b0b2c.jpg
+    alt:
+      en: "Rows of military personnel in woodland camouflage uniforms stand at attention outdoors in front of a large gray metal building, with one soldier in a tan shirt facing the group."
 geo:
 id: 19549
 item_type: Still Image

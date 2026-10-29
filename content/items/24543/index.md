@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0113-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e6d5cf5c14fb29e6d5d342.jpg
     url: /files/original/14fb29e6d5cf5c14fb29e6d5d342.jpg
+    alt:
+      en: "A small herd of cattle walks along a cracked, deserted two-lane road flanked by floodwaters submerging grass and roadside vegetation, with utility poles lining the horizon under an overcast sky."
 geo:
 id: 24543
 item_type: Still Image

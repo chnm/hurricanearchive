@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27989.jpg
     thumb: /files/thumbnails/14fb2a6aedc28a14fb2a6aedca86.jpg
     url: /files/original/14fb2a6aedc28a14fb2a6aedca86.jpg
+    alt:
+      en: "A statue of a religious figure on a stone pedestal stands before a tree, surrounded by dormant shrubs, with benches and a water tower visible in the background."
 geo:
   address: ''
   lat: 0.0

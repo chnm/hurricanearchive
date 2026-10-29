@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1650superdome.JPG
     thumb: /files/thumbnails/14fb29e2885c4a14fb29e2887c36.jpg
     url: /files/original/14fb29e2885c4a14fb29e2887c36.jpg
+    alt:
+      en: "A large domed stadium with a curved metal exterior and white rooftop, seen from an elevated vantage point with a person in a camouflage cap in the foreground and palm trees below."
 geo:
 id: 25070
 item_type: Still Image

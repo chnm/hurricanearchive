@@ -21,6 +21,8 @@ files:
     original_filename: before gassing up.jpg
     thumb: /files/thumbnails/14fb2a20ec5e2b14fb2a20ec6210.jpg
     url: /files/original/14fb2a20ec5e2b14fb2a20ec6210.jpg
+    alt:
+      en: "A man in a gray t-shirt and khaki shorts crouches at a gas pump, filling a red container, with a black pickup truck parked beside him and its door open."
 geo:
 id: 13037
 item_type: Still Image

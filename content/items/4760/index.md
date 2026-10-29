@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0270.JPG
     thumb: /files/thumbnails/14fb2a55b8372814fb2a55b83b0d.jpg
     url: /files/original/14fb2a55b8372814fb2a55b83b0d.jpg
+    alt:
+      en: "Damaged wooden porch with debris and sediment scattered across the floorboards, a white railing and partially open door in the foreground, and gray siding with faint orange spray-painted marks in the background."
 geo:
 id: 4760
 item_type: Still Image

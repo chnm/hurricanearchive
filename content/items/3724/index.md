@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 004.jpg
     thumb: /files/thumbnails/14fb2a59fc704614fb2a59fc741d.jpg
     url: /files/original/14fb2a59fc704614fb2a59fc741d.jpg
+    alt:
+      en: "Debris-strewn lot with a low concrete barrier spray-painted \"FEMA → 245 Front Beach Ave, Apt B-2,\" a truck crossing a damaged bridge, and storm-stripped trees under a clear blue sky."
 geo:
 id: 3724
 item_type: Still Image

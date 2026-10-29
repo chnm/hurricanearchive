@@ -21,6 +21,8 @@ files:
     original_filename: Picture 398-J2.jpg
     thumb: /files/thumbnails/14fb29f9b2be7b14fb29f9b2c26c.jpg
     url: /files/original/14fb29f9b2be7b14fb29f9b2c26c.jpg
+    alt:
+      en: "A uniformed man stands in a dim, repurposed indoor space lined with cots, bedding, and supply boxes labeled \"MRE Meals,\" with a Gatorade vending machine and ladder nearby."
 geo:
 id: 22067
 item_type: Still Image

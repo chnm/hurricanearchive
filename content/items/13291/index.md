@@ -24,6 +24,8 @@ files:
     original_filename: wieser_82ffe83735.interior.trailer4.jpg
     thumb: /files/thumbnails/14fb2a1e60adba14fb2a1e60b19d.jpg
     url: /files/original/14fb2a1e60adba14fb2a1e60b19d.jpg
+    alt:
+      en: "Interior of a FEMA trailer's sleeping area, showing a bed with a red/maroon sheet, pillows, a sheer curtain-covered window, and beige walls."
 geo:
 id: 13291
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d78863814fb2a0d788a1c.jpg
     url: /files/original/14fb2a0d78863814fb2a0d788a1c.jpg
+    alt:
+      en: "A worker wearing camouflage pants, a brown shirt, and a white hard hat bends over near a yellow scaffold frame inside a wood-framed building under construction."
 geo:
 id: 19838
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: Abandoned%20dogs%20left%20stranded%20in%20the%20wake%20of%20Hurricane%20Katrina_244751036b.jpg
     thumb: /files/thumbnails/14fb29c2a92e7214fb29c2a93258.jpg
     url: /files/original/14fb29c2a92e7214fb29c2a93258.jpg
+    alt:
+      en: "Several dogs stranded on a small patch of dry ground surrounded by floodwater, with a partially submerged vehicle visible in the background."
 geo:
 id: 42234
 item_type: Still Image

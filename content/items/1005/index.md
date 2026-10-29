@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28680.jpg
     thumb: /files/thumbnails/14fb2a6b70d49814fb2a6b70d87d.jpg
     url: /files/original/14fb2a6b70d49814fb2a6b70d87d.jpg
+    alt:
+      en: "Two people stand talking beside a black truck with \"MED WHEEL\" license plate, one holding a rope lead, with box trucks and trees in the background at the fairgrounds."
 geo:
   address: ''
   lat: 0.0

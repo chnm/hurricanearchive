@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0187-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0054b13614fb2a0054b839.jpg
     url: /files/original/14fb2a0054b13614fb2a0054b839.jpg
+    alt:
+      en: "A man wearing a cap, sunglasses, and a plaid shirt stands smiling inside a damaged, stripped interior with stained, water-damaged walls, holding a picture frame in one hand."
 geo:
 id: 21152
 item_type: Still Image

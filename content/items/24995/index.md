@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1517superdome.JPG
     thumb: /files/thumbnails/14fb29e31cf30614fb29e31cf6ec.jpg
     url: /files/original/14fb29e31cf30614fb29e31cf6ec.jpg
+    alt:
+      en: "Military cargo truck (marked \"225GP 527E H73\") parked on pavement as a large plume of black smoke rises in the background and two helicopters fly overhead."
 geo:
 id: 24995
 item_type: Still Image

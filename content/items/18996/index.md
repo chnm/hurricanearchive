@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2158rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d2e5af14fb2a13d2e994.jpg
     url: /files/original/14fb2a13d2e5af14fb2a13d2e994.jpg
+    alt:
+      en: "Aerial view of a shingled rooftop with a rescuer in camouflage gear and helmet, wearing a harness with a blue pack and red line, perched near the roof's edge."
 geo:
 id: 18996
 item_type: Still Image

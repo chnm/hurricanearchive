@@ -20,6 +20,8 @@ files:
     original_filename: 2297850667_55084840e1.
     thumb: /files/thumbnails/14fb29c8114dd714fb29c8120f46.jpg
     url: /files/original/14fb29c8114dd714fb29c8120f46.jpg
+    alt:
+      en: "Two women load bicycles, including a purple Mongoose, into a crowded truck or trailer filled with many bikes; a warning sign reading \"do not load past this point\" is visible on the wall."
 geo:
 id: 34979
 item_type: Still Image

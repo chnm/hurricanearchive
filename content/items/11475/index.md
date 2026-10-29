@@ -20,6 +20,8 @@ files:
     original_filename: neveragain_aad78e4b9d.JPG
     thumb: /files/thumbnails/14fb2a2482ec6a14fb2a2482fa86.jpg
     url: /files/original/14fb2a2482ec6a14fb2a2482fa86.jpg
+    alt:
+      en: "The decomposed remains of an animal are caught in the branches of a bare tree, with a wire fence visible in the background."
 geo:
   address: Griffin's Gallery, 325 Level Road
   lat: 0.0

@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9155.jpg
     thumb: /files/thumbnails/14fb2a63db5d0614fb2a63db611a.jpg
     url: /files/original/14fb2a63db5d0614fb2a63db611a.jpg
+    alt:
+      en: "Debris-strewn concrete slabs mark cleared building lots after storm damage, with a hand-painted sign reading \"Holly Beach Seafood Free Crabs\" propped on cinder blocks in the foreground."
 geo:
 id: 2631
 item_type: Still Image

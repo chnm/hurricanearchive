@@ -24,6 +24,8 @@ files:
     original_filename: P1010041.JPG
     thumb: /files/thumbnails/14fb2a5aa2231e14fb2a5aa22704.jpg
     url: /files/original/14fb2a5aa2231e14fb2a5aa22704.jpg
+    alt:
+      en: "Collection of gold trophies topped with football and athlete figures sit atop wooden pedestals, with a large football championship trophy in front of red mesh lockers; a partially visible plaque reads \"STATE CHAMPIONS.\""
 geo:
 id: 3610
 item_type: Still Image

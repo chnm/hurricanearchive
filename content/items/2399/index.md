@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BWV_84bd056926.jpg
     thumb: /files/thumbnails/14fb2a66b7e33814fb2a66b7e728.jpg
     url: /files/original/14fb2a66b7e33814fb2a66b7e728.jpg
+    alt:
+      en: "Orange and white Coast Guard helicopters lined up on a tarmac in front of a hangar labeled \"United States Coast Guard,\" with a few people and vehicles nearby."
 geo:
 id: 2399
 item_type: Still Image

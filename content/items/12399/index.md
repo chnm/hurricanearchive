@@ -21,6 +21,8 @@ files:
     original_filename: 102-01_813060cc91.jpg
     thumb: /files/thumbnails/14fb2a22303f0914fb2a223042ef.jpg
     url: /files/original/14fb2a22303f0914fb2a223042ef.jpg
+    alt:
+      en: "Older man in a white button-up shirt and gray pants sits in a black recliner, hands resting on the armrests, with a side table holding cans, papers, and a woven basket nearby."
 geo:
 id: 12399
 item_type: Still Image

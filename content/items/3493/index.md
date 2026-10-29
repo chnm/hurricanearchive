@@ -24,6 +24,8 @@ files:
     original_filename: P1010067.JPG
     thumb: /files/thumbnails/14fb2a5b792d7114fb2a5b793503.jpg
     url: /files/original/14fb2a5b792d7114fb2a5b793503.jpg
+    alt:
+      en: "A mud-covered table holds a stack of RCA video tapes, a broken picture frame, and other flood debris, set against a damaged wooden wall."
 geo:
 id: 3493
 item_type: Still Image

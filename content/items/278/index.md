@@ -26,6 +26,8 @@ files:
     original_filename: cornerstore_79f8605650.jpg
     thumb: /files/thumbnails/14fb2a7059ebfa14fb2a7059f654.jpg
     url: /files/original/14fb2a7059ebfa14fb2a7059f654.jpg
+    alt:
+      en: "Collapsed, charred remains of a corner store building surrounded by a wooden barricade fence, with a parking lot and street in the foreground, photographed through a car windshield."
 geo:
   address: ''
   lat: 30.0092063834854

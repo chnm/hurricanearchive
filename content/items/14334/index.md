@@ -21,6 +21,8 @@ files:
     original_filename: aerials46.jpg
     thumb: /files/thumbnails/14fb2a19c8c63a14fb2a19c8ca20.jpg
     url: /files/original/14fb2a19c8c63a14fb2a19c8ca20.jpg
+    alt:
+      en: "Aerial view of a residential canal neighborhood with widespread hurricane damage, including collapsed homes reduced to debris piles, downed trees, and a few structures with roofs stripped away."
 geo:
 id: 14334
 item_type: Still Image

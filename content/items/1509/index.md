@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28602.jpg
     thumb: /files/thumbnails/14fb2a684f194b14fb2a684f2112.jpg
     url: /files/original/14fb2a684f194b14fb2a684f2112.jpg
+    alt:
+      en: "A man in a gray shirt and cap stands beside a large tree in front of a damaged house marked with an orange spray-painted X, surrounded by a bare, debris-strewn yard."
 geo:
   address: ''
   lat: 0.0

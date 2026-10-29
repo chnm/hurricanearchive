@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1505superdome.JPG
     thumb: /files/thumbnails/14fb29e346000c14fb29e3460b0d.jpg
     url: /files/original/14fb29e346000c14fb29e3460b0d.jpg
+    alt:
+      en: "A man in a military uniform and beret places his hand on the shoulder of another man in a blue polo shirt, standing together indoors near a window with blinds."
 geo:
 id: 24984
 item_type: Still Image

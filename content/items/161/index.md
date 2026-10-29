@@ -26,6 +26,8 @@ files:
     original_filename: 000_0105_5e5eac6139.JPG
     thumb: /files/thumbnails/14fb2a70c92fa314fb2a70c93775.jpg
     url: /files/original/14fb2a70c92fa314fb2a70c93775.jpg
+    alt:
+      en: "Standing floodwater fills a street lined with bare, storm-damaged trees and palms, with debris scattered near a fenced white building under a clear blue sky."
 geo:
   address: ''
   lat: 29.984643

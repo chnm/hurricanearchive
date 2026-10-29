@@ -21,6 +21,8 @@ files:
     original_filename: S4300166stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecece02414fb29ecece36a.jpg
     url: /files/original/14fb29ecece02414fb29ecece36a.jpg
+    alt:
+      en: "A car rests vertically atop a carport roof between two houses, its rear end propped against the roofline, with a tree and clear sky in the background."
 geo:
 id: 23827
 item_type: Still Image

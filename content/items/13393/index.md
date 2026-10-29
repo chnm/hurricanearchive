@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_5004_dcb2a9be3b.jpg
     thumb: /files/thumbnails/14fb2a1e197b7014fb2a1e197f54.jpg
     url: /files/original/14fb2a1e197b7014fb2a1e197f54.jpg
+    alt:
+      en: "A man in a tuxedo and a woman in formal black attire with pearl necklaces pose together at an indoor event, with other guests and banquet tables visible in the background."
 geo:
 id: 13393
 item_type: Still Image

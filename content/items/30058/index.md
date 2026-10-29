@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0278_b93bfe52e2.JPG
     thumb: /files/thumbnails/14fb29cd43d9c014fb29cd440d7e.jpg
     url: /files/original/14fb29cd43d9c014fb29cd440d7e.jpg
+    alt:
+      en: "A grimy, debris-covered sign reading \"PLEASE! LEAVE ALL WET [UMBRELLAS?] OUTSIDE\" with a pink arrow pointing down, partially obscured by mud and dried leaves from floodwater."
 geo:
 id: 30058
 item_type: Still Image

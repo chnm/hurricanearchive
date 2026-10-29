@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0296westend.JPG
     thumb: /files/thumbnails/14fb2a141a15f114fb2a141a19b2.jpg
     url: /files/original/14fb2a141a15f114fb2a141a19b2.jpg
+    alt:
+      en: "Aerial view of a storm-damaged marina with dozens of sailboats piled along a dock, stripped roofs on nearby buildings, and a \"Crab Shack\" restaurant sign visible across the channel."
 geo:
 id: 18939
 item_type: Still Image

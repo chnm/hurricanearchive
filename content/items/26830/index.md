@@ -21,6 +21,8 @@ files:
     original_filename: chalmette faces 1972_96208b65a7.jpg
     thumb: /files/thumbnails/14fb29d78c15d314fb29d78c1bfd.jpg
     url: /files/original/14fb29d78c15d314fb29d78c1bfd.jpg
+    alt:
+      en: "Yearbook page with rows of black-and-white senior portraits of young men, paired with a list of names including Libasci, Luscy, McAuley, and Melerine printed alongside the photos."
 geo:
 id: 26830
 item_type: Still Image

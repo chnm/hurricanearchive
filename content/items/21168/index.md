@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0190-21.JPG
     thumb: /files/thumbnails/14fb2a00474a2114fb2a00474e05.jpg
     url: /files/original/14fb2a00474a2114fb2a00474e05.jpg
+    alt:
+      en: "A Fox News reporter holds a branded microphone toward a uniformed military service member while a cameraman films nearby, with a chain-link fence and red building in the background."
 geo:
 id: 21168
 item_type: Still Image

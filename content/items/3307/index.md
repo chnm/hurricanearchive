@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (67).jpg
     thumb: /files/thumbnails/14fb2a5c7b7d8614fb2a5c7d6bee.jpg
     url: /files/original/14fb2a5c7b7d8614fb2a5c7d6bee.jpg
+    alt:
+      en: "A large barge sits stranded in floodwater beside a debris-strewn canal, with wrecked homes, downed power lines, and scattered wreckage lining the banks under a clear sky."
 geo:
 id: 3307
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (3).JPG
     thumb: /files/thumbnails/14fb2a5dda1cd614fb2a5dda20ba.jpg
     url: /files/original/14fb2a5dda1cd614fb2a5dda20ba.jpg
+    alt:
+      en: "A black pickup truck labeled \"HOMBRE\" with a handwritten sign taped to its door reading \"WATER PIPE BROKE,\" a phone number, and \"BACK OF BUILDING,\" parked beside a yellow building."
 geo:
 id: 3117
 item_type: Still Image

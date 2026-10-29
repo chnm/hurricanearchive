@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00144 DSC00144cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5b686ce14fb29e5b68b79.jpg
     url: /files/original/14fb29e5b686ce14fb29e5b68b79.jpg
+    alt:
+      en: "A military officer in camouflage shakes hands with a civilian man as a crowd of uniformed personnel and bystanders look on, with storm-damaged structures and bare trees visible in the background."
 geo:
 id: 24677
 item_type: Still Image

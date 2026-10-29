@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042OEP.JPG
     thumb: /files/thumbnails/14fb29f1fa57cf14fb29f1fa6984.jpg
     url: /files/original/14fb29f1fa57cf14fb29f1fa6984.jpg
+    alt:
+      en: "Several RVs and vans, including a white Fleetwood motorhome, parked on a grassy field under an overcast sky, with trees visible in the background."
 geo:
 id: 23032
 item_type: Still Image

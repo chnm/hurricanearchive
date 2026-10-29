@@ -21,6 +21,8 @@ files:
     original_filename: Hanger 5-4 NAS NONASneworleans.jpg
     thumb: /files/thumbnails/14fb29f250ad7a14fb29f250b160.jpg
     url: /files/original/14fb29f250ad7a14fb29f250b160.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand at attention in a hangar, with state flags (Wisconsin, West Virginia, North Carolina, Delaware, DC) mounted on the wall and personnel working at tables behind them."
 geo:
 id: 22981
 item_type: Still Image

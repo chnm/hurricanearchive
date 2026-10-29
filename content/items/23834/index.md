@@ -21,6 +21,8 @@ files:
     original_filename: S4300173stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece784c314fb29ece788a0.jpg
     url: /files/original/14fb29ece784c314fb29ece788a0.jpg
+    alt:
+      en: "Damaged brick house with debris-covered roof and broken windows, partially obscured by bare and dried tree branches, with scattered wreckage in the yard."
 geo:
 id: 23834
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.012.JPG
     thumb: /files/thumbnails/14fb29dd2ce03914fb29dd2ce3f0.jpg
     url: /files/original/14fb29dd2ce03914fb29dd2ce3f0.jpg
+    alt:
+      en: "Wooden utility pole with stacked signs reading \"Tree Removal & Crane Service,\" \"Hurricane Demo insured,\" \"No Parking Passenger Zone,\" and \"Palmetto Enterprises, Inc. Insurance Restoration Specialists,\" set against trees and a parked car."
 geo:
 id: 25613
 item_type: Still Image

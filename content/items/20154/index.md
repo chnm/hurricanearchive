@@ -21,6 +21,8 @@ files:
     original_filename: Picture 251cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b0604c414fb2a0b0608aa.jpg
     url: /files/original/14fb2a0b0604c414fb2a0b0608aa.jpg
+    alt:
+      en: "A storm-damaged industrial building with its metal roof and walls collapsed inward, exposing twisted steel framing and piles of debris, with a chain-link fence and green lawn in the foreground."
 geo:
 id: 20154
 item_type: Still Image

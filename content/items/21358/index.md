@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0236-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff3ae84d14fb29ff3aec2d.jpg
     url: /files/original/14fb29ff3ae84d14fb29ff3aec2d.jpg
+    alt:
+      en: "Aerial view of a residential street with severely damaged homes, collapsed roofs, and scattered debris, surrounded by a few remaining trees amid widespread destruction."
 geo:
 id: 21358
 item_type: Still Image

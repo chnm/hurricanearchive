@@ -21,6 +21,8 @@ files:
     original_filename: aerials2.jpg
     thumb: /files/thumbnails/14fb2a19e0837d14fb2a19e08762.jpg
     url: /files/original/14fb2a19e0837d14fb2a19e08762.jpg
+    alt:
+      en: "Aerial view of a devastated landscape with widespread tree damage, debris scattered across cleared fields, and a water tower standing amid the destruction."
 geo:
 id: 14308
 item_type: Still Image

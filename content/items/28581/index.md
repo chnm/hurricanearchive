@@ -23,6 +23,8 @@ files:
     original_filename: 162989518_9daa2b150a.jpg
     thumb: /files/thumbnails/14fb29d23c826314fb29d23c8fbd.jpg
     url: /files/original/14fb29d23c826314fb29d23c8fbd.jpg
+    alt:
+      en: "A water-damaged framed photograph of several faces leans against a large pile of debris, including furniture, fabric, and household items, on a grassy lawn outside a home."
 geo:
 id: 28581
 item_type: Still Image

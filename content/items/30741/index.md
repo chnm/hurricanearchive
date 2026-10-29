@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7442.JPG
     thumb: /files/thumbnails/14fb29cc9f20a514fb29cc9f24a6.jpg
     url: /files/original/14fb29cc9f20a514fb29cc9f24a6.jpg
+    alt:
+      en: "Fallen trees and scattered branches block a paved road running through a wooded area, with debris covering the pavement and sunlight filtering through the remaining tree canopy."
 geo:
 id: 30741
 item_type: Still Image

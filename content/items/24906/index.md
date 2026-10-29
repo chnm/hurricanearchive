@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0981superdome.JPG
     thumb: /files/thumbnails/14fb29e3f531c814fb29e3f53af3.jpg
     url: /files/original/14fb29e3f531c814fb29e3f53af3.jpg
+    alt:
+      en: "Two men help an older man, wearing a \"Home Health Care\" t-shirt, out of a vehicle and into a wheelchair; one helper wears military camouflage fatigues."
 geo:
 id: 24906
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2297824161_1f24f0335f.
     thumb: /files/thumbnails/14fb29c77e595a14fb29c77e5d42.jpg
     url: /files/original/14fb29c77e595a14fb29c77e5d42.jpg
+    alt:
+      en: "Man in a white t-shirt holds a bicycle wheel in a workshop, with other people repairing bikes in the background amid stacks of wheels and a wooden stool."
 geo:
 id: 35008
 item_type: Still Image

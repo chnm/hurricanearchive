@@ -21,6 +21,8 @@ files:
     original_filename: 09210010iwojima.JPG
     thumb: /files/thumbnails/14fb2a118e9e3f14fb2a118ea2a1.jpg
     url: /files/original/14fb2a118e9e3f14fb2a118ea2a1.jpg
+    alt:
+      en: "A large gray naval vessel with radar masts and superstructure sits anchored on open water, with cranes and smaller boats visible along the distant shoreline under a hazy sky."
 geo:
 id: 19260
 item_type: Still Image

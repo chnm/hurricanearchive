@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2101superdome.JPG
     thumb: /files/thumbnails/14fb29e4c31aac14fb29e4c31e91.jpg
     url: /files/original/14fb29e4c31aac14fb29e4c31e91.jpg
+    alt:
+      en: "A group of children and adults gather around a performer in a colorful rainbow wig and striped costume, with faces lit against a dark background."
 geo:
 id: 24779
 item_type: Still Image

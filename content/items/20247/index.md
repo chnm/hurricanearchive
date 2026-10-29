@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 11.jpg
     thumb: /files/thumbnails/14fb2a0a73ea1a14fb2a0a73ee00.jpg
     url: /files/original/14fb2a0a73ea1a14fb2a0a73ee00.jpg
+    alt:
+      en: "A crew member in a flight helmet and uniform looks out from a helicopter over a flooded coastal town, with submerged streets and tree-lined neighborhoods visible below."
 geo:
 id: 20247
 item_type: Still Image

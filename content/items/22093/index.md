@@ -21,6 +21,8 @@ files:
     original_filename: 09210004J6.JPG
     thumb: /files/thumbnails/14fb29f98e0f2014fb29f98e12fe.jpg
     url: /files/original/14fb29f98e0f2014fb29f98e12fe.jpg
+    alt:
+      en: "A large rusted barge sits grounded near a damaged pier with collapsed walkway sections, overlooking a river with distant ships and a crane under a clear blue sky."
 geo:
 id: 22093
 item_type: Still Image

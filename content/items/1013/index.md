@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28657.jpg
     thumb: /files/thumbnails/14fb2a6b69f10b14fb2a6b69f4f0.jpg
     url: /files/original/14fb2a6b69f10b14fb2a6b69f4f0.jpg
+    alt:
+      en: "A dog stands inside a wire crate on a bedding-covered floor, surrounded by shopping carts loaded with pet supplies, food bowls, and additional wire kennels in a makeshift animal shelter space."
 geo:
   address: ''
   lat: 0.0

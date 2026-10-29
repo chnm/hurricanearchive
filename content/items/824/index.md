@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28447.jpg
     thumb: /files/thumbnails/14fb2a6cca50fa14fb2a6cca55a3.jpg
     url: /files/original/14fb2a6cca50fa14fb2a6cca55a3.jpg
+    alt:
+      en: "Damaged metal canopy roofs with bent supports stand amid fallen tree branches and debris, with a multi-story building visible in the background."
 geo:
   address: ''
   lat: 0.0

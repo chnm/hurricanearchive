@@ -20,6 +20,8 @@ files:
     original_filename: 2434809440_ee7bbf4a66.
     thumb: /files/thumbnails/14fb29c97c573114fb29c97c5c1c.jpg
     url: /files/original/14fb29c97c573114fb29c97c5c1c.jpg
+    alt:
+      en: "A large bare tree stands in front of a storm-damaged house with missing siding, exposed plywood, broken windows, and a partially stripped roof, under an overcast sky."
 geo:
 id: 34693
 item_type: Still Image

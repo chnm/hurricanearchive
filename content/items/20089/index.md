@@ -21,6 +21,8 @@ files:
     original_filename: Picture 186cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b6269bb14fb2a0b626da0.jpg
     url: /files/original/14fb2a0b6269bb14fb2a0b626da0.jpg
+    alt:
+      en: "Concrete highway barriers and a chain-link fence separate a grassy strip from a parking lot with cars, trees, and a cloudy blue sky in the background."
 geo:
 id: 20089
 item_type: Still Image

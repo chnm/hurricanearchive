@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 016cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ea3aa8b14fb2a0ea3ae71.jpg
     url: /files/original/14fb2a0ea3aa8b14fb2a0ea3ae71.jpg
+    alt:
+      en: "A military vehicle with a Tennessee state flag flying above it sits in a parking lot near tents, with two people in camouflage standing at its rear door."
 geo:
 id: 19630
 item_type: Still Image

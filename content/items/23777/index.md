@@ -21,6 +21,8 @@ files:
     original_filename: PICT0873neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed285fe214fb29ed2863d2.jpg
     url: /files/original/14fb29ed285fe214fb29ed2863d2.jpg
+    alt:
+      en: "Empty residential street with debris-covered pavement, a \"No Truck Route\" sign, palm trees, and storm-damaged houses; date stamp reads 09.15.2005."
 geo:
 id: 23777
 item_type: Still Image

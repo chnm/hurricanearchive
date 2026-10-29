@@ -21,6 +21,8 @@ files:
     original_filename: 153 port arthur damage 4.jpg
     thumb: /files/thumbnails/14fb2a1fb9207d14fb2a1fb92387.jpg
     url: /files/original/14fb2a1fb9207d14fb2a1fb92387.jpg
+    alt:
+      en: "Collapsed brick wall scattered in rubble beside a road, with a lit reflective marker post in the foreground and storm-damaged trees and buildings visible behind."
 geo:
 id: 13163
 item_type: Still Image

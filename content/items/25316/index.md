@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2043superdome.JPG
     thumb: /files/thumbnails/14fb29df1bcd1014fb29df1bd4ce.jpg
     url: /files/original/14fb29df1bcd1014fb29df1bd4ce.jpg
+    alt:
+      en: "A U.S. Army soldier with nametape \"GAINES\" kneels beside an older man in a plaid shirt with scrapes on his face, speaking closely to him in a wet outdoor parking lot."
 geo:
 id: 25316
 item_type: Still Image

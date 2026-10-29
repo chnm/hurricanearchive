@@ -21,6 +21,8 @@ files:
     original_filename: katrina 071.jpg
     thumb: /files/thumbnails/14fb29fbb12f7614fb29fbb13ca9.jpg
     url: /files/original/14fb29fbb12f7614fb29fbb13ca9.jpg
+    alt:
+      en: "Street view from a vehicle showing storm damage to a brick building with a collapsed metal roof structure, a \"FOR LEASE\" sign, a fallen bicycle on the curb, and a quiet, debris-strewn road under hazy sky."
 geo:
 id: 21801
 item_type: Still Image

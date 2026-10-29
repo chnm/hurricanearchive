@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0139mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f30a0c9814fb29f30a1087.jpg
     url: /files/original/14fb29f30a0c9814fb29f30a1087.jpg
+    alt:
+      en: "Two officers in white \"Police\" t-shirts stand beside a silver car with an open door, one facing away and one facing forward, with trees and a house visible in the background."
 geo:
 id: 22854
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0202.JPG
     thumb: /files/thumbnails/14fb2a5510bc4614fb2a5510c02c.jpg
     url: /files/original/14fb2a5510bc4614fb2a5510c02c.jpg
+    alt:
+      en: "Underside view of a wood-framed deck or floor structure, showing exposed beams, joists, and plywood decking, with electrical and plumbing lines running along the framing."
 geo:
 id: 4883
 item_type: Still Image

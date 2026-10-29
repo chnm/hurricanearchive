@@ -20,6 +20,8 @@ files:
     original_filename: merrychristmas_8ea781acd6.jpg
     thumb: /files/thumbnails/14fb29cbf5e36514fb29cbf5e74b.jpg
     url: /files/original/14fb29cbf5e36514fb29cbf5e74b.jpg
+    alt:
+      en: "A severely damaged, debris-covered car spray-painted \"Merry Christmas\" sits in front of a storm-wrecked house with a collapsed roof and exposed brick, under overhead power lines."
 geo:
   address: ''
   lat: 29.80252

@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9058.jpg
     thumb: /files/thumbnails/14fb2a6529b7cb14fb2a652a3ae5.jpg
     url: /files/original/14fb2a6529b7cb14fb2a652a3ae5.jpg
+    alt:
+      en: "Hand-painted sign reading \"FEMA HELP DESK, THE ANSWER IS NO!\" stands amid storm debris, furniture, and a scarecrow-like figure outside a damaged blue house at 131, Lakeview, New Orleans."
 geo:
 id: 2568
 item_type: Still Image

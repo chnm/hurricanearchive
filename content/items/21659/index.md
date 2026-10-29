@@ -21,6 +21,8 @@ files:
     original_filename: FH000002-9-23.jpg
     thumb: /files/thumbnails/14fb29fcc4240d14fb29fcc427f3.jpg
     url: /files/original/14fb29fcc4240d14fb29fcc427f3.jpg
+    alt:
+      en: "Photo taken from inside a vehicle showing a mobile home with concrete steps, a bare-branched tree in front, and a damaged carport beside it, with another house reflected in the side mirror."
 geo:
 id: 21659
 item_type: Still Image

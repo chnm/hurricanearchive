@@ -21,6 +21,8 @@ files:
     original_filename: Picture 059.jpg
     thumb: /files/thumbnails/14fb29cc739dc414fb29cc73a1a8.jpg
     url: /files/original/14fb29cc739dc414fb29cc73a1a8.jpg
+    alt:
+      en: "A paved, tree-lined road with storm debris and downed branches piled along both shoulders, a red vehicle approaching in the distance, viewed from inside a dark red vehicle."
 geo:
 id: 30794
 item_type: Still Image

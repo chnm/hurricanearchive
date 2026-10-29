@@ -21,6 +21,8 @@ files:
     original_filename: 100_0204.JPG
     thumb: /files/thumbnails/14fb2a5901895a14fb2a59018d40.jpg
     url: /files/original/14fb2a5901895a14fb2a59018d40.jpg
+    alt:
+      en: "Floodwater submerges a parking lot and tree bases in front of a stadium with light towers, with utility poles and power lines rising from the water under a clear blue sky."
 geo:
 id: 3907
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09140025.JPG
     thumb: /files/thumbnails/14fb29e97465ee14fb29e97469d4.jpg
     url: /files/original/14fb29e97465ee14fb29e97469d4.jpg
+    alt:
+      en: "Several parked cars and trucks sit in a gravel lot outside a brick motel-style building, with debris and broken tree branches scattered on the ground and a brick tower visible in the background."
 geo:
 id: 24244
 item_type: Still Image

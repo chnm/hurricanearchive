@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7166_13916fcb52.jpg
     thumb: /files/thumbnails/14fb29d343712a14fb29d3437faa.jpg
     url: /files/original/14fb29d343712a14fb29d3437faa.jpg
+    alt:
+      en: "Group of five children in colorful swimsuits pose playfully on a carpeted indoor floor, smiling and reaching toward the camera at a swimming party."
 geo:
   address: ''
   lat: 29.993

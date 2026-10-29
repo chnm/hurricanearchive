@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1203Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6e43cb814fb29f6e44091.jpg
     url: /files/original/14fb29f6e43cb814fb29f6e44091.jpg
+    alt:
+      en: "Blurry, dark photo of a person in camouflage clothing and an orange item, standing near metal railings with a yellow \"Wet Floor\" caution sign in the foreground."
 geo:
 id: 22381
 item_type: Still Image

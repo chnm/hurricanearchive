@@ -26,6 +26,8 @@ files:
     original_filename: PumpingStation_c7a5934f5e.jpg
     thumb: /files/thumbnails/14fb2a70f1589714fb2a70f15c7b.jpg
     url: /files/original/14fb2a70f1589714fb2a70f15c7b.jpg
+    alt:
+      en: "Aerial view of a white pumping station building surrounded by floodwater, with large pipes leading to an embankment and adjacent muddy, debris-covered ground."
 geo:
   address: ''
   lat: 29.9935969771495

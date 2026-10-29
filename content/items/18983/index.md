@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2145rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13e0315114fb2a13e03536.jpg
     url: /files/original/14fb2a13e0315114fb2a13e03536.jpg
+    alt:
+      en: "Aerial view looking down at a shingled rooftop, with the booted feet and lower legs of two people visible at the top edge, likely standing in a helicopter doorway; a small vent box sits on the roof below."
 geo:
 id: 18983
 item_type: Still Image

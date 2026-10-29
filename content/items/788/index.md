@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28026.jpg
     thumb: /files/thumbnails/14fb2a6d06ea1914fb2a6d06ee2e.jpg
     url: /files/original/14fb2a6d06ea1914fb2a6d06ee2e.jpg
+    alt:
+      en: "A large metal pipe marked \"MWI\" and \"29\" rests on gravel beside a water-filled canal, with yellow equipment, a tree, and distant buildings visible under a clear sky."
 geo:
   address: ''
   lat: 0.0

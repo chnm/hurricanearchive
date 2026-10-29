@@ -21,6 +21,8 @@ files:
     original_filename: 219 tired george.jpg
     thumb: /files/thumbnails/14fb2a1f2e4aec14fb2a1f2e4ed0.jpg
     url: /files/original/14fb2a1f2e4aec14fb2a1f2e4ed0.jpg
+    alt:
+      en: "A man in a dark T-shirt smiles faintly at the camera, standing beneath a covered walkway lined with wooden support beams, glass storefronts, and damaged window blinds; debris and bent metal rods lie scattered in the background."
 geo:
 id: 13224
 item_type: Still Image

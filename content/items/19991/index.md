@@ -21,6 +21,8 @@ files:
     original_filename: Picture 088cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bcbf8dc14fb2a0bcbfc35.jpg
     url: /files/original/14fb2a0bcbf8dc14fb2a0bcbfc35.jpg
+    alt:
+      en: "Shipping containers, including one marked \"EVERGREEN,\" lie toppled and scattered in a storage yard beside an elevated highway overpass, with power lines and a transmission tower in the background."
 geo:
 id: 19991
 item_type: Still Image

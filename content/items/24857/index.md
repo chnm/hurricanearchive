@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2197superdome.JPG
     thumb: /files/thumbnails/14fb29e45c46d114fb29e45c483e.jpg
     url: /files/original/14fb29e45c46d114fb29e45c483e.jpg
+    alt:
+      en: "A dark nighttime scene with a group of people gathered near a bus, one using a wheelchair, beside \"No Parking\" street signs illuminated by a flash."
 geo:
 id: 24857
 item_type: Still Image

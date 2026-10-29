@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1072Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f894ea7814fb29f894ee5f.jpg
     url: /files/original/14fb29f894ea7814fb29f894ee5f.jpg
+    alt:
+      en: "A person in military camouflage uniform sits aboard a Yale forklift indoors, smiling and giving a thumbs up gesture toward the camera."
 geo:
 id: 22261
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: USS Alabama 9.jpg
     thumb: /files/thumbnails/14fb2a597e0f9314fb2a597e13f2.jpg
     url: /files/original/14fb2a597e0f9314fb2a597e13f2.jpg
+    alt:
+      en: "A large gray battleship moored along a shoreline, with a tall crane nearby and debris scattered across the sandy, rocky waterfront under an overcast sky."
 geo:
 id: 3797
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6712_5f2310ac2f.JPG
     thumb: /files/thumbnails/14fb29d30c0f8814fb29d30c136c.jpg
     url: /files/original/14fb29d30c0f8814fb29d30c136c.jpg
+    alt:
+      en: "A boy wearing a white bucket on his head and a girl in an orange striped swimsuit stand together in a small inflatable backyard pool, with a house and fence visible behind them."
 geo:
   address: 6960 Martin Dr
   lat: 30.02739

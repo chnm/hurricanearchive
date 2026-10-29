@@ -21,6 +21,8 @@ files:
     original_filename: 100_0099.JPG
     thumb: /files/thumbnails/14fb2a596bbf1614fb2a596bc2fd.jpg
     url: /files/original/14fb2a596bbf1614fb2a596bc2fd.jpg
+    alt:
+      en: "View through a boat window of a hazy city skyline with high-rise buildings, with two small boats on the water in the distance and a dark boat hull visible in the foreground."
 geo:
 id: 3813
 item_type: Still Image

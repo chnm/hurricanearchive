@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28072.jpg
     thumb: /files/thumbnails/14fb2a692d3e2d14fb2a692d4216.jpg
     url: /files/original/14fb2a692d3e2d14fb2a692d4216.jpg
+    alt:
+      en: "A damaged traffic signal leaning at an angle on its pole, surrounded by dead, brown vegetation and tangled utility lines, with a building visible in the background."
 geo:
   address: ''
   lat: 0.0

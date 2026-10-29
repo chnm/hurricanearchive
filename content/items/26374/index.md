@@ -21,6 +21,8 @@ files:
     original_filename: LionelPowell-5834_6ab2c0f407.jpg
     thumb: /files/thumbnails/14fb29d91bca0814fb29d91bcdfb.jpg
     url: /files/original/14fb29d91bca0814fb29d91bcdfb.jpg
+    alt:
+      en: "Damaged wedding photo of a bride in a white lace dress and veil, holding a bouquet with blue accents, standing beside a groom in a white suit, with heavy water damage obscuring the background."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

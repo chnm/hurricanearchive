@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002-20.JPG
     thumb: /files/thumbnails/14fb2a08c2539914fb2a08c26163.jpg
     url: /files/original/14fb2a08c2539914fb2a08c26163.jpg
+    alt:
+      en: "Elevated view of a large operations center with rows of tables holding laptops and phones, staffed by uniformed personnel, with projection screens and signs reading \"TASK FORCE DEFENDER\" visible on the back wall."
 geo:
 id: 20334
 item_type: Still Image

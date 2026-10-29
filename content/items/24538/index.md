@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0112-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e6e7e58d14fb29e6e7e96f.jpg
     url: /files/original/14fb29e6e7e58d14fb29e6e7e96f.jpg
+    alt:
+      en: "A military flatbed truck marked \"B100\" leads a line of civilian trucks and SUVs along a muddy, flood-damaged road lined with standing water and power lines."
 geo:
 id: 24538
 item_type: Still Image

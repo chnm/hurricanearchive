@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0198-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fffc0a5414fb29fffc0e41.jpg
     url: /files/original/14fb29fffc0a5414fb29fffc0e41.jpg
+    alt:
+      en: "Aerial view of a flattened neighborhood with collapsed houses, scattered debris, stranded vehicles, and standing floodwater, surrounded by surviving trees and a distant skyline."
 geo:
 id: 21209
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0333-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd2ed71714fb29fd2edafb.jpg
     url: /files/original/14fb29fd2ed71714fb29fd2edafb.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with mobile homes and debris scattered across submerged streets, surrounded by patches of trees and muddy, displaced ground."
 geo:
 id: 21600
 item_type: Still Image

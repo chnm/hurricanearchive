@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 151cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0df18ce514fb2a0df19202.jpg
     url: /files/original/14fb2a0df18ce514fb2a0df19202.jpg
+    alt:
+      en: "Dirt-streaked white sedan and a black Jeep Wrangler parked on pavement, with two men walking across a grassy lawn in front of storm-damaged trees and a brick building."
 geo:
 id: 19764
 item_type: Still Image

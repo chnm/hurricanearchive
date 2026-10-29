@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0179-9-25.JPG
     thumb: /files/thumbnails/14fb2a00828c7414fb2a00828f3e.jpg
     url: /files/original/14fb2a00828c7414fb2a00828f3e.jpg
+    alt:
+      en: "Aerial view of a flooded coastal roadway with a small displaced building resting on the pavement, surrounded by extensive floodwaters, scattered marsh grass, and debris."
 geo:
 id: 21117
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1914superdome.JPG
     thumb: /files/thumbnails/14fb29e0ce6b5d14fb29e0ce6f43.jpg
     url: /files/original/14fb29e0ce6b5d14fb29e0ce6f43.jpg
+    alt:
+      en: "A United States Army helicopter, marked \"0-21930,\" hovers low in a parking lot near a large domed stadium, with crowds of people gathered along an elevated walkway in the background."
 geo:
 id: 25215
 item_type: Still Image

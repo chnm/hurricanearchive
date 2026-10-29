@@ -18,6 +18,8 @@ files:
     original_filename: post card 2 9_d1b780a0f6.23.09.jpg
     thumb: /files/thumbnails/14fb29c427839814fb29c427e4ad.jpg
     url: /files/original/14fb29c427839814fb29c427e4ad.jpg
+    alt:
+      en: "Handwritten index card responding to \"Tell us about your experiences during or after the hurricanes,\" describing violence and looting the author attributes to young Black men, ending with a racist generalization."
 geo:
   address: ''
   lat: 29.95958

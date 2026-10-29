@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28181.jpg
     thumb: /files/thumbnails/14fb2a68acda5614fb2a68acde29.jpg
     url: /files/original/14fb2a68acda5614fb2a68acde29.jpg
+    alt:
+      en: "A man in a blue shirt stands on a black-and-white checkered tile floor, talking on a phone, with a cleared, debris-strewn coastal landscape and the sea visible behind him."
 geo:
   address: ''
   lat: 0.0

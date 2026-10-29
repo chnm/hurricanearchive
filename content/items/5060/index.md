@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0405.JPG
     thumb: /files/thumbnails/14fb2a542de34e14fb2a542de729.jpg
     url: /files/original/14fb2a542de34e14fb2a542de729.jpg
+    alt:
+      en: "A yellow tape measure hangs vertically against a wooden beam, showing markings up to about 18 inches, with blue sky and trees visible in the background."
 geo:
 id: 5060
 item_type: Still Image

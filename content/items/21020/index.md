@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0170-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0109bcc914fb2a0109c0b0.jpg
     url: /files/original/14fb2a0109bcc914fb2a0109c0b0.jpg
+    alt:
+      en: "Aerial view of a single-story house with a partially torn-off roof, surrounded entirely by floodwater and submerged trees."
 geo:
 id: 21020
 item_type: Still Image

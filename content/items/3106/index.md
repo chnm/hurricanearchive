@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (1).JPG
     thumb: /files/thumbnails/14fb2a5de3d2fb14fb2a5de3d6e1.jpg
     url: /files/original/14fb2a5de3d2fb14fb2a5de3d6e1.jpg
+    alt:
+      en: "Collapsed metal roof framing and twisted steel beams lie in front of a damaged storefront reading \"Stop & Save Wholesale Prices,\" with parked cars and debris along the street."
 geo:
 id: 3106
 item_type: Still Image

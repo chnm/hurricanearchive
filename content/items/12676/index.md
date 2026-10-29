@@ -21,6 +21,8 @@ files:
     original_filename: 100-24_f1b120243d.jpg
     thumb: /files/thumbnails/14fb2a21cdc94314fb2a21cdd5e2.jpg
     url: /files/original/14fb2a21cdc94314fb2a21cdd5e2.jpg
+    alt:
+      en: "Vintage color photo of four people standing in a wood-paneled room: a woman in yellow, a man in white shirt and tie, a woman in a striped top, and a young girl peeking in from the right."
 geo:
 id: 12676
 item_type: Still Image

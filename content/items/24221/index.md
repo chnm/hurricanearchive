@@ -21,6 +21,8 @@ files:
     original_filename: 09140002.JPG
     thumb: /files/thumbnails/14fb29e995f62414fb29e995fad3.jpg
     url: /files/original/14fb29e995f62414fb29e995fad3.jpg
+    alt:
+      en: "A curved glass high-rise tower stands behind a lower, flat-roofed building with horizontal paneling, with green trees in the foreground under a hazy sky."
 geo:
 id: 24221
 item_type: Still Image

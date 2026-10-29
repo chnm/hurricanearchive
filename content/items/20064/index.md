@@ -21,6 +21,8 @@ files:
     original_filename: Picture 161cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b83f24114fb2a0b83f62f.jpg
     url: /files/original/14fb2a0b83f24114fb2a0b83f62f.jpg
+    alt:
+      en: "A large rusted pontoon or barge-like vessel sits stranded on debris-strewn ground amid floodwater, with industrial warehouse buildings and utility poles in the background."
 geo:
 id: 20064
 item_type: Still Image

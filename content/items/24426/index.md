@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0092-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e8022b5614fb29e8022f3c.jpg
     url: /files/original/14fb29e8022b5614fb29e8022f3c.jpg
+    alt:
+      en: "Aerial view of a flooded rural area with submerged fields and a cluster of partially inundated houses and outbuildings surrounded by water, framed by a tree line under an overcast sky."
 geo:
 id: 24426
 item_type: Still Image

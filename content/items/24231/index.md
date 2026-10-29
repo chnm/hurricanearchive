@@ -21,6 +21,8 @@ files:
     original_filename: 09140012.JPG
     thumb: /files/thumbnails/14fb29e97ec95a14fb29e97ecd3c.jpg
     url: /files/original/14fb29e97ec95a14fb29e97ecd3c.jpg
+    alt:
+      en: "Military Humvee convoy on a debris-strewn street past a \"DO NOT BLOCK INTERSECTION\" sign, with a red pickup truck, damaged trees, and scorched vegetation along the roadside."
 geo:
 id: 24231
 item_type: Still Image

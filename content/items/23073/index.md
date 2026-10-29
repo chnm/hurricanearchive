@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0083OEP.JPG
     thumb: /files/thumbnails/14fb29f1a2fa8314fb29f1a2fe69.jpg
     url: /files/original/14fb29f1a2fa8314fb29f1a2fe69.jpg
+    alt:
+      en: "A man in camouflage military uniform sits on a stool outdoors being interviewed, with a reporter holding a microphone and a cameraman filming, a tent and parked vehicles visible in the background."
 geo:
 id: 23073
 item_type: Still Image

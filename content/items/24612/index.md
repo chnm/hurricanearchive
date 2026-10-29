@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0127-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e626aa2c14fb29e626ec71.jpg
     url: /files/original/14fb29e626aa2c14fb29e626ec71.jpg
+    alt:
+      en: "Soldier in woodland camouflage uniform and cap, wearing sunglasses and a name tape reading \"BYUS\" with \"U.S. ARMY\" patch, holding a rifle strap on a roadway with parked trucks in the background."
 geo:
 id: 24612
 item_type: Still Image

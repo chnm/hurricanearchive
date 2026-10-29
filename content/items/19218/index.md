@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2163conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11c566b414fb2a11c56a98.jpg
     url: /files/original/14fb2a11c566b414fb2a11c56a98.jpg
+    alt:
+      en: "A man in a green vest films floodwaters with a camcorder, as armed soldiers stand in the flooded street near a bus and glass office building."
 geo:
 id: 19218
 item_type: Still Image

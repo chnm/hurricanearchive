@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0230-21.JPG
     thumb: /files/thumbnails/14fb29ff76e81a14fb29ff76ec00.jpg
     url: /files/original/14fb29ff76e81a14fb29ff76ec00.jpg
+    alt:
+      en: "Aerial view of a city skyline featuring high-rise buildings including the Marriott and Sheraton hotels, with a dense cluster of lower rooftops and a construction crane in the background."
 geo:
 id: 21332
 item_type: Still Image

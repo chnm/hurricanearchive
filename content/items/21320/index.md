@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0227-21.JPG
     thumb: /files/thumbnails/14fb29ff85ecf114fb29ff85f0cd.jpg
     url: /files/original/14fb29ff85ecf114fb29ff85f0cd.jpg
+    alt:
+      en: "Aerial view of a large domed stadium with a partially discolored roof, surrounded by an empty parking lot and helicopter landing pad, with city skyscrapers visible in the background."
 geo:
 id: 21320
 item_type: Still Image

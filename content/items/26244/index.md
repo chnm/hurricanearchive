@@ -21,6 +21,8 @@ files:
     original_filename: AB Mardi Gras 1946_e7f090780d.jpg
     thumb: /files/thumbnails/14fb29d95c103414fb29d95c1419.jpg
     url: /files/original/14fb29d95c103414fb29d95c1419.jpg
+    alt:
+      en: "Sepia-toned photo of three children in costumes labeled Gaile, Cecelia, and George, with handwritten text reading \"Mardi Gras March 5, 1946, 1st since World War 2.\""
 geo:
   address: ''
   lat: 29.91685

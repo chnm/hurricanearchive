@@ -21,6 +21,8 @@ files:
     original_filename: MVC-009S.JPG
     thumb: /files/thumbnails/14fb2a5fd89a9014fb2a5fd89e6d.jpg
     url: /files/original/14fb2a5fd89a9014fb2a5fd89e6d.jpg
+    alt:
+      en: "Interior view of industrial equipment with padded seats, metal piping, and chains, set against a paneled wall with a small posted sign reading \"MKB ZXU.\""
 geo:
 id: 2852
 item_type: Still Image

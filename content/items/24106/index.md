@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea97f21d14fb29ea97f600.jpg
     url: /files/original/14fb29ea97f21d14fb29ea97f600.jpg
+    alt:
+      en: "Aerial view of a devastated coastal town with debris-strewn streets, stripped and broken trees, collapsed buildings, and roofless structures left after a hurricane."
 geo:
 id: 24106
 item_type: Still Image

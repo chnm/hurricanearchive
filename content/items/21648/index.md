@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0410-16.JPG
     thumb: /files/thumbnails/14fb29fcce164b14fb29fcce1a31.jpg
     url: /files/original/14fb29fcce164b14fb29fcce1a31.jpg
+    alt:
+      en: "Soldier in camouflage uniform wearing protective goggles and helmet, seated inside a military vehicle, with \"ARMY\" visible on the sleeve patch and shoulder insignia."
 geo:
 id: 21648
 item_type: Still Image

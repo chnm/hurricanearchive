@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0134cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef3580b214fb29ef358490.jpg
     url: /files/original/14fb29ef3580b214fb29ef358490.jpg
+    alt:
+      en: "Aerial view of an institutional campus with multiple beige buildings, a large white colonial-style structure, and dense surrounding trees, bordered by open fields and a drainage canal."
 geo:
 id: 23495
 item_type: Still Image

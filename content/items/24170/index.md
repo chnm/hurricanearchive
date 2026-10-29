@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea21fa5814fb29ea21fe3d.jpg
     url: /files/original/14fb29ea21fa5814fb29ea21fe3d.jpg
+    alt:
+      en: "Aerial view of flooded marshland with scattered debris across a strip of exposed, grass-covered land surrounded by blue floodwaters."
 geo:
 id: 24170
 item_type: Still Image

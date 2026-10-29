@@ -20,6 +20,8 @@ files:
     original_filename: 14 - London 1_0f5e1a818e.JPG
     thumb: /files/thumbnails/14fb29c4825ba214fb29c4825f8c.jpg
     url: /files/original/14fb29c4825ba214fb29c4825f8c.jpg
+    alt:
+      en: "A grassy levee slopes down to a canal lined with an industrial pumping station and flood gate structure, with buildings and a cell tower visible under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

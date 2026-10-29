@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006.JPG
     thumb: /files/thumbnails/14fb2a0855b88c14fb2a0855bc68.jpg
     url: /files/original/14fb2a0855b88c14fb2a0855bc68.jpg
+    alt:
+      en: "Two women sit at a long table with open laptops, water bottles, and a banana, engaged in conversation, while other people work on laptops in the background."
 geo:
 id: 20368
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 123cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba3735e14fb2a0ba37749.jpg
     url: /files/original/14fb2a0ba3735e14fb2a0ba37749.jpg
+    alt:
+      en: "Two boats sit grounded on dry land behind a chain-link fence, one with a blue tarp covering its deck, surrounded by grass and utility wires in the foreground."
 geo:
 id: 20026
 item_type: Still Image

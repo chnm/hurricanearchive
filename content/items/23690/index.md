@@ -21,6 +21,8 @@ files:
     original_filename: P1010131empireS&R.JPG
     thumb: /files/thumbnails/14fb29eddcef2814fb29eddcf30d.jpg
     url: /files/original/14fb29eddcef2814fb29eddcf30d.jpg
+    alt:
+      en: "A storm-damaged, abandoned wooden structure with broken windows stands amid scattered fallen branches and debris, with a tarp-covered area nearby and power lines crossing the sky above."
 geo:
 id: 23690
 item_type: Still Image

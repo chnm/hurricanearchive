@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0159-21.JPG
     thumb: /files/thumbnails/14fb2a013aca9114fb2a013ace88.jpg
     url: /files/original/14fb2a013aca9114fb2a013ace88.jpg
+    alt:
+      en: "A soldier in camouflage uniform with \"Spencer\" nametag talks with a man wearing a white t-shirt, badge, and law enforcement cap, standing on a roadside with military vehicles and bystanders in the background."
 geo:
 id: 20971
 item_type: Still Image

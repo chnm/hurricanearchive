@@ -21,6 +21,8 @@ files:
     original_filename: IMG_6275_d5fb23f1da.jpg
     thumb: /files/thumbnails/14fb2a16f9965514fb2a16f99a39.jpg
     url: /files/original/14fb2a16f9965514fb2a16f99a39.jpg
+    alt:
+      en: "Interior of Mother's Restaurant with a line of customers waiting near the counter, a chalkboard Sunday menu, and wall photos and signage, including one reading \"Mother's Next Door.\""
 geo:
   address: ''
   lat: 37.77123

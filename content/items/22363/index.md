@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1180Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f706bad214fb29f706beb8.jpg
     url: /files/original/14fb29f706bad214fb29f706beb8.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and an orange life vest stands at the edge of a military vehicle in dark, flooded surroundings, handling rope near an orange flotation device."
 geo:
 id: 22363
 item_type: Still Image

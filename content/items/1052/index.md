@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28444.jpg
     thumb: /files/thumbnails/14fb2a6b42fe1414fb2a6b4301f9.jpg
     url: /files/original/14fb2a6b42fe1414fb2a6b4301f9.jpg
+    alt:
+      en: "A storm-damaged three-story building with its roof stripped to bare framing and plywood-covered windows, surrounded by debris, a large truck, and an RV parked beneath the porch."
 geo:
   address: ''
   lat: 0.0

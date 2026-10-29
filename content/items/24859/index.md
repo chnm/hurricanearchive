@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2199superdome.JPG
     thumb: /files/thumbnails/14fb29e45591d714fb29e45595bb.jpg
     url: /files/original/14fb29e45591d714fb29e45595bb.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms load cardboard boxes onto a Walmart shopping cart at night, with a charter bus marked \"Young\" and \"Coach\" visible in the background."
 geo:
 id: 24859
 item_type: Still Image

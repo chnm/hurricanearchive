@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f31d33e614fb29f31d37cc.jpg
     url: /files/original/14fb29f31d33e614fb29f31d37cc.jpg
+    alt:
+      en: "A uniformed soldier in camouflage, wearing sunglasses and a cap, speaks through a car window to a seated driver; road signs for \"East 90\" and \"LA 610\" are visible in the background."
 geo:
 id: 22836
 item_type: Still Image

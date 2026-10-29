@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lower Garden.JPG
     thumb: /files/thumbnails/14fb2a5db6f28c14fb2a5db6f671.jpg
     url: /files/original/14fb2a5db6f28c14fb2a5db6f671.jpg
+    alt:
+      en: "Discarded refrigerators and appliances line a brick-edged sidewalk and curb along a residential street, with overturned debris on the grass and historic houses visible in the background."
 geo:
 id: 3148
 item_type: Still Image

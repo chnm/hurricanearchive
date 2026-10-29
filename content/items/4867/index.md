@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0186.JPG
     thumb: /files/thumbnails/14fb2a5519f6df14fb2a5519fb6e.jpg
     url: /files/original/14fb2a5519f6df14fb2a5519fb6e.jpg
+    alt:
+      en: "Wooden deck and steps with a lattice railing, overlooking a damaged wooden fence, grassy yard, and a tree-lined creek in the background."
 geo:
 id: 4867
 item_type: Still Image

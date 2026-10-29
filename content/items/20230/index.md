@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0251-9-18.JPG
     thumb: /files/thumbnails/14fb2a0a8d27c914fb2a0a8d2bb2.jpg
     url: /files/original/14fb2a0a8d27c914fb2a0a8d2bb2.jpg
+    alt:
+      en: "Silhouette of a helmeted figure viewed from inside a vehicle or aircraft, with bright sunlight streaming through a window and a small green light glowing in the foreground."
 geo:
 id: 20230
 item_type: Still Image

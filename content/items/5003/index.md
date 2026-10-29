@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0348.JPG
     thumb: /files/thumbnails/14fb2a5472beea14fb2a5472c2cd.jpg
     url: /files/original/14fb2a5472beea14fb2a5472c2cd.jpg
+    alt:
+      en: "A yellow tape measure extends diagonally across a concrete slab with a gap or drainage hole, bordered by dry grass and patchy soil."
 geo:
 id: 5003
 item_type: Still Image

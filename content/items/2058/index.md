@@ -26,6 +26,8 @@ files:
     original_filename: lakeviewlowres_d9d4520921.jpg
     thumb: /files/thumbnails/14fb2a6da4c21214fb2a6da4cce4.jpg
     url: /files/original/14fb2a6da4c21214fb2a6da4cce4.jpg
+    alt:
+      en: "A massive, elongated pile of storm debris and household belongings stretches across a cleared lot, with orange safety fencing in the foreground and a house visible in the distance."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: PAO office.JPG
     thumb: /files/thumbnails/14fb2a1b09accd14fb2a1b09b0b4.jpg
     url: /files/original/14fb2a1b09accd14fb2a1b09b0b4.jpg
+    alt:
+      en: "Four men in an office look at laptop computers, two seated in civilian and camouflage attire and two standing in U.S. Army camouflage uniforms, one named \"Karr\"; a bulletin board with National Guard posters is visible behind them."
 geo:
   address: ''
   lat: 0.0

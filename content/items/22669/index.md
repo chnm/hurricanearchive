@@ -21,6 +21,8 @@ files:
     original_filename: PICT0139Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4ce76db14fb29f4ce7ac1.jpg
     url: /files/original/14fb29f4ce76db14fb29f4ce7ac1.jpg
+    alt:
+      en: "Two-story brick building with a white columned balcony shows storm damage to its roof, with a snapped palm tree, scattered debris, and cut tree logs on the lawn; dated 09.15.2005."
 geo:
 id: 22669
 item_type: Still Image

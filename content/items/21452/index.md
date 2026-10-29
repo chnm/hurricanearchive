@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0260-9-25.JPG
     thumb: /files/thumbnails/14fb29fea4409114fb29fea44471.jpg
     url: /files/original/14fb29fea4409114fb29fea44471.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rooftops, trees, and power lines rising above widespread brown floodwater covering streets and yards."
 geo:
 id: 21452
 item_type: Still Image

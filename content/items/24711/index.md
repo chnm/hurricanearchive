@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-13-12Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e56902d614fb29e5697428.jpg
     url: /files/original/14fb29e56902d614fb29e5697428.jpg
+    alt:
+      en: "Grainy aerial view down into a dark structural gap between buildings, with several people climbing or being pulled up amid shadowed debris and greenery below."
 geo:
 id: 24711
 item_type: Still Image

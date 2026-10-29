@@ -29,18 +29,24 @@ files:
     original_filename: CecileRobin-5867_e9f6efbe37.jpg
     thumb: /files/thumbnails/14fb2a160cb78014fb2a160cbb66.jpg
     url: /files/original/14fb2a160cb78014fb2a160cbb66.jpg
+    alt:
+      en: "Photograph of a shrimp boat decked with American flags and patriotic bunting, bearing hand-lettered banners protesting fishing regulations, with a \"San Pedro Boat Blessing\" label at top."
   - fullsize: /files/fullsize/14fb2a160be88914fb2a160bec6f.jpg
     id: 12739
     mime: image/jpeg
     original_filename: CecileRobin-5868_e244237bed.jpg
     thumb: /files/thumbnails/14fb2a160be88914fb2a160bec6f.jpg
     url: /files/original/14fb2a160be88914fb2a160bec6f.jpg
+    alt:
+      en: "A crowd of people wave and smile aboard the decorated boat \"John John,\" docked beside weathered buildings, with a handwritten \"San Pedro Boat Blessing\" caption above."
   - fullsize: /files/fullsize/14fb2a160afe4214fb2a160b0222.jpg
     id: 12740
     mime: image/jpeg
     original_filename: CecileRobin-5871_6bd396c4bb.jpg
     thumb: /files/thumbnails/14fb2a160afe4214fb2a160b0222.jpg
     url: /files/original/14fb2a160afe4214fb2a160b0222.jpg
+    alt:
+      en: "Faded color photo of a group posed on a platform, including a bishop in white and red vestments raising his hand in blessing; a handwritten caption reads \"Bishop Hannen + Father Naquin Blessing the Shrimp Boats + Rec. Boats.\""
 geo:
 id: 15769
 item_type: Still Image

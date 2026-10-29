@@ -26,6 +26,8 @@ files:
     original_filename: Lake_Street_3b27ab2309.JPG
     thumb: /files/thumbnails/14fb2a6da27bb314fb2a6da28012.jpg
     url: /files/original/14fb2a6da27bb314fb2a6da28012.jpg
+    alt:
+      en: "Damaged concrete utility poles lean precariously over a debris-strewn road lined with fallen branches, orange traffic cones, and a \"Tree Removal & Roofing\" sign, under an overcast sky."
 geo:
   address: ''
   lat: 30.1945470580493

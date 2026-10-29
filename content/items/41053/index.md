@@ -18,6 +18,8 @@ files:
     original_filename: post card 2_1cdf8e8cf8.JPG
     thumb: /files/thumbnails/14fb29c462b39314fb29c462c787.jpg
     url: /files/original/14fb29c462b39314fb29c462c787.jpg
+    alt:
+      en: "Postcard featuring a satellite image of a hurricane with printed text \"Hurricane Digital Memory Bank\" and \"NEVER FORGET,\" overlaid with handwritten notes praising New Orleans po-boys and a signature."
 geo:
   address: ''
   lat: 0.0

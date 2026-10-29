@@ -21,6 +21,8 @@ files:
     original_filename: P1010137empireS&R.JPG
     thumb: /files/thumbnails/14fb29edcc6f2c14fb29edcc7311.jpg
     url: /files/original/14fb29edcc6f2c14fb29edcc7311.jpg
+    alt:
+      en: "Flooded, debris-strewn lot with downed trees and a collapsed, storm-damaged structure, bordered by a gravel road and utility lines under a clear sky."
 geo:
 id: 23696
 item_type: Still Image

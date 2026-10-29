@@ -21,6 +21,8 @@ files:
     original_filename: 100_0128.JPG
     thumb: /files/thumbnails/14fb2a594c2ac114fb2a594c2eb1.jpg
     url: /files/original/14fb2a594c2ac114fb2a594c2eb1.jpg
+    alt:
+      en: "A large rusted barge sits beached atop a damaged concrete structure beside a wooden piling dock, with a weathered \"BEWARE\" caution sign posted near the water's edge."
 geo:
 id: 3837
 item_type: Still Image

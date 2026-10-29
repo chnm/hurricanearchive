@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-26-24Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e5514d4914fb29e551512e.jpg
     url: /files/original/14fb29e5514d4914fb29e551512e.jpg
+    alt:
+      en: "Floodwaters submerge a street beneath an elevated highway, with people wading waist-deep near partially submerged vehicles and a crowd gathered near trucks in the background at dusk."
 geo:
 id: 24730
 item_type: Still Image

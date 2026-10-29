@@ -21,6 +21,8 @@ files:
     original_filename: Picture 412-J2.jpg
     thumb: /files/thumbnails/14fb29f995dcff14fb29f995e0e7.jpg
     url: /files/original/14fb29f995dcff14fb29f995e0e7.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms stand near an open briefcase of papers in a room marked \"Alario Center Offices,\" with shelves holding boxes of Kotex and Tampax supplies nearby."
 geo:
 id: 22081
 item_type: Still Image

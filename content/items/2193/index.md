@@ -26,6 +26,8 @@ files:
     original_filename: 2005_1030Image0021rotated_a6d25f3d02.JPG
     thumb: /files/thumbnails/14fb2a6d6f3cee14fb2a6d6f40d2.jpg
     url: /files/original/14fb2a6d6f3cee14fb2a6d6f40d2.jpg
+    alt:
+      en: "A handwritten sign on a whiteboard reads \"POLITICIANS ARE MENTALLY insane or worse\" in red marker, photographed at night with a metal pole visible beside it."
 geo:
   address: ''
   lat: 29.9601957545822

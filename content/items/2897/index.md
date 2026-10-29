@@ -21,6 +21,8 @@ files:
     original_filename: MVC-020S.JPG
     thumb: /files/thumbnails/14fb2a5fa2a26c14fb2a5fa2b2c7.jpg
     url: /files/original/14fb2a5fa2a26c14fb2a5fa2b2c7.jpg
+    alt:
+      en: "Interior of a submarine or ship engine room, with large white and red valve wheels, rows of gauges, pipes, and metal railings under dim overhead lighting."
 geo:
 id: 2897
 item_type: Still Image

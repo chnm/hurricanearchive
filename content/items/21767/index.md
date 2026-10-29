@@ -21,6 +21,8 @@ files:
     original_filename: katrina 035.jpg
     thumb: /files/thumbnails/14fb29fbe1c53714fb29fbe1ebfb.jpg
     url: /files/original/14fb29fbe1c53714fb29fbe1ebfb.jpg
+    alt:
+      en: "Sunset over a parking area with a military Humvee and trailer parked beside a white building, a column of dark smoke rising near power lines in the distance, timestamp \"9:10 PM\" overlaid in red."
 geo:
 id: 21767
 item_type: Still Image

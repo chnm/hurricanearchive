@@ -20,6 +20,8 @@ files:
     original_filename: 2456732507_9b716e8dab.
     thumb: /files/thumbnails/14fb29c8e0c54014fb29c8e0c91f.jpg
     url: /files/original/14fb29c8e0c54014fb29c8e0c91f.jpg
+    alt:
+      en: "Polaroid photo of a muddy, excavated landscape with the arm of a heavy excavator extending into the frame; handwritten caption reads \"3400 Lo Bo long reach Jan 18, 1994.\""
 geo:
 id: 34862
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-031S.JPG
     thumb: /files/thumbnails/14fb2a5f9b874714fb2a5f9b8bfd.jpg
     url: /files/original/14fb2a5f9b874714fb2a5f9b8bfd.jpg
+    alt:
+      en: "Large crane with an angular lattice boom stands on a paved lot under a clear blue sky, with a small American flag visible near its base and other industrial equipment nearby."
 geo:
 id: 2908
 item_type: Still Image

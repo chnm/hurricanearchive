@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0037.JPG
     thumb: /files/thumbnails/14fb2a5763ccb114fb2a5763d094.jpg
     url: /files/original/14fb2a5763ccb114fb2a5763d094.jpg
+    alt:
+      en: "Two tugboats, \"Ms Whitney\" (red hull) and \"Trinity River\" (white hull), sit grounded amid dry marsh grass, with a third vessel partially visible at right under a clear sky."
 geo:
 id: 4151
 item_type: Still Image

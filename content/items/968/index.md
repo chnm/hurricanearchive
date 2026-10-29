@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27931.jpg
     thumb: /files/thumbnails/14fb2a6b9d682314fb2a6b9d6ff0.jpg
     url: /files/original/14fb2a6b9d682314fb2a6b9d6ff0.jpg
+    alt:
+      en: "Exterior view of the Superdome's curved upper facade against a blue sky, with a white sign bearing a blue \"H\" and arrow mounted near the lower section of the building."
 geo:
   address: ''
   lat: 0.0

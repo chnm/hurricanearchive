@@ -27,6 +27,8 @@ files:
     original_filename: 2310193613_ae6abb0a3a.
     thumb: /files/thumbnails/14fb29c9b3414014fb29c9b344a5.jpg
     url: /files/original/14fb29c9b3414014fb29c9b344a5.jpg
+    alt:
+      en: "Silhouetted above-ground tombs with cross finials stand in a cemetery as the sun sets, casting an orange glow across scattered clouds and rows of distant mausoleums."
 geo:
 id: 34493
 item_type: Still Image

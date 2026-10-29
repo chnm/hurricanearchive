@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0692.JPG
     thumb: /files/thumbnails/14fb2a5334f32b14fb2a5334f70f.jpg
     url: /files/original/14fb2a5334f32b14fb2a5334f70f.jpg
+    alt:
+      en: "Corner of a vinyl-sided building with a yellow tape measure extending across bare dirt toward a cinder block wall, with a paint can and blue container nearby."
 geo:
 id: 5247
 item_type: Still Image

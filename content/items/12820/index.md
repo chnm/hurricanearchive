@@ -20,6 +20,8 @@ files:
     original_filename: taco bell_6f28a5b339.jpg
     thumb: /files/thumbnails/14fb2a21ac5bd914fb2a21ac5fbf.jpg
     url: /files/original/14fb2a21ac5bd914fb2a21ac5fbf.jpg
+    alt:
+      en: "Cleared lot with scattered debris and large bare oak trees, likely the former site of a Taco Bell destroyed by hurricane damage, with cracked pavement and a hazy sky in the background."
 geo:
   address: ''
   lat: 30.39849

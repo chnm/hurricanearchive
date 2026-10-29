@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0378.JPG
     thumb: /files/thumbnails/14fb2a54531ae514fb2a54531f37.jpg
     url: /files/original/14fb2a54531ae514fb2a54531f37.jpg
+    alt:
+      en: "A yellow measuring tape runs vertically down a weathered wooden post set in concrete, extending onto the pavement below, with scattered pine needles and debris nearby."
 geo:
 id: 5033
 item_type: Still Image

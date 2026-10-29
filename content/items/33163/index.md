@@ -20,6 +20,8 @@ files:
     original_filename: this is fema love_236bfe9ec1.jpg
     thumb: /files/thumbnails/14fb29cbd750ba14fb29cbd754f1.jpg
     url: /files/original/14fb29cbd750ba14fb29cbd754f1.jpg
+    alt:
+      en: "A white FEMA travel trailer partly covered in climbing vines, with a spray-painted red heart on its side and a fleur-de-lis-decorated propane tank cover topped by a smiley-face hitch ball."
 geo:
   address: ''
   lat: 29.93813

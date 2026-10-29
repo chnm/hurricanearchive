@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1433superdome.JPG
     thumb: /files/thumbnails/14fb29e3b7a21a14fb29e3b7a5fe.jpg
     url: /files/original/14fb29e3b7a21a14fb29e3b7a5fe.jpg
+    alt:
+      en: "A military police soldier with a Louisiana National Guard pelican patch and \"MP\" armband stands watch in a dim covered walkway as a crowd gathers near an exit leading outside."
 geo:
 id: 24936
 item_type: Still Image

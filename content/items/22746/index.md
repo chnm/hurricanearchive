@@ -21,6 +21,8 @@ files:
     original_filename: PICT0868Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4476f2314fb29f4477305.jpg
     url: /files/original/14fb29f4476f2314fb29f4477305.jpg
+    alt:
+      en: "Muddy, debris-strewn lot with large trees, two cars (one with hood up), and damaged buildings in the background; the ground is covered in dried mud and standing water, dated 09.15.2005."
 geo:
 id: 22746
 item_type: Still Image

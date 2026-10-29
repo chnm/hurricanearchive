@@ -21,6 +21,8 @@ files:
     original_filename: Picture 053engineers.jpg
     thumb: /files/thumbnails/14fb2a0faa428e14fb2a0faa4664.jpg
     url: /files/original/14fb2a0faa428e14fb2a0faa4664.jpg
+    alt:
+      en: "Aerial view of a riverside oil storage facility with numerous cylindrical tanks, connecting pipelines, and docks along the water, bordered by a residential grid of streets and houses."
 geo:
 id: 19493
 item_type: Still Image

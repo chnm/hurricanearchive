@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049media.JPG
     thumb: /files/thumbnails/14fb29f290becc14fb29f290c554.jpg
     url: /files/original/14fb29f290becc14fb29f290c554.jpg
+    alt:
+      en: "Aerial view from a helicopter of a flood-damaged neighborhood along a canal, with debris-covered lots and storm-damaged homes, as a person in the foreground holds a video camera."
 geo:
 id: 22943
 item_type: Still Image

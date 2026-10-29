@@ -21,6 +21,8 @@ files:
     original_filename: 100_0149.JPG
     thumb: /files/thumbnails/14fb2a593b88e814fb2a593b8f9d.jpg
     url: /files/original/14fb2a593b88e814fb2a593b8f9d.jpg
+    alt:
+      en: "A man in a Coast Guard orange life vest rides in a boat on floodwater beneath an elevated highway, with green signs reading \"I-10 West Baton Rouge\" and \"I-10 East New Orleans Business District, Exit 1B Only.\""
 geo:
 id: 3856
 item_type: Still Image

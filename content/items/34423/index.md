@@ -20,6 +20,8 @@ files:
     original_filename: 2380704622_31164dc196.
     thumb: /files/thumbnails/14fb29ca18e08c14fb29ca18e472.jpg
     url: /files/original/14fb29ca18e08c14fb29ca18e472.jpg
+    alt:
+      en: "Dark, cluttered interior room with a wooden dresser, bed, and debris scattered on the floor, viewed toward an open door revealing daylight and vegetation outside."
 geo:
   address: ''
   lat: 30.22894

@@ -21,6 +21,8 @@ files:
     original_filename: 207 billboard down.jpg
     thumb: /files/thumbnails/14fb2a1f425b4014fb2a1f425f1b.jpg
     url: /files/original/14fb2a1f425b4014fb2a1f425f1b.jpg
+    alt:
+      en: "Collapsed billboard structure lying at an angle across a grassy field, with scattered metal sheeting and debris nearby, trees and houses visible in the blurred background."
 geo:
 id: 13213
 item_type: Still Image

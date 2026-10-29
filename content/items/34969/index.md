@@ -20,6 +20,8 @@ files:
     original_filename: 2298647712_4c4cb31284.
     thumb: /files/thumbnails/14fb29c81da14014fb29c81da730.jpg
     url: /files/original/14fb29c81da14014fb29c81da730.jpg
+    alt:
+      en: "A group of people load bicycles into a large truck trailer on a residential street, with utility poles, wires, and houses visible in the background."
 geo:
 id: 34969
 item_type: Still Image

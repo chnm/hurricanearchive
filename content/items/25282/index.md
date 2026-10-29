@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2009superdome.JPG
     thumb: /files/thumbnails/14fb29df68d16514fb29df68d53d.jpg
     url: /files/original/14fb29df68d16514fb29df68d53d.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms assist evacuees, carrying a child and pushing an elderly woman in a wheelchair, beside an \"Acadian Shuttle\" van from Lake Charles Memorial Hospital."
 geo:
 id: 25282
 item_type: Still Image

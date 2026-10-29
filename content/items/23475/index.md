@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0124cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef45ba6414fb29ef45be4c.jpg
     url: /files/original/14fb29ef45ba6414fb29ef45be4c.jpg
+    alt:
+      en: "Aerial view of a flooded swamp dotted with cypress trees and patches of green algae, bordered by dense forest under a hazy blue sky."
 geo:
 id: 23475
 item_type: Still Image

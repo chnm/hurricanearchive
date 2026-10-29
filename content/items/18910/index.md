@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0260downtownnola.JPG
     thumb: /files/thumbnails/14fb2a144b2fe814fb2a144b38a1.jpg
     url: /files/original/14fb2a144b2fe814fb2a144b38a1.jpg
+    alt:
+      en: "Aerial view of a flat residential and industrial area with damaged rooftops, scattered debris, trailers, and vehicles, a blue water tower, and a river visible in the hazy distance."
 geo:
 id: 18910
 item_type: Still Image

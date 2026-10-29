@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 116cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e2bc12e14fb2a0e2bcc59.jpg
     url: /files/original/14fb2a0e2bc12e14fb2a0e2bcc59.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms gather around military Humvees in a gravel lot, one reading a document while others lean on the vehicles; a \"Storage\" sign is visible in the background."
 geo:
 id: 19729
 item_type: Still Image

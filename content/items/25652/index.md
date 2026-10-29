@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.114.JPG
     thumb: /files/thumbnails/14fb29dce508ee14fb29dce50cc6.jpg
     url: /files/original/14fb29dce508ee14fb29dce50cc6.jpg
+    alt:
+      en: "A storm-damaged single-story house with warped, twisted siding and collapsed porch railings sits behind overgrown grass and pink wildflowers, with a yellow \"W&A Framing\" repair company sign posted nearby."
 geo:
 id: 25652
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2184superdome.JPG
     thumb: /files/thumbnails/14fb29e46ec86314fb29e46edb9c.jpg
     url: /files/original/14fb29e46ec86314fb29e46edb9c.jpg
+    alt:
+      en: "Nighttime scene of soldiers in camouflage unloading MRE boxes and bottled water from a truck onto shopping carts, with cases labeled \"Meal, Ready-to-Eat\" and water packs nearby."
 geo:
 id: 24844
 item_type: Still Image

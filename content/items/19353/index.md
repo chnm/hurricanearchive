@@ -21,6 +21,8 @@ files:
     original_filename: 02engineers.JPG
     thumb: /files/thumbnails/14fb2a10e0af5014fb2a10e0b334.jpg
     url: /files/original/14fb2a10e0af5014fb2a10e0b334.jpg
+    alt:
+      en: "Two men in military uniforms set up a portable table saw to cut a wooden board in a parking lot, with military trucks and vehicles visible in the background."
 geo:
 id: 19353
 item_type: Still Image

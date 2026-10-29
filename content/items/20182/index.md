@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0018.JPG
     thumb: /files/thumbnails/14fb2a0ae7871e14fb2a0ae7a0d0.jpg
     url: /files/original/14fb2a0ae7871e14fb2a0ae7a0d0.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rooftops and treetops rising above widespread standing water, with a highway interchange and hazy cityscape visible in the distance."
 geo:
 id: 20182
 item_type: Still Image

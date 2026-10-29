@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2073superdome.JPG
     thumb: /files/thumbnails/14fb29ded6b00514fb29ded6b2b5.jpg
     url: /files/original/14fb29ded6b00514fb29ded6b2b5.jpg
+    alt:
+      en: "Two men wearing camouflage pants, one in a brown shirt with blue gloves, support an injured man in a white shirt between them while a third man in black assists on a wet roadway."
 geo:
 id: 25346
 item_type: Still Image

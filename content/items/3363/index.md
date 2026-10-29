@@ -21,6 +21,8 @@ files:
     original_filename: SS St. Bernard (4).jpg
     thumb: /files/thumbnails/14fb2a5c2a40d414fb2a5c2a4457.jpg
     url: /files/original/14fb2a5c2a40d414fb2a5c2a4457.jpg
+    alt:
+      en: "Damaged convenience store and gas station with shattered windows and debris scattered across the lot, a pickup truck and two people standing nearby, under a clear blue sky."
 geo:
 id: 3363
 item_type: Still Image

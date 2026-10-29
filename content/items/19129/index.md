@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 039.jpg
     thumb: /files/thumbnails/14fb2a12d2bb9314fb2a12d2bf7c.jpg
     url: /files/original/14fb2a12d2bb9314fb2a12d2bf7c.jpg
+    alt:
+      en: "Two men in camouflage uniforms stand at the open back of a semi-trailer loaded with bagged ice, with a Tennessee license plate visible on the truck."
 geo:
 id: 19129
 item_type: Still Image

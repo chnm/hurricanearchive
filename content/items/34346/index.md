@@ -27,6 +27,8 @@ files:
     original_filename: 2380072403_b8b41e62ce.
     thumb: /files/thumbnails/14fb29ca439e6014fb29ca43a243.jpg
     url: /files/original/14fb29ca439e6014fb29ca43a243.jpg
+    alt:
+      en: "A cluttered pile of water-damaged belongings including books, a gilded picture frame, small wooden boxes, and a sponge-like object stacked against a red and white wall."
 geo:
   address: ''
   lat: 30.22894

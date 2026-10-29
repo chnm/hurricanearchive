@@ -21,6 +21,8 @@ files:
     original_filename: 100_0181.JPG
     thumb: /files/thumbnails/14fb2a591a41f414fb2a591a45d1.jpg
     url: /files/original/14fb2a591a41f414fb2a591a45d1.jpg
+    alt:
+      en: "Floodwater submerges a residential street to rooftop level, with trees rising from the water and a street sign reading \"Milne Blvd\" and \"Ringold\" marking the intersection."
 geo:
 id: 3888
 item_type: Still Image

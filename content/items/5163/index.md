@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0525.JPG
     thumb: /files/thumbnails/14fb2a53a80c8c14fb2a53a81071.jpg
     url: /files/original/14fb2a53a80c8c14fb2a53a81071.jpg
+    alt:
+      en: "A large, mostly bare tree stands against a clear blue sky, with debris and plastic sheeting tangled in its branches, likely from storm damage, alongside a roadside with scattered rubble."
 geo:
 id: 5163
 item_type: Still Image

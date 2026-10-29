@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0165-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0125a7cc14fb2a0125abb2.jpg
     url: /files/original/14fb2a0125a7cc14fb2a0125abb2.jpg
+    alt:
+      en: "A GMC pickup truck lies overturned on its side amid storm debris, with dried grass and reeds tangled in its undercarriage and surrounding wreckage scattered across the ground."
 geo:
 id: 20996
 item_type: Still Image

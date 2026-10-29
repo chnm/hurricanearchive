@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0665.JPG
     thumb: /files/thumbnails/14fb2a535ac8fb14fb2a535accdf.jpg
     url: /files/original/14fb2a535ac8fb14fb2a535accdf.jpg
+    alt:
+      en: "Debris and flattened structures line a cleared lot surrounded by tall pine trees, with a mailbox and small flags near the empty driveway, evidence of storm destruction."
 geo:
 id: 5220
 item_type: Still Image

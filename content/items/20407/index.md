@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a07f722f314fb2a07f726da.jpg
     url: /files/original/14fb2a07f722f314fb2a07f726da.jpg
+    alt:
+      en: "Man with glasses and a beard sits at a kitchen table holding a sandwich, with a red insulated jug, glasses of ice water, and papers on the table; a cluttered kitchen with hanging utensils and a note-covered refrigerator is visible behind him."
 geo:
 id: 20407
 item_type: Still Image

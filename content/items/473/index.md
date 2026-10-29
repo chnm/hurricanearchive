@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0329_4c24f30b4c.JPG
     thumb: /files/thumbnails/14fb2a6fc45ac314fb2a6fc45ccf.jpg
     url: /files/original/14fb2a6fc45ac314fb2a6fc45ccf.jpg
+    alt:
+      en: "Grassy median crowded with business signs for demolition, repair, and construction services—including \"Southern Sheetrock and Demolition,\" \"JMP Demolition,\" and \"Veterans Ford Is Open\"—at a street corner marked \"Canal Blvd.\""
 geo:
   address: ''
   lat: 29.993002284551103

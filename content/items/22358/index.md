@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1174Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f709eeea14fb29f709f2ce.jpg
     url: /files/original/14fb29f709eeea14fb29f709f2ce.jpg
+    alt:
+      en: "Floodwaters submerge a residential street during heavy rain, with brick gateposts, a lamppost, and an iron fence partly underwater in front of a brick house."
 geo:
 id: 22358
 item_type: Still Image

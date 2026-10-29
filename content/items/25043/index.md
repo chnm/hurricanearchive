@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1568superdome.JPG
     thumb: /files/thumbnails/14fb29e2b13e0414fb29e2b141eb.jpg
     url: /files/original/14fb29e2b13e0414fb29e2b141eb.jpg
+    alt:
+      en: "Military personnel in camouflage walk through a parking lot near a large domed stadium, with a camo truck, police car, and SUVs parked nearby under a hazy sky."
 geo:
 id: 25043
 item_type: Still Image

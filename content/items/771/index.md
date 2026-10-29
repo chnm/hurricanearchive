@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28662.jpg
     thumb: /files/thumbnails/14fb2a6d21f6f414fb2a6d21fd50.jpg
     url: /files/original/14fb2a6d21f6f414fb2a6d21fd50.jpg
+    alt:
+      en: "A folding chair with handwritten signs reading \"QUIET TIME STAFF ONLY\" sits in an aisle between wire animal cages at an outdoor rescue shelter, with fans and people in the background."
 geo:
   address: ''
   lat: 0.0

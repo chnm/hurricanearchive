@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.050.JPG
     thumb: /files/thumbnails/14fb29dcc7fcd314fb29dcc800b9.jpg
     url: /files/original/14fb29dcc7fcd314fb29dcc800b9.jpg
+    alt:
+      en: "Yellow wood-sided house with teal window frames and wooden louvered shutters in varying shades of brown, a partial address plate reading \"03\" visible between two windows."
 geo:
 id: 25671
 item_type: Still Image

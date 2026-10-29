@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1549superdome.JPG
     thumb: /files/thumbnails/14fb29e2dcb4a614fb29e2dcb88c.jpg
     url: /files/original/14fb29e2dcb4a614fb29e2dcb88c.jpg
+    alt:
+      en: "A Coast Guard HH-60 Jayhawk helicopter, numbered 28, sits on a rooftop helipad with its rotors spinning, multi-story buildings visible in the background."
 geo:
 id: 25027
 item_type: Still Image

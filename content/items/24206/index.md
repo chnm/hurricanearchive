@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031cameronS&R.JPG
     thumb: /files/thumbnails/14fb29e9c5483314fb29e9c54c24.jpg
     url: /files/original/14fb29e9c5483314fb29e9c54c24.jpg
+    alt:
+      en: "Aerial view of a narrow barrier peninsula with a two-lane road running along it, flanked by marsh grasses, scattered ponds, and sandy beach, fading into haze along the coastline."
 geo:
 id: 24206
 item_type: Still Image

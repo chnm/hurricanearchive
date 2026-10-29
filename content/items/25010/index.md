@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1532superdome.JPG
     thumb: /files/thumbnails/14fb29e2f0f7a514fb29e2f15e2b.jpg
     url: /files/original/14fb29e2f0f7a514fb29e2f15e2b.jpg
+    alt:
+      en: "A military Black Hawk helicopter marked \"585\" sits on a rooftop helipad as a group of uniformed and civilian people walk toward it, with the Delgado Community College Charity School of Nursing building in the background."
 geo:
 id: 25010
 item_type: Still Image

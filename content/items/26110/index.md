@@ -33,24 +33,32 @@ files:
     original_filename: Jeff Chauppetta_6436_094860b671.jpg
     thumb: /files/thumbnails/14fb29dababf0814fb29dabac923.jpg
     url: /files/original/14fb29dababf0814fb29dabac923.jpg
+    alt:
+      en: "Hand-drawn ink sketch on lined notebook paper of a humanoid figure with large feathered wings outstretched and bird-like taloned feet, rendered in purple and black ink."
   - fullsize: /files/fullsize/14fb29dab52cda14fb29dab530bf.jpg
     id: 22692
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6437_c781c26351.jpg
     thumb: /files/thumbnails/14fb29dab52cda14fb29dab530bf.jpg
     url: /files/original/14fb29dab52cda14fb29dab530bf.jpg
+    alt:
+      en: "Child's ink drawing of a two-level structure: upper balcony with armed figures and a winged angel figure, lower level with a row of people, a doorway, and initials \"K. R. H.V. M. J.\" written above."
   - fullsize: /files/fullsize/14fb29dab3d91b14fb29dab3dd04.jpg
     id: 22693
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6438_a05e259093.jpg
     thumb: /files/thumbnails/14fb29dab3d91b14fb29dab3dd04.jpg
     url: /files/original/14fb29dab3d91b14fb29dab3dd04.jpg
+    alt:
+      en: "Child's hand-drawn illustration on lined notebook paper of an airplane with passenger faces and initials (J.J., R., M., H., K.) in the windows, surrounded by clouds; a smaller partial drawing with figures appears at left edge."
   - fullsize: /files/fullsize/14fb29dab130c914fb29dab13956.jpg
     id: 22694
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6439_dbbd0bbd94.jpg
     thumb: /files/thumbnails/14fb29dab130c914fb29dab13956.jpg
     url: /files/original/14fb29dab130c914fb29dab13956.jpg
+    alt:
+      en: "Hand-drawn ink sketch on lined notebook paper of a stick figure in a hat holding a torch and a stick of dynamite inside an arched, scribble-textured cave or tomb entrance, with a small fire and debris nearby."
 geo:
 id: 26110
 item_type: Still Image

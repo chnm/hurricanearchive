@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0104abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef70359714fb29ef70397d.jpg
     url: /files/original/14fb29ef70359714fb29ef70397d.jpg
+    alt:
+      en: "A garter snake with yellow stripes slithers across a debris-covered mound of matted grass and twigs near a muddy waterline, with a reed lying diagonally across the scene."
 geo:
 id: 23437
 item_type: Still Image

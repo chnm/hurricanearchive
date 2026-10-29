@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2187superdome.JPG
     thumb: /files/thumbnails/14fb29e46bdee514fb29e46be19d.jpg
     url: /files/original/14fb29e46bdee514fb29e46be19d.jpg
+    alt:
+      en: "Nighttime scene with a bus marked \"T-106\" and \"Carolina\" parked beside floodwater, as a small group including a man in military fatigues boards near debris and an empty chair on the wet pavement."
 geo:
 id: 24847
 item_type: Still Image

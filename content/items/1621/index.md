@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28673.jpg
     thumb: /files/thumbnails/14fb2a6762005714fb2a67620489.jpg
     url: /files/original/14fb2a6762005714fb2a67620489.jpg
+    alt:
+      en: "Three women stand with a brown horse outside a trailer at an animal rescue depot, one holding its halter while the others look on in the sunlight."
 geo:
   address: ''
   lat: 0.0

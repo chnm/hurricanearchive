@@ -21,6 +21,8 @@ files:
     original_filename: Picture 285-J2.jpg
     thumb: /files/thumbnails/14fb29fada0d4714fb29fada113a.jpg
     url: /files/original/14fb29fada0d4714fb29fada113a.jpg
+    alt:
+      en: "View from a highway overpass guardrail toward a neighborhood of rooftops and a large warehouse-style building, with utility poles, power lines, and trees under a partly cloudy sky."
 geo:
 id: 21954
 item_type: Still Image

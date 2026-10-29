@@ -21,6 +21,8 @@ files:
     original_filename: Picture 065.jpg
     thumb: /files/thumbnails/14fb29cc67922014fb29cc67bf5f.jpg
     url: /files/original/14fb29cc67922014fb29cc67bf5f.jpg
+    alt:
+      en: "A calico cat wearing a pink collar eats from a small can of pâté-style food placed inside a green and blue floral-patterned ceramic bowl on a carpeted floor."
 geo:
 id: 30800
 item_type: Still Image

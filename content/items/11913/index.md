@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 035.jpg
     thumb: /files/thumbnails/14fb2a22beb2cb14fb2a22beb6a9.jpg
     url: /files/original/14fb2a22beb2cb14fb2a22beb6a9.jpg
+    alt:
+      en: "Damaged Edgewater Village Shopping Center sign with bent metal framework stands near a debris-strewn waterfront, bare trees and a person walking along the shore, dated 2005/09/24."
 geo:
 id: 11913
 item_type: Still Image

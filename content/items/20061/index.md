@@ -21,6 +21,8 @@ files:
     original_filename: Picture 158cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b855d7314fb2a0b856162.jpg
     url: /files/original/14fb2a0b855d7314fb2a0b856162.jpg
+    alt:
+      en: "Large rusted barges or ship hulls run aground along a muddy, debris-strewn shoreline, with industrial storage tanks and utility poles visible in the background under a clear sky."
 geo:
 id: 20061
 item_type: Still Image

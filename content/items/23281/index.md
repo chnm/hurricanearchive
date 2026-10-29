@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29f024a06314fb29f024a448.jpg
     url: /files/original/14fb29f024a06314fb29f024a448.jpg
+    alt:
+      en: "Collapsed metal building with twisted roofing, scattered lumber, and a damaged van amid storm debris; a yellow fire hydrant and leafless trees stand in the foreground and background."
 geo:
 id: 23281
 item_type: Still Image

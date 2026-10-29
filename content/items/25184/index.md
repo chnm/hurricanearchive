@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1799superdome.JPG
     thumb: /files/thumbnails/14fb29e147886514fb29e1478d38.jpg
     url: /files/original/14fb29e147886514fb29e1478d38.jpg
+    alt:
+      en: "Two uniformed military officers in camouflage fatigues and tan boots walk across a parking lot, one reading a notebook, near a sign reading \"WELCOME TO THE LOUISIANA SUPERDOME ATTENTION:\" with parking regulations."
 geo:
 id: 25184
 item_type: Still Image

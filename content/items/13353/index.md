@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4840_39ab256394.jpg
     thumb: /files/thumbnails/14fb2a1e3e18fb14fb2a1e3e1cdf.jpg
     url: /files/original/14fb2a1e3e18fb14fb2a1e3e1cdf.jpg
+    alt:
+      en: "Parade float decorated with colorful feathered headdresses and strings of beads, with spectators reaching up toward riders along a city street lined with tall buildings."
 geo:
   address: new oreleans
   lat: 29.97358

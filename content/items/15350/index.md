@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-15_43faa36dd1.jpg
     thumb: /files/thumbnails/14fb2a1663391b14fb2a166340b9.jpg
     url: /files/original/14fb2a1663391b14fb2a166340b9.jpg
+    alt:
+      en: "Aged, water-damaged photo of a young boy sitting cross-legged, holding a book titled \"My Big FunThinker Book of Light,\" with wrapped gifts and wrapping paper rolls visible behind him."
 geo:
 id: 15350
 item_type: Still Image

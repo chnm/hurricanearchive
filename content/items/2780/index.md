@@ -27,6 +27,8 @@ files:
     original_filename: Beautiful Day In Texas
     thumb: /files/thumbnails/14fb2a6036c40f14fb2a6036c7f6.jpg
     url: /files/original/14fb2a6036c40f14fb2a6036c7f6.jpg
+    alt:
+      en: "Crayon drawing by Elisha of four trees under a sky filled with birds and a bright sun, with text reading \"Beautiful Day in Texas\" and \"I will love neworleans and texas 4ever.\""
 geo:
 id: 2780
 item_type: Still Image

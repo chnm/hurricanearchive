@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0286.JPG
     thumb: /files/thumbnails/14fb2a54d4b41214fb2a54d4b7f5.jpg
     url: /files/original/14fb2a54d4b41214fb2a54d4b7f5.jpg
+    alt:
+      en: "Damaged ceiling with exposed wooden rafters and torn insulation, roof decking missing, and a ceiling fan with light fixture hanging askew amid the wreckage."
 geo:
 id: 4944
 item_type: Still Image

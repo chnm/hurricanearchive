@@ -26,6 +26,8 @@ files:
     original_filename: 033_downtown_deridder_fec62db0e9.jpg
     thumb: /files/thumbnails/14fb2a703a8d7614fb2a703a9f7b.jpg
     url: /files/original/14fb2a703a8d7614fb2a703a9f7b.jpg
+    alt:
+      en: "Collapsed brick walls of damaged downtown buildings with rubble scattered across the sidewalk and street, a domed courthouse visible in the background."
 geo:
   address: ''
   lat: 30.651656

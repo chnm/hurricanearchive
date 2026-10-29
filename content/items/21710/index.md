@@ -21,6 +21,8 @@ files:
     original_filename: P1010012.JPG
     thumb: /files/thumbnails/14fb29fc52c37f14fb29fc52c765.jpg
     url: /files/original/14fb29fc52c37f14fb29fc52c765.jpg
+    alt:
+      en: "Military cargo aircraft parked on an airport tarmac with a fuel truck and two people walking nearby, under a clear blue sky."
 geo:
 id: 21710
 item_type: Still Image

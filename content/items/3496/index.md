@@ -24,6 +24,8 @@ files:
     original_filename: P1010070.JPG
     thumb: /files/thumbnails/14fb2a5b7654a214fb2a5b765aba.jpg
     url: /files/original/14fb2a5b7654a214fb2a5b765aba.jpg
+    alt:
+      en: "A handwritten-style printed sign duct-taped to a weathered door reads \"To the Landlord: Robert [redacted] can be reached at [redacted]. Please call him.\""
 geo:
 id: 3496
 item_type: Still Image

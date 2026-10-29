@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1062Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8a15b8414fb29f8a15f68.jpg
     url: /files/original/14fb29f8a15b8414fb29f8a15f68.jpg
+    alt:
+      en: "Silhouette of a person holding a radio to their ear, looking out over a brick wall topped with barbed wire toward a fog-shrouded building and trees in the distance."
 geo:
 id: 22251
 item_type: Still Image

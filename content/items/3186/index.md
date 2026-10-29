@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (37).JPG
     thumb: /files/thumbnails/14fb2a5d6973bf14fb2a5d6977a6.jpg
     url: /files/original/14fb2a5d6973bf14fb2a5d6977a6.jpg
+    alt:
+      en: "Two white single-story shotgun houses with columned porches and shuttered windows stand beside a larger damaged house, surrounded by debris, bare dirt, and scattered leaves under a large oak tree."
 geo:
 id: 3186
 item_type: Still Image

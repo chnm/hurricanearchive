@@ -21,6 +21,8 @@ files:
     original_filename: P1010114empireS&R.JPG
     thumb: /files/thumbnails/14fb29edf193d114fb29edf197b7.jpg
     url: /files/original/14fb29edf193d114fb29edf197b7.jpg
+    alt:
+      en: "An American Medical Response ambulance and other emergency vehicles are parked on a lot near a military tent, canopy, and a satellite truck labeled \"SOLA Emergency Response,\" with workers setting up equipment on the grass."
 geo:
 id: 23673
 item_type: Still Image

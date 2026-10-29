@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 010.jpg
     thumb: /files/thumbnails/14fb2a1313260d14fb2a13132ed4.jpg
     url: /files/original/14fb2a1313260d14fb2a13132ed4.jpg
+    alt:
+      en: "Two-story white colonnaded building with a pedimented roof and round window, double-level porches with black railings, and a man in camouflage standing near a lamppost in front."
 geo:
 id: 19100
 item_type: Still Image

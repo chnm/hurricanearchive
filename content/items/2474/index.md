@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8524.jpg
     thumb: /files/thumbnails/14fb2a6626ea7a14fb2a6626ee67.jpg
     url: /files/original/14fb2a6626ea7a14fb2a6626ee67.jpg
+    alt:
+      en: "Several large boats, including \"Discovery\" and \"Polish Palace,\" sit stranded on dry ground beside a collapsed roof and debris, with an apartment building in the background."
 geo:
 id: 2474
 item_type: Still Image

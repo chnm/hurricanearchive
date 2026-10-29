@@ -21,6 +21,8 @@ files:
     original_filename: MVC-011S.JPG
     thumb: /files/thumbnails/14fb2a5ff52de514fb2a5ff531ca.jpg
     url: /files/original/14fb2a5ff52de514fb2a5ff531ca.jpg
+    alt:
+      en: "A severely damaged helicopter with a mangled tail section sits in a parking lot, with a fighter jet and a red \"Maersk\" shipping container visible in the background."
 geo:
 id: 2820
 item_type: Still Image

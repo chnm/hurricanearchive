@@ -21,6 +21,8 @@ files:
     original_filename: J2 (54).JPG
     thumb: /files/thumbnails/14fb2a111021b114fb2a1110248a.jpg
     url: /files/original/14fb2a111021b114fb2a1110248a.jpg
+    alt:
+      en: "Aerial view of a historic French Quarter cityscape with a prominent church spire, dense rooftops, a riverside esplanade, and a wide river in the foreground under hazy skies."
 geo:
 id: 19338
 item_type: Still Image

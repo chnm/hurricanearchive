@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034tolbertmedia.JPG
     thumb: /files/thumbnails/14fb29f2a7579214fb29f2a75b77.jpg
     url: /files/original/14fb29f2a7579214fb29f2a75b77.jpg
+    alt:
+      en: "Profile view of a man in camouflage military uniform with a name patch reading \"TALBE...\" looking out from an aircraft window over a blurred aerial landscape below."
 geo:
 id: 22930
 item_type: Still Image

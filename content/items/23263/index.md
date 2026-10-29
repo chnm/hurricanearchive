@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2260neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f037d77414fb29f037db59.jpg
     url: /files/original/14fb29f037d77414fb29f037db59.jpg
+    alt:
+      en: "Debris-covered residential street with damaged trees, downed branches, and a fallen power pole, small houses lining both sides under a clear sky."
 geo:
 id: 23263
 item_type: Still Image

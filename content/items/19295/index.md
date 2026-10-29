@@ -21,6 +21,8 @@ files:
     original_filename: J2 (15).JPG
     thumb: /files/thumbnails/14fb2a114eb18014fb2a114eb55a.jpg
     url: /files/original/14fb2a114eb18014fb2a114eb55a.jpg
+    alt:
+      en: "Abandoned refrigerator spray-painted \"I WILL SHOOT LOOTERS DR BOB\" stands on a debris-strewn sidewalk beside a damaged storefront, with a \"DO NOT PASS\" sign and \"BAD ASS DOGS\" graffiti nearby."
 geo:
 id: 19295
 item_type: Still Image

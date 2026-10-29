@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1933superdome.JPG
     thumb: /files/thumbnails/14fb29e09269de14fb29e0926dca.jpg
     url: /files/original/14fb29e09269de14fb29e0926dca.jpg
+    alt:
+      en: "A large military Chinook helicopter sits on a rooftop helipad as several soldiers in fatigues carrying gear jog across the landing area, with city buildings and an elevated highway visible in the background."
 geo:
 id: 25234
 item_type: Still Image

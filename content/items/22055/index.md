@@ -21,6 +21,8 @@ files:
     original_filename: Picture 386-J2.jpg
     thumb: /files/thumbnails/14fb29f9ce4de814fb29f9ce51cd.jpg
     url: /files/original/14fb29f9ce4de814fb29f9ce51cd.jpg
+    alt:
+      en: "Rows of cots fill a large shelter as uniformed service members sit eating Domino's Pizza while watching a small TV, with a jug of Tide detergent and paper cups nearby on the floor."
 geo:
 id: 22055
 item_type: Still Image

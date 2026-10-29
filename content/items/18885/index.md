@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0235downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14aaac1a14fb2a14aaafff.jpg
     url: /files/original/14fb2a14aaac1a14fb2a14aaafff.jpg
+    alt:
+      en: "Aerial view of a historic French Quarter district with a central park featuring an equestrian statue, surrounded by rooftops, a church steeple, and the Mississippi River with a bridge in the background."
 geo:
 id: 18885
 item_type: Still Image

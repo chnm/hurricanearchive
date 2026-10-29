@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28088.jpg
     thumb: /files/thumbnails/14fb2a6cc8496814fb2a6cc84d46.jpg
     url: /files/original/14fb2a6cc8496814fb2a6cc84d46.jpg
+    alt:
+      en: "Close-up of weathered double doors with carved Star of David panels, dark metal door handles, and a small paper notice taped between them."
 geo:
   address: ''
   lat: 0.0

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28219.jpg
     thumb: /files/thumbnails/14fb2a69c1a73914fb2a69c1ab11.jpg
     url: /files/original/14fb2a69c1a73914fb2a69c1ab11.jpg
+    alt:
+      en: "The foundation and scattered white support posts of a destroyed house stand amid barren, scorched trees, with an American flag flying on a pole at the center of the wreckage."
 geo:
   address: ''
   lat: 0.0

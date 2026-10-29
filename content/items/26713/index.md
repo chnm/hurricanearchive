@@ -24,6 +24,8 @@ files:
     original_filename: JB 2 grandparents_5620719640.2.jpg
     thumb: /files/thumbnails/14fb29d82a1de014fb29d82a2076.jpg
     url: /files/original/14fb29d82a1de014fb29d82a2076.jpg
+    alt:
+      en: "Vintage black-and-white snapshot of a woman reclining playfully on the hood of a classic car, with houses and a utility pole visible in the background; this is Mary Bernard, grandmother of Jill Babin."
 geo:
   address: ''
   lat: 29.87876

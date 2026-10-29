@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28446.jpg
     thumb: /files/thumbnails/14fb2a6c67c9bc14fb2a6c67d25f.jpg
     url: /files/original/14fb2a6c67c9bc14fb2a6c67d25f.jpg
+    alt:
+      en: "Damaged \"Boomtown Casino Welcome Center\" sign with a dark, broken digital display beneath it, surrounded by storm debris, a chain-link fence, and bare, wind-stripped trees."
 geo:
   address: ''
   lat: 0.0

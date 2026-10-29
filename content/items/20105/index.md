@@ -21,6 +21,8 @@ files:
     original_filename: Picture 202cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b50a98114fb2a0b50ad67.jpg
     url: /files/original/14fb2a0b50a98114fb2a0b50ad67.jpg
+    alt:
+      en: "Empty paved road beside a grassy median lined with palm trees and a large bare, storm-damaged tree, with debris scattered on the ground and a building visible in the background."
 geo:
 id: 20105
 item_type: Still Image

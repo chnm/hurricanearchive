@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0015.JPG
     thumb: /files/thumbnails/14fb2a56ebce5e14fb2a56ebd244.jpg
     url: /files/original/14fb2a56ebce5e14fb2a56ebd244.jpg
+    alt:
+      en: "A storm-damaged house with a blue roof stands beside a debris-strewn roadside, with downed branches, scattered trash, and a hand-painted yellow sign reading \"613 Regna.\""
 geo:
 id: 4589
 item_type: Still Image

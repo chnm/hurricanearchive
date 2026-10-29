@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28520.jpg
     thumb: /files/thumbnails/14fb2a681f33e714fb2a681f3803.jpg
     url: /files/original/14fb2a681f33e714fb2a681f3803.jpg
+    alt:
+      en: "A man in a cap and gloves attaches a black-and-white \"EXIT ONLY\" sign to a wooden fence beside a metal gate, with debris scattered on the ground nearby."
 geo:
   address: ''
   lat: 0.0

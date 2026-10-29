@@ -24,6 +24,8 @@ files:
     original_filename: P1010023.JPG
     thumb: /files/thumbnails/14fb2a5ba5f62f14fb2a5ba5fa14.jpg
     url: /files/original/14fb2a5ba5f62f14fb2a5ba5fa14.jpg
+    alt:
+      en: "Orange excavator beside a large pile of debris from a demolished building near a waterway, with damaged trees, a seawall, and pedestrians in the background."
 geo:
 id: 3455
 item_type: Still Image

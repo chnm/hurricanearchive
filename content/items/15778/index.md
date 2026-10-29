@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5879_35e9de51fe.jpg
     thumb: /files/thumbnails/14fb2a15fd166b14fb2a15fd1a4f.jpg
     url: /files/original/14fb2a15fd166b14fb2a15fd1a4f.jpg
+    alt:
+      en: "Two male shrimpers wearing caps and gloves work on deck at night, hauling in a large net from a single rig shrimping boat, with sparks visible in the dark background."
 geo:
 id: 15778
 item_type: Still Image

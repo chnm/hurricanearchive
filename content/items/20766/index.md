@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0073M.JPG
     thumb: /files/thumbnails/14fb2a040a421e14fb2a040a4600.jpg
     url: /files/original/14fb2a040a421e14fb2a040a4600.jpg
+    alt:
+      en: "A military medic wearing white gloves administers a vaccination to a young woman's upper arm, with another uniformed serviceman looking on in the background."
 geo:
 id: 20766
 item_type: Still Image

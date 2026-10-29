@@ -26,6 +26,8 @@ files:
     original_filename: 100_5729b_a196d4a3e4.jpg
     thumb: /files/thumbnails/14fb2a711808d514fb2a71180cbb.jpg
     url: /files/original/14fb2a711808d514fb2a71180cbb.jpg
+    alt:
+      en: "A row of discarded refrigerators and appliances lines a tree-shaded street, with large piles of black trash bags accumulated along the roadside near buildings."
 geo:
   address: ''
   lat: 30.005653

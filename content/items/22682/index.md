@@ -21,6 +21,8 @@ files:
     original_filename: PICT0212Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c4b38b14fb29f4c4b777.jpg
     url: /files/original/14fb29f4c4b38b14fb29f4c4b777.jpg
+    alt:
+      en: "A military Humvee parked on a tree-lined street in front of white houses with an American flag, with a cargo truck and sedan parked along the curb; dated 09.15.2005."
 geo:
 id: 22682
 item_type: Still Image

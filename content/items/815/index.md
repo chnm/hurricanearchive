@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28765.jpg
     thumb: /files/thumbnails/14fb2a6ce0be5c14fb2a6ce0c661.jpg
     url: /files/original/14fb2a6ce0be5c14fb2a6ce0c661.jpg
+    alt:
+      en: "A woman in a white top and plaid shorts walks past a chain-link fence lined with supplies, near a green \"Volunteer Sign-In\" sign listing rules for workers at the animal rescue depot."
 geo:
   address: ''
   lat: 0.0

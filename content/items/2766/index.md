@@ -21,6 +21,8 @@ files:
     original_filename: 61.jpg
     thumb: /files/thumbnails/14fb2a604a100714fb2a604a1675.jpg
     url: /files/original/14fb2a604a100714fb2a604a1675.jpg
+    alt:
+      en: "Hand-drawn outline lettering in a childlike, irregular font spelling \"NEW ORLEANS IS THE HOME I LOST,\" sketched in gray/tan pencil on white paper."
 geo:
 id: 2766
 item_type: Still Image

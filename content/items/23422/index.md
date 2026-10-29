@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0097abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef81da8014fb29ef81de73.jpg
     url: /files/original/14fb29ef81da8014fb29ef81de73.jpg
+    alt:
+      en: "Cattle and an egret graze along a flooded roadside, with submerged fences, a partially inundated barn, and trees standing in floodwater under a cloudy sky."
 geo:
 id: 23422
 item_type: Still Image

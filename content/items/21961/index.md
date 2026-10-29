@@ -21,6 +21,8 @@ files:
     original_filename: Picture 292-J2.jpg
     thumb: /files/thumbnails/14fb29fad3242314fb29fad32808.jpg
     url: /files/original/14fb29fad3242314fb29fad32808.jpg
+    alt:
+      en: "Floodwater fills a street between apartment buildings with exterior balconies and stairways, submerging a stop sign nearly to its top, with a large brick building and power lines in the background."
 geo:
 id: 21961
 item_type: Still Image

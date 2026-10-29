@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0394.JPG
     thumb: /files/thumbnails/14fb2a5441b2d014fb2a5441be0f.jpg
     url: /files/original/14fb2a5441b2d014fb2a5441be0f.jpg
+    alt:
+      en: "A yellow tape measure stretched across a weathered wooden post, showing a width of about 7 inches, with debris scattered on the ground in the background."
 geo:
 id: 5049
 item_type: Still Image

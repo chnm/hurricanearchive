@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28237.jpg
     thumb: /files/thumbnails/14fb2a6ade994b14fb2a6adea100.jpg
     url: /files/original/14fb2a6ade994b14fb2a6adea100.jpg
+    alt:
+      en: "Empty parking lot in front of a Wal-Mart store with \"Supercenter\" signage, flanked by an \"Always Food Center,\" under a partly cloudy sky; green dumpsters and a few parked vehicles are scattered near the entrance."
 geo:
   address: ''
   lat: 0.0

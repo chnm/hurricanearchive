@@ -21,6 +21,8 @@ files:
     original_filename: Picture 056engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa87d7614fb2a0fa8815d.jpg
     url: /files/original/14fb2a0fa87d7614fb2a0fa8815d.jpg
+    alt:
+      en: "Aerial view of a flooded urban campus with multiple multi-story buildings surrounded by standing water, adjacent to an elevated highway interchange with no visible traffic."
 geo:
 id: 19496
 item_type: Still Image

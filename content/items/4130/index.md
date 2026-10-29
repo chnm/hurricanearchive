@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0016.JPG
     thumb: /files/thumbnails/14fb2a57844bb914fb2a57844f95.jpg
     url: /files/original/14fb2a57844bb914fb2a57844f95.jpg
+    alt:
+      en: "Damaged industrial building with a painted mural welcoming visitors to Cameron, Louisiana, listing local attractions and wildlife, surrounded by storm debris and twisted metal wreckage on the roof."
 geo:
 id: 4130
 item_type: Still Image

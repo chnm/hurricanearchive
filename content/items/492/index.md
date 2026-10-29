@@ -26,6 +26,8 @@ files:
     original_filename: RitaSchool1_2056_copy_c911ef8c6e.jpg
     thumb: /files/thumbnails/14fb2a6fb6e23c14fb2a6fb6e622.jpg
     url: /files/original/14fb2a6fb6e23c14fb2a6fb6e622.jpg
+    alt:
+      en: "Twilight view of a white two-story school building with lit windows, surrounded by floodwaters reflecting its lights, seen beyond a chain-link fence with debris caught in it."
 geo:
   address: ''
   lat: 29.3869615216575

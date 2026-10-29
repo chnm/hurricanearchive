@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5768_bff573b5c7.jpg
     thumb: /files/thumbnails/14fb29da167dac14fb29da169410.jpg
     url: /files/original/14fb29da167dac14fb29da169410.jpg
+    alt:
+      en: "Sepia-toned studio portrait of an infant in a long white christening gown and lace bonnet, seated in a large wicker chair, displayed in an ornate wooden frame."
 geo:
 id: 26147
 item_type: Still Image

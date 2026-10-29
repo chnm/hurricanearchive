@@ -21,6 +21,8 @@ files:
     original_filename: S4300203iwojima.JPG
     thumb: /files/thumbnails/14fb2a11588a9814fb2a11588e7f.jpg
     url: /files/original/14fb2a11588a9814fb2a11588e7f.jpg
+    alt:
+      en: "Close-up, blurred view of a looped drawstring or cord on fabric, with layered cloth in muted green and beige tones in the background."
 geo:
 id: 19284
 item_type: Still Image

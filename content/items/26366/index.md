@@ -21,6 +21,8 @@ files:
     original_filename: Lionell Powell_5842_5a4a91015a.jpg
     thumb: /files/thumbnails/14fb29d9277bba14fb29d9277f91.jpg
     url: /files/original/14fb29d9277bba14fb29d9277f91.jpg
+    alt:
+      en: "Wedding photograph of a man in a white tuxedo and woman in a white headpiece and veil, holding hands; the photo's surface shows significant water damage and distortion."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

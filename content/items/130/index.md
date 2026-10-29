@@ -26,6 +26,8 @@ files:
     original_filename: katrina3_sept05_b74ea00641.jpg
     thumb: /files/thumbnails/14fb2a70e9830514fb2a70e9b1e7.jpg
     url: /files/original/14fb2a70e9830514fb2a70e9b1e7.jpg
+    alt:
+      en: "Floodwaters surge past a \"Speed Limit 35\" sign and a green \"To Florida Ave\" directional sign, with trees partially submerged in the raging current."
 geo:
   address: ''
   lat: 29.9549345496561

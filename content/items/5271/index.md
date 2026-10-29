@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0716.JPG
     thumb: /files/thumbnails/14fb2a531680ba14fb2a53168549.jpg
     url: /files/original/14fb2a531680ba14fb2a53168549.jpg
+    alt:
+      en: "A large pine tree snapped and splintered mid-trunk, its pale broken wood exposed amid scattered branches and debris on the forest floor, with surrounding trees and greenery in the background."
 geo:
 id: 5271
 item_type: Still Image

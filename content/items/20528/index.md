@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0672924a14fb2a0672962f.jpg
     url: /files/original/14fb2a0672924a14fb2a0672962f.jpg
+    alt:
+      en: "A large tree stands amid extensive floodwater under a cloudy sky, with power lines crossing the foreground and a bird and debris visible in the submerged landscape."
 geo:
 id: 20528
 item_type: Still Image

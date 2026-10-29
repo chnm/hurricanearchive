@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28775.jpg
     thumb: /files/thumbnails/14fb2a6818142514fb2a6818180b.jpg
     url: /files/original/14fb2a6818142514fb2a6818180b.jpg
+    alt:
+      en: "A Chevrolet pickup truck drives along a paved road toward a fenced entrance with orange traffic cones, banners, and a \"Lamar-Dixon\" sign, with green-roofed buildings in the background."
 geo:
   address: ''
   lat: 0.0

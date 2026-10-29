@@ -26,6 +26,8 @@ files:
     original_filename: DSC03365_fd1fb20d88.JPG
     thumb: /files/thumbnails/14fb2a6d64028f14fb2a6d640687.jpg
     url: /files/original/14fb2a6d64028f14fb2a6d640687.jpg
+    alt:
+      en: "Workers stack sandbags at the entrance of the Avenue Plaza Fairfield Resorts hotel, with cars parked along the street under red and green awnings."
 geo:
   address: ''
   lat: 29.935783644021704

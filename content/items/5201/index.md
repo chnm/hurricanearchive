@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0646.JPG
     thumb: /files/thumbnails/14fb2a53697ff314fb2a536983d8.jpg
     url: /files/original/14fb2a53697ff314fb2a536983d8.jpg
+    alt:
+      en: "Debris field of broken lumber, insulation, and household items scattered across a yard near a damaged house with exposed framing, trees stripped of branches, and a body of water in the background."
 geo:
 id: 5201
 item_type: Still Image

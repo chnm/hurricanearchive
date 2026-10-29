@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0125cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef448dae14fb29ef449194.jpg
     url: /files/original/14fb29ef448dae14fb29ef449194.jpg
+    alt:
+      en: "Aerial view of a flooded swamp dotted with bald cypress trees and patches of bright green algae or duckweed, bordered by dense forest extending to the horizon."
 geo:
 id: 23477
 item_type: Still Image

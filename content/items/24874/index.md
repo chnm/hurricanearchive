@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0948superdome.JPG
     thumb: /files/thumbnails/14fb29e422a54814fb29e4230f06.jpg
     url: /files/original/14fb29e422a54814fb29e4230f06.jpg
+    alt:
+      en: "Two uniformed military men in camouflage fatigues and caps stand talking, one pointing off to the side with a radio clipped to his chest; a third man in a patterned shirt stands behind them."
 geo:
 id: 24874
 item_type: Still Image

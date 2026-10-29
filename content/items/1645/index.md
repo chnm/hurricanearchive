@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27934.jpg
     thumb: /files/thumbnails/14fb2a674c3b0114fb2a674c3edc.jpg
     url: /files/original/14fb2a674c3b0114fb2a674c3edc.jpg
+    alt:
+      en: "Entrance to a parking garage with a yellow \"ENTER\" sign and \"LOW CLEARANCE ON ALL RAMPS, VANS MUST REMAIN ON STREET LEVEL\" sign, with uprooted trees and scattered debris blocking the entryway."
 geo:
   address: ''
   lat: 0.0

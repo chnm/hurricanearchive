@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2128superdome.JPG
     thumb: /files/thumbnails/14fb29e4a2766f14fb29e4a27c63.jpg
     url: /files/original/14fb29e4a2766f14fb29e4a27c63.jpg
+    alt:
+      en: "A crowded room with military personnel in camouflage, police officers, and civilians gathered near a wood-paneled doorway, with framed photographs of architectural structures hanging on the wall to the left."
 geo:
 id: 24806
 item_type: Still Image

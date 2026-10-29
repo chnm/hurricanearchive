@@ -21,6 +21,8 @@ files:
     original_filename: getting windy.jpg
     thumb: /files/thumbnails/14fb2a1e96e8af14fb2a1e96ec93.jpg
     url: /files/original/14fb2a1e96e8af14fb2a1e96ec93.jpg
+    alt:
+      en: "Choppy gray water under an overcast sky, with a distant shoreline of trees and buildings; a metal railing and stone ledge in the foreground suggest the photo was taken from a pier or seawall during windy, rainy conditions."
 geo:
 id: 13253
 item_type: Still Image

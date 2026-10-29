@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0017.JPG
     thumb: /files/thumbnails/14fb2a582a76bb14fb2a582a7ad2.jpg
     url: /files/original/14fb2a582a76bb14fb2a582a7ad2.jpg
+    alt:
+      en: "A large brick two-story house with its roof partially torn off stands beyond a collapsed white dock structure on the water, where a man in a \"BAHAMA\" T-shirt stands near a boat."
 geo:
 id: 4064
 item_type: Still Image

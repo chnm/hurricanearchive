@@ -20,6 +20,8 @@ files:
     original_filename: 2421696866_a40b4352a8.
     thumb: /files/thumbnails/14fb29c8ecab4f14fb29c8ecaf3d.jpg
     url: /files/original/14fb29c8ecab4f14fb29c8ecaf3d.jpg
+    alt:
+      en: "Weathered wooden house with a corrugated metal roof and old TV antenna, its green paint peeling, partially obscured by overgrown trees and bushes; a faded sign reading \"FREE\" is visible near the porch."
 geo:
 id: 34744
 item_type: Still Image

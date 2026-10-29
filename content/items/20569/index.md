@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035M.JPG
     thumb: /files/thumbnails/14fb2a0618f20714fb2a0618f5ed.jpg
     url: /files/original/14fb2a0618f20714fb2a0618f5ed.jpg
+    alt:
+      en: "Damaged Time Saver gas station with twisted metal canopy supports, scattered debris, and detached roof panels littering the pavement near the fuel pumps."
 geo:
 id: 20569
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: PortArthurHomeRita_5843365066.jpg
     thumb: /files/thumbnails/14fb2a6efeaad914fb2a6efeaec3.jpg
     url: /files/original/14fb2a6efeaad914fb2a6efeaec3.jpg
+    alt:
+      en: "A brick home in Port Arthur, Texas with its upper story torn open, exposing a bedroom and furniture, after Hurricane Rita; debris and broken wood litter the yard, framed by trees."
 geo:
   address: ''
   lat: 30.148461

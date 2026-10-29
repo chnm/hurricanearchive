@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0422-16.JPG
     thumb: /files/thumbnails/14fb29fccc591714fb29fccc5cfc.jpg
     url: /files/original/14fb29fccc591714fb29fccc5cfc.jpg
+    alt:
+      en: "Aerial view of a devastated coastal neighborhood with rows of foundations cleared of houses, scattered debris, a few standing damaged structures, and a large industrial building reading \"BURG...\" at upper right."
 geo:
 id: 21650
 item_type: Still Image

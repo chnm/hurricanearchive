@@ -26,6 +26,8 @@ files:
     original_filename: DSC02045_6ad665dd95.JPG
     thumb: /files/thumbnails/14fb2a6ea74eb114fb2a6ea7582f.jpg
     url: /files/original/14fb2a6ea74eb114fb2a6ea7582f.jpg
+    alt:
+      en: "An elderly man wearing a dust mask and cap stands amid storm-damaged interior wreckage, holding a flashlight near a broken doorway, mold-stained walls, and debris-covered furniture."
 geo:
   address: ''
   lat: 30.0181249417213

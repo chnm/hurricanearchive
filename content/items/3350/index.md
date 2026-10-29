@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (16).JPG
     thumb: /files/thumbnails/14fb2a5c48d9e414fb2a5c48de39.jpg
     url: /files/original/14fb2a5c48d9e414fb2a5c48de39.jpg
+    alt:
+      en: "Cleared lot with a layer of white debris and orange traffic cones, workers in orange vests, and heavy equipment clearing a large pile of storm debris in the background under a blue sky."
 geo:
 id: 3350
 item_type: Still Image

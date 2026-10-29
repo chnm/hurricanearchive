@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0323.JPG
     thumb: /files/thumbnails/14fb2a54a8721a14fb2a54a87bd1.jpg
     url: /files/original/14fb2a54a8721a14fb2a54a87bd1.jpg
+    alt:
+      en: "Interior view of a building's wood-framed roof structure, showing exposed rafters, beams, and plywood sheathing, with white gutter material and a gap revealing daylight below."
 geo:
 id: 4978
 item_type: Still Image

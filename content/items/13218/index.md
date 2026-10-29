@@ -21,6 +21,8 @@ files:
     original_filename: 212 news truck.jpg
     thumb: /files/thumbnails/14fb2a1f3862a214fb2a1f386687.jpg
     url: /files/original/14fb2a1f3862a214fb2a1f386687.jpg
+    alt:
+      en: "A white \"DCI\" satellite news truck with an extended dish antenna and a black SUV marked \"Skywarn\" are parked outside a building labeled \"Orleans\" on a city street."
 geo:
 id: 13218
 item_type: Still Image

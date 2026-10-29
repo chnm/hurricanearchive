@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28258.jpg
     thumb: /files/thumbnails/14fb2a6b99b7c514fb2a6b99c33f.jpg
     url: /files/original/14fb2a6b99b7c514fb2a6b99c33f.jpg
+    alt:
+      en: "Large guitar-shaped Hard Rock Casino sign stands in front of an unfinished high-rise building covered in scaffolding, set against a cloudy sky."
 geo:
   address: ''
   lat: 0.0

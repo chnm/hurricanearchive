@@ -21,6 +21,8 @@ files:
     original_filename: 09140041neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec56e57d14fb29ec56f131.jpg
     url: /files/original/14fb29ec56e57d14fb29ec56f131.jpg
+    alt:
+      en: "Highway overpass with a green exit sign reading \"Florida Blvd, West End Blvd, Exit Only,\" debris and standing water on the road below, vehicles passing, and a guardrail along a grassy shoulder."
 geo:
 id: 23928
 item_type: Still Image

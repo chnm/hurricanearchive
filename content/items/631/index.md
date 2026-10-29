@@ -26,6 +26,8 @@ files:
     original_filename: Arizona_National_Gueard_to_the_rescue_98c9e467aa.png
     thumb: /files/thumbnails/14fb2a6f52d5f014fb2a6f52d9d5.jpg
     url: /files/original/14fb2a6f52d5f014fb2a6f52d9d5.jpg
+    alt:
+      en: "A group of National Guard soldiers in camouflage uniforms pose together outdoors, with several men sitting atop a military Humvee behind the others."
 geo:
   address: ''
   lat: 30.342352

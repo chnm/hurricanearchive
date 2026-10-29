@@ -26,6 +26,8 @@ files:
     original_filename: Superdome_0901_bafa2abda6.jpg
     thumb: /files/thumbnails/14fb2a6f56505e14fb2a6f56543b.jpg
     url: /files/original/14fb2a6f56505e14fb2a6f56543b.jpg
+    alt:
+      en: "Superdome in New Orleans viewed from an elevated highway, with a damaged roof section visible, a billboard reading \"Someone will win $1 Million!\" and a Coca-Cola sign, and debris including water jugs and crates in the foreground."
 geo:
   address: ''
   lat: 30.342352

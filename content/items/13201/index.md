@@ -21,6 +21,8 @@ files:
     original_filename: 194 trees down.jpg
     thumb: /files/thumbnails/14fb2a1f60db4b14fb2a1f60e25a.jpg
     url: /files/original/14fb2a1f60db4b14fb2a1f60e25a.jpg
+    alt:
+      en: "Large fallen tree leaning across a wet roadway, with utility poles, power lines, and a traffic signal visible under an overcast sky."
 geo:
 id: 13201
 item_type: Still Image

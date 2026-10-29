@@ -21,6 +21,8 @@ files:
     original_filename: S4300030zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0efc7f1f14fb2a0efc8305.jpg
     url: /files/original/14fb2a0efc7f1f14fb2a0efc8305.jpg
+    alt:
+      en: "A U.S. Navy SH-60B Seahawk helicopter marked \"HSL-43\" and \"NAVY 162339\" sits parked on pavement, its tail painted in an orange and black tiger-stripe design, with trees and storm-damaged branches in the background."
 geo:
 id: 19576
 item_type: Still Image

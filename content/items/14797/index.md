@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TameraConey_02_a219145ceb.jpg
     thumb: /files/thumbnails/14fb2a17a81eb614fb2a17a8229c.jpg
     url: /files/original/14fb2a17a81eb614fb2a17a8229c.jpg
+    alt:
+      en: "A single-story brick and beige-sided bungalow with a gabled roof, front porch, and American flag, with a van parked in the driveway and the address \"1612\" visible near the door."
 geo:
 id: 14797
 item_type: Still Image

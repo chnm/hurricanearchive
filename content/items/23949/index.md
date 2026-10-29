@@ -21,6 +21,8 @@ files:
     original_filename: 09180019plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec4415e014fb29ec4419be.jpg
     url: /files/original/14fb29ec4415e014fb29ec4419be.jpg
+    alt:
+      en: "Roadside devastation with downed power poles, scorched debris, and an overturned car, cordoned off with yellow tape along a two-lane road lined with damaged trees."
 geo:
 id: 23949
 item_type: Still Image

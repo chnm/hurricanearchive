@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28112.jpg
     thumb: /files/thumbnails/14fb2a6800937114fb2a680097a3.jpg
     url: /files/original/14fb2a6800937114fb2a680097a3.jpg
+    alt:
+      en: "Two damaged vehicles, a silver sedan tilted atop a brown station wagon, sit abandoned in front of an overturned yellow school bus amid storm debris and bare trees."
 geo:
   address: ''
   lat: 0.0

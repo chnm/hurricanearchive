@@ -26,6 +26,8 @@ files:
     original_filename: TargetBmtRita2_7b639d49a7.jpg
     thumb: /files/thumbnails/14fb2a6f66dbe014fb2a6f66dfd3.jpg
     url: /files/original/14fb2a6f66dbe014fb2a6f66dfd3.jpg
+    alt:
+      en: "Interior of a damaged Target store with collapsed ceiling and debris covering the floor, while a \"Health/Beauty\" sign and stocked shelves of mouthwash and other products remain intact nearby."
 geo:
   address: ''
   lat: 29.9549345496561

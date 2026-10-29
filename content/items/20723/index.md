@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064M.JPG
     thumb: /files/thumbnails/14fb2a044eec5614fb2a044ef1ce.jpg
     url: /files/original/14fb2a044eec5614fb2a044ef1ce.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms prepare vaccine vials and supplies on a table, with others in the background assisting someone receiving an injection in a tiled room."
 geo:
 id: 20723
 item_type: Still Image

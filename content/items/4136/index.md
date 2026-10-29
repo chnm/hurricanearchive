@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0022.JPG
     thumb: /files/thumbnails/14fb2a5780a26514fb2a5780a643.jpg
     url: /files/original/14fb2a5780a26514fb2a5780a643.jpg
+    alt:
+      en: "Roadside view of a storm-damaged town with a collapsed, debris-strewn building, bare trees, a water tower labeled \"ERON,\" and a white van driving down an otherwise empty street."
 geo:
 id: 4136
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7420.JPG
     thumb: /files/thumbnails/14fb29ccace1a614fb29ccace58c.jpg
     url: /files/original/14fb29ccace1a614fb29ccace58c.jpg
+    alt:
+      en: "A brown wooden house with a brick chimney stands amid fallen trees and large broken branches scattered across the yard, with bare and damaged tree limbs surrounding the structure under a clear blue sky."
 geo:
 id: 30723
 item_type: Still Image

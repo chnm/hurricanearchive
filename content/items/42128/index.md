@@ -23,6 +23,8 @@ files:
     original_filename: 2010 091_861ed0cd66.jpg
     thumb: /files/thumbnails/14fb29c345c6d214fb29c345d424.jpg
     url: /files/original/14fb29c345c6d214fb29c345d424.jpg
+    alt:
+      en: "A large crowd fills a city street lined with high-rise buildings, with a police car parked nearby and a person standing on a ladder above the gathering."
 geo:
 id: 42128
 item_type: Still Image

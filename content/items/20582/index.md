@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a05ecc9d614fb2a05eccdb9.jpg
     url: /files/original/14fb2a05ecc9d614fb2a05eccdb9.jpg
+    alt:
+      en: "A livestock trailer with Louisiana plate E892401 sits on a flooded road beside a damaged mobile home, with standing water, bare trees, and downed power lines visible along the roadside."
 geo:
 id: 20582
 item_type: Still Image

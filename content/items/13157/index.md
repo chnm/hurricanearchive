@@ -21,6 +21,8 @@ files:
     original_filename: 147 george at night2.jpg
     thumb: /files/thumbnails/14fb2a1fdd0d9314fb2a1fdd1178.jpg
     url: /files/original/14fb2a1fdd0d9314fb2a1fdd1178.jpg
+    alt:
+      en: "A person in a yellow and black hooded rain jacket walks alone at night, visible raindrops streaking through the dark scene lit by a camera flash."
 geo:
 id: 13157
 item_type: Still Image

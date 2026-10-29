@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0228-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff7ede7d14fb29ff7ee262.jpg
     url: /files/original/14fb29ff7ede7d14fb29ff7ee262.jpg
+    alt:
+      en: "Aerial view of an industrial storage facility with rows of cylindrical and spherical tanks, surrounded by railroad tracks, roads, small buildings, and patches of trees and grass."
 geo:
 id: 21325
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 1280711328_9e4825048f.jpg
     thumb: /files/thumbnails/14fb29cc03bbc514fb29cc03bfab.jpg
     url: /files/original/14fb29cc03bbc514fb29cc03bfab.jpg
+    alt:
+      en: "Front page of The Times-Picayune newspaper, dated Wednesday, August 29, 2007, with the headline \"THANK YOU\" above stories thanking Hurricane Katrina relief helpers two years after the storm."
 geo:
 id: 32135
 item_type: Still Image

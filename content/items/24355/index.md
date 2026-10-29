@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-03-1A.jpg
     thumb: /files/thumbnails/14fb29e889e32014fb29e889e6fd.jpg
     url: /files/original/14fb29e889e32014fb29e889e6fd.jpg
+    alt:
+      en: "Floodwater submerges a residential street with houses, utility poles, and debris including a pickup truck and camper trailer partially underwater, trees and overcast sky in the background."
 geo:
 id: 24355
 item_type: Still Image

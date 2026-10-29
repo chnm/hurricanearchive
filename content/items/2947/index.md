@@ -21,6 +21,8 @@ files:
     original_filename: MVC-002S.JPG
     thumb: /files/thumbnails/14fb2a5f7d72b714fb2a5f7d8571.jpg
     url: /files/original/14fb2a5f7d72b714fb2a5f7d8571.jpg
+    alt:
+      en: "Large circular gun turret or mount on a ship's deck, with a smaller round hatch visible below, and dockside buildings and equipment seen in the background."
 geo:
 id: 2947
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0084abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efb6a63214fb29efb6aa17.jpg
     url: /files/original/14fb29efb6a63214fb29efb6aa17.jpg
+    alt:
+      en: "A man in a plaid shirt, jeans, cap, and glasses stands beside floodwater surrounding a mobile home, shed, and scattered debris, with a tire and trash floating nearby."
 geo:
 id: 23393
 item_type: Still Image

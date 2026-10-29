@@ -26,6 +26,8 @@ files:
     original_filename: 021_19A_451cd24703.jpg
     thumb: /files/thumbnails/14fb2a6f40eaf814fb2a6f40eede.jpg
     url: /files/original/14fb2a6f40eaf814fb2a6f40eede.jpg
+    alt:
+      en: "Flooded residential street with standing water surrounding a house, debris-covered mud, a damaged car, and bare trees; a partially visible sign reads \"Mir...APA.\""
 geo:
   address: ''
   lat: 30.008648946969497

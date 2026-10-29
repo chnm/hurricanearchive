@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0115-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e6c4074114fb29e6c40b27.jpg
     url: /files/original/14fb29e6c4074114fb29e6c40b27.jpg
+    alt:
+      en: "A small herd of cattle stands on a two-lane road flanked by floodwaters submerging the surrounding grassy fields and roadside vegetation, with vehicles visible in the distance."
 geo:
 id: 24552
 item_type: Still Image

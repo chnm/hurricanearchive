@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033cameronS&R.JPG
     thumb: /files/thumbnails/14fb29e99a7a2214fb29e99a7e0a.jpg
     url: /files/original/14fb29e99a7a2214fb29e99a7e0a.jpg
+    alt:
+      en: "Aerial view of a narrow barrier peninsula with scattered ponds and marsh vegetation between a roadway on the bay side and the open sea on the other, fading into haze in the distance."
 geo:
 id: 24218
 item_type: Still Image

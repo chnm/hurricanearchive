@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 052.jpg
     thumb: /files/thumbnails/14fb2a22b1b35b14fb2a22b1b74a.jpg
     url: /files/original/14fb2a22b1b35b14fb2a22b1b74a.jpg
+    alt:
+      en: "Storm-damaged two-story building with blown-out windows stands behind broken concrete slabs and debris scattered across a parking lot, with stripped, leafless trees in the foreground; dated 2005/09/24."
 geo:
 id: 11930
 item_type: Still Image

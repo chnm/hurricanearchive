@@ -21,6 +21,8 @@ files:
     original_filename: Picture 280-J2.jpg
     thumb: /files/thumbnails/14fb29fae361c114fb29fae365a1.jpg
     url: /files/original/14fb29fae361c114fb29fae365a1.jpg
+    alt:
+      en: "Pale blue sky with scattered clouds above a distant treeline, power lines and utility poles crossing the frame, with industrial crane structures visible on the horizon."
 geo:
 id: 21949
 item_type: Still Image

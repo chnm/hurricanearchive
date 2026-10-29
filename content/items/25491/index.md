@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6181_c42b26a9f7.jpg
     thumb: /files/thumbnails/14fb29dd86803f14fb29dd868419.jpg
     url: /files/original/14fb29dd86803f14fb29dd868419.jpg
+    alt:
+      en: "Studio portrait of a smiling toddler with reddish hair and a white flower hair clip, wearing a lace-trimmed white and blue dress with a cross necklace and gold bracelet."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

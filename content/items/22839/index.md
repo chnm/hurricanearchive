@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f317313c14fb29f3173522.jpg
     url: /files/original/14fb29f317313c14fb29f3173522.jpg
+    alt:
+      en: "A soldier in camouflage uniform leans into a car window checking a driver's ID, with road signs for US 90 East and LA 611-8 visible in the background near a checkpoint with a stop sign."
 geo:
 id: 22839
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: HS 1 1948 Hessmer st_6e1cfee2c0..jpg
     thumb: /files/thumbnails/14fb29d8b7b2f814fb29d8b7b76f.jpg
     url: /files/original/14fb29d8b7b2f814fb29d8b7b76f.jpg
+    alt:
+      en: "Black-and-white photo of a young girl in a ruffled dress with a bow, seen from behind, standing on a wooden porch beside a post, overlooking a grassy lot with a parked car and buildings in the background."
 geo:
   address: ''
   lat: 29.87876

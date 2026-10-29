@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1154Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f73d84e014fb29f73d88c4.jpg
     url: /files/original/14fb29f73d84e014fb29f73d88c4.jpg
+    alt:
+      en: "Two men paddle a small boat with an outboard motor through floodwater, with a child and water jugs aboard, passing a flooded house and tree branches."
 geo:
 id: 22339
 item_type: Still Image

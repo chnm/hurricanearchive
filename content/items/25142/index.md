@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1752superdome.JPG
     thumb: /files/thumbnails/14fb29e1e6dd2c14fb29e1e6e111.jpg
     url: /files/original/14fb29e1e6dd2c14fb29e1e6e111.jpg
+    alt:
+      en: "Military personnel in fatigues unload stacked cardboard boxes labeled \"Meal, Ready-to-Eat\" from beneath a helicopter's rotor blades, forming a line to pass supplies."
 geo:
 id: 25142
 item_type: Still Image

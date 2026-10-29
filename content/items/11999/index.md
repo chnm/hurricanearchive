@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 047.jpg
     thumb: /files/thumbnails/14fb2a2263beb914fb2a2263c2a0.jpg
     url: /files/original/14fb2a2263beb914fb2a2263c2a0.jpg
+    alt:
+      en: "An American flag hangs from a snapped tree trunk amid storm debris, splintered pines, and scattered wreckage under a clear blue sky."
 geo:
 id: 11999
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: '2292063780_1765648710.'
     thumb: /files/thumbnails/14fb29c9a149db14fb29c9a14da5.jpg
     url: /files/original/14fb29c9a149db14fb29c9a14da5.jpg
+    alt:
+      en: "Damaged blue house with a missing section of roof shingles, open sliding glass door, and a cluttered desk and chair exposed to the elements; floodwater and debris surround the structure."
 geo:
   address: ''
   lat: 30.22539

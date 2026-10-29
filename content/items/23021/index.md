@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031OEP.JPG
     thumb: /files/thumbnails/14fb29f20760b914fb29f207649d.jpg
     url: /files/original/14fb29f20760b914fb29f207649d.jpg
+    alt:
+      en: "Media tents and equipment, including cameras and satellite trucks, set up on a grassy area near a parking lot, with reporters and crew members working under canopies; traffic cones and an American flag at half-staff in the background."
 geo:
 id: 23021
 item_type: Still Image

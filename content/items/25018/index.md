@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1540superdome.JPG
     thumb: /files/thumbnails/14fb29e2e6820a14fb29e2e685ef.jpg
     url: /files/original/14fb29e2e6820a14fb29e2e685ef.jpg
+    alt:
+      en: "A military helicopter in flight against a cloudy sky, silhouetted with blurred rotor blades, hovering above rooftops near a building labeled \"Delgado Comm... Charity School.\""
 geo:
 id: 25018
 item_type: Still Image

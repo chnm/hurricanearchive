@@ -21,6 +21,8 @@ files:
     original_filename: 100_0177.JPG
     thumb: /files/thumbnails/14fb2a591c976614fb2a591c9b52.jpg
     url: /files/original/14fb2a591c976614fb2a591c9b52.jpg
+    alt:
+      en: "Floodwater submerges a residential street beneath a large oak tree, with a \"ONE WAY\" sign and traffic signal partially underwater and a \"DO NOT ENTER\" sign visible near a brick house."
 geo:
 id: 3884
 item_type: Still Image

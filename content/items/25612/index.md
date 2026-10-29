@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.006.JPG
     thumb: /files/thumbnails/14fb29dd2ea07514fb29dd2ea45d.jpg
     url: /files/original/14fb29dd2ea07514fb29dd2ea45d.jpg
+    alt:
+      en: "Three empty Abita beer bottles sit atop a weathered, paint-chipped concrete base at the foot of a light blue post, with a discarded plastic cup lying in the grass nearby amid surrounding foliage."
 geo:
 id: 25612
 item_type: Still Image

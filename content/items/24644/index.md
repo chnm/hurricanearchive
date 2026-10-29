@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039medics.JPG
     thumb: /files/thumbnails/14fb29e5d6e69e14fb29e5d6ea8e.jpg
     url: /files/original/14fb29e5d6e69e14fb29e5d6ea8e.jpg
+    alt:
+      en: "A woman in military camouflage fatigues administers a vaccination to a man's upper arm; he wears a white t-shirt reading \"ARMY NATIONAL GUARD, EST. 1636, 100% AMERICAN SOLDIER.\""
 geo:
 id: 24644
 item_type: Still Image

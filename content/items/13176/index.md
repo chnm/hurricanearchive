@@ -21,6 +21,8 @@ files:
     original_filename: 168 building collapse.jpg
     thumb: /files/thumbnails/14fb2a1f98bf8c14fb2a1f98c36e.jpg
     url: /files/original/14fb2a1f98bf8c14fb2a1f98c36e.jpg
+    alt:
+      en: "Collapsed yellow-sided building lying on its side with broken roof framing and debris exposed, surrounded by grass and trees with an overcast sky above."
 geo:
 id: 13176
 item_type: Still Image

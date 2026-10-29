@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0062-9-25.JPG
     thumb: /files/thumbnails/14fb2a04c80d2614fb2a04c812bb.jpg
     url: /files/original/14fb2a04c80d2614fb2a04c812bb.jpg
+    alt:
+      en: "Aerial view of a washed-out roadway ending abruptly at floodwaters, with a downed utility pole, broken pilings, and debris scattered across the submerged marshland below."
 geo:
 id: 20710
 item_type: Still Image

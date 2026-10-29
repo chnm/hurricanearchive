@@ -23,6 +23,8 @@ files:
     original_filename: 336695897_9df58314de.jpg
     thumb: /files/thumbnails/14fb29d517dc6114fb29d517eb84.jpg
     url: /files/original/14fb29d517dc6114fb29d517eb84.jpg
+    alt:
+      en: "Damaged single-story house with a partially collapsed carport, boarded windows, and spray-painted search-and-rescue markings on the wall, set behind an overgrown hedge and gravel yard."
 geo:
 id: 27316
 item_type: Still Image

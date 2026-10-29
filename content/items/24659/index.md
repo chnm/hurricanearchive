@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0067medics.JPG
     thumb: /files/thumbnails/14fb29e5c7127a14fb29e5c71660.jpg
     url: /files/original/14fb29e5c7127a14fb29e5c71660.jpg
+    alt:
+      en: "A woman in a U.S. Army camouflage uniform gestures with her hands while standing indoors near glass doors, with several young men in casual clothing visible in the background."
 geo:
 id: 24659
 item_type: Still Image

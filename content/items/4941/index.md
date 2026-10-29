@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0283.JPG
     thumb: /files/thumbnails/14fb2a54d728ca14fb2a54d72cb4.jpg
     url: /files/original/14fb2a54d728ca14fb2a54d72cb4.jpg
+    alt:
+      en: "A damaged chain-link fence bent and collapsed beside an uprooted tree stump, with debris scattered across a grassy yard near houses in the background."
 geo:
 id: 4941
 item_type: Still Image

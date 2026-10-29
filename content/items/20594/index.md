@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a05c8d4f614fb2a05cc3251.jpg
     url: /files/original/14fb2a05c8d4f614fb2a05cc3251.jpg
+    alt:
+      en: "A police car with emergency lights on sits in a flooded roadway near a leaning, water-damaged mobile home, with trucks and trailers passing by on the wet road."
 geo:
 id: 20594
 item_type: Still Image

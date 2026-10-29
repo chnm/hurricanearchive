@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_ShawntrellAddison_01_c183dedaf1.jpg
     thumb: /files/thumbnails/14fb2a17b6163014fb2a17b61a17.jpg
     url: /files/original/14fb2a17b6163014fb2a17b61a17.jpg
+    alt:
+      en: "A girl in a school uniform with a white blouse and plaid skirt sits on a stool near a bookshelf of children's books and a round table with stuffed animals."
 geo:
 id: 14790
 item_type: Still Image

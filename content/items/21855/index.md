@@ -21,6 +21,8 @@ files:
     original_filename: EO A0012.BMP
     thumb: /files/thumbnails/14fb29fb5dafa014fb29fb5db377.jpg
     url: /files/original/14fb29fb5dafa014fb29fb5db377.BMP
+    alt:
+      en: "Black-and-white aerial view of a river or canal with a swing bridge, dense residential grid on the west bank, and industrial facilities, warehouses, and rail lines along the east bank."
 geo:
 id: 21855
 item_type: Still Image

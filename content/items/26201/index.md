@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6158_515afabf67.JPG
     thumb: /files/thumbnails/14fb29d99988c914fb29d9998f43.jpg
     url: /files/original/14fb29d99988c914fb29d9998f43.jpg
+    alt:
+      en: "Studio family portrait of the Rodriguez family—parents Carol and David with sons Scott and Cyril—against a mottled gray backdrop, the photo surface speckled with light damage spots."
 geo:
 id: 26201
 item_type: Still Image

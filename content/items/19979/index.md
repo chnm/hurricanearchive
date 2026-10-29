@@ -21,6 +21,8 @@ files:
     original_filename: Picture 076cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bd7f7fc14fb2a0bd80231.jpg
     url: /files/original/14fb2a0bd7f7fc14fb2a0bd80231.jpg
+    alt:
+      en: "A concrete highway bridge with blank overhead sign structures, a streetlight, parked vehicles in the distance, and trees lining the horizon under a blue sky with scattered clouds."
 geo:
 id: 19979
 item_type: Still Image

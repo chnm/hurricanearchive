@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2126rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13f59e7d14fb2a13f5a262.jpg
     url: /files/original/14fb2a13f59e7d14fb2a13f5a262.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with submerged cars and streets; a rescue helicopter hovers near a rooftop painted with \"HELP\" where a person stands waiting."
 geo:
 id: 18964
 item_type: Still Image

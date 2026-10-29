@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 050.jpg
     thumb: /files/thumbnails/14fb2a59cca69b14fb2a59ccaa81.jpg
     url: /files/original/14fb2a59cca69b14fb2a59ccaa81.jpg
+    alt:
+      en: "View from inside a vehicle along a waterfront road scattered with storm debris, including an overturned boat on the roadside, trees, and docks with boats visible on the water in the background."
 geo:
 id: 3770
 item_type: Still Image

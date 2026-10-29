@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0323-16.JPG
     thumb: /files/thumbnails/14fb29fd5e147914fb29fd5e185e.jpg
     url: /files/original/14fb29fd5e147914fb29fd5e185e.jpg
+    alt:
+      en: "Dusk scene of a tree with withered brown leaves, its branches holding a piece of debris, with a brick building showing boarded windows and a sheriff's patrol car parked on a muddy street in the background."
 geo:
 id: 21588
 item_type: Still Image

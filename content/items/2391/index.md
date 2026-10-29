@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HH65_REPAIR__05CX4_df83d4883d.jpg
     thumb: /files/thumbnails/14fb2a66c0bab314fb2a66c0bea2.jpg
     url: /files/original/14fb2a66c0bab314fb2a66c0bea2.jpg
+    alt:
+      en: "Two Coast Guard petty officers in white t-shirts lean over an open equipment manual at night, one holding a flashlight, as they troubleshoot wiring near an orange helicopter in the background."
 geo:
 id: 2391
 item_type: Still Image

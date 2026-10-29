@@ -24,6 +24,8 @@ files:
     original_filename: RB st paul stataue 1942_315efd9b07.jpg
     thumb: /files/thumbnails/14fb29d7f7079614fb29d7f7171a.jpg
     url: /files/original/14fb29d7f7079614fb29d7f7171a.jpg
+    alt:
+      en: "A wrought-iron gate with crossed diagonal bars partially obscures a faded religious statue group and cross in the background, in this green-toned 1942 photograph."
 geo:
   address: ''
   lat: 29.95493

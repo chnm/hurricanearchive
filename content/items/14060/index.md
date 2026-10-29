@@ -21,6 +21,8 @@ files:
     original_filename: 20050929036.JPG
     thumb: /files/thumbnails/14fb2a1bf6ccd614fb2a1bf6d706.jpg
     url: /files/original/14fb2a1bf6ccd614fb2a1bf6d706.jpg
+    alt:
+      en: "Muddy alley between two damaged buildings littered with debris, splintered wood, and overturned furniture, with vehicles parked near trees and houses in the background under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

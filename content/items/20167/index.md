@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of 09140009.JPG
     thumb: /files/thumbnails/14fb2a0af92a4614fb2a0af92e25.jpg
     url: /files/original/14fb2a0af92a4614fb2a0af92e25.jpg
+    alt:
+      en: "A large pile of broken concrete blocks and debris sits in front of a partially demolished building with exposed brick, plywood paneling, and a rusted steel beam lying across the rubble."
 geo:
 id: 20167
 item_type: Still Image

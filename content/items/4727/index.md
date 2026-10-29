@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0074.JPG
     thumb: /files/thumbnails/14fb2a55e5178e14fb2a55e51b73.jpg
     url: /files/original/14fb2a55e5178e14fb2a55e51b73.jpg
+    alt:
+      en: "A severely damaged two-story house with its front wall and roof torn away, surrounded by scattered debris, fallen trees, and cleared ground under a clear blue sky."
 geo:
 id: 4727
 item_type: Still Image

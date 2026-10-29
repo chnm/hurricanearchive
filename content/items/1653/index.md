@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28586.jpg
     thumb: /files/thumbnails/14fb2a6744929c14fb2a674497c5.jpg
     url: /files/original/14fb2a6744929c14fb2a674497c5.jpg
+    alt:
+      en: "A man in a hat photographs a fallen street sign reading \"Lakeshore Dr.\" lying on sandy, debris-covered ground near a toppled traffic light pole in the Lakeview District."
 geo:
   address: ''
   lat: 0.0

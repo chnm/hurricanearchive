@@ -21,6 +21,8 @@ files:
     original_filename: S4300218neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecb50a7d14fb29ecb50e63.jpg
     url: /files/original/14fb29ecb50a7d14fb29ecb50e63.jpg
+    alt:
+      en: "Floodwater submerges a residential street with houses, fences, and a parked car, while storm-damaged trees with broken branches and brown needles stand in the foreground; a lift bridge is visible in the background."
 geo:
 id: 23862
 item_type: Still Image

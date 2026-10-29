@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27952.jpg
     thumb: /files/thumbnails/14fb2a692a0dfa14fb2a692a11e6.jpg
     url: /files/original/14fb2a692a0dfa14fb2a692a11e6.jpg
+    alt:
+      en: "A large column wrapped in a \"Bourbon\" street sign mural stands near a partially legible \"10 Park, Violators Towed, Owners...\" sign, with glass storefronts in the background."
 geo:
   address: ''
   lat: 0.0

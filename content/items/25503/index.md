@@ -21,6 +21,8 @@ files:
     original_filename: EvaDow-4-2_02dfb7e763.jpg
     thumb: /files/thumbnails/14fb29dd68d40314fb29dd68d7e9.jpg
     url: /files/original/14fb29dd68d40314fb29dd68d7e9.jpg
+    alt:
+      en: "A young boy in a striped shirt holds a bat on a sidewalk in front of a brick house and parked car, the photo's edges damaged and discolored with age."
 geo:
 id: 25503
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 122cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e26e5f514fb2a0e26e9db.jpg
     url: /files/original/14fb2a0e26e5f514fb2a0e26e9db.jpg
+    alt:
+      en: "A military Black Hawk helicopter hovers low over a cracked, empty parking lot, with a damaged residential neighborhood and bare trees visible in the background under a partly cloudy sky."
 geo:
 id: 19735
 item_type: Still Image

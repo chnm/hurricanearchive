@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5909_e0cbaf76d5.jpg
     thumb: /files/thumbnails/14fb2a1572b06814fb2a1572b44a.jpg
     url: /files/original/14fb2a1572b06814fb2a1572b44a.jpg
+    alt:
+      en: "A display table of handcrafted model boats, including sailing schooners and motor vessels, with a sign reading \"Crafters Charlie Robin Jr.\"; onlookers gather behind the table under a tent."
 geo:
 id: 18455
 item_type: Still Image

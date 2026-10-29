@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030OEP.JPG
     thumb: /files/thumbnails/14fb29f2094cd814fb29f209588e.jpg
     url: /files/original/14fb29f2094cd814fb29f209588e.jpg
+    alt:
+      en: "Media camp with white canopy tents, camera equipment, satellite trucks, and a parked SUV set up on a grassy area near a parking lot, with people working under the tents and traffic cones marking the site."
 geo:
 id: 23020
 item_type: Still Image

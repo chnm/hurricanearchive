@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0051ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a150848cd14fb2a15084cba.jpg
     url: /files/original/14fb2a150848cd14fb2a15084cba.jpg
+    alt:
+      en: "Aerial view of a flooded, storm-ravaged neighborhood with collapsed roofs, scattered debris, standing water in streets, and industrial structures visible on the horizon."
 geo:
 id: 18825
 item_type: Still Image

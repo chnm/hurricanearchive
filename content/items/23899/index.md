@@ -21,6 +21,8 @@ files:
     original_filename: picture 5stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec86971814fb29ec869afb.jpg
     url: /files/original/14fb29ec86971814fb29ec869afb.jpg
+    alt:
+      en: "Floodwaters surround single-story brick houses, with a vehicle partially submerged near a carport and bare trees standing against a pale sky."
 geo:
 id: 23899
 item_type: Still Image

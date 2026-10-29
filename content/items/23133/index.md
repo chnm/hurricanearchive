@@ -21,6 +21,8 @@ files:
     original_filename: 09110010delaware.JPG
     thumb: /files/thumbnails/14fb29f16e8b0b14fb29f16e8ef1.jpg
     url: /files/original/14fb29f16e8b0b14fb29f16e8ef1.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms with foam earplugs crouch inside a cramped military vehicle or cargo hold, one reading a small booklet, surrounded by equipment and red metal racks."
 geo:
 id: 23133
 item_type: Still Image

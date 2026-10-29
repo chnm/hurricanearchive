@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a05d86afa14fb2a05d870c2.jpg
     url: /files/original/14fb2a05d86afa14fb2a05d870c2.jpg
+    alt:
+      en: "Aerial view of widespread flooding, with houses, mobile homes, and buildings partially submerged amid trees rising from the water and debris scattered along the shoreline."
 geo:
 id: 20590
 item_type: Still Image

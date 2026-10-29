@@ -21,6 +21,8 @@ files:
     original_filename: AB New Orleans 1950s 2_8779e86f4b.jpg
     thumb: /files/thumbnails/14fb29d953f0b414fb29d953f679.jpg
     url: /files/original/14fb29d953f0b414fb29d953f679.jpg
+    alt:
+      en: "Black-and-white snapshot of two young women, Cecelia and Gaile, standing beside a parked vintage car on a New Orleans street lined with shotgun houses, 1950s."
 geo:
   address: ''
   lat: 29.95493

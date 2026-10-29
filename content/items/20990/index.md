@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0164-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0129dd9a14fb2a0129e17c.jpg
     url: /files/original/14fb2a0129dd9a14fb2a0129e17c.jpg
+    alt:
+      en: "Damaged building raised on wooden pilings surrounded by floodwater, with a downed power line and utility pole, storm debris, and stripped trees in the background."
 geo:
 id: 20990
 item_type: Still Image

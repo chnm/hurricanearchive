@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-09-7Abatonrouge.jpg
     thumb: /files/thumbnails/14fb2a1543a97b14fb2a1543ad6c.jpg
     url: /files/original/14fb2a1543a97b14fb2a1543ad6c.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with a grid of streets, houses, trees, and lawns, with a large building with a red roof and an elevated highway visible in the background."
 geo:
 id: 18779
 item_type: Still Image

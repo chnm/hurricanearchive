@@ -20,6 +20,8 @@ files:
     original_filename: 099_99_479a597dcc.JPG
     thumb: /files/thumbnails/14fb2a1c7bc5d514fb2a1c7bc9b9.jpg
     url: /files/original/14fb2a1c7bc5d514fb2a1c7bc9b9.jpg
+    alt:
+      en: "A worker in a white protective suit and red bandana uses a hammer on a mold-stained wall, beside a doorway decorated with music posters and magazine covers of Bob Marley, Jimi Hendrix, and The Beatles."
 geo:
 id: 13899
 item_type: Still Image

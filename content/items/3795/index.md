@@ -21,6 +21,8 @@ files:
     original_filename: USS Alabama 7.jpg
     thumb: /files/thumbnails/14fb2a5981a7a114fb2a5981ab77.jpg
     url: /files/original/14fb2a5981a7a114fb2a5981ab77.jpg
+    alt:
+      en: "A gray battleship marked with the number \"60,\" likely the USS Alabama, sits moored in the distance beyond a wide grassy field under a cloudy sky."
 geo:
 id: 3795
 item_type: Still Image

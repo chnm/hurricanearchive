@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5906_51d1f5352e.jpg
     thumb: /files/thumbnails/14fb2a157ade7f14fb2a157ae176.jpg
     url: /files/original/14fb2a157ade7f14fb2a157ae176.jpg
+    alt:
+      en: "A man in a red shirt sits outdoors holding two painted wooden duck decoys, surrounded by a table of carved birds, with a handwritten \"Crafter\" label above and trees and a truck in the background."
 geo:
 id: 16975
 item_type: Still Image

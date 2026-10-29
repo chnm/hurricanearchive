@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0148-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a01fc083c14fb2a01fc0c26.jpg
     url: /files/original/14fb2a01fc083c14fb2a01fc0c26.jpg
+    alt:
+      en: "Aerial view of extensive flooding over flat land, with submerged fields, scattered dead trees and shrubs, and fence lines partially visible beneath murky water."
 geo:
 id: 20920
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010-9-25.JPG
     thumb: /files/thumbnails/14fb2a0800c55c14fb2a0800c942.jpg
     url: /files/original/14fb2a0800c55c14fb2a0800c942.jpg
+    alt:
+      en: "A man in a white polo shirt and glasses holds a small piece of food in his hand, standing indoors near a pink towel, a yellow bag, and a window in the background."
 geo:
 id: 20400
 item_type: Still Image

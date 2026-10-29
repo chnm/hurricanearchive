@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0194-9-25.JPG
     thumb: /files/thumbnails/14fb2a000af3e814fb2a000af7ce.jpg
     url: /files/original/14fb2a000af3e814fb2a000af7ce.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential and industrial area with downed trees, scattered debris, a collapsed roof, and buildings with missing or damaged roofing near a street."
 geo:
 id: 21194
 item_type: Still Image

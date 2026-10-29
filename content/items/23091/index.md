@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0101OEP.JPG
     thumb: /files/thumbnails/14fb29f195783414fb29f1957c10.jpg
     url: /files/original/14fb29f195783414fb29f1957c10.jpg
+    alt:
+      en: "Busy office emergency operations center with cubicles full of papers and binders, staff seated and standing in discussion, and a wall-mounted digital clock reading \"13:50\" above a \"911\" display."
 geo:
 id: 23091
 item_type: Still Image

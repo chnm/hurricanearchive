@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-05crab boil_6baa6e4f9b.jpg
     thumb: /files/thumbnails/14fb29dc991d6314fb29dc992149.jpg
     url: /files/original/14fb29dc991d6314fb29dc992149.jpg
+    alt:
+      en: "Four men embrace and smile together at a table covered with crab shells, a Coca-Cola bottle, and drinking glasses, with a handwritten signature and \"97\" below the photo."
 geo:
 id: 25730
 item_type: Still Image

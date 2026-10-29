@@ -21,6 +21,8 @@ files:
     original_filename: Picture 072cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bdc4d0514fb2a0bdc50ea.jpg
     url: /files/original/14fb2a0bdc4d0514fb2a0bdc50ea.jpg
+    alt:
+      en: "Concrete bridge railing overlooks a flooded, debris-strewn waterway lined with bare trees and shrubs, with damaged buildings, utility poles, and a distant elevated highway under a hazy sky."
 geo:
 id: 19975
 item_type: Still Image

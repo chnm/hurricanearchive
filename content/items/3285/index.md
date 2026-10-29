@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (47).jpg
     thumb: /files/thumbnails/14fb2a5cbd3bb614fb2a5cbd3f93.jpg
     url: /files/original/14fb2a5cbd3bb614fb2a5cbd3f93.jpg
+    alt:
+      en: "Debris-strewn lot with a collapsed pink house, a mud-covered SUV, scattered wreckage, and standing floodwater in the foreground, bare trees in the background."
 geo:
 id: 3285
 item_type: Still Image

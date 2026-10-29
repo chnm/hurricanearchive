@@ -26,6 +26,8 @@ files:
     original_filename: circlefoodstore_9af3e1a404.jpg
     thumb: /files/thumbnails/14fb2a713198cf14fb2a7131a633.jpg
     url: /files/original/14fb2a713198cf14fb2a7131a633.jpg
+    alt:
+      en: "Floodwaters submerge a street and surround the Circle Food Store building, with power lines and a city skyline visible in the overcast background."
 geo:
   address: ''
   lat: 29.958304

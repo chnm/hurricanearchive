@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (73).jpg
     thumb: /files/thumbnails/14fb2a5c73ca2014fb2a5c73ce04.jpg
     url: /files/original/14fb2a5c73ca2014fb2a5c73ce04.jpg
+    alt:
+      en: "Collapsed houses with roofs caved in and scattered debris line a muddy street beside a canal, with a maroon minivan parked amid the wreckage and a blue industrial crane visible in the background."
 geo:
 id: 3314
 item_type: Still Image

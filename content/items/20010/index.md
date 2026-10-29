@@ -21,6 +21,8 @@ files:
     original_filename: Picture 107cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bb39d5614fb2a0bb3a1af.jpg
     url: /files/original/14fb2a0bb39d5614fb2a0bb3a1af.jpg
+    alt:
+      en: "A military helicopter flies against a blue sky with scattered white clouds, with treetops and a concrete wall visible along the bottom edge of the frame."
 geo:
 id: 20010
 item_type: Still Image

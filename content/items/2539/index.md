@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8782.jpg
     thumb: /files/thumbnails/14fb2a6591f6f114fb2a6591fad6.jpg
     url: /files/original/14fb2a6591f6f114fb2a6591fad6.jpg
+    alt:
+      en: "Two shrimp trawlers, including one marked \"CAPT TJ,\" lie grounded on dry land amid tangled rigging and debris, stranded against a clear blue sky."
 geo:
 id: 2539
 item_type: Still Image

@@ -17,6 +17,8 @@ files:
     original_filename: UNO Image 2.jpg
     thumb: /files/thumbnails/bf4bcf61607297b976b83fd0010f0f37.jpg
     url: /files/original/bf4bcf61607297b976b83fd0010f0f37.jpg
+    alt:
+      en: "Rooftop billboard reading \"Baumer Foods\" above a green sign for \"Crystal Preserves,\" with a cartoon chef stirring a pot, mounted on metal scaffolding atop a white building."
 geo:
   address: ''
   lat: 29.970326972479

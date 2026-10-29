@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2182superdome.JPG
     thumb: /files/thumbnails/14fb29e4724c2c14fb29e472541a.jpg
     url: /files/original/14fb29e4724c2c14fb29e472541a.jpg
+    alt:
+      en: "Nighttime scene of a military truck loaded with bottled water and MRE boxes, with a soldier in camouflage pants standing atop the truck and another soldier wearing a backpack crouched below near the tires."
 geo:
 id: 24842
 item_type: Still Image

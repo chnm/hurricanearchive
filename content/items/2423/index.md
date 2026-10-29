@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05CDP_e2f9272ff2.jpg
     thumb: /files/thumbnails/14fb2a667c772214fb2a667c7b08.jpg
     url: /files/original/14fb2a667c772214fb2a667c7b08.jpg
+    alt:
+      en: "A Coast Guard officer in a jacket marked \"USCG\" oversees contractors in white protective suits cleaning oil-soaked mud along a shoreline, using absorbent pads and booms."
 geo:
 id: 2423
 item_type: Still Image

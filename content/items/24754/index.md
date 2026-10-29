@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2076superdome.JPG
     thumb: /files/thumbnails/14fb29e5248dff14fb29e524950e.jpg
     url: /files/original/14fb29e5248dff14fb29e524950e.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand and sit near a metal barricade inside a dim building, with stacked water bottle pallets nearby and a sign reading \"exit claiborne avenue\" overhead."
 geo:
 id: 24754
 item_type: Still Image

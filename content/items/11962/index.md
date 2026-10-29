@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 009.jpg
     thumb: /files/thumbnails/14fb2a22891bdf14fb2a22891fbb.jpg
     url: /files/original/14fb2a22891bdf14fb2a22891fbb.jpg
+    alt:
+      en: "Damaged \"Fire Dog Saloon\" building with a red tile roof, broken windows, and peeling paint; debris, torn pavement, and scattered rubble cover the surrounding lot."
 geo:
 id: 11962
 item_type: Still Image

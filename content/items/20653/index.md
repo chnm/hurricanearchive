@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0050-15.JPG
     thumb: /files/thumbnails/14fb2a056b17b814fb2a056b1a8e.jpg
     url: /files/original/14fb2a056b17b814fb2a056b1a8e.jpg
+    alt:
+      en: "Aerial view of a flooded residential and institutional area, with houses, larger buildings, and trees partially submerged in murky floodwater, railroad tracks visible in the foreground."
 geo:
 id: 20653
 item_type: Still Image

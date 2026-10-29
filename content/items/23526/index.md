@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0162abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef1ad95d14fb29ef1add43.jpg
     url: /files/original/14fb29ef1ad95d14fb29ef1add43.jpg
+    alt:
+      en: "A flood-damaged pink house with a partially collapsed carport sits surrounded by floodwater, its broken windows and sagging roofline visible beneath bare trees."
 geo:
 id: 23526
 item_type: Still Image

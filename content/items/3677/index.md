@@ -24,6 +24,8 @@ files:
     original_filename: P1010115.JPG
     thumb: /files/thumbnails/14fb2a5a2953e714fb2a5a2957cd.jpg
     url: /files/original/14fb2a5a2953e714fb2a5a2957cd.jpg
+    alt:
+      en: "A severely damaged tree with its trunk split and splintered, one bare limb jutting skyward, set against a blue sky with a damaged rooftop visible below."
 geo:
 id: 3677
 item_type: Still Image

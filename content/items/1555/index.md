@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27966.jpg
     thumb: /files/thumbnails/14fb2a6808345c14fb2a68083841.jpg
     url: /files/original/14fb2a6808345c14fb2a68083841.jpg
+    alt:
+      en: "Close-up of a pyramid-shaped concrete barrier with a decorative bronze fleur-de-lis emblem and bolt fitting, set against a weathered stone wall background."
 geo:
   address: ''
   lat: 0.0

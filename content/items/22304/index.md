@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1115Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7c7f9dd14fb29f7c8012b.jpg
     url: /files/original/14fb29f7c7f9dd14fb29f7c8012b.jpg
+    alt:
+      en: "Dark, blurry nighttime photo of floodwater with small boats or rafts holding red and yellow life preservers, illuminated by a bright light source in the background."
 geo:
 id: 22304
 item_type: Still Image

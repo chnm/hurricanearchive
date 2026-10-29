@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1033Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8fb31ee14fb29f8fb3f06.jpg
     url: /files/original/14fb29f8fb31ee14fb29f8fb3f06.jpg
+    alt:
+      en: "A line of military transport trucks parked under large oak trees on a grassy lawn, with uniformed soldiers standing near the vehicles and houses visible in the background."
 geo:
 id: 22226
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: sanbernado_5da2d89682.jpg
     thumb: /files/thumbnails/14fb29d9c2834614fb29d9c28724.jpg
     url: /files/original/14fb29d9c2834614fb29d9c28724.jpg
+    alt:
+      en: "A white columned house with a balcony stands beside a tall stone obelisk monument, surrounded by lawn and a black iron fence in the foreground."
 geo:
 id: 26173
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0341.JPG
     thumb: /files/thumbnails/14fb2a548ce6a214fb2a548ceb38.jpg
     url: /files/original/14fb2a548ce6a214fb2a548ceb38.jpg
+    alt:
+      en: "Rows of elevated concrete pilings and partial wood framing mark house foundations under construction, surrounded by bare trees and cleared land beside a paved road."
 geo:
 id: 4996
 item_type: Still Image

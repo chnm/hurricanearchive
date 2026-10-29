@@ -21,6 +21,8 @@ files:
     original_filename: CB Plaquemines 1900s_6c2ab2862b.jpg
     thumb: /files/thumbnails/14fb29d8e7b1e614fb29d8e7b93d.jpg
     url: /files/original/14fb29d8e7b1e614fb29d8e7b93d.jpg
+    alt:
+      en: "Sepia-toned vintage photograph of two unidentified men seated outdoors, one in overalls and a white shirt, the other in suspenders, with a rural building and bare trees in the background, Plaquemines Parish, early 1900s."
 geo:
   address: ''
   lat: 29.84064

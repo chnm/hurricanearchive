@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1231Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6ba0f7a14fb29f6ba135f.jpg
     url: /files/original/14fb29f6ba0f7a14fb29f6ba135f.jpg
+    alt:
+      en: "Heavy rain pours over floodwaters submerging pilings, with a tarp-covered object partially floating or submerged on the right side of the frame."
 geo:
 id: 22399
 item_type: Still Image

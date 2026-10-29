@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060crop.jpg
     thumb: /files/thumbnails/14fb2a04e8fa4614fb2a04e8fe27.jpg
     url: /files/original/14fb2a04e8fa4614fb2a04e8fe27.jpg
+    alt:
+      en: "A person in military camouflage fatigues, tan hard hat, and work gloves stands on a debris-strewn gravel lot, with damaged metal roofing and a dismantled structure visible in the background."
 geo:
 id: 20701
 item_type: Still Image

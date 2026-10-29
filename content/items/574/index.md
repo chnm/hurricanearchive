@@ -26,6 +26,8 @@ files:
     original_filename: Katrina_041_40db42dd97.jpg
     thumb: /files/thumbnails/14fb2a6f816c6d14fb2a6f81700d.jpg
     url: /files/original/14fb2a6f816c6d14fb2a6f81700d.jpg
+    alt:
+      en: "Exposed roof trusses and rafters open to a bright overcast sky, with wooden beams stamped \"KILN DRIED WINTON\" visible against a dark shadowed area to the right."
 geo:
   address: ''
   lat: 30.5663257417141

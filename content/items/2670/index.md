@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9261.jpg
     thumb: /files/thumbnails/14fb2a60a317ab14fb2a60a31b90.jpg
     url: /files/original/14fb2a60a317ab14fb2a60a31b90.jpg
+    alt:
+      en: "Debris field of scattered bricks and a stripped, broken tree surround a lone concrete block structure; in the foreground a leaning sign reads \"First Baptist Church, Grand Chenier, SBC\" with service times."
 geo:
 id: 2670
 item_type: Still Image

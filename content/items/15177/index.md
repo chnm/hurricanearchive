@@ -21,6 +21,8 @@ files:
     original_filename: GBuckley-6200_e721ee633f.jpg
     thumb: /files/thumbnails/14fb2a16bbc19a14fb2a16bbc573.jpg
     url: /files/original/14fb2a16bbc19a14fb2a16bbc573.jpg
+    alt:
+      en: "Black-and-white portrait of a woman in a dark hat with a feather trim and a light-colored dress, smiling in front of a house, circa 1949."
 geo:
 id: 15177
 item_type: Still Image

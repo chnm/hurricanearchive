@@ -21,6 +21,8 @@ files:
     original_filename: MVC-017S.JPG
     thumb: /files/thumbnails/14fb2a5f90bb0914fb2a5f90bef6.jpg
     url: /files/original/14fb2a5f90bb0914fb2a5f90bef6.jpg
+    alt:
+      en: "Interior of a ship's galley or utility room with stainless steel equipment, electrical control panels, overhead ductwork and piping, a metal cart, and a sink along the wall."
 geo:
 id: 2928
 item_type: Still Image

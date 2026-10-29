@@ -21,6 +21,8 @@ files:
     original_filename: 09140021.JPG
     thumb: /files/thumbnails/14fb29e977347414fb29e9773859.jpg
     url: /files/original/14fb29e977347414fb29e9773859.jpg
+    alt:
+      en: "Military generator equipment marked \"SEG 04\" sits beside a debris-strewn alley, with a brick building, parked SUVs, and utility poles lining the street under a clear sky."
 geo:
 id: 24240
 item_type: Still Image

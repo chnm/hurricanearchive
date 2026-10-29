@@ -24,6 +24,8 @@ files:
     original_filename: rescue_cb1e9cf66e.jpg
     thumb: /files/thumbnails/14fb2a2218df2d14fb2a2218e314.jpg
     url: /files/original/14fb2a2218df2d14fb2a2218e314.jpg
+    alt:
+      en: "Rescue workers help a person into an orange inflatable boat beside a flooded house, with floodwater surrounding the porch and a bare tree branch in the foreground."
 geo:
 id: 12528
 item_type: Still Image

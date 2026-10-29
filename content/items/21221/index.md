@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0200-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fff158ea14fb29fff15ccc.jpg
     url: /files/original/14fb29fff158ea14fb29fff15ccc.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential property with uprooted and snapped trees, debris scattered across lawns and roadways, and two vehicles parked in a driveway near a house with a partially damaged roof."
 geo:
 id: 21221
 item_type: Still Image

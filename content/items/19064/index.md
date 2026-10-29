@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0308.JPG
     thumb: /files/thumbnails/14fb2a13758cac14fb2a137590b6.jpg
     url: /files/original/14fb2a13758cac14fb2a137590b6.jpg
+    alt:
+      en: "Interior of a military helicopter cabin, with a crew member wearing a flight helmet and American flag patch in the foreground, a fire extinguisher mounted on the wall, and a \"SEAT RELEASE\" instruction placard visible."
 geo:
 id: 19064
 item_type: Still Image

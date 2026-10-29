@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7469.JPG
     thumb: /files/thumbnails/14fb29cc95d64114fb29cc95da27.jpg
     url: /files/original/14fb29cc95d64114fb29cc95da27.jpg
+    alt:
+      en: "View from inside a car's back seat showing a driver's arm on the steering wheel, with a congested multi-lane road ahead lined with businesses and traffic signs under a hazy sky."
 geo:
 id: 30756
 item_type: Still Image

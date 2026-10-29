@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_KATRINA_FOR_R_05D01_1ebb5b1675.jpg
     thumb: /files/thumbnails/14fb2a6662557e14fb2a6662fddf.jpg
     url: /files/original/14fb2a6662557e14fb2a6662fddf.jpg
+    alt:
+      en: "A large rusted shrimp boat lies overturned on a grassy bank near water, with two Coast Guard officers standing beside it and additional docked boats visible in the background."
 geo:
 id: 2429
 item_type: Still Image

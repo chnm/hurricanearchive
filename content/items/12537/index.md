@@ -24,6 +24,8 @@ files:
     original_filename: bookcase_65ea9bf013.jpg
     thumb: /files/thumbnails/14fb2a220ebf8d14fb2a220ec372.jpg
     url: /files/original/14fb2a220ebf8d14fb2a220ec372.jpg
+    alt:
+      en: "Water-damaged bookshelves with warped, mildewed books line a stained wall, while fallen books and a rolled-up rug lie scattered on the floor below."
 geo:
   address: ''
   lat: 29.95657

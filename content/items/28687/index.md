@@ -20,6 +20,8 @@ files:
     original_filename: 118650528_c6408b0b90.jpg
     thumb: /files/thumbnails/14fb29d1bd1fc214fb29d1bd23a7.jpg
     url: /files/original/14fb29d1bd1fc214fb29d1bd23a7.jpg
+    alt:
+      en: "A white lighthouse-style building with a red roof stands amid storm debris, with downed power lines, bare trees, and a damaged structure nearby under a clear sky."
 geo:
 id: 28687
 item_type: Still Image

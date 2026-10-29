@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28153.jpg
     thumb: /files/thumbnails/14fb2a6a9bab7e14fb2a6a9baf64.jpg
     url: /files/original/14fb2a6a9bab7e14fb2a6a9baf64.jpg
+    alt:
+      en: "Debris-strewn concrete slab with the skeletal remains of a storm-damaged house, exposed framing and missing siding, surrounded by scattered rubble and a fallen support post in the foreground."
 geo:
   address: ''
   lat: 0.0

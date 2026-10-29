@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-marriagecertificate2_fdf06e9346.jpg
     thumb: /files/thumbnails/14fb29dc73016114fb29dc73c0c8.jpg
     url: /files/original/14fb29dc73016114fb29dc73c0c8.jpg
+    alt:
+      en: "Weathered and water-stained marriage certificate with ornate teal borders, a gold embossed seal with red ribbon, and handwritten cursive entries recording the August 14, 1970 marriage in Mobile County, Alabama."
 geo:
 id: 25746
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010102.JPG
     thumb: /files/thumbnails/14fb2a5b10a0fe14fb2a5b10a4d9.jpg
     url: /files/original/14fb2a5b10a0fe14fb2a5b10a4d9.jpg
+    alt:
+      en: "Search-and-rescue markings cover the white siding of a storm-damaged house at 2681 Acacia, including dates, \"SPCA,\" \"CAT to LEMAR,\" and \"NONE SEEN F/W,\" with a cat litter box and food left on the porch."
 geo:
 id: 3527
 item_type: Still Image

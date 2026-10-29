@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0061OEP.JPG
     thumb: /files/thumbnails/14fb29f1b8586614fb29f1b85bdd.jpg
     url: /files/original/14fb29f1b8586614fb29f1b85bdd.jpg
+    alt:
+      en: "A man lies on dry grass beneath camera tripods and equipment stands, wearing sunglasses and jeans, surrounded by tangled cables, sandbags, and a folding chair nearby."
 geo:
 id: 23051
 item_type: Still Image

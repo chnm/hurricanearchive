@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29f033f39914fb29f033f77e.jpg
     url: /files/original/14fb29f033f39914fb29f033f77e.jpg
+    alt:
+      en: "Three men ride a red International Harvester \"Turbo\" tractor through floodwaters along a tree-lined shoreline, with one man standing, one driving, and one seated on the rear fender."
 geo:
 id: 23266
 item_type: Still Image

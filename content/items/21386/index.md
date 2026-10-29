@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0242.JPG
     thumb: /files/thumbnails/14fb29ff10589314fb29ff105c79.jpg
     url: /files/original/14fb29ff10589314fb29ff105c79.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with damaged and displaced rooftops, scattered debris, downed power lines, and uprooted trees between closely spaced houses."
 geo:
 id: 21386
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-11-9Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e54bb99314fb29e54bbf58.jpg
     url: /files/original/14fb29e54bb99314fb29e54bbf58.jpg
+    alt:
+      en: "Military troops stand atop an armored convoy vehicle moving through floodwaters beside a building, with a side mirror reflecting trees and a fence in the foreground."
 geo:
 id: 24734
 item_type: Still Image

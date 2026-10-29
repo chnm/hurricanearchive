@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28290.jpg
     thumb: /files/thumbnails/14fb2a6a947c2414fb2a6a948012.jpg
     url: /files/original/14fb2a6a947c2414fb2a6a948012.jpg
+    alt:
+      en: "Heavily storm-damaged multi-story building with exposed wooden framing and collapsed walls, surrounded by debris and a large leaning tree, its branches tangled in the structure."
 geo:
   address: ''
   lat: 0.0

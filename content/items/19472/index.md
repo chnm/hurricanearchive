@@ -21,6 +21,8 @@ files:
     original_filename: Picture 032engineers.jpg
     thumb: /files/thumbnails/14fb2a0fd3a0da14fb2a0fd3a4b2.jpg
     url: /files/original/14fb2a0fd3a0da14fb2a0fd3a4b2.jpg
+    alt:
+      en: "Side-by-side satellite images of New Orleans Lakefront Airport labeled \"August 28, 2002\" and \"September 2, 2005,\" showing runways, surrounding neighborhoods, and flooded areas along the lakeshore after Hurricane Katrina."
 geo:
 id: 19472
 item_type: Still Image

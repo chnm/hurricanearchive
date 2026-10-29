@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_CarlRobinson_03_b44833022a.jpg
     thumb: /files/thumbnails/14fb2a181872bb14fb2a181879d1.jpg
     url: /files/original/14fb2a181872bb14fb2a181879d1.jpg
+    alt:
+      en: "A young boy in a blue T-shirt and red shorts stands smiling on a grassy lawn, with an inflatable bounce house decorated with cartoon characters and balloons behind him."
 geo:
 id: 14699
 item_type: Still Image

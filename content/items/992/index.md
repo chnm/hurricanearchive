@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27919.jpg
     thumb: /files/thumbnails/14fb2a6b8009b614fb2a6b800d79.jpg
     url: /files/original/14fb2a6b8009b614fb2a6b800d79.jpg
+    alt:
+      en: "A stone \"Audubon Zoo\" sign stands beneath a large oak tree, surrounded by greenery and a white fence in the background."
 geo:
   address: ''
   lat: 0.0

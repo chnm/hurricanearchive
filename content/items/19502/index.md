@@ -21,6 +21,8 @@ files:
     original_filename: Picture 062engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa3f1b214fb2a0fa3f59d.jpg
     url: /files/original/14fb2a0fa3f1b214fb2a0fa3f59d.jpg
+    alt:
+      en: "Aerial view of a flooded urban area with multiple buildings surrounded by standing water, an elevated highway overpass crossing the scene, and a curved on-ramp visible in the lower left corner."
 geo:
 id: 19502
 item_type: Still Image

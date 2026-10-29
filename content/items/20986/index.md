@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0163-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a012ccf4414fb2a012cd329.jpg
     url: /files/original/14fb2a012ccf4414fb2a012cd329.jpg
+    alt:
+      en: "Damaged structure on wooden stilts surrounded by floodwater, its siding and roofing torn away, with debris and uprooted vegetation scattered around the base and power lines crossing in the foreground."
 geo:
 id: 20986
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9180.jpg
     thumb: /files/thumbnails/14fb2a638cc8f314fb2a638cccda.jpg
     url: /files/original/14fb2a638cc8f314fb2a638cccda.jpg
+    alt:
+      en: "Shattered concrete slab foundation with exposed wooden posts and framing, surrounded by standing water and sandy, debris-strewn coastal terrain under a bright sky."
 geo:
 id: 2641
 item_type: Still Image

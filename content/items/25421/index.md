@@ -21,6 +21,8 @@ files:
     original_filename: Superdome parking lot 2superdome.jpg
     thumb: /files/thumbnails/14fb29dde8177e14fb29dde81e88.jpg
     url: /files/original/14fb29dde8177e14fb29dde81e88.jpg
+    alt:
+      en: "Large military helicopter with spinning rotor blades parked on an elevated lot, with a city skyline of mid-rise buildings visible in the background."
 geo:
 id: 25421
 item_type: Still Image

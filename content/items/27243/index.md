@@ -20,6 +20,8 @@ files:
     original_filename: 9th Ward 2.JPG
     thumb: /files/thumbnails/14fb29d5ac845f14fb29d5ac8bff.jpg
     url: /files/original/14fb29d5ac845f14fb29d5ac8bff.jpg
+    alt:
+      en: "Severe storm debris surrounds a damaged house with a car flipped upside down atop a pile of wreckage, under an overcast, foggy sky with bare trees in the background."
 geo:
 id: 27243
 item_type: Still Image

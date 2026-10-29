@@ -20,6 +20,8 @@ files:
     original_filename: Murph_e1ad177eac.JPG
     thumb: /files/thumbnails/14fb2a665a130014fb2a665a13fe.jpg
     url: /files/original/14fb2a665a130014fb2a665a13fe.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands on a road directing traffic near a street sign reading \"Lakeshore,\" with a large body of water and grassy shoreline in the background."
 geo:
 id: 2441
 item_type: Still Image

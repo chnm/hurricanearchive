@@ -21,6 +21,8 @@ files:
     original_filename: Behind the Superdome 3superdome.jpg
     thumb: /files/thumbnails/14fb29e542fe3c14fb29e542ffcb.jpg
     url: /files/original/14fb29e542fe3c14fb29e542ffcb.jpg
+    alt:
+      en: "Flooded city street with submerged cars and trees, reflecting a hazy sky between high-rise buildings; a \"SUPERDOME Parking Office\" sign and \"ONE WAY\" street signs are partially underwater in the foreground."
 geo:
 id: 24742
 item_type: Still Image

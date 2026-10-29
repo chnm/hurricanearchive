@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0070abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efcb1d8414fb29efcb2168.jpg
     url: /files/original/14fb29efcb1d8414fb29efcb2168.jpg
+    alt:
+      en: "Men on horseback and on foot gather near a livestock trailer with a blue cover in a grassy field, with a ranch house, fence, and RV visible in the background."
 geo:
 id: 23364
 item_type: Still Image

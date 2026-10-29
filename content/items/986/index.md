@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28178.jpg
     thumb: /files/thumbnails/14fb2a6b887fcb14fb2a6b8883a5.jpg
     url: /files/original/14fb2a6b887fcb14fb2a6b8883a5.jpg
+    alt:
+      en: "A \"NO DUMPING\" sign stands on a metal pole amid storm debris, with a severely damaged house and scattered wreckage in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

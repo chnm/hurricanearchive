@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 076.jpg
     thumb: /files/thumbnails/14fb2a127cdbd714fb2a127cdfd4.jpg
     url: /files/original/14fb2a127cdbd714fb2a127cdfd4.jpg
+    alt:
+      en: "Street view through a car windshield of a black GMC Yukon parked beside a damaged fence and leaning palm tree, with a \"2 HR. PARKING Residential Parking Area\" sign and a weathered Louisiana inspection sticker on the glass."
 geo:
 id: 19166
 item_type: Still Image

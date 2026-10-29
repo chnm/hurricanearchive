@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0314stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eeb4a9e914fb29eeb4add8.jpg
     url: /files/original/14fb29eeb4a9e914fb29eeb4add8.jpg
+    alt:
+      en: "Mud-covered Honda CR-V with open rear hatch and exposed spare tire sits in a thick layer of dried mud in front of a brick house, with a similarly mud-caked van parked nearby."
 geo:
 id: 23579
 item_type: Still Image

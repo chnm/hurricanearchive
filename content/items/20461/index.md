@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018.JPG
     thumb: /files/thumbnails/14fb2a070af8a814fb2a070afc86.jpg
     url: /files/original/14fb2a070af8a814fb2a070afc86.jpg
+    alt:
+      en: "Four men gather around laptops on a desk, one in civilian attire seated and gesturing while three others in U.S. Army camouflage uniforms stand and sit nearby, with bulletin board flyers visible on the wall behind them."
 geo:
 id: 20461
 item_type: Still Image

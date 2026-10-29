@@ -21,6 +21,8 @@ files:
     original_filename: madabeach_2f4dd0f62f.jpg
     thumb: /files/thumbnails/14fb2a16d1199614fb2a16d11d7c.jpg
     url: /files/original/14fb2a16d1199614fb2a16d11d7c.jpg
+    alt:
+      en: "Vintage sepia-toned photo of a smiling man and woman posed arm in arm at a bar, with a \"Pontchartrain Beach\" sign and shelves of bottles in the background."
 geo:
   address: ''
   lat: 37.77123

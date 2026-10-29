@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2085superdome.JPG
     thumb: /files/thumbnails/14fb29deb09b3c14fb29deb09f23.jpg
     url: /files/original/14fb29deb09b3c14fb29deb09f23.jpg
+    alt:
+      en: "Military personnel help a civilian up the rear loading ramp of a large helicopter on a wet tarmac, assisted by a crew member standing inside the aircraft."
 geo:
 id: 25358
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1522superdome.JPG
     thumb: /files/thumbnails/14fb29e30497e914fb29e3049bcd.jpg
     url: /files/original/14fb29e30497e914fb29e3049bcd.jpg
+    alt:
+      en: "A military medical helicopter hovers over an empty parking lot as thick black smoke rises in the distance, viewed from beside a parked military truck."
 geo:
 id: 25000
 item_type: Still Image

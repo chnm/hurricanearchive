@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1098Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7f463ea14fb29f7f46516.jpg
     url: /files/original/14fb29f7f463ea14fb29f7f46516.jpg
+    alt:
+      en: "Severe flooding engulfs a street during heavy rain, with only the roof of a submerged vehicle visible in the foreground and buildings obscured by mist in the background."
 geo:
 id: 22287
 item_type: Still Image

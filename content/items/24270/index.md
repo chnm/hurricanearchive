@@ -21,6 +21,8 @@ files:
     original_filename: 20050926016.JPG
     thumb: /files/thumbnails/14fb29e923265614fb29e9232da5.jpg
     url: /files/original/14fb29e923265614fb29e9232da5.jpg
+    alt:
+      en: "Military vehicle follows a large wheeled loader down a damaged road past snapped trees and power lines, with a brick school building reading \"Grand Lake School\" visible on the right."
 geo:
 id: 24270
 item_type: Still Image

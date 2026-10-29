@@ -21,6 +21,8 @@ files:
     original_filename: 100-29_5ee43e7e0d.jpg
     thumb: /files/thumbnails/14fb2a21c7ab2d14fb2a21c7af09.jpg
     url: /files/original/14fb2a21c7ab2d14fb2a21c7af09.jpg
+    alt:
+      en: "Aged, creased photograph of four young people dressed formally for a prom, standing together smiling in a decorated gymnasium with balloons and streamers visible in the background."
 geo:
 id: 12685
 item_type: Still Image

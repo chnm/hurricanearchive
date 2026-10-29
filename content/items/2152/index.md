@@ -26,6 +26,8 @@ files:
     original_filename: 030308030510_ac0cea3612.JPG
     thumb: /files/thumbnails/14fb2a6d97725214fb2a6d977637.jpg
     url: /files/original/14fb2a6d97725214fb2a6d977637.jpg
+    alt:
+      en: "Storm-damaged property with scattered debris, twisted metal, and a motorhome parked amid wreckage, set against a grassy field and blue sky with utility poles."
 geo:
   address: ''
   lat: 30.135425

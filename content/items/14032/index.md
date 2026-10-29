@@ -21,6 +21,8 @@ files:
     original_filename: 20050927024.JPG
     thumb: /files/thumbnails/14fb2a1c523a8d14fb2a1c523ef6.jpg
     url: /files/original/14fb2a1c523a8d14fb2a1c523ef6.jpg
+    alt:
+      en: "Two U.S. Army soldiers in uniform stand together outdoors near military vehicles; a woman in woodland camouflage smiles while a man in desert camouflage and a tan shirt speaks beside her."
 geo:
   address: ''
   lat: 0.0

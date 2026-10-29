@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0581Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f507244714fb29f5072835.jpg
     url: /files/original/14fb29f507244714fb29f5072835.jpg
+    alt:
+      en: "Storm-damaged brick building with a two-story white-columned gallery; the roof's gable end is torn open, exposing wooden rafters, while a brick chimney remains intact nearby."
 geo:
 id: 22617
 item_type: Still Image

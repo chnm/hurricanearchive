@@ -21,6 +21,8 @@ files:
     original_filename: LionelPowell-5826_8d19d16750.jpg
     thumb: /files/thumbnails/14fb29d923d66314fb29d923da50.jpg
     url: /files/original/14fb29d923d66314fb29d923da50.jpg
+    alt:
+      en: "A bride in a white gown and veil dances with guests on a reception floor, the photograph heavily damaged with water stains and emulsion loss obscuring parts of the scene."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

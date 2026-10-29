@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a14f6e6e214fb2a14f6eb57.jpg
     url: /files/original/14fb2a14f6e6e214fb2a14f6eb57.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood with debris-strewn streets, scattered standing water, and a river with bridges visible in the background."
 geo:
 id: 18839
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: Hurricane Hearts027_5959bc58bd.JPG
     thumb: /files/thumbnails/14fb29cc3e051114fb29cc3e08f6.jpg
     url: /files/original/14fb29cc3e051114fb29cc3e08f6.jpg
+    alt:
+      en: "A hand-painted green memorial sign on a telephone pole features a flower with words like \"hope,\" \"joy,\" and \"kindness,\" the name \"Helen,\" a heart, and a handwritten tribute about a seed planted in the heart."
 geo:
   address: 2444 N. Rampart St
   lat: 0.0

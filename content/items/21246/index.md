@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0206-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffd1e3c514fb29ffd1e7aa.jpg
     url: /files/original/14fb29ffd1e3c514fb29ffd1e7aa.jpg
+    alt:
+      en: "Interior view of an aircraft cockpit showing instrument panels with gauges and digital displays, with a crew member wearing a helmet and headset seated in the foreground, bright sky visible through the windshield."
 geo:
 id: 21246
 item_type: Still Image

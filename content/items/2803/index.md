@@ -21,6 +21,8 @@ files:
     original_filename: 95.jpg
     thumb: /files/thumbnails/14fb2a6005e47414fb2a60060d7b.jpg
     url: /files/original/14fb2a6005e47414fb2a60060d7b.jpg
+    alt:
+      en: "Hand-drawn sketch of a multi-story building mostly submerged in wavy floodwater, with a stick figure on the roof holding a sign reading \"Help us,\" labeled \"Tyonna 9\" in the corner."
 geo:
 id: 2803
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0114-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e6ce249514fb29e6ce287c.jpg
     url: /files/original/14fb29e6ce249514fb29e6ce287c.jpg
+    alt:
+      en: "Aerial view of sunlit, choppy water with a textured, rippled surface and a dark shadowed area in the lower left corner."
 geo:
 id: 24549
 item_type: Still Image

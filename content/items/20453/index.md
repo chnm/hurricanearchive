@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017.JPG
     thumb: /files/thumbnails/14fb2a0712361914fb2a071239f0.jpg
     url: /files/original/14fb2a0712361914fb2a071239f0.jpg
+    alt:
+      en: "Dimly lit room with several people in military uniforms gathered near a bulletin board covered with flyers, including one with a \"HOTLINE\" phone number, while a seated man in a light-colored polo shirt looks down at a table."
 geo:
 id: 20453
 item_type: Still Image

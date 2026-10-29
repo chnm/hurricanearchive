@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0557.JPG
     thumb: /files/thumbnails/14fb2a56ae33bf14fb2a56ae377b.jpg
     url: /files/original/14fb2a56ae33bf14fb2a56ae377b.jpg
+    alt:
+      en: "Debris-strewn lot with scattered lumber and a toppled white appliance, surrounded by bare, storm-damaged trees and the remains of foundations in the background."
 geo:
 id: 4628
 item_type: Still Image

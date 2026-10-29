@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038media.JPG
     thumb: /files/thumbnails/14fb29f2a2c3f614fb29f2a2c7d9.jpg
     url: /files/original/14fb29f2a2c3f614fb29f2a2c7d9.jpg
+    alt:
+      en: "Two people wearing aviation headsets with microphones sit inside an aircraft, with cables and equipment visible in the background and a bright window beyond."
 geo:
 id: 22934
 item_type: Still Image

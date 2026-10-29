@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2205superdome.JPG
     thumb: /files/thumbnails/14fb29e44cc73714fb29e44cc9f3.jpg
     url: /files/original/14fb29e44cc73714fb29e44cc9f3.jpg
+    alt:
+      en: "Nighttime scene with floodwater on the ground near buses, including one marked \"MTI Limo & Shuttle Services,\" as armed soldiers in camouflage stand near evacuees, a shopping cart, water bottle pallets, and cardboard boxes."
 geo:
 id: 24865
 item_type: Still Image

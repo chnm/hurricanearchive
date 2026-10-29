@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140015.JPG
     thumb: /files/thumbnails/14fb2a0a7dd0a414fb2a0a7ddb10.jpg
     url: /files/original/14fb2a0a7dd0a414fb2a0a7ddb10.jpg
+    alt:
+      en: "A large blue plastic bin or trash receptacle tangled in tree branches, with a brick wall, iron fence, and building visible in the background near railroad tracks."
 geo:
 id: 20241
 item_type: Still Image

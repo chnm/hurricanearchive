@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0124-21-2.JPG
     thumb: /files/thumbnails/14fb29e641c06514fb29e641c44c.jpg
     url: /files/original/14fb29e641c06514fb29e641c44c.jpg
+    alt:
+      en: "A man in U.S. Air Force woodland camouflage fatigues, with a name tape reading \"Albert,\" sits at a laptop computer, focused intently on the screen in a dimly lit room."
 geo:
 id: 24598
 item_type: Still Image

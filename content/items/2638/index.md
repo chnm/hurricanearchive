@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9171.jpg
     thumb: /files/thumbnails/14fb2a63b7a2a714fb2a63b7a9a1.jpg
     url: /files/original/14fb2a63b7a2a714fb2a63b7a9a1.jpg
+    alt:
+      en: "Wooden post numbered \"506\" holds a hand-lettered sign reading \"506 LAFITTE BLVD, Blk. 5-Lots-30,31,32,33, OWNER: George Colby, CELL-225-205-1143,\" surrounded by concrete slabs and storm debris near the shoreline."
 geo:
 id: 2638
 item_type: Still Image

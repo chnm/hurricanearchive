@@ -21,6 +21,8 @@ files:
     original_filename: 100-03_bcc3748c45.jpg
     thumb: /files/thumbnails/14fb2a22220cca14fb2a22221089.jpg
     url: /files/original/14fb2a22220cca14fb2a22221089.jpg
+    alt:
+      en: "Vintage photo dated \"APR 71\" of a man in a dark suit standing on a sidewalk in front of a white house with a tree and small front porch, the house numbered 1513."
 geo:
 id: 12421
 item_type: Still Image

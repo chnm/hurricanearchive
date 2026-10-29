@@ -21,6 +21,8 @@ files:
     original_filename: P1010073empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee59a86c14fb29ee59ac52.jpg
     url: /files/original/14fb29ee59a86c14fb29ee59ac52.jpg
+    alt:
+      en: "A grounded barge with a large yellow crane sits atop a grassy levee, with a rusted steel structure nearby and fallen tree debris scattered across the field in the foreground."
 geo:
 id: 23632
 item_type: Still Image

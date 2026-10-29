@@ -21,6 +21,8 @@ files:
     original_filename: 051002-A-7045A-029MarylandNG.jpg
     thumb: /files/thumbnails/14fb29f183c40114fb29f183c7c0.jpg
     url: /files/original/14fb29f183c40114fb29f183c7c0.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms load canned goods into a minivan beside stacked pallets of bottled water and boxed supplies, with one man carrying a \"Sonny's Ice\" bag in a parking lot staging area."
 geo:
 id: 23113
 item_type: Still Image

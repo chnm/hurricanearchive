@@ -21,6 +21,8 @@ files:
     original_filename: winners at titles dance_8b3383c609.jpg
     thumb: /files/thumbnails/14fb29d77d85ef14fb29d77d8950.jpg
     url: /files/original/14fb29d77d85ef14fb29d77d8950.jpg
+    alt:
+      en: "Yearbook page titled \"Winners Announced At Titles Dance\" featuring photos of a young man in a white suit, with text naming Timmy Holmes as Most Popular; a partial photo of another suited man appears at left."
 geo:
 id: 26843
 item_type: Still Image

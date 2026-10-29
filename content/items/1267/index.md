@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28157.jpg
     thumb: /files/thumbnails/14fb2a69fa98d814fb2a69fa9de9.jpg
     url: /files/original/14fb2a69fa98d814fb2a69fa9de9.jpg
+    alt:
+      en: "A large stained concrete slab foundation stands amid storm debris, with a damaged house frame, exposed wood framing, coiled green hose, and scattered tools in the background."
 geo:
   address: ''
   lat: 0.0

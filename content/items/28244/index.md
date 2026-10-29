@@ -27,6 +27,8 @@ files:
     original_filename: 384684803_f510a0f201.
     thumb: /files/thumbnails/14fb29d2a3b36814fb29d2a3b544.jpg
     url: /files/original/14fb29d2a3b36814fb29d2a3b544.jpg
+    alt:
+      en: "Interior of a gutted, unfinished wooden house with bare studs and windows, featuring an art installation of candles in bottles hanging from the ceiling, plastic bags, and a suitcase overflowing with plants and old photographs on the floor."
 geo:
   address: ''
   lat: 30.01333

@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-12-11Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e56a82ff14fb29e56a86e4.jpg
     url: /files/original/14fb29e56a82ff14fb29e56a86e4.jpg
+    alt:
+      en: "Military personnel in camouflage help an elderly man in a pink shirt climb down near a vehicle, with standing water visible on the ground and people gathered in a covered walkway in the background."
 geo:
 id: 24710
 item_type: Still Image

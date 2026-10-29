@@ -21,6 +21,8 @@ files:
     original_filename: FH000014-9-23.jpg
     thumb: /files/thumbnails/14fb29fc6e7da614fb29fc6e817f.jpg
     url: /files/original/14fb29fc6e7da614fb29fc6e817f.jpg
+    alt:
+      en: "Brick building with a collapsed, buckled section of roof, seen through a chain-link fence and a vehicle's side mirror, with debris scattered on the ground nearby."
 geo:
 id: 21683
 item_type: Still Image

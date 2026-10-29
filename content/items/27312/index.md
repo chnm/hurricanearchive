@@ -23,6 +23,8 @@ files:
     original_filename: 336697588_453d169df4.jpg
     thumb: /files/thumbnails/14fb29d520914914fb29d5209892.jpg
     url: /files/original/14fb29d520914914fb29d5209892.jpg
+    alt:
+      en: "Cracked, dried mud flat littered with debris, including boots, fabric, and green tubing, with a chain-link fence and scattered trash in the background."
 geo:
 id: 27312
 item_type: Still Image

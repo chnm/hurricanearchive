@@ -21,6 +21,8 @@ files:
     original_filename: DSC 007217thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f386571714fb29f3896fff.jpg
     url: /files/original/14fb29f386571714fb29f3896fff.jpg
+    alt:
+      en: "Aerial view of a collapsed bridge section where a roadway meets muddy, debris-laden water flowing into a larger body of water, with houses, green lawns, and trees visible in the foreground."
 geo:
 id: 22804
 item_type: Still Image

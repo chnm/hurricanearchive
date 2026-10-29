@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 018.jpg
     thumb: /files/thumbnails/14fb2a2282b77914fb2a2282bb69.jpg
     url: /files/original/14fb2a2282b77914fb2a2282bb69.jpg
+    alt:
+      en: "Interior of a large relief supply tent filled with stacked cardboard boxes, wrapped pallets, and wooden pallets, with blue tarps and support poles visible in the background."
 geo:
 id: 11971
 item_type: Still Image

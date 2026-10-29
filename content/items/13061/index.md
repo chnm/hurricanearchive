@@ -21,6 +21,8 @@ files:
     original_filename: before upper garage.jpg
     thumb: /files/thumbnails/14fb2a20a3afc414fb2a20a3b39b.jpg
     url: /files/original/14fb2a20a3afc414fb2a20a3b39b.jpg
+    alt:
+      en: "Empty top level of a parking garage with painted lane lines, light poles, and a white pickup truck parked near the exit, under a cloudy sky with city buildings and trees in the distance."
 geo:
 id: 13061
 item_type: Still Image

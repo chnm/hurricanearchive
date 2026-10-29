@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0122gillslong.JPG
     thumb: /files/thumbnails/14fb2a0ce0ae3114fb2a0ce69c94.jpg
     url: /files/original/14fb2a0ce0ae3114fb2a0ce69c94.jpg
+    alt:
+      en: "Several people in camouflage military uniforms and white hard hats stand on ladders, installing plywood panels on an interior wall as an advertisement reading \"more information, call 1-888-MERCK-91\" is projected above."
 geo:
 id: 19890
 item_type: Still Image

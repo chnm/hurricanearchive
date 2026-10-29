@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0299-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd8e503114fb29fd8e5374.jpg
     url: /files/original/14fb29fd8e503114fb29fd8e5374.jpg
+    alt:
+      en: "Aerial view of a flooded town with a white church steeple, brick buildings, and a cemetery of above-ground tombs surrounded by brown floodwater, with green fields visible in the background."
 geo:
 id: 21563
 item_type: Still Image

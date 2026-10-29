@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0104-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e7428d4a14fb29e7429125.jpg
     url: /files/original/14fb29e7428d4a14fb29e7429125.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses, mobile homes, and trees submerged in brown floodwater, damaged roofs and debris scattered throughout."
 geo:
 id: 24492
 item_type: Still Image

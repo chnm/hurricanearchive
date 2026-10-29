@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2087superdome.JPG
     thumb: /files/thumbnails/14fb29e50283a714fb29e5028a5d.jpg
     url: /files/original/14fb29e50283a714fb29e5028a5d.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms sit near a metal barricade while a man in a purple shirt stands nearby inside a dim building corridor marked with a \"Restrooms\" sign overhead."
 geo:
 id: 24765
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09180016plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec466b6a14fb29ec466f4a.jpg
     url: /files/original/14fb29ec466b6a14fb29ec466f4a.jpg
+    alt:
+      en: "A damaged single-story house with leaning utility poles and tangled power lines along a debris-strewn road, with a pickup truck approaching in the distance."
 geo:
 id: 23946
 item_type: Still Image

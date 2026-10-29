@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0337-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd29a3d414fb29fd29a74f.jpg
     url: /files/original/14fb29fd29a3d414fb29fd29a74f.jpg
+    alt:
+      en: "Aerial view of extensively flooded farmland with submerged fields and visible levee lines, bordered by a tree-lined waterway and distant forest under hazy skies."
 geo:
 id: 21605
 item_type: Still Image

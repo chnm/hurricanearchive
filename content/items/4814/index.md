@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0127.JPG
     thumb: /files/thumbnails/14fb2a5554462014fb2a55544a10.jpg
     url: /files/original/14fb2a5554462014fb2a55544a10.jpg
+    alt:
+      en: "Two elevated houses on stilts with white railings and covered porches, surrounded by tall pine trees, with a concrete driveway and a vehicle parked near the left house."
 geo:
 id: 4814
 item_type: Still Image

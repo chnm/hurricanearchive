@@ -24,6 +24,8 @@ files:
     original_filename: P1010039.JPG
     thumb: /files/thumbnails/14fb2a5b977ce614fb2a5b978197.jpg
     url: /files/original/14fb2a5b977ce614fb2a5b978197.jpg
+    alt:
+      en: "A flood-damaged garage coated in dried gray silt, with a dust-covered car, motorcycle, scattered tools, boxes, and debris strewn across the floor and shelves."
 geo:
 id: 3470
 item_type: Still Image

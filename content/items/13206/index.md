@@ -21,6 +21,8 @@ files:
     original_filename: 200 billboard dmage2.jpg
     thumb: /files/thumbnails/14fb2a1f53cd7514fb2a1f53d15a.jpg
     url: /files/original/14fb2a1f53cd7514fb2a1f53d15a.jpg
+    alt:
+      en: "A heavily damaged billboard structure lies collapsed amid trees and power lines beside a rural roadway, with its metal framework twisted and torn sheeting hanging loose under an overcast sky."
 geo:
 id: 13206
 item_type: Still Image

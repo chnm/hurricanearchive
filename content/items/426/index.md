@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0311_d49d355a97.JPG
     thumb: /files/thumbnails/14fb2a700542c014fb2a700546a4.jpg
     url: /files/original/14fb2a700542c014fb2a700546a4.jpg
+    alt:
+      en: "Damaged single-story house with sagging porch roof and a red \"No Bulldozing!\" sign on the boarded window, surrounded by mud-caked debris covering the yard."
 geo:
   address: ''
   lat: 0.0

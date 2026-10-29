@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28352.jpg
     thumb: /files/thumbnails/14fb2a684722ed14fb2a6847290f.jpg
     url: /files/original/14fb2a684722ed14fb2a6847290f.jpg
+    alt:
+      en: "Man in a blue shirt and cap stands amid storm debris and tangled tree branches, holding up a dark casino employee shirt, with damaged buildings visible in the background."
 geo:
   address: ''
   lat: 0.0

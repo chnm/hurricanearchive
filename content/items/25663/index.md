@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.008.JPG
     thumb: /files/thumbnails/14fb29dcd6ea4a14fb29dcd6ee2e.jpg
     url: /files/original/14fb29dcd6ea4a14fb29dcd6ee2e.jpg
+    alt:
+      en: "A line of people waits outside a brick post office building marked \"701,\" with orange traffic cones and a USPS mailbox in the foreground and \"No Smoking\" signs posted on the wall."
 geo:
 id: 25663
 item_type: Still Image

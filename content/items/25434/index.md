@@ -21,6 +21,8 @@ files:
     original_filename: Under the Superdome 7superdome.jpg
     thumb: /files/thumbnails/14fb29ddce2fc314fb29ddce33d5.jpg
     url: /files/original/14fb29ddce2fc314fb29ddce33d5.jpg
+    alt:
+      en: "A military transport truck and a blue bus wade through deep floodwater beneath an elevated highway overpass, with stranded cars and a school bus visible in the background."
 geo:
 id: 25434
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: KJ Pontchartrain Beach_20e8b38d2f.jpg
     thumb: /files/thumbnails/14fb29d6da7e8414fb29d6da877d.jpg
     url: /files/original/14fb29d6da7e8414fb29d6da877d.jpg
+    alt:
+      en: "Sepia-toned studio photo of Andrew Jackson and his cousin George Roberts posing with clasped hands at a painted backdrop reading \"Pontchartrain Beach,\" with faux liquor bottles on a shelf behind them."
 geo:
   address: ''
   lat: 29.95493

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0179-21.JPG
     thumb: /files/thumbnails/14fb2a008522cb14fb2a008526ee.jpg
     url: /files/original/14fb2a008522cb14fb2a008526ee.jpg
+    alt:
+      en: "Silhouette of a driver wearing a cap and glasses, hand on the steering wheel, viewed from the back seat of a vehicle with buildings and trees visible through the windshield."
 geo:
 id: 21115
 item_type: Still Image

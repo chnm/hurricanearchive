@@ -26,6 +26,8 @@ files:
     original_filename: 044_44_d1aba3e34e.JPG
     thumb: /files/thumbnails/14fb2a6f7a785114fb2a6f7a7c3e.jpg
     url: /files/original/14fb2a6f7a785114fb2a6f7a7c3e.jpg
+    alt:
+      en: "A man stands on a debris-strewn street beside an overturned truck and a damaged brick building with a collapsed roof, amid scattered rubble and downed power lines."
 geo:
   address: ''
   lat: 30.374646

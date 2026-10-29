@@ -26,6 +26,8 @@ files:
     original_filename: Picture_010_2bc7c1ea04.jpg
     thumb: /files/thumbnails/14fb2a7098c9f414fb2a7098cdce.jpg
     url: /files/original/14fb2a7098c9f414fb2a7098cdce.jpg
+    alt:
+      en: "US Army Corps of Engineers \"Non-Qualifying Property\" form for 820 Toledano St, Orleans Parish, with \"Slate Roof\" checked as the disqualifying reason, signed and dated 10-7-05, displayed against a lace curtain."
 geo:
   address: ''
   lat: 29.938343

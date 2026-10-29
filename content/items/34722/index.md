@@ -20,6 +20,8 @@ files:
     original_filename: 2420897589_d0f200078b.
     thumb: /files/thumbnails/14fb29c93cd95814fb29c93cdd43.jpg
     url: /files/original/14fb29c93cd95814fb29c93cdd43.jpg
+    alt:
+      en: "Dark, debris-filled interior of a damaged building, with overturned furniture and scattered objects visible through an open doorway leading outside; an exit sign glows faintly above the doorway."
 geo:
   address: ''
   lat: 29.97632

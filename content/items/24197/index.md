@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29e9dbdacd14fb29e9dbde88.jpg
     url: /files/original/14fb29e9dbdacd14fb29e9dbde88.jpg
+    alt:
+      en: "A red tractor carrying three men drives through a flooded road lined with trees, with visible road markings beneath the rising floodwater."
 geo:
 id: 24197
 item_type: Still Image

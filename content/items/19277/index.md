@@ -21,6 +21,8 @@ files:
     original_filename: S4300196iwojima.JPG
     thumb: /files/thumbnails/14fb2a1161371114fb2a11613af6.jpg
     url: /files/original/14fb2a1161371114fb2a11613af6.jpg
+    alt:
+      en: "A printed notice announcing the USS Iwo Jima's departure around 26 September 2005, with instructions for future berthing arrangements and listed registration hours of 6:00-7:45 AM and 7:00-9:00 PM, plus a contact information box."
 geo:
 id: 19277
 item_type: Still Image

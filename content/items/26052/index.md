@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6971_c25583e1db.jpg
     thumb: /files/thumbnails/14fb29db84190014fb29db841ce6.jpg
     url: /files/original/14fb29db84190014fb29db841ce6.jpg
+    alt:
+      en: "Sepia-toned cabinet card photograph of a young child with short hair, wearing a pleated white dress with a ruffled collar, standing beside a draped chair and holding a thin stick; studio mark reads \"Barnes & Lhoste, 73 Royal St., New Orleans, LA.\""
 geo:
   address: ''
   lat: 29.80252

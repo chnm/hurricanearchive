@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_LoganPage_01_70ef166d3e.jpg
     thumb: /files/thumbnails/14fb2a164748bd14fb2a16474cc3.jpg
     url: /files/original/14fb2a164748bd14fb2a16474cc3.jpg
+    alt:
+      en: "A young girl in a school uniform sits holding a fuzzy purple pillow, smiling, with a children's bookshelf, a round table, and hand puppets nearby in a classroom."
 geo:
 id: 15457
 item_type: Still Image

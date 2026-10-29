@@ -23,6 +23,8 @@ files:
     original_filename: 336696847_e981e6d3b1.jpg
     thumb: /files/thumbnails/14fb29d49d8e0a14fb29d49d91ef.jpg
     url: /files/original/14fb29d49d8e0a14fb29d49d91ef.jpg
+    alt:
+      en: "A large rusted barge rests atop debris and a collapsed chain-link fence, surrounded by cracked, muddy ground, a red mailbox, bare trees, and scattered storm wreckage."
 geo:
 id: 27333
 item_type: Still Image

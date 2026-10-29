@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (16).JPG
     thumb: /files/thumbnails/14fb2a5d8ead8e14fb2a5d8eb173.jpg
     url: /files/original/14fb2a5d8ead8e14fb2a5d8eb173.jpg
+    alt:
+      en: "Interior view of a vehicle with a man seated in the driver's seat gripping the steering wheel, while two other men stand outside the open door looking in, with a parking structure visible through the windshield."
 geo:
 id: 3163
 item_type: Still Image

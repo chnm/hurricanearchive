@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0530.JPG
     thumb: /files/thumbnails/14fb29d09d5d2d14fb29d09d6111.jpg
     url: /files/original/14fb29d09d5d2d14fb29d09d6111.jpg
+    alt:
+      en: "Aerial view of a sprawling neighborhood with numerous blue tarps covering damaged rooftops, surrounded by trees, with a large Wal-Mart Supercenter building in the foreground."
 geo:
 id: 29021
 item_type: Still Image

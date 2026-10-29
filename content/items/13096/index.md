@@ -21,6 +21,8 @@ files:
     original_filename: during street night south.jpg
     thumb: /files/thumbnails/14fb2a206a561514fb2a206a59fa.jpg
     url: /files/original/14fb2a206a561514fb2a206a59fa.jpg
+    alt:
+      en: "Nighttime street scene viewed through a rain-speckled window or lens, with orange streetlights illuminating a wet, empty roadway lined with small trees and a brick pillar in the foreground."
 geo:
 id: 13096
 item_type: Still Image

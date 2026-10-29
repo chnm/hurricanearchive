@@ -26,6 +26,8 @@ files:
     original_filename: 1919199386_1999998491_katrina2_57a79b2a1e.jpg
     thumb: /files/thumbnails/14fb2a70ee87be14fb2a70ee8baf.jpg
     url: /files/original/14fb2a70ee87be14fb2a70ee8baf.jpg
+    alt:
+      en: "A line of military trucks and flatbed trailers moves through a flooded roadway lined with trees and power lines."
 geo:
   address: ''
   lat: 29.9549345496561

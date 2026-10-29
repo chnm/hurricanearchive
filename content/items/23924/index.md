@@ -21,6 +21,8 @@ files:
     original_filename: 09140037neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec5c618114fb29ec5c6565.jpg
     url: /files/original/14fb29ec5c618114fb29ec5c6565.jpg
+    alt:
+      en: "Exterior of the \"L.S.U. Medical Center\" building with a large gray paneled facade, adjacent glass high-rise, and an empty fenced parking lot with a few parked trucks and vans in the foreground."
 geo:
 id: 23924
 item_type: Still Image

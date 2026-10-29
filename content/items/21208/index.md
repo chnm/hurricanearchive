@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0197-9-25.JPG
     thumb: /files/thumbnails/14fb29fffcae5614fb29fffcb31b.jpg
     url: /files/original/14fb29fffcae5614fb29fffcb31b.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with large houses, a swimming pool, and a mix of green and storm-damaged trees, some snapped or uprooted across yards and fences."
 geo:
 id: 21208
 item_type: Still Image

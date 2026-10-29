@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea538d7d14fb29ea539162.jpg
     url: /files/original/14fb29ea538d7d14fb29ea539162.jpg
+    alt:
+      en: "Aerial view of a flat, flooded landscape with scattered dark patches of water or vegetation across a pale, muted terrain, likely depicting widespread flood damage from the hurricane."
 geo:
 id: 24135
 item_type: Still Image

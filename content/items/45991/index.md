@@ -17,6 +17,8 @@ files:
     original_filename: Louisa and Higgins.jpg
     thumb: /files/thumbnails/35e06a7cc2ad41ec52c56c8234a38b71.jpg
     url: /files/original/35e06a7cc2ad41ec52c56c8234a38b71.jpg
+    alt:
+      en: "Floodwaters submerge a residential street, covering houses up to their rooflines, with a traffic light and street signs reading \"Higgins Blvd\" and \"Louisa\" rising above the water."
 geo:
 id: 45991
 item_type: Still Image

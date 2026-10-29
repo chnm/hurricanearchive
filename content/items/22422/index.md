@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1261Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f681f50914fb29f681f8e6.jpg
     url: /files/original/14fb29f681f50914fb29f681f8e6.jpg
+    alt:
+      en: "Photo taken through a rain-streaked window shows a flooded street with murky water nearly covering parked vehicles in front of a house with a columned carport."
 geo:
 id: 22422
 item_type: Still Image

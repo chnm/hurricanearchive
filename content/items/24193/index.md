@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29e9e098ff14fb29e9e09b41.jpg
     url: /files/original/14fb29e9e098ff14fb29e9e09b41.jpg
+    alt:
+      en: "Aerial view of a flooded coastal marsh, with patches of green and brown grasses scattered across calm blue water, likely showing wetland damage after a hurricane."
 geo:
 id: 24193
 item_type: Still Image

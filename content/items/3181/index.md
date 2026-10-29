@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (32).JPG
     thumb: /files/thumbnails/14fb2a5d718fc714fb2a5d7193b5.jpg
     url: /files/original/14fb2a5d718fc714fb2a5d7193b5.jpg
+    alt:
+      en: "Military personnel in fatigues gather near two camouflage Humvees parked outside a white columned building, with tree debris scattered across the street after storm cleanup."
 geo:
 id: 3181
 item_type: Still Image

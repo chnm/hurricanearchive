@@ -21,6 +21,8 @@ files:
     original_filename: Picture 029engineers.jpg
     thumb: /files/thumbnails/14fb2a0fd67f0914fb2a0fd682e5.jpg
     url: /files/original/14fb2a0fd67f0914fb2a0fd682e5.jpg
+    alt:
+      en: "Side-by-side aerial comparison of New Orleans industrial canal area, labeled August 28, 2002 and September 2, 2005, showing a dry neighborhood and shipyard before Katrina versus the same area flooded with widespread standing water afterward."
 geo:
 id: 19469
 item_type: Still Image

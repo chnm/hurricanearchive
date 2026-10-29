@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1539superdome.JPG
     thumb: /files/thumbnails/14fb29e2e731c914fb29e2e735b7.jpg
     url: /files/original/14fb29e2e731c914fb29e2e735b7.jpg
+    alt:
+      en: "Military personnel in fatigues walk across a helipad near a Black Hawk helicopter, with a man in a civilian t-shirt in front; the Delgado Community College Charity School of Nursing building stands in the background."
 geo:
 id: 25017
 item_type: Still Image

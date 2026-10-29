@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-008-2A.jpg
     thumb: /files/thumbnails/14fb29cf766b9f14fb29cf766f71.jpg
     url: /files/original/14fb29cf766b9f14fb29cf766f71.jpg
+    alt:
+      en: "Aerial view of a downtown skyline with a domed stadium in the foreground, elevated highways crossing below, and surrounding residential neighborhoods under a partly cloudy sky."
 geo:
 id: 29109
 item_type: Still Image

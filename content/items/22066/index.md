@@ -21,6 +21,8 @@ files:
     original_filename: Picture 397-J2.jpg
     thumb: /files/thumbnails/14fb29f9b356d414fb29f9b35ab1.jpg
     url: /files/original/14fb29f9b356d414fb29f9b35ab1.jpg
+    alt:
+      en: "A smiling woman rests on an air mattress atop a cot amid military duffel bags and gear in a gymnasium-like space, with \"Section 108\" signage visible in the background and people in camouflage uniforms nearby."
 geo:
 id: 22066
 item_type: Still Image

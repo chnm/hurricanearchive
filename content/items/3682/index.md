@@ -24,6 +24,8 @@ files:
     original_filename: P1010121.JPG
     thumb: /files/thumbnails/14fb2a5a2529c814fb2a5a252db2.jpg
     url: /files/original/14fb2a5a2529c814fb2a5a252db2.jpg
+    alt:
+      en: "Debris-strewn lot along a storm-damaged iron fence, with waterlogged clothing and bedding draped over the rails, fronting a flood-damaged brick house with a partially collapsed roof."
 geo:
 id: 3682
 item_type: Still Image

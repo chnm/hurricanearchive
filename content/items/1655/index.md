@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27869.jpg
     thumb: /files/thumbnails/14fb2a67402a0714fb2a67402df4.jpg
     url: /files/original/14fb2a67402a0714fb2a67402df4.jpg
+    alt:
+      en: "Flooded yard with a chain-link fence displaying a handwritten \"Boat Launch Free\" sign and a \"We Want Water Free\" sticker, with boats, debris, and a child standing in floodwater near a house."
 geo:
   address: ''
   lat: 0.0

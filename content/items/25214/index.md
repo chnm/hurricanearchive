@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1913superdome.JPG
     thumb: /files/thumbnails/14fb29e0d0da9414fb29e0d0de78.jpg
     url: /files/original/14fb29e0d0da9414fb29e0d0de78.jpg
+    alt:
+      en: "A helicopter hovers low in a hazy sky above a parking lot staging area with Louisiana National Guard military police cars, tents, trucks, and uniformed personnel gathered below."
 geo:
 id: 25214
 item_type: Still Image

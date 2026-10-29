@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0067M.JPG
     thumb: /files/thumbnails/14fb2a043117d414fb2a04311bba.jpg
     url: /files/original/14fb2a043117d414fb2a04311bba.jpg
+    alt:
+      en: "A woman in Army camouflage fatigues gestures with her hands while standing near a glass entrance, with several young men in shorts and t-shirts visible in the background."
 geo:
 id: 20736
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0210-9-25.JPG
     thumb: /files/thumbnails/14fb29ffb3981414fb29ffb39f48.jpg
     url: /files/original/14fb29ffb3981414fb29ffb39f48.jpg
+    alt:
+      en: "Close-up of a person in desert camouflage uniform with a reversed American flag patch, reaching into aircraft equipment with a helmet and spray can visible nearby."
 geo:
 id: 21265
 item_type: Still Image

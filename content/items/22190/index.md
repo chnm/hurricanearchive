@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0997Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f92e149e14fb29f92e1884.jpg
     url: /files/original/14fb29f92e149e14fb29f92e1884.jpg
+    alt:
+      en: "Military Humvee with headlights on leads a convoy of trucks through a brick-pillared gate marked \"Area C,\" as a uniformed figure stands nearby near a two-story brick building."
 geo:
 id: 22190
 item_type: Still Image

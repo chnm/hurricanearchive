@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0441.JPG
     thumb: /files/thumbnails/14fb2a53ec0b5b14fb2a53ec0f3a.jpg
     url: /files/original/14fb2a53ec0b5b14fb2a53ec0f3a.jpg
+    alt:
+      en: "Storm-damaged coastal roadway with an undermined concrete slab beside a debris-strewn embankment, scattered rubble, and a metal grate, with calm water and a hazy horizon in the background."
 geo:
 id: 5096
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.090.JPG
     thumb: /files/thumbnails/14fb29dceb905014fb29dceb9435.jpg
     url: /files/original/14fb29dceb905014fb29dceb9435.jpg
+    alt:
+      en: "Weathered pink siding of a building with \"SURVIVOR\" hand-painted in large white letters, alongside peeling trim, a broom, hose, and other debris near the base."
 geo:
 id: 25645
 item_type: Still Image

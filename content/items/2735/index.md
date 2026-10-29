@@ -21,6 +21,8 @@ files:
     original_filename: 32.jpg
     thumb: /files/thumbnails/14fb2a6060b2a314fb2a6060b688.jpg
     url: /files/original/14fb2a6060b2a314fb2a6060b688.jpg
+    alt:
+      en: "Child's drawing with \"Marlon\" and \"Texas School\" at top, a house with a ladder, four stick figures labeled \"Nice People,\" a table labeled \"Good food,\" and \"Nice toys,\" \"Book,\" and a small vehicle in red."
 geo:
 id: 2735
 item_type: Still Image

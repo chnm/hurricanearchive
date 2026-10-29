@@ -25,6 +25,8 @@ files:
     original_filename: 158012037_074c99bacc.jpg
     thumb: /files/thumbnails/14fb29d1d3b3ff14fb29d1d3b7e4.jpg
     url: /files/original/14fb29d1d3b3ff14fb29d1d3b7e4.jpg
+    alt:
+      en: "Single-story house with tan siding and dark green shutters, a blue tarp covering part of the damaged roof, orange spray-painted markings on the wall, and four trees lining the front yard."
 geo:
 id: 28669
 item_type: Still Image

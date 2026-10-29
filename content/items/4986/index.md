@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0331.JPG
     thumb: /files/thumbnails/14fb2a549b14c614fb2a549b18ae.jpg
     url: /files/original/14fb2a549b14c614fb2a549b18ae.jpg
+    alt:
+      en: "A bent metal hurricane tie bracket protrudes from a concrete foundation block, with a collapsed wooden roof truss and debris scattered in the background under a cloudy sky."
 geo:
 id: 4986
 item_type: Still Image

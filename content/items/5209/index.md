@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0654.JPG
     thumb: /files/thumbnails/14fb2a5362dd2814fb2a5362e115.jpg
     url: /files/original/14fb2a5362dd2814fb2a5362e115.jpg
+    alt:
+      en: "A storm-damaged house with a partially intact roof but collapsed walls, surrounded by scattered debris, broken wood, and downed trees under an overcast sky."
 geo:
 id: 5209
 item_type: Still Image

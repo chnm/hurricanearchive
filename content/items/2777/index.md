@@ -21,6 +21,8 @@ files:
     original_filename: 71.jpg
     thumb: /files/thumbnails/14fb2a603bec0d14fb2a603befee.jpg
     url: /files/original/14fb2a603bec0d14fb2a603befee.jpg
+    alt:
+      en: "Child's hand-drawn illustration labeled \"By Larkiva 10,\" showing a line of stick figures walking up an incline past a \"STOP\" sign toward an exit, with debris-filled floodwaters, a small boat, a house, and downed power lines surrounding the scene."
 geo:
 id: 2777
 item_type: Still Image

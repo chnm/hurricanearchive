@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0071-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a041c1d8814fb2a041c216f.jpg
     url: /files/original/14fb2a041c1d8814fb2a041c216f.jpg
+    alt:
+      en: "Military flatbed truck (marked \"225GP 769E\" and \"M-93 MB090\") carrying a skid-steer loader on a damaged roadside, with a soldier in camouflage standing beside it on a cloudy day."
 geo:
 id: 20751
 item_type: Still Image

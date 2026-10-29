@@ -20,6 +20,8 @@ files:
     original_filename: photo.JPG
     thumb: /files/thumbnails/f33807155d8bbcb50320c9ecc25d232f.jpg
     url: /files/original/f33807155d8bbcb50320c9ecc25d232f.JPG
+    alt:
+      en: "A faint double rainbow arcs across a pink and purple evening sky, with power lines, a rooftop, and tree silhouettes visible below."
 geo:
   address: Belle Chasse, LA
   lat: 29.8549287

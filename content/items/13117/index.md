@@ -21,6 +21,8 @@ files:
     original_filename: george 2.jpg
     thumb: /files/thumbnails/14fb2a205134c514fb2a205139de.jpg
     url: /files/original/14fb2a205134c514fb2a205139de.jpg
+    alt:
+      en: "A person wearing a helmet and yellow-and-gray rain jacket films with a video camera from a doorway, facing a foggy, rain-soaked parking lot with a light pole and \"RESERVED\" sign visible."
 geo:
 id: 13117
 item_type: Still Image

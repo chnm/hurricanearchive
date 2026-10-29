@@ -17,6 +17,8 @@ files:
     original_filename: nolasport.jpg
     thumb: /files/thumbnails/5ce9b7facb74b8821afe9b3ff73bafda.jpg
     url: /files/original/5ce9b7facb74b8821afe9b3ff73bafda.jpg
+    alt:
+      en: "Exterior of Nolasport storefront with a sign reading \"NOLASPORT - Fine European Automobile Sales & Service - Porsche Specialist,\" large display windows showing cars inside, and an empty parking lot in front."
 geo:
   address: 9700 Palm Street New Orleans, LA 70118
   lat: 29.969929

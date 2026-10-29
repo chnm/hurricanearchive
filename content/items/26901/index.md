@@ -21,6 +21,8 @@ files:
     original_filename: KJ St Marks 1970_181f94131e.jpg
     thumb: /files/thumbnails/14fb29d650c60c14fb29d650cffa.jpg
     url: /files/original/14fb29d650c60c14fb29d650cffa.jpg
+    alt:
+      en: "Four children dressed in formal attire, each holding a candle, stand in a dirt courtyard in front of a row of portable classroom buildings at Saint Mark's School, Chalmette, Louisiana, 1970."
 geo:
   address: ''
   lat: 29.87876

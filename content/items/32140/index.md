@@ -23,6 +23,8 @@ files:
     original_filename: 1280710362_1c7c07ac11.jpg
     thumb: /files/thumbnails/14fb29cbfb847214fb29cbfb8858.jpg
     url: /files/original/14fb29cbfb847214fb29cbfb8858.jpg
+    alt:
+      en: "A lit white candle glows against a dark night background, with faint distant lights visible in the distance."
 geo:
 id: 32140
 item_type: Still Image

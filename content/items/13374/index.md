@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4948_5f5a419e55.jpg
     thumb: /files/thumbnails/14fb2a1e27963714fb2a1e279a1c.jpg
     url: /files/original/14fb2a1e27963714fb2a1e279a1c.jpg
+    alt:
+      en: "Aged, creased photograph of a young person with short curled hair wearing cat-eye glasses, a rust-colored top, and a green cardigan, smiling softly at the camera."
 geo:
 id: 13374
 item_type: Still Image

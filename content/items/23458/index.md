@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0114cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef5af8d514fb29ef5afcbb.jpg
     url: /files/original/14fb29ef5af8d514fb29ef5afcbb.jpg
+    alt:
+      en: "A military service member wearing headphones and a radio harness looks down from the open door of an aircraft flying over a forested landscape with a winding river below."
 geo:
 id: 23458
 item_type: Still Image

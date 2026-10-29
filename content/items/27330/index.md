@@ -23,6 +23,8 @@ files:
     original_filename: 336695991_31ebb09e7a.jpg
     thumb: /files/thumbnails/14fb29d4b0716414fb29d4b07592.jpg
     url: /files/original/14fb29d4b0716414fb29d4b07592.jpg
+    alt:
+      en: "Storm-damaged brick house with a collapsed awning and downed, rust-colored trees, debris scattered across the yard, and two stone lion statues flanking a slab on the ground."
 geo:
 id: 27330
 item_type: Still Image

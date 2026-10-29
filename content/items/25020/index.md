@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1542superdome.JPG
     thumb: /files/thumbnails/14fb29e2e5268414fb29e2e52d87.jpg
     url: /files/original/14fb29e2e5268414fb29e2e52d87.jpg
+    alt:
+      en: "Silhouette of a military helicopter photographed from below against a cloudy, overcast sky, its rotor blades extended and fuselage details obscured in shadow."
 geo:
 id: 25020
 item_type: Still Image

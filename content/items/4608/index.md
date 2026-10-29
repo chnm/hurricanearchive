@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0034.JPG
     thumb: /files/thumbnails/14fb2a56c331fe14fb2a56c335e5.jpg
     url: /files/original/14fb2a56c331fe14fb2a56c335e5.jpg
+    alt:
+      en: "A large fallen tree lies across the roof of a brick house, crushing part of the shingled roofline near a white-columned porch, with debris scattered on the ground below."
 geo:
 id: 4608
 item_type: Still Image

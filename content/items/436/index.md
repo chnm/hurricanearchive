@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0020_99be25092f.JPG
     thumb: /files/thumbnails/14fb2a6ffbee5714fb2a6ffbf23c.jpg
     url: /files/original/14fb2a6ffbee5714fb2a6ffbf23c.jpg
+    alt:
+      en: "A severely damaged maroon car with its hood crushed and interior exposed, engine parts and debris piled on top, parked on pavement amid storm wreckage."
 geo:
   address: ''
   lat: 0.0

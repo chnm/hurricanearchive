@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0081-18-9-18.JPG
     thumb: /files/thumbnails/14fb2a0ad63efd14fb2a0ad6472f.jpg
     url: /files/original/14fb2a0ad63efd14fb2a0ad6472f.jpg
+    alt:
+      en: "A CAT backhoe loader clears thick black sludge from a flooded residential street, with downed tree limbs and brick houses visible in the background."
 geo:
 id: 20190
 item_type: Still Image

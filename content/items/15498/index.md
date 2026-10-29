@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-28_48a67b1afb.jpg
     thumb: /files/thumbnails/14fb2a162d323414fb2a162d360c.jpg
     url: /files/original/14fb2a162d323414fb2a162d360c.jpg
+    alt:
+      en: "A young boy with bangs smiles at the camera while holding a crayon to a t-shirt reading \"Day is a Holiday,\" seated outdoors beneath tree branches."
 geo:
 id: 15498
 item_type: Still Image

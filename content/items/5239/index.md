@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0684.JPG
     thumb: /files/thumbnails/14fb2a533b2c8814fb2a533b306d.jpg
     url: /files/original/14fb2a533b2c8814fb2a533b306d.jpg
+    alt:
+      en: "Single-story house raised on piers with debris and uprooted tree in front yard, a large hole in the ground nearby, and a blue recycling bin beside the driveway."
 geo:
 id: 5239
 item_type: Still Image

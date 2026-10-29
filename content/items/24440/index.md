@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094H.JPG
     thumb: /files/thumbnails/14fb29e7b0935514fb29e7b098b6.jpg
     url: /files/original/14fb29e7b0935514fb29e7b098b6.jpg
+    alt:
+      en: "A man in military camouflage fatigues watches a woman in an orange and white uniform doing a push-up on a wooden platform at night, as another woman in a similar outfit looks on."
 geo:
 id: 24440
 item_type: Still Image

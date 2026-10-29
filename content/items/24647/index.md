@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042medics.JPG
     thumb: /files/thumbnails/14fb29e5d452af14fb29e5d4567e.jpg
     url: /files/original/14fb29e5d452af14fb29e5d4567e.jpg
+    alt:
+      en: "Blurred indoor scene of a man in military camouflage uniform and glasses reviewing papers at a desk, with another uniformed person beside him and a shirtless man in the background."
 geo:
 id: 24647
 item_type: Still Image

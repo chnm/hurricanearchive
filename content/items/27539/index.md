@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7109_2bfbf539ca.jpg
     thumb: /files/thumbnails/14fb29d389966514fb29d3899a4c.jpg
     url: /files/original/14fb29d389966514fb29d3899a4c.jpg
+    alt:
+      en: "Two young girls in white First Communion dresses stand smiling under a columned portico, with adults in formal attire gathered in the background."
 geo:
   address: ''
   lat: 29.87876

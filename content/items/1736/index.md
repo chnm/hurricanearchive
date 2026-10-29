@@ -26,6 +26,8 @@ files:
     original_filename: NewtonHighSchool_a4efa29d64.jpg
     thumb: /files/thumbnails/14fb2a6f01607114fb2a6f016448.jpg
     url: /files/original/14fb2a6f01607114fb2a6f016448.jpg
+    alt:
+      en: "A person in a yellow raincoat stands beside a collapsed metal structure with exposed insulation, crushed onto a truck, debris scattered across the pavement."
 geo:
   address: ''
   lat: 30.148461

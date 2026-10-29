@@ -20,6 +20,8 @@ files:
     original_filename: 2457540828_44f352ef33.
     thumb: /files/thumbnails/14fb29c8cb2ac014fb29c8cb2ea6.jpg
     url: /files/original/14fb29c8cb2ac014fb29c8cb2ea6.jpg
+    alt:
+      en: "Industrial cooling towers with teal louvered panels stand behind a network of rusted pipes and metal railings, with standing water visible in the foreground and a building in the background."
 geo:
 id: 34880
 item_type: Still Image

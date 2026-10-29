@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0192-9-25.JPG
     thumb: /files/thumbnails/14fb2a002dd7b514fb2a002ddb91.jpg
     url: /files/original/14fb2a002dd7b514fb2a002ddb91.jpg
+    alt:
+      en: "Aerial view of a road submerged by floodwaters, with military trucks and boats positioned along the pavement, surrounded by downed power lines and partially submerged trees."
 geo:
 id: 21182
 item_type: Still Image

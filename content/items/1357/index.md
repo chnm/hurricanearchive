@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28350.jpg
     thumb: /files/thumbnails/14fb2a695df6a814fb2a695dfa41.jpg
     url: /files/original/14fb2a695df6a814fb2a695dfa41.jpg
+    alt:
+      en: "Debris-strewn tree branches surround twisted metal wreckage from a casino barge, with a discarded shirt and torn fencing caught in the branches near a damaged building in the background."
 geo:
   address: ''
   lat: 0.0

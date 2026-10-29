@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28433.jpg
     thumb: /files/thumbnails/14fb2a670c2bb914fb2a670c3010.jpg
     url: /files/original/14fb2a670c2bb914fb2a670c3010.jpg
+    alt:
+      en: "An American flag hangs from bare, storm-damaged tree branches above concrete ruins spray-painted with \"WE SHALL RETURN,\" with debris and fallen branches scattered across the grass."
 geo:
   address: ''
   lat: 0.0

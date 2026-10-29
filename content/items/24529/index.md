@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110crop.jpg
     thumb: /files/thumbnails/14fb29e6f54bb214fb29e6f57e0b.jpg
     url: /files/original/14fb29e6f54bb214fb29e6f57e0b.jpg
+    alt:
+      en: "Double yellow lines run down a cracked concrete bridge deck with a metal expansion joint, flanked by traffic cones and a guardrail, with water and vehicles visible in the background."
 geo:
 id: 24529
 item_type: Still Image

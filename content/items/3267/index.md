@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (30).JPG
     thumb: /files/thumbnails/14fb2a5cf97c4c14fb2a5cf9a847.jpg
     url: /files/original/14fb2a5cf97c4c14fb2a5cf9a847.jpg
+    alt:
+      en: "Rows of above-ground cemetery vaults line a narrow walkway scattered with debris and wilted floral tributes, with a damaged building visible beyond the cemetery wall."
 geo:
 id: 3267
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0202Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c5dc6114fb29f4c5e035.jpg
     url: /files/original/14fb29f4c5dc6114fb29f4c5e035.jpg
+    alt:
+      en: "Collapsed brick wall and roof section of a two-story building, with debris scattered on the ground and bare trees nearby; dated 09.16.2005."
 geo:
 id: 22680
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0286-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fdbc4c9b14fb29fdbc5082.jpg
     url: /files/original/14fb29fdbc4c9b14fb29fdbc5082.jpg
+    alt:
+      en: "Aerial view of a Wal-Mart Supercenter and strip mall with large parking lots full of cars, surrounded by residential neighborhoods and roads with trucks passing by."
 geo:
 id: 21534
 item_type: Still Image

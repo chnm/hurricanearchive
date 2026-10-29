@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0772.JPG
     thumb: /files/thumbnails/14fb2a56fa7d9814fb2a56fa817d.jpg
     url: /files/original/14fb2a56fa7d9814fb2a56fa817d.jpg
+    alt:
+      en: "Debris-strewn lot with snapped tree trunks, scattered litter, and a tree line in the background under a cloudy sky, reflecting storm damage."
 geo:
 id: 4570
 item_type: Still Image

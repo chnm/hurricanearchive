@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-15-14A.jpg
     thumb: /files/thumbnails/14fb29e869f88c14fb29e869fc71.jpg
     url: /files/original/14fb29e869f88c14fb29e869fc71.jpg
+    alt:
+      en: "Floodwaters submerge a neighborhood, with only the rooftops of two vehicles visible above the murky water in the foreground and a white house partially flooded in the background."
 geo:
 id: 24367
 item_type: Still Image

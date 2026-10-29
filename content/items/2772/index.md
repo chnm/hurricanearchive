@@ -21,6 +21,8 @@ files:
     original_filename: 67.jpg
     thumb: /files/thumbnails/14fb2a6043a66014fb2a6043aaee.jpg
     url: /files/original/14fb2a6043a66014fb2a6043aaee.jpg
+    alt:
+      en: "A hand-drawn yellow heart outlined in red, pierced by an arrow, with the text \"God still Love Us!!\" inside; signed \"Shenaye\" and \"age 12\" below."
 geo:
 id: 2772
 item_type: Still Image

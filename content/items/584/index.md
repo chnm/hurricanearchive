@@ -26,6 +26,8 @@ files:
     original_filename: PA050108_d510891f8d.JPG
     thumb: /files/thumbnails/14fb2a6f77b58414fb2a6f77b969.jpg
     url: /files/original/14fb2a6f77b58414fb2a6f77b969.jpg
+    alt:
+      en: "Corrugated metal garage door spray-painted in black block letters: \"KATRINA WAS BAD THE OLD LADY AND THE DOGS WERE MORE TROUBLE,\" with a small \"Employees Only, Use Front Entrance\" sign nearby."
 geo:
   address: ''
   lat: 0.0

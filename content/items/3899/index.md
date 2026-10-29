@@ -21,6 +21,8 @@ files:
     original_filename: 100_0196.JPG
     thumb: /files/thumbnails/14fb2a591193ec14fb2a591197d3.jpg
     url: /files/original/14fb2a591193ec14fb2a591197d3.jpg
+    alt:
+      en: "A Navy helicopter marked \"NAVY\" flies against a clear blue sky, with the top of a tree visible in the lower right corner of the frame."
 geo:
 id: 3899
 item_type: Still Image

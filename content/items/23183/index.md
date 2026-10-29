@@ -21,6 +21,8 @@ files:
     original_filename: P1010004delaware.JPG
     thumb: /files/thumbnails/14fb29f12d81f114fb29f12d85d6.jpg
     url: /files/original/14fb29f12d81f114fb29f12d85d6.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms gather inside a large hangar-like building, some seated at folding tables with paperwork, beneath a painted mural reading \"DE ARNG AVIATION, ABOVE THE BEST\" and \"You are the Best!\""
 geo:
 id: 23183
 item_type: Still Image

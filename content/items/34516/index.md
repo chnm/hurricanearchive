@@ -27,6 +27,8 @@ files:
     original_filename: 2292020058_88e7cc0e18.
     thumb: /files/thumbnails/14fb29c999973514fb29c9999b11.jpg
     url: /files/original/14fb29c999973514fb29c9999b11.jpg
+    alt:
+      en: "Debris-strewn yard viewed from a porch, with a wrecked car, scattered lumber, a refrigerator, and scraps of metal and cardboard covering the ground near a road."
 geo:
   address: ''
   lat: 30.22539

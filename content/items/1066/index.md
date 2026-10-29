@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27994.jpg
     thumb: /files/thumbnails/14fb2a6b3694c514fb2a6b3698aa.jpg
     url: /files/original/14fb2a6b3694c514fb2a6b3698aa.jpg
+    alt:
+      en: "A large uprooted tree lies toppled on its side, its massive root ball exposed amid scattered dry branches and debris, with a damaged building visible in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0120-9-25.JPG
     thumb: /files/thumbnails/14fb29e66e49c814fb29e66e4da4.jpg
     url: /files/original/14fb29e66e49c814fb29e66e4da4.jpg
+    alt:
+      en: "Aerial view of a flooded, debris-strewn road running alongside submerged trees and shrubs, with visible cracks and damage to the pavement and power lines crossing the scene."
 geo:
 id: 24581
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AlijahOConnor_01_627d91a4b3.jpg
     thumb: /files/thumbnails/14fb2a1866a04614fb2a1866a42b.jpg
     url: /files/original/14fb2a1866a04614fb2a1866a42b.jpg
+    alt:
+      en: "A woman in a purple floral dress sits smiling on a white couch, surrounded by framed family photographs on wood-paneled walls and a cluttered coffee table nearby."
 geo:
 id: 14673
 item_type: Still Image

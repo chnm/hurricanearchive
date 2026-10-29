@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0576.JPG
     thumb: /files/thumbnails/14fb2a5684f6aa14fb2a5684fa91.jpg
     url: /files/original/14fb2a5684f6aa14fb2a5684fa91.jpg
+    alt:
+      en: "Debris-strewn aftermath with a fallen tree across the foreground, scattered household items and rubble, with damaged houses and a blue tarp-covered roof visible in the background under a partly cloudy sky."
 geo:
 id: 4647
 item_type: Still Image

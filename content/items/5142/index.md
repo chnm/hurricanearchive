@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0504.JPG
     thumb: /files/thumbnails/14fb2a53c8ba2f14fb2a53c8be1c.jpg
     url: /files/original/14fb2a53c8ba2f14fb2a53c8be1c.jpg
+    alt:
+      en: "Wooden deck framing under construction with exposed joists and support posts, attached to a house with brown siding and a door opening; a pink house and bare trees visible in the background."
 geo:
 id: 5142
 item_type: Still Image

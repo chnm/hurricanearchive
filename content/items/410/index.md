@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0389_0dad1d754b.JPG
     thumb: /files/thumbnails/14fb2a7013b5be14fb2a7013bce9.jpg
     url: /files/original/14fb2a7013b5be14fb2a7013bce9.jpg
+    alt:
+      en: "A badly crushed white sedan lies wedged against a large tree trunk, its roof and front end crumpled, with debris, sand, and rust scattered around the wreckage."
 geo:
   address: ''
   lat: 30.3278420010727

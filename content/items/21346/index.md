@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0233-21.JPG
     thumb: /files/thumbnails/14fb29ff48cc4f14fb29ff48d715.jpg
     url: /files/original/14fb29ff48cc4f14fb29ff48d715.jpg
+    alt:
+      en: "Aerial view of a river city skyline with a large truss bridge spanning the water, barges along the shoreline, high-rise buildings, and a dense cluster of rooftops in the foreground."
 geo:
 id: 21346
 item_type: Still Image

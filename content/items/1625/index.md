@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28277.jpg
     thumb: /files/thumbnails/14fb2a675cb30414fb2a675cb6db.jpg
     url: /files/original/14fb2a675cb30414fb2a675cb6db.jpg
+    alt:
+      en: "Two men stand talking in a debris-strewn parking lot before a severely damaged multi-story casino building, its foundation collapsed and lower floors torn away from Hurricane Katrina."
 geo:
   address: ''
   lat: 0.0

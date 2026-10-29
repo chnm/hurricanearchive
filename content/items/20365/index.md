@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006-15.JPG
     thumb: /files/thumbnails/14fb2a08588aff14fb2a08588ee4.jpg
     url: /files/original/14fb2a08588aff14fb2a08588ee4.jpg
+    alt:
+      en: "Interior view of a helicopter cockpit with a helmeted pilot in the front seat and an older man wearing sunglasses and a plaid shirt seated behind, trees visible through the windshield."
 geo:
 id: 20365
 item_type: Still Image

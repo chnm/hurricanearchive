@@ -21,6 +21,8 @@ files:
     original_filename: 1_6f8a5d56e0.jpg
     thumb: /files/thumbnails/14fb2a165083d914fb2a165085db.jpg
     url: /files/original/14fb2a165083d914fb2a165085db.jpg
+    alt:
+      en: "Two girls in matching navy \"Chalmette Middle\" polo shirts and khaki skirts stand together smiling in a doorway, one with her arm around the other's shoulders."
 geo:
   address: Friscoville Ave.
   lat: 29.95939

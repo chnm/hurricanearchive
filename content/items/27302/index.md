@@ -23,6 +23,8 @@ files:
     original_filename: 336698667_fad703d0ce.jpg
     thumb: /files/thumbnails/14fb29d568086714fb29d56812d1.jpg
     url: /files/original/14fb29d568086714fb29d56812d1.jpg
+    alt:
+      en: "A small house with a damaged, rust-stained roof sits tilted off its foundation amid widespread storm debris, with bare and damaged trees in the background under an overcast sky."
 geo:
 id: 27302
 item_type: Still Image

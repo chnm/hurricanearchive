@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0297-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd988a3a14fb29fd992af3.jpg
     url: /files/original/14fb29fd988a3a14fb29fd992af3.jpg
+    alt:
+      en: "Aerial view of a flooded football stadium and surrounding buildings, with bleachers, a press box, and metal warehouses submerged in brown floodwater, framed by green fields and scattered trees."
 geo:
 id: 21560
 item_type: Still Image

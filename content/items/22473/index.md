@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1314Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f644e4e014fb29f644e778.jpg
     url: /files/original/14fb29f644e4e014fb29f644e778.jpg
+    alt:
+      en: "Floodwater surrounds a long brick building with a peaked roof, submerging its lower windows, under overcast skies with power lines crossing the foreground."
 geo:
 id: 22473
 item_type: Still Image

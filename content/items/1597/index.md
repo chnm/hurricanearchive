@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28379.jpg
     thumb: /files/thumbnails/14fb2a679bf76c14fb2a679bfb52.jpg
     url: /files/original/14fb2a679bf76c14fb2a679bfb52.jpg
+    alt:
+      en: "Sang Nguyen stands smiling at the wooden wheel of his shrimp boat, Miss Brittany, with binoculars and instruments on the console and other vessels visible through the windows behind him."
 geo:
   address: ''
   lat: 0.0

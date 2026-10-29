@@ -21,6 +21,8 @@ files:
     original_filename: P1010001.JPG
     thumb: /files/thumbnails/14fb29fc5a9ead14fb29fc5aa293.jpg
     url: /files/original/14fb29fc5a9ead14fb29fc5aa293.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms gathered inside a large warehouse-style building, some seated in folding chairs and others standing in conversation, with a mural and unit insignia visible on the back wall."
 geo:
 id: 21703
 item_type: Still Image

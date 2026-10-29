@@ -21,6 +21,8 @@ files:
     original_filename: P1010021.JPG
     thumb: /files/thumbnails/14fb29fc335df014fb29fc3361d6.jpg
     url: /files/original/14fb29fc335df014fb29fc3361d6.jpg
+    alt:
+      en: "Interior of a military cargo aircraft showing a narrow walkway beside a tan military vehicle, with a fire extinguisher, folded seats, and equipment mounted along the fuselage walls."
 geo:
 id: 21718
 item_type: Still Image

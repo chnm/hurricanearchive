@@ -23,6 +23,8 @@ files:
     original_filename: 6031_12f92390df.JPG
     thumb: /files/thumbnails/14fb29c29b1b9814fb29c29b1f7e.jpg
     url: /files/original/14fb29c29b1b9814fb29c29b1f7e.jpg
+    alt:
+      en: "Floodwaters cover a parking lot and roadway near scattered buildings and trees, with vehicles partially submerged, viewed through a rain-streaked windshield under an overcast sky."
 geo:
   address: ''
   lat: 0.0

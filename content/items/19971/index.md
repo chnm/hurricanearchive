@@ -21,6 +21,8 @@ files:
     original_filename: Picture 068cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0be0620114fb2a0be065e6.jpg
     url: /files/original/14fb2a0be0620114fb2a0be065e6.jpg
+    alt:
+      en: "Storm-damaged trees with broken branches stand beside a highway, with a roof showing numerous missing or displaced shingles visible beyond a concrete guardrail."
 geo:
 id: 19971
 item_type: Still Image

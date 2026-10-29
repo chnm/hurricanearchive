@@ -21,6 +21,8 @@ files:
     original_filename: 20050928053.JPG
     thumb: /files/thumbnails/14fb2a1c075c2414fb2a1c075ffe.jpg
     url: /files/original/14fb2a1c075c2414fb2a1c075ffe.jpg
+    alt:
+      en: "A man in camouflage military uniform with nametag \"Morton\" speaks to a seated group of people in tan shirts inside a dimly lit indoor space with bleachers in the background."
 geo:
   address: ''
   lat: 0.0

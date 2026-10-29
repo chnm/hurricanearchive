@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0180.JPG
     thumb: /files/thumbnails/14fb2a552176ad14fb2a55217adb.jpg
     url: /files/original/14fb2a552176ad14fb2a55217adb.jpg
+    alt:
+      en: "Fallen trees and broken branches lie across a grassy clearing bordered by pine woods, with a small pile of cut brush on bare reddish soil to the right."
 geo:
 id: 4861
 item_type: Still Image

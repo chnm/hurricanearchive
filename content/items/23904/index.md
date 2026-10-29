@@ -21,6 +21,8 @@ files:
     original_filename: 09140001neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec71e8d114fb29ec71ecb6.jpg
     url: /files/original/14fb29ec71e8d114fb29ec71ecb6.jpg
+    alt:
+      en: "Multi-story Motel 6 building with a severely damaged corner tower exposing its structural framework, \"MOTEL 6\" signage visible near the roof, surrounded by trees, utility poles, and parked trucks."
 geo:
 id: 23904
 item_type: Still Image

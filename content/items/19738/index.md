@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 125cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e247cf814fb2a0e2480d6.jpg
     url: /files/original/14fb2a0e247cf814fb2a0e2480d6.jpg
+    alt:
+      en: "A woman in a green tank top writes in a notebook while standing on a large paved lot with military personnel in camouflage uniforms; storm-damaged buildings and bare trees line the background."
 geo:
 id: 19738
 item_type: Still Image

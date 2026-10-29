@@ -21,6 +21,8 @@ files:
     original_filename: J2 (43).JPG
     thumb: /files/thumbnails/14fb2a112601dd14fb2a11260e53.jpg
     url: /files/original/14fb2a112601dd14fb2a11260e53.jpg
+    alt:
+      en: "Aerial view of the Superdome's damaged, weathered dome roof surrounded by an empty parking lot and plaza, with the New Orleans downtown skyline in the hazy background."
 geo:
 id: 19326
 item_type: Still Image

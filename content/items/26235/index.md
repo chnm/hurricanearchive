@@ -24,6 +24,8 @@ files:
     original_filename: AB Esso Station 1950_53640e6a2c.jpg
     thumb: /files/thumbnails/14fb29d98830d014fb29d98867a8.jpg
     url: /files/original/14fb29d98830d014fb29d98867a8.jpg
+    alt:
+      en: "Black-and-white photo of a man in a cap bending over a milk can beside an Esso gas pump, with cars and buildings along a street in the background."
 geo:
   address: ''
   lat: 29.91685

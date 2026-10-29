@@ -26,6 +26,8 @@ files:
     original_filename: Downed_Tree_c7a3e7aede.jpg
     thumb: /files/thumbnails/14fb2a6f79f77214fb2a6f79fb58.jpg
     url: /files/original/14fb2a6f79f77214fb2a6f79fb58.jpg
+    alt:
+      en: "A large, uprooted tree lies toppled across a paved area, its tangled branches and roots exposed, with yellow caution tape strung nearby and a stone retaining wall in the background."
 geo:
   address: ''
   lat: 25.719729884548702

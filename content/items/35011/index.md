@@ -20,6 +20,8 @@ files:
     original_filename: 2298618774_6dafcb3dd9.
     thumb: /files/thumbnails/14fb29c77b6b8e14fb29c77b6f75.jpg
     url: /files/original/14fb29c77b6b8e14fb29c77b6f75.jpg
+    alt:
+      en: "A man works on a bicycle handlebar with tools in a repair shop filled with bikes and wheels, beneath a sign reading \"Your Bike! Name & Date, Work Notes, For Sale.\""
 geo:
 id: 35011
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 100_1022_995d837798.JPG
     thumb: /files/thumbnails/14fb29c22b78f814fb29c22b80c6.jpg
     url: /files/original/14fb29c22b78f814fb29c22b80c6.jpg
+    alt:
+      en: "Backyard scene with a large pecan tree missing a broken branch, a damaged metal fence panel leaning against the yard, debris on the ground, and a house visible in the background; date stamp reads 08/31/2010."
 geo:
   address: 200 Rowley Blvd.
   lat: 29.95418

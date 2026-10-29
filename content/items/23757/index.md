@@ -21,6 +21,8 @@ files:
     original_filename: P1010198empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed3d2ba214fb29ed3d4101.jpg
     url: /files/original/14fb29ed3d2ba214fb29ed3d4101.jpg
+    alt:
+      en: "Flooded, debris-strewn landscape with scattered wreckage and standing water in the foreground, utility poles and a line of trees along the horizon under a clear sky."
 geo:
 id: 23757
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010139empireS&R.JPG
     thumb: /files/thumbnails/14fb29edc56d1e14fb29edc5803d.jpg
     url: /files/original/14fb29edc56d1e14fb29edc5803d.jpg
+    alt:
+      en: "Floodwater submerges a school bus and surrounds a damaged open-sided structure, with debris, downed trees, and a partially visible truck amid the standing water."
 geo:
 id: 23698
 item_type: Still Image

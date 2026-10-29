@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0636.JPG
     thumb: /files/thumbnails/14fb2a5631aca714fb2a5631afbd.jpg
     url: /files/original/14fb2a5631aca714fb2a5631afbd.jpg
+    alt:
+      en: "Torn ceiling material peels back to reveal a dark cavity above, with a small reflective object glinting inside; white textured ceiling and ragged brown debris surround the opening."
 geo:
 id: 4685
 item_type: Still Image

@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_RITA_05C87_0ef98582bc.jpg
     thumb: /files/thumbnails/14fb2a6669347c14fb2a6669385f.jpg
     url: /files/original/14fb2a6669347c14fb2a6669385f.jpg
+    alt:
+      en: "A U.S. Coast Guard helicopter marked \"6040\" hovers over floodwaters, lowering a sandbag on a long line toward a levee, with trees and waiting workers visible below."
 geo:
 id: 2427
 item_type: Still Image

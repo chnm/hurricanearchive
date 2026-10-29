@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1413superdome.JPG
     thumb: /files/thumbnails/14fb29e3e346d214fb29e3e35115.jpg
     url: /files/original/14fb29e3e346d214fb29e3e35115.jpg
+    alt:
+      en: "A uniformed military guard stands beside a metal barricade at night, facing a line of people in rain jackets waiting to pass, with a red trash bin nearby."
 geo:
 id: 24918
 item_type: Still Image

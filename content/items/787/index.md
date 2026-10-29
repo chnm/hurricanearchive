@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28167.jpg
     thumb: /files/thumbnails/14fb2a6d081ea314fb2a6d082288.jpg
     url: /files/original/14fb2a6d081ea314fb2a6d082288.jpg
+    alt:
+      en: "A water-damaged, mildew-stained photo album lies open on the ground amid debris, its pages holding faded family snapshots and scenic photos warped by flooding and decay."
 geo:
   address: ''
   lat: 0.0

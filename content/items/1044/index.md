@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28451.jpg
     thumb: /files/thumbnails/14fb2a6b489f2e14fb2a6b48a30e.jpg
     url: /files/original/14fb2a6b489f2e14fb2a6b48a30e.jpg
+    alt:
+      en: "Row of damaged, dust-covered slot machine seats in front of an \"American Reels\" gaming machine, all abandoned amid casino wreckage."
 geo:
   address: ''
   lat: 0.0

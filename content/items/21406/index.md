@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0248-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fef398b214fb29fef3b3d2.jpg
     url: /files/original/14fb29fef398b214fb29fef3b3d2.jpg
+    alt:
+      en: "Aerial view of flooded homes and yards with vehicles and boats partially submerged in brown floodwater, surrounded by green fields and a paved road."
 geo:
 id: 21406
 item_type: Still Image

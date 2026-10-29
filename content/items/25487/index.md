@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6173_27a67407f6.jpg
     thumb: /files/thumbnails/14fb29dd8ca9df14fb29dd8cadc3.jpg
     url: /files/original/14fb29dd8ca9df14fb29dd8cadc3.jpg
+    alt:
+      en: "Studio portrait of a young girl with reddish-brown hair and bangs, smiling in a ruffled plaid dress with a gold necklace, holding a doll, against a painted outdoor backdrop."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

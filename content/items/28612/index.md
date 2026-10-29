@@ -23,6 +23,8 @@ files:
     original_filename: 161990600_50801d98ed.jpg
     thumb: /files/thumbnails/14fb29d2223b6a14fb29d2223f50.jpg
     url: /files/original/14fb29d2223b6a14fb29d2223f50.jpg
+    alt:
+      en: "Two ornate Victorian houses with decorative gingerbread trim, one in lavender and cream and the other in green and white, feature balconies and an American flag under a partly cloudy sky."
 geo:
 id: 28612
 item_type: Still Image

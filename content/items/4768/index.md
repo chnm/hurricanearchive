@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0467.JPG
     thumb: /files/thumbnails/14fb2a55ae8cea14fb2a55ae90c8.jpg
     url: /files/original/14fb2a55ae8cea14fb2a55ae90c8.jpg
+    alt:
+      en: "A damaged brick wall with a section of bricks displaced, exposing their hollow cores, while a yellow measuring tape extends vertically across the scene to indicate scale."
 geo:
 id: 4768
 item_type: Still Image

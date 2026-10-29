@@ -21,6 +21,8 @@ files:
     original_filename: PICT0258Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4bdc83914fb29f4bdcc10.jpg
     url: /files/original/14fb29f4bdc83914fb29f4bdcc10.jpg
+    alt:
+      en: "A yellow front-end loader and military dump truck loaded with tree debris sit near a vintage cannon display, with a white pickup truck parked nearby; dated 09.15.2005."
 geo:
 id: 22691
 item_type: Still Image

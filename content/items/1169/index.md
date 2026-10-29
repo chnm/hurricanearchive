@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28299.jpg
     thumb: /files/thumbnails/14fb2a6ab1a7bf14fb2a6ab1ab93.jpg
     url: /files/original/14fb2a6ab1a7bf14fb2a6ab1ab93.jpg
+    alt:
+      en: "Storm-damaged museum building with exposed wooden framework and missing walls, surrounded by bare, twisted trees and scattered debris under an overcast sky."
 geo:
   address: ''
   lat: 0.0

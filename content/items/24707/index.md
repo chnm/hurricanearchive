@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-09-8Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e570b6c414fb29e570bff2.jpg
     url: /files/original/14fb29e570b6c414fb29e570bff2.jpg
+    alt:
+      en: "Military trucks with canvas-covered beds parked in floodwater beside a building, as a person stands on a nearby walkway and a submerged bus is visible in the background."
 geo:
 id: 24707
 item_type: Still Image

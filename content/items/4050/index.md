@@ -21,6 +21,8 @@ files:
     original_filename: DSC01176.JPG
     thumb: /files/thumbnails/14fb2a5836e7c514fb2a5836eba0.jpg
     url: /files/original/14fb2a5836e7c514fb2a5836eba0.jpg
+    alt:
+      en: "Flooded city street lined with multi-story buildings, several partially submerged cars and a boat floating between them, with skyscrapers visible in the background; timestamp reads 7 10:24 AM."
 geo:
 id: 4050
 item_type: Still Image

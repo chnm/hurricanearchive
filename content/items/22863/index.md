@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0156mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f300262314fb29f3002a3f.jpg
     url: /files/original/14fb29f300262314fb29f3002a3f.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with a U.S. Army name tape and American flag patch leans toward a vehicle window, apparently checking paperwork held inside."
 geo:
 id: 22863
 item_type: Still Image

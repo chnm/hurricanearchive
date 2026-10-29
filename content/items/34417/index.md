@@ -23,6 +23,8 @@ files:
     original_filename: 2379872961_9032af8d36.
     thumb: /files/thumbnails/14fb29ca1eb43a14fb29ca1eb849.jpg
     url: /files/original/14fb29ca1eb43a14fb29ca1eb849.jpg
+    alt:
+      en: "Piles of storm debris including metal furniture frames, a cardboard \"YORK\" box, coiled tubing, broken foam insulation, and other wreckage stacked against a grassy backdrop."
 geo:
   address: ''
   lat: 30.22894

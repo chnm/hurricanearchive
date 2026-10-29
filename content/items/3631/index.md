@@ -24,6 +24,8 @@ files:
     original_filename: P1010066.JPG
     thumb: /files/thumbnails/14fb2a5a8f248f14fb2a5a8f2873.jpg
     url: /files/original/14fb2a5a8f248f14fb2a5a8f2873.jpg
+    alt:
+      en: "Shattered terra cotta floor tiles lie broken on a speckled concrete floor, with a yellow \"Caution Wet Floor / Cuidado Piso Mojado\" sign and an empty yellow sign stand positioned nearby."
 geo:
 id: 3631
 item_type: Still Image

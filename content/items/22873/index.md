@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0201mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2f56e6114fb29f2f57248.jpg
     url: /files/original/14fb29f2f56e6114fb29f2f57248.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms and caps, one wearing sunglasses, stand beside a military vehicle in front of a house with siding and trees in the background."
 geo:
 id: 22873
 item_type: Still Image

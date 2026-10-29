@@ -21,6 +21,8 @@ files:
     original_filename: boat and bush1.jpg
     thumb: /files/thumbnails/14fb2a1ef59f8614fb2a1ef5a517.jpg
     url: /files/original/14fb2a1ef59f8614fb2a1ef5a517.jpg
+    alt:
+      en: "Sideways image of a large ship named \"MIGHTY\" docked beside a pier, with rigging and masts visible, a tree in the foreground, and overcast sky in the background."
 geo:
 id: 13239
 item_type: Still Image

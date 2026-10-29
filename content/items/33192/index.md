@@ -23,6 +23,8 @@ files:
     original_filename: 1438012699_e9e4c12a1b.
     thumb: /files/thumbnails/14fb29cbae549f14fb29cbae5882.jpg
     url: /files/original/14fb29cbae549f14fb29cbae5882.jpg
+    alt:
+      en: "A storm-damaged, roofless building with rusted metal sheeting sits overgrown with vegetation beside a highway, debris scattered around it under a clear sky."
 geo:
 id: 33192
 item_type: Still Image

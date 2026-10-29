@@ -23,6 +23,8 @@ files:
     original_filename: 336698563_2853facf29.jpg
     thumb: /files/thumbnails/14fb29d550e3d314fb29d550e706.jpg
     url: /files/original/14fb29d550e3d314fb29d550e706.jpg
+    alt:
+      en: "A vertical-lift bridge with steel truss towers spans a wide body of water under a heavily overcast sky, with marshy, debris-strewn shoreline in the foreground."
 geo:
 id: 27308
 item_type: Still Image

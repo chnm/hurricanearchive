@@ -21,6 +21,8 @@ files:
     original_filename: katrina 002.jpg
     thumb: /files/thumbnails/14fb29fc14f21914fb29fc14f5fd.jpg
     url: /files/original/14fb29fc14f21914fb29fc14f5fd.jpg
+    alt:
+      en: "Military medevac helicopter marked \"799\" with a red cross insignia parked on a rooftop or elevated parking lot, with another helicopter and city buildings visible in the background."
 geo:
 id: 21734
 item_type: Still Image

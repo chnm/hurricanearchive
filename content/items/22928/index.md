@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031media.JPG
     thumb: /files/thumbnails/14fb29f2aa511b14fb29f2aa54fc.jpg
     url: /files/original/14fb29f2aa511b14fb29f2aa54fc.jpg
+    alt:
+      en: "Two people wearing green aviation headsets with boom microphones sit inside a helicopter cabin, one in a black top speaking into the mic, the other in a pinstriped shirt looking toward an open door holding a handheld device."
 geo:
 id: 22928
 item_type: Still Image

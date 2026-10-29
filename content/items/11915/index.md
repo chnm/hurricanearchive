@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 037.jpg
     thumb: /files/thumbnails/14fb2a22bd8ddc14fb2a22bd91c5.jpg
     url: /files/original/14fb2a22bd8ddc14fb2a22bd91c5.jpg
+    alt:
+      en: "A coastal road severely cracked and buckled, with large sand deposits covering the pavement and shoulder; a \"SPORTS PUB\" sign and sparse trees stand in the background, dated 2005/09/24."
 geo:
 id: 11915
 item_type: Still Image

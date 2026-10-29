@@ -24,6 +24,8 @@ files:
     original_filename: EV 3 First Comunion1900s_02845cd305.jpg
     thumb: /files/thumbnails/14fb29d8da406914fb29d8da444f.jpg
     url: /files/original/14fb29d8da406914fb29d8da444f.jpg
+    alt:
+      en: "Sepia-toned studio portrait of a young girl in a lace First Communion dress, veil, and floral headpiece, holding a candle and umbrella beside an ornate chair."
 geo:
   address: ''
   lat: 29.87876

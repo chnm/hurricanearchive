@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 038.jpg
     thumb: /files/thumbnails/14fb2a226af23514fb2a226af60f.jpg
     url: /files/original/14fb2a226af23514fb2a226af60f.jpg
+    alt:
+      en: "Debris-strewn roadside with broken pine trees, scattered lumber, and a stranded sailboat amid hurricane wreckage along a paved road."
 geo:
 id: 11990
 item_type: Still Image

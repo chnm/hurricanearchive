@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0135.JPG
     thumb: /files/thumbnails/14fb2a5548465014fb2a55484a36.jpg
     url: /files/original/14fb2a5548465014fb2a55484a36.jpg
+    alt:
+      en: "Close-up of exposed wooden roof framing and rafters in an attic space, with a section of insulation or foam material wedged between the beams, visible nail points protruding through the wood."
 geo:
 id: 4820
 item_type: Still Image

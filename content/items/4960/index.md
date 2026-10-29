@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0302.JPG
     thumb: /files/thumbnails/14fb2a54c82f7e14fb2a54c83363.jpg
     url: /files/original/14fb2a54c82f7e14fb2a54c83363.jpg
+    alt:
+      en: "Single-story house with light-colored siding and a window, electrical meter and conduit on the wall, with tree debris scattered across the roof and tall trees with broken branches looming overhead."
 geo:
 id: 4960
 item_type: Still Image

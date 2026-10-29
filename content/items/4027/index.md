@@ -21,6 +21,8 @@ files:
     original_filename: DSC01141.JPG
     thumb: /files/thumbnails/14fb2a58620a7a14fb2a58620e58.jpg
     url: /files/original/14fb2a58620a7a14fb2a58620e58.jpg
+    alt:
+      en: "Group of uniformed personnel in navy coveralls and body armor gathered near a travel trailer with an awning, standing and sitting around folding tables and chairs, with a cooler and rifle visible nearby."
 geo:
 id: 4027
 item_type: Still Image

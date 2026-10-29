@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (38).jpg
     thumb: /files/thumbnails/14fb2a5ccd9c3514fb2a5ccda01b.jpg
     url: /files/original/14fb2a5ccd9c3514fb2a5ccda01b.jpg
+    alt:
+      en: "Two people wade through a flooded street lined with collapsed houses and scattered debris, with leaning utility poles and tangled power lines overhead."
 geo:
 id: 3275
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010102empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee060f2a14fb29ee061310.jpg
     url: /files/original/14fb29ee060f2a14fb29ee061310.jpg
+    alt:
+      en: "Storm-damaged white house with a broken window and boarded door sits off its foundation beside a road, with debris, downed branches, and a fire hydrant in the foreground."
 geo:
 id: 23661
 item_type: Still Image

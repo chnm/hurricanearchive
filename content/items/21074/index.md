@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2189.JPG
     thumb: /files/thumbnails/14fb2a00b01e4d14fb2a00b02232.jpg
     url: /files/original/14fb2a00b01e4d14fb2a00b02232.jpg
+    alt:
+      en: "A person in a tactical flight suit, helmet, and gloves walks alongside a shirtless man with a raised arm across a grassy field, with a brick building and chain-link fence in the background."
 geo:
 id: 21074
 item_type: Still Image

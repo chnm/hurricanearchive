@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0251-18.JPG
     thumb: /files/thumbnails/14fb2a0979000114fb2a097902d5.jpg
     url: /files/original/14fb2a0979000114fb2a097902d5.jpg
+    alt:
+      en: "Silhouette of a helmeted person seen through an aircraft window, with bright sunlight and lens flare illuminating a hazy sky in the background."
 geo:
 id: 20317
 item_type: Still Image

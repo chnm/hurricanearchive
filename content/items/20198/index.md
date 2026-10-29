@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0115.JPG
     thumb: /files/thumbnails/14fb2a0ac9732014fb2a0ac97709.jpg
     url: /files/original/14fb2a0ac9732014fb2a0ac97709.jpg
+    alt:
+      en: "Debris field with scattered wreckage, a zigzag-patterned concrete structure, pine trees, and a road, illustrating widespread storm damage."
 geo:
 id: 20198
 item_type: Still Image

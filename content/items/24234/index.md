@@ -21,6 +21,8 @@ files:
     original_filename: 09140015.JPG
     thumb: /files/thumbnails/14fb29e97bc42514fb29e97bc811.jpg
     url: /files/original/14fb29e97bc42514fb29e97bc811.jpg
+    alt:
+      en: "A blue plastic bin or container caught in tree branches above a street, with a brick wall, wrought-iron fence, and a brick building visible in the background."
 geo:
 id: 24234
 item_type: Still Image

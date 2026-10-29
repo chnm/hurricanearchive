@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7394.JPG
     thumb: /files/thumbnails/14fb29cccf02a614fb29cccf0684.jpg
     url: /files/original/14fb29cccf02a614fb29cccf0684.jpg
+    alt:
+      en: "Dense woodland scene with large tree trunks in the foreground showing broken limbs and exposed pale wood, surrounded by thick green undergrowth and scattered fallen branches against a bright sky."
 geo:
 id: 30696
 item_type: Still Image

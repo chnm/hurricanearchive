@@ -20,6 +20,8 @@ files:
     original_filename: 2434803874_d4deb8c2df.
     thumb: /files/thumbnails/14fb29c96a520314fb29c96a55e7.jpg
     url: /files/original/14fb29c96a520314fb29c96a55e7.jpg
+    alt:
+      en: "Storm-damaged property with a brick retaining wall topped by scattered debris and tools, a fallen ladder, and bare, broken trees surrounding a white house in the background."
 geo:
 id: 34705
 item_type: Still Image

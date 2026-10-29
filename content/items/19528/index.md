@@ -21,6 +21,8 @@ files:
     original_filename: Picture 088engineers.jpg
     thumb: /files/thumbnails/14fb2a0f872bfe14fb2a0f872f9e.jpg
     url: /files/original/14fb2a0f872bfe14fb2a0f872f9e.jpg
+    alt:
+      en: "Aerial view of a flooded university campus with several buildings surrounded by standing water, parking lots, and scattered trees, with a river visible in the foreground."
 geo:
 id: 19528
 item_type: Still Image

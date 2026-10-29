@@ -21,6 +21,8 @@ files:
     original_filename: 09180005plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec50cd5214fb29ec50d142.jpg
     url: /files/original/14fb29ec50cd5214fb29ec50d142.jpg
+    alt:
+      en: "Military Humvee and a civilian SUV travel a highway toward a city skyline with a domed stadium, viewed from inside another military vehicle; a billboard reads \"Discover Treasure\" at left."
 geo:
 id: 23935
 item_type: Still Image

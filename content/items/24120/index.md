@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea71520514fb29ea715592.jpg
     url: /files/original/14fb29ea71520514fb29ea715592.jpg
+    alt:
+      en: "Aerial view of a flooded marshland with dark, oil-stained water, scattered debris, and a crane or pile driver on a small platform near a channel; dead trees and sparse vegetation line the shoreline, with heavy equipment visible on a dirt road at lower left."
 geo:
 id: 24120
 item_type: Still Image

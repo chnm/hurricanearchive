@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-016-6A.jpg
     thumb: /files/thumbnails/14fb29cf526ab214fb29cf5274d7.jpg
     url: /files/original/14fb29cf526ab214fb29cf5274d7.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood with tree-lined streets and rooftops extending toward a wide river in the hazy distance, with a cargo ship visible on the water."
 geo:
 id: 29113
 item_type: Still Image

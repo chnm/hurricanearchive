@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1048Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8b6401814fb29f8b643fd.jpg
     url: /files/original/14fb29f8b6401814fb29f8b643fd.jpg
+    alt:
+      en: "Two military helicopters fly low under a heavily overcast sky above a grassy field and track, with parked cars, a utility pole, and trees lining the street in the foreground."
 geo:
 id: 22241
 item_type: Still Image

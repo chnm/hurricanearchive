@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4945_b67ee9bec9.jpg
     thumb: /files/thumbnails/14fb2a1e29537114fb2a1e295755.jpg
     url: /files/original/14fb2a1e29537114fb2a1e295755.jpg
+    alt:
+      en: "Vintage photo portrait of a young girl with short dark hair and a pink bow headband, smiling slightly at the camera while wearing a light-colored top."
 geo:
 id: 13373
 item_type: Still Image

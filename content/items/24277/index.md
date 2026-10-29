@@ -21,6 +21,8 @@ files:
     original_filename: 20050926042.JPG
     thumb: /files/thumbnails/14fb29e9171eb614fb29e917229b.jpg
     url: /files/original/14fb29e9171eb614fb29e917229b.jpg
+    alt:
+      en: "A military-style front loader vehicle drives on a debris-strewn road past a damaged house raised on stilts, with scattered storm wreckage and a blue \"Cameron Parish 425\" sign in the foreground."
 geo:
 id: 24277
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28776.jpg
     thumb: /files/thumbnails/14fb2a69821dee14fb2a6982350a.jpg
     url: /files/original/14fb2a69821dee14fb2a6982350a.jpg
+    alt:
+      en: "A green billboard with a fleur-de-lis reads \"No matter what, We are moving back to our city. NEW ORLEANS,\" listing Carbo Insurance, Brian Gibbs Development, and Gibbs Construction, set against trees and sky."
 geo:
   address: ''
   lat: 0.0

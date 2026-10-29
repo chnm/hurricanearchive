@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005-20.JPG
     thumb: /files/thumbnails/14fb2a0864cd3714fb2a0864d4e8.jpg
     url: /files/original/14fb2a0864cd3714fb2a0864d4e8.jpg
+    alt:
+      en: "A uniformed service member with an American flag patch talks on a phone while working at a laptop in a busy operations center with other personnel at desks in the background."
 geo:
 id: 20358
 item_type: Still Image

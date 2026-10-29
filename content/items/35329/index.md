@@ -21,6 +21,8 @@ files:
     original_filename: 71_67736508d4.jpg
     thumb: /files/thumbnails/14fb29c64ab37e14fb29c64ab764.jpg
     url: /files/original/14fb29c64ab37e14fb29c64ab764.jpg
+    alt:
+      en: "Red-ink flyer for \"The Pussycat Caverns Cabaret\" featuring Miss Theresa, Bubble-Puppy, Blisterlips Fireshow, 3-Day Stubble and others, dated October 7th, $5 admission, bordered by candy-cane striped poles."
 geo:
   address: Piety and Burgundy
   lat: 29.96482

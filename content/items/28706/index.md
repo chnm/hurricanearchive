@@ -20,6 +20,8 @@ files:
     original_filename: 114539316_b2011d323a.jpg
     thumb: /files/thumbnails/14fb29d17d75f914fb29d17d79f0.jpg
     url: /files/original/14fb29d17d75f914fb29d17d79f0.jpg
+    alt:
+      en: "A closet or storage area with severe mold damage on the walls and ceiling, with plastic-wrapped packages on a shelf and various clothing items hanging on a rod below."
 geo:
 id: 28706
 item_type: Still Image

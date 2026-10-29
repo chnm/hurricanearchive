@@ -21,6 +21,8 @@ files:
     original_filename: JB 8 1914 Birth Certificate_9419f32c26.jpg
     thumb: /files/thumbnails/14fb29d81309e514fb29d8130dc9.jpg
     url: /files/original/14fb29d81309e514fb29d8130dc9.jpg
+    alt:
+      en: "Aged, torn, and creased printed certificate from St. Joseph's Church, French Settlement, LA, with handwritten entries documenting the 1914 baptism of Cecilia Brown."
 geo:
   address: ''
   lat: 29.91685

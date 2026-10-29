@@ -20,6 +20,8 @@ files:
     original_filename: 2298627454_38da69f2b4.
     thumb: /files/thumbnails/14fb29c7de417f14fb29c7de4ce5.jpg
     url: /files/original/14fb29c7de417f14fb29c7de4ce5.jpg
+    alt:
+      en: "A man in a teal \"Schwegmann\" shirt walks a bicycle beside a woman on a sidewalk, with a chain-link fence, barbed wire, and a pile of discarded bikes and debris alongside a building."
 geo:
 id: 34994
 item_type: Still Image

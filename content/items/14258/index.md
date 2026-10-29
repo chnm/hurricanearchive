@@ -21,6 +21,8 @@ files:
     original_filename: aerials100.jpg
     thumb: /files/thumbnails/14fb2a1a627b7414fb2a1a627f5a.jpg
     url: /files/original/14fb2a1a627b7414fb2a1a627f5a.jpg
+    alt:
+      en: "Aerial view of a wooded area with widespread storm damage, showing uprooted and broken trees, scattered debris, and patches of bare ground amid the remaining greenery."
 geo:
 id: 14258
 item_type: Still Image

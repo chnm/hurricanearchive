@@ -21,6 +21,8 @@ files:
     original_filename: Picture 195cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b567d6014fb2a0b56817b.jpg
     url: /files/original/14fb2a0b567d6014fb2a0b56817b.jpg
+    alt:
+      en: "Park bench and blue playground equipment on a grassy lawn, with a gravel pile, scattered storm debris, and tall pine trees under a blue sky in the background."
 geo:
 id: 20098
 item_type: Still Image

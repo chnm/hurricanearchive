@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001-9-18.JPG
     thumb: /files/thumbnails/14fb2a093a00c614fb2a093a103a.jpg
     url: /files/original/14fb2a093a00c614fb2a093a103a.jpg
+    alt:
+      en: "A soldier in camouflage uniform with an American flag patch and \"4th Mountain\" insignia points toward a wall map while a woman wearing a backpack and cap looks on, a camera visible nearby."
 geo:
 id: 20329
 item_type: Still Image

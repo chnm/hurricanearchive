@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041grandisle.JPG
     thumb: /files/thumbnails/14fb2a1511f44b14fb2a1511fce1.jpg
     url: /files/original/14fb2a1511f44b14fb2a1511fce1.jpg
+    alt:
+      en: "Aerial view of storm-damaged homes on stilts surrounded by massive piles of splintered wood debris, with two intact houses and an open grassy field visible nearby."
 geo:
 id: 18814
 item_type: Still Image

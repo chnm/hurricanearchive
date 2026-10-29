@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0084-15.JPG
     thumb: /files/thumbnails/14fb2a039b377514fb2a039b3b51.jpg
     url: /files/original/14fb2a039b377514fb2a039b3b51.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood showing storm-damaged homes with missing and stripped roof shingles, scattered debris, downed tree limbs, and empty streets lined with parked vehicles."
 geo:
 id: 20812
 item_type: Still Image

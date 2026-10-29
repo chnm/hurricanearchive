@@ -21,6 +21,8 @@ files:
     original_filename: 100_0115.JPG
     thumb: /files/thumbnails/14fb2a595adda914fb2a595ae186.jpg
     url: /files/original/14fb2a595adda914fb2a595ae186.jpg
+    alt:
+      en: "Two industrial buildings with storm-damaged exteriors, their lower walls stripped away and metal debris scattered on the surrounding grass, under a clear evening sky."
 geo:
 id: 3827
 item_type: Still Image

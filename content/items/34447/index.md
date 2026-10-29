@@ -23,6 +23,8 @@ files:
     original_filename: 2326071411_9af35203f9.
     thumb: /files/thumbnails/14fb29c9fbe3b514fb29c9fbe79b.jpg
     url: /files/original/14fb29c9fbe3b514fb29c9fbe79b.jpg
+    alt:
+      en: "Street lined with large piles of storm debris and damaged furniture outside homes, with vehicles driving down the road and a \"Speed Limit 25\" sign and a handmade \"Do Not...\" sign posted near the curb."
 geo:
   address: ''
   lat: 30.22852

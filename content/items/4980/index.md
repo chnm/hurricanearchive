@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0325.JPG
     thumb: /files/thumbnails/14fb2a54a6552214fb2a54a65e55.jpg
     url: /files/original/14fb2a54a6552214fb2a54a65e55.jpg
+    alt:
+      en: "Attic interior with exposed wooden roof trusses coated in blown-in insulation, a ceiling-mounted electrical junction box, and a light fixture base wired below the beams."
 geo:
 id: 4980
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2004superdome.JPG
     thumb: /files/thumbnails/14fb29df7af2f314fb29df7af6c7.jpg
     url: /files/original/14fb29df7af2f314fb29df7af6c7.jpg
+    alt:
+      en: "Military personnel in camouflage and flight suits assist civilians near the open rear ramp of a large military aircraft on a wet tarmac, with onlookers gathered along a barrier in the background."
 geo:
 id: 25277
 item_type: Still Image

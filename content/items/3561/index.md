@@ -24,6 +24,8 @@ files:
     original_filename: P1010137.JPG
     thumb: /files/thumbnails/14fb2a5ad0551814fb2a5ad05b26.jpg
     url: /files/original/14fb2a5ad0551814fb2a5ad05b26.jpg
+    alt:
+      en: "A grassy park area with a concrete bench and lamppost in the foreground, backed by a mix of healthy green trees and storm-damaged, broken trunks and fallen limbs near a railroad crossing sign."
 geo:
 id: 3561
 item_type: Still Image

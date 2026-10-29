@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1305Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f655400d14fb29f65543f3.jpg
     url: /files/original/14fb29f655400d14fb29f65543f3.jpg
+    alt:
+      en: "Floodwaters submerge a street with a severely tilted metal-roofed building partially underwater, power lines and poles leaning askew, and a small boat with a person in a yellow jacket navigating nearby under overcast skies."
 geo:
 id: 22464
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (74).JPG
     thumb: /files/thumbnails/14fb2a5d3114b414fb2a5d311697.jpg
     url: /files/original/14fb2a5d3114b414fb2a5d311697.jpg
+    alt:
+      en: "Multi-story building with broken windows and boarded entrances, fronted by steps and a low wall, with bare dirt and scattered debris in the foreground and tree branches overhead."
 geo:
 id: 3227
 item_type: Still Image

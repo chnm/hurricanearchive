@@ -21,6 +21,8 @@ files:
     original_filename: 051003-A-2604S-0015WestVirginiaNG.jpg
     thumb: /files/thumbnails/14fb29f1798d0214fb29f17990e7.jpg
     url: /files/original/14fb29f1798d0214fb29f17990e7.jpg
+    alt:
+      en: "A military service member in camouflage uniform hands supplies to a young woman holding a toddler, while a young girl stands nearby, with a military vehicle in the background."
 geo:
 id: 23121
 item_type: Still Image

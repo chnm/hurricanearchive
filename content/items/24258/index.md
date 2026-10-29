@@ -21,6 +21,8 @@ files:
     original_filename: 09140039.JPG
     thumb: /files/thumbnails/14fb29e960258614fb29e9602a52.jpg
     url: /files/original/14fb29e960258614fb29e9602a52.jpg
+    alt:
+      en: "Damaged building with a torn black shingle roof and boarded-up windows and doors sits beside railroad tracks, viewed over a concrete highway barrier with a streetlight pole and trees in the background."
 geo:
 id: 24258
 item_type: Still Image

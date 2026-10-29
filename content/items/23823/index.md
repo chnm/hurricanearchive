@@ -21,6 +21,8 @@ files:
     original_filename: S4300162stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf00a3b14fb29ecf00e19.jpg
     url: /files/original/14fb29ecf00a3b14fb29ecf00e19.jpg
+    alt:
+      en: "Blurry, dark photo taken through a window or vehicle interior, with a brick house, metal railing, and debris-covered ground visible outside in the background."
 geo:
 id: 23823
 item_type: Still Image

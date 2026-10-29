@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28172.jpg
     thumb: /files/thumbnails/14fb2a6d16eb8514fb2a6d16f12b.jpg
     url: /files/original/14fb2a6d16eb8514fb2a6d16f12b.jpg
+    alt:
+      en: "Woman holding a push broom stands amid storm debris on a cleared lot, facing a two-story house wrapped with banners and an American flag on its porch."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1307Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f65150f914fb29f651585d.jpg
     url: /files/original/14fb29f65150f914fb29f651585d.jpg
+    alt:
+      en: "Floodwaters submerge a street and buildings, with a Ryder box truck partially underwater beside a loading dock and a covered vehicle nearly submerged nearby; trees bend in the wind under an overcast sky."
 geo:
 id: 22466
 item_type: Still Image

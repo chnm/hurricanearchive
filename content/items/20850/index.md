@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0132.JPG
     thumb: /files/thumbnails/14fb2a02d9512114fb2a02d9551d.jpg
     url: /files/original/14fb2a02d9512114fb2a02d9551d.jpg
+    alt:
+      en: "Aerial view of a storm-damaged commercial district with stripped gas station canopies, a red-roofed building, debris-strewn lots, scattered vehicles, and buildings with missing or damaged roofing."
 geo:
 id: 20850
 item_type: Still Image

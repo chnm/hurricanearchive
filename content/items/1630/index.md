@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28666.jpg
     thumb: /files/thumbnails/14fb2a67574c8214fb2a67575069.jpg
     url: /files/original/14fb2a67574c8214fb2a67575069.jpg
+    alt:
+      en: "Animal stall gate with a green halter, purple lead rope, and clipboard hanging on it, the word \"caution\" handwritten in blue on the gate, with a horse visible in the stall behind."
 geo:
   address: ''
   lat: 0.0

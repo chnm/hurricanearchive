@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28512.jpg
     thumb: /files/thumbnails/14fb2a6c62b13f14fb2a6c62b526.jpg
     url: /files/original/14fb2a6c62b13f14fb2a6c62b526.jpg
+    alt:
+      en: "A man wearing a surgical mask, cap, and glasses steps out of a doorway marked \"6420,\" carrying a lace curtain, with discolored siding and a brick column visible nearby."
 geo:
   address: ''
   lat: 0.0

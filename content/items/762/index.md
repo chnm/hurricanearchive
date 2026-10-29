@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27930.jpg
     thumb: /files/thumbnails/14fb2a6d351e7714fb2a6d35225d.jpg
     url: /files/original/14fb2a6d351e7714fb2a6d35225d.jpg
+    alt:
+      en: "Elevated parking structure with a concrete barrier wall and a discarded metal traffic barrier arm, set against a city skyline of high-rise buildings under a clear sky."
 geo:
   address: ''
   lat: 0.0

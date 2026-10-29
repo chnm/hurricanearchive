@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0129-21.JPG
     thumb: /files/thumbnails/14fb29e60c466c14fb29e60c4a47.jpg
     url: /files/original/14fb29e60c466c14fb29e60c4a47.jpg
+    alt:
+      en: "Two uniformed military personnel in camouflage fatigues walk across a paved area, with Humvee military vehicles and other service members gathered in the background near a residential building."
 geo:
 id: 24625
 item_type: Still Image

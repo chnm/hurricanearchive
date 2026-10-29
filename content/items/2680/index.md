@@ -21,6 +21,8 @@ files:
     original_filename: 104.jpg
     thumb: /files/thumbnails/14fb2a609a0d6914fb2a609a114f.jpg
     url: /files/original/14fb2a609a0d6914fb2a609a114f.jpg
+    alt:
+      en: "Child's crayon drawing of a tall house with a red crosshatched roof, pink walls, orange windows and door, surrounded by dark blue clouds and stick-figure people standing on blue ground."
 geo:
 id: 2680
 item_type: Still Image

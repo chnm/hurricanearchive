@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0059H.JPG
     thumb: /files/thumbnails/14fb2a04f490a214fb2a04f49487.jpg
     url: /files/original/14fb2a04f490a214fb2a04f49487.jpg
+    alt:
+      en: "Two men and a woman in a Hooters tank top play foosball together at a table game, with drink cans nearby and dim string lights in the background."
 geo:
 id: 20695
 item_type: Still Image

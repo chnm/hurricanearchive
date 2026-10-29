@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021OEP.JPG
     thumb: /files/thumbnails/14fb29f216564114fb29f2165a26.jpg
     url: /files/original/14fb29f216564114fb29f2165a26.jpg
+    alt:
+      en: "Low-rise commercial buildings flank a parking lot filled with cars, trucks, and vans, with landscaped shrubs, young trees, and light poles under a clear sky."
 geo:
 id: 23011
 item_type: Still Image

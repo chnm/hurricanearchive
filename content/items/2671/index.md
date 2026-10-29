@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9262.jpg
     thumb: /files/thumbnails/14fb2a60a2131c14fb2a60a219d0.jpg
     url: /files/original/14fb2a60a2131c14fb2a60a219d0.jpg
+    alt:
+      en: "Two wrecked gas pumps lie toppled amid dried grass and debris, their price displays (marked \"87\" octane, \"$2.529,\" pump \"4\") visible among exposed rusted machinery and hoses."
 geo:
 id: 2671
 item_type: Still Image

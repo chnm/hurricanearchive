@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0022.JPG
     thumb: /files/thumbnails/14fb2a5826160514fb2a582619e8.jpg
     url: /files/original/14fb2a5826160514fb2a582619e8.jpg
+    alt:
+      en: "Storm-damaged neighborhood with collapsed structures, scattered debris, and dried brush covering a mud-caked street, with downed power lines and houses visible in the background."
 geo:
 id: 4069
 item_type: Still Image

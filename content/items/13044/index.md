@@ -21,6 +21,8 @@ files:
     original_filename: before looking north.jpg
     thumb: /files/thumbnails/14fb2a20de6a3c14fb2a20de6e22.jpg
     url: /files/original/14fb2a20de6a3c14fb2a20de6e22.jpg
+    alt:
+      en: "Elevated view of an industrial area with a water tower labeled \"Gulfport,\" low warehouse buildings with boarded-up doors, a rooftop parking lot with reserved spaces, and overcast sky."
 geo:
 id: 13044
 item_type: Still Image

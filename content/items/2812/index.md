@@ -21,6 +21,8 @@ files:
     original_filename: MVC-003S.JPG
     thumb: /files/thumbnails/14fb2a5ffb386314fb2a5ffb3c48.jpg
     url: /files/original/14fb2a5ffb386314fb2a5ffb3c48.jpg
+    alt:
+      en: "Gray military jet marked \"06,\" \"NE,\" \"7787,\" \"MARINES,\" and \"USS Forrestal\" parked on pavement, with a building and clear blue sky in the background."
 geo:
 id: 2812
 item_type: Still Image

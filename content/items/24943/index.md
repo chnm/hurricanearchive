@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1453superdome.JPG
     thumb: /files/thumbnails/14fb29e3a9e8f214fb29e3a9ecdd.jpg
     url: /files/original/14fb29e3a9e8f214fb29e3a9ecdd.jpg
+    alt:
+      en: "A military-style truck with two uniformed occupants drives through deep floodwater on a city street, passing partially submerged cars near a \"Bus Zone\" sign."
 geo:
 id: 24943
 item_type: Still Image

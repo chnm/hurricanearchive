@@ -26,6 +26,8 @@ files:
     original_filename: katrina_15c1527ea0.jpg
     thumb: /files/thumbnails/14fb2a70f4f6e914fb2a70f4faec.jpg
     url: /files/original/14fb2a70f4f6e914fb2a70f4faec.jpg
+    alt:
+      en: "Infrared satellite image labeled \"Infrared Satellite 07:40 PM EDT Sun Aug 28,\" showing a large, well-defined hurricane with a visible eye over the Gulf of Mexico approaching the Gulf Coast."
 geo:
   address: ''
   lat: 29.267232865200903

@@ -21,6 +21,8 @@ files:
     original_filename: S4300163stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eceeb80f14fb29eceebbf2.jpg
     url: /files/original/14fb29eceeb80f14fb29eceebbf2.jpg
+    alt:
+      en: "Two vehicles flipped upside down and debris-covered beside a green \"Waste Management\" trash bin, with a detached bumper and siding-clad building in the background, likely storm wreckage."
 geo:
 id: 23824
 item_type: Still Image

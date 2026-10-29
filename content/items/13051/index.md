@@ -21,6 +21,8 @@ files:
     original_filename: before train station.jpg
     thumb: /files/thumbnails/14fb2a20bdd3c814fb2a20bdd7ac.jpg
     url: /files/original/14fb2a20bdd3c814fb2a20bdd7ac.jpg
+    alt:
+      en: "Elevated view of a brick train station's peaked roof in the foreground, overlooking railroad tracks, a parking lot, scattered trucks and trailers, a tall radio tower, and distant trees under a cloudy sky."
 geo:
 id: 13051
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0424-16.JPG
     thumb: /files/thumbnails/14fb29fcca45f714fb29fcca49dc.jpg
     url: /files/original/14fb29fcca45f714fb29fcca49dc.jpg
+    alt:
+      en: "Aerial view of a flattened neighborhood with only concrete slab foundations remaining, scattered debris between rows, and a few surviving trees along a grid of streets."
 geo:
 id: 21652
 item_type: Still Image

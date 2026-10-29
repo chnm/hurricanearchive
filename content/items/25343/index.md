@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2070superdome.JPG
     thumb: /files/thumbnails/14fb29dedca66d14fb29dedcaa41.jpg
     url: /files/original/14fb29dedca66d14fb29dedcaa41.jpg
+    alt:
+      en: "Two men in camouflage military uniforms support an injured man between them as they help him walk across a paved lot, with an elevated highway overpass and a \"Sanderson Farms\" billboard visible in the background."
 geo:
 id: 25343
 item_type: Still Image

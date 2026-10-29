@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6528_9f6b2adf5b.jpg
     thumb: /files/thumbnails/14fb29d40a6cd914fb29d40a6fe8.jpg
     url: /files/original/14fb29d40a6cd914fb29d40a6fe8.jpg
+    alt:
+      en: "A single-story brick ranch house with a gray shingle roof, partially shaded by a large overhanging tree, with a driveway and orange traffic cone visible in the foreground."
 geo:
   address: ''
   lat: 29.87876

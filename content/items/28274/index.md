@@ -26,6 +26,8 @@ files:
     original_filename: sticks stars_cf0703b1ff.JPG
     thumb: /files/thumbnails/14fb29d265154014fb29d2651cb5.jpg
     url: /files/original/14fb29d265154014fb29d2651cb5.jpg
+    alt:
+      en: "Wooden craft sticks inscribed with handwritten phrases like \"tore them loose\" and \"accomplished,\" arranged on a table alongside small stars, red LED lights, a tarnished metal dish, and a note card."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

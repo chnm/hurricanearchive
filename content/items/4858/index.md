@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0177.JPG
     thumb: /files/thumbnails/14fb2a5524359914fb2a5524398a.jpg
     url: /files/original/14fb2a5524359914fb2a5524398a.jpg
+    alt:
+      en: "Damaged metal carport/shed structure with a curved, partially collapsed roof, surrounded by trees and debris; a white SUV with Florida license plate \"203 HUK\" is parked beside it."
 geo:
 id: 4858
 item_type: Still Image

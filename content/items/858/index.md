@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28368.jpg
     thumb: /files/thumbnails/14fb2a6c9794fa14fb2a6c979873.jpg
     url: /files/original/14fb2a6c9794fa14fb2a6c979873.jpg
+    alt:
+      en: "A man in a cap and t-shirt pulls a thick yellow rope aboard a docked shrimp boat, with coils of rope and rigging equipment visible on deck behind him."
 geo:
   address: ''
   lat: 0.0

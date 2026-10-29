@@ -20,6 +20,8 @@ files:
     original_filename: 2421714238_f1626ee8d3.
     thumb: /files/thumbnails/14fb29c95615e214fb29c956194a.jpg
     url: /files/original/14fb29c95615e214fb29c956194a.jpg
+    alt:
+      en: "Gutted interior of a building under renovation, with exposed wall framing, a metal security gate, a ladder, and workers in protective suits; illuminated \"EXIT\" signs flank the damaged walls."
 geo:
   address: ''
   lat: 29.97632

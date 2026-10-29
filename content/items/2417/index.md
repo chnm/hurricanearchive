@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C61_a927f2081e.jpg
     thumb: /files/thumbnails/14fb2a6689af6914fb2a6689b33e.jpg
     url: /files/original/14fb2a6689af6914fb2a6689b33e.jpg
+    alt:
+      en: "A Coast Guard member in a \"U.S. Coast Guard\" uniform photographs damaged, dented oil storage tanks in a debris-strewn field under a hazy sky."
 geo:
 id: 2417
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0254-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fed3ef0d14fb29fed3f2f3.jpg
     url: /files/original/14fb29fed3ef0d14fb29fed3f2f3.jpg
+    alt:
+      en: "Aerial view of a flooded rural community with houses, outbuildings, and clusters of trees surrounded by floodwater, with farmland and a school bus visible in the background."
 geo:
 id: 21427
 item_type: Still Image

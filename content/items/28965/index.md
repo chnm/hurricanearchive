@@ -27,6 +27,8 @@ files:
     original_filename: spinning art_c9df71cbf6.JPG
     thumb: /files/thumbnails/14fb29d1531c7b14fb29d1532060.jpg
     url: /files/original/14fb29d1531c7b14fb29d1532060.jpg
+    alt:
+      en: "A suspended sculptural installation of salvaged wood, metal framing, and live greenery hangs by ropes in a gutted, stripped-down room with exposed studs and insulation."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

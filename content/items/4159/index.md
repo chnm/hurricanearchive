@@ -21,6 +21,8 @@ files:
     original_filename: P1010030.JPG
     thumb: /files/thumbnails/14fb2a5757f3c914fb2a5757f7a7.jpg
     url: /files/original/14fb2a5757f3c914fb2a5757f7a7.jpg
+    alt:
+      en: "Aerial view of a coastal town with widespread storm damage—stripped trees, debris-covered lots, and scattered buildings—situated near a waterway with docked boats visible in the upper right."
 geo:
 id: 4159
 item_type: Still Image

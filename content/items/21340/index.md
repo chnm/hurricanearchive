@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0231.JPG
     thumb: /files/thumbnails/14fb29ff4e70f714fb29ff4e74dc.jpg
     url: /files/original/14fb29ff4e70f714fb29ff4e74dc.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood with debris-strewn yards, missing roof sections, scattered building materials, and defoliated trees surrounding rows of houses."
 geo:
 id: 21340
 item_type: Still Image

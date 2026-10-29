@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eff8580b14fb29eff85bf0.jpg
     url: /files/original/14fb29eff8580b14fb29eff85bf0.jpg
+    alt:
+      en: "Debris-strewn street with a leaning utility pole, bent \"One Way\" sign, and splintered wood piled against a brick-and-clapboard building marked \"ADMIRALTY,\" with mud coating the ground."
 geo:
 id: 23320
 item_type: Still Image

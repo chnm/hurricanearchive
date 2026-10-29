@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6718_56dcd00ced.JPG
     thumb: /files/thumbnails/14fb29d2e3a59f14fb29d2e3a983.jpg
     url: /files/original/14fb29d2e3a59f14fb29d2e3a983.jpg
+    alt:
+      en: "Black-and-white portrait of a young girl with hair pulled back, wearing a satin dress with a bow, lying back and smiling as she looks off to the side."
 geo:
   address: ''
   lat: 29.91685

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 078.jpg
     thumb: /files/thumbnails/14fb2a127b598614fb2a127b5d62.jpg
     url: /files/original/14fb2a127b598614fb2a127b5d62.jpg
+    alt:
+      en: "A debris-strewn street lined with bare, storm-damaged trees and a snapped palm leaning against utility poles, with mud and fallen branches covering the road and sidewalk."
 geo:
 id: 19168
 item_type: Still Image

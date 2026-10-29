@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-036-16A.jpg
     thumb: /files/thumbnails/14fb29ceead99614fb29ceeadd61.jpg
     url: /files/original/14fb29ceead99614fb29ceeadd61.jpg
+    alt:
+      en: "A military helicopter sits parked on a tarmac with several people standing near its open door, while military trucks are lined up in the background near trees, and a blurred rotor blade partially obscures the foreground."
 geo:
 id: 29123
 item_type: Still Image

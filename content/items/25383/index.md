@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2198superdome.JPG
     thumb: /files/thumbnails/14fb29de5ece2b14fb29de5ed211.jpg
     url: /files/original/14fb29de5ece2b14fb29de5ed211.jpg
+    alt:
+      en: "Flooded parking lot with submerged military trucks and a small building, beneath an elevated highway; a large sign reading \"Bud Light\" and \"Masquerade Hot Show Cool Bar\" stands above \"Lot 4, West Bus Lot.\""
 geo:
 id: 25383
 item_type: Still Image

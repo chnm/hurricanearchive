@@ -25,12 +25,16 @@ files:
     original_filename: BNOdirect_f1081cf38d.jpg
     thumb: /files/thumbnails/14fb29d9abdf9014fb29d9abe376.jpg
     url: /files/original/14fb29d9abdf9014fb29d9abe376.jpg
+    alt:
+      en: "Map of the Chalmette Battlefield showing troop movements from the Battle of New Orleans, with labeled sites including the Rodriguez Canal, Mud Rampart, Chalmette Monument, Visitor Center, and Mississippi River."
   - fullsize: /files/fullsize/14fb29d9aaca4f14fb29d9aace34.jpg
     id: 22796
     mime: image/jpeg
     original_filename: BNOdirect2_4a7f7d5123.jpg
     thumb: /files/thumbnails/14fb29d9aaca4f14fb29d9aace34.jpg
     url: /files/original/14fb29d9aaca4f14fb29d9aace34.jpg
+    alt:
+      en: "Illustrated map of Chalmette Battlefield showing the Rodriguez Canal, mud rampart, and British attack routes in red, with labeled sites including the Visitor Center, Chalmette Monument, and Chalmette National Cemetery."
 geo:
 id: 26182
 item_type: Still Image

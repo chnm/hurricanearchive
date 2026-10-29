@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2072superdome.JPG
     thumb: /files/thumbnails/14fb29e52a9e8c14fb29e52aa267.jpg
     url: /files/original/14fb29e52a9e8c14fb29e52aa267.jpg
+    alt:
+      en: "Group of military personnel and a New Orleans police officer seated indoors, listening attentively during a briefing, with framed photographs including one of the Superdome visible on the wall behind them."
 geo:
 id: 24750
 item_type: Still Image

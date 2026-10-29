@@ -21,6 +21,8 @@ files:
     original_filename: 09140007neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec6e682614fb29ec6e6c0b.jpg
     url: /files/original/14fb29ec6e682614fb29ec6e6c0b.jpg
+    alt:
+      en: "Debris-covered street with mud-caked pavement, abandoned cars, and small single-story homes lining both sides, utility poles and wires overhead, reflecting storm damage and cleanup efforts."
 geo:
 id: 23908
 item_type: Still Image

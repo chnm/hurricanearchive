@@ -21,6 +21,8 @@ files:
     original_filename: katrina 027.jpg
     thumb: /files/thumbnails/14fb29fbec864614fb29fbec8df4.jpg
     url: /files/original/14fb29fbec864614fb29fbec8df4.jpg
+    alt:
+      en: "A dark nighttime scene showing a hand holding a pen and writing on a notebook, illuminated by a faint light source, with a timestamp reading \"5 1:57 AM\" in the corner."
 geo:
 id: 21759
 item_type: Still Image

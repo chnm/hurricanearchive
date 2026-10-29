@@ -21,6 +21,8 @@ files:
     original_filename: DSC 028717thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f3666c6214fb29f3667046.jpg
     url: /files/original/14fb29f3666c6214fb29f3667046.jpg
+    alt:
+      en: "Aerial view of a flooded canal lined by a concrete floodwall, with damaged homes, debris, and scorched trees along both banks."
 geo:
 id: 22813
 item_type: Still Image

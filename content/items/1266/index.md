@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28690.jpg
     thumb: /files/thumbnails/14fb2a69fb15d914fb2a69fb19b6.jpg
     url: /files/original/14fb2a69fb15d914fb2a69fb19b6.jpg
+    alt:
+      en: "A woman in a pink tank top stands near horse stalls equipped with box fans, with a gray horse on the left and a dark horse peering over the stall door marked \"10.\""
 geo:
   address: ''
   lat: 0.0

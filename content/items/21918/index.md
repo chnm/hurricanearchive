@@ -21,6 +21,8 @@ files:
     original_filename: Xavier University looking North.jpg
     thumb: /files/thumbnails/14fb29fafec63914fb29fafeca15.jpg
     url: /files/original/14fb29fafec63914fb29fafeca15.jpg
+    alt:
+      en: "Aerial view of a flooded university campus with multiple buildings surrounded by standing floodwater, adjacent to an elevated highway interchange."
 geo:
 id: 21918
 item_type: Still Image

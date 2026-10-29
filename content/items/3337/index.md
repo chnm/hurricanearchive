@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Press conference (4).JPG
     thumb: /files/thumbnails/14fb2a5c584c2014fb2a5c585392.jpg
     url: /files/original/14fb2a5c584c2014fb2a5c585392.jpg
+    alt:
+      en: "A bald man in a striped shirt speaks at a podium crowded with microphones, flanked by military and Coast Guard officers, with a glass building facade behind them."
 geo:
 id: 3337
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0176.JPG
     thumb: /files/thumbnails/14fb2a5524d5b714fb2a5524d9a4.jpg
     url: /files/original/14fb2a5524d5b714fb2a5524d9a4.jpg
+    alt:
+      en: "Backyard scene with a metal shed, brick house, and a damaged lean-to structure amid trees; debris, a ladder, wooden planks, and a garden hose lie scattered on the ground."
 geo:
 id: 4857
 item_type: Still Image

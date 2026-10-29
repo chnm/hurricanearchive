@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27894.jpg
     thumb: /files/thumbnails/14fb2a675e50e114fb2a675e54c6.jpg
     url: /files/original/14fb2a675e50e114fb2a675e54c6.jpg
+    alt:
+      en: "Nighttime scene at Merle St. with a stop sign in the foreground, where a line of people waits beside an American Red Cross vehicle distributing meals after Hurricane Rita."
 geo:
   address: ''
   lat: 0.0

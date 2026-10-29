@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (12).JPG
     thumb: /files/thumbnails/14fb2a5e11922214fb2a5e1195fc.jpg
     url: /files/original/14fb2a5e11922214fb2a5e1195fc.jpg
+    alt:
+      en: "Camouflage-painted military Humvee with gear bags strapped to its roof rack, parked outdoors on pavement with another camouflage military vehicle visible in the background."
 geo:
 id: 3093
 item_type: Still Image

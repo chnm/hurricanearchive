@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a152ef55214fb2a152ef92f.jpg
     url: /files/original/14fb2a152ef55214fb2a152ef92f.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with storm-damaged houses, debris-strewn yards, downed trees, and scattered vehicles along quiet streets, with a larger brick building visible in the background."
 geo:
 id: 18809
 item_type: Still Image

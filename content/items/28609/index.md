@@ -23,6 +23,8 @@ files:
     original_filename: 162117684_f890e6b207.jpg
     thumb: /files/thumbnails/14fb29d224911214fb29d22494d8.jpg
     url: /files/original/14fb29d224911214fb29d22494d8.jpg
+    alt:
+      en: "A scattered trail of corn flakes across a patch of grass, with parked cars including a yellow vehicle lining the street in the background."
 geo:
 id: 28609
 item_type: Still Image

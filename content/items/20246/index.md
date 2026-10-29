@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 100 0274.JPG
     thumb: /files/thumbnails/14fb2a0a765edc14fb2a0a7662c0.jpg
     url: /files/original/14fb2a0a765edc14fb2a0a7662c0.jpg
+    alt:
+      en: "A red ATV sits overturned atop a chain-link fence beside a brick house, surrounded by dried mud, debris, and flattened dead vegetation left behind by floodwaters."
 geo:
 id: 20246
 item_type: Still Image

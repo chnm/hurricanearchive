@@ -24,6 +24,8 @@ files:
     original_filename: P1010132.JPG
     thumb: /files/thumbnails/14fb2a5ad6e28914fb2a5ad6e66e.jpg
     url: /files/original/14fb2a5ad6e28914fb2a5ad6e66e.jpg
+    alt:
+      en: "Exterior of Liuzza's Restaurant and Bar, a white stucco building with a red-white-green striped awning over a closed metal door, flanked by potted palm plants with American flags."
 geo:
 id: 3556
 item_type: Still Image

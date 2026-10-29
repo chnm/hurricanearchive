@@ -21,6 +21,8 @@ files:
     original_filename: isenReGoodShepherd_AndrewJoseph_02_6b4d365373.jpg
     thumb: /files/thumbnails/14fb2a1832bf8814fb2a1832c36e.jpg
     url: /files/original/14fb2a1832bf8814fb2a1832c36e.jpg
+    alt:
+      en: "Young boy in a yellow t-shirt stands smiling with arms crossed on a grassy lawn, with a chain-link fence, street, parked truck, and houses visible behind him."
 geo:
 id: 14685
 item_type: Still Image

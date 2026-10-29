@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 086.jpg
     thumb: /files/thumbnails/14fb2a12583a4a14fb2a12583e2f.jpg
     url: /files/original/14fb2a12583a4a14fb2a12583e2f.jpg
+    alt:
+      en: "Silhouetted person in a cap and glasses holds a radio handset inside a vehicle, with storm-damaged trees, debris piles, and a grassy roadside visible through the window."
 geo:
 id: 19176
 item_type: Still Image

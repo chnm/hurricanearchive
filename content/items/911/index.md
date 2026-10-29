@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28221.jpg
     thumb: /files/thumbnails/14fb2a6c4483c814fb2a6c4487ae.jpg
     url: /files/original/14fb2a6c4483c814fb2a6c4487ae.jpg
+    alt:
+      en: "Bare concrete foundation pillars stand amid storm debris, with an American flag flying from a pole at the center, surrounded by leafless trees under a clear sky."
 geo:
   address: ''
   lat: 0.0

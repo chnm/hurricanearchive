@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.027.JPG
     thumb: /files/thumbnails/14fb29dd1ae4d714fb29dd1ae8b4.jpg
     url: /files/original/14fb29dd1ae4d714fb29dd1ae8b4.jpg
+    alt:
+      en: "Storm-damaged building with \"Foreign Car Specialists Automotive Repair\" and \"FCS\" signage, its large awning or sign structure torn loose and leaning at an angle against the storefront amid downed power lines and broken trees."
 geo:
 id: 25620
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140011.JPG
     thumb: /files/thumbnails/14fb2a0a83452114fb2a0a834908.jpg
     url: /files/original/14fb2a0a83452114fb2a0a834908.jpg
+    alt:
+      en: "A bent, leaning street sign pole stands on a grassy median in front of a parked bus advertising \"Crown Jewels,\" with a tree, utility poles, and a green garage building in the background."
 geo:
 id: 20237
 item_type: Still Image

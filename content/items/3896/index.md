@@ -21,6 +21,8 @@ files:
     original_filename: 100_0192.JPG
     thumb: /files/thumbnails/14fb2a5914746314fb2a5914770b.jpg
     url: /files/original/14fb2a5914746314fb2a5914770b.jpg
+    alt:
+      en: "Floodwaters surround a religious statue and a partially visible bell tower with a cross, with trees and a \"Bird Sanctuary\" sign partly submerged in the water."
 geo:
 id: 3896
 item_type: Still Image

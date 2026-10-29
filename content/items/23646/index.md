@@ -21,6 +21,8 @@ files:
     original_filename: P1010087empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee1b076c14fb29ee1b0b53.jpg
     url: /files/original/14fb29ee1b076c14fb29ee1b0b53.jpg
+    alt:
+      en: "Debris-strewn road submerged on both sides by floodwater, with leaning utility poles, tangled power lines, and a damaged house roof visible among trees along the waterline."
 geo:
 id: 23646
 item_type: Still Image

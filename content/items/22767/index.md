@@ -21,6 +21,8 @@ files:
     original_filename: S4300123Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f421a93614fb29f421ad1d.jpg
     url: /files/original/14fb29f421a93614fb29f421ad1d.jpg
+    alt:
+      en: "A large uprooted tree with its exposed root ball lies toppled against a wrought-iron fence and brick pillars outside a white building, with an American flag visible in the background."
 geo:
 id: 22767
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8503.jpg
     thumb: /files/thumbnails/14fb2a660a43c414fb2a660a47aa.jpg
     url: /files/original/14fb2a660a43c414fb2a660a47aa.jpg
+    alt:
+      en: "Damaged wooden pier with a surviving white vinyl gate and American flag, surrounded by rows of bare pilings standing in calm water under an overcast sky."
 geo:
 id: 2480
 item_type: Still Image

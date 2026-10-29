@@ -24,6 +24,8 @@ files:
     original_filename: 20060210_MG_0438.jpg
     thumb: /files/thumbnails/14fb2a641f2d2e14fb2a641f38f5.jpg
     url: /files/original/14fb2a641f2d2e14fb2a641f38f5.jpg
+    alt:
+      en: "A performer in white face paint and a shimmering blue tarp kimono with colorful hair ribbons holds a matching blue tarp parasol and fringed purse on a riverfront promenade."
 geo:
 id: 2616
 item_type: Still Image

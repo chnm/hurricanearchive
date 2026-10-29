@@ -21,6 +21,8 @@ files:
     original_filename: NO 007majortodd.jpg
     thumb: /files/thumbnails/14fb29f2eae57e14fb29f2eae95b.jpg
     url: /files/original/14fb29f2eae57e14fb29f2eae95b.jpg
+    alt:
+      en: "Hazy aerial view of a city skyline with scattered high-rise buildings along a waterfront, seen through thick atmospheric haze or smoke."
 geo:
 id: 22885
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0272.JPG
     thumb: /files/thumbnails/14fb2a54e9758314fb2a54e979ce.jpg
     url: /files/original/14fb2a54e9758314fb2a54e979ce.jpg
+    alt:
+      en: "Single-story brick-and-siding ranch house with dark green shutters, a driveway, and a large front lawn, surrounded by tall trees showing storm damage in the background."
 geo:
 id: 4930
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 207cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b4b311414fb2a0b4b3533.jpg
     url: /files/original/14fb2a0b4b311414fb2a0b4b3533.jpg
+    alt:
+      en: "A young tree braced upright with metal support poles stands near a gravel area, with a storm-damaged, fallen tree and an open-sided picnic shelter visible in the background."
 geo:
 id: 20110
 item_type: Still Image

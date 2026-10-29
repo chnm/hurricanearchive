@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1768superdome.JPG
     thumb: /files/thumbnails/14fb29e1b7078a14fb29e1b70c87.jpg
     url: /files/original/14fb29e1b7078a14fb29e1b70c87.jpg
+    alt:
+      en: "A military officer in camouflage fatigues converses with a group of responders in navy polo shirts, with emergency vehicles and a satellite dish visible in the background."
 geo:
 id: 25158
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-10yockeypatchecoearly80s_df3198f2c2.jpg
     thumb: /files/thumbnails/14fb29dc912ebb14fb29dc91ce2a.jpg
     url: /files/original/14fb29dc912ebb14fb29dc91ce2a.jpg
+    alt:
+      en: "Water-damaged color photograph of a young child with curly hair looking down at a garment on a hanger, held in both hands; the print's surface is heavily stained, cracked, and discolored."
 geo:
 id: 25735
 item_type: Still Image

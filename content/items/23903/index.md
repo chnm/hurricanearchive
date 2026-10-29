@@ -21,6 +21,8 @@ files:
     original_filename: picture 9stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec727d3f14fb29ec728129.jpg
     url: /files/original/14fb29ec727d3f14fb29ec728129.jpg
+    alt:
+      en: "A flooded residential street with brick houses partially submerged in standing water, utility poles and tangled power lines overhead, and debris scattered along the waterline."
 geo:
 id: 23903
 item_type: Still Image

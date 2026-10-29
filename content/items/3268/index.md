@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (31).JPG
     thumb: /files/thumbnails/14fb2a5cf35f5414fb2a5cf3608a.jpg
     url: /files/original/14fb2a5cf35f5414fb2a5cf3608a.jpg
+    alt:
+      en: "Ornate wrought-iron canopy and gate enclose a mausoleum with a mosaic of a biblical scene and a white statue, set among cemetery tombs."
 geo:
 id: 3268
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0538Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4a47ee214fb29f4a482c7.jpg
     url: /files/original/14fb29f4a47ee214fb29f4a482c7.jpg
+    alt:
+      en: "A dark sedan and a pickup truck parked under a brick carport labeled \"U 14,\" with a dog standing on the driveway; the photo is dated 09.15.2005."
 geo:
 id: 22702
 item_type: Still Image

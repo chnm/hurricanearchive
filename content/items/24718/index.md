@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-20-19Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e56017af14fb29e5601b95.jpg
     url: /files/original/14fb29e56017af14fb29e5601b95.jpg
+    alt:
+      en: "Flooded parking garage with a submerged dark vehicle creating a wake, flanked by a blue school bus and a white school bus partially underwater, with more flooded cars visible outside."
 geo:
 id: 24718
 item_type: Still Image

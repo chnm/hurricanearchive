@@ -21,6 +21,8 @@ files:
     original_filename: More Jackson Barracks 2Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4e4ec1e14fb29f4e4f000.jpg
     url: /files/original/14fb29f4e4ec1e14fb29f4e4f000.jpg
+    alt:
+      en: "Flooded residential street with houses submerged to their windows, utility poles rising from the water, and a small boat with rescuers navigating past partially submerged vehicles."
 geo:
 id: 22643
 item_type: Still Image

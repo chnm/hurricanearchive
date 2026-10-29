@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2218media.JPG
     thumb: /files/thumbnails/14fb29f2d777c914fb29f2d77ba9.jpg
     url: /files/original/14fb29f2d777c914fb29f2d77ba9.jpg
+    alt:
+      en: "Three people sit under a canopy on a vehicle: a smiling man in military camouflage uniform, a woman in a green tank top with a green headscarf holding a camera, and a woman in a white tank top with sunglasses, with an open paved lot and trees in the background."
 geo:
 id: 22899
 item_type: Still Image

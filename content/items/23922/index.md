@@ -21,6 +21,8 @@ files:
     original_filename: 09140035neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec5db15e14fb29ec5db53c.jpg
     url: /files/original/14fb29ec5db15e14fb29ec5db53c.jpg
+    alt:
+      en: "Row of damaged houses with a tarped roof and gray cinderblock building in foreground, a church steeple and orange building in the background, under power lines and a hazy sky."
 geo:
 id: 23922
 item_type: Still Image

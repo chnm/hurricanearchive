@@ -23,6 +23,8 @@ files:
     original_filename: 1261478980_d1a1058cca.jpg
     thumb: /files/thumbnails/14fb29cb746b5b14fb29cb747130.jpg
     url: /files/original/14fb29cb746b5b14fb29cb747130.jpg
+    alt:
+      en: "A weathered \"PRIVATE PROPERTY, NO TRESPASSING\" sign, streaked with dirt and grime, is mounted on a chain-link fence."
 geo:
 id: 33224
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010154.JPG
     thumb: /files/thumbnails/14fb2a5a0cc4e514fb2a5a0cc8ca.jpg
     url: /files/original/14fb2a5a0cc4e514fb2a5a0cc8ca.jpg
+    alt:
+      en: "A house with its front wall torn away by hurricane winds, exposing an intact living room with furniture, a ceiling fan, and shelving; a blue tarp drapes over the opening below."
 geo:
 id: 3708
 item_type: Still Image

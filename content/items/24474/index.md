@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0101-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e760527014fb29e760565f.jpg
     url: /files/original/14fb29e760527014fb29e760565f.jpg
+    alt:
+      en: "A dead animal with reddish-brown fur lies partially submerged in dry marsh grass along the edge of a flooded waterway."
 geo:
 id: 24474
 item_type: Still Image

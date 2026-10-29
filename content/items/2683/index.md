@@ -24,6 +24,8 @@ files:
     original_filename: 107.jpg
     thumb: /files/thumbnails/14fb2a6097044d14fb2a60970833.jpg
     url: /files/original/14fb2a6097044d14fb2a60970833.jpg
+    alt:
+      en: "Child's marker drawing of a helicopter lowering a chain ladder to rescue a small house with two people inside, with a green alligator and small animal drawn nearby; labeled \"Marlon Evans, 11.\""
 geo:
 id: 2683
 item_type: Still Image

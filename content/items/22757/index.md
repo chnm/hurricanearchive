@@ -21,6 +21,8 @@ files:
     original_filename: S4300113Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f43169b514fb29f4316d9a.jpg
     url: /files/original/14fb29f43169b514fb29f4316d9a.jpg
+    alt:
+      en: "Dusty, parked vehicles including a white Chevrolet sedan with a U.S. Government license plate (G10 3566B), sit amid fallen leaves in a lot near brick buildings with gray shingle roofs."
 geo:
 id: 22757
 item_type: Still Image

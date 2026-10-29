@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-14.jpg
     thumb: /files/thumbnails/14fb29d06c011e14fb29d06c04fb.jpg
     url: /files/original/14fb29d06c011e14fb29d06c04fb.jpg
+    alt:
+      en: "Strapped pallet of bottled water and supplies in foreground, with two Air Force C-5 cargo planes and a military helicopter on the tarmac in the hazy background."
 geo:
 id: 29045
 item_type: Still Image

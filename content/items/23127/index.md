@@ -21,6 +21,8 @@ files:
     original_filename: 09110004delaware.JPG
     thumb: /files/thumbnails/14fb29f174844f14fb29f1748834.jpg
     url: /files/original/14fb29f174844f14fb29f1748834.jpg
+    alt:
+      en: "A large military cargo plane (C-130) sits on an airport tarmac with several trucks and a few people nearby, with a tree line visible in the background."
 geo:
 id: 23127
 item_type: Still Image

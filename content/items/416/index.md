@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0405_abab698262.JPG
     thumb: /files/thumbnails/14fb2a700b263514fb2a700b2a1a.jpg
     url: /files/original/14fb2a700b263514fb2a700b2a1a.jpg
+    alt:
+      en: "Two severely damaged yellow school buses with crushed roofs and mangled bodies sit amid debris and dirt mounds, surrounded by bare, storm-stripped trees under an overcast sky."
 geo:
   address: ''
   lat: 30.3491760941498

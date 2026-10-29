@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060-9-25.JPG
     thumb: /files/thumbnails/14fb2a04ed681614fb2a04ed6aad.jpg
     url: /files/original/14fb2a04ed681614fb2a04ed6aad.jpg
+    alt:
+      en: "Aerial view of a flooded industrial facility with collapsed metal buildings, a rusted storage tank, and scattered debris surrounded by floodwater, with a damaged coastal road and stranded boats visible in the background."
 geo:
 id: 20699
 item_type: Still Image

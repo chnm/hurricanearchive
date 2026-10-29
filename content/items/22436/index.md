@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1277Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f675802114fb29f6758406.jpg
     url: /files/original/14fb29f675802114fb29f6758406.jpg
+    alt:
+      en: "A man wearing camouflage clothing and goggles pushed up on his head floats in murky floodwater, supported by a yellow and black inflatable life vest."
 geo:
 id: 22436
 item_type: Still Image

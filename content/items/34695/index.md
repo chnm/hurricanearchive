@@ -20,6 +20,8 @@ files:
     original_filename: 2434810368_6f4eb769a2.
     thumb: /files/thumbnails/14fb29c978802714fb29c9788409.jpg
     url: /files/original/14fb29c978802714fb29c9788409.jpg
+    alt:
+      en: "Remains of a staircase and brick support columns from a destroyed structure, now open to the sky, surrounded by overgrown grass, bare shrubs, and trees."
 geo:
 id: 34695
 item_type: Still Image

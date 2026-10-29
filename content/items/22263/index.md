@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1074Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8908ce314fb29f890ca58.jpg
     url: /files/original/14fb29f8908ce314fb29f890ca58.jpg
+    alt:
+      en: "Silhouetted figures stand near a brick wall topped with barbed wire, looking out at a fog-shrouded house with wind-blown trees, suggesting hurricane conditions."
 geo:
 id: 22263
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 050907NOLA032RWlg_f0a4266693.jpg
     thumb: /files/thumbnails/14fb29cc24d70014fb29cc24dda9.jpg
     url: /files/original/14fb29cc24d70014fb29cc24dda9.jpg
+    alt:
+      en: "Black-and-white photo of a woman standing barefoot in an open doorway of a wood-frame house, with wooden shutters on either side; a \"FOR RENT\" sign and garage/yard sale notices are posted on the siding nearby."
 geo:
 id: 31590
 item_type: Still Image

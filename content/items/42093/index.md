@@ -23,6 +23,8 @@ files:
     original_filename: Wingate_f74008659f.jpg
     thumb: /files/thumbnails/14fb29c35741aa14fb29c3574c83.jpg
     url: /files/original/14fb29c35741aa14fb29c3574c83.jpg
+    alt:
+      en: "A two-story wood-frame house stands elevated on piers amid a cleared, debris-strewn lot, with a smaller house and empty street in the foreground under a clear sky."
 geo:
   address: ''
   lat: 30.01876

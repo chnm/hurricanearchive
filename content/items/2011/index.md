@@ -26,6 +26,8 @@ files:
     original_filename: DSCF3330_95e16062da.JPG
     thumb: /files/thumbnails/14fb2a6dbca81a14fb2a6dbcac09.jpg
     url: /files/original/14fb2a6dbca81a14fb2a6dbcac09.jpg
+    alt:
+      en: "A nativity scene with a blue FEMA tarp as its roof and a hand-lettered \"U LOOT WE SHOOT\" sign, set on a hay-covered porch decorated with wreaths, garland, and candy-striped columns."
 geo:
   address: ''
   lat: 29.9512905837533

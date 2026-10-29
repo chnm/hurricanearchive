@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0150-9-25.JPG
     thumb: /files/thumbnails/14fb2a0178705414fb2a0178742b.jpg
     url: /files/original/14fb2a0178705414fb2a0178742b.jpg
+    alt:
+      en: "Aerial view of storm-damaged land with widespread flooding, scattered debris, a collapsed metal-framed structure, downed trees, and brick rubble near a paved path and roadway."
 geo:
 id: 20930
 item_type: Still Image

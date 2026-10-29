@@ -24,6 +24,8 @@ files:
     original_filename: P1010067.JPG
     thumb: /files/thumbnails/14fb2a5a8d835f14fb2a5a8d869a.jpg
     url: /files/original/14fb2a5a8d835f14fb2a5a8d869a.jpg
+    alt:
+      en: "A street lined with piles of debris—refrigerators, a couch, and trash bags—stacked along the curb, with a blue \"Lavender\" street sign visible in the background."
 geo:
 id: 3632
 item_type: Still Image

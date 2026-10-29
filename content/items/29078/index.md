@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0623.JPG
     thumb: /files/thumbnails/14fb29d03aa98414fb29d03af797.jpg
     url: /files/original/14fb29d03aa98414fb29d03af797.jpg
+    alt:
+      en: "A small house has collapsed off its foundation, tilting sharply to one side with its porch columns askew and roof shingles torn, debris scattered beneath it near a street curb."
 geo:
 id: 29078
 item_type: Still Image

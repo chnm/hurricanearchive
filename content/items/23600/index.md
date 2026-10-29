@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1600hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee9056a014fb29ee905a7e.jpg
     url: /files/original/14fb29ee9056a014fb29ee905a7e.jpg
+    alt:
+      en: "High-rise Hyatt hotel with a curved glass facade showing extensive storm damage—many windows broken, with curtains and fabric blowing out of shattered openings across multiple floors."
 geo:
 id: 23600
 item_type: Still Image

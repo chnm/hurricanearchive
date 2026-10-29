@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea55b42214fb29ea55b807.jpg
     url: /files/original/14fb29ea55b42214fb29ea55b807.jpg
+    alt:
+      en: "Military front-loader tractor moves through a flooded, mud-covered street past damaged homes, a boat lodged in a rooftop, and uprooted trees; a partial street sign reading \"ST\" is visible in the foreground."
 geo:
 id: 24132
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Sleeping at Jack BrksJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f3bd67a914fb29f3bd6b8d.jpg
     url: /files/original/14fb29f3bd67a914fb29f3bd6b8d.jpg
+    alt:
+      en: "A row of cots lines a hallway, piled with camouflage gear, bags, and bedding; a desert-pattern jacket hangs on the partition wall beneath a framed painting."
 geo:
 id: 22795
 item_type: Still Image

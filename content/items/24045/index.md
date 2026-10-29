@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 1600neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29eb40b53b14fb29eb40b921.jpg
     url: /files/original/14fb29eb40b53b14fb29eb40b921.jpg
+    alt:
+      en: "Storm-damaged high-rise hotel with a partial \"HYATT\" sign visible atop, its curved glass facade covered in torn curtains and debris fluttering from broken windows."
 geo:
 id: 24045
 item_type: Still Image

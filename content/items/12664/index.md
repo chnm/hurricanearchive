@@ -21,6 +21,8 @@ files:
     original_filename: 100-12_350a37cdab.jpg
     thumb: /files/thumbnails/14fb2a21f73b0114fb2a21f73ee7.jpg
     url: /files/original/14fb2a21f73b0114fb2a21f73ee7.jpg
+    alt:
+      en: "A group of children and a baby pose together in a wood-paneled room, with some smiling and others holding each other close for the photo."
 geo:
 id: 12664
 item_type: Still Image

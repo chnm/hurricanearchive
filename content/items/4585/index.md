@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0011.JPG
     thumb: /files/thumbnails/14fb2a56ee2ba814fb2a56ee2f8f.jpg
     url: /files/original/14fb2a56ee2ba814fb2a56ee2f8f.jpg
+    alt:
+      en: "Debris-strewn lot with stripped, broken trees and scattered wreckage, a puddle reflecting the cloudy sky in the foreground, and open water visible in the distance."
 geo:
 id: 4585
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.067.JPG
     thumb: /files/thumbnails/14fb29dcc16f4314fb29dcc1757c.jpg
     url: /files/original/14fb29dcc16f4314fb29dcc1757c.jpg
+    alt:
+      en: "Damaged brick building with blown-out windows, exposed roof beams, and a partially collapsed red shingled roof; a sign reading \"...SH FOR YOUR CAR\" is visible below."
 geo:
 id: 25674
 item_type: Still Image

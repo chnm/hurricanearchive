@@ -24,6 +24,8 @@ files:
     original_filename: SF shrimp boat 2_f384d4a399.2.jpg
     thumb: /files/thumbnails/14fb29d78b0b8b14fb29d78b0f70.jpg
     url: /files/original/14fb29d78b0b8b14fb29d78b0f70.jpg
+    alt:
+      en: "Vintage photo of five children sitting in a round above-ground pool, smiling and waving at the camera, with a hedge visible in the background."
 geo:
   address: ''
   lat: 29.87876

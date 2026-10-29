@@ -21,6 +21,8 @@ files:
     original_filename: JB parking lotJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4edfbe914fb29f4edffce.jpg
     url: /files/original/14fb29f4edfbe914fb29f4edffce.jpg
+    alt:
+      en: "Floodwaters submerge a parking lot, with only the roofs of vehicles visible above the murky water, set against a partially flooded building in the background."
 geo:
 id: 22633
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 131cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e1d958b14fb2a0e1d9d46.jpg
     url: /files/original/14fb2a0e1d958b14fb2a0e1d9d46.jpg
+    alt:
+      en: "A military helicopter sits parked on pavement with several uniformed personnel in camouflage and flight suits standing near its open side door, engaged in conversation."
 geo:
 id: 19744
 item_type: Still Image

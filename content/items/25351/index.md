@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2078superdome.JPG
     thumb: /files/thumbnails/14fb29dec717dd14fb29dec7227d.jpg
     url: /files/original/14fb29dec717dd14fb29dec7227d.jpg
+    alt:
+      en: "Military personnel in camouflage and flight suits assist an elderly man in a plaid shirt and shorts across a wet pavement area, one carrying his blue duffel bag, with an elevated roadway in the background."
 geo:
 id: 25351
 item_type: Still Image

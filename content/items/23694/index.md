@@ -21,6 +21,8 @@ files:
     original_filename: P1010135empireS&R.JPG
     thumb: /files/thumbnails/14fb29edd4067914fb29edd40a59.jpg
     url: /files/original/14fb29edd4067914fb29edd40a59.jpg
+    alt:
+      en: "Flooded aftermath of hurricane damage with a submerged pickup truck, scattered debris, collapsed structures, and downed power lines, with a brick house and trees in the background."
 geo:
 id: 23694
 item_type: Still Image

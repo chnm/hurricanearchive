@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi532.JPG
     thumb: /files/thumbnails/14fb2a225baa7314fb2a225bae8a.jpg
     url: /files/original/14fb2a225baa7314fb2a225bae8a.jpg
+    alt:
+      en: "A crowd gathers outside a brick school building, with microphones extended toward a man in a light blue shirt speaking to children in white T-shirts, a school bus visible in the background."
 geo:
 id: 12009
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 287-J2.jpg
     thumb: /files/thumbnails/14fb29fad7988914fb29fad79c6e.jpg
     url: /files/original/14fb29fad7988914fb29fad79c6e.jpg
+    alt:
+      en: "View from an elevated highway overpass with concrete barriers, overlooking a city skyline of mid-rise buildings under a clear blue sky, with scattered debris on the roadway."
 geo:
 id: 21956
 item_type: Still Image

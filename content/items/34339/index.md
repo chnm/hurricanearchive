@@ -27,6 +27,8 @@ files:
     original_filename: 2380072179_66de27c2b9.
     thumb: /files/thumbnails/14fb29ca4a3d4414fb29ca4a4135.jpg
     url: /files/original/14fb29ca4a3d4414fb29ca4a4135.jpg
+    alt:
+      en: "A burned, mud-caked Jeep Grand Cherokee sits on dirt in front of a Winnebago RV and a storage shed, with a palm tree between them under an overcast sky."
 geo:
   address: ''
   lat: 30.22437

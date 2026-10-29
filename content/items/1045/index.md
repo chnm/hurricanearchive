@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28396.jpg
     thumb: /files/thumbnails/14fb2a6b47c47314fb2a6b47c859.jpg
     url: /files/original/14fb2a6b47c47314fb2a6b47c859.jpg
+    alt:
+      en: "A man in a cap and \"Key West\" t-shirt stands on a wooden dock beside the shrimp boat \"Miss Brittany,\" its hull lettered in gold against navy blue."
 geo:
   address: ''
   lat: 0.0

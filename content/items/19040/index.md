@@ -21,6 +21,8 @@ files:
     original_filename: DSC00687.JPG
     thumb: /files/thumbnails/14fb2a1389ff3614fb2a138a031b.jpg
     url: /files/original/14fb2a1389ff3614fb2a138a031b.jpg
+    alt:
+      en: "A military medical helicopter marked \"1745\" with red cross emblems hovers low above a parking area, with a white SUV and trees visible below; a date stamp reads \"SEP 16 2004.\""
 geo:
 id: 19040
 item_type: Still Image

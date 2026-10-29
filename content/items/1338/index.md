@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27990.jpg
     thumb: /files/thumbnails/14fb2a69736d9714fb2a6973717e.jpg
     url: /files/original/14fb2a69736d9714fb2a6973717e.jpg
+    alt:
+      en: "White statue of St. Frances Xavier Cabrini on a stone pedestal with inscription, standing before a bare tree, surrounded by dry grass and overgrown vegetation under a clear sky."
 geo:
   address: ''
   lat: 0.0

@@ -26,6 +26,8 @@ files:
     original_filename: 019_17A_b3daa82855.jpg
     thumb: /files/thumbnails/14fb2a6f3149ca14fb2a6f314daf.jpg
     url: /files/original/14fb2a6f3149ca14fb2a6f314daf.jpg
+    alt:
+      en: "Bare, storm-damaged tree branches with scraps of torn fabric or debris caught in them, set against a multi-story building facade with a grid-like window pattern and interior ceiling visible."
 geo:
   address: ''
   lat: 29.951067479461596

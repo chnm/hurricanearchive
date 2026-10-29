@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0115-21.JPG
     thumb: /files/thumbnails/14fb29e6c19c1b14fb29e6c1aa91.jpg
     url: /files/original/14fb29e6c19c1b14fb29e6c1aa91.jpg
+    alt:
+      en: "Three men in camouflage military uniforms converse with a woman in a red top in an indoor setting, with another person in a plaid shirt visible in the background."
 geo:
 id: 24553
 item_type: Still Image

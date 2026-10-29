@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28581.jpg
     thumb: /files/thumbnails/14fb2a6b5bfd6114fb2a6b5e6948.jpg
     url: /files/original/14fb2a6b5bfd6114fb2a6b5e6948.jpg
+    alt:
+      en: "Rows of large white sandbags with looped straps cover a gravel area near Lake Pontchartrain, with cranes and water visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

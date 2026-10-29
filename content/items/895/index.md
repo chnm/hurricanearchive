@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28394.jpg
     thumb: /files/thumbnails/14fb2a6c66819b14fb2a6c668581.jpg
     url: /files/original/14fb2a6c66819b14fb2a6c668581.jpg
+    alt:
+      en: "Two men stand beneath green fishing nets on a boat deck, one holding a clipboard and the other a round timing device and coiled stainless steel fish release, with boats visible in the background."
 geo:
   address: ''
   lat: 0.0

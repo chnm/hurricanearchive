@@ -21,6 +21,8 @@ files:
     original_filename: 051207NOLA092RWlg_683d211e8e.jpg
     thumb: /files/thumbnails/14fb29cc1220d214fb29cc1224b0.jpg
     url: /files/original/14fb29cc1220d214fb29cc1224b0.jpg
+    alt:
+      en: "Black-and-white photo of a woman in a straw hat seated between large stone columns at Gallier Hall, head bowed, during Alvin Batiste's funeral."
 geo:
 id: 31604
 item_type: Still Image

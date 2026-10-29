@@ -21,6 +21,8 @@ files:
     original_filename: More Jackson Barracks 4Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4e1f6e814fb29f4e1fa58.jpg
     url: /files/original/14fb29f4e1f6e814fb29f4e1fa58.jpg
+    alt:
+      en: "Aerial view of deep floodwaters surrounding a building, with submerged vehicles (only red roofs visible) and a partially submerged storage container floating among debris."
 geo:
 id: 22645
 item_type: Still Image

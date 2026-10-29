@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (28).JPG
     thumb: /files/thumbnails/14fb2a5d03212614fb2a5d03251f.jpg
     url: /files/original/14fb2a5d03212614fb2a5d03251f.jpg
+    alt:
+      en: "Thick layer of dried, cracked mud covers a residential street and curb, with a house's siding and steps visible in the background amid scattered debris."
 geo:
 id: 3264
 item_type: Still Image

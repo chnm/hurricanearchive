@@ -21,6 +21,8 @@ files:
     original_filename: begin north look2.jpg
     thumb: /files/thumbnails/14fb2a2096b5ea14fb2a2096b9ce.jpg
     url: /files/original/14fb2a2096b5ea14fb2a2096b9ce.jpg
+    alt:
+      en: "Water tower labeled \"Gulfport\" stands near a row of buildings and utility poles along a street, with a grassy field, railroad tracks, and cloudy sky in this sideways-oriented photo."
 geo:
 id: 13067
 item_type: Still Image

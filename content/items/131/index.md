@@ -26,6 +26,8 @@ files:
     original_filename: Picture_042_9f6d732c4d.jpg
     thumb: /files/thumbnails/14fb2a70e7d95d14fb2a70e7dd40.jpg
     url: /files/original/14fb2a70e7d95d14fb2a70e7dd40.jpg
+    alt:
+      en: "A person wearing an orange life vest with a newspaper headline reading \"New Orleans Proud to swim home\" taped to the back, surrounded by a crowd at night."
 geo:
   address: ''
   lat: 0.0

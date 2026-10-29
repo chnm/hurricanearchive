@@ -26,6 +26,8 @@ files:
     original_filename: StMaurice1_e2ad767cd9.jpg
     thumb: /files/thumbnails/14fb2a6e7be4b914fb2a6e7be9ba.jpg
     url: /files/original/14fb2a6e7be4b914fb2a6e7be9ba.jpg
+    alt:
+      en: "White stucco church with arched windows, a decorative gable, and a side arcade of arches, standing beside a red brick building with a utility pole and wires in front."
 geo:
   address: ''
   lat: 0.0

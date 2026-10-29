@@ -21,6 +21,8 @@ files:
     original_filename: 1952_e1f022b354.8.20plt18.jpg
     thumb: /files/thumbnails/14fb29ca6b7b7c14fb29ca6b7f3f.jpg
     url: /files/original/14fb29ca6b7b7c14fb29ca6b7f3f.jpg
+    alt:
+      en: "Detailed 1883 city map plate labeled \"Plate 18, 3rd Dist. New Orleans,\" showing a grid of numbered streets and blocks with the Mississippi River along the right edge."
 geo:
   address: St Roch Avenue
   lat: 29.97657

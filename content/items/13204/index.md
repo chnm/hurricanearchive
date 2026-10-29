@@ -21,6 +21,8 @@ files:
     original_filename: 198 on the way to beaumont.jpg
     thumb: /files/thumbnails/14fb2a1f59821314fb2a1f5985f6.jpg
     url: /files/original/14fb2a1f59821314fb2a1f5985f6.jpg
+    alt:
+      en: "Empty highway under heavy gray clouds, viewed through a rain-speckled windshield, with a speed limit sign (70 day/65 night) and trees lining the right shoulder."
 geo:
 id: 13204
 item_type: Still Image

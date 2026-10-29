@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094iwojima.JPG
     thumb: /files/thumbnails/14fb2a11659bcc14fb2a11659fb2.jpg
     url: /files/original/14fb2a11659bcc14fb2a11659fb2.jpg
+    alt:
+      en: "Aerial view of a downtown skyline along a river bend, with a large steel truss bridge in the foreground, docked ships, warehouse buildings, and a partly cloudy sky."
 geo:
 id: 19272
 item_type: Still Image

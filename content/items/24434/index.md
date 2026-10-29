@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0093H.JPG
     thumb: /files/thumbnails/14fb29e7b7a29714fb29e7b7a67d.jpg
     url: /files/original/14fb29e7b7a29714fb29e7b7a67d.jpg
+    alt:
+      en: "A man in military camouflage fatigues leads an exercise with a woman doing push-ups on a wooden floor, while another woman in a Hooters uniform claps nearby, with onlookers in the background under a tent structure."
 geo:
 id: 24434
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.100.JPG
     thumb: /files/thumbnails/14fb29dce9236614fb29dce9274a.jpg
     url: /files/original/14fb29dce9236614fb29dce9274a.jpg
+    alt:
+      en: "Damaged single-story house with a torn roof, broken windows, and collapsed siding; a board on the exterior is spray-painted \"FIDELITY FLOOD 9/05\" with a frowning face, surrounded by debris and overgrown grass."
 geo:
 id: 25648
 item_type: Still Image

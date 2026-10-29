@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0212.JPG
     thumb: /files/thumbnails/14fb2a00dee42a14fb2a00deeca1.jpg
     url: /files/original/14fb2a00dee42a14fb2a00deeca1.jpg
+    alt:
+      en: "Two servicemen in flight helmets and green flight suits with tactical vests stand on a grassy area, connected by cables, with trees and a building visible in the background."
 geo:
 id: 21050
 item_type: Still Image

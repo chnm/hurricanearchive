@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 101cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e3640e514fb2a0e3644cb.jpg
     url: /files/original/14fb2a0e3640e514fb2a0e3644cb.jpg
+    alt:
+      en: "Debris-strewn street corner with wilted plants around a utility pole, a coated sidewalk covered in dried mud, and modest houses lining the road under power lines."
 geo:
 id: 19714
 item_type: Still Image

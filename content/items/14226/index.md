@@ -21,6 +21,8 @@ files:
     original_filename: relief2.JPG
     thumb: /files/thumbnails/14fb2a1a7485cb14fb2a1a7489b0.jpg
     url: /files/original/14fb2a1a7485cb14fb2a1a7489b0.jpg
+    alt:
+      en: "A man in military fatigues and a civilian unload bottled water and supplies from a white Chevrolet pickup truck, with school buses, parked vehicles, and a tall glass skyscraper visible in the background."
 geo:
   address: ''
   lat: 0.0

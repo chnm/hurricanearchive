@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-12-11A.jpg
     thumb: /files/thumbnails/14fb29e84ec4d414fb29e84ec8c3.jpg
     url: /files/original/14fb29e84ec4d414fb29e84ec8c3.jpg
+    alt:
+      en: "A parking lot submerged in murky floodwater with several vehicles partially underwater, as a person's outstretched hand and arm appear in the foreground near a tree."
 geo:
 id: 24391
 item_type: Still Image

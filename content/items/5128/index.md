@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0490.JPG
     thumb: /files/thumbnails/14fb2a53d0322d14fb2a53d03609.jpg
     url: /files/original/14fb2a53d0322d14fb2a53d03609.jpg
+    alt:
+      en: "Close-up of a damaged house corner with pink siding and peeling trim, exposing bare wood, with a yellow tape measure stretched along the base of the wall onto the ground."
 geo:
 id: 5128
 item_type: Still Image

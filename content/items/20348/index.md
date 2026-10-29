@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004-20.JPG
     thumb: /files/thumbnails/14fb2a0893bc3614fb2a0893c021.jpg
     url: /files/original/14fb2a0893bc3614fb2a0893c021.jpg
+    alt:
+      en: "A uniformed service member holds a telephone handset while typing on a laptop at a desk, with other personnel working at computers in a large room behind him."
 geo:
 id: 20348
 item_type: Still Image

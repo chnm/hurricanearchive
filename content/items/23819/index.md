@@ -21,6 +21,8 @@ files:
     original_filename: S4300158stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf48a3f14fb29ecf48e25.jpg
     url: /files/original/14fb29ecf48a3f14fb29ecf48e25.jpg
+    alt:
+      en: "Blurry photo of a house with vinyl siding and a window flanked by dark shutters, showing water-damaged lower panels; a bare dirt yard and sidewalk are visible in the foreground."
 geo:
 id: 23819
 item_type: Still Image

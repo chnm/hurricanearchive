@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1694superdome.JPG
     thumb: /files/thumbnails/14fb29e244d65d14fb29e244ddbc.jpg
     url: /files/original/14fb29e244d65d14fb29e244ddbc.jpg
+    alt:
+      en: "Military police and soldiers in camouflage uniforms stand in formation outside a large hangar-like structure, with armored vehicles and trucks visible behind them."
 geo:
 id: 25107
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018H.JPG
     thumb: /files/thumbnails/14fb2a070a643b14fb2a070a6820.jpg
     url: /files/original/14fb2a070a643b14fb2a070a6820.jpg
+    alt:
+      en: "Two people play air hockey indoors; a man in an orange \"Oklahoma State\" t-shirt gestures while a woman in a Hooters tank top reading \"Siegen Lane, Baton Rouge\" holds the red paddle."
 geo:
 id: 20462
 item_type: Still Image

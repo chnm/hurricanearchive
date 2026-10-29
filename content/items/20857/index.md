@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0134-16.JPG
     thumb: /files/thumbnails/14fb2a02c163aa14fb2a02c1678e.jpg
     url: /files/original/14fb2a02c163aa14fb2a02c1678e.jpg
+    alt:
+      en: "Aerial view of a large industrial barge or platform with crane arms extending over calm water, surrounded by debris and reflections on the surface."
 geo:
 id: 20857
 item_type: Still Image

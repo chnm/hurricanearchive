@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 066cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e6ec99814fb2a0e6ecd7f.jpg
     url: /files/original/14fb2a0e6ec99814fb2a0e6ecd7f.jpg
+    alt:
+      en: "Storm debris including scattered insulation, torn roofing material, and a snapped tree trunk litters a parking lot in front of a building with a red metal roof lined with palm trees."
 geo:
 id: 19679
 item_type: Still Image

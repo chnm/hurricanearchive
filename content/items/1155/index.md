@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28728.jpg
     thumb: /files/thumbnails/14fb2a6ac0280914fb2a6ac02be8.jpg
     url: /files/original/14fb2a6ac0280914fb2a6ac02be8.jpg
+    alt:
+      en: "A man in a white shirt with a stethoscope around his neck feeds a white horse from a small bottle, with the horse secured by a red halter and lead rope in a metal-fenced stall."
 geo:
   address: ''
   lat: 0.0

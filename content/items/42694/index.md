@@ -23,6 +23,8 @@ files:
     original_filename: Scan_c1705de02c.jpeg
     thumb: /files/thumbnails/14fb29c2898e5b14fb29c2899241.jpg
     url: /files/original/14fb29c2898e5b14fb29c2899241.jpg
+    alt:
+      en: "Two women stand in front of a brick ranch-style house with a tiled roof, decorative wrought-iron porch railings, and trimmed shrubs lining the front walkway."
 geo:
   address: ''
   lat: 30.0086

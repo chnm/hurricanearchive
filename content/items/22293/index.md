@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1104Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7e81b0014fb29f7e81ee5.jpg
     url: /files/original/14fb29f7e81b0014fb29f7e81ee5.jpg
+    alt:
+      en: "Floodwaters submerge a street in front of a brick building, with debris including a red cooler and blue container floating in the murky water as large trees loom overhead in heavy rain."
 geo:
 id: 22293
 item_type: Still Image

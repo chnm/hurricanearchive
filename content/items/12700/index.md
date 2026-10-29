@@ -21,6 +21,8 @@ files:
     original_filename: 102-18_77cc9c7963.jpg
     thumb: /files/thumbnails/14fb2a21b0941214fb2a21b0a520.jpg
     url: /files/original/14fb2a21b0941214fb2a21b0a520.jpg
+    alt:
+      en: "Woman with curly hair wears a pink button-up shirt, seated near tambourines on a table with a blue blanket, with palm fronds visible in the background."
 geo:
 id: 12700
 item_type: Still Image

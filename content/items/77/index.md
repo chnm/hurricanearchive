@@ -26,6 +26,8 @@ files:
     original_filename: 100_5741_291a68e6e0.JPG
     thumb: /files/thumbnails/14fb2a711e55c714fb2a711e59a0.jpg
     url: /files/original/14fb2a711e55c714fb2a711e59a0.jpg
+    alt:
+      en: "Rubble and scorched debris cover a leveled city block, with several brick chimneys standing amid the wreckage and a large building visible in the background; dated 11/03/2005."
 geo:
   address: ''
   lat: 30.005653

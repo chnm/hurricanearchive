@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (6).JPG
     thumb: /files/thumbnails/14fb2a5e0386da14fb2a5e038abf.jpg
     url: /files/original/14fb2a5e0386da14fb2a5e038abf.jpg
+    alt:
+      en: "A soldier in woodland camouflage uniform and cap adjusts or secures the tan canvas fabric of a large tent, with straps and seams visible along the tent's side."
 geo:
 id: 3101
 item_type: Still Image

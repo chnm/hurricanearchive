@@ -21,6 +21,8 @@ files:
     original_filename: S4300177stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece4f4a814fb29ece4f886.jpg
     url: /files/original/14fb29ece4f4a814fb29ece4f886.jpg
+    alt:
+      en: "Blurry, motion-shot photo of a red pickup truck with an American flag decal and a Ford emblem on its tailgate, parked beside a gray vehicle, with a debris-covered structure and brick building in the background."
 geo:
 id: 23838
 item_type: Still Image

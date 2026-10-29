@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2164rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d0d68114fb2a13d0da5b.jpg
     url: /files/original/14fb2a13d0d68114fb2a13d0da5b.jpg
+    alt:
+      en: "Aerial view of a rescue worker in a flight helmet and harness being lowered via hoist cable from a helicopter, with a blue duffel bag labeled \"RUTOGEL\" and floodwaters visible below."
 geo:
 id: 18999
 item_type: Still Image

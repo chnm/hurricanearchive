@@ -21,6 +21,8 @@ files:
     original_filename: 100_0106.JPG
     thumb: /files/thumbnails/14fb2a59646c7c14fb2a59647074.jpg
     url: /files/original/14fb2a59646c7c14fb2a59647074.jpg
+    alt:
+      en: "Gravel parking lot strewn with debris and scattered trash, with parked vehicles including a red pickup truck, people walking nearby, and a multi-story building labeled \"Kirschman Hall\" in the background."
 geo:
 id: 3819
 item_type: Still Image

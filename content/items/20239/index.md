@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140013.JPG
     thumb: /files/thumbnails/14fb2a0a816c9614fb2a0a81707d.jpg
     url: /files/original/14fb2a0a816c9614fb2a0a81707d.jpg
+    alt:
+      en: "Abandoned Spur gas station with four fuel pumps under a canopy, debris and cardboard boxes scattered on the ground, with vehicles parked near the store entrance and an \"Auto Zone\" sign visible on the building behind."
 geo:
 id: 20239
 item_type: Still Image

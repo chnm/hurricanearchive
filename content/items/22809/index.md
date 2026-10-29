@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0179industrialcanal.JPG
     thumb: /files/thumbnails/14fb29f36ee3ef14fb29f36ee79e.jpg
     url: /files/original/14fb29f36ee3ef14fb29f36ee79e.jpg
+    alt:
+      en: "Aerial view of an industrial canal with a vertical-lift railroad bridge, a tugboat and barge on the water, levee walls, railroad tracks, and a residential neighborhood in the background."
 geo:
 id: 22809
 item_type: Still Image

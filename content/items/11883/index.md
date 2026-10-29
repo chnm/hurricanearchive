@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 005.jpg
     thumb: /files/thumbnails/14fb2a22e88a1d14fb2a22e88e03.jpg
     url: /files/original/14fb2a22e88a1d14fb2a22e88e03.jpg
+    alt:
+      en: "Several shrimp boats lie grounded and listing along a tree-lined riverbank, likely driven ashore by storm surge; timestamp \"2005/09/24\" appears in the corner."
 geo:
 id: 11883
 item_type: Still Image

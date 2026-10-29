@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0055-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a05202cff14fb2a052038aa.jpg
     url: /files/original/14fb2a05202cff14fb2a052038aa.jpg
+    alt:
+      en: "A single-story house with a white porch railing sits surrounded by floodwater that reaches its windowsills, with a red pickup truck partially submerged nearby under a large tree."
 geo:
 id: 20676
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: KR 1_239d9a5744.jpg
     thumb: /files/thumbnails/14fb29d87d0b1e14fb29d87d0f02.jpg
     url: /files/original/14fb29d87d0b1e14fb29d87d0f02.jpg
+    alt:
+      en: "Formal portrait of an elderly couple, Lionel and Lucille Johnson, against a gray backdrop; she wears a cream hat and tan suit, he wears a brown suit with striped tie."
 geo:
   address: ''
   lat: 29.91685

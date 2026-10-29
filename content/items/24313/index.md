@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-06-4A.jpg
     thumb: /files/thumbnails/14fb29e8c3f88014fb29e8c3ffbd.jpg
     url: /files/original/14fb29e8c3f88014fb29e8c3ffbd.jpg
+    alt:
+      en: "Aerial view of a wooded suburban neighborhood with scattered houses, a golf course and pond, bordered by a divided highway with light traffic, under a hazy sky."
 geo:
 id: 24313
 item_type: Still Image

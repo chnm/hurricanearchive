@@ -21,6 +21,8 @@ files:
     original_filename: aerials136.jpg
     thumb: /files/thumbnails/14fb2a1a09819a14fb2a1a098578.jpg
     url: /files/original/14fb2a1a09819a14fb2a1a098578.jpg
+    alt:
+      en: "Aerial view of a waterfront property with concrete slabs and skeletal wood framing remaining after structures were destroyed, surrounded by scorched trees and a dock extending into the water."
 geo:
 id: 14294
 item_type: Still Image

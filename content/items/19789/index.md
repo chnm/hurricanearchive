@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 176cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dcecea414fb2a0dced28a.jpg
     url: /files/original/14fb2a0dcecea414fb2a0dced28a.jpg
+    alt:
+      en: "A high-rise glass office building with numerous shattered and boarded-up windows stands beside a Hyatt hotel sign, with a narrow tree-lined street between the two damaged structures."
 geo:
 id: 19789
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 54.jpg
     thumb: /files/thumbnails/14fb2a604effeb14fb2a604f03c4.jpg
     url: /files/original/14fb2a604effeb14fb2a604f03c4.jpg
+    alt:
+      en: "Child's marker drawing of a church with a domed roof, cross on top, arched windows, and two house-shaped side structures each topped with a cross; signed \"Devin\" with \"11-age\" written below."
 geo:
 id: 2759
 item_type: Still Image

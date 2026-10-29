@@ -21,6 +21,8 @@ files:
     original_filename: Picture 020engineers.jpg
     thumb: /files/thumbnails/14fb2a0fe4a98614fb2a0fe4ad6b.jpg
     url: /files/original/14fb2a0fe4a98614fb2a0fe4ad6b.jpg
+    alt:
+      en: "Military personnel in camouflage and desert fatigues assist an older woman down porch steps outside a damaged house, with one soldier carrying a plastic bag of belongings."
 geo:
 id: 19460
 item_type: Still Image

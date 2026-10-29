@@ -21,6 +21,8 @@ files:
     original_filename: waterfall1.jpg
     thumb: /files/thumbnails/14fb2a2014194214fb2a201420dc.jpg
     url: /files/original/14fb2a2014194214fb2a201420dc.jpg
+    alt:
+      en: "Rain or water droplets splatter against a camera lens in front of a dark, debris-covered mound, with a light-colored beam or railing crossing the lower portion of the frame."
 geo:
 id: 13142
 item_type: Still Image

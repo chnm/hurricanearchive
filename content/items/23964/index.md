@@ -21,6 +21,8 @@ files:
     original_filename: 09270002plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec39ea9314fb29ec39ee79.jpg
     url: /files/original/14fb29ec39ea9314fb29ec39ee79.jpg
+    alt:
+      en: "An alligator's head and snout, with eyes and nostrils visible, floating at the surface of murky gray water."
 geo:
 id: 23964
 item_type: Still Image

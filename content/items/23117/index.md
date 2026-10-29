@@ -21,6 +21,8 @@ files:
     original_filename: 051003-A-1687S-088CaliforniaNG.jpg
     thumb: /files/thumbnails/14fb29f17d613214fb29f17d6519.jpg
     url: /files/original/14fb29f17d613214fb29f17d6519.jpg
+    alt:
+      en: "A National Guard soldier in camouflage uniform and cap reviews paperwork with an elderly woman seated on a porch, pointing to a document held in a folder."
 geo:
 id: 23117
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Minor-5653_d665504886.jpg
     thumb: /files/thumbnails/14fb2a17152f3914fb2a1715331d.jpg
     url: /files/original/14fb2a17152f3914fb2a1715331d.jpg
+    alt:
+      en: "Black-and-white photo of a grassy field with a marker post in the foreground, leading to a row of small houses and a tall smokestack beneath a hazy sky."
 geo:
 id: 15114
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: tech-working_d6bab978cc.jpg
     thumb: /files/thumbnails/14fb29c597dfda14fb29c597e3b1.jpg
     url: /files/original/14fb29c597dfda14fb29c597e3b1.jpg
+    alt:
+      en: "A technician sits at a desk with multiple monitors displaying weather radar and data, monitoring storm conditions on a multi-screen computer setup."
 geo:
 id: 36389
 item_type: Still Image

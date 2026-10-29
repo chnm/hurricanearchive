@@ -21,6 +21,8 @@ files:
     original_filename: 20050929034.JPG
     thumb: /files/thumbnails/14fb2a1bf7af0314fb2a1bf7b308.jpg
     url: /files/original/14fb2a1bf7af0314fb2a1bf7b308.jpg
+    alt:
+      en: "Stacked cardboard boxes labeled \"Meal, Ready-to-Eat, Individual\" alongside bundled water bottles, with uniformed personnel and a military truck in the background amid storm-damaged trees."
 geo:
   address: ''
   lat: 0.0

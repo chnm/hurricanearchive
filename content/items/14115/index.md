@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0018.JPG
     thumb: /files/thumbnails/14fb2a1bb48e3a14fb2a1bb4921e.jpg
     url: /files/original/14fb2a1bb48e3a14fb2a1bb4921e.jpg
+    alt:
+      en: "Street signs reading \"Vocational Dr\" and \"Industrial\" mark an intersection, with camouflage military trucks parked in a grassy lot beside a \"Cooper Cameron Valves\" building and a red fire hydrant."
 geo:
   address: ''
   lat: 0.0

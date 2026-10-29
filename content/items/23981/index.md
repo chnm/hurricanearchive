@@ -21,6 +21,8 @@ files:
     original_filename: 09270019plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec299a1714fb29ec29a131.jpg
     url: /files/original/14fb29ec299a1714fb29ec29a131.jpg
+    alt:
+      en: "Two abandoned white refrigerated trailers, one marked \"Thermo King,\" lie askew among debris and bare trees beside a damaged road, evidence of storm destruction."
 geo:
 id: 23981
 item_type: Still Image

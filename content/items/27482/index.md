@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6508_25781dfaef.jpg
     thumb: /files/thumbnails/14fb29d4175dda14fb29d41761c0.jpg
     url: /files/original/14fb29d4175dda14fb29d41761c0.jpg
+    alt:
+      en: "A decomposed fish lies atop a textured concrete surface with metal grating, caught in dappled light and shadow, left behind by Hurricane Katrina's floodwaters in New Orleans."
 geo:
   address: ''
   lat: 29.91685

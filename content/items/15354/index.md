@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-21_1dbb8715c7.jpg
     thumb: /files/thumbnails/14fb2a165db41314fb2a165db7f7.jpg
     url: /files/original/14fb2a165db41314fb2a165db7f7.jpg
+    alt:
+      en: "Two children stand against a woven fence backdrop; a boy in a visor and dark vest in front, a girl in a wide-brimmed hat and sundress behind, the photo damaged with scratches and discoloration."
 geo:
 id: 15354
 item_type: Still Image

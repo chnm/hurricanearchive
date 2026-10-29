@@ -21,6 +21,8 @@ files:
     original_filename: 100_0171.JPG
     thumb: /files/thumbnails/14fb2a59216bb814fb2a592173de.jpg
     url: /files/original/14fb2a59216bb814fb2a592173de.jpg
+    alt:
+      en: "Floodwaters submerge a residential street up to the base of tree canopies, with only the top of a stop sign and a streetlamp visible above the water line under an overcast sky."
 geo:
 id: 3878
 item_type: Still Image

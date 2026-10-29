@@ -25,6 +25,8 @@ files:
     original_filename: 158855308_516f91a7b1.jpg
     thumb: /files/thumbnails/14fb29d1fb4fe314fb29d1fb5258.jpg
     url: /files/original/14fb29d1fb4fe314fb29d1fb5258.jpg
+    alt:
+      en: "Damaged brick house with a partially collapsed roof and debris scattered around, \"BAGHDAD\" spray-painted on the exterior wall; a wrecked, crushed car sits in the yard nearby."
 geo:
 id: 28638
 item_type: Still Image

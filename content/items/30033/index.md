@@ -20,6 +20,8 @@ files:
     original_filename: Picture+043_b1a7da332b.jpg
     thumb: /files/thumbnails/14fb29cdc67ceb14fb29cdc68ab1.jpg
     url: /files/original/14fb29cdc67ceb14fb29cdc68ab1.jpg
+    alt:
+      en: "Water-damaged kitchen with a grime-coated sink and cabinets, peeling floral wallpaper, and an old water heater, surrounded by debris and collapsed cabinet doors on the floor."
 geo:
 id: 30033
 item_type: Still Image

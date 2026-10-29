@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7418.JPG
     thumb: /files/thumbnails/14fb29ccae80a014fb29ccae83e1.jpg
     url: /files/original/14fb29ccae80a014fb29ccae83e1.jpg
+    alt:
+      en: "A small wooden shed stands amid storm debris and fallen trees in a wooded yard, with stacked firewood by its door and a person in a purple shirt visible nearby."
 geo:
 id: 30721
 item_type: Still Image

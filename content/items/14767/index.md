@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_ErykahMorris_03_2dc88079f4.jpg
     thumb: /files/thumbnails/14fb2a17d81f5214fb2a17d82338.jpg
     url: /files/original/14fb2a17d81f5214fb2a17d82338.jpg
+    alt:
+      en: "Indoor family photo of a woman and man standing together, the man holding a baby wearing a \"Pistons\" jersey, with a framed painting, stacked CDs, and furniture in the background."
 geo:
 id: 14767
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0072engineers.JPG
     thumb: /files/thumbnails/14fb2a1043e92314fb2a1043ed93.jpg
     url: /files/original/14fb2a1043e92314fb2a1043ed93.jpg
+    alt:
+      en: "A group of military personnel and civilians walk along a debris-strewn dirt road past collapsed buildings and scattered wreckage, with heavy equipment and utility poles visible in the background."
 geo:
 id: 19425
 item_type: Still Image

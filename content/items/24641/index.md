@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036medics.JPG
     thumb: /files/thumbnails/14fb29e5d9633e14fb29e5d96ec3.jpg
     url: /files/original/14fb29e5d9633e14fb29e5d96ec3.jpg
+    alt:
+      en: "Group of young men in tan and camouflage military clothing stand in an indoor room with an American flag, a wall map, and a sign reading \"BE ON TIME! DO YOUR BEST!\" in the background."
 geo:
 id: 24641
 item_type: Still Image

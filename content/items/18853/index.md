@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0070grandisle.JPG
     thumb: /files/thumbnails/14fb2a14e6b88914fb2a14e6bc6f.jpg
     url: /files/original/14fb2a14e6b88914fb2a14e6bc6f.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with scattered homes surrounded by brown floodwater, bare and damaged trees, and a river or bay visible in the background."
 geo:
 id: 18853
 item_type: Still Image

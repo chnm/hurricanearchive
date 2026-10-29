@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0145-21.JPG
     thumb: /files/thumbnails/14fb2a02143e6514fb2a0214424a.jpg
     url: /files/original/14fb2a02143e6514fb2a0214424a.jpg
+    alt:
+      en: "A police officer in a \"POLICE\" t-shirt and a U.S. Army soldier in camouflage uniform talk beside a New Orleans police patrol car, with debris piles and a \"Unlawful to Litter\" sign in the background."
 geo:
 id: 20907
 item_type: Still Image

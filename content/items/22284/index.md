@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1095Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f812a1be14fb29f812b105.jpg
     url: /files/original/14fb29f812a1be14fb29f812b105.jpg
+    alt:
+      en: "Severe storm with heavy rain and high water flooding a street, submerging a vehicle in the foreground, with houses and bare trees barely visible through the downpour."
 geo:
 id: 22284
 item_type: Still Image

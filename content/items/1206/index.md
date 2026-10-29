@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27859.jpg
     thumb: /files/thumbnails/14fb2a6a69073314fb2a6a690b0f.jpg
     url: /files/original/14fb2a6a69073314fb2a6a690b0f.jpg
+    alt:
+      en: "A group of people stand on a residential street, gathered around a man checking something in his hands, with a \"Dead End\" sign visible on a pole in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 29.jpg
     thumb: /files/thumbnails/14fb2a606438ca14fb2a60643ca5.jpg
     url: /files/original/14fb2a606438ca14fb2a60643ca5.jpg
+    alt:
+      en: "A child's crayon drawing depicting a slide, ladder, and swing set in a yard with red tulips, a green tree, clouds, and a sun, signed \"Dominique 12.\""
 geo:
 id: 2731
 item_type: Still Image

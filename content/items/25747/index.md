@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-military2_a25682cf02.jpg
     thumb: /files/thumbnails/14fb29dc6999c714fb29dc699dac.jpg
     url: /files/original/14fb29dc6999c714fb29dc699dac.jpg
+    alt:
+      en: "Aged group portrait of military servicemen in uniform and helmets, arranged in rows, with two kneeling in front holding a unit crest sign and flags reading \"Company, Battalion, Brigade, Platoon, Fort Polk.\""
 geo:
 id: 25747
 item_type: Still Image

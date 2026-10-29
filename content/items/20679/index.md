@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0055H.JPG
     thumb: /files/thumbnails/14fb2a051ae36414fb2a051ae751.jpg
     url: /files/original/14fb2a051ae36414fb2a051ae751.jpg
+    alt:
+      en: "Three people stand at a foosball table in a dim bar, with a woman in a Hooters \"Siegen Lane, Baton Rouge II, LA\" tank top wearing a \"Tianna\" name tag between two men, surrounded by drink cans."
 geo:
 id: 20679
 item_type: Still Image

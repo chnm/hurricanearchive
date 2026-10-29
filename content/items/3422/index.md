@@ -24,6 +24,8 @@ files:
     original_filename: 0003.JPG
     thumb: /files/thumbnails/14fb2a5c0d523f14fb2a5c0d5623.jpg
     url: /files/original/14fb2a5c0d523f14fb2a5c0d5623.jpg
+    alt:
+      en: "Dusk-lit street scene with a row of white fence pillars illuminated by headlights, a two-story house with dark roof, palm trees, power lines, and a deep blue twilight sky."
 geo:
 id: 3422
 item_type: Still Image

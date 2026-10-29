@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0206-21.JPG
     thumb: /files/thumbnails/14fb29ffd2937914fb29ffd2980d.jpg
     url: /files/original/14fb29ffd2937914fb29ffd2980d.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms stand on a sidewalk, one holding a rifle, with trees and a building visible in the background; the photo is oriented sideways."
 geo:
 id: 21245
 item_type: Still Image

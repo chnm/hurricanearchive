@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0276-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fe2cf7e614fb29fe2cfbcf.jpg
     url: /files/original/14fb29fe2cf7e614fb29fe2cfbcf.jpg
+    alt:
+      en: "Aerial view of a dense above-ground cemetery with rows of white and weathered stone tombs and mausoleums, bordered by a street and brick apartment buildings."
 geo:
 id: 21493
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0191-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a0044160e14fb2a004419fd.jpg
     url: /files/original/14fb2a0044160e14fb2a004419fd.jpg
+    alt:
+      en: "Aerial view of a flood-damaged neighborhood with collapsed roofs, scattered debris, and standing water among trees, one intact house remaining amid the wreckage under a hazy sky."
 geo:
 id: 21172
 item_type: Still Image

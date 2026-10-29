@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1080Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f85538a014fb29f8553940.jpg
     url: /files/original/14fb29f85538a014fb29f8553940.jpg
+    alt:
+      en: "Dark flooded interior of a building with water covering the floor, a bright doorway letting in light at the back, and a shadowed, tarp-like shape in the foreground."
 geo:
 id: 22269
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27914.jpg
     thumb: /files/thumbnails/14fb2a68c97d4614fb2a68c9af48.jpg
     url: /files/original/14fb2a68c97d4614fb2a68c9af48.jpg
+    alt:
+      en: "A woman in overalls and yellow rubber gloves stands in a mud-covered room, surveying flood damage amid overturned furniture, a stripped cabinet, and debris-strewn floors."
 geo:
   address: ''
   lat: 0.0

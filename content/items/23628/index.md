@@ -21,6 +21,8 @@ files:
     original_filename: P1010069empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee66fc2714fb29ee67000d.jpg
     url: /files/original/14fb29ee66fc2714fb29ee67000d.jpg
+    alt:
+      en: "Large rusted barges grounded along an earthen levee, with a dirt access road, scattered timber, and construction equipment visible in the distance under a hazy sky."
 geo:
 id: 23628
 item_type: Still Image

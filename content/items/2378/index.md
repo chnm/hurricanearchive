@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C5S_1d96ad5a5e.jpg
     thumb: /files/thumbnails/14fb2a66ceee8c14fb2a66cef251.jpg
     url: /files/original/14fb2a66ceee8c14fb2a66cef251.jpg
+    alt:
+      en: "A Coast Guard petty officer in a boonie hat holds an outboard motor beside a trailer stacked with orange \"US Coast Guard\" boats, with a white Coast Guard truck parked nearby."
 geo:
 id: 2378
 item_type: Still Image

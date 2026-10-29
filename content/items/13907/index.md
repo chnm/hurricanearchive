@@ -20,6 +20,8 @@ files:
     original_filename: 106_106_ef42f37690.JPG
     thumb: /files/thumbnails/14fb2a1c7a859914fb2a1c7a8a5a.jpg
     url: /files/original/14fb2a1c7a859914fb2a1c7a8a5a.jpg
+    alt:
+      en: "Man wearing a hazmat suit, mask, gloves, and baseball cap stands in a doorway beside a wall heavily covered in black mold, with debris scattered on the floor behind him."
 geo:
 id: 13907
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0095-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e7ad7b7514fb29e7ad7f53.jpg
     url: /files/original/14fb29e7ad7b7514fb29e7ad7f53.jpg
+    alt:
+      en: "Cattle walk along a paved road beside extensive floodwater covering fields, with a tilted \"Speed Limit 55\" sign, submerged fence posts, a partly submerged shed, and trees lining the horizon."
 geo:
 id: 24442
 item_type: Still Image

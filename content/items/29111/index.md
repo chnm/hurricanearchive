@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-012-4A.jpg
     thumb: /files/thumbnails/14fb29cf73cfbf14fb29cf73d3a2.jpg
     url: /files/original/14fb29cf73cfbf14fb29cf73d3a2.jpg
+    alt:
+      en: "Aerial view of a flooded urban neighborhood with high-rise and mid-rise buildings surrounded by standing floodwater, extending into a dense residential grid stretching toward the horizon."
 geo:
 id: 29111
 item_type: Still Image

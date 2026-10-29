@@ -21,6 +21,8 @@ files:
     original_filename: P1010160empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed98664014fb29ed986ed1.jpg
     url: /files/original/14fb29ed98664014fb29ed986ed1.jpg
+    alt:
+      en: "Interior view from inside a military vehicle looking through a window toward a flattened, debris-covered landscape with scorched trees, with a uniformed person seated in the foreground."
 geo:
 id: 23719
 item_type: Still Image

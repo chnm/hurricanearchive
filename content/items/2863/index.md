@@ -21,6 +21,8 @@ files:
     original_filename: MVC-020S.JPG
     thumb: /files/thumbnails/14fb2a5fc6c2d014fb2a5fc6ca9b.jpg
     url: /files/original/14fb2a5fc6c2d014fb2a5fc6ca9b.jpg
+    alt:
+      en: "A gray metal workbench with a wooden top holds large pipe wrenches and tools, with a black exhaust pipe rising through the surface against a white wall."
 geo:
 id: 2863
 item_type: Still Image

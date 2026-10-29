@@ -21,6 +21,8 @@ files:
     original_filename: 051207NOLA112RWlg_9e084b5c87.jpg
     thumb: /files/thumbnails/14fb29cc13e1e914fb29cc13e5cf.jpg
     url: /files/original/14fb29cc13e1e914fb29cc13e5cf.jpg
+    alt:
+      en: "Black-and-white photo of a man in a cap and sunglasses sitting on stone steps holding a saxophone, dressed in a shirt, tie, and dark trousers."
 geo:
 id: 31602
 item_type: Still Image

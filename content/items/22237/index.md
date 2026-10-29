@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1044Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8c3a46114fb29f8c3b22d.jpg
     url: /files/original/14fb29f8c3a46114fb29f8c3b22d.jpg
+    alt:
+      en: "Two military helicopters fly low over a grassy field with a running track, near power lines and trees, under an overcast sky."
 geo:
 id: 22237
 item_type: Still Image

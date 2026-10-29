@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2149superdome.JPG
     thumb: /files/thumbnails/14fb29e48aab2414fb29e48ab32c.jpg
     url: /files/original/14fb29e48aab2414fb29e48ab32c.jpg
+    alt:
+      en: "Evacuees rest on cots and wheelchairs under a covered walkway beside floodwaters, as military personnel in a truck and on foot gather near a submerged parking area."
 geo:
 id: 24827
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0161-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a013266d514fb2a01326abb.jpg
     url: /files/original/14fb2a013266d514fb2a01326abb.jpg
+    alt:
+      en: "Flooded landscape with bare, storm-damaged trees draped in Spanish moss standing in standing water, with debris-strewn ground and a concrete slab in the foreground under a hazy sky."
 geo:
 id: 20980
 item_type: Still Image

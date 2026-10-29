@@ -21,6 +21,8 @@ files:
     original_filename: PICT0170Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4ca643114fb29f4ca6815.jpg
     url: /files/original/14fb29f4ca643114fb29f4ca6815.jpg
+    alt:
+      en: "White single-story house with a covered porch displaying a hanging sign reading \"CPT ERICKSON\" and a house number \"20,\" with another white house and trees in the background, dated 09.15.2005."
 geo:
 id: 22674
 item_type: Still Image

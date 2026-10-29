@@ -21,6 +21,8 @@ files:
     original_filename: 261st-2 at TF Pelican J-6 deskgillslong.jpg
     thumb: /files/thumbnails/14fb2a0ea7b58e14fb2a0ea7b96a.jpg
     url: /files/original/14fb2a0ea7b58e14fb2a0ea7b96a.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work at folding tables with laptops in a large hall, with several soldiers standing and conversing in the background near a whiteboard."
 geo:
 id: 19625
 item_type: Still Image

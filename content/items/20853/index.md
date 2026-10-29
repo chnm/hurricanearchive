@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0133-21.JPG
     thumb: /files/thumbnails/14fb2a02d4446014fb2a02d4483d.jpg
     url: /files/original/14fb2a02d4446014fb2a02d4483d.jpg
+    alt:
+      en: "A white Southern-style house with dark shutters sits behind large oak trees, with orange traffic cones and a \"LANE CLOSED AHEAD\" sign set up on the street amid scattered fallen branches and leaves."
 geo:
 id: 20853
 item_type: Still Image

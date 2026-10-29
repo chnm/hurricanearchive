@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7165_81eaffc453.jpg
     thumb: /files/thumbnails/14fb29d350468a14fb29d350529c.jpg
     url: /files/original/14fb29d350468a14fb29d350529c.jpg
+    alt:
+      en: "Children in costumes, including a girl in a pink and zebra-striped outfit and a boy in a green pointed hat, walk along a leaf-strewn sidewalk with adults during a Mardi Gras celebration."
 geo:
   address: ''
   lat: 29.84064

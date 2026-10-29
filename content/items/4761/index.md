@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0271.JPG
     thumb: /files/thumbnails/14fb2a55b721dd14fb2a55b72886.jpg
     url: /files/original/14fb2a55b721dd14fb2a55b72886.jpg
+    alt:
+      en: "A water-stained ceiling with visible cracks and a patched spot, scattered dark marks, and a ceiling fan with white blades mounted in the lower right corner."
 geo:
 id: 4761
 item_type: Still Image

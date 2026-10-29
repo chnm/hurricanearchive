@@ -21,6 +21,8 @@ files:
     original_filename: owlsbaseballteam98_38aa0838d8.jpg
     thumb: /files/thumbnails/14fb29d6632ec914fb29d66332ae.jpg
     url: /files/original/14fb29d6632ec914fb29d66332ae.jpg
+    alt:
+      en: "Yearbook page titled \"Batter Up!\" and \"Owls Take the Field\" showing two team photos of Chalmette High School baseball players in uniform, posed in rows outdoors with coaches."
 geo:
 id: 26895
 item_type: Still Image

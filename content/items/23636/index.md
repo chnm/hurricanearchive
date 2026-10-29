@@ -21,6 +21,8 @@ files:
     original_filename: P1010077empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee28824d14fb29ee288631.jpg
     url: /files/original/14fb29ee28824d14fb29ee288631.jpg
+    alt:
+      en: "Damaged utility poles lean at angles along a roadside lined with utility trucks and cranes, amid storm-damaged buildings and debris under an overcast sky."
 geo:
 id: 23636
 item_type: Still Image

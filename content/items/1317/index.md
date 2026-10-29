@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27965.jpg
     thumb: /files/thumbnails/14fb2a69b68ac314fb2a69b68daf.jpg
     url: /files/original/14fb2a69b68ac314fb2a69b68daf.jpg
+    alt:
+      en: "Cardboard MRE case and several individual meal packets, along with a bottled water, laid out on the hood of a black \"City of Houma\" vehicle."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 117.jpg
     thumb: /files/thumbnails/14fb2a11cd267f14fb2a11cd2e4c.jpg
     url: /files/original/14fb2a11cd267f14fb2a11cd2e4c.jpg
+    alt:
+      en: "A large building with extensive storm damage to its roof, exposing the wooden frame and insulation, while the lower stucco walls remain largely intact; mechanical equipment is enclosed by a chain-link fence in the foreground."
 geo:
 id: 19207
 item_type: Still Image

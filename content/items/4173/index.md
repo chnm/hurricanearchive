@@ -20,6 +20,8 @@ files:
     original_filename: house_with_garbage_still_7b84f2424c_165ed037bb.jpg
     thumb: /files/thumbnails/14fb2a574e841114fb2a574e87d0.jpg
     url: /files/original/14fb2a574e841114fb2a574e87d0.jpg
+    alt:
+      en: "A large pile of debris and discarded household items sits on a grassy curb in front of a brick house; a date stamp in the corner reads \"JUL 25 2006.\""
 geo:
 id: 4173
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (9).jpg
     thumb: /files/thumbnails/14fb2a5c5d3a0614fb2a5c5d3d76.jpg
     url: /files/original/14fb2a5c5d3a0614fb2a5c5d3d76.jpg
+    alt:
+      en: "Collapsed and debris-strewn buildings line a flooded street, with scattered wood, metal rubble, and a bare tree against a partly cloudy sky; utility poles stand amid the wreckage."
 geo:
 id: 3332
 item_type: Still Image

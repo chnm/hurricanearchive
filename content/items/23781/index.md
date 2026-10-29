@@ -21,6 +21,8 @@ files:
     original_filename: PICT0877neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed2485aa14fb29ed24ee7a.jpg
     url: /files/original/14fb29ed2485aa14fb29ed24ee7a.jpg
+    alt:
+      en: "Collapsed, fire-damaged building reduced to rubble and twisted metal sheeting, with brick debris scattered across the ground and bare trees in the background; dated 09.15.2005."
 geo:
 id: 23781
 item_type: Still Image

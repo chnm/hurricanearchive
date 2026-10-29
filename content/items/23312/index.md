@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0045cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29effd83f014fb29effd87d3.jpg
     url: /files/original/14fb29effd83f014fb29effd87d3.jpg
+    alt:
+      en: "Aerial view of a flattened coastal town with scattered debris fields, standing floodwater, and a lone water tower amid cleared lots, bordered by a wide river and marshland."
 geo:
 id: 23312
 item_type: Still Image

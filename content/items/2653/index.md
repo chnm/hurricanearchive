@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9218.jpg
     thumb: /files/thumbnails/14fb2a62ca299814fb2a62ca692b.jpg
     url: /files/original/14fb2a62ca299814fb2a62ca692b.jpg
+    alt:
+      en: "Collapsed roof structure of Wakefield Memorial Methodist Church lies in rubble amid bare trees and debris, with the church's sign visible in the foreground under a clear blue sky."
 geo:
 id: 2653
 item_type: Still Image

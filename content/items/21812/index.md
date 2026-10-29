@@ -21,6 +21,8 @@ files:
     original_filename: katrina 082.jpg
     thumb: /files/thumbnails/14fb29fb825b0014fb29fb825ee6.jpg
     url: /files/original/14fb29fb825b0014fb29fb825ee6.jpg
+    alt:
+      en: "Ransacked store aisle with empty, disordered shelves labeled \"Video Games\" and \"DVD,\" debris and merchandise scattered across the floor; timestamp \"4:57 PM\" overlays the bottom right corner."
 geo:
 id: 21812
 item_type: Still Image

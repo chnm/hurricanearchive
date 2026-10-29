@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27920.jpg
     thumb: /files/thumbnails/14fb2a68809b5014fb2a68809f34.jpg
     url: /files/original/14fb2a68809b5014fb2a68809f34.jpg
+    alt:
+      en: "A bronze lion statue reclining atop a stone pedestal, set against a backdrop of trees and a balustrade fence under a clear sky."
 geo:
   address: ''
   lat: 0.0

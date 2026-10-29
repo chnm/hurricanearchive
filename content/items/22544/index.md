@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1387Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f57d78cc14fb29f57d7cf9.jpg
     url: /files/original/14fb29f57d78cc14fb29f57d7cf9.jpg
+    alt:
+      en: "Two men in a small motorboat, one wearing camouflage and both in orange life vests, pull at a partially submerged camouflage tarp in floodwater near a brick building and fallen trees."
 geo:
 id: 22544
 item_type: Still Image

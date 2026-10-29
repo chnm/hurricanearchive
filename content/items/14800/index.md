@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TameraConey_05_c56b3a875a.jpg
     thumb: /files/thumbnails/14fb2a17a4331114fb2a17a436f7.jpg
     url: /files/original/14fb2a17a4331114fb2a17a436f7.jpg
+    alt:
+      en: "Two grandparents sit on a porch bench holding a young girl and a young boy on their laps, with a brick house, trees, and parked cars visible in the background."
 geo:
 id: 14800
 item_type: Still Image

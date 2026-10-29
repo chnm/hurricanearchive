@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 033cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e95261e14fb2a0e952a03.jpg
     url: /files/original/14fb2a0e95261e14fb2a0e952a03.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand and walk under a large open-sided tent marked \"OPERATIONS,\" with equipment, cardboard boxes, and a wooden crate in the foreground."
 geo:
 id: 19646
 item_type: Still Image

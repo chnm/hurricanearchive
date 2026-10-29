@@ -21,6 +21,8 @@ files:
     original_filename: katrina 079.jpg
     thumb: /files/thumbnails/14fb29fb84c02114fb29fb84c407.jpg
     url: /files/original/14fb29fb84c02114fb29fb84c407.jpg
+    alt:
+      en: "National Guard troops in camouflage uniforms, some armed with rifles, stand atop and around a military vehicle on an elevated roadway, with city high-rises in the background and debris scattered on the pavement."
 geo:
 id: 21809
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20060301_MG_0497.jpg
     thumb: /files/thumbnails/14fb2a63e9871b14fb2a63e98c08.jpg
     url: /files/original/14fb2a63e9871b14fb2a63e98c08.jpg
+    alt:
+      en: "Person in witch costume with green mask, gray wig, and hat labeled \"Katrina,\" holding a cane and carrying a doll labeled \"FEMA-LE\"; sign reads \"I'll Be Back if U Don't Fix the Wetlands,\" skirt draped with fishing net and toy sea creatures."
 geo:
 id: 2628
 item_type: Still Image

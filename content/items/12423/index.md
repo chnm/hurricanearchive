@@ -21,6 +21,8 @@ files:
     original_filename: 100-06_3c12bcad8e.jpg
     thumb: /files/thumbnails/14fb2a22208ded14fb2a222091d1.jpg
     url: /files/original/14fb2a22208ded14fb2a222091d1.jpg
+    alt:
+      en: "Vintage color photo of a large family group in Easter Sunday attire posing outdoors by a car, with a wooden garage and trees in the background."
 geo:
 id: 12423
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 031cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e96a4e014fb2a0e96a8c5.jpg
     url: /files/original/14fb2a0e96a4e014fb2a0e96a8c5.jpg
+    alt:
+      en: "A seated man in camouflage pants and tan t-shirt gestures a \"hang loose\" sign beneath a California Republic flag hung on a military tent, with armed personnel standing nearby."
 geo:
 id: 19644
 item_type: Still Image

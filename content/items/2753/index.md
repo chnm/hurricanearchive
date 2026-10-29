@@ -21,6 +21,8 @@ files:
     original_filename: 49.jpg
     thumb: /files/thumbnails/14fb2a6052af4f14fb2a6052b33e.jpg
     url: /files/original/14fb2a6052af4f14fb2a6052b33e.jpg
+    alt:
+      en: "Child's crayon drawing titled \"Zireya\" featuring two stick figures, a star, colorful confetti dots, a yellow sun, and red outlined stars near blue water at the bottom."
 geo:
 id: 2753
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29f006d48814fb29f006d866.jpg
     url: /files/original/14fb29f006d48814fb29f006d866.jpg
+    alt:
+      en: "A flooded single-story building with water reaching its siding, a police patrol car parked in the driveway, and two officers standing beside it near a tree-lined road."
 geo:
 id: 23302
 item_type: Still Image

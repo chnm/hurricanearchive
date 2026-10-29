@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (1).JPG
     thumb: /files/thumbnails/14fb2a5c5241a214fb2a5c524588.jpg
     url: /files/original/14fb2a5c5241a214fb2a5c524588.jpg
+    alt:
+      en: "Gravel lot with a black sedan and SUV in foreground, a wooden observation tower, trucks, a gravel pile, and storm-damaged trees and houses in the background under a partly cloudy sky."
 geo:
 id: 3343
 item_type: Still Image

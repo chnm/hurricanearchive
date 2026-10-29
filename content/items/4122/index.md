@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0008.JPG
     thumb: /files/thumbnails/14fb2a5797540f14fb2a579757ff.jpg
     url: /files/original/14fb2a5797540f14fb2a579757ff.jpg
+    alt:
+      en: "Row of rusted, derelict fishing vessels, one marked \"КИ-8351,\" stranded on a grassy marsh under a clear blue sky, with a small outbuilding visible in the background."
 geo:
 id: 4122
 item_type: Still Image

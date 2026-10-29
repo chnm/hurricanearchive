@@ -21,6 +21,8 @@ files:
     original_filename: before george tying on.jpg
     thumb: /files/thumbnails/14fb2a20e9512114fb2a20ea0f1a.jpg
     url: /files/original/14fb2a20e9512114fb2a20ea0f1a.jpg
+    alt:
+      en: "Man wearing sunglasses and a dark t-shirt leans over a vehicle's roof rack, securing red fuel containers with cord near two \"SRB\" branded auxiliary lights."
 geo:
 id: 13038
 item_type: Still Image

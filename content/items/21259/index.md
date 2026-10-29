@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0209-21.JPG
     thumb: /files/thumbnails/14fb29ffbacaa714fb29ffbace8e.jpg
     url: /files/original/14fb29ffbacaa714fb29ffbace8e.jpg
+    alt:
+      en: "A soldier in camouflage uniform and black beret stands with arms crossed on a grass field, with empty bleachers and a press box reading \"Newman Michael Lupin Field\" in the background."
 geo:
 id: 21259
 item_type: Still Image

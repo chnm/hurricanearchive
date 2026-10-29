@@ -20,6 +20,8 @@ files:
     original_filename: souvenier_city_sign_giltport_b2f1996b7c_f8378990b0.jpg
     thumb: /files/thumbnails/14fb2a574f00e414fb2a574f04d0.jpg
     url: /files/original/14fb2a574f00e414fb2a574f04d0.jpg
+    alt:
+      en: "Rain-streaked car windshield view of a damaged pink building with a bent, twisted \"Southern City Gators\" sign, a pickup truck and sedan on the wet road, dated JUL 25 2006."
 geo:
 id: 4172
 item_type: Still Image

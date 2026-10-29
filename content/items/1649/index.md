@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28014.jpg
     thumb: /files/thumbnails/14fb2a67491e5b14fb2a67492241.jpg
     url: /files/original/14fb2a67491e5b14fb2a67492241.jpg
+    alt:
+      en: "A newly repaired concrete floodwall section along the 17th Street Canal, with a gravel access road, two white pickup trucks, storm debris, and a crane in the distance."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 013engineers.jpg
     thumb: /files/thumbnails/14fb2a0feb732214fb2a0feb774d.jpg
     url: /files/original/14fb2a0feb732214fb2a0feb774d.jpg
+    alt:
+      en: "Road lined with storm-damaged, leafless trees and a water-filled canal, where a backhoe and military personnel clear debris while a man with a chainsaw stands nearby."
 geo:
 id: 19453
 item_type: Still Image

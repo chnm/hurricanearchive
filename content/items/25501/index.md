@@ -21,6 +21,8 @@ files:
     original_filename: EvaDow-3-2_973412fc5c.jpg
     thumb: /files/thumbnails/14fb29dd6aeeee14fb29dd6af2dc.jpg
     url: /files/original/14fb29dd6aeeee14fb29dd6af2dc.jpg
+    alt:
+      en: "Two people dressed in black skunk costumes with white fur trim stand on pavement near a sign reading \"LAPU,\" with a parking lot and building visible in the background, 1963."
 geo:
 id: 25501
 item_type: Still Image

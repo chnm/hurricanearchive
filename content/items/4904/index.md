@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0223.JPG
     thumb: /files/thumbnails/14fb2a54fe6d7614fb2a54fe715b.jpg
     url: /files/original/14fb2a54fe6d7614fb2a54fe715b.jpg
+    alt:
+      en: "Collapsed building with a fallen white roof lying atop a green-painted concrete slab foundation, surrounded by debris, bare trees, and a standalone concrete pillar amid overgrown grass."
 geo:
 id: 4904
 item_type: Still Image

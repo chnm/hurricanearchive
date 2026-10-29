@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28636.jpg
     thumb: /files/thumbnails/14fb2a6971049314fb2a69710878.jpg
     url: /files/original/14fb2a6971049314fb2a69710878.jpg
+    alt:
+      en: "A street clock on a black pole stands in front of a high-rise building with many shattered and boarded-up glass windows, with a sign reading \"WHITNEY\" visible near the base."
 geo:
   address: ''
   lat: 0.0

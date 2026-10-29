@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 003.jpg
     thumb: /files/thumbnails/14fb2a132b939a14fb2a132b9779.jpg
     url: /files/original/14fb2a132b939a14fb2a132b9779.jpg
+    alt:
+      en: "Exterior of a tan brick building with \"Louisiana Army National Guard\" lettering on the facade, a row of accessible parking signs along a sidewalk, and a parked SUV in the foreground."
 geo:
 id: 19093
 item_type: Still Image

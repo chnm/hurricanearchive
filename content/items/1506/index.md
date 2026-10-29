@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28263.jpg
     thumb: /files/thumbnails/14fb2a6851f1f814fb2a6851f5d6.jpg
     url: /files/original/14fb2a6851f1f814fb2a6851f5d6.jpg
+    alt:
+      en: "Storm-damaged commercial building with exposed interior and stripped trees, a bent sign pole, debris-strewn parking lot, and a pickup truck parked near a chain-link fence under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

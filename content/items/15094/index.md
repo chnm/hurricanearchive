@@ -21,6 +21,8 @@ files:
     original_filename: 1992 Welding Students-17_5895b39be9.jpg
     thumb: /files/thumbnails/14fb2a173106d114fb2a17310ab5.jpg
     url: /files/original/14fb2a173106d114fb2a17310ab5.jpg
+    alt:
+      en: "Two people on an elevated lift platform install large white letters spelling \"ELAINE P. NUNEZ COMMUNITY COLLEGE, 3700 LAFONTAINE\" on a corrugated metal building facade."
 geo:
 id: 15094
 item_type: Still Image

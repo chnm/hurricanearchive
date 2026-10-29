@@ -21,6 +21,8 @@ files:
     original_filename: 100_0082.JPG
     thumb: /files/thumbnails/14fb2a597b8f2914fb2a597b97dc.jpg
     url: /files/original/14fb2a597b8f2914fb2a597b97dc.jpg
+    alt:
+      en: "Small house with a covered porch, two doors (one marked with handwritten text including \"We Survived\"), surrounded by storm debris, scattered metal roofing, a torn fence, fallen branches, and a boat in the foreground."
 geo:
 id: 3803
 item_type: Still Image

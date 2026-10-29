@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0123-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e645a83b14fb29e645ace2.jpg
     url: /files/original/14fb29e645a83b14fb29e645ace2.jpg
+    alt:
+      en: "Aerial view of extensive floodwater submerging a roadway and fields, with a utility pole, power lines, bare trees, and scattered debris visible above the water's surface."
 geo:
 id: 24595
 item_type: Still Image

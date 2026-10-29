@@ -21,6 +21,8 @@ files:
     original_filename: 100_0130.JPG
     thumb: /files/thumbnails/14fb2a5949873114fb2a59498b16.jpg
     url: /files/original/14fb2a5949873114fb2a59498b16.jpg
+    alt:
+      en: "Two shrimp boats, \"Let it Ride\" and \"Barbara Jean,\" sit docked amid storm-damaged wooden structures and debris, their reflections visible in the calm water below."
 geo:
 id: 3839
 item_type: Still Image

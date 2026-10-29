@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea0e52de14fb29ea0e5b7f.jpg
     url: /files/original/14fb29ea0e52de14fb29ea0e5b7f.jpg
+    alt:
+      en: "Aerial view of a coastal community reduced to scattered debris and bare foundations, with floodwater pooling across the land and marshland visible in the background."
 geo:
 id: 24177
 item_type: Still Image

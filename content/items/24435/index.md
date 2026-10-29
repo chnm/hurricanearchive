@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094-15.JPG
     thumb: /files/thumbnails/14fb29e7b662cf14fb29e7b6664f.jpg
     url: /files/original/14fb29e7b662cf14fb29e7b6664f.jpg
+    alt:
+      en: "A dark, mostly silhouetted foreground frames an out-of-focus background showing a textured, debris-covered ground or landscape in muted greens, grays, and browns."
 geo:
 id: 24435
 item_type: Still Image

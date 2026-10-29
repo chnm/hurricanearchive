@@ -21,6 +21,8 @@ files:
     original_filename: UNO - Lakefront Campus.jpg
     thumb: /files/thumbnails/14fb29fb09f73014fb29fb09fb16.jpg
     url: /files/original/14fb29fb09f73014fb29fb09fb16.jpg
+    alt:
+      en: "Aerial view of a university campus with several multi-story buildings showing storm-damaged roofs stripped to black membrane, scattered debris on walkways and lawns, and surrounding parking lots."
 geo:
 id: 21912
 item_type: Still Image

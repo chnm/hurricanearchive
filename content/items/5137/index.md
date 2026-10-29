@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0499.JPG
     thumb: /files/thumbnails/14fb2a53cb178514fb2a53cb1b64.jpg
     url: /files/original/14fb2a53cb178514fb2a53cb1b64.jpg
+    alt:
+      en: "A building under construction or repair, with a large wooden beam supporting the roofline, pink vinyl siding, and an open doorway revealing exposed wood framing; trees and sky visible in the background."
 geo:
 id: 5137
 item_type: Still Image

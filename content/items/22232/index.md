@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1039Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8d1b27d14fb29f8d1b663.jpg
     url: /files/original/14fb29f8d1b27d14fb29f8d1b663.jpg
+    alt:
+      en: "Military helicopter parked on a landing pad amid green lawn, viewed through out-of-focus leafy branches in the foreground, with buildings and parked cars visible in the background."
 geo:
 id: 22232
 item_type: Still Image

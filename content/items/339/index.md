@@ -26,6 +26,8 @@ files:
     original_filename: BatteredHope_d56a05fde8.jpg
     thumb: /files/thumbnails/14fb2a7034065314fb2a7034083d.jpg
     url: /files/original/14fb2a7034065314fb2a7034083d.jpg
+    alt:
+      en: "A wilted sunflower stands in the foreground beside a debris-strewn street, with snapped trees, scattered wreckage, and downed power lines visible in the background."
 geo:
   address: ''
   lat: 30.533876572997602

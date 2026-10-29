@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004tentcity.JPG
     thumb: /files/thumbnails/14fb2a0dac500a14fb2a0dac53f0.jpg
     url: /files/original/14fb2a0dac500a14fb2a0dac53f0.jpg
+    alt:
+      en: "A man wearing a camouflage cap and tan t-shirt opens the flap of a large tan military-style tent, revealing a solid door inside."
 geo:
 id: 19813
 item_type: Still Image

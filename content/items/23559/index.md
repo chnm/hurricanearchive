@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0181abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eeea84cb14fb29eeeaae0a.jpg
     url: /files/original/14fb29eeea84cb14fb29eeeaae0a.jpg
+    alt:
+      en: "Two men in ball caps stand outside a storm-damaged house with exposed brick, charred siding, and broken windows, surrounded by scattered bricks and debris."
 geo:
 id: 23559
 item_type: Still Image

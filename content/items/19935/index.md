@@ -21,6 +21,8 @@ files:
     original_filename: Picture 031cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c50629c14fb2a0c506682.jpg
     url: /files/original/14fb2a0c50629c14fb2a0c506682.jpg
+    alt:
+      en: "Three men in military camouflage uniforms, one wearing sunglasses and another a baseball cap, gather around the hood of a military vehicle studying a rolled document, with damaged houses and trees in the background."
 geo:
 id: 19935
 item_type: Still Image

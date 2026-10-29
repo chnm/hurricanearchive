@@ -26,6 +26,8 @@ files:
     original_filename: dorignacs_63f3718322.jpg
     thumb: /files/thumbnails/14fb2a705b14c114fb2a705b18ac.jpg
     url: /files/original/14fb2a705b14c114fb2a705b18ac.jpg
+    alt:
+      en: "Roadside sign reading \"D'ORIGNAC'S FOOD CENTER\" stands above an empty lot with scattered debris, a small booth, parked vehicles, and distant buildings under a hazy sky."
 geo:
   address: ''
   lat: 30.0011789954666

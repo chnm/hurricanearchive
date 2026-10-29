@@ -20,6 +20,8 @@ files:
     original_filename: 1281603731_3b97c316c8.jpg
     thumb: /files/thumbnails/14fb29cb88a23914fb29cb88a61b.jpg
     url: /files/original/14fb29cb88a23914fb29cb88a61b.jpg
+    alt:
+      en: "Gutted bathroom with exposed wooden wall studs surrounding a green toilet and matching bathtub, floor scattered with debris and plaster chips."
 geo:
 id: 33212
 item_type: Still Image

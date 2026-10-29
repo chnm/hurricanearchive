@@ -21,6 +21,8 @@ files:
     original_filename: Picture 012cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c7ef24f14fb2a0c7ef637.jpg
     url: /files/original/14fb2a0c7ef24f14fb2a0c7ef637.jpg
+    alt:
+      en: "Blurry roadside photo of a grassy field lined with a wire fence, with trees—some bare and storm-damaged, one evergreen still green—under an overcast sky."
 geo:
 id: 19916
 item_type: Still Image

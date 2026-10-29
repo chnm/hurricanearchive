@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a055be91d14fb2a055bed03.jpg
     url: /files/original/14fb2a055be91d14fb2a055bed03.jpg
+    alt:
+      en: "A large military-style truck marked \"225GP 769E\" and \"MB090\" drives through floodwater covering a rural road lined with trees and brush."
 geo:
 id: 20664
 item_type: Still Image

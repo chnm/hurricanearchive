@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0276.JPG
     thumb: /files/thumbnails/14fb29fe281e0f14fb29fe2821f5.jpg
     url: /files/original/14fb29fe281e0f14fb29fe2821f5.jpg
+    alt:
+      en: "Aerial view of a densely packed above-ground cemetery with rows of white and weathered mausoleums and tombs, bordered by a street and brick residential buildings."
 geo:
 id: 21496
 item_type: Still Image

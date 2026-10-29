@@ -21,6 +21,8 @@ files:
     original_filename: Picture 356-J2.jpg
     thumb: /files/thumbnails/14fb29fa05752814fb29fa05790c.jpg
     url: /files/original/14fb29fa05752814fb29fa05790c.jpg
+    alt:
+      en: "A man in camouflage clothing, a camo hat, and sunglasses operates a chainsaw labeled \"Homelite\" while cutting through dried, leafy branches surrounding him."
 geo:
 id: 22025
 item_type: Still Image

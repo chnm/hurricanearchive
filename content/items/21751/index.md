@@ -21,6 +21,8 @@ files:
     original_filename: katrina 019.jpg
     thumb: /files/thumbnails/14fb29fbf931c514fb29fbf97d34.jpg
     url: /files/original/14fb29fbf931c514fb29fbf97d34.jpg
+    alt:
+      en: "Two men in camouflage military uniforms sit inside an aircraft cockpit at night, one gripping a control stick, with instrument panels visible overhead; a timestamp reads \"5 10:03 PM.\""
 geo:
 id: 21751
 item_type: Still Image

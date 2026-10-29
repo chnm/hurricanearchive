@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 011.jpg
     thumb: /files/thumbnails/14fb2a59f4e72514fb2a59f4eb00.jpg
     url: /files/original/14fb2a59f4e72514fb2a59f4eb00.jpg
+    alt:
+      en: "Storm-damaged structures with collapsed roofs and debris sit beneath large oak trees, with a small American flag hanging near the wreckage and a dirt path in the foreground."
 geo:
 id: 3731
 item_type: Still Image

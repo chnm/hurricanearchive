@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054M.JPG
     thumb: /files/thumbnails/14fb2a052dd3ee14fb2a052ddec1.jpg
     url: /files/original/14fb2a052dd3ee14fb2a052ddec1.jpg
+    alt:
+      en: "A soldier in woodland camouflage fatigues with a U.S. flag patch and \"Spearhead\" shoulder insignia holds several packaged hypodermic needles labeled \"Monoject Magellan,\" standing near a tiled wall."
 geo:
 id: 20674
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-032S.JPG
     thumb: /files/thumbnails/14fb2a5f812d4d14fb2a5f813131.jpg
     url: /files/original/14fb2a5f812d4d14fb2a5f813131.jpg
+    alt:
+      en: "Metal shelving units holding stacks of brown paper-wrapped parcels or bundles, arranged in rows inside a dimly lit storage room."
 geo:
 id: 2943
 item_type: Still Image

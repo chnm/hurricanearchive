@@ -21,6 +21,8 @@ files:
     original_filename: 03FB7D~1_5dad797373.2.jpg
     thumb: /files/thumbnails/14fb29d76e51b614fb29d76e559c.jpg
     url: /files/original/14fb29d76e51b614fb29d76e559c.jpg
+    alt:
+      en: "Black-and-white 1934 photograph of a long wooden pile bridge extending across water toward Grand Isle, Louisiana, with marsh grass and debris in the foreground."
 geo:
   address: ''
   lat: 29.91685

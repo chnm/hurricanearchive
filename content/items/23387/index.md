@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0081neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29efba95c514fb29efba99ab.jpg
     url: /files/original/14fb29efba95c514fb29efba99ab.jpg
+    alt:
+      en: "Widespread debris field of collapsed structures, including twisted sheet metal roofing, splintered wood, cinderblocks, a bathtub, and scattered straw, with damaged buildings visible in the background under a clear sky."
 geo:
 id: 23387
 item_type: Still Image

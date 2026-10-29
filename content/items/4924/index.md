@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0243.JPG
     thumb: /files/thumbnails/14fb2a54f2d1a014fb2a54f2d589.jpg
     url: /files/original/14fb2a54f2d1a014fb2a54f2d589.jpg
+    alt:
+      en: "Debris pile with a cinder block, rusted water heater tank, broken window frame, and wooden beams scattered on the ground amid dried leaves and a green plant."
 geo:
 id: 4924
 item_type: Still Image

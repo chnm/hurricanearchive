@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0072-16.JPG
     thumb: /files/thumbnails/14fb2a0416669814fb2a04166905.jpg
     url: /files/original/14fb2a0416669814fb2a04166905.jpg
+    alt:
+      en: "Group of military personnel and civilians walking along a debris-strewn dirt road, with demolished buildings, scattered wreckage, and power lines visible in the background."
 geo:
 id: 20756
 item_type: Still Image

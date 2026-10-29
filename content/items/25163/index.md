@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1773superdome.JPG
     thumb: /files/thumbnails/14fb29e191fc2b14fb29e1920156.jpg
     url: /files/original/14fb29e191fc2b14fb29e1920156.jpg
+    alt:
+      en: "A man in a military camouflage uniform with an American flag patch and nameplate reading \"Andreneau\" stands outside a building, with another person partially visible behind him."
 geo:
 id: 25163
 item_type: Still Image

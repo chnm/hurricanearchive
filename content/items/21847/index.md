@@ -21,6 +21,8 @@ files:
     original_filename: Delgado Westbank Campus.jpg
     thumb: /files/thumbnails/14fb29fb625ce814fb29fb6260d7.jpg
     url: /files/original/14fb29fb625ce814fb29fb6260d7.jpg
+    alt:
+      en: "Aerial view of a cylindrical multi-story building and a rectangular office building labeled \"Westbank Professional Building,\" both with visibly damaged roofs, surrounded by empty parking lots and green lawns."
 geo:
 id: 21847
 item_type: Still Image

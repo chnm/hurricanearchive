@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0409crop.jpg
     thumb: /files/thumbnails/14fb2a13747e7b14fb2a1374825f.jpg
     url: /files/original/14fb2a13747e7b14fb2a1374825f.jpg
+    alt:
+      en: "A U.S. Army soldier wearing dark protective goggles and a camouflage uniform with an American flag patch sits inside a military helicopter, looking out toward a grassy field."
 geo:
 id: 19065
 item_type: Still Image

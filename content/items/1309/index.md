@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28515.jpg
     thumb: /files/thumbnails/14fb2a69c0b50214fb2a69c0b8e8.jpg
     url: /files/original/14fb2a69c0b50214fb2a69c0b8e8.jpg
+    alt:
+      en: "A man wearing a cap, surgical mask, and gloves carries a blue plastic basket filled with salvaged items while walking on a debris-strewn sidewalk near a damaged brick building."
 geo:
   address: ''
   lat: 0.0

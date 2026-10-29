@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28267.jpg
     thumb: /files/thumbnails/14fb2a6bd461a214fb2a6bd463d8.jpg
     url: /files/original/14fb2a6bd461a214fb2a6bd463d8.jpg
+    alt:
+      en: "A multi-story building displaced from its foundation and resting at an angle amid storm debris, with uprooted trees and a parked truck visible on a cleared road nearby."
 geo:
   address: ''
   lat: 0.0

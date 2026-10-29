@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eac21f5b14fb29eac22340.jpg
     url: /files/original/14fb29eac21f5b14fb29eac22340.jpg
+    alt:
+      en: "A one-story building with a blue tarp covering storm-damaged roof, hand-painted sign reading \"Suire's Grocery & Restaurant\" and an alligator mural on the wall, with three cars parked in front."
 geo:
 id: 24103
 item_type: Still Image

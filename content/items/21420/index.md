@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0252-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fed93dfe14fb29fed941f8.jpg
     url: /files/original/14fb29fed93dfe14fb29fed941f8.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with a main street submerged in muddy floodwater, surrounded by storm-damaged houses, scattered debris, downed trees, and stranded vehicles."
 geo:
 id: 21420
 item_type: Still Image

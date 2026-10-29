@@ -21,6 +21,8 @@ files:
     original_filename: aerials61.jpg
     thumb: /files/thumbnails/14fb2a19ab548014fb2a19ab5867.jpg
     url: /files/original/14fb2a19ab548014fb2a19ab5867.jpg
+    alt:
+      en: "Aerial view of a storm-ravaged coastal area showing a skeletal house frame stripped of walls, surrounded by scattered debris, fallen trees, and standing floodwater."
 geo:
 id: 14351
 item_type: Still Image

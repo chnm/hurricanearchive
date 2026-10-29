@@ -20,6 +20,8 @@ files:
     original_filename: 2457403878_94ffc52f38.
     thumb: /files/thumbnails/14fb29c85a403114fb29c85a4a3c.jpg
     url: /files/original/14fb29c85a403114fb29c85a4a3c.jpg
+    alt:
+      en: "Three workers in hardhats and orange life vests stand in a small boat on a marshy waterway, one holding a tall pole with a small flag, surrounded by flat wetland terrain."
 geo:
 id: 34938
 item_type: Still Image

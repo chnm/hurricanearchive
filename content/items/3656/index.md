@@ -24,6 +24,8 @@ files:
     original_filename: P1010092.JPG
     thumb: /files/thumbnails/14fb2a5a546ab614fb2a5a546ea3.jpg
     url: /files/original/14fb2a5a546ab614fb2a5a546ea3.jpg
+    alt:
+      en: "A dark green pickup truck lies overturned on its roof in a grassy yard beside a flooded canal, with a damaged single-story brick house visible in the background."
 geo:
 id: 3656
 item_type: Still Image

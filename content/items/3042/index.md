@@ -21,6 +21,8 @@ files:
     original_filename: 100_0291.JPG
     thumb: /files/thumbnails/14fb2a5e6b128814fb2a5e6b1660.jpg
     url: /files/original/14fb2a5e6b128814fb2a5e6b1660.jpg
+    alt:
+      en: "Close-up view of a large ship's bow, floating in murky green water beside a dock, with draft marking numbers and a ladder visible on the gray hull."
 geo:
 id: 3042
 item_type: Still Image

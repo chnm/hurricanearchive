@@ -21,6 +21,8 @@ files:
     original_filename: 4_777defeeee.jpg
     thumb: /files/thumbnails/14fb29c620752114fb29c6207905.jpg
     url: /files/original/14fb29c620752114fb29c6207905.jpg
+    alt:
+      en: "Cluttered bar interior with a wooden loft railing above, shelves of framed art and memorabilia, a Budweiser-lit sign, a round \"Be Nice or Leave\" sign, and cluttered counters piled with tools and household items."
 geo:
   address: 3067 Saint Claude Ave, New Orleans, LA
   lat: 29.96784

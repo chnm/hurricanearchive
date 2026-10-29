@@ -26,6 +26,8 @@ files:
     original_filename: StMaurice3_a02c041c14.jpg
     thumb: /files/thumbnails/14fb2a6e7b3cd114fb2a6e7b40b7.jpg
     url: /files/original/14fb2a6e7b3cd114fb2a6e7b40b7.jpg
+    alt:
+      en: "A large fallen wooden steeple frame rests diagonally against a fence and trees between buildings, with debris scattered across the surrounding pavement."
 geo:
   address: ''
   lat: 0.0

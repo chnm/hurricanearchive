@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0629.JPG
     thumb: /files/thumbnails/14fb29d01c21ff14fb29d01c25e2.jpg
     url: /files/original/14fb29d01c21ff14fb29d01c25e2.jpg
+    alt:
+      en: "A green two-story house with a white-trimmed porch and striped awning stands next to a large pile of debris, including wooden slats and roofing material, on the sidewalk."
 geo:
 id: 29083
 item_type: Still Image

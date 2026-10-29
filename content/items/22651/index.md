@@ -21,6 +21,8 @@ files:
     original_filename: More Jackson BarracksJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4da112814fb29f4da1503.jpg
     url: /files/original/14fb29f4da112814fb29f4da1503.jpg
+    alt:
+      en: "Floodwater fills a narrow alley between a white clapboard building and a brick building, with a finger partially obscuring the top left corner of the photo."
 geo:
 id: 22651
 item_type: Still Image

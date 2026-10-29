@@ -20,6 +20,8 @@ files:
     original_filename: Living Room 1B_a106b53408.JPG
     thumb: /files/thumbnails/14fb29c56ae7d714fb29c56aebb7.jpg
     url: /files/original/14fb29c56ae7d714fb29c56aebb7.jpg
+    alt:
+      en: "Flood-damaged living room with mud-coated floor and debris, water-stained walls, a mold-covered curio cabinet, antique furniture, framed portraits, and a clock cabinet with figurines on the right."
 geo:
   address: 8059 Curran Blvd
   lat: 30.0377

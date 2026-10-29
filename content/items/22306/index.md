@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1117Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7c23dde14fb29f7c2414e.jpg
     url: /files/original/14fb29f7c23dde14fb29f7c2414e.jpg
+    alt:
+      en: "Dark, blurry nighttime photo of floodwater inside a building, with small boats and figures wearing orange life vests near a bright light reflecting on the water's surface."
 geo:
 id: 22306
 item_type: Still Image

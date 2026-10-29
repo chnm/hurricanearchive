@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0298.JPG
     thumb: /files/thumbnails/14fb2a54ca90cd14fb2a54ca9499.jpg
     url: /files/original/14fb2a54ca90cd14fb2a54ca9499.jpg
+    alt:
+      en: "Exposed wooden roof framing with rafters, joists, and plywood sheathing, showing water staining and some bowed boards, with electrical wiring running along the beams."
 geo:
 id: 4956
 item_type: Still Image

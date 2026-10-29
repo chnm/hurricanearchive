@@ -21,6 +21,8 @@ files:
     original_filename: 09140022Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f98006ab14fb29f9800a0c.jpg
     url: /files/original/14fb29f98006ab14fb29f9800a0c.jpg
+    alt:
+      en: "Parking lot between brick buildings with a red pickup truck, red SUV, black sedan, black SUV, and military Humvee, as two shirtless men in camouflage pants stand near the vehicles."
 geo:
 id: 22111
 item_type: Still Image

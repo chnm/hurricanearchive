@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28580.jpg
     thumb: /files/thumbnails/14fb2a6aa9d53814fb2a6aa9d9c9.jpg
     url: /files/original/14fb2a6aa9d53814fb2a6aa9d9c9.jpg
+    alt:
+      en: "Rows of large white sandbags with coiled cables laid out on a gravel lot, with trucks and a crane visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

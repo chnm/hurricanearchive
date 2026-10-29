@@ -21,6 +21,8 @@ files:
     original_filename: aerials92.jpg
     thumb: /files/thumbnails/14fb2a19727a5614fb2a19727e6f.jpg
     url: /files/original/14fb2a19727a5614fb2a19727e6f.jpg
+    alt:
+      en: "Aerial view of a coastal neighborhood stripped of vegetation and buildings, with scattered debris, bare trees, and a grid of roads leading toward the shoreline."
 geo:
 id: 14383
 item_type: Still Image

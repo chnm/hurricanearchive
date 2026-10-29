@@ -21,6 +21,8 @@ files:
     original_filename: Picture 084cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bd1499214fb2a0bd14d77.jpg
     url: /files/original/14fb2a0bd1499214fb2a0bd14d77.jpg
+    alt:
+      en: "A red pickup truck drives through deep floodwater on a highway, with a green overhead sign reading \"I-10 West, New Orleans Business District\" and a bridge visible in the background."
 geo:
 id: 19987
 item_type: Still Image

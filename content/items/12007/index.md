@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi530.JPG
     thumb: /files/thumbnails/14fb2a225d09f214fb2a225d0dd7.jpg
     url: /files/original/14fb2a225d09f214fb2a225d0dd7.jpg
+    alt:
+      en: "Crowd gathered outside a brick building beneath a canopy with large handprint decorations, with boom microphones visible overhead and several people wearing \"Rebuilding the Pass with Pride\" t-shirts."
 geo:
 id: 12007
 item_type: Still Image

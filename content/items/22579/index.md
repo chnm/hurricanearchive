@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0530Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f530b8f114fb29f530bcde.jpg
     url: /files/original/14fb29f530b8f114fb29f530bcde.jpg
+    alt:
+      en: "Rain-streaked window overlooking a flooded neighborhood, with a white camper trailer, wrought-iron fences, and submerged yards visible between houses under a gray sky."
 geo:
 id: 22579
 item_type: Still Image

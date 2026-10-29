@@ -20,6 +20,8 @@ files:
     original_filename: katrina1_5a7d78937d.jpg
     thumb: /files/thumbnails/14fb29c5c8864814fb29c5c88c7d.jpg
     url: /files/original/14fb29c5c8864814fb29c5c88c7d.jpg
+    alt:
+      en: "Overturned cars, scattered debris, and storm-damaged trees line a road and grassy area, with sheet metal and broken household items strewn across the ground."
 geo:
   address: 207 Bell Street
   lat: 0.0

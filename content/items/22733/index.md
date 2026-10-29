@@ -21,6 +21,8 @@ files:
     original_filename: PICT0855Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4592f6314fb29f459330c.jpg
     url: /files/original/14fb29f4592f6314fb29f459330c.jpg
+    alt:
+      en: "A fallen streetlight lies on the ground in a dirt lot dated 09.15.2005, with tall trees, debris piles, and damaged houses visible in the background."
 geo:
 id: 22733
 item_type: Still Image

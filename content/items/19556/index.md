@@ -21,6 +21,8 @@ files:
     original_filename: S4300010zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f3d985814fb2a0f3d9c3c.jpg
     url: /files/original/14fb2a0f3d985814fb2a0f3d9c3c.jpg
+    alt:
+      en: "A young man wearing a camouflage military cap and brown t-shirt stands in a paved parking lot marked with white lines; another person is partially visible at the left edge."
 geo:
 id: 19556
 item_type: Still Image

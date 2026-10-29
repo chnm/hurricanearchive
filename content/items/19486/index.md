@@ -21,6 +21,8 @@ files:
     original_filename: Picture 046engineers.jpg
     thumb: /files/thumbnails/14fb2a0fc0285814fb2a0fc02b2b.jpg
     url: /files/original/14fb2a0fc0285814fb2a0fc02b2b.jpg
+    alt:
+      en: "Aerial view of a multi-story building surrounded by extensive floodwater, with trees, scattered vehicles, and nearby structures partially submerged; overlay text reads \"LSU School of Dentistry looking South Lat/Lon: 29.59.00N/090.05.00W.\""
 geo:
 id: 19486
 item_type: Still Image

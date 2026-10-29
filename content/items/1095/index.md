@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28049.jpg
     thumb: /files/thumbnails/14fb2a6b159cc714fb2a6b15a0ac.jpg
     url: /files/original/14fb2a6b159cc714fb2a6b15a0ac.jpg
+    alt:
+      en: "An American flag hangs from a porch column in front of a white brick building with boarded windows, a bare tree in front, and orange spray-painted search markings on the wall."
 geo:
   address: ''
   lat: 0.0

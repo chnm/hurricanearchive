@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0169.JPG
     thumb: /files/thumbnails/14fb2a55294a0d14fb2a55294e13.jpg
     url: /files/original/14fb2a55294a0d14fb2a55294e13.jpg
+    alt:
+      en: "Interior of a storm-damaged room with exposed wood framing and insulation around a multi-pane window, walls stripped to studs, and greenery visible outside."
 geo:
 id: 4850
 item_type: Still Image

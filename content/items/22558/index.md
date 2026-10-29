@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1847Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f549b40d14fb29f549c942.jpg
     url: /files/original/14fb29f549b40d14fb29f549c942.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with rooftops, a large L-shaped metal-roofed building, scattered debris, and power lines partially submerged in murky floodwater."
 geo:
 id: 22558
 item_type: Still Image

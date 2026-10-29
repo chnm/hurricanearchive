@@ -21,6 +21,8 @@ files:
     original_filename: before traffic lights.jpg
     thumb: /files/thumbnails/14fb2a20beb64814fb2a20beba2e.jpg
     url: /files/original/14fb2a20beb64814fb2a20beba2e.jpg
+    alt:
+      en: "Three traffic signal heads, their lenses facing sideways, dangle from overhead wires strung between utility poles under a cloudy sky, with trees and a low building in the background."
 geo:
 id: 13050
 item_type: Still Image

@@ -18,6 +18,8 @@ files:
     original_filename: 72_6227c22e8e.jpg
     thumb: /files/thumbnails/14fb29c64982ff14fb29c64986ca.jpg
     url: /files/original/14fb29c64982ff14fb29c64986ca.jpg
+    alt:
+      en: "A man drives a forklift carrying a pallet with a figure dressed in red and white lying atop it, passing a building marked \"Bubba's Produce Co.\""
 geo:
   address: new orleans, la
   lat: 29.95324

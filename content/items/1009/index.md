@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27926.jpg
     thumb: /files/thumbnails/14fb2a6b6cc49a14fb2a6b6cc85b.jpg
     url: /files/original/14fb2a6b6cc49a14fb2a6b6cc85b.jpg
+    alt:
+      en: "A traffic signal mast arm with a damaged \"La Salle\" street sign hanging askew, set against a clear blue sky with tall high-rise buildings in the background."
 geo:
   address: ''
   lat: 0.0

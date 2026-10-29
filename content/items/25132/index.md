@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1739superdome.JPG
     thumb: /files/thumbnails/14fb29e1f94ce814fb29e1f950cd.jpg
     url: /files/original/14fb29e1f94ce814fb29e1f950cd.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms carry a patient on a stretcher across a wet pavement area, with others nearby carrying boxes, part of a medical evacuation effort."
 geo:
 id: 25132
 item_type: Still Image

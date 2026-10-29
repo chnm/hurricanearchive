@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (79).JPG
     thumb: /files/thumbnails/14fb2a5d2af65a14fb2a5d2afa39.jpg
     url: /files/original/14fb2a5d2af65a14fb2a5d2afa39.jpg
+    alt:
+      en: "Storefront with maroon awnings reading \"Sports Bar\" and \"Pool Table,\" with a broken window and a bent palm frond leaning against the damaged facade."
 geo:
 id: 3232
 item_type: Still Image

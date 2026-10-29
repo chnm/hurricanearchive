@@ -18,6 +18,8 @@ files:
     original_filename: 81_7317225cde.jpg
     thumb: /files/thumbnails/14fb29c63a6e3514fb29c63a721a.jpg
     url: /files/original/14fb29c63a6e3514fb29c63a721a.jpg
+    alt:
+      en: "Cheerleaders in white tops and orange skirts raise sparkly silver pom-poms overhead during a nighttime parade, with uniformed marchers in white and orange visible in the background."
 geo:
   address: new orleans, la
   lat: 29.95324

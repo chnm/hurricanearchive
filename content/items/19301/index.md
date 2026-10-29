@@ -21,6 +21,8 @@ files:
     original_filename: J2 (20).JPG
     thumb: /files/thumbnails/14fb2a1146f5f514fb2a1146f9af.jpg
     url: /files/original/14fb2a1146f5f514fb2a1146f9af.jpg
+    alt:
+      en: "Hand-lettered chalkboard concert calendar at House of Blues, listing shows like Rob Zombie, Lifehouse, Burning Spear, and Better Than Ezra, topped with \"Unity in Diversity\" and yin-yang symbols."
 geo:
 id: 19301
 item_type: Still Image

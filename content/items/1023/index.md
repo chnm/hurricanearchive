@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28185.jpg
     thumb: /files/thumbnails/14fb2a6b57c37d14fb2a6b57c763.jpg
     url: /files/original/14fb2a6b57c37d14fb2a6b57c763.jpg
+    alt:
+      en: "Bare concrete house slabs remain amid scattered debris, with leafless, storm-damaged trees and downed limbs in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

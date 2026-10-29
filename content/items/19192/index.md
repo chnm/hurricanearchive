@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 102.jpg
     thumb: /files/thumbnails/14fb2a12024d6514fb2a12025148.jpg
     url: /files/original/14fb2a12024d6514fb2a12025148.jpg
+    alt:
+      en: "A fallen tree branch rests across a damaged white picket fence, with scattered debris, mud, and downed limbs covering the ground amid overgrown shrubs and trees."
 geo:
 id: 19192
 item_type: Still Image

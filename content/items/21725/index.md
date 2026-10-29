@@ -21,6 +21,8 @@ files:
     original_filename: Picture2.png
     thumb: /files/thumbnails/14fb29fc2a99fa14fb29fc2a9de0.jpg
     url: /files/original/14fb29fc2a99fa14fb29fc2a9de0.jpg
+    alt:
+      en: "Severely damaged house with its roof collapsed and torn apart, surrounded by scattered debris and broken trees, with other damaged structures visible in the background."
 geo:
 id: 21725
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-029S.JPG
     thumb: /files/thumbnails/14fb2a5f850d3c14fb2a5f851121.jpg
     url: /files/original/14fb2a5f850d3c14fb2a5f851121.jpg
+    alt:
+      en: "Storage room with three large ship's steering wheels, several bronze bells, wooden crates labeled \"USS Alabama,\" and coiled cables, alongside metal grating and tubing on the walls."
 geo:
 id: 2940
 item_type: Still Image

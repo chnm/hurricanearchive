@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2166conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11c3633f14fb2a11c36724.jpg
     url: /files/original/14fb2a11c3633f14fb2a11c36724.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms and helmets sit in a military truck cab, with stacked supply boxes and other vehicles visible in the background near a \"Horinoya Sushi Bar\" sign."
 geo:
 id: 19221
 item_type: Still Image

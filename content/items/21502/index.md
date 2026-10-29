@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0278-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe17448b14fb29fe174870.jpg
     url: /files/original/14fb29fe17448b14fb29fe174870.jpg
+    alt:
+      en: "Aerial view of a flooded residential street with muddy water surrounding houses, rooftops, and utility poles, with trees partially obscuring the scene."
 geo:
 id: 21502
 item_type: Still Image

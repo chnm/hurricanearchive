@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2190superdome.JPG
     thumb: /files/thumbnails/14fb29e469883b14fb29e4698c21.jpg
     url: /files/original/14fb29e469883b14fb29e4698c21.jpg
+    alt:
+      en: "A National Guard soldier with a rifle stands beside a brass luggage cart loaded with a camping chair, cooler, and belongings outside the Superdome entrance at night, with people seated nearby."
 geo:
 id: 24850
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0150.JPG
     thumb: /files/thumbnails/14fb2a0ab42cb814fb2a0ab4309c.jpg
     url: /files/original/14fb2a0ab42cb814fb2a0ab4309c.jpg
+    alt:
+      en: "An overturned, crushed car lies upside down beneath a large fallen tree, surrounded by scattered debris, sheet metal, and wreckage."
 geo:
 id: 20212
 item_type: Still Image

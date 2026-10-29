@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0375_f775c548a1.JPG
     thumb: /files/thumbnails/14fb2a7018eee214fb2a7018f2c8.jpg
     url: /files/original/14fb2a7018eee214fb2a7018f2c8.jpg
+    alt:
+      en: "A house number sign reading \"Judanne 'Judee' English 726\" with a flamingo and palm trees, propped against a hand-painted wooden board reading \"I'm Still Here,\" amid storm debris."
 geo:
   address: ''
   lat: 30.285159872426

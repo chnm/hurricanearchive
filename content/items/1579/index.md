@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28078.jpg
     thumb: /files/thumbnails/14fb2a67c45bfd14fb2a67c45fe2.jpg
     url: /files/original/14fb2a67c45bfd14fb2a67c45fe2.jpg
+    alt:
+      en: "Abandoned Rally's fast food building with faded red support columns and sign reading \"Rally's Burgers Fries Colas,\" surrounded by barren, ash-covered ground and dead shrubs."
 geo:
   address: ''
   lat: 0.0

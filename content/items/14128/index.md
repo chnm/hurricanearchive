@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0020.JPG
     thumb: /files/thumbnails/14fb2a1ba44d7414fb2a1ba451bc.jpg
     url: /files/original/14fb2a1ba44d7414fb2a1ba451bc.jpg
+    alt:
+      en: "Overhead view of a large hall set up as an operations center, with rows of folding tables holding laptops and papers, uniformed personnel working, and two screens displaying maps at the front."
 geo:
   address: ''
   lat: 0.0

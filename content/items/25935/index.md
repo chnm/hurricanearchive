@@ -20,6 +20,8 @@ files:
     original_filename: Katrina1_c83928e754.jpg
     thumb: /files/thumbnails/14fb29dbb84b4114fb29dbb854b0.jpg
     url: /files/original/14fb29dbb84b4114fb29dbb854b0.jpg
+    alt:
+      en: "Single-story brick house with storm-damaged roof, debris, and fallen trees in yard; spray-painted markings on wall and a ladder leaning against the structure. Dated 09/19/2005."
 geo:
   address: 5220 Gin Road Pearlington,Ms
   lat: 0.0

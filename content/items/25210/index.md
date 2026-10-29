@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1909superdome.JPG
     thumb: /files/thumbnails/14fb29e0da346414fb29e0da384a.jpg
     url: /files/original/14fb29e0da346414fb29e0da384a.jpg
+    alt:
+      en: "A U.S. Army medical helicopter marked \"2431\" with a red cross sits parked on a rooftop lot, with crowds of people gathered along an elevated walkway beside the Superdome's exterior."
 geo:
 id: 25210
 item_type: Still Image

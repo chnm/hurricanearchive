@@ -21,6 +21,8 @@ files:
     original_filename: aerials4.jpg
     thumb: /files/thumbnails/14fb2a19d0fe2914fb2a19d10561.jpg
     url: /files/original/14fb2a19d0fe2914fb2a19d10561.jpg
+    alt:
+      en: "Aerial view of a storm-damaged house surrounded by bare, debris-scattered trees and barren ground, with a small fenced plot and scattered rubble visible nearby."
 geo:
 id: 14327
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (75).JPG
     thumb: /files/thumbnails/14fb2a5d2e51f114fb2a5d2e555c.jpg
     url: /files/original/14fb2a5d2e51f114fb2a5d2e555c.jpg
+    alt:
+      en: "A multi-story brick building with a blue accessibility sign stands beside a debris-strewn street, with bare trees, scattered mud, and standing water covering the road."
 geo:
 id: 3228
 item_type: Still Image

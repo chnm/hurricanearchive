@@ -21,6 +21,8 @@ files:
     original_filename: aerials102.jpg
     thumb: /files/thumbnails/14fb2a1a600aab14fb2a1a600e83.jpg
     url: /files/original/14fb2a1a600aab14fb2a1a600e83.jpg
+    alt:
+      en: "Aerial view of a devastated residential area with only concrete foundation slabs remaining amid scorched, leafless trees; a body of water runs along the upper right edge."
 geo:
 id: 14260
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300164stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecee17ef14fb29ecee1bdd.jpg
     url: /files/original/14fb29ecee17ef14fb29ecee1bdd.jpg
+    alt:
+      en: "Damaged house with a boarded-up window marked \"DL,\" flanked by dark green shutters, surrounded by dead vegetation, debris, and a leaning pole in the overgrown yard."
 geo:
 id: 23825
 item_type: Still Image

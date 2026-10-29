@@ -23,6 +23,8 @@ files:
     original_filename: Katrina 7_06eec95691.JPG
     thumb: /files/thumbnails/14fb29c2c5ba8514fb29c2c5cb13.jpg
     url: /files/original/14fb29c2c5ba8514fb29c2c5cb13.jpg
+    alt:
+      en: "Muddy, debris-strewn stretch of Jourdan Rd. in the Lower 9th Ward, with a large bare tree, collapsed utility poles, and construction cranes in the background."
 geo:
   address: ''
   lat: 29.9788

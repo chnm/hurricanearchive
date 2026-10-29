@@ -24,6 +24,8 @@ files:
     original_filename: JB 1 grandparents_d9eab22e7d.1.jpg
     thumb: /files/thumbnails/14fb29d82e852314fb29d82e890a.jpg
     url: /files/original/14fb29d82e852314fb29d82e890a.jpg
+    alt:
+      en: "Black-and-white photo of a woman in a letterman jacket with an \"H\" patch, cuffed trousers, and white socks, standing on a porch beside a ladder and small table."
 geo:
   address: ''
   lat: 29.87876

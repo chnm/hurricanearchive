@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8494.jpg
     thumb: /files/thumbnails/14fb2a663ef39c14fb2a663ef7c1.jpg
     url: /files/original/14fb2a663ef39c14fb2a663ef7c1.jpg
+    alt:
+      en: "A severely damaged house with its roof torn open and walls collapsed onto a crushed white pickup truck, surrounded by scattered debris and lumber, an American flag visible at left."
 geo:
 id: 2469
 item_type: Still Image

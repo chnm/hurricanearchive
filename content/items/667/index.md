@@ -26,6 +26,8 @@ files:
     original_filename: 022_20A_f83de3117d.jpg
     thumb: /files/thumbnails/14fb2a6f30876d14fb2a6f308a9a.jpg
     url: /files/original/14fb2a6f30876d14fb2a6f308a9a.jpg
+    alt:
+      en: "A collapsed brick wall buries a vehicle on Perdido Street, with scattered bricks covering its hood and windshield while other cars and buildings line the street beyond."
 geo:
   address: ''
   lat: 29.951364951739297

@@ -21,6 +21,8 @@ files:
     original_filename: Baggage being loaded 2delaware.jpg
     thumb: /files/thumbnails/14fb29f144f8c314fb29f145161a.jpg
     url: /files/original/14fb29f144f8c314fb29f145161a.jpg
+    alt:
+      en: "Military cargo plane marked \"Delaware Air Guard\" parked on a tarmac with a forklift loading baggage near the cargo door, as several uniformed personnel stand nearby under a clear sky."
 geo:
 id: 23168
 item_type: Still Image

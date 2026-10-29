@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7411.JPG
     thumb: /files/thumbnails/14fb29ccc2d24614fb29ccc2d62b.jpg
     url: /files/original/14fb29ccc2d24614fb29ccc2d62b.jpg
+    alt:
+      en: "Close-up of long-needled pine branches with small cones, draped over what appears to be a red object and a blue surface partially visible beneath the foliage."
 geo:
 id: 30714
 item_type: Still Image

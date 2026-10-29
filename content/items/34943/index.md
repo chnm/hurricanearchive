@@ -20,6 +20,8 @@ files:
     original_filename: 2457383778_ae075febb9.
     thumb: /files/thumbnails/14fb29c852bd9714fb29c852cb82.jpg
     url: /files/original/14fb29c852bd9714fb29c852cb82.jpg
+    alt:
+      en: "Aerial view of a levee running alongside a wide waterway, with debris scattered along the embankment and dense green marshland extending to the horizon. Caption reads \"Lake Catoutcatche Levee.\""
 geo:
 id: 34943
 item_type: Still Image

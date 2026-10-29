@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060-16.JPG
     thumb: /files/thumbnails/14fb2a04f3870e14fb2a04f38af5.jpg
     url: /files/original/14fb2a04f3870e14fb2a04f38af5.jpg
+    alt:
+      en: "Two uniformed military personnel in camouflage fatigues and boonie hats stand near a damaged mobile home with debris scattered on the ground, with \"TFW\" spray-painted on the home's exterior."
 geo:
 id: 20696
 item_type: Still Image

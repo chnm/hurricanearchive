@@ -20,6 +20,8 @@ files:
     original_filename: 2420882169_9cce0414da.
     thumb: /files/thumbnails/14fb29c8f0667d14fb29c8f06a64.jpg
     url: /files/original/14fb29c8f0667d14fb29c8f06a64.jpg
+    alt:
+      en: "Exterior end of a white metal-sided mobile home with a small window, streaked with grime, resting on a wooden support beam; cloth items hang beneath it near bare trees."
 geo:
 id: 34742
 item_type: Still Image

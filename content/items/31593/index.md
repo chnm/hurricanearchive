@@ -21,6 +21,8 @@ files:
     original_filename: 061207NOLA012RWlg_c879230beb.jpg
     thumb: /files/thumbnails/14fb29cc1ebaa314fb29cc1ebe80.jpg
     url: /files/original/14fb29cc1ebaa314fb29cc1ebe80.jpg
+    alt:
+      en: "Black-and-white photo of a woman standing before a small wrought-iron table holding candles and a framed portrait, set against a storefront with \"Salon D'Malta\" visible on the window."
 geo:
 id: 31593
 item_type: Still Image

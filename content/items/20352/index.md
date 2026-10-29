@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004.JPG
     thumb: /files/thumbnails/14fb2a0879549214fb2a08795ba1.jpg
     url: /files/original/14fb2a0879549214fb2a08795ba1.jpg
+    alt:
+      en: "Woman in a yellow cap types on a laptop while seated across from another woman at a table, with several other people working on laptops in the background of a conference room."
 geo:
 id: 20352
 item_type: Still Image

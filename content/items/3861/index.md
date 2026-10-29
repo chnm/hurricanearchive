@@ -21,6 +21,8 @@ files:
     original_filename: 100_0154.JPG
     thumb: /files/thumbnails/14fb2a5937315914fb2a5937408b.jpg
     url: /files/original/14fb2a5937315914fb2a5937408b.jpg
+    alt:
+      en: "Flooded interstate highway with two small rescue boats navigating the water, overhead green signs reading \"I-10 East New Orleans Business District\" and \"I-10 West Baton Rouge\" visible above the submerged roadway."
 geo:
 id: 3861
 item_type: Still Image

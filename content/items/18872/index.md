@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0086grandisle.JPG
     thumb: /files/thumbnails/14fb2a14c9100814fb2a14c913ec.jpg
     url: /files/original/14fb2a14c9100814fb2a14c913ec.jpg
+    alt:
+      en: "Aerial view from a helicopter, with part of the aircraft's wheel visible in frame, showing storm-damaged land with scattered debris, stripped trees, a cemetery with above-ground vaults, and damaged homes near a road and waterway."
 geo:
 id: 18872
 item_type: Still Image

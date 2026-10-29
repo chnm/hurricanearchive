@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA.JPG
     thumb: /files/thumbnails/14fb2a5dea406814fb2a5dea5368.jpg
     url: /files/original/14fb2a5dea406814fb2a5dea5368.jpg
+    alt:
+      en: "Two men in military camouflage uniforms work at laptops on a table cluttered with CDs, water bottles, and office supplies, with an HP LaserJet printer and cables nearby."
 geo:
 id: 3105
 item_type: Still Image

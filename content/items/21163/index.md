@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0189-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a004b0acf14fb2a004b0ebd.jpg
     url: /files/original/14fb2a004b0acf14fb2a004b0ebd.jpg
+    alt:
+      en: "Aerial view of a flooded roadway surrounded by submerged marshland, with military trucks and a small boat parked along the paved road, and a leaning utility pole nearby."
 geo:
 id: 21163
 item_type: Still Image

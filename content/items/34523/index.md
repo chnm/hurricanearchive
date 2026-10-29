@@ -27,6 +27,8 @@ files:
     original_filename: 2291226451_5df3cc5f6b.
     thumb: /files/thumbnails/14fb29c993699614fb29c9936d73.jpg
     url: /files/original/14fb29c993699614fb29c9936d73.jpg
+    alt:
+      en: "A damaged silver car buried in storm debris, dried grass, and scattered wooden planks, sitting beneath a raised blue house on stilts."
 geo:
   address: ''
   lat: 30.22539

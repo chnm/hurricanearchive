@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (3).JPG
     thumb: /files/thumbnails/14fb2a5c47207114fb2a5c472457.jpg
     url: /files/original/14fb2a5c47207114fb2a5c472457.jpg
+    alt:
+      en: "A large pile of storm debris, including uprooted trees and branches, sits beyond a stretch of pale gravel and dirt, with houses and a parked truck visible in the background under a partly cloudy sky."
 geo:
 id: 3352
 item_type: Still Image

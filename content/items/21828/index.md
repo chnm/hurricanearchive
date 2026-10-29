@@ -21,6 +21,8 @@ files:
     original_filename: 20050904MS-EO A1196-RC-26B JEFFERSON PARISH HURRICANE KATRINA.jpg
     thumb: /files/thumbnails/14fb29fb76a17814fb29fb76a56e.jpg
     url: /files/original/14fb29fb76a17814fb29fb76a56e.jpg
+    alt:
+      en: "Aerial black-and-white reconnaissance photo of a street grid in Jefferson Parish, Louisiana, showing rooftops, parking lots, and the Chalmette Shopping Center near 17th Street and N Causeway Blvd."
 geo:
 id: 21828
 item_type: Still Image

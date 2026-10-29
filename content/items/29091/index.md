@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0637.JPG
     thumb: /files/thumbnails/14fb29cff7fc4414fb29cff7ff71.jpg
     url: /files/original/14fb29cff7fc4414fb29cff7ff71.jpg
+    alt:
+      en: "Tan military Humvees, numbered 10 and 55, parked side by side with mesh-covered windows and visible headlights, grilles, and antenna mounts, photographed in foggy conditions with trees and trailers in the background."
 geo:
 id: 29091
 item_type: Still Image

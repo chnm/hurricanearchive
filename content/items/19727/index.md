@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 114cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e2d3e8b14fb2a0e2d4270.jpg
     url: /files/original/14fb2a0e2d3e8b14fb2a0e2d4270.jpg
+    alt:
+      en: "A small white boat sits stranded on muddy ground beside a yellow metal warehouse building, surrounded by storm debris, with damaged trees and power lines visible against a clear blue sky."
 geo:
 id: 19727
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046media.JPG
     thumb: /files/thumbnails/14fb29f294b44514fb29f294b950.jpg
     url: /files/original/14fb29f294b44514fb29f294b950.jpg
+    alt:
+      en: "Aerial view from a helicopter showing a wide canal with construction equipment and a crane at a floodwall/bridge site, bordered by a levee, roads, and a residential neighborhood with scattered trees."
 geo:
 id: 22940
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 001engineers.jpg
     thumb: /files/thumbnails/14fb2a0fff334014fb2a0fff3728.jpg
     url: /files/original/14fb2a0fff334014fb2a0fff3728.jpg
+    alt:
+      en: "Armed soldiers stand guard in a large parking lot filled with pallets of bottled water and boxed supplies, with crowds gathered near a \"River Walk\" building and a tall hotel; date stamp reads \"SEP 3 2005.\""
 geo:
 id: 19441
 item_type: Still Image

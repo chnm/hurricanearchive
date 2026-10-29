@@ -26,6 +26,8 @@ files:
     original_filename: Dsc_0284_afd682d8e5.jpg
     thumb: /files/thumbnails/14fb2a7008fb9f14fb2a7008ff85.jpg
     url: /files/original/14fb2a7008fb9f14fb2a7008ff85.jpg
+    alt:
+      en: "A damaged wooden dock with multiple boats piled and overturned onshore behind it, surrounded by large oak trees, with calm water in the foreground."
 geo:
   address: ''
   lat: 29.943035391587696

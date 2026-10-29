@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28554.jpg
     thumb: /files/thumbnails/14fb2a6b9cb38314fb2a6b9cc26b.jpg
     url: /files/original/14fb2a6b9cb38314fb2a6b9cc26b.jpg
+    alt:
+      en: "Mud-caked cars, one marked with an orange \"X\" and search codes, sit in a cracked, dried mud yard in front of a storm-damaged house with a white picket fence."
 geo:
   address: ''
   lat: 0.0

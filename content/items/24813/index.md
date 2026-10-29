@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2135superdome.JPG
     thumb: /files/thumbnails/14fb29e49c67ba14fb29e49c6ba0.jpg
     url: /files/original/14fb29e49c67ba14fb29e49c6ba0.jpg
+    alt:
+      en: "Crowd of evacuees lined up behind metal barricades under a covered entrance marked \"Gate A,\" with a uniformed soldier in camouflage standing guard near red trash cans."
 geo:
 id: 24813
 item_type: Still Image

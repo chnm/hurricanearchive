@@ -23,6 +23,8 @@ files:
     original_filename: 1242848374_5408e92528.jpg
     thumb: /files/thumbnails/14fb29cb33679514fb29cb336b79.jpg
     url: /files/original/14fb29cb33679514fb29cb336b79.jpg
+    alt:
+      en: "A badly damaged vintage Rolls Royce sits in a parking lot, its cream-colored body dented and torn, tires exposed, and wood debris visible in the back seat, as a crowd gathers nearby."
 geo:
   address: ''
   lat: 41.8848

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28317.jpg
     thumb: /files/thumbnails/14fb2a6a4f045b14fb2a6a4f080d.jpg
     url: /files/original/14fb2a6a4f045b14fb2a6a4f080d.jpg
+    alt:
+      en: "Storm-damaged building with exposed framing and a partially collapsed roof stands amid scattered debris and bare trees, with a large oak trunk in the foreground."
 geo:
   address: ''
   lat: 0.0

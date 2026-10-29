@@ -20,6 +20,8 @@ files:
     original_filename: 2380699232_d534563098.
     thumb: /files/thumbnails/14fb29ca15894114fb29ca158d26.jpg
     url: /files/original/14fb29ca15894114fb29ca158d26.jpg
+    alt:
+      en: "A heavily soiled and water-damaged sofa with pillows sits in a dim room, with a dirty floor, a potted plant, and furniture including a mirrored vanity visible in the background."
 geo:
   address: ''
   lat: 30.22894

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28057.jpg
     thumb: /files/thumbnails/14fb2a6c601d4014fb2a6c60339f.jpg
     url: /files/original/14fb2a6c601d4014fb2a6c60339f.jpg
+    alt:
+      en: "A mud-caked plastic Fisher Price toy castle lies abandoned on cracked, dried earth, surrounded by debris including a large cylindrical tank and concrete block in the background."
 geo:
   address: ''
   lat: 0.0

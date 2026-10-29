@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6505_dc9784c635.jpg
     thumb: /files/thumbnails/14fb29d4199fd114fb29d419a3b6.jpg
     url: /files/original/14fb29d4199fd114fb29d419a3b6.jpg
+    alt:
+      en: "A woman wears a costume shaped like a house with a blue tarp roof, striped siding, and a red door, walking past a building with other people nearby."
 geo:
   address: ''
   lat: 29.91685

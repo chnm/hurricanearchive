@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0323stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eeb0306514fb29eeb0323d.jpg
     url: /files/original/14fb29eeb0306514fb29eeb0323d.jpg
+    alt:
+      en: "Dusk scene of a wind-stripped tree with debris caught in its branches, overlooking a mud-covered street and a boarded-up brick building, with a police cruiser parked nearby."
 geo:
 id: 23581
 item_type: Still Image

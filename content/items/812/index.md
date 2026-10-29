@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28631.jpg
     thumb: /files/thumbnails/14fb2a6ce49e4f14fb2a6ce4a235.jpg
     url: /files/original/14fb2a6ce49e4f14fb2a6ce4a235.jpg
+    alt:
+      en: "Close-up of a jumbled pile of rusty threaded rods, bolts, and metal form-tie hardware, with scraps of orange and clear plastic tape tangled among them."
 geo:
   address: ''
   lat: 0.0

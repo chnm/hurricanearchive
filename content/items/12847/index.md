@@ -21,6 +21,8 @@ files:
     original_filename: 9ward florida breach.jpg
     thumb: /files/thumbnails/14fb2a21756d6f14fb2a2175714e.jpg
     url: /files/original/14fb2a21756d6f14fb2a2175714e.jpg
+    alt:
+      en: "A cleared, debris-strewn lot with scattered rubble and a utility pole, set against a flat horizon under a clear blue sky, with a crane visible at the upper edge of the frame."
 geo:
 id: 12847
 item_type: Still Image

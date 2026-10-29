@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2074superdome.JPG
     thumb: /files/thumbnails/14fb29ded58dbe14fb29ded591a6.jpg
     url: /files/original/14fb29ded58dbe14fb29ded591a6.jpg
+    alt:
+      en: "Three men, two in camouflage pants and one in a black shirt, crouch together near a yellow-painted concrete barrier on a paved lot, with aircraft equipment visible in the background."
 geo:
 id: 25347
 item_type: Still Image

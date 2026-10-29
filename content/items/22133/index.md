@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-13-12AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f96ca1c914fb29f96ca5b0.jpg
     url: /files/original/14fb29f96ca1c914fb29f96ca5b0.jpg
+    alt:
+      en: "Floodwater submerges a white house up to its windows, with a park bench and shrubbery nearly covered; dumpsters float in the murky water in the foreground."
 geo:
 id: 22133
 item_type: Still Image

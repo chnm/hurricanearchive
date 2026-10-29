@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2204superdome.JPG
     thumb: /files/thumbnails/14fb29de58239d14fb29de582782.jpg
     url: /files/original/14fb29de58239d14fb29de582782.jpg
+    alt:
+      en: "A twin-rotor military helicopter flies low over a city skyline, framed between tall concrete and glass buildings beneath an overcast sky."
 geo:
 id: 25389
 item_type: Still Image

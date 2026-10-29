@@ -26,6 +26,8 @@ files:
     original_filename: 106_0605_bfad14f38b.JPG
     thumb: /files/thumbnails/14fb2a70c2cbea14fb2a70c2cff0.jpg
     url: /files/original/14fb2a70c2cbea14fb2a70c2cff0.jpg
+    alt:
+      en: "A discarded refrigerator sits on a New Orleans sidewalk, labeled \"C.O.D.\" and \"TO: GEORGE W BUSH c/o WHITE HOUSE, PERISHABLE,\" with a hand-drawn American flag, wrought-iron balconies visible behind it."
 geo:
   address: ''
   lat: 0.0

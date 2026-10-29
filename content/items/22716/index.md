@@ -21,6 +21,8 @@ files:
     original_filename: PICT0614Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f476761b14fb29f4767e9d.jpg
     url: /files/original/14fb29f476761b14fb29f4767e9d.jpg
+    alt:
+      en: "Grassy levee with a paved path alongside a concrete floodwall, houses and storm-damaged trees in the background, dated 09.15.2005."
 geo:
 id: 22716
 item_type: Still Image

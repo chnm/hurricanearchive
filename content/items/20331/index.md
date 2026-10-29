@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001M.JPG
     thumb: /files/thumbnails/14fb2a08c8483e14fb2a08c84c24.jpg
     url: /files/original/14fb2a08c8483e14fb2a08c84c24.jpg
+    alt:
+      en: "Highway overpass signs reading \"Interstate 10 East, New Orleans\" and \"Exit 162, Bluebonnet Rd, 1¼ Miles,\" with a Dutchmen travel trailer and line of vehicles below on the interstate."
 geo:
 id: 20331
 item_type: Still Image

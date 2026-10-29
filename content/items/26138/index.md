@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5754_9a3a08fd43.jpg
     thumb: /files/thumbnails/14fb29da39aa2514fb29da39ae0a.jpg
     url: /files/original/14fb29da39aa2514fb29da39ae0a.jpg
+    alt:
+      en: "Black-and-white photo of a man in a suit and fedora standing on Canal Street, with pedestrians and storefront signs reading \"7up\" and \"Kagan's Jewelry Novelties & Gifts\" in the background."
 geo:
 id: 26138
 item_type: Still Image

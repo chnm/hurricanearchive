@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2136superdome.JPG
     thumb: /files/thumbnails/14fb29e49bb02b14fb29e49bb411.jpg
     url: /files/original/14fb29e49bb02b14fb29e49bb411.jpg
+    alt:
+      en: "A crowd lines up behind metal barricades near a posted \"NOTICE\" sign listing prohibited items, while a man in military camouflage stands beside a red trash can in the foreground."
 geo:
 id: 24814
 item_type: Still Image

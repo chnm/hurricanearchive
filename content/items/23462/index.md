@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0116cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef556b5914fb29ef556f41.jpg
     url: /files/original/14fb29ef556b5914fb29ef556f41.jpg
+    alt:
+      en: "A man with windblown hair holds a large camera with telephoto lens up to his eye, photographing through an open aircraft door, wearing a yellow earplug and grey shirt."
 geo:
 id: 23462
 item_type: Still Image

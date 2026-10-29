@@ -21,6 +21,8 @@ files:
     original_filename: misschalmetterebekkaboudreaux_934d9978fa.jpg
     thumb: /files/thumbnails/14fb29d6d3942514fb29d6d3980a.jpg
     url: /files/original/14fb29d6d3942514fb29d6d3980a.jpg
+    alt:
+      en: "Yearbook page titled \"Miss Chalmette\" featuring a smiling young woman with long hair in a dark dress standing outdoors near bleachers, with a caption below identifying her as Rebekka Boudreaux and listing her school activities and honors."
 geo:
 id: 26874
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27889.jpg
     thumb: /files/thumbnails/14fb2a6894245914fb2a6894283d.jpg
     url: /files/original/14fb2a6894245914fb2a6894283d.jpg
+    alt:
+      en: "Man in cap and jeans stands amid a massive fallen oak tree that has crushed a trailer home, surrounded by debris, scattered boards, and orange safety fencing."
 geo:
   address: ''
   lat: 0.0

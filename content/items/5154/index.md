@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0516.JPG
     thumb: /files/thumbnails/14fb2a53b8ffb814fb2a53b91ce8.jpg
     url: /files/original/14fb2a53b8ffb814fb2a53b91ce8.jpg
+    alt:
+      en: "Concrete slab foundation of a destroyed house, surrounded by scattered wooden posts and pilings, with bare trees and a body of water visible in the background under a clear sky."
 geo:
 id: 5154
 item_type: Still Image

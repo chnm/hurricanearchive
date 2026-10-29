@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8498.jpg
     thumb: /files/thumbnails/14fb2a663b61c214fb2a663b65a7.jpg
     url: /files/original/14fb2a663b61c214fb2a663b65a7.jpg
+    alt:
+      en: "Makeshift shelter of plywood and tarps marked \"139 Lakeview,\" with a mounted deer head, a religious statue, and a trash bin, set near storm-damaged pilings and a parked car along the water's edge."
 geo:
 id: 2470
 item_type: Still Image

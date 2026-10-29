@@ -21,6 +21,8 @@ files:
     original_filename: Picture 201cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b51881e14fb2a0b518c03.jpg
     url: /files/original/14fb2a0b51881e14fb2a0b518c03.jpg
+    alt:
+      en: "A blurry photo of a pale blue sky with a single small cloud and a dark aircraft or helicopter in flight, framed by a tall palm tree and other trees along the horizon."
 geo:
 id: 20104
 item_type: Still Image

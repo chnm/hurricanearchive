@@ -24,6 +24,8 @@ files:
     original_filename: P1010139.JPG
     thumb: /files/thumbnails/14fb2a5acb5bcd14fb2a5acb5fb2.jpg
     url: /files/original/14fb2a5acb5bcd14fb2a5acb5fb2.jpg
+    alt:
+      en: "Large uprooted tree with exposed root ball lies beside a lake, its trunk and branches sawed into sections, with freshly cut logs scattered on the surrounding grass."
 geo:
 id: 3563
 item_type: Still Image

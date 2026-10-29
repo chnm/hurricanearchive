@@ -21,6 +21,8 @@ files:
     original_filename: 100_0143.JPG
     thumb: /files/thumbnails/14fb2a593ebfc414fb2a593ec3aa.jpg
     url: /files/original/14fb2a593ebfc414fb2a593ec3aa.jpg
+    alt:
+      en: "A damaged waterfront building on wooden pilings, its glass walls shattered and interior furniture visibly in disarray, reflected in the calm water below."
 geo:
 id: 3851
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27853.jpg
     thumb: /files/thumbnails/14fb2a6c1341dd14fb2a6c134e49.jpg
     url: /files/original/14fb2a6c1341dd14fb2a6c134e49.jpg
+    alt:
+      en: "A large live oak tree draped in Spanish moss spreads its sprawling branches over a grassy field, with buildings visible in the background near Chauvin, Louisiana."
 geo:
   address: ''
   lat: 0.0

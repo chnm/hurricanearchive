@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (87).jpg
     thumb: /files/thumbnails/14fb2a5c64187a14fb2a5c641d29.jpg
     url: /files/original/14fb2a5c64187a14fb2a5c641d29.jpg
+    alt:
+      en: "Flood-damaged residential street strewn with dried debris and dead grass, muddy tire tracks, and displaced vehicles, with modest brick homes and power lines lining both sides."
 geo:
 id: 3329
 item_type: Still Image

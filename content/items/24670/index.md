@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00121 DSC00121cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5bc79d514fb29e5bc7dbb.jpg
     url: /files/original/14fb29e5bc79d514fb29e5bc7dbb.jpg
+    alt:
+      en: "Group of military officers in camouflage uniforms converse outdoors near a building and trailer, with one officer's name tag reading \"Landreneau\" and a U.S. flag patch visible on another's sleeve."
 geo:
 id: 24670
 item_type: Still Image

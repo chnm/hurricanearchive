@@ -26,6 +26,8 @@ files:
     original_filename: Katrina_025_7357ff91f5.jpg
     thumb: /files/thumbnails/14fb2a6e64f51f14fb2a6e64f8fc.jpg
     url: /files/original/14fb2a6e64f51f14fb2a6e64f8fc.jpg
+    alt:
+      en: "A shirtless man in blue shorts stands amid storm debris beside the massive uprooted root ball of a large oak tree, with fallen branches and trees scattered across the grassy yard."
 geo:
   address: ''
   lat: 0.0

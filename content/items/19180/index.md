@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 090.jpg
     thumb: /files/thumbnails/14fb2a1226655514fb2a1226693c.jpg
     url: /files/original/14fb2a1226655514fb2a1226693c.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms gather around the hood of a military Humvee, studying a map, with a second Humvee and residential houses visible behind them under tree branches."
 geo:
 id: 19180
 item_type: Still Image

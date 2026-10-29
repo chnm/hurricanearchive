@@ -21,6 +21,8 @@ files:
     original_filename: katrina 065.jpg
     thumb: /files/thumbnails/14fb29fbb90ac414fb29fbb90e9d.jpg
     url: /files/original/14fb29fbb90ac414fb29fbb90e9d.jpg
+    alt:
+      en: "Flooded city street lined with storefronts and a bent palm tree, with a partially submerged bus shelter advertising \"The National D-Day Museum, New Orleans\" in the foreground."
 geo:
 id: 21795
 item_type: Still Image

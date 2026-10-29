@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28276.jpg
     thumb: /files/thumbnails/14fb2a6858b7e414fb2a6858bbca.jpg
     url: /files/original/14fb2a6858b7e414fb2a6858bbca.jpg
+    alt:
+      en: "Heavily damaged multi-story buildings with exposed structural framing and missing walls stand amid rubble and debris, with a chain-link fence and cleared lot in the foreground under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

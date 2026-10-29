@@ -21,6 +21,8 @@ files:
     original_filename: 1432 St. Maurice.Narrow shotgun, 3 dogs under house.jpg
     thumb: /files/thumbnails/14fb2a21ab742d14fb2a21ab8756.jpg
     url: /files/original/14fb2a21ab742d14fb2a21ab8756.jpg
+    alt:
+      en: "Small white shotgun house with spray-painted search-and-rescue markings on the façade, boarded door, and a chain-link fence in front."
 geo:
 id: 12829
 item_type: Still Image

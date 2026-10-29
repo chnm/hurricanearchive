@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0187_33f05fb975.JPG
     thumb: /files/thumbnails/14fb29cd6b189714fb29cd6b1c7c.jpg
     url: /files/original/14fb29cd6b189714fb29cd6b1c7c.jpg
+    alt:
+      en: "A wooden chair with a burn-marked back sits in a debris-strewn brick corridor at Hardin Elementary School, with overhead pipes and scattered broken letters on the floor."
 geo:
 id: 30054
 item_type: Still Image

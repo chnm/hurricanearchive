@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1324Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f605fa8114fb29f6060165.jpg
     url: /files/original/14fb29f605fa8114fb29f6060165.jpg
+    alt:
+      en: "Floodwaters submerge a building up to its roofline, with only the peaked shingled roof and a corrugated metal roof section visible above the murky water under an overcast sky."
 geo:
 id: 22483
 item_type: Still Image

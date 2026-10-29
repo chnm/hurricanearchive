@@ -24,6 +24,8 @@ files:
     original_filename: P1010156.JPG
     thumb: /files/thumbnails/14fb2a5a0b78f614fb2a5a0b7cdc.jpg
     url: /files/original/14fb2a5a0b78f614fb2a5a0b7cdc.jpg
+    alt:
+      en: "A flock of pigeons pecks at moldy bread and debris scattered across a cracked sidewalk near an overflowing green trash bin and broken concrete rubble."
 geo:
 id: 3710
 item_type: Still Image

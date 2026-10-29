@@ -23,6 +23,8 @@ files:
     original_filename: 336693992_a5623d3f60.jpg
     thumb: /files/thumbnails/14fb29d488fee114fb29d48916d2.jpg
     url: /files/original/14fb29d488fee114fb29d48916d2.jpg
+    alt:
+      en: "A grimy four-burner gas stovetop covered in soot and debris, with a cast-iron skillet and white mortar and pestle on the counter beside it, set against red-trimmed black tile."
 geo:
 id: 27338
 item_type: Still Image

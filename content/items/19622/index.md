@@ -21,6 +21,8 @@ files:
     original_filename: 09240023rita.JPG
     thumb: /files/thumbnails/14fb2a0eabcc3714fb2a0eabd01b.jpg
     url: /files/original/14fb2a0eabcc3714fb2a0eabd01b.jpg
+    alt:
+      en: "Rows of folded military-style cots, collapsed stands, pillows, and yellow ventilation ducting sit on a plywood floor beneath striped relief tents, with cardboard boxes and tools scattered nearby."
 geo:
 id: 19622
 item_type: Still Image

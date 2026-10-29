@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6994_f586d5f4e2.jpg
     thumb: /files/thumbnails/14fb29db73a52a14fb29db73a90a.jpg
     url: /files/original/14fb29db73a52a14fb29db73a90a.jpg
+    alt:
+      en: "Black-and-white photograph of a packed Baptist church congregation in pews, with a robed choir standing at the front near an organ and a sign reading \"Banner Glass Offerings.\""
 geo:
   address: ''
   lat: 29.993

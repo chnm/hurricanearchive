@@ -21,6 +21,8 @@ files:
     original_filename: Picture 286-J2.jpg
     thumb: /files/thumbnails/14fb29fad96d2914fb29fad9710e.jpg
     url: /files/original/14fb29fad96d2914fb29fad9710e.jpg
+    alt:
+      en: "A single sneaker lies abandoned on a debris-strewn concrete roadway alongside a seawall, with scattered trash including a plastic bottle, cloth, and broken fragments nearby."
 geo:
 id: 21955
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 033.jpg
     thumb: /files/thumbnails/14fb2a22c085d114fb2a22c089b6.jpg
     url: /files/original/14fb2a22c085d114fb2a22c089b6.jpg
+    alt:
+      en: "Storm-damaged gas station with a red canopy roof, downed tree trunk resting on bent support poles, and scattered debris across the lot, dated 2005/09/24."
 geo:
 id: 11911
 item_type: Still Image

@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_RITA_05CA4_e2560fe942.jpg
     thumb: /files/thumbnails/14fb2a66c5466f14fb2a66c54a56.jpg
     url: /files/original/14fb2a66c5466f14fb2a66c54a56.jpg
+    alt:
+      en: "Two men on an airboat near a large rusted storage tank in a marsh, with a Coast Guard \"National Strike Force\" patch visible on one man's shirt and containment boom floating on the water behind them."
 geo:
 id: 2385
 item_type: Still Image

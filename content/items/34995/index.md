@@ -20,6 +20,8 @@ files:
     original_filename: 2297825799_e3d77d9baa.
     thumb: /files/thumbnails/14fb29c7d79d2814fb29c7d7c714.jpg
     url: /files/original/14fb29c7d79d2814fb29c7d7c714.jpg
+    alt:
+      en: "A smiling woman in a blue T-shirt works on a purple bicycle in a workshop, with shelves of bike parts and hand-lettered signs reading \"Helmets,\" \"Levers,\" and \"One Piece\" visible behind her."
 geo:
 id: 34995
 item_type: Still Image

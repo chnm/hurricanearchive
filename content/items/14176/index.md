@@ -21,6 +21,8 @@ files:
     original_filename: SFC Kenna Wood.JPG
     thumb: /files/thumbnails/14fb2a1af521ed14fb2a1af52630.jpg
     url: /files/original/14fb2a1af521ed14fb2a1af52630.jpg
+    alt:
+      en: "A woman with short brown hair wears a white t-shirt with a \"Jacksonville XXXIX Host Committee\" Super Bowl logo, seated in a cafeteria; date stamp reads 09.24.2005."
 geo:
   address: ''
   lat: 0.0

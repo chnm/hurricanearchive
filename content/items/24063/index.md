@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eb1f31e214fb29eb1f35c7.jpg
     url: /files/original/14fb29eb1f31e214fb29eb1f35c7.jpg
+    alt:
+      en: "A mud-caked boat on a trailer and a Mercury Sable sedan sit abandoned in dried, cracked mud strewn with debris and dead branches."
 geo:
 id: 24063
 item_type: Still Image

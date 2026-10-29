@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 078cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e5930ba14fb2a0e593493.jpg
     url: /files/original/14fb2a0e5930ba14fb2a0e593493.jpg
+    alt:
+      en: "Storm-damaged street lined with trees, with a splintered palm tree trunk leaning against a utility pole, debris and dried mud covering the road and ground, and a street sign reading \"Esplanade\" in the background."
 geo:
 id: 19691
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0145-18.JPG
     thumb: /files/thumbnails/14fb2a09cd79f414fb2a09cd7de5.jpg
     url: /files/original/14fb2a09cd79f414fb2a09cd7de5.jpg
+    alt:
+      en: "A soldier in camouflage fatigues walks along a gravel embankment followed by a dog, with a debris-strewn, flood-damaged landscape and distant structures visible under a hazy sky."
 geo:
 id: 20296
 item_type: Still Image

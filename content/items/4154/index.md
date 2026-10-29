@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0040.JPG
     thumb: /files/thumbnails/14fb2a575c3d3514fb2a575c4114.jpg
     url: /files/original/14fb2a575c3d3514fb2a575c4114.jpg
+    alt:
+      en: "A storm-damaged warehouse labeled \"BAILEY'S\" stands with a collapsed corrugated metal wall, surrounded by debris, wreckage, and boat masts under a clear blue sky."
 geo:
 id: 4154
 item_type: Still Image

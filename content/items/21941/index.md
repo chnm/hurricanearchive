@@ -21,6 +21,8 @@ files:
     original_filename: Picture 272-J2.jpg
     thumb: /files/thumbnails/14fb29fae929d814fb29fae92dbe.jpg
     url: /files/original/14fb29fae929d814fb29fae92dbe.jpg
+    alt:
+      en: "Floodwater surrounds a brick building and electrical substation, with a chain-link fence, utility poles, a tree, and a dark pickup truck in the foreground."
 geo:
 id: 21941
 item_type: Still Image

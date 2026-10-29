@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28405.jpg
     thumb: /files/thumbnails/14fb2a6750e84714fb2a6750f284.jpg
     url: /files/original/14fb2a6750e84714fb2a6750f284.jpg
+    alt:
+      en: "Blue two-story house with boarded windows and a hand-painted sign reading \"YOU BROKE UNDER YOUR SPIRIT,\" debris piled near the porch, and a dented blue pickup truck parked on the lawn."
 geo:
   address: ''
   lat: 0.0

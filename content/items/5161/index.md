@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0523.JPG
     thumb: /files/thumbnails/14fb2a53ad115914fb2a53ad153f.jpg
     url: /files/original/14fb2a53ad115914fb2a53ad153f.jpg
+    alt:
+      en: "A bare concrete slab foundation with broken wooden support posts, remnants of a destroyed structure, sits in a grassy clearing with trees and a parked car in the background."
 geo:
 id: 5161
 item_type: Still Image

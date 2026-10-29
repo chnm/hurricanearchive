@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0112-9-25.JPG
     thumb: /files/thumbnails/14fb29e6e09ac514fb29e6e0b236.jpg
     url: /files/original/14fb29e6e09ac514fb29e6e0b236.jpg
+    alt:
+      en: "Aerial view of a flattened building's debris—broken bricks, roofing, and cinder blocks—outlining its foundation amid floodwaters, with bare trees nearby."
 geo:
 id: 24541
 item_type: Still Image

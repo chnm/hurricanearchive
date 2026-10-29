@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5700_caf00ff5a0.jpg
     thumb: /files/thumbnails/14fb2a1702524414fb2a1702562a.jpg
     url: /files/original/14fb2a1702524414fb2a1702562a.jpg
+    alt:
+      en: "Aged, cracked color photograph of a young girl with short dark hair seated on a textured surface, wearing a white dress with puffed sleeves and blue trim, white socks, and black shoes, hands clasped in her lap."
 geo:
 id: 15128
 item_type: Still Image

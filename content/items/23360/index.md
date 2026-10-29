@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0065cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efcda1f114fb29efcda5ce.jpg
     url: /files/original/14fb29efcda1f114fb29efcda5ce.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands on a flooded road amid widespread storm debris, with a water tower reading \"CAMERON\" visible in the background."
 geo:
 id: 23360
 item_type: Still Image

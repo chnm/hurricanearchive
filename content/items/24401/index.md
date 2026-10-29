@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-22-21A.jpg
     thumb: /files/thumbnails/14fb29e83db49114fb29e83db877.jpg
     url: /files/original/14fb29e83db49114fb29e83db877.jpg
+    alt:
+      en: "Heavy wind-driven rain obscures a residential street lined with parked cars, trees, and utility poles, with a lamppost visible in the foreground."
 geo:
 id: 24401
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 162062720_b738d1920f.jpg
     thumb: /files/thumbnails/14fb29d224006714fb29d2240452.jpg
     url: /files/original/14fb29d224006714fb29d2240452.jpg
+    alt:
+      en: "A blue drum and strings of campaign-style flyers reading \"Our Mayor\" hang from utility wires above a \"We're home!\" sign, with a house and truck visible below against an overcast sky."
 geo:
 id: 28610
 item_type: Still Image

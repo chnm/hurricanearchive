@@ -21,6 +21,8 @@ files:
     original_filename: 261st at TF Pelican J-6 deskgillslong.jpg
     thumb: /files/thumbnails/14fb2a0ea901eb14fb2a0ea9059b.jpg
     url: /files/original/14fb2a0ea901eb14fb2a0ea9059b.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work at laptops on long folding tables in a large hall, with a \"41ST\" sign on one table and additional desks and staff visible in the background."
 geo:
 id: 19624
 item_type: Still Image

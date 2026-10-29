@@ -21,6 +21,8 @@ files:
     original_filename: PICT0859Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4549b9814fb29f4549f7d.jpg
     url: /files/original/14fb29f4549b9814fb29f4549f7d.jpg
+    alt:
+      en: "Empty street corner with a large tree missing many branches, a fallen limb on the grass median, scattered debris, and several vehicles and buildings in the background; dated 09.15.2005."
 geo:
 id: 22737
 item_type: Still Image

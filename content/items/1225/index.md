@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28647.jpg
     thumb: /files/thumbnails/14fb2a6a45545214fb2a6a455837.jpg
     url: /files/original/14fb2a6a45545214fb2a6a455837.jpg
+    alt:
+      en: "Under a large tent, staff at a check-in table assist visitors, with a green sign reading \"OPEN 8am-8pm, No exceptions due to security concerns or the well-being of animals\" posted above."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-25-24A.jpg
     thumb: /files/thumbnails/14fb29e8d1d05714fb29e8d1d436.jpg
     url: /files/original/14fb29e8d1d05714fb29e8d1d436.jpg
+    alt:
+      en: "Flooded street with a military-style truck carrying passengers, submerged cars, and a person wading through waist-deep water near a partially visible \"ONE WAY\" sign."
 geo:
 id: 24305
 item_type: Still Image

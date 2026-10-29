@@ -24,6 +24,8 @@ files:
     original_filename: P1010019.JPG
     thumb: /files/thumbnails/14fb2a5aac82ab14fb2a5aac8690.jpg
     url: /files/original/14fb2a5aac82ab14fb2a5aac8690.jpg
+    alt:
+      en: "Collapsed garage structure with exposed wooden roof framing, torn metal roofing, and peeling pink siding, surrounded by debris and yellow caution tape, with trees in the background."
 geo:
 id: 3592
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0662.JPG
     thumb: /files/thumbnails/14fb2a535d6c9014fb2a535d7085.jpg
     url: /files/original/14fb2a535d6c9014fb2a535d7085.jpg
+    alt:
+      en: "A debris-strewn dirt road runs through a devastated area with scattered rubble, broken trees, and damaged structures lining both sides under a cloudy sky."
 geo:
 id: 5217
 item_type: Still Image

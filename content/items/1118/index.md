@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28062.jpg
     thumb: /files/thumbnails/14fb2a6ae9609414fb2a6ae9647a.jpg
     url: /files/original/14fb2a6ae9609414fb2a6ae9647a.jpg
+    alt:
+      en: "A man wearing a cap and sunglasses stands on cracked, dried mud, holding a plastic bag containing a green Fisher Price toy castle, with debris and buildings visible in the background."
 geo:
   address: ''
   lat: 0.0

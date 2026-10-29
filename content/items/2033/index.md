@@ -26,6 +26,8 @@ files:
     original_filename: pic17_6f57ac222e.jpg
     thumb: /files/thumbnails/14fb2a6dab554a14fb2a6dab5925.jpg
     url: /files/original/14fb2a6dab554a14fb2a6dab5925.jpg
+    alt:
+      en: "Downed trees and tangled power lines cover a yard strewn with branches and debris, with a damaged building visible in the background."
 geo:
   address: ''
   lat: 30.2916078437037

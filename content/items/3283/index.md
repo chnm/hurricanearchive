@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (45).jpg
     thumb: /files/thumbnails/14fb2a5cc1028814fb2a5cc1066c.jpg
     url: /files/original/14fb2a5cc1028814fb2a5cc1066c.jpg
+    alt:
+      en: "Severely damaged neighborhood with collapsed houses, scattered debris, and standing floodwater on a cracked street, with surviving trees and parked cars visible in the background."
 geo:
 id: 3283
 item_type: Still Image

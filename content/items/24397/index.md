@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-18-17A.jpg
     thumb: /files/thumbnails/14fb29e847964014fb29e8479966.jpg
     url: /files/original/14fb29e847964014fb29e8479966.jpg
+    alt:
+      en: "Floodwater fills a narrow street between white clapboard and brick buildings, submerging the cobblestones and rising around a lamppost under a gray, rain-filled sky."
 geo:
 id: 24397
 item_type: Still Image

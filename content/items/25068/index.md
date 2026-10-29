@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1642superdome.JPG
     thumb: /files/thumbnails/14fb29e28a8f5014fb29e28a9330.jpg
     url: /files/original/14fb29e28a8f5014fb29e28a9330.jpg
+    alt:
+      en: "Superdome with damaged roof panels viewed from an elevated highway, with floodwater below, a billboard reading \"Someone will win $1 Million\" and a Coca-Cola ad, and two people sitting on a concrete barrier."
 geo:
 id: 25068
 item_type: Still Image

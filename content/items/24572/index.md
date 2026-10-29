@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0119-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e68a348514fb29e68a3e3b.jpg
     url: /files/original/14fb29e68a348514fb29e68a3e3b.jpg
+    alt:
+      en: "A line of trucks and vehicles halted on a flooded rural road beside a water-filled canal, with a green John Deere 420 tractor and loader in the foreground and a \"LA 100\" route sign visible ahead."
 geo:
 id: 24572
 item_type: Still Image

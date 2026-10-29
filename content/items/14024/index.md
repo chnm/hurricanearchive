@@ -21,6 +21,8 @@ files:
     original_filename: 20050927009.JPG
     thumb: /files/thumbnails/14fb2a1c6585aa14fb2a1c658990.jpg
     url: /files/original/14fb2a1c6585aa14fb2a1c658990.jpg
+    alt:
+      en: "Red food trailer with a teal sign reading \"Shane's Acadiana Fine Cajun Food, 865-6088,\" with stacked takeout containers, coolers, and a person working nearby under a covered area."
 geo:
   address: ''
   lat: 0.0

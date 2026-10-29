@@ -24,6 +24,8 @@ files:
     original_filename: P1010009b.JPG
     thumb: /files/thumbnails/14fb2a5bb8df1314fb2a5bb8e2f8.jpg
     url: /files/original/14fb2a5bb8df1314fb2a5bb8e2f8.jpg
+    alt:
+      en: "Two discarded refrigerators, one marked with an \"8,\" sit curbside on a grassy lawn alongside black trash bags and debris piles, with brick houses, trucks, and trees lining the street behind."
 geo:
 id: 3442
 item_type: Still Image

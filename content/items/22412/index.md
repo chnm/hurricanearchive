@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1251Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6a6c4da14fb29f6a6c8bf.jpg
     url: /files/original/14fb29f6a6c4da14fb29f6a6c8bf.jpg
+    alt:
+      en: "Military personnel gather in a command center beneath a multi-zone clock reading Pacific, Mountain, Local, Eastern, and Iraq time; a Louisiana map and whiteboards listing rescue and shelter logistics line the walls."
 geo:
 id: 22412
 item_type: Still Image

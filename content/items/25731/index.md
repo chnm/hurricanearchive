@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-06captainkangaroo_0da773fc2e.jpg
     thumb: /files/thumbnails/14fb29dc97a6f714fb29dc97aad1.jpg
     url: /files/original/14fb29dc97a6f714fb29dc97aad1.jpg
+    alt:
+      en: "Faded 1988 snapshot of a man in a red jacket holding a toddler, standing with two older boys in front of a curtain decorated with balloons, with paper cups on the floor nearby."
 geo:
 id: 25731
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: Lakeview 6.JPG
     thumb: /files/thumbnails/14fb29d59a89a914fb29d59a8d8d.jpg
     url: /files/original/14fb29d59a89a914fb29d59a8d8d.jpg
+    alt:
+      en: "Debris-strewn street under overhanging tree branches and a gray overcast sky, with a wrecked car, scattered wood and rubble lining both sides, and a STOP sign visible at left amid the destruction."
 geo:
 id: 27258
 item_type: Still Image

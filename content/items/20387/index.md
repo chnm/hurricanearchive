@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008H.JPG
     thumb: /files/thumbnails/14fb2a082d9b3614fb2a082d9f32.jpg
     url: /files/original/14fb2a082d9b3614fb2a082d9f32.jpg
+    alt:
+      en: "Two young people play air hockey in a dimly lit room, one holding the red puck striker, with a soda can resting on the table's edge."
 geo:
 id: 20387
 item_type: Still Image

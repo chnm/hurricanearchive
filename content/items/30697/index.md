@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7394.JPGb.jpg
     thumb: /files/thumbnails/14fb29ccce760614fb29ccce79ec.jpg
     url: /files/original/14fb29ccce760614fb29ccce79ec.jpg
+    alt:
+      en: "Dense woodland scene with large tree trunks in the foreground, one showing a broken, splintered limb, surrounded by thick underbrush and scattered fallen branches against a bright sky."
 geo:
 id: 30697
 item_type: Still Image

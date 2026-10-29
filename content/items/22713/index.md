@@ -21,6 +21,8 @@ files:
     original_filename: PICT0611Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f47aa83a14fb29f47aac54.jpg
     url: /files/original/14fb29f47aa83a14fb29f47aac54.jpg
+    alt:
+      en: "A large green lawn with a central flagpole flying an American flag, bordered by symmetrical white colonial-style barracks buildings and a brick perimeter wall topped with razor wire, dated 09.15.2005."
 geo:
 id: 22713
 item_type: Still Image

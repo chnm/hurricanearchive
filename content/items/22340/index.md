@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1155Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f73b373a14fb29f73b3b1c.jpg
     url: /files/original/14fb29f73b373a14fb29f73b3b1c.jpg
+    alt:
+      en: "Two men paddle a small boat with a Johnson outboard motor through floodwater in heavy rain, with a building and tree visible behind them."
 geo:
 id: 22340
 item_type: Still Image

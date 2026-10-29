@@ -21,6 +21,8 @@ files:
     original_filename: DSC00961.JPG
     thumb: /files/thumbnails/14fb2a58cebbf214fb2a58cebfe0.jpg
     url: /files/original/14fb2a58cebbf214fb2a58cebfe0.jpg
+    alt:
+      en: "Three military helicopters hover and sit on a grassy strip beyond calm water, viewed from a wooden dock railing; timestamp overlay reads \"1 5:06 PM.\""
 geo:
 id: 3942
 item_type: Still Image

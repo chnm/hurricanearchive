@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1912superdome.JPG
     thumb: /files/thumbnails/14fb29e0d402ec14fb29e0d4078f.jpg
     url: /files/original/14fb29e0d402ec14fb29e0d4078f.jpg
+    alt:
+      en: "A helicopter flies low over a large parking lot near a domed stadium, with military vehicles, uniformed personnel, police cars, and a crowd of people visible near the building entrance."
 geo:
 id: 25213
 item_type: Still Image

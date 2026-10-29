@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0067.JPG
     thumb: /files/thumbnails/14fb2a55fa55f414fb2a55fa59da.jpg
     url: /files/original/14fb2a55fa55f414fb2a55fa59da.jpg
+    alt:
+      en: "Debris-strewn, muddy clearing surrounded by tall, stripped trees under a clear blue sky, with scattered wreckage and broken branches covering the ground."
 geo:
 id: 4720
 item_type: Still Image

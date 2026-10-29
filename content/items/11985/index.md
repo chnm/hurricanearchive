@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 033.jpg
     thumb: /files/thumbnails/14fb2a22714d1014fb2a227150f6.jpg
     url: /files/original/14fb2a22714d1014fb2a227150f6.jpg
+    alt:
+      en: "A sailboat with its mast intact sits grounded amid storm debris along a roadside, surrounded by damaged pine trees; \"OK 9-24-05\" is spray-painted on its hull."
 geo:
 id: 11985
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28603.jpg
     thumb: /files/thumbnails/14fb2a6775951314fb2a67759901.jpg
     url: /files/original/14fb2a6775951314fb2a67759901.jpg
+    alt:
+      en: "A man stands beside a large tree trunk in front of a storm-damaged house marked with spray-painted search-and-rescue symbols, with debris and a bare yard in the Lakeview District."
 geo:
   address: ''
   lat: 0.0

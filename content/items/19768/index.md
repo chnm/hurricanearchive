@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 155cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dde452014fb2a0dde48fc.jpg
     url: /files/original/14fb2a0dde452014fb2a0dde48fc.jpg
+    alt:
+      en: "Two uniformed soldiers in camouflage and sunglasses stand together in front of a large military helicopter, while a woman carrying a camera walks behind them on a paved lot."
 geo:
 id: 19768
 item_type: Still Image

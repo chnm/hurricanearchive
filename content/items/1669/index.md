@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27856.jpg
     thumb: /files/thumbnails/14fb2a670d7b8114fb2a670d7f67.jpg
     url: /files/original/14fb2a670d7b8114fb2a670d7f67.jpg
+    alt:
+      en: "A group of people, including children, walk barefoot along a paved road lined with trees, with a man in a white shirt, khakis, and cap walking alongside them."
 geo:
   address: ''
   lat: 0.0

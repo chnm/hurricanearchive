@@ -21,6 +21,8 @@ files:
     original_filename: 120906NOLA106RWlg_e7578e563f.jpg
     thumb: /files/thumbnails/14fb29cc278a3414fb29cc278e19.jpg
     url: /files/original/14fb29cc278a3414fb29cc278e19.jpg
+    alt:
+      en: "A woman in dark clothing and boots sits on a stool, wrapped in chains, holding taut strings radiating outward, with fabric pieces scattered on the floor around her."
 geo:
   address: 900 Camp St.
   lat: 29.94411

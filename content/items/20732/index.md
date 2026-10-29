@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0066H.JPG
     thumb: /files/thumbnails/14fb2a043614d014fb2a043618b3.jpg
     url: /files/original/14fb2a043614d014fb2a043618b3.jpg
+    alt:
+      en: "A woman in a Hooters tank top reading \"Siegen Lane, Baton Rouge\" stands beside a man wearing a gray T-shirt and lanyards, with string lights glowing in the dark background."
 geo:
 id: 20732
 item_type: Still Image

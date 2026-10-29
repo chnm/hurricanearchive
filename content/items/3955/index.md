@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58c35eb114fb2a58c36291.jpg
     url: /files/original/14fb2a58c35eb114fb2a58c36291.jpg
+    alt:
+      en: "A man in a maroon shirt shakes hands with two Coast Guardsmen wearing protective vests, while a crowd including a soldier in camouflage gathers near a building with a red roof."
 geo:
 id: 3955
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2209superdome.JPG
     thumb: /files/thumbnails/14fb29de4970a714fb29de49748e.jpg
     url: /files/original/14fb29de4970a714fb29de49748e.jpg
+    alt:
+      en: "Two military police personnel in camouflage uniforms detain a man face-down on a concrete overpass, with flooded streets and partially submerged vehicles visible in the background."
 geo:
 id: 25394
 item_type: Still Image

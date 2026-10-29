@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-12-10A.jpg
     thumb: /files/thumbnails/14fb29e8aa75a514fb29e8aa798a.jpg
     url: /files/original/14fb29e8aa75a514fb29e8aa798a.jpg
+    alt:
+      en: "Floodwater surrounds a red SUV and a fallen tree blocking the street in front of a building, with a vehicle's side mirror visible in the foreground reflecting the scene."
 geo:
 id: 24336
 item_type: Still Image

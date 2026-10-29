@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28400.jpg
     thumb: /files/thumbnails/14fb2a6ba424a314fb2a6ba42fc1.jpg
     url: /files/original/14fb2a6ba424a314fb2a6ba42fc1.jpg
+    alt:
+      en: "Rows of docked shrimp boats with tall rigging and green nets hanging from their booms, moored along a waterfront under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

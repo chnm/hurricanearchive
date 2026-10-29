@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28464.jpg
     thumb: /files/thumbnails/14fb2a6c96d50e14fb2a6c96d8f8.jpg
     url: /files/original/14fb2a6c96d50e14fb2a6c96d8f8.jpg
+    alt:
+      en: "Damaged multi-story building reading \"PALACE CASINO\" with a partially collapsed glass facade, surrounded by storm debris and bare trees under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: 1281617605_003cdda7ae.jpg
     thumb: /files/thumbnails/14fb29cb92f47414fb29cb92f859.jpg
     url: /files/original/14fb29cb92f47414fb29cb92f859.jpg
+    alt:
+      en: "Large pile of storm debris—mattresses, furniture, and scrap wood—heaped along a roadside near a damaged brick house with boarded windows, under power lines and an overcast sky."
 geo:
 id: 33205
 item_type: Still Image

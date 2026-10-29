@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012-9-25.JPG
     thumb: /files/thumbnails/14fb2a07b4af0414fb2a07b4b2e9.jpg
     url: /files/original/14fb2a07b4af0414fb2a07b4b2e9.jpg
+    alt:
+      en: "A woman with short blonde hair types on a black laptop at a table, wearing a light blue t-shirt that reads \"North Shore Rentals, Est. 1963.\""
 geo:
 id: 20416
 item_type: Still Image

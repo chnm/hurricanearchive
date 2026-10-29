@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a069a099314fb2a069a0d6f.jpg
     url: /files/original/14fb2a069a099314fb2a069a0d6f.jpg
+    alt:
+      en: "View from the side of a military vehicle traveling down a flooded road lined with trees, with a side mirror in the foreground and a car approaching in the distance."
 geo:
 id: 20504
 item_type: Still Image

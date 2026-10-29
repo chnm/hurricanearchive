@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29eaf8b7c514fb29eaf8d1a3.jpg
     url: /files/original/14fb29eaf8b7c514fb29eaf8d1a3.jpg
+    alt:
+      en: "Aerial view of flooded marshland with a dredging barge and crane working in open water, a long constructed berm, and an excavator parked on a narrow strip of vegetated land."
 geo:
 id: 24080
 item_type: Still Image

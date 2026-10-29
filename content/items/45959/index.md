@@ -17,6 +17,8 @@ files:
     original_filename: 9-4-2013 5;49;17 PM.jpg
     thumb: /files/thumbnails/f5f708e13d20a6f70fb256b72ee645f3.jpg
     url: /files/original/f5f708e13d20a6f70fb256b72ee645f3.jpg
+    alt:
+      en: "Large fallen pine trees and broken branches block the path to a single-story house, with its white walls and windows partially visible through the storm-damaged foliage."
 geo:
   address: ''
   lat: 30.608326489239

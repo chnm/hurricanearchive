@@ -21,6 +21,8 @@ files:
     original_filename: Picture 396-J2.jpg
     thumb: /files/thumbnails/14fb29f9b4317914fb29f9b4355f.jpg
     url: /files/original/14fb29f9b4317914fb29f9b4355f.jpg
+    alt:
+      en: "Rows of military cots fill a large indoor space where uniformed service members sit and rest, some eating pizza, with a standing fan and a small television visible among the crowd."
 geo:
 id: 22065
 item_type: Still Image

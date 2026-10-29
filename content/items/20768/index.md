@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0074-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a040550d114fb2a040554b7.jpg
     url: /files/original/14fb2a040550d114fb2a040554b7.jpg
+    alt:
+      en: "Aerial view of a flooded coastal town with submerged roads, debris-strewn properties, bare trees, and a water tower visible in the hazy distance, a two-lane road cutting through standing floodwater in the foreground."
 geo:
 id: 20768
 item_type: Still Image

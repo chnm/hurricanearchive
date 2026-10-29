@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015rita.JPG
     thumb: /files/thumbnails/14fb2a11b5fc3214fb2a11b60021.jpg
     url: /files/original/14fb2a11b5fc3214fb2a11b60021.jpg
+    alt:
+      en: "A man in Army camouflage fatigues stands with hands clasped in a parking area marked \"PARKING,\" with a chain-link fence, trees, and another figure's blurred head in the foreground."
 geo:
 id: 19236
 item_type: Still Image

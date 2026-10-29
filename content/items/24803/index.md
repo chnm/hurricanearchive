@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2125superdome.JPG
     thumb: /files/thumbnails/14fb29e4a54af714fb29e4a55456.jpg
     url: /files/original/14fb29e4a54af714fb29e4a55456.jpg
+    alt:
+      en: "Group of officials, military personnel, and first responders in uniforms—some in camouflage, others in white or black shirts—gather indoors near a wood-paneled doorway, with framed photographs lining the walls."
 geo:
 id: 24803
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 102-06_95a6574ac0.jpg
     thumb: /files/thumbnails/14fb2a2227ec4514fb2a2227f025.jpg
     url: /files/original/14fb2a2227ec4514fb2a2227f025.jpg
+    alt:
+      en: "Five adults pose together indoors at a celebration decorated with green-and-white streamers and balloons, the woman in the center wearing a white dress with a corsage."
 geo:
 id: 12417
 item_type: Still Image

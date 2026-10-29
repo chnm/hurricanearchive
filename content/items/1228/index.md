@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28161.jpg
     thumb: /files/thumbnails/14fb2a6a404f7e14fb2a6a40535e.jpg
     url: /files/original/14fb2a6a404f7e14fb2a6a40535e.jpg
+    alt:
+      en: "Two dormer windows remain on a collapsed roof amid scattered plywood, broken boards, and debris, with a small blue object and shards of torn drywall strewn across the wreckage."
 geo:
   address: ''
   lat: 0.0

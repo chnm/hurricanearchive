@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 070.jpg
     thumb: /files/thumbnails/14fb2a22a3f62c14fb2a22a3fa10.jpg
     url: /files/original/14fb2a22a3f62c14fb2a22a3fa10.jpg
+    alt:
+      en: "Photo taken from inside a vehicle, showing a damaged building with exposed wooden framing and debris, snapped trees, and another car alongside; timestamp reads 2005/09/24."
 geo:
 id: 11948
 item_type: Still Image

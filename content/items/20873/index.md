@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0137-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a026c75af14fb2a026c7995.jpg
     url: /files/original/14fb2a026c75af14fb2a026c7995.jpg
+    alt:
+      en: "A single-story house with blue siding has collapsed, its roof sagging to the ground on one end, surrounded by debris and storm-stripped trees under a clear sky."
 geo:
 id: 20873
 item_type: Still Image

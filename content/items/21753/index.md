@@ -21,6 +21,8 @@ files:
     original_filename: katrina 021.jpg
     thumb: /files/thumbnails/14fb29fbf47b0414fb29fbf47ee8.jpg
     url: /files/original/14fb29fbf47b0414fb29fbf47ee8.jpg
+    alt:
+      en: "Debris-strewn covered walkway with scattered trash, parked vehicles and a school bus, and several people standing or walking among the litter, overpasses visible in the hazy background."
 geo:
 id: 21753
 item_type: Still Image

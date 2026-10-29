@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0165neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef17301714fb29ef1733f5.jpg
     url: /files/original/14fb29ef17301714fb29ef1733f5.jpg
+    alt:
+      en: "A tree-shaded residential street with a chain-link fence, a blue tarp over debris, an orange \"1-800 FLOODED\" sign, a \"No Truck Route\" sign, and a Bus Stop sign near a house."
 geo:
 id: 23531
 item_type: Still Image

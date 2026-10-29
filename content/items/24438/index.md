@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e7b2a98d14fb29e7b2ad73.jpg
     url: /files/original/14fb29e7b2a98d14fb29e7b2ad73.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with widespread storm debris, collapsed structures, and scattered homes among standing floodwater, bordered by a road and a canal."
 geo:
 id: 24438
 item_type: Still Image

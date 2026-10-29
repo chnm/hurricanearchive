@@ -21,6 +21,8 @@ files:
     original_filename: Picture 402-J2.jpg
     thumb: /files/thumbnails/14fb29f9a7b8cc14fb29f9a7c804.jpg
     url: /files/original/14fb29f9a7b8cc14fb29f9a7c804.jpg
+    alt:
+      en: "Interior of a military tent set up as a makeshift office, with personnel in camouflage uniforms surrounded by laptops, cardboard boxes, fans, coolers, and cables strung across the ceiling."
 geo:
 id: 22071
 item_type: Still Image

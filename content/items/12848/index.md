@@ -21,6 +21,8 @@ files:
     original_filename: 9ward florida st7.jpg
     thumb: /files/thumbnails/14fb2a2174d90914fb2a2174dce6.jpg
     url: /files/original/14fb2a2174d90914fb2a2174dce6.jpg
+    alt:
+      en: "A dirt road runs through a devastated neighborhood, lined with storm debris, downed utility poles, and damaged structures under a bright sky."
 geo:
 id: 12848
 item_type: Still Image

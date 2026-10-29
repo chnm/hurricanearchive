@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 066.jpg
     thumb: /files/thumbnails/14fb2a599f035014fb2a599f0736.jpg
     url: /files/original/14fb2a599f035014fb2a599f0736.jpg
+    alt:
+      en: "A large cylindrical storage tank lies toppled on its side amid damaged, broken trees, with a small outbuilding and debris scattered across a grassy field under a clear blue sky."
 geo:
 id: 3786
 item_type: Still Image

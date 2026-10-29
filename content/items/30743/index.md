@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7444.JPG
     thumb: /files/thumbnails/14fb29cc9d4fe614fb29cc9d53cc.jpg
     url: /files/original/14fb29cc9d4fe614fb29cc9d53cc.jpg
+    alt:
+      en: "A large tree limb snapped and splintered, exposing pale raw wood, hangs amid surrounding branches and green foliage against a blue sky."
 geo:
 id: 30743
 item_type: Still Image

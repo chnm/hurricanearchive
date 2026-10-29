@@ -21,6 +21,8 @@ files:
     original_filename: S4300058neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecfb11c114fb29ecfb15a7.jpg
     url: /files/original/14fb29ecfb11c114fb29ecfb15a7.jpg
+    alt:
+      en: "Floodwaters submerge several cars and surround a multistory building, with fallen tree branches and debris floating on the brown water's surface."
 geo:
 id: 23809
 item_type: Still Image

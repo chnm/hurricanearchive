@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1496superdome.JPG
     thumb: /files/thumbnails/14fb29e3587f1614fb29e35886a0.jpg
     url: /files/original/14fb29e3587f1614fb29e35886a0.jpg
+    alt:
+      en: "Three men in camouflage military uniforms stand near a dark communications vehicle and an olive-green military truck, with yellow caution tape strung across the foreground and a large tan tent in the background."
 geo:
 id: 24978
 item_type: Still Image

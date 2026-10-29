@@ -26,6 +26,8 @@ files:
     original_filename: Rita_023_7f5152045b.jpg
     thumb: /files/thumbnails/14fb2a6f5b802014fb2a6f5b8526.jpg
     url: /files/original/14fb2a6f5b802014fb2a6f5b8526.jpg
+    alt:
+      en: "View from inside a car of a storm-damaged wooded property, with large uprooted trees and overturned root masses covering the ground near a driveway leading toward a partially visible house."
 geo:
   address: ''
   lat: 30.281836

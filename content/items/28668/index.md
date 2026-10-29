@@ -26,6 +26,8 @@ files:
     original_filename: 158012079_c6ac9a908d.jpg
     thumb: /files/thumbnails/14fb29d1d7447514fb29d1d749ae.jpg
     url: /files/original/14fb29d1d7447514fb29d1d749ae.jpg
+    alt:
+      en: "Spray-painted black car reading \"I'M BACK!\" and \"5000 Dave\" sits curbside beside a discarded couch and debris pile, with damaged houses and graffiti visible in the background."
 geo:
 id: 28668
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0115cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef59a13714fb29ef59a513.jpg
     url: /files/original/14fb29ef59a13714fb29ef59a513.jpg
+    alt:
+      en: "Silhouetted serviceman wearing a headset and camouflage uniform with a U.S. flag patch stands in an aircraft doorway, looking down at a flooded, forested landscape below."
 geo:
 id: 23460
 item_type: Still Image

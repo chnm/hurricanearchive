@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28375.jpg
     thumb: /files/thumbnails/14fb2a6c5b4d7f14fb2a6c5b5108.jpg
     url: /files/original/14fb2a6c5b4d7f14fb2a6c5b5108.jpg
+    alt:
+      en: "A man in a cap and t-shirt stands in the wheelhouse of a shrimp boat beside a large wooden ship's wheel, with binoculars and other equipment visible on the console."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1091Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f824cf7814fb29f824d364.jpg
     url: /files/original/14fb29f824cf7814fb29f824d364.jpg
+    alt:
+      en: "Silhouette of a person wearing glasses standing beneath a drop ceiling, backlit by fluorescent panel lights, with exposed wiring hanging from an open ceiling tile nearby."
 geo:
 id: 22280
 item_type: Still Image

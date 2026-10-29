@@ -21,6 +21,8 @@ files:
     original_filename: Picture 212cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b37ceef14fb2a0b37d2d5.jpg
     url: /files/original/14fb2a0b37ceef14fb2a0b37d2d5.jpg
+    alt:
+      en: "A military Humvee drives down a residential street past a house with a garage, green lawn, and bare-branched tree in the foreground."
 geo:
 id: 20115
 item_type: Still Image

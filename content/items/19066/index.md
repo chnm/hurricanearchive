@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1878.JPG
     thumb: /files/thumbnails/14fb2a1373b74e14fb2a1373bb82.jpg
     url: /files/original/14fb2a1373b74e14fb2a1373bb82.jpg
+    alt:
+      en: "Aerial view of a highway interchange with a large twin-rotor military helicopter parked on the grassy median, surrounded by trees, roadways, and nearby commercial buildings, with signage reading \"Causeway Blvd South\" and \"Causeway Blvd North Mandeville.\""
 geo:
 id: 19066
 item_type: Still Image

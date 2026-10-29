@@ -27,6 +27,8 @@ files:
     original_filename: 2291271219_46d0f56fae.
     thumb: /files/thumbnails/14fb29c99e5d8e14fb29c99e616c.jpg
     url: /files/original/14fb29c99e5d8e14fb29c99e616c.jpg
+    alt:
+      en: "Gutted downstairs of a blue-sided house with exposed wooden framing, torn screens, and scattered debris; dried grass and a green plant lie among wreckage in the foreground."
 geo:
   address: ''
   lat: 30.22539

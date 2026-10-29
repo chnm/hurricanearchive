@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 115cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e2c9e6e14fb2a0e2ca254.jpg
     url: /files/original/14fb2a0e2c9e6e14fb2a0e2ca254.jpg
+    alt:
+      en: "Storm-damaged \"Furniture factory outlet\" storefront with a dark metal roof, broken windows and doors, and debris, mud, and scorched materials scattered across the covered walkway."
 geo:
 id: 19728
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010063.JPG
     thumb: /files/thumbnails/14fb2a5a95547814fb2a5a955854.jpg
     url: /files/original/14fb2a5a95547814fb2a5a955854.jpg
+    alt:
+      en: "Rows of individual carrel-style desks with chairs line a wall under fluorescent lighting, with a rectangular table and chairs in the foreground of the carpeted room."
 geo:
 id: 3628
 item_type: Still Image

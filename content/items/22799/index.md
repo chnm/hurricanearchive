@@ -21,6 +21,8 @@ files:
     original_filename: DSC 006717thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f3a38dd614fb29f3a391bb.jpg
     url: /files/original/14fb29f3a38dd614fb29f3a391bb.jpg
+    alt:
+      en: "Aerial view of a canal lined with a breached levee and rubble, surrounded by storm-damaged homes with debris-covered yards and defoliated trees."
 geo:
 id: 22799
 item_type: Still Image

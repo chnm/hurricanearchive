@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0238-9-25.JPG
     thumb: /files/thumbnails/14fb29ff31526d14fb29ff315cd0.jpg
     url: /files/original/14fb29ff31526d14fb29ff315cd0.jpg
+    alt:
+      en: "Aerial view of a flooded industrial refinery with numerous pipes, storage tanks, and tall smokestacks, surrounded by standing floodwater and open rural fields in the background."
 geo:
 id: 21366
 item_type: Still Image

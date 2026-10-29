@@ -21,6 +21,8 @@ files:
     original_filename: slide6.jpg
     thumb: /files/thumbnails/14fb2a1931e9f214fb2a1931edd8.jpg
     url: /files/original/14fb2a1931e9f214fb2a1931edd8.jpg
+    alt:
+      en: "Two K-9 search team members in helmets and reflective vests, one with \"K-9 UNIT\" on his back, stand amid storm debris with a dog searching the wreckage."
 geo:
 id: 14416
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2166rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13ce961e14fb2a13ce9a02.jpg
     url: /files/original/14fb2a13ce961e14fb2a13ce9a02.jpg
+    alt:
+      en: "Crew members in flight helmets and fatigues stand near the open door of a helicopter, with a flooded neighborhood of rooftops and submerged streets visible below."
 geo:
 id: 19001
 item_type: Still Image

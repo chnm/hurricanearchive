@@ -20,6 +20,8 @@ files:
     original_filename: 2457403880_f56f822d3f.
     thumb: /files/thumbnails/14fb29c878a7da14fb29c878abba.jpg
     url: /files/original/14fb29c878a7da14fb29c878abba.jpg
+    alt:
+      en: "A muddy, unpaved road stretches toward a line of vehicles under an overcast sky, with excavation equipment and churned earth piled along the roadside; a timestamp reads 02-04-2006."
 geo:
 id: 34926
 item_type: Still Image

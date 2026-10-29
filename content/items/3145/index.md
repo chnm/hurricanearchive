@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lower Garden (2).JPG
     thumb: /files/thumbnails/14fb2a5dbb014e14fb2a5dbb0533.jpg
     url: /files/original/14fb2a5dbb014e14fb2a5dbb0533.jpg
+    alt:
+      en: "Wood-paneled media cabinet holding stacked stereo and video components with tangled cables, beside a desk and old CRT television covered in debris and plaster fragments from ceiling damage."
 geo:
 id: 3145
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC01190.JPG
     thumb: /files/thumbnails/14fb2a58330f9a14fb2a583313a3.jpg
     url: /files/original/14fb2a58330f9a14fb2a583313a3.jpg
+    alt:
+      en: "Group of approximately sixteen U.S. Coast Guard personnel in navy uniforms posing for a team photo in front of a white trailer, with a city skyline visible in the background; timestamp reads 8:04 AM."
 geo:
 id: 4055
 item_type: Still Image

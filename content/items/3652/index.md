@@ -24,6 +24,8 @@ files:
     original_filename: P1010088.JPG
     thumb: /files/thumbnails/14fb2a5a5c651f14fb2a5a5e0c3e.jpg
     url: /files/original/14fb2a5a5c651f14fb2a5a5e0c3e.jpg
+    alt:
+      en: "Interior of a flood-damaged home with floral wallpaper, showing an overturned piano, toppled chairs, a decorative column, and artificial plants piled amid collapsed furniture and debris."
 geo:
 id: 3652
 item_type: Still Image

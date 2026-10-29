@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0219-9-25.JPG
     thumb: /files/thumbnails/14fb29ff99566614fb29ff995a36.jpg
     url: /files/original/14fb29ff99566614fb29ff995a36.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with scattered farm buildings, trees, and vehicles surrounded by muddy floodwater, bordered by unaffected cultivated fields."
 geo:
 id: 21293
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27874.jpg
     thumb: /files/thumbnails/14fb2a686b4ecf14fb2a686b52c5.jpg
     url: /files/original/14fb2a686b4ecf14fb2a686b52c5.jpg
+    alt:
+      en: "A man in a cap and white shirt hands documents to a woman in a white shirt, with floodwater surrounding houses and boats, including a person poling a small boat in the background."
 geo:
   address: ''
   lat: 0.0

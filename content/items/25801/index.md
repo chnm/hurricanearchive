@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-5789_4ee33ad798.jpg
     thumb: /files/thumbnails/14fb29dc2aee3214fb29dc2af2ad.jpg
     url: /files/original/14fb29dc2aee3214fb29dc2af2ad.jpg
+    alt:
+      en: "Damaged building with collapsed roof and exposed interior, surrounded by fallen trees with dried, browned leaves, under a partly cloudy sky."
 geo:
 id: 25801
 item_type: Still Image

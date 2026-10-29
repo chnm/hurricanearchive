@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0417_13f7243c44.JPG
     thumb: /files/thumbnails/14fb2a6fcbce9e14fb2a6fcbd252.jpg
     url: /files/original/14fb2a6fcbce9e14fb2a6fcbd252.jpg
+    alt:
+      en: "A sand-covered coastal road stretches toward the horizon, flanked by storm-damaged trees, a parked truck, and traffic barricades marking construction or cleanup work."
 geo:
   address: ''
   lat: 30.337324394179

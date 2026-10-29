@@ -23,6 +23,8 @@ files:
     original_filename: 2326069815_5a78b36b8e.
     thumb: /files/thumbnails/14fb29c9e0061414fb29c9e009fd.jpg
     url: /files/original/14fb29c9e0061414fb29c9e009fd.jpg
+    alt:
+      en: "Severely damaged house on Carr Drive with its roof torn open and walls collapsed onto a crushed white pickup truck, surrounded by scattered debris, a bare tree, and cracked pavement."
 geo:
   address: ''
   lat: 30.23382

@@ -21,6 +21,8 @@ files:
     original_filename: sludge street.JPG
     thumb: /files/thumbnails/14fb2a1a70211314fb2a1a7024f8.jpg
     url: /files/original/14fb2a1a70211314fb2a1a7024f8.jpg
+    alt:
+      en: "A mud-covered residential street at dusk, with tire tracks through the sludge, parked cars coated in grime, bare storm-damaged trees, and a backhoe with lights on in the distance."
 geo:
   address: ''
   lat: 0.0

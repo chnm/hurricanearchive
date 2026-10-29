@@ -21,6 +21,8 @@ files:
     original_filename: LeoSchaeffer1C_1bf8c14e3b.jpg
     thumb: /files/thumbnails/14fb29dd46a19914fb29dd46a882.jpg
     url: /files/original/14fb29dd46a19914fb29dd46a882.jpg
+    alt:
+      en: "Large group of cheerleaders in black uniforms with arms raised, facing a crowd outdoors near parked cars and a Blue Bell Ice Cream truck, with other uniformed cheerleaders visible to the side."
 geo:
 id: 25540
 item_type: Still Image

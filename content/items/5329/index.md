@@ -23,6 +23,8 @@ files:
     original_filename: New Orleans 161_8268c1ef8f.jpg
     thumb: /files/thumbnails/14fb2a5312137c14fb2a5312420f.jpg
     url: /files/original/14fb2a5312137c14fb2a5312420f.jpg
+    alt:
+      en: "A man standing on a rooftop lowers a golden retriever in a rescue harness down to two men reaching up from below, with storm-damaged trees in the background."
 geo:
   address: ''
   lat: 30.06909

@@ -20,6 +20,8 @@ files:
     original_filename: 2297838435_348809efa9.
     thumb: /files/thumbnails/14fb29c7d0526d14fb29c7d05654.jpg
     url: /files/original/14fb29c7d0526d14fb29c7d05654.jpg
+    alt:
+      en: "Two women examine a red bicycle frame near a chain-link fence, with another bicycle leaning against the fence and a blue shipping container in the background."
 geo:
 id: 34999
 item_type: Still Image

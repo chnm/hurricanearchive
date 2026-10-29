@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7110_60295870a2.jpg
     thumb: /files/thumbnails/14fb29d387a67114fb29d387aa57.jpg
     url: /files/original/14fb29d387a67114fb29d387aa57.jpg
+    alt:
+      en: "Four young girls in matching blue swimsuits pose arm-in-arm poolside, with a lifeguard chair, pennant flags, and a grassy hill in the background; an adult stands to the right."
 geo:
   address: ''
   lat: 29.84064

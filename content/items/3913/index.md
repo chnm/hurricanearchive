@@ -21,6 +21,8 @@ files:
     original_filename: 100_0210.JPG
     thumb: /files/thumbnails/14fb2a58eefff914fb2a58ef03df.jpg
     url: /files/original/14fb2a58eefff914fb2a58ef03df.jpg
+    alt:
+      en: "Floodwater submerges tree trunks and the lower walls of a house along a residential street, with a small boat carrying people visible in the distance on the flooded road."
 geo:
 id: 3913
 item_type: Still Image

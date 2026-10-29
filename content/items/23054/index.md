@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064OEP.JPG
     thumb: /files/thumbnails/14fb29f1b4687c14fb29f1b46c5c.jpg
     url: /files/original/14fb29f1b4687c14fb29f1b46c5c.jpg
+    alt:
+      en: "Man in a maroon shirt sits in a folding chair using a laptop under a tent, surrounded by camera equipment, tripods, cables, and traffic cones, with vehicles parked in the background."
 geo:
 id: 23054
 item_type: Still Image

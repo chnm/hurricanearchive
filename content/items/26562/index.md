@@ -20,6 +20,8 @@ files:
     original_filename: Empty Gate_7a3e8f6208.jpg
     thumb: /files/thumbnails/14fb29d855ee8214fb29d855f269.jpg
     url: /files/original/14fb29d855ee8214fb29d855f269.jpg
+    alt:
+      en: "Black-and-white photo of an ornate wrought-iron gate standing open amid an overgrown, empty lot, with scattered debris and distant buildings under a pale sky."
 geo:
   address: Ninth Ward
   lat: 0.0

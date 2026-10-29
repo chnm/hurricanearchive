@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019.JPG
     thumb: /files/thumbnails/14fb2a0703a9ff14fb2a0703ae14.jpg
     url: /files/original/14fb2a0703a9ff14fb2a0703ae14.jpg
+    alt:
+      en: "Four men, one in a gray polo shirt and three in Army camouflage uniforms (one named \"Simon,\" another \"Karr\"), gather around laptops on a table, with bulletin board flyers and a brick wall in the background."
 geo:
 id: 20469
 item_type: Still Image

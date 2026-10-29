@@ -21,6 +21,8 @@ files:
     original_filename: NO 018majortodd.jpg
     thumb: /files/thumbnails/14fb29f2dbe44814fb29f2dbe840.jpg
     url: /files/original/14fb29f2dbe44814fb29f2dbe840.jpg
+    alt:
+      en: "Large crowd of evacuees gathered on an airport tarmac beside emergency vehicles, with a military helicopter, police car, and uniformed personnel standing on the runway in the foreground."
 geo:
 id: 22896
 item_type: Still Image

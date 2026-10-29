@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea48ca6e14fb29ea48de0f.jpg
     url: /files/original/14fb29ea48ca6e14fb29ea48de0f.jpg
+    alt:
+      en: "Aerial view of a flooded, fog-shrouded landscape, with scattered patches of darker water or marsh visible beneath a hazy gray sky."
 geo:
 id: 24145
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: slide16.jpg
     thumb: /files/thumbnails/14fb2a1949183914fb2a19491c2b.jpg
     url: /files/original/14fb2a1949183914fb2a19491c2b.jpg
+    alt:
+      en: "A storm-damaged roadway lined with fallen trees, debris, and stripped branches, with a yellow road sign indicating a right curve ahead under a clear blue sky."
 geo:
 id: 14398
 item_type: Still Image

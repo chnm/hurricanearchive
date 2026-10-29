@@ -21,6 +21,8 @@ files:
     original_filename: 7_ea52dd0a24.jpg
     thumb: /files/thumbnails/14fb29c5f6093314fb29c5f60d23.jpg
     url: /files/original/14fb29c5f6093314fb29c5f60d23.jpg
+    alt:
+      en: "Aged Polaroid photo of an older man in a white shirt sitting in a black leather chair, smiling, with a cluttered office backdrop including shelves, binders, and a cash register."
 geo:
   address: 738 poland ave, new orleans, la
   lat: 29.96118

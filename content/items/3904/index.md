@@ -21,6 +21,8 @@ files:
     original_filename: 100_0201.JPG
     thumb: /files/thumbnails/14fb2a590b1dbf14fb2a590b21a3.jpg
     url: /files/original/14fb2a590b1dbf14fb2a590b21a3.jpg
+    alt:
+      en: "Floodwater submerges a residential street, reaching porch columns and a green \"wearable vegetables\" sign, with houses in the background showing plywood-boarded doors and windows."
 geo:
 id: 3904
 item_type: Still Image

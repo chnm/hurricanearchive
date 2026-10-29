@@ -21,6 +21,8 @@ files:
     original_filename: aerials15.jpg
     thumb: /files/thumbnails/14fb2a19e3c73914fb2a19e3cbf8.jpg
     url: /files/original/14fb2a19e3c73914fb2a19e3cbf8.jpg
+    alt:
+      en: "Aerial view of a forested area with widespread tree damage, debris scattered across the ground, and a small blue object near the bottom of the frame."
 geo:
 id: 14304
 item_type: Still Image

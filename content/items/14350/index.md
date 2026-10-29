@@ -21,6 +21,8 @@ files:
     original_filename: aerials60.jpg
     thumb: /files/thumbnails/14fb2a19ac61f914fb2a19ac65de.jpg
     url: /files/original/14fb2a19ac61f914fb2a19ac65de.jpg
+    alt:
+      en: "Aerial view of a coastal peninsula with debris fields, scattered leafless trees, and demolished structures surrounded by water on both sides."
 geo:
 id: 14350
 item_type: Still Image

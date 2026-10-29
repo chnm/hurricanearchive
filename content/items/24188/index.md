@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028cameronS&R.JPG
     thumb: /files/thumbnails/14fb29e9fbd43414fb29e9fbdf31.jpg
     url: /files/original/14fb29e9fbd43414fb29e9fbdf31.jpg
+    alt:
+      en: "Aerial view of extensive flooding over marshland, with scattered debris, downed power lines, and a submerged vehicle; a curved roadway with trucks runs along the right side."
 geo:
 id: 24188
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: slide20.jpg
     thumb: /files/thumbnails/14fb2a193e303414fb2a193e3749.jpg
     url: /files/original/14fb2a193e303414fb2a193e3749.jpg
+    alt:
+      en: "A damaged living room with an overturned television, a metal grate table, and a framed portrait lying sideways, debris and mud covering the floor, captioned \"Fran's Mom's house, living room, 16 feet of water.\""
 geo:
 id: 14402
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0080neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed343cd214fb29ed3440b7.jpg
     url: /files/original/14fb29ed343cd214fb29ed3440b7.jpg
+    alt:
+      en: "Military vehicle with an MRE ration box in foreground overlooks an elevated highway, with storm-damaged buildings, scattered debris, and a \"Bros. Lumber\" sign visible below; image dated 09.15.2005."
 geo:
 id: 23766
 item_type: Still Image

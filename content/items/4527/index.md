@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0739.JPG
     thumb: /files/thumbnails/14fb2a57104aeb14fb2a57104ed9.jpg
     url: /files/original/14fb2a57104aeb14fb2a57104ed9.jpg
+    alt:
+      en: "A metal-roofed shed with corrugated siding stands amid fallen trees and storm debris, surrounded by dry grass and tall pines under a clear sky."
 geo:
 id: 4527
 item_type: Still Image

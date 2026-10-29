@@ -26,6 +26,8 @@ files:
     original_filename: Katrina__Rita_survivor_27d8d3ae55.jpg
     thumb: /files/thumbnails/14fb2a6d54b33a14fb2a6d54b71c.jpg
     url: /files/original/14fb2a6d54b33a14fb2a6d54b71c.jpg
+    alt:
+      en: "A small green tree frog clings to the white rubber sole of an overturned rain boot resting on a wooden rail, with grass visible in the background."
 geo:
   address: ''
   lat: 30.342352

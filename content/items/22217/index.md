@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1024Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f910d85c14fb29f910dbb1.jpg
     url: /files/original/14fb29f910d85c14fb29f910dbb1.jpg
+    alt:
+      en: "Military helicopter parked on a grassy lawn with a brick building and trees in the background; a crew member in uniform and helmet sits visible in the open side doorway."
 geo:
 id: 22217
 item_type: Still Image

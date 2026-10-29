@@ -29,18 +29,24 @@ files:
     original_filename: hotboil2_f0e4b728d6.jpg
     thumb: /files/thumbnails/14fb29d9ed3ddf14fb29d9ed41c5.jpg
     url: /files/original/14fb29d9ed3ddf14fb29d9ed41c5.jpg
+    alt:
+      en: "A man in a baseball cap uses a hose to rinse a large mesh basket filled with crawfish at an outdoor festival, with tents and crowds visible in the background."
   - fullsize: /files/fullsize/14fb29d9eb821414fb29d9eb8f9e.jpg
     id: 22770
     mime: image/jpeg
     original_filename: hotboil5_11edab8ce3.jpg
     thumb: /files/thumbnails/14fb29d9eb821414fb29d9eb8f9e.jpg
     url: /files/original/14fb29d9eb821414fb29d9eb8f9e.jpg
+    alt:
+      en: "Two men stir a large steaming vat of boiled crawfish at an outdoor festival, one wearing a dark t-shirt and the other a blue jersey with partial lettering visible."
   - fullsize: /files/fullsize/14fb29d9ea34c914fb29d9ea38ac.jpg
     id: 22771
     mime: image/jpeg
     original_filename: hotboil7_21ef219343.jpg
     thumb: /files/thumbnails/14fb29d9ea34c914fb29d9ea38ac.jpg
     url: /files/original/14fb29d9ea34c914fb29d9ea38ac.jpg
+    alt:
+      en: "A large pile of bright red boiled crawfish fills the frame, photographed at the 2005 Crawfish Festival in St. Bernard Parish."
 geo:
 id: 26166
 item_type: Still Image

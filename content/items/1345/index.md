@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27971.jpg
     thumb: /files/thumbnails/14fb2a696961b714fb2a69696590.jpg
     url: /files/original/14fb2a696961b714fb2a69696590.jpg
+    alt:
+      en: "A white sedan parked under a large tree in front of a brick building with arched windows and a storefront, dirty high-water marks visible on the vehicle and surroundings."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0123-21-2.JPG
     thumb: /files/thumbnails/14fb29e647abcd14fb29e647afb0.jpg
     url: /files/original/14fb29e647abcd14fb29e647afb0.jpg
+    alt:
+      en: "A man in camouflage military fatigues stands indoors adjusting his collar, with a flip chart, folding chairs, and other people in uniform visible in the background."
 geo:
 id: 24593
 item_type: Still Image

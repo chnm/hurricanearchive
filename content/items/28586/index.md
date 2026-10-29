@@ -23,6 +23,8 @@ files:
     original_filename: 162618074_a45ae5d2a3.jpg
     thumb: /files/thumbnails/14fb29d2386bcf14fb29d2386fbc.jpg
     url: /files/original/14fb29d2386bcf14fb29d2386fbc.jpg
+    alt:
+      en: "Brick house porch with a white column decorated with a wreath, a security-gated front door, and a boarded-up window covered with a damaged sheet of plywood."
 geo:
 id: 28586
 item_type: Still Image

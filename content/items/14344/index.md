@@ -21,6 +21,8 @@ files:
     original_filename: aerials55.jpg
     thumb: /files/thumbnails/14fb2a19baea4014fb2a19baede8.jpg
     url: /files/original/14fb2a19baea4014fb2a19baede8.jpg
+    alt:
+      en: "Aerial view of a residential property reduced to rubble and ash, surrounded by scorched, leafless trees, with only partial foundations and debris remaining where structures once stood."
 geo:
 id: 14344
 item_type: Still Image

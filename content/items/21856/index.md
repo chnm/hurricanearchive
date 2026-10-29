@@ -21,6 +21,8 @@ files:
     original_filename: EO A0012.TIF
     thumb: /files/thumbnails/14fb29fb5d174514fb29fb5d1b29.jpg
     url: /files/original/14fb29fb5d174514fb29fb5d1b29.TIF
+    alt:
+      en: "Black-and-white aerial/satellite view of a waterway or canal dividing a dense tree-lined area from industrial docks, warehouses, and rail yards, with a bridge crossing the water near the bottom."
 geo:
 id: 21856
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: boat mooring.jpg
     thumb: /files/thumbnails/14fb2a1ecac64214fb2a1ecb992a.jpg
     url: /files/original/14fb2a1ecac64214fb2a1ecb992a.jpg
+    alt:
+      en: "A concrete boat mooring structure with a metal cleat on top sits in choppy gray water, with a hazy, rain-obscured shoreline of trees and a building visible in the distance."
 geo:
 id: 13241
 item_type: Still Image

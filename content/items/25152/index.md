@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1762superdome.JPG
     thumb: /files/thumbnails/14fb29e1d9c44214fb29e1d9c8e0.jpg
     url: /files/original/14fb29e1d9c44214fb29e1d9c8e0.jpg
+    alt:
+      en: "Military personnel in camouflage and tan uniforms unload a pack of Nestle Pure Life bottled water and cardboard boxes from a helicopter, with a crowd gathered around the aircraft's open door."
 geo:
 id: 25152
 item_type: Still Image

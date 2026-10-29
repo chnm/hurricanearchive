@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28439.jpg
     thumb: /files/thumbnails/14fb2a69092e5014fb2a69093278.jpg
     url: /files/original/14fb2a69092e5014fb2a69093278.jpg
+    alt:
+      en: "Damaged storefront with \"Always Food Center\" and McDonald's arches signage, broken entrance, debris scattered across the fenced-off parking lot."
 geo:
   address: ''
   lat: 0.0

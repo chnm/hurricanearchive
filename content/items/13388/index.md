@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4982_7608eb74b1.jpg
     thumb: /files/thumbnails/14fb2a1e1e610514fb2a1e1e64ee.jpg
     url: /files/original/14fb2a1e1e610514fb2a1e1e64ee.jpg
+    alt:
+      en: "Three males pose in a wood-cabinet kitchen: an older man in a plaid shirt, a teenager in a white tank top and jeans, and a young boy in a striped shirt standing in front."
 geo:
 id: 13388
 item_type: Still Image

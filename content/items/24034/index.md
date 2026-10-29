@@ -21,6 +21,8 @@ files:
     original_filename: Boat next to I-10 2 in NOneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb698f6614fb29eb69a02c.jpg
     url: /files/original/14fb29eb698f6614fb29eb69a02c.jpg
+    alt:
+      en: "Several boats stranded on dry, browned grass beside an elevated highway overpass, with a lone tree and scattered standing water in the field."
 geo:
 id: 24034
 item_type: Still Image

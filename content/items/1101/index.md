@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28096.jpg
     thumb: /files/thumbnails/14fb2a6b01314b14fb2a6b013531.jpg
     url: /files/original/14fb2a6b01314b14fb2a6b013531.jpg
+    alt:
+      en: "A house with a damaged shingle roof covered by large blue tarps, surrounded by trees and a chain-link fence with a partially visible warning sign in the foreground."
 geo:
   address: ''
   lat: 0.0

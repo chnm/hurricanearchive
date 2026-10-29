@@ -21,6 +21,8 @@ files:
     original_filename: FH000010.jpg
     thumb: /files/thumbnails/14fb29fc9c448d14fb29fc9ca6a1.jpg
     url: /files/original/14fb29fc9c448d14fb29fc9ca6a1.jpg
+    alt:
+      en: "Large black cauldron filled with sliced sausage cooking in broth, with a metal stirring paddle inside; two people's legs and feet are visible standing on gravel nearby."
 geo:
 id: 21676
 item_type: Still Image

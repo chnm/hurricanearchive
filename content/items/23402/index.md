@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0089abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef9c355e14fb29ef9c3945.jpg
     url: /files/original/14fb29ef9c355e14fb29ef9c3945.jpg
+    alt:
+      en: "An armadillo stands in patchy grass beneath fallen tree branches and debris, with a thick layer of dried brush covering the ground in the foreground."
 geo:
 id: 23402
 item_type: Still Image

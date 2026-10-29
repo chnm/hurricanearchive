@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28060.jpg
     thumb: /files/thumbnails/14fb2a6c9634e914fb2a6c9638d9.jpg
     url: /files/original/14fb2a6c9634e914fb2a6c9638d9.jpg
+    alt:
+      en: "A man wearing a cap crouches on cracked, dried mud amid storm debris, examining a damaged Fisher Price toy castle, with overturned tanks and a boat visible in the background."
 geo:
   address: ''
   lat: 0.0

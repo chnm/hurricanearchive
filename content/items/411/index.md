@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0391_a60b9b62df.JPG
     thumb: /files/thumbnails/14fb2a7012ccfd14fb2a7012d0e3.jpg
     url: /files/original/14fb2a7012ccfd14fb2a7012d0e3.jpg
+    alt:
+      en: "A rusted metal headboard with ceramic finials lies toppled amid rubble and dried branches on a debris-strewn sidewalk in Bay St. Louis."
 geo:
   address: ''
   lat: 30.337324394179

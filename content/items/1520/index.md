@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28756.jpg
     thumb: /files/thumbnails/14fb2a682a4d5114fb2a682a5136.jpg
     url: /files/original/14fb2a682a4d5114fb2a682a5136.jpg
+    alt:
+      en: "Open-sided metal pavilions at a fairgrounds covered area hold piles of donated supplies in cardboard boxes and bags, with tarps, a white pickup truck, and a cart nearby under a clear sky."
 geo:
   address: ''
   lat: 0.0

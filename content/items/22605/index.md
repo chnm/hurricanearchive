@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0569Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f51235c614fb29f51239b3.jpg
     url: /files/original/14fb29f51235c614fb29f51239b3.jpg
+    alt:
+      en: "Floodwaters submerge a low-lying area with partially underwater brick buildings, a leaning tree, and utility poles with sagging power lines, under an overcast sky."
 geo:
 id: 22605
 item_type: Still Image

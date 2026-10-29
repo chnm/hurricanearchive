@@ -23,6 +23,8 @@ files:
     original_filename: 1259921878_ca54826caf.jpg
     thumb: /files/thumbnails/14fb29cb5d251514fb29cb5d28fa.jpg
     url: /files/original/14fb29cb5d251514fb29cb5d28fa.jpg
+    alt:
+      en: "Weathered wooden window boarded over with planks, set in a green-painted wall with peeling paint; a torn strip of yellow material hangs above the frame."
 geo:
 id: 33233
 item_type: Still Image

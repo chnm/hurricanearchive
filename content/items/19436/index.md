@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0294cropengineers.jpg
     thumb: /files/thumbnails/14fb2a100799e914fb2a10079d71.jpg
     url: /files/original/14fb2a100799e914fb2a10079d71.jpg
+    alt:
+      en: "A worker in a red hard hat operates a Bobcat skid-steer loader marked \"763,\" pushing thick mud and sludge off a cracked, debris-covered street near a parked car."
 geo:
 id: 19436
 item_type: Still Image

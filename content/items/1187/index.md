@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27932.jpg
     thumb: /files/thumbnails/14fb2a6a95d24114fb2a6a95d7c2.jpg
     url: /files/original/14fb2a6a95d24114fb2a6a95d7c2.jpg
+    alt:
+      en: "A parking garage entrance with a \"Garage Closed\" sign in the window, a fallen \"Clearance 9'\" height sign on the ground, and an automatic security gate arm beside a brick walkway."
 geo:
   address: ''
   lat: 0.0

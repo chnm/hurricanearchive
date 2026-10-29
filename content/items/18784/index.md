@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2213bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a154090b014fb2a1540949d.jpg
     url: /files/original/14fb2a154090b014fb2a1540949d.jpg
+    alt:
+      en: "A group of military personnel in camouflage uniforms stand on an airport tarmac beside a white jet, with several photographers capturing the scene near the aircraft's open door."
 geo:
 id: 18784
 item_type: Still Image

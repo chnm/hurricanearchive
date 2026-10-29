@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1023Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f911f49214fb29f911f4eb.jpg
     url: /files/original/14fb29f911f49214fb29f911f4eb.jpg
+    alt:
+      en: "A United States Army Black Hawk helicopter with rotors spinning sits on a grassy lawn near brick buildings, with a person visible inside the open side door."
 geo:
 id: 22216
 item_type: Still Image

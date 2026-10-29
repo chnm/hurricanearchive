@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0235-21.JPG
     thumb: /files/thumbnails/14fb29ff3dce3514fb29ff3dd24f.jpg
     url: /files/original/14fb29ff3dce3514fb29ff3dd24f.jpg
+    alt:
+      en: "Aerial view of a historic French Quarter district with a central park featuring an equestrian statue, surrounded by rooftops, church steeples, and the Mississippi River with a bridge in the background."
 geo:
 id: 21355
 item_type: Still Image

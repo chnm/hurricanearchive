@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27879.jpg
     thumb: /files/thumbnails/14fb2a6c226e6d14fb2a6c227251.jpg
     url: /files/original/14fb2a6c226e6d14fb2a6c227251.jpg
+    alt:
+      en: "A man in a green shirt and cap gestures while standing beside a mobile home crushed by a large fallen oak tree, with debris and a garden hose scattered across the yard."
 geo:
   address: ''
   lat: 0.0

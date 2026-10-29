@@ -24,6 +24,8 @@ files:
     original_filename: P1010117a.JPG
     thumb: /files/thumbnails/14fb2a5aebee0a14fb2a5aebf1df.jpg
     url: /files/original/14fb2a5aebee0a14fb2a5aebf1df.jpg
+    alt:
+      en: "Partially constructed building with damaged black exterior siding exposing yellow insulation panels, surrounded by chain-link fencing, debris, and a bare dirt lot with a large tree in the foreground."
 geo:
 id: 3542
 item_type: Still Image

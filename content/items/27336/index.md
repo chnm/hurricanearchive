@@ -23,6 +23,8 @@ files:
     original_filename: 336693373_86aa33149a.jpg
     thumb: /files/thumbnails/14fb29d494a4e214fb29d494a954.jpg
     url: /files/original/14fb29d494a4e214fb29d494a954.jpg
+    alt:
+      en: "A woman with red hair walks past a storm-damaged house with boarded windows and orange spray-painted markings, a large pile of dead brush in the yard."
 geo:
 id: 27336
 item_type: Still Image

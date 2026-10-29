@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2121superdome.JPG
     thumb: /files/thumbnails/14fb29e4a9decb14fb29e4a9e293.jpg
     url: /files/original/14fb29e4a9decb14fb29e4a9e293.jpg
+    alt:
+      en: "Three service members in camouflage uniforms stand on a brick plaza holding leashed small white dogs, with a large building and other personnel visible in the background."
 geo:
 id: 24799
 item_type: Still Image

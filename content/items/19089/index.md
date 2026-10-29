@@ -21,6 +21,8 @@ files:
     original_filename: slidel 100505.jpg
     thumb: /files/thumbnails/14fb2a133401a714fb2a1334058d.jpg
     url: /files/original/14fb2a133401a714fb2a1334058d.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with blue tarps covering many rooftops, debris piles lining streets and yards, two sailboats stranded on land, and a waterway running through the community."
 geo:
 id: 19089
 item_type: Still Image

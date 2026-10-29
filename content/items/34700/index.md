@@ -20,6 +20,8 @@ files:
     original_filename: 2433990571_b226abcb14.
     thumb: /files/thumbnails/14fb29c9724abb14fb29c9724ea1.jpg
     url: /files/original/14fb29c9724abb14fb29c9724ea1.jpg
+    alt:
+      en: "Empty lot with a cleared driveway and brick mailbox post marked \"160,\" surrounded by storm-damaged, leafless trees and scattered debris under an overcast sky."
 geo:
 id: 34700
 item_type: Still Image

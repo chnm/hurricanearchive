@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033M.JPG
     thumb: /files/thumbnails/14fb2a062eb4e714fb2a062eb8cd.jpg
     url: /files/original/14fb2a062eb4e714fb2a062eb8cd.jpg
+    alt:
+      en: "A large fallen cylindrical structure, likely a toppled sign or tank, lies across a parking lot next to a damaged building with a partially collapsed metal roof and a red car parked nearby."
 geo:
 id: 20557
 item_type: Still Image

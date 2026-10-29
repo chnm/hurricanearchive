@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2160conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11c71d0714fb2a11c72091.jpg
     url: /files/original/14fb2a11c71d0714fb2a11c72091.jpg
+    alt:
+      en: "Military Humvees, including one marked \"Military Police,\" and trucks line a debris-strewn intersection at Loyola Avenue, with soldiers gathered on a grassy median and city high-rises in the background."
 geo:
 id: 19215
 item_type: Still Image

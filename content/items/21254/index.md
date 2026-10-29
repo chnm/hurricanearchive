@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0208-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ffbf084b14fb29ffbf0c33.jpg
     url: /files/original/14fb29ffbf084b14fb29ffbf0c33.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood with houses reduced to scattered debris, a few surviving trees, and streets lined with destroyed vehicles and rubble."
 geo:
 id: 21254
 item_type: Still Image

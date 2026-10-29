@@ -21,6 +21,8 @@ files:
     original_filename: S4300028zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f1029ed14fb2a0f102d97.jpg
     url: /files/original/14fb2a0f1029ed14fb2a0f102d97.jpg
+    alt:
+      en: "Row of military camouflage trucks with cargo beds loaded with bottled water and boxed supplies, parked in a lot alongside commercial semi-trailers, with a distant McDonald's sign visible."
 geo:
 id: 19574
 item_type: Still Image

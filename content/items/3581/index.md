@@ -24,6 +24,8 @@ files:
     original_filename: P1010008.JPG
     thumb: /files/thumbnails/14fb2a5ab88e9914fb2a5ab89225.jpg
     url: /files/original/14fb2a5ab88e9914fb2a5ab89225.jpg
+    alt:
+      en: "Water drips from a mold-covered, damaged kitchen drawer into a rusted, decaying cabinet beneath a countertop, with debris visible inside the open drawer."
 geo:
 id: 3581
 item_type: Still Image

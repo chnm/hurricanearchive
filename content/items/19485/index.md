@@ -21,6 +21,8 @@ files:
     original_filename: Picture 045engineers.jpg
     thumb: /files/thumbnails/14fb2a0fc2aba314fb2a0fc2c363.jpg
     url: /files/original/14fb2a0fc2aba314fb2a0fc2c363.jpg
+    alt:
+      en: "Aerial view of a university campus and surrounding residential neighborhood, with streets and some low-lying areas showing standing floodwater among the buildings and tree-lined blocks."
 geo:
 id: 19485
 item_type: Still Image

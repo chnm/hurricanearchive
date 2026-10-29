@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1280Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6725bad14fb29f6725f89.jpg
     url: /files/original/14fb29f6725bad14fb29f6725f89.jpg
+    alt:
+      en: "Two people wade through chest-deep floodwater beneath a columned porch of a white two-story building, one wearing a yellow life vest; a door marked \"ENTRANCE\" is visible behind them."
 geo:
 id: 22439
 item_type: Still Image

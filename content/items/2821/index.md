@@ -21,6 +21,8 @@ files:
     original_filename: MVC-012S.JPG
     thumb: /files/thumbnails/14fb2a5ff3d25414fb2a5ff3d63b.jpg
     url: /files/original/14fb2a5ff3d25414fb2a5ff3d63b.jpg
+    alt:
+      en: "A Navy helicopter marked \"NAVY HSL-31\" sits parked on pavement with its rotor blades folded back, another aircraft visible in the background under a clear blue sky."
 geo:
 id: 2821
 item_type: Still Image

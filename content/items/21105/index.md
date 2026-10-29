@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0177-9-25.JPG
     thumb: /files/thumbnails/14fb2a0096273c14fb2a00963186.jpg
     url: /files/original/14fb2a0096273c14fb2a00963186.jpg
+    alt:
+      en: "Aerial view of a floodwater-submerged road, with faint lane markings visible beneath the water's surface and partially submerged trees and debris along the edges."
 geo:
 id: 21105
 item_type: Still Image

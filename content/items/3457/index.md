@@ -24,6 +24,8 @@ files:
     original_filename: P1010025.JPG
     thumb: /files/thumbnails/14fb2a5ba2f8cc14fb2a5ba2fca7.jpg
     url: /files/original/14fb2a5ba2f8cc14fb2a5ba2fca7.jpg
+    alt:
+      en: "A storm-damaged house with a partially collapsed roof and downed trees leans against its side, surrounded by a debris-littered, barren yard and a wrecked pickup truck."
 geo:
 id: 3457
 item_type: Still Image

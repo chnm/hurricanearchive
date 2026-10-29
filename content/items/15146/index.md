@@ -21,6 +21,8 @@ files:
     original_filename: Arthur Robbie and Ma as Santa_489d50840f.jpg
     thumb: /files/thumbnails/14fb2a16f057ef14fb2a16f05bcb.jpg
     url: /files/original/14fb2a16f057ef14fb2a16f05bcb.jpg
+    alt:
+      en: "Vintage color photo of two children in formal outfits sitting with a Santa figure on a chair, beside a decorated Christmas tree, lamp, and ornate mirror above a sideboard with teapots."
 geo:
   address: ''
   lat: 37.77123

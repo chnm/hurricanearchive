@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0226.JPG
     thumb: /files/thumbnails/14fb2a54fcdb3914fb2a54fcdf1d.jpg
     url: /files/original/14fb2a54fcdb3914fb2a54fcdf1d.jpg
+    alt:
+      en: "A large tree with scorched, brown leaves lies toppled amid storm debris, with concrete block foundations and bare, damaged trees visible in the background under an overcast sky."
 geo:
 id: 4907
 item_type: Still Image

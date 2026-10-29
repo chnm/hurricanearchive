@@ -21,6 +21,8 @@ files:
     original_filename: 100_0232.JPG
     thumb: /files/thumbnails/14fb2a58d5322e14fb2a58d535f8.jpg
     url: /files/original/14fb2a58d5322e14fb2a58d535f8.jpg
+    alt:
+      en: "Group of men and women gather on a paved lot near portable toilets labeled \"GO CANS,\" posing for a photo as a woman with a camera captures two men embracing in the center."
 geo:
 id: 3935
 item_type: Still Image

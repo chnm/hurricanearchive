@@ -21,6 +21,8 @@ files:
     original_filename: 1975faces1_10d718f8aa.jpg
     thumb: /files/thumbnails/14fb29d784edad14fb29d784f19c.jpg
     url: /files/original/14fb29d784edad14fb29d784f19c.jpg
+    alt:
+      en: "Grid of individual yearbook portraits showing young men in red tuxedo jackets with black bow ties, part of a 1975 Chalmette High School yearbook page."
 geo:
 id: 26837
 item_type: Still Image

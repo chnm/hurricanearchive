@@ -21,6 +21,8 @@ files:
     original_filename: Tank field Oil leak near Nestor LA.jpg
     thumb: /files/thumbnails/14fb29fb1065a814fb29fb10698e.jpg
     url: /files/original/14fb29fb1065a814fb29fb10698e.jpg
+    alt:
+      en: "Aerial view from an aircraft window showing a wide river with a small industrial tank field on a peninsula below, surrounded by marshland, flooded fields, and a distant town along the far shoreline."
 geo:
 id: 21904
 item_type: Still Image

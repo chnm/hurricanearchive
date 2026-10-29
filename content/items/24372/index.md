@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-20-19A.jpg
     thumb: /files/thumbnails/14fb29e86495f714fb29e86499dd.jpg
     url: /files/original/14fb29e86495f714fb29e86499dd.jpg
+    alt:
+      en: "Blurry, abstract photograph dominated by deep blue tones, with a finger partially obscuring the lens on the right side and streaks of light and small bright points scattered across the frame."
 geo:
 id: 24372
 item_type: Still Image

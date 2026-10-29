@@ -21,6 +21,8 @@ files:
     original_filename: _MG_7169_c866ae6a56.jpg
     thumb: /files/thumbnails/14fb29d3515cea14fb29d35160ce.jpg
     url: /files/original/14fb29d3515cea14fb29d35160ce.jpg
+    alt:
+      en: "Seven girls in green sweaters and plaid skirts pose together outdoors, smiling in a group huddle near a black iron fence with parked cars and trees in the background."
 geo:
   address: ''
   lat: 29.87876

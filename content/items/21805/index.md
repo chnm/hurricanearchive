@@ -21,6 +21,8 @@ files:
     original_filename: katrina 075.jpg
     thumb: /files/thumbnails/14fb29fba1b52214fb29fba1b907.jpg
     url: /files/original/14fb29fba1b52214fb29fba1b907.jpg
+    alt:
+      en: "Flooded downtown street lined with high-rise buildings, a stranded pickup truck, and scattered pedestrians near a grassy median; a \"Welcome to New Orleans\" sign stands in the foreground."
 geo:
 id: 21805
 item_type: Still Image

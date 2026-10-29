@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0267.JPG
     thumb: /files/thumbnails/14fb2a55b99a8c14fb2a55b99f46.jpg
     url: /files/original/14fb2a55b99a8c14fb2a55b99f46.jpg
+    alt:
+      en: "Residential street scene with a white exterior staircase on a two-story building, scattered debris and litter across the lawn, and a light-colored SUV parked near houses in the background."
 geo:
 id: 4757
 item_type: Still Image

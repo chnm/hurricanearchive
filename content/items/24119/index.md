@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea7d7a9114fb29ea7dce75.jpg
     url: /files/original/14fb29ea7d7a9114fb29ea7dce75.jpg
+    alt:
+      en: "A man in camouflage clothing and an orange hard hat uses a chainsaw to cut a fallen tree limb, while several news camera operators and onlookers gather nearby amid storm debris and a damaged house."
 geo:
 id: 24119
 item_type: Still Image

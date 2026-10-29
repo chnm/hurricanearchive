@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0068ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a14e9ecaf14fb2a14e9f094.jpg
     url: /files/original/14fb2a14e9ecaf14fb2a14e9f094.jpg
+    alt:
+      en: "Aerial view of a neighborhood with scattered houses, warehouses, and military vehicles amid dirt lots and leafless trees, with an industrial smokestack and hazy skyline in the distance."
 geo:
 id: 18850
 item_type: Still Image

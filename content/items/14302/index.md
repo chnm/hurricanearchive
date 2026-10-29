@@ -21,6 +21,8 @@ files:
     original_filename: aerials143.jpg
     thumb: /files/thumbnails/14fb2a19e59f4f14fb2a19e5b99a.jpg
     url: /files/original/14fb2a19e59f4f14fb2a19e5b99a.jpg
+    alt:
+      en: "Aerial view of a peninsula surrounded by waterways, showing rows of damaged structures reduced to scattered debris and bare foundations, with denuded, storm-damaged trees in the surrounding area."
 geo:
 id: 14302
 item_type: Still Image

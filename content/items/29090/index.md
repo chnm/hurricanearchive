@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0636.JPG
     thumb: /files/thumbnails/14fb29cffba32414fb29cffba706.jpg
     url: /files/original/14fb29cffba32414fb29cffba706.jpg
+    alt:
+      en: "A row of military Humvees, including one marked \"Military Police,\" parked on a foggy lot near a brick building, with bare trees visible in the misty background."
 geo:
 id: 29090
 item_type: Still Image

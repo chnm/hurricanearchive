@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 141cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e01009914fb2a0e01047f.jpg
     url: /files/original/14fb2a0e01009914fb2a0e01047f.jpg
+    alt:
+      en: "A massive fallen tree blocks a street, with a service truck parked beside it and a portable toilet nearby; a man walks past while military personnel and vehicles are visible in the background."
 geo:
 id: 19754
 item_type: Still Image

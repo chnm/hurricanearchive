@@ -21,6 +21,8 @@ files:
     original_filename: 20050927027.JPG
     thumb: /files/thumbnails/14fb2a1c50500914fb2a1c5056cb.jpg
     url: /files/original/14fb2a1c50500914fb2a1c5056cb.jpg
+    alt:
+      en: "Military personnel in uniform watch water gushing from a fire hydrant into a flooded lot, while two men work nearby a large green military truck."
 geo:
   address: ''
   lat: 0.0

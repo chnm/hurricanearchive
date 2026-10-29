@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28252.jpg
     thumb: /files/thumbnails/14fb2a6ab247d614fb2a6ab24bb0.jpg
     url: /files/original/14fb2a6ab247d614fb2a6ab24bb0.jpg
+    alt:
+      en: "A bent street sign reading \"Reynoir St.\" hangs from a leaning metal pole, with debris-strewn ground in the foreground and city buildings and traffic in the background."
 geo:
   address: ''
   lat: 0.0

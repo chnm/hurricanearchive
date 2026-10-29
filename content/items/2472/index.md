@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8506.jpg
     thumb: /files/thumbnails/14fb2a6637241514fb2a663727f9.jpg
     url: /files/original/14fb2a6637241514fb2a663727f9.jpg
+    alt:
+      en: "Bare trees frame a wooden walkway leading to a dock over calm water, with \"Private Property No Trespassing\" and \"Do Not Block 24 Hour Drive\" signs posted, remnants of a vanished house's pilings visible in the water beyond."
 geo:
 id: 2472
 item_type: Still Image

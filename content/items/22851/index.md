@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f30da25014fb29f30da930.jpg
     url: /files/original/14fb29f30da25014fb29f30da930.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and cap stands near a roadway, with military Humvees and personnel gathered by a \"Do Not Enter\" sign on a grassy median in the background."
 geo:
 id: 22851
 item_type: Still Image

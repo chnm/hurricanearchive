@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1685superdome.JPG
     thumb: /files/thumbnails/14fb29e254598e14fb29e254618b.jpg
     url: /files/original/14fb29e254598e14fb29e254618b.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms stand in formation outdoors carrying rifles and gear, with military transport vehicles and a glass-walled building visible in the background."
 geo:
 id: 25098
 item_type: Still Image

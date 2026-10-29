@@ -21,6 +21,8 @@ files:
     original_filename: P1010121empireS&R.JPG
     thumb: /files/thumbnails/14fb29edebb5db14fb29edebb9c5.jpg
     url: /files/original/14fb29edebb5db14fb29edebb9c5.jpg
+    alt:
+      en: "Flooded roadside landscape with standing water surrounding utility poles and partially submerged trees, bordered by a dried brown field scattered with storm debris in the foreground."
 geo:
 id: 23680
 item_type: Still Image

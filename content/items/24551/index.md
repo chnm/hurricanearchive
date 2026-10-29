@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0115-16.JPG
     thumb: /files/thumbnails/14fb29e6c57a4c14fb29e6c57e31.jpg
     url: /files/original/14fb29e6c57a4c14fb29e6c57e31.jpg
+    alt:
+      en: "Military truck parked on a bridge over water, with a uniformed soldier and a man in a polo shirt standing nearby, while a yellow emergency vehicle and white SUV wait behind on the roadway."
 geo:
 id: 24551
 item_type: Still Image

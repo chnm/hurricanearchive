@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2229engineers.JPG
     thumb: /files/thumbnails/14fb2a10b16d9514fb2a10b1718e.jpg
     url: /files/original/14fb2a10b16d9514fb2a10b1718e.jpg
+    alt:
+      en: "A person in a camouflage jacket, red chainsaw safety chaps, and a yellow hard hat uses a Homelite chainsaw to cut through fallen tree branches and debris."
 geo:
 id: 19370
 item_type: Still Image

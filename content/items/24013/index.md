@@ -21,6 +21,8 @@ files:
     original_filename: 09280015plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebee9dec14fb29ebeea23a.jpg
     url: /files/original/14fb29ebee9dec14fb29ebeea23a.jpg
+    alt:
+      en: "A military Humvee sits parked amid storm debris and barren trees, with scattered rubble, standing water, and a bent yellow post in the foreground of a cleared, damaged landscape."
 geo:
 id: 24013
 item_type: Still Image

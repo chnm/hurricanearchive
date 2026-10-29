@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1506superdome.JPG
     thumb: /files/thumbnails/14fb29e3442e5b14fb29e34433f3.jpg
     url: /files/original/14fb29e3442e5b14fb29e34433f3.jpg
+    alt:
+      en: "Three men in a room, two wearing military camouflage uniforms and berets, in conversation with a man in a blue polo shirt; a framed photo of a helicopter on an oil rig hangs on the wall behind them."
 geo:
 id: 24985
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: marina_71049afe68.jpg
     thumb: /files/thumbnails/14fb2a7054898414fb2a70548d61.jpg
     url: /files/original/14fb2a7054898414fb2a70548d61.jpg
+    alt:
+      en: "A person in a striped shirt photographs a severely damaged two-story building with a red roof, tilted and collapsed at its base, standing near water with a grassy foreground."
 geo:
   address: ''
   lat: 30.0245903949386

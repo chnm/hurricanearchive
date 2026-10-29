@@ -21,6 +21,8 @@ files:
     original_filename: Picture 393-J2.jpg
     thumb: /files/thumbnails/14fb29f9b6a25814fb29f9b6a63e.jpg
     url: /files/original/14fb29f9b6a25814fb29f9b6a63e.jpg
+    alt:
+      en: "Makeshift shelter interior with cots, sleeping bags, and fans on the floor, while uniformed individuals sit near tables covered in supplies, cardboard boxes, and a red flag hanging from the ceiling."
 geo:
 id: 22062
 item_type: Still Image

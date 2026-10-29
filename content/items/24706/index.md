@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-08-7Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e573ae3614fb29e573bcd6.jpg
     url: /files/original/14fb29e573ae3614fb29e573bcd6.jpg
+    alt:
+      en: "A Black Hawk helicopter sits atop a parking garage behind a row of dark emergency trucks and vans, with a white van in the foreground and city buildings visible in the hazy background."
 geo:
 id: 24706
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0202-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffe80c5414fb29ffe81039.jpg
     url: /files/original/14fb29ffe80c5414fb29ffe81039.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with a large uprooted tree lying across a driveway and sidewalk, scattered roof debris, and homes with damaged shingles."
 geo:
 id: 21229
 item_type: Still Image

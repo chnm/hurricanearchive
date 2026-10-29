@@ -21,6 +21,8 @@ files:
     original_filename: _MG_7134_84f9fcf60f.jpg
     thumb: /files/thumbnails/14fb29d371915814fb29d3719547.jpg
     url: /files/original/14fb29d371915814fb29d3719547.jpg
+    alt:
+      en: "Brick house facade with an arched front doorway flanked by sidelight windows, a wreath on the door, concrete steps, and landscaped flower beds, partly shaded by overhanging tree branches."
 geo:
   address: ''
   lat: 29.87876

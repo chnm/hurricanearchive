@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001-18.JPG
     thumb: /files/thumbnails/14fb2a0944a4fb14fb2a0944a8e1.jpg
     url: /files/original/14fb2a0944a4fb14fb2a0944a8e1.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with a U.S. flag patch gestures while explaining a wall map to a woman wearing a backpack and cap, with a video camera mounted nearby."
 geo:
 id: 20328
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008M.JPG
     thumb: /files/thumbnails/14fb2a082b60da14fb2a082b64bb.jpg
     url: /files/original/14fb2a082b60da14fb2a082b64bb.jpg
+    alt:
+      en: "Man with short gray hair in a tan shirt rolls up his sleeve while holding a small medication bottle, standing in a tiled room with an illuminated exit sign in the background."
 geo:
 id: 20388
 item_type: Still Image

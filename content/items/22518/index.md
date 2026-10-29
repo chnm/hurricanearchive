@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1359Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5b1ad2d14fb29f5b1b1aa.jpg
     url: /files/original/14fb29f5b1ad2d14fb29f5b1b1aa.jpg
+    alt:
+      en: "Severe flooding submerges rooftops and utility poles under churning, storm-tossed water beneath a dark, overcast sky, with downed power lines and a transformer visible overhead."
 geo:
 id: 22518
 item_type: Still Image

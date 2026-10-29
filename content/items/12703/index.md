@@ -21,6 +21,8 @@ files:
     original_filename: 102-20B_0a81755a8b.jpg
     thumb: /files/thumbnails/14fb2a21ad230314fb2a21ad26e8.jpg
     url: /files/original/14fb2a21ad230314fb2a21ad26e8.jpg
+    alt:
+      en: "Sepia-toned portrait drawing of a young man wearing a wide-brimmed hat, dark suit jacket with a light-colored necktie, and a mustache."
 geo:
 id: 12703
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials35.jpg
     thumb: /files/thumbnails/14fb2a19d4452a14fb2a19d44917.jpg
     url: /files/original/14fb2a19d4452a14fb2a19d44917.jpg
+    alt:
+      en: "Aerial view of a rural property with severely damaged buildings, scattered debris, and downed trees, surrounded by open fields and a dirt road."
 geo:
 id: 14322
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0153abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef238db114fb29ef239196.jpg
     url: /files/original/14fb29ef238db114fb29ef239196.jpg
+    alt:
+      en: "Collapsed building reduced to twisted metal roofing, splintered wood, and debris piled roadside, with bare trees and a flooded area visible in the background under an overcast sky."
 geo:
 id: 23517
 item_type: Still Image

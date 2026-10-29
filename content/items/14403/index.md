@@ -21,6 +21,8 @@ files:
     original_filename: slide21.jpg
     thumb: /files/thumbnails/14fb2a193d149b14fb2a193d1876.jpg
     url: /files/original/14fb2a193d149b14fb2a193d1876.jpg
+    alt:
+      en: "Flood-damaged living room with wicker furniture and a muddy floor, a guitar propped on a chair, and overlaid text reading \"Fran and Mike's house, Living room\" and timestamp \"5 11:15\"."
 geo:
 id: 14403
 item_type: Still Image

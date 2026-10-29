@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6702_7901660cf3.JPG
     thumb: /files/thumbnails/14fb29d32320f614fb29d32324d9.jpg
     url: /files/original/14fb29d32320f614fb29d32324d9.jpg
+    alt:
+      en: "Black-and-white photo of a group of children in a backyard playing cowboys and indians, with one boy drawing back a bow and arrow while others, some with face paint and headbands, kneel and watch."
 geo:
   address: ''
   lat: 29.95493

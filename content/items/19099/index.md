@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 009.jpg
     thumb: /files/thumbnails/14fb2a131498fd14fb2a13149efa.jpg
     url: /files/original/14fb2a131498fd14fb2a13149efa.jpg
+    alt:
+      en: "A wooden-framed sign reading \"62nd Civil Support Team Weapons of Mass Destruction\" with a shield emblem and \"Peur De Rien\" banner, set on a grassy lawn near trees, shrubs, and a parked SUV."
 geo:
 id: 19099
 item_type: Still Image

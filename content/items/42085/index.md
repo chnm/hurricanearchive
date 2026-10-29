@@ -23,6 +23,8 @@ files:
     original_filename: Wingate6_0144ef5955.jpg
     thumb: /files/thumbnails/14fb29c38919a914fb29c3891edb.jpg
     url: /files/original/14fb29c38919a914fb29c3891edb.jpg
+    alt:
+      en: "A dusty, debris-covered residential street lined with bare trees and storm-damaged houses, a single red car kicking up dust as it drives away in the distance."
 geo:
   address: 5769 Wingate
   lat: 0.0

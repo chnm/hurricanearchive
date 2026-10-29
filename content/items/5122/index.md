@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0484.JPG
     thumb: /files/thumbnails/14fb2a53d3896514fb2a53d38d53.jpg
     url: /files/original/14fb2a53d3896514fb2a53d38d53.jpg
+    alt:
+      en: "A single-story pink house with a peaked roof and large windows shows storm damage, including debris and exposed foundation areas, surrounded by overgrown vegetation and bare trees."
 geo:
 id: 5122
 item_type: Still Image

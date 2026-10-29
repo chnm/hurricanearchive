@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0084cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efb6199f14fb29efb61d86.jpg
     url: /files/original/14fb29efb6199f14fb29efb61d86.jpg
+    alt:
+      en: "Aerial view of a flat, mottled terrain with patchy light and dark coloring, likely showing storm-damaged land or marsh with a darker, water-saturated area on the right side."
 geo:
 id: 23394
 item_type: Still Image

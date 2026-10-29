@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28682.jpg
     thumb: /files/thumbnails/14fb2a6bab9ac514fb2a6bab9e7a.jpg
     url: /files/original/14fb2a6bab9ac514fb2a6bab9e7a.jpg
+    alt:
+      en: "Two people stand talking near a black pickup truck in a parking lot; a woman in a pink top and tan shorts holds rope equipment, while a man in a plaid shirt and cap holds gloves."
 geo:
   address: ''
   lat: 0.0

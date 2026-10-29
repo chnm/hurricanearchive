@@ -21,6 +21,8 @@ files:
     original_filename: before west street.jpg
     thumb: /files/thumbnails/14fb2a20b7581114fb2a20b75bf6.jpg
     url: /files/original/14fb2a20b7581114fb2a20b75bf6.jpg
+    alt:
+      en: "A quiet city street with a blue handicap parking symbol painted on the pavement, lined by trees on one side and a multistory brick building with a red awning on the other, under a cloudy sky."
 geo:
 id: 13058
 item_type: Still Image

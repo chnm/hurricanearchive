@@ -24,6 +24,8 @@ files:
     original_filename: 20060210_MG_0478.jpg
     thumb: /files/thumbnails/14fb2a6416acaf14fb2a6416e109.jpg
     url: /files/original/14fb2a6416acaf14fb2a6416e109.jpg
+    alt:
+      en: "Three people wear elaborate costumes covered in M.R.E. (Meal, Ready-to-Eat) packaging, one holding a sign reading \"THE CREW OF M.R.E. LUNCH IS ON US,\" on a New Orleans street during Mardi Gras."
 geo:
 id: 2620
 item_type: Still Image

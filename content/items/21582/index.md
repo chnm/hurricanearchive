@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0318-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd68188f14fb29fd682079.jpg
     url: /files/original/14fb29fd68188f14fb29fd682079.jpg
+    alt:
+      en: "Aerial view of floodwaters surrounding a house and dock with small boats, bordering green agricultural fields along the water's edge."
 geo:
 id: 21582
 item_type: Still Image

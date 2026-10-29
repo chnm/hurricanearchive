@@ -21,6 +21,8 @@ files:
     original_filename: Picture 124cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba309ea14fb2a0ba30dd8.jpg
     url: /files/original/14fb2a0ba309ea14fb2a0ba30dd8.jpg
+    alt:
+      en: "A large boat lies overturned and heavily damaged on land, its hull resting against a chain-link fence, with a utility pole fallen across its deck and railroad tracks visible nearby."
 geo:
 id: 20027
 item_type: Still Image

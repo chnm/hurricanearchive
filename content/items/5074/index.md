@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0419.JPG
     thumb: /files/thumbnails/14fb2a54173dd014fb2a541741b3.jpg
     url: /files/original/14fb2a54173dd014fb2a541741b3.jpg
+    alt:
+      en: "Calm waterway lined with docks and storm-damaged trees, a house with a blue tarp roof on the right, and a pontoon boat moored near a dock, grassy foreground."
 geo:
 id: 5074
 item_type: Still Image

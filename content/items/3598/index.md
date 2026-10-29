@@ -24,6 +24,8 @@ files:
     original_filename: P1010028.JPG
     thumb: /files/thumbnails/14fb2a5aa9278614fb2a5aa92b6d.jpg
     url: /files/original/14fb2a5aa9278614fb2a5aa92b6d.jpg
+    alt:
+      en: "Assorted salvaged ceramic items—pitchers, teapots, cat figurines, and dishware—line a brick ledge, with a white plastic bag, work gloves, and a dust mask resting nearby."
 geo:
 id: 3598
 item_type: Still Image

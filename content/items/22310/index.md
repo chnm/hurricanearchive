@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1121Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7ad3f0e14fb29f7ad42f3.jpg
     url: /files/original/14fb29f7ad3f0e14fb29f7ad42f3.jpg
+    alt:
+      en: "Flooded indoor space with several small motorboats floating amid murky water, as people wearing orange life vests wade and sit nearby in dim, hazy light."
 geo:
 id: 22310
 item_type: Still Image

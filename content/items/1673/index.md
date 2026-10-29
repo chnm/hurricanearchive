@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28176.jpg
     thumb: /files/thumbnails/14fb2a670582c114fb2a6705af9f.jpg
     url: /files/original/14fb2a670582c114fb2a6705af9f.jpg
+    alt:
+      en: "A damaged photo album lies open on muddy ground amid scattered debris, with bare trees and dry grass in the background, evidence of storm devastation at the Sundance housing development."
 geo:
   address: ''
   lat: 0.0

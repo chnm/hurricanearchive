@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0360_dca2201c5f.jpg
     thumb: /files/thumbnails/14fb29cd6eae5014fb29cd6eb5fc.jpg
     url: /files/original/14fb29cd6eae5014fb29cd6eb5fc.jpg
+    alt:
+      en: "Damaged pink brick house with a boarded window, electrical meters, and a \"Save Our Neighborhood - No Bulldozing\" sign, covered in spray-painted pleas for donations to rebuild with a phone number."
 geo:
 id: 30039
 item_type: Still Image

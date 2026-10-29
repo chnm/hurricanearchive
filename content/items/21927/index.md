@@ -21,6 +21,8 @@ files:
     original_filename: Picture 258-J2.jpg
     thumb: /files/thumbnails/14fb29faf4fed614fb29faf502bc.jpg
     url: /files/original/14fb29faf4fed614fb29faf502bc.jpg
+    alt:
+      en: "Three large pipes discharge water over a concrete floodwall into a flooded street, with a mobile light tower, workers, and utility poles visible nearby under a clear blue sky."
 geo:
 id: 21927
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 001cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0cc2683514fb2a0cc26ac6.jpg
     url: /files/original/14fb2a0cc2683514fb2a0cc26ac6.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather around a table with maps and documents in an operations center, with large wall maps, dry-erase boards, and a sign reading \"Quiet Please Staff Meeting\" visible nearby."
 geo:
 id: 19904
 item_type: Still Image

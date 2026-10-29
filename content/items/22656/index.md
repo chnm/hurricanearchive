@@ -21,6 +21,8 @@ files:
     original_filename: PCDV0183Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d6c97c14fb29f4d6cd6a.jpg
     url: /files/original/14fb29f4d6c97c14fb29f4d6cd6a.jpg
+    alt:
+      en: "A white rectangular sign reading \"AREA C\" in teal letters, mounted on a brick wall pillar with dried vegetation in the foreground and a metal fence visible above."
 geo:
 id: 22656
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010101.JPG
     thumb: /files/thumbnails/14fb2a5b25b53b14fb2a5b2697a1.jpg
     url: /files/original/14fb2a5b25b53b14fb2a5b2697a1.jpg
+    alt:
+      en: "Hand-painted plywood sign mounted on a house exterior, with green lettering quoting Psalm 126 about sowing in tears and reaping with joyful shouting, ending with \"HOPE FOR OUR FUTURE.\""
 geo:
 id: 3526
 item_type: Still Image

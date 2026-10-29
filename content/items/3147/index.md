@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lower Garden (4).JPG
     thumb: /files/thumbnails/14fb2a5db8e6fd14fb2a5db8ea49.jpg
     url: /files/original/14fb2a5db8e6fd14fb2a5db8ea49.jpg
+    alt:
+      en: "A debris-covered wooden desk with a CRT monitor, computer speakers, and a telephone, scattered with broken ceiling tile fragments and dust from storm damage."
 geo:
 id: 3147
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 5_f8a24abae6.jpg
     thumb: /files/thumbnails/14fb2a7099a31b14fb2a7099ad14.jpg
     url: /files/original/14fb2a7099a31b14fb2a7099ad14.jpg
+    alt:
+      en: "Storm-damaged building with a collapsed, charred overhang hanging from the ceiling, exposed beams, and a partially visible sign reading \"R & O\" above a decorative column."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0470.JPG
     thumb: /files/thumbnails/14fb2a55aa3f6c14fb2a55aa437c.jpg
     url: /files/original/14fb2a55aa3f6c14fb2a55aa437c.jpg
+    alt:
+      en: "Large pile of broken tree branches and storm debris in a lot, with damaged leafless trees, a sedan and white pickup truck parked nearby under a clear blue sky."
 geo:
 id: 4771
 item_type: Still Image

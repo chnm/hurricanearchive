@@ -21,6 +21,8 @@ files:
     original_filename: katrina 068.jpg
     thumb: /files/thumbnails/14fb29fbb6b53414fb29fbb6b91a.jpg
     url: /files/original/14fb29fbb6b53414fb29fbb6b91a.jpg
+    alt:
+      en: "A multi-story building labeled \"WTC World Trade Center\" stands behind storm-damaged trees, a fallen street sign, and trimmed hedges, with overcast sky above."
 geo:
 id: 21798
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0159-9-25.JPG
     thumb: /files/thumbnails/14fb2a0139116814fb2a01391531.jpg
     url: /files/original/14fb2a0139116814fb2a01391531.jpg
+    alt:
+      en: "Aerial view of extensive flooding covering flat land, with scattered debris, damaged structures, and patches of trees and vegetation rising from the water under a hazy sky."
 geo:
 id: 20973
 item_type: Still Image

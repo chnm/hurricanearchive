@@ -21,6 +21,8 @@ files:
     original_filename: aerials129.jpg
     thumb: /files/thumbnails/14fb2a1a266f1214fb2a1a26730e.jpg
     url: /files/original/14fb2a1a266f1214fb2a1a26730e.jpg
+    alt:
+      en: "Aerial view of a large white plantation-style house with wraparound porches, surrounded by storm-damaged, defoliated trees and a circular driveway."
 geo:
 id: 14288
 item_type: Still Image

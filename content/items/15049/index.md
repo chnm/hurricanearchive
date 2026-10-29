@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p1_02_d520281759.jpg
     thumb: /files/thumbnails/14fb2a17853ad414fb2a17853eba.jpg
     url: /files/original/14fb2a17853ad414fb2a17853eba.jpg
+    alt:
+      en: "Two young children wade in a round backyard swimming pool, with a brick wall, tricycle, and plastic buckets visible on the patio behind them."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: 2456569297_ff9ee22ba6.
     thumb: /files/thumbnails/14fb29c86de07b14fb29c86de460.jpg
     url: /files/original/14fb29c86de07b14fb29c86de460.jpg
+    alt:
+      en: "Aerial view of a long earthen levee running alongside a winding waterway, with construction equipment and staging areas visible near a bridge crossing. Text overlay reads \"Leike Catadouatche Levee.\""
 geo:
 id: 34932
 item_type: Still Image

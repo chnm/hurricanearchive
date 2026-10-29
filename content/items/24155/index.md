@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0022cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea35a27f14fb29ea35a8da.jpg
     url: /files/original/14fb29ea35a27f14fb29ea35a8da.jpg
+    alt:
+      en: "Aerial view of extensively flooded marshland and low-lying terrain, with scattered patches of vegetation, a thin wooded ridge, and a faint straight roadway visible in the distance."
 geo:
 id: 24155
 item_type: Still Image

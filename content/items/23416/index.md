@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0095abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef88cb8e14fb29ef88cf4b.jpg
     url: /files/original/14fb29ef88cb8e14fb29ef88cf4b.jpg
+    alt:
+      en: "Black cattle walk along a paved road beside extensive floodwater covering fields, with a leaning \"Speed Limit 55\" sign, submerged fence posts, a partially submerged shed, and trees lining the horizon under a cloudy sky."
 geo:
 id: 23416
 item_type: Still Image

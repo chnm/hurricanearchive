@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-13-11AneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ebe3d2ac14fb29ebe3d4d1.jpg
     url: /files/original/14fb29ebe3d2ac14fb29ebe3d4d1.jpg
+    alt:
+      en: "A red minivan partially submerged in floodwater beside a fallen, leafless tree, photographed from inside a vehicle with a side mirror visible in the foreground."
 geo:
 id: 24024
 item_type: Still Image

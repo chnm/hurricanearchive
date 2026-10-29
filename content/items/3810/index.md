@@ -21,6 +21,8 @@ files:
     original_filename: 100_0094.JPG
     thumb: /files/thumbnails/14fb2a5970ed4b14fb2a5970f130.jpg
     url: /files/original/14fb2a5970ed4b14fb2a5970f130.jpg
+    alt:
+      en: "Large crowd of evacuees with luggage, bags, and a shopping cart gathered on a gravel lot, with low-rise buildings and a helicopter visible in the background under a clear sky."
 geo:
 id: 3810
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0087H.JPG
     thumb: /files/thumbnails/14fb2a0366609514fb2a03666479.jpg
     url: /files/original/14fb2a0366609514fb2a03666479.jpg
+    alt:
+      en: "A young woman wearing a white Hooters tank top with \"I Love Hooters\" stickers on her shoulder reaches to take an orange item from a man's hand in a dimly lit crowd scene."
 geo:
 id: 20830
 item_type: Still Image

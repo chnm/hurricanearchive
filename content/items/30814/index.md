@@ -24,6 +24,8 @@ files:
     original_filename: jacksqtrimmedtiff.tif
     thumb: /files/thumbnails/14fb29cc4e4e4714fb29cc4e5232.jpg
     url: /files/original/14fb29cc4e4e4714fb29cc4e5232.tif
+    alt:
+      en: "Vintage photo of three children posed on an old cannon in Jackson Square, New Orleans, with St. Louis Cathedral behind them; handwritten caption reads \"New Orleans, May '38.\""
 geo:
 id: 30814
 item_type: Document

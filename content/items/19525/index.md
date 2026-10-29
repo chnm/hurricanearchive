@@ -21,6 +21,8 @@ files:
     original_filename: Picture 085engineers.jpg
     thumb: /files/thumbnails/14fb2a0f91628414fb2a0f91666a.jpg
     url: /files/original/14fb2a0f91628414fb2a0f91666a.jpg
+    alt:
+      en: "Aerial view of a convalescent center complex with flat-roofed buildings, surrounded by parking lots, green lawns, trees, and roads, with an overlay reading \"Jo Ellen Smith Convalescent Center.\""
 geo:
 id: 19525
 item_type: Still Image

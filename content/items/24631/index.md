@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002medics.JPG
     thumb: /files/thumbnails/14fb29e603b38a14fb29e603b770.jpg
     url: /files/original/14fb29e603b38a14fb29e603b770.jpg
+    alt:
+      en: "A woman in military camouflage fatigues with a nametag reading \"Prechter\" works at a laptop computer, with medicine bottles and papers on the desk in front of her."
 geo:
 id: 24631
 item_type: Still Image

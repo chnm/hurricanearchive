@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0638.JPG
     thumb: /files/thumbnails/14fb2a562460cf14fb2a5624663a.jpg
     url: /files/original/14fb2a562460cf14fb2a5624663a.jpg
+    alt:
+      en: "A rough rectangular opening cut into a ceiling or attic access panel, revealing dark interior space with a sliver of light, with insulation material visible in the lower right corner."
 geo:
 id: 4687
 item_type: Still Image

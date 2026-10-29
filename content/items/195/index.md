@@ -26,6 +26,8 @@ files:
     original_filename: Oct2958_c091fa4810.JPG
     thumb: /files/thumbnails/14fb2a7094cb7614fb2a7094ceb4.jpg
     url: /files/original/14fb2a7094cb7614fb2a7094ceb4.jpg
+    alt:
+      en: "Storm-damaged theater building with a partially collapsed roof and exposed wooden frame, marquee lettering reading \"LIS,\" debris and twisted metal scattered on the lawn beside a street lamp and palm trees."
 geo:
   address: ''
   lat: 29.938343

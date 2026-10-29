@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish.JPG
     thumb: /files/thumbnails/14fb2a5dd0b73114fb2a5dd0bb16.jpg
     url: /files/original/14fb2a5dd0b73114fb2a5dd0bb16.jpg
+    alt:
+      en: "Photo taken from a vehicle window shows a sprawling encampment of military tents and equipment behind a concrete barrier, with tall light poles and a hazy sky in the background."
 geo:
 id: 3124
 item_type: Still Image

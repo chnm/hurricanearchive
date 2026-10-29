@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00140 DSC00140cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5ba3fae14fb29e5ba4391.jpg
     url: /files/original/14fb29e5ba3fae14fb29e5ba4391.jpg
+    alt:
+      en: "A U.S. Army general wearing a beret and sunglasses, with \"HONORE\" and \"U.S. ARMY\" name tapes, speaks with a soldier in camouflage fatigues as civilians look on near parked military vehicles."
 geo:
 id: 24673
 item_type: Still Image

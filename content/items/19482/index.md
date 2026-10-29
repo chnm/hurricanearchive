@@ -21,6 +21,8 @@ files:
     original_filename: Picture 042engineers.jpg
     thumb: /files/thumbnails/14fb2a0fca09f114fb2a0fca0dd3.jpg
     url: /files/original/14fb2a0fca09f114fb2a0fca0dd3.jpg
+    alt:
+      en: "Aerial view of a flooded New Orleans neighborhood, with streets, homes, and a cluster of institutional buildings submerged in brown floodwater, divided by a raised roadway along a canal."
 geo:
 id: 19482
 item_type: Still Image

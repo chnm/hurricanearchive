@@ -20,6 +20,8 @@ files:
     original_filename: ONE LUCKY DOG 01_1cc426fd99.JPG
     thumb: /files/thumbnails/14fb29c5e421dc14fb29c5e427a3.jpg
     url: /files/original/14fb29c5e421dc14fb29c5e427a3.jpg
+    alt:
+      en: "Empty, cracked parking lot beside a red brick building with a barred window; the wall bears a search-and-rescue marking reading \"9-6-05, 11:05, FL, TF1, DOG,\" with a nearby sign for \"Chinese Chef Kitchen.\""
 geo:
   address: Uptown
   lat: 29.57346

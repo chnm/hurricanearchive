@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0949superdome.JPG
     thumb: /files/thumbnails/14fb29e421bc8e14fb29e421c074.jpg
     url: /files/original/14fb29e421bc8e14fb29e421c074.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand in a doorway, one pointing while wearing a radio and a name tag reading \"MAJEE,\" with bystanders visible behind them against teal-colored walls."
 geo:
 id: 24875
 item_type: Still Image

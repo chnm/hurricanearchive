@@ -21,6 +21,8 @@ files:
     original_filename: Picture 357-J2.jpg
     thumb: /files/thumbnails/14fb29fa03c3ae14fb29fa03c790.jpg
     url: /files/original/14fb29fa03c3ae14fb29fa03c790.jpg
+    alt:
+      en: "Tangled mass of dried vines and branches with scattered debris, a partial glimpse of a green jacket visible at left, and a bright red object emerging from the lower left corner."
 geo:
 id: 22026
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0190-16.JPG
     thumb: /files/thumbnails/14fb2a0048f7ba14fb2a0048fb97.jpg
     url: /files/original/14fb2a0048f7ba14fb2a0048fb97.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with stripped, damaged trees, scattered debris, and storm-battered houses missing roofs or walls, stretching toward a distant shoreline."
 geo:
 id: 21165
 item_type: Still Image

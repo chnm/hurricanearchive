@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27950.jpg
     thumb: /files/thumbnails/14fb2a6826946e14fb2a6826985a.jpg
     url: /files/original/14fb2a6826946e14fb2a6826985a.jpg
+    alt:
+      en: "Exterior view of the New Orleans Superdome with parked vans in a loading area; a discarded cot, torn Hornets banner, and debris lie scattered on the pavement in the foreground."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1988superdome.JPG
     thumb: /files/thumbnails/14fb29dfe409c414fb29dfe419ff.jpg
     url: /files/original/14fb29dfe409c414fb29dfe419ff.jpg
+    alt:
+      en: "A child wrapped in a blanket leans out the window of an Acadian Ambulance Service vehicle, numbered 325, with a man seated behind them inside."
 geo:
 id: 25261
 item_type: Still Image

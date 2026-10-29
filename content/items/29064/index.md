@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0591.JPG
     thumb: /files/thumbnails/14fb29d05900f714fb29d05904dc.jpg
     url: /files/original/14fb29d05900f714fb29d05904dc.jpg
+    alt:
+      en: "A dark nighttime parking area under an overpass, with several vehicles including a white sedan and a van parked beside a large support pillar, illuminated only by scattered lights."
 geo:
 id: 29064
 item_type: Still Image

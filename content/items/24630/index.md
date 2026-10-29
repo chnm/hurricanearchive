@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0130.JPG
     thumb: /files/thumbnails/14fb29e60516f714fb29e6051ad3.jpg
     url: /files/original/14fb29e60516f714fb29e6051ad3.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood at dusk, with debris-strewn streets, standing water, and scattered, storm-damaged houses surrounded by trees."
 geo:
 id: 24630
 item_type: Still Image

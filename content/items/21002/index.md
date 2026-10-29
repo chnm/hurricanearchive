@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0166-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a011f31a414fb2a011f358e.jpg
     url: /files/original/14fb2a011f31a414fb2a011f358e.jpg
+    alt:
+      en: "A U.S. Army medical evacuation helicopter marked with a red cross and \"251\" sits on a tarmac with rotors spinning, as a uniformed soldier stands beside it near the open door."
 geo:
 id: 21002
 item_type: Still Image

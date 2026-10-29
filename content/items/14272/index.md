@@ -21,6 +21,8 @@ files:
     original_filename: aerials113.jpg
     thumb: /files/thumbnails/14fb2a1a5069f814fb2a1a5071a0.jpg
     url: /files/original/14fb2a1a5069f814fb2a1a5071a0.jpg
+    alt:
+      en: "Aerial view of a coastal property destroyed by fire and storm damage, with charred debris, a collapsed structure, scorched trees, and surrounding wetland visible near the water's edge."
 geo:
 id: 14272
 item_type: Still Image

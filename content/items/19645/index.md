@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 032cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e95b2b614fb2a0e95b6a4.jpg
     url: /files/original/14fb2a0e95b2b614fb2a0e95b6a4.jpg
+    alt:
+      en: "Military Humvee equipped with satellite dish and antennas parked near a canopy tent, with personnel in camouflage uniforms nearby and a California National Guard emblem displayed in the foreground."
 geo:
 id: 19645
 item_type: Still Image

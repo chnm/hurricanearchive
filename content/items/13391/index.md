@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4995_5c889ed7ef.jpg
     thumb: /files/thumbnails/14fb2a1e1b5fb614fb2a1e1b6670.jpg
     url: /files/original/14fb2a1e1b5fb614fb2a1e1b6670.jpg
+    alt:
+      en: "Vintage studio portrait of a woman in a floral dress and hat, standing beside a decorative pedestal with a flower basket, holding a handbag; photo corners are worn and torn."
 geo:
 id: 13391
 item_type: Still Image

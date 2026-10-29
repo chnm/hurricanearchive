@@ -18,6 +18,8 @@ files:
     original_filename: 88_e36749aeb0.jpg
     thumb: /files/thumbnails/14fb29c632d56614fb29c632d94c.jpg
     url: /files/original/14fb29c632d56614fb29c632d94c.jpg
+    alt:
+      en: "Cluttered room interior with a person lying face-down on a bed, another figure in curlers and a patterned dress standing nearby, surrounded by vintage furniture, a fan, speakers, and a framed painting on the wall."
 geo:
   address: new orleans, la
   lat: 29.95324

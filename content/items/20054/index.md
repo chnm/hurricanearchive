@@ -21,6 +21,8 @@ files:
     original_filename: Picture 151cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b8bb22b14fb2a0b8bb605.jpg
     url: /files/original/14fb2a0b8bb22b14fb2a0b8bb605.jpg
+    alt:
+      en: "Flooded construction or dock site with collapsed wooden pilings and scaffolding partially submerged in water, an orange crane in the background, viewed through a metal railing in the foreground."
 geo:
 id: 20054
 item_type: Still Image

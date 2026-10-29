@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 28.jpg
     thumb: /files/thumbnails/14fb29f08bf11914fb29f08bf527.jpg
     url: /files/original/14fb29f08bf11914fb29f08bf527.jpg
+    alt:
+      en: "Satellite radar image of a hurricane with a visible eye over the Gulf Coast, showing green, yellow, and red storm bands; timestamped 29 Aug 2005 03:26 GMT / 28 Aug 2005 11:26 PM EDT."
 geo:
 id: 23236
 item_type: Still Image

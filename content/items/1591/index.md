@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27986.jpg
     thumb: /files/thumbnails/14fb2a67adba7f14fb2a67add223.jpg
     url: /files/original/14fb2a67adba7f14fb2a67add223.jpg
+    alt:
+      en: "A green highway sign reading \"CITY PARK / DELGADO / COMMUNITY COLLEGE\" lies knocked down in dry grass, with an elevated overpass in the background."
 geo:
   address: ''
   lat: 0.0

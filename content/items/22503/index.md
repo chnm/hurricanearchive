@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1344Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5cbf0c214fb29f5cbf4a8.jpg
     url: /files/original/14fb29f5cbf0c214fb29f5cbf4a8.jpg
+    alt:
+      en: "Floodwaters surround a building with a green metal roof, viewed through windblown tree branches under a heavy, overcast sky during the storm."
 geo:
 id: 22503
 item_type: Still Image

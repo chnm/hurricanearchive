@@ -21,6 +21,8 @@ files:
     original_filename: slide29.jpg
     thumb: /files/thumbnails/14fb2a19380c8014fb2a1938101c.jpg
     url: /files/original/14fb2a19380c8014fb2a1938101c.jpg
+    alt:
+      en: "Black Labrador retriever stands on a metal ramp amid storm debris, with text overlay reading \"Sorry Boss, can't find anyone\" and \"K-9 search dog.\""
 geo:
 id: 14409
 item_type: Still Image

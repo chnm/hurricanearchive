@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-23-21AneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb6c1cb514fb29eb6c209a.jpg
     url: /files/original/14fb29eb6c1cb514fb29eb6c209a.jpg
+    alt:
+      en: "Military truck plows through a deeply flooded city street lined with high-rise buildings, with submerged cars parked along the curb, viewed from inside another vehicle."
 geo:
 id: 24033
 item_type: Still Image

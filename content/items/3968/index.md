@@ -21,6 +21,8 @@ files:
     original_filename: DSC01048.JPG
     thumb: /files/thumbnails/14fb2a58b0faac14fb2a58b0fe95.jpg
     url: /files/original/14fb2a58b0faac14fb2a58b0fe95.jpg
+    alt:
+      en: "Large military-style tents enclosed by chain-link fencing stand on a grassy lot strewn with debris and litter, with apartment buildings visible in the background under a hazy sky."
 geo:
 id: 3968
 item_type: Still Image

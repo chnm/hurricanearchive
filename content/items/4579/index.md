@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0005.JPG
     thumb: /files/thumbnails/14fb2a56f36d6614fb2a56f37d3a.jpg
     url: /files/original/14fb2a56f36d6614fb2a56f37d3a.jpg
+    alt:
+      en: "Collapsed houses reduced to a massive debris field of splintered wood, roofing, and insulation, with a white freezer and standing floodwater amid bare, storm-damaged trees."
 geo:
 id: 4579
 item_type: Still Image

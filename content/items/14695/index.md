@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_CameronSimms_03_a62f5275e5.jpg
     thumb: /files/thumbnails/14fb2a1821bacc14fb2a1821beb0.jpg
     url: /files/original/14fb2a1821bacc14fb2a1821beb0.jpg
+    alt:
+      en: "Cameron Simms, smiling in a white shirt, sits beside his mother, Caime Carroll, on a decorated chair with a blue birthday cake in front, in a room with patterned wallpaper and red curtains."
 geo:
 id: 14695
 item_type: Still Image

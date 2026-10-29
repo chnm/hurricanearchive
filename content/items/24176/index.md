@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea1102b414fb29ea110557.jpg
     url: /files/original/14fb29ea1102b414fb29ea110557.jpg
+    alt:
+      en: "Aerial view of a flooded marshland or wetland area, with patches of water reflecting the hazy blue sky interspersed among areas of vegetation, extending to a distant tree line on the horizon."
 geo:
 id: 24176
 item_type: Still Image

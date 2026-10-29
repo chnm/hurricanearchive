@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9088.jpg
     thumb: /files/thumbnails/14fb2a64a3b3cd14fb2a64a3b7b2.jpg
     url: /files/original/14fb2a64a3b3cd14fb2a64a3b7b2.jpg
+    alt:
+      en: "Severely damaged single-story house with collapsed siding and a caved-in roof, marked with orange search-and-rescue X symbols, sits beneath bare trees amid storm debris."
 geo:
 id: 2578
 item_type: Still Image

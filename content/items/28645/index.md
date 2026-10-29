@@ -25,6 +25,8 @@ files:
     original_filename: 158641139_c56a7a2d5f.jpg
     thumb: /files/thumbnails/14fb29d1f1e63814fb29d1f1eff5.jpg
     url: /files/original/14fb29d1f1e63814fb29d1f1eff5.jpg
+    alt:
+      en: "Rear of a teal Mercury Sable with \"FAITH\" placed above the trunk, parked amid storm debris and a collapsed structure, yellow caution tape tangled in dry branches nearby."
 geo:
 id: 28645
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28163.jpg
     thumb: /files/thumbnails/14fb2a66e61b4914fb2a66e61f30.jpg
     url: /files/original/14fb2a66e61b4914fb2a66e61f30.jpg
+    alt:
+      en: "A man in sunglasses and a cap stands amid storm debris, holding a salvaged lamp and clock, with a collapsed roof and dormer windows visible behind him."
 geo:
   address: ''
   lat: 0.0

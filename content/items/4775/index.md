@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0474.JPG
     thumb: /files/thumbnails/14fb2a55a3d76914fb2a55a3db4e.jpg
     url: /files/original/14fb2a55a3d76914fb2a55a3db4e.jpg
+    alt:
+      en: "Storm-damaged landscape with snapped and leaning trees, scattered debris and sheet metal covering the grass, and a partially visible house in the background under a clear blue sky."
 geo:
 id: 4775
 item_type: Still Image

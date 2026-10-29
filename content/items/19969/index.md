@@ -21,6 +21,8 @@ files:
     original_filename: Picture 066cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0be27fe614fb2a0be284d9.jpg
     url: /files/original/14fb2a0be27fe614fb2a0be284d9.jpg
+    alt:
+      en: "Military armored vehicles with personnel aboard parked on an elevated highway, with a concrete median barrier in the foreground and flat-roofed buildings and trees visible below under a partly cloudy sky."
 geo:
 id: 19969
 item_type: Still Image

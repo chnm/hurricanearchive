@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1570superdome.JPG
     thumb: /files/thumbnails/14fb29e2aa376914fb29e2aa3b3f.jpg
     url: /files/original/14fb29e2aa376914fb29e2aa3b3f.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand near a tan canopy tent set up in a parking lot beside the Superdome, with a high-rise tower visible in the background."
 geo:
 id: 25045
 item_type: Still Image

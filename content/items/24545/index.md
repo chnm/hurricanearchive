@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0113-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e6d4192214fb29e6d41f8b.jpg
     url: /files/original/14fb29e6d4192214fb29e6d41f8b.jpg
+    alt:
+      en: "Aerial view of a narrow road with double yellow lines running between floodwaters on both sides, bordered by partially submerged trees and marsh grasses."
 geo:
 id: 24545
 item_type: Still Image

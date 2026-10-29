@@ -21,6 +21,8 @@ files:
     original_filename: 20050929054.JPG
     thumb: /files/thumbnails/14fb2a1bee246614fb2a1bee2885.jpg
     url: /files/original/14fb2a1bee246614fb2a1bee2885.jpg
+    alt:
+      en: "A tattered American flag with a circular emblem hangs on a pole behind a chain-link fence, overlooking widespread storm debris, flattened foundations, and downed trees."
 geo:
   address: ''
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: 2457566250_f9addbcbdc.
     thumb: /files/thumbnails/14fb29c8dc816014fb29c8dc8545.jpg
     url: /files/original/14fb29c8dc816014fb29c8dc8545.jpg
+    alt:
+      en: "Large cargo ship named \"Babylon\" with a rust-streaked hull sits at a dock flanked by tall cranes, under a dark, cloudy sky."
 geo:
 id: 34867
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: rolland & parents.tif
     thumb: /files/thumbnails/14fb29cc4c141a14fb29cc4c1800.jpg
     url: /files/original/14fb29cc4c141a14fb29cc4c1800.tif
+    alt:
+      en: "Black-and-white photo of a woman, man, and boy standing on grass before the columned Isaac Delgado Museum of Art, with a statue and fountain nearby; handwritten caption reads \"N.O. - May 1938.\""
 geo:
 id: 30816
 item_type: Document

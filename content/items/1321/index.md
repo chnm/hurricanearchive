@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27984.jpg
     thumb: /files/thumbnails/14fb2a699dbfa214fb2a699dc3e1.jpg
     url: /files/original/14fb2a699dbfa214fb2a699dc3e1.jpg
+    alt:
+      en: "A \"DO NOT ENTER\" sign lies face-up and upside-down on dead grass beside a concrete sidewalk, with scattered dark debris marking a line across the pavement."
 geo:
   address: ''
   lat: 0.0

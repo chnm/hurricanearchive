@@ -21,6 +21,8 @@ files:
     original_filename: 20050929039.JPG
     thumb: /files/thumbnails/14fb2a1bf44c1614fb2a1bf4507b.jpg
     url: /files/original/14fb2a1bf44c1614fb2a1bf4507b.jpg
+    alt:
+      en: "Mud-covered street littered with storm debris, uprooted trees, and damaged buildings, with a vehicle parked in the distance under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

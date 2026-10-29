@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8489.jpg
     thumb: /files/thumbnails/14fb2a660ba40514fb2a660bb5e4.jpg
     url: /files/original/14fb2a660ba40514fb2a660bb5e4.jpg
+    alt:
+      en: "Overturned vehicle lies in muddy floodwater amid storm-damaged fencing and debris, with bare trees overhead and demolished structures visible in the background."
 geo:
 id: 2479
 item_type: Still Image

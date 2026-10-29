@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2158hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f0446fa214fb29f0447386.jpg
     url: /files/original/14fb29f0446fa214fb29f0447386.jpg
+    alt:
+      en: "Heavily damaged high-rise with \"HYATT\" signage, its glass facade shattered and windows blown out, with torn curtains and debris hanging from openings; surrounded by other high-rise buildings."
 geo:
 id: 23256
 item_type: Still Image

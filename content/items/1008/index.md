@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28543.jpg
     thumb: /files/thumbnails/14fb2a6b6e03bc14fb2a6b6e07a2.jpg
     url: /files/original/14fb2a6b6e03bc14fb2a6b6e07a2.jpg
+    alt:
+      en: "Large yellow flexible ventilation ducts run from portable generator units on the street up into a tall building, with an American flag and another flag visible on a balcony above."
 geo:
   address: ''
   lat: 0.0

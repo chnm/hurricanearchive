@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28708.jpg
     thumb: /files/thumbnails/14fb2a6ba64f3814fb2a6ba6531d.jpg
     url: /files/original/14fb2a6ba64f3814fb2a6ba6531d.jpg
+    alt:
+      en: "A man in a plaid shirt and black cap, wearing gloves, stands near a metal stall holding a gray horse at an animal rescue facility."
 geo:
   address: ''
   lat: 0.0

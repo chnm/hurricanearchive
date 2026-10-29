@@ -27,6 +27,8 @@ files:
     original_filename: my_old_house_2a74b181ab.jpeg
     thumb: /files/thumbnails/14fb2a7036e91f14fb2a7036ed03.jpg
     url: /files/original/14fb2a7036e91f14fb2a7036ed03.jpg
+    alt:
+      en: "Brick house with an arched entryway and concrete steps leading to the front door, with blue shutters on the windows and \"For Sale\" signs posted in the dirt yard; a sign on the entrance reads \"MDT Group, LLC Renovations.\""
 geo:
   address: ''
   lat: 29.96145

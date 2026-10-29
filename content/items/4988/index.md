@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0333.JPG
     thumb: /files/thumbnails/14fb2a5499a87d14fb2a5499ad80.jpg
     url: /files/original/14fb2a5499a87d14fb2a5499ad80.jpg
+    alt:
+      en: "Elevated house on concrete block pilings with wooden staircase and porch, surrounded by storm debris and cleared lots, with additional damaged structures visible in the background."
 geo:
 id: 4988
 item_type: Still Image

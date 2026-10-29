@@ -18,6 +18,8 @@ files:
     original_filename: 12_0eb44f2604.jpg
     thumb: /files/thumbnails/14fb29c73cf66a14fb29c73cfa50.jpg
     url: /files/original/14fb29c73cf66a14fb29c73cfa50.jpg
+    alt:
+      en: "A man wearing a sequined teal ocean-themed costume with sea creature appliqués, a green and blue fish-shaped hat, and a white tank top underneath, posing indoors with head tilted back and eyes closed."
 geo:
   address: new orleans, la
   lat: 29.95324

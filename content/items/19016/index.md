@@ -21,6 +21,8 @@ files:
     original_filename: Picture 095satellite.jpg
     thumb: /files/thumbnails/14fb2a13a59c9914fb2a13a5a1b1.jpg
     url: /files/original/14fb2a13a59c9914fb2a13a5a1b1.jpg
+    alt:
+      en: "Aerial reconnaissance photo labeled \"UNCLASSIFIED\" showing floodwaters surrounding the Clearview Shopping Center near Lakeshore Drive and Robert E. Lee Blvd in Orleans Parish, dated 04 Sep 05."
 geo:
 id: 19016
 item_type: Still Image

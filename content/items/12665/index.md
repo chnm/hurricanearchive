@@ -21,6 +21,8 @@ files:
     original_filename: 100-13_885d4fcdec.jpg
     thumb: /files/thumbnails/14fb2a21f212ff14fb2a21f216e5.jpg
     url: /files/original/14fb2a21f212ff14fb2a21f216e5.jpg
+    alt:
+      en: "Vintage photo of a young girl in a white top and red pants standing on grass in front of a light-colored siding house with a window and screened door."
 geo:
 id: 12665
 item_type: Still Image

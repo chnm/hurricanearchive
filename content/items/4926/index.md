@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0245.JPG
     thumb: /files/thumbnails/14fb2a54f1644614fb2a54f16bb7.jpg
     url: /files/original/14fb2a54f1644614fb2a54f16bb7.jpg
+    alt:
+      en: "Broken concrete cinder blocks with exposed rebar lie amid scattered dried leaves, pine needles, and debris, with a flat gray panel visible in the background."
 geo:
 id: 4926
 item_type: Still Image

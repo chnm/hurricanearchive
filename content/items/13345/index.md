@@ -21,6 +21,8 @@ files:
     original_filename: 105-08_b4035b735f.jpg
     thumb: /files/thumbnails/14fb2a1e456de814fb2a1e4571cb.jpg
     url: /files/original/14fb2a1e456de814fb2a1e4571cb.jpg
+    alt:
+      en: "Black-and-white street view of St. Claude Avenue lined with trees, parked vintage cars, small wood-frame houses, and utility poles, with handwritten caption \"View in on St. Claude Ave across Egania, 6-8-53.\""
 geo:
 id: 13345
 item_type: Still Image

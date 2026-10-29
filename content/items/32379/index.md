@@ -20,6 +20,8 @@ files:
     original_filename: dollpartssm_473128dd2a.jpg
     thumb: /files/thumbnails/14fb29cbf55ab414fb29cbf55e9a.jpg
     url: /files/original/14fb29cbf55ab414fb29cbf55e9a.jpg
+    alt:
+      en: "A weathered angel figurine with long dark hair and a gold-and-white robe, partially tarnished, sits amid debris against a blurred wall marked with red spray-painted symbols."
 geo:
   address: ''
   lat: 29.80252

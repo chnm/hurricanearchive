@@ -24,6 +24,8 @@ files:
     original_filename: AB two men drinking_18f365fcbd.jpg
     thumb: /files/thumbnails/14fb29d93e448414fb29d93e4868.jpg
     url: /files/original/14fb29d93e448414fb29d93e4868.jpg
+    alt:
+      en: "Sepia-toned early 1900s photograph of a man drinking from a flask while another plays a fiddle, standing and sitting before a wooden picket fence and shingled roof building."
 geo:
   address: ''
   lat: 29.84064

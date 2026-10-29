@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2143superdome.JPG
     thumb: /files/thumbnails/14fb29e495c0f314fb29e495c4d8.jpg
     url: /files/original/14fb29e495c0f314fb29e495c4d8.jpg
+    alt:
+      en: "A small boat carrying several rescued people and two rescue workers in life vests navigates floodwaters, surrounded by partially submerged vehicles and a military truck."
 geo:
 id: 24821
 item_type: Still Image

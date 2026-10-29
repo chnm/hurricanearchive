@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a15057e1e14fb2a15058205.jpg
     url: /files/original/14fb2a15057e1e14fb2a15058205.jpg
+    alt:
+      en: "Aerial view of a flood-ravaged neighborhood with scattered, damaged houses surrounded by standing water and debris, a canal running alongside the devastated blocks, and a river visible in the distance."
 geo:
 id: 18829
 item_type: Still Image

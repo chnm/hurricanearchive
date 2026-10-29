@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29efff319014fb29efff356b.jpg
     url: /files/original/14fb29efff319014fb29efff356b.jpg
+    alt:
+      en: "Soldier in camouflage flight suit and helmet with attached night-vision optics and headset, wearing eyeglasses and a backpack, pictured outdoors near a wall and trees."
 geo:
 id: 23309
 item_type: Still Image

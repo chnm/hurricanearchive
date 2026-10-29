@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28229.jpg
     thumb: /files/thumbnails/14fb2a6c99c2e014fb2a6c99c6c7.jpg
     url: /files/original/14fb2a6c99c2e014fb2a6c99c6c7.jpg
+    alt:
+      en: "A large white tent with peaked spires stands in a parking lot, an American flag atop its center, with a blue \"WAL★MART\" banner hung across its front entrance."
 geo:
   address: ''
   lat: 0.0

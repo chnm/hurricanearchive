@@ -21,6 +21,8 @@ files:
     original_filename: P1010194empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed43e61d14fb29ed43ea0c.jpg
     url: /files/original/14fb29ed43e61d14fb29ed43ea0c.jpg
+    alt:
+      en: "Flattened structure reduced to scattered debris and a partially collapsed roof frame, surrounded by bare, sediment-covered ground and sparse trees in the background."
 geo:
 id: 23753
 item_type: Still Image

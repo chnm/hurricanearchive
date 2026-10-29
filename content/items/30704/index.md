@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7401.JPG
     thumb: /files/thumbnails/14fb29ccc9a7e514fb29ccc9abc1.jpg
     url: /files/original/14fb29ccc9a7e514fb29ccc9abc1.jpg
+    alt:
+      en: "A large tree uprooted and toppled in a wooded area, its exposed root ball covered in soil and debris, surrounded by dense underbrush and standing trees."
 geo:
 id: 30704
 item_type: Still Image

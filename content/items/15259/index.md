@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-9_0beceb4833.jpg
     thumb: /files/thumbnails/14fb2a16b8435314fb2a16b84732.jpg
     url: /files/original/14fb2a16b8435314fb2a16b84732.jpg
+    alt:
+      en: "Children on a stage decorated with paper flowers hold letter cards spelling \"PARENTS\" during a kindergarten graduation program, with \"SRB\" above the stage and an audience seated in front."
 geo:
 id: 15259
 item_type: Still Image

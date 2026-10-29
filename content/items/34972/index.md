@@ -23,6 +23,8 @@ files:
     original_filename: 2297855367_4070a68427.
     thumb: /files/thumbnails/14fb29c81a388e14fb29c81a3c74.jpg
     url: /files/original/14fb29c81a388e14fb29c81a3c74.jpg
+    alt:
+      en: "Volunteers climb into a crowded truck trailer labeled \"WERNER 43412,\" sorting and retrieving numerous bicycles packed tightly inside, while several onlookers watch from below."
 geo:
 id: 34972
 item_type: Still Image

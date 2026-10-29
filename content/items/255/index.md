@@ -26,6 +26,8 @@ files:
     original_filename: playset_dee276c41c.jpg
     thumb: /files/thumbnails/14fb2a7064537b14fb2a70645580.jpg
     url: /files/original/14fb2a7064537b14fb2a70645580.jpg
+    alt:
+      en: "A wooden backyard playset lies damaged and collapsed, with broken boards, posts, and netting scattered across the grass beneath surrounding trees."
 geo:
   address: ''
   lat: 29.951082

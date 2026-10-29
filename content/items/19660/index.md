@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 047cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e88090c14fb2a0e880cf2.jpg
     url: /files/original/14fb2a0e88090c14fb2a0e880cf2.jpg
+    alt:
+      en: "Close-up of a camouflage military armored vehicle's exterior tools and exhaust pipe, with a Tennessee state flag flying above, set against a metal building and pine trees."
 geo:
 id: 19660
 item_type: Still Image

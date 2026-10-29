@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1927superdome.JPG
     thumb: /files/thumbnails/14fb29e0a1631a14fb29e0a16700.jpg
     url: /files/original/14fb29e0a1631a14fb29e0a16700.jpg
+    alt:
+      en: "A military helicopter with its rear ramp lowered sits on a helipad as a camouflage-clad soldier carrying a duffel bag walks away, with an elevated highway and \"LSU Medical Center\" building visible in the background."
 geo:
 id: 25228
 item_type: Still Image

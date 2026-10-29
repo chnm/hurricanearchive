@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1637superdome.JPG
     thumb: /files/thumbnails/14fb29e293fcca14fb29e29402e1.jpg
     url: /files/original/14fb29e293fcca14fb29e29402e1.jpg
+    alt:
+      en: "Floodwater covers a parking lot and street in front of a teal-paneled building, with a chain-link fence, streetlights, trees, and highrise buildings visible in the background."
 geo:
 id: 25063
 item_type: Still Image

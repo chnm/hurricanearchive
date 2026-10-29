@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2172conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11bf045e14fb2a11bf080b.jpg
     url: /files/original/14fb2a11bf045e14fb2a11bf080b.jpg
+    alt:
+      en: "Military Police Humvee with soldiers parked on a city street, with a construction site, palm trees, and high-rise buildings in the background; a soldier in foreground partially obscures the view."
 geo:
 id: 19225
 item_type: Still Image

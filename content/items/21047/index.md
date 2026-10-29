@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0102.JPG
     thumb: /files/thumbnails/14fb2a00e231f614fb2a00e235dd.jpg
     url: /files/original/14fb2a00e231f614fb2a00e235dd.jpg
+    alt:
+      en: "Two military helicopters fly in silhouette against a hazy sky above a sprawling city landscape, with a hazy horizon line separating the urban area from the sky."
 geo:
 id: 21047
 item_type: Still Image

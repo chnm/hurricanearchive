@@ -21,6 +21,8 @@ files:
     original_filename: Superdome parking lotsuperdome.jpg
     thumb: /files/thumbnails/14fb29dde69cac14fb29dde6a09b.jpg
     url: /files/original/14fb29dde69cac14fb29dde6a09b.jpg
+    alt:
+      en: "Large military helicopter with rotors spinning sits on a rooftop parking lot, with two people standing near its rear, against a backdrop of multistory city buildings."
 geo:
 id: 25422
 item_type: Still Image

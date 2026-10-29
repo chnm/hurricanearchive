@@ -21,6 +21,8 @@ files:
     original_filename: 20050927018.JPG
     thumb: /files/thumbnails/14fb2a1c5ac2b114fb2a1c5b007b.jpg
     url: /files/original/14fb2a1c5ac2b114fb2a1c5b007b.jpg
+    alt:
+      en: "Long line of vehicles stopped along a roadside near a school sign, with a shirtless man standing beside a military truck in the foreground under an overcast sky."
 geo:
   address: ''
   lat: 0.0

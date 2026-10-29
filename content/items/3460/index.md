@@ -24,6 +24,8 @@ files:
     original_filename: P1010028.JPG
     thumb: /files/thumbnails/14fb2a5ba0459114fb2a5ba0496f.jpg
     url: /files/original/14fb2a5ba0459114fb2a5ba0496f.jpg
+    alt:
+      en: "Storm-damaged brick house with collapsed siding and a leaning facade, surrounded by debris, rusted metal panels, and a crane visible in the background under a clear blue sky."
 geo:
 id: 3460
 item_type: Still Image

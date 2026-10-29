@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0115gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cfd736814fb2a0cfd7a8d.jpg
     url: /files/original/14fb2a0cfd736814fb2a0cfd7a8d.jpg
+    alt:
+      en: "Aerial view of a riverside campus with cream-colored institutional buildings, tree-lined grounds, and parked cars, with a cargo ship on the river and flat green land beyond under hazy sky."
 geo:
 id: 19883
 item_type: Still Image

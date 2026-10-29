@@ -21,6 +21,8 @@ files:
     original_filename: 100-26_14a4125019.jpg
     thumb: /files/thumbnails/14fb2a21c983b414fb2a21c98793.jpg
     url: /files/original/14fb2a21c983b414fb2a21c98793.jpg
+    alt:
+      en: "Studio portrait of a young girl with braided pigtails and hoop earrings, smiling in a light purple floral-patterned dress against a plain backdrop."
 geo:
 id: 12679
 item_type: Still Image

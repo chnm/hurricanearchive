@@ -21,6 +21,8 @@ files:
     original_filename: Picture 257cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b0063b414fb2a0b007e79.jpg
     url: /files/original/14fb2a0b0063b414fb2a0b007e79.jpg
+    alt:
+      en: "A powerful jet of water erupts from a foamy basin surrounded by a concrete retaining wall, with a wooden platform, utility poles, and industrial buildings visible in the background under a clear blue sky."
 geo:
 id: 20160
 item_type: Still Image

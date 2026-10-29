@@ -21,6 +21,8 @@ files:
     original_filename: DSC01043.JPG
     thumb: /files/thumbnails/14fb2a58b2c39314fb2a58b2c779.jpg
     url: /files/original/14fb2a58b2c39314fb2a58b2c779.jpg
+    alt:
+      en: "Parking lot with travel trailers (including one labeled \"Dutchmen\" and another \"Play-T...\") and open cargo trailers beside a building with a red metal roof and flag at half-staff."
 geo:
 id: 3965
 item_type: Still Image

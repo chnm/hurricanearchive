@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0116gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cf9d69c14fb2a0cf9e57b.jpg
     url: /files/original/14fb2a0cf9d69c14fb2a0cf9e57b.jpg
+    alt:
+      en: "Aerial view of a riverside institutional campus with multiple buildings, a tall white tower, and extensive green lawns, bordered by a wide river with a barge and distant flat landscape under hazy sky."
 geo:
 id: 19884
 item_type: Still Image

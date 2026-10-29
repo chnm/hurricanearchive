@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0013.JPG
     thumb: /files/thumbnails/14fb2a1bb7743f14fb2a1bb77824.jpg
     url: /files/original/14fb2a1bb7743f14fb2a1bb77824.jpg
+    alt:
+      en: "Three men in a room with blue tiled walls sit on chairs, two in camouflage military uniforms and one in a tan shirt and green cap; a sign reading \"PRESS AREA\" hangs on the wall behind them."
 geo:
   address: ''
   lat: 0.0

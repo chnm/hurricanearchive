@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030cameronS&R.JPG
     thumb: /files/thumbnails/14fb29e9d5bbd514fb29e9d5fec8.jpg
     url: /files/original/14fb29e9d5bbd514fb29e9d5fec8.jpg
+    alt:
+      en: "Aerial view of a coastal community devastated by flooding, with only scattered pilings and debris remaining amid standing water along a barren, sandy shoreline."
 geo:
 id: 24200
 item_type: Still Image

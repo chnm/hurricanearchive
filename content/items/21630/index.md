@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0361-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fcec960014fb29fcec99a0.jpg
     url: /files/original/14fb29fcec960014fb29fcec99a0.jpg
+    alt:
+      en: "Aerial view of a flooded marina with several shrimp boats and small buildings submerged to their rooflines in brown floodwater, surrounded by marshland and a partially covered road."
 geo:
 id: 21630
 item_type: Still Image

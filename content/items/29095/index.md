@@ -24,6 +24,8 @@ files:
     original_filename: DSCN0654.JPG
     thumb: /files/thumbnails/14fb29cfdcb04f14fb29cfdcc61c.jpg
     url: /files/original/14fb29cfdcb04f14fb29cfdcc61c.jpg
+    alt:
+      en: "Parking lot in front of a multi-story brick building with a covered walkway, where a black-and-tan SUV, a white SUV, and a sedan are parked; signage reads \"Employee of the Month\" and \"DePaul Tulane.\""
 geo:
 id: 29095
 item_type: Still Image

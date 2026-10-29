@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28296.jpg
     thumb: /files/thumbnails/14fb2a674d8af914fb2a674d8eb2.jpg
     url: /files/original/14fb2a674d8af914fb2a674d8eb2.jpg
+    alt:
+      en: "Damaged brick building under construction, with an exposed steel frame on the roof and a black waterproofed foundation wall revealed where bricks have been torn away."
 geo:
   address: ''
   lat: 0.0

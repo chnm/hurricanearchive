@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0175-21.JPG
     thumb: /files/thumbnails/14fb2a00a2366d14fb2a00a23a52.jpg
     url: /files/original/14fb2a00a2366d14fb2a00a23a52.jpg
+    alt:
+      en: "A quiet residential street lined with trees and houses, debris and discarded items piled near the curb, with two dark-colored cars parked along the right side."
 geo:
 id: 21091
 item_type: Still Image

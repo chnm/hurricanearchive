@@ -21,6 +21,8 @@ files:
     original_filename: S4300063.JPG
     thumb: /files/thumbnails/14fb29dda1791c14fb29dda17ce3.jpg
     url: /files/original/14fb29dda1791c14fb29dda17ce3.jpg
+    alt:
+      en: "Interior of a military helicopter's cargo hold, loaded with a large shrink-wrapped pallet of bottled water strapped near the open rear ramp, with red cargo netting and exposed wiring along the fuselage walls."
 geo:
 id: 25442
 item_type: Still Image

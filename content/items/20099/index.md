@@ -21,6 +21,8 @@ files:
     original_filename: Picture 196cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b5535f114fb2a0b553d1b.jpg
     url: /files/original/14fb2a0b5535f114fb2a0b553d1b.jpg
+    alt:
+      en: "A paved road curves past a grassy median and parking area lined with yellow curbs, with scattered trees, some bare or damaged, under a partly cloudy sky."
 geo:
 id: 20099
 item_type: Still Image

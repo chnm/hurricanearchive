@@ -21,6 +21,8 @@ files:
     original_filename: FH000008-9-23.jpg
     thumb: /files/thumbnails/14fb29fca6586414fb29fca65c49.jpg
     url: /files/original/14fb29fca6586414fb29fca65c49.jpg
+    alt:
+      en: "A single-story manufactured home with metal siding and storm-damaged window awnings hanging open, set behind a dry, patchy lawn; a car's side mirror is visible in the foreground."
 geo:
 id: 21671
 item_type: Still Image

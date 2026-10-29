@@ -21,6 +21,8 @@ files:
     original_filename: Picture 053cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bfa37d514fb2a0bfa3bb9.jpg
     url: /files/original/14fb2a0bfa37d514fb2a0bfa3bb9.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms, one named \"Serio,\" gather on a leaf-strewn street in front of a pink house marked \"1810,\" with debris and a parked car nearby."
 geo:
 id: 19956
 item_type: Still Image

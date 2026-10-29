@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0143-9-25.JPG
     thumb: /files/thumbnails/14fb2a0219953214fb2a0219990e.jpg
     url: /files/original/14fb2a0219953214fb2a0219990e.jpg
+    alt:
+      en: "Aerial view of extensive floodwater submerging a neighborhood, with a house's rooftop and chimney visible above the water, surrounded by bare, storm-damaged trees and debris."
 geo:
 id: 20901
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0107cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef67b03714fb29ef67b415.jpg
     url: /files/original/14fb29ef67b03714fb29ef67b415.jpg
+    alt:
+      en: "A uniformed crew member wearing a headset and harness looks out from a helicopter over a dense green forest canopy below."
 geo:
 id: 23444
 item_type: Still Image

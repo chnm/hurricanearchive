@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1169Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f712d9d814fb29f712ddbe.jpg
     url: /files/original/14fb29f712d9d814fb29f712ddbe.jpg
+    alt:
+      en: "Floodwater surges against a brick building with an open white door, submerging a railing and lamppost; wall plaques read \"Military Library\" and \"Bruner Hall.\""
 geo:
 id: 22353
 item_type: Still Image

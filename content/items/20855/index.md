@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0133-9-25.JPG
     thumb: /files/thumbnails/14fb2a02ce3b9d14fb2a02ce3f82.jpg
     url: /files/original/14fb2a02ce3b9d14fb2a02ce3f82.jpg
+    alt:
+      en: "Aerial view of murky floodwater with a truck equipped with a raised frame attachment partially submerged, surrounded by scattered debris and wooden posts protruding from the water."
 geo:
 id: 20855
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DannishDanionGreen_03_f1cae222b7.jpg
     thumb: /files/thumbnails/14fb2a1814095b14fb2a18140d40.jpg
     url: /files/original/14fb2a1814095b14fb2a18140d40.jpg
+    alt:
+      en: "Studio portrait of a young boy flanked by two older boys, all smiling, with two footballs (branded \"Rawlings Champ\") resting in front of them against a painted stadium backdrop."
 geo:
 id: 14703
 item_type: Still Image

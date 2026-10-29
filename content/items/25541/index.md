@@ -21,6 +21,8 @@ files:
     original_filename: LeoSchaeffer2A_1a044fc304.jpg
     thumb: /files/thumbnails/14fb29dd457b1d14fb29dd457ef3.jpg
     url: /files/original/14fb29dd457b1d14fb29dd457ef3.jpg
+    alt:
+      en: "Cheerleaders in maroon and black uniforms stand in formation in a parking lot, facing a crowd of onlookers, with a Blue Bell Ice Cream truck and houses visible in the background."
 geo:
 id: 25541
 item_type: Still Image

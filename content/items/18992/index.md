@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2154rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d6ec9b14fb2a13d6f081.jpg
     url: /files/original/14fb2a13d6ec9b14fb2a13d6f081.jpg
+    alt:
+      en: "Aerial view from inside a helicopter, showing a crew member's gloved hand on a hoist/boom control panel, with a helmet labeled \"HENDERSON\" above, and the ground visible far below."
 geo:
 id: 18992
 item_type: Still Image

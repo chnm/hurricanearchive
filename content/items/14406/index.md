@@ -21,6 +21,8 @@ files:
     original_filename: slide24.jpg
     thumb: /files/thumbnails/14fb2a193aadbc14fb2a193ab871.jpg
     url: /files/original/14fb2a193aadbc14fb2a193ab871.jpg
+    alt:
+      en: "A boat on a trailer sits in a debris-strewn front yard beside a storm-damaged house, with a person standing on the porch near a boat propped against the steps; caption reads \"Fran and Mike's house, Front yard, boat on porch.\""
 geo:
 id: 14406
 item_type: Still Image

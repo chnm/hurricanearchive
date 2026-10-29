@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 1594neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29eb45ecef14fb29eb45f341.jpg
     url: /files/original/14fb29eb45ecef14fb29eb45f341.jpg
+    alt:
+      en: "High-rise glass office towers with one building showing extensive storm damage—shattered and missing windows—alongside an intact neighboring skyscraper, with trees and parked cars in the foreground."
 geo:
 id: 24044
 item_type: Still Image

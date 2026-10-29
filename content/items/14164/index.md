@@ -21,6 +21,8 @@ files:
     original_filename: MN UH60A Flight Crew 27SEP2005.JPG
     thumb: /files/thumbnails/14fb2a1b3bbddf14fb2a1b3bcf08.jpg
     url: /files/original/14fb2a1b3bbddf14fb2a1b3bcf08.jpg
+    alt:
+      en: "Five U.S. Army soldiers in camouflage uniforms stand together outside a building, with a date stamp reading 09.27.2005 in the corner."
 geo:
   address: ''
   lat: 0.0

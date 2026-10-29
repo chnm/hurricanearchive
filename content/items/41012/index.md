@@ -20,6 +20,8 @@ files:
     original_filename: 8 - Wingate 1_e7bc96c335.JPG
     thumb: /files/thumbnails/14fb29c4a6e6a414fb29c4a6f15e.jpg
     url: /files/original/14fb29c4a6e6a414fb29c4a6f15e.jpg
+    alt:
+      en: "A residential street with a single-story yellow house, some boarded-up windows, and an overgrown empty lot, while a white pickup truck is parked nearby and elevated houses stand in the background."
 geo:
   address: ''
   lat: 30.05495

@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4836_e7093f8037.jpg
     thumb: /files/thumbnails/14fb2a1e40595b14fb2a1e405d43.jpg
     url: /files/original/14fb2a1e40595b14fb2a1e405d43.jpg
+    alt:
+      en: "Snow falls over a backyard with plastic lawn chairs and a trimmed hedge, with a wooden fence, neighboring houses, and a parked pickup truck visible in the background."
 geo:
 id: 13351
 item_type: Still Image

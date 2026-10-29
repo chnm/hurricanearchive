@@ -21,6 +21,8 @@ files:
     original_filename: aerials82.jpg
     thumb: /files/thumbnails/14fb2a1987d41514fb2a1987d7fa.jpg
     url: /files/original/14fb2a1987d41514fb2a1987d7fa.jpg
+    alt:
+      en: "Aerial view of a collapsed industrial or warehouse complex with roofs torn off and scattered debris, surrounded by intact buildings, parked vehicles, and open grassy lots."
 geo:
 id: 14374
 item_type: Still Image

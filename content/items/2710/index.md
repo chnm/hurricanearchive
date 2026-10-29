@@ -21,6 +21,8 @@ files:
     original_filename: 132.jpg
     thumb: /files/thumbnails/14fb2a60766ece14fb2a60767b18.jpg
     url: /files/original/14fb2a60766ece14fb2a60767b18.jpg
+    alt:
+      en: "Child's drawing labeled \"Jakia 8\" featuring colorful flowers, butterflies, and swirls in marker, divided into sections by horizontal lines of blue, red, and pink."
 geo:
 id: 2710
 item_type: Still Image

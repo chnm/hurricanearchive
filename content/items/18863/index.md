@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0080grandisle.JPG
     thumb: /files/thumbnails/14fb2a14d6d50314fb2a14d6d8c9.jpg
     url: /files/original/14fb2a14d6d50314fb2a14d6d8c9.jpg
+    alt:
+      en: "Aerial view of a flattened coastal community with scattered debris, stripped trees, and a few surviving structures along a paved road beside a waterway, showing widespread hurricane damage."
 geo:
 id: 18863
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28285.jpg
     thumb: /files/thumbnails/14fb2a6a78277d14fb2a6a782b61.jpg
     url: /files/original/14fb2a6a78277d14fb2a6a782b61.jpg
+    alt:
+      en: "A woman holds up a magazine titled \"ART Gulf Coast\" in front of storm-damaged structural wreckage and tree debris, with curved metal barge sections in the foreground."
 geo:
   address: ''
   lat: 0.0

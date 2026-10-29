@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0233-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff476f8814fb29ff4777df.jpg
     url: /files/original/14fb29ff476f8814fb29ff4777df.jpg
+    alt:
+      en: "Aerial view of a flooded industrial facility with large storage tanks and piping surrounded by standing floodwater, with a small boat navigating between submerged structures and a flat rural landscape in the background."
 geo:
 id: 21347
 item_type: Still Image

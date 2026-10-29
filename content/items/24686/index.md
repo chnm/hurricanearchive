@@ -21,6 +21,8 @@ files:
     original_filename: 111-1171 IMGcameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e58e9f4f14fb29e58ea32d.jpg
     url: /files/original/14fb29e58e9f4f14fb29e58ea32d.jpg
+    alt:
+      en: "Large group of military personnel and civilian volunteers pose on the steps of a white building marked \"119 Smith Circle,\" with a stone obelisk monument in the foreground."
 geo:
 id: 24686
 item_type: Still Image

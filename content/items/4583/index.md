@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0009.JPG
     thumb: /files/thumbnails/14fb2a56f01a2e14fb2a56f01dec.jpg
     url: /files/original/14fb2a56f01a2e14fb2a56f01dec.jpg
+    alt:
+      en: "Large rolls of debris, possibly damaged carpet or roofing material, lie scattered across a muddy, debris-strewn lot among bare trees, with a truck parked at left and heavy equipment visible in the background."
 geo:
 id: 4583
 item_type: Still Image

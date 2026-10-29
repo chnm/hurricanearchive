@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001-16.JPG
     thumb: /files/thumbnails/14fb2a094763e314fb2a094767c8.jpg
     url: /files/original/14fb2a094763e314fb2a094767c8.jpg
+    alt:
+      en: "Soldier in camouflage fatigues and helmet with an American flag patch stands on dry grass, harness cable extending from his gear, with buildings and trees visible in the background."
 geo:
 id: 20327
 item_type: Still Image

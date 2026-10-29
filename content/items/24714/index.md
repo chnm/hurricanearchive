@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-16-15Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e564ab4214fb29e564af28.jpg
     url: /files/original/14fb29e564ab4214fb29e564af28.jpg
+    alt:
+      en: "Flooded urban roadway beneath an overpass, with a military transport truck and abandoned school buses partially submerged in standing floodwater."
 geo:
 id: 24714
 item_type: Still Image

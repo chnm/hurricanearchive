@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28550.jpg
     thumb: /files/thumbnails/14fb2a686875fc14fb2a68687cef.jpg
     url: /files/original/14fb2a686875fc14fb2a68687cef.jpg
+    alt:
+      en: "View from inside a car driving through a flooded street under a bridge, with a pickup truck ahead wading through deep water; a Shell gas station sign is visible in the background."
 geo:
   address: ''
   lat: 0.0

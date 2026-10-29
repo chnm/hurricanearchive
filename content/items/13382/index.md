@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4976_210ee3289d.jpg
     thumb: /files/thumbnails/14fb2a1e20dc0214fb2a1e20dfe6.jpg
     url: /files/original/14fb2a1e20dc0214fb2a1e20dfe6.jpg
+    alt:
+      en: "A young boy lies on a bed with his hands behind his head, holding a remote control, wearing a white t-shirt and blue shorts, in a bedroom with a striped bedspread."
 geo:
 id: 13382
 item_type: Still Image

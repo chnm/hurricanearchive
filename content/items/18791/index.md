@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027grandisle.JPG
     thumb: /files/thumbnails/14fb2a153beb3514fb2a153bef11.jpg
     url: /files/original/14fb2a153beb3514fb2a153bef11.jpg
+    alt:
+      en: "Aerial view of a coastal marina community with storm-damaged buildings on stilts, docked shrimp boats, scattered debris, and vehicles parked near canals and open water."
 geo:
 id: 18791
 item_type: Still Image

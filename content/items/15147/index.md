@@ -21,6 +21,8 @@ files:
     original_filename: Arthur Cousins and Daddy's Yogi Cake 1963_9d9d92efcc.jpg
     thumb: /files/thumbnails/14fb2a16eeabf414fb2a16eeafd6.jpg
     url: /files/original/14fb2a16eeabf414fb2a16eeafd6.jpg
+    alt:
+      en: "Black-and-white photo of children in pointed party hats seated around a table with a decorated birthday cake and \"Happy Birthday\" paper plate, New Orleans City Park, 1963."
 geo:
   address: ''
   lat: 37.77123

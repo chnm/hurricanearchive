@@ -21,6 +21,8 @@ files:
     original_filename: 20050929009.JPG
     thumb: /files/thumbnails/14fb2a1c01d65914fb2a1c01da3c.jpg
     url: /files/original/14fb2a1c01d65914fb2a1c01da3c.jpg
+    alt:
+      en: "Storm-damaged roadside with a leaning utility pole, downed trees and debris piled near a building, as a white pickup truck and orange utility vehicles move along the road."
 geo:
   address: ''
   lat: 0.0

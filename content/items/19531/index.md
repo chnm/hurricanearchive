@@ -21,6 +21,8 @@ files:
     original_filename: Picture 091engineers.jpg
     thumb: /files/thumbnails/14fb2a0f81bd3f14fb2a0f81c13b.jpg
     url: /files/original/14fb2a0f81bd3f14fb2a0f81c13b.jpg
+    alt:
+      en: "Aerial view of a Wal-Mart shopping center with a large parking lot full of cars, surrounding buildings, and roads; overlaid text reads \"WMIRS Miss#:LA-037-05A - 05Sep05 - Wal-Mart Shopping Center\" and the date \"09/05/2005.\""
 geo:
 id: 19531
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1963superdome.JPG
     thumb: /files/thumbnails/14fb29e02b995314fb29e02b9d38.jpg
     url: /files/original/14fb29e02b995314fb29e02b9d38.jpg
+    alt:
+      en: "Silhouetted figures gather around a table with radio equipment and water bottles in front of bright windows, two men holding phones to their ears while a standing man in a cap leans over the table."
 geo:
 id: 25253
 item_type: Still Image

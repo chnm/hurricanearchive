@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1681superdome.JPG
     thumb: /files/thumbnails/14fb29e264610f14fb29e2646491.jpg
     url: /files/original/14fb29e264610f14fb29e2646491.jpg
+    alt:
+      en: "Military Police personnel in camouflage uniforms with \"MP\" armbands walk in formation past parked Humvee vehicles, backpacks and gear visible on their uniforms."
 geo:
 id: 25094
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0335-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd2b455814fb29fd2b492d.jpg
     url: /files/original/14fb29fd2b455814fb29fd2b492d.jpg
+    alt:
+      en: "Aerial view of flooded land with narrow strips of grass and trees surrounded by murky brown floodwater, showing a landscape largely submerged after the storm."
 geo:
 id: 21603
 item_type: Still Image

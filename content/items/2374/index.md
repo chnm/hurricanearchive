@@ -27,6 +27,8 @@ files:
     original_filename: 249142_8dd117add3.jpg
     thumb: /files/thumbnails/14fb2a66d31ae614fb2a66d31ed4.jpg
     url: /files/original/14fb2a66d31ae614fb2a66d31ed4.jpg
+    alt:
+      en: "Several men unload a red response boat from the rear of a military aircraft on a tarmac, with a man wearing a \"Sacramento\" jacket standing in the foreground."
 geo:
 id: 2374
 item_type: Still Image

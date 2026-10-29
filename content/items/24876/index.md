@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0950superdome.JPG
     thumb: /files/thumbnails/14fb29e421095b14fb29e4210e59.jpg
     url: /files/original/14fb29e421095b14fb29e4210e59.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms stand under a covered walkway near a \"NOTICE\" sign listing prohibited items, with a crowd of people and bags visible behind them."
 geo:
 id: 24876
 item_type: Still Image

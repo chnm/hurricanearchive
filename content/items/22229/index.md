@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1036Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8d7b14914fb29f8d7b524.jpg
     url: /files/original/14fb29f8d7b14914fb29f8d7b524.jpg
+    alt:
+      en: "A military Black Hawk helicopter sits on a grassy lawn with rotors extended, a crew member visible inside, trees and a building in the background, and green foliage framing the foreground."
 geo:
 id: 22229
 item_type: Still Image

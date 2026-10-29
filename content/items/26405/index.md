@@ -24,6 +24,8 @@ files:
     original_filename: HS 4 1926 first communion_8a157db9f7.jpg
     thumb: /files/thumbnails/14fb29d8ac98df14fb29d8acfb58.jpg
     url: /files/original/14fb29d8ac98df14fb29d8acfb58.jpg
+    alt:
+      en: "Sepia-toned photograph of a young girl in a white first communion dress, veil, and gloves, holding a candle beside a table, with a furled umbrella at her feet; the photo's paper mount is torn and creased."
 geo:
   address: ''
   lat: 29.87876

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7592.JPG
     thumb: /files/thumbnails/14fb29cc921df614fb29cc922524.jpg
     url: /files/original/14fb29cc921df614fb29cc922524.jpg
+    alt:
+      en: "Storm debris litters a street corner, including a detached streetlight fixture, bent metal poles, and scattered branches, with a leaning traffic pole and parked car in the background."
 geo:
 id: 30762
 item_type: Still Image

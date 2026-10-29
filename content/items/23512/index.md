@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0148abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef26dd1d14fb29ef26e103.jpg
     url: /files/original/14fb29ef26dd1d14fb29ef26e103.jpg
+    alt:
+      en: "A brick church with stained-glass windows and a cross above the entrance, its doorway open and surrounded by storm debris, as two people walk along the sidewalk out front."
 geo:
 id: 23512
 item_type: Still Image

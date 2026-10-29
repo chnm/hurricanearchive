@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0424.JPG
     thumb: /files/thumbnails/14fb2a5412259514fb2a5412296e.jpg
     url: /files/original/14fb2a5412259514fb2a5412296e.jpg
+    alt:
+      en: "A large fallen tree leans against a smaller standing pine amid storm debris, with scattered wood, rubble, and bare damaged trees surrounding a cleared dirt lot."
 geo:
 id: 5079
 item_type: Still Image

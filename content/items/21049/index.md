@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0166.JPG
     thumb: /files/thumbnails/14fb2a00e0ab7914fb2a00e0b363.jpg
     url: /files/original/14fb2a00e0ab7914fb2a00e0b363.jpg
+    alt:
+      en: "A U.S. Army medevac helicopter with a red cross emblem sits on an airfield tarmac, rotors spinning, with a soldier in fatigues standing beside the open cabin door."
 geo:
 id: 21049
 item_type: Still Image

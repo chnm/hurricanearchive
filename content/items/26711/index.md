@@ -24,6 +24,8 @@ files:
     original_filename: JB 2 grandparents_b6234904ff.3.jpg
     thumb: /files/thumbnails/14fb29d82c7a3914fb29d82c7dbd.jpg
     url: /files/original/14fb29d82c7a3914fb29d82c7dbd.jpg
+    alt:
+      en: "Black-and-white photo of a woman in a plaid shirt and flared pants standing on a concrete walkway outside a wood-paneled house with a door and window, identified as Mary Bernard's home in New Orleans."
 geo:
   address: ''
   lat: 29.91685

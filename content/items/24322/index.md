@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-15-13A.jpg
     thumb: /files/thumbnails/14fb29e8ba557c14fb29e8ba5d3f.jpg
     url: /files/original/14fb29e8ba557c14fb29e8ba5d3f.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood, with houses and streets submerged in brown floodwater, surrounded by trees and a large institutional building complex."
 geo:
 id: 24322
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0642Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f46a66f314fb29f46a6c0f.jpg
     url: /files/original/14fb29f46a66f314fb29f46a6c0f.jpg
+    alt:
+      en: "A boat on a trailer rests crashed against the corner of a brick building, parked beside a dark SUV on a gravel driveway with storm-damaged trees; image dated 09.15.2005."
 geo:
 id: 22724
 item_type: Still Image

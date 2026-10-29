@@ -24,6 +24,8 @@ files:
     original_filename: P1010129.JPG
     thumb: /files/thumbnails/14fb2a5a214dce14fb2a5a2151b3.jpg
     url: /files/original/14fb2a5a214dce14fb2a5a2151b3.jpg
+    alt:
+      en: "Blurry close-up of a tan and gray dog eating food from a person's outstretched hand, standing on a dirt and gravel surface."
 geo:
 id: 3687
 item_type: Still Image

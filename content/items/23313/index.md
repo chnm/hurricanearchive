@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0045cameronS&R.JPG
     thumb: /files/thumbnails/14fb29effcf3ca14fb29effcf756.jpg
     url: /files/original/14fb29effcf3ca14fb29effcf756.jpg
+    alt:
+      en: "Storm-damaged buildings with plywood-boarded windows stand beside massive piles of splintered wood debris, with standing floodwater covering the street and bare, damaged trees in the background."
 geo:
 id: 23313
 item_type: Still Image

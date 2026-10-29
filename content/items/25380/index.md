@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2105superdome.JPG
     thumb: /files/thumbnails/14fb29de82ee4814fb29de831e88.jpg
     url: /files/original/14fb29de82ee4814fb29de831e88.jpg
+    alt:
+      en: "A twin-rotor military helicopter, likely a CH-47 Chinook, flies overhead against an overcast sky, seen from below with its silhouette dark against the clouds."
 geo:
 id: 25380
 item_type: Still Image

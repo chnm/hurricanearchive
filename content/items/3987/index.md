@@ -21,6 +21,8 @@ files:
     original_filename: DSC01077.JPG
     thumb: /files/thumbnails/14fb2a58a4c44914fb2a58a4c826.jpg
     url: /files/original/14fb2a58a4c44914fb2a58a4c826.jpg
+    alt:
+      en: "A U.S. Coast Guard boat with personnel in life vests navigates floodwaters beneath two curved highway overpasses, with a green highway sign reading \"New Orleans Business District\" visible in the distance."
 geo:
 id: 3987
 item_type: Still Image

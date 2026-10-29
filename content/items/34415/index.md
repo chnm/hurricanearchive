@@ -23,6 +23,8 @@ files:
     original_filename: 2380722334_e0504130e5.
     thumb: /files/thumbnails/14fb29ca21375614fb29ca213b10.jpg
     url: /files/original/14fb29ca21375614fb29ca213b10.jpg
+    alt:
+      en: "Aerial view of a long bridge spanning open water with sections of its roadway missing or collapsed, surrounded by low-lying marshland and scattered buildings along the shoreline."
 geo:
   address: ''
   lat: 30.21027

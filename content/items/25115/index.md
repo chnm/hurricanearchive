@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1702superdome.JPG
     thumb: /files/thumbnails/14fb29e23568a114fb29e2356c86.jpg
     url: /files/original/14fb29e23568a114fb29e2356c86.jpg
+    alt:
+      en: "Floodwater surrounds a highway overpass, submerging cars and a military truck, with a building and elevated roadway visible in the background under a cloudy sky."
 geo:
 id: 25115
 item_type: Still Image

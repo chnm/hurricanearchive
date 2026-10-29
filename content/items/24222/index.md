@@ -21,6 +21,8 @@ files:
     original_filename: 09140003.JPG
     thumb: /files/thumbnails/14fb29e994a64914fb29e994aa2f.jpg
     url: /files/original/14fb29e994a64914fb29e994aa2f.jpg
+    alt:
+      en: "A military Humvee drives down a tree-lined residential street, viewed past the canvas-covered rear of another military vehicle in the foreground, with downed branches and debris along the roadside."
 geo:
 id: 24222
 item_type: Still Image

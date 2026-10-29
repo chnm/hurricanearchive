@@ -26,6 +26,8 @@ files:
     original_filename: hurricanekatrinaflagAP_2058ae2d4e.jpg
     thumb: /files/thumbnails/14fb2a70de988f14fb2a70de9c75.jpg
     url: /files/original/14fb2a70de988f14fb2a70de9c75.jpg
+    alt:
+      en: "A large American flag flies in the wind in front of a multi-story building with rows of windows, some with debris or damage visible."
 geo:
   address: ''
   lat: 29.9549345496561

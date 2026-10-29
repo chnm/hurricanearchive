@@ -20,6 +20,8 @@ files:
     original_filename: 2438608691_9d9bebbff2.
     thumb: /files/thumbnails/14fb29c83cbf7914fb29c83cc2a7.jpg
     url: /files/original/14fb29c83cbf7914fb29c83cc2a7.jpg
+    alt:
+      en: "Aerial view of a canal lined with a new floodwall and repair staging area, surrounded by storm-damaged trees and residential neighborhoods; a bridge crosses the canal in the midground. Dated 02/07/06."
 geo:
 id: 34948
 item_type: Still Image

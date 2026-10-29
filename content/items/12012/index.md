@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi535.JPG
     thumb: /files/thumbnails/14fb2a2259cdf314fb2a2259d1d5.jpg
     url: /files/original/14fb2a2259cdf314fb2a2259d1d5.jpg
+    alt:
+      en: "A crowd gathers outside a brick building, with a man in a light blue shirt at the center; a nearby shirt reads \"Rebuilding the Pass with Pride\" and a microphone boom is visible above the group."
 geo:
 id: 12012
 item_type: Still Image

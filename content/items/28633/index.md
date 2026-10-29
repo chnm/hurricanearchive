@@ -23,6 +23,8 @@ files:
     original_filename: 158885466_960d51b79b.jpg
     thumb: /files/thumbnails/14fb29d201380e14fb29d2013c5d.jpg
     url: /files/original/14fb29d201380e14fb29d2013c5d.jpg
+    alt:
+      en: "Storm-damaged single-story houses with missing walls and torn roofing, debris and concrete steps scattered across an overgrown yard, and an overturned car partially visible among the wreckage."
 geo:
 id: 28633
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d5d4e8914fb2a0d5d52e5.jpg
     url: /files/original/14fb2a0d5d4e8914fb2a0d5d52e5.jpg
+    alt:
+      en: "Silhouette of a worker wearing a hard hat and camouflage pants walking across wooden roof framing, set against a bright sky with scattered clouds."
 geo:
 id: 19844
 item_type: Still Image

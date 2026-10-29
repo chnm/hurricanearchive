@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (18).JPG
     thumb: /files/thumbnails/14fb2a5d0d3e4f14fb2a5d0d422c.jpg
     url: /files/original/14fb2a5d0d3e4f14fb2a5d0d422c.jpg
+    alt:
+      en: "A waterway with two channel markers in the foreground, leading to a shoreline lined with debris, damaged structures, and scattered trees under a hazy sky."
 geo:
 id: 3253
 item_type: Still Image

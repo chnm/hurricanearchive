@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-11-10AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f94c5d5c14fb29f94c613a.jpg
     url: /files/original/14fb29f94c5d5c14fb29f94c613a.jpg
+    alt:
+      en: "A flooded parking lot with several vehicles submerged to their windows, heavy rain and fog obscuring trees and power lines in the background."
 geo:
 id: 22158
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0371Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4b7f84814fb29f4b7fc2c.jpg
     url: /files/original/14fb29f4b7f84814fb29f4b7fc2c.jpg
+    alt:
+      en: "Debris piles line a street beside a razor-wire-topped brick wall, with a charcoal grill and table set up on the sidewalk near a brick building; date stamp reads 09.15.2005."
 geo:
 id: 22698
 item_type: Still Image

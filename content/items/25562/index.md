@@ -21,6 +21,8 @@ files:
     original_filename: pt_bar_pilots_0386d27b2e.jpg
     thumb: /files/thumbnails/14fb29dd35c27114fb29dd35c65f.jpg
     url: /files/original/14fb29dd35c27114fb29dd35c65f.jpg
+    alt:
+      en: "Severely damaged elevated houses with boarded windows and torn siding, surrounded by scattered debris, mud, and standing water after hurricane destruction."
 geo:
   address: 1 Bar Pilots Road
   lat: 0.0

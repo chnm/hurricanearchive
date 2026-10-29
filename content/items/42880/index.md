@@ -21,6 +21,8 @@ files:
     original_filename: sc00095a80_f3f05ce152.jpg
     thumb: /files/thumbnails/14fb29c281abc614fb29c281b333.jpg
     url: /files/original/14fb29c281abc614fb29c281b333.jpg
+    alt:
+      en: "Sepia-toned vintage photo of a man crouching beside a small child in a fur-trimmed coat, posed outdoors in front of St. Louis Cathedral's spires and facade."
 geo:
   address: ''
   lat: 0.0

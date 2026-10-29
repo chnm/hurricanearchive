@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0541Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5265eef14fb29f52662d5.jpg
     url: /files/original/14fb29f5265eef14fb29f52662d5.jpg
+    alt:
+      en: "Blurred view of a white \"Lance\" camper or trailer parked beside a brick building, with a sign reading \"Reserved for Inspector, General Parking Only\" mounted on the wall."
 geo:
 id: 22590
 item_type: Still Image

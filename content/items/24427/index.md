@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0092-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e8012f5714fb29e801466a.jpg
     url: /files/original/14fb29e8012f5714fb29e801466a.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with debris-strewn, waterlogged homes and mobile structures scattered among trees, a large warehouse-like building with a metal roof standing intact nearby, and a road running along the water's edge."
 geo:
 id: 24427
 item_type: Still Image

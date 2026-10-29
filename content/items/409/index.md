@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0376_8faf930ce9.JPG
     thumb: /files/thumbnails/14fb2a70150ef914fb2a701512d9.jpg
     url: /files/original/14fb2a70150ef914fb2a701512d9.jpg
+    alt:
+      en: "A gutted beach house stands elevated on pilings with a rusted conical roof, surrounded by barren, storm-damaged trees and debris-strewn ground."
 geo:
   address: ''
   lat: 30.337324394179

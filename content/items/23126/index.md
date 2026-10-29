@@ -21,6 +21,8 @@ files:
     original_filename: 09110003delaware.JPG
     thumb: /files/thumbnails/14fb29f17514d614fb29f17518b4.jpg
     url: /files/original/14fb29f17514d614fb29f17518b4.jpg
+    alt:
+      en: "A large military cargo plane with rear loading ramp open sits on an airport tarmac, with a dark pickup truck parked nearby and several people standing near the aircraft's tail, trees lining the background."
 geo:
 id: 23126
 item_type: Still Image

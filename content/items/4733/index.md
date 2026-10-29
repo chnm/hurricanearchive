@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0080.JPG
     thumb: /files/thumbnails/14fb2a55da581c14fb2a55da5bd4.jpg
     url: /files/original/14fb2a55da581c14fb2a55da5bd4.jpg
+    alt:
+      en: "A yellow tape measure, marked \"Kanshi USA,\" extended upright against a weathered wooden beam with a rusted bolt, amid debris including broken concrete and a bent nail."
 geo:
 id: 4733
 item_type: Still Image

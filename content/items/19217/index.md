@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2162conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11c5f73514fb2a11c5fb12.jpg
     url: /files/original/14fb2a11c5f73514fb2a11c5fb12.jpg
+    alt:
+      en: "Military Humvees with mounted machine guns parked on a city street, with numerous armed soldiers gathered on a grassy median nearby; a \"No Left Turn\" sign and traffic light are visible overhead."
 geo:
 id: 19217
 item_type: Still Image

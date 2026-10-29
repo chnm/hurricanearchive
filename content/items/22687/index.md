@@ -21,6 +21,8 @@ files:
     original_filename: PICT0245Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c1603714fb29f4c16414.jpg
     url: /files/original/14fb29f4c1603714fb29f4c16414.jpg
+    alt:
+      en: "Porch of a white clapboard house with the number \"28\" on a column and a hanging sign reading \"LTC Alumni\" above a shrub; timestamp \"09.15.2005\" in the corner."
 geo:
 id: 22687
 item_type: Still Image

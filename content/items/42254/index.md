@@ -23,6 +23,8 @@ files:
     original_filename: farrar3_6a482fb768.JPG
     thumb: /files/thumbnails/14fb29c2a1303814fb29c2a17c6d.jpg
     url: /files/original/14fb29c2a1303814fb29c2a17c6d.jpg
+    alt:
+      en: "A weathered stop sign stands amid storm debris and dead grass, with rough, churning floodwaters rising behind it near the shoreline."
 geo:
   address: ''
   lat: 0.0

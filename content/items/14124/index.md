@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0055.JPG
     thumb: /files/thumbnails/14fb2a1bab64ba14fb2a1bab689e.jpg
     url: /files/original/14fb2a1bab64ba14fb2a1bab689e.jpg
+    alt:
+      en: "Military personnel load gear into a camouflage pickup truck parked along a rural roadside, with a convoy of military trucks and trailers lined up behind them near a tree-lined road."
 geo:
   address: ''
   lat: 0.0

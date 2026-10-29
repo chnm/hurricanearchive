@@ -21,6 +21,8 @@ files:
     original_filename: 09240010rita.JPG
     thumb: /files/thumbnails/14fb2a0ed0f89414fb2a0ed0fc78.jpg
     url: /files/original/14fb2a0ed0f89414fb2a0ed0fc78.jpg
+    alt:
+      en: "Courtyard view of a tan institutional building with arched windows and columned walkway, surrounded by green lawn, mature trees, and a curving concrete path, under an overcast sky."
 geo:
 id: 19609
 item_type: Still Image

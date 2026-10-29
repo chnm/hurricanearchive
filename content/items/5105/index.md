@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0450.JPG
     thumb: /files/thumbnails/14fb2a53e345e914fb2a53e349da.jpg
     url: /files/original/14fb2a53e345e914fb2a53e349da.jpg
+    alt:
+      en: "A measuring tape lies diagonally across a surface divided between weathered concrete on the left and sand with footprints and shoe impressions on the right."
 geo:
 id: 5105
 item_type: Still Image

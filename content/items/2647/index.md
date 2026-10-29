@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9201.jpg
     thumb: /files/thumbnails/14fb2a636a7e7914fb2a636a8557.jpg
     url: /files/original/14fb2a636a7e7914fb2a636a8557.jpg
+    alt:
+      en: "Flooded, debris-strewn shoreline at Holly Beach, Louisiana, with scattered wreckage, a submerged car, and bare, storm-damaged trees under a clear sky."
 geo:
 id: 2647
 item_type: Still Image

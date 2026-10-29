@@ -26,6 +26,8 @@ files:
     original_filename: katrina_evacuees_b446d3ba5f.jpg
     thumb: /files/thumbnails/14fb2a712b473c14fb2a712b4b93.jpg
     url: /files/original/14fb2a712b473c14fb2a712b4b93.jpg
+    alt:
+      en: "A crowd of evacuees, including children, stands with luggage near the open cargo door of a large airplane on the tarmac after arriving in Charlotte following Hurricane Katrina."
 geo:
   address: ''
   lat: 29.948283

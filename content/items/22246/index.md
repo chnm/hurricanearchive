@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1053Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8a6bb1214fb29f8a6ce7f.jpg
     url: /files/original/14fb29f8a6bb1214fb29f8a6ce7f.jpg
+    alt:
+      en: "A U.S. Army Black Hawk helicopter sits on a landing pad with soldiers nearby, one carrying a duffel bag, while a parked sedan sits in the foreground under trees."
 geo:
 id: 22246
 item_type: Still Image

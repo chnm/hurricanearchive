@@ -24,6 +24,8 @@ files:
     original_filename: bradishplace_flyer_7dad27f517.jpg
     thumb: /files/thumbnails/14fb29d2a7b08814fb29d2a7b46e.jpg
     url: /files/original/14fb29d2a7b08814fb29d2a7b46e.jpg
+    alt:
+      en: "Black-and-white flyer with a house illustration and bicycle silhouettes, announcing \"Neighborhoods: 2426 Bradish Pl.\" in Tulane/Gravier, Saturday, May 19th, 6-9 PM, listing participating artists."
 geo:
   address: 2426 Bradish Place
   lat: 29.95962

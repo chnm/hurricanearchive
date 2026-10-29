@@ -27,6 +27,8 @@ files:
     original_filename: 2291200817_608defb964.
     thumb: /files/thumbnails/14fb29c990412714fb29c990450c.jpg
     url: /files/original/14fb29c990412714fb29c990450c.jpg
+    alt:
+      en: "A storm-damaged blue house raised on pilings, with broken tree trunks, scattered wood debris, and household wreckage covering the ground beneath and around it."
 geo:
   address: ''
   lat: 30.22539

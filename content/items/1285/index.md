@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28536.jpg
     thumb: /files/thumbnails/14fb2a69d6ca5314fb2a69d6ce3c.jpg
     url: /files/original/14fb2a69d6ca5314fb2a69d6ce3c.jpg
+    alt:
+      en: "Group of uniformed responders resting in chairs beneath a covered sidewalk in downtown New Orleans, beside a signpost reading \"Home of the Water Wizards Task Force 1\" with directional mileage signs to various cities."
 geo:
   address: ''
   lat: 0.0

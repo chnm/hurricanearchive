@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28021.jpg
     thumb: /files/thumbnails/14fb2a68d9349c14fb2a68d93881.jpg
     url: /files/original/14fb2a68d9349c14fb2a68d93881.jpg
+    alt:
+      en: "Gravel levee road along the 17th Street Canal, with debris and damaged trees on the left, a survey tripod on the path, and a distant skyline beyond the water."
 geo:
   address: ''
   lat: 0.0

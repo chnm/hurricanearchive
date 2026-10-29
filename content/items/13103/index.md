@@ -21,6 +21,8 @@ files:
     original_filename: end look north2.jpg
     thumb: /files/thumbnails/14fb2a206188a314fb2a20618c88.jpg
     url: /files/original/14fb2a206188a314fb2a20618c88.jpg
+    alt:
+      en: "Damaged buildings with torn roofing and debris surround a parking area with \"RESERVED\" signage, overlooked by a \"Gulfport\" water tower under overcast skies."
 geo:
 id: 13103
 item_type: Still Image

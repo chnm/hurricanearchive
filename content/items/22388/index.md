@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1216Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6d961c414fb29f6d965aa.jpg
     url: /files/original/14fb29f6d961c414fb29f6d965aa.jpg
+    alt:
+      en: "Men in a flooded building prepare small boats and life rings, using flashlights to see as dark water fills the ground floor around them."
 geo:
 id: 22388
 item_type: Still Image

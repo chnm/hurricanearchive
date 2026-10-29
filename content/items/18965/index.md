@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2127rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13f49cc214fb2a13f4a09e.jpg
     url: /files/original/14fb2a13f49cc214fb2a13f4a09e.jpg
+    alt:
+      en: "Aerial view of flooded buildings with a military medical helicopter hovering beside a rooftop where a man stands near the word \"HELP\" painted in large letters."
 geo:
 id: 18965
 item_type: Still Image

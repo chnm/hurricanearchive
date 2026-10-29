@@ -21,6 +21,8 @@ files:
     original_filename: 100_0242.JPG
     thumb: /files/thumbnails/14fb2a5f24e09714fb2a5f24e47d.jpg
     url: /files/original/14fb2a5f24e09714fb2a5f24e47d.jpg
+    alt:
+      en: "Interior of a submarine or ship compartment with a brass periscope housing and twin folding handles, surrounded by gray control panels, gauges, cables, and red and amber indicator lights."
 geo:
 id: 2993
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1199Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6ed8ad014fb29f6ed8eb5.jpg
     url: /files/original/14fb29f6ed8ad014fb29f6ed8eb5.jpg
+    alt:
+      en: "Two men wearing camouflage uniforms and orange life vests wade through dark floodwater at night, one holding a cardboard box labeled \"V2\" above the surface."
 geo:
 id: 22377
 item_type: Still Image

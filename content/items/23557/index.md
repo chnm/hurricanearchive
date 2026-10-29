@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0179abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eef9f1a714fb29eefa3f36.jpg
     url: /files/original/14fb29eef9f1a714fb29eefa3f36.jpg
+    alt:
+      en: "Interior of a flood-damaged home with a thick layer of mud covering the floor, as three men survey the wreckage amid displaced furniture, appliances, and household items."
 geo:
 id: 23557
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 068.jpg
     thumb: /files/thumbnails/14fb2a22a5460714fb2a22a549ef.jpg
     url: /files/original/14fb2a22a5460714fb2a22a549ef.jpg
+    alt:
+      en: "Chain-link fence with a backward stop sign in foreground, overlooking a row of ornate pastel-colored buildings and an orange dumpster in a parking lot; timestamp reads 2005/09/24."
 geo:
 id: 11946
 item_type: Still Image

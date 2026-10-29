@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28022.jpg
     thumb: /files/thumbnails/14fb2a66e9a93a14fb2a66e9ad28.jpg
     url: /files/original/14fb2a66e9a93a14fb2a66e9ad28.jpg
+    alt:
+      en: "Gravel-covered lot in foreground with damaged houses in background, one with its roof and wall torn open, debris piled near the structures under a clear sky."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-21-20A.jpg
     thumb: /files/thumbnails/14fb29e86401ab14fb29e8640579.jpg
     url: /files/original/14fb29e86401ab14fb29e8640579.jpg
+    alt:
+      en: "An open exterior doorway beneath a red \"EXIT\" sign reveals extensive floodwater submerging the area outside, with debris, trees, and power lines visible above the waterline."
 geo:
 id: 24373
 item_type: Still Image

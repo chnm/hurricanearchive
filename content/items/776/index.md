@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28033.jpg
     thumb: /files/thumbnails/14fb2a6d18122b14fb2a6d186cdb.jpg
     url: /files/original/14fb2a6d18122b14fb2a6d186cdb.jpg
+    alt:
+      en: "Debris-strewn empty lot with scattered rubble, a white bucket, and a painting of a house lying face-up on the ground; damaged homes and tangled branches visible in the background."
 geo:
   address: ''
   lat: 0.0

@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28497.jpg
     thumb: /files/thumbnails/14fb2a6960a01914fb2a6960a3fc.jpg
     url: /files/original/14fb2a6960a01914fb2a6960a3fc.jpg
+    alt:
+      en: "A damaged window with a torn lace valance and dusty mini-blinds, surrounded by mud-streaked walls, with broken glass panes revealing debris outside."
 geo:
   address: ''
   lat: 0.0

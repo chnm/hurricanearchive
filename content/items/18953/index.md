@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1903rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a14094a4d14fb2a14094edf.jpg
     url: /files/original/14fb2a14094a4d14fb2a14094edf.jpg
+    alt:
+      en: "Military Black Hawk helicopter parked on tarmac with crew members seated in the open side door, bare trees and other vehicles visible in the background."
 geo:
 id: 18953
 item_type: Still Image

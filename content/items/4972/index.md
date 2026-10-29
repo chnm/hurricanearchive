@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0317.JPG
     thumb: /files/thumbnails/14fb2a54ace45914fb2a54ace842.jpg
     url: /files/original/14fb2a54ace45914fb2a54ace842.jpg
+    alt:
+      en: "Rows of newly built concrete block piers surround a storm-damaged house with exposed siding and roofing, with two white appliances and debris scattered on the dirt lot."
 geo:
 id: 4972
 item_type: Still Image

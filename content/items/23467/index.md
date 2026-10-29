@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0119abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef4acafe14fb29ef4acee3.jpg
     url: /files/original/14fb29ef4acafe14fb29ef4acee3.jpg
+    alt:
+      en: "Long line of trucks and a John Deere 420 tractor with front loader queued on a rural road beside a flooded roadside canal, with two men standing by an open truck door in the foreground."
 geo:
 id: 23467
 item_type: Still Image

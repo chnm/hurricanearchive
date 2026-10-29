@@ -21,6 +21,8 @@ files:
     original_filename: 100_0228.JPG
     thumb: /files/thumbnails/14fb2a5f36d38214fb2a5f36d755.jpg
     url: /files/original/14fb2a5f36d38214fb2a5f36d755.jpg
+    alt:
+      en: "Retired F-14 fighter jet marked \"123\" and \"VF-211\" parked on grass outside blue and white metal buildings, with a ship's structure visible in the background."
 geo:
 id: 2979
 item_type: Still Image

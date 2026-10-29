@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 012.jpg
     thumb: /files/thumbnails/14fb2a13104e8e14fb2a13105272.jpg
     url: /files/original/14fb2a13104e8e14fb2a13105272.jpg
+    alt:
+      en: "A grassy park lined with tall mature trees casting long shadows, with a swing set visible in the background on the left side."
 geo:
 id: 19102
 item_type: Still Image

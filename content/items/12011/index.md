@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi534.JPG
     thumb: /files/thumbnails/14fb2a225a857f14fb2a225a896e.jpg
     url: /files/original/14fb2a225a857f14fb2a225a896e.jpg
+    alt:
+      en: "A crowd gathers outside a brick building, several wearing white t-shirts reading \"Rebuilding the Pass with Pride,\" with a magnolia plant visible in the foreground."
 geo:
 id: 12011
 item_type: Still Image

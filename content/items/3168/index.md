@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (20).JPG
     thumb: /files/thumbnails/14fb2a5d8a29f514fb2a5d8a2d82.jpg
     url: /files/original/14fb2a5d8a29f514fb2a5d8a2d82.jpg
+    alt:
+      en: "A weathered street scene with a large pink building, bare trees, a bus stop sign, a trash can labeled \"Clean Team,\" and a bench, with debris scattered on the ground."
 geo:
 id: 3168
 item_type: Still Image

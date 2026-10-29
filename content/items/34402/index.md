@@ -23,6 +23,8 @@ files:
     original_filename: 2380907114_77fa3ed5a3.
     thumb: /files/thumbnails/14fb29ca3b6afd14fb29ca3b78a8.jpg
     url: /files/original/14fb29ca3b6afd14fb29ca3b78a8.jpg
+    alt:
+      en: "Three people stand on a wooden pier over Lake Pontchartrain, with waterfront homes lining the shore behind them under an overcast sky."
 geo:
   address: ''
   lat: 30.22437

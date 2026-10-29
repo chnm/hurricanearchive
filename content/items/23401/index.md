@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0088cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efa69b3b14fb29efa69f21.jpg
     url: /files/original/14fb29efa69b3b14fb29efa69f21.jpg
+    alt:
+      en: "Aerial view of extensive flooding covering fields and roads, with a narrow strip of visible pavement running through the water, scattered trees, and a small vehicle on the submerged road."
 geo:
 id: 23401
 item_type: Still Image

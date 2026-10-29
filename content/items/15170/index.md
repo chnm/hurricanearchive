@@ -21,6 +21,8 @@ files:
     original_filename: GBuckley-6192_939d4b03f0.jpg
     thumb: /files/thumbnails/14fb2a16c5c1b514fb2a16c5c59b.jpg
     url: /files/original/14fb2a16c5c1b514fb2a16c5c59b.jpg
+    alt:
+      en: "Black-and-white photo of a woman in a dark dress with scalloped white trim standing on a gravel yard in front of a white wood-sided house with a gabled roof and porch."
 geo:
 id: 15170
 item_type: Still Image

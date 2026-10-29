@@ -21,6 +21,8 @@ files:
     original_filename: 100_0134.JPG
     thumb: /files/thumbnails/14fb2a5946b4ba14fb2a5946b896.jpg
     url: /files/original/14fb2a5946b4ba14fb2a5946b896.jpg
+    alt:
+      en: "Wide expanse of calm water with marsh grass in the foreground, leading to a distant shoreline with scattered buildings and bare trees under a hazy sky."
 geo:
 id: 3842
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034grandisle.JPG
     thumb: /files/thumbnails/14fb2a153344e414fb2a153348c1.jpg
     url: /files/original/14fb2a153344e414fb2a153348c1.jpg
+    alt:
+      en: "Aerial view of a coastal community with storm-damaged homes on stilts, debris-strewn lots, a marina with empty pilings, and a bridge crossing the water toward the Gulf."
 geo:
 id: 18804
 item_type: Still Image

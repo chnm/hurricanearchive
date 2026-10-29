@@ -24,6 +24,8 @@ files:
     original_filename: EV 6 family tree_f97bf3ec59.jpg
     thumb: /files/thumbnails/14fb29d8bddc8714fb29d8bebcec.jpg
     url: /files/original/14fb29d8bddc8714fb29d8bebcec.jpg
+    alt:
+      en: "Handwritten genealogy notecard dated 06/04/98 listing the Oddo family's 1876 immigration record from Sicily to New Orleans aboard the S.S. Emma, with names, ages, and occupations."
 geo:
   address: ''
   lat: 29.87876

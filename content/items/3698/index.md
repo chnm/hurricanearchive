@@ -24,6 +24,8 @@ files:
     original_filename: P1010141.JPG
     thumb: /files/thumbnails/14fb2a5a16d88f14fb2a5a16dc73.jpg
     url: /files/original/14fb2a5a16d88f14fb2a5a16dc73.jpg
+    alt:
+      en: "Severely storm-damaged blue house with its roof collapsed and detached, exposing bent framing, sandwiched between a white house and another blue structure behind a chain-link fence."
 geo:
 id: 3698
 item_type: Still Image

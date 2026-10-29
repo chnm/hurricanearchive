@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0022.JPG
     thumb: /files/thumbnails/14fb2a56db621614fb2a56db65fb.jpg
     url: /files/original/14fb2a56db621614fb2a56db65fb.jpg
+    alt:
+      en: "Sandy, debris-strewn stretch of cleared land with sparse grass tufts, bordered by a low concrete wall, heavy trucks, and a line of storm-damaged trees under a heavily overcast sky."
 geo:
 id: 4596
 item_type: Still Image

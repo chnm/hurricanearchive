@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1348Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5c90eb314fb29f5c91298.jpg
     url: /files/original/14fb29f5c90eb314fb29f5c91298.jpg
+    alt:
+      en: "Floodwaters submerge a brick building marked \"FMS #13\" and surrounding trees under a stormy gray sky, with debris floating in the murky water."
 geo:
 id: 22507
 item_type: Still Image

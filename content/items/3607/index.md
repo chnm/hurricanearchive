@@ -24,6 +24,8 @@ files:
     original_filename: P1010038.JPG
     thumb: /files/thumbnails/14fb2a5aa3e43a14fb2a5aa3e821.jpg
     url: /files/original/14fb2a5aa3e43a14fb2a5aa3e821.jpg
+    alt:
+      en: "A school gymnasium with retractable bleachers filled with stacked cardboard boxes, filing cabinets, metal shelving, office chairs, and a sign reading \"BACK,\" suggesting storage of relocated school supplies."
 geo:
 id: 3607
 item_type: Still Image

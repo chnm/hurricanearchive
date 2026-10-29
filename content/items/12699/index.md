@@ -20,6 +20,8 @@ files:
     original_filename: 102-17_df158a534e.jpg
     thumb: /files/thumbnails/14fb2a21b2071314fb2a21b20f5b.jpg
     url: /files/original/14fb2a21b2071314fb2a21b20f5b.jpg
+    alt:
+      en: "Two men stand together outdoors on a residential street, one in a brown leather jacket and white cap, the other in a light-colored jacket, with houses and parked cars in the background."
 geo:
 id: 12699
 item_type: Still Image

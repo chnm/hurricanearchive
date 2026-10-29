@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 075.jpg
     thumb: /files/thumbnails/14fb2a229b98a314fb2a229b9e34.jpg
     url: /files/original/14fb2a229b98a314fb2a229b9e34.jpg
+    alt:
+      en: "Debris of broken concrete blocks and bricks piled at a roadside amid overgrown weeds, with an empty two-lane road and tree line in the background; timestamp \"2005/09/24\" visible."
 geo:
 id: 11953
 item_type: Still Image

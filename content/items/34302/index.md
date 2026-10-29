@@ -20,6 +20,8 @@ files:
     original_filename: photo_demolition-press-conference_fa4edd5bca.jpg
     thumb: /files/thumbnails/14fb29ca56363814fb29ca563d0a.jpg
     url: /files/original/14fb29ca56363814fb29ca563d0a.jpg
+    alt:
+      en: "A crowd of protesters stands outdoors holding signs, including one reading \"STOP\" in red letters, amid a demonstration related to the New Orleans housing crisis."
 geo:
 id: 34302
 item_type: Still Image

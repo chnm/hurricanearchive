@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 144cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dfda32414fb2a0dfda706.jpg
     url: /files/original/14fb2a0dfda32414fb2a0dfda706.jpg
+    alt:
+      en: "A man in camouflage pants and a tan shirt stands on a sidewalk with a gray parrot perched on his cap, near a storm-damaged building with downed branches and debris scattered around."
 geo:
 id: 19757
 item_type: Still Image

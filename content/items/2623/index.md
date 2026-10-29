@@ -24,6 +24,8 @@ files:
     original_filename: 20060301_MG_0487.jpg
     thumb: /files/thumbnails/14fb2a6406491314fb2a64064d43.jpg
     url: /files/original/14fb2a6406491314fb2a64064d43.jpg
+    alt:
+      en: "Four costumed paraders pose with a sign reading \"ROW Vs. WADE,\" wearing life vests over sequined boat-shaped costumes beside a red canoe and an inflatable raft labeled \"Explorer.\""
 geo:
 id: 2623
 item_type: Still Image

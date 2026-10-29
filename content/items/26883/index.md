@@ -21,6 +21,8 @@ files:
     original_filename: 98faces2_294bd4bb44.jpg
     thumb: /files/thumbnails/14fb29d6b3c53d14fb29d6b3ca5a.jpg
     url: /files/original/14fb29d6b3c53d14fb29d6b3ca5a.jpg
+    alt:
+      en: "Yearbook page with sixteen senior portraits of young men and women against blue backdrops, each captioned with a name, including Charles Seibert IV, Krista Showalter, Brad Smith, and Angela Teague."
 geo:
 id: 26883
 item_type: Still Image

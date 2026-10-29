@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1827superdome.JPG
     thumb: /files/thumbnails/14fb29e10f031914fb29e10f1246.jpg
     url: /files/original/14fb29e10f031914fb29e10f1246.jpg
+    alt:
+      en: "Aerial view of a large domed stadium complex surrounded by extensive floodwater, with submerged parking lots, fencing, railroad tracks, and nearby buildings partially inundated."
 geo:
 id: 25201
 item_type: Still Image

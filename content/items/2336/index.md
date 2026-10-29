@@ -26,6 +26,8 @@ files:
     original_filename: 100_1268_309ad70860.JPG
     thumb: /files/thumbnails/14fb2a6d4a7c4214fb2a6d4a8402.jpg
     url: /files/original/14fb2a6d4a7c4214fb2a6d4a8402.jpg
+    alt:
+      en: "A storm-damaged McDonald's sign with its golden arches bent and twisted atop the pole, a \"NOW OPEN 24 HRS\" message board below, and an American flag and red rooftop nearby under a clear blue sky."
 geo:
   address: ''
   lat: 30.444825956002695

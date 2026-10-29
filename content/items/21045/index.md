@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052.JPG
     thumb: /files/thumbnails/14fb2a00f2ec5f14fb2a00f2f42c.jpg
     url: /files/original/14fb2a00f2ec5f14fb2a00f2f42c.jpg
+    alt:
+      en: "Close-up of a man wearing a dark aviator helmet with tinted visor, boom microphone, and attached camera mount, dressed in a green flight suit with a patch, set against a grassy outdoor background."
 geo:
 id: 21045
 item_type: Still Image

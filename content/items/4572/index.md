@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0774.JPG
     thumb: /files/thumbnails/14fb2a56f91e1b14fb2a56f92201.jpg
     url: /files/original/14fb2a56f91e1b14fb2a56f92201.jpg
+    alt:
+      en: "Dense tree line along a dirt roadside, with scattered debris—including a tipped-over cabinet or dresser and scrap wood—piled at the edge of the woods."
 geo:
 id: 4572
 item_type: Still Image

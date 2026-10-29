@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0298westend.JPG
     thumb: /files/thumbnails/14fb2a1416e08f14fb2a1416e4af.jpg
     url: /files/original/14fb2a1416e08f14fb2a1416e4af.jpg
+    alt:
+      en: "Aerial view of a marina devastated by hurricane winds, with dozens of sailboats and motorboats tossed ashore and piled against docks, while an intact marina with boats still moored sits nearby."
 geo:
 id: 18941
 item_type: Still Image

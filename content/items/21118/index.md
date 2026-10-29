@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0179.JPG
     thumb: /files/thumbnails/14fb2a007f25bb14fb2a007f2b67.jpg
     url: /files/original/14fb2a007f25bb14fb2a007f2b67.jpg
+    alt:
+      en: "Aerial view of a river with a vertical-lift truss bridge and adjacent railroad trestle, a small tugboat and barge below, surrounded by a low-lying residential neighborhood and hazy skyline."
 geo:
 id: 21118
 item_type: Still Image

@@ -18,6 +18,8 @@ files:
     original_filename: 16_a1a0939c9b.jpg
     thumb: /files/thumbnails/14fb29c71cd17b14fb29c71cd55f.jpg
     url: /files/original/14fb29c71cd17b14fb29c71cd55f.jpg
+    alt:
+      en: "Five people pose in front of a vintage silver trailer, a man in a \"TONY\" tank top holding a rifle alongside four women wearing \"TONY'S MATE\" shirts, some making hand gestures."
 geo:
   address: new orleans, la
   lat: 29.95324

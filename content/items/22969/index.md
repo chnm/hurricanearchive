@@ -21,6 +21,8 @@ files:
     original_filename: Karr over New Orleanskarrmedia.jpg
     thumb: /files/thumbnails/14fb29f260df6714fb29f260e34d.jpg
     url: /files/original/14fb29f260df6714fb29f260e34d.jpg
+    alt:
+      en: "A man in a military flight suit leans toward an open aircraft door, holding a small digital camera, with a rooftop-dotted cityscape visible far below."
 geo:
 id: 22969
 item_type: Still Image

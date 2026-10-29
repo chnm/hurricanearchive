@@ -26,6 +26,8 @@ files:
     original_filename: midcityNola_d706d5ba51.jpeg
     thumb: /files/thumbnails/14fb2a7087a8ad14fb2a7087ae21.jpg
     url: /files/original/14fb2a7087a8ad14fb2a7087ae21.jpg
+    alt:
+      en: "Flooded city street with a white \"ColorTyme Rent-to-Own\" truck and submerged cars, traffic lights partially underwater, and storefronts in the background during heavy rain."
 geo:
   address: ''
   lat: 0.0

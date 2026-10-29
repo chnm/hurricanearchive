@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1737superdome.JPG
     thumb: /files/thumbnails/14fb29e207b1c214fb29e207b5e8.jpg
     url: /files/original/14fb29e207b1c214fb29e207b5e8.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues carry cardboard boxes labeled \"Meal, Ready-to-Eat, Individual\" across a wet parking lot, while other people walk through the background area."
 geo:
 id: 25130
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0349.JPG
     thumb: /files/thumbnails/14fb2a5471d87914fb2a5471dc67.jpg
     url: /files/original/14fb2a5471d87914fb2a5471dc67.jpg
+    alt:
+      en: "A section of concrete slab with an eroded, undermined edge revealing a gap beneath it, surrounded by patchy grass and dirt, with a small wooden stake nearby."
 geo:
 id: 5004
 item_type: Still Image

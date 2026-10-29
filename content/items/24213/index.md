@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29e9a7396614fb29e9a73d45.jpg
     url: /files/original/14fb29e9a7396614fb29e9a73d45.jpg
+    alt:
+      en: "Collapsed metal canopy structure lies across a parking lot near a gas station, with debris scattered on the pavement and a red car parked beside a brick building in the background."
 geo:
 id: 24213
 item_type: Still Image

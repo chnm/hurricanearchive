@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063H.JPG
     thumb: /files/thumbnails/14fb2a04a7081b14fb2a04a72cd4.jpg
     url: /files/original/14fb2a04a7081b14fb2a04a72cd4.jpg
+    alt:
+      en: "A man in a gray T-shirt with a sunglasses strap gestures while playing foosball at night, as a woman in a Hooters \"Siegen Lane, Baton Rouge\" uniform looks on."
 geo:
 id: 20716
 item_type: Still Image

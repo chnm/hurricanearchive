@@ -24,6 +24,8 @@ files:
     original_filename: JB 4 New Orleans Home 1951_e804e9f324.2.jpg
     thumb: /files/thumbnails/14fb29d820fd5b14fb29d821013f.jpg
     url: /files/original/14fb29d820fd5b14fb29d821013f.jpg
+    alt:
+      en: "Black-and-white photo of Mary and Betty Bernard outside their home in New Orleans, one seated on a brick step and one standing, with the house number \"2015\" visible on the porch column."
 geo:
   address: ''
   lat: 29.87876

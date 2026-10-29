@@ -27,6 +27,8 @@ files:
     original_filename: ben dress closeup_ac7187b7bc.JPG
     thumb: /files/thumbnails/14fb29d268a70d14fb29d268aaf2.jpg
     url: /files/original/14fb29d268a70d14fb29d268aaf2.jpg
+    alt:
+      en: "A man in a striped shirt plays clarinet beside a large plastic dress artwork printed with satellite-style waterway maps and a street grid, inside a gutted room with wooden furniture and a window."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

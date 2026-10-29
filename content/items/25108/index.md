@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1695superdome.JPG
     thumb: /files/thumbnails/14fb29e243391e14fb29e2433d05.jpg
     url: /files/original/14fb29e243391e14fb29e2433d05.jpg
+    alt:
+      en: "Two soldiers in woodland camouflage uniforms stand close together, one reading from a small notebook; the nearer soldier wears an \"MP\" armband and a flashlight clipped to his vest, with military vehicles visible in the background."
 geo:
 id: 25108
 item_type: Still Image

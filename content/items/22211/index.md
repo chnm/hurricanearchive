@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1018Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f9191c7f14fb29f9192064.jpg
     url: /files/original/14fb29f9191c7f14fb29f9192064.jpg
+    alt:
+      en: "Military helicopter parked on a grassy lawn with a soldier visible inside, rotor blades extending overhead, and a brick building with a tiled roof in the background."
 geo:
 id: 22211
 item_type: Still Image

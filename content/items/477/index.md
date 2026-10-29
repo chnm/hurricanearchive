@@ -26,6 +26,8 @@ files:
     original_filename: Mississippi_Etc_042_12f2662c43.jpg
     thumb: /files/thumbnails/14fb2a6fc1b4cf14fb2a6fc1c247.jpg
     url: /files/original/14fb2a6fc1b4cf14fb2a6fc1c247.jpg
+    alt:
+      en: "A plastic angel decoration, bound with yellow ribbon, stands amid storm debris and tree branches beside a wrecked white car, with damaged houses visible in the background."
 geo:
   address: ''
   lat: 29.938343

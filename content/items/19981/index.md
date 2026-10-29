@@ -21,6 +21,8 @@ files:
     original_filename: Picture 078cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bd6ac2014fb2a0bd6affa.jpg
     url: /files/original/14fb2a0bd6ac2014fb2a0bd6affa.jpg
+    alt:
+      en: "Highway overpass with scattered debris and trash along the shoulder, a military-style truck in the right lane, and distant traffic on a parallel roadway under a clear blue sky."
 geo:
 id: 19981
 item_type: Still Image

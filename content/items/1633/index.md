@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28687.jpg
     thumb: /files/thumbnails/14fb2a675554c514fb2a675558aa.jpg
     url: /files/original/14fb2a675554c514fb2a675558aa.jpg
+    alt:
+      en: "Rows of metal livestock stalls numbered 108 and 109 house horses, each pen fitted with a box fan and a tag card, inside a covered barn with a corrugated metal roof."
 geo:
   address: ''
   lat: 0.0

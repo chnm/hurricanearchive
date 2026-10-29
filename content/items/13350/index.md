@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4832_c096c3e05c.jpg
     thumb: /files/thumbnails/14fb2a1e41344c14fb2a1e4137f6.jpg
     url: /files/original/14fb2a1e41344c14fb2a1e4137f6.jpg
+    alt:
+      en: "A young boy in a white shirt and camouflage pants stands in front of a decorated Christmas tree, surrounded by wrapped presents in a living room with patterned armchairs."
 geo:
 id: 13350
 item_type: Still Image

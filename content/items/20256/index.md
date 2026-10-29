@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 527(sepr12)Picture3.png
     thumb: /files/thumbnails/14fb2a0a65167a14fb2a0a65d5fe.jpg
     url: /files/original/14fb2a0a65167a14fb2a0a65d5fe.jpg
+    alt:
+      en: "A man wearing gloves lifts a large tree branch amid storm debris, with damaged buildings and a cleared lot visible in the background."
 geo:
 id: 20256
 item_type: Still Image

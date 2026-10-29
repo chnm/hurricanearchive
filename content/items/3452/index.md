@@ -24,6 +24,8 @@ files:
     original_filename: P1010020.JPG
     thumb: /files/thumbnails/14fb2a5ba9269714fb2a5ba92a42.jpg
     url: /files/original/14fb2a5ba9269714fb2a5ba92a42.jpg
+    alt:
+      en: "A weathered wooden sign mounted on a brick wall reads \"Mr. Ed's Seafood & Italian Restaurant\" in raised gold lettering against a textured brown background."
 geo:
 id: 3452
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 2_4f45d14d1e.jpg
     thumb: /files/thumbnails/14fb29c62c2ae414fb29c62c3052.jpg
     url: /files/original/14fb29c62c2ae414fb29c62c3052.jpg
+    alt:
+      en: "Cluttered bar interior with a large \"CANDY\" sign, framed celebrity photos, colorful portrait paintings, antique lamps, candlesticks, and assorted decor atop a wooden cabinet."
 geo:
   address: 3067 Saint Claude Ave, New Orleans, LA
   lat: 29.96784

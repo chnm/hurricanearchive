@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1333Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5ed2ee514fb29f5ed32c5.jpg
     url: /files/original/14fb29f5ed2ee514fb29f5ed32c5.jpg
+    alt:
+      en: "Floodwaters nearly submerge a house up to its roofline, with power lines and poles leaning over the water and wind-blown trees surrounding the scene under an overcast sky."
 geo:
 id: 22492
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p1_03_50432b1409.jpg
     thumb: /files/thumbnails/14fb2a1782ed8014fb2a1782f25e.jpg
     url: /files/original/14fb2a1782ed8014fb2a1782f25e.jpg
+    alt:
+      en: "A young girl in a red floral dress embraces a toddler in a teal romper on a patio, with a doll, bucket, and small bag scattered nearby, in front of a brick and dark-windowed house."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

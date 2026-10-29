@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (4).JPG
     thumb: /files/thumbnails/14fb2a5d6610c014fb2a5d6614a9.jpg
     url: /files/original/14fb2a5d6610c014fb2a5d6614a9.jpg
+    alt:
+      en: "A white box truck and an enclosed trailer parked in front of a two-story house with an arched entryway, green steps, and overgrown debris scattered across the yard."
 geo:
 id: 3189
 item_type: Still Image

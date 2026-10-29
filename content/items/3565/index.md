@@ -24,6 +24,8 @@ files:
     original_filename: P1010141.JPG
     thumb: /files/thumbnails/14fb2a5ac9297914fb2a5ac931b7.jpg
     url: /files/original/14fb2a5ac9297914fb2a5ac931b7.jpg
+    alt:
+      en: "A two-story house stripped down to its exposed wooden stud framing, with intact windows and a roof still in place, situated on a concrete driveway with a bucket of cleaning supplies nearby."
 geo:
 id: 3565
 item_type: Still Image

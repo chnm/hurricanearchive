@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1298Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f65f1ab514fb29f65f1e8f.jpg
     url: /files/original/14fb29f65f1ab514fb29f65f1e8f.jpg
+    alt:
+      en: "Floodwaters surround a building with a damaged, partially torn-off roof and exposed plywood, its gable sign reading \"Post Support Center / Security - Billeting - Information,\" with wind-blown trees in the background."
 geo:
 id: 22457
 item_type: Still Image

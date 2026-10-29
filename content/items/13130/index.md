@@ -21,6 +21,8 @@ files:
     original_filename: lookingnorth wind2.jpg
     thumb: /files/thumbnails/14fb2a2038e2ad14fb2a2038e6a2.jpg
     url: /files/original/14fb2a2038e2ad14fb2a2038e6a2.jpg
+    alt:
+      en: "Fog-shrouded parking deck with painted lane lines, a cable railing marked \"RESERVED\" and \"410,\" and overhead light fixtures barely visible through thick mist."
 geo:
 id: 13130
 item_type: Still Image

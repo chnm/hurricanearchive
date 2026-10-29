@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2200superdome.JPG
     thumb: /files/thumbnails/14fb29e454e9e814fb29e454edcc.jpg
     url: /files/original/14fb29e454e9e814fb29e454edcc.jpg
+    alt:
+      en: "Group of soldiers in camouflage pants and tan t-shirts, wearing backpacks and tactical gear, standing near a Greyhound bus at night; one holds a flashlight while wearing a latex glove."
 geo:
 id: 24860
 item_type: Still Image

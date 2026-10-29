@@ -21,6 +21,8 @@ files:
     original_filename: 100_0298.JPG
     thumb: /files/thumbnails/14fb2a5e53c0d614fb2a5e53c4bb.jpg
     url: /files/original/14fb2a5e53c0d614fb2a5e53c4bb.jpg
+    alt:
+      en: "Two broken, barnacle-encrusted wooden piling fragments float partially submerged in murky green water, with several cables and hoses stretched across the frame above."
 geo:
 id: 3049
 item_type: Still Image

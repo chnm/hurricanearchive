@@ -21,6 +21,8 @@ files:
     original_filename: NO 010majortodd.jpg
     thumb: /files/thumbnails/14fb29f2e8b70114fb29f2e8bae6.jpg
     url: /files/original/14fb29f2e8b70114fb29f2e8bae6.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with rooftops, treetops, and power lines emerging from widespread floodwater covering streets and yards."
 geo:
 id: 22888
 item_type: Still Image

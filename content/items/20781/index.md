@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0077-9-25.JPG
     thumb: /files/thumbnails/14fb2a03ce167e14fb2a03ce1a65.jpg
     url: /files/original/14fb2a03ce167e14fb2a03ce1a65.jpg
+    alt:
+      en: "Aerial view of extensive floodwater covering a residential and commercial area, with a damaged metal-roofed building partially submerged, scattered debris, bare trees, and a lone palm tree standing amid the water."
 geo:
 id: 20781
 item_type: Still Image

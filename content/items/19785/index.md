@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 172cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd24f4514fb2a0dd25332.jpg
     url: /files/original/14fb2a0dd24f4514fb2a0dd25332.jpg
+    alt:
+      en: "Downtown city street scene with a large Holiday Inn hotel and a giant decorative clarinet sculpture on its facade, surrounded by office towers, parked cars, and two men talking near the curb."
 geo:
 id: 19785
 item_type: Still Image

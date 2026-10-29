@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0234-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff44a20714fb29ff44a5ed.jpg
     url: /files/original/14fb29ff44a20714fb29ff44a5ed.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with collapsed roofs, scattered debris, displaced vehicles, and damaged homes lining empty streets after a hurricane."
 geo:
 id: 21350
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 107.jpg
     thumb: /files/thumbnails/14fb2a11eed00714fb2a11ef032a.jpg
     url: /files/original/14fb2a11eed00714fb2a11ef032a.jpg
+    alt:
+      en: "Military truck with crane and uniformed personnel stand beside an overturned boat on a debris-strewn roadside, with damaged storefronts, a \"Self Storage\" sign, and downed power lines in the background."
 geo:
 id: 19197
 item_type: Still Image

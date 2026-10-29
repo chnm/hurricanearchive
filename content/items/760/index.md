@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28259.jpg
     thumb: /files/thumbnails/14fb2a6d364f1414fb2a6d3652fb.jpg
     url: /files/original/14fb2a6d364f1414fb2a6d3652fb.jpg
+    alt:
+      en: "Large guitar-shaped structure reading \"Hard Rock Casino\" stands beside a white building labeled \"Hard Rock Cafe,\" with a tall purple-and-gold tower and an under-construction high-rise in the background under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

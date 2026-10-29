@@ -20,6 +20,8 @@ files:
     original_filename: 10 - Warrington 5_63a261db4d.JPG
     thumb: /files/thumbnails/14fb29c4a04a6914fb29c4a04e4e.jpg
     url: /files/original/14fb29c4a04a6914fb29c4a04e4e.jpg
+    alt:
+      en: "A renovated beige house stands beside a collapsing, gutted white house marked \"5322\" and \"GAS OFF\" in orange paint, with a dark sedan parked on the street."
 geo:
   address: ''
   lat: 0.0

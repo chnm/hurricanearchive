@@ -21,6 +21,8 @@ files:
     original_filename: DSC01118.JPG
     thumb: /files/thumbnails/14fb2a5886e1c714fb2a5886e5ad.jpg
     url: /files/original/14fb2a5886e1c714fb2a5886e5ad.jpg
+    alt:
+      en: "U.S. Coast Guard personnel in orange life vests gather around a boat on a flooded street lined with submerged trees and traffic lights, launching into the floodwater."
 geo:
 id: 4013
 item_type: Still Image

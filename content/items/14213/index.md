@@ -21,6 +21,8 @@ files:
     original_filename: guardsmen in boat.JPG
     thumb: /files/thumbnails/14fb2a1a90795b14fb2a1a907de6.jpg
     url: /files/original/14fb2a1a90795b14fb2a1a907de6.jpg
+    alt:
+      en: "A small boat carrying people in orange life vests navigates a flooded residential street, with houses partially submerged and power lines sagging overhead amid overcast skies."
 geo:
   address: ''
   lat: 0.0

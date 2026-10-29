@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0065medics.JPG
     thumb: /files/thumbnails/14fb29e5c7cdee14fb29e5c7d1d3.jpg
     url: /files/original/14fb29e5c7cdee14fb29e5c7d1d3.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage fatigues and glasses prepares medical supplies at a table with vials and syringes, while other uniformed personnel are visible in the background."
 geo:
 id: 24658
 item_type: Still Image

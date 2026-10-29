@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28489.jpg
     thumb: /files/thumbnails/14fb2a680a6e8014fb2a680a7266.jpg
     url: /files/original/14fb2a680a6e8014fb2a680a7266.jpg
+    alt:
+      en: "A dark stairwell leading up to a partially open door with orange spray-painted graffiti, debris scattered on the landing and steps."
 geo:
   address: ''
   lat: 0.0

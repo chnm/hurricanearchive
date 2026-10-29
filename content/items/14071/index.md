@@ -21,6 +21,8 @@ files:
     original_filename: 20050929079.JPG
     thumb: /files/thumbnails/14fb2a1bec052614fb2a1bec090c.jpg
     url: /files/original/14fb2a1bec052614fb2a1bec090c.jpg
+    alt:
+      en: "Two people in military camouflage uniforms stand inside the cab of a yellow Caterpillar D3C XL bulldozer, with bare tree branches visible against a blue sky in the background."
 geo:
   address: ''
   lat: 0.0

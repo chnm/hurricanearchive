@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1321Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f61665d414fb29f61669b2.jpg
     url: /files/original/14fb29f61665d414fb29f61669b2.jpg
+    alt:
+      en: "Floodwaters submerge a yard, covering a tilted dark green platform or ramp near a utility pole with an \"alpha\" equipment box, with trees and a small building visible in the background."
 geo:
 id: 22480
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials14.jpg
     thumb: /files/thumbnails/14fb2a19eb4c7614fb2a19eb505d.jpg
     url: /files/original/14fb2a19eb4c7614fb2a19eb505d.jpg
+    alt:
+      en: "Aerial view of a devastated wooded area with debris scattered across cleared patches, snapped and stripped trees, and a narrow road winding through the destruction."
 geo:
 id: 14298
 item_type: Still Image

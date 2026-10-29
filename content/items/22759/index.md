@@ -21,6 +21,8 @@ files:
     original_filename: S4300115Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f42eb04414fb29f42eb426.jpg
     url: /files/original/14fb29f42eb04414fb29f42eb426.jpg
+    alt:
+      en: "A brown Ford pickup truck is crushed under a large fallen tree trunk, with its hood popped open and cab roof caved in, parked near a white house."
 geo:
 id: 22759
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0574.JPG
     thumb: /files/thumbnails/14fb2a5686f25d14fb2a5686f94f.jpg
     url: /files/original/14fb2a5686f25d14fb2a5686f94f.jpg
+    alt:
+      en: "Debris field with scattered wreckage, a damaged red vehicle, and broken structures beneath large oak trees, with a paved road in the foreground."
 geo:
 id: 4645
 item_type: Still Image

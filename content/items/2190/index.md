@@ -26,6 +26,8 @@ files:
     original_filename: b3_c419164d3e.jpg
     thumb: /files/thumbnails/14fb2a6d7b63c614fb2a6d7b67ab.jpg
     url: /files/original/14fb2a6d7b63c614fb2a6d7b67ab.jpg
+    alt:
+      en: "Satellite view of a hurricane with a well-defined eye, swirling white cloud bands over dark ocean, approaching a green landmass along the coast."
 geo:
   address: ''
   lat: 27.18608

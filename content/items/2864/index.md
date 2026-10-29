@@ -21,6 +21,8 @@ files:
     original_filename: MVC-021S.JPG
     thumb: /files/thumbnails/14fb2a5fc58e4c14fb2a5fc59232.jpg
     url: /files/original/14fb2a5fc58e4c14fb2a5fc59232.jpg
+    alt:
+      en: "Interior of a utility or workshop room with a red-painted floor, featuring a metal workbench covered in tools, a vise, pipes, and a small fire extinguisher mounted on the wall nearby."
 geo:
 id: 2864
 item_type: Still Image

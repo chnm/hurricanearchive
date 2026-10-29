@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27886.jpg
     thumb: /files/thumbnails/14fb2a6b8dfd9a14fb2a6b8e017e.jpg
     url: /files/original/14fb2a6b8dfd9a14fb2a6b8e017e.jpg
+    alt:
+      en: "Man in cap, gray shirt, jeans, and boots stands on concrete steps before a white trailer painted with \"DANGER KEEP OUT,\" with a diamond window and a black barrel nearby."
 geo:
   address: ''
   lat: 0.0

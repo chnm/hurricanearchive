@@ -23,6 +23,8 @@ files:
     original_filename: 160511274_4a0b259b7d.jpg
     thumb: /files/thumbnails/14fb29d21a5a0b14fb29d21a5df1.jpg
     url: /files/original/14fb29d21a5a0b14fb29d21a5df1.jpg
+    alt:
+      en: "Collapsed wooden structure with splintered boards and debris, including a refrigerator and upholstered chair, piled along a street with a utility pole and house visible behind."
 geo:
 id: 28618
 item_type: Still Image

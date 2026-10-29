@@ -21,6 +21,8 @@ files:
     original_filename: P1010176empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed5b247814fb29ed5b285e.jpg
     url: /files/original/14fb29ed5b247814fb29ed5b285e.jpg
+    alt:
+      en: "Muddy, debris-strewn lot with a leaning chain-link fence and standing water beside a concrete road; a fire hydrant stands in the mud, with fishing boats and a levee visible in the background."
 geo:
 id: 23735
 item_type: Still Image

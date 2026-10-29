@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5874_0048caf320.jpg
     thumb: /files/thumbnails/14fb2a1605a80314fb2a1605af3e.jpg
     url: /files/original/14fb2a1605a80314fb2a1605af3e.jpg
+    alt:
+      en: "Weathered color photo of the shrimp boat \"Lil Rick\" with its outrigger nets deployed on open water, labeled with a handwritten caption reading \"fishing off shore for shrimp, St. Bernard La.\""
 geo:
 id: 15773
 item_type: Still Image

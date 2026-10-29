@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1088Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f829d05014fb29f829d435.jpg
     url: /files/original/14fb29f829d05014fb29f829d435.jpg
+    alt:
+      en: "Interior hallway with drop ceiling tiles, where a person reaches up to adjust a ceiling light fixture while several others, including a man in an \"ARMY\" tank top, stand watching nearby."
 geo:
 id: 22277
 item_type: Still Image

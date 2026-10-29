@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C3D_14d7d9008c.jpg
     thumb: /files/thumbnails/14fb2a669b540a14fb2a669b57f3.jpg
     url: /files/original/14fb2a669b540a14fb2a669b57f3.jpg
+    alt:
+      en: "A man wearing a navy \"Strike Team\" cap, sunglasses, and a Coast Guard uniform crouches to collect a water sample with a gloved hand near an oil-stained shoreline with industrial structures in the background."
 geo:
 id: 2412
 item_type: Still Image

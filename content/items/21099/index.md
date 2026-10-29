@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0176-9-25.JPG
     thumb: /files/thumbnails/14fb2a009cbe2014fb2a009cc206.jpg
     url: /files/original/14fb2a009cbe2014fb2a009cc206.jpg
+    alt:
+      en: "Aerial view of floodwaters covering a roadway and submerged yard, with a partially visible rooftop, debris, a utility pole, and a solitary figure standing in the murky water."
 geo:
 id: 21099
 item_type: Still Image

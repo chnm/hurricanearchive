@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28287.jpg
     thumb: /files/thumbnails/14fb2a6d43c20614fb2a6d43c638.jpg
     url: /files/original/14fb2a6d43c20614fb2a6d43c638.jpg
+    alt:
+      en: "Storm-damaged open-air pavilion with twisted metal roof beams, surrounded by fallen tree limbs and debris, with a heavily damaged building visible in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-02-1AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f952569714fb29f9525a7c.jpg
     url: /files/original/14fb29f952569714fb29f9525a7c.jpg
+    alt:
+      en: "Flooded street with submerged vehicles and a boat under tarp, water rising to a streetlamp base, heavy rain and fog obscuring the background amid power lines and trees."
 geo:
 id: 22149
 item_type: Still Image

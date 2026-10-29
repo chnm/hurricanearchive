@@ -26,6 +26,8 @@ files:
     original_filename: NewOrleansresponse_6857c17fc2.jpg
     thumb: /files/thumbnails/14fb2a70e3b40414fb2a70e3b7a7.jpg
     url: /files/original/14fb2a70e3b40414fb2a70e3b7a7.jpg
+    alt:
+      en: "A large crowd of people gathers and walks along an elevated highway overpass above water, near signs for I-10 East Slidell, with the Economy Motor Lodge building visible in the background; dated 08/31/2005."
 geo:
   address: ''
   lat: 29.942737894394103

@@ -21,6 +21,8 @@ files:
     original_filename: IMG_6394_8415113c40.jpg
     thumb: /files/thumbnails/14fb2a16f5127114fb2a16f51655.jpg
     url: /files/original/14fb2a16f5127114fb2a16f51655.jpg
+    alt:
+      en: "Two women in elaborate Mardi Gras costumes with green feathered headdresses, jeweled face makeup, and sequined gold, purple, and teal outfits, smiling for the camera."
 geo:
   address: ''
   lat: 37.77123

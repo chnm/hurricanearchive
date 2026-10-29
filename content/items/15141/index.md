@@ -21,6 +21,8 @@ files:
     original_filename: IMG_6415_e11822a087.jpg
     thumb: /files/thumbnails/14fb2a16f3e14a14fb2a16f3e5bb.jpg
     url: /files/original/14fb2a16f3e14a14fb2a16f3e5bb.jpg
+    alt:
+      en: "A large pile of trash, bottles, cans, and Mardi Gras beads sits on a wet city street at night, with storefronts like \"She\" and \"Crescent\" visible in the background."
 geo:
   address: ''
   lat: 37.77123

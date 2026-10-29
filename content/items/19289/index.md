@@ -21,6 +21,8 @@ files:
     original_filename: J2 (1).JPG
     thumb: /files/thumbnails/14fb2a1153217614fb2a1153242b.jpg
     url: /files/original/14fb2a1153217614fb2a1153242b.jpg
+    alt:
+      en: "Aerial view of a Navy aircraft carrier's flight deck docked at a pier, with helicopters, crew members in colored vests, and a city skyline with office buildings in the background."
 geo:
 id: 19289
 item_type: Still Image

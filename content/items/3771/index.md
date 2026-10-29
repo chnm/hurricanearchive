@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 051.jpg
     thumb: /files/thumbnails/14fb2a59cc163414fb2a59cc1a0c.jpg
     url: /files/original/14fb2a59cc163414fb2a59cc1a0c.jpg
+    alt:
+      en: "Brick gateposts with an open iron gate stand beside a driveway, with storm debris piled near damaged trees and a green lawn in the background under a clear blue sky."
 geo:
 id: 3771
 item_type: Still Image

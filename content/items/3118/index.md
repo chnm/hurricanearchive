@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (4).JPG
     thumb: /files/thumbnails/14fb2a5dd72b1814fb2a5dd72efe.jpg
     url: /files/original/14fb2a5dd72b1814fb2a5dd72efe.jpg
+    alt:
+      en: "Storm-damaged commercial buildings with collapsed awnings and scattered debris line a street; a \"Time Saver\" convenience store sign stands amid the wreckage as a person walks across the lot."
 geo:
 id: 3118
 item_type: Still Image

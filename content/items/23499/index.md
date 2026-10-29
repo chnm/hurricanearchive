@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0136cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef3313d614fb29ef331798.jpg
     url: /files/original/14fb29ef3313d614fb29ef331798.jpg
+    alt:
+      en: "Military service member wearing a headset and American flag patch sits in the open doorway of an aircraft, looking down over a green landscape with trees and a field below."
 geo:
 id: 23499
 item_type: Still Image

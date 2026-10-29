@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28468.jpg
     thumb: /files/thumbnails/14fb2a6810505414fb2a6810543a.jpg
     url: /files/original/14fb2a6810505414fb2a6810543a.jpg
+    alt:
+      en: "A young girl sleeps on pillows covered with a Mickey and Donald Duck blanket, surrounded by bedding on the floor of a shelter, with a pair of legs visible in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_02_fa4bc0ac8f.jpg
     thumb: /files/thumbnails/14fb2a17f85cd414fb2a17f86167.jpg
     url: /files/original/14fb2a17f85cd414fb2a17f86167.jpg
+    alt:
+      en: "Three children pose in Halloween costumes—one dressed as Dora the Explorer, one as a doctor with a white coat and stethoscope, and one in a pink princess gown with a tiara."
 geo:
 id: 14753
 item_type: Still Image

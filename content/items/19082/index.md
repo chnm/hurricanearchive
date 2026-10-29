@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2190.JPG
     thumb: /files/thumbnails/14fb2a13468d8c14fb2a13469172.jpg
     url: /files/original/14fb2a13468d8c14fb2a13469172.jpg
+    alt:
+      en: "A person in a green flight suit and helmet walks beside a shirtless man across a grassy field, with a chain-link fence and brick building marked \"LOCAL 1560\" in the background."
 geo:
 id: 19082
 item_type: Still Image

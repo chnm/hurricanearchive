@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0212.JPG
     thumb: /files/thumbnails/14fb29ffacbfbd14fb29ffacc38b.jpg
     url: /files/original/14fb29ffacbfbd14fb29ffacc38b.jpg
+    alt:
+      en: "Aerial view of a devastated coastal neighborhood with collapsed and roofless houses, scattered debris, bare lots stripped to foundations, and surviving trees amid the wreckage, water visible in the distance."
 geo:
 id: 21272
 item_type: Still Image

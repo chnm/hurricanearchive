@@ -21,6 +21,8 @@ files:
     original_filename: FH000009-9-23.jpg
     thumb: /files/thumbnails/14fb29fca3958514fb29fca3996b.jpg
     url: /files/original/14fb29fca3958514fb29fca3996b.jpg
+    alt:
+      en: "Damaged mobile home with broken windows and torn siding sits on a debris-strewn lot, with a cracked concrete slab in the foreground and power lines overhead."
 geo:
 id: 21673
 item_type: Still Image

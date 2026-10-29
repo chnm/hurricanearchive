@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.059.JPG
     thumb: /files/thumbnails/14fb29dcf47b3d14fb29dcf47f23.jpg
     url: /files/original/14fb29dcf47b3d14fb29dcf47f23.jpg
+    alt:
+      en: "An outdoor makeshift washstand with a white porcelain sink and chrome faucets, set beneath a black-framed mirror decorated with artificial leaves and berries, against a painted, patchwork wooden wall."
 geo:
 id: 25636
 item_type: Still Image

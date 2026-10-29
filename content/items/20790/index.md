@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0079-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a03c159ab14fb2a03c15d90.jpg
     url: /files/original/14fb2a03c159ab14fb2a03c15d90.jpg
+    alt:
+      en: "Aerial view of a flooded, debris-strewn neighborhood with a damaged two-story house surrounded by bare, storm-stripped trees, scattered wreckage, and standing floodwater covering roads and yards."
 geo:
 id: 20790
 item_type: Still Image

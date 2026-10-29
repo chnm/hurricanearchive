@@ -20,6 +20,8 @@ files:
     original_filename: 100_5064_abc68897ee.JPG
     thumb: /files/thumbnails/14fb29cbe227a914fb29cbe288bb.jpg
     url: /files/original/14fb29cbe227a914fb29cbe288bb.jpg
+    alt:
+      en: "Gutted building interior with exposed ceiling framework, two open doorways leading to debris-strewn rooms, and a red fire extinguisher mounted on a damaged wall."
 geo:
   address: 730 East Beach Blvd, Long Beach, MS
   lat: 0.0

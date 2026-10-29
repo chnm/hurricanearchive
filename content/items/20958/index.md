@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0156-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a015346f014fb2a01534ad8.jpg
     url: /files/original/14fb2a015346f014fb2a01534ad8.jpg
+    alt:
+      en: "Aerial view of a flooded coastal landscape with dead, defoliated trees, scattered debris, and standing floodwater surrounding a paved road and marsh grasses."
 geo:
 id: 20958
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: PB260085_dfe6ee49b9.JPG
     thumb: /files/thumbnails/14fb2a6e71855f14fb2a6e718939.jpg
     url: /files/original/14fb2a6e71855f14fb2a6e718939.jpg
+    alt:
+      en: "A severely damaged house has partially collapsed off its foundation, its roof torn open, with debris and a crushed white pickup truck scattered beneath it near an empty street."
 geo:
   address: ''
   lat: 30.2169855869278

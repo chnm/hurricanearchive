@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (67).JPG
     thumb: /files/thumbnails/14fb2a5d39c4d914fb2a5d39c8a7.jpg
     url: /files/original/14fb2a5d39c4d914fb2a5d39c8a7.jpg
+    alt:
+      en: "Storm-damaged single-story house with scorched, weathered siding and a sagging porch, fronted by an overgrown yard, white picket fence, and concrete steps leading to the street."
 geo:
 id: 3219
 item_type: Still Image

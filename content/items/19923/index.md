@@ -21,6 +21,8 @@ files:
     original_filename: Picture 019cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c675a6214fb2a0c675e48.jpg
     url: /files/original/14fb2a0c675a6214fb2a0c675e48.jpg
+    alt:
+      en: "A leaning, storm-damaged utility pole with dangling wires stands in front of a tan multi-story building and nearby houses, with scattered debris on the ground amid green grass and trees."
 geo:
 id: 19923
 item_type: Still Image

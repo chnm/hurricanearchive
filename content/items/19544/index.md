@@ -21,6 +21,8 @@ files:
     original_filename: Picture4engineers.png
     thumb: /files/thumbnails/14fb2a0f51c46014fb2a0f51c7c9.jpg
     url: /files/original/14fb2a0f51c46014fb2a0f51c7c9.jpg
+    alt:
+      en: "A yellow backhoe loader works on a residential street under repair, with torn-up pavement and gravel visible alongside brick houses and bare trees in the background."
 geo:
 id: 19544
 item_type: Still Image

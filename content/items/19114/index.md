@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 024.jpg
     thumb: /files/thumbnails/14fb2a12e61c8b14fb2a12e6216a.jpg
     url: /files/original/14fb2a12e61c8b14fb2a12e6216a.jpg
+    alt:
+      en: "Stacks of palletized relief supplies and water bottles under a large open-air structure, with a white pickup truck and tractor-trailer parked nearby and traffic cones on the pavement."
 geo:
 id: 19114
 item_type: Still Image

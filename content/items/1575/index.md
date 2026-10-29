@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28391.jpg
     thumb: /files/thumbnails/14fb2a67c8768914fb2a67c87a72.jpg
     url: /files/original/14fb2a67c8768914fb2a67c87a72.jpg
+    alt:
+      en: "Man wearing a cap and purple T-shirt holds a triangular stainless steel fish release device, standing before green fishing nets with a partially visible boat sign reading \"TER ANT\" in the background."
 geo:
   address: ''
   lat: 0.0

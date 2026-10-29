@@ -21,6 +21,8 @@ files:
     original_filename: 17th Avenue.jpg
     thumb: /files/thumbnails/14fb29fb7a98d114fb29fb7a9cb7.jpg
     url: /files/original/14fb29fb7a98d114fb29fb7a9cb7.jpg
+    alt:
+      en: "Black-and-white aerial view of a residential neighborhood split by a canal, with dense tree-lined streets and rooftops on one side and scattered buildings, open lots, and a large warehouse on the other."
 geo:
 id: 21823
 item_type: Still Image

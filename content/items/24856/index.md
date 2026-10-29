@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2196superdome.JPG
     thumb: /files/thumbnails/14fb29e460ab4514fb29e460af28.jpg
     url: /files/original/14fb29e460ab4514fb29e460af28.jpg
+    alt:
+      en: "Nighttime scene of floodwater submerging a street, with a dark sedan and a \"young\" charter bus numbered 114 partially underwater; another bus marked \"STAR\" is visible to the right."
 geo:
 id: 24856
 item_type: Still Image

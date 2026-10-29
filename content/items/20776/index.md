@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0076-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a03d2ac6014fb2a03d2b065.jpg
     url: /files/original/14fb2a03d2ac6014fb2a03d2b065.jpg
+    alt:
+      en: "Blurred silhouette of a helicopter in flight against a hazy olive-green sky, its rotor blades and tail boom faintly outlined."
 geo:
 id: 20776
 item_type: Still Image

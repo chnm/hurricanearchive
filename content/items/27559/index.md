@@ -21,6 +21,8 @@ files:
     original_filename: SCAN0001_46dc54730c.jpg
     thumb: /files/thumbnails/14fb29d36a1b5514fb29d36a2322.jpg
     url: /files/original/14fb29d36a1b5514fb29d36a2322.jpg
+    alt:
+      en: "Hand-drawn bubble letters spelling \"New Orleans\" filled with local icons like a saxophone, crawfish, Mardi Gras mask, street signs for Bourbon Street, and sports team names, signed \"Mary\" in the corner."
 geo:
   address: ''
   lat: 29.84064

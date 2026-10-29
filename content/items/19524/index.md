@@ -21,6 +21,8 @@ files:
     original_filename: Picture 084engineers.jpg
     thumb: /files/thumbnails/14fb2a0f91f2ff14fb2a0f91f6ed.jpg
     url: /files/original/14fb2a0f91f2ff14fb2a0f91f6ed.jpg
+    alt:
+      en: "Aerial view of a highway interchange with a long line of vehicles backed up on the off-ramp, an overpass with trucks crossing above, and a gas station and parking lots in the foreground."
 geo:
 id: 19524
 item_type: Still Image

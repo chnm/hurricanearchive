@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0562Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f51e04cf14fb29f51e085f.jpg
     url: /files/original/14fb29f51e04cf14fb29f51e085f.jpg
+    alt:
+      en: "A small white motorboat sits grounded in floodwater in front of a brick building with large windows, with power lines crossing overhead and a tree visible to the right."
 geo:
 id: 22598
 item_type: Still Image

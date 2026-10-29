@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2058superdome.JPG
     thumb: /files/thumbnails/14fb29df09ea4e14fb29df09ee32.jpg
     url: /files/original/14fb29df09ea4e14fb29df09ee32.jpg
+    alt:
+      en: "Close-up of two men's backs and heads as they bend forward together, one wearing a camouflage military jacket and the other a white shirt, with a uniformed figure visible in the background."
 geo:
 id: 25331
 item_type: Still Image

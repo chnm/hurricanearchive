@@ -24,6 +24,8 @@ files:
     original_filename: P1010077.JPG
     thumb: /files/thumbnails/14fb2a5b4c09b514fb2a5b4c0e7e.jpg
     url: /files/original/14fb2a5b4c09b514fb2a5b4c0e7e.jpg
+    alt:
+      en: "A weathered concrete deer statue stands in a dead, straw-covered yard before a damaged white house with wrought-iron railings, a leaning gutter, and spray-painted plywood windows."
 geo:
 id: 3503
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d1177f414fb2a0d117bcf.jpg
     url: /files/original/14fb2a0d1177f414fb2a0d117bcf.jpg
+    alt:
+      en: "Man in camouflage military uniform with \"STAHL\" name tape holds a notepad and camera, standing near a man in a white hard hat and sunglasses, with trucks and trees in the background."
 geo:
 id: 19867
 item_type: Still Image

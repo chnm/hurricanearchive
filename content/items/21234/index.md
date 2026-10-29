@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0203-9-25.JPG
     thumb: /files/thumbnails/14fb29ffe34e2014fb29ffe351c0.jpg
     url: /files/original/14fb29ffe34e2014fb29ffe351c0.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with several large fallen trees in yards between two brick houses, downed branches scattered on the grass, and a two-lane road running along the right side."
 geo:
 id: 21234
 item_type: Still Image

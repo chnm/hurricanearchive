@@ -21,6 +21,8 @@ files:
     original_filename: Picture 057.jpg
     thumb: /files/thumbnails/14fb29cc75c08514fb29cc75c468.jpg
     url: /files/original/14fb29cc75c08514fb29cc75c468.jpg
+    alt:
+      en: "Photo taken from inside a car shows a red minivan ahead on a narrow road lined with storm-damaged, broken trees and downed branches on both sides."
 geo:
 id: 30792
 item_type: Still Image

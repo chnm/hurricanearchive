@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9216.jpg
     thumb: /files/thumbnails/14fb2a62d69f6614fb2a62d6a349.jpg
     url: /files/original/14fb2a62d69f6614fb2a62d6a349.jpg
+    alt:
+      en: "A severely damaged white house with a large fallen tree across its roof, surrounded by piles of splintered wood debris, set against a clear blue sky."
 geo:
 id: 2652
 item_type: Still Image

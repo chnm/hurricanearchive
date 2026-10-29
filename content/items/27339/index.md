@@ -23,6 +23,8 @@ files:
     original_filename: 336696978_c7a9d3053d.jpg
     thumb: /files/thumbnails/14fb29d4866b6914fb29d4866f4a.jpg
     url: /files/original/14fb29d4866b6914fb29d4866f4a.jpg
+    alt:
+      en: "A large rusted red barge sits beached on land amid debris, with a damaged chain-link fence and bare, storm-stripped trees in the foreground."
 geo:
 id: 27339
 item_type: Still Image

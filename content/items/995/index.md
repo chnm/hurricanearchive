@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28417.jpg
     thumb: /files/thumbnails/14fb2a6b7ce1b914fb2a6b7ce599.jpg
     url: /files/original/14fb2a6b7ce1b914fb2a6b7ce599.jpg
+    alt:
+      en: "Large debris pile of storm-damaged materials—wood, metal roofing, and household items—heaped beside wooden utility poles, with trees and a hazy sky in the background."
 geo:
   address: ''
   lat: 0.0

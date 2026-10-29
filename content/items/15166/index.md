@@ -21,6 +21,8 @@ files:
     original_filename: IPerez-6048_d06a4b3d14.jpg
     thumb: /files/thumbnails/14fb2a16c8ab9a14fb2a16c8af80.jpg
     url: /files/original/14fb2a16c8ab9a14fb2a16c8af80.jpg
+    alt:
+      en: "Carved and painted wooden duck and bird decoys displayed on a cloth-covered table at an outdoor fair, with people standing and seated behind the display."
 geo:
 id: 15166
 item_type: Still Image

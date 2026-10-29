@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0168abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef13e48814fb29ef13e86f.jpg
     url: /files/original/14fb29ef13e48814fb29ef13e86f.jpg
+    alt:
+      en: "A small white house with a rusted metal roof and green-trimmed windows stands amid dead grass and bare trees, with a set of steps and scattered debris in the foreground."
 geo:
 id: 23537
 item_type: Still Image

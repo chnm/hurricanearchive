@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 041.jpg
     thumb: /files/thumbnails/14fb2a2268a08814fb2a2268a46e.jpg
     url: /files/original/14fb2a2268a08814fb2a2268a46e.jpg
+    alt:
+      en: "A damaged blue sedan sits amid storm debris near a stripped building frame with torn roofing material, surrounded by scattered rubble and overgrown grass."
 geo:
 id: 11993
 item_type: Still Image

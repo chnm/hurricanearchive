@@ -21,6 +21,8 @@ files:
     original_filename: Delgado School of Nursing.jpg
     thumb: /files/thumbnails/14fb29fb63cff214fb29fb63d3d8.jpg
     url: /files/original/14fb29fb63cff214fb29fb63d3d8.jpg
+    alt:
+      en: "Aerial view of a flooded urban area with multiple high-rise buildings surrounded by brown floodwater, an elevated highway overpass crossing the scene, and a parking garage structure among the submerged streets."
 geo:
 id: 21845
 item_type: Still Image

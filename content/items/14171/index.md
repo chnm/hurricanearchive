@@ -21,6 +21,8 @@ files:
     original_filename: PFC Caleb Hymel.JPG
     thumb: /files/thumbnails/14fb2a1b05ab7514fb2a1b05b652.jpg
     url: /files/original/14fb2a1b05ab7514fb2a1b05b652.jpg
+    alt:
+      en: "A young man in U.S. Army woodland camouflage uniform with a \"HYMEL\" name tape and American flag patch stands indoors in a dining hall, date-stamped 09.24.2005."
 geo:
   address: ''
   lat: 0.0

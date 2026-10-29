@@ -23,6 +23,8 @@ files:
     original_filename: laurishirtback_5e0ad823fe.jpg
     thumb: /files/thumbnails/14fb29c3b2482714fb29c3b24bc6.jpg
     url: /files/original/14fb29c3b2482714fb29c3b24bc6.jpg
+    alt:
+      en: "Black T-shirt back printed with white text condemning the Bush administration over the Hurricane Katrina response, headlined \"THE WORLD CAN'T WAIT! DRIVE OUT THE BUSH REGIME!\" and urging mobilization on October 5, 2006."
 geo:
   address: ''
   lat: 0.0

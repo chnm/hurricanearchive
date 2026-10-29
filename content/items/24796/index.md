@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2118superdome.JPG
     thumb: /files/thumbnails/14fb29e4ae2fd614fb29e4ae3464.jpg
     url: /files/original/14fb29e4ae2fd614fb29e4ae3464.jpg
+    alt:
+      en: "Group of soldiers in camouflage uniforms gather with two small dogs on a brick plaza, with parked cars, a bench, and city buildings in the background."
 geo:
 id: 24796
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 045cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c280e2514fb2a0c281209.jpg
     url: /files/original/14fb2a0c280e2514fb2a0c281209.jpg
+    alt:
+      en: "A leaning utility pole bearing a \"St. Charles Av\" street sign stands amid storm debris and downed branches on a grassy lawn, with large historic houses visible in the background."
 geo:
 id: 19948
 item_type: Still Image

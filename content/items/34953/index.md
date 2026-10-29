@@ -20,6 +20,8 @@ files:
     original_filename: 2417116994_030bac55c0.
     thumb: /files/thumbnails/14fb29c8329da514fb29c832a18a.jpg
     url: /files/original/14fb29c8329da514fb29c832a18a.jpg
+    alt:
+      en: "Aerial view of a straight levee or road running through green marshland, with a winding river on the left and dense forest on the right."
 geo:
 id: 34953
 item_type: Still Image

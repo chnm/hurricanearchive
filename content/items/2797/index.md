@@ -27,6 +27,8 @@ files:
     original_filename: Red Cross Dudes
     thumb: /files/thumbnails/14fb2a60270c3614fb2a60270f44.jpg
     url: /files/original/14fb2a60270c3614fb2a60270f44.jpg
+    alt:
+      en: "Crayon drawing of two smiling figures labeled \"Red Cross\" wearing caps and red cross emblems, alongside a separate red cross shape; signed \"Reginald, Sept 14-05, Age 14.\""
 geo:
 id: 2797
 item_type: Still Image

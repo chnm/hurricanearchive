@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-10-8AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f97093ab14fb29f9709790.jpg
     url: /files/original/14fb29f97093ab14fb29f9709790.jpg
+    alt:
+      en: "Grainy, dark nighttime photo showing the pale roof of a vehicle in the foreground, with a dim building and lit upper-story windows visible in the background."
 geo:
 id: 22130
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-02-1A.jpg
     thumb: /files/thumbnails/14fb29e85cb79f14fb29e85cbc5e.jpg
     url: /files/original/14fb29e85cb79f14fb29e85cbc5e.jpg
+    alt:
+      en: "Flooded street with several vehicles submerged nearly to their rooftops, a lit lamppost standing in the floodwater, and heavy rain obscuring buildings and trees in the background."
 geo:
 id: 24381
 item_type: Still Image

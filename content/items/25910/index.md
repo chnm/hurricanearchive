@@ -20,6 +20,8 @@ files:
     original_filename: evacuee_stories_5_cae4c9d67c.jpg
     thumb: /files/thumbnails/14fb29dbccd1b414fb29dbccd598.jpg
     url: /files/original/14fb29dbccd1b414fb29dbccd598.jpg
+    alt:
+      en: "Handwritten needs assessment form from Britni Comeaux describing storm damage to her trailer's siding and porch roof, lost power and work, and listing needed items like diapers, clothes, and food."
 geo:
   address: 125 S Buchanan St, Lafayette, LA
   lat: 30.23045

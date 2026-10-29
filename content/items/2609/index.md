@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9562.jpg
     thumb: /files/thumbnails/14fb2a64378eec14fb2a64379286.jpg
     url: /files/original/14fb2a64378eec14fb2a64379286.jpg
+    alt:
+      en: "A severely crushed and rusted blue car lies buried under splintered wood debris and wreckage in front of a damaged brick building, with downed power lines overhead."
 geo:
 id: 2609
 item_type: Still Image

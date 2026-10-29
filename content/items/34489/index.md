@@ -27,6 +27,8 @@ files:
     original_filename: 2310193603_94c026206d.
     thumb: /files/thumbnails/14fb29c9b6174d14fb29c9b61b1b.jpg
     url: /files/original/14fb29c9b6174d14fb29c9b61b1b.jpg
+    alt:
+      en: "A white egret with black legs and yellow feet flies low over calm water, its wings outstretched, with a clear mirrored reflection below against a blurred, motion-streaked brown background."
 geo:
 id: 34489
 item_type: Still Image

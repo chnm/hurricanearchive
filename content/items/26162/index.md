@@ -25,12 +25,16 @@ files:
     original_filename: eatcraw_59be0d93ce.jpg
     thumb: /files/thumbnails/14fb29d9f2f4b214fb29d9f2f947.jpg
     url: /files/original/14fb29d9f2f4b214fb29d9f2f947.jpg
+    alt:
+      en: "Two people sit at a red picnic table eating crawfish from paper trays, with a crowd and white tents visible in the background at an outdoor festival."
   - fullsize: /files/fullsize/14fb29d9f181ab14fb29d9f18593.jpg
     id: 22766
     mime: image/jpeg
     original_filename: eatcrawfish_5e0de9c493.jpg
     thumb: /files/thumbnails/14fb29d9f181ab14fb29d9f18593.jpg
     url: /files/original/14fb29d9f181ab14fb29d9f18593.jpg
+    alt:
+      en: "Group gathered at an outdoor table eating crawfish from a paper plate, with a Coca-Cola bottle and bottled water nearby, festival decorations and crowd visible in the background."
 geo:
 id: 26162
 item_type: Still Image

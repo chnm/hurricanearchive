@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6162_8e24d33849.jpg
     thumb: /files/thumbnails/14fb29dd91013314fb29dd91051b.jpg
     url: /files/original/14fb29dd91013314fb29dd91051b.jpg
+    alt:
+      en: "Water-damaged and faded portrait of a young boy in a striped sweater, his features and clothing heavily obscured by staining, streaking, and discoloration from flood exposure."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

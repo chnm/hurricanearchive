@@ -21,6 +21,8 @@ files:
     original_filename: S4300236stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eca7e5ef14fb29eca7ebf8.jpg
     url: /files/original/14fb29eca7e5ef14fb29eca7ebf8.jpg
+    alt:
+      en: "Aerial view of a wide, muddy river lined with marshland and trees, with several barges moored near the bank and industrial cranes visible in the hazy distance."
 geo:
 id: 23872
 item_type: Still Image

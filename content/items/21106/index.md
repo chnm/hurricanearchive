@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0177.JPG
     thumb: /files/thumbnails/14fb2a0095545614fb2a0095583a.jpg
     url: /files/original/14fb2a0095545614fb2a0095583a.jpg
+    alt:
+      en: "Aerial view of storm-damaged houses with intact roofs but debris-strewn yards, surrounded by scattered rubble, overturned vehicles, and cleared lots along railroad tracks."
 geo:
 id: 21106
 item_type: Still Image

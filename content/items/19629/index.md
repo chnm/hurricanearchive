@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 015cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ea43ef514fb2a0ea442db.jpg
     url: /files/original/14fb2a0ea43ef514fb2a0ea442db.jpg
+    alt:
+      en: "Two military helicopters rest on a grassy field near a paved helipad, with white tents, a fenced compound, and trees lining the background under a clear blue sky."
 geo:
 id: 19629
 item_type: Still Image

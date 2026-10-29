@@ -21,6 +21,8 @@ files:
     original_filename: MVC-013S.JPG
     thumb: /files/thumbnails/14fb2a5ff2bd1014fb2a5ff2c0ef.jpg
     url: /files/original/14fb2a5ff2bd1014fb2a5ff2c0ef.jpg
+    alt:
+      en: "Interior view of an aircraft cockpit showing an instrument panel with multiple dials and gauges, control yoke, and overhead canopy, with other parked aircraft visible through the windshield."
 geo:
 id: 2822
 item_type: Still Image

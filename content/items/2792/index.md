@@ -21,6 +21,8 @@ files:
     original_filename: 85.jpg
     thumb: /files/thumbnails/14fb2a602bc20e14fb2a602bc5f3.jpg
     url: /files/original/14fb2a602bc20e14fb2a602bc5f3.jpg
+    alt:
+      en: "Child's crayon drawing with two blue hearts on wavy stems, two red figures with raised arms, blue scalloped clouds, red scalloped borders, green grass, signed \"Erinisna, age 9\" in the top corner."
 geo:
 id: 2792
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: looking north wind.jpg
     thumb: /files/thumbnails/14fb2a203c8af414fb2a203c8ed9.jpg
     url: /files/original/14fb2a203c8af414fb2a203c8ed9.jpg
+    alt:
+      en: "Heavy rain and fog obscure a row of distant buildings beyond a median with guardrails; debris and a can litter the wet roadway in the foreground, viewed from under an overpass."
 geo:
 id: 13128
 item_type: Still Image

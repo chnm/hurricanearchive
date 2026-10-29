@@ -27,6 +27,8 @@ files:
     original_filename: Specialist Guidry
     thumb: /files/thumbnails/14fb2a60594a5414fb2a60594e34.jpg
     url: /files/original/14fb2a60594a5414fb2a60594e34.jpg
+    alt:
+      en: "Child's marker drawing of a soldier in camouflage uniform and cap, holding two small American flags, with a colorful striped rainbow shape above. Text reads \"Spc. Guidry,\" \"Age 7,\" and \"MyJane.\""
 geo:
 id: 2743
 item_type: Still Image

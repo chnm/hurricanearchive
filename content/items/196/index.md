@@ -26,6 +26,8 @@ files:
     original_filename: Oct2981_cf8d5972c1.JPG
     thumb: /files/thumbnails/14fb2a7093f40714fb2a7093f7f1.jpg
     url: /files/original/14fb2a7093f40714fb2a7093f7f1.jpg
+    alt:
+      en: "Collapsed brick building reduced to rubble in foreground, with a partially destroyed multi-story structure beside it and modern high-rise towers visible in the background."
 geo:
   address: ''
   lat: 29.938343

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28103.jpg
     thumb: /files/thumbnails/14fb2a6c76ef5c14fb2a6c76f6bb.jpg
     url: /files/original/14fb2a6c76ef5c14fb2a6c76f6bb.jpg
+    alt:
+      en: "Sailboats and motor yachts piled against a dock, their masts tilted at sharp angles, with green marsh vegetation and calm water in the foreground under a clear sky."
 geo:
   address: ''
   lat: 0.0

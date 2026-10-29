@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0231-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff50dc4d14fb29ff50e02a.jpg
     url: /files/original/14fb29ff50dc4d14fb29ff50e02a.jpg
+    alt:
+      en: "Aerial view of flood-damaged mobile homes and sheds surrounded by brown floodwaters, scattered debris, and uprooted trees, with a school bus and open fields visible nearby."
 geo:
 id: 21338
 item_type: Still Image

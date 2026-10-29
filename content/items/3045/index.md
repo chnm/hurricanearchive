@@ -21,6 +21,8 @@ files:
     original_filename: 100_0294.JPG
     thumb: /files/thumbnails/14fb2a5e5cf18c14fb2a5e5cf799.jpg
     url: /files/original/14fb2a5e5cf18c14fb2a5e5cf799.jpg
+    alt:
+      en: "Large gray naval warship marked \"60\" docked alongside a pier, with its superstructure, mast, and gun turrets visible against a clear blue sky."
 geo:
 id: 3045
 item_type: Still Image

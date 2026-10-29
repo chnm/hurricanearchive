@@ -21,6 +21,8 @@ files:
     original_filename: 146 night can't see much.jpg
     thumb: /files/thumbnails/14fb2a1fdf276314fb2a1fdf2da1.jpg
     url: /files/original/14fb2a1fdf276314fb2a1fdf2da1.jpg
+    alt:
+      en: "A dark, nearly indistinguishable nighttime photo with blurred raindrops on the lens, faintly showing a wet ground surface and indistinct shapes in the background."
 geo:
 id: 13156
 item_type: Still Image

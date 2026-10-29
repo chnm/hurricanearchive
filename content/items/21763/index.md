@@ -21,6 +21,8 @@ files:
     original_filename: katrina 031.jpg
     thumb: /files/thumbnails/14fb29fbe8254e14fb29fbe82930.jpg
     url: /files/original/14fb29fbe8254e14fb29fbe82930.jpg
+    alt:
+      en: "A military medical evacuation helicopter marked with a red cross flies in front of the Louisiana Superdome, with Humvees and uniformed personnel parked below on a roadway."
 geo:
 id: 21763
 item_type: Still Image

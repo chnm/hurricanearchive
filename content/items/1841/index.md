@@ -26,6 +26,8 @@ files:
     original_filename: holly2_9b748651df.JPG
     thumb: /files/thumbnails/14fb2a6eb36d1a14fb2a6eb370f3.jpg
     url: /files/original/14fb2a6eb36d1a14fb2a6eb370f3.jpg
+    alt:
+      en: "Mounds of mud and debris, including scattered wood planks, metal sheeting, and rusted machinery, mark the site of a destroyed home, with power lines and bare trees in the background under a clear sky."
 geo:
   address: ''
   lat: 29.7716788354775

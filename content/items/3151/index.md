@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Uptown (3).JPG
     thumb: /files/thumbnails/14fb2a5db45e9514fb2a5db46279.jpg
     url: /files/original/14fb2a5db45e9514fb2a5db46279.jpg
+    alt:
+      en: "Interior room with collapsed ceiling exposing wooden beams and damaged drywall above splintered wood planks, a carved wooden armoire wrapped in plastic standing below against a blue textured wall."
 geo:
 id: 3151
 item_type: Still Image

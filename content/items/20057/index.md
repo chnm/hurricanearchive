@@ -21,6 +21,8 @@ files:
     original_filename: Picture 154cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b88acea14fb2a0b88b0d0.jpg
     url: /files/original/14fb2a0b88acea14fb2a0b88b0d0.jpg
+    alt:
+      en: "Close-up of a large military vehicle's front end and tire plowing through floodwater, with an amber marker light visible and another vehicle in the background."
 geo:
 id: 20057
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: Wingate rebuilt2_013c17a065.jpg
     thumb: /files/thumbnails/14fb29c35aeeca14fb29c35af2af.jpg
     url: /files/original/14fb29c35aeeca14fb29c35af2af.jpg
+    alt:
+      en: "A single-story beige house with a small porch and railing, flanked by a raised house on stilts to the right and a vacant lot with debris on the left, under a clear blue sky."
 geo:
   address: 5769 Wingate
   lat: 30.01697

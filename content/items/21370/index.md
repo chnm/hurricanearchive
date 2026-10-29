@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0239-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff27b59914fb29ff27baf5.jpg
     url: /files/original/14fb29ff27b59914fb29ff27baf5.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with standing dark water surrounding damaged homes, collapsed roofs, scattered debris, and a large metal-roofed warehouse building amid bare and green trees."
 geo:
 id: 21370
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025OEP.JPG
     thumb: /files/thumbnails/14fb29f211322b14fb29f2115935.jpg
     url: /files/original/14fb29f211322b14fb29f2115935.jpg
+    alt:
+      en: "Aerial view from a rooftop overlooking a large parking lot filled with police cruisers, SUVs, and other vehicles, with low commercial buildings and flowering shrubs along the roof edge in the foreground."
 geo:
 id: 23015
 item_type: Still Image

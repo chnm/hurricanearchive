@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Dsc_0346_85dbfc48fa.jpg
     thumb: /files/thumbnails/14fb2a6fdb296414fb2a6fdb2d39.jpg
     url: /files/original/14fb2a6fdb296414fb2a6fdb2d39.jpg
+    alt:
+      en: "A severely damaged house with collapsed walls and exposed wooden framing lies tilted amid debris, its blue-gray siding crumpled, under a clear blue sky with bare trees nearby."
 geo:
   address: ''
   lat: 30.3396948489742

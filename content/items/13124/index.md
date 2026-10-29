@@ -21,6 +21,8 @@ files:
     original_filename: lobby debris3.jpg
     thumb: /files/thumbnails/14fb2a20486fa114fb2a20487759.jpg
     url: /files/original/14fb2a20486fa114fb2a20487759.jpg
+    alt:
+      en: "Flooded office lobby with collapsed ceiling tiles, tangled metal framing, insulation ductwork, and debris covering the floor; a man in a red shirt walks through the wreckage."
 geo:
 id: 13124
 item_type: Still Image

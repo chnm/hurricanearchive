@@ -23,6 +23,8 @@ files:
     original_filename: 1265268133_11629a8ed1.jpg
     thumb: /files/thumbnails/14fb29cb75a1d614fb29cb75a5b6.jpg
     url: /files/original/14fb29cb75a1d614fb29cb75a5b6.jpg
+    alt:
+      en: "A wooden utility pole with electric meter and junction boxes attached, displaying a red-and-white \"No Parking Any Time\" sign and a torn \"...Down...6865...Demolition\" flyer, set against a clear sky with power lines and poles in the background."
 geo:
 id: 33223
 item_type: Still Image

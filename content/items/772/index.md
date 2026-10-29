@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28723.jpg
     thumb: /files/thumbnails/14fb2a6d1e8dc114fb2a6d1e91a8.jpg
     url: /files/original/14fb2a6d1e8dc114fb2a6d1e91a8.jpg
+    alt:
+      en: "A volunteer in a yellow Humane Society t-shirt and cap offers a treat to a tethered horse inside a stable at the Lamar-Dixon Fairgrounds animal rescue depot."
 geo:
   address: ''
   lat: 0.0

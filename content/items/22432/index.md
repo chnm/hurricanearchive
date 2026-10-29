@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1273Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f677ed0514fb29f677f0ea.jpg
     url: /files/original/14fb29f677ed0514fb29f677f0ea.jpg
+    alt:
+      en: "Floodwaters submerge a street, with a boat motor (marked \"225\") visible near buildings and trees in the background, power lines crossing overhead under a gray sky."
 geo:
 id: 22432
 item_type: Still Image

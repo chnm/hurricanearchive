@@ -27,6 +27,8 @@ files:
     original_filename: cronin walls_6ded0568d9.jpg.JPG
     thumb: /files/thumbnails/14fb29d146138014fb29d14616fb.jpg
     url: /files/original/14fb29d146138014fb29d14616fb.jpg
+    alt:
+      en: "Detail of a densely layered mixed-media artwork featuring two large stylized cartoonish faces alongside intricate architectural line drawings, patterned borders, and textured sepia-toned surfaces."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

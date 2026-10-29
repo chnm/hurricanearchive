@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.042.JPG
     thumb: /files/thumbnails/14fb29dccc694814fb29dccc6d2b.jpg
     url: /files/original/14fb29dccc694814fb29dccc6d2b.jpg
+    alt:
+      en: "Hand-painted sign reading \"La Spiga New Orleans Bakery and Cafe\" with a wheat stalk illustration, listing hours as Breakfast 8AM, Lunch 2PM, mounted on a building's siding."
 geo:
 id: 25668
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27999.jpg
     thumb: /files/thumbnails/14fb2a6929377614fb2a69293bc1.jpg
     url: /files/original/14fb2a6929377614fb2a69293bc1.jpg
+    alt:
+      en: "Silver minivan with \"SPCA\" hand-painted on its rear and side windows, parked on a dirt lot with bare trees in the background."
 geo:
   address: ''
   lat: 0.0

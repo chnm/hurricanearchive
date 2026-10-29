@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DannishDanionGreen_08_20d1d6ef86.jpg
     thumb: /files/thumbnails/14fb2a180c636014fb2a180c6a5f.jpg
     url: /files/original/14fb2a180c636014fb2a180c6a5f.jpg
+    alt:
+      en: "A young girl holds a pink-and-white umbrella while standing on a snow-dusted path, with a boy in a dark coat behind her near a brick apartment building and hedges."
 geo:
 id: 14708
 item_type: Still Image

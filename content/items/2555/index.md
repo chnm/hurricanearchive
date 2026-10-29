@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8891.jpg
     thumb: /files/thumbnails/14fb2a6559d62514fb2a6559da0a.jpg
     url: /files/original/14fb2a6559d62514fb2a6559da0a.jpg
+    alt:
+      en: "A yellow CAT skid-steer loader lifts a discarded refrigerator above a row of stripped, overturned refrigerators in a dirt lot, as seagulls circle overhead under a clear blue sky."
 geo:
 id: 2555
 item_type: Still Image

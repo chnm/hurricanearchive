@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0680.JPG
     thumb: /files/thumbnails/14fb2a533e58db14fb2a533e5cc1.jpg
     url: /files/original/14fb2a533e58db14fb2a533e5cc1.jpg
+    alt:
+      en: "A yellow tape measure marked with numbers lies across debris, including broken concrete, rusted rebar, scattered pine needles, and a metal fragment with cutout holes."
 geo:
 id: 5235
 item_type: Still Image

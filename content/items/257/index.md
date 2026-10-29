@@ -26,6 +26,8 @@ files:
     original_filename: 435pxKatrina_Flood_Overview_42d8bb6411.jpg
     thumb: /files/thumbnails/14fb2a7063b1b614fb2a7063b9db.jpg
     url: /files/original/14fb2a7063b1b614fb2a7063b9db.jpg
+    alt:
+      en: "Aerial view of a flooded city with a distant skyline, elevated highways, and submerged streets and neighborhoods stretching into the hazy horizon."
 geo:
   address: ''
   lat: 30.0690939644389

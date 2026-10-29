@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28500.jpg
     thumb: /files/thumbnails/14fb2a69b3461414fb2a69b349f9.jpg
     url: /files/original/14fb2a69b3461414fb2a69b349f9.jpg
+    alt:
+      en: "Interior of a damaged house with crumbling plaster walls and exposed brick, viewed through an open doorway to a yellow porch column and a debris-strewn yard with a bare tree beyond."
 geo:
   address: ''
   lat: 0.0

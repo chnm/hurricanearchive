@@ -20,6 +20,8 @@ files:
     original_filename: Gas Station along Gulf Coast.JPG
     thumb: /files/thumbnails/14fb29d5a5e94714fb29d5a5ed2a.jpg
     url: /files/original/14fb29d5a5e94714fb29d5a5ed2a.jpg
+    alt:
+      en: "Collapsed gas station canopy with twisted metal supports and scattered debris, photographed through a car window; a partial sign reads \"Clearance 13'6\"\" on the canopy's underside."
 geo:
 id: 27249
 item_type: Still Image

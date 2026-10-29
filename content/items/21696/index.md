@@ -21,6 +21,8 @@ files:
     original_filename: FH000026.jpg
     thumb: /files/thumbnails/14fb29fc60e22314fb29fc60e608.jpg
     url: /files/original/14fb29fc60e22314fb29fc60e608.jpg
+    alt:
+      en: "Single-story white house with boarded windows and dark roof stands in a cleared lot amid storm debris, downed branches, and leafless trees, viewed through a vehicle's windshield and side mirrors."
 geo:
 id: 21696
 item_type: Still Image

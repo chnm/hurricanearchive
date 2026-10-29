@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0058cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efdb209414fb29efdb247a.jpg
     url: /files/original/14fb29efdb209414fb29efdb247a.jpg
+    alt:
+      en: "Interior of a severely damaged commercial building with collapsed ceiling, exposed wiring, and debris-covered floor, an intact vault door visible in the back wall."
 geo:
 id: 23346
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0276-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe2c09b114fb29fe2c0d96.jpg
     url: /files/original/14fb29fe2c09b114fb29fe2c0d96.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses, trees, and a railroad embankment surrounded by brown floodwater, with a pickup truck partially submerged on a street."
 geo:
 id: 21494
 item_type: Still Image

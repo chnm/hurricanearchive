@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28738.jpg
     thumb: /files/thumbnails/14fb2a68d8040314fb2a68d807ea.jpg
     url: /files/original/14fb2a68d8040314fb2a68d807ea.jpg
+    alt:
+      en: "Stacked wire cages overflowing with assorted plastic pet bowls, dishes, and feeding dishes in various colors, piled at the Humane Society Animal Rescue Depot."
 geo:
   address: ''
   lat: 0.0

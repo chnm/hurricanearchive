@@ -21,6 +21,8 @@ files:
     original_filename: 09140007.JPG
     thumb: /files/thumbnails/14fb29e98bda2514fb29e98be075.jpg
     url: /files/original/14fb29e98bda2514fb29e98be075.jpg
+    alt:
+      en: "A debris-covered dirt street lined with small damaged houses, parked cars, and utility poles, with a faded \"SAM'S\" sign visible on a building in the background."
 geo:
 id: 24226
 item_type: Still Image

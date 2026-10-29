@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0133-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a02d7cb9414fb2a02d7d230.jpg
     url: /files/original/14fb2a02d7cb9414fb2a02d7d230.jpg
+    alt:
+      en: "Aerial view of a storm-damaged commercial strip with stripped gas station canopies, a red-roofed Pizza Hut, scattered debris, and surrounding houses with missing or torn roofing."
 geo:
 id: 20851
 item_type: Still Image

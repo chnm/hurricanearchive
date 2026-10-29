@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0224-21.JPG
     thumb: /files/thumbnails/14fb29ff8e2d7b14fb29ff8e3162.jpg
     url: /files/original/14fb29ff8e2d7b14fb29ff8e3162.jpg
+    alt:
+      en: "A person in military-style coveralls and a survival vest climbs through the interior of an aircraft, with cables, metal framing, and a round sticker visible near the cockpit area."
 geo:
 id: 21309
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 2039059476_b8d7bd1983.jpg
     thumb: /files/thumbnails/14fb29cbd1270e14fb29cbd12af4.jpg
     url: /files/original/14fb29cbd1270e14fb29cbd12af4.jpg
+    alt:
+      en: "Black-and-white photo of a gutted house reduced to its wooden frame, with an intact neighboring home and wooden fence beside it, debris scattered on the ground."
 geo:
   address: ''
   lat: 29.97055

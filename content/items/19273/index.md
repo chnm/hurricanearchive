@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0269.JPG
     thumb: /files/thumbnails/14fb2a1165132614fb2a11651725.jpg
     url: /files/original/14fb2a1165132614fb2a11651725.jpg
+    alt:
+      en: "Aerial view of a cruise ship labeled \"ECSTASY\" docked at a riverside port, with a large steel truss bridge spanning the water and a hazy cityscape in the background."
 geo:
 id: 19273
 item_type: Still Image

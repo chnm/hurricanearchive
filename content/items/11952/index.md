@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 074.jpg
     thumb: /files/thumbnails/14fb2a229eb9b514fb2a229ebc32.jpg
     url: /files/original/14fb2a229eb9b514fb2a229ebc32.jpg
+    alt:
+      en: "A lone brick chimney stands amid scattered debris and rubble from a collapsed structure, surrounded by trees and shrubs, with a date stamp reading \"2005/09/24\" in the corner."
 geo:
 id: 11952
 item_type: Still Image

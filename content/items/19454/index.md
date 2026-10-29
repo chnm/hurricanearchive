@@ -21,6 +21,8 @@ files:
     original_filename: Picture 014engineers.jpg
     thumb: /files/thumbnails/14fb2a0fea337d14fb2a0fea388c.jpg
     url: /files/original/14fb2a0fea337d14fb2a0fea388c.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand near heavy construction equipment, including a large tracked vehicle and rusted machinery, with railroad tracks and wooden poles in the foreground under a clear blue sky."
 geo:
 id: 19454
 item_type: Still Image

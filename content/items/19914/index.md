@@ -21,6 +21,8 @@ files:
     original_filename: Picture 010cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c81658114fb2a0c816962.jpg
     url: /files/original/14fb2a0c81658114fb2a0c816962.jpg
+    alt:
+      en: "Hand-painted wooden sign reading \"WARNING Looters to be SHOT!\" posted on a utility pole near storm-damaged trees, with a \"Woodland Dr\" street sign, a \"ONE WAY\" sign, and a \"Little Sisters of the Poor\" entrance sign visible nearby."
 geo:
 id: 19914
 item_type: Still Image

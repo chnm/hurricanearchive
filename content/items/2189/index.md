@@ -26,6 +26,8 @@ files:
     original_filename: e10_70df9c1379.jpg
     thumb: /files/thumbnails/14fb2a6d7bf44514fb2a6d7bf82a.jpg
     url: /files/original/14fb2a6d7bf44514fb2a6d7bf82a.jpg
+    alt:
+      en: "Man in yellow cap and white polo shirt with an American Red Cross lanyard stands smiling before a whiteboard listing feeding sites and a regional map, with folders and papers on a desk in the foreground."
 geo:
   address: ''
   lat: 27.20387

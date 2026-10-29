@@ -21,6 +21,8 @@ files:
     original_filename: P1010182empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed52ff0114fb29ed5302e6.jpg
     url: /files/original/14fb29ed52ff0114fb29ed5302e6.jpg
+    alt:
+      en: "Several boats stranded on debris-strewn land amid a barren, muddy landscape with scattered wreckage, standing water, and a large pipe in the foreground, tree line in the distance."
 geo:
 id: 23741
 item_type: Still Image

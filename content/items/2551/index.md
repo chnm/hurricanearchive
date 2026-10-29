@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8846.jpg
     thumb: /files/thumbnails/14fb2a656418b214fb2a656425c1.jpg
     url: /files/original/14fb2a656418b214fb2a656425c1.jpg
+    alt:
+      en: "Workers in yellow hazmat suits push a wheelbarrow past piles of storm debris in front of damaged houses, one displaying an American flag on its porch."
 geo:
 id: 2551
 item_type: Still Image

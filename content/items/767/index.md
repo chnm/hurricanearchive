@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27890.jpg
     thumb: /files/thumbnails/14fb2a6d31465314fb2a6d314a38.jpg
     url: /files/original/14fb2a6d31465314fb2a6d314a38.jpg
+    alt:
+      en: "Nighttime scene of an American Red Cross Disaster Relief vehicle (unit 2168, New Orleans, LA) with two women standing at its service window as a worker inside hands out food."
 geo:
   address: ''
   lat: 0.0

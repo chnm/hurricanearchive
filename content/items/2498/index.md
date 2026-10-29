@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8590.jpg
     thumb: /files/thumbnails/14fb2a65de463414fb2a65de4a19.jpg
     url: /files/original/14fb2a65de463414fb2a65de4a19.jpg
+    alt:
+      en: "A hand-painted wooden sign reading \"MAY ALL THE CAMPS REST IN PEACE\" nailed to a utility pole with dangling wires, overlooking a storm-damaged waterfront with collapsed pilings and debris."
 geo:
 id: 2498
 item_type: Still Image

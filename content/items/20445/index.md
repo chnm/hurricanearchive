@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016-9-25.JPG
     thumb: /files/thumbnails/14fb2a0725deb814fb2a0725e3e5.jpg
     url: /files/original/14fb2a0725deb814fb2a0725e3e5.jpg
+    alt:
+      en: "A silver GMC Envoy with a \"MARTIN PONTIAC GMC\" license plate frame sits near a damaged chain-link fence, exposed building framing, and scattered debris including insulation and a dislodged HVAC unit overhead."
 geo:
 id: 20445
 item_type: Still Image

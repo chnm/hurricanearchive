@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0164mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2f7430514fb29f2f746ec.jpg
     url: /files/original/14fb29f2f7430514fb29f2f746ec.jpg
+    alt:
+      en: "A uniformed military police officer in camouflage fatigues, cap, and backpack with hydration tube leans toward a car window to speak with the driver, with other vehicles queued at a checkpoint behind him."
 geo:
 id: 22871
 item_type: Still Image

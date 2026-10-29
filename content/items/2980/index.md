@@ -21,6 +21,8 @@ files:
     original_filename: 100_0229.JPG
     thumb: /files/thumbnails/14fb2a5f36102c14fb2a5f361411.jpg
     url: /files/original/14fb2a5f36102c14fb2a5f361411.jpg
+    alt:
+      en: "Damaged metal hangar with torn siding and exposed framing at an aviation museum, surrounded by parked military aircraft, trucks, and equipment under a clear blue sky."
 geo:
 id: 2980
 item_type: Still Image

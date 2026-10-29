@@ -21,6 +21,8 @@ files:
     original_filename: katrina 059.jpg
     thumb: /files/thumbnails/14fb29fbbceaa514fb29fbbcee8c.jpg
     url: /files/original/14fb29fbbceaa514fb29fbbcee8c.jpg
+    alt:
+      en: "Nighttime photo of a man in a tan shirt sitting in a helicopter cockpit, surrounded by instrument panels and wiring, with a timestamp reading \"5 9:51 PM\" in the corner."
 geo:
 id: 21789
 item_type: Still Image

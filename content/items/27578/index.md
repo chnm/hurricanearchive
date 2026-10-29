@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7151_aabcfa3dd1.jpg
     thumb: /files/thumbnails/14fb29d34e908d14fb29d34e93e3.jpg
     url: /files/original/14fb29d34e908d14fb29d34e93e3.jpg
+    alt:
+      en: "Three girls pose smiling in front of flocked white Christmas trees decorated with red and black bows and twinkling lights, dressed in holiday attire including a black dress, a lace dress, and a red sweater with pinstriped skirt."
 geo:
   address: ''
   lat: 29.993

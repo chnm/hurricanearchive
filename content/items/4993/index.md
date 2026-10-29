@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0338.JPG
     thumb: /files/thumbnails/14fb2a54952d8114fb2a54953168.jpg
     url: /files/original/14fb2a54952d8114fb2a54953168.jpg
+    alt:
+      en: "Rows of concrete pilings stand where a house once stood, with wooden steps leading up to nothing; a partially damaged white house with exposed framing stands nearby along a residential street."
 geo:
 id: 4993
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27846.jpg
     thumb: /files/thumbnails/14fb2a6c01306214fb2a6c01344a.jpg
     url: /files/original/14fb2a6c01306214fb2a6c01344a.jpg
+    alt:
+      en: "A white sandbag sits against a stucco wall near a glass door, with its reflection visible in the window pane."
 geo:
   address: ''
   lat: 0.0

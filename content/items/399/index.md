@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0354_d8a7abdcc5.JPG
     thumb: /files/thumbnails/14fb2a701aac1514fb2a701aaff9.jpg
     url: /files/original/14fb2a701aac1514fb2a701aaff9.jpg
+    alt:
+      en: "A water-damaged \"State of Louisiana\" school attendance certificate under cracked glass in a metal frame, with mold, rust stains, and bubbled, peeling paper obscuring most of the text."
 geo:
   address: ''
   lat: 30.3017606863207

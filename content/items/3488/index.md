@@ -24,6 +24,8 @@ files:
     original_filename: P1010062.JPG
     thumb: /files/thumbnails/14fb2a5b82b07f14fb2a5b82b465.jpg
     url: /files/original/14fb2a5b82b07f14fb2a5b82b465.jpg
+    alt:
+      en: "A narrow, dark hallway with mold-stained walls and a door, cluttered with debris and a blue tarp, leading into a dim, flooded interior space."
 geo:
 id: 3488
 item_type: Still Image

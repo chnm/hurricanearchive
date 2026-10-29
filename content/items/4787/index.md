@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0099.JPG
     thumb: /files/thumbnails/14fb2a5593867514fb2a55938a5a.jpg
     url: /files/original/14fb2a5593867514fb2a55938a5a.jpg
+    alt:
+      en: "Collapsed roof structure with white fascia boards and broken framing, covered in dried pine needles and debris, surrounded by scattered leaves and fallen branches on the ground."
 geo:
 id: 4787
 item_type: Still Image

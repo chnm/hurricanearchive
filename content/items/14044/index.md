@@ -21,6 +21,8 @@ files:
     original_filename: 20050928021.JPG
     thumb: /files/thumbnails/14fb2a1c0c60f314fb2a1c0c64d9.jpg
     url: /files/original/14fb2a1c0c60f314fb2a1c0c64d9.jpg
+    alt:
+      en: "Interior of a large warehouse with exposed steel framing, stacked cardboard boxes and water bottles, a bicycle parked near a table, and two people in military-style uniforms near a desk."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0077-18.JPG
     thumb: /files/thumbnails/14fb2a0a2a629714fb2a0a2a667d.jpg
     url: /files/original/14fb2a0a2a629714fb2a0a2a667d.jpg
+    alt:
+      en: "Soldier in camouflage uniform and sunglasses reaching to close the door of a military Humvee, with floodwaters and trees visible in the background."
 geo:
 id: 20274
 item_type: Still Image

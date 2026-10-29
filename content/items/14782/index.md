@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_KyraBowens_01_145be61006.jpg
     thumb: /files/thumbnails/14fb2a17c1490b14fb2a17c14f0c.jpg
     url: /files/original/14fb2a17c1490b14fb2a17c14f0c.jpg
+    alt:
+      en: "Three young girls stand smiling on a brick walkway in front of a low brick wall, two wearing matching tan outfits with \"gap\" logos and one in a white top and blue skirt, all with decorative hair bows."
 geo:
 id: 14782
 item_type: Still Image

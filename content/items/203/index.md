@@ -26,6 +26,8 @@ files:
     original_filename: DSC00539_a64a66db4b.JPG
     thumb: /files/thumbnails/14fb2a708eff9314fb2a708f0ca1.jpg
     url: /files/original/14fb2a708eff9314fb2a708f0ca1.jpg
+    alt:
+      en: "A convenience store with glass double doors and a blue-trimmed roof, its large white ice machine displaced into the debris-strewn parking lot by storm winds."
 geo:
   address: ''
   lat: 29.9380521962303

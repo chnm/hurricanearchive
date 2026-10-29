@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28768.jpg
     thumb: /files/thumbnails/14fb2a6783cb2714fb2a6783cfaa.jpg
     url: /files/original/14fb2a6783cb2714fb2a6783cfaa.jpg
+    alt:
+      en: "A tall white water tower reading \"Lamar-Dixon Expo Center\" rises above a fenced field with tents, power lines, and low buildings under a clear sky."
 geo:
   address: ''
   lat: 0.0

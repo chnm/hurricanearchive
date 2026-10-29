@@ -21,6 +21,8 @@ files:
     original_filename: 09240019rita.JPG
     thumb: /files/thumbnails/14fb2a0eb094e814fb2a0eb098ce.jpg
     url: /files/original/14fb2a0eb094e814fb2a0eb098ce.jpg
+    alt:
+      en: "Collapsed blue-and-white and red-and-white striped tents lie deflated beside a Ryder box truck, with an overturned yellow dumpster and gravel road in the foreground under overcast skies."
 geo:
 id: 19618
 item_type: Still Image

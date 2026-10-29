@@ -21,6 +21,8 @@ files:
     original_filename: aerials59.jpg
     thumb: /files/thumbnails/14fb2a19b2863814fb2a19b28d04.jpg
     url: /files/original/14fb2a19b2863814fb2a19b28d04.jpg
+    alt:
+      en: "Aerial view of a collapsed bridge or elevated roadway along a shoreline, with debris scattered across the sand and partially submerged in the water below."
 geo:
 id: 14348
 item_type: Still Image

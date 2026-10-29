@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea06841f14fb29ea068806.jpg
     url: /files/original/14fb29ea06841f14fb29ea068806.jpg
+    alt:
+      en: "A military front-loader tractor clears thick mud from a flooded residential street, with a mud-caked SUV stuck nearby and a brick house marked with a spray-painted search-and-rescue X in the background."
 geo:
 id: 24179
 item_type: Still Image

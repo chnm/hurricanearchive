@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2112superdome.JPG
     thumb: /files/thumbnails/14fb29e4b6635e14fb29e4b6b16a.jpg
     url: /files/original/14fb29e4b6635e14fb29e4b6b16a.jpg
+    alt:
+      en: "Two men converse in a dimly lit interior space, one wearing a camouflage military uniform and cap, the other in a white jacket with round glasses."
 geo:
 id: 24790
 item_type: Still Image

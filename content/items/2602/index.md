@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9538.jpg
     thumb: /files/thumbnails/14fb2a644a508014fb2a644a5464.jpg
     url: /files/original/14fb2a644a508014fb2a644a5464.jpg
+    alt:
+      en: "A mattress labeled \"Big Ben\" hangs impaled on a wooden utility pole tangled with loose wires, with storm-damaged houses and bare trees visible in the background under a clear blue sky."
 geo:
 id: 2602
 item_type: Still Image

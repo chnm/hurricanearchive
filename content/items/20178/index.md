@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0008.JPG
     thumb: /files/thumbnails/14fb2a0aeda37914fb2a0aeda75e.jpg
     url: /files/original/14fb2a0aeda37914fb2a0aeda75e.jpg
+    alt:
+      en: "Silhouetted figures wearing helmets, one with a flag patch, in the foreground against a sky filled with clouds, with a green landscape visible below."
 geo:
 id: 20178
 item_type: Still Image

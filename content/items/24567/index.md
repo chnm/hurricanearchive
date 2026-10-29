@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0118-21-2.JPG
     thumb: /files/thumbnails/14fb29e691895914fb29e6918d3e.jpg
     url: /files/original/14fb29e691895914fb29e6918d3e.jpg
+    alt:
+      en: "Four people in military camouflage uniforms gather around a desk area with computer equipment and storage bins, set against a blue tiled wall with posted notices."
 geo:
 id: 24567
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023-20.JPG
     thumb: /files/thumbnails/14fb2a06c3120114fb2a06c31671.jpg
     url: /files/original/14fb2a06c3120114fb2a06c31671.jpg
+    alt:
+      en: "A soldier in U.S. Army camouflage uniform with \"ELLIS\" nametag holds a styrofoam takeout container while reaching toward a dessert table under a tent, with cookies, brownies, and other baked goods displayed on checkered tablecloths."
 geo:
 id: 20493
 item_type: Still Image

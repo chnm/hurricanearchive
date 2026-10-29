@@ -23,6 +23,8 @@ files:
     original_filename: Baday_e8f3169843.JPG
     thumb: /files/thumbnails/14fb29c1d1a7c114fb29c1d1aba7.jpg
     url: /files/original/14fb29c1d1a7c114fb29c1d1aba7.jpg
+    alt:
+      en: "Sideways photo of weathered wooden houses with damaged siding and a utility pole with sagging lines, set against a sky streaked with pink and orange clouds at dusk."
 geo:
   address: 4820 lAKE cOMO AVE
   lat: 29.76438

@@ -21,6 +21,8 @@ files:
     original_filename: FH000017-9-23.jpg
     thumb: /files/thumbnails/14fb29fc690b6e14fb29fc690f61.jpg
     url: /files/original/14fb29fc690b6e14fb29fc690f61.jpg
+    alt:
+      en: "A large fallen tree trunk crushes a silver pickup truck and a dark sedan parked in a lot, with freshly cut log sections scattered nearby and houses visible in the background."
 geo:
 id: 21689
 item_type: Still Image

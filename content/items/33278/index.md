@@ -20,6 +20,8 @@ files:
     original_filename: Shattered _2c5b6ba399.JPG
     thumb: /files/thumbnails/14fb29cb04aec214fb29cb04b2a2.jpg
     url: /files/original/14fb29cb04aec214fb29cb04b2a2.jpg
+    alt:
+      en: "Sepia-toned close-up of a wood-sided building's windows, several panes shattered with jagged glass remaining, lace curtains visible through the broken openings."
 geo:
   address: Lakeview
   lat: 29.53523

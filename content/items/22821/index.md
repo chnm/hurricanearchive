@@ -21,6 +21,8 @@ files:
     original_filename: S430023117thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f35b9d3414fb29f35ba119.jpg
     url: /files/original/14fb29f35b9d3414fb29f35ba119.jpg
+    alt:
+      en: "Wide, choppy canal filled to the top of a tan concrete floodwall, with trees lining the far bank and brush along the near shore under an overcast sky."
 geo:
 id: 22821
 item_type: Still Image

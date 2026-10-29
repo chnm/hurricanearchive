@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (47).JPG
     thumb: /files/thumbnails/14fb2a5d6063fb14fb2a5d6067e3.jpg
     url: /files/original/14fb2a5d6063fb14fb2a5d6067e3.jpg
+    alt:
+      en: "A small blue shotgun-style house with ornate wooden trim stands amid storm debris, fallen branches, and a damaged white picket fence, with trees surrounding the property."
 geo:
 id: 3197
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7464.JPG
     thumb: /files/thumbnails/14fb29cc98b09114fb29cc98b47f.jpg
     url: /files/original/14fb29cc98b09114fb29cc98b47f.jpg
+    alt:
+      en: "View through a car's dusty windshield of a narrow road blocked by a fallen tree and debris, with dense trees lining both sides; dashboard clock reads 12:55."
 geo:
 id: 30751
 item_type: Still Image

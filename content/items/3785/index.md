@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 065.jpg
     thumb: /files/thumbnails/14fb2a59a08c2114fb2a59a09007.jpg
     url: /files/original/14fb2a59a08c2114fb2a59a09007.jpg
+    alt:
+      en: "Storm-damaged house with a partially collapsed porch roof and debris-filled yard, a large motorboat deposited amid wreckage, and bare, broken trees under a clear sky."
 geo:
 id: 3785
 item_type: Still Image

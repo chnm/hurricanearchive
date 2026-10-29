@@ -21,6 +21,8 @@ files:
     original_filename: MVC-025S.JPG
     thumb: /files/thumbnails/14fb2a5f8a602614fb2a5f8a6413.jpg
     url: /files/original/14fb2a5f8a602614fb2a5f8a6413.jpg
+    alt:
+      en: "A bent, curved metal object resembling a damaged vent or duct piece rests on a plywood board, with a handwritten paper tag attached, labeled with partially legible text."
 geo:
 id: 2936
 item_type: Still Image

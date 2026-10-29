@@ -18,6 +18,8 @@ files:
     original_filename: 13_930f259123.jpg
     thumb: /files/thumbnails/14fb29c73ab35d14fb29c73ab472.jpg
     url: /files/original/14fb29c73ab35d14fb29c73ab472.jpg
+    alt:
+      en: "A woman poses in a flapper-style white fringed dress and large pink wing-shaped costume attachment, standing in a doorway with arms outstretched, wearing stockings and strappy heels."
 geo:
   address: new orleans, la
   lat: 29.95324

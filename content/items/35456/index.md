@@ -21,6 +21,8 @@ files:
     original_filename: 1968 Storyland Entrance City Park_530942ec47.jpg
     thumb: /files/thumbnails/14fb29c5f117d814fb29c5f11be1.jpg
     url: /files/original/14fb29c5f117d814fb29c5f11be1.jpg
+    alt:
+      en: "Whimsical entrance to Children's Storyland featuring a giant shoe-shaped building with a shingled roof, beside a blue \"Children's Storyland\" sign and an open-book display listing visiting hours."
 geo:
   address: 6048 Canal Blvd. New Orleans, LA
   lat: 29.99523

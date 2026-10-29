@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9238.jpg
     thumb: /files/thumbnails/14fb2a60f2249314fb2a60f24944.jpg
     url: /files/original/14fb2a60f2249314fb2a60f24944.jpg
+    alt:
+      en: "Collapsed roof structure of Cameron Elementary School auditorium, with exposed steel beams and rafters standing over a pile of rubble and cinder blocks; a water tower reading \"Cameron\" is visible in the background."
 geo:
 id: 2662
 item_type: Still Image

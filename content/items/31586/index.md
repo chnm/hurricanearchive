@@ -21,6 +21,8 @@ files:
     original_filename: 112306NOLA083RWlg_5f111c81dd.jpg
     thumb: /files/thumbnails/14fb29cc2b2ba614fb29cc2b2f8d.jpg
     url: /files/original/14fb29cc2b2ba614fb29cc2b2f8d.jpg
+    alt:
+      en: "A jockey in uniform leans against a wooden wall, holding a riding helmet, while whips and racing gear hang nearby; text reads \"2006 © Craig Morse · Culture:Subculture Photography.\""
 geo:
 id: 31586
 item_type: Still Image

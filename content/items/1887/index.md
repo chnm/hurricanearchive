@@ -26,6 +26,8 @@ files:
     original_filename: 03062006_091457am_23ff06093a.jpg
     thumb: /files/thumbnails/14fb2a6e6d5d8b14fb2a6e6d60f6.jpg
     url: /files/original/14fb2a6e6d5d8b14fb2a6e6d60f6.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood in Port Sulphur, Louisiana, with rooftops and treetops rising above widespread floodwater; a red \"X\" marks one house near the center."
 geo:
   address: ''
   lat: 29.502725

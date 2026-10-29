@@ -21,6 +21,8 @@ files:
     original_filename: MVC-015S.JPG
     thumb: /files/thumbnails/14fb2a5ff126e614fb2a5ff12acb.jpg
     url: /files/original/14fb2a5ff126e614fb2a5ff12acb.jpg
+    alt:
+      en: "Large jet engine and a missile or practice bomb mounted on wheeled dollies outside a building, surrounded by scattered debris including a red tarp and damaged metal panels."
 geo:
 id: 2824
 item_type: Still Image

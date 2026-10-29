@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6520_d4489eda9e.jpg
     thumb: /files/thumbnails/14fb29d3d650db14fb29d3d654c0.jpg
     url: /files/original/14fb29d3d650db14fb29d3d654c0.jpg
+    alt:
+      en: "A man in a white shirt and gold tie stands beside a woman in a light dress adjusting his collar, with a white tiered wedding cake and framed pictures in the background."
 geo:
   address: ''
   lat: 29.91685

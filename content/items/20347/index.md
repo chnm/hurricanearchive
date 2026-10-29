@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0896b5b714fb2a0896b99c.jpg
     url: /files/original/14fb2a0896b5b714fb2a0896b99c.jpg
+    alt:
+      en: "Man with a backwards cap and long hair wears a blue plaid shirt and a \"PRESS\" ID badge on a lanyard, sitting outdoors near a military-style vehicle in dim light."
 geo:
 id: 20347
 item_type: Still Image

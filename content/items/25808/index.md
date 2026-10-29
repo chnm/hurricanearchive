@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-5815_4b986f9db5.jpg
     thumb: /files/thumbnails/14fb29dc1581af14fb29dc1588da.jpg
     url: /files/original/14fb29dc1581af14fb29dc1588da.jpg
+    alt:
+      en: "Four people stand indoors for a photo; two women wear white blouses with red corset belts and striped skirts, a man in a polo shirt stands between them, and Bertin Esteves, Jr. stands at right in a white suit with red trim and a black hat."
 geo:
 id: 25808
 item_type: Still Image

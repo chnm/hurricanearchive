@@ -26,6 +26,8 @@ files:
     original_filename: Rita_2002_96aaf61453.jpg
     thumb: /files/thumbnails/14fb2a6fb8747f14fb2a6fb8785b.jpg
     url: /files/original/14fb2a6fb8747f14fb2a6fb8785b.jpg
+    alt:
+      en: "A yellow house with a screened porch stands amid muddy, flood-damaged ground and bare trees, its reflection visible in a large standing puddle out front."
 geo:
   address: ''
   lat: 29.4061050557093

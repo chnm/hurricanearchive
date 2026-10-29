@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012-15.JPG
     thumb: /files/thumbnails/14fb2a07d0cc9614fb2a07d13e20.jpg
     url: /files/original/14fb2a07d0cc9614fb2a07d13e20.jpg
+    alt:
+      en: "Aerial view from an aircraft window showing a green, tree-covered landscape below, with a dark silhouetted shoulder bearing an American flag patch framing the shot."
 geo:
 id: 20412
 item_type: Still Image

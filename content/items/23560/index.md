@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0182abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eed75b4714fb29eed92977.jpg
     url: /files/original/14fb29eed75b4714fb29eed92977.jpg
+    alt:
+      en: "Two men walk past a storm-damaged house surrounded by standing floodwater and debris, including a displaced air conditioning unit and scattered bricks, with the building's siding torn away."
 geo:
 id: 23560
 item_type: Still Image

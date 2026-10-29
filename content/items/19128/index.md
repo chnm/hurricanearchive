@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 038.jpg
     thumb: /files/thumbnails/14fb2a12d371e214fb2a12d379e6.jpg
     url: /files/original/14fb2a12d371e214fb2a12d379e6.jpg
+    alt:
+      en: "Close-up of a woodland-pattern camouflage military uniform sleeve with a shoulder patch depicting two wolf or dog heads in olive-toned embroidery, \"ARMY\" tape visible at lower left."
 geo:
 id: 19128
 item_type: Still Image

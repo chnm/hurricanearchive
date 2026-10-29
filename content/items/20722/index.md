@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064H.JPG
     thumb: /files/thumbnails/14fb2a0452de3414fb2a0453384d.jpg
     url: /files/original/14fb2a0452de3414fb2a0453384d.jpg
+    alt:
+      en: "Nighttime photo of a woman in a white tank top and orange skirt laughing beside a man in a gray T-shirt looking down, with a Michelob Ultra beer can in the foreground."
 geo:
 id: 20722
 item_type: Still Image

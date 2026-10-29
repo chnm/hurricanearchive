@@ -21,6 +21,8 @@ files:
     original_filename: I-10 & I- 510 Interchange looking South.jpg
     thumb: /files/thumbnails/14fb29fb53738014fb29fb537702.jpg
     url: /files/original/14fb29fb53738014fb29fb537702.jpg
+    alt:
+      en: "Aerial view of the flooded I-10/I-510 highway interchange, with elevated roadways rising above extensive standing floodwater and submerged surrounding terrain."
 geo:
 id: 21867
 item_type: Still Image

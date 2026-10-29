@@ -21,6 +21,8 @@ files:
     original_filename: S4300175stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece64c5514fb29ece65031.jpg
     url: /files/original/14fb29ece64c5514fb29ece65031.jpg
+    alt:
+      en: "Damaged blue house with a spray-painted search and rescue \"X\" marking reading \"9-15\" and \"IL-1,\" debris piled against the front porch, and a dark front door."
 geo:
 id: 23836
 item_type: Still Image

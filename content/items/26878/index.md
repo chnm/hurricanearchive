@@ -21,6 +21,8 @@ files:
     original_filename: KJ Snow 2  64-04_333bba621c.jpg
     thumb: /files/thumbnails/14fb29d6cbddc314fb29d6cbe1b1.jpg
     url: /files/original/14fb29d6cbddc314fb29d6cbe1b1.jpg
+    alt:
+      en: "Black-and-white photo of a single-story brick home with a wreath on the front door, shrubs along the facade, and a light dusting of snow on the lawn and driveway."
 geo:
   address: ''
   lat: 29.91685

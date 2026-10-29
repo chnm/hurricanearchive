@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0147abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef27718514fb29ef277574.jpg
     url: /files/original/14fb29ef27718514fb29ef277574.jpg
+    alt:
+      en: "Floodwater covers a field and roadway, with scattered debris—including concrete blocks, metal fragments, and a dumpster—partially submerged; bare trees line the horizon under an overcast sky."
 geo:
 id: 23511
 item_type: Still Image

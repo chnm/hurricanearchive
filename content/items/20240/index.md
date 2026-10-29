@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140014.JPG
     thumb: /files/thumbnails/14fb2a0a801cbb14fb2a0a8020a1.jpg
     url: /files/original/14fb2a0a801cbb14fb2a0a8020a1.jpg
+    alt:
+      en: "A large uprooted tree lies toppled across a yard in front of a blue house, its exposed root ball visible beside a leaning utility pole and debris-strewn street."
 geo:
 id: 20240
 item_type: Still Image

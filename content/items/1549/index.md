@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28529.jpg
     thumb: /files/thumbnails/14fb2a680ce72014fb2a680ceb06.jpg
     url: /files/original/14fb2a680ce72014fb2a680ceb06.jpg
+    alt:
+      en: "Two men stand on a street in downtown New Orleans, one holding an open pizza box, beside a yellow and red cart reading \"Now Hiring\" and \"Now Open,\" with a construction excavator in the background."
 geo:
   address: ''
   lat: 0.0

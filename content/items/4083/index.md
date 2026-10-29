@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0981.JPG
     thumb: /files/thumbnails/14fb2a57fcfebe14fb2a57fd3a96.jpg
     url: /files/original/14fb2a57fcfebe14fb2a57fd3a96.jpg
+    alt:
+      en: "Overturned truck and tipped U-Haul trailer litter a debris-strewn street, with median trees stripped bare and a Toyota dealership and Exxon station visible in the background."
 geo:
 id: 4083
 item_type: Still Image

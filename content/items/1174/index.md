@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28688.jpg
     thumb: /files/thumbnails/14fb2a6aac333814fb2a6aac3714.jpg
     url: /files/original/14fb2a6aac333814fb2a6aac3714.jpg
+    alt:
+      en: "Row of metal stall partitions housing horses, each with a fan clipped to the gate and numbered index cards attached, inside a covered barn at the animal rescue depot."
 geo:
   address: ''
   lat: 0.0

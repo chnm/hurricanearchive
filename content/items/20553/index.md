@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033-20.JPG
     thumb: /files/thumbnails/14fb2a0636d89814fb2a0636dc76.jpg
     url: /files/original/14fb2a0636d89814fb2a0636dc76.jpg
+    alt:
+      en: "Three people wearing gray \"Danny's Cajun Catering, White Castle, La.\" T-shirts stand under a tent, photographed through a reflective or layered glass surface creating overlapping, distorted images."
 geo:
 id: 20553
 item_type: Still Image

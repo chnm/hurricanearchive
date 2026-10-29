@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2169rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13ca7ba514fb2a13ca7f8b.jpg
     url: /files/original/14fb2a13ca7ba514fb2a13ca7f8b.jpg
+    alt:
+      en: "Three crew members in helmets and military-style vests and jackets stand inside a helicopter cabin, one helmet bearing a skull-and-crossed-swords patch and a smiley face patch."
 geo:
 id: 19004
 item_type: Still Image

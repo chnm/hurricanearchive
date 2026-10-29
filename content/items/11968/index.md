@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 015.jpg
     thumb: /files/thumbnails/14fb2a228531ee14fb2a228543b8.jpg
     url: /files/original/14fb2a228531ee14fb2a228543b8.jpg
+    alt:
+      en: "Four men in camouflage and sunglasses relax on office chairs around a wooden table on grass, with a chain-link fence, tents, and an American flag visible in the background."
 geo:
 id: 11968
 item_type: Still Image

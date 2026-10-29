@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0105-21.JPG
     thumb: /files/thumbnails/14fb29e73ee97a14fb29e73eed5f.jpg
     url: /files/original/14fb29e73ee97a14fb29e73eed5f.jpg
+    alt:
+      en: "A man in military camouflage uniform holds a cell phone to his ear behind a laptop computer, while other uniformed personnel work at desks in the background."
 geo:
 id: 24496
 item_type: Still Image

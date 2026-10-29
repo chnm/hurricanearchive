@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28342.jpg
     thumb: /files/thumbnails/14fb2a6ca7b2b714fb2a6ca7b880.jpg
     url: /files/original/14fb2a6ca7b2b714fb2a6ca7b880.jpg
+    alt:
+      en: "Severely damaged multi-story building with exposed steel framing and collapsed brick arch, signs reading \"COLDEST BEER\" and \"BARTENDER\" still attached amid storm debris and a bare tree."
 geo:
   address: ''
   lat: 0.0

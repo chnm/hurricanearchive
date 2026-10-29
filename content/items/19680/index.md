@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 067cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e6d6a2814fb2a0e6d6e0e.jpg
     url: /files/original/14fb2a0e6d6a2814fb2a0e6d6e0e.jpg
+    alt:
+      en: "Large building with red roof and turrets shows storm damage, including torn roofing and shattered glass panels, viewed through a chain-link fence across an overgrown field."
 geo:
 id: 19680
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1144Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f750791114fb29f7508972.jpg
     url: /files/original/14fb29f750791114fb29f7508972.jpg
+    alt:
+      en: "Two cars nearly submerged in murky floodwater, only their rooftops and upper windows visible, with fallen tree branches overhanging the scene in the background."
 geo:
 id: 22331
 item_type: Still Image

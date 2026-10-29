@@ -21,6 +21,8 @@ files:
     original_filename: collapsed1.jpg
     thumb: /files/thumbnails/14fb2a208e538614fb2a208e63fb.jpg
     url: /files/original/14fb2a208e538614fb2a208e63fb.jpg
+    alt:
+      en: "A collapsed building with twisted metal framing and scattered debris stands amid heavy rain and fog, with a bent light pole curved to the ground in the foreground."
 geo:
 id: 13075
 item_type: Still Image

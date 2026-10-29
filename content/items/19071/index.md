@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1893.JPG
     thumb: /files/thumbnails/14fb2a1368e10c14fb2a1368e433.jpg
     url: /files/original/14fb2a1368e10c14fb2a1368e433.jpg
+    alt:
+      en: "Aerial view from inside a helicopter, marked \"EMERGENCY\" on its door frame, looking down on a riverside complex with large parking lots, buildings, a docked riverboat, and a wooded landscape with a distant flooded neighborhood."
 geo:
 id: 19071
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-19-17A.jpg
     thumb: /files/thumbnails/14fb29e8a470dd14fb29e8a472f4.jpg
     url: /files/original/14fb29e8a470dd14fb29e8a472f4.jpg
+    alt:
+      en: "Large pile of broken bricks and debris in front of a brick building with a garage door reading \"827-29, DO NOT BLOCK THIS DRIVEWAY, YOU WILL BE TOWED!\""
 geo:
 id: 24343
 item_type: Still Image

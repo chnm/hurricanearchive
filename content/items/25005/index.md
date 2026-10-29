@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1527superdome.JPG
     thumb: /files/thumbnails/14fb29e30017e014fb29e3001bc4.jpg
     url: /files/original/14fb29e30017e014fb29e3001bc4.jpg
+    alt:
+      en: "A group of men, including a man in an NOPD cap labeled \"SUPERINTENDENT E. COMPASS\" and military personnel in camouflage uniforms, descend a wooden staircase outside a building."
 geo:
 id: 25005
 item_type: Still Image

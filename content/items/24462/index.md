@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0098H.JPG
     thumb: /files/thumbnails/14fb29e789537414fb29e7895759.jpg
     url: /files/original/14fb29e789537414fb29e7895759.jpg
+    alt:
+      en: "Men in military camouflage uniforms perform push-ups indoors on a wooden floor, as other soldiers and women in \"Hooters\" tank tops and orange shorts look on."
 geo:
 id: 24462
 item_type: Still Image

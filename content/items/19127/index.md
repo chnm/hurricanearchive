@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 037.jpg
     thumb: /files/thumbnails/14fb2a12d4e23614fb2a12d4e61b.jpg
     url: /files/original/14fb2a12d4e23614fb2a12d4e61b.jpg
+    alt:
+      en: "Close-up of a woodland camouflage uniform sleeve bearing a shield-shaped patch with a mountain, sunburst, crossed rifles, and a wavy stripe, with a sergeant's chevron insignia visible nearby."
 geo:
 id: 19127
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 144cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b918c2f14fb2a0b91900a.jpg
     url: /files/original/14fb2a0b918c2f14fb2a0b91900a.jpg
+    alt:
+      en: "Large military-style truck drives on a debris-strewn road beside a guardrail, with elevated highway overpasses and power lines in the background under a partly cloudy sky."
 geo:
 id: 20047
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1938superdome.JPG
     thumb: /files/thumbnails/14fb29e07f032c14fb29e07f0a30.jpg
     url: /files/original/14fb29e07f032c14fb29e07f0a30.jpg
+    alt:
+      en: "A tandem-rotor military helicopter flies over a rooftop parking deck marked with a yellow circle, with stacked water bottle pallets nearby and the \"Delgado Community College\" building visible in the hazy background."
 geo:
 id: 25240
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0001_1c683c3c1b.jpg
     thumb: /files/thumbnails/14fb29c2716e1a14fb29c27171f1.jpg
     url: /files/original/14fb29c2716e1a14fb29c27171f1.jpg
+    alt:
+      en: "Black-and-white photo of weathered above-ground tombs in St. Louis Cemetery, New Orleans, with a white cross and a marble vault inscribed \"Capt. Joseph C..., Born May 28, 1880.\""
 geo:
 id: 43082
 item_type: Still Image

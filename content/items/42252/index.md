@@ -23,6 +23,8 @@ files:
     original_filename: farrar2_d915673de3.JPG
     thumb: /files/thumbnails/14fb29c2a3b26014fb29c2a3c509.jpg
     url: /files/original/14fb29c2a3b26014fb29c2a3c509.jpg
+    alt:
+      en: "Rough, foamy surf churns under an overcast sky, with the remains of a damaged pier visible offshore and storm debris scattered along the vegetated shoreline in the foreground."
 geo:
   address: ''
   lat: 0.0

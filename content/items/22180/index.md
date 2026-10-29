@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0403Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f93912b814fb29f939169e.jpg
     url: /files/original/14fb29f93912b814fb29f939169e.jpg
+    alt:
+      en: "A woman in a black shirt and red skirt talks with a man in a military flight suit and camouflage cap on a grassy area, with brick barracks buildings and parked vehicles in the background."
 geo:
 id: 22180
 item_type: Still Image

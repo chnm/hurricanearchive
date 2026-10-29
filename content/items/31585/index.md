@@ -21,6 +21,8 @@ files:
     original_filename: 073007NOLA44RWlg_34e55def2c.jpg
     thumb: /files/thumbnails/14fb29cc2d043014fb29cc2d081f.jpg
     url: /files/original/14fb29cc2d043014fb29cc2d081f.jpg
+    alt:
+      en: "A row of white travel trailers lines a dirt road beneath utility poles and power lines at dusk, with trees silhouetted in the background under a darkening sky."
 geo:
 id: 31585
 item_type: Still Image

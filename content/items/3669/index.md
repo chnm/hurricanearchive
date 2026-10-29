@@ -24,6 +24,8 @@ files:
     original_filename: P1010106.JPG
     thumb: /files/thumbnails/14fb2a5a340f7814fb2a5a34135e.jpg
     url: /files/original/14fb2a5a340f7814fb2a5a34135e.jpg
+    alt:
+      en: "Storm-damaged storefront reading \"Food Pharmacy\" in large red letters, with the building's facade torn away above to expose a metal framework, leaving some letters crooked and dangling."
 geo:
 id: 3669
 item_type: Still Image

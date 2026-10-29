@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-22-20Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e5563aab14fb29e5563e90.jpg
     url: /files/original/14fb29e5563aab14fb29e5563e90.jpg
+    alt:
+      en: "Silhouette of a twin-rotor military helicopter (CH-47 Chinook) in flight against a pale sky gradating from white to blue."
 geo:
 id: 24727
 item_type: Still Image

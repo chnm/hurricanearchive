@@ -26,6 +26,8 @@ files:
     original_filename: DSC00050_0d8581647e.JPG
     thumb: /files/thumbnails/14fb2a6db6630314fb2a6db6671f.jpg
     url: /files/original/14fb2a6db6630314fb2a6db6671f.jpg
+    alt:
+      en: "Sideways photo of street signs reading \"La Fontaine St\" and \"Washington Ave\" alongside a red STOP sign, with orange-and-white barricades and debris-strewn, leafless trees in the background."
 geo:
   address: ''
   lat: 30.4062663463962

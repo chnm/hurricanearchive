@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a06407ec814fb2a064082b9.jpg
     url: /files/original/14fb2a06407ec814fb2a064082b9.jpg
+    alt:
+      en: "A red International Harvester \"Turbo\" tractor carries three men through a flooded roadway lined with trees and brush, with muddy water rippling around its wheels."
 geo:
 id: 20547
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 085cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e5433ac14fb2a0e543791.jpg
     url: /files/original/14fb2a0e5433ac14fb2a0e543791.jpg
+    alt:
+      en: "Dark interior view from inside a vehicle showing the dashboard, air vent, and steering column, with a partial glimpse through the window of trees, grass, and a sign reading \"05 06.\""
 geo:
 id: 19698
 item_type: Still Image

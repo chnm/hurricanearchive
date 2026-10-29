@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0289.JPG
     thumb: /files/thumbnails/14fb2a54d1a35614fb2a54d1a709.jpg
     url: /files/original/14fb2a54d1a35614fb2a54d1a709.jpg
+    alt:
+      en: "Collapsed ceiling exposing damaged insulation, wooden beams, and torn CertainTeed-branded material, with a window and partially demolished drywall visible below."
 geo:
 id: 4947
 item_type: Still Image

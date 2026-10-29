@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28668.jpg
     thumb: /files/thumbnails/14fb2a6b541e2014fb2a6b542204.jpg
     url: /files/original/14fb2a6b541e2014fb2a6b542204.jpg
+    alt:
+      en: "A woman in a blue shirt holds the lead rope of a dark horse standing in an indoor aisle lined with animal stalls at the rescue facility."
 geo:
   address: ''
   lat: 0.0

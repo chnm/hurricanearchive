@@ -21,6 +21,8 @@ files:
     original_filename: 4_d5a56ac8af.jpg
     thumb: /files/thumbnails/14fb29c5fa05aa14fb29c5fa2eaa.jpg
     url: /files/original/14fb29c5fa05aa14fb29c5fa2eaa.jpg
+    alt:
+      en: "Black-and-white newspaper photo of a football game action shot, signed in black marker \"To Jack Dempsey's Great Seafood! Tom Dempsey,\" with a caption describing his record 63-yard field goal, Nov. 8, 1970."
 geo:
   address: 738 poland ave, new orleans, la
   lat: 29.96118

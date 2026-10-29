@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1146Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f74d166c14fb29f74d1a44.jpg
     url: /files/original/14fb29f74d166c14fb29f74d1a44.jpg
+    alt:
+      en: "Nearly submerged red car with only its roof visible above murky floodwater, water rippling and splashing around the exposed metal surface."
 geo:
 id: 22333
 item_type: Still Image

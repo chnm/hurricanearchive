@@ -20,6 +20,8 @@ files:
     original_filename: 2421696456_35f3ee8c68.
     thumb: /files/thumbnails/14fb29c903be5814fb29c903c0b1.jpg
     url: /files/original/14fb29c903be5814fb29c903c0b1.jpg
+    alt:
+      en: "A weathered wooden shed with a rusted metal roof and patched walls stands amid overgrown trees and scattered debris, with a plastic chair and table nearby."
 geo:
 id: 34738
 item_type: Still Image

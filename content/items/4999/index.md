@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0344.JPG
     thumb: /files/thumbnails/14fb2a5487b6e814fb2a5487bb20.jpg
     url: /files/original/14fb2a5487b6e814fb2a5487bb20.jpg
+    alt:
+      en: "Skeletal wooden framing is all that remains of a destroyed house, surrounded by scattered debris including an air conditioning unit, appliances, and piping, with tall trees in the background."
 geo:
 id: 4999
 item_type: Still Image

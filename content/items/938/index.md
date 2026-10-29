@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27898.jpg
     thumb: /files/thumbnails/14fb2a6c15519414fb2a6c155571.jpg
     url: /files/original/14fb2a6c15519414fb2a6c155571.jpg
+    alt:
+      en: "Two men stand beside a black-and-white Houma Police patrol car marked \"Police\" and \"City of Houma,\" parked on a residential street with other vehicles and houses in the background."
 geo:
   address: ''
   lat: 0.0

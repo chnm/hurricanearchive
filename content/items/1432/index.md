@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28430.jpg
     thumb: /files/thumbnails/14fb2a68c7d18a14fb2a68c7d632.jpg
     url: /files/original/14fb2a68c7d18a14fb2a68c7d632.jpg
+    alt:
+      en: "Barren, storm-damaged trees stand beside a debris-strewn road with faded blue text reading \"WAVELAND AVE\" painted on the pavement, a fire hydrant in the foreground, and remnants of a collapsed structure nearby."
 geo:
   address: ''
   lat: 0.0

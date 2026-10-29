@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eb29da7214fb29eb29de18.jpg
     url: /files/original/14fb29eb29da7214fb29eb29de18.jpg
+    alt:
+      en: "Aerial view of a flooded marshland with scattered debris, downed power lines, and three large white cylindrical tanks lying on their sides amid the standing water."
 geo:
 id: 24057
 item_type: Still Image

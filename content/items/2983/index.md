@@ -21,6 +21,8 @@ files:
     original_filename: 100_0232.JPG
     thumb: /files/thumbnails/14fb2a5f3291e214fb2a5f3295d3.jpg
     url: /files/original/14fb2a5f3291e214fb2a5f3295d3.jpg
+    alt:
+      en: "Bow view of the gray battleship USS Alabama, marked \"60,\" docked at a concrete pier under a clear sky, with its large crane arm and American flag visible on deck."
 geo:
 id: 2983
 item_type: Still Image

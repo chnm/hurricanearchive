@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1862Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f537c52514fb29f537c90b.jpg
     url: /files/original/14fb29f537c52514fb29f537c90b.jpg
+    alt:
+      en: "Aerial view of a large brick building with complex rooftop angles surrounded by floodwater, with trees and debris scattered throughout the submerged landscape."
 geo:
 id: 22573
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 173 flooding3.jpg
     thumb: /files/thumbnails/14fb2a1f8cd73914fb2a1f8cdae5.jpg
     url: /files/original/14fb2a1f8cd73914fb2a1f8cdae5.jpg
+    alt:
+      en: "Flooded street with scattered broken tree branches, houses and a chain-link fence in the background, a partial stop sign, and utility poles with wires under an overcast sky."
 geo:
 id: 13181
 item_type: Still Image

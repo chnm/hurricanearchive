@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0153-21.JPG
     thumb: /files/thumbnails/14fb2a0166b83c14fb2a0166bc22.jpg
     url: /files/original/14fb2a0166b83c14fb2a0166bc22.jpg
+    alt:
+      en: "A uniformed military service member in camouflage fatigues with an American flag patch stands beside a marked emergency vehicle, gesturing with one hand while another person photographs the scene."
 geo:
 id: 20942
 item_type: Still Image

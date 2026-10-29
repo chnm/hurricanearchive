@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0514.JPG
     thumb: /files/thumbnails/14fb29d0abd7ba14fb29d0abdd5b.jpg
     url: /files/original/14fb29d0abd7ba14fb29d0abdd5b.jpg
+    alt:
+      en: "Military cargo aircraft (marked \"ANG\" and \"27859\" with a U.S. flag on the tail) parked behind a chain-link fence, with a paved runway and grassy field in the foreground."
 geo:
 id: 29013
 item_type: Still Image

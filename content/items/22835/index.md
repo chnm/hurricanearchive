@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f31def5114fb29f31df338.jpg
     url: /files/original/14fb29f31def5114fb29f31df338.jpg
+    alt:
+      en: "A soldier in camouflage uniform leans into the window of a white minivan, speaking with the driver, with road signs for \"East 90\" and storage tanks visible in the hazy background."
 geo:
 id: 22835
 item_type: Still Image

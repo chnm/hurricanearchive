@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8849.jpg
     thumb: /files/thumbnails/14fb2a655d44d214fb2a655d48b8.jpg
     url: /files/original/14fb2a655d44d214fb2a655d48b8.jpg
+    alt:
+      en: "Workers in yellow hazmat suits and respirators push a wheelbarrow of debris past a damaged house with an American flag, amid piles of storm wreckage near a \"Rowley\" street sign."
 geo:
 id: 2552
 item_type: Still Image

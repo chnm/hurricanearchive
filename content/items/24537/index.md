@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0112-15.JPG
     thumb: /files/thumbnails/14fb29e6ea42e714fb29e6ea46d2.jpg
     url: /files/original/14fb29e6ea42e714fb29e6ea46d2.jpg
+    alt:
+      en: "Aerial view of a heavily damaged residential neighborhood with debris-covered streets and stripped trees, under a hazy sky with a military helicopter flying overhead."
 geo:
 id: 24537
 item_type: Still Image

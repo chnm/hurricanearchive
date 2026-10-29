@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0018_2b33586e1d.jpg
     thumb: /files/thumbnails/14fb29c26aa86d14fb29c26aae65.jpg
     url: /files/original/14fb29c26aa86d14fb29c26aae65.jpg
+    alt:
+      en: "Black-and-white photo of burlap and paper sacks of bulk foods like split peas (35¢) and black beans (39¢/lb) on a market floor, with glass jars and canisters on shelves behind."
 geo:
 id: 43088
 item_type: Still Image

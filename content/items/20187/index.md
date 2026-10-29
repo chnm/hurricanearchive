@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0062.JPG
     thumb: /files/thumbnails/14fb2a0adb71ec14fb2a0adb75d2.jpg
     url: /files/original/14fb2a0adb71ec14fb2a0adb75d2.jpg
+    alt:
+      en: "A man in camouflage military uniform smiles while holding up a can labeled \"Filtered Drinking Water,\" photographed against a bright window with a blurred outdoor landscape in the background."
 geo:
 id: 20187
 item_type: Still Image

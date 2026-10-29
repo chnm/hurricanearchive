@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 082.jpg
     thumb: /files/thumbnails/14fb2a1277d28814fb2a1277d66a.jpg
     url: /files/original/14fb2a1277d28814fb2a1277d66a.jpg
+    alt:
+      en: "A paved roadway lined with large trees, some downed or with broken limbs piled along the curb, next to a white stone monument base and a \"Speed Limit 20\" sign."
 geo:
 id: 19172
 item_type: Still Image

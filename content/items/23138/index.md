@@ -21,6 +21,8 @@ files:
     original_filename: 186ENCOAlabamaNG.jpg
     thumb: /files/thumbnails/14fb29f165350214fb29f16538e7.jpg
     url: /files/original/14fb29f165350214fb29f16538e7.jpg
+    alt:
+      en: "Military front-loader vehicle lifts a large pile of tree branches and debris into the bed of an olive-green dump truck parked on a residential street."
 geo:
 id: 23138
 item_type: Still Image

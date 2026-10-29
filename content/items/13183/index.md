@@ -21,6 +21,8 @@ files:
     original_filename: 175 extreme flooding2.jpg
     thumb: /files/thumbnails/14fb2a1f8a3f9514fb2a1f8a4ac6.jpg
     url: /files/original/14fb2a1f8a3f9514fb2a1f8a4ac6.jpg
+    alt:
+      en: "A flooded street submerged in murky brown water, with utility poles, street signs reading \"P\" and \"No Parking,\" and buildings lining both sides amid foggy, overcast conditions."
 geo:
 id: 13183
 item_type: Still Image

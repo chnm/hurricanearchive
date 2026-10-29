@@ -21,6 +21,8 @@ files:
     original_filename: Picture 062.jpg
     thumb: /files/thumbnails/14fb29cc6c605214fb29cc6c6438.jpg
     url: /files/original/14fb29cc6c605214fb29cc6c6438.jpg
+    alt:
+      en: "Photo taken from inside a vehicle shows a massive pile of downed trees and broken branches blocking the roadway, with the car's black door frame visible in the foreground."
 geo:
 id: 30797
 item_type: Still Image

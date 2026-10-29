@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0749.JPG
     thumb: /files/thumbnails/14fb2a5709a9bb14fb2a5709ada1.jpg
     url: /files/original/14fb2a5709a9bb14fb2a5709ada1.jpg
+    alt:
+      en: "Storm-damaged lot with a silver trailer and scattered debris piles beside a paved road, surrounded by bare, broken trees and distant skeletal structures under a partly cloudy sky."
 geo:
 id: 4547
 item_type: Still Image

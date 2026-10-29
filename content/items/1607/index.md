@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27944.jpg
     thumb: /files/thumbnails/14fb2a6779ee0514fb2a6779f1ea.jpg
     url: /files/original/14fb2a6779ee0514fb2a6779f1ea.jpg
+    alt:
+      en: "Chain-link fence with a sign warning \"The Louisiana Superdome is not Responsible for Damage or Theft to your Vehicle, Please Lock Your Car!\"; a billboard advertising \"Earl Turner\" and Coca-Cola stands beyond, under a blue sky."
 geo:
   address: ''
   lat: 0.0

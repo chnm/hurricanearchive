@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29e9d52ffc14fb29e9d53405.jpg
     url: /files/original/14fb29e9d52ffc14fb29e9d53405.jpg
+    alt:
+      en: "A single-story house with a peaked gable window and shingled roof is partially obscured by overhanging tree branches and a fallen limb on the lawn in front."
 geo:
 id: 24201
 item_type: Still Image

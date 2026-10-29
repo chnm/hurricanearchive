@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1662superdome.JPG
     thumb: /files/thumbnails/14fb29e27b20e514fb29e27b24d4.jpg
     url: /files/original/14fb29e27b20e514fb29e27b24d4.jpg
+    alt:
+      en: "Flooded city street with military trucks and a Humvee navigating deep water, tractor-trailers partially submerged nearby, an elevated interstate with \"TO WEST I-10\" signage in the background."
 geo:
 id: 25076
 item_type: Still Image

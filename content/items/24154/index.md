@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0022cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea36756214fb29ea367950.jpg
     url: /files/original/14fb29ea36756214fb29ea367950.jpg
+    alt:
+      en: "A worker in an orange hard hat and chainsaw chaps cuts through a massive fallen tree with a Stihl chainsaw, while several news videographers, one wearing a \"FOX\" branded camera, film the cleanup near a house."
 geo:
 id: 24154
 item_type: Still Image

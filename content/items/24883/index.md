@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0957superdome.JPG
     thumb: /files/thumbnails/14fb29e4164d2314fb29e416510a.jpg
     url: /files/original/14fb29e4164d2314fb29e416510a.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms unload folding cots from the back of an olive-green military truck parked under a covered structure."
 geo:
 id: 24883
 item_type: Still Image

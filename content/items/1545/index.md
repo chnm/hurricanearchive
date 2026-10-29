@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28760.jpg
     thumb: /files/thumbnails/14fb2a6811001314fb2a681103f7.jpg
     url: /files/original/14fb2a6811001314fb2a681103f7.jpg
+    alt:
+      en: "Large open-sided metal pavilions and canopy tents set up at a fairgrounds, with crates, tables, and a few people working outdoors under a clear sky, part of an animal rescue operation."
 geo:
   address: ''
   lat: 0.0

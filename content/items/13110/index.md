@@ -21,6 +21,8 @@ files:
     original_filename: ending look west.jpg
     thumb: /files/thumbnails/14fb2a2059de6114fb2a2059e1b5.jpg
     url: /files/original/14fb2a2059de6114fb2a2059e1b5.jpg
+    alt:
+      en: "Heavy fog obscures a parking lot scene, with the corner of a building at left, a parked SUV in the foreground, and the silhouettes of light poles and a fence barely visible in the distance."
 geo:
 id: 13110
 item_type: Still Image

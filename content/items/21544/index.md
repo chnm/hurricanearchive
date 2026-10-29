@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0290-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fdae706b14fb29fdae7451.jpg
     url: /files/original/14fb29fdae706b14fb29fdae7451.jpg
+    alt:
+      en: "Aerial view of a flooded wooded area with standing floodwater among trees, bordered by a road, houses, a water tower, and a river or waterway in the background."
 geo:
 id: 21544
 item_type: Still Image

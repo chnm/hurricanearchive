@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0070OEP.JPG
     thumb: /files/thumbnails/14fb29f1acc59f14fb29f1acccb2.jpg
     url: /files/original/14fb29f1acc59f14fb29f1acccb2.jpg
+    alt:
+      en: "Under a canopy tent, a camera operator films an interview as a young man holding a microphone and notebook talks with a man in military camouflage uniform seated on stools outdoors."
 geo:
 id: 23060
 item_type: Still Image

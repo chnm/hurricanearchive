@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28154.jpg
     thumb: /files/thumbnails/14fb2a686e253414fb2a686e2917.jpg
     url: /files/original/14fb2a686e253414fb2a686e2917.jpg
+    alt:
+      en: "A cracked clock with a wooden frame lies face-up on debris-covered ground, surrounded by broken slate-like fragments and pine needles scattered across the dirt."
 geo:
   address: ''
   lat: 0.0

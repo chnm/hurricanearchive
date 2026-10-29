@@ -21,6 +21,8 @@ files:
     original_filename: Buckled Parquet Floor_ec40b7d0d4.JPG
     thumb: /files/thumbnails/14fb29cc0d543b14fb29cc0d5821.jpg
     url: /files/original/14fb29cc0d543b14fb29cc0d5821.jpg
+    alt:
+      en: "Close-up of wooden parquet flooring that has buckled and lifted into peaked, tent-like shapes, with the subfloor visible beneath the warped wood panels, next to a gray carpet edge."
 geo:
   address: 2920 Green Acres Rd
   lat: 30.00227

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28539.jpg
     thumb: /files/thumbnails/14fb2a6ce6828a14fb2a6ce69a6b.jpg
     url: /files/original/14fb2a6ce6828a14fb2a6ce69a6b.jpg
+    alt:
+      en: "Storefront with arched upper windows and green-framed bay windows flanking a central double door, a street lamp and parking meter in front, located in downtown New Orleans."
 geo:
   address: ''
   lat: 0.0

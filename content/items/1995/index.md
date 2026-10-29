@@ -26,6 +26,8 @@ files:
     original_filename: 008_08_c94bcf11c6.jpg
     thumb: /files/thumbnails/14fb2a6de43b5414fb2a6de45a17.jpg
     url: /files/original/14fb2a6de43b5414fb2a6de45a17.jpg
+    alt:
+      en: "Devastated lot in the Lower Ninth Ward with a bare, storm-damaged tree, scattered debris, uprooted trees, and a bare concrete slab where a structure once stood, under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

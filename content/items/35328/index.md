@@ -21,6 +21,8 @@ files:
     original_filename: 70_91f95c5f81.jpg
     thumb: /files/thumbnails/14fb29c64cf9ee14fb29c64cfd43.jpg
     url: /files/original/14fb29c64cf9ee14fb29c64cfd43.jpg
+    alt:
+      en: "Flyer titled \"What's Cookin at the Caverns?\" showing two illustrated women at a stove, advertising a talent show benefit for the N.O.L.A. food bank at Pussy Cat Caverns, Friday Jan. 20, 10 pm."
 geo:
   address: Piety and Burgundy
   lat: 29.96482

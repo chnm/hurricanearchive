@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0200.JPG
     thumb: /files/thumbnails/14fb2a5511f4ae14fb2a5511f894.jpg
     url: /files/original/14fb2a5511f4ae14fb2a5511f894.jpg
+    alt:
+      en: "View from under a raised structure's wooden support beams, looking out at a tree line with reddish-brown, storm-damaged foliage; the overturned hull of a small boat sits in the foreground."
 geo:
 id: 4881
 item_type: Still Image

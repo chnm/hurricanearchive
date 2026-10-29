@@ -21,6 +21,8 @@ files:
     original_filename: aerials56.jpg
     thumb: /files/thumbnails/14fb2a19b9c90e14fb2a19b9ccf1.jpg
     url: /files/original/14fb2a19b9c90e14fb2a19b9ccf1.jpg
+    alt:
+      en: "Aerial view of a devastated residential area with collapsed, burned structures, scattered debris, bare scorched trees, and an intact swimming pool amid the ruins."
 geo:
 id: 14345
 item_type: Still Image

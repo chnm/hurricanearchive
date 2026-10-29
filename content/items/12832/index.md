@@ -21,6 +21,8 @@ files:
     original_filename: 3300 blk. S.Rendon at Palmyra.3 bay shotgun off raised b(2).jpg
     thumb: /files/thumbnails/14fb2a21a36b3d14fb2a21a36f1f.jpg
     url: /files/original/14fb2a21a36b3d14fb2a21a36f1f.jpg
+    alt:
+      en: "A severely damaged shotgun house with its roof and structure collapsed, exposing the wooden frame and front porch columns, set against a clear blue sky."
 geo:
 id: 12832
 item_type: Still Image

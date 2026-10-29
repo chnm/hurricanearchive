@@ -21,6 +21,8 @@ files:
     original_filename: 177 flooding5.jpg
     thumb: /files/thumbnails/14fb2a1f87ab1e14fb2a1f87aee0.jpg
     url: /files/original/14fb2a1f87ab1e14fb2a1f87aee0.jpg
+    alt:
+      en: "Floodwater submerges a residential street up to the base of windows, with a utility pole and bare trees rising from the water and white houses visible in the background under an overcast sky."
 geo:
 id: 13185
 item_type: Still Image

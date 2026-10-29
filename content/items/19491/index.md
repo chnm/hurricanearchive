@@ -21,6 +21,8 @@ files:
     original_filename: Picture 051engineers.jpg
     thumb: /files/thumbnails/14fb2a0fab6c1a14fb2a0fab6f31.jpg
     url: /files/original/14fb2a0fab6c1a14fb2a0fab6f31.jpg
+    alt:
+      en: "Aerial view of a flooded industrial area and residential neighborhoods, with large white storage tanks, submerged streets, an elevated highway, and widespread standing floodwater throughout the surrounding blocks."
 geo:
 id: 19491
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0165crop.jpg
     thumb: /files/thumbnails/14fb2a01209b5814fb2a01209f1e.jpg
     url: /files/original/14fb2a01209b5814fb2a01209f1e.jpg
+    alt:
+      en: "Aerial view of industrial storage tanks surrounded by dark, oil-slicked floodwater, with connecting pipelines, scattered debris, and a muddy embankment visible between structures."
 geo:
 id: 21001
 item_type: Still Image

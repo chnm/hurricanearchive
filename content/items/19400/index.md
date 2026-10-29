@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a108def4314fb2a108df441.jpg
     url: /files/original/14fb2a108def4314fb2a108df441.jpg
+    alt:
+      en: "A worker wearing a hard hat operates a yellow Komatsu skid steer loader amid piles of storm debris, with elevated houses on stilts visible in the background."
 geo:
 id: 19400
 item_type: Still Image

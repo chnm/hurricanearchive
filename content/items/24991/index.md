@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1513superdome.JPG
     thumb: /files/thumbnails/14fb29e32baa1b14fb29e32bdca5.jpg
     url: /files/original/14fb29e32baa1b14fb29e32bdca5.jpg
+    alt:
+      en: "Silhouette of a military helicopter hovering low over a parking lot, with a multi-story building reading \"Delgado Community College Charity School of Nursing\" visible in the background under overcast skies."
 geo:
 id: 24991
 item_type: Still Image

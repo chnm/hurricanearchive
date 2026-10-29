@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0360-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fced64b514fb29fced689a.jpg
     url: /files/original/14fb29fced64b514fb29fced689a.jpg
+    alt:
+      en: "Aerial view of a flooded coastal town with numerous shrimp boats clustered in high water, surrounded by submerged mobile homes, trailers, buildings, and trees, with a forested wetland in the background."
 geo:
 id: 21629
 item_type: Still Image

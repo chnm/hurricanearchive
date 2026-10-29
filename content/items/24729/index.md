@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-25-23Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e553413214fb29e5534a41.jpg
     url: /files/original/14fb29e553413214fb29e5534a41.jpg
+    alt:
+      en: "Floodwaters submerge a parking area and roadway beneath an overpass, with a partially submerged car, an orange Sky Trak lift, a FedEx truck, and groups of people wading through the water near a \"West Bus Lot 4\" sign."
 geo:
 id: 24729
 item_type: Still Image

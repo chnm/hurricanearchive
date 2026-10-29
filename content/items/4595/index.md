@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0021.JPG
     thumb: /files/thumbnails/14fb2a56dc543414fb2a56dc610e.jpg
     url: /files/original/14fb2a56dc543414fb2a56dc610e.jpg
+    alt:
+      en: "Debris-strewn sandy beach under a heavy gray overcast sky, with scattered driftwood and storm wreckage, a tree line in the distance, and a truck parked on the right."
 geo:
 id: 4595
 item_type: Still Image

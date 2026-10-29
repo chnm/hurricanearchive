@@ -26,6 +26,8 @@ files:
     original_filename: Red_Ants_Cluster_693aad3090.png
     thumb: /files/thumbnails/14fb2a6f4d463714fb2a6f4d4a10.jpg
     url: /files/original/14fb2a6f4d463714fb2a6f4d4a10.jpg
+    alt:
+      en: "A dense mass of red ants clumped together into a floating cluster on murky floodwater, surrounded by debris and twigs."
 geo:
   address: ''
   lat: 30.342352

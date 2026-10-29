@@ -21,6 +21,8 @@ files:
     original_filename: before blue sky.jpg
     thumb: /files/thumbnails/14fb2a21143d0114fb2a211441f8.jpg
     url: /files/original/14fb2a21143d0114fb2a211441f8.jpg
+    alt:
+      en: "A highway scene with a light-colored sedan ahead, guardrails and trees lining both sides, and a bright blue sky dotted with white clouds overhead."
 geo:
 id: 13026
 item_type: Still Image

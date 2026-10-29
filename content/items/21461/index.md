@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0266-9-25.JPG
     thumb: /files/thumbnails/14fb29fe8aa74114fb29fe8aab1f.jpg
     url: /files/original/14fb29fe8aa74114fb29fe8aab1f.jpg
+    alt:
+      en: "Aerial view of a flooded roadway and gas station canopies partially submerged in brown floodwater, with a red fire truck and vehicles on the still-visible road, surrounded by inundated buildings and trees."
 geo:
 id: 21461
 item_type: Still Image

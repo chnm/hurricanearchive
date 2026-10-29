@@ -21,6 +21,8 @@ files:
     original_filename: katrina 041.jpg
     thumb: /files/thumbnails/14fb29fbd3199c14fb29fbd31d82.jpg
     url: /files/original/14fb29fbd3199c14fb29fbd31d82.jpg
+    alt:
+      en: "Parking lot staging area beside a large domed stadium, with tents, supply crates, a satellite dish, trailers, and uniformed personnel; a tall tower and city buildings rise in the hazy background."
 geo:
 id: 21771
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0151.JPG
     thumb: /files/thumbnails/14fb2a5539ca0014fb2a5539cde6.jpg
     url: /files/original/14fb2a5539ca0014fb2a5539cde6.jpg
+    alt:
+      en: "A large fallen tree with dried, rust-colored needles rests atop a damaged structure and a weathered metal appliance, surrounded by scattered debris and wooden wreckage on the ground."
 geo:
 id: 4836
 item_type: Still Image

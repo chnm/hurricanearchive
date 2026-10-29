@@ -21,6 +21,8 @@ files:
     original_filename: 102-04_68b8259ac5.jpg
     thumb: /files/thumbnails/14fb2a2229b53014fb2a2229b915.jpg
     url: /files/original/14fb2a2229b53014fb2a2229b915.jpg
+    alt:
+      en: "A man stands between two boys seated on the trunk of a maroon car, with a teal corrugated fence and trees in the background."
 geo:
 id: 12415
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015.JPG
     thumb: /files/thumbnails/14fb2a073de3d714fb2a073de762.jpg
     url: /files/original/14fb2a073de3d714fb2a073de762.jpg
+    alt:
+      en: "Three people seated at tables in a meeting room, with laptops, water bottles, notebooks, and a backpack visible; a man in a red shirt and white cap sits at right, facing two seated women."
 geo:
 id: 20438
 item_type: Still Image

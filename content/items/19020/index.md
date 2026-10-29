@@ -21,6 +21,8 @@ files:
     original_filename: S4300081bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a139e4f3d14fb2a139e5322.jpg
     url: /files/original/14fb2a139e4f3d14fb2a139e5322.jpg
+    alt:
+      en: "Military personnel in camouflage gather beside parked buses and stacked gear, with coils of razor wire strung across the foreground under a metal canopy structure."
 geo:
 id: 19020
 item_type: Still Image

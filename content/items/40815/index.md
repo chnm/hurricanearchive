@@ -20,6 +20,8 @@ files:
     original_filename: DSC_0174(2)_e11e84b824.jpg
     thumb: /files/thumbnails/14fb29c4d490a114fb29c4d494b8.jpg
     url: /files/original/14fb29c4d490a114fb29c4d494b8.jpg
+    alt:
+      en: "Police officers escort a man in handcuffs beside a white \"City Wide Construction\" roofing van, with another police vehicle and SUV parked nearby in a residential driveway."
 geo:
   address: ''
   lat: 30.10712

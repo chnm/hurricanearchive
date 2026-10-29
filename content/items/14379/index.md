@@ -21,6 +21,8 @@ files:
     original_filename: aerials89.jpg
     thumb: /files/thumbnails/14fb2a19784e2114fb2a19785206.jpg
     url: /files/original/14fb2a19784e2114fb2a19785206.jpg
+    alt:
+      en: "Aerial view of a devastated landscape with debris fields, stripped and broken trees, and scattered structural remains, likely from hurricane damage."
 geo:
 id: 14379
 item_type: Still Image

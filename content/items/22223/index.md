@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1030Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f904dfcb14fb29f904e3ac.jpg
     url: /files/original/14fb29f904dfcb14fb29f904e3ac.jpg
+    alt:
+      en: "A United States Army Black Hawk helicopter parked on a grassy lawn with rotors extended, brick buildings and a large oak tree visible in the background."
 geo:
 id: 22223
 item_type: Still Image

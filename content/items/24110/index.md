@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea8eff5a14fb29ea903a94.jpg
     url: /files/original/14fb29ea8eff5a14fb29ea903a94.jpg
+    alt:
+      en: "Aerial view of a flooded wetland landscape with a diagonal waterway and raised levee lined by bare trees and brush, surrounded by marsh grasses and standing water."
 geo:
 id: 24110
 item_type: Still Image

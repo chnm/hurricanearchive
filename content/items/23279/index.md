@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036cameronS&R.JPG
     thumb: /files/thumbnails/14fb29f02603cb14fb29f02607b0.jpg
     url: /files/original/14fb29f02603cb14fb29f02607b0.jpg
+    alt:
+      en: "Aerial view of a flattened coastal community with only building foundations, scattered debris, and utility poles remaining amid standing floodwater, bordered by a beach and gray sea under hazy skies."
 geo:
 id: 23279
 item_type: Still Image

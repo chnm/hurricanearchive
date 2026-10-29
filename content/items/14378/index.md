@@ -21,6 +21,8 @@ files:
     original_filename: aerials87.jpg
     thumb: /files/thumbnails/14fb2a1979ba4314fb2a1979d405.jpg
     url: /files/original/14fb2a1979ba4314fb2a1979d405.jpg
+    alt:
+      en: "Aerial view of a storm-damaged house with its roof stripped to plywood, situated near a small pond with \"WATER!\" written in large letters on the ground nearby, surrounded by trees and debris."
 geo:
 id: 14378
 item_type: Still Image

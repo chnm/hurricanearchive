@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008alero.JPG
     thumb: /files/thumbnails/14fb2a15640cf914fb2a1564130c.jpg
     url: /files/original/14fb2a15640cf914fb2a1564130c.jpg
+    alt:
+      en: "Aerial view of a staging area with rows of military trucks and vehicles, large striped tents, green-roofed building, a pond, and surrounding neighborhoods and forest."
 geo:
 id: 18719
 item_type: Still Image

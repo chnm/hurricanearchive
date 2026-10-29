@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029grandisle.JPG
     thumb: /files/thumbnails/14fb2a1539534214fb2a15395729.jpg
     url: /files/original/14fb2a1539534214fb2a15395729.jpg
+    alt:
+      en: "Aerial view of a long causeway bridge crossing coastal water, with storm-damaged homes, collapsed piers, and scattered debris along the shoreline below."
 geo:
 id: 18795
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a074a641f14fb2a074ef118.jpg
     url: /files/original/14fb2a074a641f14fb2a074ef118.jpg
+    alt:
+      en: "A silver GMC Envoy SUV parked outdoors, with a large industrial light fixture mounted on a pole extending over its roof; debris and a chain-link fence with barbed wire are visible in the background."
 geo:
 id: 20436
 item_type: Still Image

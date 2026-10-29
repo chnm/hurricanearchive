@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0421.JPG
     thumb: /files/thumbnails/14fb2a5414b0df14fb2a5414ca30.jpg
     url: /files/original/14fb2a5414b0df14fb2a5414ca30.jpg
+    alt:
+      en: "A damaged waterfront dock with broken wooden pilings and debris along a narrow canal, with downed trees and storm wreckage scattered across the grassy bank."
 geo:
 id: 5076
 item_type: Still Image

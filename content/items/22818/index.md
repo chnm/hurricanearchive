@@ -21,6 +21,8 @@ files:
     original_filename: DSC 030517thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f361b5ab14fb29f361b997.jpg
     url: /files/original/14fb29f361b5ab14fb29f361b997.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood along a canal with a concrete floodwall, showing storm-damaged homes with missing roof sections, debris-strewn yards, and scattered dead or defoliated trees."
 geo:
 id: 22818
 item_type: Still Image

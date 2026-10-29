@@ -21,6 +21,8 @@ files:
     original_filename: DSC01171.JPG
     thumb: /files/thumbnails/14fb2a583cf22814fb2a583cf60d.jpg
     url: /files/original/14fb2a583cf22814fb2a583cf60d.jpg
+    alt:
+      en: "Large domed stadium with a weathered roof stands beyond floodwaters, with a nearby sign reading \"Someone will win $1 Million!\" and Coca-Cola logos, timestamped 10:23 AM."
 geo:
 id: 4046
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 092satellite.jpg
     thumb: /files/thumbnails/14fb2a13b59b1014fb2a13b59ef6.jpg
     url: /files/original/14fb2a13b59b1014fb2a13b59ef6.jpg
+    alt:
+      en: "Black-and-white aerial reconnaissance photo labeled \"#2 Sam's Club/Wal-Mart (Read Blvd & I-10), Orleans Parish,\" showing flooded streets, submerged houses, and two large flat-roofed store buildings near Bundy Rd and I-10."
 geo:
 id: 19013
 item_type: Still Image

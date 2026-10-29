@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2116superdome.JPG
     thumb: /files/thumbnails/14fb29e4b1088b14fb29e4b10c69.jpg
     url: /files/original/14fb29e4b1088b14fb29e4b10c69.jpg
+    alt:
+      en: "Nighttime scene with several men in military camouflage uniforms conversing near a \"Pafford Emergency Medical Services Mobile Command Disaster Response Unit\" vehicle, with \"Keep Away\" caution tape and a large concrete pillar nearby."
 geo:
 id: 24794
 item_type: Still Image

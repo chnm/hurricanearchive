@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0241-9-25.JPG
     thumb: /files/thumbnails/14fb29ff1336bf14fb29ff133aad.jpg
     url: /files/original/14fb29ff1336bf14fb29ff133aad.jpg
+    alt:
+      en: "Aerial view of a flooded industrial refinery or storage facility, with storage tanks, pipelines, and processing equipment surrounded by standing floodwater and partially submerged trees; a helicopter rotor blade is visible at the top of the frame."
 geo:
 id: 21381
 item_type: Still Image

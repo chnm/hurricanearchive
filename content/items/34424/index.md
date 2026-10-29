@@ -20,6 +20,8 @@ files:
     original_filename: 2380699864_1ab41002b6.
     thumb: /files/thumbnails/14fb29ca17ee7714fb29ca17f251.jpg
     url: /files/original/14fb29ca17ee7714fb29ca17f251.jpg
+    alt:
+      en: "Flood-damaged kitchen and living area with mud-covered floors, a soiled couch and loveseat, grimy white cabinetry, and a jar of oranges still sitting on the counter."
 geo:
   address: ''
   lat: 30.22894

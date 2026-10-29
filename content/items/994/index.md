@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27872.jpg
     thumb: /files/thumbnails/14fb2a6b7dd3d214fb2a6b7dd7b7.jpg
     url: /files/original/14fb2a6b7dd3d214fb2a6b7dd7b7.jpg
+    alt:
+      en: "A woman stands in floodwater outside a damaged house, holding a sign reading \"Forget Smoke Free, We Want 'Water Free.'\""
 geo:
   address: ''
   lat: 0.0

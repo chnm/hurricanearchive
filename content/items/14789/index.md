@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_PatreenHughes_02_09c553fc4a.jpg
     thumb: /files/thumbnails/14fb2a17b7990814fb2a17b79d14.jpg
     url: /files/original/14fb2a17b7990814fb2a17b79d14.jpg
+    alt:
+      en: "A young boy in a green polo shirt and navy pants sits smiling in a classroom chair beside a table, with a bookshelf of children's books in the background."
 geo:
 id: 14789
 item_type: Still Image

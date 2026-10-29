@@ -21,6 +21,8 @@ files:
     original_filename: Picture 024neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ed07e48214fb29ed07e868.jpg
     url: /files/original/14fb29ed07e48214fb29ed07e868.jpg
+    alt:
+      en: "Several rescue workers help lift a woman onto a flatbed truck near an open \"Hart Medical EMS\" ambulance, with debris scattered across the pavement and a man in the background photographing the scene."
 geo:
 id: 23793
 item_type: Still Image

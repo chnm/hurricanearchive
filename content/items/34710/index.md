@@ -20,6 +20,8 @@ files:
     original_filename: 2434806860_9b2203036e.
     thumb: /files/thumbnails/14fb29c95b165114fb29c95b1a35.jpg
     url: /files/original/14fb29c95b165114fb29c95b1a35.jpg
+    alt:
+      en: "Debris-strewn yard with trees stripped of leaves and tangled with torn fabric, clothing, and plastic sheeting caught in the branches; broken wood, scattered boards, and a chain-link fence lie amid the storm wreckage below."
 geo:
 id: 34710
 item_type: Still Image

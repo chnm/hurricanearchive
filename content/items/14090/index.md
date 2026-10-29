@@ -21,6 +21,8 @@ files:
     original_filename: COL Keeling 8OCT05.JPG
     thumb: /files/thumbnails/14fb2a1bd167f614fb2a1bd16bf8.jpg
     url: /files/original/14fb2a1bd167f614fb2a1bd16bf8.jpg
+    alt:
+      en: "Man in olive-green military flight suit with name tape reading \"Barry D. Keeling, COL, U.S. Army\" and an American flag patch, standing before a cinderblock wall and blinds, timestamped 10.08.2005 13:01."
 geo:
   address: ''
   lat: 0.0

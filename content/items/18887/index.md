@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0237downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14a5d24314fb2a14a5d63b.jpg
     url: /files/original/14fb2a14a5d24314fb2a14a5d63b.jpg
+    alt:
+      en: "Aerial view of a dense urban neighborhood with multi-story buildings featuring slate roofs and dormer windows, a blue tarp covering part of one roof, parked vehicles, and a landscaped courtyard with hedges."
 geo:
 id: 18887
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: katrina19_04496d0dc8.jpg
     thumb: /files/thumbnails/14fb2a70a0d24c14fb2a70a0e06c.jpg
     url: /files/original/14fb2a70a0d24c14fb2a70a0e06c.jpg
+    alt:
+      en: "A collapsed, debris-covered house sits partially submerged in floodwater, surrounded by stripped, damaged trees under a clear sky."
 geo:
   address: ''
   lat: 29.4895167759739

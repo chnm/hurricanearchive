@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8912.jpg
     thumb: /files/thumbnails/14fb2a6553df3714fb2a6553e31c.jpg
     url: /files/original/14fb2a6553df3714fb2a6553e31c.jpg
+    alt:
+      en: "Rows of discarded, mud-caked refrigerators marked with spray-painted labels like \"Pink,\" \"Blue,\" and \"Done\" stand in a dirt lot, with scattered broken shelving and debris piled in the foreground."
 geo:
 id: 2559
 item_type: Still Image

@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C24_191e035cfa.jpg
     thumb: /files/thumbnails/14fb2a66a49bf514fb2a66a4a0b2.jpg
     url: /files/original/14fb2a66a49bf514fb2a66a4a0b2.jpg
+    alt:
+      en: "A large crowd wearing red life jackets stands on a barge marked \"B 911\" being towed by a tugboat, while a Coast Guard member in a red vest watches from a nearby boat."
 geo:
 id: 2410
 item_type: Still Image

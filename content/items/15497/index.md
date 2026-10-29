@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-27_9631588f6f.jpg
     thumb: /files/thumbnails/14fb2a162e0cd814fb2a162e10bd.jpg
     url: /files/original/14fb2a162e0cd814fb2a162e10bd.jpg
+    alt:
+      en: "Young boy with reddish hair sits at a wooden table, resting his head on one hand while holding a spoon over a bowl of grits, wearing a bib and striped tank top."
 geo:
 id: 15497
 item_type: Still Image

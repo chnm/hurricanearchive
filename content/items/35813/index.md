@@ -17,6 +17,8 @@ files:
     original_filename: 1d83_94059e0094.jpg
     thumb: /files/thumbnails/14fb29c5e73aac14fb29c5e73e91.jpg
     url: /files/original/14fb29c5e73aac14fb29c5e73e91.jpg
+    alt:
+      en: "Interior of a damaged kitchen with cluttered countertops, open cabinets, and debris scattered across the floor and surfaces."
 geo:
   address: Broadmoor area
   lat: 0.0

@@ -27,6 +27,8 @@ files:
     original_filename: 385042705_a498f8869f.
     thumb: /files/thumbnails/14fb29d28cfff214fb29d28d0575.jpg
     url: /files/original/14fb29d28cfff214fb29d28d0575.jpg
+    alt:
+      en: "A photograph of two women, Trish and Verna, smiling together is woven into a hole in an orange plastic safety fence, with a dark blurred interior visible behind it."
 geo:
 id: 28256
 item_type: Still Image

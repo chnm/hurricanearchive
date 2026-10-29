@@ -26,6 +26,8 @@ files:
     original_filename: Dummy_with_dog_c099f55cab.png
     thumb: /files/thumbnails/14fb2a6f55046b14fb2a6f55086b.jpg
     url: /files/original/14fb2a6f55046b14fb2a6f55086b.jpg
+    alt:
+      en: "A camouflage-clad dummy stands atop a damaged wooden staircase structure, holding a beer and a stuffed dog, with a bucket beside it and debris scattered below near Slidell, LA."
 geo:
   address: ''
   lat: 30.342352

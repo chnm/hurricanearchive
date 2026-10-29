@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1295Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6622de714fb29f66231cd.jpg
     url: /files/original/14fb29f6622de714fb29f66231cd.jpg
+    alt:
+      en: "Floodwaters submerge a building's lower level during a storm, with a partially torn roof exposing wood underneath; a sign reading \"Visitor Support Center\" is visible, surrounded by wind-bent trees."
 geo:
 id: 22454
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28630.jpg
     thumb: /files/thumbnails/14fb2a6c5e99a114fb2a6c5ea150.jpg
     url: /files/original/14fb2a6c5e99a114fb2a6c5ea150.jpg
+    alt:
+      en: "A pile of weathered metal scaffolding components, with long horizontal poles and connector joints showing multiple layers of chipped, multicolored paint, stacked together on pavement."
 geo:
   address: ''
   lat: 0.0

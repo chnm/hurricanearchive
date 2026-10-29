@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0705.JPG
     thumb: /files/thumbnails/14fb2a532814b414fb2a532818b0.jpg
     url: /files/original/14fb2a532814b414fb2a532818b0.jpg
+    alt:
+      en: "A tan single-story house with storm-damaged roof and siding stands near a large uprooted tree, with fallen logs and debris scattered across the yard."
 geo:
 id: 5260
 item_type: Still Image

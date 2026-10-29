@@ -26,6 +26,8 @@ files:
     original_filename: holly6_bc611e8f9e.JPG
     thumb: /files/thumbnails/14fb2a6ead9f1314fb2a6eada2b0.jpg
     url: /files/original/14fb2a6ead9f1314fb2a6eada2b0.jpg
+    alt:
+      en: "A storm-swept, sand-covered lot with scattered debris and utility poles; a small Confederate battle flag with a mascot emblem flies amid the wreckage under a clear sky."
 geo:
   address: ''
   lat: 29.7722003479921

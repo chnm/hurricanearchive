@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-02-0A.jpg
     thumb: /files/thumbnails/14fb29e9100f4e14fb29e91013a9.jpg
     url: /files/original/14fb29e9100f4e14fb29e91013a9.jpg
+    alt:
+      en: "Two-tiered elevated highway with pedestrians walking along the upper roadway, while below floodwater submerges vehicles and a bus near the overpass supports, framed by palm fronds in the foreground."
 geo:
 id: 24282
 item_type: Still Image

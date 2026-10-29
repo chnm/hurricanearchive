@@ -21,6 +21,8 @@ files:
     original_filename: 09140032neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec655c3114fb29ec656016.jpg
     url: /files/original/14fb29ec655c3114fb29ec656016.jpg
+    alt:
+      en: "Elevated view of a dried, mud-covered street with embedded streetcar tracks and a \"St. Claude Ave\" sign, flanked by houses, trees, and utility poles under a clear sky."
 geo:
 id: 23919
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0092iwojima.JPG
     thumb: /files/thumbnails/14fb2a1166cc7014fb2a116701f2.jpg
     url: /files/original/14fb2a1166cc7014fb2a116701f2.jpg
+    alt:
+      en: "Aerial view of a city skyline along a wide river, with a large cruise ship and gray military vessel docked at piers in the foreground under a hazy sky."
 geo:
 id: 19270
 item_type: Still Image

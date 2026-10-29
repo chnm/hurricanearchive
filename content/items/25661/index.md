@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.002.JPG
     thumb: /files/thumbnails/14fb29dcd9728614fb29dcd9766c.jpg
     url: /files/original/14fb29dcd9728614fb29dcd9766c.jpg
+    alt:
+      en: "Abandoned gas station with boarded windows spray-painted \"Moved to\" with phone numbers, set behind an empty, cracked parking lot with weeds and a leaning metal pole in the foreground."
 geo:
 id: 25661
 item_type: Still Image

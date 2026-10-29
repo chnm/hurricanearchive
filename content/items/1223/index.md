@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28288.jpg
     thumb: /files/thumbnails/14fb2a6a47732714fb2a6a47770c.jpg
     url: /files/original/14fb2a6a47732714fb2a6a47770c.jpg
+    alt:
+      en: "Storm-damaged buildings with exposed framing and collapsed sections, surrounded by uprooted trees, tangled roots, and scattered debris under an open metal-roofed pavilion."
 geo:
   address: ''
   lat: 0.0

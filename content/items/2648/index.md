@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9207.jpg
     thumb: /files/thumbnails/14fb2a6356645314fb2a6356681c.jpg
     url: /files/original/14fb2a6356645314fb2a6356681c.jpg
+    alt:
+      en: "A rusted, damaged blue Ford Econoline van sits partially submerged in floodwater, surrounded by scattered debris and wreckage stretching toward power lines on the horizon."
 geo:
 id: 2648
 item_type: Still Image

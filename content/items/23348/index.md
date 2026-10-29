@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0059cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efd905a714fb29efd9098b.jpg
     url: /files/original/14fb29efd905a714fb29efd9098b.jpg
+    alt:
+      en: "Interior of a severely damaged building with a heavily rusted vault door still standing amid collapsed ceiling panels, tangled wiring, and piles of cinder blocks and debris."
 geo:
 id: 23348
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: FH000006.jpg
     thumb: /files/thumbnails/14fb29fcb3044114fb29fcb30fe1.jpg
     url: /files/original/14fb29fcb3044114fb29fcb30fe1.jpg
+    alt:
+      en: "Military-style trucks and trailers parked behind a chain-link fence near a building labeled \"FMS #13,\" with debris scattered across a dirt lot and a utility pole with wires in the foreground."
 geo:
 id: 21668
 item_type: Still Image

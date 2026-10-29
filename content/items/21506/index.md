@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0279-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe03c89714fb29fe03cf53.jpg
     url: /files/original/14fb29fe03c89714fb29fe03cf53.jpg
+    alt:
+      en: "Aerial view of a flooded residential street lined with houses, trucks, and a backhoe standing in brown floodwater, with a boat on a trailer and power lines visible throughout."
 geo:
 id: 21506
 item_type: Still Image

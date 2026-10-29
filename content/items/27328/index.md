@@ -23,6 +23,8 @@ files:
     original_filename: 336694481_c9a4e564f0.jpg
     thumb: /files/thumbnails/14fb29d4ce1b6614fb29d4ce1f48.jpg
     url: /files/original/14fb29d4ce1b6614fb29d4ce1f48.jpg
+    alt:
+      en: "Storm-damaged yard with fallen branches and debris scattered along a street, in front of a white two-story house with utility poles and power lines overhead."
 geo:
 id: 27328
 item_type: Still Image

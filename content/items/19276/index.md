@@ -21,6 +21,8 @@ files:
     original_filename: S4300195iwojima.JPG
     thumb: /files/thumbnails/14fb2a1162774d14fb2a11627b33.jpg
     url: /files/original/14fb2a1162774d14fb2a11627b33.jpg
+    alt:
+      en: "Circular carpet emblem reading \"USS IWO JIMA\" and \"LHD 7,\" featuring an eagle, a flag-raising scene, and a yellow banner with the words \"UNCOMMON VALOR.\""
 geo:
 id: 19276
 item_type: Still Image

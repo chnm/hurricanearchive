@@ -21,6 +21,8 @@ files:
     original_filename: PCDV0314Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d638fe14fb29f4d63cec.jpg
     url: /files/original/14fb29f4d638fe14fb29f4d63cec.jpg
+    alt:
+      en: "Blurry photo of a gravel lot with a military Humvee, two sedans, a person in fatigues walking, and a brick building in the background under a partly cloudy sky."
 geo:
 id: 22657
 item_type: Still Image

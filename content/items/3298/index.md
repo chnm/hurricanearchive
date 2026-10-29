@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (59).jpg
     thumb: /files/thumbnails/14fb2a5caa471814fb2a5caa4af1.jpg
     url: /files/original/14fb2a5caa471814fb2a5caa4af1.jpg
+    alt:
+      en: "Devastated neighborhood with collapsed and damaged houses, scattered debris and appliances covering the ground, a fallen tree, and a traffic light hanging askew from its wires against a blue sky."
 geo:
 id: 3298
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00787 DSC00787cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e59e5c5214fb29e59e60a3.jpg
     url: /files/original/14fb29e59e5c5214fb29e59e60a3.jpg
+    alt:
+      en: "Blurry indoor photo of several people, including two in camouflage uniforms, gathered near a wooden desk with water bottles and papers, bright sunlit curtained windows in the background."
 geo:
 id: 24683
 item_type: Still Image

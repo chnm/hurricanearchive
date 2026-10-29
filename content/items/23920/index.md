@@ -21,6 +21,8 @@ files:
     original_filename: 09140033neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec648d3314fb29ec649119.jpg
     url: /files/original/14fb29ec648d3314fb29ec649119.jpg
+    alt:
+      en: "Mud-covered street littered with debris and scattered vehicles, flanked by damaged houses and utility poles, with a bridge and radio tower visible in the hazy distance."
 geo:
 id: 23920
 item_type: Still Image

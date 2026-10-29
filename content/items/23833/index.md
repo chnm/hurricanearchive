@@ -21,6 +21,8 @@ files:
     original_filename: S4300172stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece876e314fb29ece87ac9.jpg
     url: /files/original/14fb29ece876e314fb29ece87ac9.jpg
+    alt:
+      en: "A mud-covered street lined with storm-damaged houses, their roofs and walls torn apart, with debris, a wrecked truck, and scattered wreckage covering the yards and road."
 geo:
 id: 23833
 item_type: Still Image

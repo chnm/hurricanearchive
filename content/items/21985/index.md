@@ -21,6 +21,8 @@ files:
     original_filename: Picture 316-J2.jpg
     thumb: /files/thumbnails/14fb29fa8e8c7014fb29fa8ede91.jpg
     url: /files/original/14fb29fa8e8c7014fb29fa8ede91.jpg
+    alt:
+      en: "Highway underpass framing a city skyline with high-rise buildings under a blue sky, empty lanes and lane markings visible in the foreground, with partial text on a sign at left edge."
 geo:
 id: 21985
 item_type: Still Image

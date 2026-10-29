@@ -26,6 +26,8 @@ files:
     original_filename: 006_04A_57d2bfcc6f.jpg
     thumb: /files/thumbnails/14fb2a6f38177714fb2a6f381b5c.jpg
     url: /files/original/14fb2a6f38177714fb2a6f381b5c.jpg
+    alt:
+      en: "A dark, grainy interior view looking up at a torn section of the Superdome roof, with daylight and structural beams visible through the jagged opening."
 geo:
   address: ''
   lat: 29.951811158487303

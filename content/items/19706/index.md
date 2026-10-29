@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 093cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e3b517c14fb2a0e3b5559.jpg
     url: /files/original/14fb2a0e3b517c14fb2a0e3b5559.jpg
+    alt:
+      en: "Large fallen tree with thick branches, one sawn through, lying across a yard and iron fence in front of a pink house with storm-damaged shrubs and fallen limbs scattered below."
 geo:
 id: 19706
 item_type: Still Image

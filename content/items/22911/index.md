@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015tolbertmedia.JPG
     thumb: /files/thumbnails/14fb29f2b4515014fb29f2b45535.jpg
     url: /files/original/14fb29f2b4515014fb29f2b45535.jpg
+    alt:
+      en: "A man films with a professional video camera (labeled \"3CCD\") from an aircraft window, overlooking a sprawling residential neighborhood with tree-lined streets below."
 geo:
 id: 22911
 item_type: Still Image

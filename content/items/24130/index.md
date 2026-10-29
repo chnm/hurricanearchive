@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea56f84114fb29ea56fc26.jpg
     url: /files/original/14fb29ea56f84114fb29ea56fc26.jpg
+    alt:
+      en: "Aerial view of a flooded, fog-covered landscape, with scattered dark patches of standing water across a pale, waterlogged terrain extending to the horizon."
 geo:
 id: 24130
 item_type: Still Image

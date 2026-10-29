@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0088-16.JPG
     thumb: /files/thumbnails/14fb2a03621b7114fb2a03622e6e.jpg
     url: /files/original/14fb2a03621b7114fb2a03622e6e.jpg
+    alt:
+      en: "Sideways photo taken from inside a vehicle, showing a person wearing glasses in the foreground and another figure outside near debris, with a vehicle mirror and damaged structures visible through the window."
 geo:
 id: 20832
 item_type: Still Image

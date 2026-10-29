@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d0c2a8314fb2a0d0c2e61.jpg
     url: /files/original/14fb2a0d0c2a8314fb2a0d0c2e61.jpg
+    alt:
+      en: "Low-angle view of a construction worker in a white hard hat and brown t-shirt reaching across wooden roof framing, with corrugated metal roofing and a cloudy sky in the background."
 geo:
 id: 19871
 item_type: Still Image

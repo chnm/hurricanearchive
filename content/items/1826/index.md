@@ -26,6 +26,8 @@ files:
     original_filename: house_contents_destroyed_by_street2_e9ce297b4b.jpg
     thumb: /files/thumbnails/14fb2a6ebdd46d14fb2a6ebdd852.jpg
     url: /files/original/14fb2a6ebdd46d14fb2a6ebdd852.jpg
+    alt:
+      en: "A large pile of damaged household items—furniture, cardboard boxes, mattresses, and debris—sits on a grassy curb in front of a brick house numbered 3605, its front door open."
 geo:
   address: ''
   lat: 30.027041

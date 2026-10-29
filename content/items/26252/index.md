@@ -21,6 +21,8 @@ files:
     original_filename: AB Pontchartrain Beach 1974_f16265f0e7.jpg
     thumb: /files/thumbnails/14fb29d94392e514fb29d9439cb2.jpg
     url: /files/original/14fb29d94392e514fb29d9439cb2.jpg
+    alt:
+      en: "Four people ride a hollowed-log boat down a water flume, splashing at the bottom; the boat bears the text \"Pontchartrain Beach.\""
 geo:
   address: ''
   lat: 29.91685

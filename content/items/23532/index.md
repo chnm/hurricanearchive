@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0165stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ef16ab5914fb29ef16af2c.jpg
     url: /files/original/14fb29ef16ab5914fb29ef16af2c.jpg
+    alt:
+      en: "Aerial view of industrial storage tanks surrounded by dark, oil-slicked floodwater, with connecting pipelines, scattered debris, and a muddy embankment visible between structures."
 geo:
 id: 23532
 item_type: Still Image

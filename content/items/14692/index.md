@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AshleyHendersen_05_45f1608d6c.jpg
     thumb: /files/thumbnails/14fb2a18288c7d14fb2a18289065.jpg
     url: /files/original/14fb2a18288c7d14fb2a18289065.jpg
+    alt:
+      en: "A young girl in a white shirt and plaid skirt sits on a stool holding two books, \"Deadly Stranger\" and \"True Style,\" beside a bookshelf filled with children's books and stuffed animal puppets."
 geo:
 id: 14692
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: katrina 049.jpg
     thumb: /files/thumbnails/14fb29fbc7aa4814fb29fbc7ae2d.jpg
     url: /files/original/14fb29fbc7aa4814fb29fbc7ae2d.jpg
+    alt:
+      en: "Ambulances and vans parked near a building entrance amid scattered debris and trash, with city skyscrapers visible in the background; foreground shows the hood of a military-style vehicle."
 geo:
 id: 21779
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28481.jpg
     thumb: /files/thumbnails/14fb2a6778a5fa14fb2a6778a9e0.jpg
     url: /files/original/14fb2a6778a5fa14fb2a6778a9e0.jpg
+    alt:
+      en: "Flood-damaged room with mold-stained walls and overturned, debris-covered furniture, including couches, a small wooden table, and scattered household items coated in grime."
 geo:
   address: ''
   lat: 0.0

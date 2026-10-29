@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5761_d304742ecc.jpg
     thumb: /files/thumbnails/14fb29da34247c14fb29da34285c.jpg
     url: /files/original/14fb29da34247c14fb29da34285c.jpg
+    alt:
+      en: "Sepia-toned vintage photograph in a wooden frame showing three women in light-colored dresses seated outdoors on a lawn, with a porch railing and foliage in the background."
 geo:
 id: 26142
 item_type: Still Image

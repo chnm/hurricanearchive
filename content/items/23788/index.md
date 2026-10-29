@@ -21,6 +21,8 @@ files:
     original_filename: Picture 009neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ed10a4a014fb29ed10a885.jpg
     url: /files/original/14fb29ed10a4a014fb29ed10a885.jpg
+    alt:
+      en: "A relief worker in camouflage uniform hands a bottled water and an MRE package to an elderly man, with a case of bottled water visible on a nearby ledge beside a metal stair railing."
 geo:
 id: 23788
 item_type: Still Image

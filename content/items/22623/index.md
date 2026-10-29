@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0587Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f502d70914fb29f502dae5.jpg
     url: /files/original/14fb29f502d70914fb29f502dae5.jpg
+    alt:
+      en: "Rippling pond water with an orange koi fish swimming near the surface, green leafy branches overhanging the water's edge on the left side."
 geo:
 id: 22623
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0003_8ff034114f.JPG
     thumb: /files/thumbnails/14fb2a7002493914fb2a70024d1e.jpg
     url: /files/original/14fb2a7002493914fb2a70024d1e.jpg
+    alt:
+      en: "Gutted brick church with exposed steel framing and collapsed walls, a partial sign reading \"FI ST B 1ST HURCH\" visible amid rubble and debris behind a chain-link fence."
 geo:
   address: ''
   lat: 29.9549345496561

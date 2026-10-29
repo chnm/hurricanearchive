@@ -21,6 +21,8 @@ files:
     original_filename: Picture 138cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b9803f814fb2a0b9807de.jpg
     url: /files/original/14fb2a0b9803f814fb2a0b9807de.jpg
+    alt:
+      en: "A severely damaged mobile home with torn siding and exposed wooden framing lies on its side near railroad tracks, with industrial smokestacks visible in the background."
 geo:
 id: 20041
 item_type: Still Image

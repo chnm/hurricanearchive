@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27951.jpg
     thumb: /files/thumbnails/14fb2a679e3d5014fb2a679e4134.jpg
     url: /files/original/14fb2a679e3d5014fb2a679e4134.jpg
+    alt:
+      en: "Curved exterior of the Superdome with a parking lot in front holding a black SUV, a white truck, and a gray van, beside a fallen barrier displaying a torn Hornets banner."
 geo:
   address: ''
   lat: 0.0

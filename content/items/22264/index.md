@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1075Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f88d4f5f14fb29f88d5340.jpg
     url: /files/original/14fb29f88d4f5f14fb29f88d5340.jpg
+    alt:
+      en: "A parking lot submerged in floodwater during heavy rain, with several vehicles including a van, pickup truck, and SUVs partially underwater; power lines and hazy buildings visible in the background."
 geo:
 id: 22264
 item_type: Still Image

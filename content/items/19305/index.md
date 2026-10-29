@@ -21,6 +21,8 @@ files:
     original_filename: J2 (24).JPG
     thumb: /files/thumbnails/14fb2a11417f9914fb2a11418392.jpg
     url: /files/original/14fb2a11417f9914fb2a11418392.jpg
+    alt:
+      en: "Dark, blurred photograph with an indistinct reddish-brown shape in the upper left corner against a mostly black background; no legible text or identifiable details."
 geo:
 id: 19305
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28046.jpg
     thumb: /files/thumbnails/14fb2a68047f5c14fb2a68048348.jpg
     url: /files/original/14fb2a68047f5c14fb2a68048348.jpg
+    alt:
+      en: "White painted building exterior with a prominent horizontal high-water stain band across the wall and windows, with a cracked dirt yard and dried plants in the foreground."
 geo:
   address: ''
   lat: 0.0

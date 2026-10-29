@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6986_ab10229bac.jpg
     thumb: /files/thumbnails/14fb29db78211914fb29db7827ef.jpg
     url: /files/original/14fb29db78211914fb29db7827ef.jpg
+    alt:
+      en: "Black-and-white group portrait of girls and young women in matching dark dresses, arranged in rows outdoors in front of a brick building with shuttered windows, some seated on chairs in front."
 geo:
   address: ''
   lat: 30.18312

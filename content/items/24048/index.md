@@ -21,6 +21,8 @@ files:
     original_filename: DSC00055neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb3b63d014fb29eb3b67b6.jpg
     url: /files/original/14fb29eb3b63d014fb29eb3b67b6.jpg
+    alt:
+      en: "Two people push a green shopping cart with supplies across a parking lot near a Baskin Robbins store, with a large truck and parked car nearby."
 geo:
 id: 24048
 item_type: Still Image

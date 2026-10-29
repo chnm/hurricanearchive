@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9549.jpg
     thumb: /files/thumbnails/14fb2a643cbe6e14fb2a643cc251.jpg
     url: /files/original/14fb2a643cbe6e14fb2a643cc251.jpg
+    alt:
+      en: "Damaged pink house numbered 6785 with spray-painted \"I PONY DOA\" and \"I DOG DOA\" markings, a forced-open door with debris, and an abandoned car parked out front."
 geo:
 id: 2607
 item_type: Still Image

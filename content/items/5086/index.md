@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0431.JPG
     thumb: /files/thumbnails/14fb2a5401356c14fb2a54018a4a.jpg
     url: /files/original/14fb2a5401356c14fb2a54018a4a.jpg
+    alt:
+      en: "Debris-strewn sandy area with a twisted, rusted metal structure (possibly a damaged boat or container) lying on its side, surrounded by scattered wood planks, broken concrete, and assorted wreckage."
 geo:
 id: 5086
 item_type: Still Image

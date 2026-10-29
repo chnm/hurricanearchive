@@ -26,6 +26,8 @@ files:
     original_filename: Strong_Winds_n_Flooding_1a73bff39b.jpg
     thumb: /files/thumbnails/14fb2a713a9ae114fb2a713a9ec1.jpg
     url: /files/original/14fb2a713a9ae114fb2a713a9ec1.jpg
+    alt:
+      en: "A deeply flooded residential street with two partially submerged vehicles, utility poles with sagging wires, and two people wading through the water under an overcast sky."
 geo:
   address: ''
   lat: 0.0

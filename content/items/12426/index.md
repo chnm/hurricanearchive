@@ -21,6 +21,8 @@ files:
     original_filename: 100-09_0480e6943e.jpg
     thumb: /files/thumbnails/14fb2a221c904f14fb2a221c9433.jpg
     url: /files/original/14fb2a221c904f14fb2a221c9433.jpg
+    alt:
+      en: "Two women stand on a porch step, one holding folded fabric and wearing a hat, the other in a star-print top and green shorts, beside a paper bag, with a house and shrubbery behind them."
 geo:
 id: 12426
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0198-9-25.JPG
     thumb: /files/thumbnails/14fb29fff7346514fb29fff73856.jpg
     url: /files/original/14fb29fff7346514fb29fff73856.jpg
+    alt:
+      en: "Aerial view of a storm-damaged property with a rectangular swimming pool, scattered fallen trees, a wooden fence, a driveway, and buildings with damaged roofs nearby."
 geo:
 id: 21213
 item_type: Still Image

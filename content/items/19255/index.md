@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0142rita.JPG
     thumb: /files/thumbnails/14fb2a119b60a114fb2a119b6487.jpg
     url: /files/original/14fb2a119b60a114fb2a119b6487.jpg
+    alt:
+      en: "A line of military Humvees and a canvas-covered truck parked along a rural roadside, with soldiers in camouflage uniforms standing beside the vehicles; power lines and trees line the road ahead."
 geo:
 id: 19255
 item_type: Still Image

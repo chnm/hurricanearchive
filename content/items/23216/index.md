@@ -21,6 +21,8 @@ files:
     original_filename: Katrina.bmp
     thumb: /files/thumbnails/14fb29f0a3ed3914fb29f0a3f116.jpg
     url: /files/original/14fb29f0a3ed3914fb29f0a3f116.jpg
+    alt:
+      en: "Weather radar image from the National Weather Service (KLIX) dated 00:59 UTC 08/29/2005, showing Hurricane Katrina's dense, colorful spiral bands covering Louisiana, Mississippi, and surrounding Gulf Coast states."
 geo:
 id: 23216
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010006.JPG
     thumb: /files/thumbnails/14fb2a5abb649614fb2a5abb6873.jpg
     url: /files/original/14fb2a5abb649614fb2a5abb6873.jpg
+    alt:
+      en: "Three men wearing protective masks move a discarded refrigerator onto a curbside pile of ruined furniture, including a couch and cabinets, outside storm-damaged houses."
 geo:
 id: 3579
 item_type: Still Image

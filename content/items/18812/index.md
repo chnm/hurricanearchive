@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040grandisle.JPG
     thumb: /files/thumbnails/14fb2a152a909614fb2a152a9490.jpg
     url: /files/original/14fb2a152a909614fb2a152a9490.jpg
+    alt:
+      en: "Aerial view of a narrow coastal community with elevated houses on stilts, a sandy beach strewn with storm debris, and calm water visible in the background."
 geo:
 id: 18812
 item_type: Still Image

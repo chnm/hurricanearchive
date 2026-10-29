@@ -26,6 +26,8 @@ files:
     original_filename: jesuitNO_6b8a073bdc.JPG
     thumb: /files/thumbnails/14fb2a7109374614fb2a71093a7a.jpg
     url: /files/original/14fb2a7109374614fb2a71093a7a.jpg
+    alt:
+      en: "Aerial view of Jesuit High School's multi-story brick building surrounded by floodwater and trees, with a rooftop sign reading \"JESUIT\" and power lines in the foreground."
 geo:
   address: ''
   lat: 29.993002284551103

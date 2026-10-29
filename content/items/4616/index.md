@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0042.JPG
     thumb: /files/thumbnails/14fb2a56bd86d514fb2a56bd8abb.jpg
     url: /files/original/14fb2a56bd86d514fb2a56bd8abb.jpg
+    alt:
+      en: "Several tall pine trees with broken and snapped trunks lean against each other near a house partially visible behind dense green foliage, with a large fallen tree trunk lying across the foreground."
 geo:
 id: 4616
 item_type: Still Image

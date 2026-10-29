@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0007.JPG
     thumb: /files/thumbnails/14fb2a57a0413214fb2a57a0430b.jpg
     url: /files/original/14fb2a57a0413214fb2a57a0430b.jpg
+    alt:
+      en: "A red and white fishing boat sits stranded on a marshy shoreline beyond a calm waterway, with dry grasses in the foreground under a hazy sky."
 geo:
 id: 4121
 item_type: Still Image

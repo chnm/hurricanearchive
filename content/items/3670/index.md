@@ -24,6 +24,8 @@ files:
     original_filename: P1010107.JPG
     thumb: /files/thumbnails/14fb2a5a32989614fb2a5a329c7b.jpg
     url: /files/original/14fb2a5a32989614fb2a5a329c7b.jpg
+    alt:
+      en: "A blue sedan lies overturned on its roof beside a canal, with damaged houses and broken trees visible in the background."
 geo:
 id: 3670
 item_type: Still Image

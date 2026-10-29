@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0088-9-25.JPG
     thumb: /files/thumbnails/14fb2a035306bd14fb2a03530a7f.jpg
     url: /files/original/14fb2a035306bd14fb2a03530a7f.jpg
+    alt:
+      en: "Aerial view of a flooded coastal landscape with debris-strewn, leafless trees surrounding submerged building remnants and a partially visible road, marshland extending to the horizon."
 geo:
 id: 20835
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 054cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bf3f6b414fb2a0bf3fa99.jpg
     url: /files/original/14fb2a0bf3f6b414fb2a0bf3fa99.jpg
+    alt:
+      en: "A military-style front-loader vehicle sits parked on a debris-strewn roadway shaded by large trees, with fallen branches and leaf litter scattered across the pavement."
 geo:
 id: 19957
 item_type: Still Image

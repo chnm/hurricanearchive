@@ -21,6 +21,8 @@ files:
     original_filename: Picture 118cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba74b8014fb2a0ba74fe0.jpg
     url: /files/original/14fb2a0ba74b8014fb2a0ba74fe0.jpg
+    alt:
+      en: "Boats sit damaged on dry land in a storage yard, surrounded by metal buildings and a chain-link fence, with an overgrown grassy field in the foreground."
 geo:
 id: 20021
 item_type: Still Image

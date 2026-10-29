@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28677.jpg
     thumb: /files/thumbnails/14fb2a6d24544414fb2a6d245832.jpg
     url: /files/original/14fb2a6d24544414fb2a6d245832.jpg
+    alt:
+      en: "A woman in a pink tank top kisses a rescued horse's nose while holding its blue lead rope, with a boy in a yellow shirt and a horse trailer visible behind them."
 geo:
   address: ''
   lat: 0.0

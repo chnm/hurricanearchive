@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1170Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f71143b814fb29f711479c.jpg
     url: /files/original/14fb29f71143b814fb29f711479c.jpg
+    alt:
+      en: "Floodwater submerges a wrought-iron fence and rises to the doorway of a brick building, with plaques reading \"Military Library\" and \"Bruner Hall\" mounted on the wall beside the entrance."
 geo:
 id: 22354
 item_type: Still Image

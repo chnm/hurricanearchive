@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0125.JPG
     thumb: /files/thumbnails/14fb2a55564f8014fb2a55565558.jpg
     url: /files/original/14fb2a55564f8014fb2a55565558.jpg
+    alt:
+      en: "Cleared, debris-strewn lot with scattered litter and dirt tracks, bordered by a dense green shrub on the left and tall pine trees in the background under a clear sky."
 geo:
 id: 4812
 item_type: Still Image

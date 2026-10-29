@@ -23,6 +23,8 @@ files:
     original_filename: 336696624_c13473a105.jpg
     thumb: /files/thumbnails/14fb29d466e2dc14fb29d466e6be.jpg
     url: /files/original/14fb29d466e2dc14fb29d466e6be.jpg
+    alt:
+      en: "Storm-damaged scene with a crushed silver car partially buried under debris, scattered wooden planks and wreckage, a large tree, and a wire fence in the background under overcast sky."
 geo:
 id: 27342
 item_type: Still Image

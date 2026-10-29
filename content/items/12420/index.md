@@ -21,6 +21,8 @@ files:
     original_filename: 100-02_2748ffed2d.jpg
     thumb: /files/thumbnails/14fb2a2222e75814fb2a2222eb3d.jpg
     url: /files/original/14fb2a2222e75814fb2a2222eb3d.jpg
+    alt:
+      en: "Aged newspaper clipping headlined \"3d INF DIV Player of the Week\" featuring a photo of Teddy Bush with text noting his two intercepted passes for touchdowns as end for Co E, 15th Inf."
 geo:
 id: 12420
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1669superdome.JPG
     thumb: /files/thumbnails/14fb29e2735d2414fb29e2736109.jpg
     url: /files/original/14fb29e2735d2414fb29e2736109.jpg
+    alt:
+      en: "A large column of soldiers in camouflage uniforms, carrying rifles and backpacks, marches along a brick walkway past a yellow school bus and ambulance, with multistory buildings labeled \"Delgado Community College\" and \"VA Medical Center\" in the background."
 geo:
 id: 25083
 item_type: Still Image

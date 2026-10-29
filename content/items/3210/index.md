@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (59).JPG
     thumb: /files/thumbnails/14fb2a5d59076114fb2a5d590b46.jpg
     url: /files/original/14fb2a5d59076114fb2a5d590b46.jpg
+    alt:
+      en: "Elevated view over a highway barrier wall toward a low-rise cityscape with warehouses, a red building, and a billboard structure, under a clear blue sky; litter lies along the roadside in the foreground."
 geo:
 id: 3210
 item_type: Still Image

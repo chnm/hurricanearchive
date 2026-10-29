@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 011.jpg
     thumb: /files/thumbnails/14fb2a1311fc6914fb2a13121590.jpg
     url: /files/original/14fb2a1311fc6914fb2a13121590.jpg
+    alt:
+      en: "A military Black Hawk helicopter sits on a grassy field near Quonset-style hangar buildings, with trees lining the background under a hazy sky."
 geo:
 id: 19101
 item_type: Still Image

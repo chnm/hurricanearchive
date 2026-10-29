@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0536Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f52abbd414fb29f52abfb9.jpg
     url: /files/original/14fb29f52abbd414fb29f52abfb9.jpg
+    alt:
+      en: "Blurry, rain-streaked photo taken through a vehicle windshield showing silhouetted trees and a storm-darkened sky, with a red light faintly visible in the distance."
 geo:
 id: 22585
 item_type: Still Image

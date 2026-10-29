@@ -21,6 +21,8 @@ files:
     original_filename: J2 (9).JPG
     thumb: /files/thumbnails/14fb2a10ed164c14fb2a10ed1a2f.jpg
     url: /files/original/14fb2a10ed164c14fb2a10ed1a2f.jpg
+    alt:
+      en: "Floodwater covers a residential street, submerging a car and the lower portions of houses, with utility poles, trees, and a steel truss bridge visible in the background under a pale sky."
 geo:
 id: 19349
 item_type: Still Image

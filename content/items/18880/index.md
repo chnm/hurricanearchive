@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0230downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14b5153b14fb2a14b51b83.jpg
     url: /files/original/14fb2a14b5153b14fb2a14b51b83.jpg
+    alt:
+      en: "Aerial view of a downtown New Orleans skyline with high-rise hotels labeled \"Marriott\" and \"Sheraton,\" the \"Hotel Monteleone\" sign, a construction crane, and dense rooftops under a hazy sky."
 geo:
 id: 18880
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: oil_platform_d260895209.JPG
     thumb: /files/thumbnails/14fb2a7135867f14fb2a71358a50.jpg
     url: /files/original/14fb2a7135867f14fb2a71358a50.jpg
+    alt:
+      en: "A capsized offshore oil platform leans heavily to one side in the Gulf of Mexico, with a support vessel labeled \"Union Manta\" and a \"Rescue Zone\" marking nearby in the water."
 geo:
   address: ''
   lat: 0.0

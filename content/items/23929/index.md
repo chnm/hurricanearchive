@@ -21,6 +21,8 @@ files:
     original_filename: 09140042neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec56355914fb29ec5637f9.jpg
     url: /files/original/14fb29ec56355914fb29ec5637f9.jpg
+    alt:
+      en: "A concrete sound barrier wall with a visible high-water line stands above floodwater, where a small boat rests wedged against debris near the wall's base."
 geo:
 id: 23929
 item_type: Still Image

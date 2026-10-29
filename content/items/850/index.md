@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28638.jpg
     thumb: /files/thumbnails/14fb2a6c9d130e14fb2a6c9d16fa.jpg
     url: /files/original/14fb2a6c9d130e14fb2a6c9d16fa.jpg
+    alt:
+      en: "High-rise glass curtain wall with numerous shattered and missing window panes, some reflecting yellow light, showing storm damage to a downtown New Orleans office tower."
 geo:
   address: ''
   lat: 0.0

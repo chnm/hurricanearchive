@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0109-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e72bae6814fb29e72bb244.jpg
     url: /files/original/14fb29e72bae6814fb29e72bb244.jpg
+    alt:
+      en: "A muddy, flooded road with a line of pickup trucks and a military flatbed trailer passing standing floodwater, debris piles, and bare trees under an overcast sky."
 geo:
 id: 24518
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 158897160_d64d46adea.jpg
     thumb: /files/thumbnails/14fb29d206b9cd14fb29d206c542.jpg
     url: /files/original/14fb29d206b9cd14fb29d206c542.jpg
+    alt:
+      en: "Hand-painted green sign reading \"1619 Deslonde Neighborhood Kitchen 5pm Dinner Cook·Eat·Relax\" with cow and bird illustrations, mounted on a chain-link fence in front of a house with an open umbrella."
 geo:
 id: 28628
 item_type: Still Image

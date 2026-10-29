@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0142-9-25.JPG
     thumb: /files/thumbnails/14fb2a021ce87514fb2a021cec5a.jpg
     url: /files/original/14fb2a021ce87514fb2a021cec5a.jpg
+    alt:
+      en: "Aerial view of widespread flooding with debris-strewn, denuded trees, a collapsed building foundation with scattered bricks, downed power lines, and murky brown floodwaters covering the surrounding land."
 geo:
 id: 20897
 item_type: Still Image

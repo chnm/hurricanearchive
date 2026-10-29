@@ -23,6 +23,8 @@ files:
     original_filename: Wingate7_eebbdce092.jpg
     thumb: /files/thumbnails/14fb29c36d43c014fb29c36d4c8e.jpg
     url: /files/original/14fb29c36d43c014fb29c36d4c8e.jpg
+    alt:
+      en: "Row of single-story white houses marked with spray-painted search-and-rescue X symbols, a discarded recliner on the lawn, bare trees, and a dirt street with a truck bed in the foreground."
 geo:
   address: ''
   lat: 30.01846

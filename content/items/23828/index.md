@@ -21,6 +21,8 @@ files:
     original_filename: S4300167stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecebea4414fb29ecebed60.jpg
     url: /files/original/14fb29ecebea4414fb29ecebed60.jpg
+    alt:
+      en: "A minivan sits propped at a steep angle against a damaged wooden fence beside a house, its front end resting on the ground and rear raised high, photographed through a car window."
 geo:
 id: 23828
 item_type: Still Image

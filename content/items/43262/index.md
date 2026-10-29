@@ -20,6 +20,8 @@ files:
     original_filename: M_2_4e547bca9a.jpg
     thumb: /files/thumbnails/14fb29c1ed88c614fb29c1ed8ca4.jpg
     url: /files/original/14fb29c1ed88c614fb29c1ed8ca4.jpg
+    alt:
+      en: "A woman in a dark suit speaks at a podium inside a church, beneath a large wooden crucifix mounted on the wall behind her."
 geo:
   address: ''
   lat: 29.71923

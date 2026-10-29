@@ -21,6 +21,8 @@ files:
     original_filename: KrisharaJohnson-1_d03c2406c2.jpg
     thumb: /files/thumbnails/14fb29dd99f95214fb29dd9a02ad.jpg
     url: /files/original/14fb29dd99f95214fb29dd9a02ad.jpg
+    alt:
+      en: "A young girl in a white school uniform blouse and plaid skirt sits on a chair, smiling, in a classroom with a book display, stuffed animal puppets, and a round table nearby."
 geo:
 id: 25475
 item_type: Still Image

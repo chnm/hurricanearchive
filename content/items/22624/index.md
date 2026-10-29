@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0588Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f502433514fb29f5024a6b.jpg
     url: /files/original/14fb29f502433514fb29f5024a6b.jpg
+    alt:
+      en: "Floodwaters surround brick buildings as men in military fatigues and a yellow raincoat stand on a boat near a brick wall topped with razor wire, one cap reading \"DOWNER.\""
 geo:
 id: 22624
 item_type: Still Image

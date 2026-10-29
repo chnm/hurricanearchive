@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0097OEP.JPG
     thumb: /files/thumbnails/14fb29f197931e14fb29f19796f7.jpg
     url: /files/original/14fb29f197931e14fb29f19796f7.jpg
+    alt:
+      en: "Crowded emergency operations center filled with cubicles covered in papers and maps, with staff working at desks and gathered in small groups; a weather radar image is projected on a screen at left."
 geo:
 id: 23087
 item_type: Still Image

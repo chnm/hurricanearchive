@@ -21,6 +21,8 @@ files:
     original_filename: DSC01131.JPG
     thumb: /files/thumbnails/14fb2a58658c9a14fb2a58659080.jpg
     url: /files/original/14fb2a58658c9a14fb2a58659080.jpg
+    alt:
+      en: "Two Coast Guard personnel in orange life vests on a boat examine a flooded house through its window, with floodwater surrounding nearby homes visible in the background; timestamp reads 12:20 PM."
 geo:
 id: 4022
 item_type: Still Image

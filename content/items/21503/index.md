@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0278-9-25.JPG
     thumb: /files/thumbnails/14fb29fe15316f14fb29fe153552.jpg
     url: /files/original/14fb29fe15316f14fb29fe153552.jpg
+    alt:
+      en: "Aerial view of a flooded residential street with rooftops of homes surrounded by brown floodwater, trees, and utility poles rising above the waterline."
 geo:
 id: 21503
 item_type: Still Image

@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BWD_a25e2cc142.jpg
     thumb: /files/thumbnails/14fb2a66b877c714fb2a66b87dd8.jpg
     url: /files/original/14fb2a66b877c714fb2a66b87dd8.jpg
+    alt:
+      en: "A Coast Guard pilot in a flight suit carries luggage while boarding a C-130 aircraft through its open side door, as another crew member reaches out from inside."
 geo:
 id: 2398
 item_type: Still Image

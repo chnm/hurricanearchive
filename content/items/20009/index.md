@@ -21,6 +21,8 @@ files:
     original_filename: Picture 106cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bb483b814fb2a0bb4879d.jpg
     url: /files/original/14fb2a0bb483b814fb2a0bb4879d.jpg
+    alt:
+      en: "A person in military camouflage sits in a vehicle, viewed from behind, looking out at stranded boats piled outdoors, one boat displaying a circular emblem on its hull."
 geo:
 id: 20009
 item_type: Still Image

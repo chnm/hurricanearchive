@@ -21,6 +21,8 @@ files:
     original_filename: 100_0100.JPG
     thumb: /files/thumbnails/14fb2a596a211e14fb2a596a2504.jpg
     url: /files/original/14fb2a596a211e14fb2a596a2504.jpg
+    alt:
+      en: "A red-hulled U.S. Coast Guard rescue boat carrying numerous passengers in life jackets floats on open water, with twin outboard motors and American flags visible at the stern."
 geo:
 id: 3814
 item_type: Still Image

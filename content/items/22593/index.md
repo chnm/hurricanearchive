@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0544Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f522e14414fb29f522e487.jpg
     url: /files/original/14fb29f522e14414fb29f522e487.jpg
+    alt:
+      en: "Blurred, motion-streaked photo of gray water or rain with dark tree branches and foliage visible at the upper edges of the frame."
 geo:
 id: 22593
 item_type: Still Image

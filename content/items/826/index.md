@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28043.jpg
     thumb: /files/thumbnails/14fb2a6cc8c65514fb2a6cc8ca3b.jpg
     url: /files/original/14fb2a6cc8c65514fb2a6cc8ca3b.jpg
+    alt:
+      en: "Brick church with a tall white steeple and stained-glass window, its glass door marked with spray-painted search-and-rescue symbols; a partially legible event sign stands in the dirt yard out front."
 geo:
   address: ''
   lat: 0.0

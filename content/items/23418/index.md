@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0095stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ef85454614fb29ef85492b.jpg
     url: /files/original/14fb29ef85454614fb29ef85492b.jpg
+    alt:
+      en: "Desolate intersection with a \"Lafitte Pkwy\" street sign and a \"Do Not Enter\" sign, surrounded by dead trees, storm debris, and empty storefronts under a partly cloudy sky."
 geo:
 id: 23418
 item_type: Still Image

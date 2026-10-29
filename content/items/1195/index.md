@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28007.jpg
     thumb: /files/thumbnails/14fb2a6a74351614fb2a6a7438b5.jpg
     url: /files/original/14fb2a6a74351614fb2a6a7438b5.jpg
+    alt:
+      en: "Rusted steel sheet pilings topped with a concrete cap form a floodwall, with gabled houses and chimneys visible against a clear blue sky behind it."
 geo:
   address: ''
   lat: 0.0

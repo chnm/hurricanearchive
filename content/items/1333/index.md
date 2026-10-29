@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28227.jpg
     thumb: /files/thumbnails/14fb2a6979127614fb2a69791664.jpg
     url: /files/original/14fb2a6979127614fb2a69791664.jpg
+    alt:
+      en: "A man in a white hard hat and FEMA badge stands beside a handmade plywood sign reading \"FREE COUNSELING for Waveland, come VENT with us,\" with storm debris visible behind him."
 geo:
   address: ''
   lat: 0.0

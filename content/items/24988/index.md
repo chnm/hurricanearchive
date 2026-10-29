@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1510superdome.JPG
     thumb: /files/thumbnails/14fb29e332eb4e14fb29e332ef22.jpg
     url: /files/original/14fb29e332eb4e14fb29e332ef22.jpg
+    alt:
+      en: "Multiple helicopters in flight above a rooftop helipad, with an \"Acadian Ambulance Services\" medical helicopter parked in the foreground near a \"Flammable Jet A\" fuel pump, elevated highways and buildings in the background."
 geo:
 id: 24988
 item_type: Still Image

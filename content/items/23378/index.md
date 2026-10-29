@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0077abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efc190d214fb29efc194b0.jpg
     url: /files/original/14fb29efc190d214fb29efc194b0.jpg
+    alt:
+      en: "A man in camouflage pants and a dark t-shirt, wearing a cap, walks along the yellow centerline of a paved road beside a flooded grassy field and drainage ditch."
 geo:
 id: 23378
 item_type: Still Image

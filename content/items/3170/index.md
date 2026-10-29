@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (22).JPG
     thumb: /files/thumbnails/14fb2a5d88d1ea14fb2a5d88d5ca.jpg
     url: /files/original/14fb2a5d88d1ea14fb2a5d88d5ca.jpg
+    alt:
+      en: "Exterior of a light-colored building with a \"United Way Member Agency\" sign, large windows with a storm-damaged awning, overgrown bushes, and a cracked sidewalk with a rusted storm drain in front."
 geo:
 id: 3170
 item_type: Still Image

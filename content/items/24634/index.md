@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005medics.JPG
     thumb: /files/thumbnails/14fb29e5fe1bea14fb29e5fe1fce.jpg
     url: /files/original/14fb29e5fe1bea14fb29e5fe1fce.jpg
+    alt:
+      en: "A man in a brown sleeveless shirt applies a bandage to his upper arm after receiving an injection, with another person in camouflage fatigues seated nearby and medical supplies on a white container."
 geo:
 id: 24634
 item_type: Still Image

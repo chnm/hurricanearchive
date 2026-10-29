@@ -24,6 +24,8 @@ files:
     original_filename: scan0115trimmedtiff.tif
     thumb: /files/thumbnails/14fb29cc46d4bc14fb29cc46d89c.jpg
     url: /files/original/14fb29cc46d4bc14fb29cc46d89c.tif
+    alt:
+      en: "Black-and-white photo of four women in 1930s dresses and a young boy in overalls standing together on a sidewalk in front of a house with a porch, numbered \"939\" above the door."
 geo:
 id: 30820
 item_type: Document

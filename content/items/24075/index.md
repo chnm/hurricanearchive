@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29eb03e0ea14fb29eb03e4d2.jpg
     url: /files/original/14fb29eb03e0ea14fb29eb03e4d2.jpg
+    alt:
+      en: "Aerial view of flooded marshland with patches of standing water among grassy terrain and a cluster of bare, partially submerged trees along the shoreline."
 geo:
 id: 24075
 item_type: Still Image

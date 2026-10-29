@@ -21,6 +21,8 @@ files:
     original_filename: 102-08_ba49a339c1.jpg
     thumb: /files/thumbnails/14fb2a21c45f9014fb2a21c46376.jpg
     url: /files/original/14fb2a21c45f9014fb2a21c46376.jpg
+    alt:
+      en: "Woman in a red fringed top and jeans smiles for the camera on a covered patio, with another person seated nearby near a palm frond and potted hanging plant."
 geo:
 id: 12690
 item_type: Still Image

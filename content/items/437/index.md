@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0021_393a78bb86.JPG
     thumb: /files/thumbnails/14fb2a6ff90d8c14fb2a6ff91410.jpg
     url: /files/original/14fb2a6ff90d8c14fb2a6ff91410.jpg
+    alt:
+      en: "A crushed, rusted white vintage car sits in front of storm-damaged houses, one covered with a blue tarp roof, surrounded by scattered debris and wreckage on the ground."
 geo:
   address: ''
   lat: 29.916852233070202

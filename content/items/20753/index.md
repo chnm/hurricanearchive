@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0071-9-25.JPG
     thumb: /files/thumbnails/14fb2a041a356614fb2a041a394b.jpg
     url: /files/original/14fb2a041a356614fb2a041a394b.jpg
+    alt:
+      en: "Aerial view of a flooded town with widespread standing water, debris-strewn buildings, scattered damaged roofs, and bare, storm-battered trees surrounding submerged structures and roads."
 geo:
 id: 20753
 item_type: Still Image

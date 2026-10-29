@@ -21,6 +21,8 @@ files:
     original_filename: end look down2.jpg
     thumb: /files/thumbnails/14fb2a206370c914fb2a206374ae.jpg
     url: /files/original/14fb2a206370c914fb2a206374ae.jpg
+    alt:
+      en: "Aerial view of a flooded courtyard beside a brick building marked \"Hancock Bank,\" with storm debris, torn awnings, plywood coverings, and standing muddy water."
 geo:
 id: 13101
 item_type: Still Image

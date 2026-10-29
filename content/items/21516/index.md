@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0281-9-25.JPG
     thumb: /files/thumbnails/14fb29fdd856d114fb29fdd85b15.jpg
     url: /files/original/14fb29fdd856d114fb29fdd85b15.jpg
+    alt:
+      en: "Aerial view of a flooded town with murky brown water submerging streets and surrounding buildings, leaving rooftops, parked vehicles, and utility poles partially visible above the waterline."
 geo:
 id: 21516
 item_type: Still Image

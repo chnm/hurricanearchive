@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0196.JPG
     thumb: /files/thumbnails/14fb2a0002e21d14fb2a0002e638.jpg
     url: /files/original/14fb2a0002e21d14fb2a0002e638.jpg
+    alt:
+      en: "Aerial view of a flattened neighborhood with standing floodwater, scattered debris, a damaged blue house, a partially submerged van, and bare trees stretching toward a hazy horizon with a water tower."
 geo:
 id: 21204
 item_type: Still Image

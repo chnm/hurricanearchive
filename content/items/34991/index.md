@@ -20,6 +20,8 @@ files:
     original_filename: 2298622046_ec666bd864.
     thumb: /files/thumbnails/14fb29c7f0d92c14fb29c7f0dd10.jpg
     url: /files/original/14fb29c7f0d92c14fb29c7f0dd10.jpg
+    alt:
+      en: "Two women examine a bicycle wheel in a workshop lined with shelves, boxes, and hanging tools; one holds the wheel while the other grips a small tool, with a partially visible green bike frame in the foreground."
 geo:
 id: 34991
 item_type: Still Image

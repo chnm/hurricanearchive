@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28655.jpg
     thumb: /files/thumbnails/14fb2a6c2826e414fb2a6c282acb.jpg
     url: /files/original/14fb2a6c2826e414fb2a6c282acb.jpg
+    alt:
+      en: "A tan puppy sits inside a wire dog crate with a metal food bowl, positioned beside empty crates and a black plastic divider on a wood-shaving covered floor."
 geo:
   address: ''
   lat: 0.0

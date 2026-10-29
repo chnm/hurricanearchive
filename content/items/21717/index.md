@@ -21,6 +21,8 @@ files:
     original_filename: P1010020.JPG
     thumb: /files/thumbnails/14fb29fc3a10a114fb29fc3a5e6f.jpg
     url: /files/original/14fb29fc3a10a114fb29fc3a5e6f.jpg
+    alt:
+      en: "View from inside the open rear cargo ramp of a military aircraft, with two crew members standing on the ramp, another seated nearby, and a forklift carrying cargo on the tarmac outside."
 geo:
 id: 21717
 item_type: Still Image

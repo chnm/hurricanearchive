@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6611_7b7b3aee9b.JPG
     thumb: /files/thumbnails/14fb29d2d4cb7f14fb29d2d4cf66.jpg
     url: /files/original/14fb29d2d4cb7f14fb29d2d4cf66.jpg
+    alt:
+      en: "Black-and-white group portrait of children in white first communion attire holding prayer books, standing on church steps with a priest, nun, and other adults behind them."
 geo:
   address: ''
   lat: 29.87876

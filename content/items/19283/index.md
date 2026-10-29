@@ -21,6 +21,8 @@ files:
     original_filename: S4300202iwojima.JPG
     thumb: /files/thumbnails/14fb2a1159cebb14fb2a1159d2a0.jpg
     url: /files/original/14fb2a1159cebb14fb2a1159d2a0.jpg
+    alt:
+      en: "Close-up of a red-and-white hazard label reading \"WARNING HAZARDOUS MATERIAL CALCIUM HYPOCHLORITE,\" with a glare spot visible in the upper right corner."
 geo:
 id: 19283
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041cameronS&R.JPG
     thumb: /files/thumbnails/14fb29f00a200a14fb29f00a23ef.jpg
     url: /files/original/14fb29f00a200a14fb29f00a23ef.jpg
+    alt:
+      en: "Aerial, hazy view of several vessels navigating a channel marked by two parallel stone jetties extending into calm, gray water."
 geo:
 id: 23300
 item_type: Still Image

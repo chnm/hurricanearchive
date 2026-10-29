@@ -21,6 +21,8 @@ files:
     original_filename: PICT0619Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f46c6a0914fb29f46c6ded.jpg
     url: /files/original/14fb29f46c6a0914fb29f46c6ded.jpg
+    alt:
+      en: "Two-story brick building with white columned balconies, surrounded by fallen tree branches and debris along a sidewalk, dated 09.15.2005."
 geo:
 id: 22721
 item_type: Still Image

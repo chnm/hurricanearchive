@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a04b13bf814fb2a04b13d9d.jpg
     url: /files/original/14fb2a04b13bf814fb2a04b13d9d.jpg
+    alt:
+      en: "Aerial view of a flooded rural landscape with a submerged roadway, downed utility poles, scattered debris, and partially submerged trees and structures surrounded by floodwater."
 geo:
 id: 20714
 item_type: Still Image

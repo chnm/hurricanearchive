@@ -20,6 +20,8 @@ files:
     original_filename: 2438608617_3dc5a892f7.
     thumb: /files/thumbnails/14fb29c836662714fb29c8366a0c.jpg
     url: /files/original/14fb29c836662714fb29c8366a0c.jpg
+    alt:
+      en: "Aerial view of a straight drainage canal lined with trees and houses, a bridge crossing midway, and a city skyline visible in the distance under a hazy sky."
 geo:
 id: 34951
 item_type: Still Image

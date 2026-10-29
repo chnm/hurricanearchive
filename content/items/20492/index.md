@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a06c6d66614fb2a06c7536d.jpg
     url: /files/original/14fb2a06c6d66614fb2a06c7536d.jpg
+    alt:
+      en: "A convoy of military trucks drives through a flooded roadway lined with bare trees, splashing water as two civilian vehicles wait on the unflooded side under a cloudy sky."
 geo:
 id: 20492
 item_type: Still Image

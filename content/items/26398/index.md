@@ -24,6 +24,8 @@ files:
     original_filename: ev 4 St_5f7d99b5a5. Bernard Market.jpg
     thumb: /files/thumbnails/14fb29d8d4b6ef14fb29d8d4badd.jpg
     url: /files/original/14fb29d8d4b6ef14fb29d8d4badd.jpg
+    alt:
+      en: "Black-and-white photo of a butcher shop interior with carcasses hanging from overhead racks, a man in a white apron cutting meat at a counter, and several customers and workers nearby."
 geo:
   address: ''
   lat: 29.87876

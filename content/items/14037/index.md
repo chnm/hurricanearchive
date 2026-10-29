@@ -21,6 +21,8 @@ files:
     original_filename: 20050927037.JPG
     thumb: /files/thumbnails/14fb2a1c204df014fb2a1c206288.jpg
     url: /files/original/14fb2a1c204df014fb2a1c206288.jpg
+    alt:
+      en: "A classroom wall map titled \"Calcasieu Parish,\" showing roads, waterways, and city boundaries, bordered by Beauregard, Jeff Davis, Cameron, and Texas, mounted above a dry-erase board with markers."
 geo:
   address: ''
   lat: 0.0

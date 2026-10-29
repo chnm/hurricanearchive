@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28470.jpg
     thumb: /files/thumbnails/14fb2a6c94f89514fb2a6c94fc7a.jpg
     url: /files/original/14fb2a6c94f89514fb2a6c94fc7a.jpg
+    alt:
+      en: "An older man rests on a cot with a sleeping child beside him, while a woman sits nearby, surrounded by bedding and belongings in a crowded shelter."
 geo:
   address: ''
   lat: 0.0

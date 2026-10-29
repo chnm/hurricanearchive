@@ -24,6 +24,8 @@ files:
     original_filename: P1010042.JPG
     thumb: /files/thumbnails/14fb2a5b9562c314fb2a5b9566a9.jpg
     url: /files/original/14fb2a5b9562c314fb2a5b9566a9.jpg
+    alt:
+      en: "Weathered wooden Windsor-style dining chairs with spindle backs lined up outdoors amid other discarded furniture, their finish stripped and surfaces grimy from exposure."
 geo:
 id: 3473
 item_type: Still Image

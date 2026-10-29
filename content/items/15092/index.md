@@ -21,6 +21,8 @@ files:
     original_filename: 1986 Billboard-19_88afb491ad.jpg
     thumb: /files/thumbnails/14fb2a17335c4d14fb2a17336031.jpg
     url: /files/original/14fb2a17335c4d14fb2a17336031.jpg
+    alt:
+      en: "Billboard for Elaine P. Nunez Vocational-Technical School advertising non-traditional job training, listing programs offered, financial assistance, address, and phone number, with cartoon figures illustrated."
 geo:
 id: 15092
 item_type: Still Image

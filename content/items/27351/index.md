@@ -23,6 +23,8 @@ files:
     original_filename: 209500052_f9e848980c.
     thumb: /files/thumbnails/14fb29d424d47b14fb29d424d945.jpg
     url: /files/original/14fb29d424d47b14fb29d424d945.jpg
+    alt:
+      en: "A concrete burial vault marked \"PG10\" rests above ground in a grassy field, with a depression nearby and trees in the background."
 geo:
   address: ''
   lat: 29.87552

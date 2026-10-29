@@ -26,6 +26,8 @@ files:
     original_filename: Mississippi_Etc_004_69b0a4d6c0.jpg
     thumb: /files/thumbnails/14fb2a6fb0e37b14fb2a6fb0e760.jpg
     url: /files/original/14fb2a6fb0e37b14fb2a6fb0e760.jpg
+    alt:
+      en: "A duct-taped refrigerator door bearing a flyer reading \"New Orleans' Audubon Zoo and Aquarium Animals Need Your Help - Hurricane Katrina Animals Fund,\" with \"EE23\" handwritten in red marker below."
 geo:
   address: ''
   lat: 29.938343

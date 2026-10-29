@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0369-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fce556ad14fb29fce55a90.jpg
     url: /files/original/14fb29fce556ad14fb29fce55a90.jpg
+    alt:
+      en: "Two people stand beside a white pickup truck, with a man in a mesh-back vest and cap writing in a small notebook while a woman in a striped shirt looks on, a nautical chart visible on the truck's hood."
 geo:
 id: 21637
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: '&ldquo;rescue&rdquo;'
     thumb: /files/thumbnails/14fb2a606b373914fb2a606b3948.jpg
     url: /files/original/14fb2a606b373914fb2a606b3948.jpg
+    alt:
+      en: "Child's crayon drawing labeled \"Desirae\" showing a row of colorful houses and trees behind wavy blue water, with storm clouds and a sun above, and a large bus with windows and wheels in the foreground."
 geo:
 id: 2726
 item_type: Still Image

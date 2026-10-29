@@ -21,6 +21,8 @@ files:
     original_filename: 03FB7D~1_0ce315cd6a.3.jpg
     thumb: /files/thumbnails/14fb29d7426eee14fb29d74296ef.jpg
     url: /files/original/14fb29d7426eee14fb29d74296ef.jpg
+    alt:
+      en: "Vintage photo postcard of a sandy beach with small figures swimming in the surf, decorative border, captioned \"Grand Isle, La., June, 1934\" and \"Surf Bathing.\""
 geo:
   address: ''
   lat: 29.91685

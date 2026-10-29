@@ -21,6 +21,8 @@ files:
     original_filename: 09240014rita.JPG
     thumb: /files/thumbnails/14fb2a0ec7b67314fb2a0ec7bba2.jpg
     url: /files/original/14fb2a0ec7b67314fb2a0ec7bba2.jpg
+    alt:
+      en: "A long cracked concrete driveway lined with trees and a lamppost leads to a distant car, with a bent metal frame structure and puddles visible on the surrounding grass."
 geo:
 id: 19613
 item_type: Still Image

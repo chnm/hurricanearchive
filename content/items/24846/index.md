@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2186superdome.JPG
     thumb: /files/thumbnails/14fb29e46d226f14fb29e46d270a.jpg
     url: /files/original/14fb29e46d226f14fb29e46d270a.jpg
+    alt:
+      en: "Night scene with a bus labeled \"T-106\" and a \"FEMA\" sign, surrounded by people in military gear and civilians, with stacked cases of bottled water in the foreground."
 geo:
 id: 24846
 item_type: Still Image

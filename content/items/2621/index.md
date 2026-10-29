@@ -24,6 +24,8 @@ files:
     original_filename: 20060210_MG_0481.jpg
     thumb: /files/thumbnails/14fb2a640f0ed814fb2a640f12bd.jpg
     url: /files/original/14fb2a640f0ed814fb2a640f12bd.jpg
+    alt:
+      en: "A man and woman in white sweaters wear cardboard FEMA trailer costumes reading \"Your FEMA trailer or mine,\" smiling on a French Quarter street during Mardi Gras."
 geo:
 id: 2621
 item_type: Still Image

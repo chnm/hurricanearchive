@@ -21,6 +21,8 @@ files:
     original_filename: Picture 366-J2.jpg
     thumb: /files/thumbnails/14fb29f9f4418914fb29f9f44578.jpg
     url: /files/original/14fb29f9f4418914fb29f9f44578.jpg
+    alt:
+      en: "Group of shirtless military personnel in camouflage pants working around fallen trees and debris, with smoke rising in the background and a utility pole with wires nearby."
 geo:
 id: 22035
 item_type: Still Image

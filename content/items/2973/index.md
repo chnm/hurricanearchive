@@ -21,6 +21,8 @@ files:
     original_filename: MVC-028S.JPG
     thumb: /files/thumbnails/14fb2a5f3e973014fb2a5f3e9b18.jpg
     url: /files/original/14fb2a5f3e973014fb2a5f3e9b18.jpg
+    alt:
+      en: "Close-up of an aircraft's tail section against a clear blue sky, showing a dented, bent wingtip and the dark green vertical stabilizer with visible rivets."
 geo:
 id: 2973
 item_type: Still Image

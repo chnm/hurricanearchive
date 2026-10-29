@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1477superdome.JPG
     thumb: /files/thumbnails/14fb29e396968f14fb29e3969a5c.jpg
     url: /files/original/14fb29e396968f14fb29e3969a5c.jpg
+    alt:
+      en: "A military medical helicopter marked with a red cross and \"2538\" sits on a rooftop helipad, with a person in flight gear walking toward it and another figure in uniform standing nearby, high-rise buildings visible beyond an elevated highway."
 geo:
 id: 24961
 item_type: Still Image

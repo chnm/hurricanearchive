@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0252downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1488f8c114fb2a14891474.jpg
     url: /files/original/14fb2a1488f8c114fb2a14891474.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with debris-strewn streets, stripped trees, and homes missing roofs or reduced to rubble, stretching toward a hazy horizon."
 geo:
 id: 18902
 item_type: Still Image

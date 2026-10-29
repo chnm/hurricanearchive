@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0091-9-25.JPG
     thumb: /files/thumbnails/14fb29e804491514fb29e8044e14.jpg
     url: /files/original/14fb29e804491514fb29e8044e14.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with collapsed and peeled-back roofs, scattered debris, downed trees, and standing floodwater along a road beside a river or canal."
 geo:
 id: 24424
 item_type: Still Image

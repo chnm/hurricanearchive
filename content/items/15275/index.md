@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-019_d310cd7d1f.jpg
     thumb: /files/thumbnails/14fb2a16ab45b814fb2a16ab49a7.jpg
     url: /files/original/14fb2a16ab45b814fb2a16ab49a7.jpg
+    alt:
+      en: "Large group of volunteers, many wearing matching white T-shirts, pose together on a waterfront lot littered with debris and rope, with a dock, boats, and overcast sky in the background."
 geo:
 id: 15275
 item_type: Still Image

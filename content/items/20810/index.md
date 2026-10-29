@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0083-9-25.JPG
     thumb: /files/thumbnails/14fb2a039e911214fb2a039e96d0.jpg
     url: /files/original/14fb2a039e911214fb2a039e96d0.jpg
+    alt:
+      en: "Aerial view of a flooded residential lot with a collapsed house foundation, scattered debris, and downed trees surrounded by standing floodwater, with a paved road running along the left edge."
 geo:
 id: 20810
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: pt_from_wtr_twr2_de2b67f2ef.jpg
     thumb: /files/thumbnails/14fb29d58de61014fb29d58e0704.jpg
     url: /files/original/14fb29d58de61014fb29d58e0704.jpg
+    alt:
+      en: "Storm-damaged white building tilted off its foundation, with a collapsed porch, exposed staircase, downed power lines, and debris-strewn marsh grass covering the ground."
 geo:
   address: ''
   lat: 0.0

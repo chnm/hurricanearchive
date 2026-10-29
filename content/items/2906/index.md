@@ -21,6 +21,8 @@ files:
     original_filename: MVC-029S.JPG
     thumb: /files/thumbnails/14fb2a5f9ca13f14fb2a5f9ca52d.jpg
     url: /files/original/14fb2a5f9ca13f14fb2a5f9ca52d.jpg
+    alt:
+      en: "Interior of a large shipboard compartment with black-and-white support columns, dark red flooring, folding tables and chairs stacked along the walls, and overhead ductwork and piping."
 geo:
 id: 2906
 item_type: Still Image

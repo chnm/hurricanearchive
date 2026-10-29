@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0230-9-25.JPG
     thumb: /files/thumbnails/14fb29ff703d9914fb29ff704180.jpg
     url: /files/original/14fb29ff703d9914fb29ff704180.jpg
+    alt:
+      en: "Aerial view of a river or waterway with a large rainbow-colored oil sheen spreading across the murky water's surface, bordered by dense green trees along the bank."
 geo:
 id: 21334
 item_type: Still Image

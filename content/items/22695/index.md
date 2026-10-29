@@ -21,6 +21,8 @@ files:
     original_filename: PICT0297Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4bb094314fb29f4bb0d1f.jpg
     url: /files/original/14fb29f4bb094314fb29f4bb0d1f.jpg
+    alt:
+      en: "Large brick building labeled \"Louisiana National Guard\" with parked military and civilian vehicles out front, a military Humvee, and clothing hung to dry on lines near the lawn; dated 09.15.2005."
 geo:
 id: 22695
 item_type: Still Image

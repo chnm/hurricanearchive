@@ -21,6 +21,8 @@ files:
     original_filename: Picture 052cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bfad01914fb2a0bfad3fe.jpg
     url: /files/original/14fb2a0bfad01914fb2a0bfad3fe.jpg
+    alt:
+      en: "A fallen, large tree with browning leaves lies across a leaf-covered path, its branches and debris piled beside a street, with a house visible in the background."
 geo:
 id: 19955
 item_type: Still Image

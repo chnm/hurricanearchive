@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AlijahOConnor_03_094f5b223a.jpg
     thumb: /files/thumbnails/14fb2a184e962114fb2a184eb23e.jpg
     url: /files/original/14fb2a184e962114fb2a184eb23e.jpg
+    alt:
+      en: "Studio portrait of a smiling woman with an updo hairstyle, wearing a red floral top and pants, reclining against a backdrop of water and blossoming branches."
 geo:
 id: 14675
 item_type: Still Image

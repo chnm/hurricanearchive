@@ -26,6 +26,8 @@ files:
     original_filename: IMG_1250_c3d43bb906.JPG
     thumb: /files/thumbnails/14fb2a70d9a37214fb2a70d9a7b3.jpg
     url: /files/original/14fb2a70d9a37214fb2a70d9a7b3.jpg
+    alt:
+      en: "Skyline view of downtown New Orleans with high-rise buildings, including the Marriott and Sheraton hotels, seen beyond trees and rooftops, with power lines crossing the foreground."
 geo:
   address: ''
   lat: 30.030902

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a150a5fd714fb2a150a63c3.jpg
     url: /files/original/14fb2a150a5fd714fb2a150a63c3.jpg
+    alt:
+      en: "Aerial view of a flattened neighborhood with only concrete house foundations remaining, scattered debris, a muddy canal, and a collapsed orange pedestrian bridge crossing the water."
 geo:
 id: 18822
 item_type: Still Image

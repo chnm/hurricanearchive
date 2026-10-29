@@ -21,6 +21,8 @@ files:
     original_filename: PCDV0655.JPG
     thumb: /files/thumbnails/14fb29fc2e1c3714fb29fc2e201d.jpg
     url: /files/original/14fb29fc2e1c3714fb29fc2e201d.jpg
+    alt:
+      en: "Blurry interior room with a wooden desk in foreground, two framed black-and-white pictures on a stained wall, and a dark bookshelf visible through an archway at left."
 geo:
 id: 21722
 item_type: Still Image

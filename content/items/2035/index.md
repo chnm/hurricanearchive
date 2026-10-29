@@ -26,6 +26,8 @@ files:
     original_filename: Image051_912b655b60.jpg
     thumb: /files/thumbnails/14fb2a6daa096014fb2a6daa0d38.jpg
     url: /files/original/14fb2a6daa096014fb2a6daa0d38.jpg
+    alt:
+      en: "A pile of discarded tires and debris sits behind a chain-link fence, with a damaged building and twisted metal roofing visible in the background."
 geo:
   address: ''
   lat: 30.2547301074341

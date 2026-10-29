@@ -20,6 +20,8 @@ files:
     original_filename: 2326879872_f2a1af4ae0.
     thumb: /files/thumbnails/14fb29c9e8cf9614fb29c9e8d37c.jpg
     url: /files/original/14fb29c9e8cf9614fb29c9e8d37c.jpg
+    alt:
+      en: "Debris-strewn road beside a damaged waterfront with broken wooden pilings in the water, scattered rubble, and power lines leading toward distant houses and trees."
 geo:
   address: ''
   lat: 30.22586

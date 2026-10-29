@@ -26,6 +26,8 @@ files:
     original_filename: Wilmas_Owls_copy_12abcfdc8f.jpg
     thumb: /files/thumbnails/14fb2a6d61cc4d14fb2a6d61d032.jpg
     url: /files/original/14fb2a6d61cc4d14fb2a6d61d032.jpg
+    alt:
+      en: "Two spotted burrowing owls stand together in grass near fallen tree branches and an orange tarp, shown in a pair of similar close-up photos."
 geo:
   address: ''
   lat: 26.015754898733096

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28752.jpg
     thumb: /files/thumbnails/14fb2a6c82f9ea14fb2a6c82fdd0.jpg
     url: /files/original/14fb2a6c82f9ea14fb2a6c82fdd0.jpg
+    alt:
+      en: "Two women smile together inside an animal shelter facility; one wears a navy polo shirt, the other a white T-shirt reading \"HELPING HUMANS ONE ANIMAL AT A TIME,\" with metal cages and fans in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0106abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef6a57a914fb29ef6a5b8e.jpg
     url: /files/original/14fb29ef6a57a914fb29ef6a5b8e.jpg
+    alt:
+      en: "A line of pickup trucks, one towing a trailer, moves along a mud- and debris-covered road, with floodwater pooled along the roadside and people walking in the distance."
 geo:
 id: 23441
 item_type: Still Image

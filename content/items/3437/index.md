@@ -24,6 +24,8 @@ files:
     original_filename: P1010005.JPG
     thumb: /files/thumbnails/14fb2a5bbc3ac314fb2a5bbc4055.jpg
     url: /files/original/14fb2a5bbc3ac314fb2a5bbc4055.jpg
+    alt:
+      en: "A brick house with a blue tarp covering storm-damaged roof sections, with a discarded refrigerator and debris on the front lawn near a stop sign at a residential street corner."
 geo:
 id: 3437
 item_type: Still Image

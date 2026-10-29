@@ -21,6 +21,8 @@ files:
     original_filename: NO 014majortodd.jpg
     thumb: /files/thumbnails/14fb29f2e50dc614fb29f2e511ac.jpg
     url: /files/original/14fb29f2e50dc614fb29f2e511ac.jpg
+    alt:
+      en: "Aerial, blurred view of a paved lot with painted arrow and yellow lines, where clusters of people sit or stand in groups, casting long shadows across the pavement."
 geo:
 id: 22892
 item_type: Still Image

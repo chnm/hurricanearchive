@@ -24,6 +24,8 @@ files:
     original_filename: 8196926-R1-024-10A.jpg
     thumb: /files/thumbnails/14fb29cf322e8f14fb29cf323fcc.jpg
     url: /files/original/14fb29cf322e8f14fb29cf323fcc.jpg
+    alt:
+      en: "Military medical helicopter marked \"DUSTOFF\" and \"332\" with a red cross, parked on tarmac as Guardsmen in camouflage uniforms stand and sit near the open door inspecting it."
 geo:
 id: 29117
 item_type: Still Image

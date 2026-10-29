@@ -23,6 +23,8 @@ files:
     original_filename: 2326891590_5b4153969a.
     thumb: /files/thumbnails/14fb29ca072ff114fb29ca0733d9.jpg
     url: /files/original/14fb29ca072ff114fb29ca0733d9.jpg
+    alt:
+      en: "A storm-damaged house on stilts stands behind a small boat crushed under a collapsed carport roof, with a leaning utility pole and tangled wires in the foreground."
 geo:
   address: ''
   lat: 30.22586

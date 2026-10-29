@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024M.JPG
     thumb: /files/thumbnails/14fb2a069ac50214fb2a069ac8ea.jpg
     url: /files/original/14fb2a069ac50214fb2a069ac8ea.jpg
+    alt:
+      en: "Blurry, out-of-focus photograph of a building silhouette against a pale blue sky, with no legible details or text visible."
 geo:
 id: 20503
 item_type: Still Image

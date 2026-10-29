@@ -26,6 +26,8 @@ files:
     original_filename: roadsidestand_39fe8c0a0b.jpg
     thumb: /files/thumbnails/14fb2a6d58b2f714fb2a6d58bb21.jpg
     url: /files/original/14fb2a6d58b2f714fb2a6d58bb21.jpg
+    alt:
+      en: "A food concession trailer decorated with cartoon crawfish and alligator murals, parked next to a dark minivan, with pennant flags and storm-damaged structures visible in the background."
 geo:
   address: ''
   lat: 29.729799972602194

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28701.jpg
     thumb: /files/thumbnails/14fb2a6c2c904614fb2a6c2c9b79.jpg
     url: /files/original/14fb2a6c2c904614fb2a6c2c9b79.jpg
+    alt:
+      en: "A woman sits in a cluttered, makeshift living space with a quilt-covered bed, storage bins, and a wooden table, her hand wrapped in a yellow bandage as she looks toward the camera."
 geo:
   address: ''
   lat: 0.0

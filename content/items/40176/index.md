@@ -20,6 +20,8 @@ files:
     original_filename: DSCF0586_23e6770066.JPG
     thumb: /files/thumbnails/14fb29c508a01414fb29c508a3fa.jpg
     url: /files/original/14fb29c508a01414fb29c508a3fa.jpg
+    alt:
+      en: "Seven children sit in a row on a concrete step against a brick wall with a gray metal door, smiling and laughing together while waiting for a parade."
 geo:
   address: ''
   lat: 0.0

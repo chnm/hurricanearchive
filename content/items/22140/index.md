@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-20-19AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f95d371114fb29f95d3af6.jpg
     url: /files/original/14fb29f95d371114fb29f95d3af6.jpg
+    alt:
+      en: "Blurry, out-of-focus photograph with a finger partially obscuring the lens, streaks of light, and scattered bright reflections against a blue-toned background."
 geo:
 id: 22140
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 206cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b4c4a4c14fb2a0b4c4e31.jpg
     url: /files/original/14fb2a0b4c4a4c14fb2a0b4c4e31.jpg
+    alt:
+      en: "A gray fire hydrant stands in a grassy field, with a large fallen, uprooted tree lying on its side in the background amid other standing trees."
 geo:
 id: 20109
 item_type: Still Image

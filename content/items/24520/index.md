@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0109-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e72a56be14fb29e72a5a96.jpg
     url: /files/original/14fb29e72a56be14fb29e72a5a96.jpg
+    alt:
+      en: "Aerial view of extensive flooding covering fields and structures, with bare trees rising from the water, a collapsed carport with debris, and scattered wreckage across the submerged landscape."
 geo:
 id: 24520
 item_type: Still Image

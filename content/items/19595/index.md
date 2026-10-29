@@ -21,6 +21,8 @@ files:
     original_filename: S4300074zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ee5642d14fb2a0ee56814.jpg
     url: /files/original/14fb2a0ee5642d14fb2a0ee56814.jpg
+    alt:
+      en: "Interior view through an aircraft's open window showing a tan bench seat with seatbelts, a fire extinguisher mounted by the door, and a grassy field visible through the windshield beyond."
 geo:
 id: 19595
 item_type: Still Image

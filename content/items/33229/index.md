@@ -23,6 +23,8 @@ files:
     original_filename: 1260625584_99952c09ad.jpg
     thumb: /files/thumbnails/14fb29cb6562ee14fb29cb656826.jpg
     url: /files/original/14fb29cb6562ee14fb29cb656826.jpg
+    alt:
+      en: "Weathered sign reading \"Coin Laundrymat\" mounted on a cracked, paint-chipped wall, with a visible flood line obscuring the lower text and pipes protruding above the frame."
 geo:
 id: 33229
 item_type: Still Image

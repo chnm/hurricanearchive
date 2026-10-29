@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0126abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef4410b614fb29ef44149b.jpg
     url: /files/original/14fb29ef4410b614fb29ef44149b.jpg
+    alt:
+      en: "A soldier in woodland camouflage, sunglasses, and cap carries a rifle while walking past parked vehicles, including a white pickup truck, on a paved road lined with trees."
 geo:
 id: 23478
 item_type: Still Image

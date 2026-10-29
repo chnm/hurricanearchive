@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0252.JPG
     thumb: /files/thumbnails/14fb2a55cae91414fb2a55caed4a.jpg
     url: /files/original/14fb2a55cae91414fb2a55caed4a.jpg
+    alt:
+      en: "View through a multi-pane window with blinds, looking out at an apartment complex with a debris-strewn parking lot and scattered building materials on the ground."
 geo:
 id: 4742
 item_type: Still Image

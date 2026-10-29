@@ -21,6 +21,8 @@ files:
     original_filename: Picture 373-J2.jpg
     thumb: /files/thumbnails/14fb29f9ed7ac814fb29f9ed8120.jpg
     url: /files/original/14fb29f9ed7ac814fb29f9ed8120.jpg
+    alt:
+      en: "A brick building labeled \"Jackson Barracks\" stands beside a debris-strewn driveway with a white van parked near portable toilets, trees, and a dumpster in the foreground."
 geo:
 id: 22042
 item_type: Still Image

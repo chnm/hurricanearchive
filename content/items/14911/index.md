@@ -20,6 +20,8 @@ files:
     original_filename: DSCF0083_e7e0a0806c.JPG
     thumb: /files/thumbnails/14fb2a1788151b14fb2a17881900.jpg
     url: /files/original/14fb2a1788151b14fb2a17881900.jpg
+    alt:
+      en: "Flood-damaged room with overturned furniture, a collapsed desk, and debris piled on the floor; walls and ceiling are heavily stained with mold, and a \"Rubber Ducky Dr\" sign hangs above a cabinet."
 geo:
   address: 4782 Citrus Drive, New Orleans
   lat: 30.02205

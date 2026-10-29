@@ -21,6 +21,8 @@ files:
     original_filename: JB 3 Pontchartrain Beach_da7eeff27f.1.jpg
     thumb: /files/thumbnails/14fb29d823c41514fb29d823c7f4.jpg
     url: /files/original/14fb29d823c41514fb29d823c7f4.jpg
+    alt:
+      en: "Black-and-white snapshot of a woman in a belted, button-front dress posing in front of a giant funhouse face sculpture at Pontchartrain Beach, with children playing and a Ferris wheel in the background."
 geo:
   address: ''
   lat: 29.87876

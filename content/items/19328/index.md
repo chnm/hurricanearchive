@@ -21,6 +21,8 @@ files:
     original_filename: J2 (45).JPG
     thumb: /files/thumbnails/14fb2a1120bed314fb2a1120c6e9.jpg
     url: /files/original/14fb2a1120bed314fb2a1120c6e9.jpg
+    alt:
+      en: "Very dark aerial or elevated view of a stadium or arena interior, with a curved roof structure visible at top and scattered debris faintly visible on the dim floor below."
 geo:
 id: 19328
 item_type: Still Image

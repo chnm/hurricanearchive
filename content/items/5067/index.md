@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0412.JPG
     thumb: /files/thumbnails/14fb2a542855d914fb2a542859bd.jpg
     url: /files/original/14fb2a542855d914fb2a542859bd.jpg
+    alt:
+      en: "Storm-damaged property with a tarp draped over a wooden frame structure, surrounded by debris, bare trees, and a partially collapsed building in the background."
 geo:
 id: 5067
 item_type: Still Image

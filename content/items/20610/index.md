@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042M.JPG
     thumb: /files/thumbnails/14fb2a05a95fd414fb2a05a963bc.jpg
     url: /files/original/14fb2a05a95fd414fb2a05a963bc.jpg
+    alt:
+      en: "Blurry indoor photo of a man in military camouflage uniform and glasses reviewing documents at a desk, with other people and office equipment visible in the background."
 geo:
 id: 20610
 item_type: Still Image

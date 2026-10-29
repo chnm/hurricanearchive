@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_ImaniCooper_01_950bfb06bc.jpg
     thumb: /files/thumbnails/14fb2a17d26ace14fb2a17d27c7f.jpg
     url: /files/original/14fb2a17d26ace14fb2a17d27c7f.jpg
+    alt:
+      en: "A young girl in a school uniform sits smiling on a chair in a classroom, with a book display case, stuffed animals, and a table visible nearby."
 geo:
 id: 14771
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300071zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ee9763414fb2a0ee97ad4.jpg
     url: /files/original/14fb2a0ee9763414fb2a0ee97ad4.jpg
+    alt:
+      en: "Line of men in military uniforms and casual clothes serving themselves food from steam trays and a large bin of coleslaw at an indoor buffet, with woven baskets of utensils and napkins in the foreground."
 geo:
 id: 19592
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2421693318_19b44c9e91.
     thumb: /files/thumbnails/14fb29c8f3b76914fb29c8f3b9d9.jpg
     url: /files/original/14fb29c8f3b76914fb29c8f3b9d9.jpg
+    alt:
+      en: "Interior view through a doorway into a damaged, multicolored room with peeling paint, a round convex mirror on the wall, a barred window, and debris scattered across the floor."
 geo:
 id: 34740
 item_type: Still Image

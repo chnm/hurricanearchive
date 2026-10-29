@@ -21,6 +21,8 @@ files:
     original_filename: SecondLine-3404_bebf553c4a.jpg
     thumb: /files/thumbnails/14fb2a1718d86514fb2a1718dc4b.jpg
     url: /files/original/14fb2a1718d86514fb2a1718dc4b.jpg
+    alt:
+      en: "Brass band musicians play trombone, sousaphone, and saxophone while marching with a bass drum in a New Orleans street parade, surrounded by onlookers and trees."
 geo:
 id: 15110
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2457403886_90bd9cd614.
     thumb: /files/thumbnails/14fb29c865039c14fb29c865080a.jpg
     url: /files/original/14fb29c865039c14fb29c865080a.jpg
+    alt:
+      en: "A muddy riverbank lined with small marker stakes, with dredged sediment piled along the shore and trees visible in the distance under a clear sky."
 geo:
 id: 34933
 item_type: Still Image

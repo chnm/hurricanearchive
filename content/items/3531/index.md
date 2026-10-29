@@ -24,6 +24,8 @@ files:
     original_filename: P1010106.JPG
     thumb: /files/thumbnails/14fb2a5b01da7214fb2a5b01de57.jpg
     url: /files/original/14fb2a5b01da7214fb2a5b01de57.jpg
+    alt:
+      en: "Street sign reading \"Lotus\" on a wooden utility pole, with a tall palm tree, boarded-up white houses, and large piles of storm debris curbside along the road."
 geo:
 id: 3531
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 060.jpg
     thumb: /files/thumbnails/14fb2a22aa5e7614fb2a22aa625c.jpg
     url: /files/original/14fb2a22aa5e7614fb2a22aa625c.jpg
+    alt:
+      en: "Storm-wrecked roadside lot scattered with debris near a \"Star Inn\" sign and a \"P&L Qwik Mart\" sign, with a damaged motel and bare trees in the background, dated 2005/09/24."
 geo:
 id: 11938
 item_type: Still Image

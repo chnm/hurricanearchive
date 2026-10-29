@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0124-21.JPG
     thumb: /files/thumbnails/14fb29e64104f614fb29e64108f8.jpg
     url: /files/original/14fb29e64104f614fb29e64108f8.jpg
+    alt:
+      en: "Abstract motion-blurred photograph in green tones with horizontal streaks of light, likely taken from a moving vehicle; no discernible objects or text visible."
 geo:
 id: 24599
 item_type: Still Image

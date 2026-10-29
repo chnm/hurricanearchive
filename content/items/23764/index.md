@@ -21,6 +21,8 @@ files:
     original_filename: PICT0078neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed35afe414fb29ed35b3bc.jpg
     url: /files/original/14fb29ed35afe414fb29ed35b3bc.jpg
+    alt:
+      en: "Photo taken from inside a military truck cab shows a highway overpass with a green sign reading \"Exit 231A, Metairie Rd, City Park Ave, 1/4 Mile,\" dated 09.15.2005."
 geo:
 id: 23764
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28731.jpg
     thumb: /files/thumbnails/14fb2a6905038814fb2a6905074b.jpg
     url: /files/original/14fb2a6905038814fb2a6905074b.jpg
+    alt:
+      en: "Handwritten signs posted on a metal structure read \"2. CAT TRIAGE 'KITTY WELCOME CENTER'\" with a cat face drawn below, alongside a partial sign reading \"ALL CATS\" and another referencing animal food."
 geo:
   address: ''
   lat: 0.0

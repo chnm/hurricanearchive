@@ -24,6 +24,8 @@ files:
     original_filename: P1010039.JPG
     thumb: /files/thumbnails/14fb2a5aa34fd414fb2a5aa353c5.jpg
     url: /files/original/14fb2a5aa34fd414fb2a5aa353c5.jpg
+    alt:
+      en: "A row of ten dark bronze-colored busts depicting historical figures sits atop wooden gymnasium bleachers against a white cinderblock wall."
 geo:
 id: 3608
 item_type: Still Image

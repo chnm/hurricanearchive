@@ -21,6 +21,8 @@ files:
     original_filename: MVC-017S.JPG
     thumb: /files/thumbnails/14fb2a5fef2cd014fb2a5fef30b9.jpg
     url: /files/original/14fb2a5fef2cd014fb2a5fef30b9.jpg
+    alt:
+      en: "A jet engine and missile mounted on a yellow transport cart outside a hangar, with a yellow U.S. Air Force ground support vehicle in the foreground."
 geo:
 id: 2826
 item_type: Still Image

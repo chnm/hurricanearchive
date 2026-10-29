@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 053.jpg
     thumb: /files/thumbnails/14fb2a22b122dd14fb2a22b126c3.jpg
     url: /files/original/14fb2a22b122dd14fb2a22b126c3.jpg
+    alt:
+      en: "A white pickup truck lies overturned on grass, its roof crushed, amid storm-damaged palm trees and a heavily damaged building; timestamp reads 2005/09/24."
 geo:
 id: 11931
 item_type: Still Image

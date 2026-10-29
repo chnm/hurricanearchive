@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0114-21.JPG
     thumb: /files/thumbnails/14fb29e6d1479014fb29e6d14b9d.jpg
     url: /files/original/14fb29e6d1479014fb29e6d14b9d.jpg
+    alt:
+      en: "Soldiers in camouflage military uniforms converse with a woman in a red top in a crowded indoor setting, with other people visible in the blurred background."
 geo:
 id: 24548
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010081empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee23e71514fb29ee2433cc.jpg
     url: /files/original/14fb29ee23e71514fb29ee2433cc.jpg
+    alt:
+      en: "Flooded residential area with standing water surrounded by debris, downed trees, and a partially submerged pickup truck; an aluminum boat sits grounded in the foreground under a clear blue sky."
 geo:
 id: 23640
 item_type: Still Image

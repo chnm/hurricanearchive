@@ -21,6 +21,8 @@ files:
     original_filename: honoreneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ec9ddd6014fb29ec9de162.jpg
     url: /files/original/14fb29ec9ddd6014fb29ec9de162.jpg
+    alt:
+      en: "A soldier in camouflage uniform and sunglasses sits in a military vehicle on a city street, with a storefront sign reading \"VISION OPTIQUE\" visible in the background."
 geo:
 id: 23883
 item_type: Still Image

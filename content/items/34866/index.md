@@ -20,6 +20,8 @@ files:
     original_filename: 2457563902_62319751a8.
     thumb: /files/thumbnails/14fb29c8dd11d714fb29c8dd15be.jpg
     url: /files/original/14fb29c8dd11d714fb29c8dd15be.jpg
+    alt:
+      en: "Large construction or paving equipment and several trucks lined up on a cleared dirt lot under a bright blue sky with scattered clouds, dry grass visible in the foreground."
 geo:
 id: 34866
 item_type: Still Image

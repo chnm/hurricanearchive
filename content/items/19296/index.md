@@ -21,6 +21,8 @@ files:
     original_filename: J2 (16).JPG
     thumb: /files/thumbnails/14fb2a114e386414fb2a114e3c49.jpg
     url: /files/original/14fb2a114e386414fb2a114e3c49.jpg
+    alt:
+      en: "Empty street at dusk lined with balconied buildings and signs reading \"Elegant Illusions,\" \"Big Daddy's Bottomless Topless,\" and \"Table Top Dancing,\" with a pickup truck parked curbside and flags hanging overhead."
 geo:
 id: 19296
 item_type: Still Image

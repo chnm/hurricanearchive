@@ -21,6 +21,8 @@ files:
     original_filename: Picture 380-J2.jpg
     thumb: /files/thumbnails/14fb29f9d5644c14fb29f9d56829.jpg
     url: /files/original/14fb29f9d5644c14fb29f9d56829.jpg
+    alt:
+      en: "A man in military camouflage pants sits at a folding table in a storage area, with a sign reading \"S-4 769th Operational Hours 0800-1600\" posted on a magenta door in the foreground."
 geo:
 id: 22049
 item_type: Still Image

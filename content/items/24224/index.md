@@ -21,6 +21,8 @@ files:
     original_filename: 09140005.JPG
     thumb: /files/thumbnails/14fb29e992be5214fb29e992c204.jpg
     url: /files/original/14fb29e992be5214fb29e992c204.jpg
+    alt:
+      en: "A large domed stadium with a curved roof stands beyond a concrete highway barrier, with a tall light pole in the foreground and a high-rise building visible to the left under a hazy sky."
 geo:
 id: 24224
 item_type: Still Image

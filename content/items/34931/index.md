@@ -20,6 +20,8 @@ files:
     original_filename: 2456562513_b4006bb6ea.
     thumb: /files/thumbnails/14fb29c873027f14fb29c87306db.jpg
     url: /files/original/14fb29c873027f14fb29c87306db.jpg
+    alt:
+      en: "Aerial view of a large excavated borrow pit with dark soil and equipment tracks, bordered by green fields and forest, with a road running alongside; text reads \"Lake Cataouatche Burrow Pit.\""
 geo:
 id: 34931
 item_type: Still Image

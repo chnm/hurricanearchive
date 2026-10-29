@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0351.JPG
     thumb: /files/thumbnails/14fb2a5470e27814fb2a5470e65d.jpg
     url: /files/original/14fb2a5470e27814fb2a5470e65d.jpg
+    alt:
+      en: "Debris-strewn lot with scattered lumber, insulation, and household items amid gravel, surrounded by bare and broken trees under an overcast sky."
 geo:
 id: 5006
 item_type: Still Image

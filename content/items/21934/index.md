@@ -21,6 +21,8 @@ files:
     original_filename: Picture 265-J2.jpg
     thumb: /files/thumbnails/14fb29faeecaf114fb29faeecf7b.jpg
     url: /files/original/14fb29faeecaf114fb29faeecf7b.jpg
+    alt:
+      en: "A large pipe discharges water into a concrete drainage canal, with utility poles, bare trees, and a wall marked with faint graffiti visible in the background under a clear sky."
 geo:
 id: 21934
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: Picture_044_aa034f50a3.jpg
     thumb: /files/thumbnails/14fb2a70f24ac114fb2a70f24e9a.jpg
     url: /files/original/14fb2a70f24ac114fb2a70f24e9a.jpg
+    alt:
+      en: "A costumed figure in a curly black wig and \"FEMALE IMPERSONATOR\" T-shirt, with caution tape belt, holds a mock $2,000 FEMA check at a nighttime party."
 geo:
   address: ''
   lat: 29.938343

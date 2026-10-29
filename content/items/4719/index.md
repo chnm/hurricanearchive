@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0066.JPG
     thumb: /files/thumbnails/14fb2a55fafde014fb2a55fb01c6.jpg
     url: /files/original/14fb2a55fafde014fb2a55fb01c6.jpg
+    alt:
+      en: "Debris-strewn landscape with damaged, partially stripped trees under a clear blue sky; two people walk among scattered wreckage near a partially visible structure in the background."
 geo:
 id: 4719
 item_type: Still Image

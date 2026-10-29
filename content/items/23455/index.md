@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0113abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef5df64114fb29ef5dfa27.jpg
     url: /files/original/14fb29ef5df64114fb29ef5dfa27.jpg
+    alt:
+      en: "A herd of cattle stands and walks along a cracked two-lane road flanked by extensive floodwater, downed utility poles, and debris-covered grass on both sides."
 geo:
 id: 23455
 item_type: Still Image

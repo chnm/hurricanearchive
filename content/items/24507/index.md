@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0107-21.JPG
     thumb: /files/thumbnails/14fb29e7363f3914fb29e736431f.jpg
     url: /files/original/14fb29e7363f3914fb29e736431f.jpg
+    alt:
+      en: "Sideways-oriented photo of two men in military camouflage uniforms with American flag patches on their shoulders, standing indoors near equipment; one wears glasses and appears to be signing a document."
 geo:
 id: 24507
 item_type: Still Image

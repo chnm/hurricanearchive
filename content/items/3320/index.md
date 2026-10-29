@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (79).jpg
     thumb: /files/thumbnails/14fb2a5c6d34b314fb2a5c6d3897.jpg
     url: /files/original/14fb2a5c6d34b314fb2a5c6d3897.jpg
+    alt:
+      en: "Thousands of dead silver fish cover a wet street and pool near a dock, their bodies spread across the pavement and dark mud in the sunlight."
 geo:
 id: 3320
 item_type: Still Image

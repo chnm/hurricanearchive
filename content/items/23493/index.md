@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0133cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef369dc114fb29ef36a1a7.jpg
     url: /files/original/14fb29ef369dc114fb29ef36a1a7.jpg
+    alt:
+      en: "Aerial view of an institutional campus complex with multiple large beige buildings, a central smokestack, and a white colonnaded mansion, surrounded by dense trees and open green fields."
 geo:
 id: 23493
 item_type: Still Image

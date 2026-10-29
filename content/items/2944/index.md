@@ -21,6 +21,8 @@ files:
     original_filename: MVC-033S.JPG
     thumb: /files/thumbnails/14fb2a5f7f3b0a14fb2a5f7f3eef.jpg
     url: /files/original/14fb2a5f7f3b0a14fb2a5f7f3eef.jpg
+    alt:
+      en: "A rusted orange metal hatch opens into a dark, debris-filled compartment containing a dusty cloth-covered object, scattered wires, and metal shelving; a person's sneaker is visible at the edge."
 geo:
 id: 2944
 item_type: Still Image

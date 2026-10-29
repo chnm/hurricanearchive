@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006gillslong.JPG
     thumb: /files/thumbnails/14fb2a0daa833614fb2a0daa8724.jpg
     url: /files/original/14fb2a0daa833614fb2a0daa8724.jpg
+    alt:
+      en: "Interior of a military helicopter cabin, with an older man wearing sunglasses seated in the foreground and a helmeted pilot visible ahead through the open side door, trees and sky in the background."
 geo:
 id: 19815
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9223.jpg
     thumb: /files/thumbnails/14fb2a62ba17cc14fb2a62ba1bb2.jpg
     url: /files/original/14fb2a62ba17cc14fb2a62ba1bb2.jpg
+    alt:
+      en: "Severely storm-damaged gymnasium with exposed roof trusses open to blue sky, a broken basketball backboard, and rubble covering the floor, with a low building visible in the background."
 geo:
 id: 2655
 item_type: Still Image

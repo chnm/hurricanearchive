@@ -26,6 +26,8 @@ files:
     original_filename: 100_0099_7ff0692321.JPG
     thumb: /files/thumbnails/14fb2a6f8c6b2d14fb2a6f8c6f12.jpg
     url: /files/original/14fb2a6f8c6b2d14fb2a6f8c6f12.jpg
+    alt:
+      en: "Remains of a destroyed home reduced to brick piers and scattered foundation blocks on a sandy lot, with an electrical meter box on a utility pole and snapped, leafless trees in the background."
 geo:
   address: ''
   lat: 0.0

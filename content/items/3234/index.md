@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (80).JPG
     thumb: /files/thumbnails/14fb2a5d29360e14fb2a5d293918.jpg
     url: /files/original/14fb2a5d29360e14fb2a5d293918.jpg
+    alt:
+      en: "Street-level view of a building with striped awnings, one partially torn near shattered storefront windows with debris, a yellow fire hydrant and utility pole in foreground, and a damp, debris-littered sidewalk."
 geo:
 id: 3234
 item_type: Still Image

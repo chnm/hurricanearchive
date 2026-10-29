@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (37).jpg
     thumb: /files/thumbnails/14fb2a5cce30a714fb2a5cce62c5.jpg
     url: /files/original/14fb2a5cce30a714fb2a5cce62c5.jpg
+    alt:
+      en: "Flattened debris field with an overturned car, scattered bricks and piping, and collapsed house framing, with a few intact homes and a bridge tower visible in the distance under a clear sky."
 geo:
 id: 3274
 item_type: Still Image

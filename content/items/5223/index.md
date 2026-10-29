@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0668.JPG
     thumb: /files/thumbnails/14fb2a53515b8514fb2a53515f6c.jpg
     url: /files/original/14fb2a53515b8514fb2a53515f6c.jpg
+    alt:
+      en: "Debris field scattered across a wooded lot, including broken boards, a chain-link fence, and an overturned appliance, with tall pine trees standing amid the wreckage."
 geo:
 id: 5223
 item_type: Still Image

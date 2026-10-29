@@ -21,6 +21,8 @@ files:
     original_filename: J2 (3).JPG
     thumb: /files/thumbnails/14fb2a113a8ce414fb2a113a90d6.jpg
     url: /files/original/14fb2a113a8ce414fb2a113a90d6.jpg
+    alt:
+      en: "Aerial view of a U.S. Navy amphibious assault ship docked at a pier, with helicopters on its flight deck and an open well deck, moored alongside a riverside commercial building."
 geo:
 id: 19311
 item_type: Still Image

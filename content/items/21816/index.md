@@ -21,6 +21,8 @@ files:
     original_filename: katrina 086.jpg
     thumb: /files/thumbnails/14fb29fb7f1cc914fb29fb7f20af.jpg
     url: /files/original/14fb29fb7f1cc914fb29fb7f20af.jpg
+    alt:
+      en: "High-rise glass curtain-wall building viewed from below, with numerous shattered and boarded windows scattered across its facade; bare tree branches in foreground, timestamp \"5:28 PM\" overlaid in red."
 geo:
 id: 21816
 item_type: Still Image

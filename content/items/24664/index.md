@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0078medics.JPG
     thumb: /files/thumbnails/14fb29e5c3421814fb29e5c345ff.jpg
     url: /files/original/14fb29e5c3421814fb29e5c345ff.jpg
+    alt:
+      en: "Sideways photo of a soldier in woodland camouflage fatigues with a \"HALL\" name tape, standing beside another person in a tan shirt; a \"VITAL RECORDS\" sign is visible in the background."
 geo:
 id: 24664
 item_type: Still Image

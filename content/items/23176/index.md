@@ -21,6 +21,8 @@ files:
     original_filename: Inprocessing5delaware.jpg
     thumb: /files/thumbnails/14fb29f13d938d14fb29f13d984c.jpg
     url: /files/original/14fb29f13d938d14fb29f13d984c.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms gather around a table filling out paperwork, while others stand in line holding documents inside a building with an \"Operation Enduring Freedom\" banner on the wall."
 geo:
 id: 23176
 item_type: Still Image

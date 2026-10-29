@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0113.JPG
     thumb: /files/thumbnails/14fb2a0a175e5514fb2a0a17623b.jpg
     url: /files/original/14fb2a0a175e5514fb2a0a17623b.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with debris-strewn streets and roofless houses, a helicopter hovering overhead under a hazy sky."
 geo:
 id: 20282
 item_type: Still Image

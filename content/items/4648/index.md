@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0577.JPG
     thumb: /files/thumbnails/14fb2a5683f4e714fb2a5683f8cc.jpg
     url: /files/original/14fb2a5683f4e714fb2a5683f8cc.jpg
+    alt:
+      en: "Devastated property with scattered debris, broken trees, and a partially collapsed white structure, surrounded by orange construction fencing and bare, storm-damaged trees under a clear blue sky."
 geo:
 id: 4648
 item_type: Still Image

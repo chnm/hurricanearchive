@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28650.jpg
     thumb: /files/thumbnails/14fb2a6734458d14fb2a67344976.jpg
     url: /files/original/14fb2a6734458d14fb2a67344976.jpg
+    alt:
+      en: "A bright green sign reading \"FIND LOST PET, 1 LINE ONLY, 8AM-8PM\" hangs above a check-in table staffed by a woman, with others gathered nearby at the rescue depot."
 geo:
   address: ''
   lat: 0.0

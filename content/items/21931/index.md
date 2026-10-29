@@ -21,6 +21,8 @@ files:
     original_filename: Picture 262-J2.jpg
     thumb: /files/thumbnails/14fb29faf1847314fb29faf18c30.jpg
     url: /files/original/14fb29faf1847314fb29faf18c30.jpg
+    alt:
+      en: "A large pipe discharges a heavy stream of murky water into a concrete basin littered with debris and wooden planks, with a retaining wall and trees visible in the background."
 geo:
 id: 21931
 item_type: Still Image

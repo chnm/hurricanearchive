@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1809superdome.JPG
     thumb: /files/thumbnails/14fb29e12bc9f314fb29e12bd0a2.jpg
     url: /files/original/14fb29e12bc9f314fb29e12bd0a2.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms and medical staff in scrubs transfer a patient on a stretcher with oxygen equipment from a vehicle, surrounded by onlookers."
 geo:
 id: 25188
 item_type: Still Image

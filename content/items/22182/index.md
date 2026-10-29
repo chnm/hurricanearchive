@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0406Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f93774c114fb29f93778ab.jpg
     url: /files/original/14fb29f93774c114fb29f93778ab.jpg
+    alt:
+      en: "Sideways photo taken through a vehicle window of two soldiers in camouflage uniforms standing on grass near a parked truck, with a brick building in the background."
 geo:
 id: 22182
 item_type: Still Image

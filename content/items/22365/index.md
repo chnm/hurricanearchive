@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1182Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f704655314fb29f704693b.jpg
     url: /files/original/14fb29f704655314fb29f704693b.jpg
+    alt:
+      en: "Two men work on a boat at night, one steering at the helm wearing an orange life vest, the other crouched examining a disassembled outboard motor engine on the deck."
 geo:
 id: 22365
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0573Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f50e096114fb29f50e0d46.jpg
     url: /files/original/14fb29f50e096114fb29f50e0d46.jpg
+    alt:
+      en: "Floodwater submerges a residential street, nearly covering a parked SUV and a docked boat beside a brick house with a garage, as trees and power lines rise above the water."
 geo:
 id: 22609
 item_type: Still Image

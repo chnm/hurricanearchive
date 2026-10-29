@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-27-25Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e550864f14fb29e5508a05.jpg
     url: /files/original/14fb29e550864f14fb29e5508a05.jpg
+    alt:
+      en: "Large domed stadium with a curved, vertically paneled exterior under a clear sky, with a security camera on a pole in the foreground and vehicles parked below."
 geo:
 id: 24731
 item_type: Still Image

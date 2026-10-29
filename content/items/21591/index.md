@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0325-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd50500214fb29fd50520e.jpg
     url: /files/original/14fb29fd50500214fb29fd50520e.jpg
+    alt:
+      en: "Aerial view of a small town with a blue water tower and church steeple surrounded by flooded agricultural fields, under a hazy gray sky."
 geo:
 id: 21591
 item_type: Still Image

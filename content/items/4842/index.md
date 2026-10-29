@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0161.JPG
     thumb: /files/thumbnails/14fb2a5534b97914fb2a5534bd5f.jpg
     url: /files/original/14fb2a5534b97914fb2a5534bd5f.jpg
+    alt:
+      en: "Interior of a flood-damaged structure showing a wooden stud wall with a dark water stain line across insulation, resting on a dusty concrete floor covered in debris."
 geo:
 id: 4842
 item_type: Still Image

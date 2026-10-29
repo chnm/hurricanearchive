@@ -21,6 +21,8 @@ files:
     original_filename: 30sep05cnnmapleveebreaks.gif
     thumb: /files/thumbnails/14fb29fb6f21c314fb29fb6f297e.jpg
     url: /files/original/14fb29fb6f21c314fb29fb6f297e.jpg
+    alt:
+      en: "Aerial diagram of New Orleans showing levees, flood walls, and levee breach locations along the Mississippi River and Lake Pontchartrain, with a cross-section comparing flood wall heights to water levels."
 geo:
 id: 21832
 item_type: Still Image

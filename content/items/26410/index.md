@@ -21,6 +21,8 @@ files:
     original_filename: HS 9 St_a6f5c43b8e. Claude Bridge 1920s.jpg
     thumb: /files/thumbnails/14fb29d8820a4a14fb29d8820e94.jpg
     url: /files/original/14fb29d8820a4a14fb29d8820e94.jpg
+    alt:
+      en: "Sepia-toned photo of two men and a woman standing on a bridge structure with metal girders and a large wooden boxcar in the background, taken on the Saint Claude Bridge at the Industrial Canal."
 geo:
   address: ''
   lat: 29.91685

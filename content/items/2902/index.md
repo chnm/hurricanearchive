@@ -21,6 +21,8 @@ files:
     original_filename: MVC-025S.JPG
     thumb: /files/thumbnails/14fb2a5f9e81a314fb2a5f9e8580.jpg
     url: /files/original/14fb2a5f9e81a314fb2a5f9e8580.jpg
+    alt:
+      en: "Interior of a ship compartment lined with gray metal equipment cabinets, including one labeled \"Warning Buzzers and Firing Keys,\" with a red-painted floor and wire mesh partition in the background."
 geo:
 id: 2902
 item_type: Still Image

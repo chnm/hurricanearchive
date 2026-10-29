@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28610.jpg
     thumb: /files/thumbnails/14fb2a6afe29c514fb2a6afe2daa.jpg
     url: /files/original/14fb2a6afe29c514fb2a6afe2daa.jpg
+    alt:
+      en: "Tall glass-paneled office towers line a downtown street with a construction crane visible, and handwritten yellow signs reading \"Falling glass\" placed near the sidewalk as caution warnings."
 geo:
   address: ''
   lat: 0.0

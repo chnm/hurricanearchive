@@ -21,6 +21,8 @@ files:
     original_filename: Boat on I-10 NOneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb60175214fb29eb601b37.jpg
     url: /files/original/14fb29eb60175214fb29eb601b37.jpg
+    alt:
+      en: "A small boat sits stranded on a highway median, viewed through the windshield of a military-style vehicle driving along an elevated interstate lined with sound barrier walls."
 geo:
 id: 24035
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0001.JPG
     thumb: /files/thumbnails/14fb2a5831371514fb2a58313afc.jpg
     url: /files/original/14fb2a5831371514fb2a58313afc.jpg
+    alt:
+      en: "A raised bascule drawbridge with a large curved counterweight structure stands open over calm water, with a control tower and a small boat visible near the bridge's base."
 geo:
 id: 4057
 item_type: Still Image

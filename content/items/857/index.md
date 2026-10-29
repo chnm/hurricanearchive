@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27940.jpg
     thumb: /files/thumbnails/14fb2a6c986bc314fb2a6c986f24.jpg
     url: /files/original/14fb2a6c986bc314fb2a6c986f24.jpg
+    alt:
+      en: "A weathered fleur-de-lis emblem mounted on a stucco wall, with a dark shadow cast diagonally across the textured surface above it."
 geo:
   address: ''
   lat: 0.0

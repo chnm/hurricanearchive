@@ -21,6 +21,8 @@ files:
     original_filename: 100-07_7ca415732a.jpg
     thumb: /files/thumbnails/14fb2a221e8fee14fb2a221e93d3.jpg
     url: /files/original/14fb2a221e8fee14fb2a221e93d3.jpg
+    alt:
+      en: "Vintage, slightly blurred photograph of a woman in a white sleeveless top and pink skirt standing in a room, with a window featuring a dark valance and striped curtains in the background."
 geo:
 id: 12424
 item_type: Still Image

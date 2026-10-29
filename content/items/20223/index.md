@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0209.JPG
     thumb: /files/thumbnails/14fb2a0aa11c9a14fb2a0aa12420.jpg
     url: /files/original/14fb2a0aa11c9a14fb2a0aa12420.jpg
+    alt:
+      en: "Aerial view of a devastated neighborhood with foundations stripped of houses, scattered debris, overturned vehicles, and downed trees, while intact homes remain visible in the background."
 geo:
 id: 20223
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20050929040.JPG
     thumb: /files/thumbnails/14fb2a1bf332e314fb2a1bf336cc.jpg
     url: /files/original/14fb2a1bf332e314fb2a1bf336cc.jpg
+    alt:
+      en: "A military helicopter hovers low over a storm-wrecked landscape of scattered debris, a damaged metal-roofed structure, and standing floodwater, with a bare, stripped tree and water tower in the background."
 geo:
   address: ''
   lat: 0.0

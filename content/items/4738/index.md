@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0248.JPG
     thumb: /files/thumbnails/14fb2a55ce6f7b14fb2a55ce7362.jpg
     url: /files/original/14fb2a55ce6f7b14fb2a55ce7362.jpg
+    alt:
+      en: "Two-story apartment building with storm-damaged siding and missing roof sections, exterior stairs and balconies intact; scattered debris and torn materials cover the ground and parking area in front."
 geo:
 id: 4738
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010002.JPG
     thumb: /files/thumbnails/14fb29fc58676e14fb29fc5873d0.jpg
     url: /files/original/14fb29fc58676e14fb29fc5873d0.jpg
+    alt:
+      en: "Three men in military camouflage uniforms sit at a table with a laptop, paperwork, and white plastic crates labeled \"LABEL OTHER END,\" with a folding chair marked \"150TH\" in the foreground."
 geo:
 id: 21704
 item_type: Still Image

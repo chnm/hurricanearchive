@@ -21,6 +21,8 @@ files:
     original_filename: CB army 1920s_30032448bd.jpg
     thumb: /files/thumbnails/14fb29d937847514fb29d9378857.jpg
     url: /files/original/14fb29d937847514fb29d9378857.jpg
+    alt:
+      en: "Sepia-toned 1920s photo of two uniformed army men in Bogalusa, Louisiana, one standing with hands on the shoulders of the other kneeling, posed on grass before a low wall and building."
 geo:
   address: ''
   lat: 29.91685

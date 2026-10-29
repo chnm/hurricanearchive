@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0299.JPG
     thumb: /files/thumbnails/14fb2a54c9f09514fb2a54c9f47a.jpg
     url: /files/original/14fb2a54c9f09514fb2a54c9f47a.jpg
+    alt:
+      en: "Interior view of an exposed attic/ceiling with wooden roof trusses, a large metal ductwork pipe, and an ornate brass ceiling fan with white glass light fixtures installed below."
 geo:
 id: 4957
 item_type: Still Image

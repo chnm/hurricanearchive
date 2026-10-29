@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038-9-25.JPG
     thumb: /files/thumbnails/14fb2a05e6abea14fb2a05e6b286.jpg
     url: /files/original/14fb2a05e6abea14fb2a05e6b286.jpg
+    alt:
+      en: "Aerial view of muddy floodwaters surrounding a small, debris-strewn strip of land with a partially submerged structure, scattered vegetation, and fallen utility poles."
 geo:
 id: 20585
 item_type: Still Image

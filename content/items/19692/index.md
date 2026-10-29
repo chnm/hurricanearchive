@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 079cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e58947814fb2a0e589860.jpg
     url: /files/original/14fb2a0e58947814fb2a0e589860.jpg
+    alt:
+      en: "Storm-damaged intersection with large oak trees stripped of branches, debris covering the road and curb, and street signs reading \"Esplanade\" and \"De Soto\" near a columned house in the background."
 geo:
 id: 19692
 item_type: Still Image

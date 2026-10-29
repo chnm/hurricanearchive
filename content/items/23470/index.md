@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0120cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef48890214fb29ef488cdd.jpg
     url: /files/original/14fb29ef48890214fb29ef488cdd.jpg
+    alt:
+      en: "Sideways-oriented photo of a marshy wetland with patches of standing water reflecting the sky, scattered dead trees, and a treeline under a clear blue sky."
 geo:
 id: 23470
 item_type: Still Image

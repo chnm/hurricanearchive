@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28175.jpg
     thumb: /files/thumbnails/14fb2a68cf385014fb2a68cf3c34.jpg
     url: /files/original/14fb2a68cf385014fb2a68cf3c34.jpg
+    alt:
+      en: "A woman stands on a sandy, debris-strewn street holding a push broom, with a storm-damaged house behind her showing boarded windows and scattered rubble in the yard."
 geo:
   address: ''
   lat: 0.0

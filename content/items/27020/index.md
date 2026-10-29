@@ -21,6 +21,8 @@ files:
     original_filename: Wedding_Pictures__26__d7c5829c1e.jpg
     thumb: /files/thumbnails/14fb29d5c385bb14fb29d5c38997.jpg
     url: /files/original/14fb29d5c385bb14fb29d5c38997.jpg
+    alt:
+      en: "Group portrait of six people dressed formally, three women in front wearing corsages and three men standing behind, posed indoors near a wood-paneled wall with framed pictures, at Stephen Audain's wedding."
 geo:
 id: 27020
 item_type: Still Image

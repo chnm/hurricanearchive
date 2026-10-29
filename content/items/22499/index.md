@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1340Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5cebb6b14fb29f5cebf45.jpg
     url: /files/original/14fb29f5cebb6b14fb29f5cebf45.jpg
+    alt:
+      en: "Floodwater submerges buildings up to their rooftops, with a utility pole and tangled power lines partially underwater; a hazy, overcast sky and distant trees line the horizon."
 geo:
 id: 22499
 item_type: Still Image

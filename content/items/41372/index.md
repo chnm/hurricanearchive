@@ -20,6 +20,8 @@ files:
     original_filename: DSCF0038_50bbcabb2b.JPG
     thumb: /files/thumbnails/14fb29c409d2aa14fb29c40b2a35.jpg
     url: /files/original/14fb29c409d2aa14fb29c40b2a35.jpg
+    alt:
+      en: "A National Guard soldier in camouflage fatigues and backpack embraces an older woman in a striped jacket on a residential street, with storm-damaged homes and debris visible in the background."
 geo:
   address: 2832 Regal Drive
   lat: 29.95237

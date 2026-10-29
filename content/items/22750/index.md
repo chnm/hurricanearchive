@@ -21,6 +21,8 @@ files:
     original_filename: POV parking Jackson BarracksJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f43875e314fb29f43879ca.jpg
     url: /files/original/14fb29f43875e314fb29f43879ca.jpg
+    alt:
+      en: "A hand points toward a parking lot submerged in murky brown floodwater, with several vehicles nearly fully underwater amid heavy rain and fog."
 geo:
 id: 22750
 item_type: Still Image

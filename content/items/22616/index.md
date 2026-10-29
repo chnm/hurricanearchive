@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0580Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5091c0814fb29f5091feb.jpg
     url: /files/original/14fb29f5091c0814fb29f5091feb.jpg
+    alt:
+      en: "Two-story brick building with white columns and double balconies stands partially submerged in brown floodwater, with tree branches obscuring part of the facade."
 geo:
 id: 22616
 item_type: Still Image

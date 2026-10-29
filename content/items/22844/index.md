@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f313c67414fb29f313ca5b.jpg
     url: /files/original/14fb29f313c67414fb29f313ca5b.jpg
+    alt:
+      en: "A man in camouflage military uniform and cap speaks with a driver through a truck's window, while a bald man holding a video camera marked \"WBRZ\" stands beside him."
 geo:
 id: 22844
 item_type: Still Image

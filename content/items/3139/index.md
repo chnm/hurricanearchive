@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (6).JPG
     thumb: /files/thumbnails/14fb2a5dc19e9214fb2a5dc1a272.jpg
     url: /files/original/14fb2a5dc19e9214fb2a5dc1a272.jpg
+    alt:
+      en: "View from inside a car through a wet windshield of a storm-damaged street, with debris, puddles, a toppled metal chair, and a row of storefronts including one labeled \"Animal Hosp\" and a green-awninged shop."
 geo:
 id: 3139
 item_type: Still Image

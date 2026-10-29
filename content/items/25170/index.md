@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1780superdome.JPG
     thumb: /files/thumbnails/14fb29e17bee7014fb29e17bfcd5.jpg
     url: /files/original/14fb29e17bee7014fb29e17bfcd5.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms with American flag patches stand talking; name tapes read \"JONES\" and \"DABADIE,\" with \"U.S. ARMY\" visible on the latter's uniform."
 geo:
 id: 25170
 item_type: Still Image

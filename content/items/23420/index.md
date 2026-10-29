@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0096cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef8341c814fb29ef8345ad.jpg
     url: /files/original/14fb29ef8341c814fb29ef8345ad.jpg
+    alt:
+      en: "Aerial view of a flat, hazy agricultural landscape divided into rectangular fields, with some flooded or waterlogged plots, scattered farm buildings, and straight roads intersecting the grid of land."
 geo:
 id: 23420
 item_type: Still Image

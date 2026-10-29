@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0162.JPG
     thumb: /files/thumbnails/14fb2a5533cf2614fb2a5533d30c.jpg
     url: /files/original/14fb2a5533cf2614fb2a5533d30c.jpg
+    alt:
+      en: "Interior of a home under reconstruction, showing exposed wood stud framing, plywood sheathing, a doorway opening, foil-backed insulation on the walls, and a piece of drywall leaning against the studs."
 geo:
 id: 4843
 item_type: Still Image

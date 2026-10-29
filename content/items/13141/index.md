@@ -21,6 +21,8 @@ files:
     original_filename: water tower end.jpg
     thumb: /files/thumbnails/14fb2a2017fed614fb2a2018b902.jpg
     url: /files/original/14fb2a2017fed614fb2a2018b902.jpg
+    alt:
+      en: "A water tower labeled \"Gulfport\" stands above a storm-damaged industrial area with flattened buildings, debris-strewn streets, and a flooded parking lot under an overcast sky."
 geo:
 id: 13141
 item_type: Still Image

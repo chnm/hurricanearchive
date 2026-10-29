@@ -24,6 +24,8 @@ files:
     original_filename: 108.jpg
     thumb: /files/thumbnails/14fb2a6095a8c014fb2a6095aca3.jpg
     url: /files/original/14fb2a6095a8c014fb2a6095aca3.jpg
+    alt:
+      en: "Child's marker drawing of a Coast Guard helicopter lowering a rescue basket over floodwater debris, with a green alligator nearby; labeled \"Marlon Evans 11.\""
 geo:
 id: 2684
 item_type: Still Image

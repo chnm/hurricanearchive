@@ -26,6 +26,8 @@ files:
     original_filename: katrina7_eb5c3ea8b5.jpg
     thumb: /files/thumbnails/14fb2a70b6a0bf14fb2a70b6a4a5.jpg
     url: /files/original/14fb2a70b6a0bf14fb2a70b6a4a5.jpg
+    alt:
+      en: "Aerial view of a rust-streaked barge wedged against a steel railroad swing bridge over a canal, with water, trees, and a roadway visible in the background."
 geo:
   address: ''
   lat: 30.0045981475423

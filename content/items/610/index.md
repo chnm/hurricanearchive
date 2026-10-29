@@ -26,6 +26,8 @@ files:
     original_filename: HollywoodTheaterParkdaleRita2_f0fcd88b4f.jpg
     thumb: /files/thumbnails/14fb2a6f618a2c14fb2a6f618dfe.jpg
     url: /files/original/14fb2a6f618a2c14fb2a6f618dfe.jpg
+    alt:
+      en: "Storm-damaged theater building with collapsed roof sections, twisted metal, and debris scattered across the sidewalk and parking lot; the yellow and blue facade remains partially intact."
 geo:
   address: ''
   lat: 30.148461

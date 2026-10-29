@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (30).JPG
     thumb: /files/thumbnails/14fb2a5d72a12914fb2a5d72a515.jpg
     url: /files/original/14fb2a5d72a12914fb2a5d72a515.jpg
+    alt:
+      en: "Storm debris and fallen tree branches piled along a street in front of \"Canal Street Plaza,\" a building with signage for a tailor shop, amid scattered leaves and an orange traffic cone."
 geo:
 id: 3179
 item_type: Still Image

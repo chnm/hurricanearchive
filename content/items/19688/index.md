@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 075cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e608d5714fb2a0e60913b.jpg
     url: /files/original/14fb2a0e608d5714fb2a0e60913b.jpg
+    alt:
+      en: "Street view from inside a vehicle showing storm debris scattered across the pavement, a red pickup truck and boat parked mid-road, a STOP sign, and wind-damaged houses lining both sides."
 geo:
 id: 19688
 item_type: Still Image

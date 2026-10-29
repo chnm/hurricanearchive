@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0162-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a012ed6ac14fb2a012eda8c.jpg
     url: /files/original/14fb2a012ed6ac14fb2a012eda8c.jpg
+    alt:
+      en: "Aerial view of a flooded marshland or wetland area, with patches of greenish-brown vegetation scattered across shallow, muddy water."
 geo:
 id: 20984
 item_type: Still Image

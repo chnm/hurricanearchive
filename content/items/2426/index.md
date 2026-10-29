@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05CGP_110954b01e.jpg
     thumb: /files/thumbnails/14fb2a6674495714fb2a667456b9.jpg
     url: /files/original/14fb2a6674495714fb2a667456b9.jpg
+    alt:
+      en: "A U.S. Coast Guard work barge (68016) with crane and three tall black poles sits beside tender 75306, near the stern of cutter 559 flying an American flag, in open water."
 geo:
 id: 2426
 item_type: Still Image

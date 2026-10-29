@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1543superdome.JPG
     thumb: /files/thumbnails/14fb29e2e48e2d14fb29e2e49212.jpg
     url: /files/original/14fb29e2e48e2d14fb29e2e49212.jpg
+    alt:
+      en: "Silhouette of a helicopter with spinning rotor blades flying against an overcast, cloudy sky."
 geo:
 id: 25021
 item_type: Still Image

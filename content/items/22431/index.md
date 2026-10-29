@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1272Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6790a9114fb29f6799b5c.jpg
     url: /files/original/14fb29f6790a9114fb29f6799b5c.jpg
+    alt:
+      en: "Flooded residential street under a gray sky, with small motorboats carrying rescue workers navigating between submerged power lines and partially visible houses, debris floating on the water's surface."
 geo:
 id: 22431
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002gillslong.JPG
     thumb: /files/thumbnails/14fb2a0daeb53214fb2a0daeb922.jpg
     url: /files/original/14fb2a0daeb53214fb2a0daeb922.jpg
+    alt:
+      en: "Aerial view of a sprawling campus-like complex with large institutional buildings, housing units, parking lots, and tree-lined roads, surrounded by open fields and forest stretching to the horizon."
 geo:
 id: 19809
 item_type: Still Image

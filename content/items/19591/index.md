@@ -21,6 +21,8 @@ files:
     original_filename: S4300069zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0eea41fb14fb2a0eea45e0.jpg
     url: /files/original/14fb2a0eea41fb14fb2a0eea45e0.jpg
+    alt:
+      en: "Crowded cafeteria with rows of tables where many people in t-shirts and caps sit eating, with vending machines, refrigerators, a wall clock, and a mounted TV visible in the background."
 geo:
 id: 19591
 item_type: Still Image

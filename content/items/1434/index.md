@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28257.jpg
     thumb: /files/thumbnails/14fb2a68c1b82d14fb2a68c1bc19.jpg
     url: /files/original/14fb2a68c1b82d14fb2a68c1bc19.jpg
+    alt:
+      en: "Large guitar-shaped Hard Rock Casino sign beside a scaffold-covered multistory building under construction or repair, with a crane platform and workers visible against a cloudy sky."
 geo:
   address: ''
   lat: 0.0

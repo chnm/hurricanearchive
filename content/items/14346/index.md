@@ -21,6 +21,8 @@ files:
     original_filename: aerials57.jpg
     thumb: /files/thumbnails/14fb2a19b7fc4114fb2a19b80022.jpg
     url: /files/original/14fb2a19b7fc4114fb2a19b80022.jpg
+    alt:
+      en: "Aerial view of a bridge collapsed into segments over water, with sections of roadway detached and separated, leaving gaps between the concrete spans and support pillars."
 geo:
 id: 14346
 item_type: Still Image

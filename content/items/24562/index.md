@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0117-21.JPG
     thumb: /files/thumbnails/14fb29e6a9842514fb29e6a988ba.jpg
     url: /files/original/14fb29e6a9842514fb29e6a988ba.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work at tables with laptops and signs reading \"ENG,\" \"ENGINEER,\" and \"J-3 AIR,\" while a photographer and videographer document the scene in a makeshift operations room."
 geo:
 id: 24562
 item_type: Still Image

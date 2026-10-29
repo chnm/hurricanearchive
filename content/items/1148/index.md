@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28100.jpg
     thumb: /files/thumbnails/14fb2a6ac82f0814fb2a6ac831fe.jpg
     url: /files/original/14fb2a6ac82f0814fb2a6ac831fe.jpg
+    alt:
+      en: "Interior view of the Superdome's dark upper structure, with catwalks, metal beams, and skylights, as a bright shaft of light cuts diagonally across the scene."
 geo:
   address: ''
   lat: 0.0

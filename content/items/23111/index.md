@@ -21,6 +21,8 @@ files:
     original_filename: 051002-A-7045A-019MarylandNG.jpg
     thumb: /files/thumbnails/14fb29f1860da514fb29f186118b.jpg
     url: /files/original/14fb29f1860da514fb29f186118b.jpg
+    alt:
+      en: "A soldier in camouflage uniform writes on a clipboard beside a red truck cab and white trailer marked \"53,\" with a gravel lot and \"Landstar\" truck visible in the background."
 geo:
 id: 23111
 item_type: Still Image

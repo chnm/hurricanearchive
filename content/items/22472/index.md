@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1313Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f645e54e14fb29f645ee50.jpg
     url: /files/original/14fb29f645e54e14fb29f645ee50.jpg
+    alt:
+      en: "Floodwaters submerge a residential street with only rooftops, lamp posts, and power lines visible above the water; a small motorboat carrying several people navigates through the debris."
 geo:
 id: 22472
 item_type: Still Image

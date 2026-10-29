@@ -21,6 +21,8 @@ files:
     original_filename: After the parade_f885d5a669.jpg
     thumb: /files/thumbnails/14fb2a16fc87f914fb2a16fc930f.jpg
     url: /files/original/14fb2a16fc87f914fb2a16fc930f.jpg
+    alt:
+      en: "A smiling man in a satin star-patterned Mardi Gras costume and beaded necklaces stands before an elaborate parade float decorated with sunburst and star designs."
 geo:
   address: ''
   lat: 37.77123

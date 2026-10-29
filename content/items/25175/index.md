@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1785superdome.JPG
     thumb: /files/thumbnails/14fb29e1714ac814fb29e1715594.jpg
     url: /files/original/14fb29e1714ac814fb29e1715594.jpg
+    alt:
+      en: "Close-up profile view of two people in the foreground, a man in a dark plaid jacket with a red shirt and a woman with curly brown hair and a small earring, both looking downward."
 geo:
 id: 25175
 item_type: Still Image

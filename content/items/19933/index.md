@@ -21,6 +21,8 @@ files:
     original_filename: Picture 029cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c52d3da14fb2a0c52d756.jpg
     url: /files/original/14fb2a0c52d3da14fb2a0c52d756.jpg
+    alt:
+      en: "Military Humvee parked in front of a boarded-up Rite Aid pharmacy with storm debris scattered nearby; two uniformed personnel in camouflage stand beside the vehicle reviewing papers."
 geo:
 id: 19933
 item_type: Still Image

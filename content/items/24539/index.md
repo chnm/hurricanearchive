@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0112-21.JPG
     thumb: /files/thumbnails/14fb29e6e34e0414fb29e6e351ea.jpg
     url: /files/original/14fb29e6e34e0414fb29e6e351ea.jpg
+    alt:
+      en: "A group of civilians and military personnel in camouflage fatigues gather indoors in a carpeted room, with a video camera on a tripod in the foreground recording the scene."
 geo:
 id: 24539
 item_type: Still Image

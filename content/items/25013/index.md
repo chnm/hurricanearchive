@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1535superdome.JPG
     thumb: /files/thumbnails/14fb29e2ebdc8814fb29e2ebe0b1.jpg
     url: /files/original/14fb29e2ebdc8814fb29e2ebe0b1.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms carry duffel bags and suitcases across a helipad, with a Black Hawk helicopter and the Delgado Community College Charity School of Nursing building in the background."
 geo:
 id: 25013
 item_type: Still Image

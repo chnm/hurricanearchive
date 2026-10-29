@@ -21,6 +21,8 @@ files:
     original_filename: aerials117.jpg
     thumb: /files/thumbnails/14fb2a1a468ffc14fb2a1a4693e3.jpg
     url: /files/original/14fb2a1a468ffc14fb2a1a4693e3.jpg
+    alt:
+      en: "Aerial view of a coastal community devastated by flooding, with rows of destroyed homes reduced to concrete slabs, scattered debris, and docks extending into brown floodwaters along the shoreline."
 geo:
 id: 14276
 item_type: Still Image

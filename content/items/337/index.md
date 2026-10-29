@@ -27,6 +27,8 @@ files:
     original_filename: roof_589976470a.jpg
     thumb: /files/thumbnails/14fb2a7034d9ee14fb2a7034ddd4.jpg
     url: /files/original/14fb2a7034d9ee14fb2a7034ddd4.jpg
+    alt:
+      en: "View from inside a car windshield along Pontchartrain Drive in Slidell, LA, showing storm-damaged, collapsed buildings and debris piles lining the roadside, with oncoming traffic ahead."
 geo:
   address: ''
   lat: 30.44699

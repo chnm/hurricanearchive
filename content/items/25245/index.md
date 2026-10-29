@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1943superdome.JPG
     thumb: /files/thumbnails/14fb29e05ef67014fb29e05efdf6.jpg
     url: /files/original/14fb29e05ef67014fb29e05efdf6.jpg
+    alt:
+      en: "A military Chinook helicopter sits on a rooftop helipad as uniformed personnel carry boxes and walk across the tarmac, with city buildings and an elevated highway visible in the background."
 geo:
 id: 25245
 item_type: Still Image

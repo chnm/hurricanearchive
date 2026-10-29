@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29e998b13a14fb29e998b51f.jpg
     url: /files/original/14fb29e998b13a14fb29e998b51f.jpg
+    alt:
+      en: "A large fallen cylindrical structure, likely a storage tank or sign pole, lies across a parking lot beside a damaged building with collapsed roofing and twisted metal debris, a red car parked nearby."
 geo:
 id: 24219
 item_type: Still Image

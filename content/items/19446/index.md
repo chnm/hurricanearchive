@@ -21,6 +21,8 @@ files:
     original_filename: Picture 006engineers.jpg
     thumb: /files/thumbnails/14fb2a0ff4680a14fb2a0ff46e0b.jpg
     url: /files/original/14fb2a0ff4680a14fb2a0ff46e0b.jpg
+    alt:
+      en: "Four soldiers in camouflage uniforms, one holding a chainsaw, clear fallen tree branches blocking a roadway, with military trucks parked nearby."
 geo:
 id: 19446
 item_type: Still Image

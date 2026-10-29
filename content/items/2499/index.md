@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8591.jpg
     thumb: /files/thumbnails/14fb2a65dd735414fb2a65dd7738.jpg
     url: /files/original/14fb2a65dd735414fb2a65dd7738.jpg
+    alt:
+      en: "A leaning utility pole with dangling wires holds a hand-painted wooden sign reading \"MAY ALL THE CAMPS REST IN PEACE,\" overlooking debris-strewn shoreline and rows of bare pilings in the water."
 geo:
 id: 2499
 item_type: Still Image

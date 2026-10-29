@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1351Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5c2c1eb14fb29f5c2c5d0.jpg
     url: /files/original/14fb29f5c2c1eb14fb29f5c2c5d0.jpg
+    alt:
+      en: "Floodwater submerges a street and structures, with a shipping container and debris partially underwater, trees bending in strong wind, and overcast skies above."
 geo:
 id: 22510
 item_type: Still Image

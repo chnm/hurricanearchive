@@ -26,6 +26,8 @@ files:
     original_filename: Mississippi_Etc_022_a7e1f0797b.jpg
     thumb: /files/thumbnails/14fb2a6fb529da14fb2a6fb52d65.jpg
     url: /files/original/14fb2a6fb529da14fb2a6fb52d65.jpg
+    alt:
+      en: "A yellow CAT excavator stands amid flattened debris near a toppled brick sign reading \"Destiny Oaks,\" with bare, storm-damaged trees and standing floodwater in the background."
 geo:
   address: ''
   lat: 29.938343

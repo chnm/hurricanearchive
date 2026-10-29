@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a075bad3d14fb2a075c279b.jpg
     url: /files/original/14fb2a075bad3d14fb2a075c279b.jpg
+    alt:
+      en: "Brick ranch-style house with boarded-up windows and a chimney, surrounded by standing floodwater and green lawn under a cloudy sky, with a small American flag in the foreground."
 geo:
 id: 20434
 item_type: Still Image

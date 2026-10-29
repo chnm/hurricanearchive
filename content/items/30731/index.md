@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7428.JPG
     thumb: /files/thumbnails/14fb29cca690fd14fb29cca694c3.jpg
     url: /files/original/14fb29cca690fd14fb29cca694c3.jpg
+    alt:
+      en: "A light-colored sedan is crushed and nearly buried beneath a large fallen tree and its tangled branches, with a dark red wooden building visible in the background."
 geo:
 id: 30731
 item_type: Still Image

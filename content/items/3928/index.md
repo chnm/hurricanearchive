@@ -21,6 +21,8 @@ files:
     original_filename: 100_0225.JPG
     thumb: /files/thumbnails/14fb2a58d9fc4614fb2a58da002a.jpg
     url: /files/original/14fb2a58d9fc4614fb2a58da002a.jpg
+    alt:
+      en: "Vast debris field of shattered wood and wreckage surrounds standing floodwater, with damaged buildings, including one marked \"SINTES DESIGNS,\" visible under a clear blue sky."
 geo:
 id: 3928
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0056OEP.JPG
     thumb: /files/thumbnails/14fb29f1c3f61b14fb29f1c3f9ff.jpg
     url: /files/original/14fb29f1c3f61b14fb29f1c3f9ff.jpg
+    alt:
+      en: "Two men sit on coolers reading newspapers amid camera tripods, folding chairs, and equipment cases on a grassy lot, with SUVs and traffic cones parked nearby."
 geo:
 id: 23046
 item_type: Still Image

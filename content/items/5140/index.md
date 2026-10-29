@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0502.JPG
     thumb: /files/thumbnails/14fb2a53c9a86814fb2a53c9ac54.jpg
     url: /files/original/14fb2a53c9a86814fb2a53c9ac54.jpg
+    alt:
+      en: "A yellow tape measure (marked 1–6 inches) lies on a dirt-covered surface with cracked, dried mud and scattered dry grass and twigs surrounding it."
 geo:
 id: 5140
 item_type: Still Image

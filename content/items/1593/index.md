@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28761.jpg
     thumb: /files/thumbnails/14fb2a67a0c7e514fb2a67a0cbcb.jpg
     url: /files/original/14fb2a67a0c7e514fb2a67a0cbcb.jpg
+    alt:
+      en: "A metal gate at an animal rescue depot holds a handwritten sign reading \"Thank you Export volunteers, We transported approx. 200 animals last night! Tentative Export tomorrow A.M.,\" with tarps and tents visible behind it."
 geo:
   address: ''
   lat: 0.0

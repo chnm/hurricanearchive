@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28743.jpg
     thumb: /files/thumbnails/14fb2a684dd91314fb2a684ddd06.jpg
     url: /files/original/14fb2a684dd91314fb2a684ddd06.jpg
+    alt:
+      en: "Four women sit and stand behind a table covered with paperwork, folders, and office supplies under a tent at an animal rescue intake station, with cages and vehicles visible in the background."
 geo:
   address: ''
   lat: 0.0

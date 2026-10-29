@@ -24,6 +24,8 @@ files:
     original_filename: 20050905_MG_8164.jpg
     thumb: /files/thumbnails/14fb2a664aff3414fb2a664b0319.jpg
     url: /files/original/14fb2a664aff3414fb2a664b0319.jpg
+    alt:
+      en: "A flooded car partially submerged near a breached levee, with chunks of broken concrete scattered along the shoreline and a large blue lift bridge and cranes visible in the background."
 geo:
 id: 2463
 item_type: Still Image

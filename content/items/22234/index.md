@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1041Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8cc49b714fb29f8cc4d9c.jpg
     url: /files/original/14fb29f8cc49b714fb29f8cc4d9c.jpg
+    alt:
+      en: "A military helicopter sits on a landing pad surrounded by green lawns, with parked vehicles and trees visible in the background, framed by out-of-focus foliage in the foreground."
 geo:
 id: 22234
 item_type: Still Image

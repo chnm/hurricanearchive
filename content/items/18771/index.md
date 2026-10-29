@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-01-00Abatonrouge.jpg
     thumb: /files/thumbnails/14fb2a1548603514fb2a15486414.jpg
     url: /files/original/14fb2a1548603514fb2a15486414.jpg
+    alt:
+      en: "Aerial view of the LSU football stadium marked with \"LSU\" and an adjacent domed arena, surrounded by campus buildings, trees, and roads under a hazy sky."
 geo:
 id: 18771
 item_type: Still Image

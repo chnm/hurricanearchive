@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (15).JPG
     thumb: /files/thumbnails/14fb2a5d91e7da14fb2a5d91ebbf.jpg
     url: /files/original/14fb2a5d91e7da14fb2a5d91ebbf.jpg
+    alt:
+      en: "Empty multi-lane road stretching into the distance, lined with streetlights, power lines, and utility poles under an overcast sky, with industrial buildings visible on the right."
 geo:
 id: 3162
 item_type: Still Image

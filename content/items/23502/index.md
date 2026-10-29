@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0138abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef2e5aa814fb29ef2e5e8b.jpg
     url: /files/original/14fb29ef2e5aa814fb29ef2e5e8b.jpg
+    alt:
+      en: "A mobile home lies tilted off its foundation beside a debris-strewn rural road, with cattle, a truck, and hay bales visible nearby amid storm-damaged trees."
 geo:
 id: 23502
 item_type: Still Image

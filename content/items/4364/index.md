@@ -27,6 +27,8 @@ files:
     original_filename: my old bedroom (1)_0dd992d07c
     thumb: /files/thumbnails/14fb2a5723148b14fb2a57231879.jpg
     url: /files/original/14fb2a5723148b14fb2a57231879
+    alt:
+      en: "Flood-damaged bedroom with mold-stained walls and a wallpaper border, a mirror leaning against the wall, and a bed heaped with clothing and debris in the foreground."
 geo:
   address: 3557 Inwood Avenue
   lat: 29.99966

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 121cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e27b10014fb2a0e27b4e5.jpg
     url: /files/original/14fb2a0e27b10014fb2a0e27b4e5.jpg
+    alt:
+      en: "Silhouette of a military helicopter banking in flight against a blue sky with scattered clouds, viewed from below."
 geo:
 id: 19734
 item_type: Still Image

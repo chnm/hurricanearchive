@@ -23,6 +23,8 @@ files:
     original_filename: flooding_kenner_hurricane_katrina.JPG
     thumb: /files/thumbnails/336d059c93e90b6ccd57019512513750.jpg
     url: /files/original/336d059c93e90b6ccd57019512513750.JPG
+    alt:
+      en: "A flooded residential street with trees and cars submerged in murky water, a brick house visible on the right under an overcast sky."
 geo:
   address: 400 tacoma street  New orleans, louisiana
   lat: 30.0101311

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0184-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0063315d14fb2a00633543.jpg
     url: /files/original/14fb2a0063315d14fb2a00633543.jpg
+    alt:
+      en: "Two men stand beside floodwater surveying debris, including a piece of corrugated metal roofing partially submerged near a brush-covered bank, with bare trees lining the far shore."
 geo:
 id: 21138
 item_type: Still Image

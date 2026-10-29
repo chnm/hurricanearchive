@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0062-18-9-18.JPG
     thumb: /files/thumbnails/14fb2a0adc73ac14fb2a0adc7800.jpg
     url: /files/original/14fb2a0adc73ac14fb2a0adc7800.jpg
+    alt:
+      en: "Man in camouflage military uniform smiling and holding up an aluminum can labeled \"Filtered Drinking Water,\" photographed indoors near a window with a blurred outdoor scene behind him."
 geo:
 id: 20186
 item_type: Still Image

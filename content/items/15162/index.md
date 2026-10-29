@@ -21,6 +21,8 @@ files:
     original_filename: IPerez-6044_9afcac7035.jpg
     thumb: /files/thumbnails/14fb2a16cc399514fb2a16cc3d71.jpg
     url: /files/original/14fb2a16cc399514fb2a16cc3d71.jpg
+    alt:
+      en: "A man and woman stand side by side in front of a brick house, surrounded by blooming pink azaleas, with a window and white trellis behind them."
 geo:
 id: 15162
 item_type: Still Image

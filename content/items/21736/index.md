@@ -21,6 +21,8 @@ files:
     original_filename: katrina 004.jpg
     thumb: /files/thumbnails/14fb29fc13448014fb29fc134866.jpg
     url: /files/original/14fb29fc13448014fb29fc134866.jpg
+    alt:
+      en: "Military Humvee and an \"Acadian Ambulance Paramedic Supervisor\" truck parked in a lot beside a yellow-and-white tent, with armed soldiers standing nearby and a golf cart carrying two people, set against the curved exterior wall of the Superdome."
 geo:
 id: 21736
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0766.JPG
     thumb: /files/thumbnails/14fb2a56fe55ca14fb2a56fe59a6.jpg
     url: /files/original/14fb2a56fe55ca14fb2a56fe59a6.jpg
+    alt:
+      en: "A snapped wooden utility pole lies on the ground tangled in wires and debris, surrounded by scattered rubble and sparse grass in an open lot."
 geo:
 id: 4564
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021-20.JPG
     thumb: /files/thumbnails/14fb2a06e7b3c014fb2a06e7b6ee.jpg
     url: /files/original/14fb2a06e7b3c014fb2a06e7b6ee.jpg
+    alt:
+      en: "Interior of a large tent set up as a dining hall, with a person serving food from steam trays in the foreground and people in military camouflage seated at tables, decorated with small American flags."
 geo:
 id: 20481
 item_type: Still Image

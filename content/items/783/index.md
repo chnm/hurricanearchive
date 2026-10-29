@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28422.jpg
     thumb: /files/thumbnails/14fb2a6d0d94c014fb2a6d0d989b.jpg
     url: /files/original/14fb2a6d0d94c014fb2a6d0d989b.jpg
+    alt:
+      en: "Damaged metal shed with graffiti reading \"KEEP OUT SHOOT TO KILL\" and a painted white cross, debris piled outside, and a yellow ATV parked inside the open doorway."
 geo:
   address: ''
   lat: 0.0

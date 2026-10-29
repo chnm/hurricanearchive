@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (14).jpg
     thumb: /files/thumbnails/14fb2a5d1114c914fb2a5d1118b6.jpg
     url: /files/original/14fb2a5d1114c914fb2a5d1118b6.jpg
+    alt:
+      en: "Flooded street lined with storm-wrecked homes and debris, a large grounded barge visible in the background amid standing water and downed power lines."
 geo:
 id: 3249
 item_type: Still Image

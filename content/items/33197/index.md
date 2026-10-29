@@ -20,6 +20,8 @@ files:
     original_filename: 1282520814_d7fa353607.jpg
     thumb: /files/thumbnails/14fb29cba485a614fb29cba48c22.jpg
     url: /files/original/14fb29cba485a614fb29cba48c22.jpg
+    alt:
+      en: "A man in a white T-shirt and jeans balances on one leg near a brick ledge and concrete slab, with overgrown grass, houses, and a utility pole visible in the background."
 geo:
 id: 33197
 item_type: Still Image

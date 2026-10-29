@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043cowanmedia.JPG
     thumb: /files/thumbnails/14fb29f29b442d14fb29f29b480e.jpg
     url: /files/original/14fb29f29b442d14fb29f29b480e.jpg
+    alt:
+      en: "A man in military camouflage uniform and cap wears dark sunglasses and a tan backpack strap, standing in front of a parked military Humvee."
 geo:
 id: 22937
 item_type: Still Image

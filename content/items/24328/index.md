@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-22-20A.jpg
     thumb: /files/thumbnails/14fb29e8b345aa14fb29e8b349e8.jpg
     url: /files/original/14fb29e8b345aa14fb29e8b349e8.jpg
+    alt:
+      en: "Silhouette of a twin-rotor military helicopter (Chinook-style) with blurred spinning rotors, flying against a clear sky transitioning from blue to pale white near the horizon."
 geo:
 id: 24328
 item_type: Still Image

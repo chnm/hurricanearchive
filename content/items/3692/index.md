@@ -24,6 +24,8 @@ files:
     original_filename: P1010134.JPG
     thumb: /files/thumbnails/14fb2a5a1da24a14fb2a5a1da631.jpg
     url: /files/original/14fb2a5a1da24a14fb2a5a1da631.jpg
+    alt:
+      en: "Gothic-style stone church with a large tarp covering a damaged roof section, flanked by trees and hedges, with storm debris piled near the sidewalk in front."
 geo:
 id: 3692
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300143Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3ed73a114fb29f3ed7810.jpg
     url: /files/original/14fb29f3ed73a114fb29f3ed7810.jpg
+    alt:
+      en: "Damaged carport-style building with torn roof shingles and dangling wires, marked \"402,\" surrounded by dead vegetation, debris, and scattered lumber; a car side mirror is visible in the foreground."
 geo:
 id: 22787
 item_type: Still Image

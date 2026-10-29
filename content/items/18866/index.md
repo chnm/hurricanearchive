@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0083grandisle.JPG
     thumb: /files/thumbnails/14fb2a14d20aa114fb2a14d20e85.jpg
     url: /files/original/14fb2a14d20aa114fb2a14d20e85.jpg
+    alt:
+      en: "Aerial view of a storm-damaged coastal community with scattered, roofless buildings and debris fields near a road, bordered by a wide river and patches of browned vegetation."
 geo:
 id: 18866
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09280011plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebf26ca614fb29ebf2708a.jpg
     url: /files/original/14fb29ebf26ca614fb29ebf2708a.jpg
+    alt:
+      en: "A man in a cap and rubber boots stands amid storm debris, broken bricks, and scattered rubble, with downed trees and floodwater visible in the background."
 geo:
 id: 24009
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2074superdome.JPG
     thumb: /files/thumbnails/14fb29e529102c14fb29e529140a.jpg
     url: /files/original/14fb29e529102c14fb29e529140a.jpg
+    alt:
+      en: "Group of men, including one in military camouflage uniform, seated in black office chairs in a room with framed photographs of a domed stadium's construction on the wall behind them."
 geo:
 id: 24752
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9081.jpg
     thumb: /files/thumbnails/14fb2a64d9136914fb2a64d9174f.jpg
     url: /files/original/14fb2a64d9136914fb2a64d9174f.jpg
+    alt:
+      en: "A sedan sits upended against a large tree, its rear wedged into the trunk, with damaged homes and bare trees visible in the background along a residential street."
 geo:
 id: 2575
 item_type: Still Image

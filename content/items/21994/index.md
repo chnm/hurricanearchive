@@ -21,6 +21,8 @@ files:
     original_filename: Picture 325-J2.jpg
     thumb: /files/thumbnails/14fb29fa3bcf2514fb29fa3bd31a.jpg
     url: /files/original/14fb29fa3bcf2514fb29fa3bd31a.jpg
+    alt:
+      en: "Empty street scene with scattered debris and litter on the pavement, a trash can and outdoor tables near storefronts, and shadows cast across the road."
 geo:
 id: 21994
 item_type: Still Image

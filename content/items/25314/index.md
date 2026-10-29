@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2041superdome.JPG
     thumb: /files/thumbnails/14fb29df2904f914fb29df2908d7.jpg
     url: /files/original/14fb29df2904f914fb29df2908d7.jpg
+    alt:
+      en: "A man in camouflage military fatigues leans forward with eyes closed, a hand resting on his shoulder in comfort, with an aircraft landing gear and tarmac visible in the background."
 geo:
 id: 25314
 item_type: Still Image

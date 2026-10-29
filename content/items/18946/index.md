@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0309causeway.JPG
     thumb: /files/thumbnails/14fb2a14118da714fb2a1411918c.jpg
     url: /files/original/14fb2a14118da714fb2a1411918c.jpg
+    alt:
+      en: "Aerial view of twin causeway bridges stretching across a vast expanse of blue water, with scattered vehicles crossing and the roadways converging toward a hazy horizon."
 geo:
 id: 18946
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0242-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff12ae1a14fb29ff12b2ae.jpg
     url: /files/original/14fb29ff12ae1a14fb29ff12b2ae.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with multiple houses missing roof sections, scattered debris, downed power lines, and uprooted trees surrounding the structures."
 geo:
 id: 21382
 item_type: Still Image

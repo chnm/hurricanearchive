@@ -21,6 +21,8 @@ files:
     original_filename: LTG Blum on dozer.JPG
     thumb: /files/thumbnails/14fb2a1b60658814fb2a1b60693d.jpg
     url: /files/original/14fb2a1b60658814fb2a1b60693d.jpg
+    alt:
+      en: "Military personnel stand on and around a yellow Caterpillar D3C bulldozer amid storm debris, with damaged trees, a police cruiser, and military vehicles in the background; dated 09.29.2005 15:41."
 geo:
   address: ''
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: 050_50_9b6a1c0df7.JPG
     thumb: /files/thumbnails/14fb2a1c7db5cd14fb2a1c7db9b2.jpg
     url: /files/original/14fb2a1c7db5cd14fb2a1c7db9b2.jpg
+    alt:
+      en: "A volunteer in a red shirt and work gloves stands on the porch of a damaged house, reaching for a blue door; a United Church of Christ Disaster Response sign is placed in the yard below."
 geo:
 id: 13893
 item_type: Still Image

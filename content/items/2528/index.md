@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8741.jpg
     thumb: /files/thumbnails/14fb2a65b626d114fb2a65b62ab7.jpg
     url: /files/original/14fb2a65b626d114fb2a65b62ab7.jpg
+    alt:
+      en: "Severely storm-damaged house with collapsed porch and tilted outbuilding, spray-painted in red with messages reading \"WE PAY TAXES,\" \"TAKE CARE AMERICA FIRST,\" and \"F.E.M.A. CAN GO TO PAKISTAN OR AFRICA OR GO TO HELL.\""
 geo:
 id: 2528
 item_type: Still Image

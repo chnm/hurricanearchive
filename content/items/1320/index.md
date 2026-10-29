@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28441.jpg
     thumb: /files/thumbnails/14fb2a69b0069e14fb2a69b01b5e.jpg
     url: /files/original/14fb2a69b0069e14fb2a69b01b5e.jpg
+    alt:
+      en: "A Virginia State Police Mobile Command Post truck parked in a lot, with an American flag on a pole beside it, stationed near the Waveland Wal-Mart in Mississippi."
 geo:
   address: ''
   lat: 0.0

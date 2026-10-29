@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 111.jpg
     thumb: /files/thumbnails/14fb2a11d28f3714fb2a11d2932a.jpg
     url: /files/original/14fb2a11d28f3714fb2a11d2932a.jpg
+    alt:
+      en: "Military vehicles, including an armored personnel carrier and Humvees, parked in a lot alongside civilian pickup trucks, with uniformed personnel standing nearby under a cloudy sky."
 geo:
 id: 19201
 item_type: Still Image

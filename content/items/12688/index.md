@@ -21,6 +21,8 @@ files:
     original_filename: 101-03_65fc3a9b08.jpg
     thumb: /files/thumbnails/14fb2a21c5903314fb2a21c59417.jpg
     url: /files/original/14fb2a21c5903314fb2a21c59417.jpg
+    alt:
+      en: "An oval black frame with rhinestone accents holds a photo of Preston and Luana Minor smiling together in formal attire."
 geo:
 id: 12688
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 159310077_e424fc325a.jpg
     thumb: /files/thumbnails/14fb29d20a4f9814fb29d20a537e.jpg
     url: /files/original/14fb29d20a4f9814fb29d20a537e.jpg
+    alt:
+      en: "A wrecked, graffiti-covered car with \"MERRY CHRISTMAS\" spray-painted on its side sits abandoned in a debris-strewn yard beside damaged houses in the Lower 9th Ward, New Orleans."
 geo:
 id: 28625
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29e9f7119f14fb29e9f71585.jpg
     url: /files/original/14fb29e9f7119f14fb29e9f71585.jpg
+    alt:
+      en: "A leaning utility pole with dangling wires blocks a debris-strewn street lined with storm-damaged, boarded-up houses and downed tree branches."
 geo:
 id: 24190
 item_type: Still Image

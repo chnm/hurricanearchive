@@ -20,6 +20,8 @@ files:
     original_filename: Katrina 3_6c64619c2b.jpg
     thumb: /files/thumbnails/14fb29c2b1fdf214fb29c2b201df.jpg
     url: /files/original/14fb29c2b1fdf214fb29c2b201df.jpg
+    alt:
+      en: "Rusted blue sedan with spray-painted markings sits abandoned in an overgrown yard beside a damaged white house with a torn awning and broken window, chain-link fence in foreground."
 geo:
   address: ''
   lat: 29.97471

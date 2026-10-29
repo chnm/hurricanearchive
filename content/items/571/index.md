@@ -26,6 +26,8 @@ files:
     original_filename: 021_21_fb57c06fb7.JPG
     thumb: /files/thumbnails/14fb2a6f8319dc14fb2a6f831ddb.jpg
     url: /files/original/14fb2a6f8319dc14fb2a6f831ddb.jpg
+    alt:
+      en: "Ruins of a Kangaroo gas station with bare steel canopy framework still standing on red and yellow support beams, surrounded by storm debris and bare trees; a Kangaroo sign stands intact nearby a roadside."
 geo:
   address: ''
   lat: 30.374646

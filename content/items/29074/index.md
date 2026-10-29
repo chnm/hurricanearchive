@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0619.JPG
     thumb: /files/thumbnails/14fb29d04220fa14fb29d04224cb.jpg
     url: /files/original/14fb29d04220fa14fb29d04224cb.jpg
+    alt:
+      en: "Debris-strewn street lined with storm-damaged houses, a pile of ruined furniture and household items at the curb, and tangled power lines overhead under a clear blue sky."
 geo:
 id: 29074
 item_type: Still Image

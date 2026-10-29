@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6630_b5e5f99c68.JPG
     thumb: /files/thumbnails/14fb29d2bd586e14fb29d2bd7ab7.jpg
     url: /files/original/14fb29d2bd586e14fb29d2bd7ab7.jpg
+    alt:
+      en: "Worn black-and-white photo of a bride and groom surrounded by a group of guests on the stone steps of a church entrance, the bride holding a bouquet."
 geo:
   address: ''
   lat: 29.95493

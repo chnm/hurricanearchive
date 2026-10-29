@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0111.JPG
     thumb: /files/thumbnails/14fb2a557ab41b14fb2a557ab800.jpg
     url: /files/original/14fb2a557ab41b14fb2a557ab800.jpg
+    alt:
+      en: "Interior view of an attic or roof structure with exposed wooden rafters and beams, scattered electrical wiring, and torn insulation material hanging between the joists."
 geo:
 id: 4799
 item_type: Still Image

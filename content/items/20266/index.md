@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0012.JPG
     thumb: /files/thumbnails/14fb2a0a42625314fb2a0a426638.jpg
     url: /files/original/14fb2a0a42625314fb2a0a426638.jpg
+    alt:
+      en: "Aerial view from an aircraft window showing a patchwork of green trees and fields below, with a dark silhouette of the aircraft's interior and an American flag patch framing the shot."
 geo:
 id: 20266
 item_type: Still Image

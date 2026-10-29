@@ -20,6 +20,8 @@ files:
     original_filename: 1281656545_f920915636.jpg
     thumb: /files/thumbnails/14fb29cb9ec86b14fb29cb9ed3e2.jpg
     url: /files/original/14fb29cb9ec86b14fb29cb9ed3e2.jpg
+    alt:
+      en: "A woman sits smiling on a damaged brick building's edge, with scattered debris, bricks, and overgrown grass nearby; utility poles and distant structures line the horizon."
 geo:
 id: 33199
 item_type: Still Image

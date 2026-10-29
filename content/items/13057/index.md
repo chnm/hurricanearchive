@@ -21,6 +21,8 @@ files:
     original_filename: before tying on gas.jpg
     thumb: /files/thumbnails/14fb2a20b884c714fb2a20b888a7.jpg
     url: /files/original/14fb2a20b884c714fb2a20b888a7.jpg
+    alt:
+      en: "A man fuels a black Honda CR-V with a roof rack and spare tire cover, while seven empty red gas containers are lined up on the pavement beside the vehicle."
 geo:
 id: 13057
 item_type: Still Image

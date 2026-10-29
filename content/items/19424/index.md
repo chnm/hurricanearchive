@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0069engineers.JPG
     thumb: /files/thumbnails/14fb2a1046428f14fb2a10464674.jpg
     url: /files/original/14fb2a1046428f14fb2a10464674.jpg
+    alt:
+      en: "Three soldiers in camouflage fatigues and hard hats stand on a gravel road near military trucks and damaged houses, with gloves tucked into their belts and boots covered in dust."
 geo:
 id: 19424
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2433990001_74d8a8947b.
     thumb: /files/thumbnails/14fb29c9712ac514fb29c9713b74.jpg
     url: /files/original/14fb29c9712ac514fb29c9713b74.jpg
+    alt:
+      en: "Storm-damaged lot with downed tree limbs and scattered debris in the foreground, a \"Speed Limit 20\" sign, and a blue-roofed building amid bare trees in the background."
 geo:
 id: 34701
 item_type: Still Image

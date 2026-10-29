@@ -21,6 +21,8 @@ files:
     original_filename: S4300201iwojima.JPG
     thumb: /files/thumbnails/14fb2a115c10c714fb2a115c14a3.jpg
     url: /files/original/14fb2a115c10c714fb2a115c14a3.jpg
+    alt:
+      en: "A person in camouflage fatigues and boots climbs up a narrow metal stairway inside a ship, gripping handrails amid overhead pipes, cables, and a \"WASTE DIV\" label."
 geo:
 id: 19282
 item_type: Still Image

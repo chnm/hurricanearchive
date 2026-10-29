@@ -21,6 +21,8 @@ files:
     original_filename: S4300066zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0eec496614fb2a0eec4d4b.jpg
     url: /files/original/14fb2a0eec496614fb2a0eec4d4b.jpg
+    alt:
+      en: "Exterior view of a building with \"NEW ORLEANS SAINTS\" lettering and a fleur-de-lis logo painted on its upper wall, with an NFL shield logo beneath, photographed at an upward angle against a clear sky."
 geo:
 id: 19588
 item_type: Still Image

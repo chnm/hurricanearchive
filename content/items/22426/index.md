@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1265Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f67e210714fb29f67e264d.jpg
     url: /files/original/14fb29f67e210714fb29f67e264d.jpg
+    alt:
+      en: "View through a rain-streaked window of a building with a covered portico and sloped roofs, heavy rainfall obscuring the scene, with debris piled near the structure's entrance."
 geo:
 id: 22426
 item_type: Still Image

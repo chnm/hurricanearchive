@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a07a0351614fb2a07a03cd4.jpg
     url: /files/original/14fb2a07a0351614fb2a07a03cd4.jpg
+    alt:
+      en: "Rows of damaged vehicles with shattered windows and crushed roofs sit in a parking lot, with a partially collapsed metal building and overcast sky in the background."
 geo:
 id: 20422
 item_type: Still Image

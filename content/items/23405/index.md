@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0090cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef995b1514fb29ef997d3b.jpg
     url: /files/original/14fb29ef995b1514fb29ef997d3b.jpg
+    alt:
+      en: "Aerial view of flooded farmland and fields bisected by a curving road and a wide waterway, with visible water saturation across the agricultural plots."
 geo:
 id: 23405
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 097cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bc1a86614fb2a0bc1ac4b.jpg
     url: /files/original/14fb2a0bc1a86614fb2a0bc1ac4b.jpg
+    alt:
+      en: "View through a vehicle's windshield (with \"WADDELL\" lettering reversed on the glass) of a damaged white industrial building and debris-strewn lot, with a side mirror visible at right."
 geo:
 id: 20000
 item_type: Still Image

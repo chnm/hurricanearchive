@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0065OEP.JPG
     thumb: /files/thumbnails/14fb29f1b37a4514fb29f1b37e2b.jpg
     url: /files/original/14fb29f1b37a4514fb29f1b37e2b.jpg
+    alt:
+      en: "A man in a maroon shirt sits in a folding chair outdoors, typing on a silver HP laptop, surrounded by camera tripods, cables, and media equipment near parked vehicles."
 geo:
 id: 23055
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 394-J2.jpg
     thumb: /files/thumbnails/14fb29f9b5a8e814fb29f9b5ac4c.jpg
     url: /files/original/14fb29f9b5a8e814fb29f9b5ac4c.jpg
+    alt:
+      en: "Dimly lit indoor scene of men in military-style shirts seated on cots, one eating pizza from an open box, with a fan, water bottles, and camouflage gear nearby."
 geo:
 id: 22063
 item_type: Still Image

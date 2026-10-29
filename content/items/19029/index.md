@@ -21,6 +21,8 @@ files:
     original_filename: S4300090bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a139320c014fb2a139324bf.jpg
     url: /files/original/14fb2a139320c014fb2a139324bf.jpg
+    alt:
+      en: "Four smiling U.S. Army personnel in camouflage uniforms with \"JOC Staff\" badges hold coins and a key, standing before whiteboards labeled \"Inbound Transportation\" and \"Outbound Transportation.\""
 geo:
 id: 19029
 item_type: Still Image

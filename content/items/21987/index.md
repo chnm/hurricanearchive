@@ -21,6 +21,8 @@ files:
     original_filename: Picture 318-J2.jpg
     thumb: /files/thumbnails/14fb29fa81c15114fb29fa81c6ea.jpg
     url: /files/original/14fb29fa81c15114fb29fa81c6ea.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms stand on a sidewalk near a brick building, with a blue mailbox, trash can, bench, and litter nearby; a \"One Way\" sign is visible above."
 geo:
 id: 21987
 item_type: Still Image

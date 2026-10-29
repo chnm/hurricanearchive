@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 012.jpg
     thumb: /files/thumbnails/14fb2a2287472f14fb2a22874b15.jpg
     url: /files/original/14fb2a2287472f14fb2a22874b15.jpg
+    alt:
+      en: "An American flag flies from a damaged wooden post attached to a rusted metal structure on a sandy shoreline, with a long row of bridge pilings extending across the water in the background."
 geo:
 id: 11965
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0457.JPG
     thumb: /files/thumbnails/14fb2a53dac1cf14fb2a53dac99e.jpg
     url: /files/original/14fb2a53dac1cf14fb2a53dac99e.jpg
+    alt:
+      en: "Flat rooftop with gridded surface and scattered debris, overlooking a cleared lot and standing water, with storm-damaged, browned trees lining the horizon under a clear sky."
 geo:
 id: 5112
 item_type: Still Image

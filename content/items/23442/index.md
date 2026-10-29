@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0106cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef692ee714fb29ef6932d5.jpg
     url: /files/original/14fb29ef692ee714fb29ef6932d5.jpg
+    alt:
+      en: "A uniformed crew member wearing a headset and harness looks out the open door of an aircraft over a vast expanse of green treetops below."
 geo:
 id: 23442
 item_type: Still Image

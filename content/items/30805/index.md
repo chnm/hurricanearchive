@@ -21,6 +21,8 @@ files:
     original_filename: Picture 076.jpg
     thumb: /files/thumbnails/14fb29cc6091b314fb29cc609587.jpg
     url: /files/original/14fb29cc6091b314fb29cc609587.jpg
+    alt:
+      en: "Narrow paved road lined with storm-damaged trees, downed branches, and cut logs piled along both shoulders, with a red minivan driving ahead under a blue sky."
 geo:
 id: 30805
 item_type: Still Image

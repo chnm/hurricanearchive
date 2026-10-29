@@ -21,6 +21,8 @@ files:
     original_filename: 206 roof peeled.jpg
     thumb: /files/thumbnails/14fb2a1f446e6514fb2a1f44724a.jpg
     url: /files/original/14fb2a1f446e6514fb2a1f44724a.jpg
+    alt:
+      en: "Industrial building with \"...CTION INC\" signage, its metal roof peeled back and twisted, exposing the underlying structure, with debris scattered on the wet ground below."
 geo:
 id: 13212
 item_type: Still Image

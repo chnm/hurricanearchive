@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea03e08014fb29ea03e466.jpg
     url: /files/original/14fb29ea03e08014fb29ea03e466.jpg
+    alt:
+      en: "Aerial view of a hazy, flooded marshland with patches of water, vegetation, and a lighter-colored sandy or debris-covered area, with a faint horizon line in the distance."
 geo:
 id: 24182
 item_type: Still Image

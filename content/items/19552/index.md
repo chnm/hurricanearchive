@@ -21,6 +21,8 @@ files:
     original_filename: S4300006zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f45569114fb2a0f455a78.jpg
     url: /files/original/14fb2a0f45569114fb2a0f455a78.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms converse through a vehicle window while one man reviews handwritten notes in a notebook, wearing a wristwatch."
 geo:
 id: 19552
 item_type: Still Image

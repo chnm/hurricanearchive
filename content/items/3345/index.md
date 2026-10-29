@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (11).JPG
     thumb: /files/thumbnails/14fb2a5c5014c414fb2a5c501af9.jpg
     url: /files/original/14fb2a5c5014c414fb2a5c501af9.jpg
+    alt:
+      en: "A yellow CAT front loader clears storm debris near damaged houses and stripped trees, with a gravel-covered foreground and power lines against a clear blue sky."
 geo:
 id: 3345
 item_type: Still Image

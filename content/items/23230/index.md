@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 22.jpg
     thumb: /files/thumbnails/14fb29f095f96314fb29f095fef8.jpg
     url: /files/original/14fb29f095f96314fb29f095fef8.jpg
+    alt:
+      en: "Doppler radar map of the Gulf Coast dated August 28–29, 2005, showing a large green mass of rain, with patches of yellow and red indicating heavier precipitation, spanning from Louisiana to Alabama."
 geo:
 id: 23230
 item_type: Still Image

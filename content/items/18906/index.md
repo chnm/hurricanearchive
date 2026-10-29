@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0256downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1452563014fb2a14528949.jpg
     url: /files/original/14fb2a1452563014fb2a14528949.jpg
+    alt:
+      en: "Aerial view of a storm-damaged neighborhood with scorched, debris-covered lots, military vehicles parked in a staging area, bare trees, and surviving houses amid empty foundations along straight residential streets."
 geo:
 id: 18906
 item_type: Still Image

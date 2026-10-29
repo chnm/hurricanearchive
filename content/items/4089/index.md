@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0990.JPG
     thumb: /files/thumbnails/14fb2a57ec5bd814fb2a57ec5fbd.jpg
     url: /files/original/14fb2a57ec5bd814fb2a57ec5fbd.jpg
+    alt:
+      en: "Severely damaged apartment building with much of its roof torn off exposing the frame, next to vehicles and debris scattered on the ground, under a clear blue sky."
 geo:
 id: 4089
 item_type: Still Image

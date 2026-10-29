@@ -21,6 +21,8 @@ files:
     original_filename: 09270007plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec349b7914fb29ec349f5d.jpg
     url: /files/original/14fb29ec349b7914fb29ec349f5d.jpg
+    alt:
+      en: "Single-story white house with a metal roof stands damaged amid bare, storm-stripped trees, its windows broken and shutters askew, with a flooded roadside and dead grass in the foreground."
 geo:
 id: 23969
 item_type: Still Image

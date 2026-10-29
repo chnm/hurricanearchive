@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (8).JPG
     thumb: /files/thumbnails/14fb2a5dfbd45014fb2a5dfbd835.jpg
     url: /files/original/14fb2a5dfbd45014fb2a5dfbd835.jpg
+    alt:
+      en: "Row of tan quonset-style tents on a grassy field, with two people in camouflage uniforms walking between them near chairs and supplies, a fire extinguisher, and a bicycle."
 geo:
 id: 3103
 item_type: Still Image

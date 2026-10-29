@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0145-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a021330ec14fb2a021334cf.jpg
     url: /files/original/14fb2a021330ec14fb2a021334cf.jpg
+    alt:
+      en: "Aerial view of a flooded coastal lot with \"Canik's Hardware C&B\" building still standing, surrounded by downed trees, scattered debris, and rows of exposed pilings in floodwaters."
 geo:
 id: 20908
 item_type: Still Image

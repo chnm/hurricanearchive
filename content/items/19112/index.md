@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 022.jpg
     thumb: /files/thumbnails/14fb2a12f472d714fb2a12f47748.jpg
     url: /files/original/14fb2a12f472d714fb2a12f47748.jpg
+    alt:
+      en: "Two tan portable toilets labeled \"VANTEX 800-537-7359\" stand in the foreground of a paved lot with parked trucks, military tents, a satellite dish, and a flagpole under a clear sky."
 geo:
 id: 19112
 item_type: Still Image

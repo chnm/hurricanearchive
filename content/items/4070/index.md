@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0026.JPG
     thumb: /files/thumbnails/14fb2a58247bfa14fb2a58247fdf.jpg
     url: /files/original/14fb2a58247bfa14fb2a58247fdf.jpg
+    alt:
+      en: "Overhead view of cracked, debris-strewn pavement transitioning to dried mud, with a folded dollar bill lying on the asphalt and a red equipment casing and dark boot visible in the foreground."
 geo:
 id: 4070
 item_type: Still Image

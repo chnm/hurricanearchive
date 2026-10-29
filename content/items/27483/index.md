@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6503_91c568db1a.jpg
     thumb: /files/thumbnails/14fb29d414bfd914fb29d414c21a.jpg
     url: /files/original/14fb29d414bfd914fb29d414c21a.jpg
+    alt:
+      en: "A backyard swimming pool with a metal ladder, bordered by a wooden trellis covered in vines, with a brick house and trees visible in the background."
 geo:
   address: ''
   lat: 29.91685

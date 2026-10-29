@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0319cowanmedia.JPG
     thumb: /files/thumbnails/14fb29f2643aa014fb29f2643e7d.jpg
     url: /files/original/14fb29f2643aa014fb29f2643e7d.jpg
+    alt:
+      en: "Interior of a military aircraft or vehicle, with a man in camouflage uniform and sunglasses wearing a harness and earplugs, seated amid visible straps, hoses, and equipment."
 geo:
 id: 22965
 item_type: Still Image

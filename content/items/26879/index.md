@@ -21,6 +21,8 @@ files:
     original_filename: 09cafeteriacustodialstaff_ddc62fd533.jpg
     thumb: /files/thumbnails/14fb29d6ca4fa314fb29d6ca5748.jpg
     url: /files/original/14fb29d6ca4fa314fb29d6ca5748.jpg
+    alt:
+      en: "Black and white yearbook photo of five women standing behind a counter in a kitchen, under a \"Cafeteria & Custodial Staff\" heading, captioned with their names as the cafeteria staff."
 geo:
 id: 26879
 item_type: Still Image

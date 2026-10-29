@@ -26,6 +26,8 @@ files:
     original_filename: 030308011932_18537609d0.JPG
     thumb: /files/thumbnails/14fb2a6d98e94714fb2a6d98ed23.jpg
     url: /files/original/14fb2a6d98e94714fb2a6d98ed23.jpg
+    alt:
+      en: "Severely damaged two-story house with collapsed roof and debris scattered on the ground, surrounded by trees and power lines along a quiet street in Orange, Texas."
 geo:
   address: ''
   lat: 30.135425

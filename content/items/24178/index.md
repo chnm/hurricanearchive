@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea08936114fb29ea089745.jpg
     url: /files/original/14fb29ea08936114fb29ea089745.jpg
+    alt:
+      en: "A two-story brick building with a damaged roof stands behind overgrown grass and a large fallen tree, with uprooted stumps and debris scattered across the yard."
 geo:
 id: 24178
 item_type: Still Image

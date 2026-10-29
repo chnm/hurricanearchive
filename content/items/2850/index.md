@@ -21,6 +21,8 @@ files:
     original_filename: MVC-007S.JPG
     thumb: /files/thumbnails/14fb2a5fda730c14fb2a5fda78a2.jpg
     url: /files/original/14fb2a5fda730c14fb2a5fda78a2.jpg
+    alt:
+      en: "Interior of a ship compartment with mechanical equipment, including large handwheels, gears, and pipe fittings mounted on painted metal stands, set against a red floor and white walls."
 geo:
 id: 2850
 item_type: Still Image

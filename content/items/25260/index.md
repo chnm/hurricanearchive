@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1987superdome.JPG
     thumb: /files/thumbnails/14fb29dff5a9fb14fb29dff5ade3.jpg
     url: /files/original/14fb29dff5a9fb14fb29dff5ade3.jpg
+    alt:
+      en: "White Acadian Ambulance Service van with two people leaning out the front passenger window, one waving; vehicle numbered \"325\" with a company logo on the door."
 geo:
 id: 25260
 item_type: Still Image

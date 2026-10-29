@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28587.jpg
     thumb: /files/thumbnails/14fb2a688d0dfe14fb2a688d13c5.jpg
     url: /files/original/14fb2a688d0dfe14fb2a688d13c5.jpg
+    alt:
+      en: "Two men stand on a debris-strewn street beside a fallen \"Lakeshore\" street sign, with a high-rise building and utility poles visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

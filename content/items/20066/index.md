@@ -21,6 +21,8 @@ files:
     original_filename: Picture 163cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b82e8b614fb2a0b82ec96.jpg
     url: /files/original/14fb2a0b82e8b614fb2a0b82ec96.jpg
+    alt:
+      en: "Large rusted industrial pipes extend over murky, debris-filled water near a chain-link fence, with foam, trash, and scattered wood floating along the shoreline."
 geo:
 id: 20066
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 096cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e39905814fb2a0e39943d.jpg
     url: /files/original/14fb2a0e39905814fb2a0e39943d.jpg
+    alt:
+      en: "A weathered wooden stockade fence runs along the back of a gray vinyl-sided building with barred windows and doors, with a debris-strewn dirt yard in the foreground."
 geo:
 id: 19709
 item_type: Still Image

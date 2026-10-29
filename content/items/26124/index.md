@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5728_f9ac8257b5.jpg
     thumb: /files/thumbnails/14fb29da65e62014fb29da65ea07.jpg
     url: /files/original/14fb29da65e62014fb29da65ea07.jpg
+    alt:
+      en: "Heavily deteriorated black-and-white photo of a man in a cap, sunglasses, and overalls standing on a balcony, image largely obscured by water damage and emulsion loss."
 geo:
 id: 26124
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300152stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf8991714fb29ecf89cfa.jpg
     url: /files/original/14fb29ecf8991714fb29ecf89cfa.jpg
+    alt:
+      en: "Mud-covered street littered with debris and displaced vehicles, including a pickup truck and sedans, with damaged houses lining both sides under a hazy sky."
 geo:
 id: 23813
 item_type: Still Image

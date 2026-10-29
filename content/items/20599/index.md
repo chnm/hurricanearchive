@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041-15.JPG
     thumb: /files/thumbnails/14fb2a05c0d3a214fb2a05c0d6aa.jpg
     url: /files/original/14fb2a05c0d3a214fb2a05c0d6aa.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with damaged rooftops, scattered debris, downed power lines, and a small boat stranded near a house amid bare, storm-stripped trees."
 geo:
 id: 20599
 item_type: Still Image

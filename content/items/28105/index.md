@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-08_67125887e1.jpg
     thumb: /files/thumbnails/14fb29d2a9583814fb29d2a95a32.jpg
     url: /files/original/14fb29d2a9583814fb29d2a95a32.jpg
+    alt:
+      en: "Rows of soldiers in camouflage walk across an airport tarmac near a C-130 military aircraft marked \"ANG\" and \"81356,\" with another plane visible in the distance under a colorful sunset sky."
 geo:
 id: 28105
 item_type: Still Image

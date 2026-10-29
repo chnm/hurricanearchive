@@ -21,6 +21,8 @@ files:
     original_filename: Picture 312-J2.jpg
     thumb: /files/thumbnails/14fb29faa37cc314fb29faa383db.jpg
     url: /files/original/14fb29faa37cc314fb29faa383db.jpg
+    alt:
+      en: "Elevated highway overpass crossing in front of a city skyline, with the word \"GREYHOUND\" in blue letters on a building below; two tall streetlights stand against a clear blue sky."
 geo:
 id: 21981
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: katrina 060.jpg
     thumb: /files/thumbnails/14fb29fbbc5b5f14fb29fbbc5e0c.jpg
     url: /files/original/14fb29fbbc5b5f14fb29fbbc5e0c.jpg
+    alt:
+      en: "A tall glass-and-steel high-rise building viewed from street level, with a smaller stone building and tree in the foreground; another skyscraper is visible in the background. Timestamp \"3:03PM\" overlays the lower left."
 geo:
 id: 21790
 item_type: Still Image

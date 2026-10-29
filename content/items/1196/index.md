@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28681.jpg
     thumb: /files/thumbnails/14fb2a6a72e12414fb2a6a72eed0.jpg
     url: /files/original/14fb2a6a72e12414fb2a6a72eed0.jpg
+    alt:
+      en: "Two people stand talking near a dark pickup truck with a \"MED WHEEL\" license plate, one holding a clipboard and papers, in a parking lot with semi-trucks and trailers in the background."
 geo:
   address: ''
   lat: 0.0

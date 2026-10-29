@@ -21,6 +21,8 @@ files:
     original_filename: 20050929027.JPG
     thumb: /files/thumbnails/14fb2a1bfc90cd14fb2a1bfc94f0.jpg
     url: /files/original/14fb2a1bfc90cd14fb2a1bfc94f0.jpg
+    alt:
+      en: "Flooded roadway and debris field with scattered wreckage, bare trees, and a water tower standing in the distance under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

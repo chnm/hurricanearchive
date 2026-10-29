@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0408.JPG
     thumb: /files/thumbnails/14fb2a542b4f4d14fb2a542b571b.jpg
     url: /files/original/14fb2a542b4f4d14fb2a542b571b.jpg
+    alt:
+      en: "A wooden post with a measuring tape marked in inches stretched across it, surrounded by storm debris, bare tree branches, and a blue BFI trash bin in a cluttered outdoor area."
 geo:
 id: 5063
 item_type: Still Image

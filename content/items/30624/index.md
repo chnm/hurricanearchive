@@ -27,6 +27,8 @@ files:
     original_filename: tchoup st_960c097457.jpg
     thumb: /files/thumbnails/14fb29ccd19ccf14fb29ccd1a0bd.jpg
     url: /files/original/14fb29ccd19ccf14fb29ccd1a0bd.jpg
+    alt:
+      en: "Weathered wooden structure with exposed metal framing stands amid overgrown grass and weeds, with utility poles and distant buildings visible under a blue sky with scattered clouds."
 geo:
 id: 30624
 item_type: Still Image

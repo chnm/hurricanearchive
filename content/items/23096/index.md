@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0106OEP.JPG
     thumb: /files/thumbnails/14fb29f1929de914fb29f192a1c6.jpg
     url: /files/original/14fb29f1929de914fb29f192a1c6.jpg
+    alt:
+      en: "A man in military camouflage fatigues sits in an office, with a woman in a dark hoodie and khaki pants standing nearby amid cubicles, desks, and a doorway in the background."
 geo:
 id: 23096
 item_type: Still Image

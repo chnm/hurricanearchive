@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a10861f9214fb2a10862378.jpg
     url: /files/original/14fb2a10861f9214fb2a10862378.jpg
+    alt:
+      en: "A person wearing an orange hard hat and sunglasses sits in the cab of a military-style truck, resting an arm on the open window frame beside a side mirror."
 geo:
 id: 19407
 item_type: Still Image

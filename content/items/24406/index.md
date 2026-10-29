@@ -21,6 +21,8 @@ files:
     original_filename: 528th unloading rocks.JPG
     thumb: /files/thumbnails/14fb29e83613f714fb29e83617da.jpg
     url: /files/original/14fb29e83613f714fb29e83617da.jpg
+    alt:
+      en: "A CAT excavator unloads crushed white stone from a military dump truck onto bare ground, with a small white house, bare trees, and a person in fatigues nearby; timestamp reads 09.29.2005 15:27."
 geo:
 id: 24406
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0117abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef5355e614fb29ef536508.jpg
     url: /files/original/14fb29ef5355e614fb29ef536508.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands on a gravel path, gazing toward floodwaters submerging trees and reeds along the shoreline."
 geo:
 id: 23463
 item_type: Still Image

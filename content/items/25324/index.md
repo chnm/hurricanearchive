@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2051superdome.JPG
     thumb: /files/thumbnails/14fb29df143c3814fb29df144042.jpg
     url: /files/original/14fb29df143c3814fb29df144042.jpg
+    alt:
+      en: "Civilians carrying bags board a military aircraft on a tarmac, assisted by uniformed personnel, with an elevated highway visible in the background."
 geo:
 id: 25324
 item_type: Still Image

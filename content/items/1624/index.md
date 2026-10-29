@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28336.jpg
     thumb: /files/thumbnails/14fb2a675d62ba14fb2a675d6696.jpg
     url: /files/original/14fb2a675d62ba14fb2a675d6696.jpg
+    alt:
+      en: "Debris field with a fallen tree draped over a brick wall and foundation remnants, a green garden hose coiled on crushed shell ground, and heavy equipment and damaged structures in the background."
 geo:
   address: ''
   lat: 0.0

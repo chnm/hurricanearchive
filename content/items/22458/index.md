@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1299Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f65e8a5a14fb29f65e8e13.jpg
     url: /files/original/14fb29f65e8a5a14fb29f65e8e13.jpg
+    alt:
+      en: "Floodwaters submerge a residential street, with collapsed porch steps and railings jutting from the water, a lamppost partly submerged, and a boat floating near buildings in the background."
 geo:
 id: 22458
 item_type: Still Image

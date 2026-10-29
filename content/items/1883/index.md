@@ -26,6 +26,8 @@ files:
     original_filename: PB260087_dd5e2501b9.JPG
     thumb: /files/thumbnails/14fb2a6e72c96a14fb2a6e72cd4f.jpg
     url: /files/original/14fb2a6e72c96a14fb2a6e72cd4f.jpg
+    alt:
+      en: "A severely damaged house on stilts leans at an angle with its walls torn open, surrounded by debris, a tree limb, and a metal bed frame in the yard below."
 geo:
   address: ''
   lat: 30.2176531011518

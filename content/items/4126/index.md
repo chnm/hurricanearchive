@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0012.JPG
     thumb: /files/thumbnails/14fb2a5788088914fb2a57880c6e.jpg
     url: /files/original/14fb2a5788088914fb2a57880c6e.jpg
+    alt:
+      en: "Shrimp boats, including one labeled \"CAPT DANIEL,\" rest near rigging and debris-strewn ground, with downed trees and scattered wreckage along the waterfront under a hazy sky."
 geo:
 id: 4126
 item_type: Still Image

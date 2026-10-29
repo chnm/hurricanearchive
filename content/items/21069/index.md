@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2183.JPG
     thumb: /files/thumbnails/14fb2a00b5d2c914fb2a00b5d6af.jpg
     url: /files/original/14fb2a00b5d2c914fb2a00b5d6af.jpg
+    alt:
+      en: "Interior view of a military helicopter cockpit, showing an illuminated instrument panel with green gauges, a \"BLADE DE-ICE\" switch panel, and a pilot's silhouette against a bright windshield overlooking a runway."
 geo:
 id: 21069
 item_type: Still Image

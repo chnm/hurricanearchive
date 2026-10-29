@@ -20,6 +20,8 @@ files:
     original_filename: Shattered _24a9984109.JPG
     thumb: /files/thumbnails/14fb29cb034fca14fb29cb035710.jpg
     url: /files/original/14fb29cb034fca14fb29cb035710.jpg
+    alt:
+      en: "Close-up of a weathered wood-sided house with multi-pane windows, several panes shattered with jagged edges, lace curtains visible through the broken glass."
 geo:
   address: Lakeview
   lat: 29.57346

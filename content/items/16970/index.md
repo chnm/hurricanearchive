@@ -25,12 +25,16 @@ files:
     original_filename: CecileRobin-5898_87323e6e32.jpg
     thumb: /files/thumbnails/14fb2a15a8abe614fb2a15a8afcc.jpg
     url: /files/original/14fb2a15a8abe614fb2a15a8afcc.jpg
+    alt:
+      en: "Black-and-white souvenir program pages showing children and teens in formal gowns, tuxedos, crowns, and feathered headdresses posing for a royal court celebration with a king and queen."
   - fullsize: /files/fullsize/14fb2a15a2729914fb2a15a2767d.jpg
     id: 13950
     mime: image/jpeg
     original_filename: CecileRobin-5899_be0e8545b4.jpg
     thumb: /files/thumbnails/14fb2a15a2729914fb2a15a2767d.jpg
     url: /files/original/14fb2a15a2729914fb2a15a2767d.jpg
+    alt:
+      en: "Black-and-white photo of four costumed children posed before a sea-themed backdrop with painted fish, octopus, and seahorses, two wearing crowns during a shrimp fleet festival king and queen ceremony."
 geo:
 id: 16970
 item_type: Still Image

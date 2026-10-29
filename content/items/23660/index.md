@@ -21,6 +21,8 @@ files:
     original_filename: P1010101empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee074f6414fb29ee075347.jpg
     url: /files/original/14fb29ee074f6414fb29ee075347.jpg
+    alt:
+      en: "Rows of utility poles lean at sharp angles along a roadside strewn with debris, their wires sagging, amid scorched vegetation and scattered wreckage under a hazy sky."
 geo:
 id: 23660
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2380732970_3522bcd927.
     thumb: /files/thumbnails/14fb29ca2b589d14fb29ca2b5e53.jpg
     url: /files/original/14fb29ca2b589d14fb29ca2b5e53.jpg
+    alt:
+      en: "Aerial view of Oak Harbor Marina in Slidell, Louisiana, showing a thick field of storm debris covering the shoreline between open water and boat slips, with scattered boats, docks, and nearby buildings damaged by Hurricane Katrina."
 geo:
   address: ''
   lat: 30.21725

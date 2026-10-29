@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0091Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f93a81d014fb29f93a85b6.jpg
     url: /files/original/14fb29f93a81d014fb29f93a85b6.jpg
+    alt:
+      en: "Aerial view from an aircraft's open door and landing gear overlooking a neighborhood of houses, a large green-roofed building, and a river in the background, with scattered storm debris on the ground."
 geo:
 id: 22178
 item_type: Still Image

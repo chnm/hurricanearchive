@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5747_6cc32f19d8.jpg
     thumb: /files/thumbnails/14fb29da526ce914fb29da5270dd.jpg
     url: /files/original/14fb29da526ce914fb29da5270dd.jpg
+    alt:
+      en: "Water-damaged vintage photograph of a young child with curly hair holding a stuffed animal toy, the lower portion of the image heavily degraded with peeling emulsion and discoloration."
 geo:
 id: 26130
 item_type: Still Image

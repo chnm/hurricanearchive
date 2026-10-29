@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28758.jpg
     thumb: /files/thumbnails/14fb2a6ad94e0a14fb2a6ad951f4.jpg
     url: /files/original/14fb2a6ad94e0a14fb2a6ad951f4.jpg
+    alt:
+      en: "White HSUS Animal Rescue van parked under a large covered shelter marked \"2,\" with its side door open, beside a golf cart and stacked plastic crates on the pavement."
 geo:
   address: ''
   lat: 0.0

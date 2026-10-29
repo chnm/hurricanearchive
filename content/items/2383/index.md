@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_RITA_05C84_4cc33c101b.jpg
     thumb: /files/thumbnails/14fb2a66c91c1714fb2a66c92280.jpg
     url: /files/original/14fb2a66c91c1714fb2a66c92280.jpg
+    alt:
+      en: "Storm debris including broken boards, metal railings, and roofing scattered across a damaged deck and lawn, with two Coast Guard boats docked beside a damaged boathouse in the background."
 geo:
 id: 2383
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015OEP.JPG
     thumb: /files/thumbnails/14fb29f222f24a14fb29f222f630.jpg
     url: /files/original/14fb29f222f24a14fb29f222f630.jpg
+    alt:
+      en: "A person in military camouflage stands near a flowerbed beside a white canopy tent with weighted bags hanging from its frame, two bar stools underneath, and vehicles parked in the background."
 geo:
 id: 23005
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: Picture_8ed9b46d28.jpg
     thumb: /files/thumbnails/14fb29c2a6581014fb29c2a65bf5.jpg
     url: /files/original/14fb29c2a6581014fb29c2a65bf5.jpg
+    alt:
+      en: "A tall pine tree with a broken, bare upper trunk stands beside a concrete sidewalk, with a residential street, parked cars, and houses visible in the background."
 geo:
   address: ''
   lat: 30.02607

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28309.jpg
     thumb: /files/thumbnails/14fb2a67527f1314fb2a675282ce.jpg
     url: /files/original/14fb2a67527f1314fb2a675282ce.jpg
+    alt:
+      en: "Heavily damaged building with collapsed walls and exposed insulation, metal debris scattered across the ground, and a bare tree looming overhead under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

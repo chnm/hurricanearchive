@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2255engineers.JPG
     thumb: /files/thumbnails/14fb2a1098712c14fb2a1098741f.jpg
     url: /files/original/14fb2a1098712c14fb2a1098741f.jpg
+    alt:
+      en: "A man in a tan t-shirt, camouflage pants, and a hard hat with an American flag decal operates the controls inside the caged cab of a skid-steer loader, a dust mask hanging around his neck."
 geo:
 id: 19392
 item_type: Still Image

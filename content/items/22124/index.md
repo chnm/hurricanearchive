@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-04-2AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f9756d9b14fb29f97571e9.jpg
     url: /files/original/14fb29f9756d9b14fb29f97571e9.jpg
+    alt:
+      en: "Aerial view of extensive floodwater submerging a parking area and partially covering a building's lower windows and doors, with a dumpster, vehicle roofs, and debris floating on the brown water's surface."
 geo:
 id: 22124
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: katrina 006.jpg
     thumb: /files/thumbnails/14fb29fc0f104714fb29fc0f142c.jpg
     url: /files/original/14fb29fc0f104714fb29fc0f142c.jpg
+    alt:
+      en: "Interior of a supply tent with storage bins, cardboard boxes labeled \"Graham Medical,\" and medical supplies, with a white SUV and trailer visible outside through the open flap."
 geo:
 id: 21738
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: UNO - L.C. Simon Dr @ Milneburg Rd.jpg
     thumb: /files/thumbnails/14fb29fb0ba4d614fb29fb0ba8ae.jpg
     url: /files/original/14fb29fb0ba4d614fb29fb0ba8ae.jpg
+    alt:
+      en: "Aerial view of widespread floodwater surrounding a large flat-roofed building and residential neighborhood, with a dry grassy field and parking lot in the foreground near Milneburg Rd."
 geo:
 id: 21910
 item_type: Still Image

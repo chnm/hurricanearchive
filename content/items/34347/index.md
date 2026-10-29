@@ -24,6 +24,8 @@ files:
     original_filename: 2380073031_819f0b4caa.
     thumb: /files/thumbnails/14fb29ca423b0514fb29ca4246b9.jpg
     url: /files/original/14fb29ca423b0514fb29ca4246b9.jpg
+    alt:
+      en: "Close-up of weathered wood siding with peeling white paint and exposed plywood, partially obscured by green shrub leaves, showing signs of storm damage."
 geo:
   address: ''
   lat: 30.22894

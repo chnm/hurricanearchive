@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-22-20A.jpg
     thumb: /files/thumbnails/14fb29e8a0315a14fb29e8a0353f.jpg
     url: /files/original/14fb29e8a0315a14fb29e8a0353f.jpg
+    alt:
+      en: "Floodwater surrounds a modern building with bare trees and small grassy planters, reflecting the structure's columns and dark storefront windows marked by a horizontal yellow stripe."
 geo:
 id: 24346
 item_type: Still Image

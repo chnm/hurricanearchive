@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f310677a14fb29f3106b56.jpg
     url: /files/original/14fb29f310677a14fb29f3106b56.jpg
+    alt:
+      en: "Military Humvees, a red pickup truck, and uniformed personnel—including a New Orleans Police officer—gather near a \"Do Not Enter\" sign at a roadside checkpoint."
 geo:
 id: 22848
 item_type: Still Image

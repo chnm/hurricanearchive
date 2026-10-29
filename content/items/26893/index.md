@@ -21,6 +21,8 @@ files:
     original_filename: miss carolemundt_5383963be2.jpg
     thumb: /files/thumbnails/14fb29d666c47b14fb29d666c861.jpg
     url: /files/original/14fb29d666c47b14fb29d666c861.jpg
+    alt:
+      en: "Black-and-white yearbook photo of a smiling woman in a dark blazer and patterned scarf; caption reads \"Miss Carole Mundt, Assistant Principal, stops for a quick picture before going to a meeting.\""
 geo:
 id: 26893
 item_type: Still Image

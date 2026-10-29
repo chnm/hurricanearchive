@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0285-9-25.JPG
     thumb: /files/thumbnails/14fb29fdbe8ab414fb29fdbe9aa1.jpg
     url: /files/original/14fb29fdbe8ab414fb29fdbe9aa1.jpg
+    alt:
+      en: "Aerial view of a flooded sports field and street with a small boat carrying several people navigating the murky brown floodwaters, surrounded by partially submerged bleachers, light poles, trees, and utility lines."
 geo:
 id: 21532
 item_type: Still Image

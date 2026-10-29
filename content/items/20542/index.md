@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031-20.JPG
     thumb: /files/thumbnails/14fb2a064b053914fb2a064b0917.jpg
     url: /files/original/14fb2a064b053914fb2a064b0917.jpg
+    alt:
+      en: "Four women wearing matching \"Danny's Catering\" T-shirts and caps serve food from steam trays under a white tent, one actively scooping food into a container."
 geo:
 id: 20542
 item_type: Still Image

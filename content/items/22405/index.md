@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1237Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6b1941d14fb29f6b19801.jpg
     url: /files/original/14fb29f6b1941d14fb29f6b19801.jpg
+    alt:
+      en: "Hazy, low-visibility photo showing a flooded area with only a street sign or pole protruding above the water, with silhouetted foliage in the foreground."
 geo:
 id: 22405
 item_type: Still Image

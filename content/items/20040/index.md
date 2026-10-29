@@ -21,6 +21,8 @@ files:
     original_filename: Picture 137cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b987d1014fb2a0b9880ed.jpg
     url: /files/original/14fb2a0b987d1014fb2a0b9880ed.jpg
+    alt:
+      en: "White boat named \"The Queen's Barge, Mandeville, LA\" sits on a trailer, with a blue fender tied to its bow and visible hull damage on the ground below."
 geo:
 id: 20040
 item_type: Still Image

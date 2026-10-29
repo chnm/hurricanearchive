@@ -20,6 +20,8 @@ files:
     original_filename: Katrinaville Train Village at Lakeside Mall.JPG
     thumb: /files/thumbnails/14fb29d5a21d5314fb29d5a22132.jpg
     url: /files/original/14fb29d5a21d5314fb29d5a22132.jpg
+    alt:
+      en: "Miniature train village display with snow-covered terraces, toy vehicles, houses, and a construction scene, overlooked by giant plush Scooby-Doo and giraffe figures, inside a shopping mall near a Victoria's Secret storefront."
 geo:
 id: 27252
 item_type: Still Image

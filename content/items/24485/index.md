@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0103-21.JPG
     thumb: /files/thumbnails/14fb29e74c125014fb29e74c160c.jpg
     url: /files/original/14fb29e74c125014fb29e74c160c.jpg
+    alt:
+      en: "A uniformed service member on a cell phone sits behind a laptop at a desk marked \"JAG,\" with other uniformed personnel working at desks in the background."
 geo:
 id: 24485
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 199 billboard damage1.jpg
     thumb: /files/thumbnails/14fb2a1f55d8ca14fb2a1f55dcaf.jpg
     url: /files/original/14fb2a1f55d8ca14fb2a1f55dcaf.jpg
+    alt:
+      en: "A storm-damaged billboard structure with its advertising panels torn and hanging, set against an overcast sky with trees below."
 geo:
 id: 13205
 item_type: Still Image

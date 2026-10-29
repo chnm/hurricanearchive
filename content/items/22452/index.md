@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1293Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6633f4914fb29f6634325.jpg
     url: /files/original/14fb29f6633f4914fb29f6634325.jpg
+    alt:
+      en: "Floodwaters submerge trees, a brick chimney, and a collapsed deck near a building, with wind-bent pine branches and broken limbs overhead under a gray, stormy sky."
 geo:
 id: 22452
 item_type: Still Image

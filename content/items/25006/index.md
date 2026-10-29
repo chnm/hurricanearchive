@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1528superdome.JPG
     thumb: /files/thumbnails/14fb29e2fe754014fb29e2fe779a.jpg
     url: /files/original/14fb29e2fe754014fb29e2fe779a.jpg
+    alt:
+      en: "Group of men, including some in military fatigues and officials in uniforms, descend a wooden outdoor staircase; one man gestures while another wears a shirt labeled \"SUPERINTENDENT E. COMPASS.\""
 geo:
 id: 25006
 item_type: Still Image

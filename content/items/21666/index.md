@@ -21,6 +21,8 @@ files:
     original_filename: FH000005.jpg
     thumb: /files/thumbnails/14fb29fcb8174514fb29fcb81c70.jpg
     url: /files/original/14fb29fcb8174514fb29fcb81c70.jpg
+    alt:
+      en: "Dashboard view through a car windshield of a debris-strewn road lined with trees and streetlights, with scattered wreckage and sediment along both shoulders and median."
 geo:
 id: 21666
 item_type: Still Image

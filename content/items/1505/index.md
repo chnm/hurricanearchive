@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28667.jpg
     thumb: /files/thumbnails/14fb2a6852c4dc14fb2a6852c8c1.jpg
     url: /files/original/14fb2a6852c4dc14fb2a6852c8c1.jpg
+    alt:
+      en: "A young woman sweeps a concrete aisle with a broom inside a covered animal shelter facility, with another worker, buckets, hay, and empty stalls visible in the background."
 geo:
   address: ''
   lat: 0.0

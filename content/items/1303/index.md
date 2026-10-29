@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28740.jpg
     thumb: /files/thumbnails/14fb2a69c6002a14fb2a69c6040f.jpg
     url: /files/original/14fb2a69c6002a14fb2a69c6040f.jpg
+    alt:
+      en: "A woman in a pink top kneels beside stacked wire animal crates holding cats and paperwork tags, at the Humane Society rescue depot at Lamar-Dixon Fairgrounds."
 geo:
   address: ''
   lat: 0.0

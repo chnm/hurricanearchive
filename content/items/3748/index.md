@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 028.jpg
     thumb: /files/thumbnails/14fb2a59dd60e114fb2a59dd64c7.jpg
     url: /files/original/14fb2a59dd60e114fb2a59dd64c7.jpg
+    alt:
+      en: "Storm-damaged lot with debris, a chain-link fence, and scattered wreckage in the foreground, bare and broken trees, and a partially collapsed structure under a clear blue sky."
 geo:
 id: 3748
 item_type: Still Image

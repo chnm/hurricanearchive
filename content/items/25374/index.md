@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2099superdome.JPG
     thumb: /files/thumbnails/14fb29de96718914fb29de967573.jpg
     url: /files/original/14fb29de96718914fb29de967573.jpg
+    alt:
+      en: "Close-up of a camouflage military uniform shoulder patch in the foreground, with a helicopter parked on a wet tarmac and tall buildings in the background."
 geo:
 id: 25374
 item_type: Still Image

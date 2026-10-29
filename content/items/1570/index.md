@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27967.jpg
     thumb: /files/thumbnails/14fb2a67cf3cb214fb2a67d00b97.jpg
     url: /files/original/14fb2a67cf3cb214fb2a67d00b97.jpg
+    alt:
+      en: "A Houma Police car parked with its door open and an officer standing beside it, with a fleur-de-lis emblem on a concrete barrier in the foreground and the Superdome visible in the background."
 geo:
   address: ''
   lat: 0.0

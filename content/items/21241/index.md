@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0205-21.JPG
     thumb: /files/thumbnails/14fb29ffd9e9e214fb29ffd9edc7.jpg
     url: /files/original/14fb29ffd9e9e214fb29ffd9edc7.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand on a debris-strewn road, one carrying a rifle, with fallen tree branches and storm wreckage visible in the background."
 geo:
 id: 21241
 item_type: Still Image

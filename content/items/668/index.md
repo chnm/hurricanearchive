@@ -26,6 +26,8 @@ files:
     original_filename: 018_16_62e06581bb.jpg
     thumb: /files/thumbnails/14fb2a6f2f24bb14fb2a6f2f28ac.jpg
     url: /files/original/14fb2a6f2f24bb14fb2a6f2f28ac.jpg
+    alt:
+      en: "Collapsed house with debris-strewn roof and scattered wreckage along a muddy street, utility poles standing amid storm damage, a person walking near the ruins in the Ninth Ward, New Orleans."
 geo:
   address: ''
   lat: 29.951364951739297

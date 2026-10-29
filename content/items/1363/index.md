@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28754.jpg
     thumb: /files/thumbnails/14fb2a694daddb14fb2a694db267.jpg
     url: /files/original/14fb2a694daddb14fb2a694db267.jpg
+    alt:
+      en: "Woman in a white shirt, orange safety vest, and baseball cap smiles beside a metal storage unit with handwritten signs, one reading \"Exotic Supplies, NOT to be Removed.\""
 geo:
   address: ''
   lat: 0.0

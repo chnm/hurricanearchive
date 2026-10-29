@@ -21,6 +21,8 @@ files:
     original_filename: Picture 023neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ed09c4e014fb29ed09c8c8.jpg
     url: /files/original/14fb29ed09c4e014fb29ed09c8c8.jpg
+    alt:
+      en: "A man in an orange life vest and camouflage pants carries a young child while standing in a boat beside a flooded house, with water submerging the lower structure and trees visible in the background."
 geo:
 id: 23792
 item_type: Still Image

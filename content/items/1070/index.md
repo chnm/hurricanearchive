@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28467.jpg
     thumb: /files/thumbnails/14fb2a6b32b4e214fb2a6b32ba10.jpg
     url: /files/original/14fb2a6b32b4e214fb2a6b32ba10.jpg
+    alt:
+      en: "A young child sleeps on a makeshift bed of pillows and blankets, including a Donald Duck-patterned throw, with a backpack and blue balloon nearby in what appears to be the Houma Civic Center shelter."
 geo:
   address: ''
   lat: 0.0

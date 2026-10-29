@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 018.jpg
     thumb: /files/thumbnails/14fb2a59eceb2314fb2a59ecee64.jpg
     url: /files/original/14fb2a59eceb2314fb2a59ecee64.jpg
+    alt:
+      en: "Damaged house with roof torn off and blue tarp covering a gap in the wall, surrounded by debris, large oak trees, and a metal fence in the foreground."
 geo:
 id: 3738
 item_type: Still Image

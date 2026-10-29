@@ -21,6 +21,8 @@ files:
     original_filename: Picture 222cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b2abefb14fb2a0b2ac418.jpg
     url: /files/original/14fb2a0b2abefb14fb2a0b2ac418.jpg
+    alt:
+      en: "Group of soldiers in camouflage uniforms gather on a debris-strewn residential street, with storm-damaged trees and houses in the background under a clear blue sky."
 geo:
 id: 20125
 item_type: Still Image

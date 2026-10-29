@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0252.JPG
     thumb: /files/thumbnails/14fb29fed755e414fb29fed759c9.jpg
     url: /files/original/14fb29fed755e414fb29fed759c9.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with muddy water covering streets, debris scattered among houses, and surrounding trees, likely in the aftermath of a hurricane."
 geo:
 id: 21423
 item_type: Still Image

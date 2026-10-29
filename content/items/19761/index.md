@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 148cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0df9d6bb14fb2a0df9daa0.jpg
     url: /files/original/14fb2a0df9d6bb14fb2a0df9daa0.jpg
+    alt:
+      en: "Street scene with military Humvees and trucks parked near a two-story white porched building and a brick structure with a green metal roof, with two uniformed personnel walking between parked civilian cars."
 geo:
 id: 19761
 item_type: Still Image

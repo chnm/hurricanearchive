@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-15-14A.jpg
     thumb: /files/thumbnails/14fb29e8fea41014fb29e8fea66e.jpg
     url: /files/original/14fb29e8fea41014fb29e8fea66e.jpg
+    alt:
+      en: "Flooded street beneath an overpass, with a law enforcement pickup truck carrying passengers through deep water, flanked by two partially submerged school buses, one blue and one white."
 geo:
 id: 24295
 item_type: Still Image

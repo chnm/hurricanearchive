@@ -24,6 +24,8 @@ files:
     original_filename: P1010128.JPG
     thumb: /files/thumbnails/14fb2a5addb42314fb2a5addb815.jpg
     url: /files/original/14fb2a5addb42314fb2a5addb815.jpg
+    alt:
+      en: "Interior of a storm-damaged restaurant with cracked, debris-covered flooring, stained water-damaged walls, overturned folding tables, and metal display cases, decorative palm trees and tropical motifs still visible on the walls."
 geo:
 id: 3552
 item_type: Still Image

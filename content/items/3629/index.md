@@ -24,6 +24,8 @@ files:
     original_filename: P1010064.JPG
     thumb: /files/thumbnails/14fb2a5a93c22e14fb2a5a946886.jpg
     url: /files/original/14fb2a5a93c22e14fb2a5a946886.jpg
+    alt:
+      en: "Red banner with gold trim hanging from a curtain rod, reading \"Brothers of the Sacred Heart,\" with \"Cor Jesu,\" \"St. Aloysius,\" and \"Brother Martin\" listed below in gold and white lettering."
 geo:
 id: 3629
 item_type: Still Image

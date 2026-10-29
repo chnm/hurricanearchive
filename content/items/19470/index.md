@@ -21,6 +21,8 @@ files:
     original_filename: Picture 030engineers.jpg
     thumb: /files/thumbnails/14fb2a0fd5524a14fb2a0fd5562f.jpg
     url: /files/original/14fb2a0fd5524a14fb2a0fd5562f.jpg
+    alt:
+      en: "Side-by-side satellite images of a New Orleans waterway labeled August 28, 2002 and September 2, 2005, with the later image showing a large plume of smoke rising from the shoreline near docked cargo containers."
 geo:
 id: 19470
 item_type: Still Image

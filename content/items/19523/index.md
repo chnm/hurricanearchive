@@ -21,6 +21,8 @@ files:
     original_filename: Picture 083engineers.jpg
     thumb: /files/thumbnails/14fb2a0f92aa8b14fb2a0f92ae71.jpg
     url: /files/original/14fb2a0f92aa8b14fb2a0f92ae71.jpg
+    alt:
+      en: "Aerial view of flooded highway interchanges and surrounding neighborhoods, with interstate overpasses rising above widespread standing water and submerged terrain."
 geo:
 id: 19523
 item_type: Still Image

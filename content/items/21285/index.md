@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0217-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ffa2e13a14fb29ffa2e52d.jpg
     url: /files/original/14fb29ffa2e13a14fb29ffa2e52d.jpg
+    alt:
+      en: "Aerial view from a helicopter showing a devastated residential neighborhood with collapsed roofs, scattered debris, and downed trees lining the streets, with part of the helicopter's interior visible at the edge of the frame."
 geo:
 id: 21285
 item_type: Still Image

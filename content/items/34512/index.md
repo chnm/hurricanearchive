@@ -27,6 +27,8 @@ files:
     original_filename: 2291285043_db4638f04d.
     thumb: /files/thumbnails/14fb29c99cfa2314fb29c99cfe09.jpg
     url: /files/original/14fb29c99cfa2314fb29c99cfe09.jpg
+    alt:
+      en: "Sideways photo of a cluttered pantry shelf with cans, jars, bottles, and plastic bags, alongside pots and pans stacked on a counter, with a gourd visible in the foreground."
 geo:
   address: ''
   lat: 30.22539

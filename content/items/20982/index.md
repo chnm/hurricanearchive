@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0162-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0130d49a14fb2a0130d880.jpg
     url: /files/original/14fb2a0130d49a14fb2a0130d880.jpg
+    alt:
+      en: "A single-story pink house with a damaged carport roof sits surrounded by floodwater, with broken windows and bare trees reflected in the water."
 geo:
 id: 20982
 item_type: Still Image

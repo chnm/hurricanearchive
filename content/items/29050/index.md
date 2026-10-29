@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-19.jpg
     thumb: /files/thumbnails/14fb29d068adb814fb29d068b19e.jpg
     url: /files/original/14fb29d068adb814fb29d068b19e.jpg
+    alt:
+      en: "Rows of soldiers in camouflage uniforms, helmets, and backpacks walk across a tarmac toward two CH-47 Chinook helicopters with rotors spinning, preparing to board for Katrina relief operations."
 geo:
 id: 29050
 item_type: Still Image

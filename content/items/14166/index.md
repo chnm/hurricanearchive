@@ -21,6 +21,8 @@ files:
     original_filename: MPs to WalMart.JPG
     thumb: /files/thumbnails/14fb2a1b385e0514fb2a1b3869fb.jpg
     url: /files/original/14fb2a1b385e0514fb2a1b3869fb.jpg
+    alt:
+      en: "Military police personnel in camouflage uniforms, many armed, ride atop and stand beside a truck on an elevated highway strewn with litter, as a man in a white shirt looks on from behind a concrete barrier."
 geo:
   address: ''
   lat: 0.0

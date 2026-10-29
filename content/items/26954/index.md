@@ -20,6 +20,8 @@ files:
     original_filename: katrina_e0fbc2079d.jpg
     thumb: /files/thumbnails/14fb29d5e0435b14fb29d5e0a71d.jpg
     url: /files/original/14fb29d5e0435b14fb29d5e0a71d.jpg
+    alt:
+      en: "Aerial view of a flooded city with an elevated highway running through standing floodwater, surrounded by submerged buildings and neighborhoods, with a distant downtown skyline visible on the horizon."
 geo:
   address: ''
   lat: 38.96861

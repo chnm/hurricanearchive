@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0145abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef28b99c14fb29ef28bd77.jpg
     url: /files/original/14fb29ef28b99c14fb29ef28bd77.jpg
+    alt:
+      en: "A dead white animal, likely livestock, lies on its side in dry, matted grass near bare trees, with visible wounds and dried blood on its body and neck."
 geo:
 id: 23509
 item_type: Still Image

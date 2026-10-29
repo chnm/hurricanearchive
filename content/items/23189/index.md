@@ -21,6 +21,8 @@ files:
     original_filename: P1010009delaware.JPG
     thumb: /files/thumbnails/14fb29f0f92bfb14fb29f0f92fd9.jpg
     url: /files/original/14fb29f0f92bfb14fb29f0f92fd9.jpg
+    alt:
+      en: "Military cargo aircraft with rear loading ramp open sits on an airfield tarmac, surrounded by trucks and personnel, with curved taxiway markings in the foreground."
 geo:
 id: 23189
 item_type: Still Image

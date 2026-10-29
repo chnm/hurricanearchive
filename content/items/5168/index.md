@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0530.JPG
     thumb: /files/thumbnails/14fb2a538ac3ce14fb2a538ad806.jpg
     url: /files/original/14fb2a538ac3ce14fb2a538ad806.jpg
+    alt:
+      en: "A weathered wooden post snapped off at a jagged angle beside a concrete slab, with grass growing around its base and a small plastic cup nearby."
 geo:
 id: 5168
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 51.jpg
     thumb: /files/thumbnails/14fb2a6051348114fb2a60513866.jpg
     url: /files/original/14fb2a6051348114fb2a60513866.jpg
+    alt:
+      en: "Child's crayon drawing of a yellow sun, a triangular house, and a girl with long hair standing beside a large curved shape, with handwritten text reading \"ha mika 7 sou. New Orleans.\""
 geo:
 id: 2756
 item_type: Still Image

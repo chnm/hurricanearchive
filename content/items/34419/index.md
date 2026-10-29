@@ -27,6 +27,8 @@ files:
     original_filename: 2380703100_b8daf391c6.
     thumb: /files/thumbnails/14fb29ca1cc85214fb29ca1ccc37.jpg
     url: /files/original/14fb29ca1cc85214fb29ca1ccc37.jpg
+    alt:
+      en: "Sony stereo components, including a CD player labeled \"MegaStorage 300CD,\" covered with debris and a visible line of dried grass marking the height of floodwater."
 geo:
   address: ''
   lat: 30.22894

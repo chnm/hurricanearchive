@@ -21,6 +21,8 @@ files:
     original_filename: P1010086empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee1d552914fb29ee1d590d.jpg
     url: /files/original/14fb29ee1d552914fb29ee1d590d.jpg
+    alt:
+      en: "A two-lane road covered in debris runs through floodwater that submerges the surrounding landscape, with leaning utility poles, downed lines, and partially flooded trees on both sides."
 geo:
 id: 23645
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1677superdome.JPG
     thumb: /files/thumbnails/14fb29e26a89ab14fb29e26a8d89.jpg
     url: /files/original/14fb29e26a89ab14fb29e26a8d89.jpg
+    alt:
+      en: "Military police and soldiers in camouflage fatigues, some carrying rifles and backpacks marked \"MP,\" march in formation outside a large building, with school buses visible in the background."
 geo:
 id: 25092
 item_type: Still Image

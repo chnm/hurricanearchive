@@ -26,6 +26,8 @@ files:
     original_filename: 100_0094_436a02d88a.JPG
     thumb: /files/thumbnails/14fb2a6f76cb3614fb2a6f76cf23.jpg
     url: /files/original/14fb2a6f76cb3614fb2a6f76cf23.jpg
+    alt:
+      en: "Collapsed, debris-strewn house beside a street with a fallen traffic barricade, set against a backdrop of trees and an intact metal warehouse building under clear blue sky."
 geo:
   address: ''
   lat: 0.0

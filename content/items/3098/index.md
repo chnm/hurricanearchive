@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (3).JPG
     thumb: /files/thumbnails/14fb2a5e0bfe4a14fb2a5e0c0230.jpg
     url: /files/original/14fb2a5e0bfe4a14fb2a5e0c0230.jpg
+    alt:
+      en: "Interior of a large red-and-white striped tent set up as a dining area, with people in military and casual clothing seated at folding picnic tables, string lights hanging overhead."
 geo:
 id: 3098
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0241.JPG
     thumb: /files/thumbnails/14fb2a5f2578e614fb2a5f257ccb.jpg
     url: /files/original/14fb2a5f2578e614fb2a5f257ccb.jpg
+    alt:
+      en: "Interior control station with two cloth-wrapped steering wheels, analog gauges including a depth-to-keel dial, a repeater compass, and a \"WARNING\" placard mounted on equipment above."
 geo:
 id: 2992
 item_type: Still Image

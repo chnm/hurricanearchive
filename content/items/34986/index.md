@@ -20,6 +20,8 @@ files:
     original_filename: 2298622918_dbc76cd657.
     thumb: /files/thumbnails/14fb29c801a10814fb29c801c9d6.jpg
     url: /files/original/14fb29c801a10814fb29c801c9d6.jpg
+    alt:
+      en: "Large pile of discarded bicycles behind a chain-link fence, with two women talking in the foreground and a trailer reading \"Specialized Carrier Werner Enterprises\" in the background."
 geo:
 id: 34986
 item_type: Still Image

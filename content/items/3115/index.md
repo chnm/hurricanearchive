@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (18).JPG
     thumb: /files/thumbnails/14fb2a5ddb41b714fb2a5ddb459e.jpg
     url: /files/original/14fb2a5ddb41b714fb2a5ddb459e.jpg
+    alt:
+      en: "A damaged blue building with a partially collapsed roof sits beside a flooded canal, with several trucks parked along a nearby road, viewed from behind a concrete bridge railing."
 geo:
 id: 3115
 item_type: Still Image

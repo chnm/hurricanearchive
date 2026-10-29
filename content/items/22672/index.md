@@ -21,6 +21,8 @@ files:
     original_filename: PICT0168Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4cbcb8814fb29f4cbcf5c.jpg
     url: /files/original/14fb29f4cbcb8814fb29f4cbcf5c.jpg
+    alt:
+      en: "Single-story white house with a screened front porch and American flag displayed by the entrance, set on a grassy lawn with trees and a neighboring house visible; dated 09.15.2005."
 geo:
 id: 22672
 item_type: Still Image

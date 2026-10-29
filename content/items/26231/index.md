@@ -24,6 +24,8 @@ files:
     original_filename: AB car 1950_dc5b354484.jpg
     thumb: /files/thumbnails/14fb29d992e8d214fb29d992ec6e.jpg
     url: /files/original/14fb29d992e8d214fb29d992ec6e.jpg
+    alt:
+      en: "Black-and-white photo of two young men, one identified as Harold Bernard, leaning against a vintage convertible car, with a Coca-Cola cooler and storefront visible in the background."
 geo:
   address: ''
   lat: 29.91685

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1723superdome.JPG
     thumb: /files/thumbnails/14fb29e22773ae14fb29e227a883.jpg
     url: /files/original/14fb29e22773ae14fb29e227a883.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms and a medical worker in blue scrubs gather around a patient on a stretcher with a ventilator bag and monitoring equipment, preparing for transport outdoors."
 geo:
 id: 25120
 item_type: Still Image

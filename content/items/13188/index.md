@@ -21,6 +21,8 @@ files:
     original_filename: 181 flooded car2.jpg
     thumb: /files/thumbnails/14fb2a1f7d50d614fb2a1f7d54bb.jpg
     url: /files/original/14fb2a1f7d50d614fb2a1f7d54bb.jpg
+    alt:
+      en: "A silver sedan sits half-submerged in floodwater near a red STOP sign, with surrounding trees and brush partially underwater."
 geo:
 id: 13188
 item_type: Still Image

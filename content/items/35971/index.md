@@ -20,6 +20,8 @@ files:
     original_filename: FRIDGE 15_186edd705d.JPG
     thumb: /files/thumbnails/14fb29c5e517e314fb29c5e51bcb.jpg
     url: /files/original/14fb29c5e517e314fb29c5e51bcb.jpg
+    alt:
+      en: "An old, rusted refrigerator secured with duct tape stands outdoors near bare trees, spray-painted in red with \"THE HORROR\" repeated twice down its front."
 geo:
   address: ''
   lat: 29.72622

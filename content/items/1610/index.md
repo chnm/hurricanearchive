@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28207.jpg
     thumb: /files/thumbnails/14fb2a6776b22614fb2a6776ea2c.jpg
     url: /files/original/14fb2a6776b22614fb2a6776ea2c.jpg
+    alt:
+      en: "A tattered American flag drapes over a cinder block foundation marked \"116,\" with sandy, debris-strewn ground and a devastated tree line in the background."
 geo:
   address: ''
   lat: 0.0

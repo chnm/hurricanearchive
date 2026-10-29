@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1001Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f929716d14fb29f929755f.jpg
     url: /files/original/14fb29f929716d14fb29f929755f.jpg
+    alt:
+      en: "Military convoy of a camouflage pickup truck, Humvee, and a marked police sedan moving along a street past a brick building and guardhouse under a stormy sky."
 geo:
 id: 22194
 item_type: Still Image

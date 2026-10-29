@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 021.jpg
     thumb: /files/thumbnails/14fb2a59e5328114fb2a59e53667.jpg
     url: /files/original/14fb2a59e5328114fb2a59e53667.jpg
+    alt:
+      en: "A small single-story white house with green shutters sits among trees along a paved driveway, with a \"For Sale\" sign posted near the road in the foreground."
 geo:
 id: 3741
 item_type: Still Image

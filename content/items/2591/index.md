@@ -24,6 +24,8 @@ files:
     original_filename: 20051204_MG_9443.jpg
     thumb: /files/thumbnails/14fb2a6472ab2214fb2a6472d95c.jpg
     url: /files/original/14fb2a6472ab2214fb2a6472d95c.jpg
+    alt:
+      en: "Hand-painted wooden sign on two posts in a yard, decorated with a cartoon Santa face, reading \"Dear Santa, all we want for Christmas is... GAS,\" set against a house's siding."
 geo:
 id: 2591
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 018.jpg
     thumb: /files/thumbnails/14fb2a1308793214fb2a13088fd7.jpg
     url: /files/original/14fb2a1308793214fb2a13088fd7.jpg
+    alt:
+      en: "Military personnel in camouflage stand near a large olive-green tent displaying a \"State of Oregon 1859\" flag, with wooden supply crates and small utility vehicles in the foreground."
 geo:
 id: 19108
 item_type: Still Image

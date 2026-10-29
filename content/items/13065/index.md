@@ -21,6 +21,8 @@ files:
     original_filename: begin looking north.jpg
     thumb: /files/thumbnails/14fb2a209e84cb14fb2a209e8c70.jpg
     url: /files/original/14fb2a209e84cb14fb2a209e8c70.jpg
+    alt:
+      en: "Heavy rain and fog obscure a roadway with a median guardrail, scattered debris, and distant low buildings, viewed from beneath an overpass."
 geo:
 id: 13065
 item_type: Still Image

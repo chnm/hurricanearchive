@@ -21,6 +21,8 @@ files:
     original_filename: MVC-030S.JPG
     thumb: /files/thumbnails/14fb2a5f9c3bb514fb2a5f9c3f9a.jpg
     url: /files/original/14fb2a5f9c3bb514fb2a5f9c3f9a.jpg
+    alt:
+      en: "A large industrial crane and conveyor structure on a ship's deck, with a person walking nearby, set against a clear blue sky and the sea visible in the background."
 geo:
 id: 2907
 item_type: Still Image

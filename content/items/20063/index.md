@@ -21,6 +21,8 @@ files:
     original_filename: Picture 160cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b8457cb14fb2a0b845bb8.jpg
     url: /files/original/14fb2a0b8457cb14fb2a0b845bb8.jpg
+    alt:
+      en: "Water gushes from a large industrial pipe into a concrete-walled canal or basin, with bare trees and utility poles visible against a clear blue sky in the background."
 geo:
 id: 20063
 item_type: Still Image

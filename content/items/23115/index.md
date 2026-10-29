@@ -21,6 +21,8 @@ files:
     original_filename: 051003-A-1687S-064CaliforniaNG.jpg
     thumb: /files/thumbnails/14fb29f180a34c14fb29f180a72f.jpg
     url: /files/original/14fb29f180a34c14fb29f180a72f.jpg
+    alt:
+      en: "A man in a black cap and white shirt reviews a document held by a soldier in camouflage uniform wearing a patrol cap, standing under a covered porch."
 geo:
 id: 23115
 item_type: Still Image

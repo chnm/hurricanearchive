@@ -21,6 +21,8 @@ files:
     original_filename: SS St. Bernard (2).jpg
     thumb: /files/thumbnails/14fb2a5c3186cd14fb2a5c318832.jpg
     url: /files/original/14fb2a5c3186cd14fb2a5c318832.jpg
+    alt:
+      en: "Empty highway lined with storm-damaged trees and leaning utility poles, some power lines sagging; debris including a log and branches scattered along the shoulder."
 geo:
 id: 3361
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6493_780a4574b8.jpg
     thumb: /files/thumbnails/14fb29d382826d14fb29d38299e6.jpg
     url: /files/original/14fb29d382826d14fb29d38299e6.jpg
+    alt:
+      en: "Group photo of the Mount Carmel Academy Carmelettes dance team in white and brown uniforms posing outdoors beneath columns, with a teddy bear logo and \"Carmelettes 2006-2007\" text below."
 geo:
   address: ''
   lat: 29.87876

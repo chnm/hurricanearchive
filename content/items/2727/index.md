@@ -21,6 +21,8 @@ files:
     original_filename: 25.jpg
     thumb: /files/thumbnails/14fb2a6067595414fb2a60675d43.jpg
     url: /files/original/14fb2a6067595414fb2a60675d43.jpg
+    alt:
+      en: "Child's crayon drawing of a green helicopter flying over dark blue waves under a sky with blue clouds and a yellow sun in the upper corner."
 geo:
 id: 2727
 item_type: Still Image

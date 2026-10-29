@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003gillslong.JPG
     thumb: /files/thumbnails/14fb2a0dad888014fb2a0dad8c5d.jpg
     url: /files/original/14fb2a0dad888014fb2a0dad8c5d.jpg
+    alt:
+      en: "A military helicopter marked with a red cross symbol hovers low over a paved area near Quonset-style hangars, with trees and a cloudy blue sky in the background."
 geo:
 id: 19811
 item_type: Still Image

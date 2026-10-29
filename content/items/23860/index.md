@@ -21,6 +21,8 @@ files:
     original_filename: S4300216neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecb6567414fb29ecb65a5c.jpg
     url: /files/original/14fb29ecb6567414fb29ecb65a5c.jpg
+    alt:
+      en: "Flooded New Orleans street with a submerged \"St Claude Ave\" sign, a white house surrounded by water, damaged trees, and a brick building in the background, viewed from a bridge railing."
 geo:
 id: 23860
 item_type: Still Image

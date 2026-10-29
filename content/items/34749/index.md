@@ -20,6 +20,8 @@ files:
     original_filename: 2421694312_7f47d82fec.
     thumb: /files/thumbnails/14fb29c8e865d514fb29c8e869bc.jpg
     url: /files/original/14fb29c8e865d514fb29c8e869bc.jpg
+    alt:
+      en: "Damaged kitchen interior with a rusted double sink, peeling painted cabinetry, a bright uncovered window, and a wooden cupboard, showing weathered walls and clutter typical of storm damage."
 geo:
 id: 34749
 item_type: Still Image

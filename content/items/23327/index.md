@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0050abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eff3b4d214fb29eff3b8b7.jpg
     url: /files/original/14fb29eff3b4d214fb29eff3b8b7.jpg
+    alt:
+      en: "Heavy trucks plow through a flooded rural road lined with trees and power lines, throwing up large sprays of water as houses sit partially submerged in the background."
 geo:
 id: 23327
 item_type: Still Image

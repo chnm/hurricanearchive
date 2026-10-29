@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0232.JPG
     thumb: /files/thumbnails/14fb29ff4b833014fb29ff4b8718.jpg
     url: /files/original/14fb29ff4b833014fb29ff4b8718.jpg
+    alt:
+      en: "Aerial view of a heavily damaged residential neighborhood with debris-strewn yards, stripped and broken trees, and homes with missing roofs scattered across multiple city blocks."
 geo:
 id: 21344
 item_type: Still Image

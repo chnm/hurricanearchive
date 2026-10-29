@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0237.JPG
     thumb: /files/thumbnails/14fb2a54f609a514fb2a54f60d82.jpg
     url: /files/original/14fb2a54f609a514fb2a54f60d82.jpg
+    alt:
+      en: "Collapsed structure with a damaged roof lies among bare and storm-stripped trees, surrounded by scattered debris and low brick-capped walls in the foreground."
 geo:
 id: 4918
 item_type: Still Image

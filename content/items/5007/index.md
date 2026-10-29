@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0352.JPG
     thumb: /files/thumbnails/14fb2a5470231d14fb2a54702702.jpg
     url: /files/original/14fb2a5470231d14fb2a54702702.jpg
+    alt:
+      en: "A severely damaged two-story house with its roof partially collapsed, surrounded by scattered debris, broken wood, and downed trees, with an electrical utility box in the foreground."
 geo:
 id: 5007
 item_type: Still Image

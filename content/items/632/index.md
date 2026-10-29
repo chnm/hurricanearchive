@@ -26,6 +26,8 @@ files:
     original_filename: Bring_your_boots_next_time_f090c1eb5c.jpg
     thumb: /files/thumbnails/14fb2a6f52495f14fb2a6f524d49.jpg
     url: /files/original/14fb2a6f52495f14fb2a6f524d49.jpg
+    alt:
+      en: "Floodwater from the Amite River surrounds a blue house and smaller outbuilding, viewed through fruit-laden tree branches in the foreground."
 geo:
   address: ''
   lat: 30.342352

@@ -23,6 +23,8 @@ files:
     original_filename: rat's next rd vera's 2_1052d7fa02.JPG
     thumb: /files/thumbnails/14fb2a530e63af14fb2a530e6794.jpg
     url: /files/original/14fb2a530e63af14fb2a530e6794.jpg
+    alt:
+      en: "Rows of weathered wooden pilings stand in calm water beside a shoreline covered in broken bricks, shattered tiles, and debris from a demolished waterfront structure, with an overcast sky above."
 geo:
   address: ''
   lat: 30.27841

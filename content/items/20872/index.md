@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0137-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a026ecb3d14fb2a026ee5a3.jpg
     url: /files/original/14fb2a026ecb3d14fb2a026ee5a3.jpg
+    alt:
+      en: "Aerial view of a dense urban skyline with multiple high-rise buildings, a construction crane, and streets below, photographed on a hazy day; a \"Tulane\" sign is visible on one building."
 geo:
 id: 20872
 item_type: Still Image

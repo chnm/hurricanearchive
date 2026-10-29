@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0185.JPG
     thumb: /files/thumbnails/14fb2a0059833614fb2a00598724.jpg
     url: /files/original/14fb2a0059833614fb2a00598724.jpg
+    alt:
+      en: "Flooded roadway lined with downed power lines and utility poles beside a heavily damaged building reduced to scattered wood debris and exposed roofing, with trucks parked nearby and trees in the background."
 geo:
 id: 21146
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_LelandJackson_02_5e2d43640c.jpg
     thumb: /files/thumbnails/14fb2a17bd458e14fb2a17bd4973.jpg
     url: /files/original/14fb2a17bd458e14fb2a17bd4973.jpg
+    alt:
+      en: "A boy in a green \"GSS\" polo shirt sits on a small chair holding a stuffed toy, beside a bookshelf filled with children's books and a table with puppets."
 geo:
 id: 14786
 item_type: Still Image

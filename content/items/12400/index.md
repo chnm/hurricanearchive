@@ -21,6 +21,8 @@ files:
     original_filename: 102-02_1616458a4c.jpg
     thumb: /files/thumbnails/14fb2a222db85614fb2a222dbc3c.jpg
     url: /files/original/14fb2a222db85614fb2a222dbc3c.jpg
+    alt:
+      en: "Five people pose against a brick wall with utility boxes; a young boy in a striped shirt stands in front while a man in a cap sits behind two girls, and a woman in sunglasses stands at the back."
 geo:
 id: 12400
 item_type: Still Image

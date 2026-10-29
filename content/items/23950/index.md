@@ -21,6 +21,8 @@ files:
     original_filename: 09180020plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec43817314fb29ec438556.jpg
     url: /files/original/14fb29ec43817314fb29ec438556.jpg
+    alt:
+      en: "Empty two-lane road lined with storm-damaged trees and the wreckage of a mobile home, its walls partially collapsed amid scattered debris, under a hazy sky."
 geo:
 id: 23950
 item_type: Still Image

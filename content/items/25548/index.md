@@ -21,6 +21,8 @@ files:
     original_filename: LeoSchaeffer4B_8bf78be04a.jpg
     thumb: /files/thumbnails/14fb29dd38579914fb29dd385a4a.jpg
     url: /files/original/14fb29dd38579914fb29dd385a4a.jpg
+    alt:
+      en: "Interior of a damaged Winn Dixie supermarket, with overturned shopping carts, debris, mud, and scattered merchandise piled across the floor amid dark, storm-damaged shelving."
 geo:
 id: 25548
 item_type: Still Image

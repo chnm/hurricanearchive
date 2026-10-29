@@ -20,6 +20,8 @@ files:
     original_filename: scan0002_3f5d72bf8b.jpg
     thumb: /files/thumbnails/14fb29c4bc7f3214fb29c4bc8a44.jpg
     url: /files/original/14fb29c4bc7f3214fb29c4bc8a44.jpg
+    alt:
+      en: "Handwritten child's letter on Hello Kitty stationery describing a hurricane, paired with a crayon and marker drawing of a swirling storm, palm trees, and a colorful sun."
 geo:
   address: bud polk rd
   lat: 30.43269

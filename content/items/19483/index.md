@@ -21,6 +21,8 @@ files:
     original_filename: Picture 043engineers.jpg
     thumb: /files/thumbnails/14fb2a0fc7cbd014fb2a0fc7cfb6.jpg
     url: /files/original/14fb2a0fc7cbd014fb2a0fc7cfb6.jpg
+    alt:
+      en: "Aerial view of flood-damaged industrial buildings with torn and missing roof sections, debris scattered across a parking area, and rows of flooded vehicles parked alongside the structures."
 geo:
 id: 19483
 item_type: Still Image

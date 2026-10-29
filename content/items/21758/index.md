@@ -21,6 +21,8 @@ files:
     original_filename: katrina 026.jpg
     thumb: /files/thumbnails/14fb29fbeedf7a14fb29fbeee360.jpg
     url: /files/original/14fb29fbeedf7a14fb29fbeee360.jpg
+    alt:
+      en: "Two military helicopters silhouetted against a dusky sky, flying over a cityscape with buildings and an elevated roadway below; a timestamp reading \"8:47 PM\" appears in the lower left corner."
 geo:
 id: 21758
 item_type: Still Image

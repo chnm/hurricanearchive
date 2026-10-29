@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0077.JPG
     thumb: /files/thumbnails/14fb2a0ad7ebbc14fb2a0ad7efa0.jpg
     url: /files/original/14fb2a0ad7ebbc14fb2a0ad7efa0.jpg
+    alt:
+      en: "A man in military camouflage and sunglasses reaches to close the door of a Humvee, with floodwaters and trees visible in the background."
 geo:
 id: 20189
 item_type: Still Image

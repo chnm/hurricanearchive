@@ -21,6 +21,8 @@ files:
     original_filename: Picture 071engineers.jpg
     thumb: /files/thumbnails/14fb2a0f9b126014fb2a0f9b1646.jpg
     url: /files/original/14fb2a0f9b126014fb2a0f9b1646.jpg
+    alt:
+      en: "Aerial view of St. John Airport, showing a single runway marked \"35,\" a central taxiway leading to a parking apron labeled \"ST JOHN\" lined with small aircraft, surrounded by farmland, a pond, and tree lines."
 geo:
 id: 19511
 item_type: Still Image

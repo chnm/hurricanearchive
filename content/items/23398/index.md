@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0086cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efb1f40714fb29efb1fb1a.jpg
     url: /files/original/14fb29efb1f40714fb29efb1fb1a.jpg
+    alt:
+      en: "Aerial view of a flooded, marshy landscape with patches of vegetation, mud, and standing water creating a mottled, abstract pattern across the terrain."
 geo:
 id: 23398
 item_type: Still Image

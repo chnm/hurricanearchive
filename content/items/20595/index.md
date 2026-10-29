@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a05c6b62514fb2a05c6ba0c.jpg
     url: /files/original/14fb2a05c6b62514fb2a05c6ba0c.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with scattered mobile homes and houses, many with damaged or missing roofs, surrounded by standing floodwater and debris-strewn yards."
 geo:
 id: 20595
 item_type: Still Image

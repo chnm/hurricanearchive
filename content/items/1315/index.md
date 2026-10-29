@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28104.jpg
     thumb: /files/thumbnails/14fb2a69b9c9e514fb2a69b9cf2d.jpg
     url: /files/original/14fb2a69b9c9e514fb2a69b9cf2d.jpg
+    alt:
+      en: "Damaged sailboats with tall masts crowded at a marina dock, surrounded by broken wood debris and pilings, with trees in the background."
 geo:
   address: ''
   lat: 0.0

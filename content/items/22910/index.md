@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013tolbertmedia.JPG
     thumb: /files/thumbnails/14fb29f2b72f8014fb29f2b73364.jpg
     url: /files/original/14fb29f2b72f8014fb29f2b73364.jpg
+    alt:
+      en: "A man with gray hair looks through a professional video camera with a windscreen microphone, filming from a high vantage point overlooking a residential neighborhood and city buildings below."
 geo:
 id: 22910
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea5c05f414fb29ea5c0cb6.jpg
     url: /files/original/14fb29ea5c05f414fb29ea5c0cb6.jpg
+    alt:
+      en: "Flooded rural property with a red house raised on stilts, accessed by a wheelchair ramp, surrounded by standing water, bare trees, a white pickup truck, an ATV, and outbuildings."
 geo:
 id: 24128
 item_type: Still Image

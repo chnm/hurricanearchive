@@ -26,6 +26,8 @@ files:
     original_filename: Kenner_redwood_apts_293de1152a.jpg
     thumb: /files/thumbnails/14fb2a6f55910014fb2a6f5594df.jpg
     url: /files/original/14fb2a6f55910014fb2a6f5594df.jpg
+    alt:
+      en: "A large uprooted tree lies across a black pickup truck and a red truck, crashing into the brick balcony of an apartment building, with exposed roots and overturned earth beside the structure."
 geo:
   address: ''
   lat: 30.342352

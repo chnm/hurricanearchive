@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0636127114fb2a06361a4a.jpg
     url: /files/original/14fb2a0636127114fb2a06361a4a.jpg
+    alt:
+      en: "Aerial view of a flooded rural landscape with damaged houses, stripped trees, scattered debris, and standing floodwater covering roads and fields after a hurricane."
 geo:
 id: 20554
 item_type: Still Image

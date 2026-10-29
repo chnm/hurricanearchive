@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (14).JPG
     thumb: /files/thumbnails/14fb2a5ddecfb214fb2a5dded397.jpg
     url: /files/original/14fb2a5ddecfb214fb2a5dded397.jpg
+    alt:
+      en: "Fallen tree branches and storm debris scattered across a grassy yard in front of white houses, with a paved street visible in the foreground."
 geo:
 id: 3111
 item_type: Still Image

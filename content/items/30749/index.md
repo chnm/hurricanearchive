@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7462.JPG
     thumb: /files/thumbnails/14fb29cc99f0d614fb29cc99f4b3.jpg
     url: /files/original/14fb29cc99f0d614fb29cc99f4b3.jpg
+    alt:
+      en: "Older man with gray hair, beard, and glasses sits in a car's passenger seat wearing a seatbelt and gray t-shirt, smiling while holding a cardboard box."
 geo:
 id: 30749
 item_type: Still Image

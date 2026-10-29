@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-11-9A.jpg
     thumb: /files/thumbnails/14fb29e8c00e8114fb29e8c0141b.jpg
     url: /files/original/14fb29e8c00e8114fb29e8c0141b.jpg
+    alt:
+      en: "Aerial view of a flooded industrial area along a canal, with warehouses and buildings surrounded by floodwater, a highway on an elevated embankment, and a bridge crossing the waterway in the background."
 geo:
 id: 24318
 item_type: Still Image

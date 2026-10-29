@@ -20,6 +20,8 @@ files:
     original_filename: fuel-building_7e3b093766.jpg
     thumb: /files/thumbnails/14fb29c575ca9e14fb29c5795aa3.jpg
     url: /files/original/14fb29c575ca9e14fb29c5795aa3.jpg
+    alt:
+      en: "Three men stand near a fuel container at a building entrance marked \"ENTER 9'-6\" MAXIMUM HEADROOM,\" with caption text reading \"Transporting the fuel into the building.\""
 geo:
 id: 36395
 item_type: Still Image

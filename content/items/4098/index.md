@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1024.JPG
     thumb: /files/thumbnails/14fb2a57ca7dd114fb2a57ca81a2.jpg
     url: /files/original/14fb2a57ca7dd114fb2a57ca81a2.jpg
+    alt:
+      en: "Coast Guard personnel in dark uniforms, one holding a shotgun, stand on a dock beside patrol boats, speaking with a woman in a white t-shirt near calm water and a distant bridge."
 geo:
 id: 4098
 item_type: Still Image

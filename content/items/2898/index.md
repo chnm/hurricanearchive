@@ -21,6 +21,8 @@ files:
     original_filename: MVC-021S.JPG
     thumb: /files/thumbnails/14fb2a5fa1892e14fb2a5fa18d14.jpg
     url: /files/original/14fb2a5fa1892e14fb2a5fa18d14.jpg
+    alt:
+      en: "Interior view of a mechanical or engine room showing large painted metal pipes, valves, and a cylindrical tank with a bolted circular access hatch, along with assorted gauges and railings."
 geo:
 id: 2898
 item_type: Still Image

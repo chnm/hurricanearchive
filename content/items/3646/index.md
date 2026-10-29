@@ -24,6 +24,8 @@ files:
     original_filename: P1010082.JPG
     thumb: /files/thumbnails/14fb2a5a7b3ddf14fb2a5a7b4212.jpg
     url: /files/original/14fb2a5a7b3ddf14fb2a5a7b4212.jpg
+    alt:
+      en: "A silver picture frame with a shattered glass pane, cracked into a radiating spiderweb pattern, lies atop debris including cardboard and a floral-patterned box."
 geo:
 id: 3646
 item_type: Still Image

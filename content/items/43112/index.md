@@ -20,6 +20,8 @@ files:
     original_filename: Trolley1_96e144ab0c.jpg
     thumb: /files/thumbnails/14fb29c233618c14fb29c233acbb.jpg
     url: /files/original/14fb29c233618c14fb29c233acbb.jpg
+    alt:
+      en: "Black-and-white photo of a streetcar in motion crossing an intersection in New Orleans' Garden District, with large oak trees and a two-story house visible in the background, 1977."
 geo:
 id: 43112
 item_type: Still Image

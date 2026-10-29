@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27909.jpg
     thumb: /files/thumbnails/14fb2a6a133c9714fb2a6a134071.jpg
     url: /files/original/14fb2a6a133c9714fb2a6a134071.jpg
+    alt:
+      en: "Weathered house exterior with peeling white siding, spray-painted orange \"X\" search marking with \"9.11,\" \"NJ,\" and \"5/0\" codes, flanked by two windows, with a plastic chair on the porch below."
 geo:
   address: ''
   lat: 0.0

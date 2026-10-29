@@ -21,6 +21,8 @@ files:
     original_filename: J2 (21).JPG
     thumb: /files/thumbnails/14fb2a11462aa614fb2a11462e7c.jpg
     url: /files/original/14fb2a11462aa614fb2a11462e7c.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms wearing headsets and safety harnesses sit inside a military aircraft, with visible \"ARMY\" nametapes and a U.S. flag patch on one uniform."
 geo:
 id: 19302
 item_type: Still Image

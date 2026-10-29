@@ -24,6 +24,8 @@ files:
     original_filename: P1010117.JPG
     thumb: /files/thumbnails/14fb2a5aed709614fb2a5aed7479.jpg
     url: /files/original/14fb2a5aed709614fb2a5aed7479.jpg
+    alt:
+      en: "Historical marker titled \"Brothers of the Sacred Heart\" stands amid storm debris, trash bags, and discarded appliances on a grassy lot near trees, with a school building in the background."
 geo:
 id: 3541
 item_type: Still Image

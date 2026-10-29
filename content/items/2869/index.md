@@ -21,6 +21,8 @@ files:
     original_filename: MVC-026S.JPG
     thumb: /files/thumbnails/14fb2a5fbe165714fb2a5fbe1a34.jpg
     url: /files/original/14fb2a5fbe165714fb2a5fbe1a34.jpg
+    alt:
+      en: "Industrial kitchen or workroom with a large metal exhaust hood above a central worktable, surrounded by counters, control panels, and utensils hanging on the wall, with a dark red floor."
 geo:
 id: 2869
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: pt_riv_plts2_94d6a76003.jpg
     thumb: /files/thumbnails/14fb29d5877a1214fb29d5877e1d.jpg
     url: /files/original/14fb29d5877a1214fb29d5877e1d.jpg
+    alt:
+      en: "A damaged two-story white house with a dark roof stands amid storm wreckage—fallen trees, broken branches, and debris-filled marsh grass—with a palm tree and a brick tower visible behind it."
 geo:
   address: ''
   lat: 0.0

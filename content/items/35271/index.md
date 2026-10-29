@@ -18,6 +18,8 @@ files:
     original_filename: 7_40761a5b93.jpg
     thumb: /files/thumbnails/14fb29c7481aae14fb29c74856ab.jpg
     url: /files/original/14fb29c7481aae14fb29c74856ab.jpg
+    alt:
+      en: "Front porch of a pale blue house numbered \"614,\" with white columns featuring red bands, a white paneled door with arched glass panels, a brass mailbox, and bright red painted steps and railing."
 geo:
   address: new orleans, la
   lat: 29.95324

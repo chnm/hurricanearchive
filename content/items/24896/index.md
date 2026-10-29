@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0971superdome.JPG
     thumb: /files/thumbnails/14fb29e4017fda14fb29e40183c0.jpg
     url: /files/original/14fb29e4017fda14fb29e40183c0.jpg
+    alt:
+      en: "A man in a white shirt pushes a person in a wheelchair while a military officer wearing an \"S.R.T.\" cap assists, with an Acadian ambulance and SUV parked behind them near metal barricades."
 geo:
 id: 24896
 item_type: Still Image

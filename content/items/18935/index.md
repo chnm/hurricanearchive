@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0291downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14203cc014fb2a142040a4.jpg
     url: /files/original/14fb2a14203cc014fb2a142040a4.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with damaged rooftops, scattered debris, and trees with broken or defoliated branches, surrounded by streets and small yards."
 geo:
 id: 18935
 item_type: Still Image

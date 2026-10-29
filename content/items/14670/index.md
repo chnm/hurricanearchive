@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AlexiaWilson05_535be254ad.jpg
     thumb: /files/thumbnails/14fb2a18721b6914fb2a18721f4c.jpg
     url: /files/original/14fb2a18721b6914fb2a18721f4c.jpg
+    alt:
+      en: "A young girl in a white headband sits wrapped in a colorful fleece blanket featuring cartoon characters, beside a bookshelf of children's books and a small table with stuffed animals."
 geo:
 id: 14670
 item_type: Still Image

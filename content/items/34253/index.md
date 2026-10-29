@@ -21,6 +21,8 @@ files:
     original_filename: Lyndell Damage (8) (2)_8781465fd3.jpg
     thumb: /files/thumbnails/14fb29ca6647ae14fb29ca664b92.jpg
     url: /files/original/14fb29ca6647ae14fb29ca664b92.jpg
+    alt:
+      en: "Devastated living room with charred, sagging ceiling and walls, plaid furniture piled with debris, a blue curtain hanging by a window, and scattered wreckage covering the floor."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0132-21.JPG
     thumb: /files/thumbnails/14fb2a02e2477314fb2a02e24b57.jpg
     url: /files/original/14fb2a02e2477314fb2a02e24b57.jpg
+    alt:
+      en: "Motion-blurred photo of a man in military camouflage fatigues sitting inside a vehicle, looking toward the camera through an open door or window."
 geo:
 id: 20847
 item_type: Still Image

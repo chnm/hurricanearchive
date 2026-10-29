@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (81).jpg
     thumb: /files/thumbnails/14fb2a5c68fed414fb2a5c6902b4.jpg
     url: /files/original/14fb2a5c68fed414fb2a5c6902b4.jpg
+    alt:
+      en: "Hundreds of small dead fish cover a shallow, muddy puddle beside a rusted metal rail, with scattered leaves and debris mixed among them."
 geo:
 id: 3323
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: IMG_3811_18cc557a4d.JPG
     thumb: /files/thumbnails/14fb2a6eb9313b14fb2a6eb93521.jpg
     url: /files/original/14fb2a6eb9313b14fb2a6eb93521.jpg
+    alt:
+      en: "A small jet aircraft lies crashed on debris-strewn ground beneath an elevated highway overpass, surrounded by damaged trees and scattered storm wreckage."
 geo:
   address: ''
   lat: 30.0350679926905

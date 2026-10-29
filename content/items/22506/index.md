@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1347Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5c9d9c414fb29f5c9dda8.jpg
     url: /files/original/14fb29f5c9d9c414fb29f5c9dda8.jpg
+    alt:
+      en: "Floodwater surrounds a brick building with two doorways, its base submerged, as bare trees and downed utility poles stand against an overcast sky."
 geo:
 id: 22506
 item_type: Still Image

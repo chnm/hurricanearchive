@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2127superdome.JPG
     thumb: /files/thumbnails/14fb29e4a30ce314fb29e4a3131b.jpg
     url: /files/original/14fb29e4a30ce314fb29e4a3131b.jpg
+    alt:
+      en: "A group of men, including police officers, military personnel in camouflage, and civilians, gather in a room with wood paneling and wall-mounted photographs, engaged in discussion."
 geo:
 id: 24805
 item_type: Still Image

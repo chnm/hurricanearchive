@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28734.jpg
     thumb: /files/thumbnails/14fb2a6a62f0fa14fb2a6a62f616.jpg
     url: /files/original/14fb2a6a62f0fa14fb2a6a62f616.jpg
+    alt:
+      en: "Two women in navy uniforms review paperwork beside a medical supply cart stocked with eye wash, bandages, and IV bags inside a makeshift relief facility."
 geo:
   address: ''
   lat: 0.0

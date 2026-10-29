@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0008.JPG
     thumb: /files/thumbnails/14fb2a56f0ba2414fb2a56f0be24.jpg
     url: /files/original/14fb2a56f0ba2414fb2a56f0be24.jpg
+    alt:
+      en: "A residential lot reduced to scattered debris—splintered wood, an overturned appliance, and household items—with bare, storm-damaged trees and a surviving yellow house in the background."
 geo:
 id: 4582
 item_type: Still Image

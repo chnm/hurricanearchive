@@ -24,6 +24,8 @@ files:
     original_filename: P1010144.JPG
     thumb: /files/thumbnails/14fb2a5a15004d14fb2a5a1503fe.jpg
     url: /files/original/14fb2a5a15004d14fb2a5a1503fe.jpg
+    alt:
+      en: "A group of weathered stuffed animals—goat, bison, lion, elephant, giraffe, and monkey—sit on a dirty metal bench alongside two empty liquor bottles, including one labeled \"Remy Martin.\""
 geo:
 id: 3701
 item_type: Still Image

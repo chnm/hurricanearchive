@@ -23,6 +23,8 @@ files:
     original_filename: 161990822_6376d7371f.jpg
     thumb: /files/thumbnails/14fb29d22164a214fb29d2216887.jpg
     url: /files/original/14fb29d22164a214fb29d2216887.jpg
+    alt:
+      en: "A street in New Orleans' 9th Ward with a worker in a hard hat and reflective vest near a small excavator outside a damaged house, with debris on the ground and parked vehicles and power lines along the road."
 geo:
 id: 28613
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 162117760_7707a3792f.jpg
     thumb: /files/thumbnails/14fb29d2265dc014fb29d22661a5.jpg
     url: /files/original/14fb29d2265dc014fb29d22661a5.jpg
+    alt:
+      en: "Row of young palm trees along a grassy lakeside shore, each trunk braced upright with metal tripod supports; a body of water stretches along the right side under an overcast sky."
 geo:
 id: 28606
 item_type: Still Image

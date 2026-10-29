@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0098rita.JPG
     thumb: /files/thumbnails/14fb2a11a8895514fb2a11a88d3d.jpg
     url: /files/original/14fb2a11a8895514fb2a11a88d3d.jpg
+    alt:
+      en: "A man in U.S. Army camouflage uniform and cap, with name tape reading \"MEEK,\" sits at a table writing on a clipboard, with a \"Headquarters\" sign and mosquito repellent nearby."
 geo:
 id: 19244
 item_type: Still Image

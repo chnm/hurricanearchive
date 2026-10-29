@@ -21,6 +21,8 @@ files:
     original_filename: Picture 099cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bc01a1014fb2a0bc022cd.jpg
     url: /files/original/14fb2a0bc01a1014fb2a0bc022cd.jpg
+    alt:
+      en: "Cracked, dried mud covers the ground in front of a storm-damaged chain-link fence draped with torn plastic sheeting, with debris and a corrugated metal building visible behind it."
 geo:
 id: 20002
 item_type: Still Image

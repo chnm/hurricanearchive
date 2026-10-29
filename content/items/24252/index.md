@@ -21,6 +21,8 @@ files:
     original_filename: 09140033.JPG
     thumb: /files/thumbnails/14fb29e968c3db14fb29e968c7c0.jpg
     url: /files/original/14fb29e968c3db14fb29e968c7c0.jpg
+    alt:
+      en: "Debris-covered street with scattered vehicles, mud, and standing water, lined by utility poles, trees, and houses, with a large bridge and transmission tower visible in the background."
 geo:
 id: 24252
 item_type: Still Image

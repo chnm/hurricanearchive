@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042grandisle.JPG
     thumb: /files/thumbnails/14fb2a150f1e6014fb2a150f2244.jpg
     url: /files/original/14fb2a150f1e6014fb2a150f2244.jpg
+    alt:
+      en: "Aerial view of three elevated coastal homes, two intact and one missing, surrounded by massive piles of wooden debris and scattered building materials covering the surrounding grassy lots."
 geo:
 id: 18816
 item_type: Still Image

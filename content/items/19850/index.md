@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d26741114fb2a0d2677f6.jpg
     url: /files/original/14fb2a0d26741114fb2a0d2677f6.jpg
+    alt:
+      en: "A man in camouflage military fatigues films another man wearing a hard hat and safety glasses inside a wooden-framed building under construction with scaffolding."
 geo:
 id: 19850
 item_type: Still Image

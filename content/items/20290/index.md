@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0139-18.JPG
     thumb: /files/thumbnails/14fb2a09eb06d314fb2a09eb0abd.jpg
     url: /files/original/14fb2a09eb06d314fb2a09eb0abd.jpg
+    alt:
+      en: "Close-up of rusted corrugated metal sheets, likely salvaged roofing or siding, stacked at an angle with a blurred background of debris and metal fencing."
 geo:
 id: 20290
 item_type: Still Image

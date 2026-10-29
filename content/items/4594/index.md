@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0020.JPG
     thumb: /files/thumbnails/14fb2a56e29cfc14fb2a56e2b8c7.jpg
     url: /files/original/14fb2a56e29cfc14fb2a56e2b8c7.jpg
+    alt:
+      en: "A large tree trunk stands amid the collapsed remains of a house, with scattered debris, splintered wood, and insulation covering the ground; an intact brick house is visible in the background."
 geo:
 id: 4594
 item_type: Still Image

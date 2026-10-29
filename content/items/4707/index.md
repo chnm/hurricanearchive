@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0054.JPG
     thumb: /files/thumbnails/14fb2a5607d09114fb2a5607d474.jpg
     url: /files/original/14fb2a5607d09114fb2a5607d474.jpg
+    alt:
+      en: "A car parked beside a debris-strewn lot where two adults and a child stand among scattered rubble, with bare and broken trees lining the cleared area under a clear blue sky."
 geo:
 id: 4707
 item_type: Still Image

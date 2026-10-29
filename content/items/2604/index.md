@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9542.jpg
     thumb: /files/thumbnails/14fb2a644549d714fb2a64454f91.jpg
     url: /files/original/14fb2a644549d714fb2a64454f91.jpg
+    alt:
+      en: "A rusted bicycle leans against a low concrete wall with an ornate iron railing, set before a storm-damaged house knocked off its foundation amid piles of debris and bare trees."
 geo:
 id: 2604
 item_type: Still Image

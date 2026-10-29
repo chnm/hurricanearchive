@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (41).JPG
     thumb: /files/thumbnails/14fb2a5d648e2014fb2a5d649205.jpg
     url: /files/original/14fb2a5d648e2014fb2a5d649205.jpg
+    alt:
+      en: "Damaged billboard structure with torn panels stands over a cityscape, viewed from a bridge with a concrete balustrade in the foreground, skyline visible in the hazy distance."
 geo:
 id: 3191
 item_type: Still Image

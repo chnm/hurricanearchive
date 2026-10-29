@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_LoganPage_09_5704a98c18.jpg
     thumb: /files/thumbnails/14fb2a163ac81514fb2a163acbfa.jpg
     url: /files/original/14fb2a163ac81514fb2a163acbfa.jpg
+    alt:
+      en: "A young girl smiles for a school portrait against a blue backdrop, wearing a white collared shirt, gold hoop earrings, and a white bow in her hair."
 geo:
 id: 15465
 item_type: Still Image

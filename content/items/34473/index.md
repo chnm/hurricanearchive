@@ -23,6 +23,8 @@ files:
     original_filename: 2326881600_60d488ef6e.
     thumb: /files/thumbnails/14fb29c9da81eb14fb29c9da85d0.jpg
     url: /files/original/14fb29c9da81eb14fb29c9da85d0.jpg
+    alt:
+      en: "Rows of wooden pilings standing in calm water, remnants of a destroyed pier or camp structure, with a distant bridge or shoreline visible under a hazy sky."
 geo:
   address: ''
   lat: 30.21802

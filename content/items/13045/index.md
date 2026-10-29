@@ -21,6 +21,8 @@ files:
     original_filename: before looking south2.jpg
     thumb: /files/thumbnails/14fb2a20dba75f14fb2a20dbd648.jpg
     url: /files/original/14fb2a20dba75f14fb2a20dbd648.jpg
+    alt:
+      en: "Elevated view of a quiet downtown street lined with brick buildings, trees, and streetlights, with an empty plaza and gazebo structure in the foreground under an overcast sky."
 geo:
 id: 13045
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1276Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f676148614fb29f676186c.jpg
     url: /files/original/14fb29f676148614fb29f676186c.jpg
+    alt:
+      en: "A man in camouflage clothing floats in murky floodwater, supported by a yellow and black flotation device, with goggles pushed up on his forehead."
 geo:
 id: 22435
 item_type: Still Image

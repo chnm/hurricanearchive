@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0755.JPG
     thumb: /files/thumbnails/14fb2a57052d9614fb2a5705317c.jpg
     url: /files/original/14fb2a57052d9614fb2a5705317c.jpg
+    alt:
+      en: "A yellow tape measure stretched across a white support post, showing a measurement of about 12 inches, with a water view and debris-covered concrete in the background."
 geo:
 id: 4553
 item_type: Still Image

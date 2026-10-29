@@ -21,6 +21,8 @@ files:
     original_filename: PICT0102Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d06d0714fb29f4d070f4.jpg
     url: /files/original/14fb29f4d06d0714fb29f4d070f4.jpg
+    alt:
+      en: "Brick buildings and a bare tree stand beside a grassy lot with a white obelisk monument, framed by variegated green-and-yellow foliage in the foreground; timestamp reads 09.15.2005."
 geo:
 id: 22667
 item_type: Still Image

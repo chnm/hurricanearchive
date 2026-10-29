@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0147-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0203ddf314fb2a0203e1cd.jpg
     url: /files/original/14fb2a0203ddf314fb2a0203e1cd.jpg
+    alt:
+      en: "Aerial view of flood-damaged property with bare, storm-stripped trees surrounding scattered debris, a muddy yard, and standing floodwater in the foreground."
 geo:
 id: 20916
 item_type: Still Image

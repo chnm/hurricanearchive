@@ -23,6 +23,8 @@ files:
     original_filename: laurishirtfront_7b07c33e19.jpg
     thumb: /files/thumbnails/14fb29c2952e1914fb29c2953616.jpg
     url: /files/original/14fb29c2952e1914fb29c2953616.jpg
+    alt:
+      en: "Black t-shirt reading \"WANTED FOR MASS MURDER - The Bush Regime,\" with four paired portrait photos of political figures and text urging \"THE WORLD CAN'T WAIT! DRIVE OUT THE BUSH REGIME! Mobilize October 5, 2006!\""
 geo:
 id: 42268
 item_type: Still Image

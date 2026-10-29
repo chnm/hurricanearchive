@@ -21,6 +21,8 @@ files:
     original_filename: Picture 405-J2.jpg
     thumb: /files/thumbnails/14fb29f99f3ade14fb29f99f3ec2.jpg
     url: /files/original/14fb29f99f3ade14fb29f99f3ec2.jpg
+    alt:
+      en: "Long row of tan portable toilets labeled \"VANTEX 800-537-7359\" with ID numbers, alongside a separate line of blue portable toilets, military trucks, and a young man in a red shirt walking past."
 geo:
 id: 22074
 item_type: Still Image

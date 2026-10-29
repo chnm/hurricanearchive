@@ -31,6 +31,8 @@ files:
     original_filename: panorama3_2dd4b36e4f.JPG
     thumb: /files/thumbnails/14fb29d14cfc2514fb29d14d000b.jpg
     url: /files/original/14fb29d14cfc2514fb29d14d000b.jpg
+    alt:
+      en: "Three musicians play tuba, drums, and clarinet in a rustic room, beside a hanging white dress with painted designs, above a floor arrangement of grass patches."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

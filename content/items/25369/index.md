@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2094superdome.JPG
     thumb: /files/thumbnails/14fb29dea3191414fb29dea31cf9.jpg
     url: /files/original/14fb29dea3191414fb29dea31cf9.jpg
+    alt:
+      en: "Two men in camouflage military uniforms watch a Chinook helicopter on a rooftop helipad, with \"Delgado Community College\" and \"VA Medical Center\" buildings visible in the background."
 geo:
 id: 25369
 item_type: Still Image

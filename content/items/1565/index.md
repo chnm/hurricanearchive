@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28106.jpg
     thumb: /files/thumbnails/14fb2a67f5ca6814fb2a67f5d9ae.jpg
     url: /files/original/14fb2a67f5ca6814fb2a67f5d9ae.jpg
+    alt:
+      en: "A damaged lighthouse-style building with a red roof leans at an angle, surrounded by storm debris, fallen trees, and scattered rocks under a clear sky."
 geo:
   address: ''
   lat: 0.0

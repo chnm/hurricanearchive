@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012gillslong.JPG
     thumb: /files/thumbnails/14fb2a0d9b3f9d14fb2a0d9b437e.jpg
     url: /files/original/14fb2a0d9b3f9d14fb2a0d9b437e.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with an American flag patch sits under a large tent, eating from a styrofoam tray containing rice, peas, a bread roll, and a cookie, with a Diet Coke can nearby."
 geo:
 id: 19824
 item_type: Still Image

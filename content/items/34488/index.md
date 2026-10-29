@@ -27,6 +27,8 @@ files:
     original_filename: 2310200473_057b9e8123.
     thumb: /files/thumbnails/14fb29c9b6bb3b14fb29c9b6bf20.jpg
     url: /files/original/14fb29c9b6bb3b14fb29c9b6bf20.jpg
+    alt:
+      en: "A massive, sprawling oak tree with moss-draped branches stands in a sunlit park, its canopy filtering golden light onto the green grass below."
 geo:
 id: 34488
 item_type: Still Image

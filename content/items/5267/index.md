@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0712.JPG
     thumb: /files/thumbnails/14fb2a531a388d14fb2a531a3c7a.jpg
     url: /files/original/14fb2a531a388d14fb2a531a3c7a.jpg
+    alt:
+      en: "A storm-damaged yard with a sandy, debris-strewn clearing, a bent and uprooted tree, and a backdrop of tall pines leading into dense woods, with house siding visible at right."
 geo:
 id: 5267
 item_type: Still Image

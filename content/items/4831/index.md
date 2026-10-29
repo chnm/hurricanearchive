@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0146.JPG
     thumb: /files/thumbnails/14fb2a553ef1f014fb2a553ef5d1.jpg
     url: /files/original/14fb2a553ef1f014fb2a553ef5d1.jpg
+    alt:
+      en: "A red STOP sign on a metal pole in front of a damaged house with a partially collapsed roof, surrounded by bare and broken trees; a tan sedan is parked at the curb."
 geo:
 id: 4831
 item_type: Still Image

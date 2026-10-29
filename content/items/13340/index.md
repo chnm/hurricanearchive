@@ -21,6 +21,8 @@ files:
     original_filename: 105-03_ccb9b224e1.jpg
     thumb: /files/thumbnails/14fb2a1e4ad42114fb2a1e4ae1d2.jpg
     url: /files/original/14fb2a1e4ad42114fb2a1e4ae1d2.jpg
+    alt:
+      en: "Black-and-white 1949 street view looking up N. Claiborne Avenue at Desire Street, with a two-story building displaying a \"Standard Esso Dealer\" sign, utility poles, parked cars, houses, and a palm tree lining the road."
 geo:
 id: 13340
 item_type: Still Image

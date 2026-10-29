@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a072d606314fb2a072d673b.jpg
     url: /files/original/14fb2a072d606314fb2a072d673b.jpg
+    alt:
+      en: "A red house on stilts with a white railed porch stands surrounded by floodwater, with bare and leafy tree branches in the foreground reflecting on the water's surface."
 geo:
 id: 20442
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0141-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0224ba2514fb2a0224be0b.jpg
     url: /files/original/14fb2a0224ba2514fb2a0224be0b.jpg
+    alt:
+      en: "A yellow mobile home with shattered windows sits partially submerged in floodwater, surrounded by bare trees and debris, with a paved road visible in the foreground."
 geo:
 id: 20890
 item_type: Still Image

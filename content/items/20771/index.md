@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0075-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a03e6ae9614fb2a03e6ed69.jpg
     url: /files/original/14fb2a03e6ae9614fb2a03e6ed69.jpg
+    alt:
+      en: "A man in a hat and leather chaps holds a coiled lariat while seated on a horse, with trees, a street, and buildings visible in the background."
 geo:
 id: 20771
 item_type: Still Image

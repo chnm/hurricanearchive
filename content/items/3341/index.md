@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Press conference (8).JPG
     thumb: /files/thumbnails/14fb2a5c548f5214fb2a5c549339.jpg
     url: /files/original/14fb2a5c548f5214fb2a5c549339.jpg
+    alt:
+      en: "Press conference at a podium labeled \"Hyatt Regency New Orleans,\" with a man in a striped shirt speaking into a bank of microphones, flanked by military officers and a uniformed official named E. Compass."
 geo:
 id: 3341
 item_type: Still Image

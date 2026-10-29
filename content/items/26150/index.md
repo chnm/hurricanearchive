@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5773_5bbeeaad7b.jpg
     thumb: /files/thumbnails/14fb29da02f39014fb29da02f839.jpg
     url: /files/original/14fb29da02f39014fb29da02f839.jpg
+    alt:
+      en: "Framed studio portrait of a smiling young girl with curly reddish hair wearing a striped sweater, the photograph heavily damaged by mold or water stains and discoloration."
 geo:
 id: 26150
 item_type: Still Image

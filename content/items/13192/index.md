@@ -21,6 +21,8 @@ files:
     original_filename: 185 flooding7.jpg
     thumb: /files/thumbnails/14fb2a1f78f3d714fb2a1f78f7bb.jpg
     url: /files/original/14fb2a1f78f3d714fb2a1f78f7bb.jpg
+    alt:
+      en: "A flooded residential street with a pickup truck loaded with tires partially submerged, surrounded by trees, houses, and debris including a floating street sign post."
 geo:
 id: 13192
 item_type: Still Image

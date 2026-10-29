@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7653.JPG
     thumb: /files/thumbnails/14fb29cc8a91c114fb29cc8a95a8.jpg
     url: /files/original/14fb29cc8a91c114fb29cc8a95a8.jpg
+    alt:
+      en: "A paved rural road lined with storm-damaged trees, many stripped of branches or toppled, with piles of cut logs and debris along both shoulders under a clear blue sky."
 geo:
 id: 30772
 item_type: Still Image

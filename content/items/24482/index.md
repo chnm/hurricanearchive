@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0102-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e753fc8714fb29e7540016.jpg
     url: /files/original/14fb29e753fc8714fb29e7540016.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses submerged to their rooflines, surrounded by floating debris, damaged trees, and standing brown floodwater covering entire streets and yards."
 geo:
 id: 24482
 item_type: Still Image

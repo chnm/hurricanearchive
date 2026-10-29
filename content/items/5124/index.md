@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0486.JPG
     thumb: /files/thumbnails/14fb2a53d283bd14fb2a53d287e5.jpg
     url: /files/original/14fb2a53d283bd14fb2a53d287e5.jpg
+    alt:
+      en: "Damaged house with sagging roofline and a window, surrounded by fallen tree branches and debris, under a clear blue sky."
 geo:
 id: 5124
 item_type: Still Image

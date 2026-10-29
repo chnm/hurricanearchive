@@ -21,6 +21,8 @@ files:
     original_filename: 53.jpg
     thumb: /files/thumbnails/14fb2a6050274814fb2a60502b21.jpg
     url: /files/original/14fb2a6050274814fb2a60502b21.jpg
+    alt:
+      en: "Child's drawing of a green army truck with two X-marked wheels, a flag, and windows, labeled \"Army Truck\" and signed \"Tiffany, 8\" at the top."
 geo:
 id: 2758
 item_type: Still Image

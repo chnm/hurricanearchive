@@ -21,6 +21,8 @@ files:
     original_filename: cafeteria workers and custodians_1c1251cbe1.jpg
     thumb: /files/thumbnails/14fb29d73c718514fb29d73c7559.jpg
     url: /files/original/14fb29d73c718514fb29d73c7559.jpg
+    alt:
+      en: "Seven women in matching Chalmette High School aprons reading \"Luv Them Owls\" with an owl mascot logo pose together; a caption below lists cafeteria staff and custodians by name."
 geo:
 id: 26851
 item_type: Still Image

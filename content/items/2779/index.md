@@ -21,6 +21,8 @@ files:
     original_filename: 73.jpg
     thumb: /files/thumbnails/14fb2a6037c5df14fb2a6037c9be.jpg
     url: /files/original/14fb2a6037c5df14fb2a6037c9be.jpg
+    alt:
+      en: "Child's crayon drawing of wavy floodwaters surrounding stick-figure people and a house, with gray storm clouds, a yellow sun, a grid-patterned vehicle, and a green plant above the scene."
 geo:
 id: 2779
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27883.jpg
     thumb: /files/thumbnails/14fb2a6a171c7914fb2a6a17205c.jpg
     url: /files/original/14fb2a6a171c7914fb2a6a17205c.jpg
+    alt:
+      en: "Interior view of a collapsed trailer roof with splintered wooden beams and torn insulation, exposing tree branches through the damaged ceiling."
 geo:
   address: ''
   lat: 0.0

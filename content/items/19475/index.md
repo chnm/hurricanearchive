@@ -21,6 +21,8 @@ files:
     original_filename: Picture 035engineers.jpg
     thumb: /files/thumbnails/14fb2a0fd0e5b714fb2a0fd0e99d.jpg
     url: /files/original/14fb2a0fd0e5b714fb2a0fd0e99d.jpg
+    alt:
+      en: "Aerial view of a flooded school complex with submerged buildings and athletic fields, surrounded by debris-strewn land, with grounded fishing boats along a nearby waterway."
 geo:
 id: 19475
 item_type: Still Image

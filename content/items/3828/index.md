@@ -21,6 +21,8 @@ files:
     original_filename: 100_0118.JPG
     thumb: /files/thumbnails/14fb2a595a02f314fb2a595a06d8.jpg
     url: /files/original/14fb2a595a02f314fb2a595a06d8.jpg
+    alt:
+      en: "Sun setting low over calm water, casting a pink and orange glow across the sky and reflecting on the surface, with a dark wooded point of land visible on the horizon to the left."
 geo:
 id: 3828
 item_type: Still Image

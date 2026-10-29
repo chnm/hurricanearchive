@@ -21,6 +21,8 @@ files:
     original_filename: local officials, IOWA, LA.JPG
     thumb: /files/thumbnails/14fb2a1a86951614fb2a1a869805.jpg
     url: /files/original/14fb2a1a86951614fb2a1a869805.jpg
+    alt:
+      en: "Four men in work attire pose smiling in front of a red GMC pickup truck and military-style vehicles, with pine trees and a cloudy sky in the background; a man in a \"Fire Rescue\" shirt stands nearby."
 geo:
   address: ''
   lat: 0.0

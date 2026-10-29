@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-07-5Abatonrouge.jpg
     thumb: /files/thumbnails/14fb2a1544e9b814fb2a1544ed95.jpg
     url: /files/original/14fb2a1544e9b814fb2a1544ed95.jpg
+    alt:
+      en: "Aerial view of a large shopping center with a strip mall, expansive parking lots, and surrounding roads, surrounded by green fields and forested land."
 geo:
 id: 18777
 item_type: Still Image

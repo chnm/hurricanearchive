@@ -21,6 +21,8 @@ files:
     original_filename: 20050927016.JPG
     thumb: /files/thumbnails/14fb2a1c5ca66714fb2a1c5caa4c.jpg
     url: /files/original/14fb2a1c5ca66714fb2a1c5caa4c.jpg
+    alt:
+      en: "Overflowing green dumpsters surrounded by trash bags and cardboard boxes in a paved lot, with military trucks and trailers parked nearby under tall pine trees."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0157-21.JPG
     thumb: /files/thumbnails/14fb2a014bae7f14fb2a014c49c0.jpg
     url: /files/original/14fb2a014bae7f14fb2a014c49c0.jpg
+    alt:
+      en: "Several armed soldiers in camouflage uniforms stand near a civilian man in a white shirt and shorts, with a cameraman filming in the background on a debris-strewn street."
 geo:
 id: 20962
 item_type: Still Image

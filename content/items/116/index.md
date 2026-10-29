@@ -26,6 +26,8 @@ files:
     original_filename: 02_81dcfa0c55.jpg
     thumb: /files/thumbnails/14fb2a70f6c2e414fb2a70f6c79e.jpg
     url: /files/original/14fb2a70f6c2e414fb2a70f6c79e.jpg
+    alt:
+      en: "Aerial view of a breached levee with floodwater surging through the gap into a submerged neighborhood, where trees and rooftops poke above the water and a barge sits amid the flooding."
 geo:
   address: ''
   lat: 29.878755346037998

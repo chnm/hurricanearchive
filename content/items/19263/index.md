@@ -21,6 +21,8 @@ files:
     original_filename: 09210013iwojima.JPG
     thumb: /files/thumbnails/14fb2a1178711414fb2a117874f7.jpg
     url: /files/original/14fb2a1178711414fb2a117874f7.jpg
+    alt:
+      en: "Large gray military amphibious assault ship navigating a waterway lined with trees, viewed from a boat with yellow equipment in the foreground and a channel marker post visible in the water."
 geo:
 id: 19263
 item_type: Still Image

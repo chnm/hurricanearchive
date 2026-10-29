@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28607.jpg
     thumb: /files/thumbnails/14fb2a6cad1d1a14fb2a6cad2100.jpg
     url: /files/original/14fb2a6cad1d1a14fb2a6cad2100.jpg
+    alt:
+      en: "A large, sparsely leaved tree stands amid storm debris, with collapsed wooden roof framing and scattered branches surrounding damaged houses in the background."
 geo:
   address: ''
   lat: 0.0

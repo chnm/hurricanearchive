@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eafd5c1114fb29eafd5ee7.jpg
     url: /files/original/14fb29eafd5c1114fb29eafd5ee7.jpg
+    alt:
+      en: "Group of people gathered on a sidewalk outside a building, with a cameraman filming on a tripod and a man in a red shirt speaking with another man; green street signs and an awning reading \"SHE...\" visible above."
 geo:
 id: 24078
 item_type: Still Image

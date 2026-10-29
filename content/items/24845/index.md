@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2185superdome.JPG
     thumb: /files/thumbnails/14fb29e46e2b6b14fb29e46e2f50.jpg
     url: /files/original/14fb29e46e2b6b14fb29e46e2f50.jpg
+    alt:
+      en: "Nighttime scene of military personnel in camouflage uniforms unloading cardboard boxes and large stacks of bottled water from a truck, with additional hands reaching up to assist from below."
 geo:
 id: 24845
 item_type: Still Image

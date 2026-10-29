@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28273.jpg
     thumb: /files/thumbnails/14fb2a6d32064914fb2a6d320a0d.jpg
     url: /files/original/14fb2a6d32064914fb2a6d320a0d.jpg
+    alt:
+      en: "Two storm-damaged buildings stand amid debris-strewn ground—a white structure with a pink roof on its base and a tall beige building with collapsed sections—under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037M.JPG
     thumb: /files/thumbnails/14fb2a05ed6de314fb2a05ed71c1.jpg
     url: /files/original/14fb2a05ed6de314fb2a05ed71c1.jpg
+    alt:
+      en: "Group of men in casual clothing and military fatigues gather indoors near a wall clock, one wearing a white T-shirt reading \"IT ALL STARTS WITH ATTITUDE – THE AMERICAN SOLDIER DEFENDER OF FREEDOM.\""
 geo:
 id: 20581
 item_type: Still Image

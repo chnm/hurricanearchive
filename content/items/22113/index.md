@@ -21,6 +21,8 @@ files:
     original_filename: 09140024Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f97df4a314fb29f97df88a.jpg
     url: /files/original/14fb29f97df4a314fb29f97df88a.jpg
+    alt:
+      en: "Row of five tan \"VANTEX\" portable toilets lines a street in front of a storm-damaged white house, with a large fallen tree limb resting on its roof and debris piled nearby."
 geo:
 id: 22113
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (8).JPG
     thumb: /files/thumbnails/14fb2a5dd2707914fb2a5dd27457.jpg
     url: /files/original/14fb2a5dd2707914fb2a5dd27457.jpg
+    alt:
+      en: "Damaged metal roofing panels lie crumpled on the ground near overturned fencing and overgrown shrubs in front of a tan commercial building, photographed from inside a vehicle."
 geo:
 id: 3122
 item_type: Still Image

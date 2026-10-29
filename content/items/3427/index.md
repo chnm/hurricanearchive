@@ -24,6 +24,8 @@ files:
     original_filename: 0008.JPG
     thumb: /files/thumbnails/14fb2a5be321c014fb2a5be32794.jpg
     url: /files/original/14fb2a5be321c014fb2a5be32794.jpg
+    alt:
+      en: "Nighttime street view from inside a vehicle, headlights illuminating a two-lane road lined with dark trees and houses, with an oncoming car's bright headlights visible in the distance."
 geo:
 id: 3427
 item_type: Still Image

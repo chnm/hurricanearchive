@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0126cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef43747e14fb29ef437864.jpg
     url: /files/original/14fb29ef43747e14fb29ef437864.jpg
+    alt:
+      en: "Aerial view of a swamp or marsh covered in green algae and duckweed, with bald cypress trees rising from the water and a narrow boat visible near the bottom right."
 geo:
 id: 23479
 item_type: Still Image

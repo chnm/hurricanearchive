@@ -21,6 +21,8 @@ files:
     original_filename: Inprocessing3delaware.jpg
     thumb: /files/thumbnails/14fb29f13eec0d14fb29f13eeff1.jpg
     url: /files/original/14fb29f13eec0d14fb29f13eeff1.jpg
+    alt:
+      en: "Two soldiers in camouflage fatigues sit talking in folding chairs inside a large hall, with a backpack and water bottle nearby; other servicemembers stand near a mural of a helicopter in the background."
 geo:
 id: 23174
 item_type: Still Image

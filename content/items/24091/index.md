@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eae9ed2814fb29eae9f109.jpg
     url: /files/original/14fb29eae9ed2814fb29eae9f109.jpg
+    alt:
+      en: "Aerial view of a devastated coastal town with a water tower reading \"CAMERON,\" surrounded by storm debris, flooded streets, and damaged buildings amid flat marshland."
 geo:
 id: 24091
 item_type: Still Image

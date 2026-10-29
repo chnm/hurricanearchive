@@ -21,6 +21,8 @@ files:
     original_filename: P1010013.JPG
     thumb: /files/thumbnails/14fb29fc50cbb214fb29fc50cf99.jpg
     url: /files/original/14fb29fc50cbb214fb29fc50cf99.jpg
+    alt:
+      en: "A military Humvee is parked near the open rear cargo ramp of a C-130 aircraft on an airstrip, with two uniformed men standing beside the vehicle."
 geo:
 id: 21711
 item_type: Still Image

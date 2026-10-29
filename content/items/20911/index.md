@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0146-21.JPG
     thumb: /files/thumbnails/14fb2a020efcb214fb2a020f067a.jpg
     url: /files/original/14fb2a020efcb214fb2a020f067a.jpg
+    alt:
+      en: "A soldier in camouflage stands beside a portable STOP sign on a gravel-strewn road, with pickup trucks and a man in a white t-shirt and cap in the background."
 geo:
 id: 20911
 item_type: Still Image

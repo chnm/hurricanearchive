@@ -24,6 +24,8 @@ files:
     original_filename: family tent_ffc95faa3a.jpg
     thumb: /files/thumbnails/14fb2a220b5c8c14fb2a220b6073.jpg
     url: /files/original/14fb2a220b5c8c14fb2a220b6073.jpg
+    alt:
+      en: "Group of people gathered on an overpass with belongings and a makeshift tent of white sheets covering two infants, with a city skyline and rooftops visible in the background."
 geo:
 id: 12540
 item_type: Still Image

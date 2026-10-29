@@ -26,6 +26,8 @@ files:
     original_filename: DSC03431_3027c10ddb.JPG
     thumb: /files/thumbnails/14fb2a6f4b042b14fb2a6f4b081d.jpg
     url: /files/original/14fb2a6f4b042b14fb2a6f4b081d.jpg
+    alt:
+      en: "Smiling man in a striped polo shirt poses for a selfie-style photo with a flooded cityscape behind him, including submerged buildings, a bridge, and scattered debris."
 geo:
   address: ''
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: katrina_downtown_016_51c39dcc48.jpg
     thumb: /files/thumbnails/14fb2a224ae7fd14fb2a224aebe9.jpg
     url: /files/original/14fb2a224ae7fd14fb2a224aebe9.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms and maroon berets walk across an empty street lined with hedges and trees, with traffic signs, a \"No Left Turn\" sign, and a timestamp of 9.13.2005 overlaid."
 geo:
 id: 12114
 item_type: Still Image

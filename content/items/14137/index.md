@@ -21,6 +21,8 @@ files:
     original_filename: HMMWV in N.O..JPG
     thumb: /files/thumbnails/14fb2a1b90b57e14fb2a1b90beb2.jpg
     url: /files/original/14fb2a1b90b57e14fb2a1b90beb2.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with only concrete slab foundations remaining, scattered debris, standing floodwater, and a military HMMWV driving down a cleared street."
 geo:
   address: ''
   lat: 0.0

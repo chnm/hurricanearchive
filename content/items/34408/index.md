@@ -27,6 +27,8 @@ files:
     original_filename: 2379898079_762024d8b1.
     thumb: /files/thumbnails/14fb29ca2d86dc14fb29ca2d8ac3.jpg
     url: /files/original/14fb29ca2d86dc14fb29ca2d8ac3.jpg
+    alt:
+      en: "Satellite view of Hurricane Katrina's massive, well-defined eye swirling over the Gulf of Mexico, with the coastlines of Louisiana and Mississippi visible below."
 geo:
   address: ''
   lat: 30.22559

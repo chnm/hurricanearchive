@@ -21,6 +21,8 @@ files:
     original_filename: Picture 389-J2.jpg
     thumb: /files/thumbnails/14fb29f9bd9c7714fb29f9bd9eff.jpg
     url: /files/original/14fb29f9bd9c7714fb29f9bd9eff.jpg
+    alt:
+      en: "Rows of cots fill a large warehouse-like shelter where uniformed service members sit on folding chairs and cots, talking and relaxing near a large standing fan and scattered personal belongings."
 geo:
 id: 22058
 item_type: Still Image

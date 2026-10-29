@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (15).JPG
     thumb: /files/thumbnails/14fb2a5c4a0a4c14fb2a5c4a12dc.jpg
     url: /files/original/14fb2a5c4a0a4c14fb2a5c4a12dc.jpg
+    alt:
+      en: "Debris piles line a cleared lot where two excavators and a loader work alongside a parked truck, with a worker in an orange vest standing nearby, under a blue sky with scattered clouds."
 geo:
 id: 3349
 item_type: Still Image

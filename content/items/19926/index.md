@@ -21,6 +21,8 @@ files:
     original_filename: Picture 022cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c63a55e14fb2a0c63b3cd.jpg
     url: /files/original/14fb2a0c63a55e14fb2a0c63b3cd.jpg
+    alt:
+      en: "A tan military Humvee and a white police car parked near storm-damaged trees and fallen branches along a roadside, with a railroad crossing sign visible in the background."
 geo:
 id: 19926
 item_type: Still Image

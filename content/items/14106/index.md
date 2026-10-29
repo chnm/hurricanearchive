@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0003.JPG
     thumb: /files/thumbnails/14fb2a1bbcabe814fb2a1bbcafc3.jpg
     url: /files/original/14fb2a1bbcabe814fb2a1bbcafc3.jpg
+    alt:
+      en: "Blurry, rain-streaked photo of parked cars behind a hedge, with a grassy lawn and curb in the foreground, taken through a window during stormy weather."
 geo:
   address: ''
   lat: 0.0

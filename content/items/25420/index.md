@@ -21,6 +21,8 @@ files:
     original_filename: Superdome 2superdome.jpg
     thumb: /files/thumbnails/14fb29dde97ae414fb29dde97f67.jpg
     url: /files/original/14fb29dde97ae414fb29dde97f67.jpg
+    alt:
+      en: "Rows of dark SUVs and pickup trucks, plus a white van, parked on a wet rooftop lot beside a helicopter with spinning rotor blades, city buildings visible in the hazy background."
 geo:
 id: 25420
 item_type: Still Image

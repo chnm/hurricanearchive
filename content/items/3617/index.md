@@ -24,6 +24,8 @@ files:
     original_filename: P1010050.JPG
     thumb: /files/thumbnails/14fb2a5a9d5e6b14fb2a5a9d6248.jpg
     url: /files/original/14fb2a5a9d5e6b14fb2a5a9d6248.jpg
+    alt:
+      en: "Gutted building interior with exposed metal stud framing and drywall removed, revealing a brick support column and an open floor plan with concrete flooring beyond."
 geo:
 id: 3617
 item_type: Still Image

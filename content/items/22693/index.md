@@ -21,6 +21,8 @@ files:
     original_filename: PICT0260Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4bc7c3914fb29f4bc8026.jpg
     url: /files/original/14fb29f4bc7c3914fb29f4bc8026.jpg
+    alt:
+      en: "A brick headquarters building with tall white columns, a military Humvee and a pickup truck parked in front, large bare trees overhead, dated 09.15.2005."
 geo:
 id: 22693
 item_type: Still Image

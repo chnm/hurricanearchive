@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1602hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee8ca8a514fb29ee8cab0b.jpg
     url: /files/original/14fb29ee8ca8a514fb29ee8cab0b.jpg
+    alt:
+      en: "High-rise Hyatt hotel building with heavily damaged windows, many broken and covered with torn curtains or debris flapping outward, under a clear sky with a traffic signal in the foreground."
 geo:
 id: 23602
 item_type: Still Image

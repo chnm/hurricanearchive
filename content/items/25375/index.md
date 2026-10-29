@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2100superdome.JPG
     thumb: /files/thumbnails/14fb29de958b6a14fb29de958f08.jpg
     url: /files/original/14fb29de958b6a14fb29de958f08.jpg
+    alt:
+      en: "Close-up of a camouflage military uniform sleeve with a patch in the foreground, with a helicopter parked on a wet tarmac and large buildings in the blurred background."
 geo:
 id: 25375
 item_type: Still Image

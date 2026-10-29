@@ -21,6 +21,8 @@ files:
     original_filename: traffic4.jpg
     thumb: /files/thumbnails/14fb2a1e6c752714fb2a1e6c78ac.jpg
     url: /files/original/14fb2a1e6c752714fb2a1e6c78ac.jpg
+    alt:
+      en: "A line of vehicles, including a pickup truck and several cars, travels along a two-lane road lined with dense trees on both sides under a cloudy sky."
 geo:
 id: 13268
 item_type: Still Image

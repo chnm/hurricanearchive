@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0414.JPG
     thumb: /files/thumbnails/14fb2a5426d33914fb2a5426d71e.jpg
     url: /files/original/14fb2a5426d33914fb2a5426d71e.jpg
+    alt:
+      en: "Storm-damaged house with a partially collapsed roof stands amid bare, broken trees and scattered debris, with a wooden post and beam frame in the foreground."
 geo:
 id: 5069
 item_type: Still Image

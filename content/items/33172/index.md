@@ -20,6 +20,8 @@ files:
     original_filename: FDL symbol NO Nov 1 2007_8b3c2500bf.jpg
     thumb: /files/thumbnails/14fb29cbd33a2b14fb29cbd33e07.jpg
     url: /files/original/14fb29cbd33a2b14fb29cbd33e07.jpg
+    alt:
+      en: "A hand-hammered stainless steel fleur-de-lis pendant on a chain hangs in front of a house's painted search-and-rescue symbol reading \"9-15, TF18, 0\" inside a large X."
 geo:
   address: ''
   lat: 29.9507

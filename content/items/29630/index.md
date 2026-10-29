@@ -27,6 +27,8 @@ files:
     original_filename: lakeviews_8f6f273f76.jpg
     thumb: /files/thumbnails/14fb29ce211d3f14fb29ce21211b.jpg
     url: /files/original/14fb29ce211d3f14fb29ce21211b.jpg
+    alt:
+      en: "A hand-held paper fan with a wooden stick, printed in blue and white with an ornate gate design and the word \"Lakeviews\" across the center."
 geo:
   address: 1922 West End Park
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC01192.JPG
     thumb: /files/thumbnails/14fb2a5831df0214fb2a5831e2e7.jpg
     url: /files/original/14fb2a5831df0214fb2a5831e2e7.jpg
+    alt:
+      en: "Two U.S. Coast Guard members in uniform converse face to face outdoors, one with a nametag reading \"Sullivan,\" with vehicles and a white building visible behind them."
 geo:
 id: 4056
 item_type: Still Image

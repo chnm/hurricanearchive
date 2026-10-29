@@ -21,6 +21,8 @@ files:
     original_filename: 100-19_610bd27306.jpg
     thumb: /files/thumbnails/14fb2a21d4436214fb2a21d44747.jpg
     url: /files/original/14fb2a21d4436214fb2a21d44747.jpg
+    alt:
+      en: "Vintage photo of three women in formal gowns and long gloves, standing before a draped stage backdrop at a 1961 coronation ball, smiling for the camera."
 geo:
 id: 12671
 item_type: Still Image

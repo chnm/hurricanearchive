@@ -26,6 +26,8 @@ files:
     original_filename: 007_05A_31ca039ffd.jpg
     thumb: /files/thumbnails/14fb2a6f35984f14fb2a6f35a00e.jpg
     url: /files/original/14fb2a6f35984f14fb2a6f35a00e.jpg
+    alt:
+      en: "A military helicopter hovers over a flooded highway lined with submerged cars, buses, and trucks, with a parking garage and city skyline visible in the background."
 geo:
   address: ''
   lat: 29.952257363233002

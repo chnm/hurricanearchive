@@ -21,6 +21,8 @@ files:
     original_filename: Picture 233cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b17ad5214fb2a0b17b18f.jpg
     url: /files/original/14fb2a0b17ad5214fb2a0b17b18f.jpg
+    alt:
+      en: "A group of soldiers in camouflage uniforms stand talking near a military Humvee marked \"HQ 007,\" with trees and a house visible in the background."
 geo:
 id: 20136
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-002S.JPG
     thumb: /files/thumbnails/14fb2a5fab25c114fb2a5fab29f1.jpg
     url: /files/original/14fb2a5fab25c114fb2a5fab29f1.jpg
+    alt:
+      en: "A large gray control panel with multiple rows of toggle switches, indicator lights, labeled gauges, and circular dials with knobs, resembling an electrical or mechanical equipment room."
 geo:
 id: 2879
 item_type: Still Image

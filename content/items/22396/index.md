@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1228Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6bdb8c214fb29f6bdbca8.jpg
     url: /files/original/14fb29f6bdb8c214fb29f6bdbca8.jpg
+    alt:
+      en: "Rooftop view of flooded residential street during a storm, with houses and utility poles partially submerged in brown floodwater under heavy rain and wind-blown trees."
 geo:
 id: 22396
 item_type: Still Image

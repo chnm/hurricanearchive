@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1370Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f59d7e8f14fb29f59d8275.jpg
     url: /files/original/14fb29f59d7e8f14fb29f59d8275.jpg
+    alt:
+      en: "Floodwater submerges a row of houses up to their rooflines, with shingles peeling off; a camera lens is visible in the foreground under an overcast sky."
 geo:
 id: 22529
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 330-J2.jpg
     thumb: /files/thumbnails/14fb29fa35ad2f14fb29fa35b115.jpg
     url: /files/original/14fb29fa35ad2f14fb29fa35b115.jpg
+    alt:
+      en: "Tree-lined street with a stop sign and blue street sign, scattered storm debris and fallen branches along the sidewalk and curb, with historic buildings visible in the background."
 geo:
 id: 21999
 item_type: Still Image

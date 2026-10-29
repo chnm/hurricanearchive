@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1526superdome.JPG
     thumb: /files/thumbnails/14fb29e301255614fb29e301293b.jpg
     url: /files/original/14fb29e301255614fb29e301293b.jpg
+    alt:
+      en: "Two military helicopters, one marked with a red cross, sit on an elevated parking lot near a highway overpass, with a large plume of dark smoke rising in the background."
 geo:
 id: 25004
 item_type: Still Image

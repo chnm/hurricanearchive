@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032media.JPG
     thumb: /files/thumbnails/14fb29f2a9439914fb29f2a9477e.jpg
     url: /files/original/14fb29f2a9439914fb29f2a9477e.jpg
+    alt:
+      en: "A person wearing headphones films with a professional video camera from an aircraft, capturing an aerial view of a wide river, industrial waterfront, and hazy flat landscape below."
 geo:
 id: 22929
 item_type: Still Image

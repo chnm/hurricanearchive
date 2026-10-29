@@ -21,6 +21,8 @@ files:
     original_filename: aerials23.jpg
     thumb: /files/thumbnails/14fb2a19daf47a14fb2a19daf81f.jpg
     url: /files/original/14fb2a19daf47a14fb2a19daf81f.jpg
+    alt:
+      en: "Aerial view of a storm-damaged building with a partially intact metal roof, surrounded by scattered debris, cleared lots, and empty streets."
 geo:
 id: 14312
 item_type: Still Image

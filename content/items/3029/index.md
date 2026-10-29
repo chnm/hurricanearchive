@@ -21,6 +21,8 @@ files:
     original_filename: 100_0278.JPG
     thumb: /files/thumbnails/14fb2a5e9e861914fb2a5e9e8a01.jpg
     url: /files/original/14fb2a5e9e861914fb2a5e9e8a01.jpg
+    alt:
+      en: "Bow view of a gray U.S. Navy battleship marked \"60,\" moored dockside with gun turrets and a tall mast structure visible against a clear blue sky."
 geo:
 id: 3029
 item_type: Still Image

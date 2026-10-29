@@ -21,6 +21,8 @@ files:
     original_filename: Picture 037engineers.jpg
     thumb: /files/thumbnails/14fb2a0fcdfd6b14fb2a0fce015d.jpg
     url: /files/original/14fb2a0fcdfd6b14fb2a0fce015d.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community near Venice, LA, with buildings, trailers, and debris submerged in brown floodwater amid dead trees and a wide river in the background."
 geo:
 id: 19477
 item_type: Still Image

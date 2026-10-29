@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28511.jpg
     thumb: /files/thumbnails/14fb2a6ad7005b14fb2a6ad7043f.jpg
     url: /files/original/14fb2a6ad7005b14fb2a6ad7043f.jpg
+    alt:
+      en: "A man wearing a face mask, cap, and gloves stands on debris while removing a sheet of plastic from a wall heavily stained with black mold damage."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: katrina 047.jpg
     thumb: /files/thumbnails/14fb29fbc8bba514fb29fbc8bf91.jpg
     url: /files/original/14fb29fbc8bba514fb29fbc8bf91.jpg
+    alt:
+      en: "Four men in military camouflage uniforms pose at night around the open cargo door of a helicopter marked \"4ID,\" with a timestamp reading \"5 9:45 PM\" in the corner."
 geo:
 id: 21777
 item_type: Still Image

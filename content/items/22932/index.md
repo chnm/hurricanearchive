@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036media.JPG
     thumb: /files/thumbnails/14fb29f2a59a5514fb29f2a59e3a.jpg
     url: /files/original/14fb29f2a59a5514fb29f2a59e3a.jpg
+    alt:
+      en: "Aerial view from a helicopter of a devastated neighborhood with flattened and debris-covered lots amid scattered surviving houses and trees, with a person wearing a helmet and holding a video camera in the foreground."
 geo:
 id: 22932
 item_type: Still Image

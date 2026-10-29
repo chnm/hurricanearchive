@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0773.JPG
     thumb: /files/thumbnails/14fb2a56fa048e14fb2a56fa086c.jpg
     url: /files/original/14fb2a56fa048e14fb2a56fa086c.jpg
+    alt:
+      en: "A gray pickup truck parked in a debris-strewn parking lot, with snapped and stripped trees and a damaged building visible amid storm wreckage under an overcast sky."
 geo:
 id: 4571
 item_type: Still Image

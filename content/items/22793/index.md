@@ -21,6 +21,8 @@ files:
     original_filename: SGT truck2 at Jackson BrksJacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3d6525b14fb29f3d65581.jpg
     url: /files/original/14fb29f3d6525b14fb29f3d65581.jpg
+    alt:
+      en: "A dirt-covered Ford pickup truck with a shattered, debris-filled windshield sits parked, with military Humvees and a person in camouflage fatigues visible nearby."
 geo:
 id: 22793
 item_type: Still Image

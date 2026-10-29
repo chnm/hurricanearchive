@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1012Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f92080fc14fb29f92084e2.jpg
     url: /files/original/14fb29f92080fc14fb29f92084e2.jpg
+    alt:
+      en: "Soldiers in camouflage carrying bags and gear board a U.S. Army helicopter on a landing pad, with parked cars and trees in the background."
 geo:
 id: 22205
 item_type: Still Image

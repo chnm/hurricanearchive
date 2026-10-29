@@ -26,6 +26,8 @@ files:
     original_filename: Rita_028_e9b1f3a774.jpg
     thumb: /files/thumbnails/14fb2a6f5a343114fb2a6f5a3825.jpg
     url: /files/original/14fb2a6f5a343114fb2a6f5a3825.jpg
+    alt:
+      en: "Damaged Chevron gas station canopy collapsed at an angle over the pumps, with a low white building and store signage visible in the background under a cloudy sky."
 geo:
   address: ''
   lat: 30.69986

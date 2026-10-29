@@ -26,6 +26,8 @@ files:
     original_filename: outoftown_9fdade8d31.jpg
     thumb: /files/thumbnails/14fb2a714cdd7114fb2a714cf21c.jpg
     url: /files/original/14fb2a714cdd7114fb2a714cf21c.jpg
+    alt:
+      en: "A long line of stopped cars and people standing along a tree-lined two-lane road, with a boy in a basketball jersey walking nearby during a highway evacuation."
 geo:
   address: ''
   lat: 30.305614044788705

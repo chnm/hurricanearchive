@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28623.jpg
     thumb: /files/thumbnails/14fb2a697adb6414fb2a697adf49.jpg
     url: /files/original/14fb2a697adb6414fb2a697adf49.jpg
+    alt:
+      en: "Three men stand on a grassy roadside holding a blue circular \"Hurricane Evacuation Route\" sign with an upward arrow, trees and buildings visible in the background."
 geo:
   address: ''
   lat: 0.0

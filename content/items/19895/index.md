@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0132gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cd6b70414fb2a0cd6bae8.jpg
     url: /files/original/14fb2a0cd6b70414fb2a0cd6bae8.jpg
+    alt:
+      en: "Two men in camouflage military uniforms examine a large map labeled \"NEW ORLEANS & VICINITY,\" marked with \"G2\" and pink tabs, as one points to a location on it."
 geo:
 id: 19895
 item_type: Still Image

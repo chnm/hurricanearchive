@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7680.JPG
     thumb: /files/thumbnails/14fb29cc835e6414fb29cc836260.jpg
     url: /files/original/14fb29cc835e6414fb29cc836260.jpg
+    alt:
+      en: "A yellow Komatsu PC200LC excavator with a grapple attachment sits amid fallen trees and debris in a wooded yard, with a wooden deck railing visible in the foreground."
 geo:
 id: 30779
 item_type: Still Image

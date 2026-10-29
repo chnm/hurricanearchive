@@ -21,6 +21,8 @@ files:
     original_filename: katrina 008.jpg
     thumb: /files/thumbnails/14fb29fc07b9d614fb29fc07bdbb.jpg
     url: /files/original/14fb29fc07b9d614fb29fc07bdbb.jpg
+    alt:
+      en: "Aerial view from a bridge overlooking an industrial waterfront with warehouses, docked boats, and cranes, with a hazy city skyline and a distant bridge visible in the background."
 geo:
 id: 21740
 item_type: Still Image

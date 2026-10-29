@@ -20,6 +20,8 @@ files:
     original_filename: 114539923_bc7895a534.jpg
     thumb: /files/thumbnails/14fb29d1b4140014fb29d1b417e3.jpg
     url: /files/original/14fb29d1b4140014fb29d1b417e3.jpg
+    alt:
+      en: "A brick house with a plywood-covered garage door spray-painted with \"SEE U SOON\" in white letters, address numbers 7821 mounted beside an arched window."
 geo:
 id: 28695
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0997.JPG
     thumb: /files/thumbnails/14fb2a57eab9fe14fb2a57eabde3.jpg
     url: /files/original/14fb2a57eab9fe14fb2a57eabde3.jpg
+    alt:
+      en: "A dead pelican hangs entangled on a chain-link fence topped with barbed wire, surrounded by storm debris and litter scattered across a grassy field."
 geo:
 id: 4090
 item_type: Still Image

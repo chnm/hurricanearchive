@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0186abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eecd18c714fb29eecd218e.jpg
     url: /files/original/14fb29eecd18c714fb29eecd218e.jpg
+    alt:
+      en: "Two men stand near floodwater surrounded by debris and bare trees, one in a green shirt and overalls, the other in a striped polo shirt, both wearing caps and looking off into the distance."
 geo:
 id: 23564
 item_type: Still Image

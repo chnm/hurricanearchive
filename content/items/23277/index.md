@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29f027385114fb29f0273c36.jpg
     url: /files/original/14fb29f027385114fb29f0273c36.jpg
+    alt:
+      en: "Sideways photo of storm-damaged debris and a bent \"Speed Limit 25\" sign along a roadway, with a water tower reading \"Cameron\" standing in the background under a clear sky."
 geo:
 id: 23277
 item_type: Still Image

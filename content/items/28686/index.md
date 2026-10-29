@@ -20,6 +20,8 @@ files:
     original_filename: 150724276_755fdd5669.
     thumb: /files/thumbnails/14fb29d1be311814fb29d1be34fe.jpg
     url: /files/original/14fb29d1be311814fb29d1be34fe.jpg
+    alt:
+      en: "Laminated ID badge reading \"Cajun Dome LOCAL VOLUNTEER\" with a photo of a person wearing glasses and a plaid shirt, labeled \"Adam Melancon\" at the bottom."
 geo:
 id: 28686
 item_type: Still Image

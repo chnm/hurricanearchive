@@ -24,6 +24,8 @@ files:
     original_filename: P1010022.JPG
     thumb: /files/thumbnails/14fb2a5ba726c814fb2a5ba72aae.jpg
     url: /files/original/14fb2a5ba726c814fb2a5ba72aae.jpg
+    alt:
+      en: "A tall concrete floodwall runs alongside the 17th St. Canal, with damaged homes, debris, and bare trees visible on the opposite bank under a hazy sky."
 geo:
 id: 3454
 item_type: Still Image

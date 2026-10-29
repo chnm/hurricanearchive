@@ -21,6 +21,8 @@ files:
     original_filename: Picture 215cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b35044214fb2a0b350827.jpg
     url: /files/original/14fb2a0b35044214fb2a0b350827.jpg
+    alt:
+      en: "Residential yard with scattered storm debris and leaf piles on the grass and driveway, a bare-branched tree in the foreground, a house partially visible at left, and a short white pipe sticking up from the lawn."
 geo:
 id: 20118
 item_type: Still Image

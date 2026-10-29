@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 055.jpg
     thumb: /files/thumbnails/14fb2a22af28cb14fb2a22af2cae.jpg
     url: /files/original/14fb2a22af28cb14fb2a22af2cae.jpg
+    alt:
+      en: "Storm-damaged two-story motel building with stripped roofing and shredded palm trees, debris scattered across the lawn and parking lot; timestamp reads 2005/09/24."
 geo:
 id: 11933
 item_type: Still Image

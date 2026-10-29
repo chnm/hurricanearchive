@@ -21,6 +21,8 @@ files:
     original_filename: 20050927036.JPG
     thumb: /files/thumbnails/14fb2a1c2128a414fb2a1c212c88.jpg
     url: /files/original/14fb2a1c2128a414fb2a1c212c88.jpg
+    alt:
+      en: "Wall-mounted map titled \"Thoroughfare Roads, Calcasieu Parish, Louisiana,\" with a speed limit color-coded legend, hung above a whiteboard displaying handwritten notes reading \"Chair Challenge Form\" and \"Need Music Form.\""
 geo:
   address: ''
   lat: 0.0

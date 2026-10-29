@@ -21,6 +21,8 @@ files:
     original_filename: LTC Mouton briefing the mediamedia.jpg
     thumb: /files/thumbnails/14fb29f2604ef014fb29f26052d4.jpg
     url: /files/original/14fb29f2604ef014fb29f26052d4.jpg
+    alt:
+      en: "A soldier in camouflage with a \"Mountain\" patch and American flag insignia stands in profile foreground, while a man in a black polo shirt writes on a notepad in the blurred background near a staircase."
 geo:
 id: 22970
 item_type: Still Image

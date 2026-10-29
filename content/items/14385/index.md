@@ -21,6 +21,8 @@ files:
     original_filename: aerials94.jpg
     thumb: /files/thumbnails/14fb2a196be2b614fb2a196be906.jpg
     url: /files/original/14fb2a196be2b614fb2a196be906.jpg
+    alt:
+      en: "Aerial view of a wooded residential area with scattered houses, many trees stripped of leaves or snapped, and a road winding through the damaged landscape."
 geo:
 id: 14385
 item_type: Still Image

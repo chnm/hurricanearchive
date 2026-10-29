@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1374Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5959b9314fb29f5959f78.jpg
     url: /files/original/14fb29f5959b9314fb29f5959f78.jpg
+    alt:
+      en: "Floodwaters submerge a street and yard up to the windows of a house, with a boat washed against the porch, under a stormy sky with downed power lines and wind-battered trees."
 geo:
 id: 22533
 item_type: Still Image

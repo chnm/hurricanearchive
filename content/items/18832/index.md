@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054westend.JPG
     thumb: /files/thumbnails/14fb2a1502943f14fb2a1502987e.jpg
     url: /files/original/14fb2a1502943f14fb2a1502987e.jpg
+    alt:
+      en: "Aerial view of a marina with numerous sailboats and motorboats docked along finger piers, covered boat slips and a boat repair building visible along the shoreline."
 geo:
 id: 18832
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29f026abba14fb29f026afa9.jpg
     url: /files/original/14fb29f026abba14fb29f026afa9.jpg
+    alt:
+      en: "Aerial view of a narrow, winding strip of marshland and barrier islands surrounded by vast expanses of calm blue water, with a small cluster of structures visible along the land."
 geo:
 id: 23278
 item_type: Still Image

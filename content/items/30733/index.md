@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7430.JPG
     thumb: /files/thumbnails/14fb29cca5299014fb29cca53174.jpg
     url: /files/original/14fb29cca5299014fb29cca53174.jpg
+    alt:
+      en: "A tan minivan's rear end is nearly obscured by a large fallen tree branch covered in green leaves, with a Louisiana license plate reading \"VX 583\" visible through the foliage."
 geo:
 id: 30733
 item_type: Still Image

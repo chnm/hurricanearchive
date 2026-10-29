@@ -25,6 +25,8 @@ files:
     original_filename: 158090074_598a8dd81f.jpg
     thumb: /files/thumbnails/14fb29d1e2fbf014fb29d1e30e29.jpg
     url: /files/original/14fb29d1e2fbf014fb29d1e30e29.jpg
+    alt:
+      en: "Abandoned single-story brick and white-sided building with boarded windows, a damaged roof, and spray-painted text on the walls, surrounded by overgrown weeds and debris."
 geo:
 id: 28661
 item_type: Still Image

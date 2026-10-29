@@ -21,6 +21,8 @@ files:
     original_filename: 20050926025.JPG
     thumb: /files/thumbnails/14fb29e91c1fe314fb29e91c239b.jpg
     url: /files/original/14fb29e91c1fe314fb29e91c239b.jpg
+    alt:
+      en: "A soldier in desert camouflage uniform and cap labeled \"WEST\" looks out over a flooded roadway lined with utility poles and bare trees, viewed from a military vehicle with a blue flag."
 geo:
 id: 24273
 item_type: Still Image

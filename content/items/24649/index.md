@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044medics.JPG
     thumb: /files/thumbnails/14fb29e5d2724314fb29e5d27621.jpg
     url: /files/original/14fb29e5d2724314fb29e5d27621.jpg
+    alt:
+      en: "A soldier in camouflage fatigues administers an injection into the arm of another man wearing a brown t-shirt, who winces with eyes closed, inside a room with a map on the wall."
 geo:
 id: 24649
 item_type: Still Image

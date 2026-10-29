@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0051M.JPG
     thumb: /files/thumbnails/14fb2a05608e9714fb2a0560927d.jpg
     url: /files/original/14fb2a05608e9714fb2a0560927d.jpg
+    alt:
+      en: "Blurry photo taken through a dark diagonal structural beam, showing a hazy cityscape with low buildings, a railing, and a tall thin spire in the distance under a pale blue sky."
 geo:
 id: 20659
 item_type: Still Image

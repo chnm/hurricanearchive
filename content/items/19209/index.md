@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 119.jpg
     thumb: /files/thumbnails/14fb2a11cbcaf314fb2a11cbcee3.jpg
     url: /files/original/14fb2a11cbcaf314fb2a11cbcee3.jpg
+    alt:
+      en: "A large empty parking lot with a lone figure standing near a drifting cloud of yellow smoke, with trees, a damaged two-story building, and entrance gates visible in the background."
 geo:
 id: 19209
 item_type: Still Image

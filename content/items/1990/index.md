@@ -26,6 +26,8 @@ files:
     original_filename: cameron_parish200_97519a27e9.jpg
     thumb: /files/thumbnails/14fb2a6ded742714fb2a6ded780d.jpg
     url: /files/original/14fb2a6ded742714fb2a6ded780d.jpg
+    alt:
+      en: "Aerial view of a water tower labeled \"CAM\" standing amid widespread flooding and debris, with a damaged building visible in the background, surrounded by floodwater covering the land."
 geo:
   address: ''
   lat: 29.791099

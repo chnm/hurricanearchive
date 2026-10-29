@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7463.JPG
     thumb: /files/thumbnails/14fb29cc99411914fb29cc9944f6.jpg
     url: /files/original/14fb29cc99411914fb29cc9944f6.jpg
+    alt:
+      en: "Close-up, blurred photo of a tortoiseshell cat with black and brown fur, resting inside a cardboard box lined with a patterned fabric and wearing a pink collar."
 geo:
 id: 30750
 item_type: Still Image

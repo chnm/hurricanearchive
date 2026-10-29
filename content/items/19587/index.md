@@ -21,6 +21,8 @@ files:
     original_filename: S4300041zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0eee839314fb2a0eee8779.jpg
     url: /files/original/14fb2a0eee839314fb2a0eee8779.jpg
+    alt:
+      en: "Rows of identical dome tents set up in a large paved lot, with trailers, power lines, and trees in the background, and orange and yellow cables running across the foreground."
 geo:
 id: 19587
 item_type: Still Image

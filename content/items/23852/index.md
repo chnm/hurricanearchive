@@ -21,6 +21,8 @@ files:
     original_filename: S4300191stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecd02f0314fb29ecd032e0.jpg
     url: /files/original/14fb29ecd02f0314fb29ecd032e0.jpg
+    alt:
+      en: "Overturned vehicle resting on its roof, exposing the undercarriage with exhaust system, driveshaft, and suspension components; a rusted fire hydrant and propane tank sit nearby on muddy ground."
 geo:
 id: 23852
 item_type: Still Image

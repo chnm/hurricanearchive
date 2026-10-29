@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0127-9-25.JPG
     thumb: /files/thumbnails/14fb29e61b342214fb29e61b3805.jpg
     url: /files/original/14fb29e61b342214fb29e61b3805.jpg
+    alt:
+      en: "Aerial view of a flooded school or office complex with flat-roofed buildings surrounded by floodwater, submerged trees, debris, and partially visible vehicles in the distance."
 geo:
 id: 24616
 item_type: Still Image

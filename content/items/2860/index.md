@@ -21,6 +21,8 @@ files:
     original_filename: MVC-017S.JPG
     thumb: /files/thumbnails/14fb2a5fd0ea3414fb2a5fd0ee25.jpg
     url: /files/original/14fb2a5fd0ea3414fb2a5fd0ee25.jpg
+    alt:
+      en: "Museum display case labeled \"Navy League\" with model ships, photographs, a folded American flag, and informational placards; an adjacent case reads \"Still Serving.\""
 geo:
 id: 2860
 item_type: Still Image

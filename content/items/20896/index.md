@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0142-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a021dea3b14fb2a021dee18.jpg
     url: /files/original/14fb2a021dea3b14fb2a021dee18.jpg
+    alt:
+      en: "Aerial view of flooded land with debris-strewn standing water, bare storm-damaged trees, downed power lines, and a building reduced to a foundation slab amid scattered wreckage."
 geo:
 id: 20896
 item_type: Still Image

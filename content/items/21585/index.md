@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0321-16.JPG
     thumb: /files/thumbnails/14fb29fd648e8714fb29fd64956f.jpg
     url: /files/original/14fb29fd648e8714fb29fd64956f.jpg
+    alt:
+      en: "A street covered in ash or silt with winding dried mud patterns, a \"SPEED LIMIT 25\" sign bent at its base, scattered debris, and vehicles parked along the roadside in dim light."
 geo:
 id: 21585
 item_type: Still Image

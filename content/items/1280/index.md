@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27946.jpg
     thumb: /files/thumbnails/14fb2a69da9aa114fb2a69da9e87.jpg
     url: /files/original/14fb2a69da9aa114fb2a69da9e87.jpg
+    alt:
+      en: "A \"Limit 10 min Parking, Violators Will Be Towed At Owners Expense\" sign stands on a yellow post outside a glass-fronted building with concrete columns and a tiled plaza littered with debris."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Aerial imager 2.JPG
     thumb: /files/thumbnails/14fb2a1be1400914fb2a1be143f0.jpg
     url: /files/original/14fb2a1be1400914fb2a1be143f0.jpg
+    alt:
+      en: "Aerial satellite map printout laid on pavement, with a person's arm and hand pointing to a location on the map while others stand nearby wearing boots and a cap."
 geo:
   address: ''
   lat: 0.0

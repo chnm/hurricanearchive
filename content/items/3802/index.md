@@ -21,6 +21,8 @@ files:
     original_filename: 100_0081.JPG
     thumb: /files/thumbnails/14fb2a597c1bc714fb2a597c1fa3.jpg
     url: /files/original/14fb2a597c1bc714fb2a597c1fa3.jpg
+    alt:
+      en: "A small green boat rests on a debris-strewn roadside near a leaning \"Maritime Museum\" street sign, with storm-damaged trees, power lines, and houses visible along a mud-covered street."
 geo:
 id: 3802
 item_type: Still Image

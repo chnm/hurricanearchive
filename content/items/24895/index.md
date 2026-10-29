@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0970superdome.JPG
     thumb: /files/thumbnails/14fb29e4022bb014fb29e4022f95.jpg
     url: /files/original/14fb29e4022bb014fb29e4022f95.jpg
+    alt:
+      en: "Three U.S. Army soldiers in camouflage uniforms stand at parade rest in front of a military truck marked \"A24,\" with name tapes reading Robinson, Chelette, and Hebert visible on their uniforms."
 geo:
 id: 24895
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010014delaware.JPG
     thumb: /files/thumbnails/14fb29f0f2566014fb29f0f25a45.jpg
     url: /files/original/14fb29f0f2566014fb29f0f25a45.jpg
+    alt:
+      en: "A military Humvee backs up to the open rear cargo ramp of a C-130 aircraft on a tarmac, with several uniformed personnel standing nearby and a pickup truck visible in the background."
 geo:
 id: 23194
 item_type: Still Image

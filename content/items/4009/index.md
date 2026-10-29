@@ -21,6 +21,8 @@ files:
     original_filename: DSC01110.JPG
     thumb: /files/thumbnails/14fb2a5889eee614fb2a5889f2a3.jpg
     url: /files/original/14fb2a5889eee614fb2a5889f2a3.jpg
+    alt:
+      en: "Floodwater submerges a residential street up to rooftops, with a tiled roof and partial building visible above the waterline and debris, including an overturned boat, floating near bare trees."
 geo:
 id: 4009
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials72.jpg
     thumb: /files/thumbnails/14fb2a19951dd314fb2a19951ff3.jpg
     url: /files/original/14fb2a19951dd314fb2a19951ff3.jpg
+    alt:
+      en: "Aerial view of a damaged drawbridge over water, with twisted metal support beams exposed beneath the roadway and a small control tower on the adjacent dock."
 geo:
 id: 14363
 item_type: Still Image

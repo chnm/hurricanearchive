@@ -21,6 +21,8 @@ files:
     original_filename: PICT0864Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f44c606a14fb29f44c6472.jpg
     url: /files/original/14fb29f44c606a14fb29f44c6472.jpg
+    alt:
+      en: "Damaged storage building with a collapsed wall and debris scattered in front, set in a muddy, flood-damaged field with a cracked dried mud surface in the foreground, dated 09.15.2005."
 geo:
 id: 22742
 item_type: Still Image

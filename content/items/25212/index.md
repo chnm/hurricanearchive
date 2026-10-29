@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1911superdome.JPG
     thumb: /files/thumbnails/14fb29e0d6b24314fb29e0d6ba08.jpg
     url: /files/original/14fb29e0d6b24314fb29e0d6ba08.jpg
+    alt:
+      en: "Military helicopter marked with a red cross and \"2431\" sits in a parking lot as armed soldiers hurry past, with crowds of evacuees gathered on an upper deck near the Superdome."
 geo:
 id: 25212
 item_type: Still Image

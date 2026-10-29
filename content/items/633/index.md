@@ -26,6 +26,8 @@ files:
     original_filename: Katrina_Aliens_2006_46bee079ea.jpg
     thumb: /files/thumbnails/14fb2a6f519d8b14fb2a6f51a171.jpg
     url: /files/original/14fb2a6f519d8b14fb2a6f51a171.jpg
+    alt:
+      en: "Workers in protective suits, respirators, and hard hats hold an orange flag near a \"SLOW\" sign on a debris-strewn street, with more workers and damaged homes in the background."
 geo:
   address: ''
   lat: 30.342352

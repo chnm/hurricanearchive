@@ -21,6 +21,8 @@ files:
     original_filename: twin span BH view 1.jpg
     thumb: /files/thumbnails/14fb29dd9bd5bc14fb29dd9bd9a0.jpg
     url: /files/original/14fb29dd9bd5bc14fb29dd9bd9a0.jpg
+    alt:
+      en: "Silhouette of a helmeted crew member looking out an open helicopter door at floating cranes working on a bridge span over water below."
 geo:
 id: 25447
 item_type: Still Image

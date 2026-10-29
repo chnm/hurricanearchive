@@ -26,6 +26,8 @@ files:
     original_filename: Rita_2190_91584660a2.jpg
     thumb: /files/thumbnails/14fb2a6fb7e7e014fb2a6fb7ebc6.jpg
     url: /files/original/14fb2a6fb7e7e014fb2a6fb7ebc6.jpg
+    alt:
+      en: "Black-and-white photo of a single-story manufactured home surrounded by floodwater, with a small boat and a parked car on higher ground in the foreground; license plate reads \"WESTBANK.\""
 geo:
   address: ''
   lat: 29.391747742992802

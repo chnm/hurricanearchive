@@ -20,6 +20,8 @@ files:
     original_filename: 2456723145_e17c1bdda2.
     thumb: /files/thumbnails/14fb29c89300b314fb29c893049c.jpg
     url: /files/original/14fb29c89300b314fb29c893049c.jpg
+    alt:
+      en: "A tiled waterfront promenade lined with ornate black lampposts, a fire hydrant, and a cart, leading to a marina filled with docked boats and sailboat masts under a partly cloudy sky."
 geo:
 id: 34904
 item_type: Still Image

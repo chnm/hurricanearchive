@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0281engineers.JPG
     thumb: /files/thumbnails/14fb2a100a29a414fb2a100a2d8a.jpg
     url: /files/original/14fb2a100a29a414fb2a100a2d8a.jpg
+    alt:
+      en: "A mud-covered residential street at dusk with a backhoe driving down the middle, a fire hydrant caked in silt, parked cars, and storm-damaged houses lining both sides."
 geo:
 id: 19434
 item_type: Still Image

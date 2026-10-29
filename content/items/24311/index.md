@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-04-2A.jpg
     thumb: /files/thumbnails/14fb29e8c6592014fb29e8c65d0b.jpg
     url: /files/original/14fb29e8c6592014fb29e8c65d0b.jpg
+    alt:
+      en: "Aerial view from an airplane window of a sprawling suburban landscape with scattered neighborhoods, trees, warehouses, and a highway running diagonally through green fields under a hazy sky."
 geo:
 id: 24311
 item_type: Still Image

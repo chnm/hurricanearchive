@@ -21,6 +21,8 @@ files:
     original_filename: JFHQ LA entranceJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4ed678014fb29f4ed6b66.jpg
     url: /files/original/14fb29f4ed678014fb29f4ed6b66.jpg
+    alt:
+      en: "Floodwater rises over brick steps and a metal handrail at a columned entrance, with debris floating on the surface."
 geo:
 id: 22634
 item_type: Still Image

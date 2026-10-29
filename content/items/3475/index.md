@@ -24,6 +24,8 @@ files:
     original_filename: P1010046.JPG
     thumb: /files/thumbnails/14fb2a5b93e7f514fb2a5b93ebde.jpg
     url: /files/original/14fb2a5b93e7f514fb2a5b93ebde.jpg
+    alt:
+      en: "Debris-strewn street lined with bare and damaged trees, a damaged house in the background, cardboard boxes and branches scattered on the roadside, and signs reading \"Got Water\" and \"We Buy Damaged Properties.\""
 geo:
 id: 3475
 item_type: Still Image

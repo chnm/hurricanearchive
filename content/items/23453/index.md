@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0112abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef60de8c14fb29ef60e275.jpg
     url: /files/original/14fb29ef60de8c14fb29ef60e275.jpg
+    alt:
+      en: "Military cargo truck marked \"B 100\" leads a line of civilian trucks along a muddy, flood-damaged road, with standing water covering the surrounding fields on both sides."
 geo:
 id: 23453
 item_type: Still Image

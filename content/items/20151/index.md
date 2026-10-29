@@ -21,6 +21,8 @@ files:
     original_filename: Picture 248cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b0a001714fb2a0b0a03fd.jpg
     url: /files/original/14fb2a0b0a001714fb2a0b0a03fd.jpg
+    alt:
+      en: "A yellow CAT excavator sits on grass beside a roadside pile of debris, including wood scraps and white boxes, with a highway and railroad tracks visible in the background."
 geo:
 id: 20151
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 1260570161_ab564fe090.jpg
     thumb: /files/thumbnails/14fb29cb72e41914fb29cb72eaa1.jpg
     url: /files/original/14fb29cb72e41914fb29cb72eaa1.jpg
+    alt:
+      en: "A small blue and white motorboat sits abandoned in overgrown grass beside a road, with a weathered blue house featuring a striped awning and a utility pole visible in the background."
 geo:
 id: 33225
 item_type: Still Image

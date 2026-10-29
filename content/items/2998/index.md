@@ -21,6 +21,8 @@ files:
     original_filename: 100_0247.JPG
     thumb: /files/thumbnails/14fb2a5f1e993414fb2a5f1e9d6f.jpg
     url: /files/original/14fb2a5f1e993414fb2a5f1e9d6f.jpg
+    alt:
+      en: "Narrow metal corridor aboard a ship or submarine, lined with riveted bulkheads, overhead pipes, hanging lamps, and a round hatchway at the far end."
 geo:
 id: 2998
 item_type: Still Image

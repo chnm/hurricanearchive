@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049-9-25.JPG
     thumb: /files/thumbnails/14fb2a0570956c14fb2a05709952.jpg
     url: /files/original/14fb2a0570956c14fb2a05709952.jpg
+    alt:
+      en: "Aerial view of murky floodwater covering land, with scattered clumps of partially submerged vegetation visible near the surface."
 geo:
 id: 20650
 item_type: Still Image

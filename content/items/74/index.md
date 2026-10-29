@@ -26,6 +26,8 @@ files:
     original_filename: 100_5705_12ddb8acca.JPG
     thumb: /files/thumbnails/14fb2a7121fd6714fb2a71220149.jpg
     url: /files/original/14fb2a7121fd6714fb2a71220149.jpg
+    alt:
+      en: "Two plywood boards covering a storefront window, hand-lettered in black marker: one reads \"9/4/05 Still here woman left Fri. cooking a pot of dog gumbo,\" the other \"Welcome back y'all 9/24 Grin and bear it.\""
 geo:
   address: ''
   lat: 30.005653

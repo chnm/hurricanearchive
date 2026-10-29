@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0287-9-25.JPG
     thumb: /files/thumbnails/14fb29fdb4e53814fb29fdb4eac6.jpg
     url: /files/original/14fb29fdb4e53814fb29fdb4eac6.jpg
+    alt:
+      en: "Aerial view of a flooded rural landscape with submerged homes and fields, a tall smokestack and dense tree line in the foreground, and farmland stretching toward a hazy horizon."
 geo:
 id: 21539
 item_type: Still Image

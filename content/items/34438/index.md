@@ -23,6 +23,8 @@ files:
     original_filename: 2326890838_00e5e0d837.
     thumb: /files/thumbnails/14fb29ca09cfb114fb29ca09d38e.jpg
     url: /files/original/14fb29ca09cfb114fb29ca09d38e.jpg
+    alt:
+      en: "Fallen trees and tangled branches lean over power lines along a roadside, photographed from inside a vehicle with its side mirror visible in the foreground."
 geo:
   address: ''
   lat: 30.22586

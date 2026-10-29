@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8549.jpg
     thumb: /files/thumbnails/14fb2a660d606d14fb2a660d6450.jpg
     url: /files/original/14fb2a660d606d14fb2a660d6450.jpg
+    alt:
+      en: "Two women embrace while surveying a collapsed house reduced to piles of splintered wood and twisted metal roofing, as a man in a yellow shirt searches through debris nearby."
 geo:
 id: 2478
 item_type: Still Image

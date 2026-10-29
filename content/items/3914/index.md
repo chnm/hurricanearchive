@@ -21,6 +21,8 @@ files:
     original_filename: 100_0211.JPG
     thumb: /files/thumbnails/14fb2a58edf28514fb2a58edf66b.jpg
     url: /files/original/14fb2a58edf28514fb2a58edf66b.jpg
+    alt:
+      en: "A twin-rotor military helicopter hovers over a coastal work site, with a second helicopter visible in the distance; rows of large white sandbags and a concrete barrier line the foreground."
 geo:
 id: 3914
 item_type: Still Image

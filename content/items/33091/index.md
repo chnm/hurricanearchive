@@ -17,6 +17,8 @@ files:
     original_filename: V_45e5d89daa.jpg
     thumb: /files/thumbnails/14fb29cbee119914fb29cbee1578.jpg
     url: /files/original/14fb29cbee119914fb29cbee1578.jpg
+    alt:
+      en: "A blue wood-sided house with storm-damaged roof and torn siding exposing exterior wall framing, debris scattered across the grassy yard, with a mobile home visible in the background."
 geo:
   address: ''
   lat: 30.38422

@@ -18,6 +18,8 @@ files:
     original_filename: 36_22231bdc21.jpg
     thumb: /files/thumbnails/14fb29c6d8009a14fb29c6d8033e.jpg
     url: /files/original/14fb29c6d8009a14fb29c6d8033e.jpg
+    alt:
+      en: "A person in a sparkly silver outfit bends down near a bottle, with a Christmas tree, a lit mirror vanity, and another figure in the background against a pink-lit room."
 geo:
   address: new orleans, la
   lat: 29.95324

@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8676.jpg
     thumb: /files/thumbnails/14fb2a65c8543f14fb2a65c85825.jpg
     url: /files/original/14fb2a65c8543f14fb2a65c85825.jpg
+    alt:
+      en: "A large jumbled pile of discarded school chairs, mostly yellow plastic with metal legs, stacked haphazardly outdoors under a partly cloudy sky."
 geo:
 id: 2517
 item_type: Still Image

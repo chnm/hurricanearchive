@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0128.JPG
     thumb: /files/thumbnails/14fb2a0ac7bdb014fb2a0ac7c194.jpg
     url: /files/original/14fb2a0ac7bdb014fb2a0ac7c194.jpg
+    alt:
+      en: "Several flood-damaged, mud-covered vehicles sit abandoned in standing floodwater amid scattered debris, with a leveed roadway and industrial structures visible in the background."
 geo:
 id: 20200
 item_type: Still Image

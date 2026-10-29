@@ -24,6 +24,8 @@ files:
     original_filename: P1010049.JPG
     thumb: /files/thumbnails/14fb2a5b93401314fb2a5b9343ee.jpg
     url: /files/original/14fb2a5b93401314fb2a5b9343ee.jpg
+    alt:
+      en: "Flood-damaged brick house at 1416 with a search-and-rescue marking \"9-16 CAG\" spray-painted on the front window; the porch holds mismatched chairs, an American flag, and debris-covered ground."
 geo:
 id: 3476
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0354.JPG
     thumb: /files/thumbnails/14fb2a546e540114fb2a546e57e6.jpg
     url: /files/original/14fb2a546e540114fb2a546e57e6.jpg
+    alt:
+      en: "A storm-damaged yard with a large tree still standing amid scattered debris, collapsed structures, and twisted metal roofing in the background."
 geo:
 id: 5009
 item_type: Still Image

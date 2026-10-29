@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (14).JPG
     thumb: /files/thumbnails/14fb2a5e0e349a14fb2a5e0e3880.jpg
     url: /files/original/14fb2a5e0e349a14fb2a5e0e3880.jpg
+    alt:
+      en: "Interior of a military vehicle's cargo area, with a white bucket, water bottle, storage crates, and bagged water supplies visible, viewed toward the front dashboard and steering wheel."
 geo:
 id: 3095
 item_type: Still Image

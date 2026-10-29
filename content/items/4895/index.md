@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0214.JPG
     thumb: /files/thumbnails/14fb2a55097ef214fb2a550982d7.jpg
     url: /files/original/14fb2a55097ef214fb2a550982d7.jpg
+    alt:
+      en: "A cracked concrete slab leads toward a pile of storm debris, including household appliances, scattered wood, and damaged trees, with a mound of sand or dirt on the right."
 geo:
 id: 4895
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300131Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f412f3d214fb29f4130126.jpg
     url: /files/original/14fb29f412f3d214fb29f4130126.jpg
+    alt:
+      en: "Brick warehouse building with a roll-up garage door, surrounded by a gravel lot containing a maroon minivan, a blue sedan, a military truck, and a water tank trailer."
 geo:
 id: 22775
 item_type: Still Image

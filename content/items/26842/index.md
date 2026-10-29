@@ -21,6 +21,8 @@ files:
     original_filename: goofing around_6a714846d3.jpg
     thumb: /files/thumbnails/14fb29d77e92e014fb29d77e96c6.jpg
     url: /files/original/14fb29d77e92e014fb29d77e96c6.jpg
+    alt:
+      en: "Black-and-white yearbook photo of four young men and women posed playfully in a classroom, one shirtless, one in a straw hat and vest, and two seated at a desk, with a chalkboard behind them."
 geo:
 id: 26842
 item_type: Still Image

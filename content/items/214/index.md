@@ -26,6 +26,8 @@ files:
     original_filename: e893_c9df8126e9.jpg
     thumb: /files/thumbnails/14fb2a7080dc9e14fb2a7080e084.jpg
     url: /files/original/14fb2a7080dc9e14fb2a7080e084.jpg
+    alt:
+      en: "A dark-colored car rests on the roof of a brick house, deposited there by storm floodwaters, with a wooden fence and basketball hoop visible in the yard below."
 geo:
   address: ''
   lat: 29.984643

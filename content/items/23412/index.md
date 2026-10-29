@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0093stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ef8cce7f14fb29ef8cd264.jpg
     url: /files/original/14fb29ef8cce7f14fb29ef8cd264.jpg
+    alt:
+      en: "Chain-link fence surrounds storm-damaged property with dead, rust-colored foliage, scattered debris, and an abandoned vehicle; a blue metal building and water tower stand in the background under a clear sky."
 geo:
 id: 23412
 item_type: Still Image

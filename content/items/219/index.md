@@ -26,6 +26,8 @@ files:
     original_filename: Galleria_Destruction_2c8e0f44dd.jpg
     thumb: /files/thumbnails/14fb2a70766b4314fb2a70767292.jpg
     url: /files/original/14fb2a70766b4314fb2a70767292.jpg
+    alt:
+      en: "A high-rise glass office building with numerous broken and blown-out windows, photographed from street level with trees, a truck, and a utility pole in the foreground."
 geo:
   address: ''
   lat: 29.993448304333903

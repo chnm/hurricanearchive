@@ -23,6 +23,8 @@ files:
     original_filename: 2326144179_7e1ec1b574.
     thumb: /files/thumbnails/14fb29ca13cff214fb29ca13d3d9.jpg
     url: /files/original/14fb29ca13cff214fb29ca13d3d9.jpg
+    alt:
+      en: "Collapsed remains of a house reduced to piles of broken wood, debris, and scattered building materials, with a power line crossing the pale sky above."
 geo:
 id: 34428
 item_type: Still Image

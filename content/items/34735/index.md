@@ -20,6 +20,8 @@ files:
     original_filename: 2420879813_cd2f7ac1ec.
     thumb: /files/thumbnails/14fb29c91055f014fb29c91060b1.jpg
     url: /files/original/14fb29c91055f014fb29c91060b1.jpg
+    alt:
+      en: "A shattered toilet and tank lie broken amid debris in a storm-damaged room with peeling blue wooden walls and a gaping hole exposing the structure's framing."
 geo:
 id: 34735
 item_type: Still Image

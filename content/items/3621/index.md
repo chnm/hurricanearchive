@@ -24,6 +24,8 @@ files:
     original_filename: P1010055.JPG
     thumb: /files/thumbnails/14fb2a5a9b1c6f14fb2a5a9b2054.jpg
     url: /files/original/14fb2a5a9b1c6f14fb2a5a9b2054.jpg
+    alt:
+      en: "Long institutional hallway with damaged brick and cinderblock wall sections where lockers once stood, stained carpet underfoot, and a row of overhead fluorescent lights extending toward distant doors."
 geo:
 id: 3621
 item_type: Still Image

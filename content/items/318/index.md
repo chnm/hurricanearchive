@@ -26,6 +26,8 @@ files:
     original_filename: P9273372_88e7ff8c0d.JPG
     thumb: /files/thumbnails/14fb2a703e571314fb2a703e5acf.jpg
     url: /files/original/14fb2a703e571314fb2a703e5acf.jpg
+    alt:
+      en: "Metal walkers and crutches piled on wheeled carts in an indoor space, with a brick wall and a sign marked \"1\" visible in the background."
 geo:
   address: ''
   lat: 30.218209359545195

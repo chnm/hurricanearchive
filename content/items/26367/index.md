@@ -21,6 +21,8 @@ files:
     original_filename: Lionell Powell_5844_2c722cd052.jpg
     thumb: /files/thumbnails/14fb29d92681bf14fb29d92685a9.jpg
     url: /files/original/14fb29d92681bf14fb29d92685a9.jpg
+    alt:
+      en: "Wedding party photo of a bride and groom in white attire surrounded by groomsmen in white suits and bridesmaids in blue satin gowns; the aged photograph shows significant water damage and discoloration along its edges."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

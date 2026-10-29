@@ -27,6 +27,8 @@ files:
     original_filename: '&ldquo;the Mean Old Storm&rdquo;'
     thumb: /files/thumbnails/14fb2a603d66d514fb2a603d6abc.jpg
     url: /files/original/14fb2a603d66d514fb2a603d6abc.jpg
+    alt:
+      en: "A child's drawing of a smiling cloud with eyes labeled \"The mean old Storm,\" with jagged lightning bolts descending onto a fence; captioned \"Tyronna 9\" and \"Katrina.\""
 geo:
 id: 2776
 item_type: Still Image

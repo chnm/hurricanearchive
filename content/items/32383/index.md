@@ -20,6 +20,8 @@ files:
     original_filename: and_then_there_was_one_e84041034d.jpg
     thumb: /files/thumbnails/14fb29cbf3cc5d14fb29cbf3d044.jpg
     url: /files/original/14fb29cbf3cc5d14fb29cbf3d044.jpg
+    alt:
+      en: "A grimy teddy bear lies abandoned amid storm debris—broken wood, torn plastic sheeting, and scattered wreckage—on a patch of grass in black and white."
 geo:
   address: ''
   lat: 29.68805

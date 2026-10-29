@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 034.jpg
     thumb: /files/thumbnails/14fb2a12d7862f14fb2a12d789bf.jpg
     url: /files/original/14fb2a12d7862f14fb2a12d789bf.jpg
+    alt:
+      en: "A staging area with a military tent, generators, yellow waste bins, lumber, and a Club Car utility vehicle parked on pavement, with a large warehouse building and canvas-covered trucks in the background."
 geo:
 id: 19124
 item_type: Still Image

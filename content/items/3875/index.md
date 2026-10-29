@@ -21,6 +21,8 @@ files:
     original_filename: 100_0168.JPG
     thumb: /files/thumbnails/14fb2a5924a79514fb2a5924ab7b.jpg
     url: /files/original/14fb2a5924a79514fb2a5924ab7b.jpg
+    alt:
+      en: "Floodwater surrounds pine trees and partially submerges a house with a gray roof, with damaged tree branches hanging overhead and a utility pole visible in the background."
 geo:
 id: 3875
 item_type: Still Image

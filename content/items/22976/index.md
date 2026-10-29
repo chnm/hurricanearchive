@@ -21,6 +21,8 @@ files:
     original_filename: Talbert 01media.jpg
     thumb: /files/thumbnails/14fb29f258908d14fb29f2589473.jpg
     url: /files/original/14fb29f258908d14fb29f2589473.jpg
+    alt:
+      en: "A military service member in camouflage uniform, wearing an earplug, looks out from an aircraft window over a sprawling, blurred aerial landscape below."
 geo:
 id: 22976
 item_type: Still Image

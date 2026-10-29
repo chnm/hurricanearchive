@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29f00f309f14fb29f00f3486.jpg
     url: /files/original/14fb29f00f309f14fb29f00f3486.jpg
+    alt:
+      en: "Aerial view of marshy coastal wetlands with patches of grass and reeds surrounded by churning blue-green water showing visible current patterns and foam lines."
 geo:
 id: 23295
 item_type: Still Image

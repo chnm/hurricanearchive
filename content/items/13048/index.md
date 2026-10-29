@@ -21,6 +21,8 @@ files:
     original_filename: before street south.jpg
     thumb: /files/thumbnails/14fb2a20c26a6e14fb2a20c2be44.jpg
     url: /files/original/14fb2a20c26a6e14fb2a20c2be44.jpg
+    alt:
+      en: "Empty city street lined with trees, lampposts, and brick and stone buildings under a cloudy sky, with a parked car visible in the distance."
 geo:
 id: 13048
 item_type: Still Image

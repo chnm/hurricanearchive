@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2196superdome.JPG
     thumb: /files/thumbnails/14fb29de64b7c314fb29de64bba7.jpg
     url: /files/original/14fb29de64b7c314fb29de64bba7.jpg
+    alt:
+      en: "Floodwater surrounds a parking area, with a military vehicle on a platform near a small shed and chain-link fencing; a \"LOT 4\" sign is visible in the foreground."
 geo:
 id: 25381
 item_type: Still Image

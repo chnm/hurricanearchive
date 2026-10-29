@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0177-21.JPG
     thumb: /files/thumbnails/14fb2a009920aa14fb2a009924b6.jpg
     url: /files/original/14fb2a009920aa14fb2a009924b6.jpg
+    alt:
+      en: "A quiet residential street with a yellow \"stop ahead\" sign, overhead power lines, trees, and a two-story house with white balconies, debris scattered along the roadside."
 geo:
 id: 21103
 item_type: Still Image

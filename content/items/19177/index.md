@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 087.jpg
     thumb: /files/thumbnails/14fb2a1254d37314fb2a1254d762.jpg
     url: /files/original/14fb2a1254d37314fb2a1254d762.jpg
+    alt:
+      en: "A small red boat lies crushed beneath a massive pile of fallen, dead tree branches and debris, with a large oak tree leaning over the wreckage."
 geo:
 id: 19177
 item_type: Still Image

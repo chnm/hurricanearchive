@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0264-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe90275114fb29fe902b39.jpg
     url: /files/original/14fb29fe90275114fb29fe902b39.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses, garages, and sheds surrounded by brown floodwater, as a small boat carrying people moves between buildings."
 geo:
 id: 21456
 item_type: Still Image

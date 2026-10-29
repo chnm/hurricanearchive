@@ -21,6 +21,8 @@ files:
     original_filename: 98faces6_d26cc4852e.jpg
     thumb: /files/thumbnails/14fb29d695dc1a14fb29d6960bb9.jpg
     url: /files/original/14fb29d695dc1a14fb29d6960bb9.jpg
+    alt:
+      en: "Yearbook page with 16 senior portraits of young men and women in formal attire against blue backdrops, each captioned with a name, from the Chalmette High School 1998 yearbook, page 27."
 geo:
 id: 26886
 item_type: Still Image

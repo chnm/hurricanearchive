@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9076.jpg
     thumb: /files/thumbnails/14fb2a64f9248514fb2a64f928d8.jpg
     url: /files/original/14fb2a64f9248514fb2a64f928d8.jpg
+    alt:
+      en: "Damaged brick building facade with two broken windows, spray-painted search/rescue markings including a yellow X and an orange X with \"9/25,\" \"MO,\" and \"INT,\" and faded black spray-painted text on the brick."
 geo:
 id: 2573
 item_type: Still Image

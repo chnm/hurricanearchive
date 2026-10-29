@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 074cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e61835c14fb2a0e618957.jpg
     url: /files/original/14fb2a0e61835c14fb2a0e618957.jpg
+    alt:
+      en: "View from inside a vehicle down a debris-strewn residential street with a \"Maurepas\" street sign, damaged trees, boarded-up windows on houses, and a Louisiana inspection sticker on the windshield."
 geo:
 id: 19687
 item_type: Still Image

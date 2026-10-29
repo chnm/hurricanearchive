@@ -21,6 +21,8 @@ files:
     original_filename: 09140029neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec680cb414fb29ec6815d5.jpg
     url: /files/original/14fb29ec680cb414fb29ec6815d5.jpg
+    alt:
+      en: "A debris-strewn street with a sagging utility pole and drooping power lines runs past a boarded-up KFC building, reflecting storm damage from Hurricane Katrina."
 geo:
 id: 23916
 item_type: Still Image

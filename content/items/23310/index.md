@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044cameronS&R.JPG
     thumb: /files/thumbnails/14fb29effea10e14fb29effea4eb.jpg
     url: /files/original/14fb29effea10e14fb29effea4eb.jpg
+    alt:
+      en: "Heavily damaged building with exposed plywood walls and a \"LOUNGE\" sign still attached, surrounded by massive piles of splintered wood and debris, with a search-and-rescue marking spray-painted in orange."
 geo:
 id: 23310
 item_type: Still Image

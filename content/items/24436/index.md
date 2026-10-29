@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094-16.JPG
     thumb: /files/thumbnails/14fb29e7b58b9e14fb29e7b58f85.jpg
     url: /files/original/14fb29e7b58b9e14fb29e7b58f85.jpg
+    alt:
+      en: "Military dump trucks marked \"A50\" parked on debris-strewn ground, with uniformed personnel and civilians standing nearby amid storm wreckage and downed power lines."
 geo:
 id: 24436
 item_type: Still Image

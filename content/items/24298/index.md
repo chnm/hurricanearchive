@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-18-17A.jpg
     thumb: /files/thumbnails/14fb29e8f4444314fb29e8f446bf.jpg
     url: /files/original/14fb29e8f4444314fb29e8f446bf.jpg
+    alt:
+      en: "A military-style truck packed with evacuees crosses a deeply flooded underpass, passing submerged cars and a partially sunken blue bus, while onlookers near a small boat watch from the foreground."
 geo:
 id: 24298
 item_type: Still Image

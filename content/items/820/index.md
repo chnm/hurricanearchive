@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27982.jpg
     thumb: /files/thumbnails/14fb2a6cd9c27914fb2a6cd9cc8e.jpg
     url: /files/original/14fb2a6cd9c27914fb2a6cd9cc8e.jpg
+    alt:
+      en: "A fallen sign reading \"The Episcopal Church, St. Paul's Church & School\" lies in debris-strewn grass beside a cracked street, with tree shadows cast across the pavement."
 geo:
   address: ''
   lat: 0.0

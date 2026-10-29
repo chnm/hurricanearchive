@@ -21,6 +21,8 @@ files:
     original_filename: slide9.jpg
     thumb: /files/thumbnails/14fb2a19290ab114fb2a19290e97.jpg
     url: /files/original/14fb2a19290ab114fb2a19290e97.jpg
+    alt:
+      en: "Aerial view of the heavily damaged U.S. Hwy. 90 bridge at Bay St. Louis, showing a collapsed and twisted section of roadway supported by bent metal beams rising from the water."
 geo:
 id: 14419
 item_type: Still Image

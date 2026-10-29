@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28216.jpg
     thumb: /files/thumbnails/14fb2a6ca3566214fb2a6ca35ac0.jpg
     url: /files/original/14fb2a6ca3566214fb2a6ca35ac0.jpg
+    alt:
+      en: "Collapsed roof of a house spray-painted with \"THANKS 4 NOTHING KATRINA U BITCH!\", surrounded by debris and splintered wood in a wooded Waveland lot."
 geo:
   address: ''
   lat: 0.0

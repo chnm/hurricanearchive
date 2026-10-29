@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28678.jpg
     thumb: /files/thumbnails/14fb2a6a193f3914fb2a6a194316.jpg
     url: /files/original/14fb2a6a193f3914fb2a6a194316.jpg
+    alt:
+      en: "Woman in sunglasses and tan shorts gestures while speaking with a man in a plaid shirt and cap holding a notepad, standing on a dirt lot near barns and parked trucks at the animal rescue depot."
 geo:
   address: ''
   lat: 0.0

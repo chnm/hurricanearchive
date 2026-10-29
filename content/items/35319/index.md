@@ -18,6 +18,8 @@ files:
     original_filename: 54_11b862893f.jpg
     thumb: /files/thumbnails/14fb29c6873aa714fb29c6874543.jpg
     url: /files/original/14fb29c6873aa714fb29c6874543.jpg
+    alt:
+      en: "Black-and-white photo of a young woman in a mini dress standing beside a large, ornate costumed figure with outstretched arms, in front of a sign reading \"9TH WARD APACHE.\""
 geo:
   address: new orleans, la
   lat: 29.95324

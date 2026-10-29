@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29eb2b104b14fb29eb2b12aa.jpg
     url: /files/original/14fb29eb2b104b14fb29eb2b12aa.jpg
+    alt:
+      en: "Aerial view of flooded wetlands, with patches of marsh grass and vegetation scattered across a vast expanse of murky, reflective water."
 geo:
 id: 24056
 item_type: Still Image

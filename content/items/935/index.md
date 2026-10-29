@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28577.jpg
     thumb: /files/thumbnails/14fb2a6c19450114fb2a6c1948f3.jpg
     url: /files/original/14fb2a6c19450114fb2a6c1948f3.jpg
+    alt:
+      en: "A dirt path runs alongside a large pile of storm debris and wood scraps, with a red-roofed building and parked vehicles in the background near Lake Pontchartrain."
 geo:
   address: ''
   lat: 0.0

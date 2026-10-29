@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 046cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e88b4e414fb2a0e88b8c9.jpg
     url: /files/original/14fb2a0e88b4e414fb2a0e88b8c9.jpg
+    alt:
+      en: "Close-up of a woodland camouflage uniform shoulder bearing a rectangular military unit patch with a lightning bolt design embroidered in muted green and black thread."
 geo:
 id: 19659
 item_type: Still Image

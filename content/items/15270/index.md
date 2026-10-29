@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-006_36a56a471e.jpg
     thumb: /files/thumbnails/14fb2a16b1278514fb2a16b12f57.jpg
     url: /files/original/14fb2a16b1278514fb2a16b12f57.jpg
+    alt:
+      en: "Preschoolers in Christmas tree sweatshirts and nativity costumes stand on a church stage lined with poinsettias, with a woman in a holiday vest nearby; the date stamp reads 12/16/'04."
 geo:
 id: 15270
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5663-2_460573100a.jpg
     thumb: /files/thumbnails/14fb2a170413f014fb2a17041b23.jpg
     url: /files/original/14fb2a170413f014fb2a17041b23.jpg
+    alt:
+      en: "Worn photograph of a man in a U.S. Air Force uniform with \"GUICHARD\" and \"U.S. AIR FORCE\" name tapes on the jacket, posed for a formal portrait against a plain background."
 geo:
 id: 15126
 item_type: Still Image

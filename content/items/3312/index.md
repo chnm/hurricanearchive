@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (71).jpg
     thumb: /files/thumbnails/14fb2a5c75d95714fb2a5c75dd41.jpg
     url: /files/original/14fb2a5c75d95714fb2a5c75dd41.jpg
+    alt:
+      en: "Aerial view of a devastated waterfront neighborhood with collapsed buildings, scattered debris, and a mud-covered street; a canal lined with utility poles runs alongside the wreckage."
 geo:
 id: 3312
 item_type: Still Image

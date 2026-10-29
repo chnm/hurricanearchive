@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 020.jpg
     thumb: /files/thumbnails/14fb2a59e5bf1714fb2a59e5c2fd.jpg
     url: /files/original/14fb2a59e5bf1714fb2a59e5c2fd.jpg
+    alt:
+      en: "A severely damaged house with a collapsed porch and broken windows, its roof partially torn off, surrounded by debris and fallen branches, with a brick chimney still standing amid the wreckage."
 geo:
 id: 3740
 item_type: Still Image

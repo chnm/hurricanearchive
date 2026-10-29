@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0081OEP.JPG
     thumb: /files/thumbnails/14fb29f1a436dd14fb29f1a43ab8.jpg
     url: /files/original/14fb29f1a436dd14fb29f1a43ab8.jpg
+    alt:
+      en: "A man in military camouflage uniform sits on a stool under a white canopy tent being interviewed by a woman holding a microphone, while another person films with a video camera nearby."
 geo:
 id: 23071
 item_type: Still Image

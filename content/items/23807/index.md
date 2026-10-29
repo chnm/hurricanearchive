@@ -21,6 +21,8 @@ files:
     original_filename: S4300052neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecfce66b14fb29ecfcea50.jpg
     url: /files/original/14fb29ecfce66b14fb29ecfcea50.jpg
+    alt:
+      en: "Close-up of a military vehicle's large tire plowing through muddy floodwater, with \"TRANS. OIL CHECK/FILL\" labeled on the olive-green truck body above."
 geo:
 id: 23807
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 126cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e23c17e14fb2a0e23c564.jpg
     url: /files/original/14fb2a0e23c17e14fb2a0e23c564.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues stand on a tarmac near a dark helicopter, while a woman films with a video camera and others converse nearby, with damaged trees and buildings in the background."
 geo:
 id: 19739
 item_type: Still Image

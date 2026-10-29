@@ -26,6 +26,8 @@ files:
     original_filename: bn_eaeaf416bf.jpg
     thumb: /files/thumbnails/14fb2a705a6c1f14fb2a705a70b9.jpg
     url: /files/original/14fb2a705a6c1f14fb2a705a70b9.jpg
+    alt:
+      en: "Exterior of a Barnes & Noble Booksellers store with striped awnings, viewed across an empty parking lot and grassy area under an overcast sky."
 geo:
   address: ''
   lat: 30.0046724756269

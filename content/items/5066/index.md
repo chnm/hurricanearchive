@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0411.JPG
     thumb: /files/thumbnails/14fb2a5428bb6e14fb2a5428bf45.jpg
     url: /files/original/14fb2a5428bb6e14fb2a5428bf45.jpg
+    alt:
+      en: "Storm debris including a damaged chain-link fence, fallen branches, and scattered household items fills a cleared lot, with wooden posts and a paved area visible in the background."
 geo:
 id: 5066
 item_type: Still Image

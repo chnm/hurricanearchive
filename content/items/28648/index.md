@@ -23,6 +23,8 @@ files:
     original_filename: 158259480_a9f53346ed.jpg
     thumb: /files/thumbnails/14fb29d1ed7df614fb29d1ed81db.jpg
     url: /files/original/14fb29d1ed7df614fb29d1ed81db.jpg
+    alt:
+      en: "Damaged wooden house with collapsed porch and broken windows, surrounded by two wrecked cars and scattered debris in a dirt lot, Lower 9th Ward, New Orleans."
 geo:
 id: 28648
 item_type: Still Image

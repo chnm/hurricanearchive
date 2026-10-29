@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1286Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f66c859414fb29f66c8978.jpg
     url: /files/original/14fb29f66c859414fb29f66c8978.jpg
+    alt:
+      en: "Floodwater submerges a street and buildings up to the first-floor windows, with a partially submerged vehicle visible in the foreground and debris floating near a white house's entrance."
 geo:
 id: 22445
 item_type: Still Image

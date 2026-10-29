@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28119.jpg
     thumb: /files/thumbnails/14fb2a694f185e14fb2a694f1c45.jpg
     url: /files/original/14fb2a694f185e14fb2a694f1c45.jpg
+    alt:
+      en: "A man in a cap surveys a collapsed brick structure with splintered wood debris, exposed roofing, and standing floodwater, part of the 17th Street Canal breach damage in Lakeview, New Orleans."
 geo:
   address: ''
   lat: 0.0

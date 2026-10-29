@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0294.JPG
     thumb: /files/thumbnails/14fb2a54cd2c8014fb2a54cd3063.jpg
     url: /files/original/14fb2a54cd2c8014fb2a54cd3063.jpg
+    alt:
+      en: "Interior view of an attic space with exposed wooden roof trusses and rafters, a metal HVAC duct wrapped in silver insulation, and scattered debris on the floor below."
 geo:
 id: 4952
 item_type: Still Image

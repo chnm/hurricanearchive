@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 048.jpg
     thumb: /files/thumbnails/14fb2a59cd8d0814fb2a59cd90e5.jpg
     url: /files/original/14fb2a59cd8d0814fb2a59cd90e5.jpg
+    alt:
+      en: "A damaged \"Casino Magic\" sign stands amid demolished buildings and debris, with a large hotel tower visible in the background under a clear blue sky."
 geo:
 id: 3768
 item_type: Still Image

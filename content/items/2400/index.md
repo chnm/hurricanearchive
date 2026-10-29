@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BWY_bb217d631e.jpg
     thumb: /files/thumbnails/14fb2a66b71c7a14fb2a66b72110.jpg
     url: /files/original/14fb2a66b71c7a14fb2a66b72110.jpg
+    alt:
+      en: "A man in a green military flight suit carries a young child, who covers his ears, past seated evacuees outside the Superdome, with other uniformed personnel nearby."
 geo:
 id: 2400
 item_type: Still Image

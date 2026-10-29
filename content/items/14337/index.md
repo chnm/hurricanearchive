@@ -21,6 +21,8 @@ files:
     original_filename: aerials49.jpg
     thumb: /files/thumbnails/14fb2a19c60f1e14fb2a19c61304.jpg
     url: /files/original/14fb2a19c60f1e14fb2a19c61304.jpg
+    alt:
+      en: "Aerial view of a debris-strewn waterfront with piles of splintered wood and damaged piers extending into dark water, surrounded by sparse trees and scattered rubble."
 geo:
 id: 14337
 item_type: Still Image

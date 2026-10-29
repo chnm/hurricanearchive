@@ -21,6 +21,8 @@ files:
     original_filename: S4300174stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece6dccd14fb29ece6e0bb.jpg
     url: /files/original/14fb29ece6dccd14fb29ece6e0bb.jpg
+    alt:
+      en: "Brick house with storm-damaged roof covered in debris and grass, blue shutters, boarded windows marked with a search-and-rescue X, and an open front door."
 geo:
 id: 23835
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1195Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6f2b11714fb29f6f2b4fc.jpg
     url: /files/original/14fb29f6f2b11714fb29f6f2b4fc.jpg
+    alt:
+      en: "Nighttime photo of people boarding a small boat on dark water, one wearing an orange life vest, with another boat and lights visible in the background."
 geo:
 id: 22373
 item_type: Still Image

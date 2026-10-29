@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0584320714fb2a058435ec.jpg
     url: /files/original/14fb2a0584320714fb2a058435ec.jpg
+    alt:
+      en: "A wooden single-story house with a dark green roof and front porch columns stands partially submerged in floodwater, with trees and power lines visible in the background under a cloudy sky."
 geo:
 id: 20636
 item_type: Still Image

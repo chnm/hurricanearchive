@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-5808_cd5eb42963.jpg
     thumb: /files/thumbnails/14fb29dc167c0114fb29dc168319.jpg
     url: /files/original/14fb29dc167c0114fb29dc168319.jpg
+    alt:
+      en: "Dot Benge, museum docent, wears a traditional Isleño costume with a red headscarf and straw hat, standing beside a framed portrait of a woman decorated with feather plumes."
 geo:
 id: 25807
 item_type: Still Image

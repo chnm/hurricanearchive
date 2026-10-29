@@ -21,6 +21,8 @@ files:
     original_filename: LeoSchaeffer1A_ef6618143d.jpg
     thumb: /files/thumbnails/14fb29dd4c314714fb29dd4c3914.jpg
     url: /files/original/14fb29dd4c314714fb29dd4c3914.jpg
+    alt:
+      en: "A cracked, debris-strewn parking lot in front of a damaged Winn-Dixie store with \"Deli Pharmacy\" signage, with an SUV and a flood-damaged minivan parked nearby."
 geo:
 id: 25538
 item_type: Still Image

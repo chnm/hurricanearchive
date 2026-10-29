@@ -21,6 +21,8 @@ files:
     original_filename: P1010145empireS&R.JPG
     thumb: /files/thumbnails/14fb29edb4ed0314fb29edb509b6.jpg
     url: /files/original/14fb29edb4ed0314fb29edb509b6.jpg
+    alt:
+      en: "Floodwater covers a debris-strewn landscape with scattered trees, a partially submerged house, and a raised highway overpass visible in the background, photographed from inside a vehicle."
 geo:
 id: 23704
 item_type: Still Image

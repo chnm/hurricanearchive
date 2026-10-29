@@ -20,6 +20,8 @@ files:
     original_filename: 114539391_bc6f9d5726.jpg
     thumb: /files/thumbnails/14fb29d17ed95914fb29d17edd3e.jpg
     url: /files/original/14fb29d17ed95914fb29d17edd3e.jpg
+    alt:
+      en: "Interior room with heavy black and brown mold covering the walls and ceiling corner, torn curtains hanging by a window, and three picture frames mounted on the moldy wall above cluttered furniture."
 geo:
 id: 28705
 item_type: Still Image

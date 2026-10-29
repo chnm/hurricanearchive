@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0062-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a04cd749f14fb2a04cd7883.jpg
     url: /files/original/14fb2a04cd749f14fb2a04cd7883.jpg
+    alt:
+      en: "Large military truck marked \"225GP 769E\" and \"MB090\" parked on a flooded road, with three uniformed men standing nearby in ankle-deep water and floodwaters covering fields in the background."
 geo:
 id: 20708
 item_type: Still Image

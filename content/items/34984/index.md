@@ -20,6 +20,8 @@ files:
     original_filename: 2298648216_ee3529bd63.
     thumb: /files/thumbnails/14fb29c8047d5614fb29c804813c.jpg
     url: /files/original/14fb29c8047d5614fb29c804813c.jpg
+    alt:
+      en: "Two people playfully tug on a bicycle wheel amid a pile of jumbled bicycles, both smiling as they pull in opposite directions."
 geo:
 id: 34984
 item_type: Still Image

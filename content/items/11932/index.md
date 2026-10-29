@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 054.jpg
     thumb: /files/thumbnails/14fb2a22b0770d14fb2a22b07aeb.jpg
     url: /files/original/14fb2a22b0770d14fb2a22b07aeb.jpg
+    alt:
+      en: "Storm-damaged two-story building with exposed interior and stripped walls stands amid debris-covered grounds; a sign reading \"DO NOT REMOVE\" sits in the foreground, dated 2005/09/24."
 geo:
 id: 11932
 item_type: Still Image

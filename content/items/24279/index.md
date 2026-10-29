@@ -21,6 +21,8 @@ files:
     original_filename: 45th BCT TOC.JPG
     thumb: /files/thumbnails/14fb29e913276414fb29e9132b4f.jpg
     url: /files/original/14fb29e913276414fb29e9132b4f.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work at folding tables in a makeshift command center, with desk signs reading \"JAG,\" \"ENG,\" \"ENGINEER,\" and \"J-3 AIR\" marking different sections amid laptops, files, and equipment."
 geo:
 id: 24279
 item_type: Still Image

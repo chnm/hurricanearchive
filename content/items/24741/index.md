@@ -21,6 +21,8 @@ files:
     original_filename: Behind the Superdome 2superdome.jpg
     thumb: /files/thumbnails/14fb29e543db6714fb29e543df35.jpg
     url: /files/original/14fb29e543db6714fb29e543df35.jpg
+    alt:
+      en: "Floodwaters submerge a city street and partially covered vehicles beneath an elevated highway, with a helicopter flying near a high-rise building in the background."
 geo:
 id: 24741
 item_type: Still Image

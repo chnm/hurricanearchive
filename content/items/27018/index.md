@@ -21,6 +21,8 @@ files:
     original_filename: _MG_5669_ece74ee74f.jpg
     thumb: /files/thumbnails/14fb29d5c42d9d14fb29d5c43183.jpg
     url: /files/original/14fb29d5c42d9d14fb29d5c43183.jpg
+    alt:
+      en: "Faded, water-damaged portrait of a seated man in a suit holding a hat, his image obscured by heavy discoloration and a bright light-damage spot in the lower left."
 geo:
 id: 27018
 item_type: Still Image

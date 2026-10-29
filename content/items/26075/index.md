@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7036_fde464160b.jpg
     thumb: /files/thumbnails/14fb29db60a8e014fb29db60acd4.jpg
     url: /files/original/14fb29db60a8e014fb29db60acd4.jpg
+    alt:
+      en: "Sepia-toned portrait of five men in dark suits seated and standing around a small table draped with a floral cloth, holding books and papers, posed against a weathered two-tone wall."
 geo:
   address: ''
   lat: 29.91685

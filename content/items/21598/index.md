@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0332-16.JPG
     thumb: /files/thumbnails/14fb29fd3483b514fb29fd348624.jpg
     url: /files/original/14fb29fd3483b514fb29fd348624.jpg
+    alt:
+      en: "A motorboat, still partially covered by its gray cover, rests on top of a brick house's roof, with a silver sedan parked on the street in front."
 geo:
 id: 21598
 item_type: Still Image

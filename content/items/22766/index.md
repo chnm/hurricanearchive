@@ -21,6 +21,8 @@ files:
     original_filename: S4300122Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f42464a714fb29f4247004.jpg
     url: /files/original/14fb29f42464a714fb29f4247004.jpg
+    alt:
+      en: "A large red shipping container (marked TPHU 473727 0) lies tipped across railroad tracks near a street, with mud-covered ground, a leaning utility pole, a Chevron station, and a passing pickup truck."
 geo:
 id: 22766
 item_type: Still Image

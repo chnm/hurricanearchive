@@ -23,6 +23,8 @@ files:
     original_filename: 1225714684_58c7e0d75d.jpg
     thumb: /files/thumbnails/14fb29cb0ee7e314fb29cb0eef07.jpg
     url: /files/original/14fb29cb0ee7e314fb29cb0eef07.jpg
+    alt:
+      en: "A hand holds up a pink \"Notice of Condemnation for Public Safety and Welfare\" flyer from the City of New Orleans, stapled to a weathered doorframe beside a metal security grate."
 geo:
 id: 33259
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a57a7a53814fb2a57a7a91d.jpg
     url: /files/original/14fb2a57a7a53814fb2a57a7a91d.jpg
+    alt:
+      en: "A man in a light blue checked shirt greets a smiling Coast Guard member wearing a bucket hat, surrounded by other uniformed personnel near a tent at an outdoor gathering."
 geo:
 id: 4113
 item_type: Still Image

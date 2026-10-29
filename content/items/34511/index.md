@@ -27,6 +27,8 @@ files:
     original_filename: 2292069424_c0e42c9b4c.
     thumb: /files/thumbnails/14fb29c99db1ba14fb29c99db596.jpg
     url: /files/original/14fb29c99db1ba14fb29c99db596.jpg
+    alt:
+      en: "Storm-damaged blue house raised on stilts with stripped siding and bare pilings underneath, surrounded by debris, scattered lumber, and bare tree trunks in the yard."
 geo:
   address: ''
   lat: 30.22539

@@ -21,6 +21,8 @@ files:
     original_filename: porter.JPG
     thumb: /files/thumbnails/14fb2a1a76048b14fb2a1a76086f.jpg
     url: /files/original/14fb2a1a76048b14fb2a1a76086f.jpg
+    alt:
+      en: "Portrait of a man in camouflage U.S. Army uniform with name tape reading \"PORTER,\" standing indoors near a window with a military vehicle visible outside."
 geo:
   address: ''
   lat: 0.0

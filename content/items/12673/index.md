@@ -21,6 +21,8 @@ files:
     original_filename: 100-21_b7f720e889.jpg
     thumb: /files/thumbnails/14fb2a21d28a1214fb2a21d28df7.jpg
     url: /files/original/14fb2a21d28a1214fb2a21d28df7.jpg
+    alt:
+      en: "Vintage color photo of a family gathered around a table with a birthday cake, including children seated at the front and adults standing behind, one holding a baby, in a warmly lit room."
 geo:
 id: 12673
 item_type: Still Image

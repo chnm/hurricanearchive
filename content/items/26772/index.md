@@ -24,6 +24,8 @@ files:
     original_filename: WC 1900s women in family & car_34a6f7c5bb.jpg
     thumb: /files/thumbnails/14fb29d7dd4b0914fb29d7dd4ee5.jpg
     url: /files/original/14fb29d7dd4b0914fb29d7dd4ee5.jpg
+    alt:
+      en: "Sepia-toned early 1900s photograph of three women seated in an early automobile, wearing elaborate period hats; handwritten caption below reads \"Sister Willie, Mama Dunnam, Lela Chatham.\""
 geo:
   address: ''
   lat: 29.87876

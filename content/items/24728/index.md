@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-23-21Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e554389014fb29e5543b15.jpg
     url: /files/original/14fb29e554389014fb29e5543b15.jpg
+    alt:
+      en: "A helicopter hovers above a rooftop parking deck where several people stand near stacked water bottles, with a city skyline visible in the background."
 geo:
 id: 24728
 item_type: Still Image

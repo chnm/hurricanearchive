@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2177superdome.JPG
     thumb: /files/thumbnails/14fb29e476c85114fb29e476cc37.jpg
     url: /files/original/14fb29e476c85114fb29e476cc37.jpg
+    alt:
+      en: "Interior of a damaged building serving as a shelter, with a National Guard soldier in camouflage speaking to a woman holding a child, surrounded by debris, water bottles, coolers, and boarded-up windows."
 geo:
 id: 24837
 item_type: Still Image

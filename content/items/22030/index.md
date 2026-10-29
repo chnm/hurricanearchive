@@ -21,6 +21,8 @@ files:
     original_filename: Picture 361-J2.jpg
     thumb: /files/thumbnails/14fb29f9f8d50714fb29f9f8e55c.jpg
     url: /files/original/14fb29f9f8d50714fb29f9f8e55c.jpg
+    alt:
+      en: "A man in a cap, sunglasses, and camouflage pants stands beside a mud-splattered car with its trunk open, in a debris-strewn yard with a damaged tree and a white house in the background."
 geo:
 id: 22030
 item_type: Still Image

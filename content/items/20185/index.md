@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0048.JPG
     thumb: /files/thumbnails/14fb2a0add5a1f14fb2a0add5dfe.jpg
     url: /files/original/14fb2a0add5a1f14fb2a0add5dfe.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses submerged to roofline, partially visible cars floating in floodwater, and bare, storm-damaged trees surrounded by murky green water."
 geo:
 id: 20185
 item_type: Still Image

@@ -18,6 +18,8 @@ files:
     original_filename: 59_3d0921c621.jpg
     thumb: /files/thumbnails/14fb29c65ed4cb14fb29c6607551.jpg
     url: /files/original/14fb29c65ed4cb14fb29c6607551.jpg
+    alt:
+      en: "Two people pose together at a party, one in a Dalmatian costume with spotted body paint, a bikini top, foil skirt, and red hat, the other in a dark suit with a red shirt holding Budweiser cans."
 geo:
   address: new orleans, la
   lat: 29.95324

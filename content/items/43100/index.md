@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0029_e10ca043cd.jpg
     thumb: /files/thumbnails/14fb29c24c171514fb29c24c1afc.jpg
     url: /files/original/14fb29c24c171514fb29c24c1afc.jpg
+    alt:
+      en: "Black and white photo through a paned shop window reflecting a photographer with a camera, surrounded by displayed brass items like candelabras and a ship's telegraph dial."
 geo:
 id: 43100
 item_type: Still Image

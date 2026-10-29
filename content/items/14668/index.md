@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_Alexia Wilson pics04_487e556dc3.jpg
     thumb: /files/thumbnails/14fb2a1876936d14fb2a18769b6e.jpg
     url: /files/original/14fb2a1876936d14fb2a18769b6e.jpg
+    alt:
+      en: "A young girl smiles while sitting on a couch surrounded by Christmas gifts, including a \"Tickle Me Elmo\" box and other toys."
 geo:
 id: 14668
 item_type: Still Image

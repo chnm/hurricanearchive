@@ -21,6 +21,8 @@ files:
     original_filename: P1010008.JPG
     thumb: /files/thumbnails/14fb29fc55c94414fb29fc55de46.jpg
     url: /files/original/14fb29fc55c94414fb29fc55de46.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms and a civilian stand beside large shrink-wrapped cargo pallets on an airport tarmac, with military trucks and pickup trucks parked behind them."
 geo:
 id: 21707
 item_type: Still Image

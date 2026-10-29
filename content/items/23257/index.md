@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2167neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f0437d8514fb29f043816a.jpg
     url: /files/original/14fb29f0437d8514fb29f043816a.jpg
+    alt:
+      en: "Military Humvees and trucks line a debris-strewn downtown street flanked by high-rise office buildings, with a distinctive tiered skyscraper visible in the background."
 geo:
 id: 23257
 item_type: Still Image

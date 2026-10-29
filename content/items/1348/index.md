@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28501.jpg
     thumb: /files/thumbnails/14fb2a6966b64214fb2a6966beb2.jpg
     url: /files/original/14fb2a6966b64214fb2a6966beb2.jpg
+    alt:
+      en: "A damaged house entrance with the address \"6420\" on the column, a black front door ajar revealing debris inside, and orange spray-painted search-and-rescue markings reading \"9-16\" with an X and \"0\" on the door."
 geo:
   address: ''
   lat: 0.0

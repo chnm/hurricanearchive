@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0071H.JPG
     thumb: /files/thumbnails/14fb2a0418b2c214fb2a0418b6a8.jpg
     url: /files/original/14fb2a0418b2c214fb2a0418b6a8.jpg
+    alt:
+      en: "A young man in camouflage military uniform appears to be pinning something onto the shirt of a woman with short brown hair and glasses, who wears a white tank top with orange text and lettering."
 geo:
 id: 20754
 item_type: Still Image

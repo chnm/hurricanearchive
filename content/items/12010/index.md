@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi533.JPG
     thumb: /files/thumbnails/14fb2a225b121b14fb2a225b1609.jpg
     url: /files/original/14fb2a225b121b14fb2a225b1609.jpg
+    alt:
+      en: "A group of people stands outside a brick building, several wearing white T-shirts reading \"Rebuilding the Pass with Pride,\" gathered around a man speaking to the crowd."
 geo:
 id: 12010
 item_type: Still Image

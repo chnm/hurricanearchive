@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28142.jpg
     thumb: /files/thumbnails/14fb2a69f84f0a14fb2a69f852f0.jpg
     url: /files/original/14fb2a69f84f0a14fb2a69f852f0.jpg
+    alt:
+      en: "Small, damaged roadside shack with red, white, and blue paneling stands tilted on cinder blocks beneath a large leaning tree, surrounded by scattered debris on a gravel lot."
 geo:
   address: ''
   lat: 0.0

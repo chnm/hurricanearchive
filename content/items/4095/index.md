@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1016.JPG
     thumb: /files/thumbnails/14fb2a57d671f814fb2a57d67d76.jpg
     url: /files/original/14fb2a57d671f814fb2a57d67d76.jpg
+    alt:
+      en: "A U.S. Coast Guard inflatable boat is docked beside a waterfront building with a red roof, where trucks, trailers, and a group of people are gathered on the pier."
 geo:
 id: 4095
 item_type: Still Image

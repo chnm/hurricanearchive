@@ -21,6 +21,8 @@ files:
     original_filename: NO 009majortodd.jpg
     thumb: /files/thumbnails/14fb29f2e99d6c14fb29f2e9a14f.jpg
     url: /files/original/14fb29f2e99d6c14fb29f2e9a14f.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood, with only rooftops and treetops visible above the murky floodwaters covering streets and houses."
 geo:
 id: 22887
 item_type: Still Image

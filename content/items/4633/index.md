@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0562.JPG
     thumb: /files/thumbnails/14fb2a569b819414fb2a569b8514.jpg
     url: /files/original/14fb2a569b819414fb2a569b8514.jpg
+    alt:
+      en: "A yellow tape measure (marked \"Kobalt US,\" showing 1-3 inches) stands upright amid storm debris, including twisted metal straps, broken concrete, and scattered construction materials."
 geo:
 id: 4633
 item_type: Still Image

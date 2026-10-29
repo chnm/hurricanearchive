@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8624.jpg
     thumb: /files/thumbnails/14fb2a65d1375b14fb2a65d13b40.jpg
     url: /files/original/14fb2a65d1375b14fb2a65d13b40.jpg
+    alt:
+      en: "Debris field with scattered cinder blocks, a toilet, folding chairs, and bottles surrounding a hand-lettered sign reading \"Rebuild Captain's Bar A.S.A.P.\" amid storm-damaged trees and buildings."
 geo:
 id: 2509
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: c8_62d2105c17.jpg
     thumb: /files/thumbnails/14fb2a6d83ac3714fb2a6d83aeb0.jpg
     url: /files/original/14fb2a6d83ac3714fb2a6d83aeb0.jpg
+    alt:
+      en: "A damaged brick building in downtown Arcadia, Florida, with a collapsed upper section and exposed roof framing, while a woman walks past rubble on the street below."
 geo:
   address: ''
   lat: 27.186075

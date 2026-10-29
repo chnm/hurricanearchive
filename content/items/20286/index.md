@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0128-9-18.JPG
     thumb: /files/thumbnails/14fb2a0a07d96214fb2a0a07e37b.jpg
     url: /files/original/14fb2a0a07d96214fb2a0a07e37b.jpg
+    alt:
+      en: "Flooded roadway littered with abandoned, mud-covered vehicles and scattered debris, with a damaged concrete barrier and industrial structures visible in the background."
 geo:
 id: 20286
 item_type: Still Image

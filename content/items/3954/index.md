@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58c5df2114fb2a58c5e316.jpg
     url: /files/original/14fb2a58c5df2114fb2a58c5e316.jpg
+    alt:
+      en: "A man in a maroon polo shirt shakes hands with a uniformed Coast Guard member wearing a wide-brim hat, surrounded by a crowd in uniform; a timestamp reads \"3:52 PM.\""
 geo:
 id: 3954
 item_type: Still Image

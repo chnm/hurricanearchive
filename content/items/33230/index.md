@@ -23,6 +23,8 @@ files:
     original_filename: 1259921858_b3e53685c3.jpg
     thumb: /files/thumbnails/14fb29cb64a69d14fb29cb64acb6.jpg
     url: /files/original/14fb29cb64a69d14fb29cb64acb6.jpg
+    alt:
+      en: "Weathered green wooden door set in a matching frame, with a tarnished metal sign reading \"Positively No Admittance to Working Department\" and visible cracked, peeling paint."
 geo:
 id: 33230
 item_type: Still Image

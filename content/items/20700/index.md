@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060H.JPG
     thumb: /files/thumbnails/14fb2a04eacee714fb2a04ead2ce.jpg
     url: /files/original/14fb2a04eacee714fb2a04ead2ce.jpg
+    alt:
+      en: "Two men and a woman in a white \"Hooters Siegen Lane, Baton Rouge\" tank top and orange shorts gather around a foosball table at night, string lights glowing in the background."
 geo:
 id: 20700
 item_type: Still Image

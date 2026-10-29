@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_MyiaCrane_01_bc31887866.jpg
     thumb: /files/thumbnails/14fb2a17bc02dc14fb2a17bc096d.jpg
     url: /files/original/14fb2a17bc02dc14fb2a17bc096d.jpg
+    alt:
+      en: "A young girl in a plaid jumper school uniform sits smiling on a small chair, hands folded, near a bookshelf of children's books and stuffed animals."
 geo:
 id: 14787
 item_type: Still Image

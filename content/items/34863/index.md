@@ -20,6 +20,8 @@ files:
     original_filename: 2456732501_99942b81af.
     thumb: /files/thumbnails/14fb29c8e0212f14fb29c8e02516.jpg
     url: /files/original/14fb29c8e0212f14fb29c8e02516.jpg
+    alt:
+      en: "A rocky shoreline barrier of white stones separates a muddy, debris-strewn embankment from calm open water, with remnants of wooden pilings visible offshore under a pale sky."
 geo:
 id: 34863
 item_type: Still Image

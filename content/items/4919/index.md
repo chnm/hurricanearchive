@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0238.JPG
     thumb: /files/thumbnails/14fb2a54f584d714fb2a54f588bd.jpg
     url: /files/original/14fb2a54f584d714fb2a54f588bd.jpg
+    alt:
+      en: "Debris pile of broken white cinder blocks, scattered rubble, and rusted wire or pine needles on bare ground, with a chain-link fence visible in the background."
 geo:
 id: 4919
 item_type: Still Image

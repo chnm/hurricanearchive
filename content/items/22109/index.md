@@ -21,6 +21,8 @@ files:
     original_filename: 09140020Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f981bb9214fb29f981c358.jpg
     url: /files/original/14fb29f981bb9214fb29f981c358.jpg
+    alt:
+      en: "Brick building with \"Louisiana National Guard\" engraved above the entrance, with several parked vehicles, including a military Humvee, in front."
 geo:
 id: 22109
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a062965f114fb2a062a4558.jpg
     url: /files/original/14fb2a062965f114fb2a062a4558.jpg
+    alt:
+      en: "Aerial view of a grassy, storm-damaged coastal field with snapped and defoliated trees, wooden livestock pens in the foreground, and water visible in the background."
 geo:
 id: 20560
 item_type: Still Image

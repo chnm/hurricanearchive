@@ -20,6 +20,8 @@ files:
     original_filename: l_42aa98af01204c1baad7e4f788a34a6d_cc19cda9f8.jpg
     thumb: /files/thumbnails/14fb29c4e0d2db14fb29c4e0d6c1.jpg
     url: /files/original/14fb29c4e0d2db14fb29c4e0d6c1.jpg
+    alt:
+      en: "An older man sits at a small table on a screened porch, surrounded by yellow vinyl chairs, buckets, and a metal cart, with windows showing nearby buildings outside."
 geo:
   address: ''
   lat: 30.06909

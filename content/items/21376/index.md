@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0240-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff16342514fb29ff16380b.jpg
     url: /files/original/14fb29ff16342514fb29ff16380b.jpg
+    alt:
+      en: "Aerial view of a flooded industrial refinery complex with storage tanks and piping, surrounded by submerged roads, fields, and trees under a hazy sky."
 geo:
 id: 21376
 item_type: Still Image

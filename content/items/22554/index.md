@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1843Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f55a170814fb29f55a2412.jpg
     url: /files/original/14fb29f55a170814fb29f55a2412.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rooftops, trailers, fences, and small boats partially submerged in brown floodwater, with trees and debris scattered throughout."
 geo:
 id: 22554
 item_type: Still Image

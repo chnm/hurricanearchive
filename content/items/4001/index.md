@@ -21,6 +21,8 @@ files:
     original_filename: DSC01095.JPG
     thumb: /files/thumbnails/14fb2a5890b2ed14fb2a5890b6d3.jpg
     url: /files/original/14fb2a5890b2ed14fb2a5890b6d3.jpg
+    alt:
+      en: "Three men in dark coveralls and t-shirts, one wearing a USCG patch and another a black hat, stand on a loading dock beside an open roll-up door, with a \"Sign In/Out Log\" notice visible nearby."
 geo:
 id: 4001
 item_type: Still Image

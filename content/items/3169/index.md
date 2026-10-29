@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (21).JPG
     thumb: /files/thumbnails/14fb2a5d895e8114fb2a5d896266.jpg
     url: /files/original/14fb2a5d895e8114fb2a5d896266.jpg
+    alt:
+      en: "Damaged brick building with broken storefront windows, reading \"...Cola Bottling Co... T...,\" overgrown shrubs lining the sidewalk in front."
 geo:
 id: 3169
 item_type: Still Image

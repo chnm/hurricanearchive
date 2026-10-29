@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 070.jpg
     thumb: /files/thumbnails/14fb2a12892e0c14fb2a128930d9.jpg
     url: /files/original/14fb2a12892e0c14fb2a128930d9.jpg
+    alt:
+      en: "Empty, cracked parking lot with a boat and chairs stranded on the pavement, facing a gated entrance reading \"EXIT AFTER 7th RACE,\" with trees and a building beyond."
 geo:
 id: 19160
 item_type: Still Image

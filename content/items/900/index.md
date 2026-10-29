@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28116.jpg
     thumb: /files/thumbnails/14fb2a6c61c8f214fb2a6c61d121.jpg
     url: /files/original/14fb2a6c61c8f214fb2a6c61d121.jpg
+    alt:
+      en: "A crane sits atop a concrete bridge over the 17th Street Canal as two workers in a small motorboat approach a gravel embankment at the breach site in Lakeview, New Orleans."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0078H.JPG
     thumb: /files/thumbnails/14fb2a03c4fb1c14fb2a03c4fef7.jpg
     url: /files/original/14fb2a03c4fb1c14fb2a03c4fef7.jpg
+    alt:
+      en: "Nighttime scene at a wooden counter with a man in a \"St. Rest\" t-shirt in the foreground, a man in military fatigues sorting items at the counter, and a woman leaning on the counter in the background, with beer bottles and orange fabric scattered on the surface."
 geo:
 id: 20787
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: katrina 057.jpg
     thumb: /files/thumbnails/14fb29fbbe175d14fb29fbbe1b49.jpg
     url: /files/original/14fb29fbbe175d14fb29fbbe1b49.jpg
+    alt:
+      en: "Four men in military camouflage and brown t-shirts pose near the open rear ramp of a large aircraft at night, with a timestamp reading \"5 9:46 PM\" in the corner."
 geo:
 id: 21787
 item_type: Still Image

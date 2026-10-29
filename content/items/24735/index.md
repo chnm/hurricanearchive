@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-14-12Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e54b0dc214fb29e54b11a1.jpg
     url: /files/original/14fb29e54b0dc214fb29e54b11a1.jpg
+    alt:
+      en: "Floodwater submerges a parking area with several partially submerged cars under an elevated covered structure, viewed from a boat in the foreground."
 geo:
 id: 24735
 item_type: Still Image

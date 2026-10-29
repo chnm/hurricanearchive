@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0030.JPG
     thumb: /files/thumbnails/14fb2a5821346f14fb2a5821384f.jpg
     url: /files/original/14fb2a5821346f14fb2a5821384f.jpg
+    alt:
+      en: "A long low bridge spanning open water with several collapsed sections, their roadway slabs tilted and partially submerged, breaking the span's continuity."
 geo:
 id: 4072
 item_type: Still Image

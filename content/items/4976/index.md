@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0321.JPG
     thumb: /files/thumbnails/14fb2a54a9eebe14fb2a54a9f2a4.jpg
     url: /files/original/14fb2a54a9eebe14fb2a54a9f2a4.jpg
+    alt:
+      en: "A yellow tape measure stretches across wooden deck boards next to a cinder block wall, with soil and debris visible in the gap below."
 geo:
 id: 4976
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.137.JPG
     thumb: /files/thumbnails/14fb29dcdd372214fb29dcdd3b08.jpg
     url: /files/original/14fb29dcdd372214fb29dcdd3b08.jpg
+    alt:
+      en: "Two people stand on a rocky riverbank watching a large gray military-style cargo ship with its bow door open, docked on a wide river with industrial buildings in the hazy background."
 geo:
 id: 25658
 item_type: Still Image

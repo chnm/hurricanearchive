@@ -26,6 +26,8 @@ files:
     original_filename: passchristian_07590e4aa9.jpg
     thumb: /files/thumbnails/14fb2a705e9eb614fb2a705ea2ad.jpg
     url: /files/original/14fb2a705e9eb614fb2a705ea2ad.jpg
+    alt:
+      en: "Vast field of storm debris—bricks, twisted metal, and splintered wood—surrounds a partially collapsed building with a red metal roof, under a clear blue sky in Pass Christian, MS."
 geo:
   address: ''
   lat: 30.3396948489742

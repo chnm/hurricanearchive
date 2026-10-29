@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (9).JPG
     thumb: /files/thumbnails/14fb2a5df25dd514fb2a5df262f8.jpg
     url: /files/original/14fb2a5df25dd514fb2a5df262f8.jpg
+    alt:
+      en: "Interior of a military-style tent shelter with cots, duffel bags, and footlockers on the floor, camouflage jackets and towels hanging from an overhead support bar, and a person resting on a cot in the background."
 geo:
 id: 3104
 item_type: Still Image

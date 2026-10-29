@@ -21,6 +21,8 @@ files:
     original_filename: dawn courtyard2.jpg
     thumb: /files/thumbnails/14fb2a2088877514fb2a20888b62.jpg
     url: /files/original/14fb2a2088877514fb2a20888b62.jpg
+    alt:
+      en: "Heavy wind-driven rain obscures a paved courtyard with light poles, a metal pergola structure, potted plants, and trees in the background, with water streaking across the camera lens."
 geo:
 id: 13083
 item_type: Still Image

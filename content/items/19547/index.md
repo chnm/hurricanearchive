@@ -21,6 +21,8 @@ files:
     original_filename: S4300001zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f4d937014fb2a0f4d9772.jpg
     url: /files/original/14fb2a0f4d937014fb2a0f4d9772.jpg
+    alt:
+      en: "A group of soldiers in camouflage uniforms stands in formation on grass outside a large metal warehouse building, facing a soldier holding a clipboard."
 geo:
 id: 19547
 item_type: Still Image

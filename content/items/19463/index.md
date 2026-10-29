@@ -21,6 +21,8 @@ files:
     original_filename: Picture 023engineers.jpg
     thumb: /files/thumbnails/14fb2a0fe1ac0e14fb2a0fe1aff4.jpg
     url: /files/original/14fb2a0fe1ac0e14fb2a0fe1aff4.jpg
+    alt:
+      en: "A man in camouflage pants and an orange life vest carries a young child while standing in a boat beside a flooded house, with water submerging the lower levels and surrounding trees."
 geo:
 id: 19463
 item_type: Still Image

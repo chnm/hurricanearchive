@@ -21,6 +21,8 @@ files:
     original_filename: Inprocessingdelaware.jpg
     thumb: /files/thumbnails/14fb29f13cb5ce14fb29f13cb9b1.jpg
     url: /files/original/14fb29f13cb5ce14fb29f13cb9b1.jpg
+    alt:
+      en: "Rows of empty folding chairs fill a hangar as uniformed National Guard members stand and sit nearby beneath a mural reading \"DE ARNG AVIATION\" and a banner saluting Guard and Reserve members."
 geo:
 id: 23177
 item_type: Still Image

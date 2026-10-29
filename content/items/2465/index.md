@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8487.jpg
     thumb: /files/thumbnails/14fb2a66474e1a14fb2a6647521d.jpg
     url: /files/original/14fb2a66474e1a14fb2a6647521d.jpg
+    alt:
+      en: "Large pile of house debris—insulation, drywall, and wood—sits in front of a gutted brick house, with a hand-painted sign reading \"GUTTING 352-9003\" propped against the wreckage."
 geo:
 id: 2465
 item_type: Still Image

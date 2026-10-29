@@ -23,6 +23,8 @@ files:
     original_filename: Katrina 8_1b4481945a.jpg
     thumb: /files/thumbnails/14fb29c2c0dfab14fb29c2c0fefb.jpg
     url: /files/original/14fb29c2c0dfab14fb29c2c0fefb.jpg
+    alt:
+      en: "Brick church building with a cross on its tower, an American flag mounted on the corner wall, and a chain-link fence in front; a damaged house roof is visible in the background."
 geo:
   address: ''
   lat: 29.97152

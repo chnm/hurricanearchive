@@ -26,6 +26,8 @@ files:
     original_filename: 100_5178_3b99bfca1d.JPG
     thumb: /files/thumbnails/14fb2a7119f4e814fb2a7119f8ce.jpg
     url: /files/original/14fb2a7119f4e814fb2a7119f8ce.jpg
+    alt:
+      en: "A massive pile of storm debris—broken branches and uprooted trees—towers behind a brick-and-iron fence and green shrubs, with a timestamp reading 09/12/2005 in the corner."
 geo:
   address: ''
   lat: 30.005653

@@ -21,6 +21,8 @@ files:
     original_filename: Support around the Superdomesuperdome.jpg
     thumb: /files/thumbnails/14fb29dde2d04b14fb29dde2d7d3.jpg
     url: /files/original/14fb29dde2d04b14fb29dde2d7d3.jpg
+    alt:
+      en: "Large domed stadium with a curved, paneled exterior under a clear sky, a tall light pole in the foreground, and vehicles and tents gathered at its base."
 geo:
 id: 25424
 item_type: Still Image

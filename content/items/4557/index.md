@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0759.JPG
     thumb: /files/thumbnails/14fb2a57027a6114fb2a57027e3f.jpg
     url: /files/original/14fb2a57027a6114fb2a57027e3f.jpg
+    alt:
+      en: "Skeletal wooden frame of a destroyed building stands amid scattered debris, with a black metal fence in the foreground and trees in the background under a blue sky."
 geo:
 id: 4557
 item_type: Still Image

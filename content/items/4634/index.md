@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0563.JPG
     thumb: /files/thumbnails/14fb2a569a259814fb2a569a297d.jpg
     url: /files/original/14fb2a569a259814fb2a569a297d.jpg
+    alt:
+      en: "A yellow tape measure extends vertically along a concrete slab edge, measuring approximately 18 inches, with scattered debris, dried leaves, and a metal bracket visible in the surrounding outdoor area."
 geo:
 id: 4634
 item_type: Still Image

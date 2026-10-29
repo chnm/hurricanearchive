@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0212.JPG
     thumb: /files/thumbnails/14fb2a550acae014fb2a550acec6.jpg
     url: /files/original/14fb2a550acae014fb2a550acec6.jpg
+    alt:
+      en: "A fallen mailbox lies toppled beside its post amid scattered debris and litter in a patchy grass and dirt lot, with a cloth or fabric item draped nearby."
 geo:
 id: 4893
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27905.jpg
     thumb: /files/thumbnails/14fb2a6b52f94014fb2a6b52fd32.jpg
     url: /files/original/14fb2a6b52f94014fb2a6b52fd32.jpg
+    alt:
+      en: "Two large piles of white sandbags sit on a grassy lot near an open manhole, with a striped barricade nearby and a low commercial building and power lines in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0180-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a007d12a414fb2a007d1688.jpg
     url: /files/original/14fb2a007d12a414fb2a007d1688.jpg
+    alt:
+      en: "Aerial view of a flooded, storm-ravaged neighborhood with collapsed and displaced houses, scattered debris, standing water, and surrounding trees under a hazy sky."
 geo:
 id: 21119
 item_type: Still Image

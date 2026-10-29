@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29e9dcb87814fb29e9dcbc54.jpg
     url: /files/original/14fb29e9dcb87814fb29e9dcbc54.jpg
+    alt:
+      en: "Empty street at the \"Jackson Barracks\" sign, with damaged vehicles piled near a brick building, dead grass, downed palm fronds, and a \"5-Star Car Wash Entrance\" sign amid storm debris."
 geo:
 id: 24196
 item_type: Still Image

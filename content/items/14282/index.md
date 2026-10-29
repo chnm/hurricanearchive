@@ -21,6 +21,8 @@ files:
     original_filename: aerials122.jpg
     thumb: /files/thumbnails/14fb2a1a3b6c0714fb2a1a3b72b6.jpg
     url: /files/original/14fb2a1a3b6c0714fb2a1a3b72b6.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with collapsed roofs and debris scattered among a stand of trees, with a standing water pool and dirt road nearby."
 geo:
 id: 14282
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1946superdome.JPG
     thumb: /files/thumbnails/14fb29e04be65614fb29e04bf152.jpg
     url: /files/original/14fb29e04be65614fb29e04bf152.jpg
+    alt:
+      en: "A U.S. Army Chinook helicopter sits on a tarmac with its rear ramp lowered while soldiers unload supplies; a building labeled \"LSU Medical Center\" is visible in the background."
 geo:
 id: 25248
 item_type: Still Image

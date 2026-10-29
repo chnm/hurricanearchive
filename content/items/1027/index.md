@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28025.jpg
     thumb: /files/thumbnails/14fb2a6b54b35514fb2a6b54ba53.jpg
     url: /files/original/14fb2a6b54b35514fb2a6b54ba53.jpg
+    alt:
+      en: "Flood debris and standing water surround damaged homes near the 17th Street Canal breach in Lakeview, New Orleans, with a gravel-covered foreground and bare trees under a clear sky."
 geo:
   address: ''
   lat: 0.0

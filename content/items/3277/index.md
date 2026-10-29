@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (4).jpg
     thumb: /files/thumbnails/14fb2a5ccc542b14fb2a5ccc580f.jpg
     url: /files/original/14fb2a5ccc542b14fb2a5ccc580f.jpg
+    alt:
+      en: "Flooded street lined with charred, collapsed debris and storm-damaged trees, standing water reflecting the wreckage and blue sky above."
 geo:
 id: 3277
 item_type: Still Image

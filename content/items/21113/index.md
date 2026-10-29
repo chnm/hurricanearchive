@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0179-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a008d8e6014fb2a008d9246.jpg
     url: /files/original/14fb2a008d8e6014fb2a008d9246.jpg
+    alt:
+      en: "Aerial view of a vertical-lift railroad bridge spanning a river, with a tugboat and barge below, a grassy levee, railroad tracks, and a residential neighborhood in the hazy background."
 geo:
 id: 21113
 item_type: Still Image

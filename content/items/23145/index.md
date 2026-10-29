@@ -21,6 +21,8 @@ files:
     original_filename: 20051001-A-2421S-003mobilePAO.jpg
     thumb: /files/thumbnails/14fb29f154866114fb29f1548b25.jpg
     url: /files/original/14fb29f154866114fb29f1548b25.jpg
+    alt:
+      en: "A woman in a white T-shirt and work gloves clears debris from a damaged room, leaning over a metal bed frame near a blue storage bin amid flood-damaged belongings."
 geo:
 id: 23145
 item_type: Still Image

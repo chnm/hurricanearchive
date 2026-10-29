@@ -21,6 +21,8 @@ files:
     original_filename: S4300037zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ef5bd1014fb2a0ef5c0f5.jpg
     url: /files/original/14fb2a0ef5bd1014fb2a0ef5c0f5.jpg
+    alt:
+      en: "Military personnel load pallets of bottled water into a Black Hawk helicopter marked \"NO STEP,\" with cases of Nestlé Pure Life water stacked on the tarmac nearby."
 geo:
 id: 19583
 item_type: Still Image

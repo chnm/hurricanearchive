@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0286downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1422ccc814fb2a1422d0ad.jpg
     url: /files/original/14fb2a1422ccc814fb2a1422d0ad.jpg
+    alt:
+      en: "Blurred aerial view from an aircraft showing a hazy horizon over a green, built-up landscape with scattered rooftops below a pale blue sky."
 geo:
 id: 18933
 item_type: Still Image

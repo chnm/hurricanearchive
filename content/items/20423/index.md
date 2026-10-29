@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013-9-25.JPG
     thumb: /files/thumbnails/14fb2a079b501e14fb2a079b6c1d.jpg
     url: /files/original/14fb2a079b501e14fb2a079b6c1d.jpg
+    alt:
+      en: "Rows of parked cars with shattered windows and crushed roofs and trunks, parked in a lot near damaged metal buildings with torn, peeled-back roofing under an overcast sky."
 geo:
 id: 20423
 item_type: Still Image

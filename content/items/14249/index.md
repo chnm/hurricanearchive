@@ -21,6 +21,8 @@ files:
     original_filename: _MG_5033-sm_7c63eecedf.jpg
     thumb: /files/thumbnails/14fb2a1a67843314fb2a1a678819.jpg
     url: /files/original/14fb2a1a67843314fb2a1a678819.jpg
+    alt:
+      en: "A tall green bamboo plant stands against a wall, with a person's arm resting beside a photo album showing earlier images of flood-damaged furniture and belongings."
 geo:
 id: 14249
 item_type: Still Image

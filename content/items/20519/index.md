@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027-9-25.JPG
     thumb: /files/thumbnails/14fb2a068d563614fb2a068d5fea.jpg
     url: /files/original/14fb2a068d563614fb2a068d5fea.jpg
+    alt:
+      en: "Aerial view of a flooded landscape surrounding a building with a patchwork-repaired roof, parked trucks nearby, a submerged roadway, and a partially submerged house in the background amid floodwaters and damaged trees."
 geo:
 id: 20519
 item_type: Still Image

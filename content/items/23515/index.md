@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0151abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef24fcce14fb29ef2500a9.jpg
     url: /files/original/14fb29ef24fcce14fb29ef2500a9.jpg
+    alt:
+      en: "Brick chapel building labeled \"Sacred Heart Chapel\" with stained-glass windows and a white statue of Mary, surrounded by storm debris and a fallen utility pole in the foreground."
 geo:
 id: 23515
 item_type: Still Image

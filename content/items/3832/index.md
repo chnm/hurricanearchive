@@ -21,6 +21,8 @@ files:
     original_filename: 100_0123.JPG
     thumb: /files/thumbnails/14fb2a594f10bd14fb2a594f14a3.jpg
     url: /files/original/14fb2a594f10bd14fb2a594f14a3.jpg
+    alt:
+      en: "Elevated wooden platform with a small red-roofed structure stands on pilings above water, surrounded by storm-damaged trees, scattered debris, and a white car abandoned on a dock below."
 geo:
 id: 3832
 item_type: Still Image

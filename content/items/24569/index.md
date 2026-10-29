@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0118-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e68ed1bf14fb29e68ed3d1.jpg
     url: /files/original/14fb29e68ed1bf14fb29e68ed3d1.jpg
+    alt:
+      en: "Aerial view of extensive flooding across flat farmland, with scattered trees, shrubs, and utility poles rising above the submerged fields under a hazy sky."
 geo:
 id: 24569
 item_type: Still Image

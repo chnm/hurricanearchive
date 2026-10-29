@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28012.jpg
     thumb: /files/thumbnails/14fb2a6a992b0914fb2a6a992eee.jpg
     url: /files/original/14fb2a6a992b0914fb2a6a992eee.jpg
+    alt:
+      en: "Row of damaged suburban houses with exposed interiors and debris piles, fronted by a wide expanse of gravel and rubble under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

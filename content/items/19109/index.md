@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 019.jpg
     thumb: /files/thumbnails/14fb2a130763ac14fb2a13076b26.jpg
     url: /files/original/14fb2a130763ac14fb2a13076b26.jpg
+    alt:
+      en: "A handmade wooden sign reading \"3637th Maint Co. Springfield, IL\" stands near stacked bottled water cases and military vehicles under a metal shelter."
 geo:
 id: 19109
 item_type: Still Image

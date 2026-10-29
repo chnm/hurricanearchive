@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (83).JPG
     thumb: /files/thumbnails/14fb2a5d1b0ec714fb2a5d1b12ad.jpg
     url: /files/original/14fb2a5d1b0ec714fb2a5d1b12ad.jpg
+    alt:
+      en: "View from inside a vehicle's windshield showing a dusty, mud-coated red sedan parked on a residential street, with a white house and bare trees in the background under a cloudy sky."
 geo:
 id: 3237
 item_type: Still Image

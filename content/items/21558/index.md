@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0296-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd9b7fd314fb29fd9b83b9.jpg
     url: /files/original/14fb29fd9b7fd314fb29fd9b83b9.jpg
+    alt:
+      en: "Aerial view of a severely flooded sports complex and surrounding neighborhood, with a football field submerged, bleachers partly underwater, and a large warehouse labeled \"Pinnacle Building Systems, LLC\" standing in floodwater."
 geo:
 id: 21558
 item_type: Still Image

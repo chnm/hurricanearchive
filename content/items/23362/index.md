@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0066cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efcc753814fb29efcc7916.jpg
     url: /files/original/14fb29efcc753814fb29efcc7916.jpg
+    alt:
+      en: "Aerial view of a severely storm-damaged commercial complex with roofs torn off and debris scattered, surrounded by floodwater, with scorched marshland and a damaged house in the foreground."
 geo:
 id: 23362
 item_type: Still Image

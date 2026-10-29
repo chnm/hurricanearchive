@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0425-16.JPG
     thumb: /files/thumbnails/14fb29fcc9963e14fb29fcc99a1f.jpg
     url: /files/original/14fb29fcc9963e14fb29fcc99a1f.jpg
+    alt:
+      en: "Aerial view of a coastal neighborhood leveled by hurricane damage, with only scattered foundations, debris fields, and a few surviving trees remaining along a grid of empty streets."
 geo:
 id: 21653
 item_type: Still Image

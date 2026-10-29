@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (15).JPG
     thumb: /files/thumbnails/14fb2a5ddde17814fb2a5dddeb6b.jpg
     url: /files/original/14fb2a5ddde17814fb2a5dddeb6b.jpg
+    alt:
+      en: "Street view from inside a vehicle showing a residential road lined with trees and houses, a STOP sign, a ONE WAY sign, and a guardrail along the roadside."
 geo:
 id: 3112
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efd0bd0f14fb29efd0c0ea.jpg
     url: /files/original/14fb29efd0bd0f14fb29efd0c0ea.jpg
+    alt:
+      en: "A soldier in camouflage uniform with \"U.S. ARMY\" patch stands on a flooded road holding a camera, arms outstretched, amid storm debris with a water tower reading \"CAMERON\" in the background."
 geo:
 id: 23356
 item_type: Still Image

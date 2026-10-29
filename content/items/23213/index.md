@@ -21,6 +21,8 @@ files:
     original_filename: WyattmobilePAO.jpg
     thumb: /files/thumbnails/14fb29f0a6b00914fb29f0a6b3ef.jpg
     url: /files/original/14fb29f0a6b00914fb29f0a6b3ef.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms examine a map together, one pointing to a location, near a doorway labeled \"J-2\" with a laptop visible on a desk nearby."
 geo:
 id: 23213
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012OEP.JPG
     thumb: /files/thumbnails/14fb29f22a298514fb29f22a2d6b.jpg
     url: /files/original/14fb29f22a298514fb29f22a2d6b.jpg
+    alt:
+      en: "Aerial view of a parking lot with a media tent set up with camera equipment and lights, several people standing nearby, two police cars, and multiple civilian vehicles parked along the pavement."
 geo:
 id: 23002
 item_type: Still Image

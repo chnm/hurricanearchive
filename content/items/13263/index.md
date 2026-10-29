@@ -21,6 +21,8 @@ files:
     original_filename: the guys.jpg
     thumb: /files/thumbnails/14fb2a1e79b8e114fb2a1e79bcc6.jpg
     url: /files/original/14fb2a1e79b8e114fb2a1e79bcc6.jpg
+    alt:
+      en: "Two men stand outdoors on grass with camera tripods, one wearing a gray jacket with a camera covered in plastic, the other in a yellow and black rain jacket, under an overcast sky."
 geo:
 id: 13263
 item_type: Still Image

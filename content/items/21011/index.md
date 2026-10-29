@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0168-21.JPG
     thumb: /files/thumbnails/14fb2a0114497814fb2a01144d5d.jpg
     url: /files/original/14fb2a0114497814fb2a01144d5d.jpg
+    alt:
+      en: "A quiet, debris-strewn street lined with trees, a red-roofed building, and piles of yard waste and discarded items along the curb, with a parked van in the distance."
 geo:
 id: 21011
 item_type: Still Image

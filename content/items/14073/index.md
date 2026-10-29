@@ -21,6 +21,8 @@ files:
     original_filename: 20050930003.JPG
     thumb: /files/thumbnails/14fb2a1beaccc314fb2a1bead0a9.jpg
     url: /files/original/14fb2a1beaccc314fb2a1bead0a9.jpg
+    alt:
+      en: "Caution tape cordons off a parking lot in front of the McNeese College of Nursing building, with military trucks, pickup trucks, and supplies like coolers and tables set up nearby."
 geo:
   address: ''
   lat: 0.0

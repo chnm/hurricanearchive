@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0580.JPG
     thumb: /files/thumbnails/14fb2a5678819a14fb2a56788589.jpg
     url: /files/original/14fb2a5678819a14fb2a56788589.jpg
+    alt:
+      en: "Storm-damaged residential street littered with debris, broken trees, and scattered household items, with a dark SUV parked amid the wreckage and houses visible in the background under a clear blue sky."
 geo:
 id: 4651
 item_type: Still Image

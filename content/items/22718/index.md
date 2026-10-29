@@ -21,6 +21,8 @@ files:
     original_filename: PICT0616Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4733e7214fb29f47344da.jpg
     url: /files/original/14fb29f4733e7214fb29f47344da.jpg
+    alt:
+      en: "Large brick building with white columns and a second-floor balcony labeled \"4,\" a sign reading \"Col Dabadie,\" and scattered broken bricks and storm debris on the walkway, dated 09.15.2005."
 geo:
 id: 22718
 item_type: Still Image

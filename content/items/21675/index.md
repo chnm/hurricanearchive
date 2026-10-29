@@ -21,6 +21,8 @@ files:
     original_filename: FH000010-9-23.jpg
     thumb: /files/thumbnails/14fb29fc9edcdb14fb29fc9eeab9.jpg
     url: /files/original/14fb29fc9edcdb14fb29fc9eeab9.jpg
+    alt:
+      en: "Mud-covered lot strewn with debris and fallen branches in front of a long single-story building, with a few parked cars and a water tower visible in the background."
 geo:
 id: 21675
 item_type: Still Image

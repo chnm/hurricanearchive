@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eff9cef414fb29eff9d2e4.jpg
     url: /files/original/14fb29eff9cef414fb29eff9d2e4.jpg
+    alt:
+      en: "A wood-paneled single-story house with a green roof and covered porch stands surrounded by floodwater that reaches nearly to its windows, with trees and power lines visible in the background."
 geo:
 id: 23318
 item_type: Still Image

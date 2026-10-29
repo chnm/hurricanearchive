@@ -21,6 +21,8 @@ files:
     original_filename: Picture 134cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b9a45fd14fb2a0b9a49e1.jpg
     url: /files/original/14fb2a0b9a45fd14fb2a0b9a49e1.jpg
+    alt:
+      en: "A grounded blue tugboat labeled \"MISS LOLLY\" and \"NEW ORLEANS, LA\" rests on grass, its bow fitted with large black tire bumpers, with a stranded white boat visible in the background."
 geo:
 id: 20037
 item_type: Still Image

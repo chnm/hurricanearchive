@@ -24,6 +24,8 @@ files:
     original_filename: P1010013.JPG
     thumb: /files/thumbnails/14fb2a5baccf9b14fb2a5bacd381.jpg
     url: /files/original/14fb2a5baccf9b14fb2a5bacd381.jpg
+    alt:
+      en: "Brick ranch house with a tarp-patched roof sits behind a large pile of storm debris on the curb, including insulation, drywall, wood scraps, and a discarded dresser."
 geo:
 id: 3447
 item_type: Still Image

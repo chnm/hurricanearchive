@@ -21,6 +21,8 @@ files:
     original_filename: 60.jpg
     thumb: /files/thumbnails/14fb2a604ad1dc14fb2a604ad5c2.jpg
     url: /files/original/14fb2a604ad1dc14fb2a604ad5c2.jpg
+    alt:
+      en: "Child's crayon drawing of a large pink heart in the sky with sun, clouds, and birds, flanked by trees and grass, above a blue pond with two turtle-like figures and fish; signed \"Shermanika, 9 year old.\""
 geo:
 id: 2765
 item_type: Still Image

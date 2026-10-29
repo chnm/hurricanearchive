@@ -21,6 +21,8 @@ files:
     original_filename: S4300018zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f2cf15c14fb2a0f2cf542.jpg
     url: /files/original/14fb2a0f2cf15c14fb2a0f2cf542.jpg
+    alt:
+      en: "Two men in camouflage caps and tan T-shirts stand in a parking lot, one holding a handheld radio to his ear, with white U.S. Xpress semi-trailers parked in the background."
 geo:
 id: 19564
 item_type: Still Image

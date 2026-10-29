@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7105_745da51cc7.jpg
     thumb: /files/thumbnails/14fb29d38a904c14fb29d38a9431.jpg
     url: /files/original/14fb29d38a904c14fb29d38a9431.jpg
+    alt:
+      en: "Four family members in Santa hats pose for a photo standing in a roof dormer of a house decorated with Christmas wreaths, with a porch and tree visible below."
 geo:
   address: ''
   lat: 29.91685

@@ -21,6 +21,8 @@ files:
     original_filename: aerials62.jpg
     thumb: /files/thumbnails/14fb2a19aa105d14fb2a19aa1443.jpg
     url: /files/original/14fb2a19aa105d14fb2a19aa1443.jpg
+    alt:
+      en: "Aerial view of a storm-ravaged coastline with debris-strewn beaches, scattered bare trees, and murky waters bordering a damaged shoreline."
 geo:
 id: 14352
 item_type: Still Image

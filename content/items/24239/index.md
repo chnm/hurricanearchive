@@ -21,6 +21,8 @@ files:
     original_filename: 09140020.JPG
     thumb: /files/thumbnails/14fb29e978130f14fb29e97817ea.jpg
     url: /files/original/14fb29e978130f14fb29e97817ea.jpg
+    alt:
+      en: "Brick building with inscription \"Louisiana National Guard\" above the entrance, with several parked vehicles, including a military Humvee, in front and debris piled along the left side of the lot."
 geo:
 id: 24239
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2100superdome.JPG
     thumb: /files/thumbnails/14fb29e4c813cb14fb29e4c817ae.jpg
     url: /files/original/14fb29e4c813cb14fb29e4c817ae.jpg
+    alt:
+      en: "High-rise buildings with numerous broken or boarded windows, including a tall brick-and-glass tower in the foreground and a cluster of office towers with a \"Hyatt\" sign in the background, under an overcast sky."
 geo:
 id: 24778
 item_type: Still Image

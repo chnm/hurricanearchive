@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58bd424914fb2a58bd464f.jpg
     url: /files/original/14fb2a58bd424914fb2a58bd464f.jpg
+    alt:
+      en: "A line of uniformed Coast Guard personnel stands outside a large tent, with a man in a light blue shirt shaking hands along the line as onlookers take photos; timestamp reads 3:55 PM."
 geo:
 id: 3959
 item_type: Still Image

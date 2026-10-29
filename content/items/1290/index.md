@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28059.jpg
     thumb: /files/thumbnails/14fb2a69d39a1114fb2a69d39df7.jpg
     url: /files/original/14fb2a69d39a1114fb2a69d39df7.jpg
+    alt:
+      en: "A man in a cap and tan work clothes crouches on cracked, muddy ground, examining a green toy castle amid debris, with a large tank, concrete block, and damaged buildings in the background."
 geo:
   address: ''
   lat: 0.0

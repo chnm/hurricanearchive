@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.055.JPG
     thumb: /files/thumbnails/14fb29dcf6198814fb29dcf61d4e.jpg
     url: /files/original/14fb29dcf6198814fb29dcf61d4e.jpg
+    alt:
+      en: "A man in a flat cap plays chess with a young boy at a folding table set with a hand sanitizer bottle and decorative vase, inside a hall filled with empty tables and chairs."
 geo:
 id: 25634
 item_type: Still Image

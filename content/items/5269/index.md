@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0714.JPG
     thumb: /files/thumbnails/14fb2a5318ae7114fb2a5318b570.jpg
     url: /files/original/14fb2a5318ae7114fb2a5318b570.jpg
+    alt:
+      en: "Aluminum boat with license plate \"LA 4390 EG\" parked near uprooted trees and storm debris, with a dense forest of thin trees in the background."
 geo:
 id: 5269
 item_type: Still Image

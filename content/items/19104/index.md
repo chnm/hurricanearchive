@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 014.jpg
     thumb: /files/thumbnails/14fb2a130bfa3b14fb2a130c06e6.jpg
     url: /files/original/14fb2a130bfa3b14fb2a130c06e6.jpg
+    alt:
+      en: "A military helicopter marked \"613\" sits on a paved pad with three uniformed personnel standing near its tail, surrounded by a grassy field, white event tents, and trees in the background."
 geo:
 id: 19104
 item_type: Still Image

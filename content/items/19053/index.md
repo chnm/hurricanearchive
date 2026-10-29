@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064.JPG
     thumb: /files/thumbnails/14fb2a137d4bcc14fb2a137d50b3.jpg
     url: /files/original/14fb2a137d4bcc14fb2a137d50b3.jpg
+    alt:
+      en: "Aerial view of a large military helicopter marked \"MARINES\" parked in a grassy, circular landing area, with several people standing near its landing gear and scattered debris nearby."
 geo:
 id: 19053
 item_type: Still Image

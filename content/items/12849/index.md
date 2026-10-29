@@ -21,6 +21,8 @@ files:
     original_filename: Bulldozed streets, Lower 9th ward north of Claiborne.jpg
     thumb: /files/thumbnails/14fb2a2173527514fb2a2173565c.jpg
     url: /files/original/14fb2a2173527514fb2a2173565c.jpg
+    alt:
+      en: "Debris-strewn street lined with damaged utility poles and leaning power lines, with wrecked houses and scattered rubble on both sides under a clear sky."
 geo:
 id: 12849
 item_type: Still Image

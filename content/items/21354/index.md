@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0234.JPG
     thumb: /files/thumbnails/14fb29ff40e17114fb29ff40e555.jpg
     url: /files/original/14fb29ff40e17114fb29ff40e555.jpg
+    alt:
+      en: "Aerial view of a severely damaged residential neighborhood with collapsed roofs, scattered debris, overturned trees, and downed power lines lining empty streets."
 geo:
 id: 21354
 item_type: Still Image

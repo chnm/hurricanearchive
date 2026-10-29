@@ -23,6 +23,8 @@ files:
     original_filename: 2326065317_a7b9953fe7.
     thumb: /files/thumbnails/14fb29c9f07ebf14fb29c9f08ce9.jpg
     url: /files/original/14fb29c9f07ebf14fb29c9f08ce9.jpg
+    alt:
+      en: "Floating debris from destroyed homes, including wood planks and scattered household items, covers a body of water with damaged houses and trees along the shoreline under a clear sky."
 geo:
 id: 34458
 item_type: Still Image

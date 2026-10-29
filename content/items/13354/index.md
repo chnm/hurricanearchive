@@ -20,6 +20,8 @@ files:
     original_filename: 104_MG_4823_2617bc4989.jpg
     thumb: /files/thumbnails/14fb2a1e3c82dd14fb2a1e3c86be.jpg
     url: /files/original/14fb2a1e3c82dd14fb2a1e3c86be.jpg
+    alt:
+      en: "Vintage black-and-white wedding portrait of a bride in a veil and gown with the groom and three attendants standing behind a table with a tiered cake, potted palms in the background."
 geo:
 id: 13354
 item_type: Still Image

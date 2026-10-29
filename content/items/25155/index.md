@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1765superdome.JPG
     thumb: /files/thumbnails/14fb29e1d01dbf14fb29e1d02695.jpg
     url: /files/original/14fb29e1d01dbf14fb29e1d02695.jpg
+    alt:
+      en: "Line of military personnel in camouflage uniforms forming a bucket brigade to pass cases of bottled water toward a large military helicopter; one man wears a shirt reading \"TACP CANDIDATE.\""
 geo:
 id: 25155
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: J2 (46).JPG
     thumb: /files/thumbnails/14fb2a111d650014fb2a111d68fe.jpg
     url: /files/original/14fb2a111d650014fb2a111d68fe.jpg
+    alt:
+      en: "Aerial view of a dense urban neighborhood with rows of red-roofed apartment buildings, a cemetery with aboveground tombs, an elevated highway, and scattered commercial buildings, all cast in heavy shadow."
 geo:
 id: 19329
 item_type: Still Image

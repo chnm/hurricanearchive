@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0127abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef42dc2f14fb29ef42e015.jpg
     url: /files/original/14fb29ef42dc2f14fb29ef42e015.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage uniform and cap, wearing sunglasses and carrying a rifle slung over his shoulder, stands on a road with trucks and another person visible in the background."
 geo:
 id: 23480
 item_type: Still Image

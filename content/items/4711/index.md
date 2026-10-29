@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0058.JPG
     thumb: /files/thumbnails/14fb2a5602bc5414fb2a5602c000.jpg
     url: /files/original/14fb2a5602bc5414fb2a5602c000.jpg
+    alt:
+      en: "Cleared dirt lot with scattered debris piles of broken bricks, wood scraps, and rubble in the foreground, with what appears to be an overturned vehicle visible in the background."
 geo:
 id: 4711
 item_type: Still Image

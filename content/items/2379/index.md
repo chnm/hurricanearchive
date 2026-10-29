@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C8S_c5eef51233.jpg
     thumb: /files/thumbnails/14fb2a66ce42f214fb2a66ce46b9.jpg
     url: /files/original/14fb2a66ce42f214fb2a66ce46b9.jpg
+    alt:
+      en: "Coast Guard personnel in orange vests, helmets, and headgear carry a small boat along a muddy shoreline amid storm-damaged terrain, with \"U.S. COAST GUARD\" printed on one worker's vest."
 geo:
 id: 2379
 item_type: Still Image

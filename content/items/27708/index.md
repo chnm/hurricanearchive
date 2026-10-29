@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6624_daf0b62c2b.JPG
     thumb: /files/thumbnails/14fb29d2c48a1b14fb29d2c48dff.jpg
     url: /files/original/14fb29d2c48a1b14fb29d2c48dff.jpg
+    alt:
+      en: "A crowded Mardi Gras parade scene with spectators atop a wall reaching for beads, many wearing pink shirts, while others below raise their arms amid colorful streamers and debris."
 geo:
   address: ''
   lat: 29.95493

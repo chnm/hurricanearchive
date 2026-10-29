@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0271.JPG
     thumb: /files/thumbnails/14fb2a54ea214514fb2a54ea3536.jpg
     url: /files/original/14fb2a54ea214514fb2a54ea3536.jpg
+    alt:
+      en: "Water-stained ceiling with visible cracks, discoloration, and a patched area, as well as a ceiling fan with light fixture mounted below, in a room with crown molding visible at the edges."
 geo:
 id: 4929
 item_type: Still Image

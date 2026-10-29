@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0366.JPG
     thumb: /files/thumbnails/14fb2a5464abdd14fb2a5464afed.jpg
     url: /files/original/14fb2a5464abdd14fb2a5464afed.jpg
+    alt:
+      en: "A yellow tape measure spans across stacked wooden boards and beams on the ground, surrounded by dry leaves, pine needles, a pinecone, and patches of grass."
 geo:
 id: 5021
 item_type: Still Image

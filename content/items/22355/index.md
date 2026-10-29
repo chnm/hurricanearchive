@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1171Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f710394214fb29f7103e0d.jpg
     url: /files/original/14fb29f710394214fb29f7103e0d.jpg
+    alt:
+      en: "Floodwater surrounds brick gateposts, a lamppost, and an iron fence in front of a brick building, viewed through rain-streaked air and overhanging tree branches."
 geo:
 id: 22355
 item_type: Still Image

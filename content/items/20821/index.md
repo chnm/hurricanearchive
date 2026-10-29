@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0085H.JPG
     thumb: /files/thumbnails/14fb2a03809a8414fb2a0380a8e4.jpg
     url: /files/original/14fb2a03809a8414fb2a0380a8e4.jpg
+    alt:
+      en: "A man in military camouflage fatigues pins something onto the strap of a young woman's white tank top, with string lights glowing against a dark background behind them."
 geo:
 id: 20821
 item_type: Still Image

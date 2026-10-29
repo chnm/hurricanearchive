@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28282.jpg
     thumb: /files/thumbnails/14fb2a687e9d5614fb2a687ea141.jpg
     url: /files/original/14fb2a687e9d5614fb2a687ea141.jpg
+    alt:
+      en: "Four people stand before a storm-damaged building with exposed steel framing, surrounded by debris, leafless trees, and twisted metal wreckage, likely hurricane aftermath."
 geo:
   address: ''
   lat: 0.0

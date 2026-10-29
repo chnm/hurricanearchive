@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1583superdome.JPG
     thumb: /files/thumbnails/14fb29e29b094414fb29e29b2a7e.jpg
     url: /files/original/14fb29e29b094414fb29e29b2a7e.jpg
+    alt:
+      en: "A convoy of military Humvees and trucks drives through standing floodwater, with a soldier in the lead vehicle making a peace sign through the windshield."
 geo:
 id: 25058
 item_type: Still Image

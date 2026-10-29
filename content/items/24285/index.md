@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-05-4A.jpg
     thumb: /files/thumbnails/14fb29e90b180714fb29e90b1c1d.jpg
     url: /files/original/14fb29e90b180714fb29e90b1c1d.jpg
+    alt:
+      en: "A group of soldiers in camouflage uniforms forms a line to unload cases of bottled water from a military Black Hawk helicopter parked on a tarmac."
 geo:
 id: 24285
 item_type: Still Image

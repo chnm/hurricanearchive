@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0519.JPG
     thumb: /files/thumbnails/14fb2a53b4fe6f14fb2a53b502bb.jpg
     url: /files/original/14fb2a53b4fe6f14fb2a53b502bb.jpg
+    alt:
+      en: "A yellow tape measure, marked with numbers 1 through 5, stands upright against a cross-section of broken concrete and exposed aggregate, measuring the depth of the damaged edge."
 geo:
 id: 5157
 item_type: Still Image

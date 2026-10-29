@@ -21,6 +21,8 @@ files:
     original_filename: Picture 039cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c3d92c314fb2a0c3d969b.jpg
     url: /files/original/14fb2a0c3d92c314fb2a0c3d969b.jpg
+    alt:
+      en: "Two men in military camouflage uniforms stand on grass near a large tanker truck, one holding a Stihl chainsaw while the other holds a pair of gloves, with a red fuel can visible on the truck bed."
 geo:
 id: 19943
 item_type: Still Image

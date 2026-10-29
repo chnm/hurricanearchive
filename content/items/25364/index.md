@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2091superdome.JPG
     thumb: /files/thumbnails/14fb29dea465a014fb29dea46cc6.jpg
     url: /files/original/14fb29dea465a014fb29dea46cc6.jpg
+    alt:
+      en: "A large military helicopter sits on a wet tarmac with its rear ramp open, personnel in flight suits standing inside, buildings and palm trees visible in the background."
 geo:
 id: 25364
 item_type: Still Image

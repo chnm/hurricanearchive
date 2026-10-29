@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1384Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5874a4a14fb29f5874e2d.jpg
     url: /files/original/14fb29f5874a4a14fb29f5874e2d.jpg
+    alt:
+      en: "Floodwater submerges a chain-link fence and surrounds a brick building with a red doorway visible through trees, under an overcast sky."
 geo:
 id: 22541
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0200.JPG
     thumb: /files/thumbnails/14fb2a590c3ebf14fb2a590c42a3.jpg
     url: /files/original/14fb2a590c3ebf14fb2a590c42a3.jpg
+    alt:
+      en: "Flooded residential street with houses submerged to window level, calm brown water reflecting power lines, utility poles, and surrounding trees under a clear blue sky."
 geo:
 id: 3903
 item_type: Still Image

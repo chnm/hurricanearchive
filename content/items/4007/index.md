@@ -21,6 +21,8 @@ files:
     original_filename: DSC01107.JPG
     thumb: /files/thumbnails/14fb2a588b80f114fb2a588b84d6.jpg
     url: /files/original/14fb2a588b80f114fb2a588b84d6.jpg
+    alt:
+      en: "Two U.S. Coast Guard personnel in life vests navigate an aluminum \"Alumacraft\" boat with a Suzuki outboard motor through floodwaters surrounding a brick house, with trees and buildings partially submerged nearby."
 geo:
 id: 4007
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0178-21.JPG
     thumb: /files/thumbnails/14fb2a00918fd114fb2a009193b4.jpg
     url: /files/original/14fb2a00918fd114fb2a009193b4.jpg
+    alt:
+      en: "A man and woman stand on a street in dim light, with a large columned building, parked cars, and trees visible in the background."
 geo:
 id: 21109
 item_type: Still Image

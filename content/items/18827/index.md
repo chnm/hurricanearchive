@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a1506b68b14fb2a1506ba71.jpg
     url: /files/original/14fb2a1506b68b14fb2a1506ba71.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood with debris-strewn lots, collapsed and roofless houses, standing floodwater, and a levee-lined canal running alongside the area."
 geo:
 id: 18827
 item_type: Still Image

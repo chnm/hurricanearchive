@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28328.jpg
     thumb: /files/thumbnails/14fb2a6a3df3c814fb2a6a3df7aa.jpg
     url: /files/original/14fb2a6a3df3c814fb2a6a3df7aa.jpg
+    alt:
+      en: "Severely damaged building with exposed steel framing and collapsed upper floors, surrounded by scattered debris and twisted metal, with trees and other structures visible in the background."
 geo:
   address: ''
   lat: 0.0

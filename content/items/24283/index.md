@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-03-2A.jpg
     thumb: /files/thumbnails/14fb29e90d5d1214fb29e90d611b.jpg
     url: /files/original/14fb29e90d5d1214fb29e90d611b.jpg
+    alt:
+      en: "A military Black Hawk medevac helicopter hovers low over a parking lot as a uniformed soldier watches from below, with another helicopter, parked vehicles, and bystanders visible nearby."
 geo:
 id: 24283
 item_type: Still Image

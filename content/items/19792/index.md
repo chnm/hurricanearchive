@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of Picture 033cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dccb3bf14fb2a0dccb79f.jpg
     url: /files/original/14fb2a0dccb3bf14fb2a0dccb79f.jpg
+    alt:
+      en: "A group of soldiers in camouflage uniforms gather around a military vehicle's hood, examining a map spread across it, with a multi-story building and trees in the background."
 geo:
 id: 19792
 item_type: Still Image

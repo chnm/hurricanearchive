@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28230.jpg
     thumb: /files/thumbnails/14fb2a6819546014fb2a68195846.jpg
     url: /files/original/14fb2a6819546014fb2a68195846.jpg
+    alt:
+      en: "Large white tent with scalloped edges set up in a parking lot, with a blue \"WAL★MART\" banner tied along its base and one person visible near boxes at the tent's entrance."
 geo:
   address: ''
   lat: 0.0

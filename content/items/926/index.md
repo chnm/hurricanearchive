@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28018.jpg
     thumb: /files/thumbnails/14fb2a6c29934814fb2a6c299b40.jpg
     url: /files/original/14fb2a6c29934814fb2a6c299b40.jpg
+    alt:
+      en: "Debris-strewn lot with damaged houses, uprooted trees, and scattered wreckage in a neighborhood, foreground covered in crushed gravel, under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

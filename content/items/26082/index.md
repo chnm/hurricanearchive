@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7047_ebfeffd38f.jpg
     thumb: /files/thumbnails/14fb29db581a6914fb29db582fc1.jpg
     url: /files/original/14fb29db581a6914fb29db582fc1.jpg
+    alt:
+      en: "Black-and-white photo of a long hallway with an ornate patterned carpet, lined with floral arrangements and ferns, leading to an arched window above double doors at the far end."
 geo:
   address: ''
   lat: 29.87876

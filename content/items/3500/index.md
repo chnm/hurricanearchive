@@ -24,6 +24,8 @@ files:
     original_filename: P1010074.JPG
     thumb: /files/thumbnails/14fb2a5b6225f514fb2a5b6229da.jpg
     url: /files/original/14fb2a5b6225f514fb2a5b6229da.jpg
+    alt:
+      en: "Eroded seawall area along a coastal road, with debris, exposed pipes, a fallen light post base, and a yellow manhole cover scattered across damaged ground; storm-damaged trees line the roadside."
 geo:
 id: 3500
 item_type: Still Image

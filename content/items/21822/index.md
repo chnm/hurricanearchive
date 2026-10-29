@@ -21,6 +21,8 @@ files:
     original_filename: 17th Avenue small.jpg
     thumb: /files/thumbnails/14fb29fb7b295014fb29fb7b2d36.jpg
     url: /files/original/14fb29fb7b295014fb29fb7b2d36.jpg
+    alt:
+      en: "Aerial view of a wide canal dividing two residential neighborhoods, with dense rooftops and tree cover on the left and scattered buildings, debris, and open lots on the right."
 geo:
 id: 21822
 item_type: Still Image

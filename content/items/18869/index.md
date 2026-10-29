@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0085MSriver.JPG
     thumb: /files/thumbnails/14fb2a14cd74f114fb2a14cd789b.jpg
     url: /files/original/14fb2a14cd74f114fb2a14cd789b.jpg
+    alt:
+      en: "Aerial view of a riverfront with a long row of burned, collapsed wooden pilings and docks along the water's edge, a freight train on tracks beside brick warehouses, and a dense residential cityscape extending into the hazy distance."
 geo:
 id: 18869
 item_type: Still Image

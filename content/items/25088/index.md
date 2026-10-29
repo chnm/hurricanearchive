@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1674superdome.JPG
     thumb: /files/thumbnails/14fb29e26d832e14fb29e26d873b.jpg
     url: /files/original/14fb29e26d832e14fb29e26d873b.jpg
+    alt:
+      en: "Rows of soldiers in camouflage uniforms with \"MP\" armbands march in formation outdoors near a covered structure, with a school bus and highway signage visible in the background."
 geo:
 id: 25088
 item_type: Still Image

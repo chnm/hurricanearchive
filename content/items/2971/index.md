@@ -21,6 +21,8 @@ files:
     original_filename: MVC-026S.JPG
     thumb: /files/thumbnails/14fb2a5f430f5d14fb2a5f4311bb.jpg
     url: /files/original/14fb2a5f430f5d14fb2a5f4311bb.jpg
+    alt:
+      en: "Close-up of a blue aircraft's damaged wing and red underbelly section with torn, crumpled metal, parked on tarmac; a twin-engine propeller plane sits in the background."
 geo:
 id: 2971
 item_type: Still Image

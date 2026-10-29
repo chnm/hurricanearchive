@@ -26,6 +26,8 @@ files:
     original_filename: 004_02_a740646339.jpg
     thumb: /files/thumbnails/14fb2a6de9d90614fb2a6de9de7d.jpg
     url: /files/original/14fb2a6de9d90614fb2a6de9de7d.jpg
+    alt:
+      en: "A damaged single-story house with a sagging roof and a refrigerator lodged on top, spray-painted search markings on the front, and a damaged blue car parked outside."
 geo:
   address: ''
   lat: 0.0

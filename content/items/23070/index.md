@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0080OEP.JPG
     thumb: /files/thumbnails/14fb29f1a4c37314fb29f1a4c74d.jpg
     url: /files/original/14fb29f1a4c37314fb29f1a4c74d.jpg
+    alt:
+      en: "Two men sit on stools under a canvas canopy outdoors, one in military camouflage uniform gesturing while speaking, the other in a white t-shirt and jeans holding a recorder, with a parking lot visible behind them."
 geo:
 id: 23070
 item_type: Still Image

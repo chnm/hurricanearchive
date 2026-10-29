@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27917.jpg
     thumb: /files/thumbnails/14fb2a670848d214fb2a670858c6.jpg
     url: /files/original/14fb2a670848d214fb2a670858c6.jpg
+    alt:
+      en: "Plywood board spray-painted with \"MEAN ONE,\" a large X marked over \"DEA,\" \"NE,\" and \"O\" with \"9-13\" above, and \"GONE FOR SAFT\" written below."
 geo:
   address: ''
   lat: 0.0

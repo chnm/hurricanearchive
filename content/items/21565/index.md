@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0301-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd8643bf14fb29fd86457c.jpg
     url: /files/original/14fb29fd8643bf14fb29fd86457c.jpg
+    alt:
+      en: "Aerial view of a flooded town with a water tower labeled \"ERATH,\" submerged houses and a church, a partially visible cemetery, and surrounding farmland covered by floodwater."
 geo:
 id: 21565
 item_type: Still Image

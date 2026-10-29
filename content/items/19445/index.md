@@ -21,6 +21,8 @@ files:
     original_filename: Picture 005engineers.jpg
     thumb: /files/thumbnails/14fb2a0ff6005514fb2a0ff60432.jpg
     url: /files/original/14fb2a0ff6005514fb2a0ff60432.jpg
+    alt:
+      en: "A man in military fatigues operates a Takeuchi compact track loader along a flooded roadside lined with downed trees and debris, with another person walking in the background."
 geo:
 id: 19445
 item_type: Still Image

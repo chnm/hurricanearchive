@@ -24,6 +24,8 @@ files:
     original_filename: Official Visit
     thumb: /files/thumbnails/14fb2a58d5c29714fb2a58d5c672.jpg
     url: /files/original/14fb2a58d5c29714fb2a58d5c672.jpg
+    alt:
+      en: "A woman in a gray collared shirt is seen in profile amid a crowd of press and photographers, with a large truck labeled \"Mobile Shower Unit\" and portable toilets in the background."
 geo:
 id: 3934
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: Rita1_2019_55516437dc.jpg
     thumb: /files/thumbnails/14fb2a6fbc6fa814fb2a6fbc7397.jpg
     url: /files/original/14fb2a6fbc6fa814fb2a6fbc7397.jpg
+    alt:
+      en: "A large white cylindrical fuel tank, rusted and overturned, lies on its side amid brush along Hwy. 56, its end panel reading \"DYED DIESEL FUEL, NON TAXABLE USE ONLY, PENALTY FOR TAXABLE USE.\""
 geo:
   address: ''
   lat: 29.3654207394138

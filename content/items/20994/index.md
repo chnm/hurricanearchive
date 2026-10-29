@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0165-16.JPG
     thumb: /files/thumbnails/14fb2a01275d3b14fb2a012761ff.jpg
     url: /files/original/14fb2a01275d3b14fb2a012761ff.jpg
+    alt:
+      en: "Aerial view of industrial storage tanks with connecting pipelines beside dark, oil-slicked water, with scattered debris along a muddy embankment."
 geo:
 id: 20994
 item_type: Still Image

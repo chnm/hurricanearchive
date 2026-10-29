@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0198.JPG
     thumb: /files/thumbnails/14fb2a551309f914fb2a55130dd8.jpg
     url: /files/original/14fb2a551309f914fb2a55130dd8.jpg
+    alt:
+      en: "A yellow tape measure stretched across a wooden post, marking inches from 1 to 6, with a knot and latticework visible in the background."
 geo:
 id: 4879
 item_type: Still Image

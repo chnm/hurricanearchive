@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0045media.JPG
     thumb: /files/thumbnails/14fb29f2965aac14fb29f2967617.jpg
     url: /files/original/14fb29f2965aac14fb29f2967617.jpg
+    alt:
+      en: "Aerial view from a helicopter, with the silhouette of a crew member's helmeted head in the foreground, looking down on a canal lined with construction equipment, a partially built floodwall, and surrounding neighborhoods."
 geo:
 id: 22939
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6531_8cf66a7df9.jpg
     thumb: /files/thumbnails/14fb29d4027a0314fb29d4027d5d.jpg
     url: /files/original/14fb29d4027a0314fb29d4027d5d.jpg
+    alt:
+      en: "A young girl in a floral nightgown stands smiling near a table displaying Easter gifts, including a \"Littlest Pet Shop\" Snuggle Bunny set and a \"My Stickers\" fun pack, in a room with pink wallpaper and curtains."
 geo:
   address: ''
   lat: 29.91685

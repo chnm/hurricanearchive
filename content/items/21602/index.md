@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0335-16.JPG
     thumb: /files/thumbnails/14fb29fd2c56a314fb29fd2c5a88.jpg
     url: /files/original/14fb29fd2c56a314fb29fd2c5a88.jpg
+    alt:
+      en: "Storm-damaged residential street with brick houses, a bent stop sign, downed tree branches and debris scattered across dead lawns, and a fire hydrant in the foreground."
 geo:
 id: 21602
 item_type: Still Image

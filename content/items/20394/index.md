@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009.JPG
     thumb: /files/thumbnails/14fb2a080afdc314fb2a080b01a8.jpg
     url: /files/original/14fb2a080afdc314fb2a080b01a8.jpg
+    alt:
+      en: "A woman in a denim jacket holds a water bottle while seated at a desk with a laptop, another person partially visible in the foreground."
 geo:
 id: 20394
 item_type: Still Image

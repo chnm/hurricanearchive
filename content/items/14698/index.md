@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_CarlRobinson_02_42f8160b9d.jpg
     thumb: /files/thumbnails/14fb2a18194cbc14fb2a181950a3.jpg
     url: /files/original/14fb2a18194cbc14fb2a181950a3.jpg
+    alt:
+      en: "Family of four poses outdoors beside a yellow car, with the parents standing and holding their two young sons, both dressed in matching argyle sweater vests."
 geo:
 id: 14698
 item_type: Still Image

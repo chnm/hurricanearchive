@@ -20,6 +20,8 @@ files:
     original_filename: 2297830707_21892c0b25.
     thumb: /files/thumbnails/14fb29c7cd1c0814fb29c7cd1fee.jpg
     url: /files/original/14fb29c7cd1c0814fb29c7cd1fee.jpg
+    alt:
+      en: "Large pile of discarded bicycles stacked behind a chain-link fence, with two people standing nearby and a traffic barrel; a \"Werner Enterprises\" trailer is visible in the background."
 geo:
 id: 35001
 item_type: Still Image

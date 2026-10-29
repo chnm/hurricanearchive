@@ -21,6 +21,8 @@ files:
     original_filename: Picture 218cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b2f35f514fb2a0b2f39db.jpg
     url: /files/original/14fb2a0b2f35f514fb2a0b2f39db.jpg
+    alt:
+      en: "A suburban street lined with brick homes and large oak trees, debris piled along the curb, with a military truck parked near the roadside under a clear blue sky."
 geo:
 id: 20121
 item_type: Still Image

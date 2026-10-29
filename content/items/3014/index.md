@@ -21,6 +21,8 @@ files:
     original_filename: 100_0263.JPG
     thumb: /files/thumbnails/14fb2a5edba7bc14fb2a5edbac3f.jpg
     url: /files/original/14fb2a5edba7bc14fb2a5edbac3f.jpg
+    alt:
+      en: "Close-up of a large ship's dark hull marked \"228,\" showing draft marking numbers, portholes, and significant rust damage with jagged holes breached through the metal plating."
 geo:
 id: 3014
 item_type: Still Image

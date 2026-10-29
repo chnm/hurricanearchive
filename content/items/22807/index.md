@@ -21,6 +21,8 @@ files:
     original_filename: DSC 007517thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f37a917b14fb29f37a9560.jpg
     url: /files/original/14fb29f37a917b14fb29f37a9560.jpg
+    alt:
+      en: "Aerial view of a muddy canal flowing into a large body of water, flanked by grassy levees, a bridge, roadways, and nearby residential buildings."
 geo:
 id: 22807
 item_type: Still Image

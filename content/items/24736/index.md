@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-24-22Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e54a757414fb29e54a7959.jpg
     url: /files/original/14fb29e54a757414fb29e54a7959.jpg
+    alt:
+      en: "Parking lot staging area with military trucks, helicopters, and emergency vehicles; soldiers stand near a truck while folding tables, cardboard boxes, and wooden pallets sit in the foreground."
 geo:
 id: 24736
 item_type: Still Image

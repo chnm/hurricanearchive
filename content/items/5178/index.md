@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0540.JPG
     thumb: /files/thumbnails/14fb2a537cbc7c14fb2a537cf179.jpg
     url: /files/original/14fb2a537cbc7c14fb2a537cf179.jpg
+    alt:
+      en: "A yellow tape measure hangs vertically against wooden beams of a damaged structure, with chicken wire fencing and support posts visible against a clear blue sky below."
 geo:
 id: 5178
 item_type: Still Image

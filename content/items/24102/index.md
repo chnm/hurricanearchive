@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ead7e88914fb29ead7ee96.jpg
     url: /files/original/14fb29ead7e88914fb29ead7ee96.jpg
+    alt:
+      en: "Military front-loader vehicle clears debris on a mud-covered flooded street near a bent \"Benjamin St\" sign, with uprooted trees and damaged houses in the background."
 geo:
 id: 24102
 item_type: Still Image

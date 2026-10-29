@@ -21,6 +21,8 @@ files:
     original_filename: 09210018J6.JPG
     thumb: /files/thumbnails/14fb29f989779b14fb29f9897b81.jpg
     url: /files/original/14fb29f989779b14fb29f9897b81.jpg
+    alt:
+      en: "A towboat pushing a barge emits dark smoke while traveling a waterway, viewed past overgrown debris-strewn ground, utility poles with guy wires, and a worn path in the foreground."
 geo:
 id: 22100
 item_type: Still Image

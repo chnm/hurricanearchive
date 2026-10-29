@@ -21,6 +21,8 @@ files:
     original_filename: S4300160stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf355ba14fb29ecf359a0.jpg
     url: /files/original/14fb29ecf355ba14fb29ecf359a0.jpg
+    alt:
+      en: "Motion-blurred scene of debris and two overturned boats piled together near damaged houses, with a utility pole and sloped roofs visible in the background under a blue sky."
 geo:
 id: 23821
 item_type: Still Image

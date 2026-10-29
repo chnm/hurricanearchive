@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C5Y_e063e4c74a.jpg
     thumb: /files/thumbnails/14fb2a668dc5e314fb2a668dc9c9.jpg
     url: /files/original/14fb2a668dc5e314fb2a668dc9c9.jpg
+    alt:
+      en: "Two large fishing vessels, Sea Wolf and Sea Falcon, sit stranded on a highway median near an arched bridge, surrounded by storm debris and scattered boats in the waterway beyond."
 geo:
 id: 2416
 item_type: Still Image

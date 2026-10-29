@@ -27,6 +27,8 @@ files:
     original_filename: Hungry People Scared People Reliant
     thumb: /files/thumbnails/14fb2a604e679c14fb2a604e6b76.jpg
     url: /files/original/14fb2a604e679c14fb2a604e6b76.jpg
+    alt:
+      en: "Child's marker drawing labeled \"Super Dome\" showing a domed building with a ladder beside it, plus simple figures labeled \"Hungry People\" and \"Scared People\"; signed \"Marlon 11\" in the corner."
 geo:
 id: 2760
 item_type: Still Image

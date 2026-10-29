@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1531superdome.JPG
     thumb: /files/thumbnails/14fb29e2f6522914fb29e2f65703.jpg
     url: /files/original/14fb29e2f6522914fb29e2f65703.jpg
+    alt:
+      en: "A New Orleans Police officer and several bystanders watch a white and yellow helicopter (tail number N61B) parked on a concrete lot beneath an elevated highway overpass."
 geo:
 id: 25009
 item_type: Still Image

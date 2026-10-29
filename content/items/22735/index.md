@@ -21,6 +21,8 @@ files:
     original_filename: PICT0857Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f456e94714fb29f456ed2e.jpg
     url: /files/original/14fb29f456e94714fb29f456ed2e.jpg
+    alt:
+      en: "Empty, debris-strewn lot behind a brick wall, with a pile of trash bags and rubble, a leaning utility pole, and damaged buildings including a \"Cafe Ole\" sign, dated 09.15.2005."
 geo:
 id: 22735
 item_type: Still Image

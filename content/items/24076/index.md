@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eb02f2a914fb29eb02f68f.jpg
     url: /files/original/14fb29eb02f2a914fb29eb02f68f.jpg
+    alt:
+      en: "Aerial view of a storm-devastated coastal town with a water tower, flooded streets, standing floodwater, debris fields, and damaged or collapsed buildings surrounded by marshland and open water."
 geo:
 id: 24076
 item_type: Still Image

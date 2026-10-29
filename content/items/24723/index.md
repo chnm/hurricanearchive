@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-25-24Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e55af92514fb29e55afe09.jpg
     url: /files/original/14fb29e55af92514fb29e55afe09.jpg
+    alt:
+      en: "Floodwaters submerge a parking area with partially sunken cars, a military truck carrying passengers, and a person wading near a partially covered \"One Way\" street sign."
 geo:
 id: 24723
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-13-12A.jpg
     thumb: /files/thumbnails/14fb29e901b2db14fb29e901b595.jpg
     url: /files/original/14fb29e901b2db14fb29e901b595.jpg
+    alt:
+      en: "Grainy aerial view down into a dark, water-filled structural gap between buildings, where several people appear to be climbing or being pulled up by their arms, with onlookers visible on a balcony above."
 geo:
 id: 24293
 item_type: Still Image

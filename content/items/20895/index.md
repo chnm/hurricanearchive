@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0142-21.JPG
     thumb: /files/thumbnails/14fb2a021ed8a614fb2a021edc4f.jpg
     url: /files/original/14fb2a021ed8a614fb2a021edc4f.jpg
+    alt:
+      en: "Military Humvees and a canvas-covered truck, marked \"HQ-38,\" parked along a rural roadside, with uniformed personnel standing near the vehicles beside power lines and trees."
 geo:
 id: 20895
 item_type: Still Image

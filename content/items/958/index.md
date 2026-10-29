@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28649.jpg
     thumb: /files/thumbnails/14fb2a6bc02f0e14fb2a6bc032f1.jpg
     url: /files/original/14fb2a6bc02f0e14fb2a6bc032f1.jpg
+    alt:
+      en: "Under a large tent at an animal rescue depot, a woman stands near a folding chair and table beneath a bright green sign reading \"NO PET ADOPTIONS AT THIS FACILITY, TO ADOPT CONTACT: LASPCA or your local animal shelter.\""
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-33_789ffb4d5d.jpg
     thumb: /files/thumbnails/14fb2a16282d9214fb2a16283354.jpg
     url: /files/original/14fb2a16282d9214fb2a16283354.jpg
+    alt:
+      en: "Close-up portrait of a young woman with curly brown hair resting her chin on her hand, gazing off to the side, with a faded, warm-toned vintage photo quality."
 geo:
 id: 15501
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0108-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e7308e8714fb29e7309265.jpg
     url: /files/original/14fb29e7308e8714fb29e7309265.jpg
+    alt:
+      en: "Aerial view of a flooded area with a destroyed structure's debris—including wood planks and a white corrugated roof—scattered among bare, storm-damaged trees, with a submerged vehicle visible in the murky water beyond."
 geo:
 id: 24514
 item_type: Still Image

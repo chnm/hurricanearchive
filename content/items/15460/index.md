@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_LoganPage_03_35764682d9.jpg
     thumb: /files/thumbnails/14fb2a1641424314fb2a16414627.jpg
     url: /files/original/14fb2a1641424314fb2a16414627.jpg
+    alt:
+      en: "Studio portrait of a young girl with hair pulled up and a red ribbon, wearing gold hoop earrings and a red plaid dress with a black velvet collar, against a blue backdrop."
 geo:
 id: 15460
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-12-11A.jpg
     thumb: /files/thumbnails/14fb29e90280a814fb29e902848d.jpg
     url: /files/original/14fb29e90280a814fb29e902848d.jpg
+    alt:
+      en: "Several uniformed personnel in camouflage help an older man in a pink shirt climb into the back of a truck, with others visible walking in a covered walkway in the background."
 geo:
 id: 24292
 item_type: Still Image

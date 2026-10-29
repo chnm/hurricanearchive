@@ -21,6 +21,8 @@ files:
     original_filename: 09210008J6.JPG
     thumb: /files/thumbnails/14fb29f98bcd2014fb29f98bd106.jpg
     url: /files/original/14fb29f98bcd2014fb29f98bd106.jpg
+    alt:
+      en: "Military Humvee in camouflage paint parked on a dirt and gravel road, with two whip antennas extended and a nearby utility pole strung with wires, under a clear blue sky."
 geo:
 id: 22097
 item_type: Still Image

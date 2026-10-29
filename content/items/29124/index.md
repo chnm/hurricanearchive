@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-038-17A.jpg
     thumb: /files/thumbnails/14fb29cede164914fb29cede2508.jpg
     url: /files/original/14fb29cede164914fb29cede2508.jpg
+    alt:
+      en: "Several uniformed service members stand talking near the open rear cargo ramp of a military helicopter on a tarmac, with two more figures visible in silhouette inside the aircraft's dark interior."
 geo:
 id: 29124
 item_type: Still Image

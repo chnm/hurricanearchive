@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28518.jpg
     thumb: /files/thumbnails/14fb2a6b14166914fb2a6b141a8a.jpg
     url: /files/original/14fb2a6b14166914fb2a6b141a8a.jpg
+    alt:
+      en: "A weathered wooden picket fence and black metal gate with an \"EXIT ONLY\" sign, overlooking a gravel lot with parked cars and houses in the background."
 geo:
   address: ''
   lat: 0.0

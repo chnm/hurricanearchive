@@ -24,6 +24,8 @@ files:
     original_filename: P1010103.JPG
     thumb: /files/thumbnails/14fb2a5b0f376714fb2a5b0f3b4a.jpg
     url: /files/original/14fb2a5b0f376714fb2a5b0f3b4a.jpg
+    alt:
+      en: "Spray-painted search-and-rescue markings on white vinyl siding read \"F/W 9:20\" in orange, and below in black \"10/3 No cats in attic / F/W 2 dog cats (1 calico(with)\"."
 geo:
 id: 3528
 item_type: Still Image

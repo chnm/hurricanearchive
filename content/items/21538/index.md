@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0287-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fdb7111e14fb29fdb71504.jpg
     url: /files/original/14fb29fdb7111e14fb29fdb71504.jpg
+    alt:
+      en: "Aerial view of flooded fields and a residential neighborhood surrounded by dense trees, with standing floodwater submerging roads, yards, and partially covering homes near a tall industrial smokestack."
 geo:
 id: 21538
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09270008plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec34071014fb29ec340af6.jpg
     url: /files/original/14fb29ec34071014fb29ec340af6.jpg
+    alt:
+      en: "Wrecked boat with twisted white and green metal framework lies toppled amid bare, storm-damaged trees, with a partially damaged house visible in the background."
 geo:
 id: 23970
 item_type: Still Image

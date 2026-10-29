@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28450.jpg
     thumb: /files/thumbnails/14fb2a6ad35ee814fb2a6ad362cd.jpg
     url: /files/original/14fb2a6ad35ee814fb2a6ad362cd.jpg
+    alt:
+      en: "Row of damaged slot machine chairs and gaming consoles exposed amid collapsed ceiling framework and debris, with a partially visible \"Lucky Wheel\" sign, in a storm-wrecked Biloxi casino."
 geo:
   address: ''
   lat: 0.0

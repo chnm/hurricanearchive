@@ -23,6 +23,8 @@ files:
     original_filename: 221564442_3e88c3e228.jpg
     thumb: /files/thumbnails/14fb29d4343ef414fb29d43442e2.jpg
     url: /files/original/14fb29d4343ef414fb29d43442e2.jpg
+    alt:
+      en: "Heavy multi-lane highway traffic jam with headlights on, flanked by billboards for Chevron, Denny's, Office Depot, and Home Depot, under a hazy gray sky with a tall radio tower nearby."
 geo:
   address: ''
   lat: 30.07522

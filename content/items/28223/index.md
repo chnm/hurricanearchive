@@ -27,6 +27,8 @@ files:
     original_filename: brandis_place_HURRICANE_ART019_2e9b1046e2.JPG
     thumb: /files/thumbnails/14fb29d2a5998314fb29d2a59d69.jpg
     url: /files/original/14fb29d2a5998314fb29d2a59d69.jpg
+    alt:
+      en: "Stylized artwork in sepia tones depicting a silhouetted figure riding a bicycle down a street, with a utility pole, scattered debris, and tree shapes rendered as dark cut-out forms against a textured tan background."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

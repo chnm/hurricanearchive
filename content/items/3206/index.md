@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (55).JPG
     thumb: /files/thumbnails/14fb2a5d5af75414fb2a5d5afb40.jpg
     url: /files/original/14fb2a5d5af75414fb2a5d5afb40.jpg
+    alt:
+      en: "View from beneath an elevated highway overpass of a domed stadium with a metallic roof, a nearby billboard, and a vacant lot enclosed by a chain-link fence."
 geo:
 id: 3206
 item_type: Still Image

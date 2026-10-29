@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2142superdome.JPG
     thumb: /files/thumbnails/14fb29e496555a14fb29e4965940.jpg
     url: /files/original/14fb29e496555a14fb29e4965940.jpg
+    alt:
+      en: "A group of soldiers in camouflage uniforms lean on a concrete barrier, with high-rise office buildings visible in the background."
 geo:
 id: 24820
 item_type: Still Image

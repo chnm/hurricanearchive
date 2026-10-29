@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026OEP.JPG
     thumb: /files/thumbnails/14fb29f21076ae14fb29f2107a93.jpg
     url: /files/original/14fb29f21076ae14fb29f2107a93.jpg
+    alt:
+      en: "A crowded parking lot filled with cars, trucks, and trailers, with several large tan canvas tents and low brick buildings in the background under a clear sky."
 geo:
 id: 23016
 item_type: Still Image

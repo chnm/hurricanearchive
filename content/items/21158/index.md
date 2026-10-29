@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0188-21.JPG
     thumb: /files/thumbnails/14fb2a004de90414fb2a004dece1.jpg
     url: /files/original/14fb2a004de90414fb2a004dece1.jpg
+    alt:
+      en: "A Fox News reporter holds a microphone up to a man in military camouflage uniform during an outdoor interview, with other uniformed personnel and bystanders visible in the background."
 geo:
 id: 21158
 item_type: Still Image

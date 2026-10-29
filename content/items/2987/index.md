@@ -21,6 +21,8 @@ files:
     original_filename: 100_0236.JPG
     thumb: /files/thumbnails/14fb2a5f2c65de14fb2a5f2c69c3.jpg
     url: /files/original/14fb2a5f2c65de14fb2a5f2c69c3.jpg
+    alt:
+      en: "Narrow engine room passageway aboard a submarine or ship, lined with pipes, valves, gauges, and an oval watertight hatch, with a red toolbox and yellow bucket on the dark floor."
 geo:
 id: 2987
 item_type: Still Image

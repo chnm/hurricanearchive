@@ -23,6 +23,8 @@ files:
     original_filename: 1256980987_97af36392c.jpg
     thumb: /files/thumbnails/14fb29cb574d5514fb29cb57513a.jpg
     url: /files/original/14fb29cb574d5514fb29cb57513a.jpg
+    alt:
+      en: "Weathered wooden building entrance with a worn blue-gray wooden door and a faded red screen door, set within a cream-colored wood-sided facade above a cracked concrete step."
 geo:
 id: 33235
 item_type: Still Image

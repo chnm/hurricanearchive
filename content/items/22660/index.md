@@ -21,6 +21,8 @@ files:
     original_filename: PICT0095Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d4607814fb29f4d46465.jpg
     url: /files/original/14fb29f4d4607814fb29f4d46465.jpg
+    alt:
+      en: "Brick building with white columned balcony shows severe roof and gable damage, exposed rafters, and debris in the driveway, with a white car parked under an adjacent carport; dated 09.15.2005."
 geo:
 id: 22660
 item_type: Still Image

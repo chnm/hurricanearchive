@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28689.jpg
     thumb: /files/thumbnails/14fb2a6b56c5a814fb2a6b56c98b.jpg
     url: /files/original/14fb2a6b56c5a814fb2a6b56c98b.jpg
+    alt:
+      en: "Row of metal animal stalls in a barn, with horses looking out from several pens; box fans are clipped to two stall doors, and handwritten paper tags hang on the gates."
 geo:
   address: ''
   lat: 0.0

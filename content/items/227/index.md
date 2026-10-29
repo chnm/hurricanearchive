@@ -26,6 +26,8 @@ files:
     original_filename: Restaurant_West_End_3c320f64fa.jpg
     thumb: /files/thumbnails/14fb2a707229bd14fb2a70722da2.jpg
     url: /files/original/14fb2a707229bd14fb2a70722da2.jpg
+    alt:
+      en: "Parking lot in front of a restaurant with a partially visible sign, several vehicles parked in the foreground, and a large pile of storm debris stacked behind the building under a utility pole."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 113cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0baac20014fb2a0baac5e4.jpg
     url: /files/original/14fb2a0baac20014fb2a0baac5e4.jpg
+    alt:
+      en: "A boat tilted against a flood wall beside a road, with a front-end loader and military truck nearby amid storm debris."
 geo:
 id: 20016
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-16-14A.jpg
     thumb: /files/thumbnails/14fb29e8a7513214fb29e8a7550d.jpg
     url: /files/original/14fb29e8a7513214fb29e8a7550d.jpg
+    alt:
+      en: "Motion-blurred street scene shot from a moving vehicle, showing a side mirror, a large tan multi-story building, trees with wind-bent branches, and hedges lining the road."
 geo:
 id: 24340
 item_type: Still Image

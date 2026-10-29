@@ -24,6 +24,8 @@ files:
     original_filename: JB 2 grandparents_ea649e55fc.1.jpg
     thumb: /files/thumbnails/14fb29d82b9b3e14fb29d82b9f24.jpg
     url: /files/original/14fb29d82b9b3e14fb29d82b9f24.jpg
+    alt:
+      en: "Vintage black-and-white photo of a young woman in a two-piece swimsuit, smiling and kicking one leg up against a wooden plank wall, with decorative scalloped photo edges."
 geo:
   address: ''
   lat: 29.91685

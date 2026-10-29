@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1598neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee9167f614fb29ee916bdc.jpg
     url: /files/original/14fb29ee9167f614fb29ee916bdc.jpg
+    alt:
+      en: "Two men in camouflage uniforms stand near a woman wearing an \"abc 26\" branded cap beside marked news vehicles in a flooded parking lot, with standing water and debris visible in the background."
 geo:
 id: 23598
 item_type: Still Image

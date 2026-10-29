@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0130cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef3a1c1214fb29ef3a1ff8.jpg
     url: /files/original/14fb29ef3a1c1214fb29ef3a1ff8.jpg
+    alt:
+      en: "Aerial view of a campus-like compound with institutional buildings, parking lots, and striped tents, surrounded by open fields, trees, a winding road, and a lake in the distance."
 geo:
 id: 23487
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1194Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6f4e36e14fb29f6f4e7f7.jpg
     url: /files/original/14fb29f6f4e36e14fb29f6f4e7f7.jpg
+    alt:
+      en: "Dim, hazy indoor scene with two men near a boat, one wearing an orange life vest; work lights and a \"Mercury\" outboard motor visible in the background."
 geo:
 id: 22372
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0273.JPG
     thumb: /files/thumbnails/14fb2a5eba94f214fb2a5eba98ea.jpg
     url: /files/original/14fb2a5eba94f214fb2a5eba98ea.jpg
+    alt:
+      en: "Heavily rusted and corroded metal tank or vessel with large torn openings and holes in its surface, set against a blue sky and a white corrugated building."
 geo:
 id: 3024
 item_type: Still Image

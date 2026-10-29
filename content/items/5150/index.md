@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0512.JPG
     thumb: /files/thumbnails/14fb2a53bc7fd814fb2a53bc83be.jpg
     url: /files/original/14fb2a53bc7fd814fb2a53bc83be.jpg
+    alt:
+      en: "A two-story house elevated on pilings under construction, with exposed support posts and siding partially installed, surrounded by bare trees under a clear blue sky."
 geo:
 id: 5150
 item_type: Still Image

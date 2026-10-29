@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0134rita.JPG
     thumb: /files/thumbnails/14fb2a11a45f2414fb2a11a4630a.jpg
     url: /files/original/14fb2a11a45f2414fb2a11a4630a.jpg
+    alt:
+      en: "Dirt mounds and a sandy lot surrounded by large trees, with a \"United Methodist Church, Parker, 5 Blocks\" directional sign near a utility pole and a distant house visible through foliage."
 geo:
 id: 19249
 item_type: Still Image

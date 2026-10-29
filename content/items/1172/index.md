@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28717.jpg
     thumb: /files/thumbnails/14fb2a6aad8ecb14fb2a6aad92a5.jpg
     url: /files/original/14fb2a6aad8ecb14fb2a6aad92a5.jpg
+    alt:
+      en: "A man in a plaid shirt and a woman in a teal shirt examine an animal harness near a gray container, with vehicles and fairground buildings in the background at the Lamar-Dixon animal rescue depot."
 geo:
   address: ''
   lat: 0.0

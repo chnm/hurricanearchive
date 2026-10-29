@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 101.jpg
     thumb: /files/thumbnails/14fb2a120407aa14fb2a12040b24.jpg
     url: /files/original/14fb2a120407aa14fb2a12040b24.jpg
+    alt:
+      en: "Debris-covered street corner with dried, dead plants, wooden utility poles, and a mix of residential houses in the background, showing storm damage along a quiet neighborhood road."
 geo:
 id: 19191
 item_type: Still Image

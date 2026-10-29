@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28268.jpg
     thumb: /files/thumbnails/14fb2a68dcedb914fb2a68dcf173.jpg
     url: /files/original/14fb2a68dcedb914fb2a68dcf173.jpg
+    alt:
+      en: "A multi-story building with exposed structural framework and shattered windows stands damaged, surrounded by uprooted trees and debris, with a yellow fire hydrant visible in the foreground."
 geo:
   address: ''
   lat: 0.0

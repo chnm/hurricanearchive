@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (8).JPG
     thumb: /files/thumbnails/14fb2a5d29e8d614fb2a5d29ecbd.jpg
     url: /files/original/14fb2a5d29e8d614fb2a5d29ecbd.jpg
+    alt:
+      en: "Empty street with streetcar tracks down the center, flanked by utility poles and overhead wires, with trees showing storm damage and fallen branches along the roadside."
 geo:
 id: 3233
 item_type: Still Image

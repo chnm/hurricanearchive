@@ -25,6 +25,8 @@ files:
     original_filename: 158072434_21a1ee6a74.jpg
     thumb: /files/thumbnails/14fb29d1de7cdb14fb29d1de80c0.jpg
     url: /files/original/14fb29d1de7cdb14fb29d1de80c0.jpg
+    alt:
+      en: "Collapsed metal roofing and debris lie in a heap on pavement, with a wooden fence, trees, and dried brush nearby; faint red spray-painted marks are visible on the ground."
 geo:
 id: 28663
 item_type: Still Image

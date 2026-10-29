@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9565.jpg
     thumb: /files/thumbnails/14fb2a6431bd8914fb2a6431c286.jpg
     url: /files/original/14fb2a6431bd8914fb2a6431c286.jpg
+    alt:
+      en: "Flattened debris field with scattered cinder blocks, appliances, and twisted metal roofing surrounding a damaged mobile home, standing water pooling among the wreckage beneath bare winter trees."
 geo:
 id: 2611
 item_type: Still Image

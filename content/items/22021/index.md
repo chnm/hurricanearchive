@@ -21,6 +21,8 @@ files:
     original_filename: Picture 352-J2.jpg
     thumb: /files/thumbnails/14fb29fa0a652114fb29fa0a6a62.jpg
     url: /files/original/14fb29fa0a652114fb29fa0a6a62.jpg
+    alt:
+      en: "A rusted wrought iron fence in the foreground with a large fallen tree leaning against a house behind it, brick and columned porch details visible through the fence bars."
 geo:
 id: 22021
 item_type: Still Image

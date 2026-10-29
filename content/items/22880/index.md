@@ -21,6 +21,8 @@ files:
     original_filename: NO 002majortodd.jpg
     thumb: /files/thumbnails/14fb29f2f0afd514fb29f2f0b3bb.jpg
     url: /files/original/14fb29f2f0afd514fb29f2f0b3bb.jpg
+    alt:
+      en: "Two helmeted pilots in military flight suits sit in a helicopter cockpit filled with gauges and instruments, bright sunlight glaring through the windshield ahead."
 geo:
 id: 22880
 item_type: Still Image

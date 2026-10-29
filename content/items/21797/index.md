@@ -21,6 +21,8 @@ files:
     original_filename: katrina 067.jpg
     thumb: /files/thumbnails/14fb29fbb7bade14fb29fbb7bec2.jpg
     url: /files/original/14fb29fbb7bade14fb29fbb7bec2.jpg
+    alt:
+      en: "Flooded New Orleans street with streetlights and a bus shelter advertising \"The National D-Day Museum New Orleans, 945 Magazine Street, Open 9-5 Daily\" partially submerged in standing water."
 geo:
 id: 21797
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 040cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c3b52a414fb2a0c3b58a3.jpg
     url: /files/original/14fb2a0c3b52a414fb2a0c3b58a3.jpg
+    alt:
+      en: "A military Humvee and truck flank a grassy lawn with a small flat-bottom boat, as a man in camouflage fatigues walks across the grass toward a beige building in the background."
 geo:
 id: 19944
 item_type: Still Image

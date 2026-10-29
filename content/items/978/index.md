@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28569.jpg
     thumb: /files/thumbnails/14fb2a6b9133f614fb2a6b9137e7.jpg
     url: /files/original/14fb2a6b9133f614fb2a6b9137e7.jpg
+    alt:
+      en: "A damaged house with an orange spray-painted search-and-rescue \"X\" marking on its front door, where a person stands inside the doorway; debris is scattered in the vacant lot beyond."
 geo:
   address: ''
   lat: 0.0

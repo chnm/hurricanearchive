@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0008.JPG
     thumb: /files/thumbnails/14fb2a1bbad35514fb2a1bbad73a.jpg
     url: /files/original/14fb2a1bbad35514fb2a1bbad73a.jpg
+    alt:
+      en: "Dusk scene with military vehicles parked near a press box building reading \"Welcome To Jessie E. Cady Memorial Stadium,\" with uniformed personnel gathered between the vehicles."
 geo:
   address: ''
   lat: 0.0

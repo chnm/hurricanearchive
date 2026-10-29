@@ -21,6 +21,8 @@ files:
     original_filename: driving.jpg
     thumb: /files/thumbnails/14fb2a1eb9e47614fb2a1eb9e85c.jpg
     url: /files/original/14fb2a1eb9e47614fb2a1eb9e85c.jpg
+    alt:
+      en: "Sideways-oriented photo taken from a moving vehicle, showing a paved road, grassy roadside, trees, a utility pole, and a small red structure under a partly cloudy sky."
 geo:
 id: 13245
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28739.jpg
     thumb: /files/thumbnails/14fb2a6a1d8c7914fb2a6a1d9058.jpg
     url: /files/original/14fb2a6a1d8c7914fb2a6a1d9058.jpg
+    alt:
+      en: "Stacked wire cages packed with plastic pet bowls, dishes, and feeding containers in various colors, stored outdoors near cardboard boxes."
 geo:
   address: ''
   lat: 0.0

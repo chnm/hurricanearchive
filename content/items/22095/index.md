@@ -21,6 +21,8 @@ files:
     original_filename: 09210006J6.JPG
     thumb: /files/thumbnails/14fb29f98cfdc014fb29f98d019d.jpg
     url: /files/original/14fb29f98cfdc014fb29f98d019d.jpg
+    alt:
+      en: "Dirt levee road alongside storm-damaged trees and barges on a waterway, with a fallen white cylindrical tank and scattered debris in the foreground."
 geo:
 id: 22095
 item_type: Still Image

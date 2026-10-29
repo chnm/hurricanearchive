@@ -21,6 +21,8 @@ files:
     original_filename: 20050926049.JPG
     thumb: /files/thumbnails/14fb2a1c6f164714fb2a1c6f1a2c.jpg
     url: /files/original/14fb2a1c6f164714fb2a1c6f1a2c.jpg
+    alt:
+      en: "A white Sheriff pickup truck carrying an airboat fan sits on flooded ground near bare trees, with several uniformed men in camouflage standing nearby amid standing water."
 geo:
   address: ''
   lat: 0.0

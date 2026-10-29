@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8599.jpg
     thumb: /files/thumbnails/14fb2a65da871014fb2a65da8fac.jpg
     url: /files/original/14fb2a65da871014fb2a65da8fac.jpg
+    alt:
+      en: "A tattered American flag hangs in a bare tree surrounded by debris-strewn ground, with distant houses visible under a partly cloudy sky."
 geo:
 id: 2501
 item_type: Still Image

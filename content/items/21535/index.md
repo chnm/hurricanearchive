@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0286-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fdbac22b14fb29fdbac610.jpg
     url: /files/original/14fb29fdbac22b14fb29fdbac610.jpg
+    alt:
+      en: "Aerial view of a large corrugated-roof building with a blue-roofed structure nearby, set beside a paved lot, a tree, and a body of water in the background."
 geo:
 id: 21535
 item_type: Still Image

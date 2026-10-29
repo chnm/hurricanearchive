@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0375.JPG
     thumb: /files/thumbnails/14fb2a54556c7014fb2a54557057.jpg
     url: /files/original/14fb2a54556c7014fb2a54557057.jpg
+    alt:
+      en: "Storm-damaged pine trees with browned needles lie toppled and leaning across a debris-strewn yard, with scattered building materials and a collapsed structure's framework visible among the fallen timber."
 geo:
 id: 5030
 item_type: Still Image

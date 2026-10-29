@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0679.JPG
     thumb: /files/thumbnails/14fb2a533f23ea14fb2a533f27d0.jpg
     url: /files/original/14fb2a533f23ea14fb2a533f27d0.jpg
+    alt:
+      en: "A yellow measuring tape stretches across damaged wooden beams, with rubble, concrete blocks, and pine needles scattered below, indicating storm debris measurement."
 geo:
 id: 5234
 item_type: Still Image

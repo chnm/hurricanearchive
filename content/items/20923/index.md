@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0149-21.JPG
     thumb: /files/thumbnails/14fb2a01f6dc6614fb2a01f6e04c.jpg
     url: /files/original/14fb2a01f6dc6614fb2a01f6e04c.jpg
+    alt:
+      en: "Sideways photo of a paved road with a curbside pile of trash bags and cardboard boxes, a blurred person in the foreground, and a building sign reading \"Real Construction\" with a phone number visible in the background."
 geo:
 id: 20923
 item_type: Still Image

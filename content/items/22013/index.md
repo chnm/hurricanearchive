@@ -21,6 +21,8 @@ files:
     original_filename: Picture 344-J2.jpg
     thumb: /files/thumbnails/14fb29fa1ddc3a14fb29fa1de01c.jpg
     url: /files/original/14fb29fa1ddc3a14fb29fa1de01c.jpg
+    alt:
+      en: "Two NYPD vehicles, an SUV and a van, parked on a street beside a damaged house with a columned porch, surrounded by debris and fallen branches under a blue sky."
 geo:
 id: 22013
 item_type: Still Image

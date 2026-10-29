@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0289-9-25.JPG
     thumb: /files/thumbnails/14fb29fdb0187914fb29fdb01c5f.jpg
     url: /files/original/14fb29fdb0187914fb29fdb01c5f.jpg
+    alt:
+      en: "Aerial view (sideways orientation) of a wooded shoreline with wind-damaged trees, scattered houses, and a body of water visible in the background."
 geo:
 id: 21543
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27911.jpg
     thumb: /files/thumbnails/14fb2a6ab4e74314fb2a6ab4eb60.jpg
     url: /files/original/14fb2a6ab4e74314fb2a6ab4eb60.jpg
+    alt:
+      en: "Rear view of a dusty white car with license plate \"MJD 879,\" parked on a street lined with trees and utility poles under a hazy sky."
 geo:
   address: ''
   lat: 0.0

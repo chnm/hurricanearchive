@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8551.jpg
     thumb: /files/thumbnails/14fb2a6602070014fb2a66020ae0.jpg
     url: /files/original/14fb2a6602070014fb2a66020ae0.jpg
+    alt:
+      en: "Three people sort through debris outside a severely damaged, storm-wrecked house, with scattered wood, siding, and personal belongings strewn across the ground."
 geo:
 id: 2485
 item_type: Still Image

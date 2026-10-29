@@ -21,6 +21,8 @@ files:
     original_filename: Picture 308-J2.jpg
     thumb: /files/thumbnails/14fb29fac0eabb14fb29fac2b3cd.jpg
     url: /files/original/14fb29fac0eabb14fb29fac2b3cd.jpg
+    alt:
+      en: "Roadside view of a highway with a concrete barrier, a billboard and streetlight, and a large domed stadium with a teal-tiled facade in the background under a blue sky."
 geo:
 id: 21977
 item_type: Still Image

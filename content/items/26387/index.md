@@ -21,6 +21,8 @@ files:
     original_filename: RhinaKissee-5929_65436b0f64.jpg
     thumb: /files/thumbnails/14fb29d9021b5f14fb29d9021f44.jpg
     url: /files/original/14fb29d9021b5f14fb29d9021f44.jpg
+    alt:
+      en: "Erica, in a red and black Cardinals cheerleading outfit with pom-poms, stands beside Ryan, kneeling in a white football jersey and helmet, on a grassy field with a scoreboard and trees in the background."
 geo:
   address: 3709 Palmisano Blvd., Chalmette, LA
   lat: 29.95079

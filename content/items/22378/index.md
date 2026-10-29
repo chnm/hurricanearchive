@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1200Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6eb0e4114fb29f6eb1226.jpg
     url: /files/original/14fb29f6eb0e4114fb29f6eb1226.jpg
+    alt:
+      en: "A person in camouflage clothing and an orange life vest wades through dark floodwater at night, holding a cardboard box labeled \"V2\" up to the edge of a boat."
 geo:
 id: 22378
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0218.JPG
     thumb: /files/thumbnails/14fb2a550466a714fb2a55046b89.jpg
     url: /files/original/14fb2a550466a714fb2a55046b89.jpg
+    alt:
+      en: "Collapsed building structure with exposed metal roof framing and scattered concrete cinder blocks, surrounded by damaged trees and debris, likely from hurricane destruction."
 geo:
 id: 4899
 item_type: Still Image

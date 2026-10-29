@@ -21,6 +21,8 @@ files:
     original_filename: 09180010plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec4b8b9714fb29ec4b8f7f.jpg
     url: /files/original/14fb29ec4b8b9714fb29ec4b8f7f.jpg
+    alt:
+      en: "Grassy roadside levee with power lines and utility poles, a yellow industrial crane structure, and a large rust-colored barge or storage structure resting atop the levee under a hazy sky."
 geo:
 id: 23940
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010130empireS&R.JPG
     thumb: /files/thumbnails/14fb29edde71cd14fb29edde75b4.jpg
     url: /files/original/14fb29edde71cd14fb29edde75b4.jpg
+    alt:
+      en: "A single-story white house with storm-damaged roof and scattered debris stands amid bare, broken trees, with a metal gate and dirt path in the foreground."
 geo:
 id: 23689
 item_type: Still Image

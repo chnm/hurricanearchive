@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1508superdome.JPG
     thumb: /files/thumbnails/14fb29e3438e3214fb29e3439223.jpg
     url: /files/original/14fb29e3438e3214fb29e3439223.jpg
+    alt:
+      en: "Four men stand talking indoors, including a man in a blue polo shirt, a New Orleans Police officer with \"POLICE\" lettering on his jacket, and two men in military camouflage uniforms, with a framed helicopter photo on the wall behind them."
 geo:
 id: 24986
 item_type: Still Image

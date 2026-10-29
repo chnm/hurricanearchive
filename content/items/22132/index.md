@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-12-11AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f96d70cc14fb29f96d74b5.jpg
     url: /files/original/14fb29f96d70cc14fb29f96d74b5.jpg
+    alt:
+      en: "Floodwater submerges a residential street with trees and a house visible, viewed through a vehicle's open door or window, with items on a dashboard in the foreground."
 geo:
 id: 22132
 item_type: Still Image

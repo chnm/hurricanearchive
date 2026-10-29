@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0246-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff07f27f14fb29ff07f67c.jpg
     url: /files/original/14fb29ff07f27f14fb29ff07f67c.jpg
+    alt:
+      en: "Aerial view of severely damaged residential neighborhood with collapsed roofs, debris-strewn streets, downed power lines, and scattered trees amid widespread storm destruction."
 geo:
 id: 21398
 item_type: Still Image

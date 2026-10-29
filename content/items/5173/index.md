@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0535.JPG
     thumb: /files/thumbnails/14fb2a5383bd8814fb2a5383c7d6.jpg
     url: /files/original/14fb2a5383bd8814fb2a5383c7d6.jpg
+    alt:
+      en: "Wooden post-and-beam framework of a structure under construction, with bare vertical and horizontal timbers on a concrete slab, surrounded by trees, grass, and a dirt lot under a clear sky."
 geo:
 id: 5173
 item_type: Still Image

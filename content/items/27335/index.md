@@ -23,6 +23,8 @@ files:
     original_filename: 336696098_9d293d7849.jpg
     thumb: /files/thumbnails/14fb29d498897a14fb29d4988d4f.jpg
     url: /files/original/14fb29d498897a14fb29d4988d4f.jpg
+    alt:
+      en: "Unpaved, debris-strewn street lined with modest houses, a chain-link fence, and utility poles; a parked car and truck sit along the road under an overcast sky."
 geo:
 id: 27335
 item_type: Still Image

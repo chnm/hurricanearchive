@@ -26,6 +26,8 @@ files:
     original_filename: chairs tree_2d66d2b47e.JPG
     thumb: /files/thumbnails/14fb29d26c775614fb29d26c7dc1.jpg
     url: /files/original/14fb29d26c775614fb29d26c7dc1.jpg
+    alt:
+      en: "Three wooden chairs are suspended in the branches of a large tree against a brick wall, each stacked with piles of books and magazines, with ivy climbing the trunk below."
 geo:
   address: 2426  Bradish Place
   lat: 0.0

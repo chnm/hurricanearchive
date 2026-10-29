@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0111abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef62075514fb29ef620b49.jpg
     url: /files/original/14fb29ef62075514fb29ef620b49.jpg
+    alt:
+      en: "A military cargo truck leads a long line of civilian vehicles and pedestrians down a muddy, flood-damaged road lined with standing water and downed vegetation on both sides."
 geo:
 id: 23451
 item_type: Still Image

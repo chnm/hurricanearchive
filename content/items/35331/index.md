@@ -21,6 +21,8 @@ files:
     original_filename: 73_1768a3a70e.jpg
     thumb: /files/thumbnails/14fb29c6468d4914fb29c646912b.jpg
     url: /files/original/14fb29c6468d4914fb29c646912b.jpg
+    alt:
+      en: "A couple poses embracing in front of a white \"Bubba's Produce Co., Inc.\" delivery truck, its side panel reading \"The Finest in Produce\" and phone number 949-2112, parked on a gravel lot."
 geo:
   address: 400 Marigny St New Orleans
   lat: 29.96189

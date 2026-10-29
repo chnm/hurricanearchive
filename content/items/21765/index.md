@@ -21,6 +21,8 @@ files:
     original_filename: katrina 033.jpg
     thumb: /files/thumbnails/14fb29fbe4345514fb29fbe439a7.jpg
     url: /files/original/14fb29fbe4345514fb29fbe439a7.jpg
+    alt:
+      en: "A military helicopter hovers low over a rooftop parking deck at dusk, with a city skyline and a building labeled \"VA Medical Center\" visible in the background."
 geo:
 id: 21765
 item_type: Still Image

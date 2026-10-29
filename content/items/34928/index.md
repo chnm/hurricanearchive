@@ -20,6 +20,8 @@ files:
     original_filename: 2456562531_da87a0690b.
     thumb: /files/thumbnails/14fb29c877409f14fb29c877447b.jpg
     url: /files/original/14fb29c877409f14fb29c877447b.jpg
+    alt:
+      en: "Aerial view of a large cleared borrow pit with bare earth sections, surrounded by green wetlands and forest; caption reads \"Lake Cataouatche Burrow Pit,\" dated 04.03.08."
 geo:
 id: 34928
 item_type: Still Image

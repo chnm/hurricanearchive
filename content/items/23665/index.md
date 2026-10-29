@@ -21,6 +21,8 @@ files:
     original_filename: P1010106empireS&R.JPG
     thumb: /files/thumbnails/14fb29edf87d0614fb29edf880e5.jpg
     url: /files/original/14fb29edf87d0614fb29edf880e5.jpg
+    alt:
+      en: "Large stacked bundles of wire-wrapped concrete blocks sit in a debris-strewn field, with storm-damaged trees and scattered litter visible in the background under a clear sky."
 geo:
 id: 23665
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28695.jpg
     thumb: /files/thumbnails/14fb2a6b75e13814fb2a6b75e528.jpg
     url: /files/original/14fb2a6b75e13814fb2a6b75e528.jpg
+    alt:
+      en: "A dark horse with a halter peers through metal gate bars in a stall, with a clipboard holding paperwork hanging on the gate and \"DO NOT\" written on the metal panel below."
 geo:
   address: ''
   lat: 0.0

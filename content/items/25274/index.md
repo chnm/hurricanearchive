@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2001superdome.JPG
     thumb: /files/thumbnails/14fb29df8a364814fb29df8a3ac9.jpg
     url: /files/original/14fb29df8a364814fb29df8a3ac9.jpg
+    alt:
+      en: "A man in military camouflage pants and a tan shirt embraces another person near a concrete barrier on an airport tarmac, with runway markings and equipment visible in the background."
 geo:
 id: 25274
 item_type: Still Image

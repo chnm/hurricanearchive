@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 037cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e91373b14fb2a0e913fd9.jpg
     url: /files/original/14fb2a0e91373b14fb2a0e913fd9.jpg
+    alt:
+      en: "Close-up of a military uniform sleeve featuring a shield-shaped patch with a mountain, sunburst, crossed rifles, and wavy stripe design; a sergeant's chevron insignia is visible on the collar."
 geo:
 id: 19650
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 028engineers.jpg
     thumb: /files/thumbnails/14fb2a0fd7175714fb2a0fd71b38.jpg
     url: /files/original/14fb2a0fd7175714fb2a0fd71b38.jpg
+    alt:
+      en: "Side-by-side satellite images of a New Orleans neighborhood and marina, comparing May 13, 2001 before Hurricane Katrina with September 2, 2005 showing widespread flooding after the storm."
 geo:
 id: 19468
 item_type: Still Image

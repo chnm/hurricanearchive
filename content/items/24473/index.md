@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0100H.JPG
     thumb: /files/thumbnails/14fb29e768fbca14fb29e769003f.jpg
     url: /files/original/14fb29e768fbca14fb29e769003f.jpg
+    alt:
+      en: "Nighttime gathering under a large tent, with several women in orange \"Hooters\" uniforms posing together while men in casual clothing stand nearby and others sit at tables in the background."
 geo:
 id: 24473
 item_type: Still Image

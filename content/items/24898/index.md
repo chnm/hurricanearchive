@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0973superdome.JPG
     thumb: /files/thumbnails/14fb29e3fed9ef14fb29e3feddd3.jpg
     url: /files/original/14fb29e3fed9ef14fb29e3feddd3.jpg
+    alt:
+      en: "A man in a wheelchair is attended by a soldier in camouflage and two civilians beside an \"Acadian\" emergency vehicle and parked SUVs, with luggage and a cooler nearby."
 geo:
 id: 24898
 item_type: Still Image

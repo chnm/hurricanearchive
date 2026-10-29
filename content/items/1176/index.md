@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28184.jpg
     thumb: /files/thumbnails/14fb2a6aaa9d0b14fb2a6aaaa0f1.jpg
     url: /files/original/14fb2a6aaa9d0b14fb2a6aaaa0f1.jpg
+    alt:
+      en: "Checkerboard-patterned floor remains on a concrete slab, the only intact section of a destroyed building, surrounded by storm debris, stripped trees, and the Gulf shoreline in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035media.JPG
     thumb: /files/thumbnails/14fb29f2a6bb5b14fb29f2a6bf41.jpg
     url: /files/original/14fb29f2a6bb5b14fb29f2a6bf41.jpg
+    alt:
+      en: "A man wearing a headset operates a professional video camera with a monitor screen, aiming it from an aerial vantage point over a sprawling, blurred landscape below."
 geo:
 id: 22931
 item_type: Still Image

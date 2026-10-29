@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2095superdome.JPG
     thumb: /files/thumbnails/14fb29e4d59e2514fb29e4d5aa3f.jpg
     url: /files/original/14fb29e4d59e2514fb29e4d5aa3f.jpg
+    alt:
+      en: "Wet downtown street scene with parked and scattered vehicles, high-rise office buildings, and debris including bent metal panels littering the pavement after a storm."
 geo:
 id: 24773
 item_type: Still Image

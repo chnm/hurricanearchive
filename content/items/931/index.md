@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28596.jpg
     thumb: /files/thumbnails/14fb2a6c23d5b214fb2a6c23d996.jpg
     url: /files/original/14fb2a6c23d5b214fb2a6c23d996.jpg
+    alt:
+      en: "A cylindrical structure labeled \"LAKESHORE\" painted with a sailboat scene, serving as a support for a flat-roofed shelter with benches, set in a tree-lined park area."
 geo:
   address: ''
   lat: 0.0

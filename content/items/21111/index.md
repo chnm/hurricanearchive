@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0178-9-25.JPG
     thumb: /files/thumbnails/14fb2a008f3beb14fb2a008f3fd0.jpg
     url: /files/original/14fb2a008f3beb14fb2a008f3fd0.jpg
+    alt:
+      en: "Aerial view of a flooded road and landscape, with only treetops and power lines visible above the brown floodwaters covering the area."
 geo:
 id: 21111
 item_type: Still Image

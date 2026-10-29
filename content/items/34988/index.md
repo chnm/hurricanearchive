@@ -20,6 +20,8 @@ files:
     original_filename: 2297841179_3edd1ecb75.
     thumb: /files/thumbnails/14fb29c7f9ecd814fb29c7f9f165.jpg
     url: /files/original/14fb29c7f9ecd814fb29c7f9f165.jpg
+    alt:
+      en: "A group of people stand near a large pile of fallen tree branches and debris on a gravel lot, with discarded bicycles, a chain-link fence, a blue storage container, and houses in the background."
 geo:
 id: 34988
 item_type: Still Image

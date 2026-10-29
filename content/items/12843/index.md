@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward 9-18-9.JPG
     thumb: /files/thumbnails/14fb2a217a725114fb2a217a7636.jpg
     url: /files/original/14fb2a217a725114fb2a217a7636.jpg
+    alt:
+      en: "Debris-covered street lined with damaged utility poles and leaning power lines, with a red stop sign visible and storm-damaged buildings along the roadside."
 geo:
 id: 12843
 item_type: Still Image

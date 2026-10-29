@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-07-6AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f94eab0714fb29f94eaeed.jpg
     url: /files/original/14fb29f94eab0714fb29f94eaeed.jpg
+    alt:
+      en: "Flooded street with several vehicles submerged to their windows in murky water, viewed past a tree and streetlamp under a hazy, overcast sky."
 geo:
 id: 22154
 item_type: Still Image

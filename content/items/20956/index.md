@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0156-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0155003b14fb2a01550420.jpg
     url: /files/original/14fb2a0155003b14fb2a01550420.jpg
+    alt:
+      en: "Storm-damaged yellow house with a metal roof, missing siding, and exposed framing beneath the floor, surrounded by debris, fallen trees, and standing floodwater."
 geo:
 id: 20956
 item_type: Still Image

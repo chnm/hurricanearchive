@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0031_202fca65ee.JPG
     thumb: /files/thumbnails/14fb2a6fde653b14fb2a6fde691f.jpg
     url: /files/original/14fb2a6fde653b14fb2a6fde691f.jpg
+    alt:
+      en: "Storm-damaged yellow house with boarded windows spray-painted \"We ❤ U.S. Military & Relief!\" and \"Looters will be wounded, then tortured!\"; a neighboring house shows tarped roof and boarded windows reading \"Nat'l Security sux, need\" and \"Ms. Windstorm please.\""
 geo:
   address: ''
   lat: 29.9549345496561

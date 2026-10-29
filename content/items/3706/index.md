@@ -24,6 +24,8 @@ files:
     original_filename: P1010152.JPG
     thumb: /files/thumbnails/14fb2a5a1016a314fb2a5a101a84.jpg
     url: /files/original/14fb2a5a1016a314fb2a5a101a84.jpg
+    alt:
+      en: "A makeshift mannequin figure with a white mask face, curly black wig, sunglasses, and a red bandana, dressed in a dark blazer and scarf, stands amid piles of storm debris outside a house."
 geo:
 id: 3706
 item_type: Still Image

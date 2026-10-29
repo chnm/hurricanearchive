@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9241.jpg
     thumb: /files/thumbnails/14fb2a60dc5aaa14fb2a60dc6e10.jpg
     url: /files/original/14fb2a60dc5aaa14fb2a60dc6e10.jpg
+    alt:
+      en: "Collapsed roof trusses and exposed steel framing hang over a storm-damaged auditorium, with rows of red seats visible amid piles of broken cinder blocks and debris on the floor."
 geo:
 id: 2663
 item_type: Still Image

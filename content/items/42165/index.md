@@ -20,6 +20,8 @@ files:
     original_filename: BBB3_8f249c3afb.jpg
     thumb: /files/thumbnails/14fb29c32351cd14fb29c32355af.jpg
     url: /files/original/14fb29c32351cd14fb29c32355af.jpg
+    alt:
+      en: "Nighttime street parade with a marching band playing tuba, saxophones, and drums, surrounded by crowds and illuminated city buildings, including a sign reading \"NOUVEAU.\""
 geo:
   address: ''
   lat: 0.0

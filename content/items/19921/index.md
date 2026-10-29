@@ -21,6 +21,8 @@ files:
     original_filename: Picture 017cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c69e77214fb2a0c69ea76.jpg
     url: /files/original/14fb2a0c69e77214fb2a0c69ea76.jpg
+    alt:
+      en: "Two military Humvees parked near a tan building with a red awning, with damaged trees, utility poles, and a blue-roofed structure in the background beyond a grassy field and drainage ditch."
 geo:
 id: 19921
 item_type: Still Image

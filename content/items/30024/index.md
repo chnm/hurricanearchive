@@ -20,6 +20,8 @@ files:
     original_filename: pics+2006-07+133_e3541a4c42.jpg
     thumb: /files/thumbnails/14fb29ce0ab25814fb29ce0ab7bc.jpg
     url: /files/original/14fb29ce0ab25814fb29ce0ab7bc.jpg
+    alt:
+      en: "Five people gather around a table with laptops, papers, and coffee cups in an office setting, with one woman standing and holding rolled documents while others smile and work at computers."
 geo:
 id: 30024
 item_type: Still Image

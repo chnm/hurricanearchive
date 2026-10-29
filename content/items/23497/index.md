@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0135cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef3453f514fb29ef3457f7.jpg
     url: /files/original/14fb29ef3453f514fb29ef3457f7.jpg
+    alt:
+      en: "A bearded man wearing a Nikon camera strap looks down through an aircraft window, with a blurred aerial view of green fields and roads below."
 geo:
 id: 23497
 item_type: Still Image

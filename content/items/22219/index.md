@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1026Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f90d053114fb29f90d0917.jpg
     url: /files/original/14fb29f90d053114fb29f90d0917.jpg
+    alt:
+      en: "A military Black Hawk helicopter sits on a helipad with soldiers loading gear near its open door, parked trucks and trees visible in the background."
 geo:
 id: 22219
 item_type: Still Image

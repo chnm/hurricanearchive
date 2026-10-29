@@ -26,6 +26,8 @@ files:
     original_filename: katrina5_7334c661a9.jpg
     thumb: /files/thumbnails/14fb2a70b9fbe114fb2a70b9ffc5.jpg
     url: /files/original/14fb2a70b9fbe114fb2a70b9ffc5.jpg
+    alt:
+      en: "A two-story wooden house with a balcony stands partially surrounded by floodwater, its lower level damaged, with bare trees and debris in the foreground."
 geo:
   address: ''
   lat: 29.9670553526425

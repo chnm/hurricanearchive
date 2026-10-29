@@ -21,6 +21,8 @@ files:
     original_filename: Picture 063engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa316ff14fb2a0fa31aec.jpg
     url: /files/original/14fb2a0fa316ff14fb2a0fa31aec.jpg
+    alt:
+      en: "Aerial view of a hospital complex with cylindrical tower and adjacent professional building, roofs showing storm damage, surrounded by empty parking lots and streets with standing water."
 geo:
 id: 19503
 item_type: Still Image

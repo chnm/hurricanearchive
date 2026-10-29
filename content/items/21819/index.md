@@ -21,6 +21,8 @@ files:
     original_filename: '#4.jpg'
     thumb: /files/thumbnails/14fb29fb7d53e614fb29fb7d57c5.jpg
     url: /files/original/14fb29fb7d53e614fb29fb7d57c5.jpg
+    alt:
+      en: "Aerial black-and-white photo showing a washed-out roadway bridge with scattered trailer-like debris across a marshy waterway, surrounded by dense vegetation and a curving highway in the upper left."
 geo:
 id: 21819
 item_type: Still Image

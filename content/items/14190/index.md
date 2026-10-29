@@ -21,6 +21,8 @@ files:
     original_filename: SRT at superdome.JPG
     thumb: /files/thumbnails/14fb2a1abb20d814fb2a1abb24bc.jpg
     url: /files/original/14fb2a1abb20d814fb2a1abb24bc.jpg
+    alt:
+      en: "Two military personnel in camouflage uniforms face each other; one wears a cap labeled \"S.R.T.\" and the other has a nametag reading \"Magee\" and a U.S. flag patch on his sleeve."
 geo:
   address: ''
   lat: 0.0

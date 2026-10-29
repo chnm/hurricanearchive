@@ -23,6 +23,8 @@ files:
     original_filename: 1231252394_9ada1b182b.jpg
     thumb: /files/thumbnails/14fb29cb19d8b614fb29cb19de7a.jpg
     url: /files/original/14fb29cb19d8b614fb29cb19de7a.jpg
+    alt:
+      en: "A weathered purple corner storefront with boarded windows and the number \"524\" above its entrance, flanked by teal and yellow houses, under a cloudy sky."
 geo:
 id: 33255
 item_type: Still Image

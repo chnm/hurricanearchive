@@ -20,6 +20,8 @@ files:
     original_filename: wilton dr gutted_57ecb71cc3.JPG
     thumb: /files/thumbnails/14fb2a187ca5e514fb2a187ca9cc.jpg
     url: /files/original/14fb2a187ca5e514fb2a187ca9cc.jpg
+    alt:
+      en: "Interior of a gutted house reduced to exposed wooden stud framing and ceiling joists, with sunlight streaming through bare window frames and a plank subfloor cluttered with debris."
 geo:
   address: 5748 Wilton Drive
   lat: 0.0

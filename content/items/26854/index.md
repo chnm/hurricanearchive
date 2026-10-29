@@ -21,6 +21,8 @@ files:
     original_filename: 03FB7D~1_25a80e7926.jpg
     thumb: /files/thumbnails/14fb29d7357be714fb29d735873b.jpg
     url: /files/original/14fb29d7357be714fb29d735873b.jpg
+    alt:
+      en: "Vintage photo postcard with decorative border showing two women in bathing suits walking along a shoreline, with a car parked on the sand in the distance; captioned \"Grand Isle, La. June, 1934. Beach Scene. Mary & Margaret K.\""
 geo:
   address: ''
   lat: 29.84064

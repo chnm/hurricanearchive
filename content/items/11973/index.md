@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 020.jpg
     thumb: /files/thumbnails/14fb2a22803ec314fb2a228042ab.jpg
     url: /files/original/14fb2a22803ec314fb2a228042ab.jpg
+    alt:
+      en: "Storm-damaged roadside businesses including \"Sig's Cafe\" and \"FoodMart,\" surrounded by scattered debris, with a wooden \"CLOSED\" sign, traffic cones, and a yield sign in the foreground."
 geo:
 id: 11973
 item_type: Still Image

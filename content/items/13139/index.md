@@ -21,6 +21,8 @@ files:
     original_filename: upperlvl garage wind.jpg
     thumb: /files/thumbnails/14fb2a201f3a0b14fb2a201f4141.jpg
     url: /files/original/14fb2a201f3a0b14fb2a201f4141.jpg
+    alt:
+      en: "Heavy rain and fog obscure a wet parking garage upper level, with a truck parked at left, cable railings, light poles, and a distant transmission tower barely visible through the mist."
 geo:
 id: 13139
 item_type: Still Image

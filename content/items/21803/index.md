@@ -21,6 +21,8 @@ files:
     original_filename: katrina 073.jpg
     thumb: /files/thumbnails/14fb29fba87b1a14fb29fba8823a.jpg
     url: /files/original/14fb29fba87b1a14fb29fba8823a.jpg
+    alt:
+      en: "Downtown New Orleans skyline viewed from an elevated highway, with floodwater covering streets and a grassy median near a \"Welcome to New Orleans\" sign; a car's hood is visible in the foreground."
 geo:
 id: 21803
 item_type: Still Image

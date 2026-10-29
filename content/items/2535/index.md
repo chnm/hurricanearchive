@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8765.jpg
     thumb: /files/thumbnails/14fb2a6598e00314fb2a659a6a6e.jpg
     url: /files/original/14fb2a6598e00314fb2a659a6a6e.jpg
+    alt:
+      en: "A toppled water tower reading \"BURAS\" lies on its side amid storm debris, with a damaged house and downed power lines nearby under a clear blue sky."
 geo:
 id: 2535
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20050928005.JPG
     thumb: /files/thumbnails/14fb2a1c1475b314fb2a1c14798c.jpg
     url: /files/original/14fb2a1c1475b314fb2a1c14798c.jpg
+    alt:
+      en: "Printed page titled \"528th Engineer Battalion\" with a photo of trucks working near a fence and water, text describing debris removal work with Jefferson Parish crews, and the motto \"To the Very End!\""
 geo:
   address: ''
   lat: 0.0

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7013_85d844fcad.jpg
     thumb: /files/thumbnails/14fb29db6b006f14fb29db6ba98d.jpg
     url: /files/original/14fb29db6b006f14fb29db6ba98d.jpg
+    alt:
+      en: "Sepia-toned group portrait of nine hospital staff members in white uniforms and suits, seated and standing on a bench in front of large banana leaf plants, associated with Flint-Goodridge Hospital."
 geo:
   address: ''
   lat: 29.84064

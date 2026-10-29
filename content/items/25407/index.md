@@ -21,6 +21,8 @@ files:
     original_filename: Next to the Superdome 2superdome.jpg
     thumb: /files/thumbnails/14fb29de260ff214fb29de2613d3.jpg
     url: /files/original/14fb29de260ff214fb29de2613d3.jpg
+    alt:
+      en: "Floodwater submerges a street near an elevated highway, with people wading through water past partially submerged vehicles and a crowd gathered near trucks in the background at dusk."
 geo:
 id: 25407
 item_type: Still Image

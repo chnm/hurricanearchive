@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27961.jpg
     thumb: /files/thumbnails/14fb2a6ac9956114fb2a6ac99943.jpg
     url: /files/original/14fb2a6ac9956114fb2a6ac99943.jpg
+    alt:
+      en: "A fallen metal pole lies across a parking lot near a torn banner reading \"COX,\" with a beige building, parked vehicles, and an elevated pedestrian bridge visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

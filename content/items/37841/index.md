@@ -20,6 +20,8 @@ files:
     original_filename: katrina_2304d2ef98.jpg
     thumb: /files/thumbnails/14fb29c551d12f14fb29c551d515.jpg
     url: /files/original/14fb29c551d12f14fb29c551d515.jpg
+    alt:
+      en: "Flood-damaged bedroom with walls and ceiling heavily stained by dark mold, a collapsed ceiling fan, and a jumbled pile of ruined furniture and debris covering the floor."
 geo:
   address: 4813 Virgilian St.
   lat: 0.0

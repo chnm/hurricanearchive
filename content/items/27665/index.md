@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6490_29e5612570.JPG
     thumb: /files/thumbnails/14fb29d3397c7d14fb29d3398062.jpg
     url: /files/original/14fb29d3397c7d14fb29d3398062.jpg
+    alt:
+      en: "A woman in a cream suit holds hands with a young boy in a tuxedo as they walk down the aisle inside a church, with guests and pendant lights visible in the background."
 geo:
   address: ''
   lat: 29.95493

@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-18party_fdc9598981.jpg
     thumb: /files/thumbnails/14fb29dc7d911314fb29dc7d94f2.jpg
     url: /files/original/14fb29dc7d911314fb29dc7d94f2.jpg
+    alt:
+      en: "Group photo of about fifteen people posed closely together outdoors in front of bare trees, with a wheelbarrow at right; the photograph's edges show heavy water and chemical damage with orange and yellow discoloration."
 geo:
 id: 25741
 item_type: Still Image

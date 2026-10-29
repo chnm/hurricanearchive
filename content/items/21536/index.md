@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0286-9-25.JPG
     thumb: /files/thumbnails/14fb29fdb9ace514fb29fdb9b0ca.jpg
     url: /files/original/14fb29fdb9ace514fb29fdb9b0ca.jpg
+    alt:
+      en: "Aerial view of a building with a corrugated metal roof and adjacent structure with a blue-trimmed roof, surrounded by a paved lot, trees, and murky floodwater covering the ground."
 geo:
 id: 21536
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2132superdome.JPG
     thumb: /files/thumbnails/14fb29e49e5ba214fb29e49e5f88.jpg
     url: /files/original/14fb29e49e5ba214fb29e49e5f88.jpg
+    alt:
+      en: "Several men, including one in military camouflage, sit in the open bed of a canvas-covered military truck marked \"225GP 527E\" and \"B33,\" parked under a covered structure."
 geo:
 id: 24810
 item_type: Still Image

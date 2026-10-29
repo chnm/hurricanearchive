@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1211Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6de204914fb29f6de242e.jpg
     url: /files/original/14fb29f6de204914fb29f6de242e.jpg
+    alt:
+      en: "Interior wall cavity exposed with pink fiberglass insulation sagging above metal ductwork and wood framing, revealing a \"WALLBOARD\" labeled panel amid water-damaged building materials."
 geo:
 id: 22385
 item_type: Still Image

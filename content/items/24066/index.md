@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29eb1b751714fb29eb1b78f3.jpg
     url: /files/original/14fb29eb1b751714fb29eb1b78f3.jpg
+    alt:
+      en: "Aerial view of flooded marshland with patches of submerged vegetation, scattered trees, and small islands of brush surrounded by dark water."
 geo:
 id: 24066
 item_type: Still Image

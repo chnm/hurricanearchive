@@ -26,6 +26,8 @@ files:
     original_filename: P1050149_4581dddc7f.JPG
     thumb: /files/thumbnails/14fb2a703f163a14fb2a703f1a20.jpg
     url: /files/original/14fb2a703f163a14fb2a703f1a20.jpg
+    alt:
+      en: "A tattered American flag, its stars field and striped fabric shredded into ribbons, hangs twisted around a white flagpole amid surrounding tree branches."
 geo:
   address: ''
   lat: 30.2234751165002

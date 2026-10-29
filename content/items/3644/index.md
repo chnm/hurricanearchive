@@ -24,6 +24,8 @@ files:
     original_filename: P1010080.JPG
     thumb: /files/thumbnails/14fb2a5a80ecfc14fb2a5a80f0cb.jpg
     url: /files/original/14fb2a5a80ecfc14fb2a5a80f0cb.jpg
+    alt:
+      en: "A pile of tarnished and rusted silverware—forks, spoons, and knives—scattered on pavement alongside dried leaves, pine needles, and a crumpled yellow paper."
 geo:
 id: 3644
 item_type: Still Image

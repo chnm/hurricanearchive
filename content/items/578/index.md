@@ -26,6 +26,8 @@ files:
     original_filename: 038_38_3e0dafb38b.JPG
     thumb: /files/thumbnails/14fb2a6f7b010914fb2a6f7b04e5.jpg
     url: /files/original/14fb2a6f7b010914fb2a6f7b04e5.jpg
+    alt:
+      en: "A gutted Wal-Mart storefront with its entrance canopy and interior structure exposed, situated behind an empty parking lot with portable toilets and a stack of pallets in the foreground."
 geo:
   address: ''
   lat: 30.374646

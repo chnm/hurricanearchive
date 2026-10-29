@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1622neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee7aa87b14fb29ee7aac60.jpg
     url: /files/original/14fb29ee7aa87b14fb29ee7aac60.jpg
+    alt:
+      en: "Flooded city street with a military Humvee and several vehicles submerged in water, people wading near buildings, one with a visible \"New Orleans Shopping Center\" sign."
 geo:
 id: 23610
 item_type: Still Image

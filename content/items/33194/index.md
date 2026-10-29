@@ -23,6 +23,8 @@ files:
     original_filename: 1438010575_baa3534a85.
     thumb: /files/thumbnails/14fb29cbac6a4614fb29cbac6c7d.jpg
     url: /files/original/14fb29cbac6a4614fb29cbac6c7d.jpg
+    alt:
+      en: "A severely bent metal sign post leans at a sharp angle over an empty, overgrown lot, its sign frame twisted and stripped bare, set against a partly cloudy sky."
 geo:
 id: 33194
 item_type: Still Image

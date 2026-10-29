@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2082superdome.JPG
     thumb: /files/thumbnails/14fb29e51b44c814fb29e51b85d0.jpg
     url: /files/original/14fb29e51b44c814fb29e51b85d0.jpg
+    alt:
+      en: "A group of people, including a man in military camouflage, stand in a dim hallway facing glass exit doors marked \"exit Claiborne Avenue,\" with rain visible outside."
 geo:
 id: 24760
 item_type: Still Image

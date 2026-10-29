@@ -21,6 +21,8 @@ files:
     original_filename: 09270018plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec2abe4914fb29ec2ac57f.jpg
     url: /files/original/14fb29ec2abe4914fb29ec2ac57f.jpg
+    alt:
+      en: "A storm-ravaged lot strewn with twisted metal roofing, splintered lumber, and debris, with a mud-covered pickup truck parked amid the wreckage and bare trees in the background."
 geo:
 id: 23980
 item_type: Still Image

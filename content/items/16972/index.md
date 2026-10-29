@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5901_362bffd472.jpg
     thumb: /files/thumbnails/14fb2a15930c0614fb2a15930fe8.jpg
     url: /files/original/14fb2a15930c0614fb2a15930fe8.jpg
+    alt:
+      en: "A group of elderly men and women in traditional costumes with red, yellow, and blue sashes sit in front of a \"Los Islenos Heritage & Cultural Society\" banner on a porch."
 geo:
 id: 16972
 item_type: Still Image

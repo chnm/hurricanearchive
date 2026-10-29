@@ -26,6 +26,8 @@ files:
     original_filename: lakeview_7cc092bbe8.jpg
     thumb: /files/thumbnails/14fb2a70b90daa14fb2a70b9118f.jpg
     url: /files/original/14fb2a70b90daa14fb2a70b9118f.jpg
+    alt:
+      en: "Flood-damaged living room with mud-caked floors, a stained blue armchair and sofa, overturned wooden furniture, scattered debris, and a stacked washer-dryer unit against the wall; a \"New Orleans\" poster hangs amid the wreckage."
 geo:
   address: ''
   lat: 29.9138764383176

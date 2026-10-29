@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2077superdome.JPG
     thumb: /files/thumbnails/14fb29ded04c3814fb29ded04ffa.jpg
     url: /files/original/14fb29ded04c3814fb29ded04ffa.jpg
+    alt:
+      en: "A man with closely cropped hair, wearing a tan short-sleeved shirt, walks in profile along a roadway with a yellow curb line and concrete barrier in the background."
 geo:
 id: 25350
 item_type: Still Image

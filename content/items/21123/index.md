@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0180-9-25.JPG
     thumb: /files/thumbnails/14fb2a00708c9d14fb2a00709585.jpg
     url: /files/original/14fb2a00708c9d14fb2a00709585.jpg
+    alt:
+      en: "Aerial view of a flooded causeway with a displaced mobile home resting on the roadway, surrounded by floodwaters, downed utility poles, and debris-strewn marsh islands."
 geo:
 id: 21123
 item_type: Still Image

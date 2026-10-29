@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28048.jpg
     thumb: /files/thumbnails/14fb2a6af8fa0d14fb2a6af8fdf2.jpg
     url: /files/original/14fb2a6af8fa0d14fb2a6af8fdf2.jpg
+    alt:
+      en: "A leaning utility pole with tangled power lines rests against a damaged house, surrounded by storm debris, downed palm fronds, and a barren, muddy yard."
 geo:
   address: ''
   lat: 0.0

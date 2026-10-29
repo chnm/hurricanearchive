@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0448.JPG
     thumb: /files/thumbnails/14fb2a53e57c2814fb2a53e5800d.jpg
     url: /files/original/14fb2a53e57c2814fb2a53e5800d.jpg
+    alt:
+      en: "A yellow tape measure spans a weathered surface with peeling paint and splintered wood fragments, laid near a seam where the material meets a coarse, sandy textured surface."
 geo:
 id: 5103
 item_type: Still Image

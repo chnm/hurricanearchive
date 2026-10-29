@@ -21,6 +21,8 @@ files:
     original_filename: traffic1.jpg
     thumb: /files/thumbnails/14fb2a1e76f60314fb2a1e76f9e9.jpg
     url: /files/original/14fb2a1e76f60314fb2a1e76f9e9.jpg
+    alt:
+      en: "Long line of stopped traffic, including an RV and several cars, backed up along a highway opposite empty lanes, with trees and power lines in the background under an overcast sky."
 geo:
 id: 13265
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Venice - Oil sheen around white tanks.jpg
     thumb: /files/thumbnails/14fb29fb06ecf214fb29fb0702f6.jpg
     url: /files/original/14fb29fb06ecf214fb29fb0702f6.jpg
+    alt:
+      en: "Aerial view from an airplane wing over flooded Venice, Louisiana, showing submerged buildings, a narrow strip of land, and several large white storage tanks surrounded by water with an oil sheen."
 geo:
 id: 21915
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p1_04_007a146e79.jpg
     thumb: /files/thumbnails/14fb2a177eaf6314fb2a177ee2de.jpg
     url: /files/original/14fb2a177eaf6314fb2a177ee2de.jpg
+    alt:
+      en: "Vintage color photo of five people posed in front of a decorated Christmas tree, with two men and two women holding a toddler and an infant, taken in 1980."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

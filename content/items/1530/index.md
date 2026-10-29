@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27945.jpg
     thumb: /files/thumbnails/14fb2a6820d4fb14fb2a6820d89e.jpg
     url: /files/original/14fb2a6820d4fb14fb2a6820d89e.jpg
+    alt:
+      en: "Tall sign tower above the Superdome displaying a Coca-Cola ad and a banner reading \"Someone will win $1 Million,\" with a storm-damaged, debris-tangled tree in the foreground."
 geo:
   address: ''
   lat: 0.0

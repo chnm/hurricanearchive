@@ -24,6 +24,8 @@ files:
     original_filename: P1010007.JPG
     thumb: /files/thumbnails/14fb2a5abaacff14fb2a5abab7cf.jpg
     url: /files/original/14fb2a5abaacff14fb2a5abab7cf.jpg
+    alt:
+      en: "A water-damaged kitchen with mold-covered countertops and cabinets; a pried-open drawer drips liquid onto the debris-strewn floor below."
 geo:
 id: 3580
 item_type: Still Image

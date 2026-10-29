@@ -25,12 +25,16 @@ files:
     original_filename: Lionell Powell_5832_29d03c8546.jpg
     thumb: /files/thumbnails/14fb29d930ff4a14fb29d93102d5.jpg
     url: /files/original/14fb29d930ff4a14fb29d93102d5.jpg
+    alt:
+      en: "Damaged, water-stained photograph showing a close-up profile of a man's face and shoulder in a light-colored suit jacket, with significant discoloration and texture distortion across the image."
   - fullsize: /files/fullsize/14fb29d92d66ee14fb29d92d6ad3.jpg
     id: 22843
     mime: image/jpeg
     original_filename: Lionell Powell_5835_1d91341762.jpg
     thumb: /files/thumbnails/14fb29d92d66ee14fb29d92d6ad3.jpg
     url: /files/original/14fb29d92d66ee14fb29d92d6ad3.jpg
+    alt:
+      en: "Wedding portrait of a smiling bride in a white lace gown holding a bouquet and groom in a white suit, standing close together; the photograph shows significant water damage and discoloration along its edges."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

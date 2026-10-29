@@ -21,6 +21,8 @@ files:
     original_filename: katrina 013.jpg
     thumb: /files/thumbnails/14fb29fc03513914fb29fc03551d.jpg
     url: /files/original/14fb29fc03513914fb29fc03551d.jpg
+    alt:
+      en: "Debris-covered plaza outside a large building entrance marked \"A,\" with scattered trash, overturned bins, chairs, and a dog near uniformed figures beneath a skyline of high-rise towers."
 geo:
 id: 21745
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1986superdome.JPG
     thumb: /files/thumbnails/14fb29e0020f2d14fb29e0021311.jpg
     url: /files/original/14fb29e0020f2d14fb29e0021311.jpg
+    alt:
+      en: "A man in military fatigues holds a young child wrapped in a cloth at the window of an \"Acadian Ambulance Service of New Orleans, L.L.C.\" van numbered 325."
 geo:
 id: 25259
 item_type: Still Image

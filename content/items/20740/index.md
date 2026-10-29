@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0068-9-25.JPG
     thumb: /files/thumbnails/14fb2a042d9b3114fb2a042d9f0e.jpg
     url: /files/original/14fb2a042d9b3114fb2a042d9f0e.jpg
+    alt:
+      en: "Aerial view of a flooded roadway cutting diagonally through submerged land, with scattered debris, downed trees, and a few visible structures surrounded by widespread standing water."
 geo:
 id: 20740
 item_type: Still Image

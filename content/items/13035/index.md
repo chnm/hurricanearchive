@@ -21,6 +21,8 @@ files:
     original_filename: before courtyard east2.jpg
     thumb: /files/thumbnails/14fb2a20f0a9e114fb2a20f0ae72.jpg
     url: /files/original/14fb2a20f0a9e114fb2a20f0ae72.jpg
+    alt:
+      en: "Landscaped courtyard with trees, bushes, and a potted plant on a paved walkway, with a street clock reading \"Hancock Bank,\" a parked SUV, and gray buildings in the background."
 geo:
 id: 13035
 item_type: Still Image

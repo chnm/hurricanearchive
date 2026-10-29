@@ -21,6 +21,8 @@ files:
     original_filename: MVC-027S.JPG
     thumb: /files/thumbnails/14fb2a5f87f73414fb2a5f87fb0d.jpg
     url: /files/original/14fb2a5f87f73414fb2a5f87fb0d.jpg
+    alt:
+      en: "Basement storage room with a large metal support column in the center, surrounded by shelves and stacks of cardboard boxes and file storage containers."
 geo:
 id: 2938
 item_type: Still Image

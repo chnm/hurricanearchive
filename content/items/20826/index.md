@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0087-15.JPG
     thumb: /files/thumbnails/14fb2a03730c9614fb2a037377b9.jpg
     url: /files/original/14fb2a03730c9614fb2a037377b9.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood showing storm-damaged roofs, scattered debris, and tarps covering structures, with trees and streets visible throughout the area."
 geo:
 id: 20826
 item_type: Still Image

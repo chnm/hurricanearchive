@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0169-9-25.JPG
     thumb: /files/thumbnails/14fb2a010bef1b14fb2a010bf303.jpg
     url: /files/original/14fb2a010bef1b14fb2a010bf303.jpg
+    alt:
+      en: "Aerial view of floodwaters covering a landscape, with scattered trees, debris, a crumpled metal roof panel, and a blue tarp submerged amid the murky green water."
 geo:
 id: 21017
 item_type: Still Image

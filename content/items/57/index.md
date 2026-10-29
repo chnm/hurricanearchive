@@ -26,6 +26,8 @@ files:
     original_filename: Katrina_6_6e3fa912cf.jpg
     thumb: /files/thumbnails/14fb2a7133a17c14fb2a7133da64.jpg
     url: /files/original/14fb2a7133a17c14fb2a7133da64.jpg
+    alt:
+      en: "Charred ruins of a burned-down house on Camp Street, with a standing brick chimney, scattered debris, and surviving homes and trees visible in the background."
 geo:
   address: ''
   lat: 0.0

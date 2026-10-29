@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9570.jpg
     thumb: /files/thumbnails/14fb2a642ef58d14fb2a642ef973.jpg
     url: /files/original/14fb2a642ef58d14fb2a642ef973.jpg
+    alt:
+      en: "Damaged houses knocked off their foundations and surrounded by storm debris, with graffiti reading \"1933 Ysclosky, Harry Phillips\" and \"Edna Robin\" spray-painted on the siding and roof."
 geo:
 id: 2612
 item_type: Still Image

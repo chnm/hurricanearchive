@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 061cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e7838c714fb2a0e783cab.jpg
     url: /files/original/14fb2a0e7838c714fb2a0e783cab.jpg
+    alt:
+      en: "Outdoor scene with a military-style diesel generator, washing machine, and appliances surrounded by cleaning supplies like Clorox and Tide, a cinder block, and an orange dumpster labeled \"236-20\" in the background."
 geo:
 id: 19674
 item_type: Still Image

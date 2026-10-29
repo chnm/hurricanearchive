@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28664.jpg
     thumb: /files/thumbnails/14fb2a6a0f3b1514fb2a6a0f3efa.jpg
     url: /files/original/14fb2a6a0f3b1514fb2a6a0f3efa.jpg
+    alt:
+      en: "Two women care for a brown horse in a stable area, one holding its lead rope while the other hoses down its hindquarters; a large fan hangs on the wall behind them."
 geo:
   address: ''
   lat: 0.0

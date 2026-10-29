@@ -18,6 +18,8 @@ files:
     original_filename: 89_c88ed93bef.jpg
     thumb: /files/thumbnails/14fb29c631338914fb29c631376e.jpg
     url: /files/original/14fb29c631338914fb29c631376e.jpg
+    alt:
+      en: "Three women in costume with red and black feathered headdresses, vivid makeup, and matching red-and-black outfits pose expressively against a dark backdrop."
 geo:
   address: new orleans, la
   lat: 29.95324

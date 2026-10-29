@@ -21,6 +21,8 @@ files:
     original_filename: P1010162empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed8d874414fb29ed8d8b29.jpg
     url: /files/original/14fb29ed8d874414fb29ed8d8b29.jpg
+    alt:
+      en: "Photo taken through a vehicle window of storm-damaged land with scorched ground, a leaning utility pole, bent fencing, a tipped-over white storage shed, and stripped trees in the background."
 geo:
 id: 23721
 item_type: Still Image

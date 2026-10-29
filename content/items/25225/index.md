@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1924superdome.JPG
     thumb: /files/thumbnails/14fb29e0af026914fb29e0af0637.jpg
     url: /files/original/14fb29e0af026914fb29e0af0637.jpg
+    alt:
+      en: "A CH-47 Chinook helicopter flies low overhead as uniformed personnel in camouflage watch from below near a chain-link fence marked \"Restricted Area, Authorized Personnel Beyond This Point.\""
 geo:
 id: 25225
 item_type: Still Image

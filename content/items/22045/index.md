@@ -21,6 +21,8 @@ files:
     original_filename: Picture 376-J2.jpg
     thumb: /files/thumbnails/14fb29f9e4766114fb29f9e492de.jpg
     url: /files/original/14fb29f9e4766114fb29f9e492de.jpg
+    alt:
+      en: "A man in camouflage fatigues and cap climbs wrought-iron steps toward a screen door, carrying a rifle slung over his shoulder, on the porch of a white vinyl-sided house."
 geo:
 id: 22045
 item_type: Still Image

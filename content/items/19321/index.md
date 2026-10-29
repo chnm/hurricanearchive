@@ -21,6 +21,8 @@ files:
     original_filename: J2 (39).JPG
     thumb: /files/thumbnails/14fb2a112f267e14fb2a11300d81.jpg
     url: /files/original/14fb2a112f267e14fb2a11300d81.jpg
+    alt:
+      en: "Aerial view of a divided highway with a flooded median and shoulders, flanked by trees, some with broken limbs and storm debris scattered along the roadside."
 geo:
 id: 19321
 item_type: Still Image

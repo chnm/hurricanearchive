@@ -25,6 +25,8 @@ files:
     original_filename: 158169414_952d796db6.jpg
     thumb: /files/thumbnails/14fb29d1e46e3d14fb29d1e47223.jpg
     url: /files/original/14fb29d1e46e3d14fb29d1e47223.jpg
+    alt:
+      en: "Two-story building with yellow and white horizontal siding, barred windows, a window AC unit, and \"BAGHDAD\" spray-painted on the lower wall; overgrown weeds line the foundation."
 geo:
 id: 28659
 item_type: Still Image

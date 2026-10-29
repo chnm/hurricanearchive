@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28759.jpg
     thumb: /files/thumbnails/14fb2a6b473bc514fb2a6b473fab.jpg
     url: /files/original/14fb2a6b473bc514fb2a6b473fab.jpg
+    alt:
+      en: "Rows of discarded plastic animal carriers and wire kennels stacked in an outdoor lot, with tents and vehicles visible in the background."
 geo:
   address: ''
   lat: 0.0

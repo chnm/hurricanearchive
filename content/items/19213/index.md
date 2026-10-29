@@ -21,6 +21,8 @@ files:
     original_filename: 01conventionctr.jpg
     thumb: /files/thumbnails/14fb2a11c8aec514fb2a11c8b275.jpg
     url: /files/original/14fb2a11c8aec514fb2a11c8b275.jpg
+    alt:
+      en: "Soldiers stand guard near large stacks of bottled water and supply boxes in a parking lot, with crowds of people and a tall hotel building in the background, dated Sep 3 2005."
 geo:
 id: 19213
 item_type: Still Image

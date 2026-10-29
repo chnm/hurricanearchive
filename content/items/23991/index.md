@@ -21,6 +21,8 @@ files:
     original_filename: 09270029plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec1a80bb14fb29ec1a84a0.jpg
     url: /files/original/14fb29ec1a80bb14fb29ec1a84a0.jpg
+    alt:
+      en: "Camouflage military Humvee parked on a dirt lot in front of a white multi-story building, with bare winter trees and a \"DO NOT ENTER\" sign visible nearby."
 geo:
 id: 23991
 item_type: Still Image

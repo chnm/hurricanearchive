@@ -23,6 +23,8 @@ files:
     original_filename: 2380071455_fde1362d6e.
     thumb: /files/thumbnails/14fb29ca40a8c314fb29ca40ae24.jpg
     url: /files/original/14fb29ca40a8c314fb29ca40ae24.jpg
+    alt:
+      en: "Two-story beige house with gabled roofs and a covered entrance, palm trees in the front yard, a white sedan and two red pickup trucks parked in the driveway under an overcast sky."
 geo:
   address: ''
   lat: 30.22437

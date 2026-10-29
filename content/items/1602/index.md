@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28629.jpg
     thumb: /files/thumbnails/14fb2a678a7dcd14fb2a678a8190.jpg
     url: /files/original/14fb2a678a7dcd14fb2a678a8190.jpg
+    alt:
+      en: "A weathered \"Georgetown of New Orleans\" sign stands amid overgrown brush and debris, with a cupola-topped brick building and bare trees in the background along an empty road."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0453.JPG
     thumb: /files/thumbnails/14fb2a53ded33d14fb2a53ded72a.jpg
     url: /files/original/14fb2a53ded33d14fb2a53ded72a.jpg
+    alt:
+      en: "A large flat rooftop with gridded seams extends into the distance, with scattered debris, a truck, and damaged structures visible along the horizon."
 geo:
 id: 5108
 item_type: Still Image

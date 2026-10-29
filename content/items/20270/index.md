@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0043.JPG
     thumb: /files/thumbnails/14fb2a0a33daf514fb2a0a340911.jpg
     url: /files/original/14fb2a0a33daf514fb2a0a340911.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses surrounded by floodwater, fallen trees, and downed power lines, roofs and treetops visible above the waterline."
 geo:
 id: 20270
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-17-16AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f960850114fb29f9608f0b.jpg
     url: /files/original/14fb29f960850114fb29f9608f0b.jpg
+    alt:
+      en: "Close-up, out-of-focus shot through a woven mesh screen, with a blurred blue-green surface visible beyond it."
 geo:
 id: 22137
 item_type: Still Image

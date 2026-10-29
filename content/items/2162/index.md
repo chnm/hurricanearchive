@@ -26,6 +26,8 @@ files:
     original_filename: kat22_2b24fbf4f0.JPG
     thumb: /files/thumbnails/14fb2a6d9046da14fb2a6d904ac8.jpg
     url: /files/original/14fb2a6d9046da14fb2a6d904ac8.jpg
+    alt:
+      en: "Volunteers and storm victims sort donated supplies—diapers, feminine products, baby wipes, clothing, and canned goods—piled on tables and boxes in a church shelter room, with a \"Jesus Loves Us\" banner on the wall."
 geo:
   address: ''
   lat: 31.107036956407104

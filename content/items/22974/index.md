@@ -21,6 +21,8 @@ files:
     original_filename: Steph and Frank on BlackHawkmedia.jpg
     thumb: /files/thumbnails/14fb29f25c514e14fb29f25c553c.jpg
     url: /files/original/14fb29f25c514e14fb29f25c553c.jpg
+    alt:
+      en: "Two people wearing aviation headsets with microphones sit inside a helicopter, both smiling at the camera, with cockpit equipment and straps visible around them."
 geo:
 id: 22974
 item_type: Still Image

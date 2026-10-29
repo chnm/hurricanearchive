@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0707d42614fb2a0707d80b.jpg
     url: /files/original/14fb2a0707d42614fb2a0707d80b.jpg
+    alt:
+      en: "A single-story white house with a metal roof and dark green shutters stands surrounded by floodwater, with a pickup truck partially submerged nearby and overcast skies above."
 geo:
 id: 20465
 item_type: Still Image

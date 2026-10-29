@@ -24,6 +24,8 @@ files:
     original_filename: P1010009.JPG
     thumb: /files/thumbnails/14fb2a5ab6f03a14fb2a5ab6f41b.jpg
     url: /files/original/14fb2a5ab6f03a14fb2a5ab6f41b.jpg
+    alt:
+      en: "Collapsed ceiling with hanging insulation marked \"JM Fiber Glass Home Insulation,\" water-stained walls, and a window air conditioner above debris-covered furniture in a flood-damaged room."
 geo:
 id: 3582
 item_type: Still Image

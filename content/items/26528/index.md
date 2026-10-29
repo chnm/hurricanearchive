@@ -20,6 +20,8 @@ files:
     original_filename: 100_0328_0013_1_eb38725bc6.jpg
     thumb: /files/thumbnails/14fb29d865839714fb29d865877d.jpg
     url: /files/original/14fb29d865839714fb29d865877d.jpg
+    alt:
+      en: "Parade marchers in matching green and orange suits with elaborate feathered headdresses walk down a street lined with spectators; a timestamp reads \"27/03/2005.\""
 geo:
   address: ''
   lat: 0.0

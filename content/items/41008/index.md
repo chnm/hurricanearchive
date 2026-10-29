@@ -20,6 +20,8 @@ files:
     original_filename: 4 - Canal 1_44c905d306.JPG
     thumb: /files/thumbnails/14fb29c4b08bc214fb29c4b08fa8.jpg
     url: /files/original/14fb29c4b08bc214fb29c4b08fa8.jpg
+    alt:
+      en: "A tree-lined residential street with houses behind white picket fences, parked cars along the curb, and a \"SCHOOL\" marking painted on the pavement."
 geo:
   address: ''
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: Katrina 3_b689aa4929.jpg
     thumb: /files/thumbnails/14fb29c2d1f86814fb29c2d22ff6.jpg
     url: /files/original/14fb29c2d1f86814fb29c2d22ff6.jpg
+    alt:
+      en: "Rusted blue car abandoned on overgrown grass beside a damaged white house with a torn awning and chain-link fence, with a blue construction crane visible in the background."
 geo:
   address: ''
   lat: 29.97531

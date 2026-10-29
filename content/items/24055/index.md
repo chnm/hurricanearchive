@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eb2c00d714fb29eb2c04bc.jpg
     url: /files/original/14fb29eb2c00d714fb29eb2c04bc.jpg
+    alt:
+      en: "A female reporter holding a notepad and pen interviews a U.S. Army soldier in camouflage uniform beside a military Humvee, with a television camera visible in the foreground."
 geo:
 id: 24055
 item_type: Still Image

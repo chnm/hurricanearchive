@@ -21,6 +21,8 @@ files:
     original_filename: LionelPowell-5831_1f70b3140e.jpg
     thumb: /files/thumbnails/14fb29d921cef714fb29d921d2e4.jpg
     url: /files/original/14fb29d921cef714fb29d921d2e4.jpg
+    alt:
+      en: "Close-up portrait of a smiling woman with a white headband and lace veil, part of a wedding party photo with visible wear and damage to the print."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

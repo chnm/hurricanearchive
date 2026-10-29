@@ -21,6 +21,8 @@ files:
     original_filename: S4300068zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0eeb286714fb2a0eeb2c59.jpg
     url: /files/original/14fb2a0eeb286714fb2a0eeb2c59.jpg
+    alt:
+      en: "Dimly lit dusk scene showing two or three people standing near a dark structure, with silhouetted trees and a lighter sky visible in the upper left background."
 geo:
 id: 19590
 item_type: Still Image

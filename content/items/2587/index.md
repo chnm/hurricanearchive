@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9313.jpg
     thumb: /files/thumbnails/14fb2a6484425a14fb2a64844660.jpg
     url: /files/original/14fb2a6484425a14fb2a64844660.jpg
+    alt:
+      en: "Flood-ravaged kitchen with mud-caked debris and tangled tree branches piled atop a dishwasher and countertops, open cabinets hanging askew, and dishes still visible amid the wreckage."
 geo:
 id: 2587
 item_type: Still Image

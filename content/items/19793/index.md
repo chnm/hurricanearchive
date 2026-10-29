@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 032cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dcc139b14fb2a0dcc177f.jpg
     url: /files/original/14fb2a0dcc139b14fb2a0dcc177f.jpg
+    alt:
+      en: "A street corner with a historical marker reading \"Faubourg Bouligny,\" piles of garbage bags and debris along the curb, a fallen bicycle, and a street sign reading \"St. Charles Av.\""
 geo:
 id: 19793
 item_type: Still Image

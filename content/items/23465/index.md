@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0118abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef4da97214fb29ef4dad34.jpg
     url: /files/original/14fb29ef4da97214fb29ef4dad34.jpg
+    alt:
+      en: "A soldier in camouflage uniform and a man in a white shirt and camo shorts walk along a gravel path beside floodwater and tall reeds, with dead trees in the background."
 geo:
 id: 23465
 item_type: Still Image

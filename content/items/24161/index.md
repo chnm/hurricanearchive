@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea3091f914fb29ea3095ea.jpg
     url: /files/original/14fb29ea3091f914fb29ea3095ea.jpg
+    alt:
+      en: "Aerial view of a flattened coastal community reduced to scattered debris and building foundations, surrounded by flooded marshland and a sandy shoreline, with utility poles still standing amid the wreckage."
 geo:
 id: 24161
 item_type: Still Image

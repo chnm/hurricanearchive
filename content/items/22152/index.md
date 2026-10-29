@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-05-4AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f950b8a614fb29f950bc86.jpg
     url: /files/original/14fb29f950b8a614fb29f950bc86.jpg
+    alt:
+      en: "Flooded parking lot with several vehicles partially submerged in murky water, a streetlamp lit in the foreground, and power lines strung between poles under a hazy, overcast sky."
 geo:
 id: 22152
 item_type: Still Image

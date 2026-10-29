@@ -21,6 +21,8 @@ files:
     original_filename: P1010122empireS&R.JPG
     thumb: /files/thumbnails/14fb29edea815314fb29edea8539.jpg
     url: /files/original/14fb29edea815314fb29edea8539.jpg
+    alt:
+      en: "Flooded roadside landscape with submerged fields and fence posts, a line of trees partially underwater, and power lines on poles against an overcast sky, with dry grass in the foreground."
 geo:
 id: 23681
 item_type: Still Image

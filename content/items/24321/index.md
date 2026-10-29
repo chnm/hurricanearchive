@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-14-12A.jpg
     thumb: /files/thumbnails/14fb29e8bb573214fb29e8bb5b18.jpg
     url: /files/original/14fb29e8bb573214fb29e8bb5b18.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rows of houses surrounded by murky floodwater, submerged streets, and scattered trees, extending toward a hazy city skyline in the distance."
 geo:
 id: 24321
 item_type: Still Image

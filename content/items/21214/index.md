@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0198.JPG
     thumb: /files/thumbnails/14fb29fff678f514fb29fff67cda.jpg
     url: /files/original/14fb29fff678f514fb29fff67cda.jpg
+    alt:
+      en: "Aerial view of a flattened neighborhood with collapsed houses, scattered debris, and standing floodwater; a few scraggly trees remain among submerged cars and wreckage."
 geo:
 id: 21214
 item_type: Still Image

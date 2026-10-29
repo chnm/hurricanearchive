@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 014.jpg
     thumb: /files/thumbnails/14fb2a59f218a114fb2a59f21c84.jpg
     url: /files/original/14fb2a59f218a114fb2a59f21c84.jpg
+    alt:
+      en: "Three storm-damaged boats sit amid piles of wooden debris and broken trees, with one boat tipped on its side and another impaled by debris, under a clear blue sky."
 geo:
 id: 3734
 item_type: Still Image

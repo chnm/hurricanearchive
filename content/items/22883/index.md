@@ -21,6 +21,8 @@ files:
     original_filename: NO 005majortodd.jpg
     thumb: /files/thumbnails/14fb29f2ed65ef14fb29f2ed968c.jpg
     url: /files/original/14fb29f2ed65ef14fb29f2ed968c.jpg
+    alt:
+      en: "Aerial view of a hazy coastal cityscape with buildings along a waterfront, a causeway bridge crossing the water, and sunlight reflecting off the water's surface in bright patches."
 geo:
 id: 22883
 item_type: Still Image

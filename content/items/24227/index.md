@@ -21,6 +21,8 @@ files:
     original_filename: 09140008.JPG
     thumb: /files/thumbnails/14fb29e982b36314fb29e982b7cf.jpg
     url: /files/original/14fb29e982b36314fb29e982b7cf.jpg
+    alt:
+      en: "Military vehicles travel down a debris-strewn residential street lined with houses, parked civilian cars, and overhead power lines, viewed from inside another military vehicle."
 geo:
 id: 24227
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0055.JPG
     thumb: /files/thumbnails/14fb2a5606f9c314fb2a5606fda8.jpg
     url: /files/original/14fb2a5606f9c314fb2a5606fda8.jpg
+    alt:
+      en: "Cleared lot with a large black dumpster and debris pile, a truck with a crane arm, scattered rubble and bricks on bare ground, surrounded by damaged, broken trees under a clear blue sky."
 geo:
 id: 4708
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 112.jpg
     thumb: /files/thumbnails/14fb2a11d11c3914fb2a11d1201e.jpg
     url: /files/original/14fb2a11d11c3914fb2a11d1201e.jpg
+    alt:
+      en: "Military trucks and a tracked vehicle occupy a debris-strewn, cleared lot beneath a large \"Arabi Self Storage\" sign, with damaged buildings and a water tower visible in the background."
 geo:
 id: 19202
 item_type: Still Image

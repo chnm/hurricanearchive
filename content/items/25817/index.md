@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-shrimpsalad_940f1e3eee.jpg
     thumb: /files/thumbnails/14fb29dc0687f014fb29dc068bd5.jpg
     url: /files/original/14fb29dc0687f014fb29dc068bd5.jpg
+    alt:
+      en: "Scanned cookbook page under the header \"Breads, Salads & Miscellaneous\" showing the recipe \"Shrimp Salad (Robin)\" with ingredients, instructions, and a quote credited to Celie Robin."
 geo:
 id: 25817
 item_type: Still Image

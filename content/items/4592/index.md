@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0018.JPG
     thumb: /files/thumbnails/14fb2a56e840d114fb2a56e8445a.jpg
     url: /files/original/14fb2a56e840d114fb2a56e8445a.jpg
+    alt:
+      en: "A fallen tree and scattered storm debris lie in front of a white house with a blue tarp covering its damaged roof."
 geo:
 id: 4592
 item_type: Still Image

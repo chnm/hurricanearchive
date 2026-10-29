@@ -21,6 +21,8 @@ files:
     original_filename: Picture 395-J2.jpg
     thumb: /files/thumbnails/14fb29f9b4be1414fb29f9b4c59f.jpg
     url: /files/original/14fb29f9b4be1414fb29f9b4c59f.jpg
+    alt:
+      en: "Four men in military-style clothing stand on a grassy area and paved path near a pond, with one in foreground talking on a cell phone and a Humvee partially visible at left."
 geo:
 id: 22064
 item_type: Still Image

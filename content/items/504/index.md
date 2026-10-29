@@ -26,6 +26,8 @@ files:
     original_filename: bucktown2thumb1_0ef20469bb.jpg
     thumb: /files/thumbnails/14fb2a6fab20ef14fb2a6fab24d4.jpg
     url: /files/original/14fb2a6fab20ef14fb2a6fab24d4.jpg
+    alt:
+      en: "A rainbow arcs over a flooded house with water reaching its porch, surrounded by submerged trees and debris under a cloudy sky."
 geo:
   address: ''
   lat: 30.0223981333294

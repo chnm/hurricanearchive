@@ -21,6 +21,8 @@ files:
     original_filename: 527chinookPicture2rescuehelicopter.png
     thumb: /files/thumbnails/14fb2a1542367614fb2a15423a5b.jpg
     url: /files/original/14fb2a1542367614fb2a15423a5b.jpg
+    alt:
+      en: "A Chinook helicopter hovers above a flooded residential neighborhood, with rooftops and houses partially submerged in brown floodwater extending across the landscape."
 geo:
 id: 18781
 item_type: Still Image

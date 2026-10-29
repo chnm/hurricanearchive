@@ -21,6 +21,8 @@ files:
     original_filename: BlueRoomMaDadEvelynGeorge52_56e9faeb08.JPG
     thumb: /files/thumbnails/14fb2a16eadc5214fb2a16eadfcd.jpg
     url: /files/original/14fb2a16eadc5214fb2a16eadfcd.jpg
+    alt:
+      en: "Black-and-white photo of two couples seated at a nightclub table beneath an ornate candelabra, smiling for the camera, with a waiter standing nearby in the background."
 geo:
   address: ''
   lat: 37.77123

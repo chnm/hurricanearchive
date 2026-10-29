@@ -21,6 +21,8 @@ files:
     original_filename: Picture3.png
     thumb: /files/thumbnails/14fb29fc29a3f014fb29fc29a7d7.jpg
     url: /files/original/14fb29fc29a3f014fb29fc29a7d7.jpg
+    alt:
+      en: "A long metal tool or blade lies across a thick layer of dark, wet mud and sludge, with a wooden plank structure visible in the background."
 geo:
 id: 21726
 item_type: Still Image

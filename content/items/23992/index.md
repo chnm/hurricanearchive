@@ -21,6 +21,8 @@ files:
     original_filename: 09270030plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec19485114fb29ec194c35.jpg
     url: /files/original/14fb29ec19485114fb29ec194c35.jpg
+    alt:
+      en: "Large cylindrical storage tanks stand amid storm debris on muddy ground, with an overturned boat hull, scattered wreckage, and standing water in the foreground under a hazy sky."
 geo:
 id: 23992
 item_type: Still Image

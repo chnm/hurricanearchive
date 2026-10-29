@@ -21,6 +21,8 @@ files:
     original_filename: LeoSchaeffer4A_dd45e75d54.jpg
     thumb: /files/thumbnails/14fb29dd39d51e14fb29dd39d901.jpg
     url: /files/original/14fb29dd39d51e14fb29dd39d901.jpg
+    alt:
+      en: "A white commercial building with a loading dock, dumpsters, and trash compactors stands beyond a vacant lot of deeply cracked, dried mud under a clear blue sky."
 geo:
 id: 25547
 item_type: Still Image

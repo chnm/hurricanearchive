@@ -21,6 +21,8 @@ files:
     original_filename: PICT0863Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f44f3e8d14fb29f4500033.jpg
     url: /files/original/14fb29f44f3e8d14fb29f4500033.jpg
+    alt:
+      en: "Damaged mobile home with torn siding and broken windows sits amid cracked, mud-covered ground; dated 09.15.2005, with power lines, bare trees, and more storm-damaged structures in the background."
 geo:
 id: 22741
 item_type: Still Image

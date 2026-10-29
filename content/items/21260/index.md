@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0209-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffba364914fb29ffba3a2f.jpg
     url: /files/original/14fb29ffba364914fb29ffba3a2f.jpg
+    alt:
+      en: "Close-up of a camouflage military uniform sleeve with a reversed American flag patch, as the wearer leans into a dark vehicle or aircraft compartment with equipment visible below."
 geo:
 id: 21260
 item_type: Still Image

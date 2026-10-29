@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8565.jpg
     thumb: /files/thumbnails/14fb2a65ebc0c614fb2a65ecbf53.jpg
     url: /files/original/14fb2a65ebc0c614fb2a65ecbf53.jpg
+    alt:
+      en: "A silver pickup truck with a small American flag tipped nose-up into a canal beside a boat ramp, with a storm-damaged house covered in blue tarps and a sunken boat in the background."
 geo:
 id: 2490
 item_type: Still Image

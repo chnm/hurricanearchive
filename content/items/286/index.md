@@ -26,6 +26,8 @@ files:
     original_filename: streetcartracks_e383ac0725.jpg
     thumb: /files/thumbnails/14fb2a7052930714fb2a70529a5b.jpg
     url: /files/original/14fb2a7052930714fb2a70529a5b.jpg
+    alt:
+      en: "A mud-covered median strip with faint tire tracks where streetcar rails once ran, flanked by grass, trees, and parked cars along a tree-lined street."
 geo:
   address: ''
   lat: 29.9344076117419

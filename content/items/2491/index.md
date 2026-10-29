@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8568.jpg
     thumb: /files/thumbnails/14fb2a65e83e9a14fb2a65e843f2.jpg
     url: /files/original/14fb2a65e83e9a14fb2a65e843f2.jpg
+    alt:
+      en: "Two shrimp trawlers, \"My Lynn\" and another marked \"Port of NO, LA,\" lie grounded beside a roadway, their rigging masts tangled against the sky as a pickup truck passes by."
 geo:
 id: 2491
 item_type: Still Image

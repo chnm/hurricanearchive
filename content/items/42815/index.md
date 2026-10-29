@@ -17,6 +17,8 @@ files:
     original_filename: Katrina_1_85f8090bb8.gif
     thumb: /files/thumbnails/14fb29c28646be14fb29c2864aa2.jpg
     url: /files/original/14fb29c28646be14fb29c2864aa2.jpg
+    alt:
+      en: "Storm-damaged yard with snapped and splintered pine trees, scattered branches, and a damaged roofline visible behind a parked pickup truck and sedan."
 geo:
   address: ''
   lat: 0.0

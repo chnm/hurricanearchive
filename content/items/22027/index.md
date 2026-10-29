@@ -21,6 +21,8 @@ files:
     original_filename: Picture 358-J2.jpg
     thumb: /files/thumbnails/14fb29fa020e5414fb29fa021237.jpg
     url: /files/original/14fb29fa020e5414fb29fa021237.jpg
+    alt:
+      en: "Two men in camouflage clothing work near a large pile of downed trees and tangled debris, with power lines draped across the branches and an orange chainsaw visible in the foreground."
 geo:
 id: 22027
 item_type: Still Image

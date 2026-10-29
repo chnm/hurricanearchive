@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0266downtownnola.JPG
     thumb: /files/thumbnails/14fb2a143d940214fb2a143d9d7a.jpg
     url: /files/original/14fb2a143d940214fb2a143d9d7a.jpg
+    alt:
+      en: "Aerial view of a flooded industrial area with scattered shipping containers and trailers in standing water, surrounded by storm-damaged trees and a hazy cityscape in the distance."
 geo:
 id: 18916
 item_type: Still Image

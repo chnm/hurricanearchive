@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28585.jpg
     thumb: /files/thumbnails/14fb2a68a2a15114fb2a68a2aff0.jpg
     url: /files/original/14fb2a68a2a15114fb2a68a2aff0.jpg
+    alt:
+      en: "A man in a hat photographs a fallen street sign reading \"Lakeshore Dr,\" which lies on the ground beside a downed metal pole near an empty intersection."
 geo:
   address: ''
   lat: 0.0

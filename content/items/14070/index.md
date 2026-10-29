@@ -21,6 +21,8 @@ files:
     original_filename: 20050929066.JPG
     thumb: /files/thumbnails/14fb2a1bec91bd14fb2a1bec95a3.jpg
     url: /files/original/14fb2a1bec91bd14fb2a1bec95a3.jpg
+    alt:
+      en: "Two military officers in camouflage uniforms stand outdoors near stacked bottled water and supply boxes, with a building bearing partial signage (\"RNEY,\" \"ICT,\" \"124\") in the background."
 geo:
   address: ''
   lat: 0.0

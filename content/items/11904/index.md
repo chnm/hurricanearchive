@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 026.jpg
     thumb: /files/thumbnails/14fb2a22c43af214fb2a22c43eb4.jpg
     url: /files/original/14fb2a22c43af214fb2a22c43eb4.jpg
+    alt:
+      en: "View from inside a car of a mostly empty parking lot facing \"Edgewater Mall,\" with rows of portable toilets, dumpsters, and debris scattered near the storefront under an overcast sky."
 geo:
 id: 11904
 item_type: Still Image

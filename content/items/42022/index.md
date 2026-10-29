@@ -23,6 +23,8 @@ files:
     original_filename: Stainless fdl  water_cbd5d38e6d.JPG
     thumb: /files/thumbnails/14fb29c3e538a414fb29c3e53c97.jpg
     url: /files/original/14fb29c3e538a414fb29c3e53c97.jpg
+    alt:
+      en: "A textured metal fleur-de-lis sculpture mounted on a round base, perched on a rock amid swirling river water."
 geo:
   address: ''
   lat: 0.0

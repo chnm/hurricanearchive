@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0404-16.JPG
     thumb: /files/thumbnails/14fb29fcd7f9d914fb29fcd80094.jpg
     url: /files/original/14fb29fcd7f9d914fb29fcd80094.jpg
+    alt:
+      en: "A woman in a black shirt with a lanyard ID badge talks with a man in a military flight suit and camouflage cap, standing on a grassy field with brick buildings and parked vehicles in the background."
 geo:
 id: 21642
 item_type: Still Image

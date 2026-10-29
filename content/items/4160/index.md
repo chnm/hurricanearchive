@@ -21,6 +21,8 @@ files:
     original_filename: P1010031.JPG
     thumb: /files/thumbnails/14fb2a57575f5714fb2a5757633d.jpg
     url: /files/original/14fb2a57575f5714fb2a5757633d.jpg
+    alt:
+      en: "Aerial view of a devastated residential and commercial area with collapsed buildings, scattered debris, bare trees, and a few remaining structures along a grid of streets."
 geo:
 id: 4160
 item_type: Still Image

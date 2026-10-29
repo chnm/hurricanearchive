@@ -26,6 +26,8 @@ files:
     original_filename: 000_0077_3fe8bfaea7.JPG
     thumb: /files/thumbnails/14fb2a707d7f3214fb2a707d8316.jpg
     url: /files/original/14fb2a707d7f3214fb2a707d8316.jpg
+    alt:
+      en: "A single-story brick house with green shutters stands behind a large pile of storm debris, including insulation, wood, and drywall, with a large tree trunk in the foreground."
 geo:
   address: ''
   lat: 29.984643

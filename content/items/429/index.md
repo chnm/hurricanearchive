@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0290_58421634ed.JPG
     thumb: /files/thumbnails/14fb2a7003952b14fb2a70039911.jpg
     url: /files/original/14fb2a7003952b14fb2a70039911.jpg
+    alt:
+      en: "A weathered charter bus with a red, white, and blue stripe and American flag decal shows a visible flood line staining its lower body, parked on a street in New Orleans."
 geo:
   address: ''
   lat: 29.916852233070202

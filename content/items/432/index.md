@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0009_2c9053c25e.JPG
     thumb: /files/thumbnails/14fb2a700186d514fb2a70018a5b.jpg
     url: /files/original/14fb2a700186d514fb2a70018a5b.jpg
+    alt:
+      en: "Debris, scraps of fabric, and plastic sheeting hang tangled in bare, storm-damaged tree branches, with scattered wreckage and broken branches covering the ground below."
 geo:
   address: ''
   lat: 29.916852233070202

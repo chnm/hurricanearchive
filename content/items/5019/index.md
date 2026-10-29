@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0364.JPG
     thumb: /files/thumbnails/14fb2a5465e08714fb2a5465e46d.jpg
     url: /files/original/14fb2a5465e08714fb2a5465e46d.jpg
+    alt:
+      en: "Severely damaged house elevated on stilts, with its siding torn away, exposed insulation, and a partially collapsed roof; debris and broken trees surround the structure."
 geo:
 id: 5019
 item_type: Still Image

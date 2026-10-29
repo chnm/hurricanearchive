@@ -23,6 +23,8 @@ files:
     original_filename: DSC_0174(2)_73ae59bcab.jpg
     thumb: /files/thumbnails/14fb29c4d57af214fb29c4d57ed6.jpg
     url: /files/original/14fb29c4d57af214fb29c4d57ed6.jpg
+    alt:
+      en: "Police officers escort a handcuffed man in a dark shirt and jeans away from a white work van with a ladder rack and \"Roofing Specialist\" signage, with a house and parked vehicles in the background."
 geo:
   address: ''
   lat: 29.993

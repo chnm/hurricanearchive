@@ -21,6 +21,8 @@ files:
     original_filename: Picture 003cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0cbc9d6214fb2a0cbca070.jpg
     url: /files/original/14fb2a0cbc9d6214fb2a0cbca070.jpg
+    alt:
+      en: "Military personnel in fatigues sit around tables in a large room with maps posted on easels and walls, while a standing officer addresses the seated group; handwritten status lists hang overhead."
 geo:
 id: 19906
 item_type: Still Image

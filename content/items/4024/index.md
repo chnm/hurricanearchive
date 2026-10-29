@@ -21,6 +21,8 @@ files:
     original_filename: DSC01135.JPG
     thumb: /files/thumbnails/14fb2a58644c6614fb2a58645358.jpg
     url: /files/original/14fb2a58644c6614fb2a58645358.jpg
+    alt:
+      en: "Two Coast Guard rescue workers in orange life vests stand on a flooded porch beside an elderly shirtless man holding a phone, with a rescue boat visible in the foreground; a timestamp reads \"1:25 PM.\""
 geo:
 id: 4024
 item_type: Still Image

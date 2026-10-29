@@ -20,6 +20,8 @@ files:
     original_filename: KJ Snow 3  64-04_2bd8f38048.jpg
     thumb: /files/thumbnails/14fb29d66bc98014fb29d66bd04f.jpg
     url: /files/original/14fb29d66bc98014fb29d66bd04f.jpg
+    alt:
+      en: "Black-and-white snapshot of a man and two small children in winter coats standing in a snowy driveway beside a snowman, with a car parked under a carport and a house behind them."
 geo:
   address: ''
   lat: 29.91685

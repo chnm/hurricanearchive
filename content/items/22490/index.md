@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1331Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5f0980614fb29f5f09beb.jpg
     url: /files/original/14fb29f5f0980614fb29f5f09beb.jpg
+    alt:
+      en: "Floodwaters nearly submerge houses up to their rooftops, with only peaked roofs and attic vents visible above the water; utility poles and storm-damaged trees line the background under a gray sky."
 geo:
 id: 22490
 item_type: Still Image

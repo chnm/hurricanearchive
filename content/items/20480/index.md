@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a06e9944214fb2a06e99c1b.jpg
     url: /files/original/14fb2a06e9944214fb2a06e99c1b.jpg
+    alt:
+      en: "Single-story building with boarded-up windows surrounded by standing floodwater, with a fallen tree branch in the foreground and trees in the background under an overcast sky."
 geo:
 id: 20480
 item_type: Still Image

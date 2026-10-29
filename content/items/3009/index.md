@@ -21,6 +21,8 @@ files:
     original_filename: 100_0258.JPG
     thumb: /files/thumbnails/14fb2a5ee794cf14fb2a5ee797cc.jpg
     url: /files/original/14fb2a5ee794cf14fb2a5ee797cc.jpg
+    alt:
+      en: "Close-up view of a submarine's curved hull and perforated deck walkway with metal railings, showing streaks of rust along riveted white-painted plating."
 geo:
 id: 3009
 item_type: Still Image

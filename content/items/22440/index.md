@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1281Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f671909114fb29f6719476.jpg
     url: /files/original/14fb29f671909114fb29f6719476.jpg
+    alt:
+      en: "Two people wearing life vests wade through deep floodwater beneath the covered porch of a white building, with a door marked \"ENTRANCE\" visible behind them."
 geo:
 id: 22440
 item_type: Still Image

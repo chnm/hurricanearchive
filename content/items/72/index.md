@@ -26,6 +26,8 @@ files:
     original_filename: 100_5639_a3acbb1b95.JPG
     thumb: /files/thumbnails/14fb2a7123418114fb2a71234b2b.jpg
     url: /files/original/14fb2a7123418114fb2a71234b2b.jpg
+    alt:
+      en: "An Acadian ambulance drives beneath a banner reading \"Welcome Home New Orleans, Touro Emergency Services Now Open,\" with a sedan and the Touro Emergency building visible nearby; date stamp reads 10/25/2005."
 geo:
   address: ''
   lat: 30.005653

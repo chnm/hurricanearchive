@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 5.jpg
     thumb: /files/thumbnails/14fb2a0a6d355b14fb2a0a6d3955.jpg
     url: /files/original/14fb2a0a6d355b14fb2a0a6d3955.jpg
+    alt:
+      en: "A uniformed soldier in camouflage with sunglasses and a rifle stands on a curb near a crosswalk, with an RV driving past and a \"Job Center\" sign visible in the background."
 geo:
 id: 20253
 item_type: Still Image

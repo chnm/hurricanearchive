@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-14-13AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f963306114fb29f9633447.jpg
     url: /files/original/14fb29f963306114fb29f9633447.jpg
+    alt:
+      en: "Floodwater submerges a two-story white building with columned porches, with various objects floating in the murky water, viewed from under a sheltered overhang in the foreground."
 geo:
 id: 22134
 item_type: Still Image

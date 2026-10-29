@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0612cc5e14fb2a0612d081.jpg
     url: /files/original/14fb2a0612cc5e14fb2a0612d081.jpg
+    alt:
+      en: "A person with tousled hair and sunglasses holds a large camera with a telephoto lens, photographing a flooded landscape from the open doorway of an aircraft or vehicle under an overcast sky."
 geo:
 id: 20572
 item_type: Still Image

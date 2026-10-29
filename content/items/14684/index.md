@@ -21,6 +21,8 @@ files:
     original_filename: isenReGoodShepherd_AndrewJoseph_01_48457c4c7c.jpg
     thumb: /files/thumbnails/14fb2a1833638d14fb2a18336d56.jpg
     url: /files/original/14fb2a1833638d14fb2a18336d56.jpg
+    alt:
+      en: "A man in a white T-shirt gives a thumbs-up while posing with a boy in an orange jacket inside a Walmart store, surrounded by furniture displays and price signs."
 geo:
 id: 14684
 item_type: Still Image

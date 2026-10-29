@@ -24,6 +24,8 @@ files:
     original_filename: DSCN0657.JPG
     thumb: /files/thumbnails/14fb29cfa15bf814fb29cfa15fdd.jpg
     url: /files/original/14fb29cfa15bf814fb29cfa15fdd.jpg
+    alt:
+      en: "Row of tan military Humvees, some marked \"Military Police,\" parked in a lot beneath bare-branched trees, with yellow parking bumpers and a puddle in the foreground."
 geo:
 id: 29098
 item_type: Still Image

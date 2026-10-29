@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-militarycertificate2_8369e8f26e.jpg
     thumb: /files/thumbnails/14fb29dc77952e14fb29dc779911.jpg
     url: /files/original/14fb29dc77952e14fb29dc779911.jpg
+    alt:
+      en: "Water-stained Honorable Discharge certificate from the Department of the Navy for Adam Henry Patcheco, Jr., dated March 10, 1969, encased in a spiral-bound plastic sleeve with visible discoloration and staining."
 geo:
 id: 25745
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0100-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e77266c114fb29e7726e24.jpg
     url: /files/original/14fb29e77266c114fb29e7726e24.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with partially submerged houses, bare trees, and debris scattered across floodwaters, with marshland extending into the hazy distance."
 geo:
 id: 24471
 item_type: Still Image

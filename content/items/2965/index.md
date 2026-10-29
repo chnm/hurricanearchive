@@ -21,6 +21,8 @@ files:
     original_filename: MVC-020S.JPG
     thumb: /files/thumbnails/14fb2a5f6a373a14fb2a5f6a3b1f.jpg
     url: /files/original/14fb2a5f6a373a14fb2a5f6a3b1f.jpg
+    alt:
+      en: "Close-up of a Navy aircraft's tail section marked \"6898,\" \"NAVY,\" and \"VFP-63,\" showing visible structural damage with torn and crumpled metal along the fuselage and tail fin."
 geo:
 id: 2965
 item_type: Still Image

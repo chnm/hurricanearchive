@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1511superdome.JPG
     thumb: /files/thumbnails/14fb29e3322bdf14fb29e3322fd1.jpg
     url: /files/original/14fb29e3322bdf14fb29e3322fd1.jpg
+    alt:
+      en: "Helicopters fill a cloudy sky as one lands near an \"Acadian Ambulance Service, Inc.\" Air Med helicopter parked on a tarmac, with an elevated highway and city buildings in the background."
 geo:
 id: 24989
 item_type: Still Image

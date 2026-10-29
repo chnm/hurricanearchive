@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0027.JPG
     thumb: /files/thumbnails/14fb2a577cdcd114fb2a577ce05e.jpg
     url: /files/original/14fb2a577cdcd114fb2a577ce05e.jpg
+    alt:
+      en: "Two wrecked pickup trucks, one yellow and one red, sit damaged near a waterfront, with a small boat lodged on top of the yellow truck's bed, boats and a crane visible across the water."
 geo:
 id: 4141
 item_type: Still Image

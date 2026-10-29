@@ -26,6 +26,8 @@ files:
     original_filename: 100_5858_230cb7d028.JPG
     thumb: /files/thumbnails/14fb2a710eef0714fb2a710ef2ec.jpg
     url: /files/original/14fb2a710eef0714fb2a710ef2ec.jpg
+    alt:
+      en: "Large pile of discarded sheetrock and debris against a damaged building exterior, with a vandalized payphone, scattered trash, and a \"Phone\" sign in the foreground; dated 11/11/2005."
 geo:
   address: ''
   lat: 30.005653

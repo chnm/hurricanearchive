@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0225.JPG
     thumb: /files/thumbnails/14fb2a13789d0714fb2a1378a0c6.jpg
     url: /files/original/14fb2a13789d0714fb2a1378a0c6.jpg
+    alt:
+      en: "Silhouetted figure in military gear climbing through a helicopter doorway, with cables and equipment visible against a bright grassy exterior background."
 geo:
 id: 19060
 item_type: Still Image

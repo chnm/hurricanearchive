@@ -21,6 +21,8 @@ files:
     original_filename: waves.jpg
     thumb: /files/thumbnails/14fb2a1e6b3a8914fb2a1e6b3d6b.jpg
     url: /files/original/14fb2a1e6b3a8914fb2a1e6b3d6b.jpg
+    alt:
+      en: "Choppy, wind-driven waves fill a large body of murky water in the foreground, with a stone breakwater, trees, utility poles, and a low building visible along the shoreline under an overcast sky."
 geo:
 id: 13269
 item_type: Still Image

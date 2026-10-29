@@ -21,6 +21,8 @@ files:
     original_filename: P1010124empireS&R.JPG
     thumb: /files/thumbnails/14fb29ede8f6e214fb29ede8fac6.jpg
     url: /files/original/14fb29ede8f6e214fb29ede8fac6.jpg
+    alt:
+      en: "Debris-strewn dirt roadside with scattered wood, trash, and dried vegetation, lined by trees and a dirt road, photographed sideways with the sky appearing on the left."
 geo:
 id: 23683
 item_type: Still Image

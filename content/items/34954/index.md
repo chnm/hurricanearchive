@@ -20,6 +20,8 @@ files:
     original_filename: 2417113040_492197e438.
     thumb: /files/thumbnails/14fb29c831de5014fb29c831e235.jpg
     url: /files/original/14fb29c831de5014fb29c831e235.jpg
+    alt:
+      en: "Aerial satellite view labeled \"Project Site & Borrow Pit,\" showing a residential subdivision, roads, a golf course, agricultural fields, and surrounding wetlands enclosed by a levee near a river bend."
 geo:
 id: 34954
 item_type: Still Image

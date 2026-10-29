@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 064cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e72421014fb2a0e724600.jpg
     url: /files/original/14fb2a0e72421014fb2a0e724600.jpg
+    alt:
+      en: "Damaged red metal roof panels peeled back on a multi-story stucco building with large windows, flanked by flagpoles and greenery in the foreground."
 geo:
 id: 19677
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010071.JPG
     thumb: /files/thumbnails/14fb2a5a87ed5a14fb2a5a87f2f0.jpg
     url: /files/original/14fb2a5a87ed5a14fb2a5a87f2f0.jpg
+    alt:
+      en: "Single-story brick house with gutted dark windows and a large pile of storm debris—insulation, ductwork, and household items—dumped in the front yard beside browned, dead shrubs."
 geo:
 id: 3636
 item_type: Still Image

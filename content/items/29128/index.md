@@ -24,6 +24,8 @@ files:
     original_filename: 8196926-R1-046-21A.jpg
     thumb: /files/thumbnails/14fb29ced4149e14fb29ced443e3.jpg
     url: /files/original/14fb29ced4149e14fb29ced443e3.jpg
+    alt:
+      en: "Two military helicopters with rotors spinning sit on a paved lot converted into a helipad, with buses and military trucks parked in the background and onlookers at right."
 geo:
 id: 29128
 item_type: Still Image

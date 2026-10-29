@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0217-9-25.JPG
     thumb: /files/thumbnails/14fb29ffa1629214fb29ffa1666d.jpg
     url: /files/original/14fb29ffa1629214fb29ffa1666d.jpg
+    alt:
+      en: "Aerial view of a residential area showing two intact houses alongside a severely damaged structure reduced to scattered debris and a collapsed frame, with vehicles and cleared yards nearby."
 geo:
 id: 21287
 item_type: Still Image

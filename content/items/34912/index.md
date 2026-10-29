@@ -20,6 +20,8 @@ files:
     original_filename: 2457529330_38338bebd9.
     thumb: /files/thumbnails/14fb29c886784514fb29c8867c27.jpg
     url: /files/original/14fb29c886784514fb29c8867c27.jpg
+    alt:
+      en: "A construction site with mounds of sand and dirt, heavy equipment including bulldozers and an excavator, a dump truck, and a car parked on a dirt road, with trees lining the background."
 geo:
 id: 34912
 item_type: Still Image

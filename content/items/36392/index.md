@@ -20,6 +20,8 @@ files:
     original_filename: flood-downtown_b450bc988a.jpg
     thumb: /files/thumbnails/14fb29c5899a7814fb29c5899dde.jpg
     url: /files/original/14fb29c5899a7814fb29c5899dde.jpg
+    alt:
+      en: "Flooded city street lined with buildings, a traffic light, an American flag, and a \"One Way\" street sign, with a blue \"Common\" street sign visible above the standing water."
 geo:
 id: 36392
 item_type: Still Image

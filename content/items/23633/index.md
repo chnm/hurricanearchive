@@ -21,6 +21,8 @@ files:
     original_filename: P1010074empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee57c4f914fb29ee57ce7a.jpg
     url: /files/original/14fb29ee57c4f914fb29ee57ce7a.jpg
+    alt:
+      en: "Power lines and utility poles line a paved road beside a grassy levee, with a damaged floodwall and construction equipment visible in the hazy background."
 geo:
 id: 23633
 item_type: Still Image

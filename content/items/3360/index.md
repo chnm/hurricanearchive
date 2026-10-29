@@ -21,6 +21,8 @@ files:
     original_filename: SS St. Bernard (1).jpg
     thumb: /files/thumbnails/14fb2a5c34e75614fb2a5c34ef23.jpg
     url: /files/original/14fb2a5c34e75614fb2a5c34ef23.jpg
+    alt:
+      en: "Damaged storefront with a Pepsi-branded awning reading \"Meraux Food Store & Sporting Goods, Open 24 Hours,\" collapsed walls, and debris including cinder blocks scattered across the lot."
 geo:
 id: 3360
 item_type: Still Image

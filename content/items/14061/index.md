@@ -21,6 +21,8 @@ files:
     original_filename: 20050929037.JPG
     thumb: /files/thumbnails/14fb2a1bf5cad714fb2a1bf5ceb1.jpg
     url: /files/original/14fb2a1bf5cad714fb2a1bf5ceb1.jpg
+    alt:
+      en: "Debris-strewn dirt road lined with collapsed buildings and scattered wreckage, a water tower visible in the distance under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

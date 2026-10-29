@@ -23,6 +23,8 @@ files:
     original_filename: 2390259458_3ab752c34c.jpg
     thumb: /files/thumbnails/14fb29c7642dbe14fb29c76431a3.jpg
     url: /files/original/14fb29c7642dbe14fb29c76431a3.jpg
+    alt:
+      en: "Quiet residential street with a dark sedan, white trailers and RVs parked along the road, utility poles with wires overhead, and an overcast sky."
 geo:
 id: 35164
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0861Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f452cad914fb29f452cec0.jpg
     url: /files/original/14fb29f452cad914fb29f452cec0.jpg
+    alt:
+      en: "Brick wall with a sign reading \"NO LOITERING NO TRESPASSING PUNISHABLE PURSUANT TO R.S. 29:28.1 & 29:29,\" topped by a metal fence, power lines, and trees, dated 09.15.2005."
 geo:
 id: 22739
 item_type: Still Image

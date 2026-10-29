@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1603hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee8c070414fb29ee8c0aeb.jpg
     url: /files/original/14fb29ee8c070414fb29ee8c0aeb.jpg
+    alt:
+      en: "Damaged high-rise hotel building with shattered windows and debris hanging from the facade, partial signage reading \"HYATT\" visible atop the structure, photographed through a traffic signal pole and foliage."
 geo:
 id: 23603
 item_type: Still Image

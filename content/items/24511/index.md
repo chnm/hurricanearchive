@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0108-15.JPG
     thumb: /files/thumbnails/14fb29e7324bb314fb29e7324f9a.jpg
     url: /files/original/14fb29e7324bb314fb29e7324f9a.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with collapsed roofs, scattered debris, and destroyed homes lining grid-patterned streets, with a few intact houses and trees interspersed among the wreckage."
 geo:
 id: 24511
 item_type: Still Image

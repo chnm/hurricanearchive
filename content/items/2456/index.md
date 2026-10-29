@@ -24,6 +24,8 @@ files:
     original_filename: 20050901_MG_8014.jpg
     thumb: /files/thumbnails/14fb2a665662e514fb2a665666ca.jpg
     url: /files/original/14fb2a665662e514fb2a665666ca.jpg
+    alt:
+      en: "Large torn sheets of green-patinated copper roofing lie crumpled in the foreground, with a red-brick, three-story building and parked vehicles visible across the street behind damaged scaffolding."
 geo:
 id: 2456
 item_type: Still Image

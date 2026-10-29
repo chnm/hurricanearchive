@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1175Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7095e6a14fb29f7096250.jpg
     url: /files/original/14fb29f7095e6a14fb29f7096250.jpg
+    alt:
+      en: "Floodwaters surge around brick gateposts and a lamppost in front of a house, with wind-whipped trees and a palm bent sideways amid heavy rain."
 geo:
 id: 22359
 item_type: Still Image

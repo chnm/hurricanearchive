@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0381.JPG
     thumb: /files/thumbnails/14fb2a5450c18514fb2a5450c560.jpg
     url: /files/original/14fb2a5450c18514fb2a5450c560.jpg
+    alt:
+      en: "Concrete foundation slab with support posts stands amid storm debris, broken trees, and scattered household wreckage, with a damaged structure visible in the background."
 geo:
 id: 5036
 item_type: Still Image

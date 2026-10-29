@@ -21,6 +21,8 @@ files:
     original_filename: S4300060superdome.JPG
     thumb: /files/thumbnails/14fb29ddf57abf14fb29ddf5cdf8.jpg
     url: /files/original/14fb29ddf57abf14fb29ddf5cdf8.jpg
+    alt:
+      en: "Crowd of people sitting and standing behind metal barricades outside the \"New Orleans Centre,\" with American, state, and Texas flags hanging above the entrance and bottled water stacked nearby."
 geo:
 id: 25417
 item_type: Still Image

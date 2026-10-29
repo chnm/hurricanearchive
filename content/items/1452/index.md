@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28573.jpg
     thumb: /files/thumbnails/14fb2a689911ae14fb2a68991593.jpg
     url: /files/original/14fb2a689911ae14fb2a68991593.jpg
+    alt:
+      en: "A wooden house elevated on concrete block piers above deeply cracked, dried mud, with a white downspout and scattered debris along its foundation."
 geo:
   address: ''
   lat: 0.0

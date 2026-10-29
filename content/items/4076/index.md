@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0041.JPG
     thumb: /files/thumbnails/14fb2a580c848a14fb2a580c8865.jpg
     url: /files/original/14fb2a580c848a14fb2a580c8865.jpg
+    alt:
+      en: "Two men wearing caps and sunglasses stand near a large dark dumpster marked with \"DANGER\" and \"CAUTION\" labels, with trash bags and debris piled beside it."
 geo:
 id: 4076
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0273.JPG
     thumb: /files/thumbnails/14fb2a54e7cbd814fb2a54e7d34c.jpg
     url: /files/original/14fb2a54e7cbd814fb2a54e7d34c.jpg
+    alt:
+      en: "A single-story beige vinyl-sided house with a gabled roof and two windows, with a tall pine tree growing close to the wall and a grassy, debris-strewn yard in front."
 geo:
 id: 4931
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0320media.JPG
     thumb: /files/thumbnails/14fb29f2639e6a14fb29f263a246.jpg
     url: /files/original/14fb29f2639e6a14fb29f263a246.jpg
+    alt:
+      en: "A man in military fatigues sits inside a vehicle's interior, partially obscured by blurred foreground objects, with visible overhead piping and equipment panels in the background."
 geo:
 id: 22966
 item_type: Still Image

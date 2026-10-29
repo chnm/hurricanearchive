@@ -26,6 +26,8 @@ files:
     original_filename: Hurricane_Rita_00003_d478378caa.JPG
     thumb: /files/thumbnails/14fb2a703ce3ec14fb2a703ce7d2.jpg
     url: /files/original/14fb2a703ce3ec14fb2a703ce7d2.jpg
+    alt:
+      en: "A weathered red house with a green metal roof sits askew beside a rural road, surrounded by storm debris, bare trees, a traffic cone, and a \"No Parking on Shoulder\" sign."
 geo:
   address: ''
   lat: 30.0310554265402

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0729.JPG
     thumb: /files/thumbnails/14fb2a57160f2214fb2a57161303.jpg
     url: /files/original/14fb2a57160f2214fb2a57161303.jpg
+    alt:
+      en: "Interior of a metal-sided storage shed with exposed wood framing, containing power tools including a leaf blower and weed trimmer scattered on a debris-covered floor."
 geo:
 id: 4517
 item_type: Still Image

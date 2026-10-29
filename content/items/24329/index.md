@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-23-21A.jpg
     thumb: /files/thumbnails/14fb29e8b2057714fb29e8b20914.jpg
     url: /files/original/14fb29e8b2057714fb29e8b20914.jpg
+    alt:
+      en: "A helicopter hovers above a rooftop parking deck where people stand near stacked water bottle cases, with city buildings visible in the background."
 geo:
 id: 24329
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: HPIM0006_d2f6d8f0a9.JPG
     thumb: /files/thumbnails/14fb2a6e8043df14fb2a6e804ba8.jpg
     url: /files/original/14fb2a6e8043df14fb2a6e804ba8.jpg
+    alt:
+      en: "Single-story brick house with a boarded-up window and door on the front porch, a loose plywood sheet leaning against the exterior wall, and a small bench on the concrete porch."
 geo:
   address: ''
   lat: 0.0

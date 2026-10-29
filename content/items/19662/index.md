@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 049cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e866f0914fb2a0e8676cc.jpg
     url: /files/original/14fb2a0e866f0914fb2a0e8676cc.jpg
+    alt:
+      en: "Close-up of a woodland camouflage uniform sleeve featuring a diamond-shaped patch with a black sunburst emblem, with a wooden structure visible in the blurred background."
 geo:
 id: 19662
 item_type: Still Image

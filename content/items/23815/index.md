@@ -21,6 +21,8 @@ files:
     original_filename: S4300154stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf7511014fb29ecf754f0.jpg
     url: /files/original/14fb29ecf7511014fb29ecf754f0.jpg
+    alt:
+      en: "Silver sedan and blue pickup truck parked tightly against a brick house numbered 289, with scattered dried leaves and a watermark line visible on the walls and windows."
 geo:
 id: 23815
 item_type: Still Image

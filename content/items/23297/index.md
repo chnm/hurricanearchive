@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f00d6b9914fb29f00d6f7f.jpg
     url: /files/original/14fb29f00d6b9914fb29f00d6f7f.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms gather near military Humvees beside a historical marker reading \"Jefferson Parish,\" which describes the parish's 1825 creation and naming for Thomas Jefferson."
 geo:
 id: 23297
 item_type: Still Image

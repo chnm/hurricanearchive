@@ -17,6 +17,8 @@ files:
     original_filename: Mudcracks-FClark-05.jpg
     thumb: /files/thumbnails/d776f7c85b94df79e2e27f6f1c995956.jpg
     url: /files/original/d776f7c85b94df79e2e27f6f1c995956.jpg
+    alt:
+      en: "A thick layer of dried, cracked mud coats the trunk of a blue car in the foreground, with a muddy white car parked behind it on a similarly cracked, dried ground."
 geo:
 id: 45922
 item_type: Still Image

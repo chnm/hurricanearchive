@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28612.jpg
     thumb: /files/thumbnails/14fb2a6ca2613f14fb2a6ca263ad.jpg
     url: /files/original/14fb2a6ca2613f14fb2a6ca263ad.jpg
+    alt:
+      en: "Leaning street signs reading \"Hurricane Evacuation Route\" and \"For Information Tune Radio To 870 AM, 101.9 FM,\" with torn plastic sheeting on the grass beside a roadside in New Orleans."
 geo:
   address: ''
   lat: 0.0

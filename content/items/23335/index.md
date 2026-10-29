@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efe6361f14fb29efe63a05.jpg
     url: /files/original/14fb29efe6361f14fb29efe63a05.jpg
+    alt:
+      en: "Military-style tan truck drives through standing floodwater on a road, with its reflection visible below; damaged buildings and bare trees line the background."
 geo:
 id: 23335
 item_type: Still Image

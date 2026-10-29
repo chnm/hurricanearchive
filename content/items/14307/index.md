@@ -21,6 +21,8 @@ files:
     original_filename: aerials19.jpg
     thumb: /files/thumbnails/14fb2a19e1565714fb2a19e15a3d.jpg
     url: /files/original/14fb2a19e1565714fb2a19e15a3d.jpg
+    alt:
+      en: "Aerial view of a waterfront neighborhood with extensive storm damage, showing collapsed roofs, scattered debris, and stripped, broken trees surrounding a canal with a few docked boats."
 geo:
 id: 14307
 item_type: Still Image

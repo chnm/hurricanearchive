@@ -26,6 +26,8 @@ files:
     original_filename: 163224271_6356e0833b.jpg
     thumb: /files/thumbnails/14fb29d41d6bef14fb29d41d7028.jpg
     url: /files/original/14fb29d41d6bef14fb29d41d7028.jpg
+    alt:
+      en: "A small statue of the Virgin Mary stands in a shrine in front of a house numbered 4924, with a plywood-boarded window and spray-painted marks on the brick wall nearby."
 geo:
   address: ''
   lat: 29.84064

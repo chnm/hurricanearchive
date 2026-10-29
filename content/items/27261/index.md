@@ -20,6 +20,8 @@ files:
     original_filename: Miro Street, my father's childhood home.JPG
     thumb: /files/thumbnails/14fb29d598016d14fb29d5980551.jpg
     url: /files/original/14fb29d598016d14fb29d5980551.jpg
+    alt:
+      en: "A white wood-frame double shotgun house with a pediment roof and arched windows, its facade spray-painted in red with \"HSUS,\" \"3 DOGS,\" \"F/W 9/29,\" \"OUTSIDE,\" and \"6:00pm.\""
 geo:
 id: 27261
 item_type: Still Image

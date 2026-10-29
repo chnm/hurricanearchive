@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-22-21AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f9588ffa14fb29f95893e1.jpg
     url: /files/original/14fb29f9588ffa14fb29f95893e1.jpg
+    alt:
+      en: "View through an open exit door of a flooded exterior area, with brown floodwater submerging the ground and surrounding bare trees and power lines visible in the background."
 geo:
 id: 22142
 item_type: Still Image

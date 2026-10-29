@@ -21,6 +21,8 @@ files:
     original_filename: Dome from I-10superdome.JPG
     thumb: /files/thumbnails/14fb29de482c8314fb29de483068.jpg
     url: /files/original/14fb29de482c8314fb29de483068.jpg
+    alt:
+      en: "Domed stadium roof with discolored patches viewed from a highway, alongside city skyscrapers, a tall streetlight, and billboards including a Coca-Cola sign, under a partly cloudy sky."
 geo:
 id: 25395
 item_type: Still Image

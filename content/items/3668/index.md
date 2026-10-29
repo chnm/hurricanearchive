@@ -24,6 +24,8 @@ files:
     original_filename: P1010105 copy.jpg
     thumb: /files/thumbnails/14fb2a5a34dd2f14fb2a5a34e253.jpg
     url: /files/original/14fb2a5a34dd2f14fb2a5a34e253.jpg
+    alt:
+      en: "Reflection of a multi-story apartment building in rain-speckled, debris-filled pool water, with railings and windows visible upside down on the rippling surface."
 geo:
 id: 3668
 item_type: Still Image

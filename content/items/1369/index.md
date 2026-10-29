@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28508.jpg
     thumb: /files/thumbnails/14fb2a6938867314fb2a69388a4c.jpg
     url: /files/original/14fb2a6938867314fb2a69388a4c.jpg
+    alt:
+      en: "A man wearing a cap, glasses, and face mask reaches toward a mold-stained wall and window, cleaning lace curtains and blinds covered in dark mildew streaks."
 geo:
   address: ''
   lat: 0.0

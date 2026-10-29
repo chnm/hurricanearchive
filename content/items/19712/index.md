@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 099cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e375dfd14fb2a0e376f7e.jpg
     url: /files/original/14fb2a0e375dfd14fb2a0e376f7e.jpg
+    alt:
+      en: "A red STOP sign stands on a debris-covered street corner, with a fallen tree, bare branches, and storm-damaged buildings visible in the background."
 geo:
 id: 19712
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1582superdome.JPG
     thumb: /files/thumbnails/14fb29e29be5e214fb29e29be9c6.jpg
     url: /files/original/14fb29e29be5e214fb29e29be9c6.jpg
+    alt:
+      en: "Military Humvees and trucks drive through floodwater on a street, with a person in the lead vehicle making a peace sign through the windshield."
 geo:
 id: 25057
 item_type: Still Image

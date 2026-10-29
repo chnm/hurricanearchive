@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1015.JPG
     thumb: /files/thumbnails/14fb2a57d8040214fb2a57d80804.jpg
     url: /files/original/14fb2a57d8040214fb2a57d80804.jpg
+    alt:
+      en: "Three military helicopters sit on a grassy strip of land along calm water, viewed from a wooden dock railing in the foreground, with a long bridge visible in the hazy distance."
 geo:
 id: 4094
 item_type: Still Image

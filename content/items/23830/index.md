@@ -21,6 +21,8 @@ files:
     original_filename: S4300169stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecea3fd314fb29ecea43af.jpg
     url: /files/original/14fb29ecea3fd314fb29ecea43af.jpg
+    alt:
+      en: "Two vehicles, a black car and a white SUV, rest precariously against the edge of a brick house's roof, with their front ends propped up on the shingles above the gutter."
 geo:
 id: 23830
 item_type: Still Image

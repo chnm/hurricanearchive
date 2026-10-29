@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2257engineers.JPG
     thumb: /files/thumbnails/14fb2a1096fd3014fb2a10970120.jpg
     url: /files/original/14fb2a1096fd3014fb2a10970120.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms, some wearing orange safety vests and helmets, work together moving a large wooden structure on a debris-strewn street, with burned trees and a house visible in the background."
 geo:
 id: 19393
 item_type: Still Image

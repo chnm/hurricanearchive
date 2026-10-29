@@ -21,6 +21,8 @@ files:
     original_filename: MVC-031S.JPG
     thumb: /files/thumbnails/14fb2a5f81f47814fb2a5f81f86a.jpg
     url: /files/original/14fb2a5f81f47814fb2a5f81f86a.jpg
+    alt:
+      en: "Group of large cone-shaped loudspeaker horns and electrical junction boxes stacked on a concrete floor against a metal louvered wall, likely salvaged equipment in storage."
 geo:
 id: 2942
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027-20.JPG
     thumb: /files/thumbnails/14fb2a0690abda14fb2a0690afb7.jpg
     url: /files/original/14fb2a0690abda14fb2a0690afb7.jpg
+    alt:
+      en: "Four volunteers in matching gray \"Danny's Cajun Catering\" T-shirts serve food from metal trays under a tent, with one woman smiling at the camera while others wear gloves and caps."
 geo:
 id: 20517
 item_type: Still Image

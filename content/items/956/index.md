@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28663.jpg
     thumb: /files/thumbnails/14fb2a6bd346c814fb2a6bd34ab9.jpg
     url: /files/original/14fb2a6bd346c814fb2a6bd34ab9.jpg
+    alt:
+      en: "A folding chair with handwritten signs reading \"Quiet Time Starts [time] Only!\" and \"Quiet Time ... Please Don't...\" sits in a dirt aisle lined with wire animal cages and electric fans at the rescue depot."
 geo:
   address: ''
   lat: 0.0

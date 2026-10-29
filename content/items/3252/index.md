@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (17).JPG
     thumb: /files/thumbnails/14fb2a5d0dda7b14fb2a5d0dde61.jpg
     url: /files/original/14fb2a5d0dda7b14fb2a5d0dde61.jpg
+    alt:
+      en: "Waterfront view of a damaged riverside neighborhood with debris scattered among sparse buildings and bare trees, a large barge docked along a seawall, and channel buoys floating in the foreground river."
 geo:
 id: 3252
 item_type: Still Image

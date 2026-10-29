@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0206-9-25.JPG
     thumb: /files/thumbnails/14fb29ffce827614fb29ffce8650.jpg
     url: /files/original/14fb29ffce827614fb29ffce8650.jpg
+    alt:
+      en: "Interior view of a helicopter cockpit, showing an instrument panel with illuminated dials and gauges, while a helmeted crew member in a flight suit sits in the foreground near the windshield."
 geo:
 id: 21247
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0002.JPG
     thumb: /files/thumbnails/14fb2a56f6537214fb2a56f65757.jpg
     url: /files/original/14fb2a56f6537214fb2a56f65757.jpg
+    alt:
+      en: "A lone car drives down a debris-strewn street past massive piles of storm wreckage, with a partially damaged house covered by a blue tarp roof and stripped, leafless trees in the background."
 geo:
 id: 4576
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 117cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e2af0d214fb2a0e2af4b8.jpg
     url: /files/original/14fb2a0e2af0d214fb2a0e2af4b8.jpg
+    alt:
+      en: "Large building with extensive storm damage, its upper roof and siding torn away to expose wooden framing and insulation, while the lower stuccoed section remains intact behind a chain-link fence."
 geo:
 id: 19730
 item_type: Still Image

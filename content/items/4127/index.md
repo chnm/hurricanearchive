@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0013.JPG
     thumb: /files/thumbnails/14fb2a57875cb214fb2a57876099.jpg
     url: /files/original/14fb2a57875cb214fb2a57876099.jpg
+    alt:
+      en: "Roadside scene with a wrecked, overturned car in a ditch beside a two-lane road, surrounded by debris, utility poles, and a water tower in the background; a white van drives past."
 geo:
 id: 4127
 item_type: Still Image

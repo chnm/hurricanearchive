@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0109abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef64ca2b14fb29ef64ce0e.jpg
     url: /files/original/14fb29ef64ca2b14fb29ef64ce0e.jpg
+    alt:
+      en: "A muddy, flooded road with a line of pickup trucks and a military flatbed trailer, surrounded by standing floodwater, debris piles, and utility poles under an overcast sky."
 geo:
 id: 23447
 item_type: Still Image

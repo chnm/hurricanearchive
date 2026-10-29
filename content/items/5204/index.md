@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0649.JPG
     thumb: /files/thumbnails/14fb2a53678c0f14fb2a53678ff4.jpg
     url: /files/original/14fb2a53678c0f14fb2a53678ff4.jpg
+    alt:
+      en: "A severely storm-damaged house with partially collapsed roofline and walls, surrounded by scattered debris, broken furniture, and fallen tree branches, with tall pine trees standing in the background."
 geo:
 id: 5204
 item_type: Still Image

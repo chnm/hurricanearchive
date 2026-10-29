@@ -21,6 +21,8 @@ files:
     original_filename: 100_0138.JPG
     thumb: /files/thumbnails/14fb2a5944343c14fb2a59447a94.jpg
     url: /files/original/14fb2a5944343c14fb2a59447a94.jpg
+    alt:
+      en: "A wooden marina dock surrounded by a cluster of damaged sailboats with tilted masts, their hulls crowded together near the pilings, with a multi-story building visible in the hazy background."
 geo:
 id: 3846
 item_type: Still Image

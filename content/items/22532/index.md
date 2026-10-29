@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1373Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5983b4a14fb29f5983f2f.jpg
     url: /files/original/14fb29f5983b4a14fb29f5983f2f.jpg
+    alt:
+      en: "A floodwater-submerged house with only its shingled roof visible above the water line, with a damaged white building and bare utility poles in the background under overcast skies."
 geo:
 id: 22532
 item_type: Still Image

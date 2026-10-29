@@ -21,6 +21,8 @@ files:
     original_filename: Picture 242cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b0dfb6414fb2a0b0dff4a.jpg
     url: /files/original/14fb2a0b0dfb6414fb2a0b0dff4a.jpg
+    alt:
+      en: "Coastal roadway with debris scattered on the pavement, two palm trees braced with guy wires near the shoreline, and a storm-damaged tree leaning beside a streetlight, with calm water in the background."
 geo:
 id: 20145
 item_type: Still Image

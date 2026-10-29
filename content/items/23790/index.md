@@ -21,6 +21,8 @@ files:
     original_filename: Picture 021neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ed0e8f3014fb29ed0e9316.jpg
     url: /files/original/14fb29ed0e8f3014fb29ed0e9316.jpg
+    alt:
+      en: "A man wearing an orange life vest holds a young child up to a window, where another child looks out and reaches toward them, on the side of a house with cream-colored siding and green trim."
 geo:
 id: 23790
 item_type: Still Image

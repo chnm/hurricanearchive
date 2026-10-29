@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0014.JPG
     thumb: /files/thumbnails/14fb2a5786e3a014fb2a5786e785.jpg
     url: /files/original/14fb2a5786e3a014fb2a5786e785.jpg
+    alt:
+      en: "Debris-strewn field with an overturned white van and abandoned pickup truck, surrounded by downed branches and stripped trees, under a clear blue sky near a roadside utility pole."
 geo:
 id: 4128
 item_type: Still Image

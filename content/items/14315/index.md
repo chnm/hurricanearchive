@@ -21,6 +21,8 @@ files:
     original_filename: aerials29.jpg
     thumb: /files/thumbnails/14fb2a19d89a4714fb2a19d89e38.jpg
     url: /files/original/14fb2a19d89a4714fb2a19d89e38.jpg
+    alt:
+      en: "Aerial view of a damaged gas station with a partially collapsed canopy roof, scattered debris, fire trucks, and other vehicles parked in the lot; storm debris litters the surrounding ground."
 geo:
 id: 14315
 item_type: Still Image

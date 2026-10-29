@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0737.JPG
     thumb: /files/thumbnails/14fb2a57116be814fb2a57116fd6.jpg
     url: /files/original/14fb2a57116be814fb2a57116fd6.jpg
+    alt:
+      en: "Interior view of a damaged roof structure with exposed wooden rafters and beams, torn insulation hanging down, and large gaps letting in daylight where roofing material is missing."
 geo:
 id: 4525
 item_type: Still Image

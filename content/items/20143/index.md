@@ -21,6 +21,8 @@ files:
     original_filename: Picture 240cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b10283e14fb2a0b102c25.jpg
     url: /files/original/14fb2a0b10283e14fb2a0b102c25.jpg
+    alt:
+      en: "Brick house with visible roof damage, missing shingles exposing plywood, surrounded by a green lawn, trees, and a concrete driveway under a partly cloudy sky."
 geo:
 id: 20143
 item_type: Still Image

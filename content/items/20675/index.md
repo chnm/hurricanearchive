@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0055-15.JPG
     thumb: /files/thumbnails/14fb2a0526a1f614fb2a0526b681.jpg
     url: /files/original/14fb2a0526a1f614fb2a0526b681.jpg
+    alt:
+      en: "Aerial view of a flooded baseball field complex with submerged bleachers, a dugout, and surrounding fencing, partially covered by murky floodwater, with inundated trees and fields in the background."
 geo:
 id: 20675
 item_type: Still Image

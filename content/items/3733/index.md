@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 013.jpg
     thumb: /files/thumbnails/14fb2a59f3128614fb2a59f3166c.jpg
     url: /files/original/14fb2a59f3128614fb2a59f3166c.jpg
+    alt:
+      en: "Damaged boats lie among scattered storm debris and broken trees, with the hood of a vehicle visible in the foreground."
 geo:
 id: 3733
 item_type: Still Image

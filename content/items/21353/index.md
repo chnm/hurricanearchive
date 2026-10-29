@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0234-9-25.JPG
     thumb: /files/thumbnails/14fb29ff41a0c114fb29ff41a4a7.jpg
     url: /files/original/14fb29ff41a0c114fb29ff41a4a7.jpg
+    alt:
+      en: "Aerial view of a flooded industrial facility with two large rounded storage tanks surrounded by standing water, pipelines, and scattered metal pipes and equipment."
 geo:
 id: 21353
 item_type: Still Image

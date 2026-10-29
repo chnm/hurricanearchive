@@ -21,6 +21,8 @@ files:
     original_filename: Picture 080.jpg
     thumb: /files/thumbnails/14fb29cc54d4cf14fb29cc55b2c1.jpg
     url: /files/original/14fb29cc54d4cf14fb29cc55b2c1.jpg
+    alt:
+      en: "Photo taken from inside a moving vehicle shows a roadside tree line with numerous trees snapped and fallen, their branches tangled across the ground, under a partly cloudy sky."
 geo:
 id: 30809
 item_type: Still Image

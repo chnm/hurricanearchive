@@ -23,6 +23,8 @@ files:
     original_filename: Katrina 7_b666403226.JPG
     thumb: /files/thumbnails/14fb29c2b0583b14fb29c2b05c1b.jpg
     url: /files/original/14fb29c2b0583b14fb29c2b05c1b.jpg
+    alt:
+      en: "Muddy, debris-strewn lot with a large tree amid storm-damaged utility poles and distant construction cranes, viewed from Florida Avenue along Jourdan Road, January 2006."
 geo:
   address: ''
   lat: 29.97888

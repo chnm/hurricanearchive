@@ -24,6 +24,8 @@ files:
     original_filename: P1010043.JPG
     thumb: /files/thumbnails/14fb2a5b947c5d14fb2a5b948041.jpg
     url: /files/original/14fb2a5b947c5d14fb2a5b948041.jpg
+    alt:
+      en: "Stucco two-story house with visible horizontal water stain lines across its exterior, broken windows, spray-painted \"SR\" marking, and debris including furniture and lumber piled in the yard."
 geo:
 id: 3474
 item_type: Still Image

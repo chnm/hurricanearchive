@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0452.JPG
     thumb: /files/thumbnails/14fb2a53e0b67214fb2a53e11b76.jpg
     url: /files/original/14fb2a53e0b67214fb2a53e11b76.jpg
+    alt:
+      en: "Large pile of storm debris—splintered wood, boards, and metal fragments—covers a beach area beside a tiled pavement foundation, with the ocean visible in the background."
 geo:
 id: 5107
 item_type: Still Image

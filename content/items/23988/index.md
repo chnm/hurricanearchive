@@ -21,6 +21,8 @@ files:
     original_filename: 09270026plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec1e02f014fb29ec1e06de.jpg
     url: /files/original/14fb29ec1e02f014fb29ec1e06de.jpg
+    alt:
+      en: "Storm-damaged single-story house with missing roof shingles and an orange \"X\" search-and-rescue marking on its front wall, surrounded by debris, fallen branches, and scattered wreckage."
 geo:
 id: 23988
 item_type: Still Image

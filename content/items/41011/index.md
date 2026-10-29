@@ -20,6 +20,8 @@ files:
     original_filename: 7 - Robert E_141aca44d1. Lee 2.JPG
     thumb: /files/thumbnails/14fb29c4a8e4f414fb29c4a8e8db.jpg
     url: /files/original/14fb29c4a8e4f414fb29c4a8e8db.jpg
+    alt:
+      en: "A quiet residential street with small houses in various states of repair, a dumpster, and a large blue \"ONE New Orleans\" sign reading \"Our Recovery in Progress\" with project details for Robert E. Lee Blvd. improvements."
 geo:
   address: ''
   lat: 0.0

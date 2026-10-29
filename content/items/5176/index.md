@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0538.JPG
     thumb: /files/thumbnails/14fb2a537f088614fb2a537f0c61.jpg
     url: /files/original/14fb2a537f088614fb2a537f0c61.jpg
+    alt:
+      en: "A yellow tape measure stretched across sandy ground near a wooden beam with a metal washer and bolt, surrounded by debris, twigs, and a pinecone."
 geo:
 id: 5176
 item_type: Still Image

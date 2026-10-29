@@ -21,6 +21,8 @@ files:
     original_filename: aerials31.jpg
     thumb: /files/thumbnails/14fb2a19d6845f14fb2a19d68b09.jpg
     url: /files/original/14fb2a19d6845f14fb2a19d68b09.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential area with debris scattered across yards and streets, collapsed structures, and a gas station with canopy visible in the lower right corner."
 geo:
 id: 14318
 item_type: Still Image

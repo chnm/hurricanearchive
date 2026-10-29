@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8700.jpg
     thumb: /files/thumbnails/14fb2a65c382d414fb2a65c396f9.jpg
     url: /files/original/14fb2a65c382d414fb2a65c396f9.jpg
+    alt:
+      en: "A blue and yellow metal archway with a hanging bell and a sign reading \"Isleños\" stands in front of a severely storm-damaged building with a collapsed roof."
 geo:
 id: 2521
 item_type: Still Image

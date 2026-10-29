@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0073OEP.JPG
     thumb: /files/thumbnails/14fb29f1a9242a14fb29f1a92c08.jpg
     url: /files/original/14fb29f1a9242a14fb29f1a92c08.jpg
+    alt:
+      en: "Two men sit on stools outdoors conducting an interview, one in a white T-shirt taking notes on a clipboard and the other in military camouflage fatigues, with a microphone visible nearby."
 geo:
 id: 23063
 item_type: Still Image

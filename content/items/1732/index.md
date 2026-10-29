@@ -26,6 +26,8 @@ files:
     original_filename: SilsbeeTexasDestroyedTrees_5b7fdee632.jpg
     thumb: /files/thumbnails/14fb2a6f04663014fb2a6f0469b2.jpg
     url: /files/original/14fb2a6f04663014fb2a6f0469b2.jpg
+    alt:
+      en: "Aerial view of a dense forest in Silsbee, Texas, showing widespread tree damage with numerous fallen and snapped trunks scattered among surviving green trees after Hurricane Rita."
 geo:
   address: ''
   lat: 30.148461

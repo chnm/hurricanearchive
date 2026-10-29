@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0681.JPG
     thumb: /files/thumbnails/14fb2a533d0c8214fb2a533d20b7.jpg
     url: /files/original/14fb2a533d0c8214fb2a533d20b7.jpg
+    alt:
+      en: "Storm-damaged landscape with fallen branches and debris scattered across a dirt and grass yard, bare and broken trees, a white picket fence, and houses visible in the background."
 geo:
 id: 5236
 item_type: Still Image

@@ -25,12 +25,16 @@ files:
     original_filename: Dot Benge_5704_726ae51f96.jpg
     thumb: /files/thumbnails/14fb29daae496814fb29daae4dbe.jpg
     url: /files/original/14fb29daae496814fb29daae4dbe.jpg
+    alt:
+      en: "Older bearded man in a cap and striped shirt sits outdoors at a table with greens and a drink can, with clotheslines, a shed, and parked vehicles in the background."
   - fullsize: /files/fullsize/14fb29daa934f014fb29daa938d5.jpg
     id: 22700
     mime: image/jpeg
     original_filename: Dot Benge_5708_5677aa1362.jpg
     thumb: /files/thumbnails/14fb29daa934f014fb29daa938d5.jpg
     url: /files/original/14fb29daa934f014fb29daa938d5.jpg
+    alt:
+      en: "Back of a photograph bearing water damage and discoloration along the bottom edge, with \"Kodak Paper\" watermarks visible and a handwritten inscription reading \"4/16/00, Bert Estevs\" in the upper right corner."
 geo:
 id: 26114
 item_type: Still Image

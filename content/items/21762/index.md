@@ -21,6 +21,8 @@ files:
     original_filename: katrina 030.jpg
     thumb: /files/thumbnails/14fb29fbe92ffc14fb29fbe9426c.jpg
     url: /files/original/14fb29fbe92ffc14fb29fbe9426c.jpg
+    alt:
+      en: "Dark, dimly lit interior of a parking garage with rows of concrete support columns and a low ceiling, illuminated faintly by distant lights; timestamp \"5 10:32 AM\" overlaid in orange text."
 geo:
 id: 21762
 item_type: Still Image

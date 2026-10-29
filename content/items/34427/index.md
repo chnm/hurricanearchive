@@ -20,6 +20,8 @@ files:
     original_filename: 2326143421_1ffe51e866.
     thumb: /files/thumbnails/14fb29ca14e15214fb29ca14e540.jpg
     url: /files/original/14fb29ca14e15214fb29ca14e540.jpg
+    alt:
+      en: "Storm-damaged house lifted on concrete pilings, its roof and walls torn apart, beside a bare tree and scattered debris, with floodwater and distant structures visible under a pale sky."
 geo:
   address: ''
   lat: 30.21788

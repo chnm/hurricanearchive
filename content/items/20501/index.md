@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024-9-25.JPG
     thumb: /files/thumbnails/14fb2a069be21814fb2a069be5f5.jpg
     url: /files/original/14fb2a069be21814fb2a069be5f5.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with submerged mobile homes and trailers, downed power lines, and scattered debris; a line of damaged structures and snapped utility poles lines a nearby road."
 geo:
 id: 20501
 item_type: Still Image

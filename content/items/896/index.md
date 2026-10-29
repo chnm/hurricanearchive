@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28498.jpg
     thumb: /files/thumbnails/14fb2a6c65686814fb2a6c656c4e.jpg
     url: /files/original/14fb2a6c65686814fb2a6c656c4e.jpg
+    alt:
+      en: "Interior room with a window covered by blinds and a lace valance, surrounded by walls heavily stained with mold and watermarks; a floor lamp and debris-covered furniture sit nearby."
 geo:
   address: ''
   lat: 0.0

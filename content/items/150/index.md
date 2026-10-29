@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2180_25b48bd38e.JPG
     thumb: /files/thumbnails/14fb2a70d8865e14fb2a70d88a44.jpg
     url: /files/original/14fb2a70d8865e14fb2a70d88a44.jpg
+    alt:
+      en: "A massive debris pile of storm wreckage—furniture, mattresses, and household items—sits beside a grassy strip under a clear blue sky, with a \"Kampen Electric 835-5555\" sign in the foreground."
 geo:
   address: ''
   lat: 30.030902

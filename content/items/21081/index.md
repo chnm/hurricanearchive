@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0173-21.JPG
     thumb: /files/thumbnails/14fb2a00a8a66214fb2a00a8aa41.jpg
     url: /files/original/14fb2a00a8a66214fb2a00a8aa41.jpg
+    alt:
+      en: "Residential street lined with houses and trees, power lines overhead, and piles of debris and discarded belongings stacked along the curb near a brick wall and fence."
 geo:
 id: 21081
 item_type: Still Image

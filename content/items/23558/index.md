@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0180abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eef11fdd14fb29eef123c3.jpg
     url: /files/original/14fb29eef11fdd14fb29eef123c3.jpg
+    alt:
+      en: "Dark interior view of three men standing with their backs to the camera in a dim, debris-strewn room, silhouetted against a lighter doorway in the background."
 geo:
 id: 23558
 item_type: Still Image

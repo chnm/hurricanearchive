@@ -21,6 +21,8 @@ files:
     original_filename: 100_0152.JPG
     thumb: /files/thumbnails/14fb2a5938f7c814fb2a5938fba5.jpg
     url: /files/original/14fb2a5938f7c814fb2a5938fba5.jpg
+    alt:
+      en: "A single-story building with dark awnings over its windows and doors stands partially submerged in floodwater, viewed from a boat, with power lines and trees visible against a hazy sky."
 geo:
 id: 3859
 item_type: Still Image

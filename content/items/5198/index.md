@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0643.JPG
     thumb: /files/thumbnails/14fb2a536c13ee14fb2a536c17d2.jpg
     url: /files/original/14fb2a536c13ee14fb2a536c17d2.jpg
+    alt:
+      en: "Debris field of broken wood, lumber, and scattered storm wreckage along a muddy shoreline, with tall pine trees stripped of bark and a calm body of water in the background."
 geo:
 id: 5198
 item_type: Still Image

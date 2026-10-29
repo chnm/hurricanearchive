@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1793superdome.JPG
     thumb: /files/thumbnails/14fb29e1610b0814fb29e161182a.jpg
     url: /files/original/14fb29e1610b0814fb29e161182a.jpg
+    alt:
+      en: "A woman in a khaki shirt and cross necklace smiles while speaking with three men in camouflage military uniforms, with military trucks and a parking structure visible in the background."
 geo:
 id: 25181
 item_type: Still Image

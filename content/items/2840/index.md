@@ -21,6 +21,8 @@ files:
     original_filename: MVC-031S.JPG
     thumb: /files/thumbnails/14fb2a5fe3220614fb2a5fe32a12.jpg
     url: /files/original/14fb2a5fe3220614fb2a5fe32a12.jpg
+    alt:
+      en: "Interior of a large industrial hangar with high steel-beam ceilings, damaged metal ceiling panels hanging down, and a concrete floor scattered with tools, ladders, and equipment."
 geo:
 id: 2840
 item_type: Still Image

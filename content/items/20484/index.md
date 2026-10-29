@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021H.JPG
     thumb: /files/thumbnails/14fb2a06da12db14fb2a06da1ea6.jpg
     url: /files/original/14fb2a06da12db14fb2a06da1ea6.jpg
+    alt:
+      en: "A dimly lit room with a woman in a white tank top with an orange name tag reaching across an air hockey table, while two men stand nearby under hanging string lights."
 geo:
 id: 20484
 item_type: Still Image

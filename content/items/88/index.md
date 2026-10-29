@@ -26,6 +26,8 @@ files:
     original_filename: 100_5907_9b6ce4853d.JPG
     thumb: /files/thumbnails/14fb2a7116ad4814fb2a7116b12e.jpg
     url: /files/original/14fb2a7116ad4814fb2a7116b12e.jpg
+    alt:
+      en: "A large tree with exposed roots has uplifted and cracked a concrete sidewalk slab, with a brick house and blue tarp-covered roof visible in the background, dated 11/15/2005."
 geo:
   address: ''
   lat: 30.005653

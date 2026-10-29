@@ -21,6 +21,8 @@ files:
     original_filename: SW 1960 picnic_c48c6acfe9.jpg
     thumb: /files/thumbnails/14fb29d7f3955914fb29d7f39a5f.jpg
     url: /files/original/14fb29d7f3955914fb29d7f39a5f.jpg
+    alt:
+      en: "Vintage faded color photo of a family picnic gathering by a lake shore, with a woman reclining in a lawn chair in the foreground and several adults and children seated on a bench behind her."
 geo:
   address: ''
   lat: 29.91685

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039cameronS&R.JPG
     thumb: /files/thumbnails/14fb29f01957ff14fb29f0195be7.jpg
     url: /files/original/14fb29f01957ff14fb29f0195be7.jpg
+    alt:
+      en: "Aerial view of a coastal community reduced to scattered foundations and debris along a grid of streets, with standing floodwater, marsh grasses, and the beach and ocean visible under a hazy sky."
 geo:
 id: 23292
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Parking Lot at Jack Brks 3Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f43666ae14fb29f4366a9d.jpg
     url: /files/original/14fb29f43666ae14fb29f4366a9d.jpg
+    alt:
+      en: "Flooded parking lot with several vehicles submerged nearly to their roofs in murky floodwater, a streetlamp and tree in the foreground, under a hazy, overcast sky."
 geo:
 id: 22752
 item_type: Still Image

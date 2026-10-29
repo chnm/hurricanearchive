@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a08673a0914fb2a08673def.jpg
     url: /files/original/14fb2a08673a0914fb2a08673def.jpg
+    alt:
+      en: "Man wearing a tan baseball cap, sunglasses, and a red plaid shirt with a press badge sits in a folding camp chair outdoors near a building, with another person's leg visible in the foreground."
 geo:
 id: 20357
 item_type: Still Image

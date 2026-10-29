@@ -21,6 +21,8 @@ files:
     original_filename: MVC-007S.JPG
     thumb: /files/thumbnails/14fb2a5f7ae5f614fb2a5f7aea7a.jpg
     url: /files/original/14fb2a5f7ae5f614fb2a5f7aea7a.jpg
+    alt:
+      en: "Close-up of a battleship's main gun turret with five large naval gun barrels extending outward, set against the ship's superstructure and a clear sky."
 geo:
 id: 2952
 item_type: Still Image

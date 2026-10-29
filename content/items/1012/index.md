@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28190.jpg
     thumb: /files/thumbnails/14fb2a6b6a6a2f14fb2a6b6a6e00.jpg
     url: /files/original/14fb2a6b6a6a2f14fb2a6b6a6e00.jpg
+    alt:
+      en: "Tire tracks crisscross a muddy, sandy expanse near rows of weathered wooden pilings, with stripped, storm-damaged trees lining the background under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

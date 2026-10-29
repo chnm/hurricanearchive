@@ -21,6 +21,8 @@ files:
     original_filename: Picture 311-J2.jpg
     thumb: /files/thumbnails/14fb29faa9cd8114fb29faa9d2c2.jpg
     url: /files/original/14fb29faa9cd8114fb29faa9d2c2.jpg
+    alt:
+      en: "Elevated highway overpass in front of a city skyline with high-rise buildings, a helicopter flying near downtown towers, and tall light poles along the roadway under a clear blue sky."
 geo:
 id: 21980
 item_type: Still Image

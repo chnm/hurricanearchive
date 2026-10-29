@@ -21,6 +21,8 @@ files:
     original_filename: MVC-005S.JPG
     thumb: /files/thumbnails/14fb2a5f7bd04714fb2a5f7bd42d.jpg
     url: /files/original/14fb2a5f7bd04714fb2a5f7bd42d.jpg
+    alt:
+      en: "Outdoor aviation display with jets, a white rocket, and vintage aircraft parked on pavement, with shipping containers, a dumpster, and a high-rise building visible in the background."
 geo:
 id: 2950
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1025Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f90ee5ba14fb29f90ee968.jpg
     url: /files/original/14fb29f90ee5ba14fb29f90ee968.jpg
+    alt:
+      en: "Military personnel in camouflage load gear into a U.S. Army Black Hawk helicopter parked on a helipad, with trucks and trees visible in the background."
 geo:
 id: 22218
 item_type: Still Image

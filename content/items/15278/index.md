@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-021_0e50162979.jpg
     thumb: /files/thumbnails/14fb2a16a834c714fb2a16a838ad.jpg
     url: /files/original/14fb2a16a834c714fb2a16a838ad.jpg
+    alt:
+      en: "Film crew with a lighting rig atop a vintage bus labeled \"Lowell Fulson & His,\" surrounded by crew members, a police officer, and a patrol car marked \"Bernard 230\" during on-location movie filming."
 geo:
 id: 15278
 item_type: Still Image

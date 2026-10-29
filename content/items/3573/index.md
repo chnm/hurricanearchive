@@ -24,6 +24,8 @@ files:
     original_filename: P1010148.JPG
     thumb: /files/thumbnails/14fb2a5ac25faa14fb2a5ac26377.jpg
     url: /files/original/14fb2a5ac25faa14fb2a5ac26377.jpg
+    alt:
+      en: "A massive pile of storm debris—mattresses, insulation, furniture, and household wreckage—stretches along a roadside, with orange safety fencing and trees visible in the background under a clear blue sky."
 geo:
 id: 3573
 item_type: Still Image

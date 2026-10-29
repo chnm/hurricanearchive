@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0696.JPG
     thumb: /files/thumbnails/14fb2a532eee3214fb2a532ef216.jpg
     url: /files/original/14fb2a532eee3214fb2a532ef216.jpg
+    alt:
+      en: "A white six-panel front door, stained with mud splatters and spots, set in a beige vinyl-sided house with the address numbers \"323\" mounted beside it."
 geo:
 id: 5251
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a57a8b69c14fb2a57a8ba82.jpg
     url: /files/original/14fb2a57a8b69c14fb2a57a8ba82.jpg
+    alt:
+      en: "A man in a light blue checked shirt shakes hands with a uniformed Coast Guard member under a tent, surrounded by several other personnel wearing caps, sunglasses, and tactical vests."
 geo:
 id: 4112
 item_type: Still Image

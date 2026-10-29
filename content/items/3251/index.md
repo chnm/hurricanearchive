@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (16).JPG
     thumb: /files/thumbnails/14fb2a5d0f3de114fb2a5d0f41c1.jpg
     url: /files/original/14fb2a5d0f3de114fb2a5d0f41c1.jpg
+    alt:
+      en: "A wide river channel with barges and a tugboat, bordered by a flattened, debris-strewn shoreline where buildings and trees were destroyed, with a utility pole in the foreground."
 geo:
 id: 3251
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 002cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0cc01d1214fb2a0cc020f8.jpg
     url: /files/original/14fb2a0cc01d1214fb2a0cc020f8.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms sit and stand around tables in a room with large glass-block windows, maps, and charts posted on easels and walls, with laptops visible in the background."
 geo:
 id: 19905
 item_type: Still Image

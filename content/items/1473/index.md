@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28592.jpg
     thumb: /files/thumbnails/14fb2a68858cab14fb2a68859090.jpg
     url: /files/original/14fb2a68858cab14fb2a68859090.jpg
+    alt:
+      en: "A large boat sits grounded on a street beside debris and broken boards, with a multi-story condominium building and palm trees in the background under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

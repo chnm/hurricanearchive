@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7426.JPG
     thumb: /files/thumbnails/14fb29cca803da14fb29cca807bf.jpg
     url: /files/original/14fb29cca803da14fb29cca807bf.jpg
+    alt:
+      en: "A large tree branch has fallen onto the gabled roof of a wooden cabin, with leafy branches draping over a second-story deck and windows."
 geo:
 id: 30729
 item_type: Still Image

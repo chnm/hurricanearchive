@@ -21,6 +21,8 @@ files:
     original_filename: Picture 007cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c94dc4914fb2a0c94e5b5.jpg
     url: /files/original/14fb2a0c94dc4914fb2a0c94e5b5.jpg
+    alt:
+      en: "Blurred close-up of a blue and white post in a grassy field, with two thin dark posts visible in the background."
 geo:
 id: 19911
 item_type: Still Image

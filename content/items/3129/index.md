@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (13).JPG
     thumb: /files/thumbnails/14fb2a5dcb1ba814fb2a5dcb1f8d.jpg
     url: /files/original/14fb2a5dcb1ba814fb2a5dcb1f8d.jpg
+    alt:
+      en: "A line of dump trucks loaded with debris waits along a street, with orange traffic cones directing passage past downed tree limbs and power lines overhead."
 geo:
 id: 3129
 item_type: Still Image

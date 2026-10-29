@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0050M.JPG
     thumb: /files/thumbnails/14fb2a0564765714fb2a05647a4f.jpg
     url: /files/original/14fb2a0564765714fb2a05647a4f.jpg
+    alt:
+      en: "Blurred, motion-streaked photo taken through a vehicle window with a red sign in the foreground, showing a distant bridge or structure with railings and the number \"17\" against a hazy sky."
 geo:
 id: 20656
 item_type: Still Image

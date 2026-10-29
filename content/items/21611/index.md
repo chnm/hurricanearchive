@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0344-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd1802c414fb29fd1806ba.jpg
     url: /files/original/14fb29fd1802c414fb29fd1806ba.jpg
+    alt:
+      en: "Aerial view of floodwaters submerging a rural landscape, with a line of trees and utility poles partially underwater and scattered tree clusters emerging from the brown, rippled water."
 geo:
 id: 21611
 item_type: Still Image

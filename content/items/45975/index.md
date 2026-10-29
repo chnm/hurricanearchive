@@ -17,6 +17,8 @@ files:
     original_filename: IMG_5977.JPG
     thumb: /files/thumbnails/9156aec3400a3a0658851ee3031bc360.jpg
     url: /files/original/9156aec3400a3a0658851ee3031bc360.JPG
+    alt:
+      en: "A cardboard box covered in a child's hand-drawn labels and doodles referencing Hurricane Georges, including \"WWL News Channel 4,\" \"The Weather Channel #18,\" \"NFIP Flood Insurance,\" \"U.S. Mail,\" and \"Fragile!\""
 geo:
 id: 45975
 item_type: Still Image

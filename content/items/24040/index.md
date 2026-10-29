@@ -21,6 +21,8 @@ files:
     original_filename: CSA-2005-09-13-083957neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb49a5f914fb29eb49b16d.jpg
     url: /files/original/14fb29eb49a5f914fb29eb49b16d.jpg
+    alt:
+      en: "A group of soldiers in camouflage and maroon berets paddle an inflatable black boat marked \"15\" through floodwaters, with two civilians seated among them."
 geo:
 id: 24040
 item_type: Still Image

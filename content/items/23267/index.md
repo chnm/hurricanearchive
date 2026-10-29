@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29f032ab9514fb29f032aff8.jpg
     url: /files/original/14fb29f032ab9514fb29f032aff8.jpg
+    alt:
+      en: "A bent \"Speed Limit 25\" sign leans beside a splintered wooden post amid storm debris—twisted metal, broken beams, and a yellow radio—surrounded by standing floodwater and dead trees."
 geo:
 id: 23267
 item_type: Still Image

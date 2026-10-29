@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1326Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f60288e214fb29f60293a4.jpg
     url: /files/original/14fb29f60288e214fb29f60293a4.jpg
+    alt:
+      en: "Floodwater submerges a brick building with trees whipping in strong wind under overcast skies; a person holding a Sony video camera films the scene from the foreground."
 geo:
 id: 22485
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0626.JPG
     thumb: /files/thumbnails/14fb2a5643931714fb2a564396fc.jpg
     url: /files/original/14fb2a5643931714fb2a564396fc.jpg
+    alt:
+      en: "A quiet residential street with a white pickup truck parked near the curb, houses with blue tarps covering damaged roofs, and large shade trees lining the road under a clear sky."
 geo:
 id: 4675
 item_type: Still Image

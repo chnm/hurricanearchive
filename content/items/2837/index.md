@@ -21,6 +21,8 @@ files:
     original_filename: MVC-028S.JPG
     thumb: /files/thumbnails/14fb2a5fe63c4814fb2a5fe6402e.jpg
     url: /files/original/14fb2a5fe63c4814fb2a5fe6402e.jpg
+    alt:
+      en: "Vintage blue propeller aircraft marked \"10\" sits inside a hangar with a heavily damaged, torn ceiling and roof structure, surrounded by ladders and equipment."
 geo:
 id: 2837
 item_type: Still Image

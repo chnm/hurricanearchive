@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28240.jpg
     thumb: /files/thumbnails/14fb2a688aa4fc14fb2a688aa8e0.jpg
     url: /files/original/14fb2a688aa4fc14fb2a688aa8e0.jpg
+    alt:
+      en: "Exterior view of a Wal-Mart Supercenter building with an attached \"Always Food Center\" storefront, under a partly cloudy sky, with an empty parking lot in the foreground."
 geo:
   address: ''
   lat: 0.0

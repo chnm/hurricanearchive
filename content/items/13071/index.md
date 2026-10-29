@@ -21,6 +21,8 @@ files:
     original_filename: broken windows.jpg
     thumb: /files/thumbnails/14fb2a2092a70d14fb2a2092aaf3.jpg
     url: /files/original/14fb2a2092a70d14fb2a2092aaf3.jpg
+    alt:
+      en: "Row of windows on a building's exterior wall, two of which are shattered with jagged glass remnants in their frames, photographed through a hazy or fogged lens."
 geo:
 id: 13071
 item_type: Still Image

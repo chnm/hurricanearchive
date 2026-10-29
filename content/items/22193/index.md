@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1000Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f92a4c2614fb29f92a5003.jpg
     url: /files/original/14fb29f92a4c2614fb29f92a5003.jpg
+    alt:
+      en: "A convoy of military vehicles, including a camouflage pickup truck, Humvee, and police car with lights activated, drives past a brick guard post and building under a stormy sky."
 geo:
 id: 22193
 item_type: Still Image

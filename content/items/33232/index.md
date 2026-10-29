@@ -23,6 +23,8 @@ files:
     original_filename: 1259921888_574dda7648.jpg
     thumb: /files/thumbnails/14fb29cb5f1cde14fb29cb5f20d1.jpg
     url: /files/original/14fb29cb5f1cde14fb29cb5f20d1.jpg
+    alt:
+      en: "Weathered wooden siding with a rusted metal patch and shuttered window, showing a faded horizontal flood line; torn cardboard and yellow insulation wrapping litter the ground below."
 geo:
 id: 33232
 item_type: Still Image

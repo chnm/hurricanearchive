@@ -27,6 +27,8 @@ files:
     original_filename: Self-portrait Crying
     thumb: /files/thumbnails/14fb2a60730b1a14fb2a60730ef7.jpg
     url: /files/original/14fb2a60730b1a14fb2a60730ef7.jpg
+    alt:
+      en: "Child's marker drawing of a face with a circular outline, messy dark hair, two almond-shaped eyes, a straight red mouth, and long red tear lines running down from the eyes."
 geo:
 id: 2715
 item_type: Still Image

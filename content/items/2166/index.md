@@ -26,6 +26,8 @@ files:
     original_filename: kat9_2dbfb39368.JPG
     thumb: /files/thumbnails/14fb2a6d8e1a1e14fb2a6d8e1de7.jpg
     url: /files/original/14fb2a6d8e1a1e14fb2a6d8e1de7.jpg
+    alt:
+      en: "A cot covered with a red and floral quilt holds scattered black-and-white family photographs, a water bottle, and crumpled tissues, with a metal folding chair and table nearby holding more photos and books."
 geo:
   address: ''
   lat: 31.1117401069797

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2102superdome.JPG
     thumb: /files/thumbnails/14fb29e4c26aef14fb29e4c26ed4.jpg
     url: /files/original/14fb29e4c26aef14fb29e4c26ed4.jpg
+    alt:
+      en: "A line of children, some with face paint, stand indoors near a person in a colorful clown wig; a smiling teen in a black \"STOP THE KILLING\" shirt looks toward the camera."
 geo:
 id: 24780
 item_type: Still Image

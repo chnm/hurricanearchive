@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0209-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ffbb6eac14fb29ffbb7295.jpg
     url: /files/original/14fb29ffbb6eac14fb29ffbb7295.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with foundations stripped of houses, scattered debris, overturned cars, and downed trees lining empty streets, while intact homes remain visible in the background."
 geo:
 id: 21258
 item_type: Still Image

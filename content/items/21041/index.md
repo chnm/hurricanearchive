@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012.JPG
     thumb: /files/thumbnails/14fb2a00f9f0ba14fb2a00f9f4a0.jpg
     url: /files/original/14fb2a00f9f0ba14fb2a00f9f4a0.jpg
+    alt:
+      en: "View from inside a military helicopter looking past a soldier in camouflage gear and helmet, through the open door toward a landscape below with roads, buildings, and tree-covered hills."
 geo:
 id: 21041
 item_type: Still Image

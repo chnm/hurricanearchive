@@ -21,6 +21,8 @@ files:
     original_filename: 225 just missed the car.jpg
     thumb: /files/thumbnails/14fb2a1f23203c14fb2a1f232421.jpg
     url: /files/original/14fb2a1f23203c14fb2a1f232421.jpg
+    alt:
+      en: "Sideways photo of a dark sedan parked beside a building, with a damaged metal awning or roofing material collapsed onto the car; a red storefront reading \"ART & CRYSTAL GALLERY\" is visible in the background."
 geo:
 id: 13230
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials69.jpg
     thumb: /files/thumbnails/14fb2a199cd8f314fb2a199cf1f9.jpg
     url: /files/original/14fb2a199cd8f314fb2a199cf1f9.jpg
+    alt:
+      en: "Aerial view of a long bridge with multiple collapsed and missing sections spanning a wide body of water, with tree-lined shorelines visible in the background."
 geo:
 id: 14359
 item_type: Still Image

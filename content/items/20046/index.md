@@ -21,6 +21,8 @@ files:
     original_filename: Picture 143cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b92823e14fb2a0b92861a.jpg
     url: /files/original/14fb2a0b92823e14fb2a0b92861a.jpg
+    alt:
+      en: "A large boat named \"Robin Kelli\" from New Orleans lies beached and tilted amid storm debris, with a damaged warehouse building and scattered wreckage in the background."
 geo:
 id: 20046
 item_type: Still Image

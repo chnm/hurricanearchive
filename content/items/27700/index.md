@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6617_d286f4a567.JPG
     thumb: /files/thumbnails/14fb29d2cdcc8e14fb29d2cdd075.jpg
     url: /files/original/14fb29d2cdcc8e14fb29d2cdd075.jpg
+    alt:
+      en: "A Democratic Primary Election mailer dated November 4, 1967, with blue-toned candidate photos and text endorsing Governor John J. McKeithen and local candidates, printed in blue ink on white paper."
 geo:
   address: ''
   lat: 29.87876

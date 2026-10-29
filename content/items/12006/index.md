@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi529.JPG
     thumb: /files/thumbnails/14fb2a225dcd3814fb2a225dd11e.jpg
     url: /files/original/14fb2a225dcd3814fb2a225dd11e.jpg
+    alt:
+      en: "A crowd gathers outside a brick school building, with media crews holding microphones and cameras, as children and adults wait near a school bus in the background."
 geo:
 id: 12006
 item_type: Still Image

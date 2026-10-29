@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0157-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a014e84f214fb2a014ea824.jpg
     url: /files/original/14fb2a014e84f214fb2a014ea824.jpg
+    alt:
+      en: "Floodwater submerges the brick columns of a covered walkway in front of a school building, with debris and dried branches floating on the water's surface and a yellow \"No Loitering\" sign on one pillar."
 geo:
 id: 20961
 item_type: Still Image

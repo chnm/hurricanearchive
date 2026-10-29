@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0532Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f52eca9714fb29f52ece7d.jpg
     url: /files/original/14fb29f52eca9714fb29f52ece7d.jpg
+    alt:
+      en: "Close-up of a white RV or travel trailer roof with a \"Duo-Therm\" air conditioning unit, parked behind a metal fence near a brick structure."
 geo:
 id: 22581
 item_type: Still Image

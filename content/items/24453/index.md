@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0097-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e79670ee14fb29e796760c.jpg
     url: /files/original/14fb29e79670ee14fb29e796760c.jpg
+    alt:
+      en: "Cattle graze along a flooded roadside where standing floodwater submerges fence posts, a small outbuilding, and surrounding trees, with a white egret in flight over the water."
 geo:
 id: 24453
 item_type: Still Image

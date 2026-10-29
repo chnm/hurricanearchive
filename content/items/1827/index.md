@@ -26,6 +26,8 @@ files:
     original_filename: IMAG0047_c0c8096a84.JPG
     thumb: /files/thumbnails/14fb2a6ebcd68e14fb2a6ebcda76.jpg
     url: /files/original/14fb2a6ebcd68e14fb2a6ebcda76.jpg
+    alt:
+      en: "A person wears a white hooded protective coverall, respirator mask, and orange rubber gloves while holding a CD and a spray can, standing in a hallway near a bathroom."
 geo:
   address: ''
   lat: 29.961448

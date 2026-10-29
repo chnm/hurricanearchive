@@ -21,6 +21,8 @@ files:
     original_filename: JA 6 two sailors 1943_b08fb5dd7d.jpg
     thumb: /files/thumbnails/14fb29d837682014fb29d8376c06.jpg
     url: /files/original/14fb29d837682014fb29d8376c06.jpg
+    alt:
+      en: "Vintage photograph, creased and torn down the middle, of two men in U.S. Navy uniforms standing before a painted backdrop of ship chains, one with his arm around the other's shoulder."
 geo:
   address: ''
   lat: 29.87876

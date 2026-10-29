@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-07-5A.jpg
     thumb: /files/thumbnails/14fb29e875cd6f14fb29e875d154.jpg
     url: /files/original/14fb29e875cd6f14fb29e875d154.jpg
+    alt:
+      en: "A white two-story building with a wraparound porch and staircase stands surrounded by deep floodwater, with submerged debris and a small floating platform visible in the courtyard."
 geo:
 id: 24359
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300150stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf9e12c14fb29ecf9e50a.jpg
     url: /files/original/14fb29ecf9e12c14fb29ecf9e50a.jpg
+    alt:
+      en: "Storm-damaged intersection with downed, browned trees and debris piled near a blue \"Phone\" sign, a dirt-covered street, and a green traffic signal pole, power lines overhead."
 geo:
 id: 23811
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 008engineers.jpg
     thumb: /files/thumbnails/14fb2a0ff21c6e14fb2a0ff22054.jpg
     url: /files/original/14fb2a0ff21c6e14fb2a0ff22054.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms hand a cardboard box to an older man over a chain-link fence, with floodwater visible beneath a damaged house and a military vehicle in the foreground."
 geo:
 id: 19448
 item_type: Still Image

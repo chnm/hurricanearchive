@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0704.JPG
     thumb: /files/thumbnails/14fb2a53290abe14fb2a53290ea3.jpg
     url: /files/original/14fb2a53290abe14fb2a53290ea3.jpg
+    alt:
+      en: "A mailbox numbered 323 stands beside a quiet residential road, with uprooted trees and debris scattered along a muddy, flooded ditch in the background."
 geo:
 id: 5259
 item_type: Still Image

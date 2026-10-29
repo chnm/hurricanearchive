@@ -30,6 +30,8 @@ files:
     original_filename: adc04_ec2a1748cf.jpg
     thumb: /files/thumbnails/14fb29cbea126814fb29cbea1655.jpg
     url: /files/original/14fb29cbea126814fb29cbea1655.jpg
+    alt:
+      en: "Two-tone yellow and dark green comic panel showing a large man laughing while carrying a bag, with \"CLIK\" sound effect text above a man photographing him near a doorway."
 geo:
 id: 32523
 item_type: Hyperlink

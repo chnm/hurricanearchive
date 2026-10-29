@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 110.jpg
     thumb: /files/thumbnails/14fb2a11d50bc614fb2a11d50fab.jpg
     url: /files/original/14fb2a11d50bc614fb2a11d50fab.jpg
+    alt:
+      en: "Two silhouetted figures stand in a debris-strewn parking lot beside a military truck, with a damaged \"Arabi Self Storage\" sign and Winn-Dixie marquee visible under a blue sky."
 geo:
 id: 19200
 item_type: Still Image

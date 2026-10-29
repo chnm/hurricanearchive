@@ -21,6 +21,8 @@ files:
     original_filename: J2 (42).JPG
     thumb: /files/thumbnails/14fb2a11274b8014fb2a1127576c.jpg
     url: /files/original/14fb2a11274b8014fb2a1127576c.jpg
+    alt:
+      en: "Aerial view of a large domed stadium with a damaged roof, surrounded by city skyscrapers, a helipad, parking lots, and flooded streets below."
 geo:
 id: 19325
 item_type: Still Image

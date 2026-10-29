@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0549.JPG
     thumb: /files/thumbnails/14fb2a5374b0c614fb2a5374b4b9.jpg
     url: /files/original/14fb2a5374b0c614fb2a5374b4b9.jpg
+    alt:
+      en: "A wooden fence post with splintered, broken top and protruding nail or bolt, standing against a clear blue sky, with damaged wire fencing and trees visible in the background."
 geo:
 id: 5187
 item_type: Still Image

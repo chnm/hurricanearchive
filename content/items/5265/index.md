@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0710.JPG
     thumb: /files/thumbnails/14fb2a5320c62714fb2a5320ca0b.jpg
     url: /files/original/14fb2a5320c62714fb2a5320ca0b.jpg
+    alt:
+      en: "A cleared sandy lot bordered by tall pine trees, with one tree snapped and leaning, and a cluttered assortment of household items, tools, and containers piled on a cart in the foreground."
 geo:
 id: 5265
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: Lorens_house_7a5b0caf57.jpg
     thumb: /files/thumbnails/14fb2a6e64455b14fb2a6e644943.jpg
     url: /files/original/14fb2a6e64455b14fb2a6e644943.jpg
+    alt:
+      en: "Small purple house with white trim, a gabled porch, and the address \"230\" above the front door, set against trees and a wooden fence."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: More Jackson Barracks 10Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4e6496e14fb29f4e64bac.jpg
     url: /files/original/14fb29f4e6496e14fb29f4e64bac.jpg
+    alt:
+      en: "Flooded parking lot with several vehicles submerged to window level, a streetlamp and utility pole in the foreground, and trees and power lines barely visible through heavy rain and fog."
 geo:
 id: 22641
 item_type: Still Image

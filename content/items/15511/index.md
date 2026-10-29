@@ -21,6 +21,8 @@ files:
     original_filename: IsabelleMcCormick-65_b404ac35ae.jpg
     thumb: /files/thumbnails/14fb2a1611be8814fb2a1611c275.jpg
     url: /files/original/14fb2a1611be8814fb2a1611c275.jpg
+    alt:
+      en: "Three overlapping photographic views of a Civil War-era drum featuring an eagle emblem with \"E Pluribus Unum\" banner, stars, and stripes, shown in close detail with visible wear and tears in the drumhead design."
 geo:
 id: 15511
 item_type: Still Image

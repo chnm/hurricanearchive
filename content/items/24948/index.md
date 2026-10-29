@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1461superdome.JPG
     thumb: /files/thumbnails/14fb29e3a4ff6214fb29e3a50349.jpg
     url: /files/original/14fb29e3a4ff6214fb29e3a50349.jpg
+    alt:
+      en: "Group of people, including two in military uniforms, walk along a raised concrete walkway beside a deeply flooded street filled with submerged cars, with a partial \"King of Beers\" billboard visible above."
 geo:
 id: 24948
 item_type: Still Image

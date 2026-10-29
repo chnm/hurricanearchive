@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4925_82d3f1c3f4.jpg
     thumb: /files/thumbnails/14fb2a1e3207db14fb2a1e320bc0.jpg
     url: /files/original/14fb2a1e3207db14fb2a1e320bc0.jpg
+    alt:
+      en: "Sepia-toned studio portrait of two women standing side by side, both holding clutch purses in front of them, wearing dresses with their hair styled in updos, set against a painted backdrop."
 geo:
 id: 13366
 item_type: Still Image

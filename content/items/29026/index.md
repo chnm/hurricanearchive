@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0547.JPG
     thumb: /files/thumbnails/14fb29d097bafb14fb29d097bc22.jpg
     url: /files/original/14fb29d097bafb14fb29d097bc22.jpg
+    alt:
+      en: "Aerial view of a suburban neighborhood near a waterway, with several houses showing blue tarps covering damaged roof sections amid green lawns, trees, and streets."
 geo:
 id: 29026
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0213.JPG
     thumb: /files/thumbnails/14fb29ffa8f7d314fb29ffa8fb21.jpg
     url: /files/original/14fb29ffa8f7d314fb29ffa8fb21.jpg
+    alt:
+      en: "Aerial view of a devastated coastal neighborhood with collapsed roofs, scattered debris, and bare foundations between scraggly trees, a water tower visible near the shoreline in the distance."
 geo:
 id: 21277
 item_type: Still Image

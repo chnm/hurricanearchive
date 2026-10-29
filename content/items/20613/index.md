@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a05a5e95314fb2a05a5ed38.jpg
     url: /files/original/14fb2a05a5e95314fb2a05a5ed38.jpg
+    alt:
+      en: "Aerial view of a flooded rural community with scattered homes, outbuildings, and trees surrounded by standing floodwater, with a levee and larger body of water in the foreground under hazy skies."
 geo:
 id: 20613
 item_type: Still Image

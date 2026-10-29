@@ -21,6 +21,8 @@ files:
     original_filename: Picture 149cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b8d290e14fb2a0b8d4c8a.jpg
     url: /files/original/14fb2a0b8d290e14fb2a0b8d4c8a.jpg
+    alt:
+      en: "Downed utility poles and tangled power lines lie across a grassy field near an industrial facility with smokestacks, with a \"Luziana\" sign visible on a building in the background."
 geo:
 id: 20052
 item_type: Still Image

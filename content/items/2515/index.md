@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8669.jpg
     thumb: /files/thumbnails/14fb2a65ca1d2514fb2a65ca210b.jpg
     url: /files/original/14fb2a65ca1d2514fb2a65ca210b.jpg
+    alt:
+      en: "Small single-engine plane flipped upside down and crumpled against a bare tree beside a roadway, its red-striped fuselage reading \"W & SLOW BUT LUCKY\" and tail text \"EAT MY DUST DAMMIT!\" visible."
 geo:
 id: 2515
 item_type: Still Image

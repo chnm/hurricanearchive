@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1361Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5aebdc214fb29f5aec193.jpg
     url: /files/original/14fb29f5aebdc214fb29f5aec193.jpg
+    alt:
+      en: "Floodwater submerges a street lined with wooden posts and power lines, with trees partially underwater and overhead wires crossing a gray, overcast sky."
 geo:
 id: 22520
 item_type: Still Image

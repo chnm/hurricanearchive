@@ -24,6 +24,8 @@ files:
     original_filename: P1010135.JPG
     thumb: /files/thumbnails/14fb2a5ad2acbe14fb2a5ad2b428.jpg
     url: /files/original/14fb2a5ad2acbe14fb2a5ad2b428.jpg
+    alt:
+      en: "Large uprooted oak trees lie toppled along a roadside in a park, their exposed root balls and broken trunks surrounded by scattered branches and debris on the grass."
 geo:
 id: 3559
 item_type: Still Image

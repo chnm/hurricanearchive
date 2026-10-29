@@ -21,6 +21,8 @@ files:
     original_filename: Picture 056.jpg
     thumb: /files/thumbnails/14fb29cc7658d214fb29cc765d31.jpg
     url: /files/original/14fb29cc7658d214fb29cc765d31.jpg
+    alt:
+      en: "A large fallen tree leans across a gravel path through storm-damaged woods, with downed power lines tangled in surrounding brush and the hood of a vehicle visible in the foreground."
 geo:
 id: 30791
 item_type: Still Image

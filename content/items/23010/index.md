@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020OEP.JPG
     thumb: /files/thumbnails/14fb29f216fe2f14fb29f2170220.jpg
     url: /files/original/14fb29f216fe2f14fb29f2170220.jpg
+    alt:
+      en: "Large parking lot filled with cars, vans, and SUVs in front of a two-story office building, with young trees, a sidewalk, and traffic cones in the foreground under a clear sky."
 geo:
 id: 23010
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0133-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a02d5887914fb2a02d58c63.jpg
     url: /files/original/14fb2a02d5887914fb2a02d58c63.jpg
+    alt:
+      en: "White single-story house with a metal roof and screened porch, surrounded by bare, storm-damaged trees and a yard littered with debris and dried vegetation."
 geo:
 id: 20852
 item_type: Still Image

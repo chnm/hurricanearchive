@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0660.JPG
     thumb: /files/thumbnails/14fb2a535e762614fb2a535e7a0b.jpg
     url: /files/original/14fb2a535e762614fb2a535e7a0b.jpg
+    alt:
+      en: "Storm-damaged property with an empty concrete block foundation in the foreground and a partially collapsed house with exposed roof framing and debris scattered among trees in the background."
 geo:
 id: 5215
 item_type: Still Image

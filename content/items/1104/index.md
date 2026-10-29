@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28109.jpg
     thumb: /files/thumbnails/14fb2a6afd3b9314fb2a6afd3fe0.jpg
     url: /files/original/14fb2a6afd3b9314fb2a6afd3fe0.jpg
+    alt:
+      en: "Viewed through a rusted metal fence, water fountains spray above a canal lined with utility poles and trees, with a pedestrian bridge visible in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AlijahOConnor_02_07657f7c01.jpg
     thumb: /files/thumbnails/14fb2a185f1ca114fb2a18602d7d.jpg
     url: /files/original/14fb2a185f1ca114fb2a18602d7d.jpg
+    alt:
+      en: "Worn, aged color photograph of a baby in a white outfit being held up by an adult's hands, set against a dark, blurred indoor background."
 geo:
 id: 14674
 item_type: Still Image

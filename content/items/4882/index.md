@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0201.JPG
     thumb: /files/thumbnails/14fb2a5511549214fb2a551158a7.jpg
     url: /files/original/14fb2a5511549214fb2a551158a7.jpg
+    alt:
+      en: "Underside of a wooden deck or porch structure showing exposed beams and joists, with black and white electrical wiring and cables running along the ceiling and support posts below."
 geo:
 id: 4882
 item_type: Still Image

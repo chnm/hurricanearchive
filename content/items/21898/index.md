@@ -21,6 +21,8 @@ files:
     original_filename: Sidney Collier 2.jpg
     thumb: /files/thumbnails/14fb29fb15050a14fb29fb1508ee.jpg
     url: /files/original/14fb29fb15050a14fb29fb1508ee.jpg
+    alt:
+      en: "Aerial view of a flat-roofed commercial building with a central skylight amid large empty parking lots, surrounded by a residential neighborhood with flooded streets, downed trees, and debris-strewn yards."
 geo:
 id: 21898
 item_type: Still Image

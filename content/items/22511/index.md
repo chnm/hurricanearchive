@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1352Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5becd9a14fb29f5bed3fa.jpg
     url: /files/original/14fb29f5becd9a14fb29f5bed3fa.jpg
+    alt:
+      en: "Floodwaters submerge a building and storage container amid wind-bent trees under a gray storm sky, with debris floating on the water's surface."
 geo:
 id: 22511
 item_type: Still Image

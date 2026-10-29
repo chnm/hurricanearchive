@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0195-21.JPG
     thumb: /files/thumbnails/14fb2a0007cb8514fb2a0007cf6b.jpg
     url: /files/original/14fb2a0007cb8514fb2a0007cf6b.jpg
+    alt:
+      en: "A Fox News reporter holds a branded microphone toward a uniformed U.S. Army soldier as a cameraman with a Nikon camera stands nearby, with other soldiers visible in the background."
 geo:
 id: 21197
 item_type: Still Image

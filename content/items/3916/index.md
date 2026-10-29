@@ -21,6 +21,8 @@ files:
     original_filename: 100_0213.JPG
     thumb: /files/thumbnails/14fb2a58e9478a14fb2a58e94b6f.jpg
     url: /files/original/14fb2a58e9478a14fb2a58e94b6f.jpg
+    alt:
+      en: "Photo taken from inside a vehicle showing widespread hurricane debris—splintered wood, lumber, and scattered items—floating in standing water, with a damaged two-story building and utility poles in the background."
 geo:
 id: 3916
 item_type: Still Image

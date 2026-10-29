@@ -23,6 +23,8 @@ files:
     original_filename: 1253015074_89bde2d4dd.jpg
     thumb: /files/thumbnails/14fb29cb53a7fc14fb29cb544058.jpg
     url: /files/original/14fb29cb53a7fc14fb29cb544058.jpg
+    alt:
+      en: "Weathered wooden double doors of a synagogue, each panel carved with a Star of David, featuring ornate black metal handles and a discolored, water-stained finish."
 geo:
 id: 33237
 item_type: Still Image

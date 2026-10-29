@@ -25,12 +25,16 @@ files:
     original_filename: GoodShepherd_JohanLowe_01_bfe90ef2a1.jpg
     thumb: /files/thumbnails/14fb2a163584c714fb2a163588b6.jpg
     url: /files/original/14fb2a163584c714fb2a163588b6.jpg
+    alt:
+      en: "Sepia-toned studio portrait of the Lowe family—a man, woman, and two children in vintage-style clothing—posed against a painted outdoor backdrop with decorative foliage."
   - fullsize: /files/fullsize/14fb2a1634199414fb2a16341e67.jpg
     id: 12457
     mime: image/jpeg
     original_filename: GoodShepherd_JohanLowe_03_89f7b67e39.jpg
     thumb: /files/thumbnails/14fb2a1634199414fb2a16341e67.jpg
     url: /files/original/14fb2a1634199414fb2a16341e67.jpg
+    alt:
+      en: "Family photo at \"Chef Mickey's\" Disney restaurant, with a man, woman, and teenage boy standing behind a young child wearing Mickey Mouse ears, posed beside a large decorative plate display."
 geo:
 id: 15468
 item_type: Still Image

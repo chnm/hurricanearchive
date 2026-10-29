@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1558superdome.JPG
     thumb: /files/thumbnails/14fb29e2d078b114fb29e2d07c96.jpg
     url: /files/original/14fb29e2d078b114fb29e2d07c96.jpg
+    alt:
+      en: "A military helicopter with rotors spinning sits on a rooftop helipad as a crew member in flight gear stands nearby, with an elevated highway and the \"LSU Medical Center\" building visible in the background."
 geo:
 id: 25035
 item_type: Still Image

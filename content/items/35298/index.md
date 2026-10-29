@@ -18,6 +18,8 @@ files:
     original_filename: 32_fa2e169238.jpg
     thumb: /files/thumbnails/14fb29c6e0177114fb29c6e01b56.jpg
     url: /files/original/14fb29c6e0177114fb29c6e01b56.jpg
+    alt:
+      en: "Two adjacent shotgun-style houses with decorative gabled rooflines and porch trim, overhead utility wires crossing the sky, parked cars and a leafy plant in the foreground."
 geo:
   address: new orleans, la
   lat: 29.95324

@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-26-25A.jpg
     thumb: /files/thumbnails/14fb29e85ea09d14fb29e85ea483.jpg
     url: /files/original/14fb29e85ea09d14fb29e85ea483.jpg
+    alt:
+      en: "View through a multi-pane window with green-painted frames, overlooking a flooded road, utility poles, and bare trees under an overcast sky."
 geo:
 id: 24378
 item_type: Still Image

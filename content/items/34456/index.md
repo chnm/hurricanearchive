@@ -23,6 +23,8 @@ files:
     original_filename: 2326071589_cc15aeeece.
     thumb: /files/thumbnails/14fb29c9f321ed14fb29c9f325d3.jpg
     url: /files/original/14fb29c9f321ed14fb29c9f325d3.jpg
+    alt:
+      en: "A white trailer labeled \"Gonzales Special Operations\" with a fire rescue emblem, parked beside a dark truck, with trash bins and equipment nearby under a partly cloudy sky."
 geo:
   address: ''
   lat: 30.22586

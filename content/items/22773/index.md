@@ -21,6 +21,8 @@ files:
     original_filename: S4300129Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f41854eb14fb29f41858cc.jpg
     url: /files/original/14fb29f41854eb14fb29f41858cc.jpg
+    alt:
+      en: "Damaged building entrance with a detached door leaning against the frame, green spray-painted X marking on the wall, and debris scattered on the ground near a brick corner and vinyl siding."
 geo:
 id: 22773
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0040.JPG
     thumb: /files/thumbnails/14fb2a56bf402114fb2a56c001da.jpg
     url: /files/original/14fb2a56bf402114fb2a56c001da.jpg
+    alt:
+      en: "Storm-damaged brick house with roof edge torn away, surrounded by fallen tree limbs, scattered debris, and browned pine branches littering the yard and wooden fence."
 geo:
 id: 4614
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: picture 6stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec7956cf14fb29ec795ab6.jpg
     url: /files/original/14fb29ec7956cf14fb29ec795ab6.jpg
+    alt:
+      en: "Floodwaters surround a row of houses and a pickup truck, with damaged roofs and debris visible among the submerged brick homes and bare trees under a clear sky."
 geo:
 id: 23900
 item_type: Still Image

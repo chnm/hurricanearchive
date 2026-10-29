@@ -23,6 +23,8 @@ files:
     original_filename: 1248182482_10ffc53e93.jpg
     thumb: /files/thumbnails/14fb29cb49fdad14fb29cb4a0192.jpg
     url: /files/original/14fb29cb49fdad14fb29cb4a0192.jpg
+    alt:
+      en: "Raised gray wooden house with a white-columned front porch, built atop a tall concrete foundation showing a visible flood waterline, with a sidewalk and neighboring homes nearby."
 geo:
 id: 33241
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1556superdome.JPG
     thumb: /files/thumbnails/14fb29e2d49ba714fb29e2d4a2d7.jpg
     url: /files/original/14fb29e2d49ba714fb29e2d4a2d7.jpg
+    alt:
+      en: "A military helicopter hovers low over a rooftop helipad marked with a yellow circle, with an elevated highway, city buildings, and a \"Delgado\" sign visible in the background."
 geo:
 id: 25033
 item_type: Still Image

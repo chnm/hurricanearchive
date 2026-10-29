@@ -21,6 +21,8 @@ files:
     original_filename: Lake PontchartrainneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ee6c019a14fb29ee6c04f8.jpg
     url: /files/original/14fb29ee6c019a14fb29ee6c04f8.jpg
+    alt:
+      en: "View from inside a military vehicle crossing a long bridge over water, with a pickup truck, box truck, and orange van traveling ahead on the roadway."
 geo:
 id: 23622
 item_type: Still Image

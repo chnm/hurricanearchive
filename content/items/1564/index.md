@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28457.jpg
     thumb: /files/thumbnails/14fb2a67f8974814fb2a67f89ec1.jpg
     url: /files/original/14fb2a67f8974814fb2a67f89ec1.jpg
+    alt:
+      en: "Collapsed sections of a concrete-slab highway bridge lie broken in the water, with support piers still standing and a damaged dock with rubble in the foreground."
 geo:
   address: ''
   lat: 0.0

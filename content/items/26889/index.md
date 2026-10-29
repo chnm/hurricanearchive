@@ -21,6 +21,8 @@ files:
     original_filename: drumming_b9c5891418.jpg
     thumb: /files/thumbnails/14fb29d683ebe214fb29d683efd1.jpg
     url: /files/original/14fb29d683ebe214fb29d683efd1.jpg
+    alt:
+      en: "Black-and-white yearbook photos of marching band members in plumed hats and uniforms carrying drums, with captions identifying Tim Lannes and Kasey Daley performing at the Thoth Parade."
 geo:
 id: 26889
 item_type: Still Image

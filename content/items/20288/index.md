@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0135-9-18.JPG
     thumb: /files/thumbnails/14fb2a09f9b5f014fb2a09f9b9d3.jpg
     url: /files/original/14fb2a09f9b5f014fb2a09f9b9d3.jpg
+    alt:
+      en: "A bent metal sign reading \"No Dumping $500 Fine\" leans over floodwater that covers marshy grassland, with eroded earthen embankments and scattered debris visible in the background."
 geo:
 id: 20288
 item_type: Still Image

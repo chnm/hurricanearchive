@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0552Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f520508a14fb29f5205475.jpg
     url: /files/original/14fb29f520508a14fb29f5205475.jpg
+    alt:
+      en: "Floodwaters submerge the lower level of a brick building with an arched carport entrance and a white cupola, as neighboring houses and trees stand partly obscured by rain and mist."
 geo:
 id: 22596
 item_type: Still Image

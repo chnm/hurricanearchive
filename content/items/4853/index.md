@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0172.JPG
     thumb: /files/thumbnails/14fb2a5527563c14fb2a55275a17.jpg
     url: /files/original/14fb2a5527563c14fb2a55275a17.jpg
+    alt:
+      en: "Single-story brick ranch house with a screened porch, surrounded by tall pine trees, a garden area with wire plant supports, and a small wooden fence in the backyard."
 geo:
 id: 4853
 item_type: Still Image

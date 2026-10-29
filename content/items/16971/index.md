@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5900_3bc84c675d.jpg
     thumb: /files/thumbnails/14fb2a159ce6c514fb2a159ceaa1.jpg
     url: /files/original/14fb2a159ce6c514fb2a159ceaa1.jpg
+    alt:
+      en: "An older man with white hair, wearing a white shirt and blue-and-yellow sash, stands beside a detailed, multi-story white wooden dollhouse model with porches and railings; a handwritten label reads \"Buddy Gallardo, Crafter.\""
 geo:
 id: 16971
 item_type: Still Image

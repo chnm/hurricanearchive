@@ -21,6 +21,8 @@ files:
     original_filename: 09180003plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec52637b14fb29ec52676a.jpg
     url: /files/original/14fb29ec52637b14fb29ec52676a.jpg
+    alt:
+      en: "Concrete bridge railing overlooks a flooded marshy landscape with scattered debris, a small blue building, utility poles, and standing water beneath an overcast sky."
 geo:
 id: 23933
 item_type: Still Image

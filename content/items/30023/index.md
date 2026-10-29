@@ -20,6 +20,8 @@ files:
     original_filename: pics+2006-07+159_96f74e4c30.jpg
     thumb: /files/thumbnails/14fb29ce0ce31014fb29ce0cea11.jpg
     url: /files/original/14fb29ce0ce31014fb29ce0cea11.jpg
+    alt:
+      en: "Remnants of a demolished building—scattered bricks, bottles, and a vase atop a concrete slab—sit in an overgrown lot, with a two-story house and large oak trees in the background."
 geo:
 id: 30023
 item_type: Still Image

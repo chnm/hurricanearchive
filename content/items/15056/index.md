@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p2_01_deddc5b1fc.jpg
     thumb: /files/thumbnails/14fb2a17720c6014fb2a17720fa6.jpg
     url: /files/original/14fb2a17720c6014fb2a17720fa6.jpg
+    alt:
+      en: "A family of five poses in front of a white van parked in a driveway, with two children seated in the open side door and three adults standing beside it, a brick house visible behind them."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

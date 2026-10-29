@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1240Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6ae462814fb29f6ae51f8.jpg
     url: /files/original/14fb29f6ae462814fb29f6ae51f8.jpg
+    alt:
+      en: "Military personnel in fatigues and tan t-shirts sit around a conference table covered with papers and binders, with a city map on the wall and \"Authorized Personnel Only\" signs on doors behind them."
 geo:
 id: 22408
 item_type: Still Image

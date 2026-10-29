@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi540.JPG
     thumb: /files/thumbnails/14fb2a2253810614fb2a225384e4.jpg
     url: /files/original/14fb2a2253810614fb2a225384e4.jpg
+    alt:
+      en: "A man in a lavender checked shirt and a woman in a gray suit stand outdoors near children, with a brick school building, security personnel on the rooftop, and trees in the background."
 geo:
 id: 12017
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28085.jpg
     thumb: /files/thumbnails/14fb2a677381f714fb2a677385dc.jpg
     url: /files/original/14fb2a677381f714fb2a677385dc.jpg
+    alt:
+      en: "A weathered outdoor sign reading \"Beth Israel Congregation\" stands amid bare trees and leaf-covered ground, with a damaged building visible in the background."
 geo:
   address: ''
   lat: 0.0

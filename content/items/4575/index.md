@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0001.JPG
     thumb: /files/thumbnails/14fb2a56f7071814fb2a56f70afc.jpg
     url: /files/original/14fb2a56f7071814fb2a56f70afc.jpg
+    alt:
+      en: "Wide swath of storm debris—splintered wood, insulation, and household remnants—lines a wet street, with stripped, broken trees and a few standing houses visible in the background."
 geo:
 id: 4575
 item_type: Still Image

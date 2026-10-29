@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1335Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5e81c7614fb29f5e883de.jpg
     url: /files/original/14fb29f5e81c7614fb29f5e883de.jpg
+    alt:
+      en: "Floodwaters surround a house, submerging its yard up to the porch, where two people stand; one in a yellow raincoat waves, with a flag hanging on the porch railing."
 geo:
 id: 22494
 item_type: Still Image

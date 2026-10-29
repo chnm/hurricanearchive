@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0223-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff934c0714fb29ff934fd9.jpg
     url: /files/original/14fb29ff934c0714fb29ff934fd9.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood with debris-covered streets, stripped trees, and roofless or heavily damaged houses, with a river and industrial waterfront visible in the background."
 geo:
 id: 21303
 item_type: Still Image

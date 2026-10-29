@@ -21,6 +21,8 @@ files:
     original_filename: 09140001.JPG
     thumb: /files/thumbnails/14fb29e997ab9014fb29e997af7c.jpg
     url: /files/original/14fb29e997ab9014fb29e997af7c.jpg
+    alt:
+      en: "Damaged exterior of a Motel 6 building with exposed structural framing on one corner, \"Motel 6\" signage atop the tower, and an intact multi-story section visible beside it."
 geo:
 id: 24220
 item_type: Still Image

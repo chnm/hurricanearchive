@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0501_24650370b5.JPG
     thumb: /files/thumbnails/14fb2a6ec46dc514fb2a6ec471b2.jpg
     url: /files/original/14fb2a6ec46dc514fb2a6ec471b2.jpg
+    alt:
+      en: "Floodwater submerges a residential street lined with single-story homes, with portable storage units labeled \"At Your Door, Inc.\" partially underwater and trees and a car visible in the background."
 geo:
   address: ''
   lat: 29.9813307213265

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0207-21.JPG
     thumb: /files/thumbnails/14fb29ffc2dae214fb29ffc2dec9.jpg
     url: /files/original/14fb29ffc2dae214fb29ffc2dec9.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and sunglasses, with a name tape reading \"MCKEE,\" stands outdoors near a military Humvee parked beneath trees."
 geo:
 id: 21250
 item_type: Still Image

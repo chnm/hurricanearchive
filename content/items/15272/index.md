@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-17_e4ff5d5793.jpg
     thumb: /files/thumbnails/14fb2a16aedb6f14fb2a16aedf55.jpg
     url: /files/original/14fb2a16aedb6f14fb2a16aedf55.jpg
+    alt:
+      en: "Three young girls in Easter dresses hold baskets filled with colorful plastic eggs on a grassy lawn, with other children and adults hunting eggs in the background; the photo is date-stamped 4-2-'04."
 geo:
 id: 15272
 item_type: Still Image

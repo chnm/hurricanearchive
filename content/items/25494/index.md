@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6184_c3ac598df5.jpg
     thumb: /files/thumbnails/14fb29dd83483b14fb29dd834c20.jpg
     url: /files/original/14fb29dd83483b14fb29dd834c20.jpg
+    alt:
+      en: "Studio portrait of a bride in a sleeveless lace wedding gown with gloves, a long tulle veil, and a cascading floral bouquet, water staining visible on the aged photograph."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Hootersgillslong.jpg
     thumb: /files/thumbnails/14fb2a0cca89c614fb2a0cca8c3b.jpg
     url: /files/original/14fb2a0cca89c614fb2a0cca8c3b.jpg
+    alt:
+      en: "A man in U.S. Army camouflage fatigues with a nametag reading \"Hacker\" poses indoors with two women wearing Hooters uniforms, one with a nametag reading \"Tianna.\""
 geo:
 id: 19902
 item_type: Still Image

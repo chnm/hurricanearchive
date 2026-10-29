@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28591.jpg
     thumb: /files/thumbnails/14fb2a6a575aa114fb2a6a575e7f.jpg
     url: /files/original/14fb2a6a575aa114fb2a6a575e7f.jpg
+    alt:
+      en: "A large white boat sits stranded on grass beside a debris-strewn road, with palm trees and a row of damaged townhouses in the background under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

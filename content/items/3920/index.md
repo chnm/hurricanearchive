@@ -21,6 +21,8 @@ files:
     original_filename: 100_0217.JPG
     thumb: /files/thumbnails/14fb2a58e1a30314fb2a58e1a6e9.jpg
     url: /files/original/14fb2a58e1a30314fb2a58e1a6e9.jpg
+    alt:
+      en: "Floodwater submerges a neighborhood street up to the rooflines of single-story houses, with a large oak tree standing partially underwater and power lines strung overhead against a clear sky."
 geo:
 id: 3920
 item_type: Still Image

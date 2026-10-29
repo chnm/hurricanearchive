@@ -21,6 +21,8 @@ files:
     original_filename: aerials125.jpg
     thumb: /files/thumbnails/14fb2a1a2ab9ab14fb2a1a2ac008.jpg
     url: /files/original/14fb2a1a2ab9ab14fb2a1a2ac008.jpg
+    alt:
+      en: "Aerial view of a debris field with scattered lumber and wreckage surrounded by damaged, broken trees, showing widespread destruction across a wooded landscape."
 geo:
 id: 14285
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1587superdome.JPG
     thumb: /files/thumbnails/14fb29e295a4c214fb29e295a8a7.jpg
     url: /files/original/14fb29e295a4c214fb29e295a8a7.jpg
+    alt:
+      en: "Flooded city street with submerged vehicles and traffic lights near a large domed building, under a clear blue sky, with \"One Way\" and \"Do Not Enter\" signs visible."
 geo:
 id: 25062
 item_type: Still Image

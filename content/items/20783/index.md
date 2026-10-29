@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0078-15.JPG
     thumb: /files/thumbnails/14fb2a03cb346a14fb2a03cb384d.jpg
     url: /files/original/14fb2a03cb346a14fb2a03cb384d.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with scorched lots, stripped trees, several houses missing sections of roofing, and scattered debris lining the streets."
 geo:
 id: 20783
 item_type: Still Image

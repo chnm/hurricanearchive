@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0227.JPG
     thumb: /files/thumbnails/14fb2a54fc567a14fb2a54fc5a56.jpg
     url: /files/original/14fb2a54fc567a14fb2a54fc5a56.jpg
+    alt:
+      en: "A large leafless tree stands amid storm debris, with scattered branches, overturned household items, and a sand pile nearby; damaged pine trees line the background under an overcast sky."
 geo:
 id: 4908
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2188_0f41091ee4.JPG
     thumb: /files/thumbnails/14fb2a70cd22fc14fb2a70cd26e3.jpg
     url: /files/original/14fb2a70cd22fc14fb2a70cd26e3.jpg
+    alt:
+      en: "A large white cabin cruiser boat sits stranded on land beside a road, tilted among trees, with a \"Speed Limit 25\" sign and debris scattered nearby."
 geo:
   address: ''
   lat: 30.030902

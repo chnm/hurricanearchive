@@ -21,6 +21,8 @@ files:
     original_filename: 8.jpg
     thumb: /files/thumbnails/14fb2a6030734514fb2a6030772b.jpg
     url: /files/original/14fb2a6030734514fb2a6030772b.jpg
+    alt:
+      en: "Child's drawing of a dark storm labeled \"Katrina\" with an arrow pointing down, set above a line of green trees bent by \"wind,\" under rows of blue clouds and black bird shapes."
 geo:
 id: 2786
 item_type: Still Image

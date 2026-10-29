@@ -21,6 +21,8 @@ files:
     original_filename: 100-05_cf1f97a7d2.jpg
     thumb: /files/thumbnails/14fb2a22213e3714fb2a22214516.jpg
     url: /files/original/14fb2a22213e3714fb2a22214516.jpg
+    alt:
+      en: "Group of eight smiling adults posing together outdoors among trees and greenery, dressed in casual and semi-formal attire, gathered for a birthday celebration."
 geo:
 id: 12422
 item_type: Still Image

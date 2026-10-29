@@ -20,6 +20,8 @@ files:
     original_filename: pt_bar_pilots3_3e3672535c.jpg
     thumb: /files/thumbnails/14fb29d58edc0f14fb29d58edff6.jpg
     url: /files/original/14fb29d58edc0f14fb29d58edff6.jpg
+    alt:
+      en: "Severely storm-damaged two-story pilot station building with a metal roof, missing walls, and exposed framing, surrounded by debris, fallen trees, and standing water."
 geo:
   address: ''
   lat: 0.0

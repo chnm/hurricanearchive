@@ -18,6 +18,8 @@ files:
     original_filename: 4_cdc5724e6a.jpg
     thumb: /files/thumbnails/14fb29c750339214fb29c7503775.jpg
     url: /files/original/14fb29c750339214fb29c7503775.jpg
+    alt:
+      en: "Mural on the side of a long industrial building depicts a large black sewing machine with a rainbow and colorful thread spools; a bare tree stands in the foreground beside a wet road."
 geo:
   address: Poland St, New Orleans, LA
   lat: 29.96029

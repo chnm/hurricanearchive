@@ -21,6 +21,8 @@ files:
     original_filename: DSC 028917thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f364962014fb29f3649f69.jpg
     url: /files/original/14fb29f364962014fb29f3649f69.jpg
+    alt:
+      en: "Aerial view of a flood-damaged neighborhood along a canal, with debris-strewn yards, collapsed structures, and barren trees surrounding rows of storm-affected houses."
 geo:
 id: 22815
 item_type: Still Image

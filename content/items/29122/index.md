@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-034-15A.jpg
     thumb: /files/thumbnails/14fb29cf106a6314fb29cf127fcc.jpg
     url: /files/original/14fb29cf106a6314fb29cf127fcc.jpg
+    alt:
+      en: "Military helicopter with a red cross marking sits on a tarmac near a wrapped supply pallet, with personnel and stacked bottled water visible nearby, trees lining the background."
 geo:
 id: 29122
 item_type: Still Image

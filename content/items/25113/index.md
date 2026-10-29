@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1700superdome.JPG
     thumb: /files/thumbnails/14fb29e23bbd4514fb29e23bc12a.jpg
     url: /files/original/14fb29e23bbd4514fb29e23bc12a.jpg
+    alt:
+      en: "A group of military police soldiers in camouflage uniforms with \"MP\" armbands stand together holding rifles, with a large building and military vehicle visible in the background."
 geo:
 id: 25113
 item_type: Still Image

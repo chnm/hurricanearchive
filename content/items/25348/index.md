@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2075superdome.JPG
     thumb: /files/thumbnails/14fb29ded46a2114fb29ded46cc6.jpg
     url: /files/original/14fb29ded46a2114fb29ded46cc6.jpg
+    alt:
+      en: "A man in a tan shirt, wearing blue medical gloves, appears to detain another person bent over near a concrete barrier, while a uniformed service member stands nearby on a wet paved surface."
 geo:
 id: 25348
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: Lakeview 7.JPG
     thumb: /files/thumbnails/14fb29d599ed7f14fb29d599f1aa.jpg
     url: /files/original/14fb29d599ed7f14fb29d599f1aa.jpg
+    alt:
+      en: "A collapsed, storm-damaged house with a caved-in roof and search-and-rescue markings spray-painted on its siding, surrounded by debris and standing floodwater, photographed through a rain-streaked window."
 geo:
 id: 27259
 item_type: Still Image

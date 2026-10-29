@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0111-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e6ecfe1b14fb29e6ed01d3.jpg
     url: /files/original/14fb29e6ecfe1b14fb29e6ed01d3.jpg
+    alt:
+      en: "Aerial view of a flattened house foundation surrounded by floodwater and debris, with scattered trees and broken branches throughout the submerged landscape."
 geo:
 id: 24534
 item_type: Still Image

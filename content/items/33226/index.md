@@ -23,6 +23,8 @@ files:
     original_filename: 1261288262_3b07bef0b0.jpg
     thumb: /files/thumbnails/14fb29cb6efcaf14fb29cb6f0093.jpg
     url: /files/original/14fb29cb6efcaf14fb29cb6f0093.jpg
+    alt:
+      en: "Pink bungalow with white columns and railings, numbered \"6648\" above the door, a large orange search-and-rescue \"X\" marking painted on the wall, and a black trash bin on the brick walkway."
 geo:
 id: 33226
 item_type: Still Image

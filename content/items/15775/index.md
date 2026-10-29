@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5876_c74b566db5.jpg
     thumb: /files/thumbnails/14fb2a1601797514fb2a16017d5a.jpg
     url: /files/original/14fb2a1601797514fb2a16017d5a.jpg
+    alt:
+      en: "A single-masted shrimp boat with outrigger nets sails across calm water beneath a cloudy sky; the handwritten caption \"Shrimp Boats\" appears below the aged, discolored photograph."
 geo:
 id: 15775
 item_type: Still Image

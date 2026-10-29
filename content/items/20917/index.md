@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0147-9-25.JPG
     thumb: /files/thumbnails/14fb2a02019bf114fb2a02019fd5.jpg
     url: /files/original/14fb2a02019bf114fb2a02019fd5.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential area with bare, defoliated trees surrounding scattered debris, a collapsed structure's foundation, and standing floodwater covering the ground."
 geo:
 id: 20917
 item_type: Still Image

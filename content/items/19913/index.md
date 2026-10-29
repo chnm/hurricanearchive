@@ -21,6 +21,8 @@ files:
     original_filename: Picture 009cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c82b17014fb2a0c82b557.jpg
     url: /files/original/14fb2a0c82b17014fb2a0c82b557.jpg
+    alt:
+      en: "A leaning utility pole with sagging wires stands in an overgrown, debris-strewn lot, with a bare tree and an elevated highway overpass visible in the background."
 geo:
 id: 19913
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0080H.JPG
     thumb: /files/thumbnails/14fb2a03ba3f7314fb2a03ba434c.jpg
     url: /files/original/14fb2a03ba3f7314fb2a03ba434c.jpg
+    alt:
+      en: "A dimly lit bar scene with a person in a white \"Shooters\" tank top facing away, a wooden counter marked with graffiti, and a man in military fatigues with a U.S. flag patch in the background."
 geo:
 id: 20797
 item_type: Still Image

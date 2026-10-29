@@ -21,6 +21,8 @@ files:
     original_filename: 100_0246.JPG
     thumb: /files/thumbnails/14fb2a5f2146e914fb2a5f214acd.jpg
     url: /files/original/14fb2a5f2146e914fb2a5f214acd.jpg
+    alt:
+      en: "Submarine control panel interior labeled \"CHRISTMAS TREE\" and \"SNORKEL SYSTEM U.S.S. DRUM (SS228),\" surrounded by valves, gauges, red wheel handles, and piping."
 geo:
 id: 2997
 item_type: Still Image

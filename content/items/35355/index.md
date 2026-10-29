@@ -21,6 +21,8 @@ files:
     original_filename: 6_7a13d1f93a.jpg
     thumb: /files/thumbnails/14fb29c619148d14fb29c619186d.jpg
     url: /files/original/14fb29c619148d14fb29c619186d.jpg
+    alt:
+      en: "Five people pose closely together at a wooden table set with soda bottles and a Coca-Cola can, smiling for the camera in a dimly lit bar setting."
 geo:
   address: 3067 Saint Claude Ave, New Orleans, LA
   lat: 29.96784

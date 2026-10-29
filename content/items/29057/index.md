@@ -21,6 +21,8 @@ files:
     original_filename: CrescentGuardLogo.jpg
     thumb: /files/thumbnails/14fb29d061eeb314fb29d061f39c.jpg
     url: /files/original/14fb29d061eeb314fb29d061f39c.jpg
+    alt:
+      en: "Circular emblem reading \"CRESCENT GUARD\" in yellow text on a blue ring, with a Minuteman statue, two fighter jets, a star, and a map of Louisiana, labeled \"Louisiana\" below."
 geo:
 id: 29057
 item_type: Still Image

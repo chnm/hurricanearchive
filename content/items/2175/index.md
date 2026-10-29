@@ -26,6 +26,8 @@ files:
     original_filename: kat15_1499768e96.JPG
     thumb: /files/thumbnails/14fb2a6d86e6b314fb2a6d86ea9a.jpg
     url: /files/original/14fb2a6d86e6b314fb2a6d86ea9a.jpg
+    alt:
+      en: "An elderly man in a white polo shirt and bucket hat rides a red \"Pride Celebrity\" mobility scooter with a young boy in a blue bucket hat standing between his legs, outside a brick building with stacked coolers."
 geo:
   address: ''
   lat: 31.12584816072

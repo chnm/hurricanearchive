@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2053superdome.JPG
     thumb: /files/thumbnails/14fb29df10eef014fb29df10f44d.jpg
     url: /files/original/14fb29df10eef014fb29df10f44d.jpg
+    alt:
+      en: "Military personnel in fatigues assist evacuees, including a child in pink boots, up the loading ramp of a large military helicopter, with bags and belongings in hand."
 geo:
 id: 25326
 item_type: Still Image

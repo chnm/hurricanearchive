@@ -25,12 +25,16 @@ files:
     original_filename: CecileRobin-5864_c3ecbec569.jpg
     thumb: /files/thumbnails/14fb2a160f341114fb2a160f37e5.jpg
     url: /files/original/14fb2a160f341114fb2a160f37e5.jpg
+    alt:
+      en: "Black-and-white group photo of clergy members in white and black vestments standing outdoors, arranged in rows with greenery visible in the background."
   - fullsize: /files/fullsize/14fb2a160dff8114fb2a160e0366.jpg
     id: 12484
     mime: image/jpeg
     original_filename: CecileRobin-5866_17296f3438.jpg
     thumb: /files/thumbnails/14fb2a160dff8114fb2a160e0366.jpg
     url: /files/original/14fb2a160dff8114fb2a160e0366.jpg
+    alt:
+      en: "Black-and-white photo of clergy in white vestments standing behind an altar decorated with gladiolus arrangements, with a large wall crucifix and congregation visible in pews."
 geo:
 id: 15513
 item_type: Still Image

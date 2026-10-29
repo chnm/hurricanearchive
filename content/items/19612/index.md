@@ -21,6 +21,8 @@ files:
     original_filename: 09240013rita.JPG
     thumb: /files/thumbnails/14fb2a0ec9aa7714fb2a0ec9afe4.jpg
     url: /files/original/14fb2a0ec9aa7714fb2a0ec9afe4.jpg
+    alt:
+      en: "Large grassy field with standing water from rain, bordered by long two-story institutional buildings with red-tiled roof accents, mature oak trees, parked vehicles, and a cloudy overcast sky."
 geo:
 id: 19612
 item_type: Still Image

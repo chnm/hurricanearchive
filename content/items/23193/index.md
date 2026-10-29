@@ -21,6 +21,8 @@ files:
     original_filename: P1010013delaware.JPG
     thumb: /files/thumbnails/14fb29f0f38ae214fb29f0f38ec9.jpg
     url: /files/original/14fb29f0f38ae214fb29f0f38ec9.jpg
+    alt:
+      en: "A military Humvee parked near the open rear cargo ramp of a C-130 cargo plane on a tarmac, with two men in uniform standing nearby and another figure visible inside the aircraft."
 geo:
 id: 23193
 item_type: Still Image

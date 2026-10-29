@@ -21,6 +21,8 @@ files:
     original_filename: end debris2.jpg
     thumb: /files/thumbnails/14fb2a2065e97614fb2a2065ed5e.jpg
     url: /files/original/14fb2a2065e97614fb2a2065ed5e.jpg
+    alt:
+      en: "Debris-strewn street viewed from beneath an industrial overhang with yellow-and-black caution striping, scattered wreckage and fallen branches lining the roadside amid a hazy, fog-shrouded urban landscape."
 geo:
 id: 13099
 item_type: Still Image

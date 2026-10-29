@@ -24,6 +24,8 @@ files:
     original_filename: 03-28-~3_ab0ae7d156.2.jpg
     thumb: /files/thumbnails/14fb29d88035b514fb29d880399b.jpg
     url: /files/original/14fb29d88035b514fb29d880399b.jpg
+    alt:
+      en: "Vintage postcard-style photograph of the Louisiana State Capitol tower in Baton Rouge, framed by decorative borders with trees in the foreground, captioned \"The new Capital\" in cursive handwriting."
 geo:
   address: ''
   lat: 29.91685

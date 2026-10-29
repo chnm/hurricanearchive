@@ -24,6 +24,8 @@ files:
     original_filename: P1010072.JPG
     thumb: /files/thumbnails/14fb2a5a87418914fb2a5a874d99.jpg
     url: /files/original/14fb2a5a87418914fb2a5a874d99.jpg
+    alt:
+      en: "Single-story brick ranch house numbered 7140, with spray-painted markings on the facade, surrounded by storm debris, dead landscaping, and a litter-strewn yard and driveway."
 geo:
 id: 3637
 item_type: Still Image

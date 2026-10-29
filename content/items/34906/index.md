@@ -20,6 +20,8 @@ files:
     original_filename: 2456707287_08a52ab616.
     thumb: /files/thumbnails/14fb29c88f1a9d14fb29c88f1e95.jpg
     url: /files/original/14fb29c88f1a9d14fb29c88f1e95.jpg
+    alt:
+      en: "A small tugboat labeled \"Ashley Wolfe, Belle Chasse\" pushes a barge loaded with debris or rubble along a muddy waterway lined with dense trees, its wake churning behind it."
 geo:
 id: 34906
 item_type: Still Image

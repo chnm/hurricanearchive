@@ -21,6 +21,8 @@ files:
     original_filename: 19.jpg
     thumb: /files/thumbnails/14fb2a606f3c5b14fb2a606f4041.jpg
     url: /files/original/14fb2a606f3c5b14fb2a606f4041.jpg
+    alt:
+      en: "Hand-drawn marker illustration of a U.S. Coast Guard cutter with a red, white, and blue diagonal stripe, labeled \"D.E. 45\" and \"U.S. Coast Guard,\" signed \"By Donald\" in the corner."
 geo:
 id: 2720
 item_type: Still Image

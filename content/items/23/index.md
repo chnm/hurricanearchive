@@ -26,6 +26,8 @@ files:
     original_filename: ancelets_61bfac7d52.jpg
     thumb: /files/thumbnails/14fb2a7146a26b14fb2a7146a657.jpg
     url: /files/original/14fb2a7146a26b14fb2a7146a657.jpg
+    alt:
+      en: "Storm-damaged building with collapsed metal awning and twisted support beams in front of Ancelet's Cajun Market, a street lamp and warning sign standing nearby under a clear sky."
 geo:
   address: ''
   lat: 29.9599168991186

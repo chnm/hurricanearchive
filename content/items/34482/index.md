@@ -27,6 +27,8 @@ files:
     original_filename: 2326884212_b45bdfe513.
     thumb: /files/thumbnails/14fb29c9c1d0e014fb29c9c1d4c4.jpg
     url: /files/original/14fb29c9c1d0e014fb29c9c1d4c4.jpg
+    alt:
+      en: "Debris-strewn grassy shoreline near a waterway, with scattered wood planks and trash in the foreground and a house visible across the water in the distance."
 geo:
   address: ''
   lat: 30.23434

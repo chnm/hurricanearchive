@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001 corp.jpg
     thumb: /files/thumbnails/14fb2a1385582814fb2a13855c0e.jpg
     url: /files/original/14fb2a1385582814fb2a13855c0e.jpg
+    alt:
+      en: "A service member in woodland camouflage fatigues and a dark flight helmet stands on dry grass, wearing a survival vest with an American flag patch and holding a cable or cord, with military vehicles visible in the background."
 geo:
 id: 19044
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: I Survived Katrina
     thumb: /files/thumbnails/14fb2a6023c8f414fb2a6023eb5e.jpg
     url: /files/original/14fb2a6023c8f414fb2a6023eb5e.jpg
+    alt:
+      en: "Child's crayon drawing of a smiling figure with a large hat and a headband reading \"Katrina,\" wearing a shirt labeled \"I Survived Katrina,\" signed \"By Reginald, Sept 14-05, Age 14.\""
 geo:
 id: 2798
 item_type: Still Image

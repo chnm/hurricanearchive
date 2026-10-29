@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019rita.JPG
     thumb: /files/thumbnails/14fb2a11ab9a4e14fb2a11ab9e34.jpg
     url: /files/original/14fb2a11ab9a4e14fb2a11ab9e34.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand and converse in a paved lot near a chain-link fence, with a \"PARKING\" sign painted on the ground and a car parked nearby."
 geo:
 id: 19240
 item_type: Still Image

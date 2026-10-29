@@ -26,6 +26,8 @@ files:
     original_filename: 030308022620_dd8d299bdc.JPG
     thumb: /files/thumbnails/14fb2a6d9aecc114fb2a6d9af0b2.jpg
     url: /files/original/14fb2a6d9aecc114fb2a6d9af0b2.jpg
+    alt:
+      en: "A storm-damaged restaurant building with a blue and white exterior and round porthole-style windows, its roof torn open and exposed wooden framing visible above a mostly intact lower facade, under a clear blue sky."
 geo:
   address: ''
   lat: 30.135425

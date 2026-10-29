@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_PatreenHughes_01_326610791e.jpg
     thumb: /files/thumbnails/14fb2a17b966d714fb2a17b96d6e.jpg
     url: /files/original/14fb2a17b966d714fb2a17b96d6e.jpg
+    alt:
+      en: "A young boy with short dark hair smiles softly for a studio portrait, wearing a light pink button-up shirt against a soft blue and pastel-toned background."
 geo:
 id: 14788
 item_type: Still Image

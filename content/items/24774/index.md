@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2096superdome.JPG
     thumb: /files/thumbnails/14fb29e4d03f7414fb29e4d04388.jpg
     url: /files/original/14fb29e4d03f7414fb29e4d04388.jpg
+    alt:
+      en: "A tall brick-and-glass high-rise with many broken or boarded windows and a \"Dominion\" sign atop, seen beside a war memorial statue under an overcast sky."
 geo:
 id: 24774
 item_type: Still Image

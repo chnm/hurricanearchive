@@ -21,6 +21,8 @@ files:
     original_filename: LionelPowell-5840_7d7a74157b.jpg
     thumb: /files/thumbnails/14fb29d919a4f614fb29d919b6e4.jpg
     url: /files/original/14fb29d919a4f614fb29d919b6e4.jpg
+    alt:
+      en: "Water-damaged wedding photo of a couple holding hands, the groom in a white tuxedo and the bride in a white dress and beaded headpiece, with significant surface staining and discoloration."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

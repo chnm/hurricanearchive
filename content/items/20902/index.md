@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0144-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0218c63014fb2a0218ca20.jpg
     url: /files/original/14fb2a0218c63014fb2a0218ca20.jpg
+    alt:
+      en: "A cemetery covered in dried marsh grass and debris, with granite headstones (including several marked \"Winch\") visible among the wreckage, bare trees lining the background under a gray sky."
 geo:
 id: 20902
 item_type: Still Image

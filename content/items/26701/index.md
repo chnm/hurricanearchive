@@ -21,6 +21,8 @@ files:
     original_filename: JA 3 1934 grandfather_3297b8f082.jpg
     thumb: /files/thumbnails/14fb29d83c45c514fb29d83c49aa.jpg
     url: /files/original/14fb29d83c45c514fb29d83c49aa.jpg
+    alt:
+      en: "Aged, creased sepia-toned photograph of a young girl in a cowboy hat and western outfit sitting atop a pony, with a wooden plank wall in the background."
 geo:
   address: ''
   lat: 29.91685

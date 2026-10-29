@@ -21,6 +21,8 @@ files:
     original_filename: heading south2.jpg
     thumb: /files/thumbnails/14fb2a1e94932814fb2a1e94970e.jpg
     url: /files/original/14fb2a1e94932814fb2a1e94970e.jpg
+    alt:
+      en: "Long line of cars, trucks, and an RV traveling along a two-lane highway bordered by grassy fields and dense trees, with more vehicles visible in the distance ahead."
 geo:
 id: 13255
 item_type: Still Image

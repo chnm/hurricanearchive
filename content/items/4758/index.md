@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0268.JPG
     thumb: /files/thumbnails/14fb2a55b92d4214fb2a55b9311b.jpg
     url: /files/original/14fb2a55b92d4214fb2a55b9311b.jpg
+    alt:
+      en: "Underside of a roof overhang showing exposed plywood decking, wooden rafters, and a white soffit/fascia with a vented panel, with visible dirt or debris staining the surfaces."
 geo:
 id: 4758
 item_type: Still Image

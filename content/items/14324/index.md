@@ -21,6 +21,8 @@ files:
     original_filename: aerials37.jpg
     thumb: /files/thumbnails/14fb2a19d308d514fb2a19d30cc3.jpg
     url: /files/original/14fb2a19d308d514fb2a19d30cc3.jpg
+    alt:
+      en: "Aerial view of a devastated residential area with cleared, bare lots and scattered debris amid surrounding forest, with a transmission tower visible in the distant background."
 geo:
 id: 14324
 item_type: Still Image

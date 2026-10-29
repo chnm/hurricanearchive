@@ -21,6 +21,8 @@ files:
     original_filename: MVC-002S.JPG
     thumb: /files/thumbnails/14fb2a5ffc1ecb14fb2a5ffc22b1.jpg
     url: /files/original/14fb2a5ffc1ecb14fb2a5ffc22b1.jpg
+    alt:
+      en: "A white Navy jet aircraft marked \"06\" is towed by a yellow tug vehicle in a parking lot, with a large gray naval ship and a building visible in the background."
 geo:
 id: 2811
 item_type: Still Image

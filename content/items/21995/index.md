@@ -21,6 +21,8 @@ files:
     original_filename: Picture 326-J2.jpg
     thumb: /files/thumbnails/14fb29fa3b0be214fb29fa3b0fd1.jpg
     url: /files/original/14fb29fa3b0be214fb29fa3b0fd1.jpg
+    alt:
+      en: "A church steeple and tower rise behind trees, viewed through an ornate black iron fence with a lamppost in the foreground."
 geo:
 id: 21995
 item_type: Still Image

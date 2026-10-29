@@ -21,6 +21,8 @@ files:
     original_filename: aerials27.jpg
     thumb: /files/thumbnails/14fb2a19d9656214fb2a19d9693e.jpg
     url: /files/original/14fb2a19d9656214fb2a19d9693e.jpg
+    alt:
+      en: "Aerial view of a gas station and convenience store with canopy, surrounded by parking areas, trucks, and scattered storm debris, with downed trees and damaged structures nearby."
 geo:
 id: 14314
 item_type: Still Image

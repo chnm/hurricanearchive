@@ -21,6 +21,8 @@ files:
     original_filename: 09180018plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec44b9e814fb29ec44bdc5.jpg
     url: /files/original/14fb29ec44b9e814fb29ec44bdc5.jpg
+    alt:
+      en: "Empty two-lane road lined with leaning utility poles, tangled wires, and storm-damaged buildings; a tall sign reading \"NEXT DOOR\" stands amid debris-strewn lots."
 geo:
 id: 23948
 item_type: Still Image

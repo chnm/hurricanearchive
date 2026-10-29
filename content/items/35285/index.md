@@ -18,6 +18,8 @@ files:
     original_filename: 21_6fd9da00d7.jpg
     thumb: /files/thumbnails/14fb29c70ebe8514fb29c70ec26e.jpg
     url: /files/original/14fb29c70ebe8514fb29c70ec26e.jpg
+    alt:
+      en: "Four young women in white and red marching band uniforms holding rifle-shaped props numbered 9 pose with a man in a blue shirt giving a thumbs-up, with cymbals visible behind them."
 geo:
   address: new orleans, la
   lat: 29.95324

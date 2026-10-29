@@ -24,6 +24,8 @@ files:
     original_filename: henderberg3_37eb094649.jpg
     thumb: /files/thumbnails/14fb29c981fb7414fb29c9820041.jpg
     url: /files/original/14fb29c981fb7414fb29c9820041.jpg
+    alt:
+      en: "Group of smiling friends crowded around a table at Acme Oyster House, with drinks, hot sauce bottles, and a bread basket in front of them, neon signs for \"Oysters,\" \"Tabasco,\" and \"Acme Oyster House\" glowing in the background."
 geo:
   address: 3500 St. Claude Ave., New Orleans, La
   lat: 0.0

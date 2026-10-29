@@ -21,6 +21,8 @@ files:
     original_filename: MVC-003S.JPG
     thumb: /files/thumbnails/14fb2a5faab44814fb2a5faab82e.jpg
     url: /files/original/14fb2a5faab44814fb2a5faab82e.jpg
+    alt:
+      en: "A large black electronic control panel with multiple rows of dials, switches, and gauges, flanked by gray circuit breaker panels with numerous labeled switches to the right."
 geo:
 id: 2880
 item_type: Still Image

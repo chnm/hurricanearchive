@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4856_d52be6a11c.jpg
     thumb: /files/thumbnails/14fb2a1e3b13be14fb2a1e3b17a3.jpg
     url: /files/original/14fb2a1e3b13be14fb2a1e3b17a3.jpg
+    alt:
+      en: "Man and woman wearing glasses smile for the camera while the man holds a newborn baby wrapped in a striped blanket and wearing a knit cap, seated in a hospital room."
 geo:
 id: 13355
 item_type: Still Image

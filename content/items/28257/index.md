@@ -27,6 +27,8 @@ files:
     original_filename: 385028120_ffcce3cb5e.
     thumb: /files/thumbnails/14fb29d28b064f14fb29d28b09ed.jpg
     url: /files/original/14fb29d28b064f14fb29d28b09ed.jpg
+    alt:
+      en: "Large-scale printed photograph of a man, cut into vertical strips and hung like a curtain inside a gutted, under-construction wooden-framed room with a window."
 geo:
 id: 28257
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1580superdome.JPG
     thumb: /files/thumbnails/14fb29e29eeb2314fb29e29eef08.jpg
     url: /files/original/14fb29e29eeb2314fb29e29eef08.jpg
+    alt:
+      en: "Military Humvees and trucks emerge from deep floodwater onto a dry ramp, passing parked buses, with a partially submerged car visible in the background."
 geo:
 id: 25055
 item_type: Still Image

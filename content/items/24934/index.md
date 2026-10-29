@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1431superdome.JPG
     thumb: /files/thumbnails/14fb29e3ba730c14fb29e3ba787c.jpg
     url: /files/original/14fb29e3ba730c14fb29e3ba787c.jpg
+    alt:
+      en: "Military police officer with a Louisiana National Guard patch and \"MP\" armband stands in a covered walkway, overseeing a barricaded area where other soldiers and civilians gather near a sign reading \"Saints Will Call.\""
 geo:
 id: 24934
 item_type: Still Image

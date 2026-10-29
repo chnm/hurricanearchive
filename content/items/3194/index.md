@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (44).JPG
     thumb: /files/thumbnails/14fb2a5d62a20e14fb2a5d62a5fd.jpg
     url: /files/original/14fb2a5d62a20e14fb2a5d62a5fd.jpg
+    alt:
+      en: "Street corner Shell gas station with price sign reading \"2.47,\" littered with storm debris and fallen branches, viewed through a car window with side mirror visible in foreground."
 geo:
 id: 3194
 item_type: Still Image

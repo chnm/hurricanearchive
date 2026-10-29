@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2017superdome.JPG
     thumb: /files/thumbnails/14fb29df5eed2e14fb29df5ef16a.jpg
     url: /files/original/14fb29df5eed2e14fb29df5ef16a.jpg
+    alt:
+      en: "Military personnel in camouflage and desert fatigues assist evacuees, including one in a wheelchair, across a wet tarmac toward a helicopter with its rotor blade visible overhead."
 geo:
 id: 25290
 item_type: Still Image

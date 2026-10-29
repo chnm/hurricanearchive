@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0071.JPG
     thumb: /files/thumbnails/14fb2a55f2385714fb2a55f23c3d.jpg
     url: /files/original/14fb2a55f2385714fb2a55f23c3d.jpg
+    alt:
+      en: "Barren, debris-strewn clearing with scattered tall, broken trees stripped of most branches, set against a clear blue sky; scraps of litter and wood lie across the dirt ground."
 geo:
 id: 4724
 item_type: Still Image

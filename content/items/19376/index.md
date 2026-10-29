@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2235engineers.JPG
     thumb: /files/thumbnails/14fb2a10abdf8714fb2a10abe1c4.jpg
     url: /files/original/14fb2a10abdf8714fb2a10abe1c4.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms, some wearing hard hats and safety goggles, clear fallen trees and debris from a residential street lined with damaged houses."
 geo:
 id: 19376
 item_type: Still Image

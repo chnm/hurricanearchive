@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0147.JPG
     thumb: /files/thumbnails/14fb2a553c794614fb2a553c7d2c.jpg
     url: /files/original/14fb2a553c794614fb2a553c7d2c.jpg
+    alt:
+      en: "Close-up of a damaged house exterior with deteriorated dark siding covered in stains and peeling material, a white eave with cracked paint, and a window with partially closed blinds."
 geo:
 id: 4832
 item_type: Still Image

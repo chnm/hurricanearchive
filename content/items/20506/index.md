@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0698bda214fb2a0698c180.jpg
     url: /files/original/14fb2a0698bda214fb2a0698c180.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with several houses surrounded by floodwater, trees partially submerged, and one white house with a red roof standing on stilts above the waterline."
 geo:
 id: 20506
 item_type: Still Image

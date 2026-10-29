@@ -21,6 +21,8 @@ files:
     original_filename: 102-19_e5983e11cb.jpg
     thumb: /files/thumbnails/14fb2a21af268714fb2a21af2a6d.jpg
     url: /files/original/14fb2a21af268714fb2a21af2a6d.jpg
+    alt:
+      en: "Vintage photo of a woman with curly dark hair wearing a striped white, pink, and purple top with green pants, standing outdoors with trees and a parked car in the background."
 geo:
 id: 12701
 item_type: Still Image

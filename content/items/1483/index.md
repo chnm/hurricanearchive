@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28404.jpg
     thumb: /files/thumbnails/14fb2a687df70d14fb2a687df9ca.jpg
     url: /files/original/14fb2a687df70d14fb2a687df9ca.jpg
+    alt:
+      en: "Commercial shrimp boats, including one named \"Miss Tina,\" moored together at a dock beneath a cloudy sky, their tall rigging and masts crowded against the horizon."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 105-09_496a7e9028.jpg
     thumb: /files/thumbnails/14fb2a1e44cdc614fb2a1e44d6e5.jpg
     url: /files/original/14fb2a1e44cdc614fb2a1e44d6e5.jpg
+    alt:
+      en: "Rows of single-story brick houses with gabled roofs line both sides of a newly paved street, with bare dirt yards, a lamppost, and utility poles visible in this black-and-white photo of Arabi."
 geo:
 id: 13346
 item_type: Still Image

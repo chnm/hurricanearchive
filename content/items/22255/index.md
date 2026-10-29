@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1066Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f89aa2e814fb29f89aa6cd.jpg
     url: /files/original/14fb29f89aa2e814fb29f89aa6cd.jpg
+    alt:
+      en: "Silhouetted figures stand near a brick wall topped with barbed wire, overlooking fog-shrouded houses and power lines during heavy rain."
 geo:
 id: 22255
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7135_b476e0cee8.jpg
     thumb: /files/thumbnails/14fb29d3705cd514fb29d37060bb.jpg
     url: /files/original/14fb29d3705cd514fb29d37060bb.jpg
+    alt:
+      en: "A man in a white T-shirt stands with his hands on the shoulders of a young girl in a blue striped shirt, posing in a kitchen beside a frosted birthday cake with lit candles."
 geo:
   address: ''
   lat: 29.87876

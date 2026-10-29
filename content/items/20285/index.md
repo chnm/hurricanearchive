@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0128-18.JPG
     thumb: /files/thumbnails/14fb2a0a0b39fe14fb2a0a0b3f4d.jpg
     url: /files/original/14fb2a0a0b39fe14fb2a0a0b3f4d.jpg
+    alt:
+      en: "Floodwater covers a debris-strewn area with several abandoned, mud-covered vehicles partially submerged, surrounded by scattered rubble, dead grass, and a distant seawall."
 geo:
 id: 20285
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28572.jpg
     thumb: /files/thumbnails/14fb2a6707085814fb2a67071067.jpg
     url: /files/original/14fb2a6707085814fb2a67071067.jpg
+    alt:
+      en: "A uniformed officer stands on the porch of a damaged, debris-streaked house marked with an orange \"X\" search code, overlooking a devastated, debris-covered neighborhood under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

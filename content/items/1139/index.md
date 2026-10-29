@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27974.jpg
     thumb: /files/thumbnails/14fb2a6ad619ee14fb2a6ad61dda.jpg
     url: /files/original/14fb2a6ad619ee14fb2a6ad61dda.jpg
+    alt:
+      en: "Tall double doors with recessed panels and dark metal handles, stained by a horizontal dirty high-water line, flanked by streaked stone columns on Canal Street."
 geo:
   address: ''
   lat: 0.0

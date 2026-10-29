@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0726.JPG
     thumb: /files/thumbnails/14fb2a5717ef7914fb2a5717f356.jpg
     url: /files/original/14fb2a5717ef7914fb2a5717f356.jpg
+    alt:
+      en: "A yellow tape measure, marked with numbers 1 through 12, extends vertically across weathered wooden boards with visible grain and knots."
 geo:
 id: 4514
 item_type: Still Image

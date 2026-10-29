@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0634.JPG
     thumb: /files/thumbnails/14fb29d0024c1a14fb29d0024fff.jpg
     url: /files/original/14fb29d0024c1a14fb29d0024fff.jpg
+    alt:
+      en: "Two weathered wooden bungalow-style houses (addresses 3030 and 3032) with white siding and green trim, a car parked in the narrow gap between them, and litter scattered across the sidewalk and yard."
 geo:
 id: 29088
 item_type: Still Image

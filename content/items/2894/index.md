@@ -21,6 +21,8 @@ files:
     original_filename: MVC-017S.JPG
     thumb: /files/thumbnails/14fb2a5fa42ccb14fb2a5fa430b1.jpg
     url: /files/original/14fb2a5fa42ccb14fb2a5fa430b1.jpg
+    alt:
+      en: "Industrial machinery room with large insulated pipes and ductwork wrapped in gray material, a red wheel valve on the left, and a metal control box with a glass gauge panel nearby."
 geo:
 id: 2894
 item_type: Still Image

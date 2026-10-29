@@ -21,6 +21,8 @@ files:
     original_filename: Picture 102cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bb7330e14fb2a0bb736f2.jpg
     url: /files/original/14fb2a0bb7330e14fb2a0bb736f2.jpg
+    alt:
+      en: "An overturned boat with a red-and-white hull lies on a gravel lot beside a tall concrete sound wall, surrounded by scattered lumber, debris, and tangled rope."
 geo:
 id: 20005
 item_type: Still Image

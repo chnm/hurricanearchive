@@ -21,6 +21,8 @@ files:
     original_filename: aerials139.jpg
     thumb: /files/thumbnails/14fb2a19fa616f14fb2a19fa656e.jpg
     url: /files/original/14fb2a19fa616f14fb2a19fa656e.jpg
+    alt:
+      en: "Aerial view of a storm-damaged building reduced to its concrete foundation and support beams, surrounded by scattered debris, a paved roundabout, and a wooden dock extending into the water."
 geo:
 id: 14297
 item_type: Still Image

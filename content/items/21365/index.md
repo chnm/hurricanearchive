@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0238-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff32ee0e14fb29ff32fc6a.jpg
     url: /files/original/14fb29ff32ee0e14fb29ff32fc6a.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with submerged houses, debris-covered yards, and standing dark water throughout the streets, surrounded by green trees and a large industrial building with a white roof."
 geo:
 id: 21365
 item_type: Still Image

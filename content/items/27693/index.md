@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6719_89514595af.JPG
     thumb: /files/thumbnails/14fb29d2d6cefe14fb29d2d6d2e4.jpg
     url: /files/original/14fb29d2d6cefe14fb29d2d6d2e4.jpg
+    alt:
+      en: "Black-and-white photo of a shirtless boy in shorts and boots holding a toy gun, standing on a lawn in front of a screened porch and shrubbery."
 geo:
   address: ''
   lat: 29.95493

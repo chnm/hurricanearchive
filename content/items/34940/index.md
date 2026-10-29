@@ -20,6 +20,8 @@ files:
     original_filename: 2457383762_fe5e9046df.
     thumb: /files/thumbnails/14fb29c85790d914fb29c857a53e.jpg
     url: /files/original/14fb29c85790d914fb29c857a53e.jpg
+    alt:
+      en: "Aerial view of the Lake Cataouatche Levee construction site, showing a triangular gravel staging area with heavy equipment, trailers, and debris piles, bordered by forest and a curving road."
 geo:
 id: 34940
 item_type: Still Image

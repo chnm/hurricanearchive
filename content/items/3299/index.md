@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (6).jpg
     thumb: /files/thumbnails/14fb2a5ca9128a14fb2a5ca91670.jpg
     url: /files/original/14fb2a5ca9128a14fb2a5ca91670.jpg
+    alt:
+      en: "Debris-strewn empty lot with standing floodwater and an overturned boat, trees stripped of leaves, and a raised highway bridge in the background under a blue sky."
 geo:
 id: 3299
 item_type: Still Image

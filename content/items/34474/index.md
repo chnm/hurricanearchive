@@ -27,6 +27,8 @@ files:
     original_filename: 2326882488_64718185dd.
     thumb: /files/thumbnails/14fb29c9d920c814fb29c9d92673.jpg
     url: /files/original/14fb29c9d920c814fb29c9d92673.jpg
+    alt:
+      en: "A long bridge spanning open water with several sections collapsed and tilted into the lake, their roadway slabs angled downward between intact pilings under a pale sky."
 geo:
   address: ''
   lat: 30.20935

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eff713e614fb29eff717cb.jpg
     url: /files/original/14fb29eff713e614fb29eff717cb.jpg
+    alt:
+      en: "Aerial view of a flattened coastal town with debris-covered lots, scattered damaged buildings, a water tower, and surrounding floodwaters extending into the landscape."
 geo:
 id: 23322
 item_type: Still Image

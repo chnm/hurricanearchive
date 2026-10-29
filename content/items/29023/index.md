@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0544.JPG
     thumb: /files/thumbnails/14fb29d09b6d3614fb29d09b711c.jpg
     url: /files/original/14fb29d09b6d3614fb29d09b711c.jpg
+    alt:
+      en: "Aerial view (rotated sideways) of a residential neighborhood with numerous houses covered by blue tarps on their roofs, interspersed with trees and a taller white building along a main road."
 geo:
 id: 29023
 item_type: Still Image

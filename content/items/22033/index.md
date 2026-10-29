@@ -21,6 +21,8 @@ files:
     original_filename: Picture 364-J2.jpg
     thumb: /files/thumbnails/14fb29f9f627fb14fb29f9f629c5.jpg
     url: /files/original/14fb29f9f627fb14fb29f9f629c5.jpg
+    alt:
+      en: "A man wearing a camouflage cap and protective goggles operates a chainsaw to cut through tree branches, with dense foliage and wood debris visible around him."
 geo:
 id: 22033
 item_type: Still Image

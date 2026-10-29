@@ -21,6 +21,8 @@ files:
     original_filename: Picture 018cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c68e4d014fb2a0c68e8b2.jpg
     url: /files/original/14fb2a0c68e4d014fb2a0c68e8b2.jpg
+    alt:
+      en: "A heavily leaning utility pole, snapped and tilted at an angle amid power lines and trees, stands over a grassy park area with a curved metal guardrail in the foreground."
 geo:
 id: 19922
 item_type: Still Image

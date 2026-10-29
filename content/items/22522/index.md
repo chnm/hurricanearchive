@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1363Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5a94f7714fb29f5a95354.jpg
     url: /files/original/14fb29f5a94f7714fb29f5a95354.jpg
+    alt:
+      en: "Vintage military jets, marked \"556\" and \"020,\" sit partially submerged in floodwater under a cloudy sky, with damaged buildings and trees visible in the background."
 geo:
 id: 22522
 item_type: Still Image

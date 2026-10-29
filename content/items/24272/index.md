@@ -21,6 +21,8 @@ files:
     original_filename: 20050926019.JPG
     thumb: /files/thumbnails/14fb29e91d5fe014fb29e91d63c6.jpg
     url: /files/original/14fb29e91d5fe014fb29e91d63c6.jpg
+    alt:
+      en: "A military-style flatbed trailer marked \"225GP 528E\" sits on a road near an uprooted tree, with storm-damaged trees and a small shed visible in the background."
 geo:
 id: 24272
 item_type: Still Image

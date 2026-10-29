@@ -21,6 +21,8 @@ files:
     original_filename: DSC01084.JPG
     thumb: /files/thumbnails/14fb2a58966f4414fb2a58969633.jpg
     url: /files/original/14fb2a58966f4414fb2a58969633.jpg
+    alt:
+      en: "Floodwater surrounds a yellow house with boarded windows, a large uprooted tree leaning against its roof; a timestamp reads \"5 11:11 AM.\""
 geo:
 id: 3994
 item_type: Still Image

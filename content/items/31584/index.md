@@ -21,6 +21,8 @@ files:
     original_filename: 073007NOLA37RWlg_ea22035171.jpg
     thumb: /files/thumbnails/14fb29cc2ef04314fb29cc2ef426.jpg
     url: /files/original/14fb29cc2ef04314fb29cc2ef426.jpg
+    alt:
+      en: "Weathered double church doors with carved crosses, spray-painted \"NO BULLDOZ\" across the right panel; peeling paint covers the surrounding wood frame."
 geo:
 id: 31584
 item_type: Still Image

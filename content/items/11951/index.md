@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 073.jpg
     thumb: /files/thumbnails/14fb2a22a0fc9914fb2a22a10089.jpg
     url: /files/original/14fb2a22a0fc9914fb2a22a10089.jpg
+    alt:
+      en: "Grassy field bordered by a chain-link fence, with storm debris including a collapsed green tarp structure and a red object visible beyond it, trees and radio towers in the background, dated 2005/09/24."
 geo:
 id: 11951
 item_type: Still Image

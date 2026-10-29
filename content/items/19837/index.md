@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d7a5adb14fb2a0d7a5ec0.jpg
     url: /files/original/14fb2a0d7a5adb14fb2a0d7a5ec0.jpg
+    alt:
+      en: "A worker wearing a white hard hat is seen through exposed wooden roof framing and corrugated metal sheeting at a construction site, with light-colored siding visible in the background."
 geo:
 id: 19837
 item_type: Still Image

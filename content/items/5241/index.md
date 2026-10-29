@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0686.JPG
     thumb: /files/thumbnails/14fb2a5339b97f14fb2a5339bd64.jpg
     url: /files/original/14fb2a5339b97f14fb2a5339bd64.jpg
+    alt:
+      en: "A single-story house with tan vinyl siding shows storm damage, including a torn roof edge with exposed wood and bent gutter, while a large fallen tree trunk lies in the foreground."
 geo:
 id: 5241
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0183-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a006841df14fb2a006845c5.jpg
     url: /files/original/14fb2a006841df14fb2a006845c5.jpg
+    alt:
+      en: "Two men stand talking near a storm-damaged house, with floodwater and debris visible in the background; one wears a maroon shirt, the other a striped polo and ball cap."
 geo:
 id: 21133
 item_type: Still Image

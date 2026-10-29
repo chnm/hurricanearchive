@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0204mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2f38e0614fb29f2f391ec.jpg
     url: /files/original/14fb29f2f38e0614fb29f2f391ec.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand beside a military Humvee, one wearing sunglasses and carrying a rifle, with a residential house visible in the background."
 geo:
 id: 22876
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-24-23Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e55bbc6714fb29e55bc04d.jpg
     url: /files/original/14fb29e55bbc6714fb29e55bc04d.jpg
+    alt:
+      en: "Flooded city street with numerous submerged cars, surrounded by tall office buildings; a sign reading \"Bud\" and \"Coca-Cola\" stands above the murky water."
 geo:
 id: 24722
 item_type: Still Image

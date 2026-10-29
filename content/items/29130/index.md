@@ -24,6 +24,8 @@ files:
     original_filename: 8196926-R1-054-25A.jpg
     thumb: /files/thumbnails/14fb29cecc4a6414fb29cecc60db.jpg
     url: /files/original/14fb29cecc4a6414fb29cecc60db.jpg
+    alt:
+      en: "Four men in dark t-shirts sit inside a vehicle's cargo area surrounded by green duffel bags and gear, with a bag of chips visible in the foreground."
 geo:
 id: 29130
 item_type: Still Image

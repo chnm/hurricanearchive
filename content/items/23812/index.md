@@ -21,6 +21,8 @@ files:
     original_filename: S4300151stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf9604214fb29ecf96428.jpg
     url: /files/original/14fb29ecf9604214fb29ecf96428.jpg
+    alt:
+      en: "Single-story brick house with a silver sedan stranded in debris near the garage, surrounded by dried mud, scattered rubble, and a leaning stop sign along a dirt-covered street."
 geo:
 id: 23812
 item_type: Still Image

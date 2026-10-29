@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0567Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f514161b14fb29f51419ff.jpg
     url: /files/original/14fb29f514161b14fb29f51419ff.jpg
+    alt:
+      en: "View from the bow of a boat navigating a flooded street lined with submerged buildings, including one marked \"Family Dentistry,\" with power lines overhead under an overcast sky."
 geo:
 id: 22603
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20051005003.JPG
     thumb: /files/thumbnails/14fb2a1be3cc3c14fb2a1be3d021.jpg
     url: /files/original/14fb2a1be3cc3c14fb2a1be3d021.jpg
+    alt:
+      en: "Soldier in woodland camouflage uniform with name tape \"ADAMS\" and \"U.S. ARMY\" tape, standing indoors near a wall-mounted schedule board labeled \"Universal Planner.\""
 geo:
   address: ''
   lat: 0.0

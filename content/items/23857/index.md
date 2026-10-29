@@ -21,6 +21,8 @@ files:
     original_filename: S4300206neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecc58e8b14fb29ecc5926e.jpg
     url: /files/original/14fb29ecc58e8b14fb29ecc5926e.jpg
+    alt:
+      en: "New Orleans Fire Department Ladder 11 truck in the foreground with another fire truck behind it, thick smoke rising above a large building in the background."
 geo:
 id: 23857
 item_type: Still Image

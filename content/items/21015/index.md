@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0169-21.JPG
     thumb: /files/thumbnails/14fb2a010d46bb14fb2a010d4aa0.jpg
     url: /files/original/14fb2a010d46bb14fb2a010d4aa0.jpg
+    alt:
+      en: "Debris-strewn street with a damaged mailbox and structure near a utility pole, lined by trees, parked vehicles, and scattered storm debris under a clear sky."
 geo:
 id: 21015
 item_type: Still Image

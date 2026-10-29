@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (1).jpg
     thumb: /files/thumbnails/14fb2a5d14047014fb2a5d1441c4.jpg
     url: /files/original/14fb2a5d14047014fb2a5d1441c4.jpg
+    alt:
+      en: "Muddy, debris-strewn residential street with tire tracks, scattered branches and litter, parked vehicles, damaged houses, and power lines against a clear blue sky."
 geo:
 id: 3244
 item_type: Still Image

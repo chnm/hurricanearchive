@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0107OEP.JPG
     thumb: /files/thumbnails/14fb29f191fdcb14fb29f19201a8.jpg
     url: /files/original/14fb29f191fdcb14fb29f19201a8.jpg
+    alt:
+      en: "Man in camouflage military uniform with American flag patch sits in an office chair holding binoculars, while a woman in a dark hoodie stands nearby in a cubicle workspace."
 geo:
 id: 23097
 item_type: Still Image

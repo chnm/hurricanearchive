@@ -21,6 +21,8 @@ files:
     original_filename: image003neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ec9c916014fb29ec9c954f.jpg
     url: /files/original/14fb29ec9c916014fb29ec9c954f.jpg
+    alt:
+      en: "Camouflage-painted military truck parked on a debris-strewn dirt road, with a bulldozer and workers clearing fallen tree limbs and branches amid damaged trees in the background."
 geo:
 id: 23885
 item_type: Still Image

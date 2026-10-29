@@ -21,6 +21,8 @@ files:
     original_filename: 100_0182.JPG
     thumb: /files/thumbnails/14fb2a5919b18714fb2a5919b554.jpg
     url: /files/original/14fb2a5919b18714fb2a5919b554.jpg
+    alt:
+      en: "A single-story house with a gray roof stands partially submerged in floodwater, surrounded by bare and leafy trees, with a shallow sandy mound visible in the foreground water."
 geo:
 id: 3889
 item_type: Still Image

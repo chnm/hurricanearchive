@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9097.jpg
     thumb: /files/thumbnails/14fb2a64a11be314fb2a64a11fc8.jpg
     url: /files/original/14fb2a64a11be314fb2a64a11fc8.jpg
+    alt:
+      en: "Overturned appliance panel spray-painted with \"THANKS!! for the levees & floodwalls ARMY CORPS OF 'ASSHOLES'\" sits on a debris-strewn street in front of storm-damaged homes."
 geo:
 id: 2579
 item_type: Still Image

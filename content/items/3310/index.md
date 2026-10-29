@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (7).jpg
     thumb: /files/thumbnails/14fb2a5c78c73514fb2a5c78cb14.jpg
     url: /files/original/14fb2a5c78c73514fb2a5c78cb14.jpg
+    alt:
+      en: "A man in a white shirt carries a bucket while walking down a flooded street lined with storm debris, collapsed structures, and downed power lines."
 geo:
 id: 3310
 item_type: Still Image

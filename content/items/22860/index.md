@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0153mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f303277914fb29f3032b5f.jpg
     url: /files/original/14fb29f303277914fb29f3032b5f.jpg
+    alt:
+      en: "A soldier in camouflage uniform, cap, and sunglasses stands beside a white van marked \"COMMUNICATIONS\" on a roadway, with another uniformed figure visible in the blurred background."
 geo:
 id: 22860
 item_type: Still Image

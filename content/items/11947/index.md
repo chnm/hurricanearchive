@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 069.jpg
     thumb: /files/thumbnails/14fb2a22a4a5e814fb2a22a4a9ce.jpg
     url: /files/original/14fb2a22a4a5e814fb2a22a4a9ce.jpg
+    alt:
+      en: "Chain-link fence surrounds storm-damaged buildings, including one with a \"Casino Entrance\" sign, debris piles, and a large orange dumpster; a \"One Way Do Not Enter\" sign stands near a lamppost."
 geo:
 id: 11947
 item_type: Still Image

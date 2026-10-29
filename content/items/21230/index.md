@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0202-9-25.JPG
     thumb: /files/thumbnails/14fb29ffe7684f14fb29ffe76c36.jpg
     url: /files/original/14fb29ffe7684f14fb29ffe76c36.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with a large fallen tree blocking a driveway and street, surrounded by houses with damaged roofs and scattered debris on the lawns."
 geo:
 id: 21230
 item_type: Still Image

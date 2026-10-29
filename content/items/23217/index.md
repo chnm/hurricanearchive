@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 10.jpg
     thumb: /files/thumbnails/14fb29f0a302de14fb29f0a306cd.jpg
     url: /files/original/14fb29f0a302de14fb29f0a306cd.jpg
+    alt:
+      en: "Satellite weather map showing a large hurricane with a defined eye over the Bahamas/Florida region, dated 28 Aug 2005 17:02 GMT, with scattered storm clusters across the Caribbean, courtesy of The Weather Channel."
 geo:
 id: 23217
 item_type: Still Image

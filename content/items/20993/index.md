@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0164-9-25.JPG
     thumb: /files/thumbnails/14fb2a0128051914fb2a012808fe.jpg
     url: /files/original/14fb2a0128051914fb2a012808fe.jpg
+    alt:
+      en: "Aerial view of a flattened house reduced to its foundation and brick chimney, surrounded by floodwater, with debris-laden trees and a leaning utility pole nearby."
 geo:
 id: 20993
 item_type: Still Image

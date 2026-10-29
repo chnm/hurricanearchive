@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0225-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff8a1ae314fb29ff8a1ec1.jpg
     url: /files/original/14fb29ff8a1ae314fb29ff8a1ec1.jpg
+    alt:
+      en: "Aerial view of a flooded rural neighborhood with a mobile home surrounded by standing water, a maroon pickup truck parked nearby, and additional houses, a canal, and roadway visible in the background."
 geo:
 id: 21314
 item_type: Still Image

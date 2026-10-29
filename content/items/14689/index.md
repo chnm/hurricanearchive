@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AshleyHendersen_03_ca5aae935b.jpg
     thumb: /files/thumbnails/14fb2a182aa38114fb2a182aa769.jpg
     url: /files/original/14fb2a182aa38114fb2a182aa769.jpg
+    alt:
+      en: "Worn paperback cover for \"Perfect World: True Style\" by Laurie Calkhoven, featuring a cartoon girl in a ponytail with a pink poodle, published by Scholastic."
 geo:
 id: 14689
 item_type: Still Image

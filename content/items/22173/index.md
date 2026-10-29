@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-26-25AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f940c54f14fb29f940c935.jpg
     url: /files/original/14fb29f940c54f14fb29f940c935.jpg
+    alt:
+      en: "Heavy rain and fog obscure a parking lot with pickup trucks and a dark green dumpster, with power lines, a utility pole, and blurred trees in the background."
 geo:
 id: 22173
 item_type: Still Image

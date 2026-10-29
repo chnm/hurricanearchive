@@ -21,6 +21,8 @@ files:
     original_filename: Picture 334-J2.jpg
     thumb: /files/thumbnails/14fb29fa325dc414fb29fa326979.jpg
     url: /files/original/14fb29fa325dc414fb29fa326979.jpg
+    alt:
+      en: "Storm-damaged commercial building with its facade stripped away, exposing interior support columns and debris; collapsed metal railings, overturned furniture, and scattered wreckage cover the foreground."
 geo:
 id: 22003
 item_type: Still Image

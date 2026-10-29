@@ -26,6 +26,8 @@ files:
     original_filename: 100_5388_6199a3619c.JPG
     thumb: /files/thumbnails/14fb2a7124201d14fb2a71242401.jpg
     url: /files/original/14fb2a7124201d14fb2a71242401.jpg
+    alt:
+      en: "A man photographs a debris-strewn shoreline amid storm-damaged remains of the Beach Vista community pool in Pass Christian, MS, with scattered cinder blocks and a bare tree in foreground; dated 09/26/2005."
 geo:
   address: ''
   lat: 30.005653

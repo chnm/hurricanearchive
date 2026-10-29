@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 027.jpg
     thumb: /files/thumbnails/14fb2a12e258eb14fb2a12e26296.jpg
     url: /files/original/14fb2a12e258eb14fb2a12e26296.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms work at easels and whiteboards indoors, beside a cardboard sign reading \"Task Force Belle Chase RSOI Site Operation 'Gumbo'\" with a drawing of a gumbo pot."
 geo:
 id: 19117
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5870_30d45fcad7.jpg
     thumb: /files/thumbnails/14fb2a1608915914fb2a16089538.jpg
     url: /files/original/14fb2a1608915914fb2a16089538.jpg
+    alt:
+      en: "A palm-thatched hut with a small square doorway stands among trees, with a thatched lean-to shelter beside it; a handwritten label reads \"Isleño Hut.\""
 geo:
 id: 15771
 item_type: Still Image

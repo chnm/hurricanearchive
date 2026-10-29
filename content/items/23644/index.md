@@ -21,6 +21,8 @@ files:
     original_filename: P1010085empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee1f126214fb29ee1f1647.jpg
     url: /files/original/14fb29ee1f126214fb29ee1f1647.jpg
+    alt:
+      en: "Amphibious tracked vehicles with mesh cab enclosures sit partially submerged at a concrete boat ramp, with a military truck parked nearby and flooded trees visible across the water."
 geo:
 id: 23644
 item_type: Still Image

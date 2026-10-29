@@ -21,6 +21,8 @@ files:
     original_filename: Picture 063.jpg
     thumb: /files/thumbnails/14fb29cc6a2e9f14fb29cc6a31d9.jpg
     url: /files/original/14fb29cc6a2e9f14fb29cc6a31d9.jpg
+    alt:
+      en: "View through a vehicle's windshield of a narrow paved road lined with storm-damaged trees and fallen branches, with a red stop sign visible in the distance where debris blocks part of the road."
 geo:
 id: 30798
 item_type: Still Image

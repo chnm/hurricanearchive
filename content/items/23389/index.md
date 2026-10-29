@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0082cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efb949e414fb29efb94dc2.jpg
     url: /files/original/14fb29efb949e414fb29efb94dc2.jpg
+    alt:
+      en: "Aerial view of a flooded, marshy landscape with patches of water interspersed among grassy terrain, a line of dark trees, and a dirt pathway running through the scene under overcast skies."
 geo:
 id: 23389
 item_type: Still Image

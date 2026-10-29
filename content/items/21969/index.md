@@ -21,6 +21,8 @@ files:
     original_filename: Picture 300-J2.jpg
     thumb: /files/thumbnails/14fb29facce87414fb29faccec5a.jpg
     url: /files/original/14fb29facce87414fb29faccec5a.jpg
+    alt:
+      en: "Cluster of multi-story urban buildings with gridded windows under a partly cloudy sky, including a taller gray high-rise in the foreground and a darker tower with an orange accent in the distance."
 geo:
 id: 21969
 item_type: Still Image

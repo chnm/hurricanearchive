@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28166.jpg
     thumb: /files/thumbnails/14fb2a6c05193514fb2a6c0520d1.jpg
     url: /files/original/14fb2a6c05193514fb2a6c0520d1.jpg
+    alt:
+      en: "Mud-covered yard with scattered, water-damaged photographs and papers, a broken ornamental lamp, a red fire hydrant on the grass, and a sidewalk leading to a damaged house in the background."
 geo:
   address: ''
   lat: 0.0

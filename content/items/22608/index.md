@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0572Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f50ed85814fb29f50ee2b1.jpg
     url: /files/original/14fb29f50ed85814fb29f50ee2b1.jpg
+    alt:
+      en: "Two men in a boat observe a flooded two-story brick building with white columned balconies, surrounded by trees and deep standing water, with a visible \"Speed Limit 15\" sign nearly submerged."
 geo:
 id: 22608
 item_type: Still Image

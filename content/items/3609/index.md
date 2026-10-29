@@ -24,6 +24,8 @@ files:
     original_filename: P1010040.JPG
     thumb: /files/thumbnails/14fb2a5aa2b78514fb2a5aa2bb6a.jpg
     url: /files/original/14fb2a5aa2b78514fb2a5aa2bb6a.jpg
+    alt:
+      en: "Rows of gold basketball and football trophies, including one labeled \"LHSAA Class AAAA State Champions,\" sit atop wooden benches in a locker room lined with red mesh lockers."
 geo:
 id: 3609
 item_type: Still Image

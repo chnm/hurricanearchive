@@ -23,6 +23,8 @@ files:
     original_filename: 336697306_0c6219f12f.jpg
     thumb: /files/thumbnails/14fb29d557108e14fb29d5571474.jpg
     url: /files/original/14fb29d557108e14fb29d5571474.jpg
+    alt:
+      en: "A large rusted red barge or rail car sits beached behind a damaged chain-link fence, with a dented red mailbox and cracked, mud-covered ground scattered with debris in the foreground."
 geo:
 id: 27306
 item_type: Still Image

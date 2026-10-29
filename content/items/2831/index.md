@@ -21,6 +21,8 @@ files:
     original_filename: MVC-022S.JPG
     thumb: /files/thumbnails/14fb2a5febba3a14fb2a5febbe1c.jpg
     url: /files/original/14fb2a5febba3a14fb2a5febbe1c.jpg
+    alt:
+      en: "A weathered military fighter jet with folded wings sits parked on grass beside a metal warehouse building under a clear blue sky."
 geo:
 id: 2831
 item_type: Still Image

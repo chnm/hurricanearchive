@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0124abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef4646f714fb29ef464add.jpg
     url: /files/original/14fb29ef4646f714fb29ef464add.jpg
+    alt:
+      en: "A soldier in camouflage uniform, seen from behind, carries a rifle slung across his back while holding a radio to his ear; a line of vehicles is parked along a road in the blurred background."
 geo:
 id: 23474
 item_type: Still Image

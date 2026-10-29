@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea64638814fb29ea647ff0.jpg
     url: /files/original/14fb29ea64638814fb29ea647ff0.jpg
+    alt:
+      en: "Aerial view of a marshy, storm-damaged coastal landscape with dark water channels, patches of dead vegetation, a yellow excavator on a sandy spit, and a small work barge with crane in the waterway."
 geo:
 id: 24125
 item_type: Still Image

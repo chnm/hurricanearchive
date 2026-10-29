@@ -21,6 +21,8 @@ files:
     original_filename: 100_0271.JPG
     thumb: /files/thumbnails/14fb2a5ec305be14fb2a5ec30e41.jpg
     url: /files/original/14fb2a5ec305be14fb2a5ec30e41.jpg
+    alt:
+      en: "Battleship USS Alabama (hull number 60) docked at a pier under a clear blue sky, with its gun turrets, mast, and superstructure visible, alongside a dockside crane and calm water in the foreground."
 geo:
 id: 3022
 item_type: Still Image

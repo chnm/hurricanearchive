@@ -21,6 +21,8 @@ files:
     original_filename: Picture 264-J2.jpg
     thumb: /files/thumbnails/14fb29faf0210114fb29faf024f8.jpg
     url: /files/original/14fb29faf0210114fb29faf024f8.jpg
+    alt:
+      en: "Large rusted cylindrical tanks or barge pontoons sit stranded on flooded pavement beneath an elevated metal bridge structure, with standing water surrounding the debris."
 geo:
 id: 21933
 item_type: Still Image

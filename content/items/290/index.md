@@ -26,6 +26,8 @@ files:
     original_filename: 002_waiting_6eb8dc0149.jpg
     thumb: /files/thumbnails/14fb2a704e797414fb2a704e7cc2.jpg
     url: /files/original/14fb2a704e797414fb2a704e7cc2.jpg
+    alt:
+      en: "A small white dog stands beside a folding camp cot with a striped pillow, near a camping chair, sneakers, luggage, an umbrella, and a box of bottled water on a tiled floor."
 geo:
   address: ''
   lat: 30.651656

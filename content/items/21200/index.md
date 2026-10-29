@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0196-16.JPG
     thumb: /files/thumbnails/14fb2a0005ef1e14fb2a0005f2fc.jpg
     url: /files/original/14fb2a0005ef1e14fb2a0005f2fc.jpg
+    alt:
+      en: "Aerial view of a devastated neighborhood with scattered storm debris, collapsed structures, stripped and damaged trees, and a few surviving houses near a roadway, under a dark horizon line."
 geo:
 id: 21200
 item_type: Still Image

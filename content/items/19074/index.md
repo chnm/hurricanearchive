@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1900.JPG
     thumb: /files/thumbnails/14fb2a13563d3b14fb2a13564dba.jpg
     url: /files/original/14fb2a13563d3b14fb2a13564dba.jpg
+    alt:
+      en: "Aerial view of a Coast Guard airfield with hangars labeled \"UNITED STATES COAST GUARD,\" several helicopters and a small jet on the tarmac, surrounded by green fields and a hazy city skyline in the distance."
 geo:
 id: 19074
 item_type: Still Image

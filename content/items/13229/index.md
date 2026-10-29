@@ -21,6 +21,8 @@ files:
     original_filename: 224 sheet metal2.jpg
     thumb: /files/thumbnails/14fb2a1f27176614fb2a1f271c6e.jpg
     url: /files/original/14fb2a1f27176614fb2a1f271c6e.jpg
+    alt:
+      en: "Crumpled and torn sheet metal panel in the foreground, with a damaged vehicle, traffic signal, and street buildings visible in the background."
 geo:
 id: 13229
 item_type: Still Image

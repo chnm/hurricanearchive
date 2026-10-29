@@ -21,6 +21,8 @@ files:
     original_filename: DSC01168.JPG
     thumb: /files/thumbnails/14fb2a583e519c14fb2a583e55fd.jpg
     url: /files/original/14fb2a583e519c14fb2a583e55fd.jpg
+    alt:
+      en: "Large domed stadium with a damaged, discolored roof seen from a highway, with \"BUS\" signage, trees, and office buildings nearby; a timestamp reads \"7 10:22 AM.\""
 geo:
 id: 4044
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 223 sheet metal.jpg
     thumb: /files/thumbnails/14fb2a1f29001214fb2a1f2903af.jpg
     url: /files/original/14fb2a1f29001214fb2a1f2903af.jpg
+    alt:
+      en: "Bent and crumpled sheet metal debris lies on a curb beside a street, with a red truck (license plate 5NNJ039) and building visible in the background."
 geo:
 id: 13228
 item_type: Still Image

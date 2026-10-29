@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0011.JPG
     thumb: /files/thumbnails/14fb2a582c62cc14fb2a582c66a9.jpg
     url: /files/original/14fb2a582c62cc14fb2a582c66a9.jpg
+    alt:
+      en: "A body of water leads to a marshy shoreline with a collapsed, storm-damaged building and several steel truss bridges spanning the waterway under a partly cloudy sky."
 geo:
 id: 4061
 item_type: Still Image

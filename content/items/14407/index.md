@@ -21,6 +21,8 @@ files:
     original_filename: slide27.jpg
     thumb: /files/thumbnails/14fb2a1939732214fb2a19397707.jpg
     url: /files/original/14fb2a1939732214fb2a19397707.jpg
+    alt:
+      en: "A massive uprooted oak tree lies toppled across a white picket fence in front of a yellow house, its root ball exposed; text reads \"250 year old oak tree, Main St., Bay St. Louis.\""
 geo:
 id: 14407
 item_type: Still Image

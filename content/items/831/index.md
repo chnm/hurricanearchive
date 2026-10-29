@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28499.jpg
     thumb: /files/thumbnails/14fb2a6cc1bdeb14fb2a6cc1c1d1.jpg
     url: /files/original/14fb2a6cc1bdeb14fb2a6cc1c1d1.jpg
+    alt:
+      en: "Window with white horizontal blinds and a sheer lace valance, both heavily stained with black mold spots; the surrounding wall also shows a wide band of mold damage."
 geo:
   address: ''
   lat: 0.0

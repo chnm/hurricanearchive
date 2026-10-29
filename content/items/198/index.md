@@ -26,6 +26,8 @@ files:
     original_filename: katrina_pic_2_7881f7ba37.jpg
     thumb: /files/thumbnails/14fb2a7091f47f14fb2a7091f975.jpg
     url: /files/original/14fb2a7091f47f14fb2a7091f975.jpg
+    alt:
+      en: "Collapsed red brick building with exposed wooden framing and scattered debris sits at a roadside intersection, photographed from inside a vehicle, with a partially legible billboard reading \"...Wins\" visible behind the wreckage."
 geo:
   address: ''
   lat: 0.0

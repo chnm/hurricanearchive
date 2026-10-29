@@ -21,6 +21,8 @@ files:
     original_filename: 6_2ffa39c554.jpg
     thumb: /files/thumbnails/14fb29c5f804ec14fb29c5f852ee.jpg
     url: /files/original/14fb29c5f804ec14fb29c5f852ee.jpg
+    alt:
+      en: "Business card for Jack Dempsey's reading \"Specializing in Seafood, Steak & Lobster,\" with address 738 Poland Avenue, New Orleans, Louisiana 70117, phone and fax numbers, and website www.jackdempseys.com."
 geo:
   address: 738 poland ave, new orleans, la
   lat: 29.96118

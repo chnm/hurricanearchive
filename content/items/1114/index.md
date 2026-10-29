@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28527.jpg
     thumb: /files/thumbnails/14fb2a6aee622914fb2a6aee6955.jpg
     url: /files/original/14fb2a6aee622914fb2a6aee6955.jpg
+    alt:
+      en: "Interior view looking up through a storm-damaged roof, exposing wooden rafters and beams with a gaping hole revealing blue sky, plaster debris visible below."
 geo:
   address: ''
   lat: 0.0

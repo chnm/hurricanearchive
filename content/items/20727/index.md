@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0065H.JPG
     thumb: /files/thumbnails/14fb2a0439d98214fb2a0439dd37.jpg
     url: /files/original/14fb2a0439d98214fb2a0439dd37.jpg
+    alt:
+      en: "Nighttime photo of a woman in a white \"Hooters Siegen Lane, Baton Rouge II, LA\" tank top and orange shorts standing beside a man in a gray T-shirt with a Hooters button and whistle, a beer can visible in foreground."
 geo:
 id: 20727
 item_type: Still Image

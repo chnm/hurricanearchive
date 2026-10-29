@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0098-15.JPG
     thumb: /files/thumbnails/14fb29e791e87714fb29e791ec5d.jpg
     url: /files/original/14fb29e791e87714fb29e791ec5d.jpg
+    alt:
+      en: "Aerial view of a flooded industrial area and residential neighborhood, with standing water covering streets, rows of yellow trucks and heavy equipment, and an elevated highway in the background."
 geo:
 id: 24457
 item_type: Still Image

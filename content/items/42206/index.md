@@ -23,6 +23,8 @@ files:
     original_filename: Katrina 10_312c051e12.jpg
     thumb: /files/thumbnails/14fb29c2b5a34a14fb29c2b5a72a.jpg
     url: /files/original/14fb29c2b5a34a14fb29c2b5a72a.jpg
+    alt:
+      en: "Gutted interior of an apartment building reduced to wooden stud framing and ceiling joists, with a ceiling fan still hanging, exposed wiring, and a bare concrete floor littered with debris."
 geo:
   address: ''
   lat: 30.02086

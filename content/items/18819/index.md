@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a150c968414fb2a150c9b14.jpg
     url: /files/original/14fb2a150c968414fb2a150c9b14.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood with rows of houses stripped or collapsed, debris-strewn yards and streets, and sparse surviving trees extending toward a hazy horizon."
 geo:
 id: 18819
 item_type: Still Image

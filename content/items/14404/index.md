@@ -21,6 +21,8 @@ files:
     original_filename: slide22.jpg
     thumb: /files/thumbnails/14fb2a193c360114fb2a193c39de.jpg
     url: /files/original/14fb2a193c360114fb2a193c39de.jpg
+    alt:
+      en: "Flood-damaged living room with thick mud coating the floor, a toppled drawer, an organ, and wicker furniture draped with soiled cloths; text reads \"Fran and Mike's house Living room.\""
 geo:
 id: 14404
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0199.JPG
     thumb: /files/thumbnails/14fb2a5512814e14fb2a55128531.jpg
     url: /files/original/14fb2a5512814e14fb2a55128531.jpg
+    alt:
+      en: "A yellow Komelon tape measure held against a weathered wooden post, showing markings from 1 to 6 inches, with a large bolt visible below."
 geo:
 id: 4880
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0094Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d5047b14fb29f4d50861.jpg
     url: /files/original/14fb29f4d5047b14fb29f4d50861.jpg
+    alt:
+      en: "Street signs reading \"Fourth St\" and \"Avenue C\" stand near a damaged chain-link fence, with debris scattered on dirt ground and a collapsed-roof brick building in the background, dated 09.15.2005."
 geo:
 id: 22659
 item_type: Still Image

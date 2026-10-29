@@ -20,6 +20,8 @@ files:
     original_filename: DSC_0313_64729d3719.JPG
     thumb: /files/thumbnails/14fb29cc0a4efd14fb29cc0a52e2.jpg
     url: /files/original/14fb29cc0a4efd14fb29cc0a52e2.jpg
+    alt:
+      en: "Yellow double-arrow road sign and a street sign reading \"Legendre Drive 100-402, 500-618\" stand amid overgrown grass and dead, leafless trees near a dirt path."
 geo:
 id: 32066
 item_type: Still Image

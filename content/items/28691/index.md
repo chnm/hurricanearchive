@@ -20,6 +20,8 @@ files:
     original_filename: 114541932_7cbc2eb8a9.jpg
     thumb: /files/thumbnails/14fb29d1b8451314fb29d1b845ee.jpg
     url: /files/original/14fb29d1b8451314fb29d1b845ee.jpg
+    alt:
+      en: "Pale stucco building with a slate roof, tall chimney, and two dormer windows, one roof section covered in tarp with exposed wooden slats from storm damage; shuttered windows line the facade below."
 geo:
 id: 28691
 item_type: Still Image

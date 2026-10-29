@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1857Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f53c9f0c14fb29f53ca2ef.jpg
     url: /files/original/14fb29f53c9f0c14fb29f53ca2ef.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with a large brick building complex, scattered trees, and rooftops submerged in brown floodwater, debris visible throughout."
 geo:
 id: 22568
 item_type: Still Image

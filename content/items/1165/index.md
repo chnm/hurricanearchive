@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28574.jpg
     thumb: /files/thumbnails/14fb2a6ab42fed14fb2a6ab433d3.jpg
     url: /files/original/14fb2a6ab42fed14fb2a6ab433d3.jpg
+    alt:
+      en: "A weathered wooden house elevated on cinder block piers above cracked, dried mud, with a vent pipe and small window units visible on its siding."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0092-9-25.JPG
     thumb: /files/thumbnails/14fb29e7f9e2df14fb29e7f9e9d6.jpg
     url: /files/original/14fb29e7f9e2df14fb29e7f9e9d6.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with a large metal-roofed building intact in the foreground, surrounded by debris, collapsed structures, and submerged trees along a roadway."
 geo:
 id: 24428
 item_type: Still Image

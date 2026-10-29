@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6518_6769ecdc02.jpg
     thumb: /files/thumbnails/14fb29d3a8d4c514fb29d3a8d8aa.jpg
     url: /files/original/14fb29d3a8d4c514fb29d3a8d8aa.jpg
+    alt:
+      en: "A black bird perches on a table beside a railing overlooking the Mississippi River, with the ferry \"John James Audubon\" passing by and trees lining the distant shore."
 geo:
   address: ''
   lat: 29.80252

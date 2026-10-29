@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8750.jpg
     thumb: /files/thumbnails/14fb2a65af28b814fb2a65af2fb5.jpg
     url: /files/original/14fb2a65af28b814fb2a65af2fb5.jpg
+    alt:
+      en: "A white refrigerated box truck marked \"FISH\" and \"Thermo King\" sits suspended at a steep angle in a large tree, surrounded by storm debris and a leaning utility pole."
 geo:
 id: 2531
 item_type: Still Image

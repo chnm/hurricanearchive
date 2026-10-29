@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0700.JPG
     thumb: /files/thumbnails/14fb2a532bf0b914fb2a532bf49f.jpg
     url: /files/original/14fb2a532bf0b914fb2a532bf49f.jpg
+    alt:
+      en: "A yellow tape measure extended vertically against a wooden plank surface, showing markings from 2 to 12 inches, secured at the top with a small nail."
 geo:
 id: 5255
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d83a78214fb2a0d83ab69.jpg
     url: /files/original/14fb2a0d83a78214fb2a0d83ab69.jpg
+    alt:
+      en: "A soldier in camouflage uniform films another soldier with a Sony camcorder in an outdoor work area with equipment, cables, and a tent city setup visible in the background."
 geo:
 id: 19831
 item_type: Still Image

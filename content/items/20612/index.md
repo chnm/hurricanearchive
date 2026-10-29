@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a05a7603d14fb2a05a76424.jpg
     url: /files/original/14fb2a05a7603d14fb2a05a76424.jpg
+    alt:
+      en: "A police car is parked in the driveway of a flooded house, with two officers standing near the entrance and a flatbed trailer (license plate E892401) in the foreground."
 geo:
 id: 20612
 item_type: Still Image

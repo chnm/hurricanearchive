@@ -21,6 +21,8 @@ files:
     original_filename: S4300039zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ef363af14fb2a0ef36793.jpg
     url: /files/original/14fb2a0ef363af14fb2a0ef36793.jpg
+    alt:
+      en: "Stacked cases of Kroger purified drinking water bottles, 16.9 FL OZ (500mL) each, with blue swirl packaging labeled \"24 bottles, total 405 FL OZ (11.9 L).\""
 geo:
 id: 19585
 item_type: Still Image

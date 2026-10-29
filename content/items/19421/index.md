@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063engineers.JPG
     thumb: /files/thumbnails/14fb2a1052fa0914fb2a1052fe08.jpg
     url: /files/original/14fb2a1052fa0914fb2a1052fe08.jpg
+    alt:
+      en: "A man in military fatigues and a helmet operates a yellow Komatsu skid-steer loader on a gravel lot, with military dump trucks and debris piles in the background."
 geo:
 id: 19421
 item_type: Still Image

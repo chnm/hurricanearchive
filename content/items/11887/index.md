@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 009.jpg
     thumb: /files/thumbnails/14fb2a22e27fa514fb2a22e2838b.jpg
     url: /files/original/14fb2a22e27fa514fb2a22e2838b.jpg
+    alt:
+      en: "Shrimp boats and trawlers listing or grounded along a narrow waterway lined with trees and power lines, with more vessels docked in the foreground; dated 2005/09/24."
 geo:
 id: 11887
 item_type: Still Image

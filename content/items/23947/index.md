@@ -21,6 +21,8 @@ files:
     original_filename: 09180017plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec454e5314fb29ec45522c.jpg
     url: /files/original/14fb29ec454e5314fb29ec45522c.jpg
+    alt:
+      en: "Storm-damaged roadside scene with a leaning utility pole and tangled wires, a tilted house, and scattered debris from a collapsed metal structure along an empty two-lane road."
 geo:
 id: 23947
 item_type: Still Image

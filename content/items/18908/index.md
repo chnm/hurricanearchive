@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0258downtownnola.JPG
     thumb: /files/thumbnails/14fb2a144c962414fb2a144c9a0a.jpg
     url: /files/original/14fb2a144c962414fb2a144c9a0a.jpg
+    alt:
+      en: "Aerial view of a flattened, debris-covered industrial/residential area with scattered vehicles, damaged buildings, and a long straight road leading toward a distant river or waterway under hazy skies."
 geo:
 id: 18908
 item_type: Still Image

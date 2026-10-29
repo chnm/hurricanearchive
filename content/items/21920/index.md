@@ -21,6 +21,8 @@ files:
     original_filename: bugged%5FRoadway06%2Ejpg.jpg
     thumb: /files/thumbnails/14fb29fafd958e14fb29fafd9974.jpg
     url: /files/original/14fb29fafd958e14fb29fafd9974.jpg
+    alt:
+      en: "Aerial view of a straight highway running through heavily flooded, debris-strewn woodland, with widespread standing water and a small cluster of buildings visible along the road."
 geo:
 id: 21920
 item_type: Still Image

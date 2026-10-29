@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0104-21.JPG
     thumb: /files/thumbnails/14fb29e744042714fb29e744080d.jpg
     url: /files/original/14fb29e744042714fb29e744080d.jpg
+    alt:
+      en: "A man in military camouflage uniform talks on a cell phone while seated at a laptop, with another uniformed person blurred in the background and a soldier's arm visible in the foreground."
 geo:
 id: 24491
 item_type: Still Image

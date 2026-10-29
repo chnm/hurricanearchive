@@ -21,6 +21,8 @@ files:
     original_filename: 20051001-A-2421S-005AlabamaNG.jpg
     thumb: /files/thumbnails/14fb29f153ea2914fb29f153ee11.jpg
     url: /files/original/14fb29f153ea2914fb29f153ee11.jpg
+    alt:
+      en: "A woman in a white shirt and gloves crouches on a debris-covered floor, sorting through damaged belongings including papers, wires, and household items in a storm-damaged room."
 geo:
 id: 23146
 item_type: Still Image

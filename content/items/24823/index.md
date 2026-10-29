@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2145superdome.JPG
     thumb: /files/thumbnails/14fb29e491e8c514fb29e491eca9.jpg
     url: /files/original/14fb29e491e8c514fb29e491eca9.jpg
+    alt:
+      en: "Military transport truck carries evacuees through floodwaters near a building, while a soldier in camouflage stands waving nearby in the partially submerged street."
 geo:
 id: 24823
 item_type: Still Image

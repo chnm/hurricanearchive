@@ -21,6 +21,8 @@ files:
     original_filename: DSC00817engineers.JPG
     thumb: /files/thumbnails/14fb2a10c135fb14fb2a10c13a98.jpg
     url: /files/original/14fb2a10c135fb14fb2a10c13a98.jpg
+    alt:
+      en: "A convoy of military vehicles, including a flatbed trailer truck hauling heavy equipment, a pickup truck, and armored vehicles, travels along a tree-lined road."
 geo:
 id: 19363
 item_type: Still Image

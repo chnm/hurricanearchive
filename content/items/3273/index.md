@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (36).jpg
     thumb: /files/thumbnails/14fb2a5cd0615c14fb2a5cd06542.jpg
     url: /files/original/14fb2a5cd0615c14fb2a5cd06542.jpg
+    alt:
+      en: "Two people walk through floodwater past piles of storm debris and collapsed buildings, with leaning utility poles and tangled wires overhead in a devastated neighborhood."
 geo:
 id: 3273
 item_type: Still Image

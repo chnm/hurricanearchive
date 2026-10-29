@@ -21,6 +21,8 @@ files:
     original_filename: MAJ Bush 12Oct05.JPG
     thumb: /files/thumbnails/14fb2a1b53576714fb2a1b535b48.jpg
     url: /files/original/14fb2a1b53576714fb2a1b535b48.jpg
+    alt:
+      en: "Man in U.S. Army woodland camouflage uniform with \"BUSH\" nametape stands indoors near auditorium-style seating; timestamp reads 10.12.2005 18:00."
 geo:
   address: ''
   lat: 0.0

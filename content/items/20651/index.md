@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049H.JPG
     thumb: /files/thumbnails/14fb2a056f3f6214fb2a05700102.jpg
     url: /files/original/14fb2a056f3f6214fb2a05700102.jpg
+    alt:
+      en: "A man in U.S. Army camouflage fatigues and beret, with a nametag reading \"Metz,\" holds a Coca-Cola can while talking with two women in white Hooters tank tops at a nighttime gathering."
 geo:
 id: 20651
 item_type: Still Image

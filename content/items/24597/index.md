@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0124-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e643c7da14fb29e643cbc0.jpg
     url: /files/original/14fb29e643c7da14fb29e643cbc0.jpg
+    alt:
+      en: "Soldier in woodland camouflage uniform, seen from behind, holding a radio to his ear with an M16 rifle slung over his shoulder, facing a line of parked vehicles on a roadway."
 geo:
 id: 24597
 item_type: Still Image

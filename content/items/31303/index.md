@@ -30,6 +30,8 @@ files:
     original_filename: broussardLR_d2d250dba9.jpg
     thumb: /files/thumbnails/14fb29cc3a7ee914fb29cc3a82cf.jpg
     url: /files/original/14fb29cc3a7ee914fb29cc3a82cf.jpg
+    alt:
+      en: "Flood-damaged living room filled with debris, cardboard boxes, and ruined belongings, with water-stained walls, a tall mirror, framed floral art, and a wooden cabinet still holding decorative items."
 geo:
   address: 1342 Mandolin St.
   lat: 0.0

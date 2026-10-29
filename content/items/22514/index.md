@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1355Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5bb372214fb29f5bb3a65.jpg
     url: /files/original/14fb29f5bb372214fb29f5bb3a65.jpg
+    alt:
+      en: "Floodwaters submerge a building and shipping container amid wind-blown trees under a gray, storm-filled sky, with power lines crossing the foreground."
 geo:
 id: 22514
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 028517thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f3675e7814fb29f367625d.jpg
     url: /files/original/14fb29f3675e7814fb29f367625d.jpg
+    alt:
+      en: "Aerial view of a straight drainage canal lined with trees and houses, two small bridges crossing it, leading toward a distant hazy city skyline and a large truss bridge."
 geo:
 id: 22812
 item_type: Still Image

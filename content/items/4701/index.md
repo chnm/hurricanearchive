@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0127.JPG
     thumb: /files/thumbnails/14fb2a5610f23914fb2a5610f812.jpg
     url: /files/original/14fb2a5610f23914fb2a5610f812.jpg
+    alt:
+      en: "Two elevated coastal houses on stilts with wraparound porches, surrounded by tall pine trees; a concrete driveway curves toward them, with construction materials visible under one home."
 geo:
 id: 4701
 item_type: Still Image

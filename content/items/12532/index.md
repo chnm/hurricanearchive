@@ -24,6 +24,8 @@ files:
     original_filename: dining_72e6c104f5.jpg
     thumb: /files/thumbnails/14fb2a2213900b14fb2a221393f1.jpg
     url: /files/original/14fb2a2213900b14fb2a221393f1.jpg
+    alt:
+      en: "Before-and-after views of a dining room: furniture piled atop a table to escape rising floodwater, then overturned chairs, tables, and debris scattered in mud after the flood receded."
 geo:
   address: ''
   lat: 29.95657

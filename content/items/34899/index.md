@@ -20,6 +20,8 @@ files:
     original_filename: 2456723161_8ee3987665.
     thumb: /files/thumbnails/14fb29c89c376d14fb29c89c3b52.jpg
     url: /files/original/14fb29c89c376d14fb29c89c3b52.jpg
+    alt:
+      en: "Two large excavators, one labeled \"Volvo\" and another with a \"John Deere 690E LC\" backhoe, work alongside a concrete-lined drainage channel as workers in hard hats labor below."
 geo:
 id: 34899
 item_type: Still Image

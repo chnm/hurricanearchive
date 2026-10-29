@@ -21,6 +21,8 @@ files:
     original_filename: S4300085bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a139a11a614fb2a139a1583.jpg
     url: /files/original/14fb2a139a11a614fb2a139a1583.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms sit at a table with canned food, snacks, and a hand-drawn cardboard sign reading \"M McDonalds,\" with orange safety rope strung along the table's edge."
 geo:
 id: 19024
 item_type: Still Image

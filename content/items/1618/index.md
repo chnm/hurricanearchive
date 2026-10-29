@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28494.jpg
     thumb: /files/thumbnails/14fb2a676e20fd14fb2a676e24e0.jpg
     url: /files/original/14fb2a676e20fd14fb2a676e24e0.jpg
+    alt:
+      en: "Flood-damaged living room with overturned, mildew-covered furniture and debris scattered across the floor; walls show a distinct waterline stain and peeling paint beneath two curtained windows."
 geo:
   address: ''
   lat: 0.0

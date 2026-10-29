@@ -21,6 +21,8 @@ files:
     original_filename: Picture 075engineers.jpg
     thumb: /files/thumbnails/14fb2a0f97b37e14fb2a0f97b74b.jpg
     url: /files/original/14fb2a0f97b37e14fb2a0f97b74b.jpg
+    alt:
+      en: "Aerial view of a highway interchange with cloverleaf ramps near a railyard and river shipping facilities, surrounded by trees showing storm damage; dated 09/05/2005 overlay in corner."
 geo:
 id: 19515
 item_type: Still Image

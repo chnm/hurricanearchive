@@ -21,6 +21,8 @@ files:
     original_filename: J2 (28).JPG
     thumb: /files/thumbnails/14fb2a113cc6a314fb2a113cca88.jpg
     url: /files/original/14fb2a113cc6a314fb2a113cca88.jpg
+    alt:
+      en: "Blurred, motion-streaked photo showing a tree with green and brown foliage on the left and a paved surface or roadway with visible cracks on the right."
 geo:
 id: 19309
 item_type: Still Image

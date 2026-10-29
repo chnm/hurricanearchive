@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28707.jpg
     thumb: /files/thumbnails/14fb2a68a80afe14fb2a68a80ee2.jpg
     url: /files/original/14fb2a68a80afe14fb2a68a80ee2.jpg
+    alt:
+      en: "A man in a plaid shirt, cap, and glasses stands near a metal stall holding a gray horse, with a box fan mounted on the fencing behind him."
 geo:
   address: ''
   lat: 0.0

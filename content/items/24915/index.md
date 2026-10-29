@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1407superdome.JPG
     thumb: /files/thumbnails/14fb29e3e618f714fb29e3e61cdc.jpg
     url: /files/original/14fb29e3e618f714fb29e3e61cdc.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand near a concrete pillar at night, one speaking into a radio, beside debris-strewn pavement and a barricade reading \"Subject to Arrest.\""
 geo:
 id: 24915
 item_type: Still Image

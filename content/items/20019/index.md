@@ -21,6 +21,8 @@ files:
     original_filename: Picture 116cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba86e7714fb2a0ba8705e.jpg
     url: /files/original/14fb2a0ba86e7714fb2a0ba8705e.jpg
+    alt:
+      en: "Large boat hull resting on sandy ground, its weathered paint peeling in red, yellow, and teal, with broken wooden planks and debris scattered beneath the keel."
 geo:
 id: 20019
 item_type: Still Image

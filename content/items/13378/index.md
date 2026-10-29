@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4961_d2478f899a.jpg
     thumb: /files/thumbnails/14fb2a1e23f8ad14fb2a1e23fc9b.jpg
     url: /files/original/14fb2a1e23f8ad14fb2a1e23fc9b.jpg
+    alt:
+      en: "Vintage photo portrait of a teenage girl with a white headband, slightly smiling, wearing a dark buttoned collared shirt, photographed against a plain light background."
 geo:
 id: 13378
 item_type: Still Image

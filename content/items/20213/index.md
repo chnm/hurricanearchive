@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0151-9-18.JPG
     thumb: /files/thumbnails/14fb2a0ab2cd4714fb2a0ab2d120.jpg
     url: /files/original/14fb2a0ab2cd4714fb2a0ab2d120.jpg
+    alt:
+      en: "Debris-strewn street with leaning utility poles and dangling wires, a damaged van and scattered wreckage, and a bulldozer clearing storm debris amid trees with browned leaves."
 geo:
 id: 20213
 item_type: Still Image

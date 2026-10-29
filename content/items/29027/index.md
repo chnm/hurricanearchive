@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0549.JPG
     thumb: /files/thumbnails/14fb29d090fadc14fb29d09127f5.jpg
     url: /files/original/14fb29d090fadc14fb29d09127f5.jpg
+    alt:
+      en: "Rows of covered parking structures with metal-framed canopies in the foreground, a tan building with a dark roof beyond, and dense green tree cover in the background under an overcast sky."
 geo:
 id: 29027
 item_type: Still Image

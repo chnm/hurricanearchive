@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2086superdome.JPG
     thumb: /files/thumbnails/14fb29deaf2e5614fb29deaf31a9.jpg
     url: /files/original/14fb29deaf2e5614fb29deaf31a9.jpg
+    alt:
+      en: "Military personnel in flight suits assist civilians boarding a large military aircraft via its rear ramp on a wet airport tarmac, with an elevated highway visible in the background."
 geo:
 id: 25359
 item_type: Still Image

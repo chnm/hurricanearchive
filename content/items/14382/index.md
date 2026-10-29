@@ -21,6 +21,8 @@ files:
     original_filename: aerials91.jpg
     thumb: /files/thumbnails/14fb2a1974184814fb2a19741c2c.jpg
     url: /files/original/14fb2a1974184814fb2a19741c2c.jpg
+    alt:
+      en: "Aerial view of a coastal residential area with widespread tree damage and stripped, broken trees stretching toward the shoreline; scattered houses remain amid debris-covered grounds."
 geo:
 id: 14382
 item_type: Still Image

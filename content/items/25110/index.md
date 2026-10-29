@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1697superdome.JPG
     thumb: /files/thumbnails/14fb29e240476c14fb29e2404b51.jpg
     url: /files/original/14fb29e240476c14fb29e2404b51.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand in front of parked military Humvees, one reading a small piece of paper while the other looks on; the closer soldier wears an \"MP\" armband and carries a flashlight clipped to his gear."
 geo:
 id: 25110
 item_type: Still Image

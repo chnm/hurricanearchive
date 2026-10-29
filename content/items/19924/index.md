@@ -21,6 +21,8 @@ files:
     original_filename: Picture 020cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c662da614fb2a0c66318b.jpg
     url: /files/original/14fb2a0c662da614fb2a0c66318b.jpg
+    alt:
+      en: "A wide highway toll plaza with multiple booth lanes under a long canopy, traffic cones lining the lanes, a truck and SUV approaching, and a green exit sign visible in the background under a partly cloudy sky."
 geo:
 id: 19924
 item_type: Still Image

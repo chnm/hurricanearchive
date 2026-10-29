@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0023.JPG
     thumb: /files/thumbnails/14fb2a578019ac14fb2a57801d9b.jpg
     url: /files/original/14fb2a578019ac14fb2a57801d9b.jpg
+    alt:
+      en: "Shrimp boats with tall rigging sit docked along a waterway, surrounded by scattered debris, damaged structures, and a storage container on the shoreline under a clear blue sky."
 geo:
 id: 4137
 item_type: Still Image

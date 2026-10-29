@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-00-0.jpg
     thumb: /files/thumbnails/14fb29e85db26514fb29e85db64b.jpg
     url: /files/original/14fb29e85db26514fb29e85db64b.jpg
+    alt:
+      en: "Grainy photograph of a narrow doorway or refrigerator door reflected in floodwater, surrounded by a dark green surface, likely flooring submerged after flooding."
 geo:
 id: 24379
 item_type: Still Image

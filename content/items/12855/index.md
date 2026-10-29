@@ -21,6 +21,8 @@ files:
     original_filename: Forstall from N.Claiborn.Damage in Lower 9th.jpg
     thumb: /files/thumbnails/14fb2a216b3e4214fb2a216b4228.jpg
     url: /files/original/14fb2a216b3e4214fb2a216b4228.jpg
+    alt:
+      en: "Storm-damaged street lined with utility poles and leaning power lines, debris scattered along the roadside, a collapsed structure on the left and a white house with boarded windows on the right."
 geo:
 id: 12855
 item_type: Still Image

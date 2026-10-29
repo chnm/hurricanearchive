@@ -26,6 +26,8 @@ files:
     original_filename: 2380728988_c6e5cfb0aa.
     thumb: /files/thumbnails/14fb29ca2964c114fb29ca29685f.jpg
     url: /files/original/14fb29ca2964c114fb29ca29685f.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with curving streets, rooftops surrounded by floodwater, and scattered trees; date stamp \"8/31/2\" visible in the corner."
 geo:
   address: ''
   lat: 30.23512

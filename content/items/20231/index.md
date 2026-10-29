@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0279.JPG
     thumb: /files/thumbnails/14fb2a0a8b33ed14fb2a0a8b37d0.jpg
     url: /files/original/14fb2a0a8b33ed14fb2a0a8b37d0.jpg
+    alt:
+      en: "Aerial view of a large cemetery with densely packed above-ground tombs and mausoleums arranged in grid-like rows, separated by narrow paved roads and pathways."
 geo:
 id: 20231
 item_type: Still Image

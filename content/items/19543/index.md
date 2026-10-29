@@ -21,6 +21,8 @@ files:
     original_filename: Picture1engineers.png
     thumb: /files/thumbnails/14fb2a0f53206714fb2a0f532455.jpg
     url: /files/original/14fb2a0f53206714fb2a0f532455.jpg
+    alt:
+      en: "Three men in camouflage uniforms stand in a muddy, debris-strewn forest clearing, with one operating a chainsaw on fallen trees while fallen trunks and downed power lines surround them."
 geo:
 id: 19543
 item_type: Still Image

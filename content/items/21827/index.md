@@ -21,6 +21,8 @@ files:
     original_filename: 20050904MS-EO A1173-RC-26B ORLEANS PARISH HURRICANE KATRINA.jpg
     thumb: /files/thumbnails/14fb29fb778fb314fb29fb779397.jpg
     url: /files/original/14fb29fb778fb314fb29fb779397.jpg
+    alt:
+      en: "Black-and-white aerial reconnaissance photo of flooded streets near Clearview Shopping Center in Orleans Parish, showing submerged buildings, a marina with boats, and Lakeshore Dr and Robert E. Lee Blvd, dated Sep 4, 2005."
 geo:
 id: 21827
 item_type: Still Image

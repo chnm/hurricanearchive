@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28165.jpg
     thumb: /files/thumbnails/14fb2a6abe2df514fb2a6abe31d2.jpg
     url: /files/original/14fb2a6abe2df514fb2a6abe31d2.jpg
+    alt:
+      en: "Light-colored house with two front dormer windows and the address \"207\" by the entrance, its front door missing and interior charred and debris-strewn, with a cracked, litter-covered walkway leading up to it."
 geo:
   address: ''
   lat: 0.0

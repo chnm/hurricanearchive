@@ -23,6 +23,8 @@ files:
     original_filename: aKatrina at 101 Brushfire 2.jpg
     thumb: /files/thumbnails/14fb29c1e4bf6814fb29c1e4ccc8.jpg
     url: /files/original/14fb29c1e4bf6814fb29c1e4ccc8.jpg
+    alt:
+      en: "Floodwaters submerge a neighborhood street, nearly covering a vehicle, with houses and wind-blown trees surrounded by murky water under a rainy, overcast sky."
 geo:
   address: ''
   lat: 30.22807

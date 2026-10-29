@@ -21,6 +21,8 @@ files:
     original_filename: DSC01117.JPG
     thumb: /files/thumbnails/14fb2a5887e76414fb2a588806b0.jpg
     url: /files/original/14fb2a5887e76414fb2a588806b0.jpg
+    alt:
+      en: "A group of U.S. Coast Guard personnel in orange life vests prepare to launch a small boat into a flooded street lined with trees and a traffic signal, with a timestamp reading \"6 10:43 AM.\""
 geo:
 id: 4012
 item_type: Still Image

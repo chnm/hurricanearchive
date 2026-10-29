@@ -21,6 +21,8 @@ files:
     original_filename: 20050926005.JPG
     thumb: /files/thumbnails/14fb29e926623d14fb29e9266623.jpg
     url: /files/original/14fb29e926623d14fb29e9266623.jpg
+    alt:
+      en: "Nighttime scene of soldiers in camouflage and desert-pattern uniforms standing in formation outside a building, with rifles slung over shoulders and a tree visible in the background."
 geo:
 id: 24267
 item_type: Still Image

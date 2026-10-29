@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0053.JPG
     thumb: /files/thumbnails/14fb2a56b0645c14fb2a56b06840.jpg
     url: /files/original/14fb2a56b0645c14fb2a56b06840.jpg
+    alt:
+      en: "A single-story house with debris scattered across the yard, including broken furniture and household items; a small American flag stands among the wreckage, with damaged trees and a neighboring rooftop visible behind."
 geo:
 id: 4627
 item_type: Still Image

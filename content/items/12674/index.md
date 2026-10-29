@@ -21,6 +21,8 @@ files:
     original_filename: 100-22_64139be567.jpg
     thumb: /files/thumbnails/14fb2a21d14dbd14fb2a21d16a91.jpg
     url: /files/original/14fb2a21d14dbd14fb2a21d16a91.jpg
+    alt:
+      en: "Two men in suits sit before a large chalkboard in a church fellowship hall; one wears glasses and a tan jacket with a floral tie, the other partially visible at left."
 geo:
 id: 12674
 item_type: Still Image

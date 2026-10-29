@@ -21,6 +21,8 @@ files:
     original_filename: aerials132.jpg
     thumb: /files/thumbnails/14fb2a1a1bc31c14fb2a1a1bd346.jpg
     url: /files/original/14fb2a1a1bc31c14fb2a1a1bd346.jpg
+    alt:
+      en: "Aerial view of a storm-damaged waterfront community with scorched trees, debris-strewn lots, a demolished structure near the shoreline, and docks extending into the water."
 geo:
 id: 14290
 item_type: Still Image

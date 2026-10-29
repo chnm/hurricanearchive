@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8556.jpg
     thumb: /files/thumbnails/14fb2a65f4dc1c14fb2a65f4df34.jpg
     url: /files/original/14fb2a65f4dc1c14fb2a65f4df34.jpg
+    alt:
+      en: "Severely storm-damaged house with its exterior wall torn away, exposing a lavender-painted closet with hanging clothes; debris, cinder blocks, and broken framing lie scattered below amid collapsed structure."
 geo:
 id: 2488
 item_type: Still Image

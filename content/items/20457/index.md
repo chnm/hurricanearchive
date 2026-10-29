@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a070e09a214fb2a070e0d7e.jpg
     url: /files/original/14fb2a070e09a214fb2a070e0d7e.jpg
+    alt:
+      en: "Bare trees and a chain-link fence frame a view of a mobile home elevated on stilts beside a metal-roofed building, with standing floodwater visible on the ground below."
 geo:
 id: 20457
 item_type: Still Image

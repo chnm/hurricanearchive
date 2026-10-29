@@ -26,6 +26,8 @@ files:
     original_filename: 100_5851_a78010a58b.JPG
     thumb: /files/thumbnails/14fb2a71161cc614fb2a71162200.jpg
     url: /files/original/14fb2a71161cc614fb2a71162200.jpg
+    alt:
+      en: "Damaged Zimmer's Seafood building with blue-tarped roof and empty window frames, fronted by a massive pile of storm debris including wood, crates, and baskets; dated 11/11/2005."
 geo:
   address: ''
   lat: 30.005653

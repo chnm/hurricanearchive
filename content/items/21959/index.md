@@ -21,6 +21,8 @@ files:
     original_filename: Picture 290-J2.jpg
     thumb: /files/thumbnails/14fb29fad4d72214fb29fad4d98a.jpg
     url: /files/original/14fb29fad4d72214fb29fad4d98a.jpg
+    alt:
+      en: "Floodwaters surround small buildings and a chain-link fence, with a chain-link fence and utility poles in the foreground and a city skyline visible in the background."
 geo:
 id: 21959
 item_type: Still Image

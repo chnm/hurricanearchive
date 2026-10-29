@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1064Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f89e90f314fb29f89e9276.jpg
     url: /files/original/14fb29f89e90f314fb29f89e9276.jpg
+    alt:
+      en: "Three men in military camouflage uniforms stand near a doorway, one holding a cell phone to his ear, looking out toward a foggy outdoor scene with a brick wall and barbed wire fencing."
 geo:
 id: 22253
 item_type: Still Image

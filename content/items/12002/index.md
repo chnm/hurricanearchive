@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 050.jpg
     thumb: /files/thumbnails/14fb2a22613a4f14fb2a2261421d.jpg
     url: /files/original/14fb2a22613a4f14fb2a2261421d.jpg
+    alt:
+      en: "A staircase leads up to the skeletal wooden frame of a storm-damaged structure, with a blue \"FOR SALE BY OWNER, 752-2721\" sign posted amid the exposed beams and surrounding bare trees."
 geo:
 id: 12002
 item_type: Still Image

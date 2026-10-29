@@ -21,6 +21,8 @@ files:
     original_filename: Picture 254cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b04052d14fb2a0b04090c.jpg
     url: /files/original/14fb2a0b04052d14fb2a0b04090c.jpg
+    alt:
+      en: "Large sheets of corrugated metal roofing lie crumpled and torn on the ground near a building, with a steel-framed structure visible in the background under a clear blue sky."
 geo:
 id: 20157
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0138-21.JPG
     thumb: /files/thumbnails/14fb2a0256d99e14fb2a0256dd85.jpg
     url: /files/original/14fb2a0256d99e14fb2a0256dd85.jpg
+    alt:
+      en: "Large oak trees with Spanish moss-draped branches frame a residential street scattered with dried leaves, with historic houses visible in the background under a clear blue sky."
 geo:
 id: 20879
 item_type: Still Image

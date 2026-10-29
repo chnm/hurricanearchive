@@ -20,6 +20,8 @@ files:
     original_filename: 2457563920_67fa88aba2.
     thumb: /files/thumbnails/14fb29c8d7b71f14fb29c8d7bb06.jpg
     url: /files/original/14fb29c8d7b71f14fb29c8d7bb06.jpg
+    alt:
+      en: "Excavated muddy terrain with heavy equipment, including an excavator and bulldozer, a white pickup truck, and a surveying tripod, set against a tree line under a clear sky."
 geo:
 id: 34871
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea25c78314fb29ea25cb1d.jpg
     url: /files/original/14fb29ea25c78314fb29ea25cb1d.jpg
+    alt:
+      en: "A military front-loader marked \"C 27\" drives through thick mud and standing floodwater on a residential street, with damaged brick homes, debris-laden trees, and a mud-covered SUV nearby."
 geo:
 id: 24167
 item_type: Still Image

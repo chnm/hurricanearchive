@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2248.JPG
     thumb: /files/thumbnails/14fb2a1387a9bd14fb2a1387ada2.jpg
     url: /files/original/14fb2a1387a9bd14fb2a1387ada2.jpg
+    alt:
+      en: "Two men in camouflage military uniforms wearing headsets sit inside the interior of a transport vehicle or aircraft, with straps and equipment visible on the padded walls behind them."
 geo:
 id: 19042
 item_type: Still Image

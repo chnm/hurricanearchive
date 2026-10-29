@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0061abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efd4e36214fb29efd4e736.jpg
     url: /files/original/14fb29efd4e36214fb29efd4e736.jpg
+    alt:
+      en: "Floodwaters surround a metal-roofed house and submerge a boat on a trailer beneath overhanging trees, with a partially flooded landscape and cloudy sky in the background."
 geo:
 id: 23351
 item_type: Still Image

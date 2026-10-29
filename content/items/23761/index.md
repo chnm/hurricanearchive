@@ -21,6 +21,8 @@ files:
     original_filename: P1010202empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed38d07814fb29ed38d45e.jpg
     url: /files/original/14fb29ed38d07814fb29ed38d45e.jpg
+    alt:
+      en: "View from inside a military-style truck's cargo bed toward a flooded area with debris, a partially submerged mobile home, and bare, storm-damaged trees."
 geo:
 id: 23761
 item_type: Still Image

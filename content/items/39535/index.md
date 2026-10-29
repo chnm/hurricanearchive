@@ -20,6 +20,8 @@ files:
     original_filename: endymion3_fd14a2a26b.JPG
     thumb: /files/thumbnails/14fb29c50b6ea414fb29c50b7288.jpg
     url: /files/original/14fb29c50b6ea414fb29c50b7288.jpg
+    alt:
+      en: "Crowd of spectators wearing Mardi Gras beads lines a street along the Endymion parade route on Orleans Avenue, with performers and a large fish-shaped float visible in the background."
 geo:
   address: 4630 Orleans Avenue
   lat: 29.98332

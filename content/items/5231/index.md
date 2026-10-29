@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0676.JPG
     thumb: /files/thumbnails/14fb2a5343160b14fb2a534319ae.jpg
     url: /files/original/14fb2a5343160b14fb2a534319ae.jpg
+    alt:
+      en: "A tan sedan parked on a driveway beside debris and damaged structures, with bare trees and power lines lining a rural road in the background."
 geo:
 id: 5231
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 2298638002_99fb845669.
     thumb: /files/thumbnails/14fb29c81bbf1214fb29c81bc2f9.jpg
     url: /files/original/14fb29c81bbf1214fb29c81bc2f9.jpg
+    alt:
+      en: "A group of people stand near a large pile of bicycles stacked along a chain-link fence, with a blue shipping container labeled \"Werner Enterprises\" in the background."
 geo:
 id: 34971
 item_type: Still Image

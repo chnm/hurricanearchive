@@ -21,6 +21,8 @@ files:
     original_filename: LSU School of Denistry.jpg
     thumb: /files/thumbnails/14fb29fb4ad63d14fb29fb4ada22.jpg
     url: /files/original/14fb29fb4ad63d14fb29fb4ada22.jpg
+    alt:
+      en: "Aerial view of a large multi-story building surrounded by extensive floodwater, with submerged trees, roads, and parking areas visible in the murky water below."
 geo:
 id: 21876
 item_type: Still Image

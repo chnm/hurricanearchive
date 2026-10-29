@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 029.jpg
     thumb: /files/thumbnails/14fb2a12dd199514fb2a12dd8e52.jpg
     url: /files/original/14fb2a12dd199514fb2a12dd8e52.jpg
+    alt:
+      en: "Interior of a large building with POW-MIA, Kansas, and New Mexico flags mounted high on a white wall above a brick wall, with cots, equipment, and a floor scrubber machine below."
 geo:
 id: 19119
 item_type: Still Image

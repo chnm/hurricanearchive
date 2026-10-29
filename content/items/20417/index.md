@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012.JPG
     thumb: /files/thumbnails/14fb2a07b22e9214fb2a07b23278.jpg
     url: /files/original/14fb2a07b22e9214fb2a07b23278.jpg
+    alt:
+      en: "Two men sit at a table in conversation, one wearing military camouflage fatigues with a U.S. flag patch, the other in a red shirt and white cap gesturing with his hands; a laptop, notebooks, and papers are on the table."
 geo:
 id: 20417
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010191empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed48913d14fb29ed48951d.jpg
     url: /files/original/14fb29ed48913d14fb29ed48951d.jpg
+    alt:
+      en: "Debris-strewn ground with scattered branches, dried vegetation, and wooden planks, with new green growth sprouting from a tree in the foreground and white structures visible in the background."
 geo:
 id: 23750
 item_type: Still Image

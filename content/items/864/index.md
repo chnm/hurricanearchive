@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27954.jpg
     thumb: /files/thumbnails/14fb2a6c932fae14fb2a6c93338c.jpg
     url: /files/original/14fb2a6c932fae14fb2a6c93338c.jpg
+    alt:
+      en: "Exterior view of the domed building's curved metal roof and lower facade, with a water truck, red dumpster, debris, and a makeshift wooden bench on sawhorses in the foreground."
 geo:
   address: ''
   lat: 0.0

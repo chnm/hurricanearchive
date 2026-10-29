@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0472.JPG
     thumb: /files/thumbnails/14fb2a55a6927714fb2a55a6965c.jpg
     url: /files/original/14fb2a55a6927714fb2a55a6965c.jpg
+    alt:
+      en: "Toppled trees and tangled branches cover debris-strewn ground, with scattered litter and an orange tarp visible amid the wreckage under a clear blue sky."
 geo:
 id: 4773
 item_type: Still Image

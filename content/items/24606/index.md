@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0125-9-25.JPG
     thumb: /files/thumbnails/14fb29e6366cb514fb29e636746c.jpg
     url: /files/original/14fb29e6366cb514fb29e636746c.jpg
+    alt:
+      en: "Aerial view of a flooded roadway submerged in murky water, with a visible stop sign, utility poles, scattered debris, and bare trees protruding from the water's surface."
 geo:
 id: 24606
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials85.jpg
     thumb: /files/thumbnails/14fb2a19823c5a14fb2a198243e7.jpg
     url: /files/original/14fb2a19823c5a14fb2a198243e7.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with storm-damaged homes, scattered debris, downed trees, and snapped utility poles lining the streets."
 geo:
 id: 14377
 item_type: Still Image

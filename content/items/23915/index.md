@@ -21,6 +21,8 @@ files:
     original_filename: 09140014neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec69152514fb29ec691909.jpg
     url: /files/original/14fb29ec69152514fb29ec691909.jpg
+    alt:
+      en: "A large uprooted tree lies toppled across a yard, its massive root ball exposed, with a leaning utility pole and a light blue house visible in the background."
 geo:
 id: 23915
 item_type: Still Image

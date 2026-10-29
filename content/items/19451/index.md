@@ -21,6 +21,8 @@ files:
     original_filename: Picture 011engineers.jpg
     thumb: /files/thumbnails/14fb2a0fed53c714fb2a0fed57ac.jpg
     url: /files/original/14fb2a0fed53c714fb2a0fed57ac.jpg
+    alt:
+      en: "Workers and a bulldozer clear large fallen tree branches blocking a paved road, with downed trees and utility poles visible in the background."
 geo:
 id: 19451
 item_type: Still Image

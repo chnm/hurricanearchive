@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-11_1e198e49e1.jpg
     thumb: /files/thumbnails/14fb2a1664b6d714fb2a1664bad1.jpg
     url: /files/original/14fb2a1664b6d714fb2a1664bad1.jpg
+    alt:
+      en: "Faded, water-damaged photograph of a young woman with long curly auburn hair gazing to the side, her face partially obscured by mottled discoloration and streaking across the print."
 geo:
 id: 15347
 item_type: Still Image

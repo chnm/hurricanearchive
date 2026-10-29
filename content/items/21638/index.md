@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0381-16.JPG
     thumb: /files/thumbnails/14fb29fce0b7dc14fb29fce0bb3e.jpg
     url: /files/original/14fb29fce0b7dc14fb29fce0bb3e.jpg
+    alt:
+      en: "Damaged house with collapsed green metal roofing in foreground, while emergency responders in helmets and a truck with an American flag gather in a debris-strewn street behind."
 geo:
 id: 21638
 item_type: Still Image

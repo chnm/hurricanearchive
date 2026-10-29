@@ -21,6 +21,8 @@ files:
     original_filename: S4300048neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed0193ba14fb29ed01979f.jpg
     url: /files/original/14fb29ed0193ba14fb29ed01979f.jpg
+    alt:
+      en: "Dark, flooded interior space with a visible waterline on a light-colored column, distant lit windows, and a faint round light resembling the moon near the ceiling."
 geo:
 id: 23803
 item_type: Still Image

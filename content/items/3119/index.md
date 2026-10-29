@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (5).JPG
     thumb: /files/thumbnails/14fb2a5dd5816814fb2a5dd5854f.jpg
     url: /files/original/14fb2a5dd5816814fb2a5dd5854f.jpg
+    alt:
+      en: "A utility bucket truck with its boom extended blocks a residential street, with a stop sign, houses, and power lines visible along the roadside."
 geo:
 id: 3119
 item_type: Still Image

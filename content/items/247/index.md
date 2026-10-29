@@ -26,6 +26,8 @@ files:
     original_filename: images_8c98dd6620.jpg
     thumb: /files/thumbnails/14fb2a70672f3414fb2a70673920.jpg
     url: /files/original/14fb2a70672f3414fb2a70673920.jpg
+    alt:
+      en: "Aerial view of a domed stadium surrounded by a cityscape of high-rise buildings, with roads and parking areas visible under a hazy sky."
 geo:
   address: ''
   lat: 29.939504

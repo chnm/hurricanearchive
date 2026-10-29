@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0584Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f505400114fb29f50543e6.jpg
     url: /files/original/14fb29f505400114fb29f50543e6.jpg
+    alt:
+      en: "Large fallen tree leans across a brick wall topped with razor wire, with a damaged brick building and other houses visible in the background under an overcast sky."
 geo:
 id: 22620
 item_type: Still Image

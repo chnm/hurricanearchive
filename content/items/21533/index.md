@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0285.JPG
     thumb: /files/thumbnails/14fb29fdbd811914fb29fdbd84ff.jpg
     url: /files/original/14fb29fdbd811914fb29fdbd84ff.jpg
+    alt:
+      en: "Aerial view of a Wal-Mart Supercenter and adjacent strip mall with a large, densely packed parking lot, surrounded by residential neighborhoods and tree-lined streets."
 geo:
 id: 21533
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100-14_540fb2cfc0.jpg
     thumb: /files/thumbnails/14fb2a21db43df14fb2a21db47c5.jpg
     url: /files/original/14fb2a21db43df14fb2a21db47c5.jpg
+    alt:
+      en: "Worn, torn vintage photo of five young women in formal gowns and gloves posing together under a draped purple curtain, from SUNO's 1958 Coronation Ball."
 geo:
 id: 12666
 item_type: Still Image

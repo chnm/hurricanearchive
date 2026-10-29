@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-27-25A.jpg
     thumb: /files/thumbnails/14fb29e8aea79d14fb29e8aeab7f.jpg
     url: /files/original/14fb29e8aea79d14fb29e8aeab7f.jpg
+    alt:
+      en: "Large domed stadium with a curved, paneled exterior under a clear blue sky, with a tall light pole and parked vehicles visible in the foreground."
 geo:
 id: 24332
 item_type: Still Image

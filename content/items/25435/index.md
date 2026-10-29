@@ -21,6 +21,8 @@ files:
     original_filename: Under the Superdome 8superdome.jpg
     thumb: /files/thumbnails/14fb29ddcca9d114fb29ddccb8f4.jpg
     url: /files/original/14fb29ddcca9d114fb29ddccb8f4.jpg
+    alt:
+      en: "A large military-style truck with a canvas-covered bed near water, with people visible in the cab and truck bed, including someone holding a child in pink clothing at the vehicle's open door."
 geo:
 id: 25435
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0198-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fff7e81214fb29fff7ebec.jpg
     url: /files/original/14fb29fff7e81214fb29fff7ebec.jpg
+    alt:
+      en: "Aerial view of a storm-damaged property with uprooted and snapped trees scattered across a lawn, a rectangular swimming pool, a wooden fence, and nearby buildings with damaged roofs."
 geo:
 id: 21212
 item_type: Still Image

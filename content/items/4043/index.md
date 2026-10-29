@@ -21,6 +21,8 @@ files:
     original_filename: DSC01167.JPG
     thumb: /files/thumbnails/14fb2a583ee60014fb2a583ee9ec.jpg
     url: /files/original/14fb2a583ee60014fb2a583ee9ec.jpg
+    alt:
+      en: "Elevated highway with a yellow merge sign in the foreground, overlooking a large domed stadium with patches of damaged roofing, surrounded by city buildings and greenery; timestamp \"7 10:22 AM\" visible in corner."
 geo:
 id: 4043
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: LAANG-Photo-02.jpg
     thumb: /files/thumbnails/14fb29d085505214fb29d0855438.jpg
     url: /files/original/14fb29d085505214fb29d0855438.jpg
+    alt:
+      en: "Aerial view of a flooded city with a downtown skyline and domed stadium in the distance, submerged streets and buildings in the foreground, and a plume of dark smoke rising at upper right."
 geo:
 id: 29033
 item_type: Still Image

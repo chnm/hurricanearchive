@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0075-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a03e14be214fb2a03e14fc7.jpg
     url: /files/original/14fb2a03e14be214fb2a03e14fc7.jpg
+    alt:
+      en: "Aerial view of a flooded coastal town with debris-strewn streets, damaged buildings, and submerged structures; a helicopter hovers in the hazy sky above."
 geo:
 id: 20772
 item_type: Still Image

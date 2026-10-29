@@ -21,6 +21,8 @@ files:
     original_filename: PICT0198Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c8129114fb29f4c8167f.jpg
     url: /files/original/14fb29f4c8129114fb29f4c8167f.jpg
+    alt:
+      en: "Corrugated metal siding of a trailer displays the number \"9064 16\" in black adhesive letters, with a date stamp of 09.16.2005 in the lower left corner."
 geo:
 id: 22676
 item_type: Still Image

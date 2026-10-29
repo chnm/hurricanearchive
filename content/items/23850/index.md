@@ -21,6 +21,8 @@ files:
     original_filename: S4300189stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecd1b97a14fb29ecd1bd56.jpg
     url: /files/original/14fb29ecd1b97a14fb29ecd1bd56.jpg
+    alt:
+      en: "Overturned vehicle lies on its side in a debris-covered yard, with storm-damaged houses, stripped trees, and a muddy, rubble-strewn street visible through a car windshield."
 geo:
 id: 23850
 item_type: Still Image

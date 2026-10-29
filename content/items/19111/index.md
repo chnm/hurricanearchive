@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 021.jpg
     thumb: /files/thumbnails/14fb2a12feca9514fb2a12fecf8f.jpg
     url: /files/original/14fb2a12feca9514fb2a12fecf8f.jpg
+    alt:
+      en: "An Illinois state flag flies from a pole near a pine tree and metal building, with vehicles and a wooden crate visible in the foreground."
 geo:
 id: 19111
 item_type: Still Image

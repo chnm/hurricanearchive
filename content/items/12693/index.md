@@ -21,6 +21,8 @@ files:
     original_filename: 102-11_ac77ea3d1d.jpg
     thumb: /files/thumbnails/14fb2a21c08b5114fb2a21c08f68.jpg
     url: /files/original/14fb2a21c08b5114fb2a21c08f68.jpg
+    alt:
+      en: "A man and a young girl pose together in front of an orange truck labeled \"L.C. Bush Gen. Hauling Serv.\" with contact details, houses visible in the background."
 geo:
 id: 12693
 item_type: Still Image

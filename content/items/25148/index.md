@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1758superdome.JPG
     thumb: /files/thumbnails/14fb29e1e10e0414fb29e1e11582.jpg
     url: /files/original/14fb29e1e10e0414fb29e1e11582.jpg
+    alt:
+      en: "Gloved hand gripping a joystick control with red buttons inside a military aircraft cockpit, surrounded by dark instrument panels and gauges."
 geo:
 id: 25148
 item_type: Still Image

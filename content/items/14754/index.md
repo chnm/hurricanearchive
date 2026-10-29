@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_03_ffebdc511e.jpg
     thumb: /files/thumbnails/14fb2a17f0177614fb2a17f01b4d.jpg
     url: /files/original/14fb2a17f0177614fb2a17f01b4d.jpg
+    alt:
+      en: "A young girl in a white dress holding a baby doll sits beside a woman in a cream suit and hat, with a framed wedding photo and floral wall decor behind them."
 geo:
 id: 14754
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0199.JPG
     thumb: /files/thumbnails/14fb29fff2d79114fb29fff2db77.jpg
     url: /files/original/14fb29fff2d79114fb29fff2db77.jpg
+    alt:
+      en: "Aerial view of a devastated neighborhood with flattened homes, scattered debris, and bare trees stretching toward a row of more intact structures in the distance."
 geo:
 id: 21219
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: jetskirescue_57a3d156bb.jpg
     thumb: /files/thumbnails/14fb2a70e6b09514fb2a70e6b479.jpg
     url: /files/original/14fb2a70e6b09514fb2a70e6b479.jpg
+    alt:
+      en: "A man crouched on a rooftop reaches down to hand an infant to a person on a Yamaha jet ski floating in floodwater beside the house."
 geo:
   address: ''
   lat: 30.0310554265402

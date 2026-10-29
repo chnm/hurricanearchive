@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-25-23A.jpg
     thumb: /files/thumbnails/14fb29e8b145b414fb29e8b149b9.jpg
     url: /files/original/14fb29e8b145b414fb29e8b149b9.jpg
+    alt:
+      en: "Floodwaters submerge a parking area and road beneath a highway overpass, with a stalled car, an orange \"SKY TRAK\" lift, and groups of people wading near a \"WEST BUS LOT 4\" sign."
 geo:
 id: 24330
 item_type: Still Image

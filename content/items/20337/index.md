@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002M.JPG
     thumb: /files/thumbnails/14fb2a08b855dc14fb2a08b8704a.jpg
     url: /files/original/14fb2a08b855dc14fb2a08b8704a.jpg
+    alt:
+      en: "A woman in military camouflage fatigues with a nametag reading \"PRECHTER\" works at a laptop computer, with medicine bottles and papers on the desk in front of her."
 geo:
 id: 20337
 item_type: Still Image

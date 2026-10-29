@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0139-9-18.JPG
     thumb: /files/thumbnails/14fb2a0ac4f61014fb2a0ac4f6e8.jpg
     url: /files/original/14fb2a0ac4f61014fb2a0ac4f6e8.jpg
+    alt:
+      en: "Close-up of rusted corrugated metal sheeting or sheet piling, with jagged torn metal fencing visible in the blurred background."
 geo:
 id: 20203
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0505.JPG
     thumb: /files/thumbnails/14fb2a53c8356914fb2a53c8394e.jpg
     url: /files/original/14fb2a53c8356914fb2a53c8394e.jpg
+    alt:
+      en: "A yellow tape measure stretched diagonally across wood paneling with orange sealant along the seams, with an electrical outlet and a blue device mounted in the upper left corner."
 geo:
 id: 5143
 item_type: Still Image

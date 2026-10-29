@@ -20,6 +20,8 @@ files:
     original_filename: 2298644982_e8a705f69e.
     thumb: /files/thumbnails/14fb29c814801914fb29c81483fe.jpg
     url: /files/original/14fb29c814801914fb29c81483fe.jpg
+    alt:
+      en: "A young woman wearing sunglasses and a green cap stands in the foreground with overalls draped over her shoulder, while other people, a chain-link fence, buildings, and trees are visible behind her on a street."
 geo:
 id: 34977
 item_type: Still Image

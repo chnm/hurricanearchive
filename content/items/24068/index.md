@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eb17eaf114fb29eb17eed7.jpg
     url: /files/original/14fb29eb17eaf114fb29eb17eed7.jpg
+    alt:
+      en: "Cracked, dried mud blankets a driveway and street in front of brick houses with storm-damaged roofs and boarded windows; a capsized boat marked \"VENTURE\" lies overturned near the curb."
 geo:
 id: 24068
 item_type: Still Image

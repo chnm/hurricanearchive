@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0112.JPG
     thumb: /files/thumbnails/14fb2a556974ee14fb2a556978d4.jpg
     url: /files/original/14fb2a556974ee14fb2a556978d4.jpg
+    alt:
+      en: "Interior of a severely storm-damaged home with exposed roof rafters, torn insulation hanging down, and collapsed ceiling material; water-stained walls and broken windows are visible below."
 geo:
 id: 4800
 item_type: Still Image

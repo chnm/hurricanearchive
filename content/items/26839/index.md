@@ -21,6 +21,8 @@ files:
     original_filename: activitiesgeneric_8c9ef10e1b.jpg
     thumb: /files/thumbnails/14fb29d782b78114fb29d782bb53.jpg
     url: /files/original/14fb29d782b78114fb29d782bb53.jpg
+    alt:
+      en: "Yearbook page with five black-and-white photos: a smiling man in a striped shirt, a young man speaking at a podium, a formal assembly with a \"Owls Rip Up\" banner, a marching band formation on a football field, and a student swinging a bat."
 geo:
 id: 26839
 item_type: Still Image

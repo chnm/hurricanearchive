@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1767superdome.JPG
     thumb: /files/thumbnails/14fb29e1c7d57114fb29e1c82b5b.jpg
     url: /files/original/14fb29e1c7d57114fb29e1c82b5b.jpg
+    alt:
+      en: "A U.S. Army service member in camouflage uniform converses with a woman wearing a FEMA polo shirt and a man in a navy polo, standing in front of parked vehicles."
 geo:
 id: 25157
 item_type: Still Image
