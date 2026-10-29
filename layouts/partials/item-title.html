@@ -12,7 +12,7 @@
 		{{- range .Params.files -}}{{- if and (not $t) .alt -}}{{- $t = index .alt "en" -}}{{- end -}}{{- end -}}
 	{{- end -}}
 	{{- if $t -}}
-		{{- $t = $t | truncate 90 "…" -}}
+		{{- $t = $t | truncate 90 "…" | htmlUnescape -}}  {{- /* truncate escapes; return plain text */ -}}
 	{{- else -}}
 		{{- $t = printf "%s %v" (.Params.item_type | default "Item") .Params.id -}}
 	{{- end -}}

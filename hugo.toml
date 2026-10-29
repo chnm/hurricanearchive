@@ -16,3 +16,13 @@ disableKinds = ["RSS"]
 
 [markup.goldmark.renderer]
   unsafe = true
+
+# index.geo.json feeds the map. Built from data/geo.json so popups get the same titles as item pages.
+[outputFormats.geo]
+  mediaType = "application/json"
+  baseName = "index.geo"
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ["html", "geo"]
