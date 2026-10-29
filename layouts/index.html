@@ -12,12 +12,12 @@
 			{{- with $featImgs }}
 				{{- $first := index . 0 }}
 				{{- $f := index $first.Params.files 0 }}
-				<a id="featured-link" href="{{ $first.RelPermalink }}"><img id="featured-img" src="{{ or $f.fullsize $f.url }}" alt="{{ $f.original_filename }}" title="{{ $f.original_filename }}"></a>
+				<a id="featured-link" href="{{ $first.RelPermalink }}"><img id="featured-img" src="{{ or $f.fullsize $f.url }}" alt="{{ or (index ($f.alt | default dict) "en") $first.Title }}"></a>
 				<h4 id="featured-title">{{ $first.Title }}</h4>
 				{{- /* Pick a random featured image per page load, matching the original Omeka random_featured_item().
 				       The first image is rendered server-side so no-JS clients and crawlers still get a valid one. */}}
 				{{- $data := slice }}
-				{{- range . }}{{ $df := index .Params.files 0 }}{{ $data = $data | append (dict "href" .RelPermalink "src" (or $df.fullsize $df.url) "title" .Title "alt" $df.original_filename) }}{{ end }}
+				{{- range . }}{{ $df := index .Params.files 0 }}{{ $data = $data | append (dict "href" .RelPermalink "src" (or $df.fullsize $df.url) "title" .Title "alt" (or (index ($df.alt | default dict) "en") .Title)) }}{{ end }}
 				<script type="application/json" id="featured-data">{{ $data | jsonify | safeJS }}</script>
 				<script>
 				(function () {
@@ -30,7 +30,7 @@
 					var img = document.getElementById('featured-img');
 					var title = document.getElementById('featured-title');
 					if (link) link.href = pick.href;
-					if (img) { img.src = pick.src; img.alt = pick.alt; img.title = pick.alt; }
+					if (img) { img.src = pick.src; img.alt = pick.alt; }
 					if (title) title.textContent = pick.title;
 				})();
 				</script>

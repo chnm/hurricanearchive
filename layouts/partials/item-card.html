@@ -7,7 +7,7 @@
 		{{- if $img }}
 		<div class="item-img">
 			{{- $sq := replace (or $img.thumb $img.fullsize $img.url) "/thumbnails/" "/square_thumbnails/" }}
-			<a href="{{ .RelPermalink }}"><img src="{{ $sq }}" alt="{{ $img.original_filename }}" title="{{ $img.original_filename }}"></a>
+			<a href="{{ .RelPermalink }}"><img src="{{ $sq }}" alt="{{ or (index ($img.alt | default dict) "en") .Title }}"></a>
 			<p><a href="{{ .RelPermalink }}">{{ .Title | truncate 20 "…" }}</a></p>
 		</div>
 		{{- else }}
