@@ -1,6 +1,6 @@
 {{- /* An item's display title. Many items are titled with the uploaded filename
        (DSC00990.JPG, "2005-28338.jpg (Object)") or Omeka's placeholder "Item 123", so those fall back to the Description,
-       then the first image's alt text, then "<Item type> <id>" (chnm/sustainability#140). */ -}}
+       then the first image's alt text, then a newspaper page's date and page, then "<Item type> <id>" (chnm/sustainability#140). */ -}}
 {{- $t := .Title -}}
 {{- if or (findRE `(?i)\.(jpe?g|png|gif|tiff?|bmp|pdf|mp3|wav|mov|avi|wmv|mp4|docx?|txt|rtf)\b` $t) (findRE `^Item \d+$` $t) -}}
 	{{- $t = "" -}}
@@ -11,8 +11,14 @@
 		{{- $t = "" -}}
 		{{- range .Params.files -}}{{- if and (not $t) .alt -}}{{- $t = index .alt "en" -}}{{- end -}}{{- end -}}
 	{{- end -}}
+	{{- $page := findRESubmatch `^(\d\d) (\d\d) (\d{4}) ([A-Z]\d+)\.(?i:pdf)$` .Title -}}
 	{{- if $t -}}
 		{{- $t = $t | truncate 90 "…" | htmlUnescape -}}  {{- /* truncate escapes; return plain text */ -}}
+	{{- else if $page -}}  {{- /* newspaper page scans, "11 02 2005 B1.pdf" */ -}}
+		{{- $m := index $page 0 -}}
+		{{- $src := "Newspaper" -}}
+		{{- with .Params.collections -}}{{- with site.GetPage (printf "/collections/%v" (index . 0)) -}}{{- $src = .Title -}}{{- end -}}{{- end -}}
+		{{- $t = printf "%s, %s, page %s" $src (printf "%s-%s-%s" (index $m 3) (index $m 1) (index $m 2) | time.Format "January 2, 2006") (index $m 4) -}}
 	{{- else -}}
 		{{- $t = printf "%s %v" (.Params.item_type | default "Item") .Params.id -}}
 	{{- end -}}
