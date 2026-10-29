@@ -7,7 +7,8 @@
 {{- $img := false -}}
 {{- range .Params.files -}}{{- if and (not $img) .mime (hasPrefix .mime "image/") -}}{{- $img = . -}}{{- end -}}{{- end -}}
 <div data-pagefind-body data-pagefind-filter="type:{{ .Params.item_type }}">
-<h1 data-pagefind-meta="title">{{ .Title }}</h1>
+{{- $title := partial "item-title.html" . -}}
+<h1 data-pagefind-meta="title">{{ $title }}</h1>
 {{- if $img }}<span hidden data-pagefind-meta="image:{{ replace (or $img.thumb $img.fullsize $img.url) "/thumbnails/" "/square_thumbnails/" }}"></span>{{ end }}
 {{ partial "original-source.html" . }}
 <div id="show">
@@ -18,7 +19,7 @@
 		{{ range . }}
 			{{ $sub := "" }}{{ with .mime }}{{ $sub = replace . "/" "-" }}{{ end }}
 			{{ if and .mime (hasPrefix .mime "image/") }}
-				<div class="item-file {{ $sub }}"><a class="download-file" href="{{ .url }}"><img class="full" src="{{ or .fullsize .url }}" alt="{{ or (index (.alt | default dict) "en") $.Title }}"></a></div>
+				<div class="item-file {{ $sub }}"><a class="download-file" href="{{ .url }}"><img class="full" src="{{ or .fullsize .url }}" alt="{{ or (index (.alt | default dict) "en") $title }}"></a></div>
 			{{ else }}
 				<div class="item-file {{ $sub }}"><a class="download-file" href="{{ .url }}">{{ or .original_filename .url }}</a></div>
 			{{ end }}
@@ -37,6 +38,13 @@
 
 		{{ with .Params.dublin_core.Description }}{{ partial "element-text.html" . }}{{ end }}
 
+		{{ if ne $title .Title }}
+			<div class="element">
+				<h3>Original title</h3>
+				<div class="element-text">{{ .Title }}</div>
+			</div>
+		{{ end }}
+
 		{{ with .Params.item_type_metadata }}
 			{{ range $field, $vals := . }}{{ partial "element-text.html" $vals }}{{ end }}
 		{{ end }}
@@ -49,7 +57,7 @@
 
 		<div id="item-citation" class="element" data-pagefind-ignore>
 			<h3>Citation</h3>
-			<div class="element-text">&#8220;{{ .Title }},&#8221; <em>{{ site.Title }}</em>, accessed {{ now.Format "January 2, 2006" }}, <span class="citation-url">{{ site.Params.origin }}/items/show/{{ .Params.id }}</span>.</div>
+			<div class="element-text">&#8220;{{ $title }},&#8221; <em>{{ site.Title }}</em>, accessed {{ now.Format "January 2, 2006" }}, <span class="citation-url">{{ site.Params.origin }}/items/show/{{ .Params.id }}</span>.</div>
 		</div>
 
 		{{ with .Params.geo }}

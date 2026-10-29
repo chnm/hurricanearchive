@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ site.Title }} | {{ .Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ site.Title }} | {{ if eq .Type "items" }}{{ partial "item-title.html" . }}{{ else }}{{ .Title }}{{ end }}{{ end }}</title>
 {{ with .Description }}<meta name="description" content="{{ . }}">{{ else }}<meta name="description" content=" ">{{ end }}
 
 {{/* Original Omeka "hurricane" theme stylesheet, vendored verbatim (sha256 4d0c54b2…).

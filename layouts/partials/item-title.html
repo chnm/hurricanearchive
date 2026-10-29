@@ -1,0 +1,20 @@
+{{- /* An item's display title. Many items are titled with the uploaded filename
+       (DSC00990.JPG, "2005-28338.jpg (Object)") or Omeka's placeholder "Item 123", so those fall back to the Description,
+       then the first image's alt text, then "<Item type> <id>" (chnm/sustainability#140). */ -}}
+{{- $t := .Title -}}
+{{- if or (findRE `(?i)\.(jpe?g|png|gif|tiff?|bmp|pdf|mp3|wav|mov|avi|wmv|mp4|docx?|txt|rtf)\b` $t) (findRE `^Item \d+$` $t) -}}
+	{{- $t = "" -}}
+	{{- with index (.Params.dublin_core.Description | default slice) 0 -}}
+		{{- $t = .text | replaceRE `(\\[nr]|\s)+` " " | replaceRE `\\'` "'" | plainify | htmlUnescape | strings.TrimSpace -}}
+	{{- end -}}
+	{{- if not (findRE `\pL{3}` $t) -}}
+		{{- $t = "" -}}
+		{{- range .Params.files -}}{{- if and (not $t) .alt -}}{{- $t = index .alt "en" -}}{{- end -}}{{- end -}}
+	{{- end -}}
+	{{- if $t -}}
+		{{- $t = $t | truncate 90 "…" -}}
+	{{- else -}}
+		{{- $t = printf "%s %v" (.Params.item_type | default "Item") .Params.id -}}
+	{{- end -}}
+{{- end -}}
+{{- return $t -}}
