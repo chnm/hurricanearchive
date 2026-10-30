@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28590.jpg
     thumb: /files/thumbnails/14fb2a68c100ad14fb2a68c10488.jpg
     url: /files/original/14fb2a68c100ad14fb2a68c10488.jpg
+    alt:
+      en: "A large white boat sits stranded on grass near a row of townhouses, with debris and wooden planks scattered across the lawn under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0068grandisle.JPG
     thumb: /files/thumbnails/14fb2a14eb839c14fb2a14eb873e.jpg
     url: /files/original/14fb2a14eb839c14fb2a14eb873e.jpg
+    alt:
+      en: "Aerial view of a coastal point with a rock jetty curving into the water, a submerged brick structure, scattered debris, and marshy wetlands with a house visible in the background."
 geo:
 id: 18849
 item_type: Still Image

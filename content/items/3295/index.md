@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (56).jpg
     thumb: /files/thumbnails/14fb2a5caeb78014fb2a5caebb66.jpg
     url: /files/original/14fb2a5caeb78014fb2a5caebb66.jpg
+    alt:
+      en: "Row of damaged, abandoned vehicles parked beneath large oak trees on a grassy lot, with cracked mud and sparse grass in the foreground and a partially collapsed house visible in the background."
 geo:
 id: 3295
 item_type: Still Image

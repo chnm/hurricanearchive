@@ -21,6 +21,8 @@ files:
     original_filename: west windy.jpg
     thumb: /files/thumbnails/14fb2a2009c1f414fb2a2009db01.jpg
     url: /files/original/14fb2a2009c1f414fb2a2009db01.jpg
+    alt:
+      en: "Flat commercial rooftops with vents and ductwork in the foreground, shrouded in thick fog or mist, with faint outlines of distant buildings and streetlights barely visible in the hazy background."
 geo:
 id: 13144
 item_type: Still Image

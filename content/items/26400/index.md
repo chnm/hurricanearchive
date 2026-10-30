@@ -24,6 +24,8 @@ files:
     original_filename: EV 5 Grandfather 1912_a115bbc424.B.jpg
     thumb: /files/thumbnails/14fb29d8c7f78014fb29d8c7fbdb.jpg
     url: /files/original/14fb29d8c7f78014fb29d8c7fbdb.jpg
+    alt:
+      en: "Sepia-toned studio portrait of a young man with short wavy hair, wearing a dark suit, white collared shirt, and patterned tie with a decorative pin; identified as Anthony Salvadore Oddo, 1917."
 geo:
   address: ''
   lat: 29.84064

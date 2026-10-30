@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 086cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e4307e814fb2a0e430bcb.jpg
     url: /files/original/14fb2a0e4307e814fb2a0e430bcb.jpg
+    alt:
+      en: "A uniformed man wearing a cap and glasses speaks into a radio handset inside a vehicle, with storm-damaged trees, debris piles, and a grassy roadside visible through the window."
 geo:
 id: 19699
 item_type: Still Image

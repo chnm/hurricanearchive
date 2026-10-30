@@ -20,6 +20,8 @@ files:
     original_filename: 800px-New_Orleans_17th_Street_Canal_filling.JPG
     thumb: /files/thumbnails/5dd2a3faa7c754060cbc326ce38a63fd.jpg
     url: /files/original/5dd2a3faa7c754060cbc326ce38a63fd.JPG
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rooftops and trees poking above brown water, beside a levee-lined canal where emergency vehicles and construction equipment are gathered near a breach."
 geo:
   address: 6508 Bellaire Dr
   lat: 30.01065

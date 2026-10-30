@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27996.jpg
     thumb: /files/thumbnails/14fb2a6c58c86d14fb2a6c58f71c.jpg
     url: /files/original/14fb2a6c58c86d14fb2a6c58f71c.jpg
+    alt:
+      en: "A large uprooted tree lies toppled against a white house with a screened porch, its exposed root ball and tangled branches surrounded by scattered debris."
 geo:
   address: ''
   lat: 0.0

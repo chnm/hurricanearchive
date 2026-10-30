@@ -23,6 +23,8 @@ files:
     original_filename: 336695260_8ed17fd913.jpg
     thumb: /files/thumbnails/14fb29d50b449114fb29d50b4ae5.jpg
     url: /files/original/14fb29d50b449114fb29d50b4ae5.jpg
+    alt:
+      en: "Damaged white wooden building with green shuttered windows beside a debris-strewn lot, storm wreckage and fallen branches on a gravel road under an overcast sky."
 geo:
 id: 27321
 item_type: Still Image

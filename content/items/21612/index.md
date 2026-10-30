@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0345-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd1232ec14fb29fd1236d1.jpg
     url: /files/original/14fb29fd1232ec14fb29fd1236d1.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters submerging a residential area, with only treetops, rooftops, and utility poles visible above the murky water."
 geo:
 id: 21612
 item_type: Still Image

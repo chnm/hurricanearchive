@@ -21,6 +21,8 @@ files:
     original_filename: 09140030.JPG
     thumb: /files/thumbnails/14fb29e96b926d14fb29e96b9654.jpg
     url: /files/original/14fb29e96b926d14fb29e96b9654.jpg
+    alt:
+      en: "Military Humvees travel down a debris-strewn street lined with storm-damaged buildings and stripped trees, with a \"Casco\" sign visible in the background."
 geo:
 id: 24249
 item_type: Still Image

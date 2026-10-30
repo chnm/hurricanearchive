@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28532.jpg
     thumb: /files/thumbnails/14fb2a6ae6865114fb2a6ae68a37.jpg
     url: /files/original/14fb2a6ae6865114fb2a6ae68a37.jpg
+    alt:
+      en: "A group of men gather on a debris-strewn downtown street as pizza boxes are handed out near a cart advertising \"Domino's Pizza Now Open,\" with boarded-up storefronts in the background."
 geo:
   address: ''
   lat: 0.0

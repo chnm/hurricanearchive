@@ -21,6 +21,8 @@ files:
     original_filename: PICT0231Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c2a07214fb29f4c2a44d.jpg
     url: /files/original/14fb29f4c2a07214fb29f4c2a44d.jpg
+    alt:
+      en: "White house with screened porch displaying a hanging sign reading \"LTC STROUD\" above house number \"26\" on a white post; front door with two wreaths visible at left, timestamp \"09.15.2005\" in corner."
 geo:
 id: 22685
 item_type: Still Image

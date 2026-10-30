@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0127-21.JPG
     thumb: /files/thumbnails/14fb29e620831f14fb29e6208c76.jpg
     url: /files/original/14fb29e620831f14fb29e6208c76.jpg
+    alt:
+      en: "Blurred, motion-streaked photo of two people in green military-style camouflage uniforms, one with a U.S. flag patch on the shoulder, set against bright overhead lighting."
 geo:
 id: 24614
 item_type: Still Image

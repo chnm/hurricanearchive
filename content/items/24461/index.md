@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0098-9-25.JPG
     thumb: /files/thumbnails/14fb29e789fb6a14fb29e789ff46.jpg
     url: /files/original/14fb29e789fb6a14fb29e789ff46.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with homes submerged to roofline in brown water, surrounded by debris, downed trees, and marshland stretching to the horizon."
 geo:
 id: 24461
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0314.JPG
     thumb: /files/thumbnails/14fb2a560a54f214fb2a560a58d8.jpg
     url: /files/original/14fb2a560a54f214fb2a560a58d8.jpg
+    alt:
+      en: "A boat lies overturned and wedged into dense roadside brush and trees, photographed from inside a vehicle with the window frame visible in the foreground."
 geo:
 id: 4705
 item_type: Still Image

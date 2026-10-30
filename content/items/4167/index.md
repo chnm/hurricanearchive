@@ -21,6 +21,8 @@ files:
     original_filename: P1010038.JPG
     thumb: /files/thumbnails/14fb2a575200cb14fb2a5752048c.jpg
     url: /files/original/14fb2a575200cb14fb2a5752048c.jpg
+    alt:
+      en: "Aerial view of a flattened residential or commercial area with only concrete foundations remaining, debris scattered across adjacent fields, and a two-lane road running through the devastated site."
 geo:
 id: 4167
 item_type: Still Image

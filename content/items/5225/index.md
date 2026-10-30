@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0670.JPG
     thumb: /files/thumbnails/14fb2a534bbc2014fb2a534bc003.jpg
     url: /files/original/14fb2a534bbc2014fb2a534bc003.jpg
+    alt:
+      en: "A yellow tape measure stretched across a damaged roof structure, with broken plywood sheathing, exposed beams, and debris like pine needles and twigs scattered around the hole."
 geo:
 id: 5225
 item_type: Still Image

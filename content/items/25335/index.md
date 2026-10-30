@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2062superdome.JPG
     thumb: /files/thumbnails/14fb29defc0e9114fb29defc124c.jpg
     url: /files/original/14fb29defc0e9114fb29defc124c.jpg
+    alt:
+      en: "Close-up of two people outdoors, one in a sleeveless yellow-green top with back turned, the other leaning in closely toward her, both with short dark hair, pavement visible behind them."
 geo:
 id: 25335
 item_type: Still Image

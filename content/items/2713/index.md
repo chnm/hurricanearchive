@@ -21,6 +21,8 @@ files:
     original_filename: 135.jpg
     thumb: /files/thumbnails/14fb2a6074189114fb2a60741c71.jpg
     url: /files/original/14fb2a6074189114fb2a60741c71.jpg
+    alt:
+      en: "Child's drawing labeled \"Keitaja\" at top, featuring a large white flower with a red center and green stem, surrounded by teal scribbles, green grass, and an orange sun in the upper right corner."
 geo:
 id: 2713
 item_type: Still Image

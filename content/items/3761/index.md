@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 041.jpg
     thumb: /files/thumbnails/14fb2a59d1bd7f14fb2a59d1c132.jpg
     url: /files/original/14fb2a59d1bd7f14fb2a59d1c132.jpg
+    alt:
+      en: "Collapsed steel-framed building and scattered debris line a roadside under a clear blue sky, with a bent orange \"City Work Road\" sign and bare trees in the foreground."
 geo:
 id: 3761
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013medics.JPG
     thumb: /files/thumbnails/14fb29e5dd5ba014fb29e5dd5f29.jpg
     url: /files/original/14fb29e5dd5ba014fb29e5dd5f29.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and latex gloves administers an injection into the upper arm of another man wearing a sleeveless tan shirt, under fluorescent ceiling lighting."
 geo:
 id: 24639
 item_type: Still Image

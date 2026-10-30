@@ -20,6 +20,8 @@ files:
     original_filename: 2457398298_d9529bc989.
     thumb: /files/thumbnails/14fb29c874144f14fb29c8741835.jpg
     url: /files/original/14fb29c874144f14fb29c8741835.jpg
+    alt:
+      en: "Heavy construction equipment, including a bulldozer and dump truck, sit on a muddy, waterlogged work site under an overcast sky, with sparse trees in the background. Date stamp reads 01-18-2008."
 geo:
 id: 34930
 item_type: Still Image

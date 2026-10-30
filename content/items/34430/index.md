@@ -23,6 +23,8 @@ files:
     original_filename: 2326144497_189689059c.
     thumb: /files/thumbnails/14fb29ca1097f114fb29ca109c56.jpg
     url: /files/original/14fb29ca1097f114fb29ca109c56.jpg
+    alt:
+      en: "Piles of storm debris and twisted metal sheeting cover the foreground near a damaged Amoco gas station canopy and small storefronts, with a white truck and SUV parked beyond the wreckage."
 geo:
   address: ''
   lat: 30.23864

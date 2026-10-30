@@ -21,6 +21,8 @@ files:
     original_filename: 20050926030.JPG
     thumb: /files/thumbnails/14fb29e919c6cf14fb29e919d98d.jpg
     url: /files/original/14fb29e919c6cf14fb29e919d98d.jpg
+    alt:
+      en: "A soldier in desert camouflage uniform with \"Mountain\" and American flag patches speaks on a cell phone while riding atop a vehicle on a flooded roadway lined with power lines and trees."
 geo:
 id: 24275
 item_type: Still Image

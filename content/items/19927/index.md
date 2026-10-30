@@ -21,6 +21,8 @@ files:
     original_filename: Picture 023cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c6125e914fb2a0c6153a4.jpg
     url: /files/original/14fb2a0c6125e914fb2a0c6153a4.jpg
+    alt:
+      en: "Rows of small shotgun-style houses, including an orange one with a teal door, seen through a large tree's branches, with a foreground of dried brush or debris covering the yard."
 geo:
 id: 19927
 item_type: Still Image

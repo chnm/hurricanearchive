@@ -21,6 +21,8 @@ files:
     original_filename: Picture 200cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b530abe14fb2a0b530ea5.jpg
     url: /files/original/14fb2a0b530abe14fb2a0b530ea5.jpg
+    alt:
+      en: "Roadside guardrail along a grassy field with scattered tree debris and a large damaged tree, a distant helicopter in the blue sky above."
 geo:
 id: 20103
 item_type: Still Image

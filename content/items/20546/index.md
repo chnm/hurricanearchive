@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031M.JPG
     thumb: /files/thumbnails/14fb2a0642862014fb2a06428a05.jpg
     url: /files/original/14fb2a0642862014fb2a06428a05.jpg
+    alt:
+      en: "A large tree lies uprooted in a grassy field, its massive root ball exposed, with bare branches extending toward low buildings and parked cars in the background."
 geo:
 id: 20546
 item_type: Still Image

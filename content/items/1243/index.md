@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28321.jpg
     thumb: /files/thumbnails/14fb2a6a18780714fb2a6a187bed.jpg
     url: /files/original/14fb2a6a18780714fb2a6a187bed.jpg
+    alt:
+      en: "Damaged multi-story building with exposed framing and debris scattered across a dirt lot, large bare-branched tree in foreground, white storage containers and rubble piles nearby."
 geo:
   address: ''
   lat: 0.0

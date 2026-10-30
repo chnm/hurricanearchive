@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0178abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef003b2214fb29ef00b954.jpg
     url: /files/original/14fb29ef003b2214fb29ef00b954.jpg
+    alt:
+      en: "A nutria rodent with dark wet fur and a long tail lies on patchy grass and mud, its whiskers visible as it rests on the ground."
 geo:
 id: 23556
 item_type: Still Image

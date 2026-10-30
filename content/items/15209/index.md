@@ -20,6 +20,8 @@ files:
     original_filename: 4_4b47091e1b.jpg
     thumb: /files/thumbnails/14fb2a16564dff14fb2a165651e3.jpg
     url: /files/original/14fb2a16564dff14fb2a165651e3.jpg
+    alt:
+      en: "A young woman in a red shirt and orange headband plays on a trampoline with a black-and-white husky, while a tan-and-white husky stands in the foreground; trees and a house are visible behind them."
 geo:
   address: Friscoville Ave.
   lat: 0.0

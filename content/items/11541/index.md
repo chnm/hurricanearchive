@@ -20,6 +20,8 @@ files:
     original_filename: Zo_5f4354030e.JPG
     thumb: /files/thumbnails/14fb2a24767b4d14fb2a24767f3b.jpg
     url: /files/original/14fb2a24767b4d14fb2a24767f3b.jpg
+    alt:
+      en: "Close-up of a black and white spaniel with long, wavy ears, looking up with mouth open as if smiling, set against a tan tiled background."
 geo:
   address: ''
   lat: 0.0

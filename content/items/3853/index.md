@@ -21,6 +21,8 @@ files:
     original_filename: 100_0146.JPG
     thumb: /files/thumbnails/14fb2a593d8f2914fb2a593d9310.jpg
     url: /files/original/14fb2a593d8f2914fb2a593d9310.jpg
+    alt:
+      en: "Floodwater submerges a house up to its roofline, with only the rooftop and gutters visible above the waterline, framed by pine tree branches and a partially submerged vehicle hood in the foreground."
 geo:
 id: 3853
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1371Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f59b3c9614fb29f59b407c.jpg
     url: /files/original/14fb29f59b3c9614fb29f59b407c.jpg
+    alt:
+      en: "Floodwaters nearly submerge a house up to its roofline, with a damaged white building and downed power lines in the background; a person stands in the water in the foreground."
 geo:
 id: 22530
 item_type: Still Image

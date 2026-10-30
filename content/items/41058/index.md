@@ -18,6 +18,8 @@ files:
     original_filename: post card 8_4d11b3c15f.JPG
     thumb: /files/thumbnails/14fb29c458cab214fb29c458ce98.jpg
     url: /files/original/14fb29c458cab214fb29c458ce98.jpg
+    alt:
+      en: "Handwritten index card describing a favorite po-boy sandwich with shrimp, French bread, ketchup, hot sauce, and French fries on the side, signed at the bottom."
 geo:
   address: ''
   lat: 0.0

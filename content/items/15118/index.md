@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5667_1c07ba3819.jpg
     thumb: /files/thumbnails/14fb2a170cb97814fb2a170cbd72.jpg
     url: /files/original/14fb2a170cb97814fb2a170cbd72.jpg
+    alt:
+      en: "Newspaper clipping of an obituary for Victor Minor, describing him as the oldest resident of Fazendeville, an 86-year-old farmer remembered for his industriousness and good standing among fellow citizens."
 geo:
 id: 15118
 item_type: Still Image

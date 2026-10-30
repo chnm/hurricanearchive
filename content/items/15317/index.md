@@ -20,6 +20,8 @@ files:
     original_filename: After Katrina_56b4c6b686.jpg
     thumb: /files/thumbnails/14fb2a1692141914fb2a169217f7.jpg
     url: /files/original/14fb2a1692141914fb2a169217f7.jpg
+    alt:
+      en: "A woman in a pink shirt, jeans, boots, and one orange glove stands amid storm debris in a gutted room with exposed ceiling joists and stripped, stained walls."
 geo:
 id: 15317
 item_type: Still Image

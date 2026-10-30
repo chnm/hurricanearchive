@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025H.JPG
     thumb: /files/thumbnails/14fb2a069765fe14fb2a069769db.jpg
     url: /files/original/14fb2a069765fe14fb2a069769db.jpg
+    alt:
+      en: "Woman wearing glasses and a Hooters tank top plays air hockey, while a man in camouflage military fatigues holding a drink can watches beside her, string lights glowing in the dark background."
 geo:
 id: 20508
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034engineers.JPG
     thumb: /files/thumbnails/14fb2a10967c5114fb2a10968037.jpg
     url: /files/original/14fb2a10967c5114fb2a10968037.jpg
+    alt:
+      en: "A camouflage-painted military truck with its door open, revealing a person in fatigues seated inside; a mounted cylindrical tank and trees are visible in the background."
 geo:
 id: 19394
 item_type: Still Image

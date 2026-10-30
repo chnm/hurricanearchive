@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0144-9-25.JPG
     thumb: /files/thumbnails/14fb2a0216036914fb2a02160743.jpg
     url: /files/original/14fb2a0216036914fb2a02160743.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with widespread storm damage, including downed trees, snapped utility poles with dangling power lines, and scattered debris among standing floodwaters."
 geo:
 id: 20905
 item_type: Still Image

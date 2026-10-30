@@ -23,6 +23,8 @@ files:
     original_filename: 1265937567_3c9e14d601.jpg
     thumb: /files/thumbnails/14fb29cb781e5714fb29cb78223e.jpg
     url: /files/original/14fb29cb781e5714fb29cb78223e.jpg
+    alt:
+      en: "A wrecked, overturned red and maroon airplane is tangled in bare trees amid storm debris, with a man in a green jumpsuit walking nearby to assess the damage."
 geo:
   address: ''
   lat: 30.36332

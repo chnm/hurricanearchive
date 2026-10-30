@@ -21,6 +21,8 @@ files:
     original_filename: AB Mardi Gras _c100815ef8.jpg
     thumb: /files/thumbnails/14fb29d963b31d14fb29d963b703.jpg
     url: /files/original/14fb29d963b31d14fb29d963b703.jpg
+    alt:
+      en: "Vintage black-and-white photo of a crowded Mardi Gras street scene in New Orleans, with costumed figures among onlookers and storefronts, including a \"National Shoe Shops\" sign, in the background."
 geo:
   address: ''
   lat: 29.87876

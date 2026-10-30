@@ -21,6 +21,8 @@ files:
     original_filename: 09210019J6.JPG
     thumb: /files/thumbnails/14fb29f988df4c14fb29f988e331.jpg
     url: /files/original/14fb29f988df4c14fb29f988e331.jpg
+    alt:
+      en: "Rusty metal crab traps and debris sit in overgrown grass near a waterway, with a barge and tugboat passing in the background amid storm-damaged, defoliated trees."
 geo:
 id: 22101
 item_type: Still Image

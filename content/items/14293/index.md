@@ -21,6 +21,8 @@ files:
     original_filename: aerials135.jpg
     thumb: /files/thumbnails/14fb2a1a0b302b14fb2a1a0b3311.jpg
     url: /files/original/14fb2a1a0b302b14fb2a1a0b3311.jpg
+    alt:
+      en: "Aerial view of a storm-damaged waterfront property reduced to a bare concrete foundation and scattered debris, surrounded by green grass, trees, and a paved walkway near water."
 geo:
 id: 14293
 item_type: Still Image

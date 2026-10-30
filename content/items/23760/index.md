@@ -21,6 +21,8 @@ files:
     original_filename: P1010201empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed39ca6b14fb29ed39ce51.jpg
     url: /files/original/14fb29ed39ca6b14fb29ed39ce51.jpg
+    alt:
+      en: "Floodwater covers a road and low-lying land scattered with storm debris, with damaged trees, downed power lines, and a utility pole standing partially submerged in the murky water."
 geo:
 id: 23760
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0024_a5871fe342.jpg
     thumb: /files/thumbnails/14fb29c250996d14fb29c2509d52.jpg
     url: /files/original/14fb29c250996d14fb29c2509d52.jpg
+    alt:
+      en: "Black-and-white photo of ornate wrought-iron balconies on a corner building in the French Quarter, draped with hanging plants, with street signs reading \"St. Philip\" and \"Royal\" below."
 geo:
 id: 43096
 item_type: Still Image

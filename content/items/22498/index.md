@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1339Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5d0211414fb29f5d024f0.jpg
     url: /files/original/14fb29f5d0211414fb29f5d024f0.jpg
+    alt:
+      en: "Severe flooding submerges a street with only power lines and poles visible above the murky water, under a heavy gray overcast sky with distant trees and rooftops barely visible."
 geo:
 id: 22498
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010067empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee68963c14fb29ee689a21.jpg
     url: /files/original/14fb29ee68963c14fb29ee689a21.jpg
+    alt:
+      en: "View from inside a military vehicle's cab along a paved highway, with downed power lines, fallen utility poles, flooded roadside vegetation, and a yellow excavator working in the distance."
 geo:
 id: 23626
 item_type: Still Image

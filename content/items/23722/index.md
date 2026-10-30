@@ -21,6 +21,8 @@ files:
     original_filename: P1010163empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed89d90514fb29ed89e7b3.jpg
     url: /files/original/14fb29ed89d90514fb29ed89e7b3.jpg
+    alt:
+      en: "A white wooden boat sits grounded amid murky floodwater and debris, surrounded by storm-damaged trees, with power lines crossing in front of the vessel."
 geo:
 id: 23722
 item_type: Still Image

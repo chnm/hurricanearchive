@@ -21,6 +21,8 @@ files:
     original_filename: 100_0165.JPG
     thumb: /files/thumbnails/14fb2a5926fd2214fb2a592700fb.jpg
     url: /files/original/14fb2a5926fd2214fb2a592700fb.jpg
+    alt:
+      en: "Floodwater submerges a neighborhood up to the rooflines of houses, with a utility pole rising from the water in the foreground and storm-damaged trees lining the background under a clear sky."
 geo:
 id: 3872
 item_type: Still Image

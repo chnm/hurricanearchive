@@ -21,6 +21,8 @@ files:
     original_filename: DSC00960.JPG
     thumb: /files/thumbnails/14fb2a58d00e1514fb2a58d011fb.jpg
     url: /files/original/14fb2a58d00e1514fb2a58d011fb.jpg
+    alt:
+      en: "A U.S. Coast Guard member in a cap and body armor holds a rifle beside a waterway, with a helicopter on the grassy shore behind him; timestamp reads 5:02 PM."
 geo:
 id: 3941
 item_type: Still Image

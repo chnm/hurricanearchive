@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eb27464f14fb29eb274a12.jpg
     url: /files/original/14fb29eb27464f14fb29eb274a12.jpg
+    alt:
+      en: "Group of military personnel in camouflage and tan uniforms gathered outside a brick building near a cargo truck, with a man in a black \"Sheriff\" shirt standing among them."
 geo:
 id: 24059
 item_type: Still Image

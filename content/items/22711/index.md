@@ -21,6 +21,8 @@ files:
     original_filename: PICT0609Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f482eadc14fb29f482eec1.jpg
     url: /files/original/14fb29f482eadc14fb29f482eec1.jpg
+    alt:
+      en: "Waterfront view with a wide river, distant tree line, and hazy city skyline with cranes; foreground shows overgrown shrubs, debris, and a paved path, timestamped 09.15.2005."
 geo:
 id: 22711
 item_type: Still Image

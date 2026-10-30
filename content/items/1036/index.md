@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28338.jpg
     thumb: /files/thumbnails/14fb2a6b4deb4914fb2a6b4df232.jpg
     url: /files/original/14fb2a6b4deb4914fb2a6b4df232.jpg
+    alt:
+      en: "Twisted, mangled metal boat or barge wreckage lies in the dirt amid storm debris, with bare trees and damaged buildings visible in the background."
 geo:
   address: ''
   lat: 0.0

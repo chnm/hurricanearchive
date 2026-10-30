@@ -24,6 +24,8 @@ files:
     original_filename: P1010009.JPG
     thumb: /files/thumbnails/14fb2a5bba3aad14fb2a5bba3e84.jpg
     url: /files/original/14fb2a5bba3aad14fb2a5bba3e84.jpg
+    alt:
+      en: "Damaged wooden furniture, including dressers and a roll-top desk, piled along a curbside grass strip, with a blue-tarped roof visible on a house in the background."
 geo:
 id: 3440
 item_type: Still Image

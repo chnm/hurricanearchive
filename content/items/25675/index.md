@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.069.JPG
     thumb: /files/thumbnails/14fb29dcbf2e0614fb29dcbf32c7.jpg
     url: /files/original/14fb29dcbf2e0614fb29dcbf32c7.jpg
+    alt:
+      en: "A storm-damaged white building with peeling blue shutters and a twisted metal window frame hanging loose above a metal roof awning reading \"Salads Poboys Muffalettas Free Delivery 482-2376.\""
 geo:
 id: 25675
 item_type: Still Image

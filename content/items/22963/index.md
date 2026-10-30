@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0211deadymedia.JPG
     thumb: /files/thumbnails/14fb29f2666cff14fb29f26670e4.jpg
     url: /files/original/14fb29f2666cff14fb29f26670e4.jpg
+    alt:
+      en: "A man in military camouflage uniform and black beret with insignia stands outdoors, with bleachers and a white press box visible in the background."
 geo:
 id: 22963
 item_type: Still Image

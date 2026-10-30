@@ -20,6 +20,8 @@ files:
     original_filename: 2298615014_a0288f4c97.
     thumb: /files/thumbnails/14fb29c77d579b14fb29c77d5bab.jpg
     url: /files/original/14fb29c77d579b14fb29c77d5bab.jpg
+    alt:
+      en: "Young man wearing a black bicycle helmet and white t-shirt sits on a tan couch, looking down with a slight smile in a dimly lit room."
 geo:
 id: 35009
 item_type: Still Image

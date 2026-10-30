@@ -23,6 +23,8 @@ files:
     original_filename: 2326960682_29beb8bd0a.
     thumb: /files/thumbnails/14fb29ca0cbd7a14fb29ca0cc15d.jpg
     url: /files/original/14fb29ca0cbd7a14fb29ca0cc15d.jpg
+    alt:
+      en: "A large white and blue boat sits grounded against a bare tree in front of a damaged building, with debris scattered on the ground below."
 geo:
   address: ''
   lat: 30.22652

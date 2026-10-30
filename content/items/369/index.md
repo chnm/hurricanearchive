@@ -26,6 +26,8 @@ files:
     original_filename: No_one_likes_White_Bread_II_d2faa651b3.jpg
     thumb: /files/thumbnails/14fb2a7024a84e14fb2a7024ac40.jpg
     url: /files/original/14fb2a7024a84e14fb2a7024ac40.jpg
+    alt:
+      en: "Grocery store aisle with mostly bare bread shelves, only a few loaves remaining, as a man in a blue shirt and shorts walks past and other shoppers browse nearby."
 geo:
   address: ''
   lat: 30.6193002515347

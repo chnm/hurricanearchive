@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044media.JPG
     thumb: /files/thumbnails/14fb29f298b33e14fb29f298b9aa.jpg
     url: /files/original/14fb29f298b33e14fb29f298b9aa.jpg
+    alt:
+      en: "Two soldiers in camouflage fatigues with tactical vests stand between a man in a striped shirt and a woman in a black top, posing beside military trucks under tree-lined street."
 geo:
 id: 22938
 item_type: Still Image

@@ -18,6 +18,8 @@ files:
     original_filename: 2_3a7966ca42.jpg
     thumb: /files/thumbnails/14fb29c756f97a14fb29c756fd6b.jpg
     url: /files/original/14fb29c756f97a14fb29c756fd6b.jpg
+    alt:
+      en: "A man in a cap, sunglasses, blue t-shirt, and shorts stands on a raised porch with red steps and railings, holding a yellow bag, in front of a light blue house with shuttered windows numbered 614."
 geo:
   address: Poland St, New Orleans, la
   lat: 29.96059

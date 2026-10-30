@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0099-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e788a3bd14fb29e788a7a2.jpg
     url: /files/original/14fb29e788a3bd14fb29e788a7a2.jpg
+    alt:
+      en: "Cattle stand and lie along a flooded roadside pasture with egrets nearby, a metal gate and tree line visible in the background under an overcast sky."
 geo:
 id: 24463
 item_type: Still Image

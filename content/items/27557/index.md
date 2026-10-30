@@ -24,6 +24,8 @@ files:
     original_filename: IMG_6440_ea75715cee.jpg
     thumb: /files/thumbnails/14fb29d36c43f614fb29d36c4820.jpg
     url: /files/original/14fb29d36c43f614fb29d36c4820.jpg
+    alt:
+      en: "Two young women in white dance uniforms and caps, one wearing a purple sash reading \"SENIOR,\" stand on a sidewalk near colorful Mardi Gras parade floats and houses."
 geo:
   address: ''
   lat: 29.87876

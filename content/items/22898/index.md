@@ -21,6 +21,8 @@ files:
     original_filename: DSC00827media.JPG
     thumb: /files/thumbnails/14fb29f2d8f4fe14fb29f2d8fd9b.jpg
     url: /files/original/14fb29f2d8f4fe14fb29f2d8fd9b.jpg
+    alt:
+      en: "A reporter in a shirt and tie holds a \"9\" news station microphone toward a military officer in camouflage fatigues, interviewing him in an indoor space with folding chairs and tables."
 geo:
 id: 22898
 item_type: Still Image

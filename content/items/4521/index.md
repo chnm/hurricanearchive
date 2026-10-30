@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0733.JPG
     thumb: /files/thumbnails/14fb2a5713679d14fb2a57136b7c.jpg
     url: /files/original/14fb2a5713679d14fb2a57136b7c.jpg
+    alt:
+      en: "Interior of a storm-damaged house with the ceiling collapsed, exposing roof joists and insulation; a door and debris lean against a washer/dryer amid wreckage and a green-painted wall."
 geo:
 id: 4521
 item_type: Still Image

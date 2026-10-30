@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0065M.JPG
     thumb: /files/thumbnails/14fb2a04390e8e14fb2a04391228.jpg
     url: /files/original/14fb2a04390e8e14fb2a04391228.jpg
+    alt:
+      en: "A soldier in camouflage fatigues, wearing glasses, prepares medical supplies including vials and syringe packaging on a white table, with other uniformed personnel visible in the background."
 geo:
 id: 20728
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 001.jpg
     thumb: /files/thumbnails/14fb2a59feae3c14fb2a59feb51d.jpg
     url: /files/original/14fb2a59feae3c14fb2a59feb51d.jpg
+    alt:
+      en: "Cleared lot with scattered storm debris and bare, damaged trees along the tree line, a yellow fire hydrant in the foreground grass, and a paved road under a clear blue sky."
 geo:
 id: 3721
 item_type: Still Image

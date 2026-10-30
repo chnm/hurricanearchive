@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0115OEP.JPG
     thumb: /files/thumbnails/14fb29f18b972e14fb29f18b9b15.jpg
     url: /files/original/14fb29f18b972e14fb29f18b9b15.jpg
+    alt:
+      en: "Office cubicle setting with four people seated: a woman in an orange shirt holding a soda can, two men and a woman in military camouflage uniforms, surrounded by desks, computer monitors, and paperwork."
 geo:
 id: 23105
 item_type: Still Image

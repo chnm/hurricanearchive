@@ -21,6 +21,8 @@ files:
     original_filename: FH000028.jpg
     thumb: /files/thumbnails/14fb29fc5c9e4414fb29fc5ca233.jpg
     url: /files/original/14fb29fc5c9e4414fb29fc5ca233.jpg
+    alt:
+      en: "A one-story brick house with a collapsed, displaced roof section and an overturned dark pickup truck in the yard, surrounded by dried mud, debris, and a dead lawn, photographed from a vehicle."
 geo:
 id: 21700
 item_type: Still Image

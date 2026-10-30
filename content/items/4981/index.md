@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0326.JPG
     thumb: /files/thumbnails/14fb2a54a543c614fb2a54a549bf.jpg
     url: /files/original/14fb2a54a543c614fb2a54a549bf.jpg
+    alt:
+      en: "Close-up of storm-damaged roof edge showing exposed wooden beams, torn shingles, and bent metal flashing where the fascia and gutter have pulled away from the structure."
 geo:
 id: 4981
 item_type: Still Image

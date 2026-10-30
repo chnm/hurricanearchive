@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1357Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5b61acc14fb29f5b61e2d.jpg
     url: /files/original/14fb29f5b61acc14fb29f5b61e2d.jpg
+    alt:
+      en: "Floodwater submerges low buildings labeled \"FMS #13,\" with only rooftops and a red-and-white striped awning visible above the water under a heavy gray storm sky."
 geo:
 id: 22516
 item_type: Still Image

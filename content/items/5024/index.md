@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0369.JPG
     thumb: /files/thumbnails/14fb2a54602fea14fb2a546033ce.jpg
     url: /files/original/14fb2a54602fea14fb2a546033ce.jpg
+    alt:
+      en: "Storm-damaged property with a stripped wood-frame structure labeled \"301,\" surrounded by debris, bare trees, and scattered insulation on a gravel and grass lot."
 geo:
 id: 5024
 item_type: Still Image

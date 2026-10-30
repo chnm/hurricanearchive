@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_CarlRobinson_01_a10877db0c.jpg
     thumb: /files/thumbnails/14fb2a181aac3914fb2a181ab01e.jpg
     url: /files/original/14fb2a181aac3914fb2a181ab01e.jpg
+    alt:
+      en: "A child in a red outfit and blue jacket stands on a snow-dusted lawn decorated with lighted Christmas ornaments, arms outstretched, in front of a house; dated 12/26/04."
 geo:
 id: 14697
 item_type: Still Image

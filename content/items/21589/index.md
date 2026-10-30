@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0323-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd5cd35b14fb29fd5ce0a1.jpg
     url: /files/original/14fb29fd5cd35b14fb29fd5ce0a1.jpg
+    alt:
+      en: "Aerial view of a flooded property with a white-roofed building and an above-ground pool with wooden deck surrounded by murky floodwater and partially submerged trees."
 geo:
 id: 21589
 item_type: Still Image

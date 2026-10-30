@@ -26,6 +26,8 @@ files:
     original_filename: Rita_037_454a30880c.jpg
     thumb: /files/thumbnails/14fb2a6f59a45c14fb2a6f59a810.jpg
     url: /files/original/14fb2a6f59a45c14fb2a6f59a810.jpg
+    alt:
+      en: "A large gymnasium building with a curved roof and rows of windows, its upper wall section exposed to open framing; a boom lift is positioned against the exterior wall beside a white work van."
 geo:
   address: ''
   lat: 30.69986

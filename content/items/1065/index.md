@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28236.jpg
     thumb: /files/thumbnails/14fb2a6b377f1714fb2a6b3782fc.jpg
     url: /files/original/14fb2a6b377f1714fb2a6b3782fc.jpg
+    alt:
+      en: "Two men wearing volunteer vests and name badges sit on a wooden platform and in a wheelchair beside a plastic-draped structure, one man in sunglasses and a cap, the other clapping his hands."
 geo:
   address: ''
   lat: 0.0

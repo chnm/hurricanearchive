@@ -21,6 +21,8 @@ files:
     original_filename: Air-Sea Rescue New Orleanssuperdome.jpg
     thumb: /files/thumbnails/14fb29e544aa3914fb29e544adfd.jpg
     url: /files/original/14fb29e544aa3914fb29e544adfd.jpg
+    alt:
+      en: "A military helicopter hovers low over a parking lot at dusk, its rotors blurred in motion, silhouetted against a pink and gray sunset sky with trees and streetlights below."
 geo:
 id: 24740
 item_type: Still Image

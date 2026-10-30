@@ -21,6 +21,8 @@ files:
     original_filename: Picture 048cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c00fc2c14fb2a0c010004.jpg
     url: /files/original/14fb2a0c00fc2c14fb2a0c010004.jpg
+    alt:
+      en: "Brick church with arched stained-glass windows stands behind large oak trees; two people stand near hedges littered with fallen branches and dried leaves in the foreground."
 geo:
 id: 19951
 item_type: Still Image

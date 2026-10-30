@@ -21,6 +21,8 @@ files:
     original_filename: 527chinookPicture1rescuehelicopter.png
     thumb: /files/thumbnails/14fb2a1542cece14fb2a1542d2aa.jpg
     url: /files/original/14fb2a1542cece14fb2a1542d2aa.jpg
+    alt:
+      en: "A military helicopter marked with a red cross sits on a rooftop, with several uniformed personnel standing and sitting nearby, one coiling a rescue hoist cable."
 geo:
 id: 18780
 item_type: Still Image

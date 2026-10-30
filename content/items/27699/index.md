@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6616_22583067d9.JPG
     thumb: /files/thumbnails/14fb29d2d0070314fb29d2d00ceb.jpg
     url: /files/original/14fb29d2d0070314fb29d2d00ceb.jpg
+    alt:
+      en: "Black-and-white street scene of a young woman in an elaborate costume dress and floral headpiece, surrounded by a crowd near café chairs and a multi-story building with balconies, a \"HOTEL\" sign visible nearby."
 geo:
   address: ''
   lat: 29.87876

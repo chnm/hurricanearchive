@@ -21,6 +21,8 @@ files:
     original_filename: Aftermath at Jack BrksJacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f93e040f14fb29f93e07f3.jpg
     url: /files/original/14fb29f93e040f14fb29f93e07f3.jpg
+    alt:
+      en: "A storm-damaged black pickup truck with doors open sits buried in tree debris near a snapped, splintered tree trunk, with scattered litter and wooden boards on the ground, dated 09.15.2005."
 geo:
 id: 22175
 item_type: Still Image

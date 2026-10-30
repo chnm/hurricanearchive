@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TylerColeman_01_571ec0154e.jpg
     thumb: /files/thumbnails/14fb2a164b67d114fb2a164b6b3d.jpg
     url: /files/original/14fb2a164b67d114fb2a164b6b3d.jpg
+    alt:
+      en: "A young boy in a dark sweater and school uniform sits smiling on a small chair, next to a bookshelf of children's books and a table with stuffed animal puppets."
 geo:
 id: 15453
 item_type: Still Image

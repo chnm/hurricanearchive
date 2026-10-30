@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0015.JPG
     thumb: /files/thumbnails/14fb2a5785ed9214fb2a5785f178.jpg
     url: /files/original/14fb2a5785ed9214fb2a5785f178.jpg
+    alt:
+      en: "Overturned vehicle and scattered debris in the foreground, with a large gravel pile, parked trucks, and boat masts visible across a roadway in the background."
 geo:
 id: 4129
 item_type: Still Image

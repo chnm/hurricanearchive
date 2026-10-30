@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7471.JPG
     thumb: /files/thumbnails/14fb29cc948a4a14fb29cc948e30.jpg
     url: /files/original/14fb29cc948a4a14fb29cc948e30.jpg
+    alt:
+      en: "View from inside a moving vehicle on a highway, showing the seatbelt, door pillar, and side mirror, with green roadside trees, grass, and other traffic visible through the windows."
 geo:
 id: 30758
 item_type: Still Image

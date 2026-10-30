@@ -21,6 +21,8 @@ files:
     original_filename: 213 blinds.jpg
     thumb: /files/thumbnails/14fb2a1f37840514fb2a1f3787ea.jpg
     url: /files/original/14fb2a1f37840514fb2a1f3787ea.jpg
+    alt:
+      en: "Damaged venetian blinds hang twisted and bent, their slats crumpled and askew, against a dark background with wood trim visible at the edges."
 geo:
 id: 13219
 item_type: Still Image

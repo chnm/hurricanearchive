@@ -21,6 +21,8 @@ files:
     original_filename: 149 why flash is bad in hurricane.jpg
     thumb: /files/thumbnails/14fb2a1fd44bc014fb2a1fd48d5a.jpg
     url: /files/original/14fb2a1fd44bc014fb2a1fd48d5a.jpg
+    alt:
+      en: "A dark, grainy photo obscured by heavy rain or dust illuminated by camera flash, with faint outlines of a ceiling corner and floor visible in low light."
 geo:
 id: 13159
 item_type: Still Image

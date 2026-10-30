@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0614.JPG
     thumb: /files/thumbnails/14fb2a565da79c14fb2a565dab82.jpg
     url: /files/original/14fb2a565da79c14fb2a565dab82.jpg
+    alt:
+      en: "Collapsed roofing debris with rusted corrugated metal panels scattered on a grassy lot, surrounded by trees with a trailer visible in the background."
 geo:
 id: 4663
 item_type: Still Image

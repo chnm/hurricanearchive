@@ -21,6 +21,8 @@ files:
     original_filename: 40.jpg
     thumb: /files/thumbnails/14fb2a6058bdc214fb2a6058c19e.jpg
     url: /files/original/14fb2a6058bdc214fb2a6058c19e.jpg
+    alt:
+      en: "Child's crayon drawing of a girl with a ponytail wearing a purple dress labeled \"Baby GAP,\" with handwritten text reading \"I love A.D. and Texas\" and signed \"Kermian, 11\" in the corner."
 geo:
 id: 2744
 item_type: Still Image

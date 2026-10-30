@@ -21,6 +21,8 @@ files:
     original_filename: fairmont_d20d70b540.jpg
     thumb: /files/thumbnails/14fb29d5c54e9914fb29d5c5527e.jpg
     url: /files/original/14fb29d5c54e9914fb29d5c5527e.jpg
+    alt:
+      en: "Silhouetted figures walk through a hotel lobby decorated with illuminated, snow-flocked Christmas trees and strings of lights arching overhead, set on a patterned carpet."
 geo:
   address: 123 baronne st
   lat: 29.95404

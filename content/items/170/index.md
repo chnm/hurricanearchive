@@ -26,6 +26,8 @@ files:
     original_filename: katrina1_429f446257.jpg
     thumb: /files/thumbnails/14fb2a70c16c1414fb2a70c1730a.jpg
     url: /files/original/14fb2a70c16c1414fb2a70c1730a.jpg
+    alt:
+      en: "Smoldering debris and collapsed structures fill a destroyed dock area, with distant city skyline visible through haze under a pale sky."
 geo:
   address: ''
   lat: 29.9622592606983

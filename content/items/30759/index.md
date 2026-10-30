@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7473.JPG
     thumb: /files/thumbnails/14fb29cc93e64c14fb29cc93ea29.jpg
     url: /files/original/14fb29cc93e64c14fb29cc93ea29.jpg
+    alt:
+      en: "Downed trees and tangled branches block a wooded path, with a large trunk leaning across the trail and power lines visible overhead amid storm-damaged foliage."
 geo:
 id: 30759
 item_type: Still Image

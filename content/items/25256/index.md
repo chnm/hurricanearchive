@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1983superdome.JPG
     thumb: /files/thumbnails/14fb29e01cbc6614fb29e01cc1a6.jpg
     url: /files/original/14fb29e01cbc6614fb29e01cc1a6.jpg
+    alt:
+      en: "A military Chinook helicopter with rotors spinning sits on a wet rooftop helipad, with supply boxes nearby and a multi-story building reading \"Delgado Community College\" in the background."
 geo:
 id: 25256
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-003S.JPG
     thumb: /files/thumbnails/14fb2a5fdecffc14fb2a5fdeda98.jpg
     url: /files/original/14fb2a5fdecffc14fb2a5fdeda98.jpg
+    alt:
+      en: "Rows of stacked bunk beds with dark teal canvas mattresses, suspended by chains from metal frames, fill a dimly lit room with support columns and overhead pipes."
 geo:
 id: 2846
 item_type: Still Image

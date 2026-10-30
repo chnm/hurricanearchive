@@ -21,6 +21,8 @@ files:
     original_filename: Picture 041engineers.jpg
     thumb: /files/thumbnails/14fb2a0fcad8e814fb2a0fcadccc.jpg
     url: /files/original/14fb2a0fcad8e814fb2a0fcadccc.jpg
+    alt:
+      en: "Aerial view of a flooded city downtown, with streets and parking lots submerged in dark water, elevated highways curving through the scene, and multiple high-rise buildings surrounded by floodwater."
 geo:
 id: 19481
 item_type: Still Image

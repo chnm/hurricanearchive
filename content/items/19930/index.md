@@ -21,6 +21,8 @@ files:
     original_filename: Picture 026cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c5a633514fb2a0c5a6474.jpg
     url: /files/original/14fb2a0c5a633514fb2a0c5a6474.jpg
+    alt:
+      en: "Red utility truck parked near a brick building, with a graffiti-tagged utility box, fallen tree branches, and scattered dry leaves covering the lawn and sidewalk."
 geo:
 id: 19930
 item_type: Still Image

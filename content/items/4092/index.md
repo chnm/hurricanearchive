@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1006.JPG
     thumb: /files/thumbnails/14fb2a57dca19514fb2a57dca764.jpg
     url: /files/original/14fb2a57dca19514fb2a57dca764.jpg
+    alt:
+      en: "Several uniformed personnel in dark blue stand outside a two-story building with green shutters, near parked trucks and a metal staircase; debris and a \"No Parking\" sign are visible on the ground."
 geo:
 id: 4092
 item_type: Still Image

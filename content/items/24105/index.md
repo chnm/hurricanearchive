@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea9a6eab14fb29ea9a728f.jpg
     url: /files/original/14fb29ea9a6eab14fb29ea9a728f.jpg
+    alt:
+      en: "Aerial view of a flooded coastal landscape with marshy grasslands, a narrow raised levee or road running diagonally, and patches of water, mud, and silt covering the terrain."
 geo:
 id: 24105
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0770.JPG
     thumb: /files/thumbnails/14fb2a56fb872914fb2a56fb8b11.jpg
     url: /files/original/14fb2a56fb872914fb2a56fb8b11.jpg
+    alt:
+      en: "A severely damaged building with an exposed wooden roof frame and torn shingles, elevated on stilts, with palm trees and debris scattered on the ground below under an overcast sky."
 geo:
 id: 4568
 item_type: Still Image

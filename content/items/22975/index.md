@@ -21,6 +21,8 @@ files:
     original_filename: Steph and Frank over New Orleansmedia.jpg
     thumb: /files/thumbnails/14fb29f25ba18e14fb29f25ba574.jpg
     url: /files/original/14fb29f25ba18e14fb29f25ba574.jpg
+    alt:
+      en: "Two people wearing green aviation headsets with boom microphones sit inside a helicopter, one speaking into a mic while the other holds a handheld radio, with a city skyline visible through the window."
 geo:
 id: 22975
 item_type: Still Image

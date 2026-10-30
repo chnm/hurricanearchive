@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27870.jpg
     thumb: /files/thumbnails/14fb2a6b98e04c14fb2a6b98e431.jpg
     url: /files/original/14fb2a6b98e04c14fb2a6b98e431.jpg
+    alt:
+      en: "A man stands in floodwater holding a handwritten sign reading \"Forget smoke free, we want water free,\" with a chain-link fence and flooded structures behind him."
 geo:
   address: ''
   lat: 0.0

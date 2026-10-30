@@ -21,6 +21,8 @@ files:
     original_filename: Picture 224cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b28f4bb14fb2a0b28f8a0.jpg
     url: /files/original/14fb2a0b28f4bb14fb2a0b28f8a0.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand near a large fallen tree blocking a residential driveway, with houses and debris-covered lawns in the background under a clear blue sky."
 geo:
 id: 20127
 item_type: Still Image

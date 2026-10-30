@@ -21,6 +21,8 @@ files:
     original_filename: 100_0102.JPG
     thumb: /files/thumbnails/14fb2a59672bde14fb2a59672f69.jpg
     url: /files/original/14fb2a59672bde14fb2a59672f69.jpg
+    alt:
+      en: "A metal lattice tower and railed platform stand beside a red overturned boat hull, with piles of storm debris, scattered trash, and people walking across a grassy field in the background."
 geo:
 id: 3816
 item_type: Still Image

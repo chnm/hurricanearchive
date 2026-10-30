@@ -18,6 +18,8 @@ files:
     original_filename: 48_6be7bd0ef7.jpg
     thumb: /files/thumbnails/14fb29c6aaec0714fb29c6aaefd1.jpg
     url: /files/original/14fb29c6aaec0714fb29c6aaefd1.jpg
+    alt:
+      en: "Sepia-toned photo of three people in costume at a party, with a man sporting an exaggerated fake mustache and large furry hat, two women beside him, standing before a painted mountain mural."
 geo:
   address: new orleans, la
   lat: 29.95324

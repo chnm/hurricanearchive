@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1322Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f60aa87b14fb29f60aac60.jpg
     url: /files/original/14fb29f60aa87b14fb29f60aac60.jpg
+    alt:
+      en: "Floodwaters submerge a utility pole with an \"Alpha\" electrical box and a partially floating metal structure, with trees and houses visible in the background under a gray sky."
 geo:
 id: 22481
 item_type: Still Image

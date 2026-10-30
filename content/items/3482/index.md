@@ -24,6 +24,8 @@ files:
     original_filename: P1010056.JPG
     thumb: /files/thumbnails/14fb2a5b88fd6514fb2a5b89014b.jpg
     url: /files/original/14fb2a5b88fd6514fb2a5b89014b.jpg
+    alt:
+      en: "Two large storm-damaged trees with broken branches and dried leaves lean between a brick house and a pale yellow house, debris scattered across the yard below."
 geo:
 id: 3482
 item_type: Still Image

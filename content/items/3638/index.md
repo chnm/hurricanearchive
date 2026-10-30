@@ -24,6 +24,8 @@ files:
     original_filename: P1010073.JPG
     thumb: /files/thumbnails/14fb2a5a8691cb14fb2a5a869a13.jpg
     url: /files/original/14fb2a5a8691cb14fb2a5a869a13.jpg
+    alt:
+      en: "Interior room with walls heavily stained by mold and water damage, floor covered in thick dried mud and debris, with overturned furniture and plastic bins scattered throughout."
 geo:
 id: 3638
 item_type: Still Image

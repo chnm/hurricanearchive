@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (52).JPG
     thumb: /files/thumbnails/14fb2a5d5c628814fb2a5d5c6a4f.jpg
     url: /files/original/14fb2a5d5c628814fb2a5d5c6a4f.jpg
+    alt:
+      en: "A mattress discarded on a grassy median along streetcar tracks, flanked by bollards, with overhead power lines, a \"No Left Turn\" sign, and houses lining the street in the background."
 geo:
 id: 3203
 item_type: Still Image

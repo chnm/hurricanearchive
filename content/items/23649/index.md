@@ -21,6 +21,8 @@ files:
     original_filename: P1010090empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee1765f814fb29ee1769dd.jpg
     url: /files/original/14fb29ee1765f814fb29ee1769dd.jpg
+    alt:
+      en: "A man in camouflage pants and a brown t-shirt with red-tinted sunglasses stands on a debris-covered road flooded on both sides, with leaning utility poles and a partially submerged vehicle visible in the background."
 geo:
 id: 23649
 item_type: Still Image

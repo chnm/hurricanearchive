@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0016.JPG
     thumb: /files/thumbnails/14fb2a1bb5ca8d14fb2a1bb5ce71.jpg
     url: /files/original/14fb2a1bb5ca8d14fb2a1bb5ce71.jpg
+    alt:
+      en: "Rows of military trucks and vehicles, some in desert tan and others in green camouflage, parked on a grassy lot beneath a cloudy sky, with power lines and a red fire hydrant in the foreground."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 19.jpg
     thumb: /files/thumbnails/14fb29f099a2b414fb29f099a69b.jpg
     url: /files/original/14fb29f099a2b414fb29f099a69b.jpg
+    alt:
+      en: "Satellite image of a large hurricane with a well-defined eye over the Gulf of Mexico, nearing the Louisiana and Florida coastlines, dated 28 Aug 2005 20:02 GMT / 04:02 PM EDT, credited to The Weather Channel."
 geo:
 id: 23226
 item_type: Still Image

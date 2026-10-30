@@ -21,6 +21,8 @@ files:
     original_filename: FH000009.jpg
     thumb: /files/thumbnails/14fb29fca1033714fb29fca10966.jpg
     url: /files/original/14fb29fca1033714fb29fca10966.jpg
+    alt:
+      en: "Large black pot filled with rice and sausage being stirred with a long-handled paddle, set on gravel ground near a metal lid and person in shorts."
 geo:
 id: 21674
 item_type: Still Image

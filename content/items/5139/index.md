@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0501.JPG
     thumb: /files/thumbnails/14fb2a53ca34fe14fb2a53ca38ed.jpg
     url: /files/original/14fb2a53ca34fe14fb2a53ca38ed.jpg
+    alt:
+      en: "A metal bracket anchors a wooden board to a structure's base, surrounded by dry grass, pine needles, and a pinecone on the ground."
 geo:
 id: 5139
 item_type: Still Image

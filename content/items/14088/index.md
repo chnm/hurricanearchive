@@ -21,6 +21,8 @@ files:
     original_filename: CH(LTC) Reynolds.JPG
     thumb: /files/thumbnails/14fb2a1bd3541514fb2a1bd35906.jpg
     url: /files/original/14fb2a1bd3541514fb2a1bd35906.jpg
+    alt:
+      en: "A man in U.S. Army desert camouflage uniform with a name tape reading \"REYNOLDS\" and a chaplain's cross insignia stands indoors; timestamp reads 09.20.2005 17:13."
 geo:
   address: ''
   lat: 0.0

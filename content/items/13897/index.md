@@ -20,6 +20,8 @@ files:
     original_filename: 083_83_3ae2b0a8c3.JPG
     thumb: /files/thumbnails/14fb2a1c7ca58c14fb2a1c7ca985.jpg
     url: /files/original/14fb2a1c7ca58c14fb2a1c7ca985.jpg
+    alt:
+      en: "Volunteers in protective suits and masks carry a mattress past a large appliance on a porch, with a chain-link fence sign reading \"United Church of Christ Disaster Response\" in the foreground."
 geo:
 id: 13897
 item_type: Still Image

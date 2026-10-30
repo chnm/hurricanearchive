@@ -21,6 +21,8 @@ files:
     original_filename: Wedding_Pictures__40__49d26892ba.jpg
     thumb: /files/thumbnails/14fb29d5be672e14fb29d5be6b13.jpg
     url: /files/original/14fb29d5be672e14fb29d5be6b13.jpg
+    alt:
+      en: "Stephen Minor in a white tuxedo with a pink boutonnière stands beside his bride Tiffany, who wears a white dress and earrings, with a lit candle visible in the foreground."
 geo:
 id: 27021
 item_type: Still Image

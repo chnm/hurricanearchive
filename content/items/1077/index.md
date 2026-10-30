@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28076.jpg
     thumb: /files/thumbnails/14fb2a6b2ad78f14fb2a6b2adb34.jpg
     url: /files/original/14fb2a6b2ad78f14fb2a6b2adb34.jpg
+    alt:
+      en: "A fallen drive-thru menu sign, its glass panel cracked and frame rusted, lies toppled on a curb near an empty parking lot, with a damaged business sign visible in the background."
 geo:
   address: ''
   lat: 0.0

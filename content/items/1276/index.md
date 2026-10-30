@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28281.jpg
     thumb: /files/thumbnails/14fb2a69e4d92314fb2a69e4dee3.jpg
     url: /files/original/14fb2a69e4d92314fb2a69e4dee3.jpg
+    alt:
+      en: "Four people stand on a gravel lot in front of a severely storm-damaged building stripped to its wooden frame, with a large tree and scattered debris nearby."
 geo:
   address: ''
   lat: 0.0

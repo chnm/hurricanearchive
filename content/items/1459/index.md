@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28023.jpg
     thumb: /files/thumbnails/14fb2a6892ebfa14fb2a6892efce.jpg
     url: /files/original/14fb2a6892ebfa14fb2a6892efce.jpg
+    alt:
+      en: "Damaged homes with collapsed walls and debris stand beyond a large expanse of crushed gravel, with a faint mark scratched into the ground in the foreground."
 geo:
   address: ''
   lat: 0.0

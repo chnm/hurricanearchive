@@ -21,6 +21,8 @@ files:
     original_filename: P1010167empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed6e445f14fb29ed6e4845.jpg
     url: /files/original/14fb29ed6e445f14fb29ed6e4845.jpg
+    alt:
+      en: "Murky floodwater surrounds dead trees and reflects their bare branches, with a muddy, debris-strewn shoreline and scattered dry grasses in the foreground."
 geo:
 id: 23726
 item_type: Still Image

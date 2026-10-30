@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0074OEP.JPG
     thumb: /files/thumbnails/14fb29f1a80b0d14fb29f1a80f0e.jpg
     url: /files/original/14fb29f1a80b0d14fb29f1a80f0e.jpg
+    alt:
+      en: "Outdoors under a canopy, a man in a white T-shirt holds a microphone while interviewing a man in camouflage uniform, as a woman films with a video camera nearby."
 geo:
 id: 23064
 item_type: Still Image

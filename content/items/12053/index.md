@@ -20,6 +20,8 @@ files:
     original_filename: jrspictures003_2b7d16d768.jpg
     thumb: /files/thumbnails/14fb2a224bbfe014fb2a224bc2b0.jpg
     url: /files/original/14fb2a224bbfe014fb2a224bc2b0.jpg
+    alt:
+      en: "Gutted house interior with exposed wall studs and wiring on the lower level, beneath an intact upper-floor wooden balcony railing and pink-painted walls."
 geo:
   address: Eden Isles
   lat: 30.22666

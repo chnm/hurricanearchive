@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0368-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fce6410314fb29fce644e7.jpg
     url: /files/original/14fb29fce6410314fb29fce644e7.jpg
+    alt:
+      en: "Two people lean over the open tailgate of a pickup truck, studying a folded road map spread before them, with parked vehicles and trees in the background."
 geo:
 id: 21636
 item_type: Still Image

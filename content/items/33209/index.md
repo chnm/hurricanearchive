@@ -20,6 +20,8 @@ files:
     original_filename: 1282477328_cd989e1121.jpg
     thumb: /files/thumbnails/14fb29cb8c534b14fb29cb8c5732.jpg
     url: /files/original/14fb29cb8c534b14fb29cb8c5732.jpg
+    alt:
+      en: "A man sits atop a large pile of storm debris—broken furniture, mattresses, and wood scraps—in front of a damaged brick house with a tree beside it."
 geo:
 id: 33209
 item_type: Still Image

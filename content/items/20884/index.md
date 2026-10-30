@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0139-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a022a770f14fb2a022a7f86.jpg
     url: /files/original/14fb2a022a770f14fb2a022a7f86.jpg
+    alt:
+      en: "Aerial view of a school complex with storm-damaged roofs and scattered debris, its flooded football field and track visible behind, surrounded by a vast expanse of floodwater."
 geo:
 id: 20884
 item_type: Still Image

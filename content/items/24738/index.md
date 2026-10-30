@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-26-24Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e548df5014fb29e548e336.jpg
     url: /files/original/14fb29e548df5014fb29e548e336.jpg
+    alt:
+      en: "Rooftop parking area with two military helicopters and uniformed personnel in the background, a third helicopter flying nearby, and stacked cases of bottled water in the foreground."
 geo:
 id: 24738
 item_type: Still Image

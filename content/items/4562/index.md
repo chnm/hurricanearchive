@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0764.JPG
     thumb: /files/thumbnails/14fb2a570005a114fb2a57000980.jpg
     url: /files/original/14fb2a570005a114fb2a57000980.jpg
+    alt:
+      en: "Rows of storm-damaged building frames and stripped, broken trees line a debris-strewn dirt road, with scattered rubble and a utility pole visible under an overcast sky."
 geo:
 id: 4562
 item_type: Still Image

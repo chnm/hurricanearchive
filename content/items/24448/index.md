@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0096-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e79f35c514fb29e79f39aa.jpg
     url: /files/original/14fb29e79f35c514fb29e79f39aa.jpg
+    alt:
+      en: "A dark cow walks along a paved road beside a flooded field, with a bent \"Speed Limit 55\" sign and submerged structures visible in the standing water."
 geo:
 id: 24448
 item_type: Still Image

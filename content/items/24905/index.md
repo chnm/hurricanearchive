@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0980superdome.JPG
     thumb: /files/thumbnails/14fb29e3f5d5d114fb29e3f5d9b6.jpg
     url: /files/original/14fb29e3f5d5d114fb29e3f5d9b6.jpg
+    alt:
+      en: "A uniformed soldier and another man help an elderly man out of a van and into a wheelchair, supporting him under the arms as he struggles to stand."
 geo:
 id: 24905
 item_type: Still Image

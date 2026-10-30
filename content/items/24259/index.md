@@ -21,6 +21,8 @@ files:
     original_filename: 09140040.JPG
     thumb: /files/thumbnails/14fb29e95b49fe14fb29e95b4d1f.jpg
     url: /files/original/14fb29e95b49fe14fb29e95b4d1f.jpg
+    alt:
+      en: "A sprawling above-ground cemetery with rows of white tombs and mausoleums, viewed from behind a concrete highway barrier, with a radio tower and tree line in the background under a blue sky."
 geo:
 id: 24259
 item_type: Still Image

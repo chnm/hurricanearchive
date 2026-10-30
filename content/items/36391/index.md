@@ -20,6 +20,8 @@ files:
     original_filename: broken-windows_87255aab80.jpg
     thumb: /files/thumbnails/14fb29c590988014fb29c5909ccf.jpg
     url: /files/original/14fb29c590988014fb29c5909ccf.jpg
+    alt:
+      en: "Shattered glass and debris cover the floor of a building interior, with a reflective high-rise building visible through the broken window opening; caption reads \"Broken windows.\""
 geo:
 id: 36391
 item_type: Still Image

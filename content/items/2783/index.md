@@ -21,6 +21,8 @@ files:
     original_filename: 77.jpg
     thumb: /files/thumbnails/14fb2a603409bf14fb2a60341281.jpg
     url: /files/original/14fb2a603409bf14fb2a60341281.jpg
+    alt:
+      en: "Child's drawing of a large building with a grid-like window pattern and curved roofline, two purple stick figures standing beside it, a yellow sun in the sky, and a swirling cloud overhead."
 geo:
 id: 2783
 item_type: Still Image

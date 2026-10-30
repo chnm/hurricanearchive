@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28114.jpg
     thumb: /files/thumbnails/14fb2a6b44fdb714fb2a6b450194.jpg
     url: /files/original/14fb2a6b44fdb714fb2a6b450194.jpg
+    alt:
+      en: "Two young men lean against a concrete floodwall, peering over the top, with green trees visible behind them; one wears a shirt reading \"NEWMAN\" and the other a white cap."
 geo:
   address: ''
   lat: 0.0

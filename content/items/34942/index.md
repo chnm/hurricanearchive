@@ -20,6 +20,8 @@ files:
     original_filename: 2457383772_cbb7aa1cda.
     thumb: /files/thumbnails/14fb29c854617a14fb29c854795b.jpg
     url: /files/original/14fb29c854617a14fb29c854795b.jpg
+    alt:
+      en: "Aerial view of a long grassy levee running alongside a river, with dense forest on one side and a small pond and road visible near the bottom; text overlay reads \"Lake Catouatche Levee.\""
 geo:
 id: 34942
 item_type: Still Image

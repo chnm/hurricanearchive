@@ -23,6 +23,8 @@ files:
     original_filename: 336695138_c9e5a4ab47.jpg
     thumb: /files/thumbnails/14fb29d4a3c34e14fb29d4a3c5c5.jpg
     url: /files/original/14fb29d4a3c34e14fb29d4a3c5c5.jpg
+    alt:
+      en: "Yellow and black house with a black star painted on the facade and \"FD\" lettering, fenced yard, two parked cars in the driveway, and overcast sky overhead."
 geo:
 id: 27331
 item_type: Still Image

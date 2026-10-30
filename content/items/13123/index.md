@@ -21,6 +21,8 @@ files:
     original_filename: lobby debris2.jpg
     thumb: /files/thumbnails/14fb2a204a05b114fb2a204a0997.jpg
     url: /files/original/14fb2a204a05b114fb2a204a0997.jpg
+    alt:
+      en: "Exposed ceiling with dangling wires, flexible metal ductwork, and a bare work light hanging amid damaged drywall framing and discolored, water-stained walls in a stripped-down interior space."
 geo:
 id: 13123
 item_type: Still Image

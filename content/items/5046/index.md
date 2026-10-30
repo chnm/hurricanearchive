@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0391.JPG
     thumb: /files/thumbnails/14fb2a5448019214fb2a5448056e.jpg
     url: /files/original/14fb2a5448019214fb2a5448056e.jpg
+    alt:
+      en: "Debris field of broken lumber, scattered household items, and shredded wood spread across bare ground amid tall pine trees, with snapped branches hanging overhead."
 geo:
 id: 5046
 item_type: Still Image

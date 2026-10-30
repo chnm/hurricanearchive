@@ -21,6 +21,8 @@ files:
     original_filename: katrina 012.jpg
     thumb: /files/thumbnails/14fb29fc03f54814fb29fc03f923.jpg
     url: /files/original/14fb29fc03f54814fb29fc03f923.jpg
+    alt:
+      en: "Five men in military camouflage and tan uniforms sit together indoors, several holding yellow \"FACT CRAP\" game cards on sticks, with bottled water and supplies on a table nearby."
 geo:
 id: 21744
 item_type: Still Image

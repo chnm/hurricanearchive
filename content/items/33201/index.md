@@ -20,6 +20,8 @@ files:
     original_filename: 1282489034_98e52a1e21.jpg
     thumb: /files/thumbnails/14fb29cb9987a014fb29cb998b86.jpg
     url: /files/original/14fb29cb9987a014fb29cb998b86.jpg
+    alt:
+      en: "Pile of storm debris including broken wood, mattresses, and cloth, with a metal equipment frame spray-painted \"VIVA MEXICO,\" set against overgrown greenery and a red structure."
 geo:
 id: 33201
 item_type: Still Image

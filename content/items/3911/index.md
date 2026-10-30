@@ -21,6 +21,8 @@ files:
     original_filename: 100_0208.JPG
     thumb: /files/thumbnails/14fb2a58f2038f14fb2a58f20774.jpg
     url: /files/original/14fb2a58f2038f14fb2a58f20774.jpg
+    alt:
+      en: "A group of people in orange vests walk together across a debris-strewn bridge roadway, while a military helicopter flies in the distance under a clear sky."
 geo:
 id: 3911
 item_type: Still Image

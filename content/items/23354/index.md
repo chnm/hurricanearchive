@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0062cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efd21c8914fb29efd22068.jpg
     url: /files/original/14fb29efd21c8914fb29efd22068.jpg
+    alt:
+      en: "Flooded road lined with storm debris and damaged buildings leads toward a water tower labeled \"Cameron,\" with military trucks parked near scattered wreckage."
 geo:
 id: 23354
 item_type: Still Image

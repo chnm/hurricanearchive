@@ -21,6 +21,8 @@ files:
     original_filename: 76.jpg
     thumb: /files/thumbnails/14fb2a60352df114fb2a603531ce.jpg
     url: /files/original/14fb2a60352df114fb2a603531ce.jpg
+    alt:
+      en: "Child's crayon drawing of three figures with floppy ears wearing striped party hats, captioned \"Katrina\" and a word resembling \"GAre(1)b\" in red at the top."
 geo:
 id: 2782
 item_type: Still Image

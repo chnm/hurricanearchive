@@ -21,6 +21,8 @@ files:
     original_filename: S4300126Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f41c158514fb29f41c196b.jpg
     url: /files/original/14fb29f41c158514fb29f41c196b.jpg
+    alt:
+      en: "Brick house with white porch columns and siding, front door open, spray-painted with a green \"X\" search marking and the date \"1/19\" on the exterior wall; dead shrubs line the walkway."
 geo:
 id: 22770
 item_type: Still Image

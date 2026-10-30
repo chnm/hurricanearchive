@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0368.JPG
     thumb: /files/thumbnails/14fb2a54617bde14fb2a54617ff4.jpg
     url: /files/original/14fb2a54617bde14fb2a54617ff4.jpg
+    alt:
+      en: "Collapsed roof structure and scattered debris lie flattened on the ground amid fallen trees, with a partially standing house visible in the background."
 geo:
 id: 5023
 item_type: Still Image

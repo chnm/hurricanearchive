@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5892_ff2b33bbc3.jpg
     thumb: /files/thumbnails/14fb2a15b5c4ca14fb2a15b5c9aa.jpg
     url: /files/original/14fb2a15b5c4ca14fb2a15b5c9aa.jpg
+    alt:
+      en: "Weathered program cover with a rope border, titled \"The Community of San Pedro Pescador celebrates 50 Years of Blessings,\" featuring a church illustration encircled by fishing nets listing St. James, St. Joseph, and St. Francis Cabrini, with handwritten name and address notes below."
 geo:
 id: 16966
 item_type: Still Image

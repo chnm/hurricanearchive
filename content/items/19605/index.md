@@ -21,6 +21,8 @@ files:
     original_filename: 09240006rita.JPG
     thumb: /files/thumbnails/14fb2a0ed5c2d714fb2a0ed5c6bd.jpg
     url: /files/original/14fb2a0ed5c2d714fb2a0ed5c6bd.jpg
+    alt:
+      en: "A large cargo ship with a dark hull and red underbelly sits on a wide, choppy river under an overcast sky, with a tree-lined shore visible in the background."
 geo:
 id: 19605
 item_type: Still Image

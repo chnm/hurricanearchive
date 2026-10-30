@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0150-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a01eb230214fb2a01eb26e8.jpg
     url: /files/original/14fb2a01eb230214fb2a01eb26e8.jpg
+    alt:
+      en: "Brick chapel labeled \"Sacred Heart Chapel\" with a white cross and stained-glass windows depicting religious figures; debris and dried vegetation cover the grounds as a person enters the open doorway."
 geo:
 id: 20926
 item_type: Still Image

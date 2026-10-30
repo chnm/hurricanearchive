@@ -20,6 +20,8 @@ files:
     original_filename: pics+2006-07+157_48d22531ff.jpg
     thumb: /files/thumbnails/14fb29ce11b68f14fb29ce11ba74.jpg
     url: /files/original/14fb29ce11b68f14fb29ce11ba74.jpg
+    alt:
+      en: "A large tree with a jagged, broken top stands in a cleared lot, with houses and bare trees visible in the background under a cloudy sky."
 geo:
 id: 30022
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2227engineers.JPG
     thumb: /files/thumbnails/14fb2a10b322f914fb2a10b326de.jpg
     url: /files/original/14fb2a10b322f914fb2a10b326de.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms clear fallen trees and debris using a metal sled, while a videographer and onlookers in civilian clothes observe the cleanup effort in a wooded area."
 geo:
 id: 19368
 item_type: Still Image

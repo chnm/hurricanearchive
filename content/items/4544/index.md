@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0746.JPG
     thumb: /files/thumbnails/14fb2a570b1cc714fb2a570b20a2.jpg
     url: /files/original/14fb2a570b1cc714fb2a570b20a2.jpg
+    alt:
+      en: "Skeletal remains of a storm-damaged building with white support columns and exposed wood roof beams, surrounded by debris on a concrete slab, with palm fronds in the foreground and a pine tree behind."
 geo:
 id: 4544
 item_type: Still Image

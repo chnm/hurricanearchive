@@ -21,6 +21,8 @@ files:
     original_filename: Under the Superdome 6superdome.jpg
     thumb: /files/thumbnails/14fb29ddd0cdd114fb29ddd0d1b7.jpg
     url: /files/original/14fb29ddd0cdd114fb29ddd0d1b7.jpg
+    alt:
+      en: "A law enforcement pickup truck carrying several people wades through deep floodwater beneath an elevated roadway, passing two partially submerged school buses amid flooded streets and buildings."
 geo:
 id: 25433
 item_type: Still Image

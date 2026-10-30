@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 046.jpg
     thumb: /files/thumbnails/14fb2a59ceaa1214fb2a59ceadfe.jpg
     url: /files/original/14fb2a59ceaa1214fb2a59ceadfe.jpg
+    alt:
+      en: "A damaged pier with orange traffic cones in the foreground, leading toward a coastal road with low buildings, a tall high-rise, and a lighthouse under a clear blue sky."
 geo:
 id: 3766
 item_type: Still Image

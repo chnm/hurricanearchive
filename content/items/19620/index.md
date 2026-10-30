@@ -21,6 +21,8 @@ files:
     original_filename: 09240021rita.JPG
     thumb: /files/thumbnails/14fb2a0eae21bf14fb2a0eae25a4.jpg
     url: /files/original/14fb2a0eae21bf14fb2a0eae25a4.jpg
+    alt:
+      en: "Collapsed blue-and-white striped tent structure sprawls across a field, with scattered debris, wooden pallets, and yellow ventilation ducts nearby; a utility pole and electrical equipment box stand in the foreground under a cloudy sky."
 geo:
 id: 19620
 item_type: Still Image

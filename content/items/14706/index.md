@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DannishDanionGreen_06_3bac12917b.jpg
     thumb: /files/thumbnails/14fb2a181067f414fb2a1810704b.jpg
     url: /files/original/14fb2a181067f414fb2a1810704b.jpg
+    alt:
+      en: "Studio portrait of a young girl in a white outfit, seated on a pink cushion and holding a large navy parasol, her hair decorated with pink and white ribbons and beads."
 geo:
 id: 14706
 item_type: Still Image

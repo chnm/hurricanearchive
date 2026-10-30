@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28559.jpg
     thumb: /files/thumbnails/14fb2a6884e8a514fb2a6884ec8b.jpg
     url: /files/original/14fb2a6884e8a514fb2a6884ec8b.jpg
+    alt:
+      en: "Debris-strewn street in a residential neighborhood with damaged homes, a bare tree, and a construction crane in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

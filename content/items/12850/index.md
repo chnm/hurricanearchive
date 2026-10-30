@@ -21,6 +21,8 @@ files:
     original_filename: Chartres St. near Gaffin. Katrina You Bitch.1.jpg
     thumb: /files/thumbnails/14fb2a2171dbd314fb2a2171df73.jpg
     url: /files/original/14fb2a2171dbd314fb2a2171df73.jpg
+    alt:
+      en: "Collapsed and heavily damaged building with twisted metal roofing and debris, a handwritten sign reading \"Katrina You Bitch\" propped amid the wreckage."
 geo:
 id: 12850
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 130.jpg
     thumb: /files/thumbnails/14fb2a6077509914fb2a60775471.jpg
     url: /files/original/14fb2a6077509914fb2a60775471.jpg
+    alt:
+      en: "A child's crayon drawing with four colorful heart-shaped balloons on strings above a striped block of color (red, yellow, green, pink); handwritten text at top reads \"Ciera 8.\""
 geo:
 id: 2708
 item_type: Still Image

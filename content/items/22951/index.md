@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0184media.JPG
     thumb: /files/thumbnails/14fb29f280aed714fb29f280b2bd.jpg
     url: /files/original/14fb29f280aed714fb29f280b2bd.jpg
+    alt:
+      en: "Two soldiers in woodland camouflage uniforms with tactical vests stand between a man in a white button-down shirt and a woman in a dark top, posing outdoors near military vehicles and trees."
 geo:
 id: 22951
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: before cel tower2.jpg
     thumb: /files/thumbnails/14fb2a20f7f4bd14fb2a20f7f8a2.jpg
     url: /files/original/14fb2a20f7f4bd14fb2a20f7f8a2.jpg
+    alt:
+      en: "Elevated view of a small town with a tall lattice communication tower, warehouse buildings, a brick depot roof, railroad tracks, and a parking lot with scattered trees under a cloudy sky."
 geo:
 id: 13032
 item_type: Still Image

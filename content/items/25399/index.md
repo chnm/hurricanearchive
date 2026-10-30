@@ -21,6 +21,8 @@ files:
     original_filename: IMG 3923superdome.JPG
     thumb: /files/thumbnails/14fb29de36361214fb29de363a59.jpg
     url: /files/original/14fb29de36361214fb29de363a59.jpg
+    alt:
+      en: "Crowds of people gather on an elevated highway overpass near a tall tower building, with military personnel and a tan transport truck visible among them under an overcast sky."
 geo:
 id: 25399
 item_type: Still Image

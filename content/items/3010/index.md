@@ -21,6 +21,8 @@ files:
     original_filename: 100_0259.JPG
     thumb: /files/thumbnails/14fb2a5ee68f2514fb2a5ee6c402.jpg
     url: /files/original/14fb2a5ee68f2514fb2a5ee6c402.jpg
+    alt:
+      en: "A decommissioned submarine, museum exhibit on display, with its conning tower and periscopes rising against a blue sky, metal walkways along its hull, and a distant city skyline in the background."
 geo:
 id: 3010
 item_type: Still Image

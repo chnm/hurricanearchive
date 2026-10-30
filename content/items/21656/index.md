@@ -21,6 +21,8 @@ files:
     original_filename: DSC H0001.JPG
     thumb: /files/thumbnails/14fb29fcc6b81114fb29fcc6bbf3.jpg
     url: /files/original/14fb29fcc6b81114fb29fcc6bbf3.jpg
+    alt:
+      en: "Three women in matching white and orange Hooters uniforms reading \"Hooters Siegen Lane, Baton Rouge II, LA\" pose with a man in U.S. Army camouflage fatigues bearing a \"Berry\" name tape."
 geo:
 id: 21656
 item_type: Still Image

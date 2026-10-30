@@ -21,6 +21,8 @@ files:
     original_filename: MVC-023S.JPG
     thumb: /files/thumbnails/14fb2a5feb4cdc14fb2a5feb50c2.jpg
     url: /files/original/14fb2a5feb4cdc14fb2a5feb50c2.jpg
+    alt:
+      en: "A twin-tailed military jet with folded wings sits on grass in front of a large corrugated metal building, under a clear blue sky."
 geo:
 id: 2832
 item_type: Still Image

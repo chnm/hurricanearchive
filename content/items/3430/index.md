@@ -24,6 +24,8 @@ files:
     original_filename: 0011.JPG
     thumb: /files/thumbnails/14fb2a5bd4bebf14fb2a5bd4c2a0.jpg
     url: /files/original/14fb2a5bd4bebf14fb2a5bd4c2a0.jpg
+    alt:
+      en: "Headlights illuminate a dark residential street littered with debris piles and discarded furniture along the curbs, with silhouetted houses, power lines, and a parked SUV visible in the night."
 geo:
 id: 3430
 item_type: Still Image

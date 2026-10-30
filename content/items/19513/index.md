@@ -21,6 +21,8 @@ files:
     original_filename: Picture 073engineers.jpg
     thumb: /files/thumbnails/14fb2a0f99226514fb2a0f99264b.jpg
     url: /files/original/14fb2a0f99226514fb2a0f99264b.jpg
+    alt:
+      en: "Aerial view of a flooded university campus with a large multi-sided arena, surrounded by empty parking lots, tennis courts, and ball fields, with standing water visible along the surrounding streets and shoreline."
 geo:
 id: 19513
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efd0289b14fb29efd02c81.jpg
     url: /files/original/14fb29efd0289b14fb29efd02c81.jpg
+    alt:
+      en: "A large oak tree stands on a partially submerged patch of land surrounded by floodwater, with a white bench visible near its base and other trees lining the distant shoreline."
 geo:
 id: 23357
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7029_f30852f89e.jpg
     thumb: /files/thumbnails/14fb29db61a6b514fb29db61aa99.jpg
     url: /files/original/14fb29db61a6b514fb29db61aa99.jpg
+    alt:
+      en: "Sepia-toned studio portrait of four young carnival pages in robes, crowns, and crisscross leg wrappings, each holding a sword, standing beside a potted plant."
 geo:
   address: ''
   lat: 29.95493

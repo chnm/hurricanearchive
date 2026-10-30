@@ -20,6 +20,8 @@ files:
     original_filename: 114539227_ead015cb77.jpg
     thumb: /files/thumbnails/14fb29d1823aad14fb29d1823e93.jpg
     url: /files/original/14fb29d1823aad14fb29d1823e93.jpg
+    alt:
+      en: "Damaged pink-walled room with extensive black mold on the walls and ceiling, a broken louvered window, and a framed sign reading \"AMANDA\" hanging on the wall."
 geo:
 id: 28703
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0096-15.JPG
     thumb: /files/thumbnails/14fb29e7a35a7314fb29e7a35f22.jpg
     url: /files/original/14fb29e7a35a7314fb29e7a35f22.jpg
+    alt:
+      en: "Aerial view at dusk of a flooded residential neighborhood with standing water surrounding houses, a railyard with freight cars, and an elevated highway overpass in the background."
 geo:
 id: 24447
 item_type: Still Image

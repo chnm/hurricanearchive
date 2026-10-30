@@ -21,6 +21,8 @@ files:
     original_filename: Picture 092cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bc8202a14fb2a0bc82410.jpg
     url: /files/original/14fb2a0bc8202a14fb2a0bc82410.jpg
+    alt:
+      en: "Elevated highway bridge spans a waterway lined with construction cranes, a power transmission tower, and industrial structures, viewed from behind a concrete barrier wall."
 geo:
 id: 19995
 item_type: Still Image

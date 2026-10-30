@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7005_189a47de78.jpg
     thumb: /files/thumbnails/14fb29db71920014fb29db7195d6.jpg
     url: /files/original/14fb29db71920014fb29db7195d6.jpg
+    alt:
+      en: "Sepia-toned group portrait of fourteen women, seated and standing in two rows outside a wood-sided building, captioned \"Faculty of Valena C. Jones School.\""
 geo:
   address: ''
   lat: 29.87876

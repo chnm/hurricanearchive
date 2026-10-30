@@ -20,6 +20,8 @@ files:
     original_filename: 2421690268_597b69ccdb.
     thumb: /files/thumbnails/14fb29c8e646fe14fb29c8e64ae5.jpg
     url: /files/original/14fb29c8e646fe14fb29c8e64ae5.jpg
+    alt:
+      en: "A small house with a metal roof and screened porch, numbered \"283,\" stands amid debris, fallen tree branches, corrugated sheeting, and an overturned bicycle in the yard."
 geo:
 id: 34752
 item_type: Still Image

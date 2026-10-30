@@ -21,6 +21,8 @@ files:
     original_filename: PICT0246Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c0d3a314fb29f4c0d77e.jpg
     url: /files/original/14fb29f4c0d3a314fb29f4c0d77e.jpg
+    alt:
+      en: "A large fallen tree leans against and has damaged the roof of a white single-story house with a columned porch, with debris scattered across the lawn and a date stamp \"09.15.2005\" in the corner."
 geo:
 id: 22688
 item_type: Still Image

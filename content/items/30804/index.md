@@ -21,6 +21,8 @@ files:
     original_filename: Picture 075.jpg
     thumb: /files/thumbnails/14fb29cc63ae5c14fb29cc63b233.jpg
     url: /files/original/14fb29cc63ae5c14fb29cc63b233.jpg
+    alt:
+      en: "A silver sedan parked on a dirt driveway in front of a wood-sided house with a blue tarp covering part of its damaged roof, surrounded by tall trees and fallen logs."
 geo:
 id: 30804
 item_type: Still Image

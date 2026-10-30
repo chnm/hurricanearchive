@@ -21,6 +21,8 @@ files:
     original_filename: Picture 244cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b0c70fa14fb2a0b0c74e1.jpg
     url: /files/original/14fb2a0b0c70fa14fb2a0b0c74e1.jpg
+    alt:
+      en: "Row of palm trees staked upright with metal supports along a grassy coastal roadside, with a damaged oak tree and calm sea visible under a clear blue sky."
 geo:
 id: 20147
 item_type: Still Image

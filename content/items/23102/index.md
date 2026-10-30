@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0112OEP.JPG
     thumb: /files/thumbnails/14fb29f18e0fdb14fb29f18e13bf.jpg
     url: /files/original/14fb29f18e0fdb14fb29f18e13bf.jpg
+    alt:
+      en: "A man in a dark shirt and jeans lies on an office carpet, resting his head on his hand near cardboard \"Copy Paper\" boxes, while another person's legs and sneakers are visible seated nearby."
 geo:
 id: 23102
 item_type: Still Image

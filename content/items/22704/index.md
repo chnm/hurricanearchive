@@ -21,6 +21,8 @@ files:
     original_filename: PICT0552Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f49a386414fb29f49a3c49.jpg
     url: /files/original/14fb29f49a386414fb29f49a3c49.jpg
+    alt:
+      en: "Two-story brick building with white columned balconies, a large tree with dead branches piled beneath it, and debris scattered on the ground; street sign reads \"Col Aycock.\""
 geo:
 id: 22704
 item_type: Still Image

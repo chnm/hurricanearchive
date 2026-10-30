@@ -21,6 +21,8 @@ files:
     original_filename: katrina 051.jpg
     thumb: /files/thumbnails/14fb29fbc5126814fb29fbc5164d.jpg
     url: /files/original/14fb29fbc5126814fb29fbc5164d.jpg
+    alt:
+      en: "Smiling woman in a tan t-shirt holds a small object while standing indoors under a concrete ceiling, with other people, tables, and a tent-like structure visible in the background; a timestamp reads 2:27 PM."
 geo:
 id: 21781
 item_type: Still Image

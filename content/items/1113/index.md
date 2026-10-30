@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28466.jpg
     thumb: /files/thumbnails/14fb2a6af0b95614fb2a6af0bd3b.jpg
     url: /files/original/14fb2a6af0b95614fb2a6af0bd3b.jpg
+    alt:
+      en: "Woman with shoulder-length brown hair, wearing a white top and pinstriped pants, sits in a maroon office chair at a desk with a nameplate reading \"Donna Wedgeworth,\" surrounded by framed photos and a computer."
 geo:
   address: ''
   lat: 0.0

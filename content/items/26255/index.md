@@ -24,6 +24,8 @@ files:
     original_filename: AB two young men_32ed86ce8c.jpg
     thumb: /files/thumbnails/14fb29d93d5a3014fb29d93d5e15.jpg
     url: /files/original/14fb29d93d5a3014fb29d93d5e15.jpg
+    alt:
+      en: "Aged sepia-toned photograph with a decorative border showing two young men in white shirts, ties, and trousers, one with a cigarette, standing beside a wooden chair."
 geo:
   address: Chalmette, LA
   lat: 29.9427892

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_KaitlinGlapion_02_719c867856.jpg
     thumb: /files/thumbnails/14fb2a17cccb5f14fb2a17cccf38.jpg
     url: /files/original/14fb2a17cccb5f14fb2a17cccf38.jpg
+    alt:
+      en: "A crowded waterpark pool with a yellow support column and water spraying from above, where a woman and two young children pose together while other swimmers and children wade nearby."
 geo:
 id: 14775
 item_type: Still Image

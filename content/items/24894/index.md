@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0969superdome.JPG
     thumb: /files/thumbnails/14fb29e403586514fb29e4035c4b.jpg
     url: /files/original/14fb29e403586514fb29e4035c4b.jpg
+    alt:
+      en: "Three U.S. Army soldiers in camouflage uniforms stand side by side in front of a military truck marked \"2250 527F\" and \"A24,\" with name tapes reading Robinson, Chelette, and Hebert."
 geo:
 id: 24894
 item_type: Still Image

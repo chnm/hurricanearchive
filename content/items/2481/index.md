@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8509.jpg
     thumb: /files/thumbnails/14fb2a6608cd3714fb2a6608d0c7.jpg
     url: /files/original/14fb2a6608cd3714fb2a6608d0c7.jpg
+    alt:
+      en: "A small statue of the Virgin Mary stands on a weathered wooden shelf amid stripped house pilings, with scattered debris and a calm floodwater channel behind it."
 geo:
 id: 2481
 item_type: Still Image

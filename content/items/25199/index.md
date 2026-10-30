@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1825superdome.JPG
     thumb: /files/thumbnails/14fb29e114a27c14fb29e114a71e.jpg
     url: /files/original/14fb29e114a27c14fb29e114a71e.jpg
+    alt:
+      en: "View from inside a helicopter cockpit overlooking a large empty parking lot, with another helicopter parked ahead near vehicles and a highway overpass with billboards in the background."
 geo:
 id: 25199
 item_type: Still Image

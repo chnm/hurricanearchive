@@ -26,6 +26,8 @@ files:
     original_filename: 600wde_Katrina_SunAug282005_535be3ad7d.jpg
     thumb: /files/thumbnails/14fb2a70f319d114fb2a70f31d8d.jpg
     url: /files/original/14fb2a70f319d114fb2a70f31d8d.jpg
+    alt:
+      en: "Satellite image of a large, well-defined hurricane with a visible eye over the Gulf of Mexico, labeled \"VISIBLE 4 km 8 28 2005 1315Z NOAA.\""
 geo:
   address: ''
   lat: 29.267232865200903

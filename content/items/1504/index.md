@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28726.jpg
     thumb: /files/thumbnails/14fb2a6854a91814fb2a6854acfe.jpg
     url: /files/original/14fb2a6854a91814fb2a6854acfe.jpg
+    alt:
+      en: "A man holding a horse halter and a woman writing on a clipboard stand in a stable aisle beside a brown horse at the Lamar-Dixon rescued-horse barn."
 geo:
   address: ''
   lat: 0.0

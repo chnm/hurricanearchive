@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0190-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a0048673f14fb2a00486b19.jpg
     url: /files/original/14fb2a0048673f14fb2a00486b19.jpg
+    alt:
+      en: "Aerial view through hazy glass of flood-damaged neighborhood with a surviving house amid scattered debris, collapsed roofs, standing water, and surrounding trees under an overcast sky."
 geo:
 id: 21166
 item_type: Still Image

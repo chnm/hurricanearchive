@@ -26,6 +26,8 @@ files:
     original_filename: HolidayInnNormalSignOct16_2_39a553c225.jpg
     thumb: /files/thumbnails/14fb2a6f65362a14fb2a6f655657.jpg
     url: /files/original/14fb2a6f65362a14fb2a6f655657.jpg
+    alt:
+      en: "A Holiday Inn sign stands above a marquee reading \"WE ARE ONE DAY CLOSER TO BEING NORMAL,\" with a timestamp of 12:24 PM on the 16th visible in the corner."
 geo:
   address: ''
   lat: 30.148461

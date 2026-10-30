@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5907_f9191c1e58.jpg
     thumb: /files/thumbnails/14fb2a1575965e14fb2a15759a41.jpg
     url: /files/original/14fb2a1575965e14fb2a15759a41.jpg
+    alt:
+      en: "A mustached man in a striped shirt stands beside a table displaying carved wooden duck decoys, with a handwritten \"Frank Crafters\" label and a trailer and tree in the background."
 geo:
 id: 18453
 item_type: Still Image

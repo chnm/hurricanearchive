@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-08-6A.jpg
     thumb: /files/thumbnails/14fb29e8c2273614fb29e8c22b1c.jpg
     url: /files/original/14fb29e8c2273614fb29e8c22b1c.jpg
+    alt:
+      en: "Aerial view from an aircraft window of a dense green forest crossed by a highway and bridge over a river, with heavy traffic visible on the road; part of the aircraft interior and a person's leg appear in the foreground."
 geo:
 id: 24315
 item_type: Still Image

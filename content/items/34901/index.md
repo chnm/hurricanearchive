@@ -20,6 +20,8 @@ files:
     original_filename: 2457540804_e9f485e92f.
     thumb: /files/thumbnails/14fb29c899f57414fb29c899f95b.jpg
     url: /files/original/14fb29c899f57414fb29c899f95b.jpg
+    alt:
+      en: "Construction site with rows of rusted and green-painted pipes crossing over a concrete foundation with rebar, a \"Chili's\" restaurant sign and buildings visible in the background."
 geo:
 id: 34901
 item_type: Still Image

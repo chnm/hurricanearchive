@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2101superdome.JPG
     thumb: /files/thumbnails/14fb29de8f407514fb29de90019b.jpg
     url: /files/original/14fb29de8f407514fb29de90019b.jpg
+    alt:
+      en: "Close-up of a camouflage-clad shoulder with a military patch in the foreground, overlooking a wet helipad where a helicopter sits with rotors extended, large buildings visible in the background."
 geo:
 id: 25376
 item_type: Still Image

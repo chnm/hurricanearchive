@@ -21,6 +21,8 @@ files:
     original_filename: AB couple_d1e9ea73ec.jpg
     thumb: /files/thumbnails/14fb29d990ae6914fb29d990b269.jpg
     url: /files/original/14fb29d990ae6914fb29d990b269.jpg
+    alt:
+      en: "Sepia-toned vintage photograph of a man and woman in 1920s-style attire standing beside a vintage automobile, with trees in the background; the photo shows visible creases and wear."
 geo:
   address: ''
   lat: 29.91685

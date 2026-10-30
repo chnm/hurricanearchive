@@ -21,6 +21,8 @@ files:
     original_filename: J2 (5).JPG
     thumb: /files/thumbnails/14fb2a111a773914fb2a111a7b1e.jpg
     url: /files/original/14fb2a111a773914fb2a111a7b1e.jpg
+    alt:
+      en: "Flooded street with an NYPD patrol car partially submerged in water, while several police officers and a film crew with a lighting reflector gather on a dry sidewalk near a building."
 geo:
 id: 19333
 item_type: Still Image

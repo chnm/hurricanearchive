@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea4c8ea214fb29ea4c965f.jpg
     url: /files/original/14fb29ea4c8ea214fb29ea4c965f.jpg
+    alt:
+      en: "A military-style front loader plows through mud and standing floodwater on a residential street, with storm-damaged homes, uprooted trees, and debris, including an overturned boat, visible in the background."
 geo:
 id: 24142
 item_type: Still Image

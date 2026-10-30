@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5877_a6e9b7e5da.jpg
     thumb: /files/thumbnails/14fb2a16005c9914fb2a16006432.jpg
     url: /files/original/14fb2a16005c9914fb2a16006432.jpg
+    alt:
+      en: "A faded vintage photo captioned \"Fun on the Shrimp Boats\" shows a woman holding a child on her lap aboard a boat, with other people nearby and a life preserver visible in the background."
 geo:
 id: 15776
 item_type: Still Image

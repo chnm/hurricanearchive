@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0337.JPG
     thumb: /files/thumbnails/14fb2a5496620414fb2a549665e9.jpg
     url: /files/original/14fb2a5496620414fb2a549665e9.jpg
+    alt:
+      en: "Storm-damaged houses on stilts line a street strewn with debris, with appliances, wood scraps, and a mailbox visible in the foreground amid downed branches and power lines overhead."
 geo:
 id: 4992
 item_type: Still Image

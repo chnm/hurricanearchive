@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0422_29eb5358cb.JPG
     thumb: /files/thumbnails/14fb2a6e63478d14fb2a6e634b7b.jpg
     url: /files/original/14fb2a6e63478d14fb2a6e634b7b.jpg
+    alt:
+      en: "Palm trees bend sharply in strong hurricane winds along a residential street, with rain, power lines, and a parked SUV visible in the overcast, stormy scene."
 geo:
   address: ''
   lat: 26.246003863035

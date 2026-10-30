@@ -21,6 +21,8 @@ files:
     original_filename: AB Mardi Gras 71 2_9dd1a2c76e.jpg
     thumb: /files/thumbnails/14fb29d96151e214fb29d96155c8.jpg
     url: /files/original/14fb29d96151e214fb29d96155c8.jpg
+    alt:
+      en: "Vintage photo of elaborately costumed Mardi Gras revelers in feathered hats and gowns walking along a Bourbon Street sidewalk, with onlookers and buildings in the background, New Orleans, 1971."
 geo:
   address: ''
   lat: 29.91685

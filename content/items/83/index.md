@@ -26,6 +26,8 @@ files:
     original_filename: 100_5870_a7994a1605.JPG
     thumb: /files/thumbnails/14fb2a711a75c914fb2a711a79ae.jpg
     url: /files/original/14fb2a711a75c914fb2a711a79ae.jpg
+    alt:
+      en: "Street scene on Canal St. in New Orleans showing storefronts labeled \"Glamour,\" \"SkyBar,\" \"American Fashions,\" and \"New York Fashions,\" with debris piled on the sidewalk and scaffolding in the foreground."
 geo:
   address: ''
   lat: 30.005653

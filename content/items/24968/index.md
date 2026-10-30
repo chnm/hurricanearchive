@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1486superdome.JPG
     thumb: /files/thumbnails/14fb29e386a6fb14fb29e386aae0.jpg
     url: /files/original/14fb29e386a6fb14fb29e386aae0.jpg
+    alt:
+      en: "Two military aircrew members in green flight suits and helmets stand in the open doorway of a helicopter, with visible text reading \"EMERGENCY EXIT\" and \"HAND HOLD\" on the interior panels."
 geo:
 id: 24968
 item_type: Still Image

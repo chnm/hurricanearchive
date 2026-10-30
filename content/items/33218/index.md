@@ -17,6 +17,8 @@ files:
     original_filename: 1267499710_7fc0246027.jpg
     thumb: /files/thumbnails/14fb29cb801b8c14fb29cb802099.jpg
     url: /files/original/14fb29cb801b8c14fb29cb802099.jpg
+    alt:
+      en: "Black background with the date \"8-29-2005\" at top, a white fleur-de-lis symbol in the center, and the word \"Remember\" below in white text."
 geo:
 id: 33218
 item_type: Still Image

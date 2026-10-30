@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0731.JPG
     thumb: /files/thumbnails/14fb2a57145d9e14fb2a57146194.jpg
     url: /files/original/14fb2a57145d9e14fb2a57146194.jpg
+    alt:
+      en: "Damaged bedroom with orange walls stripped of lower drywall exposing studs and plumbing pipes, a wooden door, bright window, and a bed covered with debris and torn insulation."
 geo:
 id: 4519
 item_type: Still Image

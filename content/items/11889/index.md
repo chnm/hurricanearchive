@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 011.jpg
     thumb: /files/thumbnails/14fb2a22df128f14fb2a22df1674.jpg
     url: /files/original/14fb2a22df128f14fb2a22df1674.jpg
+    alt:
+      en: "Several boats lie stranded and tilted on a tree-lined shoreline across a body of water, with houses visible among the trees; the photo is timestamped 2005/09/24."
 geo:
 id: 11889
 item_type: Still Image

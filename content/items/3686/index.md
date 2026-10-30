@@ -24,6 +24,8 @@ files:
     original_filename: P1010125.JPG
     thumb: /files/thumbnails/14fb2a5a21da6214fb2a5a21de50.jpg
     url: /files/original/14fb2a5a21da6214fb2a5a21de50.jpg
+    alt:
+      en: "Two workers stand on scaffolding beside a pink two-story house with dark green shutters, an extension ladder propped against the wall, with tree branches and palm fronds framing the scene."
 geo:
 id: 3686
 item_type: Still Image

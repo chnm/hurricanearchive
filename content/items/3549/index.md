@@ -24,6 +24,8 @@ files:
     original_filename: P1010125.JPG
     thumb: /files/thumbnails/14fb2a5ae27cb914fb2a5ae287f9.jpg
     url: /files/original/14fb2a5ae27cb914fb2a5ae287f9.jpg
+    alt:
+      en: "Rows of garments in plastic dry-cleaning bags hang on a rack inside a damaged storefront, seen through a glass display case and bamboo blinds, with wire hangers and dust-covered debris in the foreground."
 geo:
 id: 3549
 item_type: Still Image

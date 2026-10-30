@@ -21,6 +21,8 @@ files:
     original_filename: during night waterfall.jpg
     thumb: /files/thumbnails/14fb2a2070f36614fb2a2071ec88.jpg
     url: /files/original/14fb2a2070f36614fb2a2071ec88.jpg
+    alt:
+      en: "Nighttime view through a rain- or spray-covered lens showing countless droplets illuminated like stars, with a metal beam and a lit structure with small windows visible below."
 geo:
 id: 13095
 item_type: Still Image

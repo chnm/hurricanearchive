@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2052superdome.JPG
     thumb: /files/thumbnails/14fb29df12b27d14fb29df12b5b8.jpg
     url: /files/original/14fb29df12b27d14fb29df12b5b8.jpg
+    alt:
+      en: "A military Chinook helicopter on a wet rooftop helipad, with evacuees carrying bags boarding through its rear ramp while uniformed personnel assist, an elevated highway visible in the background."
 geo:
 id: 25325
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 082cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e55fc9414fb2a0e56007a.jpg
     url: /files/original/14fb2a0e55fc9414fb2a0e56007a.jpg
+    alt:
+      en: "A paved roadway curves past a large fallen tree and storm debris lining the curb, with a \"Speed Limit 20\" sign posted along the road and a white stone monument base in the foreground."
 geo:
 id: 19695
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2104superdome.JPG
     thumb: /files/thumbnails/14fb29de84a9d114fb29de84b347.jpg
     url: /files/original/14fb29de84a9d114fb29de84b347.jpg
+    alt:
+      en: "A twin-rotor military helicopter, likely a CH-47 Chinook, photographed from below against an overcast gray sky, with its landing gear extended and rotor blades in motion."
 geo:
 id: 25379
 item_type: Still Image

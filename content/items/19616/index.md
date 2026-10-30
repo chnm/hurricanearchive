@@ -21,6 +21,8 @@ files:
     original_filename: 09240017rita.JPG
     thumb: /files/thumbnails/14fb2a0ec4919014fb2a0ec49721.jpg
     url: /files/original/14fb2a0ec4919014fb2a0ec49721.jpg
+    alt:
+      en: "Gravel road beside a grassy lot with collapsed blue-and-white striped tents, white tarps, and scattered debris under a cloudy sky, with utility poles and trees in the background."
 geo:
 id: 19616
 item_type: Still Image

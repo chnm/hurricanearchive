@@ -21,6 +21,8 @@ files:
     original_filename: 20050927012.JPG
     thumb: /files/thumbnails/14fb2a1c6007c014fb2a1c600ba7.jpg
     url: /files/original/14fb2a1c6007c014fb2a1c600ba7.jpg
+    alt:
+      en: "Three men in military fatigues work on a large green military truck with its hood open, parked beside another military vehicle marked \"MA78,\" with pine trees in the background."
 geo:
   address: ''
   lat: 0.0

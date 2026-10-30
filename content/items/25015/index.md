@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1537superdome.JPG
     thumb: /files/thumbnails/14fb29e2e9355414fb29e2e93932.jpg
     url: /files/original/14fb29e2e9355414fb29e2e93932.jpg
+    alt:
+      en: "Military personnel and a civilian carry luggage and bags across a rooftop helipad, with a Black Hawk helicopter parked behind them and city buildings, including one labeled \"Delgado Community College Charity School of Nursing,\" in the background."
 geo:
 id: 25015
 item_type: Still Image

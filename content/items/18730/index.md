@@ -21,6 +21,8 @@ files:
     original_filename: S4300096alero.JPG
     thumb: /files/thumbnails/14fb2a1555cf2114fb2a1555d2fd.jpg
     url: /files/original/14fb2a1555cf2114fb2a1555d2fd.jpg
+    alt:
+      en: "American Red Cross volunteers in white uniforms serve food from foam containers and red coolers, with a disaster services worker in a cap assisting alongside them outdoors."
 geo:
 id: 18730
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 093.jpg
     thumb: /files/thumbnails/14fb2a121b0eaf14fb2a121b3d41.jpg
     url: /files/original/14fb2a121b0eaf14fb2a121b3d41.jpg
+    alt:
+      en: "A large fallen tree with freshly cut branches lies across a yard and iron fence in front of a pink house, with scattered storm debris and wilted plants nearby."
 geo:
 id: 19183
 item_type: Still Image

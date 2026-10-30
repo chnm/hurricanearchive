@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0327_a7c75de9f7.JPG
     thumb: /files/thumbnails/14fb2a70040e3b14fb2a70041220.jpg
     url: /files/original/14fb2a70040e3b14fb2a70041220.jpg
+    alt:
+      en: "Four dust-covered, abandoned cars with visible flood lines line a residential street beside weathered wooden houses with boarded windows and peeling paint."
 geo:
   address: ''
   lat: 29.9549345496561

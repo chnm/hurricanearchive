@@ -27,6 +27,8 @@ files:
     original_filename: Hurricane Hearts026_0562e0aec6.JPG
     thumb: /files/thumbnails/14fb29cc3eb4c814fb29cc3eb8ae.jpg
     url: /files/original/14fb29cc3eb4c814fb29cc3eb8ae.jpg
+    alt:
+      en: "Street scene with parked cars and a light blue house, alongside a telephone pole bearing hand-painted memorial signs reading \"Helen\" with a flower design and tributes calling her \"The Kindest Person I've Ever Met.\""
 geo:
   address: 2444 N. Rampart  St.
   lat: 0.0

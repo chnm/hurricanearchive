@@ -24,6 +24,8 @@ files:
     original_filename: P1010112.JPG
     thumb: /files/thumbnails/14fb2a5af4c93f14fb2a5af4cd23.jpg
     url: /files/original/14fb2a5af4c93f14fb2a5af4cd23.jpg
+    alt:
+      en: "Debris-strewn, sand-covered street with an abandoned truck cab and car, flanked by damaged houses and power lines, leading toward a \"Clover\" street sign in the distance."
 geo:
 id: 3536
 item_type: Still Image

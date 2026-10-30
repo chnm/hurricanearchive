@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27912.jpg
     thumb: /files/thumbnails/14fb2a6c16fb3b14fb2a6c16ff19.jpg
     url: /files/original/14fb2a6c16fb3b14fb2a6c16ff19.jpg
+    alt:
+      en: "Exterior corner of a weathered wooden house with horizontal siding, showing a dark water stain line partway up the wall and an outdoor faucet mounted near the corner."
 geo:
   address: ''
   lat: 0.0

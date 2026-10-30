@@ -21,6 +21,8 @@ files:
     original_filename: P1010010.JPG
     thumb: /files/thumbnails/14fb29fc53772314fb29fc537b07.jpg
     url: /files/original/14fb29fc53772314fb29fc537b07.jpg
+    alt:
+      en: "A military cargo plane with its rear ramp lowered sits on a tarmac, propellers and wing-mounted fuel tanks visible, as a uniformed person walks nearby casting a long shadow."
 geo:
 id: 21709
 item_type: Still Image

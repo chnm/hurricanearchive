@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-26-25A.jpg
     thumb: /files/thumbnails/14fb29e8cf2e5014fb29e8cf3236.jpg
     url: /files/original/14fb29e8cf2e5014fb29e8cf3236.jpg
+    alt:
+      en: "A flooded street scene with numerous cars partially submerged in murky water, two people wading through the flood, and a building with large windows in the background."
 geo:
 id: 24306
 item_type: Still Image

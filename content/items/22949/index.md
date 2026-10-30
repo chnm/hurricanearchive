@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0151media.JPG
     thumb: /files/thumbnails/14fb29f281f2fd14fb29f281f6ef.jpg
     url: /files/original/14fb29f281f2fd14fb29f281f6ef.jpg
+    alt:
+      en: "A military officer in camouflage uniform with \"U.S. ARMY\" name tape stands talking with a woman holding a notebook, with heavy equipment, a sand pile, and sandbags visible in the grassy background."
 geo:
 id: 22949
 item_type: Still Image

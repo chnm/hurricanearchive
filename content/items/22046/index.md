@@ -21,6 +21,8 @@ files:
     original_filename: Picture 377-J2.jpg
     thumb: /files/thumbnails/14fb29f9e25e1b14fb29f9e261fb.jpg
     url: /files/original/14fb29f9e25e1b14fb29f9e261fb.jpg
+    alt:
+      en: "A man in military camouflage uniform with an American flag patch stands in a closet, gripping an overhead closet rod amid stored clothing and bags."
 geo:
 id: 22046
 item_type: Still Image

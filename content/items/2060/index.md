@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0094_JPG_50261e2369.jpg
     thumb: /files/thumbnails/14fb2a6da3ef3714fb2a6da3f783.jpg
     url: /files/original/14fb2a6da3ef3714fb2a6da3f783.jpg
+    alt:
+      en: "Flood-ruined dining room with overturned, mold-stained wooden chairs, a wine rack, and debris scattered across a mud-caked floor beneath grimy, water-stained walls."
 geo:
   address: ''
   lat: 30.0152450782946

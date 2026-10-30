@@ -21,6 +21,8 @@ files:
     original_filename: 92.jpg
     thumb: /files/thumbnails/14fb2a600a7fcd14fb2a600a8760.jpg
     url: /files/original/14fb2a600a7fcd14fb2a600a8760.jpg
+    alt:
+      en: "Child's drawing of a smiling girl with long dark hair, a heart on her shirt, holding a branch, under a yellow sky with a sun, with \"Desiree\" written in red marker below."
 geo:
 id: 2800
 item_type: Still Image

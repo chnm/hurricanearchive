@@ -21,6 +21,8 @@ files:
     original_filename: 100_0135.JPG
     thumb: /files/thumbnails/14fb2a59462ff214fb2a594633ce.jpg
     url: /files/original/14fb2a59462ff214fb2a594633ce.jpg
+    alt:
+      en: "Waterfront view at dusk of a storm-damaged marina building with a collapsed roof and exposed framing, a grounded sailboat nearby, backed by trees and a high-rise, under a hazy pink sky."
 geo:
 id: 3843
 item_type: Still Image

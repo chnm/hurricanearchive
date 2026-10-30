@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0294engineers.JPG
     thumb: /files/thumbnails/14fb2a1005a94714fb2a1005dc55.jpg
     url: /files/original/14fb2a1005a94714fb2a1005dc55.jpg
+    alt:
+      en: "A skid steer loader marked \"763\" and \"NationsRent,\" operated by a person in a red hard hat, scoops thick mud or sediment from a flooded street, with a dark car parked nearby."
 geo:
 id: 19437
 item_type: Still Image

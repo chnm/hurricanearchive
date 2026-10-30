@@ -20,6 +20,8 @@ files:
     original_filename: 2457496532_42ae59f899.
     thumb: /files/thumbnails/14fb29c87beb8314fb29c87bef72.jpg
     url: /files/original/14fb29c87beb8314fb29c87bef72.jpg
+    alt:
+      en: "Circular orange and white logo with a large stylized \"C\" in orange and white encircling a smaller orange \"I,\" bordered by the text \"Circle Incorporated Contractors.\""
 geo:
 id: 34923
 item_type: Still Image

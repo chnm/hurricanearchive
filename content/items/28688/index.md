@@ -20,6 +20,8 @@ files:
     original_filename: 118650523_15c92ac952.jpg
     thumb: /files/thumbnails/14fb29d1bc069a14fb29d1bc0a80.jpg
     url: /files/original/14fb29d1bc069a14fb29d1bc0a80.jpg
+    alt:
+      en: "Rain-streaked windshield view of a highway in heavy rain, with a van's hazard lights ahead, overhead green highway signs, and a timestamp reading \"24 11:26AM\" in the corner."
 geo:
 id: 28688
 item_type: Still Image

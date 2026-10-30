@@ -20,6 +20,8 @@ files:
     original_filename: 2457383766_4895a80f93.
     thumb: /files/thumbnails/14fb29c85619fe14fb29c8561dd9.jpg
     url: /files/original/14fb29c85619fe14fb29c8561dd9.jpg
+    alt:
+      en: "Aerial view of Lake Cataouatche Levee construction site with heavy equipment, cleared earth, and buildings, surrounded by dense forest with a road curving through the trees."
 geo:
 id: 34941
 item_type: Still Image

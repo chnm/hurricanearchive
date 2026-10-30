@@ -26,6 +26,8 @@ files:
     original_filename: PICT0124_ad35c02034.JPG
     thumb: /files/thumbnails/14fb2a6dba015c14fb2a6dba0863.jpg
     url: /files/original/14fb2a6dba015c14fb2a6dba0863.jpg
+    alt:
+      en: "Damaged single-story building with a cross-shaped sign reading \"ST NICHOLAS OF MYRA,\" missing windows, rubble on concrete steps, and two statues visible inside the open entrance."
 geo:
   address: ''
   lat: 30.1415644334843

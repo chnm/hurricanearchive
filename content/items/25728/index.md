@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-03KP&playmateschalmettepark_63291cf2aa.jpg
     thumb: /files/thumbnails/14fb29dc9c97bf14fb29dc9c9b9f.jpg
     url: /files/original/14fb29dc9c97bf14fb29dc9c9b9f.jpg
+    alt:
+      en: "Weathered, water-damaged color photo of three young children sitting together on a tire swing, with a grassy field, buildings, and trees in the background."
 geo:
 id: 25728
 item_type: Still Image

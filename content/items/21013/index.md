@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0168-9-25.JPG
     thumb: /files/thumbnails/14fb2a011274e914fb2a011278ca.jpg
     url: /files/original/14fb2a011274e914fb2a011278ca.jpg
+    alt:
+      en: "Aerial view of a flooded property reduced to a bare concrete foundation and lone brick chimney, surrounded by floodwater, submerged trees, and scattered debris including a red vehicle."
 geo:
 id: 21013
 item_type: Still Image

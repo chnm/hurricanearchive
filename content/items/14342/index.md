@@ -21,6 +21,8 @@ files:
     original_filename: aerials53.jpg
     thumb: /files/thumbnails/14fb2a19bd0cc614fb2a19bd10a2.jpg
     url: /files/original/14fb2a19bd0cc614fb2a19bd10a2.jpg
+    alt:
+      en: "Aerial view of a devastated landscape with bare, scorched trees, scattered debris, and a partially collapsed staircase, showing widespread destruction likely from storm damage."
 geo:
 id: 14342
 item_type: Still Image

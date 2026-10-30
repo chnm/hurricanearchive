@@ -21,6 +21,8 @@ files:
     original_filename: Picture 098cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bc0f8b414fb2a0bc0fc8f.jpg
     url: /files/original/14fb2a0bc0f8b414fb2a0bc0fc8f.jpg
+    alt:
+      en: "Cracked, dried mud with a distinct polygonal pattern covers the upper portion of the ground, transitioning to coarse gravel and dark sediment in the foreground, with a strip of grass visible at the top edge."
 geo:
 id: 20001
 item_type: Still Image

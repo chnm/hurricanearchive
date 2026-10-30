@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1571superdome.JPG
     thumb: /files/thumbnails/14fb29e2a9165814fb29e2a91a3f.jpg
     url: /files/original/14fb29e2a9165814fb29e2a91a3f.jpg
+    alt:
+      en: "Flooded street with a camouflage military truck towing a covered trailer, surrounded by partially submerged civilian cars, including a taxi advertising \"Harrah's New Orleans.\""
 geo:
 id: 25046
 item_type: Still Image

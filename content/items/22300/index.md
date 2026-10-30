@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1111Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7de595214fb29f7de5d30.jpg
     url: /files/original/14fb29f7de595214fb29f7de5d30.jpg
+    alt:
+      en: "A person wearing camouflage clothing and an orange life vest wades through floodwater, holding what appears to be a helmet or container above the surface."
 geo:
 id: 22300
 item_type: Still Image

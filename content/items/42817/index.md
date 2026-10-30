@@ -23,6 +23,8 @@ files:
     original_filename: Katrina_2_61a5c7d2c1.jpg
     thumb: /files/thumbnails/14fb29c284d7aa14fb29c284db8f.jpg
     url: /files/original/14fb29c284d7aa14fb29c284db8f.jpg
+    alt:
+      en: "Large pine trees snapped and leaning across a yard, with a tarp-covered pile and a low building visible in the background amid storm debris and broken branches."
 geo:
   address: ''
   lat: 30.84985

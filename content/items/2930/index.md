@@ -21,6 +21,8 @@ files:
     original_filename: MVC-019S.JPG
     thumb: /files/thumbnails/14fb2a5f8f2e5914fb2a5f8f3233.jpg
     url: /files/original/14fb2a5f8f2e5914fb2a5f8f3233.jpg
+    alt:
+      en: "Interior of a dim storage room or basement with a large metal support pole, shelves holding flat storage boxes and rolled materials, and stacked cardboard boxes on the floor."
 geo:
 id: 2930
 item_type: Still Image

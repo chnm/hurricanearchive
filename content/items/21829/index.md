@@ -21,6 +21,8 @@ files:
     original_filename: 20050904MS-EO A1205-RC-26B ORLEANS PARISH HURRICANE KATRINA.jpg
     thumb: /files/thumbnails/14fb29fb74115914fb29fb742fc9.jpg
     url: /files/original/14fb29fb74115914fb29fb742fc9.jpg
+    alt:
+      en: "Black-and-white aerial reconnaissance photo of Gentilly Woods Mall in Orleans Parish, showing the shopping center, parking lots, surrounding tree-lined neighborhoods, and US-90 Chef Menteur Highway intersecting Louisa Street."
 geo:
 id: 21829
 item_type: Still Image

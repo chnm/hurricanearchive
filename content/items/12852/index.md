@@ -21,6 +21,8 @@ files:
     original_filename: Elisian Fields McDonalds sign.jpg
     thumb: /files/thumbnails/14fb2a21703da214fb2a2170417e.jpg
     url: /files/original/14fb2a21703da214fb2a2170417e.jpg
+    alt:
+      en: "A tall pole supports a bent, damaged McDonald's arches sign against a blue sky, with power lines, trees, and a partial view of a street below."
 geo:
 id: 12852
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_KaitlinGlapion_04_ad60f5a62e.jpg
     thumb: /files/thumbnails/14fb2a17d0924014fb2a17d09622.jpg
     url: /files/original/14fb2a17d0924014fb2a17d09622.jpg
+    alt:
+      en: "A man poses with three smiling children in front of a decorated fireplace mantel with candles, garland, and a red Christmas stocking."
 geo:
 id: 14773
 item_type: Still Image

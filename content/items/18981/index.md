@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2143rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13e1b7cd14fb2a13e1bbb4.jpg
     url: /files/original/14fb2a13e1b7cd14fb2a13e1bbb4.jpg
+    alt:
+      en: "Aerial view from a helicopter of a flooded residential neighborhood, with a crew member in helmet and flight suit looking out over submerged houses and streets below."
 geo:
 id: 18981
 item_type: Still Image

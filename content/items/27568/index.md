@@ -21,6 +21,8 @@ files:
     original_filename: _MG_7160_60892a1243.jpg
     thumb: /files/thumbnails/14fb29d361678914fb29d3616b6e.jpg
     url: /files/original/14fb29d361678914fb29d3616b6e.jpg
+    alt:
+      en: "Group photo of school children in white uniform tops wearing heart-shaped glasses, with boys flexing their arms in the back row and girls kneeling in front, an adult supervisor standing behind them."
 geo:
   address: ''
   lat: 29.95493

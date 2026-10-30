@@ -21,6 +21,8 @@ files:
     original_filename: DSC00687.JPG
     thumb: /files/thumbnails/14fb2a0102761014fb2a010279f4.jpg
     url: /files/original/14fb2a0102761014fb2a010279f4.jpg
+    alt:
+      en: "A U.S. Army medical evacuation helicopter marked \"1745\" with red cross insignia hovers low above a parking lot, with a white SUV and trees visible below; image dated SEP 16 2004."
 geo:
 id: 21033
 item_type: Still Image

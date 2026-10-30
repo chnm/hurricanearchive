@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0111-9-18.JPG
     thumb: /files/thumbnails/14fb2a0a1844bc14fb2a0a18489e.jpg
     url: /files/original/14fb2a0a1844bc14fb2a0a18489e.jpg
+    alt:
+      en: "A devastated neighborhood with collapsed homes, scattered debris, and submerged cars surrounded by floodwater, with a person in uniform walking along a rusted barrier amid the wreckage."
 geo:
 id: 20281
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: before george.jpg
     thumb: /files/thumbnails/14fb2a20e782df14fb2a20e7883b.jpg
     url: /files/original/14fb2a20e782df14fb2a20e7883b.jpg
+    alt:
+      en: "A man in sunglasses, a gray T-shirt, and khaki shorts stands on a parking lot road marked with numbered \"Reserved\" spaces (375, 377), with a water tower and trees visible under a partly cloudy sky."
 geo:
 id: 13039
 item_type: Still Image

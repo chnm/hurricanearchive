@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27987.jpg
     thumb: /files/thumbnails/14fb2a680e1ba714fb2a680e1f8a.jpg
     url: /files/original/14fb2a680e1ba714fb2a680e1f8a.jpg
+    alt:
+      en: "Gray two-story house with arched white-trimmed windows and a balcony above the entrance, surrounded by dry, overgrown vegetation and debris, with steps leading to the front door."
 geo:
   address: ''
   lat: 0.0

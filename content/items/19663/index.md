@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 050cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e85af9b14fb2a0e85b49a.jpg
     url: /files/original/14fb2a0e85af9b14fb2a0e85b49a.jpg
+    alt:
+      en: "Close-up of a round patch with crossed axe and pick symbol on a camouflage uniform shoulder, with semi-trucks visible in the blurred background."
 geo:
 id: 19663
 item_type: Still Image

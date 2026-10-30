@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28009.jpg
     thumb: /files/thumbnails/14fb2a68914eaa14fb2a68915257.jpg
     url: /files/original/14fb2a68914eaa14fb2a68915257.jpg
+    alt:
+      en: "Two-story brick house stands amid a flood-ravaged neighborhood, surrounded by thick mud, debris, and collapsed structures from the 17th Street Canal breach."
 geo:
   address: ''
   lat: 0.0

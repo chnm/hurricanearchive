@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a1086cf4f14fb2a1086d335.jpg
     url: /files/original/14fb2a1086cf4f14fb2a1086d335.jpg
+    alt:
+      en: "A yellow Komatsu skid-steer loader, marked \"KM050065\" and \"SuperFlo SK,\" operated by a worker in military fatigues and a helmet, carries a large wooden beam amid piles of storm debris."
 geo:
 id: 19406
 item_type: Still Image

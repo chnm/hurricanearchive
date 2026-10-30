@@ -21,6 +21,8 @@ files:
     original_filename: 100_0265.JPG
     thumb: /files/thumbnails/14fb2a5ed3056114fb2a5ed30947.jpg
     url: /files/original/14fb2a5ed3056114fb2a5ed30947.jpg
+    alt:
+      en: "Submarine conning tower/sail marked \"228\" mounted on a display stand, with a hangar, parked aircraft, and a clear blue sky in the background."
 geo:
 id: 3016
 item_type: Still Image

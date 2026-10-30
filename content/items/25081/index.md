@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1667superdome.JPG
     thumb: /files/thumbnails/14fb29e275493314fb29e2754d18.jpg
     url: /files/original/14fb29e275493314fb29e2754d18.jpg
+    alt:
+      en: "Soldiers in camouflage gather at a stairway entrance to the Louisiana Superdome, with a crowd of civilians waiting above and an \"ATTENTION\" sign posted on a concrete wall below."
 geo:
 id: 25081
 item_type: Still Image

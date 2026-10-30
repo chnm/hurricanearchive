@@ -23,6 +23,8 @@ files:
     original_filename: 162681485_2b3c428ab7.jpg
     thumb: /files/thumbnails/14fb29d23b9ff414fb29d23ba3d0.jpg
     url: /files/original/14fb29d23b9ff414fb29d23ba3d0.jpg
+    alt:
+      en: "A pile of storm debris including a wooden dresser, broken furniture, and a framed photograph of a smiling woman, alongside scattered papers and envelopes."
 geo:
 id: 28582
 item_type: Still Image

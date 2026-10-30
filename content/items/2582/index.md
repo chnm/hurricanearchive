@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9298.jpg
     thumb: /files/thumbnails/14fb2a649b1a5014fb2a649b1eb5.jpg
     url: /files/original/14fb2a649b1a5014fb2a649b1eb5.jpg
+    alt:
+      en: "A weathered, broken tennis racket lies abandoned on cracked, dried mud, its frame splintered and strings caked with dirt."
 geo:
 id: 2582
 item_type: Still Image

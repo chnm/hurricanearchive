@@ -21,6 +21,8 @@ files:
     original_filename: Picture 041cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c33565d14fb2a0c335a40.jpg
     url: /files/original/14fb2a0c33565d14fb2a0c335a40.jpg
+    alt:
+      en: "Storefront with teal awnings and boarded-up windows beneath a large rooftop billboard of a man in a graduation cap and gown next to a basketball; a car is parked out front amid bare trees."
 geo:
 id: 19945
 item_type: Still Image

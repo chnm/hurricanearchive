@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014-20.JPG
     thumb: /files/thumbnails/14fb2a078425b914fb2a0784299e.jpg
     url: /files/original/14fb2a078425b914fb2a0784299e.jpg
+    alt:
+      en: "A man in military camouflage fatigues with an American flag patch and \"RANDALL\" nametag eats from a styrofoam tray of rice, peas, and a roll, seated at a table with a Diet Coke can and water bottles inside a large tent."
 geo:
 id: 20428
 item_type: Still Image

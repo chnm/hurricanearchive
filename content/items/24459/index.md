@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0098-21.JPG
     thumb: /files/thumbnails/14fb29e78e96c914fb29e78e9aab.jpg
     url: /files/original/14fb29e78e96c914fb29e78e9aab.jpg
+    alt:
+      en: "A man in camouflage military uniform and cap, with name tape reading \"MEEK,\" sits writing on a clipboard outdoors near a chain-link fence and a sign reading \"HEADQUARTERS.\""
 geo:
 id: 24459
 item_type: Still Image

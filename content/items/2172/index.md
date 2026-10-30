@@ -26,6 +26,8 @@ files:
     original_filename: kat12_c07496c91a.JPG
     thumb: /files/thumbnails/14fb2a6d892c9b14fb2a6d89307f.jpg
     url: /files/original/14fb2a6d892c9b14fb2a6d89307f.jpg
+    alt:
+      en: "Two American Red Cross workers in branded vests and shirts converse indoors near stacked cardboard boxes labeled \"Meal, Ready-to-Eat,\" with bottled water and supplies visible nearby."
 geo:
   address: ''
   lat: 31.1046852937585

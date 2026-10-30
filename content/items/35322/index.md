@@ -18,6 +18,8 @@ files:
     original_filename: 57_d93ffd1485.jpg
     thumb: /files/thumbnails/14fb29c677af3614fb29c677b321.jpg
     url: /files/original/14fb29c677af3614fb29c677b321.jpg
+    alt:
+      en: "Group of people in matching silver costumes with red fuzzy hats and gloves, holding cylindrical props resembling rockets, with an American flag visible in the background."
 geo:
   address: new orleans, la
   lat: 29.95324

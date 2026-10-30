@@ -24,6 +24,8 @@ files:
     original_filename: scan0103trimmedtiff.tif
     thumb: /files/thumbnails/14fb29cc49fd1d14fb29cc4a0109.jpg
     url: /files/original/14fb29cc49fd1d14fb29cc4a0109.tif
+    alt:
+      en: "Sepia-toned photo of a young boy in a short-sleeved shirt and shorts standing on grass, with a two-story house, utility poles, and a \"Sheet Metal Works\" sign visible along the street behind him."
 geo:
 id: 30818
 item_type: Document

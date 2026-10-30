@@ -21,6 +21,8 @@ files:
     original_filename: Dillard University looking North.jpg
     thumb: /files/thumbnails/14fb29fb61cc6814fb29fb61d050.jpg
     url: /files/original/14fb29fb61cc6814fb29fb61d050.jpg
+    alt:
+      en: "Aerial view of a flooded New Orleans neighborhood surrounding Dillard University, with buildings and streets submerged in brown floodwater and a raised roadway crossing a canal in the background."
 geo:
 id: 21848
 item_type: Still Image

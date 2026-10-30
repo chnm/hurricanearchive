@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0687.JPG
     thumb: /files/thumbnails/14fb2a533930cf14fb2a533934b4.jpg
     url: /files/original/14fb2a533930cf14fb2a533934b4.jpg
+    alt:
+      en: "A hand holding a yellow tape measure extends it along a wooden beam atop a cinder block wall, with a metal bracket and bolts visible on the structure."
 geo:
 id: 5242
 item_type: Still Image

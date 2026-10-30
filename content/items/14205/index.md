@@ -21,6 +21,8 @@ files:
     original_filename: bobcat.JPG
     thumb: /files/thumbnails/14fb2a1a99ea6b14fb2a1a99f284.jpg
     url: /files/original/14fb2a1a99ea6b14fb2a1a99f284.jpg
+    alt:
+      en: "A man in military fatigues and a helmet operates a yellow Komatsu skid-steer loader at a debris site, with military dump trucks parked in the background."
 geo:
   address: ''
   lat: 0.0

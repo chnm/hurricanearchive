@@ -21,6 +21,8 @@ files:
     original_filename: Refinery at Carlisle LA.jpgsatellite
     thumb: /files/thumbnails/14fb29fb33f1ff14fb29fb33f64a.jpg
     url: /files/original/14fb29fb33f1ff14fb29fb33f64a.jpgsatellite
+    alt:
+      en: "Aerial view of a large oil refinery complex with numerous storage tanks, pipelines, and processing towers, surrounded by floodwaters and waterlogged fields after a hurricane."
 geo:
 id: 21894
 item_type: Still Image

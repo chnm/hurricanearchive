@@ -24,6 +24,8 @@ files:
     original_filename: P1010073.JPG
     thumb: /files/thumbnails/14fb2a5b63d38414fb2a5b63d768.jpg
     url: /files/original/14fb2a5b63d38414fb2a5b63d768.jpg
+    alt:
+      en: "A bent, broken light post lies diagonally across a rocky shoreline beside a seawall, with calm open water and clear blue sky in the background."
 geo:
 id: 3499
 item_type: Still Image

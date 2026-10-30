@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013alero.JPG
     thumb: /files/thumbnails/14fb2a1561f20314fb2a1561f5e9.jpg
     url: /files/original/14fb2a1561f20314fb2a1561f5e9.jpg
+    alt:
+      en: "Aerial view of a disaster relief staging area with large tents, Red Cross vans, \"Merchants Foodservice\" trucks, military vehicles, trailers, and stacked supply pallets arranged across a parking lot and field."
 geo:
 id: 18721
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-16-15A.jpg
     thumb: /files/thumbnails/14fb29e8f86e1614fb29e8f88075.jpg
     url: /files/original/14fb29e8f86e1614fb29e8f88075.jpg
+    alt:
+      en: "A military transport truck wades through deep floodwater beneath an elevated highway, passing a partially submerged blue school bus, with stranded cars and a cityscape visible in the background."
 geo:
 id: 24296
 item_type: Still Image

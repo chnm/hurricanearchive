@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0192-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a003196cb14fb2a00319aa6.jpg
     url: /files/original/14fb2a003196cb14fb2a00319aa6.jpg
+    alt:
+      en: "A partially collapsed house with a blue roof stands in brown floodwater, its porch supports buckled and leaning, surrounded by bare trees under an overcast sky."
 geo:
 id: 21179
 item_type: Still Image

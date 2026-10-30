@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28524.jpg
     thumb: /files/thumbnails/14fb2a6c8d903b14fb2a6c8d941b.jpg
     url: /files/original/14fb2a6c8d903b14fb2a6c8d941b.jpg
+    alt:
+      en: "A dark sedan sits abandoned on a debris-strewn concrete culvert, with scattered wood planks and wreckage surrounding it, damaged buildings and bare trees visible in the background."
 geo:
   address: ''
   lat: 0.0

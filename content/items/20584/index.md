@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a05e851af14fb2a05e85595.jpg
     url: /files/original/14fb2a05e851af14fb2a05e85595.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters submerging land, with leaning utility poles, scattered debris, a partially sunken boat, and a collapsed structure's roof poking above the water near patches of marsh grass."
 geo:
 id: 20584
 item_type: Still Image

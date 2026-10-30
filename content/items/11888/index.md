@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 010.jpg
     thumb: /files/thumbnails/14fb2a22e1cc0214fb2a22e1cfe6.jpg
     url: /files/original/14fb2a22e1cc0214fb2a22e1cfe6.jpg
+    alt:
+      en: "Several boats lie stranded and damaged on a reddish dirt shoreline amid trees, viewed across calm water under an overcast sky, with houses visible in the background; dated 2005/09/24."
 geo:
 id: 11888
 item_type: Still Image

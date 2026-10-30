@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-19-18A.jpg
     thumb: /files/thumbnails/14fb29e8654db214fb29e8655165.jpg
     url: /files/original/14fb29e8654db214fb29e8655165.jpg
+    alt:
+      en: "A heavily grainy, low-quality photograph showing a pale, irregularly shaped patch with faint linear textures against a mottled dark green background, likely a damaged or degraded print."
 geo:
 id: 24371
 item_type: Still Image

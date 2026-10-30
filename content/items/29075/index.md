@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0620.JPG
     thumb: /files/thumbnails/14fb29d040b5c614fb29d040ca0f.jpg
     url: /files/original/14fb29d040b5c614fb29d040ca0f.jpg
+    alt:
+      en: "A debris-strewn residential street with a stop sign (back visible), an abandoned boat and car, scattered trash, and modest houses lining the roadside under a clear sky."
 geo:
 id: 29075
 item_type: Still Image

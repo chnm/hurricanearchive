@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2099superdome.JPG
     thumb: /files/thumbnails/14fb29e4ca55c614fb29e4ca59aa.jpg
     url: /files/original/14fb29e4ca55c614fb29e4ca59aa.jpg
+    alt:
+      en: "A tall dark skyscraper rises above the city skyline under heavy gray clouds, with a damaged high-rise featuring broken windows visible to the right and smaller buildings in the foreground."
 geo:
 id: 24777
 item_type: Still Image

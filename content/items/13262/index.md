@@ -21,6 +21,8 @@ files:
     original_filename: shrimping boats.jpg
     thumb: /files/thumbnails/14fb2a1e7c607014fb2a1e7c6456.jpg
     url: /files/original/14fb2a1e7c607014fb2a1e7c6456.jpg
+    alt:
+      en: "Shrimping boats with tall masts docked along a waterway, with grassy shoreline, a wooden fence, and electrical towers visible under an overcast sky."
 geo:
 id: 13262
 item_type: Still Image

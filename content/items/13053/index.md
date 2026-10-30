@@ -21,6 +21,8 @@ files:
     original_filename: before trees.jpg
     thumb: /files/thumbnails/14fb2a20bc333314fb2a20bc4958.jpg
     url: /files/original/14fb2a20bc333314fb2a20bc4958.jpg
+    alt:
+      en: "Hazy, obscured photo taken from under a structure, showing a faint railing, trees, and wet pavement, with a small red light visible in the upper background."
 geo:
 id: 13053
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: Renata Beverly_6daf982de5.jpg
     thumb: /files/thumbnails/14fb2a2201ad4814fb2a2201b100.jpg
     url: /files/original/14fb2a2201ad4814fb2a2201b100.jpg
+    alt:
+      en: "A young woman with short dark hair stands outdoors among trees, arms crossed over her chest, looking down with a somber expression, wearing a white top and small earrings."
 geo:
   address: 5317 Camp sTREET
   lat: 0.0

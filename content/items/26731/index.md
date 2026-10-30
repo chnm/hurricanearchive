@@ -21,6 +21,8 @@ files:
     original_filename: JB 3 Pontchartrain Beach_48dd9f2355.2.jpg
     thumb: /files/thumbnails/14fb29d822d9c214fb29d822dda7.jpg
     url: /files/original/14fb29d822d9c214fb29d822dda7.jpg
+    alt:
+      en: "Vintage black-and-white photo of four people—two men and two women—standing at a railing beneath a \"Tumble Bug\" ride sign, with a man in a hat visible in the background."
 geo:
   address: ''
   lat: 29.87876

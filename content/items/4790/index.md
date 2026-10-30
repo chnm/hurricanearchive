@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0102.JPG
     thumb: /files/thumbnails/14fb2a5591b9a814fb2a5591bd8f.jpg
     url: /files/original/14fb2a5591b9a814fb2a5591bd8f.jpg
+    alt:
+      en: "A collapsed mobile home with its roof caved in and walls toppled, surrounded by scattered debris and storm-damaged trees; a white plastic chair sits upright amid the wreckage."
 geo:
 id: 4790
 item_type: Still Image

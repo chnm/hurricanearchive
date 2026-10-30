@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0308.JPG
     thumb: /files/thumbnails/14fb2a54becb7614fb2a54becf55.jpg
     url: /files/original/14fb2a54becb7614fb2a54becf55.jpg
+    alt:
+      en: "Single-story house with storm-damaged, partially collapsed roof on one side, surrounded by debris, broken trees, and an overgrown lawn littered with scattered trash."
 geo:
 id: 4966
 item_type: Still Image

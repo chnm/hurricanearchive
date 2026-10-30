@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0051tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d155bd014fb2a0d156014.jpg
     url: /files/original/14fb2a0d155bd014fb2a0d156014.jpg
+    alt:
+      en: "A plywood-sided building under construction with an open doorway, flanked by Quonset-style metal buildings; lumber, corrugated panels, and tools are scattered on the concrete lot in front."
 geo:
 id: 19865
 item_type: Still Image

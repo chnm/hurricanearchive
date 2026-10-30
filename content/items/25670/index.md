@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.047.JPG
     thumb: /files/thumbnails/14fb29dcc942d714fb29dcc949d3.jpg
     url: /files/original/14fb29dcc942d714fb29dcc949d3.jpg
+    alt:
+      en: "Corner view of a green two-story building with ornate wrought-iron balcony railings and overhang, arched white-trimmed windows, dark shuttered doors, and a blue \"Mitch Landrieu Mayor\" campaign sign on the balcony rail."
 geo:
 id: 25670
 item_type: Still Image

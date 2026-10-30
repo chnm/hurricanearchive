@@ -21,6 +21,8 @@ files:
     original_filename: Picture 228cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b20796314fb2a0b207d48.jpg
     url: /files/original/14fb2a0b20796314fb2a0b207d48.jpg
+    alt:
+      en: "Men in camouflage pants use a chainsaw to cut through large fallen tree branches, with vehicles and a grassy area visible in the background."
 geo:
 id: 20131
 item_type: Still Image

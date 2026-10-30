@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-21-19Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e556fa0014fb29e55701ce.jpg
     url: /files/original/14fb29e556fa0014fb29e55701ce.jpg
+    alt:
+      en: "Parking lot beside a large curved concrete stadium with emergency vehicles, trucks, and red helicopters on the ground, city skyline visible in the background."
 geo:
 id: 24726
 item_type: Still Image

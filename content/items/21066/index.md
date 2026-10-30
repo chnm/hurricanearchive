@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1899.JPG
     thumb: /files/thumbnails/14fb2a00bb067714fb2a00bb0a59.jpg
     url: /files/original/14fb2a00bb067714fb2a00bb0a59.jpg
+    alt:
+      en: "A military helicopter sits at the far end of a long airstrip, flanked by green grass fields and a tree line under a hazy sky."
 geo:
 id: 21066
 item_type: Still Image

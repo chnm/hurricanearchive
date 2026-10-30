@@ -21,6 +21,8 @@ files:
     original_filename: 09140035.JPG
     thumb: /files/thumbnails/14fb29e966bc7914fb29e966c057.jpg
     url: /files/original/14fb29e966bc7914fb29e966c057.jpg
+    alt:
+      en: "A residential street with damaged rooftops, a white house with a blue tarp draped on its side, a gray cinder-block building, a church steeple, and power lines crossing overhead under a clear sky."
 geo:
 id: 24254
 item_type: Still Image

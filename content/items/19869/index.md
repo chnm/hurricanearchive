@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0056tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d0f108014fb2a0d0f1464.jpg
     url: /files/original/14fb2a0d0f108014fb2a0d0f1464.jpg
+    alt:
+      en: "Silhouette of a person in camouflage pants and a cap working atop a wooden roof frame, backlit by bright sunlight with clouds and blue sky visible through the structure's beams."
 geo:
 id: 19869
 item_type: Still Image

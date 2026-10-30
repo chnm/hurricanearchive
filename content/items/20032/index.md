@@ -21,6 +21,8 @@ files:
     original_filename: Picture 129cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b9e0a9614fb2a0b9e0e7b.jpg
     url: /files/original/14fb2a0b9e0a9614fb2a0b9e0e7b.jpg
+    alt:
+      en: "Rotated roadside view with power lines and utility poles along a road, scattered clouds in a blue sky, and trees and structures lining the horizon."
 geo:
 id: 20032
 item_type: Still Image

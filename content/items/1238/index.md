@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28431.jpg
     thumb: /files/thumbnails/14fb2a6a23d40914fb2a6a23dfba.jpg
     url: /files/original/14fb2a6a23d40914fb2a6a23dfba.jpg
+    alt:
+      en: "Storm-damaged, leafless trees stand over a low concrete bridge railing spray-painted \"WAVELAND,\" with a red fire hydrant in the foreground and debris scattered across the grass."
 geo:
   address: ''
   lat: 0.0

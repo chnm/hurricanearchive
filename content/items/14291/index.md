@@ -21,6 +21,8 @@ files:
     original_filename: aerials133.jpg
     thumb: /files/thumbnails/14fb2a1a15ad0a14fb2a1a15b053.jpg
     url: /files/original/14fb2a1a15ad0a14fb2a1a15b053.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with only concrete foundations and scattered debris remaining where houses once stood, surrounded by bare, storm-damaged trees."
 geo:
 id: 14291
 item_type: Still Image

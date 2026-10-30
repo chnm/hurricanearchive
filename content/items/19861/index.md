@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d1b85a414fb2a0d1b897d.jpg
     url: /files/original/14fb2a0d1b85a414fb2a0d1b897d.jpg
+    alt:
+      en: "Workers in camouflage pants and brown t-shirts, wearing white hard hats, construct a wooden roof frame atop a plywood-walled structure under a clear blue sky."
 geo:
 id: 19861
 item_type: Still Image

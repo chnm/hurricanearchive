@@ -21,6 +21,8 @@ files:
     original_filename: 09200001J6.JPG
     thumb: /files/thumbnails/14fb29f9926e5c14fb29f9927238.jpg
     url: /files/original/14fb29f9926e5c14fb29f9927238.jpg
+    alt:
+      en: "A military Humvee with whip antennas parked in a grassy field beneath overcast skies, with two tall guyed communication masts rising nearby and trees lining the horizon."
 geo:
 id: 22086
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Throw Me Somthin Mistah_97e28a073c.jpg
     thumb: /files/thumbnails/14fb2a16f14ea814fb2a16f15325.jpg
     url: /files/original/14fb2a16f14ea814fb2a16f15325.jpg
+    alt:
+      en: "Nighttime crowd at a Mardi Gras parade reaching up with raised arms and hands toward the camera, many wearing colorful beaded necklaces, photographed from a float above the street."
 geo:
   address: ''
   lat: 37.77123

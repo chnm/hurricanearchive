@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea32209314fb29ea322465.jpg
     url: /files/original/14fb29ea32209314fb29ea322465.jpg
+    alt:
+      en: "A man in camouflage clothing and an orange hard hat stands near fallen tree limbs and a broken trunk, while another person in a red shirt photographs the storm-damaged yard."
 geo:
 id: 24159
 item_type: Still Image

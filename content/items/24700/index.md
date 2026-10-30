@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-02-0Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e57b01fc14fb29e57b06ac.jpg
     url: /files/original/14fb29e57b01fc14fb29e57b06ac.jpg
+    alt:
+      en: "Crowds walk along an elevated highway overpass above floodwaters, with submerged vehicles visible below and palm fronds framing the foreground."
 geo:
 id: 24700
 item_type: Still Image

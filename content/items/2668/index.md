@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9253.jpg
     thumb: /files/thumbnails/14fb2a60a6dc4614fb2a60a6e02c.jpg
     url: /files/original/14fb2a60a6dc4614fb2a60a6e02c.jpg
+    alt:
+      en: "A wrecked trawler lies overturned on land amid bare trees, its hull marked \"Leonard Clarefields\" and graffiti reading \"DON'T MOVE\" scrawled along the exposed blue-striped bottom."
 geo:
 id: 2668
 item_type: Still Image

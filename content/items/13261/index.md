@@ -21,6 +21,8 @@ files:
     original_filename: rita begins2.jpg
     thumb: /files/thumbnails/14fb2a1e7de50d14fb2a1e7def76.jpg
     url: /files/original/14fb2a1e7de50d14fb2a1e7def76.jpg
+    alt:
+      en: "Two lampposts, one lit, rise from a flooded pier amid heavy fog and rain, with water nearly submerging the dock's pilings and low concrete structure."
 geo:
 id: 13261
 item_type: Still Image

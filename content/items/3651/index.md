@@ -24,6 +24,8 @@ files:
     original_filename: P1010087.JPG
     thumb: /files/thumbnails/14fb2a5a64abec14fb2a5a64aff6.jpg
     url: /files/original/14fb2a5a64abec14fb2a5a64aff6.jpg
+    alt:
+      en: "Storm-damaged two-story building with a torn blue tarp on the roof, boarded windows, and \"9-12\" spray-painted on the wall, framed by a large oak tree in the foreground."
 geo:
 id: 3651
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2109superdome.JPG
     thumb: /files/thumbnails/14fb29e4bb4cc114fb29e4bb50a7.jpg
     url: /files/original/14fb29e4bb4cc114fb29e4bb50a7.jpg
+    alt:
+      en: "Nighttime scene under a covered structure with military personnel in camouflage uniforms standing near folding cots, yellow \"keep away\" tape strung across the area, and an \"XTRA\" trailer truck parked nearby."
 geo:
 id: 24787
 item_type: Still Image

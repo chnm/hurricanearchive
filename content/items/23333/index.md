@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efe7a90414fb29efe7b0f1.jpg
     url: /files/original/14fb29efe7a90414fb29efe7b0f1.jpg
+    alt:
+      en: "Military truck with license plates \"225GP 769E\" and \"MB090\" driving through floodwater on a road lined with trees and brush, with a house visible in the background."
 geo:
 id: 23333
 item_type: Still Image

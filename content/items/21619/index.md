@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0352-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd0671bb14fb29fd067599.jpg
     url: /files/original/14fb29fd0671bb14fb29fd067599.jpg
+    alt:
+      en: "Aerial view of a flooded area with murky brown water submerging trees and a utility pole, as one person wades through waist-deep water near a metal-roofed building with a satellite dish, while another sits on its steps."
 geo:
 id: 21619
 item_type: Still Image

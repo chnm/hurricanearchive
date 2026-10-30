@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0212-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffae32a714fb29ffae368d.jpg
     url: /files/original/14fb29ffae32a714fb29ffae368d.jpg
+    alt:
+      en: "Interior view of an aircraft cockpit, with a helmeted crew member in flight suit seated facing forward toward a microphone boom, instrument panels, and a hazy sky through the windshield."
 geo:
 id: 21270
 item_type: Still Image

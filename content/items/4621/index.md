@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0047.JPG
     thumb: /files/thumbnails/14fb2a56b8d9ee14fb2a56b8dbd4.jpg
     url: /files/original/14fb2a56b8d9ee14fb2a56b8dbd4.jpg
+    alt:
+      en: "Large fallen tree trunks and branches crashed through a home's roof and wall, exposing splintered wood framing, insulation, and debris inside the damaged room."
 geo:
 id: 4621
 item_type: Still Image

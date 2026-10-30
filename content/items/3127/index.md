@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (11).JPG
     thumb: /files/thumbnails/14fb2a5dcc159114fb2a5dcc1977.jpg
     url: /files/original/14fb2a5dcc159114fb2a5dcc1977.jpg
+    alt:
+      en: "Damaged building with a section of roof and siding torn away, exposing insulation and ductwork, with two intact windows below against a clear blue sky."
 geo:
 id: 3127
 item_type: Still Image

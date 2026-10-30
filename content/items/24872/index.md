@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0946superdome.JPG
     thumb: /files/thumbnails/14fb29e4381c0e14fb29e4381fe5.jpg
     url: /files/original/14fb29e4381c0e14fb29e4381fe5.jpg
+    alt:
+      en: "A uniformed officer wearing an \"S.R.T.\" cap and sidearm talks with a man in a patterned shirt, amid a crowd of people and belongings gathered under a covered walkway."
 geo:
 id: 24872
 item_type: Still Image

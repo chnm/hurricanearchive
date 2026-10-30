@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28050.jpg
     thumb: /files/thumbnails/14fb2a69bd923414fb2a69bd9a34.jpg
     url: /files/original/14fb2a69bd923414fb2a69bd9a34.jpg
+    alt:
+      en: "Damaged elevated highway section with exposed rebar and dangling debris, concrete support pillars, and workers near equipment on the roadway below."
 geo:
   address: ''
   lat: 0.0

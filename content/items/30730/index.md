@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7427.JPG
     thumb: /files/thumbnails/14fb29cca733bf14fb29cca738c6.jpg
     url: /files/original/14fb29cca733bf14fb29cca738c6.jpg
+    alt:
+      en: "An older woman in a red cap, blue striped tank top, and khaki shorts stands holding a camera amid downed tree branches and scattered leaves, with a large damaged tree looming behind her."
 geo:
 id: 30730
 item_type: Still Image

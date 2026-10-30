@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28473.jpg
     thumb: /files/thumbnails/14fb2a6ae5b75614fb2a6ae5bb3c.jpg
     url: /files/original/14fb2a6ae5b75614fb2a6ae5bb3c.jpg
+    alt:
+      en: "An older man sits on a cot beside a young girl and a baby wrapped in a pink blanket, surrounded by bedding and supplies at a crowded shelter."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 163 high winds.jpg
     thumb: /files/thumbnails/14fb2a1fa22b8214fb2a1fa234a5.jpg
     url: /files/original/14fb2a1fa22b8214fb2a1fa234a5.jpg
+    alt:
+      en: "Large corrugated metal roofing sheets twisted and collapsed onto a utility pole with power lines, surrounded by trees, shrubs, and standing water on a flooded street."
 geo:
 id: 13171
 item_type: Still Image

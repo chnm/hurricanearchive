@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28696.jpg
     thumb: /files/thumbnails/14fb2a6d375c8e14fb2a6d37607e.jpg
     url: /files/original/14fb2a6d375c8e14fb2a6d37607e.jpg
+    alt:
+      en: "Two horses, one light brown with a white blaze and one gray, stand in adjacent metal pen stalls, each wearing a halter, at an animal rescue facility."
 geo:
   address: ''
   lat: 0.0

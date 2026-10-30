@@ -21,6 +21,8 @@ files:
     original_filename: NewOrleans3.jpgsatellite
     thumb: /files/thumbnails/14fb29fb42ef4714fb29fb42f32d.jpg
     url: /files/original/14fb29fb42ef4714fb29fb42f32d.jpgsatellite
+    alt:
+      en: "Side-by-side satellite images of a New Orleans canal and surrounding neighborhoods, comparing the area on August 28, 2002 with the same location flooded on September 2, 2005 after Hurricane Katrina."
 geo:
 id: 21886
 item_type: Still Image

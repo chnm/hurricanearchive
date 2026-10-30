@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1034Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8e9810d14fb29f8e984ed.jpg
     url: /files/original/14fb29f8e9810d14fb29f8e984ed.jpg
+    alt:
+      en: "A row of camouflage military cargo trucks parked beneath large shade trees on a grassy lawn, with soldiers in fatigues standing near the vehicles and a brick house visible in the background."
 geo:
 id: 22227
 item_type: Still Image

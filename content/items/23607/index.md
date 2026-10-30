@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1618neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee89a1e214fb29ee89a5c8.jpg
     url: /files/original/14fb29ee89a1e214fb29ee89a5c8.jpg
+    alt:
+      en: "Close-up of an amphibious military vehicle's rear, with a convex side mirror warning \"Objects in mirror are closer than they appear,\" as it churns through dark water, leaving a frothy wake."
 geo:
 id: 23607
 item_type: Still Image

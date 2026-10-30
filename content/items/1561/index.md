@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27973.jpg
     thumb: /files/thumbnails/14fb2a67fe307714fb2a67fe3447.jpg
     url: /files/original/14fb2a67fe307714fb2a67fe3447.jpg
+    alt:
+      en: "Building facade with twin bronze double doors numbered \"3019,\" showing a dirty horizontal water stain line across the stone exterior and doors from flooding."
 geo:
   address: ''
   lat: 0.0

@@ -24,6 +24,8 @@ files:
     original_filename: 0010.JPG
     thumb: /files/thumbnails/14fb2a5bd585e914fb2a5bd589cd.jpg
     url: /files/original/14fb2a5bd585e914fb2a5bd589cd.jpg
+    alt:
+      en: "Nighttime street scene illuminated by vehicle headlights, showing discarded refrigerators at curbside, parked cars, silhouetted houses, and power lines against a darkening dusk sky."
 geo:
 id: 3429
 item_type: Still Image

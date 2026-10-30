@@ -21,6 +21,8 @@ files:
     original_filename: a day in the life_9e0231814b.jpg
     thumb: /files/thumbnails/14fb29d79714ff14fb29d79716e4.jpg
     url: /files/original/14fb29d79714ff14fb29d79716e4.jpg
+    alt:
+      en: "Black-and-white photo captioned \"A Day In The Life...\" showing students gathered among parked cars, including a Ford Galaxie 500 and station wagon, in a school parking lot with trees and houses in the background."
 geo:
 id: 26824
 item_type: Still Image

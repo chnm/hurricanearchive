@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1475superdome.JPG
     thumb: /files/thumbnails/14fb29e398922914fb29e398960f.jpg
     url: /files/original/14fb29e398922914fb29e398960f.jpg
+    alt:
+      en: "Military personnel and trucks gather on a plaza near a statue, with a helicopter hovering overhead and an elevated highway in the background."
 geo:
 id: 24959
 item_type: Still Image

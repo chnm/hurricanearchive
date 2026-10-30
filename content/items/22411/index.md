@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1243Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6a7e1fa14fb29f6a7e981.jpg
     url: /files/original/14fb29f6a7e1fa14fb29f6a7e981.jpg
+    alt:
+      en: "Office space with multiple desks, computer monitors, and printers, where a group of people in military camouflage uniforms stand talking near the center of the room."
 geo:
 id: 22411
 item_type: Still Image

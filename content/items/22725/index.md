@@ -21,6 +21,8 @@ files:
     original_filename: PICT0643Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f466ccf014fb29f466d0d5.jpg
     url: /files/original/14fb29f466ccf014fb29f466d0d5.jpg
+    alt:
+      en: "A large boat on a trailer rests tipped against a brick house, with a dark SUV parked nearby on a gravel driveway and bare, storm-damaged trees in the background; dated 09.15.2005."
 geo:
 id: 22725
 item_type: Still Image

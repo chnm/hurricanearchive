@@ -20,6 +20,8 @@ files:
     original_filename: 2298641008_ccaf6faa28.
     thumb: /files/thumbnails/14fb29c80efd2814fb29c80f2855.jpg
     url: /files/original/14fb29c80efd2814fb29c80f2855.jpg
+    alt:
+      en: "Interior of a cargo truck or shipping container with metal ribbed walls and ceiling, where several people stand near bicycles loaded near the far end, while a man in a blue shirt walks toward the open doorway."
 geo:
 id: 34980
 item_type: Still Image

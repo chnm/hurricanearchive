@@ -20,6 +20,8 @@ files:
     original_filename: 16_869c7045b6.jpg
     thumb: /files/thumbnails/14fb29ca9ab0f114fb29ca9ab4d7.jpg
     url: /files/original/14fb29ca9ab0f114fb29ca9ab4d7.jpg
+    alt:
+      en: "Damaged living room with ceiling insulation and debris scattered across the floor, a torn couch, two dining chairs by a kitchen counter, and a wooden coffee table in the foreground."
 geo:
   address: 2000 Lakeshore Drive
   lat: 0.0

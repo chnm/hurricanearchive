@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003.JPG
     thumb: /files/thumbnails/14fb2a08a2981814fb2a08a29a17.jpg
     url: /files/original/14fb2a08a2981814fb2a08a29a17.jpg
+    alt:
+      en: "A woman in a yellow cap stands beside a table, conversing with a seated woman near an open laptop, water bottles, and papers, while others work at laptops in the background."
 geo:
 id: 20344
 item_type: Still Image

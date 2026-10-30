@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 169cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd43b5314fb2a0dd43f3f.jpg
     url: /files/original/14fb2a0dd43b5314fb2a0dd43f3f.jpg
+    alt:
+      en: "Downtown city skyline with a tall modern glass-and-granite skyscraper beside a slender white high-rise, a \"BELLSOUTH\" sign on a nearby building, surrounding low-rise structures, a palm tree, and an empty parking lot in the foreground."
 geo:
 id: 19782
 item_type: Still Image

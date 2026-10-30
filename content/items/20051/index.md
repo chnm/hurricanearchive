@@ -21,6 +21,8 @@ files:
     original_filename: Picture 148cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b8e9c0e14fb2a0b8e9ff4.jpg
     url: /files/original/14fb2a0b8e9c0e14fb2a0b8e9ff4.jpg
+    alt:
+      en: "Three men in military camouflage uniforms and caps sit in the bed of a green Dodge pickup truck, with weapons and a backpack visible, parked beneath an overpass."
 geo:
 id: 20051
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0018.JPG
     thumb: /files/thumbnails/14fb2a5829c33114fb2a5829c700.jpg
     url: /files/original/14fb2a5829c33114fb2a5829c700.jpg
+    alt:
+      en: "Debris-covered carport with a white sedan and covered boats buried in mud, pine branches, and scattered lumber, with a skid steer loader parked at left near a brick house."
 geo:
 id: 4065
 item_type: Still Image

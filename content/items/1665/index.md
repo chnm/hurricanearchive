@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28419.jpg
     thumb: /files/thumbnails/14fb2a6729d02d14fb2a6729d412.jpg
     url: /files/original/14fb2a6729d02d14fb2a6729d412.jpg
+    alt:
+      en: "Vast field of storm debris—splintered wood, sheet metal, and scattered rubble—stretches toward a distant tree line and power lines under a hazy sky in Slidell, Louisiana."
 geo:
   address: ''
   lat: 0.0

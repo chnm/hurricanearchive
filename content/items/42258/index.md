@@ -23,6 +23,8 @@ files:
     original_filename: 6032_2140722361.JPG
     thumb: /files/thumbnails/14fb29c299c3eb14fb29c299c7d2.jpg
     url: /files/original/14fb29c299c3eb14fb29c299c7d2.jpg
+    alt:
+      en: "Floodwater from the Jordan River spreads across the landscape, submerging trees and structures, photographed through a rain-streaked window under a cloudy sky as Hurricane Gustav approaches."
 geo:
   address: ''
   lat: 0.0

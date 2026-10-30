@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048OEP.JPG
     thumb: /files/thumbnails/14fb29f1f4028614fb29f1f4066c.jpg
     url: /files/original/14fb29f1f4028614fb29f1f4066c.jpg
+    alt:
+      en: "Parking lot with orange traffic cones, several parked vehicles, and large trailers or mobile units, one topped with a satellite dish, set against a clear blue sky."
 geo:
 id: 23038
 item_type: Still Image

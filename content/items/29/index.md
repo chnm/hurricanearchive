@@ -26,6 +26,8 @@ files:
     original_filename: katrina26_b51f7f4c79.jpg
     thumb: /files/thumbnails/14fb2a7143c43c14fb2a7143c822.jpg
     url: /files/original/14fb2a7143c43c14fb2a7143c822.jpg
+    alt:
+      en: "A person rests on a concrete barrier beneath an elevated interstate overpass, with floodwater pooled below and city buildings visible in the background."
 geo:
   address: ''
   lat: 0.0

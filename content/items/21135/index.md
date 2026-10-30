@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0183-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a006659bd14fb2a00665da6.jpg
     url: /files/original/14fb2a006659bd14fb2a00665da6.jpg
+    alt:
+      en: "Aerial view of a flooded roadway submerged in brown water, lined with leaning utility poles and surrounded by patches of marsh vegetation visible beneath the surface."
 geo:
 id: 21135
 item_type: Still Image

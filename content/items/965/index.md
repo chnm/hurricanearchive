@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28541.jpg
     thumb: /files/thumbnails/14fb2a6ba1f63214fb2a6ba1fb26.jpg
     url: /files/original/14fb2a6ba1f63214fb2a6ba1fb26.jpg
+    alt:
+      en: "Quiet downtown New Orleans street lined with wrought-iron balconies and an orange-brick building, an American flag hanging from a lamppost, with a delivery truck parked along the curb."
 geo:
   address: ''
   lat: 0.0

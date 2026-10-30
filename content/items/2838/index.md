@@ -21,6 +21,8 @@ files:
     original_filename: MVC-029S.JPG
     thumb: /files/thumbnails/14fb2a5fe4e49714fb2a5fe4ec2a.jpg
     url: /files/original/14fb2a5fe4e49714fb2a5fe4ec2a.jpg
+    alt:
+      en: "A damaged military aircraft with bent propeller and wing, marked with \"10,\" sits inside a hangar with a partially collapsed, debris-strewn ceiling and scattered supplies on the floor."
 geo:
 id: 2838
 item_type: Still Image

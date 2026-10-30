@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (7).JPG
     thumb: /files/thumbnails/14fb2a5dd3917414fb2a5dd3955a.jpg
     url: /files/original/14fb2a5dd3917414fb2a5dd3955a.jpg
+    alt:
+      en: "A damaged white house with a fallen tree leaning against its roof, surrounded by storm debris, broken trees, and a fence along a paved lot."
 geo:
 id: 3121
 item_type: Still Image

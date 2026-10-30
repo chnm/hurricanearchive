@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054-9-25.JPG
     thumb: /files/thumbnails/14fb2a0536580214fb2a05365f78.jpg
     url: /files/original/14fb2a0536580214fb2a05365f78.jpg
+    alt:
+      en: "Aerial view of a flooded rural landscape with scattered houses, debris, and overturned vehicles surrounded by standing water, downed trees, and a partially submerged roadway."
 geo:
 id: 20672
 item_type: Still Image

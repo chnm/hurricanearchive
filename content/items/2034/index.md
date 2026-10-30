@@ -26,6 +26,8 @@ files:
     original_filename: Image082_033ea7ba63.jpg
     thumb: /files/thumbnails/14fb2a6daac0f514fb2a6daac4c1.jpg
     url: /files/original/14fb2a6daac0f514fb2a6daac4c1.jpg
+    alt:
+      en: "A weathered house on stilts stands over the water, supported by wooden pilings and docks, with a rocky shoreline and bare tree branches in the foreground."
 geo:
   address: ''
   lat: 30.214278399476598

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1776superdome.JPG
     thumb: /files/thumbnails/14fb29e1853b2d14fb29e1854c5c.jpg
     url: /files/original/14fb29e1853b2d14fb29e1854c5c.jpg
+    alt:
+      en: "A woman and man descend concrete steps past a torn banner reading \"NORTHWEST,\" with military personnel in camouflage visible behind them."
 geo:
 id: 25166
 item_type: Still Image

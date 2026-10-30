@@ -21,6 +21,8 @@ files:
     original_filename: 09140003neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec70b05e14fb29ec70b444.jpg
     url: /files/original/14fb29ec70b05e14fb29ec70b444.jpg
+    alt:
+      en: "Military Humvee convoy driving down a tree-lined residential street, viewed from behind a canvas-covered truck bed with visible debris along the roadside."
 geo:
 id: 23906
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 033.jpg
     thumb: /files/thumbnails/14fb2a59d811e914fb2a59d815cb.jpg
     url: /files/original/14fb2a59d811e914fb2a59d815cb.jpg
+    alt:
+      en: "Devastated storm-damaged structure with exposed metal framing stands amid downed trees and debris, with two fire hydrants visible in a cleared, sandy lot under a clear blue sky."
 geo:
 id: 3753
 item_type: Still Image

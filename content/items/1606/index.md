@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28521.jpg
     thumb: /files/thumbnails/14fb2a677ad4c414fb2a677ad950.jpg
     url: /files/original/14fb2a677ad4c414fb2a677ad950.jpg
+    alt:
+      en: "A man wearing work gloves and a cap uses a tape measure while installing a black-and-white \"EXIT ONLY\" sign on a wooden fence beside a metal gate, with debris scattered on the ground nearby."
 geo:
   address: ''
   lat: 0.0

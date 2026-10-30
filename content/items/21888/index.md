@@ -21,6 +21,8 @@ files:
     original_filename: NewOrleans5.jpgsatellite
     thumb: /files/thumbnails/14fb29fb3e690c14fb29fb3e6cef.jpg
     url: /files/original/14fb29fb3e690c14fb29fb3e6cef.jpgsatellite
+    alt:
+      en: "Side-by-side satellite images of a New Orleans neighborhood labeled August 28, 2002 and September 2, 2005, showing dense residential streets and a park before and after widespread flooding submerged the area."
 geo:
 id: 21888
 item_type: Still Image

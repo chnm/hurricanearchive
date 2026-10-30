@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28162.jpg
     thumb: /files/thumbnails/14fb2a68925b6b14fb2a68926054.jpg
     url: /files/original/14fb2a68925b6b14fb2a68926054.jpg
+    alt:
+      en: "A damaged ornate lamp fixture with a bare light bulb lies amid debris, dried grass, and torn insulation material from storm wreckage."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 221 glass debris.jpg
     thumb: /files/thumbnails/14fb2a1f2baf1814fb2a1f2bb2fc.jpg
     url: /files/original/14fb2a1f2baf1814fb2a1f2bb2fc.jpg
+    alt:
+      en: "Shattered glass fragments scattered across a rough, speckled asphalt or concrete surface, with pieces of varying sizes reflecting light."
 geo:
 id: 13226
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 040.jpg
     thumb: /files/thumbnails/14fb2a12d1781214fb2a12d17bd1.jpg
     url: /files/original/14fb2a12d1781214fb2a12d17bd1.jpg
+    alt:
+      en: "Close-up of a purple semi-truck's front grille and cab, parked beside a white trailer, with a windshield sign reading \"USACE Disaster Relief Vehicle, Hurricane Katrina.\""
 geo:
 id: 19130
 item_type: Still Image

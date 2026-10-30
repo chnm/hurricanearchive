@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007M.JPG
     thumb: /files/thumbnails/14fb2a0839587114fb2a08395c2e.jpg
     url: /files/original/14fb2a0839587114fb2a08395c2e.jpg
+    alt:
+      en: "A man with short gray hair wears a sleeveless brown shirt and holds a small device near his upper arm, appearing to examine it while indoors under fluorescent ceiling lights."
 geo:
 id: 20379
 item_type: Still Image

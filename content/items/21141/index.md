@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0185-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a00604f6e14fb2a00605337.jpg
     url: /files/original/14fb2a00604f6e14fb2a00605337.jpg
+    alt:
+      en: "Collapsed houses reduced to piles of splintered wood and debris line a flooded street, with damaged vehicles and downed power lines amid standing water reflecting the gray sky."
 geo:
 id: 21141
 item_type: Still Image

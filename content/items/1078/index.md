@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28137.jpg
     thumb: /files/thumbnails/14fb2a6b274a3e14fb2a6b274dbd.jpg
     url: /files/original/14fb2a6b274a3e14fb2a6b274dbd.jpg
+    alt:
+      en: "Debris field of splintered wood planks, twisted metal, and scattered household items covers the ground, with a damaged house and trees visible in the background under a hazy sky."
 geo:
   address: ''
   lat: 0.0

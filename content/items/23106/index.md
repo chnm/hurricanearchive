@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0116OEP.JPG
     thumb: /files/thumbnails/14fb29f18a04f414fb29f18a08d9.jpg
     url: /files/original/14fb29f18a04f414fb29f18a08d9.jpg
+    alt:
+      en: "Woman in a navy jacket leans over a cubicle wall, gesturing while speaking, surrounded by office cubicles covered with papers, notes, and handwritten phone numbers including \"PELICAN PASS,\" \"SUPERDOME,\" and \"703-805-9984.\""
 geo:
 id: 23106
 item_type: Still Image

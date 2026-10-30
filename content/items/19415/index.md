@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a10617e4f14fb2a10618783.jpg
     url: /files/original/14fb2a10617e4f14fb2a10618783.jpg
+    alt:
+      en: "A man in a cap and sunglasses with a radio harness raises his hand while standing near a damaged, barricaded bridge, as military personnel and others look on by the water's edge."
 geo:
 id: 19415
 item_type: Still Image

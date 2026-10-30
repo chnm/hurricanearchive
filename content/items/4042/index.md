@@ -21,6 +21,8 @@ files:
     original_filename: DSC01165.JPG
     thumb: /files/thumbnails/14fb2a5844a53314fb2a5844a886.jpg
     url: /files/original/14fb2a5844a53314fb2a5844a886.jpg
+    alt:
+      en: "Elevated highway with concrete barrier overlooking a city skyline of high-rise buildings and a domed stadium under a clear blue sky; a timestamp reads \"7 10:21 AM\" in the corner."
 geo:
 id: 4042
 item_type: Still Image

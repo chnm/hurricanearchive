@@ -21,6 +21,8 @@ files:
     original_filename: FH000017.jpg
     thumb: /files/thumbnails/14fb29fc6853e914fb29fc6857c8.jpg
     url: /files/original/14fb29fc6853e914fb29fc6857c8.jpg
+    alt:
+      en: "A large fallen tree with sawn branches lies across a pickup truck and sedan parked in a lot, with houses visible in the background."
 geo:
 id: 21690
 item_type: Still Image

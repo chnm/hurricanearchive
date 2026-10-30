@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1919superdome.JPG
     thumb: /files/thumbnails/14fb29e0c4718d14fb29e0c47572.jpg
     url: /files/original/14fb29e0c4718d14fb29e0c47572.jpg
+    alt:
+      en: "Military helicopter marked \"20\" parked on pavement with crew members visible inside, while two soldiers in fatigues move across the foreground—one crouching with gear, the other kneeling with a rifle."
 geo:
 id: 25220
 item_type: Still Image

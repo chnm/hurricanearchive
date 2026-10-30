@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0108-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e731b75614fb29e731bb31.jpg
     url: /files/original/14fb29e731b75614fb29e731bb31.jpg
+    alt:
+      en: "A dark-colored duck floats on murky, brownish water, creating ripples that spread across the surface, with a twig resting on its back."
 geo:
 id: 24512
 item_type: Still Image

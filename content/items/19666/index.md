@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 053cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e81c00514fb2a0e81c3eb.jpg
     url: /files/original/14fb2a0e81c00514fb2a0e81c3eb.jpg
+    alt:
+      en: "Close-up of a military uniform's shoulder in woodland camouflage pattern, featuring a round embroidered patch with a dark green cross dividing a tan circle, bordered in black."
 geo:
 id: 19666
 item_type: Still Image

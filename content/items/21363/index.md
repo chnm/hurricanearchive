@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0237-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff35475c14fb29ff354b42.jpg
     url: /files/original/14fb29ff35475c14fb29ff354b42.jpg
+    alt:
+      en: "Aerial view of a flooded industrial storage facility with large spherical and cylindrical tanks surrounded by standing floodwater, with scattered equipment, pipes, and debris submerged in the foreground."
 geo:
 id: 21363
 item_type: Still Image

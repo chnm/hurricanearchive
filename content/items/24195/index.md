@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29e9dd60e214fb29e9dd64d4.jpg
     url: /files/original/14fb29e9dd60e214fb29e9dd64d4.jpg
+    alt:
+      en: "Storm-damaged two-story building with its exterior walls torn away, exposing stacked boxes and belongings inside; crumpled metal roofing lies on the ground amid grass and pampas grass near a highway guardrail."
 geo:
 id: 24195
 item_type: Still Image

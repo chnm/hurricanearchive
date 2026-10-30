@@ -27,6 +27,8 @@ files:
     original_filename: 385028111_1256521eab.
     thumb: /files/thumbnails/14fb29d2713fef14fb29d27143d5.jpg
     url: /files/original/14fb29d2713fef14fb29d27143d5.jpg
+    alt:
+      en: "Blurry indoor photo of a woman in a white butterfly-print shirt dancing with raised hands, surrounded by several other people in a dimly lit room with a wooden door visible on the right."
 geo:
 id: 28261
 item_type: Still Image

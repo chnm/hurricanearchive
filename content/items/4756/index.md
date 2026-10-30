@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0266.JPG
     thumb: /files/thumbnails/14fb2a55ba0c2d14fb2a55ba0faa.jpg
     url: /files/original/14fb2a55ba0c2d14fb2a55ba0faa.jpg
+    alt:
+      en: "Storm-damaged apartment buildings with missing roof shingles and torn siding, surrounded by scattered debris on the lawn and parking lot, with a white SUV parked nearby."
 geo:
 id: 4756
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003-15.JPG
     thumb: /files/thumbnails/14fb2a08aeaaf814fb2a08aeaedd.jpg
     url: /files/original/14fb2a08aeaaf814fb2a08aeaedd.jpg
+    alt:
+      en: "A military medical helicopter with a red cross marking hovers low over a paved area near Quonset-style hangars, with green grass and a cloudy blue sky in the background."
 geo:
 id: 20338
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28474.jpg
     thumb: /files/thumbnails/14fb2a68242f4714fb2a6824332d.jpg
     url: /files/original/14fb2a68242f4714fb2a6824332d.jpg
+    alt:
+      en: "An older man sits on a makeshift bed at a shelter, while a young girl cradles a sleeping baby beside him amid piles of quilts and donated belongings."
 geo:
   address: ''
   lat: 0.0

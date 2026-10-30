@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C0S_354029c215.jpg
     thumb: /files/thumbnails/14fb2a66a920c414fb2a66a95038.jpg
     url: /files/original/14fb2a66a920c414fb2a66a95038.jpg
+    alt:
+      en: "Two Coast Guard personnel in dark uniforms walk through hurricane debris near Gulfport, Mississippi, with a bare tree draped in shredded plastic and wreckage scattered across the ground."
 geo:
 id: 2408
 item_type: Still Image

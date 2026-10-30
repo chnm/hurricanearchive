@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 051.jpg
     thumb: /files/thumbnails/14fb2a22b2343c14fb2a22b23821.jpg
     url: /files/original/14fb2a22b2343c14fb2a22b23821.jpg
+    alt:
+      en: "Two-story building with storm-damaged siding and torn roofline behind a large tree with broken limbs and a snapped trunk, surrounded by fallen branches and debris on the lawn; dated 2005/09/24."
 geo:
 id: 11929
 item_type: Still Image

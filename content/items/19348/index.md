@@ -21,6 +21,8 @@ files:
     original_filename: J2 (8).JPG
     thumb: /files/thumbnails/14fb2a10f5baea14fb2a10f5becf.jpg
     url: /files/original/14fb2a10f5baea14fb2a10f5becf.jpg
+    alt:
+      en: "Flooded city street lined with trees and buildings, with a pedestrian bridge reading \"Tulane Univers...\" spanning above; debris floats on the water and a leaning street sign stands near the curb."
 geo:
 id: 19348
 item_type: Still Image

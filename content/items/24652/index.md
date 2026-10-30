@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047medics.JPG
     thumb: /files/thumbnails/14fb29e5d0536714fb29e5d0574a.jpg
     url: /files/original/14fb29e5d0536714fb29e5d0574a.jpg
+    alt:
+      en: "A military medic wearing camouflage fatigues and latex gloves administers care to the arm of a seated woman in a brown shirt, with shelves of supplies visible in the background."
 geo:
 id: 24652
 item_type: Still Image

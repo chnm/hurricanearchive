@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2153rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d77d1714fb2a13d780fd.jpg
     url: /files/original/14fb2a13d77d1714fb2a13d780fd.jpg
+    alt:
+      en: "Crew members in military flight suits and helmets lean out of a helicopter equipped with a mounted camera, flying over a flooded residential neighborhood with submerged streets and rooftops below."
 geo:
 id: 18991
 item_type: Still Image

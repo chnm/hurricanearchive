@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28595.jpg
     thumb: /files/thumbnails/14fb2a6ab2e40214fb2a6ab2e7f0.jpg
     url: /files/original/14fb2a6ab2e40214fb2a6ab2e7f0.jpg
+    alt:
+      en: "A large boat lies beached atop storm debris beside a damaged wooden fence reading \"FISHING CAPTAIN GREG,\" with a tree and cloudy sky in the background."
 geo:
   address: ''
   lat: 0.0

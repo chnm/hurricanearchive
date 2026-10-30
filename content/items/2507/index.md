@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8621.jpg
     thumb: /files/thumbnails/14fb2a65d38cdd14fb2a65d390c3.jpg
     url: /files/original/14fb2a65d38cdd14fb2a65d390c3.jpg
+    alt:
+      en: "A storm-damaged house on stilts with a partially collapsed roof stands near the water, surrounded by debris, scattered rocks, and a bare tree in the foreground."
 geo:
 id: 2507
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100-08_b1426fcb0f.jpg
     thumb: /files/thumbnails/14fb2a221d6b0114fb2a221d6ef1.jpg
     url: /files/original/14fb2a221d6b0114fb2a221d6ef1.jpg
+    alt:
+      en: "Vintage color photo of a man holding a dog and a girl standing on a grassy roadside, with single-story houses, a parked car, and utility lines in the background."
 geo:
 id: 12425
 item_type: Still Image

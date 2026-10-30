@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1306Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f652a59b14fb29f652ac1a.jpg
     url: /files/original/14fb29f652a59b14fb29f652ac1a.jpg
+    alt:
+      en: "Floodwaters submerge a street with a partially sunken vehicle and a tilted \"Ryder\" moving truck, surrounded by storm-damaged trees and a rooftop in the background under an overcast sky."
 geo:
 id: 22465
 item_type: Still Image

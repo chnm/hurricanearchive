@@ -21,6 +21,8 @@ files:
     original_filename: 100_0260.JPG
     thumb: /files/thumbnails/14fb2a5ee2549214fb2a5ee258d3.jpg
     url: /files/original/14fb2a5ee2549214fb2a5ee258d3.jpg
+    alt:
+      en: "Large vessel resting on concrete blocks with chains securing its rusted hull, portholes and railings visible along the upper deck against a clear sky."
 geo:
 id: 3011
 item_type: Still Image

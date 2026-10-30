@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0032.JPG
     thumb: /files/thumbnails/14fb2a56c42fd614fb2a56c433c6.jpg
     url: /files/original/14fb2a56c42fd614fb2a56c433c6.jpg
+    alt:
+      en: "Close-up of a tan sedan's side doors and windows parked in a driveway, with a house, trees, and an American flag reflected in the glass and visible in the background."
 geo:
 id: 4606
 item_type: Still Image

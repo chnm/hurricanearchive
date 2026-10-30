@@ -26,6 +26,8 @@ files:
     original_filename: 042_42_36345fc6e7.JPG
     thumb: /files/thumbnails/14fb2a6f88875814fb2a6f888c3c.jpg
     url: /files/original/14fb2a6f88875814fb2a6f888c3c.jpg
+    alt:
+      en: "A man stands on a sand-covered road beside a partially buried green street sign reading \"Downtown Long Beach,\" with storm debris scattered along the shoreline behind him."
 geo:
   address: ''
   lat: 30.374646

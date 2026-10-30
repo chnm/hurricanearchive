@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0002.JPG
     thumb: /files/thumbnails/14fb2a57a576c714fb2a57a57ab0.jpg
     url: /files/original/14fb2a57a576c714fb2a57a57ab0.jpg
+    alt:
+      en: "Flat marshland with dry brown grasses in the foreground, leading to a distant industrial area with a shipwrecked boat, crane, storage tanks, and bare trees against a clear sky."
 geo:
 id: 4116
 item_type: Still Image

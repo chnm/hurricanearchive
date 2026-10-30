@@ -21,6 +21,8 @@ files:
     original_filename: FH000027.jpg
     thumb: /files/thumbnails/14fb29fc5dfdc514fb29fc5e01a5.jpg
     url: /files/original/14fb29fc5dfdc514fb29fc5e01a5.jpg
+    alt:
+      en: "A storm-damaged residential scene with a dried-mud yard covered in broken tree branches, an overturned truck leaning against a tree, and a pickup truck and RV parked on the street beside a house."
 geo:
 id: 21698
 item_type: Still Image

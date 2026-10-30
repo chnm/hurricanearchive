@@ -24,6 +24,8 @@ files:
     original_filename: RB Priest 1947_ae1fa36357.jpg
     thumb: /files/thumbnails/14fb29d7f872b114fb29d7f87698.jpg
     url: /files/original/14fb29d7f872b114fb29d7f87698.jpg
+    alt:
+      en: "A priest in cassock stands outside a brick church building with two women nearby, one holding his hand, in this cracked 1947 photograph from St. Peter and Paul church, New Orleans."
 geo:
   address: ''
   lat: 29.87876

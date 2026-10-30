@@ -21,6 +21,8 @@ files:
     original_filename: P1010204empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed36250214fb29ed3628e7.jpg
     url: /files/original/14fb29ed36250214fb29ed3628e7.jpg
+    alt:
+      en: "Tall marsh grasses line a muddy waterway, with a Komatsu excavator and bulldozer working atop an embankment in the background under a hazy sky."
 geo:
 id: 23763
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300135Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f401fd6a14fb29f4020146.jpg
     url: /files/original/14fb29f401fd6a14fb29f4020146.jpg
+    alt:
+      en: "Blurry roadside scene with damaged vehicles piled along the curb, a large red shipping container, scattered debris, and trees under a partly cloudy sky."
 geo:
 id: 22779
 item_type: Still Image

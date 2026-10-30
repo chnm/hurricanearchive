@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1595hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee93291514fb29ee932cfb.jpg
     url: /files/original/14fb29ee93291514fb29ee932cfb.jpg
+    alt:
+      en: "High-rise building with extensive glass curtain-wall damage, many windows shattered or hanging in tatters, surrounded by intact glass towers, a streetlamp, and trees in foreground."
 geo:
 id: 23595
 item_type: Still Image

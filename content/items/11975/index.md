@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 022.jpg
     thumb: /files/thumbnails/14fb2a227d916014fb2a227d94f1.jpg
     url: /files/original/14fb2a227d916014fb2a227d94f1.jpg
+    alt:
+      en: "A large white two-story house with storm-damaged walls and balconies stands amid barren, bulldozed sand and debris, with a wrecked car nearby and bare trees in the background."
 geo:
 id: 11975
 item_type: Still Image

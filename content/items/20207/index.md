@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0142-9-18.JPG
     thumb: /files/thumbnails/14fb2a0ab8917014fb2a0ab89557.jpg
     url: /files/original/14fb2a0ab8917014fb2a0ab89557.jpg
+    alt:
+      en: "A uniformed service member in camouflage kneels amid rubble of broken concrete slabs and exposed rebar, with a dog nearby on a leash attached to debris."
 geo:
 id: 20207
 item_type: Still Image

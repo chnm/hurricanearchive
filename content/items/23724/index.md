@@ -21,6 +21,8 @@ files:
     original_filename: P1010165empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed82c9db14fb29ed82cdc0.jpg
     url: /files/original/14fb29ed82c9db14fb29ed82cdc0.jpg
+    alt:
+      en: "View from the back of a military-style truck bed with a whip antenna, looking out at a rusted metal barge run aground amid storm-damaged, broken trees along a shoreline."
 geo:
 id: 23724
 item_type: Still Image

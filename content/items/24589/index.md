@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0122-21.JPG
     thumb: /files/thumbnails/14fb29e66111ed14fb29e6611792.jpg
     url: /files/original/14fb29e66111ed14fb29e6611792.jpg
+    alt:
+      en: "Blurred, motion-streaked indoor photo of a person in camouflage clothing holding a video camera to their eye, with another figure partially visible nearby and ceiling lights overhead."
 geo:
 id: 24589
 item_type: Still Image

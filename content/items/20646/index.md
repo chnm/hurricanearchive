@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048M.JPG
     thumb: /files/thumbnails/14fb2a0575290214fb2a05752d59.jpg
     url: /files/original/14fb2a0575290214fb2a05752d59.jpg
+    alt:
+      en: "View from a bridge railing overlooking a wide river or waterway lined with industrial docks, cranes, and ships under a hazy sky."
 geo:
 id: 20646
 item_type: Still Image

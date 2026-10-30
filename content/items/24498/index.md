@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0105-9-25.JPG
     thumb: /files/thumbnails/14fb29e73cbee614fb29e73cc2cc.jpg
     url: /files/original/14fb29e73cbee614fb29e73cc2cc.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses and mobile homes submerged to their rooflines, surrounded by bare, storm-damaged trees and scattered debris."
 geo:
 id: 24498
 item_type: Still Image

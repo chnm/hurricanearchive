@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28013.jpg
     thumb: /files/thumbnails/14fb2a6b74feb814fb2a6b75029d.jpg
     url: /files/original/14fb2a6b74feb814fb2a6b75029d.jpg
+    alt:
+      en: "A concrete floodwall runs along a gravel road beside a wide body of water, with sandbags at its base, a distant bridge and crane, and a white pickup truck parked nearby."
 geo:
   address: ''
   lat: 0.0

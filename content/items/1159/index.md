@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28031.jpg
     thumb: /files/thumbnails/14fb2a6aba944314fb2a6aba9829.jpg
     url: /files/original/14fb2a6aba944314fb2a6aba9829.jpg
+    alt:
+      en: "Gravel-covered breach site at the 17th Street Canal in Lakeview, New Orleans, with standing floodwater and debris, and damaged homes visible in the background."
 geo:
   address: ''
   lat: 0.0

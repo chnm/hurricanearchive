@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0752.JPG
     thumb: /files/thumbnails/14fb2a5707024214fb2a5707061c.jpg
     url: /files/original/14fb2a5707024214fb2a5707061c.jpg
+    alt:
+      en: "Wooden pergola-like frame structures under construction on a concrete plaza, enclosed by black metal fencing, with pine trees and a cloudy sky in the background."
 geo:
 id: 4550
 item_type: Still Image

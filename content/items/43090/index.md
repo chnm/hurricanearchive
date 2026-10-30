@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0020_dd0fb99d4c.jpg
     thumb: /files/thumbnails/14fb29c26458fb14fb29c2645e2e.jpg
     url: /files/original/14fb29c26458fb14fb29c2645e2e.jpg
+    alt:
+      en: "Black-and-white photo of a bearded man in a t-shirt and jeans leaning against a door, beside handwritten text reading \"Fear and Loathing in New Orleans.\""
 geo:
 id: 43090
 item_type: Still Image

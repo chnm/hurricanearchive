@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0270-9-25.JPG
     thumb: /files/thumbnails/14fb29fe6e722414fb29fe6e7601.jpg
     url: /files/original/14fb29fe6e722414fb29fe6e7601.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters covering a roadway and surrounding land, with a small boat creating ripples, a capsized vehicle near the shoreline, patches of floating vegetation, and partially submerged trees and poles."
 geo:
 id: 21473
 item_type: Still Image

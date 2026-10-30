@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 069.jpg
     thumb: /files/thumbnails/14fb2a128b24ba14fb2a128b28a7.jpg
     url: /files/original/14fb2a128b24ba14fb2a128b28a7.jpg
+    alt:
+      en: "Empty, debris-strewn racetrack parking lot with a stranded boat and jet ski, scattered chairs, and entrance gates reading \"NO EXIT\" and \"EXIT AFTER 7th RACE,\" with storm-damaged houses in the background."
 geo:
 id: 19159
 item_type: Still Image

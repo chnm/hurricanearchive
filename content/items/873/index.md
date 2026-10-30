@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28465.jpg
     thumb: /files/thumbnails/14fb2a6c8bea7614fb2a6c8bee54.jpg
     url: /files/original/14fb2a6c8bea7614fb2a6c8bee54.jpg
+    alt:
+      en: "A woman sits at a wooden office desk with a laptop, phone, and papers, in front of a shelving unit topped with framed photos, flowers, and a floral wreath on the wall."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-paella_c77bc0fe12.jpg
     thumb: /files/thumbnails/14fb29dc0cd25114fb29dc0cd9c9.jpg
     url: /files/original/14fb29dc0cd25114fb29dc0cd9c9.jpg
+    alt:
+      en: "Scanned cookbook page 310 titled \"Paella (Rodriguez)\" under the \"Vegetables, Rice & Pasta\" section, listing ingredients in two columns, followed by preparation instructions and a note about saffron's origin and cost."
 geo:
 id: 25813
 item_type: Still Image

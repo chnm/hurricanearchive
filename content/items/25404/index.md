@@ -21,6 +21,8 @@ files:
     original_filename: New Orleans from I-10 3superdome.jpg
     thumb: /files/thumbnails/14fb29de2e548d14fb29de2e5873.jpg
     url: /files/original/14fb29de2e548d14fb29de2e5873.jpg
+    alt:
+      en: "View from a vehicle on I-10 highway overlooking downtown New Orleans, with the Superdome and city skyscrapers visible ahead; a green highway sign reads \"TO 90 WEST\" with an \"EXIT\" marker."
 geo:
 id: 25404
 item_type: Still Image

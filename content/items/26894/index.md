@@ -21,6 +21,8 @@ files:
     original_filename: KJ Snow 4  64-04_42913cd1be.jpg
     thumb: /files/thumbnails/14fb29d665ac2914fb29d665af37.jpg
     url: /files/original/14fb29d665ac2914fb29d665af37.jpg
+    alt:
+      en: "Black-and-white photo of two young children in winter coats walking along a snow-lined sidewalk, with houses and parked cars visible in the background, Chalmette, Louisiana, 1964."
 geo:
   address: ''
   lat: 29.91685

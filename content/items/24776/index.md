@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2098superdome.JPG
     thumb: /files/thumbnails/14fb29e4cb43fd14fb29e4cb47e4.jpg
     url: /files/original/14fb29e4cb43fd14fb29e4cb47e4.jpg
+    alt:
+      en: "Downtown city skyline under overcast skies, featuring a tall glass skyscraper partly shrouded in mist, with a heavily damaged high-rise showing broken windows on the right."
 geo:
 id: 24776
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: AB Pontchartrain Beach_0c4c84c34a.jpg
     thumb: /files/thumbnails/14fb29d9411d3314fb29d9412118.jpg
     url: /files/original/14fb29d9411d3314fb29d9412118.jpg
+    alt:
+      en: "Vintage black-and-white photo of a young woman in a sleeveless blouse and dark skirt sitting on a curved stone planter edge, with palm trees and buildings in the background, Pontchartrain Beach, 1950s."
 geo:
   address: ''
   lat: 29.87876

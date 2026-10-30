@@ -20,6 +20,8 @@ files:
     original_filename: pics+2006-07+136_dea3b3cfb3.jpg
     thumb: /files/thumbnails/14fb29ce04ff4c14fb29ce050332.jpg
     url: /files/original/14fb29ce04ff4c14fb29ce050332.jpg
+    alt:
+      en: "A man in the foreground wears a shirt quoting Tennessee Williams while workers in orange safety vests guide a red house being transported on a flatbed Mack truck down a residential street."
 geo:
 id: 30026
 item_type: Still Image

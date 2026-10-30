@@ -24,6 +24,8 @@ files:
     original_filename: P1010081.JPG
     thumb: /files/thumbnails/14fb2a5a7e991314fb2a5a7e9ce0.jpg
     url: /files/original/14fb2a5a7e991314fb2a5a7e9ce0.jpg
+    alt:
+      en: "A discarded MRE (Meal, Ready-to-Eat) pouch labeled \"Grilled Beefsteak with Mushroom Gravy\" lies on debris-strewn pavement amid broken glass and dried leaves."
 geo:
 id: 3645
 item_type: Still Image

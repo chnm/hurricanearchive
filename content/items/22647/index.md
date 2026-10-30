@@ -21,6 +21,8 @@ files:
     original_filename: More Jackson Barracks 6Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4de912614fb29f4de950d.jpg
     url: /files/original/14fb29f4de912614fb29f4de950d.jpg
+    alt:
+      en: "Floodwater submerges a residential street and yards up to tree trunks and house foundations, viewed from inside a vehicle with trees and rooftops visible in the background."
 geo:
 id: 22647
 item_type: Still Image

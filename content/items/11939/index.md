@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 061.jpg
     thumb: /files/thumbnails/14fb2a22a9d9ae14fb2a22a9dd93.jpg
     url: /files/original/14fb2a22a9d9ae14fb2a22a9dd93.jpg
+    alt:
+      en: "Photo taken through a car windshield shows storm debris and a collapsed gas station canopy near a lighthouse, with military vehicles on the road; dated 2005/09/24."
 geo:
 id: 11939
 item_type: Still Image

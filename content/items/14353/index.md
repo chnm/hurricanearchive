@@ -21,6 +21,8 @@ files:
     original_filename: aerials63.jpg
     thumb: /files/thumbnails/14fb2a19a7322414fb2a19a75d24.jpg
     url: /files/original/14fb2a19a7322414fb2a19a75d24.jpg
+    alt:
+      en: "Aerial view of storm debris scattered across a sandy, light-colored surface, including broken wood, scraps of metal, and assorted rubble strewn across the ground."
 geo:
 id: 14353
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046engineers.JPG
     thumb: /files/thumbnails/14fb2a1090eaea14fb2a1090eece.jpg
     url: /files/original/14fb2a1090eaea14fb2a1090eece.jpg
+    alt:
+      en: "Storm-damaged residential street with a wrecked white house missing walls, scattered debris and lumber across a grassy yard, utility poles with sagging lines, and calm water visible beyond the homes."
 geo:
 id: 19399
 item_type: Still Image

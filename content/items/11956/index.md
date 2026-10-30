@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 003.jpg
     thumb: /files/thumbnails/14fb2a228dda6d14fb2a228dde53.jpg
     url: /files/original/14fb2a228dda6d14fb2a228dde53.jpg
+    alt:
+      en: "A white \"Carson\" motorboat sits beached in the parking lot of a storm-damaged Burger King, its roof torn and shingles stripped away, with debris scattered across the pavement."
 geo:
 id: 11956
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: Lyndel house (2)_43d186d3f8.jpg
     thumb: /files/thumbnails/14fb29ca92ed3714fb29ca92f69e.jpg
     url: /files/original/14fb29ca92ed3714fb29ca92f69e.jpg
+    alt:
+      en: "Damaged kitchen with warped plywood cabinets, exposed wall studs, a cluttered stovetop, and debris piled on the floor and counters after flooding."
 geo:
   address: ''
   lat: 0.0

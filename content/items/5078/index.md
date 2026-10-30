@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0423.JPG
     thumb: /files/thumbnails/14fb2a541313bc14fb2a541317a1.jpg
     url: /files/original/14fb2a541313bc14fb2a541317a1.jpg
+    alt:
+      en: "Debris field with scattered lumber, broken trees, and a discarded appliance in a cleared, barren lot, with surviving pine trees standing amid the wreckage."
 geo:
 id: 5078
 item_type: Still Image

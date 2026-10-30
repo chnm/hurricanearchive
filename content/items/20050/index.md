@@ -21,6 +21,8 @@ files:
     original_filename: Picture 147cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b9024da14fb2a0b9028c0.jpg
     url: /files/original/14fb2a0b9024da14fb2a0b9028c0.jpg
+    alt:
+      en: "A blurred roadside view showing a concrete curb lined with patchy grass and weeds, a thin cable running along the grassy edge, and a paved road with a white line in the foreground."
 geo:
 id: 20050
 item_type: Still Image

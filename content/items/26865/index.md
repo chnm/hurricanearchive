@@ -21,6 +21,8 @@ files:
     original_filename: facees in yearbook_d01df5d983.jpg
     thumb: /files/thumbnails/14fb29d7058c5614fb29d705903e.jpg
     url: /files/original/14fb29d7058c5614fb29d705903e.jpg
+    alt:
+      en: "Black-and-white yearbook page with six graduation portraits of students in caps and gowns, alongside printed names: Christine Simeon, Dawn Simon, Kecia Smith, Gary Songy, Michelle Spraul, Bobby Stant, Kimberly Surbeck, and Brandy Swindler."
 geo:
 id: 26865
 item_type: Still Image

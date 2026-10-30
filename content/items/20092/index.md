@@ -21,6 +21,8 @@ files:
     original_filename: Picture 189cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b5d66c014fb2a0b5d6a5f.jpg
     url: /files/original/14fb2a0b5d66c014fb2a0b5d6a5f.jpg
+    alt:
+      en: "A paved roadside area with scattered debris and storm-damaged trees, bordered by grass, a parking lot, and a low building in the background under a clear blue sky."
 geo:
 id: 20092
 item_type: Still Image

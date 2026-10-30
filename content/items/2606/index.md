@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9545.jpg
     thumb: /files/thumbnails/14fb2a643e98cd14fb2a643e9ec1.jpg
     url: /files/original/14fb2a643e98cd14fb2a643e9ec1.jpg
+    alt:
+      en: "Pale green building facade with a multi-pane window covered by blinds and security bars, marked with spray-painted \"DOG O.K.\" and \"petfinder.com,\" plus an orange \"City of New Orleans\" condemnation notice."
 geo:
 id: 2606
 item_type: Still Image

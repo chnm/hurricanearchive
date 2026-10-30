@@ -23,6 +23,8 @@ files:
     original_filename: 2326067149_106fa9bcfe.
     thumb: /files/thumbnails/14fb29c9ed306d14fb29c9ed3453.jpg
     url: /files/original/14fb29c9ed306d14fb29c9ed3453.jpg
+    alt:
+      en: "Debris-strewn shoreline of a marina with wrecked boats, scattered wood, and damaged waterfront homes in the background, calm water in the foreground."
 geo:
   address: ''
   lat: 30.22047

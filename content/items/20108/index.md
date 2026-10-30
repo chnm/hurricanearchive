@@ -21,6 +21,8 @@ files:
     original_filename: Picture 205cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b4cee5114fb2a0b4cf23d.jpg
     url: /files/original/14fb2a0b4cee5114fb2a0b4cf23d.jpg
+    alt:
+      en: "Fallen and leaning trees on a grassy slope, with an upright tree and a silver fire hydrant standing nearby in the foreground."
 geo:
 id: 20108
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0225.JPG
     thumb: /files/thumbnails/14fb2a54fd582f14fb2a54fd5c1c.jpg
     url: /files/original/14fb2a54fd582f14fb2a54fd5c1c.jpg
+    alt:
+      en: "Collapsed house reduced to rubble with a tilted roof section, scattered debris, and a brick walkway leading through the wreckage, surrounded by damaged trees."
 geo:
 id: 4906
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 385028115_e58e4dd501.
     thumb: /files/thumbnails/14fb29d27b935214fb29d27b978b.jpg
     url: /files/original/14fb29d27b935214fb29d27b978b.jpg
+    alt:
+      en: "Black-and-white portrait photos of family members hang between exposed wall studs in a gutted house, alongside a large silhouette drawing of a woman with a drill and go cup."
 geo:
 id: 28259
 item_type: Still Image

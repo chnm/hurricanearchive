@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0236-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff39b3c914fb29ff39b7af.jpg
     url: /files/original/14fb29ff39b3c914fb29ff39b7af.jpg
+    alt:
+      en: "Aerial view of a flooded industrial storage yard with submerged chain-link fencing, scattered pipes, valves, a blue shipping container, and debris surrounded by muddy floodwater."
 geo:
 id: 21359
 item_type: Still Image

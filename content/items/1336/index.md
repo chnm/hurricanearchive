@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28373.jpg
     thumb: /files/thumbnails/14fb2a6974e85f14fb2a6974ec45.jpg
     url: /files/original/14fb2a6974e85f14fb2a6974ec45.jpg
+    alt:
+      en: "Sang Nguyen sits in the wheelhouse of his shrimp boat, Miss Brittany, gesturing as he talks, with binoculars, a timing device, and a large wooden wheel nearby."
 geo:
   address: ''
   lat: 0.0

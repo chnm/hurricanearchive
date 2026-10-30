@@ -18,6 +18,8 @@ files:
     original_filename: 86_dc92214ec4.jpg
     thumb: /files/thumbnails/14fb29c636d87d14fb29c636dc63.jpg
     url: /files/original/14fb29c636d87d14fb29c636dc63.jpg
+    alt:
+      en: "Group of five people wearing Santa hats pose outside \"Frady's One Stop Food Store,\" a yellow building with a \"Po-Boys of All Kinds\" sign, amid falling confetti or snow effect."
 geo:
   address: new orleans, la
   lat: 29.95324

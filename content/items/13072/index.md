@@ -21,6 +21,8 @@ files:
     original_filename: broken windows.jpg
     thumb: /files/thumbnails/14fb2a2091b8eb14fb2a2091bcc2.jpg
     url: /files/original/14fb2a2091b8eb14fb2a2091bcc2.jpg
+    alt:
+      en: "High-rise building facade with numerous shattered and boarded windows across multiple floors, with tattered material hanging from the broken frames."
 geo:
 id: 13072
 item_type: Still Image

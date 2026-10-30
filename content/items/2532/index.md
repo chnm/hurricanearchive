@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8758.jpg
     thumb: /files/thumbnails/14fb2a65ae06e914fb2a65ae0ad2.jpg
     url: /files/original/14fb2a65ae06e914fb2a65ae0ad2.jpg
+    alt:
+      en: "A large shrimp trawler named \"Lucky Boat\" lies grounded on a grassy levee, its rigging and crane masts towering against a clear blue sky, surrounded by storm-damaged brush and debris."
 geo:
 id: 2532
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7161_225fdfe2c1.jpg
     thumb: /files/thumbnails/14fb29d354a86814fb29d354ac54.jpg
     url: /files/original/14fb29d354a86814fb29d354ac54.jpg
+    alt:
+      en: "Two young girls sit smiling in a red and blue Tilt-A-Whirl car with a domed canopy, a fenced walkway and trees visible in the background."
 geo:
   address: ''
   lat: 29.87876

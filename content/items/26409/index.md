@@ -24,6 +24,8 @@ files:
     original_filename: HS 8  1950 chevy_1d3dabdd9b.jpg
     thumb: /files/thumbnails/14fb29d884a60614fb29d884ade2.jpg
     url: /files/original/14fb29d884a60614fb29d884ade2.jpg
+    alt:
+      en: "Black-and-white photo of a man and woman standing on grass beside a vintage Chevrolet, holding a baby between them, with houses visible in the background."
 geo:
   address: ''
   lat: 29.91685

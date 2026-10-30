@@ -23,6 +23,8 @@ files:
     original_filename: 336693610_40c19246fb.jpg
     thumb: /files/thumbnails/14fb29d463fce414fb29d4641842.jpg
     url: /files/original/14fb29d463fce414fb29d4641842.jpg
+    alt:
+      en: "Debris-covered floor inside a damaged room, with scattered papers, a metal bowl, cardboard, and mud-coated objects; a red milk crate sits at left and a wooden window frame leans at right."
 geo:
 id: 27343
 item_type: Still Image

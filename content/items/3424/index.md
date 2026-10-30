@@ -24,6 +24,8 @@ files:
     original_filename: 0005.JPG
     thumb: /files/thumbnails/14fb2a5c0674df14fb2a5c06792b.jpg
     url: /files/original/14fb2a5c0674df14fb2a5c06792b.jpg
+    alt:
+      en: "Headlights illuminate a debris-strewn gravel road through a dark, powerless neighborhood at night, lined with houses, utility poles, and piles of storm wreckage."
 geo:
 id: 3424
 item_type: Still Image

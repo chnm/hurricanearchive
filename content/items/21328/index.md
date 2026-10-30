@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0229-21.JPG
     thumb: /files/thumbnails/14fb29ff7bd57114fb29ff7bd956.jpg
     url: /files/original/14fb29ff7bd57114fb29ff7bd956.jpg
+    alt:
+      en: "Aerial view of a city street lined with flat-roofed commercial buildings, a median strip, and parked vehicles, with debris scattered across grassy areas and sidewalks."
 geo:
 id: 21328
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0142.JPG
     thumb: /files/thumbnails/14fb2a554358fc14fb2a55435cd8.jpg
     url: /files/original/14fb2a554358fc14fb2a55435cd8.jpg
+    alt:
+      en: "Damaged roof with a large hole exposing wooden rafters and insulation, surrounded by torn shingles and debris, with a measuring tape laid across the opening and a metal vent pipe nearby."
 geo:
 id: 4827
 item_type: Still Image

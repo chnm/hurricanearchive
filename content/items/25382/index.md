@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2197superdome.JPG
     thumb: /files/thumbnails/14fb29de61a6d614fb29de61aabc.jpg
     url: /files/original/14fb29de61a6d614fb29de61aabc.jpg
+    alt:
+      en: "Military camouflage trucks and water tanker trailers, one labeled \"WATER,\" sit stranded in floodwaters behind a chain-link fence, with a building marked \"BLDG 4\" in the background."
 geo:
 id: 25382
 item_type: Still Image

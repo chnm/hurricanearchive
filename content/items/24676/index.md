@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00143 DSC00143cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5b7617b14fb29e5b76557.jpg
     url: /files/original/14fb29e5b7617b14fb29e5b76557.jpg
+    alt:
+      en: "Group of military personnel and civilians in a parking lot conversing amid storm-damaged buildings, downed power lines, and debris in the background."
 geo:
 id: 24676
 item_type: Still Image

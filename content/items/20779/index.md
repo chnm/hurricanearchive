@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0077-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a03d03b8714fb2a03d03f6c.jpg
     url: /files/original/14fb2a03d03b8714fb2a03d03f6c.jpg
+    alt:
+      en: "A man in camouflage pants and a dark shirt walks along a rural two-lane road beside a grassy, water-filled ditch, carrying an object in his hand."
 geo:
 id: 20779
 item_type: Still Image

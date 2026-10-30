@@ -21,6 +21,8 @@ files:
     original_filename: MG Mason 4 Oct 05.JPG
     thumb: /files/thumbnails/14fb2a1b3e946914fb2a1b3e984d.jpg
     url: /files/original/14fb2a1b3e946914fb2a1b3e984d.jpg
+    alt:
+      en: "Smiling bald man in U.S. Army digital camouflage uniform with \"MASON\" nametape stands before a large city street map; photo timestamp reads 10.04.2005 12:41."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 061engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa48a0114fb2a0fa48de6.jpg
     url: /files/original/14fb2a0fa48a0114fb2a0fa48de6.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with submerged streets and houses, a large parking area filled with debris, and nearby buildings surrounded by standing water and scattered trees."
 geo:
 id: 19501
 item_type: Still Image

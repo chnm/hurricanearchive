@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0408-16.JPG
     thumb: /files/thumbnails/14fb29fcd35c4a14fb29fcd36489.jpg
     url: /files/original/14fb29fcd35c4a14fb29fcd36489.jpg
+    alt:
+      en: "A soldier in camouflage uniform wearing tinted goggles sits inside a military helicopter, with an American flag patch on his sleeve and a grassy field visible through the open door."
 geo:
 id: 21645
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: JA 4 Finland WWII 1944_87ab2ff75e.jpg
     thumb: /files/thumbnails/14fb29d83b01ac14fb29d83b0591.jpg
     url: /files/original/14fb29d83b01ac14fb29d83b0591.jpg
+    alt:
+      en: "Sepia-toned photo of three Navy sailors in white uniforms standing together outdoors on a grassy path, with dense trees and shrubs in the background; aged and worn photo borders are visible."
 geo:
   address: ''
   lat: 29.91685

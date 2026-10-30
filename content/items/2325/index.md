@@ -26,6 +26,8 @@ files:
     original_filename: scan0001_f1afa0407e.jpg
     thumb: /files/thumbnails/14fb2a6d50a6b514fb2a6d50ac2f.jpg
     url: /files/original/14fb2a6d50a6b514fb2a6d50ac2f.jpg
+    alt:
+      en: "A flooded mobile home surrounded by standing water and fallen tree branches, with a clay Jesus statue partially submerged in the floodwater near the porch steps."
 geo:
   address: ''
   lat: 29.946603

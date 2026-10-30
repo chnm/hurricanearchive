@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TameraConey_01_0da5ba5b1f.jpg
     thumb: /files/thumbnails/14fb2a17a8de1014fb2a17a8e1f6.jpg
     url: /files/original/14fb2a17a8de1014fb2a17a8e1f6.jpg
+    alt:
+      en: "A young girl in a white school uniform sits on a chair holding a small stuffed dog, with a bookshelf of children's books and animal hand puppets on a table nearby."
 geo:
 id: 14796
 item_type: Still Image

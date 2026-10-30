@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0009.JPG
     thumb: /files/thumbnails/14fb2a582d06d014fb2a582d0aad.jpg
     url: /files/original/14fb2a582d06d014fb2a582d0aad.jpg
+    alt:
+      en: "Waterfront view of storm-damaged stilt houses with collapsed roofs and scattered debris along a shoreline, bare trees in the background under a partly cloudy sky."
 geo:
 id: 4060
 item_type: Still Image

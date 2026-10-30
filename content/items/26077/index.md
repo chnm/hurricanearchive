@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7033_22b68c1fbf.jpg
     thumb: /files/thumbnails/14fb29db5dcd0014fb29db5dd455.jpg
     url: /files/original/14fb29db5dcd0014fb29db5dd455.jpg
+    alt:
+      en: "Sepia-toned photograph of a Roman Catholic church interior, showing rows of wooden pews leading down a central aisle toward an altar beneath a vaulted ceiling supported by columns."
 geo:
   address: ''
   lat: 29.87876

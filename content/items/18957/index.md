@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2119rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13fc740d14fb2a13fc77f8.jpg
     url: /files/original/14fb2a13fc740d14fb2a13fc77f8.jpg
+    alt:
+      en: "Aerial view of a military medevac helicopter landed on an apartment building roof painted with \"12 PEOPLE HELP,\" with a crew member standing nearby amid storm-damaged rooftops below."
 geo:
 id: 18957
 item_type: Still Image

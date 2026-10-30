@@ -24,6 +24,8 @@ files:
     original_filename: P1010127.JPG
     thumb: /files/thumbnails/14fb2a5ade67cc14fb2a5ade6bab.jpg
     url: /files/original/14fb2a5ade67cc14fb2a5ade6bab.jpg
+    alt:
+      en: "Storefront window reading \"GAMBINO'S THE REAL BAKERY,\" with grimy, water-stained glass and frame; interior shows a debris-covered floor, folding table, and damaged ceiling tiles."
 geo:
 id: 3551
 item_type: Still Image

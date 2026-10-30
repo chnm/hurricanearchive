@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0131rita.JPG
     thumb: /files/thumbnails/14fb2a11a601a514fb2a11a604f0.jpg
     url: /files/original/14fb2a11a601a514fb2a11a604f0.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand near a Humvee and other military vehicles parked on a residential street lined with a brick wall and trees."
 geo:
 id: 19247
 item_type: Still Image

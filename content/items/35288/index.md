@@ -18,6 +18,8 @@ files:
     original_filename: 24_4161cf0630.jpg
     thumb: /files/thumbnails/14fb29c7097b2a14fb29c7097f27.jpg
     url: /files/original/14fb29c7097b2a14fb29c7097f27.jpg
+    alt:
+      en: "Five people in matching red-and-white marching band-style uniforms with red berets and batons stand at night beside a parked car, one man wearing a tall fur hat and holding drumsticks aloft."
 geo:
   address: new orleans, la
   lat: 29.95324

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0183abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eed603b214fb29eed60787.jpg
     url: /files/original/14fb29eed603b214fb29eed60787.jpg
+    alt:
+      en: "Two men converse near storm-damaged wooden siding and flooded standing water, one in a maroon shirt and the other in a striped polo and baseball cap, with debris scattered in the background."
 geo:
 id: 23561
 item_type: Still Image

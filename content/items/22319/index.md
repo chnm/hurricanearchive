@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1132Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f767dd3e14fb29f767e149.jpg
     url: /files/original/14fb29f767dd3e14fb29f767e149.jpg
+    alt:
+      en: "Floodwater fills an interior hallway, viewed through a glass-paneled doorway with a visible exit sign above, the dark space surrounding the submerged entryway."
 geo:
 id: 22319
 item_type: Still Image

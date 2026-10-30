@@ -23,6 +23,8 @@ files:
     original_filename: Wingate rebuilt3_6c502ab888.jpg
     thumb: /files/thumbnails/14fb29c35438d514fb29c3544163.jpg
     url: /files/original/14fb29c35438d514fb29c3544163.jpg
+    alt:
+      en: "A raised white house with a wooden staircase leading to an elevated porch, a black pickup truck parked beneath on a concrete slab, surrounded by overgrown grass and weeds."
 geo:
   address: ''
   lat: 30.01852

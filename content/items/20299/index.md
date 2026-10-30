@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0150-9-18.JPG
     thumb: /files/thumbnails/14fb2a09c7c57014fb2a09c7d904.jpg
     url: /files/original/14fb2a09c7c57014fb2a09c7d904.jpg
+    alt:
+      en: "A car flipped upside down and crushed beneath a fallen tree, surrounded by scattered debris including sheet metal, boards, and rubble."
 geo:
 id: 20299
 item_type: Still Image

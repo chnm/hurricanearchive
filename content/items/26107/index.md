@@ -33,24 +33,32 @@ files:
     original_filename: Jeff Chauppetta_6425_e96a116a42.jpg
     thumb: /files/thumbnails/14fb29db0e79d114fb29db0e7db8.jpg
     url: /files/original/14fb29db0e79d114fb29db0e7db8.jpg
+    alt:
+      en: "A man in a red bandana and black shirt stands beside a weathered statue of the Virgin Mary amid bare branches, with yellow sunflower decorations placed at its base."
   - fullsize: /files/fullsize/14fb29db04f4e514fb29db04f8c8.jpg
     id: 22680
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6426_73a9f5350e.jpg
     thumb: /files/thumbnails/14fb29db04f4e514fb29db04f8c8.jpg
     url: /files/original/14fb29db04f4e514fb29db04f8c8.jpg
+    alt:
+      en: "Child's hand-drawn illustration in purple ink of a house with a brick-patterned roof, windows, and door, alongside a stick-figure family labeled with initials M, VJ, R, K, and H."
   - fullsize: /files/fullsize/14fb29db02dde214fb29db02e1c3.jpg
     id: 22681
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6427_bd18cce1f5.jpg
     thumb: /files/thumbnails/14fb29db02dde214fb29db02e1c3.jpg
     url: /files/original/14fb29db02dde214fb29db02e1c3.jpg
+    alt:
+      en: "Hand-drawn sketch of a flooded building with a boat carrying people navigating between floors, one figure labeled \"U.J.\" reaching toward a balcony while a family labeled \"R.K.H.M.\" looks out from a window above."
   - fullsize: /files/fullsize/14fb29db00b35114fb29db00b733.jpg
     id: 22682
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6428_8f60d87d50.jpg
     thumb: /files/thumbnails/14fb29db00b35114fb29db00b733.jpg
     url: /files/original/14fb29db00b35114fb29db00b733.jpg
+    alt:
+      en: "Hand-drawn pen sketch on lined notebook paper of figures wading through wavy floodwater pulling bags, labeled with names including Rosalie, Michelle, Uncle Jeff, Heather, Katrina, and Kenneth."
 geo:
 id: 26107
 item_type: Still Image

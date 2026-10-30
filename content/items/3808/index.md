@@ -21,6 +21,8 @@ files:
     original_filename: 100_0092.JPG
     thumb: /files/thumbnails/14fb2a5972fcc814fb2a5973005c.jpg
     url: /files/original/14fb2a5972fcc814fb2a5973005c.jpg
+    alt:
+      en: "A twin-rotor military helicopter flies over a grassy embankment and concrete barrier wall, photographed from a vehicle with the side mirror visible in the upper right corner."
 geo:
 id: 3808
 item_type: Still Image

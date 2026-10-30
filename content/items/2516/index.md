@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8675.jpg
     thumb: /files/thumbnails/14fb2a65c9427514fb2a65c9465b.jpg
     url: /files/original/14fb2a65c9427514fb2a65c9465b.jpg
+    alt:
+      en: "Capsized and tangled yachts piled against a dock at South Shore Harbor, with debris floating in the water and a large crane and paddlewheel boat visible in the background."
 geo:
 id: 2516
 item_type: Still Image

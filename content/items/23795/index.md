@@ -21,6 +21,8 @@ files:
     original_filename: Picture3stbernardparishS&R.png
     thumb: /files/thumbnails/14fb29ed06a82e14fb29ed06ac13.jpg
     url: /files/original/14fb29ed06a82e14fb29ed06ac13.jpg
+    alt:
+      en: "A mud-covered wooden board or paddle lies across a thick layer of wet sludge, with a weathered wooden structure visible in the background."
 geo:
 id: 23795
 item_type: Still Image

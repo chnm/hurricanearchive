@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0130gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cda73eb14fb2a0cda812a.jpg
     url: /files/original/14fb2a0cda73eb14fb2a0cda812a.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms, one with an American flag patch, stand before a large wall map of New Orleans marked with pink location pins."
 geo:
 id: 19893
 item_type: Still Image

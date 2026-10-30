@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0258.JPG
     thumb: /files/thumbnails/14fb2a00da7f7114fb2a00da8354.jpg
     url: /files/original/14fb2a00da7f7114fb2a00da8354.jpg
+    alt:
+      en: "A UH-60 Black Hawk helicopter marked \"UNITED STATES ARMY\" with rotors spinning sits on a landing pad, with a soldier in fatigues standing near its open side door."
 geo:
 id: 21054
 item_type: Still Image

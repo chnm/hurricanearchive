@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0258.JPG
     thumb: /files/thumbnails/14fb2a1377dd9214fb2a1377e179.jpg
     url: /files/original/14fb2a1377dd9214fb2a1377e179.jpg
+    alt:
+      en: "A U.S. Army Black Hawk helicopter marked \"994\" sits on a landing pad with rotors spinning, as a uniformed crew member stands near its open side door; brick buildings and a power pole are visible in the background."
 geo:
 id: 19061
 item_type: Still Image

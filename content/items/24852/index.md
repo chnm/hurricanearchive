@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2192superdome.JPG
     thumb: /files/thumbnails/14fb29e46828d814fb29e4682ca5.jpg
     url: /files/original/14fb29e46828d814fb29e4682ca5.jpg
+    alt:
+      en: "Nighttime scene with a Greyhound bus reading \"Proud to Serve America,\" evacuees carrying bags and coolers, National Guard troops in camouflage, and stacked water bottle cases on a wet street."
 geo:
 id: 24852
 item_type: Still Image

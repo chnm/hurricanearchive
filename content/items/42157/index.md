@@ -20,6 +20,8 @@ files:
     original_filename: billmosscross_4034e06d26.jpg
     thumb: /files/thumbnails/14fb29c3385e2614fb29c338a502.jpg
     url: /files/original/14fb29c3385e2614fb29c338a502.jpg
+    alt:
+      en: "White wooden memorial cross mounted on a wrought iron fence with fleur-de-lis finials, hand-painted with \"Billy,\" a heart, a winding piano keyboard design, and \"2008,\" set against a blue house."
 geo:
   address: ''
   lat: 0.0

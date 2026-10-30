@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27948.jpg
     thumb: /files/thumbnails/14fb2a6c570f2014fb2a6c571303.jpg
     url: /files/original/14fb2a6c570f2014fb2a6c571303.jpg
+    alt:
+      en: "A fallen light pole lies on the ground with \"New Orleans Hornets\" and \"Bud Light\" banners attached, surrounded by scattered debris, a cardboard MRE box, and a cot on a litter-strewn pavement."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efd14d8614fb29efd15171.jpg
     url: /files/original/14fb29efd14d8614fb29efd15171.jpg
+    alt:
+      en: "Flooded farmyard with numerous white ducks and geese wading among scattered debris, a blue barrel, and collapsed metal panels, with a calm waterway and distant buildings visible beyond a tree-lined shore."
 geo:
 id: 23355
 item_type: Still Image

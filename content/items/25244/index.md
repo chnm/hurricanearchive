@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1942superdome.JPG
     thumb: /files/thumbnails/14fb29e067d3e014fb29e067d87b.jpg
     url: /files/original/14fb29e067d3e014fb29e067d87b.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms walk across a rooftop helipad toward a large military Chinook helicopter, with city buildings and an elevated highway visible in the hazy background."
 geo:
 id: 25244
 item_type: Still Image

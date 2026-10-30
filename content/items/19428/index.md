@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094engineers.JPG
     thumb: /files/thumbnails/14fb2a1039066314fb2a10390e26.jpg
     url: /files/original/14fb2a1039066314fb2a10390e26.jpg
+    alt:
+      en: "Military personnel and civilians in hard hats stand near large military dump trucks (marked \"A50\") loaded with storm debris, including wood and metal roofing, at a cleanup site."
 geo:
 id: 19428
 item_type: Still Image

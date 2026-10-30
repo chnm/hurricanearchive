@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 114.jpg
     thumb: /files/thumbnails/14fb2a11ceff0314fb2a11cf02e9.jpg
     url: /files/original/14fb2a11ceff0314fb2a11cf02e9.jpg
+    alt:
+      en: "A small white motorboat rests upended amid debris beside damaged metal warehouse buildings, with storm-stripped trees and a barren, mud-covered lot in the foreground."
 geo:
 id: 19204
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC01158.JPG
     thumb: /files/thumbnails/14fb2a5856a6f114fb2a5856aad7.jpg
     url: /files/original/14fb2a5856a6f114fb2a5856aad7.jpg
+    alt:
+      en: "A parking lot scene with a dark pickup truck in the foreground, utility poles and power lines overhead, and a \"Sam's Club\" sign near a store entrance with trucks and cars parked nearby."
 geo:
 id: 4038
 item_type: Still Image

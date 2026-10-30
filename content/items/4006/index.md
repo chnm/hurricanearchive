@@ -21,6 +21,8 @@ files:
     original_filename: DSC01106.JPG
     thumb: /files/thumbnails/14fb2a588c7adb14fb2a588c7ecc.jpg
     url: /files/original/14fb2a588c7adb14fb2a588c7ecc.jpg
+    alt:
+      en: "A rescue worker in an orange life vest sits in a small boat navigating deeply flooded streets lined with partially submerged houses and trees, with another boat visible in the distance."
 geo:
 id: 4006
 item_type: Still Image

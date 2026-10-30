@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0273downtownnola.JPG
     thumb: /files/thumbnails/14fb2a142bf01814fb2a142bf7e1.jpg
     url: /files/original/14fb2a142bf01814fb2a142bf7e1.jpg
+    alt:
+      en: "Aerial view of a railway yard with multiple parallel tracks holding freight cars and tanker cars, alongside a trucking lot filled with semi-trailers, including several marked \"CSX.\""
 geo:
 id: 18923
 item_type: Still Image

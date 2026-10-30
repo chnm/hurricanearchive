@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0305.JPG
     thumb: /files/thumbnails/14fb2a54c6023014fb2a54c604f0.jpg
     url: /files/original/14fb2a54c6023014fb2a54c604f0.jpg
+    alt:
+      en: "A wooden utility pole with power lines stands between a green-and-white RV and a small house, with trees and a cloudy sky in the background."
 geo:
 id: 4963
 item_type: Still Image

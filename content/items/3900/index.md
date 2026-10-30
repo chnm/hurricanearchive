@@ -21,6 +21,8 @@ files:
     original_filename: 100_0197.JPG
     thumb: /files/thumbnails/14fb2a590e173f14fb2a590e1b25.jpg
     url: /files/original/14fb2a590e173f14fb2a590e1b25.jpg
+    alt:
+      en: "Expanse of floodwater with partially submerged trees lining the horizon under a clear blue sky, with small boats visible in the distance."
 geo:
 id: 3900
 item_type: Still Image

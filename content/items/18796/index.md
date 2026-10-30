@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029lakecharles.JPG
     thumb: /files/thumbnails/14fb2a1538baff14fb2a1538bedb.jpg
     url: /files/original/14fb2a1538baff14fb2a1538bedb.jpg
+    alt:
+      en: "Aerial view of a cloverleaf highway interchange with heavy traffic, including trucks and cars, surrounded by green fields, trees, and a small town with scattered buildings."
 geo:
 id: 18796
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0625.JPG
     thumb: /files/thumbnails/14fb2a5644759914fb2a5644797e.jpg
     url: /files/original/14fb2a5644759914fb2a5644797e.jpg
+    alt:
+      en: "Residential street with houses showing blue tarps covering damaged roofs, a travel trailer parked on a lawn, utility poles and wires overhead, and cars parked along the roadside under a clear sky."
 geo:
 id: 4674
 item_type: Still Image

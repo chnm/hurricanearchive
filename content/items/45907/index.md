@@ -17,6 +17,8 @@ files:
     original_filename: IMG_2998.JPG
     thumb: /files/thumbnails/d4a7c4580a73c7236feda27c396e63ed.jpg
     url: /files/original/d4a7c4580a73c7236feda27c396e63ed.JPG
+    alt:
+      en: "Sand, shells, and scattered debris cover a paved road lined with palm trees and grassy medians, with a traffic cone and overturned structure visible near the shoreline in the background."
 geo:
 id: 45907
 item_type: Still Image

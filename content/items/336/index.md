@@ -26,6 +26,8 @@ files:
     original_filename: lourdes2_c96142f4c5.jpg
     thumb: /files/thumbnails/14fb2a70355eb414fb2a703562a0.jpg
     url: /files/original/14fb2a70355eb414fb2a703562a0.jpg
+    alt:
+      en: "A severely collapsed church roof with twisted metal framing and debris, photographed from a vehicle with \"NO PARKING\" curb markings visible in the foreground."
 geo:
   address: ''
   lat: 30.446993

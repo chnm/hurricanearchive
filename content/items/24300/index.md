@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-20-19A.jpg
     thumb: /files/thumbnails/14fb29e8ec0c3e14fb29e8ec0fd9.jpg
     url: /files/original/14fb29e8ec0c3e14fb29e8ec0fd9.jpg
+    alt:
+      en: "Flooded parking structure with submerged cars, two school buses, and a partially submerged military-style vehicle surrounded by murky, rushing water beneath an overpass."
 geo:
 id: 24300
 item_type: Still Image

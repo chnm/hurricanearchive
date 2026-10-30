@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0485.JPG
     thumb: /files/thumbnails/14fb2a53d3049f14fb2a53d30883.jpg
     url: /files/original/14fb2a53d3049f14fb2a53d30883.jpg
+    alt:
+      en: "A pink single-story house with storm-damaged siding, exposed \"Thermo-Ply\" insulation board on the lower walls, surrounded by debris, fallen branches, and bare trees under a clear blue sky."
 geo:
 id: 5123
 item_type: Still Image

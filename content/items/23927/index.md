@@ -21,6 +21,8 @@ files:
     original_filename: 09140040neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec57e16814fb29ec57e8aa.jpg
     url: /files/original/14fb29ec57e16814fb29ec57e8aa.jpg
+    alt:
+      en: "A sprawling above-ground cemetery with rows of white tombs stretches to the horizon, viewed from behind a concrete barrier, with a radio tower and palm tree in the background under a blue sky."
 geo:
 id: 23927
 item_type: Still Image

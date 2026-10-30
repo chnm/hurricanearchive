@@ -26,6 +26,8 @@ files:
     original_filename: 100_5860_d11b0ec425.JPG
     thumb: /files/thumbnails/14fb2a7111a87614fb2a7111ac63.jpg
     url: /files/original/14fb2a7111a87614fb2a7111ac63.jpg
+    alt:
+      en: "A military truck with a canvas-covered bed parked on a city street near a Marriott hotel, with a person standing beside it and tall buildings in the background; dated 11/11/2005."
 geo:
   address: ''
   lat: 30.005653

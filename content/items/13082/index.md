@@ -21,6 +21,8 @@ files:
     original_filename: dawn courtyard.jpg
     thumb: /files/thumbnails/14fb2a20893ff114fb2a20894b3b.jpg
     url: /files/original/14fb2a20893ff114fb2a20894b3b.jpg
+    alt:
+      en: "A foggy, rain-soaked courtyard with an elevated white platform and railing on the left, a long arched metal trellis walkway in the center, and tall lampposts amid heavy mist and wet pavement."
 geo:
 id: 13082
 item_type: Still Image

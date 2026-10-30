@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2129superdome.JPG
     thumb: /files/thumbnails/14fb29e4a19dca14fb29e4a1a1af.jpg
     url: /files/original/14fb29e4a19dca14fb29e4a1a1af.jpg
+    alt:
+      en: "Crowd of men, including police officers and U.S. Army soldiers in camouflage, gathered closely together in conversation inside an office hallway with framed photos and an American flag on the wall."
 geo:
 id: 24807
 item_type: Still Image

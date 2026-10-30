@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0715.JPG
     thumb: /files/thumbnails/14fb2a531733eb14fb2a53173733.jpg
     url: /files/original/14fb2a531733eb14fb2a53173733.jpg
+    alt:
+      en: "A splintered tree trunk stripped of bark stands amid storm debris, with fallen trees and a house partially visible through the surrounding damaged vegetation."
 geo:
 id: 5270
 item_type: Still Image

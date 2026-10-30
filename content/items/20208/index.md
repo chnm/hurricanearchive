@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0142.JPG
     thumb: /files/thumbnails/14fb2a0ab7707914fb2a0ab77456.jpg
     url: /files/original/14fb2a0ab7707914fb2a0ab77456.jpg
+    alt:
+      en: "A uniformed service member in camouflage, wearing an American flag patch, crouches near a search-and-rescue dog amid large slabs of broken concrete and exposed rebar in a collapsed structure."
 geo:
 id: 20208
 item_type: Still Image

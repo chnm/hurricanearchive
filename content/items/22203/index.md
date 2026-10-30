@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1010Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f92297f814fb29f9229bde.jpg
     url: /files/original/14fb29f92297f814fb29f9229bde.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues gather on a sidewalk with duffel bags and gear, while a man in a flight suit stands nearby; parked trucks and SUVs line the street behind them."
 geo:
 id: 22203
 item_type: Still Image

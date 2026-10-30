@@ -21,6 +21,8 @@ files:
     original_filename: 100_0153.JPG
     thumb: /files/thumbnails/14fb2a593853b514fb2a59385bc7.jpg
     url: /files/original/14fb2a593853b514fb2a59385bc7.jpg
+    alt:
+      en: "Floodwater submerges a residential street up to rooftops and treetops, with a boat's bow visible in the foreground and houses partially hidden behind flooded trees and shrubs."
 geo:
 id: 3860
 item_type: Still Image

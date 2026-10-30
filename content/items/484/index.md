@@ -26,6 +26,8 @@ files:
     original_filename: Dulac_2254_d9dc1bf468.jpg
     thumb: /files/thumbnails/14fb2a6fbdd6f014fb2a6fbddad6.jpg
     url: /files/original/14fb2a6fbdd6f014fb2a6fbddad6.jpg
+    alt:
+      en: "A pile of water-damaged mattresses and furniture sits on a cracked, mud-covered driveway in front of a brick house, flanked by statues of Jesus and an angel."
 geo:
   address: ''
   lat: 29.3486636465236

@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0054.JPG
     thumb: /files/thumbnails/14fb2a1bac147f14fb2a1bac185a.jpg
     url: /files/original/14fb2a1bac147f14fb2a1bac185a.jpg
+    alt:
+      en: "Camouflage military truck with large off-road tires, carrying a tarp-covered load tied with green rope on its flatbed, parked on a roadside with trees in the background."
 geo:
   address: ''
   lat: 0.0

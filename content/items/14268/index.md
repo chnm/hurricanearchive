@@ -21,6 +21,8 @@ files:
     original_filename: aerials11.jpg
     thumb: /files/thumbnails/14fb2a1a57851e14fb2a1a578903.jpg
     url: /files/original/14fb2a1a57851e14fb2a1a578903.jpg
+    alt:
+      en: "Aerial view of a blue water tower standing amid storm-damaged, defoliated trees, with a road and scattered debris visible across the surrounding landscape."
 geo:
 id: 14268
 item_type: Still Image

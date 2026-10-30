@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0330-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd47827414fb29fd47865c.jpg
     url: /files/original/14fb29fd47827414fb29fd47865c.jpg
+    alt:
+      en: "Aerial view of a flooded industrial/refinery complex with storage tanks, pipelines, and scattered buildings surrounded by extensive standing water, with green fields visible in the background."
 geo:
 id: 21596
 item_type: Still Image

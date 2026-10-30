@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2207conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11bdfe6914fb2a11be024f.jpg
     url: /files/original/14fb2a11bdfe6914fb2a11be024f.jpg
+    alt:
+      en: "Exterior entrance of the \"New Orleans Centre\" building with a large American flag hanging from the marquee, NOPD police barricades below, and people including uniformed personnel gathered outside."
 geo:
 id: 19226
 item_type: Still Image

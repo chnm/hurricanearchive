@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0136-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a0293808214fb2a02938fa7.jpg
     url: /files/original/14fb2a0293808214fb2a02938fa7.jpg
+    alt:
+      en: "Aerial view of a downtown cityscape under hazy skies, featuring high-rise buildings labeled \"Marriott\" and \"Sheraton,\" with a steel truss bridge spanning a river in the background."
 geo:
 id: 20866
 item_type: Still Image

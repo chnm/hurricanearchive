@@ -26,6 +26,8 @@ files:
     original_filename: 020_20_cca5102e55.jpg
     thumb: /files/thumbnails/14fb2a6dc776ad14fb2a6dc77b4a.jpg
     url: /files/original/14fb2a6dc776ad14fb2a6dc77b4a.jpg
+    alt:
+      en: "Shrimp boats, one partially capsized and labeled \"ANNA,\" lie stranded along a debris-strewn canal bank, with a damaged wooden building visible in the background."
 geo:
   address: ''
   lat: 0.0

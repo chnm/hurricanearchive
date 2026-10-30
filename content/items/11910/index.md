@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 032.jpg
     thumb: /files/thumbnails/14fb2a22c11e3e14fb2a22c12200.jpg
     url: /files/original/14fb2a22c11e3e14fb2a22c12200.jpg
+    alt:
+      en: "Debris-strewn empty parking lot near the coast, with a stripped tree, scattered rubble piles, and an isolated porcelain sink fixture on the pavement; dated 2005/09/24."
 geo:
 id: 11910
 item_type: Still Image

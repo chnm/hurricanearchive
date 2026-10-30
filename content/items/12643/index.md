@@ -23,6 +23,8 @@ files:
     original_filename: deaf govt001_e416e1c0a4.jpg
     thumb: /files/thumbnails/14fb2a21fe348814fb2a21fe37ad.jpg
     url: /files/original/14fb2a21fe348814fb2a21fe37ad.jpg
+    alt:
+      en: "Yellow diamond \"DEAF CHILD AREA\" road sign altered with graffiti reading \"Government\" above \"CHILD,\" which is crossed out, alongside a tree-lined street with debris piles and a parked truck."
 geo:
   address: Mirabeau and Warrington
   lat: 30.0076

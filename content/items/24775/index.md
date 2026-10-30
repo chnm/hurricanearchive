@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2097superdome.JPG
     thumb: /files/thumbnails/14fb29e4cdc08a14fb29e4cdc7d9.jpg
     url: /files/original/14fb29e4cdc08a14fb29e4cdc7d9.jpg
+    alt:
+      en: "Military trucks parked on a wet, flooded road beside the curved metal exterior of the Superdome, with a multi-story parking garage visible in the background under overcast skies."
 geo:
 id: 24775
 item_type: Still Image

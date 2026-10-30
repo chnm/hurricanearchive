@@ -21,6 +21,8 @@ files:
     original_filename: PICT0871Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f43b503c14fb29f43b540e.jpg
     url: /files/original/14fb29f43b503c14fb29f43b540e.jpg
+    alt:
+      en: "Damaged brick building with a collapsed overhang roof and a hole in the wall, surrounded by mud-covered ground and a bare tree; photo dated 09.15.2005."
 geo:
 id: 22748
 item_type: Still Image

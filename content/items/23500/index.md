@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0137abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef305c8914fb29ef30606f.jpg
     url: /files/original/14fb29ef305c8914fb29ef30606f.jpg
+    alt:
+      en: "A severely collapsed single-story house with its roof caved in and walls buckled, surrounded by debris, dried mud, and uprooted vegetation, with trees and a clear sky in the background."
 geo:
 id: 23500
 item_type: Still Image

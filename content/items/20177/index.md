@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0007.JPG
     thumb: /files/thumbnails/14fb2a0aee998014fb2a0aee9d62.jpg
     url: /files/original/14fb2a0aee998014fb2a0aee9d62.jpg
+    alt:
+      en: "A helmeted crew member in a flight suit with an American flag patch looks out from an open aircraft door toward a building and parked military vehicles below."
 geo:
 id: 20177
 item_type: Still Image

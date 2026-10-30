@@ -21,6 +21,8 @@ files:
     original_filename: 09210011iwojima.JPG
     thumb: /files/thumbnails/14fb2a117a516514fb2a117a554a.jpg
     url: /files/original/14fb2a117a516514fb2a117a554a.jpg
+    alt:
+      en: "A gray U.S. Navy amphibious assault ship sits in open water with a helicopter on its flight deck, while industrial cranes and dockside structures line the distant shore under a hazy sky."
 geo:
 id: 19261
 item_type: Still Image

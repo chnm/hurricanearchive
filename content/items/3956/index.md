@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58c1f38614fb2a58c1f769.jpg
     url: /files/original/14fb2a58c1f38614fb2a58c1f769.jpg
+    alt:
+      en: "Group of U.S. Coast Guard personnel in navy uniforms and caps standing outdoors near a brick building, speaking with a man in a maroon polo shirt and khaki pants; timestamp reads 3:54 PM."
 geo:
 id: 3956
 item_type: Still Image

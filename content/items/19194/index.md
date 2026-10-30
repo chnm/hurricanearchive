@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 104.jpg
     thumb: /files/thumbnails/14fb2a11fec50114fb2a11fec8e7.jpg
     url: /files/original/14fb2a11fec50114fb2a11fec8e7.jpg
+    alt:
+      en: "Blurry roadside scene with a gravel median, large uprooted tree, heavy equipment clearing debris, and a \"Do Not Block\" street sign visible near houses in the background."
 geo:
 id: 19194
 item_type: Still Image

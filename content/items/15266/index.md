@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-018_8bc47f159f.jpg
     thumb: /files/thumbnails/14fb2a16b3cb1714fb2a16b3cefd.jpg
     url: /files/original/14fb2a16b3cb1714fb2a16b3cefd.jpg
+    alt:
+      en: "Two men crouch on a concrete surface painting a blue grid pattern with white lines, paintbrushes and paint cans nearby, with a playground, trees, and benches visible in the background."
 geo:
 id: 15266
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4866_1_c6f63d4763.jpg
     thumb: /files/thumbnails/14fb2a1e349ac714fb2a1e349fc1.jpg
     url: /files/original/14fb2a1e349ac714fb2a1e349fc1.jpg
+    alt:
+      en: "Open yearbook pages filled with handwritten notes in pink, green, and blue ink from classmates, including signatures, phone numbers, and farewell messages like \"I'll miss you\" and \"Have a great summer.\""
 geo:
 id: 13362
 item_type: Still Image

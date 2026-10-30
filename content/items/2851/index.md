@@ -21,6 +21,8 @@ files:
     original_filename: MVC-008S.JPG
     thumb: /files/thumbnails/14fb2a5fd9cb1e14fb2a5fd9cf04.jpg
     url: /files/original/14fb2a5fd9cb1e14fb2a5fd9cf04.jpg
+    alt:
+      en: "Interior of a water-damaged building with a grimy white wall, an open cutout revealing ductwork, and a dark doorway leading to another room with industrial equipment, lit by an overhead dome light."
 geo:
 id: 2851
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010019.JPG
     thumb: /files/thumbnails/14fb29fc43fde114fb29fc4404bf.jpg
     url: /files/original/14fb29fc43fde114fb29fc4404bf.jpg
+    alt:
+      en: "View from inside a military cargo aircraft's open rear ramp, with a crew member standing at the edge and ground personnel pulling a wrapped pallet toward the plane on a tarmac with hangar buildings in the background."
 geo:
 id: 21716
 item_type: Still Image

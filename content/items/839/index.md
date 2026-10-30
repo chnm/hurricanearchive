@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28203.jpg
     thumb: /files/thumbnails/14fb2a6cac2af714fb2a6cac2edc.jpg
     url: /files/original/14fb2a6cac2af714fb2a6cac2edc.jpg
+    alt:
+      en: "A large, leafless storm-damaged tree stands beside a concrete barrier spray-painted \"WAVELAND AVE.,\" with debris and bare trees scattered across the flattened landscape behind it."
 geo:
   address: ''
   lat: 0.0

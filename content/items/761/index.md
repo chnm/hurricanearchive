@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28555.jpg
     thumb: /files/thumbnails/14fb2a6d35ca4d14fb2a6d35ce33.jpg
     url: /files/original/14fb2a6d35ca4d14fb2a6d35ce33.jpg
+    alt:
+      en: "Abandoned sedan covered in dried mud sits atop a deeply cracked, dried mud ground, with an orange spray-painted search-and-rescue marking on its door, parked beside a storm-damaged fence in the Lakeview District."
 geo:
   address: ''
   lat: 0.0

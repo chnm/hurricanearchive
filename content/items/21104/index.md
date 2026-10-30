@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0177-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a009874d814fb2a009878be.jpg
     url: /files/original/14fb2a009874d814fb2a009878be.jpg
+    alt:
+      en: "Aerial view of a flooded roadway submerged beneath murky water, with partially visible lane markings and treetops protruding from the floodwaters."
 geo:
 id: 21104
 item_type: Still Image

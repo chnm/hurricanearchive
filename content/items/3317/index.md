@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (76).jpg
     thumb: /files/thumbnails/14fb2a5c70bd1214fb2a5c70c3fc.jpg
     url: /files/original/14fb2a5c70bd1214fb2a5c70c3fc.jpg
+    alt:
+      en: "Hundreds of dead fish line a flooded street and debris-covered yard, with damaged white houses, a leaning utility pole, and a rusted fire hydrant in the background."
 geo:
 id: 3317
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0465.JPG
     thumb: /files/thumbnails/14fb2a55b1ea4f14fb2a55b1ee3e.jpg
     url: /files/original/14fb2a55b1ea4f14fb2a55b1ee3e.jpg
+    alt:
+      en: "Flattened building reduced to scattered brick and tile rubble, with an exposed concrete slab foundation, surrounded by debris and bare, storm-damaged trees."
 geo:
 id: 4766
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0233downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14acceda14fb2a14acd2c0.jpg
     url: /files/original/14fb2a14acceda14fb2a14acd2c0.jpg
+    alt:
+      en: "Aerial view of downtown New Orleans with a wide river crossed by a large steel truss bridge, rooftops, high-rise buildings, a riverside park, and parked vehicles under a hazy sky."
 geo:
 id: 18883
 item_type: Still Image

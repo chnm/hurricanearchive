@@ -21,6 +21,8 @@ files:
     original_filename: 789z3808mpcheckpoints.jpg
     thumb: /files/thumbnails/14fb29f340c73b14fb29f340ce9d.jpg
     url: /files/original/14fb29f340c73b14fb29f340ce9d.jpg
+    alt:
+      en: "Military Police in camouflage uniforms inspect items at a security checkpoint table with plastic bins, wands, and a bag, as a child and bystanders look on near a brick corridor."
 geo:
 id: 22829
 item_type: Still Image

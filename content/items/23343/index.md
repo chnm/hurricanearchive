@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0057abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efe1508d14fb29efe15468.jpg
     url: /files/original/14fb29efe1508d14fb29efe15468.jpg
+    alt:
+      en: "A manufactured home sits raised on its support frame, partially surrounded by floodwater, with a boat on a trailer and a truck in the foreground."
 geo:
 id: 23343
 item_type: Still Image

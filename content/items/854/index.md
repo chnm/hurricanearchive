@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28530.jpg
     thumb: /files/thumbnails/14fb2a6c9a95cd14fb2a6c9a99a8.jpg
     url: /files/original/14fb2a6c9a95cd14fb2a6c9a99a8.jpg
+    alt:
+      en: "Men gather near a wheeled cart with a \"Now Open\" Domino's Pizza sign, handing out pizza boxes on a debris-strewn downtown New Orleans street, boarded-up storefronts in the background."
 geo:
   address: ''
   lat: 0.0

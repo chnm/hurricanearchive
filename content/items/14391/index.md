@@ -21,6 +21,8 @@ files:
     original_filename: firerescue.jpg
     thumb: /files/thumbnails/14fb2a1950422214fb2a19504f9a.jpg
     url: /files/original/14fb2a1950422214fb2a19504f9a.jpg
+    alt:
+      en: "Bay St. Louis Fire Dept. patch with crossed ladders, a fire hydrant, and a hurricane satellite image at center, captioned \"Katrina 2005\" and \"First Rescue on the Scene\" in red text."
 geo:
 id: 14391
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0057tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d0d534a14fb2a0d0d572e.jpg
     url: /files/original/14fb2a0d0d534a14fb2a0d0d572e.jpg
+    alt:
+      en: "Silhouette of a person standing on wooden roof framing, backlit by bright sunlight with lens flare, against a partly cloudy sky."
 geo:
 id: 19870
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013M.JPG
     thumb: /files/thumbnails/14fb2a0786ed3814fb2a0786f442.jpg
     url: /files/original/14fb2a0786ed3814fb2a0786f442.jpg
+    alt:
+      en: "A uniformed serviceman wearing latex gloves administers a shoulder injection to another young man in a sleeveless shirt and camouflage pants, indoors under fluorescent lighting."
 geo:
 id: 20426
 item_type: Still Image

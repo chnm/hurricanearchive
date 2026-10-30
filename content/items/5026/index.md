@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0371.JPG
     thumb: /files/thumbnails/14fb2a545890e914fb2a545894ce.jpg
     url: /files/original/14fb2a545890e914fb2a545894ce.jpg
+    alt:
+      en: "Bare concrete foundation and wooden support posts remain after a structure's walls and roof were destroyed, with scattered debris, a metal gate, and a staircase leading to nowhere in the background."
 geo:
 id: 5026
 item_type: Still Image

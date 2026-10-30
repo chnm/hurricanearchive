@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0343.JPG
     thumb: /files/thumbnails/14fb2a548866ab14fb2a54886a85.jpg
     url: /files/original/14fb2a548866ab14fb2a54886a85.jpg
+    alt:
+      en: "Storm-damaged property with a skeletal, partially framed structure lacking walls, surrounded by bare trees, scattered debris, and a greenish, debris-filled pool in the foreground."
 geo:
 id: 4998
 item_type: Still Image

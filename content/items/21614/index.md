@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0348-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd0e7f9614fb29fd0e837b.jpg
     url: /files/original/14fb29fd0e7f9614fb29fd0e837b.jpg
+    alt:
+      en: "Aerial view of widespread flooding across a flat landscape, with rows of partially submerged trees and fields surrounded by murky floodwaters extending toward the horizon under a hazy sky."
 geo:
 id: 21614
 item_type: Still Image

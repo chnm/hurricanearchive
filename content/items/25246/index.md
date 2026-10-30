@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1944superdome.JPG
     thumb: /files/thumbnails/14fb29e05c1a7914fb29e05c1e5e.jpg
     url: /files/original/14fb29e05c1a7914fb29e05c1e5e.jpg
+    alt:
+      en: "A large military Chinook helicopter sits on a rooftop helipad with soldiers nearby, stacked water bottle cases, and a city skyline with a \"Delgado Community College\" sign in the background."
 geo:
 id: 25246
 item_type: Still Image

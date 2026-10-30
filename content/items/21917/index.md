@@ -21,6 +21,8 @@ files:
     original_filename: Wal-Mart in Gonzales LA.jpg
     thumb: /files/thumbnails/14fb29fb00473814fb29fb004b26.jpg
     url: /files/original/14fb29fb00473814fb29fb004b26.jpg
+    alt:
+      en: "Aerial photo of a Wal-Mart shopping center with a large parking lot full of cars, surrounded by smaller commercial buildings and roads, dated 09/05/2005."
 geo:
 id: 21917
 item_type: Still Image

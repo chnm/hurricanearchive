@@ -21,6 +21,8 @@ files:
     original_filename: LionelPowell-5849_c217dc811d.jpg
     thumb: /files/thumbnails/14fb29d911c7c914fb29d911cc26.jpg
     url: /files/original/14fb29d911c7c914fb29d911cc26.jpg
+    alt:
+      en: "Water-damaged photograph of a tiered white wedding cake with blue floral icing and pillar supports, topped with a bride-and-groom figurine; partially legible text below reads \"WE BEGIN.\""
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28214.jpg
     thumb: /files/thumbnails/14fb2a6b14fcda14fb2a6b1505cd.jpg
     url: /files/original/14fb2a6b14fcda14fb2a6b1505cd.jpg
+    alt:
+      en: "A large boat rests upside down on a chain-link fence amid storm-damaged, defoliated trees, with a bent metal sign post in the foreground—storm debris from Hurricane Katrina."
 geo:
   address: ''
   lat: 0.0

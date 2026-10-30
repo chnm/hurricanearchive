@@ -21,6 +21,8 @@ files:
     original_filename: Picture 025conventionctr.jpg
     thumb: /files/thumbnails/14fb2a11b9d63d14fb2a11b9dc17.jpg
     url: /files/original/14fb2a11b9d63d14fb2a11b9dc17.jpg
+    alt:
+      en: "Military personnel in camouflage stand guard over large stacks of bottled water and boxed supplies in a paved lot, with a convention center and steel truss bridge visible in the background; dated SEP 3 2005."
 geo:
 id: 19231
 item_type: Still Image

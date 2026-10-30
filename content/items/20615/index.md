@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043H.JPG
     thumb: /files/thumbnails/14fb2a05a393d914fb2a05a397be.jpg
     url: /files/original/14fb2a05a393d914fb2a05a397be.jpg
+    alt:
+      en: "Indoor nighttime gathering of young adults; a woman in a white tank top reading \"...TON ROUGE II, LA\" and orange shorts holds a digital camera and an energy drink can while talking with others."
 geo:
 id: 20615
 item_type: Still Image

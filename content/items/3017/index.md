@@ -21,6 +21,8 @@ files:
     original_filename: 100_0266.JPG
     thumb: /files/thumbnails/14fb2a5ed0ecaa14fb2a5ed0f246.jpg
     url: /files/original/14fb2a5ed0ecaa14fb2a5ed0f246.jpg
+    alt:
+      en: "Bow-on view of a decommissioned submarine, hull number 228, displayed on concrete supports on a grassy lot, with draft markings visible near the waterline and industrial buildings in the background."
 geo:
 id: 3017
 item_type: Still Image

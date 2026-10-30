@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1061Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8a2371614fb29f8a23dd1.jpg
     url: /files/original/14fb29f8a2371614fb29f8a23dd1.jpg
+    alt:
+      en: "Blurry photo taken through a rain-streaked window during a storm, showing a large tree, power lines, a grassy lawn, and parked cars obscured by heavy rain and fog."
 geo:
 id: 22250
 item_type: Still Image

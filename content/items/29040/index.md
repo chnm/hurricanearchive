@@ -21,6 +21,8 @@ files:
     original_filename: LAANG-Photo-09.jpg
     thumb: /files/thumbnails/14fb29d070cd9314fb29d070d17a.jpg
     url: /files/original/14fb29d070cd9314fb29d070d17a.jpg
+    alt:
+      en: "A military Chinook helicopter sits on an airfield tarmac beside a row of open-sided steel shelters where numerous uniformed personnel and equipment are gathered under a hazy sky."
 geo:
 id: 29040
 item_type: Still Image

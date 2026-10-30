@@ -21,6 +21,8 @@ files:
     original_filename: PAO Combat Camera 2media.jpg
     thumb: /files/thumbnails/14fb29f25ed1d714fb29f25ed5b7.jpg
     url: /files/original/14fb29f25ed1d714fb29f25ed5b7.jpg
+    alt:
+      en: "A soldier named Cowan, wearing camouflage fatigues, is interviewed by a Fox News reporter holding a branded microphone, with a cameraman filming in the foreground; overlaid camera viewfinder graphics frame the scene."
 geo:
 id: 22971
 item_type: Still Image

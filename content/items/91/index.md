@@ -26,6 +26,8 @@ files:
     original_filename: 100_5840_96ba3c148f.JPG
     thumb: /files/thumbnails/14fb2a7114f02914fb2a7114f3f3.jpg
     url: /files/original/14fb2a7114f02914fb2a7114f3f3.jpg
+    alt:
+      en: "A tall white steeple against a clear blue sky, topped with a dark cross-shaped structure, with a date stamp reading 11/11/2005 in the corner."
 geo:
   address: ''
   lat: 30.005653

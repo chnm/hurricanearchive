@@ -21,6 +21,8 @@ files:
     original_filename: 09240001rita.JPG
     thumb: /files/thumbnails/14fb2a0ede079414fb2a0ede0baa.jpg
     url: /files/original/14fb2a0ede079414fb2a0ede0baa.jpg
+    alt:
+      en: "Wide paved path flanked by trees and open grassy field leads toward a hazy horizon, with parked trucks, a streetlamp, and the green metal rail and hood of a military vehicle visible in the foreground."
 geo:
 id: 19600
 item_type: Still Image

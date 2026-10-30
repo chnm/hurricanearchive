@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28133.jpg
     thumb: /files/thumbnails/14fb2a692df9a014fb2a692dfd86.jpg
     url: /files/original/14fb2a692df9a014fb2a692dfd86.jpg
+    alt:
+      en: "Large pile of hurricane debris—splintered wood, boards, and household wreckage—fills a cleared lot in Slidell, Louisiana, with apartment buildings and power lines visible in the background."
 geo:
   address: ''
   lat: 0.0

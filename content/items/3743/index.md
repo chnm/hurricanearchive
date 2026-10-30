@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 023.jpg
     thumb: /files/thumbnails/14fb2a59e0e16f14fb2a59e0e54d.jpg
     url: /files/original/14fb2a59e0e16f14fb2a59e0e54d.jpg
+    alt:
+      en: "Chain-link fence encloses a storm-damaged property with a sagging carport roof, a low building with a battered metal roof, scattered debris, cinder blocks, and a bare, broken tree against a clear blue sky."
 geo:
 id: 3743
 item_type: Still Image

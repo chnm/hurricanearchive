@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0121gillslong.JPG
     thumb: /files/thumbnails/14fb2a0ce9da4614fb2a0ce9f5fe.jpg
     url: /files/original/14fb2a0ce9da4614fb2a0ce9f5fe.jpg
+    alt:
+      en: "A man in camouflage military fatigues and a white hard hat pushes a sheet of plywood into place against a wooden stud frame indoors."
 geo:
 id: 19889
 item_type: Still Image

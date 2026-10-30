@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1309Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f64e69c514fb29f64e7b55.jpg
     url: /files/original/14fb29f64e69c514fb29f64e7b55.jpg
+    alt:
+      en: "Floodwaters submerge a street and buildings, with wind-bent trees and a partially submerged Ryder box truck reading \"Together, We're Going Places\" in the foreground."
 geo:
 id: 22468
 item_type: Still Image

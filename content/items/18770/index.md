@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-00-0batonrouge.jpg
     thumb: /files/thumbnails/14fb2a1548e8e714fb2a1548ecc4.jpg
     url: /files/original/14fb2a1548e8e714fb2a1548ecc4.jpg
+    alt:
+      en: "Aerial view of a university campus featuring a large football stadium labeled \"LSU,\" a domed arena, an outdoor running track, and surrounding parking lots and buildings under hazy skies."
 geo:
 id: 18770
 item_type: Still Image

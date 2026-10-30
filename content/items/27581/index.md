@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7167_3d18904a24.jpg
     thumb: /files/thumbnails/14fb29d3443c1f14fb29d3443ff7.jpg
     url: /files/original/14fb29d3443c1f14fb29d3443ff7.jpg
+    alt:
+      en: "Eight children in swimsuits pose by a backyard pool beside a wooden fence, with three older boys standing behind four girls and one boy in front, a potted plant with yellow flowers at the pool's edge."
 geo:
   address: ''
   lat: 30.03106

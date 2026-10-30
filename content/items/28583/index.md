@@ -23,6 +23,8 @@ files:
     original_filename: 162652575_83af475536.jpg
     thumb: /files/thumbnails/14fb29d23adca714fb29d23ae08d.jpg
     url: /files/original/14fb29d23adca714fb29d23ae08d.jpg
+    alt:
+      en: "Abandoned single-story brick house with broken windows, a white front door marked with spray-painted symbols, and an overgrown, weed-filled yard, in Lakeshore, New Orleans."
 geo:
 id: 28583
 item_type: Still Image

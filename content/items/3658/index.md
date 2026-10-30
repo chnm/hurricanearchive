@@ -24,6 +24,8 @@ files:
     original_filename: P1010094.JPG
     thumb: /files/thumbnails/14fb2a5a51c34214fb2a5a51f60d.jpg
     url: /files/original/14fb2a5a51c34214fb2a5a51f60d.jpg
+    alt:
+      en: "A brick house with storm-damaged roof covered by a blue tarp stands behind a large pile of debris—insulation, furniture, and household items—piled along the street."
 geo:
 id: 3658
 item_type: Still Image

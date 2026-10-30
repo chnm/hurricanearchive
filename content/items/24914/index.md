@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1402superdome.JPG
     thumb: /files/thumbnails/14fb29e3e80a0c14fb29e3e80ce0.jpg
     url: /files/original/14fb29e3e80a0c14fb29e3e80ce0.jpg
+    alt:
+      en: "A man in a military camouflage uniform marked \"ARMY\" stands amid dense dark foliage at night, holding a cell phone to his ear."
 geo:
 id: 24914
 item_type: Still Image

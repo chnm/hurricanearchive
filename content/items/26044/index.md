@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6940_d6f11dce63.jpg
     thumb: /files/thumbnails/14fb29db98587414fb29db986266.jpg
     url: /files/original/14fb29db98587414fb29db986266.jpg
+    alt:
+      en: "Rows of nuns in habits sit at desks reading books in a classroom, with chalkboards reading \"Sight Singing\" and \"Summer Normal, New Orleans, La. 1922\" visible at the front."
 geo:
   address: ''
   lat: 29.993

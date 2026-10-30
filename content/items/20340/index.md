@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003-18.JPG
     thumb: /files/thumbnails/14fb2a08a8db2614fb2a08a8df0a.jpg
     url: /files/original/14fb2a08a8db2614fb2a08a8df0a.jpg
+    alt:
+      en: "A man in military camouflage fatigues with an American flag patch gestures while speaking to two people wearing blue shirts, one with a red backpack, in a room with maps and briefing documents on the wall."
 geo:
 id: 20340
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300082bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a139d7c6314fb2a139d8048.jpg
     url: /files/original/14fb2a139d7c6314fb2a139d8048.jpg
+    alt:
+      en: "Men in military uniforms unload and pass cardboard boxes of supplies between each other inside a truck bed, with visible printed text including \"MEALS\" and \"OFFICE\" on the boxes."
 geo:
 id: 19021
 item_type: Still Image

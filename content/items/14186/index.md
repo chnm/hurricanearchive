@@ -21,6 +21,8 @@ files:
     original_filename: SPC James Orton.JPG
     thumb: /files/thumbnails/14fb2a1ac7729a14fb2a1ac7767e.jpg
     url: /files/original/14fb2a1ac7729a14fb2a1ac7767e.jpg
+    alt:
+      en: "Man in camouflage cap and olive Under Armour t-shirt smiling in front of stacked pallets of MRE ration boxes labeled \"CASE B MENU 13-24\"; timestamp reads 09.26.2005 13:46."
 geo:
   address: ''
   lat: 0.0

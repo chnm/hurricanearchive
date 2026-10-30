@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28725.jpg
     thumb: /files/thumbnails/14fb2a6a0caee914fb2a6a0cb2ce.jpg
     url: /files/original/14fb2a6a0caee914fb2a6a0cb2ce.jpg
+    alt:
+      en: "A man holds a horse's halter while a woman reviews paperwork on a clipboard inside a stable, with a brown horse standing nearby in its stall."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: BH 1.jpg
     thumb: /files/thumbnails/14fb2a138be36e14fb2a138be755.jpg
     url: /files/original/14fb2a138be36e14fb2a138be755.jpg
+    alt:
+      en: "A UH-60 Black Hawk helicopter marked \"994\" and \"UNITED STATES ARMY\" sits on a concrete pad with rotors spinning, as a uniformed crew member approaches the open side door."
 geo:
 id: 19037
 item_type: Still Image

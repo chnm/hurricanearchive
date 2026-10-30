@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28238.jpg
     thumb: /files/thumbnails/14fb2a679ed59e14fb2a679ed983.jpg
     url: /files/original/14fb2a679ed59e14fb2a679ed983.jpg
+    alt:
+      en: "A damaged Wal-Mart building with a partially collapsed entrance structure, \"WAL★MART\" sign visible on blue wall, empty parking lot with dumpsters and a truck parked nearby."
 geo:
   address: ''
   lat: 0.0

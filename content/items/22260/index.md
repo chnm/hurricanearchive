@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1071Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8963e3b14fb29f8964221.jpg
     url: /files/original/14fb29f8963e3b14fb29f8964221.jpg
+    alt:
+      en: "Service members in camouflage uniforms stand and sit in a dim indoor space, with a boat motor, stacked bottled water, and a small table nearby."
 geo:
 id: 22260
 item_type: Still Image

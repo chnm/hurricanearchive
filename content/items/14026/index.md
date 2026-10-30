@@ -21,6 +21,8 @@ files:
     original_filename: 20050927011.JPG
     thumb: /files/thumbnails/14fb2a1c61efed14fb2a1c61f3d1.jpg
     url: /files/original/14fb2a1c61efed14fb2a1c61f3d1.jpg
+    alt:
+      en: "Two semi-trucks, including one with a trailer reading \"U.S. XPRESS ENTERPRISES,\" parked in a lot lined with tall pine trees, with a person in camouflage standing nearby."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: P1010158empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed9dbb0714fb29ed9dbd32.jpg
     url: /files/original/14fb29ed9dbb0714fb29ed9dbd32.jpg
+    alt:
+      en: "Close-up of a weathered boat hull with peeling paint and rust near the bow, registration number \"LA 9227 BC\" visible on the blue upper hull, rigging and masts in the background."
 geo:
 id: 23717
 item_type: Still Image

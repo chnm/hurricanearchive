@@ -21,6 +21,8 @@ files:
     original_filename: twin span BH view 1.jpg
     thumb: /files/thumbnails/14fb2a13331b3c14fb2a13331f34.jpg
     url: /files/original/14fb2a13331b3c14fb2a13331f34.jpg
+    alt:
+      en: "Helicopter crew member in helmet and flight suit looks out an open aircraft door toward a bridge construction site, where floating barges with large cranes work over the water."
 geo:
 id: 19090
 item_type: Still Image

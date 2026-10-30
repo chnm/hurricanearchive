@@ -23,6 +23,8 @@ files:
     original_filename: 162411598_eec40cab3f.jpg
     thumb: /files/thumbnails/14fb29d231118714fb29d2311570.jpg
     url: /files/original/14fb29d231118714fb29d2311570.jpg
+    alt:
+      en: "Damaged brick house with a large hole in its upper wall exposing a dead tree, a visible water line along the raised foundation, and an American flag planted in the debris below."
 geo:
 id: 28595
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0090-9-25.JPG
     thumb: /files/thumbnails/14fb29e80d716614fb29e80d754b.jpg
     url: /files/original/14fb29e80d716614fb29e80d754b.jpg
+    alt:
+      en: "Aerial view of a flattened residential lot with collapsed roofing, scattered debris, and bare, damaged trees, surrounded by standing floodwater and bordered by a paved road."
 geo:
 id: 24419
 item_type: Still Image

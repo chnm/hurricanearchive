@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5717_0baa29508c.jpg
     thumb: /files/thumbnails/14fb29da8c588214fb29da8d058a.jpg
     url: /files/original/14fb29da8c588214fb29da8d058a.jpg
+    alt:
+      en: "A man in historical costume with a vest, white shirt, and cap uses a mop on a lawn in front of a white house, with a tent and gathering visible in the background."
 geo:
 id: 26119
 item_type: Still Image

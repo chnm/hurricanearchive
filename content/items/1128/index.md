@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28222.jpg
     thumb: /files/thumbnails/14fb2a6ae1661f14fb2a6ae16a5b.jpg
     url: /files/original/14fb2a6ae1661f14fb2a6ae16a5b.jpg
+    alt:
+      en: "A sign reading \"St. Clare Sunday Mass 10:00am\" stands on a cleared, debris-strewn lot, with a quonset-hut structure and sparse trees in the background."
 geo:
   address: ''
   lat: 0.0

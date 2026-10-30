@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0488.JPG
     thumb: /files/thumbnails/14fb2a53d11c7d14fb2a53d1205c.jpg
     url: /files/original/14fb2a53d11c7d14fb2a53d1205c.jpg
+    alt:
+      en: "Pink vinyl-sided house with two windows, spray-painted green \"X\" search marking on the wall, and a green support post in the foreground under a covered walkway."
 geo:
 id: 5126
 item_type: Still Image

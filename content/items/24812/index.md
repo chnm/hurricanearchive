@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2134superdome.JPG
     thumb: /files/thumbnails/14fb29e49d271a14fb29e49d2aff.jpg
     url: /files/original/14fb29e49d271a14fb29e49d2aff.jpg
+    alt:
+      en: "Military trucks and a small boat carrying evacuees and a dog navigate floodwater beneath a covered structure, with National Guard troops and a law enforcement officer assisting nearby."
 geo:
 id: 24812
 item_type: Still Image

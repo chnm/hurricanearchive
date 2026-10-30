@@ -21,6 +21,8 @@ files:
     original_filename: SS St. Bernard.jpg
     thumb: /files/thumbnails/14fb2a5c1886e814fb2a5c188acd.jpg
     url: /files/original/14fb2a5c1886e814fb2a5c188acd.jpg
+    alt:
+      en: "Rural highway lined with numerous utility poles leaning at sharp angles amid trees, with a white plastic stool sitting in the grassy median in the foreground."
 geo:
 id: 3367
 item_type: Still Image

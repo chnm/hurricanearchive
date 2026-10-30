@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0072cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efc7a70b14fb29efc7aae7.jpg
     url: /files/original/14fb29efc7a70b14fb29efc7aae7.jpg
+    alt:
+      en: "Aerial view of a flooded, marshy coastal landscape with scattered pools of water, a diagonal channel or levee cutting across the terrain, and a pale sandbar visible along the horizon under hazy skies."
 geo:
 id: 23369
 item_type: Still Image

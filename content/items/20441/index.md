@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016-15.JPG
     thumb: /files/thumbnails/14fb2a072ee1c814fb2a072f3818.jpg
     url: /files/original/14fb2a072ee1c814fb2a072f3818.jpg
+    alt:
+      en: "Aerial view (rotated) of a dense residential neighborhood with numerous rooftops among trees, bordered by a straight canal or waterway and hazy open water in the distance."
 geo:
 id: 20441
 item_type: Still Image

@@ -25,12 +25,16 @@ files:
     original_filename: DotBenge-5783_58be2c1e6c.jpg
     thumb: /files/thumbnails/14fb29dc2ef90714fb29dc2efced.jpg
     url: /files/original/14fb29dc2ef90714fb29dc2efced.jpg
+    alt:
+      en: "An elderly man in a red embroidered vest and a woman in traditional dress with a blue skirt hold a yellow and white flower wreath together in front of a stone memorial with an angel statue."
   - fullsize: /files/fullsize/14fb29dc2d653314fb29dc2d7288.jpg
     id: 22551
     mime: image/jpeg
     original_filename: DotBenge-5791_6b730ecef1.jpg
     thumb: /files/thumbnails/14fb29dc2d653314fb29dc2d7288.jpg
     url: /files/original/14fb29dc2d653314fb29dc2d7288.jpg
+    alt:
+      en: "A group of people stand along a row of white above-ground mausoleum tombs marked with family names like Fabra and Molero, some decorated with flower bouquets, under tall trees."
 geo:
 id: 25799
 item_type: Still Image

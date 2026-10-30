@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28480.jpg
     thumb: /files/thumbnails/14fb2a684ba70814fb2a684baaf6.jpg
     url: /files/original/14fb2a684ba70814fb2a684baaf6.jpg
+    alt:
+      en: "Interior of a flood-damaged room with mold-stained walls, collapsed furniture, overturned mattresses, and debris covering the floor."
 geo:
   address: ''
   lat: 0.0

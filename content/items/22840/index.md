@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f316869514fb29f316894f.jpg
     url: /files/original/14fb29f316869514fb29f316894f.jpg
+    alt:
+      en: "A uniformed soldier in camouflage with an American flag patch and backpack leans toward a car window, talking to someone inside, with police officers and dirt mounds visible in the background."
 geo:
 id: 22840
 item_type: Still Image

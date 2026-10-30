@@ -21,6 +21,8 @@ files:
     original_filename: Inside Quarters at Jack BrksJacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4f2302714fb29f4f2340d.jpg
     url: /files/original/14fb29f4f2302714fb29f4f2340d.jpg
+    alt:
+      en: "Flood-damaged living room with a visible waterline staining the walls, overturned furniture, a toppled TV, and debris scattered across the floor; sunlight streams through sheer curtains. Dated 09.15.2005."
 geo:
 id: 22631
 item_type: Still Image

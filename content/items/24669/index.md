@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00120 DSC00120cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5bd410114fb29e5bd44ee.jpg
     url: /files/original/14fb29e5bd410114fb29e5bd44ee.jpg
+    alt:
+      en: "Military officer in camouflage uniform speaks with a man in a FEMA vest outside a white building marked \"119 Smith Circle,\" with other personnel gathered on steps nearby."
 geo:
 id: 24669
 item_type: Still Image

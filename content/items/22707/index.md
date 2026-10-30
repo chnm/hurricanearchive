@@ -21,6 +21,8 @@ files:
     original_filename: PICT0605Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f48e1e4714fb29f48e2137.jpg
     url: /files/original/14fb29f48e1e4714fb29f48e2137.jpg
+    alt:
+      en: "Two-story brick barracks buildings with white columned porches and chain-link fencing, with debris and scattered items in the grassy yard; image dated 09.15.2005."
 geo:
 id: 22707
 item_type: Still Image

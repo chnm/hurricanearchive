@@ -21,6 +21,8 @@ files:
     original_filename: 101-01_75fa117d11.jpg
     thumb: /files/thumbnails/14fb2a21c71e8c14fb2a21c72270.jpg
     url: /files/original/14fb2a21c71e8c14fb2a21c72270.jpg
+    alt:
+      en: "Vintage photograph of an older woman in a teal dress seated beside a younger woman wearing a red cap and tan jacket, both smiling, in front of striped curtains."
 geo:
 id: 12686
 item_type: Still Image

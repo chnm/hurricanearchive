@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0072medics.JPG
     thumb: /files/thumbnails/14fb29e5c4a96714fb29e5c4ad4d.jpg
     url: /files/original/14fb29e5c4a96714fb29e5c4ad4d.jpg
+    alt:
+      en: "A man in military camouflage fatigues with a nametag reading \"Alleman\" sits in an office chair, hand on chin, looking thoughtfully at a computer monitor."
 geo:
 id: 24662
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1070Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f89718ee14fb29f8971cd3.jpg
     url: /files/original/14fb29f89718ee14fb29f8971cd3.jpg
+    alt:
+      en: "Three men in military camouflage uniforms rest near a boat with a Johnson outboard motor, with bottled water cases and a cup nearby in a dimly lit warehouse space."
 geo:
 id: 22259
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0262downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14487b9914fb2a14487f81.jpg
     url: /files/original/14fb2a14487b9914fb2a14487f81.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood bordered by a levee and canal, with rows of houses, sparse foliage, and a hazy city skyline in the distance."
 geo:
 id: 18912
 item_type: Still Image

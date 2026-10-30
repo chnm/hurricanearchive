@@ -20,6 +20,8 @@ files:
     original_filename: DSCN0077_a78dedced5.JPG
     thumb: /files/thumbnails/14fb29c574923314fb29c5749619.jpg
     url: /files/original/14fb29c574923314fb29c5749619.jpg
+    alt:
+      en: "Storm debris litters a coastal parking lot near the gulf shore, with bent metal poles, broken curbs, and empty sign frames remaining; a small American flag hangs from one structure, timestamped 10.18.2005."
 geo:
   address: ''
   lat: 30.29702

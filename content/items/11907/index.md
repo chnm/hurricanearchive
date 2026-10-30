@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 029.jpg
     thumb: /files/thumbnails/14fb2a22c2ac7414fb2a22c2b063.jpg
     url: /files/original/14fb2a22c2ac7414fb2a22c2b063.jpg
+    alt:
+      en: "Damaged storefront with broken \"Shoe Station\" sign and debris scattered across an empty parking lot, dated 2005/09/24."
 geo:
 id: 11907
 item_type: Still Image

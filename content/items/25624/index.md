@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.033.JPG
     thumb: /files/thumbnails/14fb29dd0836f714fb29dd083ab4.jpg
     url: /files/original/14fb29dd0836f714fb29dd083ab4.jpg
+    alt:
+      en: "Hand-painted wooden sign reading \"Welcome to the Made with Love Free Store,\" with colorful lettering and heart bullet points explaining shopping guidelines, donations, and nonprofit status."
 geo:
 id: 25624
 item_type: Still Image

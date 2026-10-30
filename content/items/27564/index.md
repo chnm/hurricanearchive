@@ -24,6 +24,8 @@ files:
     original_filename: IMG_6441_559752fd5e.jpg
     thumb: /files/thumbnails/14fb29d366d5c214fb29d366d9a6.jpg
     url: /files/original/14fb29d366d5c214fb29d366d9a6.jpg
+    alt:
+      en: "Two dancers in white and brown uniforms with matching caps pose on a city street during the Mardi Gras parade, with onlookers, parade floats, and tall buildings in the background."
 geo:
   address: ''
   lat: 29.91685

@@ -21,6 +21,8 @@ files:
     original_filename: SecondLine-3454_c53c7e464c.jpg
     thumb: /files/thumbnails/14fb2a17166c8614fb2a17166f6a.jpg
     url: /files/original/14fb2a17166c8614fb2a17166f6a.jpg
+    alt:
+      en: "Parade participants in red and gold costumes, including large feathered headdresses, march in a New Orleans second line, with onlookers and trees lining the street behind them."
 geo:
 id: 15112
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1274Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f677700f14fb29f67773f5.jpg
     url: /files/original/14fb29f677700f14fb29f67773f5.jpg
+    alt:
+      en: "A small boat carrying several people in camouflage uniforms navigates extensive floodwaters, passing a submerged utility pole with power lines, trees, and another empty boat in the foreground."
 geo:
 id: 22433
 item_type: Still Image

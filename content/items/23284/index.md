@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29f021415314fb29f0214530.jpg
     url: /files/original/14fb29f021415314fb29f0214530.jpg
+    alt:
+      en: "Livestock trailer with Louisiana plate E892401 drives along a flooded roadway past a damaged mobile home, with standing water and downed trees visible on both sides of the road."
 geo:
 id: 23284
 item_type: Still Image

@@ -25,12 +25,16 @@ files:
     original_filename: PPeabody-_589576a288.jpg
     thumb: /files/thumbnails/14fb2a169ae92314fb2a169aed08.jpg
     url: /files/original/14fb2a169ae92314fb2a169aed08.jpg
+    alt:
+      en: "A priest in white vestments stands beside a baptismal font as family members gather around, one holding an infant in white, with tall stained glass windows in the background."
   - fullsize: /files/fullsize/14fb2a1699b11d14fb2a1699b7f0.jpg
     id: 12382
     mime: image/jpeg
     original_filename: PPeabody-8_f7fb6b1744.jpg
     thumb: /files/thumbnails/14fb2a1699b11d14fb2a1699b7f0.jpg
     url: /files/original/14fb2a1699b11d14fb2a1699b7f0.jpg
+    alt:
+      en: "Interior of a church with large stained glass windows in blue and yellow tones; a man in a plaid shirt lights a candle while another person stands nearby near the altar area."
 geo:
 id: 15313
 item_type: Still Image

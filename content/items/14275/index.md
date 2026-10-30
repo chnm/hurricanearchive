@@ -21,6 +21,8 @@ files:
     original_filename: aerials116.jpg
     thumb: /files/thumbnails/14fb2a1a47b10a14fb2a1a47b4e2.jpg
     url: /files/original/14fb2a1a47b10a14fb2a1a47b4e2.jpg
+    alt:
+      en: "Aerial view of a coastal neighborhood devastated by flooding, with rows of destroyed homes along canals, docks, and the surrounding waterway, trees stripped bare in the background."
 geo:
 id: 14275
 item_type: Still Image

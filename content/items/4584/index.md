@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0010.JPG
     thumb: /files/thumbnails/14fb2a56eeb06f14fb2a56eeb45a.jpg
     url: /files/original/14fb2a56eeb06f14fb2a56eeb45a.jpg
+    alt:
+      en: "Debris field with an overturned \"Sea Nymph\" boat, scattered rubble, and stripped trees along a dirt road; two men stand near the wreckage as a car passes by."
 geo:
 id: 4584
 item_type: Still Image

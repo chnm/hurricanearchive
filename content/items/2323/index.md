@@ -26,6 +26,8 @@ files:
     original_filename: HOPE_photo_ab39b7ecb5.JPG
     thumb: /files/thumbnails/14fb2a6d515fdc14fb2a6d5163c1.jpg
     url: /files/original/14fb2a6d515fdc14fb2a6d5163c1.jpg
+    alt:
+      en: "A canvas tent labeled \"H1\" with wooden steps, fronted by four mosaic signs made of broken ceramic fragments spelling \"HOPE,\" set among a row of similar tents in a relief camp."
 geo:
   address: ''
   lat: 0.0

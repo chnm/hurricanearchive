@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28392.jpg
     thumb: /files/thumbnails/14fb2a696a24ee14fb2a696a28d3.jpg
     url: /files/original/14fb2a696a24ee14fb2a696a28d3.jpg
+    alt:
+      en: "Two men stand on the deck of a shrimp boat examining a stainless steel fish release device, with green netting, rigging, and rope visible around them."
 geo:
   address: ''
   lat: 0.0

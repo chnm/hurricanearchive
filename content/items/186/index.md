@@ -26,6 +26,8 @@ files:
     original_filename: 20_Destruction1_4115e17be1.jpg
     thumb: /files/thumbnails/14fb2a709e1cc214fb2a709e20a8.jpg
     url: /files/original/14fb2a709e1cc214fb2a709e20a8.jpg
+    alt:
+      en: "An overturned car rests amid rubble and leveled house foundations in the Lower Ninth Ward, with scorched, debarked trees and debris scattered across the devastated landscape."
 geo:
   address: ''
   lat: 29.943769

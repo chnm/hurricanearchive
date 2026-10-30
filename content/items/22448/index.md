@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1289Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f669133014fb29f66916e6.jpg
     url: /files/original/14fb29f669133014fb29f66916e6.jpg
+    alt:
+      en: "A two-story house with a covered porch, its ground floor submerged in murky floodwater reaching window level; a small sign reading \"40\" is visible on a column."
 geo:
 id: 22448
 item_type: Still Image

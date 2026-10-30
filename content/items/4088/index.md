@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0989.JPG
     thumb: /files/thumbnails/14fb2a57ed889314fb2a57ed8c72.jpg
     url: /files/original/14fb2a57ed889314fb2a57ed8c72.jpg
+    alt:
+      en: "Rooftop with exposed wooden framing and damaged shingles sits between neighboring brick and sided houses, with laundry hanging on a line and parked cars in the foreground."
 geo:
 id: 4088
 item_type: Still Image

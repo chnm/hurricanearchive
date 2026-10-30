@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 024cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e9d931514fb2a0e9d9a0c.jpg
     url: /files/original/14fb2a0e9d931514fb2a0e9d9a0c.jpg
+    alt:
+      en: "Outdoor staging area under a large open-sided canopy, with stacked pallets of boxed and bottled supplies, a mobile light tower, traffic cones, and a white pickup truck parked beside a tractor-trailer."
 geo:
 id: 19637
 item_type: Still Image

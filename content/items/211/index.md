@@ -26,6 +26,8 @@ files:
     original_filename: nphecphotonola_29863a422f.jpe
     thumb: /files/thumbnails/14fb2a7084cd1914fb2a70853754.jpg
     url: /files/original/14fb2a7084cd1914fb2a70853754.jpg
+    alt:
+      en: "A high-rise office building with a grid of windows, many broken or boarded, stands beside the curved exterior wall of the Louisiana Superdome."
 geo:
   address: ''
   lat: 29.935002655063098

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0090H.JPG
     thumb: /files/thumbnails/14fb29e80cc68714fb29e80ccd5c.jpg
     url: /files/original/14fb29e80cc68714fb29e80ccd5c.jpg
+    alt:
+      en: "A young woman in a white tank top signs an orange item on a table at an outdoor nighttime event, with a beer can nearby and two men standing behind her."
 geo:
 id: 24420
 item_type: Still Image

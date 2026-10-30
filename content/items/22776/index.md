@@ -21,6 +21,8 @@ files:
     original_filename: S4300132Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f405aa9014fb29f405ae6d.jpg
     url: /files/original/14fb29f405aa9014fb29f405ae6d.jpg
+    alt:
+      en: "Damaged metal-sided trailer labeled \"2LT DAVIS\" with a broken window, graffiti near the door, and collapsed skirting exposing concrete steps marked \"T965.\""
 geo:
 id: 22776
 item_type: Still Image

@@ -35,6 +35,8 @@ files:
     original_filename: DSC_0021.JPG
     thumb: /files/thumbnails/457cb5c16f8ad9bd8d176e4295517fb4.jpg
     url: /files/original/457cb5c16f8ad9bd8d176e4295517fb4.JPG
+    alt:
+      en: "A large damaged boat rests on its side along a rocky shoreline near a metal bridge structure, with its white cabin heavily weathered and the hull stained with rust."
 geo:
   address: 1301 Yscloskey Hwy  St Bernard, LA 70085
   lat: 29.8546767

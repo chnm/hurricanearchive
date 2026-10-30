@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0186media.JPG
     thumb: /files/thumbnails/14fb29f27af40714fb29f27af7ec.jpg
     url: /files/original/14fb29f27af40714fb29f27af7ec.jpg
+    alt:
+      en: "Group of people, including a soldier in camouflage with a backpack and a woman in a pink tank top holding a notebook, stand outdoors near a red building with tan doors."
 geo:
 id: 22953
 item_type: Still Image

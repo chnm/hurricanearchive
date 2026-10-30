@@ -21,6 +21,8 @@ files:
     original_filename: P1010107empireS&R.JPG
     thumb: /files/thumbnails/14fb29edf7310814fb29edf73534.jpg
     url: /files/original/14fb29edf7310814fb29edf73534.jpg
+    alt:
+      en: "Devastated residential street with collapsed and tilted homes, scattered debris, and bare, storm-damaged trees; a bicycle lies on the ground near an empty foundation slab in the foreground."
 geo:
 id: 23666
 item_type: Still Image

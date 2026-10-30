@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0106-15.JPG
     thumb: /files/thumbnails/14fb29e73af21014fb29e73af5ee.jpg
     url: /files/original/14fb29e73af21014fb29e73af5ee.jpg
+    alt:
+      en: "Aerial view of the cruise ship \"Sensation\" docked at Poland Street Wharf alongside a river, with a hazy cityscape of warehouses, streets, and houses in the background."
 geo:
 id: 24500
 item_type: Still Image

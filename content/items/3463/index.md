@@ -24,6 +24,8 @@ files:
     original_filename: P1010033.JPG
     thumb: /files/thumbnails/14fb2a5b9cf7c914fb2a5b9cfb9f.jpg
     url: /files/original/14fb2a5b9cf7c914fb2a5b9cfb9f.jpg
+    alt:
+      en: "Storm-wrecked lot along a flooded street, strewn with scattered debris, a rusted metal drum, and twisted pipes, with a white metal building on stilts and a pedestrian bridge in the background."
 geo:
 id: 3463
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PB 6 WWII Japan_9b28247601.jpg
     thumb: /files/thumbnails/14fb29d80e685f14fb29d80e6fd8.jpg
     url: /files/original/14fb29d80e685f14fb29d80e6fd8.jpg
+    alt:
+      en: "Vintage sepia-toned photo of a man in a military uniform and a woman in a suit jacket seated together at a table with soda bottles and glasses, both smiling for the camera."
 geo:
   address: ''
   lat: 29.91685

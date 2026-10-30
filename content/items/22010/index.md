@@ -21,6 +21,8 @@ files:
     original_filename: Picture 341-J2.jpg
     thumb: /files/thumbnails/14fb29fa27dd6914fb29fa27f053.jpg
     url: /files/original/14fb29fa27dd6914fb29fa27f053.jpg
+    alt:
+      en: "Row of burned-out commercial buildings with collapsed roofs and charred metal framing, debris scattered along a grassy roadside under a blue sky with scattered clouds."
 geo:
 id: 22010
 item_type: Still Image

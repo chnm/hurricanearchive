@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0130rita.JPG
     thumb: /files/thumbnails/14fb2a11a6b0c914fb2a11a6b4af.jpg
     url: /files/original/14fb2a11a6b0c914fb2a11a6b4af.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms converse near a \"Headquarters\" sign and a \"Salute\" sign, with military vehicles and a chain-link fence in the background, viewed through a vehicle window."
 geo:
 id: 19246
 item_type: Still Image

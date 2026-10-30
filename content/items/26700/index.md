@@ -21,6 +21,8 @@ files:
     original_filename: JA 2 1950 crawfishing_f3cf09acf6.jpg
     thumb: /files/thumbnails/14fb29d84c408214fb29d84c447f.jpg
     url: /files/original/14fb29d84c408214fb29d84c447f.jpg
+    alt:
+      en: "Sepia-toned photo of Shirley Seibert and her son Charles standing on grass beside a vintage car, both holding fishing lines while crawfishing, St. Bernard, 1950."
 geo:
   address: ''
   lat: 29.95493

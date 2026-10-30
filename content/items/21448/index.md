@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0259-9-25-2.JPG
     thumb: /files/thumbnails/14fb29feb5838814fb29feb5876e.jpg
     url: /files/original/14fb29feb5838814fb29feb5876e.jpg
+    alt:
+      en: "Aerial view of coastal rooftops and buildings beside a beach, with power lines crossing overhead and a damaged palm tree visible near the shoreline."
 geo:
 id: 21448
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: Picture 005_0da00d5bba.jpg
     thumb: /files/thumbnails/14fb29ccf1124b14fb29ccf1162f.jpg
     url: /files/original/14fb29ccf1124b14fb29ccf1162f.jpg
+    alt:
+      en: "A man in a yellow cap carries a foam food container and plastic bag across a street, with piles of storm debris and a brick house displaying a \"For Sale\" sign in the background."
 geo:
   address: 409 Norton Ave, Arabi LA
   lat: 0.0

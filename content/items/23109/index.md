@@ -21,6 +21,8 @@ files:
     original_filename: 050930-A-9722M-002mobilePAO.jpg
     thumb: /files/thumbnails/14fb29f187848714fb29f1878877.jpg
     url: /files/original/14fb29f187848714fb29f1878877.jpg
+    alt:
+      en: "Two men in camouflage military uniforms examine a map or document together indoors, with a laptop and chair nearby and a \"J-2\" sign visible on the wall above."
 geo:
 id: 23109
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0315-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd6e0c1314fb29fd6e0f6c.jpg
     url: /files/original/14fb29fd6e0c1314fb29fd6e0f6c.jpg
+    alt:
+      en: "Aerial view of a brown-roofed house surrounded by trees, with a swimming pool, patio furniture, and debris scattered in the backyard, and a swing set visible nearby."
 geo:
 id: 21579
 item_type: Still Image

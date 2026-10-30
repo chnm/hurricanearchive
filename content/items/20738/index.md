@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0068-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a042f065e14fb2a042f0a3c.jpg
     url: /files/original/14fb2a042f065e14fb2a042f0a3c.jpg
+    alt:
+      en: "Blurry, motion-streaked photo showing a person's arm reaching across a dark scene, with indistinct greenish background elements, suggesting rapid movement at night."
 geo:
 id: 20738
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0968superdome.JPG
     thumb: /files/thumbnails/14fb29e40608f914fb29e4060ba7.jpg
     url: /files/original/14fb29e40608f914fb29e4060ba7.jpg
+    alt:
+      en: "Four military personnel in camouflage fatigues load folding cots and metal frame parts into the back of an olive-green canvas-covered truck."
 geo:
 id: 24893
 item_type: Still Image

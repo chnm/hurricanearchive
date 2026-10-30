@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1292Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f664260614fb29f6642c0d.jpg
     url: /files/original/14fb29f664260614fb29f6642c0d.jpg
+    alt:
+      en: "Floodwaters submerge a neighborhood, with a boat and people in life vests visible among trees, as a leaning light pole with two lamps and power lines stand in the foreground."
 geo:
 id: 22451
 item_type: Still Image

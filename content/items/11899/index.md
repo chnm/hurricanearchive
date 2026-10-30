@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 021.jpg
     thumb: /files/thumbnails/14fb2a22c6f9c614fb2a22c6fdb4.jpg
     url: /files/original/14fb2a22c6f9c614fb2a22c6fdb4.jpg
+    alt:
+      en: "Storm-damaged building with collapsed roof and blue tarp covering debris, surrounded by scattered wreckage in a parking lot; a Sealy truck trailer sits at left, dated 2005/09/24."
 geo:
 id: 11899
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0105.JPG
     thumb: /files/thumbnails/14fb2a558a0efb14fb2a558a16c4.jpg
     url: /files/original/14fb2a558a0efb14fb2a558a16c4.jpg
+    alt:
+      en: "Fallen tree branches with browned, dried needles lean against the corner of a white wood-paneled building, with a damaged roof overhang visible above."
 geo:
 id: 4793
 item_type: Still Image

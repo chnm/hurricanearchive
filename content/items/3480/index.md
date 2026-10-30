@@ -24,6 +24,8 @@ files:
     original_filename: P1010054.JPG
     thumb: /files/thumbnails/14fb2a5b8e256014fb2a5b8e29e7.jpg
     url: /files/original/14fb2a5b8e256014fb2a5b8e29e7.jpg
+    alt:
+      en: "Abandoned single-story brick house with broken windows, bare winter trees, and downed branches scattered across the overgrown yard under a clear blue sky."
 geo:
 id: 3480
 item_type: Still Image

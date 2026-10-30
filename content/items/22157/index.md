@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-10-9AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f94cf1c314fb29f94cf5a0.jpg
     url: /files/original/14fb29f94cf1c314fb29f94cf5a0.jpg
+    alt:
+      en: "Vehicles partially submerged in floodwater in a parking lot, with heavy fog or mist obscuring trees and utility poles in the background."
 geo:
 id: 22157
 item_type: Still Image

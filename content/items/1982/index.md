@@ -26,6 +26,8 @@ files:
     original_filename: Katrina_2_027_199c3c3582.jpg
     thumb: /files/thumbnails/14fb2a6df24c7414fb2a6df2511e.jpg
     url: /files/original/14fb2a6df24c7414fb2a6df2511e.jpg
+    alt:
+      en: "Damaged structure with a bent metal roofing panel labeled \"Rolled Flashing\" and broken white trim, viewed through a torn window screen with pine branches and greenery outside."
 geo:
   address: ''
   lat: 30.280268025299

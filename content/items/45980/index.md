@@ -20,6 +20,8 @@ files:
     original_filename: Katrina_20051001_257.JPG
     thumb: /files/thumbnails/3b03d545e6342eef6f3a5c5add88d4b4.jpg
     url: /files/original/3b03d545e6342eef6f3a5c5add88d4b4.JPG
+    alt:
+      en: "Flood-damaged classroom with overturned desks and chairs, mud-coated floor, water-stained cabinets, and a toppled television amid scattered debris."
 geo:
   address: 6249 Canal Blvd., New Orleans, LA 70124
   lat: 30.0043826

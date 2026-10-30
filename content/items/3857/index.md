@@ -21,6 +21,8 @@ files:
     original_filename: 100_0150.JPG
     thumb: /files/thumbnails/14fb2a593ab4ee14fb2a593abae7.jpg
     url: /files/original/14fb2a593ab4ee14fb2a593abae7.jpg
+    alt:
+      en: "A flooded residential street with houses partially submerged in brown floodwater, surrounded by storm-damaged trees with broken branches, viewed from a boat in the foreground."
 geo:
 id: 3857
 item_type: Still Image

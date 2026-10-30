@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0027_3e92261d22.jpg
     thumb: /files/thumbnails/14fb29c24e5cfa14fb29c24e60e1.jpg
     url: /files/original/14fb29c24e5cfa14fb29c24e60e1.jpg
+    alt:
+      en: "Black-and-white street photo of an elderly man in a suit holding a tambourine-like object, standing beside a seated woman in a white chef's coat and cap, with a cane, hat, and bag nearby."
 geo:
 id: 43098
 item_type: Still Image

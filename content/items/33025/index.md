@@ -20,6 +20,8 @@ files:
     original_filename: hurricane pics 003_2bf68c9a84.jpg
     thumb: /files/thumbnails/14fb29cbf032b214fb29cbf0369f.jpg
     url: /files/original/14fb29cbf032b214fb29cbf0369f.jpg
+    alt:
+      en: "Storm-damaged building with a collapsed roof and debris including cinder blocks and a green chair scattered in front, a man standing in a doorway, and a black convertible parked nearby; \"water line\" is handwritten at the top marking the flood height."
 geo:
   address: 461 caillavet st
   lat: 0.0

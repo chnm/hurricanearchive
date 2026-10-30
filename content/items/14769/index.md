@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_ErykahMorris_05_f3db062738.jpg
     thumb: /files/thumbnails/14fb2a17d4a4eb14fb2a17d4aaa1.jpg
     url: /files/original/14fb2a17d4a4eb14fb2a17d4aaa1.jpg
+    alt:
+      en: "Family photo in a blue-walled room with a Christmas stocking hanging on an arched doorway; two adults and three children pose together, with a toy box and television visible nearby."
 geo:
 id: 14769
 item_type: Still Image

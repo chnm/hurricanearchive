@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 042.jpg
     thumb: /files/thumbnails/14fb2a2266f6d414fb2a2266faba.jpg
     url: /files/original/14fb2a2266f6d414fb2a2266faba.jpg
+    alt:
+      en: "Debris field of splintered wood, bricks, and household items scattered across a lot, surrounded by snapped and stripped trees under a clear blue sky."
 geo:
 id: 11994
 item_type: Still Image

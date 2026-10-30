@@ -21,6 +21,8 @@ files:
     original_filename: DSC 030417thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f362c35314fb29f362cdf6.jpg
     url: /files/original/14fb29f362c35314fb29f362cdf6.jpg
+    alt:
+      en: "Aerial view of a straight canal lined with levees running toward the coast, flanked by residential neighborhoods showing storm-damaged trees and buildings, with open water visible in the distance."
 geo:
 id: 22817
 item_type: Still Image

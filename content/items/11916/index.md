@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 038.jpg
     thumb: /files/thumbnails/14fb2a22bcbaf814fb2a22bcbede.jpg
     url: /files/original/14fb2a22bcbaf814fb2a22bcbede.jpg
+    alt:
+      en: "Storm-damaged McDonald's with torn roof shingles and downed tree limbs, two Ronald McDonald statues still standing amid debris-strewn pavement; date stamp reads 2005/09/24."
 geo:
 id: 11916
 item_type: Still Image

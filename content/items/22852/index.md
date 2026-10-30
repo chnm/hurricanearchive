@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f30bbe1214fb29f30bc1f6.jpg
     url: /files/original/14fb29f30bbe1214fb29f30bc1f6.jpg
+    alt:
+      en: "A police officer in a navy \"POLICE\" shirt and a soldier in camouflage fatigues stand together in front of a police car, with a \"New Orleans Corp Limit\" sign visible behind them."
 geo:
 id: 22852
 item_type: Still Image

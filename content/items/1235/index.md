@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27915.jpg
     thumb: /files/thumbnails/14fb2a6a31718a14fb2a6a317567.jpg
     url: /files/original/14fb2a6a31718a14fb2a6a317567.jpg
+    alt:
+      en: "A storm-damaged bedroom with a mold-stained wall, a wooden dresser topped with a round mirror and scattered toiletries, and a folding ironing board beside debris-covered furniture on the floor."
 geo:
   address: ''
   lat: 0.0

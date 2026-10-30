@@ -21,6 +21,8 @@ files:
     original_filename: Picture 052engineers.jpg
     thumb: /files/thumbnails/14fb2a0faacf2114fb2a0faad2fa.jpg
     url: /files/original/14fb2a0faacf2114fb2a0faad2fa.jpg
+    alt:
+      en: "Aerial view from an aircraft wing of a wide river with marshland and a small industrial facility with storage tanks on a peninsula, surrounded by water channels and sparse, storm-damaged vegetation."
 geo:
 id: 19492
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1063Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8a0a2d014fb29f8a0a3f9.jpg
     url: /files/original/14fb29f8a0a2d014fb29f8a0a3f9.jpg
+    alt:
+      en: "Two men in military fatigues stand near a brick wall topped with razor wire, with a foggy street and buildings visible in the background."
 geo:
 id: 22252
 item_type: Still Image

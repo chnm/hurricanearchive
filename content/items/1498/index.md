@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28297.jpg
     thumb: /files/thumbnails/14fb2a6867c0e214fb2a6867c4c6.jpg
     url: /files/original/14fb2a6867c0e214fb2a6867c4c6.jpg
+    alt:
+      en: "Severely damaged brick building with a collapsed metal roof structure, surrounded by debris and stripped trees, under an overcast sky."
 geo:
   address: ''
   lat: 0.0

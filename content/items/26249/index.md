@@ -21,6 +21,8 @@ files:
     original_filename: AB New Orleans 1950s 3_140b445fbe.jpg
     thumb: /files/thumbnails/14fb29d95075ec14fb29d9507e6c.jpg
     url: /files/original/14fb29d95075ec14fb29d9507e6c.jpg
+    alt:
+      en: "Two girls in white costumes with tall paper hats stand on a street lined with parked cars and small houses; handwritten names \"Gaile\" and \"Judy\" appear in blue ink above the scene."
 geo:
   address: ''
   lat: 29.91685

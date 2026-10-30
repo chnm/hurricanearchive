@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1917superdome.JPG
     thumb: /files/thumbnails/14fb29e0c5a22314fb29e0c5a610.jpg
     url: /files/original/14fb29e0c5a22314fb29e0c5a610.jpg
+    alt:
+      en: "Three men stand arm-in-arm in front of the Superdome; two wear camouflage military uniforms with name tags \"Reddock\" and \"Landreneau,\" while the man in the middle wears a New Orleans Saints cap and blue polo shirt."
 geo:
 id: 25218
 item_type: Still Image

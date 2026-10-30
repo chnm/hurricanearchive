@@ -21,6 +21,8 @@ files:
     original_filename: aerials71.jpg
     thumb: /files/thumbnails/14fb2a1996259814fb2a19962975.jpg
     url: /files/original/14fb2a1996259814fb2a19962975.jpg
+    alt:
+      en: "Aerial view of a collapsed bridge with multiple rows of concrete support pilings rising from brown floodwater, one section of roadway broken and tilted into the water."
 geo:
 id: 14362
 item_type: Still Image

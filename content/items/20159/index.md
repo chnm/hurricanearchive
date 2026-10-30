@@ -21,6 +21,8 @@ files:
     original_filename: Picture 256cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b018c7f14fb2a0b019075.jpg
     url: /files/original/14fb2a0b018c7f14fb2a0b019075.jpg
+    alt:
+      en: "Water surges turbulently with heavy foam over a concrete-walled channel, with two jets spraying upward near a satellite dish atop a nearby building under a clear blue sky."
 geo:
 id: 20159
 item_type: Still Image

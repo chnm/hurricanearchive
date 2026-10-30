@@ -21,6 +21,8 @@ files:
     original_filename: Cousins 1959_5a9129dafc.jpg
     thumb: /files/thumbnails/14fb2a16e93a6d14fb2a16e94247.jpg
     url: /files/original/14fb2a16e93a6d14fb2a16e94247.jpg
+    alt:
+      en: "Black-and-white group photo of a dozen children and two adults posed together indoors, with a young boy in front wearing a striped Morgus T-shirt, taken on Eagle St., New Orleans, 1958."
 geo:
   address: ''
   lat: 37.77123

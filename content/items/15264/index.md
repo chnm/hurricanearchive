@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-012_00_63b0343145.jpg
     thumb: /files/thumbnails/14fb2a16b5325c14fb2a16b53642.jpg
     url: /files/original/14fb2a16b5325c14fb2a16b53642.jpg
+    alt:
+      en: "Group of children posed for a dance recital photo against a white brick wall, with girls in matching yellow polka-dot two-piece outfits and two boys in tropical-print shirts; a timestamp reading \"05 5 31\" appears in the corner."
 geo:
 id: 15264
 item_type: Still Image

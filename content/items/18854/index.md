@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0071grandisle.JPG
     thumb: /files/thumbnails/14fb2a14e60a6414fb2a14e60e40.jpg
     url: /files/original/14fb2a14e60a6414fb2a14e60e40.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with submerged homes, trailers, and scattered debris among bare trees, bordered by a sandy shoreline and a wide body of water."
 geo:
 id: 18854
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09240022rita.JPG
     thumb: /files/thumbnails/14fb2a0eacc24314fb2a0eacc628.jpg
     url: /files/original/14fb2a0eacc24314fb2a0eacc628.jpg
+    alt:
+      en: "Collapsed green-and-white and blue-and-white striped tents lie over a plywood platform with cots, yellow ventilation ducting, and scattered debris, with a utility pole and stormy sky in the background."
 geo:
 id: 19621
 item_type: Still Image

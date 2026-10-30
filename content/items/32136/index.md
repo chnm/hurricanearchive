@@ -20,6 +20,8 @@ files:
     original_filename: 1280711072_7ae2813f0b.jpg
     thumb: /files/thumbnails/14fb29cc011ca614fb29cc01201c.jpg
     url: /files/original/14fb29cc011ca614fb29cc01201c.jpg
+    alt:
+      en: "Front page of The Times-Picayune, Thursday, August 30, 2007, headlined \"Pausing to Remember: Rebuilding Gives Way to Reflection on Hurricane Katrina's Anniversary,\" with a photo of a woman tying flowers to a cross."
 geo:
 id: 32136
 item_type: Still Image

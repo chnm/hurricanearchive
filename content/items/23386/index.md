@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0081cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efbb458a14fb29efbb496f.jpg
     url: /files/original/14fb29efbb458a14fb29efbb496f.jpg
+    alt:
+      en: "Aerial view of extensive flooding across flat marshland, with winding waterways, submerged fields, and thin tree lines separating pools of standing water."
 geo:
 id: 23386
 item_type: Still Image

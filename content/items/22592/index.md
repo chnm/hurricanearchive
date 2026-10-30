@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0543Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f525362314fb29f5253a09.jpg
     url: /files/original/14fb29f525362314fb29f5253a09.jpg
+    alt:
+      en: "Blurry, fog-like photograph showing indistinct outlines of bare branches and what may be a vehicle in the foreground, with a hazy building structure faintly visible in the background."
 geo:
 id: 22592
 item_type: Still Image

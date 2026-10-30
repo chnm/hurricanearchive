@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0319-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd668a3414fb29fd668e19.jpg
     url: /files/original/14fb29fd668a3414fb29fd668e19.jpg
+    alt:
+      en: "Aerial view of a house with white roofs standing at the water's edge, bordered by striped agricultural fields to the right and open gray water to the left."
 geo:
 id: 21583
 item_type: Still Image

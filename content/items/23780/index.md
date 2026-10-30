@@ -21,6 +21,8 @@ files:
     original_filename: PICT0876neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed262d8714fb29ed263164.jpg
     url: /files/original/14fb29ed262d8714fb29ed263164.jpg
+    alt:
+      en: "A dried mud-covered street with a \"ONE WAY\" sign, flanked by houses and bare trees, viewed over a yellow guardrail, dated 09.15.2005."
 geo:
 id: 23780
 item_type: Still Image

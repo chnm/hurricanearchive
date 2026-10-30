@@ -26,6 +26,8 @@ files:
     original_filename: 014_topless_b38e3a9134.jpg
     thumb: /files/thumbnails/14fb2a704d213714fb2a704d251b.jpg
     url: /files/original/14fb2a704d213714fb2a704d251b.jpg
+    alt:
+      en: "Brick building with a roofless interior exposed to the sky, showing collapsed debris, partial interior walls, and a boarded-up window with faded painted lettering on the left."
 geo:
   address: ''
   lat: 30.651656

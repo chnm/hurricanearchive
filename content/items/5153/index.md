@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0515.JPG
     thumb: /files/thumbnails/14fb2a53b9fb7414fb2a53b9ff5c.jpg
     url: /files/original/14fb2a53b9fb7414fb2a53b9ff5c.jpg
+    alt:
+      en: "A cleared waterfront lot with sparse trees, a construction crane in the background, and a wooden boardwalk foundation near a lake, viewed from an empty road."
 geo:
 id: 5153
 item_type: Still Image

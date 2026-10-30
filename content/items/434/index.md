@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0016_010b9fde14.JPG
     thumb: /files/thumbnails/14fb2a6ffd039c14fb2a6ffd0781.jpg
     url: /files/original/14fb2a6ffd039c14fb2a6ffd0781.jpg
+    alt:
+      en: "A dark teal recliner chair and woven basket sit atop the bare concrete foundation of a demolished house, surrounded by piles of brick rubble and debris with bare, storm-damaged trees in the background."
 geo:
   address: ''
   lat: 29.993002284551103

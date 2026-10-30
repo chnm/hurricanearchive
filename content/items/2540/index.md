@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8790.jpg
     thumb: /files/thumbnails/14fb2a659127fa14fb2a65912bdb.jpg
     url: /files/original/14fb2a659127fa14fb2a65912bdb.jpg
+    alt:
+      en: "Storm-damaged mobile home with collapsed siding and debris scattered around it, spray-painted with \"34807 Hwy11 Paul & Jeanenna Greene We will be back\" and \"God will give back more.\""
 geo:
 id: 2540
 item_type: Still Image

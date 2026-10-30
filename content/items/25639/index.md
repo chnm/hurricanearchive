@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.068.JPG
     thumb: /files/thumbnails/14fb29dcf273d914fb29dcf277bd.jpg
     url: /files/original/14fb29dcf273d914fb29dcf277bd.jpg
+    alt:
+      en: "Clusters of pale pink, five-petaled flowers with white centers and yellow stamens bloom among green grass and foliage."
 geo:
 id: 25639
 item_type: Still Image

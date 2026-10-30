@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28191.jpg
     thumb: /files/thumbnails/14fb2a6aae88b414fb2a6aae8c99.jpg
     url: /files/original/14fb2a6aae88b414fb2a6aae8c99.jpg
+    alt:
+      en: "Sand-covered ground with tire tracks and a standing water puddle in the foreground, leading back to debris piles and rows of stripped, broken trees under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0201-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ffee5d1414fb29ffee61f0.jpg
     url: /files/original/14fb29ffee5d1414fb29ffee61f0.jpg
+    alt:
+      en: "Aerial view of a devastated neighborhood with rows of destroyed homes reduced to foundations and scattered debris, surrounded by standing water and sparse trees."
 geo:
 id: 21223
 item_type: Still Image

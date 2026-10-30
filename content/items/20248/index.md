@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 114.jpg
     thumb: /files/thumbnails/14fb2a0a730f6814fb2a0a73134d.jpg
     url: /files/original/14fb2a0a730f6814fb2a0a73134d.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms help a woman down from a large military vehicle, with other soldiers and bystanders gathered around to assist."
 geo:
 id: 20248
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC00967.JPG
     thumb: /files/thumbnails/14fb2a58cb5cf814fb2a58cb60d6.jpg
     url: /files/original/14fb2a58cb5cf814fb2a58cb60d6.jpg
+    alt:
+      en: "Coast Guard personnel in life vests gather on a dock beside the boat \"Mañana\" and a red Coast Guard boat, with storm-damaged structures visible in the background."
 geo:
 id: 3946
 item_type: Still Image

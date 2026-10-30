@@ -21,6 +21,8 @@ files:
     original_filename: george driving.jpg
     thumb: /files/thumbnails/14fb2a1ea405b614fb2a1ea4099b.jpg
     url: /files/original/14fb2a1ea405b614fb2a1ea4099b.jpg
+    alt:
+      en: "A man wearing a black cap and gray shirt sits in the driver's seat of a car, looking out the rain-speckled window at trees and grass outside."
 geo:
 id: 13248
 item_type: Still Image

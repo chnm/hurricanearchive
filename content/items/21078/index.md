@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0172-9-25.JPG
     thumb: /files/thumbnails/14fb2a00ab78d714fb2a00abe306.jpg
     url: /files/original/14fb2a00ab78d714fb2a00abe306.jpg
+    alt:
+      en: "Aerial view of extensive floodwater submerging a residential area, with treetops, rooftops, and structures partially visible above the waterline amid scattered debris."
 geo:
 id: 21078
 item_type: Still Image

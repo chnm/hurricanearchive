@@ -27,6 +27,8 @@ files:
     original_filename: Helenheart_f3900ede98.JPG
     thumb: /files/thumbnails/14fb29cc07de2b14fb29cc07e20a.jpg
     url: /files/original/14fb29cc07de2b14fb29cc07e20a.jpg
+    alt:
+      en: "Blue and yellow painted house exterior with a spray-painted orange heart and \"Helen\" written in gold near the eaves, with debris, foliage, and a torn plastic bag on the ground below."
 geo:
   address: 3438 Cleveland St
   lat: 0.0

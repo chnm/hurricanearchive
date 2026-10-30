@@ -21,6 +21,8 @@ files:
     original_filename: aerials58.jpg
     thumb: /files/thumbnails/14fb2a19b6897514fb2a19b68d24.jpg
     url: /files/original/14fb2a19b6897514fb2a19b68d24.jpg
+    alt:
+      en: "Aerial view of a large waterfront warehouse building surrounded by storm-damaged, leafless trees and debris, with a river, docks, and distant coastline visible in the background."
 geo:
 id: 14347
 item_type: Still Image

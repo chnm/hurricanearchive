@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eaedf80d14fb29eaedfbf2.jpg
     url: /files/original/14fb29eaedf80d14fb29eaedfbf2.jpg
+    alt:
+      en: "Flooded residential street with a bent \"Benjamin St\" sign, uprooted tree, and mud-caked debris, as a backhoe clears the road near storm-damaged houses."
 geo:
 id: 24087
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0233.JPG
     thumb: /files/thumbnails/14fb2a54f90ed814fb2a54f912bd.jpg
     url: /files/original/14fb2a54f90ed814fb2a54f912bd.jpg
+    alt:
+      en: "Storm-damaged lot with scattered fallen trees and debris in the foreground, sparse leafless trees beyond, and a partially constructed wooden frame structure in the background under an overcast sky."
 geo:
 id: 4914
 item_type: Still Image

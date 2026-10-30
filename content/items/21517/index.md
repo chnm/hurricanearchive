@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0281.JPG
     thumb: /files/thumbnails/14fb29fdd5af5c14fb29fdd5b340.jpg
     url: /files/original/14fb29fdd5af5c14fb29fdd5b340.jpg
+    alt:
+      en: "Aerial view of a large cemetery with rows of above-ground tombs arranged in diagonal grid patterns, separated by pathways, with a lone tree visible near the center."
 geo:
 id: 21517
 item_type: Still Image

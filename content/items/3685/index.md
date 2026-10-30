@@ -24,6 +24,8 @@ files:
     original_filename: P1010124.JPG
     thumb: /files/thumbnails/14fb2a5a226ec614fb2a5a2272b5.jpg
     url: /files/original/14fb2a5a226ec614fb2a5a2272b5.jpg
+    alt:
+      en: "Two military Humvees with canvas-covered cargo beds drive down a street past a traffic light, \"no left turn\" sign, and yellow wooden buildings with green shutters."
 geo:
 id: 3685
 item_type: Still Image

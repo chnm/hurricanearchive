@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039-9-25.JPG
     thumb: /files/thumbnails/14fb2a05d7706114fb2a05d77446.jpg
     url: /files/original/14fb2a05d7706114fb2a05d77446.jpg
+    alt:
+      en: "Aerial view of widespread flooding submerging trees, roads, and structures, with one house on a small patch of raised land surrounded by water, a damaged red building, and scattered storm debris nearby."
 geo:
 id: 20591
 item_type: Still Image

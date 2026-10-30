@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a06fd9bcd14fb2a06fde5dc.jpg
     url: /files/original/14fb2a06fd9bcd14fb2a06fde5dc.jpg
+    alt:
+      en: "Floodwater surrounds a white pickup truck parked beside a building with boarded windows, with debris-covered fence posts and submerged pilings in the foreground amid trees."
 geo:
 id: 20473
 item_type: Still Image

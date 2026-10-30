@@ -24,6 +24,8 @@ files:
     original_filename: 20050905_MG_8137.jpg
     thumb: /files/thumbnails/14fb2a6650f88014fb2a6650fc5b.jpg
     url: /files/original/14fb2a6650f88014fb2a6650fc5b.jpg
+    alt:
+      en: "A large rust-streaked barge marked \"ING 4727\" sits grounded on a flooded street amid storm-wrecked homes, debris, and a stranded school bus, with an ATV carrying people in the background."
 geo:
 id: 2459
 item_type: Still Image

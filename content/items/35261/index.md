@@ -18,6 +18,8 @@ files:
     original_filename: 1_4cf7abbb78.jpg
     thumb: /files/thumbnails/14fb29c75bac5c14fb29c75bb033.jpg
     url: /files/original/14fb29c75bac5c14fb29c75bb033.jpg
+    alt:
+      en: "A weathered stone memorial arch stands beside a street, inscribed \"Erected...by the people of this the ninth ward in honor of its citizens...in the great world war,\" with graffiti on its base and trees and buildings beyond a chain-link fence."
 geo:
   address: Poland St., New Orleans, LA
   lat: 29.96051

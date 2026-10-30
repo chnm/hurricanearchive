@@ -21,6 +21,8 @@ files:
     original_filename: S4300144Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3ea385614fb29f3ea4017.jpg
     url: /files/original/14fb29f3ea385614fb29f3ea4017.jpg
+    alt:
+      en: "Mud-caked white sedan with its hood open sits parked on a cracked lot in front of a brick building marked \"410,\" alongside other dirt-covered vehicles, likely abandoned after flooding."
 geo:
 id: 22788
 item_type: Still Image

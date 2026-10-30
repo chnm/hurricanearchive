@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5757_a6aff14982.jpg
     thumb: /files/thumbnails/14fb29da36915c14fb29da36955f.jpg
     url: /files/original/14fb29da36915c14fb29da36955f.jpg
+    alt:
+      en: "Framed black-and-white photo of two men in hats seated on a porch beside a screen door and brick wall, one resting a basket of okra on his lap, c. 1953."
 geo:
 id: 26141
 item_type: Still Image

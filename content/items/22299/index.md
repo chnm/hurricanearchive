@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1110Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7df10d614fb29f7df14c5.jpg
     url: /files/original/14fb29f7df10d614fb29f7df14c5.jpg
+    alt:
+      en: "A person wearing a camouflage military uniform and an orange life vest wades through chest-deep floodwater, shielding their eyes while looking into the distance."
 geo:
 id: 22299
 item_type: Still Image

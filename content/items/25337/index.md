@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2064superdome.JPG
     thumb: /files/thumbnails/14fb29def446ea14fb29def44ace.jpg
     url: /files/original/14fb29def446ea14fb29def44ace.jpg
+    alt:
+      en: "Military personnel and civilians gather near the open rear ramp of a large helicopter on tarmac, with an elevated highway overpass visible in the background."
 geo:
 id: 25337
 item_type: Still Image

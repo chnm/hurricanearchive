@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (65).jpg
     thumb: /files/thumbnails/14fb2a5c9d6c9314fb2a5c9d7076.jpg
     url: /files/original/14fb2a5c9d6c9314fb2a5c9d7076.jpg
+    alt:
+      en: "Debris field with scattered wreckage, a partially submerged van labeled \"Exotic Princess,\" and standing floodwater, surrounded by bare and leaning trees under a clear sky."
 geo:
 id: 3305
 item_type: Still Image

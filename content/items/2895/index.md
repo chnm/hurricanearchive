@@ -21,6 +21,8 @@ files:
     original_filename: MVC-018S.JPG
     thumb: /files/thumbnails/14fb2a5fa3c74714fb2a5fa3cb2b.jpg
     url: /files/original/14fb2a5fa3c74714fb2a5fa3cb2b.jpg
+    alt:
+      en: "Interior of a mechanical or engine room with large valve wheels, pipes, gauges, and railings, likely aboard a ship or industrial vessel."
 geo:
 id: 2895
 item_type: Still Image

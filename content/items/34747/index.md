@@ -20,6 +20,8 @@ files:
     original_filename: 2420877507_342aeda619.
     thumb: /files/thumbnails/14fb29c8e9dda714fb29c8e9e0a6.jpg
     url: /files/original/14fb29c8e9dda714fb29c8e9e0a6.jpg
+    alt:
+      en: "Interior of a damaged plywood-walled structure with a rusted, decayed piece of furniture, two old bottles, and debris including torn paper and a pinecone scattered across a muddy floor."
 geo:
 id: 34747
 item_type: Still Image

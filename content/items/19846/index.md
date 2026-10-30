@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d56af1b14fb2a0d56ca11.jpg
     url: /files/original/14fb2a0d56af1b14fb2a0d56ca11.jpg
+    alt:
+      en: "Silhouette of a worker in a hard hat standing on the wooden framing of a roof under construction, with bright sunlight and clouds visible through the open beams."
 geo:
 id: 19846
 item_type: Still Image

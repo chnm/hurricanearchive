@@ -27,6 +27,8 @@ files:
     original_filename: 2380071691_9126cce932.
     thumb: /files/thumbnails/14fb29ca35645f14fb29ca356844.jpg
     url: /files/original/14fb29ca35645f14fb29ca356844.jpg
+    alt:
+      en: "A long wooden fishing pier dusted with snow extends into calm gray water, with small covered platforms visible at the end of this and neighboring piers under an overcast sky."
 geo:
   address: ''
   lat: 30.22437

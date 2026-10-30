@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0113gillslong.JPG
     thumb: /files/thumbnails/14fb2a0d00a5ef14fb2a0d00a9d3.jpg
     url: /files/original/14fb2a0d00a5ef14fb2a0d00a9d3.jpg
+    alt:
+      en: "Aerial view of a large encampment with multiple striped tents, parked vehicles, and a long building set amid expansive green lawns, trees, and ponds, with wooded farmland visible in the hazy distance."
 geo:
 id: 19881
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09140038.JPG
     thumb: /files/thumbnails/14fb29e9611f4314fb29e9612329.jpg
     url: /files/original/14fb29e9611f4314fb29e9612329.jpg
+    alt:
+      en: "A military cargo plane flies low over a cityscape with industrial buildings, warehouses, and a structure bearing a Pepsi sign, under a clear blue sky."
 geo:
 id: 24257
 item_type: Still Image

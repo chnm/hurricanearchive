@@ -21,6 +21,8 @@ files:
     original_filename: 5_7fbdb865b0.jpg
     thumb: /files/thumbnails/14fb29d397208914fb29d397246f.jpg
     url: /files/original/14fb29d397208914fb29d397246f.jpg
+    alt:
+      en: "A girl in a red jacket sits on a carved sea-serpent carousel figure at night, illuminated by string lights beneath the ride's canopy."
 geo:
   address: ''
   lat: 29.95493

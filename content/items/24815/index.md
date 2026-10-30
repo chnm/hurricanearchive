@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2137superdome.JPG
     thumb: /files/thumbnails/14fb29e49b0ca514fb29e49b1120.jpg
     url: /files/original/14fb29e49b0ca514fb29e49b1120.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms assist a line of civilians at a supply table with coolers and buckets inside a dimly lit building, with a \"NOTICE\" sign visible on glass doors in the background."
 geo:
 id: 24815
 item_type: Still Image

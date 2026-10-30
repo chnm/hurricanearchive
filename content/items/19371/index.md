@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2230engineers.JPG
     thumb: /files/thumbnails/14fb2a10b0d54e14fb2a10b0d929.jpg
     url: /files/original/14fb2a10b0d54e14fb2a10b0d929.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms and hard hats clear a fallen tree limb amid storm debris, with others working in the background near a house."
 geo:
 id: 19371
 item_type: Still Image

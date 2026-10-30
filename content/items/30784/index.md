@@ -21,6 +21,8 @@ files:
     original_filename: Picture 049.jpg
     thumb: /files/thumbnails/14fb29cc7c9df014fb29cc7ca1d5.jpg
     url: /files/original/14fb29cc7c9df014fb29cc7ca1d5.jpg
+    alt:
+      en: "A fallen tree with large leaning branches blocks the roadway, its leaves browned and withered, viewed through a car's side window."
 geo:
 id: 30784
 item_type: Still Image

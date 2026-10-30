@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0173-9-18.JPG
     thumb: /files/thumbnails/14fb2a0aa6062314fb2a0aa60a09.jpg
     url: /files/original/14fb2a0aa6062314fb2a0aa60a09.jpg
+    alt:
+      en: "Three men in military and civilian clothing kneel beside a helicopter, attaching a collar or leash to a dog, with one wearing blue medical gloves assisting."
 geo:
 id: 20219
 item_type: Still Image

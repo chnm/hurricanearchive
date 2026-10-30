@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016rita.JPG
     thumb: /files/thumbnails/14fb2a11b56bb214fb2a11b56f98.jpg
     url: /files/original/14fb2a11b56bb214fb2a11b56f98.jpg
+    alt:
+      en: "A man in U.S. Army camouflage uniform stands in a parking lot marked \"NO PARKING,\" with a chain-link fence, tarmac, and a parked car visible in the background."
 geo:
 id: 19237
 item_type: Still Image

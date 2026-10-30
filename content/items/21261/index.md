@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0209-9-25.JPG
     thumb: /files/thumbnails/14fb29ffb79bb414fb29ffb7a253.jpg
     url: /files/original/14fb29ffb79bb414fb29ffb7a253.jpg
+    alt:
+      en: "Close-up of a military uniform sleeve with a reversed American flag patch, worn by a person leaning into a vehicle or aircraft, with gear and a boot visible below."
 geo:
 id: 21261
 item_type: Still Image

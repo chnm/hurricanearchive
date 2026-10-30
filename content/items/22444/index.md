@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1285Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f66d393614fb29f66d3d1c.jpg
     url: /files/original/14fb29f66d393614fb29f66d3d1c.jpg
+    alt:
+      en: "Floodwater submerges a vehicle's roof and antenna in front of a row of buildings, with debris floating near a covered walkway in the background."
 geo:
 id: 22444
 item_type: Still Image

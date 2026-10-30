@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0078cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efbf257614fb29efbf2967.jpg
     url: /files/original/14fb29efbf257614fb29efbf2967.jpg
+    alt:
+      en: "Aerial view of extensive flooding across flat agricultural land, with roads and levees partially submerged beneath gray, hazy water under overcast skies."
 geo:
 id: 23381
 item_type: Still Image

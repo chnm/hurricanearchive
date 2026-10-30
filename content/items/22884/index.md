@@ -21,6 +21,8 @@ files:
     original_filename: NO 006majortodd.jpg
     thumb: /files/thumbnails/14fb29f2ec3d2714fb29f2ec410c.jpg
     url: /files/original/14fb29f2ec3d2714fb29f2ec410c.jpg
+    alt:
+      en: "Aerial view of a hazy city skyline with high-rise buildings along a waterfront, connected by a long causeway bridge stretching across the water into the distance."
 geo:
 id: 22884
 item_type: Still Image

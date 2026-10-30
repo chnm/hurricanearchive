@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1771superdome.JPG
     thumb: /files/thumbnails/14fb29e1ab32db14fb29e1ab3c8a.jpg
     url: /files/original/14fb29e1ab32db14fb29e1ab3c8a.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms, some wearing \"S.R.T.\" caps, stand in a parking lot behind red tape near a tent structure, with a multi-story building visible in the background."
 geo:
 id: 25161
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58c7716014fb2a58c7754f.jpg
     url: /files/original/14fb2a58c7716014fb2a58c7754f.jpg
+    alt:
+      en: "A group of Coast Guard personnel in uniform stand in a parking area as a man in a checked shirt and gray pants walks toward them, while a photographer captures the moment nearby."
 geo:
 id: 3952
 item_type: Still Image

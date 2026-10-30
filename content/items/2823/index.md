@@ -21,6 +21,8 @@ files:
     original_filename: MVC-014S.JPG
     thumb: /files/thumbnails/14fb2a5ff253a214fb2a5ff25973.jpg
     url: /files/original/14fb2a5ff253a214fb2a5ff25973.jpg
+    alt:
+      en: "Close-up of an aircraft's nose section against a clear blue sky, showing a circular engine intake, exposed wiring, hydraulic components, and riveted metal panels."
 geo:
 id: 2823
 item_type: Still Image

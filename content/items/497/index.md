@@ -26,6 +26,8 @@ files:
     original_filename: Mississippi_Etc_036_08adb02350.jpg
     thumb: /files/thumbnails/14fb2a6fb2b81514fb2a6fb2bbfb.jpg
     url: /files/original/14fb2a6fb2b81514fb2a6fb2bbfb.jpg
+    alt:
+      en: "A coiled razor wire barrier runs along a grassy strip between a railroad track and a road, with storm-damaged trees lining the roadside under a clear blue sky."
 geo:
   address: ''
   lat: 29.938343

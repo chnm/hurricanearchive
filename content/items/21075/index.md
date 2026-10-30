@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2190.JPG
     thumb: /files/thumbnails/14fb2a00aec45814fb2a00aec83d.jpg
     url: /files/original/14fb2a00aec45814fb2a00aec83d.jpg
+    alt:
+      en: "A person in a military flight suit, helmet, and protective vest walks beside a shirtless man across a grassy field, with a chain-link fence and a brick building marked \"LOCAL 1560\" in the background."
 geo:
 id: 21075
 item_type: Still Image

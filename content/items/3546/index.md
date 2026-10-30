@@ -24,6 +24,8 @@ files:
     original_filename: P1010121.JPG
     thumb: /files/thumbnails/14fb2a5ae6646f14fb2a5ae66854.jpg
     url: /files/original/14fb2a5ae6646f14fb2a5ae66854.jpg
+    alt:
+      en: "A \"Sea Chaser\" boat, registration LA-3720-FG, rests on its side on a grassy median strewn with fallen leaves and branches, with trees and buildings visible in the background."
 geo:
 id: 3546
 item_type: Still Image

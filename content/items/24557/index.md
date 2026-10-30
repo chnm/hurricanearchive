@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0116-21.JPG
     thumb: /files/thumbnails/14fb29e6b6453014fb29e6b66d56.jpg
     url: /files/original/14fb29e6b6453014fb29e6b66d56.jpg
+    alt:
+      en: "Sideways photo of soldiers in camouflage uniforms standing indoors, one reaching toward dog tags while another gestures with a raised hand; a civilian is partly visible nearby."
 geo:
 id: 24557
 item_type: Still Image

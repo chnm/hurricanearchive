@@ -21,6 +21,8 @@ files:
     original_filename: 169 flooding1.jpg
     thumb: /files/thumbnails/14fb2a1f979e8814fb2a1f97a26d.jpg
     url: /files/original/14fb2a1f979e8814fb2a1f97a26d.jpg
+    alt:
+      en: "Floodwater covers a residential street, submerging lawns and partially covering trees, with utility poles and houses lining the road; the hood of a vehicle is visible in the foreground."
 geo:
 id: 13177
 item_type: Still Image

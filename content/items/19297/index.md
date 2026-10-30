@@ -21,6 +21,8 @@ files:
     original_filename: J2 (17).JPG
     thumb: /files/thumbnails/14fb2a114cfc1014fb2a114cfff6.jpg
     url: /files/original/14fb2a114cfc1014fb2a114cfff6.jpg
+    alt:
+      en: "Dimly lit street at dusk lined with balconied buildings, visible signs for \"Bourbon,\" \"No Parking Hotel Passenger Zone,\" and \"Cab Stand,\" with vehicles and a glowing red taillight in the foreground."
 geo:
 id: 19297
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024OEP.JPG
     thumb: /files/thumbnails/14fb29f211f95614fb29f211fd34.jpg
     url: /files/original/14fb29f211f95614fb29f211fd34.jpg
+    alt:
+      en: "Parking lot staging area with an RV labeled \"Media Support Center, Media Fellowship International,\" an NBC News tent, camera equipment, cars, and tan tents near a brick building."
 geo:
 id: 23014
 item_type: Still Image

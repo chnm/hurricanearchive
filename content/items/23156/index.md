@@ -21,6 +21,8 @@ files:
     original_filename: 20051003-A-3780B-225NewMexicoNG.jpg
     thumb: /files/thumbnails/14fb29f14c148914fb29f14c1879.jpg
     url: /files/original/14fb29f14c148914fb29f14c1879.jpg
+    alt:
+      en: "A military helicopter in flight carries a large white sling-load bag suspended by a long cable, with rows of filled sandbags lined up on the ground below near trees and power lines."
 geo:
 id: 23156
 item_type: Still Image

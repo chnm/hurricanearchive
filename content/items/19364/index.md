@@ -21,6 +21,8 @@ files:
     original_filename: DSC00818engineers.JPG
     thumb: /files/thumbnails/14fb2a10c03ff414fb2a10c047c0.jpg
     url: /files/original/14fb2a10c03ff414fb2a10c047c0.jpg
+    alt:
+      en: "A flatbed trailer carrying heavy construction equipment, including a wheel loader and a skid steer loader, travels along a gravel road lined with trees."
 geo:
 id: 19364
 item_type: Still Image

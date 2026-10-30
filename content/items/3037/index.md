@@ -21,6 +21,8 @@ files:
     original_filename: 100_0286.JPG
     thumb: /files/thumbnails/14fb2a5e790e0314fb2a5e7911e8.jpg
     url: /files/original/14fb2a5e790e0314fb2a5e7911e8.jpg
+    alt:
+      en: "Turbulent, foamy water splashes against the dark, weathered hull of a large vessel, with waterline stains visible along the metal surface above."
 geo:
 id: 3037
 item_type: Still Image

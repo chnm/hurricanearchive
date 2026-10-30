@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2082superdome.JPG
     thumb: /files/thumbnails/14fb29deb7ce6b14fb29deb7d24f.jpg
     url: /files/original/14fb29deb7ce6b14fb29deb7d24f.jpg
+    alt:
+      en: "Two military personnel in camouflage and one in a green flight suit support an injured civilian man between them as they walk across a wet pavement area near an overpass."
 geo:
 id: 25355
 item_type: Still Image

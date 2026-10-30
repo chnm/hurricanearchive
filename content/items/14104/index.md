@@ -21,6 +21,8 @@ files:
     original_filename: Clear the parking lot.JPG
     thumb: /files/thumbnails/14fb2a1bbede4414fb2a1bbee229.jpg
     url: /files/original/14fb2a1bbede4414fb2a1bbee229.jpg
+    alt:
+      en: "Military dump trucks, a compact track loader, and a yellow skid steer occupy a debris-strewn parking lot, with pine trees and houses visible in the background."
 geo:
   address: ''
   lat: 0.0

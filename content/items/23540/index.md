@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0169neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef1213d814fb29ef1217b5.jpg
     url: /files/original/14fb29ef1213d814fb29ef1217b5.jpg
+    alt:
+      en: "Deserted residential street with debris piled at the curb near a utility pole, a palm tree and overgrown vegetation lining the roadside, and an abandoned van parked in the distance."
 geo:
 id: 23540
 item_type: Still Image

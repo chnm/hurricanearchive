@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9168.jpg
     thumb: /files/thumbnails/14fb2a63c3576e14fb2a63c36328.jpg
     url: /files/original/14fb2a63c3576e14fb2a63c36328.jpg
+    alt:
+      en: "Cracked and partially collapsed paved road running beside a debris-strewn shoreline with scattered wooden pilings and standing water, under a clear blue sky."
 geo:
 id: 2636
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 98faces3_7b7a2d26e1.jpg
     thumb: /files/thumbnails/14fb29d6b16bdd14fb29d6b16fc0.jpg
     url: /files/original/14fb29d6b16bdd14fb29d6b16fc0.jpg
+    alt:
+      en: "A yearbook page with eight senior portraits of graduates in maroon caps and gowns against blue backdrops, each labeled with a name including Virginia Boswell, Jay Bruno, and Richard Buttone."
 geo:
 id: 26884
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1090Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8276b3b14fb29f8276f23.jpg
     url: /files/original/14fb29f8276b3b14fb29f8276f23.jpg
+    alt:
+      en: "A man in camouflage fatigues stands on a box to reach the ceiling tiles in a dim hallway, while three other men in military and casual attire look on."
 geo:
 id: 22279
 item_type: Still Image

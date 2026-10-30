@@ -23,6 +23,8 @@ files:
     original_filename: 336693899_3326517b46.jpg
     thumb: /files/thumbnails/14fb29d509b64114fb29d509ba25.jpg
     url: /files/original/14fb29d509b64114fb29d509ba25.jpg
+    alt:
+      en: "Cluttered interior scene with white plastic buckets, a large dirty storage container, and a dark patterned curtain hanging amid scattered debris and trash."
 geo:
 id: 27322
 item_type: Still Image

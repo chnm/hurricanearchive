@@ -24,6 +24,8 @@ files:
     original_filename: P1010029.JPG
     thumb: /files/thumbnails/14fb2a5aa88f3914fb2a5aa8931f.jpg
     url: /files/original/14fb2a5aa88f3914fb2a5aa8931f.jpg
+    alt:
+      en: "Two ceramic Persian cat figurines sit on mulch-covered ground alongside household items including a decorated bowl, pitcher, plate, and vase, likely belongings set out after storm damage."
 geo:
 id: 3599
 item_type: Still Image

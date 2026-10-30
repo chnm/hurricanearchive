@@ -21,6 +21,8 @@ files:
     original_filename: S4300023zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f219f9a14fb2a0f21a98c.jpg
     url: /files/original/14fb2a0f219f9a14fb2a0f21a98c.jpg
+    alt:
+      en: "An orange U.S. Coast Guard helicopter with a fenestron tail rotor flies against a hazy gray sky, its main rotor blades blurred from motion."
 geo:
 id: 19569
 item_type: Still Image

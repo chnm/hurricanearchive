@@ -23,6 +23,8 @@ files:
     original_filename: 2298615840_6ae11b63ce.
     thumb: /files/thumbnails/14fb29c77ca7e214fb29c77cabc7.jpg
     url: /files/original/14fb29c77ca7e214fb29c77cabc7.jpg
+    alt:
+      en: "Interior of a bicycle repair workshop with numerous wheels and tires hanging from the ceiling and walls, while several people work on bikes using stands and tools throughout the cluttered space."
 geo:
 id: 35010
 item_type: Still Image

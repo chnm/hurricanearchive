@@ -21,6 +21,8 @@ files:
     original_filename: 09180013plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec48ceb214fb29ec48d467.jpg
     url: /files/original/14fb29ec48ceb214fb29ec48d467.jpg
+    alt:
+      en: "Wide concrete highway with debris and a collapsed blue metal structure piled on the median, flanked by trees, utility poles, and power lines under a hazy sky."
 geo:
 id: 23943
 item_type: Still Image

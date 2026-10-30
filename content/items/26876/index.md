@@ -21,6 +21,8 @@ files:
     original_filename: KJ Prom 1956_46319cc6e2.jpg
     thumb: /files/thumbnails/14fb29d6d0ba0b14fb29d6d0c228.jpg
     url: /files/original/14fb29d6d0ba0b14fb29d6d0c228.jpg
+    alt:
+      en: "Black-and-white photo of a young woman in a voluminous lace prom gown and gloves standing beside a young man in a light-colored jacket and tie, posed in front of a patterned curtain."
 geo:
   address: ''
   lat: 29.87876

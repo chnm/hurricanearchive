@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 031.jpg
     thumb: /files/thumbnails/14fb2a59d9cf1514fb2a59d9d302.jpg
     url: /files/original/14fb2a59d9cf1514fb2a59d9d302.jpg
+    alt:
+      en: "A coastal roadway runs along a sandy beach and calm bay, with a bare, storm-damaged shrub in the grassy median and a distant tree line visible across the water under a clear blue sky."
 geo:
 id: 3751
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2152superdome.JPG
     thumb: /files/thumbnails/14fb29e47df3d514fb29e47df7b9.jpg
     url: /files/original/14fb29e47df3d514fb29e47df7b9.jpg
+    alt:
+      en: "Two military cargo trucks marked \"225 GP 527E\" drive through floodwater, with soldiers riding in the open truck beds and cabs, buildings and an elevated highway visible in the background."
 geo:
 id: 24830
 item_type: Still Image

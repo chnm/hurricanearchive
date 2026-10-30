@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28322.jpg
     thumb: /files/thumbnails/14fb2a68514a0214fb2a68514de8.jpg
     url: /files/original/14fb2a68514a0214fb2a68514de8.jpg
+    alt:
+      en: "Severely damaged building with exposed structural framework and collapsed roof sections, surrounded by storm debris and bare, wind-stripped trees under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

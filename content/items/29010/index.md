@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0510.JPG
     thumb: /files/thumbnails/14fb29d0cb00f214fb29d0cb0485.jpg
     url: /files/original/14fb29d0cb00f214fb29d0cb0485.jpg
+    alt:
+      en: "A small white utility truck labeled \"WEAPONS 2\" is parked near covered storage racks holding missile or munition casings, with military vehicles and metal canopy structures in the background."
 geo:
 id: 29010
 item_type: Still Image

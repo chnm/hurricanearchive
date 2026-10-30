@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (5).JPG
     thumb: /files/thumbnails/14fb2a5dc2273d14fb2a5dc22ea0.jpg
     url: /files/original/14fb2a5dc2273d14fb2a5dc22ea0.jpg
+    alt:
+      en: "Large pile of storm debris—broken drywall, insulation, and wood planks—heaped on a grassy curb in front of a brick house, with a damaged plywood sheet leaning against a fence in the background."
 geo:
 id: 3138
 item_type: Still Image

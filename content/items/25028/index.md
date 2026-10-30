@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1550superdome.JPG
     thumb: /files/thumbnails/14fb29e2db766614fb29e2db7c3c.jpg
     url: /files/original/14fb29e2db766614fb29e2db7c3c.jpg
+    alt:
+      en: "A red and white Coast Guard helicopter numbered 28 sits on a rooftop helipad, with multi-story buildings labeled \"Community College School of Nursing\" and \"VA Medical Center\" visible in the background."
 geo:
 id: 25028
 item_type: Still Image

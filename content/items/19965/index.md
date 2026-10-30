@@ -21,6 +21,8 @@ files:
     original_filename: Picture 062cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0be72bd114fb2a0be72fb7.jpg
     url: /files/original/14fb2a0be72bd114fb2a0be72fb7.jpg
+    alt:
+      en: "Large domed stadium with a weathered, discolored roof, viewed from a highway overpass with a \"ROAD WORK AHEAD\" sign and utility poles in the foreground."
 geo:
 id: 19965
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003medics.JPG
     thumb: /files/thumbnails/14fb29e601275614fb29e6012b3d.jpg
     url: /files/original/14fb29e601275614fb29e6012b3d.jpg
+    alt:
+      en: "A man in a tan t-shirt grimaces while another person in camouflage fatigues and a white glove administers a shot to his upper arm in an indoor medical setting."
 geo:
 id: 24632
 item_type: Still Image

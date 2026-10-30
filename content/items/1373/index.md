@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28345.jpg
     thumb: /files/thumbnails/14fb2a6934160014fb2a693419e6.jpg
     url: /files/original/14fb2a6934160014fb2a693419e6.jpg
+    alt:
+      en: "Severely damaged multi-story building with a partially visible \"CASINO\" sign, exposed structural framework, and scattered debris, viewed through the bare branches of a tree in the foreground."
 geo:
   address: ''
   lat: 0.0

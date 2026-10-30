@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0067OEP.JPG
     thumb: /files/thumbnails/14fb29f1b0982d14fb29f1b09c13.jpg
     url: /files/original/14fb29f1b0982d14fb29f1b09c13.jpg
+    alt:
+      en: "Man in a yellow shirt and jeans stands outdoors holding a tissue and a piece of food, with sunglasses around his neck; a man in a red shirt walks toward him in the background."
 geo:
 id: 23057
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: Hurricane Hearts028_220486bc3d.JPG
     thumb: /files/thumbnails/14fb29cc40512d14fb29cc405507.jpg
     url: /files/original/14fb29cc40512d14fb29cc405507.jpg
+    alt:
+      en: "A hand-painted, surfboard-shaped memorial sign mounted on a wooden telephone pole reads \"You are the kindest person I've ever met. I'll miss you Helen Hill. I'm so lucky to have been your friend. We [heart] you,\" with a residential sidewalk visible in the background."
 geo:
   address: 2444 N. Rampart St
   lat: 0.0

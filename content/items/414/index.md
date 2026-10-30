@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0395_e8a44f793e.JPG
     thumb: /files/thumbnails/14fb2a700d356814fb2a700d394e.jpg
     url: /files/original/14fb2a700d356814fb2a700d394e.jpg
+    alt:
+      en: "Dirt-covered dinnerware—patterned plates, teapots, cups, and glasses—sits stacked on a tiled surface amid scattered dry leaves, salvaged from storm debris."
 geo:
   address: ''
   lat: 30.3349538819886

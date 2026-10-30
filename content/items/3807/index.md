@@ -21,6 +21,8 @@ files:
     original_filename: 100_0087.JPG
     thumb: /files/thumbnails/14fb2a59748eb514fb2a5974929a.jpg
     url: /files/original/14fb2a59748eb514fb2a5974929a.jpg
+    alt:
+      en: "Storm-damaged two-story brick building labeled \"Lakeside Country Club,\" with torn-off roof sections and exposed framing, overlooking an intact swimming pool with diving board and surrounding fence."
 geo:
 id: 3807
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: COL Santos at JOC.JPG
     thumb: /files/thumbnails/14fb2a1bc94fd514fb2a1bc9b567.jpg
     url: /files/original/14fb2a1bc94fd514fb2a1bc9b567.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather in an operations center beneath a multi-zone digital clock reading times for Pacific, Mountain, Local, Eastern, and Iraq; a Louisiana map and handwritten planning notes for \"Para Rescue\" and shelters are visible on the wall and desk."
 geo:
   address: ''
   lat: 0.0

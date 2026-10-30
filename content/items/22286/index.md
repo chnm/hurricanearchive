@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1097Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7f591c114fb29f7f5a2e5.jpg
     url: /files/original/14fb29f7f591c114fb29f7f5a2e5.jpg
+    alt:
+      en: "Flooded street engulfed in heavy wind-driven rain, with murky water submerging a trampoline and debris in the foreground and a house barely visible through the storm haze."
 geo:
 id: 22286
 item_type: Still Image

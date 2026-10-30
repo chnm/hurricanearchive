@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0527.JPG
     thumb: /files/thumbnails/14fb2a53a3fcfe14fb2a53a40a19.jpg
     url: /files/original/14fb2a53a3fcfe14fb2a53a40a19.jpg
+    alt:
+      en: "A cleared, grassy lot with scattered pine trees, a weathered wooden post, and a charred tree stump, with power lines and distant water visible in the background."
 geo:
 id: 5165
 item_type: Still Image

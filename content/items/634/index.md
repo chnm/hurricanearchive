@@ -26,6 +26,8 @@ files:
     original_filename: Evacuation_090305_005_5a707a2ca5.jpg
     thumb: /files/thumbnails/14fb2a6f50d27814fb2a6f50d664.jpg
     url: /files/original/14fb2a6f50d27814fb2a6f50d664.jpg
+    alt:
+      en: "Crowds and buses line a debris-strewn highway near a \"Jefferson\" water tower, with trucks and litter scattered across the road during the Katrina evacuation."
 geo:
   address: ''
   lat: 30.342352

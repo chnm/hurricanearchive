@@ -21,6 +21,8 @@ files:
     original_filename: katrina 038.jpg
     thumb: /files/thumbnails/14fb29fbddda3e14fb29fbde5976.jpg
     url: /files/original/14fb29fbddda3e14fb29fbde5976.jpg
+    alt:
+      en: "A young man in a beige T-shirt and camouflage pants sits in a makeshift medical staging area under a parking structure, with supply boxes, coolers, and a stethoscope around his neck; other workers and cots are visible in the background."
 geo:
 id: 21769
 item_type: Still Image

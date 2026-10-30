@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-04-3A.jpg
     thumb: /files/thumbnails/14fb29e859f5a314fb29e859f989.jpg
     url: /files/original/14fb29e859f5a314fb29e859f989.jpg
+    alt:
+      en: "Floodwaters submerge a street with partially sunken vehicles, a lit streetlamp standing amid the current, and power lines fading into a hazy, rain-soaked sky."
 geo:
 id: 24383
 item_type: Still Image

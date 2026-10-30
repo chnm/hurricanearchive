@@ -21,6 +21,8 @@ files:
     original_filename: FloodD18cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0cd1ecd014fb2a0cd1f490.jpg
     url: /files/original/14fb2a0cd1ecd014fb2a0cd1f490.jpg
+    alt:
+      en: "Map depicting estimated flood depth across Center/East New Orleans and St. Bernard Parish from Hurricane Katrina, overlaid on satellite imagery with color-coded depth zones and hydrologic unit boundaries, dated September 15, 2005."
 geo:
 id: 19899
 item_type: Still Image

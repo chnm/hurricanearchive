@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2209conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11bca2d914fb2a11bca6c0.jpg
     url: /files/original/14fb2a11bca2d914fb2a11bca6c0.jpg
+    alt:
+      en: "Man reads a picture book to two young girls seated nearby while another child rests on a cot, amid barricades, debris, and uniformed military personnel in the background."
 geo:
 id: 19228
 item_type: Still Image

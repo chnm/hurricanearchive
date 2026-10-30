@@ -21,6 +21,8 @@ files:
     original_filename: LeoSchaeffer2C_db0bd8b6d0.jpg
     thumb: /files/thumbnails/14fb29dd40438214fb29dd4047be.jpg
     url: /files/original/14fb29dd40438214fb29dd4047be.jpg
+    alt:
+      en: "Exterior of a Winn Dixie \"Food Pharmacy\" store with a crowded parking lot full of cars, trucks, and SUVs, and decorative pennant flags strung above the roofline against a cloudy sky."
 geo:
 id: 25543
 item_type: Still Image

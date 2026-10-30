@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0118cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef4bccb814fb29ef4bd09e.jpg
     url: /files/original/14fb29ef4bccb814fb29ef4bd09e.jpg
+    alt:
+      en: "Silhouetted military crew member wearing a headset and camouflage uniform with a U.S. flag patch, looking out of an aircraft opening over a wide river and tree-lined shore below."
 geo:
 id: 23466
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: DSC03110_7cafcfeaae.JPG
     thumb: /files/thumbnails/14fb2a6db28ad714fb2a6db28ebb.jpg
     url: /files/original/14fb2a6db28ad714fb2a6db28ebb.jpg
+    alt:
+      en: "A girl in goggles and a tie-dye shirt gestures toward an uprooted tree's muddy root ball with an exposed black corrugated pipe, surrounded by floodwater."
 geo:
   address: ''
   lat: 30.290866719138698

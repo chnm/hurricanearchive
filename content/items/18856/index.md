@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0073grandisle.JPG
     thumb: /files/thumbnails/14fb2a14e45f2714fb2a14e4630c.jpg
     url: /files/original/14fb2a14e45f2714fb2a14e4630c.jpg
+    alt:
+      en: "Aerial view from a helicopter (rotor and landing gear visible) of a storm-ravaged coastal landscape with stripped, broken trees, scattered debris, a two-lane road, and a wide waterway bordered by a levee."
 geo:
 id: 18856
 item_type: Still Image

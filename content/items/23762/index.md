@@ -21,6 +21,8 @@ files:
     original_filename: P1010203empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed377cb014fb29ed378098.jpg
     url: /files/original/14fb29ed377cb014fb29ed378098.jpg
+    alt:
+      en: "Tall marsh grasses and reeds, some green and some dried brown, line a muddy waterway with trees visible in the background under an overcast sky."
 geo:
 id: 23762
 item_type: Still Image

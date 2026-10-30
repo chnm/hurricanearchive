@@ -21,6 +21,8 @@ files:
     original_filename: Picture 250cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b06d7ab14fb2a0b06dba5.jpg
     url: /files/original/14fb2a0b06d7ab14fb2a0b06dba5.jpg
+    alt:
+      en: "A severely damaged metal warehouse with a partially collapsed roof and twisted framing, bearing a sign reading \"FAMILIES WARD UNITED IN PRAYER\"; a truck is parked in the foreground."
 geo:
 id: 20153
 item_type: Still Image

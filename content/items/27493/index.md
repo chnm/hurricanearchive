@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6529_d09e83768c.jpg
     thumb: /files/thumbnails/14fb29d3e6135814fb29d3e62ec0.jpg
     url: /files/original/14fb29d3e6135814fb29d3e62ec0.jpg
+    alt:
+      en: "Group of girls and young women in matching pink T-shirts with a \"B\" logo pose outdoors near trees and a crowd, with beaded necklaces and other items displayed on a rack nearby."
 geo:
   address: ''
   lat: 29.91685

@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0416_fcf9fab1a8.JPG
     thumb: /files/thumbnails/14fb2a7017126a14fb2a7017164f.jpg
     url: /files/original/14fb2a7017126a14fb2a7017164f.jpg
+    alt:
+      en: "A hand-painted \"Thank You!!\" sign leans against a broken tree trunk draped with an American flag, surrounded by storm debris and rubble."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0295-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd9d5c4214fb29fd9d602a.jpg
     url: /files/original/14fb29fd9d5c4214fb29fd9d602a.jpg
+    alt:
+      en: "Aerial view of extensive floodwater submerging a neighborhood, with only rooftops, treetops, and what appears to be military vehicles on a partially flooded road visible above the water."
 geo:
 id: 21556
 item_type: Still Image

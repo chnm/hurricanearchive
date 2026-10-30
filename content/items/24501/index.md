@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0106-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e73a59b814fb29e73a5d9e.jpg
     url: /files/original/14fb29e73a59b814fb29e73a5d9e.jpg
+    alt:
+      en: "A line of pickup trucks, one towing a flatbed trailer, travels along a debris-strewn dirt road past flooded fields, with several people standing in the distance."
 geo:
 id: 24501
 item_type: Still Image

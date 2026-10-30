@@ -21,6 +21,8 @@ files:
     original_filename: Picture 145cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b910b4d14fb2a0b910f2b.jpg
     url: /files/original/14fb2a0b910b4d14fb2a0b910f2b.jpg
+    alt:
+      en: "A boat rests against a guardrail beside a debris-strewn road, with power lines and a large white building visible in the background under a clear sky."
 geo:
 id: 20048
 item_type: Still Image

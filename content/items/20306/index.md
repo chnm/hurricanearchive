@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0173-9-18.JPG
     thumb: /files/thumbnails/14fb2a09a4446314fb2a09a4507f.jpg
     url: /files/original/14fb2a09a4446314fb2a09a4507f.jpg
+    alt:
+      en: "Three men in military/service uniforms kneel beside a helicopter, attaching a collar and leash to a rescued dog with its tongue out, one wearing blue medical gloves."
 geo:
 id: 20306
 item_type: Still Image

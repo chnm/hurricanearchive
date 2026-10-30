@@ -21,6 +21,8 @@ files:
     original_filename: MVC-002S.JPG
     thumb: /files/thumbnails/14fb2a5fe00e4014fb2a5fe01284.jpg
     url: /files/original/14fb2a5fe00e4014fb2a5fe01284.jpg
+    alt:
+      en: "Interior view through an oval, heavily riveted watertight door frame into a narrow ship passageway with a metal bulkhead, red-painted deck, and shelving along the wall."
 geo:
 id: 2845
 item_type: Still Image

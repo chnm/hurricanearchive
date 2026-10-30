@@ -21,6 +21,8 @@ files:
     original_filename: st bernard10-14.JPG
     thumb: /files/thumbnails/14fb2a215f3e4c14fb2a215f4230.jpg
     url: /files/original/14fb2a215f3e4c14fb2a215f4230.jpg
+    alt:
+      en: "Damaged homes and scattered debris line a dirt road, with an old vehicle and piles of wreckage in the foreground under a clear sky."
 geo:
 id: 12866
 item_type: Still Image

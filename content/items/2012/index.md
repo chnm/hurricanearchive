@@ -26,6 +26,8 @@ files:
     original_filename: PICT0088_9620eb81bb.JPG
     thumb: /files/thumbnails/14fb2a6dbbe4d614fb2a6dbbe8c5.jpg
     url: /files/original/14fb2a6dbbe4d614fb2a6dbbe8c5.jpg
+    alt:
+      en: "Devastated roadside lot along Hwy 90 near Lake Catherine, LA, with a bare tree, utility pole, scattered debris, standing water, and skeletal pier pilings in the distance."
 geo:
   address: ''
   lat: 30.141861334222103

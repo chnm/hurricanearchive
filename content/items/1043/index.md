@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28510.jpg
     thumb: /files/thumbnails/14fb2a6b49664b14fb2a6b496a30.jpg
     url: /files/original/14fb2a6b49664b14fb2a6b496a30.jpg
+    alt:
+      en: "Man wearing a mask, gloves, and cap stands on a porch holding a cloth item, beside a dark door marked with orange spray-painted search-and-rescue symbols and numbers."
 geo:
   address: ''
   lat: 0.0

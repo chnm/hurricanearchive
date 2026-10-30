@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030M.JPG
     thumb: /files/thumbnails/14fb2a0653e47014fb2a0653eaf4.jpg
     url: /files/original/14fb2a0653e47014fb2a0653eaf4.jpg
+    alt:
+      en: "A single-story house with a shingled roof and white gable window is partially obscured by dense tree branches and foliage in the foreground, with a fallen limb visible on the lawn."
 geo:
 id: 20539
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 1994 First New Sign-15_fb6edc3b51.jpg
     thumb: /files/thumbnails/14fb2a172d7e6614fb2a172d826c.jpg
     url: /files/original/14fb2a172d7e6614fb2a172d826c.jpg
+    alt:
+      en: "Group of people gathered around a wooden sign reading \"NUNEZ COMMUNITY COLLEGE,\" with two men seated on a low rail near a small garden bed in front of the sign."
 geo:
 id: 15096
 item_type: Still Image

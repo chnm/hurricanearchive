@@ -26,6 +26,8 @@ files:
     original_filename: scan0003_1dd6d0b2f8.jpg
     thumb: /files/thumbnails/14fb2a6ea2d99614fb2a6ea2dd7d.jpg
     url: /files/original/14fb2a6ea2d99614fb2a6ea2dd7d.jpg
+    alt:
+      en: "A small white single-story house with twin front gables, flanked by dead, rust-colored rounded shrubs and bare trees, sits on a dirt yard with dead grass; spray-painted markings are visible on the siding."
 geo:
   address: ''
   lat: 30.016415613516898

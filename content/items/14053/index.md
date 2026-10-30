@@ -21,6 +21,8 @@ files:
     original_filename: 20050929022.JPG
     thumb: /files/thumbnails/14fb2a1c007abe14fb2a1c007f58.jpg
     url: /files/original/14fb2a1c007abe14fb2a1c007f58.jpg
+    alt:
+      en: "Damaged cemetery with overturned concrete vault lids and toppled headstones, including one marked \"Venable,\" surrounded by dead brush and a chain-link fence; two people's heads visible in foreground."
 geo:
   address: ''
   lat: 0.0

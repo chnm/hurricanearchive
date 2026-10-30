@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28020.jpg
     thumb: /files/thumbnails/14fb2a6a3ece7514fb2a6a3ed25a.jpg
     url: /files/original/14fb2a6a3ece7514fb2a6a3ed25a.jpg
+    alt:
+      en: "Gravel levee roadway along a canal, with storm debris, damaged trees, and a surveying tripod in the foreground; vehicles and a distant building appear further down the road."
 geo:
   address: ''
   lat: 0.0

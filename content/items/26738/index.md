@@ -21,6 +21,8 @@ files:
     original_filename: JB 7 WWII soldiers_199237c8d2.jpg
     thumb: /files/thumbnails/14fb29d81501a514fb29d8150599.jpg
     url: /files/original/14fb29d81501a514fb29d8150599.jpg
+    alt:
+      en: "Torn newspaper clipping headlined \"News Of N.O., State Servicemen\" with twelve portrait photos of servicemen labeled with surnames including Bernard, Fricke, Morris, Dauth, Gervais, Roule, Garsaud, and Williams, alongside columns of text and a horoscope chart."
 geo:
   address: ''
   lat: 29.91685

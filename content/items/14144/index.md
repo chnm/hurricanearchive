@@ -21,6 +21,8 @@ files:
     original_filename: LTC Mouton 7 Oct 05.JPG
     thumb: /files/thumbnails/14fb2a1b73b76714fb2a1b73bd74.jpg
     url: /files/original/14fb2a1b73b76714fb2a1b73bd74.jpg
+    alt:
+      en: "A man in woodland camouflage U.S. Army uniform with \"MOUTON\" name tape and a \"225th ENGR GP Safety First\" patch stands against a cinderblock wall, looking to the side; the photo is timestamped 10.07.2005 09:26."
 geo:
   address: ''
   lat: 0.0

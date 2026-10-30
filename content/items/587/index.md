@@ -26,6 +26,8 @@ files:
     original_filename: 100_0103_376174b167.JPG
     thumb: /files/thumbnails/14fb2a6f74d30c14fb2a6f74d82b.jpg
     url: /files/original/14fb2a6f74d30c14fb2a6f74d82b.jpg
+    alt:
+      en: "A severely crushed and rusted maroon minivan sits abandoned on a sandy beach, its roof and body mangled, with a long pier and calm water visible in the background under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

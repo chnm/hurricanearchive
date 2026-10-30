@@ -20,6 +20,8 @@ files:
     original_filename: 2456732497_4587ce0a06.
     thumb: /files/thumbnails/14fb29c8d5abd214fb29c8d5afb8.jpg
     url: /files/original/14fb29c8d5abd214fb29c8d5afb8.jpg
+    alt:
+      en: "A barren, muddy shoreline lined with white rock riprap separates dark earth from a calm expanse of water, with scattered wooden pilings visible offshore and a hazy sky above."
 geo:
 id: 34872
 item_type: Still Image

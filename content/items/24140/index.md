@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea4e671314fb29ea4e6f66.jpg
     url: /files/original/14fb29ea4e671314fb29ea4e6f66.jpg
+    alt:
+      en: "Aerial view of a flooded, fog-covered landscape, with scattered dark patches of debris or vegetation visible beneath a hazy gray sky."
 geo:
 id: 24140
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010134empireS&R.JPG
     thumb: /files/thumbnails/14fb29edd6736614fb29edd6774f.jpg
     url: /files/original/14fb29edd6736614fb29edd6774f.jpg
+    alt:
+      en: "Viewed through a vehicle's windshield, a roadside scene of collapsed and flattened buildings with scattered debris sits among damaged trees along a two-lane road."
 geo:
 id: 23693
 item_type: Still Image

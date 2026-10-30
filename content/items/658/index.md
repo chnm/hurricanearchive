@@ -26,6 +26,8 @@ files:
     original_filename: 026_24_83156ca5fe.jpg
     thumb: /files/thumbnails/14fb2a6f3462e114fb2a6f34667d.jpg
     url: /files/original/14fb2a6f3462e114fb2a6f34667d.jpg
+    alt:
+      en: "Gravel-covered access road beside a broken concrete floodwall section, with scattered debris, scorched trees, and damaged houses visible in the background near the London Avenue Canal breach site."
 geo:
   address: ''
   lat: 30.020540246562

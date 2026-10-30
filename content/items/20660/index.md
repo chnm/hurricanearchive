@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a055f212514fb2a055f2521.jpg
     url: /files/original/14fb2a055f212514fb2a055f2521.jpg
+    alt:
+      en: "A military-style dump truck plows through a flooded road lined with trees, sending up large sprays of water on either side, with license plate \"225GP 7696\" visible on its front bumper."
 geo:
 id: 20660
 item_type: Still Image

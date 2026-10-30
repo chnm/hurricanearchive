@@ -27,6 +27,8 @@ files:
     original_filename: Escape From The Superdome
     thumb: /files/thumbnails/14fb2a606ca47714fb2a606ca864.jpg
     url: /files/original/14fb2a606ca47714fb2a606ca864.jpg
+    alt:
+      en: "Child's drawing split into two scenes: a gray storm cloud labeled \"Katrina\" raining over a sketched Superdome and fleeing stick figures labeled \"New Orleans,\" beside a sunny \"Texas\" side with a red heart and words \"Love,\" \"Hope,\" \"Peace,\" \"Kindness\"; signed \"Elisa, 13.\""
 geo:
 id: 2724
 item_type: Still Image

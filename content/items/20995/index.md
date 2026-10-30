@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0165-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a01265b7014fb2a01265f59.jpg
     url: /files/original/14fb2a01265b7014fb2a01265f59.jpg
+    alt:
+      en: "Aerial view of a hazy city skyline with high-rise buildings, a domed stadium, and an elevated highway interchange running through the urban landscape."
 geo:
 id: 20995
 item_type: Still Image

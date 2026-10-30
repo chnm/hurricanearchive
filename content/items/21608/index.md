@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0341-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd2588ee14fb29fd259f51.jpg
     url: /files/original/14fb29fd2588ee14fb29fd259f51.jpg
+    alt:
+      en: "Aerial view of numerous white and dark-hulled shrimp boats with tall rigging masts clustered at a dock, surrounded by floodwater and marshy, storm-damaged vegetation."
 geo:
 id: 21608
 item_type: Still Image

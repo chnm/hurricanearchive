@@ -24,6 +24,8 @@ files:
     original_filename: P1010057.JPG
     thumb: /files/thumbnails/14fb2a5b87ff8c14fb2a5b880372.jpg
     url: /files/original/14fb2a5b87ff8c14fb2a5b880372.jpg
+    alt:
+      en: "Collapsed brick wall lies in a scattered pile between two houses, with bare trees and debris surrounding it and a damaged roof visible in the background."
 geo:
 id: 3483
 item_type: Still Image

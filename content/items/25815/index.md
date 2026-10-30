@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-caldo_2c0657d612.jpg
     thumb: /files/thumbnails/14fb29dc0b048814fb29dc0b0831.jpg
     url: /files/original/14fb29dc0b048814fb29dc0b0831.jpg
+    alt:
+      en: "Scanned cookbook page from a spiral-bound book showing two recipes, \"Caldo (Molero)\" and \"Caldo (Peligrin),\" with ingredient lists and preparation instructions, under the heading \"Soups, Caldos, Gumbos & Sauces.\""
 geo:
 id: 25815
 item_type: Still Image

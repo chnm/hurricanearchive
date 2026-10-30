@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0261-9-25.JPG
     thumb: /files/thumbnails/14fb29fe93dc3e14fb29fe93e023.jpg
     url: /files/original/14fb29fe93dc3e14fb29fe93e023.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with floodwater covering most of a street, surrounding houses, utility poles, and trees, while two vehicles sit parked on a dry portion of road."
 geo:
 id: 21455
 item_type: Still Image

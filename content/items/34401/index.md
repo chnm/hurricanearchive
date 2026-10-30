@@ -23,6 +23,8 @@ files:
     original_filename: 2380072655_a32dc743b2.
     thumb: /files/thumbnails/14fb29ca3c748414fb29ca3c786a.jpg
     url: /files/original/14fb29ca3c748414fb29ca3c786a.jpg
+    alt:
+      en: "A gutted room with exposed wood studs around a dark glass shower enclosure set in a teal-painted frame, sitting on white tile flooring beside a white cabinet."
 geo:
   address: ''
   lat: 30.22894

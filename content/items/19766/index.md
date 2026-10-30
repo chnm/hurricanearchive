@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 153cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0de04ae614fb2a0de04ecb.jpg
     url: /files/original/14fb2a0de04ae614fb2a0de04ecb.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather on a grassy area near a sidewalk while a man holds a microphone and a cameraman films, with brick buildings and bare trees in the background."
 geo:
 id: 19766
 item_type: Still Image

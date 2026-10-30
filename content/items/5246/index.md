@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0691.JPG
     thumb: /files/thumbnails/14fb2a533597b814fb2a53359b11.jpg
     url: /files/original/14fb2a533597b814fb2a53359b11.jpg
+    alt:
+      en: "A metal storage shed with its door open, revealing a wheelbarrow, buckets, and tools inside, situated beside a house with debris and scattered items on the ground."
 geo:
 id: 5246
 item_type: Still Image

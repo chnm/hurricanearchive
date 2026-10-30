@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2073superdome.JPG
     thumb: /files/thumbnails/14fb29e529e6f214fb29e529ead6.jpg
     url: /files/original/14fb29e529e6f214fb29e529ead6.jpg
+    alt:
+      en: "Indoor scene with a man in military camouflage uniform standing beside a man in a white T-shirt, both facing left toward a window with closed blinds, while two seated men are visible in the background."
 geo:
 id: 24751
 item_type: Still Image

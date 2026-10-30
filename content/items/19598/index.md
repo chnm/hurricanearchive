@@ -21,6 +21,8 @@ files:
     original_filename: S4300077zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ee331d014fb2a0ee335be.jpg
     url: /files/original/14fb2a0ee331d014fb2a0ee335be.jpg
+    alt:
+      en: "Close-up of a blue helicopter body featuring a gold Star of Life emblem and the text \"OPERATED BY Life Net,\" with red and white stripes visible along the edge."
 geo:
 id: 19598
 item_type: Still Image

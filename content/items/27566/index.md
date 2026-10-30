@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6445_c06efc02ec.jpg
     thumb: /files/thumbnails/14fb29d3626d3614fb29d3627118.jpg
     url: /files/original/14fb29d3626d3614fb29d3627118.jpg
+    alt:
+      en: "Three young women smile for the camera at a fair, two wearing matching white \"Rhythm\" uniforms, standing in front of colorful game booths with signs reading \"Scanner\" and \"Confetti Eggs.\""
 geo:
   address: ''
   lat: 29.87876

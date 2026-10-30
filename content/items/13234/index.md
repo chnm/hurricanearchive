@@ -21,6 +21,8 @@ files:
     original_filename: artsy dock shot.jpg
     thumb: /files/thumbnails/14fb2a1f1860a014fb2a1f186485.jpg
     url: /files/original/14fb2a1f1860a014fb2a1f186485.jpg
+    alt:
+      en: "Sideways-oriented photo of a wooden dock with metal support trusses extending into hazy water, trees and overcast sky visible in the distance."
 geo:
 id: 13234
 item_type: Still Image

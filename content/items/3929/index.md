@@ -21,6 +21,8 @@ files:
     original_filename: 100_0226.JPG
     thumb: /files/thumbnails/14fb2a58d93cee14fb2a58d940cc.jpg
     url: /files/original/14fb2a58d93cee14fb2a58d940cc.jpg
+    alt:
+      en: "Bare, storm-damaged trees frame a view of a white house with metal roofing and an open-sided pavilion, surrounded by scattered debris, seen through a vehicle window over a highway guardrail."
 geo:
 id: 3929
 item_type: Still Image

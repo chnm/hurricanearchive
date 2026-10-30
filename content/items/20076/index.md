@@ -21,6 +21,8 @@ files:
     original_filename: Picture 173cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b7a5f6114fb2a0b7a6346.jpg
     url: /files/original/14fb2a0b7a5f6114fb2a0b7a6346.jpg
+    alt:
+      en: "Railroad tracks stretch alongside a debris-strewn gravel embankment, with heavy yellow machinery visible in the foreground and utility poles and trees lining the horizon under a partly cloudy sky."
 geo:
 id: 20076
 item_type: Still Image

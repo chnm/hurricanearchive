@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-015_ad7319ca75.jpg
     thumb: /files/thumbnails/14fb2a16b47ec214fb2a16b4829f.jpg
     url: /files/original/14fb2a16b47ec214fb2a16b4829f.jpg
+    alt:
+      en: "Woman seated at a classroom table with a young boy and girl, a doll, handbag, and gift bag, in a preschool decorated with number and alphabet charts; date stamp reads \"1 21 '05.\""
 geo:
 id: 15265
 item_type: Still Image

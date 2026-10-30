@@ -21,6 +21,8 @@ files:
     original_filename: Picture 276-J2.jpg
     thumb: /files/thumbnails/14fb29fae698a114fb29fae699ee.jpg
     url: /files/original/14fb29fae698a114fb29fae699ee.jpg
+    alt:
+      en: "View from an elevated highway overlooking a flooded industrial area with submerged streets and buildings, warehouses, a lift bridge, and cranes under a partly cloudy sky."
 geo:
 id: 21945
 item_type: Still Image

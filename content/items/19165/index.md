@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 075.jpg
     thumb: /files/thumbnails/14fb2a127d935314fb2a127d973d.jpg
     url: /files/original/14fb2a127d935314fb2a127d973d.jpg
+    alt:
+      en: "Residential street strewn with storm debris, a red pickup truck and small boat parked near an intersection, with a person standing beside a house; damaged trees and buildings line both sides."
 geo:
 id: 19165
 item_type: Still Image

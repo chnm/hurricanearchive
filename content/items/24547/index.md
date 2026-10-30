@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0114-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e6d29b3914fb29e6d29f2d.jpg
     url: /files/original/14fb29e6d29b3914fb29e6d29f2d.jpg
+    alt:
+      en: "A herd of cattle walks along a cracked, flood-damaged road flanked by standing water and downed power lines, with a distant vehicle approaching on the horizon."
 geo:
 id: 24547
 item_type: Still Image

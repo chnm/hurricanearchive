@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 16.jpg
     thumb: /files/thumbnails/14fb29f09b3ded14fb29f09b4492.jpg
     url: /files/original/14fb29f09b3ded14fb29f09b4492.jpg
+    alt:
+      en: "Weather radar/satellite composite showing a large hurricane with a defined eye over the Gulf Coast, timestamped 28 Aug 2005 20:01 GMT / 04:01 PM EDT, with green and yellow rainbands over Louisiana, Mississippi, Alabama, and Florida."
 geo:
 id: 23223
 item_type: Still Image

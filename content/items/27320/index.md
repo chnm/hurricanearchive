@@ -23,6 +23,8 @@ files:
     original_filename: 336694388_af5e600fde.jpg
     thumb: /files/thumbnails/14fb29d50c697014fb29d50c6d55.jpg
     url: /files/original/14fb29d50c697014fb29d50c6d55.jpg
+    alt:
+      en: "A weathered, two-story house with peeling paint, boarded and barred windows, and a damaged porch, surrounded by debris, overgrown grass, and a chain-link fence."
 geo:
 id: 27320
 item_type: Still Image

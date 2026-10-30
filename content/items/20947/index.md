@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0154-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0161d6a114fb2a0161da86.jpg
     url: /files/original/14fb2a0161d6a114fb2a0161da86.jpg
+    alt:
+      en: "Aerial view of a flooded rural landscape with a raised roadway running diagonally through it, cattle standing on the road, and surrounding fields dotted with downed trees and debris from storm damage."
 geo:
 id: 20947
 item_type: Still Image

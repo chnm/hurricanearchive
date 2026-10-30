@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 013.jpg
     thumb: /files/thumbnails/14fb2a2286ca3c14fb2a2286ce1b.jpg
     url: /files/original/14fb2a2286ca3c14fb2a2286ce1b.jpg
+    alt:
+      en: "A bronze statue of a man in a coat stands on a stone pedestal amid storm debris, with a severely damaged, collapsed brick building visible behind it."
 geo:
 id: 11966
 item_type: Still Image

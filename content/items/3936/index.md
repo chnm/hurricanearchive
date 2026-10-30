@@ -24,6 +24,8 @@ files:
     original_filename: Cheney Visit
     thumb: /files/thumbnails/14fb2a58d4b13814fb2a58d4b586.jpg
     url: /files/original/14fb2a58d4b13814fb2a58d4b586.jpg
+    alt:
+      en: "A woman in a white jacket and black outfit speaks with a group of uniformed personnel and others near a \"Mobile Shower Unit\" trailer and portable toilets on a dock by the water."
 geo:
 id: 3936
 item_type: Still Image

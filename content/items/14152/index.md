@@ -21,6 +21,8 @@ files:
     original_filename: LTG Blum news conference.JPG
     thumb: /files/thumbnails/14fb2a1b61cff414fb2a1b61d3d9.jpg
     url: /files/original/14fb2a1b61cff414fb2a1b61d3d9.jpg
+    alt:
+      en: "Military officers, including one named Basilica and another named Blum, converse near an airplane staircase while a civilian takes notes and a woman with a CNN lanyard looks on."
 geo:
   address: ''
   lat: 0.0

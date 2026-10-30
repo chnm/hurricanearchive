@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0063.JPG
     thumb: /files/thumbnails/14fb2a55fc9fb514fb2a55fca39b.jpg
     url: /files/original/14fb2a55fc9fb514fb2a55fca39b.jpg
+    alt:
+      en: "A chaotic pile of storm debris including broken furniture, scattered clothing, torn paper, bricks, and splintered wood, with a caution tape flag visible on a stake in the background."
 geo:
 id: 4716
 item_type: Still Image

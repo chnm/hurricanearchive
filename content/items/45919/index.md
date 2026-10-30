@@ -25,6 +25,8 @@ files:
     original_filename: P1010067.JPG
     thumb: /files/thumbnails/002039b24f6263f23961ab3eb8374c0f.jpg
     url: /files/original/002039b24f6263f23961ab3eb8374c0f.JPG
+    alt:
+      en: "Storm-damaged buildings in Bay St. Louis, including a white building reading \"H...COCK BAN,\" surrounded by debris-covered ground and a partially collapsed storefront with exposed columns."
 geo:
   address: Bay Saint Louis Mississppi
   lat: 30.305326

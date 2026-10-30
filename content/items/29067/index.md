@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0598.JPG
     thumb: /files/thumbnails/14fb29d04e262f14fb29d04e2a14.jpg
     url: /files/original/14fb29d04e262f14fb29d04e2a14.jpg
+    alt:
+      en: "Three hand-painted plywood signs boarded over windows, with messages including \"9/4/05 STILL HERE WOMAN LEFT FRI. COOKING A POT OF DOG GUMBO\" and \"WELCOME BACK Y'ALL GRIN AND BEAR IT.\""
 geo:
 id: 29067
 item_type: Still Image

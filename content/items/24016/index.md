@@ -21,6 +21,8 @@ files:
     original_filename: 09280018plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebecc99c14fb29ebeccd2a.jpg
     url: /files/original/14fb29ebecc99c14fb29ebeccd2a.jpg
+    alt:
+      en: "Five men stand on green steps in front of a white building, four in camouflage military uniforms and caps, and one in a blue T-shirt, jeans, and muddy rubber boots."
 geo:
 id: 24016
 item_type: Still Image

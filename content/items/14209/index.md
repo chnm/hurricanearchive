@@ -21,6 +21,8 @@ files:
     original_filename: convoy.JPG
     thumb: /files/thumbnails/14fb2a1a965cae14fb2a1a96649e.jpg
     url: /files/original/14fb2a1a965cae14fb2a1a96649e.jpg
+    alt:
+      en: "Aerial view of a flooded roadway with military trucks and small boats stranded or parked amid floodwaters, surrounded by marshland and downed utility poles."
 geo:
   address: ''
   lat: 0.0

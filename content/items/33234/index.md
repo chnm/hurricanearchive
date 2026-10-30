@@ -23,6 +23,8 @@ files:
     original_filename: 1256938129_8a66426a46.jpg
     thumb: /files/thumbnails/14fb29cb5902c014fb29cb5906a5.jpg
     url: /files/original/14fb29cb5902c014fb29cb5906a5.jpg
+    alt:
+      en: "Weathered building entrance with peeling paint, a pink-trimmed archway, wrought-iron gates, concrete steps, and a glass-paneled door marked \"412\"; a partial \"TRESPASSING\" warning sign is visible on the wall."
 geo:
 id: 33234
 item_type: Still Image

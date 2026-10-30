@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0164-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0128a91a14fb2a0128acfc.jpg
     url: /files/original/14fb2a0128a91a14fb2a0128acfc.jpg
+    alt:
+      en: "Aerial view of a flooded home reduced to its concrete slab foundation and brick chimney, surrounded by floodwater, debris, and bare, storm-damaged trees."
 geo:
 id: 20992
 item_type: Still Image

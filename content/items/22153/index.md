@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-06-5AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f950205414fb29f95025bc.jpg
     url: /files/original/14fb29f950205414fb29f95025bc.jpg
+    alt:
+      en: "People wearing orange life vests wade through deep floodwaters past partially submerged vehicles and a street lamp, with heavy rain and fog obscuring the background."
 geo:
 id: 22153
 item_type: Still Image

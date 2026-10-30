@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1817superdome.JPG
     thumb: /files/thumbnails/14fb29e126a8a914fb29e126ac98.jpg
     url: /files/original/14fb29e126a8a914fb29e126ac98.jpg
+    alt:
+      en: "Military personnel and medics surround a patient on a stretcher near floodwater, with one uniform bearing the name \"Boggs\" and others watching nearby."
 geo:
 id: 25192
 item_type: Still Image

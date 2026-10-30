@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0143-21.JPG
     thumb: /files/thumbnails/14fb2a021b69f314fb2a021b6da9.jpg
     url: /files/original/14fb2a021b69f314fb2a021b6da9.jpg
+    alt:
+      en: "Military Humvee marked \"HQ-38\" with soldiers inside, parked on a street as a man in civilian clothes carries a TV news camera past it, with uniformed personnel visible in the background."
 geo:
 id: 20899
 item_type: Still Image

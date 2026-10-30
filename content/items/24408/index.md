@@ -21,6 +21,8 @@ files:
     original_filename: 779th Georgia.JPG
     thumb: /files/thumbnails/14fb29e8330ec014fb29e83312a5.jpg
     url: /files/original/14fb29e8330ec014fb29e83312a5.jpg
+    alt:
+      en: "A military medevac helicopter marked \"799\" with a red cross insignia sits parked on a rooftop lot, with city buildings visible in the hazy background."
 geo:
 id: 24408
 item_type: Still Image

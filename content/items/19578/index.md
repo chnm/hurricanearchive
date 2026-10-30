@@ -21,6 +21,8 @@ files:
     original_filename: S4300032zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0efae8fe14fb2a0efaecdb.jpg
     url: /files/original/14fb2a0efae8fe14fb2a0efaecdb.jpg
+    alt:
+      en: "Three white \"Speed Queen\" commercial dryers with round glass doors line a utility room, with storage buckets, a step stool, and a calendar visible in the background."
 geo:
 id: 19578
 item_type: Still Image

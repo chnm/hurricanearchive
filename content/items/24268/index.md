@@ -21,6 +21,8 @@ files:
     original_filename: 20050926006.JPG
     thumb: /files/thumbnails/14fb29e925d1c014fb29e925d5a5.jpg
     url: /files/original/14fb29e925d1c014fb29e925d5a5.jpg
+    alt:
+      en: "A line of white pickup trucks, a large flatbed trailer with elevated seating, and heavy equipment including an excavator parked along a roadside, with power lines and trees in the background."
 geo:
 id: 24268
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 374-J2.jpg
     thumb: /files/thumbnails/14fb29f9eb141314fb29f9eb1802.jpg
     url: /files/original/14fb29f9eb141314fb29f9eb1802.jpg
+    alt:
+      en: "Large fallen tree limbs and dried brush cover a street and sidewalk, with a street lamp and partially visible sign reading \"CALABRIA\" amid damaged trees and a building in the background."
 geo:
 id: 22043
 item_type: Still Image

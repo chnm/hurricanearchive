@@ -23,6 +23,8 @@ files:
     original_filename: 2326072477_796677d867.
     thumb: /files/thumbnails/14fb29c9fe881b14fb29c9fe8b40.jpg
     url: /files/original/14fb29c9fe881b14fb29c9fe8b40.jpg
+    alt:
+      en: "Storm-damaged roadside with snapped and uprooted pine trees, downed limbs, and debris scattered across the grass, viewed from inside a vehicle on a quiet residential street."
 geo:
   address: ''
   lat: 30.22586

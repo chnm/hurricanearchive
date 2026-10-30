@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.047.JPG
     thumb: /files/thumbnails/14fb29dcf9706114fb29dcf9744f.jpg
     url: /files/original/14fb29dcf9706114fb29dcf9744f.jpg
+    alt:
+      en: "Interior view of a tan tent or canopy ceiling with crossing support poles, featuring a translucent teardrop-shaped skylight panel that lets in pale light."
 geo:
 id: 25629
 item_type: Still Image

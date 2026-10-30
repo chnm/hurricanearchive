@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1050Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8b01a1a14fb29f8b01e2a.jpg
     url: /files/original/14fb29f8b01a1a14fb29f8b01e2a.jpg
+    alt:
+      en: "Two helicopters fly under heavy gray storm clouds, visible beyond the columned porch and gabled roofline of a white historic building."
 geo:
 id: 22243
 item_type: Still Image

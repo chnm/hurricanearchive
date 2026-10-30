@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28286.jpg
     thumb: /files/thumbnails/14fb2a6b9ee2ed14fb2a6b9ee6d3.jpg
     url: /files/original/14fb2a6b9ee2ed14fb2a6b9ee6d3.jpg
+    alt:
+      en: "A hand holds up a magazine titled \"ART Gulf Coast\" in front of a storm-damaged building with exposed steel framework and bare trees, debris scattered on the ground nearby."
 geo:
   address: ''
   lat: 0.0

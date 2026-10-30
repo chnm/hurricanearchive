@@ -21,6 +21,8 @@ files:
     original_filename: Next to the Superdomesuperdome.jpg
     thumb: /files/thumbnails/14fb29ddfce8fc14fb29ddfcf13e.jpg
     url: /files/original/14fb29ddfce8fc14fb29ddfcf13e.jpg
+    alt:
+      en: "Floodwaters submerge a parking area and roadway near an elevated highway, with a sunken car, an orange \"Sky Trak\" lift, a FedEx truck, and people wading through the water."
 geo:
 id: 25412
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a08906cde14fb2a08907bb0.jpg
     url: /files/original/14fb2a08906cde14fb2a08907bb0.jpg
+    alt:
+      en: "Sideways photo of a man in glasses sitting at a table with an egg carton, bottled water, a jar, and stacked plates with silverware nearby, likely taken by candlelight."
 geo:
 id: 20350
 item_type: Still Image

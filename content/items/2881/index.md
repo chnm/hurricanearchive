@@ -21,6 +21,8 @@ files:
     original_filename: MVC-004S.JPG
     thumb: /files/thumbnails/14fb2a5fa9be5014fb2a5fa9d1d7.jpg
     url: /files/original/14fb2a5fa9be5014fb2a5fa9d1d7.jpg
+    alt:
+      en: "Interior of a vintage workroom with metal desks, an old typewriter, two red helmets, a swivel stool and chair, and a dark red floor, with papers and a drafting table in the foreground."
 geo:
 id: 2881
 item_type: Still Image

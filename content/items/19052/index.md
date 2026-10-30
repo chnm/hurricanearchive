@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052.JPG
     thumb: /files/thumbnails/14fb2a137dd09b14fb2a137dd80c.jpg
     url: /files/original/14fb2a137dd09b14fb2a137dd80c.jpg
+    alt:
+      en: "A close-up of a person wearing a flight helmet with dark visor, boom microphone, and a camera mount, dressed in a military flight suit with a patch, set against a grassy outdoor background."
 geo:
 id: 19052
 item_type: Still Image

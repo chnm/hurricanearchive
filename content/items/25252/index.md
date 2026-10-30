@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1952superdome.JPG
     thumb: /files/thumbnails/14fb29e0361f6714fb29e03625b8.jpg
     url: /files/original/14fb29e0361f6714fb29e03625b8.jpg
+    alt:
+      en: "A military helicopter in flight against an overcast sky, with its rotor blades spread wide and landing gear extended, silhouetted above an antenna structure in the foreground."
 geo:
 id: 25252
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-24-23AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f941fc9114fb29f94208b3.jpg
     url: /files/original/14fb29f941fc9114fb29f94208b3.jpg
+    alt:
+      en: "Heavy rain and wind obscure a residential street, with a lamppost, utility poles, parked cars, and trees barely visible through the storm."
 geo:
 id: 22171
 item_type: Still Image

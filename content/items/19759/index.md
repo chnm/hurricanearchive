@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 146cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dfb612214fb2a0dfb6509.jpg
     url: /files/original/14fb2a0dfb612214fb2a0dfb6509.jpg
+    alt:
+      en: "Storm-damaged neighborhood with a bent utility pole and downed power lines in the foreground, stripped and leaning trees, and brick houses visible across an open grassy field and roadway."
 geo:
 id: 19759
 item_type: Still Image

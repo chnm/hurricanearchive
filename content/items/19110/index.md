@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 020.jpg
     thumb: /files/thumbnails/14fb2a1303725814fb2a130439e6.jpg
     url: /files/original/14fb2a1303725814fb2a130439e6.jpg
+    alt:
+      en: "An Illinois state flag flies from a makeshift pole mounted on a trailer, with pine trees, a metal building, and parked vehicles visible in the background under a clear sky."
 geo:
 id: 19110
 item_type: Still Image

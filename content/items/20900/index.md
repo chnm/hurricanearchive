@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0143-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a021aba0f14fb2a021abdf4.jpg
     url: /files/original/14fb2a021aba0f14fb2a021abdf4.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters covering a rural landscape, with a partially submerged building and a sign reading \"First United [Methodist] Church\" rising from the water, surrounded by debris and bare, storm-damaged trees."
 geo:
 id: 20900
 item_type: Still Image

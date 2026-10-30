@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1999superdome.JPG
     thumb: /files/thumbnails/14fb29df9238e314fb29df924d08.jpg
     url: /files/original/14fb29df9238e314fb29df924d08.jpg
+    alt:
+      en: "Military personnel in fatigues and medical staff assist evacuees, including a child, amid parked Acadian Ambulance vehicles in a parking garage area."
 geo:
 id: 25272
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0166.JPG
     thumb: /files/thumbnails/14fb2a137b34ca14fb2a137b38af.jpg
     url: /files/original/14fb2a137b34ca14fb2a137b38af.jpg
+    alt:
+      en: "A U.S. Army medical evacuation helicopter marked with a red cross sits on an airfield tarmac with rotors spinning, as a uniformed soldier stands beside the open cabin door."
 geo:
 id: 19056
 item_type: Still Image

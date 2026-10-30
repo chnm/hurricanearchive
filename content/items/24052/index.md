@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29eb33f1f614fb29eb33f5dc.jpg
     url: /files/original/14fb29eb33f1f614fb29eb33f5dc.jpg
+    alt:
+      en: "A gray U.S. Army twin-engine aircraft is parked on a tarmac near a fuel truck, with a hangar labeled \"Lafayette Aero Inc.\" and another small plane visible in the background."
 geo:
 id: 24052
 item_type: Still Image

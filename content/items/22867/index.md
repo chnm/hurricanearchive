@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0160mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2fba7bf14fb29f2fbab9c.jpg
     url: /files/original/14fb29f2fba7bf14fb29f2fbab9c.jpg
+    alt:
+      en: "A soldier in camouflage with a nametag reading \"SPENCER\" stands holding a rifle near a road, facing a man in a white shirt talking on a phone, with a bystander and military vehicles in the background."
 geo:
 id: 22867
 item_type: Still Image

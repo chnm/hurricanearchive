@@ -27,6 +27,8 @@ files:
     original_filename: night st_2100452965. ferd.jpg
     thumb: /files/thumbnails/14fb29ccda106914fb29ccda144f.jpg
     url: /files/original/14fb29ccda106914fb29ccda144f.jpg
+    alt:
+      en: "Large banana leaves frame a dusk sky crisscrossed with utility wires and a wooden power pole, with a building silhouette visible at lower left."
 geo:
   address: St. Ferdinand Street
   lat: 0.0

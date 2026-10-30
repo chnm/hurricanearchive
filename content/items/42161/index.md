@@ -20,6 +20,8 @@ files:
     original_filename: harttable_8ab9ecb984.jpg
     thumb: /files/thumbnails/14fb29c325761e14fb29c3257d7c.jpg
     url: /files/original/14fb29c325761e14fb29c3257d7c.jpg
+    alt:
+      en: "A black-and-white portrait of a man on a sign staked into the ground beside a folding chair and a round table with two red cups, set against a white wooden wall."
 geo:
   address: ''
   lat: 0.0

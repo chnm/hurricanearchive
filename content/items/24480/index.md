@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0102-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e757c7e614fb29e757cbce.jpg
     url: /files/original/14fb29e757c7e614fb29e757cbce.jpg
+    alt:
+      en: "A reddish-brown animal carcass lies on a grassy marsh bank between two channels of water, surrounded by flattened dead reeds and sparse greenery, with trees lining the horizon."
 geo:
 id: 24480
 item_type: Still Image

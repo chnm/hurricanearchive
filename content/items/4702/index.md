@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0128.JPG
     thumb: /files/thumbnails/14fb2a560ed4ff14fb2a560ed8e4.jpg
     url: /files/original/14fb2a560ed4ff14fb2a560ed8e4.jpg
+    alt:
+      en: "A residential street lined with damaged, broken-topped pine trees, with stacked cut logs beside a mailbox marked \"208B,\" and a pickup truck parked near a raised house in the background."
 geo:
 id: 4702
 item_type: Still Image

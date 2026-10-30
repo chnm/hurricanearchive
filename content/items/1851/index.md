@@ -26,6 +26,8 @@ files:
     original_filename: DSCN0608_1be5ed33a5.JPG
     thumb: /files/thumbnails/14fb2a6eaa735514fb2a6eaa7743.jpg
     url: /files/original/14fb2a6eaa735514fb2a6eaa7743.jpg
+    alt:
+      en: "Striped \"witch legs\" with red shoes poke out from a pile of debris beneath a collapsed house, with a wooden cross propped amid the wreckage."
 geo:
   address: ''
   lat: 29.9668694619177

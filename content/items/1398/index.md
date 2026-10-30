@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27922.jpg
     thumb: /files/thumbnails/14fb2a691dd77714fb2a691ddb5d.jpg
     url: /files/original/14fb2a691dd77714fb2a691ddb5d.jpg
+    alt:
+      en: "Storefront windows boarded with plywood and spray-painted \"LOUISIANA\" in red, set beneath a covered sidewalk with a light pole in front and an empty street lined with utility poles in the background."
 geo:
   address: ''
   lat: 0.0

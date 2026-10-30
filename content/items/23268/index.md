@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29f03203a714fb29f032078d.jpg
     url: /files/original/14fb29f03203a714fb29f032078d.jpg
+    alt:
+      en: "Aerial view of a narrow, marshy barrier island or spit surrounded by flat, hazy water, with sparse vegetation and scattered structures along its length."
 geo:
 id: 23268
 item_type: Still Image

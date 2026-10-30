@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0751.JPG
     thumb: /files/thumbnails/14fb2a5708b3b014fb2a5708b796.jpg
     url: /files/original/14fb2a5708b3b014fb2a5708b796.jpg
+    alt:
+      en: "Skeletal wooden framing of a demolished building stands amid scattered debris, including toilets and a black metal fence, with a tree line in the background under a pale blue sky."
 geo:
 id: 4549
 item_type: Still Image

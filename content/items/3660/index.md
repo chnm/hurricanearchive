@@ -24,6 +24,8 @@ files:
     original_filename: P1010096.JPG
     thumb: /files/thumbnails/14fb2a5a4853a214fb2a5a485e52.jpg
     url: /files/original/14fb2a5a4853a214fb2a5a485e52.jpg
+    alt:
+      en: "Large uprooted tree stump surrounded by scattered branches and debris in front of a brick ranch-style house with a Tudor-style gabled roof and boarded windows."
 geo:
 id: 3660
 item_type: Still Image

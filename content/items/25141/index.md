@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1751superdome.JPG
     thumb: /files/thumbnails/14fb29e1e7a83e14fb29e1e7ac25.jpg
     url: /files/original/14fb29e1e7a83e14fb29e1e7ac25.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues load cardboard boxes labeled \"Meal, Ready-to-Eat\" into a Black Hawk helicopter on a tarmac."
 geo:
 id: 25141
 item_type: Still Image

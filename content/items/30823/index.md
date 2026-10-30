@@ -21,6 +21,8 @@ files:
     original_filename: woods hole lane katrina.jpg
     thumb: /files/thumbnails/14fb29cc4353a014fb29cc43565c.jpg
     url: /files/original/14fb29cc4353a014fb29cc43565c.jpg
+    alt:
+      en: "A gray minivan drives on a gravel road through a storm-damaged forest, with broken trees, scattered debris, and a freshly cut stump lining the roadside."
 geo:
 id: 30823
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28445.jpg
     thumb: /files/thumbnails/14fb2a6acbfa7d14fb2a6acbfe61.jpg
     url: /files/original/14fb2a6acbfa7d14fb2a6acbfe61.jpg
+    alt:
+      en: "Large debris pile of splintered wood and rubble in foreground, with a bare tree and the red guitar-shaped \"Hard Rock Casino\" sign visible behind damaged buildings."
 geo:
   address: ''
   lat: 0.0

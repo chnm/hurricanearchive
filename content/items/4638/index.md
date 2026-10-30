@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0567.JPG
     thumb: /files/thumbnails/14fb2a5696034214fb2a5696077a.jpg
     url: /files/original/14fb2a5696034214fb2a5696077a.jpg
+    alt:
+      en: "Debris-strewn lot with bare, storm-damaged trees, scattered rubble, a tipped-over wheelbarrow, and a concrete foundation slab under a partly cloudy blue sky."
 geo:
 id: 4638
 item_type: Still Image

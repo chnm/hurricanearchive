@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity.JPG
     thumb: /files/thumbnails/14fb2a5d1546c114fb2a5d154aa1.jpg
     url: /files/original/14fb2a5d1546c114fb2a5d154aa1.jpg
+    alt:
+      en: "A quiet, tree-lined street with overhanging branches, cracked pavement, and scattered debris; white houses with porches are visible along the right side under an overcast sky."
 geo:
 id: 3243
 item_type: Still Image

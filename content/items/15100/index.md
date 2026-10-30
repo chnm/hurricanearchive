@@ -21,6 +21,8 @@ files:
     original_filename: black03i-10_a4f066e948.jpg
     thumb: /files/thumbnails/14fb2a1729b31314fb2a1729ba14.jpg
     url: /files/original/14fb2a1729b31314fb2a1729ba14.jpg
+    alt:
+      en: "A woman in a teal jacket and fur stole speaks into a microphone on a stage with green curtains; a sign in the foreground reads \"Celebrating Black African-American History.\""
 geo:
 id: 15100
 item_type: Still Image

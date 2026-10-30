@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-11-10Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e56c0b0014fb29e56c11b3.jpg
     url: /files/original/14fb29e56c0b0014fb29e56c11b3.jpg
+    alt:
+      en: "National Guard troops in camouflage wade through deep floodwater assisting civilians near a Wildlife Enforcement pickup truck and military vehicles, with buildings visible in the background."
 geo:
 id: 24709
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a072a46be14fb2a072a4b38.jpg
     url: /files/original/14fb2a072a46be14fb2a072a4b38.jpg
+    alt:
+      en: "A silver GMC Envoy with a \"Martin Pontiac-GMC\" license plate frame sits amid storm wreckage, with a damaged building frame, debris, and a twisted metal structure visible beyond a chain-link fence."
 geo:
 id: 20444
 item_type: Still Image

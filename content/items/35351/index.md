@@ -21,6 +21,8 @@ files:
     original_filename: 3_3aff62cd35.jpg
     thumb: /files/thumbnails/14fb29c62af46a14fb29c62af7f3.jpg
     url: /files/original/14fb29c62af46a14fb29c62af7f3.jpg
+    alt:
+      en: "Cluttered interior of the Saturn Bar with a loft railing above, shelves of glassware, mounted antlers, trophies, a religious statue, and stacked cardboard boxes including Rice Krispies Treats Squares and POM Wonderful."
 geo:
   address: 3067 Saint Claude Ave, New Orleans, LA
   lat: 29.96784

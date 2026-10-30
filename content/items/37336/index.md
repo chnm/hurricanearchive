@@ -20,6 +20,8 @@ files:
     original_filename: DSCN0158_118193d658.JPG
     thumb: /files/thumbnails/14fb29c5689e0314fb29c568a1e8.jpg
     url: /files/original/14fb29c5689e0314fb29c568a1e8.jpg
+    alt:
+      en: "Rows of weathered above-ground stone tombs and mausoleums line a narrow cracked concrete walkway in a cemetery, with trees and rooftops visible in the background."
 geo:
   address: 2800 prytania
   lat: 29.92879

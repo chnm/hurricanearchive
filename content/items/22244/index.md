@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1051Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8ac660214fb29f8ac6ace.jpg
     url: /files/original/14fb29f8ac660214fb29f8ac6ace.jpg
+    alt:
+      en: "A helicopter flies in an overcast sky beside the columned porch and gabled roofline of a white wooden building."
 geo:
 id: 22244
 item_type: Still Image

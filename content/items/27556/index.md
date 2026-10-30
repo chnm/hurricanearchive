@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6444_488b80f560.jpg
     thumb: /files/thumbnails/14fb29d36cd85b14fb29d36cdc41.jpg
     url: /files/original/14fb29d36cd85b14fb29d36cdc41.jpg
+    alt:
+      en: "Two young women in matching white uniforms with gold trim embrace and smile for the camera, with other similarly dressed group members and large moss-draped oak trees in the background."
 geo:
   address: ''
   lat: 29.91685

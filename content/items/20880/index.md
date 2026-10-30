@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0138-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0251196714fb2a02511d53.jpg
     url: /files/original/14fb2a0251196714fb2a02511d53.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with torn roofing and debris-strewn grounds, adjacent to a flooded athletic field and roadway, with downed trees scattered across the landscape."
 geo:
 id: 20880
 item_type: Still Image

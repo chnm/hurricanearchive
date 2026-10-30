@@ -24,6 +24,8 @@ files:
     original_filename: SD 1949-50 COuple_34e0b2060e.jpg
     thumb: /files/thumbnails/14fb29d7d5cda814fb29d7d5d1e6.jpg
     url: /files/original/14fb29d7d5cda814fb29d7d5d1e6.jpg
+    alt:
+      en: "Black-and-white photo of a young man in a light suit and an older woman in a dark dress standing arm-in-arm on a porch, with shrubs and a neighboring house visible behind them."
 geo:
   address: ''
   lat: 29.91685

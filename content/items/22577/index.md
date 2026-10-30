@@ -21,6 +21,8 @@ files:
     original_filename: Doorway at Jack BrksJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f53302b814fb29f5330861.jpg
     url: /files/original/14fb29f53302b814fb29f5330861.jpg
+    alt:
+      en: "Heavily grained, dark green-toned photograph showing a light-colored rectangular shape, possibly a doorway or opening, with mottled texture against a uniformly dark background."
 geo:
 id: 22577
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Chalmette Refining - Looking West.jpg
     thumb: /files/thumbnails/14fb29fb6732ec14fb29fb6736d1.jpg
     url: /files/original/14fb29fb6732ec14fb29fb6736d1.jpg
+    alt:
+      en: "Aerial view of the Chalmette Refining oil refinery with numerous storage tanks, surrounded by a dense residential grid, some areas showing standing floodwater from the hurricane."
 geo:
 id: 21839
 item_type: Still Image

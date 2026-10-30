@@ -21,6 +21,8 @@ files:
     original_filename: 100_0174.JPG
     thumb: /files/thumbnails/14fb2a591e77c814fb2a591e7ba5.jpg
     url: /files/original/14fb2a591e77c814fb2a591e7ba5.jpg
+    alt:
+      en: "Two-story brick house surrounded by deep floodwater, with tattered awnings hanging from its windows and storm-damaged, leafless trees in the background."
 geo:
 id: 3881
 item_type: Still Image

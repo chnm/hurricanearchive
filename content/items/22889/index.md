@@ -21,6 +21,8 @@ files:
     original_filename: NO 011majortodd.jpg
     thumb: /files/thumbnails/14fb29f2e76ef614fb29f2e778c9.jpg
     url: /files/original/14fb29f2e76ef614fb29f2e778c9.jpg
+    alt:
+      en: "Aerial view of a hazy cityscape with dense residential neighborhoods in the foreground and multiple dark smoke plumes rising near distant skyscrapers under a pale sky."
 geo:
 id: 22889
 item_type: Still Image

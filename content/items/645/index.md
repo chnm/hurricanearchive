@@ -26,6 +26,8 @@ files:
     original_filename: First_Free_MissionKatrina_04652ace86.jpg
     thumb: /files/thumbnails/14fb2a6f484a4114fb2a6f485230.jpg
     url: /files/original/14fb2a6f484a4114fb2a6f485230.jpg
+    alt:
+      en: "White stucco church exterior with two tall arched window openings, one missing glass and one with a partial stained-glass window, above a front entrance flanked by small palms and steps."
 geo:
   address: ''
   lat: 29.9424403963106

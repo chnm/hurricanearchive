@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0228-21.JPG
     thumb: /files/thumbnails/14fb29ff8030aa14fb29ff803486.jpg
     url: /files/original/14fb29ff8030aa14fb29ff803486.jpg
+    alt:
+      en: "Aerial view of a city street intersection with a grassy median, scattered debris, parked cars, and surrounding buildings, including a partial \"1040 L\" sign on a rooftop."
 geo:
 id: 21324
 item_type: Still Image

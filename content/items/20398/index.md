@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010-20.JPG
     thumb: /files/thumbnails/14fb2a0805a31314fb2a0805a6f9.jpg
     url: /files/original/14fb2a0805a31314fb2a0805a6f9.jpg
+    alt:
+      en: "Interior hallway view with a wooden door below a wall-mounted fire suppression device with red pipes, and a handwritten sign reading \"TASK FORCE DEFENDER\" posted beside the door."
 geo:
 id: 20398
 item_type: Still Image

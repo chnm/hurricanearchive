@@ -21,6 +21,8 @@ files:
     original_filename: 105-07_76fdf0901e.jpg
     thumb: /files/thumbnails/14fb2a1e46a26f14fb2a1e46a655.jpg
     url: /files/original/14fb2a1e46a26f14fb2a1e46a655.jpg
+    alt:
+      en: "Black-and-white photo of a vertical-lift bridge over the Industrial Canal at St. Claude Avenue, with period cars on the road, trees lining the canal, and a sign reading \"Vehicles Keep to Right When Open,\" dated Nov. 3, 1953."
 geo:
 id: 13344
 item_type: Still Image

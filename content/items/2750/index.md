@@ -21,6 +21,8 @@ files:
     original_filename: 46.jpg
     thumb: /files/thumbnails/14fb2a6054513514fb2a60545511.jpg
     url: /files/original/14fb2a6054513514fb2a60545511.jpg
+    alt:
+      en: "Handwritten child's narrative in dark marker reading \"One day it was a stormmy day. It was raining. It was Windy. It was in the evening,\" with a blue-marker addition underlined below stating \"It was so bad. Katrina Kids.\""
 geo:
 id: 2750
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032-9-25.JPG
     thumb: /files/thumbnails/14fb2a063c082f14fb2a063c0c14.jpg
     url: /files/original/14fb2a063c082f14fb2a063c0c14.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential area with flooded yards, downed trees and debris scattered along a curving road, and homes with visible roof damage amid denuded, wind-stripped trees."
 geo:
 id: 20550
 item_type: Still Image

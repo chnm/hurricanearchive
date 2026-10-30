@@ -20,6 +20,8 @@ files:
     original_filename: 1signs_e13f5e084b.jpg
     thumb: /files/thumbnails/14fb29cbf318ba14fb29cbf31c97.jpg
     url: /files/original/14fb29cbf318ba14fb29cbf31c97.jpg
+    alt:
+      en: "A handwritten sign reading \"1815 'All We Have Left Is Our Life & Our Dignity'\" stands amid storm debris, scattered lumber, and a muddy lot in New Orleans' 9th Ward."
 geo:
   address: ''
   lat: 29.76438

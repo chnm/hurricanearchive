@@ -20,6 +20,8 @@ files:
     original_filename: 2421694166_8792ab4bcb.
     thumb: /files/thumbnails/14fb29c8e40cd514fb29c8e410da.jpg
     url: /files/original/14fb29c8e40cd514fb29c8e410da.jpg
+    alt:
+      en: "Damaged kitchen interior with a bright six-pane window above a grimy sink, flanked by open wooden shelving holding containers and a coffee maker, with a wall-mounted cabinet and floral cloth nearby."
 geo:
 id: 34753
 item_type: Still Image

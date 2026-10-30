@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (63).jpg
     thumb: /files/thumbnails/14fb2a5ca27f6314fb2a5ca2f5fc.jpg
     url: /files/original/14fb2a5ca27f6314fb2a5ca2f5fc.jpg
+    alt:
+      en: "Two storm-damaged houses with caved-in roofs and dislodged siding, marked with spray-painted search-and-rescue X symbols reading \"1/8 NE\" and \"9.16,\" surrounded by dried mud and debris."
 geo:
 id: 3303
 item_type: Still Image

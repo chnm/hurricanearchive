@@ -21,6 +21,8 @@ files:
     original_filename: MVC-010S.JPG
     thumb: /files/thumbnails/14fb2a5f951be014fb2a5f951fc6.jpg
     url: /files/original/14fb2a5f951be014fb2a5f951fc6.jpg
+    alt:
+      en: "A white shelving unit holding a firearm and dark bag on top, ammunition boxes and tins on the middle shelf, and various boxes and crates below, set on a red floor."
 geo:
 id: 2921
 item_type: Still Image

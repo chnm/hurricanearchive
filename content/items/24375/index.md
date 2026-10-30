@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-23-22A.jpg
     thumb: /files/thumbnails/14fb29e862446014fb29e862496f.jpg
     url: /files/original/14fb29e862446014fb29e862496f.jpg
+    alt:
+      en: "Floodwater seen through an open doorway submerges a street and parked vehicles up to their rooflines, with bare trees and brick buildings in the background under an overcast sky."
 geo:
 id: 24375
 item_type: Still Image

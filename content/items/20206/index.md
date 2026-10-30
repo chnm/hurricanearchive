@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0140.JPG
     thumb: /files/thumbnails/14fb2a0ab98f4a14fb2a0ab993e7.jpg
     url: /files/original/14fb2a0ab98f4a14fb2a0ab993e7.jpg
+    alt:
+      en: "A thin reddish-brown dog on a leash stands atop debris, including a large round metal lid and broken concrete slabs, amid storm wreckage."
 geo:
 id: 20206
 item_type: Still Image

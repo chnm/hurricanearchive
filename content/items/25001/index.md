@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1523superdome.JPG
     thumb: /files/thumbnails/14fb29e303dc7414fb29e303e18e.jpg
     url: /files/original/14fb29e303dc7414fb29e303e18e.jpg
+    alt:
+      en: "A military medical evacuation helicopter marked with a red cross and \"2533\" flies low over a highway overpass, with a tall column of black smoke rising in the background."
 geo:
 id: 25001
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eaecb52b14fb29eaecb84d.jpg
     url: /files/original/14fb29eaecb52b14fb29eaecb84d.jpg
+    alt:
+      en: "Two military Humvees in camouflage paint parked outside a metal building with a \"Thibodeaux Feeds Inc.\" sign, one with its hood open and a cardboard box on the fender."
 geo:
 id: 24088
 item_type: Still Image

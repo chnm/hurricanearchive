@@ -27,6 +27,8 @@ files:
     original_filename: 2310735844_bdb4039deb.
     thumb: /files/thumbnails/14fb29c9a99e1e14fb29c9a9a1fc.jpg
     url: /files/original/14fb29c9a99e1e14fb29c9a9a1fc.jpg
+    alt:
+      en: "Storm-damaged waterfront property with a concrete slab foundation, scattered bricks and debris, two battered palm trees, and a hazy bay visible in the background."
 geo:
   address: 237 Debbie Dr.
   lat: 30.22539

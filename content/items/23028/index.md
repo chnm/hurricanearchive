@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038OEP.JPG
     thumb: /files/thumbnails/14fb29f2009eae14fb29f200a291.jpg
     url: /files/original/14fb29f2009eae14fb29f200a291.jpg
+    alt:
+      en: "Row of RVs and travel trailers parked on grass, including one labeled \"Bounder,\" with a dark sedan parked nearby and a person in camouflage clothing walking near a tree."
 geo:
 id: 23028
 item_type: Still Image

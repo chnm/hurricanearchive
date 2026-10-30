@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C27_ad90c51a86.jpg
     thumb: /files/thumbnails/14fb2a66a01c9b14fb2a66a02093.jpg
     url: /files/original/14fb2a66a01c9b14fb2a66a02093.jpg
+    alt:
+      en: "The U.S. Coast Guard Cutter Spencer, marked \"905,\" is docked along the Mississippi River at dusk, with the New Orleans skyline silhouetted against a pink and purple sky."
 geo:
 id: 2411
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 100_5482_ac118e1943.JPG
     thumb: /files/thumbnails/14fb2a712548e714fb2a7125523c.jpg
     url: /files/original/14fb2a712548e714fb2a7125523c.jpg
+    alt:
+      en: "A woman crouches on broken pieces of pink-tiled flooring and concrete slabs scattered amid storm debris and fallen trees, remnants of a destroyed bathroom, dated 10/01/2005."
 geo:
   address: ''
   lat: 30.005653

@@ -21,6 +21,8 @@ files:
     original_filename: 186ENCO1AlabamaNG.jpg
     thumb: /files/thumbnails/14fb29f16a36a814fb29f16a3a1f.jpg
     url: /files/original/14fb29f16a36a814fb29f16a3a1f.jpg
+    alt:
+      en: "Four men in military camouflage and tan shirts drag a large fallen tree branch across a residential driveway, with houses, a basketball hoop, and a blue tarp-covered roof visible in the background."
 geo:
 id: 23137
 item_type: Still Image

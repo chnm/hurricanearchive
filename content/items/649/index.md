@@ -26,6 +26,8 @@ files:
     original_filename: 015_13A_504c8f9fd1.jpg
     thumb: /files/thumbnails/14fb2a6f3e25d814fb2a6f3e29bd.jpg
     url: /files/original/14fb2a6f3e25d814fb2a6f3e29bd.jpg
+    alt:
+      en: "Cracked waterfront pavement strewn with debris and downed wires, a leaning utility pole, and rows of broken pilings in calm water, with trees and a street in the background."
 geo:
   address: ''
   lat: 30.020726036805197

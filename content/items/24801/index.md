@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2123superdome.JPG
     thumb: /files/thumbnails/14fb29e4a7e2ee14fb29e4a7e6c9.jpg
     url: /files/original/14fb29e4a7e2ee14fb29e4a7e6c9.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand among dark mobile command trailers, a Humvee, and an ambulance in a parking area, with a highway overpass and helicopter visible in the background."
 geo:
 id: 24801
 item_type: Still Image

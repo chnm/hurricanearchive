@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0480.JPG
     thumb: /files/thumbnails/14fb2a53d54e6c14fb2a53d55250.jpg
     url: /files/original/14fb2a53d54e6c14fb2a53d55250.jpg
+    alt:
+      en: "A construction or repair site with a pink-sided building under a partially finished roof, surrounded by scattered debris, wood scraps, and bare trees, with a house visible in the background."
 geo:
 id: 5118
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7403.JPG
     thumb: /files/thumbnails/14fb29ccc8198c14fb29ccc81d68.jpg
     url: /files/original/14fb29ccc8198c14fb29ccc81d68.jpg
+    alt:
+      en: "A wooden cabin with a metal roof damaged by a fallen tree, surrounded by downed branches and debris from storm damage to the surrounding woods."
 geo:
 id: 30706
 item_type: Still Image

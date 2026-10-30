@@ -24,6 +24,8 @@ files:
     original_filename: P1010052.JPG
     thumb: /files/thumbnails/14fb2a5b9102cb14fb2a5b9105e1.jpg
     url: /files/original/14fb2a5b9102cb14fb2a5b9105e1.jpg
+    alt:
+      en: "Storm-damaged brick house with broken, leafless trees and fallen branches scattered across the yard, a dark sedan parked in the driveway under a clear blue sky."
 geo:
 id: 3478
 item_type: Still Image

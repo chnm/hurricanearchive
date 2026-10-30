@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0719fdb314fb2a071a0197.jpg
     url: /files/original/14fb2a0719fdb314fb2a071a0197.jpg
+    alt:
+      en: "Man in a brown short-sleeve shirt with a Louisiana identification badge gestures with both hands while speaking into a microphone held by someone off-camera, with other people standing in a paved outdoor area behind him."
 geo:
 id: 20451
 item_type: Still Image

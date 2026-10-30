@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0156-21.JPG
     thumb: /files/thumbnails/14fb2a015440e114fb2a015444c7.jpg
     url: /files/original/14fb2a015440e114fb2a015444c7.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage uniform, wearing sunglasses and a cap, leans toward a vehicle window to speak with the driver, holding papers in hand."
 geo:
 id: 20957
 item_type: Still Image

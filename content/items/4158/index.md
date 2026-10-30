@@ -21,6 +21,8 @@ files:
     original_filename: P1010025.JPG
     thumb: /files/thumbnails/14fb2a575874a914fb2a57587888.jpg
     url: /files/original/14fb2a575874a914fb2a57587888.jpg
+    alt:
+      en: "Aerial view of a coastal community reduced to scattered debris and building foundations along a sandy shoreline, with one lot outlined in red paint amid the wreckage."
 geo:
 id: 4158
 item_type: Still Image

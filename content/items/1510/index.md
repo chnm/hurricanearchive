@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28084.jpg
     thumb: /files/thumbnails/14fb2a684e8cb714fb2a684e90a8.jpg
     url: /files/original/14fb2a684e8cb714fb2a684e90a8.jpg
+    alt:
+      en: "A large menorah-shaped sculpture mounted on the side of a brick building, surrounded by palm trees and shrubs, with a person standing near the base."
 geo:
   address: ''
   lat: 0.0

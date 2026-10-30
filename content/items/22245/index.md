@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1052Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8a87b5a14fb29f8a87f30.jpg
     url: /files/original/14fb29f8a87b5a14fb29f8a87f30.jpg
+    alt:
+      en: "A helicopter flies beneath heavy gray storm clouds, seen past the white columned porch and gabled roofline of a historic building."
 geo:
 id: 22245
 item_type: Still Image

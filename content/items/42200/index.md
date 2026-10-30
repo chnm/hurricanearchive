@@ -20,6 +20,8 @@ files:
     original_filename: Katrina 4_c91341dcd6.jpg
     thumb: /files/thumbnails/14fb29c2c8bea314fb29c2c8c287.jpg
     url: /files/original/14fb29c2c8bea314fb29c2c8c287.jpg
+    alt:
+      en: "A small white building has toppled off its foundation onto a dark sedan, with a brick house and clear blue sky in the background."
 geo:
   address: ''
   lat: 29.97479

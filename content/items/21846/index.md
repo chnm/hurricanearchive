@@ -21,6 +21,8 @@ files:
     original_filename: Delgado School of Nursing2.jpg
     thumb: /files/thumbnails/14fb29fb62e98014fb29fb62ed6f.jpg
     url: /files/original/14fb29fb62e98014fb29fb62ed6f.jpg
+    alt:
+      en: "Aerial view of a flooded urban downtown with multiple high-rise buildings surrounded by dark standing water, elevated highway interchanges curving through the scene, and streets completely submerged."
 geo:
 id: 21846
 item_type: Still Image

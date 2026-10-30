@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28609.jpg
     thumb: /files/thumbnails/14fb2a6961ec1d14fb2a6961efeb.jpg
     url: /files/original/14fb2a6961ec1d14fb2a6961efeb.jpg
+    alt:
+      en: "Stacks of wooden planks printed with \"SAFWAY SERVICES\" branding and safety warnings, piled on a gravel surface in downtown New Orleans."
 geo:
   address: ''
   lat: 0.0

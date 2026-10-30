@@ -23,6 +23,8 @@ files:
     original_filename: Back Yard Boat.jpg
     thumb: /files/thumbnails/14fb29c1e864bb14fb29c1e86897.jpg
     url: /files/original/14fb29c1e864bb14fb29c1e86897.jpg
+    alt:
+      en: "A white \"Pro-Line\" motorboat sits stranded on a boat lift above a canal, with brick houses and palm fronds in the background, dated 09/04/2005 in the corner."
 geo:
   address: ''
   lat: 30.22807

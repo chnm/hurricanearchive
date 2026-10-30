@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.105.JPG
     thumb: /files/thumbnails/14fb29dce8640b14fb29dce86839.jpg
     url: /files/original/14fb29dce8640b14fb29dce86839.jpg
+    alt:
+      en: "Damaged mobile home with broken windows and peeling siding, overgrown with weeds; a tattered American flag hangs on a bent pole beside shredded debris and fallen branches in the yard."
 geo:
 id: 25649
 item_type: Still Image

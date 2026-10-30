@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-07KPbirthdayearly80's_ba6dbd7a89.jpg
     thumb: /files/thumbnails/14fb29dc966b4114fb29dc966e1e.jpg
     url: /files/original/14fb29dc966b4114fb29dc966e1e.jpg
+    alt:
+      en: "Water-damaged photo of a young girl seated before a birthday cake decorated with Bert and Ernie, wood-paneled wall and a balloon visible behind her, early 1980s."
 geo:
 id: 25732
 item_type: Still Image

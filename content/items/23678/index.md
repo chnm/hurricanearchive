@@ -21,6 +21,8 @@ files:
     original_filename: P1010119empireS&R.JPG
     thumb: /files/thumbnails/14fb29ededc8ff14fb29ededcce5.jpg
     url: /files/original/14fb29ededc8ff14fb29ededcce5.jpg
+    alt:
+      en: "Floodwater covers a road and surrounding trees beneath power lines, with a debris-strewn field of dead grass in the foreground."
 geo:
 id: 23678
 item_type: Still Image

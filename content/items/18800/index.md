@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032cameron.JPG
     thumb: /files/thumbnails/14fb2a15361f3114fb2a15362315.jpg
     url: /files/original/14fb2a15361f3114fb2a15362315.jpg
+    alt:
+      en: "Aerial view of a calm, hazy ocean surface with long parallel wave lines and a circular patch of whitewater near the center; a faint structure is visible on the horizon at right."
 geo:
 id: 18800
 item_type: Still Image

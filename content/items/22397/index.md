@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1229Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6bd207314fb29f6bd2458.jpg
     url: /files/original/14fb29f6bd207314fb29f6bd2458.jpg
+    alt:
+      en: "Severe flooding submerges a neighborhood street and yard, with only rooftops, a small shed's peak, and trees visible above the murky water under heavy rain and fog."
 geo:
 id: 22397
 item_type: Still Image

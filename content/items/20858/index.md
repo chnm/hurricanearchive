@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0134-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a02b0e7e214fb2a02b0ebc8.jpg
     url: /files/original/14fb2a02b0e7e214fb2a02b0ebc8.jpg
+    alt:
+      en: "A dark green mobile home sits near floodwater beside a small aluminum boat, surrounded by storm debris, bare trees, and dead grass along a roadside."
 geo:
 id: 20858
 item_type: Still Image

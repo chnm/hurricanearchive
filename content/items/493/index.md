@@ -26,6 +26,8 @@ files:
     original_filename: RitaCoke_2024_a6787880f3.jpg
     thumb: /files/thumbnails/14fb2a6fb5e07e14fb2a6fb5e464.jpg
     url: /files/original/14fb2a6fb5e07e14fb2a6fb5e464.jpg
+    alt:
+      en: "Elevated metal buildings on pilings stand behind a chain-link fence, with a toppled red Coca-Cola cooler, debris, and dried marsh grass scattered in the foreground under an overcast sky."
 geo:
   address: ''
   lat: 29.269628815226596

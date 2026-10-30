@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7647.JPG
     thumb: /files/thumbnails/14fb29cc8f256c14fb29cc8f294a.jpg
     url: /files/original/14fb29cc8f256c14fb29cc8f294a.jpg
+    alt:
+      en: "A large pile of downed trees and broken branches surrounds a wooden sign reading \"Woods Hole Inn,\" with a large cut tree stump visible behind it."
 geo:
 id: 30766
 item_type: Still Image

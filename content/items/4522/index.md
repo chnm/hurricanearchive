@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0734.JPG
     thumb: /files/thumbnails/14fb2a5712ea9f14fb2a5712ee8d.jpg
     url: /files/original/14fb2a5712ea9f14fb2a5712ee8d.jpg
+    alt:
+      en: "Interior view of an attic or roof structure with exposed wooden beams and plywood sheathing, a silver insulated duct, and a yellow tape measure stretched horizontally across the frame."
 geo:
 id: 4522
 item_type: Still Image

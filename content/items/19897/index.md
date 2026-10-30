@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0134gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cd35bd714fb2a0cd35fc7.jpg
     url: /files/original/14fb2a0cd35bd714fb2a0cd35fc7.jpg
+    alt:
+      en: "Two people in camouflage military uniforms view a city map marked with pink tabs, one pointing to a location near the river, with \"NEW ORLEANS\" labeled on the map."
 geo:
 id: 19897
 item_type: Still Image

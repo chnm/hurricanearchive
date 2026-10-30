@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0076OEP.JPG
     thumb: /files/thumbnails/14fb29f1a6f1dd14fb29f1a6f5bc.jpg
     url: /files/original/14fb29f1a6f1dd14fb29f1a6f5bc.jpg
+    alt:
+      en: "A seated military service member in camouflage uniform is interviewed outdoors under a tent, with a reporter holding a microphone and a cameraman filming beside a woman observing."
 geo:
 id: 23066
 item_type: Still Image

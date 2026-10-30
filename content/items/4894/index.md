@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0213.JPG
     thumb: /files/thumbnails/14fb2a550a2eac14fb2a550a3291.jpg
     url: /files/original/14fb2a550a2eac14fb2a550a3291.jpg
+    alt:
+      en: "Cleared lot strewn with storm debris and scattered rubble, bordered by damaged, leaning trees and a partially visible white structure in the background."
 geo:
 id: 4894
 item_type: Still Image

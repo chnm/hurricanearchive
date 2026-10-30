@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-05-3Abatonrouge.jpg
     thumb: /files/thumbnails/14fb2a15460aad14fb2a15460e93.jpg
     url: /files/original/14fb2a15460aad14fb2a15460e93.jpg
+    alt:
+      en: "Aerial view of a suburban landscape with a divided highway, scattered houses among trees, a golf course, and warehouse buildings, under a hazy sky."
 geo:
 id: 18775
 item_type: Still Image

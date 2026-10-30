@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0027.JPG
     thumb: /files/thumbnails/14fb2a582385f514fb2a582389db.jpg
     url: /files/original/14fb2a582385f514fb2a582389db.jpg
+    alt:
+      en: "Two blue religious statues stand in a debris-strewn road, with storm-damaged houses, displaced roofing, downed trees, and a pickup truck visible in the background."
 geo:
 id: 4071
 item_type: Still Image

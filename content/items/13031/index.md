@@ -21,6 +21,8 @@ files:
     original_filename: before building.jpg
     thumb: /files/thumbnails/14fb2a20f8cf7014fb2a20f8d356.jpg
     url: /files/original/14fb2a20f8cf7014fb2a20f8d356.jpg
+    alt:
+      en: "Multi-story brick building photographed at an angle, with rows of windows, a white sign posted on the facade, and a storefront sign reading \"Devon & Co.\" at street level."
 geo:
 id: 13031
 item_type: Still Image

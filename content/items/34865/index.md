@@ -20,6 +20,8 @@ files:
     original_filename: 2456732503_544f315aa5.
     thumb: /files/thumbnails/14fb29c8ddb9ce14fb29c8ddbdab.jpg
     url: /files/original/14fb29c8ddb9ce14fb29c8ddbdab.jpg
+    alt:
+      en: "A piece of heavy machinery with a red overhead arm sits stuck in thick mud, surrounded by debris and murky water; handwritten text below reads \"3400 Red Boat Jan 18, 1994.\""
 geo:
 id: 34865
 item_type: Still Image

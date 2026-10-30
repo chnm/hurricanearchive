@@ -21,6 +21,8 @@ files:
     original_filename: KSARNG blackhawk.JPG
     thumb: /files/thumbnails/14fb2a1b83b65414fb2a1b83bb0d.jpg
     url: /files/original/14fb2a1b83b65414fb2a1b83bb0d.jpg
+    alt:
+      en: "A UH-60 Black Hawk helicopter marked \"United States Army\" sits on pavement with rotors spinning as a soldier in fatigues stands near its open side door; city buildings and parked cars are visible in the background."
 geo:
   address: ''
   lat: 0.0

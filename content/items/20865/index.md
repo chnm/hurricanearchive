@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0135.JPG
     thumb: /files/thumbnails/14fb2a029ea8cc14fb2a029eae72.jpg
     url: /files/original/14fb2a029ea8cc14fb2a029eae72.jpg
+    alt:
+      en: "Hazy aerial view of a downtown city skyline with high-rise buildings, including one labeled \"Marriott\" and another \"Sheraton,\" a river with a steel truss bridge visible in the background."
 geo:
 id: 20865
 item_type: Still Image

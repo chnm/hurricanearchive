@@ -21,6 +21,8 @@ files:
     original_filename: S4300100alero.JPG
     thumb: /files/thumbnails/14fb2a1553799a14fb2a15537d7f.jpg
     url: /files/original/14fb2a1553799a14fb2a15537d7f.jpg
+    alt:
+      en: "Two people in military camouflage uniforms unpack white containers from a cardboard box, with another open box nearby on a concrete surface."
 geo:
 id: 18734
 item_type: Still Image

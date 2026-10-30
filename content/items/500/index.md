@@ -26,6 +26,8 @@ files:
     original_filename: DSC00010a_372b578745.JPG
     thumb: /files/thumbnails/14fb2a6fae0ec214fb2a6fae12a0.jpg
     url: /files/original/14fb2a6fae0ec214fb2a6fae12a0.jpg
+    alt:
+      en: "Severe mold covers the walls of a small apartment, with a stained sofa, framed artwork, lamps, and scattered debris including window blinds and a tennis racket; timestamp reads \"OCT 29 2005.\""
 geo:
   address: ''
   lat: 29.9765724930298

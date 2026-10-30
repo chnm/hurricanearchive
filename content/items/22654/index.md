@@ -21,6 +21,8 @@ files:
     original_filename: PCDV0175Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d7f24514fb29f4d7f62c.jpg
     url: /files/original/14fb29f4d7f24514fb29f4d7f62c.jpg
+    alt:
+      en: "Row of military trucks with canvas tarps parked along a dirt road, with a damaged red car and buildings in the background under a partly cloudy sky."
 geo:
 id: 22654
 item_type: Still Image

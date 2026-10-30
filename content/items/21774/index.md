@@ -21,6 +21,8 @@ files:
     original_filename: katrina 044.jpg
     thumb: /files/thumbnails/14fb29fbcc554314fb29fbcc5929.jpg
     url: /files/original/14fb29fbcc554314fb29fbcc5929.jpg
+    alt:
+      en: "A smiling man in a U.S. Army camouflage uniform, cap, and sunglasses leans against a military truck, with a water bottle nearby and a timestamp reading \"3 2:03 PM\" in the corner."
 geo:
 id: 21774
 item_type: Still Image

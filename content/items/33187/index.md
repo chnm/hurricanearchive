@@ -23,6 +23,8 @@ files:
     original_filename: 1438867528_238964d4b0.
     thumb: /files/thumbnails/14fb29cbbdfd8e14fb29cbbe1ce0.jpg
     url: /files/original/14fb29cbbdfd8e14fb29cbbe1ce0.jpg
+    alt:
+      en: "Concrete steps and rubble remain where a church once stood, with a yellow and white banner in front, street lamps nearby, and a cloudy sky overhead."
 geo:
 id: 33187
 item_type: Still Image

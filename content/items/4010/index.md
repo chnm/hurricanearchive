@@ -21,6 +21,8 @@ files:
     original_filename: DSC01111.JPG
     thumb: /files/thumbnails/14fb2a5889661814fb2a588969f8.jpg
     url: /files/original/14fb2a5889661814fb2a588969f8.jpg
+    alt:
+      en: "A large propane tank, labeled \"FLAMMABLE,\" floats on floodwater in front of a BP gas station and \"Custom Cut Meats\" shop, with trees and power lines in the background."
 geo:
 id: 4010
 item_type: Still Image

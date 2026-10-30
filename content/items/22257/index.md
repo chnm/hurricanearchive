@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1068Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f898ab2a14fb29f898af0f.jpg
     url: /files/original/14fb29f898ab2a14fb29f898af0f.jpg
+    alt:
+      en: "Three silhouetted figures stand in heavy rain near a brick wall topped with barbed wire, one holding a radio, with fogged houses and power lines faintly visible behind them."
 geo:
 id: 22257
 item_type: Still Image

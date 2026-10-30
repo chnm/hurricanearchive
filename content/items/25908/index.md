@@ -20,6 +20,8 @@ files:
     original_filename: evacuee_stories4_59d0a49a1e.jpg
     thumb: /files/thumbnails/14fb29dbce92c314fb29dbce96a8.jpg
     url: /files/original/14fb29dbce92c314fb29dbce96a8.jpg
+    alt:
+      en: "Handwritten needs assessment form describing evacuation from a halfway house to Gulfport, Mississippi during Hurricane Katrina, listing needs for housing, food, clothing, and essentials."
 geo:
   address: 125 S Buchanan St, Lafayette, LA
   lat: 30.23045

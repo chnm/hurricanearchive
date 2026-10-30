@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0392.JPG
     thumb: /files/thumbnails/14fb2a54472cf414fb2a5447328f.jpg
     url: /files/original/14fb2a54472cf414fb2a5447328f.jpg
+    alt:
+      en: "A yellow tape measure spans a large wooden support post, showing roughly 10-11 inches of width, with a cleared, debris-strewn lot and damaged trees visible in the background."
 geo:
 id: 5047
 item_type: Still Image

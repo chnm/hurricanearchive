@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034cameronS&R.JPG
     thumb: /files/thumbnails/14fb29f03157d514fb29f0315bb1.jpg
     url: /files/original/14fb29f03157d514fb29f0315bb1.jpg
+    alt:
+      en: "Aerial view of a coastal community devastated by storm surge, with only scattered pilings and slabs remaining where homes once stood, surrounded by standing floodwater and a grid of empty streets."
 geo:
 id: 23269
 item_type: Still Image

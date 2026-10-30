@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27892.jpg
     thumb: /files/thumbnails/14fb2a6a6847de14fb2a6a684bb4.jpg
     url: /files/original/14fb2a6a6847de14fb2a6a684bb4.jpg
+    alt:
+      en: "A white and red American Red Cross Disaster Relief truck at night, with a volunteer handing food through a window to a small crowd of adults and children gathered outside."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Hanger 5-2 at NAS NONASneworleans.jpg
     thumb: /files/thumbnails/14fb29f255ed0114fb29f255f0d7.jpg
     url: /files/original/14fb29f255ed0114fb29f255f0d7.jpg
+    alt:
+      en: "Large hangar set up as a command center, with rows of desks, laptops, ladders, and whiteboards, military personnel at work, and state flags and a U.S. flag hanging on the wall."
 geo:
 id: 22979
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2291984102_bb8fb0bae3.
     thumb: /files/thumbnails/14fb29c99219de14fb29c9921d9d.jpg
     url: /files/original/14fb29c99219de14fb29c9921d9d.jpg
+    alt:
+      en: "Scattered wood debris and damaged vehicles under an elevated house, with a wrecked truck and partially buried car visible amid storm wreckage, houses and trees in the background."
 geo:
   address: ''
   lat: 30.22539

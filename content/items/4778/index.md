@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0477.JPG
     thumb: /files/thumbnails/14fb2a559e95d614fb2a559e99a8.jpg
     url: /files/original/14fb2a559e95d614fb2a559e99a8.jpg
+    alt:
+      en: "Storm-damaged trees stripped of leaves and snapped or leaning at angles, surrounded by scattered debris and broken branches covering the ground beneath a clear blue sky."
 geo:
 id: 4778
 item_type: Still Image

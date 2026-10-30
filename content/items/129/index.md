@@ -26,6 +26,8 @@ files:
     original_filename: Picture_054_87267c6a04.jpg
     thumb: /files/thumbnails/14fb2a70ea9b3b14fb2a70eaa3cb.jpg
     url: /files/original/14fb2a70ea9b3b14fb2a70eaa3cb.jpg
+    alt:
+      en: "Nighttime street scene with costumed figures, including a person in a blue hard hat wearing a white coat hand-lettered \"THE WATER IS FINE,\" amid motion-blurred lights and a parked car."
 geo:
   address: ''
   lat: 29.938343

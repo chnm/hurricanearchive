@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 125cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0db421e214fb2a0db425c9.jpg
     url: /files/original/14fb2a0db421e214fb2a0db425c9.jpg
+    alt:
+      en: "Sideways-oriented photo of a grassy roadside with a paved road edge, utility poles, scattered debris, trees, and a partially visible building in the background."
 geo:
 id: 19804
 item_type: Still Image

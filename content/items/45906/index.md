@@ -20,6 +20,8 @@ files:
     original_filename: MRE.jpg
     thumb: /files/thumbnails/335bbb761c6d9c58e77c6955e70b4ba8.jpg
     url: /files/original/335bbb761c6d9c58e77c6955e70b4ba8.jpg
+    alt:
+      en: "Assorted MRE components laid out on a bed, including crackers, peanut butter, vanilla dairyshake powder, M&M's, oatmeal cookie packets, and a foil pouch."
 geo:
   address: ''
   lat: 29.961094176695

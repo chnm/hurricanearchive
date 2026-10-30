@@ -21,6 +21,8 @@ files:
     original_filename: Picture 079.jpg
     thumb: /files/thumbnails/14fb29cc59c32014fb29cc59ca78.jpg
     url: /files/original/14fb29cc59c32014fb29cc59ca78.jpg
+    alt:
+      en: "Paved rural road lined with snapped and uprooted trees and storm debris on both sides, with a dark-colored vehicle visible ahead in the distance under a blue sky."
 geo:
 id: 30808
 item_type: Still Image

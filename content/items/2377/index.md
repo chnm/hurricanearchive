@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_DOLPHIN_RESCUE_05C91_b16526fbfd.jpg
     thumb: /files/thumbnails/14fb2a66d0aa0e14fb2a66d0adeb.jpg
     url: /files/original/14fb2a66d0aa0e14fb2a66d0adeb.jpg
+    alt:
+      en: "A group of people carry a large sling toward the Gulf waters on a sandy beach, with a U.S. Coast Guard helicopter marked \"6040\" parked nearby and a man filming with a video camera."
 geo:
 id: 2377
 item_type: Document

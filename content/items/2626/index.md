@@ -24,6 +24,8 @@ files:
     original_filename: 20060301_MG_0495.jpg
     thumb: /files/thumbnails/14fb2a63f095d614fb2a63f099ea.jpg
     url: /files/original/14fb2a63f095d614fb2a63f099ea.jpg
+    alt:
+      en: "Two people wear blue tarp costumes with signs reading \"FEMA came to New Orleans and all we got was this stinkin' TARP,\" standing on a doorstep decorated with purple and gold banners."
 geo:
 id: 2626
 item_type: Still Image

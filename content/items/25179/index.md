@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1791superdome.JPG
     thumb: /files/thumbnails/14fb29e169d85714fb29e169dc3a.jpg
     url: /files/original/14fb29e169d85714fb29e169dc3a.jpg
+    alt:
+      en: "A group of officials and military personnel, including a U.S. Army general in camouflage uniform, converse outdoors near a parked yellow helicopter and school bus in the background."
 geo:
 id: 25179
 item_type: Still Image

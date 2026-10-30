@@ -18,6 +18,8 @@ files:
     original_filename: 52_0c3a3021eb.jpg
     thumb: /files/thumbnails/14fb29c68e260814fb29c68e29ea.jpg
     url: /files/original/14fb29c68e260814fb29c68e29ea.jpg
+    alt:
+      en: "Four people pose together indoors in costume: a woman wearing yellow bull horns and a red dress, a man in a plaid shirt, a woman in a red headscarf and maroon jacket, and a woman in a red glove and polka-dot top in the foreground."
 geo:
   address: new orleans, la
   lat: 29.95324

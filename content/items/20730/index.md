@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0066-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a04376c6e14fb2a04377059.jpg
     url: /files/original/14fb2a04376c6e14fb2a04377059.jpg
+    alt:
+      en: "Aerial view of extensive flooding with scattered, partially submerged trees and debris across inundated land, a large white cylindrical tank floating in the water, and a wooded tree line in the background."
 geo:
 id: 20730
 item_type: Still Image

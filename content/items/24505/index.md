@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0106H.JPG
     thumb: /files/thumbnails/14fb29e737bdf114fb29e737c1d7.jpg
     url: /files/original/14fb29e737bdf114fb29e737c1d7.jpg
+    alt:
+      en: "A group of five smiling young women in matching \"Hooters\" tank tops pose with a man in military camouflage uniform and beret, string lights visible in the dark background."
 geo:
 id: 24505
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 336697432_70c279d358.jpg
     thumb: /files/thumbnails/14fb29d55c377d14fb29d55c392a.jpg
     url: /files/original/14fb29d55c377d14fb29d55c392a.jpg
+    alt:
+      en: "Storm-damaged lot with a mangled chain-link fence and scattered debris, bare trees, and a large rusted red barge marked \"4127\" looming in the background under a cloudy sky."
 geo:
 id: 27305
 item_type: Still Image

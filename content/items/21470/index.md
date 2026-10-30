@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0269-9-25.JPG
     thumb: /files/thumbnails/14fb29fe7b7b7c14fb29fe7bb30a.jpg
     url: /files/original/14fb29fe7b7b7c14fb29fe7bb30a.jpg
+    alt:
+      en: "Aerial view of a flooded roadway and intersection with several vehicles partially submerged, surrounded by trees, grassy fields, and a building roof in the foreground."
 geo:
 id: 21470
 item_type: Still Image

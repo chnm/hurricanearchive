@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2011superdome.JPG
     thumb: /files/thumbnails/14fb29df66560414fb29df665d30.jpg
     url: /files/original/14fb29df66560414fb29df665d30.jpg
+    alt:
+      en: "Military personnel assist elderly evacuees, one in a wheelchair and another with a walker, near an Acadian Shuttle van from Lake Charles Memorial Hospital in a parking lot."
 geo:
 id: 25284
 item_type: Still Image

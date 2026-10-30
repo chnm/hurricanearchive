@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2130superdome.JPG
     thumb: /files/thumbnails/14fb29e4a0694914fb29e4a06d28.jpg
     url: /files/original/14fb29e4a0694914fb29e4a06d28.jpg
+    alt:
+      en: "Flooded parking structure with military trucks and a small boat carrying survivors and a dog, as soldiers and a sheriff's deputy assist; a \"Bally's Casino New Orleans\" bag hangs in the foreground."
 geo:
 id: 24808
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 081.jpg
     thumb: /files/thumbnails/14fb2a1278b63d14fb2a1278bcda.jpg
     url: /files/original/14fb2a1278b63d14fb2a1278bcda.jpg
+    alt:
+      en: "Empty intersection with an equestrian statue on a pedestal in a landscaped median, surrounded by storm-damaged trees with broken limbs, under a clear blue sky."
 geo:
 id: 19171
 item_type: Still Image

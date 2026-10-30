@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eae0b64c14fb29eae0ba2f.jpg
     url: /files/original/14fb29eae0b64c14fb29eae0ba2f.jpg
+    alt:
+      en: "Aerial view of a flood-ravaged coastal town with a water tower labeled \"HERON,\" surrounded by debris-strewn, flooded streets, damaged buildings, and bare trees stretching toward marshland."
 geo:
 id: 24096
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0545Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f522355714fb29f52238dd.jpg
     url: /files/original/14fb29f522355714fb29f52238dd.jpg
+    alt:
+      en: "A van is nearly submerged in floodwater beside a wrought-iron fence, viewed from inside another vehicle with a white roof in the foreground during heavy rain."
 geo:
 id: 22594
 item_type: Still Image

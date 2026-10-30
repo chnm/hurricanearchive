@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0569.JPG
     thumb: /files/thumbnails/14fb2a5693bd5914fb2a5693c13e.jpg
     url: /files/original/14fb2a5693bd5914fb2a5693c13e.jpg
+    alt:
+      en: "A concrete cinder block sits amid a pile of storm debris, including scattered branches, a wooden stick, a dark storage bin, and broken household items on bare, trampled ground."
 geo:
 id: 4640
 item_type: Still Image

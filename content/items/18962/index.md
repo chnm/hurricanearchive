@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2124rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13f8047714fb2a13f8080f.jpg
     url: /files/original/14fb2a13f8047714fb2a13f8080f.jpg
+    alt:
+      en: "Military medical helicopter marked \"2431\" with a red cross landed on a rooftop painted with \"HELP,\" surrounded by floodwater and damaged buildings, with a crew member standing nearby."
 geo:
 id: 18962
 item_type: Still Image

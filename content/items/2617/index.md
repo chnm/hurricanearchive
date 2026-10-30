@@ -24,6 +24,8 @@ files:
     original_filename: 20060210_MG_0472.jpg
     thumb: /files/thumbnails/14fb2a641ce35d14fb2a641ce742.jpg
     url: /files/original/14fb2a641ce35d14fb2a641ce742.jpg
+    alt:
+      en: "Back view of a person wearing a straw hat topped with foil and a hatband reading \"I ♥ NEW ORLEANS,\" over a brown embroidered jacket decorated with a heart and the painted text \"I ♥ the Chocolate City,\" street scene in background."
 geo:
 id: 2617
 item_type: Still Image

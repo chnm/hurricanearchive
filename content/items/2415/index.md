@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C3M_125f154ee6.jpg
     thumb: /files/thumbnails/14fb2a66906faf14fb2a66907395.jpg
     url: /files/original/14fb2a66906faf14fb2a66907395.jpg
+    alt:
+      en: "A Coast Guard officer in a life vest and ball cap sits in the foreground of a boat, while workers and a containment boom are visible on calm water near a marshy, tree-lined shoreline."
 geo:
 id: 2415
 item_type: Still Image

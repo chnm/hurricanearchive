@@ -21,6 +21,8 @@ files:
     original_filename: More Jackson Barracks 7Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4dc85db14fb29f4dc89c0.jpg
     url: /files/original/14fb29f4dc85db14fb29f4dc89c0.jpg
+    alt:
+      en: "Floodwater submerges the grounds around a white two-story building with columned porches, with debris and a partially submerged vehicle roof floating in the murky water, viewed from a sheltered vantage point."
 geo:
 id: 22648
 item_type: Still Image

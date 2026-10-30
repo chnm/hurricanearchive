@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0013_636b2b8302.JPG
     thumb: /files/thumbnails/14fb2a7009911f14fb2a70099514.jpg
     url: /files/original/14fb2a7009911f14fb2a70099514.jpg
+    alt:
+      en: "A white sedan is crushed beneath fallen trees and tangled branches, its windshield and hood obscured by debris after storm damage."
 geo:
   address: ''
   lat: 30.4534091302036

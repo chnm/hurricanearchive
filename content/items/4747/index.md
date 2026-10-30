@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0257.JPG
     thumb: /files/thumbnails/14fb2a55c38b0514fb2a55c38f04.jpg
     url: /files/original/14fb2a55c38b0514fb2a55c38f04.jpg
+    alt:
+      en: "Damaged kitchen with grime-streaked white cabinets, a stove with pots on top and oven door ajar, a microwave above, and stacked plastic cups and a trash bag on the counter."
 geo:
 id: 4747
 item_type: Still Image

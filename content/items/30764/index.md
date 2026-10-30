@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7594.JPG
     thumb: /files/thumbnails/14fb29cc910bf514fb29cc910fd9.jpg
     url: /files/original/14fb29cc910bf514fb29cc910fd9.jpg
+    alt:
+      en: "View from inside a vehicle crossing a bridge, with a New Orleans Saints fleur-de-lis decal on the window, a billboard structure, and a building reading \"ArtEgg Studios\" visible through the side mirror."
 geo:
 id: 30764
 item_type: Still Image

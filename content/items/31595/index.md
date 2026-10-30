@@ -21,6 +21,8 @@ files:
     original_filename: 112206NOLA086RWlg_4f2c037d49.jpg
     thumb: /files/thumbnails/14fb29cc1b5f7314fb29cc1b6740.jpg
     url: /files/original/14fb29cc1b5f7314fb29cc1b6740.jpg
+    alt:
+      en: "Black-and-white photo of a woman singing with an open mouth while playing an electronic keyboard, seated indoors with pillows and an amplifier visible behind her."
 geo:
 id: 31595
 item_type: Still Image

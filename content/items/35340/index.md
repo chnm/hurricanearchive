@@ -18,6 +18,8 @@ files:
     original_filename: 79_9da0217944.jpg
     thumb: /files/thumbnails/14fb29c63d061514fb29c63d09fa.jpg
     url: /files/original/14fb29c63d061514fb29c63d09fa.jpg
+    alt:
+      en: "Five people in festive attire, several wearing Santa hats, pose outside a yellow building with two \"Frady's One Stop Food Store\" signs; one woman wears a white feathered costume and holds a red bag."
 geo:
   address: new orleans, la
   lat: 29.95324

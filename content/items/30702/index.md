@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7399.JPG
     thumb: /files/thumbnails/14fb29cccb3e0114fb29cccb41e7.jpg
     url: /files/original/14fb29cccb3e0114fb29cccb41e7.jpg
+    alt:
+      en: "Sunlit wooded area with tall trees and dense undergrowth, featuring several broken and fallen branches scattered among the greenery, likely indicating storm damage."
 geo:
 id: 30702
 item_type: Still Image

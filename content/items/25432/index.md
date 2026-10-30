@@ -21,6 +21,8 @@ files:
     original_filename: Under the Superdome 5superdome.jpg
     thumb: /files/thumbnails/14fb29ddd2bdc814fb29ddd3240f.jpg
     url: /files/original/14fb29ddd2bdc814fb29ddd3240f.jpg
+    alt:
+      en: "Dark, grainy photo taken from above showing figures partially visible in shadow beneath an angular concrete structure, with a lit balcony and onlookers visible in the background."
 geo:
 id: 25432
 item_type: Still Image

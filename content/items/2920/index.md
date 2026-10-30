@@ -21,6 +21,8 @@ files:
     original_filename: MVC-009S.JPG
     thumb: /files/thumbnails/14fb2a5f957d7e14fb2a5f958164.jpg
     url: /files/original/14fb2a5f957d7e14fb2a5f958164.jpg
+    alt:
+      en: "White metal shelving holds a FedEx box, model ship and plane kits (including Grumman Hellcat and HMS King George V), and a stack of gray and red helmets on the lower shelf, with cardboard boxes in the background."
 geo:
 id: 2920
 item_type: Still Image

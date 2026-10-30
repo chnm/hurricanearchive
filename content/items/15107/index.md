@@ -21,6 +21,8 @@ files:
     original_filename: NCC Grad 5 05-2_bb2316404b.jpg
     thumb: /files/thumbnails/14fb2a171b598714fb2a171b5cbe.jpg
     url: /files/original/14fb2a171b598714fb2a171b5cbe.jpg
+    alt:
+      en: "A crowd of graduates in black caps and gowns with teal tassels marked \"05,\" one woman wearing a gold honor cord, gathered closely together at a graduation ceremony."
 geo:
 id: 15107
 item_type: Still Image

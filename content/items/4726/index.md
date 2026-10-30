@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0073.JPG
     thumb: /files/thumbnails/14fb2a55e6bd4a14fb2a55e6c233.jpg
     url: /files/original/14fb2a55e6bd4a14fb2a55e6c233.jpg
+    alt:
+      en: "Debris field with scattered rubble, broken trees, and a pink bicycle leaning against a large tree trunk, with a dark dumpster at left under a clear blue sky."
 geo:
 id: 4726
 item_type: Still Image

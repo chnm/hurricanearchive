@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7132_771107676f.jpg
     thumb: /files/thumbnails/14fb29d376b57114fb29d376b951.jpg
     url: /files/original/14fb29d376b57114fb29d376b951.jpg
+    alt:
+      en: "Three children in swimsuits and goggles jump or stand along a backyard pool's edge, with a wooden fence and green trees in the background."
 geo:
   address: ''
   lat: 29.87876

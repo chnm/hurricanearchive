@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 102cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e35b06714fb2a0e35b44c.jpg
     url: /files/original/14fb2a0e35b06714fb2a0e35b44c.jpg
+    alt:
+      en: "A fallen tree branch leans across a damaged white picket fence, surrounded by scattered debris, fallen leaves, and overgrown shrubs in a storm-damaged yard with a house visible in the background."
 geo:
 id: 19715
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: george shooting.jpg
     thumb: /files/thumbnails/14fb2a2055b39f14fb2a2055b785.jpg
     url: /files/original/14fb2a2055b39f14fb2a2055b785.jpg
+    alt:
+      en: "Sideways view of a person in a yellow rain jacket and helmet, seen through a window, with foggy or rainy conditions and a crane structure visible in the background."
 geo:
 id: 13115
 item_type: Still Image

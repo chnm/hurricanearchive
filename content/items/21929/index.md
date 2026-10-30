@@ -21,6 +21,8 @@ files:
     original_filename: Picture 260-J2.jpg
     thumb: /files/thumbnails/14fb29faf335e214fb29faf339c9.jpg
     url: /files/original/14fb29faf335e214fb29faf339c9.jpg
+    alt:
+      en: "Water gushes forcefully from a pipe into a frothy, foam-covered basin surrounded by concrete walls, with bare trees and a blue sky visible in the background."
 geo:
 id: 21929
 item_type: Still Image

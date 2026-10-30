@@ -20,6 +20,8 @@ files:
     original_filename: 2298631134_76547b703f.
     thumb: /files/thumbnails/14fb29c79250f714fb29c792524f.jpg
     url: /files/original/14fb29c79250f714fb29c792524f.jpg
+    alt:
+      en: "A group of people gather in a gravel lot near disassembled bicycles and a downed tree pile, with a person standing on a wooden crate beside a storage container and chain-link fence."
 geo:
 id: 35005
 item_type: Still Image

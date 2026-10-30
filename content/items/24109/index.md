@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea91a93814fb29ea91ad0e.jpg
     url: /files/original/14fb29ea91a93814fb29ea91ad0e.jpg
+    alt:
+      en: "A worker in camouflage clothing and an orange hard hat uses a chainsaw to cut a fallen tree while several news photographers and videographers film the scene from a storm-damaged yard."
 geo:
 id: 24109
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: pt_front_lkrrm_e6965ebaf9.jpg
     thumb: /files/thumbnails/14fb29d58b808114fb29d58b84dd.jpg
     url: /files/original/14fb29d58b808114fb29d58b84dd.jpg
+    alt:
+      en: "Debris-filled locker room with doors knocked askew, scattered papers, overturned containers, and storm wreckage covering the floor; daylight visible through a damaged exterior wall."
 geo:
   address: ''
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: Image7_b7b82fde85.png
     thumb: /files/thumbnails/14fb29c1ea8f3614fb29c1ea999b.jpg
     url: /files/original/14fb29c1ea8f3614fb29c1ea999b.jpg
+    alt:
+      en: "Street view of a single-story brick house with a tree-filled front yard, a red van parked at the curb, and a silver truck visible in the driveway beyond."
 geo:
   address: 5008 Janice Avenue Kenner, Louisiana
   lat: 0.0

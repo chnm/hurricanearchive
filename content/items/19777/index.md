@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 164cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd7503714fb2a0dd7541d.jpg
     url: /files/original/14fb2a0dd7503714fb2a0dd7541d.jpg
+    alt:
+      en: "Dirt-covered vehicles, including a black Jeep Wrangler and white sedan, parked on a lawn near a brick building, with uniformed personnel and a military truck visible in the background."
 geo:
 id: 19777
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0212.JPG
     thumb: /files/thumbnails/14fb2a09905ff214fb2a09906325.jpg
     url: /files/original/14fb2a09905ff214fb2a09906325.jpg
+    alt:
+      en: "Aerial view of a coastal neighborhood devastated by storm damage, with rows of houses stripped to foundations and debris on one side, while structures across a tree-lined street remain more intact, near a waterfront."
 geo:
 id: 20311
 item_type: Still Image

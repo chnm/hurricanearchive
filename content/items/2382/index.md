@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_RITA_05C7V_4f6767688a.jpg
     thumb: /files/thumbnails/14fb2a66ca010c14fb2a66ca099b.jpg
     url: /files/original/14fb2a66ca010c14fb2a66ca099b.jpg
+    alt:
+      en: "A heavily congested roadway filled with cars, trucks, and an \"El Monte RV\" vehicle, with a man in sunglasses and a dark shirt walking between lanes of stopped traffic."
 geo:
 id: 2382
 item_type: Still Image

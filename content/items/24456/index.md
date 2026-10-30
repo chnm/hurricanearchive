@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0097-9-25.JPG
     thumb: /files/thumbnails/14fb29e792dbc714fb29e792df7b.jpg
     url: /files/original/14fb29e792dbc714fb29e792df7b.jpg
+    alt:
+      en: "Aerial view of widespread flooding submerging a small community, with damaged homes, downed trees, and scattered debris surrounded by marshland and water extending to the horizon."
 geo:
 id: 24456
 item_type: Still Image

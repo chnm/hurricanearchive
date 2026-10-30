@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0140-9-25.JPG
     thumb: /files/thumbnails/14fb2a02255e5214fb2a022565f8.jpg
     url: /files/original/14fb2a02255e5214fb2a022565f8.jpg
+    alt:
+      en: "Aerial view of a storm-damaged house with a partially collapsed roof surrounded by floodwater and debris, with bare, broken trees scattered across the submerged landscape."
 geo:
 id: 20889
 item_type: Still Image

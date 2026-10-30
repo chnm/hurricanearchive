@@ -21,6 +21,8 @@ files:
     original_filename: slidel 100505.jpg
     thumb: /files/thumbnails/14fb29dd9c951814fb29dd9c99e6.jpg
     url: /files/original/14fb29dd9c951814fb29dd9c99e6.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood along a waterway, with many homes covered by blue tarps, debris piles lining the streets and yards, and two sailboats grounded on land near a street."
 geo:
 id: 25446
 item_type: Still Image

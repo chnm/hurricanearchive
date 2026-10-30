@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 108cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e325d1114fb2a0e326102.jpg
     url: /files/original/14fb2a0e325d1114fb2a0e326102.jpg
+    alt:
+      en: "Debris-strewn street with a railroad crossing sign, downed power lines, a water tower labeled \"Arabi,\" and a minivan parked near damaged white buildings with red trim."
 geo:
 id: 19721
 item_type: Still Image

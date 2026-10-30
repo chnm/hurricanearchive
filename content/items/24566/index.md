@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0118-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e695656b14fb29e6956950.jpg
     url: /files/original/14fb29e695656b14fb29e6956950.jpg
+    alt:
+      en: "A soldier in camouflage uniform and a man in a white t-shirt and camo shorts walk along a gravel path beside floodwaters with tall reeds and damaged trees in the background."
 geo:
 id: 24566
 item_type: Still Image

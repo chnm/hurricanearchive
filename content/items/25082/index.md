@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1668superdome.JPG
     thumb: /files/thumbnails/14fb29e2748dbf14fb29e27491a5.jpg
     url: /files/original/14fb29e2748dbf14fb29e27491a5.jpg
+    alt:
+      en: "Soldiers in camouflage walk across a parking lot toward stairs leading into the Louisiana Superdome, where crowds of people gather near the entrance and along an upper walkway."
 geo:
 id: 25082
 item_type: Still Image

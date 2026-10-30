@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0051.JPG
     thumb: /files/thumbnails/14fb2a56b3e72f14fb2a56b4259a.jpg
     url: /files/original/14fb2a56b3e72f14fb2a56b4259a.jpg
+    alt:
+      en: "Storm-damaged yard with a large fallen tree leaning against a wooden fence, scattered debris covering the ground, and a gray car with Virginia plate JTB-8035 parked in the foreground."
 geo:
 id: 4625
 item_type: Still Image

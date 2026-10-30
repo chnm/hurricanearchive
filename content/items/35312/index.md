@@ -18,6 +18,8 @@ files:
     original_filename: 47_1862575f9c.jpg
     thumb: /files/thumbnails/14fb29c6ad743a14fb29c6ad7820.jpg
     url: /files/original/14fb29c6ad743a14fb29c6ad7820.jpg
+    alt:
+      en: "A woman in a showgirl-style costume with a feathered blue headdress, rhinestone tiara, strapless top, white boas, and blue-trimmed stockings stands smiling in a doorway with arms outstretched."
 geo:
   address: new orleans, la
   lat: 29.95324

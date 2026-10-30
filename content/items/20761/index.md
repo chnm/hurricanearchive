@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0072M.JPG
     thumb: /files/thumbnails/14fb2a04108b3314fb2a04109676.jpg
     url: /files/original/14fb2a04108b3314fb2a04109676.jpg
+    alt:
+      en: "A man in a woodland camouflage military uniform with the nametape \"ALLEMAN\" sits in an office chair, hand on chin, looking thoughtfully at a computer monitor."
 geo:
 id: 20761
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300207neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecba888414fb29ecba8c66.jpg
     url: /files/original/14fb29ecba888414fb29ecba8c66.jpg
+    alt:
+      en: "Flames and smoke rise from the roof of a white house with gray siding, partially obscured by dense green tree branches in the foreground."
 geo:
 id: 23858
 item_type: Still Image

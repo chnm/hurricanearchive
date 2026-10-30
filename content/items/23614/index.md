@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1635neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee740d8614fb29ee74116c.jpg
     url: /files/original/14fb29ee740d8614fb29ee74116c.jpg
+    alt:
+      en: "Large crowd of evacuees walking along an elevated highway carrying bags and mattresses, with an ambulance, Sheriff's vehicle, and pickup trucks nearby; overhead signs read \"I-10 West Baton Rouge,\" \"I-10 East Slidell,\" and \"90 East Claiborne Ave.\""
 geo:
 id: 23614
 item_type: Still Image

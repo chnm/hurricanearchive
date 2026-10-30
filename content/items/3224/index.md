@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (71).JPG
     thumb: /files/thumbnails/14fb2a5d34d47c14fb2a5d34db9f.jpg
     url: /files/original/14fb2a5d34d47c14fb2a5d34db9f.jpg
+    alt:
+      en: "Chairs and discarded furniture piled along a curb beneath a blue awning marked \"2820 Canal Street Cardiology Associates,\" with colorful barrels and debris nearby."
 geo:
 id: 3224
 item_type: Still Image

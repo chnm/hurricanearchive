@@ -21,6 +21,8 @@ files:
     original_filename: 100_0270.JPG
     thumb: /files/thumbnails/14fb2a5ec5c95314fb2a5ec5cd39.jpg
     url: /files/original/14fb2a5ec5c95314fb2a5ec5cd39.jpg
+    alt:
+      en: "A decommissioned submarine rests on wooden supports on land, its rusted lower hull contrasting with the painted white upper deck, conning tower, and periscopes against a clear blue sky."
 geo:
 id: 3021
 item_type: Still Image

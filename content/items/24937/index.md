@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1434superdome.JPG
     thumb: /files/thumbnails/14fb29e3b2bd7e14fb29e3b2c146.jpg
     url: /files/original/14fb29e3b2bd7e14fb29e3b2c146.jpg
+    alt:
+      en: "Olive-green military transport truck with canvas top drives through floodwater, headlight on, license plate reading \"225 GP 528 E,\" as civilian cars and onlookers appear in the background."
 geo:
 id: 24937
 item_type: Still Image

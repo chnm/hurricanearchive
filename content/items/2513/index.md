@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8653.jpg
     thumb: /files/thumbnails/14fb2a65cbde4014fb2a65cbe22f.jpg
     url: /files/original/14fb2a65cbde4014fb2a65cbe22f.jpg
+    alt:
+      en: "Handwritten \"Welcome Home Needs\" list taped with duct tape to a cardboard-wrapped tree trunk, listing supplies like potatoes, eggs, onions, blankets, and tarps, with stacked boxes and a columned house in the background."
 geo:
 id: 2513
 item_type: Still Image

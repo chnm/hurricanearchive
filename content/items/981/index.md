@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28428.jpg
     thumb: /files/thumbnails/14fb2a6b8cbd6514fb2a6b8cc143.jpg
     url: /files/original/14fb2a6b8cbd6514fb2a6b8cc143.jpg
+    alt:
+      en: "A lone white plastic chair stands amid storm debris and fallen branches, with a brick pillar and remnants of a low wall nearby, and bare, damaged trees in the background."
 geo:
   address: ''
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: 2457566236_64a936ba39.
     thumb: /files/thumbnails/14fb29c8d24cc614fb29c8d250ac.jpg
     url: /files/original/14fb29c8d24cc614fb29c8d250ac.jpg
+    alt:
+      en: "Aerial view of a large green cargo barge or ship labeled \"MISR SHIPPING LINE\" with open cargo holds, a crane lowering a grappling claw, and an inset photo of a dockside crane structure."
 geo:
 id: 34874
 item_type: Still Image

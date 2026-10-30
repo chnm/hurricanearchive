@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28557.jpg
     thumb: /files/thumbnails/14fb2a6a96d97514fb2a6a96dd65.jpg
     url: /files/original/14fb2a6a96d97514fb2a6a96dd65.jpg
+    alt:
+      en: "Debris-strewn street lined with damaged houses, a leaning utility pole, and scattered wreckage under a partly cloudy sky in the Lakeview District."
 geo:
   address: ''
   lat: 0.0

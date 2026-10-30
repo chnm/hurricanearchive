@@ -21,6 +21,8 @@ files:
     original_filename: looking south end2.jpg
     thumb: /files/thumbnails/14fb2a2039f14e14fb2a2039f627.jpg
     url: /files/original/14fb2a2039f14e14fb2a2039f627.jpg
+    alt:
+      en: "Foggy, rain-soaked city street viewed from an elevated balcony, with debris scattered on the pavement, bare trees, boarded-up storefronts, and buildings fading into heavy mist in the distance."
 geo:
 id: 13129
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials90.jpg
     thumb: /files/thumbnails/14fb2a1975549314fb2a1975a2bc.jpg
     url: /files/original/14fb2a1975549314fb2a1975a2bc.jpg
+    alt:
+      en: "Aerial view of a wooded area with widespread tree damage and scattered debris, likely from storm destruction, with sparse remnants of structures visible among the trees."
 geo:
 id: 14381
 item_type: Still Image

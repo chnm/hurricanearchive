@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0226-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff87e92e14fb29ff87ec72.jpg
     url: /files/original/14fb29ff87e92e14fb29ff87ec72.jpg
+    alt:
+      en: "Aerial view of a rural property with a ranch-style house, small shed, carport with rusted roof panels, and a mobile home, surrounded by fields with visible flood staining and a paved road in front."
 geo:
 id: 21317
 item_type: Still Image

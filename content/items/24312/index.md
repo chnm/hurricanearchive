@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-05-3A.jpg
     thumb: /files/thumbnails/14fb29e8c4cacd14fb29e8c4ceb2.jpg
     url: /files/original/14fb29e8c4cacd14fb29e8c4ceb2.jpg
+    alt:
+      en: "Aerial view of a wooded suburban landscape bisected by a multi-lane highway, with scattered houses, a golf course, warehouse-like buildings, and hazy sky above the tree canopy."
 geo:
 id: 24312
 item_type: Still Image

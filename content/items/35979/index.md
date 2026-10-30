@@ -20,6 +20,8 @@ files:
     original_filename: US 90 04_4bf28c4612.JPG
     thumb: /files/thumbnails/14fb29c5d3405214fb29c5d34438.jpg
     url: /files/original/14fb29c5d3405214fb29c5d34438.jpg
+    alt:
+      en: "Remains of a demolished Waffle House restaurant, with only a broken brick wall and tiled counter stools left standing beneath its tall \"Waffle House\" sign, ocean visible in the background."
 geo:
   address: Gulfport
   lat: 30.10712

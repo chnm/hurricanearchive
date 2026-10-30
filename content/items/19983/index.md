@@ -21,6 +21,8 @@ files:
     original_filename: Picture 080cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bd5353114fb2a0bd53917.jpg
     url: /files/original/14fb2a0bd5353114fb2a0bd53917.jpg
+    alt:
+      en: "Military Humvees travel along a flooded highway, with a green overhead sign reading \"St South\" and \"...r Blvd East\" visible in the distance ahead."
 geo:
 id: 19983
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0169Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4cb17cd14fb29f4cb1bb2.jpg
     url: /files/original/14fb29f4cb17cd14fb29f4cb1bb2.jpg
+    alt:
+      en: "A single-story house with a discolored roof stands behind a large pile of water-damaged furniture, mattresses, and household items dumped on the curb, dated 09.15.2005."
 geo:
 id: 22673
 item_type: Still Image

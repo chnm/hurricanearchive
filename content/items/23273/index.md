@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29f02c837514fb29f02c8753.jpg
     url: /files/original/14fb29f02c837514fb29f02c8753.jpg
+    alt:
+      en: "Aerial view of a narrow, winding strip of marshland and barrier island surrounded by flat, calm water, with a small structure visible near the shoreline."
 geo:
 id: 23273
 item_type: Still Image

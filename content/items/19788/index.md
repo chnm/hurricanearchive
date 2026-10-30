@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 175cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd0216d14fb2a0dd024b2.jpg
     url: /files/original/14fb2a0dd0216d14fb2a0dd024b2.jpg
+    alt:
+      en: "High-rise office building facade with a grid of windows, many showing storm damage—broken glass, debris, and exposed window coverings scattered across multiple floors."
 geo:
 id: 19788
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: deadfridges_3cb1e2a2d9.jpg
     thumb: /files/thumbnails/14fb2a70517ec314fb2a70518447.jpg
     url: /files/original/14fb2a70517ec314fb2a70518447.jpg
+    alt:
+      en: "A row of discarded refrigerators wrapped with tape lines a sidewalk beside parked cars, with piles of debris, trash bags, and cardboard in the foreground and apartment buildings in the background."
 geo:
   address: ''
   lat: 29.9493569965946

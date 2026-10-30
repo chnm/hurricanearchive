@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0118_a93e9991f1.JPG
     thumb: /files/thumbnails/14fb2a7104e65814fb2a7104e9fe.jpg
     url: /files/original/14fb2a7104e65814fb2a7104e9fe.jpg
+    alt:
+      en: "Two people in gray wigs wear costumes resembling GE refrigerators, one marked with handwritten text \"VOODOO TODAY 5\" and the other spray-painted with an orange X, photographed at night."
 geo:
   address: ''
   lat: 29.938343

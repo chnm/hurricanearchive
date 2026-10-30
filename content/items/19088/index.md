@@ -21,6 +21,8 @@ files:
     original_filename: TOK20509140235-big.jpg
     thumb: /files/thumbnails/14fb2a1335883114fb2a13358c24.jpg
     url: /files/original/14fb2a1335883114fb2a13358c24.jpg
+    alt:
+      en: "A four-engine military cargo plane flies low over a flooded residential neighborhood, with houses partially submerged near a wide expanse of floodwater and trees under hazy skies."
 geo:
 id: 19088
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d12859614fb2a0d128952.jpg
     url: /files/original/14fb2a0d12859614fb2a0d128952.jpg
+    alt:
+      en: "A soldier in camouflage uniform with a name tag reading \"STAHL\" writes on a notepad while two men, one wearing a white hard hat, look on; trucks and a grassy field are visible in the background."
 geo:
 id: 19866
 item_type: Still Image

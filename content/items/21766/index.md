@@ -21,6 +21,8 @@ files:
     original_filename: katrina 034.jpg
     thumb: /files/thumbnails/14fb29fbe366d014fb29fbe36aab.jpg
     url: /files/original/14fb29fbe366d014fb29fbe36aab.jpg
+    alt:
+      en: "Military Humvees parked beside a small building at sunset, with a plume of dark smoke rising in the distance beyond an elevated highway; a \"CAUTION\" sign is visible on one vehicle."
 geo:
 id: 21766
 item_type: Still Image

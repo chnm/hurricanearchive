@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0076H.JPG
     thumb: /files/thumbnails/14fb2a03d125d814fb2a03d129be.jpg
     url: /files/original/14fb2a03d125d814fb2a03d129be.jpg
+    alt:
+      en: "Two women in \"Hooters\" branded tank tops and orange shorts play foosball with two men at a table lined with soda cans, while others mingle in a dim room with a pool table visible behind them."
 geo:
 id: 20778
 item_type: Still Image

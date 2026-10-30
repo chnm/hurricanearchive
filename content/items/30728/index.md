@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7425.JPG
     thumb: /files/thumbnails/14fb29cca8e27214fb29cca8ef1d.jpg
     url: /files/original/14fb29cca8e27214fb29cca8ef1d.jpg
+    alt:
+      en: "A man in a purple \"LSU Computer Science\" t-shirt and blue cap stands with hands on hips, surveying a large fallen tree and scattered branches covering the ground in a wooded area."
 geo:
 id: 30728
 item_type: Still Image

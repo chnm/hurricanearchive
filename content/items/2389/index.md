@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_COAST_GUARD_AS_05CHY_2e65ca6128.jpg
     thumb: /files/thumbnails/14fb2a66c231c014fb2a66c23964.jpg
     url: /files/original/14fb2a66c231c014fb2a66c23964.jpg
+    alt:
+      en: "A Coast Guard officer in a cap and sunglasses writes a date on an orange \"Notice to Vessel Owner\" sticker affixed to the weathered white hull of the fishing vessel Binh Minh."
 geo:
 id: 2389
 item_type: Still Image

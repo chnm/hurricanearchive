@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7475.JPG
     thumb: /files/thumbnails/14fb29cc92adde14fb29cc92b1b9.jpg
     url: /files/original/14fb29cc92adde14fb29cc92b1b9.jpg
+    alt:
+      en: "Numerous fallen pine trees and tangled branches block a roadway, with a partially obscured wooden sign reading \"HOLE\" visible amid the debris, photographed from inside a vehicle."
 geo:
 id: 30761
 item_type: Still Image

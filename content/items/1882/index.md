@@ -26,6 +26,8 @@ files:
     original_filename: Katrina_022_8066ef352a.jpg
     thumb: /files/thumbnails/14fb2a6e73d6ec14fb2a6e73debb.jpg
     url: /files/original/14fb2a6e73d6ec14fb2a6e73debb.jpg
+    alt:
+      en: "A man stands with arms outstretched atop a massive fallen oak tree's trunk, its splintered branches and dried leaves spread across the ground amid surrounding trees."
 geo:
   address: ''
   lat: 51.027576337802394

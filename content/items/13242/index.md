@@ -21,6 +21,8 @@ files:
     original_filename: closeup me on the phone.jpg
     thumb: /files/thumbnails/14fb2a1ec51c2a14fb2a1ec57612.jpg
     url: /files/original/14fb2a1ec51c2a14fb2a1ec57612.jpg
+    alt:
+      en: "Close-up of a person wearing a blue hooded rain jacket and glasses, smiling while holding a phone to their ear, with a blurred outdoor background."
 geo:
 id: 13242
 item_type: Still Image

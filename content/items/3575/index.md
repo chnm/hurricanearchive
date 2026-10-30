@@ -24,6 +24,8 @@ files:
     original_filename: P1010150.JPG
     thumb: /files/thumbnails/14fb2a5abf2d0f14fb2a5abf30f5.jpg
     url: /files/original/14fb2a5abf2d0f14fb2a5abf30f5.jpg
+    alt:
+      en: "A massive pile of hurricane debris lines a paved path behind orange plastic fencing, with two people walking along the path and a red car and yard signs visible on the opposite side."
 geo:
 id: 3575
 item_type: Still Image

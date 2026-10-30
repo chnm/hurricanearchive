@@ -21,6 +21,8 @@ files:
     original_filename: FH000016.jpg
     thumb: /files/thumbnails/14fb29fc69b74c14fb29fc69bb29.jpg
     url: /files/original/14fb29fc69b74c14fb29fc69bb29.jpg
+    alt:
+      en: "A collapsed brick wall lies in rubble beside a leaning utility pole, with an intact brick wall continuing along the street and trees lining both sides."
 geo:
 id: 21688
 item_type: Still Image

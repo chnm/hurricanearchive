@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28239.jpg
     thumb: /files/thumbnails/14fb2a68257f2914fb2a68258306.jpg
     url: /files/original/14fb2a68257f2914fb2a68258306.jpg
+    alt:
+      en: "Empty parking lot in front of a Wal-Mart building, with several green dumpsters and white tents visible near the store, under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

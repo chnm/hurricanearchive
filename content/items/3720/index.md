@@ -21,6 +21,8 @@ files:
     original_filename: Church 2.jpg
     thumb: /files/thumbnails/14fb2a5a001bb714fb2a5a001f9b.jpg
     url: /files/original/14fb2a5a001bb714fb2a5a001f9b.jpg
+    alt:
+      en: "Brick church facade with white columns supporting a pediment roof, sign reading \"Dauphin Way Baptist Church,\" and arched windows below."
 geo:
 id: 3720
 item_type: Still Image

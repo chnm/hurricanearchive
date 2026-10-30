@@ -21,6 +21,8 @@ files:
     original_filename: P1010092empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee15c80514fb29ee15cbe5.jpg
     url: /files/original/14fb29ee15c80514fb29ee15cbe5.jpg
+    alt:
+      en: "A police car sits on a damaged road beside storm-stripped trees, with a leaning utility pole and standing floodwater in the foreground reflecting the debris-strewn landscape."
 geo:
 id: 23651
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0106.JPG
     thumb: /files/thumbnails/14fb2a5587927914fb2a55879653.jpg
     url: /files/original/14fb2a5587927914fb2a55879653.jpg
+    alt:
+      en: "A single-story house with a low, sloped roof is partially crushed by multiple fallen trees, with broken limbs and debris scattered across the yard and driveway under a clear sky."
 geo:
 id: 4794
 item_type: Still Image

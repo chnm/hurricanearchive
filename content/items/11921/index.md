@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 043.jpg
     thumb: /files/thumbnails/14fb2a22b6f2d814fb2a22b6f6c0.jpg
     url: /files/original/14fb2a22b6f2d814fb2a22b6f6c0.jpg
+    alt:
+      en: "A woman in a red jacket and shorts stands on a damaged road near a large sand-covered gap in the pavement, with trailers, trucks, and tents visible in the background under an overcast sky; dated 2005/09/24."
 geo:
 id: 11921
 item_type: Still Image

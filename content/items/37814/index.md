@@ -20,6 +20,8 @@ files:
     original_filename: Gustave 12_f5420851c9.bmp
     thumb: /files/thumbnails/14fb29c555575514fb29c5555b33.jpg
     url: /files/original/14fb29c555575514fb29c5555b33.jpg
+    alt:
+      en: "Storm surge waves crash over a coastal roadway lined with palm trees, with debris scattered across the wet pavement and a traffic signal pole visible under a gray, stormy sky."
 geo:
   address: 237 Debbie Dr.
   lat: 30.2248

@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4954_f8e8b757e4.jpg
     thumb: /files/thumbnails/14fb2a1e24ac4b14fb2a1e24b034.jpg
     url: /files/original/14fb2a1e24ac4b14fb2a1e24b034.jpg
+    alt:
+      en: "Black-and-white studio portrait of three young girls in dresses with hair bows, standing on a checkered floor against a plain backdrop, 1959."
 geo:
 id: 13377
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 9-19-2005-20_818d26c5ac.jpg
     thumb: /files/thumbnails/14fb2a574dd04414fb2a574dd42a.jpg
     url: /files/original/14fb2a574dd04414fb2a574dd42a.jpg
+    alt:
+      en: "A man wearing a dust mask stands beside a mud-caked backyard pool filled with murky green water, surrounded by storm-damaged house walls, debris, and bare trees."
 geo:
   address: Lakeview
   lat: 29.91685

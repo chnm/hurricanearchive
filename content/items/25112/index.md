@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1699superdome.JPG
     thumb: /files/thumbnails/14fb29e23cce9c14fb29e23cd282.jpg
     url: /files/original/14fb29e23cce9c14fb29e23cd282.jpg
+    alt:
+      en: "A soldier in camouflage uniform with an \"MP\" armband and shoulder patch writes on a notepad resting on a vehicle, with a flashlight clipped to his gear and other uniformed personnel lined up behind him."
 geo:
 id: 25112
 item_type: Still Image

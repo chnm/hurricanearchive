@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28271.jpg
     thumb: /files/thumbnails/14fb2a6a674dde14fb2a6a6751c4.jpg
     url: /files/original/14fb2a6a674dde14fb2a6a6751c4.jpg
+    alt:
+      en: "Storm-damaged round church with fluted, scalloped roofline and tall glass-paneled walls, cross atop the dome, surrounded by debris, downed trees, and a littered lawn."
 geo:
   address: ''
   lat: 0.0

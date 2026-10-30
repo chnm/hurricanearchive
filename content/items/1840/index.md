@@ -26,6 +26,8 @@ files:
     original_filename: holly1_2670badfe2.JPG
     thumb: /files/thumbnails/14fb2a6eb4055b14fb2a6eb40941.jpg
     url: /files/original/14fb2a6eb4055b14fb2a6eb40941.jpg
+    alt:
+      en: "Skeletal remains of a building's support beams stand amid flattened debris and bare dirt, with utility poles lining an empty road under a clear sky."
 geo:
   address: ''
   lat: 29.7714925803499

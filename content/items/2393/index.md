@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BV1_a37ca49db6.jpg
     thumb: /files/thumbnails/14fb2a66bde5ef14fb2a66bdea64.jpg
     url: /files/original/14fb2a66bde5ef14fb2a66bdea64.jpg
+    alt:
+      en: "Aerial view from a Coast Guard helicopter of a rescue basket carrying two children above flooded New Orleans rooftops, with a crew member in a blue helmet guiding the hoist."
 geo:
 id: 2393
 item_type: Still Image

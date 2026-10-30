@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 032.jpg
     thumb: /files/thumbnails/14fb2a2271fd7514fb2a22721507.jpg
     url: /files/original/14fb2a2271fd7514fb2a22721507.jpg
+    alt:
+      en: "Skeletal wooden framing remains of a destroyed building beside a waterway, with damaged trees, scattered debris, and a wooden boat dock in the foreground."
 geo:
 id: 11984
 item_type: Still Image

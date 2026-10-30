@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0407-16.JPG
     thumb: /files/thumbnails/14fb29fcd4425914fb29fcd4481d.jpg
     url: /files/original/14fb29fcd4425914fb29fcd4481d.jpg
+    alt:
+      en: "Soldier in camouflage uniform wearing dark protective goggles and earplugs, sitting inside a military aircraft with an American flag patch visible on his sleeve, overlooking a grassy field outside."
 geo:
 id: 21644
 item_type: Still Image

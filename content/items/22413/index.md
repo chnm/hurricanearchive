@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1252Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6a4d4f314fb29f6a4f394.jpg
     url: /files/original/14fb29f6a4d4f314fb29f6a4f394.jpg
+    alt:
+      en: "Military personnel gather around a table in a command center with a Louisiana map on the wall, a digital clock showing multiple time zones including \"Iraq,\" and handwritten planning notes for \"Para Rescue\" and shelters posted nearby."
 geo:
 id: 22413
 item_type: Still Image

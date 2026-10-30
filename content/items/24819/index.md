@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2141superdome.JPG
     thumb: /files/thumbnails/14fb29e496e9c414fb29e496eda9.jpg
     url: /files/original/14fb29e496e9c414fb29e496eda9.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms gather along a curved concrete barrier on an elevated walkway, with a backdrop of city high-rise buildings under an overcast sky."
 geo:
 id: 24819
 item_type: Still Image

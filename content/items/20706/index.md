@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0061H.JPG
     thumb: /files/thumbnails/14fb2a04d3423a14fb2a04d4df46.jpg
     url: /files/original/14fb2a04d3423a14fb2a04d4df46.jpg
+    alt:
+      en: "Three people play foosball at a nighttime event under string lights; a woman wears a white Hooters tank top reading \"Siegen Lane, Baton Rouge II, LA\" with orange shorts."
 geo:
 id: 20706
 item_type: Still Image

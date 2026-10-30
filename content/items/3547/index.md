@@ -24,6 +24,8 @@ files:
     original_filename: P1010123.JPG
     thumb: /files/thumbnails/14fb2a5ae55ae314fb2a5ae55ec7.jpg
     url: /files/original/14fb2a5ae55ae314fb2a5ae55ec7.jpg
+    alt:
+      en: "An aluminum \"MonArk\" boat with an Evinrude outboard motor sits stranded over a curb along a roadside, filled with debris, near a brick building."
 geo:
 id: 3547
 item_type: Still Image

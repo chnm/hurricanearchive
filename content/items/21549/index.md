@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0292-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fda79a7b14fb29fda79ecf.jpg
     url: /files/original/14fb29fda79a7b14fb29fda79ecf.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with a red barn partially submerged, surrounded by standing water, a bare dead tree, fence lines, and dense green trees."
 geo:
 id: 21549
 item_type: Still Image

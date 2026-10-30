@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2036_f5ac4d8c87.JPG
     thumb: /files/thumbnails/14fb2a6ebeab3814fb2a6ebeaf1e.jpg
     url: /files/original/14fb2a6ebeab3814fb2a6ebeaf1e.jpg
+    alt:
+      en: "A white pickup truck parked in the driveway of a two-story brick house with an American flag on the porch, surrounded by trees and shrubs under a clear sky."
 geo:
   address: ''
   lat: 30.018886698060697

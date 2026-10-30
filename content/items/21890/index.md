@@ -21,6 +21,8 @@ files:
     original_filename: Nursing Home - Harvey.jpg
     thumb: /files/thumbnails/14fb29fb39be0314fb29fb39c1e9.jpg
     url: /files/original/14fb29fb39be0314fb29fb39c1e9.jpg
+    alt:
+      en: "Aerial view of a nursing home complex with a distinctive turquoise roof, situated near a pyramid-roofed building and brick structures, with parking lots, roads, and green fields surrounding the area."
 geo:
 id: 21890
 item_type: Still Image

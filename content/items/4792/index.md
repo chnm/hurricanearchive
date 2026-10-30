@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0104.JPG
     thumb: /files/thumbnails/14fb2a558b243c14fb2a558b2c0b.jpg
     url: /files/original/14fb2a558b243c14fb2a558b2c0b.jpg
+    alt:
+      en: "A weathered wooden building with a sloped roof, partially hidden by surrounding trees and overgrown vegetation, with a broken window visible on its side."
 geo:
 id: 4792
 item_type: Still Image

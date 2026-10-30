@@ -21,6 +21,8 @@ files:
     original_filename: 5mpcheckpoints.jpg
     thumb: /files/thumbnails/14fb29f34efe2514fb29f34f1c9b.jpg
     url: /files/original/14fb29f34efe2514fb29f34f1c9b.jpg
+    alt:
+      en: "A soldier in camouflage uniform and sunglasses stands guard at a roadside checkpoint with a rifle, as an RV passes by; a \"Job Center\" sign is visible in the background."
 geo:
 id: 22826
 item_type: Still Image

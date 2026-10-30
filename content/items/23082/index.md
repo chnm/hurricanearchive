@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0092OEP.JPG
     thumb: /files/thumbnails/14fb29f19ba9a714fb29f19bad96.jpg
     url: /files/original/14fb29f19ba9a714fb29f19bad96.jpg
+    alt:
+      en: "Several people in military camouflage uniforms work at computer desks in an office cubicle setting, with one person on a phone and papers and water bottles scattered on the desks."
 geo:
 id: 23082
 item_type: Still Image

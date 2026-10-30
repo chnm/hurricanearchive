@@ -21,6 +21,8 @@ files:
     original_filename: aerials5.jpg
     thumb: /files/thumbnails/14fb2a19c4666e14fb2a19c471a4.jpg
     url: /files/original/14fb2a19c4666e14fb2a19c471a4.jpg
+    alt:
+      en: "Aerial view of a devastated landscape with widespread debris, flattened structures, and scattered rubble across cleared land, bordered by patches of trees and a central roadway."
 geo:
 id: 14338
 item_type: Still Image

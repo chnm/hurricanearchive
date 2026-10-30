@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0453_f72ea4cc69.JPG
     thumb: /files/thumbnails/14fb2a6ec50a0214fb2a6ec50de7.jpg
     url: /files/original/14fb2a6ec50a0214fb2a6ec50de7.jpg
+    alt:
+      en: "A flooded white house with green columns and a shingled roof sits in standing water that reflects its porch; a blue \"At Your Door, Inc.\" storage container stands to the right."
 geo:
   address: ''
   lat: 29.981182030142598

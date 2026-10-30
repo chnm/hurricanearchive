@@ -21,6 +21,8 @@ files:
     original_filename: EvaDow-5_46a8f4a404.jpg
     thumb: /files/thumbnails/14fb29dd63ee6c14fb29dd63f25c.jpg
     url: /files/original/14fb29dd63ee6c14fb29dd63f25c.jpg
+    alt:
+      en: "Youth football team poses on grass in front of a metal building marked \"EXIT,\" with kneeling players in numbered white jerseys and black shorts, helmets and a football placed in front, coaches and adults standing behind."
 geo:
 id: 25507
 item_type: Still Image

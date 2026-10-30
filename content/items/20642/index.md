@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a057bcbe814fb2a057bcfc0.jpg
     url: /files/original/14fb2a057bcbe814fb2a057bcfc0.jpg
+    alt:
+      en: "A deeply flooded roadway with a white pickup truck and another vehicle driving through high water, viewed past a large military-style truck's mirror reflecting a person's face, with partially submerged trees lining the road."
 geo:
 id: 20642
 item_type: Still Image

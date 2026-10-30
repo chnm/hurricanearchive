@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042H.JPG
     thumb: /files/thumbnails/14fb2a05aa80c914fb2a05aa84b1.jpg
     url: /files/original/14fb2a05aa80c914fb2a05aa84b1.jpg
+    alt:
+      en: "Blurry nighttime photo of a person in military camouflage uniform in the foreground, with a cheerleader in an orange and white uniform raising her arms behind them, and other figures nearby."
 geo:
 id: 20609
 item_type: Still Image

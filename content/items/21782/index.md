@@ -21,6 +21,8 @@ files:
     original_filename: katrina 052.jpg
     thumb: /files/thumbnails/14fb29fbc29dab14fb29fbc2a190.jpg
     url: /files/original/14fb29fbc29dab14fb29fbc2a190.jpg
+    alt:
+      en: "Floodwater submerges a fenced lot with trees and a small guard booth, with a parking garage, elevated highway, helicopters, and city buildings including Delgado Community College visible in the background."
 geo:
 id: 21782
 item_type: Still Image

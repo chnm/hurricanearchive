@@ -21,6 +21,8 @@ files:
     original_filename: Picture 030cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c5160e514fb2a0c516455.jpg
     url: /files/original/14fb2a0c5160e514fb2a0c516455.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms gather around a map or document spread on the hood of a military Humvee, with military trucks and trees in the background on a grassy street lined with debris."
 geo:
 id: 19934
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: P1010003a_af06682488.JPG
     thumb: /files/thumbnails/14fb2a7069978d14fb2a70699ceb.jpg
     url: /files/original/14fb2a7069978d14fb2a70699ceb.jpg
+    alt:
+      en: "A backyard with large oak trees, a wooden fence, scattered debris and fallen branches on the ground, and a small white dog standing near the edge of the yard."
 geo:
   address: ''
   lat: 29.964207

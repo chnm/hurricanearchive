@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8760.jpg
     thumb: /files/thumbnails/14fb2a65a4b4c414fb2a65a4b8a9.jpg
     url: /files/original/14fb2a65a4b4c414fb2a65a4b8a9.jpg
+    alt:
+      en: "Collapsed building with a blue-shingled sign reading \"ROVICH HARDWARE & MARI\" lies partially submerged in water, surrounded by storm debris, a wrecked boat, and a bridge in the background."
 geo:
 id: 2533
 item_type: Still Image

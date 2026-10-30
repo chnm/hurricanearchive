@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28289.jpg
     thumb: /files/thumbnails/14fb2a68a6279d14fb2a68a62b98.jpg
     url: /files/original/14fb2a68a6279d14fb2a68a62b98.jpg
+    alt:
+      en: "Skeletal remains of a canopy roof structure stand amid storm debris, with damaged buildings and a bare tree in the background, illustrating hurricane destruction at the Ohr-O'Keefe Museum site."
 geo:
   address: ''
   lat: 0.0

@@ -24,6 +24,8 @@ files:
     original_filename: P1010038.JPG
     thumb: /files/thumbnails/14fb2a5b9821b814fb2a5b9825a7.jpg
     url: /files/original/14fb2a5b9821b814fb2a5b9825a7.jpg
+    alt:
+      en: "A dust- and debris-covered garage with a thick layer of dried silt on the floor, shelves of tools and supplies along the walls, and an old coupe caked in grime parked inside."
 geo:
 id: 3469
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: AB Mardi Gras 71 3_2491d46a30.jpg
     thumb: /files/thumbnails/14fb29d960197814fb29d9601de9.jpg
     url: /files/original/14fb29d960197814fb29d9601de9.jpg
+    alt:
+      en: "Vintage photo of two people in Mardi Gras costumes on Bourbon Street in 1971—one dressed as a mouse with large ears, the other as a block of yellow cheese with a face peeking through a hole."
 geo:
   address: ''
   lat: 29.87876

@@ -21,6 +21,8 @@ files:
     original_filename: New Orleans Baptist Seminary.jpg
     thumb: /files/thumbnails/14fb29fb45546814fb29fb455850.jpg
     url: /files/original/14fb29fb45546814fb29fb455850.jpg
+    alt:
+      en: "Aerial view of a flooded seminary campus with brick buildings, a white-columned chapel with a steeple, and surrounding streets and lawns submerged in standing water, with trees stripped of leaves."
 geo:
 id: 21883
 item_type: Still Image

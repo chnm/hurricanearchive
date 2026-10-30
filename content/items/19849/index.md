@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d3b127114fb2a0d3b1655.jpg
     url: /files/original/14fb2a0d3b127114fb2a0d3b1655.jpg
+    alt:
+      en: "A construction worker wearing a white hard hat and brown t-shirt looks down while standing amid wooden roof framing beams, with blue sky visible between the boards."
 geo:
 id: 19849
 item_type: Still Image

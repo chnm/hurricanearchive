@@ -21,6 +21,8 @@ files:
     original_filename: Picture 120cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba622b714fb2a0ba62694.jpg
     url: /files/original/14fb2a0ba622b714fb2a0ba62694.jpg
+    alt:
+      en: "A helicopter flies across a pale blue sky with scattered clouds, silhouetted treetops visible along the bottom of the frame."
 geo:
 id: 20023
 item_type: Still Image

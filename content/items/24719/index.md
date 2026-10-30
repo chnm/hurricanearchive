@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-21-20Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e55e92c814fb29e55e96ac.jpg
     url: /files/original/14fb29e55e92c814fb29e55e96ac.jpg
+    alt:
+      en: "Flooded city street with partially submerged cars and a truck beneath an elevated highway, a helicopter flying overhead near a tall high-rise building."
 geo:
 id: 24719
 item_type: Still Image

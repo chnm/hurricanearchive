@@ -21,6 +21,8 @@ files:
     original_filename: DSC01056.JPG
     thumb: /files/thumbnails/14fb2a58ad37b414fb2a58ad3b9a.jpg
     url: /files/original/14fb2a58ad37b414fb2a58ad3b9a.jpg
+    alt:
+      en: "Two mobile \"Generator Rentals\" units by Harris and MQ Power sit on a debris-strewn dock near a building with a red roof, as uniformed personnel stand and work around the equipment."
 geo:
 id: 3973
 item_type: Still Image

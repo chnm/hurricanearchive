@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0103OEP.JPG
     thumb: /files/thumbnails/14fb29f1945b2014fb29f1945efa.jpg
     url: /files/original/14fb29f1945b2014fb29f1945efa.jpg
+    alt:
+      en: "Two U.S. Air Force personnel in camouflage uniforms in an office setting, one standing and one seated holding a camera, with a bookshelf of binders behind them."
 geo:
 id: 23093
 item_type: Still Image

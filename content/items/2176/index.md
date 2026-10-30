@@ -26,6 +26,8 @@ files:
     original_filename: kat7_9e0a380b3a.JPG
     thumb: /files/thumbnails/14fb2a6d86279e14fb2a6d862b6e.jpg
     url: /files/original/14fb2a6d86279e14fb2a6d862b6e.jpg
+    alt:
+      en: "Volunteers unload boxed food supplies, including cereal and produce, from the back of a delivery truck as a man wearing an American Red Cross Disaster Relief vest assists."
 geo:
   address: ''
   lat: 31.1046852937585

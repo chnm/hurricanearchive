@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC00055.jpg
     thumb: /files/thumbnails/14fb2a0a56cbdd14fb2a0a56ce57.jpg
     url: /files/original/14fb2a0a56cbdd14fb2a0a56ce57.jpg
+    alt:
+      en: "Two people push a green shopping cart with water bottles across a parking lot near a large truck, with a \"Baskin Robbins\" storefront and a parked car in the background."
 geo:
 id: 20260
 item_type: Still Image

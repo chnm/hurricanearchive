@@ -21,6 +21,8 @@ files:
     original_filename: graduation pics-09_c2959320d3.jpg
     thumb: /files/thumbnails/14fb29d2a88b3b14fb29d2a88f27.jpg
     url: /files/original/14fb29d2a88b3b14fb29d2a88f27.jpg
+    alt:
+      en: "A person in a graduation cap, gown, and honor cords sits in a wheelchair outdoors in front of a brick house with plants, a hanging basket, and a garden hose on the wall."
 geo:
   address: 3557 Inwood Avenue
   lat: 0.0

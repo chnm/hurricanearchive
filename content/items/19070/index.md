@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1883.JPG
     thumb: /files/thumbnails/14fb2a136ad81814fb2a136c53e6.jpg
     url: /files/original/14fb2a136ad81814fb2a136c53e6.jpg
+    alt:
+      en: "Aerial view of a helicopter that has landed in a grassy median beside a highway overpass, with a group of people gathered near it and vehicles visible on the road above."
 geo:
 id: 19070
 item_type: Still Image

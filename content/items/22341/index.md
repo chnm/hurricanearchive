@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1156Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f736a7a614fb29f736ab87.jpg
     url: /files/original/14fb29f736a7a614fb29f736ab87.jpg
+    alt:
+      en: "Blurry close-up of two people, both wearing red and gray striped shirts, against a tiled wall background."
 geo:
 id: 22341
 item_type: Still Image

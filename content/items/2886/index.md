@@ -21,6 +21,8 @@ files:
     original_filename: MVC-009S.JPG
     thumb: /files/thumbnails/14fb2a5fa760f614fb2a5fa764d1.jpg
     url: /files/original/14fb2a5fa760f614fb2a5fa764d1.jpg
+    alt:
+      en: "Large artillery shells with yellow tips and green bodies stored upright in a metal rack aboard a ship, with electrical panels and equipment visible in the background."
 geo:
 id: 2886
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20051001-A-2421S-006AlabamaNG.jpg
     thumb: /files/thumbnails/14fb29f152c56a14fb29f152cd19.jpg
     url: /files/original/14fb29f152c56a14fb29f152cd19.jpg
+    alt:
+      en: "A man in a brown uniform stands in a water-stained hallway, holding a framed family photo while examining other framed pictures still hanging on the damaged wall."
 geo:
 id: 23148
 item_type: Still Image

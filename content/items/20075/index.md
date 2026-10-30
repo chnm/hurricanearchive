@@ -21,6 +21,8 @@ files:
     original_filename: Picture 172cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b7b2a7314fb2a0b7b2e58.jpg
     url: /files/original/14fb2a0b7b2a7314fb2a0b7b2e58.jpg
+    alt:
+      en: "A military Humvee drives on a sandy, debris-covered road past a blue barrel, with a person standing atop a nearby mound in the background."
 geo:
 id: 20075
 item_type: Still Image

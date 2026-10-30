@@ -21,6 +21,8 @@ files:
     original_filename: 261st on C-130 2delaware.jpg
     thumb: /files/thumbnails/14fb29f1487aef14fb29f1487ee0.jpg
     url: /files/original/14fb29f1487aef14fb29f1487ee0.jpg
+    alt:
+      en: "A soldier in woodland camouflage uniform and cap, wearing an orange earplug, holds a flashlight in his mouth while bracing himself inside a military vehicle; an American flag patch is visible on his sleeve."
 geo:
 id: 23162
 item_type: Still Image

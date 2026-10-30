@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1386Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f584bb2414fb29f584c2f5.jpg
     url: /files/original/14fb29f584bb2414fb29f584c2f5.jpg
+    alt:
+      en: "Two men in a small boat with a Yamaha 75 motor navigate floodwaters beside a brick building, with a submerged camouflage tarp-covered object and flooded trees nearby."
 geo:
 id: 22543
 item_type: Still Image

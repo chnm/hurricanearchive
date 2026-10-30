@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4928_1_00b4e4b2f8.jpg
     thumb: /files/thumbnails/14fb2a1e31449614fb2a1e31487d.jpg
     url: /files/original/14fb2a1e31449614fb2a1e31487d.jpg
+    alt:
+      en: "Black-and-white studio portrait of a young girl in a short-sleeved plaid dress with a belt, standing before a draped curtain backdrop, wearing sandals."
 geo:
 id: 13369
 item_type: Still Image

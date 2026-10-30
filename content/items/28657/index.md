@@ -23,6 +23,8 @@ files:
     original_filename: 158169356_a75ed3b3f5.jpg
     thumb: /files/thumbnails/14fb29d1e6140914fb29d1e617ed.jpg
     url: /files/original/14fb29d1e6140914fb29d1e617ed.jpg
+    alt:
+      en: "Debris-strewn lot with scattered wood, bricks, and household items, a bent metal railing in the foreground, and a large pile of rubble near distant trees and houses, with a bicycle parked on the road."
 geo:
 id: 28657
 item_type: Still Image

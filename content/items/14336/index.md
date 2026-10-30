@@ -21,6 +21,8 @@ files:
     original_filename: aerials48.jpg
     thumb: /files/thumbnails/14fb2a19c6edb814fb2a19c6f19f.jpg
     url: /files/original/14fb2a19c6edb814fb2a19c6f19f.jpg
+    alt:
+      en: "Aerial view of a debris-covered shoreline with scattered trees and damaged wooden docks extending into dark water, likely storm wreckage from hurricane flooding."
 geo:
 id: 14336
 item_type: Still Image

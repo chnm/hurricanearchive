@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0191-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a003a92df14fb2a003a96d5.jpg
     url: /files/original/14fb2a003a92df14fb2a003a96d5.jpg
+    alt:
+      en: "Aerial view of a flooded roadway with several military-style trucks parked along it, surrounded by extensive floodwaters, submerged trees, and downed utility poles."
 geo:
 id: 21175
 item_type: Still Image

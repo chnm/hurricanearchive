@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0045H.JPG
     thumb: /files/thumbnails/14fb2a0595a7ee14fb2a0595abd4.jpg
     url: /files/original/14fb2a0595a7ee14fb2a0595abd4.jpg
+    alt:
+      en: "A dimly lit scene where a woman in the foreground uses a flip phone to photograph two women in \"Hooters\" tank tops and orange shorts posing with a man in military camouflage uniform and beret."
 geo:
 id: 20626
 item_type: Still Image

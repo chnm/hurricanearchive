@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0242.JPG
     thumb: /files/thumbnails/14fb2a54f3528714fb2a54f35672.jpg
     url: /files/original/14fb2a54f3528714fb2a54f35672.jpg
+    alt:
+      en: "Close-up of storm-damaged masonry corner with crumbled white stucco exposing a wooden support beam, torn black roofing material, exposed nails, and a fallen branch resting across the structure."
 geo:
 id: 4923
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: adam_467a49fe8f.jpg
     thumb: /files/thumbnails/14fb29c28efc9214fb29c28f0077.jpg
     url: /files/original/14fb29c28efc9214fb29c28f0077.jpg
+    alt:
+      en: "A man stands amid stacked wooden boards inside a partially gutted building, with another person visible in the background near a window."
 geo:
   address: ''
   lat: 29.90733

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 034cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e949d7d14fb2a0e94a15a.jpg
     url: /files/original/14fb2a0e949d7d14fb2a0e94a15a.jpg
+    alt:
+      en: "A Club Car utility cart sits beside storage containers, yellow bins, and military trucks in a staging area, with a large warehouse building and grassy field in the background."
 geo:
 id: 19647
 item_type: Still Image

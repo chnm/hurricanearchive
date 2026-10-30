@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1819superdome.JPG
     thumb: /files/thumbnails/14fb29e124e62b14fb29e124ea54.jpg
     url: /files/original/14fb29e124e62b14fb29e124ea54.jpg
+    alt:
+      en: "Medical personnel and military members in camouflage and uniforms push a patient on a gurney equipped with monitoring equipment, with one person using a manual resuscitator bag over the patient's face."
 geo:
 id: 25194
 item_type: Still Image

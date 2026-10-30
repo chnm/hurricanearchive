@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-17-16A.jpg
     thumb: /files/thumbnails/14fb29e8f7a5c714fb29e8f7aad0.jpg
     url: /files/original/14fb29e8f7a5c714fb29e8f7aad0.jpg
+    alt:
+      en: "Military-style truck with a canvas-covered bed parked near water, with people visible inside the cab and loaded onto the truck bed, one holding a child in pink clothing."
 geo:
 id: 24297
 item_type: Still Image

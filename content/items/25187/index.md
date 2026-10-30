@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1808superdome.JPG
     thumb: /files/thumbnails/14fb29e12eb1dc14fb29e12eddb0.jpg
     url: /files/original/14fb29e12eb1dc14fb29e12eddb0.jpg
+    alt:
+      en: "Three U.S. Army officers in woodland camouflage uniforms confer closely together outdoors, with one wearing a two-star general's insignia; vehicles and a tree are visible in the background."
 geo:
 id: 25187
 item_type: Still Image

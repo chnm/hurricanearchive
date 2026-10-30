@@ -21,6 +21,8 @@ files:
     original_filename: boat and deuce and a half.JPG
     thumb: /files/thumbnails/14fb2a1a9bf1d514fb2a1a9bf5ba.jpg
     url: /files/original/14fb2a1a9bf1d514fb2a1a9bf5ba.jpg
+    alt:
+      en: "Two rescue workers in a small motorboat reach toward a partially submerged military vehicle covered by a camouflage tarp, with floodwater surrounding a brick building and debris-strewn trees in the background."
 geo:
   address: ''
   lat: 0.0

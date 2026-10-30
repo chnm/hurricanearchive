@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2186.JPG
     thumb: /files/thumbnails/14fb2a1351dcee14fb2a1351e0d3.jpg
     url: /files/original/14fb2a1351dcee14fb2a1351e0d3.jpg
+    alt:
+      en: "View from inside a helicopter cockpit, with a crew member's helmet in the foreground, looking out over an airfield toward a collapsed overpass or bridge structure and a crowd of people gathered near vehicles."
 geo:
 id: 19079
 item_type: Still Image

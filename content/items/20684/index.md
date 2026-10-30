@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0056M.JPG
     thumb: /files/thumbnails/14fb2a050d3db414fb2a050d419a.jpg
     url: /files/original/14fb2a050d3db414fb2a050d419a.jpg
+    alt:
+      en: "Four people in military camouflage uniforms gather around a styrofoam cooler and supplies, handling small items under indoor lighting with tiled walls in the background."
 geo:
 id: 20684
 item_type: Still Image

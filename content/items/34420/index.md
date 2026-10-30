@@ -27,6 +27,8 @@ files:
     original_filename: 2379863965_ecce2e1241.
     thumb: /files/thumbnails/14fb29ca1c300314fb29ca1c3413.jpg
     url: /files/original/14fb29ca1c300314fb29ca1c3413.jpg
+    alt:
+      en: "Interior built-in cabinet and fireplace mantel coated with dried marsh grass debris marking a horizontal flood water line left by Hurricane Katrina."
 geo:
   address: ''
   lat: 30.22894

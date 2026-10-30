@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0306.JPG
     thumb: /files/thumbnails/14fb2a1376fb0c14fb2a1376fef1.jpg
     url: /files/original/14fb2a1376fb0c14fb2a1376fef1.jpg
+    alt:
+      en: "Silhouette of a helmeted crew member looking out the open side door of an aircraft, with a hazy aerial view of a sprawling city below."
 geo:
 id: 19062
 item_type: Still Image

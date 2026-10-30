@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0570Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f511053614fb29f5110912.jpg
     url: /files/original/14fb29f511053614fb29f5110912.jpg
+    alt:
+      en: "Floodwaters submerge a street and rooftops near power lines and a building marked \"Sheriff's Office Sub Station,\" with only lamp posts and treetops rising above the churning water."
 geo:
 id: 22606
 item_type: Still Image

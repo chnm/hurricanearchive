@@ -20,6 +20,8 @@ files:
     original_filename: 2456562505_c6f0a49539.
     thumb: /files/thumbnails/14fb29c8589e5314fb29c858a239.jpg
     url: /files/original/14fb29c8589e5314fb29c858a239.jpg
+    alt:
+      en: "Aerial view of a cleared, muddy levee construction site bordered by forest and green fields, with a small pond and access roads visible; a watermark reads \"Lake Catouatche Levee.\""
 geo:
 id: 34939
 item_type: Still Image

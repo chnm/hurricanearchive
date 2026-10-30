@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (29).JPG
     thumb: /files/thumbnails/14fb2a5d73f4ee14fb2a5d73f8d3.jpg
     url: /files/original/14fb2a5d73f4ee14fb2a5d73f8d3.jpg
+    alt:
+      en: "Multi-story cream-colored apartment building with a curved awning entrance and metal trellis structure in front, surrounded by a debris-strewn yard with bare trees and scattered gravel."
 geo:
 id: 3177
 item_type: Still Image

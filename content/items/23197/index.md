@@ -21,6 +21,8 @@ files:
     original_filename: P1010017delaware.JPG
     thumb: /files/thumbnails/14fb29f0e09fcd14fb29f0e1a556.jpg
     url: /files/original/14fb29f0e09fcd14fb29f0e1a556.jpg
+    alt:
+      en: "Four people walk across an airport tarmac carrying bags and equipment, with a propeller plane wing in the foreground and trees lining the horizon."
 geo:
 id: 23197
 item_type: Still Image

@@ -18,6 +18,8 @@ files:
     original_filename: 51_12814d2bd9.jpg
     thumb: /files/thumbnails/14fb29c693911514fb29c693968d.jpg
     url: /files/original/14fb29c693911514fb29c693968d.jpg
+    alt:
+      en: "A two-story corner building with peeling white stucco exposing brick beneath, green shutters and doors, a brass plaque by the entrance, and a striped traffic barricade on the unpaved street in front."
 geo:
   address: new orleans, la
   lat: 29.95324

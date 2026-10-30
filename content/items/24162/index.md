@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea2dd55d14fb29ea2dd8df.jpg
     url: /files/original/14fb29ea2dd55d14fb29ea2dd8df.jpg
+    alt:
+      en: "Military front-loader tractor marked \"225GP 527E\" clears thick mud from a flooded residential street lined with damaged brick homes, downed trees, and a stranded pickup truck."
 geo:
 id: 24162
 item_type: Still Image

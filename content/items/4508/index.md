@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0720.JPG
     thumb: /files/thumbnails/14fb2a571b620414fb2a571b65ea.jpg
     url: /files/original/14fb2a571b620414fb2a571b65ea.jpg
+    alt:
+      en: "A two-story house raised on wooden stilts with a covered porch and staircase, surrounded by bare trees, debris, and dry grass under a clear sky."
 geo:
 id: 4508
 item_type: Still Image

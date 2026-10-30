@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0177neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef04202314fb29ef042408.jpg
     url: /files/original/14fb29ef04202314fb29ef042408.jpg
+    alt:
+      en: "Quiet residential street lined with trees and houses, with debris scattered along the curb and a yellow \"stop ahead\" sign visible; power lines crisscross overhead against a hazy sky."
 geo:
 id: 23555
 item_type: Still Image

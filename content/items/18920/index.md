@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0270downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1434d33b14fb2a1434d728.jpg
     url: /files/original/14fb2a1434d33b14fb2a1434d728.jpg
+    alt:
+      en: "Aerial view of an intermodal rail and trucking yard with rows of trailers, containers (Matson, Crowley, CSX, XTRA), RVs, and rail tracks, surrounded by storm-damaged trees and a distant cityscape."
 geo:
 id: 18920
 item_type: Still Image

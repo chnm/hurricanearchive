@@ -21,6 +21,8 @@ files:
     original_filename: 100_0110.JPG
     thumb: /files/thumbnails/14fb2a595e82f914fb2a595e86e5.jpg
     url: /files/original/14fb2a595e82f914fb2a595e86e5.jpg
+    alt:
+      en: "Several military helicopters, including Black Hawk and larger transport models, parked on a grassy levee beside a body of water, with a few small figures and a bridge visible in the background."
 geo:
 id: 3823
 item_type: Still Image

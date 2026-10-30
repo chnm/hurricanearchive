@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6507_1648e1b632.jpg
     thumb: /files/thumbnails/14fb29d41857c914fb29d4185bb0.jpg
     url: /files/original/14fb29d41857c914fb29d4185bb0.jpg
+    alt:
+      en: "Three students in white collared shirts pose with arms around each other outside school buildings, with other students carrying backpacks visible nearby under a cloudy sky."
 geo:
   address: ''
   lat: 29.91685

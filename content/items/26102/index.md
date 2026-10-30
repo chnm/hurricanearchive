@@ -21,6 +21,8 @@ files:
     original_filename: Jeff Chauppetta_6419_f1b714c116.jpg
     thumb: /files/thumbnails/14fb29db4b2dd514fb29db4b31bb.jpg
     url: /files/original/14fb29db4b2dd514fb29db4b31bb.jpg
+    alt:
+      en: "White door numbered 1401 between brick walls, spray-painted with a red X, \"4/10,\" \"CA5,\" \"1 PIG,\" \"DOA,\" and \"10/2.\""
 geo:
 id: 26102
 item_type: Still Image

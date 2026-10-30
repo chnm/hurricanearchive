@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-08atgrandfathershouse_d847f72fe1.jpg
     thumb: /files/thumbnails/14fb29dc9560a614fb29dc956552.jpg
     url: /files/original/14fb29dc9560a614fb29dc956552.jpg
+    alt:
+      en: "Three people pose smiling in a kitchen at a table with drinks and a magazine, an older man kissed on the cheek between a young woman and man, with another person seated at left; photo edges show water damage."
 geo:
 id: 25733
 item_type: Still Image

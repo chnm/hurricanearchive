@@ -26,6 +26,8 @@ files:
     original_filename: 4705034_80X60_df7d19a5c1.jpg
     thumb: /files/thumbnails/14fb2a6ec6ee3e14fb2a6ec6f21b.jpg
     url: /files/original/14fb2a6ec6ee3e14fb2a6ec6f21b.jpg
+    alt:
+      en: "Silhouette icons of four standing figures in blue tones beside the bold text \"For Employers.\""
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea88ba8314fb29ea88be4c.jpg
     url: /files/original/14fb29ea88ba8314fb29ea88be4c.jpg
+    alt:
+      en: "Worker in camouflage and orange safety chaps and helmet uses a chainsaw to cut fallen tree limbs, while several news camera operators film the scene in a debris-strewn yard."
 geo:
 id: 24114
 item_type: Still Image

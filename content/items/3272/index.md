@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (35).jpg
     thumb: /files/thumbnails/14fb2a5cd2459d14fb2a5cd24983.jpg
     url: /files/original/14fb2a5cd2459d14fb2a5cd24983.jpg
+    alt:
+      en: "An overturned vehicle lies amid piles of debris, cinder blocks, and scattered pipes in a devastated neighborhood, with damaged trees and houses visible in the background under a clear sky."
 geo:
 id: 3272
 item_type: Still Image

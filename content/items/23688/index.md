@@ -21,6 +21,8 @@ files:
     original_filename: P1010129empireS&R.JPG
     thumb: /files/thumbnails/14fb29ede2bd8914fb29ede2c174.jpg
     url: /files/original/14fb29ede2bd8914fb29ede2c174.jpg
+    alt:
+      en: "Storm-damaged brick house with a stripped, broken tree beside it, surrounded by debris including scattered boards, a wheelbarrow, and an orange ball in an overgrown yard."
 geo:
 id: 23688
 item_type: Still Image

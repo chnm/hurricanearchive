@@ -21,6 +21,8 @@ files:
     original_filename: 100_0095.JPG
     thumb: /files/thumbnails/14fb2a596dbd9214fb2a596dc28f.jpg
     url: /files/original/14fb2a596dbd9214fb2a596dc28f.jpg
+    alt:
+      en: "Three young males ride on the back of a motorboat, with twin outboard \"Honda\" engines visible and frothy wake trailing behind on open water under a hazy sky."
 geo:
 id: 3811
 item_type: Still Image

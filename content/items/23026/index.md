@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036OEP.JPG
     thumb: /files/thumbnails/14fb29f203231b14fb29f2032adb.jpg
     url: /files/original/14fb29f203231b14fb29f2032adb.jpg
+    alt:
+      en: "A military Humvee marked \"NE-ARNG\" and \"192-5\" parked near large tan tents connected by flexible ducting, with satellite dishes and light poles in the background."
 geo:
 id: 23026
 item_type: Still Image

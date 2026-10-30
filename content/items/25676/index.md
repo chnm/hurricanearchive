@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.071.JPG
     thumb: /files/thumbnails/14fb29dcb92eda14fb29dcb93287.jpg
     url: /files/original/14fb29dcb92eda14fb29dcb93287.jpg
+    alt:
+      en: "Storm debris including a sofa, broken furniture, lumber, and clothing piled beneath a damaged storefront awning reading \"Muffalettas Free Delivery 482-2376.\""
 geo:
 id: 25676
 item_type: Still Image

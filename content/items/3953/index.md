@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58c667d114fb2a58c66bb1.jpg
     url: /files/original/14fb2a58c667d114fb2a58c66bb1.jpg
+    alt:
+      en: "A man in a light blue shirt and gray pants shakes hands with a uniformed officer in a boonie hat, surrounded by onlookers with cameras near trailers and a marina building; timestamp reads 3:51 PM."
 geo:
 id: 3953
 item_type: Still Image

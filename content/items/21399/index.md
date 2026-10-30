@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0246-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff06930814fb29ff0696ee.jpg
     url: /files/original/14fb29ff06930814fb29ff0696ee.jpg
+    alt:
+      en: "Aerial view of a flooded farmland with a white house partially surrounded by floodwater, situated between green fields and a wide channel of standing water."
 geo:
 id: 21399
 item_type: Still Image

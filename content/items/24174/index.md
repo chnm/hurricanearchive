@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea18e19314fb29ea18e57c.jpg
     url: /files/original/14fb29ea18e19314fb29ea18e57c.jpg
+    alt:
+      en: "A light blue mobile home surrounded by floodwaters, with trees and grasses rising from the water and a utility pole with transformers in the foreground under an overcast sky."
 geo:
 id: 24174
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0173-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a00a9d6f214fb2a00a9dad9.jpg
     url: /files/original/14fb2a00a9d6f214fb2a00a9dad9.jpg
+    alt:
+      en: "Aerial view of a hazy coastal town with dense tree cover and scattered buildings, overlooking a wide river or bay where a crane-equipped vessel sits anchored near distant docks."
 geo:
 id: 21079
 item_type: Still Image

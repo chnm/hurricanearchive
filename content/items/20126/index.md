@@ -21,6 +21,8 @@ files:
     original_filename: Picture 223cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b29a47c14fb2a0b29a860.jpg
     url: /files/original/14fb2a0b29a47c14fb2a0b29a860.jpg
+    alt:
+      en: "Group of people in military-style camouflage uniforms standing on a debris-strewn residential street, with fallen branches and leaves scattered across the pavement and lawns, houses and trees in the background."
 geo:
 id: 20126
 item_type: Still Image

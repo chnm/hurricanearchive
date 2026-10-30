@@ -23,6 +23,8 @@ files:
     original_filename: 162989495_f172594288.jpg
     thumb: /files/thumbnails/14fb29d23de1e214fb29d23de5c5.jpg
     url: /files/original/14fb29d23de1e214fb29d23de5c5.jpg
+    alt:
+      en: "A large pile of storm debris including a wooden chest, cardboard boxes, broken furniture, glass bottles, and a framed photograph, discarded outside a home in Lakeshore, New Orleans."
 geo:
 id: 28580
 item_type: Still Image

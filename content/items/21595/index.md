@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0329-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd4a510614fb29fd4a5500.jpg
     url: /files/original/14fb29fd4a510614fb29fd4a5500.jpg
+    alt:
+      en: "Aerial view of a breached levee road alongside floodwaters covering farmland, with a military truck on the roadway, a white-roofed building, and trees nearby."
 geo:
 id: 21595
 item_type: Still Image

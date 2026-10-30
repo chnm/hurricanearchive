@@ -23,6 +23,8 @@ files:
     original_filename: 1260360549_a8e62d88a2.jpg
     thumb: /files/thumbnails/14fb29cb67544214fb29cb675828.jpg
     url: /files/original/14fb29cb67544214fb29cb675828.jpg
+    alt:
+      en: "An empty, overgrown lot shaded by a large tree in the foreground, with houses, power lines, and other trees visible across the street in the background."
 geo:
 id: 33228
 item_type: Still Image

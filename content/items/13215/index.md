@@ -21,6 +21,8 @@ files:
     original_filename: 209 beaumont dmg.jpg
     thumb: /files/thumbnails/14fb2a1f3c0bf614fb2a1f3c0fd6.jpg
     url: /files/original/14fb2a1f3c0bf614fb2a1f3c0fd6.jpg
+    alt:
+      en: "Storm debris litters a city street, including a collapsed green awning near a brick storefront; a street sign reading \"BOWIE\" hangs from a traffic signal pole overhead."
 geo:
 id: 13215
 item_type: Still Image

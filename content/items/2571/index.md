@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9069.jpg
     thumb: /files/thumbnails/14fb2a650dc48414fb2a650dd5cd.jpg
     url: /files/original/14fb2a650dc48414fb2a650dd5cd.jpg
+    alt:
+      en: "Flooded concrete house foundation with exposed wooden pilings sits amid storm debris, uprooted trees, and damaged brick homes in a devastated neighborhood."
 geo:
 id: 2571
 item_type: Still Image

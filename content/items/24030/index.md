@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-20-18AneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb7aeb3d14fb29eb7af52f.jpg
     url: /files/original/14fb29eb7aeb3d14fb29eb7af52f.jpg
+    alt:
+      en: "Elevated highway curving toward a city skyline, with a yellow curve sign and \"30 MPH\" speed sign on the right, concrete barrier wall, and brick building below."
 geo:
 id: 24030
 item_type: Still Image

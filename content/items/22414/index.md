@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1253Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6a0059214fb29f6a00aa7.jpg
     url: /files/original/14fb29f6a0059214fb29f6a00aa7.jpg
+    alt:
+      en: "Military personnel in a command center meet around a conference table, with wall maps of Louisiana and a digital clock overhead showing Pacific, Mountain, Local, Eastern, and Iraq times."
 geo:
 id: 22414
 item_type: Still Image

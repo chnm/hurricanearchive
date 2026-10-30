@@ -24,6 +24,8 @@ files:
     original_filename: P1010058.JPG
     thumb: /files/thumbnails/14fb2a5a99112914fb2a5a99150e.jpg
     url: /files/original/14fb2a5a99112914fb2a5a99150e.jpg
+    alt:
+      en: "Gutted interior under construction or renovation, showing exposed metal wall studs and ceiling framework stretching between adjacent rooms, with fluorescent lights illuminating the empty space beyond."
 geo:
 id: 3624
 item_type: Still Image

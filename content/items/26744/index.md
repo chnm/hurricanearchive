@@ -24,6 +24,8 @@ files:
     original_filename: RB First Communion 1952_c1c1d96640.jpg
     thumb: /files/thumbnails/14fb29d80a4de914fb29d80a51cf.jpg
     url: /files/original/14fb29d80a4de914fb29d80a51cf.jpg
+    alt:
+      en: "Two young girls in white communion dresses and hats pose arm-in-arm outside a brick school building, with a bicycle and other children visible in the background."
 geo:
   address: ''
   lat: 29.95493

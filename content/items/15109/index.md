@@ -21,6 +21,8 @@ files:
     original_filename: TW & Clinton-1_60687ea583.jpg
     thumb: /files/thumbnails/14fb2a17199ba814fb2a17199f8d.jpg
     url: /files/original/14fb2a17199ba814fb2a17199f8d.jpg
+    alt:
+      en: "Two men in suits shake hands and pose outdoors near a building, under text reading \"December 7, 2005 Bush-Clinton Katrina Fund Event.\""
 geo:
 id: 15109
 item_type: Still Image

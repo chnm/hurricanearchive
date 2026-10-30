@@ -20,6 +20,8 @@ files:
     original_filename: sixflagszombie_431aa69196.jpg
     thumb: /files/thumbnails/14fb29c1d95bdf14fb29c1d95fc3.jpg
     url: /files/original/14fb29c1d95bdf14fb29c1d95fc3.jpg
+    alt:
+      en: "A damaged Six Flags \"Playtime\" sign repurposed with spray-painted text reading \"Welcome 2 Zombieland Kids,\" standing amid overgrown trees and a wrought iron fence."
 geo:
   address: 4128 West Loyola Drive
   lat: 30.03877

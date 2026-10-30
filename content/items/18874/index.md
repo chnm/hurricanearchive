@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0087grandisle.JPG
     thumb: /files/thumbnails/14fb2a14c38e4414fb2a14c3922c.jpg
     url: /files/original/14fb2a14c38e4414fb2a14c3922c.jpg
+    alt:
+      en: "Aerial view from a helicopter (rotor visible at left) of a washed-out roadway where floodwaters have breached and eroded the pavement near a canal, leaving a gap with a partially submerged bridge section amid flooded marshland."
 geo:
 id: 18874
 item_type: Still Image

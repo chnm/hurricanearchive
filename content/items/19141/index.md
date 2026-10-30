@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 051.jpg
     thumb: /files/thumbnails/14fb2a12c61f9f14fb2a12c6237b.jpg
     url: /files/original/14fb2a12c61f9f14fb2a12c6237b.jpg
+    alt:
+      en: "Close-up of a soldier's uniform sleeve showing a shoulder patch with a cannon and wreath design, a rank chevron, dog tags, and a radio clipped to the jacket."
 geo:
 id: 19141
 item_type: Still Image

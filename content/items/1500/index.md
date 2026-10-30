@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27895.jpg
     thumb: /files/thumbnails/14fb2a68644a5d14fb2a68644e41.jpg
     url: /files/original/14fb2a68644a5d14fb2a68644e41.jpg
+    alt:
+      en: "Nighttime scene at an intersection marked \"Merle St.,\" with a Red Cross relief vehicle parked near a building as a line of people gather to receive an evening meal."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2199superdome.JPG
     thumb: /files/thumbnails/14fb29de5d95c214fb29de5d99a7.jpg
     url: /files/original/14fb29de5d95c214fb29de5d99a7.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and a black beret leans on a military Humvee, holding binoculars to his eyes, with a water bottle and notepad resting on the vehicle's hood."
 geo:
 id: 25384
 item_type: Still Image

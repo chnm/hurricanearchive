@@ -21,6 +21,8 @@ files:
     original_filename: FH000002.jpg
     thumb: /files/thumbnails/14fb29fcc30ed014fb29fcc31462.jpg
     url: /files/original/14fb29fcc30ed014fb29fcc31462.jpg
+    alt:
+      en: "Several boats lie stranded along a roadside near a billboard reading \"HEY, YOU CAN AFFORD DSL INTERNET,\" while a car's side mirror reflects a uniformed person inside the vehicle."
 geo:
 id: 21660
 item_type: Still Image

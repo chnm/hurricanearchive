@@ -21,6 +21,8 @@ files:
     original_filename: MVC-013S.JPG
     thumb: /files/thumbnails/14fb2a5f9293a014fb2a5f92977b.jpg
     url: /files/original/14fb2a5f9293a014fb2a5f92977b.jpg
+    alt:
+      en: "Cluttered storage/workroom with wooden shelves of binders and papers, a workbench covered in supplies, plastic storage bins, a wooden stool, hanging jackets on a rack, and an aluminum ladder."
 geo:
 id: 2924
 item_type: Still Image

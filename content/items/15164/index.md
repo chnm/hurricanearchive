@@ -21,6 +21,8 @@ files:
     original_filename: IPerez-6046_fa63344b4f.jpg
     thumb: /files/thumbnails/14fb2a16caaf4c14fb2a16cab316.jpg
     url: /files/original/14fb2a16caaf4c14fb2a16cab316.jpg
+    alt:
+      en: "Elderly man in a white shirt sits in a plaid armchair, holding a black and yellow cap, with a large fern plant and cinder block wall behind him."
 geo:
 id: 15164
 item_type: Still Image

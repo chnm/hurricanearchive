@@ -24,6 +24,8 @@ files:
     original_filename: P1010084.JPG
     thumb: /files/thumbnails/14fb2a5b43f96714fb2a5b43fca3.jpg
     url: /files/original/14fb2a5b43f96714fb2a5b43fca3.jpg
+    alt:
+      en: "A metal sign reading \"EDGEWOOD PARK\" decorated with red, white, and blue ribbon bows stands on a grassy area in front of a brick building, with a street and curb visible nearby."
 geo:
 id: 3510
 item_type: Still Image

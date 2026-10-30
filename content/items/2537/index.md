@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8774.jpg
     thumb: /files/thumbnails/14fb2a6594b70214fb2a6594bafe.jpg
     url: /files/original/14fb2a6594b70214fb2a6594bafe.jpg
+    alt:
+      en: "A splintered utility pole with dangling wires stands amid storm debris and an oil tank, while a blue-and-white shrimp trawler marked \"...PT CHAMP\" sits stranded on dry land in the background."
 geo:
 id: 2537
 item_type: Still Image

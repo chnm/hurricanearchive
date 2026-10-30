@@ -20,6 +20,8 @@ files:
     original_filename: 2456723153_d2431bdbc2.
     thumb: /files/thumbnails/14fb29c8b9fb2b14fb29c8b9ff10.jpg
     url: /files/original/14fb29c8b9fb2b14fb29c8b9ff10.jpg
+    alt:
+      en: "A narrow drainage ditch overgrown with grass and brush runs between properties, with a chain-link fence in the foreground, trees, and houses visible in the background under a clear sky."
 geo:
 id: 34884
 item_type: Still Image

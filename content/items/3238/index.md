@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (84).JPG
     thumb: /files/thumbnails/14fb2a5d1978a514fb2a5d197c8a.jpg
     url: /files/original/14fb2a5d1978a514fb2a5d197c8a.jpg
+    alt:
+      en: "View through a vehicle's windshield showing a rusted pickup truck parked on a grassy roadside, palm trees, houses, and a line of cars on the street ahead under an overcast sky."
 geo:
 id: 3238
 item_type: Still Image

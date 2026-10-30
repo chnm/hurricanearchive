@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5875_55c6b9017b.jpg
     thumb: /files/thumbnails/14fb2a1602ec6f14fb2a1602f0d0.jpg
     url: /files/original/14fb2a1602ec6f14fb2a1602f0d0.jpg
+    alt:
+      en: "A young girl in a red swimsuit stands on a wooden dock looking out at the water, where several people swim near an inflatable raft and boat, with a handwritten label reading \"Swimming Lake Borgne 4th of July.\""
 geo:
 id: 15774
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0292.JPG
     thumb: /files/thumbnails/14fb2a54ce8bfe14fb2a54ce8fff.jpg
     url: /files/original/14fb2a54ce8bfe14fb2a54ce8fff.jpg
+    alt:
+      en: "Severe ceiling damage exposes wooden beams and yellow insulation above a brass ceiling fan, while below, kitchen cabinets with canned goods remain intact amid the destruction."
 geo:
 id: 4950
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09140006superdome.JPG
     thumb: /files/thumbnails/14fb29e58656be14fb29e5865aa2.jpg
     url: /files/original/14fb29e58656be14fb29e5865aa2.jpg
+    alt:
+      en: "Domed stadium roof with visible damage and discoloration, seen from an elevated highway with a dark office tower and concrete guardrail in the foreground."
 geo:
 id: 24694
 item_type: Still Image

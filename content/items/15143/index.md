@@ -21,6 +21,8 @@ files:
     original_filename: IMG_6418_2b09118995.jpg
     thumb: /files/thumbnails/14fb2a16f2fb7714fb2a16f2ff54.jpg
     url: /files/original/14fb2a16f2fb7714fb2a16f2ff54.jpg
+    alt:
+      en: "Street view of Canal St. and Carondelet in New Orleans with a red streetcar (No. 2008), pedestrians, vehicles, and the Chateau Sonesta Hotel in the background under overcast skies."
 geo:
   address: ''
   lat: 37.77123

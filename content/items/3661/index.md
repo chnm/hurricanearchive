@@ -24,6 +24,8 @@ files:
     original_filename: P1010097.JPG
     thumb: /files/thumbnails/14fb2a5a470b9a14fb2a5a470f7f.jpg
     url: /files/original/14fb2a5a470b9a14fb2a5a470f7f.jpg
+    alt:
+      en: "A badly damaged blue car sits buried under storm debris and heaps of black trash bags piled in front of a brick house numbered 7224, its roof covered with a blue tarp."
 geo:
 id: 3661
 item_type: Still Image

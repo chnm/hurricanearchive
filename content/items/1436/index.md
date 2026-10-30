@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28316.jpg
     thumb: /files/thumbnails/14fb2a68befec214fb2a68bf0362.jpg
     url: /files/original/14fb2a68befec214fb2a68bf0362.jpg
+    alt:
+      en: "Severely damaged building with a twisted metal roof and exposed structural beams, surrounded by scattered debris, with one person visible standing amid the wreckage."
 geo:
   address: ''
   lat: 0.0

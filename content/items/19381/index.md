@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2242engineers.JPG
     thumb: /files/thumbnails/14fb2a10a3660e14fb2a10a38dc5.jpg
     url: /files/original/14fb2a10a3660e14fb2a10a38dc5.jpg
+    alt:
+      en: "A military-style front-end loader with a raised bucket arm clears debris and fallen branches in a wooded area, surrounded by trees and scattered leaves."
 geo:
 id: 19381
 item_type: Still Image

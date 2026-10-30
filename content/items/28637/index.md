@@ -23,6 +23,8 @@ files:
     original_filename: 158855292_bb9546ccda.jpg
     thumb: /files/thumbnails/14fb29d1fc8eae14fb29d1fc9292.jpg
     url: /files/original/14fb29d1fc8eae14fb29d1fc9292.jpg
+    alt:
+      en: "Storm-damaged house with mangled corrugated metal awning hanging loose, beside a wrecked red van with its hatch sprung open, debris scattered across the grass."
 geo:
 id: 28637
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0194.JPG
     thumb: /files/thumbnails/14fb2a5515829314fb2a55158679.jpg
     url: /files/original/14fb2a5515829314fb2a55158679.jpg
+    alt:
+      en: "A weathered porch scene with white slatted railings, a rusted metal panel, a broom, spray can, and various cloths and debris cluttering the wooden deck."
 geo:
 id: 4875
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2097superdome.JPG
     thumb: /files/thumbnails/14fb29de9a856114fb29de9a894a.jpg
     url: /files/original/14fb29de9a856114fb29de9a894a.jpg
+    alt:
+      en: "A military helicopter sits on a wet helipad in the foreground, with a person in camouflage fatigues visible at the edge of the frame; large white buildings rise in the background under a hazy sky."
 geo:
 id: 25372
 item_type: Still Image

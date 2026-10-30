@@ -21,6 +21,8 @@ files:
     original_filename: neworleans.neighborhoods
     thumb: /files/thumbnails/14fb29faf9639014fb29faf96775.jpg
     url: /files/original/14fb29faf9639014fb29faf96775.neighborhoods
+    alt:
+      en: "Map of New Orleans and surrounding parishes showing neighborhoods, levees, interstates, airports, Lake Pontchartrain, and the Mississippi River, with a legend identifying parish boundaries, roads, and infrastructure."
 geo:
 id: 21924
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 017_2229941743.jpg
     thumb: /files/thumbnails/14fb29c27411b614fb29c2741e84.jpg
     url: /files/original/14fb29c27411b614fb29c2741e84.jpg
+    alt:
+      en: "Weathered green clapboard house facade with a hand-painted pink heart over faded spray-painted search-and-rescue markings, flanked by a screen door and overgrown plants."
 geo:
   address: ''
   lat: 0.0

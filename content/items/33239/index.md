@@ -23,6 +23,8 @@ files:
     original_filename: 1252063501_9986a4cf38.jpg
     thumb: /files/thumbnails/14fb29cb50c9cb14fb29cb50cdb1.jpg
     url: /files/original/14fb29cb50c9cb14fb29cb50cdb1.jpg
+    alt:
+      en: "Glass double doors with a horizontal flood stain line visible across the panels, set into a brick building facade with plywood boarding up an adjacent window opening."
 geo:
 id: 33239
 item_type: Still Image

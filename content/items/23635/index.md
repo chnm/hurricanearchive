@@ -21,6 +21,8 @@ files:
     original_filename: P1010076empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee2a89bd14fb29ee2a8da2.jpg
     url: /files/original/14fb29ee2a89bd14fb29ee2a8da2.jpg
+    alt:
+      en: "Storm-damaged house with partially stripped roof and debris, leaning utility poles and sagging wires overhead, a car parked at the porch, and roadside debris along an empty street."
 geo:
 id: 23635
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eab91a0c14fb29eab9217a.jpg
     url: /files/original/14fb29eab91a0c14fb29eab9217a.jpg
+    alt:
+      en: "A worker in camouflage and orange safety chaps and helmet uses a chainsaw to cut a fallen tree, while several men with video and still cameras film and photograph the work along a residential street."
 geo:
 id: 24104
 item_type: Still Image

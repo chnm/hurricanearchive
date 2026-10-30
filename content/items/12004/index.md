@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 052.jpg
     thumb: /files/thumbnails/14fb2a225f351714fb2a225f394b.jpg
     url: /files/original/14fb2a225f351714fb2a225f394b.jpg
+    alt:
+      en: "Remains of a demolished building reduced to bare support posts and a concrete slab, with a surviving white staircase and railing, surrounded by storm-damaged trees and debris-strewn ground."
 geo:
 id: 12004
 item_type: Still Image

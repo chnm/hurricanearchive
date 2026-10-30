@@ -26,6 +26,8 @@ files:
     original_filename: DSCF1171_f1a05bf8db.JPG
     thumb: /files/thumbnails/14fb2a6d690f7514fb2a6d6913ba.jpg
     url: /files/original/14fb2a6d690f7514fb2a6d6913ba.jpg
+    alt:
+      en: "Flood-damaged living room with overturned, mud-caked furniture including a sofa, chairs, lamp, and tables, walls stained with waterlines and debris after Hurricane Katrina."
 geo:
   address: ''
   lat: 29.950862966754404

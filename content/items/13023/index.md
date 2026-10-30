@@ -21,6 +21,8 @@ files:
     original_filename: before air conditioner.jpg
     thumb: /files/thumbnails/14fb2a211d710614fb2a211d74ea.jpg
     url: /files/original/14fb2a211d710614fb2a211d74ea.jpg
+    alt:
+      en: "Rooftop industrial cooling unit with louvered vents and green piping, overlooking a town with a water tower reading \"Gulfport\" and scattered buildings in the background."
 geo:
 id: 13023
 item_type: Still Image

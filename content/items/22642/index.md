@@ -21,6 +21,8 @@ files:
     original_filename: More Jackson Barracks 11Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4e5940814fb29f4e597ed.jpg
     url: /files/original/14fb29f4e5940814fb29f4e597ed.jpg
+    alt:
+      en: "People in orange life vests wade through deep floodwater on a street submerged with partially covered vehicles, with a lit street lamp and hazy, rain-soaked surroundings."
 geo:
 id: 22642
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-25-24A.jpg
     thumb: /files/thumbnails/14fb29e837be5814fb29e837c185.jpg
     url: /files/original/14fb29e837be5814fb29e837c185.jpg
+    alt:
+      en: "Vehicles parked in a lot amid heavy rain or fog, with blurred trees and power lines visible in the background and a blank white sign on a post."
 geo:
 id: 24404
 item_type: Still Image

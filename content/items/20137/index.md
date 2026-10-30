@@ -21,6 +21,8 @@ files:
     original_filename: Picture 234cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b1592ae14fb2a0b159694.jpg
     url: /files/original/14fb2a0b1592ae14fb2a0b159694.jpg
+    alt:
+      en: "A group of military service members in camouflage uniforms and caps stand together outdoors near storm-damaged trees with browned leaves, some wearing gloves and holding water bottles."
 geo:
 id: 20137
 item_type: Still Image

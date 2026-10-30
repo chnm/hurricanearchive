@@ -24,6 +24,8 @@ files:
     original_filename: P1010140.JPG
     thumb: /files/thumbnails/14fb2a5aca330514fb2a5aca36f5.jpg
     url: /files/original/14fb2a5aca330514fb2a5aca36f5.jpg
+    alt:
+      en: "A large uprooted tree lies across a park lawn near a paved path, its massive root ball exposed and splintered branches scattered across the grass, with a wooded area visible in the background."
 geo:
 id: 3564
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2152rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d81d3b14fb2a13d82119.jpg
     url: /files/original/14fb2a13d81d3b14fb2a13d82119.jpg
+    alt:
+      en: "Close-up of a helicopter crew member in green flight suit and helmet, harnessed near an open hoist mechanism with a \"WARNING\" label, with a cityscape and water visible below."
 geo:
 id: 18990
 item_type: Still Image

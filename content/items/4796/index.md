@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0108.JPG
     thumb: /files/thumbnails/14fb2a5581ce5014fb2a5581dcdb.jpg
     url: /files/original/14fb2a5581ce5014fb2a5581dcdb.jpg
+    alt:
+      en: "A yellow tape measure stretched diagonally across a wooden stud frame, with sunlight casting shadows on the plywood wall behind it; dry grass and debris cover the ground below."
 geo:
 id: 4796
 item_type: Still Image

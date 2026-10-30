@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2000superdome.JPG
     thumb: /files/thumbnails/14fb29df8c789c14fb29df8c7c23.jpg
     url: /files/original/14fb29df8c789c14fb29df8c7c23.jpg
+    alt:
+      en: "Three people in matching tan shirts and camouflage pants embrace behind a concrete barrier on a roadway, with cardboard boxes and equipment visible in the background."
 geo:
 id: 25273
 item_type: Still Image

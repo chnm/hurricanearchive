@@ -27,6 +27,8 @@ files:
     original_filename: 384684819_ac6bdca772.
     thumb: /files/thumbnails/14fb29d29a9b6d14fb29d29a9f52.jpg
     url: /files/original/14fb29d29a9b6d14fb29d29a9f52.jpg
+    alt:
+      en: "A large spherical sculpture made of orange plastic safety netting, embedded with small photographs, hangs suspended inside a gutted room with exposed wooden studs and a tiled floor."
 geo:
   address: ''
   lat: 30.01333

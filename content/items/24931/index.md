@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1427superdome.JPG
     thumb: /files/thumbnails/14fb29e3bed56e14fb29e3bed953.jpg
     url: /files/original/14fb29e3bed56e14fb29e3bed953.jpg
+    alt:
+      en: "Two military police in camouflage uniforms stand under a covered walkway near civilians and luggage, with a glass-block wall, red trash bins, and a \"SAINTS\" banner visible in the background."
 geo:
 id: 24931
 item_type: Still Image

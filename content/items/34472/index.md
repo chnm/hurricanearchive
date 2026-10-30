@@ -23,6 +23,8 @@ files:
     original_filename: 2326885492_214a19303a.
     thumb: /files/thumbnails/14fb29c9dc46f114fb29c9dc4ad6.jpg
     url: /files/original/14fb29c9dc46f114fb29c9dc4ad6.jpg
+    alt:
+      en: "Debris-strewn lot with a crushed red car, scattered lumber, and appliances in front of a damaged apartment building marked \"ACT X,\" with power lines and a bare tree overhead."
 geo:
   address: ''
   lat: 30.233

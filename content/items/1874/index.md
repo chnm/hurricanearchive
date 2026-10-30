@@ -26,6 +26,8 @@ files:
     original_filename: Katrina_025_2f43bbcc36.jpg
     thumb: /files/thumbnails/14fb2a6e7768a214fb2a6e776c90.jpg
     url: /files/original/14fb2a6e7768a214fb2a6e776c90.jpg
+    alt:
+      en: "A dark SUV drives down a debris-strewn street past a damaged brick building with storm-stripped trees, downed power lines, and scattered rubble on both sides of the road."
 geo:
   address: ''
   lat: 30.429100508441405

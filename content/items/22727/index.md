@@ -21,6 +21,8 @@ files:
     original_filename: PICT0682Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f462589314fb29f4625c77.jpg
     url: /files/original/14fb29f462589314fb29f4625c77.jpg
+    alt:
+      en: "Two-story brick building with white columns and balconies, a sign reading \"COL SHERIDAN\" on a column, a person in camouflage fatigues standing nearby, and dried leaves scattered on the walkway; dated 09.15.2005."
 geo:
 id: 22727
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-16.jpg
     thumb: /files/thumbnails/14fb29d06abcf314fb29d06ac1e2.jpg
     url: /files/original/14fb29d06abcf314fb29d06ac1e2.jpg
+    alt:
+      en: "A CH-47 Chinook helicopter marked \"067\" hovers low over a tarmac as soldiers below secure netted supply pallets, with hangars and parked military aircraft visible in the background."
 geo:
 id: 29047
 item_type: Still Image

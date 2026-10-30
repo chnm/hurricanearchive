@@ -26,6 +26,8 @@ files:
     original_filename: sheesh_04fceea60d.jpg
     thumb: /files/thumbnails/14fb2a7035f32214fb2a7035f6fe.jpg
     url: /files/original/14fb2a7035f32214fb2a7035f6fe.jpg
+    alt:
+      en: "A man in a blue cap and black T-shirt sits on a stool in front of a collapsed, storm-damaged house, with marshland and water visible in the background."
 geo:
   address: ''
   lat: 0.0

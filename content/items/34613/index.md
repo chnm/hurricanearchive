@@ -24,6 +24,8 @@ files:
     original_filename: henderberg2_7d5225a788.jpg
     thumb: /files/thumbnails/14fb29c982c2ad14fb29c982c691.jpg
     url: /files/original/14fb29c982c2ad14fb29c982c691.jpg
+    alt:
+      en: "Marching band members in white and red uniforms carry large drums at night, one wearing a fur hat marked with a \"9,\" with other performers visible in the background."
 geo:
   address: 3500 St. Claude Ave., New Orleans, LA
   lat: 0.0

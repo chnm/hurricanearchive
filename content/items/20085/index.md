@@ -21,6 +21,8 @@ files:
     original_filename: Picture 182cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b663cd714fb2a0b6649ac.jpg
     url: /files/original/14fb2a0b663cd714fb2a0b6649ac.jpg
+    alt:
+      en: "A guardrail in the foreground overlooks a grassy field with standing water on a paved path, a parked truck, scattered trees, streetlights, and utility poles under a partly cloudy sky."
 geo:
 id: 20085
 item_type: Still Image

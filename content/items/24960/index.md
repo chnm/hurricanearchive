@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1476superdome.JPG
     thumb: /files/thumbnails/14fb29e397e66214fb29e397f058.jpg
     url: /files/original/14fb29e397e66214fb29e397f058.jpg
+    alt:
+      en: "Military medical helicopter marked \"2533\" with a red cross insignia sits on pavement with two uniformed personnel nearby, parked beneath an elevated highway overpass."
 geo:
 id: 24960
 item_type: Still Image

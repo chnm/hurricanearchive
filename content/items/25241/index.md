@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1939superdome.JPG
     thumb: /files/thumbnails/14fb29e07c98fc14fb29e07c9cd5.jpg
     url: /files/original/14fb29e07c98fc14fb29e07c9cd5.jpg
+    alt:
+      en: "A military Chinook helicopter sits on a rooftop helipad with twin rotor blades extended, overlooking a cityscape with elevated highways and tall buildings under an overcast sky; cases of bottled water are stacked nearby."
 geo:
 id: 25241
 item_type: Still Image

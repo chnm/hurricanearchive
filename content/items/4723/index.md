@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0070.JPG
     thumb: /files/thumbnails/14fb2a55f6a8cf14fb2a55f6acb2.jpg
     url: /files/original/14fb2a55f6a8cf14fb2a55f6acb2.jpg
+    alt:
+      en: "Storm-damaged lot with debris scattered across bare dirt, an uprooted tree lying on its side, and sparse surviving trees; a red vehicle sits parked along a road in the foreground."
 geo:
 id: 4723
 item_type: Still Image

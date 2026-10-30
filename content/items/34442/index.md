@@ -23,6 +23,8 @@ files:
     original_filename: 2326887050_80ea93af0b.
     thumb: /files/thumbnails/14fb29ca05c0da14fb29ca05c4c0.jpg
     url: /files/original/14fb29ca05c0da14fb29ca05c4c0.jpg
+    alt:
+      en: "An aqua-colored house knocked off its foundation leans against debris-strewn trees, with a handwritten sign reading \"SCUMBAG LOOTERS (IF CAUGHT) WILL DIE!!!\" posted near the road."
 geo:
   address: ''
   lat: 30.22848

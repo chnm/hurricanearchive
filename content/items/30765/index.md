@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7646.JPG
     thumb: /files/thumbnails/14fb29cc908efb14fb29cc9092e1.jpg
     url: /files/original/14fb29cc908efb14fb29cc9092e1.jpg
+    alt:
+      en: "Interior view through a hallway into a living room with arched windows, featuring a wooden dresser, desk with office chair, coffee table, and a bicycle leaning against a couch, with framed pictures on the wall."
 geo:
 id: 30765
 item_type: Still Image

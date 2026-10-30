@@ -21,6 +21,8 @@ files:
     original_filename: Picture 413-J2.jpg
     thumb: /files/thumbnails/14fb29f994fe7214fb29f995024c.jpg
     url: /files/original/14fb29f994fe7214fb29f995024c.jpg
+    alt:
+      en: "Military personnel in camouflage and tan uniforms gather in a dimly lit arena with empty bleacher seating, some kneeling near cots with folded blankets and pillows, beside a whiteboard with handwritten notes."
 geo:
 id: 22082
 item_type: Still Image

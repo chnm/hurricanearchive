@@ -24,6 +24,8 @@ files:
     original_filename: P1010147.JPG
     thumb: /files/thumbnails/14fb2a5ac3559914fb2a5ac35989.jpg
     url: /files/original/14fb2a5ac3559914fb2a5ac35989.jpg
+    alt:
+      en: "Massive pile of debris including splintered wood, cardboard boxes, orange tubing, concrete chunks, and a \"No Smoking\" sign, with a television set partially buried among the wreckage under a clear blue sky."
 geo:
 id: 3572
 item_type: Still Image

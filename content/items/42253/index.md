@@ -23,6 +23,8 @@ files:
     original_filename: cutoff_c6a521bcd4.JPG
     thumb: /files/thumbnails/14fb29c2a2c25f14fb29c2a2c644.jpg
     url: /files/original/14fb29c2a2c25f14fb29c2a2c644.jpg
+    alt:
+      en: "Flooded road intersection with trees and power lines, a submerged car partially visible, and a brick building with a partially obscured sign in the background, photographed through a rain-streaked windshield."
 geo:
   address: ''
   lat: 0.0

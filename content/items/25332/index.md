@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2059superdome.JPG
     thumb: /files/thumbnails/14fb29df04150114fb29df041ae1.jpg
     url: /files/original/14fb29df04150114fb29df041ae1.jpg
+    alt:
+      en: "Close-up of several people in military camouflage uniforms and a man in a white t-shirt, heads bowed together, with a vehicle and others in fatigues visible in the background."
 geo:
 id: 25332
 item_type: Still Image

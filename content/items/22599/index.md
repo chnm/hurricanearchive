@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0563Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f51ceca814fb29f51cf317.jpg
     url: /files/original/14fb29f51ceca814fb29f51cf317.jpg
+    alt:
+      en: "A flooded residential area with brick buildings surrounded by murky floodwater, a partially submerged white travel trailer or camper floating in the foreground, viewed through power lines."
 geo:
 id: 22599
 item_type: Still Image

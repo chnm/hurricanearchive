@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d7f2cf114fb2a0d7f30d5.jpg
     url: /files/original/14fb2a0d7f2cf114fb2a0d7f30d5.jpg
+    alt:
+      en: "Interior of a wood-framed building under construction, showing exposed ceiling joists and stud walls lined with PVC plumbing pipes and electrical fixtures along one wall."
 geo:
 id: 19834
 item_type: Still Image

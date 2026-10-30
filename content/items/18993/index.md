@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2155rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d55e4b14fb2a13d56231.jpg
     url: /files/original/14fb2a13d55e4b14fb2a13d56231.jpg
+    alt:
+      en: "Aerial view from a helicopter showing a person in camouflage gear standing on a rooftop, with the helicopter's riveted metal frame visible in the foreground."
 geo:
 id: 18993
 item_type: Still Image

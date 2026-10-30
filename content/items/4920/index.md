@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0239.JPG
     thumb: /files/thumbnails/14fb2a54f51b6514fb2a54f51f4c.jpg
     url: /files/original/14fb2a54f51b6514fb2a54f51f4c.jpg
+    alt:
+      en: "Two broken cinderblocks lie beside an overturned white-framed drawer or tray filled with pine needles and dead leaves, debris scattered across muddy, leaf-covered ground."
 geo:
 id: 4920
 item_type: Still Image

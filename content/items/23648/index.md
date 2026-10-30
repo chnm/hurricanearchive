@@ -21,6 +21,8 @@ files:
     original_filename: P1010089empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee1829e214fb29ee182d1b.jpg
     url: /files/original/14fb29ee1829e214fb29ee182d1b.jpg
+    alt:
+      en: "A flooded street scene showing a partially submerged pickup truck, debris and algae floating on standing water, with damaged structures, bare trees, and power lines in the background."
 geo:
 id: 23648
 item_type: Still Image

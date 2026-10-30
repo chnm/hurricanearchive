@@ -21,6 +21,8 @@ files:
     original_filename: Aerial imagery 1.JPG
     thumb: /files/thumbnails/14fb2a1be0641314fb2a1be0760c.jpg
     url: /files/original/14fb2a1be0641314fb2a1be0760c.jpg
+    alt:
+      en: "Aerial map printout of a coastal river delta area with orange grid overlay, held down on pavement by two people's hands, with a red compass rose symbol in the corner."
 geo:
   address: ''
   lat: 0.0

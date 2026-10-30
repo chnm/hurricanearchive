@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1596neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee92989d14fb29ee929c7b.jpg
     url: /files/original/14fb29ee92989d14fb29ee929c7b.jpg
+    alt:
+      en: "Military personnel in camouflage and civilians gather near parked cars, including an ABC 26 news vehicle, on a flooded street with standing water lining the roadside."
 geo:
 id: 23596
 item_type: Still Image

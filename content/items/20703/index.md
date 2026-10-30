@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0061-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a04d94d5514fb2a04d9513b.jpg
     url: /files/original/14fb2a04d94d5514fb2a04d9513b.jpg
+    alt:
+      en: "Floodwater surrounds a raised house with a metal roof and a boat on a trailer, with trees partially submerged and a cloudy sky overhead."
 geo:
 id: 20703
 item_type: Still Image

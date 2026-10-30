@@ -26,6 +26,8 @@ files:
     original_filename: NOLA_after_Katrina_Oct_2005_191_66b5601de2.jpg
     thumb: /files/thumbnails/14fb2a6ec1976e14fb2a6ec19b54.jpg
     url: /files/original/14fb2a6ec1976e14fb2a6ec19b54.jpg
+    alt:
+      en: "A wooden display board with a \"BELLSOUTH\" logo holds several corded telephones for public use, set up under a tent with trucks visible in the background."
 geo:
   address: ''
   lat: 30.3145058323889

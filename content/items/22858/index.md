@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0148mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f305e66614fb29f305ea43.jpg
     url: /files/original/14fb29f305e66614fb29f305ea43.jpg
+    alt:
+      en: "A soldier in camouflage fatigues stands beside a portable STOP sign at a roadway checkpoint, with vehicles and a green street sign visible in the background."
 geo:
 id: 22858
 item_type: Still Image

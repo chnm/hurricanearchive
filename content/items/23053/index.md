@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063OEP.JPG
     thumb: /files/thumbnails/14fb29f1b552c914fb29f1b556af.jpg
     url: /files/original/14fb29f1b552c914fb29f1b556af.jpg
+    alt:
+      en: "A man in a maroon shirt sits outdoors on a folding chair with a laptop, surrounded by camera equipment, tripods, cables, and a \"Porta Brace\" gear bag, with vehicles parked in the background."
 geo:
 id: 23053
 item_type: Still Image

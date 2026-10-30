@@ -21,6 +21,8 @@ files:
     original_filename: DSC01040.JPG
     thumb: /files/thumbnails/14fb2a58b4230914fb2a58b42706.jpg
     url: /files/original/14fb2a58b4230914fb2a58b42706.jpg
+    alt:
+      en: "Large \"Porta Kleen\" mobile service trailer with stairs and a crane arm parked at a waterfront dock, with a man standing nearby and hoses coiled on the pavement near boats."
 geo:
 id: 3963
 item_type: Still Image

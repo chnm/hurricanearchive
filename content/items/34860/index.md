@@ -20,6 +20,8 @@ files:
     original_filename: 2457563916_33b3c3a700.
     thumb: /files/thumbnails/14fb29c8e20d3e14fb29c8e21124.jpg
     url: /files/original/14fb29c8e20d3e14fb29c8e21124.jpg
+    alt:
+      en: "Wooden stakes and string outline building foundations on cleared, sandy ground, with yellow caution tape strung between posts and dense trees surrounding the site."
 geo:
 id: 34860
 item_type: Still Image

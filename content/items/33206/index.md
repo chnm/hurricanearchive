@@ -20,6 +20,8 @@ files:
     original_filename: 1281610027_bf9ab92b62.jpg
     thumb: /files/thumbnails/14fb29cb8f029614fb29cb8f067d.jpg
     url: /files/original/14fb29cb8f029614fb29cb8f067d.jpg
+    alt:
+      en: "A man sits atop a large pile of storm debris—broken boards, insulation, and household wreckage—in front of a damaged brick house with its windows and doors missing, under a partly cloudy sky."
 geo:
 id: 33206
 item_type: Still Image

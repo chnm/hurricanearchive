@@ -21,6 +21,8 @@ files:
     original_filename: SPC James King.JPG
     thumb: /files/thumbnails/14fb2a1ad4704714fb2a1ad4c003.jpg
     url: /files/original/14fb2a1ad4704714fb2a1ad4c003.jpg
+    alt:
+      en: "A young soldier in woodland camouflage fatigues with an American flag patch and \"King\" nametape smiles in an indoor dining hall; the photo is timestamped 09.24.2005."
 geo:
   address: ''
   lat: 0.0

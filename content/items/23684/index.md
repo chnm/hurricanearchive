@@ -21,6 +21,8 @@ files:
     original_filename: P1010125empireS&R.JPG
     thumb: /files/thumbnails/14fb29ede7a09914fb29ede7a7f8.jpg
     url: /files/original/14fb29ede7a09914fb29ede7a7f8.jpg
+    alt:
+      en: "Flooded, debris-strewn field with scattered storm wreckage and downed materials near a tree line, standing water in the foreground, and power lines crossing an overcast sky."
 geo:
 id: 23684
 item_type: Still Image

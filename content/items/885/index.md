@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28356.jpg
     thumb: /files/thumbnails/14fb2a6c81b38114fb2a6c81b9a9.jpg
     url: /files/original/14fb2a6c81b38114fb2a6c81b9a9.jpg
+    alt:
+      en: "A large fallen statue of a human figure lies on a dirt lot, with its arm reaching upward; collapsed structural debris and a body of water are visible in the background."
 geo:
   address: ''
   lat: 0.0

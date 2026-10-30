@@ -21,6 +21,8 @@ files:
     original_filename: KJ Prom  2  1956_a8db5826db.jpg
     thumb: /files/thumbnails/14fb29d6d4a3ed14fb29d6d4a966.jpg
     url: /files/original/14fb29d6d4a3ed14fb29d6d4a966.jpg
+    alt:
+      en: "Black-and-white photo of two couples in formal attire seated at a table with 7Up bottles and a lace tablecloth, decorative umbrellas and foliage hanging on the wall behind them."
 geo:
   address: ''
   lat: 29.91685

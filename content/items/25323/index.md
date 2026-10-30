@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2050superdome.JPG
     thumb: /files/thumbnails/14fb29df14ebf114fb29df14efd4.jpg
     url: /files/original/14fb29df14ebf114fb29df14efd4.jpg
+    alt:
+      en: "Military personnel and civilians assist evacuees carrying bags and belongings toward a helicopter on a tarmac, with an elevated highway overpass visible in the background."
 geo:
 id: 25323
 item_type: Still Image

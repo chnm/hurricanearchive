@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0655.JPG
     thumb: /files/thumbnails/14fb29cfce66db14fb29cfce6cfc.jpg
     url: /files/original/14fb29cfce66db14fb29cfce6cfc.jpg
+    alt:
+      en: "Military Humvees, some marked \"Military Police,\" parked in rows on a paved lot, with a civilian pickup truck and traffic cones in the foreground and bare trees under a cloudy sky."
 geo:
 id: 29096
 item_type: Still Image

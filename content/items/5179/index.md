@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0541.JPG
     thumb: /files/thumbnails/14fb2a537c2e3914fb2a537c3225.jpg
     url: /files/original/14fb2a537c2e3914fb2a537c3225.jpg
+    alt:
+      en: "A yellow measuring tape hangs from a wooden beam framed with chicken wire fencing, measuring the gap between two horizontal boards against a clear blue sky."
 geo:
 id: 5179
 item_type: Still Image

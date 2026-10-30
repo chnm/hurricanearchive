@@ -20,6 +20,8 @@ files:
     original_filename: Hands_b777a34e0c.jpg
     thumb: /files/thumbnails/14fb29c1d2d47e14fb29c1d2dc4d.jpg
     url: /files/original/14fb29c1d2d47e14fb29c1d2dc4d.jpg
+    alt:
+      en: "A bronze sculpture of two praying hands mounted on a wooden base, set in a dimly lit room with a staircase and wooden paneling in the background."
 geo:
   address: ''
   lat: 30.35927

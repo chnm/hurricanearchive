@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1521superdome.JPG
     thumb: /files/thumbnails/14fb29e3056acd14fb29e3056eb2.jpg
     url: /files/original/14fb29e3056acd14fb29e3056eb2.jpg
+    alt:
+      en: "Military helicopter with a red cross marking hovers over an empty parking lot, viewed from inside a vehicle, with a large plume of black smoke rising in the distance."
 geo:
 id: 24999
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6176_dbfe009f0f.jpg
     thumb: /files/thumbnails/14fb29dd88ed2014fb29dd88f106.jpg
     url: /files/original/14fb29dd88ed2014fb29dd88f106.jpg
+    alt:
+      en: "Vintage portrait of a smiling young woman with shoulder-length brown hair, wearing a white graduation cap and gown; the aged photo shows discoloration and small spots."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

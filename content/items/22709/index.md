@@ -21,6 +21,8 @@ files:
     original_filename: PICT0607Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f487670c14fb29f4876aeb.jpg
     url: /files/original/14fb29f487670c14fb29f4876aeb.jpg
+    alt:
+      en: "A large fallen tree trunk lies across the lawn of a two-story brick building with white columns and balconies, its roof partially damaged; date stamp reads 09.15.2005."
 geo:
 id: 22709
 item_type: Still Image

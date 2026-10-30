@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 045.jpg
     thumb: /files/thumbnails/14fb2a22b5742214fb2a22b577fe.jpg
     url: /files/original/14fb2a22b5742214fb2a22b577fe.jpg
+    alt:
+      en: "A woman stands with arms outstretched near a bent, fallen light pole along a sand-covered coastal road, with the ocean visible behind her; the photo is dated 2005/09/24."
 geo:
 id: 11923
 item_type: Still Image

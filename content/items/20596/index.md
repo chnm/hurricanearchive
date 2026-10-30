@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040-9-25.JPG
     thumb: /files/thumbnails/14fb2a05c523e914fb2a05c527ce.jpg
     url: /files/original/14fb2a05c523e914fb2a05c527ce.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with mobile homes and houses surrounded by standing water, missing roofs, scattered debris, and downed trees along a partially submerged street."
 geo:
 id: 20596
 item_type: Still Image

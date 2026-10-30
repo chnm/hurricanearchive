@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0302westend.JPG
     thumb: /files/thumbnails/14fb2a14127bda14fb2a14127fd9.jpg
     url: /files/original/14fb2a14127bda14fb2a14127fd9.jpg
+    alt:
+      en: "Aerial view of a marina with rows of docked sailboats and powerboats, many tilted, damaged, or piled against piers, with covered boat slips and debris visible along the shoreline."
 geo:
 id: 18945
 item_type: Still Image

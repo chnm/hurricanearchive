@@ -21,6 +21,8 @@ files:
     original_filename: 204 billboard damage3.jpg
     thumb: /files/thumbnails/14fb2a1f4e7ffb14fb2a1f4e8dde.jpg
     url: /files/original/14fb2a1f4e7ffb14fb2a1f4e8dde.jpg
+    alt:
+      en: "A storm-damaged billboard with twisted metal framework and a partially torn sign reading \"600,\" set against an overcast sky with trees below."
 geo:
 id: 13210
 item_type: Still Image

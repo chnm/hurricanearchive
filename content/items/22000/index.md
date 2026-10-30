@@ -21,6 +21,8 @@ files:
     original_filename: Picture 331-J2.jpg
     thumb: /files/thumbnails/14fb29fa349fc314fb29fa34a39f.jpg
     url: /files/original/14fb29fa349fc314fb29fa34a39f.jpg
+    alt:
+      en: "Sidewalk leading through a grassy park area lined with large oak trees and a black iron fence, with street signs, a traffic signal, and scattered debris visible nearby."
 geo:
 id: 22000
 item_type: Still Image

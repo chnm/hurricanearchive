@@ -21,6 +21,8 @@ files:
     original_filename: aerials68.jpg
     thumb: /files/thumbnails/14fb2a199e647f14fb2a199e6728.jpg
     url: /files/original/14fb2a199e647f14fb2a199e6728.jpg
+    alt:
+      en: "Aerial view of a damaged bridge over water, with a long row of remaining support pilings extending toward a distant shoreline lined with buildings and trees."
 geo:
 id: 14358
 item_type: Still Image

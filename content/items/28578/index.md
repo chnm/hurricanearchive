@@ -23,6 +23,8 @@ files:
     original_filename: 163135510_2774c93945.jpg
     thumb: /files/thumbnails/14fb29d23f3d7214fb29d2400077.jpg
     url: /files/original/14fb29d23f3d7214fb29d2400077.jpg
+    alt:
+      en: "Brick building with a green awning marked \"6169\" over an entrance walkway leading to a fountain, flanked by shuttered windows and overgrown plants."
 geo:
 id: 28578
 item_type: Still Image

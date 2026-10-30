@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0052.JPG
     thumb: /files/thumbnails/14fb2a56b1180214fb2a56b11be8.jpg
     url: /files/original/14fb2a56b1180214fb2a56b11be8.jpg
+    alt:
+      en: "A single-story house with a blue tarp covering part of its storm-damaged roof, surrounded by scattered debris and fallen tree limbs in the yard."
 geo:
 id: 4626
 item_type: Still Image

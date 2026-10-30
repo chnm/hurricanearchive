@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1684superdome.JPG
     thumb: /files/thumbnails/14fb29e25589ce14fb29e2558db0.jpg
     url: /files/original/14fb29e25589ce14fb29e2558db0.jpg
+    alt:
+      en: "Rows of military police and soldiers in camouflage uniforms stand in formation on a brick plaza, with military trucks and tall glass office buildings in the background; a vehicle marked \"773MPBN\" sits in the foreground."
 geo:
 id: 25097
 item_type: Still Image

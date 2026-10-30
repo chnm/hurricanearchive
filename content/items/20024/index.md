@@ -21,6 +21,8 @@ files:
     original_filename: Picture 121cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba5a99e14fb2a0ba5ad83.jpg
     url: /files/original/14fb2a0ba5a99e14fb2a0ba5ad83.jpg
+    alt:
+      en: "A military Humvee carrying three uniformed personnel in camouflage is parked on a street, with a house and wall visible in the background."
 geo:
 id: 20024
 item_type: Still Image

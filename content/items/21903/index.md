@@ -21,6 +21,8 @@ files:
     original_filename: St. John Airport.jpg
     thumb: /files/thumbnails/14fb29fb10fdf914fb29fb1101de.jpg
     url: /files/original/14fb29fb10fdf914fb29fb1101de.jpg
+    alt:
+      en: "Aerial view of St. John Airport, showing a single runway labeled \"35\" with parallel taxiway, a ramp area with \"ST JOHN\" painted on the tarmac, small aircraft parked near hangars, surrounding farmland, a pond, and tree lines."
 geo:
 id: 21903
 item_type: Still Image

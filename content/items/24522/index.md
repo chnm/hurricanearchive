@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0109H.JPG
     thumb: /files/thumbnails/14fb29e728403014fb29e728438c.jpg
     url: /files/original/14fb29e728403014fb29e728438c.jpg
+    alt:
+      en: "Five women wearing Hooters uniforms with \"Siegen Lane, Baton Rouge II, LA\" logos pose with a man in U.S. Army camouflage fatigues, smiling together in a dimly lit venue."
 geo:
 id: 24522
 item_type: Still Image

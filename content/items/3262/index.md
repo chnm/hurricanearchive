@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (26).JPG
     thumb: /files/thumbnails/14fb2a5d04a7aa14fb2a5d04ab87.jpg
     url: /files/original/14fb2a5d04a7aa14fb2a5d04ab87.jpg
+    alt:
+      en: "Mud-covered residential street with cracked, dried silt coating the road and sidewalks, flanked by damaged houses, a picket fence, utility poles, and a parked car in the distance."
 geo:
 id: 3262
 item_type: Still Image

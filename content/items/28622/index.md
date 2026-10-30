@@ -23,6 +23,8 @@ files:
     original_filename: 159309962_ab5c6e277f.jpg
     thumb: /files/thumbnails/14fb29d213ff7114fb29d2140614.jpg
     url: /files/original/14fb29d213ff7114fb29d2140614.jpg
+    alt:
+      en: "A weathered orange toy car lies on its side among debris, rocks, twigs, and dried leaves scattered across muddy ground."
 geo:
 id: 28622
 item_type: Still Image

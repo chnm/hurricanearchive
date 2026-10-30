@@ -20,6 +20,8 @@ files:
     original_filename: evacuee_stories7_f6bcbc5581.jpg
     thumb: /files/thumbnails/14fb29dbcdeec514fb29dbcdf2ab.jpg
     url: /files/original/14fb29dbcdeec514fb29dbcdf2ab.jpg
+    alt:
+      en: "Handwritten needs assessment form filled out by Vicky Thomas, an evacuee from Port Sulphur, Louisiana, describing Hurricane Katrina's destruction of her home and listing needs including clothes, housing, and transportation."
 geo:
   address: 125 S Buchanan St, Lafayette, LA
   lat: 30.23045

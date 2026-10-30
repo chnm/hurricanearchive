@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0011.JPG
     thumb: /files/thumbnails/14fb2a1bb8bcb114fb2a1bb8c0a5.jpg
     url: /files/original/14fb2a1bb8bcb114fb2a1bb8c0a5.jpg
+    alt:
+      en: "Two people in camouflage caps in the foreground, with a blurred scoreboard reading \"IOWA YELLOW JACKETS\" and \"HOME/VISITOR\" behind a chain-link fence and a tan building."
 geo:
   address: ''
   lat: 0.0

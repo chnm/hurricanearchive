@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eb08cb4014fb29eb08d4fd.jpg
     url: /files/original/14fb29eb08cb4014fb29eb08d4fd.jpg
+    alt:
+      en: "Aerial view of a flattened coastal town surrounded by floodwaters and marshland, with damaged buildings, scattered debris, and a partially submerged road, including a visible \"Family Dollar\" sign."
 geo:
 id: 24071
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-15family1997bday_2336853736.jpg
     thumb: /files/thumbnails/14fb29dc886b6f14fb29dc888cd9.jpg
     url: /files/original/14fb29dc886b6f14fb29dc888cd9.jpg
+    alt:
+      en: "Five family members pose together in a kitchen for a birthday photo, two standing behind three seated at a wooden table, with a hutch and refrigerator in the background; handwritten \"9-97\" below."
 geo:
 id: 25738
 item_type: Still Image

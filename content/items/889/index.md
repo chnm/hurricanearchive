@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28089.jpg
     thumb: /files/thumbnails/14fb2a6c7b994a14fb2a6c7b9d2f.jpg
     url: /files/original/14fb2a6c7b994a14fb2a6c7b9d2f.jpg
+    alt:
+      en: "Exterior wall of a building with garage-style panel doors, showing a dark horizontal water stain line and streaking, with debris-covered pavement and a torn awning in the foreground."
 geo:
   address: ''
   lat: 0.0

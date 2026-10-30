@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0315.JPG
     thumb: /files/thumbnails/14fb2a5608bec514fb2a5608c2aa.jpg
     url: /files/original/14fb2a5608bec514fb2a5608c2aa.jpg
+    alt:
+      en: "A small motorboat lies overturned and wedged amid dense shrubs and trees along a roadside, its white hull visible among the tangled branches and debris."
 geo:
 id: 4706
 item_type: Still Image

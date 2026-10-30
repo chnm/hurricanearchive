@@ -21,6 +21,8 @@ files:
     original_filename: 100_0126.JPG
     thumb: /files/thumbnails/14fb2a594d4bbe14fb2a594d4fa5.jpg
     url: /files/original/14fb2a594d4bbe14fb2a594d4fa5.jpg
+    alt:
+      en: "Waterfront view from a boat showing storm-damaged buildings with exposed roofing and collapsed structures along the shoreline, framed by trees under a hazy sky."
 geo:
 id: 3835
 item_type: Still Image

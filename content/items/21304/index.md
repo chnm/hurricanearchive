@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0223-21.JPG
     thumb: /files/thumbnails/14fb29ff9288bd14fb29ff928c9a.jpg
     url: /files/original/14fb29ff9288bd14fb29ff928c9a.jpg
+    alt:
+      en: "Crew member wearing a flight helmet and tactical vest leans out of an aircraft doorway, looking down toward buildings and a green field below."
 geo:
 id: 21304
 item_type: Still Image

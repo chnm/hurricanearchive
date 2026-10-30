@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0156abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef213c2014fb29ef213fff.jpg
     url: /files/original/14fb29ef213c2014fb29ef213fff.jpg
+    alt:
+      en: "Storm-damaged single-story building with a partially torn metal roof and missing lower wall siding, surrounded by debris, mud, and standing floodwater, with downed trees in the background."
 geo:
 id: 23520
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 082cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bd34d0d14fb2a0bd350f4.jpg
     url: /files/original/14fb2a0bd34d0d14fb2a0bd350f4.jpg
+    alt:
+      en: "A booted foot rests on the edge of a vehicle doorway as murky, turbulent floodwater churns below."
 geo:
 id: 19985
 item_type: Still Image

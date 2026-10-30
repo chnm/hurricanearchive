@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0022abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea375bd614fb29ea375fb3.jpg
     url: /files/original/14fb29ea375bd614fb29ea375fb3.jpg
+    alt:
+      en: "A military vehicle drives through a flooded roadway, splashing water as a side mirror reflects the driver, with submerged yellow lane markings and floodwater stretching into the distance."
 geo:
 id: 24153
 item_type: Still Image

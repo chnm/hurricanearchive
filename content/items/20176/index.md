@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0002.JPG
     thumb: /files/thumbnails/14fb2a0af031f714fb2a0af035d3.jpg
     url: /files/original/14fb2a0af031f714fb2a0af035d3.jpg
+    alt:
+      en: "A military medevac helicopter with red cross markings sits on a paved pad, rotors blurred in motion, with Quonset hut buildings and trees in the background under a partly cloudy sky."
 geo:
 id: 20176
 item_type: Still Image

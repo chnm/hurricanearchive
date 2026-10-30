@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 103.jpg
     thumb: /files/thumbnails/14fb2a12017e7214fb2a1201a2df.jpg
     url: /files/original/14fb2a12017e7214fb2a1201a2df.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms stand talking in a storm-damaged yard with fallen branches and debris, with palm trees and a large house visible in the background."
 geo:
 id: 19193
 item_type: Still Image

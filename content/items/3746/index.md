@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 026.jpg
     thumb: /files/thumbnails/14fb2a59deacc814fb2a59deb0ae.jpg
     url: /files/original/14fb2a59deacc814fb2a59deb0ae.jpg
+    alt:
+      en: "Storm-damaged house with handwritten address \"321 OAK ST.\" on its siding, surrounded by debris, a tire, and rubble, with a battered brick building and chain-link fence nearby under a clear sky."
 geo:
 id: 3746
 item_type: Still Image

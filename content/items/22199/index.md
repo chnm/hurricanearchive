@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1006Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f92537b614fb29f9253b93.jpg
     url: /files/original/14fb29f92537b614fb29f9253b93.jpg
+    alt:
+      en: "A camouflage military Humvee towing a covered trailer crosses an intersection under a red traffic light, with a white sedan and brick gatehouse visible near a walled compound entrance."
 geo:
 id: 22199
 item_type: Still Image

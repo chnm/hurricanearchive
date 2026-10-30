@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2049superdome.JPG
     thumb: /files/thumbnails/14fb29df16764b14fb29df167a30.jpg
     url: /files/original/14fb29df16764b14fb29df167a30.jpg
+    alt:
+      en: "A crowd of evacuees and military personnel in camouflage fatigues gather on a wet roadway near an elevated highway, with one man in camouflage helping carry a red and black duffel bag."
 geo:
 id: 25322
 item_type: Still Image

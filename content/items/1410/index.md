@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27908.jpg
     thumb: /files/thumbnails/14fb2a690dff8c14fb2a690e0373.jpg
     url: /files/original/14fb2a690dff8c14fb2a690e0373.jpg
+    alt:
+      en: "White wood-frame house with a brick-and-iron-railing porch, featuring a spray-painted \"X\" search marking on the wall beside the front door, debris on the steps below."
 geo:
   address: ''
   lat: 0.0

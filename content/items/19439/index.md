@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0302engineers.JPG
     thumb: /files/thumbnails/14fb2a1002bbb214fb2a1002bf97.jpg
     url: /files/original/14fb2a1002bbb214fb2a1002bf97.jpg
+    alt:
+      en: "A Caterpillar skid-steer loader driven by a worker in a red hard hat moves along a mud-covered street, with a storm-damaged house and fallen tree debris visible in the background."
 geo:
 id: 19439
 item_type: Still Image

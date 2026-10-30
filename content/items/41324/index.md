@@ -20,6 +20,8 @@ files:
     original_filename: scan0001_edafd1dac1.jpg
     thumb: /files/thumbnails/14fb29c41db35914fb29c41db496.jpg
     url: /files/original/14fb29c41db35914fb29c41db496.jpg
+    alt:
+      en: "Open refrigerator interior with spoiled, moldy food on the bottom shelf, a milk jug, dark liquid in a container, and assorted items on the door shelves, with a kitchen cabinet visible beside it."
 geo:
   address: 2629 buccaneer dr
   lat: 0.0

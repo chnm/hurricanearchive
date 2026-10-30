@@ -24,6 +24,8 @@ files:
     original_filename: P1010097.JPG
     thumb: /files/thumbnails/14fb2a5b2e048414fb2a5b2e086a.jpg
     url: /files/original/14fb2a5b2e048414fb2a5b2e086a.jpg
+    alt:
+      en: "Front porch of a house numbered 2684, with a red door marked in yellow spray paint with an X and a search-and-rescue notation reading \"9÷10\" and \"12:30.\""
 geo:
 id: 3522
 item_type: Still Image

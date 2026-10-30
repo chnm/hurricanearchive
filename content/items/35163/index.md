@@ -23,6 +23,8 @@ files:
     original_filename: 2390260378_84b2a64bdd.jpg
     thumb: /files/thumbnails/14fb29c765eaed14fb29c765eecf.jpg
     url: /files/original/14fb29c765eaed14fb29c765eecf.jpg
+    alt:
+      en: "Quiet residential street with single-story brick homes, one showing roof damage, under an overcast sky; a fire hydrant, utility poles, and a few parked vehicles line the empty road."
 geo:
 id: 35163
 item_type: Still Image

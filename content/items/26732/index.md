@@ -24,6 +24,8 @@ files:
     original_filename: JB 4 New Orleans Home 1951_565317e820.1.jpg
     thumb: /files/thumbnails/14fb29d821c86614fb29d821cc4b.jpg
     url: /files/original/14fb29d821c86614fb29d821cc4b.jpg
+    alt:
+      en: "Black-and-white photo of a woman and three children standing on grass in front of a wood-sided house, with a girl in a plaid dress, a toddler in shorts, and an older boy in a striped shirt."
 geo:
   address: ''
   lat: 29.87876

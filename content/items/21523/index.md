@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0283-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fdcb9fa314fb29fdcba388.jpg
     url: /files/original/14fb29fdcb9fa314fb29fdcba388.jpg
+    alt:
+      en: "Aerial view of extensive floodwater submerging a roadway, fence lines, and railroad tracks, with a partially visible speed limit sign, utility poles, trees, and buildings surrounded by water."
 geo:
 id: 21523
 item_type: Still Image

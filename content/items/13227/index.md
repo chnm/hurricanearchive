@@ -21,6 +21,8 @@ files:
     original_filename: 222 beaumont window.jpg
     thumb: /files/thumbnails/14fb2a1f2a76a914fb2a1f2a7a8e.jpg
     url: /files/original/14fb2a1f2a76a914fb2a1f2a7a8e.jpg
+    alt:
+      en: "Broken window with shattered glass and a crack running across the pane, plywood boarding visible behind it, set against a stucco wall with a red chair nearby."
 geo:
 id: 13227
 item_type: Still Image

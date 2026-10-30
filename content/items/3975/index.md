@@ -21,6 +21,8 @@ files:
     original_filename: DSC01060.JPG
     thumb: /files/thumbnails/14fb2a58abe3f414fb2a58abe7da.jpg
     url: /files/original/14fb2a58abe3f414fb2a58abe7da.jpg
+    alt:
+      en: "A man in a dark uniform with an American flag patch bends over a cooler, pouring ice onto bottled water beside a row of RVs or travel trailers; timestamp reads 5:34 PM."
 geo:
 id: 3975
 item_type: Still Image

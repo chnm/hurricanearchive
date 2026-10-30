@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023M.JPG
     thumb: /files/thumbnails/14fb2a069f1adb14fb2a069f1e6b.jpg
     url: /files/original/14fb2a069f1adb14fb2a069f1e6b.jpg
+    alt:
+      en: "Apartment building with damaged, patchy roof shingles exposing underlying material, viewed over a concrete highway barrier; the building bears the number \"2848\" on its faded tan and green siding."
 geo:
 id: 20497
 item_type: Still Image

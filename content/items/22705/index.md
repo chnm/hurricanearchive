@@ -21,6 +21,8 @@ files:
     original_filename: PICT0553Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f49959ce14fb29f4995db2.jpg
     url: /files/original/14fb29f49959ce14fb29f4995db2.jpg
+    alt:
+      en: "Long single-story brick building with carports sheltering several vehicles, set behind a grassy lawn and curved sidewalk, framed by overhanging tree branches; date stamp reads 09.15.2005."
 geo:
 id: 22705
 item_type: Still Image

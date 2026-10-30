@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a07b6164814fb2a07b61a2c.jpg
     url: /files/original/14fb2a07b6164814fb2a07b61a2c.jpg
+    alt:
+      en: "A woman with short blonde hair types on a black laptop at a table, wearing a light blue \"North Shore Rentals\" T-shirt, with a water bottle beside her."
 geo:
 id: 20415
 item_type: Still Image

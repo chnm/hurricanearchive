@@ -21,6 +21,8 @@ files:
     original_filename: Picture 164cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b826bb914fb2a0b826fa6.jpg
     url: /files/original/14fb2a0b826bb914fb2a0b826fa6.jpg
+    alt:
+      en: "Worker wearing a white hard hat, gloves, and t-shirt stands on heavy equipment beside a floodwall, with murky water and debris visible below."
 geo:
 id: 20067
 item_type: Still Image

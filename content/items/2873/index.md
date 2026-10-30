@@ -21,6 +21,8 @@ files:
     original_filename: MVC-030S.JPG
     thumb: /files/thumbnails/14fb2a5fb170ce14fb2a5fb174b5.jpg
     url: /files/original/14fb2a5fb170ce14fb2a5fb174b5.jpg
+    alt:
+      en: "Large curved metal pipe or duct suspended by a chain inside a mechanical room, with bronze fittings, cables, and a small warning label visible nearby, viewed through a white-painted frame or grate."
 geo:
 id: 2873
 item_type: Still Image

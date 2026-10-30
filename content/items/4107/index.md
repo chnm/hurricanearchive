@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a57b0887014fb2a57b098bc.jpg
     url: /files/original/14fb2a57b0887014fb2a57b098bc.jpg
+    alt:
+      en: "Marine One helicopter, marked \"United States of America,\" sits on a grassy shoreline near water, with a person standing nearby and a bridge visible in the hazy background."
 geo:
 id: 4107
 item_type: Still Image

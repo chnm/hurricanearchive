@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2067superdome.JPG
     thumb: /files/thumbnails/14fb29deeb601b14fb29deeb6aa9.jpg
     url: /files/original/14fb29deeb601b14fb29deeb6aa9.jpg
+    alt:
+      en: "A man in a brown shirt and camouflage pants supports a young man wearing a Harlem Globetrotters cap, both appearing fatigued outdoors while another person offers a water bottle."
 geo:
 id: 25340
 item_type: Still Image

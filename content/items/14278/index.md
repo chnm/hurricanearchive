@@ -21,6 +21,8 @@ files:
     original_filename: aerials119.jpg
     thumb: /files/thumbnails/14fb2a1a43c16a14fb2a1a43c54d.jpg
     url: /files/original/14fb2a1a43c16a14fb2a1a43c54d.jpg
+    alt:
+      en: "Aerial view of a storm-damaged coastal neighborhood with one intact house surrounded by debris, scattered lumber, flooded yards, and a boat stranded amid wreckage."
 geo:
 id: 14278
 item_type: Still Image

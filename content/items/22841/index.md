@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f315dd7a14fb29f315e15f.jpg
     url: /files/original/14fb29f315dd7a14fb29f315e15f.jpg
+    alt:
+      en: "Line of vehicles, including a U-Haul truck, backed up on a city street under hazy sky, with overhead traffic signals and power lines; an orange traffic cone sits on the roadside."
 geo:
 id: 22841
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 1126586210_5620_90adae313e.jpg
     thumb: /files/thumbnails/14fb2a70f7855114fb2a70f78a13.jpg
     url: /files/original/14fb2a70f7855114fb2a70f78a13.jpg
+    alt:
+      en: "A figure in military camouflage stands by a gate while two people in white protective hazmat suits carry equipment and a dark bag up porch steps of a house marked with a spray-painted X."
 geo:
   address: ''
   lat: 29.916852233070202

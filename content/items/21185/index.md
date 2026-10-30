@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0193-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a002b573914fb2a002b5b1f.jpg
     url: /files/original/14fb2a002b573914fb2a002b5b1f.jpg
+    alt:
+      en: "A coyote trots across a grassy field littered with storm debris, including crumpled sheet metal roofing and uprooted trees in the background."
 geo:
 id: 21185
 item_type: Still Image

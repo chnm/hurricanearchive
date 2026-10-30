@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0565.JPG
     thumb: /files/thumbnails/14fb2a56973bab14fb2a56973f8f.jpg
     url: /files/original/14fb2a56973bab14fb2a56973f8f.jpg
+    alt:
+      en: "Cleared lot with scattered concrete block pillars marking a demolished building's foundation, surrounded by bare trees, dried brush, and storm debris under a clear blue sky."
 geo:
 id: 4636
 item_type: Still Image

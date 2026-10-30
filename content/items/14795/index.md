@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TalijahGrowe_04_d669354d24.jpg
     thumb: /files/thumbnails/14fb2a17a9959814fb2a17a9997c.jpg
     url: /files/original/14fb2a17a9959814fb2a17a9997c.jpg
+    alt:
+      en: "A young girl in a plaid school uniform smiles while seated in a classroom, surrounded by a bookshelf of children's books, stuffed animal puppets, and a round table."
 geo:
 id: 14795
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: before trees2.jpg
     thumb: /files/thumbnails/14fb2a20ba845a14fb2a20ba883e.jpg
     url: /files/original/14fb2a20ba845a14fb2a20ba883e.jpg
+    alt:
+      en: "Urban skyline with mid-rise office buildings viewed over dense green treetops, with an older brick building visible at left under an overcast sky."
 geo:
 id: 13054
 item_type: Still Image

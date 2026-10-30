@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1515superdome.JPG
     thumb: /files/thumbnails/14fb29e31e3f0014fb29e31e42e5.jpg
     url: /files/original/14fb29e31e3f0014fb29e31e42e5.jpg
+    alt:
+      en: "A military Black Hawk helicopter hovers low over a rooftop helipad as a uniformed soldier stands watching nearby, with an elevated highway and city buildings, including one labeled \"Delgado Community College,\" in the background."
 geo:
 id: 24993
 item_type: Still Image

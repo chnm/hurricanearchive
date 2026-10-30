@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a06944d4814fb2a06945124.jpg
     url: /files/original/14fb2a06944d4814fb2a06945124.jpg
+    alt:
+      en: "Aerial view of a flooded rural area with a two-lane highway crossing standing water, bare trees, and scattered homes, two vehicles visible on the roadway."
 geo:
 id: 20512
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 152 port arthur damage3.jpg
     thumb: /files/thumbnails/14fb2a1fbb88b514fb2a1fbb8ca7.jpg
     url: /files/original/14fb2a1fbb88b514fb2a1fbb8ca7.jpg
+    alt:
+      en: "Storm-damaged metal carport structure with bent and twisted support beams, set against trees and a blue building, with debris scattered on the wet ground below."
 geo:
 id: 13162
 item_type: Still Image

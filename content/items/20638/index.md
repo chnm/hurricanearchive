@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047-9-25.JPG
     thumb: /files/thumbnails/14fb2a058186a314fb2a05818a87.jpg
     url: /files/original/14fb2a058186a314fb2a05818a87.jpg
+    alt:
+      en: "Aerial view of a flooded coastal roadway and marshland, with submerged utility poles, scattered debris, and vehicles parked along a partially flooded road near the water's edge."
 geo:
 id: 20638
 item_type: Still Image

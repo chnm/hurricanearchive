@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1258Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f68e838514fb29f68e87c6.jpg
     url: /files/original/14fb29f68e838514fb29f68e87c6.jpg
+    alt:
+      en: "Interior of a military operations room with personnel in camouflage uniforms working at desks with computers, a digital clock display mounted near the ceiling, and a yellow AED defibrillator case on a table in the foreground."
 geo:
 id: 22419
 item_type: Still Image

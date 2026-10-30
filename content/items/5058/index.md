@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0403.JPG
     thumb: /files/thumbnails/14fb2a543094da14fb2a543098bf.jpg
     url: /files/original/14fb2a543094da14fb2a543098bf.jpg
+    alt:
+      en: "A yellow tape measure wrapped around a large wooden post with a visible crack, measuring approximately 11 inches, with debris and outdoor furniture scattered in the background."
 geo:
 id: 5058
 item_type: Still Image

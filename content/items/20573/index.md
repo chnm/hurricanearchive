@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036-9-25.JPG
     thumb: /files/thumbnails/14fb2a060e7cd714fb2a060e80be.jpg
     url: /files/original/14fb2a060e7cd714fb2a060e80be.jpg
+    alt:
+      en: "Person with windblown hair and tinted glasses holds a large telephoto camera, photographing a flooded landscape from the open doorway of an aircraft or vehicle under an overcast sky."
 geo:
 id: 20573
 item_type: Still Image

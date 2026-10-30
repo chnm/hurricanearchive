@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image.jpg
     thumb: /files/thumbnails/14fb29f0466b5314fb29f0466f38.jpg
     url: /files/original/14fb29f0466b5314fb29f0466f38.jpg
+    alt:
+      en: "Weather Channel satellite image of a large hurricane with a defined eye over the Gulf of Mexico, labeled with Gulf Coast and Florida cities; timestamp reads \"27 Aug 2005 22:45 GMT / 6:45 PM EDT.\""
 geo:
 id: 23254
 item_type: Still Image

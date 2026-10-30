@@ -21,6 +21,8 @@ files:
     original_filename: Picture 065cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0be44da414fb2a0be45190.jpg
     url: /files/original/14fb2a0be44da414fb2a0be45190.jpg
+    alt:
+      en: "Blurry, motion-affected photo of a city skyline with mixed older and modern buildings, taken from a moving vehicle with a guardrail visible in the foreground."
 geo:
 id: 19968
 item_type: Still Image

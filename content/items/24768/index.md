@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2090superdome.JPG
     thumb: /files/thumbnails/14fb29e4e54b3514fb29e4e54f1a.jpg
     url: /files/original/14fb29e4e54b3514fb29e4e54f1a.jpg
+    alt:
+      en: "Row of camouflage military trucks and a Humvee parked on wet brick pavement beside a large curved building, the Superdome, under an overcast sky."
 geo:
 id: 24768
 item_type: Still Image

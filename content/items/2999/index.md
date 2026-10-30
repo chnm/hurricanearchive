@@ -21,6 +21,8 @@ files:
     original_filename: 100_0248.JPG
     thumb: /files/thumbnails/14fb2a5f1ce3d614fb2a5f1ce7b3.jpg
     url: /files/original/14fb2a5f1ce3d614fb2a5f1ce7b3.jpg
+    alt:
+      en: "Interior of a submarine's torpedo room, showing a large gray torpedo loaded into a tube, surrounded by polished metal panels, pipes, and gauges, with a visitor observing nearby."
 geo:
 id: 2999
 item_type: Still Image

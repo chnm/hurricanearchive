@@ -21,6 +21,8 @@ files:
     original_filename: Picture 243cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b0d382014fb2a0b0d3c09.jpg
     url: /files/original/14fb2a0b0d382014fb2a0b0d3c09.jpg
+    alt:
+      en: "Palm trees braced with metal support poles stand on a grassy waterfront point overlooking calm coastal water under a clear blue sky, with a paved road and dirt patch in the foreground."
 geo:
 id: 20146
 item_type: Still Image

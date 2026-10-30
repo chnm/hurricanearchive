@@ -21,6 +21,8 @@ files:
     original_filename: 59.jpg
     thumb: /files/thumbnails/14fb2a604bdf5214fb2a604be338.jpg
     url: /files/original/14fb2a604bdf5214fb2a604be338.jpg
+    alt:
+      en: "Child's crayon drawing in light blue showing a simple stick-figure person standing in waves alongside a boat-like shape with a figure in it, with a small airplane sketched in the upper left corner."
 geo:
 id: 2764
 item_type: Still Image

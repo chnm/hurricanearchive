@@ -24,6 +24,8 @@ files:
     original_filename: P1010086.JPG
     thumb: /files/thumbnails/14fb2a5a67a94c14fb2a5a67b390.jpg
     url: /files/original/14fb2a5a67a94c14fb2a5a67b390.jpg
+    alt:
+      en: "Storm-damaged brick house with a collapsed carport roof sagging over two parked cars, debris scattered across the driveway, and trees visible in the background."
 geo:
 id: 3650
 item_type: Still Image

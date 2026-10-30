@@ -21,6 +21,8 @@ files:
     original_filename: 118.jpg
     thumb: /files/thumbnails/14fb2a6082798e14fb2a60827d73.jpg
     url: /files/original/14fb2a6082798e14fb2a60827d73.jpg
+    alt:
+      en: "A child's drawing of a large teal heart outlined in red and decorated with green stars, surrounded by numerous red, teal, yellow, and blue stars and a few flowers; signed \"Jasmine 12\" in the top left corner."
 geo:
 id: 2694
 item_type: Still Image

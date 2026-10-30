@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0217.JPG
     thumb: /files/thumbnails/14fb29ffa0c65f14fb29ffa0ca3a.jpg
     url: /files/original/14fb29ffa0c65f14fb29ffa0ca3a.jpg
+    alt:
+      en: "Aerial view from a helicopter, with part of the pilot's helmet and shoulder visible in the foreground, overlooking a severely damaged neighborhood with collapsed roofs, scattered debris, and downed trees lining the streets."
 geo:
 id: 21288
 item_type: Still Image

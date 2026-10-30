@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0663.JPG
     thumb: /files/thumbnails/14fb2a535cdffa14fb2a535ce3df.jpg
     url: /files/original/14fb2a535cdffa14fb2a535ce3df.jpg
+    alt:
+      en: "Debris-strewn lot with a collapsed mobile home and scattered rubble, bare trees, a parked car on a dirt road, and a brick apartment building in the background."
 geo:
 id: 5218
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: School at Port Sulphur LA.jpgsatellite
     thumb: /files/thumbnails/14fb29fb29364614fb29fb293a54.jpg
     url: /files/original/14fb29fb29364614fb29fb293a54.jpgsatellite
+    alt:
+      en: "Aerial view of a storm-damaged school complex with roofs torn off buildings, surrounded by debris-strewn streets, flattened trees, and scattered wreckage from hurricane destruction."
 geo:
 id: 21896
 item_type: Still Image

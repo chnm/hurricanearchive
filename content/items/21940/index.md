@@ -21,6 +21,8 @@ files:
     original_filename: Picture 271-J2.jpg
     thumb: /files/thumbnails/14fb29fae9c9f714fb29fae9cde6.jpg
     url: /files/original/14fb29fae9c9f714fb29fae9cde6.jpg
+    alt:
+      en: "Flooded road with large industrial pipes and pumping equipment laid alongside, water flowing across the pavement toward a fenced area containing debris and machinery in the background."
 geo:
 id: 21940
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010023.JPG
     thumb: /files/thumbnails/14fb29fc317d9614fb29fc31817c.jpg
     url: /files/original/14fb29fc317d9614fb29fc31817c.jpg
+    alt:
+      en: "Service members in camouflage fatigues sit inside the cargo area of a military aircraft, seated near a tactical vehicle marked \"DEARNG\" with a glowing red light visible on its rear panel."
 geo:
 id: 21720
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9175.jpg
     thumb: /files/thumbnails/14fb2a63aa59f314fb2a63aa5dd6.jpg
     url: /files/original/14fb2a63aa59f314fb2a63aa5dd6.jpg
+    alt:
+      en: "Cracked and buckled concrete foundation slab with a heart etched into the surface reading \"Rich + Linda, Sept 2004,\" surrounded by standing water, debris, and broken pilings."
 geo:
 id: 2639
 item_type: Still Image

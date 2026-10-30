@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0316.JPG
     thumb: /files/thumbnails/14fb2a54b206d514fb2a54b2e781.jpg
     url: /files/original/14fb2a54b206d514fb2a54b2e781.jpg
+    alt:
+      en: "Damaged single-story house raised on concrete block piers, with exterior siding torn away, a fallen porch beam, and debris scattered across the yard and driveway; a two-story elevated house stands beside it."
 geo:
 id: 4971
 item_type: Still Image

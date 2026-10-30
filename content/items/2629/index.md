@@ -24,6 +24,8 @@ files:
     original_filename: 20060301_MG_0502.jpg
     thumb: /files/thumbnails/14fb2a63e2387f14fb2a63e23cab.jpg
     url: /files/original/14fb2a63e2387f14fb2a63e23cab.jpg
+    alt:
+      en: "Woman in a blue wig and handmade \"roof hat\" costume decorated with red duct-tape X marks, a small yellow figurine, and blue tape at her throat, smiling for Mardi Gras in the French Quarter."
 geo:
 id: 2629
 item_type: Still Image

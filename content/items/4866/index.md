@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0185.JPG
     thumb: /files/thumbnails/14fb2a551c8ecc14fb2a551c92b2.jpg
     url: /files/original/14fb2a551c8ecc14fb2a551c92b2.jpg
+    alt:
+      en: "Elevated green house on wooden stilts with a white metal roof and wraparound porch, surrounded by bare trees and debris-strewn ground, with a body of water visible in the background."
 geo:
 id: 4866
 item_type: Still Image

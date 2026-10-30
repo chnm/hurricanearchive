@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0285.JPG
     thumb: /files/thumbnails/14fb2a54d5b87114fb2a54d5bda3.jpg
     url: /files/original/14fb2a54d5b87114fb2a54d5bda3.jpg
+    alt:
+      en: "Close-up of an exposed attic ceiling with wooden rafters and beams, patches of yellow fiberglass insulation, and a strip of gray material along one beam, revealing damage to the structure."
 geo:
 id: 4943
 item_type: Still Image

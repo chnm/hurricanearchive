@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29e9fa5f9c14fb29e9fa6531.jpg
     url: /files/original/14fb29e9fa5f9c14fb29e9fa6531.jpg
+    alt:
+      en: "Severely damaged commercial buildings with collapsed metal roofing, exposed wood framing, and scattered debris stand beside a tall billboard structure, with overgrown grass and shrubs in the foreground along a roadside."
 geo:
 id: 24189
 item_type: Still Image

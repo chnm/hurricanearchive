@@ -21,6 +21,8 @@ files:
     original_filename: Picture 408-J2.jpg
     thumb: /files/thumbnails/14fb29f998edf914fb29f998f1de.jpg
     url: /files/original/14fb29f998edf914fb29f998f1de.jpg
+    alt:
+      en: "Military camouflage tractor-trailer truck (marked \"HSC 56\") hauling a large wheeled front-end loader on a flatbed trailer, parked on pavement with a blue tarp and crates nearby."
 geo:
 id: 22077
 item_type: Still Image

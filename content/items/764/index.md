@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28414.jpg
     thumb: /files/thumbnails/14fb2a6d33e22f14fb2a6d33e60a.jpg
     url: /files/original/14fb2a6d33e22f14fb2a6d33e60a.jpg
+    alt:
+      en: "A black Hummer H2 labeled \"Disaster Response Team\" drives on a bridge roadway alongside a bus and white pickup truck, with power transmission towers visible in the distance."
 geo:
   address: ''
   lat: 0.0

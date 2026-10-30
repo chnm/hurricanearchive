@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0172abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef0bf76814fb29ef0bfb59.jpg
     url: /files/original/14fb29ef0bf76814fb29ef0bfb59.jpg
+    alt:
+      en: "A collapsed metal-roofed structure lies flattened on muddy ground, with scattered debris, standing water, trees, and a house visible in the background."
 geo:
 id: 23545
 item_type: Still Image

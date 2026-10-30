@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0093-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e7de580814fb29e7de5aa7.jpg
     url: /files/original/14fb29e7de580814fb29e7de5aa7.jpg
+    alt:
+      en: "Aerial view of extensive floodwater covering fields and surrounding a cluster of houses and trailers near a tree line, with overcast skies above."
 geo:
 id: 24431
 item_type: Still Image

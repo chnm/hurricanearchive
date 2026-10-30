@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1214Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6dad0df14fb29f6dad4c5.jpg
     url: /files/original/14fb29f6dad0df14fb29f6dad4c5.jpg
+    alt:
+      en: "Flooded interior space at night with small boats fitted with life preservers, men working by lamplight near a partially submerged military vehicle; a banner reading \"SUPPORT OUR TROOPS – Families Always\" hangs on the wall."
 geo:
 id: 22387
 item_type: Still Image

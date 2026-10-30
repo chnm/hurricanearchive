@@ -21,6 +21,8 @@ files:
     original_filename: NO BH view 1.jpg
     thumb: /files/thumbnails/14fb2a1340826214fb2a1340864b.jpg
     url: /files/original/14fb2a1340826214fb2a1340864b.jpg
+    alt:
+      en: "Aerial view from a helicopter interior, with a helmeted crew member wearing an American flag patch in the foreground, looking out over a coastal city, marina, and waterway below."
 geo:
 id: 19083
 item_type: Still Image

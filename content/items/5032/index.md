@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0377.JPG
     thumb: /files/thumbnails/14fb2a5454091014fb2a54540d2c.jpg
     url: /files/original/14fb2a5454091014fb2a54540d2c.jpg
+    alt:
+      en: "Skeletal wooden framing of a partially built or storm-damaged structure stands among debris, with a large fallen tree trunk in the foreground and tall pines against a cloudy sky."
 geo:
 id: 5032
 item_type: Still Image

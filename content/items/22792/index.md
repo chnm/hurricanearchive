@@ -21,6 +21,8 @@ files:
     original_filename: S4300148Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3d9354a14fb29f3d93799.jpg
     url: /files/original/14fb29f3d9354a14fb29f3d93799.jpg
+    alt:
+      en: "Yellow shed and gray mobile home behind brick gate pillars in a gravel yard, with bare tree branches overhead and scattered debris near the trailer."
 geo:
 id: 22792
 item_type: Still Image

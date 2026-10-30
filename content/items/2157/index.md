@@ -26,6 +26,8 @@ files:
     original_filename: do_not_remove_whole_34d88737ba.JPG
     thumb: /files/thumbnails/14fb2a6d93741114fb2a6d9377a5.jpg
     url: /files/original/14fb2a6d93741114fb2a6d9377a5.jpg
+    alt:
+      en: "A large uprooted tree stump with a green sign reading \"DO NOT REMOVE STUMP BY ORDER OF MAYOR,\" set against a bare tree, bridge, and overcast coastal sky in Bay St. Louis."
 geo:
   address: ''
   lat: 30.31302392381

@@ -24,6 +24,8 @@ files:
     original_filename: P1010132.JPG
     thumb: /files/thumbnails/14fb2a5a1ecefa14fb2a5a1ed2e8.jpg
     url: /files/original/14fb2a5a1ecefa14fb2a5a1ed2e8.jpg
+    alt:
+      en: "Overgrown, grassy streetcar median lined with utility poles and overhead wires, with parked cars and a moving truck visible along the street beyond, and fallen branches scattered on the tracks."
 geo:
 id: 3690
 item_type: Still Image

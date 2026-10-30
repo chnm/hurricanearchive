@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1184Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f700104114fb29f7001427.jpg
     url: /files/original/14fb29f700104114fb29f7001427.jpg
+    alt:
+      en: "Several men in military-style boats examine outboard motors and supplies, including Mercury and Evinrude engines, Pennzoil oil bottles, and a fire extinguisher, with one man wearing an orange life vest."
 geo:
 id: 22367
 item_type: Still Image

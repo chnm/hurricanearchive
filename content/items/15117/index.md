@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5658_2f4b9d3891.jpg
     thumb: /files/thumbnails/14fb2a170dd47214fb2a170dddb2.jpg
     url: /files/original/14fb2a170dd47214fb2a170dddb2.jpg
+    alt:
+      en: "Two women stand smiling in front of a large framed painting depicting the village of Fazendeville, showing houses, a small church, large trees, and open grassy land under a blue sky."
 geo:
 id: 15117
 item_type: Still Image

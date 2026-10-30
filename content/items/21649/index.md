@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0411-16.JPG
     thumb: /files/thumbnails/14fb29fccd62a714fb29fccd668b.jpg
     url: /files/original/14fb29fccd62a714fb29fccd668b.jpg
+    alt:
+      en: "Soldier in camouflage Army uniform wearing protective goggles and helmet with chin strap, seated inside a military vehicle; \"ARMY\" tape visible on uniform pocket."
 geo:
 id: 21649
 item_type: Still Image

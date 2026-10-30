@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1275Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f676b88b14fb29f676bc71.jpg
     url: /files/original/14fb29f676b88b14fb29f676bc71.jpg
+    alt:
+      en: "Floodwaters submerge a street with utility poles and lines, as two boats carrying rescue workers move through the water near a water tower, while a person in a life vest holds an outboard motor in the foreground."
 geo:
 id: 22434
 item_type: Still Image

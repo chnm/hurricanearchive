@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0221-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff96e97314fb29ff96ed51.jpg
     url: /files/original/14fb29ff96e97314fb29ff96ed51.jpg
+    alt:
+      en: "Aerial view of a severely damaged residential neighborhood with collapsed roofs, scattered debris, and splintered wood, alongside rows of surviving homes and trees, photographed from a helicopter."
 geo:
 id: 21297
 item_type: Still Image

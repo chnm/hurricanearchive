@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009gillslong.JPG
     thumb: /files/thumbnails/14fb2a0da186fe14fb2a0da18ae2.jpg
     url: /files/original/14fb2a0da186fe14fb2a0da18ae2.jpg
+    alt:
+      en: "Aerial view of a riverside institutional campus with multiple gray-roofed buildings, parking lots, and athletic fields, bordered by a tree line, a wide muddy river with a ship, and flat farmland beyond."
 geo:
 id: 19821
 item_type: Still Image

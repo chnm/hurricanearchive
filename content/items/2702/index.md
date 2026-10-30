@@ -21,6 +21,8 @@ files:
     original_filename: 125.jpg
     thumb: /files/thumbnails/14fb2a607a0f7f14fb2a607a136d.jpg
     url: /files/original/14fb2a607a0f7f14fb2a607a136d.jpg
+    alt:
+      en: "Child's crayon drawing of a red car with a blue windshield and dark exhaust smoke trailing behind it, set beneath a large yellow oval shape; \"Tyonna 9\" is written in the top left corner."
 geo:
 id: 2702
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1399Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5714da414fb29f571509d.jpg
     url: /files/original/14fb29f5714da414fb29f571509d.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather on a rooftop near HVAC units, with a damaged, partially stripped shingle roof visible in the background under an overcast sky."
 geo:
 id: 22552
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0247Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c0337e14fb29f4c03762.jpg
     url: /files/original/14fb29f4c0337e14fb29f4c03762.jpg
+    alt:
+      en: "A wrought-iron bracket holds a sign reading \"CW4 ABAIR\" beside a white columned building, with a large oak tree in the foreground; dated 09.15.2005."
 geo:
 id: 22689
 item_type: Still Image

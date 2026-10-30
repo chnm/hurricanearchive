@@ -21,6 +21,8 @@ files:
     original_filename: 09180008plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec4cd39d14fb29ec4cd782.jpg
     url: /files/original/14fb29ec4cd39d14fb29ec4cd782.jpg
+    alt:
+      en: "Large red barge resting on a grassy levee beside a drainage canal, with a military vehicle's gun mount in the foreground and heavy equipment visible in the distance."
 geo:
 id: 23938
 item_type: Still Image

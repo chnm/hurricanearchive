@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0615.JPG
     thumb: /files/thumbnails/14fb2a565c481d14fb2a565c4c00.jpg
     url: /files/original/14fb2a565c481d14fb2a565c4c00.jpg
+    alt:
+      en: "A damaged house with portions of its metal roof torn away and exposed framing, surrounded by fallen tree branches and debris scattered across the yard."
 geo:
 id: 4664
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: temporary-work_7275a854a4.jpg
     thumb: /files/thumbnails/14fb29c59900cb14fb29c59904b0.jpg
     url: /files/original/14fb29c59900cb14fb29c59904b0.jpg
+    alt:
+      en: "A child in an orange shirt sits at a desk working on a computer in a makeshift office space, with a UPS sign visible on the wall behind; caption reads \"Temporary work area set up in the building interior.\""
 geo:
 id: 36388
 item_type: Still Image

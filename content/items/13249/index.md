@@ -21,6 +21,8 @@ files:
     original_filename: george phoning.jpg
     thumb: /files/thumbnails/14fb2a1ea2e89c14fb2a1ea2ec91.jpg
     url: /files/original/14fb2a1ea2e89c14fb2a1ea2ec91.jpg
+    alt:
+      en: "A man in a black cap sits in the passenger seat of a car, holding a cell phone to his ear, with trees and grass visible through the window."
 geo:
 id: 13249
 item_type: Still Image

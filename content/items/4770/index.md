@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0469.JPG
     thumb: /files/thumbnails/14fb2a55ab87a214fb2a55ab8b87.jpg
     url: /files/original/14fb2a55ab87a214fb2a55ab8b87.jpg
+    alt:
+      en: "Collapsed brick walls and debris, including broken concrete, pipes, and scattered rubble, cover a cracked pavement area; a person in white shoes stands at the edge of the wreckage."
 geo:
 id: 4770
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20060210_MG_0486.jpg
     thumb: /files/thumbnails/14fb2a640c976514fb2a640c9bab.jpg
     url: /files/original/14fb2a640c976514fb2a640c9bab.jpg
+    alt:
+      en: "Two women wear elaborate house-shaped hats with shingled roofs and chimneys, plus window-decorated tops; one holds a \"Flood St\" sign and a red cup, with marks on their faces."
 geo:
 id: 2622
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28010.jpg
     thumb: /files/thumbnails/14fb2a6d39296414fb2a6d393f84.jpg
     url: /files/original/14fb2a6d39296414fb2a6d393f84.jpg
+    alt:
+      en: "A newly constructed concrete floodwall section stands along a gravel levee beside a calm canal, with sandbags on the bank and a distant bridge and buildings under a clear sky."
 geo:
   address: ''
   lat: 0.0

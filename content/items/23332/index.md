@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efe8be6f14fb29efe8c260.jpg
     url: /files/original/14fb29efe8be6f14fb29efe8c260.jpg
+    alt:
+      en: "Front-end loader carrying three large metal drums, with an operator visible in the cab bearing a partial identifier reading \"25GP527,\" a light-colored building seen in the background."
 geo:
 id: 23332
 item_type: Still Image

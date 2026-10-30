@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016H.JPG
     thumb: /files/thumbnails/14fb2a07216ad014fb2a07217265.jpg
     url: /files/original/14fb2a07216ad014fb2a07217265.jpg
+    alt:
+      en: "Young man in an orange \"Oklahoma State\" t-shirt stands beside a woman wearing a white Hooters tank top with a \"Lauren\" name tag, both looking down at a table in a dimly lit tent."
 geo:
 id: 20447
 item_type: Still Image

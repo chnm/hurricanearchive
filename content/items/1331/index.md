@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28762.jpg
     thumb: /files/thumbnails/14fb2a697b9abd14fb2a697b9ea1.jpg
     url: /files/original/14fb2a697b9abd14fb2a697b9ea1.jpg
+    alt:
+      en: "Gated fence with a handwritten sign reading \"Thank you Export volunteers, We transported approx 200 animals last night! Tentative Export tomorrow A.M. Keep checking board for updates + please come in a sign up to help,\" set against a metal structure with white tarps draped over its roofline."
 geo:
   address: ''
   lat: 0.0

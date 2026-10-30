@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0175abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef08560314fb29ef0859e8.jpg
     url: /files/original/14fb29ef08560314fb29ef0859e8.jpg
+    alt:
+      en: "Silhouetted figures wearing caps stand amid debris and tangled branches, viewed through a dark foreground opening with dim light illuminating the scene behind them."
 geo:
 id: 23550
 item_type: Still Image

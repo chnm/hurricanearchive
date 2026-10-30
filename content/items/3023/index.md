@@ -21,6 +21,8 @@ files:
     original_filename: 100_0272.JPG
     thumb: /files/thumbnails/14fb2a5ebddc3b14fb2a5ebde022.jpg
     url: /files/original/14fb2a5ebddc3b14fb2a5ebde022.jpg
+    alt:
+      en: "A decommissioned submarine displayed on blocks behind a chain-link fence, its white upper hull and rusted lower hull, propeller, and rudder visible against a clear blue sky."
 geo:
 id: 3023
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0071-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a041add4b14fb2a041ae131.jpg
     url: /files/original/14fb2a041add4b14fb2a041ae131.jpg
+    alt:
+      en: "Aerial view of a flooded community with submerged homes, scattered debris, and bare trees rising from brown floodwater, with building roofs and vehicles partially visible beneath the surface."
 geo:
 id: 20752
 item_type: Still Image

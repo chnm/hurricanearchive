@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0120-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e6700c8c14fb29e670106a.jpg
     url: /files/original/14fb29e6700c8c14fb29e670106a.jpg
+    alt:
+      en: "Aerial view of a flooded, debris-strewn road alongside submerged trees and shrubs, with cracked and crumbling pavement edges where floodwater has eroded the shoulder."
 geo:
 id: 24580
 item_type: Still Image

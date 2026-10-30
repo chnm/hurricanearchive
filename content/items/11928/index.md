@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 050.jpg
     thumb: /files/thumbnails/14fb2a22b2c4bd14fb2a22b2c8ab.jpg
     url: /files/original/14fb2a22b2c4bd14fb2a22b2c8ab.jpg
+    alt:
+      en: "A barge-mounted casino building, partially stripped of siding and marked \"ASINO,\" sits beached amid storm debris on a sandy shoreline, dated 2005/09/24."
 geo:
 id: 11928
 item_type: Still Image

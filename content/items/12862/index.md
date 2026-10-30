@@ -21,6 +21,8 @@ files:
     original_filename: Napoleon.dead appliances on neutral ground.jpg
     thumb: /files/thumbnails/14fb2a2164b2df14fb2a2164bb06.jpg
     url: /files/original/14fb2a2164b2df14fb2a2164bb06.jpg
+    alt:
+      en: "Rows of discarded refrigerators and appliances sit on a grassy median lined with large trees, with houses visible in the background."
 geo:
 id: 12862
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0061-9-25.JPG
     thumb: /files/thumbnails/14fb2a04d6387d14fb2a04d64173.jpg
     url: /files/original/14fb2a04d6387d14fb2a04d64173.jpg
+    alt:
+      en: "Aerial view of collapsed metal warehouse buildings with roofs torn open, surrounded by standing floodwater, scattered debris, and a small boat stranded on muddy ground near a river."
 geo:
 id: 20705
 item_type: Still Image

@@ -18,6 +18,8 @@ files:
     original_filename: 29_56f2bd9346.jpg
     thumb: /files/thumbnails/14fb29c6e9b3bf14fb29c6e9b7a5.jpg
     url: /files/original/14fb29c6e9b3bf14fb29c6e9b7a5.jpg
+    alt:
+      en: "Two women in matching red and silver costumes hold a banner reading \"Ninth Ward Marching Band, Shop at Dora's\" while leading a uniformed band down a street during a parade."
 geo:
   address: new orleans, la
   lat: 29.95324

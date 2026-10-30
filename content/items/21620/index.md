@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0353-21.JPG
     thumb: /files/thumbnails/14fb29fd05704f14fb29fd0577c0.jpg
     url: /files/original/14fb29fd05704f14fb29fd0577c0.jpg
+    alt:
+      en: "Blurry photo of several people in military camouflage uniforms seated at desks with laptops in an office with blue-tiled walls, illuminated exit signs, and a wall-mounted clock."
 geo:
 id: 21620
 item_type: Still Image

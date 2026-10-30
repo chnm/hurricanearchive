@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0372_961ad01a88.JPG
     thumb: /files/thumbnails/14fb2a6fcec40e14fb2a6fcec7f2.jpg
     url: /files/original/14fb2a6fcec40e14fb2a6fcec7f2.jpg
+    alt:
+      en: "A tattered American flag stands upright on a metal pole beside an uprooted, fallen tree, with storm-damaged, leafless trees and debris scattered across the landscape behind it."
 geo:
   address: ''
   lat: 30.342065246371604

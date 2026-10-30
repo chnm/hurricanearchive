@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0221-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff96705d14fb29ff967444.jpg
     url: /files/original/14fb29ff96705d14fb29ff967444.jpg
+    alt:
+      en: "Aerial view of a flooded rural area with houses, mobile homes, and farm buildings partially submerged in standing water, surrounded by green fields and scattered trees."
 geo:
 id: 21298
 item_type: Still Image

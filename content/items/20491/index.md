@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0022M.JPG
     thumb: /files/thumbnails/14fb2a06cdfa0714fb2a06ce01d4.jpg
     url: /files/original/14fb2a06cdfa0714fb2a06ce01d4.jpg
+    alt:
+      en: "Blurry photo of an industrial-looking building with slanted metal panels and overhead piping, set behind a grassy lawn and a roadway in the foreground."
 geo:
 id: 20491
 item_type: Still Image

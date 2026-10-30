@@ -21,6 +21,8 @@ files:
     original_filename: 1993 First Staff @ gr~000A-16_ac23d1fc80.jpg
     thumb: /files/thumbnails/14fb2a172e12cb14fb2a172e16bc.jpg
     url: /files/original/14fb2a172e12cb14fb2a172e16bc.jpg
+    alt:
+      en: "Group portrait of faculty and staff in academic caps and gowns, arranged in three rows for a 1993 graduation ceremony photo."
 geo:
 id: 15095
 item_type: Still Image

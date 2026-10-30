@@ -21,6 +21,8 @@ files:
     original_filename: coolcrewatchalmette_1b7f73f60c.jpg
     thumb: /files/thumbnails/14fb29d79292ff14fb29d79296e7.jpg
     url: /files/original/14fb29d79292ff14fb29d79296e7.jpg
+    alt:
+      en: "Black-and-white group photo of seven teenage boys posing together in a school hallway lined with lockers, one wearing sunglasses and smoking, with a wall clock visible in the background."
 geo:
 id: 26826
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-22-21AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f943e9cc14fb29f943edb2.jpg
     url: /files/original/14fb29f943e9cc14fb29f943edb2.jpg
+    alt:
+      en: "Heavy rain and wind obscure a residential street lined with parked cars, a lamppost, trees, and utility poles, creating a hazy, storm-swept scene."
 geo:
 id: 22169
 item_type: Still Image

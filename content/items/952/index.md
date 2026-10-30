@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27891.jpg
     thumb: /files/thumbnails/14fb2a6bd7af5614fb2a6bd7b341.jpg
     url: /files/original/14fb2a6bd7af5614fb2a6bd7b341.jpg
+    alt:
+      en: "A white and red American Red Cross \"Disaster Relief\" truck parked at night, serving a meal through a side window to several people standing nearby on a paved lot."
 geo:
   address: ''
   lat: 0.0

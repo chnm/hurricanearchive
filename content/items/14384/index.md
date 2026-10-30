@@ -21,6 +21,8 @@ files:
     original_filename: aerials93.jpg
     thumb: /files/thumbnails/14fb2a1970922f14fb2a1970fc31.jpg
     url: /files/original/14fb2a1970922f14fb2a1970fc31.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with widespread tree damage, scattered houses, and roads winding through a landscape of stripped and broken trees, likely post-hurricane devastation."
 geo:
 id: 14384
 item_type: Still Image

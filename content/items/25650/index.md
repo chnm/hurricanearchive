@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.107.JPG
     thumb: /files/thumbnails/14fb29dce7142c14fb29dce71833.jpg
     url: /files/original/14fb29dce7142c14fb29dce71833.jpg
+    alt:
+      en: "Fire-damaged mobile home with charred roofline and white vinyl siding, marked \"7208, M. Passafume, Allstate\" in black paint, framed by a large tree with fallen branches in the foreground."
 geo:
 id: 25650
 item_type: Still Image

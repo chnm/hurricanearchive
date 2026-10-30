@@ -21,6 +21,8 @@ files:
     original_filename: 09270036plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec0507af14fb29ec050b94.jpg
     url: /files/original/14fb29ec0507af14fb29ec050b94.jpg
+    alt:
+      en: "Storm-damaged lot with scattered debris, a leaning utility pole, bare trees, and a damaged metal building, with the sun glowing through haze; partial sign reading \"rain\" in foreground."
 geo:
 id: 23998
 item_type: Still Image

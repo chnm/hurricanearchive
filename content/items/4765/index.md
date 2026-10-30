@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0464.JPG
     thumb: /files/thumbnails/14fb2a55b3307e14fb2a55b33b73.jpg
     url: /files/original/14fb2a55b3307e14fb2a55b33b73.jpg
+    alt:
+      en: "Broken, leaning tree trunks form an archway over a debris field of scattered rubble and flattened structures, with a line of surviving trees visible in the distance under a clear blue sky."
 geo:
 id: 4765
 item_type: Still Image

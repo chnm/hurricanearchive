@@ -21,6 +21,8 @@ files:
     original_filename: S4300053.JPG
     thumb: /files/thumbnails/14fb29dda2491514fb29dda25030.jpg
     url: /files/original/14fb29dda2491514fb29dda25030.jpg
+    alt:
+      en: "Silhouette of a military helicopter with rotors blurred in flight, passing over a double-headed streetlight against an overcast gray sky with a small cloud at lower left."
 geo:
 id: 25441
 item_type: Still Image

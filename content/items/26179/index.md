@@ -33,24 +33,32 @@ files:
     original_filename: battle1_d1a3f615d1.jpg
     thumb: /files/thumbnails/14fb29d9bd785114fb29d9bd7c36.jpg
     url: /files/original/14fb29d9bd785114fb29d9bd7c36.jpg
+    alt:
+      en: "A costumed living history reenactor in period military attire holds a metal cup, standing outdoors near others dressed in colonial-era clothing at a Battle of New Orleans reenactment."
   - fullsize: /files/fullsize/14fb29d9bccc8114fb29d9bcd071.jpg
     id: 22784
     mime: image/jpeg
     original_filename: battle3_3b2b36bbd9.jpg
     thumb: /files/thumbnails/14fb29d9bccc8114fb29d9bcd071.jpg
     url: /files/original/14fb29d9bccc8114fb29d9bcd071.jpg
+    alt:
+      en: "Living history reenactors in period attire, including a man in a blue frontier coat, stand together outdoors carrying long rifles, recreating the Battle of New Orleans."
   - fullsize: /files/fullsize/14fb29d9bc288014fb29d9bc2c64.jpg
     id: 22785
     mime: image/jpeg
     original_filename: battle4_cbd5a49175.jpg
     thumb: /files/thumbnails/14fb29d9bc288014fb29d9bc2c64.jpg
     url: /files/original/14fb29d9bc288014fb29d9bc2c64.jpg
+    alt:
+      en: "A large oak tree draped in Spanish moss stands in front of a white plantation-style house with columns, set in an open grassy field."
   - fullsize: /files/fullsize/14fb29d9ba5f9b14fb29d9ba6389.jpg
     id: 22786
     mime: image/jpeg
     original_filename: battle5_0c57be9542.jpg
     thumb: /files/thumbnails/14fb29d9ba5f9b14fb29d9ba6389.jpg
     url: /files/original/14fb29d9ba5f9b14fb29d9ba6389.jpg
+    alt:
+      en: "A tall white obelisk monument stands on an open grassy field, with trees lining the horizon under a clear sky."
 geo:
 id: 26179
 item_type: Still Image

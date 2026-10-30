@@ -27,6 +27,8 @@ files:
     original_filename: 2310193611_bf0e0cc647.
     thumb: /files/thumbnails/14fb29c9b4dec014fb29c9b4e3f1.jpg
     url: /files/original/14fb29c9b4dec014fb29c9b4e3f1.jpg
+    alt:
+      en: "Twilight skyline of New Orleans with illuminated high-rise buildings along a riverfront, under a gradient sky of blue, pink, and orange hues reflecting on the water."
 geo:
 id: 34491
 item_type: Still Image

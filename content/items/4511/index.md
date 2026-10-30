@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0723.JPG
     thumb: /files/thumbnails/14fb2a57199d0314fb2a5719a0f1.jpg
     url: /files/original/14fb2a57199d0314fb2a5719a0f1.jpg
+    alt:
+      en: "A house raised on wooden pilings with the ground floor open and debris scattered beneath, caution tape strung across the space, and a small shed visible in the background."
 geo:
 id: 4511
 item_type: Still Image

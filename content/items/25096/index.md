@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1683superdome.JPG
     thumb: /files/thumbnails/14fb29e256861414fb29e25687a3.jpg
     url: /files/original/14fb29e256861414fb29e25687a3.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms stand in formation on a brick surface outside a large garage, with military trucks and Humvees parked nearby."
 geo:
 id: 25096
 item_type: Still Image

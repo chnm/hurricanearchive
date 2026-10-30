@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2156superdome.JPG
     thumb: /files/thumbnails/14fb29e47973fe14fb29e4797b8d.jpg
     url: /files/original/14fb29e47973fe14fb29e4797b8d.jpg
+    alt:
+      en: "A military helicopter sits on flooded ground near a modern glass office building, with murky floodwater, downed branches, and a metal fence in the foreground."
 geo:
 id: 24834
 item_type: Still Image

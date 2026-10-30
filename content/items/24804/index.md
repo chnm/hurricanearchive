@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2126superdome.JPG
     thumb: /files/thumbnails/14fb29e4a3a14614fb29e4a3a545.jpg
     url: /files/original/14fb29e4a3a14614fb29e4a3a545.jpg
+    alt:
+      en: "A group of men, several in New Orleans Police uniforms and one in military camouflage, gather indoors in discussion near a dark doorway, with framed photos on the walls behind them."
 geo:
 id: 24804
 item_type: Still Image

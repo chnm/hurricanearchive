@@ -21,6 +21,8 @@ files:
     original_filename: 100_0230.JPG
     thumb: /files/thumbnails/14fb2a5f3525ec14fb2a5f352d14.jpg
     url: /files/original/14fb2a5f3525ec14fb2a5f352d14.jpg
+    alt:
+      en: "A gray military aircraft with folded wings sits on grass beside a metal hangar building, with a battleship's superstructure and a crane visible over the water in the background."
 geo:
 id: 2981
 item_type: Still Image

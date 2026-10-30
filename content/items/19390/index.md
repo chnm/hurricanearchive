@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2253engineers.JPG
     thumb: /files/thumbnails/14fb2a109a697c14fb2a109a6bf7.jpg
     url: /files/original/14fb2a109a697c14fb2a109a6bf7.jpg
+    alt:
+      en: "Two men in orange safety vests over tan t-shirts stand in profile beneath a tree, one wearing a camouflage cap, with storm debris and houses visible in the background."
 geo:
 id: 19390
 item_type: Still Image

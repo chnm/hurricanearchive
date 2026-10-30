@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0234-21.JPG
     thumb: /files/thumbnails/14fb29ff43cf2a14fb29ff43d30e.jpg
     url: /files/original/14fb29ff43cf2a14fb29ff43d30e.jpg
+    alt:
+      en: "Aerial view of a wide river with a large steel truss bridge spanning it, barges and boats on the water, a riverside park with tents, and a dense urban waterfront with rooftops, trucks, and a power transmission tower in the foreground."
 geo:
 id: 21351
 item_type: Still Image

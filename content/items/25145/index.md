@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1755superdome.JPG
     thumb: /files/thumbnails/14fb29e1e4e56714fb29e1e4e956.jpg
     url: /files/original/14fb29e1e4e56714fb29e1e4e956.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms unload cardboard boxes labeled \"Meal, Ready-to-Eat\" from a vehicle, passing them hand to hand amid straps and headsets hanging overhead."
 geo:
 id: 25145
 item_type: Still Image

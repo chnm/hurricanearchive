@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0060.JPG
     thumb: /files/thumbnails/14fb2a55fece3014fb2a55fed215.jpg
     url: /files/original/14fb2a55fece3014fb2a55fed215.jpg
+    alt:
+      en: "Debris-covered ground with scattered wood fragments, rubble, and ash-like residue, showing a cleared lighter-colored area transitioning into darker, denser debris in the foreground."
 geo:
 id: 4713
 item_type: Still Image

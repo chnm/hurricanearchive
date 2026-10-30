@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-15-14Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e56643a814fb29e5664a8f.jpg
     url: /files/original/14fb29e56643a814fb29e5664a8f.jpg
+    alt:
+      en: "A law enforcement pickup truck carrying several passengers wades through deep floodwater under an elevated roadway, passing two partially submerged school buses amid flooded vehicles and buildings."
 geo:
 id: 24713
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2151superdome.JPG
     thumb: /files/thumbnails/14fb29e482ccc214fb29e482d444.jpg
     url: /files/original/14fb29e482ccc214fb29e482d444.jpg
+    alt:
+      en: "Two soldiers in military vests stand behind supply boxes labeled \"5052-004,\" with a rifle on the crates, as National Guard trucks move through flooded city streets beneath a highway overpass."
 geo:
 id: 24829
 item_type: Still Image

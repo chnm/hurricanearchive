@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0586.JPG
     thumb: /files/thumbnails/14fb2a5667a7de14fb2a5667abc4.jpg
     url: /files/original/14fb2a5667a7de14fb2a5667abc4.jpg
+    alt:
+      en: "Collapsed brick wall and scattered storm debris—including metal scraps, insulation, and household items—cover the foreground, with two parked vehicles visible on a road in the background."
 geo:
 id: 4657
 item_type: Still Image

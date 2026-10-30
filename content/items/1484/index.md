@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27861.jpg
     thumb: /files/thumbnails/14fb2a687c634114fb2a687c6721.jpg
     url: /files/original/14fb2a687c634114fb2a687c6721.jpg
+    alt:
+      en: "Floodwaters surround a single-story house with a chain-link fence, a half-submerged boat, and a yellow bicycle wheel protruding from the water in the foreground."
 geo:
   address: ''
   lat: 0.0

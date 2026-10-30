@@ -26,6 +26,8 @@ files:
     original_filename: 001_preparations_ad591ea425.jpg
     thumb: /files/thumbnails/14fb2a7050198314fb2a70501d02.jpg
     url: /files/original/14fb2a7050198314fb2a70501d02.jpg
+    alt:
+      en: "A strip mall with Blockbuster and Sears storefronts has windows boarded with plywood in preparation for a hurricane, with a dark SUV parked in front of the entrance."
 geo:
   address: ''
   lat: 30.855079286968603

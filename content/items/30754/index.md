@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7467.JPG
     thumb: /files/thumbnails/14fb29cc970ace14fb29cc970eae.jpg
     url: /files/original/14fb29cc970ace14fb29cc970eae.jpg
+    alt:
+      en: "View from inside a vehicle showing a driver's hand gripping the steering wheel, with a damaged, leaning utility pole and dangling wires visible through the windshield along a rural road lined with trees."
 geo:
 id: 30754
 item_type: Still Image

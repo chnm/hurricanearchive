@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28486.jpg
     thumb: /files/thumbnails/14fb2a6b1d398f14fb2a6b1d3d63.jpg
     url: /files/original/14fb2a6b1d398f14fb2a6b1d3d63.jpg
+    alt:
+      en: "A cluttered bedroom corner with a wooden console table holding a purple storage bin, a small TV on the floor, a metal shelf unit with mirror and books, and scattered clothes on a bed."
 geo:
   address: ''
   lat: 0.0

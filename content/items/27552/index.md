@@ -21,6 +21,8 @@ files:
     original_filename: _MG_7133_dfb7471b38.jpg
     thumb: /files/thumbnails/14fb29d3733b0314fb29d3733ee9.jpg
     url: /files/original/14fb29d3733b0314fb29d3733ee9.jpg
+    alt:
+      en: "Three children stand outdoors among trees, arms around each other's shoulders; a girl wears a Santa-and-snowman sweater while two boys wear matching red sweater vests over checkered shirts."
 geo:
   address: ''
   lat: 29.95493

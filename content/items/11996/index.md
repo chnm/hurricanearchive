@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 044.jpg
     thumb: /files/thumbnails/14fb2a2265a6f714fb2a2265aad4.jpg
     url: /files/original/14fb2a2265a6f714fb2a2265aad4.jpg
+    alt:
+      en: "Debris field with scattered boards, metal sheeting, and household items on bare ground, surrounded by tall pine trees stripped of bark and foliage against a clear blue sky."
 geo:
 id: 11996
 item_type: Still Image

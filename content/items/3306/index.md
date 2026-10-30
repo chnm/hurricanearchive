@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (66).jpg
     thumb: /files/thumbnails/14fb2a5c90906214fb2a5c909444.jpg
     url: /files/original/14fb2a5c90906214fb2a5c909444.jpg
+    alt:
+      en: "Flood-damaged canal lined with debris and a collapsed fence, a red barge resting near the bank, and a blue vertical-lift bridge visible in the background."
 geo:
 id: 3306
 item_type: Still Image

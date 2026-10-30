@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28507.jpg
     thumb: /files/thumbnails/14fb2a6c73e11f14fb2a6c73e504.jpg
     url: /files/original/14fb2a6c73e11f14fb2a6c73e504.jpg
+    alt:
+      en: "A man wearing a cap, mask, and gloves reaches up to remove mold-streaked curtains from a window, with visible mold damage covering the wall and blinds around him."
 geo:
   address: ''
   lat: 0.0

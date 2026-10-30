@@ -21,6 +21,8 @@ files:
     original_filename: 100_0214.JPG
     thumb: /files/thumbnails/14fb2a58e7191214fb2a58e71cf7.jpg
     url: /files/original/14fb2a58e7191214fb2a58e71cf7.jpg
+    alt:
+      en: "Damaged multi-story blue condominium building with a partially torn-off roof, standing behind floodwater and a chain-link fence, with debris floating in the water and a utility pole nearby."
 geo:
 id: 3917
 item_type: Still Image

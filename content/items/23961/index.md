@@ -21,6 +21,8 @@ files:
     original_filename: 09180031plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec3bc70014fb29ec3bcae7.jpg
     url: /files/original/14fb29ec3bc70014fb29ec3bcae7.jpg
+    alt:
+      en: "Storm-damaged house with partially collapsed roof and siding sits behind a metal fence along a debris-strewn roadside, with a flattened utility pole and scattered wreckage nearby."
 geo:
 id: 23961
 item_type: Still Image

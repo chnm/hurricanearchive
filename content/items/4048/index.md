@@ -21,6 +21,8 @@ files:
     original_filename: DSC01174.JPG
     thumb: /files/thumbnails/14fb2a5838c80c14fb2a5838cbf2.jpg
     url: /files/original/14fb2a5838c80c14fb2a5838cbf2.jpg
+    alt:
+      en: "Flooded urban street lined with palm trees and high-rise buildings, with numerous cars submerged in water; a \"S. Claiborne Av\" street sign and a \"Welcome to New Orleans\" sign are visible."
 geo:
 id: 4048
 item_type: Still Image

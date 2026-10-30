@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0702.JPG
     thumb: /files/thumbnails/14fb2a532a377214fb2a532a3b57.jpg
     url: /files/original/14fb2a532a377214fb2a532a3b57.jpg
+    alt:
+      en: "Damaged house porch with a collapsed, sagging wooden railing and steps, white door marked \"323,\" broken window shutters, and debris piled near the entrance."
 geo:
 id: 5257
 item_type: Still Image

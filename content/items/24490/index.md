@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0104-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e746905b14fb29e746943f.jpg
     url: /files/original/14fb29e746905b14fb29e746943f.jpg
+    alt:
+      en: "A striped garter snake winds through a tangled mat of debris and dried grass along a muddy waterline, with a stick lying across the scene."
 geo:
 id: 24490
 item_type: Still Image

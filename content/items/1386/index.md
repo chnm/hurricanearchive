@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28156.jpg
     thumb: /files/thumbnails/14fb2a6927fada14fb2a6927fec0.jpg
     url: /files/original/14fb2a6927fada14fb2a6927fec0.jpg
+    alt:
+      en: "A man wearing sunglasses and a cap holds a round mirror or clock frame in front of a storm-damaged house with debris scattered across the yard."
 geo:
   address: ''
   lat: 0.0

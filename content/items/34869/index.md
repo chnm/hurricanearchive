@@ -20,6 +20,8 @@ files:
     original_filename: 2457563918_65f35a859a.
     thumb: /files/thumbnails/14fb29c8db03fb14fb29c8db077d.jpg
     url: /files/original/14fb29c8db03fb14fb29c8db077d.jpg
+    alt:
+      en: "A newly poured concrete slab sits amid dirt and debris, with a paved path, staircase, traffic cone, and tree in the background."
 geo:
 id: 34869
 item_type: Still Image

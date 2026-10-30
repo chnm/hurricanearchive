@@ -26,6 +26,8 @@ files:
     original_filename: 2191no_hyattjpgimage_e32d4e729a.jpg
     thumb: /files/thumbnails/14fb2a70ef1c2314fb2a70ef2008.jpg
     url: /files/original/14fb2a70ef1c2314fb2a70ef2008.jpg
+    alt:
+      en: "High-rise building facade with numerous windows blown out and shredded materials hanging from openings, overlooking a street with parked cars below under overcast, hazy skies."
 geo:
   address: ''
   lat: 29.916852233070202

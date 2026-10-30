@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0397_107af2e63a.JPG
     thumb: /files/thumbnails/14fb2a700bc65114fb2a700bca42.jpg
     url: /files/original/14fb2a700bc65114fb2a700bca42.jpg
+    alt:
+      en: "A weathered white angel figurine, headless and missing part of an arm, appears mounted on a mottled gray concrete slab, its flowing robe and wings blending into the textured surface."
 geo:
   address: ''
   lat: 30.3444355863685

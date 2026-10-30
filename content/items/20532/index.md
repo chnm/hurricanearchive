@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029H.JPG
     thumb: /files/thumbnails/14fb2a066dc1dc14fb2a066dc5c3.jpg
     url: /files/original/14fb2a066dc1dc14fb2a066dc5c3.jpg
+    alt:
+      en: "Nighttime scene of two people playing air hockey at a table with red paddles, lit by string lights in the dark background."
 geo:
 id: 20532
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010183empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed51b6f014fb29ed51bad6.jpg
     url: /files/original/14fb29ed51b6f014fb29ed51bad6.jpg
+    alt:
+      en: "Devastated coastal lot with a crushed car buried in mud and debris, twisted metal roofing, and a downed utility pole; two stranded boats rest ashore near leafless trees in the background."
 geo:
 id: 23742
 item_type: Still Image

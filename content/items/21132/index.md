@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0182-9-25.JPG
     thumb: /files/thumbnails/14fb2a0068e1f914fb2a0068e5e0.jpg
     url: /files/original/14fb2a0068e1f914fb2a0068e5e0.jpg
+    alt:
+      en: "Aerial view of a flooded roadway with a displaced house resting on the pavement near a damaged section of bridge, surrounded by floodwater and scattered debris."
 geo:
 id: 21132
 item_type: Still Image

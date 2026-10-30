@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1221Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6d33c8914fb29f6d33fe4.jpg
     url: /files/original/14fb29f6d33c8914fb29f6d33fe4.jpg
+    alt:
+      en: "Two men stand on a partially submerged walkway amid floodwater beneath a parking structure, surrounded by life jackets, canoes, paddles, and life rings; one wears an \"Army\" tank top, the other camouflage pants."
 geo:
 id: 22390
 item_type: Still Image

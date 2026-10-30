@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28086.jpg
     thumb: /files/thumbnails/14fb2a694466f514fb2a69446c47.jpg
     url: /files/original/14fb2a694466f514fb2a69446c47.jpg
+    alt:
+      en: "Damaged building with a glass-and-concrete facade and Hebrew inscription above the entrance, surrounded by dead branches, debris, and a stone bench in the overgrown yard."
 geo:
   address: ''
   lat: 0.0

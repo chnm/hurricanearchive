@@ -21,6 +21,8 @@ files:
     original_filename: Picture 142cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b931e7214fb2a0b93224f.jpg
     url: /files/original/14fb2a0b931e7214fb2a0b93224f.jpg
+    alt:
+      en: "Damaged industrial warehouse building with broken windows and a rusted roof, surrounded by scattered debris, torn metal roofing panels, and a blue tarp-covered structure in an empty gravel lot."
 geo:
 id: 20045
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0955superdome.JPG
     thumb: /files/thumbnails/14fb29e419d34614fb29e419d733.jpg
     url: /files/original/14fb29e419d34614fb29e419d733.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms stand guard under a covered walkway with teal-colored shutters, while civilians sit and stand nearby, some holding bags, in what appears to be a sheltered gathering area."
 geo:
 id: 24881
 item_type: Still Image

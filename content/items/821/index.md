@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28361.jpg
     thumb: /files/thumbnails/14fb2a6cd7527a14fb2a6cd7565f.jpg
     url: /files/original/14fb2a6cd7527a14fb2a6cd7565f.jpg
+    alt:
+      en: "A large fallen statue of a human figure lies on bare ground entangled in chain-link fencing, with scattered debris and city buildings visible in the background."
 geo:
   address: ''
   lat: 0.0

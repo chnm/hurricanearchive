@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0050tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d16b75e14fb2a0d16bb44.jpg
     url: /files/original/14fb2a0d16b75e14fb2a0d16bb44.jpg
+    alt:
+      en: "Three white utility sinks mounted on individual stands against an unfinished plywood wall, each paired with a wooden-framed mirror and wall-mounted dispenser, set in an open-air wood-framed structure."
 geo:
 id: 19864
 item_type: Still Image

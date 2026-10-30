@@ -21,6 +21,8 @@ files:
     original_filename: P1010007.JPG
     thumb: /files/thumbnails/14fb29fc56c2a314fb29fc56c68e.jpg
     url: /files/original/14fb29fc56c2a314fb29fc56c68e.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues sit and stand in a room with folding chairs, backpacks, and water bottles on the floor; a framed aircraft photo and an exit sign hang on the walls."
 geo:
 id: 21706
 item_type: Still Image

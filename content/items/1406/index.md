@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28028.jpg
     thumb: /files/thumbnails/14fb2a69119f5e14fb2a6911a343.jpg
     url: /files/original/14fb2a69119f5e14fb2a6911a343.jpg
+    alt:
+      en: "A large concrete-encased pipe extends over gravel and floodwater near large sandbags, with damaged houses and storm debris visible in the background at the 17th Street Canal breach site."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0867Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f448b89b14fb29f448c25a.jpg
     url: /files/original/14fb29f448b89b14fb29f448c25a.jpg
+    alt:
+      en: "Military vehicles and equipment parked behind a chain-link fence near a building marked \"FMS,\" with a military truck bed visible in the foreground; dated 09.15.2005."
 geo:
 id: 22745
 item_type: Still Image

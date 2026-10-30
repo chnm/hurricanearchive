@@ -21,6 +21,8 @@ files:
     original_filename: Picture 178cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b69face14fb2a0b69feb4.jpg
     url: /files/original/14fb2a0b69face14fb2a0b69feb4.jpg
+    alt:
+      en: "Floodwaters submerge a low building, trees, and utility poles near railroad tracks, with small boats navigating the water and a helicopter visible in the distant sky."
 geo:
 id: 20081
 item_type: Still Image

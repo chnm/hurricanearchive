@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1652neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee714aa514fb29ee714e8b.jpg
     url: /files/original/14fb29ee714aa514fb29ee714e8b.jpg
+    alt:
+      en: "Elevated highway with scattered pedestrians walking along both directions, a few vehicles, and overhead green signs reading \"Interstate 10 East Slidell\" and \"Exit 235A Orleans Ave Vieux Carre 3/4 Mile.\""
 geo:
 id: 23617
 item_type: Still Image

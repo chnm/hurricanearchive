@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28578.jpg
     thumb: /files/thumbnails/14fb2a690c4a3614fb2a690c5207.jpg
     url: /files/original/14fb2a690c4a3614fb2a690c5207.jpg
+    alt:
+      en: "A large crane stands beside stacked rusted shipping containers and a long yellow pipe, with blue industrial pumping equipment in the foreground on a dirt lot near Lake Pontchartrain."
 geo:
   address: ''
   lat: 0.0

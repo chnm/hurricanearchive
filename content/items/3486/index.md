@@ -24,6 +24,8 @@ files:
     original_filename: P1010060.JPG
     thumb: /files/thumbnails/14fb2a5b84525714fb2a5b84563c.jpg
     url: /files/original/14fb2a5b84525714fb2a5b84563c.jpg
+    alt:
+      en: "Interior room with wood paneling buckled and warped by water damage, covered in mold stains, with a broken mirror still mounted on the wall and debris, including a laundry basket, scattered on the floor."
 geo:
 id: 3486
 item_type: Still Image

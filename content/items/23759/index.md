@@ -21,6 +21,8 @@ files:
     original_filename: P1010200empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed3ab8a814fb29ed3abc8d.jpg
     url: /files/original/14fb29ed3ab8a814fb29ed3abc8d.jpg
+    alt:
+      en: "Flooded, debris-strewn landscape with sparse trees standing in muddy water, a partially submerged boat dock, and scattered wooden wreckage under a hazy sky."
 geo:
 id: 23759
 item_type: Still Image

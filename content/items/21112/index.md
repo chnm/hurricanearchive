@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0178.JPG
     thumb: /files/thumbnails/14fb2a008e49d414fb2a008e4dba.jpg
     url: /files/original/14fb2a008e49d414fb2a008e4dba.jpg
+    alt:
+      en: "Aerial view of a flood-damaged neighborhood with scattered houses, debris-strewn yards, overturned vehicles, and railroad tracks running alongside muddy, devastated lots."
 geo:
 id: 21112
 item_type: Still Image

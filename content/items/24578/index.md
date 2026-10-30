@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0120-21-2.JPG
     thumb: /files/thumbnails/14fb29e67c870714fb29e67c8b03.jpg
     url: /files/original/14fb29e67c870714fb29e67c8b03.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather around tables with laptops and paperwork in an indoor space with blue tiled walls, some seated and others standing in conversation."
 geo:
 id: 24578
 item_type: Still Image

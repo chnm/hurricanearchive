@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0113.JPG
     thumb: /files/thumbnails/14fb2a56121b0614fb2a56121eeb.jpg
     url: /files/original/14fb2a56121b0614fb2a56121eeb.jpg
+    alt:
+      en: "Aerial view of a city skyline at dusk, featuring high-rise buildings including one labeled \"Sheraton,\" with warm sunset light reflecting off glass facades, photographed through a window with visible glare."
 geo:
 id: 4700
 item_type: Still Image

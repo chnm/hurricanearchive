@@ -21,6 +21,8 @@ files:
     original_filename: aerials76.jpg
     thumb: /files/thumbnails/14fb2a1990c6e414fb2a1990cac8.jpg
     url: /files/original/14fb2a1990c6e414fb2a1990cac8.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with debris-covered yards, stripped trees, and a tennis court, alongside larger commercial buildings with damaged roofs."
 geo:
 id: 14367
 item_type: Still Image

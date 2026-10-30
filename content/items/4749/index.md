@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0259.JPG
     thumb: /files/thumbnails/14fb2a55c1a45714fb2a55c1a6d7.jpg
     url: /files/original/14fb2a55c1a45714fb2a55c1a6d7.jpg
+    alt:
+      en: "Two-story condominium exterior with gray siding and white railings, featuring an exterior staircase, trimmed shrubbery, and a concrete walkway leading to the building entrance."
 geo:
 id: 4749
 item_type: Still Image

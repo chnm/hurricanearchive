@@ -20,6 +20,8 @@ files:
     original_filename: 2457557586_60c1ab9876.
     thumb: /files/thumbnails/14fb29c8aaf23c14fb29c8aaf621.jpg
     url: /files/original/14fb29c8aaf23c14fb29c8aaf621.jpg
+    alt:
+      en: "A yellow Caterpillar D6N bulldozer with a mud-covered blade and tracks is driven by an operator through thick mud, with another heavy vehicle and dense trees in the background."
 geo:
 id: 34892
 item_type: Still Image

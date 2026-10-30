@@ -21,6 +21,8 @@ files:
     original_filename: 20050927-A-2421S-008mobilePAO.jpg
     thumb: /files/thumbnails/14fb29f15e1eb114fb29f15e2296.jpg
     url: /files/original/14fb29f15e1eb114fb29f15e2296.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands guard with a rifle in front of a damaged Chevron gas station, its canopy partially collapsed on one side."
 geo:
 id: 23139
 item_type: Still Image

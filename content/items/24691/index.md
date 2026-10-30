@@ -21,6 +21,8 @@ files:
     original_filename: 20051011-A-2421S-0173jrbpresvisit.jpg
     thumb: /files/thumbnails/14fb29e589293e14fb29e5892d1b.jpg
     url: /files/original/14fb29e589293e14fb29e5892d1b.jpg
+    alt:
+      en: "A man in a light blue shirt shakes hands and greets a crowd of outstretched arms, with several people in camouflage uniforms visible among the group."
 geo:
 id: 24691
 item_type: Still Image

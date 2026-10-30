@@ -21,6 +21,8 @@ files:
     original_filename: PICT0606Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4880cfc14fb29f4880f09.jpg
     url: /files/original/14fb29f4880cfc14fb29f4880f09.jpg
+    alt:
+      en: "Two-story brick building with white columns and balconies shows storm damage, including a torn roof overhang and a sagging staircase, with fallen tree trunks and branches scattered across the lawn; dated 09.15.2005."
 geo:
 id: 22708
 item_type: Still Image

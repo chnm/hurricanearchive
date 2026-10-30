@@ -21,6 +21,8 @@ files:
     original_filename: 051207NOLA173RWlg_77928191d1.jpg
     thumb: /files/thumbnails/14fb29cc17be0114fb29cc17c1e6.jpg
     url: /files/original/14fb29cc17be0114fb29cc17c1e6.jpg
+    alt:
+      en: "Black-and-white photo of two men in profile wearing ornate caps reading \"Treme\" and \"Leader,\" one with glasses and a mustache, both dressed in formal band uniforms."
 geo:
 id: 31599
 item_type: Still Image

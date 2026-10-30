@@ -21,6 +21,8 @@ files:
     original_filename: Picture 073.jpg
     thumb: /files/thumbnails/14fb29cc6511ae14fb29cc651592.jpg
     url: /files/original/14fb29cc6511ae14fb29cc651592.jpg
+    alt:
+      en: "Damaged wood-sided house with a storm-battered roof and torn porch awning, surrounded by overgrown vegetation and a weathered picket fence in the foreground."
 geo:
 id: 30802
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051204_MG_9447.jpg
     thumb: /files/thumbnails/14fb2a646c1b8a14fb2a646c5f66.jpg
     url: /files/original/14fb2a646c1b8a14fb2a646c5f66.jpg
+    alt:
+      en: "A discarded refrigerator spray-painted with \"N.O.P.D. BEAT ME DOWN\" stands on a New Orleans sidewalk, with a passing car and historic houses along Esplanade Avenue in the background."
 geo:
 id: 2593
 item_type: Still Image

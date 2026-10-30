@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0167-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0116c60b14fb2a0116c9e4.jpg
     url: /files/original/14fb2a0116c60b14fb2a0116c9e4.jpg
+    alt:
+      en: "Storm-damaged landscape with a bare concrete slab foundation surrounded by debris and dried vegetation, a white house with brown roof on the left, and leafless, wind-battered trees under a clear blue sky."
 geo:
 id: 21008
 item_type: Still Image

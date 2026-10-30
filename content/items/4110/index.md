@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a57ac40a214fb2a57ac4488.jpg
     url: /files/original/14fb2a57ac40a214fb2a57ac4488.jpg
+    alt:
+      en: "President Bush shakes hands with a uniformed Coast Guard officer outside a brick building with a red roof, surrounded by other officers and a photographer, with a white pickup truck parked nearby."
 geo:
 id: 4110
 item_type: Still Image

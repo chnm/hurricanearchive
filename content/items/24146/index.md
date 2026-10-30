@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea4816ca14fb29ea481a46.jpg
     url: /files/original/14fb29ea4816ca14fb29ea481a46.jpg
+    alt:
+      en: "Aerial view of a marshy coastal landscape with a winding tidal channel, sandy berms, and scattered debris along the shoreline, with sediment-stained water in the foreground."
 geo:
 id: 24146
 item_type: Still Image

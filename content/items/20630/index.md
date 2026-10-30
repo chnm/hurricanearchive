@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a058ea90d14fb2a058eacf1.jpg
     url: /files/original/14fb2a058ea90d14fb2a058eacf1.jpg
+    alt:
+      en: "A damaged, partially collapsed building with buckled siding sits in floodwater beside a flooded road, with heavy trucks parked nearby and bare trees and power lines in the background."
 geo:
 id: 20630
 item_type: Still Image

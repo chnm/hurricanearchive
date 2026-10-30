@@ -21,6 +21,8 @@ files:
     original_filename: flagneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eca0ae3d14fb29eca0b223.jpg
     url: /files/original/14fb29eca0ae3d14fb29eca0b223.jpg
+    alt:
+      en: "People, including a man raising his fist, sit in the back of a military vehicle marked with a white diamond symbol, with uniformed personnel standing nearby."
 geo:
 id: 23882
 item_type: Still Image

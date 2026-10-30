@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0446.JPG
     thumb: /files/thumbnails/14fb2a53e7317f14fb2a53e73565.jpg
     url: /files/original/14fb2a53e7317f14fb2a53e73565.jpg
+    alt:
+      en: "A swimming pool filled with floating storm debris, including wooden planks and wreckage, with a bent metal pool ladder in the foreground and piles of debris visible in the background."
 geo:
 id: 5101
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300145Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3df3e2414fb29f3df4213.jpg
     url: /files/original/14fb29f3df3e2414fb29f3df4213.jpg
+    alt:
+      en: "Several mud-caked and rusted vehicles, including a yellow Mustang, sit abandoned in a cracked, dried-mud parking lot outside a brick building with a green awning."
 geo:
 id: 22789
 item_type: Still Image

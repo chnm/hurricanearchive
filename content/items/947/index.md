@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28562.jpg
     thumb: /files/thumbnails/14fb2a6bfc3cc814fb2a6bfc40ad.jpg
     url: /files/original/14fb2a6bfc3cc814fb2a6bfc40ad.jpg
+    alt:
+      en: "Fallen trees and debris litter a barren yard in front of a single-story brick house with a screened porch, a van parked nearby amid storm wreckage under a clear sky."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (17).JPG
     thumb: /files/thumbnails/14fb2a5ddc6e8014fb2a5ddc725a.jpg
     url: /files/original/14fb2a5ddc6e8014fb2a5ddc725a.jpg
+    alt:
+      en: "A large double-sided sign leans at a sharp angle on bent metal posts beside a damaged warehouse with its roof partially torn away, debris scattered across the lot near railroad tracks."
 geo:
 id: 3114
 item_type: Still Image

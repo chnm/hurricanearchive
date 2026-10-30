@@ -21,6 +21,8 @@ files:
     original_filename: 527%20(sept12)Picture2engineers.png
     thumb: /files/thumbnails/14fb2a10dd462614fb2a10dd4a0c.jpg
     url: /files/original/14fb2a10dd462614fb2a10dd4a0c.jpg
+    alt:
+      en: "A front-end loader clears a large pile of broken trees and debris, with downed branches and fallen power lines scattered across the cleanup site."
 geo:
 id: 19356
 item_type: Still Image

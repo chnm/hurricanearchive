@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0674.JPG
     thumb: /files/thumbnails/14fb2a5344427c14fb2a53444662.jpg
     url: /files/original/14fb2a5344427c14fb2a53444662.jpg
+    alt:
+      en: "Debris-strewn roadside with downed branches, uprooted palmetto fronds, and broken trees lining a paved road, with utility poles and wires visible under an overcast sky."
 geo:
 id: 5229
 item_type: Still Image

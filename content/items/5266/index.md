@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0711.JPG
     thumb: /files/thumbnails/14fb2a531d4e4d14fb2a531d70bb.jpg
     url: /files/original/14fb2a531d4e4d14fb2a531d70bb.jpg
+    alt:
+      en: "Cleared sandy lot with scattered debris, bordered by a pine forest with several snapped and leaning trees, under a partly cloudy sky."
 geo:
 id: 5266
 item_type: Still Image

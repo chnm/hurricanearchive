@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0158mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2fe011c14fb29f2fe0503.jpg
     url: /files/original/14fb29f2fe011c14fb29f2fe0503.jpg
+    alt:
+      en: "A soldier in camouflage uniform and sunglasses, with a U.S. Army nametag reading \"RAYL\" and an American flag patch, stands on a roadside near parked vehicles and traffic cones."
 geo:
 id: 22865
 item_type: Still Image

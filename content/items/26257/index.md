@@ -21,6 +21,8 @@ files:
     original_filename: AM Mardi Gras 71 4_bc29c1374f.jpg
     thumb: /files/thumbnails/14fb29d93a6c5a14fb29d93a704b.jpg
     url: /files/original/14fb29d93a6c5a14fb29d93a704b.jpg
+    alt:
+      en: "Vintage black-and-white snapshot of a man sitting on a blanket at a grassy beach park, with a grocery bag, bowl, and thermos nearby, and other picnickers and trees in the background."
 geo:
   address: ''
   lat: 29.91685

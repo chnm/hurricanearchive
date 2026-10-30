@@ -21,6 +21,8 @@ files:
     original_filename: juliegaglianoreadytoparty_7df74ed8e7.jpg
     thumb: /files/thumbnails/14fb29d6d5881014fb29d6d58bea.jpg
     url: /files/original/14fb29d6d5881014fb29d6d58bea.jpg
+    alt:
+      en: "Black-and-white yearbook photo of a young woman in a dark dress dancing with arms outstretched among a group of classmates at a party, captioned \"Julie Gagliano says that she's ready to party.\""
 geo:
 id: 26872
 item_type: Still Image

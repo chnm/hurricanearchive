@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2175_67b0cbe0a8.JPG
     thumb: /files/thumbnails/14fb2a70d4223d14fb2a70d42a89.jpg
     url: /files/original/14fb2a70d4223d14fb2a70d42a89.jpg
+    alt:
+      en: "Suburban street coated in dried mud with piles of storm debris, damaged furniture, and household items along the curbs; houses with blue tarp roofs, a trailer, and palm trees line the road."
 geo:
   address: ''
   lat: 30.030902

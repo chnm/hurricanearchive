@@ -21,6 +21,8 @@ files:
     original_filename: aerials126.jpg
     thumb: /files/thumbnails/14fb2a1a29e71014fb2a1a29ed29.jpg
     url: /files/original/14fb2a1a29e71014fb2a1a29ed29.jpg
+    alt:
+      en: "Aerial view of storm debris scattered across a clearing bordered by trees, with piles of splintered wood, lumber, and household materials, including what appears to be an overturned boat among the wreckage."
 geo:
 id: 14286
 item_type: Still Image

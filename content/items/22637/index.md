@@ -21,6 +21,8 @@ files:
     original_filename: Jackson BarracksJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4eb2d4e14fb29f4eb38a7.jpg
     url: /files/original/14fb29f4eb2d4e14fb29f4eb38a7.jpg
+    alt:
+      en: "Floodwater submerges a courtyard between white buildings, with only the roof of a vehicle and its amber emergency light visible above the surface; a brick column frames the foreground."
 geo:
 id: 22637
 item_type: Still Image

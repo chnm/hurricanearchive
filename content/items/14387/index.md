@@ -21,6 +21,8 @@ files:
     original_filename: aerials96.jpg
     thumb: /files/thumbnails/14fb2a196620af14fb2a1966248a.jpg
     url: /files/original/14fb2a196620af14fb2a1966248a.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with snapped and defoliated trees, a partially collapsed roof, a backyard swimming pool, and scattered debris along roads and yards."
 geo:
 id: 14387
 item_type: Still Image

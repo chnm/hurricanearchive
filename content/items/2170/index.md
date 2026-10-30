@@ -26,6 +26,8 @@ files:
     original_filename: kat5_d1ea3f55e9.JPG
     thumb: /files/thumbnails/14fb2a6d8a8ffd14fb2a6d8a93ef.jpg
     url: /files/original/14fb2a6d8a8ffd14fb2a6d8a93ef.jpg
+    alt:
+      en: "Volunteers prepare and serve meals in a church kitchen, with foam trays of biscuits, eggs, grits, and orange slices in the foreground and a man in a red cross-style apron nearby."
 geo:
   address: ''
   lat: 31.109388560815002

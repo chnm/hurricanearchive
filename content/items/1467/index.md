@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27929.jpg
     thumb: /files/thumbnails/14fb2a688c75b314fb2a688c799f.jpg
     url: /files/original/14fb2a688c75b314fb2a688c799f.jpg
+    alt:
+      en: "Elevated concrete roadway with a tire skid mark, a discarded A-frame traffic barrier in the foreground, and a city skyline of high-rise buildings under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

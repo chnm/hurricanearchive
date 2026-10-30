@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2160rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d23dc214fb2a13d241a7.jpg
     url: /files/original/14fb2a13d23dc214fb2a13d241a7.jpg
+    alt:
+      en: "Aerial view from a helicopter looking down at a rooftop, showing a uniformed rescue worker seated on the shingles with equipment, including a red and yellow bag, near the edge of the helicopter's frame."
 geo:
 id: 18997
 item_type: Still Image

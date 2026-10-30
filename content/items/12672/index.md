@@ -21,6 +21,8 @@ files:
     original_filename: 100-20_cfcd7f241e.jpg
     thumb: /files/thumbnails/14fb2a21d3ca5014fb2a21d3ce37.jpg
     url: /files/original/14fb2a21d3ca5014fb2a21d3ce37.jpg
+    alt:
+      en: "Aged, creased black-and-white photograph of a woman, man, and young child posed together in front of a brick wall, with a folding chair and stacked bricks visible nearby."
 geo:
 id: 12672
 item_type: Still Image

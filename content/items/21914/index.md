@@ -21,6 +21,8 @@ files:
     original_filename: UNO East Campus looking East.jpg
     thumb: /files/thumbnails/14fb29fb07fba914fb29fb07ff65.jpg
     url: /files/original/14fb29fb07fba914fb29fb07ff65.jpg
+    alt:
+      en: "Aerial view of a flooded urban area with an elevated highway running through standing floodwaters, surrounded by inundated streets, rooftops, and city buildings."
 geo:
 id: 21914
 item_type: Still Image

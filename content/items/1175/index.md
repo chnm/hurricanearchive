@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28643.jpg
     thumb: /files/thumbnails/14fb2a6aab7f9014fb2a6aab8371.jpg
     url: /files/original/14fb2a6aab7f9014fb2a6aab8371.jpg
+    alt:
+      en: "Cardboard boxes, plastic-wrapped items, and a flat object sit on a sidewalk beside bushes, with a street sign reading \"Chief of Police Patrick A. Boudreaux\" in the background."
 geo:
   address: ''
   lat: 0.0

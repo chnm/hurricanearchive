@@ -21,6 +21,8 @@ files:
     original_filename: MVC-006S.JPG
     thumb: /files/thumbnails/14fb2a5ff81bbf14fb2a5ff81f9e.jpg
     url: /files/original/14fb2a5ff81bbf14fb2a5ff81f9e.jpg
+    alt:
+      en: "Close-up of an aircraft wing with torn, jagged metal skin exposing the interior, set against a clear blue sky with the plane's tail fin visible below."
 geo:
 id: 2815
 item_type: Still Image

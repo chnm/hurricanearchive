@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0236.JPG
     thumb: /files/thumbnails/14fb29ff375a7c14fb29ff375e55.jpg
     url: /files/original/14fb29ff375a7c14fb29ff375e55.jpg
+    alt:
+      en: "Aerial view of a severely damaged residential street, with rooftops torn open, scattered debris, fallen trees, and buildings stripped to their frames along both sides of the road."
 geo:
 id: 21361
 item_type: Still Image

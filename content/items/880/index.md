@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28747.jpg
     thumb: /files/thumbnails/14fb2a6c8733ae14fb2a6c873794.jpg
     url: /files/original/14fb2a6c8733ae14fb2a6c873794.jpg
+    alt:
+      en: "A coiled yellow and white snake rests inside a purple \"Petmate Kennel Cab\" pet carrier secured with a pink strap, photographed at an animal rescue facility."
 geo:
   address: ''
   lat: 0.0

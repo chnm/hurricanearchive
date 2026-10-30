@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0621.JPG
     thumb: /files/thumbnails/14fb29d03e081214fb29d03e0c08.jpg
     url: /files/original/14fb29d03e081214fb29d03e0c08.jpg
+    alt:
+      en: "Charred remains of a burned structure with blackened wood framing and a blue tarp roof, surrounded by debris including a rusted television, bicycle wheel, and scattered scorched objects under a clear blue sky."
 geo:
 id: 29076
 item_type: Still Image

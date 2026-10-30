@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0269-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fe84624a14fb29fe84662f.jpg
     url: /files/original/14fb29fe84624a14fb29fe84662f.jpg
+    alt:
+      en: "Aerial view of a cruise ship labeled \"Ecstasy\" docked along a river, with a large steel truss bridge spanning the water and a hazy cityscape in the background."
 geo:
 id: 21468
 item_type: Still Image

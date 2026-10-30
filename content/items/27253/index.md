@@ -20,6 +20,8 @@ files:
     original_filename: Lakeview 1.JPG
     thumb: /files/thumbnails/14fb29d5a126d914fb29d5a12abf.jpg
     url: /files/original/14fb29d5a126d914fb29d5a12abf.jpg
+    alt:
+      en: "A large fallen tree lies across a residential street, its branches tangled with debris and striped caution tape, with damaged houses visible in the background under an overcast sky."
 geo:
 id: 27253
 item_type: Still Image

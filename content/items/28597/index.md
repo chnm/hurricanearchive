@@ -23,6 +23,8 @@ files:
     original_filename: 162411544_ceb03d9d9a.jpg
     thumb: /files/thumbnails/14fb29d22eec8214fb29d22ef069.jpg
     url: /files/original/14fb29d22eec8214fb29d22ef069.jpg
+    alt:
+      en: "White two-story building with a covered entry porch, open front door, and window A/C units; a faint discoloration line runs along the wall marking flood water height. Overgrown grass fills the yard."
 geo:
 id: 28597
 item_type: Still Image

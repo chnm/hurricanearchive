@@ -20,6 +20,8 @@ files:
     original_filename: refueling_0c0054afd1.jpg
     thumb: /files/thumbnails/14fb29c5812e4014fb29c5813225.jpg
     url: /files/original/14fb29c5812e4014fb29c5813225.jpg
+    alt:
+      en: "Nighttime scene showing a dark pickup truck hitched to a trailer loaded with equipment, with a person standing near the truck bed on a paved surface; caption reads \"Refueling trip preparation.\""
 geo:
 id: 36393
 item_type: Still Image

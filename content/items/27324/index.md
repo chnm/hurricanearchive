@@ -23,6 +23,8 @@ files:
     original_filename: 336695343_c3fb8993bb.jpg
     thumb: /files/thumbnails/14fb29d506660414fb29d5066b74.jpg
     url: /files/original/14fb29d506660414fb29d5066b74.jpg
+    alt:
+      en: "White pickup truck parked beside a blue canopy tent on a debris-strewn street, with a rusted shipping container, utility poles, and overcast sky in the background."
 geo:
 id: 27324
 item_type: Still Image

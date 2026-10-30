@@ -21,6 +21,8 @@ files:
     original_filename: S4300142Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3f2e8a014fb29f3f2ec87.jpg
     url: /files/original/14fb29f3f2e8a014fb29f3f2ec87.jpg
+    alt:
+      en: "Corrugated metal building with a large jagged tear in its siding and a torn-open window frame, a dark cylindrical object lodged on the roof, and a sign reading \"3H+F\" beside the entry door."
 geo:
 id: 22786
 item_type: Still Image

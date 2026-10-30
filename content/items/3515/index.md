@@ -24,6 +24,8 @@ files:
     original_filename: P1010090.JPG
     thumb: /files/thumbnails/14fb2a5b360e2814fb2a5b3614cc.jpg
     url: /files/original/14fb2a5b360e2814fb2a5b3614cc.jpg
+    alt:
+      en: "A weathered white masonry gatepost topped with a round finial, surrounded by storm-damaged trees, scattered branches, and houses in the background."
 geo:
 id: 3515
 item_type: Still Image

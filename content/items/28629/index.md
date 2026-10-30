@@ -23,6 +23,8 @@ files:
     original_filename: 158897182_0c90dba834.jpg
     thumb: /files/thumbnails/14fb29d2049afc14fb29d2049ee0.jpg
     url: /files/original/14fb29d2049afc14fb29d2049ee0.jpg
+    alt:
+      en: "A blue house with hand-painted signs reading \"Common Ground Lower 9th Ward Relief,\" \"Eminent Domain for who?\" and \"You can be involved,\" standing amid a dirt yard."
 geo:
 id: 28629
 item_type: Still Image

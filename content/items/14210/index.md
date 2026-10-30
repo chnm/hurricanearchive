@@ -21,6 +21,8 @@ files:
     original_filename: daylight comms van.JPG
     thumb: /files/thumbnails/14fb2a1a95434f14fb2a1a95473d.jpg
     url: /files/original/14fb2a1a95434f14fb2a1a95473d.jpg
+    alt:
+      en: "Two dark blue emergency communications trucks, a GMC box truck and a Chevrolet 3500 with light bars, parked under a covered carport with another vehicle visible in the background."
 geo:
   address: ''
   lat: 0.0

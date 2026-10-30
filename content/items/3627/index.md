@@ -24,6 +24,8 @@ files:
     original_filename: P1010062.JPG
     thumb: /files/thumbnails/14fb2a5a9661e314fb2a5a9665ca.jpg
     url: /files/original/14fb2a5a9661e314fb2a5a9665ca.jpg
+    alt:
+      en: "Mosaic artwork depicting the Sacred Heart of Jesus pierced by a cross, with a banner reading \"AMETUR COR JESU\" above, set against a radiating gray tile background in a black frame."
 geo:
 id: 3627
 item_type: Still Image

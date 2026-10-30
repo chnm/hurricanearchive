@@ -21,6 +21,8 @@ files:
     original_filename: cnnneworleansmap30sep05.gif
     thumb: /files/thumbnails/14fb29fafc49e214fb29fafc5166.jpg
     url: /files/original/14fb29fafc49e214fb29fafc5166.jpg
+    alt:
+      en: "Map of the New Orleans area showing parish boundaries, airports, major levees, interstates, and landmarks like the Superdome, French Quarter, and Lake Pontchartrain, with surrounding parishes labeled."
 geo:
 id: 21921
 item_type: Still Image

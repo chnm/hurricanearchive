@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (54).JPG
     thumb: /files/thumbnails/14fb2a5d5b706314fb2a5d5b7452.jpg
     url: /files/original/14fb2a5d5b706314fb2a5d5b7452.jpg
+    alt:
+      en: "A three-story office building labeled \"CENTER\" stands amid fallen trees and storm debris scattered across its front lawn and along the adjacent street, with a car's side mirror visible in the foreground."
 geo:
 id: 3205
 item_type: Still Image

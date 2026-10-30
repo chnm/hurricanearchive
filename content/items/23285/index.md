@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038cameron2 (1)S&R.JPG
     thumb: /files/thumbnails/14fb29f0207e0514fb29f02081eb.jpg
     url: /files/original/14fb29f0207e0514fb29f02081eb.jpg
+    alt:
+      en: "Collapsed building reduced to twisted metal roofing and scattered lumber, with a pickup truck crushed beneath the debris; a yellow fire hydrant stands amid wreckage in the foreground, bare trees behind."
 geo:
 id: 23285
 item_type: Still Image

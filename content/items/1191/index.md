@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28542.jpg
     thumb: /files/thumbnails/14fb2a6a90fbcf14fb2a6a9135ad.jpg
     url: /files/original/14fb2a6a90fbcf14fb2a6a9135ad.jpg
+    alt:
+      en: "A quiet downtown New Orleans street lined with historic buildings featuring wrought-iron balconies, an American flag, and a white delivery truck parked along the curb, with skyscrapers visible in the distance."
 geo:
   address: ''
   lat: 0.0

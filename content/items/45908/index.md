@@ -20,6 +20,8 @@ files:
     original_filename: isaac7.jpg
     thumb: /files/thumbnails/e2bb6a4158c5910905186c5307e650e3.jpg
     url: /files/original/e2bb6a4158c5910905186c5307e650e3.jpg
+    alt:
+      en: "Floodwaters surround a \"Braithwaite Park\" entrance sign and a bent \"East Park Blvd\" street sign, with debris floating among trees partially submerged in the water."
 geo:
   address: Braithwaite, Louisiana
   lat: 29.866111

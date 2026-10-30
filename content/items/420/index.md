@@ -26,6 +26,8 @@ files:
     original_filename: HurricaneKSurvivor_Creche_a6e949fa44.JPG
     thumb: /files/thumbnails/14fb2a7007f21314fb2a7008190a.jpg
     url: /files/original/14fb2a7007f21314fb2a7008190a.jpg
+    alt:
+      en: "Mud-caked nativity figurines—an angel, two kings, a sheep, and an ox—sit atop a white appliance amid storm debris and dried brush."
 geo:
   address: ''
   lat: 30.1854960221094

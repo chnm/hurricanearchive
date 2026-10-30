@@ -23,6 +23,8 @@ files:
     original_filename: aKatrina at Brushfire and Charles CT.jpg
     thumb: /files/thumbnails/14fb29c1dbff7514fb29c1dc035b.jpg
     url: /files/original/14fb29c1dbff7514fb29c1dc035b.jpg
+    alt:
+      en: "Flooded residential street with houses partially submerged in brown floodwater, a blue trampoline floating in a yard, and heavy rain streaking a window in the foreground."
 geo:
   address: ''
   lat: 30.22807

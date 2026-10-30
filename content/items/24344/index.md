@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-20-18A.jpg
     thumb: /files/thumbnails/14fb29e8a34a2b14fb29e8a34e0f.jpg
     url: /files/original/14fb29e8a34a2b14fb29e8a34e0f.jpg
+    alt:
+      en: "Elevated highway curving right with a yellow road sign reading \"30 MPH,\" concrete barrier wall, and a city skyline with high-rise buildings in the background."
 geo:
 id: 24344
 item_type: Still Image

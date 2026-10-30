@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9079.jpg
     thumb: /files/thumbnails/14fb2a64ded70214fb2a64ded7da.jpg
     url: /files/original/14fb2a64ded70214fb2a64ded7da.jpg
+    alt:
+      en: "Handwritten \"Santa Wish List\" sign with pink tinsel border stands in a yard, listing items like Cat 5 levees, FEMA trailer, and coastal restoration; a \"MOLD\" inspection sign is nearby."
 geo:
 id: 2574
 item_type: Still Image

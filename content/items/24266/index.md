@@ -21,6 +21,8 @@ files:
     original_filename: 20050926002.JPG
     thumb: /files/thumbnails/14fb29e92787d814fb29e9282d6b.jpg
     url: /files/original/14fb29e92787d814fb29e9282d6b.jpg
+    alt:
+      en: "A dark nighttime scene showing several figures in camouflage uniforms standing near a vehicle, illuminated faintly by small orange lights in the background."
 geo:
 id: 24266
 item_type: Still Image

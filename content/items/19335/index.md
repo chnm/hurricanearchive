@@ -21,6 +21,8 @@ files:
     original_filename: J2 (51).JPG
     thumb: /files/thumbnails/14fb2a1118b62114fb2a1118ba06.jpg
     url: /files/original/14fb2a1118b62114fb2a1118ba06.jpg
+    alt:
+      en: "Two tower cranes, one white and one yellow labeled \"MORROW,\" stand over an unfinished concrete high-rise, with the Sheraton and Marriott hotel towers visible in the city skyline beyond."
 geo:
 id: 19335
 item_type: Still Image

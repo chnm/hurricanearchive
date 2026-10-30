@@ -21,6 +21,8 @@ files:
     original_filename: DSC01037.JPG
     thumb: /files/thumbnails/14fb2a58b979d814fb2a58b97dbe.jpg
     url: /files/original/14fb2a58b979d814fb2a58b97dbe.jpg
+    alt:
+      en: "Three people in U.S. Coast Guard uniforms sit and stand inside the cargo area of a box truck loaded with boxes and supplies, with a timestamp reading \"4 5:10 PM\" in the corner."
 geo:
 id: 3961
 item_type: Still Image

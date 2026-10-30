@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0945superdome.JPG
     thumb: /files/thumbnails/14fb29e4419b6814fb29e4419f60.jpg
     url: /files/original/14fb29e4419b6814fb29e4419f60.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with an American flag patch and \"Cullen\" name tape stands in a doorway, with an older man in a White Sox cap and patterned shirt nearby."
 geo:
 id: 24871
 item_type: Still Image

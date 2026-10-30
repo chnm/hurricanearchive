@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0084H.JPG
     thumb: /files/thumbnails/14fb2a038bbd2814fb2a038bc155.jpg
     url: /files/original/14fb2a038bbd2814fb2a038bc155.jpg
+    alt:
+      en: "A woman in a white tank top and orange shorts signs merchandise at a table with folded orange T-shirts, beer cans, and energy drink cans, as other people stand nearby indoors."
 geo:
 id: 20816
 item_type: Still Image

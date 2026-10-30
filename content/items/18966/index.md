@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2128rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13f358a114fb2a13f35c7c.jpg
     url: /files/original/14fb2a13f358a114fb2a13f35c7c.jpg
+    alt:
+      en: "Aerial view of a military medical helicopter (marked 2431 with a red cross) landed on a rooftop beside a crew member, with \"HELP\" painted on an adjacent roof and floodwater submerging the surrounding neighborhood."
 geo:
 id: 18966
 item_type: Still Image

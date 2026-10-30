@@ -24,6 +24,8 @@ files:
     original_filename: P1010110.JPG
     thumb: /files/thumbnails/14fb2a5a2e54c614fb2a5a2e58a6.jpg
     url: /files/original/14fb2a5a2e54c614fb2a5a2e58a6.jpg
+    alt:
+      en: "A brick house with a damaged roof, its shingles torn away and littered with debris, exposing patches of bare underlayment; a metal roof vent stands near the ridge."
 geo:
 id: 3673
 item_type: Still Image

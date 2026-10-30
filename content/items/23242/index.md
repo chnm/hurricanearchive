@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 33.jpg
     thumb: /files/thumbnails/14fb29f060a93c14fb29f060ad23.jpg
     url: /files/original/14fb29f060a93c14fb29f060ad23.jpg
+    alt:
+      en: "Satellite weather map of a hurricane centered near New Orleans and Mobile, with orange and purple storm bands spreading across the Gulf Coast states; timestamped 29 Aug 2005, 12:37 GMT."
 geo:
 id: 23242
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: back_peacock_0bd26c6972.JPG
     thumb: /files/thumbnails/14fb2a6d91c1c414fb2a6d91c591.jpg
     url: /files/original/14fb2a6d91c1c414fb2a6d91c591.jpg
+    alt:
+      en: "A peacock viewed from behind, its blue head and neck leading down to green, eye-patterned tail feathers, standing on a paved surface near green shrubs."
 geo:
   address: ''
   lat: 30.463989071862997

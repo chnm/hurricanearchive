@@ -21,6 +21,8 @@ files:
     original_filename: katrina 015.jpg
     thumb: /files/thumbnails/14fb29fc01e22114fb29fc01e605.jpg
     url: /files/original/14fb29fc01e22114fb29fc01e605.jpg
+    alt:
+      en: "Makeshift encampment in a parking garage with cots, duffel bags, and supplies, a yellow tent in the background, and several people in camouflage uniforms gathered nearby; timestamp reads \"4 5:15 PM.\""
 geo:
 id: 21747
 item_type: Still Image

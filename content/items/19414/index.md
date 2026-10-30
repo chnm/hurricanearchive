@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060engineers.JPG
     thumb: /files/thumbnails/14fb2a1063916e14fb2a10639554.jpg
     url: /files/original/14fb2a1063916e14fb2a10639554.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms and boonie hats stand on a debris-strewn road near a damaged mobile home with \"FRIENDS\" spray-painted on its side, amid storm wreckage and downed power lines."
 geo:
 id: 19414
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials118.jpg
     thumb: /files/thumbnails/14fb2a1a44abb314fb2a1a44b4d3.jpg
     url: /files/original/14fb2a1a44abb314fb2a1a44b4d3.jpg
+    alt:
+      en: "Aerial view of a devastated waterfront property with one structure left standing on stilts amid widespread debris, flattened trees, and scattered wreckage along the shoreline."
 geo:
 id: 14277
 item_type: Still Image

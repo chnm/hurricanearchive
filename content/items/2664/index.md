@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9243.jpg
     thumb: /files/thumbnails/14fb2a60db70d614fb2a60db74bb.jpg
     url: /files/original/14fb2a60db70d614fb2a60db74bb.jpg
+    alt:
+      en: "Severely damaged white clapboard house with torn siding and exposed interior, surrounded by massive piles of storm debris, under a clear blue sky with bare, broken trees."
 geo:
 id: 2664
 item_type: Still Image

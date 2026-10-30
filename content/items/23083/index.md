@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0093OEP.JPG
     thumb: /files/thumbnails/14fb29f19a658114fb29f19a6968.jpg
     url: /files/original/14fb29f19a658114fb29f19a6968.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work at desks with computer monitors in an office setting; a name tape reading \"ODLE\" is visible on one uniform."
 geo:
 id: 23083
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: Oct2947_812c8ebf04.JPG
     thumb: /files/thumbnails/14fb2a7095e26114fb2a7095e7ea.jpg
     url: /files/original/14fb2a7095e26114fb2a7095e7ea.jpg
+    alt:
+      en: "Exterior of a brick Wal-Mart store with an \"Always\" sign above the entrance, its doors blocked by large bundled bales of cardboard, with debris, a shopping cart, and gas cans scattered on the sidewalk."
 geo:
   address: ''
   lat: 29.938343

@@ -23,6 +23,8 @@ files:
     original_filename: 2409554590_096fa2cc2b.png
     thumb: /files/thumbnails/14fb29c76c957714fb29c76c995c.jpg
     url: /files/original/14fb29c76c957714fb29c76c995c.jpg
+    alt:
+      en: "A red minivan severely damaged with its roof torn open and side door missing, sitting on muddy ground amid storm debris and damaged trees."
 geo:
 id: 35161
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-23-22A.jpg
     thumb: /files/thumbnails/14fb29e8d7b68e14fb29e8d83c49.jpg
     url: /files/original/14fb29e8d7b68e14fb29e8d83c49.jpg
+    alt:
+      en: "Floodwaters submerge a city street beneath an elevated highway, with partially submerged cars, a pickup truck carrying passengers, and a utility truck surrounded by trees rising from the water; a high-rise building stands in the background."
 geo:
 id: 24303
 item_type: Still Image

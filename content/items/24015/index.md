@@ -21,6 +21,8 @@ files:
     original_filename: 09280017plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebed713514fb29ebed751d.jpg
     url: /files/original/14fb29ebed713514fb29ebed751d.jpg
+    alt:
+      en: "Four men in camouflage military uniforms and boots stand with a man in a blue shirt, jeans, and rubber boots on green painted steps outside a white building."
 geo:
 id: 24015
 item_type: Still Image

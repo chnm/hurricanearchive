@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0076abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efc2b99714fb29efc2bd7d.jpg
     url: /files/original/14fb29efc2b99714fb29efc2bd7d.jpg
+    alt:
+      en: "Two men wearing cowboy hats and leather chaps sit on horseback facing each other, each holding a coiled lasso, with a barn, truck, and trees in the background."
 geo:
 id: 23376
 item_type: Still Image

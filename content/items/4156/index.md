@@ -21,6 +21,8 @@ files:
     original_filename: P1010023.JPG
     thumb: /files/thumbnails/14fb2a5759ff1b14fb2a575a030c.jpg
     url: /files/original/14fb2a5759ff1b14fb2a575a030c.jpg
+    alt:
+      en: "Aerial view of a coastal town reduced to scattered debris and foundations along a grid of streets, with floodwater-filled ditches and the ocean visible in the background."
 geo:
 id: 4156
 item_type: Still Image

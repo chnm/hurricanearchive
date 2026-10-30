@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27941.jpg
     thumb: /files/thumbnails/14fb2a6c8e7a8914fb2a6c8e7e77.jpg
     url: /files/original/14fb2a6c8e7a8914fb2a6c8e7e77.jpg
+    alt:
+      en: "Close-up of a weathered concrete traffic barrier featuring a raised bronze fleur-de-lis emblem and a round handle above it, with faint rust streaks visible on the surface."
 geo:
   address: ''
   lat: 0.0

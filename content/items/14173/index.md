@@ -21,6 +21,8 @@ files:
     original_filename: POD meeting.JPG
     thumb: /files/thumbnails/14fb2a1b0271aa14fb2a1b027eb7.jpg
     url: /files/original/14fb2a1b0271aa14fb2a1b027eb7.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms stand near a pallet of \"V2s\" MRE boxes being unloaded from a truck, with one soldier carrying a rifle, dated 09.26.2005."
 geo:
   address: ''
   lat: 0.0

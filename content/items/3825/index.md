@@ -24,6 +24,8 @@ files:
     original_filename: Katrina
     thumb: /files/thumbnails/14fb2a595c1de014fb2a595c21d5.jpg
     url: /files/original/14fb2a595c1de014fb2a595c21d5.jpg
+    alt:
+      en: "A man in a light blue checkered shirt stands amid a crowd of uniformed Coast Guardsmen in caps outdoors, with trees and a light pole visible in the hazy background."
 geo:
 id: 3825
 item_type: Still Image

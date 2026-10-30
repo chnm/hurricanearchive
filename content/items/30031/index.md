@@ -20,6 +20,8 @@ files:
     original_filename: Picture+040_4e725c47c7.jpg
     thumb: /files/thumbnails/14fb29cdf4e29414fb29cdf4e629.jpg
     url: /files/original/14fb29cdf4e29414fb29cdf4e629.jpg
+    alt:
+      en: "A weathered picture frame with a faded, discolored photograph lies amid debris, broken drywall, and torn insulation strips scattered across the ground."
 geo:
 id: 30031
 item_type: Still Image

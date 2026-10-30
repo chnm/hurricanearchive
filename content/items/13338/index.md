@@ -21,6 +21,8 @@ files:
     original_filename: 105-01_667c681dbd.jpg
     thumb: /files/thumbnails/14fb2a1e4ce39914fb2a1e4cfa66.jpg
     url: /files/original/14fb2a1e4ce39914fb2a1e4cfa66.jpg
+    alt:
+      en: "Black-and-white street view of North Claiborne Avenue at St. Bernard Avenue, New Orleans, dated Nov. 14, 1954, showing cars on a wet road, storefronts, utility poles, and overhanging trees."
 geo:
 id: 13338
 item_type: Still Image

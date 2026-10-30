@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28546.jpg
     thumb: /files/thumbnails/14fb2a69e75dd614fb2a69e761bc.jpg
     url: /files/original/14fb2a69e75dd614fb2a69e761bc.jpg
+    alt:
+      en: "Two \"Water Out\" emergency drying trailers with yellow ventilation tubes parked outside a multi-story building in downtown New Orleans, signage reading \"Water Damage Specialists, Drying • Flood Recovery, 877-972-6653.\""
 geo:
   address: ''
   lat: 0.0

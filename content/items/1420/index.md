@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28329.jpg
     thumb: /files/thumbnails/14fb2a690075a314fb2a69007825.jpg
     url: /files/original/14fb2a690075a314fb2a69007825.jpg
+    alt:
+      en: "Severely damaged museum buildings with exposed framing, torn metal roofing, and collapsed walls, surrounded by scattered debris and overturned furniture after hurricane destruction."
 geo:
   address: ''
   lat: 0.0

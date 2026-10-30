@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1158Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7357edb14fb29f73582bf.jpg
     url: /files/original/14fb29f7357edb14fb29f73582bf.jpg
+    alt:
+      en: "Two people in winter hats and a red scarf stand close together in a dimly lit, tiled hallway, silhouetted against a bright overhead light."
 geo:
 id: 22343
 item_type: Still Image

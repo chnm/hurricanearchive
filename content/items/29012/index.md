@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0513.JPG
     thumb: /files/thumbnails/14fb29d0bc2d2d14fb29d0bc321d.jpg
     url: /files/original/14fb29d0bc2d2d14fb29d0bc321d.jpg
+    alt:
+      en: "Two military Black Hawk helicopters with rotors folded parked on an airfield tarmac, with a pickup truck and tree line visible in the background under a clear sky."
 geo:
 id: 29012
 item_type: Still Image

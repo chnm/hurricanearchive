@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28366.jpg
     thumb: /files/thumbnails/14fb2a6977b6f014fb2a6977bad5.jpg
     url: /files/original/14fb2a6977b6f014fb2a6977bad5.jpg
+    alt:
+      en: "Several shrimp boats with tall rigging and outriggers are docked together along a wooden pier under an overcast sky, with partial text reading \"PT. JOH\" visible on one hull."
 geo:
   address: ''
   lat: 0.0

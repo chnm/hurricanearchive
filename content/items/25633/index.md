@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.052.JPG
     thumb: /files/thumbnails/14fb29dcf6c11914fb29dcf6c4fc.jpg
     url: /files/original/14fb29dcf6c11914fb29dcf6c4fc.jpg
+    alt:
+      en: "Two people sit at a table playing chess with a chess clock, one wearing a cap and plaid shirt moving a timer, the other in a gray T-shirt smiling and raising a hand."
 geo:
 id: 25633
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0551.JPG
     thumb: /files/thumbnails/14fb2a537272b414fb2a5372769c.jpg
     url: /files/original/14fb2a537272b414fb2a5372769c.jpg
+    alt:
+      en: "Low concrete bridge spanning a calm waterway, lined with pine trees and marsh grass, with construction equipment visible on the roadway under a clear blue sky."
 geo:
 id: 5189
 item_type: Still Image

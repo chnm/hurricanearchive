@@ -26,6 +26,8 @@ files:
     original_filename: 100_5856_1ece4c5f6a.JPG
     thumb: /files/thumbnails/14fb2a7110700c14fb2a711073f0.jpg
     url: /files/original/14fb2a7110700c14fb2a711073f0.jpg
+    alt:
+      en: "A large pile of storm debris, including splintered wood and twisted metal, sits beside a bare tree in front of a damaged building; the photo is dated 11/11/2005."
 geo:
   address: ''
   lat: 30.005653

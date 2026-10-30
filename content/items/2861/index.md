@@ -21,6 +21,8 @@ files:
     original_filename: MVC-018S.JPG
     thumb: /files/thumbnails/14fb2a5fce05be14fb2a5fce09a6.jpg
     url: /files/original/14fb2a5fce05be14fb2a5fce09a6.jpg
+    alt:
+      en: "Commercial kitchen interior with stainless steel steam table inserts in the foreground, large metal equipment, exhaust hoods, and ductwork, with a bent metal rod hanging from the ceiling."
 geo:
 id: 2861
 item_type: Still Image

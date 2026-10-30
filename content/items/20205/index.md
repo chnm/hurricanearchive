@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0140-9-18.JPG
     thumb: /files/thumbnails/14fb2a0abdd8b314fb2a0abddc98.jpg
     url: /files/original/14fb2a0abdd8b314fb2a0abddc98.jpg
+    alt:
+      en: "A thin brown dog on a chain stands atop debris, including a large round metal lid, broken concrete slabs, and scattered wreckage from a damaged structure."
 geo:
 id: 20205
 item_type: Still Image

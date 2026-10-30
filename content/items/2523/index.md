@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8721.jpg
     thumb: /files/thumbnails/14fb2a65c06d5f14fb2a65c07144.jpg
     url: /files/original/14fb2a65c06d5f14fb2a65c07144.jpg
+    alt:
+      en: "A water tower labeled \"DELACROIX\" rises beside large oak trees, with scattered debris and flattened structures on the ground after storm damage."
 geo:
 id: 2523
 item_type: Still Image

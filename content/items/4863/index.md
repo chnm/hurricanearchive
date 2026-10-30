@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0182.JPG
     thumb: /files/thumbnails/14fb2a55203a5414fb2a55203e48.jpg
     url: /files/original/14fb2a55203a5414fb2a55203e48.jpg
+    alt:
+      en: "Elevated house on stilts surrounded by storm debris, with a small boat on a trailer parked beneath it and scattered wreckage in the yard; tall pine trees stand in front of the structure."
 geo:
 id: 4863
 item_type: Still Image

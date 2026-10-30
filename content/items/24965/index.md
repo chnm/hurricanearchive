@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1483superdome.JPG
     thumb: /files/thumbnails/14fb29e38dab7514fb29e38db2b3.jpg
     url: /files/original/14fb29e38dab7514fb29e38db2b3.jpg
+    alt:
+      en: "A military aviator in flight suit, helmet, and tinted visor stands beside a helicopter marked with a red cross and \"2533,\" holding a microphone cable near a cargo hook and water bottles."
 geo:
 id: 24965
 item_type: Still Image

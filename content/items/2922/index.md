@@ -21,6 +21,8 @@ files:
     original_filename: MVC-011S.JPG
     thumb: /files/thumbnails/14fb2a5f949af914fb2a5f949f43.jpg
     url: /files/original/14fb2a5f949af914fb2a5f949f43.jpg
+    alt:
+      en: "A small office or storage room viewed through an open doorway, with wooden shelves crowded with books, binders, and files, a desk with a printer, and a red fire extinguisher mounted near the door."
 geo:
 id: 2922
 item_type: Still Image

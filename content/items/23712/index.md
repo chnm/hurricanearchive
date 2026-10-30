@@ -21,6 +21,8 @@ files:
     original_filename: P1010153empireS&R.JPG
     thumb: /files/thumbnails/14fb29eda5681b14fb29eda56c00.jpg
     url: /files/original/14fb29eda5681b14fb29eda56c00.jpg
+    alt:
+      en: "Two shrimp boats, \"Mayflower\" and \"Fellow Ship,\" stranded on a roadside embankment beside a debris-filled canal, with storm wreckage and downed trees scattered along the shoreline."
 geo:
 id: 23712
 item_type: Still Image

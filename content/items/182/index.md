@@ -26,6 +26,8 @@ files:
     original_filename: katrina16_0ebbf33be3.jpg
     thumb: /files/thumbnails/14fb2a70a94d6f14fb2a70a95153.jpg
     url: /files/original/14fb2a70a94d6f14fb2a70a95153.jpg
+    alt:
+      en: "A box truck lies tilted and wedged against bare, storm-damaged trees, its front end submerged in floodwater, with debris scattered around the base of the trees."
 geo:
   address: ''
   lat: 29.5196955069536

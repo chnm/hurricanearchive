@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-27-25A.jpg
     thumb: /files/thumbnails/14fb29e89951b214fb29e8995594.jpg
     url: /files/original/14fb29e89951b214fb29e8995594.jpg
+    alt:
+      en: "Floodwater surrounds the base of an elevated highway overpass, with trees in the foreground and two helicopters visible in the sky above."
 geo:
 id: 24351
 item_type: Still Image

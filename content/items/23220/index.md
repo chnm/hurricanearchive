@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 13.jpg
     thumb: /files/thumbnails/14fb29f0a07ed914fb29f0a0912e.jpg
     url: /files/original/14fb29f0a07ed914fb29f0a0912e.jpg
+    alt:
+      en: "Satellite view of a large hurricane with a defined eye over the Gulf of Mexico, swirling white clouds surrounded by dark ocean waters and coastline visible at the top of the frame."
 geo:
 id: 23220
 item_type: Still Image

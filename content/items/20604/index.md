@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041M.JPG
     thumb: /files/thumbnails/14fb2a05b65d7a14fb2a05b6615f.jpg
     url: /files/original/14fb2a05b65d7a14fb2a05b6615f.jpg
+    alt:
+      en: "Sideways photo of several people in military camouflage uniforms gathered around a desk with a laptop computer, a water bottle, and stacked white boxes with barcode labels."
 geo:
 id: 20604
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: BBB Saints Victory Parade_3dc2e5073e.jpg
     thumb: /files/thumbnails/14fb29c3242c8014fb29c3243062.jpg
     url: /files/original/14fb29c3242c8014fb29c3243062.jpg
+    alt:
+      en: "Group of musicians in dark jackets and hats pose on a brick street with a bass drum, snare drum, trumpets, and a sousaphone; one man's shirt reads \"WHO DAT.\""
 geo:
   address: ''
   lat: 0.0

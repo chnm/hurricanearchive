@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0100-15.JPG
     thumb: /files/thumbnails/14fb29e77f33fb14fb29e77f37e1.jpg
     url: /files/original/14fb29e77f33fb14fb29e77f37e1.jpg
+    alt:
+      en: "Aerial view of a hazy riverside city with docked ships along a port, dense residential neighborhoods, warehouses, and railroad tracks extending through the foreground."
 geo:
 id: 24468
 item_type: Still Image

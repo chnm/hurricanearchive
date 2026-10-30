@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0221-9-25.JPG
     thumb: /files/thumbnails/14fb29ff95dc0314fb29ff95dfe1.jpg
     url: /files/original/14fb29ff95dc0314fb29ff95dfe1.jpg
+    alt:
+      en: "Aerial view of a rural farmstead with houses, mobile homes, and outbuildings surrounded by extensive floodwater, with cattle grazing on higher ground and cropland visible in the background."
 geo:
 id: 21299
 item_type: Still Image

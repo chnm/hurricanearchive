@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1935superdome.JPG
     thumb: /files/thumbnails/14fb29e08948f514fb29e0894c4f.jpg
     url: /files/original/14fb29e08948f514fb29e0894c4f.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms, some wearing helmets and carrying backpacks, walk across a concrete lot near a parking structure; a banner reading \"CHECK OUT WHO'S ROLLING WITH THE WAVE THIS YEAR!\" hangs in the background."
 geo:
 id: 25237
 item_type: Still Image

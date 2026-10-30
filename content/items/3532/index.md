@@ -24,6 +24,8 @@ files:
     original_filename: P1010108.JPG
     thumb: /files/thumbnails/14fb2a5b006b5d14fb2a5b006f41.jpg
     url: /files/original/14fb2a5b006b5d14fb2a5b006f41.jpg
+    alt:
+      en: "A tall palm tree with full fronds stands against a bright blue sky, sunlight flaring near its crown, with bare and leafy trees visible below."
 geo:
 id: 3532
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 080engineers.jpg
     thumb: /files/thumbnails/14fb2a0f9450eb14fb2a0f945432.jpg
     url: /files/original/14fb2a0f9450eb14fb2a0f945432.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rows of houses surrounded by standing water, taken from an airplane window showing part of the wing; timestamped 09.05.2005 17:44."
 geo:
 id: 19520
 item_type: Still Image

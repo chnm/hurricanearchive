@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0081.JPG
     thumb: /files/thumbnails/14fb2a0ad5731514fb2a0ad576f5.jpg
     url: /files/original/14fb2a0ad5731514fb2a0ad576f5.jpg
+    alt:
+      en: "A CAT backhoe loader pushes a pile of thick black sludge on a flooded residential street, with downed tree limbs and brick houses in the background."
 geo:
 id: 20191
 item_type: Still Image

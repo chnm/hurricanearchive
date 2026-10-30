@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0570.JPG
     thumb: /files/thumbnails/14fb2a568eb67114fb2a569112b9.jpg
     url: /files/original/14fb2a568eb67114fb2a569112b9.jpg
+    alt:
+      en: "Debris field with scattered cinder blocks, broken concrete slabs, dried leaves, a green hose, a red cup, and blue plastic sheeting covering storm-damaged ground."
 geo:
 id: 4641
 item_type: Still Image

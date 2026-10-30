@@ -21,6 +21,8 @@ files:
     original_filename: USS Alabama 10.jpg
     thumb: /files/thumbnails/14fb2a599c09de14fb2a599c0dd4.jpg
     url: /files/original/14fb2a599c09de14fb2a599c0dd4.jpg
+    alt:
+      en: "A retired battleship, the USS Alabama, rests at dock with its multiple gun turrets and superstructure visible, surrounded by trees and grass under an overcast sky."
 geo:
 id: 3789
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0224-9-25.JPG
     thumb: /files/thumbnails/14fb29ff8c977114fb29ff8c9b43.jpg
     url: /files/original/14fb29ff8c977114fb29ff8c9b43.jpg
+    alt:
+      en: "Aerial view of extensive farmland flooding, with a house, barn, and scattered trees partially submerged in brown floodwater, and a small patch of unflooded green field visible in the lower left corner."
 geo:
 id: 21311
 item_type: Still Image

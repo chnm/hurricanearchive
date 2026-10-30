@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0162-9-25.JPG
     thumb: /files/thumbnails/14fb2a012de86e14fb2a012dec54.jpg
     url: /files/original/14fb2a012de86e14fb2a012dec54.jpg
+    alt:
+      en: "Aerial view of shallow floodwater covering a marshy or coastal landscape, with patches of vegetation scattered across the submerged ground and a sandy shoreline visible at the top edge."
 geo:
 id: 20985
 item_type: Still Image

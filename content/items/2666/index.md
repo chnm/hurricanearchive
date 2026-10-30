@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9248.jpg
     thumb: /files/thumbnails/14fb2a60c10a8014fb2a60c10e64.jpg
     url: /files/original/14fb2a60c10a8014fb2a60c10e64.jpg
+    alt:
+      en: "Large pile of crumpled metal debris and scrap, including rusted pipes and twisted sheet metal, set against a clear blue sky at a disaster debris dump site."
 geo:
 id: 2666
 item_type: Still Image

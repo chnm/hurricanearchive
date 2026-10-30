@@ -20,6 +20,8 @@ files:
     original_filename: 100_5061_0cd9827783.JPG
     thumb: /files/thumbnails/14fb29cbe651c214fb29cbe655a8.jpg
     url: /files/original/14fb29cbe651c214fb29cbe655a8.jpg
+    alt:
+      en: "A beige brick building labeled \"Elizabeth Hall\" with arched ground-floor openings and decorative brown vertical louvers, set on a cleared, debris-strewn lot under a clear blue sky."
 geo:
   address: ''
   lat: 30.33955

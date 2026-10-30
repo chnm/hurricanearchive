@@ -21,6 +21,8 @@ files:
     original_filename: 174 trees down.jpg
     thumb: /files/thumbnails/14fb2a1f8aeec714fb2a1f8af2ad.jpg
     url: /files/original/14fb2a1f8aeec714fb2a1f8af2ad.jpg
+    alt:
+      en: "A brown two-story house with a gabled roof surrounded by fallen tree branches and debris, with a utility pole and tangled wires visible amid overgrown grass in the foreground."
 geo:
 id: 13182
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0198-21.JPG
     thumb: /files/thumbnails/14fb29fff94f4a14fb29fff95330.jpg
     url: /files/original/14fb29fff94f4a14fb29fff95330.jpg
+    alt:
+      en: "Five soldiers in camouflage uniforms gather on a sidewalk, with one reviewing a camera and another writing on a yellow legal pad, against a backdrop of a fenced lot and bare trees."
 geo:
 id: 21211
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 105-05_e8f9c4be2f.jpg
     thumb: /files/thumbnails/14fb2a1e488aa214fb2a1e488e88.jpg
     url: /files/original/14fb2a1e488aa214fb2a1e488e88.jpg
+    alt:
+      en: "Wide street lined with palm trees and a median, leading toward a service station with \"Harold's Hi-Octane Service\" signage; a few parked cars and pedestrians are visible, dated Feb. 13, 1950."
 geo:
 id: 13342
 item_type: Still Image

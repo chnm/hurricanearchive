@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2251engineers.JPG
     thumb: /files/thumbnails/14fb2a109c158314fb2a109c1969.jpg
     url: /files/original/14fb2a109c158314fb2a109c1969.jpg
+    alt:
+      en: "A man wearing a hard hat and work gear uses a Stihl chainsaw to cut a large tree stump in a yard, with a green chair and a house visible in the background."
 geo:
 id: 19388
 item_type: Still Image

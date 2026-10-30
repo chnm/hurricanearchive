@@ -21,6 +21,8 @@ files:
     original_filename: MVC-001S.JPG
     thumb: /files/thumbnails/14fb2a5f7e27bb14fb2a5f7e307f.jpg
     url: /files/original/14fb2a5f7e27bb14fb2a5f7e307f.jpg
+    alt:
+      en: "A gray battleship with large gun turrets and a tall superstructure, docked as a museum ship under a clear blue sky, with a crane visible to the right."
 geo:
 id: 2946
 item_type: Still Image

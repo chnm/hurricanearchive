@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p1_07_cefe5ccfee.jpg
     thumb: /files/thumbnails/14fb2a1777db9514fb2a1777df7b.jpg
     url: /files/original/14fb2a1777db9514fb2a1777df7b.jpg
+    alt:
+      en: "A woman in a teal dress holds a toddler while a young girl in a floral dress stands beside her on the brick porch of a house numbered 5534, framed by white decorative ironwork and green shrubs."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7413.JPG
     thumb: /files/thumbnails/14fb29ccc06edb14fb29ccc074f6.jpg
     url: /files/original/14fb29ccc06edb14fb29ccc074f6.jpg
+    alt:
+      en: "A wooden door opens directly into heavy pine tree branches with long green needles pressed against the doorway, blocking the exit."
 geo:
 id: 30716
 item_type: Still Image

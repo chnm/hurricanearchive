@@ -20,6 +20,8 @@ files:
     original_filename: 2421691752_d307b8afb9.
     thumb: /files/thumbnails/14fb29c8fce10014fb29c8fce4e4.jpg
     url: /files/original/14fb29c8fce10014fb29c8fce4e4.jpg
+    alt:
+      en: "Interior of a damaged room with peeling turquoise walls, a broken window covered by a \"Certainteed Cryofoam Weathermate\" insulation wrapper, a leaning window frame, a framed floral picture, and a small red hanging ornament."
 geo:
 id: 34739
 item_type: Still Image

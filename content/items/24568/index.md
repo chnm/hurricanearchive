@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0118-21.JPG
     thumb: /files/thumbnails/14fb29e690879d14fb29e6908c38.jpg
     url: /files/original/14fb29e690879d14fb29e6908c38.jpg
+    alt:
+      en: "Blurry, sideways photo of a man wearing desert camouflage military fatigues with an American flag patch, with another uniformed figure visible in the background."
 geo:
 id: 24568
 item_type: Still Image

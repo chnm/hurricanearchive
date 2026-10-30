@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28525.jpg
     thumb: /files/thumbnails/14fb2a6c991edb14fb2a6c9922c7.jpg
     url: /files/original/14fb2a6c991edb14fb2a6c9922c7.jpg
+    alt:
+      en: "Damaged two-story brick and vinyl-sided house with a torn section of roof shingles, broken window, and dead shrubs and fallen branches covering the yard in front."
 geo:
   address: ''
   lat: 0.0

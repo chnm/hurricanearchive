@@ -25,6 +25,8 @@ files:
     original_filename: 157200455_aa2664163c.jpg
     thumb: /files/thumbnails/14fb29d1bf1b7014fb29d1bf1f4d.jpg
     url: /files/original/14fb29d1bf1b7014fb29d1bf1f4d.jpg
+    alt:
+      en: "A car lies overturned on its roof beside a street, with a damaged house, scattered debris, and downed branches visible behind it, surrounded by trees and an open grassy field in the foreground."
 geo:
 id: 28685
 item_type: Still Image

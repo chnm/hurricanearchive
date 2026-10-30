@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (58).jpg
     thumb: /files/thumbnails/14fb2a5cabb45114fb2a5cabbef7.jpg
     url: /files/original/14fb2a5cabb45114fb2a5cabbef7.jpg
+    alt:
+      en: "Row of storm-damaged wooden houses with boarded windows and spray-painted \"X\" search markings, sagging roofs, and debris along a mud-covered street with traffic lights overhead."
 geo:
 id: 3297
 item_type: Still Image

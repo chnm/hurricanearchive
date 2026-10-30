@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28147.jpg
     thumb: /files/thumbnails/14fb2a6b7193f314fb2a6b7197d9.jpg
     url: /files/original/14fb2a6b7193f314fb2a6b7197d9.jpg
+    alt:
+      en: "Debris-strewn lot with an overturned boat, a damaged wooden \"Sundance\" sign amid shrubs, scattered wreckage, and a partially damaged house in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

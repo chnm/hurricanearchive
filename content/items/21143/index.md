@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0185-21.JPG
     thumb: /files/thumbnails/14fb2a005c616414fb2a005c6556.jpg
     url: /files/original/14fb2a005c616414fb2a005c6556.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand outdoors near a tree and building; one looks through a handheld video camera while another stands nearby, sunglasses resting on a stone ledge."
 geo:
 id: 21143
 item_type: Still Image

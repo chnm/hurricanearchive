@@ -21,6 +21,8 @@ files:
     original_filename: 114neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ebe9952614fb29ebe99906.jpg
     url: /files/original/14fb29ebe9952614fb29ebe99906.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms help lift a woman to safety near a large military vehicle, with a crowd of onlookers gathered in the background under a clear sky."
 geo:
 id: 24020
 item_type: Still Image

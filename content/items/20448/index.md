@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016M.JPG
     thumb: /files/thumbnails/14fb2a07207fa414fb2a07208754.jpg
     url: /files/original/14fb2a07207fa414fb2a07208754.jpg
+    alt:
+      en: "Military cargo truck with canvas canopy traveling on a highway, viewed through a car windshield, with license plate \"225 GP 769 E\" and marking \"C016\" visible on its tailgate."
 geo:
 id: 20448
 item_type: Still Image

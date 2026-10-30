@@ -21,6 +21,8 @@ files:
     original_filename: begin windy2.jpg
     thumb: /files/thumbnails/14fb2a20947bd014fb2a209481df.jpg
     url: /files/original/14fb2a20947bd014fb2a209481df.jpg
+    alt:
+      en: "Sideways photo (needing 90-degree rotation) of a foggy street scene through a barred window, with brick buildings, street lamps, and a partially visible storefront sign reading \"HANDCOCK.\""
 geo:
 id: 13069
 item_type: Still Image

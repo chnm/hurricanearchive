@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-03-2AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f951be5514fb29f951c22e.jpg
     url: /files/original/14fb29f951be5514fb29f951c22e.jpg
+    alt:
+      en: "Floodwater rises over a brick walkway and submerges steps, with a metal handrail and stone column visible amid debris floating on the water's surface."
 geo:
 id: 22150
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 196 boat.jpg
     thumb: /files/thumbnails/14fb2a1f5d045314fb2a1f5d2f6f.jpg
     url: /files/original/14fb2a1f5d045314fb2a1f5d2f6f.jpg
+    alt:
+      en: "A capsized white boat named \"Manatee\" (registration TX-5687-JH) rests on its side amid floodwaters, surrounded by a submerged riding mower, a car, and houses with trees in the background."
 geo:
 id: 13202
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0381stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ee9e216914fb29ee9e24f8.jpg
     url: /files/original/14fb29ee9e216914fb29ee9e24f8.jpg
+    alt:
+      en: "Damaged house with twisted metal roofing and collapsed ironwork in foreground; emergency responders in helmets, trucks, and an American flag gather in the street beyond amid storm-damaged neighborhood homes."
 geo:
 id: 23585
 item_type: Still Image

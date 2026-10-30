@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0340-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd26b59f14fb29fd26b985.jpg
     url: /files/original/14fb29fd26b59f14fb29fd26b985.jpg
+    alt:
+      en: "Aerial view of extensive flooding across flat farmland, with submerged levees crisscrossing the water and small clusters of trees rising from the inundated fields under a hazy sky."
 geo:
 id: 21607
 item_type: Still Image

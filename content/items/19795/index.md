@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 034cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dca333f14fb2a0dca3725.jpg
     url: /files/original/14fb2a0dca333f14fb2a0dca3725.jpg
+    alt:
+      en: "Tree-lined street with storm debris and scattered litter along the roadside grass, a street sign reading \"Carondelet,\" and a military vehicle parked on the right near fallen branches."
 geo:
 id: 19795
 item_type: Still Image

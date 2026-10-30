@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-18-17AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f9462bcd14fb29f9462fbc.jpg
     url: /files/original/14fb29f9462bcd14fb29f9462fbc.jpg
+    alt:
+      en: "Floodwater fills a narrow street between white clapboard and brick buildings, with a lamppost standing in the rising water under a hazy sky."
 geo:
 id: 22165
 item_type: Still Image

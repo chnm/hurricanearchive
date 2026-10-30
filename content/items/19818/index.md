@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007tentcity.JPG
     thumb: /files/thumbnails/14fb2a0da5efa114fb2a0da5f387.jpg
     url: /files/original/14fb2a0da5efa114fb2a0da5f387.jpg
+    alt:
+      en: "A man in a white t-shirt reaches up to adjust a bare lightbulb in a wire cage fixture, illuminating the tarp-covered interior of a makeshift tent shelter."
 geo:
 id: 19818
 item_type: Still Image

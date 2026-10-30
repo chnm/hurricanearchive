@@ -21,6 +21,8 @@ files:
     original_filename: 100_0223.JPG
     thumb: /files/thumbnails/14fb2a58db771014fb2a58db7af5.jpg
     url: /files/original/14fb2a58db771014fb2a58db7af5.jpg
+    alt:
+      en: "Floodwater submerges houses and a utility pole up to the crossbars, with several people in camouflage aboard an inflatable boat navigating past rooftops; a partially submerged \"School Speed\" sign stands at right."
 geo:
 id: 3926
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 100_5421_25696bfb34.JPG
     thumb: /files/thumbnails/14fb2a71262e6114fb2a71263556.jpg
     url: /files/original/14fb2a71262e6114fb2a71263556.jpg
+    alt:
+      en: "Rows of damaged concrete bridge pilings stand in open water, their roadway decks missing, with a crane visible near the far shore lined with trees; debris covers the foreground shoreline, dated 09/27/2005."
 geo:
   address: ''
   lat: 30.005653

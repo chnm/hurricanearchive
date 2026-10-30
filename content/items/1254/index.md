@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28275.jpg
     thumb: /files/thumbnails/14fb2a6a0993e414fb2a6a09961c.jpg
     url: /files/original/14fb2a6a0993e414fb2a6a09961c.jpg
+    alt:
+      en: "Large building with multiple stories and a damaged lower level sits beside debris and a parked car; a person stands nearby on a cleared lot, with bare storm-damaged trees framing the scene."
 geo:
   address: ''
   lat: 0.0

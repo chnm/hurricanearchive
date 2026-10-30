@@ -21,6 +21,8 @@ files:
     original_filename: S4300017zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f2de76214fb2a0f2deb48.jpg
     url: /files/original/14fb2a0f2de76214fb2a0f2deb48.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with a \"TILLEMAN\" name tape writes on a notepad while seated near a large orange Gatorade cooler in the back of a military vehicle."
 geo:
 id: 19563
 item_type: Still Image

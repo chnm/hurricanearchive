@@ -21,6 +21,8 @@ files:
     original_filename: P1010078empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee26a1e514fb29ee26a5cb.jpg
     url: /files/original/14fb29ee26a1e514fb29ee26a5cb.jpg
+    alt:
+      en: "Damaged and partially collapsed buildings with sagging power lines stand amid a cleared, debris-strewn lot, with a tree line in the background under a hazy sky."
 geo:
 id: 23637
 item_type: Still Image

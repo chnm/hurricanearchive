@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28771.jpg
     thumb: /files/thumbnails/14fb2a6c5d0a0114fb2a6c5d11ce.jpg
     url: /files/original/14fb2a6c5d0a0114fb2a6c5d11ce.jpg
+    alt:
+      en: "A white pickup truck tows a large orange generator unit on a trailer along a highway, with other vehicles and tree-lined roadside in the background."
 geo:
   address: ''
   lat: 0.0

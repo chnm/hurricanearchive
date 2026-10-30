@@ -20,6 +20,8 @@ files:
     original_filename: 2433990221_1ed0321f6d.
     thumb: /files/thumbnails/14fb29c96137d214fb29c9613a85.jpg
     url: /files/original/14fb29c96137d214fb29c9613a85.jpg
+    alt:
+      en: "A red STOP sign stands beside a debris-strewn roadside lot, with bare trees holding scraps of torn fabric and insulation caught in their branches, remnants of storm damage."
 geo:
 id: 34708
 item_type: Still Image

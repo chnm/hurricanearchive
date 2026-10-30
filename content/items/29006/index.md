@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0506.JPG
     thumb: /files/thumbnails/14fb29d129844c14fb29d129878b.jpg
     url: /files/original/14fb29d129844c14fb29d129878b.jpg
+    alt:
+      en: "Group of people playing cards around a table in an office break room, with water bottles, food trays, and an \"A/R SHOP STATUS\" board visible on the wall behind them."
 geo:
 id: 29006
 item_type: Still Image

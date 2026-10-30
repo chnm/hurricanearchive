@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27928.jpg
     thumb: /files/thumbnails/14fb2a6746a30d14fb2a6746a5bc.jpg
     url: /files/original/14fb2a6746a30d14fb2a6746a5bc.jpg
+    alt:
+      en: "Exterior view of a parking garage structure with signs reading \"New Orleans Centre North Superdome Parking\" and \"Garage 1,\" set against a textured concrete facade and blue sky."
 geo:
   address: ''
   lat: 0.0

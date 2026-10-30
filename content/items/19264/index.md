@@ -21,6 +21,8 @@ files:
     original_filename: 09210014iwojima.JPG
     thumb: /files/thumbnails/14fb2a1177a21b14fb2a1177a600.jpg
     url: /files/original/14fb2a1177a21b14fb2a1177a600.jpg
+    alt:
+      en: "Large gray U.S. Navy amphibious assault ship with a complex island superstructure and antenna masts, photographed from a small boat on open water near a distant tree-lined shore."
 geo:
 id: 19264
 item_type: Still Image

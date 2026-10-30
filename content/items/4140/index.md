@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0026.JPG
     thumb: /files/thumbnails/14fb2a577d96ea14fb2a577d9c43.jpg
     url: /files/original/14fb2a577d96ea14fb2a577d9c43.jpg
+    alt:
+      en: "Wrecked pickup trucks, one black and one yellow, sit mangled and stripped amid scattered debris on a gravel lot, with an overturned boat hull and a calm waterway visible behind them under a clear sky."
 geo:
 id: 4140
 item_type: Still Image

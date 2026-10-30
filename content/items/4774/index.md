@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0473.JPG
     thumb: /files/thumbnails/14fb2a55a5620414fb2a55a57855.jpg
     url: /files/original/14fb2a55a5620414fb2a55a57855.jpg
+    alt:
+      en: "Debris-strewn lot with damaged trees, a partially collapsed house, and scattered wreckage under a clear blue sky, with a vehicle visible in the background."
 geo:
 id: 4774
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2420882015_3932791aa2.
     thumb: /files/thumbnails/14fb29c8e7dd2514fb29c8e7e116.jpg
     url: /files/original/14fb29c8e7dd2514fb29c8e7e116.jpg
+    alt:
+      en: "A weathered corrugated metal shed with a patched wooden door, surrounded by overgrown grass and tree branches, with another small outbuilding visible in the background."
 geo:
 id: 34750
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 127cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e2217cf14fb2a0e221c5c.jpg
     url: /files/original/14fb2a0e2217cf14fb2a0e221c5c.jpg
+    alt:
+      en: "Military cargo truck with a canvas-covered bed carrying soldiers in camouflage and several civilians, including a cameraman filming, with visible markings \"225GP,\" \"769 EN,\" and \"B 35\" on the tailgate."
 geo:
 id: 19740
 item_type: Still Image

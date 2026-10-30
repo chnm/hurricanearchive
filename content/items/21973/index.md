@@ -21,6 +21,8 @@ files:
     original_filename: Picture 304-J2.jpg
     thumb: /files/thumbnails/14fb29fac8ba6314fb29fac8be47.jpg
     url: /files/original/14fb29fac8ba6314fb29fac8be47.jpg
+    alt:
+      en: "Elevated highway overpass in the foreground with a city skyline behind, featuring a domed stadium with a gold and white roof, a teal-roofed building, high-rise towers, and a tall radio antenna under a blue sky."
 geo:
 id: 21973
 item_type: Still Image

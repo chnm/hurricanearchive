@@ -20,6 +20,8 @@ files:
     original_filename: l_8d6475e205df2ab7e330a2388eff3881_e884aeca75.jpg
     thumb: /files/thumbnails/14fb29cbf8fc2d14fb29cbf90012.jpg
     url: /files/original/14fb29cbf8fc2d14fb29cbf90012.jpg
+    alt:
+      en: "Four women in matching gray shirts and khaki pants use shovels to dig in a dirt patch beside a chain-link fence, with trees visible in the background."
 geo:
   address: St. Bernard Parish
   lat: 32.32883

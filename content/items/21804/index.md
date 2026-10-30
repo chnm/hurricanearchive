@@ -21,6 +21,8 @@ files:
     original_filename: katrina 074.jpg
     thumb: /files/thumbnails/14fb29fba6a6ab14fb29fba6aa5a.jpg
     url: /files/original/14fb29fba6a6ab14fb29fba6aa5a.jpg
+    alt:
+      en: "Elevated highway overlooking a flooded downtown street lined with high-rise buildings, a parking garage, and a partially visible \"New Orleans\" sign amid standing water reflecting the skyline."
 geo:
 id: 21804
 item_type: Still Image

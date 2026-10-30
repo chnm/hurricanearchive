@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0556.JPG
     thumb: /files/thumbnails/14fb2a536e6d5614fb2a536e713a.jpg
     url: /files/original/14fb2a536e6d5614fb2a536e713a.jpg
+    alt:
+      en: "Patchy, dried grass lawn with scattered bare dirt spots and tree shadows, possibly indicating former building or structure outlines in the ground."
 geo:
 id: 5194
 item_type: Still Image

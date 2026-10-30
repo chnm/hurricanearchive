@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0014.JPG
     thumb: /files/thumbnails/14fb2a1bb666c414fb2a1bb66aa9.jpg
     url: /files/original/14fb2a1bb666c414fb2a1bb66aa9.jpg
+    alt:
+      en: "Three men in camouflage military uniforms sit in conversation, with a regional map, radios, and equipment visible against a blue brick wall in the background."
 geo:
   address: ''
   lat: 0.0

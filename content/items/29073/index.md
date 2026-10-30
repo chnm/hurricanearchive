@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0618.JPG
     thumb: /files/thumbnails/14fb29d045f90c14fb29d045fcef.jpg
     url: /files/original/14fb29d045f90c14fb29d045fcef.jpg
+    alt:
+      en: "Abandoned single-story house numbered 8828 with an open front door, spray-painted markings on the siding, a damaged roof, and debris including a stuffed toy scattered across the overgrown yard and driveway."
 geo:
 id: 29073
 item_type: Still Image

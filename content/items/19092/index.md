@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 002.jpg
     thumb: /files/thumbnails/14fb2a132d0a7914fb2a132d0eb9.jpg
     url: /files/original/14fb2a132d0a7914fb2a132d0eb9.jpg
+    alt:
+      en: "Rows of parked cars and trucks in a lot, with tractor-trailers, a striped tent, and an \"Army - You Can\" banner visible in the background among trees."
 geo:
 id: 19092
 item_type: Still Image

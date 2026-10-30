@@ -21,6 +21,8 @@ files:
     original_filename: 131.jpg
     thumb: /files/thumbnails/14fb2a6076eee814fb2a6076f2ce.jpg
     url: /files/original/14fb2a6076eee814fb2a6076f2ce.jpg
+    alt:
+      en: "Child's drawing of a purple caterpillar-like creature with colorful oval spots and loop-shaped legs, labeled \"Derrick\" in orange marker at the top."
 geo:
 id: 2709
 item_type: Still Image

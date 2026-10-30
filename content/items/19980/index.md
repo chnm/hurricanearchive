@@ -21,6 +21,8 @@ files:
     original_filename: Picture 077cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bd74c3c14fb2a0bd75016.jpg
     url: /files/original/14fb2a0bd74c3c14fb2a0bd75016.jpg
+    alt:
+      en: "Elevated highway overpass with green directional signs reading \"New Orleans Business District,\" \"NO Intl Airport, Baton Rouge,\" and \"Franklin Ave,\" with concrete barriers and sparse traffic below."
 geo:
 id: 19980
 item_type: Still Image

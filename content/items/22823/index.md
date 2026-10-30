@@ -21,6 +21,8 @@ files:
     original_filename: S430023317thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f358c35314fb29f358c6d8.jpg
     url: /files/original/14fb29f358c35314fb29f358c6d8.jpg
+    alt:
+      en: "A large brick building with damaged roof shingles and debris around its base stands beyond a floodwater channel, with small pink flags marking the shoreline and bare trees in the background."
 geo:
 id: 22823
 item_type: Still Image

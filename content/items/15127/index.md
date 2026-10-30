@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5663-3_e8945d1452.jpg
     thumb: /files/thumbnails/14fb2a1703445e14fb2a17035217.jpg
     url: /files/original/14fb2a1703445e14fb2a17035217.jpg
+    alt:
+      en: "A group of eleven family members pose outdoors in front of a white house, including two young children in front; handwritten names are inscribed below the photo."
 geo:
 id: 15127
 item_type: Still Image

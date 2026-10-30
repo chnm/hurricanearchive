@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TameraConey_07_1ab9f1b523.jpg
     thumb: /files/thumbnails/14fb2a17a2cbc114fb2a17a2cfa6.jpg
     url: /files/original/14fb2a17a2cbc114fb2a17a2cfa6.jpg
+    alt:
+      en: "Two young girls wearing name tags pose with two smiling young women against floral wallpaper, while a man sits on a couch in the background amid scattered white cloth items."
 geo:
 id: 14802
 item_type: Still Image

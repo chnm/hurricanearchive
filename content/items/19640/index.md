@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 027cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e9ab7a314fb2a0e9abb8a.jpg
     url: /files/original/14fb2a0e9ab7a314fb2a0e9abb8a.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand near easels and whiteboards indoors, with a cardboard sign reading \"Task Force Belle Chase RSOI Site Operation 'Gumbo'\" displayed on a stool between them."
 geo:
 id: 19640
 item_type: Still Image

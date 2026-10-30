@@ -21,6 +21,8 @@ files:
     original_filename: 20051001-A-2421S-009AlabamaNG.jpg
     thumb: /files/thumbnails/14fb29f151563914fb29f1515a1e.jpg
     url: /files/original/14fb29f151563914fb29f1515a1e.jpg
+    alt:
+      en: "A figure in a long t-shirt and tall boots stands silhouetted in a doorway, looking out, while the interior room shows warped wooden floors, scattered debris, and water-stained walls."
 geo:
 id: 23150
 item_type: Still Image

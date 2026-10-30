@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0433.JPG
     thumb: /files/thumbnails/14fb2a53f6ea1814fb2a53f6ee0c.jpg
     url: /files/original/14fb2a53f6ea1814fb2a53f6ee0c.jpg
+    alt:
+      en: "A yellow tape measure marks the thickness of a broken concrete slab, roughly 7 inches thick, amid debris including carpet scraps, rope, and rubble."
 geo:
 id: 5088
 item_type: Still Image

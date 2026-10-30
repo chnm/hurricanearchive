@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7648.JPG
     thumb: /files/thumbnails/14fb29cc8e7d7e14fb29cc8e815b.jpg
     url: /files/original/14fb29cc8e7d7e14fb29cc8e815b.jpg
+    alt:
+      en: "A gravel driveway with a parked minivan leads toward a wooded area littered with downed trees and branches, with a wooden sign reading \"Woods Hole Inn\" standing at the entrance on the right."
 geo:
 id: 30767
 item_type: Still Image

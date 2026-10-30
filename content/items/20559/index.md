@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034-20.JPG
     thumb: /files/thumbnails/14fb2a062b2ed214fb2a062b38c8.jpg
     url: /files/original/14fb2a062b2ed214fb2a062b38c8.jpg
+    alt:
+      en: "Three workers in gray \"Danny's Cajun Catering, White Castle, La.\" T-shirts stand behind a food service counter with trays of rice and a browned dish, photographed through glass with reflections."
 geo:
 id: 20559
 item_type: Still Image

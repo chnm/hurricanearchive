@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0194.JPG
     thumb: /files/thumbnails/14fb2a00092afb14fb2a00092ee4.jpg
     url: /files/original/14fb2a00092afb14fb2a00092ee4.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with homes reduced to splintered debris, vehicles submerged in standing floodwater, and damaged trees scattered amid the wreckage."
 geo:
 id: 21195
 item_type: Still Image

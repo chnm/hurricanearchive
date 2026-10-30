@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0138.JPG
     thumb: /files/thumbnails/14fb2a5545ff3b14fb2a55460454.jpg
     url: /files/original/14fb2a5545ff3b14fb2a55460454.jpg
+    alt:
+      en: "A large fallen tree trunk crushes a damaged roof, with torn gray shingles, exposed wooden beams, and a concrete block structure visible beneath the debris."
 geo:
 id: 4823
 item_type: Still Image

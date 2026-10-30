@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0111engineers.JPG
     thumb: /files/thumbnails/14fb2a102a82a314fb2a102a86d6.jpg
     url: /files/original/14fb2a102a82a314fb2a102a86d6.jpg
+    alt:
+      en: "Damaged concrete bridge structure with exposed rebar and a broken edge, marked with an orange traffic cone, flagging tape, and survey stakes as workers inspect the span in the background."
 geo:
 id: 19431
 item_type: Still Image

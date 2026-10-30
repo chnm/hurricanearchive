@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.014.JPG
     thumb: /files/thumbnails/14fb29dd2aad3a14fb29dd2abc03.jpg
     url: /files/original/14fb29dd2aad3a14fb29dd2abc03.jpg
+    alt:
+      en: "A fallen light pole with an attached \"Bus Stop\" sign lies on a grassy strip near a street corner, with a \"Speed Limit 35\" sign and a \"Julian Doerr City Council\" yard sign visible nearby."
 geo:
 id: 25614
 item_type: Still Image

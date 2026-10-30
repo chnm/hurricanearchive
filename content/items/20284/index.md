@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0115-9-18.JPG
     thumb: /files/thumbnails/14fb2a0a12d55414fb2a0a136aed.jpg
     url: /files/original/14fb2a0a12d55414fb2a0a136aed.jpg
+    alt:
+      en: "Debris-strewn roadside with scattered wreckage, a damaged concrete structure with jagged edges, dry grass, and trees under an overcast sky, depicting storm aftermath devastation."
 geo:
 id: 20284
 item_type: Still Image

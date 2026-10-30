@@ -21,6 +21,8 @@ files:
     original_filename: PICT0610Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f47e417814fb29f47e455c.jpg
     url: /files/original/14fb29f47e417814fb29f47e455c.jpg
+    alt:
+      en: "Two men in camouflage pants and caps stand on a grassy levee near a brick building with a columned porch, wrapped in razor wire; date stamp reads 09.15.2005."
 geo:
 id: 22712
 item_type: Still Image

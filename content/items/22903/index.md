@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2226media.JPG
     thumb: /files/thumbnails/14fb29f2cecf4314fb29f2ced889.jpg
     url: /files/original/14fb29f2cecf4314fb29f2ced889.jpg
+    alt:
+      en: "A cameraman films a scene of storm-damaged trees and debris while U.S. Army soldiers and a man in a white hard hat labeled \"PAULK\" stand nearby, with a man in a pink shirt holding a microphone."
 geo:
 id: 22903
 item_type: Still Image

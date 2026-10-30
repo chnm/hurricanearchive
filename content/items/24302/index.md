@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-22-21A.jpg
     thumb: /files/thumbnails/14fb29e8e6303514fb29e8e633e9.jpg
     url: /files/original/14fb29e8e6303514fb29e8e633e9.jpg
+    alt:
+      en: "A deeply flooded city street with a submerged car, street signs reading \"ONE WAY,\" and a building marked \"SUPERDOME Parking Office,\" surrounded by trees and skyscrapers silhouetted against the sky."
 geo:
 id: 24302
 item_type: Still Image

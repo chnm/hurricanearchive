@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29f027c8d014fb29f027ccc0.jpg
     url: /files/original/14fb29f027c8d014fb29f027ccc0.jpg
+    alt:
+      en: "Livestock trailer with Louisiana plate \"E892401\" follows a pickup truck down a flooded road past a house, with standing water visible in surrounding yards and fields."
 geo:
 id: 23276
 item_type: Still Image

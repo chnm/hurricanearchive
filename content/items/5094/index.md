@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0439.JPG
     thumb: /files/thumbnails/14fb2a53edeba914fb2a53edef8f.jpg
     url: /files/original/14fb2a53edeba914fb2a53edef8f.jpg
+    alt:
+      en: "Concrete foundation slabs remain where homes once stood along a coastal roadway, with scattered debris, a line of distant trees, and the ocean visible in the background under a clear sky."
 geo:
 id: 5094
 item_type: Still Image

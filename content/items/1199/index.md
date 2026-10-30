@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28660.jpg
     thumb: /files/thumbnails/14fb2a6a707b3114fb2a6a707f14.jpg
     url: /files/original/14fb2a6a707b3114fb2a6a707f14.jpg
+    alt:
+      en: "A smiling man embraces a tan dog standing on its hind legs in an animal rescue facility, with crates, a fan, and supplies visible nearby."
 geo:
   address: ''
   lat: 0.0

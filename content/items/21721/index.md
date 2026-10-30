@@ -21,6 +21,8 @@ files:
     original_filename: P1010027.JPG
     thumb: /files/thumbnails/14fb29fc300e7c14fb29fc301261.jpg
     url: /files/original/14fb29fc300e7c14fb29fc301261.jpg
+    alt:
+      en: "Interior of a military aircraft's cargo area, with a man in camouflage fatigues bearing a U.S. flag patch standing near the doorway, surrounded by overhead equipment, red straps, and cargo netting."
 geo:
 id: 21721
 item_type: Still Image

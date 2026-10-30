@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1887superdome.JPG
     thumb: /files/thumbnails/14fb29e105c20e14fb29e105c4d4.jpg
     url: /files/original/14fb29e105c20e14fb29e105c4d4.jpg
+    alt:
+      en: "Aerial view of the Superdome's damaged roof and exterior, with a large crowd gathered outside near buses and military vehicles, while flooded streets with submerged cars surround the complex."
 geo:
 id: 25203
 item_type: Still Image

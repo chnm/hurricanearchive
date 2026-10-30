@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28206.jpg
     thumb: /files/thumbnails/14fb2a684a9daa14fb2a684aa184.jpg
     url: /files/original/14fb2a684a9daa14fb2a684aa184.jpg
+    alt:
+      en: "A weathered American flag hangs on a white lattice fence in front of a cinder block foundation, with \"116\" marked on a sign nearby and debris-strewn woods in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0178-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0093646814fb2a00936a81.jpg
     url: /files/original/14fb2a0093646814fb2a00936a81.jpg
+    alt:
+      en: "A large rodent, likely a nutria, with dark brown fur and a long tail lies on patchy grass and mud."
 geo:
 id: 21108
 item_type: Still Image

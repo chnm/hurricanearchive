@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27975.jpg
     thumb: /files/thumbnails/14fb2a6b49e34e14fb2a6b49e72a.jpg
     url: /files/original/14fb2a6b49e34e14fb2a6b49e72a.jpg
+    alt:
+      en: "Front porch with tiled steps and a fluted column, showing a distinct dirty high-water line staining the lower walls and column base from flooding."
 geo:
   address: ''
   lat: 0.0

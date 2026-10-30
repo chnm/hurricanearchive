@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 037.jpg
     thumb: /files/thumbnails/14fb2a226b82a814fb2a226b868e.jpg
     url: /files/original/14fb2a226b82a814fb2a226b868e.jpg
+    alt:
+      en: "A large oak tree with debris, clothing, and pieces of lattice fencing caught in its branches, surrounded by storm-damaged trees, downed power lines, and scattered wreckage."
 geo:
 id: 11989
 item_type: Still Image

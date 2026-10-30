@@ -21,6 +21,8 @@ files:
     original_filename: NewOrleans6.jpgsatellite
     thumb: /files/thumbnails/14fb29fb3bc95614fb29fb3ccf10.jpg
     url: /files/original/14fb29fb3bc95614fb29fb3ccf10.jpgsatellite
+    alt:
+      en: "Side-by-side satellite images of a New Orleans airport runway and surrounding neighborhood, dated August 28, 2002 and September 2, 2005, showing the same area before and after Hurricane Katrina."
 geo:
 id: 21889
 item_type: Still Image

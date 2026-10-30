@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28335.jpg
     thumb: /files/thumbnails/14fb2a6906e15c14fb2a6906ef9d.jpg
     url: /files/original/14fb2a6906e15c14fb2a6906ef9d.jpg
+    alt:
+      en: "A toppled brick chimney lies on sandy ground amid storm debris, with a collapsed wooden boardwalk and damaged building visible in the background."
 geo:
   address: ''
   lat: 0.0

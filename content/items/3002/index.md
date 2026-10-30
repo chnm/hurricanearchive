@@ -21,6 +21,8 @@ files:
     original_filename: 100_0251.JPG
     thumb: /files/thumbnails/14fb2a5f13607114fb2a5f136994.jpg
     url: /files/original/14fb2a5f13607114fb2a5f136994.jpg
+    alt:
+      en: "Interior of a ship or submarine compartment with a metal ladder, oval hatchway, pipes, valves, electrical boxes, and a fire extinguisher mounted on the bulkhead."
 geo:
 id: 3002
 item_type: Still Image

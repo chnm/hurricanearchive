@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054medics.JPG
     thumb: /files/thumbnails/14fb29e5ceab5a14fb29e5ceaf3e.jpg
     url: /files/original/14fb29e5ceab5a14fb29e5ceaf3e.jpg
+    alt:
+      en: "Soldier in woodland camouflage uniform with American flag patch and \"Earhead\" unit insignia holds packaged syringes labeled \"Monoject Magellan,\" standing near a tiled wall."
 geo:
 id: 24653
 item_type: Still Image

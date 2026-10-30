@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003alero.JPG
     thumb: /files/thumbnails/14fb2a156d964214fb2a156d999d.jpg
     url: /files/original/14fb2a156d964214fb2a156d999d.jpg
+    alt:
+      en: "Aerial view of a military installation with a large arena-style building, rows of parked military vehicles and tents, surrounded by residential neighborhoods and forested land."
 geo:
 id: 18714
 item_type: Still Image

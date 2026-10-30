@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7121_c458988bd2.JPG
     thumb: /files/thumbnails/14fb29d331012214fb29d3310508.jpg
     url: /files/original/14fb29d331012214fb29d3310508.jpg
+    alt:
+      en: "Five children sit together in a grassy garden bed surrounded by tall trees and flowering shrubs, with a lawn and gravel path visible nearby."
 geo:
   address: ''
   lat: 29.84064

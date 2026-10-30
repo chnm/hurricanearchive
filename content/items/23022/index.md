@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032OEP.JPG
     thumb: /files/thumbnails/14fb29f2059fda14fb29f205a76a.jpg
     url: /files/original/14fb29f2059fda14fb29f205a76a.jpg
+    alt:
+      en: "Two people stand under a covered walkway outside a brick building with signage reading \"Emergency Preparedness\" and \"Department of Public Safety & Corrections,\" surrounded by shrubs and greenery."
 geo:
 id: 23022
 item_type: Still Image

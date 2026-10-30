@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0134-21.JPG
     thumb: /files/thumbnails/14fb2a02ae26b414fb2a02ae2a99.jpg
     url: /files/original/14fb2a02ae26b414fb2a02ae2a99.jpg
+    alt:
+      en: "Dirt lot with mounds of soil, a wooden utility pole, and a street sign reading \"United Methodist Church Parker 5 Blocks,\" surrounded by trees with a house visible in the background."
 geo:
 id: 20859
 item_type: Still Image

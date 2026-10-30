@@ -21,6 +21,8 @@ files:
     original_filename: P1010157empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed9f18d314fb29ed9f1cb9.jpg
     url: /files/original/14fb29ed9f18d314fb29ed9f1cb9.jpg
+    alt:
+      en: "A white fishing boat sits grounded amid storm debris, stripped trees, and a fallen utility pole in muddy floodwater, with a small yellow name marking visible on its hull."
 geo:
 id: 23716
 item_type: Still Image

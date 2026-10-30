@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28551.jpg
     thumb: /files/thumbnails/14fb2a674d060f14fb2a674d09ed.jpg
     url: /files/original/14fb2a674d060f14fb2a674d09ed.jpg
+    alt:
+      en: "A large flatbed truck with a hydraulic loading arm labeled \"PRENTICE\" and \"384\" is parked on a street, with a raised highway overpass and buildings visible in the background."
 geo:
   address: ''
   lat: 0.0

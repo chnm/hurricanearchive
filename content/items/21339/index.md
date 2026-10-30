@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0231-9-25.JPG
     thumb: /files/thumbnails/14fb29ff50346214fb29ff50383f.jpg
     url: /files/original/14fb29ff50346214fb29ff50383f.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with scattered mobile homes and outbuildings, surrounded by muddy floodwater, debris, and trees, with a school bus and farmland visible nearby."
 geo:
 id: 21339
 item_type: Still Image

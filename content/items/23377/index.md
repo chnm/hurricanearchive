@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0076cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efc2311d14fb29efc234ce.jpg
     url: /files/original/14fb29efc2311d14fb29efc234ce.jpg
+    alt:
+      en: "Aerial view of extensive flooding across flat coastal terrain, with scattered trees, marshland patterns, and a few isolated structures surrounded by standing water under a hazy gray sky."
 geo:
 id: 23377
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0109.JPG
     thumb: /files/thumbnails/14fb2a0a1c056f14fb2a0a1c0955.jpg
     url: /files/original/14fb2a0a1c056f14fb2a0a1c0955.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood, with houses collapsed or stripped to foundations, debris scattered across lots and streets, and scattered trees amid widespread storm damage."
 geo:
 id: 20279
 item_type: Still Image

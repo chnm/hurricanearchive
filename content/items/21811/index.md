@@ -21,6 +21,8 @@ files:
     original_filename: katrina 081.jpg
     thumb: /files/thumbnails/14fb29fb82ff1114fb29fb8302ec.jpg
     url: /files/original/14fb29fb82ff1114fb29fb8302ec.jpg
+    alt:
+      en: "Interior of a large retail store (Walmart-style) with debris, clothing, and boxes scattered across the floor; a man in military camouflage and another in a vest walk through the aisle near signs reading \"Back to School Savings\" and \"Juniors'.\""
 geo:
 id: 21811
 item_type: Still Image

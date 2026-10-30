@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7652.JPG
     thumb: /files/thumbnails/14fb29cc8b2a1b14fb29cc8b2df8.jpg
     url: /files/original/14fb29cc8b2a1b14fb29cc8b2df8.jpg
+    alt:
+      en: "A gravel driveway lined with storm-damaged trees and a large debris pile leads to a wooden sign reading \"Woods Hole Inn,\" with a tan minivan parked nearby."
 geo:
 id: 30771
 item_type: Still Image

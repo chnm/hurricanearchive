@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a150bd2d614fb2a150bd6bc.jpg
     url: /files/original/14fb2a150bd2d614fb2a150bd6bc.jpg
+    alt:
+      en: "Aerial view of a flattened neighborhood with scattered debris, foundations stripped of houses, damaged trees, and standing floodwater pools extending toward a hazy horizon."
 geo:
 id: 18820
 item_type: Still Image

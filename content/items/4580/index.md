@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0006.JPG
     thumb: /files/thumbnails/14fb2a56f2e4ba14fb2a56f2e8a0.jpg
     url: /files/original/14fb2a56f2e4ba14fb2a56f2e8a0.jpg
+    alt:
+      en: "Flood-damaged debris field with scattered lumber and standing water, a tree trunk marked with green \"60\" in foreground, excavators and a building visible in the background."
 geo:
 id: 4580
 item_type: Still Image

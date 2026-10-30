@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 014.jpg
     thumb: /files/thumbnails/14fb2a2286456c14fb2a22864952.jpg
     url: /files/original/14fb2a2286456c14fb2a22864952.jpg
+    alt:
+      en: "Large military-style tents marked \"US\" set up as a medical facility, with signs reading \"Emergency,\" \"Admitting,\" \"Outpatient Entrance,\" \"Main Entrance,\" and \"Visitor Parking.\""
 geo:
 id: 11967
 item_type: Still Image

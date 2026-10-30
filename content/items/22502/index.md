@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1343Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5cccf5214fb29f5ccd338.jpg
     url: /files/original/14fb29f5cccf5214fb29f5ccd338.jpg
+    alt:
+      en: "Floodwater surrounds the trunk and branches of a large tree in the foreground, with a submerged structure featuring a green roof visible in the background."
 geo:
 id: 22502
 item_type: Still Image

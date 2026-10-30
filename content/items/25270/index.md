@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1997superdome.JPG
     thumb: /files/thumbnails/14fb29dfad8f5514fb29dfadd133.jpg
     url: /files/original/14fb29dfad8f5514fb29dfadd133.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms assist a civilian carrying bags up the rear ramp of a large helicopter on a wet tarmac, with a crowd visible in the background."
 geo:
 id: 25270
 item_type: Still Image

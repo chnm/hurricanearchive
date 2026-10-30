@@ -21,6 +21,8 @@ files:
     original_filename: S4300168stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eceadff114fb29eceae3ce.jpg
     url: /files/original/14fb29eceadff114fb29eceae3ce.jpg
+    alt:
+      en: "A minivan rests tilted at a steep angle against a wooden fence and the side of a house, its front end down and rear lifted, amid storm debris."
 geo:
 id: 23829
 item_type: Still Image

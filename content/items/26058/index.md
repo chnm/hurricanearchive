@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6989_47fec62ce1.jpg
     thumb: /files/thumbnails/14fb29db76dd2814fb29db76e0ec.jpg
     url: /files/original/14fb29db76dd2814fb29db76e0ec.jpg
+    alt:
+      en: "Black-and-white photo of a large crowd dressed in early 20th-century attire gathered on the steps and sidewalk outside a brick Roman Catholic church, with trees and streetcar tracks in the foreground."
 geo:
   address: ''
   lat: 30.06909

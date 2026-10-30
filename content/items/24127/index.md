@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea5daab914fb29ea5daf08.jpg
     url: /files/original/14fb29ea5daab914fb29ea5daf08.jpg
+    alt:
+      en: "Military bulldozer clears debris from a flooded, mud-covered street lined with damaged houses; an uprooted tree and bent \"Benjamin St\" sign sit in the foreground."
 geo:
 id: 24127
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300101alero.JPG
     thumb: /files/thumbnails/14fb2a15528f4b14fb2a15529331.jpg
     url: /files/original/14fb2a15528f4b14fb2a15529331.jpg
+    alt:
+      en: "Two individuals in camouflage military uniforms unpack white containers from a cardboard box, with another open box and a boot visible in the background."
 geo:
 id: 18735
 item_type: Still Image

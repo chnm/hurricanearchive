@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1766superdome.JPG
     thumb: /files/thumbnails/14fb29e1cd092214fb29e1cd0d05.jpg
     url: /files/original/14fb29e1cd092214fb29e1cd0d05.jpg
+    alt:
+      en: "A group of men and a woman in conversation outdoors; a soldier in camouflage faces a woman wearing a FEMA/Department of Homeland Security polo shirt, with others looking on nearby."
 geo:
 id: 25156
 item_type: Still Image

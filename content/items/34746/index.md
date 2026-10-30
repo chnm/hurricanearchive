@@ -20,6 +20,8 @@ files:
     original_filename: 2420883485_3aa145df23.
     thumb: /files/thumbnails/14fb29c8ea810614fb29c8ea84a8.jpg
     url: /files/original/14fb29c8ea810614fb29c8ea84a8.jpg
+    alt:
+      en: "Collapsed wooden structure with corrugated metal sheeting, tangled tree branches, and a bicycle wheel amid debris, with a house and trees visible in the background."
 geo:
 id: 34746
 item_type: Still Image

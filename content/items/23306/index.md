@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29f002ba1f14fb29f002bddf.jpg
     url: /files/original/14fb29f002ba1f14fb29f002bddf.jpg
+    alt:
+      en: "Soldier in camouflage uniform wearing a flight helmet with attached goggles and headset, carrying a backpack with patches, standing outdoors near a paved area with bare trees in the background."
 geo:
 id: 23306
 item_type: Still Image

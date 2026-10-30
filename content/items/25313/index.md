@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2040superdome.JPG
     thumb: /files/thumbnails/14fb29df2b623314fb29df2b6619.jpg
     url: /files/original/14fb29df2b623314fb29df2b6619.jpg
+    alt:
+      en: "Close-up, out-of-focus view of a young man in camouflage jacket with a hand resting on his shoulder, another person visible in the foreground, with a roadway and curb blurred in the background."
 geo:
 id: 25313
 item_type: Still Image

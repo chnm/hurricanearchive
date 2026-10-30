@@ -21,6 +21,8 @@ files:
     original_filename: P1010105empireS&R.JPG
     thumb: /files/thumbnails/14fb29edfe0e7514fb29edfe125a.jpg
     url: /files/original/14fb29edfe0e7514fb29edfe125a.jpg
+    alt:
+      en: "A John Deere 330LC excavator lifts a large grid of white concrete articulated block mats on a slope, with workers nearby guiding the installation over black geotextile fabric."
 geo:
 id: 23664
 item_type: Still Image

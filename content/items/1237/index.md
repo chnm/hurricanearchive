@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27854.jpg
     thumb: /files/thumbnails/14fb2a6a29615014fb2a6a296524.jpg
     url: /files/original/14fb2a6a29615014fb2a6a296524.jpg
+    alt:
+      en: "A street sign reading \"ROUEN ST.\" stands above a stop sign, with a handmade plywood sign propped in the grass below reading \"HAVE WE Been forgotten.\""
 geo:
   address: ''
   lat: 0.0

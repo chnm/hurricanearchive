@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035-20.JPG
     thumb: /files/thumbnails/14fb2a061b821b14fb2a061b85f8.jpg
     url: /files/original/14fb2a061b821b14fb2a061b85f8.jpg
+    alt:
+      en: "A woman wearing a red cap and a gray T-shirt printed with \"Danny's Cajun Catering, Bringing the Best of Louisiana to You, White Castle, La., 225-545-3237,\" working with gloved hands at a table under a tent."
 geo:
 id: 20565
 item_type: Still Image

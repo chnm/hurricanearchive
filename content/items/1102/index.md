@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28751.jpg
     thumb: /files/thumbnails/14fb2a6aff353b14fb2a6aff40fc.jpg
     url: /files/original/14fb2a6aff353b14fb2a6aff40fc.jpg
+    alt:
+      en: "Two women smile together at an animal rescue facility, one wearing a bandana and glasses, the other in a cap and T-shirt reading \"Helping Humans One Animal at a Time.\""
 geo:
   address: ''
   lat: 0.0

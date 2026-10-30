@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0182-21.JPG
     thumb: /files/thumbnails/14fb2a006a0ea814fb2a006a128f.jpg
     url: /files/original/14fb2a006a0ea814fb2a006a128f.jpg
+    alt:
+      en: "A woman holding a water bottle and a \"Reporter's Notebook\" smiles while talking with a uniformed military service member wearing glasses and a camouflage cap, with a military vehicle in the background."
 geo:
 id: 21130
 item_type: Still Image

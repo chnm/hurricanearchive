@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (14).JPG
     thumb: /files/thumbnails/14fb2a5d98927014fb2a5d989646.jpg
     url: /files/original/14fb2a5d98927014fb2a5d989646.jpg
+    alt:
+      en: "Damaged two-story white house with bare, broken trees and scattered debris in the yard; a pickup truck is parked nearby under an overcast sky."
 geo:
 id: 3161
 item_type: Still Image

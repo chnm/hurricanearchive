@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0176-21.JPG
     thumb: /files/thumbnails/14fb2a009deeba14fb2a009df68b.jpg
     url: /files/original/14fb2a009deeba14fb2a009df68b.jpg
+    alt:
+      en: "Debris-lined residential street with piles of discarded materials along curbs, a large truck parked in the distance, utility poles and lines overhead, and houses partially obscured by trees under a hazy sky."
 geo:
 id: 21097
 item_type: Still Image

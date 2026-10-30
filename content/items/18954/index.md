@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1904rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a140877c314fb2a14087bb2.jpg
     url: /files/original/14fb2a140877c314fb2a14087bb2.jpg
+    alt:
+      en: "A military Black Hawk helicopter sits on a tarmac with two crew members in flight suits and helmets seated in the open side doorway, trees and another helicopter visible in the background."
 geo:
 id: 18954
 item_type: Still Image

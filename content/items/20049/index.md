@@ -21,6 +21,8 @@ files:
     original_filename: Picture 146cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b908a6414fb2a0b908e51.jpg
     url: /files/original/14fb2a0b908a6414fb2a0b908e51.jpg
+    alt:
+      en: "A white boat with a cabin lies tilted on its side behind a concrete wall, its windows and antenna visible against a clear blue sky."
 geo:
 id: 20049
 item_type: Still Image

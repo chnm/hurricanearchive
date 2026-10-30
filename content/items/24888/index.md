@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0963superdome.JPG
     thumb: /files/thumbnails/14fb29e40c8b5814fb29e40c8f3b.jpg
     url: /files/original/14fb29e40c8b5814fb29e40c8f3b.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues inside a covered truck bed, handling folded metal cot frames stacked in a large pile alongside additional cots and boxed supplies."
 geo:
 id: 24888
 item_type: Still Image

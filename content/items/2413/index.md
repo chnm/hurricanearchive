@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C3G_e0de2ae39b.jpg
     thumb: /files/thumbnails/14fb2a66993cfe14fb2a669940e1.jpg
     url: /files/original/14fb2a66993cfe14fb2a669940e1.jpg
+    alt:
+      en: "Close-up of an oil skimmer's two large rotating drums coated in oil, mounted on a metal frame floating amid oil-slicked marsh water, with a hose and \"Elastec American Marine\" label visible."
 geo:
 id: 2413
 item_type: Still Image

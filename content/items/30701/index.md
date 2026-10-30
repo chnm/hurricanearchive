@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7398.JPG
     thumb: /files/thumbnails/14fb29cccc091614fb29cccc0cfc.jpg
     url: /files/original/14fb29cccc091614fb29cccc0cfc.jpg
+    alt:
+      en: "A large multi-trunked tree with lichen-covered bark shows several broken and cleanly snapped branches, surrounded by dense green undergrowth and fallen limbs on the ground."
 geo:
 id: 30701
 item_type: Still Image

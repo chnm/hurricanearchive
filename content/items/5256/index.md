@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0701.JPG
     thumb: /files/thumbnails/14fb2a532ac7ea14fb2a532acbd0.jpg
     url: /files/original/14fb2a532ac7ea14fb2a532acbd0.jpg
+    alt:
+      en: "A manufactured home's front porch with wooden support posts and railing, a sloped white eave, and a small fish-shaped wind chime hanging from the ceiling; bare trees and a cloudy sky are visible in the background."
 geo:
 id: 5256
 item_type: Still Image

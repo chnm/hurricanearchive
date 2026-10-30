@@ -21,6 +21,8 @@ files:
     original_filename: Jacksonbarrackswater.JPG
     thumb: /files/thumbnails/14fb2a1b84b83914fb2a1b84bbfc.jpg
     url: /files/original/14fb2a1b84b83914fb2a1b84bbfc.jpg
+    alt:
+      en: "A uniformed man stands pointing upward beside a jet ski parked near the entrance of the \"City of New Orleans Municipal Training Academy, Police Education Division\" building, dated 09.26.2005."
 geo:
   address: ''
   lat: 0.0

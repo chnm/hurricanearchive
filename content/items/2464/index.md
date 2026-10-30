@@ -24,6 +24,8 @@ files:
     original_filename: 20051002_MG_8049.jpg
     thumb: /files/thumbnails/14fb2a66487ad314fb2a66487eb9.jpg
     url: /files/original/14fb2a66487ad314fb2a66487eb9.jpg
+    alt:
+      en: "A severely damaged, collapsed single-story house with its foundation sheared off and front porch tilted downward, boarded windows, and orange spray-painted search markings, surrounded by debris and parked cars."
 geo:
 id: 2464
 item_type: Still Image

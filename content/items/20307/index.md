@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0173.JPG
     thumb: /files/thumbnails/14fb2a099efbb514fb2a09a051c2.jpg
     url: /files/original/14fb2a099efbb514fb2a09a051c2.jpg
+    alt:
+      en: "Aerial view of a hazy coastal town with dense tree cover and scattered buildings, overlooking a wide river or bay where a ship and dock structures are visible in the distance."
 geo:
 id: 20307
 item_type: Still Image

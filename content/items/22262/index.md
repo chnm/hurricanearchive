@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1073Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8940f0014fb29f8941dd2.jpg
     url: /files/original/14fb29f8940f0014fb29f8941dd2.jpg
+    alt:
+      en: "Silhouetted figures stand under an overhang watching heavy rain fall over a brick wall topped with barbed wire, with light-colored barracks buildings visible in the misty background."
 geo:
 id: 22262
 item_type: Still Image

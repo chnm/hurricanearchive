@@ -20,6 +20,8 @@ files:
     original_filename: Slidell 2_0346d7ee5f.JPG
     thumb: /files/thumbnails/14fb29d876ef5d14fb29d876ffaa.jpg
     url: /files/original/14fb29d876ef5d14fb29d876ffaa.jpg
+    alt:
+      en: "Vast field of storm debris—splintered wood, lumber, and household wreckage—spreads across the landscape at Pontchartrain and Spartan in Slidell, LA, with a partially collapsed house visible in the distance."
 geo:
   address: Spartan
   lat: 30.80791

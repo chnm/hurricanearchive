@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27997.jpg
     thumb: /files/thumbnails/14fb2a6ce7894814fb2a6ce7905b.jpg
     url: /files/original/14fb2a6ce7894814fb2a6ce7905b.jpg
+    alt:
+      en: "A large uprooted tree with bare, sprawling branches lies toppled beside a small white house, surrounded by scattered dry branches and debris under a clear sky."
 geo:
   address: ''
   lat: 0.0

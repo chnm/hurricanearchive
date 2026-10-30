@@ -20,6 +20,8 @@ files:
     original_filename: bus_3167727f0c.jpg
     thumb: /files/thumbnails/14fb29cbf44d3614fb29cbf45124.jpg
     url: /files/original/14fb29cbf44d3614fb29cbf45124.jpg
+    alt:
+      en: "A crumpled yellow school bus with its stop sign extended sits crushed against a massive rusted barge hull, surrounded by muddy debris and standing water, with a \"No Dumping, $500 Fine\" sign nearby."
 geo:
   address: ''
   lat: 29.76438

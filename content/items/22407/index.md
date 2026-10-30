@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1239Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6af07ce14fb29f6af0f0c.jpg
     url: /files/original/14fb29f6af07ce14fb29f6af0f0c.jpg
+    alt:
+      en: "Military personnel in camouflage and tan uniforms gather around a conference table covered with papers and notebooks, listening to a standing officer during a briefing in an office marked \"Conference Room\" and \"Authorized Personnel Only.\""
 geo:
 id: 22407
 item_type: Still Image

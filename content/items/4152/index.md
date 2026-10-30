@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0038.JPG
     thumb: /files/thumbnails/14fb2a5760c38314fb2a5760c768.jpg
     url: /files/original/14fb2a5760c38314fb2a5760c768.jpg
+    alt:
+      en: "Two tugboats, \"Ms Whitney\" (red hull) and \"Trinity River\" (white and gray hull), sit docked side by side behind tall dry grass, with masts and antennas rising against a clear sky."
 geo:
 id: 4152
 item_type: Still Image

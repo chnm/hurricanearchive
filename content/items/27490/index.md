@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6532_2abc3f8400.jpg
     thumb: /files/thumbnails/14fb29d3fc165714fb29d3fc22ca.jpg
     url: /files/original/14fb29d3fc165714fb29d3fc22ca.jpg
+    alt:
+      en: "A young woman in a maroon and white cheerleading uniform, reading \"UBS,\" sits on grass at night, posing with pom-poms in the foreground."
 geo:
   address: ''
   lat: 29.87876

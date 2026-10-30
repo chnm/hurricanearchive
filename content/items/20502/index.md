@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024H.JPG
     thumb: /files/thumbnails/14fb2a069b49ca14fb2a069b4da7.jpg
     url: /files/original/14fb2a069b49ca14fb2a069b4da7.jpg
+    alt:
+      en: "A woman in a white and orange tank top plays air hockey, pressing the puck on the table, while a man in a camouflage military uniform looks on under string lights."
 geo:
 id: 20502
 item_type: Still Image

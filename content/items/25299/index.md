@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2026superdome.JPG
     thumb: /files/thumbnails/14fb29df524b2d14fb29df524f13.jpg
     url: /files/original/14fb29df524b2d14fb29df524f13.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms carry an injured person on a stretcher near a large helicopter, with a city overpass and buildings visible in the background."
 geo:
 id: 25299
 item_type: Still Image

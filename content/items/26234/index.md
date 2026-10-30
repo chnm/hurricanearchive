@@ -24,6 +24,8 @@ files:
     original_filename: AB Duck hunting_e44795b815.jpg
     thumb: /files/thumbnails/14fb29d98f19d814fb29d98f1dc1.jpg
     url: /files/original/14fb29d98f19d814fb29d98f1dc1.jpg
+    alt:
+      en: "Sepia-toned photo of a person in a wide-brimmed hat wading beside a small boat on open water, near a wooden pier structure and marsh grasses, with blue ink handwriting across the water's surface."
 geo:
   address: ''
   lat: 29.87876

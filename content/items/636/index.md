@@ -26,6 +26,8 @@ files:
     original_filename: TVE_newscrew_covering_Katrina_9a1de1cef6.png
     thumb: /files/thumbnails/14fb2a6f4e99fb14fb2a6f4e9dd1.jpg
     url: /files/original/14fb2a6f4e99fb14fb2a6f4e9dd1.jpg
+    alt:
+      en: "Four adults stand together at night in front of a silver van, smiling for the camera; the man on the left wears a white \"Cheers\" T-shirt and the others are in casual shirts."
 geo:
   address: ''
   lat: 30.342352

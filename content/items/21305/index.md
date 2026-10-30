@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0223-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff91e4f214fb29ff91e899.jpg
     url: /files/original/14fb29ff91e4f214fb29ff91e899.jpg
+    alt:
+      en: "Aerial view of flooded farmland with submerged fields, trees, and farm buildings, including a house with a white metal roof and a barn with a rusted tin roof surrounded by floodwater."
 geo:
 id: 21305
 item_type: Still Image

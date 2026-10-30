@@ -21,6 +21,8 @@ files:
     original_filename: 100_0224.JPG
     thumb: /files/thumbnails/14fb2a58da9c6c14fb2a58daa046.jpg
     url: /files/original/14fb2a58da9c6c14fb2a58daa046.jpg
+    alt:
+      en: "Storm-damaged building with a collapsed, folded metal roof and torn siding, labeled \"Million Air,\" seen behind a concrete wall under a clear blue sky."
 geo:
 id: 3927
 item_type: Still Image

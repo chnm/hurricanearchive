@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 070cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e68550714fb2a0e6858ee.jpg
     url: /files/original/14fb2a0e68550714fb2a0e6858ee.jpg
+    alt:
+      en: "Empty, debris-strewn parking lot with a boat and furniture scattered near entrance gates reading \"Exit After 7th Race,\" with a two-story building and trees in the background under a partly cloudy sky."
 geo:
 id: 19683
 item_type: Still Image

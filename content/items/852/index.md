@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28471.jpg
     thumb: /files/thumbnails/14fb2a6c9b9b6414fb2a6c9b9f4b.jpg
     url: /files/original/14fb2a6c9b9b6414fb2a6c9b9f4b.jpg
+    alt:
+      en: "An older man rests on a cot with a child wrapped in a blanket, while a woman in an orange shirt sits nearby, amid rows of bedding in a crowded shelter."
 geo:
   address: ''
   lat: 0.0

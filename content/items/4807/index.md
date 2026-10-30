@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0120.JPG
     thumb: /files/thumbnails/14fb2a555c199014fb2a555c1d73.jpg
     url: /files/original/14fb2a555c199014fb2a555c1d73.jpg
+    alt:
+      en: "A severely damaged house with its roof collapsed and torn open, surrounded by broken trees and scattered debris, with pine needles covering the wreckage."
 geo:
 id: 4807
 item_type: Still Image

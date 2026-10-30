@@ -20,6 +20,8 @@ files:
     original_filename: image.jpg
     thumb: /files/thumbnails/f03241e73c4d2ebc351118bf7b7b5d41.jpg
     url: /files/original/f03241e73c4d2ebc351118bf7b7b5d41.jpg
+    alt:
+      en: "Two people navigate a small boat through floodwater in a residential street, with brick houses, hedges, and a chain-link fence partially submerged in the background."
 geo:
   address: 4862 Treves st
   lat: 30.039201

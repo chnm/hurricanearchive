@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a080def6914fb2a080df75c.jpg
     url: /files/original/14fb2a080def6914fb2a080df75c.jpg
+    alt:
+      en: "Blurry photo of a woman with short blonde hair wearing a light blue shirt, seated indoors near a cluttered table with decorative plates on the wall behind her."
 geo:
 id: 20392
 item_type: Still Image

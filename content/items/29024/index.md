@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0545.JPG
     thumb: /files/thumbnails/14fb29d099c77414fb29d099cb57.jpg
     url: /files/original/14fb29d099c77414fb29d099cb57.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with numerous rooftops covered in blue tarps, surrounded by dense tree cover, with a road running through the area and larger buildings visible in the distance."
 geo:
 id: 29024
 item_type: Still Image

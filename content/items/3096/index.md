@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (15).JPG
     thumb: /files/thumbnails/14fb2a5e0d4e2f14fb2a5e0d5215.jpg
     url: /files/original/14fb2a5e0d4e2f14fb2a5e0d5215.jpg
+    alt:
+      en: "Two U.S. Army soldiers stand side by side indoors against a blue tiled wall; the left wears digital camouflage with the name \"Wadyko,\" the right wears woodland camouflage with the name \"Randall.\""
 geo:
 id: 3096
 item_type: Still Image

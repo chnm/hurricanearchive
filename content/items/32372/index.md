@@ -20,6 +20,8 @@ files:
     original_filename: notleaving_42ed04fbe1.jpg
     thumb: /files/thumbnails/14fb29cbf7007d14fb29cbf70462.jpg
     url: /files/original/14fb29cbf7007d14fb29cbf70462.jpg
+    alt:
+      en: "A damaged two-story building and a weathered car and truck spray-painted with rescue messages like \"FOOD DOGS WATER ICE,\" \"NOT LEAVING,\" and tallies of dead animals, from post-Katrina New Orleans."
 geo:
   address: ''
   lat: 29.80252

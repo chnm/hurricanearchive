@@ -26,6 +26,8 @@ files:
     original_filename: ROADCL1_648f05a37e.gif
     thumb: /files/thumbnails/14fb2a6dedca1314fb2a6dedce01.jpg
     url: /files/original/14fb2a6dedca1314fb2a6dedce01.jpg
+    alt:
+      en: "Two \"ROAD CLOSED\" signs with orange and white barricades block a roadway, with a damaged building visible in the background; caption reads \"After Hurricane - 9-3-05 - view from I-10 by Exit 261.\""
 geo:
   address: ''
   lat: 30.211014841607604

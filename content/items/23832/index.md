@@ -21,6 +21,8 @@ files:
     original_filename: S4300171stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece922b214fb29ece92698.jpg
     url: /files/original/14fb29ece922b214fb29ece92698.jpg
+    alt:
+      en: "Two vehicles left tilted at a steep angle against a fence beside a brick house, with mud-caked, cobblestone-like ground and debris scattered in the yard."
 geo:
 id: 23832
 item_type: Still Image

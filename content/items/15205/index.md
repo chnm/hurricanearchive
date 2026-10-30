@@ -20,6 +20,8 @@ files:
     original_filename: 8_93cd319a1e.jpg
     thumb: /files/thumbnails/14fb2a16542b3814fb2a16542f29.jpg
     url: /files/original/14fb2a16542b3814fb2a16542f29.jpg
+    alt:
+      en: "Two women in matching white shirts sit together on a bed with arms intertwined, smiling for the camera; a game of cards is laid out on the blanket beside them."
 geo:
   address: Friscoville Ave.
   lat: 0.0

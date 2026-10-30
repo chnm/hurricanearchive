@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0131cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef38fb1b14fb29ef38fef9.jpg
     url: /files/original/14fb29ef38fb1b14fb29ef38fef9.jpg
+    alt:
+      en: "Aerial view of a sprawling green landscape with a cluster of buildings, tents, and parking lots near a body of water, bordered by trees and open fields under a hazy sky."
 geo:
 id: 23489
 item_type: Still Image

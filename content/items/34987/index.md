@@ -20,6 +20,8 @@ files:
     original_filename: 2298628970_dcdb4c7640.
     thumb: /files/thumbnails/14fb29c7fb506d14fb29c7fb59f7.jpg
     url: /files/original/14fb29c7fb506d14fb29c7fb59f7.jpg
+    alt:
+      en: "Rows of bicycles piled along a chain-link fence outside a tan building, with several people standing near an orange-and-white traffic barrel and another bike in the foreground."
 geo:
 id: 34987
 item_type: Still Image

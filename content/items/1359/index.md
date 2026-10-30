@@ -24,6 +24,8 @@ files:
     original_filename: Katrina1615z0508291kg12_bfd9fff
     thumb: /files/thumbnails/14fb2a6954d70114fb2a6954dae7.jpg
     url: /files/original/14fb2a6954d70114fb2a6954dae7
+    alt:
+      en: "Satellite view of Hurricane Katrina's massive spiral cloud formation approaching the U.S. Gulf Coast, with the storm's eye visible over the Gulf of Mexico near Louisiana and Florida."
 geo:
   address: ''
   lat: 0.0

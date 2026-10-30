@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1980superdome.JPG
     thumb: /files/thumbnails/14fb29e0247f2014fb29e0248174.jpg
     url: /files/original/14fb29e0247f2014fb29e0248174.jpg
+    alt:
+      en: "A twin-rotor military helicopter, likely a CH-47 Chinook, flies against an overcast sky, with its landing gear extended."
 geo:
 id: 25254
 item_type: Still Image

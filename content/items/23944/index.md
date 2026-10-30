@@ -21,6 +21,8 @@ files:
     original_filename: 09180014plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec47942c14fb29ec479812.jpg
     url: /files/original/14fb29ec47942c14fb29ec479812.jpg
+    alt:
+      en: "A damaged blue metal warehouse with peeled-back roofing and exposed red steel framing, surrounded by scattered debris, a chain-link fence, and a mobile home in the background."
 geo:
 id: 23944
 item_type: Still Image

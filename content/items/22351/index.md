@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1167Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f714411c14fb29f7144502.jpg
     url: /files/original/14fb29f714411c14fb29f7144502.jpg
+    alt:
+      en: "A small bird with wet, disheveled feathers perches on the edge of a light-colored surface against a tiled wall."
 geo:
 id: 22351
 item_type: Still Image

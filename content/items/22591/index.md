@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0542Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f525e9c814fb29f525edad.jpg
     url: /files/original/14fb29f525e9c814fb29f525edad.jpg
+    alt:
+      en: "Blurry, overexposed photo of a building corner with a partially visible sign reading \"MAIN EXCHANGE\" beneath an awning, overlooking what appears to be a parking lot or roadway."
 geo:
 id: 22591
 item_type: Still Image

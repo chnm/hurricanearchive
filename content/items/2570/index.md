@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9063.jpg
     thumb: /files/thumbnails/14fb2a651287de14fb2a65128bc2.jpg
     url: /files/original/14fb2a651287de14fb2a65128bc2.jpg
+    alt:
+      en: "An overturned aluminum \"Landau\" boat rests atop piles of white sandbags amid debris, with damaged brick houses and torn siding visible in the background."
 geo:
 id: 2570
 item_type: Still Image

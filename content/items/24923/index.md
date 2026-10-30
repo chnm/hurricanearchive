@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1418superdome.JPG
     thumb: /files/thumbnails/14fb29e3dd4d2014fb29e3dd5104.jpg
     url: /files/original/14fb29e3dd4d2014fb29e3dd5104.jpg
+    alt:
+      en: "Several soldiers in camouflage uniforms stand near a doorway and metal railing, with nametags reading \"Smith\" and \"Bellas\" visible on their uniforms."
 geo:
 id: 24923
 item_type: Still Image

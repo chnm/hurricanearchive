@@ -24,6 +24,8 @@ files:
     original_filename: Lyndel house (9) (2)_ff844d7113.jpg
     thumb: /files/thumbnails/14fb29ca60163814fb29ca601a1d.jpg
     url: /files/original/14fb29ca60163814fb29ca601a1d.jpg
+    alt:
+      en: "Debris-filled bedroom with collapsed ceiling, pink curtains hanging over a window, and a framed picture still mounted on the damaged wall above the wreckage."
 geo:
   address: ''
   lat: 0.0

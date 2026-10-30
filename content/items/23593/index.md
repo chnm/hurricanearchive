@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1593hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee9484a914fb29ee948891.jpg
     url: /files/original/14fb29ee9484a914fb29ee948891.jpg
+    alt:
+      en: "High-rise glass office towers viewed from street level, one severely damaged with shattered windows and debris hanging from upper floors, surrounded by trees and parked cars below."
 geo:
 id: 23593
 item_type: Still Image

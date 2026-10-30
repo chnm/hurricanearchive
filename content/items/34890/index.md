@@ -20,6 +20,8 @@ files:
     original_filename: 2456726253_9b4c6d39eb.
     thumb: /files/thumbnails/14fb29c8b2a8b414fb29c8b2ac98.jpg
     url: /files/original/14fb29c8b2a8b414fb29c8b2ac98.jpg
+    alt:
+      en: "A long concrete drainage channel runs through bare, sandy ground flanked by patches of grass, with power lines, a green building marked \"BP,\" and distant structures and vehicles visible under a clear sky."
 geo:
 id: 34890
 item_type: Still Image

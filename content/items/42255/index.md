@@ -23,6 +23,8 @@ files:
     original_filename: farrar4_05dc2151bb.JPG
     thumb: /files/thumbnails/14fb29c29e6b0014fb29c29e6ee6.jpg
     url: /files/original/14fb29c29e6b0014fb29c29e6ee6.jpg
+    alt:
+      en: "Storm-churned waves roll onto a debris-strewn shoreline, with broken wooden structures and bare branches in the foreground amid overcast gray skies."
 geo:
   address: ''
   lat: 0.0

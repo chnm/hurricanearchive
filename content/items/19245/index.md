@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0129rita.JPG
     thumb: /files/thumbnails/14fb2a11a7c9f914fb2a11a7cdde.jpg
     url: /files/original/14fb2a11a7c9f914fb2a11a7cdde.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms walk across a paved lot with military Humvees and additional personnel visible in the background, near residential buildings."
 geo:
 id: 19245
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049OEP.JPG
     thumb: /files/thumbnails/14fb29f1f33b5b14fb29f1f35fa3.jpg
     url: /files/original/14fb29f1f33b5b14fb29f1f35fa3.jpg
+    alt:
+      en: "A white FBI Houston \"Emergency Response Vehicle\" mobile command bus with satellite dishes and antennas on its roof, parked behind orange traffic cones, with another RV visible in the background."
 geo:
 id: 23039
 item_type: Still Image

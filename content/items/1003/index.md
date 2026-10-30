@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28006.jpg
     thumb: /files/thumbnails/14fb2a6b74722b14fb2a6b74760c.jpg
     url: /files/original/14fb2a6b74722b14fb2a6b74760c.jpg
+    alt:
+      en: "Rusted steel sheet pilings rise above a white concrete wall, with water, distant trees, and spraying fountains visible in the background near the 17th Street Canal breach."
 geo:
   address: ''
   lat: 0.0

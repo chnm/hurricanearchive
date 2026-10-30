@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0628.JPG
     thumb: /files/thumbnails/14fb29d025821014fb29d025862d.jpg
     url: /files/original/14fb29d025821014fb29d025862d.jpg
+    alt:
+      en: "Abandoned red car with damaged front end sits in overgrown yard beside a yellow house with exterior stairs, windshield handwritten with \"ABANDONED PRE-KATRINA PLEASE TOW.\""
 geo:
 id: 29082
 item_type: Still Image

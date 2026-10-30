@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013rita.JPG
     thumb: /files/thumbnails/14fb2a11b79e0914fb2a11b7a1ef.jpg
     url: /files/original/14fb2a11b79e0914fb2a11b7a1ef.jpg
+    alt:
+      en: "Several military personnel in camouflage uniforms with American flag patches stand in an outdoor area, with a man in a black shirt and others in the background near parked cars and a blue staircase."
 geo:
 id: 19234
 item_type: Still Image

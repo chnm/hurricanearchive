@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0979superdome.JPG
     thumb: /files/thumbnails/14fb29e3f6665f14fb29e3f66a37.jpg
     url: /files/original/14fb29e3f6665f14fb29e3f66a37.jpg
+    alt:
+      en: "Several soldiers in camouflage uniforms walk past a line of civilians waiting at a teal-colored building with service windows, one posted notice dated \"Friday, August 12, 2005\" and \"Friday, August 26, 2005.\""
 geo:
 id: 24904
 item_type: Still Image

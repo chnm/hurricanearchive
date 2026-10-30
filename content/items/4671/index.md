@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0622.JPG
     thumb: /files/thumbnails/14fb2a565449b714fb2a56545184.jpg
     url: /files/original/14fb2a565449b714fb2a56545184.jpg
+    alt:
+      en: "A single-story house with a blue tarp covering its damaged roof, with a boat on a trailer and an enclosed cargo trailer parked in the yard beneath large trees."
 geo:
 id: 4671
 item_type: Still Image

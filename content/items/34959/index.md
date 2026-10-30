@@ -20,6 +20,8 @@ files:
     original_filename: 2417116972_2467690cf8.
     thumb: /files/thumbnails/14fb29c82a042214fb29c82a142e.jpg
     url: /files/original/14fb29c82a042214fb29c82a142e.jpg
+    alt:
+      en: "Aerial view of a curved levee under construction along a waterway, with vehicles on the access road, a transmission tower, and wooded wetlands beyond."
 geo:
 id: 34959
 item_type: Still Image

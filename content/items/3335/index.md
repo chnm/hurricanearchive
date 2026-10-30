@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Press conference (2).JPG
     thumb: /files/thumbnails/14fb2a5c5a3e2614fb2a5c5a47b0.jpg
     url: /files/original/14fb2a5c5a3e2614fb2a5c5a47b0.jpg
+    alt:
+      en: "Group of news camera operators and crew members with multiple video cameras on tripods, surrounded by cables, gathered outdoors in front of a modern glass and stone building."
 geo:
 id: 3335
 item_type: Still Image

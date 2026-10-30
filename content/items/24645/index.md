@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040medics.JPG
     thumb: /files/thumbnails/14fb29e5d6003314fb29e5d60418.jpg
     url: /files/original/14fb29e5d6003314fb29e5d60418.jpg
+    alt:
+      en: "A woman in military camouflage uniform administers a vaccine injection into the upper arm of a man wearing a white \"Army National Guard, Est. 1636, 100% American Soldier\" t-shirt."
 geo:
 id: 24645
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: katrina 084.jpg
     thumb: /files/thumbnails/14fb29fb811eab14fb29fb812291.jpg
     url: /files/original/14fb29fb811eab14fb29fb812291.jpg
+    alt:
+      en: "A flooded city street lined with trees stretches between tall high-rise buildings, with vehicles partially submerged in the standing water; timestamp overlay reads \"3 5:26 PM.\""
 geo:
 id: 21814
 item_type: Still Image

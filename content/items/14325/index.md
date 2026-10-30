@@ -21,6 +21,8 @@ files:
     original_filename: aerials38.jpg
     thumb: /files/thumbnails/14fb2a19d27c3f14fb2a19d28025.jpg
     url: /files/original/14fb2a19d27c3f14fb2a19d28025.jpg
+    alt:
+      en: "Aerial view of a dense pine forest in the foreground, a long causeway bridge crossing a wide bay, and a low shoreline with scattered buildings in the distance under a hazy sky."
 geo:
 id: 14325
 item_type: Still Image

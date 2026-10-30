@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28074.jpg
     thumb: /files/thumbnails/14fb2a6c918dc714fb2a6c9191ae.jpg
     url: /files/original/14fb2a6c918dc714fb2a6c9191ae.jpg
+    alt:
+      en: "A bent, twisted \"One Way\" street sign leans sideways along a quiet residential road, with houses, utility poles, and a dirt median visible in the background."
 geo:
   address: ''
   lat: 0.0

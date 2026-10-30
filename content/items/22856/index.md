@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0146mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f30745d614fb29f30749bb.jpg
     url: /files/original/14fb29f30745d614fb29f30749bb.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands beside a portable STOP sign checkpoint on a debris-strewn road, with a man in a white t-shirt and ball cap nearby and pickup trucks passing through."
 geo:
 id: 22856
 item_type: Still Image

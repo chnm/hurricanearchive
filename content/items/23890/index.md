@@ -21,6 +21,8 @@ files:
     original_filename: picture 11stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec99e1fd14fb29ec99e5e2.jpg
     url: /files/original/14fb29ec99e1fd14fb29ec99e5e2.jpg
+    alt:
+      en: "Flood debris and dead, leaning trees surround a muddy yard with a parked sedan, in front of a damaged single-story house under a clear sky."
 geo:
 id: 23890
 item_type: Still Image

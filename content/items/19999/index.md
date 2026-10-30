@@ -21,6 +21,8 @@ files:
     original_filename: Picture 096cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bc3426c14fb2a0bc34652.jpg
     url: /files/original/14fb2a0bc3426c14fb2a0bc34652.jpg
+    alt:
+      en: "View from inside a military vehicle's cab showing the dashboard, a \"Buckle Up\" sticker, and a camcorder on the seat, with another military truck and storm debris visible through the windshield."
 geo:
 id: 19999
 item_type: Still Image

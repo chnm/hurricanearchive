@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6623_b187be199d.JPG
     thumb: /files/thumbnails/14fb29d2c5b2e214fb29d2c5b6c8.jpg
     url: /files/original/14fb29d2c5b2e214fb29d2c5b6c8.jpg
+    alt:
+      en: "Crowded Mardi Gras parade viewing stands with tiered platforms packed with spectators, overlooking a street scene with people gathered below near decorative stonework."
 geo:
   address: ''
   lat: 29.91685

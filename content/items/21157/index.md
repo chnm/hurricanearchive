@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0188-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a004e7d6214fb2a004e8150.jpg
     url: /files/original/14fb2a004e7d6214fb2a004e8150.jpg
+    alt:
+      en: "Two men examine framed photo collages held in someone's hands, standing outdoors near plants and weathered wooden structures, the image oriented sideways."
 geo:
 id: 21157
 item_type: Still Image

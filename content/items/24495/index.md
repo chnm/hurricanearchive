@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0105-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e7404b4d14fb29e7404f26.jpg
     url: /files/original/14fb29e7404b4d14fb29e7404f26.jpg
+    alt:
+      en: "A line of white pickup trucks parked along a dirt roadway beside a body of water, with debris scattered on the ground and bare trees lining the horizon."
 geo:
 id: 24495
 item_type: Still Image

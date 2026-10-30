@@ -21,6 +21,8 @@ files:
     original_filename: 022606NOLA155RWlg_f11b9855c5.jpg
     thumb: /files/thumbnails/14fb29cc28fd3c14fb29cc290120.jpg
     url: /files/original/14fb29cc28fd3c14fb29cc290120.jpg
+    alt:
+      en: "Black-and-white photo of a person in a hat and plaid jacket standing beside aboveground tombs marked with X symbols in St. Louis Cemetery No. 1, New Orleans."
 geo:
 id: 31588
 item_type: Still Image

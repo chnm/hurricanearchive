@@ -20,6 +20,8 @@ files:
     original_filename: hartbetter2_53998f0c24.jpg
     thumb: /files/thumbnails/14fb29c331651814fb29c331a343.jpg
     url: /files/original/14fb29c331651814fb29c331a343.jpg
+    alt:
+      en: "A man in a white captain's hat plays trombone in a street parade, with a brass band, onlookers, and a yellow balconied house in the background."
 geo:
   address: ''
   lat: 0.0

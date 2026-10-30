@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1625neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee784b3614fb29ee784f1a.jpg
     url: /files/original/14fb29ee784b3614fb29ee784f1a.jpg
+    alt:
+      en: "Hotel building with multiple flags flying, a statue on a pedestal in a grassy median, storm-damaged palm trees, and parked vehicles on a cobblestone street in the foreground."
 geo:
 id: 23612
 item_type: Still Image

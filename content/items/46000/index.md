@@ -17,6 +17,8 @@ files:
     original_filename: 9-4-2013 5;49;17 PM.jpg
     thumb: /files/thumbnails/14dcbba38f5b7c0609d4a24e7117c440.jpg
     url: /files/original/14dcbba38f5b7c0609d4a24e7117c440.jpg
+    alt:
+      en: "A large fallen pine tree lies across a yard with broken branches scattered around, partially obscuring a single-story house in the background beneath an overcast sky."
 geo:
   address: Bush, LA
   lat: 0.0

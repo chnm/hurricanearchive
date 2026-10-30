@@ -21,6 +21,8 @@ files:
     original_filename: Katrina3786.jpg
     thumb: /files/thumbnails/14fb29fc5bc39b14fb29fc5bc779.jpg
     url: /files/original/14fb29fc5bc39b14fb29fc5bc779.jpg
+    alt:
+      en: "A military vehicle with a soldier standing in the hatch is parked on a residential street, with a person standing nearby and large brick houses lining the road in the background."
 geo:
 id: 21702
 item_type: Still Image

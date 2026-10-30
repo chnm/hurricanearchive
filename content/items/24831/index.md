@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2153superdome.JPG
     thumb: /files/thumbnails/14fb29e47c011714fb29e47c07b7.jpg
     url: /files/original/14fb29e47c011714fb29e47c07b7.jpg
+    alt:
+      en: "A soldier in camouflage with a flak vest and rifle sits in the foreground as a military truck drives through floodwater behind him, with a highway overpass and submerged trees visible in the background."
 geo:
 id: 24831
 item_type: Still Image

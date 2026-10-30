@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28186.jpg
     thumb: /files/thumbnails/14fb2a6d056f4e14fb2a6d057334.jpg
     url: /files/original/14fb2a6d056f4e14fb2a6d057334.jpg
+    alt:
+      en: "Rows of weathered wooden pilings stand along a sandy, debris-strewn shoreline, with bare, storm-damaged trees lining the beach under a hazy sky."
 geo:
   address: ''
   lat: 0.0

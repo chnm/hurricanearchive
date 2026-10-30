@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_COAST_GUARD_VI_05CIG_4547a1b642.jpg
     thumb: /files/thumbnails/14fb2a66c15eb614fb2a66c1629b.jpg
     url: /files/original/14fb2a66c15eb614fb2a66c1629b.jpg
+    alt:
+      en: "A Coast Guard officer in uniform writes on a notepad while speaking with another man in a blue shirt; a weathered fishing boat sits stranded in brush near the shoreline behind them."
 geo:
 id: 2390
 item_type: Still Image

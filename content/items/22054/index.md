@@ -21,6 +21,8 @@ files:
     original_filename: Picture 385-J2.jpg
     thumb: /files/thumbnails/14fb29f9d0153714fb29f9d0191c.jpg
     url: /files/original/14fb29f9d0153714fb29f9d0191c.jpg
+    alt:
+      en: "A man wearing an \"ARMY\" t-shirt and green shorts sits crouched on a cot in a crowded barracks area, surrounded by military cots, backpacks, and personal belongings, including an MRE box."
 geo:
 id: 22054
 item_type: Still Image

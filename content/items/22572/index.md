@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1861Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f53975b914fb29f5397a86.jpg
     url: /files/original/14fb29f53975b914fb29f5397a86.jpg
+    alt:
+      en: "Aerial view of a severely flooded military installation with submerged buildings, roads, and vehicles, including several aircraft and what appears to be a tank partially underwater amid the floodwaters."
 geo:
 id: 22572
 item_type: Still Image

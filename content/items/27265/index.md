@@ -20,6 +20,8 @@ files:
     original_filename: Remains of Grand Casino.JPG
     thumb: /files/thumbnails/14fb29d594257f14fb29d5942965.jpg
     url: /files/original/14fb29d594257f14fb29d5942965.jpg
+    alt:
+      en: "Palm trees stand in front of a damaged, multi-story building with a collapsed section, surrounded by a chain-link fence, debris, and an empty parking lot under an overcast sky."
 geo:
 id: 27265
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0131-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0313e5c014fb2a0313e99d.jpg
     url: /files/original/14fb2a0313e5c014fb2a0313e99d.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with torn roofing, surrounded by debris, downed trees, and floodwaters; a school bus and scattered vehicles sit near the wreckage, with a raised roadway visible in the background."
 geo:
 id: 20843
 item_type: Still Image

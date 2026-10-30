@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0317-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd69e94214fb29fd69ed23.jpg
     url: /files/original/14fb29fd69e94214fb29fd69ed23.jpg
+    alt:
+      en: "Aerial view of a flooded residential area adjacent to farmland, with a house submerged nearly to its roofline, boats and vehicles floating nearby, and partially flooded crop fields in the background."
 geo:
 id: 21581
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 336697201_9584b583f9.jpg
     thumb: /files/thumbnails/14fb29d50804ca14fb29d50808af.jpg
     url: /files/original/14fb29d50804ca14fb29d50808af.jpg
+    alt:
+      en: "A large rusted red barge marked \"IN 4727\" rests on debris-strewn ground behind a damaged chain-link fence, with bare trees and a cloudy sky in the background."
 geo:
 id: 27323
 item_type: Still Image

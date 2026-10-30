@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1365Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5a6a7f314fb29f5a6afbe.jpg
     url: /files/original/14fb29f5a6a7f314fb29f5a6afbe.jpg
+    alt:
+      en: "Military aircraft, including a fighter jet marked \"159 FW,\" sit partially submerged in deep floodwaters amid buildings and power lines under a dark, overcast sky."
 geo:
 id: 22524
 item_type: Still Image

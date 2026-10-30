@@ -27,6 +27,8 @@ files:
     original_filename: 2326880216_c1b904c215.
     thumb: /files/thumbnails/14fb29c9bd54ba14fb29c9bd5bfc.jpg
     url: /files/original/14fb29c9bd54ba14fb29c9bd5bfc.jpg
+    alt:
+      en: "Several large boats lie toppled on a debris-strewn road beside leaning utility poles and tangled power lines, with the partial name \"...fair\" visible on the nearest hull."
 geo:
   address: ''
   lat: 30.22586

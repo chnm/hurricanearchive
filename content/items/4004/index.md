@@ -21,6 +21,8 @@ files:
     original_filename: DSC01104.JPG
     thumb: /files/thumbnails/14fb2a588dcea014fb2a588dd27c.jpg
     url: /files/original/14fb2a588dcea014fb2a588dd27c.jpg
+    alt:
+      en: "Three U.S. Coast Guard members in orange life vests and boonie hats ride a boat through a flooded neighborhood street lined with trees, with submerged houses visible in the background."
 geo:
 id: 4004
 item_type: Still Image

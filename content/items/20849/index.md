@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0132-9-25.JPG
     thumb: /files/thumbnails/14fb2a02dd124414fb2a02dd1574.jpg
     url: /files/original/14fb2a02dd124414fb2a02dd1574.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with torn-off roofs and debris scattered across a flooded coastal landscape, with a school bus, roadway, and surrounding floodwaters visible."
 geo:
 id: 20849
 item_type: Still Image

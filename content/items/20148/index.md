@@ -21,6 +21,8 @@ files:
     original_filename: Picture 245cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b0bc13d14fb2a0b0bc523.jpg
     url: /files/original/14fb2a0b0bc13d14fb2a0b0bc523.jpg
+    alt:
+      en: "Damaged building with a partially collapsed roof and twisted metal framing behind a concrete highway barrier wall, with debris caught in a chain-link fence; partial sign reads \"MILLION.\""
 geo:
 id: 20148
 item_type: Still Image

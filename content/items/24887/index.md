@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0962superdome.JPG
     thumb: /files/thumbnails/14fb29e40e101514fb29e40e227d.jpg
     url: /files/original/14fb29e40e101514fb29e40e227d.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms unload folding cots from a military truck inside a covered loading area, with others standing nearby and a golf cart parked to the right."
 geo:
 id: 24887
 item_type: Still Image

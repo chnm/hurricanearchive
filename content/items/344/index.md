@@ -26,6 +26,8 @@ files:
     original_filename: desks_5fa6eec4f1.jpg
     thumb: /files/thumbnails/14fb2a702eac5714fb2a702eadf0.jpg
     url: /files/original/14fb2a702eac5714fb2a702eadf0.jpg
+    alt:
+      en: "A large disordered pile of discarded school desks and chairs, their metal frames twisted and tangled together, with a few yellow plastic chairs scattered among the mostly gray and dark metal furniture."
 geo:
   address: ''
   lat: 30.446993

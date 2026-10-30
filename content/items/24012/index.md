@@ -21,6 +21,8 @@ files:
     original_filename: 09280014plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebf078c814fb29ebf07cad.jpg
     url: /files/original/14fb29ebf078c814fb29ebf07cad.jpg
+    alt:
+      en: "Storm-damaged landscape with a bare, leaning tree, scattered debris, and curved sheet metal panels in a muddy field, with power lines crossing overhead and floodwater visible in the background."
 geo:
 id: 24012
 item_type: Still Image

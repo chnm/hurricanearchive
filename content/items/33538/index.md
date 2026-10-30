@@ -20,6 +20,8 @@ files:
     original_filename: Buffas_36ecd5ce2a.jpg
     thumb: /files/thumbnails/14fb29cabdbfd614fb29cabdc3bc.jpg
     url: /files/original/14fb29cabdbfd614fb29cabdc3bc.jpg
+    alt:
+      en: "Tree branches and foliage overhang a street scene, with a large dark, uniformly shadowed or damaged area filling the lower portion of the frame."
 geo:
   address: 1220 Dauphine Street
   lat: 0.0

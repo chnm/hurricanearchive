@@ -23,6 +23,8 @@ files:
     original_filename: 162512363_be7549bd48.jpg
     thumb: /files/thumbnails/14fb29d2359c7e14fb29d235a6b1.jpg
     url: /files/original/14fb29d2359c7e14fb29d235a6b1.jpg
+    alt:
+      en: "An overturned wheelchair lies amid deep, cracked dried mud against a brick building, with debris scattered nearby and a patch of grass in the background."
 geo:
 id: 28590
 item_type: Still Image

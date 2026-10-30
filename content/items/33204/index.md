@@ -20,6 +20,8 @@ files:
     original_filename: 1282509078_e3226fc4a5.jpg
     thumb: /files/thumbnails/14fb29cb95526014fb29cb9559a6.jpg
     url: /files/original/14fb29cb95526014fb29cb9559a6.jpg
+    alt:
+      en: "A man wearing a bandana and green T-shirt stands amid a pile of storm debris, including torn roofing panels and twisted metal, with power lines and trees visible in the background under an overcast sky."
 geo:
 id: 33204
 item_type: Still Image

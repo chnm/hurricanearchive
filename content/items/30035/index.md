@@ -20,6 +20,8 @@ files:
     original_filename: Picture+046_b3e9712a28.jpg
     thumb: /files/thumbnails/14fb29cdaef40814fb29cdaf192d.jpg
     url: /files/original/14fb29cdaef40814fb29cdaf192d.jpg
+    alt:
+      en: "Two water-damaged VHS tapes, \"Sanford and Son\" and \"The Beverly Hillbillies,\" lie among debris, tangled wires, and scorched household items in a flood-ravaged room."
 geo:
 id: 30035
 item_type: Still Image

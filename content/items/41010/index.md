@@ -20,6 +20,8 @@ files:
     original_filename: 6 - Robert E_f1e7232c39. Lee 1.JPG
     thumb: /files/thumbnails/14fb29c4acf3bc14fb29c4acf79f.jpg
     url: /files/original/14fb29c4acf3bc14fb29c4acf79f.jpg
+    alt:
+      en: "A residential street in Gentilly with houses in various stages of repair, a truck and pickup parked along the road, utility poles with wires overhead, and an orange \"Detour Ahead\" sign near the Warrington Dr. street sign."
 geo:
   address: ''
   lat: 0.0

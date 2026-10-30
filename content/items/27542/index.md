@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7112_d858d9c8cb.jpg
     thumb: /files/thumbnails/14fb29d3845ed314fb29d38462ba.jpg
     url: /files/original/14fb29d3845ed314fb29d38462ba.jpg
+    alt:
+      en: "Six children and a woman pose together on a brick walkway in front of a yellow pavilion-style building decorated with colorful balloons, part of City Park in New Orleans."
 geo:
   address: ''
   lat: 29.80252

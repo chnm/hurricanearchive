@@ -21,6 +21,8 @@ files:
     original_filename: before looking east2.jpg
     thumb: /files/thumbnails/14fb2a20e1009714fb2a20e1047d.jpg
     url: /files/original/14fb2a20e1009714fb2a20e1047d.jpg
+    alt:
+      en: "Rooftop view of a small town's business district, with signs for \"Girl Scouts,\" \"Joey Joe's Pawn & Jewelry,\" and \"Hancock Bank Motor Bank\" visible among low buildings, parking lots, and distant trees under a cloudy sky."
 geo:
 id: 13043
 item_type: Still Image

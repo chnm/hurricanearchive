@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2022superdome.JPG
     thumb: /files/thumbnails/14fb29df56273114fb29df562b17.jpg
     url: /files/original/14fb29df56273114fb29df562b17.jpg
+    alt:
+      en: "A man in a military camouflage uniform embraces another man in a striped shirt, with other people and a handbag visible nearby on an outdoor pavement."
 geo:
 id: 25295
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5895_f8f31cc25f.jpg
     thumb: /files/thumbnails/14fb2a15ad89eb14fb2a15ad8d87.jpg
     url: /files/original/14fb2a15ad89eb14fb2a15ad8d87.jpg
+    alt:
+      en: "Faded color photo of a shirtless, smiling boy standing on a wooden boat deck near steps and a folding table, with a handwritten label above reading \"Swimming in Lake Borne, 4th of July.\""
 geo:
 id: 16968
 item_type: Still Image

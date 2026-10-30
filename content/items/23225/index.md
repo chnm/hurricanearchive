@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 18.jpg
     thumb: /files/thumbnails/14fb29f09a239114fb29f09a2777.jpg
     url: /files/original/14fb29f09a239114fb29f09a2777.jpg
+    alt:
+      en: "Satellite weather map of the Gulf of Mexico, Caribbean, and southeastern U.S. showing a large hurricane with a visible eye near Florida, dated 28 Aug 2005, credited to The Weather Channel/weather.com."
 geo:
 id: 23225
 item_type: Still Image

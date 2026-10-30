@@ -21,6 +21,8 @@ files:
     original_filename: UNO -  Water Damage.jpg
     thumb: /files/thumbnails/14fb29fb0ce8ef14fb29fb0cecd4.jpg
     url: /files/original/14fb29fb0ce8ef14fb29fb0cecd4.jpg
+    alt:
+      en: "Aerial view of a flooded university campus with buildings surrounded by standing water, parking lots, and scattered trees, bordered by a body of water in the foreground."
 geo:
 id: 21908
 item_type: Still Image

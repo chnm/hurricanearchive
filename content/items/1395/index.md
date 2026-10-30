@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27863.jpg
     thumb: /files/thumbnails/14fb2a6921aa1314fb2a6921adf8.jpg
     url: /files/original/14fb2a6921aa1314fb2a6921adf8.jpg
+    alt:
+      en: "Floodwater surrounds a house and small boat behind a chain-link fence, with a hand-lettered \"Boat Launch Free\" sign and a \"We Want Water Free\" sticker attached to the fence."
 geo:
   address: ''
   lat: 0.0

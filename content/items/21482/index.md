@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0273-9-25.JPG
     thumb: /files/thumbnails/14fb29fe56c30414fb29fe56c6e0.jpg
     url: /files/original/14fb29fe56c30414fb29fe56c6e0.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood submerged in brown floodwater, with rooftops, a stop sign, utility poles, and partially submerged cars visible between flooded houses and yards."
 geo:
 id: 21482
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: back_bldgs_704ab33010.jpg
     thumb: /files/thumbnails/14fb29d996d0cb14fb29d996d464.jpg
     url: /files/original/14fb29d996d0cb14fb29d996d464.jpg
+    alt:
+      en: "Storm-damaged buildings tilted off their pilings connected by a warped wooden walkway with debris scattered about; a door reads \"KEEP DOOR CLOSED,\" bare trees visible in the background."
 geo:
   address: ''
   lat: 29.18139

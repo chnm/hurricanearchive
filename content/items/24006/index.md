@@ -21,6 +21,8 @@ files:
     original_filename: 09280008plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebf5df5214fb29ebf5e329.jpg
     url: /files/original/14fb29ebf5df5214fb29ebf5e329.jpg
+    alt:
+      en: "Storm-damaged blue metal building with crumpled siding and torn roof panels, set against bare trees and utility poles under an overcast sky."
 geo:
 id: 24006
 item_type: Still Image

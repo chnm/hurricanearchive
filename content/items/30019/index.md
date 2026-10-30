@@ -20,6 +20,8 @@ files:
     original_filename: pics+2006-07+118_b16060146a.jpg
     thumb: /files/thumbnails/14fb29ce17961414fb29ce1799f9.jpg
     url: /files/original/14fb29ce17961414fb29ce1799f9.jpg
+    alt:
+      en: "Concrete front steps and porch pillars, marked \"501\" and \"E.B.,\" are all that remain of a demolished house, surrounded by overgrown grass, orange safety fencing, and bare trees."
 geo:
 id: 30019
 item_type: Still Image

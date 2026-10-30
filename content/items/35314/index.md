@@ -18,6 +18,8 @@ files:
     original_filename: 49_a93f1bbc33.jpg
     thumb: /files/thumbnails/14fb29c6a1670e14fb29c6a16af3.jpg
     url: /files/original/14fb29c6a1670e14fb29c6a16af3.jpg
+    alt:
+      en: "Gutted brick interior with exposed ceiling beams, two doorways, and debris scattered on the floor, including a \"Tortilla Chips\" box and a foam cooler."
 geo:
   address: new orleans, la
   lat: 29.95324

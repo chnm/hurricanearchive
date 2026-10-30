@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_LoganPage_06_3b8c4ea525.jpg
     thumb: /files/thumbnails/14fb2a164422e514fb2a16443898.jpg
     url: /files/original/14fb2a164422e514fb2a16443898.jpg
+    alt:
+      en: "Studio portrait of a smiling baby girl in a sun hat and seahorse-print outfit, seated on a wicker chair draped with a striped towel, with an orange fish-patterned inflatable tube beside her."
 geo:
 id: 15459
 item_type: Still Image

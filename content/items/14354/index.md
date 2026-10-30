@@ -21,6 +21,8 @@ files:
     original_filename: aerials64.jpg
     thumb: /files/thumbnails/14fb2a19a6344914fb2a19a6382f.jpg
     url: /files/original/14fb2a19a6344914fb2a19a6382f.jpg
+    alt:
+      en: "Aerial view of a cleared lot strewn with debris and scattered rubble beside a dirt road, surrounded by scorched trees and vegetation."
 geo:
 id: 14354
 item_type: Still Image

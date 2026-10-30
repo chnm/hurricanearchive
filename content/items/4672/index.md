@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0623.JPG
     thumb: /files/thumbnails/14fb2a5652abc114fb2a5652afcc.jpg
     url: /files/original/14fb2a5652abc114fb2a5652afcc.jpg
+    alt:
+      en: "Debris and twisted metal roofing piled on a grassy lot, with a blue tarp canopy and house visible in the background amid trees under a clear sky."
 geo:
 id: 4672
 item_type: Still Image

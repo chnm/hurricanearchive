@@ -21,6 +21,8 @@ files:
     original_filename: S4300193stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eccc21bb14fb29eccc25a1.jpg
     url: /files/original/14fb29eccc21bb14fb29eccc25a1.jpg
+    alt:
+      en: "A vehicle stands upright, nose-down against a tree beside a damaged brick house, with debris, a mangled structure, and another car scattered across the littered yard."
 geo:
 id: 23854
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1494superdome.JPG
     thumb: /files/thumbnails/14fb29e35b1d0a14fb29e35b2669.jpg
     url: /files/original/14fb29e35b1d0a14fb29e35b2669.jpg
+    alt:
+      en: "A soldier in camouflage fatigues, name tape reading \"GILLICH,\" leans into a military vehicle's interior to speak on a radio handset connected by a coiled cord to a communications unit."
 geo:
 id: 24976
 item_type: Still Image

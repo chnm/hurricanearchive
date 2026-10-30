@@ -21,6 +21,8 @@ files:
     original_filename: waterfall2.jpg
     thumb: /files/thumbnails/14fb2a201210b614fb2a201215c3.jpg
     url: /files/original/14fb2a201210b614fb2a201215c3.jpg
+    alt:
+      en: "Heavy rain or spray streaks across the frame, photographed through a wet window with a light-colored railing visible in the foreground against a dark, blurred background."
 geo:
 id: 13143
 item_type: Still Image

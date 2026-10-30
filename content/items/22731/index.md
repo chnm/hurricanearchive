@@ -21,6 +21,8 @@ files:
     original_filename: PICT0689Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f45acfe214fb29f45addc3.jpg
     url: /files/original/14fb29f45acfe214fb29f45addc3.jpg
+    alt:
+      en: "Carport marked \"U 14\" shelters a dark sedan with open trunk and a silver Toyota Tundra pickup, parked against a brick building; image dated 09.15.2005."
 geo:
 id: 22731
 item_type: Still Image

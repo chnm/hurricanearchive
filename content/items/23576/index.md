@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0196neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29eeb862cd14fb29eeb866b4.jpg
     url: /files/original/14fb29eeb862cd14fb29eeb866b4.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with scattered debris, collapsed structures, and a few surviving houses among damaged, leafless trees, bordered by a road and open water in the distance."
 geo:
 id: 23576
 item_type: Still Image

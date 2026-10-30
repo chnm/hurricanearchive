@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7651.JPG
     thumb: /files/thumbnails/14fb29cc8bc65414fb29cc8bca2f.jpg
     url: /files/original/14fb29cc8bc65414fb29cc8bca2f.jpg
+    alt:
+      en: "A tan minivan with license plate LVX-583 sits on a gravel road surrounded by damaged, broken trees and debris, likely from storm damage."
 geo:
 id: 30770
 item_type: Still Image

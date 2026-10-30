@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1816superdome.JPG
     thumb: /files/thumbnails/14fb29e127a67d14fb29e127ae4d.jpg
     url: /files/original/14fb29e127a67d14fb29e127ae4d.jpg
+    alt:
+      en: "Military medical helicopter marked \"332\" with a red cross sits on a wet rooftop helipad, with crew members nearby and another Red Cross-marked helicopter and city buildings in the background."
 geo:
 id: 25191
 item_type: Still Image

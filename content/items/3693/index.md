@@ -24,6 +24,8 @@ files:
     original_filename: P1010135.JPG
     thumb: /files/thumbnails/14fb2a5a1cd35314fb2a5a1cd73a.jpg
     url: /files/original/14fb2a5a1cd35314fb2a5a1cd73a.jpg
+    alt:
+      en: "Close-up of a rusted streetcar rail embedded in gray gravel ballast, surrounded by scattered dry brown leaves and small twigs."
 geo:
 id: 3693
 item_type: Still Image

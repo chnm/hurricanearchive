@@ -21,6 +21,8 @@ files:
     original_filename: 03engineers.JPG
     thumb: /files/thumbnails/14fb2a10e026a014fb2a10e02a85.jpg
     url: /files/original/14fb2a10e026a014fb2a10e02a85.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms examine a large unrolled map on a desk, with a computer monitor displaying a weather or satellite map and a \"Official Map of Louisiana\" poster on the wall behind them."
 geo:
 id: 19354
 item_type: Still Image

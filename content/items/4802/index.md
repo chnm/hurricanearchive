@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0115.JPG
     thumb: /files/thumbnails/14fb2a5560941d14fb2a55609802.jpg
     url: /files/original/14fb2a5560941d14fb2a55609802.jpg
+    alt:
+      en: "Storm-damaged wooded lot with fallen and leaning trees, scattered debris, and dried brush covering the ground; a bright orange object and scraps of litter lie among the wreckage."
 geo:
 id: 4802
 item_type: Still Image

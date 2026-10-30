@@ -20,6 +20,8 @@ files:
     original_filename: Picture+045_f4c4280549.jpg
     thumb: /files/thumbnails/14fb29cdbab6ae14fb29cdbabef0.jpg
     url: /files/original/14fb29cdbab6ae14fb29cdbabef0.jpg
+    alt:
+      en: "Debris-covered floor strewn with mud-caked vinyl records, a stuffed animal, a rusted shoe, and scattered household items, evidence of flood damage in the Lower Ninth Ward."
 geo:
 id: 30034
 item_type: Still Image

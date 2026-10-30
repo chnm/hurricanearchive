@@ -24,6 +24,8 @@ files:
     original_filename: rolland, his month on left and aunt effie.tif
     thumb: /files/thumbnails/14fb29cc4b220114fb29cc4b25e5.jpg
     url: /files/original/14fb29cc4b220114fb29cc4b25e5.tif
+    alt:
+      en: "Black-and-white photo of a woman, young girl, and boy standing before the columned facade of the Isaac Delgado Museum of Art, with a statue and parked car visible behind them."
 geo:
 id: 30817
 item_type: Document

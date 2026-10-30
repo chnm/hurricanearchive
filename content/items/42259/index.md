@@ -23,6 +23,8 @@ files:
     original_filename: 6033_30e50089ec.JPG
     thumb: /files/thumbnails/14fb29c298f11114fb29c298f4f8.jpg
     url: /files/original/14fb29c298f11114fb29c298f4f8.jpg
+    alt:
+      en: "Floodwater surrounds elevated houses along Highway 603 under a stormy sky, viewed through a rain-streaked car window with power lines overhead."
 geo:
   address: ''
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: 2297826561_b1987cc635.
     thumb: /files/thumbnails/14fb29c7d4bf0214fb29c7d566ea.jpg
     url: /files/original/14fb29c7d4bf0214fb29c7d566ea.jpg
+    alt:
+      en: "Man wearing a baseball cap and \"Muddy Buddy\" t-shirt repairs a bicycle wheel's hub, working in a cluttered garage or workshop lined with shelves, tools, and supplies."
 geo:
 id: 34996
 item_type: Still Image

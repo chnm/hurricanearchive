@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1233Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6b817b014fb29f6b81b96.jpg
     url: /files/original/14fb29f6b817b014fb29f6b81b96.jpg
+    alt:
+      en: "Heavy rain obscures a flooded yard with a large tree, utility pole and wires in the foreground, and brick buildings visible through the haze in the background."
 geo:
 id: 22401
 item_type: Still Image

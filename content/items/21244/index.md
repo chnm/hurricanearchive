@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0206-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ffd4c1ec14fb29ffd4c5f0.jpg
     url: /files/original/14fb29ffd4c1ec14fb29ffd4c5f0.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with rows of collapsed and flattened houses, scattered debris, standing floodwater, and stranded vehicles amid surviving trees under a hazy sky."
 geo:
 id: 21244
 item_type: Still Image

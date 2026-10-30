@@ -20,6 +20,8 @@ files:
     original_filename: DSC00353_a14be73c59.JPG
     thumb: /files/thumbnails/14fb2a574d208e14fb2a574d28d9.jpg
     url: /files/original/14fb2a574d208e14fb2a574d28d9.jpg
+    alt:
+      en: "Two women sit on porch steps in white protective coveralls, one wearing a dust mask and the other a \"Lowe's\" cap and respirator around her neck, surrounded by salvaged belongings; a man sits behind them."
 geo:
   address: ''
   lat: 29.97455

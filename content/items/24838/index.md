@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2178superdome.JPG
     thumb: /files/thumbnails/14fb29e476013214fb29e47608f3.jpg
     url: /files/original/14fb29e476013214fb29e47608f3.jpg
+    alt:
+      en: "Interior of a boarded-up building at night, with a group of people and military personnel gathered near shopping carts, a cooler, and bottled water amid scattered debris on the tile floor."
 geo:
 id: 24838
 item_type: Still Image

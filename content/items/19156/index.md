@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 066.jpg
     thumb: /files/thumbnails/14fb2a12a1ff6914fb2a12a2034d.jpg
     url: /files/original/14fb2a12a1ff6914fb2a12a2034d.jpg
+    alt:
+      en: "Debris-strewn parking lot with scattered insulation and metal roofing fragments, a broken tree trunk in foreground, and palm trees lining a stucco building with a red metal roof."
 geo:
 id: 19156
 item_type: Still Image

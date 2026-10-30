@@ -26,6 +26,8 @@ files:
     original_filename: 019_17A_2694860e4b.jpg
     thumb: /files/thumbnails/14fb2a6f334e5c14fb2a6f33522e.jpg
     url: /files/original/14fb2a6f334e5c14fb2a6f33522e.jpg
+    alt:
+      en: "Damaged high-rise facade of the Hyatt Hotel on Poydras Street, with shredded white fabric and debris caught in bare tree branches in the foreground, photographed August 29, 2005."
 geo:
   address: ''
   lat: 29.9515136875445

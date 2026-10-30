@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0092.JPG
     thumb: /files/thumbnails/14fb2a5598793814fb2a55988070.jpg
     url: /files/original/14fb2a5598793814fb2a55988070.jpg
+    alt:
+      en: "Single-story house with storm-damaged roof shingles peeling back and exterior wall panels torn away, exposing insulation; debris scattered on the grass in front amid bare winter trees."
 geo:
 id: 4780
 item_type: Still Image

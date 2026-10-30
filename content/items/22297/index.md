@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1108Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7e20c9f14fb29f7e28dbf.jpg
     url: /files/original/14fb29f7e20c9f14fb29f7e28dbf.jpg
+    alt:
+      en: "Severe flooding submerges a street and yard during heavy rain, with a partially visible house, trees, and a white lattice fence rising above the murky water."
 geo:
 id: 22297
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: P9180190_56d546c8e0.JPG
     thumb: /files/thumbnails/14fb2a6db90e7314fb2a6db91640.jpg
     url: /files/original/14fb2a6db90e7314fb2a6db91640.jpg
+    alt:
+      en: "Gutted interior of a building with teal support columns, exposed ceiling beams and wiring, scattered bricks and rubble, and a handwritten note reading \"K, P or M, if you need me to help clean up, I'm in town.\""
 geo:
   address: ''
   lat: 30.435893

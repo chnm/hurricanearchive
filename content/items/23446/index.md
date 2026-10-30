@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0108cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef65954914fb29ef659927.jpg
     url: /files/original/14fb29ef65954914fb29ef659927.jpg
+    alt:
+      en: "Aerial view of a muddy river lined with dense green forest, with the shadow of a helicopter cast on the water's surface and part of a passenger's shoulder visible in the foreground."
 geo:
 id: 23446
 item_type: Still Image

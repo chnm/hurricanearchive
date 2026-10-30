@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0129.JPG
     thumb: /files/thumbnails/14fb29e6073d9f14fb29e60741ad.jpg
     url: /files/original/14fb29e6073d9f14fb29e60741ad.jpg
+    alt:
+      en: "Aerial view of a flood-damaged neighborhood at dusk, showing collapsed and displaced rooftops, scattered debris, standing water in the streets, and submerged vehicles among the wreckage."
 geo:
 id: 24628
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1421superdome.JPG
     thumb: /files/thumbnails/14fb29e3d9c17f14fb29e3d9c672.jpg
     url: /files/original/14fb29e3d9c17f14fb29e3d9c672.jpg
+    alt:
+      en: "A military truck drives through floodwater past dense green shrubs, with a green-roofed bus visible in the background."
 geo:
 id: 24926
 item_type: Still Image

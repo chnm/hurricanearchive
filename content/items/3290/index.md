@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (51).jpg
     thumb: /files/thumbnails/14fb2a5cb3af0314fb2a5cb3b2e2.jpg
     url: /files/original/14fb2a5cb3af0314fb2a5cb3b2e2.jpg
+    alt:
+      en: "Flood-damaged street scene with a boat washed into standing water, scattered debris, a damaged house, and a large elevated roadway bridge in the background under a partly cloudy sky."
 geo:
 id: 3290
 item_type: Still Image

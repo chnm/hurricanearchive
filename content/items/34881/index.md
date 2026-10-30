@@ -20,6 +20,8 @@ files:
     original_filename: 2457540824_c4481de5ea.
     thumb: /files/thumbnails/14fb29c8ca0db414fb29c8ca118b.jpg
     url: /files/original/14fb29c8ca0db414fb29c8ca118b.jpg
+    alt:
+      en: "Workers in a deep excavation trench install large pipe sections, with an excavator and dump truck positioned above the dig site amid piles of displaced earth."
 geo:
 id: 34881
 item_type: Still Image

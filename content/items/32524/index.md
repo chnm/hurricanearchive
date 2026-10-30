@@ -30,6 +30,8 @@ files:
     original_filename: adc05_0fde1ebd9a.jpg
     thumb: /files/thumbnails/14fb29cbe936dd14fb29cbe93b9d.jpg
     url: /files/original/14fb29cbe936dd14fb29cbe93b9d.jpg
+    alt:
+      en: "Illustrated webcomic panel styled as a camcorder viewfinder, with \"LCD VIEWER,\" \"REC,\" and \"REC START/STOP\" labels framing a sketched street scene of houses and power lines under a stormy sky."
 geo:
 id: 32524
 item_type: Hyperlink

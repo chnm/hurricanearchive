@@ -24,6 +24,8 @@ files:
     original_filename: P1010123.JPG
     thumb: /files/thumbnails/14fb2a5a239b7f14fb2a5a239f62.jpg
     url: /files/original/14fb2a5a239b7f14fb2a5a239f62.jpg
+    alt:
+      en: "The repaired white dome of the Superdome rises behind a storm-damaged neighborhood with debris piles, a blue-tarped roof, and a sign for \"Manny's Sanitary\" store on Tchoupitoulas St."
 geo:
 id: 3684
 item_type: Still Image

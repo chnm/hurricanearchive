@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8917.jpg
     thumb: /files/thumbnails/14fb2a654e9d8914fb2a654ea81a.jpg
     url: /files/original/14fb2a654e9d8914fb2a654ea81a.jpg
+    alt:
+      en: "Workers in protective suits and hard hats sort through rows of overturned, spoiled-food-filled refrigerators at a disposal site, standing on spread plastic sheeting with trees in the background."
 geo:
 id: 2561
 item_type: Still Image

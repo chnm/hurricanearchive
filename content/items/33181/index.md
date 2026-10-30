@@ -20,6 +20,8 @@ files:
     original_filename: 1941725466_5e442476ad.jpg
     thumb: /files/thumbnails/14fb29cbcc622714fb29cbcc9c8e.jpg
     url: /files/original/14fb29cbcc622714fb29cbcc9c8e.jpg
+    alt:
+      en: "A white and silver food truck parked on a street reads \"Katrina's Meals on Wheels, We Cater, 317-717-2791,\" with handwritten neighborhood names listed on the side panel."
 geo:
   address: ''
   lat: 29.95916

@@ -23,6 +23,8 @@ files:
     original_filename: 162358626_f21ad1d0f3.jpg
     thumb: /files/thumbnails/14fb29d226e66614fb29d226ea54.jpg
     url: /files/original/14fb29d226e66614fb29d226ea54.jpg
+    alt:
+      en: "A white trailer with a red swoosh design and partially covered red logo sits parked on a gravel lot, with \"Sintes Fiberglass\" printed on its side; trees line the background."
 geo:
 id: 28605
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-019S.JPG
     thumb: /files/thumbnails/14fb2a5feda64814fb2a5fedaa2d.jpg
     url: /files/original/14fb2a5feda64814fb2a5fedaa2d.jpg
+    alt:
+      en: "A decommissioned missile or practice bomb with an orange and white painted body, mounted on a yellow trailer dolly, sits on pavement near parked aircraft."
 geo:
 id: 2828
 item_type: Still Image

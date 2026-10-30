@@ -21,6 +21,8 @@ files:
     original_filename: Picture 067cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0be1774614fb2a0be17b65.jpg
     url: /files/original/14fb2a0be1774614fb2a0be17b65.jpg
+    alt:
+      en: "A helicopter flies over a flooded residential neighborhood lined with power lines and poles, trees, and rooftops, viewed from a highway overpass with a concrete barrier in the foreground."
 geo:
 id: 19970
 item_type: Still Image

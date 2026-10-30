@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.075.JPG
     thumb: /files/thumbnails/14fb29dcf0d9c814fb29dcf0de9c.jpg
     url: /files/original/14fb29dcf0d9c814fb29dcf0de9c.jpg
+    alt:
+      en: "Damaged house with cream-colored siding spray-painted in red with \"HSUS 9/29 FW Loose Cat\" markings, surrounded by debris, a blue barrel, and scattered household items in an overgrown yard."
 geo:
 id: 25641
 item_type: Still Image

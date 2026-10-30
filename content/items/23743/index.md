@@ -21,6 +21,8 @@ files:
     original_filename: P1010184empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed5072c014fb29ed507b4d.jpg
     url: /files/original/14fb29ed5072c014fb29ed507b4d.jpg
+    alt:
+      en: "Debris field of twisted sheet metal, scattered household items, and stripped trees surrounding a flooded, muddy clearing under a clear sky, with a stranded blue boat in the background."
 geo:
 id: 23743
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7415.JPG
     thumb: /files/thumbnails/14fb29ccbdf90b14fb29ccbdfde5.jpg
     url: /files/original/14fb29ccbdf90b14fb29ccbdfde5.jpg
+    alt:
+      en: "A large fallen tree with thick branches lies across the roof and windows of a dark-colored vehicle, surrounded by scattered green leaves and debris."
 geo:
 id: 30718
 item_type: Still Image

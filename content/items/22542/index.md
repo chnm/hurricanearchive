@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1385Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5860df814fb29f58611dd.jpg
     url: /files/original/14fb29f5860df814fb29f58611dd.jpg
+    alt:
+      en: "Floodwaters submerge a chain-link fence and surround a brick building, with water rising nearly to the windows and a set of stairs with yellow railings visible near a tree line under an overcast sky."
 geo:
 id: 22542
 item_type: Still Image

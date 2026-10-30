@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0077H.JPG
     thumb: /files/thumbnails/14fb2a03cbccb514fb2a03cbd09b.jpg
     url: /files/original/14fb2a03cbccb514fb2a03cbd09b.jpg
+    alt:
+      en: "Two people play foosball at a nighttime gathering under string lights, the woman in an orange and white outfit smiling as a man in a gray T-shirt looks on; beer cans sit on the table's edge."
 geo:
 id: 20782
 item_type: Still Image

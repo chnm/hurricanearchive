@@ -21,6 +21,8 @@ files:
     original_filename: 09210009J6.JPG
     thumb: /files/thumbnails/14fb29f98acb6114fb29f98acf4f.jpg
     url: /files/original/14fb29f98acb6114fb29f98acf4f.jpg
+    alt:
+      en: "Interior of a military vehicle cab showing a stacked radio communications unit with handsets and coiled cables, a steering wheel, and a pack of Aquafina water bottles on the seat."
 geo:
 id: 22098
 item_type: Still Image

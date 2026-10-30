@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0140-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0229076514fb2a02290b4b.jpg
     url: /files/original/14fb2a0229076514fb2a02290b4b.jpg
+    alt:
+      en: "A single-story house sits surrounded by floodwaters, with a leaning utility pole, overturned boat, and scattered debris floating near the submerged entrance."
 geo:
 id: 20886
 item_type: Still Image

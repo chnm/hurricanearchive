@@ -21,6 +21,8 @@ files:
     original_filename: Fox News interview.JPG
     thumb: /files/thumbnails/14fb2a1b93099214fb2a1b930d77.jpg
     url: /files/original/14fb2a1b93099214fb2a1b930d77.jpg
+    alt:
+      en: "A military officer in camouflage fatigues speaks with a reporter holding a notepad while a cameraman operates a video camera on a tripod, inside a room with wall maps and briefing charts; dated 09.21.2005 11:44."
 geo:
   address: ''
   lat: 0.0

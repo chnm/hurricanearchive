@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28533.jpg
     thumb: /files/thumbnails/14fb2a6b2e626c14fb2a6b2e6534.jpg
     url: /files/original/14fb2a6b2e626c14fb2a6b2e6534.jpg
+    alt:
+      en: "Group of men in a debris-strewn street in downtown New Orleans receive pizza slices from a cart marked \"Now Hiring\" and \"Now Open,\" with boarded-up storefronts in the background."
 geo:
   address: ''
   lat: 0.0

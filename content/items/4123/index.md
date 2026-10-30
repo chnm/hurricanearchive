@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0009.JPG
     thumb: /files/thumbnails/14fb2a5791dde614fb2a57922d16.jpg
     url: /files/original/14fb2a5791dde614fb2a57922d16.jpg
+    alt:
+      en: "A large blue and white cargo ship sits grounded on marshy shoreline beside muddy water, its rusted hull exposed and crane masts rising above the deck."
 geo:
 id: 4123
 item_type: Still Image

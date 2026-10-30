@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0763.JPG
     thumb: /files/thumbnails/14fb2a57006f0c14fb2a570072f1.jpg
     url: /files/original/14fb2a57006f0c14fb2a570072f1.jpg
+    alt:
+      en: "Two boats sit stranded on either side of a debris-strewn roadside, surrounded by a damaged pine forest with broken branches and scattered storm wreckage."
 geo:
 id: 4561
 item_type: Still Image

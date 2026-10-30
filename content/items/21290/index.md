@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0218-9-25.JPG
     thumb: /files/thumbnails/14fb29ff9d9bb214fb29ff9d9f98.jpg
     url: /files/original/14fb29ff9d9bb214fb29ff9d9f98.jpg
+    alt:
+      en: "Aerial view of a rural property with scattered storm debris, damaged outbuildings with exposed roofing, and wind-strewn materials across a muddy field bordered by a drainage ditch and pond."
 geo:
 id: 21290
 item_type: Still Image

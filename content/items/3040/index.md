@@ -21,6 +21,8 @@ files:
     original_filename: 100_0289.JPG
     thumb: /files/thumbnails/14fb2a5e7282ae14fb2a5e728693.jpg
     url: /files/original/14fb2a5e7282ae14fb2a5e728693.jpg
+    alt:
+      en: "Close-up of a gray naval ship's bow marked with the hull number \"60,\" featuring twin gun barrels, radar equipment, and draft marks visible along the waterline against a clear blue sky."
 geo:
 id: 3040
 item_type: Still Image

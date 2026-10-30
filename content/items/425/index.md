@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0301_56e7eac423.JPG
     thumb: /files/thumbnails/14fb2a7005ac2914fb2a7005b00f.jpg
     url: /files/original/14fb2a7005ac2914fb2a7005b00f.jpg
+    alt:
+      en: "White clapboard house with yellow-trimmed windows and door, spray-painted with red text reading \"1 Dog + 1 fish, P/U 10/7, Petfinder.com\" and a circled \"TFW\" symbol marked by rescue workers after Hurricane Katrina."
 geo:
   address: ''
   lat: 29.916852233070202

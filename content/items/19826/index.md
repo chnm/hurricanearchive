@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d9636ce14fb2a0d963d08.jpg
     url: /files/original/14fb2a0d9636ce14fb2a0d963d08.jpg
+    alt:
+      en: "Two men in sweat-stained brown t-shirts and camouflage pants walk along a wooden walkway between rows of tan military tents, one carrying a coiled cable over his shoulder."
 geo:
 id: 19826
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0207rita.JPG
     thumb: /files/thumbnails/14fb2a119759a714fb2a11975d8b.jpg
     url: /files/original/14fb2a119759a714fb2a11975d8b.jpg
+    alt:
+      en: "A soldier in camouflage uniform and sunglasses, with a name tape reading \"MCKEE,\" stands in front of a military Humvee parked on a tree-lined street."
 geo:
 id: 19258
 item_type: Still Image

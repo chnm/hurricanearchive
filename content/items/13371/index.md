@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4935_dbb6835b82.jpg
     thumb: /files/thumbnails/14fb2a1e2a8bee14fb2a1e2a8fc7.jpg
     url: /files/original/14fb2a1e2a8bee14fb2a1e2a8fc7.jpg
+    alt:
+      en: "Vintage black-and-white studio portrait of a young man and woman smiling side by side, the photograph aged with creases, tears, and tape marks along its edges."
 geo:
 id: 13371
 item_type: Still Image

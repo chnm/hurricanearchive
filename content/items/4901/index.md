@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0220.JPG
     thumb: /files/thumbnails/14fb2a55026b0214fb2a55026ee7.jpg
     url: /files/original/14fb2a55026b0214fb2a55026ee7.jpg
+    alt:
+      en: "Debris field with scattered building materials, broken concrete blocks, and metal framing in the foreground, with damaged and snapped trees visible in the background under an overcast sky."
 geo:
 id: 4901
 item_type: Still Image

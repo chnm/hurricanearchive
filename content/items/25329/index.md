@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2056superdome.JPG
     thumb: /files/thumbnails/14fb29df0bd64c14fb29df0bdc13.jpg
     url: /files/original/14fb29df0bd64c14fb29df0bdc13.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues assist civilians carrying luggage up a ramp into the rear of a large military aircraft, with an elevated highway visible in the background."
 geo:
 id: 25329
 item_type: Still Image

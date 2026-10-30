@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0068.JPG
     thumb: /files/thumbnails/14fb2a55f99a8014fb2a55f99e67.jpg
     url: /files/original/14fb2a55f99a8014fb2a55f99e67.jpg
+    alt:
+      en: "Devastated landscape with wrecked, debris-covered cars scattered among barren trees and cleared lots, a dirt road in the foreground, and damaged buildings visible in the background."
 geo:
 id: 4721
 item_type: Still Image

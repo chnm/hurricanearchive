@@ -26,6 +26,8 @@ files:
     original_filename: StAnthonyRomanCatholicCathedralLandmark_c15a8efe6f.jpg
     thumb: /files/thumbnails/14fb2a6efc556614fb2a6efc5942.jpg
     url: /files/original/14fb2a6efc556614fb2a6efc5942.jpg
+    alt:
+      en: "Damaged dome of a cathedral with torn roofing material flying through the air, a worker standing on the dome's edge, and a cross visible in the foreground against a partly cloudy sky."
 geo:
   address: ''
   lat: 30.148461

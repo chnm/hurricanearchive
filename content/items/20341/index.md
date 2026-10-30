@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a08a729b714fb2a08a72d97.jpg
     url: /files/original/14fb2a08a729b714fb2a08a72d97.jpg
+    alt:
+      en: "A group of military personnel in camouflage and tan uniforms stand near a military truck and brick building, with one man in civilian clothes among them."
 geo:
 id: 20341
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1147Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7480da414fb29f7481189.jpg
     url: /files/original/14fb29f7480da414fb29f7481189.jpg
+    alt:
+      en: "The red roof of a car almost completely submerged in murky floodwaters, with only the top and edges of the vehicle visible above the surface."
 geo:
 id: 22334
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2183_bff76c2400.JPG
     thumb: /files/thumbnails/14fb2a70d097c814fb2a70d09bad.jpg
     url: /files/original/14fb2a70d097c814fb2a70d09bad.jpg
+    alt:
+      en: "Storm-damaged roof debris piled near a leaning utility pole with recovery-service signs, beside a wrecked Shell gas station with a fallen \"V-Power\" sign on the cracked pavement."
 geo:
   address: ''
   lat: 0.0

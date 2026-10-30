@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0358.JPG
     thumb: /files/thumbnails/14fb2a546aa2eb14fb2a546aa6d1.jpg
     url: /files/original/14fb2a546aa2eb14fb2a546aa6d1.jpg
+    alt:
+      en: "Storm-damaged wooded lot with scattered debris, collapsed structures, and scorched vegetation; tall pine trees remain standing amid wreckage including a tilted wooden frame and scattered household items on the ground."
 geo:
 id: 5013
 item_type: Still Image

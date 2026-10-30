@@ -21,6 +21,8 @@ files:
     original_filename: slide19.jpg
     thumb: /files/thumbnails/14fb2a1941f88214fb2a1941fc67.jpg
     url: /files/original/14fb2a1941f88214fb2a1941fc67.jpg
+    alt:
+      en: "Flood-damaged kitchen filled with debris, overturned furniture, and water-stained walls; text overlay reads \"Fran's Mom's house, kitchen, 16 feet of water.\""
 geo:
 id: 14401
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1226Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6beec9114fb29f6bef334.jpg
     url: /files/original/14fb29f6beec9114fb29f6bef334.jpg
+    alt:
+      en: "Rooftop view of a white gabled house with storm-damaged siding and a partially collapsed section, seen through hazy, rain-filled air, with an HVAC unit and antenna in the foreground."
 geo:
 id: 22394
 item_type: Still Image

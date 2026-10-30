@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 126cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0db26c7e14fb2a0db27063.jpg
     url: /files/original/14fb2a0db26c7e14fb2a0db27063.jpg
+    alt:
+      en: "A downed utility pole with attached transformers and wires leans across a grassy roadside, while a yellow tractor drives away down the paved road under a clear sky."
 geo:
 id: 19805
 item_type: Still Image

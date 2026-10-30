@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8537.jpg
     thumb: /files/thumbnails/14fb2a6622f70a14fb2a6622faef.jpg
     url: /files/original/14fb2a6622f70a14fb2a6622faef.jpg
+    alt:
+      en: "Damaged garage door with broken window panes, spray-painted with messages reading \"FEMA WHERE ARE YOU? WE NEED HELP ALSO\" and \"FEMA FEMA WHERE ARE YOU?\" on a house numbered 130."
 geo:
 id: 2475
 item_type: Still Image

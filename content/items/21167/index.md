@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0190-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0047daa814fb2a0047de83.jpg
     url: /files/original/14fb2a0047daa814fb2a0047de83.jpg
+    alt:
+      en: "Interior of a storm-damaged room viewed through a shattered window, showing an overturned appliance, rusted counter, water stains, and warning tape strung across the frame."
 geo:
 id: 21167
 item_type: Still Image

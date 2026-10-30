@@ -21,6 +21,8 @@ files:
     original_filename: 100_0228.JPG
     thumb: /files/thumbnails/14fb2a58d8009914fb2a58d804aa.jpg
     url: /files/original/14fb2a58d8009914fb2a58d804aa.jpg
+    alt:
+      en: "Photo taken from inside a vehicle shows floodwater submerging houses up to their rooflines, with a damaged boat and a yellow CAT excavator in the foreground amid debris and leaning power lines."
 geo:
 id: 3931
 item_type: Still Image

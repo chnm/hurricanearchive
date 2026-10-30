@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28193.jpg
     thumb: /files/thumbnails/14fb2a6ceba2be14fb2a6ceba6f2.jpg
     url: /files/original/14fb2a6ceba2be14fb2a6ceba6f2.jpg
+    alt:
+      en: "A person stands on a sandy, debris-strewn lot near a lone utility pole, with a parked car and a line of storm-damaged, leafless trees in the background under a blue sky."
 geo:
   address: ''
   lat: 0.0

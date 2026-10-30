@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1991superdome.JPG
     thumb: /files/thumbnails/14fb29dfc9b76114fb29dfc9be1f.jpg
     url: /files/original/14fb29dfc9b76114fb29dfc9be1f.jpg
+    alt:
+      en: "Side view of an Acadian ambulance truck, numbered 353, with a uniformed driver visible through the open window, parked on pavement."
 geo:
 id: 25264
 item_type: Still Image

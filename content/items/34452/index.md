@@ -23,6 +23,8 @@ files:
     original_filename: 2326072951_1e87fcf152.
     thumb: /files/thumbnails/14fb29c9f79e2214fb29c9f7a208.jpg
     url: /files/original/14fb29c9f79e2214fb29c9f7a208.jpg
+    alt:
+      en: "A vast field strewn with splintered wood, lumber, and household debris from completely destroyed houses, stretching to the horizon under a partly cloudy sky."
 geo:
   address: ''
   lat: 30.22586

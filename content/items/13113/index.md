@@ -21,6 +21,8 @@ files:
     original_filename: flying debris3.jpg
     thumb: /files/thumbnails/14fb2a2057325814fb2a2057364a.jpg
     url: /files/original/14fb2a2057325814fb2a2057364a.jpg
+    alt:
+      en: "A dark building corner silhouetted against a hazy gray sky, with a bird in flight and small debris particles visible in the overcast air."
 geo:
 id: 13113
 item_type: Still Image

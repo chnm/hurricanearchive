@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0212.JPG
     thumb: /files/thumbnails/14fb2a137a8cdd14fb2a137a90c2.jpg
     url: /files/original/14fb2a137a8cdd14fb2a137a90c2.jpg
+    alt:
+      en: "Two uniformed personnel wearing flight helmets and tactical vests stand on a grassy area connected by cables, with trees, a path, and buildings visible in the background."
 geo:
 id: 19057
 item_type: Still Image

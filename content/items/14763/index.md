@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_12_aa36d271b6.jpg
     thumb: /files/thumbnails/14fb2a17dbbcec14fb2a17dbc0d1.jpg
     url: /files/original/14fb2a17dbbcec14fb2a17dbc0d1.jpg
+    alt:
+      en: "Three generations pose indoors for a photo: a young woman in a floral dress, an older woman in a red dress and decorative hat, and a girl in a yellow dress being held up between them."
 geo:
 id: 14763
 item_type: Still Image

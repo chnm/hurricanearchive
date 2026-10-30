@@ -21,6 +21,8 @@ files:
     original_filename: before trees north.jpg
     thumb: /files/thumbnails/14fb2a20bd33aa14fb2a20bd378f.jpg
     url: /files/original/14fb2a20bd33aa14fb2a20bd378f.jpg
+    alt:
+      en: "Wide parking lot shaded by large trees, with a chain-link fence, a \"Gulfport\" water tower, and distant industrial buildings beneath a cloudy sky."
 geo:
 id: 13052
 item_type: Still Image

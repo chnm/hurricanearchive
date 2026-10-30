@@ -21,6 +21,8 @@ files:
     original_filename: Upper parking lot Superdomesuperdome.jpg
     thumb: /files/thumbnails/14fb29ddbbbcd214fb29ddbbeb04.jpg
     url: /files/original/14fb29ddbbbcd214fb29ddbbeb04.jpg
+    alt:
+      en: "Elevated view of the Superdome's curved exterior and upper parking lot, with emergency vehicles, red medical helicopters, and a city skyline in the background."
 geo:
 id: 25438
 item_type: Still Image

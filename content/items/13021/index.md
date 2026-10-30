@@ -21,6 +21,8 @@ files:
     original_filename: almost naked Dave.jpg
     thumb: /files/thumbnails/14fb2a21302d7214fb2a21303154.jpg
     url: /files/original/14fb2a21302d7214fb2a21303154.jpg
+    alt:
+      en: "A person bends over near a parking structure barrier, jeans slipping to reveal their lower back, with signage reading \"RESERVED\" and \"259\" visible on the cable railing behind them."
 geo:
 id: 13021
 item_type: Still Image

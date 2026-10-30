@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2149rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13da191d14fb2a13da1cbe.jpg
     url: /files/original/14fb2a13da191d14fb2a13da1cbe.jpg
+    alt:
+      en: "Crew members in helmets and military fatigues lean out of a helicopter with a hoist cable, looking down at a flooded residential neighborhood with submerged streets and rooftops visible below."
 geo:
 id: 18987
 item_type: Still Image

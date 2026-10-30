@@ -21,6 +21,8 @@ files:
     original_filename: MVC-029S.JPG
     thumb: /files/thumbnails/14fb2a5f3d827a14fb2a5f3d85d8.jpg
     url: /files/original/14fb2a5f3d827a14fb2a5f3d85d8.jpg
+    alt:
+      en: "Close-up of an aircraft fuselage with peeling blue paint revealing bare metal patches, rivets along the seams, and damaged equipment visible in the blurred background above."
 geo:
 id: 2974
 item_type: Still Image

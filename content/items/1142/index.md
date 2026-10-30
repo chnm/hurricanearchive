@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28382.jpg
     thumb: /files/thumbnails/14fb2a6ad2ce6b14fb2a6ad2df65.jpg
     url: /files/original/14fb2a6ad2ce6b14fb2a6ad2df65.jpg
+    alt:
+      en: "A round cardboard shrimp net timing device with handwritten numbers and notes mounted on a wooden post, with a Garmin electronic unit above it and boats visible through the window behind."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0280.JPG
     thumb: /files/thumbnails/14fb2a5e8ccdd214fb2a5e8cd1af.jpg
     url: /files/original/14fb2a5e8ccdd214fb2a5e8cd1af.jpg
+    alt:
+      en: "Close-up view looking up at the bow of a large gray naval ship docked at a pier, with an anchor chain, hull number \"60\" partially visible, and a clear blue sky in the background."
 geo:
 id: 3031
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0285.JPG
     thumb: /files/thumbnails/14fb2a5e843d4114fb2a5e843ee5.jpg
     url: /files/original/14fb2a5e843d4114fb2a5e843ee5.jpg
+    alt:
+      en: "Close-up view of a large ship's hull, showing the waterline and rust staining above churning, foam-covered water alongside a dock railing."
 geo:
 id: 3036
 item_type: Still Image

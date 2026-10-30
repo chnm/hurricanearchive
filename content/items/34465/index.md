@@ -23,6 +23,8 @@ files:
     original_filename: 2326886300_87a91d940e.
     thumb: /files/thumbnails/14fb29c9e46ec014fb29c9e472a5.jpg
     url: /files/original/14fb29c9e46ec014fb29c9e472a5.jpg
+    alt:
+      en: "Large pile of storm debris—broken wood planks, furniture, appliances, and household items—covers a yard in front of damaged houses, one roofed with a blue tarp, under a partly cloudy sky."
 geo:
   address: ''
   lat: 30.22586

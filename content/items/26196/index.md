@@ -25,12 +25,16 @@ files:
     original_filename: _MG_6146_7a6950bc28.JPG
     thumb: /files/thumbnails/14fb29d9a3357c14fb29d9a33962.jpg
     url: /files/original/14fb29d9a3357c14fb29d9a33962.jpg
+    alt:
+      en: "Water-damaged studio portrait of a young man with a mustache and curly dark hair, smiling in a plaid button-down shirt, resting his arm on a ledge."
   - fullsize: /files/fullsize/14fb29d9a0287814fb29d9a02c5e.jpg
     id: 22801
     mime: image/jpeg
     original_filename: _MG_6147_f264172e19.JPG
     thumb: /files/thumbnails/14fb29d9a0287814fb29d9a02c5e.jpg
     url: /files/original/14fb29d9a0287814fb29d9a02c5e.jpg
+    alt:
+      en: "Studio portrait of a young man with curly dark hair and a mustache, smiling in a white plaid collared shirt; the aged photo shows water damage and discoloration around the edges and hair."
 geo:
 id: 26196
 item_type: Still Image

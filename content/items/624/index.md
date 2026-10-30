@@ -26,6 +26,8 @@ files:
     original_filename: The_new_testament_katrina_debris_8f082a0d1f.jpg
     thumb: /files/thumbnails/14fb2a6f56dcf514fb2a6f56e0f5.jpg
     url: /files/original/14fb2a6f56dcf514fb2a6f56e0f5.jpg
+    alt:
+      en: "A mud-caked cassette tape labeled \"The Old Testament, Tape 13, Side A,\" narrated by Alexander Scourby, lying broken and embedded in debris-strewn ground."
 geo:
   address: ''
   lat: 0.0

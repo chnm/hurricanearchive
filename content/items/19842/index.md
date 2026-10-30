@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d65b55514fb2a0d65bd3a.jpg
     url: /files/original/14fb2a0d65b55514fb2a0d65bd3a.jpg
+    alt:
+      en: "Worker in camouflage pants climbs through wooden roof trusses silhouetted against a bright sky, with another worker in a hard hat visible in the background below."
 geo:
 id: 19842
 item_type: Still Image

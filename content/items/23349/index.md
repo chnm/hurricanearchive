@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efd79a7014fb29efd79e57.jpg
     url: /files/original/14fb29efd79a7014fb29efd79e57.jpg
+    alt:
+      en: "Floodwaters surround two raised houses and a small aluminum boat, with a reddish storage container partially submerged between the buildings under a partly cloudy sky."
 geo:
 id: 23349
 item_type: Still Image

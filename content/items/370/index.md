@@ -26,6 +26,8 @@ files:
     original_filename: DSC03181_826b41ce1e.JPG
     thumb: /files/thumbnails/14fb2a7024045314fb2a70240831.jpg
     url: /files/original/14fb2a7024045314fb2a70240831.jpg
+    alt:
+      en: "Three men in camouflage pants and dark t-shirts stand around a yellow forklift loaded with pallets, with a semi-trailer and pine trees visible in the background."
 geo:
   address: ''
   lat: 30.6193002515347

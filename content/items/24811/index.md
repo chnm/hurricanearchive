@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2133superdome.JPG
     thumb: /files/thumbnails/14fb29e49dcf0e14fb29e49dd2ee.jpg
     url: /files/original/14fb29e49dcf0e14fb29e49dd2ee.jpg
+    alt:
+      en: "Military cargo truck with canvas canopy holding several men, one in camouflage uniform, parked under a covered structure; truck bed marked \"225GP 527E\" and \"B33.\""
 geo:
 id: 24811
 item_type: Still Image

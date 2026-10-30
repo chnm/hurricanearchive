@@ -23,6 +23,8 @@ files:
     original_filename: Congo_Square_Dancers_fc16225ba0.jpg
     thumb: /files/thumbnails/14fb29c2805f7114fb29c2806355.jpg
     url: /files/original/14fb29c2805f7114fb29c2806355.jpg
+    alt:
+      en: "A hand-painted sign amid storm debris and a concrete slab reads \"PLEASE DO NOT DAMAGE SLAB or DRIVEWAY, I WILL REBUILD,\" surrounded by broken bricks and rubble."
 geo:
 id: 42931
 item_type: Still Image

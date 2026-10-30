@@ -20,6 +20,8 @@ files:
     original_filename: 114536118_518f02c676.jpg
     thumb: /files/thumbnails/14fb29d1601e0b14fb29d16021e4.jpg
     url: /files/original/14fb29d1601e0b14fb29d16021e4.jpg
+    alt:
+      en: "Water-damaged room with a wooden table holding newspapers, cloth, and a puzzle box; a \"Family 6 Game Center\" box sits below, surrounded by charred, soot-covered debris on the floor."
 geo:
 id: 28716
 item_type: Still Image

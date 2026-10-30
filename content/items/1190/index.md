@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28589.jpg
     thumb: /files/thumbnails/14fb2a6a92c51514fb2a6a92db81.jpg
     url: /files/original/14fb2a6a92c51514fb2a6a92db81.jpg
+    alt:
+      en: "A large white boat sits stranded on grass amid storm debris, with a damaged house and palm trees in the background under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6704_bc73455984.jpg
     thumb: /files/thumbnails/14fb29d31f10af14fb29d31f1bbd.jpg
     url: /files/original/14fb29d31f10af14fb29d31f1bbd.jpg
+    alt:
+      en: "An elderly woman sits at a table decorated with a birthday cake topped with candles, as another woman leans in to light them; a child in costume sits nearby, with plates and silverware on the tablecloth."
 geo:
   address: ''
   lat: 29.95493

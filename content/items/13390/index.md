@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4990_eada683b54.jpg
     thumb: /files/thumbnails/14fb2a1e1c464814fb2a1e1c49fb.jpg
     url: /files/original/14fb2a1e1c464814fb2a1e1c49fb.jpg
+    alt:
+      en: "Family photo in a living room decorated for Christmas, with a boy and girl smiling in front of a woman kneeling beside them, another woman seated on a sofa behind, and a tree adorned with red bows and candy canes."
 geo:
 id: 13390
 item_type: Still Image

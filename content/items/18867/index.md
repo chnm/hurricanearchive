@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0084MSriver.JPG
     thumb: /files/thumbnails/14fb2a14d0a73a14fb2a14d0ab1c.jpg
     url: /files/original/14fb2a14d0a73a14fb2a14d0ab1c.jpg
+    alt:
+      en: "Aerial view of a dense residential cityscape extending to the horizon, with railroad tracks, boxcars, satellite dishes, and a burned-out building visible in the foreground."
 geo:
 id: 18867
 item_type: Still Image

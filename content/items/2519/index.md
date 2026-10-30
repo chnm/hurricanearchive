@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8691.jpg
     thumb: /files/thumbnails/14fb2a65c5bd9514fb2a65c5c17e.jpg
     url: /files/original/14fb2a65c5bd9514fb2a65c5c17e.jpg
+    alt:
+      en: "Weathered doorway of an abandoned house with \"SNAKES\" spray-painted on the sidelight windows and a plywood sign reading \"SNAKES INSIDE\" propped against the open front door."
 geo:
 id: 2519
 item_type: Still Image

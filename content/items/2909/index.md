@@ -21,6 +21,8 @@ files:
     original_filename: MVC-032S.JPG
     thumb: /files/thumbnails/14fb2a5f9adc5614fb2a5f9ae01e.jpg
     url: /files/original/14fb2a5f9adc5614fb2a5f9ae01e.jpg
+    alt:
+      en: "Three large gun barrels of a battleship's forward turret point skyward, with the ship's superstructure, radar masts, and antennas visible against a clear blue sky."
 geo:
 id: 2909
 item_type: Still Image

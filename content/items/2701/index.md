@@ -21,6 +21,8 @@ files:
     original_filename: 124.jpg
     thumb: /files/thumbnails/14fb2a607a712114fb2a607a7531.jpg
     url: /files/original/14fb2a607a712114fb2a607a7531.jpg
+    alt:
+      en: "Child's pencil drawing of a playground with a slide, swing set, and climbing structure, beneath clouds and birds in the sky, with the sun in the corner and handwritten text reading \"Erschnika Aug 13.\""
 geo:
 id: 2701
 item_type: Still Image

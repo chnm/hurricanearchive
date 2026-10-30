@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28408.jpg
     thumb: /files/thumbnails/14fb2a6cfeba9814fb2a6cfecb57.jpg
     url: /files/original/14fb2a6cfeba9814fb2a6cfecb57.jpg
+    alt:
+      en: "Two-story blue house with white trim and a flag-draped balcony, a hand-lettered sign reading \"New broke window but our spirit\" on the porch wall, and a teal pickup truck parked on the lawn."
 geo:
   address: ''
   lat: 0.0

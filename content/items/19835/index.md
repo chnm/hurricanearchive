@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d7decb114fb2a0d7df098.jpg
     url: /files/original/14fb2a0d7decb114fb2a0d7df098.jpg
+    alt:
+      en: "Construction worker in camouflage pants and a white hard hat stands beside yellow scaffolding inside a wood-framed building, with a row of newly installed shower fixtures and soap dispensers along the wall."
 geo:
 id: 19835
 item_type: Still Image

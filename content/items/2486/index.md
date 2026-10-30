@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8553.jpg
     thumb: /files/thumbnails/14fb2a65fe7a2f14fb2a65fecb37.jpg
     url: /files/original/14fb2a65fe7a2f14fb2a65fecb37.jpg
+    alt:
+      en: "Three people search through a destroyed home's wreckage—splintered wood, twisted metal roofing, drawers, and muddy clothing scattered across the debris field."
 geo:
 id: 2486
 item_type: Still Image

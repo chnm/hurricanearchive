@@ -23,6 +23,8 @@ files:
     original_filename: SCAN0010_08b6e22ac1.JPG
     thumb: /files/thumbnails/14fb29c2878ae814fb29c2878ec3.jpg
     url: /files/original/14fb29c2878ae814fb29c2878ec3.jpg
+    alt:
+      en: "Interior of a hurricane-damaged home with two ceiling fans, grimy walls, and furniture overturned and coated in mud and debris throughout the room."
 geo:
   address: 1718 Mendez St.
   lat: 30.01542

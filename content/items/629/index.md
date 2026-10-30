@@ -26,6 +26,8 @@ files:
     original_filename: Dead_Fish_on_the_Amite_River_after_Katrina_eff8a73b64.png
     thumb: /files/thumbnails/14fb2a6f546c1314fb2a6f546ff9.jpg
     url: /files/original/14fb2a6f546c1314fb2a6f546ff9.jpg
+    alt:
+      en: "Murky river water covered with scattered dead fish and debris, with dense trees along the bank reflected in the surface."
 geo:
   address: ''
   lat: 30.342352

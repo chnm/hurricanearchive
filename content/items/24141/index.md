@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea4d887c14fb29ea4d904f.jpg
     url: /files/original/14fb29ea4d887c14fb29ea4d904f.jpg
+    alt:
+      en: "Aerial view of a flat, flooded landscape under a hazy blue sky, with waterlogged fields, scattered patches of vegetation, and faint roadways crisscrossing the terrain."
 geo:
 id: 24141
 item_type: Still Image

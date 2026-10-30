@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28713.jpg
     thumb: /files/thumbnails/14fb2a6a61956e14fb2a6a619950.jpg
     url: /files/original/14fb2a6a61956e14fb2a6a619950.jpg
+    alt:
+      en: "A man in a cap and \"ASU\" shorts holds a blue lead rope attached to a chestnut horse with a halter, standing in a metal animal stall."
 geo:
   address: ''
   lat: 0.0

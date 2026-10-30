@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2170conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11c22ebe14fb2a11c232a3.jpg
     url: /files/original/14fb2a11c22ebe14fb2a11c232a3.jpg
+    alt:
+      en: "Armed soldiers in camouflage stand guard in a debris-strewn parking lot, with military vehicles, a fenced perimeter, discarded mattresses, and city high-rises visible in the background."
 geo:
 id: 19223
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2142rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13e2654114fb2a13e26f57.jpg
     url: /files/original/14fb2a13e2654114fb2a13e26f57.jpg
+    alt:
+      en: "Aerial view of an olive-drab military helicopter marked with red cross symbols and the number 2431, parked on a brick-paved surface."
 geo:
 id: 18980
 item_type: Still Image

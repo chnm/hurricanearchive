@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0145mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f309550e14fb29f30958f4.jpg
     url: /files/original/14fb29f309550e14fb29f30958f4.jpg
+    alt:
+      en: "A police officer in a navy \"POLICE\" t-shirt and duty belt speaks with a U.S. Army soldier in camouflage uniform beside a New Orleans police cruiser, with debris piles in the background."
 geo:
 id: 22855
 item_type: Still Image

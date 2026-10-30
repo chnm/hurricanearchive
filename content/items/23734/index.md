@@ -21,6 +21,8 @@ files:
     original_filename: P1010175empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed5ed9aa14fb29ed5edd76.jpg
     url: /files/original/14fb29ed5ed9aa14fb29ed5edd76.jpg
+    alt:
+      en: "Damaged fire station with sign reading \"Buras Volunteer Fire Department,\" bent and collapsed garage doors, a fire truck visible inside, and debris scattered across the parking lot."
 geo:
 id: 23734
 item_type: Still Image

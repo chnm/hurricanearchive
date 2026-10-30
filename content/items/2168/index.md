@@ -26,6 +26,8 @@ files:
     original_filename: kat16_91ca1d8489.JPG
     thumb: /files/thumbnails/14fb2a6d8d27e814fb2a6d8d2bc5.jpg
     url: /files/original/14fb2a6d8d27e814fb2a6d8d2bc5.jpg
+    alt:
+      en: "A man wearing a hat and tank top crouches in a leaf-covered grassy yard between two dogs, one tan with a harness and one brindle, at dusk with dark trees in the background."
 geo:
   address: ''
   lat: 31.1187943959895

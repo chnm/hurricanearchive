@@ -21,6 +21,8 @@ files:
     original_filename: GBuckley-6191_2feb2b7f3a.jpg
     thumb: /files/thumbnails/14fb2a16c6811114fb2a16c684f6.jpg
     url: /files/original/14fb2a16c6811114fb2a16c684f6.jpg
+    alt:
+      en: "Sepia-toned group photo of a youth basketball team, with a man and six young women standing in a back row and five young women kneeling in front, posed against a wood-paneled wall."
 geo:
 id: 15169
 item_type: Still Image

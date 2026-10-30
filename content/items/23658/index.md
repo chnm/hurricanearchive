@@ -21,6 +21,8 @@ files:
     original_filename: P1010099empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee0905c614fb29ee0908b0.jpg
     url: /files/original/14fb29ee0905c614fb29ee0908b0.jpg
+    alt:
+      en: "A large metal \"On Site Storage Rental Sales\" shipping container lies tipped on its side in a debris-strewn lot, with a fallen tree branch and utility pole nearby."
 geo:
 id: 23658
 item_type: Still Image

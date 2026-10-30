@@ -27,6 +27,8 @@ files:
     original_filename: 385028114_a57d927ff9.
     thumb: /files/thumbnails/14fb29d273a12014fb29d273beca.jpg
     url: /files/original/14fb29d273a12014fb29d273beca.jpg
+    alt:
+      en: "A man plays a wind instrument inside a gutted wood-frame house, lit by hanging candles, with windows, a makeshift display of plants and photos, and a red bucket nearby."
 geo:
 id: 28260
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 100_6907_31cb5a39ee.JPG
     thumb: /files/thumbnails/14fb2a6f72b4da14fb2a6f72b96b.jpg
     url: /files/original/14fb2a6f72b4da14fb2a6f72b96b.jpg
+    alt:
+      en: "A white trailer serving as the Pass Christian Library sits among bare trees, with a banner reading \"PASS CHRISTIAN LIBRARY NOW OPEN\" strung between parked cars; dated 01/09/2006."
 geo:
   address: ''
   lat: 30.005653

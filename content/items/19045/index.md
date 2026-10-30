@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001.JPG
     thumb: /files/thumbnails/14fb2a13849cb714fb2a1384a0a2.jpg
     url: /files/original/14fb2a13849cb714fb2a1384a0a2.jpg
+    alt:
+      en: "Soldier in camouflage uniform with helmet and gear stands on dry grass, an American flag patch visible on the sleeve, with buildings and a cloudy sky in the background."
 geo:
 id: 19045
 item_type: Still Image

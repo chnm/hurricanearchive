@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0983.JPG
     thumb: /files/thumbnails/14fb2a57fc435914fb2a57fc4730.jpg
     url: /files/original/14fb2a57fc435914fb2a57fc4730.jpg
+    alt:
+      en: "A U-Haul moving truck lies tipped on its side on a grassy median, with a multistory office building behind it showing a damaged, torn-open section of its facade near the roofline."
 geo:
 id: 4084
 item_type: Still Image

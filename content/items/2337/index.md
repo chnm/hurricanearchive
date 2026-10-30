@@ -26,6 +26,8 @@ files:
     original_filename: 100_1275_81e5cf1aca.JPG
     thumb: /files/thumbnails/14fb2a6d49cc7f14fb2a6d49d446.jpg
     url: /files/original/14fb2a6d49cc7f14fb2a6d49d446.jpg
+    alt:
+      en: "High-rise glass office building in downtown New Orleans with numerous shattered and missing windows on its upper floors, set against a clear blue sky."
 geo:
   address: ''
   lat: 30.4447519598356

@@ -21,6 +21,8 @@ files:
     original_filename: FH000013.jpg
     thumb: /files/thumbnails/14fb29fc70548914fb29fc70586d.jpg
     url: /files/original/14fb29fc70548914fb29fc70586d.jpg
+    alt:
+      en: "Mobile homes and a storage shed sit scattered across a dirt lot with dead shrubs and debris, photographed from inside a vehicle with a side mirror visible in the foreground."
 geo:
 id: 21682
 item_type: Still Image

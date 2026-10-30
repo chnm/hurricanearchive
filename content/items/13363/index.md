@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4872_5f8ac8f63d.jpg
     thumb: /files/thumbnails/14fb2a1e33e06414fb2a1e33e452.jpg
     url: /files/original/14fb2a1e33e06414fb2a1e33e452.jpg
+    alt:
+      en: "A St. Bernard Parish Middle School report card for student Jackson Chantel Lindsey, 2003-2004, grade 6, listing courses, teachers, and mostly A grades with a few B's across four nine-week periods."
 geo:
 id: 13363
 item_type: Still Image

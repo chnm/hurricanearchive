@@ -20,6 +20,8 @@ files:
     original_filename: 2456562535_495c9c3d46.
     thumb: /files/thumbnails/14fb29c8751ddc14fb29c87521c1.jpg
     url: /files/original/14fb29c8751ddc14fb29c87521c1.jpg
+    alt:
+      en: "Aerial view of the Lake Cataouatche Levee, showing a muddy river alongside a reinforced embankment with construction equipment, bordered by dense green forest and a transmission line."
 geo:
 id: 34929
 item_type: Still Image

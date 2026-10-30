@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 020.jpg
     thumb: /files/thumbnails/14fb2a22c7866614fb2a22c78a43.jpg
     url: /files/original/14fb2a22c7866614fb2a22c78a43.jpg
+    alt:
+      en: "Photo taken from inside a moving vehicle shows a storm-damaged building with its roof torn off and a hand-painted sign reading \"NEED FEMA,\" with a cyclist passing by; dated 2005/09/24."
 geo:
 id: 11898
 item_type: Still Image

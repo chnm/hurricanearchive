@@ -21,6 +21,8 @@ files:
     original_filename: P1010154empireS&R.JPG
     thumb: /files/thumbnails/14fb29eda31a6114fb29eda31e46.jpg
     url: /files/original/14fb29eda31a6114fb29eda31e46.jpg
+    alt:
+      en: "Flood-damaged landscape with wind-stripped trees, scattered debris, and a muddy drainage canal in the foreground; a partially collapsed building stands in the background under power lines."
 geo:
 id: 23713
 item_type: Still Image

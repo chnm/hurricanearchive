@@ -21,6 +21,8 @@ files:
     original_filename: 117.jpg
     thumb: /files/thumbnails/14fb2a608338ef14fb2a60833cd5.jpg
     url: /files/original/14fb2a608338ef14fb2a60833cd5.jpg
+    alt:
+      en: "Child's crayon drawing by \"Garyell, Age 6\" titled \"Hurricane Katrina,\" featuring a smiling sun, trees, flowers, red and blue hearts on stems, clouds, grass, and a dark blue wavy border."
 geo:
 id: 2693
 item_type: Still Image

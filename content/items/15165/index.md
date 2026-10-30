@@ -21,6 +21,8 @@ files:
     original_filename: IPerez-6047_6b2f26e690.jpg
     thumb: /files/thumbnails/14fb2a16c9c5af14fb2a16c9c945.jpg
     url: /files/original/14fb2a16c9c5af14fb2a16c9c945.jpg
+    alt:
+      en: "Two smiling men in hunting attire kneel beside a large pile of harvested game birds, each holding several birds in their hands, with decoys and equipment visible nearby."
 geo:
 id: 15165
 item_type: Still Image

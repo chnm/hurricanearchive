@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-06-5Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e577af7114fb29e577b540.jpg
     url: /files/original/14fb29e577af7114fb29e577b540.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues form a line to unload cases of bottled water from a Black Hawk helicopter parked on pavement, with trees visible in the background."
 geo:
 id: 24704
 item_type: Still Image

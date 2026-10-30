@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1928superdome.JPG
     thumb: /files/thumbnails/14fb29e0a094fd14fb29e0a09812.jpg
     url: /files/original/14fb29e0a094fd14fb29e0a09812.jpg
+    alt:
+      en: "A dark military Chinook helicopter sits on a rooftop helipad with several uniformed personnel nearby, stacked water bottle cases to the side, and a city skyline with a \"Delgado Community College\" building visible in the background."
 geo:
 id: 25229
 item_type: Still Image

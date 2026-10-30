@@ -21,6 +21,8 @@ files:
     original_filename: P1010022.JPG
     thumb: /files/thumbnails/14fb29fc3273a014fb29fc327786.jpg
     url: /files/original/14fb29fc3273a014fb29fc327786.jpg
+    alt:
+      en: "Interior of a military cargo aircraft loaded with a vehicle, red tool chests, bottled water cases, and tan duffel bags, with a person in camouflage fatigues visible near a \"FLAMMABLE LIQUID\" placard and \"EMERGENCY EXIT\" sign."
 geo:
 id: 21719
 item_type: Still Image

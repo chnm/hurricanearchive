@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2144rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13e0fc6214fb2a13e10046.jpg
     url: /files/original/14fb2a13e0fc6214fb2a13e10046.jpg
+    alt:
+      en: "Aerial view from a helicopter showing two uniformed personnel in harnesses working atop a shingled rooftop, with the helicopter's dark metal structure and tire visible in the foreground."
 geo:
 id: 18982
 item_type: Still Image

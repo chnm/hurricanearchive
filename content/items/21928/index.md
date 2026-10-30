@@ -21,6 +21,8 @@ files:
     original_filename: Picture 259-J2.jpg
     thumb: /files/thumbnails/14fb29faf41c5814fb29faf42035.jpg
     url: /files/original/14fb29faf41c5814fb29faf42035.jpg
+    alt:
+      en: "Large pipes discharge turbulent, foaming water into a concrete-lined canal, with power lines, utility poles, and industrial structures visible along the horizon under a clear blue sky."
 geo:
 id: 21928
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005alero.JPG
     thumb: /files/thumbnails/14fb2a15663b7014fb2a15664021.jpg
     url: /files/original/14fb2a15663b7014fb2a15664021.jpg
+    alt:
+      en: "Aerial view of a staging area with a large green-roofed arena, rows of military vehicles, a baseball field marked \"Segnette Field,\" portable toilets, and a residential neighborhood in the background."
 geo:
 id: 18716
 item_type: Still Image

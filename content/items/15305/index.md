@@ -21,6 +21,8 @@ files:
     original_filename: CHenderson4-topright-Claire Henderson 4_af5dd45414.jpg
     thumb: /files/thumbnails/14fb2a16a2f95814fb2a16a2fd35.jpg
     url: /files/original/14fb2a16a2f95814fb2a16a2fd35.jpg
+    alt:
+      en: "Elderly woman with glasses and short hair, wearing a black top with a houndstooth panel, smiling faintly; the photograph is heavily damaged with swirling patterns of yellow, brown, and white discoloration."
 geo:
 id: 15305
 item_type: Still Image

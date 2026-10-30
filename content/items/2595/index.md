@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9514.jpg
     thumb: /files/thumbnails/14fb2a6461a9df14fb2a6461ac7b.jpg
     url: /files/original/14fb2a6461a9df14fb2a6461ac7b.jpg
+    alt:
+      en: "White box truck spray-painted with rescue notes (\"5 DOGS,\" \"Intact 2 dogs,\" dates, dead animals) parked beside a building marked \"FOOD + WATER + ICE, DOGS NOT LEAVING,\" with bedding piled on the ground nearby."
 geo:
 id: 2595
 item_type: Still Image

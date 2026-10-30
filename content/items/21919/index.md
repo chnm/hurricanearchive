@@ -21,6 +21,8 @@ files:
     original_filename: Xavier University.jpg
     thumb: /files/thumbnails/14fb29fafe35b814fb29fafe3994.jpg
     url: /files/original/14fb29fafe35b814fb29fafe3994.jpg
+    alt:
+      en: "Aerial view of Xavier University's flooded campus, with a church, parking garages, and surrounding residential streets submerged in floodwater after Hurricane Katrina."
 geo:
 id: 21919
 item_type: Still Image

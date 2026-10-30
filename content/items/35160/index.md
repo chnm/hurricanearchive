@@ -23,6 +23,8 @@ files:
     original_filename: 2442375335_6a42885f2c.jpg
     thumb: /files/thumbnails/14fb29c76db28814fb29c76db66d.jpg
     url: /files/original/14fb29c76db28814fb29c76db66d.jpg
+    alt:
+      en: "Weathered white house with a rusted roof, boarded windows, and a chain-link fence overgrown with vegetation; spray-painted markings including \"910,\" an X symbol, and \"9-22\" appear on the facade, likely a post-hurricane search/status marking."
 geo:
 id: 35160
 item_type: Still Image

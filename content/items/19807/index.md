@@ -21,6 +21,8 @@ files:
     original_filename: DSC00835gillslong.JPG
     thumb: /files/thumbnails/14fb2a0db0ab5914fb2a0db0b327.jpg
     url: /files/original/14fb2a0db0ab5914fb2a0db0b327.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms seated around a conference table in a meeting room, with additional service members standing along the back wall near two projector screens."
 geo:
 id: 19807
 item_type: Still Image

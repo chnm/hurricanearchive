@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0257-9-25.JPG
     thumb: /files/thumbnails/14fb29febb9da414fb29febba17d.jpg
     url: /files/original/14fb29febb9da414fb29febba17d.jpg
+    alt:
+      en: "Aerial view of a flooded street lined with buildings, trees, and a Shell gas station sign, with a \"Champagne's\" sign also visible above the murky brown floodwaters."
 geo:
 id: 21441
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward.jpg
     thumb: /files/thumbnails/14fb2a5c5c764914fb2a5c5c7a2f.jpg
     url: /files/original/14fb2a5c5c764914fb2a5c5c7a2f.jpg
+    alt:
+      en: "Damaged, debris-covered street lined with storm-wrecked houses, a dead tree, and non-functioning traffic signals hanging from overhead wires."
 geo:
 id: 3333
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0548.JPG
     thumb: /files/thumbnails/14fb2a53757bdd14fb2a53757fbe.jpg
     url: /files/original/14fb2a53757bdd14fb2a53757fbe.jpg
+    alt:
+      en: "A concrete slab foundation with a wooden support beam and vertical post, scattered debris and dried plant matter along a seam in the concrete, with long shadows cast across the surface."
 geo:
 id: 5186
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0145-9-25.JPG
     thumb: /files/thumbnails/14fb2a0212637c14fb2a021265d8.jpg
     url: /files/original/14fb2a0212637c14fb2a021265d8.jpg
+    alt:
+      en: "Aerial view of floodwaters surrounding broken pilings and debris, with a damaged building labeled \"Canik's Hardware Co.\" and storm-stripped trees along the shoreline."
 geo:
 id: 20909
 item_type: Still Image

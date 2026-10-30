@@ -21,6 +21,8 @@ files:
     original_filename: J2 (35).JPG
     thumb: /files/thumbnails/14fb2a113512b814fb2a1135167e.jpg
     url: /files/original/14fb2a113512b814fb2a1135167e.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses submerged up to their roofs in brown floodwater, surrounded by bare and leafy trees, with a partially visible road in the foreground."
 geo:
 id: 19317
 item_type: Still Image

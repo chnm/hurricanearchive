@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27866.jpg
     thumb: /files/thumbnails/14fb2a6a770a6f14fb2a6a770e55.jpg
     url: /files/original/14fb2a6a770a6f14fb2a6a770e55.jpg
+    alt:
+      en: "A young man stands in a small boat, using a pole to navigate floodwaters surrounding a house, with submerged yards, trees, and a porch visible in the background."
 geo:
   address: ''
   lat: 0.0

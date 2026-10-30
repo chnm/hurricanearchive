@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1472superdome.JPG
     thumb: /files/thumbnails/14fb29e39b12a314fb29e39b1689.jpg
     url: /files/original/14fb29e39b12a314fb29e39b1689.jpg
+    alt:
+      en: "Military helicopter flies over an elevated highway interchange as soldiers in camouflage stand near parked military trucks and Humvees, with a statue and highway signs reading \"Westbank\" and \"Claiborne Ave\" in the background."
 geo:
 id: 24956
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 010.jpg
     thumb: /files/thumbnails/14fb2a59f56fcd14fb2a59f573ac.jpg
     url: /files/original/14fb2a59f56fcd14fb2a59f573ac.jpg
+    alt:
+      en: "A storm-damaged house with a partially collapsed porch sits on a grassy lot behind scattered debris and broken trees, with a paved road running along the foreground."
 geo:
 id: 3730
 item_type: Still Image

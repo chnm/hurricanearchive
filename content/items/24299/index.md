@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-19-18A.jpg
     thumb: /files/thumbnails/14fb29e8ee1b6f14fb29e8ee1f37.jpg
     url: /files/original/14fb29e8ee1b6f14fb29e8ee1f37.jpg
+    alt:
+      en: "High-angle view of a large group of people boarding a military-style truck beside floodwater, with a concrete structure and railing visible in the background."
 geo:
 id: 24299
 item_type: Still Image

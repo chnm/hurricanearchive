@@ -26,6 +26,8 @@ files:
     original_filename: hurricane_katrina_007_85da3a90df.jpg
     thumb: /files/thumbnails/14fb2a6e70c9dc14fb2a6e70cde8.jpg
     url: /files/original/14fb2a6e70c9dc14fb2a6e70cde8.jpg
+    alt:
+      en: "Floodwater submerges a residential street up to a stop sign and partially covers a parked vehicle, with houses, a power line, and a tree rising from the water under a cloudy sky."
 geo:
   address: ''
   lat: 30.000658679387698

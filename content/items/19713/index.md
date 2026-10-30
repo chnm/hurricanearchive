@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 100cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e36c99d14fb2a0e36cda1.jpg
     url: /files/original/14fb2a0e36c99d14fb2a0e36cda1.jpg
+    alt:
+      en: "A red STOP sign stands beside a storm-damaged street with a fallen tree, uprooted debris, mud-covered ground, and a dented utility pole in front of a house with light-colored siding."
 geo:
 id: 19713
 item_type: Still Image

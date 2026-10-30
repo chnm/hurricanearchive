@@ -21,6 +21,8 @@ files:
     original_filename: 99.jpg
     thumb: /files/thumbnails/14fb2a5ffe800214fb2a5ffe83e6.jpg
     url: /files/original/14fb2a5ffe800214fb2a5ffe83e6.jpg
+    alt:
+      en: "Blank white page with a stamped rectangular box of handwritten blue text in the upper left corner and a green vertical strip along the right edge."
 geo:
 id: 2807
 item_type: Still Image

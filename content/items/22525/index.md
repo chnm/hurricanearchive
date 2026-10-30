@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1366Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5a540b514fb29f5a544a8.jpg
     url: /files/original/14fb29f5a540b514fb29f5a544a8.jpg
+    alt:
+      en: "Floodwater submerges a street and lamppost, with shrubs partially underwater and a red brick building and gray-roofed structure visible in the background under an overcast sky."
 geo:
 id: 22525
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IreneJuneau-web_96661410f7.jpg
     thumb: /files/thumbnails/14fb29dd979ff614fb29dd97a3d9.jpg
     url: /files/original/14fb29dd979ff614fb29dd97a3d9.jpg
+    alt:
+      en: "Water-damaged studio portrait of a young blonde girl in a pale green top, the right half of the image severely faded and discolored, leaving only the left side clearly visible."
 geo:
 id: 25478
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CB Bogalusa 1940s_942b8721e4.jpg
     thumb: /files/thumbnails/14fb29d8ea1c0b14fb29d8ea1ff1.jpg
     url: /files/original/14fb29d8ea1c0b14fb29d8ea1ff1.jpg
+    alt:
+      en: "Sepia-toned vintage photograph of a horse-drawn wagon carrying several people down a dirt road, with a parked truck and farm buildings in the background; decorative border and faded handwritten notes frame the print."
 geo:
   address: ''
   lat: 29.87876

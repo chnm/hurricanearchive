@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0571.JPG
     thumb: /files/thumbnails/14fb2a568d106114fb2a568d1446.jpg
     url: /files/original/14fb2a568d106114fb2a568d1446.jpg
+    alt:
+      en: "Rows of concrete block piers remain standing where a house once stood, now surrounded by scattered debris, broken wood, and stripped trees in the aftermath of storm destruction."
 geo:
 id: 4642
 item_type: Still Image

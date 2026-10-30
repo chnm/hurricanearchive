@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0130-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0320621614fb2a03206a5f.jpg
     url: /files/original/14fb2a0320621614fb2a03206a5f.jpg
+    alt:
+      en: "Aerial view of a storm-damaged building with its roof partially stripped, surrounded by scattered debris, a stranded school bus, a pickup truck, downed trees, and flooded roads."
 geo:
 id: 20839
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0082grandisle.JPG
     thumb: /files/thumbnails/14fb2a14d32b9e14fb2a14d32f95.jpg
     url: /files/original/14fb2a14d32b9e14fb2a14d32f95.jpg
+    alt:
+      en: "Aerial view from an aircraft window of a storm-damaged coastal community with scattered houses, debris, a few standing buildings, bare trees, a dark pond, and a wide river in the background."
 geo:
 id: 18865
 item_type: Still Image

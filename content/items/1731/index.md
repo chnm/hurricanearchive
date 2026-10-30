@@ -26,6 +26,8 @@ files:
     original_filename: HollyBeachLa_53b2615150.jpg
     thumb: /files/thumbnails/14fb2a6f0501ef14fb2a6f0505c0.jpg
     url: /files/original/14fb2a6f0501ef14fb2a6f0505c0.jpg
+    alt:
+      en: "Debris field of twisted metal beams, scattered appliances, and wood planks sits in shallow floodwater, with downed utility poles visible in the background under a partly cloudy sky."
 geo:
   address: ''
   lat: 30.148461

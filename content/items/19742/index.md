@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 129cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e1ed5bd14fb2a0e1ed9a2.jpg
     url: /files/original/14fb2a0e1ed5bd14fb2a0e1ed9a2.jpg
+    alt:
+      en: "A military vehicle drives through an entrance gate marked \"NO EXIT,\" \"EXIT AFTER 7th RACE,\" and \"EXIT,\" with a storm-damaged two-story building and golf cart visible in the background."
 geo:
 id: 19742
 item_type: Still Image

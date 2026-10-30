@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28224.jpg
     thumb: /files/thumbnails/14fb2a67b5df7d14fb2a67b5e361.jpg
     url: /files/original/14fb2a67b5df7d14fb2a67b5e361.jpg
+    alt:
+      en: "Cleared lot with scattered brick rubble and a small American flag beside a sign reading \"St. Clare Catholic Church, Sunday Mass 10 Am, Please Bring Your Own Chair,\" with a Quonset hut and trailers in the background."
 geo:
   address: ''
   lat: 0.0

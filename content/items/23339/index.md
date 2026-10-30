@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0055abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efe3f81214fb29efe3fbef.jpg
     url: /files/original/14fb29efe3f81214fb29efe3fbef.jpg
+    alt:
+      en: "A single-story house with a white porch railing stands in floodwater that reaches its windows, with a red pickup truck partially submerged nearby and a large tree beside it."
 geo:
 id: 23339
 item_type: Still Image

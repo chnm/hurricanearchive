@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0120gillslong.JPG
     thumb: /files/thumbnails/14fb2a0ced263114fb2a0ced2b5b.jpg
     url: /files/original/14fb2a0ced263114fb2a0ced2b5b.jpg
+    alt:
+      en: "Several workers in white hard hats and camouflage or tan clothing install a large plywood panel against wooden framing, with one man climbing a ladder to position the upper section."
 geo:
 id: 19888
 item_type: Still Image

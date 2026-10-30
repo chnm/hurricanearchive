@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0195-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a00071bdb14fb2a00071fb2.jpg
     url: /files/original/14fb2a00071bdb14fb2a00071fb2.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with torn roofs and a debris-filled pool, surrounded by snapped and uprooted trees across a residential/commercial complex."
 geo:
 id: 21198
 item_type: Still Image

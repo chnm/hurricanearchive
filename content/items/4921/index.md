@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0240.JPG
     thumb: /files/thumbnails/14fb2a54f46fbe14fb2a54f475cf.jpg
     url: /files/original/14fb2a54f46fbe14fb2a54f475cf.jpg
+    alt:
+      en: "Rows of cracked and stacked cinder blocks lie amid debris on a dirt and concrete surface, with dried leaves and scattered rubble covering the ground nearby."
 geo:
 id: 4921
 item_type: Still Image

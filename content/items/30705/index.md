@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7402.JPG
     thumb: /files/thumbnails/14fb29ccc8dcc714fb29ccc8e0ad.jpg
     url: /files/original/14fb29ccc8dcc714fb29ccc8e0ad.jpg
+    alt:
+      en: "Uprooted tree with exposed root ball lies toppled across a yard, surrounded by fallen branches and debris, with a wooden structure covered in green mesh visible at left."
 geo:
 id: 30705
 item_type: Still Image

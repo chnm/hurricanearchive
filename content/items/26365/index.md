@@ -21,6 +21,8 @@ files:
     original_filename: Lionell Powell_5838_d26e891d32.jpg
     thumb: /files/thumbnails/14fb29d92adb1514fb29d92ae900.jpg
     url: /files/original/14fb29d92adb1514fb29d92ae900.jpg
+    alt:
+      en: "Wedding photo of a bride and groom in white attire, holding hands and smiling, the bride in a lace gown and veil; the photograph's surface is heavily damaged with flaking and discoloration."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

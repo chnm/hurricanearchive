@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1183Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7024e5614fb29f702523b.jpg
     url: /files/original/14fb29f7024e5614fb29f702523b.jpg
+    alt:
+      en: "Nighttime scene of military personnel in camouflage uniforms working on small aluminum boats on dark water, with one man wearing an orange life vest and others tending equipment and gas cans nearby."
 geo:
 id: 22366
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1530superdome.JPG
     thumb: /files/thumbnails/14fb29e2f91cc914fb29e2f920af.jpg
     url: /files/original/14fb29e2f91cc914fb29e2f920af.jpg
+    alt:
+      en: "Group of men, including a military officer and New Orleans police officers, walk across a concrete lot near wooden stairs and a ramp, with a \"Welcome to New Orleans\" sign and elevated highway in the background."
 geo:
 id: 25008
 item_type: Still Image

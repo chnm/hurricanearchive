@@ -23,6 +23,8 @@ files:
     original_filename: 162463594_925665013c.jpg
     thumb: /files/thumbnails/14fb29d232b74914fb29d232bb30.jpg
     url: /files/original/14fb29d232b74914fb29d232bb30.jpg
+    alt:
+      en: "A garage-like room with a freshly painted blue floor, cluttered with furniture, a red car, bicycles, shelving, and a framed portrait leaning against the wall."
 geo:
 id: 28592
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010080.JPG
     thumb: /files/thumbnails/14fb2a5b48bb3314fb2a5b48bf18.jpg
     url: /files/original/14fb2a5b48bb3314fb2a5b48bf18.jpg
+    alt:
+      en: "Damaged house with red spray-painted text reading \"SPCA no cats FW found 9/28 Dead Animal\" on the white facade, with a barred red door, debris, and dead shrubs in front."
 geo:
 id: 3506
 item_type: Still Image

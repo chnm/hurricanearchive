@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0202mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2f4ce4414fb29f2f4d22a.jpg
     url: /files/original/14fb29f2f4ce4414fb29f2f4d22a.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand in profile, one wearing sunglasses, with an American flag patch visible on the nearer soldier's shoulder and a military vehicle in the background."
 geo:
 id: 22874
 item_type: Still Image

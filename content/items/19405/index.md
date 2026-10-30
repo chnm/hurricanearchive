@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0051engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a1088424614fb2a10884636.jpg
     url: /files/original/14fb2a1088424614fb2a10884636.jpg
+    alt:
+      en: "A U.S. Army soldier wearing a hard hat and goggles operates a yellow Komatsu skid-steer loader amid storm debris, with damaged houses visible in the background."
 geo:
 id: 19405
 item_type: Still Image

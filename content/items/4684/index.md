@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0635.JPG
     thumb: /files/thumbnails/14fb2a5634cb0314fb2a5634cc6a.jpg
     url: /files/original/14fb2a5634cb0314fb2a5634cc6a.jpg
+    alt:
+      en: "Water-damaged ceiling with torn insulation and tiles hanging down, exposing the underlying structure amid surrounding white drop ceiling panels."
 geo:
 id: 4684
 item_type: Still Image

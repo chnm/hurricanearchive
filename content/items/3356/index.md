@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (7).JPG
     thumb: /files/thumbnails/14fb2a5c4083e614fb2a5c40c01c.jpg
     url: /files/original/14fb2a5c4083e614fb2a5c40c01c.jpg
+    alt:
+      en: "Two-story white house with brown roof stands amid storm debris and fallen trees, with a leaning utility pole, traffic cones, and construction pipes in a gravel lot in foreground."
 geo:
 id: 3356
 item_type: Still Image

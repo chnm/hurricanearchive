@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7437.JPG
     thumb: /files/thumbnails/14fb29cca2f73414fb29cca2fb1a.jpg
     url: /files/original/14fb29cca2f73414fb29cca2fb1a.jpg
+    alt:
+      en: "A dark blue wood-sided house with a metal roof is partially obscured by large fallen tree branches and leafy debris covering its porch and yard, with sunlight streaking through the foliage."
 geo:
 id: 30736
 item_type: Still Image

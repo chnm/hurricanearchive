@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a06f3b0ba14fb2a06f3b711.jpg
     url: /files/original/14fb2a06f3b0ba14fb2a06f3b711.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms stand talking outside a brick building, one in woodland camo with nametag \"TANGUY\" and the other in digital camo pattern resting a hand on his shoulder."
 geo:
 id: 20475
 item_type: Still Image

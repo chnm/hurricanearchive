@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28661.jpg
     thumb: /files/thumbnails/14fb2a6b89d37c14fb2a6b89d76a.jpg
     url: /files/original/14fb2a6b89d37c14fb2a6b89d76a.jpg
+    alt:
+      en: "Rows of wire animal crates line a dirt-floored building, with a dog standing in one crate and a person tending to supplies on a table amid the makeshift shelter."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037cameronS&R.JPG
     thumb: /files/thumbnails/14fb29f021d1c914fb29f021d5ae.jpg
     url: /files/original/14fb29f021d1c914fb29f021d5ae.jpg
+    alt:
+      en: "Aerial view of a coastal community reduced to scattered foundations and debris along a flooded, grid-patterned street layout, with the ocean on one side and marshland on the other."
 geo:
 id: 23283
 item_type: Still Image

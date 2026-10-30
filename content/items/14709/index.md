@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DannishDanionGreen_09_f0278d0944.jpg
     thumb: /files/thumbnails/14fb2a180949aa14fb2a18094d99.jpg
     url: /files/original/14fb2a180949aa14fb2a18094d99.jpg
+    alt:
+      en: "A young girl in a white outfit crouches beside a toddler wearing a red cap and striped overalls, both smiling in a bedroom near a dresser and plastic storage drawers."
 geo:
 id: 14709
 item_type: Still Image

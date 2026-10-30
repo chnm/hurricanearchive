@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28399.jpg
     thumb: /files/thumbnails/14fb2a684872f814fb2a6848798e.jpg
     url: /files/original/14fb2a684872f814fb2a6848798e.jpg
+    alt:
+      en: "Two people stand on a wooden dock beside the docked shrimp boat \"Miss Brittany\" of Biloxi, MS, with rigging, nets, and tires visible along its blue hull."
 geo:
   address: ''
   lat: 0.0

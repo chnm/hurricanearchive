@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019-15.JPG
     thumb: /files/thumbnails/14fb2a07089b5914fb2a07089f36.jpg
     url: /files/original/14fb2a07089b5914fb2a07089f36.jpg
+    alt:
+      en: "Aerial view through an aircraft window, with dark silhouetted shapes framing the edges, looking down on a blurred landscape of buildings and rooftops below."
 geo:
 id: 20464
 item_type: Still Image

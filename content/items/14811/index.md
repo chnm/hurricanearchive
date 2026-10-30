@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TrinityMiller_06_a7851f30d2.jpg
     thumb: /files/thumbnails/14fb2a178c202e14fb2a178c23d6.jpg
     url: /files/original/14fb2a178c202e14fb2a178c23d6.jpg
+    alt:
+      en: "Two young girls with decorated braided hairstyles stand together in wooden pews, one in a pale blue dress and the other in a red, white, and blue star-patterned dress, with other people seated nearby."
 geo:
 id: 14811
 item_type: Still Image

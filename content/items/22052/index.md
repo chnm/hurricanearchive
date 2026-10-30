@@ -21,6 +21,8 @@ files:
     original_filename: Picture 383-J2.jpg
     thumb: /files/thumbnails/14fb29f9d2767214fb29f9d27a57.jpg
     url: /files/original/14fb29f9d2767214fb29f9d27a57.jpg
+    alt:
+      en: "Rows of military cots fill a large warehouse-like building, covered with sleeping bags, backpacks, and gear, as uniformed personnel sit and rest among the crowded aisles."
 geo:
 id: 22052
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0317_1f78aeb587.JPG
     thumb: /files/thumbnails/14fb2a6fc5913014fb2a6fc59bd7.jpg
     url: /files/original/14fb2a6fc5913014fb2a6fc59bd7.jpg
+    alt:
+      en: "A large pile of flood-damaged household items—including mattresses, a sofa, chairs, and a dresser—heaped at the curb in front of a pink house with a columned porch."
 geo:
   address: ''
   lat: 29.916852233070202

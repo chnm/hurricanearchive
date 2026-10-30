@@ -21,6 +21,8 @@ files:
     original_filename: Picture 191cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b59c00714fb2a0b59e55c.jpg
     url: /files/original/14fb2a0b59c00714fb2a0b59e55c.jpg
+    alt:
+      en: "A paved lot scattered with loose gravel piles and small rocks, fronting a grassy area with large uprooted and fallen trees still tangled together under a blue sky."
 geo:
 id: 20094
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0174abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef09387d14fb29ef093c62.jpg
     url: /files/original/14fb29ef09387d14fb29ef093c62.jpg
+    alt:
+      en: "Floodwater surrounds a partially collapsed carport-like structure and a white building, with bare trees overhead and a mailbox visible in the foreground at dusk."
 geo:
 id: 23549
 item_type: Still Image

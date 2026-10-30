@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28138.jpg
     thumb: /files/thumbnails/14fb2a6812f7dc14fb2a6812fbc2.jpg
     url: /files/original/14fb2a6812f7dc14fb2a6812fbc2.jpg
+    alt:
+      en: "Gutted building interior with exposed wood framing, a wooden Windsor chair, a yellow wet/dry vacuum, and scattered debris on a concrete floor."
 geo:
   address: ''
   lat: 0.0

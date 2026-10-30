@@ -26,6 +26,8 @@ files:
     original_filename: Rita_015_28dfe66322.jpg
     thumb: /files/thumbnails/14fb2a6f5d21fb14fb2a6f5d25e1.jpg
     url: /files/original/14fb2a6f5d21fb14fb2a6f5d25e1.jpg
+    alt:
+      en: "A small metal-sided shed structure lies collapsed and damaged on its side in a grassy area, with debris scattered nearby, a young tree in the foreground, and pine trees under a cloudy sky."
 geo:
   address: ''
   lat: 30.281836

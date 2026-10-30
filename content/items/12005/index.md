@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 053.jpg
     thumb: /files/thumbnails/14fb2a225e464a14fb2a225e4a30.jpg
     url: /files/original/14fb2a225e464a14fb2a225e4a30.jpg
+    alt:
+      en: "Skeletal wooden framing of a partially built or storm-damaged structure with a white staircase, surrounded by bare, storm-stripped pine trees and a debris-strewn lawn."
 geo:
 id: 12005
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001OEP.JPG
     thumb: /files/thumbnails/14fb29f23619b414fb29f2361f4c.jpg
     url: /files/original/14fb29f23619b414fb29f2361f4c.jpg
+    alt:
+      en: "Flat rooftop in foreground overlooks a strip mall with metal awnings, parking lot with cars and trucks, light poles, trees, and a billboard against a hazy sky."
 geo:
 id: 22991
 item_type: Still Image

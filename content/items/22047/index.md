@@ -21,6 +21,8 @@ files:
     original_filename: Picture 378-J2.jpg
     thumb: /files/thumbnails/14fb29f9de31ac14fb29f9de3593.jpg
     url: /files/original/14fb29f9de31ac14fb29f9de3593.jpg
+    alt:
+      en: "Interior room with overturned wicker chairs, a water dispenser, and a cabinet, with mud-tracked footprints and debris covering the tiled floor."
 geo:
 id: 22047
 item_type: Still Image

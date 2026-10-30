@@ -26,6 +26,8 @@ files:
     original_filename: Hurricane_Katrina_004_86d7273171.jpg
     thumb: /files/thumbnails/14fb2a6f6d4c8214fb2a6f6d500e.jpg
     url: /files/original/14fb2a6f6d4c8214fb2a6f6d500e.jpg
+    alt:
+      en: "A damaged single-story brick house with a van parked in the carport, a handwritten sign reading \"FAMILY OF 6, 4 DIED-2 SURVIVED, We lost our mom, DAD & brothers,\" and debris scattered across the yard."
 geo:
   address: ''
   lat: 30.330212685432702

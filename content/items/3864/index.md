@@ -21,6 +21,8 @@ files:
     original_filename: 100_0157.JPG
     thumb: /files/thumbnails/14fb2a592d7cf914fb2a592d809a.jpg
     url: /files/original/14fb2a592d7cf914fb2a592d809a.jpg
+    alt:
+      en: "Floodwaters surround single-story homes and tall pine and palm trees, with debris floating on the water's surface under a clear blue sky."
 geo:
 id: 3864
 item_type: Still Image

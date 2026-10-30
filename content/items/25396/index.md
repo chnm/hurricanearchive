@@ -21,6 +21,8 @@ files:
     original_filename: IMG 3911superdome.JPG
     thumb: /files/thumbnails/14fb29de3e96ab14fb29de3ea785.jpg
     url: /files/original/14fb29de3e96ab14fb29de3ea785.jpg
+    alt:
+      en: "Aerial view of a flooded city center with a large domed stadium missing patches of its roof, surrounded by standing floodwater, highways, and high-rise buildings."
 geo:
 id: 25396
 item_type: Still Image

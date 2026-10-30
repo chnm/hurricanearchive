@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0140.JPG
     thumb: /files/thumbnails/14fb2a5544672414fb2a55446a52.jpg
     url: /files/original/14fb2a5544672414fb2a55446a52.jpg
+    alt:
+      en: "Collapsed roof structure with exposed wooden beams, insulated ductwork, and scattered debris, including torn shingles and broken wallboard, under daylight."
 geo:
 id: 4825
 item_type: Still Image

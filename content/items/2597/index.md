@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9516.jpg
     thumb: /files/thumbnails/14fb2a645c570c14fb2a645c5af3.jpg
     url: /files/original/14fb2a645c570c14fb2a645c5af3.jpg
+    alt:
+      en: "A battered box truck and sedan covered in spray-painted search-and-rescue notes about dead animals sit before a storm-damaged two-story building marked \"FOOD + WATER ICE, NOT HAVING.\""
 geo:
 id: 2597
 item_type: Still Image

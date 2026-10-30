@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28406.jpg
     thumb: /files/thumbnails/14fb2a6922e66c14fb2a6922ea4c.jpg
     url: /files/original/14fb2a6922e66c14fb2a6922ea4c.jpg
+    alt:
+      en: "Two-story blue house with boarded windows and a handwritten sign reading \"You broke windows but you can't...\" on the porch, a teal pickup truck parked in the yard amid storm debris."
 geo:
   address: ''
   lat: 0.0

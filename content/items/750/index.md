@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28540.jpg
     thumb: /files/thumbnails/14fb2a6d40bcc114fb2a6d40c0a5.jpg
     url: /files/original/14fb2a6d40bcc114fb2a6d40c0a5.jpg
+    alt:
+      en: "Two bronze plaques mounted on a building wall in downtown New Orleans, one commemorating Max Samson's contributions to pharmacy, the other noting the building's donation to the city by Mayor Robert S. Maestri."
 geo:
   address: ''
   lat: 0.0

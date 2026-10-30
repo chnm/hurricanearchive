@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28360.jpg
     thumb: /files/thumbnails/14fb2a6c436aa214fb2a6c436e90.jpg
     url: /files/original/14fb2a6c436aa214fb2a6c436e90.jpg
+    alt:
+      en: "A raised concrete platform with a damaged, twisted metal sculpture or fixture at its center, overlooking a body of water lined with debris and bare, storm-stripped trees under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28179.jpg
     thumb: /files/thumbnails/14fb2a6a65273b14fb2a6a652b20.jpg
     url: /files/original/14fb2a6a65273b14fb2a6a652b20.jpg
+    alt:
+      en: "Remnants of a brick chimney or fireplace stand alone amid scattered rubble, with dead trees and a damaged building visible in the background."
 geo:
   address: ''
   lat: 0.0

@@ -24,6 +24,8 @@ files:
     original_filename: P1010124.JPG
     thumb: /files/thumbnails/14fb2a5ae3e0f914fb2a5ae3f4be.jpg
     url: /files/original/14fb2a5ae3e0f914fb2a5ae3f4be.jpg
+    alt:
+      en: "Storm-damaged storefront with a yellow \"Pepperoni's Pizza & Pasta\" sign above boarded-up windows, one plywood panel hand-painted with \"We will be back better and stronger. M+A Hyde.\""
 geo:
 id: 3548
 item_type: Still Image

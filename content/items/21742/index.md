@@ -21,6 +21,8 @@ files:
     original_filename: katrina 010.jpg
     thumb: /files/thumbnails/14fb29fc05f0fa14fb29fc05f4d8.jpg
     url: /files/original/14fb29fc05f0fa14fb29fc05f4d8.jpg
+    alt:
+      en: "Elevated highway overpass crowded with people and vehicles, including an ambulance, while police cars wait below; a timestamp reads \"4:47 PM\" in the corner."
 geo:
 id: 21742
 item_type: Still Image

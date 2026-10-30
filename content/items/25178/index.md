@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1790superdome.JPG
     thumb: /files/thumbnails/14fb29e16ae5ca14fb29e16ae9af.jpg
     url: /files/original/14fb29e16ae5ca14fb29e16ae9af.jpg
+    alt:
+      en: "A woman in a dark jacket and a man in a yellow striped shirt stand with a U.S. Army soldier in camouflage, with a yellow helicopter, school bus, and ambulance visible in the background."
 geo:
 id: 25178
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: outoftown2_3dcb3a5307.jpg
     thumb: /files/thumbnails/14fb2a714834b014fb2a71483892.jpg
     url: /files/original/14fb2a714834b014fb2a71483892.jpg
+    alt:
+      en: "A long line of vehicles, including trucks towing trailers, stretches down a two-lane road bordered by dense trees, with several people standing near their cars during a traffic stop."
 geo:
   address: ''
   lat: 30.306355057899

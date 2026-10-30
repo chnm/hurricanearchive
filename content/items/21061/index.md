@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1881.JPG
     thumb: /files/thumbnails/14fb2a00be3a8e14fb2a00be3e75.jpg
     url: /files/original/14fb2a00be3a8e14fb2a00be3e75.jpg
+    alt:
+      en: "Aerial view of a large military helicopter parked in a mowed grassy field near a highway, with a line of people walking toward it and a few figures standing on the roadside above."
 geo:
 id: 21061
 item_type: Still Image

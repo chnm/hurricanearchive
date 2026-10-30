@@ -23,6 +23,8 @@ files:
     original_filename: 158786314_1595023e3b.jpg
     thumb: /files/thumbnails/14fb29d1f7405014fb29d1f744a8.jpg
     url: /files/original/14fb29d1f7405014fb29d1f744a8.jpg
+    alt:
+      en: "Silver car with hood open parked beside a fallen tree blocking a residential street, with houses, utility poles, and a black truck visible in the background."
 geo:
 id: 28640
 item_type: Still Image

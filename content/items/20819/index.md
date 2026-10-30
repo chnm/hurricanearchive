@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0085-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0383edae14fb2a0383f193.jpg
     url: /files/original/14fb2a0383edae14fb2a0383f193.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with foundations stripped bare, debris scattered among dead trees, standing floodwater, a communications tower, and a lone truck on a muddy road."
 geo:
 id: 20819
 item_type: Still Image

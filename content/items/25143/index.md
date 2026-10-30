@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1753superdome.JPG
     thumb: /files/thumbnails/14fb29e1e61e7714fb29e1e621c6.jpg
     url: /files/original/14fb29e1e61e7714fb29e1e621c6.jpg
+    alt:
+      en: "Military personnel in fatigues load stacked cardboard boxes labeled \"Meal, Ready-to-Eat Individual\" into a helicopter, with its rotor blades visible overhead."
 geo:
 id: 25143
 item_type: Still Image

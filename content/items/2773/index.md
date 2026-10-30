@@ -21,6 +21,8 @@ files:
     original_filename: 68.jpg
     thumb: /files/thumbnails/14fb2a60423b2914fb2a60423f1b.jpg
     url: /files/original/14fb2a60423b2914fb2a60423f1b.jpg
+    alt:
+      en: "Handwritten child's poem titled \"My Poem about Katrina\" by Shalayla, describing water rising, moving to New Orleans, and missing home, calling Katrina \"the worst hurricane that came.\""
 geo:
 id: 2773
 item_type: Still Image

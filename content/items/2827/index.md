@@ -21,6 +21,8 @@ files:
     original_filename: MVC-018S.JPG
     thumb: /files/thumbnails/14fb2a5fee61bc14fb2a5fee65a2.jpg
     url: /files/original/14fb2a5fee61bc14fb2a5fee65a2.jpg
+    alt:
+      en: "Military ordnance display with two yellow-tipped missiles, a gray torpedo-shaped device with blue fins, an orange \"NAVY\" target drone, and a green wheeled cart, set behind a chain-link fence."
 geo:
 id: 2827
 item_type: Still Image

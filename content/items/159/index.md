@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2161_8868aaf5e6.JPG
     thumb: /files/thumbnails/14fb2a70cb2fe214fb2a70cb3808.jpg
     url: /files/original/14fb2a70cb2fe214fb2a70cb3808.jpg
+    alt:
+      en: "Large section of ceiling drywall torn away and hanging down, exposing the subfloor above, with water stains visible on the surrounding intact ceiling; a glass-paneled front door is seen below."
 geo:
   address: ''
   lat: 30.410781790845903

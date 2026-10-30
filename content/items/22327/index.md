@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1140Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f756c87514fb29f756cc5a.jpg
     url: /files/original/14fb29f756c87514fb29f756cc5a.jpg
+    alt:
+      en: "A tan SUV sits mostly submerged in floodwater in front of a brick building with white columns and a wrought-iron fence, under dark, overcast skies."
 geo:
 id: 22327
 item_type: Still Image

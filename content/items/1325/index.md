@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28622.jpg
     thumb: /files/thumbnails/14fb2a698781c314fb2a698786ef.jpg
     url: /files/original/14fb2a698781c314fb2a698786ef.jpg
+    alt:
+      en: "A man adjusts a round blue \"Hurricane Evacuation Route\" sign with an upward arrow, mounted above a rectangular sign reading \"For Information Tune Radio,\" against a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

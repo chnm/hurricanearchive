@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029M.JPG
     thumb: /files/thumbnails/14fb2a066d0e3d14fb2a066d1220.jpg
     url: /files/original/14fb2a066d0e3d14fb2a066d1220.jpg
+    alt:
+      en: "Storm-damaged elevated building with its exterior walls and siding torn away, exposing belongings inside, with twisted metal roofing debris scattered in the grass below."
 geo:
 id: 20533
 item_type: Still Image

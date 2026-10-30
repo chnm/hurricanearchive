@@ -24,6 +24,8 @@ files:
     original_filename: 0001.JPG
     thumb: /files/thumbnails/14fb2a5c134b9014fb2a5c1366c7.jpg
     url: /files/original/14fb2a5c134b9014fb2a5c1366c7.jpg
+    alt:
+      en: "Evening view down a French Quarter street in New Orleans with traffic and parked cars, balconied buildings lined with shop signs including \"Peacock Jewelry & Antiques,\" and a skyscraper visible in the background."
 geo:
 id: 3420
 item_type: Still Image

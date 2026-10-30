@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27845.jpg
     thumb: /files/thumbnails/14fb2a6ac2186214fb2a6ac21c2a.jpg
     url: /files/original/14fb2a6ac2186214fb2a6ac21c2a.jpg
+    alt:
+      en: "A light blue sedan with license plate KAH 865 drives through a flooded road, with a yellow school bus and stop sign visible in the background near a grassy roadside."
 geo:
   address: ''
   lat: 0.0

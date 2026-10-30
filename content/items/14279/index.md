@@ -21,6 +21,8 @@ files:
     original_filename: aerials12.jpg
     thumb: /files/thumbnails/14fb2a1a43020f14fb2a1a4305f1.jpg
     url: /files/original/14fb2a1a43020f14fb2a1a4305f1.jpg
+    alt:
+      en: "Aerial view of a large white mansion standing amid stripped, leafless trees near a shoreline, with scattered debris and standing water covering the surrounding grounds."
 geo:
 id: 14279
 item_type: Still Image

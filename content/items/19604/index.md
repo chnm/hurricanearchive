@@ -21,6 +21,8 @@ files:
     original_filename: 09240005rita.JPG
     thumb: /files/thumbnails/14fb2a0ed6823314fb2a0ed68619.jpg
     url: /files/original/14fb2a0ed6823314fb2a0ed68619.jpg
+    alt:
+      en: "A cargo ship with a red hull sits on a wide, muddy river under overcast skies, with windblown trees and brush along the shoreline in the foreground."
 geo:
 id: 19604
 item_type: Still Image

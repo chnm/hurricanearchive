@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 105cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e3416b314fb2a0e341a41.jpg
     url: /files/original/14fb2a0e3416b314fb2a0e341a41.jpg
+    alt:
+      en: "A leaning \"Speed Limit 35\" sign beneath storm-damaged, leafless trees, with a white columned house, scattered debris, and a parked car visible in the background through haze."
 geo:
 id: 19718
 item_type: Still Image

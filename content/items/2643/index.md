@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9187.jpg
     thumb: /files/thumbnails/14fb2a6384274614fb2a63842a82.jpg
     url: /files/original/14fb2a6384274614fb2a63842a82.jpg
+    alt:
+      en: "Row of wooden pilings bent at sharp angles rising from shallow coastal water, with additional pilings and a distant structure visible along the horizon under a clear blue sky."
 geo:
 id: 2643
 item_type: Still Image

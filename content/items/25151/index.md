@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1761superdome.JPG
     thumb: /files/thumbnails/14fb29e1dcb89114fb29e1dcbdc4.jpg
     url: /files/original/14fb29e1dcb89114fb29e1dcbdc4.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms unload stacked cases of Nestlé Pure Life bottled water from a military helicopter onto a paved area."
 geo:
 id: 25151
 item_type: Still Image

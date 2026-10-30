@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0077OEP.JPG
     thumb: /files/thumbnails/14fb29f1a651c314fb29f1a655a8.jpg
     url: /files/original/14fb29f1a651c314fb29f1a655a8.jpg
+    alt:
+      en: "Under a white canopy on a grassy lot, a seated military man in camouflage uniform gestures while being interviewed by a man holding a microphone, as a woman films with a shoulder-mounted video camera."
 geo:
 id: 23067
 item_type: Still Image

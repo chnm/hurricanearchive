@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0771.JPG
     thumb: /files/thumbnails/14fb2a56fb11ff14fb2a56fb15e4.jpg
     url: /files/original/14fb2a56fb11ff14fb2a56fb15e4.jpg
+    alt:
+      en: "A long bent metal pole flying an American flag rises from a flatbed trailer, with a black pickup truck parked nearby amid storm debris, downed trees, and scattered wreckage."
 geo:
 id: 4569
 item_type: Still Image

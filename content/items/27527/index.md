@@ -21,6 +21,8 @@ files:
     original_filename: 2_af1ca8f59b.jpg
     thumb: /files/thumbnails/14fb29d39f28c014fb29d39f2fb5.jpg
     url: /files/original/14fb29d39f28c014fb29d39f2fb5.jpg
+    alt:
+      en: "Four children pose in front of a painted Nativity scene backdrop; two wear white altar server robes with crosses, while the others wear casual sweaters."
 geo:
   address: ''
   lat: 29.95493

@@ -21,6 +21,8 @@ files:
     original_filename: 100-01_2803bdde9d.jpg
     thumb: /files/thumbnails/14fb2a222684f014fb2a222688d5.jpg
     url: /files/original/14fb2a222684f014fb2a222688d5.jpg
+    alt:
+      en: "Faded vintage photograph of three people posing together against a wood-paneled wall, a smiling woman on the left, a man in a white shirt and patterned tie in the center, and a woman on the right."
 geo:
 id: 12419
 item_type: Still Image

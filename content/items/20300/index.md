@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0151-18.JPG
     thumb: /files/thumbnails/14fb2a09c5931f14fb2a09c596fc.jpg
     url: /files/original/14fb2a09c5931f14fb2a09c596fc.jpg
+    alt:
+      en: "Flooded, debris-strewn street with leaning utility poles and tangled wires, a damaged van and scattered wreckage, and a military bulldozer clearing the path amid storm-damaged trees."
 geo:
 id: 20300
 item_type: Still Image

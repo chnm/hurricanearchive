@@ -21,6 +21,8 @@ files:
     original_filename: MVC-019S.JPG
     thumb: /files/thumbnails/14fb2a5f6b94fd14fb2a5f6b9aa4.jpg
     url: /files/original/14fb2a5f6b94fd14fb2a5f6b9aa4.jpg
+    alt:
+      en: "Close-up of a Navy aircraft marked \"NAVY VFP-63,\" showing visible damage to the fuselage, landing gear, and bent wing section, parked on pavement."
 geo:
 id: 2964
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 171cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b7d1a6b14fb2a0b7d1e4a.jpg
     url: /files/original/14fb2a0b7d1a6b14fb2a0b7d1e4a.jpg
+    alt:
+      en: "A debris-strewn mud pit with standing water, surrounded by dry brown grass; an overturned wheelbarrow and tangled cables or hoses sit partially submerged in the muck."
 geo:
 id: 20074
 item_type: Still Image

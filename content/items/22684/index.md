@@ -21,6 +21,8 @@ files:
     original_filename: PICT0230Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c3252e14fb29f4c32914.jpg
     url: /files/original/14fb29f4c3252e14fb29f4c32914.jpg
+    alt:
+      en: "A white screened porch with decorative scrollwork brackets holding a sign reading \"MAJ TRAYLOR,\" with another house visible across the street; dated 09.15.2005."
 geo:
 id: 22684
 item_type: Still Image

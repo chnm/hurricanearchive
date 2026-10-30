@@ -24,6 +24,8 @@ files:
     original_filename: scan0133trimmedtiff.tif
     thumb: /files/thumbnails/14fb29cc446d5814fb29cc44776c.jpg
     url: /files/original/14fb29cc446d5814fb29cc44776c.tif
+    alt:
+      en: "Black-and-white photo of four young women posed outdoors on a grassy street, three standing arm-in-arm and one kneeling in front, with houses and a utility pole visible behind them."
 geo:
 id: 30822
 item_type: Document

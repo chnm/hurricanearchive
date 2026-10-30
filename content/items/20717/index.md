@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063crop.jpg
     thumb: /files/thumbnails/14fb2a04a4dc3c14fb2a04a4e02f.jpg
     url: /files/original/14fb2a04a4dc3c14fb2a04a4e02f.jpg
+    alt:
+      en: "A military service member in desert camouflage uniform and hard hat operates a yellow Komatsu skid-steer loader on a gravel lot, with a military cargo truck and debris piles in the background."
 geo:
 id: 20717
 item_type: Still Image

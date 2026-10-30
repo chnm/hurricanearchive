@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002.JPG
     thumb: /files/thumbnails/14fb2a08bd522114fb2a08bd684f.jpg
     url: /files/original/14fb2a08bd522114fb2a08bd684f.jpg
+    alt:
+      en: "A woman in a yellow cap types on a laptop at a table, with a legal pad and pen nearby, while other people work on laptops and talk in the background."
 geo:
 id: 20335
 item_type: Still Image

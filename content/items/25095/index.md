@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1682superdome.JPG
     thumb: /files/thumbnails/14fb29e25e8f4c14fb29e25ed395.jpg
     url: /files/original/14fb29e25e8f4c14fb29e25ed395.jpg
+    alt:
+      en: "Rows of soldiers in camouflage uniforms with \"MP\" armbands and backpacks march in formation on a brick plaza, with military vehicles and tall glass office buildings in the background."
 geo:
 id: 25095
 item_type: Still Image

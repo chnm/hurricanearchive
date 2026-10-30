@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9307.jpg
     thumb: /files/thumbnails/14fb2a6487b15214fb2a6487b923.jpg
     url: /files/original/14fb2a6487b15214fb2a6487b923.jpg
+    alt:
+      en: "Thick layers of dried mud bury a house and yard, with debris including bent metal railings, scattered boards, and dead shrubs in the foreground."
 geo:
 id: 2586
 item_type: Still Image

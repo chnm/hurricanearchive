@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8744.jpg
     thumb: /files/thumbnails/14fb2a65b2fa8814fb2a65b2fe6e.jpg
     url: /files/original/14fb2a65b2fa8814fb2a65b2fe6e.jpg
+    alt:
+      en: "Debris field of a demolished house—broken concrete steps, scattered boards, and household items—spread across a grassy lot, with a water tower reading \"YSCLOSKEY\" visible in the background among bare trees."
 geo:
 id: 2530
 item_type: Still Image

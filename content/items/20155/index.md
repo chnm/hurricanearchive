@@ -21,6 +21,8 @@ files:
     original_filename: Picture 252cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b05456614fb2a0b054959.jpg
     url: /files/original/14fb2a0b05456614fb2a0b054959.jpg
+    alt:
+      en: "A snapped wooden utility pole leans sharply against a tall concrete floodwall, its wires still attached, with a metal access ladder visible on the wall and standing water pooled at its base."
 geo:
 id: 20155
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100-11_7ae7bfa91d.jpg
     thumb: /files/thumbnails/14fb2a222cf8ff14fb2a222cfcdc.jpg
     url: /files/original/14fb2a222cf8ff14fb2a222cfcdc.jpg
+    alt:
+      en: "A vintage color photograph of a large group of children and a few adults gathered around a table with a frosted birthday cake, smiling and posing together indoors."
 geo:
 id: 12401
 item_type: Still Image

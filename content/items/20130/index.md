@@ -21,6 +21,8 @@ files:
     original_filename: Picture 227cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b22e27214fb2a0b22e656.jpg
     url: /files/original/14fb2a0b22e27214fb2a0b22e656.jpg
+    alt:
+      en: "Two military personnel in camouflage uniforms stand talking on a residential sidewalk littered with storm debris, with a third partially visible at left, houses and trees in the background."
 geo:
 id: 20130
 item_type: Still Image

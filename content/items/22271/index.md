@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1082Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f84b586614fb29f84b5c4a.jpg
     url: /files/original/14fb29f84b586614fb29f84b5c4a.jpg
+    alt:
+      en: "Blurry interior shot through a window, with two silhouetted heads in the foreground and standing floodwater visible both outside and inside the room, reflecting light from a window above."
 geo:
 id: 22271
 item_type: Still Image

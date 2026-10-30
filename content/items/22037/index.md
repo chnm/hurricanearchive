@@ -21,6 +21,8 @@ files:
     original_filename: Picture 368-J2.jpg
     thumb: /files/thumbnails/14fb29f9f1e82314fb29f9f201fe.jpg
     url: /files/original/14fb29f9f1e82314fb29f9f201fe.jpg
+    alt:
+      en: "A person wearing safety glasses and red protective chaps operates a green and purple chainsaw amid fallen branches and debris, with wood dust visibly spraying from the cut."
 geo:
 id: 22037
 item_type: Still Image

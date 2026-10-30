@@ -21,6 +21,8 @@ files:
     original_filename: before boarded up.jpg
     thumb: /files/thumbnails/14fb2a20fd19b714fb2a20fd20ae.jpg
     url: /files/original/14fb2a20fd19b714fb2a20fd20ae.jpg
+    alt:
+      en: "Exterior covered walkway with plywood ceiling panels and gray support columns, alongside a building facade with windows; a brick-patterned sidewalk and concrete pavement are visible to the right."
 geo:
 id: 13029
 item_type: Still Image

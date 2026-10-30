@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1368Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5a1e59514fb29f5a1e979.jpg
     url: /files/original/14fb29f5a1e59514fb29f5a1e979.jpg
+    alt:
+      en: "Floodwater submerges a street lamp and surrounds buildings under a heavy gray sky, with trees and utility poles partially submerged in the murky water."
 geo:
 id: 22527
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2326068473_cac6d1d780.
     thumb: /files/thumbnails/14fb29c9e0f84314fb29c9e0fc16.jpg
     url: /files/original/14fb29c9e0f84314fb29c9e0fc16.jpg
+    alt:
+      en: "Waterfront view of damaged homes and a storm-torn boat dock with a teal roof canopy, debris scattered along the shoreline; timestamp reads 09/03/2005 11:57."
 geo:
   address: ''
   lat: 30.22586

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0564.JPG
     thumb: /files/thumbnails/14fb2a5698dd8b14fb2a5698e41c.jpg
     url: /files/original/14fb2a5698dd8b14fb2a5698e41c.jpg
+    alt:
+      en: "A yellow tape measure extends vertically down a concrete block foundation remnant, with a metal bracket embedded on top and debris scattered on the ground nearby."
 geo:
 id: 4635
 item_type: Still Image

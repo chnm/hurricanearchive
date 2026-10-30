@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2169conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11c2bf3c14fb2a11c2c34f.jpg
     url: /files/original/14fb2a11c2bf3c14fb2a11c2c34f.jpg
+    alt:
+      en: "Crowd of people gathered along a debris-strewn street beside the Riverwalk Marketplace building, with a \"Notre Dame\" street sign and scattered litter covering the grass and pavement."
 geo:
 id: 19222
 item_type: Still Image

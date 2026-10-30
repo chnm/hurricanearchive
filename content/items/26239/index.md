@@ -24,6 +24,8 @@ files:
     original_filename: AB Little Woods 1950-4_3df8818550.jpg
     thumb: /files/thumbnails/14fb29d966626914fb29d9666659.jpg
     url: /files/original/14fb29d966626914fb29d9666659.jpg
+    alt:
+      en: "Black-and-white photo of a woman in a bikini reclining on a long wooden dock over water, with a pier structure, hanging laundry, and a distant figure visible; \"Gaile\" is handwritten in blue ink at top right."
 geo:
   address: ''
   lat: 29.87876

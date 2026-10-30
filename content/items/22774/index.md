@@ -21,6 +21,8 @@ files:
     original_filename: S4300130Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f41693f414fb29f41699c8.jpg
     url: /files/original/14fb29f41693f414fb29f41699c8.jpg
+    alt:
+      en: "A rusted, storm-damaged mobile home sits tilted off its foundation beside a brick building, with cracked dried mud, debris, and downed tree limbs scattered across the yard."
 geo:
 id: 22774
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea2a17e014fb29ea2a1bc2.jpg
     url: /files/original/14fb29ea2a17e014fb29ea2a1bc2.jpg
+    alt:
+      en: "A worker in camouflage clothing and an orange hard hat stands near a large fallen tree with cut logs, while another person in a red shirt photographs the scene nearby."
 geo:
 id: 24164
 item_type: Still Image

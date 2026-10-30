@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi531.JPG
     thumb: /files/thumbnails/14fb2a225c3af314fb2a225c3ed3.jpg
     url: /files/original/14fb2a225c3af314fb2a225c3ed3.jpg
+    alt:
+      en: "Crowd gathered outside a brick building near a school bus, with a boom microphone extended overhead and tree branches visible against the sky in the background."
 geo:
 id: 12008
 item_type: Still Image

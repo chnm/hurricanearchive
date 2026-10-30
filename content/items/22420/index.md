@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1259Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6891f7314fb29f689b683.jpg
     url: /files/original/14fb29f6891f7314fb29f689b683.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues gather in an operations room with computer workstations, red office chairs, wall-mounted monitors, and a yellow Powerheart AED defibrillator on a desk."
 geo:
 id: 22420
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eff54af614fb29eff54edd.jpg
     url: /files/original/14fb29eff54af614fb29eff54edd.jpg
+    alt:
+      en: "Aerial view of a flattened coastal town with debris-strewn lots, scattered damaged buildings, a water tower, and surrounding floodwaters along a wide river, likely from hurricane storm surge damage."
 geo:
 id: 23325
 item_type: Still Image

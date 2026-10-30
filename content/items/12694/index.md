@@ -21,6 +21,8 @@ files:
     original_filename: 102-12_a280fb0548.jpg
     thumb: /files/thumbnails/14fb2a21befab314fb2a21befe99.jpg
     url: /files/original/14fb2a21befab314fb2a21befe99.jpg
+    alt:
+      en: "Man in a striped shirt stands beside a red truck marked \"L.C. Bush Gen. Hauling Serv., Beeper 841-9971, 6112 N. Villere N.O. La,\" with a house visible in the background."
 geo:
 id: 12694
 item_type: Still Image

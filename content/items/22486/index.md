@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1327Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5fe38d214fb29f5fe6e21.jpg
     url: /files/original/14fb29f5fe38d214fb29f5fe6e21.jpg
+    alt:
+      en: "Flooded street with power lines down and utility poles standing in deep water, a military jet partially submerged near a building in the background under an overcast sky."
 geo:
 id: 22486
 item_type: Still Image

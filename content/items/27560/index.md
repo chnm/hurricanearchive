@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6446_345219ed26.jpg
     thumb: /files/thumbnails/14fb29d36965e114fb29d36969b8.jpg
     url: /files/original/14fb29d36965e114fb29d36969b8.jpg
+    alt:
+      en: "Group photo of Brownie Troop 132 posing indoors at Sicily's pizza parlor in New Orleans, girls in brown sashes and blue uniforms making hand gestures, with restaurant tables and a wicker basket visible nearby."
 geo:
   address: ''
   lat: 29.87876

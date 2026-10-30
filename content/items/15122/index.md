@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5691_77d10dba80.jpg
     thumb: /files/thumbnails/14fb2a1707f32f14fb2a1707f715.jpg
     url: /files/original/14fb2a1707f32f14fb2a1707f715.jpg
+    alt:
+      en: "Weathered, damaged vintage portrait photograph of a young man in a suit jacket, collared shirt, and patterned tie, with torn and missing edges and significant wear to the print surface."
 geo:
 id: 15122
 item_type: Still Image

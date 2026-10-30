@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0130-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a034c3ea414fb2a034c426e.jpg
     url: /files/original/14fb2a034c3ea414fb2a034c426e.jpg
+    alt:
+      en: "A single-story white wood-sided house stands partially submerged in floodwater, with a damaged front door, broken porch railings, and bare autumn trees in the background."
 geo:
 id: 20836
 item_type: Still Image

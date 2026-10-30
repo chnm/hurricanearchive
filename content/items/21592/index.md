@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0326-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd4db41014fb29fd4db7e2.jpg
     url: /files/original/14fb29fd4db41014fb29fd4db7e2.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with a small patch of dry grass where several vehicles, a motorhome, and two horses are stranded amid surrounding brown floodwater."
 geo:
 id: 21592
 item_type: Still Image

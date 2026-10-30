@@ -21,6 +21,8 @@ files:
     original_filename: 100_0277.JPG
     thumb: /files/thumbnails/14fb2a5eb11ce214fb2a5eb128ef.jpg
     url: /files/original/14fb2a5eb11ce214fb2a5eb128ef.jpg
+    alt:
+      en: "A cracked and uneven concrete sidewalk with visible damage runs through a grassy lawn, with a person's legs visible walking ahead near a flower bed and hedges."
 geo:
 id: 3028
 item_type: Still Image

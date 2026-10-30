@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014-9-25.JPG
     thumb: /files/thumbnails/14fb2a077a0e1914fb2a077a11ff.jpg
     url: /files/original/14fb2a077a0e1914fb2a077a11ff.jpg
+    alt:
+      en: "A severely storm-damaged dark green sedan with its roof torn off sits in a parking lot amid other dented vehicles, scattered roofing debris, and insulation, under a gray overcast sky."
 geo:
 id: 20430
 item_type: Still Image

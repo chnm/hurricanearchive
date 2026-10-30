@@ -20,6 +20,8 @@ files:
     original_filename: 176014431_6795cfe74f.jpg
     thumb: /files/thumbnails/14fb29d24394cb14fb29d24398b1.jpg
     url: /files/original/14fb29d24394cb14fb29d24398b1.jpg
+    alt:
+      en: "A large paved parking lot with orange painted lines and a traffic cone, scattered cars parked near a low commercial building with a red stripe, a taller beige high-rise, and a cloudy sky overhead."
 geo:
 id: 28574
 item_type: Still Image

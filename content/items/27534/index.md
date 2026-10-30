@@ -24,6 +24,8 @@ files:
     original_filename: 9_a1ec89abe4.jpg
     thumb: /files/thumbnails/14fb29d38e8bd214fb29d38e8f75.jpg
     url: /files/original/14fb29d38e8bd214fb29d38e8f75.jpg
+    alt:
+      en: "Three girls in white First Communion dresses with floral headbands stand in front of a woman in a red jacket, beneath marble columns with a crowd gathered in the background."
 geo:
   address: ''
   lat: 29.87876

@@ -21,6 +21,8 @@ files:
     original_filename: DSC01162.JPG
     thumb: /files/thumbnails/14fb2a584970c314fb2a584972bd.jpg
     url: /files/original/14fb2a584970c314fb2a584972bd.jpg
+    alt:
+      en: "Elevated highway with a concrete barrier, a green exit sign reading \"Stumpf Blvd 1/2 Mile,\" and a round high-rise hotel building advertising \"$49\" rooms in the background under a clear blue sky."
 geo:
 id: 4041
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0618.JPG
     thumb: /files/thumbnails/14fb2a56593b1014fb2a56593ef6.jpg
     url: /files/original/14fb2a56593b1014fb2a56593ef6.jpg
+    alt:
+      en: "Fallen trees and scattered debris cover a grassy yard, with a blue tarp or canopy and outdoor furniture visible in the background among surviving trees."
 geo:
 id: 4667
 item_type: Still Image

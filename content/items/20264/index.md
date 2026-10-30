@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0008.JPG
     thumb: /files/thumbnails/14fb2a0a4678fd14fb2a0a467cd9.jpg
     url: /files/original/14fb2a0a4678fd14fb2a0a467cd9.jpg
+    alt:
+      en: "Silhouetted helmeted figures, one with a small flag patch, in the foreground against a sky with clouds, with a green landscape visible below in this sideways-oriented photo."
 geo:
 id: 20264
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 158759013_a8a0737c5b.jpg
     thumb: /files/thumbnails/14fb29d1f4ced414fb29d1f4d2b9.jpg
     url: /files/original/14fb29d1f4ced414fb29d1f4d2b9.jpg
+    alt:
+      en: "A severely damaged, rusted-out vehicle with its roof torn open sits abandoned on a residential street, parked in front of houses with striped awnings."
 geo:
 id: 28642
 item_type: Still Image

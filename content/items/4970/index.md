@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0312.JPG
     thumb: /files/thumbnails/14fb2a54b73e6014fb2a54b74243.jpg
     url: /files/original/14fb2a54b73e6014fb2a54b74243.jpg
+    alt:
+      en: "A storm-damaged house with green vertical siding, exposed roof decking and missing shingles, siding panels torn loose at the base, and debris including an overturned appliance scattered in the yard."
 geo:
 id: 4970
 item_type: Still Image

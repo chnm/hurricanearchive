@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2150rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d9885e14fb2a13d98c44.jpg
     url: /files/original/14fb2a13d9885e14fb2a13d98c44.jpg
+    alt:
+      en: "View from inside a rescue helicopter's open door, with crew members in flight gear looking out over a flooded residential neighborhood where rooftops rise above the submerged streets below."
 geo:
 id: 18988
 item_type: Still Image

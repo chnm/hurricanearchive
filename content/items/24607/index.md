@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0126-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e635530314fb29e63556e9.jpg
     url: /files/original/14fb29e635530314fb29e63556e9.jpg
+    alt:
+      en: "A soldier in woodland camouflage uniform, sunglasses, and cap carries a rifle while walking along a road, with a white pickup truck and parked vehicles visible behind him under a cloudy sky."
 geo:
 id: 24607
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 162358562_c8baf2cc8d.jpg
     thumb: /files/thumbnails/14fb29d2277ad414fb29d2277eb1.jpg
     url: /files/original/14fb29d2277ad414fb29d2277eb1.jpg
+    alt:
+      en: "A white boat lies stranded on the grass beneath large trees in a park, with a red truck and parked cars visible along the tree-lined street in the background."
 geo:
 id: 28604
 item_type: Still Image

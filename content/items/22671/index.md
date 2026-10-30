@@ -21,6 +21,8 @@ files:
     original_filename: PICT0167Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4cc736214fb29f4cc7749.jpg
     url: /files/original/14fb29f4cc736214fb29f4cc7749.jpg
+    alt:
+      en: "Row of white single-story cottages with gabled roofs and screened porches, American flags hanging by doorways, large oak trees overhead, and a fresh-cut tree stump in the foreground lawn; dated 09.15.2005."
 geo:
 id: 22671
 item_type: Still Image

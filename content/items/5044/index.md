@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0389.JPG
     thumb: /files/thumbnails/14fb2a54495d1614fb2a544960fb.jpg
     url: /files/original/14fb2a54495d1614fb2a544960fb.jpg
+    alt:
+      en: "Pine forest with numerous snapped and stripped tree trunks, surrounded by scattered debris including broken lumber, insulation, and household materials strewn across the ground."
 geo:
 id: 5044
 item_type: Still Image

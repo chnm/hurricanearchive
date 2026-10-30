@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-5823_1aeb857b3e.jpg
     thumb: /files/thumbnails/14fb29dc0f031514fb29dc0f075e.jpg
     url: /files/original/14fb29dc0f031514fb29dc0f075e.jpg
+    alt:
+      en: "Isleno folk dancers in traditional costume—women in white blouses, red sashes, and striped skirts, men in dark vests—perform in a line outdoors, with spectators and trees in the background."
 geo:
 id: 25811
 item_type: Still Image

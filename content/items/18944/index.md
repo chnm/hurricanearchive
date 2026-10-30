@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0301westend.JPG
     thumb: /files/thumbnails/14fb2a1413cfa414fb2a1413d394.jpg
     url: /files/original/14fb2a1413cfa414fb2a1413d394.jpg
+    alt:
+      en: "Aerial view of a marina crowded with sailboats and motorboats docked at angled piers, many tilted or damaged, with boat storage sheds and a grassy shoreline visible in the background."
 geo:
 id: 18944
 item_type: Still Image

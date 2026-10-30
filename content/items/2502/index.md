@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8607.jpg
     thumb: /files/thumbnails/14fb2a65d90cf014fb2a65d91286.jpg
     url: /files/original/14fb2a65d90cf014fb2a65d91286.jpg
+    alt:
+      en: "Rows of bare wooden pilings and braced supports rise from calm water in the foreground, with a long low bridge and a crane visible on the horizon under a hazy sky."
 geo:
 id: 2502
 item_type: Still Image

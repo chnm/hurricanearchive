@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0491.JPG
     thumb: /files/thumbnails/14fb2a53cef38d14fb2a53cef769.jpg
     url: /files/original/14fb2a53cef38d14fb2a53cef769.jpg
+    alt:
+      en: "Exterior wall of a house showing missing lower siding, exposed wood sheathing with metal brackets, and broken windows revealing storm debris inside; pine straw and bare ground cover the yard below."
 geo:
 id: 5129
 item_type: Still Image

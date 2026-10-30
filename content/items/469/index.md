@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0310_ddc133b5ed.JPG
     thumb: /files/thumbnails/14fb2a6fc903ca14fb2a6fc907b1.jpg
     url: /files/original/14fb2a6fc903ca14fb2a6fc907b1.jpg
+    alt:
+      en: "Two-story damaged house with spray-painted X marks and \"No Bulldozing!\" signs posted on the porch, with debris piled outside and a discarded couch on the ground."
 geo:
   address: ''
   lat: 29.9549345496561

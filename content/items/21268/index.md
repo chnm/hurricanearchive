@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0211-9-25.JPG
     thumb: /files/thumbnails/14fb29ffb0674914fb29ffb06f24.jpg
     url: /files/original/14fb29ffb0674914fb29ffb06f24.jpg
+    alt:
+      en: "Close-up of a military service member in desert camouflage with a U.S. flag patch, connecting a carabiner clip to another person's harness inside a vehicle or aircraft."
 geo:
 id: 21268
 item_type: Still Image

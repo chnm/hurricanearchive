@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0213-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffaa338614fb29ffaa3775.jpg
     url: /files/original/14fb29ffaa338614fb29ffaa3775.jpg
+    alt:
+      en: "Interior view of a military helicopter cockpit from behind the pilot's seat, showing a helmeted pilot, instrument panels with illuminated displays, a fire extinguisher, and a \"WARNING, SEAT TILT RELEASE\" label."
 geo:
 id: 21275
 item_type: Still Image

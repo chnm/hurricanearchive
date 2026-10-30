@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0359-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fcef02a914fb29fcef068f.jpg
     url: /files/original/14fb29fcef02a914fb29fcef068f.jpg
+    alt:
+      en: "Aerial view of floodwaters submerging a wooded, rural area, with power lines, a blue structure, and debris visible; two people wade through the water near a tree line."
 geo:
 id: 21627
 item_type: Still Image

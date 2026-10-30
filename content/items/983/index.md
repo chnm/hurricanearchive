@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28720.jpg
     thumb: /files/thumbnails/14fb2a6b8b468314fb2a6b8b4a5d.jpg
     url: /files/original/14fb2a6b8b468314fb2a6b8b4a5d.jpg
+    alt:
+      en: "A woman in a teal polo shirt and gray pants examines a leather horse bridle, with an SUV and other vehicles parked in the background on a paved lot."
 geo:
   address: ''
   lat: 0.0

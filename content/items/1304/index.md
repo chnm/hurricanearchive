@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28601.jpg
     thumb: /files/thumbnails/14fb2a69c54c8514fb2a69c55073.jpg
     url: /files/original/14fb2a69c54c8514fb2a69c55073.jpg
+    alt:
+      en: "Man with a camera around his neck stands on a dirt lot in the Lakeview District, with \"ONE WAY\" and \"DO NOT ENTER\" street signs and damaged trees in the background."
 geo:
   address: ''
   lat: 0.0

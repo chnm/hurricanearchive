@@ -23,6 +23,8 @@ files:
     original_filename: 2326067573_b2cf582a1b.
     thumb: /files/thumbnails/14fb29c9e2f3ed14fb29c9e2f7d1.jpg
     url: /files/original/14fb29c9e2f3ed14fb29c9e2f7d1.jpg
+    alt:
+      en: "A long bridge spans open water with several sections collapsed and sloping into the lake, viewed from a boat with a metal rail in the foreground and whitewater wake below."
 geo:
   address: ''
   lat: 30.20935

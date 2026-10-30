@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f008439d14fb29f0084781.jpg
     url: /files/original/14fb29f008439d14fb29f0084781.jpg
+    alt:
+      en: "Military personnel in fatigues stand near an Isuzu truck blocking a wide suburban road, with traffic cones set up and civilians and camera crew walking past under overhead traffic signals and power lines."
 geo:
 id: 23301
 item_type: Still Image

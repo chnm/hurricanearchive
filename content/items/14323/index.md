@@ -21,6 +21,8 @@ files:
     original_filename: aerials36.jpg
     thumb: /files/thumbnails/14fb2a19d3a12b14fb2a19d3a50c.jpg
     url: /files/original/14fb2a19d3a12b14fb2a19d3a50c.jpg
+    alt:
+      en: "Aerial view of a devastated residential area with collapsed homes reduced to scattered debris, surrounded by patches of green trees and a dirt road winding through the wreckage."
 geo:
 id: 14323
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010098empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee09feba14fb29ee0a029e.jpg
     url: /files/original/14fb29ee09feba14fb29ee0a029e.jpg
+    alt:
+      en: "Industrial storage tank with domed roof surrounded by damaged power lines, a leaning utility pole, and downed tree branches, with standing floodwater and debris in the foreground."
 geo:
 id: 23657
 item_type: Still Image

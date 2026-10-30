@@ -21,6 +21,8 @@ files:
     original_filename: Picture 054engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa9ae1b14fb2a0fa9b1f9.jpg
     url: /files/original/14fb2a0fa9ae1b14fb2a0fa9b1f9.jpg
+    alt:
+      en: "Aerial view of a flooded New Orleans cityscape showing an elevated highway interchange surrounded by inundated streets, rooftops, and buildings, with floodwater covering most of the surrounding neighborhood."
 geo:
 id: 19494
 item_type: Still Image

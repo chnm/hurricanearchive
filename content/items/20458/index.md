@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018-20.JPG
     thumb: /files/thumbnails/14fb2a070d07d814fb2a070d0bbd.jpg
     url: /files/original/14fb2a070d07d814fb2a070d0bbd.jpg
+    alt:
+      en: "A man in military camouflage uniform with an American flag patch and nametag \"RANN...\" sits eating from a styrofoam food tray containing peas, rice, and a sandwich, inside a large tent with string lights."
 geo:
 id: 20458
 item_type: Still Image

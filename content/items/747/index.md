@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28401.jpg
     thumb: /files/thumbnails/14fb2a6d45294814fb2a6d452d2d.jpg
     url: /files/original/14fb2a6d45294814fb2a6d452d2d.jpg
+    alt:
+      en: "Shrimp boats docked side by side, the foreground vessel named \"Hung Le,\" with tall rigging masts and booms silhouetted against a darkening sky."
 geo:
   address: ''
   lat: 0.0

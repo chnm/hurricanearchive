@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28767.jpg
     thumb: /files/thumbnails/14fb2a6ae3f63c14fb2a6ae3fa1f.jpg
     url: /files/original/14fb2a6ae3f63c14fb2a6ae3fa1f.jpg
+    alt:
+      en: "Stacks of plastic pet carriers fill an open-sided warehouse, with two people sorting crates and a pink folding stool near a green support pole, part of the animal rescue depot at Lamar-Dixon Fairgrounds."
 geo:
   address: ''
   lat: 0.0

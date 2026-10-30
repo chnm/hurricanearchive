@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2179superdome.JPG
     thumb: /files/thumbnails/14fb29e474f7e514fb29e474fb8c.jpg
     url: /files/original/14fb29e474f7e514fb29e474fb8c.jpg
+    alt:
+      en: "Nighttime scene of military personnel in camouflage unloading large shrink-wrapped pallets of bottled water from a flatbed truck, with stacked cases of water and scattered cardboard boxes on the ground nearby."
 geo:
 id: 24839
 item_type: Still Image

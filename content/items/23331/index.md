@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29efeaa2b114fb29efeaad3f.jpg
     url: /files/original/14fb29efeaa2b114fb29efeaad3f.jpg
+    alt:
+      en: "Close-up, shadowed profile of a man wearing sunglasses and a headset with boom microphone, seated near a bright window inside what appears to be an aircraft cabin."
 geo:
 id: 23331
 item_type: Still Image

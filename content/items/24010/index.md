@@ -21,6 +21,8 @@ files:
     original_filename: 09280012plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebf1c0d514fb29ebf1c4ba.jpg
     url: /files/original/14fb29ebf1c0d514fb29ebf1c4ba.jpg
+    alt:
+      en: "Two uniformed servicemen walk through the collapsed brick ruins of a demolished building, with debris, a fallen television, and bare storm-damaged trees scattered across the grounds."
 geo:
 id: 24010
 item_type: Still Image

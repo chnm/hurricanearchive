@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0393.JPG
     thumb: /files/thumbnails/14fb2a54455a0b14fb2a54455df0.jpg
     url: /files/original/14fb2a54455a0b14fb2a54455df0.jpg
+    alt:
+      en: "A yellow tape measure hangs vertically against a wooden beam structure, marking measurements over a cracked and split board, with bare tree branches and a cloudy sky visible in the background."
 geo:
 id: 5048
 item_type: Still Image

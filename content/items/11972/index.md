@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 019.jpg
     thumb: /files/thumbnails/14fb2a2281442d14fb2a2281537b.jpg
     url: /files/original/14fb2a2281442d14fb2a2281537b.jpg
+    alt:
+      en: "Two storm-damaged houses with collapsed roofs stand amid scattered debris and dead, rust-colored pine trees under a partly cloudy sky."
 geo:
 id: 11972
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0689.JPG
     thumb: /files/thumbnails/14fb2a5336f6a214fb2a5336fa8c.jpg
     url: /files/original/14fb2a5336f6a214fb2a5336fa8c.jpg
+    alt:
+      en: "A damaged single-story house with storm debris scattered across the yard, an aluminum boat labeled \"LA 4390-EG\" on a trailer, lawn chairs, and a ladder leaning against the roofline."
 geo:
 id: 5244
 item_type: Still Image

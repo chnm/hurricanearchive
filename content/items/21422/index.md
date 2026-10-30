@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0252-9-25.JPG
     thumb: /files/thumbnails/14fb29fed7ee3714fb29fed7f214.jpg
     url: /files/original/14fb29fed7ee3714fb29fed7f214.jpg
+    alt:
+      en: "Aerial view of floodwaters submerging farmland, with a barn's red-and-white roof, scattered trees, fencing, and power lines partially visible above the water."
 geo:
 id: 21422
 item_type: Still Image

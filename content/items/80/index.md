@@ -26,6 +26,8 @@ files:
     original_filename: 100_5843_a569ae0e98.JPG
     thumb: /files/thumbnails/14fb2a711b6bd214fb2a711b6fbe.jpg
     url: /files/original/14fb2a711b6bd214fb2a711b6fbe.jpg
+    alt:
+      en: "Erosion has undercut a concrete seawall along the shoreline, leaving a gap beneath the slab supported by wooden posts, with a cracked road and curb in the foreground; dated 11/11/2005."
 geo:
   address: ''
   lat: 30.005653

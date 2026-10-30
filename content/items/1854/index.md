@@ -26,6 +26,8 @@ files:
     original_filename: DSC02062_957450188c.JPG
     thumb: /files/thumbnails/14fb2a6ea857a614fb2a6ea85b68.jpg
     url: /files/original/14fb2a6ea857a614fb2a6ea85b68.jpg
+    alt:
+      en: "Damaged house exterior with a dark, deteriorated shingle roof, white metal awning with scalloped edges, aluminum siding, and a partial house number \"57\" visible on the porch wall."
 geo:
   address: ''
   lat: 0.0

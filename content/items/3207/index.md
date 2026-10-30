@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (56).JPG
     thumb: /files/thumbnails/14fb2a5d5a95b214fb2a5d5a9998.jpg
     url: /files/original/14fb2a5d5a95b214fb2a5d5a9998.jpg
+    alt:
+      en: "Collapsed corrugated metal roofing and debris piles beside a road, with power lines, a large concrete pillar, and an elevated highway overpass in the background, photographed from inside a vehicle."
 geo:
 id: 3207
 item_type: Still Image

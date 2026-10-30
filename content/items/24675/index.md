@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00142 DSC00142cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5b7e25214fb29e5b7e637.jpg
     url: /files/original/14fb29e5b7e25214fb29e5b7e637.jpg
+    alt:
+      en: "Group of military officers in camouflage uniforms, including one with \"HONORE\" nameplate and three-star rank insignia, conversing outdoors amid storm-damaged structures and debris."
 geo:
 id: 24675
 item_type: Still Image

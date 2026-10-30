@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0529Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f53160e814fb29f53164c4.jpg
     url: /files/original/14fb29f53160e814fb29f53164c4.jpg
+    alt:
+      en: "Rain-streaked window with condensation looking out onto a flooded street below, where a white RV or trailer and a metal fence are partially submerged in muddy water."
 geo:
 id: 22578
 item_type: Still Image

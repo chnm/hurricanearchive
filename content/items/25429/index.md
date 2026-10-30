@@ -21,6 +21,8 @@ files:
     original_filename: Under the Superdome 2superdome.jpg
     thumb: /files/thumbnails/14fb29ddd6da3014fb29ddd6dc95.jpg
     url: /files/original/14fb29ddd6da3014fb29ddd6dc95.jpg
+    alt:
+      en: "Flooded city street beneath an overpass, with military trucks and a pickup navigating deep water as uniformed personnel and civilians gather near the vehicles; high-rise buildings line the background."
 geo:
 id: 25429
 item_type: Still Image

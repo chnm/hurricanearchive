@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 042cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e8b48f714fb2a0e8b4cfb.jpg
     url: /files/original/14fb2a0e8b48f714fb2a0e8b4cfb.jpg
+    alt:
+      en: "Two semi trucks with trailers parked on a concrete lot under open-sided shelters, with a military vehicle and uniformed personnel nearby, one walking across the pavement."
 geo:
 id: 19655
 item_type: Still Image

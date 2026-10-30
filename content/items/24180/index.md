@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea05efbc14fb29ea05f3a7.jpg
     url: /files/original/14fb29ea05efbc14fb29ea05f3a7.jpg
+    alt:
+      en: "Flooded rural road with a submerged pickup truck and trailer driving through standing water, a leaning utility pole with downed lines, and a half-submerged truck parked near a fence line amid floodwaters."
 geo:
 id: 24180
 item_type: Still Image

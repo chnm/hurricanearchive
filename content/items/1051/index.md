@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28040.jpg
     thumb: /files/thumbnails/14fb2a6b4386c314fb2a6b438aa8.jpg
     url: /files/original/14fb2a6b4386c314fb2a6b438aa8.jpg
+    alt:
+      en: "Five large black industrial hoses or pipes with flanged, bolted metal ends lie side by side on pavement, with grass and a curb visible in the background."
 geo:
   address: ''
   lat: 0.0

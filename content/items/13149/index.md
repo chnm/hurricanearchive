@@ -21,6 +21,8 @@ files:
     original_filename: 139 rita at night.jpg
     thumb: /files/thumbnails/14fb2a1ff6612614fb2a1ff6650b.jpg
     url: /files/original/14fb2a1ff6612614fb2a1ff6650b.jpg
+    alt:
+      en: "A dark nighttime scene, likely shot through a rain-speckled window, showing faint light reflections and the blurred outline of a building against an otherwise black sky."
 geo:
 id: 13149
 item_type: Still Image

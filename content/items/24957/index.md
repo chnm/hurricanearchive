@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1473superdome.JPG
     thumb: /files/thumbnails/14fb29e39a43a714fb29e39a478c.jpg
     url: /files/original/14fb29e39a43a714fb29e39a478c.jpg
+    alt:
+      en: "Military helicopter flies over a plaza with National Guard trucks, soldiers in fatigues, and a bronze statue, elevated highway overpasses visible in the background."
 geo:
 id: 24957
 item_type: Still Image

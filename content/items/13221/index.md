@@ -21,6 +21,8 @@ files:
     original_filename: 216 blinds2.jpg
     thumb: /files/thumbnails/14fb2a1f35885914fb2a1f358c3e.jpg
     url: /files/original/14fb2a1f35885914fb2a1f358c3e.jpg
+    alt:
+      en: "A tangled mass of bent, ribbed window blind slats, with a dim room visible in the background."
 geo:
 id: 13221
 item_type: Still Image

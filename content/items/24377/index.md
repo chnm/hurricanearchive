@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-25-24A.jpg
     thumb: /files/thumbnails/14fb29e8609ab014fb29e8609e96.jpg
     url: /files/original/14fb29e8609ab014fb29e8609e96.jpg
+    alt:
+      en: "A dark stairwell doorway beside a wall-mounted sign reading \"137 STAIRS,\" with metal railings and steps visible in shadow through the open door."
 geo:
 id: 24377
 item_type: Still Image

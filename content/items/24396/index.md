@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-17-16A.jpg
     thumb: /files/thumbnails/14fb29e849342e14fb29e8493757.jpg
     url: /files/original/14fb29e849342e14fb29e8493757.jpg
+    alt:
+      en: "Flooded parking lot with several vehicles—an SUV, sedan, pickup truck, and van—submerged to their wheel wells in murky water, with fog and trees visible in the background amid heavy rain."
 geo:
 id: 24396
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28727.jpg
     thumb: /files/thumbnails/14fb2a675837e514fb2a67583abb.jpg
     url: /files/original/14fb2a675837e514fb2a67583abb.jpg
+    alt:
+      en: "Two people stand with a rescued horse in a metal stable stall, the man shaking hands with the woman holding the horse's lead rope, part of the rescue-horse barn at Lamar-Dixon Fairgrounds."
 geo:
   address: ''
   lat: 0.0

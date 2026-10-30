@@ -21,6 +21,8 @@ files:
     original_filename: PCDV0664.JPG
     thumb: /files/thumbnails/14fb29fc2d0eb814fb29fc2d129f.jpg
     url: /files/original/14fb29fc2d0eb814fb29fc2d129f.jpg
+    alt:
+      en: "A gray plaque mounted on a brick wall reads \"MILITARY LIBRARY, DEDICATED IN MEMORY OF BG WARNER L. BRUNER, JR., A DISTINGUISHED CITIZEN-SOLDIER AND OUTSTANDING GUARDSMAN, 6 JULY 1934 - 6 APRIL 1995.\""
 geo:
 id: 21723
 item_type: Still Image

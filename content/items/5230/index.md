@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0675.JPG
     thumb: /files/thumbnails/14fb2a5343a25f14fb2a5343a646.jpg
     url: /files/original/14fb2a5343a25f14fb2a5343a646.jpg
+    alt:
+      en: "Damaged trees and scattered debris line a cleared lot beside a road, with a partially visible house and utility lines in the background under an overcast sky."
 geo:
 id: 5230
 item_type: Still Image

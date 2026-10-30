@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0081-9-25.JPG
     thumb: /files/thumbnails/14fb2a03b72a8714fb2a03b72e6d.jpg
     url: /files/original/14fb2a03b72a8714fb2a03b72e6d.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with debris-strewn floodwaters surrounding leafless trees, damaged structures, and a partially submerged road, with marshland stretching to the horizon."
 geo:
 id: 20801
 item_type: Still Image

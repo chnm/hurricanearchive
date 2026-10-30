@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 017.jpg
     thumb: /files/thumbnails/14fb2a59edffd914fb2a59ee0832.jpg
     url: /files/original/14fb2a59edffd914fb2a59ee0832.jpg
+    alt:
+      en: "Storm-damaged landscape with stripped, broken trees and scattered debris surrounding a partially collapsed white house, photographed through a vehicle window under a clear blue sky."
 geo:
 id: 3737
 item_type: Still Image

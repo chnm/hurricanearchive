@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4860_c7cc9cd744.jpg
     thumb: /files/thumbnails/14fb2a1e373f7b14fb2a1e374361.jpg
     url: /files/original/14fb2a1e373f7b14fb2a1e374361.jpg
+    alt:
+      en: "Yearbook page titled \"Mrs. Shields' Fourth Grade Class\" with individual student portraits, a printed name list, a class group photo, and a photo of two children wearing \"Duke\" and \"Maid\" sashes."
 geo:
 id: 13357
 item_type: Still Image

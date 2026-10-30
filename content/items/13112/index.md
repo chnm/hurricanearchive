@@ -21,6 +21,8 @@ files:
     original_filename: flying debris2.jpg
     thumb: /files/thumbnails/14fb2a2057e9e714fb2a2057edcb.jpg
     url: /files/original/14fb2a2057e9e714fb2a2057edcb.jpg
+    alt:
+      en: "A hazy, fog-filled sky with a single dark object, possibly debris, suspended in flight above a barely visible structure with railings, poles, and wires at the bottom of the frame."
 geo:
 id: 13112
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 046cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c03389a14fb2a0c033a36.jpg
     url: /files/original/14fb2a0c03389a14fb2a0c033a36.jpg
+    alt:
+      en: "A New Orleans Police patrol car (unit 497) parked on a tree-lined residential street littered with storm debris, with large historic houses and other vehicles in the background."
 geo:
 id: 19949
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0344_9a9aa0b834.jpg
     thumb: /files/thumbnails/14fb29cda8549814fb29cda85571.jpg
     url: /files/original/14fb29cda8549814fb29cda85571.jpg
+    alt:
+      en: "A rusted, abandoned Chevrolet pickup truck with a purple hood sits in a debris-strewn lot, with a derelict building and old bulldozer bucket in the background."
 geo:
 id: 30037
 item_type: Still Image

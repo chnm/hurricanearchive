@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0257.JPG
     thumb: /files/thumbnails/14fb29febaad0114fb29febaaf59.jpg
     url: /files/original/14fb29febaad0114fb29febaaf59.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood with debris-covered streets, collapsed roofs, downed trees and power lines, and standing floodwater between rows of houses."
 geo:
 id: 21442
 item_type: Still Image

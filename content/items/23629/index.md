@@ -21,6 +21,8 @@ files:
     original_filename: P1010070empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee6640bc14fb29ee664497.jpg
     url: /files/original/14fb29ee6640bc14fb29ee664497.jpg
+    alt:
+      en: "Damaged concrete pier with exposed rusted metal rebar in the foreground, overlooking a shoreline with trees, rocky debris, and a body of water with a distant boat."
 geo:
 id: 23629
 item_type: Still Image

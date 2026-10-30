@@ -21,6 +21,8 @@ files:
     original_filename: TOK20509140235-big.jpg
     thumb: /files/thumbnails/14fb29dd9d40f214fb29dd9d48bf.jpg
     url: /files/original/14fb29dd9d40f214fb29dd9d48bf.jpg
+    alt:
+      en: "A military cargo plane flies low over a flooded residential neighborhood, with houses partially submerged in brown floodwaters surrounded by trees under a hazy sky."
 geo:
 id: 25445
 item_type: Still Image

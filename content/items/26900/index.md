@@ -21,6 +21,8 @@ files:
     original_filename: KJ St Marks 2 1970_f9c30a3287.jpg
     thumb: /files/thumbnails/14fb29d6533ee314fb29d6534739.jpg
     url: /files/original/14fb29d6533ee314fb29d6534739.jpg
+    alt:
+      en: "A boy in a plaid jacket and pink shirt stands near an altar rail, with a man at a podium reading \"Light of the World\" in the background, inside a church."
 geo:
   address: ''
   lat: 29.87876

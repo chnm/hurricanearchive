@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0280-9-25.JPG
     thumb: /files/thumbnails/14fb29fde2709c14fb29fde27372.jpg
     url: /files/original/14fb29fde2709c14fb29fde27372.jpg
+    alt:
+      en: "Aerial view of a flooded street lined with buildings and trees, with a boat washed into a yard, a stranded truck, and construction equipment surrounded by floodwater."
 geo:
 id: 21511
 item_type: Still Image

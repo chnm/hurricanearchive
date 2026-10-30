@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0097.JPG
     thumb: /files/thumbnails/14fb2a5594da8714fb2a5594de1b.jpg
     url: /files/original/14fb2a5594da8714fb2a5594de1b.jpg
+    alt:
+      en: "A collapsed house with its roof fallen to the ground and wood framing exposed, surrounded by trees and fallen branches, with a brick chimney still standing amid the debris."
 geo:
 id: 4785
 item_type: Still Image

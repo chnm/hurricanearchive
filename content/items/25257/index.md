@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1984superdome.JPG
     thumb: /files/thumbnails/14fb29e01a3f0d14fb29e01a42ee.jpg
     url: /files/original/14fb29e01a3f0d14fb29e01a42ee.jpg
+    alt:
+      en: "A military helicopter sits on wet pavement with its rear loading ramp down, as several uniformed crew members in helmets stand nearby, with tall buildings visible in the background."
 geo:
 id: 25257
 item_type: Still Image

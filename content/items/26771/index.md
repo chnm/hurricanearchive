@@ -24,6 +24,8 @@ files:
     original_filename: WC 4th Great grandfather 1850s_37ecdeaa0a.jpg
     thumb: /files/thumbnails/14fb29d7de48d114fb29d7de4cb7.jpg
     url: /files/original/14fb29d7de48d114fb29d7de4cb7.jpg
+    alt:
+      en: "Aged tintype portrait of a bearded man wearing a wide-brimmed hat and dark coat, smoking a pipe, with a faded landscape backdrop and worn, tarnished edges."
 geo:
   address: ''
   lat: 29.84064

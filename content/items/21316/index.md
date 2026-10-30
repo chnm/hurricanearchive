@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0226-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff887cef14fb29ff8880d4.jpg
     url: /files/original/14fb29ff887cef14fb29ff8880d4.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood, with debris-strewn yards, roofs stripped of shingles, scattered vehicles, and a large downed tree lying across a street."
 geo:
 id: 21316
 item_type: Still Image

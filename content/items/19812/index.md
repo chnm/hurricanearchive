@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003tentcity.JPG
     thumb: /files/thumbnails/14fb2a0dace47114fb2a0dace858.jpg
     url: /files/original/14fb2a0dace47114fb2a0dace858.jpg
+    alt:
+      en: "A man in a brown T-shirt with a towel around his neck opens a flap on a large tan canvas tent, revealing a dark mesh window panel beneath."
 geo:
 id: 19812
 item_type: Still Image

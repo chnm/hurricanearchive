@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2104superdome.JPG
     thumb: /files/thumbnails/14fb29e4c0a9d314fb29e4c0adb9.jpg
     url: /files/original/14fb29e4c0a9d314fb29e4c0adb9.jpg
+    alt:
+      en: "A person in a colorful rainbow clown costume and wig, face painted, sits surrounded by children and adults at a nighttime gathering, with face-painting supplies and a cooler nearby."
 geo:
 id: 24782
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2089superdome.JPG
     thumb: /files/thumbnails/14fb29dea73b4e14fb29dea73f34.jpg
     url: /files/original/14fb29dea73b4e14fb29dea73f34.jpg
+    alt:
+      en: "Wet concrete ramp or walkway with dark staining and a patched section, leading toward an open area with a building and equipment visible in the background."
 geo:
 id: 25362
 item_type: Still Image

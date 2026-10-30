@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8516.jpg
     thumb: /files/thumbnails/14fb2a6633192114fb2a66331d0a.jpg
     url: /files/original/14fb2a6633192114fb2a66331d0a.jpg
+    alt:
+      en: "A storm-damaged wooden house tilted on its pilings sits amid a vast field of debris, with a broken wicker chair and scattered wreckage covering the foreground."
 geo:
 id: 2473
 item_type: Still Image

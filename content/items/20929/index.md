@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0150-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0197db7314fb2a0197f187.jpg
     url: /files/original/14fb2a0197db7314fb2a0197f187.jpg
+    alt:
+      en: "Aerial view of a flooded, debris-strewn landscape with a collapsed metal-framed structure, scattered wreckage, bare trees, and standing floodwater covering roads and fields."
 geo:
 id: 20929
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28151.jpg
     thumb: /files/thumbnails/14fb2a6d385e5214fb2a6d38632d.jpg
     url: /files/original/14fb2a6d385e5214fb2a6d38632d.jpg
+    alt:
+      en: "Debris from a destroyed home lies scattered across a yard, including a bathtub with plumbing fittings, wooden decking, and roofing sections, with damaged houses visible in the background."
 geo:
   address: ''
   lat: 0.0

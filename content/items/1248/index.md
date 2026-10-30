@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28168.jpg
     thumb: /files/thumbnails/14fb2a6a10c3e614fb2a6a10c7cc.jpg
     url: /files/original/14fb2a6a10c3e614fb2a6a10c7cc.jpg
+    alt:
+      en: "A white single-story house with dark shutters and a black mailbox numbered \"207\" in front, surrounded by a patchy lawn with scattered debris and a bare, damaged tree."
 geo:
   address: ''
   lat: 0.0

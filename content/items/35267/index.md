@@ -18,6 +18,8 @@ files:
     original_filename: 5_029d0befd1.jpg
     thumb: /files/thumbnails/14fb29c74d531d14fb29c74d5f19.jpg
     url: /files/original/14fb29c74d531d14fb29c74d5f19.jpg
+    alt:
+      en: "Tree-lined residential street with blue and orange craftsman-style bungalow houses, a parked sedan, and utility pole shadows cast across the pavement."
 geo:
   address: Poland St, New Orleans, LA
   lat: 29.9646

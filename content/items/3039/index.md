@@ -21,6 +21,8 @@ files:
     original_filename: 100_0288.JPG
     thumb: /files/thumbnails/14fb2a5e764b3214fb2a5e764f15.jpg
     url: /files/original/14fb2a5e764b3214fb2a5e764f15.jpg
+    alt:
+      en: "Gray naval vessel marked \"60\" docked at a pier, with masts, antennas, and radar equipment visible against a clear blue sky; a crane and smaller boats appear in the background."
 geo:
 id: 3039
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0055-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a051e01c514fb2a051e0921.jpg
     url: /files/original/14fb2a051e01c514fb2a051e0921.jpg
+    alt:
+      en: "Aerial view of a muddy pasture with scattered cattle grazing, farm buildings, vehicles, and a horseback rider visible near fenced enclosures in the upper right."
 geo:
 id: 20677
 item_type: Still Image

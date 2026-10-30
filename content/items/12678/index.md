@@ -21,6 +21,8 @@ files:
     original_filename: 100-25_1c4b335407.jpg
     thumb: /files/thumbnails/14fb2a21cb324614fb2a21cbc54e.jpg
     url: /files/original/14fb2a21cb324614fb2a21cbc54e.jpg
+    alt:
+      en: "Faded, blurry color snapshot of two women wearing glasses, one in a white top with a pearl necklace holding a tray, standing indoors near a wall with pink flowers."
 geo:
 id: 12678
 item_type: Still Image

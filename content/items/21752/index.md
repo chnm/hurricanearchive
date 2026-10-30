@@ -21,6 +21,8 @@ files:
     original_filename: katrina 020.jpg
     thumb: /files/thumbnails/14fb29fbf6024314fb29fbf6114d.jpg
     url: /files/original/14fb29fbf6024314fb29fbf6114d.jpg
+    alt:
+      en: "A dark green military medevac helicopter marked \"Georgia\" and \"799\" with a red cross insignia sits parked on a rooftop lot, as a soldier in camouflage and civilians stand nearby."
 geo:
 id: 21752
 item_type: Still Image

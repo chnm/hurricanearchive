@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0147mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f306962314fb29f30699ff.jpg
     url: /files/original/14fb29f306962314fb29f30699ff.jpg
+    alt:
+      en: "A uniformed military police member stands watch at a road checkpoint, with a parked truck, folding chair, traffic cone, and large gravel piles visible near damaged houses in the background."
 geo:
 id: 22857
 item_type: Still Image

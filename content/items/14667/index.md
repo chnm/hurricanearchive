@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_Alexia Wilson pics03_f8291ab786.jpg
     thumb: /files/thumbnails/14fb2a187942fb14fb2a187946da.jpg
     url: /files/original/14fb2a187942fb14fb2a187946da.jpg
+    alt:
+      en: "A girl in a pink genie-style Halloween costume with a sheer veil stands smiling on a gravel lot, with another costumed child and large oak trees in the background."
 geo:
 id: 14667
 item_type: Still Image

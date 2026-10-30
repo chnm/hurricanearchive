@@ -26,6 +26,8 @@ files:
     original_filename: assisted_living_8c580fa0be.jpg
     thumb: /files/thumbnails/14fb2a6e6b3e4c14fb2a6e6b41eb.jpg
     url: /files/original/14fb2a6e6b3e4c14fb2a6e6b41eb.jpg
+    alt:
+      en: "A single-story building with a partially collapsed wall, exposing insulation and debris scattered across the lawn, surrounded by a landscaped lawn with a rock-lined drainage channel."
 geo:
   address: ''
   lat: 31.245138

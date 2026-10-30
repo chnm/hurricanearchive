@@ -24,6 +24,8 @@ files:
     original_filename: 0002.JPG
     thumb: /files/thumbnails/14fb2a5c10425c14fb2a5c10463e.jpg
     url: /files/original/14fb2a5c10425c14fb2a5c10463e.jpg
+    alt:
+      en: "Nighttime street view from inside a vehicle, headlights illuminating a debris-strewn road in a darkened Gentilly neighborhood, with a FEMA trailer at left and silhouetted houses and trees under a dark sky."
 geo:
 id: 3421
 item_type: Still Image

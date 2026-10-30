@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-042-19A.jpg
     thumb: /files/thumbnails/14fb29cedc41f214fb29cedc497a.jpg
     url: /files/original/14fb29cedc41f214fb29cedc497a.jpg
+    alt:
+      en: "A twin-rotor military helicopter flies low over a line of storm-damaged pine trees, with semi trucks—including one marked \"XTRA\"—parked in a lot below under a partly cloudy sky."
 geo:
 id: 29126
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2456707283_1e7b9037db.
     thumb: /files/thumbnails/14fb29c892398514fb29c8923d69.jpg
     url: /files/original/14fb29c892398514fb29c8923d69.jpg
+    alt:
+      en: "Small white towboat labeled \"Ashley Wolfe\" docked on a muddy river, with a man in a hard hat standing on the barge deck and trees and a brick house visible on the far shore."
 geo:
 id: 34905
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28718.jpg
     thumb: /files/thumbnails/14fb2a67486ea014fb2a674873ea.jpg
     url: /files/original/14fb2a67486ea014fb2a674873ea.jpg
+    alt:
+      en: "A man with his arm in a sling and a woman in a teal shirt examine a horse bridle outdoors near parked vehicles and large metal buildings at the animal rescue depot."
 geo:
   address: ''
   lat: 0.0

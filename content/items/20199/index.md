@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0128-9-18.JPG
     thumb: /files/thumbnails/14fb2a0ac8948114fb2a0ac89867.jpg
     url: /files/original/14fb2a0ac8948114fb2a0ac89867.jpg
+    alt:
+      en: "Flooded roadway littered with debris and several abandoned, mud-caked vehicles partially submerged in standing water, with a rock-strewn embankment in the foreground and a levee wall in the background."
 geo:
 id: 20199
 item_type: Still Image

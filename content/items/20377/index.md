@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007.JPG
     thumb: /files/thumbnails/14fb2a083cf5cf14fb2a083cf9b4.jpg
     url: /files/original/14fb2a083cf5cf14fb2a083cf9b4.jpg
+    alt:
+      en: "Two women sit at a table with open laptops, water bottles, and a banana, while other people work on computers in the background of a classroom-like room."
 geo:
 id: 20377
 item_type: Still Image

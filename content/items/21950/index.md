@@ -21,6 +21,8 @@ files:
     original_filename: Picture 281-J2.jpg
     thumb: /files/thumbnails/14fb29fae2b1ff14fb29fae2b5e5.jpg
     url: /files/original/14fb29fae2b1ff14fb29fae2b5e5.jpg
+    alt:
+      en: "A small helicopter flies against a clear blue sky, seen from a distance below."
 geo:
 id: 21950
 item_type: Still Image

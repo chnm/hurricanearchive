@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1067Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8999d4d14fb29f899a9c6.jpg
     url: /files/original/14fb29f8999d4d14fb29f899a9c6.jpg
+    alt:
+      en: "Silhouetted figures, one holding a radio, stand behind a brick wall topped with barbed wire, looking out at hazy, storm-swept houses and power lines in heavy rain or fog."
 geo:
 id: 22256
 item_type: Still Image

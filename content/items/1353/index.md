@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28044.jpg
     thumb: /files/thumbnails/14fb2a69629c7114fb2a69629fa7.jpg
     url: /files/original/14fb2a69629c7114fb2a69629fa7.jpg
+    alt:
+      en: "Brick church building with a tall steeple and stained-glass window, a marquee sign reading \"BS FEST...AUG 12 6TO...FOR INF 028 2,\" and an orange spray-painted X marking on the glass door."
 geo:
   address: ''
   lat: 0.0

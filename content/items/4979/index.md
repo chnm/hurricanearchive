@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0324.JPG
     thumb: /files/thumbnails/14fb2a54a6ed6f14fb2a54a6f156.jpg
     url: /files/original/14fb2a54a6ed6f14fb2a54a6f156.jpg
+    alt:
+      en: "Underside view of a roof structure showing exposed wooden rafters, OSB sheathing, and a white gutter edge, with trees visible through the open eave below."
 geo:
 id: 4979
 item_type: Still Image

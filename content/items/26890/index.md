@@ -21,6 +21,8 @@ files:
     original_filename: freshman clowns_ffc11b1f2b.jpg
     thumb: /files/thumbnails/14fb29d67d1bfc14fb29d67d1fdf.jpg
     url: /files/original/14fb29d67d1bfc14fb29d67d1fdf.jpg
+    alt:
+      en: "Two yearbook photos: a student in costume by lockers captioned \"Owl Week,\" and four students in homemade clown/owl costumes with signs reading \"95\" and \"CHS,\" captioned \"Band babies clown around.\""
 geo:
 id: 26890
 item_type: Still Image

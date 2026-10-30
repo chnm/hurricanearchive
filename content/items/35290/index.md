@@ -18,6 +18,8 @@ files:
     original_filename: 25_54a981b87d.jpg
     thumb: /files/thumbnails/14fb29c7068aea14fb29c7069140.jpg
     url: /files/original/14fb29c7068aea14fb29c7069140.jpg
+    alt:
+      en: "Two majorettes in white and red marching band uniforms with matching berets pose holding rifles, standing on a wet street at dusk with illuminated buildings and a truck in the background."
 geo:
   address: new orleans, la
   lat: 29.95324

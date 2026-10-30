@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 062.jpg
     thumb: /files/thumbnails/14fb2a22a931bd14fb2a22a935a3.jpg
     url: /files/original/14fb2a22a931bd14fb2a22a935a3.jpg
+    alt:
+      en: "Damaged gas station canopy with debris scattered across a lot, high-rise building and palm trees in background, dated 2005/09/24 in corner."
 geo:
 id: 11940
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0086-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a037ac05814fb2a037ac43e.jpg
     url: /files/original/14fb2a037ac05814fb2a037ac43e.jpg
+    alt:
+      en: "Aerial view of a flood-damaged coastal property with a partially collapsed house, scattered debris, and a slab foundation of a destroyed building surrounded by floodwaters and bare trees."
 geo:
 id: 20823
 item_type: Still Image

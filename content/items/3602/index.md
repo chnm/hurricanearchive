@@ -24,6 +24,8 @@ files:
     original_filename: P1010032.JPG
     thumb: /files/thumbnails/14fb2a5aa6e98014fb2a5aa6ed5b.jpg
     url: /files/original/14fb2a5aa6e98014fb2a5aa6ed5b.jpg
+    alt:
+      en: "Two porcelain ewers with hand-painted portraits of women lie on dead leaves and dirt, alongside a round painted plaque and a pitcher, left outdoors amid storm debris."
 geo:
 id: 3602
 item_type: Still Image

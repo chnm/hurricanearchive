@@ -21,6 +21,8 @@ files:
     original_filename: More Jackson Barracks 5Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4e073d414fb29f4e077b0.jpg
     url: /files/original/14fb29f4e073d414fb29f4e077b0.jpg
+    alt:
+      en: "Floodwater submerges a residential area up to the first floor of white buildings, with debris including floating doors, a tarp, and a wooden crate filled with sandbags."
 geo:
 id: 22646
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0088H.JPG
     thumb: /files/thumbnails/14fb29e832573314fb29e8325b19.jpg
     url: /files/original/14fb29e832573314fb29e8325b19.jpg
+    alt:
+      en: "Woman wearing a Hooters tank top and nametag reading \"ERIN,\" with \"I ❤ Hooters\" stickers on her arm, writing with a pen while a man in a gray T-shirt stands beside her."
 geo:
 id: 24409
 item_type: Still Image

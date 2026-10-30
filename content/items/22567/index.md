@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1856Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f53da89414fb29f53dac7b.jpg
     url: /files/original/14fb29f53da89414fb29f53dac7b.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rooftops, trailers, and power lines emerging from brown floodwater that covers streets and yards entirely."
 geo:
 id: 22567
 item_type: Still Image

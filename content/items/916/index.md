@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28129.jpg
     thumb: /files/thumbnails/14fb2a6c37301314fb2a6c3733f1.jpg
     url: /files/original/14fb2a6c37301314fb2a6c3733f1.jpg
+    alt:
+      en: "A debris-covered field in Slidell, Louisiana, with a partially legible road sign reading \"NG\" buried under dried grass, scattered lumber, and wreckage from Hurricane Katrina in the background."
 geo:
   address: ''
   lat: 0.0

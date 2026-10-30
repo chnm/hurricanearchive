@@ -20,6 +20,8 @@ files:
     original_filename: 1281616217_64125cd18f.jpg
     thumb: /files/thumbnails/14fb29cb87b7e414fb29cb87bbca.jpg
     url: /files/original/14fb29cb87b7e414fb29cb87bbca.jpg
+    alt:
+      en: "Debris pile with discarded televisions, an old refrigerator, and scattered rubble in front of a damaged brick house, with overgrown grass and trees in the background."
 geo:
 id: 33213
 item_type: Still Image

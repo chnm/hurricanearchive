@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0122.JPG
     thumb: /files/thumbnails/14fb2a137bf80d14fb2a137bfbf2.jpg
     url: /files/original/14fb2a137bf80d14fb2a137bfbf2.jpg
+    alt:
+      en: "Military personnel in flight suits inside a helicopter cockpit, one speaking on a cell phone while another looks upward; stenciled \"HOLD\" text visible on the canopy frame above."
 geo:
 id: 19055
 item_type: Still Image

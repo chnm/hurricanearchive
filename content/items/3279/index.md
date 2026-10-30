@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (41).jpg
     thumb: /files/thumbnails/14fb2a5cc5b80414fb2a5cc5c72f.jpg
     url: /files/original/14fb2a5cc5b80414fb2a5cc5c72f.jpg
+    alt:
+      en: "Collapsed, flattened house with warped green and brown roofing lies amid scattered debris, bricks, and standing water, with a white house and trees visible behind it under a clear blue sky."
 geo:
 id: 3279
 item_type: Still Image

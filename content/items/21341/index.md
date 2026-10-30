@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0232-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff4dbe7514fb29ff4dc13f.jpg
     url: /files/original/14fb29ff4dbe7514fb29ff4dc13f.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with widespread storm damage, including stripped and collapsed roofs, scattered debris, downed trees, and streets covered in dried mud or silt."
 geo:
 id: 21341
 item_type: Still Image

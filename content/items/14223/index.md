@@ -21,6 +21,8 @@ files:
     original_filename: pilots and dog.JPG
     thumb: /files/thumbnails/14fb2a1a77546414fb2a1a775855.jpg
     url: /files/original/14fb2a1a77546414fb2a1a775855.jpg
+    alt:
+      en: "Three men in military and civilian clothing kneel beside a rescued dog, one wearing blue medical gloves while fastening a collar, with a helicopter and open grassland visible behind them."
 geo:
   address: ''
   lat: 0.0

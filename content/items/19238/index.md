@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017rita.JPG
     thumb: /files/thumbnails/14fb2a11b3877314fb2a11b38b60.jpg
     url: /files/original/14fb2a11b3877314fb2a11b38b60.jpg
+    alt:
+      en: "A man in military camouflage fatigues stands talking near a chain-link fence, with another person's silhouetted head in the foreground and \"PARKING\" painted in yellow on the pavement."
 geo:
 id: 19238
 item_type: Still Image

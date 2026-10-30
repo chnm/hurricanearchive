@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0559.JPG
     thumb: /files/thumbnails/14fb2a56aacdfb14fb2a56aad095.jpg
     url: /files/original/14fb2a56aacdfb14fb2a56aad095.jpg
+    alt:
+      en: "Cinder block house foundation pillars stand amid scattered debris and household items, with large trees and a truck visible in the background under a clear blue sky."
 geo:
 id: 4630
 item_type: Still Image

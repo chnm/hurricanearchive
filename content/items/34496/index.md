@@ -27,6 +27,8 @@ files:
     original_filename: 2309934141_22cf331865.
     thumb: /files/thumbnails/14fb29c9add02414fb29c9add40a.jpg
     url: /files/original/14fb29c9add02414fb29c9add40a.jpg
+    alt:
+      en: "Bent metal poles and a bare concrete slab remain where a beach house once stood, with two men and a dog standing amid storm debris and damaged homes in the background."
 geo:
   address: ''
   lat: 30.22539

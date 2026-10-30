@@ -24,6 +24,8 @@ files:
     original_filename: P1010084.JPG
     thumb: /files/thumbnails/14fb2a5a788e5014fb2a5a78d4d8.jpg
     url: /files/original/14fb2a5a788e5014fb2a5a78d4d8.jpg
+    alt:
+      en: "A two-story brick house with a patched roof and dark shutters stands behind a large pile of storm debris—furniture, mattresses, and household items—cordoned off with yellow caution tape."
 geo:
 id: 3648
 item_type: Still Image

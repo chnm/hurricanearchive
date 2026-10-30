@@ -26,6 +26,8 @@ files:
     original_filename: boatonroad_43ba650fcf.jpg
     thumb: /files/thumbnails/14fb2a572268b814fb2a57226c9c.jpg
     url: /files/original/14fb2a572268b814fb2a57226c9c.jpg
+    alt:
+      en: "A large metal boat lies overturned on its side in a grassy roadside area, with a damaged, wind-bent tree, power lines, and a rusted metal barn in the background."
 geo:
   address: ''
   lat: 29.82173

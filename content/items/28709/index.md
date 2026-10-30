@@ -20,6 +20,8 @@ files:
     original_filename: 114539556_6f8e9261d3.jpg
     thumb: /files/thumbnails/14fb29d176eaa714fb29d176ee8e.jpg
     url: /files/original/14fb29d176eaa714fb29d176ee8e.jpg
+    alt:
+      en: "Green \"CAVALLO\" charter bus parked on a residential street beside a sidewalk with scattered debris and weeds, with houses, parked cars, and utility poles visible in the background under an overcast sky."
 geo:
 id: 28709
 item_type: Still Image

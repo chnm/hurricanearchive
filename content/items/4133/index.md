@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0019.JPG
     thumb: /files/thumbnails/14fb2a57825f9d14fb2a5782637d.jpg
     url: /files/original/14fb2a57825f9d14fb2a5782637d.jpg
+    alt:
+      en: "A damaged waterfront lot with debris, rubble piles, and rusted equipment, a small white boat labeled \"SUNSKIFF 150\" beached in the foreground, and derelict shrimp boats with tangled rigging near the dock."
 geo:
 id: 4133
 item_type: Still Image

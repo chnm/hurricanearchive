@@ -21,6 +21,8 @@ files:
     original_filename: SGT's truck at Jackson BrksJacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3ce3d6314fb29f3ce4145.jpg
     url: /files/original/14fb29f3ce3d6314fb29f3ce4145.jpg
+    alt:
+      en: "Interior of a Ford truck with a shattered windshield and missing side window, debris scattered on the dashboard and seats, and a firefighter's turnout coat draped over the passenger seat."
 geo:
 id: 22794
 item_type: Still Image

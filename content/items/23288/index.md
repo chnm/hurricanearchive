@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038cameronS&R.JPG
     thumb: /files/thumbnails/14fb29f01befec14fb29f01bf3d2.jpg
     url: /files/original/14fb29f01befec14fb29f01bf3d2.jpg
+    alt:
+      en: "Aerial view of a flattened coastal community reduced to scattered debris and bare foundations along a grid of streets, with floodwater pooling throughout and the shoreline fading into haze."
 geo:
 id: 23288
 item_type: Still Image

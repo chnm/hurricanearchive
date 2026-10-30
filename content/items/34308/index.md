@@ -20,6 +20,8 @@ files:
     original_filename: photo_tribunal-press-conference-mckinney-new-orleans_2d07b79753.jpg
     thumb: /files/thumbnails/14fb29ca4ed0d514fb29ca4ed4bc.jpg
     url: /files/original/14fb29ca4ed0d514fb29ca4ed4bc.jpg
+    alt:
+      en: "A group of men and women stand outside the Hale Boggs Federal Building at 500 Poydras Street, gathered for a press conference, with the building's sign visible behind them."
 geo:
 id: 34308
 item_type: Still Image

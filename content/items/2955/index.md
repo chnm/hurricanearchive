@@ -21,6 +21,8 @@ files:
     original_filename: MVC-010S.JPG
     thumb: /files/thumbnails/14fb2a5f78d6c814fb2a5f78daae.jpg
     url: /files/original/14fb2a5f78d6c814fb2a5f78daae.jpg
+    alt:
+      en: "A large gray artillery gun mounted on a pedestal sits in a grassy park with picnic tables and paved paths, with a bridge bearing a FedEx-marked truck crossing water in the background."
 geo:
 id: 2955
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0584.JPG
     thumb: /files/thumbnails/14fb2a567068af14fb2a567088aa.jpg
     url: /files/original/14fb2a567068af14fb2a567088aa.jpg
+    alt:
+      en: "A large pile of debris consisting of broken bricks, rubble, and scattered trash, including a white cup and a shattered dark-colored object, lying on bare ground near dry branches."
 geo:
 id: 4655
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-17-16Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e5640f0c14fb29e56412f2.jpg
     url: /files/original/14fb29e5640f0c14fb29e56412f2.jpg
+    alt:
+      en: "A large truck with a canvas-covered bed, packed with people and bundled belongings, is parked near water as a person in military fatigues helps someone holding a child wrapped in pink."
 geo:
 id: 24715
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 111cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bad2f0114fb2a0bad32d5.jpg
     url: /files/original/14fb2a0bad2f0114fb2a0bad32d5.jpg
+    alt:
+      en: "A sailboat lies tipped on its side on muddy ground, its mast tilted at an angle with rigging lines tangled, trees and a low wall visible in the background."
 geo:
 id: 20014
 item_type: Still Image

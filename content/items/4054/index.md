@@ -21,6 +21,8 @@ files:
     original_filename: DSC01189.JPG
     thumb: /files/thumbnails/14fb2a5833a7f014fb2a5833abcd.jpg
     url: /files/original/14fb2a5833a7f014fb2a5833abcd.jpg
+    alt:
+      en: "Group portrait of about seventeen U.S. Coast Guard personnel in dark uniforms and hats posing outdoors near trailers, with a city skyline in the background; a timestamp reads \"8 8:03 AM.\""
 geo:
 id: 4054
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09140042.JPG
     thumb: /files/thumbnails/14fb29e950789814fb29e95089fa.jpg
     url: /files/original/14fb29e950789814fb29e95089fa.jpg
+    alt:
+      en: "A tall concrete floodwall with visible waterline staining stands beside floodwater that has pushed debris, mud, and a small boat up against its base."
 geo:
 id: 24261
 item_type: Still Image

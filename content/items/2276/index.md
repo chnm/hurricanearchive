@@ -26,6 +26,8 @@ files:
     original_filename: DSC03364_bea8dd7daa.JPG
     thumb: /files/thumbnails/14fb2a6d653ef214fb2a6d6542ce.jpg
     url: /files/original/14fb2a6d653ef214fb2a6d6542ce.jpg
+    alt:
+      en: "Two people with luggage stand outside the Avenue Plaza Resort Hotel & Spa under a red awning, with sandbags piled near the entrance and a car parked along the street."
 geo:
   address: ''
   lat: 29.9357092643849

@@ -21,6 +21,8 @@ files:
     original_filename: 3_6d36b48ee4.jpg
     thumb: /files/thumbnails/14fb29d399472b14fb29d3994be4.jpg
     url: /files/original/14fb29d399472b14fb29d3994be4.jpg
+    alt:
+      en: "Children pose on a statue of a Komodo dragon at the Audubon Zoo in New Orleans, with adults and greenery visible in the background."
 geo:
   address: ''
   lat: 29.84064

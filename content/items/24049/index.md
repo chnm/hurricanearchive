@@ -21,6 +21,8 @@ files:
     original_filename: DSC00062neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb3a628414fb29eb3a6a06.jpg
     url: /files/original/14fb29eb3a628414fb29eb3a6a06.jpg
+    alt:
+      en: "Military personnel unload supplies, including water bottles, from camouflage transport trucks in a parking lot, with a dark pickup truck in the foreground and a storefront reading \"Warehouse\" in the background."
 geo:
 id: 24049
 item_type: Still Image

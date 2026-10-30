@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 095cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e3a2c8e14fb2a0e3a3073.jpg
     url: /files/original/14fb2a0e3a2c8e14fb2a0e3a3073.jpg
+    alt:
+      en: "Debris-covered road littered with dried leaves, broken branches, and downed limbs, flanked by trees and a white fence, with houses visible in the background under a clear sky."
 geo:
 id: 19708
 item_type: Still Image

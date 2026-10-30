@@ -20,6 +20,8 @@ files:
     original_filename: Roof Damage 2_36bc333d7d.jpg
     thumb: /files/thumbnails/14fb29c229bbce14fb29c229bfb6.jpg
     url: /files/original/14fb29c229bbce14fb29c229bfb6.jpg
+    alt:
+      en: "A single-story house with a dark roof showing a large patch of exposed, lighter-colored underlayment or missing shingles, with a mailbox and green lawn in the foreground."
 geo:
   address: ''
   lat: 30.02053

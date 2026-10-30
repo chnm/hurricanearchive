@@ -20,6 +20,8 @@ files:
     original_filename: 2420898171_066b0afcb5.
     thumb: /files/thumbnails/14fb29c927f97b14fb29c927fc7c.jpg
     url: /files/original/14fb29c927f97b14fb29c927fc7c.jpg
+    alt:
+      en: "Dimly lit church interior with overturned and disordered wooden pews scattered across the floor, a wooden cross mounted on the back wall, and two pendant light fixtures hanging from the ceiling."
 geo:
   address: ''
   lat: 29.97632

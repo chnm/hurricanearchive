@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0553.JPG
     thumb: /files/thumbnails/14fb2a537178bf14fb2a53717ca4.jpg
     url: /files/original/14fb2a537178bf14fb2a53717ca4.jpg
+    alt:
+      en: "A narrow water channel winds through a marshy grass field, bordered by tall reeds on one side and a line of pine trees with reddish-brown needles on the other."
 geo:
 id: 5191
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (1).JPG
     thumb: /files/thumbnails/14fb2a5da9fa0214fb2a5daa0272.jpg
     url: /files/original/14fb2a5da9fa0214fb2a5daa0272.jpg
+    alt:
+      en: "A debris-strewn residential street lined with bare, storm-damaged trees, utility poles, and a light blue siding house, under a hazy gray sky."
 geo:
 id: 3156
 item_type: Still Image

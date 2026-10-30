@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0267.JPG
     thumb: /files/thumbnails/14fb29fe87a20b14fb29fe87a661.jpg
     url: /files/original/14fb29fe87a20b14fb29fe87a661.jpg
+    alt:
+      en: "Aerial view from a helicopter of a large domed stadium roof with extensive storm damage, exposing patches of underlying material amid white covering, surrounded by downtown high-rise buildings."
 geo:
 id: 21465
 item_type: Still Image

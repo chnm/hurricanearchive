@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1661superdome.JPG
     thumb: /files/thumbnails/14fb29e27bccb914fb29e27bd09f.jpg
     url: /files/original/14fb29e27bccb914fb29e27bd09f.jpg
+    alt:
+      en: "Flooded urban street with military trucks and a Humvee navigating deep water, as semi-trailers sit partly submerged and an elevated highway with \"To Baton Rouge\" and \"Interstate 10 West\" signs looms above."
 geo:
 id: 25075
 item_type: Still Image

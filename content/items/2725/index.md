@@ -21,6 +21,8 @@ files:
     original_filename: 23.jpg
     thumb: /files/thumbnails/14fb2a606bdd4a14fb2a606be131.jpg
     url: /files/original/14fb2a606bdd4a14fb2a606be131.jpg
+    alt:
+      en: "Child's crayon drawing of an American flag with red and white stripes and a blue canton dotted with yellow stars, signed \"Fidell, 10\" in the lower right."
 geo:
 id: 2725
 item_type: Still Image

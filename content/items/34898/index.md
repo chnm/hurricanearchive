@@ -20,6 +20,8 @@ files:
     original_filename: 2456720177_0eda80d654.
     thumb: /files/thumbnails/14fb29c89d77a314fb29c89d7b86.jpg
     url: /files/original/14fb29c89d77a314fb29c89d7b86.jpg
+    alt:
+      en: "Construction site with sheet piling driven along a waterfront building, a green pile-driving machine on a crane, workers in coveralls, and a sign reading \"Orleans Levee District Police\" and \"Sorbent Storage Area.\""
 geo:
 id: 34898
 item_type: Still Image

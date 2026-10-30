@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0003.JPG
     thumb: /files/thumbnails/14fb2a56f52e9714fb2a56f53275.jpg
     url: /files/original/14fb2a56f52e9714fb2a56f53275.jpg
+    alt:
+      en: "Massive pile of storm debris—splintered wood, mattresses, and household items—lines a roadside, with damaged trees and two houses visible in the background under an overcast sky."
 geo:
 id: 4577
 item_type: Still Image

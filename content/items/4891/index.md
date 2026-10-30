@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0210.JPG
     thumb: /files/thumbnails/14fb2a550c073214fb2a550c0b18.jpg
     url: /files/original/14fb2a550c073214fb2a550c0b18.jpg
+    alt:
+      en: "A weathered wooden post-and-rail fence with chain-link runs along a dirt roadside, with fallen branches, palmettos, and tall pine trees showing storm damage in the background."
 geo:
 id: 4891
 item_type: Still Image

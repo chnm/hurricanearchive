@@ -23,6 +23,8 @@ files:
     original_filename: 2326075843_15a699f0b1.
     thumb: /files/thumbnails/14fb29c9f6810714fb29c9f684ee.jpg
     url: /files/original/14fb29c9f6810714fb29c9f684ee.jpg
+    alt:
+      en: "A single-story house with its exterior walls stripped away, exposing wooden framing and brick columns, with a large bare tree growing through the covered porch area and storm debris scattered on the ground."
 geo:
   address: ''
   lat: 30.23304

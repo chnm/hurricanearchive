@@ -21,6 +21,8 @@ files:
     original_filename: New Orleans from I-10neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ee6aefaf14fb29ee6af394.jpg
     url: /files/original/14fb29ee6aefaf14fb29ee6af394.jpg
+    alt:
+      en: "View of the New Orleans skyline from an elevated interstate highway, with a concrete barrier and street light pole in the foreground and a mix of high-rise and brick warehouse buildings beyond."
 geo:
 id: 23623
 item_type: Still Image

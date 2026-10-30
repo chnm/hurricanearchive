@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0743.JPG
     thumb: /files/thumbnails/14fb2a570d85c614fb2a570d89b8.jpg
     url: /files/original/14fb2a570d85c614fb2a570d89b8.jpg
+    alt:
+      en: "Skeletal wooden frame of a partially constructed or storm-damaged building stands amid scattered debris, with a brick pillar topped by a lantern and a large tree in the foreground under a cloudy sky."
 geo:
 id: 4541
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7443.JPG
     thumb: /files/thumbnails/14fb29cc9df7dd14fb29cc9dfbba.jpg
     url: /files/original/14fb29cc9df7dd14fb29cc9dfbba.jpg
+    alt:
+      en: "A massive uprooted tree lies on its side, its large root ball exposed with dangling roots and soil, surrounded by greenery and sunlight filtering through nearby trees."
 geo:
 id: 30742
 item_type: Still Image

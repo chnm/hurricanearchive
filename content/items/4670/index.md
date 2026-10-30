@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0621.JPG
     thumb: /files/thumbnails/14fb2a56561a7714fb2a56561e5d.jpg
     url: /files/original/14fb2a56561a7714fb2a56561e5d.jpg
+    alt:
+      en: "Fallen trees with bare, broken branches lie across a grassy yard, partially covering a white building, with green foliage still attached to some of the downed limbs."
 geo:
 id: 4670
 item_type: Still Image

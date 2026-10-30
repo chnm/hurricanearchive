@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00782 DSC00782cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5b0d38a14fb29e5b0d7ea.jpg
     url: /files/original/14fb29e5b0d38a14fb29e5b0d7ea.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms and civilians gathered outdoors near a damaged building, with downed trees, a power pole, and vehicles visible in the background under a clear sky."
 geo:
 id: 24681
 item_type: Still Image

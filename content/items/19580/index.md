@@ -21,6 +21,8 @@ files:
     original_filename: S4300034zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ef952d114fb2a0ef956b4.jpg
     url: /files/original/14fb2a0ef952d114fb2a0ef956b4.jpg
+    alt:
+      en: "Close-up of a pink vehicle panel with text reading \"B.F.P.S. MobiLe Laundry Service, Perfection IN KLeaning, US DOT # 1098375.\""
 geo:
 id: 19580
 item_type: Still Image

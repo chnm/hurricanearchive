@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0056abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efe2d32314fb29efe2d708.jpg
     url: /files/original/14fb29efe2d32314fb29efe2d708.jpg
+    alt:
+      en: "A blue inflatable kiddie pool and a white cylindrical container float in floodwater beside a debris-covered bank with bare trees and tangled brush."
 geo:
 id: 23341
 item_type: Still Image

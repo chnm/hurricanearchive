@@ -27,6 +27,8 @@ files:
     original_filename: 2379895295_fed0423c9f.
     thumb: /files/thumbnails/14fb29ca2c17c014fb29ca2c1ba0.jpg
     url: /files/original/14fb29ca2c17c014fb29ca2c1ba0.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with scattered debris, damaged structures, and broken piers surrounded by water, under a partly cloudy sky; dated 8/31/2."
 geo:
   address: ''
   lat: 30.22559

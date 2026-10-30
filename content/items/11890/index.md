@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 012.jpg
     thumb: /files/thumbnails/14fb2a22de301914fb2a22de33f8.jpg
     url: /files/original/14fb2a22de301914fb2a22de33f8.jpg
+    alt:
+      en: "Boatyard and marina with a blue \"Kremer Marine\" building, several sailboats and motorboats docked or stored on land near wooden pilings, dated 2005/09/24."
 geo:
 id: 11890
 item_type: Still Image

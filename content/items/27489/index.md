@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6534_4279c99a0d.jpg
     thumb: /files/thumbnails/14fb29d3fd33e114fb29d3fd37f5.jpg
     url: /files/original/14fb29d3fd33e114fb29d3fd37f5.jpg
+    alt:
+      en: "Katie Landry, wearing a white dress, hat, and blue sash, holds hands with her escort in a white shirt and blue sash, posed together on stone steps near a statue."
 geo:
   address: ''
   lat: 29.91685

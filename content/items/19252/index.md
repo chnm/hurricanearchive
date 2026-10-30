@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0137rita.JPG
     thumb: /files/thumbnails/14fb2a119de8eb14fb2a119decd1.jpg
     url: /files/original/14fb2a119de8eb14fb2a119decd1.jpg
+    alt:
+      en: "A grassy park with large oak trees and a paved path, two tall lamp posts in the foreground, and an orange utility truck parked near trees on the right."
 geo:
 id: 19252
 item_type: Still Image

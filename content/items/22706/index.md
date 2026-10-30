@@ -21,6 +21,8 @@ files:
     original_filename: PICT0604Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f495e35914fb29f495e742.jpg
     url: /files/original/14fb29f495e35914fb29f495e742.jpg
+    alt:
+      en: "Two-story brick buildings with white columns and balconies, seen across a grassy lawn with scattered debris and a chain-link fence; photo dated 09.15.2005."
 geo:
 id: 22706
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 118651856_7f0e172375.jpg
     thumb: /files/thumbnails/14fb29d1ba3dae14fb29d1ba4194.jpg
     url: /files/original/14fb29d1ba3dae14fb29d1ba4194.jpg
+    alt:
+      en: "Flooded wetland with partially submerged tree trunks and posts, bordered by distant trees, seen from a bridge with a concrete guardrail under a partly cloudy sky."
 geo:
 id: 28690
 item_type: Still Image

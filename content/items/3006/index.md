@@ -21,6 +21,8 @@ files:
     original_filename: 100_0255.JPG
     thumb: /files/thumbnails/14fb2a5f05ba8c14fb2a5f05c95b.jpg
     url: /files/original/14fb2a5f05ba8c14fb2a5f05c95b.jpg
+    alt:
+      en: "Outdoor aircraft display lot with military planes and a helicopter parked on pavement, a battleship in the background, and a green \"Southern Waste\" dumpster and storage containers in the foreground."
 geo:
 id: 3006
 item_type: Still Image

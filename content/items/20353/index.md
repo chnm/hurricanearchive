@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004H.JPG
     thumb: /files/thumbnails/14fb2a0876922f14fb2a08769995.jpg
     url: /files/original/14fb2a0876922f14fb2a08769995.jpg
+    alt:
+      en: "Dimly lit tent interior with a pool table in the foreground; a woman in a \"Hooters Siegen Lane, Baton Rouge II, LA\" tank top holds a cue stick while men stand nearby."
 geo:
 id: 20353
 item_type: Still Image

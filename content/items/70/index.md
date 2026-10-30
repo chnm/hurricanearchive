@@ -26,6 +26,8 @@ files:
     original_filename: 100_5365_ef4710d49a.JPG
     thumb: /files/thumbnails/14fb2a7124b9b414fb2a7124c03f.jpg
     url: /files/original/14fb2a7124b9b414fb2a7124c03f.jpg
+    alt:
+      en: "A man stands amid heavy storm debris—broken bricks, appliances, and rubble—surrounded by damaged, leafless trees; the photo is timestamped 09/26/2005."
 geo:
   address: ''
   lat: 30.005653

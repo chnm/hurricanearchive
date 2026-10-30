@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0011.JPG
     thumb: /files/thumbnails/14fb2a5788952114fb2a57889907.jpg
     url: /files/original/14fb2a5788952114fb2a57889907.jpg
+    alt:
+      en: "Industrial site with large storage tanks and scattered debris, a damaged car abandoned beside a road, a water tower labeled \"AMERON\" in the background, and bare trees amid wreckage."
 geo:
 id: 4125
 item_type: Still Image

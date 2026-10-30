@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0367.JPG
     thumb: /files/thumbnails/14fb2a546382b214fb2a54638acb.jpg
     url: /files/original/14fb2a546382b214fb2a54638acb.jpg
+    alt:
+      en: "A yellow tape measure spans a weathered wooden board, measuring debris and scattered pine needles, twigs, and dirt alongside damaged lumber."
 geo:
 id: 5022
 item_type: Still Image

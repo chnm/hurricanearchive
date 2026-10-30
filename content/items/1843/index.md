@@ -26,6 +26,8 @@ files:
     original_filename: holly4_0ad2105407.JPG
     thumb: /files/thumbnails/14fb2a6eb1fa0a14fb2a6eb1fdf0.jpg
     url: /files/original/14fb2a6eb1fa0a14fb2a6eb1fdf0.jpg
+    alt:
+      en: "Flattened, debris-strewn lot with sand mounds, scattered rubble, and a damaged car, with a red-legged water tower and power lines visible on the horizon."
 geo:
   address: ''
   lat: 29.7714925803499

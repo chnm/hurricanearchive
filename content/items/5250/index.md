@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0695.JPG
     thumb: /files/thumbnails/14fb2a5332304d14fb2a53323430.jpg
     url: /files/original/14fb2a5332304d14fb2a53323430.jpg
+    alt:
+      en: "A large fallen tree trunk lies across a damaged wooden structure, surrounded by scattered dry leaves and branches, with a piece of white perforated siding or vent material visible among the debris."
 geo:
 id: 5250
 item_type: Still Image

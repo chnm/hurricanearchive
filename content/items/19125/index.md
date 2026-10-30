@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 035.jpg
     thumb: /files/thumbnails/14fb2a12d6ce5214fb2a12d6d230.jpg
     url: /files/original/14fb2a12d6ce5214fb2a12d6d230.jpg
+    alt:
+      en: "Military Humvees parked in a row on pavement, one towing an equipment trailer with a satellite dish, alongside a large warehouse building and uniformed personnel in the background."
 geo:
 id: 19125
 item_type: Still Image

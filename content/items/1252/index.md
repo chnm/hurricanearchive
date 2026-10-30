@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28730.jpg
     thumb: /files/thumbnails/14fb2a6a0b403514fb2a6a0b43b6.jpg
     url: /files/original/14fb2a6a0b403514fb2a6a0b43b6.jpg
+    alt:
+      en: "Animal stall area with a handwritten sign reading \"Rabbits and Ferret, ALL CATS, 1. INTAKE, 2. KITTY WELCOME CENTER,\" surrounded by hanging towels, cords, and a fan on the floor."
 geo:
   address: ''
   lat: 0.0

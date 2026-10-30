@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_10_14b32560d3.jpg
     thumb: /files/thumbnails/14fb2a17df10f914fb2a17df14e4.jpg
     url: /files/original/14fb2a17df10f914fb2a17df14e4.jpg
+    alt:
+      en: "Two people sit on a white porch swing bench in front of a brick house, a young girl in a light blue outfit and an older girl in a black t-shirt and dark pants, with a bag of Doritos beside them."
 geo:
 id: 14760
 item_type: Still Image

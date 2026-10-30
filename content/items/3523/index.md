@@ -24,6 +24,8 @@ files:
     original_filename: P1010098.JPG
     thumb: /files/thumbnails/14fb2a5b2d608014fb2a5b2d6466.jpg
     url: /files/original/14fb2a5b2d608014fb2a5b2d6466.jpg
+    alt:
+      en: "A white building numbered 2682 with a carport supported by stone-textured columns, one marked with red spray-painted search-and-rescue symbols including a date notation, reflecting storm damage assessment markings."
 geo:
 id: 3523
 item_type: Still Image

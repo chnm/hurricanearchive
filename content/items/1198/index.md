@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28721.jpg
     thumb: /files/thumbnails/14fb2a6a7118cf14fb2a6a711b4c.jpg
     url: /files/original/14fb2a6a7118cf14fb2a6a711b4c.jpg
+    alt:
+      en: "A woman in a teal polo shirt holds a leather animal halter while gesturing and speaking, standing on pavement near parked vehicles at the rescue depot."
 geo:
   address: ''
   lat: 0.0

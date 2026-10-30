@@ -21,6 +21,8 @@ files:
     original_filename: Picture 087cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bcc986c14fb2a0bcc9c82.jpg
     url: /files/original/14fb2a0bcc986c14fb2a0bcc9c82.jpg
+    alt:
+      en: "Street view of a parking lot with several vehicles, including a red car, beside a low commercial building; debris is scattered on the pavement and a flag reading \"WE\" flies from a pole."
 geo:
 id: 19990
 item_type: Still Image

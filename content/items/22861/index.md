@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0154mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f30244f814fb29f30248de.jpg
     url: /files/original/14fb29f30244f814fb29f30248de.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage uniform and helmet leans toward a vehicle window at a checkpoint, speaking with the silhouetted driver inside, who gestures with one hand."
 geo:
 id: 22861
 item_type: Still Image

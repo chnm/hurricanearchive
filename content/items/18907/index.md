@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0257downtownnola.JPG
     thumb: /files/thumbnails/14fb2a144d3a2a14fb2a144d3e10.jpg
     url: /files/original/14fb2a144d3a2a14fb2a144d3e10.jpg
+    alt:
+      en: "Aerial view of a flood-damaged neighborhood with debris-covered streets, scattered vehicles and military trucks, stripped trees, and warehouse-style buildings, with a body of water visible in the background."
 geo:
 id: 18907
 item_type: Still Image

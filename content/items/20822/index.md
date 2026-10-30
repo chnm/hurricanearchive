@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0086-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a037ccf9414fb2a037d11f3.jpg
     url: /files/original/14fb2a037ccf9414fb2a037d11f3.jpg
+    alt:
+      en: "A soldier in camouflage uniform and beret stands with arms crossed in a debris-strewn yard, with floodwater surrounding nearby houses and trucks in the background."
 geo:
 id: 20822
 item_type: Still Image

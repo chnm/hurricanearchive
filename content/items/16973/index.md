@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5904_ec46045392.jpg
     thumb: /files/thumbnails/14fb2a15914b6014fb2a159154b1.jpg
     url: /files/original/14fb2a15914b6014fb2a159154b1.jpg
+    alt:
+      en: "Outdoor craft fair table displaying animal hides, traps, and carved duck decoys, with a seated man in a cap talking to a standing visitor; a handwritten sign reads \"Jerry Alfonso Hides.\""
 geo:
 id: 16973
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 114535559_0dc235825d.jpg
     thumb: /files/thumbnails/14fb29d167591214fb29d16760e3.jpg
     url: /files/original/14fb29d167591214fb29d16760e3.jpg
+    alt:
+      en: "Large white banner on a building reading \"REOPENING 9-24-2006 GO SAINTS,\" featuring an Atlanta Falcons helmet and a New Orleans Saints helmet, with trees visible below."
 geo:
 id: 28713
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1849Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f54844f614fb29f54848db.jpg
     url: /files/original/14fb29f54844f614fb29f54848db.jpg
+    alt:
+      en: "Aerial view of a severely flooded residential neighborhood with submerged houses, mobile homes, and a large brick building, surrounded by floodwater with a small boat navigating between structures."
 geo:
 id: 22560
 item_type: Still Image

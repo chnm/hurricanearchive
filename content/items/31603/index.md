@@ -21,6 +21,8 @@ files:
     original_filename: 051207NOLA102RWlg_962405c31f.jpg
     thumb: /files/thumbnails/14fb29cc12e83514fb29cc12ebdd.jpg
     url: /files/original/14fb29cc12e83514fb29cc12ebdd.jpg
+    alt:
+      en: "Black-and-white photo of two boys dressed in suits outside a columned building; the older boy holds a saxophone, with text overlay reading \"2007 © Craig Morse, Culture Subculture Photography.\""
 geo:
 id: 31603
 item_type: Still Image

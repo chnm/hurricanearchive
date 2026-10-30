@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0287.JPG
     thumb: /files/thumbnails/14fb2a54d325bd14fb2a54d329a1.jpg
     url: /files/original/14fb2a54d325bd14fb2a54d329a1.jpg
+    alt:
+      en: "Interior of a damp, mold-stained closet or crawlspace with a torn \"CertainTeed\" insulation bag, exposed yellow fiberglass insulation, and a cluttered shelf holding clothing and a \"Baker's\" brand box."
 geo:
 id: 4945
 item_type: Still Image

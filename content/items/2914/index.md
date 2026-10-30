@@ -21,6 +21,8 @@ files:
     original_filename: MVC-003S.JPG
     thumb: /files/thumbnails/14fb2a5f97f62f14fb2a5f97fa12.jpg
     url: /files/original/14fb2a5f97f62f14fb2a5f97fa12.jpg
+    alt:
+      en: "Empty industrial metal shelving units with multiple gray shelves supported by brown metal frames, standing in a bare room with light-colored walls."
 geo:
 id: 2914
 item_type: Still Image

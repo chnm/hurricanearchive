@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28383.jpg
     thumb: /files/thumbnails/14fb2a6b4288f214fb2a6b428cd8.jpg
     url: /files/original/14fb2a6b4288f214fb2a6b428cd8.jpg
+    alt:
+      en: "Two men stand in the wheelhouse of a shrimp boat beside a wooden ship's wheel; one wears a blue shirt, the other a maroon \"Key West\" t-shirt and cap, surrounded by wiring, windows, and equipment."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: S4300138Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3f83b9214fb29f3f83f78.jpg
     url: /files/original/14fb29f3f83b9214fb29f3f83f78.jpg
+    alt:
+      en: "Rubble-strewn lot with scattered cinder blocks, concrete piers, a large black pipe, and debris on a bed of broken white and gray stones, with bare trees and a chain-link fence in the background."
 geo:
 id: 22782
 item_type: Still Image

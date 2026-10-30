@@ -22,6 +22,8 @@ files:
     original_filename: waterlevel.jpg
     thumb: /files/thumbnails/92bc10a7b4e14dc94fad4b3372cd6cd8.jpg
     url: /files/original/92bc10a7b4e14dc94fad4b3372cd6cd8.jpg
+    alt:
+      en: "Black-and-white photo of a damaged, weathered room with a broken ceiling fan hanging askew, charred wood paneling, and a bright window letting in light on the right."
 geo:
   address: lower ninth ward
   lat: 29.9682712

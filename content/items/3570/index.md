@@ -24,6 +24,8 @@ files:
     original_filename: P1010145.JPG
     thumb: /files/thumbnails/14fb2a5ac5226e14fb2a5ac52653.jpg
     url: /files/original/14fb2a5ac5226e14fb2a5ac52653.jpg
+    alt:
+      en: "A massive pile of storm debris including mattresses, a chair, bagged trash, and splintered wood rises against a clear blue sky, with a lone cushion and scattered rubble on the grass below."
 geo:
 id: 3570
 item_type: Still Image

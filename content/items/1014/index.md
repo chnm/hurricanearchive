@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28716.jpg
     thumb: /files/thumbnails/14fb2a6b6912af14fb2a6b691659.jpg
     url: /files/original/14fb2a6b6912af14fb2a6b691659.jpg
+    alt:
+      en: "Two workers examine a leather halter while one writes on a clipboard, standing in a parking lot near a large storage bin, with vehicles and fairground buildings in the background."
 geo:
   address: ''
   lat: 0.0

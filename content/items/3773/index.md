@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 053.jpg
     thumb: /files/thumbnails/14fb2a59caf90c14fb2a59cafd01.jpg
     url: /files/original/14fb2a59caf90c14fb2a59cafd01.jpg
+    alt:
+      en: "Debris-strewn lot with a collapsed structure's curved metal roof and scattered wreckage, surrounded by damaged trees under a clear blue sky."
 geo:
 id: 3773
 item_type: Still Image

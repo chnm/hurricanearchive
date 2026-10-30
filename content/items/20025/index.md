@@ -21,6 +21,8 @@ files:
     original_filename: Picture 122cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba41f3014fb2a0ba4231c.jpg
     url: /files/original/14fb2a0ba41f3014fb2a0ba4231c.jpg
+    alt:
+      en: "Damaged boats lie toppled and piled near a blue \"Marine Travelift\" boat hoist, with overgrown brush, railroad tracks, and power lines in the foreground and background."
 geo:
 id: 20025
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1577superdome.JPG
     thumb: /files/thumbnails/14fb29e2a2ae7d14fb29e2a2b201.jpg
     url: /files/original/14fb29e2a2ae7d14fb29e2a2b201.jpg
+    alt:
+      en: "Military Humvees, marked \"773 239MP\" and \"X302,\" lead a convoy of vehicles onto a flooded roadway where submerged cars sit in deep standing water lining the street."
 geo:
 id: 25052
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 100_5746_54d90412f0.JPG
     thumb: /files/thumbnails/14fb2a711dd0f414fb2a711dd4db.jpg
     url: /files/original/14fb2a711dd0f414fb2a711dd4db.jpg
+    alt:
+      en: "A bent streetlight with a \"St. Charles Ave\" sign still attached lies toppled at ground level, its lamp head angled sideways amid a tree-lined residential street. Dated 11/03/2005."
 geo:
   address: ''
   lat: 30.005653

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 406-J2.jpg
     thumb: /files/thumbnails/14fb29f99d8d4a14fb29f99d912f.jpg
     url: /files/original/14fb29f99d8d4a14fb29f99d912f.jpg
+    alt:
+      en: "A row of yellow portable toilets lines a paved lot, with a person exiting one; a tall construction crane, military trucks, and blue portable toilets stand in the background under a clear sky."
 geo:
 id: 22075
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-17-16A.jpg
     thumb: /files/thumbnails/14fb29e866ff0114fb29e86709fd.jpg
     url: /files/original/14fb29e866ff0114fb29e86709fd.jpg
+    alt:
+      en: "Close-up, out-of-focus shot of a blue woven tarp or mesh material, with a teal surface visible in the lower right corner."
 geo:
 id: 24369
 item_type: Still Image

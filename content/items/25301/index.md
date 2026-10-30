@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2028superdome.JPG
     thumb: /files/thumbnails/14fb29df4eab5b14fb29df4eb1e5.jpg
     url: /files/original/14fb29df4eab5b14fb29df4eb1e5.jpg
+    alt:
+      en: "Three men in camouflage military uniforms carry a patient on a stretcher across a wet outdoor pavement, with a highway overpass visible in the background."
 geo:
 id: 25301
 item_type: Still Image

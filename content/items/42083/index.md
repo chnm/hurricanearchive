@@ -23,6 +23,8 @@ files:
     original_filename: Wingate4_b464116d67.jpg
     thumb: /files/thumbnails/14fb29c391cf3914fb29c391d325.jpg
     url: /files/original/14fb29c391cf3914fb29c391d325.jpg
+    alt:
+      en: "Abandoned single-story house with a red spray-painted X search marker on its front door, flanked by bare trees, debris-strewn yard, and a neighboring home on a quiet residential street."
 geo:
   address: 5769 Wingate Drive
   lat: 30.01697

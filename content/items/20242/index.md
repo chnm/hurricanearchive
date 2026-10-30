@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140016.JPG
     thumb: /files/thumbnails/14fb2a0a7cb77a14fb2a0a7cbb5e.jpg
     url: /files/original/14fb2a0a7cb77a14fb2a0a7cbb5e.jpg
+    alt:
+      en: "Interior of a Ford truck with a shattered, spider-webbed windshield, debris scattered across the dashboard and seats, and a canvas jacket or bag draped over the passenger seat."
 geo:
 id: 20242
 item_type: Still Image

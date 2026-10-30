@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0104OEP.JPG
     thumb: /files/thumbnails/14fb29f193c6b814fb29f193ca94.jpg
     url: /files/original/14fb29f193c6b814fb29f193ca94.jpg
+    alt:
+      en: "Two men in military camouflage uniforms converse in an office setting filled with cubicles, papers, and computers; a sign reading \"LSU Hospital System\" is visible on a nearby desk."
 geo:
 id: 23094
 item_type: Still Image

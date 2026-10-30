@@ -18,6 +18,8 @@ files:
     original_filename: Lyndel house (1) (2)_315fd6aea5.jpg
     thumb: /files/thumbnails/14fb29ca764afc14fb29ca764e87.jpg
     url: /files/original/14fb29ca764afc14fb29ca764e87.jpg
+    alt:
+      en: "Interior of a storm-damaged room with peeling wallpaper and a collapsed, water-stained ceiling, debris covering the floor, a hanging light fixture, and a small picture frame still mounted on the wall."
 geo:
   address: ''
   lat: 0.0

@@ -27,6 +27,8 @@ files:
     original_filename: 248977_4134524cf9.jpg
     thumb: /files/thumbnails/14fb2a66c310b814fb2a66c31904.jpg
     url: /files/original/14fb2a66c310b814fb2a66c31904.jpg
+    alt:
+      en: "Uniformed service members in camouflage gather with duffel bags and gear beside a \"Martz\" charter bus and a covered walkway, preparing to board for deployment."
 geo:
 id: 2388
 item_type: Still Image

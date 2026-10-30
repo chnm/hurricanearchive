@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Uptown (2).JPG
     thumb: /files/thumbnails/14fb2a5db57f8e14fb2a5db58373.jpg
     url: /files/original/14fb2a5db57f8e14fb2a5db58373.jpg
+    alt:
+      en: "Interior bedroom with a wooden four-poster canopy bed, heavily damaged ceiling exposing beams and insulation, a ceiling fan tilted askew, and cardboard boxes piled on the mattress."
 geo:
 id: 3150
 item_type: Still Image

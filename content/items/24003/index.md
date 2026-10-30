@@ -21,6 +21,8 @@ files:
     original_filename: 09280005plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebf8d8cc14fb29ebf8dcb2.jpg
     url: /files/original/14fb29ebf8d8cc14fb29ebf8dcb2.jpg
+    alt:
+      en: "A person rests on a cot beneath a green mosquito net tent set up outdoors on sandy ground, with sandals, a water bottle, and debris scattered nearby."
 geo:
 id: 24003
 item_type: Still Image

@@ -25,6 +25,8 @@ files:
     original_filename: 158259507_e7036a5bcf.jpg
     thumb: /files/thumbnails/14fb29d1f1262414fb29d1f12984.jpg
     url: /files/original/14fb29d1f1262414fb29d1f12984.jpg
+    alt:
+      en: "Overturned car lies in debris beside a cracked road, with \"GALVEZ\" spray-painted in orange and arrows pointing both directions; a damaged house and standing water appear in the background."
 geo:
 id: 28646
 item_type: Still Image

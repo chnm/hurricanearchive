@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7404.JPG
     thumb: /files/thumbnails/14fb29ccc7890e14fb29ccc78ce9.jpg
     url: /files/original/14fb29ccc7890e14fb29ccc78ce9.jpg
+    alt:
+      en: "A large tree has fallen and lies at an angle across the forest, its exposed root ball covered in moss visible at right, surrounded by dense green underbrush and standing trees."
 geo:
 id: 30707
 item_type: Still Image

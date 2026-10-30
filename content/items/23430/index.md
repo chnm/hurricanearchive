@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0100abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef7acfca14fb29ef7ad3b0.jpg
     url: /files/original/14fb29ef7acfca14fb29ef7ad3b0.jpg
+    alt:
+      en: "A herd of cattle, some lying down and others standing, rests along a muddy roadside next to a flooded ditch, with wading birds and power lines visible in the background under a cloudy sky."
 geo:
 id: 23430
 item_type: Still Image

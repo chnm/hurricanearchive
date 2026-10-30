@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0402.JPG
     thumb: /files/thumbnails/14fb2a543138db14fb2a54313ce8.jpg
     url: /files/original/14fb2a543138db14fb2a54313ce8.jpg
+    alt:
+      en: "Skeletal wood framing stands amid storm debris where a house once stood, with scattered furniture, a bicycle, and twisted metal siding surrounded by trees under a clear sky."
 geo:
 id: 5057
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0188-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a004d588714fb2a004d5c64.jpg
     url: /files/original/14fb2a004d588714fb2a004d5c64.jpg
+    alt:
+      en: "Aerial view of military trucks and small boats staged on a flooded highway surrounded by submerged marshland, with a leaning utility pole nearby."
 geo:
 id: 21159
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2146superdome.JPG
     thumb: /files/thumbnails/14fb29e48e7fa414fb29e48e837f.jpg
     url: /files/original/14fb29e48e7fa414fb29e48e837f.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms help evacuees board a large green truck amid floodwaters near a building marked \"New Orleans Arena Box Office.\""
 geo:
 id: 24824
 item_type: Still Image

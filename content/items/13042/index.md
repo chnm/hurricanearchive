@@ -21,6 +21,8 @@ files:
     original_filename: before looking east.jpg
     thumb: /files/thumbnails/14fb2a20e1a7cc14fb2a20e1ac65.jpg
     url: /files/original/14fb2a20e1a7cc14fb2a20e1ac65.jpg
+    alt:
+      en: "Rooftop view with gravel surface and HVAC units in foreground, looking east toward a multi-story building labeled \"Markham\" amid a cloudy urban skyline with brick and stone buildings nearby."
 geo:
 id: 13042
 item_type: Still Image

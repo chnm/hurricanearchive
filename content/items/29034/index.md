@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-03.jpg
     thumb: /files/thumbnails/14fb29d08187da14fb29d0818bbf.jpg
     url: /files/original/14fb29d08187da14fb29d0818bbf.jpg
+    alt:
+      en: "Rows of empty metal aircraft shelters with canvas canopies stand on a concrete ramp, with a building labeled \"Air National Guard\" and a water tower visible in the background."
 geo:
 id: 29034
 item_type: Still Image

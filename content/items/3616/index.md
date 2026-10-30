@@ -24,6 +24,8 @@ files:
     original_filename: P1010049.JPG
     thumb: /files/thumbnails/14fb2a5a9deefe14fb2a5a9df2c6.jpg
     url: /files/original/14fb2a5a9deefe14fb2a5a9df2c6.jpg
+    alt:
+      en: "Empty interior hallway with bare concrete floor and brick support columns, where classroom walls have been stripped down to metal wall studs after flood damage."
 geo:
 id: 3616
 item_type: Still Image

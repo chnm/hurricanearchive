@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0516_bffcda6ff0.JPG
     thumb: /files/thumbnails/14fb2a6eb7745314fb2a6eb77808.jpg
     url: /files/original/14fb2a6eb7745314fb2a6eb77808.jpg
+    alt:
+      en: "An orange tabby cat stands on a wooden porch, gazing out at a flooded street where buildings and storefront signs are reflected in the standing water."
 geo:
   address: ''
   lat: 29.981033338736196

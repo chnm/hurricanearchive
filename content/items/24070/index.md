@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eb15fee214fb29eb160312.jpg
     url: /files/original/14fb29eb15fee214fb29eb160312.jpg
+    alt:
+      en: "A KATC 3 news reporter holds a branded microphone toward a seated soldier in camouflage fatigues inside a military vehicle, while a cameraman films the interview."
 geo:
 id: 24070
 item_type: Still Image

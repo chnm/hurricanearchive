@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28348.jpg
     thumb: /files/thumbnails/14fb2a6b41bde014fb2a6b41c1d4.jpg
     url: /files/original/14fb2a6b41bde014fb2a6b41c1d4.jpg
+    alt:
+      en: "Heavily damaged multi-story casino building with exposed framework and debris, seen through bare, storm-stripped trees, with scattered trash and a green dumpster on the ground below."
 geo:
   address: ''
   lat: 0.0

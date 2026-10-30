@@ -21,6 +21,8 @@ files:
     original_filename: aerials144.jpg
     thumb: /files/thumbnails/14fb2a19e4fbc814fb2a19e4ff9f.jpg
     url: /files/original/14fb2a19e4fbc814fb2a19e4ff9f.jpg
+    alt:
+      en: "Aerial view of a large pavilion-style building with a pagoda-like shingled roof, its lower structure stripped to the frame, standing on pilings over water with docks nearby and vehicles parked on a lot in the background."
 geo:
 id: 14303
 item_type: Still Image

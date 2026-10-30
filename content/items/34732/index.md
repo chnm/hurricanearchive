@@ -20,6 +20,8 @@ files:
     original_filename: 2421691958_f248e04c86.
     thumb: /files/thumbnails/14fb29c91a96f714fb29c91c45cc.jpg
     url: /files/original/14fb29c91a96f714fb29c91c45cc.jpg
+    alt:
+      en: "Interior corner of a room with peeling blue and green paint, a broken window, and plastic storage bins and garbage bags holding salvaged belongings on a wooden floor."
 geo:
   address: ''
   lat: 29.99774

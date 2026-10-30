@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0169abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef12a45714fb29ef12a834.jpg
     url: /files/original/14fb29ef12a45714fb29ef12a834.jpg
+    alt:
+      en: "Two people walk across a debris-strewn yard toward a brick and sided ranch house with green shutters, a white picket fence, and scattered concrete blocks and dried plant debris on the ground."
 geo:
 id: 23539
 item_type: Still Image

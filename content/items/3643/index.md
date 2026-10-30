@@ -24,6 +24,8 @@ files:
     original_filename: P1010078.JPG
     thumb: /files/thumbnails/14fb2a5a81bbea14fb2a5a81c24d.jpg
     url: /files/original/14fb2a5a81bbea14fb2a5a81c24d.jpg
+    alt:
+      en: "Exterior wall of a house torn open, exposing wood framing and insulation, with a fallen tree and scattered debris piled in the yard in front of the damaged structure."
 geo:
 id: 3643
 item_type: Still Image

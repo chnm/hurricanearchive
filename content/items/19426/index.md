@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0088engineers.JPG
     thumb: /files/thumbnails/14fb2a103cda8b14fb2a103cde6a.jpg
     url: /files/original/14fb2a103cda8b14fb2a103cde6a.jpg
+    alt:
+      en: "Sideways photo taken from inside a vehicle, showing a person wearing glasses in the foreground and another figure outside near debris and wreckage, with a mirror and road visible through the window."
 geo:
 id: 19426
 item_type: Still Image

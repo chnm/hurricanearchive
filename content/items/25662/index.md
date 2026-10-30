@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.005.JPG
     thumb: /files/thumbnails/14fb29dcd8af5514fb29dcd8b32f.jpg
     url: /files/original/14fb29dcd8af5514fb29dcd8b32f.jpg
+    alt:
+      en: "Small white stucco house with a dark open doorway and broken window, nearly buried under a massive fallen, leafless tree; yellow spray-painted markings reading \"USN 910 EXT\" with an X are visible on the exterior wall."
 geo:
 id: 25662
 item_type: Still Image

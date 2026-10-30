@@ -24,6 +24,8 @@ files:
     original_filename: 1933 Po Boy_8ea74383ba.tiff
     thumb: /files/thumbnails/14fb29ca4e28e314fb29ca4e2cc8.jpg
     url: /files/original/14fb29ca4e28e314fb29ca4e2cc8.tiff
+    alt:
+      en: "Heavily worn and torn sepia-toned photograph showing two long, cylindrical loaves of bread lying side by side, their crusts cracked and texture visible despite significant creasing, staining, and paper loss across the print."
 geo:
 id: 34329
 item_type: Still Image

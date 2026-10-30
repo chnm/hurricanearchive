@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0079abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efbe94f814fb29efbe98de.jpg
     url: /files/original/14fb29efbe94f814fb29efbe98de.jpg
+    alt:
+      en: "Aerial view of a shrimp boat stranded on a narrow strip of flooded marshland, with four cattle grazing nearby amid standing floodwater and grassy berms."
 geo:
 id: 23382
 item_type: Still Image

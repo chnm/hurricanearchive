@@ -21,6 +21,8 @@ files:
     original_filename: FH000001-9-23-9-23.jpg
     thumb: /files/thumbnails/14fb29fcc5cdbe14fb29fcc5d1a3.jpg
     url: /files/original/14fb29fcc5cdbe14fb29fcc5d1a3.jpg
+    alt:
+      en: "View from inside a vehicle through a dusty windshield showing a white storage container with a window AC unit, scattered debris, a wrecked vehicle behind a metal fence, and bare trees under an overcast sky."
 geo:
 id: 21657
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2139superdome.JPG
     thumb: /files/thumbnails/14fb29e499665a14fb29e4996a3f.jpg
     url: /files/original/14fb29e499665a14fb29e4996a3f.jpg
+    alt:
+      en: "Interior of a building with evacuees gathered amid bags and belongings, a man in military camouflage fatigues standing among them while another man gestures with an outstretched arm."
 geo:
 id: 24817
 item_type: Still Image

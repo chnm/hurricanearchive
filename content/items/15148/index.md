@@ -21,6 +21,8 @@ files:
     original_filename: artmaxmas61a_fbafc08fa9.jpg
     thumb: /files/thumbnails/14fb2a16ecdc9214fb2a16ece052.jpg
     url: /files/original/14fb2a16ecdc9214fb2a16ece052.jpg
+    alt:
+      en: "A woman and a young girl sit together near a decorated Christmas tree, examining a wrapped gift, with vintage furniture and toys visible in a 1961 New Orleans home."
 geo:
   address: ''
   lat: 37.77123

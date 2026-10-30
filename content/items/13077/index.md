@@ -21,6 +21,8 @@ files:
     original_filename: cooling tower wind.jpg
     thumb: /files/thumbnails/14fb2a208d2ba714fb2a208d3282.jpg
     url: /files/original/14fb2a208d2ba714fb2a208d3282.jpg
+    alt:
+      en: "Industrial cooling tower structure with large pale green piping and metal ladders, shrouded in thick fog, viewed from behind a guardrail and cable railing."
 geo:
 id: 13077
 item_type: Still Image

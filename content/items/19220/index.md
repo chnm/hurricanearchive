@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2165conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11c3fb8a14fb2a11c3ff70.jpg
     url: /files/original/14fb2a11c3fb8a14fb2a11c3ff70.jpg
+    alt:
+      en: "Military Humvees and personnel, including an MP, gather near a Shreveport Fire Dept. truck and debris-strewn street, with soldiers standing and sitting atop the vehicles."
 geo:
 id: 19220
 item_type: Still Image

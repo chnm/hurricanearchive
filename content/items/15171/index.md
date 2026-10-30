@@ -21,6 +21,8 @@ files:
     original_filename: GBuckley-6193_690e12110c.jpg
     thumb: /files/thumbnails/14fb2a16c4bff914fb2a16c4c53c.jpg
     url: /files/original/14fb2a16c4bff914fb2a16c4c53c.jpg
+    alt:
+      en: "Black-and-white 1950s snapshot of a family group gathered on a residential street lined with gabled houses, with a woman in a \"Southeastern\" sweatshirt at left and a smiling woman at right."
 geo:
 id: 15171
 item_type: Still Image

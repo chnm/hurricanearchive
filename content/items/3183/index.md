@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (34).JPG
     thumb: /files/thumbnails/14fb2a5d6ef59814fb2a5d6ef97c.jpg
     url: /files/original/14fb2a5d6ef59814fb2a5d6ef97c.jpg
+    alt:
+      en: "Empty parking lot with a damaged roofline on a building in the background, an orange traffic cone, parked vehicles including a \"Robert\" company truck, and a brick church steeple visible under a partly cloudy sky."
 geo:
 id: 3183
 item_type: Still Image

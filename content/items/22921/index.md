@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018tolbertmedia.JPG
     thumb: /files/thumbnails/14fb29f2b08cbd14fb29f2b0909f.jpg
     url: /files/original/14fb29f2b08cbd14fb29f2b0909f.jpg
+    alt:
+      en: "A man wearing a wristwatch holds a professional video camera with a furry microphone, filming an aerial view of a residential neighborhood below from what appears to be a helicopter."
 geo:
 id: 22921
 item_type: Still Image

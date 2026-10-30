@@ -21,6 +21,8 @@ files:
     original_filename: PICT0091neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed2b6d0114fb29ed2b70e7.jpg
     url: /files/original/14fb29ed2b6d0114fb29ed2b70e7.jpg
+    alt:
+      en: "View from a military vehicle traveling down an empty New Orleans street lined with balconied buildings and palm trees, distant smoke rising near downtown high-rises, dated 09.15.2005."
 geo:
 id: 23775
 item_type: Still Image

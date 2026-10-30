@@ -27,6 +27,8 @@ files:
     original_filename: 2291279761_bca860758c.
     thumb: /files/thumbnails/14fb29c9a09a0814fb29c9a09df2.jpg
     url: /files/original/14fb29c9a09a0814fb29c9a09df2.jpg
+    alt:
+      en: "Collapsed dock structure with exposed wooden support beams, scattered debris, and floating wreckage filling the bayou water below, with distant buildings visible through the wreckage."
 geo:
   address: ''
   lat: 30.22539

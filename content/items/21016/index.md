@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0169-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a010c970014fb2a010c9ae4.jpg
     url: /files/original/14fb2a010c970014fb2a010c9ae4.jpg
+    alt:
+      en: "Aerial view of floodwaters submerging a landscape, with scattered debris including a collapsed structure, tarps, and a small cart, surrounded by partially submerged trees and shrubs."
 geo:
 id: 21016
 item_type: Still Image

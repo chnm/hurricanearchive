@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0421_12b562ec82.JPG
     thumb: /files/thumbnails/14fb2a6fc98c7c14fb2a6fc99161.jpg
     url: /files/original/14fb2a6fc98c7c14fb2a6fc99161.jpg
+    alt:
+      en: "A white plantation-style mansion with columned porches and a cupola stands with its ground floor gutted, missing doors and windows, surrounded by a bare, dirt-patched lawn."
 geo:
   address: ''
   lat: 30.387091887781096

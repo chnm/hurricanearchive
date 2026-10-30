@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0401.JPG
     thumb: /files/thumbnails/14fb2a54332cb914fb2a5433309b.jpg
     url: /files/original/14fb2a54332cb914fb2a5433309b.jpg
+    alt:
+      en: "Debris field with scattered wooden support posts and foundation remnants where homes once stood, a partially intact gray house in the background, damaged trees, and scattered rubble across a grassy lot under a clear sky."
 geo:
 id: 5056
 item_type: Still Image

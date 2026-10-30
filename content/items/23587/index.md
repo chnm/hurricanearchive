@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0440cropneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ee9aae6e14fb29ee9ab249.jpg
     url: /files/original/14fb29ee9aae6e14fb29ee9ab249.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with severely damaged homes, scattered debris, uprooted trees, and standing floodwater throughout the streets, with a river, bridge, and industrial structures visible in the background."
 geo:
 id: 23587
 item_type: Still Image

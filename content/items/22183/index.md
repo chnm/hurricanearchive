@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0990Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f936b94e14fb29f936bf1e.jpg
     url: /files/original/14fb29f936b94e14fb29f936bf1e.jpg
+    alt:
+      en: "Two Acadian ambulances (units 173 and 144) and a military police car (MP30) parked at an intersection near a fenced facility, with overcast skies and power lines overhead."
 geo:
 id: 22183
 item_type: Still Image

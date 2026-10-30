@@ -21,6 +21,8 @@ files:
     original_filename: DSCN1508.JPG
     thumb: /files/thumbnails/14fb2a1b9ed07614fb2a1b9eda67.jpg
     url: /files/original/14fb2a1b9ed07614fb2a1b9eda67.jpg
+    alt:
+      en: "Two men in U.S. Army camouflage uniforms stand indoors, the closer one wearing glasses with a nametag reading \"Wilkington\"; a TOC SGM sign and monitors are visible in the background, dated 09.21.2005."
 geo:
   address: ''
   lat: 0.0

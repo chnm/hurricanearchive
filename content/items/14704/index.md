@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DannishDanionGreen_04_e1b4efdb4c.jpg
     thumb: /files/thumbnails/14fb2a1812ee0714fb2a1812f40f.jpg
     url: /files/original/14fb2a1812ee0714fb2a1812f40f.jpg
+    alt:
+      en: "A young boy in a white sweatshirt poses beside Santa Claus in front of a wreath, with \"Merry Christmas 2001\" printed at the bottom of the photo."
 geo:
 id: 14704
 item_type: Still Image

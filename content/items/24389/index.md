@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-10-9A.jpg
     thumb: /files/thumbnails/14fb29e851b10214fb29e851bc9f.jpg
     url: /files/original/14fb29e851b10214fb29e851bc9f.jpg
+    alt:
+      en: "Flooded parking lot with several vehicles partially submerged in murky water, surrounded by thick haze or fog, with power lines and trees faintly visible in the background."
 geo:
 id: 24389
 item_type: Still Image

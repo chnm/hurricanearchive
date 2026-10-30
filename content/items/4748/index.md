@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0258.JPG
     thumb: /files/thumbnails/14fb2a55c2282314fb2a55c22b9c.jpg
     url: /files/original/14fb2a55c2282314fb2a55c22b9c.jpg
+    alt:
+      en: "Cluttered living room with a pink upholstered recliner and plaid armchair in the foreground, surrounded by scattered debris and disordered furniture, with a hallway leading to an open exterior door."
 geo:
 id: 4748
 item_type: Still Image

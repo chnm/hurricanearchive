@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041-9-25.JPG
     thumb: /files/thumbnails/14fb2a05bb0c5114fb2a05bb1037.jpg
     url: /files/original/14fb2a05bb0c5114fb2a05bb1037.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with mobile homes and houses surrounded by standing floodwater, bare trees, and a misty marshland extending to the horizon."
 geo:
 id: 20602
 item_type: Still Image

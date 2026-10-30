@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efe4888814fb29efe48c6e.jpg
     url: /files/original/14fb29efe4888814fb29efe48c6e.jpg
+    alt:
+      en: "Large tan military cargo truck drives through a flooded road, water splashing around its wheels, with leafless trees, storm-damaged buildings, and a yellow excavator visible in the background."
 geo:
 id: 23338
 item_type: Still Image

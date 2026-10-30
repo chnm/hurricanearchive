@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0310.JPG
     thumb: /files/thumbnails/14fb2a54bc27db14fb2a54bc2bc2.jpg
     url: /files/original/14fb2a54bc27db14fb2a54bc2bc2.jpg
+    alt:
+      en: "A chain-link fence separates a mowed lawn from a dense thicket of leaning, damaged trees and overgrown brush, with bare broken trunks visible against a pale sky."
 geo:
 id: 4968
 item_type: Still Image

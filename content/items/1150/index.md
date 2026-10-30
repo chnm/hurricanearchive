@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28561.jpg
     thumb: /files/thumbnails/14fb2a6ac56f2714fb2a6ac5730d.jpg
     url: /files/original/14fb2a6ac56f2714fb2a6ac5730d.jpg
+    alt:
+      en: "Debris-strewn lot in the Lakeview District with a fallen, uprooted tree, scattered wood and rubble, and a damaged house in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

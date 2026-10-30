@@ -21,6 +21,8 @@ files:
     original_filename: S4300005zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f46ecb514fb2a0f46f1a9.jpg
     url: /files/original/14fb2a0f46ecb514fb2a0f46f1a9.jpg
+    alt:
+      en: "Four people in military camouflage and tan uniforms work at desks crowded with computers, monitors, a fan, printer, and water bottles, while one man standing holds a walkie-talkie to his ear."
 geo:
 id: 19551
 item_type: Still Image

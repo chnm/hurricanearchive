@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001.JPG
     thumb: /files/thumbnails/14fb2a09247c5114fb2a09248036.jpg
     url: /files/original/14fb2a09247c5114fb2a09248036.jpg
+    alt:
+      en: "A person in a military camouflage uniform, seen from behind, stands in a room with blue tiled walls; other people are partially visible nearby, including a seated individual in the foreground."
 geo:
 id: 20330
 item_type: Still Image

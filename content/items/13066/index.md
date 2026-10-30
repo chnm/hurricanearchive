@@ -21,6 +21,8 @@ files:
     original_filename: begin north look.jpg
     thumb: /files/thumbnails/14fb2a2097948614fb2a2097db2b.jpg
     url: /files/original/14fb2a2097948614fb2a2097db2b.jpg
+    alt:
+      en: "Empty parking lot with numbered \"RESERVED\" spaces (310, 308, 306, 304) and speed bumps, overlooking a low-rise townscape with a water tower, power lines, and brick buildings under a cloudy sky."
 geo:
 id: 13066
 item_type: Still Image

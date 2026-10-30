@@ -21,6 +21,8 @@ files:
     original_filename: MVC-020S.JPG
     thumb: /files/thumbnails/14fb2a5fed311c14fb2a5fed3502.jpg
     url: /files/original/14fb2a5fed311c14fb2a5fed3502.jpg
+    alt:
+      en: "A jet engine with visible turbine blades sits mounted on a trailer outdoors, with an American flag and chain-link fence visible in the background."
 geo:
 id: 2829
 item_type: Still Image

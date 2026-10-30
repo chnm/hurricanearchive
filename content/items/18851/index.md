@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0069grandisle.JPG
     thumb: /files/thumbnails/14fb2a14e8623914fb2a14e8661f.jpg
     url: /files/original/14fb2a14e8623914fb2a14e8661f.jpg
+    alt:
+      en: "Aerial view from a helicopter (landing gear visible) of a flooded coastal community, with scattered homes and trailers surrounded by murky floodwaters and dead or defoliated trees."
 geo:
 id: 18851
 item_type: Still Image

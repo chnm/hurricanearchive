@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016OEP.JPG
     thumb: /files/thumbnails/14fb29f220730414fb29f2214159.jpg
     url: /files/original/14fb29f220730414fb29f2214159.jpg
+    alt:
+      en: "Parking lot with media vehicles, including an RV labeled \"Media Support Center,\" a white canopy tent with camera equipment and seated workers, traffic cones, and a speed bump in the foreground."
 geo:
 id: 23006
 item_type: Still Image

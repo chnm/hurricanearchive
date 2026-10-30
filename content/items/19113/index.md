@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 023.jpg
     thumb: /files/thumbnails/14fb2a12e73a9414fb2a12e73e7c.jpg
     url: /files/original/14fb2a12e73a9414fb2a12e73e7c.jpg
+    alt:
+      en: "A building roofline reading \"...ONAL GUARD\" in large black letters, with antennas, a satellite dish, and tarped equipment in the foreground below tan brick and window facade."
 geo:
 id: 19113
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 176014516_45418fd9c1.jpg
     thumb: /files/thumbnails/14fb29d240f57c14fb29d240f9f5.jpg
     url: /files/original/14fb29d240f57c14fb29d240f9f5.jpg
+    alt:
+      en: "Light blue t-shirt reading \"Librarians do it by the BOOK,\" with \"American Library Association - Supporting The Big Easy, New Orleans 2006\" printed below in black text."
 geo:
 id: 28576
 item_type: Still Image

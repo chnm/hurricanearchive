@@ -21,6 +21,8 @@ files:
     original_filename: 09140036.JPG
     thumb: /files/thumbnails/14fb29e9644c8714fb29e964504b.jpg
     url: /files/original/14fb29e9644c8714fb29e964504b.jpg
+    alt:
+      en: "Elevated view of a residential neighborhood with rows of small houses, dark and light rooftops, scattered trees, and utility poles under a hazy sky, with a wooden railing in the foreground."
 geo:
 id: 24255
 item_type: Still Image

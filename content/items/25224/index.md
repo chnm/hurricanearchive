@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1923superdome.JPG
     thumb: /files/thumbnails/14fb29e0b7c7fc14fb29e0b7cde4.jpg
     url: /files/original/14fb29e0b7c7fc14fb29e0b7cde4.jpg
+    alt:
+      en: "A twin-rotor military helicopter hovers low in a hazy sky above a fenced lot, while several people in camouflage and brown T-shirts watch from a stairway near a building marked \"RESTRICTED AREA.\""
 geo:
 id: 25224
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0083-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a03a0040414fb2a03a007f8.jpg
     url: /files/original/14fb2a03a0040414fb2a03a007f8.jpg
+    alt:
+      en: "Aerial view of a flooded residential lot with a collapsed structure's foundation and scattered debris submerged in muddy water, bordered by a two-lane road and storm-damaged trees."
 geo:
 id: 20809
 item_type: Still Image

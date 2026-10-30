@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27904.jpg
     thumb: /files/thumbnails/14fb2a6ac484e314fb2a6ac488c6.jpg
     url: /files/original/14fb2a6ac484e314fb2a6ac488c6.jpg
+    alt:
+      en: "Two men stand beside a New Orleans Police Department patrol car, one in a dark N.O.P.D. polo and cap, the other with arms crossed in a plaid shirt; \"New Orleans\" and \"POLICE\" are visible on the vehicle."
 geo:
   address: ''
   lat: 0.0

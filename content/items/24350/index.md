@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-26-24A.jpg
     thumb: /files/thumbnails/14fb29e89a830214fb29e89a8633.jpg
     url: /files/original/14fb29e89a830214fb29e89a8633.jpg
+    alt:
+      en: "Rooftop helipad with two military helicopters and uniformed personnel, stacked pallets of bottled water in foreground, and a city skyline visible under a clear blue sky."
 geo:
 id: 24350
 item_type: Still Image

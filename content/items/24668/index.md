@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00119 DSC00119cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5bdf4a114fb29e5bdf886.jpg
     url: /files/original/14fb29e5bdf4a114fb29e5bdf886.jpg
+    alt:
+      en: "Group of military officers in camouflage and desert uniforms conversing outdoors near portable toilets and a storm-damaged house, with bare trees and debris visible in the background."
 geo:
 id: 24668
 item_type: Still Image

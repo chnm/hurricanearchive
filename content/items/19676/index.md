@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 063cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e7625a714fb2a0e76298b.jpg
     url: /files/original/14fb2a0e7625a714fb2a0e76298b.jpg
+    alt:
+      en: "Street view from inside a vehicle of a residential neighborhood with historic wood-frame houses, downed tree debris along the curb, and a dirt-covered road beneath power lines; a Louisiana vehicle registration sticker is visible on the windshield."
 geo:
 id: 19676
 item_type: Still Image

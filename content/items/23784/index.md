@@ -21,6 +21,8 @@ files:
     original_filename: PICT0880neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed136b6a14fb29ed136f50.jpg
     url: /files/original/14fb29ed136b6a14fb29ed136f50.jpg
+    alt:
+      en: "A white motorboat sits stranded in the street in front of a multi-story building with awnings reading \"HOTEL,\" \"CAFE,\" and \"PIZZA SANDWICHES COFFEE,\" photographed from a dumpster, dated 09.15.2005."
 geo:
 id: 23784
 item_type: Still Image

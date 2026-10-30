@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a069dd0dd14fb2a069dd83b.jpg
     url: /files/original/14fb2a069dd0dd14fb2a069dd83b.jpg
+    alt:
+      en: "Military convoy trucks splash through standing floodwater on a rural road, with a civilian SUV following behind and storm-damaged trees lining the roadside."
 geo:
 id: 20498
 item_type: Still Image

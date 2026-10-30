@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0136-21.JPG
     thumb: /files/thumbnails/14fb2a028b1c0014fb2a028b1fe6.jpg
     url: /files/original/14fb2a028b1c0014fb2a028b1fe6.jpg
+    alt:
+      en: "Large oak trees with sprawling branches shade a grassy park area, with a paved path running beneath them and buildings visible in the background."
 geo:
 id: 20868
 item_type: Still Image

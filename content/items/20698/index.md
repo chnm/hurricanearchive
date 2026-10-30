@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a04f1607214fb2a04f16457.jpg
     url: /files/original/14fb2a04f1607214fb2a04f16457.jpg
+    alt:
+      en: "Aerial view of a flooded industrial waterfront with a collapsed metal building, a rusted storage tank, scattered debris, and shipping containers submerged in brown floodwater, with a damaged shoreline in the background."
 geo:
 id: 20698
 item_type: Still Image

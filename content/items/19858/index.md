@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d1e67ad14fb2a0d1e6b93.jpg
     url: /files/original/14fb2a0d1e67ad14fb2a0d1e6b93.jpg
+    alt:
+      en: "Four workers in camouflage pants and brown t-shirts, wearing white hard hats, construct a wooden-framed building, with one on the roof and three on a rolling scaffold; a \"screw pak\" box sits on the platform."
 geo:
 id: 19858
 item_type: Still Image

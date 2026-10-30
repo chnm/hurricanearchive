@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f312d07714fb29f312d453.jpg
     url: /files/original/14fb29f312d07714fb29f312d453.jpg
+    alt:
+      en: "A bald man carrying a WBRZ Channel 2 news camera on his shoulder speaks with a man in camouflage and cap at a vehicle window, with another man and a U-Haul truck in the background."
 geo:
 id: 22845
 item_type: Still Image

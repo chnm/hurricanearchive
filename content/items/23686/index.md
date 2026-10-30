@@ -21,6 +21,8 @@ files:
     original_filename: P1010127empireS&R.JPG
     thumb: /files/thumbnails/14fb29ede4429514fb29ede453ac.jpg
     url: /files/original/14fb29ede4429514fb29ede453ac.jpg
+    alt:
+      en: "Interior view from a military vehicle marked \"RECON 3,\" looking through the windshield at storm-damaged trees, downed branches, and power lines lining a roadside."
 geo:
 id: 23686
 item_type: Still Image

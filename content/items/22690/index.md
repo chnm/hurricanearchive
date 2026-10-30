@@ -21,6 +21,8 @@ files:
     original_filename: PICT0248Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4bee54614fb29f4bee92c.jpg
     url: /files/original/14fb29f4bee54614fb29f4bee92c.jpg
+    alt:
+      en: "A blue Ford pickup truck with a \"HOOAH\" bumper sticker and yellow support-ribbon decal is parked under the carport of a house marked \"U29,\" dated 09.15.2005."
 geo:
 id: 22690
 item_type: Still Image

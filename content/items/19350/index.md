@@ -21,6 +21,8 @@ files:
     original_filename: J2.JPG
     thumb: /files/thumbnails/14fb2a10e7afd314fb2a10e7b3b9.jpg
     url: /files/original/14fb2a10e7afd314fb2a10e7b3b9.jpg
+    alt:
+      en: "Close-up of a man wearing sunglasses and a collared shirt inside a military-style vehicle, with bright sunlight streaming through the window and a side mirror visible in the background."
 geo:
 id: 19350
 item_type: Still Image

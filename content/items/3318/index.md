@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (77).jpg
     thumb: /files/thumbnails/14fb2a5c6ef9b614fb2a5c6efd91.jpg
     url: /files/original/14fb2a5c6ef9b614fb2a5c6efd91.jpg
+    alt:
+      en: "Hundreds of small dead fish lie stranded in a shallow floodwater runoff along a mud-covered street, with storm debris, a fire hydrant, and damaged houses in the background."
 geo:
 id: 3318
 item_type: Still Image

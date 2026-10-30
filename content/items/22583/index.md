@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0534Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f52c618f14fb29f52c6575.jpg
     url: /files/original/14fb29f52c618f14fb29f52c6575.jpg
+    alt:
+      en: "Blurry, out-of-focus photograph showing indistinct shapes of a building and fence, with hazy gray and brown tones obscuring most details."
 geo:
 id: 22583
 item_type: Still Image

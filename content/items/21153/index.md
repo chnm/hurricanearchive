@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0187-21.JPG
     thumb: /files/thumbnails/14fb2a0053941d14fb2a00539801.jpg
     url: /files/original/14fb2a0053941d14fb2a00539801.jpg
+    alt:
+      en: "A reporter holds a Fox News microphone toward a camera operator covering their face with their hand, while a soldier in camouflage stands nearby laughing alongside other photographers on a sidewalk."
 geo:
 id: 21153
 item_type: Still Image

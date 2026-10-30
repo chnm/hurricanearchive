@@ -26,6 +26,8 @@ files:
     original_filename: katrina2_2d36e83b5f.jpg
     thumb: /files/thumbnails/14fb2a70bc8c9314fb2a70bc9097.jpg
     url: /files/original/14fb2a70bc8c9314fb2a70bc9097.jpg
+    alt:
+      en: "A heavily damaged multi-story brick building stands amid smoke and rubble, with debris, twisted metal, and brick piles scattered in the foreground."
 geo:
   address: ''
   lat: 29.9621477209224

@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28487.jpg
     thumb: /files/thumbnails/14fb2a6af5d97b14fb2a6af5dd60.jpg
     url: /files/original/14fb2a6af5d97b14fb2a6af5dd60.jpg
+    alt:
+      en: "A cluttered bedroom with a brass bed covered in scattered clothes, towels, and a stuffed animal, with a floral valance over blinds on the window behind the headboard."
 geo:
   address: ''
   lat: 0.0

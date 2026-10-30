@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0383stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ee9cd11e14fb29ee9cd502.jpg
     url: /files/original/14fb29ee9cd11e14fb29ee9cd502.jpg
+    alt:
+      en: "Damaged single-story house with torn roof shingles and debris, a dead tree with a child's toy car caught in its branches, and \"9:15\" with an X spray-painted on the front window."
 geo:
 id: 23586
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1369Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f59f1c8414fb29f59f206b.jpg
     url: /files/original/14fb29f59f1c8414fb29f59f206b.jpg
+    alt:
+      en: "Floodwater submerges houses nearly to their rooflines, with damaged shingles and exposed wood visible on the gabled roofs under an overcast sky crossed by power lines."
 geo:
 id: 22528
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 769(sept12)picture4engineers.png
     thumb: /files/thumbnails/14fb2a10c84e7814fb2a10c8561f.jpg
     url: /files/original/14fb2a10c84e7814fb2a10c8561f.jpg
+    alt:
+      en: "A military-style green tractor with a front loader clears fallen tree branches, as two men—one holding a video camera—observe the cleanup effort amid damaged trees."
 geo:
 id: 19360
 item_type: Still Image

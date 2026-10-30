@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_CameronSimms_01_ad6f5e25e2.jpg
     thumb: /files/thumbnails/14fb2a1826a91c14fb2a1826b004.jpg
     url: /files/original/14fb2a1826a91c14fb2a1826b004.jpg
+    alt:
+      en: "A man crouches beside a young boy in a white shirt and tie, both smiling, in front of a green double door set into a brick wall."
 geo:
 id: 14693
 item_type: Still Image

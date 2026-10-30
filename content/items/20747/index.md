@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0070-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0427081414fb2a04270bf9.jpg
     url: /files/original/14fb2a0427081414fb2a04270bf9.jpg
+    alt:
+      en: "Aerial view of a flooded rural landscape with a damaged brick church, collapsed warehouse buildings, scattered debris, bare trees, and a two-lane road running alongside standing floodwaters."
 geo:
 id: 20747
 item_type: Still Image

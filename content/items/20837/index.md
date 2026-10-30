@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0130-21-2.JPG
     thumb: /files/thumbnails/14fb2a0334bf3114fb2a0334c20c.jpg
     url: /files/original/14fb2a0334bf3114fb2a0334c20c.jpg
+    alt:
+      en: "Military personnel in woodland camouflage uniforms stand and converse in a large indoor operations center filled with tables, laptops, and seated workers in the background."
 geo:
 id: 20837
 item_type: Still Image

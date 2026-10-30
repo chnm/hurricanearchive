@@ -24,6 +24,8 @@ files:
     original_filename: P1010022.JPG
     thumb: /files/thumbnails/14fb2a5aaab1fb14fb2a5aaab5d9.jpg
     url: /files/original/14fb2a5aaab1fb14fb2a5aaab5d9.jpg
+    alt:
+      en: "A ceramic bowl painted with Christmas trees sits beside a porcelain figurine of two children under a floral umbrella, both caked with mud, resting on an outdoor table."
 geo:
 id: 3595
 item_type: Still Image

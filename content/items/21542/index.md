@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0289-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fdb0dfa214fb29fdb0e388.jpg
     url: /files/original/14fb29fdb0dfa214fb29fdb0e388.jpg
+    alt:
+      en: "Aerial view (sideways orientation) of a dense tree line with storm-damaged branches, bordering a neighborhood with rooftops, a water tower, and a body of water in the background."
 geo:
 id: 21542
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1207Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6e28b2914fb29f6e28f0e.jpg
     url: /files/original/14fb29f6e28b2914fb29f6e28f0e.jpg
+    alt:
+      en: "Nighttime photo of two metal boats equipped with Johnson and Mercury outboard motors, loaded with orange life rings, oars, and gear; two men stand aboard, one bending to adjust equipment."
 geo:
 id: 22382
 item_type: Still Image

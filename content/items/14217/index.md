@@ -21,6 +21,8 @@ files:
     original_filename: jacksonbarracks wall.JPG
     thumb: /files/thumbnails/14fb2a1a88abfb14fb2a1a88af3e.jpg
     url: /files/original/14fb2a1a88abfb14fb2a1a88af3e.jpg
+    alt:
+      en: "Debris-strewn yard with coiled razor wire along a low brick wall, trees in foreground, and a storm-damaged white house with a pickup truck visible behind; dated 09.26.2005."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0204-21.JPG
     thumb: /files/thumbnails/14fb29ffe113b414fb29ffe1179a.jpg
     url: /files/original/14fb29ffe113b414fb29ffe1179a.jpg
+    alt:
+      en: "Soldier in camouflage uniform with American flag patch and gear walking along a paved path near a military vehicle, image oriented sideways."
 geo:
 id: 21237
 item_type: Still Image

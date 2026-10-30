@@ -21,6 +21,8 @@ files:
     original_filename: Flood wall break,sections separating.1.London St. Canal.jpg
     thumb: /files/thumbnails/14fb2a216bda7814fb2a216bde5e.jpg
     url: /files/original/14fb2a216bda7814fb2a216bde5e.jpg
+    alt:
+      en: "Damaged concrete floodwall sections separated along a canal bank, with debris and scorched ground in the foreground and tall pines in the background."
 geo:
 id: 12854
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0114.JPG
     thumb: /files/thumbnails/14fb2a595b75eb14fb2a595b79d1.jpg
     url: /files/original/14fb2a595b75eb14fb2a595b79d1.jpg
+    alt:
+      en: "Two people wearing orange life vests walk along a runway, one carrying a rifle, with flat grassy terrain and a small building visible in the distance."
 geo:
 id: 3826
 item_type: Still Image

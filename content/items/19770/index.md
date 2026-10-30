@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 157cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ddcf92114fb2a0ddcfd07.jpg
     url: /files/original/14fb2a0ddcf92114fb2a0ddcfd07.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues stand near trucks on a debris-strewn street, talking with two young women, with brick buildings and bare trees in the background."
 geo:
 id: 19770
 item_type: Still Image

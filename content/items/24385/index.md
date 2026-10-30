@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-06-5A.jpg
     thumb: /files/thumbnails/14fb29e857de9d14fb29e857e282.jpg
     url: /files/original/14fb29e857de9d14fb29e857e282.jpg
+    alt:
+      en: "People in orange life vests wade through deep floodwaters past submerged cars and a streetlamp, with heavy rain and mist obscuring the background."
 geo:
 id: 24385
 item_type: Still Image

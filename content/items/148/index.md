@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2148_220b3f310f.JPG
     thumb: /files/thumbnails/14fb2a70db9b3114fb2a70db9f12.jpg
     url: /files/original/14fb2a70db9b3114fb2a70db9f12.jpg
+    alt:
+      en: "A large hole in a residential ceiling exposes wooden roof beams, torn insulation, and backing paper hanging down, with a wood-trimmed doorway visible at right."
 geo:
   address: ''
   lat: 30.030902

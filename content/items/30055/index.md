@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0192_f2bdd74860.JPG
     thumb: /files/thumbnails/14fb29cd63618714fb29cd637037.jpg
     url: /files/original/14fb29cd63618714fb29cd637037.jpg
+    alt:
+      en: "Grimy window displays two weathered signs: one reading \"Parents & Guardians... welcome in this classroom. Please secure a pass from the office,\" and another labeled \"Nurse's Office\" with a red cross symbol."
 geo:
 id: 30055
 item_type: Still Image

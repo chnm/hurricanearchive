@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2070superdome.JPG
     thumb: /files/thumbnails/14fb29e52ca9c914fb29e52cadb8.jpg
     url: /files/original/14fb29e52ca9c914fb29e52cadb8.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms sit in office chairs and a couch within a room decorated with framed black-and-white photographs, likely discussing operations during the hurricane response."
 geo:
 id: 24748
 item_type: Still Image

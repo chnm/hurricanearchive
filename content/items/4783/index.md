@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0095.JPG
     thumb: /files/thumbnails/14fb2a55960ace14fb2a55960ebc.jpg
     url: /files/original/14fb2a55960ace14fb2a55960ebc.jpg
+    alt:
+      en: "A wooden boardwalk runs alongside a calm waterway lined with pilings, leading toward an open-sided pavilion with a metal roof, surrounded by trees and a grassy lawn edged with stone pavers."
 geo:
 id: 4783
 item_type: Still Image

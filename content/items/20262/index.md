@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0002.JPG
     thumb: /files/thumbnails/14fb2a0a48074714fb2a0a480b35.jpg
     url: /files/original/14fb2a0a48074714fb2a0a480b35.jpg
+    alt:
+      en: "A military medical evacuation helicopter with red cross markings sits on a landing pad, rotors spinning, in front of curved metal Quonset-style buildings and trees under a partly cloudy sky."
 geo:
 id: 20262
 item_type: Still Image

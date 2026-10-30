@@ -21,6 +21,8 @@ files:
     original_filename: P1010027delaware.JPG
     thumb: /files/thumbnails/14fb29f0b6d2aa14fb29f0b7271f.jpg
     url: /files/original/14fb29f0b6d2aa14fb29f0b7271f.jpg
+    alt:
+      en: "Interior of a military aircraft's cargo area, with a uniformed service member standing near the doorway, surrounded by overhead machinery, red straps, and equipment."
 geo:
 id: 23207
 item_type: Still Image

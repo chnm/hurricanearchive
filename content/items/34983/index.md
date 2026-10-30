@@ -23,6 +23,8 @@ files:
     original_filename: 2298637170_e365ee9bd6.
     thumb: /files/thumbnails/14fb29c805b9a314fb29c805d73e.jpg
     url: /files/original/14fb29c805b9a314fb29c805d73e.jpg
+    alt:
+      en: "A large pile of discarded bicycle wheels and tires sits on a street near a chain-link fence, with two men seated by a brick building and three men standing nearby beside blue-roofed houses."
 geo:
 id: 34983
 item_type: Still Image

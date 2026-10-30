@@ -20,6 +20,8 @@ files:
     original_filename: Gator Shack at Audobon Zoo.JPG
     thumb: /files/thumbnails/14fb29d5a437c514fb29d5a43bb6.jpg
     url: /files/original/14fb29d5a437c514fb29d5a43bb6.jpg
+    alt:
+      en: "A wooden shack with a blue tarp roof sits on a dock over murky water, with a hand-painted sign reading \"9-10 LS ZOO 8 GATORS FED\" and a nearby \"Keep Off Top Rail\" warning sign."
 geo:
 id: 27250
 item_type: Still Image

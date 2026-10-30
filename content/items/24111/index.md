@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea8e151514fb29ea8e18e9.jpg
     url: /files/original/14fb29ea8e151514fb29ea8e18e9.jpg
+    alt:
+      en: "Aerial view of a flattened coastal town with bare, debris-covered trees, flooded streets, and scattered building remnants surrounding a surviving multi-story structure and distant water tower."
 geo:
 id: 24111
 item_type: Still Image

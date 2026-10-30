@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0067H.JPG
     thumb: /files/thumbnails/14fb2a0431c78d14fb2a0431cb74.jpg
     url: /files/original/14fb2a0431c78d14fb2a0431cb74.jpg
+    alt:
+      en: "A nighttime indoor gathering under a tent, with people standing around a foosball table and a second table visible in the background near a red fire extinguisher mounted on a support pole."
 geo:
 id: 20735
 item_type: Still Image

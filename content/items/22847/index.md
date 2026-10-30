@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f310fbd614fb29f310ffbb.jpg
     url: /files/original/14fb29f310fbd614fb29f310ffbb.jpg
+    alt:
+      en: "A uniformed military checkpoint guard with a rifle stands beside a portable STOP sign and traffic cone, speaking to the driver of a green Toyota Highlander SUV, with piles of gravel and trees in the background."
 geo:
 id: 22847
 item_type: Still Image

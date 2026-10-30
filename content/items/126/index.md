@@ -26,6 +26,8 @@ files:
     original_filename: Picture_049_ebaf68cfe3.jpg
     thumb: /files/thumbnails/14fb2a70eda92a14fb2a70edad0e.jpg
     url: /files/original/14fb2a70eda92a14fb2a70edad0e.jpg
+    alt:
+      en: "A crowd in costumes at a nighttime event, viewed from behind, with a man in a tan suit bearing a horizontal dirt-stained \"ring\" pattern across his back, amid blurred lights and hanging decorations."
 geo:
   address: ''
   lat: 29.938343

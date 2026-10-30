@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (73).JPG
     thumb: /files/thumbnails/14fb2a5d32b49214fb2a5d32b876.jpg
     url: /files/original/14fb2a5d32b49214fb2a5d32b876.jpg
+    alt:
+      en: "A damaged boat and several cars sit amid debris and dirt near a large tree, in front of a building reading \"AUTO SERVICE\" and a sign for \"BOURDELON AUTO SALES USED CARS.\""
 geo:
 id: 3226
 item_type: Still Image

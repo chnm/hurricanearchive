@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 081cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e57544414fb2a0e575829.jpg
     url: /files/original/14fb2a0e57544414fb2a0e575829.jpg
+    alt:
+      en: "Empty street intersection with a traffic circle featuring an equestrian statue on a pedestal, surrounded by storm-damaged trees with broken branches, photographed from inside a vehicle."
 geo:
 id: 19694
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0217.JPG
     thumb: /files/thumbnails/14fb2a5506143414fb2a55061825.jpg
     url: /files/original/14fb2a5506143414fb2a55061825.jpg
+    alt:
+      en: "A concrete pier or foundation block remains standing on a debris-strewn slab, with a yellow measuring tape laid across the ground amid scattered pine needles and rubble."
 geo:
 id: 4898
 item_type: Still Image

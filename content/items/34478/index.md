@@ -27,6 +27,8 @@ files:
     original_filename: 2326883888_cb837ce333.
     thumb: /files/thumbnails/14fb29c9d2318214fb29c9d236dc.jpg
     url: /files/original/14fb29c9d2318214fb29c9d236dc.jpg
+    alt:
+      en: "Vast piles of splintered wood and debris cover the ground in front of a damaged apartment building and an overturned RV, under a hazy sky."
 geo:
   address: ''
   lat: 30.22586

@@ -26,6 +26,8 @@ files:
     original_filename: DSC01860_15595c2c3b.JPG
     thumb: /files/thumbnails/14fb2a6db45b9214fb2a6db45f96.jpg
     url: /files/original/14fb2a6db45b9214fb2a6db45f96.jpg
+    alt:
+      en: "A damaged, rusted school bus numbered 230 sits abandoned in a debris-strewn lot, photographed through a vehicle's window with the side mirror visible in the foreground."
 geo:
   address: ''
   lat: 29.272024709098396

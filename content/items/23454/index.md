@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0112cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef601f9f14fb29ef602317.jpg
     url: /files/original/14fb29ef601f9f14fb29ef602317.jpg
+    alt:
+      en: "Sideways photo (needs rotation) of a small boat moving along a calm waterway lined with dense green trees on both banks, under a clear blue sky."
 geo:
 id: 23454
 item_type: Still Image

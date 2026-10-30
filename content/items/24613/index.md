@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0127-21-2.JPG
     thumb: /files/thumbnails/14fb29e625675714fb29e6256e68.jpg
     url: /files/original/14fb29e625675714fb29e6256e68.jpg
+    alt:
+      en: "A young man in Army woodland camouflage uniform stands in a dimly lit room filled with computer monitors and other uniformed personnel seated at desks in the background."
 geo:
 id: 24613
 item_type: Still Image

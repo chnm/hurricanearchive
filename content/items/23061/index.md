@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0071OEP.JPG
     thumb: /files/thumbnails/14fb29f1ac296914fb29f1ac2d4f.jpg
     url: /files/original/14fb29f1ac296914fb29f1ac2d4f.jpg
+    alt:
+      en: "A seated man in a white T-shirt holds a microphone and notepad while interviewing a man in military camouflage fatigues outdoors, as a camera operator with a shoulder-mounted video camera records the scene on a grassy lawn."
 geo:
 id: 23061
 item_type: Still Image

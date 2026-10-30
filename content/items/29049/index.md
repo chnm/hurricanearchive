@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-18.jpg
     thumb: /files/thumbnails/14fb29d069bf2814fb29d069c304.jpg
     url: /files/original/14fb29d069bf2814fb29d069c304.jpg
+    alt:
+      en: "An airman in a flight suit signals with raised hands as a blue Ford truck tows a cargo container up the open rear ramp of a C-5 Galaxy aircraft."
 geo:
 id: 29049
 item_type: Still Image

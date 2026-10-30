@@ -21,6 +21,8 @@ files:
     original_filename: 09280010plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebf3204b14fb29ebf32430.jpg
     url: /files/original/14fb29ebf3204b14fb29ebf32430.jpg
+    alt:
+      en: "Two men inspect the collapsed brick foundation of a destroyed building, with debris scattered across a concrete slab and bare, storm-damaged trees in the background."
 geo:
 id: 24008
 item_type: Still Image

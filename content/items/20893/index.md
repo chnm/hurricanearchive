@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0141-9-25.JPG
     thumb: /files/thumbnails/14fb2a02215f1714fb2a022162f3.jpg
     url: /files/original/14fb2a02215f1714fb2a022162f3.jpg
+    alt:
+      en: "Aerial view of flooded, debris-strewn land with bare trees, a storm-damaged house with a tarped roof, and scattered rubble along a muddy waterline."
 geo:
 id: 20893
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 2064_8627f1f838.jpg
     thumb: /files/thumbnails/14fb2a710621ce14fb2a710625a4.jpg
     url: /files/original/14fb2a710621ce14fb2a710625a4.jpg
+    alt:
+      en: "Flooded street in the Treme neighborhood of New Orleans, with houses rising from brown floodwater, a partially submerged van and car, utility poles, and a city skyline in the distance."
 geo:
   address: ''
   lat: 29.9828919653158

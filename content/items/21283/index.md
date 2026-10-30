@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0216-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffa419a014fb29ffa41d88.jpg
     url: /files/original/14fb29ffa419a014fb29ffa41d88.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with a winding road submerged in water, surrounded by fields, trees, and multi-story apartment buildings with standing water pooling near the structures."
 geo:
 id: 21283
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8922.jpg
     thumb: /files/thumbnails/14fb2a6549f66314fb2a6549fa48.jpg
     url: /files/original/14fb2a6549f66314fb2a6549fa48.jpg
+    alt:
+      en: "Workers in white protective suits, hard hats, and respirators tie up large plastic garbage bags amid discarded refrigerators at a sprawling debris dump, with an excavator and trees in the background."
 geo:
 id: 2563
 item_type: Still Image

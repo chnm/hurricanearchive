@@ -24,6 +24,8 @@ files:
     original_filename: AB midwife 1900s_407fccdc8f.jpg
     thumb: /files/thumbnails/14fb29d959f15d14fb29d959f542.jpg
     url: /files/original/14fb29d959f15d14fb29d959f542.jpg
+    alt:
+      en: "Sepia-toned early 1900s photograph of a barefoot boy in a suit holding a horse's bridle, with an elderly woman seated sidesaddle on the horse, set in a wooded, leaf-covered area."
 geo:
   address: ''
   lat: 29.87876

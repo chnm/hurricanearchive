@@ -26,6 +26,8 @@ files:
     original_filename: 019_19_7b22b262ae.JPG
     thumb: /files/thumbnails/14fb2a6f85bce614fb2a6f85c14b.jpg
     url: /files/original/14fb2a6f85bce614fb2a6f85c14b.jpg
+    alt:
+      en: "A tall yellow \"Waffle House\" sign stands intact above a flattened, debris-strewn lot with a partial brick wall and twisted metal framing, surrounded by bare, storm-damaged trees."
 geo:
   address: ''
   lat: 30.374646

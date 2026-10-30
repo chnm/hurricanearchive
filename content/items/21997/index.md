@@ -21,6 +21,8 @@ files:
     original_filename: Picture 328-J2.jpg
     thumb: /files/thumbnails/14fb29fa38a2cd14fb29fa38a6b2.jpg
     url: /files/original/14fb29fa38a2cd14fb29fa38a6b2.jpg
+    alt:
+      en: "Blurry motion shot from a moving vehicle showing trees, a low fence, and a paved walkway with poles and signs, likely taken through a car window."
 geo:
 id: 21997
 item_type: Still Image

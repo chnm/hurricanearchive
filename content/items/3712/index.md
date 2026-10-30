@@ -24,6 +24,8 @@ files:
     original_filename: P1010159.JPG
     thumb: /files/thumbnails/14fb2a5a02751514fb2a5a0278fb.jpg
     url: /files/original/14fb2a5a02751514fb2a5a0278fb.jpg
+    alt:
+      en: "A taped notice on a yellow-painted door reads \"5 Days Notice to Vacate for Non-Payment of Rent,\" with handwritten details including a Burgundy St. address and a November 2005 date."
 geo:
 id: 3712
 item_type: Still Image

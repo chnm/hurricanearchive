@@ -21,6 +21,8 @@ files:
     original_filename: 09210012iwojima.JPG
     thumb: /files/thumbnails/14fb2a11794c6614fb2a1179538d.jpg
     url: /files/original/14fb2a11794c6614fb2a1179538d.jpg
+    alt:
+      en: "Large gray U.S. Navy amphibious assault ship, resembling the USS Iwo Jima, sits anchored on calm greenish water under a partly cloudy sky, with distant shoreline visible in the background."
 geo:
 id: 19262
 item_type: Still Image

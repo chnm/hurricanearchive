@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2111superdome.JPG
     thumb: /files/thumbnails/14fb29e4b7882d14fb29e4b78c12.jpg
     url: /files/original/14fb29e4b7882d14fb29e4b78c12.jpg
+    alt:
+      en: "Four soldiers in camouflage uniforms, some wearing blue gloves, stand among folding cots under a covered structure at night, with yellow caution tape and a water case nearby."
 geo:
 id: 24789
 item_type: Still Image

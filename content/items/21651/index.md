@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0423-16.JPG
     thumb: /files/thumbnails/14fb29fccb3bff14fb29fccb3fe6.jpg
     url: /files/original/14fb29fccb3bff14fb29fccb3fe6.jpg
+    alt:
+      en: "Aerial view of a devastated coastal neighborhood with nearly all structures reduced to scattered debris, a few damaged houses still standing, and sparse trees amid gray rubble-covered lots."
 geo:
 id: 21651
 item_type: Still Image

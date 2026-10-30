@@ -26,6 +26,8 @@ files:
     original_filename: 34860_77da178890.jpg
     thumb: /files/thumbnails/14fb2a6d84349c14fb2a6d843859.jpg
     url: /files/original/14fb2a6d84349c14fb2a6d843859.jpg
+    alt:
+      en: "Damaged storefronts along a pink building with a marquee reading \"Arcadia Tea Room Restaurant,\" sidewalk littered with torn roofing material, debris, and downed cables after Hurricane Charley."
 geo:
   address: ''
   lat: 27.186075

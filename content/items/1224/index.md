@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28243.jpg
     thumb: /files/thumbnails/14fb2a6a4636d414fb2a6a463ab9.jpg
     url: /files/original/14fb2a6a4636d414fb2a6a463ab9.jpg
+    alt:
+      en: "Empty parking lot in front of a Wal-Mart Supercenter, with a white SUV, a dark sedan, and a Virginia State Police mobile command vehicle flying an American flag parked nearby."
 geo:
   address: ''
   lat: 0.0

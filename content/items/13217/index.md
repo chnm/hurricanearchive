@@ -21,6 +21,8 @@ files:
     original_filename: 211 debris.jpg
     thumb: /files/thumbnails/14fb2a1f394cf414fb2a1f3950db.jpg
     url: /files/original/14fb2a1f394cf414fb2a1f3950db.jpg
+    alt:
+      en: "Broken slabs of layered roofing material and shattered glass litter a street, with scattered green leaves and a partially visible yellow \"NO PARKING\" curb marking in the background."
 geo:
 id: 13217
 item_type: Still Image

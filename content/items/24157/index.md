@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0022stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea3475cb14fb29ea3479b0.jpg
     url: /files/original/14fb29ea3475cb14fb29ea3479b0.jpg
+    alt:
+      en: "Flooded street at the corner of Benjamin Street, lined with storm-damaged homes, uprooted trees, debris, and a military bulldozer, under an overcast sky."
 geo:
 id: 24157
 item_type: Still Image

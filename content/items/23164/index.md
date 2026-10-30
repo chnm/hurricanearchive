@@ -21,6 +21,8 @@ files:
     original_filename: Awaiting aircraft2delaware.jpg
     thumb: /files/thumbnails/14fb29f147716314fb29f147754c.jpg
     url: /files/original/14fb29f147716314fb29f147754c.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand talking behind a military trailer in a parking lot, with cargo trucks and parked cars visible nearby."
 geo:
 id: 23164
 item_type: Still Image

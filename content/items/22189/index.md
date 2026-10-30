@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0996Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f92eb0d514fb29f92eb4bb.jpg
     url: /files/original/14fb29f92eb0d514fb29f92eb4bb.jpg
+    alt:
+      en: "Large camouflage military tanker truck with \"FLAMMABLE\" marked on its tank drives on a street past a white minivan and brick buildings under an overcast sky, with a hand visible waving from the cab window."
 geo:
 id: 22189
 item_type: Still Image

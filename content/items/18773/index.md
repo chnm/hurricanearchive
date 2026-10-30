@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-03-1Abatonrouge.jpg
     thumb: /files/thumbnails/14fb2a1547464314fb2a15474ae8.jpg
     url: /files/original/14fb2a1547464314fb2a15474ae8.jpg
+    alt:
+      en: "Aerial view of a water park with multiple pools, winding water slides, and a lazy river, situated beside a highway with surrounding trees, fields, and industrial buildings."
 geo:
 id: 18773
 item_type: Still Image

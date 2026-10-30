@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28675.jpg
     thumb: /files/thumbnails/14fb2a6a64739c14fb2a6a64778b.jpg
     url: /files/original/14fb2a6a64739c14fb2a6a64778b.jpg
+    alt:
+      en: "Three people stand with a rescued horse on pavement beside a truck and horse trailer, with \"Medicine Wheel\" logo visible on the truck door."
 geo:
   address: ''
   lat: 0.0

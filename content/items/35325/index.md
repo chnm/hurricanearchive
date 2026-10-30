@@ -18,6 +18,8 @@ files:
     original_filename: 61_1bfcf5a249.jpg
     thumb: /files/thumbnails/14fb29c65c3ce714fb29c65c40d5.jpg
     url: /files/original/14fb29c65c3ce714fb29c65c40d5.jpg
+    alt:
+      en: "Four people pose in costume near a small decorated Christmas tree against colorful fabric backdrops, with a dog sniffing the floor in the foreground."
 geo:
   address: new orleans, la
   lat: 29.95324

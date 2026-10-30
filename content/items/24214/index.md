@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29e9a5784814fb29e9a57c2c.jpg
     url: /files/original/14fb29e9a5784814fb29e9a57c2c.jpg
+    alt:
+      en: "Empty roadway leading to a street sign reading \"Jackson Barracks,\" lined with debris, damaged vehicles, a large shipping container, and storm-damaged trees and buildings under a hazy sky."
 geo:
 id: 24214
 item_type: Still Image

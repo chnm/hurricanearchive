@@ -21,6 +21,8 @@ files:
     original_filename: 09140011.JPG
     thumb: /files/thumbnails/14fb29e9801adc14fb29e9801f63.jpg
     url: /files/original/14fb29e9801adc14fb29e9801f63.jpg
+    alt:
+      en: "A bent, leaning street sign post stands in a grassy area in front of a parked city bus labeled \"Crown Jewels\" and \"130,\" with power lines, a tree, and storefronts in the background."
 geo:
 id: 24230
 item_type: Still Image

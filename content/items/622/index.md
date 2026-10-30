@@ -26,6 +26,8 @@ files:
     original_filename: Carreterita_hacia_Swamp_Waters_83faab4505.jpg
     thumb: /files/thumbnails/14fb2a6f5788ca14fb2a6f578ca8.jpg
     url: /files/original/14fb2a6f5788ca14fb2a6f578ca8.jpg
+    alt:
+      en: "A single-story white house stands partially submerged in floodwater surrounded by trees, with an orange \"ROAD CLOSED\" sign posted in the flooded foreground."
 geo:
   address: ''
   lat: 30.313616689930704

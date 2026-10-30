@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05CGD_3b950e9553.jpg
     thumb: /files/thumbnails/14fb2a6677dfae14fb2a6677e395.jpg
     url: /files/original/14fb2a6677dfae14fb2a6677e395.jpg
+    alt:
+      en: "A man in a dark uniform and orange life vest walks across an open lot as thick black smoke from a controlled oil burn fills the sky behind him, with power lines and a dumpster nearby."
 geo:
 id: 2425
 item_type: Still Image

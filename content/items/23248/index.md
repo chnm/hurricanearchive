@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 4.jpg
     thumb: /files/thumbnails/14fb29f04d5bb714fb29f04d6030.jpg
     url: /files/original/14fb29f04d5bb714fb29f04d6030.jpg
+    alt:
+      en: "Satellite weather map showing a hurricane with a defined eye over the western Caribbean/Gulf region, with surrounding storm clouds; timestamp reads \"27 Aug 2005 22:31 GMT / 27 Aug 2005 06:31 PM EDT\" and The Weather Channel logo."
 geo:
 id: 23248
 item_type: Still Image

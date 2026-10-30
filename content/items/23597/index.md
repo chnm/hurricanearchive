@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1597neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee9213d814fb29ee9217b2.jpg
     url: /files/original/14fb29ee9213d814fb29ee9217b2.jpg
+    alt:
+      en: "Two soldiers in camouflage and tan shirts stand near parked vehicles, including a \"26\" news station SUV, while a woman in a cap talks nearby, with floodwater visible in the background."
 geo:
 id: 23597
 item_type: Still Image

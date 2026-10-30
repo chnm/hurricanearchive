@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0658.JPG
     thumb: /files/thumbnails/14fb2a5360aeb114fb2a5360b29e.jpg
     url: /files/original/14fb2a5360aeb114fb2a5360b29e.jpg
+    alt:
+      en: "A wooden staircase stands alone amid scattered debris, splintered boards, and wreckage, with a damaged building visible in the background."
 geo:
 id: 5213
 item_type: Still Image

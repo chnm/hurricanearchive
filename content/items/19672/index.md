@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 059cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e79b78514fb2a0e79bb63.jpg
     url: /files/original/14fb2a0e79b78514fb2a0e79bb63.jpg
+    alt:
+      en: "A military helicopter flies over a staging area with a Humvee equipped with a satellite dish in the foreground, surrounded by parked trucks and portable toilets under a pale sky."
 geo:
 id: 19672
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9164.jpg
     thumb: /files/thumbnails/14fb2a63c8353f14fb2a63c83921.jpg
     url: /files/original/14fb2a63c8353f14fb2a63c83921.jpg
+    alt:
+      en: "Crushed red Pontiac Sunbird lies overturned in standing water amid widespread debris, with skeletal wooden house frames and an American flag visible in the distance."
 geo:
 id: 2635
 item_type: Still Image

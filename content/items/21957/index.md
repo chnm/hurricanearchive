@@ -21,6 +21,8 @@ files:
     original_filename: Picture 288-J2.jpg
     thumb: /files/thumbnails/14fb29fad6c98d14fb29fad6cd72.jpg
     url: /files/original/14fb29fad6c98d14fb29fad6cd72.jpg
+    alt:
+      en: "A white Kenwood delivery truck sits stopped on a highway ramp, with a man in a yellow shirt standing beside it; overhead green signs read \"10 East Slidell\" and \"Vieux Carre 1/2 Mile.\""
 geo:
 id: 21957
 item_type: Still Image

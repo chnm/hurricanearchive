@@ -21,6 +21,8 @@ files:
     original_filename: PICT0882neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed121b9414fb29ed121f72.jpg
     url: /files/original/14fb29ed121b9414fb29ed121f72.jpg
+    alt:
+      en: "Storm-damaged storefront with \"Reflections Bar\" and \"Sports Bar\" awnings, broken windows with debris, and a pile of uprooted branches and wreckage on the sidewalk; dated 09.15.2005."
 geo:
 id: 23786
 item_type: Still Image

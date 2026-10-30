@@ -21,6 +21,8 @@ files:
     original_filename: Picture 230cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b1d46ea14fb2a0b1d4acf.jpg
     url: /files/original/14fb2a0b1d46ea14fb2a0b1d4acf.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms clear fallen tree branches and debris from a tree-lined road, with military trucks parked nearby under a canopy of bare and leafy branches."
 geo:
 id: 20133
 item_type: Still Image

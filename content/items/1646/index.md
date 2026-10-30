@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28155.jpg
     thumb: /files/thumbnails/14fb2a674bae6214fb2a674bb250.jpg
     url: /files/original/14fb2a674bae6214fb2a674bb250.jpg
+    alt:
+      en: "A damaged house stands amid a debris-strewn yard littered with leaves and scattered objects, with a round clock face lying on the ground in the foreground."
 geo:
   address: ''
   lat: 0.0

@@ -26,6 +26,8 @@ files:
     original_filename: collapsed_ceiling_in_den_d57c124f63.jpg
     thumb: /files/thumbnails/14fb2a6e9f3a8814fb2a6e9f3e61.jpg
     url: /files/original/14fb2a6e9f3a8814fb2a6e9f3e61.jpg
+    alt:
+      en: "Collapsed ceiling in a den exposes pink fiberglass insulation hanging down amid damaged wood framing, with window blinds, a desk chair, and scattered debris visible below."
 geo:
   address: ''
   lat: 30.009063

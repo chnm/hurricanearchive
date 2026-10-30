@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4855_d8575702fe.jpg
     thumb: /files/thumbnails/14fb2a1e25a63914fb2a1e25aa20.jpg
     url: /files/original/14fb2a1e25a63914fb2a1e25aa20.jpg
+    alt:
+      en: "A page of a photo album with nine family snapshots in plastic sleeves, including studio portraits of babies and young children, a girl in a wheelchair holding an infant, and group photos of adults and teens."
 geo:
 id: 13376
 item_type: Still Image

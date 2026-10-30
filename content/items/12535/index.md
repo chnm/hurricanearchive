@@ -24,6 +24,8 @@ files:
     original_filename: house-front-rjpgcr3_7816a8c8f0.jpg
     thumb: /files/thumbnails/14fb2a2211824e14fb2a221184b8.jpg
     url: /files/original/14fb2a2211824e14fb2a221184b8.jpg
+    alt:
+      en: "Corner of a house with a decorative security door, showing a visible flood waterline and spray-painted rescuer markings reading \"CA 9-10,\" \"DOG NOT FOUND 10-1,\" and \"F/W.\""
 geo:
   address: ''
   lat: 29.95657

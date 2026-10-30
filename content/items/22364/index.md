@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1181Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f705920f14fb29f7059d26.jpg
     url: /files/original/14fb29f705920f14fb29f7059d26.jpg
+    alt:
+      en: "Floodwater completely submerges a parking area beneath an overhang, with murky water rippling toward a row of buildings with visible doors, windows, and railings partially underwater in the background."
 geo:
 id: 22364
 item_type: Still Image

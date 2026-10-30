@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0085grandisle.JPG
     thumb: /files/thumbnails/14fb2a14cc5f7414fb2a14cc6358.jpg
     url: /files/original/14fb2a14cc5f7414fb2a14cc6358.jpg
+    alt:
+      en: "Aerial view from a helicopter of a levee road running alongside a wide waterway, with scattered debris, vehicles, and sparse vegetation covering the flat, storm-damaged landscape below."
 geo:
 id: 18870
 item_type: Still Image

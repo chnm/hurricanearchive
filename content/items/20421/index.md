@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013-20.JPG
     thumb: /files/thumbnails/14fb2a07a2898314fb2a07a28d68.jpg
     url: /files/original/14fb2a07a2898314fb2a07a28d68.jpg
+    alt:
+      en: "A man in military camouflage uniform with an American flag patch eats from a styrofoam tray of rice, peas, and bread inside a large tent, with a Diet Coke can and water bottle nearby."
 geo:
 id: 20421
 item_type: Still Image

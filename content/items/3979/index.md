@@ -21,6 +21,8 @@ files:
     original_filename: DSC01069.JPG
     thumb: /files/thumbnails/14fb2a58a95bb814fb2a58a95f96.jpg
     url: /files/original/14fb2a58a95bb814fb2a58a95f96.jpg
+    alt:
+      en: "A boat loaded with coolers and supplies navigates a flooded, debris-strewn waterway lined with trees, with a timestamp reading \"5 9:02 AM\" in the corner."
 geo:
 id: 3979
 item_type: Still Image

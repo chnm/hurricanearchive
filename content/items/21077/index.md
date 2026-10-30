@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0172-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a00ad16c414fb2a00ad1aaa.jpg
     url: /files/original/14fb2a00ad16c414fb2a00ad1aaa.jpg
+    alt:
+      en: "Aerial view of extensive flooding submerging a residential area, with rooftops, scattered trees, and debris poking above the murky water along a flooded street."
 geo:
 id: 21077
 item_type: Still Image

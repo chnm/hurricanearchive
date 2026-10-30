@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0188cowanmedia.JPG
     thumb: /files/thumbnails/14fb29f27412b614fb29f2741a7a.jpg
     url: /files/original/14fb29f27412b614fb29f2741a7a.jpg
+    alt:
+      en: "A woman holds a Fox News microphone toward a man in military camouflage uniform during an outdoor interview, with other uniformed personnel and bystanders visible in the background."
 geo:
 id: 22955
 item_type: Still Image

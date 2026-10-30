@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-007_e5a4de5b57.jpg
     thumb: /files/thumbnails/14fb2a16b7519414fb2a16b758fb.jpg
     url: /files/original/14fb2a16b7519414fb2a16b758fb.jpg
+    alt:
+      en: "A woman sits on a brick porch step with six children around her, an American flag and potted plants nearby, with a timestamp reading '05 6 14 in the corner."
 geo:
 id: 15260
 item_type: Still Image

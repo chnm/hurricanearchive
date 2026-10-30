@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0164.JPG
     thumb: /files/thumbnails/14fb2a5530645414fb2a5530683a.jpg
     url: /files/original/14fb2a5530645414fb2a5530683a.jpg
+    alt:
+      en: "Close-up of exposed wood ceiling joists and a metal support bracket, with textured drywall pulling away from the wood framing and reflective insulation visible below."
 geo:
 id: 4845
 item_type: Still Image

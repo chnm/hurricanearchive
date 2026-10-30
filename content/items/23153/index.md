@@ -21,6 +21,8 @@ files:
     original_filename: 20051003-A-3780B-198NewMexicoNG.jpg
     thumb: /files/thumbnails/14fb29f14e3f1114fb29f14e791f.jpg
     url: /files/original/14fb29f14e3f1114fb29f14e791f.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms handle large white sandbags beside a military forklift in a grassy field, with one soldier visible operating the vehicle from inside the cab."
 geo:
 id: 23153
 item_type: Still Image

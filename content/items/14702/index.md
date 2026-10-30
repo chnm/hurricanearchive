@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DannishDanionGreen_02_b54e5f229a.jpg
     thumb: /files/thumbnails/14fb2a18152a5d14fb2a18152e40.jpg
     url: /files/original/14fb2a18152a5d14fb2a18152e40.jpg
+    alt:
+      en: "Studio portrait of two boys wearing matching \"Mecca\" t-shirts and Nike headbands, one in navy blue and one in red, posed against a mottled gray backdrop."
 geo:
 id: 14702
 item_type: Still Image

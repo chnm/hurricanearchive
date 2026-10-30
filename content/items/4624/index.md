@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0050.JPG
     thumb: /files/thumbnails/14fb2a56b61acf14fb2a56b61ce4.jpg
     url: /files/original/14fb2a56b61acf14fb2a56b61ce4.jpg
+    alt:
+      en: "Overgrown wooded lot with fallen and bent trees in the foreground, with distant buildings featuring blue tarps on their roofs visible through the trees."
 geo:
 id: 4624
 item_type: Still Image

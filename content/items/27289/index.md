@@ -20,6 +20,8 @@ files:
     original_filename: pt_front_room_50d058b77c.jpg
     thumb: /files/thumbnails/14fb29d589fe6714fb29d58a024b.jpg
     url: /files/original/14fb29d589fe6714fb29d58a024b.jpg
+    alt:
+      en: "Gutted interior room with exposed ceiling grid and ductwork, peeling wallpaper, yellow wood paneling, and floor covered in storm debris, reeds, and drywall fragments."
 geo:
   address: ''
   lat: 0.0

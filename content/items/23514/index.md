@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0150abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef2585ef14fb29ef258959.jpg
     url: /files/original/14fb29ef2585ef14fb29ef258959.jpg
+    alt:
+      en: "Brick chapel with a sign reading \"Sacred Heart Chapel\" and a white cross above the entrance, surrounded by storm debris and dead grass, with two figures entering the dark doorway."
 geo:
 id: 23514
 item_type: Still Image

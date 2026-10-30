@@ -26,6 +26,8 @@ files:
     original_filename: The_Day_After_094_12653301d7.jpg
     thumb: /files/thumbnails/14fb2a6df0b6f714fb2a6df0bad8.jpg
     url: /files/original/14fb2a6df0b6f714fb2a6df0bad8.jpg
+    alt:
+      en: "An older woman gives two thumbs up while standing amid storm wreckage, with a collapsed structure, scattered debris, and bent metal piping surrounded by dense trees and foliage."
 geo:
   address: ''
   lat: 30.279823299830202

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110cropengineers.jpg
     thumb: /files/thumbnails/14fb2a1037c28514fb2a1037c6f9.jpg
     url: /files/original/14fb2a1037c28514fb2a1037c6f9.jpg
+    alt:
+      en: "Double yellow lines on a concrete bridge deck lead toward a metal expansion joint seam, with orange traffic cones, barriers, and a water view lining the roadside."
 geo:
 id: 19429
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-39_0629dde6ec.jpg
     thumb: /files/thumbnails/14fb2a161aa71c14fb2a161aab01.jpg
     url: /files/original/14fb2a161aa71c14fb2a161aab01.jpg
+    alt:
+      en: "Vintage color photograph of a young bride and groom standing together, she in a veil and pale dress, he in a tan suit with patterned tie, against a floral wallpaper backdrop."
 geo:
 id: 15506
 item_type: Still Image

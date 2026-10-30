@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p2_03_c7807f19a4.jpg
     thumb: /files/thumbnails/14fb2a176c454a14fb2a176c4936.jpg
     url: /files/original/14fb2a176c454a14fb2a176c4936.jpg
+    alt:
+      en: "Faded color photo of a man sitting in a doorway holding a young girl and a toddler, surrounded by potted plants and a wrought-iron plant stand."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

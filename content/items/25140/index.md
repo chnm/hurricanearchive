@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1747superdome.JPG
     thumb: /files/thumbnails/14fb29e1e91e9214fb29e1e92606.jpg
     url: /files/original/14fb29e1e91e9214fb29e1e92606.jpg
+    alt:
+      en: "Military personnel and medical staff, including PHI Air Medical crew, assist a person near a military helicopter on a tarmac, with a man in blue scrubs and another in uniform walking nearby."
 geo:
 id: 25140
 item_type: Still Image

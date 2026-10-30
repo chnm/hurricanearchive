@@ -21,6 +21,8 @@ files:
     original_filename: PICT0860Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f453edc914fb29f453f3a9.jpg
     url: /files/original/14fb29f453edc914fb29f453f3a9.jpg
+    alt:
+      en: "Empty street with storm debris, piled cars, and stripped trees along a curb; green utility box and light pole in foreground, date stamp \"09.15.2005\" visible."
 geo:
 id: 22738
 item_type: Still Image

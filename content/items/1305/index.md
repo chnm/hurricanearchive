@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28358.jpg
     thumb: /files/thumbnails/14fb2a69c4b43614fb2a69c4b81c.jpg
     url: /files/original/14fb2a69c4b43614fb2a69c4b81c.jpg
+    alt:
+      en: "A large fallen statue of a yellow humanoid figure lies on bare, debris-strewn ground, with damaged buildings and a cityscape visible in the background."
 geo:
   address: ''
   lat: 0.0

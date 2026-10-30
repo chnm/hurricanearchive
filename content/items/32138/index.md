@@ -20,6 +20,8 @@ files:
     original_filename: 1279844903_3fb3d8fcfc.jpg
     thumb: /files/thumbnails/14fb29cbfc91e814fb29cbfc95ce.jpg
     url: /files/original/14fb29cbfc91e814fb29cbfc95ce.jpg
+    alt:
+      en: "Two framed documents on a wall titled \"Airport's Role\" and \"Thank You,\" displaying printed text in black on white paper, with a partial aerial map image visible above them."
 geo:
 id: 32138
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 2326068713_df14d8a1ef.
     thumb: /files/thumbnails/14fb29c9e1ea5414fb29c9e1f61e.jpg
     url: /files/original/14fb29c9e1ea5414fb29c9e1f61e.jpg
+    alt:
+      en: "A black car drives past a vast field of hurricane debris, including splintered wood, a small boat, and household wreckage, with damaged houses and trees visible along the shoreline in the background."
 geo:
   address: ''
   lat: 30.20935

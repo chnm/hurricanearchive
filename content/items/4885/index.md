@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0204.JPG
     thumb: /files/thumbnails/14fb2a550ee55b14fb2a550ee940.jpg
     url: /files/original/14fb2a550ee55b14fb2a550ee940.jpg
+    alt:
+      en: "A small wooden storage shed with its door open, surrounded by scattered debris and damaged trees, sits in a wooded area with a fallen log in the foreground."
 geo:
 id: 4885
 item_type: Still Image

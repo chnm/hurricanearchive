@@ -21,6 +21,8 @@ files:
     original_filename: Picture 005cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0cb6c0f114fb2a0cb6c4d5.jpg
     url: /files/original/14fb2a0cb6c0f114fb2a0cb6c4d5.jpg
+    alt:
+      en: "Silhouette of a person wearing a cap, seen from inside a vehicle, with a grassy roadside, trees, utility poles, and commercial buildings visible through the window."
 geo:
 id: 19909
 item_type: Still Image

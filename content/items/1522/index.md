@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28070.jpg
     thumb: /files/thumbnails/14fb2a6828bf8314fb2a6828c361.jpg
     url: /files/original/14fb2a6828bf8314fb2a6828c361.jpg
+    alt:
+      en: "A weathered \"NO TURNS\" street sign leans at an angle on a bent post, with a STOP sign and utility poles visible in the background along an empty street."
 geo:
   address: ''
   lat: 0.0

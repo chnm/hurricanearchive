@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_ErykahMorris_01_10d5cd9be4.jpg
     thumb: /files/thumbnails/14fb2a17da421314fb2a17da45f7.jpg
     url: /files/original/14fb2a17da421314fb2a17da45f7.jpg
+    alt:
+      en: "A baby wearing a black cap and black track pants sits on a bed with a Coca-Cola-patterned blanket and red cushion, with part of a blurred figure visible in the foreground."
 geo:
 id: 14765
 item_type: Still Image

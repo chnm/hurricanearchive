@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0203-21.JPG
     thumb: /files/thumbnails/14fb29ffe5ab2214fb29ffe5af04.jpg
     url: /files/original/14fb29ffe5ab2214fb29ffe5af04.jpg
+    alt:
+      en: "A person in military camouflage uniform with an American flag patch leans toward a vehicle window, with greenery and a building visible in the background."
 geo:
 id: 21232
 item_type: Still Image

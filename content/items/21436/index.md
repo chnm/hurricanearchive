@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0256-9-25.JPG
     thumb: /files/thumbnails/14fb29feccd8cb14fb29feccdd4b.jpg
     url: /files/original/14fb29feccd8cb14fb29feccdd4b.jpg
+    alt:
+      en: "Aerial view of two flooded houses surrounded by rising water, with only rooftops and upper porch structures visible above the surface, alongside partially submerged trees and a debris marker."
 geo:
 id: 21436
 item_type: Still Image

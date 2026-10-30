@@ -18,6 +18,8 @@ files:
     original_filename: 46_5ebce717bf.jpg
     thumb: /files/thumbnails/14fb29c6b7881314fb29c6b78bf5.jpg
     url: /files/original/14fb29c6b7881314fb29c6b78bf5.jpg
+    alt:
+      en: "Two people in costume pose playfully indoors against wood-paneled walls: one wears an orange wig, tiara, and blue mermaid-style outfit, the other wears a pirate hat with skull emblem, eyepatch, and white dress."
 geo:
   address: new orleans, la
   lat: 29.95324

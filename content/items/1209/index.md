@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27918.jpg
     thumb: /files/thumbnails/14fb2a6a65bf9014fb2a6a65c36d.jpg
     url: /files/original/14fb2a6a65bf9014fb2a6a65c36d.jpg
+    alt:
+      en: "Boarded-up windows on a white porch, one plywood panel spray-painted with \"BLOW ME KATRINA\" and another reading \"Pigsty Cat.\""
 geo:
   address: ''
   lat: 0.0

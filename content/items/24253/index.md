@@ -21,6 +21,8 @@ files:
     original_filename: 09140034.JPG
     thumb: /files/thumbnails/14fb29e9683b2b14fb29e9683f10.jpg
     url: /files/original/14fb29e9683b2b14fb29e9683f10.jpg
+    alt:
+      en: "Debris-strewn street lined with modest houses, a corrugated metal fence, a fire hydrant, and a parked car, with a military vehicle visible in the foreground mirror."
 geo:
 id: 24253
 item_type: Still Image

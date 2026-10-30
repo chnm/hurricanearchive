@@ -21,6 +21,8 @@ files:
     original_filename: Picture 100cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bb9c31e14fb2a0bb9c703.jpg
     url: /files/original/14fb2a0bb9c31e14fb2a0bb9c703.jpg
+    alt:
+      en: "Gravel rail yard with railroad tracks, a chain-link fence draped with torn plastic sheeting and debris, and a corrugated metal building damaged with holes in the background."
 geo:
 id: 20003
 item_type: Still Image

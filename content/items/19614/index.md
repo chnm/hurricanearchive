@@ -21,6 +21,8 @@ files:
     original_filename: 09240015rita.JPG
     thumb: /files/thumbnails/14fb2a0ec7003f14fb2a0ec7040f.jpg
     url: /files/original/14fb2a0ec7003f14fb2a0ec7040f.jpg
+    alt:
+      en: "Gravel lot under stormy skies leading to an open field with a large green-and-white striped tent, a collapsed red-and-white tent, scattered debris, and a propane tank in the foreground."
 geo:
 id: 19614
 item_type: Still Image

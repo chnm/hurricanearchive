@@ -23,6 +23,8 @@ files:
     original_filename: 2326143149_e4fbfa6a4b.
     thumb: /files/thumbnails/14fb29ca128bcd14fb29ca128fb7.jpg
     url: /files/original/14fb29ca128bcd14fb29ca128fb7.jpg
+    alt:
+      en: "Debris field surrounding a damaged two-story house and a \"Hardware\" store sign, with a wrecked truck and scattered wreckage in the foreground, photographed through a car window."
 geo:
 id: 34429
 item_type: Still Image

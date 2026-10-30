@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0159-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a013b95a014fb2a013b9993.jpg
     url: /files/original/14fb2a013b95a014fb2a013b9993.jpg
+    alt:
+      en: "A flood-damaged house with a metal roof stands partially surrounded by standing water, with debris, broken siding, and downed power lines scattered across the yard and a nearby leafless tree."
 geo:
 id: 20970
 item_type: Still Image

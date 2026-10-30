@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0079.JPG
     thumb: /files/thumbnails/14fb2a55dc308314fb2a55dc3469.jpg
     url: /files/original/14fb2a55dc308314fb2a55dc3469.jpg
+    alt:
+      en: "A yellow tape measure (Kraken USA) stands upright against a broken concrete curb, measuring the depth of rubble and debris scattered across the ground."
 geo:
 id: 4732
 item_type: Still Image

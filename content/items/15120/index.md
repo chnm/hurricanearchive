@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5683_fee2ab085e.jpg
     thumb: /files/thumbnails/14fb2a170a15f814fb2a170a19c9.jpg
     url: /files/original/14fb2a170a15f814fb2a170a19c9.jpg
+    alt:
+      en: "Three smiling women pose together indoors, an older woman wearing glasses in the foreground with two younger women standing behind her, one resting a hand on her shoulder."
 geo:
 id: 15120
 item_type: Still Image

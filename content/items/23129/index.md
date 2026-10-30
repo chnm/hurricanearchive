@@ -21,6 +21,8 @@ files:
     original_filename: 09110006delaware.JPG
     thumb: /files/thumbnails/14fb29f173441f14fb29f17347fa.jpg
     url: /files/original/14fb29f173441f14fb29f17347fa.jpg
+    alt:
+      en: "A line of military personnel in camouflage fatigues board a U.S. Air Force C-130 aircraft on a tarmac, with one carrying a rolling bag."
 geo:
 id: 23129
 item_type: Still Image

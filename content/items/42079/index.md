@@ -23,6 +23,8 @@ files:
     original_filename: Moisant Runway - Katrina_18950aa70f.jpg
     thumb: /files/thumbnails/14fb29c3a3cf6114fb29c3a3d3c1.jpg
     url: /files/original/14fb29c3a3cf6114fb29c3a3d3c1.jpg
+    alt:
+      en: "Floodwaters submerge an airport runway, with a red approach light structure standing partially underwater in the foreground and a tree line visible in the distance under an overcast sky."
 geo:
   address: ''
   lat: 29.99419

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0088-15.JPG
     thumb: /files/thumbnails/14fb2a03640b1614fb2a03640efd.jpg
     url: /files/original/14fb2a03640b1614fb2a03640efd.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with storm-damaged homes, scattered debris, fallen trees, displaced vehicles, and a yellow school bus parked askew along a cracked street."
 geo:
 id: 20831
 item_type: Still Image

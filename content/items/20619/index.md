@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044-9-25.JPG
     thumb: /files/thumbnails/14fb2a059d971d14fb2a059d9a90.jpg
     url: /files/original/14fb2a059d971d14fb2a059d9a90.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with muddy water covering roads and yards, downed trees and debris scattered throughout, and a visible stop sign partially submerged near an intersection."
 geo:
 id: 20619
 item_type: Still Image

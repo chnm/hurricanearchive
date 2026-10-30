@@ -21,6 +21,8 @@ files:
     original_filename: P1010010delaware.JPG
     thumb: /files/thumbnails/14fb29f0f599dd14fb29f0f59a1d.jpg
     url: /files/original/14fb29f0f599dd14fb29f0f59a1d.jpg
+    alt:
+      en: "A military cargo plane with its rear ramp lowered sits on a tarmac, propellers visible, as a uniformed person walks nearby casting a long shadow across the pavement."
 geo:
 id: 23190
 item_type: Still Image

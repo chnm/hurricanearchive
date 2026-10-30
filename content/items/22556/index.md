@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1845Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f54bde8a14fb29f54be294.jpg
     url: /files/original/14fb29f54bde8a14fb29f54be294.jpg
+    alt:
+      en: "Aerial view of a severely flooded neighborhood with only rooftops visible above brown floodwater, scattered debris, submerged vehicles, and an oil sheen spreading across the water's surface."
 geo:
 id: 22556
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7407.JPG
     thumb: /files/thumbnails/14fb29ccc5c02114fb29ccc5c3fe.jpg
     url: /files/original/14fb29ccc5c02114fb29ccc5c3fe.jpg
+    alt:
+      en: "Dense, overgrown vegetation and leaning trees with fallen branches surround a structure's blue-trimmed wall and brown eaves, suggesting storm damage in a wooded yard."
 geo:
 id: 30710
 item_type: Still Image

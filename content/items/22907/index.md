@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005 cropcowanmedia.jpg
     thumb: /files/thumbnails/14fb29f2c4256c14fb29f2c48de6.jpg
     url: /files/original/14fb29f2c4256c14fb29f2c48de6.jpg
+    alt:
+      en: "Close-up profile of a man wearing dark sunglasses, a yellow earplug, and camouflage fatigues, with a Nikon camera strap visible, inside a dimly lit vehicle or aircraft interior."
 geo:
 id: 22907
 item_type: Still Image

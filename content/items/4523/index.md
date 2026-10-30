@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0735.JPG
     thumb: /files/thumbnails/14fb2a571261ef14fb2a571265dc.jpg
     url: /files/original/14fb2a571261ef14fb2a571265dc.jpg
+    alt:
+      en: "Blurry photo of a debris-covered floor with mud, scattered fabric scraps, and torn materials, bordered by a white-paneled wall and wooden trim."
 geo:
 id: 4523
 item_type: Still Image

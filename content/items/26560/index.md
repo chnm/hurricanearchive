@@ -20,6 +20,8 @@ files:
     original_filename: left behind_9b4c1c59c5.jpg
     thumb: /files/thumbnails/14fb29d863201414fb29d8632bd0.jpg
     url: /files/original/14fb29d863201414fb29d8632bd0.jpg
+    alt:
+      en: "A black-and-white photo of a man's dress shirt hanging on a hook in a dim, shadowy room, its pale fabric contrasting against the dark surroundings."
 geo:
   address: Ninth Ward
   lat: 29.14257

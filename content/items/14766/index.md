@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_ErykahMorris_02_da97994822.jpg
     thumb: /files/thumbnails/14fb2a17d96cfc14fb2a17d96f2f.jpg
     url: /files/original/14fb2a17d96cfc14fb2a17d96f2f.jpg
+    alt:
+      en: "A young girl smiles while holding an infant on a bed covered with Coca-Cola pillows, as a woman behind them talks on a corded telephone."
 geo:
 id: 14766
 item_type: Still Image

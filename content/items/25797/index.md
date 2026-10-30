@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-5779_24b0fd3894.jpg
     thumb: /files/thumbnails/14fb29dc360c4b14fb29dc3616e0.jpg
     url: /files/original/14fb29dc360c4b14fb29dc3616e0.jpg
+    alt:
+      en: "Elderly man with white hair and beard, wearing suspenders, stands on a balcony holding a framed vintage black-and-white photograph of a man in a suit and hat standing near a 7UP sign on Canal Street."
 geo:
 id: 25797
 item_type: Still Image

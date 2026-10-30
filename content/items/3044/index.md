@@ -21,6 +21,8 @@ files:
     original_filename: 100_0293.JPG
     thumb: /files/thumbnails/14fb2a5e60707114fb2a5e607477.jpg
     url: /files/original/14fb2a5e60707114fb2a5e607477.jpg
+    alt:
+      en: "A decommissioned submarine, painted black and gray, sits docked beside a concrete pier, with a metal building and water in the foreground under a clear blue sky."
 geo:
 id: 3044
 item_type: Still Image

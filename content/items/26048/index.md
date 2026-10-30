@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6954_dc2cde5179.jpg
     thumb: /files/thumbnails/14fb29db89670014fb29db896cfa.jpg
     url: /files/original/14fb29db89670014fb29db896cfa.jpg
+    alt:
+      en: "Black-and-white 1913 photograph of the Edwin O. Moss Barbershop interior, showing rows of ornate barber chairs with draped towels and several barbers in white coats standing beneath hanging light fixtures and mirrored walls."
 geo:
   address: ''
   lat: 29.57346

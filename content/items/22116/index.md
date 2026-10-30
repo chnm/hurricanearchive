@@ -21,6 +21,8 @@ files:
     original_filename: 09140027Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f97b87a914fb29f97b8b97.jpg
     url: /files/original/14fb29f97b87a914fb29f97b8b97.jpg
+    alt:
+      en: "Small brick building marked \"58\" stands amid storm debris, including a fallen palm tree, scattered bricks, a metal boat, downed power lines, and a leaning pole."
 geo:
 id: 22116
 item_type: Still Image

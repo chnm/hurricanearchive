@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DannishDanionGreen_05_e29df97185.jpg
     thumb: /files/thumbnails/14fb2a1811f26614fb2a1811fa24.jpg
     url: /files/original/14fb2a1811f26614fb2a1811fa24.jpg
+    alt:
+      en: "A young boy in a dark coat stands smiling on a snow-dusted sidewalk in front of a brick apartment building with bushes and windows."
 geo:
 id: 14705
 item_type: Still Image

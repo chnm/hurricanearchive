@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28341.jpg
     thumb: /files/thumbnails/14fb2a6b1c5ae314fb2a6b1c5eda.jpg
     url: /files/original/14fb2a6b1c5ae314fb2a6b1c5eda.jpg
+    alt:
+      en: "Severely damaged multi-story building with exposed insulation, twisted metal framing, and collapsed ceiling sections; rows of chairs remain visible in a ground-floor room below the wreckage."
 geo:
   address: ''
   lat: 0.0

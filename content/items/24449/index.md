@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0096-21.JPG
     thumb: /files/thumbnails/14fb29e79dedbc14fb29e79df1a2.jpg
     url: /files/original/14fb29e79dedbc14fb29e79df1a2.jpg
+    alt:
+      en: "Soldier in camouflage military uniform holding a water bottle and gesturing with his other hand, standing outdoors near greenery; an American flag patch is visible on his sleeve."
 geo:
 id: 24449
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28247.jpg
     thumb: /files/thumbnails/14fb2a6aa1dbaf14fb2a6aa1df56.jpg
     url: /files/original/14fb2a6aa1dbaf14fb2a6aa1df56.jpg
+    alt:
+      en: "Large multi-story casino building stands amid widespread storm debris, with uprooted trees, scattered lumber, and a school bus visible in the cleared lot in front."
 geo:
   address: ''
   lat: 0.0

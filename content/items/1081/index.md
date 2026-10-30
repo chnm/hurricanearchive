@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28611.jpg
     thumb: /files/thumbnails/14fb2a6b23f19514fb2a6b23f5fc.jpg
     url: /files/original/14fb2a6b23f19514fb2a6b23f5fc.jpg
+    alt:
+      en: "Tall glass-walled high-rise buildings in downtown New Orleans, with a tree branch overhanging the street and yellow \"FALLING GLASS\" caution signs posted on sidewalk barriers below."
 geo:
   address: ''
   lat: 0.0

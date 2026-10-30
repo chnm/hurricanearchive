@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0144.JPG
     thumb: /files/thumbnails/14fb2a55411ad814fb2a55411ebe.jpg
     url: /files/original/14fb2a55411ad814fb2a55411ebe.jpg
+    alt:
+      en: "Collapsed house with roof caved in and resting on the ground, surrounded by fallen trees and debris, set among a wooded lot with bare winter trees."
 geo:
 id: 4829
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1395Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f57451f514fb29f57455da.jpg
     url: /files/original/14fb29f57451f514fb29f57455da.jpg
+    alt:
+      en: "A group of military personnel in camouflage and tan uniforms gather closely together outdoors, with a white house and shingled rooftop visible in the background under an overcast sky."
 geo:
 id: 22550
 item_type: Still Image

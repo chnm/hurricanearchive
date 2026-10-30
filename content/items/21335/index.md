@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0230.JPG
     thumb: /files/thumbnails/14fb29ff6e820614fb29ff6e85ec.jpg
     url: /files/original/14fb29ff6e820614fb29ff6e85ec.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood with scattered debris, stripped trees, mud-covered streets, and houses showing roof and structural damage, under a hazy sky."
 geo:
 id: 21335
 item_type: Still Image

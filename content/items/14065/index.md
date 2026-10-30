@@ -21,6 +21,8 @@ files:
     original_filename: 20050929044.JPG
     thumb: /files/thumbnails/14fb2a1bf2583614fb2a1bf25c1c.jpg
     url: /files/original/14fb2a1bf2583614fb2a1bf25c1c.jpg
+    alt:
+      en: "A soldier in camouflage uniform, beret, and sunglasses stands on a debris-strewn road, with other service members, a pickup truck, and a large military transport vehicle visible nearby amid storm-damaged buildings."
 geo:
   address: ''
   lat: 0.0

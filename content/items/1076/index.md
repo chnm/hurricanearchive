@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28472.jpg
     thumb: /files/thumbnails/14fb2a6b2bc19e14fb2a6b2bc583.jpg
     url: /files/original/14fb2a6b2bc19e14fb2a6b2bc583.jpg
+    alt:
+      en: "A man sits on a cot with a sleeping child beside a decorative quilt, while a woman in an orange shirt sits nearby in a crowded shelter filled with cots and belongings."
 geo:
   address: ''
   lat: 0.0

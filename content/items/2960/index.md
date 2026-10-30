@@ -21,6 +21,8 @@ files:
     original_filename: MVC-015S.JPG
     thumb: /files/thumbnails/14fb2a5f75606d14fb2a5f7564b9.jpg
     url: /files/original/14fb2a5f75606d14fb2a5f7564b9.jpg
+    alt:
+      en: "A Coast Guard helicopter marked \"2\" with a shattered side window, parked outdoors; a yellow label near the cockpit reads \"EMERGENCY RESCUE, PRESS BUTTON, TURN HANDLE, PULL OUT WINDOW.\""
 geo:
 id: 2960
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0097rita.JPG
     thumb: /files/thumbnails/14fb2a11a996cd14fb2a11a99ab3.jpg
     url: /files/original/14fb2a11a996cd14fb2a11a99ab3.jpg
+    alt:
+      en: "A man in U.S. Army camouflage fatigues and cap sits at an outdoor table with a clipboard, radio, mosquito repellent spray, and a Gatorade bottle."
 geo:
 id: 19243
 item_type: Still Image

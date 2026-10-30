@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0116-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e6b7c9bb14fb29e6b7f455.jpg
     url: /files/original/14fb29e6b7c9bb14fb29e6b7f455.jpg
+    alt:
+      en: "A long line of trucks and vehicles queued on a rural road alongside a flooded, debris-filled canal, with a uniformed officer and another man standing by a parked truck in the foreground."
 geo:
 id: 24556
 item_type: Still Image

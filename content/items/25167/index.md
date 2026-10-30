@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1777superdome.JPG
     thumb: /files/thumbnails/14fb29e182961114fb29e182a2d9.jpg
     url: /files/original/14fb29e182961114fb29e182a2d9.jpg
+    alt:
+      en: "Two men in camouflage military uniforms embrace, one resting a hand on the other's shoulder, while a woman in a gray outfit stands between them with a tearful expression."
 geo:
 id: 25167
 item_type: Still Image

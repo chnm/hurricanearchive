@@ -21,6 +21,8 @@ files:
     original_filename: 09140015Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f9857c4614fb29f9858029.jpg
     url: /files/original/14fb29f9857c4614fb29f9858029.jpg
+    alt:
+      en: "A blue plastic storage bin lodged among tree branches near a brick wall and iron fence, with railroad tracks and a brick building visible in the background."
 geo:
 id: 22104
 item_type: Still Image

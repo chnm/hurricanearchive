@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2249.JPG
     thumb: /files/thumbnails/14fb2a13860fae14fb2a13861393.jpg
     url: /files/original/14fb2a13860fae14fb2a13861393.jpg
+    alt:
+      en: "Two men in camouflage military uniforms wearing aviation headsets and microphones sit inside an aircraft, with harness straps visible and an American flag patch on one uniform."
 geo:
 id: 19043
 item_type: Still Image

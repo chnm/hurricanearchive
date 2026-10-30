@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0087_b70c76abdf.JPG
     thumb: /files/thumbnails/14fb2a6dc2f96214fb2a6dc2ff22.jpg
     url: /files/original/14fb2a6dc2f96214fb2a6dc2ff22.jpg
+    alt:
+      en: "Storm-damaged house numbered 1113 with torn roof, exposed framing, and debris scattered across the yard, a strip of red tape cordoning off the wreckage in front."
 geo:
   address: ''
   lat: 30.234413639939

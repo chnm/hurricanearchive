@@ -20,6 +20,8 @@ files:
     original_filename: 11_5bec3dc613.jpg
     thumb: /files/thumbnails/14fb2a165a60c214fb2a165a64a5.jpg
     url: /files/original/14fb2a165a60c214fb2a165a64a5.jpg
+    alt:
+      en: "Single-story home with a striped metal awning over a porch with railings and a rocking chair, fronted by a well-kept lawn, mulched flower beds with shrubs, and a small American flag."
 geo:
   address: Friscoville Ave.
   lat: 0.0

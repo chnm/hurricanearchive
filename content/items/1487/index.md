@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28686.jpg
     thumb: /files/thumbnails/14fb2a68737a7714fb2a68737e68.jpg
     url: /files/original/14fb2a68737a7714fb2a68737e68.jpg
+    alt:
+      en: "Row of covered animal stalls with horses peering over metal gates, cooling fans mounted on two stalls, and numbered tags marked \"108\" and \"109\" hanging on the doors."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1380Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f58d645514fb29f58d6834.jpg
     url: /files/original/14fb29f58d645514fb29f58d6834.jpg
+    alt:
+      en: "Floodwaters submerge a residential street, with a dark green storage container and brick houses partially underwater amid surrounding trees under an overcast sky."
 geo:
 id: 22538
 item_type: Still Image

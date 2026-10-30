@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28479.jpg
     thumb: /files/thumbnails/14fb2a6c5c2f5414fb2a6c5c3343.jpg
     url: /files/original/14fb2a6c5c2f5414fb2a6c5c3343.jpg
+    alt:
+      en: "Flood-damaged living room with water-stained walls, mud-caked sofas and cushions, scattered debris, an overturned small table, and a window with blinds letting in light."
 geo:
   address: ''
   lat: 0.0

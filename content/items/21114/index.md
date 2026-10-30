@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0179-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0088c81e14fb2a0088cc02.jpg
     url: /files/original/14fb2a0088c81e14fb2a0088cc02.jpg
+    alt:
+      en: "Interior of a flood-damaged home with a dark, muddy water-covered floor; several men stand amid the debris near kitchen cabinets, appliances, and a window with curtains."
 geo:
 id: 21114
 item_type: Still Image

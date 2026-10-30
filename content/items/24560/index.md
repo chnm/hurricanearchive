@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0117-15.JPG
     thumb: /files/thumbnails/14fb29e6acc6be14fb29e6accab2.jpg
     url: /files/original/14fb29e6acc6be14fb29e6accab2.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with collapsed and displaced houses, scattered debris, and empty lots lining damaged streets, photographed in dim, low light."
 geo:
 id: 24560
 item_type: Still Image

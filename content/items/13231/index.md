@@ -21,6 +21,8 @@ files:
     original_filename: 226 more metal.jpg
     thumb: /files/thumbnails/14fb2a1f20da5214fb2a1f20de37.jpg
     url: /files/original/14fb2a1f20da5214fb2a1f20de37.jpg
+    alt:
+      en: "Twisted sheets of metal roofing or siding lie crumpled on a street in front of a storefront, partially covering a parked car, with a small \"650\" sign visible in the building's entrance."
 geo:
 id: 13231
 item_type: Still Image

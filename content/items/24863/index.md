@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2203superdome.JPG
     thumb: /files/thumbnails/14fb29e45167ac14fb29e451700e.jpg
     url: /files/original/14fb29e45167ac14fb29e451700e.jpg
+    alt:
+      en: "Two men in military fatigues wearing gloves and backpacks sort large quantities of bottled water and packaged supplies at night, with a bus labeled \"...TI LIMO & SHUTTLE ...RVICES\" and other people visible in the background."
 geo:
 id: 24863
 item_type: Still Image

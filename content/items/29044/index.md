@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-13.jpg
     thumb: /files/thumbnails/14fb29d06d359114fb29d06d3981.jpg
     url: /files/original/14fb29d06d359114fb29d06d3981.jpg
+    alt:
+      en: "Rows of military cots fill a large open-air aircraft shelter, with uniformed troops resting, sitting, and sorting gear among supply boxes and backpacks."
 geo:
 id: 29044
 item_type: Still Image

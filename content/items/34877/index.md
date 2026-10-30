@@ -20,6 +20,8 @@ files:
     original_filename: 2456720185_b57733a4a7.
     thumb: /files/thumbnails/14fb29c8cdfd3b14fb29c8ce0121.jpg
     url: /files/original/14fb29c8cdfd3b14fb29c8ce0121.jpg
+    alt:
+      en: "A concrete mixer truck lies overturned on a paved construction site, surrounded by orange traffic cones and yellow caution tape, with workers in the background near partially laid pavement."
 geo:
 id: 34877
 item_type: Still Image

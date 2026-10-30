@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (60).jpg
     thumb: /files/thumbnails/14fb2a5ca7bae114fb2a5ca7beea.jpg
     url: /files/original/14fb2a5ca7bae114fb2a5ca7beea.jpg
+    alt:
+      en: "Debris-strewn street with standing floodwater, collapsed structures, and scorched trees under a clear blue sky, with one intact white house visible in the background."
 geo:
 id: 3300
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: garbage_1655dd9546.JPG
     thumb: /files/thumbnails/14fb2a702d65f114fb2a702d6cff.jpg
     url: /files/original/14fb2a702d65f114fb2a702d6cff.jpg
+    alt:
+      en: "A long roadside pile of discarded household items—rolled carpets, upholstered chairs, mattresses, and debris—stretches alongside a sidewalk under an overcast sky."
 geo:
   address: ''
   lat: 29.94884

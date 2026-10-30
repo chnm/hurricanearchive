@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29e9f2187114fb29e9f21c57.jpg
     url: /files/original/14fb29e9f2187114fb29e9f21c57.jpg
+    alt:
+      en: "A large tree stands partially submerged in floodwater that covers a flat field, with power lines crossing the foreground and a cloudy sky overhead; a small blue barrel and debris float nearby."
 geo:
 id: 24191
 item_type: Still Image

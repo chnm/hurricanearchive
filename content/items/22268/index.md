@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1079Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8607e5814fb29f86085be.jpg
     url: /files/original/14fb29f8607e5814fb29f86085be.jpg
+    alt:
+      en: "Three trucks partially submerged in floodwater during heavy rain, with a tarp-covered truck bed, power lines overhead, and fogged buildings and trees in the background."
 geo:
 id: 22268
 item_type: Still Image

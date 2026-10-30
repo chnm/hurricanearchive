@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5656_276ad45644.jpg
     thumb: /files/thumbnails/14fb2a17110cee14fb2a171110d5.jpg
     url: /files/original/14fb2a17110cee14fb2a171110d5.jpg
+    alt:
+      en: "Black-and-white aerial photo of a rural road lined with small houses and trees, bordered by open fields, with a denser town visible in the distance."
 geo:
 id: 15115
 item_type: Still Image

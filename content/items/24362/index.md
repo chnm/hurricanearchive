@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-10-8A.jpg
     thumb: /files/thumbnails/14fb29e86ec2da14fb29e86ec6b2.jpg
     url: /files/original/14fb29e86ec2da14fb29e86ec6b2.jpg
+    alt:
+      en: "Grainy, dark nighttime photo showing a building with lit windows in the background, a vehicle roof in the foreground, and indistinct shapes obscured by heavy film grain."
 geo:
 id: 24362
 item_type: Still Image

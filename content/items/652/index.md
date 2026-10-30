@@ -26,6 +26,8 @@ files:
     original_filename: 023_21A_aef34b906f.jpg
     thumb: /files/thumbnails/14fb2a6f392da314fb2a6f393596.jpg
     url: /files/original/14fb2a6f392da314fb2a6f393596.jpg
+    alt:
+      en: "An overturned car resting upside down next to a parked gold sedan on a city street, with a \"No Stopping Any Time\" sign tangled beneath it and a multi-story parking garage in the background."
 geo:
   address: ''
   lat: 29.9522945468714

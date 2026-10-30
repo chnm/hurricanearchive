@@ -23,6 +23,8 @@ files:
     original_filename: 1239954658_020f89b3c9.jpg
     thumb: /files/thumbnails/14fb29cb326c0f14fb29cb3275b9.jpg
     url: /files/original/14fb29cb326c0f14fb29cb3275b9.jpg
+    alt:
+      en: "Abandoned storefront with faded \"Pepsi\" and \"Safe Way Supermarket\" signage, boarded windows, graffiti-covered walls, and overgrown weeds breaking through the cracked pavement out front."
 geo:
   address: ''
   lat: 41.8848

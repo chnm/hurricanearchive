@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (65).JPG
     thumb: /files/thumbnails/14fb2a5d3f274714fb2a5d3f2ba6.jpg
     url: /files/original/14fb2a5d3f274714fb2a5d3f2ba6.jpg
+    alt:
+      en: "Interior of a cluttered storage space or shed with damaged wooden crates, an old refrigerator, window screens, a black chair, and a blue cooler piled amid debris."
 geo:
 id: 3217
 item_type: Still Image

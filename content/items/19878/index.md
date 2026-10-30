@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110gillslong.JPG
     thumb: /files/thumbnails/14fb2a0d04b8a514fb2a0d04bc8b.jpg
     url: /files/original/14fb2a0d04b8a514fb2a0d04bc8b.jpg
+    alt:
+      en: "Aerial view of a military-style campus with long barracks buildings, a parking area, several large event tents, and open fields bordered by trees under a hazy sky."
 geo:
 id: 19878
 item_type: Still Image

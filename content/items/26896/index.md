@@ -21,6 +21,8 @@ files:
     original_filename: pepbandetc_4ac6fb6dab.jpg
     thumb: /files/thumbnails/14fb29d661ad1d14fb29d661b13b.jpg
     url: /files/original/14fb29d661ad1d14fb29d661b13b.jpg
+    alt:
+      en: "Black-and-white photo of a school pep band playing flutes and other instruments in uniform, led by a conductor, with captions reading \"Band members dazzle the audience\" and \"CHS pep band performs at a basketball game.\""
 geo:
 id: 26896
 item_type: Still Image

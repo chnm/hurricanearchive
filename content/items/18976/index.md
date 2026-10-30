@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2138rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13e6050514fb2a13e608eb.jpg
     url: /files/original/14fb2a13e6050514fb2a13e608eb.jpg
+    alt:
+      en: "Aerial view from a helicopter showing two uniformed personnel with a backpack standing on a shingled rooftop, with part of the helicopter's riveted metal structure visible in the foreground."
 geo:
 id: 18976
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0038.JPG
     thumb: /files/thumbnails/14fb2a1bb0064c14fb2a1bb00a3a.jpg
     url: /files/original/14fb2a1bb0064c14fb2a1bb00a3a.jpg
+    alt:
+      en: "A line of military trucks and vehicles, including fuel tankers and cargo trucks, parked in a grassy field with a group of uniformed personnel gathered nearby, under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

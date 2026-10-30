@@ -23,6 +23,8 @@ files:
     original_filename: 162358599_7613d46fd5.jpg
     thumb: /files/thumbnails/14fb29d228fd6814fb29d229014c.jpg
     url: /files/original/14fb29d228fd6814fb29d229014c.jpg
+    alt:
+      en: "A white sign on a pole reads \"Boat and Trailer Parking Prohibited Dept. of Parks and Parkways,\" with an overturned boat resting under a bare tree in a grassy lakeside park."
 geo:
 id: 28602
 item_type: Still Image

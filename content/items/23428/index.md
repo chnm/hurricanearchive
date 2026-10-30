@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0099abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef7c333414fb29ef7c3719.jpg
     url: /files/original/14fb29ef7c333414fb29ef7c3719.jpg
+    alt:
+      en: "Cattle stand and wade in floodwater along a roadside ditch next to a grassy field, with white egrets nearby and a tree line visible under an overcast sky."
 geo:
 id: 23428
 item_type: Still Image

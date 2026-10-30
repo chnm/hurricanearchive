@@ -21,6 +21,8 @@ files:
     original_filename: 1SG Lawrence Marold.JPG
     thumb: /files/thumbnails/14fb2a1c719cf314fb2a1c71a0d9.jpg
     url: /files/original/14fb2a1c719cf314fb2a1c71a0d9.jpg
+    alt:
+      en: "A man in military camouflage fatigues with a backpack and web gear stands outside a building with a pebbled concrete wall; image timestamped 09.26.2005 14:27."
 geo:
   address: ''
   lat: 0.0

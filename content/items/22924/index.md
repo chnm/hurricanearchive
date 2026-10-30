@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024media.JPG
     thumb: /files/thumbnails/14fb29f2acfc7f14fb29f2ad0305.jpg
     url: /files/original/14fb29f2acfc7f14fb29f2ad0305.jpg
+    alt:
+      en: "A person wearing a headset operates a video camera from a high vantage point overlooking a city skyline, with a domed stadium, bridge, and high-rise buildings visible in the hazy distance."
 geo:
 id: 22924
 item_type: Still Image

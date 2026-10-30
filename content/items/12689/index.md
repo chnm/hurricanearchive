@@ -21,6 +21,8 @@ files:
     original_filename: 101-04_64de6f2613.jpg
     thumb: /files/thumbnails/14fb2a21c4ffaf14fb2a21c50399.jpg
     url: /files/original/14fb2a21c4ffaf14fb2a21c50399.jpg
+    alt:
+      en: "A man and woman stand together cutting a tiered white cake decorated with a gold \"50\" topper, celebrating their 50th wedding anniversary, with gold balloons in the background."
 geo:
 id: 12689
 item_type: Still Image

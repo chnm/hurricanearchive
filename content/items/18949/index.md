@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0312causeway.JPG
     thumb: /files/thumbnails/14fb2a140d1b9c14fb2a140d1fd5.jpg
     url: /files/original/14fb2a140d1b9c14fb2a140d1fd5.jpg
+    alt:
+      en: "Aerial view of a long twin-span causeway bridge stretching across a wide expanse of water, with scattered cars visible on the roadway and the far end fading into haze."
 geo:
 id: 18949
 item_type: Still Image

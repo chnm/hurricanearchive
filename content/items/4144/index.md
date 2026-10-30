@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0030.JPG
     thumb: /files/thumbnails/14fb2a577a33ef14fb2a577a3841.jpg
     url: /files/original/14fb2a577a33ef14fb2a577a3841.jpg
+    alt:
+      en: "Weathered wooden pilings frame a wide brown river, with a white and black boat docked near industrial structures and sparse trees along the distant shoreline under a clear sky."
 geo:
 id: 4144
 item_type: Still Image

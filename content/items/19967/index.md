@@ -21,6 +21,8 @@ files:
     original_filename: Picture 064cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0be51b7d14fb2a0be5239e.jpg
     url: /files/original/14fb2a0be51b7d14fb2a0be5239e.jpg
+    alt:
+      en: "Large domed stadium with a white and gold curved roof stands beside a tall glass office building, photographed against a clear blue sky with a streetlight in the foreground."
 geo:
 id: 19967
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 8196926-R1-044-20A.jpg
     thumb: /files/thumbnails/14fb29ced8ba4c14fb29ced8c1d5.jpg
     url: /files/original/14fb29ced8ba4c14fb29ced8c1d5.jpg
+    alt:
+      en: "Guardsmen in camouflage uniforms stand in line on a tarmac near military trucks and a helicopter, with cases of bottled water nearby, awaiting loading of supplies at Zephyr Field."
 geo:
 id: 29127
 item_type: Still Image

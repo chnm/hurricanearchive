@@ -21,6 +21,8 @@ files:
     original_filename: aerials140.jpg
     thumb: /files/thumbnails/14fb2a19eaa48a14fb2a19eaa86f.jpg
     url: /files/original/14fb2a19eaa48a14fb2a19eaa86f.jpg
+    alt:
+      en: "Aerial view of a storm-damaged waterfront property showing only the concrete foundation and wooden support posts of a destroyed structure, surrounded by debris, scattered trees, and a dock along the water's edge."
 geo:
 id: 14299
 item_type: Still Image

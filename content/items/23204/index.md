@@ -21,6 +21,8 @@ files:
     original_filename: P1010024delaware.JPG
     thumb: /files/thumbnails/14fb29f0cb3ddf14fb29f0cb41c4.jpg
     url: /files/original/14fb29f0cb3ddf14fb29f0cb41c4.jpg
+    alt:
+      en: "Circular porthole view of a military cargo plane marked \"Delaware Air Guard\" parked on a tarmac, with buildings visible in the background."
 geo:
 id: 23204
 item_type: Still Image

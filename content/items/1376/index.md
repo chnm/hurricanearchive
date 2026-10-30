@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28463.jpg
     thumb: /files/thumbnails/14fb2a6930f95714fb2a6930fd36.jpg
     url: /files/original/14fb2a6930f95714fb2a6930fd36.jpg
+    alt:
+      en: "Storm-damaged \"Palace Casino\" building with debris-strewn lot, a leaning utility pole, and scattered twisted metal and dead trees in the foreground under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 132cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e1c803814fb2a0e1c880b.jpg
     url: /files/original/14fb2a0e1c803814fb2a0e1c880b.jpg
+    alt:
+      en: "Two military men converse in front of a Black Hawk helicopter with its side doors open; one wears a green flight suit with a U.S. flag patch, the other camouflage fatigues labeled \"U.S. ARMY.\""
 geo:
 id: 19745
 item_type: Still Image

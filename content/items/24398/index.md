@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-19-18A.jpg
     thumb: /files/thumbnails/14fb29e842fe0d14fb29e84301f1.jpg
     url: /files/original/14fb29e842fe0d14fb29e84301f1.jpg
+    alt:
+      en: "Heavy rain obscures a parking lot of vehicles, with trees and buildings faintly visible in the background through the downpour."
 geo:
 id: 24398
 item_type: Still Image

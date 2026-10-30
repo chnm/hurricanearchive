@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0985.JPG
     thumb: /files/thumbnails/14fb2a57fa053c14fb2a57fa0931.jpg
     url: /files/original/14fb2a57fa053c14fb2a57fa0931.jpg
+    alt:
+      en: "Damaged black SUV parked beside a brick building with a collapsed wall, surrounded by scattered bricks and debris; a \"Franklin Covey\" sign is visible in the background."
 geo:
 id: 4085
 item_type: Still Image

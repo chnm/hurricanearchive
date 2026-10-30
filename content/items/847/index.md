@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28753.jpg
     thumb: /files/thumbnails/14fb2a6ca167d414fb2a6ca169b7.jpg
     url: /files/original/14fb2a6ca167d414fb2a6ca169b7.jpg
+    alt:
+      en: "A woman wearing a baseball cap and orange safety vest stands near a metal pen, with handwritten signs reading \"Exotic Supplies\" and \"Not to be removed\" posted above a gray cabinet."
 geo:
   address: ''
   lat: 0.0

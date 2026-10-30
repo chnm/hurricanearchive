@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efd646ae14fb29efd64a93.jpg
     url: /files/original/14fb29efd646ae14fb29efd64a93.jpg
+    alt:
+      en: "Severely damaged building with collapsed interior and debris, standing beneath a Hibernia Bank sign advertising a 24-hour ATM, set against a clear blue sky."
 geo:
 id: 23350
 item_type: Still Image

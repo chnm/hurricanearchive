@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28626.jpg
     thumb: /files/thumbnails/14fb2a6ae4c53514fb2a6ae4c91a.jpg
     url: /files/original/14fb2a6ae4c53514fb2a6ae4c91a.jpg
+    alt:
+      en: "Damaged roof of a house with missing shingles exposing wooden decking and rafters, a cracked upstairs window, cream-colored trim, and a brick chimney against a clear blue sky."
 geo:
   address: ''
   lat: 0.0

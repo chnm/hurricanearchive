@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1465superdome.JPG
     thumb: /files/thumbnails/14fb29e3a11e6814fb29e3a12350.jpg
     url: /files/original/14fb29e3a11e6814fb29e3a12350.jpg
+    alt:
+      en: "Flooded city street with submerged cars and two military Humvees driving through deep water, buildings and a \"New Orleans Shopping Centre\" sign visible in the background."
 geo:
 id: 24951
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 1280710850_9ece32e7b2.jpg
     thumb: /files/thumbnails/14fb29cc002de014fb29cc0031c2.jpg
     url: /files/original/14fb29cc002de014fb29cc0031c2.jpg
+    alt:
+      en: "A woman in a green shirt views a wall display of four framed photographs above a long black-framed panel titled \"Hurricane Katrina Timeline,\" listing dated entries with fleur-de-lis decorations."
 geo:
 id: 32137
 item_type: Still Image

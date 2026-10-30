@@ -21,6 +21,8 @@ files:
     original_filename: S4300244stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eca28e9f14fb29eca2928c.jpg
     url: /files/original/14fb29eca28e9f14fb29eca2928c.jpg
+    alt:
+      en: "An alligator lies in thick mud amid debris and bare branches, with a rusted pole, concrete curb, and scattered trash visible in the background."
 geo:
 id: 23879
 item_type: Still Image

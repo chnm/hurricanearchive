@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0347-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd111d4014fb29fd1138e6.jpg
     url: /files/original/14fb29fd111d4014fb29fd1138e6.jpg
+    alt:
+      en: "Aerial view of extensive flooding across a wooded landscape, with standing water surrounding clusters of trees and submerging low-lying fields into the hazy distance."
 geo:
 id: 21613
 item_type: Still Image

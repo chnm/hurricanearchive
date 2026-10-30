@@ -23,6 +23,8 @@ files:
     original_filename: 2298650298_924a9c398a.
     thumb: /files/thumbnails/14fb29c813d45214fb29c813d831.jpg
     url: /files/original/14fb29c813d45214fb29c813d831.jpg
+    alt:
+      en: "Two men stand behind a Werner trailer truck with its rear doors open, revealing a load of bicycles; one man films with a tripod-mounted camera while the other opens the door."
 geo:
 id: 34978
 item_type: Still Image

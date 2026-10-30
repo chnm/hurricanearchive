@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0742.JPG
     thumb: /files/thumbnails/14fb2a570e06ae14fb2a570e0a8a.jpg
     url: /files/original/14fb2a570e06ae14fb2a570e0a8a.jpg
+    alt:
+      en: "A tan sedan parked on a dirt road near a small white house, with storm-damaged trees, scattered debris, and a clear blue sky in the background."
 geo:
 id: 4530
 item_type: Still Image

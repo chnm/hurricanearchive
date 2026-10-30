@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28064.jpg
     thumb: /files/thumbnails/14fb2a678551ae14fb2a6785559e.jpg
     url: /files/original/14fb2a678551ae14fb2a6785559e.jpg
+    alt:
+      en: "A man wearing a cap and sunglasses holds a plastic bag containing a recovered Fisher Price toy castle, standing amid storm-wreckage and debris near Lakeview canal break."
 geo:
   address: ''
   lat: 0.0

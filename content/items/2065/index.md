@@ -26,6 +26,8 @@ files:
     original_filename: wilma_7aa418a64b.jpg
     thumb: /files/thumbnails/14fb2a6da0e22914fb2a6da0e602.jpg
     url: /files/original/14fb2a6da0e22914fb2a6da0e602.jpg
+    alt:
+      en: "A military truck carries uniformed marines through a deeply flooded street past a partially submerged Suzuki Motocicletas storefront, with a palm tree in the foreground; date stamp reads 2005 10 23."
 geo:
   address: ''
   lat: 0.0

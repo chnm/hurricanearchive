@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0007.JPG
     thumb: /files/thumbnails/14fb2a0a47578c14fb2a0a475b71.jpg
     url: /files/original/14fb2a0a47578c14fb2a0a475b71.jpg
+    alt:
+      en: "A uniformed service member wearing a helmet and headset, with an American flag patch on the shoulder, looks out the open door of an aircraft toward buildings, trucks, and a grassy field below."
 geo:
 id: 20263
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0056.JPG
     thumb: /files/thumbnails/14fb2a5606136414fb2a56061da2.jpg
     url: /files/original/14fb2a5606136414fb2a56061da2.jpg
+    alt:
+      en: "Debris-strewn cleared lot with scattered wood and rubble, damaged trees, and parked vehicles near partially standing structures with blue tarps in the background under a clear sky."
 geo:
 id: 4709
 item_type: Still Image

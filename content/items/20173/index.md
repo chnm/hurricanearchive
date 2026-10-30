@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of 1LT Campbell 27SEP2005.JPG
     thumb: /files/thumbnails/14fb2a0af2e91214fb2a0af2ecf8.jpg
     url: /files/original/14fb2a0af2e91214fb2a0af2ecf8.jpg
+    alt:
+      en: "A U.S. Army soldier wearing camouflage uniform, cap, and sunglasses stands before a backdrop of storm debris, bare trees, and a white columned building, dated 09.27.2005."
 geo:
 id: 20173
 item_type: Still Image

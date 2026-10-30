@@ -26,6 +26,8 @@ files:
     original_filename: 2380907352_bf8f208350.
     thumb: /files/thumbnails/14fb29ca30a9d014fb29ca30ada6.jpg
     url: /files/original/14fb29ca30a9d014fb29ca30ada6.jpg
+    alt:
+      en: "A long wooden pier extends over calm lake water toward a covered platform, with a patchy, discolored mold bloom visible spreading across the water's surface near the shoreline."
 geo:
   address: ''
   lat: 30.22437

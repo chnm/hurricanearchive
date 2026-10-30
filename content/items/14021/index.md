@@ -21,6 +21,8 @@ files:
     original_filename: 20050927001.JPG
     thumb: /files/thumbnails/14fb2a1c6e436414fb2a1c6e4749.jpg
     url: /files/original/14fb2a1c6e436414fb2a1c6e4749.jpg
+    alt:
+      en: "Military camouflage trucks and a crane vehicle parked on a lot in foggy, tree-lined surroundings, with a pile of cut pine branches and debris in the foreground and a person standing atop one vehicle."
 geo:
   address: ''
   lat: 0.0

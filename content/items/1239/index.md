@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28035.jpg
     thumb: /files/thumbnails/14fb2a6a2051e514fb2a6a20b87a.jpg
     url: /files/original/14fb2a6a2051e514fb2a6a20b87a.jpg
+    alt:
+      en: "A single dark boot lies abandoned on a gravel path beside a large concrete floodwall, with a canal and distant trees visible in the background."
 geo:
   address: ''
   lat: 0.0

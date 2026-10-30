@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eb28bd2014fb29eb28c12d.jpg
     url: /files/original/14fb29eb28bd2014fb29eb28c12d.jpg
+    alt:
+      en: "Mud-caked Ford F-150 pickup truck sits abandoned in thick, cracked mud, with its license plate \"VI14706\" visible; a wrecked Corvette and other debris are seen nearby in front of a brick building."
 geo:
 id: 24058
 item_type: Still Image

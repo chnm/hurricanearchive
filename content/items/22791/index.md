@@ -21,6 +21,8 @@ files:
     original_filename: S4300147Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3dbac8b14fb29f3dbc683.jpg
     url: /files/original/14fb29f3dbac8b14fb29f3dbc683.jpg
+    alt:
+      en: "Single-story building with a damaged asphalt shingle roof showing a torn section, cream-colored siding with a visible water line, covered porch with white columns, and a cracked, dried mud ground in front."
 geo:
 id: 22791
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8668.jpg
     thumb: /files/thumbnails/14fb2a65cb133614fb2a65cb1713.jpg
     url: /files/original/14fb2a65cb133614fb2a65cb1713.jpg
+    alt:
+      en: "Wreckage of a small white, red, and blue striped airplane lies crushed against the trunk of a large oak tree, with a highway overpass visible in the background."
 geo:
 id: 2514
 item_type: Still Image

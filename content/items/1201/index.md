@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28568.jpg
     thumb: /files/thumbnails/14fb2a6a6d4caa14fb2a6a6d5086.jpg
     url: /files/original/14fb2a6a6d4caa14fb2a6a6d5086.jpg
+    alt:
+      en: "A weathered house in the Lakeview District with an orange spray-painted \"X\" search marker and \"9-22\" date notation beside a door, where a person stands entering the doorway."
 geo:
   address: ''
   lat: 0.0

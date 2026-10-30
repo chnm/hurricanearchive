@@ -21,6 +21,8 @@ files:
     original_filename: 98.jpg
     thumb: /files/thumbnails/14fb2a60004b3714fb2a60004f1c.jpg
     url: /files/original/14fb2a60004b3714fb2a60004f1c.jpg
+    alt:
+      en: "A charcoal or pencil sketch of dense, angular crosshatched lines forming an abstract shape, with the word \"afriad\" handwritten in the bottom left corner."
 geo:
 id: 2806
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of Copy of DSC 0137.JPG
     thumb: /files/thumbnails/14fb2a0af1f70214fb2a0af1fadf.jpg
     url: /files/original/14fb2a0af1f70214fb2a0af1fadf.jpg
+    alt:
+      en: "Aerial view of a dense urban skyline with numerous high-rise buildings, including one labeled \"Tulane,\" under a hazy sky, with streets and smaller structures visible below."
 geo:
 id: 20174
 item_type: Still Image

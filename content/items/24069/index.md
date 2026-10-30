@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eb17181014fb29eb171bf5.jpg
     url: /files/original/14fb29eb17181014fb29eb171bf5.jpg
+    alt:
+      en: "Man in a red plaid shirt, tan cap, and sunglasses sits in a folding camp chair wearing a \"PRESS\" lanyard, with a building and utility pole visible in the dim background."
 geo:
 id: 24069
 item_type: Still Image

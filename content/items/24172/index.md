@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea1f21ad14fb29ea1f2592.jpg
     url: /files/original/14fb29ea1f21ad14fb29ea1f2592.jpg
+    alt:
+      en: "A damaged brick house with a metal roof and boarded windows sits behind overgrown grass and a hedge, with a storage trailer and a partially collapsed neighboring roof visible nearby."
 geo:
 id: 24172
 item_type: Still Image

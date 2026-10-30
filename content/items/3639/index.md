@@ -24,6 +24,8 @@ files:
     original_filename: P1010074.JPG
     thumb: /files/thumbnails/14fb2a5a85beea14fb2a5a85c2ce.jpg
     url: /files/original/14fb2a5a85beea14fb2a5a85c2ce.jpg
+    alt:
+      en: "Mud-covered glassware, mugs, vases, and ceramic figurines—including a carousel horse plaque and a mug reading \"NOBODY NEEDS MY JOB\"—arranged on cracked pavement amid dried leaves."
 geo:
 id: 3639
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7419.JPG
     thumb: /files/thumbnails/14fb29ccad899514fb29ccad8d7b.jpg
     url: /files/original/14fb29ccad899514fb29ccad8d7b.jpg
+    alt:
+      en: "A wooden house with a brick chimney stands amid storm-damaged trees, with fallen branches and an uprooted tree trunk scattered across the foreground."
 geo:
 id: 30722
 item_type: Still Image

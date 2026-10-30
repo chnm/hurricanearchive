@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27848.jpg
     thumb: /files/thumbnails/14fb2a6a14904514fb2a6a14942b.jpg
     url: /files/original/14fb2a6a14904514fb2a6a14942b.jpg
+    alt:
+      en: "Circular emblem mounted on a brick wall reading \"Houma Police Department,\" featuring a profile illustration of a Native American figure wearing a feathered headdress at its center."
 geo:
   address: ''
   lat: 0.0

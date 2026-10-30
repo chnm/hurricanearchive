@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0254-9-25.JPG
     thumb: /files/thumbnails/14fb29fed35ab814fb29fed35e8f.jpg
     url: /files/original/14fb29fed35ab814fb29fed35e8f.jpg
+    alt:
+      en: "Aerial view of flooded homes and houses surrounded by brown floodwater, with rooftops partially visible above the waterline amid trees and scattered debris."
 geo:
 id: 21428
 item_type: Still Image

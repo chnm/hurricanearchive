@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0633.JPG
     thumb: /files/thumbnails/14fb29d004382a14fb29d0043c0e.jpg
     url: /files/original/14fb29d004382a14fb29d0043c0e.jpg
+    alt:
+      en: "Rear view of an American Red Cross Disaster Relief truck with Pennsylvania plate \"EV-2551,\" photographed through a car windshield on a residential street lined with utility poles."
 geo:
 id: 29087
 item_type: Still Image

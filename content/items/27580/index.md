@@ -21,6 +21,8 @@ files:
     original_filename: _MG_7163_6869693aa1.jpg
     thumb: /files/thumbnails/14fb29d345ddf514fb29d345e1e0.jpg
     url: /files/original/14fb29d345ddf514fb29d345e1e0.jpg
+    alt:
+      en: "Group of children pose for a birthday party photo behind a table set with cups, snacks, and balloons, with some blowing on party favors, inside a pavilion with a tree backdrop."
 geo:
   address: ''
   lat: 29.87876

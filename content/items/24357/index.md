@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-05-3A.jpg
     thumb: /files/thumbnails/14fb29e87ae80e14fb29e87afaad.jpg
     url: /files/original/14fb29e87ae80e14fb29e87afaad.jpg
+    alt:
+      en: "Floodwater surrounds a white house, submerging its lower level, with floating debris including doors, a tire, a green mat, and a wooden crate holding sandbags or cushions."
 geo:
 id: 24357
 item_type: Still Image

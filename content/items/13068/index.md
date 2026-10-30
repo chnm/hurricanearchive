@@ -21,6 +21,8 @@ files:
     original_filename: begin windy.jpg
     thumb: /files/thumbnails/14fb2a2095663f14fb2a209569ed.jpg
     url: /files/original/14fb2a2095663f14fb2a209569ed.jpg
+    alt:
+      en: "Rooftop view of flat-roofed buildings and utility poles shrouded in heavy fog or rain, with a metal railing in the foreground and low visibility across the skyline."
 geo:
 id: 13068
 item_type: Still Image

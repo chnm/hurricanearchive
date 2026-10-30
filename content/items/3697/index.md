@@ -24,6 +24,8 @@ files:
     original_filename: P1010140.JPG
     thumb: /files/thumbnails/14fb2a5a177c8b14fb2a5a178071.jpg
     url: /files/original/14fb2a5a177c8b14fb2a5a178071.jpg
+    alt:
+      en: "A \"Have You Seen Me?\" flyer with a photo of a small brown and white dog on a bed is stapled to a wooden utility pole, with a house and chain-link fence in the background."
 geo:
 id: 3697
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Uptown (6).JPG
     thumb: /files/thumbnails/14fb2a5db1fd5914fb2a5db2013c.jpg
     url: /files/original/14fb2a5db1fd5914fb2a5db2013c.jpg
+    alt:
+      en: "Interior of a damaged room viewed through a weathered doorway, with collapsed ceiling debris and large sheets of warped material covering a bed, a curtained window visible in the background."
 geo:
 id: 3154
 item_type: Still Image

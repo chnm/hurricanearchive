@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9318.jpg
     thumb: /files/thumbnails/14fb2a6480e99514fb2a6481080e.jpg
     url: /files/original/14fb2a6480e99514fb2a6481080e.jpg
+    alt:
+      en: "Cut tree logs stacked in front of a damaged stucco house, with a handwritten cardboard sign reading \"Architecture Students Gut. 813 4346\" propped against the wood."
 geo:
 id: 2589
 item_type: Still Image

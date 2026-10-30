@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2003superdome.JPG
     thumb: /files/thumbnails/14fb29df88426e14fb29df884654.jpg
     url: /files/original/14fb29df88426e14fb29df884654.jpg
+    alt:
+      en: "Two men in camouflage pants and tan t-shirts walk briskly across a tarmac near the open rear ramp of a large military helicopter, with a crew member in a flight helmet standing nearby."
 geo:
 id: 25276
 item_type: Still Image

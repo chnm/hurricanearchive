@@ -21,6 +21,8 @@ files:
     original_filename: PICT0100Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d195d914fb29f4d199b6.jpg
     url: /files/original/14fb29f4d195d914fb29f4d199b6.jpg
+    alt:
+      en: "Brick carport with a damaged shingled roof, a yellow forklift and trash bins beneath it, overgrown yard debris, and a neighborhood street with houses in the background; dated 09.15.2005."
 geo:
 id: 22665
 item_type: Still Image

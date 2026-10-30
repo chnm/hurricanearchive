@@ -26,6 +26,8 @@ files:
     original_filename: DSCF2695_58c6a23259.JPG
     thumb: /files/thumbnails/14fb2a6dbf018314fb2a6dbf0569.jpg
     url: /files/original/14fb2a6dbf018314fb2a6dbf0569.jpg
+    alt:
+      en: "Narrow alley between two houses—one pale green, one cream and purple—littered with storm debris, a downed tree visible at the far end, and a historical marker reading \"Manetta Residence\" on the left wall."
 geo:
   address: ''
   lat: 29.951885526084002

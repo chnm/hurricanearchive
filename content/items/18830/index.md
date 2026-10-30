@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053westend.JPG
     thumb: /files/thumbnails/14fb2a1504d24b14fb2a1504d638.jpg
     url: /files/original/14fb2a1504d24b14fb2a1504d638.jpg
+    alt:
+      en: "Aerial view of a marina with numerous sailboats and motorboats docked along piers, several vessels partially sunk or listing, with covered boat slips and a parking area in the background."
 geo:
 id: 18830
 item_type: Still Image

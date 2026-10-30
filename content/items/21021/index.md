@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0170-9-25.JPG
     thumb: /files/thumbnails/14fb2a01086cf514fb2a010870d9.jpg
     url: /files/original/14fb2a01086cf514fb2a010870d9.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with a house's white roof partially damaged and surrounded by rising floodwater, trees, and scattered debris."
 geo:
 id: 21021
 item_type: Still Image

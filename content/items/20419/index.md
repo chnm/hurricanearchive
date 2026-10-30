@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012M.JPG
     thumb: /files/thumbnails/14fb2a07acf89c14fb2a07ad057a.jpg
     url: /files/original/14fb2a07acf89c14fb2a07ad057a.jpg
+    alt:
+      en: "Two servicemen in a medical office, one in a tan t-shirt with arms crossed and one in camouflage fatigues putting on gloves, beside a table with a sharps container, gauze, and medical supplies."
 geo:
 id: 20419
 item_type: Still Image

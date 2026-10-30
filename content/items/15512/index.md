@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5930_d16fc2a8e3.jpg
     thumb: /files/thumbnails/14fb2a16112a2414fb2a16112e0a.jpg
     url: /files/original/14fb2a16112a2414fb2a16112e0a.jpg
+    alt:
+      en: "A typed letter titled \"Country Christmas Eve,\" describing holiday traditions, signed \"Cecile Robin\" with a handwritten note and \"1950\" added below."
 geo:
 id: 15512
 item_type: Still Image

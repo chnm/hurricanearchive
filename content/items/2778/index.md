@@ -21,6 +21,8 @@ files:
     original_filename: 72.jpg
     thumb: /files/thumbnails/14fb2a603869d314fb2a60386db9.jpg
     url: /files/original/14fb2a603869d314fb2a60386db9.jpg
+    alt:
+      en: "Child's drawing of a hurricane with a swirling funnel cloud, rain clouds, and wavy wind lines over land and water, titled \"Katrina Kid's Art\" and signed \"La'Trell, 7.\""
 geo:
 id: 2778
 item_type: Still Image

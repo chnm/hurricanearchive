@@ -20,6 +20,8 @@ files:
     original_filename: Elephants at Audobon Zoo.JPG
     thumb: /files/thumbnails/14fb29d5a7640b14fb29d5a767f0.jpg
     url: /files/original/14fb29d5a7640b14fb29d5a767f0.jpg
+    alt:
+      en: "Two elephants stand side by side near a brick building with arched windows, with a large tire in the foreground."
 geo:
 id: 27247
 item_type: Still Image

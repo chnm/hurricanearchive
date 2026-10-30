@@ -21,6 +21,8 @@ files:
     original_filename: end look east.jpg
     thumb: /files/thumbnails/14fb2a2062961514fb2a206299fb.jpg
     url: /files/original/14fb2a2062961514fb2a206299fb.jpg
+    alt:
+      en: "Aerial view of storm-damaged flat rooftops with torn membrane and exposed insulation, overlooking a lot strewn with debris and displaced trucks; background signage reads \"Hancock Ban[k]\" and \"America's Home for Car Service.\""
 geo:
 id: 13102
 item_type: Still Image

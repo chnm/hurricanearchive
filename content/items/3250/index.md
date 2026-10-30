@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (15).JPG
     thumb: /files/thumbnails/14fb2a5d1097da14fb2a5d109bb6.jpg
     url: /files/original/14fb2a5d1097da14fb2a5d109bb6.jpg
+    alt:
+      en: "A truck waits behind a striped barrier at a closed drawbridge, with a pigeon perched nearby and storm-damaged rooftops visible below the span."
 geo:
 id: 3250
 item_type: Still Image

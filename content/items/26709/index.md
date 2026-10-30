@@ -24,6 +24,8 @@ files:
     original_filename: JB 1 grandparents_91003afbf7.2.jpg
     thumb: /files/thumbnails/14fb29d831cff614fb29d831d77e.jpg
     url: /files/original/14fb29d831cff614fb29d831d77e.jpg
+    alt:
+      en: "Vintage photograph of three people standing in front of a house with a corrugated metal roof overhang, the man wearing a sweatshirt reading \"Service Laundry\" and the woman in a varsity-style jacket with an initial patch."
 geo:
   address: ''
   lat: 29.91685

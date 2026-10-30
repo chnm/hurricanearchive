@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28735.jpg
     thumb: /files/thumbnails/14fb2a6b87cc1f14fb2a6b87d1cc.jpg
     url: /files/original/14fb2a6b87cc1f14fb2a6b87d1cc.jpg
+    alt:
+      en: "Two women in navy scrub uniforms stand reviewing paperwork inside a makeshift animal rescue shelter, surrounded by medical supplies, storage carts, and cages under a metal roof."
 geo:
   address: ''
   lat: 0.0

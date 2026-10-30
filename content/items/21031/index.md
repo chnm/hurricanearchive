@@ -21,6 +21,8 @@ files:
     original_filename: DSC00685.JPG
     thumb: /files/thumbnails/14fb2a0103838a14fb2a01038767.jpg
     url: /files/original/14fb2a0103838a14fb2a01038767.jpg
+    alt:
+      en: "A military medevac helicopter marked \"1745\" with a red cross insignia sits parked on a concrete pad, surrounded by grass and trees; a date stamp reads \"SEP 16 2004.\""
 geo:
 id: 21031
 item_type: Still Image

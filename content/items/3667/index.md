@@ -24,6 +24,8 @@ files:
     original_filename: P1010104.JPG
     thumb: /files/thumbnails/14fb2a5a36e1ea14fb2a5a36e5cf.jpg
     url: /files/original/14fb2a5a36e1ea14fb2a5a36e5cf.jpg
+    alt:
+      en: "A fire-damaged apartment building with a collapsed roof and exposed chimneys stands behind a stagnant, murky swimming pool reflecting the structure's charred upper floors."
 geo:
 id: 3667
 item_type: Still Image

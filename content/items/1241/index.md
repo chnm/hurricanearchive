@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28174.jpg
     thumb: /files/thumbnails/14fb2a6a1b763814fb2a6a1ba3be.jpg
     url: /files/original/14fb2a6a1b763814fb2a6a1ba3be.jpg
+    alt:
+      en: "A woman holding a broom points toward a storm-damaged house, with debris scattered across the yard and street, an American flag hanging from the porch, and red-and-white signage on the siding."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1062.JPG
     thumb: /files/thumbnails/14fb2a57a6fd5d14fb2a57a70546.jpg
     url: /files/original/14fb2a57a6fd5d14fb2a57a70546.jpg
+    alt:
+      en: "A man in a light checked shirt and gray pants faces a group of U.S. Coast Guard personnel wearing navy uniforms and caps marked \"U.S. COAST GUARD,\" gathered near a tent and tree outdoors."
 geo:
 id: 4114
 item_type: Still Image

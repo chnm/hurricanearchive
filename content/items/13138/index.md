@@ -21,6 +21,8 @@ files:
     original_filename: truck upper level.jpg
     thumb: /files/thumbnails/14fb2a202596ff14fb2a20259ae6.jpg
     url: /files/original/14fb2a202596ff14fb2a20259ae6.jpg
+    alt:
+      en: "Sideways photo of a hazy roadway with yellow lane markings, debris scattered on the pavement, and a dark pickup truck parked ahead near street lamps."
 geo:
 id: 13138
 item_type: Still Image

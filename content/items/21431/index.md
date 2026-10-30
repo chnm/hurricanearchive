@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0255-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fed1862114fb29fed189f9.jpg
     url: /files/original/14fb29fed1862114fb29fed189f9.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters covering a roadway and surrounding neighborhood, with a railroad track, scattered trees, partially submerged houses, and a small boat visible on the water."
 geo:
 id: 21431
 item_type: Still Image

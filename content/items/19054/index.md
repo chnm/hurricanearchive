@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0102.JPG
     thumb: /files/thumbnails/14fb2a137c9c0c14fb2a137c9ff1.jpg
     url: /files/original/14fb2a137c9c0c14fb2a137c9ff1.jpg
+    alt:
+      en: "Two military helicopters fly in silhouette against a hazy sky above a sprawling cityscape, with a flat urban landscape visible faintly below through the smog."
 geo:
 id: 19054
 item_type: Still Image

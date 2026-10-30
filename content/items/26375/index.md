@@ -21,6 +21,8 @@ files:
     original_filename: LionelPowell-5837_9171c231ab.jpg
     thumb: /files/thumbnails/14fb29d91ad7ed14fb29d91adbd2.jpg
     url: /files/original/14fb29d91ad7ed14fb29d91adbd2.jpg
+    alt:
+      en: "Wedding portrait of a bride in a white lace gown and headpiece and a groom in a white suit holding hands, the photograph significantly damaged with water stains and emulsion loss."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

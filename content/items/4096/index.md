@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1017.JPG
     thumb: /files/thumbnails/14fb2a57d0e07014fb2a57d0e451.jpg
     url: /files/original/14fb2a57d0e07014fb2a57d0e451.jpg
+    alt:
+      en: "A U.S. Coast Guard inflatable rescue boat docked alongside a pier, with Coast Guard personnel helping people and a dog aboard, while a travel trailer and pickup truck are parked on the dock above."
 geo:
 id: 4096
 item_type: Still Image

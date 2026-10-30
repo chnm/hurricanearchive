@@ -26,6 +26,8 @@ files:
     original_filename: DSC00015a_1f71a191dc.JPG
     thumb: /files/thumbnails/14fb2a6fabb55014fb2a6fabb9a9.jpg
     url: /files/original/14fb2a6fabb55014fb2a6fabb9a9.jpg
+    alt:
+      en: "White house facade with a spray-painted search-and-rescue X marking reading \"9-12, 11:46,\" beside a barred front door and address plaque \"4545 Canal Street,\" with three potted plants on the porch."
 geo:
   address: ''
   lat: 29.9760520479806

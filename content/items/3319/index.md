@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (78).jpg
     thumb: /files/thumbnails/14fb2a5c6e3e3e14fb2a5c6e4224.jpg
     url: /files/original/14fb2a5c6e3e3e14fb2a5c6e4224.jpg
+    alt:
+      en: "Thousands of dead fish cover a flooded street and curb after storm surge receded, with a storm-damaged house, debris, and downed power lines in the background."
 geo:
 id: 3319
 item_type: Still Image

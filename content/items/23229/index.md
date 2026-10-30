@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 21.jpg
     thumb: /files/thumbnails/14fb29f096d41b14fb29f096d800.jpg
     url: /files/original/14fb29f096d41b14fb29f096d800.jpg
+    alt:
+      en: "Satellite image of a large hurricane with a well-defined eye over the Gulf of Mexico, approaching the Gulf Coast near New Orleans and Mobile, timestamped 29 Aug 2005 00:34 GMT."
 geo:
 id: 23229
 item_type: Still Image

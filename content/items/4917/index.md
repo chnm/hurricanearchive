@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0236.JPG
     thumb: /files/thumbnails/14fb2a54f682ac14fb2a54f68691.jpg
     url: /files/original/14fb2a54f682ac14fb2a54f68691.jpg
+    alt:
+      en: "Debris-strewn lot with a damaged mobile home or trailer toppled among broken trees, scattered wreckage, and a small appliance lying in the foreground near a road."
 geo:
 id: 4917
 item_type: Still Image

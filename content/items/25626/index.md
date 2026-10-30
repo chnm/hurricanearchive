@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.037.JPG
     thumb: /files/thumbnails/14fb29dcfbdd4814fb29dcfbe132.jpg
     url: /files/original/14fb29dcfbdd4814fb29dcfbe132.jpg
+    alt:
+      en: "Hand-painted cardboard sign reading \"Gifted Massage: Provided for Residents and Volunteers,\" decorated with a green grassy field and white daisies along the bottom edge."
 geo:
 id: 25626
 item_type: Still Image

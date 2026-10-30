@@ -26,6 +26,8 @@ files:
     original_filename: DSC03098_a469e99d1a.JPG
     thumb: /files/thumbnails/14fb2a6db3752414fb2a6db3790a.jpg
     url: /files/original/14fb2a6db3752414fb2a6db3790a.jpg
+    alt:
+      en: "A young girl wearing amber-tinted swim goggles and a tie-dye shirt stands by a mailbox with her mouth open, surrounded by floodwater covering a residential street, with a brick house and trees in the background."
 geo:
   address: ''
   lat: 30.290857455046197

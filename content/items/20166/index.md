@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of 09140008.JPG
     thumb: /files/thumbnails/14fb2a0afa668d14fb2a0afa6a70.jpg
     url: /files/original/14fb2a0afa668d14fb2a0afa6a70.jpg
+    alt:
+      en: "Military convoy vehicle driving down a debris-strewn residential street, viewed from inside another military vehicle, with damaged houses, parked cars, and overgrown lots lining the road."
 geo:
 id: 20166
 item_type: Still Image

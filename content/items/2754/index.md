@@ -21,6 +21,8 @@ files:
     original_filename: 5.jpg
     thumb: /files/thumbnails/14fb2a6052170514fb2a60521af0.jpg
     url: /files/original/14fb2a6052170514fb2a60521af0.jpg
+    alt:
+      en: "Child's marker drawing of a tall house with windows and stick-figure people beneath a dark storm sky filled with blue clouds and falling rain; text reads \"4.3a,\" \"MyJanek,\" and \"Age.\""
 geo:
 id: 2754
 item_type: Still Image

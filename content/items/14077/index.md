@@ -21,6 +21,8 @@ files:
     original_filename: 20051005002.JPG
     thumb: /files/thumbnails/14fb2a1be4936a14fb2a1be49971.jpg
     url: /files/original/14fb2a1be4936a14fb2a1be49971.jpg
+    alt:
+      en: "Smiling bald man in U.S. Army camouflage uniform with name tape \"MATEJOWSKY,\" standing indoors near a trash bin and a flip chart covered in handwritten notes."
 geo:
   address: ''
   lat: 0.0

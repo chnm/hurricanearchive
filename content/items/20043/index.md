@@ -21,6 +21,8 @@ files:
     original_filename: Picture 140cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b94f6f114fb2a0b94fadd.jpg
     url: /files/original/14fb2a0b94f6f114fb2a0b94fadd.jpg
+    alt:
+      en: "Cracked, dried mud covers a lot in the foreground, with a chain-link fence, industrial buildings, boats, and a metal truss structure visible under a clear blue sky in the background."
 geo:
 id: 20043
 item_type: Still Image

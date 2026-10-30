@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0426.JPG
     thumb: /files/thumbnails/14fb2a540eb0a914fb2a540eb48f.jpg
     url: /files/original/14fb2a540eb0a914fb2a540eb48f.jpg
+    alt:
+      en: "A large splintered tree trunk lies snapped across the ground amid scattered debris, with damaged woodland and a cleared path visible in the background."
 geo:
 id: 5081
 item_type: Still Image

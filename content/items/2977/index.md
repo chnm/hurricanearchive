@@ -21,6 +21,8 @@ files:
     original_filename: MVC-032S.JPG
     thumb: /files/thumbnails/14fb2a5f394b2c14fb2a5f3953d6.jpg
     url: /files/original/14fb2a5f394b2c14fb2a5f3953d6.jpg
+    alt:
+      en: "A vintage silver P-51 Mustang fighter plane with a red tail and nose, marked \"24\" and \"A,\" parked on a paved lot under a clear blue sky."
 geo:
 id: 2977
 item_type: Still Image

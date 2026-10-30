@@ -21,6 +21,8 @@ files:
     original_filename: dawn street look south2.jpg
     thumb: /files/thumbnails/14fb2a2087eb5114fb2a2087ef27.jpg
     url: /files/original/14fb2a2087eb5114fb2a2087ef27.jpg
+    alt:
+      en: "Heavy wind-driven rain obscures a street intersection lined with a historic two-story building, its windows boarded, as trees bend sharply in the gusts and a stop sign stands near an empty parking lot."
 geo:
 id: 13084
 item_type: Still Image

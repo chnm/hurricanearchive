@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 026cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e9bb57f14fb2a0e9bb965.jpg
     url: /files/original/14fb2a0e9bb57f14fb2a0e9bb965.jpg
+    alt:
+      en: "Blurry indoor scene with a group of people standing near piles of luggage, duffel bags, and storage containers, with an exit sign visible above a doorway in the background."
 geo:
 id: 19639
 item_type: Still Image

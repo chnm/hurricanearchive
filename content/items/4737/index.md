@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0084.JPG
     thumb: /files/thumbnails/14fb2a55d0560914fb2a55d059ed.jpg
     url: /files/original/14fb2a55d0560914fb2a55d059ed.jpg
+    alt:
+      en: "A yellow tape measure extends vertically from a wooden beam, with a rusted metal object and bent bracket at its base, set against a muddy ground with scattered dry grass."
 geo:
 id: 4737
 item_type: Still Image

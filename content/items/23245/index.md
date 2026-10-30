@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 36.jpg
     thumb: /files/thumbnails/14fb29f059d15814fb29f059d53d.jpg
     url: /files/original/14fb29f059d15814fb29f059d53d.jpg
+    alt:
+      en: "Satellite weather map of the Gulf of Mexico, Caribbean, and southeastern U.S. showing a large storm system near Florida, dated 29 Aug 2005 11:00 GMT, credited to The Weather Channel/weather.com."
 geo:
 id: 23245
 item_type: Still Image

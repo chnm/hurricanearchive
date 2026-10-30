@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-01-00Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e57c2b8f14fb29e57c2f74.jpg
     url: /files/original/14fb29e57c2b8f14fb29e57c2f74.jpg
+    alt:
+      en: "Elevated highway overpass crowded with people standing and walking along the roadway, with stalled traffic below and palm fronds in the foreground under an overcast sky."
 geo:
 id: 24699
 item_type: Still Image

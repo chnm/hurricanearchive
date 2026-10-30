@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0023_40ef5ea6fb.jpg
     thumb: /files/thumbnails/14fb29c253559514fb29c253585a.jpg
     url: /files/original/14fb29c253559514fb29c253585a.jpg
+    alt:
+      en: "Black-and-white photo of a brick-paved alley in the Garden District, lined with overhanging trees and an ivy-covered wall featuring a small fountain or niche, with a balustraded porch visible in the background."
 geo:
 id: 43094
 item_type: Still Image

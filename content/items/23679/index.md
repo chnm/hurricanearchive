@@ -21,6 +21,8 @@ files:
     original_filename: P1010120empireS&R.JPG
     thumb: /files/thumbnails/14fb29edecbf6f14fb29edecc356.jpg
     url: /files/original/14fb29edecbf6f14fb29edecc356.jpg
+    alt:
+      en: "Flooded road and fields with scattered debris in the foreground, power lines overhead, and a damaged house visible in the distance surrounded by trees and standing water."
 geo:
 id: 23679
 item_type: Still Image

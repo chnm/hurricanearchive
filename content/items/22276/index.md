@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1087Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f834b30614fb29f834b6e0.jpg
     url: /files/original/14fb29f834b30614fb29f834b6e0.jpg
+    alt:
+      en: "Dim hallway scene with a person in camouflage standing on a raised surface working on the ceiling, while several onlookers in military fatigues and casual clothing watch from below."
 geo:
 id: 22276
 item_type: Still Image

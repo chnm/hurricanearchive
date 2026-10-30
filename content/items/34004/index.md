@@ -20,6 +20,8 @@ files:
     original_filename: grandparent_c068d1dc6d.JPG
     thumb: /files/thumbnails/14fb29caa34f0e14fb29caa351ad.jpg
     url: /files/original/14fb29caa34f0e14fb29caa351ad.jpg
+    alt:
+      en: "Group of twelve adults stands outdoors on grass in front of large oak trees, smiling for a photo; Melvin Ducre stands at center with Dianne Ducre beside him, surrounded by church volunteers."
 geo:
   address: ''
   lat: 30.31547

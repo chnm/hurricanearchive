@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0123-9-25.JPG
     thumb: /files/thumbnails/14fb29e6447b8d14fb29e6447fb2.jpg
     url: /files/original/14fb29e6447b8d14fb29e6447fb2.jpg
+    alt:
+      en: "Aerial view of a flooded landscape with submerged roads, scattered bare trees, a utility pole with power lines, and a street sign partially visible above the water."
 geo:
 id: 24596
 item_type: Still Image

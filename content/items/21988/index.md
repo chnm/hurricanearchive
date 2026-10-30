@@ -21,6 +21,8 @@ files:
     original_filename: Picture 319-J2.jpg
     thumb: /files/thumbnails/14fb29fa705ea514fb29fa70628c.jpg
     url: /files/original/14fb29fa705ea514fb29fa70628c.jpg
+    alt:
+      en: "Interior view of a military vehicle, with a hand resting on the dashboard near a watch and a camouflage cap, the windshield showing a street scene outside."
 geo:
 id: 21988
 item_type: Still Image

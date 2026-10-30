@@ -21,6 +21,8 @@ files:
     original_filename: EvaDow-4-3_6d288b53e4.jpg
     thumb: /files/thumbnails/14fb29dd67f18414fb29dd67f56a.jpg
     url: /files/original/14fb29dd67f18414fb29dd67f56a.jpg
+    alt:
+      en: "Black-and-white 1969 snapshot of a man and woman standing together on a lawn in front of a brick ranch-style house, with a car parked in the driveway behind them; \"DEC 69\" printed along the bottom edge."
 geo:
 id: 25504
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 034cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c4934e014fb2a0c4938bd.jpg
     url: /files/original/14fb2a0c4934e014fb2a0c4938bd.jpg
+    alt:
+      en: "Debris-littered street lined with large oak trees and a \"Carondelet\" street sign, with a military vehicle parked on the grassy median and scattered trash along the curb."
 geo:
 id: 19938
 item_type: Still Image

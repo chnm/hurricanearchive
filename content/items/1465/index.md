@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28183.jpg
     thumb: /files/thumbnails/14fb2a688df86d14fb2a688dfc9d.jpg
     url: /files/original/14fb2a688df86d14fb2a688dfc9d.jpg
+    alt:
+      en: "A man stands on a black-and-white checkered floor, the only remnant of a foundation slab, with a silver car parked nearby amid storm-damaged trees and debris."
 geo:
   address: ''
   lat: 0.0

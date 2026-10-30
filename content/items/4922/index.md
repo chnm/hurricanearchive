@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0241.JPG
     thumb: /files/thumbnails/14fb2a54f3d74514fb2a54f3db33.jpg
     url: /files/original/14fb2a54f3d74514fb2a54f3db33.jpg
+    alt:
+      en: "Cinder blocks and broken red bricks lie scattered on the ground, with small green plants sprouting through the hollow openings of one block, surrounded by dried leaves and debris."
 geo:
 id: 4922
 item_type: Still Image

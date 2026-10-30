@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58c99be514fb2a58c99fc2.jpg
     url: /files/original/14fb2a58c99be514fb2a58c99fc2.jpg
+    alt:
+      en: "President Bush, in a checked shirt, shakes hands with a uniformed Coast Guardsman while a crowd of personnel looks on in a parking lot; a timestamp reads \"3:50 PM\" in the corner."
 geo:
 id: 3949
 item_type: Still Image

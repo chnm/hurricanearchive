@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (68).jpg
     thumb: /files/thumbnails/14fb2a5c7a038614fb2a5c7a076b.jpg
     url: /files/original/14fb2a5c7a038614fb2a5c7a076b.jpg
+    alt:
+      en: "A large barge marked \"4727\" rests beached beside a flooded canal, surrounded by storm-wrecked homes, scattered debris, a submerged car, and a leaning utility pole reflected in the still water."
 geo:
 id: 3308
 item_type: Still Image

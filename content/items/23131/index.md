@@ -21,6 +21,8 @@ files:
     original_filename: 09110008delaware.JPG
     thumb: /files/thumbnails/14fb29f171d4fa14fb29f171d8e0.jpg
     url: /files/original/14fb29f171d4fa14fb29f171d8e0.jpg
+    alt:
+      en: "Interior of a military cargo aircraft with three men in camouflage fatigues seated along the fuselage, surrounded by red cargo netting, straps, and a nearby pallet of bottled water."
 geo:
 id: 23131
 item_type: Still Image

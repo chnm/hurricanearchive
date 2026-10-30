@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0056media.JPG
     thumb: /files/thumbnails/14fb29f28e953914fb29f28e9895.jpg
     url: /files/original/14fb29f28e953914fb29f28e9895.jpg
+    alt:
+      en: "Two people wearing aviation headsets with microphones sit inside a helicopter cabin, smiling at the camera, with windblown hair and visible overhead wiring and equipment marked \"H-47.\""
 geo:
 id: 22945
 item_type: Still Image

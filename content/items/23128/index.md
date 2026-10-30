@@ -21,6 +21,8 @@ files:
     original_filename: 09110005delaware.JPG
     thumb: /files/thumbnails/14fb29f173d49414fb29f173d884.jpg
     url: /files/original/14fb29f173d49414fb29f173d884.jpg
+    alt:
+      en: "Close-up of a military C-130 aircraft's propeller engines and landing gear, with \"Delaware Air Guard\" painted on the fuselage, parked on an airfield tarmac."
 geo:
 id: 23128
 item_type: Still Image

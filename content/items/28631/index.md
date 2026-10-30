@@ -23,6 +23,8 @@ files:
     original_filename: 158885491_e535543a86.jpg
     thumb: /files/thumbnails/14fb29d202baad14fb29d202c369.jpg
     url: /files/original/14fb29d202baad14fb29d202c369.jpg
+    alt:
+      en: "Rubble of bricks, debris, and fallen trees cover an overgrown lot, with \"1911 Deslonde St. Keasley's\" written in marker on the concrete sidewalk in the foreground."
 geo:
 id: 28631
 item_type: Still Image

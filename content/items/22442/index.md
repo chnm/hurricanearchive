@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1283Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f670256014fb29f6702949.jpg
     url: /files/original/14fb29f670256014fb29f6702949.jpg
+    alt:
+      en: "Damaged roofline of a white house with a broken gutter and exposed wood, where a metal antenna mast and wiring lean against the structure under an overcast sky."
 geo:
 id: 22442
 item_type: Still Image

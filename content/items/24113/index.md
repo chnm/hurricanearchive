@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea8abaf214fb29ea8ac8a2.jpg
     url: /files/original/14fb29ea8abaf214fb29ea8ac8a2.jpg
+    alt:
+      en: "Man in camouflage cap, sunglasses, and dark t-shirt sits beside a camera and gear, with a green vehicle panel marked \"2\" behind him and an out-of-focus hand in the foreground."
 geo:
 id: 24113
 item_type: Still Image

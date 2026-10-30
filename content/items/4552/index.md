@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0754.JPG
     thumb: /files/thumbnails/14fb2a570613ff14fb2a570617e4.jpg
     url: /files/original/14fb2a570613ff14fb2a570617e4.jpg
+    alt:
+      en: "Debris field with scattered pipes, twisted metal, and building materials covers a grassy lot; skeletal structural frames and a white camper trailer stand in the background under an overcast sky."
 geo:
 id: 4552
 item_type: Still Image

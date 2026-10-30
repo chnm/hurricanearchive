@@ -21,6 +21,8 @@ files:
     original_filename: Picture 047cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c01ea5614fb2a0c01ee3c.jpg
     url: /files/original/14fb2a0c01ea5614fb2a0c01ee3c.jpg
+    alt:
+      en: "A leaning street light pole displaying a \"Valence\" street sign stands amid storm debris, with a person in military camouflage walking along a tree-lined, debris-strewn road."
 geo:
 id: 19950
 item_type: Still Image

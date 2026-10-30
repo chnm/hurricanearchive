@@ -24,6 +24,8 @@ files:
     original_filename: P1010157.JPG
     thumb: /files/thumbnails/14fb2a5a0a929d14fb2a5a0a967d.jpg
     url: /files/original/14fb2a5a0a929d14fb2a5a0a967d.jpg
+    alt:
+      en: "A flock of pigeons and a starling scavenging for food scraps and bread on a debris-strewn concrete surface, with rubble, cardboard, and patches of grass scattered around."
 geo:
 id: 3711
 item_type: Still Image

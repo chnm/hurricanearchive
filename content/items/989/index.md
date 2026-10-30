@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27858.jpg
     thumb: /files/thumbnails/14fb2a6b85631f14fb2a6b856827.jpg
     url: /files/original/14fb2a6b85631f14fb2a6b856827.jpg
+    alt:
+      en: "Group of adults and two young children stand on a grassy lot beneath a \"ROUEN ST.\" street sign, holding a plywood sign hand-painted in red: \"HAVE WE Been forgotten.\""
 geo:
   address: ''
   lat: 0.0

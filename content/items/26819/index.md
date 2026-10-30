@@ -24,6 +24,8 @@ files:
     original_filename: SF crewboat 1_30b5922b9d.2.jpg
     thumb: /files/thumbnails/14fb29d7a05b8314fb29d7a05f68.jpg
     url: /files/original/14fb29d7a05b8314fb29d7a05f68.jpg
+    alt:
+      en: "The crewboat Eurma Jane sits propped on wooden blocks in a shipyard, its hull lined with tires for support, as workers below and on a lift platform inspect and service the boat."
 geo:
   address: ''
   lat: 29.87876

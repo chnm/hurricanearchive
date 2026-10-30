@@ -24,6 +24,8 @@ files:
     original_filename: SW 1970 flood street_bda3f85262.jpg
     thumb: /files/thumbnails/14fb29d7ea293e14fb29d7ea2d24.jpg
     url: /files/original/14fb29d7ea293e14fb29d7ea2d24.jpg
+    alt:
+      en: "A smiling boy stands on a sidewalk along a residential street with parked cars, wood-frame houses, and power lines, in a worn sepia-toned photograph."
 geo:
   address: ''
   lat: 29.91685

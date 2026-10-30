@@ -21,6 +21,8 @@ files:
     original_filename: J2 (61).JPG
     thumb: /files/thumbnails/14fb2a10fe6db314fb2a10fe71b4.jpg
     url: /files/original/14fb2a10fe6db314fb2a10fe71b4.jpg
+    alt:
+      en: "Aerial view of a building with a red tiled roof and turquoise shuttered windows, featuring rooftop air conditioning units, an \"EXIT\" sign, and an adjacent empty parking lot."
 geo:
 id: 19346
 item_type: Still Image

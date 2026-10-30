@@ -21,6 +21,8 @@ files:
     original_filename: USS Iwo Jima3iwojima.JPG
     thumb: /files/thumbnails/14fb2a1155103514fb2a11551642.jpg
     url: /files/original/14fb2a1155103514fb2a11551642.jpg
+    alt:
+      en: "A hazy, blurred view of a naval ship docked in a harbor, seen through a chain-link fence and utility poles with overhead wires crossing the frame."
 geo:
 id: 19287
 item_type: Still Image

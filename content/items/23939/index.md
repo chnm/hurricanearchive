@@ -21,6 +21,8 @@ files:
     original_filename: 09180009plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec4c432414fb29ec4c4709.jpg
     url: /files/original/14fb29ec4c432414fb29ec4c4709.jpg
+    alt:
+      en: "Large rusted red barge marked \"MST 530\" sits beached on a grassy levee, with construction equipment, a small building, and a rural road visible in the background under a hazy sky."
 geo:
 id: 23939
 item_type: Still Image

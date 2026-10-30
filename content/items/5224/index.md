@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0669.JPG
     thumb: /files/thumbnails/14fb2a534ee09314fb2a534ee479.jpg
     url: /files/original/14fb2a534ee09314fb2a534ee479.jpg
+    alt:
+      en: "A hand holds a yellow tape measure against a damaged wooden beam, measuring about 9 inches across, with exposed nails and debris in the background."
 geo:
 id: 5224
 item_type: Still Image

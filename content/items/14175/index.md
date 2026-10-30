@@ -21,6 +21,8 @@ files:
     original_filename: SFC Hutton coordinates with local officials.JPG
     thumb: /files/thumbnails/14fb2a1afd8da714fb2a1afd92c8.jpg
     url: /files/original/14fb2a1afd8da714fb2a1afd92c8.jpg
+    alt:
+      en: "Civilians in casual clothing converse with military personnel in camouflage uniforms on a roadway, with floodwater, grass, and bare trees visible in the background."
 geo:
   address: ''
   lat: 0.0

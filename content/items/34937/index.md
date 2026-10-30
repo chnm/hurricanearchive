@@ -20,6 +20,8 @@ files:
     original_filename: 2456569293_867da0ef82.
     thumb: /files/thumbnails/14fb29c85bb0f014fb29c85bb773.jpg
     url: /files/original/14fb29c85bb0f014fb29c85bb773.jpg
+    alt:
+      en: "Aerial view of the Lake Cataouatche Levee, a long earthen levee with access road running between two waterways, surrounded by green marshland; caption reads \"Lake Cataouatche Levee.\""
 geo:
 id: 34937
 item_type: Still Image

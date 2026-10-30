@@ -21,6 +21,8 @@ files:
     original_filename: S4300035zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ef860af14fb2a0ef86492.jpg
     url: /files/original/14fb2a0ef860af14fb2a0ef86492.jpg
+    alt:
+      en: "A U.S. Navy helicopter marked \"HSL-43\" and \"NAVY\" flies against a clear blue sky, its tail section painted with orange and black tiger stripes."
 geo:
 id: 19581
 item_type: Still Image

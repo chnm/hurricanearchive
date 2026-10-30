@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6713_5da4219e16.JPG
     thumb: /files/thumbnails/14fb29d3044e0714fb29d30463e1.jpg
     url: /files/original/14fb29d3044e0714fb29d30463e1.jpg
+    alt:
+      en: "Faded color snapshot of a man crouching between two young children in matching checkered outfits on a lawn, with parked cars and a house in the background."
 geo:
   address: ''
   lat: 29.84064

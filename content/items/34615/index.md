@@ -21,6 +21,8 @@ files:
     original_filename: henderberg4_97ef13d8d8.jpg
     thumb: /files/thumbnails/14fb29c98124bc14fb29c98128a1.jpg
     url: /files/original/14fb29c98124bc14fb29c98128a1.jpg
+    alt:
+      en: "A man in a white cowboy hat and red shirt dances with a woman in a blue denim shirt on a wooden dance floor at BJ's bar, surrounded by tables, neon signs, and string lights."
 geo:
   address: 3500 St. Claude Ave., New Orleans, LA
   lat: 0.0

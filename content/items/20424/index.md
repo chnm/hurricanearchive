@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013.JPG
     thumb: /files/thumbnails/14fb2a0798569d14fb2a07985a85.jpg
     url: /files/original/14fb2a0798569d14fb2a07985a85.jpg
+    alt:
+      en: "Two men sit at a table with a laptop and notebook; one wears a military camouflage uniform with a U.S. flag patch, the other a red \"México\" shirt and white cap."
 geo:
 id: 20424
 item_type: Still Image

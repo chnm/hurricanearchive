@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0802_6672353845.JPG
     thumb: /files/thumbnails/14fb2a6d5eebcd14fb2a6d5eefb2.jpg
     url: /files/original/14fb2a6d5eebcd14fb2a6d5eefb2.jpg
+    alt:
+      en: "Three women in the bed of a pickup truck tend to a patient lying on a mattress with IV lines and a manual resuscitator bag, amid medical supplies and tubing, under an overcast sky."
 geo:
   address: ''
   lat: 29.974936799407697

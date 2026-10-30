@@ -21,6 +21,8 @@ files:
     original_filename: 100_0203.JPG
     thumb: /files/thumbnails/14fb2a59075d1514fb2a590760fb.jpg
     url: /files/original/14fb2a59075d1514fb2a590760fb.jpg
+    alt:
+      en: "Flooded residential street with houses partially submerged, a fallen tree and debris in the water, and several rescue workers in life vests aboard a small motorboat navigating past the wreckage."
 geo:
 id: 3906
 item_type: Still Image

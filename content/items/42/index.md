@@ -26,6 +26,8 @@ files:
     original_filename: west_end_parkway_01b6b69273.jpeg
     thumb: /files/thumbnails/14fb2a713cb1d414fb2a713cb5c2.jpg
     url: /files/original/14fb2a713cb1d414fb2a713cb5c2.jpg
+    alt:
+      en: "Damaged wooden pilings of a collapsed pier stand in calm water beside a low concrete seawall with a scalloped decorative edge, remnants of West End Parkway."
 geo:
   address: ''
   lat: 0.0

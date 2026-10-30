@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0164abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef192fb014fb29ef193395.jpg
     url: /files/original/14fb29ef192fb014fb29ef193395.jpg
+    alt:
+      en: "Flood-damaged building with torn metal siding stands on stilts amid standing water, downed trees, and a leaning utility pole with sagging power lines."
 geo:
 id: 23528
 item_type: Still Image

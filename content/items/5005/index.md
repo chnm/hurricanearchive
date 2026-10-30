@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0350.JPG
     thumb: /files/thumbnails/14fb2a5471635114fb2a54716736.jpg
     url: /files/original/14fb2a5471635114fb2a54716736.jpg
+    alt:
+      en: "A yellow tape measure spans a wooden post, showing roughly 11 inches, with storm debris and a damaged structure visible in the background."
 geo:
 id: 5005
 item_type: Still Image

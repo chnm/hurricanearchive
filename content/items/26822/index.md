@@ -24,6 +24,8 @@ files:
     original_filename: SF crewboat 2_65c8b3d654.2.jpg
     thumb: /files/thumbnails/14fb29d799703f14fb29d7997425.jpg
     url: /files/original/14fb29d799703f14fb29d7997425.jpg
+    alt:
+      en: "A large boat marked \"Eurma Jane\" rests on a travel lift at a boatyard, with two men standing nearby on the sandy ground."
 geo:
   address: ''
   lat: 29.87876

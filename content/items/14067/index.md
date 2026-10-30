@@ -21,6 +21,8 @@ files:
     original_filename: 20050929050.JPG
     thumb: /files/thumbnails/14fb2a1bf0839c14fb2a1bf087f8.jpg
     url: /files/original/14fb2a1bf0839c14fb2a1bf087f8.jpg
+    alt:
+      en: "A worker in waders stands near an oval hatch on a large concrete structure beside floodwater littered with debris, broken concrete blocks, and tangled branches."
 geo:
   address: ''
   lat: 0.0

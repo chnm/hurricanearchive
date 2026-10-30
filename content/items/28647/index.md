@@ -25,6 +25,8 @@ files:
     original_filename: 158259497_f7fd86704a.jpg
     thumb: /files/thumbnails/14fb29d1ee701614fb29d1ee795f.jpg
     url: /files/original/14fb29d1ee701614fb29d1ee795f.jpg
+    alt:
+      en: "A construction site with a large yellow crane, mounds of dirt and debris, a red metal structure, and a chain-link fence in the foreground under a cloudy sky."
 geo:
 id: 28647
 item_type: Still Image

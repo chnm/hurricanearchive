@@ -21,6 +21,8 @@ files:
     original_filename: shot1.JPG
     thumb: /files/thumbnails/14fb2a1a711f0f14fb2a1a712734.jpg
     url: /files/original/14fb2a1a711f0f14fb2a1a712734.jpg
+    alt:
+      en: "A woman in military camouflage fatigues administers a shot to a man's upper arm; he wears a white \"Army National Guard, Est. 1636, 100% American Soldier\" T-shirt, with two others visible in the background."
 geo:
   address: ''
   lat: 0.0

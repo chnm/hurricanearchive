@@ -20,6 +20,8 @@ files:
     original_filename: 2457505122_8fe441c7d0.
     thumb: /files/thumbnails/14fb29c8810bdc14fb29c8810de8.jpg
     url: /files/original/14fb29c8810bdc14fb29c8810de8.jpg
+    alt:
+      en: "Large industrial dragline excavator with a tall triangular lattice boom, parked on tracks; several people stand near its base against an open sky."
 geo:
 id: 34918
 item_type: Still Image

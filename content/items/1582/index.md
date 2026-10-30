@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28635.jpg
     thumb: /files/thumbnails/14fb2a67bd498214fb2a67bd4d68.jpg
     url: /files/original/14fb2a67bd498214fb2a67bd4d68.jpg
+    alt:
+      en: "A four-sided street clock mounted on a pole stands in front of a glass high-rise building, with tree branches and support cables visible in the foreground."
 geo:
   address: ''
   lat: 0.0

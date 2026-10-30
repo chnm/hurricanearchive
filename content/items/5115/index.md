@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0460.JPG
     thumb: /files/thumbnails/14fb2a53d7944914fb2a53d79891.jpg
     url: /files/original/14fb2a53d7944914fb2a53d79891.jpg
+    alt:
+      en: "Debris field with splintered wood, metal roofing, and building fragments scattered across a cracked concrete surface, bordered by a line of defoliated, storm-damaged trees."
 geo:
 id: 5115
 item_type: Still Image

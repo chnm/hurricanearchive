@@ -21,6 +21,8 @@ files:
     original_filename: 100_0219.JPG
     thumb: /files/thumbnails/14fb2a58de855314fb2a58de87f9.jpg
     url: /files/original/14fb2a58de855314fb2a58de87f9.jpg
+    alt:
+      en: "Floodwater surrounds bare and leafy trees and a utility pole, with a white house partially visible in the background amid submerged debris and branches."
 geo:
 id: 3922
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-024S.JPG
     thumb: /files/thumbnails/14fb2a5f484d3b14fb2a5f485295.jpg
     url: /files/original/14fb2a5f484d3b14fb2a5f485295.jpg
+    alt:
+      en: "Navy military aircraft marked \"PP\" and \"NAVY VC-3\" parked on pavement in a lot, with additional planes visible in the background under a clear blue sky."
 geo:
 id: 2969
 item_type: Still Image

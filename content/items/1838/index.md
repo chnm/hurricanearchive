@@ -26,6 +26,8 @@ files:
     original_filename: pointeauxcheneschool_c6d39c75b7.jpg
     thumb: /files/thumbnails/14fb2a6eb5459914fb2a6eb5497f.jpg
     url: /files/original/14fb2a6eb5459914fb2a6eb5497f.jpg
+    alt:
+      en: "Floodwaters surround Pointe Aux Chenes Elementary School, submerging the yard up to the fence line, with a handwritten sign near the entrance."
 geo:
   address: ''
   lat: 29.456248

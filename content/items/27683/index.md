@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6709_34c40c1981.JPG
     thumb: /files/thumbnails/14fb29d318043c14fb29d31807c8.jpg
     url: /files/original/14fb29d318043c14fb29d31807c8.jpg
+    alt:
+      en: "A young woman in a white formal gown with puffed sleeves and gloves smiles while holding a bouquet, posed before a wood-paneled wall decorated with balloons and comedy/tragedy theater masks for a Mardi Gras Ball."
 geo:
   address: ''
   lat: 29.80252

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2014superdome.JPG
     thumb: /files/thumbnails/14fb29df62981814fb29df629bfd.jpg
     url: /files/original/14fb29df62981814fb29df629bfd.jpg
+    alt:
+      en: "Military personnel in fatigues assist evacuees, including one carried and others using a walker and wheelchair, across a wet tarmac toward a large Chinook helicopter."
 geo:
 id: 25287
 item_type: Still Image

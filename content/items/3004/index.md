@@ -21,6 +21,8 @@ files:
     original_filename: 100_0253.JPG
     thumb: /files/thumbnails/14fb2a5f11039a14fb2a5f114834.jpg
     url: /files/original/14fb2a5f11039a14fb2a5f114834.jpg
+    alt:
+      en: "Deck of a docked military vessel with a periscope and antenna mast, gun mount, and \"ENTRANCE START TOUR HERE\" sign, overlooking a wide river with marshland beyond."
 geo:
 id: 3004
 item_type: Still Image

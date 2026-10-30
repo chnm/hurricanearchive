@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0462.JPG
     thumb: /files/thumbnails/14fb2a55b5be8114fb2a55b5c266.jpg
     url: /files/original/14fb2a55b5be8114fb2a55b5c266.jpg
+    alt:
+      en: "Devastated landscape with debris, broken trees, and scattered bricks covering the ground; a person stands amid the wreckage near a partially collapsed house in the background under a clear blue sky."
 geo:
 id: 4763
 item_type: Still Image

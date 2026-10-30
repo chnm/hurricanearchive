@@ -21,6 +21,8 @@ files:
     original_filename: Picture 078.jpg
     thumb: /files/thumbnails/14fb29cc5aafbd14fb29cc5ab3a2.jpg
     url: /files/original/14fb29cc5aafbd14fb29cc5ab3a2.jpg
+    alt:
+      en: "Photographed from inside a moving vehicle, snapped pine trunks and a fallen tree with tangled branches lie beside a damaged brick building, debris scattered across the ground."
 geo:
 id: 30807
 item_type: Still Image

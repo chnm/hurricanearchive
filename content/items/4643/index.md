@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0572.JPG
     thumb: /files/thumbnails/14fb2a568b999114fb2a568b9d5f.jpg
     url: /files/original/14fb2a568b999114fb2a568b9d5f.jpg
+    alt:
+      en: "Rows of concrete block piers remain where a house once stood, surrounded by scattered debris and damaged, leafless trees, with scorched earth and litter covering the ground."
 geo:
 id: 4643
 item_type: Still Image

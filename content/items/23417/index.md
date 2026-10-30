@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0095cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef86c7e614fb29ef86cbca.jpg
     url: /files/original/14fb29ef86c7e614fb29ef86cbca.jpg
+    alt:
+      en: "Aerial view of flat farmland divided into geometric fields, many flooded or waterlogged, with scattered farmhouses, roads, and a hazy horizon under overcast sky."
 geo:
 id: 23417
 item_type: Still Image

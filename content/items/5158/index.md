@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0520.JPG
     thumb: /files/thumbnails/14fb2a53af10ef14fb2a53af14d4.jpg
     url: /files/original/14fb2a53af10ef14fb2a53af14d4.jpg
+    alt:
+      en: "Close-up of a concrete slab edge with exposed, rusted rebar protruding from a damaged corner, with patchy grass visible below."
 geo:
 id: 5158
 item_type: Still Image

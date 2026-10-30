@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0137-21.JPG
     thumb: /files/thumbnails/14fb2a0269e5a514fb2a0269ec46.jpg
     url: /files/original/14fb2a0269e5a514fb2a0269ec46.jpg
+    alt:
+      en: "A grassy park with large oak trees, two dark lamp posts in the foreground, and an orange utility truck with crane equipment parked near the tree line on the right."
 geo:
 id: 20874
 item_type: Still Image

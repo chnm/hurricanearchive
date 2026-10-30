@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-24-22A.jpg
     thumb: /files/thumbnails/14fb29e89c6a7e14fb29e89c6e5a.jpg
     url: /files/original/14fb29e89c6a7e14fb29e89c6e5a.jpg
+    alt:
+      en: "Parking lot staging area with military trucks, a helicopter, folding tables, cardboard boxes, and wooden pallets, as uniformed personnel stand near a large transport vehicle under a clear sky."
 geo:
 id: 24348
 item_type: Still Image

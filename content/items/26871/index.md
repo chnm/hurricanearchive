@@ -21,6 +21,8 @@ files:
     original_filename: mr chalmette brian lamia_4890289412.jpg
     thumb: /files/thumbnails/14fb29d6d7c60f14fb29d6d7c9f6.jpg
     url: /files/original/14fb29d6d7c60f14fb29d6d7c9f6.jpg
+    alt:
+      en: "Black-and-white yearbook photo of a young man in a suit and tie standing beside a large wagon wheel, under the heading \"Mr. Chalmette,\" with caption \"Brian Lamia\" and a paragraph of accompanying text below."
 geo:
 id: 26871
 item_type: Still Image

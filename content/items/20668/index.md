@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053M.JPG
     thumb: /files/thumbnails/14fb2a0553d73c14fb2a0553dcfb.jpg
     url: /files/original/14fb2a0553d73c14fb2a0553dcfb.jpg
+    alt:
+      en: "A person in camouflage military fatigues walks toward a modern building entrance flanked by palm trees, with folding tables, chairs, and other uniformed personnel gathered beneath the overhang."
 geo:
 id: 20668
 item_type: Still Image

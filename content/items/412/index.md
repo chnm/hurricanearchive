@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0392_4230e320d8.JPG
     thumb: /files/thumbnails/14fb2a701228fc14fb2a70122ce0.jpg
     url: /files/original/14fb2a701228fc14fb2a70122ce0.jpg
+    alt:
+      en: "A weathered mirror with a blue and green tiled frame lies on a cracked concrete surface beside a small white picture frame and a tarnished glass bottle, debris scattered around."
 geo:
   address: ''
   lat: 30.337324394179

@@ -24,6 +24,8 @@ files:
     original_filename: P1010101.JPG
     thumb: /files/thumbnails/14fb2a5a42d2b914fb2a5a42d655.jpg
     url: /files/original/14fb2a5a42d2b914fb2a5a42d655.jpg
+    alt:
+      en: "Two damaged cars, a maroon hatchback and a dark sedan both marked \"WB1011K,\" sit beneath a mangled metal carport roof amid storm debris, fallen branches, and scattered sheet metal."
 geo:
 id: 3664
 item_type: Still Image

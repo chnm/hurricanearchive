@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2036superdome.JPG
     thumb: /files/thumbnails/14fb29df43990714fb29df439dbe.jpg
     url: /files/original/14fb29df43990714fb29df439dbe.jpg
+    alt:
+      en: "A military medic in camouflage pants examines a patient's medical chart while another person in a hospital gown with an IV line stands nearby, surrounded by a chain-link fence and parked vehicles in the background."
 geo:
 id: 25309
 item_type: Still Image

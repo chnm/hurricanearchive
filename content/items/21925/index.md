@@ -21,6 +21,8 @@ files:
     original_filename: outages.jpgsatellite
     thumb: /files/thumbnails/14fb29faf8988014fb29faf89c66.jpg
     url: /files/original/14fb29faf8988014fb29faf89c66.jpgsatellite
+    alt:
+      en: "Satellite map overlay of a Gulf Coast shoreline showing Hurricane Katrina damage zones in blue, green, yellow, orange, and red, with a legend marking flooded areas and damage severity levels."
 geo:
 id: 21925
 item_type: Still Image

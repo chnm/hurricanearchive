@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 24.jpg
     thumb: /files/thumbnails/14fb29f0945b6f14fb29f0945f55.jpg
     url: /files/original/14fb29f0945b6f14fb29f0945f55.jpg
+    alt:
+      en: "Satellite weather map showing a large hurricane with a defined eye over Florida and the surrounding Gulf and Caribbean region, timestamped 29 Aug 2005 00:22 GMT, credited to The Weather Channel."
 geo:
 id: 23232
 item_type: Still Image

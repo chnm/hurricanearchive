@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2189superdome.JPG
     thumb: /files/thumbnails/14fb29e46a823114fb29e46a860f.jpg
     url: /files/original/14fb29e46a823114fb29e46a860f.jpg
+    alt:
+      en: "Nighttime scene outside the Superdome with a soldier pushing a luggage cart loaded with coolers and camping chairs, surrounded by evacuees, debris, and a wheelchair under the \"Superdome\" sign."
 geo:
 id: 24849
 item_type: Still Image

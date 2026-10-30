@@ -23,6 +23,8 @@ files:
     original_filename: 2010 053_54123df668.jpg
     thumb: /files/thumbnails/14fb29c34a452214fb29c34a4804.jpg
     url: /files/original/14fb29c34a452214fb29c34a4804.jpg
+    alt:
+      en: "A crowd dressed in black and gold gathers outdoors near a building, with a New Orleans Saints flag and fleur-de-lis decorations visible, celebrating the team's Super Bowl pep rally."
 geo:
 id: 42126
 item_type: Still Image

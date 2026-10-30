@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (16).JPG
     thumb: /files/thumbnails/14fb2a5dc68bfa14fb2a5dc68fe0.jpg
     url: /files/original/14fb2a5dc68bfa14fb2a5dc68fe0.jpg
+    alt:
+      en: "A blue dump truck parked near a large pile of debris and tree limbs, with a worker in an orange safety vest standing nearby and a backhoe in the background, photographed from inside a vehicle on a gravel road."
 geo:
 id: 3132
 item_type: Still Image

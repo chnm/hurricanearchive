@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0143rita.JPG
     thumb: /files/thumbnails/14fb2a119a59ef14fb2a119a5ee1.jpg
     url: /files/original/14fb2a119a59ef14fb2a119a5ee1.jpg
+    alt:
+      en: "Military Humvee marked \"HQ-38\" parked on a road with soldiers inside, while a man in a white shirt carrying a video camera walks past alongside uniformed personnel in the background."
 geo:
 id: 19256
 item_type: Still Image

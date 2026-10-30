@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0108.JPG
     thumb: /files/thumbnails/14fb2a0a1ee8a514fb2a0a1eeb68.jpg
     url: /files/original/14fb2a0a1ee8a514fb2a0a1eeb68.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood with collapsed roofs, scattered debris, and empty foundations lining damaged streets after storm destruction."
 geo:
 id: 20278
 item_type: Still Image

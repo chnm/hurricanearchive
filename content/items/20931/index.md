@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0151-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0176028014fb2a01760dde.jpg
     url: /files/original/14fb2a0176028014fb2a01760dde.jpg
+    alt:
+      en: "Brick chapel labeled \"Sacred Heart Chapel, Mass Sat 630pm\" with stained-glass windows and a cross, a white statue of Mary, and a large fallen wooden pole amid storm debris in the yard."
 geo:
 id: 20931
 item_type: Still Image

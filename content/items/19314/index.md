@@ -21,6 +21,8 @@ files:
     original_filename: J2 (32).JPG
     thumb: /files/thumbnails/14fb2a11382b5514fb2a11382f39.jpg
     url: /files/original/14fb2a11382b5514fb2a11382f39.jpg
+    alt:
+      en: "Aerial view from a helicopter of a flooded railyard, with intact train cars on dry tracks beside derailed and scattered cars submerged in floodwater, surrounded by trees and a wide canal."
 geo:
 id: 19314
 item_type: Still Image

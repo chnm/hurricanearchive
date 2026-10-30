@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28685.jpg
     thumb: /files/thumbnails/14fb2a69fa047f14fb2a69fa0858.jpg
     url: /files/original/14fb2a69fa047f14fb2a69fa0858.jpg
+    alt:
+      en: "A light brown horse with a white blaze peers over a metal stall gate, flanked by two box fans mounted on the bars to provide ventilation."
 geo:
   address: ''
   lat: 0.0

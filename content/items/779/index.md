@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28576.jpg
     thumb: /files/thumbnails/14fb2a6d12b69914fb2a6d12bb1b.jpg
     url: /files/original/14fb2a6d12b69914fb2a6d12bb1b.jpg
+    alt:
+      en: "Debris-strewn yard in front of two residential buildings, with scattered wreckage, twisted metal, and broken materials covering the ground after storm damage."
 geo:
   address: ''
   lat: 0.0

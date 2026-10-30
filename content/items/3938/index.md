@@ -24,6 +24,8 @@ files:
     original_filename: Cheney Visit
     thumb: /files/thumbnails/14fb2a58d2f02514fb2a58d2f411.jpg
     url: /files/original/14fb2a58d2f02514fb2a58d2f411.jpg
+    alt:
+      en: "Vice President Cheney stands with four Coast Guardsmen in front of shipping containers and a truck, while additional uniformed personnel and bystanders gather in the background near a building."
 geo:
 id: 3938
 item_type: Still Image

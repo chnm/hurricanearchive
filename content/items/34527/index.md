@@ -27,6 +27,8 @@ files:
     original_filename: 2291203455_8536c02406.
     thumb: /files/thumbnails/14fb29c98b690214fb29c98b6ccb.jpg
     url: /files/original/14fb29c98b690214fb29c98b6ccb.jpg
+    alt:
+      en: "Storm debris chokes a bayou behind damaged waterfront homes, with splintered wood, two small boats, and collapsed pilings cluttering the water's surface."
 geo:
   address: ''
   lat: 30.22539

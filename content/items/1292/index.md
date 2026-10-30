@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28755.jpg
     thumb: /files/thumbnails/14fb2a69d1775914fb2a69d17b39.jpg
     url: /files/original/14fb2a69d1775914fb2a69d17b39.jpg
+    alt:
+      en: "Handwritten signs taped to metal fencing read \"Exotic Supplies NOT to be removed! - Born Management\" and partially obscured instructions about animal care, with supplies and equipment visible behind."
 geo:
   address: ''
   lat: 0.0

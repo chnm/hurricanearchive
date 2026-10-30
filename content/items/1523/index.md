@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28131.jpg
     thumb: /files/thumbnails/14fb2a68282e7c14fb2a68283262.jpg
     url: /files/original/14fb2a68282e7c14fb2a68283262.jpg
+    alt:
+      en: "Storm-damaged houses with debris piles line a street under power lines, one roof covered with a blue tarp, amid scattered rubble and patchy grass."
 geo:
   address: ''
   lat: 0.0

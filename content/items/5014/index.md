@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0359.JPG
     thumb: /files/thumbnails/14fb2a54692ff514fb2a546933da.jpg
     url: /files/original/14fb2a54692ff514fb2a546933da.jpg
+    alt:
+      en: "Gravel driveway leading to a property strewn with storm debris, overturned materials, and damaged trees, with a red vehicle partially visible amid the wreckage under an overcast sky."
 geo:
 id: 5014
 item_type: Still Image

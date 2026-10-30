@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28196.jpg
     thumb: /files/thumbnails/14fb2a6882974714fb2a68829b82.jpg
     url: /files/original/14fb2a6882974714fb2a68829b82.jpg
+    alt:
+      en: "Flattened, debris-strewn lot with tire tracks in sandy mud, a pile of storm wreckage on the right, and leafless, storm-damaged trees lining a road in the background under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

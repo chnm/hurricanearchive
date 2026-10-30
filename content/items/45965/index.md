@@ -17,6 +17,8 @@ files:
     original_filename: FrontYardLG.jpg
     thumb: /files/thumbnails/5cda96996a4a8aa8398b6dc1327be3da.jpg
     url: /files/original/5cda96996a4a8aa8398b6dc1327be3da.jpg
+    alt:
+      en: "A damaged maroon minivan sits amid storm debris in front of a partially collapsed house with boarded windows and a broken roofline, under a clear blue sky."
 geo:
 id: 45965
 item_type: Still Image

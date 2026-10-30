@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28330.jpg
     thumb: /files/thumbnails/14fb2a6a69c2b614fb2a6a69c7a0.jpg
     url: /files/original/14fb2a6a69c2b614fb2a6a69c7a0.jpg
+    alt:
+      en: "Storm-damaged building with a collapsed, angled roof structure amid debris, with a large tree draped in tattered plastic sheeting in the foreground and other damaged structures visible behind."
 geo:
   address: ''
   lat: 0.0

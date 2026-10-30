@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1325Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f60463f214fb29f6046cf0.jpg
     url: /files/original/14fb29f60463f214fb29f6046cf0.jpg
+    alt:
+      en: "Floodwater submerges a brick building with only its roof visible, surrounded by wind-blown trees; a person with a video camera records the scene in heavy rain."
 geo:
 id: 22484
 item_type: Still Image

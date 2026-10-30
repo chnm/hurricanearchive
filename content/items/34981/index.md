@@ -20,6 +20,8 @@ files:
     original_filename: 2298647072_33f113a7ba.
     thumb: /files/thumbnails/14fb29c80b81ac14fb29c80b95e1.jpg
     url: /files/original/14fb29c80b81ac14fb29c80b95e1.jpg
+    alt:
+      en: "People crowded inside a truck packed tightly with bicycles, passing a green bicycle hand to hand while others reach up to help from below."
 geo:
 id: 34981
 item_type: Still Image

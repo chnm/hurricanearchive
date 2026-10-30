@@ -21,6 +21,8 @@ files:
     original_filename: Picture 351-J2.jpg
     thumb: /files/thumbnails/14fb29fa0bbe3514fb29fa0bc214.jpg
     url: /files/original/14fb29fa0bbe3514fb29fa0bc214.jpg
+    alt:
+      en: "A rusted, flood-damaged Chevrolet pickup truck sits parked on a wet street in front of a raised white house, with a yellow \"Welcome to the Ninth Ward\" sign and the address \"1015\" visible nearby."
 geo:
 id: 22020
 item_type: Still Image

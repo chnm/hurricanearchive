@@ -20,6 +20,8 @@ files:
     original_filename: Post Katrina 04262006 002_5715adcd77.jpg
     thumb: /files/thumbnails/14fb2a165868fa14fb2a165870cb.jpg
     url: /files/original/14fb2a165868fa14fb2a165870cb.jpg
+    alt:
+      en: "A woman wearing gloves and a white T-shirt stands among several overturned wooden chairs with striped seat cushions, refinishing their legs in a room with plastic sheeting on the floor, dated 04.27.2006."
 geo:
   address: Meadowdale and Lake Villa
   lat: 30.00854

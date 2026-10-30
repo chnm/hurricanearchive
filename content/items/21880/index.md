@@ -21,6 +21,8 @@ files:
     original_filename: NO 24SEP05.jpg
     thumb: /files/thumbnails/14fb29fb47966414fb29fb479a49.jpg
     url: /files/original/14fb29fb47966414fb29fb479a49.jpg
+    alt:
+      en: "Satellite map of New Orleans titled \"Hurricane Rita Flood Impact: Water Depth of New Orleans,\" with a color-coded overlay showing flood depths ranging from 1 to 7+ feet in affected neighborhoods."
 geo:
 id: 21880
 item_type: Still Image

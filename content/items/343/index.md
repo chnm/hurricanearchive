@@ -26,6 +26,8 @@ files:
     original_filename: 1015200524_334c503982.jpg
     thumb: /files/thumbnails/14fb2a702f3e6d14fb2a70300013.jpg
     url: /files/original/14fb2a702f3e6d14fb2a70300013.jpg
+    alt:
+      en: "Upward view of a tall building facade with rows of windows, many broken and shattered, framed by dark vertical metal supports against a bright sky."
 geo:
   address: ''
   lat: 30.446993

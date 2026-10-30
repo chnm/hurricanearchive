@@ -21,6 +21,8 @@ files:
     original_filename: Baggage being loaded 3delaware.jpg
     thumb: /files/thumbnails/14fb29f143e76514fb29f143eb4b.jpg
     url: /files/original/14fb29f143e76514fb29f143eb4b.jpg
+    alt:
+      en: "A military cargo plane marked \"ANG,\" \"The First State,\" and \"40206\" sits on a tarmac while a forklift and uniformed personnel load palletized cargo through its rear ramp."
 geo:
 id: 23169
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 2326066905_c68d14e902.
     thumb: /files/thumbnails/14fb29c9bde6d514fb29c9bdeab3.jpg
     url: /files/original/14fb29c9bde6d514fb29c9bdeab3.jpg
+    alt:
+      en: "Waterfront view of Oak Harbor Marina with damaged, debris-strewn buildings along the shore, scattered wooden wreckage, and docked boats, including a sailboat, near a partially intact pier."
 geo:
   address: ''
   lat: 30.22586

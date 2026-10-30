@@ -21,6 +21,8 @@ files:
     original_filename: P1010116empireS&R.JPG
     thumb: /files/thumbnails/14fb29edf03c2514fb29edf0400c.jpg
     url: /files/original/14fb29edf03c2514fb29edf0400c.jpg
+    alt:
+      en: "Floodwater covers a debris-strewn field with scattered posts and downed branches, bordered by trees and power lines, with a discarded appliance in the foreground grass."
 geo:
 id: 23675
 item_type: Still Image

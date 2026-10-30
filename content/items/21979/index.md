@@ -21,6 +21,8 @@ files:
     original_filename: Picture 310-J2.jpg
     thumb: /files/thumbnails/14fb29faaaa44314fb29faaaa89a.jpg
     url: /files/original/14fb29faaaa44314fb29faaaa89a.jpg
+    alt:
+      en: "City skyline with high-rise buildings under a clear blue sky, a helicopter flying near the towers, and an elevated highway overpass in the foreground."
 geo:
 id: 21979
 item_type: Still Image

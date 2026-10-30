@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0782456114fb2a07824946.jpg
     url: /files/original/14fb2a0782456114fb2a07824946.jpg
+    alt:
+      en: "Parking lot of storm-damaged vehicles, including a dark green car with its roof torn off and rear crushed, surrounded by scattered roofing debris and insulation, with license plate \"L.A. 709\" visible."
 geo:
 id: 20429
 item_type: Still Image

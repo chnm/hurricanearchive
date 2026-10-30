@@ -21,6 +21,8 @@ files:
     original_filename: S4300238stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eca66ad214fb29eca66eb2.jpg
     url: /files/original/14fb29eca66ad214fb29eca66eb2.jpg
+    alt:
+      en: "Flooded highway with road submerged ahead, a damaged guardrail, and debris in standing water, flanked by trees and marsh under an overcast sky with a distant skyline."
 geo:
 id: 23873
 item_type: Still Image

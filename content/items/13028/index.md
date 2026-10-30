@@ -21,6 +21,8 @@ files:
     original_filename: before boarded up 2.jpg
     thumb: /files/thumbnails/14fb2a20fef73d14fb2a20ff3083.jpg
     url: /files/original/14fb2a20fef73d14fb2a20ff3083.jpg
+    alt:
+      en: "Plywood sheets cover a storefront's windows along a sidewalk lined with gray pillars, with a tree and part of another building visible in the background."
 geo:
 id: 13028
 item_type: Still Image

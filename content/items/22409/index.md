@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1241Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6ace6d514fb29f6aceaad.jpg
     url: /files/original/14fb29f6ace6d514fb29f6aceaad.jpg
+    alt:
+      en: "Military personnel in camouflage and tan uniforms sit around a conference table while a standing officer gestures during a briefing, with a flip chart and office cubicles visible in the background."
 geo:
 id: 22409
 item_type: Still Image

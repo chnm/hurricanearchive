@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1217Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6d7141814fb29f6d717fd.jpg
     url: /files/original/14fb29f6d7141814fb29f6d717fd.jpg
+    alt:
+      en: "Nighttime scene of rescue workers loading life rings and equipment onto small motorboats floating in floodwater beside a submerged building, with another boat marked \"Go Devil\" nearby."
 geo:
 id: 22389
 item_type: Still Image

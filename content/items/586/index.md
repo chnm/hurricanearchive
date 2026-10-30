@@ -26,6 +26,8 @@ files:
     original_filename: 100_0098_51abd60cab.JPG
     thumb: /files/thumbnails/14fb2a6f75b20b14fb2a6f75b5f9.jpg
     url: /files/original/14fb2a6f75b20b14fb2a6f75b5f9.jpg
+    alt:
+      en: "A two-story white house with storm-stripped siding and exposed framing stands amid bare, wind-damaged oak trees, with a cleared lot, dirt mounds, and a white picket fence in the foreground."
 geo:
   address: ''
   lat: 0.0

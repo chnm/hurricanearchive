@@ -21,6 +21,8 @@ files:
     original_filename: P1010040.JPG
     thumb: /files/thumbnails/14fb2a5750bc8714fb2a5750c065.jpg
     url: /files/original/14fb2a5750bc8714fb2a5750c065.jpg
+    alt:
+      en: "Aerial view of a coastal barrier strip with a sandy beach along the ocean, a narrow road and channel cutting through marshland, and scattered ponds and open water extending inland."
 geo:
 id: 4169
 item_type: Still Image

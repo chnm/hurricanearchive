@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28418.jpg
     thumb: /files/thumbnails/14fb2a6887bb1914fb2a6887befe.jpg
     url: /files/original/14fb2a6887bb1914fb2a6887befe.jpg
+    alt:
+      en: "A bent \"Speed Limit 45\" sign leans against a damaged dark sedan with license plate MXB 072, parked beside a white car amid storm-damaged buildings in Slidell, Louisiana."
 geo:
   address: ''
   lat: 0.0

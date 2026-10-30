@@ -21,6 +21,8 @@ files:
     original_filename: image001neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ec9d411e14fb29ec9d4510.jpg
     url: /files/original/14fb29ec9d411e14fb29ec9d4510.jpg
+    alt:
+      en: "A dark SUV drives down a debris-strewn road lined with trees, some snapped or fallen, viewed from inside another vehicle with its hood visible in the foreground."
 geo:
 id: 23884
 item_type: Still Image

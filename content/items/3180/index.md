@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (31).JPG
     thumb: /files/thumbnails/14fb2a5d72149814fb2a5d721876.jpg
     url: /files/original/14fb2a5d72149814fb2a5d721876.jpg
+    alt:
+      en: "Large Spanish-style building with a red tile roof and arched entrance covered in fallen leaves, with a pile of broken tree branches and debris scattered across the foreground street."
 geo:
 id: 3180
 item_type: Still Image

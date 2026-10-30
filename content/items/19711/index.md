@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 098cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e37f65114fb2a0e37fa36.jpg
     url: /files/original/14fb2a0e37f65114fb2a0e37fa36.jpg
+    alt:
+      en: "Fallen tree limbs and debris cover a yard in front of a white picket fence, with two large historic houses visible in the background amid storm-damaged trees."
 geo:
 id: 19711
 item_type: Still Image

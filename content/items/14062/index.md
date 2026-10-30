@@ -21,6 +21,8 @@ files:
     original_filename: 20050929038.JPG
     thumb: /files/thumbnails/14fb2a1bf50f5814fb2a1bf5133e.jpg
     url: /files/original/14fb2a1bf50f5814fb2a1bf5133e.jpg
+    alt:
+      en: "Storm-wrecked industrial yard with scattered debris and flooded ground, a damaged warehouse bearing a partial sign, two parked trucks, and storage tanks and utility poles in the background under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

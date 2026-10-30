@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0252-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fed8828f14fb29fed88674.jpg
     url: /files/original/14fb29fed8828f14fb29fed88674.jpg
+    alt:
+      en: "Aerial view of a flooded farm, with a barn, trees, fence lines, and what appear to be cattle partially submerged in brown floodwater."
 geo:
 id: 21421
 item_type: Still Image

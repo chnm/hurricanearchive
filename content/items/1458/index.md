@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28427.jpg
     thumb: /files/thumbnails/14fb2a68936cce14fb2a689370ac.jpg
     url: /files/original/14fb2a68936cce14fb2a689370ac.jpg
+    alt:
+      en: "A sandy, debris-strewn lot with a wooden post fence in the foreground, an empty paved road, brick pillars with iron gates, and a backdrop of damaged, leafless trees."
 geo:
   address: ''
   lat: 0.0

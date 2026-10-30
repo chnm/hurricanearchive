@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2071superdome.JPG
     thumb: /files/thumbnails/14fb29e52c156c14fb29e52c195b.jpg
     url: /files/original/14fb29e52c156c14fb29e52c195b.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms and civilians sit in an office meeting room lined with framed photographs, with one officer holding a radio microphone."
 geo:
 id: 24749
 item_type: Still Image

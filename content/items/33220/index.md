@@ -23,6 +23,8 @@ files:
     original_filename: 1265939713_9342f7d076.jpg
     thumb: /files/thumbnails/14fb29cb797a3014fb29cb797dd1.jpg
     url: /files/original/14fb29cb797a3014fb29cb797dd1.jpg
+    alt:
+      en: "A young man in a brown t-shirt smiles at the camera near a gray military helicopter with spinning rotor blades, while personnel in uniforms and helmets unload boxes and water in the background."
 geo:
   address: ''
   lat: 30.4637

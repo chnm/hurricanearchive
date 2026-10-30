@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1303Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f659bddf14fb29f659db98.jpg
     url: /files/original/14fb29f659bddf14fb29f659db98.jpg
+    alt:
+      en: "Floodwater submerges a street up to tree trunks and a lamppost, with rooftops visible in the background and rain visibly falling through the gray sky."
 geo:
 id: 22462
 item_type: Still Image

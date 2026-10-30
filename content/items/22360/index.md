@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1177Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7087bf414fb29f7087fd0.jpg
     url: /files/original/14fb29f7087bf414fb29f7087fd0.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms and orange life vests board a small boat at night, with a \"Wet Floor\" caution sign visible on the dock nearby."
 geo:
 id: 22360
 item_type: Still Image

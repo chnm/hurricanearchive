@@ -18,6 +18,8 @@ files:
     original_filename: post card 9_6081702834.JPG
     thumb: /files/thumbnails/14fb29c455c95314fb29c455cd38.jpg
     url: /files/original/14fb29c455c95314fb29c455cd38.jpg
+    alt:
+      en: "Handwritten postcard response reading \"My favorite po-boy is a hot sausage with cheese dressed. I love this sandwich and I mostly go to Rajeans to get this sandwich,\" signed Chrishonda Hall."
 geo:
   address: ''
   lat: 0.0

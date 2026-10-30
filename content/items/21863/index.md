@@ -21,6 +21,8 @@ files:
     original_filename: FEMA Flood Zones MCOO.jpg
     thumb: /files/thumbnails/14fb29fb57f72414fb29fb57fbc5.jpg
     url: /files/original/14fb29fb57f72414fb29fb57fbc5.jpg
+    alt:
+      en: "Map of Louisiana parishes titled \"Unit Map with FEMA Flood Zones,\" showing flood risk areas in red, yellow, and green overlaid with parish boundaries, roads, and a bold blue outline marking a coastal region."
 geo:
 id: 21863
 item_type: Still Image

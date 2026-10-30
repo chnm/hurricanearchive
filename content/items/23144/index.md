@@ -21,6 +21,8 @@ files:
     original_filename: 20051001-A-2421S-003AlabamaNG.jpg
     thumb: /files/thumbnails/14fb29f1553a0214fb29f1553de6.jpg
     url: /files/original/14fb29f1553a0214fb29f1553de6.jpg
+    alt:
+      en: "A volunteer in a white T-shirt and gloves leans over debris, reaching toward a metal bed frame in a damaged, mud-stained room with a blue storage bin and scattered belongings."
 geo:
 id: 23144
 item_type: Still Image

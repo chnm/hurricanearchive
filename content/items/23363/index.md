@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0067cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efcbf06714fb29efcbf44d.jpg
     url: /files/original/14fb29efcbf06714fb29efcbf44d.jpg
+    alt:
+      en: "Aerial view of storm-damaged terrain with debris-strewn ground, scattered trees, and a few structures visible amid open fields under a hazy sky."
 geo:
 id: 23363
 item_type: Still Image

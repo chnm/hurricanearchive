@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0038.JPG
     thumb: /files/thumbnails/14fb2a580f2bfc14fb2a58103164.jpg
     url: /files/original/14fb2a580f2bfc14fb2a58103164.jpg
+    alt:
+      en: "Row of white \"Explorer\" travel trailers with awnings extended in a parking lot, surrounded by stacked coolers, luggage, bins, and a small American flag, under a clear blue sky."
 geo:
 id: 4074
 item_type: Still Image

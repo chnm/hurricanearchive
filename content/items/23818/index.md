@@ -21,6 +21,8 @@ files:
     original_filename: S4300157stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf5499c14fb29ecf54d81.jpg
     url: /files/original/14fb29ecf5499c14fb29ecf54d81.jpg
+    alt:
+      en: "A dark green Ford Taurus sedan sits on a gravel driveway with a beige car flipped onto its trunk resting atop it, propped against a brick house, photographed through a car window."
 geo:
 id: 23818
 item_type: Still Image

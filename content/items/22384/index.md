@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1210Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6e0f12114fb29f6e0f504.jpg
     url: /files/original/14fb29f6e0f12114fb29f6e0f504.jpg
+    alt:
+      en: "Ceiling tiles removed to expose a dust-covered HVAC duct with damper louvers, surrounded by torn pink insulation and rust-stained metal framing."
 geo:
 id: 22384
 item_type: Still Image

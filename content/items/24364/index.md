@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-12-11A.jpg
     thumb: /files/thumbnails/14fb29e86c983f14fb29e86c9c26.jpg
     url: /files/original/14fb29e86c983f14fb29e86c9c26.jpg
+    alt:
+      en: "Floodwaters submerge a residential yard with trees and a house, viewed from inside a vehicle with part of the dashboard and roof visible in the foreground."
 geo:
 id: 24364
 item_type: Still Image

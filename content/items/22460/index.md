@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1301Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f65cbe9c14fb29f65cc533.jpg
     url: /files/original/14fb29f65cbe9c14fb29f65cc533.jpg
+    alt:
+      en: "Floodwaters submerge a street and yard, with a small motorboat carrying two people navigating past downed power lines, utility poles, and debris from damaged structures."
 geo:
 id: 22460
 item_type: Still Image

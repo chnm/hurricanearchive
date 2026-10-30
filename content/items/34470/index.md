@@ -23,6 +23,8 @@ files:
     original_filename: 2326063269_2618c84167.
     thumb: /files/thumbnails/14fb29c9de48ca14fb29c9de4e5a.jpg
     url: /files/original/14fb29c9de48ca14fb29c9de4e5a.jpg
+    alt:
+      en: "Rows of damaged vehicles parked in a lot in front of a car dealership building labeled \"Slidell\" with a Ford sign, light poles and power lines overhead, grass and road in foreground."
 geo:
   address: ''
   lat: 30.23382

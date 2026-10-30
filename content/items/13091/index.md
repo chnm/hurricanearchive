@@ -21,6 +21,8 @@ files:
     original_filename: during late night.jpg
     thumb: /files/thumbnails/14fb2a207afc8614fb2a207b012c.jpg
     url: /files/original/14fb2a207afc8614fb2a207b012c.jpg
+    alt:
+      en: "Nighttime street scene with a bright streetlight illuminating rain-streaked pavement, wind-blown trees, and a row of storefronts, one lit with a glowing sign and entrance."
 geo:
 id: 13091
 item_type: Still Image

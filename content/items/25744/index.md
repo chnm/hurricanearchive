@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-certificatebaptism2_01c5f741ef.jpg
     thumb: /files/thumbnails/14fb29dc7a30f814fb29dc7a3733.jpg
     url: /files/original/14fb29dc7a30f814fb29dc7a3733.jpg
+    alt:
+      en: "A decorative Certificate of Baptism from St. Louis Cathedral, New Orleans, for Adam Henry Patcheco, Jr., born August 28, 1945 and baptized September 4, 1945, bordered with an ornate looped design and a cross emblem."
 geo:
 id: 25744
 item_type: Still Image

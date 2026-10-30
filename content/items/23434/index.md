@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0102abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef74add314fb29ef74b1ea.jpg
     url: /files/original/14fb29ef74add314fb29ef74b1ea.jpg
+    alt:
+      en: "A reddish-brown animal carcass lies partially submerged in dried marsh grass, surrounded by flooded wetland channels with sparse trees in the background."
 geo:
 id: 23434
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0242-21.JPG
     thumb: /files/thumbnails/14fb29ff121d9514fb29ff122181.jpg
     url: /files/original/14fb29ff121d9514fb29ff122181.jpg
+    alt:
+      en: "Aerial view of a devastated neighborhood reduced to slabs and debris, with scattered damaged vehicles, a few surviving trees, and a collapsed orange corrugated barrier running across cleared, muddy ground near a drainage channel."
 geo:
 id: 21383
 item_type: Still Image

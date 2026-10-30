@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0139-21.JPG
     thumb: /files/thumbnails/14fb2a022c33b314fb2a022c3799.jpg
     url: /files/original/14fb2a022c33b314fb2a022c3799.jpg
+    alt:
+      en: "Two police officers wearing \"POLICE\" t-shirts stand beside a parked silver sedan with a parking ticket under its windshield wiper, trees and a house visible in the background."
 geo:
 id: 20883
 item_type: Still Image

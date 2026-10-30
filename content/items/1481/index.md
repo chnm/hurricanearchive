@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28249.jpg
     thumb: /files/thumbnails/14fb2a6880030e14fb2a688006eb.jpg
     url: /files/original/14fb2a6880030e14fb2a688006eb.jpg
+    alt:
+      en: "Street lined with debris and storm-damaged trees, with a \"Two Hour Parking\" sign in the foreground, a large building pile of rubble, and a high-rise hotel in the background."
 geo:
   address: ''
   lat: 0.0

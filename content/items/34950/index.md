@@ -20,6 +20,8 @@ files:
     original_filename: 2438609199_34c093dc28.
     thumb: /files/thumbnails/14fb29c839290014fb29c8392ceb.jpg
     url: /files/original/14fb29c839290014fb29c8392ceb.jpg
+    alt:
+      en: "Construction site with multiple excavators, a bulldozer, and a crane working amid piles of rubble and exposed rebar, with residential houses visible in the background; dated 03/18/06."
 geo:
 id: 34950
 item_type: Still Image

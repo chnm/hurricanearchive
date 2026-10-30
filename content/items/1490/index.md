@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28658.jpg
     thumb: /files/thumbnails/14fb2a686f107614fb2a686f3b06.jpg
     url: /files/original/14fb2a686f107614fb2a686f3b06.jpg
+    alt:
+      en: "A man holds up a tan dog on its hind legs inside a makeshift animal shelter filled with crates, fans, and supplies, with another person visible in the background."
 geo:
   address: ''
   lat: 0.0

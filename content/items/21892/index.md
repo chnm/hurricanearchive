@@ -21,6 +21,8 @@ files:
     original_filename: Oil spill SE of Port Sulphur.jpg
     thumb: /files/thumbnails/14fb29fb370eb014fb29fb371294.jpg
     url: /files/original/14fb29fb370eb014fb29fb371294.jpg
+    alt:
+      en: "Aerial view of a wide river bordered by marshland and flooded fields, with a narrow inlet cutting through dense brush where small boats are working amid visible oil sheen on the water."
 geo:
 id: 21892
 item_type: Still Image

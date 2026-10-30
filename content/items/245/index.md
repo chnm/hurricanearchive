@@ -26,6 +26,8 @@ files:
     original_filename: IMAG0016_b1095f02db.JPG
     thumb: /files/thumbnails/14fb2a706819ff14fb2a70681de3.jpg
     url: /files/original/14fb2a706819ff14fb2a70681de3.jpg
+    alt:
+      en: "Abandoned childcare center classroom with mold-streaked walls, scattered toys and debris on the floor, overturned yellow chairs, and a telephone left on a black table in the foreground."
 geo:
   address: ''
   lat: 0.0

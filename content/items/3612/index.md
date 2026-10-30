@@ -24,6 +24,8 @@ files:
     original_filename: P1010041c.JPG
     thumb: /files/thumbnails/14fb2a5aa111bf14fb2a5aa115a4.jpg
     url: /files/original/14fb2a5aa111bf14fb2a5aa115a4.jpg
+    alt:
+      en: "Framed team photo of a high school football squad posed in three rows outdoors, with text reading \"Louisiana Football Champs AAAA 1971\" at the bottom."
 geo:
 id: 3612
 item_type: Still Image

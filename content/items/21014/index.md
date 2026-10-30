@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0169-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0110abff14fb2a0110afe0.jpg
     url: /files/original/14fb2a0110abff14fb2a0110afe0.jpg
+    alt:
+      en: "Single-story brick and siding house with green shutters and a white picket fence, surrounded by storm debris, broken concrete blocks, and downed branches; two people walk toward the home."
 geo:
 id: 21014
 item_type: Still Image

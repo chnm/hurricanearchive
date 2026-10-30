@@ -20,6 +20,8 @@ files:
     original_filename: 2417116978_1c4397a0aa.
     thumb: /files/thumbnails/14fb29c82e2ed914fb29c82e32bd.jpg
     url: /files/original/14fb29c82e2ed914fb29c82e32bd.jpg
+    alt:
+      en: "Aerial view of a long grassy levee running alongside a river, with a dirt access road, power transmission towers, and dense green vegetation bordering the far side."
 geo:
 id: 34956
 item_type: Still Image

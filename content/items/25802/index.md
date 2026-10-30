@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-5793_8f4d7a1236.jpg
     thumb: /files/thumbnails/14fb29dc29877a14fb29dc298acc.jpg
     url: /files/original/14fb29dc29877a14fb29dc298acc.jpg
+    alt:
+      en: "Black-and-white studio portrait of a man with slicked-back dark hair and a thick mustache, wearing a dark suit, white collared shirt, and dark tie with a small stickpin."
 geo:
 id: 25802
 item_type: Still Image

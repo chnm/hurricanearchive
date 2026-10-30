@@ -21,6 +21,8 @@ files:
     original_filename: Hanger 5 at NAS NONASneworleans.jpg
     thumb: /files/thumbnails/14fb29f256fe4d14fb29f2570233.jpg
     url: /files/original/14fb29f256fe4d14fb29f2570233.jpg
+    alt:
+      en: "Interior of a hangar set up as a task force operations center, with cardboard signs reading \"RSOI Inprocessing/Outprocessing,\" \"Check In,\" and \"City Hall Mayor's Office,\" staffed by uniformed personnel at tables, with state flags hung on the wall above."
 geo:
 id: 22978
 item_type: Still Image

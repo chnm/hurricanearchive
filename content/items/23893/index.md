@@ -21,6 +21,8 @@ files:
     original_filename: picture 14stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec962cf214fb29ec9630d7.jpg
     url: /files/original/14fb29ec962cf214fb29ec9630d7.jpg
+    alt:
+      en: "Water-stained interior wall with three framed documents and a photograph hanging crookedly, a dusty floor lamp, and venetian blinds covering a window, showing extensive flood damage and grime."
 geo:
 id: 23893
 item_type: Still Image

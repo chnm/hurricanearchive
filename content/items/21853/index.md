@@ -21,6 +21,8 @@ files:
     original_filename: E.P. Nunez Community College.jpg
     thumb: /files/thumbnails/14fb29fb5eb15714fb29fb5eb541.jpg
     url: /files/original/14fb29fb5eb15714fb29fb5eb541.jpg
+    alt:
+      en: "Aerial view of a flooded New Orleans neighborhood with widespread standing water surrounding homes and buildings, including E.P. Nunez Community College, with an airplane wing visible in the foreground. Dated 09.05.2005."
 geo:
 id: 21853
 item_type: Still Image

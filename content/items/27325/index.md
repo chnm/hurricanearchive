@@ -23,6 +23,8 @@ files:
     original_filename: 336693728_bfed4b6dc0.jpg
     thumb: /files/thumbnails/14fb29d4eee06c14fb29d4f03e4c.jpg
     url: /files/original/14fb29d4eee06c14fb29d4f03e4c.jpg
+    alt:
+      en: "Debris-covered bathroom sink and tub coated in dried mud and grime, with scattered bottles, wrappers, and tissue, set against peeling yellow walls."
 geo:
 id: 27325
 item_type: Still Image

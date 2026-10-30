@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0139.JPG
     thumb: /files/thumbnails/14fb2a0ac20cf614fb2a0ac212a9.jpg
     url: /files/original/14fb2a0ac20cf614fb2a0ac212a9.jpg
+    alt:
+      en: "Close-up of a row of rusted corrugated metal sheet piling driven into the ground, with additional stacked metal sheeting visible in the blurred background."
 geo:
 id: 20204
 item_type: Still Image

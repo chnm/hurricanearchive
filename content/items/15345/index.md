@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-08_6aadc6a6c8.jpg
     thumb: /files/thumbnails/14fb2a166602c814fb2a166606af.jpg
     url: /files/original/14fb2a166602c814fb2a166606af.jpg
+    alt:
+      en: "Damaged, water-stained photograph of a young woman with long curly hair looking down at her hands, standing outdoors near green foliage."
 geo:
 id: 15345
 item_type: Still Image

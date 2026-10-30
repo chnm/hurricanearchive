@@ -21,6 +21,8 @@ files:
     original_filename: 100_0279.JPG
     thumb: /files/thumbnails/14fb2a5e98122514fb2a5e98160a.jpg
     url: /files/original/14fb2a5e98122514fb2a5e98160a.jpg
+    alt:
+      en: "Close-up view of a large ship's bow with anchor chain, viewed from below against a blue sky with the sun creating a lens flare near the top right."
 geo:
 id: 3030
 item_type: Still Image

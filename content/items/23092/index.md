@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0102OEP.JPG
     thumb: /files/thumbnails/14fb29f194eba014fb29f194ef7a.jpg
     url: /files/original/14fb29f194eba014fb29f194ef7a.jpg
+    alt:
+      en: "A blurred photo of a person in a military camouflage uniform, head bowed, holding a small object, seated indoors near a framed picture on the wall."
 geo:
 id: 23092
 item_type: Still Image

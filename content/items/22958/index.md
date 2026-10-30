@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0198media.JPG
     thumb: /files/thumbnails/14fb29f26b904214fb29f26b915d.jpg
     url: /files/original/14fb29f26b904214fb29f26b915d.jpg
+    alt:
+      en: "Five soldiers in camouflage uniforms stand on a sidewalk, one holding a camera and another writing on a notepad, with a damaged building and fire hydrant in the background."
 geo:
 id: 22958
 item_type: Still Image

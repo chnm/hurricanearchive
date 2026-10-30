@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0185tolbertmedia.JPG
     thumb: /files/thumbnails/14fb29f27c576a14fb29f27c5b50.jpg
     url: /files/original/14fb29f27c576a14fb29f27c5b50.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms stand outdoors near a tree-lined walkway, one filming with a video camera while others look on, with a building facade visible in the background."
 geo:
 id: 22952
 item_type: Still Image

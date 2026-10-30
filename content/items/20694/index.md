@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0059-9-25.JPG
     thumb: /files/thumbnails/14fb2a04f9d7d214fb2a04f9dc3c.jpg
     url: /files/original/14fb2a04f9d7d214fb2a04f9dc3c.jpg
+    alt:
+      en: "Aerial view of a flooded industrial waterfront with storage tanks, shipping containers, and a damaged house surrounded by floodwater; stranded boats rest on land near the river in the background."
 geo:
 id: 20694
 item_type: Still Image

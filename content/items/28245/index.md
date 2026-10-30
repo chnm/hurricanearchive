@@ -27,6 +27,8 @@ files:
     original_filename: 384884901_32500bad29.
     thumb: /files/thumbnails/14fb29d2a2efa714fb29d2a2f204.jpg
     url: /files/original/14fb29d2a2efa714fb29d2a2f204.jpg
+    alt:
+      en: "Two men install a large strip-cut photographic portrait in a wooden structure, one standing and applying adhesive to the strips while the other crouches below holding them in place."
 geo:
 id: 28245
 item_type: Still Image

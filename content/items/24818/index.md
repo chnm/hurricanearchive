@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2140superdome.JPG
     thumb: /files/thumbnails/14fb29e4988f9514fb29e4989374.jpg
     url: /files/original/14fb29e4988f9514fb29e4989374.jpg
+    alt:
+      en: "Military police in camouflage uniforms, one wearing \"MP\" armband and blue gloves, stand near a folding table inside a building entrance where civilians sit and wait, with glass doors marked \"PUSH\" in the background."
 geo:
 id: 24818
 item_type: Still Image

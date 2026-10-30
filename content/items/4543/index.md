@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0745.JPG
     thumb: /files/thumbnails/14fb2a570b8a1514fb2a570b8e04.jpg
     url: /files/original/14fb2a570b8a1514fb2a570b8e04.jpg
+    alt:
+      en: "Silhouetted trees with bare, wind-damaged branches stand against a cloudy sky with the sun partially breaking through, suggesting storm aftermath."
 geo:
 id: 4543
 item_type: Still Image

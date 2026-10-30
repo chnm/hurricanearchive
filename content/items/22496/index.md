@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1337Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5d28a1014fb29f5d28df4.jpg
     url: /files/original/14fb29f5d28a1014fb29f5d28df4.jpg
+    alt:
+      en: "Floodwater submerges a low-lying area with only rooftops, utility poles, power lines, and treetops visible above the murky water under a heavy gray overcast sky."
 geo:
 id: 22496
 item_type: Still Image

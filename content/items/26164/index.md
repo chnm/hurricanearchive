@@ -21,6 +21,8 @@ files:
     original_filename: gidget_fdd9df516e.jpg
     thumb: /files/thumbnails/14fb29d9eeb4c114fb29d9eeb8a6.jpg
     url: /files/original/14fb29d9eeb4c114fb29d9eeb8a6.jpg
+    alt:
+      en: "Composite portrait of a smiling woman in a blazer with a fleur-de-lis pin, labeled \"Elizabeth McDougall,\" set against background images of a tree-lined road, boats, and a building, under a \"Tourism\" banner."
 geo:
 id: 26164
 item_type: Still Image

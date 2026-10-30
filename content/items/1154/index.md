@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28024.jpg
     thumb: /files/thumbnails/14fb2a6ac1124a14fb2a6ac116b7.jpg
     url: /files/original/14fb2a6ac1124a14fb2a6ac116b7.jpg
+    alt:
+      en: "Gravel lot and debris-filled canal near the 17th Street Canal breach, with damaged homes, uprooted trees, and two people working near the water's edge."
 geo:
   address: ''
   lat: 0.0

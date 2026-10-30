@@ -21,6 +21,8 @@ files:
     original_filename: DSC00966.JPG
     thumb: /files/thumbnails/14fb2a58cbf15c14fb2a58cbf540.jpg
     url: /files/original/14fb2a58cbf15c14fb2a58cbf540.jpg
+    alt:
+      en: "Dock scene with several boats moored along a wooden pier, personnel in dark uniforms standing near the vessels, generators and equipment on the concrete walkway, and storm-damaged trees visible in the background; timestamp reads 9:11 AM."
 geo:
 id: 3945
 item_type: Still Image

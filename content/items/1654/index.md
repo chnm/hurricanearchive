@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28300.jpg
     thumb: /files/thumbnails/14fb2a6743891f14fb2a67438cf4.jpg
     url: /files/original/14fb2a6743891f14fb2a67438cf4.jpg
+    alt:
+      en: "Elevated concrete slab foundation on wooden supports amid storm debris, with bare, damaged trees and a partially destroyed building frame in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0339.JPG
     thumb: /files/thumbnails/14fb2a5493ed4d14fb2a5493f13b.jpg
     url: /files/original/14fb2a5493ed4d14fb2a5493f13b.jpg
+    alt:
+      en: "Debris-strewn roadside with a damaged dumpster, scattered wood and papers, a utility pole, and collapsed or damaged structures visible along the street in the background."
 geo:
 id: 4994
 item_type: Still Image

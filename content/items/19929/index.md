@@ -21,6 +21,8 @@ files:
     original_filename: Picture 025cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c5d5df914fb2a0c5d6221.jpg
     url: /files/original/14fb2a0c5d5df914fb2a0c5d6221.jpg
+    alt:
+      en: "Boarded-up storefronts line a street, including \"Carol Robinson Gallery,\" with a large debris pile curbside near a tree and traffic light, grass and fallen leaves in the foreground."
 geo:
 id: 19929
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: IMG004_5b0e54b5a7.JPG
     thumb: /files/thumbnails/14fb2a6d5aeca214fb2a6d5af087.jpg
     url: /files/original/14fb2a6d5aeca214fb2a6d5af087.jpg
+    alt:
+      en: "A water-damaged interior wall with an arched niche holding a small shelf, the plaster stained and streaked with grime and mold from flooding."
 geo:
   address: ''
   lat: 0.0

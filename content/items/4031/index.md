@@ -21,6 +21,8 @@ files:
     original_filename: DSC01147.JPG
     thumb: /files/thumbnails/14fb2a585e571914fb2a585e5aff.jpg
     url: /files/original/14fb2a585e571914fb2a585e5aff.jpg
+    alt:
+      en: "A U.S. Coast Guard orange-and-white helicopter hovers low over a levee lined with sandbags, with a body of water and chain-link fence in the foreground; timestamp reads 9:05 AM."
 geo:
 id: 4031
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27981.jpg
     thumb: /files/thumbnails/14fb2a6b3ade2b14fb2a6b3ae21a.jpg
     url: /files/original/14fb2a6b3ade2b14fb2a6b3ae21a.jpg
+    alt:
+      en: "Road signs reading \"ROAD WORK AHEAD\" above directional markers for Interstate 610 West (straight) and East (right turn), mounted on posts beside a street with trees in the background."
 geo:
   address: ''
   lat: 0.0

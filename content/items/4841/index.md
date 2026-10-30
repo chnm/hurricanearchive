@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0160.JPG
     thumb: /files/thumbnails/14fb2a5535b75214fb2a5535bb37.jpg
     url: /files/original/14fb2a5535b75214fb2a5535bb37.jpg
+    alt:
+      en: "Interior wall cavity with exposed wood studs and reflective foil-backed insulation covered in condensation droplets; a yellow tape measure stretches across the studs, and white wiring runs vertically behind it."
 geo:
 id: 4841
 item_type: Still Image

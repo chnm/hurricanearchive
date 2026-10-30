@@ -21,6 +21,8 @@ files:
     original_filename: Picture 028cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c57bcf214fb2a0c57c0d6.jpg
     url: /files/original/14fb2a0c57bcf214fb2a0c57c0d6.jpg
+    alt:
+      en: "Damaged Rite Aid Pharmacy storefront with boarded windows and storm debris scattered on the sidewalk; military personnel and a bicycle stand on the grass nearby, with a truck visible in the foreground."
 geo:
 id: 19932
 item_type: Still Image

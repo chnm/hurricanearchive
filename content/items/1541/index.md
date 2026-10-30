@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28079.jpg
     thumb: /files/thumbnails/14fb2a681685cc14fb2a681689b1.jpg
     url: /files/original/14fb2a681685cc14fb2a681689b1.jpg
+    alt:
+      en: "Abandoned Rally's fast food restaurant with damaged roof and debris-covered lot, surrounded by bare trees and distant high-rise buildings under a clear sky."
 geo:
   address: ''
   lat: 0.0

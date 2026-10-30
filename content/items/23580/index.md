@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0321neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29eeb3aff914fb29eeb3b3de.jpg
     url: /files/original/14fb29eeb3aff914fb29eeb3b3de.jpg
+    alt:
+      en: "A street covered in dried mud or ash, with a bent \"Speed Limit 25\" sign leaning toward the ground and dark vehicles parked along the road."
 geo:
 id: 23580
 item_type: Still Image

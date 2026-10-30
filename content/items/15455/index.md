@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TylerColeman_04_d29bfc5e5f.jpg
     thumb: /files/thumbnails/14fb2a1649992514fb2a16499a71.jpg
     url: /files/original/14fb2a1649992514fb2a16499a71.jpg
+    alt:
+      en: "A classroom of young children in white-and-navy school uniforms wearing blue cone-shaped party hats, gathered around a table with a sign reading \"Table Toys Center\" visible behind them."
 geo:
 id: 15455
 item_type: Still Image

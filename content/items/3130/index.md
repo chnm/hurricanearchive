@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (14).JPG
     thumb: /files/thumbnails/14fb2a5dc9432214fb2a5dc94bc4.jpg
     url: /files/original/14fb2a5dc9432214fb2a5dc94bc4.jpg
+    alt:
+      en: "A large flatbed truck hauling a shipping container is stopped at a traffic light intersection, with a worker in an orange vest standing nearby and a pickup truck waiting behind."
 geo:
 id: 3130
 item_type: Still Image

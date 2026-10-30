@@ -23,6 +23,8 @@ files:
     original_filename: 160511223_e1dabb9f0a.jpg
     thumb: /files/thumbnails/14fb29d215e1d614fb29d215e663.jpg
     url: /files/original/14fb29d215e1d614fb29d215e663.jpg
+    alt:
+      en: "Damaged houses with barred windows and torn siding, spray-painted with \"128 GPS\" and \"127,\" debris scattered in the yard between the structures."
 geo:
 id: 28621
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0033.JPG
     thumb: /files/thumbnails/14fb2a1bb0d16214fb2a1bb0d54d.jpg
     url: /files/original/14fb2a1bb0d16214fb2a1bb0d54d.jpg
+    alt:
+      en: "Interior of a large warehouse or hangar at night, with military personnel in camouflage and desert uniforms standing and walking across a reflective concrete floor near open bay doors."
 geo:
   address: ''
   lat: 0.0

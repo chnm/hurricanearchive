@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7655.JPG
     thumb: /files/thumbnails/14fb29cc89268c14fb29cc892a71.jpg
     url: /files/original/14fb29cc89268c14fb29cc892a71.jpg
+    alt:
+      en: "Uprooted trees and debris line a gravel road beside a wooded area, with a large overturned root mass in the foreground and a tan van parked on the right."
 geo:
 id: 30774
 item_type: Still Image

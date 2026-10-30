@@ -21,6 +21,8 @@ files:
     original_filename: Inside Quarters at Jack Brks 3Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4fbc88d14fb29f4fbcc72.jpg
     url: /files/original/14fb29f4fbc88d14fb29f4fbcc72.jpg
+    alt:
+      en: "Flood-damaged interior with mud-streaked walls and floor, two soiled chairs near a staircase, a person standing in a doorway, and a trash can with debris; dated 09.15.2005."
 geo:
 id: 22630
 item_type: Still Image

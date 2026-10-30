@@ -21,6 +21,8 @@ files:
     original_filename: MVC-005S.JPG
     thumb: /files/thumbnails/14fb2a5fa91e2114fb2a5fa92211.jpg
     url: /files/original/14fb2a5fa91e2114fb2a5fa92211.jpg
+    alt:
+      en: "A large ceramic electrical bushing insulator with a dark glazed ribbed body and metal top fittings, mounted through a wall with a small surge arrester device beside it."
 geo:
 id: 2882
 item_type: Still Image

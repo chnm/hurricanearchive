@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007OEP.JPG
     thumb: /files/thumbnails/14fb29f231054014fb29f2310926.jpg
     url: /files/original/14fb29f231054014fb29f2310926.jpg
+    alt:
+      en: "Satellite news trucks, including one marked \"WBRZ News Louisiana,\" along with utility vans and a golf cart, parked in a lot lined with trees and tents."
 geo:
 id: 22997
 item_type: Still Image

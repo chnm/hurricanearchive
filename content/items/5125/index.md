@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0487.JPG
     thumb: /files/thumbnails/14fb2a53d1a52514fb2a53d1a915.jpg
     url: /files/original/14fb2a53d1a52514fb2a53d1a915.jpg
+    alt:
+      en: "Pink single-story house with storm-damaged roof and torn fascia/gutter hanging loose at the corner, bare trees and blue sky in background, red container on the lawn."
 geo:
 id: 5125
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09180006plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec4e9c9914fb29ec4ea075.jpg
     url: /files/original/14fb29ec4e9c9914fb29ec4ea075.jpg
+    alt:
+      en: "Industrial equipment including a yellow crane and blue trailer structure sits atop a rusted barge wall, with a grassy levee and power lines in the foreground under a clear sky."
 geo:
 id: 23936
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-12.jpg
     thumb: /files/thumbnails/14fb29d06dd7b614fb29d06ddd7b.jpg
     url: /files/original/14fb29d06dd7b614fb29d06ddd7b.jpg
+    alt:
+      en: "Army troops rest and gather among piles of duffel bags, gear, and supplies under an open-sided aircraft shelter, with cots, water bottles, and a cooler scattered across the tarmac."
 geo:
 id: 29043
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2380907480_926fae67cf.
     thumb: /files/thumbnails/14fb29ca3982d014fb29ca3986c2.jpg
     url: /files/original/14fb29ca3982d014fb29ca3986c2.jpg
+    alt:
+      en: "A three-story coastal home with white balcony railings and palm trees in the yard, with floodwater rushing over a low wall in the foreground."
 geo:
   address: ''
   lat: 30.22437

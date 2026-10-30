@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28091.jpg
     thumb: /files/thumbnails/14fb2a682b38e914fb2a682b3bce.jpg
     url: /files/original/14fb2a682b38e914fb2a682b3bce.jpg
+    alt:
+      en: "Large outdoor menorah sculpture with glass lamp covers on its branches, mounted on a stone base in front of a brick building, with a palm tree to the left and groundcover plants below."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0361.JPG
     thumb: /files/thumbnails/14fb2a5467ad5814fb2a5467b13d.jpg
     url: /files/original/14fb2a5467ad5814fb2a5467b13d.jpg
+    alt:
+      en: "A yellow tape measure hangs vertically from a wooden beam, measuring the height of a horizontal support beam attached to a vertical post, with trees visible in the background."
 geo:
 id: 5016
 item_type: Still Image

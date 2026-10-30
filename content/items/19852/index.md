@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d25050614fb2a0d2508dd.jpg
     url: /files/original/14fb2a0d25050614fb2a0d2508dd.jpg
+    alt:
+      en: "Blurred worker in a white hardhat and sunglasses stands in a wood-framed construction interior, with a mirror reflecting a person in camouflage filming with a camcorder."
 geo:
 id: 19852
 item_type: Still Image

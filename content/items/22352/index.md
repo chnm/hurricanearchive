@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1168Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7139d1914fb29f713a0ff.jpg
     url: /files/original/14fb29f7139d1914fb29f713a0ff.jpg
+    alt:
+      en: "Floodwater rushes past a brick building with white-trimmed doorway, dark shutters, and a lamppost, with a wall sign reading \"Bruner Hall\" partially visible above the rising water."
 geo:
 id: 22352
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0228downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14bcd5a314fb2a14bcd988.jpg
     url: /files/original/14fb2a14bcd5a314fb2a14bcd988.jpg
+    alt:
+      en: "Aerial view of a deserted downtown street with a landscaped median strewn with debris, scattered parked vehicles, and surrounding high-rise and low-rise buildings."
 geo:
 id: 18878
 item_type: Still Image

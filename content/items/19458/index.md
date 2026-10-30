@@ -21,6 +21,8 @@ files:
     original_filename: Picture 018engineers.jpg
     thumb: /files/thumbnails/14fb2a0fe6285f14fb2a0fe62c21.jpg
     url: /files/original/14fb2a0fe6285f14fb2a0fe62c21.jpg
+    alt:
+      en: "A man in camouflage pants and tan shirt uses a Stihl chainsaw to cut through a large fallen tree's branches, with a damaged house visible in the background."
 geo:
 id: 19458
 item_type: Still Image

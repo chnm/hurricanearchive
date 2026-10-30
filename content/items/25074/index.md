@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1660superdome.JPG
     thumb: /files/thumbnails/14fb29e2817bbd14fb29e2818036.jpg
     url: /files/original/14fb29e2817bbd14fb29e2818036.jpg
+    alt:
+      en: "Flooded roadway beneath an elevated highway interchange, with military trucks and a Humvee moving through standing water; overhead signs read \"To West I-10,\" \"Baton Rouge,\" and \"Slidell.\""
 geo:
 id: 25074
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1102Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7ead78514fb29f7eade1c.jpg
     url: /files/original/14fb29f7ead78514fb29f7eade1c.jpg
+    alt:
+      en: "Floodwater submerges a vehicle (only its roof visible) amid floating debris including coolers, buckets, plastic containers, and a rusted barrel, under overcast skies."
 geo:
 id: 22291
 item_type: Still Image

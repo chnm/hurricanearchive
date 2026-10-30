@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_5001_c97e311207.jpg
     thumb: /files/thumbnails/14fb2a1e1a9c6814fb2a1e1aa0c1.jpg
     url: /files/original/14fb2a1e1a9c6814fb2a1e1aa0c1.jpg
+    alt:
+      en: "Sharon stands behind Jonathan and Jerome, who wears a graduation cap, gown, and medal, outdoors near a chain-link fence with a crowd in the background."
 geo:
 id: 13392
 item_type: Still Image

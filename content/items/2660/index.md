@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9234.jpg
     thumb: /files/thumbnails/14fb2a6169089114fb2a61691499.jpg
     url: /files/original/14fb2a6169089114fb2a61691499.jpg
+    alt:
+      en: "Collapsed gymnasium and classroom building at Cameron Elementary School, with twisted metal roofing, exposed steel framing, and scattered furniture and lockers strewn across the debris field under a clear sky."
 geo:
 id: 2660
 item_type: Still Image

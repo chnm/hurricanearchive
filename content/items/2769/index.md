@@ -21,6 +21,8 @@ files:
     original_filename: 64.jpg
     thumb: /files/thumbnails/14fb2a6047289814fb2a60472c92.jpg
     url: /files/original/14fb2a6047289814fb2a60472c92.jpg
+    alt:
+      en: "An acrostic poem for \"KATRINA\" written in colorful markers, spelling out words like \"kind,\" \"angry,\" \"terrible,\" \"rough,\" \"ill,\" \"noisy,\" and \"afraid,\" signed \"Shanaye Age-12.\""
 geo:
 id: 2769
 item_type: Still Image

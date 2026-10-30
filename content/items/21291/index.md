@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0219-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff9c7ac314fb29ff9c7ea6.jpg
     url: /files/original/14fb29ff9c7ac314fb29ff9c7ea6.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood, with rows of houses reduced to scattered debris and collapsed roofs, surrounded by damaged trees and a hazy horizon with a distant water tower."
 geo:
 id: 21291
 item_type: Still Image

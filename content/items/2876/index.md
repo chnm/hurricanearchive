@@ -21,6 +21,8 @@ files:
     original_filename: MVC-033S.JPG
     thumb: /files/thumbnails/14fb2a5fad927c14fb2a5fad965d.jpg
     url: /files/original/14fb2a5fad927c14fb2a5fad965d.jpg
+    alt:
+      en: "Dark interior room with vintage electronic equipment featuring dials and a red indicator light, viewed through a cracked glass door or window panel in the foreground."
 geo:
 id: 2876
 item_type: Still Image

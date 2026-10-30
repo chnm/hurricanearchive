@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9515.jpg
     thumb: /files/thumbnails/14fb2a645e9cf314fb2a645ea0d7.jpg
     url: /files/original/14fb2a645e9cf314fb2a645ea0d7.jpg
+    alt:
+      en: "Damaged white sedan spray-painted with \"9/29 HSUS, 1 DEAD DOG, 2 DEAD CATS, 1 DEAD BIRD,\" parked before a boarded-up, graffiti-marked concrete building with broken windows."
 geo:
 id: 2596
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0620.JPG
     thumb: /files/thumbnails/14fb2a56575e9e14fb2a56576283.jpg
     url: /files/original/14fb2a56575e9e14fb2a56576283.jpg
+    alt:
+      en: "Pink wooden house with storm-damaged metal roofing stripped back to exposed wooden framing, two shuttered windows below, trees visible in bright sky above."
 geo:
 id: 4669
 item_type: Still Image

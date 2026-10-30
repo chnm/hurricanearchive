@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (70).JPG
     thumb: /files/thumbnails/14fb2a5d367d3f14fb2a5d368349.jpg
     url: /files/original/14fb2a5d367d3f14fb2a5d368349.jpg
+    alt:
+      en: "Street view of a commercial strip with a large bare tree in the foreground, a \"Fulton Expressions\" sign on a tan building, and \"The Showroom\" sign on an adjacent storefront with dirt lot and curb."
 geo:
 id: 3223
 item_type: Still Image

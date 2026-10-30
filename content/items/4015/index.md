@@ -21,6 +21,8 @@ files:
     original_filename: DSC01123.JPG
     thumb: /files/thumbnails/14fb2a588288db14fb2a58828ccb.jpg
     url: /files/original/14fb2a588288db14fb2a58828ccb.jpg
+    alt:
+      en: "Floodwater surrounds a long storage building with a damaged metal roof, one panel torn loose and hanging down the wall, under a large tree; timestamp reads \"6 11:35 AM.\""
 geo:
 id: 4015
 item_type: Still Image

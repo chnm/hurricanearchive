@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-03_269f9eeffc.jpg
     thumb: /files/thumbnails/14fb2a166913c914fb2a166917a6.jpg
     url: /files/original/14fb2a166913c914fb2a166917a6.jpg
+    alt:
+      en: "Damaged photograph of two children, their faces distorted and overlapping, water damage and discoloration obscuring much of the image in mottled yellow, brown, and pink tones."
 geo:
 id: 15340
 item_type: Still Image

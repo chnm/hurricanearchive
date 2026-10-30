@@ -21,6 +21,8 @@ files:
     original_filename: Picture 346-J2.jpg
     thumb: /files/thumbnails/14fb29fa1a07f514fb29fa1a119a.jpg
     url: /files/original/14fb29fa1a07f514fb29fa1a119a.jpg
+    alt:
+      en: "Storm debris and fallen tree limbs scattered across a grassy roadside, with a capsized boat near the street and a yellow building in the background; a speed limit sign reads \"20.\""
 geo:
 id: 22015
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0101Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d1055314fb29f4d10946.jpg
     url: /files/original/14fb29f4d1055314fb29f4d10946.jpg
+    alt:
+      en: "An empty glass bottle lies discarded among dried leaves, gravel, and a clump of variegated grass; the photo is timestamped 09.15.2005 in the corner."
 geo:
 id: 22666
 item_type: Still Image

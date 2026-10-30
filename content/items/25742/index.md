@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-20KPyockeywithsanta_459cd1be87.jpg
     thumb: /files/thumbnails/14fb29dc7c4bdc14fb29dc7c4fc2.jpg
     url: /files/original/14fb29dc7c4bdc14fb29dc7c4fc2.jpg
+    alt:
+      en: "A vintage, faded photograph of Karen and Yockey Patcheco seated with Santa Claus on a decorative throne, with a red and white backdrop and ornate snowflake designs."
 geo:
 id: 25742
 item_type: Still Image

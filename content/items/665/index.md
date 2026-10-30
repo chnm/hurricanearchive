@@ -26,6 +26,8 @@ files:
     original_filename: 100_6946_bda8ed577a.JPG
     thumb: /files/thumbnails/14fb2a6f31d66014fb2a6f31da45.jpg
     url: /files/original/14fb2a6f31d66014fb2a6f31da45.jpg
+    alt:
+      en: "A toppled white steeple lies broken against the sloped roof of a brick church, its base torn away near the gutter, with a parked SUV visible below."
 geo:
   address: ''
   lat: 30.005653

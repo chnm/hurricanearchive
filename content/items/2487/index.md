@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8555.jpg
     thumb: /files/thumbnails/14fb2a65fb043214fb2a65fb0812.jpg
     url: /files/original/14fb2a65fb043214fb2a65fb0812.jpg
+    alt:
+      en: "A severely damaged, partially collapsed house with exposed insulation and broken windows stands amid scattered debris, with a rusted basketball hoop in the foreground, under a cloudy sky."
 geo:
 id: 2487
 item_type: Still Image

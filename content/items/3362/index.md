@@ -21,6 +21,8 @@ files:
     original_filename: SS St. Bernard (3).jpg
     thumb: /files/thumbnails/14fb2a5c2c476a14fb2a5c2c4a75.jpg
     url: /files/original/14fb2a5c2c476a14fb2a5c2c4a75.jpg
+    alt:
+      en: "Row of utility poles leaning at sharp angles along a roadside, with storm debris, a discarded mattress, and a white plastic stool in the foreground grass."
 geo:
 id: 3362
 item_type: Still Image

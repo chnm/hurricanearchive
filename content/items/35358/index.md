@@ -21,6 +21,8 @@ files:
     original_filename: 12_ece8ddebaa.jpg
     thumb: /files/thumbnails/14fb29c60317da14fb29c6031f97.jpg
     url: /files/original/14fb29c60317da14fb29c6031f97.jpg
+    alt:
+      en: "Postcard of the Saturn Bar at dusk, with a hanging sign reading \"Saturn Bar\" featuring a planet logo, neon tubing outlining the building's eaves and a window, and cars parked along the street."
 geo:
   address: 3067 Saint Claude Ave, New Orleans, LA
   lat: 29.96784

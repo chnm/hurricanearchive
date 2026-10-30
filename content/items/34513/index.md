@@ -27,6 +27,8 @@ files:
     original_filename: 2292057656_fbfcbb8290.
     thumb: /files/thumbnails/14fb29c99c1b9314fb29c99c1f70.jpg
     url: /files/original/14fb29c99c1b9314fb29c99c1f70.jpg
+    alt:
+      en: "Debris of splintered wood planks, dried grass, and branches piled high on a street, with a damaged car partially buried and a storm-damaged house raised on pilings in the background."
 geo:
   address: ''
   lat: 30.22539

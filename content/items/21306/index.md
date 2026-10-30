@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0223-9-25.JPG
     thumb: /files/thumbnails/14fb29ff91311314fb29ff9134f7.jpg
     url: /files/original/14fb29ff91311314fb29ff9134f7.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with two metal-roofed buildings surrounded by standing water, submerged fields, and partially flooded trees."
 geo:
 id: 21306
 item_type: Still Image

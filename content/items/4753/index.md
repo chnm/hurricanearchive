@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0263.JPG
     thumb: /files/thumbnails/14fb2a55bc0b5a14fb2a55bc0f39.jpg
     url: /files/original/14fb2a55bc0b5a14fb2a55bc0f39.jpg
+    alt:
+      en: "Two-story apartment buildings with exterior staircases, surrounded by storm debris including broken furniture, scattered building materials, and trash piled across the parking lot and lawn."
 geo:
 id: 4753
 item_type: Still Image

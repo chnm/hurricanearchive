@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0318.JPG
     thumb: /files/thumbnails/14fb2a54ac5bb714fb2a54ac5f91.jpg
     url: /files/original/14fb2a54ac5bb714fb2a54ac5f91.jpg
+    alt:
+      en: "A raised white house with an elevated staircase leading to the back entrance, surrounded by storm debris, damaged decking, and bare dirt yard, with a neighboring house visible at left."
 geo:
 id: 4973
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: Lyndel damage (6) (2)_83bcf92e8c.jpg
     thumb: /files/thumbnails/14fb29ca7d715214fb29ca7d8612.jpg
     url: /files/original/14fb29ca7d715214fb29ca7d8612.jpg
+    alt:
+      en: "Severely damaged bedroom with collapsed ceiling debris, torn insulation, and a dirty curtain hanging over a window, surrounded by scattered rubble and water-stained walls."
 geo:
   address: ''
   lat: 0.0

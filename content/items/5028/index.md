@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0373.JPG
     thumb: /files/thumbnails/14fb2a5457067e14fb2a54570a64.jpg
     url: /files/original/14fb2a5457067e14fb2a54570a64.jpg
+    alt:
+      en: "A metal-sided building lies partially submerged and tilted in floodwater, surrounded by debris, fallen branches, and a wooden dock, with a toy lawnmower resting on the grass nearby."
 geo:
 id: 5028
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0165.JPG
     thumb: /files/thumbnails/14fb2a552dc3e014fb2a552dcd14.jpg
     url: /files/original/14fb2a552dc3e014fb2a552dcd14.jpg
+    alt:
+      en: "Interior wall framing with exposed wooden studs wrapped in reflective insulation, topped by a textured popcorn ceiling, metal brackets visible at the joints."
 geo:
 id: 4846
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: dried swamp2.jpg
     thumb: /files/thumbnails/14fb2a1ebdd4ee14fb2a1ebdd7f6.jpg
     url: /files/original/14fb2a1ebdd4ee14fb2a1ebdd7f6.jpg
+    alt:
+      en: "Dried swamp bed with numerous bare tree stumps and stakes protruding from patchy grass and shallow water, bordered by a dense tree line under a pale sky."
 geo:
 id: 13244
 item_type: Still Image

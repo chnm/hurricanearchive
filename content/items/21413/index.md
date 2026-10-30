@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0250-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fee2c51314fb29fee2c8f9.jpg
     url: /files/original/14fb29fee2c51314fb29fee2c8f9.jpg
+    alt:
+      en: "Aerial view of widespread flooding with a teal house and a white-roofed structure surrounded by water, scattered trees, and small patches of partially submerged land."
 geo:
 id: 21413
 item_type: Still Image

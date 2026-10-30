@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1375Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f593303114fb29f5933292.jpg
     url: /files/original/14fb29f593303114fb29f5933292.jpg
+    alt:
+      en: "Floodwaters surround a house with a peaked gray roof and orange trim, a small boat floating near its porch, under a dark, stormy sky with bent trees and power lines."
 geo:
 id: 22534
 item_type: Still Image

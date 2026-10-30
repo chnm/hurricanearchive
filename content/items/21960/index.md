@@ -21,6 +21,8 @@ files:
     original_filename: Picture 291-J2.jpg
     thumb: /files/thumbnails/14fb29fad3c44a14fb29fad3c842.jpg
     url: /files/original/14fb29fad3c44a14fb29fad3c842.jpg
+    alt:
+      en: "A multi-story apartment building with balconies stands above floodwater that has submerged its ground floor, with support columns and windows partially visible beneath the murky water's surface."
 geo:
 id: 21960
 item_type: Still Image

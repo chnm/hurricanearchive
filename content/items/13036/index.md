@@ -21,6 +21,8 @@ files:
     original_filename: before courtyard3.jpg
     thumb: /files/thumbnails/14fb2a20ed7f2f14fb2a20ed8360.jpg
     url: /files/original/14fb2a20ed7f2f14fb2a20ed8360.jpg
+    alt:
+      en: "Aerial view of a brick courtyard with flowering crape myrtle trees, potted plants, benches, and trash receptacles, bordered by buildings with brown metal awnings and a paved plaza beyond."
 geo:
 id: 13036
 item_type: Still Image

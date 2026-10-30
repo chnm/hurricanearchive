@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1940superdome.JPG
     thumb: /files/thumbnails/14fb29e07b608314fb29e07b646c.jpg
     url: /files/original/14fb29e07b608314fb29e07b646c.jpg
+    alt:
+      en: "A large U.S. Army Chinook helicopter sits on a rooftop helipad as two soldiers in camouflage uniforms jog toward it, with city buildings, including \"LSU Medical Center,\" visible in the background."
 geo:
 id: 25242
 item_type: Still Image

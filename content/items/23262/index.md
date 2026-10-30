@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2259neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f0387b8014fb29f0387f5d.jpg
     url: /files/original/14fb29f0387b8014fb29f0387f5d.jpg
+    alt:
+      en: "Storm-damaged neighborhood viewed from a military vehicle, with debris-covered lots, a leaning utility pole, tangled power lines, and a Humvee parked on the street beside surviving houses."
 geo:
 id: 23262
 item_type: Still Image

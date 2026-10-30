@@ -21,6 +21,8 @@ files:
     original_filename: mrs_a9e9fccc2d.brennan's homeroom.jpg
     thumb: /files/thumbnails/14fb29d77a1ea714fb29d77a228d.jpg
     url: /files/original/14fb29d77a1ea714fb29d77a228d.jpg
+    alt:
+      en: "Black-and-white yearbook photo of a group of students seated atop a scoreboard reading \"OWLS\" and \"VISITOR,\" with more classmates standing below; captioned \"Mrs. Brennan's Homeroom.\""
 geo:
 id: 26845
 item_type: Still Image

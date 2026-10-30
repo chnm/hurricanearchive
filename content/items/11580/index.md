@@ -20,6 +20,8 @@ files:
     original_filename: Chalmette shrimp boats_df03e43d75.jpg
     thumb: /files/thumbnails/14fb2a2475a87114fb2a2475ac50.jpg
     url: /files/original/14fb2a2475a87114fb2a2475ac50.jpg
+    alt:
+      en: "Row of wrecked shrimp boats tilted and tangled together in still water, their masts and rigging crisscrossed in disarray, reflected on the calm surface below a clear blue sky."
 geo:
   address: Chalmette, LA
   lat: 29.97263

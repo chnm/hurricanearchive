@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049-15.JPG
     thumb: /files/thumbnails/14fb2a0573a27814fb2a0573a65f.jpg
     url: /files/original/14fb2a0573a27814fb2a0573a65f.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses submerged to their rooflines, damaged roofs, floating debris, and partially submerged vehicles amid murky green floodwater."
 geo:
 id: 20647
 item_type: Still Image

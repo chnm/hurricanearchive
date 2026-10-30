@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7019_50ed388828.jpg
     thumb: /files/thumbnails/14fb29db6582a214fb29db658687.jpg
     url: /files/original/14fb29db6582a214fb29db658687.jpg
+    alt:
+      en: "Black-and-white group portrait of twelve men and women, members of the B-Sharp Music Club, posed in two rows outdoors in front of a porch with climbing vines."
 geo:
   address: ''
   lat: 29.91685

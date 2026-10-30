@@ -21,6 +21,8 @@ files:
     original_filename: aerials32.jpg
     thumb: /files/thumbnails/14fb2a19d5f6a214fb2a19d5fa88.jpg
     url: /files/original/14fb2a19d5f6a214fb2a19d5fa88.jpg
+    alt:
+      en: "Aerial view of storm-damaged property with debris scattered across a cleared lot, a white vehicle parked near a house, and a car driving on an adjacent road lined with downed trees."
 geo:
 id: 14319
 item_type: Still Image

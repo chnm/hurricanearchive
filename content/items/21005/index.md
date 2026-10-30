@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0166-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a011bab9314fb2a011baf77.jpg
     url: /files/original/14fb2a011bab9314fb2a011baf77.jpg
+    alt:
+      en: "Aerial view of floodwaters submerging a residential area, with only a brick chimney, remnants of a foundation, and debris-laden trees protruding above the water's surface."
 geo:
 id: 21005
 item_type: Still Image

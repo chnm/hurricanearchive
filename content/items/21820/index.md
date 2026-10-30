@@ -21,6 +21,8 @@ files:
     original_filename: 17th Avenue 2 small.jpg
     thumb: /files/thumbnails/14fb29fb7cee5514fb29fb7cf23b.jpg
     url: /files/original/14fb29fb7cee5514fb29fb7cf23b.jpg
+    alt:
+      en: "Aerial black-and-white photo of a dense residential neighborhood split by a straight canal, with rows of houses and tree-lined streets on both sides."
 geo:
 id: 21820
 item_type: Still Image

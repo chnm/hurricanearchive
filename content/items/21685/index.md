@@ -21,6 +21,8 @@ files:
     original_filename: FH000015-9-23.jpg
     thumb: /files/thumbnails/14fb29fc6c6a7c14fb29fc6c6e61.jpg
     url: /files/original/14fb29fc6c6a7c14fb29fc6c6e61.jpg
+    alt:
+      en: "Damaged brick wall and debris in foreground of a parking lot with several vehicles, including a van, trucks, and cars, in front of a large metal warehouse building under a hazy sky."
 geo:
 id: 21685
 item_type: Still Image

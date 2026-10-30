@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28254.jpg
     thumb: /files/thumbnails/14fb2a6723008b14fb2a67290a7b.jpg
     url: /files/original/14fb2a6723008b14fb2a67290a7b.jpg
+    alt:
+      en: "A \"Beach Blvd.\" street sign lies fallen amid storm debris, with a damaged tiled roof and twisted metal wreckage in the background."
 geo:
   address: ''
   lat: 0.0

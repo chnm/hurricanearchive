@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-24-23A.jpg
     thumb: /files/thumbnails/14fb29e839ed0014fb29e839f0d9.jpg
     url: /files/original/14fb29e839ed0014fb29e839f0d9.jpg
+    alt:
+      en: "Heavy rain and wind obscure a residential street lined with utility poles, a lamppost, trees, and parked cars, giving the scene a hazy, storm-swept appearance."
 geo:
 id: 24403
 item_type: Still Image

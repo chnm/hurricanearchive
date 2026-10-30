@@ -21,6 +21,8 @@ files:
     original_filename: Picture 002engineers.jpg
     thumb: /files/thumbnails/14fb2a0ffe0ec214fb2a0ffe12b3.jpg
     url: /files/original/14fb2a0ffe0ec214fb2a0ffe12b3.jpg
+    alt:
+      en: "Two men in military uniforms work with a portable table saw on a plank of wood in a parking lot, with military trucks and a chain-link fence in the background."
 geo:
 id: 19442
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0508.JPG
     thumb: /files/thumbnails/14fb2a53c6800a14fb2a53c6840e.jpg
     url: /files/original/14fb2a53c6800a14fb2a53c6840e.jpg
+    alt:
+      en: "Gravel-covered ground beneath an elevated structure supported by wooden posts on concrete footings, with long shadows cast across the surface and a house visible in the background."
 geo:
 id: 5146
 item_type: Still Image

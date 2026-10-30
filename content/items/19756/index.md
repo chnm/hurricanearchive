@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 143cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dfe5aad14fb2a0dfe5e92.jpg
     url: /files/original/14fb2a0dfe5aad14fb2a0dfe5e92.jpg
+    alt:
+      en: "A portable toilet labeled \"8568\" stands beside a pile of dried tree branches and debris, with several parked cars and a building visible in the background."
 geo:
 id: 19756
 item_type: Still Image

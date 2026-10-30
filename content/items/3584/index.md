@@ -24,6 +24,8 @@ files:
     original_filename: P1010011.JPG
     thumb: /files/thumbnails/14fb2a5ab3b83e14fb2a5ab3bc23.jpg
     url: /files/original/14fb2a5ab3b83e14fb2a5ab3bc23.jpg
+    alt:
+      en: "A large tree has fallen across a chain-link fence, crushing part of it, while a damaged metal pole with wires leans nearby amid scattered dead branches and debris."
 geo:
 id: 3584
 item_type: Still Image

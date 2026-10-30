@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2258neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f039b7ca14fb29f039bbb7.jpg
     url: /files/original/14fb29f039b7ca14fb29f039bbb7.jpg
+    alt:
+      en: "A debris-strewn residential street with sparse, browning trees, scattered household items on dead grass, and modest houses lining both sides under a clear blue sky."
 geo:
 id: 23261
 item_type: Still Image

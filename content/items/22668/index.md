@@ -21,6 +21,8 @@ files:
     original_filename: PICT0138Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4cf0b4a14fb29f4cf0f27.jpg
     url: /files/original/14fb29f4cf0b4a14fb29f4cf0f27.jpg
+    alt:
+      en: "Columned porch with the number \"5\" above it and a street sign reading \"MG Landreneau,\" with a large oak tree and similar historic buildings across a lawn; dated 09.15.2005."
 geo:
 id: 22668
 item_type: Still Image

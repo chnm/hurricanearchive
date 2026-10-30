@@ -26,6 +26,8 @@ files:
     original_filename: i10photo_a5239f7a40.jpg
     thumb: /files/thumbnails/14fb2a7130f6bc14fb2a7130faa1.jpg
     url: /files/original/14fb2a7130f6bc14fb2a7130faa1.jpg
+    alt:
+      en: "Aerial view of a flooded highway and surrounding neighborhoods, with a bridge crossing floodwaters and a city skyline visible in the hazy distance."
 geo:
   address: ''
   lat: 29.958304

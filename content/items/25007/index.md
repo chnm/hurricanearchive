@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1529superdome.JPG
     thumb: /files/thumbnails/14fb29e2fbcc2914fb29e2fbd00d.jpg
     url: /files/original/14fb29e2fbcc2914fb29e2fbd00d.jpg
+    alt:
+      en: "Military and law enforcement personnel, along with civilians, walk across a concrete lot near a wooden staircase and a \"Welcome to New Orleans\" sign, with an elevated highway visible in the background."
 geo:
 id: 25007
 item_type: Still Image

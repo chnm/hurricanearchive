@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28692.jpg
     thumb: /files/thumbnails/14fb2a674afac014fb2a674afea5.jpg
     url: /files/original/14fb2a674afac014fb2a674afea5.jpg
+    alt:
+      en: "Woman in a pink top stands beside stalls holding rescued horses, with box fans mounted on the gates to cool the animals; a blue \"10\" is marked on the stall wall."
 geo:
   address: ''
   lat: 0.0

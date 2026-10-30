@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0320-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd65ea1b14fb29fd65ee2f.jpg
     url: /files/original/14fb29fd65ea1b14fb29fd65ee2f.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses, mobile homes, and sheds submerged to varying depths in brown floodwater, surrounded by trees, fences, and scattered vehicles."
 geo:
 id: 21584
 item_type: Still Image

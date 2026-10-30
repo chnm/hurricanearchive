@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1784superdome.JPG
     thumb: /files/thumbnails/14fb29e172d2d614fb29e172d6bc.jpg
     url: /files/original/14fb29e172d2d614fb29e172d6bc.jpg
+    alt:
+      en: "Close-up of a woman with tears on her cheeks being comforted, with another woman's arm around her shoulder and a child nearby holding a white cloth."
 geo:
 id: 25174
 item_type: Still Image

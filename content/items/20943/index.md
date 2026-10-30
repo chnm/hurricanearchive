@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0153-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0165f8e014fb2a0165fcc6.jpg
     url: /files/original/14fb2a0165f8e014fb2a0165fcc6.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with torn-off roofs, surrounded by floodwaters, scattered debris, and a school bus amid a wetland landscape."
 geo:
 id: 20943
 item_type: Still Image

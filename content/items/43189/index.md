@@ -20,6 +20,8 @@ files:
     original_filename: Orleans St_8885d4f9bc. - Al & Mary Polite.jpg
     thumb: /files/thumbnails/14fb29c222318e14fb29c22232a2.jpg
     url: /files/original/14fb29c222318e14fb29c22232a2.jpg
+    alt:
+      en: "A large crowd, many wearing matching blue T-shirts, gathers in front of a yellow and red shotgun-style house during its dedication ceremony, with a few people standing on the porch."
 geo:
   address: 2020 Lowerlline St.
   lat: 0.0

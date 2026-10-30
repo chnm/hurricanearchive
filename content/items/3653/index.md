@@ -24,6 +24,8 @@ files:
     original_filename: P1010089.JPG
     thumb: /files/thumbnails/14fb2a5a57a2b014fb2a5a57a695.jpg
     url: /files/original/14fb2a5a57a2b014fb2a5a57a695.jpg
+    alt:
+      en: "Storm-wrecked residential street strewn with debris—overturned trash cans, broken furniture, a toppled bicycle, and scattered household items—with a large green dump truck parked beside damaged homes."
 geo:
 id: 3653
 item_type: Still Image

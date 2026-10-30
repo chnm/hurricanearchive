@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0295engineers.JPG
     thumb: /files/thumbnails/14fb2a10044e5114fb2a100451dc.jpg
     url: /files/original/14fb2a10044e5114fb2a100451dc.jpg
+    alt:
+      en: "A man in a red hard hat operates a Bobcat skid-steer loader labeled \"763\" and \"NationsRent,\" scooping thick mud or sediment from a flooded street beside a parked car and tree."
 geo:
 id: 19438
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6984_31ff69a07a.jpg
     thumb: /files/thumbnails/14fb29db7f166a14fb29db7f1e18.jpg
     url: /files/original/14fb29db7f166a14fb29db7f1e18.jpg
+    alt:
+      en: "Group portrait of four nuns, the Sisters of the Holy Family, surrounded by rows of men in suits on a building's front steps decorated with American flags and bunting."
 geo:
   address: ''
   lat: 30.14513

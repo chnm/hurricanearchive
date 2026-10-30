@@ -21,6 +21,8 @@ files:
     original_filename: P1010188empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed4b2a8814fb29ed4b30f5.jpg
     url: /files/original/14fb29ed4b2a8814fb29ed4b30f5.jpg
+    alt:
+      en: "Charred debris and scattered appliances line a scorched shoreline behind a marshy, flooded field, with bare trees and power lines visible against a pale sky."
 geo:
 id: 23747
 item_type: Still Image

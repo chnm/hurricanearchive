@@ -21,6 +21,8 @@ files:
     original_filename: S4300199iwojima.JPG
     thumb: /files/thumbnails/14fb2a115d609514fb2a115d647a.jpg
     url: /files/original/14fb2a115d609514fb2a115d647a.jpg
+    alt:
+      en: "Industrial ship galley with stainless steel counters and equipment, white chef coats hanging on a rack, a large insulated pipe labeled \"STM SPLY,\" and decorative fruit on the counter."
 geo:
 id: 19280
 item_type: Still Image

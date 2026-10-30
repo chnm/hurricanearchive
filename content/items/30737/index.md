@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7438.JPG
     thumb: /files/thumbnails/14fb29cca26a9a14fb29cca26e81.jpg
     url: /files/original/14fb29cca26a9a14fb29cca26e81.jpg
+    alt:
+      en: "Uprooted trees with large exposed root balls lie across a grassy field, with snapped trunks and fallen branches scattered amid surrounding greenery."
 geo:
 id: 30737
 item_type: Still Image

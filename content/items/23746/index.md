@@ -21,6 +21,8 @@ files:
     original_filename: P1010187empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed4c6d5614fb29ed4c713b.jpg
     url: /files/original/14fb29ed4c6d5614fb29ed4c713b.jpg
+    alt:
+      en: "Scorched debris and charred wood lie in a flattened heap across a barren, grassy field, with windblown trees and power lines visible against a clear sky in the background."
 geo:
 id: 23746
 item_type: Still Image

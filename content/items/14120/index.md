@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0043.JPG
     thumb: /files/thumbnails/14fb2a1baea48d14fb2a1baea872.jpg
     url: /files/original/14fb2a1baea48d14fb2a1baea872.jpg
+    alt:
+      en: "Two men in military camouflage uniforms sit at a conference table; one speaks on a telephone while the other listens, with a water bottle, coffee cup, cap, and papers on the table."
 geo:
   address: ''
   lat: 0.0

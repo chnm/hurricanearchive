@@ -21,6 +21,8 @@ files:
     original_filename: bumpertrimedtiff.tif
     thumb: /files/thumbnails/14fb29cc52579914fb29cc525b7b.jpg
     url: /files/original/14fb29cc52579914fb29cc525b7b.tif
+    alt:
+      en: "Vintage black-and-white photo of a young woman and small child riding in a small bumper-car style ride on a wooden boardwalk, with large oak trees and onlookers in the background."
 geo:
 id: 30811
 item_type: Document

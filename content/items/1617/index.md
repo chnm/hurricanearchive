@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28212.jpg
     thumb: /files/thumbnails/14fb2a676f13a514fb2a676f172f.jpg
     url: /files/original/14fb2a676f13a514fb2a676f172f.jpg
+    alt:
+      en: "A bent, damaged yellow \"Dangerous Intersection\" road sign stands on a metal post amid debris-strewn, overgrown ground, with a storm-cleared landscape visible in the background."
 geo:
   address: ''
   lat: 0.0

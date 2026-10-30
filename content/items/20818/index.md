@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0085-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0385704a14fb2a03857430.jpg
     url: /files/original/14fb2a0385704a14fb2a03857430.jpg
+    alt:
+      en: "Man in a plaid shirt, cap reading \"Paul's Tire,\" and jeans stands with hands on hips surveying floodwaters surrounding a mobile home, shed, and submerged vehicles amid trees."
 geo:
 id: 20818
 item_type: Still Image

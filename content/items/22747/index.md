@@ -21,6 +21,8 @@ files:
     original_filename: PICT0870Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4403fdb14fb29f44043c0.jpg
     url: /files/original/14fb29f4403fdb14fb29f44043c0.jpg
+    alt:
+      en: "Empty street with debris and overturned vehicles piled near intersection, damaged fencing and brick remnants along roadside, dated 09.15.2005."
 geo:
 id: 22747
 item_type: Still Image

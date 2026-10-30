@@ -21,6 +21,8 @@ files:
     original_filename: PICT0618Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f46e2b2314fb29f46e2f07.jpg
     url: /files/original/14fb29f46e2b2314fb29f46e2f07.jpg
+    alt:
+      en: "Large brick two-story building with white columned balconies, roof damage, and scattered debris on the lawn; date stamp reads 09.15.2005."
 geo:
 id: 22720
 item_type: Still Image

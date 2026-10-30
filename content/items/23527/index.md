@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0163abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef19f6e414fb29ef19fac1.jpg
     url: /files/original/14fb29ef19f6e414fb29ef19fac1.jpg
+    alt:
+      en: "Flooded, storm-damaged building on stilts with a torn roof and debris, surrounded by standing water and fallen branches, with power lines crossing the foreground."
 geo:
 id: 23527
 item_type: Still Image

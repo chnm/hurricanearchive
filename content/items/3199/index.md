@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (49).JPG
     thumb: /files/thumbnails/14fb2a5d5ec7a114fb2a5d5ecb88.jpg
     url: /files/original/14fb2a5d5ec7a114fb2a5d5ecb88.jpg
+    alt:
+      en: "A large fallen tree and scattered broken branches cover a residential street, with storm-damaged houses and an exposed building interior visible in the background."
 geo:
 id: 3199
 item_type: Still Image

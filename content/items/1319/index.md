@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28386.jpg
     thumb: /files/thumbnails/14fb2a69b1a9f514fb2a69b1ac7d.jpg
     url: /files/original/14fb2a69b1a9f514fb2a69b1ac7d.jpg
+    alt:
+      en: "A man in a cap and dark t-shirt stands beneath large hanging shrimp nets on a boat deck, with rigging, a white bucket, and coiled hose nearby."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0294-16.JPG
     thumb: /files/thumbnails/14fb29fda09d6714fb29fda0a3fd.jpg
     url: /files/original/14fb29fda09d6714fb29fda0a3fd.jpg
+    alt:
+      en: "A worker in a red hard hat operates a Bobcat skid-steer loader labeled \"763\" and \"NationsRent,\" scooping thick mud or sludge from a cracked, debris-covered street near a parked car."
 geo:
 id: 21553
 item_type: Still Image

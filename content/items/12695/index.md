@@ -21,6 +21,8 @@ files:
     original_filename: 102-13_0e2deec337.jpg
     thumb: /files/thumbnails/14fb2a21bd3c6a14fb2a21bd4191.jpg
     url: /files/original/14fb2a21bd3c6a14fb2a21bd4191.jpg
+    alt:
+      en: "A woman in a knit sweater coat raises a hand to her forehead, standing in a kitchen with cabinets, canisters, and a decorative wall hanging with vintage car and bicycle illustrations."
 geo:
 id: 12695
 item_type: Still Image

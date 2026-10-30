@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0748.JPG
     thumb: /files/thumbnails/14fb2a570a0f4614fb2a570a1333.jpg
     url: /files/original/14fb2a570a0f4614fb2a570a1333.jpg
+    alt:
+      en: "Damaged waterfront property with a boat lift structure over a canal, surrounded by debris, stripped trees, and the remains of demolished buildings in the background."
 geo:
 id: 4546
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: p_00098_188aa98cea.jpg
     thumb: /files/thumbnails/14fb29c4be3ac314fb29c4be3ea9.jpg
     url: /files/original/14fb29c4be3ac314fb29c4be3ea9.jpg
+    alt:
+      en: "A stripped wooden building frame with exposed rafters and roof trusses stands amid overgrown grass, with a \"Dan Peters Electric\" sign posted on one of the support beams."
 geo:
 id: 40891
 item_type: Still Image

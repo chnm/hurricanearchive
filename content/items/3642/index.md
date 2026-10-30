@@ -24,6 +24,8 @@ files:
     original_filename: P1010077.JPG
     thumb: /files/thumbnails/14fb2a5a827b3514fb2a5a8296fc.jpg
     url: /files/original/14fb2a5a827b3514fb2a5a8296fc.jpg
+    alt:
+      en: "A severely damaged kitchen with soot- and mud-covered cabinets, an open wall oven, and three orange pots left on a grimy stovetop amid scattered debris."
 geo:
 id: 3642
 item_type: Still Image

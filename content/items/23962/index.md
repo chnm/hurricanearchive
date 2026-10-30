@@ -21,6 +21,8 @@ files:
     original_filename: 09180032plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec3b1f1114fb29ec3b22f8.jpg
     url: /files/original/14fb29ec3b1f1114fb29ec3b22f8.jpg
+    alt:
+      en: "Damaged electrical substation with twisted metal framework and leaning utility poles along a roadside, with debris scattered on adjacent dry grass and a vehicle approaching on the two-lane road."
 geo:
 id: 23962
 item_type: Still Image

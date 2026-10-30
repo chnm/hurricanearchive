@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0655.JPG
     thumb: /files/thumbnails/14fb2a5362494614fb2a53624cd8.jpg
     url: /files/original/14fb2a5362494614fb2a53624cd8.jpg
+    alt:
+      en: "A storm-damaged single-story house with a partially torn roof and exposed wall framing, surrounded by scattered debris and a cinder block wall in the foreground, with pine trees in the background."
 geo:
 id: 5210
 item_type: Still Image

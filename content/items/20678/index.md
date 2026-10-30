@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0055-9-25.JPG
     thumb: /files/thumbnails/14fb2a051c2f5b14fb2a051c3340.jpg
     url: /files/original/14fb2a051c2f5b14fb2a051c3340.jpg
+    alt:
+      en: "Aerial view of a muddy pasture with scattered cattle grazing, a water-filled puddle, fencing lines, and farm buildings with parked vehicles visible in the upper right corner."
 geo:
 id: 20678
 item_type: Still Image

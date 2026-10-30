@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0589Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f501b21a14fb29f501b600.jpg
     url: /files/original/14fb29f501b21a14fb29f501b600.jpg
+    alt:
+      en: "Two men in a boat, one in a camouflage uniform and cap, the other in a yellow rain jacket, navigate floodwaters near a two-story brick house with white columns and trees."
 geo:
 id: 22625
 item_type: Still Image

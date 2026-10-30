@@ -21,6 +21,8 @@ files:
     original_filename: P1010177empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed5807c714fb29ed580baf.jpg
     url: /files/original/14fb29ed5807c714fb29ed580baf.jpg
+    alt:
+      en: "Several shrimp boats, including one named \"Sea Flower,\" sit stranded on dry land amid a vast field of storm debris—wood planks, crates, and scattered wreckage—with green grass in the foreground."
 geo:
 id: 23736
 item_type: Still Image

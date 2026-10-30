@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 041cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e8be91214fb2a0e8bedea.jpg
     url: /files/original/14fb2a0e8be91214fb2a0e8bedea.jpg
+    alt:
+      en: "A man in military fatigues guides a forklift as it loads palletized boxes into a trailer truck, with stacks of bottled water visible in the background warehouse."
 geo:
 id: 19654
 item_type: Still Image

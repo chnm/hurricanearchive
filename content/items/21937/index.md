@@ -21,6 +21,8 @@ files:
     original_filename: Picture 268-J2.jpg
     thumb: /files/thumbnails/14fb29faec796e14fb29faec7d41.jpg
     url: /files/original/14fb29faec796e14fb29faec7d41.jpg
+    alt:
+      en: "Close-up of a dark blue Ford truck's front end with the number \"98\" painted on the hood, parked in standing floodwater near a concrete wall."
 geo:
 id: 21937
 item_type: Still Image

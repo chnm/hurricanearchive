@@ -21,6 +21,8 @@ files:
     original_filename: 11 sun no 2 mpcheckpoints.jpg
     thumb: /files/thumbnails/14fb29f351e1bb14fb29f351e59a.jpg
     url: /files/original/14fb29f351e1bb14fb29f351e59a.jpg
+    alt:
+      en: "Soldiers in camouflage stand near a street corner checkpoint beneath a \"Bourbon\" street sign, with a red corner building, balcony, and civilians seated outside a doorway nearby."
 geo:
 id: 22825
 item_type: Still Image

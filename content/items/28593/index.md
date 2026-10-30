@@ -23,6 +23,8 @@ files:
     original_filename: 162411422_471f0d3248.jpg
     thumb: /files/thumbnails/14fb29d2322ab314fb29d2322ea2.jpg
     url: /files/original/14fb29d2322ab314fb29d2322ea2.jpg
+    alt:
+      en: "Overgrown lawn littered with a weathered couch, scattered debris, and broken furniture outside a brick house with storm-damaged windows and a cluttered porch."
 geo:
 id: 28593
 item_type: Still Image

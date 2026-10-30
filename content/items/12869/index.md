@@ -21,6 +21,8 @@ files:
     original_filename: Yacht club 10-29-2.jpg
     thumb: /files/thumbnails/14fb2a2157341c14fb2a21573843.jpg
     url: /files/original/14fb2a2157341c14fb2a21573843.jpg
+    alt:
+      en: "Boats toppled and damaged amid scattered debris at a marina, with masts and hulls strewn across the wreckage under a clear sky."
 geo:
 id: 12869
 item_type: Still Image

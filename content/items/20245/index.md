@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 10.jpg
     thumb: /files/thumbnails/14fb2a0a77454314fb2a0a774925.jpg
     url: /files/original/14fb2a0a77454314fb2a0a774925.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands guard holding a rifle, with rows of white \"Wilderness\" brand travel trailers parked in the background."
 geo:
 id: 20245
 item_type: Still Image

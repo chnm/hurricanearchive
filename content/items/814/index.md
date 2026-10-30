@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28069.jpg
     thumb: /files/thumbnails/14fb2a6ce1cbd814fb2a6ce1cfbe.jpg
     url: /files/original/14fb2a6ce1cbd814fb2a6ce1cfbe.jpg
+    alt:
+      en: "Bent street signs reading \"Robert E. Lee Blvd\" and \"Pontchartrain Blvd\" stand amid storm debris, with a damaged \"No Turn\" sign nearby, a distant house, and a truck driving past on a dusty road."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 065.jpg
     thumb: /files/thumbnails/14fb2a22a6fb7114fb2a22a6ff57.jpg
     url: /files/original/14fb2a22a6fb7114fb2a22a6ff57.jpg
+    alt:
+      en: "Vast field of storm debris—splintered wood, insulation, and household items—covers the ground, with bare trees, a damaged green gazebo structure, and a partially repaired building visible in the background; dated 2005/09/24."
 geo:
 id: 11943
 item_type: Still Image

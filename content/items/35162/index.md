@@ -20,6 +20,8 @@ files:
     original_filename: 2397488746_fe25527dad.jpg
     thumb: /files/thumbnails/14fb29c76a91e614fb29c76a9ce2.jpg
     url: /files/original/14fb29c76a91e614fb29c76a9ce2.jpg
+    alt:
+      en: "Damaged storefront with a torn roof and boarded windows next to a \"Philadelphia Ministries\" sign displaying a partial message, with yellow parking bumpers and a quiet street in the background."
 geo:
 id: 35162
 item_type: Still Image

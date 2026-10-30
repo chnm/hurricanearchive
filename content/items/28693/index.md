@@ -20,6 +20,8 @@ files:
     original_filename: 114540220_cf7d57bb1c.jpg
     thumb: /files/thumbnails/14fb29d1b6ea5f14fb29d1b6ee45.jpg
     url: /files/original/14fb29d1b6ea5f14fb29d1b6ee45.jpg
+    alt:
+      en: "Heavy black mold covers the walls and ceiling of a child's room, with a floral border near the ceiling and faded Winnie the Pooh decals still visible amid the damage."
 geo:
 id: 28693
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 384684806_140aca8532.
     thumb: /files/thumbnails/14fb29d293b6c614fb29d293ba49.jpg
     url: /files/original/14fb29d293b6c614fb29d293ba49.jpg
+    alt:
+      en: "Two side-by-side photos of a flood-damaged painting of a semi-nude woman, propped against exposed wall studs; the right version has sections outlined in white chalk marking areas chosen for restoration."
 geo:
   address: ''
   lat: 30.01333

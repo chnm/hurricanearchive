@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0019.JPG
     thumb: /files/thumbnails/14fb2a1ba598b614fb2a1ba59c9c.jpg
     url: /files/original/14fb2a1ba598b614fb2a1ba59c9c.jpg
+    alt:
+      en: "Flood-damaged office interior with mud-covered floor, overturned chairs, a toppled monitor, scattered computer equipment, and cubicle partitions; a timestamp reads 09.19.2005 14:01."
 geo:
   address: ''
   lat: 0.0

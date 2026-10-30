@@ -21,6 +21,8 @@ files:
     original_filename: beta club float_b376ff0527.jpg
     thumb: /files/thumbnails/14fb29d785ad0014fb29d785b0e6.jpg
     url: /files/original/14fb29d785ad0014fb29d785b0e6.jpg
+    alt:
+      en: "Yearbook page titled \"Weese Day Ceremonies\" showing two student portraits on the left and a photo of teens riding a decorated float reading \"MR. CHS BETA VICE,\" with names listed beside it."
 geo:
 id: 26836
 item_type: Still Image

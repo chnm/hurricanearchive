@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0096H.JPG
     thumb: /files/thumbnails/14fb29e799891714fb29e7998e35.jpg
     url: /files/original/14fb29e799891714fb29e7998e35.jpg
+    alt:
+      en: "Nighttime gathering of people in Hooters tank tops and U.S. Army camouflage uniforms, several wearing round \"I [heart] Hooters\" stickers, with a nametag reading \"ERIN\" visible on one woman's shirt."
 geo:
 id: 24452
 item_type: Still Image

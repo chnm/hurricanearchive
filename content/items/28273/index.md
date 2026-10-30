@@ -27,6 +27,8 @@ files:
     original_filename: tin can phones_d216d07536.JPG
     thumb: /files/thumbnails/14fb29d2675b1814fb29d26762e5.jpg
     url: /files/original/14fb29d2675b1814fb29d26762e5.jpg
+    alt:
+      en: "Dozens of tin cans connected by strings cascade across a paved lot and lead up to a barred window of a brick house, with a person standing nearby next to a parked van."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

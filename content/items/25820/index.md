@@ -21,6 +21,8 @@ files:
     original_filename: art_351a33e35a.jpg
     thumb: /files/thumbnails/14fb29dbf865a514fb29dbf86981.jpg
     url: /files/original/14fb29dbf865a514fb29dbf86981.jpg
+    alt:
+      en: "An art exhibit display with paintings on wire grid panels and a folding table, featuring wildlife and bird portraits alongside an abstract floral piece in vivid colors."
 geo:
 id: 25820
 item_type: Still Image

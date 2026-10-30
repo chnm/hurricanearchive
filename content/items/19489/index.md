@@ -21,6 +21,8 @@ files:
     original_filename: Picture 049engineers.jpg
     thumb: /files/thumbnails/14fb2a0facf1cf14fb2a0facf5b6.jpg
     url: /files/original/14fb2a0facf1cf14fb2a0facf5b6.jpg
+    alt:
+      en: "Aerial view of a flooded river delta with a wide waterway bordered by marshland, a narrow tree-lined channel below with boats clustered near an oil sheen, and flooded fields visible in the distance."
 geo:
 id: 19489
 item_type: Still Image

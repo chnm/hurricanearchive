@@ -21,6 +21,8 @@ files:
     original_filename: Napoleon.Abandoned cars on neutral ground.jpg
     thumb: /files/thumbnails/14fb2a21656cba14fb2a21658319.jpg
     url: /files/original/14fb2a21656cba14fb2a21658319.jpg
+    alt:
+      en: "Row of white pickup trucks parked along a grassy median strip with trees, a yellow sign posted on the grass, and a road beside them."
 geo:
 id: 12861
 item_type: Still Image

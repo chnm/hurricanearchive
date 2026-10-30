@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0208deadymedia.JPG
     thumb: /files/thumbnails/14fb29f269ace214fb29f269b0bd.jpg
     url: /files/original/14fb29f269ace214fb29f269b0bd.jpg
+    alt:
+      en: "A uniformed airman in woodland camouflage and a black beret stands with arms crossed on a grassy field, with empty bleachers and a press box reading \"Norman Michael Lupin Field\" behind him."
 geo:
 id: 22960
 item_type: Still Image

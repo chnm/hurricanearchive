@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_KaitlinGlapion_01_036e331291.jpg
     thumb: /files/thumbnails/14fb2a17c9703914fb2a17c975b3.jpg
     url: /files/original/14fb2a17c9703914fb2a17c975b3.jpg
+    alt:
+      en: "A young girl in a white uniform shirt embroidered \"GSS\" and plaid skirt sits by a table, with a bookshelf of children's books and stuffed animals nearby."
 geo:
 id: 14777
 item_type: Still Image

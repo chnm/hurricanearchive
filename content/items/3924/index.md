@@ -21,6 +21,8 @@ files:
     original_filename: 100_0221.JPG
     thumb: /files/thumbnails/14fb2a58dcde5f14fb2a58dce23c.jpg
     url: /files/original/14fb2a58dcde5f14fb2a58dce23c.jpg
+    alt:
+      en: "Row of brick buildings with a red metal fire escape surrounded by deep floodwater, with a partially submerged dumpster and debris floating nearby under a clear blue sky."
 geo:
 id: 3924
 item_type: Still Image

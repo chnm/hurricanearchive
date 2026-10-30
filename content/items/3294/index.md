@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (55).jpg
     thumb: /files/thumbnails/14fb2a5cb0ada714fb2a5cb0b18d.jpg
     url: /files/original/14fb2a5cb0ada714fb2a5cb0b18d.jpg
+    alt:
+      en: "Low-angle view across muddy, grass-covered ground toward parked cars, large oak trees, and a storm-damaged strip mall with a partially collapsed roof under a clear blue sky."
 geo:
 id: 3294
 item_type: Still Image

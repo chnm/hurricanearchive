@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0965superdome.JPG
     thumb: /files/thumbnails/14fb29e40a785114fb29e40a7fff.jpg
     url: /files/original/14fb29e40a785114fb29e40a7fff.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms load folded cots onto the back of a canvas-covered truck, with one man standing inside the truck bed and another handing items up from below."
 geo:
 id: 24890
 item_type: Still Image

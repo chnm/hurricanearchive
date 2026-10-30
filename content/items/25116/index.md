@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1703superdome.JPG
     thumb: /files/thumbnails/14fb29e233a78f14fb29e233ab6c.jpg
     url: /files/original/14fb29e233a78f14fb29e233ab6c.jpg
+    alt:
+      en: "Flooded roadway beneath a highway overpass with several submerged vehicles, including an SUV and sedan, partly underwater; a FedEx truck crosses the bridge above, with a military vehicle in the foreground."
 geo:
 id: 25116
 item_type: Still Image

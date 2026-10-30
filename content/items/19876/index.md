@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0067tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d06c3f814fb2a0d06c7de.jpg
     url: /files/original/14fb2a0d06c3f814fb2a0d06c7de.jpg
+    alt:
+      en: "Row of arched canvas tents in a tent city, with rooftop air conditioning or generator units lined up beside them and trees visible in the background under a partly cloudy sky."
 geo:
 id: 19876
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.146.JPG
     thumb: /files/thumbnails/14fb29dcda2f8e14fb29dcda31e0.jpg
     url: /files/original/14fb29dcda2f8e14fb29dcda31e0.jpg
+    alt:
+      en: "Abandoned storefront with peeling tan clapboard siding and a green-trimmed window opening leading to a dark interior; the wood siding below is broken and debris litters the sidewalk."
 geo:
 id: 25660
 item_type: Still Image

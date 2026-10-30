@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28488.jpg
     thumb: /files/thumbnails/14fb2a67ee6fdd14fb2a67ee7502.jpg
     url: /files/original/14fb2a67ee6fdd14fb2a67ee7502.jpg
+    alt:
+      en: "A dimly lit stairwell descends toward a partially open door with orange graffiti, debris scattered on the landing below, and light spilling in from outside."
 geo:
   address: ''
   lat: 0.0

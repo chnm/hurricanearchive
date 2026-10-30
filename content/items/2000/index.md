@@ -26,6 +26,8 @@ files:
     original_filename: 016_16_47d8107dc2.jpg
     thumb: /files/thumbnails/14fb2a6dcc149714fb2a6dcc1a9f.jpg
     url: /files/original/14fb2a6dcc149714fb2a6dcc1a9f.jpg
+    alt:
+      en: "Damaged light-green house with search-and-rescue markings spray-painted in red: \"10/8 1 DOA\" and \"10/9 FW DOG SEEN\" with arrows; a window AC unit, broken window, and debris sit below."
 geo:
   address: ''
   lat: 0.0

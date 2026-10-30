@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0224.JPG
     thumb: /files/thumbnails/14fb2a54fdd52514fb2a54fdd912.jpg
     url: /files/original/14fb2a54fdd52514fb2a54fdd912.jpg
+    alt:
+      en: "Debris field with collapsed white roofing panels, scattered concrete blocks, and bricks, surrounded by bare and brown-leaved trees under an overcast sky."
 geo:
 id: 4905
 item_type: Still Image

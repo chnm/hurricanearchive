@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28270.jpg
     thumb: /files/thumbnails/14fb2a6b7e7bbe14fb2a6b7e7fa3.jpg
     url: /files/original/14fb2a6b7e7bbe14fb2a6b7e7fa3.jpg
+    alt:
+      en: "Heavily damaged multi-story building with exposed steel framework and stripped exterior walls, debris scattered on the ground, a white van parked along the roadside in front."
 geo:
   address: ''
   lat: 0.0

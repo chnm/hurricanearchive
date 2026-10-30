@@ -21,6 +21,8 @@ files:
     original_filename: Picture 194cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b575fdd14fb2a0b5763c3.jpg
     url: /files/original/14fb2a0b575fdd14fb2a0b5763c3.jpg
+    alt:
+      en: "Debris-strewn grassy field with a damaged picnic table, downed tree limbs, and a bent street sign near a cracked parking lot, with power poles and trees visible in the distance under a blue sky."
 geo:
 id: 20097
 item_type: Still Image

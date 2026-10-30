@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0179.JPG
     thumb: /files/thumbnails/14fb2a5522360914fb2a552239ee.jpg
     url: /files/original/14fb2a5522360914fb2a552239ee.jpg
+    alt:
+      en: "Damaged house with collapsed or torn roofing material surrounded by tall pine trees, some leaning or snapped, amid overgrown grass and brush in the foreground."
 geo:
 id: 4860
 item_type: Still Image

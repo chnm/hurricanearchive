@@ -21,6 +21,8 @@ files:
     original_filename: Picture 022engineers.jpg
     thumb: /files/thumbnails/14fb2a0fe27b0c14fb2a0fe27efd.jpg
     url: /files/original/14fb2a0fe27b0c14fb2a0fe27efd.jpg
+    alt:
+      en: "A young boy wearing a large orange life jacket smiles while riding in a green boat on floodwater, with partially submerged buildings and trees visible in the background."
 geo:
 id: 19462
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 079cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bd5c5af14fb2a0bd5c994.jpg
     url: /files/original/14fb2a0bd5c5af14fb2a0bd5c994.jpg
+    alt:
+      en: "Military trucks travel a highway alongside civilian cars, with green overhead exit signs and a mostly empty opposite lane visible under a clear blue sky."
 geo:
 id: 19982
 item_type: Still Image

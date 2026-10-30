@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28449.jpg
     thumb: /files/thumbnails/14fb2a6936412714fb2a69364531.jpg
     url: /files/original/14fb2a6936412714fb2a69364531.jpg
+    alt:
+      en: "Row of damaged casino slot machine chairs and gaming consoles exposed amid collapsed ceiling debris and rusted structural beams, with partial signage reading \"Vertical Reel\" visible."
 geo:
   address: ''
   lat: 0.0

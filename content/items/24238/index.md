@@ -21,6 +21,8 @@ files:
     original_filename: 09140019.JPG
     thumb: /files/thumbnails/14fb29e979574714fb29e9795b1c.jpg
     url: /files/original/14fb29e979574714fb29e9795b1c.jpg
+    alt:
+      en: "Interior of a car with shattered glass and debris covering the seat, a center console holding a box of condoms, and a plastic grocery bag on the passenger seat."
 geo:
 id: 24238
 item_type: Still Image

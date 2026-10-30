@@ -26,6 +26,8 @@ files:
     original_filename: Guest_Room_ba4b9cd87e.jpg
     thumb: /files/thumbnails/14fb2a6e9b7da214fb2a6e9b81d8.jpg
     url: /files/original/14fb2a6e9b7da214fb2a6e9b81d8.jpg
+    alt:
+      en: "Flood-damaged living room with mold-streaked walls, overturned furniture, and mud-caked floral upholstered chairs and a sofa, alongside a mirrored armoire and scattered debris."
 geo:
   address: ''
   lat: 29.998653

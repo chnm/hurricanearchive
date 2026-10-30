@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p2_05_afa5e1412a.jpg
     thumb: /files/thumbnails/14fb2a1757979114fb2a1757c79f.jpg
     url: /files/original/14fb2a1757979114fb2a1757c79f.jpg
+    alt:
+      en: "Two young children stand embracing on a picnic table in a backyard patio, with brick house, hedges, and a rose bush visible in the background."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

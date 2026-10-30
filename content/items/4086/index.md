@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0986.JPG
     thumb: /files/thumbnails/14fb2a57f5847d14fb2a57f590fb.jpg
     url: /files/original/14fb2a57f5847d14fb2a57f590fb.jpg
+    alt:
+      en: "Storm-damaged storefront with collapsed awning and debris piled in front, windows displaying signs reading \"3 for 2 Everyday!\" and \"Simple Deals, Great Service.\""
 geo:
 id: 4086
 item_type: Still Image

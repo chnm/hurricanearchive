@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-07-5AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f972fcb814fb29f973009d.jpg
     url: /files/original/14fb29f972fcb814fb29f973009d.jpg
+    alt:
+      en: "Floodwater submerges the ground floor of a white two-story building with a columned balcony, with debris and a floating platform visible on the water's surface."
 geo:
 id: 22127
 item_type: Still Image

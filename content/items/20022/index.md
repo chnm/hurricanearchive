@@ -21,6 +21,8 @@ files:
     original_filename: Picture 119cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba6883814fb2a0ba68c25.jpg
     url: /files/original/14fb2a0ba6883814fb2a0ba68c25.jpg
+    alt:
+      en: "Damaged boats and marine equipment piled near a blue warehouse building, viewed across a grassy field and railroad tracks under a clear sky."
 geo:
 id: 20022
 item_type: Still Image

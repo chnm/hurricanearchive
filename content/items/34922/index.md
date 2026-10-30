@@ -20,6 +20,8 @@ files:
     original_filename: 2457505108_bf55a4c142.
     thumb: /files/thumbnails/14fb29c87c8f8c14fb29c87c9372.jpg
     url: /files/original/14fb29c87c8f8c14fb29c87c9372.jpg
+    alt:
+      en: "A large dragline crane with a long lattice boom sits on a barge near a muddy shoreline, its bucket lowered toward the water, with trees lining the distant bank."
 geo:
 id: 34922
 item_type: Still Image

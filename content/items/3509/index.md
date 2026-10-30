@@ -24,6 +24,8 @@ files:
     original_filename: P1010083.JPG
     thumb: /files/thumbnails/14fb2a5b452d5014fb2a5b45312d.jpg
     url: /files/original/14fb2a5b452d5014fb2a5b45312d.jpg
+    alt:
+      en: "Street corner at Franklin Ave. and Mirabeau Ave. with a non-functioning traffic signal, a stop sign, debris piles along the curb, and multiple yellow contractor advertisement signs for cleanup and repair services."
 geo:
 id: 3509
 item_type: Still Image

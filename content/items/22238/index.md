@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1045Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8bf2def14fb29f8bf35d7.jpg
     url: /files/original/14fb29f8bf2def14fb29f8bf35d7.jpg
+    alt:
+      en: "Two military helicopters silhouetted against an overcast sky, flying with landing gear extended beneath heavy gray clouds."
 geo:
 id: 22238
 item_type: Still Image

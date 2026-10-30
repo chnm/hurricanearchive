@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1705superdome.JPG
     thumb: /files/thumbnails/14fb29e22ecb4c14fb29e22eddb1.jpg
     url: /files/original/14fb29e22ecb4c14fb29e22eddb1.jpg
+    alt:
+      en: "A uniformed service member in a flight helmet and coveralls stands connected by a communication cable to a military helicopter parked in a lot, with an elevated highway overpass in the background."
 geo:
 id: 25117
 item_type: Still Image

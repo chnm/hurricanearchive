@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027H.JPG
     thumb: /files/thumbnails/14fb2a068cb9ff14fb2a068cbde5.jpg
     url: /files/original/14fb2a068cb9ff14fb2a068cbde5.jpg
+    alt:
+      en: "Two people play pool at night under a tent, the man wearing an orange \"Oklahoma State\" t-shirt standing by the table while a woman in a white tank top lines up a shot with a cue."
 geo:
 id: 20520
 item_type: Still Image

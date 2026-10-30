@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0750.JPG
     thumb: /files/thumbnails/14fb2a570928d914fb2a57092cbf.jpg
     url: /files/original/14fb2a570928d914fb2a57092cbf.jpg
+    alt:
+      en: "Partially framed wooden structure under construction beside a white fenced yard, with scattered debris on the ground and tall pine trees against a blue sky."
 geo:
 id: 4548
 item_type: Still Image

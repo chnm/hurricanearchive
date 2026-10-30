@@ -21,6 +21,8 @@ files:
     original_filename: Picture 176cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b6d2eef14fb2a0b6d32ce.jpg
     url: /files/original/14fb2a0b6d2eef14fb2a0b6d32ce.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms and sunglasses sit in the back of a military truck with a canvas canopy, equipment and bags visible around them, partial lettering \"P 25\" painted on the vehicle's side."
 geo:
 id: 20079
 item_type: Still Image

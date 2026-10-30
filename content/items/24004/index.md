@@ -21,6 +21,8 @@ files:
     original_filename: 09280006plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebf7fe1914fb29ebf801fe.jpg
     url: /files/original/14fb29ebf7fe1914fb29ebf801fe.jpg
+    alt:
+      en: "A person rests beneath a green mosquito net set up on a concrete slab amid storm debris, with a damaged white house and bare trees in the background."
 geo:
 id: 24004
 item_type: Still Image

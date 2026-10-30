@@ -21,6 +21,8 @@ files:
     original_filename: S4300076zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ee3d9c514fb2a0ee3dda3.jpg
     url: /files/original/14fb2a0ee3d9c514fb2a0ee3dda3.jpg
+    alt:
+      en: "Close-up of a blue metal surface with an \"OIL LEVEL\" nameplate beside a round sight glass oil level gauge set in a hexagonal fitting, with a latch and rivets visible below."
 geo:
 id: 19597
 item_type: Still Image

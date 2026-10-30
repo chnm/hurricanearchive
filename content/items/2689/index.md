@@ -21,6 +21,8 @@ files:
     original_filename: 113.jpg
     thumb: /files/thumbnails/14fb2a608c6faf14fb2a608c7392.jpg
     url: /files/original/14fb2a608c6faf14fb2a608c7392.jpg
+    alt:
+      en: "Child's drawing in red marker of an airplane with windows, two wings, and a tail, beneath two blue scribbled clouds; signed \"5 Thomas\" in pink at the bottom."
 geo:
 id: 2689
 item_type: Still Image

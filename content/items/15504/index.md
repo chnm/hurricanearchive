@@ -25,12 +25,16 @@ files:
     original_filename: IMcCormick-36_15beae3d1c.jpg
     thumb: /files/thumbnails/14fb2a161f139614fb2a161f177d.jpg
     url: /files/original/14fb2a161f139614fb2a161f177d.jpg
+    alt:
+      en: "Faded color photo of a two-story wood-sided house with a shingled gambrel roof, three dormer windows, and a covered front porch with white columns, cluttered with items."
   - fullsize: /files/fullsize/14fb2a161c8f4414fb2a161c9324.jpg
     id: 12473
     mime: image/jpeg
     original_filename: IMcCormick-37_5e05cf680a.jpg
     thumb: /files/thumbnails/14fb2a161c8f4414fb2a161c9324.jpg
     url: /files/original/14fb2a161c8f4414fb2a161c9324.jpg
+    alt:
+      en: "A single-story wooden house with a steep shingled roof, dormer window, and a covered front porch supported by columns, partially shaded by a large pine tree branch."
 geo:
 id: 15504
 item_type: Still Image

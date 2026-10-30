@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2122superdome.JPG
     thumb: /files/thumbnails/14fb29e4a914a414fb29e4a9181c.jpg
     url: /files/original/14fb29e4a914a414fb29e4a9181c.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand with small dogs on leashes outside a large stadium building, with city skyscrapers and parked cars visible in the background."
 geo:
 id: 24800
 item_type: Still Image

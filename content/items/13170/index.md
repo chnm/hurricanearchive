@@ -21,6 +21,8 @@ files:
     original_filename: 162 gas station.jpg
     thumb: /files/thumbnails/14fb2a1fa8d0c714fb2a1fa8d8d5.jpg
     url: /files/original/14fb2a1fa8d0c714fb2a1fa8d8d5.jpg
+    alt:
+      en: "Collapsed gas station canopy with twisted metal beams and red trim lying on wet pavement, an \"ICE\" cooler visible among the debris, trees and houses in the background."
 geo:
 id: 13170
 item_type: Still Image

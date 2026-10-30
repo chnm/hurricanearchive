@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0304-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd81914e14fb29fd8196a3.jpg
     url: /files/original/14fb29fd81914e14fb29fd8196a3.jpg
+    alt:
+      en: "Aerial view of extensive floodwater submerging a field, sports complex with bleachers and fencing, a mobile home, and scattered trees, with utility poles rising above the brown water under a hazy sky."
 geo:
 id: 21568
 item_type: Still Image

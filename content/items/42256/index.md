@@ -23,6 +23,8 @@ files:
     original_filename: cutoff2_bf58554e45.JPG
     thumb: /files/thumbnails/14fb29c29bddd914fb29c29beacf.jpg
     url: /files/original/14fb29c29bddd914fb29c29beacf.jpg
+    alt:
+      en: "Flooded roadway lined with trees and utility poles, with a partially submerged street sign and a brick building visible at right, under an overcast sky."
 geo:
   address: ''
   lat: 0.0

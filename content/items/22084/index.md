@@ -21,6 +21,8 @@ files:
     original_filename: trop dep 17-J2.jpg
     thumb: /files/thumbnails/14fb29f993b65d14fb29f993ba50.jpg
     url: /files/original/14fb29f993b65d14fb29f993ba50.jpg
+    alt:
+      en: "Satellite weather map of the Caribbean and southeastern US dated 11:15PM EDT 17-SEP-05, showing cloud formations and storm systems over the Gulf of Mexico and Atlantic; AccuWeather.com watermark included."
 geo:
 id: 22084
 item_type: Still Image

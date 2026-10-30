@@ -24,6 +24,8 @@ files:
     original_filename: P1010065.JPG
     thumb: /files/thumbnails/14fb2a5a9266a814fb2a5a926a8c.jpg
     url: /files/original/14fb2a5a9266a814fb2a5a926a8c.jpg
+    alt:
+      en: "An auditorium with its seats removed, leaving a stained, bare floor leading up to a stage with a painted city skyline backdrop and furniture cordoned off with caution tape."
 geo:
 id: 3630
 item_type: Still Image

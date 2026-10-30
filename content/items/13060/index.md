@@ -21,6 +21,8 @@ files:
     original_filename: before south courtyard.jpg
     thumb: /files/thumbnails/14fb2a20a7692714fb2a20a76c89.jpg
     url: /files/original/14fb2a20a7692714fb2a20a76c89.jpg
+    alt:
+      en: "Elevated view of an urban courtyard with a landscaped lawn, decorative metal trellises, a fountain area, and surrounding brick buildings and city skyline in the background."
 geo:
 id: 13060
 item_type: Still Image

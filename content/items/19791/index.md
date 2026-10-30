@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of Picture 032cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dcd7ae214fb2a0dcd7ec8.jpg
     url: /files/original/14fb2a0dcd7ae214fb2a0dcd7ec8.jpg
+    alt:
+      en: "Grassy median with piled trash bags, a fallen bicycle, and a historical marker reading \"Faubourg Bouligny,\" with St. Charles Avenue street signs and a church steeple visible beyond the debris-strewn street."
 geo:
 id: 19791
 item_type: Still Image

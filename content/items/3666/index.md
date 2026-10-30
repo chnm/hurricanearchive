@@ -24,6 +24,8 @@ files:
     original_filename: P1010103.JPG
     thumb: /files/thumbnails/14fb2a5a37dfb914fb2a5a37e39e.jpg
     url: /files/original/14fb2a5a37dfb914fb2a5a37e39e.jpg
+    alt:
+      en: "Fire-damaged, multi-story apartment building with a collapsed roof and charred upper floor, as a firefighter atop a \"New Orleans F\" ladder truck works near the building, with a pool in the foreground."
 geo:
 id: 3666
 item_type: Still Image

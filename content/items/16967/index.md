@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5893_027184fb64.jpg
     thumb: /files/thumbnails/14fb2a15b33c9114fb2a15b3407c.jpg
     url: /files/original/14fb2a15b33c9114fb2a15b3407c.jpg
+    alt:
+      en: "Typed letter titled \"Xmas on the Bayou 1940's,\" signed by Cecile Robin with handwritten notations \"St. Bernard Marsh\" and \"Bayou Grande\" beneath the signature."
 geo:
 id: 16967
 item_type: Still Image

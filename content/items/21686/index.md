@@ -21,6 +21,8 @@ files:
     original_filename: FH000015.jpg
     thumb: /files/thumbnails/14fb29fc6b35f814fb29fc6b39e9.jpg
     url: /files/original/14fb29fc6b35f814fb29fc6b39e9.jpg
+    alt:
+      en: "Debris, broken brickwork, and uprooted plants litter a lot in front of a metal warehouse building, with several vehicles including vans and trucks parked nearby amid storm wreckage."
 geo:
 id: 21686
 item_type: Still Image

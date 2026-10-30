@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2013superdome.JPG
     thumb: /files/thumbnails/14fb29df63577914fb29df635b56.jpg
     url: /files/original/14fb29df63577914fb29df635b56.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues assist evacuees, including one person being carried, toward a waiting helicopter on a wet tarmac, with an elevated highway visible in the background."
 geo:
 id: 25286
 item_type: Still Image

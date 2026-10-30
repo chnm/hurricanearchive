@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea45a57914fb29ea45a95f.jpg
     url: /files/original/14fb29ea45a57914fb29ea45a95f.jpg
+    alt:
+      en: "A man in camouflage with an orange hard hat uses a chainsaw to clear a large fallen tree beside a damaged house, while a cameraman films and another man holds a microphone."
 geo:
 id: 24149
 item_type: Still Image

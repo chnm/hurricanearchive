@@ -21,6 +21,8 @@ files:
     original_filename: MVC-005S.JPG
     thumb: /files/thumbnails/14fb2a5ff8b40714fb2a5ff8b7ed.jpg
     url: /files/original/14fb2a5ff8b40714fb2a5ff8b7ed.jpg
+    alt:
+      en: "A white and red Coast Guard seaplane, marked \"2129\" and \"COAST,\" parked on an empty paved lot with floats under its wings, set against a clear blue sky."
 geo:
 id: 2814
 item_type: Still Image

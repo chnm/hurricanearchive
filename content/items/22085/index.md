@@ -21,6 +21,8 @@ files:
     original_filename: trop dep 18-J2.jpg
     thumb: /files/thumbnails/14fb29f9930e7b14fb29f9931255.jpg
     url: /files/original/14fb29f9930e7b14fb29f9931255.jpg
+    alt:
+      en: "Weather map tracking Tropical Depression 18's projected path from Saturday through Monday, with a red circle over the storm near the Bahamas and arrows extending toward Florida and Cuba."
 geo:
 id: 22085
 item_type: Still Image

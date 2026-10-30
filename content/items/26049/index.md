@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6959_bc2e6e17f0.jpg
     thumb: /files/thumbnails/14fb29db87f11914fb29db87f4fe.jpg
     url: /files/original/14fb29db87f11914fb29db87f4fe.jpg
+    alt:
+      en: "Aged, water-stained cabinet card portrait of a bearded man in a suit, waistcoat, and watch chain, labeled \"R. Jackson,\" with heavy foxing and worn, torn edges."
 geo:
   address: ''
   lat: 29.80252

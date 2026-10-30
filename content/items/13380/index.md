@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4970_52fb85d596.jpg
     thumb: /files/thumbnails/14fb2a1e22bc5a14fb2a1e22c040.jpg
     url: /files/original/14fb2a1e22bc5a14fb2a1e22c040.jpg
+    alt:
+      en: "Sepia-toned graduation portrait of a young man in a cap and gown, inscribed \"To Aunt Gladys + Family, Class of '69, Alonzo Knight\" in blue ink."
 geo:
 id: 13380
 item_type: Still Image

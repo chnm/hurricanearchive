@@ -21,6 +21,8 @@ files:
     original_filename: JB 5 WWII penpals_9b297c37a0.1.jpg
     thumb: /files/thumbnails/14fb29d81bd32a14fb29d81bd70f.jpg
     url: /files/original/14fb29d81bd32a14fb29d81bd70f.jpg
+    alt:
+      en: "A soldier carrying a rifle on his shoulder stands on a grassy area beside wooden barracks-style buildings, with open fields visible in the background."
 geo:
   address: ''
   lat: 29.91685

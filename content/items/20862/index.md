@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0135-21.JPG
     thumb: /files/thumbnails/14fb2a02a5615514fb2a02a56539.jpg
     url: /files/original/14fb2a02a5615514fb2a02a56539.jpg
+    alt:
+      en: "Large oak trees with sprawling branches shade a grassy park area, with fallen branches and debris scattered on the ground and pavement in the foreground."
 geo:
 id: 20862
 item_type: Still Image

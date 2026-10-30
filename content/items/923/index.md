@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28187.jpg
     thumb: /files/thumbnails/14fb2a6c2dc93314fb2a6c2dcc08.jpg
     url: /files/original/14fb2a6c2dc93314fb2a6c2dcc08.jpg
+    alt:
+      en: "Rows of wooden pilings stand in shallow water along a sandy shoreline, remnants of structures destroyed by Hurricane Katrina, with bare trees in the background."
 geo:
   address: ''
   lat: 0.0

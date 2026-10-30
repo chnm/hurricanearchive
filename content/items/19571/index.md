@@ -21,6 +21,8 @@ files:
     original_filename: S4300025zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f1d53ee14fb2a0f1d57dc.jpg
     url: /files/original/14fb2a0f1d53ee14fb2a0f1d57dc.jpg
+    alt:
+      en: "A large blue water jug is being filled from a hose near a person in camouflage pants and black boots, standing on a paved lot with parked vehicles in the background."
 geo:
 id: 19571
 item_type: Still Image

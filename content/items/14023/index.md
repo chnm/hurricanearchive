@@ -21,6 +21,8 @@ files:
     original_filename: 20050927003.JPG
     thumb: /files/thumbnails/14fb2a1c676a3e14fb2a1c676dcf.jpg
     url: /files/original/14fb2a1c676a3e14fb2a1c676dcf.jpg
+    alt:
+      en: "Military tanker trucks parked on a gravel lot in heavy fog, with a uniformed figure walking between them and a folded American flag chair nearby."
 geo:
   address: ''
   lat: 0.0

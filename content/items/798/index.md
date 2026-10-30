@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28597.jpg
     thumb: /files/thumbnails/14fb2a6cf5975914fb2a6cf5a015.jpg
     url: /files/original/14fb2a6cf5975914fb2a6cf5a015.jpg
+    alt:
+      en: "A cylindrical white monument reading \"LAKESHOR\" with a painted sailboat mural, topped by a flat canopy roof on columns, set in a grassy area with bare trees."
 geo:
   address: ''
   lat: 0.0

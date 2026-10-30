@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0170-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a010b27eb14fb2a010b2bd1.jpg
     url: /files/original/14fb2a010b27eb14fb2a010b2bd1.jpg
+    alt:
+      en: "Flood debris including scattered insulation panels, a damaged metal shed, and a fallen tree trunk litter a muddy, waterlogged clearing surrounded by bare, storm-damaged trees."
 geo:
 id: 21018
 item_type: Still Image

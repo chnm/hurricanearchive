@@ -23,6 +23,8 @@ files:
     original_filename: 209499984_9ae84a5772.
     thumb: /files/thumbnails/14fb29d426ef8114fb29d426fc6c.jpg
     url: /files/original/14fb29d426ef8114fb29d426fc6c.jpg
+    alt:
+      en: "Above-ground cemetery vaults and caskets sit displaced on a paved church parking lot, with a brick building and cross-marked graves visible in the background under a cloudy sky."
 geo:
   address: ''
   lat: 29.8431

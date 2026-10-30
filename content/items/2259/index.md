@@ -26,6 +26,8 @@ files:
     original_filename: truck_2_3d6bab7a9c.jpg
     thumb: /files/thumbnails/14fb2a6d69847014fb2a6d698855.jpg
     url: /files/original/14fb2a6d69847014fb2a6d698855.jpg
+    alt:
+      en: "A maroon and silver pickup truck lies on its side amid dense green brush and trees, with visible damage to its body and surrounding broken branches."
 geo:
   address: ''
   lat: 31.652811

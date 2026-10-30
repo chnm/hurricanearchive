@@ -25,12 +25,16 @@ files:
     original_filename: RLivaduais-004_ee39b82952.jpg
     thumb: /files/thumbnails/14fb2a16a9bf2d14fb2a16a9c312.jpg
     url: /files/original/14fb2a16a9bf2d14fb2a16a9c312.jpg
+    alt:
+      en: "Two men operate a small flat-bottomed boat loaded with cut branches or small trees across a waterway, with industrial cranes, a large vessel, and dockside structures visible in the background."
   - fullsize: /files/fullsize/14fb2a16a8e47c14fb2a16a8e861.jpg
     id: 12367
     mime: image/jpeg
     original_filename: RLivaduais-R001-0052_7747709e86.jpg
     thumb: /files/thumbnails/14fb2a16a8e47c14fb2a16a8e861.jpg
     url: /files/original/14fb2a16a8e47c14fb2a16a8e861.jpg
+    alt:
+      en: "A man in a green jacket and sunglasses places cut evergreen branches along a wooden fence structure beside a calm waterway, part of a wetlands restoration effort."
 geo:
 id: 15277
 item_type: Still Image

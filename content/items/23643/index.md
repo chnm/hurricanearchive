@@ -21,6 +21,8 @@ files:
     original_filename: P1010084empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee207c0214fb29ee207ff3.jpg
     url: /files/original/14fb29ee207c0214fb29ee207ff3.jpg
+    alt:
+      en: "A collapsed metal truss structure lies twisted near floodwater, with a large uprooted tree in the foreground and bare, storm-damaged trees surrounding an open marshy field."
 geo:
 id: 23643
 item_type: Still Image

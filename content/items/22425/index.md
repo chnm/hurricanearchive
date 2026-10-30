@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1264Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f67ee5a814fb29f67ee98f.jpg
     url: /files/original/14fb29f67ee5a814fb29f67ee98f.jpg
+    alt:
+      en: "View through a rain-streaked window of a flooded street during heavy rainfall, with a covered walkway, sandbags piled near a building entrance, and water rising over the roadway."
 geo:
 id: 22425
 item_type: Still Image

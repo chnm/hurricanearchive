@@ -21,6 +21,8 @@ files:
     original_filename: P1010075empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee54f1be14fb29ee54f599.jpg
     url: /files/original/14fb29ee54f1be14fb29ee54f599.jpg
+    alt:
+      en: "A small yellow shed displaced from its foundation, marked \"Do Not Remove, 112 Paul Harvey Drive,\" stands beside a utility bucket truck amid storm debris and downed power lines."
 geo:
 id: 23634
 item_type: Still Image

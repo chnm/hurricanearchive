@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2221neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f03ebca214fb29f03ec089.jpg
     url: /files/original/14fb29f03ebca214fb29f03ec089.jpg
+    alt:
+      en: "A small boat labeled \"Bay Stealth\" and a jet ski sit stranded on a debris-strewn concrete lot, with damaged trees and houses visible in the background."
 geo:
 id: 23259
 item_type: Still Image

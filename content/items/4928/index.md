@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0247.JPG
     thumb: /files/thumbnails/14fb2a54eb4cab14fb2a54eb51eb.jpg
     url: /files/original/14fb2a54eb4cab14fb2a54eb51eb.jpg
+    alt:
+      en: "Damaged and collapsed structures stand beside a murky waterway, with scattered debris in the water and along the muddy banks, surrounded by trees showing storm-damaged, browned foliage."
 geo:
 id: 4928
 item_type: Still Image

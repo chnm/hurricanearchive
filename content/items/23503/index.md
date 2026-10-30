@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0139abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef2d83e114fb29ef2d87bd.jpg
     url: /files/original/14fb29ef2d83e114fb29ef2d87bd.jpg
+    alt:
+      en: "Floodwater surrounds a single-story house with a damaged porch and leaning utility pole, with an overturned boat and debris nearby, all beside a paved road under a partly cloudy sky."
 geo:
 id: 23503
 item_type: Still Image

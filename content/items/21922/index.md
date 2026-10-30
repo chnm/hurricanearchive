@@ -21,6 +21,8 @@ files:
     original_filename: conservation-daily-prod-update-location-map.gif
     thumb: /files/thumbnails/14fb29fafaf9bb14fb29fafafda1.jpg
     url: /files/original/14fb29fafaf9bb14fb29fafafda1.jpg
+    alt:
+      en: "Map of Louisiana parishes showing Hurricane Katrina and Rita coordinate points and paths (red dashed lines) crossing the state, with highlighted cities including Alexandria, Baton Rouge, Lafayette, Lake Charles, and New Orleans."
 geo:
 id: 21922
 item_type: Still Image

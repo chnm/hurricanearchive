@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (34).jpg
     thumb: /files/thumbnails/14fb2a5ce01de414fb2a5ce021c9.jpg
     url: /files/original/14fb2a5ce01de414fb2a5ce021c9.jpg
+    alt:
+      en: "Collapsed wood-frame building with debris and mud-covered street, two men standing nearby, one examining the structure, with an orange spray-painted search-and-rescue marking on the siding."
 geo:
 id: 3271
 item_type: Still Image

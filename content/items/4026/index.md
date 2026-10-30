@@ -21,6 +21,8 @@ files:
     original_filename: DSC01137.JPG
     thumb: /files/thumbnails/14fb2a5862b25e14fb2a5862b646.jpg
     url: /files/original/14fb2a5862b25e14fb2a5862b646.jpg
+    alt:
+      en: "Coast Guard rescuers in life vests navigate a flooded street by boat, towing a large cage holding animals, with other rescue boats and an American flag visible amid submerged trees."
 geo:
 id: 4026
 item_type: Still Image

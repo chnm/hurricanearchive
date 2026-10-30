@@ -21,6 +21,8 @@ files:
     original_filename: 100_0238.JPG
     thumb: /files/thumbnails/14fb2a5f27e26f14fb2a5f27ef93.jpg
     url: /files/original/14fb2a5f27e26f14fb2a5f27ef93.jpg
+    alt:
+      en: "Interior of a ship's mess area with metal-clad walls, booth seating with red cushions on grey wooden bases, stainless steel tables, a yellow trash can, and wall-mounted plaques including military award ribbons and a \"WWII\" memorial plaque."
 geo:
 id: 2989
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0088grandisle.JPG
     thumb: /files/thumbnails/14fb2a14bf3eab14fb2a14c00052.jpg
     url: /files/original/14fb2a14bf3eab14fb2a14c00052.jpg
+    alt:
+      en: "Aerial view from a helicopter showing a washed-out roadway with a collapsed bridge section, surrounded by muddy floodwater, debris, and marshland, with vehicles and equipment visible on adjacent dry ground."
 geo:
 id: 18876
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5873_55e8bd27d9.jpg
     thumb: /files/thumbnails/14fb2a16079b4b14fb2a16079f31.jpg
     url: /files/original/14fb2a16079b4b14fb2a16079f31.jpg
+    alt:
+      en: "Aged, water-damaged photograph of the shrimp boat \"Lady Lisa\" underway on open water, its rigging and outriggers extended, with a handwritten caption reading \"Shrimping in Lake Borne\" above."
 geo:
 id: 15772
 item_type: Still Image

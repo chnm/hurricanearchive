@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008-15.JPG
     thumb: /files/thumbnails/14fb2a08388d3e14fb2a08389123.jpg
     url: /files/original/14fb2a08388d3e14fb2a08389123.jpg
+    alt:
+      en: "Silhouetted helmeted figures, one with a small flag patch, seen from below against a partly cloudy sky, with a hazy landscape visible in the background."
 geo:
 id: 20380
 item_type: Still Image

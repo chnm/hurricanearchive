@@ -21,6 +21,8 @@ files:
     original_filename: 051003-A-2604S-0016WestVirginiaNG.jpg
     thumb: /files/thumbnails/14fb29f177feae14fb29f178030c.jpg
     url: /files/original/14fb29f177feae14fb29f178030c.jpg
+    alt:
+      en: "A soldier in camouflage fatigues hands a small package to a young girl standing on a debris-strewn street, with damaged trees and storm wreckage visible in the background."
 geo:
 id: 23122
 item_type: Still Image

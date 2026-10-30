@@ -21,6 +21,8 @@ files:
     original_filename: EvaDow-4-4_4ba588de6a.jpg
     thumb: /files/thumbnails/14fb29dd66ebde14fb29dd66efc3.jpg
     url: /files/original/14fb29dd66ebde14fb29dd66efc3.jpg
+    alt:
+      en: "Black-and-white 1956 snapshot of two adults and two children in costumes standing on a brick house's covered porch, posed for Mardi Gras."
 geo:
 id: 25505
 item_type: Still Image

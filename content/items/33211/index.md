@@ -20,6 +20,8 @@ files:
     original_filename: 1282486172_dbce1d340f.jpg
     thumb: /files/thumbnails/14fb29cb8a402514fb29cb8a4412.jpg
     url: /files/original/14fb29cb8a402514fb29cb8a4412.jpg
+    alt:
+      en: "A CAT-branded excavator arm with bucket attachment extends against a cloudy sky, with a pine tree visible on the right side of the frame."
 geo:
 id: 33211
 item_type: Still Image

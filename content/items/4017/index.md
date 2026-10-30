@@ -21,6 +21,8 @@ files:
     original_filename: DSC01125.JPG
     thumb: /files/thumbnails/14fb2a58808d3b14fb2a58809125.jpg
     url: /files/original/14fb2a58808d3b14fb2a58809125.jpg
+    alt:
+      en: "Flooded structure with dark standing water covering the floor, wire mesh fencing, white wooden beams, and debris including a white object and plastic baskets; timestamp reads \"6 11:36 AM.\""
 geo:
 id: 4017
 item_type: Still Image

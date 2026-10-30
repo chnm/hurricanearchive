@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0148-9-25.JPG
     thumb: /files/thumbnails/14fb2a01facbf814fb2a01facfd2.jpg
     url: /files/original/14fb2a01facbf814fb2a01facfd2.jpg
+    alt:
+      en: "Aerial view of flooded wetland terrain with submerged fence lines, debris-laden tree lines, and patches of vegetation poking through murky floodwater."
 geo:
 id: 20921
 item_type: Still Image

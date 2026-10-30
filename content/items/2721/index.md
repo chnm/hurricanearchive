@@ -21,6 +21,8 @@ files:
     original_filename: 2.jpg
     thumb: /files/thumbnails/14fb2a606ebf6314fb2a606ec34a.jpg
     url: /files/original/14fb2a606ebf6314fb2a606ec34a.jpg
+    alt:
+      en: "Child's marker drawing by Shalayvia, age 10, showing a smiling sun, blue clouds with rain falling onto trees, and a dark circle with teal marks labeled \"the water coming out of the ground.\""
 geo:
 id: 2721
 item_type: Still Image

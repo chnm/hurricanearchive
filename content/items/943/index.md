@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28027.jpg
     thumb: /files/thumbnails/14fb2a6c02788514fb2a6c027c57.jpg
     url: /files/original/14fb2a6c02788514fb2a6c027c57.jpg
+    alt:
+      en: "Large white sandbags and a metal pipe span a breach site filled with murky water, with damaged houses and debris visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

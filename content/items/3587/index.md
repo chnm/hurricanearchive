@@ -24,6 +24,8 @@ files:
     original_filename: P1010014.JPG
     thumb: /files/thumbnails/14fb2a5ab068d914fb2a5ab06cb7.jpg
     url: /files/original/14fb2a5ab068d914fb2a5ab06cb7.jpg
+    alt:
+      en: "Pile of broken drywall boards, insulation, and debris in the foreground, with a damaged sofa, chairs, and other discarded furniture stacked behind it."
 geo:
 id: 3587
 item_type: Still Image

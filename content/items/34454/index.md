@@ -23,6 +23,8 @@ files:
     original_filename: 2326074065_4fcb432692.
     thumb: /files/thumbnails/14fb29c9f5295814fb29c9f52d3c.jpg
     url: /files/original/14fb29c9f5295814fb29c9f52d3c.jpg
+    alt:
+      en: "A collapsed, white-sided section of a house lies toppled beside a rural road, its roof caved in and debris scattered amid dry roadside brush under a partly cloudy sky."
 geo:
   address: ''
   lat: 30.22586

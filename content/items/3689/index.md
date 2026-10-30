@@ -24,6 +24,8 @@ files:
     original_filename: P1010131.JPG
     thumb: /files/thumbnails/14fb2a5a20156814fb2a5a201955.jpg
     url: /files/original/14fb2a5a20156814fb2a5a201955.jpg
+    alt:
+      en: "Grand neoclassical mansion with columned portico, balconies, and dormer windows, surrounded by an iron fence and lawn; a worker in a yellow shirt tends the front entrance steps."
 geo:
 id: 3689
 item_type: Still Image

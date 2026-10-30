@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0235.JPG
     thumb: /files/thumbnails/14fb2a54f722c914fb2a54f726af.jpg
     url: /files/original/14fb2a54f722c914fb2a54f726af.jpg
+    alt:
+      en: "A collapsed house with its roof caved in sits behind a white picket fence, surrounded by broken trees and storm debris scattered across the yard."
 geo:
 id: 4916
 item_type: Still Image

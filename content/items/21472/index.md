@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0270-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe73280414fb29fe733abf.jpg
     url: /files/original/14fb29fe73280414fb29fe733abf.jpg
+    alt:
+      en: "Aerial view of a flooded roadway with a submerged or overturned vehicle near the shoulder, a small boat creating ripples in the water, and patches of floating vegetation amid partially submerged trees and debris."
 geo:
 id: 21472
 item_type: Still Image

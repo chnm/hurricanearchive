@@ -21,6 +21,8 @@ files:
     original_filename: 09140027.JPG
     thumb: /files/thumbnails/14fb29e971417814fb29e97160c6.jpg
     url: /files/original/14fb29e971417814fb29e97160c6.jpg
+    alt:
+      en: "Small brick cottage numbered 58 stands amid storm debris, with a fallen tree, overturned boat, scattered bricks, downed wires, and a metal pole leaning against the porch."
 geo:
 id: 24246
 item_type: Still Image

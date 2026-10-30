@@ -18,6 +18,8 @@ files:
     original_filename: 39_6fd83728ee.jpg
     thumb: /files/thumbnails/14fb29c6d3f08714fb29c6d3f46a.jpg
     url: /files/original/14fb29c6d3f08714fb29c6d3f46a.jpg
+    alt:
+      en: "Three women in red majorette-style uniforms with white boots march in a street parade, one holding batons, in front of the brick \"Whitney National Bank of New Orleans\" building on St. Charles Avenue."
 geo:
   address: new orleans, la
   lat: 29.95324

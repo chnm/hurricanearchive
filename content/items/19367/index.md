@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2225engineers.JPG
     thumb: /files/thumbnails/14fb2a10b3d69714fb2a10b3da7d.jpg
     url: /files/original/14fb2a10b3d69714fb2a10b3da7d.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms, one wearing a yellow hard hat, use a chainsaw to clear a large fallen tree near a damaged boat, with cables rigged overhead to help remove debris."
 geo:
 id: 19367
 item_type: Still Image

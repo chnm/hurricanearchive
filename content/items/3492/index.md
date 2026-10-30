@@ -24,6 +24,8 @@ files:
     original_filename: P1010066.JPG
     thumb: /files/thumbnails/14fb2a5b7dcd4a14fb2a5b7dd44c.jpg
     url: /files/original/14fb2a5b7dcd4a14fb2a5b7dd44c.jpg
+    alt:
+      en: "Interior of a storm-damaged structure filled with debris, including torn insulation, mildewed couch cushions, wooden cable spools, a laundry basket, pet carrier, and scattered household items coated in grime."
 geo:
 id: 3492
 item_type: Still Image

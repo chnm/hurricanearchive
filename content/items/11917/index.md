@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 039.jpg
     thumb: /files/thumbnails/14fb2a22bc269514fb2a22bc2a7b.jpg
     url: /files/original/14fb2a22bc269514fb2a22bc2a7b.jpg
+    alt:
+      en: "Damaged gas station canopy with twisted metal framing, surrounded by heavy equipment, trucks, and debris on a sandy lot, with a \"Dillard's\" building visible in the background, dated 2005/09/24."
 geo:
 id: 11917
 item_type: Still Image

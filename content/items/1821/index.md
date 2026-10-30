@@ -26,6 +26,8 @@ files:
     original_filename: Katrina02_1278f61f36.jpg
     thumb: /files/thumbnails/14fb2a6ec014d114fb2a6ec018b2.jpg
     url: /files/original/14fb2a6ec014d114fb2a6ec018b2.jpg
+    alt:
+      en: "Parking lot filled with cars at a truck stop under a cloudy sky, with a silver sedan in the foreground where a woman in a red shirt stands by the open door; a tall sign looms overhead."
 geo:
   address: ''
   lat: 30.0690196846607

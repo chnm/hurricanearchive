@@ -21,6 +21,8 @@ files:
     original_filename: Iwo and Cruise Ship2iwojima.JPG
     thumb: /files/thumbnails/14fb2a1163daae14fb2a1163deb4.jpg
     url: /files/original/14fb2a1163daae14fb2a1163deb4.jpg
+    alt:
+      en: "City skyline with high-rise buildings and a construction crane, alongside a \"Riverwalk\" waterfront building, with a cruise ship labeled \"Ecstasy\" and a large gray naval vessel docked in the foreground."
 geo:
 id: 19274
 item_type: Still Image

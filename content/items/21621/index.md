@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0354-21.JPG
     thumb: /files/thumbnails/14fb29fd01d2eb14fb29fd022237.jpg
     url: /files/original/14fb29fd01d2eb14fb29fd022237.jpg
+    alt:
+      en: "Blurred photo of a man in military camouflage uniform, partially obscured by another person's head in the foreground, with a wall-mounted device and red handles visible in the upper background."
 geo:
 id: 21621
 item_type: Still Image

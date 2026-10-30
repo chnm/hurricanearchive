@@ -21,6 +21,8 @@ files:
     original_filename: slide37.jpg
     thumb: /files/thumbnails/14fb2a1935357b14fb2a19353961.jpg
     url: /files/original/14fb2a1935357b14fb2a19353961.jpg
+    alt:
+      en: "Three workers in safety vests and helmets walk along a gravel path through a debris-strewn, storm-damaged area lined with bare trees and scattered wreckage."
 geo:
 id: 14413
 item_type: Still Image

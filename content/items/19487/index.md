@@ -21,6 +21,8 @@ files:
     original_filename: Picture 047engineers.jpg
     thumb: /files/thumbnails/14fb2a0fbd83ae14fb2a0fbd854a.jpg
     url: /files/original/14fb2a0fbd83ae14fb2a0fbd854a.jpg
+    alt:
+      en: "Aerial view of a flooded New Orleans neighborhood, with houses, trees, and a school building surrounded by floodwaters; a canal with a barge runs through the scene."
 geo:
 id: 19487
 item_type: Still Image

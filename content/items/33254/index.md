@@ -23,6 +23,8 @@ files:
     original_filename: 1231252390_32b60c7888.jpg
     thumb: /files/thumbnails/14fb29cb20c8e414fb29cb20ccca.jpg
     url: /files/original/14fb29cb20c8e414fb29cb20ccca.jpg
+    alt:
+      en: "A weathered purple wooden house with a white-framed door numbered \"524,\" its window covered by blinds and papers taped inside, set beneath a slanted overhang roof."
 geo:
 id: 33254
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1191Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6f5cdc714fb29f6f5d4a6.jpg
     url: /files/original/14fb29f6f5cdc714fb29f6f5d4a6.jpg
+    alt:
+      en: "Dark, grainy nighttime photo showing a vehicle with a greenish cab, several people wearing orange safety vests, and a Mercury outboard motor box in the background."
 geo:
 id: 22371
 item_type: Still Image

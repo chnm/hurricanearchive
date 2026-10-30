@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032grandisle.JPG
     thumb: /files/thumbnails/14fb2a15351d6f14fb2a15352154.jpg
     url: /files/original/14fb2a15351d6f14fb2a15352154.jpg
+    alt:
+      en: "Aerial view of a coastal community with houses on stilts, debris scattered across lots, damaged piers and docks extending into the water, and boats docked along a marina channel."
 geo:
 id: 18801
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 127.jpg
     thumb: /files/thumbnails/14fb2a60793c9c14fb2a60794082.jpg
     url: /files/original/14fb2a60793c9c14fb2a60794082.jpg
+    alt:
+      en: "Child's drawing of three nested arch shapes in red, yellow, and blue, surrounded by scattered colorful dots, with the word \"Destiny\" written vertically in red along the left edge."
 geo:
 id: 2704
 item_type: Still Image

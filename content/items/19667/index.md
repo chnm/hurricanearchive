@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 054cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e813b3c14fb2a0e813f21.jpg
     url: /files/original/14fb2a0e813b3c14fb2a0e813f21.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms staff a makeshift command center with a desk labeled \"City Hall Mayor's Office\" and \"Check In,\" surrounded by whiteboards, ladders, and supply boxes."
 geo:
 id: 19667
 item_type: Still Image

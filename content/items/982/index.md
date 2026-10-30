@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28324.jpg
     thumb: /files/thumbnails/14fb2a6b8c1d4614fb2a6b8c2125.jpg
     url: /files/original/14fb2a6b8c1d4614fb2a6b8c2125.jpg
+    alt:
+      en: "Storm-damaged building reduced to an exposed wooden frame, surrounded by debris, uprooted trees, and scattered construction equipment under an overcast sky."
 geo:
   address: ''
   lat: 0.0

@@ -26,6 +26,8 @@ files:
     original_filename: biloxicasinoinholidayinn_c21d3003ec.JPG
     thumb: /files/thumbnails/14fb2a705dd3a114fb2a705dd78e.jpg
     url: /files/original/14fb2a705dd3a114fb2a705dd78e.jpg
+    alt:
+      en: "Severely damaged multi-story building with torn metal siding, collapsed sections, and exposed structural beams, viewed from inside a car across an empty road, with debris scattered on the roadside."
 geo:
   address: ''
   lat: 30.394791736573

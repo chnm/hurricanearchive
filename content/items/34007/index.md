@@ -23,6 +23,8 @@ files:
     original_filename: Courts House_c4edb81b11.jpg
     thumb: /files/thumbnails/14fb29caa23c6b14fb29caa24050.jpg
     url: /files/original/14fb29caa23c6b14fb29caa24050.jpg
+    alt:
+      en: "Flood-damaged kitchen with grime-coated cabinets, a fallen refrigerator, and scattered debris; a worker in a white protective suit and mask stands near the doorway amid peeling floral wallpaper."
 geo:
   address: ''
   lat: 29.97784

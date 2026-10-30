@@ -21,6 +21,8 @@ files:
     original_filename: SD WWII_7eaf5604de.jpg
     thumb: /files/thumbnails/14fb29d7cc158214fb29d7cc17bf.jpg
     url: /files/original/14fb29d7cc158214fb29d7cc17bf.jpg
+    alt:
+      en: "Sepia-toned studio portrait of a young man in military uniform and cap, leaning on a rifle beside a potted plant and painted backdrop, identified as John Christopher Donner during World War II, 1945."
 geo:
   address: ''
   lat: 29.84064

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0479.JPG
     thumb: /files/thumbnails/14fb2a53d6a22914fb2a53d6a60e.jpg
     url: /files/original/14fb2a53d6a22914fb2a53d6a60e.jpg
+    alt:
+      en: "A pink-sided building with debris on its roofline stands amid scattered trash and bare dirt, with a house and bare trees visible in the background under a clear blue sky."
 geo:
 id: 5117
 item_type: Still Image

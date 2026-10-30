@@ -21,6 +21,8 @@ files:
     original_filename: KJ Mardi Gras_288f460793.jpg
     thumb: /files/thumbnails/14fb29d702d15914fb29d702d53c.jpg
     url: /files/original/14fb29d702d15914fb29d702d53c.jpg
+    alt:
+      en: "Vintage black-and-white photo of a man and woman standing behind two young girls in floral Mardi Gras costumes with floral headpieces, posed on a street with houses and a parked car in the background."
 geo:
   address: ''
   lat: 29.91685

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1759superdome.JPG
     thumb: /files/thumbnails/14fb29e1e0329b14fb29e1e03681.jpg
     url: /files/original/14fb29e1e0329b14fb29e1e03681.jpg
+    alt:
+      en: "Interior view of a military helicopter cockpit, showing a helmeted pilot in camouflage fatigues gripping the flight controls, with instrument panels and sunlit trees visible through the windshield."
 geo:
 id: 25149
 item_type: Still Image

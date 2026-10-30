@@ -26,6 +26,8 @@ files:
     original_filename: kat4_1f9569270f.JPG
     thumb: /files/thumbnails/14fb2a6d8ee8fc14fb2a6d8eece3.jpg
     url: /files/original/14fb2a6d8ee8fc14fb2a6d8eece3.jpg
+    alt:
+      en: "Stacks of cardboard boxes labeled \"American Red Cross Comfort Kit Case/16\" and \"HeaterMeals Quantity-6,\" with a bag of bath tissue on top, piled in a room with carpeted floor."
 geo:
   address: ''
   lat: 31.1011576905899

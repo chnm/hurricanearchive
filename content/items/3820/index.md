@@ -21,6 +21,8 @@ files:
     original_filename: 100_0107.JPG
     thumb: /files/thumbnails/14fb2a5963d82514fb2a5963dc0b.jpg
     url: /files/original/14fb2a5963d82514fb2a5963dc0b.jpg
+    alt:
+      en: "A U.S. Coast Guard inflatable rescue boat docked at a concrete staircase along the shoreline, with crew members in orange life vests aboard while onlookers watch from the steps."
 geo:
 id: 3820
 item_type: Still Image

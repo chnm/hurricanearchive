@@ -21,6 +21,8 @@ files:
     original_filename: 100_0209.JPG
     thumb: /files/thumbnails/14fb2a58f0bf6f14fb2a58f0c355.jpg
     url: /files/original/14fb2a58f0bf6f14fb2a58f0c355.jpg
+    alt:
+      en: "Floodwater surrounds a large bare tree and partially submerged houses, with a small boat carrying people in orange life vests navigating the water nearby under a clear blue sky."
 geo:
 id: 3912
 item_type: Still Image

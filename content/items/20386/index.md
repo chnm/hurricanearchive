@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008.JPG
     thumb: /files/thumbnails/14fb2a082ea09414fb2a082ea479.jpg
     url: /files/original/14fb2a082ea09414fb2a082ea479.jpg
+    alt:
+      en: "People seated at long tables with open laptops, water bottles, and a banana, with one woman gesturing while speaking to another seated nearby in a classroom-like setting."
 geo:
 id: 20386
 item_type: Still Image

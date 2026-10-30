@@ -26,6 +26,8 @@ files:
     original_filename: 100_0106_2202c5c3ea.JPG
     thumb: /files/thumbnails/14fb2a6f86937b14fb2a6f869760.jpg
     url: /files/original/14fb2a6f86937b14fb2a6f869760.jpg
+    alt:
+      en: "A severely crushed teal car sits folded and mangled beneath fallen tree limbs, surrounded by storm debris, a broken concrete slab, and another damaged vehicle in the background."
 geo:
   address: ''
   lat: 0.0

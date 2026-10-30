@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5673_a245337ba0.jpg
     thumb: /files/thumbnails/14fb2a16febe3114fb2a16fec5fd.jpg
     url: /files/original/14fb2a16febe3114fb2a16fec5fd.jpg
+    alt:
+      en: "Two women in formal gowns stand beside a man in a tuxedo wearing a medallion and white gloves, posing indoors near a sign marked \"Q7\" at the Zulu Ball."
 geo:
 id: 15130
 item_type: Still Image

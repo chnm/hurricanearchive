@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034-9-25.JPG
     thumb: /files/thumbnails/14fb2a0621b1ed14fb2a0621b5db.jpg
     url: /files/original/14fb2a0621b1ed14fb2a0621b5db.jpg
+    alt:
+      en: "Aerial view of a grassy coastal field with stripped, storm-damaged trees and fallen limbs, bordering a body of water, with wooden livestock pens and fencing in the foreground."
 geo:
 id: 20561
 item_type: Still Image

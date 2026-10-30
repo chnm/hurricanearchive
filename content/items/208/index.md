@@ -26,6 +26,8 @@ files:
     original_filename: chalmette_national_cemetary_9b5b2c02c0.jpg
     thumb: /files/thumbnails/14fb2a7089b1a314fb2a7089b586.jpg
     url: /files/original/14fb2a7089b1a314fb2a7089b586.jpg
+    alt:
+      en: "Floodwater surrounds a partially submerged sign reading \"Jean Lafitte National Historical Park and Preserve, Chalmette National Cemetery,\" with damaged trees and overcast sky in the background."
 geo:
   address: ''
   lat: 29.900262

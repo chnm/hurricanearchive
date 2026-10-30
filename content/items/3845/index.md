@@ -21,6 +21,8 @@ files:
     original_filename: 100_0137.JPG
     thumb: /files/thumbnails/14fb2a5945071b14fb2a59450b11.jpg
     url: /files/original/14fb2a5945071b14fb2a59450b11.jpg
+    alt:
+      en: "Twilight view of a damaged wooden dock with wrecked boats and debris scattered along the shoreline, silhouetted trees and utility poles against a pastel pink sky, reflected in calm water."
 geo:
 id: 3845
 item_type: Still Image

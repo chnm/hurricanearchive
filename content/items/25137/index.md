@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1744superdome.JPG
     thumb: /files/thumbnails/14fb29e1ee306b14fb29e1eec742.jpg
     url: /files/original/14fb29e1ee306b14fb29e1eec742.jpg
+    alt:
+      en: "A group of military personnel in camouflage and PHI Air Medical crew in black flight suits carry a person on a stretcher toward a yellow helicopter, with floodwater and buildings in the background."
 geo:
 id: 25137
 item_type: Still Image

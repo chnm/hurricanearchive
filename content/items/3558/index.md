@@ -24,6 +24,8 @@ files:
     original_filename: P1010134.JPG
     thumb: /files/thumbnails/14fb2a5ad42b7414fb2a5ad43269.jpg
     url: /files/original/14fb2a5ad42b7414fb2a5ad43269.jpg
+    alt:
+      en: "A massive uprooted tree lies across a park roadside, its trunk and branches sawed into sections amid scattered debris, with surrounding trees and a lamppost in the background."
 geo:
 id: 3558
 item_type: Still Image

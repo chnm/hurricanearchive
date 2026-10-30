@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0249-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fee9e4cc14fb29fee9e8a5.jpg
     url: /files/original/14fb29fee9e4cc14fb29fee9e8a5.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with submerged streets, partially underwater cars and houses, downed power lines, and storm debris scattered across rooftops and yards."
 geo:
 id: 21408
 item_type: Still Image

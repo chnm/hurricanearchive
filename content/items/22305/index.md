@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1116Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7c6706e14fb29f7c6739c.jpg
     url: /files/original/14fb29f7c6706e14fb29f7c6739c.jpg
+    alt:
+      en: "Overexposed nighttime photo of two small boats with red life rings and coiled yellow ropes, floating on floodwater with bright glare washing out much of the scene."
 geo:
 id: 22305
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 1991 Gulf War Kingcake-18_1eef32f9d1.jpg
     thumb: /files/thumbnails/14fb2a17318f8514fb2a17319363.jpg
     url: /files/original/14fb2a17318f8514fb2a17319363.jpg
+    alt:
+      en: "An elaborate king cake display shaped like an American flag with model military vehicles, set before a banner reading \"Nunez Technical Institute's Culinary Occupations Class proudly presents.\""
 geo:
 id: 15093
 item_type: Still Image

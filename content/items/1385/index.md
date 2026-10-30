@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28017.jpg
     thumb: /files/thumbnails/14fb2a6928a6af14fb2a6928aa95.jpg
     url: /files/original/14fb2a6928a6af14fb2a6928aa95.jpg
+    alt:
+      en: "Three damaged houses with collapsed walls and exposed interiors stand amid piles of rubble and debris, with a stretch of gravel in the foreground and bare trees against a clear sky."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 09140013.JPG
     thumb: /files/thumbnails/14fb29e97d94d814fb29e97d98ba.jpg
     url: /files/original/14fb29e97d94d814fb29e97d98ba.jpg
+    alt:
+      en: "Abandoned Spur gas station with four fuel pumps under a canopy, scattered cardboard boxes and debris on the ground, with \"Sandwich Corner\" signage and a blue building visible in the background."
 geo:
 id: 24232
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: Picture+042_a686fa8630.jpg
     thumb: /files/thumbnails/14fb29cdcb0e6b14fb29cdcb4d3e.jpg
     url: /files/original/14fb29cdcb0e6b14fb29cdcb4d3e.jpg
+    alt:
+      en: "A severely damaged bathroom with a mud-caked toilet, sink, and bathtub, peeling wallpaper and tile, and debris scattered across the floor."
 geo:
 id: 30032
 item_type: Still Image

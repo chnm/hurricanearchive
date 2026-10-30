@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020-9-25.JPG
     thumb: /files/thumbnails/14fb2a06f07f7214fb2a06f0829f.jpg
     url: /files/original/14fb2a06f07f7214fb2a06f0829f.jpg
+    alt:
+      en: "Two U.S. Army soldiers in different camouflage uniforms converse outdoors near a building; one, with a name tape reading \"TANGUY,\" smiles while the other rests a hand on his shoulder."
 geo:
 id: 20476
 item_type: Still Image

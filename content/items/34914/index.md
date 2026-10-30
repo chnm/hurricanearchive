@@ -20,6 +20,8 @@ files:
     original_filename: 2457529336_1acb80afb1.
     thumb: /files/thumbnails/14fb29c8845d6114fb29c884613c.jpg
     url: /files/original/14fb29c8845d6114fb29c884613c.jpg
+    alt:
+      en: "Excavator and dump truck work alongside a rock-lined channel and water, with dense tree lines in the background under a clear sky."
 geo:
 id: 34914
 item_type: Still Image

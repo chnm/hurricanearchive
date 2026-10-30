@@ -18,6 +18,8 @@ files:
     original_filename: 11_808611a22f.jpg
     thumb: /files/thumbnails/14fb29c73e5db714fb29c73e6585.jpg
     url: /files/original/14fb29c73e5db714fb29c73e6585.jpg
+    alt:
+      en: "Nighttime photo of two people in marching band-style uniforms, one in a white and silver cape outfit with a plumed hat, the other in a red and white \"pussycats\" majorette uniform holding a mock rifle."
 geo:
   address: new orleans, la
   lat: 29.95324

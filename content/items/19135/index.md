@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 045.jpg
     thumb: /files/thumbnails/14fb2a12cb4f5e14fb2a12cb5342.jpg
     url: /files/original/14fb2a12cb4f5e14fb2a12cb5342.jpg
+    alt:
+      en: "Green telehandler forklift parked on a paved lot beneath large canopy shelters with torn fabric roofing, surrounded by military trucks, equipment, and stacked water bottles."
 geo:
 id: 19135
 item_type: Still Image

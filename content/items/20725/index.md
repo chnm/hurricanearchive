@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0065-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0443e92314fb2a0443ecfb.jpg
     url: /files/original/14fb2a0443e92314fb2a0443ecfb.jpg
+    alt:
+      en: "Aerial view of extensive flooding along a tree-lined roadway, with debris scattered across submerged land and partially submerged trees stretching toward the horizon under a gray, overcast sky."
 geo:
 id: 20725
 item_type: Still Image

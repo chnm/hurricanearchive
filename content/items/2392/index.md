@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_EVAL_05CIM_5a543b8f61.jpg
     thumb: /files/thumbnails/14fb2a66bf3d9814fb2a66c00332.jpg
     url: /files/original/14fb2a66bf3d9814fb2a66c00332.jpg
+    alt:
+      en: "A man wearing a navy boonie hat drives a vehicle past a pine forest, with a large displaced boat resting among the trees in Bayou Portage, Mississippi."
 geo:
 id: 2392
 item_type: Still Image

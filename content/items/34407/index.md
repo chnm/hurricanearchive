@@ -26,6 +26,8 @@ files:
     original_filename: 2380072077_6cae9b1da8.
     thumb: /files/thumbnails/14fb29ca3028e014fb29ca302cc5.jpg
     url: /files/original/14fb29ca3028e014fb29ca302cc5.jpg
+    alt:
+      en: "Debris-strewn concrete slabs and scattered wreckage along a shoreline, with a damaged palm tree and remnants of a pier visible against the water and sky."
 geo:
   address: ''
   lat: 30.22437

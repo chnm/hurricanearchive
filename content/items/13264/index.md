@@ -21,6 +21,8 @@ files:
     original_filename: the palm tree shot.jpg
     thumb: /files/thumbnails/14fb2a1e78325614fb2a1e78363b.jpg
     url: /files/original/14fb2a1e78325614fb2a1e78363b.jpg
+    alt:
+      en: "A palm tree bends violently in strong wind and heavy rain, its fronds whipped sideways against a flooded, gray landscape with faint structures and a lit tower visible in the distance."
 geo:
 id: 13264
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 347-J2.jpg
     thumb: /files/thumbnails/14fb29fa15418d14fb29fa154572.jpg
     url: /files/original/14fb29fa15418d14fb29fa154572.jpg
+    alt:
+      en: "A dark, shadowed road surface with a yellow lane marking visible in the upper left corner, transitioning into deep shadow across the frame."
 geo:
 id: 22016
 item_type: Still Image

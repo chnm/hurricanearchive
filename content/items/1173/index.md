@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28702.jpg
     thumb: /files/thumbnails/14fb2a6aacbfcc14fb2a6aacc3aa.jpg
     url: /files/original/14fb2a6aacbfcc14fb2a6aacc3aa.jpg
+    alt:
+      en: "A woman wearing a pink tank top and lanyard ID badge sits in a small, cluttered living space filled with supplies, bedding, and personal items, with a patchwork quilt-covered bed behind her."
 geo:
   address: ''
   lat: 0.0

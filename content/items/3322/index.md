@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (80).jpg
     thumb: /files/thumbnails/14fb2a5c6a047a14fb2a5c6a085d.jpg
     url: /files/original/14fb2a5c6a047a14fb2a5c6a085d.jpg
+    alt:
+      en: "Hundreds of small dead fish cover shallow, murky water and a rusted metal surface, with scattered leaves and debris among them."
 geo:
 id: 3322
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9162.jpg
     thumb: /files/thumbnails/14fb2a63cd978314fb2a63cd9bb6.jpg
     url: /files/original/14fb2a63cd978314fb2a63cd9bb6.jpg
+    alt:
+      en: "A tattered, hole-torn American flag flies from a rusted pole amid the concrete foundation and scattered debris of a destroyed beachfront house, with the shoreline visible in the distance."
 geo:
 id: 2634
 item_type: Still Image

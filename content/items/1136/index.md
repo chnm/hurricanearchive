@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28115.jpg
     thumb: /files/thumbnails/14fb2a6ad8b5c114fb2a6ad8b9a1.jpg
     url: /files/original/14fb2a6ad8b5c114fb2a6ad8b9a1.jpg
+    alt:
+      en: "A small boat with two workers moves along a canal near a concrete bridge, with a large crane positioned on the roadway above and a gravel embankment in the foreground."
 geo:
   address: ''
   lat: 0.0

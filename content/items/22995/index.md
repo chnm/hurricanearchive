@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005OEP.JPG
     thumb: /files/thumbnails/14fb29f2325ce914fb29f2326322.jpg
     url: /files/original/14fb29f2325ce914fb29f2326322.jpg
+    alt:
+      en: "A military helicopter sits parked on an open grassy field behind a chain-link fence, with a weathered soccer goal in the foreground and trees and buildings visible in the background."
 geo:
 id: 22995
 item_type: Still Image

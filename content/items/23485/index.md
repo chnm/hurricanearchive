@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0129cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef3d8ad014fb29ef3d8eb6.jpg
     url: /files/original/14fb29ef3d8ad014fb29ef3d8eb6.jpg
+    alt:
+      en: "A person in camouflage military attire wearing a headset looks out from an aircraft window over a wide river, with barges on the water and green landscape below."
 geo:
 id: 23485
 item_type: Still Image

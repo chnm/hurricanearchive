@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28665.jpg
     thumb: /files/thumbnails/14fb2a69159a9b14fb2a69159e81.jpg
     url: /files/original/14fb2a69159a9b14fb2a69159e81.jpg
+    alt:
+      en: "Two volunteers bathe a thin brown horse with a hose inside a stable, one holding its lead rope while the other sprays its hindquarters, with a large fan positioned nearby."
 geo:
   address: ''
   lat: 0.0

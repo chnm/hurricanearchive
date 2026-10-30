@@ -21,6 +21,8 @@ files:
     original_filename: RhinaKissee-5920_ef6a32eea0.jpg
     thumb: /files/thumbnails/14fb29d8fa74a614fb29d8fa7895.jpg
     url: /files/original/14fb29d8fa74a614fb29d8fa7895.jpg
+    alt:
+      en: "A boy in sunglasses sits near hay bales and pumpkins at an outdoor pumpkin patch, with a scarecrow, a \"...S FALL Y'ALL\" sign, and visitors browsing pumpkins in the background."
 geo:
   address: 3709 Palmisano Blvd., Chalmette, LA
   lat: 29.95079

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0281-16.JPG
     thumb: /files/thumbnails/14fb29fddc7d3c14fb29fddc80e1.jpg
     url: /files/original/14fb29fddc7d3c14fb29fddc80e1.jpg
+    alt:
+      en: "A residential street coated in thick gray mud and sediment, with a backhoe tractor driving down the center, parked cars along the curb, and a fire hydrant partly buried in silt."
 geo:
 id: 21513
 item_type: Still Image

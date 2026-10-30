@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 048.jpg
     thumb: /files/thumbnails/14fb2a22631ab714fb2a22631e9d.jpg
     url: /files/original/14fb2a22631ab714fb2a22631e9d.jpg
+    alt:
+      en: "A white and blue motorboat sits stranded amid a damaged pine forest, surrounded by downed trees, scattered debris, and broken lumber, with an orange spray-painted mark on its hull."
 geo:
 id: 12000
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: gober.JPG
     thumb: /files/thumbnails/14fb2a1a92d66914fb2a1a92da49.jpg
     url: /files/original/14fb2a1a92d66914fb2a1a92da49.jpg
+    alt:
+      en: "Portrait of a U.S. Army soldier in woodland camouflage uniform with a \"GOBER\" name tape and \"U.S. ARMY\" tape, standing indoors near a flip chart and another seated soldier."
 geo:
   address: ''
   lat: 0.0

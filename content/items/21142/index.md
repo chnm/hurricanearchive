@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0185-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a005e41ba14fb2a005e459f.jpg
     url: /files/original/14fb2a005e41ba14fb2a005e459f.jpg
+    alt:
+      en: "Two men stand beside floodwaters, one pointing toward a pile of storm debris including a sheet of corrugated metal and dried brush along the water's edge, with bare trees in the background."
 geo:
 id: 21142
 item_type: Still Image

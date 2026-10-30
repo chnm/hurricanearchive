@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0070cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efca2b6f14fb29efca2f46.jpg
     url: /files/original/14fb29efca2b6f14fb29efca2f46.jpg
+    alt:
+      en: "Aerial view of open water with subtle color variations and a faint sheen or discoloration streak across the surface, likely indicating an oil slick or sediment plume."
 geo:
 id: 23365
 item_type: Still Image

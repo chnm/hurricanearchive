@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28567.jpg
     thumb: /files/thumbnails/14fb2a66e5679e14fb2a66e56bbe.jpg
     url: /files/original/14fb2a66e5679e14fb2a66e56bbe.jpg
+    alt:
+      en: "A small single-story house with a tiled roof sits knocked off its foundation, tilted at an angle, surrounded by mud and debris; an orange \"X\" search marking is spray-painted on its front door."
 geo:
   address: ''
   lat: 0.0

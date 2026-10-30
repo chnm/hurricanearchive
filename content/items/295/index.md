@@ -26,6 +26,8 @@ files:
     original_filename: Picture_030_fe928296b1.jpg
     thumb: /files/thumbnails/14fb2a70413f2b14fb2a7041430d.jpg
     url: /files/original/14fb2a70413f2b14fb2a7041430d.jpg
+    alt:
+      en: "Dense fog and heavy rain obscure a landscape of pine trees bent by strong wind, with blurred greenery and pavement visible in the foreground."
 geo:
   address: ''
   lat: 30.6121352405895

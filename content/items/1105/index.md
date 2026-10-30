@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28605.jpg
     thumb: /files/thumbnails/14fb2a6afa86e214fb2a6afa8c59.jpg
     url: /files/original/14fb2a6afa86e214fb2a6afa8c59.jpg
+    alt:
+      en: "A man stands beside the curved exterior of a weathered, rounded building with multiple windows, standing on a small concrete step near the entrance, surrounded by dry bushes and bare trees."
 geo:
   address: ''
   lat: 0.0

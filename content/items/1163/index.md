@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28278.jpg
     thumb: /files/thumbnails/14fb2a6ab57be014fb2a6ab57fc6.jpg
     url: /files/original/14fb2a6ab57be014fb2a6ab57fc6.jpg
+    alt:
+      en: "A wooden post spray-painted with \"BYC KEEP AWAY FROM POOL\" lies amid debris-strewn ground, with wrecked buildings and storm-stripped trees in the background."
 geo:
   address: ''
   lat: 0.0

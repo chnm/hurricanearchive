@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2086superdome.JPG
     thumb: /files/thumbnails/14fb29e504b18714fb29e504bbf2.jpg
     url: /files/original/14fb29e504b18714fb29e504bbf2.jpg
+    alt:
+      en: "A man wearing an Acadian Ambulance Service uniform sits on a John Deere utility vehicle marked with the Acadian Ambulance Service logo, parked indoors near an elevator sign."
 geo:
 id: 24764
 item_type: Still Image

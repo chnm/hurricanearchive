@@ -21,6 +21,8 @@ files:
     original_filename: DSC01157.JPG
     thumb: /files/thumbnails/14fb2a585775ed14fb2a585779d1.jpg
     url: /files/original/14fb2a585775ed14fb2a585779d1.jpg
+    alt:
+      en: "Street intersection with a military Humvee and a uniformed figure near multiple stop signs, a \"Tastee\" restaurant and \"Try V-Power Premium Gasoline\" sign visible in the background under a clear sky."
 geo:
 id: 4037
 item_type: Still Image

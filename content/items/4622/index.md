@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0048.JPG
     thumb: /files/thumbnails/14fb2a56b838b614fb2a56b83bb8.jpg
     url: /files/original/14fb2a56b838b614fb2a56b83bb8.jpg
+    alt:
+      en: "Damaged roof edge of a brick house covered with blue tarp, exposed wood and torn flashing visible along the eave, with a white chimney and trees in the background."
 geo:
 id: 4622
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC01153.JPG
     thumb: /files/thumbnails/14fb2a58598ce614fb2a585990c9.jpg
     url: /files/original/14fb2a58598ce614fb2a585990c9.jpg
+    alt:
+      en: "Highway overpass sign reading \"eway Blvd North, ndeville\" with an arrow, overlooking a large debris pile near the Galleria and Wyndham buildings, with trucks, an RV, and a guardrail in the foreground."
 geo:
 id: 4035
 item_type: Still Image

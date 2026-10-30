@@ -20,6 +20,8 @@ files:
     original_filename: Ship weathers another storm in Gulfport, MS.JPG
     thumb: /files/thumbnails/14fb29d59231ab14fb29d592358f.jpg
     url: /files/original/14fb29d59231ab14fb29d592358f.jpg
+    alt:
+      en: "Weathered boat labeled \"S.S. HURRICANE CAMILLE, GULFPORT, MISS.\" sits grounded on sandy ground near a road, with bare, storm-damaged trees in the misty background."
 geo:
 id: 27267
 item_type: Still Image

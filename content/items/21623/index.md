@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0355-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fcf2f09a14fb29fcf2f480.jpg
     url: /files/original/14fb29fcf2f09a14fb29fcf2f480.jpg
+    alt:
+      en: "Aerial view of a winding river through marshland, with flooded grassy wetlands in the foreground and hazy, low-lying terrain stretching toward the horizon."
 geo:
 id: 21623
 item_type: Still Image

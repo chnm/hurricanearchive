@@ -21,6 +21,8 @@ files:
     original_filename: Picture 274-J2.jpg
     thumb: /files/thumbnails/14fb29fae7f55214fb29fae7f938.jpg
     url: /files/original/14fb29fae7f55214fb29fae7f938.jpg
+    alt:
+      en: "Long industrial metal building with a tilted utility pole leaning against it, a chain-link fence, and a blue \"Luzianne Coffee & Tea\" sign in front, surrounded by grass and a gravel road."
 geo:
 id: 21943
 item_type: Still Image

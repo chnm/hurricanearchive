@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8834.jpg
     thumb: /files/thumbnails/14fb2a656a948f14fb2a656a9872.jpg
     url: /files/original/14fb2a656a948f14fb2a656a9872.jpg
+    alt:
+      en: "Construction site with a yellow and purple dump truck, two tall blue lift towers, a concrete barrier, and a pile of rubble with exposed rebar in the foreground."
 geo:
 id: 2548
 item_type: Still Image

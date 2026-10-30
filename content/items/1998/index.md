@@ -26,6 +26,8 @@ files:
     original_filename: 013_13A_4f57dda709.jpg
     thumb: /files/thumbnails/14fb2a6dd7e7b414fb2a6dd7ec5a.jpg
     url: /files/original/14fb2a6dd7e7b414fb2a6dd7ec5a.jpg
+    alt:
+      en: "Overturned car and scattered debris surround a storm-damaged two-story house with missing windows, while people and a camera crew with a microphone boom document the scene in the Lower Ninth Ward."
 geo:
   address: ''
   lat: 0.0

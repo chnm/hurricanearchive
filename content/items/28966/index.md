@@ -27,6 +27,8 @@ files:
     original_filename: crane clothesline_84b1ce1d60.JPG
     thumb: /files/thumbnails/14fb29d151300f14fb29d1513569.jpg
     url: /files/original/14fb29d151300f14fb29d1513569.jpg
+    alt:
+      en: "Three sheets of paper clipped to an outdoor clothesline, the center one painted with a pale blue sky and a hanging piece of raw meat, set against a weathered wooden house and corrugated metal fencing."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

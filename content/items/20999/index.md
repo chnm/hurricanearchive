@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0165-9-25.JPG
     thumb: /files/thumbnails/14fb2a0123186e14fb2a01231ba3.jpg
     url: /files/original/14fb2a0123186e14fb2a01231ba3.jpg
+    alt:
+      en: "Aerial view of a flooded property with only the brick chimney and flattened foundation remaining above the water's surface, surrounded by submerged, storm-stripped trees."
 geo:
 id: 20999
 item_type: Still Image

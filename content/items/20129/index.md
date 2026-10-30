@@ -21,6 +21,8 @@ files:
     original_filename: Picture 226cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b254b8b14fb2a0b254fdb.jpg
     url: /files/original/14fb2a0b254b8b14fb2a0b254fdb.jpg
+    alt:
+      en: "Three men in camouflage military uniforms stand in a debris-strewn yard in front of a damaged brick house with a downed tree limb overhead, one man smiling and holding a water bottle."
 geo:
 id: 20129
 item_type: Still Image

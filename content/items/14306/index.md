@@ -21,6 +21,8 @@ files:
     original_filename: aerials18.jpg
     thumb: /files/thumbnails/14fb2a19e23ccd14fb2a19e2416f.jpg
     url: /files/original/14fb2a19e23ccd14fb2a19e2416f.jpg
+    alt:
+      en: "Aerial view of storm-damaged homes with collapsed roofs and scattered debris along a waterfront road, surrounded by downed and stripped trees."
 geo:
 id: 14306
 item_type: Still Image

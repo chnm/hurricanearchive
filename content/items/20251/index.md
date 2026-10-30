@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 14rescue.a1.MEDIUM.jpg
     thumb: /files/thumbnails/14fb2a0a70c98014fb2a0a70cd66.jpg
     url: /files/original/14fb2a0a70c98014fb2a0a70cd66.jpg
+    alt:
+      en: "Rescue workers in uniform carry an injured or exhausted person between them across a street, with a house and trees visible in the background."
 geo:
 id: 20251
 item_type: Still Image

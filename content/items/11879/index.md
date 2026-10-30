@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 001.jpg
     thumb: /files/thumbnails/14fb2a22f0dcce14fb2a22f0e74a.jpg
     url: /files/original/14fb2a22f0dcce14fb2a22f0e74a.jpg
+    alt:
+      en: "Sailboats moored along a tree-lined waterway, with a capsized or partially submerged boat floating in the channel; cranes and industrial equipment visible in the distance, dated 2005/09/24."
 geo:
 id: 11879
 item_type: Still Image

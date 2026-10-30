@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 025.jpg
     thumb: /files/thumbnails/14fb2a59df3d4414fb2a59df412b.jpg
     url: /files/original/14fb2a59df3d4414fb2a59df412b.jpg
+    alt:
+      en: "Damaged wood-frame house with a partially collapsed roof stands beside a brick home with a blue tarp roof, both behind a chain-link fence with overgrown grass and a utility pole in front."
 geo:
 id: 3745
 item_type: Still Image

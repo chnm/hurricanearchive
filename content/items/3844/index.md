@@ -21,6 +21,8 @@ files:
     original_filename: 100_0136.JPG
     thumb: /files/thumbnails/14fb2a59459f7414fb2a5945a350.jpg
     url: /files/original/14fb2a59459f7414fb2a5945a350.jpg
+    alt:
+      en: "Waterfront view of a storm-damaged lighthouse-style building with a red roof and white lower structure, surrounded by a row of damaged buildings and a partial \"EAT A\" sign, with high-rise buildings in the background."
 geo:
 id: 3844
 item_type: Still Image

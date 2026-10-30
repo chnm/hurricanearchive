@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1160Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f732f7b114fb29f732fa86.jpg
     url: /files/original/14fb29f732f7b114fb29f732fa86.jpg
+    alt:
+      en: "Blurry, motion-distorted photo of a person's head with dark hair, head bowed, against a muted greenish-brown paneled background."
 geo:
 id: 22345
 item_type: Still Image

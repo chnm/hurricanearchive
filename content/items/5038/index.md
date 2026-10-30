@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0383.JPG
     thumb: /files/thumbnails/14fb2a544edaf314fb2a544edecf.jpg
     url: /files/original/14fb2a544edaf314fb2a544edecf.jpg
+    alt:
+      en: "Bare concrete slab foundation with wooden support posts remaining after a structure was destroyed, surrounded by scattered debris and damaged trees in the background."
 geo:
 id: 5038
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: aKatrina at Brushfire Lane.jpg
     thumb: /files/thumbnails/14fb29c1e3c19114fb29c1e3c578.jpg
     url: /files/original/14fb29c1e3c19114fb29c1e3c578.jpg
+    alt:
+      en: "Floodwaters partially submerge several cars along a residential street, with debris floating on the surface and a house visible in the foreground under heavy rain."
 geo:
   address: ''
   lat: 30.22807

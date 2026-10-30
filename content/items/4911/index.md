@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0230.JPG
     thumb: /files/thumbnails/14fb2a54fae37414fb2a54fae77c.jpg
     url: /files/original/14fb2a54fae37414fb2a54fae77c.jpg
+    alt:
+      en: "A collapsed structure lies flattened, with its roof fallen onto a pile of cinder blocks and bricks, surrounded by storm debris and bare trees in the background."
 geo:
 id: 4911
 item_type: Still Image

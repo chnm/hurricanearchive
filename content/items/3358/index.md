@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (9).JPG
     thumb: /files/thumbnails/14fb2a5c387d0614fb2a5c3880ec.jpg
     url: /files/original/14fb2a5c387d0614fb2a5c3880ec.jpg
+    alt:
+      en: "Storm-damaged trees with broken limbs stand behind two houses, with debris piles and a loader vehicle in the foreground, set against a cleared, gravel-covered lot under a blue sky."
 geo:
 id: 3358
 item_type: Still Image

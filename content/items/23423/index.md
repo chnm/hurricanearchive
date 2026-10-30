@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0097cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ef80d8bc14fb29ef80dca3.jpg
     url: /files/original/14fb29ef80d8bc14fb29ef80dca3.jpg
+    alt:
+      en: "Aerial view of a flat agricultural landscape divided by a straight road, with fields showing patches of standing floodwater and scattered trees and buildings under a hazy sky."
 geo:
 id: 23423
 item_type: Still Image

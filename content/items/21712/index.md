@@ -21,6 +21,8 @@ files:
     original_filename: P1010014.JPG
     thumb: /files/thumbnails/14fb29fc502f8414fb29fc503361.jpg
     url: /files/original/14fb29fc502f8414fb29fc503361.jpg
+    alt:
+      en: "A military Humvee is positioned at the open rear cargo ramp of a C-130 aircraft on a tarmac, with several uniformed personnel standing nearby during loading operations."
 geo:
 id: 21712
 item_type: Still Image

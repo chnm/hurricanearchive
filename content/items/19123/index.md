@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 033.jpg
     thumb: /files/thumbnails/14fb2a12d85ceb14fb2a12d8608e.jpg
     url: /files/original/14fb2a12d85ceb14fb2a12d8608e.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather under a large tent canopy marked \"Operations,\" with camera equipment, cardboard boxes, and supplies set up at an outdoor command post."
 geo:
 id: 19123
 item_type: Still Image

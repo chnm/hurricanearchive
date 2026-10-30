@@ -21,6 +21,8 @@ files:
     original_filename: end tree scrape.jpg
     thumb: /files/thumbnails/14fb2a205bf4e814fb2a205bf8c4.jpg
     url: /files/original/14fb2a205bf4e814fb2a205bf8c4.jpg
+    alt:
+      en: "A tree with a large bark scrape exposing pale wood, viewed from above over a flooded street lined with brick buildings during stormy weather."
 geo:
 id: 13108
 item_type: Still Image

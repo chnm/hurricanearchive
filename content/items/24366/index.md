@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-14-13A.jpg
     thumb: /files/thumbnails/14fb29e86aa07914fb29e86aa45f.jpg
     url: /files/original/14fb29e86aa07914fb29e86aa45f.jpg
+    alt:
+      en: "Floodwater submerges a two-story white house with wraparound porches, with only rooftops and the tops of vehicles visible above the murky water in the foreground."
 geo:
 id: 24366
 item_type: Still Image

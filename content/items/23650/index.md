@@ -21,6 +21,8 @@ files:
     original_filename: P1010091empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee16a69b14fb29ee16aa81.jpg
     url: /files/original/14fb29ee16a69b14fb29ee16aa81.jpg
+    alt:
+      en: "Collapsed metal dome-like structure with twisted steel framework lies in a debris-strewn field, surrounded by storm-damaged, leafless trees and scattered equipment enclosures."
 geo:
 id: 23650
 item_type: Still Image

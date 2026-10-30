@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2124superdome.JPG
     thumb: /files/thumbnails/14fb29e4a742cb14fb29e4a746af.jpg
     url: /files/original/14fb29e4a742cb14fb29e4a746af.jpg
+    alt:
+      en: "A military Black Hawk helicopter flies overhead as uniformed personnel work among dark trailers, emergency vehicles, and a tent set up in a parking lot beneath an overpass."
 geo:
 id: 24802
 item_type: Still Image

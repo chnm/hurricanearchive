@@ -21,6 +21,8 @@ files:
     original_filename: DSC01109.JPG
     thumb: /files/thumbnails/14fb2a588a832b14fb2a588a8707.jpg
     url: /files/original/14fb2a588a832b14fb2a588a8707.jpg
+    alt:
+      en: "Floodwater surrounds leaning, uprooted trees with exposed root masses, with a house roof visible in the background; a timestamp reads \"6 10:18 AM.\""
 geo:
 id: 4008
 item_type: Still Image

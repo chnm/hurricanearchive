@@ -21,6 +21,8 @@ files:
     original_filename: P1010170empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed69187014fb29ed6939e5.jpg
     url: /files/original/14fb29ed69187014fb29ed6939e5.jpg
+    alt:
+      en: "Debris-strewn aftermath of a hurricane, with an overturned vehicle, a tilted trailer, downed power lines, snapped trees, and mud-covered ground littered with scattered wreckage."
 geo:
 id: 23729
 item_type: Still Image

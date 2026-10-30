@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.064.JPG
     thumb: /files/thumbnails/14fb29dcf3333314fb29dcf33719.jpg
     url: /files/original/14fb29dcf3333314fb29dcf33719.jpg
+    alt:
+      en: "Damaged wooden storefront with broken window exposing debris inside, a \"Nineteen Seventeen\" address sign, spray-painted markings, and a \"For Sale By Owner\" sign with phone numbers posted beside an old mailbox."
 geo:
 id: 25638
 item_type: Still Image

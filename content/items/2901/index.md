@@ -21,6 +21,8 @@ files:
     original_filename: MVC-024S.JPG
     thumb: /files/thumbnails/14fb2a5f9ef2dc14fb2a5f9ef6c8.jpg
     url: /files/original/14fb2a5f9ef2dc14fb2a5f9ef6c8.jpg
+    alt:
+      en: "Rows of stacked metal cans viewed through the black iron bars of a storage cage or shelving unit, with a whitewashed wall visible to the left."
 geo:
 id: 2901
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0061cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efd4339314fb29efd43779.jpg
     url: /files/original/14fb29efd4339314fb29efd43779.jpg
+    alt:
+      en: "A damaged, roofless building with exposed structural beams and debris scattered beneath it, next to a Hibernia Bank sign reading \"24 Hour ATM,\" set against a clear blue sky."
 geo:
 id: 23352
 item_type: Still Image

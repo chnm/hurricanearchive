@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p2_04_1bdbf23594.jpg
     thumb: /files/thumbnails/14fb2a175cc7cf14fb2a175ccb32.jpg
     url: /files/original/14fb2a175cc7cf14fb2a175ccb32.jpg
+    alt:
+      en: "Two young children stand in a backyard with raised arms, one in a red jumper and one in a white shirt and navy shorts, near a swing set and leafy vines."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

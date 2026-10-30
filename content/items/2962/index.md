@@ -21,6 +21,8 @@ files:
     original_filename: MVC-017S.JPG
     thumb: /files/thumbnails/14fb2a5f72f69a14fb2a5f72fb29.jpg
     url: /files/original/14fb2a5f72f69a14fb2a5f72fb29.jpg
+    alt:
+      en: "A military jet aircraft marked \"602\" with a U.S. star insignia sits parked on pavement, with a ship's mast and other aircraft tails visible in the background under a clear blue sky."
 geo:
 id: 2962
 item_type: Still Image

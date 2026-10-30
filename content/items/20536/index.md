@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0659894b14fb2a06598d72.jpg
     url: /files/original/14fb2a0659894b14fb2a06598d72.jpg
+    alt:
+      en: "Aerial view of a flooded rural community with scattered houses surrounded by floodwaters, debris-covered yards, and a roadway cutting through the inundated landscape."
 geo:
 id: 20536
 item_type: Still Image

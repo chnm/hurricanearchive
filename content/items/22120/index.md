@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-00-0JacksonbarracksJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f97818fb14fb29f9781ce0.jpg
     url: /files/original/14fb29f97818fb14fb29f9781ce0.jpg
+    alt:
+      en: "A two-story white building with wraparound porches and balconies shows storm damage, including a partially collapsed roof section and tangled wires near a tall metal tower, under an overcast sky."
 geo:
 id: 22120
 item_type: Still Image

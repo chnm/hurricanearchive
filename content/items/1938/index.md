@@ -26,6 +26,8 @@ files:
     original_filename: 100_0473_c77ae7f831.jpg
     thumb: /files/thumbnails/14fb2a6e3c98d514fb2a6e3c9cfe.jpg
     url: /files/original/14fb2a6e3c98d514fb2a6e3c9cfe.jpg
+    alt:
+      en: "Damaged single-story house with collapsed screened porch, debris-strewn yard, bare trees, and a raised concrete foundation, dated 02/05/2006."
 geo:
   address: ''
   lat: 30.2774143351815

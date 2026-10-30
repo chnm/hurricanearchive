@@ -23,6 +23,8 @@ files:
     original_filename: New Orleans 152_98ed0b3469.jpg
     thumb: /files/thumbnails/14fb2a531036bc14fb2a53103aa0.jpg
     url: /files/original/14fb2a531036bc14fb2a53103aa0.jpg
+    alt:
+      en: "A man wearing an Arizona Humane Society cap and \"Animal Medical\" shirt kneels on a rooftop, holding a golden-furred dog with his gloved hands, with damaged trees visible in the background."
 geo:
   address: ''
   lat: 29.90733

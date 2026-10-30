@@ -21,6 +21,8 @@ files:
     original_filename: P1010190empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed49586814fb29ed495c50.jpg
     url: /files/original/14fb29ed49586814fb29ed495c50.jpg
+    alt:
+      en: "Storm-damaged industrial facility with crumpled metal storage tanks, a collapsed warehouse roof, and scattered debris, viewed from a vehicle window; a \"Warning Gas Pipeline\" sign stands in the foreground."
 geo:
 id: 23749
 item_type: Still Image

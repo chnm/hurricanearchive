@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 080cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e5807e814fb2a0e580bcd.jpg
     url: /files/original/14fb2a0e5807e814fb2a0e580bcd.jpg
+    alt:
+      en: "Storm debris and fallen branches litter the empty lot of a Shell gas station, with a vintage blue car parked near the boarded-up pumps and damaged trees lining the street beyond."
 geo:
 id: 19693
 item_type: Still Image

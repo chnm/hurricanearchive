@@ -21,6 +21,8 @@ files:
     original_filename: Picture 187cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b61297714fb2a0b612d5c.jpg
     url: /files/original/14fb2a0b61297714fb2a0b612d5c.jpg
+    alt:
+      en: "Roadside view of a green highway sign reading \"Sen. Ted Hickey Bridge\" and \"Leon C. Simon Drive,\" with guardrail, parked vehicles, and industrial buildings under a partly cloudy sky."
 geo:
 id: 20090
 item_type: Still Image

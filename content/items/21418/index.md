@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0251-9-25.JPG
     thumb: /files/thumbnails/14fb29fedb1c6114fb29fedb232d.jpg
     url: /files/original/14fb29fedb1c6114fb29fedb232d.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters submerging farmland, with several rust-roofed buildings and utility poles partially underwater, surrounded by partly submerged trees and scattered vegetation."
 geo:
 id: 21418
 item_type: Still Image

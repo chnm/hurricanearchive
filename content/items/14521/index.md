@@ -17,6 +17,8 @@ files:
     original_filename: LSGA_Flyer_76aa5798b3.jpg
     thumb: /files/thumbnails/14fb2a18eb2da814fb2a18eb311d.jpg
     url: /files/original/14fb2a18eb2da814fb2a18eb311d.jpg
+    alt:
+      en: "Flyer for Law Students for Governmental Accountability featuring a photo of the U.S. Capitol dome, with text promoting sign-up at www.lsga.net and lobbying efforts related to Hurricanes Katrina and Rita accountability."
 geo:
 id: 14521
 item_type: Document

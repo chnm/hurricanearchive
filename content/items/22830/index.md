@@ -21,6 +21,8 @@ files:
     original_filename: 789z3809cajundome.jpg
     thumb: /files/thumbnails/14fb29f326808414fb29f326845a.jpg
     url: /files/original/14fb29f326808414fb29f326845a.jpg
+    alt:
+      en: "Two military police in camouflage uniforms lean on a metal barricade beside a \"PROHIBITED: GUNS, KNIVES, ALCOHOL, DRUGS, LIGHTERS\" sign, while a man in a white shirt and purple cap reviews paperwork."
 geo:
 id: 22830
 item_type: Still Image

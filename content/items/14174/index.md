@@ -21,6 +21,8 @@ files:
     original_filename: POD.JPG
     thumb: /files/thumbnails/14fb2a1b00a0ee14fb2a1b00a4d2.jpg
     url: /files/original/14fb2a1b00a0ee14fb2a1b00a4d2.jpg
+    alt:
+      en: "Military personnel in fatigues gather under a white tent beside stacked water bottles and boxes, while a line of orange traffic cones directs vehicles through a paved distribution point; timestamp reads 09.26.2005 13:27."
 geo:
   address: ''
   lat: 0.0

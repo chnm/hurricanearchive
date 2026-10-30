@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0069H.JPG
     thumb: /files/thumbnails/14fb2a042882d814fb2a042886c1.jpg
     url: /files/original/14fb2a042882d814fb2a042886c1.jpg
+    alt:
+      en: "A young woman in a white \"Hooters Baton Rouge\" tank top and orange shorts plays foosball alongside a man in a gray T-shirt, with string lights glowing in the dark background."
 geo:
 id: 20745
 item_type: Still Image

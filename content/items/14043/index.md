@@ -21,6 +21,8 @@ files:
     original_filename: 20050928020.JPG
     thumb: /files/thumbnails/14fb2a1c0db0d214fb2a1c0db4b7.jpg
     url: /files/original/14fb2a1c0db0d214fb2a1c0db4b7.jpg
+    alt:
+      en: "Interior of a large industrial warehouse with exposed steel beams, damaged ceiling insulation, and stacked pallets of boxed supplies; a man in camouflage pants walks a bicycle across the concrete floor."
 geo:
   address: ''
   lat: 0.0

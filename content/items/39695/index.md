@@ -20,6 +20,8 @@ files:
     original_filename: DSCF4136_f321f68969.JPG
     thumb: /files/thumbnails/14fb29c509d87f14fb29c509dc65.jpg
     url: /files/original/14fb29c509d87f14fb29c509dc65.jpg
+    alt:
+      en: "A large pile of discarded household belongings—including a mattress, carpet, furniture, boxes, and bins—sits curbside in front of brick ranch homes with boarded windows and storm-damaged trees."
 geo:
   address: ''
   lat: 0.0

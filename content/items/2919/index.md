@@ -21,6 +21,8 @@ files:
     original_filename: MVC-008S.JPG
     thumb: /files/thumbnails/14fb2a5f95ead714fb2a5f95eec5.jpg
     url: /files/original/14fb2a5f95ead714fb2a5f95eec5.jpg
+    alt:
+      en: "Storage shelves lined with vintage lanterns, electrical testing meters, a model ship, toy helicopter and tank, binoculars, and stacked cardboard boxes inside a cluttered closet."
 geo:
 id: 2919
 item_type: Still Image

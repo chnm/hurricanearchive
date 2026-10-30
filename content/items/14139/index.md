@@ -21,6 +21,8 @@ files:
     original_filename: Iowa HS Damages.JPG
     thumb: /files/thumbnails/14fb2a1b88172f14fb2a1b881b11.jpg
     url: /files/original/14fb2a1b88172f14fb2a1b881b11.jpg
+    alt:
+      en: "Collapsed metal roof structure and twisted beams lie on the ground beside a brick building, with surviving support posts and a partial covered walkway still standing nearby."
 geo:
   address: ''
   lat: 0.0

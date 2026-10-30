@@ -21,6 +21,8 @@ files:
     original_filename: FH000012.jpg
     thumb: /files/thumbnails/14fb29fc7301a414fb29fc7303e5.jpg
     url: /files/original/14fb29fc7301a414fb29fc7303e5.jpg
+    alt:
+      en: "Men stand outdoors around a large barrel-style cooker filled with liquid and meat chunks, one man stirring with a long paddle; a pickup truck, folding chairs, and a propane tank are visible nearby."
 geo:
 id: 21680
 item_type: Still Image

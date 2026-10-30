@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2238engineers.JPG
     thumb: /files/thumbnails/14fb2a10a8e48f14fb2a10a8ec89.jpg
     url: /files/original/14fb2a10a8e48f14fb2a10a8ec89.jpg
+    alt:
+      en: "A military-style front-end loader with markings \"225 GP 527 E\" and \"MB023\" drives down a debris-strewn street lined with historic homes, operated by a man wearing a white hard hat."
 geo:
 id: 19377
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: dept social services 9-14.JPG
     thumb: /files/thumbnails/14fb2a2171184614fb2a21711c37.jpg
     url: /files/original/14fb2a2171184614fb2a21711c37.jpg
+    alt:
+      en: "A multi-story building with debris and fallen tree branches scattered along the sidewalk and street, with a damaged car parked at the curb."
 geo:
 id: 12851
 item_type: Still Image

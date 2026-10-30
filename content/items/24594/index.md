@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0123-21.JPG
     thumb: /files/thumbnails/14fb29e6465fcf14fb29e64663c1.jpg
     url: /files/original/14fb29e6465fcf14fb29e64663c1.jpg
+    alt:
+      en: "Blurred, motion-streaked photo of people in military-style uniforms, with a bright light fixture and indistinct furniture visible in the background."
 geo:
 id: 24594
 item_type: Still Image

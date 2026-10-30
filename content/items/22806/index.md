@@ -21,6 +21,8 @@ files:
     original_filename: DSC 007417thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f37d54e914fb29f37d5890.jpg
     url: /files/original/14fb29f37d54e914fb29f37d5890.jpg
+    alt:
+      en: "Aerial view of a coastal neighborhood with a breached levee and floodwall along a canal, muddy water mixing with the lake, green lawns, and rooftops with some blue tarps."
 geo:
 id: 22806
 item_type: Still Image

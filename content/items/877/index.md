@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28388.jpg
     thumb: /files/thumbnails/14fb2a6c89798e14fb2a6c897d7b.jpg
     url: /files/original/14fb2a6c89798e14fb2a6c897d7b.jpg
+    alt:
+      en: "Upward view of green shrimp nets draped over the boat's rigging and mast, with chains, ropes, and a round device visible against a cloudy sky."
 geo:
   address: ''
   lat: 0.0

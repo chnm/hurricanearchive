@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020-20.JPG
     thumb: /files/thumbnails/14fb2a06f7fc9814fb2a06f80012.jpg
     url: /files/original/14fb2a06f7fc9814fb2a06f80012.jpg
+    alt:
+      en: "A man in military camouflage uniform with an American flag patch and \"RANDALL\" name tape sits at a table eating from a styrofoam takeout container inside a large tent with string lights."
 geo:
 id: 20474
 item_type: Still Image

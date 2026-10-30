@@ -21,6 +21,8 @@ files:
     original_filename: P1010024.JPG
     thumb: /files/thumbnails/14fb2a5759013814fb2a5759051f.jpg
     url: /files/original/14fb2a5759013814fb2a5759051f.jpg
+    alt:
+      en: "Aerial view of a flattened coastal community, with grid-patterned streets showing scattered debris, standing water, and foundation slabs where structures once stood, bordered by the ocean and a canal."
 geo:
 id: 4157
 item_type: Still Image

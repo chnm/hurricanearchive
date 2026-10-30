@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (45).JPG
     thumb: /files/thumbnails/14fb2a5d62213714fb2a5d622515.jpg
     url: /files/original/14fb2a5d62213714fb2a5d622515.jpg
+    alt:
+      en: "Abandoned Shell gas station with debris-strewn concrete lot, fallen tree branches, and storm-damaged shotgun houses lining the street under a hazy sky."
 geo:
 id: 3195
 item_type: Still Image

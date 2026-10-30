@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28231.jpg
     thumb: /files/thumbnails/14fb2a67bcb13214fb2a67bcb517.jpg
     url: /files/original/14fb2a67bcb13214fb2a67bcb517.jpg
+    alt:
+      en: "A hanging sign reading \"EGGS,\" \"MILK,\" and \"MEAT\" on handwritten labels, next to a photograph of an empty warehouse-like interior, suspended from the ceiling of the Waveland Wal-Mart."
 geo:
   address: ''
   lat: 0.0

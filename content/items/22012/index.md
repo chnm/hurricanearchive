@@ -21,6 +21,8 @@ files:
     original_filename: Picture 343-J2.jpg
     thumb: /files/thumbnails/14fb29fa21f87914fb29fa220a10.jpg
     url: /files/original/14fb29fa21f87914fb29fa220a10.jpg
+    alt:
+      en: "A yellow and white city transit bus numbered 97282 parked on a street, with a bike rack mounted on the front and a residential area with trees visible in the background."
 geo:
 id: 22012
 item_type: Still Image

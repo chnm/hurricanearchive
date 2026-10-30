@@ -21,6 +21,8 @@ files:
     original_filename: P1010142empireS&R.JPG
     thumb: /files/thumbnails/14fb29edbc19ee14fb29edbc1dd4.jpg
     url: /files/original/14fb29edbc19ee14fb29edbc1dd4.jpg
+    alt:
+      en: "Flooded debris field with collapsed wooden structures, downed trees, and scattered wreckage floating in murky water, a dark shadowed object obscuring the right foreground."
 geo:
 id: 23701
 item_type: Still Image

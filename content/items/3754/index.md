@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 034.jpg
     thumb: /files/thumbnails/14fb2a59d73f0e14fb2a59d743d4.jpg
     url: /files/original/14fb2a59d73f0e14fb2a59d743d4.jpg
+    alt:
+      en: "Debris-strewn lot with damaged multi-story buildings and stripped trees in the background, a low concrete wall, scattered furniture including a red bench and folding chair, and litter across the sandy ground under a clear blue sky."
 geo:
 id: 3754
 item_type: Still Image

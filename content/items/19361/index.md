@@ -21,6 +21,8 @@ files:
     original_filename: Chalmette, LAengineers.jpg
     thumb: /files/thumbnails/14fb2a10c43a0c14fb2a10c43f25.jpg
     url: /files/original/14fb2a10c43a0c14fb2a10c43f25.jpg
+    alt:
+      en: "Military front-loader tractor clears thick mud from a flooded residential street, passing a mud-covered SUV stuck near trees in front of a brick house."
 geo:
 id: 19361
 item_type: Still Image

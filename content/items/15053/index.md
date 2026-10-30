@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p1_06_a2c29c1ad8.jpg
     thumb: /files/thumbnails/14fb2a177a3cca14fb2a177a40b0.jpg
     url: /files/original/14fb2a177a3cca14fb2a177a40b0.jpg
+    alt:
+      en: "Faded 1982 photo of a man, woman, and young child standing by a wooden zoo enclosure fence, with two elephants grazing near a rock formation in the background."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

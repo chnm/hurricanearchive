@@ -21,6 +21,8 @@ files:
     original_filename: LeoSchaeffer1B_6c6b0502e9.jpg
     thumb: /files/thumbnails/14fb29dd4ad69814fb29dd4ad99f.jpg
     url: /files/original/14fb29dd4ad69814fb29dd4ad99f.jpg
+    alt:
+      en: "Leo Schaeffer, wearing a white shirt and \"LEO\" name tag, poses with three cheerleaders in black and gold uniforms in front of a tan brick wall and a decorative jester figure."
 geo:
 id: 25539
 item_type: Still Image

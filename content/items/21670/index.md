@@ -21,6 +21,8 @@ files:
     original_filename: FH000007.jpg
     thumb: /files/thumbnails/14fb29fca78b0714fb29fca790cb.jpg
     url: /files/original/14fb29fca78b0714fb29fca790cb.jpg
+    alt:
+      en: "Damaged mobile home with broken windows and twisted metal siding sits amid mud, standing water, and debris, with military trucks and bare trees visible in the background."
 geo:
 id: 21670
 item_type: Still Image

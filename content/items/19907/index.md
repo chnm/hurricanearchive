@@ -21,6 +21,8 @@ files:
     original_filename: Picture 003gillslong.jpg
     thumb: /files/thumbnails/14fb2a0cbb7f7614fb2a0cbb835b.jpg
     url: /files/original/14fb2a0cbb7f7614fb2a0cbb835b.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms with American flag patches examine a large map at a desk, with a computer monitor displaying a weather map and an \"Official Map of Louisiana\" poster on the wall behind them."
 geo:
 id: 19907
 item_type: Still Image

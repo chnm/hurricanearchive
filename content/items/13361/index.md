@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4865_0fc5de6121.jpg
     thumb: /files/thumbnails/14fb2a1e3547ab14fb2a1e354b9f.jpg
     url: /files/original/14fb2a1e3547ab14fb2a1e354b9f.jpg
+    alt:
+      en: "A yearbook page with handwritten notes in red, black, and blue ink, signed by classmates including Nikki, Christopher Stephens, Alyssa, Arielle, and Ryan Lafontaine, wishing \"Chantel Jackson\" a good summer."
 geo:
 id: 13361
 item_type: Still Image

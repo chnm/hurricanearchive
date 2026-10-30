@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0325gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cd2989814fb2a0cd29c7e.jpg
     url: /files/original/14fb2a0cd2989814fb2a0cd29c7e.jpg
+    alt:
+      en: "Aerial view of rows of military vehicles, including trucks and Humvees, parked in long lines across a grassy field bordered by trees."
 geo:
 id: 19898
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010100.JPG
     thumb: /files/thumbnails/14fb2a5a44188814fb2a5a441dea.jpg
     url: /files/original/14fb2a5a44188814fb2a5a441dea.jpg
+    alt:
+      en: "Brick house with collapsed roof and exposed rafters, barred windows and arched doorways intact, surrounded by a large debris pile of furniture, insulation, and an air conditioning unit in the yard."
 geo:
 id: 3663
 item_type: Still Image

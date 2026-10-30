@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0283-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fdcceb8914fb29fdccf71e.jpg
     url: /files/original/14fb29fdcceb8914fb29fdccf71e.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with standing water surrounding houses, scattered fallen trees, and an elevated highway overpass running diagonally through the scene."
 geo:
 id: 21522
 item_type: Still Image

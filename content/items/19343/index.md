@@ -21,6 +21,8 @@ files:
     original_filename: J2 (59).JPG
     thumb: /files/thumbnails/14fb2a110739e714fb2a11073cf1.jpg
     url: /files/original/14fb2a110739e714fb2a11073cf1.jpg
+    alt:
+      en: "Aerial view of a dense urban neighborhood with rows of rooftops, leading to a wide river crossed by a steel truss bridge, with high-rise buildings visible in the distance."
 geo:
 id: 19343
 item_type: Still Image

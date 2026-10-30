@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 055.jpg
     thumb: /files/thumbnails/14fb2a12c24f4414fb2a12c2532a.jpg
     url: /files/original/14fb2a12c24f4414fb2a12c2532a.jpg
+    alt:
+      en: "Close-up of a woodland camouflage military uniform shoulder, showing a subdued half-circle rising-sun patch and a partial \"ARMY\" name tape stitched below."
 geo:
 id: 19145
 item_type: Still Image

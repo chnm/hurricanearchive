@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0091H.JPG
     thumb: /files/thumbnails/14fb29e80334e714fb29e8033e26.jpg
     url: /files/original/14fb29e80334e714fb29e8033e26.jpg
+    alt:
+      en: "Two young women in white Hooters tank tops pose with raised fists, one wearing glasses, against a dark background with small lights visible above."
 geo:
 id: 24425
 item_type: Still Image

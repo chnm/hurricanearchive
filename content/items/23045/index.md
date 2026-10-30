@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0055OEP.JPG
     thumb: /files/thumbnails/14fb29f1c5bf3614fb29f1c5c2df.jpg
     url: /files/original/14fb29f1c5bf3614fb29f1c5c2df.jpg
+    alt:
+      en: "An RV parked in a lot displays a banner reading \"Media Support Center, Media Fellowship International,\" with stacked cases of Diet Pepsi and Dr. Pepper, a cooler, and a table of supplies set up alongside it."
 geo:
 id: 23045
 item_type: Still Image

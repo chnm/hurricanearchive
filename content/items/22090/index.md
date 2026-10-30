@@ -21,6 +21,8 @@ files:
     original_filename: 09210001J6.JPG
     thumb: /files/thumbnails/14fb29f99072a014fb29f990768e.jpg
     url: /files/original/14fb29f99072a014fb29f990768e.jpg
+    alt:
+      en: "A military Humvee with antennas parked on a grassy hillside near trees, with two tall guyed communication masts rising against a clear blue sky."
 geo:
 id: 22090
 item_type: Still Image

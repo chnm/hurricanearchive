@@ -26,6 +26,8 @@ files:
     original_filename: mail_49ec2ffa21.jpg
     thumb: /files/thumbnails/14fb2a71472b2314fb2a71472f00.jpg
     url: /files/original/14fb2a71472b2314fb2a71472f00.jpg
+    alt:
+      en: "A bank of metal mailboxes, labeled \"Outgoing Mail,\" lies toppled on a fallen roof section, with splintered wood beams and debris piled in the background near an apartment building."
 geo:
   address: ''
   lat: 29.9492082575635

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0617.JPG
     thumb: /files/thumbnails/14fb29d047e13314fb29d047e517.jpg
     url: /files/original/14fb29d047e13314fb29d047e517.jpg
+    alt:
+      en: "Cracked, debris-strewn residential street with two abandoned cars parked at a corner, a stop sign in the distance, and damaged houses with sagging power lines under a clear sky."
 geo:
 id: 29072
 item_type: Still Image

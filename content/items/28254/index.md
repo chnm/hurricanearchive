@@ -27,6 +27,8 @@ files:
     original_filename: 384884876_a2c176d1fb.
     thumb: /files/thumbnails/14fb29d291ddb514fb29d291e199.jpg
     url: /files/original/14fb29d291ddb514fb29d291e199.jpg
+    alt:
+      en: "A white T-shirt displayed against a dark background, covered in black-and-white illustrations of figures, animals, and comic-style imagery drawn across the fabric."
 geo:
 id: 28254
 item_type: Still Image

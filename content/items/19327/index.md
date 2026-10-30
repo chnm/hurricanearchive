@@ -21,6 +21,8 @@ files:
     original_filename: J2 (44).JPG
     thumb: /files/thumbnails/14fb2a112294bc14fb2a11229faf.jpg
     url: /files/original/14fb2a112294bc14fb2a11229faf.jpg
+    alt:
+      en: "Aerial view from a damaged rooftop with exposed insulation, overlooking a cityscape with flooded streets and buildings, including one labeled \"Medical Center,\" under a dim, overcast sky."
 geo:
 id: 19327
 item_type: Still Image

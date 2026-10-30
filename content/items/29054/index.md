@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-23.jpg
     thumb: /files/thumbnails/14fb29d06523e714fb29d0652e40.jpg
     url: /files/original/14fb29d06523e714fb29d0652e40.jpg
+    alt:
+      en: "Aerial view of an Air National Guard base with a large hangar labeled \"AIR NATIONAL GUARD,\" surrounded by rows of military vehicles, parked cars, warehouses, and an airfield runway in the background."
 geo:
 id: 29054
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0631.JPG
     thumb: /files/thumbnails/14fb2a563a243b14fb2a563a2bb1.jpg
     url: /files/original/14fb2a563a243b14fb2a563a2bb1.jpg
+    alt:
+      en: "Damaged exterior corner of a building showing exposed wood framing and separated siding panels, with a white PVC pipe and concrete blocks at the base, surrounded by overgrown grass."
 geo:
 id: 4680
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 001.jpg
     thumb: /files/thumbnails/14fb2a2290de1a14fb2a2290e1ff.jpg
     url: /files/original/14fb2a2290de1a14fb2a2290e1ff.jpg
+    alt:
+      en: "A collapsed gas station canopy with twisted metal framework lies amid debris, a yellow CAT front loader parked nearby, under a partly cloudy sky."
 geo:
 id: 11954
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27947.jpg
     thumb: /files/thumbnails/14fb2a69331b8e14fb2a69334ad2.jpg
     url: /files/original/14fb2a69331b8e14fb2a69334ad2.jpg
+    alt:
+      en: "Two fallen banner poles lie on concrete pavement, one reading \"Bud Light\" and the other \"New Orleans Hornets,\" beside a torn cardboard box labeled \"MEAL, READY-TO-EAT, INDIVIDUAL.\""
 geo:
   address: ''
   lat: 0.0

@@ -27,6 +27,8 @@ files:
     original_filename: 2380072723_7737d408cc.
     thumb: /files/thumbnails/14fb29ca45387a14fb29ca453c56.jpg
     url: /files/original/14fb29ca45387a14fb29ca453c56.jpg
+    alt:
+      en: "A teal-framed glass shower stall stands in a partially renovated bathroom, with exposed wood framing visible along the unfinished walls beside it."
 geo:
   address: ''
   lat: 30.22894

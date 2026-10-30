@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0356.JPG
     thumb: /files/thumbnails/14fb2a546d1b9e14fb2a546d1f7c.jpg
     url: /files/original/14fb2a546d1b9e14fb2a546d1f7c.jpg
+    alt:
+      en: "Wooden deck or porch framing under construction with exposed beams and support posts, surrounded by debris, broken tree limbs, and storm-damaged trees in the background under an overcast sky."
 geo:
 id: 5011
 item_type: Still Image

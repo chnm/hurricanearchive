@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (70).jpg
     thumb: /files/thumbnails/14fb2a5c76cb7914fb2a5c76cf5e.jpg
     url: /files/original/14fb2a5c76cb7914fb2a5c76cf5e.jpg
+    alt:
+      en: "Flooded street lined with debris and collapsed houses, a large barge stranded among the wreckage, with downed power lines and a muddy roadway in the foreground."
 geo:
 id: 3311
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0637.JPG
     thumb: /files/thumbnails/14fb2a562dfc5814fb2a562e003c.jpg
     url: /files/original/14fb2a562dfc5814fb2a562e003c.jpg
+    alt:
+      en: "Torn roofing material reveals a jagged hole exposing darkness beyond, with exposed wooden beams and insulation visible below along the damaged structure's edge."
 geo:
 id: 4686
 item_type: Still Image

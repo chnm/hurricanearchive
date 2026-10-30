@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1594hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee93d4ec14fb29ee93d8d2.jpg
     url: /files/original/14fb29ee93d4ec14fb29ee93d8d2.jpg
+    alt:
+      en: "High-rise glass office towers with one building showing extensive storm damage—shattered windows and torn curtain-wall panels on its lower floors—with trees and parked cars in the foreground."
 geo:
 id: 23594
 item_type: Still Image

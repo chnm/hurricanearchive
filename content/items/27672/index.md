@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7125_ddbaa9c2e8.JPG
     thumb: /files/thumbnails/14fb29d32e66ea14fb29d32e6b0d.jpg
     url: /files/original/14fb29d32e66ea14fb29d32e6b0d.jpg
+    alt:
+      en: "A boy in a life jacket and a man wearing a green cap and white T-shirt give thumbs up while riding on a motorboat, with wake and trees visible behind them."
 geo:
   address: ''
   lat: 29.91685

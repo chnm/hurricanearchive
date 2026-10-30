@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 083.jpg
     thumb: /files/thumbnails/14fb2a126ae49e14fb2a126b2706.jpg
     url: /files/original/14fb2a126ae49e14fb2a126b2706.jpg
+    alt:
+      en: "Dried, browned hedges and fallen branches line a curb near a large tree and partially visible sign reading \"RT,\" with a palm tree and scorched brush in the background."
 geo:
 id: 19173
 item_type: Still Image

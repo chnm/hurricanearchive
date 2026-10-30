@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044H.JPG
     thumb: /files/thumbnails/14fb2a059cfa7b14fb2a059cfe61.jpg
     url: /files/original/14fb2a059cfa7b14fb2a059cfe61.jpg
+    alt:
+      en: "A woman in a white tank top and orange shorts holds an energy drink can and a small camera, surrounded by several men in a dimly lit indoor setting."
 geo:
 id: 20620
 item_type: Still Image

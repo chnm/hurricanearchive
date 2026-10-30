@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5891_28d387d6f1.jpg
     thumb: /files/thumbnails/14fb2a15c01f1314fb2a15c07622.jpg
     url: /files/original/14fb2a15c01f1314fb2a15c07622.jpg
+    alt:
+      en: "Printed program page with a small photo of a smiling man at top and a larger photo of two sashed, crowned women below, captioned \"Queen Bea Vollentine, 1997 and Queen Martha Fernandez, 1947,\" alongside a printed thank-you message to Cecile Jones Robin."
 geo:
 id: 16965
 item_type: Still Image

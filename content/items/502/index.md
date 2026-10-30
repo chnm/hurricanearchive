@@ -26,6 +26,8 @@ files:
     original_filename: DSC00013a_9b1c56bedb.JPG
     thumb: /files/thumbnails/14fb2a6fac9fa114fb2a6faca3ae.jpg
     url: /files/original/14fb2a6fac9fa114fb2a6faca3ae.jpg
+    alt:
+      en: "Piles of storm debris—broken furniture, drywall, black trash bags, and metal cabinets—line a curb beside a house, with a date stamp reading \"OCT 29 2005.\""
 geo:
   address: ''
   lat: 29.976498143904

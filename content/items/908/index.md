@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28234.jpg
     thumb: /files/thumbnails/14fb2a6c57a77914fb2a6c57ab53.jpg
     url: /files/original/14fb2a6c57a77914fb2a6c57ab53.jpg
+    alt:
+      en: "Elderly man wearing a cap, striped shirt, and blue volunteer vest with ID badge sits on a chair inside a wooden booth with white tarp walls at the Waveland Wal-Mart site in Mississippi."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 307-J2.jpg
     thumb: /files/thumbnails/14fb29fac426ca14fb29fac42aaf.jpg
     url: /files/original/14fb29fac426ca14fb29fac42aaf.jpg
+    alt:
+      en: "A cityscape with a large domed stadium, billboard signage on a tall pole, and standing floodwater near a highway in the foreground under a clear blue sky."
 geo:
 id: 21976
 item_type: Still Image

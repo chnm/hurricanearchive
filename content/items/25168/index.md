@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1778superdome.JPG
     thumb: /files/thumbnails/14fb29e18147e114fb29e1815e97.jpg
     url: /files/original/14fb29e18147e114fb29e1815e97.jpg
+    alt:
+      en: "Several men in camouflage military uniforms and caps gather closely around a woman in a dark suit, one man resting a hand on another's shoulder in conversation."
 geo:
 id: 25168
 item_type: Still Image

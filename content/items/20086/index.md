@@ -21,6 +21,8 @@ files:
     original_filename: Picture 183cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b6599f414fb2a0b659ddb.jpg
     url: /files/original/14fb2a0b6599f414fb2a0b659ddb.jpg
+    alt:
+      en: "Concrete barriers line a grassy area in front of a brick building, with a chain-link fence, trees, a street lamp, and a paved road in the foreground under a clear blue sky."
 geo:
 id: 20086
 item_type: Still Image

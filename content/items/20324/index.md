@@ -21,6 +21,8 @@ files:
     original_filename: DSC00062.jpg
     thumb: /files/thumbnails/14fb2a094f10c514fb2a094f228a.jpg
     url: /files/original/14fb2a094f10c514fb2a094f228a.jpg
+    alt:
+      en: "Military personnel in fatigues unload supplies, including bottled water, from camouflage-patterned trucks in a parking lot, with a storefront reading \"Warehouse\" visible in the background."
 geo:
 id: 20324
 item_type: Still Image

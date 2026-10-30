@@ -23,6 +23,8 @@ files:
     original_filename: 336696438_99875f0bff.jpg
     thumb: /files/thumbnails/14fb29d51bc82c14fb29d51bcc12.jpg
     url: /files/original/14fb29d51bc82c14fb29d51bcc12.jpg
+    alt:
+      en: "Severely damaged wooden house with a collapsed, sagging roof and broken siding, propped up by metal poles; a utility pole leans against it, with debris scattered in the surrounding yard behind a chain-link fence."
 geo:
 id: 27313
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-003S.JPG
     thumb: /files/thumbnails/14fb2a5f7cbeb114fb2a5f7cc266.jpg
     url: /files/original/14fb2a5f7cbeb114fb2a5f7cc266.jpg
+    alt:
+      en: "Elevated boardwalk and pier lead to a long industrial building with a row of windows and a tall tower section, situated beside calm water under a clear blue sky."
 geo:
 id: 2948
 item_type: Still Image

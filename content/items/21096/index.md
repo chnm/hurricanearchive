@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0176-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a009e7b4914fb2a009e8319.jpg
     url: /files/original/14fb2a009e7b4914fb2a009e8319.jpg
+    alt:
+      en: "Two men in baseball caps stand on a brick porch, one wearing a blue striped shirt and smoking a cigarette, with a plant and window visible in the background."
 geo:
 id: 21096
 item_type: Still Image

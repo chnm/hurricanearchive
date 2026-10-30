@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-01-00AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f9778c6514fb29f9779053.jpg
     url: /files/original/14fb29f9778c6514fb29f9779053.jpg
+    alt:
+      en: "Floodwaters fill a narrow space between a white clapboard building and a red brick building, with a small structure partially submerged in the background; a finger partially obscures the top left of the frame."
 geo:
 id: 22121
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2085superdome.JPG
     thumb: /files/thumbnails/14fb29e505e1a814fb29e505e58c.jpg
     url: /files/original/14fb29e505e1a814fb29e505e58c.jpg
+    alt:
+      en: "Group of people sitting on the floor against a textured wall, including a young man eating a packaged food item, a woman holding a small child, another woman in a purple shirt, and an older man seated in a chair nearby."
 geo:
 id: 24763
 item_type: Still Image

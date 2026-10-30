@@ -21,6 +21,8 @@ files:
     original_filename: 20050929031.JPG
     thumb: /files/thumbnails/14fb2a1bfa79af14fb2a1bfa7efa.jpg
     url: /files/original/14fb2a1bfa79af14fb2a1bfa7efa.jpg
+    alt:
+      en: "A military utility truck with ladder racks parked outside a white building marked \"119 Smith Circle,\" with a uniformed service member saluting nearby and a generator and ladder on the ground in the foreground."
 geo:
   address: ''
   lat: 0.0

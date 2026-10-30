@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29f0254c3d14fb29f0255023.jpg
     url: /files/original/14fb29f0254c3d14fb29f0255023.jpg
+    alt:
+      en: "A livestock trailer with Louisiana plate E892401 drives down a narrow road past floodwater surrounding houses and trees, with a guardrail and hazard marker visible along the roadside."
 geo:
 id: 23280
 item_type: Still Image

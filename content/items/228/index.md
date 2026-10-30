@@ -26,6 +26,8 @@ files:
     original_filename: Picture_048_98af52be8c.jpg
     thumb: /files/thumbnails/14fb2a7071579614fb2a70715b67.jpg
     url: /files/original/14fb2a7071579614fb2a70715b67.jpg
+    alt:
+      en: "A partygoer wears a satirical costume combining a cardboard house on his head, a jacket covered in red tape reading \"FEMA,\" and an inflatable blue raft worn around his waist, surrounded by other costumed guests at an indoor event."
 geo:
   address: ''
   lat: 29.938343

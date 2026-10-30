@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 071.jpg
     thumb: /files/thumbnails/14fb2a128793a614fb2a128796d8.jpg
     url: /files/original/14fb2a128793a614fb2a128796d8.jpg
+    alt:
+      en: "Large commercial building with a red tiled roof, its upper section stripped of exterior cladding, exposing structural framework; debris litters the empty parking lot in front, viewed through a vehicle windshield."
 geo:
 id: 19161
 item_type: Still Image

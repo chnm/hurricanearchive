@@ -21,6 +21,8 @@ files:
     original_filename: Picture 132cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b9b825914fb2a0b9b8634.jpg
     url: /files/original/14fb2a0b9b825914fb2a0b9b8634.jpg
+    alt:
+      en: "A large white boat lies stranded on grass, its hull damaged and a torn canvas cover hanging loose, with an industrial building visible in the background."
 geo:
 id: 20035
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PuppystbernardparishS&R.bmp
     thumb: /files/thumbnails/14fb29ed05d17214fb29ed05d548.jpg
     url: /files/original/14fb29ed05d17214fb29ed05d548.jpg
+    alt:
+      en: "A black and white puppy sits on a gravel-covered ground, looking up with its tail curled, while part of a shoe is visible in the bottom left corner."
 geo:
 id: 23796
 item_type: Still Image

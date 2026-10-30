@@ -21,6 +21,8 @@ files:
     original_filename: J2 (14).JPG
     thumb: /files/thumbnails/14fb2a11500b7614fb2a11500f4e.jpg
     url: /files/original/14fb2a11500b7614fb2a11500f4e.jpg
+    alt:
+      en: "Spray-painted warning \"...OU LOOT WE SHOOT\" in green paint on a damaged cinderblock wall, with piles of rubble and broken bricks below."
 geo:
 id: 19294
 item_type: Still Image

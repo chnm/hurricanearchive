@@ -21,6 +21,8 @@ files:
     original_filename: 20050929048.JPG
     thumb: /files/thumbnails/14fb2a1bf1335214fb2a1bf1373a.jpg
     url: /files/original/14fb2a1bf1335214fb2a1bf1373a.jpg
+    alt:
+      en: "A uniformed military officer wearing a beret and sunglasses stands near debris and dead trees, viewed partly through a vehicle window in the foreground."
 geo:
   address: ''
   lat: 0.0

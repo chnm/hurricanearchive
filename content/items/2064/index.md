@@ -26,6 +26,8 @@ files:
     original_filename: speedee_9007121988.jpg
     thumb: /files/thumbnails/14fb2a6da1a56014fb2a6da1a946.jpg
     url: /files/original/14fb2a6da1a56014fb2a6da1a946.jpg
+    alt:
+      en: "Collapsed cinder-block walls and exposed steel framing at a storm-damaged \"Speedee Oil Change\" service bay, with a \"Red Wing Shoes\" sign visible on the building above."
 geo:
   address: ''
   lat: 31.321820657765603

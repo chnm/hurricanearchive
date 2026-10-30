@@ -21,6 +21,8 @@ files:
     original_filename: DSC01126.JPG
     thumb: /files/thumbnails/14fb2a587ee7d414fb2a587eed03.jpg
     url: /files/original/14fb2a587ee7d414fb2a587eed03.jpg
+    alt:
+      en: "Two responders in orange life vests and blue uniforms ride in a flat-bottom boat through floodwaters beneath overhanging trees, approaching a partially submerged house; timestamp reads \"6 12:17 PM.\""
 geo:
 id: 4018
 item_type: Still Image

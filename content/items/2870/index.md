@@ -21,6 +21,8 @@ files:
     original_filename: MVC-027S.JPG
     thumb: /files/thumbnails/14fb2a5fbd33c914fb2a5fbd37ad.jpg
     url: /files/original/14fb2a5fbd33c914fb2a5fbd37ad.jpg
+    alt:
+      en: "A utility or lab room with a metal counter, sink, plumbing valves and pipes, wall-mounted shelves, and a spiral notebook with handwritten notes propped against a cabinet."
 geo:
 id: 2870
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (18).JPG
     thumb: /files/thumbnails/14fb2a5dc5306c14fb2a5dc53450.jpg
     url: /files/original/14fb2a5dc5306c14fb2a5dc53450.jpg
+    alt:
+      en: "A mud-stained maroon SUV with a broken rear window and debris piled on its roof rack sits parked in a driveway beside a dark pickup truck, with a wooden fence and trees in the background."
 geo:
 id: 3134
 item_type: Still Image

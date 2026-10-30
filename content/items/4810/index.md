@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0123.JPG
     thumb: /files/thumbnails/14fb2a5558510b14fb2a555854f1.jpg
     url: /files/original/14fb2a5558510b14fb2a555854f1.jpg
+    alt:
+      en: "Debris from a collapsed house lies scattered beside a white picket fence and concrete driveway, with tall pine trees and a white fenced structure standing in the background."
 geo:
 id: 4810
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0445.JPG
     thumb: /files/thumbnails/14fb2a53e81aba14fb2a53e82a7a.jpg
     url: /files/original/14fb2a53e81aba14fb2a53e82a7a.jpg
+    alt:
+      en: "A yellow tape measure extends down the end of a wooden beam in a timber frame structure, with a metal joist hanger bracket visible on the beam's edge."
 geo:
 id: 5100
 item_type: Still Image

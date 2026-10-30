@@ -21,6 +21,8 @@ files:
     original_filename: Next to the Superdome 4superdome.jpg
     thumb: /files/thumbnails/14fb29de1e366814fb29de1e3a4c.jpg
     url: /files/original/14fb29de1e366814fb29de1e3a4c.jpg
+    alt:
+      en: "Floodwater surrounds a red SUV and a fallen tree blocking a submerged car outside a building, with the photographer's truck side mirror visible in the foreground."
 geo:
 id: 25409
 item_type: Still Image

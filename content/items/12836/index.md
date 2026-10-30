@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward 9-18-13.JPG
     thumb: /files/thumbnails/14fb2a219ba13c14fb2a219ba51c.jpg
     url: /files/original/14fb2a219ba13c14fb2a219ba51c.jpg
+    alt:
+      en: "Debris-strewn street with scattered wood and rubble, flanked by damaged houses and tall pine trees, puddles of standing water pooling on the cracked pavement."
 geo:
 id: 12836
 item_type: Still Image

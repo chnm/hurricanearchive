@@ -26,6 +26,8 @@ files:
     original_filename: Rita_025_7133687e9b.jpg
     thumb: /files/thumbnails/14fb2a6f5ad83114fb2a6f5adc1a.jpg
     url: /files/original/14fb2a6f5ad83114fb2a6f5adc1a.jpg
+    alt:
+      en: "Fallen trees and tangled branches litter a yard beside a road, with downed power lines woven through the debris and a utility pole leaning amid the wreckage."
 geo:
   address: ''
   lat: 30.281836

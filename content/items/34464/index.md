@@ -23,6 +23,8 @@ files:
     original_filename: 2326065837_8ddf092d76.
     thumb: /files/thumbnails/14fb29c9e5c66c14fb29c9e5ca52.jpg
     url: /files/original/14fb29c9e5c66c14fb29c9e5ca52.jpg
+    alt:
+      en: "Sailboats and motorboats, including one named \"Mirage,\" crowded together at a marina with damaged multi-story buildings in the background, their masts and rigging visible against the sky."
 geo:
   address: ''
   lat: 30.22586

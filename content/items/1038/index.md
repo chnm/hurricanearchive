@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27910.jpg
     thumb: /files/thumbnails/14fb2a6b4c968114fb2a6b4c9a70.jpg
     url: /files/original/14fb2a6b4c968114fb2a6b4c9a70.jpg
+    alt:
+      en: "A dusty white sedan with a steel wheel parked on a sidewalk, with a white house and trees visible in the background under a blue sky."
 geo:
   address: ''
   lat: 0.0

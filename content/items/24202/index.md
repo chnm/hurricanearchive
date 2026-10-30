@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29e9d2c63314fb29e9d2d232.jpg
     url: /files/original/14fb29e9d2c63314fb29e9d2d232.jpg
+    alt:
+      en: "Empty street lined with dead grass and trees leads to a cluster of damaged vehicles near a \"Jackson Barracks\" street sign, with a \"Grammies Attic\" sign visible on a brick building to the left."
 geo:
 id: 24202
 item_type: Still Image

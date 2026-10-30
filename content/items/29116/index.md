@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-022-9A.jpg
     thumb: /files/thumbnails/14fb29cf410c7314fb29cf41176f.jpg
     url: /files/original/14fb29cf410c7314fb29cf41176f.jpg
+    alt:
+      en: "Aerial view from a helicopter window of an empty parking lot marked \"LOT 5,\" with a damaged metal shed, fallen trees, and debris nearby, overlooking a grassy park area with roads."
 geo:
 id: 29116
 item_type: Still Image

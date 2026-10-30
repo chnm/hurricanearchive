@@ -24,6 +24,8 @@ files:
     original_filename: P1010093.JPG
     thumb: /files/thumbnails/14fb2a5a529a0514fb2a5a529de7.jpg
     url: /files/original/14fb2a5a529a0514fb2a5a529de7.jpg
+    alt:
+      en: "Brick house with roof shingles and plywood torn away, exposing rafters and insulation above a row of windows with white shutters, one showing a pink curtain inside."
 geo:
 id: 3657
 item_type: Still Image

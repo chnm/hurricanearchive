@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041H.JPG
     thumb: /files/thumbnails/14fb2a05b95ae014fb2a05b95ecc.jpg
     url: /files/original/14fb2a05b95ae014fb2a05b95ecc.jpg
+    alt:
+      en: "Five women in matching white and orange \"Hooters Siegen Lane, Baton Rouge II, LA\" uniforms pose together outdoors at night, with a kneeling man in camouflage military attire in front and string lights overhead."
 geo:
 id: 20603
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28120.jpg
     thumb: /files/thumbnails/14fb2a6c8ef3a614fb2a6c8ef780.jpg
     url: /files/original/14fb2a6c8ef3a614fb2a6c8ef780.jpg
+    alt:
+      en: "A man in a tan uniform and cap stands amid storm debris and collapsed wood framing outside a brick building, with rubble and standing water in the foreground."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0313-16.JPG
     thumb: /files/thumbnails/14fb29fd713def14fb29fd7141d5.jpg
     url: /files/original/14fb29fd713def14fb29fd7141d5.jpg
+    alt:
+      en: "Two mud-covered vehicles, a Honda CR-V with its rear hatch open and a minivan, sit parked in a thick, cracked layer of dried mud in front of a brick house."
 geo:
 id: 21577
 item_type: Still Image

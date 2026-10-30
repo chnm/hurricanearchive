@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2186_e8dbb99af3.JPG
     thumb: /files/thumbnails/14fb2a70ce76be14fb2a70ce7a9b.jpg
     url: /files/original/14fb2a70ce76be14fb2a70ce7a9b.jpg
+    alt:
+      en: "Storm-damaged Shell service station with collapsed canopy and debris scattered across the lot, a \"TOP GUN Disaster Cleanup Crew\" sign in the foreground, and background buildings also showing hurricane damage."
 geo:
   address: ''
   lat: 30.030902

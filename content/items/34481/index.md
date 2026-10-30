@@ -27,6 +27,8 @@ files:
     original_filename: 2326880690_22811623c8.
     thumb: /files/thumbnails/14fb29c9ce246e14fb29c9ce2836.jpg
     url: /files/original/14fb29c9ce246e14fb29c9ce2836.jpg
+    alt:
+      en: "Wide bayou leading to open water, lined with damaged waterfront structures and pilings; debris and storm-damaged homes visible along the shoreline, with the bow of a boat in the foreground."
 geo:
   address: ''
   lat: 30.22199

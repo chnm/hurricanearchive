@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 027.jpg
     thumb: /files/thumbnails/14fb2a59de186614fb2a59de1c4c.jpg
     url: /files/original/14fb2a59de186614fb2a59de1c4c.jpg
+    alt:
+      en: "Storm-damaged house with collapsed porch and scattered debris along a street lined with bare, broken trees and power lines, under a clear blue sky."
 geo:
 id: 3747
 item_type: Still Image

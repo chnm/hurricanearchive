@@ -21,6 +21,8 @@ files:
     original_filename: boat and bush2.jpg
     thumb: /files/thumbnails/14fb2a1eebb37714fb2a1eebb6ab.jpg
     url: /files/original/14fb2a1eebb37714fb2a1eebb6ab.jpg
+    alt:
+      en: "A sideways-oriented photo of a docked fishing boat named \"Mighty Victor\" with rigging and masts, seen beyond a stone wall and leafy bush, under an overcast sky."
 geo:
 id: 13240
 item_type: Still Image

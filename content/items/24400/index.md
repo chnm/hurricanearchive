@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-21-20A.jpg
     thumb: /files/thumbnails/14fb29e83e606714fb29e83e644b.jpg
     url: /files/original/14fb29e83e606714fb29e83e644b.jpg
+    alt:
+      en: "Heavy rain obscures a parking lot with several SUVs and trucks, a utility pole with power lines, trees, and distant buildings barely visible through the downpour."
 geo:
 id: 24400
 item_type: Still Image

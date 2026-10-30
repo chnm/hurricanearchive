@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9337.jpg
     thumb: /files/thumbnails/14fb2a647803fc14fb2a64780b04.jpg
     url: /files/original/14fb2a647803fc14fb2a64780b04.jpg
+    alt:
+      en: "A pink handwritten sign nailed to a tree trunk reads \"Found after Katrina - 400 block of 40th Street. Beautiful Black Kitten with flea collar: Call 833-5515,\" with a damaged house visible in the background."
 geo:
 id: 2590
 item_type: Still Image

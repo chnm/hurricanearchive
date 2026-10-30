@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28588.jpg
     thumb: /files/thumbnails/14fb2a6b6e981c14fb2a6b6e9c03.jpg
     url: /files/original/14fb2a6b6e981c14fb2a6b6e9c03.jpg
+    alt:
+      en: "Two men stand on a debris-strewn street in the Lakeview District, with a fallen \"Lakeshore\" street sign in the foreground and a high-rise building visible in the background."
 geo:
   address: ''
   lat: 0.0

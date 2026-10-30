@@ -21,6 +21,8 @@ files:
     original_filename: SecondLine-3433_cfe5d6bde6.jpg
     thumb: /files/thumbnails/14fb2a1717b38414fb2a1717b76a.jpg
     url: /files/original/14fb2a1717b38414fb2a1717b76a.jpg
+    alt:
+      en: "A man in a red suit and fedora and a child in matching red and gold outfits dance arm-in-arm in a New Orleans second line parade, surrounded by large feathered fan decorations and a crowd of onlookers."
 geo:
 id: 15111
 item_type: Still Image

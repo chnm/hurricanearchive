@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0067-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0434c10914fb2a0434c4ef.jpg
     url: /files/original/14fb2a0434c10914fb2a0434c4ef.jpg
+    alt:
+      en: "Aerial view of extensive flooding covering a wooded, rural landscape, with debris scattered among partially submerged trees and bare branches under an overcast sky."
 geo:
 id: 20733
 item_type: Still Image

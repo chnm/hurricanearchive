@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6166_1924868de3.jpg
     thumb: /files/thumbnails/14fb29dd8d9bfb14fb29dd8d9fe0.jpg
     url: /files/original/14fb29dd8d9bfb14fb29dd8d9fe0.jpg
+    alt:
+      en: "Heavily water-damaged photograph of a child in a First Communion outfit holding a rosary, the image severely obscured by mold, staining, and emulsion damage."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

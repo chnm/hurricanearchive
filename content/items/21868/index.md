@@ -21,6 +21,8 @@ files:
     original_filename: I-10 at US 90.jpg
     thumb: /files/thumbnails/14fb29fb52d30314fb29fb52d6e8.jpg
     url: /files/original/14fb29fb52d30314fb29fb52d6e8.jpg
+    alt:
+      en: "Aerial view of flooded highway interchange at I-10 and US 90, with submerged roads, a curved overpass, and widespread standing water surrounding neighborhoods and marshland."
 geo:
 id: 21868
 item_type: Still Image

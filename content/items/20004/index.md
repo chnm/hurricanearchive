@@ -21,6 +21,8 @@ files:
     original_filename: Picture 101cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bb8d8c914fb2a0bb8dcb6.jpg
     url: /files/original/14fb2a0bb8d8c914fb2a0bb8dcb6.jpg
+    alt:
+      en: "Photograph taken through a vehicle window of a large white boat resting on a gravel lot, with visible hull damage and a crane in the background."
 geo:
 id: 20004
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2457529344_1db68d518c.
     thumb: /files/thumbnails/14fb29c88877d114fb29c8887bf3.jpg
     url: /files/original/14fb29c88877d114fb29c8887bf3.jpg
+    alt:
+      en: "Workers in protective gear construct a riprap levee covered with wire mesh and stone along a waterway, with floodwater and bare trees visible in the background."
 geo:
 id: 34910
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0328-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd4b23e514fb29fd4b27ca.jpg
     url: /files/original/14fb29fd4b23e514fb29fd4b27ca.jpg
+    alt:
+      en: "Aerial view of a road beside a flooded ditch, with an overturned truck in the water near the tree line and two people standing on the roadway nearby."
 geo:
 id: 21594
 item_type: Still Image

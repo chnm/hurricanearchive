@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0062.JPG
     thumb: /files/thumbnails/14fb2a55fd47a614fb2a55fd4b88.jpg
     url: /files/original/14fb2a55fd47a614fb2a55fd4b88.jpg
+    alt:
+      en: "Debris field with broken bricks, rubble, and a wooden beam crossed by a dark cable, a yellow plank in the upper right, and a teal object among the wreckage."
 geo:
 id: 4715
 item_type: Still Image

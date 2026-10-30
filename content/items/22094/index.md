@@ -21,6 +21,8 @@ files:
     original_filename: 09210005J6.JPG
     thumb: /files/thumbnails/14fb29f98d8e3714fb29f98d921f.jpg
     url: /files/original/14fb29f98d8e3714fb29f98d921f.jpg
+    alt:
+      en: "Large rusted barge marked \"IST 726\" sits beside a collapsed, twisted dock or pier, with a yellow John Deere loader nearby and crane barges visible on the water in the background."
 geo:
 id: 22094
 item_type: Still Image

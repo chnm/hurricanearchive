@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.025.JPG
     thumb: /files/thumbnails/14fb29dd1c6f7114fb29dd1c7321.jpg
     url: /files/original/14fb29dd1c6f7114fb29dd1c7321.jpg
+    alt:
+      en: "Collapsed, debris-strewn house with exposed framing and siding; a heart-shaped wreath of red roses hangs amid the wreckage, and an orange City of New Orleans notice is posted on the wall above."
 geo:
 id: 25619
 item_type: Still Image

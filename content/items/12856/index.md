@@ -21,6 +21,8 @@ files:
     original_filename: Katrina bateau on St. Charles.jpg
     thumb: /files/thumbnails/14fb2a216a771614fb2a216a7afd.jpg
     url: /files/original/14fb2a216a771614fb2a216a7afd.jpg
+    alt:
+      en: "A damaged boat sits abandoned on a street corner, with storefronts including \"Foot Locker\" visible in the background and a traffic light overhead."
 geo:
 id: 12856
 item_type: Still Image

@@ -25,6 +25,8 @@ files:
     original_filename: 157265069_80244540b3.jpg
     thumb: /files/thumbnails/14fb29d1c63d7214fb29d1c64153.jpg
     url: /files/original/14fb29d1c63d7214fb29d1c64153.jpg
+    alt:
+      en: "A wooden artist's mannequin figure mounted on a cross, draped with pearl necklaces, stands among a makeshift memorial of wooden crosses and beads in a grassy lot with houses in the background."
 geo:
 id: 28680
 item_type: Still Image

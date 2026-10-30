@@ -21,6 +21,8 @@ files:
     original_filename: KJ Snow 2  64-04_2e878486a3.2.jpg
     thumb: /files/thumbnails/14fb29d6867bf214fb29d6867fd6.jpg
     url: /files/original/14fb29d6867bf214fb29d6867fd6.jpg
+    alt:
+      en: "A brick ranch-style home decorated with icicle lights, its front door open as a woman in a red shirt stands in the doorway; a \"Welcome\" stone and potted plants sit near the entrance."
 geo:
   address: ''
   lat: 29.95493

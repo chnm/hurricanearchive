@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6488_4ac4a25b76.JPG
     thumb: /files/thumbnails/14fb29d33d837b14fb29d33d8761.jpg
     url: /files/original/14fb29d33d837b14fb29d33d8761.jpg
+    alt:
+      en: "Four people stand on a tree-lined residential street beside parked cars, with houses visible in the background, in the Lakeview neighborhood of New Orleans."
 geo:
   address: ''
   lat: 29.84064

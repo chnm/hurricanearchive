@@ -21,6 +21,8 @@ files:
     original_filename: RhinaKissee-5928_fd5e0171f9.jpg
     thumb: /files/thumbnails/14fb29d90328cf14fb29d9032cb5.jpg
     url: /files/original/14fb29d90328cf14fb29d9032cb5.jpg
+    alt:
+      en: "Three children stand at the back of a white Volvo station wagon in a driveway, with a hand-lettered \"Ice Cold Freezer 25¢\" sign held up and a green bucket nearby."
 geo:
   address: 3709 Palmisano Blvd., Chalmette, LA
   lat: 29.95079

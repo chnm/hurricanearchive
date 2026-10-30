@@ -23,6 +23,8 @@ files:
     original_filename: 336698807_74a66071ef.jpg
     thumb: /files/thumbnails/14fb29d538b0fc14fb29d538b4df.jpg
     url: /files/original/14fb29d538b0fc14fb29d538b4df.jpg
+    alt:
+      en: "A damaged boat sits amid storm debris and fallen signage in front of a storm-damaged building with a torn roof; a sign on the building reads \"Mon-Sat 7AM-6PM.\""
 geo:
 id: 27310
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09180002plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec53177314fb29ec531b00.jpg
     url: /files/original/14fb29ec53177314fb29ec531b00.jpg
+    alt:
+      en: "Military convoy of Humvees traveling across a causeway bridge over marshland, with a pickup truck ahead and flooded wetlands visible on both sides of the roadway."
 geo:
 id: 23932
 item_type: Still Image

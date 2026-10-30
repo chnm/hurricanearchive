@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eb048efd14fb29eb0490ba.jpg
     url: /files/original/14fb29eb048efd14fb29eb0490ba.jpg
+    alt:
+      en: "A KATC 3 news reporter holds a microphone toward a soldier in fatigues seated in a military vehicle, while a cameraman films the interview."
 geo:
 id: 24074
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 006817thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f39e5fa014fb29f39e6386.jpg
     url: /files/original/14fb29f39e5fa014fb29f39e6386.jpg
+    alt:
+      en: "Aerial view of a reinforced canal floodwall alongside damaged homes and debris, with \"FLTF-1\" spray-painted on a rooftop and two people walking along the levee path."
 geo:
 id: 22800
 item_type: Still Image

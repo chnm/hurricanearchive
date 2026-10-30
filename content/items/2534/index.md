@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8761.jpg
     thumb: /files/thumbnails/14fb2a659b877a14fb2a659b8d81.jpg
     url: /files/original/14fb2a659b877a14fb2a659b8d81.jpg
+    alt:
+      en: "Collapsed building with gold \"PETROVICH\" lettering on a shingled wall, surrounded by scattered debris, broken boards, and a shrimp boat in the background under a clear blue sky."
 geo:
 id: 2534
 item_type: Still Image

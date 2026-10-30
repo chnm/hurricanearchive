@@ -21,6 +21,8 @@ files:
     original_filename: Picture 381-J2.jpg
     thumb: /files/thumbnails/14fb29f9d3b6a714fb29f9d3baab.jpg
     url: /files/original/14fb29f9d3b6a714fb29f9d3baab.jpg
+    alt:
+      en: "A man in camouflage pants and a brown t-shirt reclines on a cot holding a soda can, with a foam food container and shoe insert on a red chair nearby in a dimly lit staging area."
 geo:
 id: 22050
 item_type: Still Image

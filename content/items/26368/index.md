@@ -21,6 +21,8 @@ files:
     original_filename: Lionell Powell_5845_7ecd775207.jpg
     thumb: /files/thumbnails/14fb29d925a32614fb29d925a70d.jpg
     url: /files/original/14fb29d925a32614fb29d925a70d.jpg
+    alt:
+      en: "Wedding portrait of a bride and groom in white formal attire, surrounded by a wedding party in matching blue satin gowns and white suits, posed before a heart-shaped floral arch."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

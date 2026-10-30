@@ -23,6 +23,8 @@ files:
     original_filename: 336696342_764c9a723d.jpg
     thumb: /files/thumbnails/14fb29d4a01c8514fb29d4a059d1.jpg
     url: /files/original/14fb29d4a01c8514fb29d4a059d1.jpg
+    alt:
+      en: "A red SUV parked on a muddy, debris-strewn street in front of storm-damaged houses, with power lines overhead and scattered debris in the foreground."
 geo:
 id: 27332
 item_type: Still Image

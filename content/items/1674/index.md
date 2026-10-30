@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28037.jpg
     thumb: /files/thumbnails/14fb2a6700787b14fb2a67007f82.jpg
     url: /files/original/14fb2a6700787b14fb2a67007f82.jpg
+    alt:
+      en: "A man in a purple shirt and jeans uses a surveying instrument on a tripod beside a long concrete floodwall, with a gravel road and construction crane visible in the background."
 geo:
   address: ''
   lat: 0.0

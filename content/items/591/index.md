@@ -26,6 +26,8 @@ files:
     original_filename: PA060140_3a2b8d19ff.JPG
     thumb: /files/thumbnails/14fb2a6f6f1ca014fb2a6f6f208c.jpg
     url: /files/original/14fb2a6f6f1ca014fb2a6f6f208c.jpg
+    alt:
+      en: "A lone toilet with lid raised stands amid flattened debris—bricks, piping, and wreckage—all that remains standing where a tavern once stood after the storm."
 geo:
   address: ''
   lat: 29.983189342340502

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0613Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4779d2014fb29f4781824.jpg
     url: /files/original/14fb29f4779d2014fb29f4781824.jpg
+    alt:
+      en: "Two-story brick buildings with white columned verandas and damaged roofs stand behind a brick wall topped with razor wire, dated 09.15.2005."
 geo:
 id: 22715
 item_type: Still Image

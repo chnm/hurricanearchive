@@ -21,6 +21,8 @@ files:
     original_filename: aerials41.jpg
     thumb: /files/thumbnails/14fb2a19cedc7214fb2a19cee064.jpg
     url: /files/original/14fb2a19cedc7214fb2a19cee064.jpg
+    alt:
+      en: "Aerial view of a waterfront community with damaged and debris-covered buildings near a river, surrounded by patches of browned, storm-damaged trees alongside green foliage."
 geo:
 id: 14329
 item_type: Still Image

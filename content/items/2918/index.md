@@ -21,6 +21,8 @@ files:
     original_filename: MVC-007S.JPG
     thumb: /files/thumbnails/14fb2a5f96506114fb2a5f96544e.jpg
     url: /files/original/14fb2a5f96506114fb2a5f96544e.jpg
+    alt:
+      en: "Interior of a storage closet with metal shelving holding cardboard boxes, a FedEx box, old canisters, and miscellaneous items, with water-stained walls and a dark reddish floor."
 geo:
 id: 2918
 item_type: Still Image

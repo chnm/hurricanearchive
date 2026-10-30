@@ -26,6 +26,8 @@ files:
     original_filename: i10superdome_e3aea38322.jpg
     thumb: /files/thumbnails/14fb2a713052b914fb2a713056a4.jpg
     url: /files/original/14fb2a713052b914fb2a713056a4.jpg
+    alt:
+      en: "Aerial view of a city skyline with the Superdome and an adjacent arena, surrounded by flooded highways and interchanges, with a river visible in the background."
 geo:
   address: ''
   lat: 29.958304

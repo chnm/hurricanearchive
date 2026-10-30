@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29effc5b2514fb29effc5f0b.jpg
     url: /files/original/14fb29effc5b2514fb29effc5f0b.jpg
+    alt:
+      en: "A damaged house with buckled siding sits beside a flooded roadway, with military trucks parked nearby and standing floodwater surrounding the structure under an overcast sky."
 geo:
 id: 23314
 item_type: Still Image

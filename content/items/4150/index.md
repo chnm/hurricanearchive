@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0036.JPG
     thumb: /files/thumbnails/14fb2a576a295a14fb2a576a2e8e.jpg
     url: /files/original/14fb2a576a295a14fb2a576a2e8e.jpg
+    alt:
+      en: "A marsh landscape with a debris field across a waterway, including an overturned yellow school bus and a large white tank, surrounded by bare trees and dry grasses."
 geo:
 id: 4150
 item_type: Still Image

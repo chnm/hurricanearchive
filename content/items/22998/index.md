@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008OEP.JPG
     thumb: /files/thumbnails/14fb29f22e7e9c14fb29f22e827f.jpg
     url: /files/original/14fb29f22e7e9c14fb29f22e827f.jpg
+    alt:
+      en: "Large parking lot filled with satellite news trucks, including a WBRZ News van with a satellite dish, alongside RVs and cars, with buildings and trees in the background."
 geo:
 id: 22998
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 091cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e3d399e14fb2a0e3d3d84.jpg
     url: /files/original/14fb2a0e3d399e14fb2a0e3d3d84.jpg
+    alt:
+      en: "Three U.S. Army soldiers in camouflage uniforms stand around a military vehicle on a residential street lined with colorful, boarded-up wooden houses and bare trees."
 geo:
 id: 19704
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 1LT Campbell 27SEP2005.JPG
     thumb: /files/thumbnails/14fb2a0afe3ec614fb2a0afe42ca.jpg
     url: /files/original/14fb2a0afe3ec614fb2a0afe42ca.jpg
+    alt:
+      en: "Soldier in woodland camouflage uniform with \"CAMPBELL\" and \"U.S. ARMY\" name tapes wears sunglasses and a patrol cap, standing before debris piles and a white-columned building, dated 09.27.2005."
 geo:
 id: 20161
 item_type: Still Image

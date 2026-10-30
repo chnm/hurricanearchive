@@ -20,6 +20,8 @@ files:
     original_filename: Mississippi_9899ed64b2.2006 008.jpg
     thumb: /files/thumbnails/14fb29d64ddada14fb29d64ddebb.jpg
     url: /files/original/14fb29d64ddada14fb29d64ddebb.jpg
+    alt:
+      en: "A large two-story white house with its ground floor interior torn away by storm damage, exposed brick supports, rubble below, and a bare tree in the foreground."
 geo:
 id: 26906
 item_type: Still Image

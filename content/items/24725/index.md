@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-20-18Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e5582bbd14fb29e55832d0.jpg
     url: /files/original/14fb29e5582bbd14fb29e55832d0.jpg
+    alt:
+      en: "A military helicopter flies low over a parking lot at dusk, its rotor blades blurred in motion, with trees and streetlights silhouetted against the pink-orange sky below."
 geo:
 id: 24725
 item_type: Still Image

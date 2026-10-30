@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7393.JPG
     thumb: /files/thumbnails/14fb29ccd06c3314fb29ccd07021.jpg
     url: /files/original/14fb29ccd06c3314fb29ccd07021.jpg
+    alt:
+      en: "A fallen tree with its root ball exposed lies amid dense overgrown vegetation and surrounding trees, with a dark round object visible in the foreground."
 geo:
 id: 30695
 item_type: Still Image

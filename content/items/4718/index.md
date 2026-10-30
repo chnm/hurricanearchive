@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0065.JPG
     thumb: /files/thumbnails/14fb2a55fb675114fb2a55fb6b3f.jpg
     url: /files/original/14fb2a55fb675114fb2a55fb6b3f.jpg
+    alt:
+      en: "A large tree with sparse foliage and broken branches stands beside a utility pole and power lines, with storm-damaged trees and debris, including a dumpster, scattered in the background under a clear blue sky."
 geo:
 id: 4718
 item_type: Still Image

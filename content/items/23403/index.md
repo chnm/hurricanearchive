@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0089cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef9b353814fb29ef9b3cd1.jpg
     url: /files/original/14fb29ef9b353814fb29ef9b3cd1.jpg
+    alt:
+      en: "Aerial view of flooded farmland and marsh, with a curved road and levee running through waterlogged fields, likely captured in the aftermath of hurricane flooding."
 geo:
 id: 23403
 item_type: Still Image

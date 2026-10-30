@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28235.jpg
     thumb: /files/thumbnails/14fb2a6ce82c3c14fb2a6ce83022.jpg
     url: /files/original/14fb2a6ce82c3c14fb2a6ce83022.jpg
+    alt:
+      en: "Older man wearing a purple vest, name badge, and cap sits in a plywood booth with his legs crossed, white tent fabric visible behind him."
 geo:
   address: ''
   lat: 0.0

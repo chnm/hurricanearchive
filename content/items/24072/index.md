@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eb07632414fb29eb076709.jpg
     url: /files/original/14fb29eb07632414fb29eb076709.jpg
+    alt:
+      en: "Mud-covered residential street with damaged brick houses, bare trees, and debris, viewed from inside a military vehicle with a side mirror visible in the foreground."
 geo:
 id: 24072
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 008_06_ed97738f3d.jpg
     thumb: /files/thumbnails/14fb2a6f2de49114fb2a6f2de86b.jpg
     url: /files/original/14fb2a6f2de49114fb2a6f2de86b.jpg
+    alt:
+      en: "Floodwater submerges a city street and parking lot, covering several cars and vans up to their windows, with multi-story brick and concrete buildings reflected in the murky water under an overcast sky."
 geo:
   address: ''
   lat: 29.9507700062939

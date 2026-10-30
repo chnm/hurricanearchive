@@ -21,6 +21,8 @@ files:
     original_filename: PICT0200Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c6f96a14fb29f4c6fd48.jpg
     url: /files/original/14fb29f4c6f96a14fb29f4c6fd48.jpg
+    alt:
+      en: "Damaged white and teal travel trailer with torn roof and skirting, parked beside a chain-link fence amid storm debris and fallen tree branches; timestamp reads 09.16.2005."
 geo:
 id: 22678
 item_type: Still Image

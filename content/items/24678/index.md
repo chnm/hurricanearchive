@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00779 DSC00779cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5b5fe0a14fb29e5b601ee.jpg
     url: /files/original/14fb29e5b5fe0a14fb29e5b601ee.jpg
+    alt:
+      en: "A group of military service members in camouflage uniforms walks outdoors near bare trees and a white building, with one man in sunglasses leading the group while another photographs the scene."
 geo:
 id: 24678
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 2380708602_c36012ad5e.
     thumb: /files/thumbnails/14fb29ca205a5514fb29ca205c86.jpg
     url: /files/original/14fb29ca205a5514fb29ca205c86.jpg
+    alt:
+      en: "Pile of storm debris outside a brick home, including metal patio furniture, wooden boards, a corrugated hose, plywood, and scattered household items, with plants in the foreground."
 geo:
   address: ''
   lat: 30.22894

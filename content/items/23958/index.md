@@ -21,6 +21,8 @@ files:
     original_filename: 09180028plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec3d8ff914fb29ec3d93d6.jpg
     url: /files/original/14fb29ec3d8ff914fb29ec3d93d6.jpg
+    alt:
+      en: "Flooded roadway strewn with debris, with a small boat and tracked military vehicle navigating the water, downed power lines and damaged trees along the edges, and a portable toilet in the foreground."
 geo:
 id: 23958
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 854407452_9b8ec77fbf_4f18fe0838.jpg
     thumb: /files/thumbnails/14fb29c567d6d914fb29c567dabd.jpg
     url: /files/original/14fb29c567d6d914fb29c567dabd.jpg
+    alt:
+      en: "Weathered white clapboard house with a broken window, spray-painted skull and X marks on the siding, surrounded by overgrown trees and brush."
 geo:
   address: 8 yosemite dr. new orleans
   lat: 29.91718

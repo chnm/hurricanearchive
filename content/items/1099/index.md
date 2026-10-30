@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28459.jpg
     thumb: /files/thumbnails/14fb2a6b1051b714fb2a6b10559c.jpg
     url: /files/original/14fb2a6b1051b714fb2a6b10559c.jpg
+    alt:
+      en: "Collapsed sections of a bridge jut at broken angles into open water, with a bent streetlight still standing amid the wreckage under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

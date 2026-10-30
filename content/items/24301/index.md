@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-21-20A.jpg
     thumb: /files/thumbnails/14fb29e8e8346314fb29e8e8a869.jpg
     url: /files/original/14fb29e8e8346314fb29e8e8a869.jpg
+    alt:
+      en: "Flooded city street with submerged cars and a truck beneath an elevated highway overpass, trees in foreground, a helicopter flying near a high-rise building in the background."
 geo:
 id: 24301
 item_type: Still Image

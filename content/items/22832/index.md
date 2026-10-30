@@ -21,6 +21,8 @@ files:
     original_filename: 789z3811cajundome.jpg
     thumb: /files/thumbnails/14fb29f320b08f14fb29f320b472.jpg
     url: /files/original/14fb29f320b08f14fb29f320b472.jpg
+    alt:
+      en: "Two military police in camouflage uniforms stand behind a metal barricade beside a sign listing prohibited items (guns, knives, alcohol, drugs, lighters), while a man in a blue cap crouches nearby looking at papers with books laid on a plastic sheet."
 geo:
 id: 22832
 item_type: Still Image

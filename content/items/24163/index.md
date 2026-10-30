@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea2ac3bc14fb29ea2ac795.jpg
     url: /files/original/14fb29ea2ac3bc14fb29ea2ac795.jpg
+    alt:
+      en: "Convoy of military trucks, including one marked \"225GP\" and \"MB090,\" drives through standing floodwater on a two-lane road lined with storm-damaged trees, as a white SUV waits behind them."
 geo:
 id: 24163
 item_type: Still Image

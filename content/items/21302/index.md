@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0222-9-25.JPG
     thumb: /files/thumbnails/14fb29ff93ec0d14fb29ff93eff3.jpg
     url: /files/original/14fb29ff93ec0d14fb29ff93eff3.jpg
+    alt:
+      en: "Aerial view of a flooded rural farmstead, with standing water surrounding houses, barns, and outbuildings amid green fields, trees, and a tractor on a nearby road."
 geo:
 id: 21302
 item_type: Still Image

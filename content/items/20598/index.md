@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040M.JPG
     thumb: /files/thumbnails/14fb2a05c25d3114fb2a05c26115.jpg
     url: /files/original/14fb2a05c25d3114fb2a05c26115.jpg
+    alt:
+      en: "A woman in military camouflage fatigues administers a shoulder injection to a man wearing an \"Army National Guard, Est. 1636, 100% American Soldier\" t-shirt, with other uniformed personnel visible nearby."
 geo:
 id: 20598
 item_type: Still Image

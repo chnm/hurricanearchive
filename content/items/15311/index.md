@@ -21,6 +21,8 @@ files:
     original_filename: PPeabody-7_6ad174fea2.jpg
     thumb: /files/thumbnails/14fb2a169bbbfe14fb2a169bbfe3.jpg
     url: /files/original/14fb2a169bbbfe14fb2a169bbfe3.jpg
+    alt:
+      en: "A man and woman dance together on a lawn in front of a \"Pace Arrow\" recreational vehicle, with a boombox speaker system sitting on the concrete pad behind them."
 geo:
 id: 15311
 item_type: Still Image

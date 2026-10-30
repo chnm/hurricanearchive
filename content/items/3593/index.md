@@ -24,6 +24,8 @@ files:
     original_filename: P1010020.JPG
     thumb: /files/thumbnails/14fb2a5aabddbe14fb2a5aabed18.jpg
     url: /files/original/14fb2a5aabddbe14fb2a5aabed18.jpg
+    alt:
+      en: "Weathered cane-back chairs and a mildewed pitcher sit among piles of storm-damaged debris outside a brick house, with an ornate iron gate visible in the background."
 geo:
 id: 3593
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: PICT0018_c327e296d1.JPG
     thumb: /files/thumbnails/14fb2a574bb94214fb2a574bbd1d.jpg
     url: /files/original/14fb2a574bb94214fb2a574bbd1d.jpg
+    alt:
+      en: "Damaged two-story apartment building with exposed interior and collapsed siding stands behind a sign reading \"1917 Mirabeau Avenue, Mirabeau II Apartments, 282-7626,\" amid storm debris and bare trees."
 geo:
   address: ''
   lat: 30.00564

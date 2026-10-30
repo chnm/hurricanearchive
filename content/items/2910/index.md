@@ -21,6 +21,8 @@ files:
     original_filename: MVC-033S.JPG
     thumb: /files/thumbnails/14fb2a5f9a289714fb2a5f9a2c7c.jpg
     url: /files/original/14fb2a5f9a289714fb2a5f9a2c7c.jpg
+    alt:
+      en: "Elevated view from a ship's deck of a long industrial waterfront building with large windows, raised on pilings above a concrete dock, with calm water and gray equipment in the foreground."
 geo:
 id: 2910
 item_type: Still Image

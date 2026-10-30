@@ -21,6 +21,8 @@ files:
     original_filename: DSC01127.JPG
     thumb: /files/thumbnails/14fb2a587ca72b14fb2a587cabc1.jpg
     url: /files/original/14fb2a587ca72b14fb2a587cabc1.jpg
+    alt:
+      en: "Floodwaters submerge the lower portions of houses and a large tree trunk in a residential neighborhood, with a timestamp reading \"6 12:17 PM\" visible in the corner."
 geo:
 id: 4019
 item_type: Still Image

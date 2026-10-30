@@ -21,6 +21,8 @@ files:
     original_filename: yearbookcover_454b3bca24.jpg
     thumb: /files/thumbnails/14fb29d787e71f14fb29d787f2d1.jpg
     url: /files/original/14fb29d787e71f14fb29d787f2d1.jpg
+    alt:
+      en: "Maroon textured yearbook cover embossed with a large gold owl and \"CHS\" lettering, reading \"Maroon Memories 1975\" with \"Carole Mundt\" at the bottom."
 geo:
 id: 26833
 item_type: Still Image

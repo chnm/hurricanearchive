@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0087abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efb093d814fb29efb09802.jpg
     url: /files/original/14fb29efb093d814fb29efb09802.jpg
+    alt:
+      en: "A soldier in camouflage uniform and beret stands with arms crossed near a flooded neighborhood, with submerged trucks, houses, and debris visible in the background."
 geo:
 id: 23399
 item_type: Still Image

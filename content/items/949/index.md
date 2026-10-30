@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28676.jpg
     thumb: /files/thumbnails/14fb2a6bf9015f14fb2a6bf93f69.jpg
     url: /files/original/14fb2a6bf9015f14fb2a6bf93f69.jpg
+    alt:
+      en: "A woman in a pink tank top gently nuzzles a chestnut horse's face while a man in a yellow shirt holds its halter, with a horse trailer visible in the background."
 geo:
   address: ''
   lat: 0.0

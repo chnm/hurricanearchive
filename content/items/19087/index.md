@@ -21,6 +21,8 @@ files:
     original_filename: S4300065.JPG
     thumb: /files/thumbnails/14fb2a1336014414fb2a13360529.jpg
     url: /files/original/14fb2a1336014414fb2a13360529.jpg
+    alt:
+      en: "Large military helicopter with rotor blades extended sits on a tarmac, with a uniformed service member standing nearby and support vehicles parked in the background."
 geo:
 id: 19087
 item_type: Still Image

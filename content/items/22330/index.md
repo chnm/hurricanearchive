@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1143Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f751e6d314fb29f751f674.jpg
     url: /files/original/14fb29f751e6d314fb29f751f674.jpg
+    alt:
+      en: "A car is nearly submerged in murky floodwater, with only its roof and upper windows visible above the churning surface."
 geo:
 id: 22330
 item_type: Still Image

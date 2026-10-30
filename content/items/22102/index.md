@@ -21,6 +21,8 @@ files:
     original_filename: 09210020J6.JPG
     thumb: /files/thumbnails/14fb29f9878f7414fb29f9879350.jpg
     url: /files/original/14fb29f9878f7414fb29f9879350.jpg
+    alt:
+      en: "Overgrown vacant lot with rusted metal crates and a red dumpster in the foreground, a tugboat pushing a barge along a waterway in the distance under a blue sky."
 geo:
 id: 22102
 item_type: Still Image

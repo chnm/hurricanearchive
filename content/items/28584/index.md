@@ -23,6 +23,8 @@ files:
     original_filename: 162652627_ab2c353c5e.jpg
     thumb: /files/thumbnails/14fb29d239cb4b14fb29d239cf30.jpg
     url: /files/original/14fb29d239cb4b14fb29d239cf30.jpg
+    alt:
+      en: "A damaged maroon recliner chair sits amid storm debris, surrounded by broken wooden planks, scattered boards, and discarded household items on the ground."
 geo:
 id: 28584
 item_type: Still Image

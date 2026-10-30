@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0407_7582311515.JPG
     thumb: /files/thumbnails/14fb2a6fcc677a14fb2a6fcc6b37.jpg
     url: /files/original/14fb2a6fcc677a14fb2a6fcc6b37.jpg
+    alt:
+      en: "A torn, weathered mattress rests atop a pile of storm debris, surrounded by splintered wood, broken boards, and twisted wire, with damaged tree branches in the background."
 geo:
   address: ''
   lat: 30.356286425251202

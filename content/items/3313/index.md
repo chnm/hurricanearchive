@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (72).jpg
     thumb: /files/thumbnails/14fb2a5c74b22514fb2a5c74b6dc.jpg
     url: /files/original/14fb2a5c74b22514fb2a5c74b6dc.jpg
+    alt:
+      en: "Collapsed houses with caved-in roofs and scattered debris line a canal, a blue drawbridge visible in the background under a clear sky."
 geo:
 id: 3313
 item_type: Still Image

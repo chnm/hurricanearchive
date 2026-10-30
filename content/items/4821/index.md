@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0136.JPG
     thumb: /files/thumbnails/14fb2a55476f8214fb2a55477371.jpg
     url: /files/original/14fb2a55476f8214fb2a55477371.jpg
+    alt:
+      en: "A yellow measuring tape stretches along a damaged wooden roof edge covered with pine needles, with exposed beams and shingles visible amid storm debris."
 geo:
 id: 4821
 item_type: Still Image

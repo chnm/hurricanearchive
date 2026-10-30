@@ -21,6 +21,8 @@ files:
     original_filename: Picture 232cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b1af97014fb2a0b1aff21.jpg
     url: /files/original/14fb2a0b1af97014fb2a0b1aff21.jpg
+    alt:
+      en: "Two men in camouflage uniforms stand together outdoors in front of a brick house, with fallen tree branches scattered on the ground and a third person visible in the background."
 geo:
 id: 20135
 item_type: Still Image

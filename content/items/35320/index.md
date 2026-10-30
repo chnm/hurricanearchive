@@ -18,6 +18,8 @@ files:
     original_filename: 55_12de1e1e01.jpg
     thumb: /files/thumbnails/14fb29c6831e9414fb29c6832279.jpg
     url: /files/original/14fb29c6831e9414fb29c6832279.jpg
+    alt:
+      en: "A young person with short hair wears an orange jumpsuit reading \"O.P.P. INMATE,\" holding a carved jack-o'-lantern and a stuffed red elephant toy, standing near a weathered white door and tiled wall."
 geo:
   address: new orleans, la
   lat: 29.95324

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0108OEP.JPG
     thumb: /files/thumbnails/14fb29f1915dab14fb29f1916196.jpg
     url: /files/original/14fb29f1915dab14fb29f1916196.jpg
+    alt:
+      en: "A man in U.S. Army camouflage fatigues with an American flag patch sits thoughtfully, chin resting on his hand, an ID badge hanging from his neck, with binders labeled \"Resources Book\" on shelves behind him."
 geo:
 id: 23098
 item_type: Still Image

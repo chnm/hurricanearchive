@@ -17,6 +17,8 @@ files:
     original_filename: IMG_0886.JPG
     thumb: /files/thumbnails/5fbb452edade14d19631bcc69c482642.jpg
     url: /files/original/5fbb452edade14d19631bcc69c482642.JPG
+    alt:
+      en: "A large fallen tree blocks a residential street beneath a \"Thoreau St\" street sign, with splintered trunk and scattered branches covering the road and lawn."
 geo:
   address: ''
   lat: 29.953744697923

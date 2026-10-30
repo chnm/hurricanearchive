@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_11_f490f1db8c.jpg
     thumb: /files/thumbnails/14fb2a17ddcc7514fb2a17ddd005.jpg
     url: /files/original/14fb2a17ddcc7514fb2a17ddd005.jpg
+    alt:
+      en: "A child dressed in a doctor's costume with scrub cap, stethoscope, and toy medical bag stands beside a seated woman in a floral blouse and jeans, posing indoors near a bulletin board display."
 geo:
 id: 14761
 item_type: Still Image

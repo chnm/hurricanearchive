@@ -26,6 +26,8 @@ files:
     original_filename: 100_0122_8d0b4ebf8c.JPG
     thumb: /files/thumbnails/14fb2a6f82a00a14fb2a6f82a3ee.jpg
     url: /files/original/14fb2a6f82a00a14fb2a6f82a3ee.jpg
+    alt:
+      en: "A severely damaged house with a collapsed roof and peeling siding, spray-painted with \"KATRINA YOU BITCH,\" behind orange safety fencing and a \"Park Parallel\" sign."
 geo:
   address: ''
   lat: 0.0

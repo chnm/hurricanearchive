@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0066ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a14f1976c14fb2a14f19b52.jpg
     url: /files/original/14fb2a14f1976c14fb2a14f19b52.jpg
+    alt:
+      en: "Aerial view of a flat residential neighborhood with scattered trees, a blue water tower labeled \"ARABI,\" rail lines, and industrial smokestacks along a distant river under hazy sky."
 geo:
 id: 18846
 item_type: Still Image

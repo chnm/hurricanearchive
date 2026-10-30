@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0227-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff84c44b14fb29ff84c81d.jpg
     url: /files/original/14fb29ff84c44b14fb29ff84c81d.jpg
+    alt:
+      en: "Aerial view of a flooded industrial facility with rows of large tanks, pipelines, and large cable spools, surrounded by standing floodwater and trees."
 geo:
 id: 21321
 item_type: Still Image

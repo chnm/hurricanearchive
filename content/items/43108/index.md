@@ -20,6 +20,8 @@ files:
     original_filename: Leonidas_2c281afcb0.jpg
     thumb: /files/thumbnails/14fb29c23a890114fb29c23a8da5.jpg
     url: /files/original/14fb29c23a890114fb29c23a8da5.jpg
+    alt:
+      en: "Black-and-white street view of a stuccoed corner building with striped awnings, a \"Drink Coca-Cola\" sign, and \"Leonidas Food Store\" lettering, with a \"For Sale\" notice posted in a window."
 geo:
 id: 43108
 item_type: Still Image

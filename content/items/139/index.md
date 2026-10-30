@@ -26,6 +26,8 @@ files:
     original_filename: 0906KatrinaNewOrleansautosized141_ec81d41e25.jpg
     thumb: /files/thumbnails/14fb2a70e1ea4c14fb2a70e1ee2a.jpg
     url: /files/original/14fb2a70e1ea4c14fb2a70e1ee2a.jpg
+    alt:
+      en: "A soldier in camouflage carrying a rifle walks past a burning building, with flames and smoke rising behind a fence in the background."
 geo:
   address: ''
   lat: 29.9207206332959

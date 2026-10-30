@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27978.jpg
     thumb: /files/thumbnails/14fb2a6959d8a814fb2a6959dc6b.jpg
     url: /files/original/14fb2a6959d8a814fb2a6959dc6b.jpg
+    alt:
+      en: "Abandoned building entrance numbered 3125 with boarded-up windows and a dark horizontal water stain along the walls and columns, with debris scattered on the ground."
 geo:
   address: ''
   lat: 0.0

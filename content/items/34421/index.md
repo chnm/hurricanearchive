@@ -20,6 +20,8 @@ files:
     original_filename: 2380701850_c890068165.
     thumb: /files/thumbnails/14fb29ca1b376514fb29ca1b39fc.jpg
     url: /files/original/14fb29ca1b376514fb29ca1b39fc.jpg
+    alt:
+      en: "Two shelves of CDs and cassette tapes in white dividers, disorganized and dusty, with visible titles including \"Aaron Neville,\" \"Tanya Tucker Greatest Hits,\" and \"David Arkenstone.\""
 geo:
   address: ''
   lat: 30.22894

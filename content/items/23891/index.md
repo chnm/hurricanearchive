@@ -21,6 +21,8 @@ files:
     original_filename: picture 12stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec9912fe14fb29ec9916e3.jpg
     url: /files/original/14fb29ec9912fe14fb29ec9916e3.jpg
+    alt:
+      en: "A red brick single-story house with storm-damaged roof shingles, surrounded by fallen trees, downed power lines, and debris covering a mud-caked yard and street."
 geo:
 id: 23891
 item_type: Still Image

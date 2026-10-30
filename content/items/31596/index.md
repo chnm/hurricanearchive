@@ -21,6 +21,8 @@ files:
     original_filename: 052807NOLA59RWlg_28ce42072d.jpg
     thumb: /files/thumbnails/14fb29cc1a32c314fb29cc1a36a5.jpg
     url: /files/original/14fb29cc1a32c314fb29cc1a36a5.jpg
+    alt:
+      en: "Black-and-white photo of a person wearing glasses and a hat, surrounded by multiple spinning hula hoops captured in a circular motion blur, viewed from below."
 geo:
 id: 31596
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0297westend.JPG
     thumb: /files/thumbnails/14fb2a1417d42014fb2a1417d69d.jpg
     url: /files/original/14fb2a1417d42014fb2a1417d69d.jpg
+    alt:
+      en: "Aerial view of a marina with dozens of sailboats and motorboats piled and strewn along a seawall and parking lot, surrounded by dark water, with a damaged roof visible on a nearby building."
 geo:
 id: 18940
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1032.JPG
     thumb: /files/thumbnails/14fb2a57b61ae814fb2a57b621ab.jpg
     url: /files/original/14fb2a57b61ae814fb2a57b621ab.jpg
+    alt:
+      en: "Large crowd gathered on a litter-strewn grassy field near an overpass, with buses, trucks, and a water tower visible in the background under a hazy sky."
 geo:
 id: 4104
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0120-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e67d8e1914fb29e67d90e0.jpg
     url: /files/original/14fb29e67d8e1914fb29e67d90e0.jpg
+    alt:
+      en: "Military truck marked \"225GP 769TH EXGR BX\" carries a seated man in camouflage cap and sunglasses, raising both hands, with trees and overcast sky in the background."
 geo:
 id: 24577
 item_type: Still Image

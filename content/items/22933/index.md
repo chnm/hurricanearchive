@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037media.JPG
     thumb: /files/thumbnails/14fb29f2a4cf4514fb29f2a4d3a4.jpg
     url: /files/original/14fb29f2a4cf4514fb29f2a4d3a4.jpg
+    alt:
+      en: "Aerial view from a helicopter, with a crew member and equipment visible in the foreground, showing a devastated residential neighborhood with debris-strewn streets and heavily damaged houses stretching to the horizon."
 geo:
 id: 22933
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010108.JPG
     thumb: /files/thumbnails/14fb2a5a310e3314fb2a5a311213.jpg
     url: /files/original/14fb2a5a310e3314fb2a5a311213.jpg
+    alt:
+      en: "Massive pile of storm debris—broken appliances, furniture, and rubble—heaped in front of a shopping center with a \"King's Deli\" sign and a partially visible dry cleaner storefront."
 geo:
 id: 3671
 item_type: Still Image

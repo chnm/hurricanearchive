@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1055.JPG
     thumb: /files/thumbnails/14fb2a57acd37714fb2a57acd8f2.jpg
     url: /files/original/14fb2a57acd37714fb2a57acd8f2.jpg
+    alt:
+      en: "A man in a light blue checkered shirt shakes hands with a uniformed officer wearing a bulletproof vest, surrounded by a crowd of law enforcement and military personnel outside a two-story building."
 geo:
 id: 4109
 item_type: Still Image

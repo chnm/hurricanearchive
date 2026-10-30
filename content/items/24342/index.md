@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-18-16A.jpg
     thumb: /files/thumbnails/14fb29e8a541f314fb29e8a545d9.jpg
     url: /files/original/14fb29e8a541f314fb29e8a545d9.jpg
+    alt:
+      en: "Urban park scene with large trees, fallen branches and scattered debris in the foreground, with high-rise buildings visible in the background under a hazy sky."
 geo:
 id: 24342
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0108.JPG
     thumb: /files/thumbnails/14fb2a0ad3e67114fb2a0ad3e8a2.jpg
     url: /files/original/14fb2a0ad3e67114fb2a0ad3e8a2.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with rows of houses showing collapsed roofs, scattered debris, and damaged structures across multiple city blocks after storm destruction."
 geo:
 id: 20192
 item_type: Still Image

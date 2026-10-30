@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28333.jpg
     thumb: /files/thumbnails/14fb2a6bdf05b814fb2a6bdf099d.jpg
     url: /files/original/14fb2a6bdf05b814fb2a6bdf099d.jpg
+    alt:
+      en: "Wooden boardwalk and railing draped with black plastic sheeting, leading toward storm-damaged buildings and scattered debris under bare, battered trees."
 geo:
   address: ''
   lat: 0.0

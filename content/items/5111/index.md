@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0456.JPG
     thumb: /files/thumbnails/14fb2a53dba6f214fb2a53dbaad4.jpg
     url: /files/original/14fb2a53dba6f214fb2a53dbaad4.jpg
+    alt:
+      en: "A devastated landscape with two trucks parked amid scattered debris, collapsed building remnants, and a tiled foundation, surrounded by leafless, storm-damaged trees under a clear sky."
 geo:
 id: 5111
 item_type: Still Image

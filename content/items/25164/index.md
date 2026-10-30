@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1774superdome.JPG
     thumb: /files/thumbnails/14fb29e189c7b014fb29e18a1008.jpg
     url: /files/original/14fb29e189c7b014fb29e18a1008.jpg
+    alt:
+      en: "Two men stand outside a building with vinyl siding, one in a yellow striped shirt and the other in a camouflage military uniform with an American flag patch, near a chain-link fence."
 geo:
 id: 25164
 item_type: Still Image

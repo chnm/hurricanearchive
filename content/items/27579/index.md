@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7164_4043640a19.jpg
     thumb: /files/thumbnails/14fb29d3471e3214fb29d3472211.jpg
     url: /files/original/14fb29d3471e3214fb29d3472211.jpg
+    alt:
+      en: "Volleyball players in black and white uniforms compete on a gymnasium court as a referee watches, with large crowds of students in teal, black, and red shirts filling the bleachers behind them."
 geo:
   address: ''
   lat: 29.87876

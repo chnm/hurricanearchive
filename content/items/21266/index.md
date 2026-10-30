@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0210.JPG
     thumb: /files/thumbnails/14fb29ffb2247b14fb29ffb22861.jpg
     url: /files/original/14fb29ffb2247b14fb29ffb22861.jpg
+    alt:
+      en: "Aerial view of a devastated neighborhood with only foundations and debris remaining on most lots, scattered trees, an overturned school bus, and one surviving two-story house with an orange roof."
 geo:
 id: 21266
 item_type: Still Image

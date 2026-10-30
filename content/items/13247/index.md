@@ -21,6 +21,8 @@ files:
     original_filename: flooding.jpg
     thumb: /files/thumbnails/14fb2a1ea5691314fb2a1ea60731.jpg
     url: /files/original/14fb2a1ea5691314fb2a1ea60731.jpg
+    alt:
+      en: "Floodwater covers a residential street, submerging the lower trunks of trees and nearby houses, viewed from inside a vehicle with utility poles lining the road under an overcast sky."
 geo:
 id: 13247
 item_type: Still Image

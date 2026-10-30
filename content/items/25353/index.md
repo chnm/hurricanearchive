@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2080superdome.JPG
     thumb: /files/thumbnails/14fb29debee7aa14fb29debeea2d.jpg
     url: /files/original/14fb29debee7aa14fb29debeea2d.jpg
+    alt:
+      en: "Military personnel in camouflage and flight suits assist an elderly man and a woman crouched in distress across a wet pavement, with a duffel bag nearby and an elevated highway and billboard in the background."
 geo:
 id: 25353
 item_type: Still Image

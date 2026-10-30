@@ -21,6 +21,8 @@ files:
     original_filename: FH000004.jpg
     thumb: /files/thumbnails/14fb29fcbb9f4114fb29fcbba293.jpg
     url: /files/original/14fb29fcbb9f4114fb29fcbba293.jpg
+    alt:
+      en: "View from inside a vehicle, driver's hand on the steering wheel, with a debris-covered road ahead lined by trees and a fallen branch, under a hazy sky."
 geo:
 id: 21664
 item_type: Still Image

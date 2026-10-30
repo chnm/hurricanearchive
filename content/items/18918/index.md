@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0268downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14383dff14fb2a143841e6.jpg
     url: /files/original/14fb2a14383dff14fb2a143841e6.jpg
+    alt:
+      en: "Aerial view of a flooded industrial area with scattered shipping containers and trailers (K Line, Matson, NOL, COSCO), standing floodwater, downed trees, and a large warehouse with a damaged metal roof."
 geo:
 id: 18918
 item_type: Still Image

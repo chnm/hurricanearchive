@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140010.JPG
     thumb: /files/thumbnails/14fb2a0a84087114fb2a0a840c4d.jpg
     url: /files/original/14fb2a0a84087114fb2a0a840c4d.jpg
+    alt:
+      en: "A white and blue motorboat with red and blue stripes rests upside-down and displaced amid broken tree branches and debris, with a damaged multi-story building visible in the background."
 geo:
 id: 20236
 item_type: Still Image

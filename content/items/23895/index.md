@@ -21,6 +21,8 @@ files:
     original_filename: picture 1stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec8c7a9a14fb29ec8c7e80.jpg
     url: /files/original/14fb29ec8c7a9a14fb29ec8c7e80.jpg
+    alt:
+      en: "A red fire hydrant stands in a muddy, flooded street with visible drag marks in the silt, bare branches in the foreground, and houses and parked cars lining the background."
 geo:
 id: 23895
 item_type: Still Image

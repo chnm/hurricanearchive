@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0977superdome.JPG
     thumb: /files/thumbnails/14fb29e3f8eea414fb29e3f8f311.jpg
     url: /files/original/14fb29e3f8eea414fb29e3f8f311.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather outside a building marked \"SECURITY,\" with civilians, including a child, passing by on a concrete walkway."
 geo:
 id: 24902
 item_type: Still Image

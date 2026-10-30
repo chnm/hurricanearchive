@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28284.jpg
     thumb: /files/thumbnails/14fb2a6b6f306a14fb2a6b6f344f.jpg
     url: /files/original/14fb2a6b6f306a14fb2a6b6f344f.jpg
+    alt:
+      en: "Storm-damaged building with exposed steel framing stands amid bare trees, surrounded by large curved metal debris and scattered wreckage on the ground."
 geo:
   address: ''
   lat: 0.0

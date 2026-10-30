@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9158.jpg
     thumb: /files/thumbnails/14fb2a63d3b82314fb2a63d3bc07.jpg
     url: /files/original/14fb2a63d3b82314fb2a63d3bc07.jpg
+    alt:
+      en: "Debris-strewn lot with a tattered American flag and a sign reading \"Future Home of Cajun Rivera Beach Camps, The Monceaux's, Holly Beach, La.\" beside a leaning ladder and scattered wreckage."
 geo:
 id: 2632
 item_type: Still Image

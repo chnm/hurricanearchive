@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1429superdome.JPG
     thumb: /files/thumbnails/14fb29e3bd21b514fb29e3bd27d1.jpg
     url: /files/original/14fb29e3bd21b514fb29e3bd27d1.jpg
+    alt:
+      en: "A uniformed military police officer with an \"MP\" armband points while standing behind a metal barricade, with a sign reading \"Authorized Vehicles Only\" and others nearby."
 geo:
 id: 24932
 item_type: Still Image

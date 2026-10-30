@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6613_ed3d161bd2.JPG
     thumb: /files/thumbnails/14fb29d2d3c5d614fb29d2d3c9bc.jpg
     url: /files/original/14fb29d2d3c5d614fb29d2d3c9bc.jpg
+    alt:
+      en: "Black-and-white 1940s snapshot of three young women sitting on a blanket on a grassy curb, with a residential street lined by shotgun-style houses and trees behind them."
 geo:
   address: ''
   lat: 29.84064

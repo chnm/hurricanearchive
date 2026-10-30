@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0098-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e78cc61014fb29e78cc9ed.jpg
     url: /files/original/14fb29e78cc61014fb29e78cc9ed.jpg
+    alt:
+      en: "Aerial view of a flooded rural community with houses submerged to their rooftops, surrounded by debris-laden floodwater, downed trees, and marshland extending to the horizon."
 geo:
 id: 24460
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300176stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece598e114fb29ece59c97.jpg
     url: /files/original/14fb29ece598e114fb29ece59c97.jpg
+    alt:
+      en: "Damaged sedan with open trunk crushed under a collapsed carport roof covered in storm debris, beside a brick house with plywood-boarded windows and scattered litter in the muddy yard."
 geo:
 id: 23837
 item_type: Still Image

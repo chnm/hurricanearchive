@@ -21,6 +21,8 @@ files:
     original_filename: 100_0179.JPG
     thumb: /files/thumbnails/14fb2a591b5efd14fb2a591b62ea.jpg
     url: /files/original/14fb2a591b5efd14fb2a591b62ea.jpg
+    alt:
+      en: "Floodwater submerges the porches and lower windows of single-story houses, with tall trees and sagging power lines rising above the waterline."
 geo:
 id: 3886
 item_type: Still Image

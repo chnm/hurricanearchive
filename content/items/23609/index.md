@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1621neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee84cab514fb29ee84cfcc.jpg
     url: /files/original/14fb29ee84cab514fb29ee84cfcc.jpg
+    alt:
+      en: "Military truck with license plate \"225GP769E H403\" parked in floodwater inside a building entrance, as a driver and shirtless soldier interact while evacuees wait nearby near a \"Bag Check\" sign."
 geo:
 id: 23609
 item_type: Still Image

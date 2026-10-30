@@ -20,6 +20,8 @@ files:
     original_filename: quilt2_600c2e00da.jpg
     thumb: /files/thumbnails/14fb29ca9c01c814fb29ca9c0565.jpg
     url: /files/original/14fb29ca9c01c814fb29ca9c0565.jpg
+    alt:
+      en: "Four smiling children sit together wrapped in a colorful patchwork quilt on a couch, with white window blinds visible in the background."
 geo:
   address: 1310 Simon Bolivar Ave.  New Orleans  LA
   lat: 29.9437

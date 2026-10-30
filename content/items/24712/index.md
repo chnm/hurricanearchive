@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-14-13Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e567145014fb29e5671831.jpg
     url: /files/original/14fb29e567145014fb29e5671831.jpg
+    alt:
+      en: "Floodwaters submerge a city street and parking lot, with numerous cars partially underwater and a military truck parked near a building; multi-story buildings and a bridge overpass are visible in the background."
 geo:
 id: 24712
 item_type: Still Image

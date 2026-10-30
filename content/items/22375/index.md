@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1197Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6f0577414fb29f6f06761.jpg
     url: /files/original/14fb29f6f0577414fb29f6f06761.jpg
+    alt:
+      en: "Nighttime scene on a boat deck, with one man wearing an orange life vest operating a winch and another man crouched working on machinery, illuminated by portable work lights amid misty, dim surroundings."
 geo:
 id: 22375
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0073H.JPG
     thumb: /files/thumbnails/14fb2a040b864614fb2a040b8a47.jpg
     url: /files/original/14fb2a040b864614fb2a040b8a47.jpg
+    alt:
+      en: "A smiling young woman with short dark hair and glasses, wearing a white tank top with a name tag reading \"Erin,\" faces a man in camouflage military fatigues."
 geo:
 id: 20765
 item_type: Still Image

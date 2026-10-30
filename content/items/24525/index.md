@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e71c679d14fb29e71c6b6c.jpg
     url: /files/original/14fb29e71c679d14fb29e71c6b6c.jpg
+    alt:
+      en: "Thick layer of dried mud covering a road near a bridge, with two pickup trucks parked beside debris-strewn floodwater and bare trees in the background."
 geo:
 id: 24525
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 278-J2.jpg
     thumb: /files/thumbnails/14fb29fae4ffb514fb29fae50398.jpg
     url: /files/original/14fb29fae4ffb514fb29fae50398.jpg
+    alt:
+      en: "Empty highway with standing floodwater along the shoulder, an overhead sign gantry in the foreground, a \"Million\" billboard, and a city skyline visible in the distance."
 geo:
 id: 21947
 item_type: Still Image

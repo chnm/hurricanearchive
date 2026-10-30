@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 073cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e6572f314fb2a0e6576e0.jpg
     url: /files/original/14fb2a0e6572f314fb2a0e6576e0.jpg
+    alt:
+      en: "Deserted street strewn with debris, viewed from inside a vehicle, with apartment buildings on the right and bare trees lining a fenced residential area on the left under a partly cloudy sky."
 geo:
 id: 19686
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 189 flooding9.jpg
     thumb: /files/thumbnails/14fb2a1f71fef914fb2a1f7202de.jpg
     url: /files/original/14fb2a1f71fef914fb2a1f7202de.jpg
+    alt:
+      en: "A single-story white house with a dark green roof and porch sits partially submerged in floodwater, with two cars nearly covered to their windows parked beside it, surrounded by trees."
 geo:
 id: 13196
 item_type: Still Image

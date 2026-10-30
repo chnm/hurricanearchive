@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0342.JPG
     thumb: /files/thumbnails/14fb2a5489ae9f14fb2a5489b284.jpg
     url: /files/original/14fb2a5489ae9f14fb2a5489b284.jpg
+    alt:
+      en: "Skeletal wooden frame of a destroyed house stands amid scattered debris, with bare, storm-damaged trees surrounding the cleared lot."
 geo:
 id: 4997
 item_type: Still Image

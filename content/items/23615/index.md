@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1636neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee72e89f14fb29ee72ec85.jpg
     url: /files/original/14fb29ee72e89f14fb29ee72ec85.jpg
+    alt:
+      en: "Crowds of people walk along a closed elevated highway past parked ambulances and vehicles, with overhead signs reading \"Baton Rouge,\" \"Slidell Exit 1/4 Mile,\" and \"Claiborne Ave Next Right.\""
 geo:
 id: 23615
 item_type: Still Image

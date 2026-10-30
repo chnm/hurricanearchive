@@ -21,6 +21,8 @@ files:
     original_filename: 09270024plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec23f83614fb29ec23fdb0.jpg
     url: /files/original/14fb29ec23f83614fb29ec23fdb0.jpg
+    alt:
+      en: "Severely damaged maroon two-story building with missing doors and windows stands amid storm debris, a white pickup truck, and rubble piles under an overcast sky."
 geo:
 id: 23986
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003.JPG
     thumb: /files/thumbnails/14fb2a1384085114fb2a13840c37.jpg
     url: /files/original/14fb2a1384085114fb2a13840c37.jpg
+    alt:
+      en: "Person in camouflage military uniform and helmet crouched on a grassy field, handling a cable or wire, with vehicles and trees visible on a roadway in the background."
 geo:
 id: 19046
 item_type: Still Image

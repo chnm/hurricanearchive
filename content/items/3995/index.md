@@ -21,6 +21,8 @@ files:
     original_filename: DSC01085.JPG
     thumb: /files/thumbnails/14fb2a5895948814fb2a5895986e.jpg
     url: /files/original/14fb2a5895948814fb2a5895986e.jpg
+    alt:
+      en: "Floodwater surrounds two houses, submerging their lower walls, with bare tree branches hanging in the foreground; a timestamp reads \"5 11:11 AM\" in the corner."
 geo:
 id: 3995
 item_type: Still Image

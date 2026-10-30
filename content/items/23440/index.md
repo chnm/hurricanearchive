@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0105cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef6ba78114fb29ef6bab67.jpg
     url: /files/original/14fb29ef6ba78114fb29ef6bab67.jpg
+    alt:
+      en: "A military crew member wearing a headset and camouflage uniform looks out from an aircraft doorway over a dense green forest landscape below."
 geo:
 id: 23440
 item_type: Still Image

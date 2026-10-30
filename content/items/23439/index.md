@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0105abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef6d8bd914fb29ef6d8fad.jpg
     url: /files/original/14fb29ef6d8bd914fb29ef6d8fad.jpg
+    alt:
+      en: "A line of white pickup trucks parked along a dirt roadway beside water, with debris scattered on the ground and bare trees in the background under a cloudy sky."
 geo:
 id: 23439
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1805superdome.JPG
     thumb: /files/thumbnails/14fb29e133255414fb29e133293b.jpg
     url: /files/original/14fb29e133255414fb29e133293b.jpg
+    alt:
+      en: "Several soldiers in camouflage uniforms stand in the foreground, with a crowd of civilians gathered along an elevated walkway above a parking structure in the background."
 geo:
 id: 25186
 item_type: Still Image

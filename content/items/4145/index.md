@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0031.JPG
     thumb: /files/thumbnails/14fb2a57796a6714fb2a57796cc0.jpg
     url: /files/original/14fb2a57796a6714fb2a57796cc0.jpg
+    alt:
+      en: "Two fishing boats stranded on a marshy shoreline, apparently run aground, with a wide expanse of brownish water in the foreground and a tree line under a clear blue sky."
 geo:
 id: 4145
 item_type: Still Image

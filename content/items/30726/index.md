@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7423.JPG
     thumb: /files/thumbnails/14fb29ccaaf59314fb29ccaaf97e.jpg
     url: /files/original/14fb29ccaaf59314fb29ccaaf97e.jpg
+    alt:
+      en: "A woman in a red cap and striped blue tank top photographs storm damage amid fallen tree branches and debris, while a man looks on and a calico cat sits nearby."
 geo:
 id: 30726
 item_type: Still Image

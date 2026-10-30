@@ -23,6 +23,8 @@ files:
     original_filename: 1438868844_2efb066486.
     thumb: /files/thumbnails/14fb29cbc0e9b414fb29cbc0ed99.jpg
     url: /files/original/14fb29cbc0e9b414fb29cbc0ed99.jpg
+    alt:
+      en: "Damaged McDonald's sign with bent golden arches stands beside power lines and a storm-damaged lot with debris, viewed from inside a vehicle with a side mirror reflecting a passenger's arm."
 geo:
 id: 33186
 item_type: Still Image

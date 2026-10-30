@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0158-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a013cd9c614fb2a013cdda5.jpg
     url: /files/original/14fb2a013cd9c614fb2a013cdda5.jpg
+    alt:
+      en: "Aerial view of flooded marshland with narrow channels of open water cutting through patches of grass and vegetation, extending toward a hazy horizon."
 geo:
 id: 20968
 item_type: Still Image

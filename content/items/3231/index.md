@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (78).JPG
     thumb: /files/thumbnails/14fb2a5d2bb1c414fb2a5d2bb5aa.jpg
     url: /files/original/14fb2a5d2bb1c414fb2a5d2bb5aa.jpg
+    alt:
+      en: "A boarded-up, single-story house with a brick foundation and shuttered windows displays a hand-painted sign reading \"KATRINA CAFÉ,\" with power lines and a utility pole in front."
 geo:
 id: 3231
 item_type: Still Image

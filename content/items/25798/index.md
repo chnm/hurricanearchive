@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-5781_50287e2bd2.jpg
     thumb: /files/thumbnails/14fb29dc33218f14fb29dc332572.jpg
     url: /files/original/14fb29dc33218f14fb29dc332572.jpg
+    alt:
+      en: "Elderly man in a red embroidered vest stands beside a memorial wreath labeled \"Vietnam Veterans of America,\" with cemetery monuments and trees in the background."
 geo:
 id: 25798
 item_type: Still Image

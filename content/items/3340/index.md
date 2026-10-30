@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Press conference (7).JPG
     thumb: /files/thumbnails/14fb2a5c56025414fb2a5c560638.jpg
     url: /files/original/14fb2a5c56025414fb2a5c560638.jpg
+    alt:
+      en: "A press conference at a podium labeled \"Hyatt Regency New Orleans,\" with a man speaking into a cluster of microphones beside a U.S. Coast Guard officer and a uniformed police chief, military personnel in the background."
 geo:
 id: 3340
 item_type: Still Image

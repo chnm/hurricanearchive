@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1014Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f91e30ff14fb29f91e34e6.jpg
     url: /files/original/14fb29f91e30ff14fb29f91e34e6.jpg
+    alt:
+      en: "Soldiers carry bags and luggage toward a U.S. Army Black Hawk helicopter parked on a tarmac, with trees, trucks, and a building visible in the background."
 geo:
 id: 22207
 item_type: Still Image

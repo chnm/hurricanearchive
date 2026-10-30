@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0495.JPG
     thumb: /files/thumbnails/14fb2a53ccdc8414fb2a53cce066.jpg
     url: /files/original/14fb2a53ccdc8414fb2a53cce066.jpg
+    alt:
+      en: "Side view of a single-story house with pink siding and a dark asphalt shingle roof, featuring a window with green shutters; bare tree branches and greenery surround the structure."
 geo:
 id: 5133
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0362_1f81325ed4.jpg
     thumb: /files/thumbnails/14fb29cd6da60514fb29cd6dad5a.jpg
     url: /files/original/14fb29cd6da60514fb29cd6dad5a.jpg
+    alt:
+      en: "A small house knocked completely off its foundation and tilted at a steep angle sits on an empty, debris-strewn lot, with a flag flying nearby and bare trees in the background."
 geo:
 id: 30040
 item_type: Still Image

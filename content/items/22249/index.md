@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1060Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8a3247414fb29f8a32858.jpg
     url: /files/original/14fb29f8a3247414fb29f8a32858.jpg
+    alt:
+      en: "A pickup truck with a tarp-covered load parked on grass beside another truck, photographed through heavy rain with a hazy, flooded landscape in the background."
 geo:
 id: 22249
 item_type: Still Image

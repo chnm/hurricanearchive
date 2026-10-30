@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043cameronS&R.JPG
     thumb: /files/thumbnails/14fb29f001143314fb29f0011833.jpg
     url: /files/original/14fb29f001143314fb29f0011833.jpg
+    alt:
+      en: "Aerial view of a hazy coastal waterway with a long stone jetty dividing the water, several small boats and vessels scattered near the channel."
 geo:
 id: 23307
 item_type: Still Image

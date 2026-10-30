@@ -21,6 +21,8 @@ files:
     original_filename: 09280013plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebf1343d14fb29ebf13822.jpg
     url: /files/original/14fb29ebf1343d14fb29ebf13822.jpg
+    alt:
+      en: "Two men in military-style uniforms inspect a collapsed brick structure scattered across the ground, with bare, storm-damaged trees and a pickup truck visible in the background."
 geo:
 id: 24011
 item_type: Still Image

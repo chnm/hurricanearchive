@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7400.JPG
     thumb: /files/thumbnails/14fb29ccca72ef14fb29ccca76d5.jpg
     url: /files/original/14fb29ccca72ef14fb29ccca76d5.jpg
+    alt:
+      en: "A wood-sided cabin with a metal roof and TV antenna sits beneath tall pine and leafless trees silhouetted against a clear blue sky."
 geo:
 id: 30703
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300008zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f40656014fb2a0f406932.jpg
     url: /files/original/14fb2a0f40656014fb2a0f406932.jpg
+    alt:
+      en: "A man in a camouflage cap holds a handheld device up to a military vehicle's window opening, speaking with a uniformed man inside wearing fatigues with a visible USA patch."
 geo:
 id: 19554
 item_type: Still Image

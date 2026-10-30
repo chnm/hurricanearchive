@@ -20,6 +20,8 @@ files:
     original_filename: 176014279_d064c48862.jpg
     thumb: /files/thumbnails/14fb29d25063db14fb29d2506838.jpg
     url: /files/original/14fb29d25063db14fb29d2506838.jpg
+    alt:
+      en: "Light blue t-shirt printed with a peace sign made from a fleur-de-lis, encircled by the text \"Make Levees Not War\" and a banner reading \"Hurricane Katrina 2005, New Orleans, Louisiana.\""
 geo:
 id: 28569
 item_type: Still Image

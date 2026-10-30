@@ -21,6 +21,8 @@ files:
     original_filename: MVC-012S.JPG
     thumb: /files/thumbnails/14fb2a5f77735e14fb2a5f777744.jpg
     url: /files/original/14fb2a5f77735e14fb2a5f777744.jpg
+    alt:
+      en: "Sunlit water channel between a dock and a floating platform holding a small boat and equipment, viewed from an elevated walkway with metal railings in the foreground."
 geo:
 id: 2957
 item_type: Still Image

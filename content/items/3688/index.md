@@ -24,6 +24,8 @@ files:
     original_filename: P1010130.JPG
     thumb: /files/thumbnails/14fb2a5a20bd5114fb2a5a20c138.jpg
     url: /files/original/14fb2a5a20bd5114fb2a5a20c138.jpg
+    alt:
+      en: "Street view of a row of storefronts and houses along Magazine Street, with cars and a moving truck parked along the curb and a \"School Speed Limit 20\" sign near a traffic light."
 geo:
 id: 3688
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0099-21.JPG
     thumb: /files/thumbnails/14fb29e78734a214fb29e787c142.jpg
     url: /files/original/14fb29e78734a214fb29e787c142.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work at tables with laptops in a makeshift command center, with desk signs reading \"JAG,\" \"ENG,\" \"ENGINEER,\" and \"XO\" marking different stations amid cables, papers, and water bottles."
 geo:
 id: 24464
 item_type: Still Image

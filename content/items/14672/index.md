@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AlexisMorgan_01_c8de2b46cc.jpg
     thumb: /files/thumbnails/14fb2a186f150a14fb2a186f18c2.jpg
     url: /files/original/14fb2a186f150a14fb2a186f18c2.jpg
+    alt:
+      en: "A beaded necklace with black cord and wooden beads in brown and cream tones, featuring a wooden pendant shaped like the letter \"A\" inscribed with \"Alexis\" and additional lettering."
 geo:
 id: 14672
 item_type: Still Image

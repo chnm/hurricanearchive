@@ -24,6 +24,8 @@ files:
     original_filename: SD 1950s gas station_d34f5e9518.jpg
     thumb: /files/thumbnails/14fb29d7d49d2214fb29d7d4a0f4.jpg
     url: /files/original/14fb29d7d49d2214fb29d7d4a0f4.jpg
+    alt:
+      en: "Black-and-white photo of a man in a hat and a woman in a dress standing together at a gas station, with a gas pump and \"DEALER\" sign visible behind them."
 geo:
   address: ''
   lat: 30.03106

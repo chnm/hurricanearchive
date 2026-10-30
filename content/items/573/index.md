@@ -26,6 +26,8 @@ files:
     original_filename: 100_0110_89b2a07572.JPG
     thumb: /files/thumbnails/14fb2a6f82138214fb2a6f821757.jpg
     url: /files/original/14fb2a6f82138214fb2a6f821757.jpg
+    alt:
+      en: "A ship-shaped casino structure with tall masts sits damaged and elevated on pilings near a beach, beside a gutted adjoining building, under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

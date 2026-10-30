@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1468superdome.JPG
     thumb: /files/thumbnails/14fb29e39d1a1614fb29e39d1e10.jpg
     url: /files/original/14fb29e39d1a1614fb29e39d1e10.jpg
+    alt:
+      en: "A flooded city street submerged in dark water, with numerous abandoned vehicles—including a Humvee, van, and pickup trucks—partially underwater; a Coca-Cola advertisement sign stands above the floodwaters."
 geo:
 id: 24953
 item_type: Still Image

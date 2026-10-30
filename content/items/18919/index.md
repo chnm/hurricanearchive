@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0269downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14362eda14fb2a143632b6.jpg
     url: /files/original/14fb2a14362eda14fb2a143632b6.jpg
+    alt:
+      en: "Aerial view of a sprawling shipping and logistics yard filled with rows of shipping containers, truck trailers, and RVs, labeled with company names like Matson, Crowley, and Evergreen, with a wooded area and distant neighborhood in the background."
 geo:
 id: 18919
 item_type: Still Image

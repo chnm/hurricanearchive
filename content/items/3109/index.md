@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (12).JPG
     thumb: /files/thumbnails/14fb2a5de0cc2114fb2a5de0d58d.jpg
     url: /files/original/14fb2a5de0cc2114fb2a5de0d58d.jpg
+    alt:
+      en: "Photo taken through a car window shows a large white two-story house with trees and a muddy, debris-covered street in the foreground, with a side mirror visible at the bottom."
 geo:
 id: 3109
 item_type: Still Image

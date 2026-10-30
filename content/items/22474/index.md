@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1315Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f640bd6514fb29f640c149.jpg
     url: /files/original/14fb29f640bd6514fb29f640c149.jpg
+    alt:
+      en: "A flat-roofed brick building with several windows surrounded by extensive floodwater, with pine trees visible in the background under an overcast sky."
 geo:
 id: 22474
 item_type: Still Image

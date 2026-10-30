@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (2).JPG
     thumb: /files/thumbnails/14fb2a5d8b8cf314fb2a5d8b9672.jpg
     url: /files/original/14fb2a5d8b8cf314fb2a5d8b9672.jpg
+    alt:
+      en: "A white box truck sits parked beside a tree-shaded house with columned porches, surrounded by fallen branches and debris in the yard."
 geo:
 id: 3167
 item_type: Still Image

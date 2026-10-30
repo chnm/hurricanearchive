@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.001.JPG
     thumb: /files/thumbnails/14fb29dd32099614fb29dd320d7b.jpg
     url: /files/original/14fb29dd32099614fb29dd320d7b.jpg
+    alt:
+      en: "Large pile of debris—splintered wood, plastic bags, and household items—sits in front of a house, cordoned off with red tape, with a brick porch and bicycles visible in the background."
 geo:
 id: 25610
 item_type: Still Image

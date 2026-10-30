@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1820superdome.JPG
     thumb: /files/thumbnails/14fb29e1232eb814fb29e12332de.jpg
     url: /files/original/14fb29e1232eb814fb29e12332de.jpg
+    alt:
+      en: "A group of military personnel and rescue workers wade through floodwater in a parking lot, carrying a stretcher together while bystanders look on."
 geo:
 id: 25195
 item_type: Still Image

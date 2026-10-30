@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0256.JPG
     thumb: /files/thumbnails/14fb2a55c4100114fb2a55c413c6.jpg
     url: /files/original/14fb2a55c4100114fb2a55c413c6.jpg
+    alt:
+      en: "A disheveled bedroom with a floral-patterned mattress leaning against a stained wall, a small wooden chest, and a bare bed with a soiled sheet, viewed through an open doorway."
 geo:
 id: 4746
 item_type: Still Image

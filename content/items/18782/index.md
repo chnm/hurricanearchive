@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2211bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a1541a9df14fb2a1541adc4.jpg
     url: /files/original/14fb2a1541a9df14fb2a1541adc4.jpg
+    alt:
+      en: "A line of military personnel in camouflage uniforms stands at attention on a paved lot beneath open-sided metal canopy structures, with vehicles and buildings visible in the background."
 geo:
 id: 18782
 item_type: Still Image

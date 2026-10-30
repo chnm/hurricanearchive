@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28320.jpg
     thumb: /files/thumbnails/14fb2a690e9faa14fb2a690ea390.jpg
     url: /files/original/14fb2a690e9faa14fb2a690ea390.jpg
+    alt:
+      en: "Heavily damaged buildings with exposed framing and debris scattered across the ground, surrounded by large oak trees; a bare patch of dirt and scattered trash fill the foreground."
 geo:
   address: ''
   lat: 0.0

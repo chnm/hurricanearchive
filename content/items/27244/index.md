@@ -20,6 +20,8 @@ files:
     original_filename: 9th Ward 4.JPG
     thumb: /files/thumbnails/14fb29d5ab6afc14fb29d5ab72dc.jpg
     url: /files/original/14fb29d5ab6afc14fb29d5ab72dc.jpg
+    alt:
+      en: "Storm-damaged houses collapsed into debris along a wet street, with bare and stripped trees under heavy gray clouds in the aftermath of the hurricane."
 geo:
 id: 27244
 item_type: Still Image

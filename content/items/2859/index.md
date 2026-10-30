@@ -21,6 +21,8 @@ files:
     original_filename: MVC-016S.JPG
     thumb: /files/thumbnails/14fb2a5fd16ef114fb2a5fd172d5.jpg
     url: /files/original/14fb2a5fd16ef114fb2a5fd172d5.jpg
+    alt:
+      en: "A vintage printing press or industrial machine with dusty metal housing and visible gears, situated in a room with an old folding camera and other antique equipment nearby."
 geo:
 id: 2859
 item_type: Still Image

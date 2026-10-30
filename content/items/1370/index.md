@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28204.jpg
     thumb: /files/thumbnails/14fb2a6937cb0714fb2a6937cedb.jpg
     url: /files/original/14fb2a6937cb0714fb2a6937cedb.jpg
+    alt:
+      en: "Debris from a destroyed structure lies on a bare concrete slab, including a long wooden beam and thin strips of wood forming an L-shaped outline, with a teal-painted surface visible in the background."
 geo:
   address: ''
   lat: 0.0

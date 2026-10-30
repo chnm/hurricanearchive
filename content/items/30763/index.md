@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7593.JPG
     thumb: /files/thumbnails/14fb29cc91a44314fb29cc91a829.jpg
     url: /files/original/14fb29cc91a44314fb29cc91a829.jpg
+    alt:
+      en: "View from a vehicle on an overpass showing a billboard reading \"EVERYBODY Loves A GOOD EGG,\" with tarped rooftops below and a building sign for \"ArtEgg Studios\" visible in the background."
 geo:
 id: 30763
 item_type: Still Image

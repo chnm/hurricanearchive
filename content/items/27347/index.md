@@ -23,6 +23,8 @@ files:
     original_filename: 221566129_e32e504339.jpg
     thumb: /files/thumbnails/14fb29d43047a014fb29d4304b84.jpg
     url: /files/original/14fb29d43047a014fb29d4304b84.jpg
+    alt:
+      en: "Blue painter's tape forms an X pattern across a window screen, with bright sunlight glaring through the mesh and greenery visible beyond."
 geo:
   address: ''
   lat: 30.13837

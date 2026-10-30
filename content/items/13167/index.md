@@ -21,6 +21,8 @@ files:
     original_filename: 159 collapsed building.jpg
     thumb: /files/thumbnails/14fb2a1fae11d214fb2a1fae15ba.jpg
     url: /files/original/14fb2a1fae11d214fb2a1fae15ba.jpg
+    alt:
+      en: "Partially collapsed brick building with roof and timbers caved inward, surrounded by rubble and standing floodwater, flanked by an intact yellow building and a utility pole."
 geo:
 id: 13167
 item_type: Still Image

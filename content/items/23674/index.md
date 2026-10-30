@@ -21,6 +21,8 @@ files:
     original_filename: P1010115empireS&R.JPG
     thumb: /files/thumbnails/14fb29edf0ebe614fb29edf0efc9.jpg
     url: /files/original/14fb29edf0ebe614fb29edf0efc9.jpg
+    alt:
+      en: "Debris-strewn field with a collapsed metal-roofed structure in the foreground, leading to floodwaters surrounding trees, a utility pole, and damaged buildings in the background."
 geo:
 id: 23674
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: scan0001_4c3305957e.jpg
     thumb: /files/thumbnails/14fb2a6f15f2f114fb2a6f15f6d5.jpg
     url: /files/original/14fb2a6f15f2f114fb2a6f15f6d5.jpg
+    alt:
+      en: "Front porch of a storm-damaged house numbered 2214, with blue shutters and boarded door, covered in spray-painted search-and-rescue markings including an X, dates \"9-15\" and \"9/14,\" and \"1 dead in attic\" text."
 geo:
   address: ''
   lat: 29.979620759272297

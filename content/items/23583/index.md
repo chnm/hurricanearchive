@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0335stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eea1a57e14fb29eea1a963.jpg
     url: /files/original/14fb29eea1a57e14fb29eea1a963.jpg
+    alt:
+      en: "Devastated residential street with brick homes, a bent stop sign, fallen tree debris, a stranded van, and scattered rubble under a dim sky, a fire hydrant in the foreground."
 geo:
 id: 23583
 item_type: Still Image

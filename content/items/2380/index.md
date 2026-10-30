@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_RITA_05C47_8feb2971be.jpg
     thumb: /files/thumbnails/14fb2a66ccd00b14fb2a66ccd3bf.jpg
     url: /files/original/14fb2a66ccd00b14fb2a66ccd3bf.jpg
+    alt:
+      en: "A forklift loaded with netted duffel bags and luggage is positioned at the cargo door of a C-130 aircraft, with two Coast Guard personnel in uniform guiding the load aboard."
 geo:
 id: 2380
 item_type: Still Image

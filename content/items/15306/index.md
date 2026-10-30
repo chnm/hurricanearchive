@@ -25,12 +25,16 @@ files:
     original_filename: PPeabody-1_00bf34a988.jpg
     thumb: /files/thumbnails/14fb2a16a1e80014fb2a16a1ebda.jpg
     url: /files/original/14fb2a16a1e80014fb2a16a1ebda.jpg
+    alt:
+      en: "A bride in a lace wedding gown and veil holds a white bouquet, standing on a lawn near a tree, with a columned plantation-style house visible in the background."
   - fullsize: /files/fullsize/14fb2a16a0d2b914fb2a16a0d697.jpg
     id: 12376
     mime: image/jpeg
     original_filename: PPeabody-2_5173f1e7b1.jpg
     thumb: /files/thumbnails/14fb2a16a0d2b914fb2a16a0d697.jpg
     url: /files/original/14fb2a16a0d2b914fb2a16a0d697.jpg
+    alt:
+      en: "A smiling bride with a tulle and pearl headpiece is surrounded by large pink ribboned floral arrangements, holding a white and pink bridal bouquet."
 geo:
 id: 15306
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: Chalmette_e53869f859.jpg
     thumb: /files/thumbnails/14fb2a6f2c812314fb2a6f2c8508.jpg
     url: /files/original/14fb2a6f2c812314fb2a6f2c8508.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with only rooftops and treetops visible above brown floodwater, labeled \"West Chalmette Circle\" and \"Civic Center\" in the distance."
 geo:
   address: ''
   lat: 29.944299744734103

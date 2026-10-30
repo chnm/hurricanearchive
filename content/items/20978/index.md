@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0160-9-25.JPG
     thumb: /files/thumbnails/14fb2a0133b6ab14fb2a0133ba90.jpg
     url: /files/original/14fb2a0133b6ab14fb2a0133ba90.jpg
+    alt:
+      en: "Aerial view of extensive flooding submerging a rural property, with a white fence outlining a yard, a truck partially underwater, downed trees, utility poles, and a nearby road emerging from the water."
 geo:
 id: 20978
 item_type: Still Image

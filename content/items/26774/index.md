@@ -24,6 +24,8 @@ files:
     original_filename: WC Carolina's 1850s family_6f720400a0.jpg
     thumb: /files/thumbnails/14fb29d7dbd80d14fb29d7dbdbf2.jpg
     url: /files/original/14fb29d7dbd80d14fb29d7dbdbf2.jpg
+    alt:
+      en: "Sepia-toned 19th-century photograph of seven men in suits posed on a rocky mountainside, some standing on boulders above while three stand together in front, mounted on a worn, stained album page."
 geo:
   address: ''
   lat: 29.95493

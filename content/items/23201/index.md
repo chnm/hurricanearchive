@@ -21,6 +21,8 @@ files:
     original_filename: P1010021delaware.JPG
     thumb: /files/thumbnails/14fb29f0d304dc14fb29f0d307f5.jpg
     url: /files/original/14fb29f0d304dc14fb29f0d307f5.jpg
+    alt:
+      en: "Interior of a military cargo aircraft showing a parked Humvee, a wall-mounted fire extinguisher labeled \"INSTRUCTIONS,\" folded gear bags, and a narrow walkway lined with equipment hooks."
 geo:
 id: 23201
 item_type: Still Image

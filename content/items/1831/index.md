@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2202_32b4feb661.JPG
     thumb: /files/thumbnails/14fb2a6eb9d92114fb2a6eb9dd07.jpg
     url: /files/original/14fb2a6eb9d92114fb2a6eb9dd07.jpg
+    alt:
+      en: "A flooded residential street lined with trees, with a flat-bottomed boat partially beached in the foreground and a fire hydrant emerging from the standing floodwater."
 geo:
   address: ''
   lat: 29.9795835858572

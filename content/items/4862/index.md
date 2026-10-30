@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0181.JPG
     thumb: /files/thumbnails/14fb2a5520d2ab14fb2a5520d689.jpg
     url: /files/original/14fb2a5520d2ab14fb2a5520d689.jpg
+    alt:
+      en: "Wooded lot with downed trees and a collapsed green metal structure, surrounded by scattered debris and bare dirt ground, likely storm damage."
 geo:
 id: 4862
 item_type: Still Image

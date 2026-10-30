@@ -24,6 +24,8 @@ files:
     original_filename: P1010126.JPG
     thumb: /files/thumbnails/14fb2a5adf32ce14fb2a5adf36b5.jpg
     url: /files/original/14fb2a5adf32ce14fb2a5adf36b5.jpg
+    alt:
+      en: "Debris-covered interior of a gutted bakery with damaged display cases, a folding table, and a tropical mural on the wall, with palm trees visible through the storefront windows."
 geo:
 id: 3550
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 111-1168 IMGcameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e590f32d14fb29e590f712.jpg
     url: /files/original/14fb29e590f32d14fb29e590f712.jpg
+    alt:
+      en: "A military officer in desert camouflage shakes hands with a man in a dark jacket amid a group of uniformed personnel and civilians, with storm-damaged buildings and bare trees in the background."
 geo:
 id: 24685
 item_type: Still Image

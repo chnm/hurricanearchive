@@ -21,6 +21,8 @@ files:
     original_filename: georgedriving 2.jpg
     thumb: /files/thumbnails/14fb2a1e9ecd0f14fb2a1e9ed392.jpg
     url: /files/original/14fb2a1e9ecd0f14fb2a1e9ed392.jpg
+    alt:
+      en: "Man wearing a dark baseball cap and gray t-shirt sits in a car's passenger seat, with a blurred forest of tall trees visible through the window."
 geo:
 id: 13250
 item_type: Still Image

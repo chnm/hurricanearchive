@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7435.JPG
     thumb: /files/thumbnails/14fb29cca4858c14fb29cca48b47.jpg
     url: /files/original/14fb29cca4858c14fb29cca48b47.jpg
+    alt:
+      en: "Bare and leafy trees stand amid storm debris, with downed branches scattered across a grassy clearing and dense greenery in the background under a clear blue sky."
 geo:
 id: 30734
 item_type: Still Image

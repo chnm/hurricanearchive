@@ -20,6 +20,8 @@ files:
     original_filename: 2457566230_664d1bca8f.
     thumb: /files/thumbnails/14fb29c8d98fe214fb29c8d99859.jpg
     url: /files/original/14fb29c8d98fe214fb29c8d99859.jpg
+    alt:
+      en: "Large crane marked \"Big Su Marine Co.\" with a lattice boom, cables, and a clamshell bucket, set against a clear blue sky above trees."
 geo:
 id: 34870
 item_type: Still Image

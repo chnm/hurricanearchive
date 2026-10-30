@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8689.jpg
     thumb: /files/thumbnails/14fb2a65c7011514fb2a65c705b6.jpg
     url: /files/original/14fb2a65c7011514fb2a65c705b6.jpg
+    alt:
+      en: "A grimy action figure lies face-down in debris-strewn dirt, with a field of brick rubble, a toppled toilet, and other household wreckage scattered in the background."
 geo:
 id: 2518
 item_type: Still Image

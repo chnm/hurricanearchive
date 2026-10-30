@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0122.JPG
     thumb: /files/thumbnails/14fb2a5559ac9c14fb2a5559b082.jpg
     url: /files/original/14fb2a5559ac9c14fb2a5559b082.jpg
+    alt:
+      en: "Debris field with scattered broken concrete slabs and uprooted, dead trees covering a grassy lot, surrounded by a damaged pine forest with many broken and leaning trunks."
 geo:
 id: 4809
 item_type: Still Image

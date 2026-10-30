@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0059.JPG
     thumb: /files/thumbnails/14fb2a56010aaf14fb2a56010e8c.jpg
     url: /files/original/14fb2a56010aaf14fb2a56010e8c.jpg
+    alt:
+      en: "Debris field with scattered bricks, broken wood planks, and rubble along a concrete curb, with a person's legs visible in the upper left corner."
 geo:
 id: 4712
 item_type: Still Image

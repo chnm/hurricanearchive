@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1741superdome.JPG
     thumb: /files/thumbnails/14fb29e1f73a0d14fb29e1f73e9d.jpg
     url: /files/original/14fb29e1f73a0d14fb29e1f73e9d.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms and a civilian carry a patient on a stretcher with medical equipment and an IV bag across a wet parking lot, with a white van and bystanders in the background."
 geo:
 id: 25134
 item_type: Still Image

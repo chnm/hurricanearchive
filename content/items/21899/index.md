@@ -21,6 +21,8 @@ files:
     original_filename: Sidney Collier.jpg
     thumb: /files/thumbnails/14fb29fb14360a14fb29fb1439ef.jpg
     url: /files/original/14fb29fb14360a14fb29fb1439ef.jpg
+    alt:
+      en: "Aerial view of a flooded industrial area with warehouses, rows of school buses partially submerged, and surrounding neighborhoods underwater, with an elevated highway bridge in the background."
 geo:
 id: 21899
 item_type: Still Image

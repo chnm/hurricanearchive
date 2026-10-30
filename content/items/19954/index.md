@@ -21,6 +21,8 @@ files:
     original_filename: Picture 051cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bfbdd9314fb2a0bfbe18b.jpg
     url: /files/original/14fb2a0bfbdd9314fb2a0bfbe18b.jpg
+    alt:
+      en: "Soldiers in camouflage fatigues gather near a canvas-covered military truck on a tree-lined street, with damaged trees and houses visible in the background, suggesting storm cleanup efforts."
 geo:
 id: 19954
 item_type: Still Image

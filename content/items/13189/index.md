@@ -21,6 +21,8 @@ files:
     original_filename: 182 roof peel and flooding.jpg
     thumb: /files/thumbnails/14fb2a1f7c474214fb2a1f7c4b29.jpg
     url: /files/original/14fb2a1f7c474214fb2a1f7c4b29.jpg
+    alt:
+      en: "A white wooden house surrounded by floodwaters, with its metal roof peeled back and twisted, bare and leafy trees nearby, and overcast sky in the background."
 geo:
 id: 13189
 item_type: Still Image

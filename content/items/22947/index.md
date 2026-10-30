@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0128cowanmedia.JPG
     thumb: /files/thumbnails/14fb29f286b18714fb29f286b56c.jpg
     url: /files/original/14fb29f286b18714fb29f286b56c.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand and walk near a parked Humvee on a paved street, with additional soldiers visible in the background near a brick wall and trees."
 geo:
 id: 22947
 item_type: Still Image

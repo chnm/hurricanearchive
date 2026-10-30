@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0495efc514fb2a04979874.jpg
     url: /files/original/14fb2a0495efc514fb2a04979874.jpg
+    alt:
+      en: "Aerial view of a severely flooded coastal landscape with a submerged road, scattered leafless trees, downed utility poles, and debris surrounded by standing floodwater."
 geo:
 id: 20720
 item_type: Still Image

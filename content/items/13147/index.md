@@ -21,6 +21,8 @@ files:
     original_filename: wrecked office.jpg
     thumb: /files/thumbnails/14fb2a1ffd714c14fb2a1ffd7919.jpg
     url: /files/original/14fb2a1ffd714c14fb2a1ffd7919.jpg
+    alt:
+      en: "Blurry photo taken through a window with a brick facade above, showing a dim interior with white boxy shapes, possibly furniture or equipment, amid dark, shadowed office space."
 geo:
 id: 13147
 item_type: Still Image

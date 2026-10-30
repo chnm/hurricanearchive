@@ -27,6 +27,8 @@ files:
     original_filename: 2380908388_1ecdafbbe0.
     thumb: /files/thumbnails/14fb29ca47729714fb29ca47767b.jpg
     url: /files/original/14fb29ca47729714fb29ca47767b.jpg
+    alt:
+      en: "Close-up of a damaged interior door frame with white molding, showing discolored, water-stained, and deteriorated wood along the jamb from storm moisture exposure."
 geo:
   address: ''
   lat: 30.22894

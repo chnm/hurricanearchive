@@ -26,6 +26,8 @@ files:
     original_filename: BSLbeachhouse_eb755b6adf.jpg
     thumb: /files/thumbnails/14fb2a705ca73e14fb2a705caad8.jpg
     url: /files/original/14fb2a705ca73e14fb2a705caad8.jpg
+    alt:
+      en: "A two-story beach house with its exterior walls torn away, exposing furnished rooms, sits above a pile of rubble and broken pavement slabs scattered across a sandy lot."
 geo:
   address: ''
   lat: 30.3124311541037

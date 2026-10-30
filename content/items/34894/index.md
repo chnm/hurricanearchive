@@ -20,6 +20,8 @@ files:
     original_filename: 2457557578_17752294c8.
     thumb: /files/thumbnails/14fb29c8a3ab7414fb29c8a3af5a.jpg
     url: /files/original/14fb29c8a3ab7414fb29c8a3af5a.jpg
+    alt:
+      en: "Yellow Troxler case embossed with the brand name, fitted with metal latches and a radioactive materials warning label reading \"RADIOACTIVE II, 7,\" plus a worn, partially torn \"DANGER\" sticker."
 geo:
 id: 34894
 item_type: Still Image

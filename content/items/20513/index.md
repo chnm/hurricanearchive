@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026-9-25.JPG
     thumb: /files/thumbnails/14fb2a069395cc14fb2a0693999a.jpg
     url: /files/original/14fb2a069395cc14fb2a0693999a.jpg
+    alt:
+      en: "Aerial view (rotated) of storm-damaged homes scattered with debris amid bare trees, with a paved road carrying two cars running alongside floodwater and greenery."
 geo:
 id: 20513
 item_type: Still Image

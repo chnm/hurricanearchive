@@ -21,6 +21,8 @@ files:
     original_filename: self-medication.JPG
     thumb: /files/thumbnails/14fb2a1a71da6814fb2a1a71de44.jpg
     url: /files/original/14fb2a1a71da6814fb2a1a71de44.jpg
+    alt:
+      en: "A man in a brown t-shirt injects himself in the arm with a syringe, a small bead of blood visible at the injection site, in an indoor setting with tiled walls."
 geo:
   address: ''
   lat: 0.0

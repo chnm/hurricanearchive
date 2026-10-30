@@ -27,6 +27,8 @@ files:
     original_filename: 2291227423_f56b4d9290.
     thumb: /files/thumbnails/14fb29c995c2f714fb29c995c6e6.jpg
     url: /files/original/14fb29c995c2f714fb29c995c6e6.jpg
+    alt:
+      en: "Storm-damaged blue house with a torn-open roof and missing wall exposes interior rooms; a blue laundry basket, file cabinets, and debris sit amid scattered wood wreckage on the ground."
 geo:
   address: ''
   lat: 30.22539

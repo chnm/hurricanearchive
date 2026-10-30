@@ -21,6 +21,8 @@ files:
     original_filename: Picture 270-J2.jpg
     thumb: /files/thumbnails/14fb29faeaeaf814fb29faeaeede.jpg
     url: /files/original/14fb29faeaeaf814fb29faeaeede.jpg
+    alt:
+      en: "Water gushes from a large pipe over a guardrail onto a flooded road, with a person standing near industrial piping and a refinery complex in the background."
 geo:
 id: 21939
 item_type: Still Image

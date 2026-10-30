@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1788superdome.JPG
     thumb: /files/thumbnails/14fb29e16dac8314fb29e16db069.jpg
     url: /files/original/14fb29e16dac8314fb29e16db069.jpg
+    alt:
+      en: "A group of officials and a Louisiana State Police officer descend outdoor steps amid a crowd behind barricades, with uniformed police and military personnel visible in the background."
 geo:
 id: 25176
 item_type: Still Image

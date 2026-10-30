@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1042Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8ca54f914fb29f8ca5b83.jpg
     url: /files/original/14fb29f8ca54f914fb29f8ca5b83.jpg
+    alt:
+      en: "Two military helicopters in flight over a grassy field with a running track, trees, parked vehicles, and buildings visible below under an overcast sky."
 geo:
 id: 22235
 item_type: Still Image

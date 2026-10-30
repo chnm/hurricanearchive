@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0129-2-9-15.JPG
     thumb: /files/thumbnails/14fb29e6133a8214fb29e6133e50.jpg
     url: /files/original/14fb29e6133a8214fb29e6133e50.jpg
+    alt:
+      en: "Aerial dusk view of a flood-damaged neighborhood with collapsed roofs, scattered debris, and standing water covering streets between heavily damaged houses."
 geo:
 id: 24622
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 064engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa24bfd14fb2a0fa24fd1.jpg
     url: /files/original/14fb2a0fa24bfd14fb2a0fa24fd1.jpg
+    alt:
+      en: "Aerial view of a flooded campus with multiple white buildings surrounded by standing floodwater and bare trees, with a straight canal running along the bottom edge; overlay text reads \"WHIRS Miss#:LA-037-05A - 06Sep05 - DILLARD SURVEY N 29 59 67 W 90 03 94 DTM: 06 Sep 2005 06:19:22.\""
 geo:
 id: 19504
 item_type: Still Image

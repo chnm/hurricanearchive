@@ -21,6 +21,8 @@ files:
     original_filename: Picture 335-J2.jpg
     thumb: /files/thumbnails/14fb29fa30e77414fb29fa30eacc.jpg
     url: /files/original/14fb29fa30e77414fb29fa30eacc.jpg
+    alt:
+      en: "Damaged two-story building with a seafood restaurant sign reading \"SEAFOOD PLATES SHRIMP FISH OYSTERS,\" debris scattered along the street, with a \"St. Claude\" street sign in the foreground."
 geo:
 id: 22004
 item_type: Still Image

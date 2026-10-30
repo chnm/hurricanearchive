@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1756superdome.JPG
     thumb: /files/thumbnails/14fb29e1e40ac414fb29e1e40fcd.jpg
     url: /files/original/14fb29e1e40ac414fb29e1e40fcd.jpg
+    alt:
+      en: "Military pilot in camouflage uniform and helmet with microphone sits in a helicopter cockpit, hand on the control stick, surrounded by instrument panels; \"NO HAS...\" text visible on a seat panel."
 geo:
 id: 25146
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0166neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef158a4a14fb29ef158e30.jpg
     url: /files/original/14fb29ef158a4a14fb29ef158e30.jpg
+    alt:
+      en: "Debris-strewn residential street lined with trees and power lines, a parked van and SUV, and discarded furniture piled along the curb; a \"Speed Limit 25\" sign stands in the foreground."
 geo:
 id: 23534
 item_type: Still Image

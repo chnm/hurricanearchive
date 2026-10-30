@@ -24,6 +24,8 @@ files:
     original_filename: AB old car_63ca325e3c.jpg
     thumb: /files/thumbnails/14fb29d94d12fc14fb29d94d207d.jpg
     url: /files/original/14fb29d94d12fc14fb29d94d207d.jpg
+    alt:
+      en: "Black-and-white photo of a man standing beside a vintage car on a dirt road, with trees and open fields in the background."
 geo:
   address: ''
   lat: 29.87876

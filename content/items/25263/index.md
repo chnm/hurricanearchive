@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1990superdome.JPG
     thumb: /files/thumbnails/14fb29dfd7a82914fb29dfd7f05e.jpg
     url: /files/original/14fb29dfd7a82914fb29dfd7f05e.jpg
+    alt:
+      en: "A man in military camouflage uniform sits behind the wheel of a white truck with green and tan stripes, viewed through the open driver's side window with a side mirror visible."
 geo:
 id: 25263
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 306-J2.jpg
     thumb: /files/thumbnails/14fb29fac6ab3714fb29fac6af13.jpg
     url: /files/original/14fb29fac6ab3714fb29fac6af13.jpg
+    alt:
+      en: "Elevated highway with green directional signs for Baton Rouge and other routes, a pickup truck on the road, parking garage and dome-shaped stadium with a tall antenna in the background under a clear blue sky."
 geo:
 id: 21975
 item_type: Still Image

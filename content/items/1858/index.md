@@ -26,6 +26,8 @@ files:
     original_filename: side_of_house_showing_water_line_7b2070ff16.jpg
     thumb: /files/thumbnails/14fb2a6ea1dbc114fb2a6ea1dfb4.jpg
     url: /files/original/14fb2a6ea1dbc114fb2a6ea1dfb4.jpg
+    alt:
+      en: "Side view of a white vinyl-sided house raised on piers, with a visible discolored waterline band running along the siding, windows with security bars, bare trees, and debris scattered in the yard."
 geo:
   address: ''
   lat: 30.009063

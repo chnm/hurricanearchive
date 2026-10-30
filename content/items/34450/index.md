@@ -23,6 +23,8 @@ files:
     original_filename: 2326074997_1d2a03b7c8.
     thumb: /files/thumbnails/14fb29c9f9ad6914fb29c9f9b14f.jpg
     url: /files/original/14fb29c9f9ad6914fb29c9f9b14f.jpg
+    alt:
+      en: "A storm-damaged house stands on pilings above a massive pile of debris, including splintered wood, tangled wires, and scattered household materials, under a partly cloudy sky."
 geo:
   address: ''
   lat: 30.22586

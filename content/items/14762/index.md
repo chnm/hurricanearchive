@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_12_07273dd5c8.jpg
     thumb: /files/thumbnails/14fb2a17dc713114fb2a17dc74d1.jpg
     url: /files/original/14fb2a17dc713114fb2a17dc74d1.jpg
+    alt:
+      en: "Three people pose indoors for a photo: a young woman in a floral dress, an older woman in a red dress and decorative hat, and a young girl in a yellow dress being held up between them."
 geo:
 id: 14762
 item_type: Still Image

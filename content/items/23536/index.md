@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0167neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef1484bc14fb29ef14888c.jpg
     url: /files/original/14fb29ef1484bc14fb29ef14888c.jpg
+    alt:
+      en: "A tree-lined road with a canopy of overhanging branches, a van with illuminated brake lights driving ahead, and debris scattered along the roadside shoulders."
 geo:
 id: 23536
 item_type: Still Image

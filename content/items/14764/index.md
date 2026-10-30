@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_13_8137c6eb9c.jpg
     thumb: /files/thumbnails/14fb2a17db05bf14fb2a17db094e.jpg
     url: /files/original/14fb2a17db05bf14fb2a17db094e.jpg
+    alt:
+      en: "A young girl in a plaid jumper and white blouse sits smiling in a classroom, beside a bookshelf of children's books and a table with stuffed animals."
 geo:
 id: 14764
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0510.JPG
     thumb: /files/thumbnails/14fb2a53bed55314fb2a53bed935.jpg
     url: /files/original/14fb2a53bed55314fb2a53bed935.jpg
+    alt:
+      en: "A two-story light green house with an RV, boat, and vehicles parked in the yard, surrounded by bare and damaged trees under a clear blue sky, debris scattered on the ground."
 geo:
 id: 5148
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5726_f0885be99a.jpg
     thumb: /files/thumbnails/14fb29da6862a314fb29da686686.jpg
     url: /files/original/14fb29da6862a314fb29da686686.jpg
+    alt:
+      en: "Close-up of a heavily weathered and water-damaged photograph, its surface mottled with patches of brown, gold, and white discoloration obscuring the original image."
 geo:
 id: 26123
 item_type: Still Image

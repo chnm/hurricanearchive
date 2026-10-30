@@ -21,6 +21,8 @@ files:
     original_filename: Behind the Superdome 4superdome.jpg
     thumb: /files/thumbnails/14fb29e5417fa914fb29e5418173.jpg
     url: /files/original/14fb29e5417fa914fb29e5418173.jpg
+    alt:
+      en: "Flooded city street with submerged cars and a pickup truck carrying people, surrounded by partially submerged trees, bollards, and an elevated highway overpass, with a high-rise building in the background."
 geo:
 id: 24743
 item_type: Still Image

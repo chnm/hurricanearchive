@@ -21,6 +21,8 @@ files:
     original_filename: Picture 021cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c650cab14fb2a0c651281.jpg
     url: /files/original/14fb2a0c650cab14fb2a0c651281.jpg
+    alt:
+      en: "Blurred view from inside a moving vehicle, with a dark seat silhouette and door handle in the foreground and a highway with a white lane line passing by outside."
 geo:
 id: 19925
 item_type: Still Image

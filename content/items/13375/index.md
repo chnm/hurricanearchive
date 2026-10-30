@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4854_9e74d32245.jpg
     thumb: /files/thumbnails/14fb2a1e269c4314fb2a1e26a029.jpg
     url: /files/original/14fb2a1e269c4314fb2a1e26a029.jpg
+    alt:
+      en: "A photo album page with baby and toddler portraits, a woman in a purple dress, a handwritten note reading \"To: Sharon a sick person From: Delloyd,\" and a card labeled \"Tyrone Burke 5/95 McDonogh #35.\""
 geo:
 id: 13375
 item_type: Still Image

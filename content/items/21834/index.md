@@ -21,6 +21,8 @@ files:
     original_filename: Avondale Railyard.jpg
     thumb: /files/thumbnails/14fb29fb69f1e114fb29fb69f5c8.jpg
     url: /files/original/14fb29fb69f1e114fb29fb69f5c8.jpg
+    alt:
+      en: "Aerial view of the Avondale Railyard and surrounding highway interchange, with a river, industrial cranes, and patchy, storm-damaged vegetation visible; dated 09/05/2005."
 geo:
 id: 21834
 item_type: Still Image

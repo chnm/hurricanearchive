@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 049.jpg
     thumb: /files/thumbnails/14fb2a22b3498e14fb2a22b34d6e.jpg
     url: /files/original/14fb2a22b3498e14fb2a22b34d6e.jpg
+    alt:
+      en: "Empty street beside a tan institutional building with storm debris scattered on the grass median, a damaged tree overhead, and military vehicles parked in the distance; date stamp reads 2005/09/24."
 geo:
 id: 11927
 item_type: Still Image

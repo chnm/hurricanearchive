@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28081.jpg
     thumb: /files/thumbnails/14fb2a6cb1ab3014fb2a6cb1af2c.jpg
     url: /files/original/14fb2a6cb1ab3014fb2a6cb1af2c.jpg
+    alt:
+      en: "A mailbox repurposed as an \"EXIT\" sign with an arrow sits atop a post amid dry shrubs, beneath a large fallen tree branch, with a high-rise building visible in the background."
 geo:
   address: ''
   lat: 0.0

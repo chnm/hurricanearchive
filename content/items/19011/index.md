@@ -21,6 +21,8 @@ files:
     original_filename: Picture 031satellite.jpg
     thumb: /files/thumbnails/14fb2a13c0a4ca14fb2a13c0a8af.jpg
     url: /files/original/14fb2a13c0a4ca14fb2a13c0a8af.jpg
+    alt:
+      en: "Side-by-side satellite images of a New Orleans neighborhood and park labeled \"August 28, 2002\" and \"September 2, 2005,\" showing dense residential streets before the storm and widespread flooding submerging homes and streets after Hurricane Katrina."
 geo:
 id: 19011
 item_type: Still Image

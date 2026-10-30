@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0141-21.JPG
     thumb: /files/thumbnails/14fb2a022381bf14fb2a022385a5.jpg
     url: /files/original/14fb2a022381bf14fb2a022385a5.jpg
+    alt:
+      en: "Close-up of a textured asphalt surface with a metal expansion joint and concrete curb along the bottom edge, with scattered debris and small stains visible."
 geo:
 id: 20891
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0129abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef406f3b14fb29ef407321.jpg
     url: /files/original/14fb29ef406f3b14fb29ef407321.jpg
+    alt:
+      en: "A white single-story house with storm-damaged siding stands surrounded by floodwater, with a basketball hoop and fallen trees visible nearby, set against bare autumn trees."
 geo:
 id: 23484
 item_type: Still Image

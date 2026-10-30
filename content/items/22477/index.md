@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1318Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f631bc6714fb29f631c04d.jpg
     url: /files/original/14fb29f631bc6714fb29f631c04d.jpg
+    alt:
+      en: "Floodwaters surround a brick building with trees bent by wind, viewed through a rain-streaked window with power lines crossing the scene."
 geo:
 id: 22477
 item_type: Still Image

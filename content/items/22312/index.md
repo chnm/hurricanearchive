@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1123Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7a82a9b14fb29f7a82e81.jpg
     url: /files/original/14fb29f7a82a9b14fb29f7a82e81.jpg
+    alt:
+      en: "Dark, blurred nighttime scene of people wearing red life vests in water near a boat, with a bright light illuminating the foreground and yellow rope visible nearby."
 geo:
 id: 22312
 item_type: Still Image

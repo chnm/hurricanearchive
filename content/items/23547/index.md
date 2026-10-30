@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0173abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef0aa79114fb29ef0aab77.jpg
     url: /files/original/14fb29ef0aa79114fb29ef0aab77.jpg
+    alt:
+      en: "Flood-damaged house with exposed wall framing and missing siding sits partially surrounded by water near trees, with debris, a bicycle, and scattered materials in the yard under a darkening sky."
 geo:
 id: 23547
 item_type: Still Image

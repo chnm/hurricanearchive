@@ -21,6 +21,8 @@ files:
     original_filename: DSC 007117thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f39319b714fb29f3931d9b.jpg
     url: /files/original/14fb29f39319b714fb29f3931d9b.jpg
+    alt:
+      en: "Aerial view of a damaged bridge spanning a canal with muddy brown water flowing into a larger body of water, surrounded by green grass, scattered trees, and nearby houses."
 geo:
 id: 22803
 item_type: Still Image

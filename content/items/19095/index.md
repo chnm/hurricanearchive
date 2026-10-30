@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 005.jpg
     thumb: /files/thumbnails/14fb2a132454ec14fb2a13245c58.jpg
     url: /files/original/14fb2a132454ec14fb2a13245c58.jpg
+    alt:
+      en: "Large neoclassical institutional building with a columned portico entrance, flanked by two-story window bays; a pickup truck is parked near the front steps in an empty lot."
 geo:
 id: 19095
 item_type: Still Image

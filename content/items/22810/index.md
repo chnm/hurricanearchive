@@ -21,6 +21,8 @@ files:
     original_filename: DSC 028317thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f369eaa814fb29f369ee8d.jpg
     url: /files/original/14fb29f369eaa814fb29f369ee8d.jpg
+    alt:
+      en: "Aerial view of a muddy brown canal flowing through a grassy, tree-lined area into a large body of water, with a bridge crossing the canal near the shoreline."
 geo:
 id: 22810
 item_type: Still Image

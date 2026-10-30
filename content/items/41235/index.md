@@ -18,6 +18,8 @@ files:
     original_filename: post card 1 9_a3315cc57e.23.09.jpg
     thumb: /files/thumbnails/14fb29c437d06914fb29c437de4b.jpg
     url: /files/original/14fb29c437d06914fb29c437de4b.jpg
+    alt:
+      en: "Handwritten index card describing evacuation with family, pets, and grandmother's home stay for nearly four weeks before returning to New Orleans after Hurricane Katrina."
 geo:
   address: ''
   lat: 0.0

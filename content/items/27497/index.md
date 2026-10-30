@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6519_895b3e99ed.jpg
     thumb: /files/thumbnails/14fb29d3b3476914fb29d3b34d50.jpg
     url: /files/original/14fb29d3b3476914fb29d3b34d50.jpg
+    alt:
+      en: "Large crowd wearing festive hats and colorful clothing fills a city street lined with tall buildings, waiting for a Mardi Gras parade in New Orleans."
 geo:
   address: ''
   lat: 29.87876

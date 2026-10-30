@@ -24,6 +24,8 @@ files:
     original_filename: Cheney Visit
     thumb: /files/thumbnails/14fb2a58d40d3314fb2a58d41228.jpg
     url: /files/original/14fb2a58d40d3314fb2a58d41228.jpg
+    alt:
+      en: "Coast Guard personnel in uniform gather on a dock near large green storage containers marked \"USCG 19883,\" with two men shaking hands in the foreground while others look on."
 geo:
 id: 3937
 item_type: Still Image

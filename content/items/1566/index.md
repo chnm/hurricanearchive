@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28047.jpg
     thumb: /files/thumbnails/14fb2a67f3a98414fb2a67f3ad6a.jpg
     url: /files/original/14fb2a67f3a98414fb2a67f3ad6a.jpg
+    alt:
+      en: "A leaning, storm-damaged utility pole with tangled wires stands in front of a stucco house, with a stripped palm trunk and debris scattered across the sandy, cracked ground."
 geo:
   address: ''
   lat: 0.0

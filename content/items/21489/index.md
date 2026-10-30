@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0275-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe36e86914fb29fe36ec47.jpg
     url: /files/original/14fb29fe36e86914fb29fe36ec47.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses surrounded by floodwater, trees partially submerged, and a road with vehicles driving through standing water."
 geo:
 id: 21489
 item_type: Still Image

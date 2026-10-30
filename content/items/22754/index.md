@@ -21,6 +21,8 @@ files:
     original_filename: S4300110Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f434401a14fb29f43443f6.jpg
     url: /files/original/14fb29f434401a14fb29f43443f6.jpg
+    alt:
+      en: "Tan SUV with dusty, dirt-streaked exterior parked in a lot near a \"Visitor Parking 1 HR\" sign, with a brick building and hedges in the background."
 geo:
 id: 22754
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300084bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a139ad0f814fb2a139ad4de.jpg
     url: /files/original/14fb2a139ad0f814fb2a139ad4de.jpg
+    alt:
+      en: "Four military personnel in camouflage uniforms sit and stand around a table eating fast food inside a hangar, with cots, supplies, and an aircraft wing visible overhead."
 geo:
 id: 19023
 item_type: Still Image

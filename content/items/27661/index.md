@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6484_061c10ddb7.jpg
     thumb: /files/thumbnails/14fb29d3419c5f14fb29d341a044.jpg
     url: /files/original/14fb29d3419c5f14fb29d341a044.jpg
+    alt:
+      en: "A red-haired boy laughs excitedly while riding a red kiddie rollercoaster car, with other children seated behind him and a wooden fence and trees in the background."
 geo:
   address: ''
   lat: 29.91685

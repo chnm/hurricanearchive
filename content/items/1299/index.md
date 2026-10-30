@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28344.jpg
     thumb: /files/thumbnails/14fb2a69c9cc9114fb2a69c9d078.jpg
     url: /files/original/14fb2a69c9cc9114fb2a69c9d078.jpg
+    alt:
+      en: "Storm-damaged multistory building with collapsed balconies and exposed framing stands behind a bare tree, with debris, a dark tarp, and a partial sign reading \"OLDEST BEER\" visible among the wreckage."
 geo:
   address: ''
   lat: 0.0

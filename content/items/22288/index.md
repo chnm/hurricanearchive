@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1099Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7f347fd14fb29f7f34be2.jpg
     url: /files/original/14fb29f7f347fd14fb29f7f34be2.jpg
+    alt:
+      en: "Severe flooding engulfs a residential street, with murky water covering vehicles and debris in the foreground while houses and trees are barely visible through heavy rain and fog in the background."
 geo:
 id: 22288
 item_type: Still Image

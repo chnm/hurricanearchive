@@ -18,6 +18,8 @@ files:
     original_filename: 26_0a4af44ca7.jpg
     thumb: /files/thumbnails/14fb29c6fea41514fb29c6feab2e.jpg
     url: /files/original/14fb29c6fea41514fb29c6feab2e.jpg
+    alt:
+      en: "Three women in red and white sequined costumes with platform boots pose beside a man in a white jacket and cap, standing outdoors at night with a bright light glaring from above."
 geo:
   address: new orleans, la
   lat: 29.95324

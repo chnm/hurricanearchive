@@ -21,6 +21,8 @@ files:
     original_filename: S4300064.JPG
     thumb: /files/thumbnails/14fb2a1338d9fd14fb2a1339076b.jpg
     url: /files/original/14fb2a1338d9fd14fb2a1339076b.jpg
+    alt:
+      en: "Interior of a military aircraft's cargo hold packed with shrink-wrapped pallets of bottled water labeled \"Refreshe,\" flanked by red canvas seating and overhead quilted insulation panels."
 geo:
 id: 19086
 item_type: Still Image

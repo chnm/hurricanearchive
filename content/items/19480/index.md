@@ -21,6 +21,8 @@ files:
     original_filename: Picture 040engineers.jpg
     thumb: /files/thumbnails/14fb2a0fcc099114fb2a0fcc0d6c.jpg
     url: /files/original/14fb2a0fcc099114fb2a0fcc0d6c.jpg
+    alt:
+      en: "Aerial view of a narrow, storm-damaged peninsula in Delacroix, Louisiana, showing a flooded roadway lined with debris, scattered buildings, and docks surrounded by water and marshland."
 geo:
 id: 19480
 item_type: Still Image

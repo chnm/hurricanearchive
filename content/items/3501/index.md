@@ -24,6 +24,8 @@ files:
     original_filename: P1010075.JPG
     thumb: /files/thumbnails/14fb2a5b5c404014fb2a5b5c4422.jpg
     url: /files/original/14fb2a5b5c404014fb2a5b5c4422.jpg
+    alt:
+      en: "Open grassy park area with damaged pine trees missing limbs, scattered fallen branches and debris piles, tree stumps, a white picnic pavilion, trash barrels, and a road in the foreground under clear blue sky."
 geo:
 id: 3501
 item_type: Still Image

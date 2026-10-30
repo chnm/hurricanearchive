@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8615.jpg
     thumb: /files/thumbnails/14fb2a65d6efcf14fb2a65d6f3b3.jpg
     url: /files/original/14fb2a65d6efcf14fb2a65d6f3b3.jpg
+    alt:
+      en: "A weathered white boat named \"Brandy Lynn\" sits grounded beside a road, spray-painted with \"DO NOT DESTROY 504-606-6350\" on its hull, a bare tree and water visible behind it."
 geo:
 id: 2504
 item_type: Still Image

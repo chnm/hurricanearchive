@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0095-9-25.JPG
     thumb: /files/thumbnails/14fb29e7a84bab14fb29e7a84fa4.jpg
     url: /files/original/14fb29e7a84bab14fb29e7a84fa4.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with submerged houses, scattered debris, downed trees, and a leaning utility pole, bordered by a two-lane road running along the water's edge."
 geo:
 id: 24445
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58bec10614fb2a58bec4ea.jpg
     url: /files/original/14fb2a58bec10614fb2a58bec4ea.jpg
+    alt:
+      en: "Man in maroon polo shirt faces a group of uniformed Coast Guard personnel in navy blue outfits and caps, standing outdoors near a brick building and hedges, with a timestamp reading \"3:55 PM\" in the corner."
 geo:
 id: 3958
 item_type: Still Image

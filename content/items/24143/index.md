@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea4bcb4d14fb29ea4bcf34.jpg
     url: /files/original/14fb29ea4bcb4d14fb29ea4bcf34.jpg
+    alt:
+      en: "Floodwater surrounds a white pickup truck parked beside a boarded-up building, with submerged fence posts, debris, and uprooted trees in the foreground amid standing water."
 geo:
 id: 24143
 item_type: Still Image

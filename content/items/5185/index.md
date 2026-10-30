@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0547.JPG
     thumb: /files/thumbnails/14fb2a5376cbb014fb2a5376d53f.jpg
     url: /files/original/14fb2a5376cbb014fb2a5376d53f.jpg
+    alt:
+      en: "A weathered wooden plank with a single brick resting on it lies diagonally across a concrete surface, surrounded by scattered twigs and debris."
 geo:
 id: 5185
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 158cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ddc64c214fb2a0ddc689f.jpg
     url: /files/original/14fb2a0ddc64c214fb2a0ddc689f.jpg
+    alt:
+      en: "A woman in a green tank top and khaki pants walks along a debris-strewn street lined with parked vehicles and military personnel in fatigues, with brick buildings and bare trees in the background."
 geo:
 id: 19771
 item_type: Still Image

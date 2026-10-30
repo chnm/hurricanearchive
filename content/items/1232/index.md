@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28269.jpg
     thumb: /files/thumbnails/14fb2a6a39304a14fb2a6a3aba5d.jpg
     url: /files/original/14fb2a6a39304a14fb2a6a3aba5d.jpg
+    alt:
+      en: "A multi-story building stripped of walls and windows, resting on a large barge-like base, surrounded by storm debris and a bare, damaged tree."
 geo:
   address: ''
   lat: 0.0

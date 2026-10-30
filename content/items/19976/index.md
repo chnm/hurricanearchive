@@ -21,6 +21,8 @@ files:
     original_filename: Picture 073cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bdb5ece14fb2a0bdb62b3.jpg
     url: /files/original/14fb2a0bdb5ece14fb2a0bdb62b3.jpg
+    alt:
+      en: "Concrete highway bridge railing in the foreground, overlooking a suburban neighborhood with rooftops, trees, power lines, and a blue-roofed building under a partly cloudy sky."
 geo:
 id: 19976
 item_type: Still Image

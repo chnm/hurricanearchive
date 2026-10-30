@@ -21,6 +21,8 @@ files:
     original_filename: PICT0528Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4b3689b14fb29f4b36c83.jpg
     url: /files/original/14fb29f4b3689b14fb29f4b36c83.jpg
+    alt:
+      en: "Military Humvee with canvas-covered bed parked on a street beside a white house numbered 32, with a utility pole leaning at an angle amid tree debris and storm damage."
 geo:
 id: 22699
 item_type: Still Image

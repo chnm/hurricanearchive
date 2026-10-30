@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-16patriciasherylatlake_e88033531d.jpg
     thumb: /files/thumbnails/14fb29dc85c38014fb29dc85c748.jpg
     url: /files/original/14fb29dc85c38014fb29dc85c748.jpg
+    alt:
+      en: "Aged, worn-edged color snapshot of four adults posing by a lake surrounded by trees, with a child and other people visible in the background; circa 1970s clothing and hairstyles are evident."
 geo:
 id: 25739
 item_type: Still Image

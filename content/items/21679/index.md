@@ -21,6 +21,8 @@ files:
     original_filename: FH000012-9-23.jpg
     thumb: /files/thumbnails/14fb29fc73c75b14fb29fc73cb05.jpg
     url: /files/original/14fb29fc73c75b14fb29fc73cb05.jpg
+    alt:
+      en: "Collapsed section of a brick building's roof and wall with debris scattered below, surrounded by muddy, flood-damaged grounds and bare trees under a clear sky."
 geo:
 id: 21679
 item_type: Still Image

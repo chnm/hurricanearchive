@@ -21,6 +21,8 @@ files:
     original_filename: MVC-016S.JPG
     thumb: /files/thumbnails/14fb2a5f74e1b014fb2a5f74e73d.jpg
     url: /files/original/14fb2a5f74e1b014fb2a5f74e73d.jpg
+    alt:
+      en: "A retired Coast Guard helicopter, numbered 1378, displayed outdoors with red and white markings, a star insignia, and a sign reading \"Emergency Rescue, Press Button, Turn Handle, Pull Out Window.\""
 geo:
 id: 2961
 item_type: Still Image

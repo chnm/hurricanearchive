@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0947_74e5da6920.JPG
     thumb: /files/thumbnails/14fb2a6eb63ba214fb2a6eb63f88.jpg
     url: /files/original/14fb2a6eb63ba214fb2a6eb63f88.jpg
+    alt:
+      en: "A single-story brick house stands surrounded by floodwater, mud, and storm debris, with a large tree in front and downed branches and wreckage scattered across the yard and street."
 geo:
   address: ''
   lat: 30.0083144835564

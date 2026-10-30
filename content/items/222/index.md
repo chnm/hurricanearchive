@@ -26,6 +26,8 @@ files:
     original_filename: volvo_top_LOL_6d45edfdad.jpg
     thumb: /files/thumbnails/14fb2a70751bf714fb2a70752752.jpg
     url: /files/original/14fb2a70751bf714fb2a70752752.jpg
+    alt:
+      en: "A bright white rectangular shape, likely the roof of a submerged car, floats amid vast, grayish floodwaters, with no other objects visible nearby."
 geo:
   address: ''
   lat: 29.900262

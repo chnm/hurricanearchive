@@ -21,6 +21,8 @@ files:
     original_filename: Picture 277-J2.jpg
     thumb: /files/thumbnails/14fb29fae5e61d14fb29fae5ea02.jpg
     url: /files/original/14fb29fae5e61d14fb29fae5ea02.jpg
+    alt:
+      en: "View from a highway overpass of floodwater surrounding a blue industrial building and parked buses, with a lift bridge and smokestack visible on the distant skyline."
 geo:
 id: 21946
 item_type: Still Image

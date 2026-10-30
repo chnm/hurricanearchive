@@ -21,6 +21,8 @@ files:
     original_filename: scan0006_5de61749c3.jpg
     thumb: /files/thumbnails/14fb29cc0e659a14fb29cc0e698b.jpg
     url: /files/original/14fb29cc0e659a14fb29cc0e698b.jpg
+    alt:
+      en: "A man stands dwarfed beneath the massive upturned root ball of a large uprooted oak tree, its tangled roots and bare branches towering above him amid scattered debris."
 geo:
   address: ''
   lat: 30.01946

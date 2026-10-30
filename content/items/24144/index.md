@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea4aaafb14fb29ea4aaed8.jpg
     url: /files/original/14fb29ea4aaafb14fb29ea4aaed8.jpg
+    alt:
+      en: "A worker in camouflage with an orange hard hat and chainsaw cuts through a fallen tree trunk, while a cameraman in a red shirt perched on the debris films the scene."
 geo:
 id: 24144
 item_type: Still Image

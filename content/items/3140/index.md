@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (7).JPG
     thumb: /files/thumbnails/14fb2a5dc10e0f14fb2a5dc111f3.jpg
     url: /files/original/14fb2a5dc10e0f14fb2a5dc111f3.jpg
+    alt:
+      en: "A police car, trucks, and SUVs line a street near a red-roofed building, with a large crane and utility poles rising in the background under a clear sky."
 geo:
 id: 3140
 item_type: Still Image

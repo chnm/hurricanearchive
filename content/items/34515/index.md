@@ -27,6 +27,8 @@ files:
     original_filename: 2292024084_4c770c9373.
     thumb: /files/thumbnails/14fb29c99adf3514fb29c99ae31d.jpg
     url: /files/original/14fb29c99adf3514fb29c99ae31d.jpg
+    alt:
+      en: "A storm-damaged white car buried beneath scattered lumber, dried debris, and broken boards, with a house raised on stilts and another vehicle visible in the background."
 geo:
   address: ''
   lat: 30.22539

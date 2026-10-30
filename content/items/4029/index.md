@@ -21,6 +21,8 @@ files:
     original_filename: DSC01144.JPG
     thumb: /files/thumbnails/14fb2a5860745614fb2a58607834.jpg
     url: /files/original/14fb2a5860745614fb2a58607834.jpg
+    alt:
+      en: "A makeshift staging area with RVs, pickup trucks, and a boat on a trailer parked on pavement near water, with uniformed personnel standing and walking among the vehicles under a clear sky."
 geo:
 id: 4029
 item_type: Still Image

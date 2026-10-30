@@ -21,6 +21,8 @@ files:
     original_filename: SS St. Bernard (6).jpg
     thumb: /files/thumbnails/14fb2a5c21deeb14fb2a5c21e5a9.jpg
     url: /files/original/14fb2a5c21deeb14fb2a5c21e5a9.jpg
+    alt:
+      en: "Collapsed building with a sign reading \"PEPSI MERAUX FOOD STORE & SPORTING GOODS OPEN 24 HOURS,\" its walls caved in with cinder blocks and debris scattered across the lot."
 geo:
 id: 3365
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052H.JPG
     thumb: /files/thumbnails/14fb2a055cbfe714fb2a055cc3cd.jpg
     url: /files/original/14fb2a055cbfe714fb2a055cc3cd.jpg
+    alt:
+      en: "A woman in a white tank top sits in the foreground, out of focus, while a man in military camouflage uniform sits behind a wooden partition, with a Budweiser box visible on the table."
 geo:
 id: 20663
 item_type: Still Image

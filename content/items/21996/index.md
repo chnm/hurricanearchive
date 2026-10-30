@@ -21,6 +21,8 @@ files:
     original_filename: Picture 327-J2.jpg
     thumb: /files/thumbnails/14fb29fa3a583514fb29fa3a5c1c.jpg
     url: /files/original/14fb29fa3a583514fb29fa3a5c1c.jpg
+    alt:
+      en: "Wilted banana plant fronds in foreground, with a wrought-iron fence and a white church featuring a clock tower and steeple visible in the background."
 geo:
 id: 21996
 item_type: Still Image

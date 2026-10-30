@@ -21,6 +21,8 @@ files:
     original_filename: Awaiting aircraft3delaware.jpg
     thumb: /files/thumbnails/14fb29f146f85614fb29f146fc3a.jpg
     url: /files/original/14fb29f146f85614fb29f146fc3a.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand outside a metal building, one wearing sunglasses and a cap with name tag \"Mulderig,\" near a door marked \"Emergency Exit Only.\""
 geo:
 id: 23165
 item_type: Still Image

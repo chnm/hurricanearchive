@@ -21,6 +21,8 @@ files:
     original_filename: me on the phone.jpg
     thumb: /files/thumbnails/14fb2a1e90772c14fb2a1e90bb04.jpg
     url: /files/original/14fb2a1e90772c14fb2a1e90bb04.jpg
+    alt:
+      en: "A person in a blue rain jacket smiles while talking on a phone, standing on a wooden boardwalk near water with wooden posts and grassy areas visible in the background."
 geo:
 id: 13257
 item_type: Still Image

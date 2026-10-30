@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (39).jpg
     thumb: /files/thumbnails/14fb2a5ccce0d914fb2a5ccce4a7.jpg
     url: /files/original/14fb2a5ccce0d914fb2a5ccce4a7.jpg
+    alt:
+      en: "Collapsed houses reduced to scattered debris—bricks, roofing, lumber, and concrete slabs—surrounded by mud-covered ground, with tall trees and a clear blue sky in the background."
 geo:
 id: 3276
 item_type: Still Image

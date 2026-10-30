@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 036.jpg
     thumb: /files/thumbnails/14fb2a226c132214fb2a226c1707.jpg
     url: /files/original/14fb2a226c132214fb2a226c1707.jpg
+    alt:
+      en: "A boat sits stranded deep in a wooded area amid snapped trees and scattered debris, with splintered lumber and wreckage covering the forest floor in the foreground."
 geo:
 id: 11988
 item_type: Still Image

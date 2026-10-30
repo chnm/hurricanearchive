@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039M.JPG
     thumb: /files/thumbnails/14fb2a05d15f8c14fb2a05d1797f.jpg
     url: /files/original/14fb2a05d15f8c14fb2a05d1797f.jpg
+    alt:
+      en: "A military medical officer in camouflage fatigues administers an injection to a man's upper arm; he wears a white T-shirt reading \"ARMY NATIONAL GUARD, EST. 1636, 100% AMERICAN SOLDIER, DEFENDING FREEDOM · MADE IN THE USA,\" with others observing in the background."
 geo:
 id: 20593
 item_type: Still Image

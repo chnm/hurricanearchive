@@ -20,6 +20,8 @@ files:
     original_filename: Katrina 6_c37aa9f095.JPG
     thumb: /files/thumbnails/14fb29c2c7dc6414fb29c2c7e3fe.jpg
     url: /files/original/14fb29c2c7dc6414fb29c2c7e3fe.jpg
+    alt:
+      en: "A large mobile home or trailer structure has collapsed and tipped forward onto the front end of a car, crushing part of its frame onto the vehicle's hood and grille."
 geo:
   address: ''
   lat: 29.97561

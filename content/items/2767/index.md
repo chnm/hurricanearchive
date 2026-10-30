@@ -21,6 +21,8 @@ files:
     original_filename: 62.jpg
     thumb: /files/thumbnails/14fb2a604894af14fb2a60489b92.jpg
     url: /files/original/14fb2a604894af14fb2a60489b92.jpg
+    alt:
+      en: "Colorful abstract splatter-paint artwork with dense dots and streaks in red, green, blue, purple, and yellow; signed \"Curt, 4 yr.\" in teal at the bottom left."
 geo:
 id: 2767
 item_type: Still Image

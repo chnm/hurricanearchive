@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0080abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efbcc44514fb29efbcc829.jpg
     url: /files/original/14fb29efbcc44514fb29efbcc829.jpg
+    alt:
+      en: "Aerial view of a flooded rural landscape with a single-story house and carport submerged to window level, surrounded by standing water, trees, and a pickup truck partially underwater nearby."
 geo:
 id: 23384
 item_type: Still Image

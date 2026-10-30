@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27871.jpg
     thumb: /files/thumbnails/14fb2a6d330b6314fb2a6d330f3f.jpg
     url: /files/original/14fb2a6d330b6314fb2a6d330f3f.jpg
+    alt:
+      en: "A bearded man in a white t-shirt stands in floodwater holding a sign reading \"WE WANT WATER FREE,\" with a chain-link fence and flooded buildings behind him."
 geo:
   address: ''
   lat: 0.0

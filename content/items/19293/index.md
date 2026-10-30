@@ -21,6 +21,8 @@ files:
     original_filename: J2 (13).JPG
     thumb: /files/thumbnails/14fb2a1150c6dc14fb2a1150ccec.jpg
     url: /files/original/14fb2a1150c6dc14fb2a1150ccec.jpg
+    alt:
+      en: "Weathered, cracked wall displaying a painted \"Receiving Hours\" sign with schedule and phone number, overlaid with spray-painted red text reading \"Looters will be shot!\""
 geo:
 id: 19293
 item_type: Still Image

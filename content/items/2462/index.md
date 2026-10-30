@@ -24,6 +24,8 @@ files:
     original_filename: 20050905_MG_8161.jpg
     thumb: /files/thumbnails/14fb2a664c7df514fb2a664c820e.jpg
     url: /files/original/14fb2a664c7df514fb2a664c820e.jpg
+    alt:
+      en: "A mud-caked, crushed sedan sits buried in debris, its roof crumpled and a wooden plank pierced through it; a rusted truck and scattered wreckage fill the background."
 geo:
 id: 2462
 item_type: Still Image

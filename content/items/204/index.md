@@ -26,6 +26,8 @@ files:
     original_filename: DSC00561_4c883d6c7f.JPG
     thumb: /files/thumbnails/14fb2a708d9b4714fb2a708da119.jpg
     url: /files/original/14fb2a708d9b4714fb2a708da119.jpg
+    alt:
+      en: "Photo taken from inside a car driving down a street with a leaning utility pole and tangled power lines overhead, a sedan ahead, a roadside billboard, and the sun low in a hazy sky."
 geo:
   address: ''
   lat: 29.974565047101

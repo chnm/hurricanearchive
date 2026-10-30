@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28772.jpg
     thumb: /files/thumbnails/14fb2a6adbe9d714fb2a6adbf1a4.jpg
     url: /files/original/14fb2a6adbe9d714fb2a6adbf1a4.jpg
+    alt:
+      en: "A white pickup truck tows a large orange \"Godwin Power\" generator trailer along a highway, with trees lining the roadside and other vehicles in the distance."
 geo:
   address: ''
   lat: 0.0

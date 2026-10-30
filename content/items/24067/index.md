@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eb18aee014fb29eb18b22f.jpg
     url: /files/original/14fb29eb18aee014fb29eb18b22f.jpg
+    alt:
+      en: "Aerial view of a devastated coastal town with collapsed buildings, debris-strewn lots, and widespread standing floodwater; a damaged strip mall shows a partially intact \"Family Dollar\" sign."
 geo:
 id: 24067
 item_type: Still Image

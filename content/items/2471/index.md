@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8502.jpg
     thumb: /files/thumbnails/14fb2a66385c8114fb2a66386067.jpg
     url: /files/original/14fb2a66385c8114fb2a66386067.jpg
+    alt:
+      en: "Rows of bare wooden pilings stand in shallow water, remnants of destroyed docks, with a surviving white picket gate and American flag on a damaged walkway at right."
 geo:
 id: 2471
 item_type: Still Image

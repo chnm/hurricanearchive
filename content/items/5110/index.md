@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0455.JPG
     thumb: /files/thumbnails/14fb2a53dcf55414fb2a53dcfab4.jpg
     url: /files/original/14fb2a53dcf55414fb2a53dcfab4.jpg
+    alt:
+      en: "Devastated landscape with scattered debris, a white semi-truck, and other vehicles amid scorched, leafless trees under a hazy sky, evidence of storm destruction."
 geo:
 id: 5110
 item_type: Still Image

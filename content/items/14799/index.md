@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TameraConey_04_26ccdd3041.jpg
     thumb: /files/thumbnails/14fb2a17a5fc0514fb2a17a5ffe4.jpg
     url: /files/original/14fb2a17a5fc0514fb2a17a5ffe4.jpg
+    alt:
+      en: "Flooded residential street viewed from a porch, with a person paddling a small boat and others wading through waist-deep water near houses and a chain-link fence."
 geo:
 id: 14799
 item_type: Still Image

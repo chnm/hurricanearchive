@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-02-0A.jpg
     thumb: /files/thumbnails/14fb29e88eff6514fb29e88f0b27.jpg
     url: /files/original/14fb29e88eff6514fb29e88f0b27.jpg
+    alt:
+      en: "Flooded residential street with houses submerged to their windows, rooftops of vehicles and a bus barely visible above the brown floodwater, and a small boat with rescuers navigating between buildings."
 geo:
 id: 24354
 item_type: Still Image

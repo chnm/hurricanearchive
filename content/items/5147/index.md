@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0509.JPG
     thumb: /files/thumbnails/14fb2a53c1f82e14fb2a53c1fc14.jpg
     url: /files/original/14fb2a53c1f82e14fb2a53c1fc14.jpg
+    alt:
+      en: "A grassy lot with scattered trees, a tall bare pine in the foreground, and a partially visible house with debris piles in the distance under a clear blue sky."
 geo:
 id: 5147
 item_type: Still Image

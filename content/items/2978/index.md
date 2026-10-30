@@ -21,6 +21,8 @@ files:
     original_filename: MVC-033S.JPG
     thumb: /files/thumbnails/14fb2a5f38521114fb2a5f385deb.jpg
     url: /files/original/14fb2a5f38521114fb2a5f385deb.jpg
+    alt:
+      en: "A military jet aircraft is parked on pavement near a building, with an American flag, light poles, and several vehicles visible in the background under a clear blue sky."
 geo:
 id: 2978
 item_type: Still Image

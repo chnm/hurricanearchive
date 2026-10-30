@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1519superdome.JPG
     thumb: /files/thumbnails/14fb29e31bc27514fb29e31bc651.jpg
     url: /files/original/14fb29e31bc27514fb29e31bc651.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand near a large camouflage-patterned truck emitting dark exhaust smoke, with license plate \"225GP 527E H73,\" parked in a lot near a billboard and highway overpass."
 geo:
 id: 24997
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2457505104_a683614696.
     thumb: /files/thumbnails/14fb29c8801bd114fb29c8801fb6.jpg
     url: /files/original/14fb29c8801bd114fb29c8801fb6.jpg
+    alt:
+      en: "A dragline crane mounted on a barge works along a muddy riverbank, with freshly dredged earth piled along the shoreline and trees lining the opposite bank."
 geo:
 id: 34919
 item_type: Still Image

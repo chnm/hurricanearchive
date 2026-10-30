@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 059.jpg
     thumb: /files/thumbnails/14fb2a22aaeb0e14fb2a22aaeef4.jpg
     url: /files/original/14fb2a22aaeb0e14fb2a22aaeef4.jpg
+    alt:
+      en: "Hurricane debris field with scattered building materials, PVC pipes, and broken concrete, stripped palm trees, and a damaged storefront reading \"PILLARS\" beside a multi-story building, dated 2005/09/24."
 geo:
 id: 11937
 item_type: Still Image

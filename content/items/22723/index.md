@@ -21,6 +21,8 @@ files:
     original_filename: PICT0621Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f46b0e7414fb29f46b1258.jpg
     url: /files/original/14fb29f46b0e7414fb29f46b1258.jpg
+    alt:
+      en: "Brick building with white columns and balcony numbered \"6,\" featuring a hanging sign reading \"COL SCHMIDT\"; date stamp \"09.15.2005\" visible in corner."
 geo:
 id: 22723
 item_type: Still Image

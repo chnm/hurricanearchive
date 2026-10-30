@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008-9-25.JPG
     thumb: /files/thumbnails/14fb2a08317a3414fb2a08317d27.jpg
     url: /files/original/14fb2a08317a3414fb2a08317d27.jpg
+    alt:
+      en: "Sideways photo of a woman with short blonde hair wearing a light blue \"North Shore Rentals\" t-shirt, standing indoors near a plaid curtain and yellow wall, with another person's arm extended nearby."
 geo:
 id: 20385
 item_type: Still Image

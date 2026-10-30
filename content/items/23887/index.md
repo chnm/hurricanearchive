@@ -21,6 +21,8 @@ files:
     original_filename: image007neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ec9b64a514fb29ec9b688b.jpg
     url: /files/original/14fb29ec9b64a514fb29ec9b688b.jpg
+    alt:
+      en: "Three uniformed personnel walk through a debris-strewn, water-damaged corridor with peeling ceiling tiles and an open orange door, likely during search and rescue operations after flooding."
 geo:
 id: 23887
 item_type: Still Image

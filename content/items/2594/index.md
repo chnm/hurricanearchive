@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9513.jpg
     thumb: /files/thumbnails/14fb2a64681a5714fb2a646824ce.jpg
     url: /files/original/14fb2a64681a5714fb2a646824ce.jpg
+    alt:
+      en: "Handwritten sign in a light green frame outside a French Quarter lingerie shop lists \"3 great reasons to buy new panties,\" referencing mold, Hanes, and FEMA trailers."
 geo:
 id: 2594
 item_type: Still Image

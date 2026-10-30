@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0276.JPG
     thumb: /files/thumbnails/14fb2a54e4322914fb2a54e43614.jpg
     url: /files/original/14fb2a54e4322914fb2a54e43614.jpg
+    alt:
+      en: "Cracked and heaved concrete driveway or walkway with spray-painted markings in red, leading toward a house, surrounded by green grass and scattered debris."
 geo:
 id: 4934
 item_type: Still Image

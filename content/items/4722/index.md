@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0069.JPG
     thumb: /files/thumbnails/14fb2a55f8815614fb2a55f8853c.jpg
     url: /files/original/14fb2a55f8815614fb2a55f8853c.jpg
+    alt:
+      en: "A dirt road littered with storm debris runs between damaged, leafless trees, with a maroon minivan, an ATV, and parked vehicles visible under power lines and a clear blue sky."
 geo:
 id: 4722
 item_type: Still Image

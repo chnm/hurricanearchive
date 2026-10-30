@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28294.jpg
     thumb: /files/thumbnails/14fb2a69ff3ff214fb2a6a000197.jpg
     url: /files/original/14fb2a69ff3ff214fb2a6a000197.jpg
+    alt:
+      en: "Storm-damaged building with collapsed metal roof framing and shattered windows, surrounded by scattered debris and a large bare tree in the foreground, with a multi-story structure visible behind."
 geo:
   address: ''
   lat: 0.0

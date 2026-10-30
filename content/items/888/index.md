@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28042.jpg
     thumb: /files/thumbnails/14fb2a6c7c77e614fb2a6c7c8846.jpg
     url: /files/original/14fb2a6c7c77e614fb2a6c7c8846.jpg
+    alt:
+      en: "A wooden utility pole marked with a high-water measurement scale stands in front of a brick church with a white steeple and a sign reading \"BS FEST,\" surrounded by bare, debris-strewn ground."
 geo:
   address: ''
   lat: 0.0

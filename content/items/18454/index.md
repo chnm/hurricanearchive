@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5908_2ca9162185.jpg
     thumb: /files/thumbnails/14fb2a1573e4e714fb2a1573e8cc.jpg
     url: /files/original/14fb2a1573e4e714fb2a1573e8cc.jpg
+    alt:
+      en: "Jessie Boucq, wearing glasses and a cap, stands beside a detailed wooden model boat on a table, with his wife in a red headscarf nearby; a handwritten label reads \"Jessie Boucq, Crafter.\""
 geo:
 id: 18454
 item_type: Still Image

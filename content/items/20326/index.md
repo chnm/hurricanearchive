@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001 corp.jpg
     thumb: /files/thumbnails/14fb2a094a308a14fb2a094a3721.jpg
     url: /files/original/14fb2a094a308a14fb2a094a3721.jpg
+    alt:
+      en: "A military service member in camouflage fatigues and a dark flight helmet stands on dry grass, wearing a life vest harness with an American flag patch, with military vehicles visible in the background."
 geo:
 id: 20326
 item_type: Still Image

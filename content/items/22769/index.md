@@ -21,6 +21,8 @@ files:
     original_filename: S4300125Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f41d6d3114fb29f41d7111.jpg
     url: /files/original/14fb29f41d6d3114fb29f41d7111.jpg
+    alt:
+      en: "Damaged house with missing roof shingles and torn gutters, a red \"X\" search marking with \"1/8\" and \"9/12\" painted on the porch wall, and collapsed lattice skirting beneath the porch."
 geo:
 id: 22769
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 157265047_c3c09c8464.jpg
     thumb: /files/thumbnails/14fb29d1c6d9a914fb29d1c6dd88.jpg
     url: /files/original/14fb29d1c6d9a914fb29d1c6dd88.jpg
+    alt:
+      en: "A deflated, multicolored kite made of red, blue, yellow, and green fabric lies crumpled on the ground amid scattered bricks, debris, and weeds, with a piece of weathered plywood visible to the left."
 geo:
 id: 28679
 item_type: Still Image

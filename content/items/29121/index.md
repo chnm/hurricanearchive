@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-032-14A.jpg
     thumb: /files/thumbnails/14fb29cf2562f814fb29cf2688be.jpg
     url: /files/original/14fb29cf2562f814fb29cf2688be.jpg
+    alt:
+      en: "Military helicopters, including one marked with a red cross, sit on a tarmac near stacked supply boxes and a Toyota forklift, as uniformed personnel stand and walk across the open lot."
 geo:
 id: 29121
 item_type: Still Image

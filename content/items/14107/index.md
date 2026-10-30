@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0004.JPG
     thumb: /files/thumbnails/14fb2a1bbc17c014fb2a1bbc1b5c.jpg
     url: /files/original/14fb2a1bbc17c014fb2a1bbc1b5c.jpg
+    alt:
+      en: "Two military trucks with canvas covers parked on wet pavement, with two people in camouflage uniforms standing nearby; one holds a tarp bundle, under an overcast, rainy sky with trees in the background."
 geo:
   address: ''
   lat: 0.0

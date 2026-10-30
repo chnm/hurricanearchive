@@ -21,6 +21,8 @@ files:
     original_filename: 09140023.JPG
     thumb: /files/thumbnails/14fb29e975bd9414fb29e975c179.jpg
     url: /files/original/14fb29e975bd9414fb29e975c179.jpg
+    alt:
+      en: "A soldier in camouflage uniform walks across a parking lot with military Humvees and civilian vehicles, in front of a brick building with white columns and large trees."
 geo:
 id: 24242
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7397.JPG
     thumb: /files/thumbnails/14fb29ccccb10514fb29ccccb4e9.jpg
     url: /files/original/14fb29ccccb10514fb29ccccb4e9.jpg
+    alt:
+      en: "A wooden shed with a metal roof stands in a wooded yard where a large tree has fallen, its trunk and branches sprawled across the ground near the structure."
 geo:
 id: 30700
 item_type: Still Image

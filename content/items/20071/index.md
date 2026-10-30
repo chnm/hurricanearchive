@@ -21,6 +21,8 @@ files:
     original_filename: Picture 168cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b80396014fb2a0b803d42.jpg
     url: /files/original/14fb2a0b80396014fb2a0b803d42.jpg
+    alt:
+      en: "Close-up view of a military-style vehicle's exterior, showing riveted metal panels in olive green and gray tones, with hinges and a textured surface; a road and sky are visible in the background."
 geo:
 id: 20071
 item_type: Still Image

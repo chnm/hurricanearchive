@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1382Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f58c214114fb29f58c2419.jpg
     url: /files/original/14fb29f58c214114fb29f58c2419.jpg
+    alt:
+      en: "A small boat with people wearing orange life vests navigates deep floodwaters surrounding houses, with submerged structures, trees, and power lines visible above the water."
 geo:
 id: 22539
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0163-21.JPG
     thumb: /files/thumbnails/14fb2a012c2f3814fb2a012c330f.jpg
     url: /files/original/14fb2a012c2f3814fb2a012c330f.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage uniform, armed with a rifle, gestures while speaking to a driver in a vehicle displaying a \"Port of New Orleans Port Access Pass\" sticker."
 geo:
 id: 20987
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0171.JPG
     thumb: /files/thumbnails/14fb2a5527cb5414fb2a5527cf3a.jpg
     url: /files/original/14fb2a5527cb5414fb2a5527cf3a.jpg
+    alt:
+      en: "A single-story house with a vine-covered porch sits amid trees, with a gravel driveway holding a sedan, SUV, and pickup truck, plus a metal carport to the left."
 geo:
 id: 4852
 item_type: Still Image

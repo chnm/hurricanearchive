@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0111-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e6f2478814fb29e6f24b53.jpg
     url: /files/original/14fb29e6f2478814fb29e6f24b53.jpg
+    alt:
+      en: "Military truck with a soldier leaning out the window leads a long line of civilian vehicles and pedestrians along a muddy road flanked by floodwaters and power lines."
 geo:
 id: 24532
 item_type: Still Image

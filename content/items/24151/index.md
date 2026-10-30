@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea39830a14fb29ea3986c0.jpg
     url: /files/original/14fb29ea39830a14fb29ea3986c0.jpg
+    alt:
+      en: "Aerial view of a muddy, marshy coastal landscape with scattered pools of water, sparse dead vegetation, and visible debris scattered across the terrain."
 geo:
 id: 24151
 item_type: Still Image

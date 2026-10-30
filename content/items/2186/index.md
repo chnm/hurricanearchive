@@ -26,6 +26,8 @@ files:
     original_filename: Billintrailer_6c1dcf91b8.jpg
     thumb: /files/thumbnails/14fb2a6d7e3a3714fb2a6d7e3e11.jpg
     url: /files/original/14fb2a6d7e3a3714fb2a6d7e3e11.jpg
+    alt:
+      en: "A smiling man in an American Red Cross cap and shirt loads bottled water cases inside a supply trailer stocked with coolers, toolboxes, cutlery, and paper products."
 geo:
   address: ''
   lat: 27.18608

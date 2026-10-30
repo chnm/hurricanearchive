@@ -20,6 +20,8 @@ files:
     original_filename: 2421690614_013896b5d0.
     thumb: /files/thumbnails/14fb29c8eb24d014fb29c8eb28ad.jpg
     url: /files/original/14fb29c8eb24d014fb29c8eb28ad.jpg
+    alt:
+      en: "A heavily rusted large metal drum lies amid scattered debris—tin cans, torn plastic bags, soiled papers, and insulation—with green foliage visible in the background."
 geo:
 id: 34745
 item_type: Still Image

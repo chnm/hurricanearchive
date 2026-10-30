@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29f0007fce14fb29f00083ab.jpg
     url: /files/original/14fb29f0007fce14fb29f00083ab.jpg
+    alt:
+      en: "A police car with lights on is parked beside a flooded mobile home, with two officers standing nearby and a trailer with a Louisiana license plate \"E892401\" in the foreground."
 geo:
 id: 23308
 item_type: Still Image

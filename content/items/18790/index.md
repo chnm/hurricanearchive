@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026grandisle.JPG
     thumb: /files/thumbnails/14fb2a153c7baa14fb2a153c7f98.jpg
     url: /files/original/14fb2a153c7baa14fb2a153c7f98.jpg
+    alt:
+      en: "Aerial view of a coastal marina with docked boats, scattered vehicles, and storm-damaged buildings on pilings, surrounded by calm water and a distant shoreline with scattered structures."
 geo:
 id: 18790
 item_type: Still Image

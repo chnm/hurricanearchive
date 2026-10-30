@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0158.JPG
     thumb: /files/thumbnails/14fb2a5537da0514fb2a5537ddeb.jpg
     url: /files/original/14fb2a5537da0514fb2a5537ddeb.jpg
+    alt:
+      en: "A yellow tape measure extended across a plywood or particleboard surface speckled with white mold or mildew spots, measuring approximately 23 inches between wooden studs."
 geo:
 id: 4839
 item_type: Still Image

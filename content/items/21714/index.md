@@ -21,6 +21,8 @@ files:
     original_filename: P1010016.JPG
     thumb: /files/thumbnails/14fb29fc4dbc5b14fb29fc4dc03f.jpg
     url: /files/original/14fb29fc4dbc5b14fb29fc4dc03f.jpg
+    alt:
+      en: "Military cargo plane with rear ramp lowered on a tarmac, as a group of uniformed personnel stand nearby while a truck is loaded into the aircraft's hold."
 geo:
 id: 21714
 item_type: Still Image

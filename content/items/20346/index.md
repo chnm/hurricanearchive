@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003M.JPG
     thumb: /files/thumbnails/14fb2a089c241514fb2a089c27fe.jpg
     url: /files/original/14fb2a089c241514fb2a089c27fe.jpg
+    alt:
+      en: "A sideways, blurred photo of a bald man in a tan shirt wearing a white glove, seated near a reddish chair and indoor furnishings with a window letting in bright light."
 geo:
 id: 20346
 item_type: Still Image

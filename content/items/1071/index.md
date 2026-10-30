@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27988.jpg
     thumb: /files/thumbnails/14fb2a6b32051a14fb2a6b3208ff.jpg
     url: /files/original/14fb2a6b32051a14fb2a6b3208ff.jpg
+    alt:
+      en: "Discarded wooden chairs and furniture debris piled outdoors, including a white-framed window and a coiled wire wreath, scattered among dry leaves and twigs."
 geo:
   address: ''
   lat: 0.0

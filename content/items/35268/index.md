@@ -18,6 +18,8 @@ files:
     original_filename: 6_70d7797b19.jpg
     thumb: /files/thumbnails/14fb29c74b48ce14fb29c74b5b57.jpg
     url: /files/original/14fb29c74b48ce14fb29c74b5b57.jpg
+    alt:
+      en: "Pink Victorian-style house with white gingerbread trim, two balconies with spindle railings, red shutters, and a hanging fern, numbered 3810, framed by tree leaves in the foreground."
 geo:
   address: new orleans, la
   lat: 29.95324

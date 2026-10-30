@@ -20,6 +20,8 @@ files:
     original_filename: 4994_4cdd1adb18.012106_user_lakeview.jpg
     thumb: /files/thumbnails/14fb29c1d3f57414fb29c1d3fd42.jpg
     url: /files/original/14fb29c1d3f57414fb29c1d3fd42.jpg
+    alt:
+      en: "A massive, chaotic pile of mixed debris—furniture, mattresses, metal scraps, and household items—heaped along a roadside, with a strip of grass and pavement visible in the foreground."
 geo:
 id: 44078
 item_type: Still Image

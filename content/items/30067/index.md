@@ -20,6 +20,8 @@ files:
     original_filename: DSCN3629_596db1aee4.3.jpg
     thumb: /files/thumbnails/14fb29cd2c361014fb29cd2c3ddf.jpg
     url: /files/original/14fb29cd2c361014fb29cd2c3ddf.jpg
+    alt:
+      en: "Blue wooden house with hand-painted signs reading \"Common Ground Lower 9th Ward Relief\" and \"Eminent Domain for Who?\" as three military helicopters fly overhead in a cloudy sky."
 geo:
 id: 30067
 item_type: Still Image

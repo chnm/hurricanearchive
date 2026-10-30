@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28220.jpg
     thumb: /files/thumbnails/14fb2a6cdc500414fb2a6cdc57e1.jpg
     url: /files/original/14fb2a6cdc500414fb2a6cdc57e1.jpg
+    alt:
+      en: "Flattened building remains with scattered white support posts and debris, an American flag on a pole, bare storm-damaged trees, and utility lines against a blue sky."
 geo:
   address: ''
   lat: 0.0

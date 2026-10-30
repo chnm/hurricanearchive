@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0066grandisle.JPG
     thumb: /files/thumbnails/14fb2a14f256ca14fb2a14f25aa7.jpg
     url: /files/original/14fb2a14f256ca14fb2a14f25aa7.jpg
+    alt:
+      en: "Aerial view of a coastal community with scattered elevated houses surrounded by widespread storm debris, wood scraps, and flattened lots stretching along a beachfront road and shoreline."
 geo:
 id: 18845
 item_type: Still Image

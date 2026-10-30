@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 113.jpg
     thumb: /files/thumbnails/14fb2a11d0495714fb2a11d04d3f.jpg
     url: /files/original/14fb2a11d0495714fb2a11d04d3f.jpg
+    alt:
+      en: "Interior of a flood-damaged warehouse with collapsed shelving, scattered cardboard boxes, and debris covering a muddy, water-stained floor beneath an industrial metal roof."
 geo:
 id: 19203
 item_type: Still Image

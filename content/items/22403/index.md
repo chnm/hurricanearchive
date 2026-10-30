@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1235Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6b4012414fb29f6b404fa.jpg
     url: /files/original/14fb29f6b4012414fb29f6b404fa.jpg
+    alt:
+      en: "Nighttime view through rain-streaked glass and foliage of a brick building with a gabled roof, partially obscured by heavy rainfall and power lines in the foreground."
 geo:
 id: 22403
 item_type: Still Image

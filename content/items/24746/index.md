@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2066superdome.JPG
     thumb: /files/thumbnails/14fb29e52e305114fb29e52e3436.jpg
     url: /files/original/14fb29e52e305114fb29e52e3436.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms sit in folding chairs beneath an \"EMERGENCY EXIT\" sign, with a sports-themed banner visible to the right in a dimly lit indoor space."
 geo:
 id: 24746
 item_type: Still Image

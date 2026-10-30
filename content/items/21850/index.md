@@ -21,6 +21,8 @@ files:
     original_filename: Draw Bridge on HWY 11.jpg
     thumb: /files/thumbnails/14fb29fb60f59d14fb29fb60f996.jpg
     url: /files/original/14fb29fb60f59d14fb29fb60f996.jpg
+    alt:
+      en: "Aerial view of a collapsed drawbridge on Highway 11, with the roadway broken apart and displaced sections over dark water; part of an aircraft wing is visible in the lower right."
 geo:
 id: 21850
 item_type: Still Image

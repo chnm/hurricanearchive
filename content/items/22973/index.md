@@ -21,6 +21,8 @@ files:
     original_filename: S4300227media.JPG
     thumb: /files/thumbnails/14fb29f25d6e6e14fb29f25d7252.jpg
     url: /files/original/14fb29f25d6e6e14fb29f25d7252.jpg
+    alt:
+      en: "A news media crew with cameras and boom microphone stands in a flooded tree-lined street, some wearing waders, near a boat and a \"School Speed Limit 20\" sign."
 geo:
 id: 22973
 item_type: Still Image

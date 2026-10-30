@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0300westend.JPG
     thumb: /files/thumbnails/14fb2a141517ae14fb2a14151b93.jpg
     url: /files/original/14fb2a141517ae14fb2a14151b93.jpg
+    alt:
+      en: "Aerial view of a marina with storm-damaged boat slips, capsized sailboats, and collapsed boathouse roofs lining the waterfront."
 geo:
 id: 18943
 item_type: Still Image

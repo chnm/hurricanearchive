@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0058-9-25.JPG
     thumb: /files/thumbnails/14fb2a0504d5ec14fb2a0504d9d5.jpg
     url: /files/original/14fb2a0504d5ec14fb2a0504d9d5.jpg
+    alt:
+      en: "Aerial view of a wooded riverbank strewn with debris, with a large white trailer or shipping container partially submerged and tilted in muddy floodwater near the shore."
 geo:
 id: 20691
 item_type: Still Image

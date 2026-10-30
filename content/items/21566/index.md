@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0302-16.JPG
     thumb: /files/thumbnails/14fb29fd84b34714fb29fd84b72b.jpg
     url: /files/original/14fb29fd84b34714fb29fd84b72b.jpg
+    alt:
+      en: "A Caterpillar skid-steer loader driven by a worker in an orange hard hat moves through a mud-covered street, with storm debris, a downed tree, and a damaged house numbered 3925 in the background."
 geo:
 id: 21566
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0170.JPG
     thumb: /files/thumbnails/14fb2a0aacc44d14fb2a0aacc832.jpg
     url: /files/original/14fb2a0aacc44d14fb2a0aacc832.jpg
+    alt:
+      en: "A man in military camouflage sits in a helicopter doorway near a tan dog with its tongue out, standing on grass beside a water bottle."
 geo:
 id: 20217
 item_type: Still Image

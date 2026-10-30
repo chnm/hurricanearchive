@@ -27,6 +27,8 @@ files:
     original_filename: 2380908100_87e014a0e5.
     thumb: /files/thumbnails/14fb29ca47fb3f14fb29ca47ff24.jpg
     url: /files/original/14fb29ca47fb3f14fb29ca47ff24.jpg
+    alt:
+      en: "A radial arm saw and workbench in a cluttered garage workshop, with a gray toolbox beneath the saw and shelves of books and bins nearby."
 geo:
   address: ''
   lat: 30.22894

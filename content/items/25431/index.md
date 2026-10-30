@@ -21,6 +21,8 @@ files:
     original_filename: Under the Superdome 4superdome.jpg
     thumb: /files/thumbnails/14fb29ddd4251414fb29ddd428f9.jpg
     url: /files/original/14fb29ddd4251414fb29ddd428f9.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms help an older man wearing a pink shirt climb down near vehicles in a flooded, shadowed area beneath a building structure."
 geo:
 id: 25431
 item_type: Still Image

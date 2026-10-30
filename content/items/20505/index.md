@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025-20.JPG
     thumb: /files/thumbnails/14fb2a06994a3a14fb2a06994e16.jpg
     url: /files/original/14fb2a06994a3a14fb2a06994e16.jpg
+    alt:
+      en: "A smiling U.S. Army soldier in camouflage fatigues with a name tape reading \"ELLIS\" lifts a glass cake dome at a dessert table set with cookies and brownies under a striped tent."
 geo:
 id: 20505
 item_type: Still Image

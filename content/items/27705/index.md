@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6621_e5689a7503.JPG
     thumb: /files/thumbnails/14fb29d2c875bc14fb29d2c87a21.jpg
     url: /files/original/14fb29d2c875bc14fb29d2c87a21.jpg
+    alt:
+      en: "Six people, including a young girl in a white communion dress, pose together on a lawn in front of a house with large arched windows, May 1978."
 geo:
   address: ''
   lat: 29.95493

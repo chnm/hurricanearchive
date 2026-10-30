@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2231engineers.JPG
     thumb: /files/thumbnails/14fb2a10b04c9b14fb2a10b05084.jpg
     url: /files/original/14fb2a10b04c9b14fb2a10b05084.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms and hard hats use a chainsaw to clear a fallen tree limb from atop a damaged boat, with more fallen branches and debris surrounding the scene."
 geo:
 id: 19372
 item_type: Still Image

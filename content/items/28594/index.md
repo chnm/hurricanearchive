@@ -23,6 +23,8 @@ files:
     original_filename: 162411366_c4e56e8698.jpg
     thumb: /files/thumbnails/14fb29d231a20c14fb29d231a5ee.jpg
     url: /files/original/14fb29d231a20c14fb29d231a5ee.jpg
+    alt:
+      en: "Damaged building with collapsed roof and overhang, overgrown vegetation, and a striped traffic barrel along a debris-strewn street in Lakeshore, New Orleans."
 geo:
 id: 28594
 item_type: Still Image

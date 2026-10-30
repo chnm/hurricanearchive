@@ -21,6 +21,8 @@ files:
     original_filename: P1010006delaware.JPG
     thumb: /files/thumbnails/14fb29f11a9ce414fb29f11aa0c5.jpg
     url: /files/original/14fb29f11a9ce414fb29f11aa0c5.jpg
+    alt:
+      en: "Interior room with folding cots, metal chairs, a duffel bag, small TV, fire extinguisher, and a Pepsi case on a concrete floor near a painted brick wall."
 geo:
 id: 23185
 item_type: Still Image

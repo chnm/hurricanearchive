@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0087-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a036d869414fb2a036d92d5.jpg
     url: /files/original/14fb2a036d869414fb2a036d92d5.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with collapsed, debris-strewn structures scattered among bare trees, bordered by a road and surrounded by standing floodwater."
 geo:
 id: 20828
 item_type: Still Image

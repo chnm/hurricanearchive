@@ -21,6 +21,8 @@ files:
     original_filename: 09140019Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f982869914fb29f9828a80.jpg
     url: /files/original/14fb29f982869914fb29f9828a80.jpg
+    alt:
+      en: "Interior of a car with shattered glass and debris covering the seat and console, a center console holding a Trojan condom box, and plastic grocery bags on the passenger seat."
 geo:
 id: 22108
 item_type: Still Image

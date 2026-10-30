@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0279-9-25.JPG
     thumb: /files/thumbnails/14fb29fe01187e14fb29fe011c2f.jpg
     url: /files/original/14fb29fe01187e14fb29fe011c2f.jpg
+    alt:
+      en: "Aerial view of a flooded residential street with muddy water covering the road, surrounded by houses, trees, utility lines, a boat on a lawn, and a yellow excavator parked nearby."
 geo:
 id: 21507
 item_type: Still Image

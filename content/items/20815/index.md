@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0084-9-25.JPG
     thumb: /files/thumbnails/14fb2a03951c6114fb2a03952133.jpg
     url: /files/original/14fb2a03951c6114fb2a03952133.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with bare, storm-damaged trees, scattered debris, concrete slabs where homes once stood, and a truck with crane equipment near a partially submerged road."
 geo:
 id: 20815
 item_type: Still Image

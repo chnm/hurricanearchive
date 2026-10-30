@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4986_06f7eb0d6d.jpg
     thumb: /files/thumbnails/14fb2a1e1d400614fb2a1e1d43ec.jpg
     url: /files/original/14fb2a1e1d400614fb2a1e1d43ec.jpg
+    alt:
+      en: "Four women in formal attire pose together at an event, three standing in white and black sequined/beaded outfits and one seated in a black and gold beaded dress, with a table number \"011\" visible in the background."
 geo:
 id: 13389
 item_type: Still Image

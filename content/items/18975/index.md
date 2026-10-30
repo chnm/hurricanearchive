@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2137rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13e6f33d14fb2a13e6f831.jpg
     url: /files/original/14fb2a13e6f33d14fb2a13e6f831.jpg
+    alt:
+      en: "Aerial view from a helicopter of two uniformed rescue personnel walking across a shingled rooftop with duffel bags, part of the aircraft's frame visible in the foreground."
 geo:
 id: 18975
 item_type: Still Image

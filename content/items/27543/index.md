@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7113_75fc7e36f9.jpg
     thumb: /files/thumbnails/14fb29d38364e514fb29d3836cb2.jpg
     url: /files/original/14fb29d38364e514fb29d3836cb2.jpg
+    alt:
+      en: "A large, multi-generational family group poses on the front steps and porch of a house, with greenery, a tree, and decorative string lights visible in the background."
 geo:
   address: ''
   lat: 29.87876

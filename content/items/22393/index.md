@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1225Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6c0f31a14fb29f6c0f6fe.jpg
     url: /files/original/14fb29f6c0f31a14fb29f6c0f6fe.jpg
+    alt:
+      en: "Nighttime flood scene with a small boat marked \"LA 1668 PU\" carrying two men near a building, one paddling, surrounded by floating life rings and dark water."
 geo:
 id: 22393
 item_type: Still Image

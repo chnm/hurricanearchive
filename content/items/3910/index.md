@@ -21,6 +21,8 @@ files:
     original_filename: 100_0207.JPG
     thumb: /files/thumbnails/14fb2a58f441a514fb2a58f44584.jpg
     url: /files/original/14fb2a58f441a514fb2a58f44584.jpg
+    alt:
+      en: "A small red boat carrying people in life vests navigates a flooded, tree-lined waterway, with submerged roads and branches arching overhead against a blue sky."
 geo:
 id: 3910
 item_type: Still Image

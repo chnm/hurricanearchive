@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1726superdome.JPG
     thumb: /files/thumbnails/14fb29e221d7f714fb29e221dbdd.jpg
     url: /files/original/14fb29e221d7f714fb29e221dbdd.jpg
+    alt:
+      en: "Medical personnel and soldiers in camouflage uniforms carry a patient on a stretcher with medical equipment and an attached clipboard, while uniformed officials look on in a flooded parking area."
 geo:
 id: 25123
 item_type: Still Image

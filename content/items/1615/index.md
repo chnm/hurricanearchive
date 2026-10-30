@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28090.jpg
     thumb: /files/thumbnails/14fb2a677237a214fb2a677239ea.jpg
     url: /files/original/14fb2a677237a214fb2a677239ea.jpg
+    alt:
+      en: "A large outdoor menorah-shaped light fixture on a concrete pedestal stands beside a palm tree in front of a brick building, with mulch beds in the foreground."
 geo:
   address: ''
   lat: 0.0

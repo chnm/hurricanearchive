@@ -26,6 +26,8 @@ files:
     original_filename: 015_15_cb2311c4cf.jpg
     thumb: /files/thumbnails/14fb2a6dd4464114fb2a6dd44a26.jpg
     url: /files/original/14fb2a6dd4464114fb2a6dd44a26.jpg
+    alt:
+      en: "A small house knocked completely off its foundation and tilted at a steep angle amid scattered debris, with bare trees and other storm-damaged structures in the background."
 geo:
   address: ''
   lat: 0.0

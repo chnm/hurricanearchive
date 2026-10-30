@@ -21,6 +21,8 @@ files:
     original_filename: Picture 006cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0caaea0e14fb2a0caaf7e4.jpg
     url: /files/original/14fb2a0caaea0e14fb2a0caaf7e4.jpg
+    alt:
+      en: "A helicopter flies across a blue sky with scattered clouds, viewed from below with the top of a streetlight visible in the lower left corner."
 geo:
 id: 19910
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9213.jpg
     thumb: /files/thumbnails/14fb2a62e51bc014fb2a62e51f9d.jpg
     url: /files/original/14fb2a62e51bc014fb2a62e51f9d.jpg
+    alt:
+      en: "Flooded coastal lot strewn with scattered debris—appliances, metal sheeting, and rubble—partially submerged in standing water, with a blue van and leveled building foundations visible in the background."
 geo:
 id: 2650
 item_type: Still Image

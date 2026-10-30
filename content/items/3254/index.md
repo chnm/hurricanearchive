@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (19).JPG
     thumb: /files/thumbnails/14fb2a5d0c995e14fb2a5d0c9e2a.jpg
     url: /files/original/14fb2a5d0c995e14fb2a5d0c9e2a.jpg
+    alt:
+      en: "A wide river with two channel marker buoys in the foreground, leading to a low shoreline lined with trees, scattered damaged structures, and debris under a hazy sky."
 geo:
 id: 3254
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2309932815_bca40802d7.
     thumb: /files/thumbnails/14fb29c9a763e414fb29c9a767ca.jpg
     url: /files/original/14fb29c9a763e414fb29c9a767ca.jpg
+    alt:
+      en: "A two-story house raised on pilings stands largely intact amid a field of storm debris, splintered wood, and leaning dead trees along the shoreline."
 geo:
   address: Debbie Ddrive
   lat: 30.22539

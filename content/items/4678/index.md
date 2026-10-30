@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0629.JPG
     thumb: /files/thumbnails/14fb2a5640999114fb2a56409d77.jpg
     url: /files/original/14fb2a5640999114fb2a56409d77.jpg
+    alt:
+      en: "Small white house with a red metal awning roof and shutters, damaged shingled roof above, sits behind a utility pole and trailers, with a white pickup truck parked on the street in front."
 geo:
 id: 4678
 item_type: Still Image

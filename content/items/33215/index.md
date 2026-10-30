@@ -17,6 +17,8 @@ files:
     original_filename: 1266728039_e2d1d2382e.jpg
     thumb: /files/thumbnails/14fb29cb853f3e14fb29cb854329.jpg
     url: /files/original/14fb29cb853f3e14fb29cb854329.jpg
+    alt:
+      en: "Debris from a destroyed building, with exposed wooden framing and insulation, piled in the foreground; a parking lot with vehicles and a green landscape visible in the background."
 geo:
 id: 33215
 item_type: Still Image

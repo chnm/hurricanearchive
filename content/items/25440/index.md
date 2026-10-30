@@ -21,6 +21,8 @@ files:
     original_filename: NO BH view 1.jpg
     thumb: /files/thumbnails/14fb29dda31ad214fb29dda31eb7.jpg
     url: /files/original/14fb29dda31ad214fb29dda31eb7.jpg
+    alt:
+      en: "Aerial view from a helicopter door of a coastal city with a marina full of boats, residential neighborhoods, and open water, with a service member's helmeted head and American flag patch visible in the foreground."
 geo:
 id: 25440
 item_type: Still Image

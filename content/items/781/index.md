@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27852.jpg
     thumb: /files/thumbnails/14fb2a6d116b4614fb2a6d116f2c.jpg
     url: /files/original/14fb2a6d116b4614fb2a6d116f2c.jpg
+    alt:
+      en: "Large oak tree draped with Spanish moss stands in an open grassy field under a clear sky, with smaller trees and a distant rooftop visible in the background."
 geo:
   address: ''
   lat: 0.0

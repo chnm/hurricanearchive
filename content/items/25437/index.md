@@ -21,6 +21,8 @@ files:
     original_filename: Under the Superdomesuperdome.jpg
     thumb: /files/thumbnails/14fb29ddc013b414fb29ddc01a4a.jpg
     url: /files/original/14fb29ddc013b414fb29ddc01a4a.jpg
+    alt:
+      en: "Military trucks with canvas tops parked in deep floodwater beside a building, with a man standing on a railed walkway and a submerged bus visible in the background."
 geo:
 id: 25437
 item_type: Still Image

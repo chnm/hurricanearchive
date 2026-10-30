@@ -26,6 +26,8 @@ files:
     original_filename: Aftermath_of_Katrina_003_0dec2ccf90.jpg
     thumb: /files/thumbnails/14fb2a6d6b5d3e14fb2a6d6b60e4.jpg
     url: /files/original/14fb2a6d6b5d3e14fb2a6d6b60e4.jpg
+    alt:
+      en: "Flood-damaged living room with extensive mold staining walls, overturned and ruined upholstered furniture, debris-covered floor, and a brick fireplace visible at right."
 geo:
   address: ''
   lat: 30.009063

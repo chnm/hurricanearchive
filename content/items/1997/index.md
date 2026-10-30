@@ -26,6 +26,8 @@ files:
     original_filename: 010_10_93b15c8031.jpg
     thumb: /files/thumbnails/14fb2a6ddbfe5114fb2a6ddc0235.jpg
     url: /files/original/14fb2a6ddbfe5114fb2a6ddc0235.jpg
+    alt:
+      en: "Collapsed single-story house with its roof caved inward, surrounded by scattered wooden debris and a chain-link fence, bare trees in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

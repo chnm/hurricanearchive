@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1230Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6bc805414fb29f6bc8439.jpg
     url: /files/original/14fb29f6bc805414fb29f6bc8439.jpg
+    alt:
+      en: "Hazy, dim photograph showing a utility pole or antenna structure silhouetted against an overcast sky, with blurred foliage in the foreground."
 geo:
 id: 22398
 item_type: Still Image

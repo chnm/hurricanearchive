@@ -24,6 +24,8 @@ files:
     original_filename: P1010010.JPG
     thumb: /files/thumbnails/14fb2a5bb0ee1314fb2a5bb0f058.jpg
     url: /files/original/14fb2a5bb0ee1314fb2a5bb0f058.jpg
+    alt:
+      en: "A large fallen tree leans across a backyard against a wooden fence, with a handwritten sign taped to the trunk reading \"NO TREE CUTTERS NEEDED, Don't bother to ask,\" a shovel and branches lying in the grass nearby."
 geo:
 id: 3443
 item_type: Still Image

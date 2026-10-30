@@ -21,6 +21,8 @@ files:
     original_filename: 20050904MS-EO A1147-RC-26B ORLEANS PARISH HURRICANE KATRINA.jpg
     thumb: /files/thumbnails/14fb29fb79358014fb29fb79395d.jpg
     url: /files/original/14fb29fb79358014fb29fb79395d.jpg
+    alt:
+      en: "Black-and-white aerial reconnaissance photo of Lake Forest Mall in Orleans Parish near I-10 and Read Blvd, showing the mall complex, parking lots, and surrounding buildings, labeled \"UNCLASSIFIED.\""
 geo:
 id: 21825
 item_type: Still Image

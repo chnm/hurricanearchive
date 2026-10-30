@@ -24,6 +24,8 @@ files:
     original_filename: P1010071.JPG
     thumb: /files/thumbnails/14fb2a5b699b9114fb2a5b699f76.jpg
     url: /files/original/14fb2a5b699b9114fb2a5b699f76.jpg
+    alt:
+      en: "Arched wooden double door at 2319 Prentiss Ave, spray-painted with \"HSUS,\" \"F/W,\" \"Get in,\" and a circled note reading \"10/4 CAT RESCD,\" marking a hurricane animal rescue."
 geo:
 id: 3497
 item_type: Still Image

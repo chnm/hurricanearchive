@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AlisenReed_02_d9a1bae429.jpg
     thumb: /files/thumbnails/14fb2a1838aaf714fb2a1838aea5.jpg
     url: /files/original/14fb2a1838aaf714fb2a1838aea5.jpg
+    alt:
+      en: "Four children in formal attire—three girls in dresses and a boy in a suit—stand together on a porch, with an American flag, a basketball hoop, and houses visible behind them."
 geo:
 id: 14681
 item_type: Still Image

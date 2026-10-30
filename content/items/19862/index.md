@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d1a399a14fb2a0d1a3dee.jpg
     url: /files/original/14fb2a0d1a399a14fb2a0d1a3dee.jpg
+    alt:
+      en: "A line of people in navy t-shirts and jeans, led by a man in military camouflage, walks along a gravel path past portable toilets, construction materials, and a wooded tree line in the background."
 geo:
 id: 19862
 item_type: Still Image

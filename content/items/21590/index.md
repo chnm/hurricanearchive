@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0324-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd50fdbe14fb29fd5101d0.jpg
     url: /files/original/14fb29fd50fdbe14fb29fd5101d0.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with houses submerged nearly to their rooflines, surrounded by trees and brush poking above the brown floodwater."
 geo:
 id: 21590
 item_type: Still Image

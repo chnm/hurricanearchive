@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0278.JPG
     thumb: /files/thumbnails/14fb29fe0abc3314fb29fe0ac018.jpg
     url: /files/original/14fb29fe0abc3314fb29fe0ac018.jpg
+    alt:
+      en: "Aerial view of a dense above-ground cemetery with rows of white and gray stone mausoleums and tombs arranged in a grid, bordered by a perimeter wall and adjacent streets."
 geo:
 id: 21504
 item_type: Still Image

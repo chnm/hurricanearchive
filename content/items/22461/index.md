@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1302Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f65b236014fb29f65b2746.jpg
     url: /files/original/14fb29f65b236014fb29f65b2746.jpg
+    alt:
+      en: "Floodwater submerges a yard, rising to the base of a lamppost's lantern and partway up tree trunks, with rooftops visible in the background under a gray, rainy sky."
 geo:
 id: 22461
 item_type: Still Image

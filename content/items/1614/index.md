@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28757.jpg
     thumb: /files/thumbnails/14fb2a6772f17814fb2a6772f55d.jpg
     url: /files/original/14fb2a6772f17814fb2a6772f55d.jpg
+    alt:
+      en: "Large open-sided metal pavilion sheltering supplies, animal carriers, and trash bags, with workers sorting donated goods under a tent and canopy at the Lamar-Dixon Fairgrounds animal rescue depot."
 geo:
   address: ''
   lat: 0.0

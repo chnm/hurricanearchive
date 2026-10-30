@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0091cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef95f80b14fb29ef964d34.jpg
     url: /files/original/14fb29ef95f80b14fb29ef964d34.jpg
+    alt:
+      en: "Aerial view of extensively flooded farmland and marsh, with geometric fields submerged under water, scattered buildings, roads, and a winding waterway under a hazy sky."
 geo:
 id: 23407
 item_type: Still Image

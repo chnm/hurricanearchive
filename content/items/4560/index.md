@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0762.JPG
     thumb: /files/thumbnails/14fb2a5700eff514fb2a5700f3d0.jpg
     url: /files/original/14fb2a5700eff514fb2a5700f3d0.jpg
+    alt:
+      en: "A roadside tree line with broken and stripped pines, debris scattered along the ground beneath them, likely storm damage from a hurricane."
 geo:
 id: 4560
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 217 roofing.jpg
     thumb: /files/thumbnails/14fb2a1f34451b14fb2a1f345d40.jpg
     url: /files/original/14fb2a1f34451b14fb2a1f345d40.jpg
+    alt:
+      en: "Damaged metal roofing panels peeled back and curled, exposing the underlying structure, with a brick building and sidewalk visible in the background."
 geo:
 id: 13222
 item_type: Still Image

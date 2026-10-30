@@ -21,6 +21,8 @@ files:
     original_filename: 09140021Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f980f39014fb29f980f8fc.jpg
     url: /files/original/14fb29f980f39014fb29f980f8fc.jpg
+    alt:
+      en: "Military generator equipment labeled \"SEG 04\" sits in a debris-strewn lot beside a brick building, with parked SUVs and scattered trash lining the street toward distant trees."
 geo:
 id: 22110
 item_type: Still Image

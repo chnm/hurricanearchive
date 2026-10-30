@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0131gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cd8262214fb2a0cd82a07.jpg
     url: /files/original/14fb2a0cd8262214fb2a0cd82a07.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms, one with an American flag patch, study a large wall map labeled \"New Orleans & Vicinity\" marked with pink location tabs and the handwritten label \"G2.\""
 geo:
 id: 19894
 item_type: Still Image

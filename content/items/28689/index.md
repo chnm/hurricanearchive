@@ -23,6 +23,8 @@ files:
     original_filename: 118651857_d01965f8f6.jpg
     thumb: /files/thumbnails/14fb29d1bace2b14fb29d1bad210.jpg
     url: /files/original/14fb29d1bace2b14fb29d1bad210.jpg
+    alt:
+      en: "Damaged glass high-rise building with missing panels, school buses and parked cars in a lot, two men walking on grass, and street signs reading \"Lake Charles Civic Center,\" \"Port of Lake Charles,\" and \"One Way.\""
 geo:
 id: 28689
 item_type: Still Image

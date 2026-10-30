@@ -24,6 +24,8 @@ files:
     original_filename: 4_dbd569eb3c.jpg
     thumb: /files/thumbnails/14fb29d394a7e714fb29d394abcb.jpg
     url: /files/original/14fb29d394a7e714fb29d394abcb.jpg
+    alt:
+      en: "A girl wearing a climbing harness ascends a wooden Jacob's ladder, gripping the rungs with her legs wrapped around the frame, set against a dark indoor climbing wall."
 geo:
   address: ''
   lat: 29.87876

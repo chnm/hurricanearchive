@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8928.jpg
     thumb: /files/thumbnails/14fb2a6536cca014fb2a6536cf11.jpg
     url: /files/original/14fb2a6536cca014fb2a6536cf11.jpg
+    alt:
+      en: "A hydraulic grapple crane lowers a crushed refrigerator onto a large pile of discarded appliances at an outdoor debris site, with trees and a hazy sky in the background."
 geo:
 id: 2565
 item_type: Still Image

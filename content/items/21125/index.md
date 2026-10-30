@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0181-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a006deaa214fb2a006dee86.jpg
     url: /files/original/14fb2a006deaa214fb2a006dee86.jpg
+    alt:
+      en: "Two men stand outside a storm-damaged brick house with crumbling walls and scattered bricks, one wearing overalls and a cap, the other in a striped shirt and cap."
 geo:
 id: 21125
 item_type: Still Image

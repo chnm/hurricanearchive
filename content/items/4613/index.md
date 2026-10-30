@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0039.JPG
     thumb: /files/thumbnails/14fb2a56c08a7a14fb2a56c08e66.jpg
     url: /files/original/14fb2a56c08a7a14fb2a56c08e66.jpg
+    alt:
+      en: "Storm-damaged brick house with a section of roof and fascia torn away near the corner, surrounded by fallen tree limbs and debris scattered across the yard."
 geo:
 id: 4613
 item_type: Still Image

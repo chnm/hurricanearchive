@@ -26,6 +26,8 @@ files:
     original_filename: Ex_levee_orleans_levee_board_presidents_home_c67333bbdb.JPG
     thumb: /files/thumbnails/14fb2a6eba5dee14fb2a6eba61ce.jpg
     url: /files/original/14fb2a6eba5dee14fb2a6eba61ce.jpg
+    alt:
+      en: "Floodwater surrounds a large cream-colored house behind a gated wall, with tree branches and debris floating in the water and the hood of a red vehicle visible in the foreground."
 geo:
   address: ''
   lat: 29.9796951060607

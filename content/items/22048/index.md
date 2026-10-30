@@ -21,6 +21,8 @@ files:
     original_filename: Picture 379-J2.jpg
     thumb: /files/thumbnails/14fb29f9d64aad14fb29f9d64e91.jpg
     url: /files/original/14fb29f9d64aad14fb29f9d64e91.jpg
+    alt:
+      en: "A man in a tan T-shirt and camouflage pants sits on a small red chair in a warehouse-like space filled with folding tables, storage bins, a tripod work light, a stacked fan unit, and a camouflage jacket draped nearby."
 geo:
 id: 22048
 item_type: Still Image

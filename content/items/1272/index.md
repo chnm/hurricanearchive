@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27862.jpg
     thumb: /files/thumbnails/14fb2a69ec4b5b14fb2a69ec9583.jpg
     url: /files/original/14fb2a69ec4b5b14fb2a69ec9583.jpg
+    alt:
+      en: "A man stands in floodwater outside a raised house, wearing a T-shirt reading \"WE WANT WATER FREE,\" with a chain-link fence and partially submerged yard items around him."
 geo:
   address: ''
   lat: 0.0

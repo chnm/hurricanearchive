@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 034.jpg
     thumb: /files/thumbnails/14fb2a22bf378b14fb2a22bf3b71.jpg
     url: /files/original/14fb2a22bf378b14fb2a22bf3b71.jpg
+    alt:
+      en: "Storm-damaged commercial building with a partially torn-off metal roof, surrounded by scattered debris and wreckage across an empty parking lot; trees nearby remain stripped of leaves."
 geo:
 id: 11912
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0039.JPG
     thumb: /files/thumbnails/14fb2a575e8af114fb2a575e8ed4.jpg
     url: /files/original/14fb2a575e8af114fb2a575e8ed4.jpg
+    alt:
+      en: "Damaged metal warehouse buildings with buckled siding, surrounded by scattered debris, scrap metal, and rubble under a clear blue sky, photographed from inside a vehicle."
 geo:
 id: 4153
 item_type: Still Image

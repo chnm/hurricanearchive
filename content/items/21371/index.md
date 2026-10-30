@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0239-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff1a7dd314fb29ff1a8177.jpg
     url: /files/original/14fb29ff1a7dd314fb29ff1a8177.jpg
+    alt:
+      en: "Aerial view of a flooded industrial facility with storage tanks, pipelines, and spherical containers surrounded by standing floodwater under an overcast sky, with rural fields in the background."
 geo:
 id: 21371
 item_type: Still Image

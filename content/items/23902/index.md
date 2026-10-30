@@ -21,6 +21,8 @@ files:
     original_filename: picture 8stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec7382e514fb29ec7386cb.jpg
     url: /files/original/14fb29ec7382e514fb29ec7386cb.jpg
+    alt:
+      en: "Two damaged metal buildings labeled \"Mr. Perry's Adult Superstore\" and \"Planet X,\" surrounded by debris and scattered vehicles under a clear sky, with an empty road in the foreground."
 geo:
 id: 23902
 item_type: Still Image

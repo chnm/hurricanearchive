@@ -21,6 +21,8 @@ files:
     original_filename: 13.jpg
     thumb: /files/thumbnails/14fb2a6077f88814fb2a6077fc64.jpg
     url: /files/original/14fb2a6077f88814fb2a6077fc64.jpg
+    alt:
+      en: "Child's crayon drawing labeled \"Domonique, 12\" depicting a strip mall with \"Super Target,\" a \"Sonic\" sign, a trash can, and a \"Jack in the Box\" sign, under a sun and blue sky."
 geo:
 id: 2707
 item_type: Still Image

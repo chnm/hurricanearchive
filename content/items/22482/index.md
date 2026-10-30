@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1323Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f60889ac14fb29f6088d8e.jpg
     url: /files/original/14fb29f60889ac14fb29f6088d8e.jpg
+    alt:
+      en: "Floodwaters nearly submerge houses, with a detached roof floating in the foreground and another structure tilted on its side, under a stormy gray sky with damaged trees and power lines."
 geo:
 id: 22482
 item_type: Still Image

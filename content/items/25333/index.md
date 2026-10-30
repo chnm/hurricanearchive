@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2060superdome.JPG
     thumb: /files/thumbnails/14fb29defeb04b14fb29defeb80b.jpg
     url: /files/original/14fb29defeb04b14fb29defeb80b.jpg
+    alt:
+      en: "Two people in camouflage military uniforms support a man in a blue shirt between them as they walk through a crowd, with other people visible in the background."
 geo:
 id: 25333
 item_type: Still Image

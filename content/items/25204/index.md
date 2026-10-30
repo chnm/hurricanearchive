@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1888superdome.JPG
     thumb: /files/thumbnails/14fb29e0f83a6214fb29e0f83e47.jpg
     url: /files/original/14fb29e0f83a6214fb29e0f83e47.jpg
+    alt:
+      en: "Aerial view of the Superdome in New Orleans with large sections of its roof stripped away, surrounded by downtown high-rises, parking lots, standing floodwater, and a nearby highway overpass."
 geo:
 id: 25204
 item_type: Still Image

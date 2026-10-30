@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0069ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a14e7b66514fb2a14e7ba49.jpg
     url: /files/original/14fb2a14e7b66514fb2a14e7ba49.jpg
+    alt:
+      en: "Aerial view of a flat residential neighborhood with rows of small houses amid bare trees, scattered debris, and open lots, with an industrial smokestack and plant visible on the hazy horizon."
 geo:
 id: 18852
 item_type: Still Image

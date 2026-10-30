@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2012superdome.JPG
     thumb: /files/thumbnails/14fb29df64130414fb29df647cab.jpg
     url: /files/original/14fb29df64130414fb29df647cab.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms carry a wrapped child and assist an elderly woman across a wet parking lot near an \"Acadian Shuttle\" van, with other evacuees and luggage nearby."
 geo:
 id: 25285
 item_type: Still Image

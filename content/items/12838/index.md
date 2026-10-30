@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward 9-18-3.JPG
     thumb: /files/thumbnails/14fb2a2192435114fb2a21924737.jpg
     url: /files/original/14fb2a2192435114fb2a21924737.jpg
+    alt:
+      en: "Damaged single-story house with a partially torn-off roof, surrounded by scattered debris, downed branches, and a discarded television in the yard."
 geo:
 id: 12838
 item_type: Still Image

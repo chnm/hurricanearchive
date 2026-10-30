@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.091.JPG
     thumb: /files/thumbnails/14fb29dceac15814fb29dceac53c.jpg
     url: /files/original/14fb29dceac15814fb29dceac53c.jpg
+    alt:
+      en: "Exterior of a raised pink house with peeling paint, \"SURVIVOR\" hand-painted in white letters on the siding, surrounded by exposed utility meters, pipes, and wiring beneath the structure."
 geo:
 id: 25646
 item_type: Still Image

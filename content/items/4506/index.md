@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0718.JPG
     thumb: /files/thumbnails/14fb2a571e3c4a14fb2a571e402f.jpg
     url: /files/original/14fb2a571e3c4a14fb2a571e402f.jpg
+    alt:
+      en: "Elevated white house raised on tall wooden stilts, with broken windows and an open gable, likely damaged by storm surge, surrounded by bare trees and dirt ground."
 geo:
 id: 4506
 item_type: Still Image

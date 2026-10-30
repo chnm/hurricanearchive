@@ -26,6 +26,8 @@ files:
     original_filename: Mississippi_Etc_021_334fdeb4f6.jpg
     thumb: /files/thumbnails/14fb2a6fb4810414fb2a6fb484f0.jpg
     url: /files/original/14fb2a6fb4810414fb2a6fb484f0.jpg
+    alt:
+      en: "A solitary brick mailbox pillar stands intact amid a cleared, debris-strewn lot, with bare and storm-damaged trees and a vacant coastal landscape in the background."
 geo:
   address: ''
   lat: 29.938343

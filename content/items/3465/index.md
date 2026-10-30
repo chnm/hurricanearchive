@@ -24,6 +24,8 @@ files:
     original_filename: P1010035.JPG
     thumb: /files/thumbnails/14fb2a5b9ab9a714fb2a5b9abd84.jpg
     url: /files/original/14fb2a5b9ab9a714fb2a5b9abd84.jpg
+    alt:
+      en: "A yellow Kobelco excavator with a grapple claw works beside a massive pile of storm debris—branches, logs, and uprooted trees—stacked high against the sky."
 geo:
 id: 3465
 item_type: Still Image

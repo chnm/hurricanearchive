@@ -21,6 +21,8 @@ files:
     original_filename: Stranded at Jackson BarracksJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f3ad31f114fb29f3ad35db.jpg
     url: /files/original/14fb29f3ad31f114fb29f3ad35db.jpg
+    alt:
+      en: "Three men stand on a flooded two-story balcony of a white building, one waving, as dark floodwater fills the ground-level courtyard below; damaged roof shingles visible on the building beyond."
 geo:
 id: 22797
 item_type: Still Image

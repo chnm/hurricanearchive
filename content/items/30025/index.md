@@ -24,12 +24,16 @@ files:
     original_filename: pics+2006-07+129_fd26051f5e.jpg
     thumb: /files/thumbnails/14fb29ce0947be14fb29ce094c8c.jpg
     url: /files/original/14fb29ce0947be14fb29ce094c8c.jpg
+    alt:
+      en: "A large white Mack truck tows a yellow house with a screened porch down a road, as a man in an orange vest walks alongside, with bare trees and a cloudy sky in the background."
   - fullsize: /files/fullsize/14fb29ce07934f14fb29ce07972b.jpg
     id: 23756
     mime: image/jpeg
     original_filename: pics+2006-07+130_b6eb63fd1f.jpg
     thumb: /files/thumbnails/14fb29ce07934f14fb29ce07972b.jpg
     url: /files/original/14fb29ce07934f14fb29ce07972b.jpg
+    alt:
+      en: "A pale yellow wood-frame house with a screened porch is lifted onto a flatbed trailer marked \"Davie Shoring & Moving, Louisiana Building Movers\" for relocation down a residential street."
 geo:
 id: 30025
 item_type: Still Image

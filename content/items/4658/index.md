@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0587.JPG
     thumb: /files/thumbnails/14fb2a5666e88314fb2a5666ec68.jpg
     url: /files/original/14fb2a5666e88314fb2a5666ec68.jpg
+    alt:
+      en: "Debris field with scattered building materials, broken furniture, and a partial brick foundation surrounds storm-damaged trees, with orange safety fencing and vehicles visible in the background."
 geo:
 id: 4658
 item_type: Still Image

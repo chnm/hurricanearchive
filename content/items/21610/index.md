@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0343-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd1ec0a014fb29fd1f320d.jpg
     url: /files/original/14fb29fd1ec0a014fb29fd1f320d.jpg
+    alt:
+      en: "Aerial view of extensive flooding over farmland, with tree lines and hedgerows marking submerged field boundaries and a single white-roofed structure surrounded by floodwater in the foreground."
 geo:
 id: 21610
 item_type: Still Image

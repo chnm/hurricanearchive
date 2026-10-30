@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 099.jpg
     thumb: /files/thumbnails/14fb2a12070c8914fb2a12071853.jpg
     url: /files/original/14fb2a12070c8914fb2a12071853.jpg
+    alt:
+      en: "A STOP sign stands amid storm debris and mud-covered ground at a street corner, with a fallen tree, bare branches, and damaged buildings visible in the background."
 geo:
 id: 19189
 item_type: Still Image

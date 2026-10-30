@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1848Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f54917dc14fb29f5491bb8.jpg
     url: /files/original/14fb29f54917dc14fb29f5491bb8.jpg
+    alt:
+      en: "Aerial view of brick buildings with gray shingled roofs surrounded by floodwater, with debris, a submerged dock, and ladders leaning against exterior walls visible below."
 geo:
 id: 22559
 item_type: Still Image

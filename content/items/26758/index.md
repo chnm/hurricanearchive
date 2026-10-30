@@ -24,6 +24,8 @@ files:
     original_filename: SW 1970 men_bf6e609b49.jpg
     thumb: /files/thumbnails/14fb29d7e96dcd14fb29d7e971cb.jpg
     url: /files/original/14fb29d7e96dcd14fb29d7e971cb.jpg
+    alt:
+      en: "Aged, water-stained photograph of a man and young boy standing together indoors in front of floral curtains; handwritten caption at the bottom reads \"Melvin & Son.\""
 geo:
   address: ''
   lat: 29.95493

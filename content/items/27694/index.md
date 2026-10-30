@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6720_5d26dd63c9.JPG
     thumb: /files/thumbnails/14fb29d2d5f10714fb29d2d5f450.jpg
     url: /files/original/14fb29d2d5f10714fb29d2d5f450.jpg
+    alt:
+      en: "Two young boys in matching \"Babe Ruth\" baseball uniforms with striped knee socks and caps stand smiling side by side in front of a leafy bush."
 geo:
   address: ''
   lat: 29.91685

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0133-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a02d2cd8114fb2a02d2d15f.jpg
     url: /files/original/14fb2a02d2cd8114fb2a02d2d15f.jpg
+    alt:
+      en: "Aerial view of murky floodwater with a stranded truck and debris near a partially submerged structure, scattered posts visible in the water nearby."
 geo:
 id: 20854
 item_type: Still Image

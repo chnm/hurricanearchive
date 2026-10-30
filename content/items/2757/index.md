@@ -21,6 +21,8 @@ files:
     original_filename: 52.jpg
     thumb: /files/thumbnails/14fb2a60509c3514fb2a6050a022.jpg
     url: /files/original/14fb2a60509c3514fb2a6050a022.jpg
+    alt:
+      en: "Child's crayon drawing of a boat with figures reeling in a shark, near an island with a palm tree and an X mark, labeled \"shark,\" \"3-D tv,\" and \"Power\" with arrow symbols."
 geo:
 id: 2757
 item_type: Still Image

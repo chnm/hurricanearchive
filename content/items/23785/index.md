@@ -21,6 +21,8 @@ files:
     original_filename: PICT0881neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed12bf9414fb29ed12c379.jpg
     url: /files/original/14fb29ed12bf9414fb29ed12c379.jpg
+    alt:
+      en: "Brick church facade with a large rose window and arched entrances, three vehicles parked out front on a muddy lot, dated 09.15.2005."
 geo:
 id: 23785
 item_type: Still Image

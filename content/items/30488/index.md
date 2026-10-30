@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0332_290e1eeead.JPG
     thumb: /files/thumbnails/14fb29ccf8e1f014fb29ccf8e5a5.jpg
     url: /files/original/14fb29ccf8e1f014fb29ccf8e5a5.jpg
+    alt:
+      en: "Rounded high-rise hotel building with a \"HOTEL $49\" sign atop, showing storm damage including broken windows and exposed interior structure on one of the upper floors."
 geo:
   address: Westbank Expressway
   lat: 0.0

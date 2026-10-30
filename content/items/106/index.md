@@ -26,6 +26,8 @@ files:
     original_filename: nopd_1c8157591f.jpg
     thumb: /files/thumbnails/14fb2a7109f9d414fb2a7109fdba.jpg
     url: /files/original/14fb2a7109f9d414fb2a7109fdba.jpg
+    alt:
+      en: "A nearly submerged vehicle floats in floodwater with only its yellow roof visible, surrounded by a partially flooded urban area with buildings and light poles in the background."
 geo:
   address: ''
   lat: 29.878755346037998
