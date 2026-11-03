@@ -21,6 +21,8 @@ files:
     original_filename: PICT0081neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed3369e614fb29ed336dca.jpg
     url: /files/original/14fb29ed3369e614fb29ed336dca.jpg
+    alt:
+      en: "Elevated view from a highway overpass of a quiet town with low buildings, a church steeple, trees, and empty streets, dated 09.15.2005 in the corner."
 geo:
 id: 23767
 item_type: Still Image

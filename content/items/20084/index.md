@@ -21,6 +21,8 @@ files:
     original_filename: Picture 181cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b66e9d214fb2a0b66edb7.jpg
     url: /files/original/14fb2a0b66e9d214fb2a0b66edb7.jpg
+    alt:
+      en: "Flooded neighborhood with submerged homes and trees seen beyond railroad tracks, viewed from a bridge with metal guardrails in the foreground under a partly cloudy sky."
 geo:
 id: 20084
 item_type: Still Image

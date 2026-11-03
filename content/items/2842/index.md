@@ -21,6 +21,8 @@ files:
     original_filename: MVC-033S.JPG
     thumb: /files/thumbnails/14fb2a5fe1a0de14fb2a5fe1a4c2.jpg
     url: /files/original/14fb2a5fe1a0de14fb2a5fe1a4c2.jpg
+    alt:
+      en: "Close-up of a severely damaged, rusted metal structure with torn and exposed internal framework, set against a clear blue sky; a bridge railing is visible in the background."
 geo:
 id: 2842
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: machine03l-9_92bd15e07a.jpg
     thumb: /files/thumbnails/14fb2a171c8d6714fb2a171c9146.jpg
     url: /files/original/14fb2a171c8d6714fb2a171c9146.jpg
+    alt:
+      en: "A metal vise holds a small plate engraved with the Nunez Community College seal, reading \"Nunez Community College, Chalmette, 1992, Louisiana\" along with \"Humanities, Arts, Technology, Science, Business.\""
 geo:
 id: 15105
 item_type: Still Image

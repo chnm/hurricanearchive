@@ -21,6 +21,8 @@ files:
     original_filename: DSC01129.JPG
     thumb: /files/thumbnails/14fb2a586e7def14fb2a586e97fe.jpg
     url: /files/original/14fb2a586e7def14fb2a586e97fe.jpg
+    alt:
+      en: "A residential street submerged in floodwater, with houses partially underwater and large trees rising from the flood; a timestamp overlay reads \"6 12:17 PM.\""
 geo:
 id: 4020
 item_type: Still Image

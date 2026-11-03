@@ -21,6 +21,8 @@ files:
     original_filename: P1010189empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed4a277314fb29ed4a2b4e.jpg
     url: /files/original/14fb29ed4a277314fb29ed4a2b4e.jpg
+    alt:
+      en: "A paved road with dark tire skid marks and scattered debris, flanked by storm-damaged, burned vegetation and scattered wreckage along the roadside."
 geo:
 id: 23748
 item_type: Still Image

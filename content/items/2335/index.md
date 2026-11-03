@@ -26,6 +26,8 @@ files:
     original_filename: 100_1237_f7fbf8cbb3.JPG
     thumb: /files/thumbnails/14fb2a6d4b050e14fb2a6d4b0cb2.jpg
     url: /files/original/14fb2a6d4b050e14fb2a6d4b0cb2.jpg
+    alt:
+      en: "A damaged Motel 6 hotel tower with two illuminated signs, its exterior stripped to exposed framing near the top, stands beside the building's intact lower floors and a streetlight."
 geo:
   address: ''
   lat: 30.4443079816539

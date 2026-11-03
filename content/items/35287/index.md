@@ -18,6 +18,8 @@ files:
     original_filename: 23_6d59fd4a16.jpg
     thumb: /files/thumbnails/14fb29c70adaad14fb29c70ade8d.jpg
     url: /files/original/14fb29c70adaad14fb29c70ade8d.jpg
+    alt:
+      en: "Woman in elaborate carnival costume with white wig, silver mask, red velvet corset, and long silver gloves poses before a large tinsel-and-fabric headdress at a parade, with a man in a red vest and silver helmet nearby."
 geo:
   address: new orleans, la
   lat: 29.95324

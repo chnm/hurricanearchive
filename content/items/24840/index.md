@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2180superdome.JPG
     thumb: /files/thumbnails/14fb29e47420f314fb29e47424b2.jpg
     url: /files/original/14fb29e47420f314fb29e47424b2.jpg
+    alt:
+      en: "Nighttime scene of two soldiers in camouflage uniforms sorting through large stacks of cardboard supply boxes, with an empty shopping cart nearby and a brick building to the right."
 geo:
 id: 24840
 item_type: Still Image

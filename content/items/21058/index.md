@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0409crop.jpg
     thumb: /files/thumbnails/14fb2a00d2c38f14fb2a00d2c775.jpg
     url: /files/original/14fb2a00d2c38f14fb2a00d2c775.jpg
+    alt:
+      en: "A U.S. Army soldier wearing camouflage fatigues and dark protective goggles sits inside a helicopter, looking out the open door toward a grassy field and trees in the background."
 geo:
 id: 21058
 item_type: Still Image

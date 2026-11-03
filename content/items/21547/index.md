@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0291-9-25.JPG
     thumb: /files/thumbnails/14fb29fda9e0c314fb29fda9e502.jpg
     url: /files/original/14fb29fda9e0c314fb29fda9e502.jpg
+    alt:
+      en: "Aerial view (rotated sideways) of floodwaters surrounding a neighborhood, with a red-roofed building, scattered trees, power lines, and submerged streets visible."
 geo:
 id: 21547
 item_type: Still Image

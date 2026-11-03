@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0216.JPG
     thumb: /files/thumbnails/14fb2a5506ca3714fb2a5506cfae.jpg
     url: /files/original/14fb2a5506ca3714fb2a5506cfae.jpg
+    alt:
+      en: "Debris field with scattered dried pine branches, leaves, and a white PVC pipe near a concrete block; a yellow tape measure runs vertically along the right edge."
 geo:
 id: 4897
 item_type: Still Image

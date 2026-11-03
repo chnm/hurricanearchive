@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28105.jpg
     thumb: /files/thumbnails/14fb2a6961347c14fb2a69613868.jpg
     url: /files/original/14fb2a6961347c14fb2a69613868.jpg
+    alt:
+      en: "A sailboat with its mast tilted sits grounded on a rocky breakwater, with a smaller boat nearby, against a calm expanse of water and sky."
 geo:
   address: ''
   lat: 0.0

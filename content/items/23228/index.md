@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 20.jpg
     thumb: /files/thumbnails/14fb29f0977ff014fb29f09783d6.jpg
     url: /files/original/14fb29f0977ff014fb29f09783d6.jpg
+    alt:
+      en: "Satellite weather map showing a large hurricane with a defined eye over the Gulf of Mexico, timestamped 28 Aug 2005 18:22 GMT, with a Weather Channel logo in the corner."
 geo:
 id: 23228
 item_type: Still Image

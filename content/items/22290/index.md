@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1101Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7ebb0b814fb29f7ebb4a8.jpg
     url: /files/original/14fb29f7ebb0b814fb29f7ebb4a8.jpg
+    alt:
+      en: "Murky floodwater covers the ground, littered with debris including a blue cooler, white bucket, red container, and a partially submerged vehicle visible beneath the surface."
 geo:
 id: 22290
 item_type: Still Image

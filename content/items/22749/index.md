@@ -21,6 +21,8 @@ files:
     original_filename: PICT0872Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f439a68a14fb29f439aa66.jpg
     url: /files/original/14fb29f439a68a14fb29f439aa66.jpg
+    alt:
+      en: "Brick building with a large section of collapsed roof and wall, exposing debris and cinder blocks, surrounded by muddy ground, bare trees, and standing water; dated 09.15.2005."
 geo:
 id: 22749
 item_type: Still Image

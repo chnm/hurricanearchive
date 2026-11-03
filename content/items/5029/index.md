@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0374.JPG
     thumb: /files/thumbnails/14fb2a545653c114fb2a54565ca7.jpg
     url: /files/original/14fb2a545653c114fb2a54565ca7.jpg
+    alt:
+      en: "Cleared lot with only a skeletal wooden frame of a structure remaining, surrounded by scattered debris, a dirt driveway, and tall damaged pine trees under an overcast sky."
 geo:
 id: 5029
 item_type: Still Image

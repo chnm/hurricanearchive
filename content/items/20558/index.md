@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a062ccfc014fb2a062cd4b3.jpg
     url: /files/original/14fb2a062ccfc014fb2a062cd4b3.jpg
+    alt:
+      en: "Three men ride a red International Harvester \"Turbo\" farm tractor through floodwaters on a road, with bare trees and submerged land visible in the background."
 geo:
 id: 20558
 item_type: Still Image

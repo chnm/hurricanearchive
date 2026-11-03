@@ -20,6 +20,8 @@ files:
     original_filename: Lakeview 5.JPG
     thumb: /files/thumbnails/14fb29d59c009114fb29d59c0474.jpg
     url: /files/original/14fb29d59c009114fb29d59c0474.jpg
+    alt:
+      en: "Severely damaged single-story house with a partially collapsed roof and scattered debris in the yard, spray-painted search markings on the siding, under an overcast sky with utility towers in the background."
 geo:
 id: 27257
 item_type: Still Image

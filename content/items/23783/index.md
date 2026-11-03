@@ -21,6 +21,8 @@ files:
     original_filename: PICT0879neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed142ac814fb29ed142eae.jpg
     url: /files/original/14fb29ed142ac814fb29ed142eae.jpg
+    alt:
+      en: "Empty city street lined with parked vehicles and trees, multi-story buildings and traffic signals in the background, with the date \"09.15.2005\" stamped in the corner."
 geo:
 id: 23783
 item_type: Still Image

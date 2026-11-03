@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0542.JPG
     thumb: /files/thumbnails/14fb2a537bbd0214fb2a537bc0df.jpg
     url: /files/original/14fb2a537bbd0214fb2a537bc0df.jpg
+    alt:
+      en: "Damaged wooden pergola or structure frame with torn chicken wire mesh hanging from the beams, set against a clear blue sky with a cleared, debris-strewn lot visible in the background."
 geo:
 id: 5180
 item_type: Still Image

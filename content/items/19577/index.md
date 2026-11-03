@@ -21,6 +21,8 @@ files:
     original_filename: S4300031zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0efbdb1514fb2a0efbdefb.jpg
     url: /files/original/14fb2a0efbdb1514fb2a0efbdefb.jpg
+    alt:
+      en: "A sign affixed to a metal tank reads \"POTABLE WATER 2600 GAL.\" with a faucet and water droplet icon, plus \"B.F.P.S. SUPPORT SERVICES NM/MT\" below."
 geo:
 id: 19577
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 133cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b9af5b514fb2a0b9af99a.jpg
     url: /files/original/14fb2a0b9af5b514fb2a0b9af99a.jpg
+    alt:
+      en: "Two large boats, named \"Breeze Rooster,\" sit stranded on dry land amid grass, tilted at odd angles near a utility pole, with industrial silos and houses visible in the background."
 geo:
 id: 20036
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1889superdome.JPG
     thumb: /files/thumbnails/14fb29e0f7167114fb29e0f7197f.jpg
     url: /files/original/14fb29e0f7167114fb29e0f7197f.jpg
+    alt:
+      en: "Aerial view of the Superdome with its damaged, patchy roof, alongside a teal arena, surrounded by downtown high-rises and elevated highways under a hazy sky."
 geo:
 id: 25205
 item_type: Still Image

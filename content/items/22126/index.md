@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-06-4AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f973eaf314fb29f973eeda.jpg
     url: /files/original/14fb29f973eaf314fb29f973eeda.jpg
+    alt:
+      en: "Three men stand on a flooded building's second-story balcony, with dark floodwater submerging the ground floor below and damaged roof shingles visible on an adjacent structure."
 geo:
 id: 22126
 item_type: Still Image

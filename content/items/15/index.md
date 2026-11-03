@@ -26,6 +26,8 @@ files:
     original_filename: DSCN0401_958fe6c761.JPG
     thumb: /files/thumbnails/14fb2a7175106e14fb2a71752292.jpg
     url: /files/original/14fb2a7175106e14fb2a71752292.jpg
+    alt:
+      en: "A truck almost fully submerged in calm floodwater, with only its roof and hood visible, surrounded by marsh grass and debris along the shoreline at dusk."
 geo:
   address: ''
   lat: 29.7166812872311

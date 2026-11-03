@@ -26,6 +26,8 @@ files:
     original_filename: Katrina_004_191bfdc9cb.jpg
     thumb: /files/thumbnails/14fb2a6ea4e4ee14fb2a6ea50acb.jpg
     url: /files/original/14fb2a6ea4e4ee14fb2a6ea50acb.jpg
+    alt:
+      en: "A large fallen pine tree leans diagonally across a backyard, resting over a round above-ground pool, with scattered branches and leaves covering the grass below."
 geo:
   address: ''
   lat: 30.280786869131802

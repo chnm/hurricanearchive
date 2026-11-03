@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (51).JPG
     thumb: /files/thumbnails/14fb2a5d5d3d3914fb2a5d5d487f.jpg
     url: /files/original/14fb2a5d5d3d3914fb2a5d5d487f.jpg
+    alt:
+      en: "Row of storm-damaged shotgun houses with boarded windows and peeling paint, fronted by debris, fallen branches, and an overturned dumpster on a littered street."
 geo:
 id: 3202
 item_type: Still Image

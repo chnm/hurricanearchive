@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0009.JPG
     thumb: /files/thumbnails/14fb2a0a45021814fb2a0a4505f6.jpg
     url: /files/original/14fb2a0a45021814fb2a0a4505f6.jpg
+    alt:
+      en: "Aerial view of a riverside institutional campus with multiple large buildings, parking lots, and athletic fields, bordered by a wide river with a cargo ship and surrounding farmland."
 geo:
 id: 20265
 item_type: Still Image

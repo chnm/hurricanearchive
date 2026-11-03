@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040H.JPG
     thumb: /files/thumbnails/14fb2a05c3ad0614fb2a05c3b0eb.jpg
     url: /files/original/14fb2a05c3ad0614fb2a05c3b0eb.jpg
+    alt:
+      en: "A group of five smiling women in matching white \"Hooters\" tank tops and orange shorts pose together at night, with a man in U.S. Army camouflage fatigues standing in the foreground."
 geo:
 id: 20597
 item_type: Still Image

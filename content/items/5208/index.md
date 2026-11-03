@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0653.JPG
     thumb: /files/thumbnails/14fb2a5363bfbc14fb2a5363c396.jpg
     url: /files/original/14fb2a5363bfbc14fb2a5363c396.jpg
+    alt:
+      en: "Cinder block foundation walls of an unfinished structure stand in the foreground, with a storm-damaged house behind showing torn siding, exposed framing, and scattered debris among fallen trees."
 geo:
 id: 5208
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: LAANG-Photo-07.jpg
     thumb: /files/thumbnails/14fb29d07428be14fb29d0742d2c.jpg
     url: /files/original/14fb29d07428be14fb29d0742d2c.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms, carrying rifles and gear, gather on an airfield tarmac near the open cargo ramp of a C-130 aircraft, with another C-130 marked \"ANG\" visible in the background."
 geo:
 id: 29038
 item_type: Still Image

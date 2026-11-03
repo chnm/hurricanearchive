@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2183superdome.JPG
     thumb: /files/thumbnails/14fb29e4711f7614fb29e471235b.jpg
     url: /files/original/14fb29e4711f7614fb29e471235b.jpg
+    alt:
+      en: "Nighttime scene of military personnel in camouflage uniforms unloading boxes of MREs and bottled water from a large truck, passing supplies hand to hand to a man standing on the ground."
 geo:
 id: 24843
 item_type: Still Image

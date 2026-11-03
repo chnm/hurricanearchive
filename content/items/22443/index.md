@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1284Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f66e3af414fb29f66e3f6e.jpg
     url: /files/original/14fb29f66e3af414fb29f66e3f6e.jpg
+    alt:
+      en: "Floodwaters submerge a parking area and partially cover brick buildings in the background, with only a bent green sign post and two dark pillars rising above the churning water."
 geo:
 id: 22443
 item_type: Still Image

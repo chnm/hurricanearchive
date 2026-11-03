@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1105Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7e70d8b14fb29f7e71175.jpg
     url: /files/original/14fb29f7e70d8b14fb29f7e71175.jpg
+    alt:
+      en: "Flooded street with storm-driven waves surging past a brick building, framed by large wind-battered trees and power lines, under hazy, rain-soaked conditions."
 geo:
 id: 22294
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 336696531_d422407a6e.jpg
     thumb: /files/thumbnails/14fb29d49bcd0a14fb29d49bd0d6.jpg
     url: /files/original/14fb29d49bcd0a14fb29d49bd0d6.jpg
+    alt:
+      en: "Flooded street littered with storm debris leads to a damaged white house surrounded by downed trees and scattered wreckage under an overcast sky."
 geo:
 id: 27334
 item_type: Still Image

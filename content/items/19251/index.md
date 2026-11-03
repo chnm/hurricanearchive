@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0136rita.JPG
     thumb: /files/thumbnails/14fb2a11a0fc2814fb2a11a1000e.jpg
     url: /files/original/14fb2a11a0fc2814fb2a11a1000e.jpg
+    alt:
+      en: "Large shade trees with sprawling branches stand in a grassy park, with a paved path, scattered leaves, and distant houses visible through the foliage."
 geo:
 id: 19251
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 176014148_51858e14a1.jpg
     thumb: /files/thumbnails/14fb29d24c4b7b14fb29d24c503c.jpg
     url: /files/original/14fb29d24c4b7b14fb29d24c503c.jpg
+    alt:
+      en: "White t-shirt reading \"NOLA, NO PLACE LIKE HOME\" with a red heart and gold fleur-de-lis design, hanging on display beside strands of Mardi Gras beads."
 geo:
 id: 28570
 item_type: Still Image

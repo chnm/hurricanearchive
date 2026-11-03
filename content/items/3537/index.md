@@ -24,6 +24,8 @@ files:
     original_filename: P1010113.JPG
     thumb: /files/thumbnails/14fb2a5af2930814fb2a5af296f9.jpg
     url: /files/original/14fb2a5af2930814fb2a5af296f9.jpg
+    alt:
+      en: "Stuccoed building with \"Clematis Est. 1939\" painted on facade, glass block window, and a green awning reading \"Clematis Bar\" over the entrance, with graffiti markings nearby."
 geo:
 id: 3537
 item_type: Still Image

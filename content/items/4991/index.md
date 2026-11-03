@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0336.JPG
     thumb: /files/thumbnails/14fb2a549711bd14fb2a549715a2.jpg
     url: /files/original/14fb2a549711bd14fb2a549715a2.jpg
+    alt:
+      en: "Storm-damaged neighborhood with stripped, broken trees, concrete pilings on an empty foundation, and a car parked in a driveway beside a raised house still standing."
 geo:
 id: 4991
 item_type: Still Image

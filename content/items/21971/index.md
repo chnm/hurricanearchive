@@ -21,6 +21,8 @@ files:
     original_filename: Picture 302-J2.jpg
     thumb: /files/thumbnails/14fb29facb1ba514fb29facb1f8a.jpg
     url: /files/original/14fb29facb1ba514fb29facb1f8a.jpg
+    alt:
+      en: "Chain-link fence and highway barrier in the foreground, with a city skyline including a domed stadium visible beyond overpasses under a partly cloudy sky."
 geo:
 id: 21971
 item_type: Still Image

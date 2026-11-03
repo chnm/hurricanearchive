@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0074-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a040957d214fb2a04095bb3.jpg
     url: /files/original/14fb2a040957d214fb2a04095bb3.jpg
+    alt:
+      en: "A mustached man in a cowboy hat and chaps sits atop a brown horse on a grassy lawn, with trees, trucks, and a Phillips 66 gas station visible in the background."
 geo:
 id: 20767
 item_type: Still Image

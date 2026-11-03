@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d62349b14fb2a0d62b2b2.jpg
     url: /files/original/14fb2a0d62349b14fb2a0d62b2b2.jpg
+    alt:
+      en: "Silhouetted figure wearing a hard hat climbs among exposed wooden roof rafters against a bright sky, with sunlight glaring through the beams."
 geo:
 id: 19843
 item_type: Still Image

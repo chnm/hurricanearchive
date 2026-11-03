@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 088.jpg
     thumb: /files/thumbnails/14fb2a124029a914fb2a12402d8f.jpg
     url: /files/original/14fb2a124029a914fb2a12402d8f.jpg
+    alt:
+      en: "A red boat lies partially buried under a large fallen tree and tangled, dried branches, with a fence and pine trees visible in the background."
 geo:
 id: 19178
 item_type: Still Image

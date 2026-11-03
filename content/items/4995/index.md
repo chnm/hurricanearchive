@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0340.JPG
     thumb: /files/thumbnails/14fb2a5493649d14fb2a5493694e.jpg
     url: /files/original/14fb2a5493649d14fb2a5493694e.jpg
+    alt:
+      en: "A rural roadside scene with a drainage ditch and concrete barrier in the foreground, elevated houses under construction on pilings in the background, surrounded by bare trees and open grassy land."
 geo:
 id: 4995
 item_type: Still Image

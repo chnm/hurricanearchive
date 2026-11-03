@@ -21,6 +21,8 @@ files:
     original_filename: senior faces_556270fdbf.jpg
     thumb: /files/thumbnails/14fb29d783b15914fb29d783b53f.jpg
     url: /files/original/14fb29d783b15914fb29d783b53f.jpg
+    alt:
+      en: "Grid of individual yearbook portrait photos showing young men with 1970s hairstyles, each wearing a red tuxedo jacket with black trim and a black bow tie, from the 1975 Chalmette High School yearbook."
 geo:
 id: 26838
 item_type: Still Image

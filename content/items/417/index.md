@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0408_0bac260445.JPG
     thumb: /files/thumbnails/14fb2a700a43b114fb2a700a4797.jpg
     url: /files/original/14fb2a700a43b114fb2a700a4797.jpg
+    alt:
+      en: "A large tree with a hand-lettered wooden sign reading \"The injuries inflicted by Mother Nature will be cured by Father Time\" nailed to its trunk, surrounded by storm debris and wreckage."
 geo:
   address: ''
   lat: 30.342065246371604

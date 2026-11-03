@@ -21,6 +21,8 @@ files:
     original_filename: Picture 034engineers.jpg
     thumb: /files/thumbnails/14fb2a0fd1c45814fb2a0fd1c83d.jpg
     url: /files/original/14fb2a0fd1c45814fb2a0fd1c83d.jpg
+    alt:
+      en: "Aerial view of a flood-damaged oil refinery in Carslile, LA, with storage tanks, pipework, and processing units surrounded by standing water, and flooded fields extending to the horizon."
 geo:
 id: 19474
 item_type: Still Image

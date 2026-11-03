@@ -24,6 +24,8 @@ files:
     original_filename: P1010098.JPG
     thumb: /files/thumbnails/14fb2a5a4556ee14fb2a5a4569cc.jpg
     url: /files/original/14fb2a5a4556ee14fb2a5a4569cc.jpg
+    alt:
+      en: "A toilet sits amid piles of debris, broken drywall, and insulation on a front lawn, with a brick house numbered 7224 visible in the background."
 geo:
 id: 3662
 item_type: Still Image

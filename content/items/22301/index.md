@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1112Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7daf64e14fb29f7dafa39.jpg
     url: /files/original/14fb29f7daf64e14fb29f7dafa39.jpg
+    alt:
+      en: "A person wearing a camouflage uniform with a U.S. flag patch and an orange life vest wades through murky floodwater, head partially submerged with one hand raised."
 geo:
 id: 22301
 item_type: Still Image

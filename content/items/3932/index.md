@@ -24,6 +24,8 @@ files:
     original_filename: Cheney Visit
     thumb: /files/thumbnails/14fb2a58d750eb14fb2a58d754dc.jpg
     url: /files/original/14fb2a58d750eb14fb2a58d754dc.jpg
+    alt:
+      en: "Vice President Cheney walks through a paved lot surrounded by officials, press with cameras, and a row of portable toilets, with a Coast Guard officer named Mueller leading the group."
 geo:
 id: 3932
 item_type: Still Image

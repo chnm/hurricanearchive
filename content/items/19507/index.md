@@ -21,6 +21,8 @@ files:
     original_filename: Picture 067engineers.jpg
     thumb: /files/thumbnails/14fb2a0f9f2cef14fb2a0f9f30d8.jpg
     url: /files/original/14fb2a0f9f2cef14fb2a0f9f30d8.jpg
+    alt:
+      en: "Aerial view of two large institutional buildings surrounded by extensive floodwater, with submerged trees, roads, and parked vehicles partially underwater; overlay text reads \"WMIRS Miss#:LA-037-05A - 06Sep05 - LSU Dental N295959 W900512 Lat/Lon: 2959.00Nx09005.00W.\""
 geo:
 id: 19507
 item_type: Still Image

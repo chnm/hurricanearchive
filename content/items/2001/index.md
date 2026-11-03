@@ -26,6 +26,8 @@ files:
     original_filename: 017_17_6d58509cba.jpg
     thumb: /files/thumbnails/14fb2a6dca0f5114fb2a6dca1337.jpg
     url: /files/original/14fb2a6dca0f5114fb2a6dca1337.jpg
+    alt:
+      en: "A large tugboat with tire fenders along its bow sits stranded on dry, grassy ground, its mooring ropes trailing across the dirt, with a flat coastal landscape visible in the background."
 geo:
   address: ''
   lat: 0.0

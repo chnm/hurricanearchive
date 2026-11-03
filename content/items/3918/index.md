@@ -21,6 +21,8 @@ files:
     original_filename: 100_0215.JPG
     thumb: /files/thumbnails/14fb2a58e5b9a014fb2a58e5beeb.jpg
     url: /files/original/14fb2a58e5b9a014fb2a58e5beeb.jpg
+    alt:
+      en: "Floodwater submerges parked vehicles, including an open-top Jeep and a van, in front of a high-rise apartment building with balconies and a broken window."
 geo:
 id: 3918
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0362.JPG
     thumb: /files/thumbnails/14fb2a5467150514fb2a546718e9.jpg
     url: /files/original/14fb2a5467150514fb2a546718e9.jpg
+    alt:
+      en: "A yellow measuring tape hangs from a wooden beam joint on an outdoor structure, with trees visible in the background against an overcast sky."
 geo:
 id: 5017
 item_type: Still Image

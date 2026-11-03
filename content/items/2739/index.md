@@ -21,6 +21,8 @@ files:
     original_filename: 36.jpg
     thumb: /files/thumbnails/14fb2a605cefa914fb2a605cf38e.jpg
     url: /files/original/14fb2a605cefa914fb2a605cf38e.jpg
+    alt:
+      en: "Child's drawing of a green helicopter rescuing two people in a basket beneath it, flying under a crescent moon and stars, with two smaller helicopters and a bridge over water below; signed \"Donald.\""
 geo:
 id: 2739
 item_type: Still Image

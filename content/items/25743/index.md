@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-21KPandYockeywitheaster_ec0155d603.jpg
     thumb: /files/thumbnails/14fb29dc7b65e614fb29dc7b6d4f.jpg
     url: /files/original/14fb29dc7b65e614fb29dc7b6d4f.jpg
+    alt:
+      en: "Aged Polaroid photo of two children seated with a person in an Easter Bunny costume against a lattice and red-foliage backdrop; one child wears a shirt with \"FOOTBALL\" printed on it."
 geo:
 id: 25743
 item_type: Still Image

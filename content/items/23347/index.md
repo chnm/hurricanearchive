@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0059abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efd9c12314fb29efd9c500.jpg
     url: /files/original/14fb29efd9c12314fb29efd9c500.jpg
+    alt:
+      en: "Floodwaters surround a row of white houses and a trailer, submerging yards and lower structures up to the porches, with trees and utility poles rising from the water under a cloudy sky."
 geo:
 id: 23347
 item_type: Still Image

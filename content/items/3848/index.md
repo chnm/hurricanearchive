@@ -21,6 +21,8 @@ files:
     original_filename: 100_0140.JPG
     thumb: /files/thumbnails/14fb2a594209bf14fb2a59420d9c.jpg
     url: /files/original/14fb2a594209bf14fb2a59420d9c.jpg
+    alt:
+      en: "Damaged sailboats piled against a wooden dock and iron fence beneath a large oak tree, with debris and torn sails scattered across the pier and reflected in calm water."
 geo:
 id: 3848
 item_type: Still Image

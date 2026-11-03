@@ -21,6 +21,8 @@ files:
     original_filename: 45.jpg
     thumb: /files/thumbnails/14fb2a6054d20914fb2a6054d5f0.jpg
     url: /files/original/14fb2a6054d20914fb2a6054d5f0.jpg
+    alt:
+      en: "Child's marker drawing of a figure with long brown hair, round head with dotted eyes and yellow mouth, and striped pants, labeled \"Alexis,\" surrounded by scattered red, blue, and yellow polka dots."
 geo:
 id: 2749
 item_type: Still Image

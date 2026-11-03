@@ -21,6 +21,8 @@ files:
     original_filename: J2 (48).JPG
     thumb: /files/thumbnails/14fb2a111bf9d514fb2a111c0213.jpg
     url: /files/original/14fb2a111bf9d514fb2a111c0213.jpg
+    alt:
+      en: "Aerial view from a helicopter window of a large convention center with striped roof sections near a river, with bridges, a cityscape, and parked vehicles below."
 geo:
 id: 19331
 item_type: Still Image

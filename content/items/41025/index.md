@@ -20,6 +20,8 @@ files:
     original_filename: 15 - Wickfield 1_457f125a4d.JPG
     thumb: /files/thumbnails/14fb29c480cd5114fb29c480d52a.jpg
     url: /files/original/14fb29c480cd5114fb29c480d52a.jpg
+    alt:
+      en: "A small white single-story house, numbered 6056, stands overgrown with tall grass, weeds, and shrubs; its windows and doorway appear dark and empty, with some graffiti marks near the entrance."
 geo:
   address: ''
   lat: 30.06731

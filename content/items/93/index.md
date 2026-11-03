@@ -26,6 +26,8 @@ files:
     original_filename: 100_5422_39d5d32186.JPG
     thumb: /files/thumbnails/14fb2a71135dd514fb2a711361bb.jpg
     url: /files/original/14fb2a71135dd514fb2a711361bb.jpg
+    alt:
+      en: "White clapboard church with Gothic-arched windows and a damaged steeple, roof debris, downed tree branches, and a collapsed metal structure in the yard; dated 09/27/2005."
 geo:
   address: ''
   lat: 30.005653

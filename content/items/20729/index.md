@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0066-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a043856c814fb2a04385b54.jpg
     url: /files/original/14fb2a043856c814fb2a04385b54.jpg
+    alt:
+      en: "Young man in a plaid shirt and backwards cap smiles close to the camera, seated with knees drawn up; military-style trucks and a gas station canopy are visible behind him."
 geo:
 id: 20729
 item_type: Still Image

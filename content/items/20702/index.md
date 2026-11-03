@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0061-16.JPG
     thumb: /files/thumbnails/14fb2a04daf70014fb2a04dafae5.jpg
     url: /files/original/14fb2a04daf70014fb2a04dafae5.jpg
+    alt:
+      en: "Two people in camouflage military uniforms and caps stand amid storm debris, with a damaged house spray-painted \"TFW\" in the background and downed power lines overhead."
 geo:
 id: 20702
 item_type: Still Image

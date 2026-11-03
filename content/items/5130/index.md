@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0492.JPG
     thumb: /files/thumbnails/14fb2a53ce8dfb14fb2a53ce91e7.jpg
     url: /files/original/14fb2a53ce8dfb14fb2a53ce91e7.jpg
+    alt:
+      en: "A measuring tape spans an opened wall cavity between wooden studs, showing markings from about 2 to 15 inches, with torn insulation and a flexible conduit visible in the dark space behind."
 geo:
 id: 5130
 item_type: Still Image

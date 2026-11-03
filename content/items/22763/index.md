@@ -21,6 +21,8 @@ files:
     original_filename: S4300119Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f42a864614fb29f42a8a78.jpg
     url: /files/original/14fb29f42a864614fb29f42a8a78.jpg
+    alt:
+      en: "Collapsed brick wall and fire-charred shrubs line a sidewalk near damaged vehicles and a brick building, with a round green sign reading \"Spread the Spirit\" mounted on its facade."
 geo:
 id: 22763
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0250.JPG
     thumb: /files/thumbnails/14fb2a55cc393c14fb2a55cc3d29.jpg
     url: /files/original/14fb2a55cc393c14fb2a55cc3d29.jpg
+    alt:
+      en: "A two-story building with gray siding and white railings shows storm damage, including a plywood-patched section on the exterior wall and exposed roof framing on the upper level."
 geo:
 id: 4740
 item_type: Still Image

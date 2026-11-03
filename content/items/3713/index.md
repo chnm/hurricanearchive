@@ -24,6 +24,8 @@ files:
     original_filename: P1010160.JPG
     thumb: /files/thumbnails/14fb2a5a01cebb14fb2a5a01d113.jpg
     url: /files/original/14fb2a5a01cebb14fb2a5a01d113.jpg
+    alt:
+      en: "A tan dog stands behind an ornate wrought-iron gate in front of a brick house with a tarp-covered roof, with a white garage door visible in the background."
 geo:
 id: 3713
 item_type: Still Image

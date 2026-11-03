@@ -26,6 +26,8 @@ files:
     original_filename: PICT0086_9166ce0831.JPG
     thumb: /files/thumbnails/14fb2a6dbadf6714fb2a6dbae6fd.jpg
     url: /files/original/14fb2a6dbadf6714fb2a6dbae6fd.jpg
+    alt:
+      en: "Devastated landscape near Lake Catherine, LA, with a partially collapsed elevated house, bare broken trees, scattered debris, and standing wooden posts under a clear blue sky."
 geo:
   address: ''
   lat: 30.1415644334843

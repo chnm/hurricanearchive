@@ -21,6 +21,8 @@ files:
     original_filename: IMG_6277_2d3417fc06.jpg
     thumb: /files/thumbnails/14fb2a16f6b44814fb2a16f6b825.jpg
     url: /files/original/14fb2a16f6b44814fb2a16f6b825.jpg
+    alt:
+      en: "Diner counter with small bowls of red beans and jambalaya on saucers, a glass of soda, a receipt from Mother's Restaurant, Tabasco and Louisiana Gold hot sauce bottles, and a napkin dispenser against a brick wall."
 geo:
   address: ''
   lat: 37.77123

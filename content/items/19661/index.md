@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 048cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e87789214fb2a0e877c81.jpg
     url: /files/original/14fb2a0e87789214fb2a0e877c81.jpg
+    alt:
+      en: "Military tent with handmade signs reading \"ROCKY TOP\" and \"JTF TENNESSEE / COMMAND CENTER / JTF-LaFOURCHE,\" set against trees and a clear sky."
 geo:
 id: 19661
 item_type: Still Image

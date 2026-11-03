@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28584.jpg
     thumb: /files/thumbnails/14fb2a6a494f9314fb2a6a49587d.jpg
     url: /files/original/14fb2a6a494f9314fb2a6a49587d.jpg
+    alt:
+      en: "A fallen street sign pole, partially legible with \"...esnore\" text, lies snapped from its broken concrete base amid debris-strewn dirt and a curb in the Lakeview District."
 geo:
   address: ''
   lat: 0.0

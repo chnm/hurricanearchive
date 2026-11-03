@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28265.jpg
     thumb: /files/thumbnails/14fb2a6b8efb6814fb2a6b8eff4f.jpg
     url: /files/original/14fb2a6b8efb6814fb2a6b8eff4f.jpg
+    alt:
+      en: "A large guitar-shaped sign reading \"Hard Rock Casino\" towers above a building, with a \"Hard Rock Cafe\" sign visible below against a cloudy sky."
 geo:
   address: ''
   lat: 0.0

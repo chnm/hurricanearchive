@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (20).JPG
     thumb: /files/thumbnails/14fb2a5d0a739d14fb2a5d0a7783.jpg
     url: /files/original/14fb2a5d0a739d14fb2a5d0a7783.jpg
+    alt:
+      en: "Waterfront view of a damaged neighborhood with scattered debris, a large maroon barge-like structure near a seawall, two people walking on a sandy shore, and a channel marker buoy in the water."
 geo:
 id: 3256
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 176014090_ad7737e359.jpg
     thumb: /files/thumbnails/14fb29d246924c14fb29d246990f.jpg
     url: /files/original/14fb29d246924c14fb29d246990f.jpg
+    alt:
+      en: "Dark t-shirt with fleur-de-lis symbols above and below text reading \"RECOVER REBUILD RENEW ORLEANS\" in red, white, and yellow lettering arranged in a column."
 geo:
 id: 28571
 item_type: Still Image

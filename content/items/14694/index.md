@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_CameronSimms_02_2cef922e54.jpg
     thumb: /files/thumbnails/14fb2a1823ccfa14fb2a1823d260.jpg
     url: /files/original/14fb2a1823ccfa14fb2a1823d260.jpg
+    alt:
+      en: "A smiling boy in a green polo shirt stands in a classroom beside a desk topped with a decorated sheet cake, with a globe, wall clock, and posters visible in the background."
 geo:
 id: 14694
 item_type: Still Image

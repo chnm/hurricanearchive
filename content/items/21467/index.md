@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0268-9-25.JPG
     thumb: /files/thumbnails/14fb29fe8596ce14fb29fe859ab3.jpg
     url: /files/original/14fb29fe8596ce14fb29fe859ab3.jpg
+    alt:
+      en: "Aerial view of a flooded Chevron gas station and parking lot, with vehicles partially submerged in brown floodwater and a tractor and boat navigating the inundated road nearby."
 geo:
 id: 21467
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-35_5e06ecd6dc.jpg
     thumb: /files/thumbnails/14fb2a1622a26114fb2a1622a7b1.jpg
     url: /files/original/14fb2a1622a26114fb2a1622a7b1.jpg
+    alt:
+      en: "Vintage photo of a young child with reddish hair in profile, playing with colorful plastic building blocks, with a decorative wreath and wood-paneled wall in the background."
 geo:
 id: 15503
 item_type: Still Image

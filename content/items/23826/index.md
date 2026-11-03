@@ -21,6 +21,8 @@ files:
     original_filename: S4300165stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eced839314fb29eced876e.jpg
     url: /files/original/14fb29eced839314fb29eced876e.jpg
+    alt:
+      en: "Debris scattered across a shingled roof beside a brick house, with a wooden privacy fence and a tan SUV parked in the foreground."
 geo:
 id: 23826
 item_type: Still Image

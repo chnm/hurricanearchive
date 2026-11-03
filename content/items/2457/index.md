@@ -24,6 +24,8 @@ files:
     original_filename: 20050905_MG_8117.jpg
     thumb: /files/thumbnails/14fb2a6653179f14fb2a66531b95.jpg
     url: /files/original/14fb2a6653179f14fb2a66531b95.jpg
+    alt:
+      en: "Spray-painted search-and-rescue markings on a stucco wall reading \"9/16, 1/8, NE, 1 cat taken, CAMP 9/25, LUCKY 2,\" beside a window with awning and a birdbath below."
 geo:
 id: 2457
 item_type: Still Image

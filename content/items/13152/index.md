@@ -21,6 +21,8 @@ files:
     original_filename: 142 distant lights.jpg
     thumb: /files/thumbnails/14fb2a1ff16bf014fb2a1ff16fd2.jpg
     url: /files/original/14fb2a1ff16bf014fb2a1ff16fd2.jpg
+    alt:
+      en: "A nighttime scene with several distant lights, including orange and white points, faintly illuminating a dark landscape with a hint of water and a pale, hazy glow on the right."
 geo:
 id: 13152
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09240009rita.JPG
     thumb: /files/thumbnails/14fb2a0ed2bd9514fb2a0ed2c17a.jpg
     url: /files/original/14fb2a0ed2bd9514fb2a0ed2c17a.jpg
+    alt:
+      en: "Rain-soaked parking lot with several cars and a pickup truck parked in a row, surrounded by trees and a lit lamppost under an overcast, misty sky."
 geo:
 id: 19608
 item_type: Still Image

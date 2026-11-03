@@ -21,6 +21,8 @@ files:
     original_filename: S4300009zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f3ec12614fb2a0f3ec50c.jpg
     url: /files/original/14fb2a0f3ec12614fb2a0f3ec50c.jpg
+    alt:
+      en: "Young man wearing a camouflage military cap and brown shirt stands in an empty parking lot, with a flatbed trailer visible in the background."
 geo:
 id: 19555
 item_type: Still Image

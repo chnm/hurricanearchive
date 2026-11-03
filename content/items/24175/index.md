@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea14024214fb29ea142525.jpg
     url: /files/original/14fb29ea14024214fb29ea142525.jpg
+    alt:
+      en: "Aerial view of a long elevated bridge curving across flooded coastal wetlands under a hazy gray sky, with marshland and scattered standing water extending to the horizon."
 geo:
 id: 24175
 item_type: Still Image

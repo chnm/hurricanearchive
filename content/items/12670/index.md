@@ -21,6 +21,8 @@ files:
     original_filename: 100-18_754c4dd448.jpg
     thumb: /files/thumbnails/14fb2a21d525e714fb2a21d52a14.jpg
     url: /files/original/14fb2a21d525e714fb2a21d52a14.jpg
+    alt:
+      en: "Three people sit in wooden chairs in a wood-paneled room: a woman in a floral top, an older man in a plaid blazer holding papers, and a young boy in a navy polo reaching toward him."
 geo:
 id: 12670
 item_type: Still Image

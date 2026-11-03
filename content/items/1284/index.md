@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27998.jpg
     thumb: /files/thumbnails/14fb2a69d762a514fb2a69d767e8.jpg
     url: /files/original/14fb2a69d762a514fb2a69d767e8.jpg
+    alt:
+      en: "A large uprooted tree lies toppled across a yard, its roots exposed and branches bare, with single-story houses visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

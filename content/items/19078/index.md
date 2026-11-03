@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2185.JPG
     thumb: /files/thumbnails/14fb2a1352c73814fb2a1352cb7d.jpg
     url: /files/original/14fb2a1352c73814fb2a1352cb7d.jpg
+    alt:
+      en: "View from inside a military aircraft cockpit, with a pilot's shoulder and American flag patch in the foreground, looking out over a runway toward a damaged terminal building and crowd of people gathered near an overpass."
 geo:
 id: 19078
 item_type: Still Image

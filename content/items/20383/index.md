@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008-9-25 (1).JPG
     thumb: /files/thumbnails/14fb2a08340d6f14fb2a08341116.jpg
     url: /files/original/14fb2a08340d6f14fb2a08341116.jpg
+    alt:
+      en: "Woman with short hair stands in a doorway wearing an oversized light blue \"North Shore Rentals\" T-shirt and plaid pajama pants, gesturing with one hand while speaking; a dimly lit room with a red lamp is visible behind her."
 geo:
 id: 20383
 item_type: Still Image

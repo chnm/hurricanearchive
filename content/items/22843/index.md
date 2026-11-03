@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f31462b514fb29f3146690.jpg
     url: /files/original/14fb29f31462b514fb29f3146690.jpg
+    alt:
+      en: "A uniformed military checkpoint officer speaks with a driver in a silver Ford F-150 pickup truck, while a cameraman films and another man looks on; a street sign reading \"EAST\" is visible in the background."
 geo:
 id: 22843
 item_type: Still Image

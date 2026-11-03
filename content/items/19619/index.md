@@ -21,6 +21,8 @@ files:
     original_filename: 09240020rita.JPG
     thumb: /files/thumbnails/14fb2a0eaf238114fb2a0eaf276e.jpg
     url: /files/original/14fb2a0eaf238114fb2a0eaf276e.jpg
+    alt:
+      en: "Collapsed blue-and-white striped tent structures lie flattened on a wooden platform amid scattered debris, with a utility pole, electrical equipment box, and trees under an overcast sky."
 geo:
 id: 19619
 item_type: Still Image

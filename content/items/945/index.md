@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28423.jpg
     thumb: /files/thumbnails/14fb2a6bfeec2414fb2a6bfef002.jpg
     url: /files/original/14fb2a6bfeec2414fb2a6bfef002.jpg
+    alt:
+      en: "Corrugated metal structure spray-painted with a white cross and warnings reading \"KEEP OUT,\" \"SHOOT TO KILL,\" and partial text \"NGE,\" amid storm debris including a blue barrel and scattered wood."
 geo:
   address: ''
   lat: 0.0

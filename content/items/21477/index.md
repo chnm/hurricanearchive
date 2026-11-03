@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0271.JPG
     thumb: /files/thumbnails/14fb29fe6300f114fb29fe630532.jpg
     url: /files/original/14fb29fe6300f114fb29fe630532.jpg
+    alt:
+      en: "Aerial view of a dense urban neighborhood with closely packed rooftops in various colors, a few scattered trees, and a street running diagonally through the frame with parked cars visible."
 geo:
 id: 21477
 item_type: Still Image

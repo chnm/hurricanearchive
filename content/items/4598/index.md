@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0024.JPG
     thumb: /files/thumbnails/14fb2a56ca887114fb2a56ca8c57.jpg
     url: /files/original/14fb2a56ca887114fb2a56ca8c57.jpg
+    alt:
+      en: "Debris-strewn sandy beach with concrete steps leading to a damaged tree line and scattered storm wreckage, a \"ROAD CLOSED\" sign and lone vehicle visible beyond the barrier."
 geo:
 id: 4598
 item_type: Still Image

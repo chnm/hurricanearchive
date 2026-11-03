@@ -20,6 +20,8 @@ files:
     original_filename: Earl Hippen at Cornerstone 017.jpg
     thumb: /files/thumbnails/2f0010893b1d56d096336a5ea6409026.jpg
     url: /files/original/2f0010893b1d56d096336a5ea6409026.jpg
+    alt:
+      en: "A single-story brick house with multiple arched doorways and a shingled roof, surrounded by overgrown grass and weeds, with trees visible behind the structure."
 geo:
 id: 46001
 item_type: Still Image

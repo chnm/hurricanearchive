@@ -21,6 +21,8 @@ files:
     original_filename: 20050927-A-2421S-015mobilePAO.jpg
     thumb: /files/thumbnails/14fb29f15bffe914fb29f15c03cc.jpg
     url: /files/original/14fb29f15bffe914fb29f15c03cc.jpg
+    alt:
+      en: "A soldier in camouflage uniform and cap stands beside a brick building, holding a rifle, with muddy ground and debris visible near the structure's damaged foundation."
 geo:
 id: 23140
 item_type: Still Image

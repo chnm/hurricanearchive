@@ -21,6 +21,8 @@ files:
     original_filename: J2 (49).JPG
     thumb: /files/thumbnails/14fb2a111b4a1614fb2a111b4dfb.jpg
     url: /files/original/14fb2a111b4a1614fb2a111b4dfb.jpg
+    alt:
+      en: "Aerial view of a wide river with a docked military ship near the Riverwalk shopping center, with a sprawling city and waterways visible in the hazy background."
 geo:
 id: 19332
 item_type: Still Image

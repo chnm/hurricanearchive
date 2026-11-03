@@ -21,6 +21,8 @@ files:
     original_filename: slide14.jpg
     thumb: /files/thumbnails/14fb2a194be2e314fb2a194be6cf.jpg
     url: /files/original/14fb2a194be2e314fb2a194be6cf.jpg
+    alt:
+      en: "Massive debris field of splintered wood, twisted metal roofing, and household wreckage scattered beneath bare, storm-damaged trees, with strips of fabric hanging from branches."
 geo:
 id: 14396
 item_type: Still Image

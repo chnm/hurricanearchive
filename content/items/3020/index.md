@@ -21,6 +21,8 @@ files:
     original_filename: 100_0269.JPG
     thumb: /files/thumbnails/14fb2a5ec73dda14fb2a5ec748b3.jpg
     url: /files/original/14fb2a5ec73dda14fb2a5ec748b3.jpg
+    alt:
+      en: "Close-up of a large rusted metal hull or tank with discolored, weathered panels, viewed through and behind a chain-link fence, with blue sky and a railing visible at the top."
 geo:
 id: 3020
 item_type: Still Image

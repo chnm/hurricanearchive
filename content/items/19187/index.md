@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 097.jpg
     thumb: /files/thumbnails/14fb2a1210e13114fb2a1210e5de.jpg
     url: /files/original/14fb2a1210e13114fb2a1210e5de.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms walk down a debris-strewn street lined with fallen branches, a wooden fence, and houses, with a stop sign visible in the background."
 geo:
 id: 19187
 item_type: Still Image

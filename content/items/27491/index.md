@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6533_e71b1dde33.jpg
     thumb: /files/thumbnails/14fb29d3f8fa5814fb29d3f90303.jpg
     url: /files/original/14fb29d3f8fa5814fb29d3f90303.jpg
+    alt:
+      en: "A group of women and girls dance together in a line formation at an indoor party, smiling and laughing under string lights and a paneled ceiling."
 geo:
   address: ''
   lat: 29.76438

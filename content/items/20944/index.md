@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0153-9-25.JPG
     thumb: /files/thumbnails/14fb2a016502e314fb2a016506c8.jpg
     url: /files/original/14fb2a016502e314fb2a016506c8.jpg
+    alt:
+      en: "Aerial view of storm-damaged school buildings with roofs torn off, surrounded by floodwater, scattered debris, and a partially submerged school bus, with marshland extending to the horizon."
 geo:
 id: 20944
 item_type: Still Image

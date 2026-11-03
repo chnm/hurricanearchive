@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 168cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd51dd914fb2a0dd521bb.jpg
     url: /files/original/14fb2a0dd51dd914fb2a0dd521bb.jpg
+    alt:
+      en: "White pickup truck with \"Louisiana\" rear window decal carries a wire crate of dogs in its bed, waiting in traffic near a raised steel truss drawbridge, with several SUVs queued alongside."
 geo:
 id: 19781
 item_type: Still Image

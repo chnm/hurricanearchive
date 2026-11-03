@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0522.JPG
     thumb: /files/thumbnails/14fb2a53adbd3014fb2a53adc13e.jpg
     url: /files/original/14fb2a53adbd3014fb2a53adc13e.jpg
+    alt:
+      en: "Concrete slab edge bordering a grassy yard, with scattered rusty nails or metal debris along the seam and a dark shadow visible in the lower right corner."
 geo:
 id: 5160
 item_type: Still Image

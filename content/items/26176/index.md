@@ -21,6 +21,8 @@ files:
     original_filename: waiting 2_ce168bce03.jpg
     thumb: /files/thumbnails/14fb29d9be1c6014fb29d9be2034.jpg
     url: /files/original/14fb29d9be1c6014fb29d9be2034.jpg
+    alt:
+      en: "Crowd seated in folding chairs at an outdoor festival, with a man and woman in the foreground wearing matching red, white, and patterned outfits and sun hats."
 geo:
 id: 26176
 item_type: Still Image

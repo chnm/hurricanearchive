@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6174_c8beed3fe6.jpg
     thumb: /files/thumbnails/14fb29dd8a40e014fb29dd8a44c4.jpg
     url: /files/original/14fb29dd8a40e014fb29dd8a44c4.jpg
+    alt:
+      en: "Water-damaged studio portrait of a smiling toddler with dark hair, the image faded and streaked with discoloration from flood exposure, vertical creases running through the photo."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0238-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff2a1aa914fb29ff2a1e8e.jpg
     url: /files/original/14fb29ff2a1aa914fb29ff2a1e8e.jpg
+    alt:
+      en: "Aerial view of an industrial refinery complex with numerous pipes, storage tanks, and smokestacks, surrounded by floodwater covering the ground and access roads."
 geo:
 id: 21369
 item_type: Still Image

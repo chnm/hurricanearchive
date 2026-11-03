@@ -21,6 +21,8 @@ files:
     original_filename: Picture 052.jpg
     thumb: /files/thumbnails/14fb29cc79a6de14fb29cc79a844.jpg
     url: /files/original/14fb29cc79a6de14fb29cc79a844.jpg
+    alt:
+      en: "View from inside a car through the passenger window of fallen trees with dry, browning leaves blocking the roadway, likely storm damage from a hurricane."
 geo:
 id: 30787
 item_type: Still Image

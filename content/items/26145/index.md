@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5763_a4732539d7.jpg
     thumb: /files/thumbnails/14fb29da27f62c14fb29da2803c1.jpg
     url: /files/original/14fb29da27f62c14fb29da2803c1.jpg
+    alt:
+      en: "Black-and-white photo in a decorative frame showing a man in a hat and white shirt seated in a chair on a brick farmhouse porch, legs crossed, beside a screen door."
 geo:
 id: 26145
 item_type: Still Image

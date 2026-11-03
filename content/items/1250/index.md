@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28029.jpg
     thumb: /files/thumbnails/14fb2a6a0db94814fb2a6a0dbce4.jpg
     url: /files/original/14fb2a6a0db94814fb2a6a0dbce4.jpg
+    alt:
+      en: "Large white sandbags marked \"MAXIMUM GROSS MASS-7000-LBS\" rest on a gravel surface, with a brick house visible in the background."
 geo:
   address: ''
   lat: 0.0

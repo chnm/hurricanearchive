@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1688superdome.JPG
     thumb: /files/thumbnails/14fb29e24d47ad14fb29e24d4ab6.jpg
     url: /files/original/14fb29e24d47ad14fb29e24d4ab6.jpg
+    alt:
+      en: "Rows of U.S. military personnel in camouflage uniforms stand in formation on a paved plaza, with military vehicles and tall glass office buildings visible in the background."
 geo:
 id: 25101
 item_type: Still Image

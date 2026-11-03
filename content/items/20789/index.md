@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0079-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a03c2b92314fb2a03c2bd09.jpg
     url: /files/original/14fb2a03c2b92314fb2a03c2bd09.jpg
+    alt:
+      en: "Aerial view of a shrimp boat stranded on a grassy levee amid floodwaters, with four cattle grazing and wading nearby on the narrow strip of land."
 geo:
 id: 20789
 item_type: Still Image

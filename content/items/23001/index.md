@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011OEP.JPG
     thumb: /files/thumbnails/14fb29f22af88114fb29f22afc67.jpg
     url: /files/original/14fb29f22af88114fb29f22afc67.jpg
+    alt:
+      en: "A large parking lot filled with cars, trucks, SUVs, and satellite trucks with dishes, set against a backdrop of low institutional buildings, trees, and a clear blue sky."
 geo:
 id: 23001
 item_type: Still Image

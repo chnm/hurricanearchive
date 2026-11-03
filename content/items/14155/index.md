@@ -21,6 +21,8 @@ files:
     original_filename: Launch the boats.JPG
     thumb: /files/thumbnails/14fb2a1b5c867214fb2a1b5c8a57.jpg
     url: /files/original/14fb2a1b5c867214fb2a1b5c8a57.jpg
+    alt:
+      en: "Military personnel launch flat-bottomed boats into floodwaters beside a road, with a Louisiana National Guard truck and pickup parked nearby amid debris along the shoreline."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 023.jpg
     thumb: /files/thumbnails/14fb2a227d102114fb2a227d1407.jpg
     url: /files/original/14fb2a227d102114fb2a227d1407.jpg
+    alt:
+      en: "Storm-damaged neighborhood with a yellow house labeled \"#15\" and \"MACALUSO,\" stripped trees, scattered debris piles, and a sandy street covered in wreckage under a clear sky."
 geo:
 id: 11976
 item_type: Still Image

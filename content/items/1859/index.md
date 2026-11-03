@@ -26,6 +26,8 @@ files:
     original_filename: back_of_house_showing_water_line_0ea3cbaa7f.jpg
     thumb: /files/thumbnails/14fb2a6ea0d24114fb2a6ea0d616.jpg
     url: /files/original/14fb2a6ea0d24114fb2a6ea0d616.jpg
+    alt:
+      en: "Back exterior of a white vinyl-sided house with two tall windows, a bare tree branch in front, and a visible discoloration line running horizontally across the siding marking flood water height."
 geo:
   address: ''
   lat: 30.009063

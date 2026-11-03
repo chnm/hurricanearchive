@@ -21,6 +21,8 @@ files:
     original_filename: PICT0615Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f474b0f114fb29f474b4d7.jpg
     url: /files/original/14fb29f474b0f114fb29f474b4d7.jpg
+    alt:
+      en: "A large lawn with an American flag on a tall flagpole, bordered by a brick wall topped with barbed wire, with historic buildings and trees in the background; dated 09.15.2005."
 geo:
 id: 22717
 item_type: Still Image

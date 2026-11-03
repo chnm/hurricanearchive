@@ -20,6 +20,8 @@ files:
     original_filename: 2457403874_2bee03e96c.
     thumb: /files/thumbnails/14fb29c8628edc14fb29c86292f1.jpg
     url: /files/original/14fb29c8628edc14fb29c86292f1.jpg
+    alt:
+      en: "A muddy excavated channel with standing water runs across a bare construction site, with a vehicle visible in the distance near a tree line; a timestamp reads \"01-31-2003\" in the corner."
 geo:
 id: 34935
 item_type: Still Image

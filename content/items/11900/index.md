@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 022.jpg
     thumb: /files/thumbnails/14fb2a22c6711714fb2a22c674fc.jpg
     url: /files/original/14fb2a22c6711714fb2a22c674fc.jpg
+    alt:
+      en: "View from inside a car of a storm-damaged building labeled \"Sleep Central,\" its roof torn open with exposed beams, debris on the ground, and traffic including a white sedan on the road ahead."
 geo:
 id: 11900
 item_type: Still Image

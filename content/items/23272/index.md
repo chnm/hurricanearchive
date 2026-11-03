@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29f02da85414fb29f02dac41.jpg
     url: /files/original/14fb29f02da85414fb29f02dac41.jpg
+    alt:
+      en: "Tilted \"Speed Limit 25\" sign amid storm debris, with a water tower reading \"CAMERON\" in the background surrounded by wreckage."
 geo:
 id: 23272
 item_type: Still Image

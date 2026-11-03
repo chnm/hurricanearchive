@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0114OEP.JPG
     thumb: /files/thumbnails/14fb29f18cb82a14fb29f18cbc1a.jpg
     url: /files/original/14fb29f18cb82a14fb29f18cbc1a.jpg
+    alt:
+      en: "A man lies on an office carpet with his head resting on his hand, legs propped against a desk chair, surrounded by cardboard boxes labeled \"Copy Paper\" and office furniture."
 geo:
 id: 23104
 item_type: Still Image

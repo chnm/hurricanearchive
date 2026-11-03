@@ -27,6 +27,8 @@ files:
     original_filename: rene&michelle_f6bb286588.jpg
     thumb: /files/thumbnails/14fb29cc36701d14fb29cc367403.jpg
     url: /files/original/14fb29cc36701d14fb29cc367403.jpg
+    alt:
+      en: "Black-and-white photograph of two young children, a toddler and an older girl in a sailor-style outfit, lying on a textured surface beside a partially visible second photo of a baby."
 geo:
   address: 1342 Mandolin St.
   lat: 0.0

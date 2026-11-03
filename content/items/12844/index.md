@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward 9-18.JPG
     thumb: /files/thumbnails/14fb2a2179882114fb2a2179c29f.jpg
     url: /files/original/14fb2a2179882114fb2a2179c29f.jpg
+    alt:
+      en: "A damaged house with a makeshift wooden staircase and boarded windows stands behind a debris-covered yard, with an old car parked in front, under an overcast sky."
 geo:
 id: 12844
 item_type: Still Image

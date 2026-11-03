@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0089Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f93ce31214fb29f93ce6f9.jpg
     url: /files/original/14fb29f93ce31214fb29f93ce6f9.jpg
+    alt:
+      en: "Aerial view from a helicopter (rotor blade and tire visible at left) of a damaged residential neighborhood with storm-stripped trees, debris-covered yards, and rows of small houses and warehouse buildings along quiet streets."
 geo:
 id: 22176
 item_type: Still Image

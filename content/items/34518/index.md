@@ -27,6 +27,8 @@ files:
     original_filename: 2291223141_5a886af6b6.
     thumb: /files/thumbnails/14fb29c998010714fb29c99804ed.jpg
     url: /files/original/14fb29c998010714fb29c99804ed.jpg
+    alt:
+      en: "A mud-covered car sits abandoned amid storm debris, surrounded by scattered lumber, wreckage, and dried grass, with a wooden porch and chair in the foreground."
 geo:
   address: ''
   lat: 30.22539

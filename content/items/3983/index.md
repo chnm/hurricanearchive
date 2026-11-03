@@ -21,6 +21,8 @@ files:
     original_filename: DSC01073.JPG
     thumb: /files/thumbnails/14fb2a58a7024e14fb2a58a70633.jpg
     url: /files/original/14fb2a58a7024e14fb2a58a70633.jpg
+    alt:
+      en: "Man in sunglasses, bucket hat, and orange life vest rides in a boat over floodwaters, with a box of MREs beside him and submerged buildings and a radio tower in the background."
 geo:
 id: 3983
 item_type: Still Image

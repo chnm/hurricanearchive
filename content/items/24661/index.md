@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0071medics.JPG
     thumb: /files/thumbnails/14fb29e5c593bb14fb29e5c597a0.jpg
     url: /files/original/14fb29e5c593bb14fb29e5c597a0.jpg
+    alt:
+      en: "A woman in a U.S. Army woodland camouflage uniform with the name \"PRECHTER\" and a medical corps insignia stands indoors near a stairwell, smiling for the photo."
 geo:
 id: 24661
 item_type: Still Image

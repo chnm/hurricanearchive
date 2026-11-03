@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0194abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eebccb7914fb29eebccf59.jpg
     url: /files/original/14fb29eebccb7914fb29eebccf59.jpg
+    alt:
+      en: "Man in an orange plaid shirt, tan cap, and sunglasses holds a Bud Light bottle outdoors, with bare trees and a debris-strewn field visible in the background."
 geo:
 id: 23573
 item_type: Still Image

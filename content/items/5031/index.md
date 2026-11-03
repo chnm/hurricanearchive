@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0376.JPG
     thumb: /files/thumbnails/14fb2a5454d42214fb2a5454d808.jpg
     url: /files/original/14fb2a5454d42214fb2a5454d808.jpg
+    alt:
+      en: "Wooden support posts and beams stand amid cleared debris from a demolished structure, surrounded by scattered rubble, damaged trees, and storm wreckage under an overcast sky."
 geo:
 id: 5031
 item_type: Still Image

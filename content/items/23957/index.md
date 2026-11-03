@@ -21,6 +21,8 @@ files:
     original_filename: 09180027plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec3e284114fb29ec3e2c27.jpg
     url: /files/original/14fb29ec3e284114fb29ec3e2c27.jpg
+    alt:
+      en: "A man in U.S. Army camouflage uniform and cap stands on a flooded road, with downed power lines, damaged trees, and heavy machinery visible amid standing floodwater in the background."
 geo:
 id: 23957
 item_type: Still Image

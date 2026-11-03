@@ -21,6 +21,8 @@ files:
     original_filename: Picture 139cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b975c1114fb2a0b975ff4.jpg
     url: /files/original/14fb2a0b975c1114fb2a0b975ff4.jpg
+    alt:
+      en: "Damaged industrial warehouse buildings with broken windows, torn metal siding, and shredded insulation hanging loose, behind a chain-link fence; foreground shows cracked, dried mud and a railroad track."
 geo:
 id: 20042
 item_type: Still Image

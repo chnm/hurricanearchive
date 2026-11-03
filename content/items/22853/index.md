@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f30b068614fb29f30b0a6d.jpg
     url: /files/original/14fb29f30b068614fb29f30b0a6d.jpg
+    alt:
+      en: "A police officer in a navy \"POLICE\" t-shirt stands beside an Army soldier named Karr in camouflage uniform, in front of a patrol car, with highway signs reading \"Unlawful to Litter Highway\" and \"New Orleans Corp Limit\" behind them."
 geo:
 id: 22853
 item_type: Still Image

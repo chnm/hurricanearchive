@@ -21,6 +21,8 @@ files:
     original_filename: 09240016rita.JPG
     thumb: /files/thumbnails/14fb2a0ec5df2914fb2a0ec5e316.jpg
     url: /files/original/14fb2a0ec5df2914fb2a0ec5e316.jpg
+    alt:
+      en: "Military helicopter parked on a landing pad in front of a large white colonial-style building, with a uniformed figure standing nearby and cars parked along the tree-lined background."
 geo:
 id: 19615
 item_type: Still Image

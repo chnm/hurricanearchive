@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 051.jpg
     thumb: /files/thumbnails/14fb2a2260a5e614fb2a2260adb4.jpg
     url: /files/original/14fb2a2260a5e614fb2a2260adb4.jpg
+    alt:
+      en: "Debris-lined rural road flanked by damaged, leaning trees with scattered storm wreckage and a downed power line, likely hurricane aftermath."
 geo:
 id: 12003
 item_type: Still Image

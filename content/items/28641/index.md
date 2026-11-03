@@ -23,6 +23,8 @@ files:
     original_filename: 158786327_2dc8ed6112.jpg
     thumb: /files/thumbnails/14fb29d1f62e4e14fb29d1f63232.jpg
     url: /files/original/14fb29d1f62e4e14fb29d1f63232.jpg
+    alt:
+      en: "An overturned vehicle with exposed undercarriage and tires lies in overgrown grass beside a cracked street, with damaged houses visible in the background."
 geo:
 id: 28641
 item_type: Still Image

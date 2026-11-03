@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0093-9-25.JPG
     thumb: /files/thumbnails/14fb29e7bad7ed14fb29e7badb4b.jpg
     url: /files/original/14fb29e7bad7ed14fb29e7badb4b.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with a large damaged warehouse roof, surrounding debris fields, collapsed structures, and scattered wreckage submerged in brown floodwaters near a roadway."
 geo:
 id: 24433
 item_type: Still Image

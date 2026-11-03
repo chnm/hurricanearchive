@@ -24,6 +24,8 @@ files:
     original_filename: 20050905_MG_8135.jpg
     thumb: /files/thumbnails/14fb2a6651d70f14fb2a6651daf5.jpg
     url: /files/original/14fb2a6651d70f14fb2a6651daf5.jpg
+    alt:
+      en: "Collapsed and flattened houses with scattered debris line a street, with a small white church steeple visible among the wreckage and intact tree line in the background."
 geo:
 id: 2458
 item_type: Still Image

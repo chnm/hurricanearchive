@@ -21,6 +21,8 @@ files:
     original_filename: 17street-canal1029.jpg
     thumb: /files/thumbnails/14fb2a21a6979514fb2a21a69b78.jpg
     url: /files/original/14fb2a21a6979514fb2a21a69b78.jpg
+    alt:
+      en: "Debris field with an overturned, rusted vehicle and scattered wreckage amid bare trees, remnants of a demolished structure visible in the background."
 geo:
 id: 12831
 item_type: Still Image

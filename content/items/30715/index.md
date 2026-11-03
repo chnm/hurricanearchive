@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7412.JPG
     thumb: /files/thumbnails/14fb29ccc245b614fb29ccc2499a.jpg
     url: /files/original/14fb29ccc245b614fb29ccc2499a.jpg
+    alt:
+      en: "A fallen pine tree with dense green needles and branches pressing against an open wooden door, blocking the doorway and covering a red-tiled porch below."
 geo:
 id: 30715
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.032.JPG
     thumb: /files/thumbnails/14fb29dd13c57614fb29dd13c909.jpg
     url: /files/original/14fb29dd13c57614fb29dd13c909.jpg
+    alt:
+      en: "Hand-painted wooden sign reading \"PLEASE WASH YOUR HAND\" with a painted hand, next to a taped-on \"FILMING TODAY\" notice and a partially visible \"BIENVENIDO\" sign below."
 geo:
 id: 25623
 item_type: Still Image

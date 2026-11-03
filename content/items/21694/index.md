@@ -21,6 +21,8 @@ files:
     original_filename: FH000025.jpg
     thumb: /files/thumbnails/14fb29fc62ce7214fb29fc62d217.jpg
     url: /files/original/14fb29fc62ce7214fb29fc62d217.jpg
+    alt:
+      en: "Debris-strewn empty lot where a house once stood, with only a foundation slab remaining, flanked by damaged homes with dead vegetation and a parked car."
 geo:
 id: 21694
 item_type: Still Image

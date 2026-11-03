@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28513.jpg
     thumb: /files/thumbnails/14fb2a6cbb72a614fb2a6cbb767d.jpg
     url: /files/original/14fb2a6cbb72a614fb2a6cbb767d.jpg
+    alt:
+      en: "A man wearing glasses, a cap, and a protective face mask stands in a doorway holding up a damaged lace curtain, with spray-painted search-and-rescue markings visible on the dark door beside him."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004alero.JPG
     thumb: /files/thumbnails/14fb2a1567132b14fb2a15671ad4.jpg
     url: /files/original/14fb2a1567132b14fb2a15671ad4.jpg
+    alt:
+      en: "Aerial view of a staging area with rows of military trucks, trailers, and tents in a parking lot beside a large arched-roof building, with a residential neighborhood visible in the background."
 geo:
 id: 18715
 item_type: Still Image

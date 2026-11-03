@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a151e69e714fb2a151e6d98.jpg
     url: /files/original/14fb2a151e69e714fb2a151e6d98.jpg
+    alt:
+      en: "Aerial view of a flat residential neighborhood with densely packed houses, scattered trees, and a blue water tower, stretching toward a hazy horizon with distant water visible on the left."
 geo:
 id: 18813
 item_type: Still Image

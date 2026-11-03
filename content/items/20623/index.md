@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0045-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a059912b514fb2a0599169b.jpg
     url: /files/original/14fb2a059912b514fb2a0599169b.jpg
+    alt:
+      en: "A single-story building with cream-colored siding sits partially submerged in floodwater, its metal roof and warped wall panel visible, with bare trees and power lines in the background under a cloudy sky."
 geo:
 id: 20623
 item_type: Still Image

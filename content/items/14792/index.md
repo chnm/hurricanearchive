@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TalijahGrowe_02_e3952778ea.jpg
     thumb: /files/thumbnails/14fb2a17ad6daa14fb2a17ad7191.jpg
     url: /files/original/14fb2a17ad6daa14fb2a17ad7191.jpg
+    alt:
+      en: "A young girl in a pink sweater and jeans stands beside Santa Claus, who sits in a plaid rocking chair in front of a decorated Christmas tree."
 geo:
 id: 14792
 item_type: Still Image

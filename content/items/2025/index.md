@@ -26,6 +26,8 @@ files:
     original_filename: DSC03101_0e69721161.JPG
     thumb: /files/thumbnails/14fb2a6db1856b14fb2a6db1891f.jpg
     url: /files/original/14fb2a6db1856b14fb2a6db1891f.jpg
+    alt:
+      en: "A white car is nearly submerged in floodwater on a tree-lined street, with only its roof and upper body visible above the water's surface; an onscreen timestamp reads \"30 1:43 AM.\""
 geo:
   address: ''
   lat: 30.2908852473211

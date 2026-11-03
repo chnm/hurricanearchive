@@ -21,6 +21,8 @@ files:
     original_filename: Canal at Raceland.jpg
     thumb: /files/thumbnails/14fb29fb67bf8314fb29fb67c368.jpg
     url: /files/original/14fb29fb67bf8314fb29fb67c368.jpg
+    alt:
+      en: "Aerial view of an industrial complex with a long two-story building, warehouses, and parking lots filled with trucks and trailers, surrounded by trees showing storm damage and snapped trunks."
 geo:
 id: 21838
 item_type: Still Image

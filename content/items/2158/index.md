@@ -26,6 +26,8 @@ files:
     original_filename: back_floor_c5a946817f.JPG
     thumb: /files/thumbnails/14fb2a6d92bfd314fb2a6d92c389.jpg
     url: /files/original/14fb2a6d92bfd314fb2a6d92c389.jpg
+    alt:
+      en: "Bare concrete slab foundation of a destroyed house, with a brick walkway, a small pile of bricks, patio chairs, and a table scattered across the site, surrounded by storm-damaged trees."
 geo:
   address: ''
   lat: 30.294720505724204

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0160-21.JPG
     thumb: /files/thumbnails/14fb2a0135393a14fb2a01353d2a.jpg
     url: /files/original/14fb2a0135393a14fb2a01353d2a.jpg
+    alt:
+      en: "A soldier in camouflage with a rifle and nametag \"Spencer\" stands on a roadside, while another man in a cap talks on a phone nearby; a third man in a plaid shirt walks in the background."
 geo:
 id: 20976
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0301.JPG
     thumb: /files/thumbnails/14fb2a54c8cdcc14fb2a54c8cf98.jpg
     url: /files/original/14fb2a54c8cdcc14fb2a54c8cf98.jpg
+    alt:
+      en: "Close-up of a popcorn-textured ceiling with scattered dark mold or water stains and debris, along with a visible edge where the ceiling meets a wall in the lower right corner."
 geo:
 id: 4959
 item_type: Still Image

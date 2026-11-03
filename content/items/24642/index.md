@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037medics.JPG
     thumb: /files/thumbnails/14fb29e5d8423114fb29e5d84616.jpg
     url: /files/original/14fb29e5d8423114fb29e5d84616.jpg
+    alt:
+      en: "Group of men in civilian t-shirts and military fatigues standing in an indoor room, with a wall clock and bulletin board visible in the background; one shirt reads \"IT ALL STARTS WITH ATTITUDE.\""
 geo:
 id: 24642
 item_type: Still Image

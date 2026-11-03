@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 003.jpg
     thumb: /files/thumbnails/14fb2a22eb358614fb2a22eb613f.jpg
     url: /files/original/14fb2a22eb358614fb2a22eb613f.jpg
+    alt:
+      en: "Overturned boat partially submerged in a calm waterway lined with trees, with several sailboats moored along the shore and industrial equipment visible in the distance; dated 2005/09/24."
 geo:
 id: 11881
 item_type: Still Image

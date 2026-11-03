@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d08237c14fb2a0d08275a.jpg
     url: /files/original/14fb2a0d08237c14fb2a0d08275a.jpg
+    alt:
+      en: "A large striped tent and rows of supply crates and smaller shelters set up in a grassy field, with orange and white traffic barriers lying in the foreground grass."
 geo:
 id: 19874
 item_type: Still Image

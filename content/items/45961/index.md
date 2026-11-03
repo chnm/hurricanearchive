@@ -20,6 +20,8 @@ files:
     original_filename: Louisa and Higgins.jpg
     thumb: /files/thumbnails/212a06b31ecc2f369e8652ea71cd9812.jpg
     url: /files/original/212a06b31ecc2f369e8652ea71cd9812.jpg
+    alt:
+      en: "Flooded intersection at Higgins Blvd and Louisa, with traffic lights showing green above deep water and houses submerged to their rooflines in the background."
 geo:
 id: 45961
 item_type: Still Image

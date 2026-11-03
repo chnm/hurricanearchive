@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0134abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef36096414fb29ef360d40.jpg
     url: /files/original/14fb29ef36096414fb29ef360d40.jpg
+    alt:
+      en: "A dark green mobile home sits displaced near a flooded roadside, with a small aluminum boat and debris scattered on muddy ground beside bare, storm-damaged trees."
 geo:
 id: 23494
 item_type: Still Image

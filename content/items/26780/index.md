@@ -21,6 +21,8 @@ files:
     original_filename: SD 1940s car_47d0a990e0.jpg
     thumb: /files/thumbnails/14fb29d7d734e714fb29d7d738cd.jpg
     url: /files/original/14fb29d7d734e714fb29d7d738cd.jpg
+    alt:
+      en: "Black-and-white photo of a young man leaning on the fender of a vintage car, smiling at the camera, with a house and yard in the background."
 geo:
   address: ''
   lat: 29.87876

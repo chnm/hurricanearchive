@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7055_6a52f43181.jpg
     thumb: /files/thumbnails/14fb29db524f4614fb29db526204.jpg
     url: /files/original/14fb29db524f4614fb29db526204.jpg
+    alt:
+      en: "Stone Gothic-style administration building at Xavier University with large windows, framed by trees and a lawn, with two people walking on the path in front."
 geo:
   address: ''
   lat: 29.87876

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28164.jpg
     thumb: /files/thumbnails/14fb2a6b539d4614fb2a6b53a12c.jpg
     url: /files/original/14fb2a6b539d4614fb2a6b53a12c.jpg
+    alt:
+      en: "A single-story beige house with blue shutters and two front dormers shows storm damage, including broken windows, debris, and an open front entryway, with a concrete walkway leading to it."
 geo:
   address: ''
   lat: 0.0

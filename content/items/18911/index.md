@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0261downtownnola.JPG
     thumb: /files/thumbnails/14fb2a144957cd14fb2a14495e3d.jpg
     url: /files/original/14fb2a144957cd14fb2a14495e3d.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood bordered by a levee and waterway, with rows of houses, denuded trees, and a power line corridor visible along the shoreline."
 geo:
 id: 18911
 item_type: Still Image

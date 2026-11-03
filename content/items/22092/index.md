@@ -21,6 +21,8 @@ files:
     original_filename: 09210003J6.JPG
     thumb: /files/thumbnails/14fb29f98e8c1914fb29f98e8ff7.jpg
     url: /files/original/14fb29f98e8c1914fb29f98e8ff7.jpg
+    alt:
+      en: "A camouflage military Humvee parked on a dirt road beside two tall guyed antenna masts with multiple support cables, surrounded by trees under a clear blue sky."
 geo:
 id: 22092
 item_type: Still Image

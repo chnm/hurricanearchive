@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7392.JPG
     thumb: /files/thumbnails/14fb29ccd1086814fb29ccd10c4f.jpg
     url: /files/original/14fb29ccd1086814fb29ccd10c4f.jpg
+    alt:
+      en: "Large oak trees with multiple broken and downed limbs lie scattered across a yard, with a wooden deck railing in the foreground and a house visible at right."
 geo:
 id: 30694
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0155mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f301acae14fb29f301b091.jpg
     url: /files/original/14fb29f301acae14fb29f301b091.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms, one with a nametape reading \"RAYL,\" viewed through a vehicle window, with a dark silhouetted figure in the foreground."
 geo:
 id: 22862
 item_type: Still Image

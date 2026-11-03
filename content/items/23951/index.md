@@ -21,6 +21,8 @@ files:
     original_filename: 09180021plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec42e53914fb29ec42e921.jpg
     url: /files/original/14fb29ec42e53914fb29ec42e921.jpg
+    alt:
+      en: "Empty two-lane road lined with storm-damaged buildings, debris, downed power lines, and leaning utility poles under a hazy sky, with trees stripped of leaves on both sides."
 geo:
 id: 23951
 item_type: Still Image

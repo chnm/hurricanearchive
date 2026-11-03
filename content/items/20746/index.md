@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0070-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0427e2e814fb2a0427e6de.jpg
     url: /files/original/14fb2a0427e2e814fb2a0427e6de.jpg
+    alt:
+      en: "Cowboys on horseback load horses into a livestock trailer near a ranch house, with a white fence, RV, and wooded pasture in the background."
 geo:
 id: 20746
 item_type: Still Image

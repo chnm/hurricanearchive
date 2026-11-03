@@ -20,6 +20,8 @@ files:
     original_filename: 114539143_d4b1224da8.jpg
     thumb: /files/thumbnails/14fb29d186497b14fb29d1864d62.jpg
     url: /files/original/14fb29d186497b14fb29d1864d62.jpg
+    alt:
+      en: "Damaged, mud-caked bathroom with a grime-covered toilet and sink, a striped towel hanging on a rack, and a checkered shower curtain, showing extensive flood damage and debris on the floor."
 geo:
 id: 28702
 item_type: Still Image

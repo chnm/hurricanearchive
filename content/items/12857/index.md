@@ -21,6 +21,8 @@ files:
     original_filename: Lakeview 1029-2.JPG
     thumb: /files/thumbnails/14fb2a216936d614fb2a216978aa.jpg
     url: /files/original/14fb2a216936d614fb2a216978aa.jpg
+    alt:
+      en: "Severely damaged house with partially collapsed roof and exposed interior framing, surrounded by debris on the ground."
 geo:
 id: 12857
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 008.jpg
     thumb: /files/thumbnails/14fb2a59f8170414fb2a59f81b26.jpg
     url: /files/original/14fb2a59f8170414fb2a59f81b26.jpg
+    alt:
+      en: "Debris field with scattered wood, metal, and uprooted trees along a sandy shoreline, with a collapsed bridge structure visible in the background under a clear blue sky."
 geo:
 id: 3728
 item_type: Still Image

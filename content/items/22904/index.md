@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2236media.JPG
     thumb: /files/thumbnails/14fb29f2c8f76e14fb29f2c8fb54.jpg
     url: /files/original/14fb29f2c8f76e14fb29f2c8fb54.jpg
+    alt:
+      en: "A reporter in a pink shirt holds a microphone toward a man in military camouflage while a videographer films, with storm-damaged trees, debris, and workers in protective gear visible behind them."
 geo:
 id: 22904
 item_type: Still Image

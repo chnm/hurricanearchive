@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0103H.JPG
     thumb: /files/thumbnails/14fb29e7497aaa14fb29e7497e60.jpg
     url: /files/original/14fb29e7497aaa14fb29e7497e60.jpg
+    alt:
+      en: "A nearly black nighttime photo with a string of small, warm-toned lights visible in the upper right corner, likely strand lighting against a dark sky."
 geo:
 id: 24488
 item_type: Still Image

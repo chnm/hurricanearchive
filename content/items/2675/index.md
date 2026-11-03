@@ -21,6 +21,8 @@ files:
     original_filename: 10.jpg
     thumb: /files/thumbnails/14fb2a609d9f4114fb2a609da329.jpg
     url: /files/original/14fb2a609d9f4114fb2a609da329.jpg
+    alt:
+      en: "Child's marker drawing by Jaleel, age 9, depicting a purple four-story building, a tree with a cat, a car, a lake, and grass, with handwritten labels pointing to each element."
 geo:
 id: 2675
 item_type: Still Image

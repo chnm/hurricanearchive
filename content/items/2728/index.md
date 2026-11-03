@@ -24,6 +24,8 @@ files:
     original_filename: 26.jpg
     thumb: /files/thumbnails/14fb2a6066efed14fb2a6066f3c8.jpg
     url: /files/original/14fb2a6066efed14fb2a6066f3c8.jpg
+    alt:
+      en: "Child's crayon and marker drawing labeled \"Joshua 15\" showing a camouflage helicopter marked \"RESCUE\" flying over flooded buildings, with a boat carrying stick figures and an alligator in floodwater below."
 geo:
 id: 2728
 item_type: Still Image

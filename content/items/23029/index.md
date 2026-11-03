@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039OEP.JPG
     thumb: /files/thumbnails/14fb29f1fd412814fb29f1fd4517.jpg
     url: /files/original/14fb29f1fd412814fb29f1fd4517.jpg
+    alt:
+      en: "Row of large RVs (including models labeled \"Revolution\" and \"Endeavor\") and a camping tent parked on grass beside a brick building, with a dark sedan and a radio tower in the background."
 geo:
 id: 23029
 item_type: Still Image

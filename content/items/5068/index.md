@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0413.JPG
     thumb: /files/thumbnails/14fb2a542796d114fb2a54279a62.jpg
     url: /files/original/14fb2a542796d114fb2a54279a62.jpg
+    alt:
+      en: "Rows of white support pilings stand amid storm debris where a house once stood, with damaged pine trees and a white railing visible in the background under a clear blue sky."
 geo:
 id: 5068
 item_type: Still Image

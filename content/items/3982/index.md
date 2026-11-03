@@ -21,6 +21,8 @@ files:
     original_filename: DSC01072.JPG
     thumb: /files/thumbnails/14fb2a58a79e8314fb2a58a7a267.jpg
     url: /files/original/14fb2a58a79e8314fb2a58a7a267.jpg
+    alt:
+      en: "Two U.S. Coast Guard members in orange life vests ride a small boat through a flooded street lined with partially submerged houses and power lines, with another boat carrying people visible ahead."
 geo:
 id: 3982
 item_type: Still Image

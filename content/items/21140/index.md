@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0184.JPG
     thumb: /files/thumbnails/14fb2a0060fb2114fb2a0060ff2a.jpg
     url: /files/original/14fb2a0060fb2114fb2a0060ff2a.jpg
+    alt:
+      en: "Rows of houses reduced to collapsed roofs and scattered debris line a flooded street, with a truck parked amid the wreckage and trees still standing in the background."
 geo:
 id: 21140
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 059.jpg
     thumb: /files/thumbnails/14fb2a59bb2cf514fb2a59bb30d8.jpg
     url: /files/original/14fb2a59bb2cf514fb2a59bb30d8.jpg
+    alt:
+      en: "Debris-strewn lot with scattered rubble and bare, storm-damaged trees in the foreground, with partially damaged houses and mobile homes visible amid greenery under a clear blue sky."
 geo:
 id: 3779
 item_type: Still Image

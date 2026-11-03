@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1731superdome.JPG
     thumb: /files/thumbnails/14fb29e21c5f9514fb29e21c637c.jpg
     url: /files/original/14fb29e21c5f9514fb29e21c637c.jpg
+    alt:
+      en: "A military Black Hawk helicopter marked \"289\" sits on tarmac as a group of people in camouflage uniforms help a man in a white t-shirt board through its open side door."
 geo:
 id: 25128
 item_type: Still Image

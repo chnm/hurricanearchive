@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C0G_5c7e072f75.jpg
     thumb: /files/thumbnails/14fb2a66aaafef14fb2a66aabd00.jpg
     url: /files/original/14fb2a66aaafef14fb2a66aabd00.jpg
+    alt:
+      en: "Debris field of twisted metal roofing, broken boats, and fallen trees along a waterway, with a damaged open-air pavilion structure visible in the background under an overcast sky."
 geo:
 id: 2407
 item_type: Still Image

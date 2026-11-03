@@ -21,6 +21,8 @@ files:
     original_filename: collapse2.jpg
     thumb: /files/thumbnails/14fb2a208f072e14fb2a208f0b20.jpg
     url: /files/original/14fb2a208f072e14fb2a208f0b20.jpg
+    alt:
+      en: "Collapsed building with exposed beams and debris scattered across a wet, empty parking lot, shrouded in heavy fog or rain with a lamppost bent in the foreground."
 geo:
 id: 13074
 item_type: Still Image

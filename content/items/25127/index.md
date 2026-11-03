@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1730superdome.JPG
     thumb: /files/thumbnails/14fb29e21d6d0514fb29e21d7124.jpg
     url: /files/original/14fb29e21d6d0514fb29e21d7124.jpg
+    alt:
+      en: "A group of military personnel and medical staff carry a patient on a stretcher toward a military helicopter marked \"289\" on a tarmac, with buildings visible in the background."
 geo:
 id: 25127
 item_type: Still Image

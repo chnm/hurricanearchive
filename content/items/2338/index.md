@@ -26,6 +26,8 @@ files:
     original_filename: 100_1520_b15d0d0f29.JPG
     thumb: /files/thumbnails/14fb2a6d491cc014fb2a6d4920a4.jpg
     url: /files/original/14fb2a6d491cc014fb2a6d4920a4.jpg
+    alt:
+      en: "Burned-out two-story house with blackened, hollow window frames stands behind a collapsed, charred vehicle and scattered debris, surrounded by scorched trees and a wooden fence."
 geo:
   address: ''
   lat: 30.4454179233169

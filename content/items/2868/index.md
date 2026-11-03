@@ -21,6 +21,8 @@ files:
     original_filename: MVC-025S.JPG
     thumb: /files/thumbnails/14fb2a5fbf0c4f14fb2a5fbf1035.jpg
     url: /files/original/14fb2a5fbf0c4f14fb2a5fbf1035.jpg
+    alt:
+      en: "A large multi-drawer flat file cabinet sits atop a gray metal filing cabinet, with two military-style helmets resting nearby on another cabinet in a dimly lit storage room."
 geo:
 id: 2868
 item_type: Still Image

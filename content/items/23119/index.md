@@ -21,6 +21,8 @@ files:
     original_filename: 051003-A-2604S-0011WestVirginiaNG.jpg
     thumb: /files/thumbnails/14fb29f17c4bee14fb29f17c4fe1.jpg
     url: /files/original/14fb29f17c4bee14fb29f17c4fe1.jpg
+    alt:
+      en: "A National Guard soldier in camouflage uniform hands out food trays from the back of a truck to a woman in a green tank top holding a young child, with another man in a cap looking on."
 geo:
 id: 23119
 item_type: Still Image

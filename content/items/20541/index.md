@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a064deb2514fb2a064def09.jpg
     url: /files/original/14fb2a064deb2514fb2a064def09.jpg
+    alt:
+      en: "A red tractor with large black tires carries three men through a flooded roadway, with trees lining the water's edge in the background."
 geo:
 id: 20541
 item_type: Still Image

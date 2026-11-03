@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9521.jpg
     thumb: /files/thumbnails/14fb2a645af3a914fb2a645af78e.jpg
     url: /files/original/14fb2a645af3a914fb2a645af78e.jpg
+    alt:
+      en: "Weathered white building with a second-story balcony, spray-painted in red with search-and-rescue notes: \"15 FOOD & WATER,\" \"15 PEOPLE/ICE,\" and \"DOGS WE HAVE ANIMALS NOT LEAVING.\""
 geo:
 id: 2598
 item_type: Still Image

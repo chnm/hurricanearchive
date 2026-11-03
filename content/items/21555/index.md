@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0295-16.JPG
     thumb: /files/thumbnails/14fb29fd9e275314fb29fd9e2b34.jpg
     url: /files/original/14fb29fd9e275314fb29fd9e2b34.jpg
+    alt:
+      en: "A person wearing a red hard hat operates a Bobcat skid-steer loader labeled \"763\" and \"NationsRent,\" pushing thick mud or silt across a flooded street near a parked car."
 geo:
 id: 21555
 item_type: Still Image

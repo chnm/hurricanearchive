@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1029.JPG
     thumb: /files/thumbnails/14fb2a57bdf13914fb2a57bdf51f.jpg
     url: /files/original/14fb2a57bdf13914fb2a57bdf51f.jpg
+    alt:
+      en: "A damaged high-rise office tower with shattered windows stands beside a \"GALLERIA\" sign and a \"WYNDHAM\" hotel building, with a red car and highway barrier in the foreground."
 geo:
 id: 4101
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0250.JPG
     thumb: /files/thumbnails/14fb2a5f174b5a14fb2a5f175735.jpg
     url: /files/original/14fb2a5f174b5a14fb2a5f175735.jpg
+    alt:
+      en: "Interior view of a submarine hatch chamber, with a large round hatch wheel at center surrounded by brass pipes, valves, and dim lighting fixtures mounted on curved metal walls."
 geo:
 id: 3001
 item_type: Still Image

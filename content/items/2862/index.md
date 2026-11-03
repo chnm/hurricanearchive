@@ -21,6 +21,8 @@ files:
     original_filename: MVC-019S.JPG
     thumb: /files/thumbnails/14fb2a5fc76abb14fb2a5fc76ea1.jpg
     url: /files/original/14fb2a5fc76abb14fb2a5fc76ea1.jpg
+    alt:
+      en: "Interior of a ship's galley or mess deck with overhead pipes and ductwork, a red-painted floor, stainless steel counters and a large pot, and a long folded table with attached stools along the wall."
 geo:
 id: 2862
 item_type: Still Image

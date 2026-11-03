@@ -21,6 +21,8 @@ files:
     original_filename: EO A0019.TIF
     thumb: /files/thumbnails/14fb29fb5a9aaf14fb29fb5a9ea0.jpg
     url: /files/original/14fb29fb5a9aaf14fb29fb5a9ea0.TIF
+    alt:
+      en: "Black-and-white aerial/satellite photograph showing a river or waterway running vertically through the frame, bordered by a road and forested land on the left and a developed shoreline with docks, streets, and buildings on the right."
 geo:
 id: 21859
 item_type: Still Image

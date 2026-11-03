@@ -21,6 +21,8 @@ files:
     original_filename: P1010186empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed4d4bee14fb29ed4d546c.jpg
     url: /files/original/14fb29ed4d4bee14fb29ed4d546c.jpg
+    alt:
+      en: "Flat marshy field with a narrow water channel in the foreground, wooden fence posts crossing the grass, and a line of trees with a small white shed in the background under a hazy sky."
 geo:
 id: 23745
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 070engineers.jpg
     thumb: /files/thumbnails/14fb2a0f9c086b14fb2a0f9c0c50.jpg
     url: /files/original/14fb2a0f9c086b14fb2a0f9c0c50.jpg
+    alt:
+      en: "Aerial view of Slidell, Louisiana, showing a large warehouse building, roads, a marina, and surrounding trees with visible storm damage; overlay text reads \"WHIRS Miss#LA-037-05A – Slidell LTC N301619 W894733 Lat/Lon: 3016.00N 08947.00W.\""
 geo:
 id: 19510
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010H.JPG
     thumb: /files/thumbnails/14fb2a07fceaf814fb2a07fceedc.jpg
     url: /files/original/14fb2a07fceaf814fb2a07fceedc.jpg
+    alt:
+      en: "Two women in white Hooters tank tops reading \"Hooters Siegen Lane, Baton Rouge II, LA\" pose with a bald man in a \"Property of XXXTASY Ranch\" t-shirt under string lights at night."
 geo:
 id: 20402
 item_type: Still Image

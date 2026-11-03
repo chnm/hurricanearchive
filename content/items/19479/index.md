@@ -21,6 +21,8 @@ files:
     original_filename: Picture 039engineers.jpg
     thumb: /files/thumbnails/14fb2a0fcc9a0a14fb2a0fcc9ded.jpg
     url: /files/original/14fb2a0fcc9a0a14fb2a0fcc9ded.jpg
+    alt:
+      en: "Aerial view from an airplane window of a flooded coastal landscape surrounding an industrial refinery complex with storage tanks, overlaid with onscreen text identifying it as a Chevron refinery west of Venice, Louisiana."
 geo:
 id: 19479
 item_type: Still Image

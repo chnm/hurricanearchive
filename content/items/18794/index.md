@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028lakecharles.JPG
     thumb: /files/thumbnails/14fb2a1539ff1714fb2a153a02fd.jpg
     url: /files/original/14fb2a1539ff1714fb2a153a02fd.jpg
+    alt:
+      en: "Aerial view of a cloverleaf highway interchange with heavy traffic, surrounded by trees, grassy medians, and a mix of commercial and residential buildings, including a \"Holiday Inn Express\" sign."
 geo:
 id: 18794
 item_type: Still Image

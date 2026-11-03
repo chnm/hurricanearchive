@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28429.jpg
     thumb: /files/thumbnails/14fb2a6a6b9bbf14fb2a6a6ba1e5.jpg
     url: /files/original/14fb2a6a6b9bbf14fb2a6a6ba1e5.jpg
+    alt:
+      en: "A white plastic chair stands alone amid storm debris, with fallen trees, scattered branches, and a damaged brick wall in a cleared lot under a hazy sky."
 geo:
   address: ''
   lat: 0.0

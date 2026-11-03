@@ -24,6 +24,8 @@ files:
     original_filename: P1010142.JPG
     thumb: /files/thumbnails/14fb2a5a16386f14fb2a5a163c59.jpg
     url: /files/original/14fb2a5a16386f14fb2a5a163c59.jpg
+    alt:
+      en: "Large sawed sections of an oak tree trunk piled in front of a white shotgun-style house with columned porch, a search/rescue marking in pink spray paint visible on the siding near the door."
 geo:
 id: 3699
 item_type: Still Image

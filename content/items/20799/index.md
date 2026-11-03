@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0081-16.JPG
     thumb: /files/thumbnails/14fb2a03b8c88414fb2a03b8cc78.jpg
     url: /files/original/14fb2a03b8c88414fb2a03b8cc78.jpg
+    alt:
+      en: "Vast field of storm debris including crumpled metal roofing, splintered wood, cinder blocks, a sink, and straw-like plant matter, with damaged mobile homes visible in the background under a clear sky."
 geo:
 id: 20799
 item_type: Still Image

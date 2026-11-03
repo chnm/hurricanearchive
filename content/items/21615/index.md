@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0349-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd0c551314fb29fd0ca109.jpg
     url: /files/original/14fb29fd0c551314fb29fd0ca109.jpg
+    alt:
+      en: "Sideways photo of a wide, calm waterway with a partially sunken or listing boat near the far bank, marsh grass along the shoreline, and a dark, blurred silhouette (likely a person or animal) in the foreground."
 geo:
 id: 21615
 item_type: Still Image

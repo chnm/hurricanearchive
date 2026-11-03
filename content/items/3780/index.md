@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 060.jpg
     thumb: /files/thumbnails/14fb2a59b79f0b14fb2a59b7a2ef.jpg
     url: /files/original/14fb2a59b79f0b14fb2a59b7a2ef.jpg
+    alt:
+      en: "A wrecked boat lies crumpled amid debris and broken trees, with scattered bricks and storm wreckage covering the ground in the foreground."
 geo:
 id: 3780
 item_type: Still Image

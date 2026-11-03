@@ -26,6 +26,8 @@ files:
     original_filename: 473693283_668154ca64.jpg
     thumb: /files/thumbnails/14fb29d5bd424e14fb29d5bd4634.jpg
     url: /files/original/14fb29d5bd424e14fb29d5bd4634.jpg
+    alt:
+      en: "Man wearing a tan cap and tinted glasses, with a gray beard, smiles while wearing a teal shirt with a \"Habitat\" logo and a dark shoulder strap, standing before a white clapboard wall."
 geo:
 id: 27038
 item_type: Still Image

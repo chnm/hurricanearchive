@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-008_5efe78b5d9.jpg
     thumb: /files/thumbnails/14fb2a16b5e21614fb2a16b5e5fc.jpg
     url: /files/original/14fb2a16b5e21614fb2a16b5e5fc.jpg
+    alt:
+      en: "Group of volunteers with shovels and gloves stand behind rows of potted cypress seedlings and a large mound of soil, with a bag of weed/grass killer in the foreground, trees lining the yard."
 geo:
 id: 15263
 item_type: Still Image

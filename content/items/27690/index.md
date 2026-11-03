@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6715_91d38d5979.JPG
     thumb: /files/thumbnails/14fb29d2f7984014fb29d2f7c225.jpg
     url: /files/original/14fb29d2f7984014fb29d2f7c225.jpg
+    alt:
+      en: "Black-and-white photo of a young girl using a saw at a child-sized workbench outdoors, while a boy peeks out from underneath; houses and a swing set are visible in the background."
 geo:
   address: ''
   lat: 29.95493

@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9052.jpg
     thumb: /files/thumbnails/14fb2a6530b4fc14fb2a6530b8e3.jpg
     url: /files/original/14fb2a6530b4fc14fb2a6530b8e3.jpg
+    alt:
+      en: "A large teddy bear and a patriotic stuffed duck sit in a tree, above a handmade wooden sign reading \"HANG IN THERE NAWLINS WE ARE AMERICA'S #1 CITY.\""
 geo:
 id: 2566
 item_type: Still Image

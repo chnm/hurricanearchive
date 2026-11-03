@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8493.jpg
     thumb: /files/thumbnails/14fb2a66419e8314fb2a6641a154.jpg
     url: /files/original/14fb2a66419e8314fb2a6641a154.jpg
+    alt:
+      en: "A white Coachmen travel trailer parked on crushed-shell ground near a wooden \"117 Lakeview Drive\" sign, with a damaged pier and water visible in the background."
 geo:
 id: 2468
 item_type: Still Image

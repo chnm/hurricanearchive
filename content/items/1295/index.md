@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28210.jpg
     thumb: /files/thumbnails/14fb2a69ce21b014fb2a69ce2596.jpg
     url: /files/original/14fb2a69ce21b014fb2a69ce2596.jpg
+    alt:
+      en: "Concrete foundation slab with an American flag draped on remnants of a wall, surrounded by leafless, storm-damaged trees; a sign in the foreground reads \"116 WAVELAND.\""
 geo:
   address: ''
   lat: 0.0

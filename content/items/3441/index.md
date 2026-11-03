@@ -24,6 +24,8 @@ files:
     original_filename: P1010009a.JPG
     thumb: /files/thumbnails/14fb2a5bb9a25514fb2a5bb9ac9c.jpg
     url: /files/original/14fb2a5bb9a25514fb2a5bb9ac9c.jpg
+    alt:
+      en: "Tree-lined residential street with debris piles—appliances, furniture, and a large metal drum—stacked along the curb on the grassy median, with parked vehicles and a clear blue sky overhead."
 geo:
 id: 3441
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010111.JPG
     thumb: /files/thumbnails/14fb2a5a2c514a14fb2a5a2c552f.jpg
     url: /files/original/14fb2a5a2c514a14fb2a5a2c552f.jpg
+    alt:
+      en: "Severely damaged roof of a brick house with large sections of shingles torn away, exposing the underlying plywood decking; a tree is visible to the left against a bright sky."
 geo:
 id: 3674
 item_type: Still Image

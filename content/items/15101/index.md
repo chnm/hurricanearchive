@@ -21,6 +21,8 @@ files:
     original_filename: CampusShots5 05 (2)-12_80372f0513.jpg
     thumb: /files/thumbnails/14fb2a1726e66d14fb2a17270d85.jpg
     url: /files/original/14fb2a1726e66d14fb2a17270d85.jpg
+    alt:
+      en: "Two students sit in office chairs using desktop computers at a library workstation, with bookshelves and printers visible in the background."
 geo:
 id: 15101
 item_type: Still Image

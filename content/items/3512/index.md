@@ -24,6 +24,8 @@ files:
     original_filename: P1010086.JPG
     thumb: /files/thumbnails/14fb2a5b3dfba414fb2a5b3dff8a.jpg
     url: /files/original/14fb2a5b3dfba414fb2a5b3dff8a.jpg
+    alt:
+      en: "A large multi-story masonry school building with rows of windows sits on a corner lot, shaded by mature oak trees; a street sign reading \"Franklin Ave\" and \"Jonquil\" marks the intersection."
 geo:
 id: 3512
 item_type: Still Image

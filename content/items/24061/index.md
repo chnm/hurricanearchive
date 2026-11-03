@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29eb24b90f14fb29eb24b9fb.jpg
     url: /files/original/14fb29eb24b90f14fb29eb24b9fb.jpg
+    alt:
+      en: "Aerial view of flooded, muddy terrain with scattered patches of yellow-green vegetation and darker water channels winding across the waterlogged landscape."
 geo:
 id: 24061
 item_type: Still Image

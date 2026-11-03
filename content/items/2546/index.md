@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8826.jpg
     thumb: /files/thumbnails/14fb2a65707ecb14fb2a657089f9.jpg
     url: /files/original/14fb2a65707ecb14fb2a657089f9.jpg
+    alt:
+      en: "Damaged white wooden house shifted off its foundation beside an abandoned sedan, with a detached car door and mud-caked vehicle hood in the foreground of a debris-strewn dirt street."
 geo:
 id: 2546
 item_type: Still Image

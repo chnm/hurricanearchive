@@ -20,6 +20,8 @@ files:
     original_filename: Causeway on Sunday_aa8c3aac06.JPG
     thumb: /files/thumbnails/14fb29c5ddab9814fb29c5ddaf7e.jpg
     url: /files/original/14fb29c5ddab9814fb29c5ddaf7e.jpg
+    alt:
+      en: "Maroon Chevrolet pickup truck on a crowded highway, with a large metal barrel strapped into its open bed, surrounded by other vehicles in evacuation traffic."
 geo:
   address: ''
   lat: 30.2211

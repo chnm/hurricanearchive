@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0555.JPG
     thumb: /files/thumbnails/14fb2a537005c714fb2a537009ac.jpg
     url: /files/original/14fb2a537005c714fb2a537009ac.jpg
+    alt:
+      en: "Open dirt and sparse grass field with scattered pine trees under a clear blue sky, a paved road in the background, and a partially built wooden structure with exposed framing to the right."
 geo:
 id: 5193
 item_type: Still Image

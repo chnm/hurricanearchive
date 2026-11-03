@@ -21,6 +21,8 @@ files:
     original_filename: MVC-014S.JPG
     thumb: /files/thumbnails/14fb2a5fa555a114fb2a5fa5597e.jpg
     url: /files/original/14fb2a5fa555a114fb2a5fa5597e.jpg
+    alt:
+      en: "Interior of a mechanical or utility room aboard a ship, featuring a white industrial cabinet with glass-paneled doors, valves, gauges, and piping, set on a red-painted floor beside a ladder with white rungs."
 geo:
 id: 2891
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0240downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14a1488c14fb2a14a14e51.jpg
     url: /files/original/14fb2a14a1488c14fb2a14a14e51.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with debris-strewn lots, scattered trees, and a large barge washed ashore amid the wreckage, with industrial buildings visible in the hazy background."
 geo:
 id: 18890
 item_type: Still Image

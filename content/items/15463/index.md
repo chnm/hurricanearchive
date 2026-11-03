@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_LoganPage_08_27a93f3447.jpg
     thumb: /files/thumbnails/14fb2a163c5a5514fb2a163c5e3b.jpg
     url: /files/original/14fb2a163c5a5514fb2a163c5e3b.jpg
+    alt:
+      en: "School portrait of a young girl with her hair pulled into a high ponytail, wearing a white collared shirt and small stud earrings, against a mottled blue studio backdrop; \"2005\" is printed in the lower left corner."
 geo:
 id: 15463
 item_type: Still Image

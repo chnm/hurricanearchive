@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0176-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a009f271a14fb2a009f2b00.jpg
     url: /files/original/14fb2a009f271a14fb2a009f2b00.jpg
+    alt:
+      en: "Aerial view of a hazy city skyline with high-rise buildings in the distance, overlooking a dense, low-rise residential neighborhood with tree-lined streets in the foreground."
 geo:
 id: 21095
 item_type: Still Image

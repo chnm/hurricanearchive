@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053H.JPG
     thumb: /files/thumbnails/14fb2a0556309e14fb2a05563482.jpg
     url: /files/original/14fb2a0556309e14fb2a05563482.jpg
+    alt:
+      en: "A uniformed man sits smoking a cigarette behind a wooden barrier, facing others in camouflage military uniforms seated around a table in a dimly lit tent."
 geo:
 id: 20667
 item_type: Still Image

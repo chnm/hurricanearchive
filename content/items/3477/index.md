@@ -24,6 +24,8 @@ files:
     original_filename: P1010051.JPG
     thumb: /files/thumbnails/14fb2a5b92710c14fb2a5b9274f2.jpg
     url: /files/original/14fb2a5b92710c14fb2a5b9274f2.jpg
+    alt:
+      en: "A single-story brick house with storm-damaged, broken trees in the yard, and piles of debris, mattresses, and furniture discarded on the lawn near the sidewalk."
 geo:
 id: 3477
 item_type: Still Image

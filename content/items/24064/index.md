@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eb1e478e14fb29eb1e5e80.jpg
     url: /files/original/14fb29eb1e478e14fb29eb1e5e80.jpg
+    alt:
+      en: "Man wearing a backward cap, plaid shirt, and \"PRESS\" lanyard sits with backpack straps on shoulders; a military vehicle with partially visible stenciled text is behind him in dim evening light."
 geo:
 id: 24064
 item_type: Still Image

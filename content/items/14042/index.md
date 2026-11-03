@@ -21,6 +21,8 @@ files:
     original_filename: 20050928008.JPG
     thumb: /files/thumbnails/14fb2a1c0e3d6f14fb2a1c0e414f.jpg
     url: /files/original/14fb2a1c0e3d6f14fb2a1c0e414f.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand among cots and gear set up on a blue tarp inside a school gymnasium, with a basketball hoop and \"Yellowjackets\" signage visible overhead."
 geo:
   address: ''
   lat: 0.0

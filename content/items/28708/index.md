@@ -20,6 +20,8 @@ files:
     original_filename: 114538925_3ea2589744.jpg
     thumb: /files/thumbnails/14fb29d17b301e14fb29d17b3402.jpg
     url: /files/original/14fb29d17b301e14fb29d17b3402.jpg
+    alt:
+      en: "Interior of a storm-damaged room with peeling, water-stained walls, a doorway, and a built-in shelf unit; two people wearing dust masks and gloves stand near a worn sofa under a ceiling fan."
 geo:
 id: 28708
 item_type: Still Image

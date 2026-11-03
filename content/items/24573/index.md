@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0119-21-2.JPG
     thumb: /files/thumbnails/14fb29e6862d7d14fb29e686335e.jpg
     url: /files/original/14fb29e6862d7d14fb29e686335e.jpg
+    alt:
+      en: "Uniformed personnel work at laptops in a dim room lined with blue tile, with a flip chart listing names and numbers in the foreground and folding tables and chairs throughout."
 geo:
 id: 24573
 item_type: Still Image

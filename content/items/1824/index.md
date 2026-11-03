@@ -26,6 +26,8 @@ files:
     original_filename: My_house_with_damage_items_at_curb_fc9546bbf9.jpg
     thumb: /files/thumbnails/14fb2a6ebe39f714fb2a6ebe3ddc.jpg
     url: /files/original/14fb2a6ebe39f714fb2a6ebe3ddc.jpg
+    alt:
+      en: "A large pile of flood-damaged household items, including furniture, cushions, and debris, sits curbside in front of a house after hurricane flooding."
 geo:
   address: ''
   lat: 30.027041

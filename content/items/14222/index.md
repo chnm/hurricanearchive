@@ -21,6 +21,8 @@ files:
     original_filename: parkinggarage1.JPG
     thumb: /files/thumbnails/14fb2a1a796edb14fb2a1a797368.jpg
     url: /files/original/14fb2a1a796edb14fb2a1a797368.jpg
+    alt:
+      en: "Rows of cots set up in a concrete parking garage, with personal gear, duffel bags, and cardboard boxes scattered about while people rest or stand near a canopy tent in the background."
 geo:
   address: ''
   lat: 0.0

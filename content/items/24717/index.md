@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-19-18Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e562196214fb29e56228a5.jpg
     url: /files/original/14fb29e562196214fb29e56228a5.jpg
+    alt:
+      en: "High-angle view of a large group of people boarding a military truck beside floodwater, with a concrete structure and submerged area visible nearby."
 geo:
 id: 24717
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: ChristianFellowshipChurchBeaumontSept24_68691f7edd.jpg
     thumb: /files/thumbnails/14fb2a6f01dd5a14fb2a6f01e140.jpg
     url: /files/original/14fb2a6f01dd5a14fb2a6f01e140.jpg
+    alt:
+      en: "Collapsed roof and scattered debris cover the floor of a storm-damaged building, with exposed insulation hanging from the exposed ceiling structure and a small tree growing against the wall."
 geo:
   address: ''
   lat: 30.148461

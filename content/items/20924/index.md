@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0149-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a01f29a7514fb2a01f41664.jpg
     url: /files/original/14fb2a01f29a7514fb2a01f41664.jpg
+    alt:
+      en: "Aerial view of a flooded coastal road surrounded by debris, overturned vehicles, and scattered building wreckage, with floodwaters submerging the surrounding land and trees."
 geo:
 id: 20924
 item_type: Still Image

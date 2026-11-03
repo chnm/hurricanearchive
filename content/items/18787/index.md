@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2216bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a153e0a0114fb2a153e0de7.jpg
     url: /files/original/14fb2a153e0a0114fb2a153e0de7.jpg
+    alt:
+      en: "A military officer in camouflage uniform greets a line of standing service members outdoors on a tarmac, with military trucks and a photographer with a video camera in the background."
 geo:
 id: 18787
 item_type: Still Image

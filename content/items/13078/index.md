@@ -21,6 +21,8 @@ files:
     original_filename: coolingtower wind2.jpg
     thumb: /files/thumbnails/14fb2a208c8e7c14fb2a208c9262.jpg
     url: /files/original/14fb2a208c8e7c14fb2a208c9262.jpg
+    alt:
+      en: "Industrial cooling tower structure with pipes and ladder, partially obscured by heavy fog or rain, viewed from behind a guardrail."
 geo:
 id: 13078
 item_type: Still Image

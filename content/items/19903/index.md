@@ -21,6 +21,8 @@ files:
     original_filename: P1010003gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cc9155414fb2a0cc91c1a.jpg
     url: /files/original/14fb2a0cc9155414fb2a0cc91c1a.jpg
+    alt:
+      en: "A military helicopter hovers low over a grassy field near a paved helipad, with a Quonset-style hangar, storage tanks, and trees visible in the background."
 geo:
 id: 19903
 item_type: Still Image

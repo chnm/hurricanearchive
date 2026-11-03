@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0087.JPG
     thumb: /files/thumbnails/14fb2a5617143914fb2a56173229.jpg
     url: /files/original/14fb2a5617143914fb2a56173229.jpg
+    alt:
+      en: "Damaged elevated building stripped to its frame, surrounded by bare, debarked trees and storm debris on a sandy lot, viewed through a car windshield under a clear blue sky."
 geo:
 id: 4696
 item_type: Still Image

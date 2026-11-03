@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014OEP.JPG
     thumb: /files/thumbnails/14fb29f224a6cc14fb29f224abe2.jpg
     url: /files/original/14fb29f224a6cc14fb29f224abe2.jpg
+    alt:
+      en: "Aerial view of a large parking lot filled with cars, SUVs, and news trucks, with a small canopy tent set up for a TV interview and a radio tower visible in the background."
 geo:
 id: 23004
 item_type: Still Image

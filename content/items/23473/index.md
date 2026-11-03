@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0123cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef46d77e14fb29ef46db5c.jpg
     url: /files/original/14fb29ef46d77e14fb29ef46db5c.jpg
+    alt:
+      en: "Flooded wetland with dead tree snags standing in still water, patches of yellow-green algae or vegetation covering the surface, and a tree line separating the water from a pale blue sky."
 geo:
 id: 23473
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0667.JPG
     thumb: /files/thumbnails/14fb2a53561c7c14fb2a5356bc05.jpg
     url: /files/original/14fb2a53561c7c14fb2a5356bc05.jpg
+    alt:
+      en: "Collapsed building with a dark shingled roof section lying flat amid debris, surrounded by remnants of brick or block walls, scattered rubble, and bare dirt ground, with tall pine trees in the background."
 geo:
 id: 5222
 item_type: Still Image

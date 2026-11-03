@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28122.jpg
     thumb: /files/thumbnails/14fb2a6b34b86814fb2a6b34bc3d.jpg
     url: /files/original/14fb2a6b34b86814fb2a6b34bc3d.jpg
+    alt:
+      en: "A man surveys storm debris near a collapsed metal roof and damaged buildings at the 17th Street Canal breach site in Lakeview, New Orleans."
 geo:
   address: ''
   lat: 0.0

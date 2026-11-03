@@ -21,6 +21,8 @@ files:
     original_filename: 100_0164.JPG
     thumb: /files/thumbnails/14fb2a592789c314fb2a59278d91.jpg
     url: /files/original/14fb2a592789c314fb2a59278d91.jpg
+    alt:
+      en: "A dark blue and white boat labeled \"Contender,\" registration LA 7692 FA, sits stranded beside a flooded house, with floodwater covering the yard amid trees and bushes."
 geo:
 id: 3871
 item_type: Still Image

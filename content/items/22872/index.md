@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0200mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2f629d714fb29f2f63006.jpg
     url: /files/original/14fb29f2f629d714fb29f2f63006.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms stand near a military Humvee parked on a residential street, with a house and trees visible in the background."
 geo:
 id: 22872
 item_type: Still Image

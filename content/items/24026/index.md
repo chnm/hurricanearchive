@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-16-14AneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ebc48e1c14fb29ebc49219.jpg
     url: /files/original/14fb29ebc48e1c14fb29ebc49219.jpg
+    alt:
+      en: "Vehicle side mirror reflects trees as the truck drives past storm-damaged trees with broken branches lining a roadside, with a large multistory building in the background."
 geo:
 id: 24026
 item_type: Still Image

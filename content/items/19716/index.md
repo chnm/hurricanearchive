@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 103cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e35182214fb2a0e351c00.jpg
     url: /files/original/14fb2a0e35182214fb2a0e351c00.jpg
+    alt:
+      en: "Three soldiers in camouflage fatigues stand talking on a debris-strewn street, with palm trees, shrubs, and a columned house visible behind them."
 geo:
 id: 19716
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1569superdome.JPG
     thumb: /files/thumbnails/14fb29e2b02cae14fb29e2b03092.jpg
     url: /files/original/14fb29e2b02cae14fb29e2b03092.jpg
+    alt:
+      en: "A soldier in camouflage pants stands beside a military truck in a parking lot, facing a large curved building (the Superdome) where a crowd gathers; a police car and SUV are parked nearby."
 geo:
 id: 25044
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0120abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef49253114fb29ef492915.jpg
     url: /files/original/14fb29ef49253114fb29ef492915.jpg
+    alt:
+      en: "Man wearing sunglasses and camouflage cap sits in a chair atop a military cargo truck marked \"225GP 769TH EXGR BX,\" raising his hands with trees and cloudy sky in the background."
 geo:
 id: 23469
 item_type: Still Image

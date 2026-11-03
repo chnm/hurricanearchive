@@ -21,6 +21,8 @@ files:
     original_filename: Picture 056cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bed1af714fb2a0bed1edd.jpg
     url: /files/original/14fb2a0bed1af714fb2a0bed1edd.jpg
+    alt:
+      en: "A large, gnarled tree with thick branches entangled with utility wires, set against a blue sky with a wooden utility pole and the gabled roof of a house visible in the background."
 geo:
 id: 19959
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9101.jpg
     thumb: /files/thumbnails/14fb2a649e6e2a14fb2a649e720f.jpg
     url: /files/original/14fb2a649e6e2a14fb2a649e720f.jpg
+    alt:
+      en: "Large pile of ruined refrigerators, appliances, and electronics heaped outside Harrison Grocery, whose sign advertises \"Hot Lunches, Po-Boys, Fine Wine, Beer, Liquor,\" with storm-damaged trees behind."
 geo:
 id: 2580
 item_type: Still Image

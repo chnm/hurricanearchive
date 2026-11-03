@@ -21,6 +21,8 @@ files:
     original_filename: Picture 026zephyrfield.jpg
     thumb: /files/thumbnails/14fb2a0f4ed3ad14fb2a0f4ed793.jpg
     url: /files/original/14fb2a0f4ed3ad14fb2a0f4ed793.jpg
+    alt:
+      en: "Military personnel in fatigues stand near a white sedan and truck on a roadway, with stacked bottled water cases and supply boxes piled beside the road under an overcast sky."
 geo:
 id: 19546
 item_type: Still Image

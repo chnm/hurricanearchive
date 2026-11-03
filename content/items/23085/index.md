@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0095OEP.JPG
     thumb: /files/thumbnails/14fb29f198b7f414fb29f198bbda.jpg
     url: /files/original/14fb29f198b7f414fb29f198bbda.jpg
+    alt:
+      en: "Busy office with cubicles where military personnel in camouflage uniforms and civilians work at desks with computers, with a color-coded threat level chart visible on the back wall."
 geo:
 id: 23085
 item_type: Still Image

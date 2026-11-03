@@ -21,6 +21,8 @@ files:
     original_filename: Picture 069cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bdec1be14fb2a0bdec5a4.jpg
     url: /files/original/14fb2a0bdec1be14fb2a0bdec5a4.jpg
+    alt:
+      en: "Blurred roadside view from a moving vehicle on a highway, with a concrete barrier, utility pole, trees, and a neighborhood of rooftops visible in the background under a clear blue sky."
 geo:
 id: 19972
 item_type: Still Image

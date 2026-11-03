@@ -21,6 +21,8 @@ files:
     original_filename: MVC-029S.JPG
     thumb: /files/thumbnails/14fb2a5fb2208c14fb2a5fb22471.jpg
     url: /files/original/14fb2a5fb2208c14fb2a5fb22471.jpg
+    alt:
+      en: "Vintage copper diving helmet with a red band, mounted on a white canvas diving suit with black gloves and a weighted belt, displayed indoors with ropes and ductwork in the background."
 geo:
 id: 2872
 item_type: Still Image

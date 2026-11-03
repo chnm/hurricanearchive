@@ -26,6 +26,8 @@ files:
     original_filename: scan_779d0e076a.jpg
     thumb: /files/thumbnails/14fb2a6f16dd3a14fb2a6f16e120.jpg
     url: /files/original/14fb2a6f16dd3a14fb2a6f16e120.jpg
+    alt:
+      en: "Small abandoned single-story house with pale siding and blue shutters, spray-painted with \"DEA\" over an X and \"0\" marks, plus other graffiti; debris litters the bare front yard."
 geo:
   address: ''
   lat: 29.979323371561904

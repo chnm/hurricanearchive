@@ -23,6 +23,8 @@ files:
     original_filename: 158012023_c42c4239fc.jpg
     thumb: /files/thumbnails/14fb29d1d1fb3514fb29d1d1fe9b.jpg
     url: /files/original/14fb29d1d1fb3514fb29d1d1fe9b.jpg
+    alt:
+      en: "A damaged house partially buried under fallen trees and tangled branches, with a ladder leaning against the debris and piles of wood and storm wreckage scattered along the street."
 geo:
 id: 28670
 item_type: Still Image

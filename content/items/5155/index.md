@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0517.JPG
     thumb: /files/thumbnails/14fb2a53b80b8314fb2a53b80f66.jpg
     url: /files/original/14fb2a53b80b8314fb2a53b80f66.jpg
+    alt:
+      en: "A yellow tape measure stretched diagonally across a cracked concrete surface, with a rusted bolt or hardware piece lying nearby to the right."
 geo:
 id: 5155
 item_type: Still Image

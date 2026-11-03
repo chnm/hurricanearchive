@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_JohanLowe_08_f5cce7a937.jpg
     thumb: /files/thumbnails/14fb2a163935e414fb2a163939c1.jpg
     url: /files/original/14fb2a163935e414fb2a163939c1.jpg
+    alt:
+      en: "A smiling baby girl in a white christening-style gown with lace sleeves and pink flower hair clips sits on a black leather couch, identified as Janai Lowe."
 geo:
 id: 15467
 item_type: Still Image

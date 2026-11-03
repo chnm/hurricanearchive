@@ -21,6 +21,8 @@ files:
     original_filename: slide12.jpg
     thumb: /files/thumbnails/14fb2a194cb5ca14fb2a194cb9b9.jpg
     url: /files/original/14fb2a194cb5ca14fb2a194cb9b9.jpg
+    alt:
+      en: "Storm-damaged yard with broken, leafless trees, scattered debris, and a surviving white picket fence section standing amid wreckage under a clear blue sky."
 geo:
 id: 14395
 item_type: Still Image

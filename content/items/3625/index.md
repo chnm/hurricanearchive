@@ -24,6 +24,8 @@ files:
     original_filename: P1010059.JPG
     thumb: /files/thumbnails/14fb2a5a984a0814fb2a5a984ded.jpg
     url: /files/original/14fb2a5a984a0814fb2a5a984ded.jpg
+    alt:
+      en: "Mosaic artwork in a black frame depicting a haloed figure holding a cross beside a lamb, made of broken tile and glass fragments in pastel tones, mounted on a travertine wall."
 geo:
 id: 3625
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6525_1d4f1817f6.jpg
     thumb: /files/thumbnails/14fb29d407013e14fb29d4070526.jpg
     url: /files/original/14fb29d407013e14fb29d4070526.jpg
+    alt:
+      en: "A group of girls in matching white T-shirts and shorts stand clapping and cheering on a flatbed parade float, with a tall sunburst-style decoration and trees in the background."
 geo:
   address: ''
   lat: 29.84064

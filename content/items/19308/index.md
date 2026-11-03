@@ -21,6 +21,8 @@ files:
     original_filename: J2 (27).JPG
     thumb: /files/thumbnails/14fb2a113d9d6814fb2a113da14e.jpg
     url: /files/original/14fb2a113d9d6814fb2a113da14e.jpg
+    alt:
+      en: "Blurry aerial view of a damaged property with sheet metal roofing, surrounded by bare trees and debris scattered on dark, muddy ground."
 geo:
 id: 19308
 item_type: Still Image

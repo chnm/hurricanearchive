@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-24-23A.jpg
     thumb: /files/thumbnails/14fb29e8615df314fb29e86161e2.jpg
     url: /files/original/14fb29e8615df314fb29e86161e2.jpg
+    alt:
+      en: "Dark, flooded water viewed from a stairway landing, with metal handrails framing both sides and a tree trunk reflected in the murky surface ahead."
 geo:
 id: 24376
 item_type: Still Image

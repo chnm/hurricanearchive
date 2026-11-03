@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018OEP.JPG
     thumb: /files/thumbnails/14fb29f2194fcb14fb29f21953b1.jpg
     url: /files/original/14fb29f2194fcb14fb29f21953b1.jpg
+    alt:
+      en: "Parking lot filled with vehicles, satellite trucks, and white canopy tents set up outside a large building, with a blank dark sign on the grass and flowering shrubs in the foreground."
 geo:
 id: 23008
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0129.JPG
     thumb: /files/thumbnails/14fb2a560bfe6914fb2a560c028a.jpg
     url: /files/original/14fb2a560bfe6914fb2a560c028a.jpg
+    alt:
+      en: "Debris-strewn concrete slab beneath an open structure supported by wooden posts, with scattered trash, a white plastic chair, and overgrown weeds in the foreground."
 geo:
 id: 4703
 item_type: Still Image

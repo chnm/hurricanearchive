@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0434.JPG
     thumb: /files/thumbnails/14fb2a53f5f02a14fb2a53f5f40f.jpg
     url: /files/original/14fb2a53f5f02a14fb2a53f5f40f.jpg
+    alt:
+      en: "A yellow tape measure marks roughly 18 inches between wooden roof truss beams connected by metal gusset plates, with debris and pine needles scattered among sand-covered wood."
 geo:
 id: 5089
 item_type: Still Image

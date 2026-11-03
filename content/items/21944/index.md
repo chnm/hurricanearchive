@@ -21,6 +21,8 @@ files:
     original_filename: Picture 275-J2.jpg
     thumb: /files/thumbnails/14fb29fae7553514fb29fae75919.jpg
     url: /files/original/14fb29fae7553514fb29fae75919.jpg
+    alt:
+      en: "Close-up, blurred view of a vehicle's interior equipment, showing a metal fitting, hose, gauge, dark control box, and a green fabric-wrapped object amid dashboard-like panels."
 geo:
 id: 21944
 item_type: Still Image

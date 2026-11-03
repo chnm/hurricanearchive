@@ -27,6 +27,8 @@ files:
     original_filename: housetotem_f679295fef.JPG
     thumb: /files/thumbnails/14fb29cc071ae114fb29cc072269.jpg
     url: /files/original/14fb29cc071ae114fb29cc072269.jpg
+    alt:
+      en: "Yellow house facade with a memorial poster reading \"Jazz Funeral! 2/24/07 Helen Hill 100% New Orleans,\" a lace paper heart, a hand-painted sign saying \"You Are The Kindest Person I've Ever Met. I'll Miss You Helen Hill,\" and \"Helen\" stenciled on a wall panel."
 geo:
   address: 3428 Cleveland St
   lat: 0.0

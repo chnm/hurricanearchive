@@ -26,6 +26,8 @@ files:
     original_filename: house2_96b2f20a3b.jpg
     thumb: /files/thumbnails/14fb2a6dabddee14fb2a6dabe1fd.jpg
     url: /files/original/14fb2a6dabddee14fb2a6dabe1fd.jpg
+    alt:
+      en: "Single-story house with boarded-up windows and storm-damaged siding, a fallen tree branch in the driveway, and a car parked on the grass out front."
 geo:
   address: ''
   lat: 29.947746

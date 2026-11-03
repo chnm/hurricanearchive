@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-17-15A.jpg
     thumb: /files/thumbnails/14fb29e8a6341414fb29e8a63803.jpg
     url: /files/original/14fb29e8a6341414fb29e8a63803.jpg
+    alt:
+      en: "Downed tree branches and debris litter a roadside, photographed through a moving vehicle's window with a side mirror visible, as tall buildings rise in the background."
 geo:
 id: 24341
 item_type: Still Image

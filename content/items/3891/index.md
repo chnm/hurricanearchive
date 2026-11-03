@@ -21,6 +21,8 @@ files:
     original_filename: 100_0184.JPG
     thumb: /files/thumbnails/14fb2a5918907414fb2a5918945f.jpg
     url: /files/original/14fb2a5918907414fb2a5918945f.jpg
+    alt:
+      en: "A flooded residential street with water covering the road up to the base of houses and utility poles, lined with trees and power lines reflected in the still water."
 geo:
 id: 3891
 item_type: Still Image

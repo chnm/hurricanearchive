@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0089MSriver.JPG
     thumb: /files/thumbnails/14fb2a14bdac6814fb2a14bdc492.jpg
     url: /files/original/14fb2a14bdac6814fb2a14bdc492.jpg
+    alt:
+      en: "Aerial view of a wide river lined with long warehouse buildings along a dock, with a sprawling cityscape stretching to the hazy horizon under a partly cloudy sky."
 geo:
 id: 18877
 item_type: Still Image

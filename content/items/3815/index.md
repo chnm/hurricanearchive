@@ -21,6 +21,8 @@ files:
     original_filename: 100_0101.JPG
     thumb: /files/thumbnails/14fb2a5969794114fb2a59697d20.jpg
     url: /files/original/14fb2a5969794114fb2a59697d20.jpg
+    alt:
+      en: "Storm-damaged field strewn with debris, broken trees, and leaning utility poles, with a pile of rubble nearby and a high-rise building visible in the background."
 geo:
 id: 3815
 item_type: Still Image

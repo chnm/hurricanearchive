@@ -21,6 +21,8 @@ files:
     original_filename: MVC-013S.JPG
     thumb: /files/thumbnails/14fb2a5fd4be6d14fb2a5fd4c253.jpg
     url: /files/original/14fb2a5fd4be6d14fb2a5fd4c253.jpg
+    alt:
+      en: "A large green metal wheel with spoke design leans against debris in a cluttered storage area, including black plastic bags, a cardboard box, and bedding, on a red floor."
 geo:
 id: 2856
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300111Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f433711414fb29f43374fb.jpg
     url: /files/original/14fb29f433711414fb29f43374fb.jpg
+    alt:
+      en: "Silver Nissan 350Z parked on a cracked driveway near brick buildings, with a white pickup truck and storm debris in the background."
 geo:
 id: 22755
 item_type: Still Image

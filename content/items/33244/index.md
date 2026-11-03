@@ -23,6 +23,8 @@ files:
     original_filename: 1242847514_11c9ce8efb.jpg
     thumb: /files/thumbnails/14fb29cb3426f214fb29cb342ad3.jpg
     url: /files/original/14fb29cb3426f214fb29cb342ad3.jpg
+    alt:
+      en: "A damaged 1935 Rolls Royce 20/25 with a crumpled front end is displayed behind a chain barrier on a sidewalk, with a sign reading \"1935 Rolls Royce 20/25, GCG 60, Hooper coach work\" in front."
 geo:
   address: ''
   lat: 41.8848

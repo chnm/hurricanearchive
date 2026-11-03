@@ -21,6 +21,8 @@ files:
     original_filename: Awaiting aircraft4delaware.jpg
     thumb: /files/thumbnails/14fb29f1466fa414fb29f146738b.jpg
     url: /files/original/14fb29f1466fa414fb29f146738b.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms sit and stand in a waiting room with folding chairs, one holding a helmet, with an \"EXIT\" sign and a framed \"Airpower\" poster on the walls."
 geo:
 id: 23166
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1125Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f79ee1f114fb29f79ee5d2.jpg
     url: /files/original/14fb29f79ee1f114fb29f79ee5d2.jpg
+    alt:
+      en: "Two small flat-bottomed boats loaded with red life rings float on murky water in foggy, low-light conditions, with a person wearing an orange life vest standing in the water between them."
 geo:
 id: 22314
 item_type: Still Image

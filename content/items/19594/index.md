@@ -21,6 +21,8 @@ files:
     original_filename: S4300073zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ee6fa5714fb2a0ee6fe3d.jpg
     url: /files/original/14fb2a0ee6fa5714fb2a0ee6fe3d.jpg
+    alt:
+      en: "Close-up of a small aircraft's cockpit exterior, showing the windshield, instrument panel, control stick, seat, and headsets hanging near the window, with a building visible outside."
 geo:
 id: 19594
 item_type: Still Image

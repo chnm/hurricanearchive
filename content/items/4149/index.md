@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0035.JPG
     thumb: /files/thumbnails/14fb2a57718da614fb2a57719188.jpg
     url: /files/original/14fb2a57718da614fb2a57719188.jpg
+    alt:
+      en: "A rusted, storm-damaged fishing boat marked \"52189\" sits stranded on dry land amid scrub brush and dead trees, with small outbuildings visible in the background under a hazy sky."
 geo:
 id: 4149
 item_type: Still Image

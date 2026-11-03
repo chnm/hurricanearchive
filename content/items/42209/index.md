@@ -23,6 +23,8 @@ files:
     original_filename: Katrina 5_cb79e0ba6d.jpg
     thumb: /files/thumbnails/14fb29c2b136d414fb29c2b13ab0.jpg
     url: /files/original/14fb29c2b136d414fb29c2b13ab0.jpg
+    alt:
+      en: "A brick building exterior with a “RITE AID” sign above shuttered windows, a visible water stain line across the brick wall, and overgrown plants near the base of a white support column."
 geo:
   address: ''
   lat: 30.02022

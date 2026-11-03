@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0384.JPG
     thumb: /files/thumbnails/14fb2a544e1e4514fb2a544e235e.jpg
     url: /files/original/14fb2a544e1e4514fb2a544e235e.jpg
+    alt:
+      en: "Remains of a destroyed structure with only a wooden staircase, support posts, and frame left standing; a set of wooden drawers hangs precariously on the stairway, with debris scattered on the concrete slab and the numbers \"703\" visible on a post."
 geo:
 id: 5039
 item_type: Still Image

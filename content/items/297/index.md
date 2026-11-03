@@ -26,6 +26,8 @@ files:
     original_filename: Picture_105_f12f9b8e59.jpg
     thumb: /files/thumbnails/14fb2a704083b614fb2a704087be.jpg
     url: /files/original/14fb2a704083b614fb2a704087be.jpg
+    alt:
+      en: "A ferry landing with a covered walkway and metal pier structures in the foreground, strewn with debris and trash, overlooking the New Orleans downtown skyline across the river under a partly cloudy sky."
 geo:
   address: ''
   lat: 29.9535215991382

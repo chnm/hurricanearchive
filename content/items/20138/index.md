@@ -21,6 +21,8 @@ files:
     original_filename: Picture 235cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b1413fb14fb2a0b1417d6.jpg
     url: /files/original/14fb2a0b1413fb14fb2a0b1417d6.jpg
+    alt:
+      en: "Group of military service members in camouflage pants and tan t-shirts pose together on a paved path lined with dead leaves and bare trees, with cleanup debris visible nearby."
 geo:
 id: 20138
 item_type: Still Image

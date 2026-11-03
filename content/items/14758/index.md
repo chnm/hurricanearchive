@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_08_e0c0c60118.jpg
     thumb: /files/thumbnails/14fb2a17e1ae5d14fb2a17e1b244.jpg
     url: /files/original/14fb2a17e1ae5d14fb2a17e1b244.jpg
+    alt:
+      en: "A young girl wearing a tiara, white sequined cape, and purple costume stands beside a small decorated parade float with purple fabric and gold and green fringe, holding a star-topped wand."
 geo:
 id: 14758
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010146empireS&R.JPG
     thumb: /files/thumbnails/14fb29edb3f07514fb29edb3f45a.jpg
     url: /files/original/14fb29edb3f07514fb29edb3f45a.jpg
+    alt:
+      en: "Damaged white church with steeple on left, debris scattered along roadside, an overturned or wrecked truck on the right, viewed through a vehicle windshield with wiper visible."
 geo:
 id: 23705
 item_type: Still Image

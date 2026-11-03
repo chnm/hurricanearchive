@@ -24,6 +24,8 @@ files:
     original_filename: P1010048.JPG
     thumb: /files/thumbnails/14fb2a5a9e6fc014fb2a5a9e73a6.jpg
     url: /files/original/14fb2a5a9e6fc014fb2a5a9e73a6.jpg
+    alt:
+      en: "Interior of a gutted student mall with exposed metal ceiling framework and silver insulation above, brick columns supporting dark beams, cinder block walls, and an unfinished concrete floor scattered with equipment carts."
 geo:
 id: 3615
 item_type: Still Image

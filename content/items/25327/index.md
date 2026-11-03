@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2054superdome.JPG
     thumb: /files/thumbnails/14fb29df0d8d1314fb29df0d9050.jpg
     url: /files/original/14fb29df0d8d1314fb29df0d9050.jpg
+    alt:
+      en: "Military personnel in camouflage and tan uniforms assist evacuees, including a person wearing red rain boots, up a ramp into the rear cargo area of a military aircraft."
 geo:
 id: 25327
 item_type: Still Image

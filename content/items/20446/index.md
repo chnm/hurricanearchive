@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016.JPG
     thumb: /files/thumbnails/14fb2a0723f22f14fb2a0723f618.jpg
     url: /files/original/14fb2a0723f22f14fb2a0723f618.jpg
+    alt:
+      en: "Four men in a dimly lit room gather around laptop computers, three wearing military camouflage uniforms; wall behind them holds a bulletin board with flyers, including one reading \"National Guard Bureau Hotline 800/371-0617.\""
 geo:
 id: 20446
 item_type: Still Image

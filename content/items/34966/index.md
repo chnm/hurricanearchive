@@ -20,6 +20,8 @@ files:
     original_filename: 2298643808_8fba4ca4ee.
     thumb: /files/thumbnails/14fb29c82398a614fb29c8239c8b.jpg
     url: /files/original/14fb29c82398a614fb29c8239c8b.jpg
+    alt:
+      en: "A young woman holds up a purple Mongoose bicycle by its handlebars and seat, with other people and stacked bicycles visible in the background."
 geo:
 id: 34966
 item_type: Still Image

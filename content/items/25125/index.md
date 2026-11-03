@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1728superdome.JPG
     thumb: /files/thumbnails/14fb29e220073c14fb29e2200b23.jpg
     url: /files/original/14fb29e220073c14fb29e2200b23.jpg
+    alt:
+      en: "Group of people in military camouflage, medical scrubs, and a jacket labeled \"Air Medical\" walk together across a wet, flooded pavement near a concrete ledge and standing water."
 geo:
 id: 25125
 item_type: Still Image

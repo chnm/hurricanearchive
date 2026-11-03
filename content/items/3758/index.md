@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 038.jpg
     thumb: /files/thumbnails/14fb2a59d35f2114fb2a59d3630f.jpg
     url: /files/original/14fb2a59d35f2114fb2a59d3630f.jpg
+    alt:
+      en: "Storm-damaged two-story building with a red roof, boarded-up windows, and debris scattered below; bare, broken trees and downed branches stand in the foreground under a clear blue sky."
 geo:
 id: 3758
 item_type: Still Image

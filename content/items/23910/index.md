@@ -21,6 +21,8 @@ files:
     original_filename: 09140009neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec6c83de14fb29ec6c87c4.jpg
     url: /files/original/14fb29ec6c83de14fb29ec6c87c4.jpg
+    alt:
+      en: "Partially demolished building with exposed brick and plywood-covered openings, a rusted steel beam, and a large pile of broken concrete blocks and debris in the foreground."
 geo:
 id: 23910
 item_type: Still Image

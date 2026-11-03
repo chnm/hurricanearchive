@@ -23,6 +23,8 @@ files:
     original_filename: 2298649606_a0c73bf9bb.
     thumb: /files/thumbnails/14fb29c8034cbe14fb29c80350ac.jpg
     url: /files/original/14fb29c8034cbe14fb29c80350ac.jpg
+    alt:
+      en: "A truck or storage container tightly packed with a tangled mass of bicycles, frames, and wheels visible through its open door, with partial text reading \"NLY,\" \"OUS,\" and \"ER 1\" on the exterior panel."
 geo:
 id: 34985
 item_type: Still Image

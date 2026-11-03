@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6443_9beff27db3.jpg
     thumb: /files/thumbnails/14fb29d365245114fb29d365b31a.jpg
     url: /files/original/14fb29d365245114fb29d365b31a.jpg
+    alt:
+      en: "Group photo of a dance team wearing matching white and gold uniforms with \"Rhythm\" embroidered on the front, posed on stone steps between large columns outdoors."
 geo:
   address: ''
   lat: 29.84064

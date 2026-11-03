@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eff67f7d14fb29eff68362.jpg
     url: /files/original/14fb29eff67f7d14fb29eff68362.jpg
+    alt:
+      en: "Storm debris including splintered wood, a bent \"ONE WAY\" sign, and tangled wires piled against a maroon building with a brick foundation and an \"ADMIRALTY\" sign above, mud covering the street."
 geo:
 id: 23323
 item_type: Still Image

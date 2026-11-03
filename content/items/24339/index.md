@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-15-13A.jpg
     thumb: /files/thumbnails/14fb29e8a7fcfe14fb29e8a800e3.jpg
     url: /files/original/14fb29e8a7fcfe14fb29e8a800e3.jpg
+    alt:
+      en: "Flooded city street lined with buildings and bare trees, viewed from a boat with a pole in the foreground, water reflecting the bright overcast sky."
 geo:
 id: 24339
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: SF shrimp 2_e9be8c7cd0.jpg
     thumb: /files/thumbnails/14fb29d79181a014fb29d79195d9.jpg
     url: /files/original/14fb29d79181a014fb29d79195d9.jpg
+    alt:
+      en: "Eurma Landry stands on a boat deck wearing a checkered garment and blue hair covering, holding large shrimp in gloved hands, with a basket nearby and open water and sky in the background."
 geo:
   address: ''
   lat: 29.91685

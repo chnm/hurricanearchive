@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28055.jpg
     thumb: /files/thumbnails/14fb2a6b46805214fb2a6b468441.jpg
     url: /files/original/14fb2a6b46805214fb2a6b468441.jpg
+    alt:
+      en: "A small flat-bottomed boat with Louisiana registration LA-1056-EY sits stranded on a debris-strewn lot, with wreckage, barrels, and a bulldozer visible amid damaged buildings in the background."
 geo:
   address: ''
   lat: 0.0

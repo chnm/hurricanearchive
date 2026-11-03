@@ -21,6 +21,8 @@ files:
     original_filename: MVC-013S.JPG
     thumb: /files/thumbnails/14fb2a5fa5b73c14fb2a5fa5bb40.jpg
     url: /files/original/14fb2a5fa5b73c14fb2a5fa5bb40.jpg
+    alt:
+      en: "Interior of an industrial or shipboard mechanical space with a black ladder-like vertical duct, red pipes, white walls, overhead metal grating, and equipment including a large spool and control panel."
 geo:
 id: 2890
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9528.jpg
     thumb: /files/thumbnails/14fb2a64544e1b14fb2a64545184.jpg
     url: /files/original/14fb2a64544e1b14fb2a64545184.jpg
+    alt:
+      en: "A damaged house with spray-painted markings (\"1/8 NE 09/13\") stands beside a collapsed, debris-strewn structure and crushed vehicles, with leaning utility poles and a \"Speed Limit 25\" sign along the street."
 geo:
 id: 2599
 item_type: Still Image

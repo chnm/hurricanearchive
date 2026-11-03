@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29f003670514fb29f0036dde.jpg
     url: /files/original/14fb29f003670514fb29f0036dde.jpg
+    alt:
+      en: "A police patrol car sits in the driveway of a flooded house as two uniformed officers talk nearby, with a trailer bearing Louisiana plate E892401 in the foreground and a flooded road visible beyond."
 geo:
 id: 23305
 item_type: Still Image

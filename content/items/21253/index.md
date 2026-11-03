@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0207.JPG
     thumb: /files/thumbnails/14fb29ffc04ebb14fb29ffc0529f.jpg
     url: /files/original/14fb29ffc04ebb14fb29ffc0529f.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood, with rows of homes reduced to scattered debris and foundations, a few scorched trees standing amid the wreckage, and a street running through the ruins."
 geo:
 id: 21253
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2007superdome.JPG
     thumb: /files/thumbnails/14fb29df6b2f9914fb29df6b37a0.jpg
     url: /files/original/14fb29df6b2f9914fb29df6b37a0.jpg
+    alt:
+      en: "Military personnel in camouflage and brown T-shirts assist evacuees, including a shirtless child and elderly woman, near an Acadian Shuttle van from Lake Charles Memorial Hospital in a parking lot."
 geo:
 id: 25280
 item_type: Still Image

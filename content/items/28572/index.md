@@ -20,6 +20,8 @@ files:
     original_filename: 176014214_61bd1c24bb.jpg
     thumb: /files/thumbnails/14fb29d245337b14fb29d2453cc7.jpg
     url: /files/original/14fb29d245337b14fb29d2453cc7.jpg
+    alt:
+      en: "A light-colored t-shirt reads \"FEMA: Fix Everything My Ass\" in bold dark lettering, with \"Bourbon Street - New Orleans\" printed beneath in a banner design."
 geo:
 id: 28572
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: end look down.jpg
     thumb: /files/thumbnails/14fb2a2064770c14fb2a20647a59.jpg
     url: /files/original/14fb2a2064770c14fb2a20647a59.jpg
+    alt:
+      en: "Aerial view of a storm-damaged plaza with bent light posts, debris-strewn grass, flooded pavement, and a torn canopy structure, with commercial buildings in the background."
 geo:
 id: 13100
 item_type: Still Image

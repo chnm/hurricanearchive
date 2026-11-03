@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 072cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e663e0214fb2a0e664231.jpg
     url: /files/original/14fb2a0e663e0214fb2a0e664231.jpg
+    alt:
+      en: "Storm-damaged building complex with peeling roof sections and scattered debris across an empty parking lot, viewed through a vehicle windshield with a dashboard camera mount in the foreground."
 geo:
 id: 19685
 item_type: Still Image

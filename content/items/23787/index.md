@@ -21,6 +21,8 @@ files:
     original_filename: Picture 008neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ed11601e14fb29ed1163fb.jpg
     url: /files/original/14fb29ed11601e14fb29ed1163fb.jpg
+    alt:
+      en: "Military service members in camouflage uniforms hand a cardboard box of supplies to an elderly man over a chain-link fence, with floodwater visible beneath a raised porch and damaged roofline behind them."
 geo:
 id: 23787
 item_type: Still Image

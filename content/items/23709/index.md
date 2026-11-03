@@ -21,6 +21,8 @@ files:
     original_filename: P1010150empireS&R.JPG
     thumb: /files/thumbnails/14fb29edae221314fb29edae25f8.jpg
     url: /files/original/14fb29edae221314fb29edae25f8.jpg
+    alt:
+      en: "Debris-strewn muddy lot with toppled utility poles and scattered wreckage, a bridge and docked boat visible in the hazy background, trees lining the horizon."
 geo:
 id: 23709
 item_type: Still Image

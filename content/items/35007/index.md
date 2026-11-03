@@ -20,6 +20,8 @@ files:
     original_filename: 2298617302_ab78dec982.
     thumb: /files/thumbnails/14fb29c77eedc414fb29c77ef1a6.jpg
     url: /files/original/14fb29c77eedc414fb29c77ef1a6.jpg
+    alt:
+      en: "A smiling woman wearing a gray and black \"Karate Kid\" t-shirt stands at a cluttered workbench in a bicycle shop, surrounded by hanging bike frames, wheels, and tires."
 geo:
 id: 35007
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eb315df114fb29eb3161d6.jpg
     url: /files/original/14fb29eb315df114fb29eb3161d6.jpg
+    alt:
+      en: "Aerial view of a hazy blue wetland landscape, with patches of marsh grass floating on calm water and a low strip of land visible along the horizon."
 geo:
 id: 24053
 item_type: Still Image

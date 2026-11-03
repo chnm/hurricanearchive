@@ -21,6 +21,8 @@ files:
     original_filename: Picture 125cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba2758514fb2a0ba2796b.jpg
     url: /files/original/14fb2a0ba2758514fb2a0ba2796b.jpg
+    alt:
+      en: "Sideways photo of a roadside grassy ditch with scattered debris, utility poles and power lines along a road, and the edge of yellow machinery visible in the foreground."
 geo:
 id: 20028
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09270021plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec275f3314fb29ec276319.jpg
     url: /files/original/14fb29ec275f3314fb29ec276319.jpg
+    alt:
+      en: "Flooded property with standing water surrounding a damaged house, bare winter trees, scattered debris, and an overturned white container, under a pale sky."
 geo:
 id: 23983
 item_type: Still Image

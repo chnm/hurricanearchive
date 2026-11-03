@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0357.JPG
     thumb: /files/thumbnails/14fb2a546c21a614fb2a546c25b8.jpg
     url: /files/original/14fb2a546c21a614fb2a546c25b8.jpg
+    alt:
+      en: "Storm-damaged trees with broken branches stand behind a partially constructed wooden frame and debris scattered across the ground, under an overcast sky."
 geo:
 id: 5012
 item_type: Still Image

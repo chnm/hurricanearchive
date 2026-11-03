@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_WILM_05CHG_989a962f0c.jpg
     thumb: /files/thumbnails/14fb2a66c3bfed14fb2a66c3c4d5.jpg
     url: /files/original/14fb2a66c3bfed14fb2a66c3c4d5.jpg
+    alt:
+      en: "A Coast Guard crew member in a blue uniform with a \"U.S. Coast Guard\" name tape sits in a helicopter cockpit, hand on the control stick, performing pre-flight equipment checks."
 geo:
 id: 2387
 item_type: Still Image

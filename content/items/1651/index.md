@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28241.jpg
     thumb: /files/thumbnails/14fb2a6747767514fb2a67477c81.jpg
     url: /files/original/14fb2a6747767514fb2a67477c81.jpg
+    alt:
+      en: "Wal-Mart Supercenter building with damaged entrance canopy, set behind an empty parking lot with a few vehicles and large white tents visible near the store."
 geo:
   address: ''
   lat: 0.0

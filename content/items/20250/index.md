@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 14oclead.ss h.jpg
     thumb: /files/thumbnails/14fb2a0a71cb4214fb2a0a71cf28.jpg
     url: /files/original/14fb2a0a71cb4214fb2a0a71cf28.jpg
+    alt:
+      en: "Emergency responders in dark blue uniforms kneel on a sidewalk tending to equipment and supplies, while military personnel in camouflage stand nearby near a wrought-iron fence and building."
 geo:
 id: 20250
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0046.JPG
     thumb: /files/thumbnails/14fb2a56b98ba114fb2a56b98f79.jpg
     url: /files/original/14fb2a56b98ba114fb2a56b98f79.jpg
+    alt:
+      en: "Interior view of a severely damaged roof and ceiling, with exposed insulation, splintered wood beams, and shredded debris hanging from collapsed rafters; a wooden door frame stands in the foreground."
 geo:
 id: 4620
 item_type: Still Image

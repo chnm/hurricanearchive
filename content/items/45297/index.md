@@ -20,6 +20,8 @@ files:
     original_filename: katrina_4e8fd673e7.JPG
     thumb: /files/thumbnails/14fb29c1b99c7214fb29c1b9a222.jpg
     url: /files/original/14fb29c1b99c7214fb29c1b9a222.jpg
+    alt:
+      en: "Floodwater surrounds a tan brick building and trees on the Xavier University campus, with lampposts partially submerged and a raised highway visible in the background."
 geo:
 id: 45297
 item_type: Still Image

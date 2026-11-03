@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1863Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f535600814fb29f53563ee.jpg
     url: /files/original/14fb29f535600814fb29f53563ee.jpg
+    alt:
+      en: "Aerial view of flooded buildings with dark floodwater surrounding rooftops, including a large octagonal roof, with military tanks and vehicles floating or submerged in the water nearby."
 geo:
 id: 22574
 item_type: Still Image

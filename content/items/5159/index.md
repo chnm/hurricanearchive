@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0521.JPG
     thumb: /files/thumbnails/14fb2a53ae8c3814fb2a53ae900e.jpg
     url: /files/original/14fb2a53ae8c3814fb2a53ae900e.jpg
+    alt:
+      en: "A concrete slab edge with a chipped corner exposing a rusted bent bolt or anchor, alongside a white pipe running through patchy grass."
 geo:
 id: 5159
 item_type: Still Image

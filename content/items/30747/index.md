@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7460.JPG
     thumb: /files/thumbnails/14fb29cc9b023514fb29cc9b0614.jpg
     url: /files/original/14fb29cc9b023514fb29cc9b0614.jpg
+    alt:
+      en: "A small animal, possibly a bird or chick, rests inside a cardboard box with ventilation holes, wrapped partially in a patterned cloth."
 geo:
 id: 30747
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1671superdome.JPG
     thumb: /files/thumbnails/14fb29e27151de14fb29e27155c6.jpg
     url: /files/original/14fb29e27151de14fb29e27155c6.jpg
+    alt:
+      en: "A military police soldier with an \"MP\" armband stands facing the camera on a brick plaza while columns of camouflage-clad troops walk past in the background near large institutional buildings."
 geo:
 id: 25085
 item_type: Still Image

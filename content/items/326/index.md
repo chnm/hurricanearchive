@@ -26,6 +26,8 @@ files:
     original_filename: 039_deridder_daylight_donuts_2f26ea7d0a.jpg
     thumb: /files/thumbnails/14fb2a7037a49214fb2a7037a876.jpg
     url: /files/original/14fb2a7037a49214fb2a7037a876.jpg
+    alt:
+      en: "Boarded-up storefronts line a street, with a \"Daylight Donuts\" sign above plywood-covered windows and a handwritten sign reading \"Armed Guards on Duty\" taped to the door."
 geo:
   address: ''
   lat: 30.651656

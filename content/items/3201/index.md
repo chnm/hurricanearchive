@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (50).JPG
     thumb: /files/thumbnails/14fb2a5d5dcdb914fb2a5d5dd64e.jpg
     url: /files/original/14fb2a5d5dcdb914fb2a5d5dd64e.jpg
+    alt:
+      en: "White wood-frame houses with storm-damaged windows sit behind yards covered in fallen branches and debris, with a utility pole and tree limbs scattered across the street."
 geo:
 id: 3201
 item_type: Still Image

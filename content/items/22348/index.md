@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1164Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f72c1ed514fb29f72c22ba.jpg
     url: /files/original/14fb29f72c1ed514fb29f72c22ba.jpg
+    alt:
+      en: "Severe flooding surrounds a brick entrance gate and lamp post, with water rushing past bare trees and an iron fence as a house looms through heavy rain and mist."
 geo:
 id: 22348
 item_type: Still Image

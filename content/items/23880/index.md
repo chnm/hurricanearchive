@@ -21,6 +21,8 @@ files:
     original_filename: S4300245stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eca1daf714fb29eca1dee5.jpg
     url: /files/original/14fb29eca1daf714fb29eca1dee5.jpg
+    alt:
+      en: "An alligator lies motionless on cracked, mud-covered ground amid storm debris, with dead brush and a damaged metal structure in the background."
 geo:
 id: 23880
 item_type: Still Image

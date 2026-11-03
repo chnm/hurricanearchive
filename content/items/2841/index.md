@@ -21,6 +21,8 @@ files:
     original_filename: MVC-032S.JPG
     thumb: /files/thumbnails/14fb2a5fe26bf114fb2a5fe26fd7.jpg
     url: /files/original/14fb2a5fe26bf114fb2a5fe26fd7.jpg
+    alt:
+      en: "A red model airplane hangs suspended from the ceiling of a hangar-like building with exposed metal rafters, ductwork, and an American flag visible in the corner."
 geo:
 id: 2841
 item_type: Still Image

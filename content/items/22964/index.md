@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0318cowanmedia.JPG
     thumb: /files/thumbnails/14fb29f264ee4614fb29f264f223.jpg
     url: /files/original/14fb29f264ee4614fb29f264f223.jpg
+    alt:
+      en: "Blurry interior shot inside a vehicle or aircraft cabin, with a person wearing headphones in the foreground and another person with glasses visible in the background, surrounded by equipment and orange cabling."
 geo:
 id: 22964
 item_type: Still Image

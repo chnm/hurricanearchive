@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28217.jpg
     thumb: /files/thumbnails/14fb2a6c7e778814fb2a6c7e7b6e.jpg
     url: /files/original/14fb2a6c7e778814fb2a6c7e7b6e.jpg
+    alt:
+      en: "A collapsed house roof lies amid debris, spray-painted with the message \"THANKS 4 NOT WING... KATRINA 4 BITCH!\""
 geo:
   address: ''
   lat: 0.0

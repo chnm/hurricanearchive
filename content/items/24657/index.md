@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064medics.JPG
     thumb: /files/thumbnails/14fb29e5c935b714fb29e5c94e46.jpg
     url: /files/original/14fb29e5c935b714fb29e5c94e46.jpg
+    alt:
+      en: "Military medical personnel in camouflage uniforms prepare vaccine vials and alcohol wipes on a table, while others administer injections in the background of a tiled room."
 geo:
 id: 24657
 item_type: Still Image

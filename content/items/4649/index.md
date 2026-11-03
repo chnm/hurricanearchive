@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0578.JPG
     thumb: /files/thumbnails/14fb2a568139db14fb2a56813dc1.jpg
     url: /files/original/14fb2a568139db14fb2a56813dc1.jpg
+    alt:
+      en: "A person's arm holds a yellow tape measure against the edge of a brick-topped structure, measuring down to a white painted ledge, with a trowel and debris visible nearby."
 geo:
 id: 4649
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0119-21.JPG
     thumb: /files/thumbnails/14fb29e6840c7014fb29e6841292.jpg
     url: /files/original/14fb29e6840c7014fb29e6841292.jpg
+    alt:
+      en: "A man in desert camouflage military uniform with an American flag patch and nametape reading \"Pilkington\" stands smiling, wearing glasses, while another person is partially visible in the foreground; image is oriented sideways."
 geo:
 id: 24574
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TrinityMiller_04_39c22971f2.jpg
     thumb: /files/thumbnails/14fb2a1797490a14fb2a17974cdc.jpg
     url: /files/original/14fb2a1797490a14fb2a17974cdc.jpg
+    alt:
+      en: "Two young girls stand arm in arm on a paved driveway, one wearing a \"Baby Phat\" shirt and the other in a floral skirt with bow hair ties, with vehicles and a motorcycle in the background."
 geo:
 id: 14809
 item_type: Still Image

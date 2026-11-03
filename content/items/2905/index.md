@@ -21,6 +21,8 @@ files:
     original_filename: MVC-028S.JPG
     thumb: /files/thumbnails/14fb2a5f9d260714fb2a5f9d29f3.jpg
     url: /files/original/14fb2a5f9d260714fb2a5f9d29f3.jpg
+    alt:
+      en: "Interior of a ship compartment with a fold-down metal table, surrounded by gray electrical panels, gauges, and ventilation equipment mounted on the walls, with a metal mesh locker visible nearby."
 geo:
 id: 2905
 item_type: Still Image

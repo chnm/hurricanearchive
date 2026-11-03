@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1769superdome.JPG
     thumb: /files/thumbnails/14fb29e1b1b0bf14fb29e1b1b4a5.jpg
     url: /files/original/14fb29e1b1b0bf14fb29e1b1b4a5.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms and FEMA staff in purple polo shirts gather outdoors near emergency vehicles, with one man holding a packaged ration, amid a discussion."
 geo:
 id: 25159
 item_type: Still Image

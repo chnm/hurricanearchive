@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eb22f10714fb29eb22f4eb.jpg
     url: /files/original/14fb29eb22f10714fb29eb22f4eb.jpg
+    alt:
+      en: "Aerial view of a flooded coastal marsh landscape with a raised roadway cutting diagonally across standing water, scattered bare trees, and a small cluster of damaged buildings in the distance."
 geo:
 id: 24062
 item_type: Still Image

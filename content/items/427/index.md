@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0314_e9498a3898.JPG
     thumb: /files/thumbnails/14fb2a7004d95b14fb2a7004dd32.jpg
     url: /files/original/14fb2a7004d95b14fb2a7004dd32.jpg
+    alt:
+      en: "A weathered white shotgun-style house with ornate wooden trim and green shutters, spray-painted with \"Fire the next time\" across the porch columns and walls."
 geo:
   address: ''
   lat: 29.9549345496561

@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9176.jpg
     thumb: /files/thumbnails/14fb2a6391e95e14fb2a63921976.jpg
     url: /files/original/14fb2a6391e95e14fb2a63921976.jpg
+    alt:
+      en: "Cracked concrete slabs with wooden support posts sit amid storm debris and standing water; graffiti reads \"RITA BITE MY ASS\" and \"HB-18 EVERYTHING OUT. PLEASE,\" with a sandy beach and ocean in the background."
 geo:
 id: 2640
 item_type: Still Image

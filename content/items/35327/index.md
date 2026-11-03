@@ -18,6 +18,8 @@ files:
     original_filename: 63_e858761088.jpg
     thumb: /files/thumbnails/14fb29c6500c9b14fb29c6501081.jpg
     url: /files/original/14fb29c6500c9b14fb29c6501081.jpg
+    alt:
+      en: "Two women in elaborate Mardi Gras costumes pose on a residential street, one wearing a fruit-topped headdress and rainbow-striped skirt holding a red plush toy, the other in a green fishnet-patterned top."
 geo:
   address: new orleans, la
   lat: 29.95324

@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0203.JPG
     thumb: /files/thumbnails/14fb2a0aa21e1214fb2a0aa268a2.jpg
     url: /files/original/14fb2a0aa21e1214fb2a0aa268a2.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood reduced to bare concrete foundations, scattered debris, and standing floodwater, with damaged trees, a few wrecked vehicles, and a military Humvee on the street."
 geo:
 id: 20222
 item_type: Still Image

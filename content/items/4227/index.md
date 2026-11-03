@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0129_fa84b8a421.jpg
     thumb: /files/thumbnails/14fb2a574c883d14fb2a574c8c1b.jpg
     url: /files/original/14fb2a574c883d14fb2a574c8c1b.jpg
+    alt:
+      en: "Single-story ranch house with peeling tan siding and a damaged shingle roof, its front door ajar beside orange spray-painted search markings and the address \"7206,\" set behind a large tree trunk."
 geo:
 id: 4227
 item_type: Still Image

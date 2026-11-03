@@ -21,6 +21,8 @@ files:
     original_filename: PICT0099Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d22a4014fb29f4d22e1b.jpg
     url: /files/original/14fb29f4d22a4014fb29f4d22e1b.jpg
+    alt:
+      en: "Brick-columned covered patio with wrought-iron table and chairs, potted plants, and a window with blinds in the background; timestamp reads 09.15.2005."
 geo:
 id: 22664
 item_type: Still Image

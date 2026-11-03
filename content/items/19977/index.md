@@ -21,6 +21,8 @@ files:
     original_filename: Picture 074cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bda64e814fb2a0bda68ce.jpg
     url: /files/original/14fb2a0bda64e814fb2a0bda68ce.jpg
+    alt:
+      en: "A concrete highway bridge with a solid barrier wall, overlooking vehicles including a van and truck crossing a lower roadway, with trees and a cloudy blue sky in the background."
 geo:
 id: 19977
 item_type: Still Image

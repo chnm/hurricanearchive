@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0064.JPG
     thumb: /files/thumbnails/14fb2a55fbff9d14fb2a55fc0396.jpg
     url: /files/original/14fb2a55fbff9d14fb2a55fc0396.jpg
+    alt:
+      en: "Debris field with scattered bricks, broken furniture, a white wire rack, and torn roofing material, surrounded by bare, snapped trees and two people visible in the background."
 geo:
 id: 4717
 item_type: Still Image

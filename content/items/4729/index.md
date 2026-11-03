@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0076.JPG
     thumb: /files/thumbnails/14fb2a55e2684614fb2a55e26c20.jpg
     url: /files/original/14fb2a55e2684614fb2a55e26c20.jpg
+    alt:
+      en: "Storm-damaged lot with scattered debris and broken trees, a dark dumpster and blue tarps in the background, and a dirt road in the foreground under a clear blue sky."
 geo:
 id: 4729
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0255.JPG
     thumb: /files/thumbnails/14fb29feceebe014fb29feceefc7.jpg
     url: /files/original/14fb29feceebe014fb29feceefc7.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with extensive storm damage, showing rooftops stripped of shingles, debris scattered across yards, and green trees interspersed among the battered homes."
 geo:
 id: 21433
 item_type: Still Image

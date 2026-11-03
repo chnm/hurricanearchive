@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 032.jpg
     thumb: /files/thumbnails/14fb2a59d8b9d114fb2a59d8bdbd.jpg
     url: /files/original/14fb2a59d8b9d114fb2a59d8bdbd.jpg
+    alt:
+      en: "Debris-strewn lot with damaged trees, a concrete barrier, scattered chairs and coolers, in front of storm-damaged multi-story buildings under a clear blue sky."
 geo:
 id: 3752
 item_type: Still Image

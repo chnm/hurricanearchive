@@ -21,6 +21,8 @@ files:
     original_filename: 202 twisted metal.jpg
     thumb: /files/thumbnails/14fb2a1f51ba5214fb2a1f51be38.jpg
     url: /files/original/14fb2a1f51ba5214fb2a1f51be38.jpg
+    alt:
+      en: "Twisted and collapsed metal panels, likely from a storm-damaged structure, lie beside a roadside guardrail with grass and distant buildings in the background."
 geo:
 id: 13208
 item_type: Still Image

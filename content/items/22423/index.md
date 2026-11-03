@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1262Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f681127e14fb29f6811664.jpg
     url: /files/original/14fb29f681127e14fb29f6811664.jpg
+    alt:
+      en: "View through a rain-streaked window of a flooded building with a gabled roof and covered entryway, water rising to cover a porch area with debris floating near the entrance."
 geo:
 id: 22423
 item_type: Still Image

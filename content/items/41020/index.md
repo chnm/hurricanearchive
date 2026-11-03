@@ -20,6 +20,8 @@ files:
     original_filename: 13 - Paris 1_234e2f4586.JPG
     thumb: /files/thumbnails/14fb29c483d29214fb29c483da5e.jpg
     url: /files/original/14fb29c483d29214fb29c483da5e.jpg
+    alt:
+      en: "A brick, multi-story school building with a central bell tower topped by a cross, still surrounded by construction scaffolding, with a landscaped lawn and brick entrance wall in front."
 geo:
   address: ''
   lat: 0.0

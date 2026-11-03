@@ -21,6 +21,8 @@ files:
     original_filename: LTG Blum greets troop.JPG
     thumb: /files/thumbnails/14fb2a1b63f74414fb2a1b63fe5f.jpg
     url: /files/original/14fb2a1b63f74414fb2a1b63fe5f.jpg
+    alt:
+      en: "A senior Army officer in digital camouflage and beret shakes hands with a soldier in desert fatigues carrying gear and an Xbox bag, as other soldiers and vehicles wait nearby on a tarmac."
 geo:
   address: ''
   lat: 0.0

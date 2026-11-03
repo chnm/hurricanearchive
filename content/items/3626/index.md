@@ -24,6 +24,8 @@ files:
     original_filename: P1010060.JPG
     thumb: /files/thumbnails/14fb2a5a97484d14fb2a5a974c32.jpg
     url: /files/original/14fb2a5a97484d14fb2a5a974c32.jpg
+    alt:
+      en: "A wooden crucifix with a carved figure of Christ, mounted on a marble or travertine wall, with \"INRI\" inscribed at the top of the cross."
 geo:
 id: 3626
 item_type: Still Image

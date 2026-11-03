@@ -21,6 +21,8 @@ files:
     original_filename: DSC00688.JPG
     thumb: /files/thumbnails/14fb2a13890d1914fb2a138910ff.jpg
     url: /files/original/14fb2a13890d1914fb2a138910ff.jpg
+    alt:
+      en: "A military medical helicopter with a red cross emblem flies against a cloudy sky, silhouetted near a utility pole; the date \"SEP 16 2004\" is stamped in the lower right corner."
 geo:
 id: 19041
 item_type: Still Image

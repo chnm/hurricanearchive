@@ -18,6 +18,8 @@ files:
     original_filename: 19_176ca43976.jpg
     thumb: /files/thumbnails/14fb29c7140bff14fb29c7140fe4.jpg
     url: /files/original/14fb29c7140bff14fb29c7140fe4.jpg
+    alt:
+      en: "A woman in a red and white uniform with a beret and red gloves stands on the steps of a yellow Thomas school bus at night, with another person in a similar uniform behind her."
 geo:
   address: new orleans, la
   lat: 29.95324

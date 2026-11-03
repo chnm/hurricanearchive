@@ -26,6 +26,8 @@ files:
     original_filename: 39th_bldg_da030c844d.JPG
     thumb: /files/thumbnails/14fb2a6da75de314fb2a6da761c8.jpg
     url: /files/original/14fb2a6da75de314fb2a6da761c8.jpg
+    alt:
+      en: "Collapsed building reduced to a pile of splintered wood, twisted metal roofing, and cinder blocks in a grassy lot, with intact houses and trees visible behind the debris."
 geo:
   address: ''
   lat: 29.941563

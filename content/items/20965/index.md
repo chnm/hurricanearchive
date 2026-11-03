@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0157.JPG
     thumb: /files/thumbnails/14fb2a0140798b14fb2a01407d71.jpg
     url: /files/original/14fb2a0140798b14fb2a01407d71.jpg
+    alt:
+      en: "Aerial view of a storm-damaged commercial street with roofless buildings, debris-strewn lots, scattered vehicles, and uprooted palm trees lining a median between two roadways."
 geo:
 id: 20965
 item_type: Still Image

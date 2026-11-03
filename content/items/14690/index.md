@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AshleyHendersen_04_d94d3e0019.jpg
     thumb: /files/thumbnails/14fb2a18299ded14fb2a1829a1c4.jpg
     url: /files/original/14fb2a18299ded14fb2a1829a1c4.jpg
+    alt:
+      en: "Worn paperback cover of \"Deadly Stranger\" by Peg Kehret, showing a young woman with long hair in the foreground and a man peering from a doorway behind her, with the tagline \"Can the girls save themselves?\""
 geo:
 id: 14690
 item_type: Still Image

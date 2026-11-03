@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28118.jpg
     thumb: /files/thumbnails/14fb2a69d4fd7314fb2a69d5019b.jpg
     url: /files/original/14fb2a69d4fd7314fb2a69d5019b.jpg
+    alt:
+      en: "A man in a tan uniform surveys a collapsed structure with splintered wood and debris piled against a brick building, standing near a gravel area with pooled water below."
 geo:
   address: ''
   lat: 0.0

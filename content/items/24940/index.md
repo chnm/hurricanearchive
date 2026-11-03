@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1438superdome.JPG
     thumb: /files/thumbnails/14fb29e3ada5c414fb29e3adac03.jpg
     url: /files/original/14fb29e3ada5c414fb29e3adac03.jpg
+    alt:
+      en: "Floodwaters submerge a street lined with trees, with several cars and military trucks partially underwater, as an elevated highway overpass looms in the background."
 geo:
 id: 24940
 item_type: Still Image

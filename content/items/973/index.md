@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28415.jpg
     thumb: /files/thumbnails/14fb2a6b97f60c14fb2a6b97f9e1.jpg
     url: /files/original/14fb2a6b97f60c14fb2a6b97f9e1.jpg
+    alt:
+      en: "Black Hummer H2 labeled \"Disaster Response Team, Serving the Gulf Coast Region, (512) 301-1130\" drives on a bridge, license plate \"W3Q-KRZ,\" with another car following behind."
 geo:
   address: ''
   lat: 0.0

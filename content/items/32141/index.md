@@ -23,6 +23,8 @@ files:
     original_filename: 1279844391_62a7187341.jpg
     thumb: /files/thumbnails/14fb29cbfadc8914fb29cbfae06c.jpg
     url: /files/original/14fb29cbfadc8914fb29cbfae06c.jpg
+    alt:
+      en: "Rain streaks down the facade of a French Quarter building with wrought-iron balconies, where two blue banners bearing a gold fleur-de-lis hang above arched windows; the address 6224 is visible near the entrance."
 geo:
 id: 32141
 item_type: Still Image

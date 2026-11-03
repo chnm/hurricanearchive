@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0119-15.JPG
     thumb: /files/thumbnails/14fb29e68bcb3714fb29e68bcf8d.jpg
     url: /files/original/14fb29e68bcb3714fb29e68bcf8d.jpg
+    alt:
+      en: "Aerial dusk view of a flood-damaged neighborhood with debris-strewn streets, scattered wreckage in yards, standing water, and rows of houses extending toward a more intact residential area in the distance."
 geo:
 id: 24571
 item_type: Still Image

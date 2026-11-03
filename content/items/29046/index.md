@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-15.jpg
     thumb: /files/thumbnails/14fb29d06b803614fb29d06b841b.jpg
     url: /files/original/14fb29d06b803614fb29d06b841b.jpg
+    alt:
+      en: "A row of five U.S. Air Force C-130 cargo planes, marked ANG with tail numbers including 81304, 51363, and 46701, parked on a tarmac with a white SUV and ground crew nearby."
 geo:
 id: 29046
 item_type: Still Image

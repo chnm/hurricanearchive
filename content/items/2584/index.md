@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9301.jpg
     thumb: /files/thumbnails/14fb2a6495edc214fb2a6495fb4b.jpg
     url: /files/original/14fb2a6495edc214fb2a6495fb4b.jpg
+    alt:
+      en: "Thick layer of dried mud fills a living room, burying a couch and overturned bed frame, with a louvered closet door and chandelier still hanging amid the debris."
 geo:
 id: 2584
 item_type: Still Image

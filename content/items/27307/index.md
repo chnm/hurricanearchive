@@ -23,6 +23,8 @@ files:
     original_filename: 336698482_a8cb1ab8bb.jpg
     thumb: /files/thumbnails/14fb29d553ba8b14fb29d553bd49.jpg
     url: /files/original/14fb29d553ba8b14fb29d553bd49.jpg
+    alt:
+      en: "A long red barge or rail car structure lies damaged on its side, with a white and orange 15-passenger van parked nearby amid debris under a stormy, cloud-filled sky."
 geo:
 id: 27307
 item_type: Still Image

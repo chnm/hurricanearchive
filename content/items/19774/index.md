@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 161cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dda74ba14fb2a0dda78a0.jpg
     url: /files/original/14fb2a0dda74ba14fb2a0dda78a0.jpg
+    alt:
+      en: "A military helicopter flies low beneath power lines over a residential area with brick houses and bare trees, with a yellow \"CAUTION HELICOPTER\" sign visible near a utility pole below."
 geo:
 id: 19774
 item_type: Still Image

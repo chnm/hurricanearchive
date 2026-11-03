@@ -21,6 +21,8 @@ files:
     original_filename: S4300116Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f42cb49214fb29f42cb878.jpg
     url: /files/original/14fb29f42cb49214fb29f42cb878.jpg
+    alt:
+      en: "A large fallen tree with multiple cut branches lies in the foreground near a parked car, with a brick multi-story building and utility pole visible in the background."
 geo:
 id: 22760
 item_type: Still Image

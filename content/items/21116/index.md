@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0179-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0083cfa814fb2a0083d2f4.jpg
     url: /files/original/14fb2a0083cfa814fb2a0083d2f4.jpg
+    alt:
+      en: "Aerial view of a flooded roadway surrounded by water, with a house washed onto the pavement and debris scattered along the road, flanked by submerged marshland and trees."
 geo:
 id: 21116
 item_type: Still Image

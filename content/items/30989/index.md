@@ -20,6 +20,8 @@ files:
     original_filename: Hurricane Photos_4f58c9ea4b.JPG
     thumb: /files/thumbnails/14fb29cc41b48114fb29cc41b866.jpg
     url: /files/original/14fb29cc41b48114fb29cc41b866.jpg
+    alt:
+      en: "A large fallen tree with bare branches rests against a damaged house, with floodwater visible in the foreground and a white railing on the right."
 geo:
   address: 945 North Shore Drive
   lat: 0.0

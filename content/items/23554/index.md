@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0177abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef04eb3514fb29ef04ef1b.jpg
     url: /files/original/14fb29ef04eb3514fb29ef04ef1b.jpg
+    alt:
+      en: "Three men stand outside a brick building; a man in a striped polo wears a \"Wilcrest Field Services, Inc.\" cap, while another in denim overalls wears a camo cap with sunglasses perched on top."
 geo:
 id: 23554
 item_type: Still Image

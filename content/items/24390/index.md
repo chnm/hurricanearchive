@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-11-10A.jpg
     thumb: /files/thumbnails/14fb29e850e21014fb29e850e5ef.jpg
     url: /files/original/14fb29e850e21014fb29e850e5ef.jpg
+    alt:
+      en: "Flooded parking lot with several vehicles submerged to their windows in murky water, a blank sign on poles, and power lines crossing a hazy, storm-obscured sky with trees in the background."
 geo:
 id: 24390
 item_type: Still Image

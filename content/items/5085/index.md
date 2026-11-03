@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0430.JPG
     thumb: /files/thumbnails/14fb2a5402088c14fb2a5402568e.jpg
     url: /files/original/14fb2a5402088c14fb2a5402568e.jpg
+    alt:
+      en: "A storm-damaged boat hull, rusted and partially buried in sand, with its wooden frame and metal bracing exposed on a beach."
 geo:
 id: 5085
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0196.JPG
     thumb: /files/thumbnails/14fb2a55140baf14fb2a55141102.jpg
     url: /files/original/14fb2a55140baf14fb2a55141102.jpg
+    alt:
+      en: "Close-up of a weathered wooden beam with a large bolt and washer embedded in it, measured with a yellow tape measure showing marks up to 4 inches; lattice fencing visible in the background."
 geo:
 id: 4877
 item_type: Still Image

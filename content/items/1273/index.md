@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28407.jpg
     thumb: /files/thumbnails/14fb2a69e9f1d714fb2a69e9f5bd.jpg
     url: /files/original/14fb2a69e9f1d714fb2a69e9f5bd.jpg
+    alt:
+      en: "Two-story blue house with boarded windows and a hand-painted sign reading \"Your Bronx Under Better Mind,\" debris piled on the porch and lawn, and a teal pickup truck parked in front."
 geo:
   address: ''
   lat: 0.0

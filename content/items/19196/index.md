@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 106.jpg
     thumb: /files/thumbnails/14fb2a11f6170c14fb2a11f61af0.jpg
     url: /files/original/14fb2a11f6170c14fb2a11f61af0.jpg
+    alt:
+      en: "Deserted roadway lined with debris, damaged storefronts, and leaning utility poles, with a \"St. Bernard Parish\" sign and \"Rally's\" and \"AutoZone\" signs visible along the street."
 geo:
 id: 19196
 item_type: Still Image

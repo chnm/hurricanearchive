@@ -21,6 +21,8 @@ files:
     original_filename: 03-28-~4_6c0c03f572.jpg
     thumb: /files/thumbnails/14fb29d87eaced14fb29d87eb0d3.jpg
     url: /files/original/14fb29d87eaced14fb29d87eb0d3.jpg
+    alt:
+      en: "Black-and-white photo of a crowd gathered around floral tributes at Huey Long's grave in Baton Rouge, with the Louisiana State Capitol building visible in the background. Handwritten caption reads \"Huey Long's Grave, Baton Rouge.\""
 geo:
   address: ''
   lat: 29.84064

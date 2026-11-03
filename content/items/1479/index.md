@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28545.jpg
     thumb: /files/thumbnails/14fb2a6881721c14fb2a68817602.jpg
     url: /files/original/14fb2a6881721c14fb2a68817602.jpg
+    alt:
+      en: "Downtown New Orleans street scene with historic buildings, construction equipment, a crane, and scattered debris; a partially visible sign reads \"CAN\" on a storefront awning."
 geo:
   address: ''
   lat: 0.0

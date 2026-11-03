@@ -21,6 +21,8 @@ files:
     original_filename: PICT0199Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c791b214fb29f4c795a1.jpg
     url: /files/original/14fb29f4c791b214fb29f4c795a1.jpg
+    alt:
+      en: "Weathered travel trailer with damaged underbelly skirting sits beside a chain-link fence topped with barbed wire, dated 09.16.2005."
 geo:
 id: 22677
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2168rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13cba8d914fb2a13cbaccb.jpg
     url: /files/original/14fb2a13cba8d914fb2a13cbaccb.jpg
+    alt:
+      en: "A crew member wearing a flight helmet with boom microphone, goggles, and a green flight suit with an American flag patch sits inside a helicopter, arms crossed, with equipment visible in the background."
 geo:
 id: 19003
 item_type: Still Image

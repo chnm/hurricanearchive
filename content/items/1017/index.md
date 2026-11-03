@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28298.jpg
     thumb: /files/thumbnails/14fb2a6b66652b14fb2a6b666aee.jpg
     url: /files/original/14fb2a6b66652b14fb2a6b666aee.jpg
+    alt:
+      en: "Heavily damaged building with exposed steel framing and partial brick veneer, its roof torn away, surrounded by debris and a large bare tree with broken branches."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-27-25Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e547260b14fb29e54729eb.jpg
     url: /files/original/14fb29e547260b14fb29e54729eb.jpg
+    alt:
+      en: "Flooded highway interchange seen through tree branches, with two helicopters flying in the hazy sky above and standing floodwater submerging the road's lower supports."
 geo:
 id: 24739
 item_type: Still Image

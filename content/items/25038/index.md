@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1563superdome.JPG
     thumb: /files/thumbnails/14fb29e2be1a2714fb29e2be1e34.jpg
     url: /files/original/14fb29e2be1a2714fb29e2be1e34.jpg
+    alt:
+      en: "Military personnel in camouflage and tan uniforms work at computer monitors inside a tent, surrounded by cables, a handheld radio, stacked boxes, and a water bottle."
 geo:
 id: 25038
 item_type: Still Image

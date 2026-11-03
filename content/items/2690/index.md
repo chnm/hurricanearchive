@@ -21,6 +21,8 @@ files:
     original_filename: 114.jpg
     thumb: /files/thumbnails/14fb2a608b0c4f14fb2a608b1fce.jpg
     url: /files/original/14fb2a608b0c4f14fb2a608b1fce.jpg
+    alt:
+      en: "Child's marker drawing labeled \"Damian, 7 years old,\" depicting a striped gray building, a spider, a fruit-laden tree, a radiant sun, and blue scribbled water in the lower corner."
 geo:
 id: 2690
 item_type: Still Image

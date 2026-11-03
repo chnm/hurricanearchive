@@ -21,6 +21,8 @@ files:
     original_filename: MVC-006S.JPG
     thumb: /files/thumbnails/14fb2a5fdb1b0814fb2a5fdb1ee6.jpg
     url: /files/original/14fb2a5fdb1b0814fb2a5fdb1ee6.jpg
+    alt:
+      en: "Interior of a vintage barber shop aboard a ship, featuring a black leather barber chair with chrome fittings, a folding wall-mounted counter with bottles, and bunk-style racks on the right wall."
 geo:
 id: 2849
 item_type: Still Image

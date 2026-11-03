@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0189abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eec3265714fb29eec32a47.jpg
     url: /files/original/14fb29eec3265714fb29eec32a47.jpg
+    alt:
+      en: "Two men stand outdoors under bare tree branches, one holding wooden strips or boards, with a grassy field, scattered debris, and sparse trees visible in the background."
 geo:
 id: 23567
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0334-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd2e13d414fb29fd2e17ba.jpg
     url: /files/original/14fb29fd2e13d414fb29fd2e17ba.jpg
+    alt:
+      en: "Aerial view of a flooded rural community with houses, trailers, and a boat partially submerged in brown floodwater, surrounded by dense trees and marshland."
 geo:
 id: 21601
 item_type: Still Image

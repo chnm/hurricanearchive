@@ -21,6 +21,8 @@ files:
     original_filename: J2 (47).JPG
     thumb: /files/thumbnails/14fb2a111cd47f14fb2a111cdc7b.jpg
     url: /files/original/14fb2a111cd47f14fb2a111cdc7b.jpg
+    alt:
+      en: "Aerial view of a dense residential complex with uniform red-roofed row houses, bordered by a cemetery, warehouses, and city streets, with a large tan building in the foreground."
 geo:
 id: 19330
 item_type: Still Image

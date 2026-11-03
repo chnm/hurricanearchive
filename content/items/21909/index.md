@@ -21,6 +21,8 @@ files:
     original_filename: UNO - Downtown Campus.jpg
     thumb: /files/thumbnails/14fb29fb0c299014fb29fb0c2d77.jpg
     url: /files/original/14fb29fb0c299014fb29fb0c2d77.jpg
+    alt:
+      en: "Aerial view of downtown New Orleans flooded after Hurricane Katrina, with streets and lots submerged around high-rise buildings and an elevated highway; image timestamped 09.05.2005 17:35."
 geo:
 id: 21909
 item_type: Still Image

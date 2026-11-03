@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0165cropstbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ef17c47e14fb29ef17c85b.jpg
     url: /files/original/14fb29ef17c47e14fb29ef17c85b.jpg
+    alt:
+      en: "Aerial view of industrial storage tanks surrounded by dark, oil-contaminated water, with metal piping, a narrow land spit, and scattered debris visible among the flooded infrastructure."
 geo:
 id: 23530
 item_type: Still Image

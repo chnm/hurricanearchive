@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28742.jpg
     thumb: /files/thumbnails/14fb2a6774d99f14fb2a6774dd84.jpg
     url: /files/original/14fb2a6774d99f14fb2a6774dd84.jpg
+    alt:
+      en: "Taped to a metal wall, a flyer with a cat photo reads \"If you see Lucy, please please call Helen or Tim @ 225-664-7012,\" above a note instructing volunteers on feeding and watering dogs."
 geo:
   address: ''
   lat: 0.0

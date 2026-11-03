@@ -26,6 +26,8 @@ files:
     original_filename: hur_b57b0cb5c8.jpg
     thumb: /files/thumbnails/14fb2a6d5bf24814fb2a6d5bf632.jpg
     url: /files/original/14fb2a6d5bf24814fb2a6d5bf632.jpg
+    alt:
+      en: "Aerial view of a shingled roof with a section of missing shingles exposing plywood decking, surrounded by overhanging tree branches and debris near the eaves."
 geo:
   address: ''
   lat: 0.0

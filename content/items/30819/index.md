@@ -24,6 +24,8 @@ files:
     original_filename: scan0113trimmedtiff.tif
     thumb: /files/thumbnails/14fb29cc47847814fb29cc478858.jpg
     url: /files/original/14fb29cc47847814fb29cc478858.tif
+    alt:
+      en: "Black-and-white photo of four women posed on a grassy curb, three standing and one crouching in front, with wood-frame houses and a utility pole lining the street behind them."
 geo:
 id: 30819
 item_type: Document

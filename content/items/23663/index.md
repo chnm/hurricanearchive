@@ -21,6 +21,8 @@ files:
     original_filename: P1010104empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee02043814fb29ee02081a.jpg
     url: /files/original/14fb29ee02043814fb29ee02081a.jpg
+    alt:
+      en: "A John Deere 330LC excavator places interlocking concrete mats onto a sloped embankment covered with black geotextile fabric, as two workers in hard hats guide the placement."
 geo:
 id: 23663
 item_type: Still Image

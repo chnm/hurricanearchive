@@ -21,6 +21,8 @@ files:
     original_filename: 09110009delaware.JPG
     thumb: /files/thumbnails/14fb29f170fe3214fb29f1710217.jpg
     url: /files/original/14fb29f170fe3214fb29f1710217.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues sit in rows inside the cargo hold of a transport aircraft, with cargo nets, straps, and equipment visible along the walls."
 geo:
 id: 23132
 item_type: Still Image

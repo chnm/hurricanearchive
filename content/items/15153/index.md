@@ -21,6 +21,8 @@ files:
     original_filename: XmasSanta_b03b271365.jpg
     thumb: /files/thumbnails/14fb2a16e2b82114fb2a16e2cc79.jpg
     url: /files/original/14fb2a16e2b82114fb2a16e2cc79.jpg
+    alt:
+      en: "Vintage black-and-white photo of a young boy in a bow tie sitting with Santa Claus, with a Mr. Bingle figure and decorative foliage in the background; a sign reads \"N 4814.\""
 geo:
   address: ''
   lat: 37.77123

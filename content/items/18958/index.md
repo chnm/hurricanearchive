@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2120rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13fb62f014fb2a13fb66f1.jpg
     url: /files/original/14fb2a13fb62f014fb2a13fb66f1.jpg
+    alt:
+      en: "Aerial view of a flooded apartment complex with a military helicopter landed on the roof and a man standing beside it, near rooftop text reading \"HELP 12 PEOPLE\" and \"HELP.\""
 geo:
 id: 18958
 item_type: Still Image

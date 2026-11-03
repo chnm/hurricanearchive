@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0157-9-25.JPG
     thumb: /files/thumbnails/14fb2a0141311514fb2a014134f8.jpg
     url: /files/original/14fb2a0141311514fb2a014134f8.jpg
+    alt:
+      en: "Aerial view of a flooded coastal marsh with patches of grass and standing water stretching to the horizon, with an offshore oil platform faintly visible in the hazy distance."
 geo:
 id: 20964
 item_type: Still Image

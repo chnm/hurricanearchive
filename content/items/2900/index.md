@@ -21,6 +21,8 @@ files:
     original_filename: MVC-023S.JPG
     thumb: /files/thumbnails/14fb2a5fa025c414fb2a5fa029b2.jpg
     url: /files/original/14fb2a5fa025c414fb2a5fa029b2.jpg
+    alt:
+      en: "Interior view of heavy mechanical equipment, possibly ammunition hoists or elevators, with electric motors, metal housings, and piping, set on a red painted floor aboard a ship."
 geo:
 id: 2900
 item_type: Still Image

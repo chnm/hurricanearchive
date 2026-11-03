@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 5.jpg
     thumb: /files/thumbnails/14fb29f04b609414fb29f04b6478.jpg
     url: /files/original/14fb29f04b609414fb29f04b6478.jpg
+    alt:
+      en: "Color-enhanced satellite view of a hurricane with a defined eye over the Gulf of Mexico near Florida and Cuba, timestamped 27 Aug 2005 22:31 GMT, with The Weather Channel logo."
 geo:
 id: 23249
 item_type: Still Image

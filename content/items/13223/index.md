@@ -21,6 +21,8 @@ files:
     original_filename: 218 debris.jpg
     thumb: /files/thumbnails/14fb2a1f3211d514fb2a1f3215bb.jpg
     url: /files/original/14fb2a1f3211d514fb2a1f3215bb.jpg
+    alt:
+      en: "Close-up of storm debris including broken asphalt shingles, scattered green and brown leaves, twigs, torn paper fragments, and shards of glass on a dark ground surface."
 geo:
 id: 13223
 item_type: Still Image

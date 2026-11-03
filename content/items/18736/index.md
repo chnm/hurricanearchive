@@ -21,6 +21,8 @@ files:
     original_filename: S4300102alero.JPG
     thumb: /files/thumbnails/14fb2a15517dee14fb2a155181d3.jpg
     url: /files/original/14fb2a15517dee14fb2a155181d3.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms distribute styrofoam food containers from cardboard boxes, with one kneeling soldier handing a container to another standing nearby under a covered area."
 geo:
 id: 18736
 item_type: Still Image

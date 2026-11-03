@@ -26,6 +26,8 @@ files:
     original_filename: 024_24_028b2b87c8.jpg
     thumb: /files/thumbnails/14fb2a6dc3fd6514fb2a6dc4132f.jpg
     url: /files/original/14fb2a6dc3fd6514fb2a6dc4132f.jpg
+    alt:
+      en: "Devastated lot in the Lower Ninth Ward strewn with debris and an overturned car, a blue lift bridge visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

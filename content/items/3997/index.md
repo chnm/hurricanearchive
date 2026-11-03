@@ -21,6 +21,8 @@ files:
     original_filename: DSC01089.JPG
     thumb: /files/thumbnails/14fb2a5893fea914fb2a5894024f.jpg
     url: /files/original/14fb2a5893fea914fb2a5894024f.jpg
+    alt:
+      en: "Three rescuers in life jackets navigate a small red boat through floodwaters past a snapped tree and submerged brick house, with a half-sunken pink toy jeep floating nearby."
 geo:
 id: 3997
 item_type: Still Image

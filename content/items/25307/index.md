@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2034superdome.JPG
     thumb: /files/thumbnails/14fb29df45f9b614fb29df45fea0.jpg
     url: /files/original/14fb29df45f9b614fb29df45fea0.jpg
+    alt:
+      en: "Military personnel in camouflage and flight suits carry a patient on a stretcher up the rear loading ramp of a large military aircraft on a tarmac."
 geo:
 id: 25307
 item_type: Still Image

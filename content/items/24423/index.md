@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0091-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e805b1d614fb29e805b641.jpg
     url: /files/original/14fb29e805b1d614fb29e805b641.jpg
+    alt:
+      en: "Aerial view of storm-ravaged buildings with roofs torn off, scattered debris, downed trees, and standing floodwater along a riverside road."
 geo:
 id: 24423
 item_type: Still Image

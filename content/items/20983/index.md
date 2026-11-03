@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0162-21.JPG
     thumb: /files/thumbnails/14fb2a013028c814fb2a01302cae.jpg
     url: /files/original/14fb2a013028c814fb2a01302cae.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage uniform and cap stands beside a dusty maroon SUV, a rifle slung across his chest, with a \"Port of New Orleans\" access pass visible on the windshield."
 geo:
 id: 20983
 item_type: Still Image

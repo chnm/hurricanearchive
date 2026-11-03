@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0246.JPG
     thumb: /files/thumbnails/14fb2a0981ab4b14fb2a0981b307.jpg
     url: /files/original/14fb2a0981ab4b14fb2a0981b307.jpg
+    alt:
+      en: "Aerial view of a devastated neighborhood with collapsed roofs, scattered debris, downed power lines, and damaged homes lining a street, with sparse green trees still standing amid the wreckage."
 geo:
 id: 20314
 item_type: Still Image

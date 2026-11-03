@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0496.JPG
     thumb: /files/thumbnails/14fb2a53cc53ea14fb2a53cc57bf.jpg
     url: /files/original/14fb2a53cc53ea14fb2a53cc57bf.jpg
+    alt:
+      en: "A large wooden beam, measured with a yellow tape measure showing about 10 inches wide, stands beside a metal bracket against vinyl siding, with an open doorway visible to the left."
 geo:
 id: 5134
 item_type: Still Image

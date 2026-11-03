@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 112cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e2e963414fb2a0e2e9e16.jpg
     url: /files/original/14fb2a0e2e963414fb2a0e2e9e16.jpg
+    alt:
+      en: "Military vehicles, including a tractor-trailer and tank, sit on a debris-strewn lot beneath a tall \"Arabi Self Storage\" sign listing Winn-Dixie and a furniture outlet, with a Humvee visible in the foreground."
 geo:
 id: 19725
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 065.jpg
     thumb: /files/thumbnails/14fb2a12a4d79814fb2a12a4d9eb.jpg
     url: /files/original/14fb2a12a4d79814fb2a12a4d9eb.jpg
+    alt:
+      en: "Torn sheet metal roofing panels and scattered yellow insulation litter a parking lot, with debris and wind-blown materials strewn across the pavement near a building."
 geo:
 id: 19155
 item_type: Still Image

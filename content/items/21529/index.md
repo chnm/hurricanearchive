@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0284.JPG
     thumb: /files/thumbnails/14fb29fdc1635414fb29fdc16733.jpg
     url: /files/original/14fb29fdc1635414fb29fdc16733.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with standing water surrounding homes, scattered storm-damaged trees, and an elevated highway bridge crossing through the upper portion of the scene."
 geo:
 id: 21529
 item_type: Still Image

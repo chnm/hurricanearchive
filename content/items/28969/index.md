@@ -26,6 +26,8 @@ files:
     original_filename: kathleen listens_20364f0978.jpg.JPG
     thumb: /files/thumbnails/14fb29d15074f414fb29d15078da.jpg
     url: /files/original/14fb29d15074f414fb29d15078da.jpg
+    alt:
+      en: "A woman in a pink top holds a blue cup while viewing two framed photographs displayed on a wooden-framed wall, part of a photo exhibit."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

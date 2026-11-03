@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27902.jpg
     thumb: /files/thumbnails/14fb2a66e3b62b14fb2a66e3ba0e.jpg
     url: /files/original/14fb2a66e3b62b14fb2a66e3ba0e.jpg
+    alt:
+      en: "A tall McDonald's sign pole stands damaged with its golden arches bent and askew against a blue sky, while a small \"thank you\" arch sign sits on the grass below."
 geo:
   address: ''
   lat: 0.0

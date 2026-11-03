@@ -23,6 +23,8 @@ files:
     original_filename: 336697769_3237623206.jpg
     thumb: /files/thumbnails/14fb29d579b4a614fb29d5844606.jpg
     url: /files/original/14fb29d579b4a614fb29d5844606.jpg
+    alt:
+      en: "Large rusted metal barge hull with pink support beams, surrounded by debris, dried brush, and a fire hydrant partially buried in rubble on the ground."
 geo:
 id: 27298
 item_type: Still Image

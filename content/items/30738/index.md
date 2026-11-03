@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7439.JPG
     thumb: /files/thumbnails/14fb29cca1d25814fb29cca1d630.jpg
     url: /files/original/14fb29cca1d25814fb29cca1d630.jpg
+    alt:
+      en: "Uprooted trees with large exposed root balls lie toppled in a grassy area, with standing trees and scattered debris visible in the background, likely from hurricane wind damage."
 geo:
 id: 30738
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20050926037.JPG
     thumb: /files/thumbnails/14fb29e918245114fb29e9182883.jpg
     url: /files/original/14fb29e918245114fb29e9182883.jpg
+    alt:
+      en: "A flooded roadway leads to a bridge over the Grand Lake Intracoastal Waterway, with debris scattered on the pavement and signs reading \"Grand Lake ICWW,\" \"Weight Limit 20T/35T,\" and \"No Swimming.\""
 geo:
 id: 24276
 item_type: Still Image

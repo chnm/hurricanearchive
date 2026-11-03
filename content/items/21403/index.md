@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0247-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff033fbd14fb29ff0343a3.jpg
     url: /files/original/14fb29ff033fbd14fb29ff0343a3.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with partially submerged buildings, a truck, trees, and fencing surrounded by floodwaters, bordered by a tree line and levee."
 geo:
 id: 21403
 item_type: Still Image

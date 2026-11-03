@@ -21,6 +21,8 @@ files:
     original_filename: P1010032.JPG
     thumb: /files/thumbnails/14fb2a5756c5dc14fb2a5756d2c6.jpg
     url: /files/original/14fb2a5756c5dc14fb2a5756d2c6.jpg
+    alt:
+      en: "Aerial view of a river-side industrial site with storage tanks, scattered debris, docked boats, and surrounding marshland and flat coastal terrain."
 geo:
 id: 4161
 item_type: Still Image

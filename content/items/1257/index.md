@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27896.jpg
     thumb: /files/thumbnails/14fb2a6a075fe114fb2a6a0763ce.jpg
     url: /files/original/14fb2a6a075fe114fb2a6a0763ce.jpg
+    alt:
+      en: "Nighttime photo of a group of adults and children standing in front of an American Red Cross relief vehicle, gathered to receive an evening meal after Hurricane Rita."
 geo:
   address: ''
   lat: 0.0

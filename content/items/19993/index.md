@@ -21,6 +21,8 @@ files:
     original_filename: Picture 090cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bc9450d14fb2a0bc948f2.jpg
     url: /files/original/14fb2a0bc9450d14fb2a0bc948f2.jpg
+    alt:
+      en: "A dark sedan with its hood popped open sits abandoned on an elevated highway overpass, positioned against the concrete barrier wall, under a clear blue sky."
 geo:
 id: 19993
 item_type: Still Image

@@ -18,6 +18,8 @@ files:
     original_filename: 78_e75d4abd25.jpg
     thumb: /files/thumbnails/14fb29c63e177314fb29c63e1b57.jpg
     url: /files/original/14fb29c63e177314fb29c63e1b57.jpg
+    alt:
+      en: "Four women in black bat costumes with wings and masks, their shirts spelling out \"BATS,\" pose in front of a wooden wall with a Tipitina's Jazz Fest '95 poster."
 geo:
   address: new orleans, la
   lat: 29.95324

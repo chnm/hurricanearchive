@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (2).JPG
     thumb: /files/thumbnails/14fb2a5e0caa2414fb2a5e0cb1f3.jpg
     url: /files/original/14fb2a5e0caa2414fb2a5e0cb1f3.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work at laptops in a large improvised office space divided by plywood partitions, with a map and American flag mounted on the wall behind them."
 geo:
 id: 3097
 item_type: Still Image

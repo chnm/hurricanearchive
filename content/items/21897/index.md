@@ -21,6 +21,8 @@ files:
     original_filename: Shell Oil - Looking West.jpg
     thumb: /files/thumbnails/14fb29fb184cc714fb29fb18509f.jpg
     url: /files/original/14fb29fb184cc714fb29fb18509f.jpg
+    alt:
+      en: "Aerial view of a flooded industrial area with large storage tanks, warehouses, and a residential neighborhood submerged in water, with an elevated highway curving through the scene."
 geo:
 id: 21897
 item_type: Still Image

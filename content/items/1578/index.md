@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28113.jpg
     thumb: /files/thumbnails/14fb2a67c5426814fb2a67c5464d.jpg
     url: /files/original/14fb2a67c5426814fb2a67c5464d.jpg
+    alt:
+      en: "Two men lean over a tall concrete floodwall, observing the 17th Street Canal breach area in Lakeview, New Orleans, with trees and rooftops visible behind them."
 geo:
   address: ''
   lat: 0.0

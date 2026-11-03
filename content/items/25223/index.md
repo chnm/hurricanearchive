@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1922superdome.JPG
     thumb: /files/thumbnails/14fb29e0b8cbbc14fb29e0b8cfa2.jpg
     url: /files/original/14fb29e0b8cbbc14fb29e0b8cfa2.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms carrying backpacks and rifles move across a concrete lot near a parking garage, with civilians' legs visible sitting along the structure's upper ledge above."
 geo:
 id: 25223
 item_type: Still Image

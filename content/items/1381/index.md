@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28476.jpg
     thumb: /files/thumbnails/14fb2a692b84e414fb2a692b8999.jpg
     url: /files/original/14fb2a692b84e414fb2a692b8999.jpg
+    alt:
+      en: "Damaged entrance of a house numbered 6420, with an open black door revealing a debris-filled staircase, a visible high-water stain line along the exterior walls, and a hanging lantern beside the doorway."
 geo:
   address: ''
   lat: 0.0

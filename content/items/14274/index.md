@@ -21,6 +21,8 @@ files:
     original_filename: aerials115.jpg
     thumb: /files/thumbnails/14fb2a1a48550414fb2a1a4858e9.jpg
     url: /files/original/14fb2a1a48550414fb2a1a4858e9.jpg
+    alt:
+      en: "Aerial view of a waterfront property with a damaged dock, scattered debris, a stranded boat, and a partially constructed or damaged house near muddy, eroded ground."
 geo:
 id: 14274
 item_type: Still Image

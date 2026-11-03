@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2171rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13c8550214fb2a13c85905.jpg
     url: /files/original/14fb2a13c8550214fb2a13c85905.jpg
+    alt:
+      en: "Blurry interior shot of a helicopter with a crew member in a green flight suit and helmet wearing a headset, surrounded by harness straps and equipment, with other crew members partially visible."
 geo:
 id: 19006
 item_type: Still Image

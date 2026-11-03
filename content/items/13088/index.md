@@ -21,6 +21,8 @@ files:
     original_filename: debris north2.jpg
     thumb: /files/thumbnails/14fb2a208379df14fb2a20837eb3.jpg
     url: /files/original/14fb2a208379df14fb2a20837eb3.jpg
+    alt:
+      en: "Dense fog or heavy rain obscures a rooftop view of industrial buildings, with scattered debris littering the ground below and a street lamp faintly visible in the haze."
 geo:
 id: 13088
 item_type: Still Image

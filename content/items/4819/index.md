@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0134.JPG
     thumb: /files/thumbnails/14fb2a5548fd1114fb2a55490749.jpg
     url: /files/original/14fb2a5548fd1114fb2a55490749.jpg
+    alt:
+      en: "Close-up view of exposed roof framing in an attic space, showing wooden rafters, joists, and diagonal bracing, with a small light source visible in the lower left corner."
 geo:
 id: 4819
 item_type: Still Image

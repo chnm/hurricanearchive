@@ -21,6 +21,8 @@ files:
     original_filename: 102-14_000edc80b2.jpg
     thumb: /files/thumbnails/14fb2a21b9bed914fb2a21b9d00d.jpg
     url: /files/original/14fb2a21b9bed914fb2a21b9d00d.jpg
+    alt:
+      en: "A woman with curly hair wearing a white top sits at a table with a glass and bottle, looking downward, with another person partially visible in the background."
 geo:
 id: 12696
 item_type: Still Image

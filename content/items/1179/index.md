@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28306.jpg
     thumb: /files/thumbnails/14fb2a6aa03d7814fb2a6aa04160.jpg
     url: /files/original/14fb2a6aa03d7814fb2a6aa04160.jpg
+    alt:
+      en: "Severely damaged multi-story building with exposed steel framing and collapsed sections, debris scattered on the ground, bare tree branches in the foreground."
 geo:
   address: ''
   lat: 0.0

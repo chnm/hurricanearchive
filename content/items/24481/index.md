@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0102-21.JPG
     thumb: /files/thumbnails/14fb29e756222414fb29e7562609.jpg
     url: /files/original/14fb29e756222414fb29e7562609.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms work at desks with laptops and phones in a busy operations center, with one in the foreground speaking on a cell phone while others work in the background."
 geo:
 id: 24481
 item_type: Still Image

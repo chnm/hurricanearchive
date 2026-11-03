@@ -21,6 +21,8 @@ files:
     original_filename: DSC01114.JPG
     thumb: /files/thumbnails/14fb2a5888cdc714fb2a5888d1ad.jpg
     url: /files/original/14fb2a5888cdc714fb2a5888d1ad.jpg
+    alt:
+      en: "Two U.S. Coast Guard members in orange life vests survey a flooded shoreline, with a submerged \"Signal Ahead\" road sign and an overturned boat trailer visible in the water."
 geo:
 id: 4011
 item_type: Still Image

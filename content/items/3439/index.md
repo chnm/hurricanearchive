@@ -24,6 +24,8 @@ files:
     original_filename: P1010008.JPG
     thumb: /files/thumbnails/14fb2a5bbad6d514fb2a5bbadabb.jpg
     url: /files/original/14fb2a5bbad6d514fb2a5bbadabb.jpg
+    alt:
+      en: "A brick house with a blue tarp covering its storm-damaged roof, piles of debris and black trash bags along the curb and front yard, with an American flag by the doorway."
 geo:
 id: 3439
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7416.JPG
     thumb: /files/thumbnails/14fb29ccbd1f4c14fb29ccbd2335.jpg
     url: /files/original/14fb29ccbd1f4c14fb29ccbd2335.jpg
+    alt:
+      en: "A white sedan sits abandoned under fallen tree branches and debris, with leafy limbs draped across its roof, hood, and trunk amid dense greenery."
 geo:
 id: 30719
 item_type: Still Image

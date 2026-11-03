@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7682.JPG
     thumb: /files/thumbnails/14fb29cc80363314fb29cc808a4e.jpg
     url: /files/original/14fb29cc80363314fb29cc808a4e.jpg
+    alt:
+      en: "Backyard view from a wooden deck showing storm damage, with multiple fallen tree trunks lying on the ground and overturned root systems amid dense, damaged foliage."
 geo:
 id: 30781
 item_type: Still Image

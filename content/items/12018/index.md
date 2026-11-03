@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi541.JPG
     thumb: /files/thumbnails/14fb2a2252f48414fb2a2252f855.jpg
     url: /files/original/14fb2a2252f48414fb2a2252f855.jpg
+    alt:
+      en: "A man in a light blue checked shirt gestures while speaking outdoors near children and a woman in a pinstripe suit, with a banner reading \"We Salute Your Helping Hands\" hanging on the building behind them."
 geo:
 id: 12018
 item_type: Still Image

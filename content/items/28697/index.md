@@ -20,6 +20,8 @@ files:
     original_filename: 114540088_3d1de6bc49.jpg
     thumb: /files/thumbnails/14fb29d1b0402a14fb29d1b043b5.jpg
     url: /files/original/14fb29d1b0402a14fb29d1b043b5.jpg
+    alt:
+      en: "Three framed waterfall pictures hang on a badly water-stained and moldy wall inside a damaged house, with a metal cabinet visible in the lower right corner."
 geo:
 id: 28697
 item_type: Still Image

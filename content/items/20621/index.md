@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044M.JPG
     thumb: /files/thumbnails/14fb2a059c047314fb2a059c0859.jpg
     url: /files/original/14fb2a059c047314fb2a059c0859.jpg
+    alt:
+      en: "A soldier in camouflage administers an injection into the upper arm of another man wearing a brown t-shirt, who winces and closes his eyes; a wall map is visible behind them."
 geo:
 id: 20621
 item_type: Still Image

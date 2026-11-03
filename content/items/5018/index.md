@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0363.JPG
     thumb: /files/thumbnails/14fb2a5466616114fb2a54666545.jpg
     url: /files/original/14fb2a5466616114fb2a54666545.jpg
+    alt:
+      en: "Heavy wooden posts and beams of a partially constructed or storm-damaged frame stand amid scattered debris, with trees and overcast sky in the background."
 geo:
 id: 5018
 item_type: Still Image

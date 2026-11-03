@@ -21,6 +21,8 @@ files:
     original_filename: S4300197iwojima.JPG
     thumb: /files/thumbnails/14fb2a11601a0d14fb2a11601de8.jpg
     url: /files/original/14fb2a11601a0d14fb2a11601de8.jpg
+    alt:
+      en: "Interior passageway of a ship viewed through an open watertight hatch marked \"Z,\" with several people in camouflage military uniforms walking down a corridor lined with pipes and equipment."
 geo:
 id: 19278
 item_type: Still Image

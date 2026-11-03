@@ -21,6 +21,8 @@ files:
     original_filename: NO 001majortodd.jpg
     thumb: /files/thumbnails/14fb29f2f1349c14fb29f2f13881.jpg
     url: /files/original/14fb29f2f1349c14fb29f2f13881.jpg
+    alt:
+      en: "Cockpit view from behind a helmeted pilot wearing a flight suit with a U.S. flag patch, silhouetted against bright sky with instrument panels and controls visible."
 geo:
 id: 22879
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC00046neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb3e420c14fb29eb3e45f2.jpg
     url: /files/original/14fb29eb3e420c14fb29eb3e45f2.jpg
+    alt:
+      en: "A man loads bags of ice into the bed of a pickup truck, with a military truck marked \"225GP\" and soldiers unloading water bottles in the background."
 geo:
 id: 24046
 item_type: Still Image

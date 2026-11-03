@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0081grandisle.JPG
     thumb: /files/thumbnails/14fb2a14d513c714fb2a14d517ac.jpg
     url: /files/original/14fb2a14d513c714fb2a14d517ac.jpg
+    alt:
+      en: "Aerial view of a storm-devastated coastal roadside, with scattered debris, a collapsed structure, scorched ground, and a car amid flattened vegetation near a waterway."
 geo:
 id: 18864
 item_type: Still Image

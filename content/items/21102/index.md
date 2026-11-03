@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0177-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a009a591014fb2a009a5cf6.jpg
     url: /files/original/14fb2a009a591014fb2a009a5cf6.jpg
+    alt:
+      en: "Three men stand outdoors near a brick building; one wears a black cap reading \"Wilcrest Field Services\" and a striped shirt, another wears denim overalls with a camo cap and sunglasses."
 geo:
 id: 21102
 item_type: Still Image

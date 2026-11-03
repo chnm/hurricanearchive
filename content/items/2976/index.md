@@ -21,6 +21,8 @@ files:
     original_filename: MVC-031S.JPG
     thumb: /files/thumbnails/14fb2a5f3a173314fb2a5f3a1b0e.jpg
     url: /files/original/14fb2a5f3a173314fb2a5f3a1b0e.jpg
+    alt:
+      en: "A damaged military helicopter with bent rotor blades and visible fuselage damage sits on pavement, parked near other aircraft including a propeller plane marked \"24\" in the background."
 geo:
 id: 2976
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 27.jpg
     thumb: /files/thumbnails/14fb2a60664be614fb2a60664fc5.jpg
     url: /files/original/14fb2a60664be614fb2a60664fc5.jpg
+    alt:
+      en: "Child's crayon drawing of a dark swirling tornado above two stick figures—one in green-and-brown striped clothing, another with a bandaged, injured arm—alongside a partial figure labeled \"Jack.\""
 geo:
 id: 2729
 item_type: Still Image

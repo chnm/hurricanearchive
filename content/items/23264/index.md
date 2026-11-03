@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2261neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f03658bc14fb29f0365ca2.jpg
     url: /files/original/14fb29f03658bc14fb29f0365ca2.jpg
+    alt:
+      en: "Aluminum boat propped vertically against a storm-damaged house with a plywood-boarded window, surrounded by debris and a gravel yard, with downed power lines overhead."
 geo:
 id: 23264
 item_type: Still Image

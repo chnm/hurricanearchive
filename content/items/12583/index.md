@@ -23,6 +23,8 @@ files:
     original_filename: cover_story-4_75191ab65c.jpg
     thumb: /files/thumbnails/14fb2a220373c114fb2a22038678.jpg
     url: /files/original/14fb2a220373c114fb2a22038678.jpg
+    alt:
+      en: "A cardboard cutout of Mr. Bill with arms raised stands in a French Quarter street, with a military Humvee and balconied buildings in the background."
 geo:
   address: ''
   lat: 0.0

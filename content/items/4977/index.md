@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0322.JPG
     thumb: /files/thumbnails/14fb2a54a91fe214fb2a54a93319.jpg
     url: /files/original/14fb2a54a91fe214fb2a54a93319.jpg
+    alt:
+      en: "Interior view of an attic or roof structure showing exposed wooden rafters, joists, and plywood sheathing, with a white vinyl soffit panel visible along the lower edge."
 geo:
 id: 4977
 item_type: Still Image

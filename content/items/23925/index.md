@@ -21,6 +21,8 @@ files:
     original_filename: 09140038neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec5b8aaf14fb29ec5b8e94.jpg
     url: /files/original/14fb29ec5b8aaf14fb29ec5b8e94.jpg
+    alt:
+      en: "A military cargo plane flies low over a cityscape of industrial buildings and warehouses, with a \"PEPSI\" sign visible on a large structure below, under a clear blue sky."
 geo:
 id: 23925
 item_type: Still Image

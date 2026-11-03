@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0193.JPG
     thumb: /files/thumbnails/14fb2a55163a9214fb2a55163e05.jpg
     url: /files/original/14fb2a55163a9214fb2a55163e05.jpg
+    alt:
+      en: "Interior wall of unfinished plywood paneling with a double-hung window, its lower pane boarded over, and a window-mounted air conditioner unit installed to the right beside exposed wiring."
 geo:
 id: 4874
 item_type: Still Image

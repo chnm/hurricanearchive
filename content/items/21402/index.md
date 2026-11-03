@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0247-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff03d81f14fb29ff03dbfb.jpg
     url: /files/original/14fb29ff03d81f14fb29ff03dbfb.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with collapsed roofs, debris-strewn streets, downed power lines, and scattered trees, with a car visible among the wreckage."
 geo:
 id: 21402
 item_type: Still Image

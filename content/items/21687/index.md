@@ -21,6 +21,8 @@ files:
     original_filename: FH000016-9-23.jpg
     thumb: /files/thumbnails/14fb29fc6a7e6c14fb29fc6a8251.jpg
     url: /files/original/14fb29fc6a7e6c14fb29fc6a8251.jpg
+    alt:
+      en: "Collapsed brick wall and leaning utility pole along a residential street, with debris scattered on the ground beside an intact brick wall continuing down the road."
 geo:
 id: 21687
 item_type: Still Image

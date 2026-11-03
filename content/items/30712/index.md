@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7409.JPG
     thumb: /files/thumbnails/14fb29ccc4648b14fb29ccc4686a.jpg
     url: /files/original/14fb29ccc4648b14fb29ccc4686a.jpg
+    alt:
+      en: "A large fallen tree branch rests on the roof of a dark blue vehicle, surrounded by dense green foliage and leaves."
 geo:
 id: 30712
 item_type: Still Image

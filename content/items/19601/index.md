@@ -21,6 +21,8 @@ files:
     original_filename: 09240002rita.JPG
     thumb: /files/thumbnails/14fb2a0edbbdba14fb2a0edbc19e.jpg
     url: /files/original/14fb2a0edbbdba14fb2a0edbc19e.jpg
+    alt:
+      en: "Muddy, waterlogged lot under overcast sky, with striped canopy tents, a dumpster, tractors, and trees scattered across the flooded staging area."
 geo:
 id: 19601
 item_type: Still Image

@@ -25,6 +25,8 @@ files:
     original_filename: 158259522_a60e5c35bc.jpg
     thumb: /files/thumbnails/14fb29d1ea039214fb29d1ea077a.jpg
     url: /files/original/14fb29d1ea039214fb29d1ea077a.jpg
+    alt:
+      en: "A large pile of storm debris—broken wood, boards, and building materials—sits beside a road, cordoned off with yellow caution tape, with trees and a damaged structure in the background."
 geo:
 id: 28649
 item_type: Still Image

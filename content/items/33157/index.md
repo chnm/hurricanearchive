@@ -20,6 +20,8 @@ files:
     original_filename: FDL symbol NO Nov 1 2007_f04ba2ae32.jpg
     thumb: /files/thumbnails/14fb29cbe0a85014fb29cbe0ace7.jpg
     url: /files/original/14fb29cbe0a85014fb29cbe0ace7.jpg
+    alt:
+      en: "A metal fleur-de-lis pendant on a ball chain hangs in front of a spray-painted X search symbol with \"9-15,\" \"TF 18,\" and \"0\" marked on a house's siding."
 geo:
   address: ''
   lat: 29.96445

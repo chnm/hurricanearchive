@@ -21,6 +21,8 @@ files:
     original_filename: aerials33.jpg
     thumb: /files/thumbnails/14fb2a19d5624414fb2a19d5662a.jpg
     url: /files/original/14fb2a19d5624414fb2a19d5662a.jpg
+    alt:
+      en: "Aerial view of a storm-damaged property with a collapsed roof and debris scattered among fallen and broken trees, surrounded by a road and patches of bare, defoliated woodland."
 geo:
 id: 14320
 item_type: Still Image

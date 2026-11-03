@@ -21,6 +21,8 @@ files:
     original_filename: 100_0249.JPG
     thumb: /files/thumbnails/14fb2a5f1ae04914fb2a5f1ae42e.jpg
     url: /files/original/14fb2a5f1ae04914fb2a5f1ae42e.jpg
+    alt:
+      en: "Dark, dimly lit interior of a submarine compartment viewed through metal railings, showing a torpedo tube, valve wheels, and a sign reading \"Forward Torpedo Room\" with a small descriptive placard beneath it."
 geo:
 id: 3000
 item_type: Still Image

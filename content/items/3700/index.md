@@ -24,6 +24,8 @@ files:
     original_filename: P1010143.JPG
     thumb: /files/thumbnails/14fb2a5a15afc914fb2a5a15b3a7.jpg
     url: /files/original/14fb2a5a15afc914fb2a5a15b3a7.jpg
+    alt:
+      en: "A grimy purple Barney doll and other mud-stained stuffed animals perched atop a blue barrel, surrounded by empty liquor bottles including Seagram's VO, amid storm debris."
 geo:
 id: 3700
 item_type: Still Image

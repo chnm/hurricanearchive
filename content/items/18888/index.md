@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0238downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14a3cae614fb2a14a3d3f0.jpg
     url: /files/original/14fb2a14a3cae614fb2a14a3d3f0.jpg
+    alt:
+      en: "Aerial view of a city block with large brick institutional buildings, several roofs covered in blue tarps, surrounded by residential streets, parked military trucks, and parked buses."
 geo:
 id: 18888
 item_type: Still Image

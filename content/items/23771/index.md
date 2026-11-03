@@ -21,6 +21,8 @@ files:
     original_filename: PICT0086neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed2e5ec214fb29ed2e62a7.jpg
     url: /files/original/14fb29ed2e5ec214fb29ed2e62a7.jpg
+    alt:
+      en: "Large side mirror of a military-style vehicle frames an empty city street lined with high-rise buildings, with a date stamp reading 09.15.2005 in the corner."
 geo:
 id: 23771
 item_type: Still Image

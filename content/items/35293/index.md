@@ -18,6 +18,8 @@ files:
     original_filename: 28_632e9250bd.jpg
     thumb: /files/thumbnails/14fb29c6eb8c4714fb29c6eb902d.jpg
     url: /files/original/14fb29c6eb8c4714fb29c6eb902d.jpg
+    alt:
+      en: "Large group in matching red and white marching band-style uniforms with cat-and-number-9 logos pose with drums and a banner reading \"Ninth Ward [Marching] B[and]\" outside a row of houses."
 geo:
   address: new orleans, la
   lat: 29.95324

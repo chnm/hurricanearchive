@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0194-21.JPG
     thumb: /files/thumbnails/14fb2a001cc77014fb2a001ccb55.jpg
     url: /files/original/14fb2a001cc77014fb2a001ccb55.jpg
+    alt:
+      en: "A Fox News reporter holds a microphone toward a uniformed military officer speaking animatedly, while a man with a Nikon camera stands nearby and other soldiers are visible in the background."
 geo:
 id: 21192
 item_type: Still Image

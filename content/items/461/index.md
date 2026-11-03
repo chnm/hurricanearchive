@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0362_8931c214ec.JPG
     thumb: /files/thumbnails/14fb2a6fd006a414fb2a6fd00a7a.jpg
     url: /files/original/14fb2a6fd006a414fb2a6fd00a7a.jpg
+    alt:
+      en: "A house covered in blue tarp siding, with an American flag hanging beside a window and a door marked with an orange X search symbol, surrounded by trees."
 geo:
   address: ''
   lat: 30.346805868962104

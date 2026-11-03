@@ -21,6 +21,8 @@ files:
     original_filename: 09270010plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec32cac314fb29ec32cefe.jpg
     url: /files/original/14fb29ec32cac314fb29ec32cefe.jpg
+    alt:
+      en: "Debris-strewn field with bare, storm-damaged trees and a collapsed metal-frame structure in the background, bordered by a muddy waterway in the foreground."
 geo:
 id: 23972
 item_type: Still Image

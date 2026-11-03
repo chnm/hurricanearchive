@@ -20,6 +20,8 @@ files:
     original_filename: Lucky and I_c3128c3c5b.jpg
     thumb: /files/thumbnails/14fb2a22067ebe14fb2a220682a3.jpg
     url: /files/original/14fb2a22067ebe14fb2a220682a3.jpg
+    alt:
+      en: "Black-and-white photo of an elderly man in a wheelchair beside a smiling woman in a large arena set up as a shelter with cots and belongings; caption reads \"Lucky\" and I."
 geo:
   address: ''
   lat: 0.0

@@ -24,6 +24,8 @@ files:
     original_filename: P1010016.JPG
     thumb: /files/thumbnails/14fb2a5aae2c5714fb2a5aae303d.jpg
     url: /files/original/14fb2a5aae2c5714fb2a5aae303d.jpg
+    alt:
+      en: "A large leaning tree with bare, sprawling branches looms over a damaged brick house, with storm debris, downed branches, and scattered wreckage covering the yard."
 geo:
 id: 3589
 item_type: Still Image

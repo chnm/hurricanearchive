@@ -24,6 +24,8 @@ files:
     original_filename: SF shrimp boat 2_9af8a0711d.jpg
     thumb: /files/thumbnails/14fb29d78dfdb514fb29d78e013b.jpg
     url: /files/original/14fb29d78dfdb514fb29d78e013b.jpg
+    alt:
+      en: "A wooden boat sits under construction on a dirt lot, surrounded by scattered lumber and debris, with a mobile home and other buildings visible under a hazy sky."
 geo:
   address: ''
   lat: 29.87876

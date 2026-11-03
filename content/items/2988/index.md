@@ -21,6 +21,8 @@ files:
     original_filename: 100_0237.JPG
     thumb: /files/thumbnails/14fb2a5f2a664e14fb2a5f2a6a33.jpg
     url: /files/original/14fb2a5f2a664e14fb2a5f2a6a33.jpg
+    alt:
+      en: "Interior of a submarine berthing area with green bunk mattresses and chains, walls lined with framed newsletter pages and photo collages, including several \"DRUM NEWSLETTER\" displays and a grid of black-and-white snapshots."
 geo:
 id: 2988
 item_type: Still Image

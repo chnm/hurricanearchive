@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031grandisle.JPG
     thumb: /files/thumbnails/14fb2a1536cb0514fb2a1536ceea.jpg
     url: /files/original/14fb2a1536cb0514fb2a1536ceea.jpg
+    alt:
+      en: "Aerial view of a long bridge or causeway crossing greenish water, with a white SUV and dark pickup truck on the roadway and a damaged, partially collapsed section visible near the middle."
 geo:
 id: 18799
 item_type: Still Image

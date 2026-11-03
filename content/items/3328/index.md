@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (86).jpg
     thumb: /files/thumbnails/14fb2a5c65077a14fb2a5c650b5f.jpg
     url: /files/original/14fb2a5c65077a14fb2a5c650b5f.jpg
+    alt:
+      en: "Two men stand amid a debris-covered street with dead vegetation, mud, and scattered vehicles, flanked by damaged houses and bare trees with tangled power lines overhead."
 geo:
 id: 3328
 item_type: Still Image

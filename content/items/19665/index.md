@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 052cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e82aa5914fb2a0e82ae3e.jpg
     url: /files/original/14fb2a0e82aa5914fb2a0e82ae3e.jpg
+    alt:
+      en: "Close-up of a woodland camouflage military uniform sleeve bearing a round sunburst-pattern shoulder patch, with an \"U.S. ARMY\" tape and rank insignia visible on the chest."
 geo:
 id: 19665
 item_type: Still Image

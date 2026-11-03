@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (60).JPG
     thumb: /files/thumbnails/14fb2a5d56199a14fb2a5d561d7e.jpg
     url: /files/original/14fb2a5d56199a14fb2a5d561d7e.jpg
+    alt:
+      en: "Boats stranded on dry grass near a highway overpass, with a tall pine tree and scattered debris in an open lot, likely displaced by flooding."
 geo:
 id: 3212
 item_type: Still Image

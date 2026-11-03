@@ -21,6 +21,8 @@ files:
     original_filename: Picture 130cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b9cc67314fb2a0b9cca5b.jpg
     url: /files/original/14fb2a0b9cc67314fb2a0b9cca5b.jpg
+    alt:
+      en: "Two white boats, one named \"Vista-Gator,\" sit stranded on dry, grassy ground amid bare trees, likely displaced by storm surge or flooding."
 geo:
 id: 20033
 item_type: Still Image

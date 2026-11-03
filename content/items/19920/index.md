@@ -21,6 +21,8 @@ files:
     original_filename: Picture 016cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c6ad8b414fb2a0c6afbdf.jpg
     url: /files/original/14fb2a0c6ad8b414fb2a0c6afbdf.jpg
+    alt:
+      en: "Street intersection with a pedestrian crosswalk and fallen tree debris piled along the curb, with power lines, utility poles, and trees visible under a partly cloudy sky."
 geo:
 id: 19920
 item_type: Still Image

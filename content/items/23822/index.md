@@ -21,6 +21,8 @@ files:
     original_filename: S4300161stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf09aba14fb29ecf09e97.jpg
     url: /files/original/14fb29ecf09aba14fb29ecf09e97.jpg
+    alt:
+      en: "Two storm-damaged houses with a pink one showing mud-stained siding and boarded windows, numbered \"4428,\" sit amid debris, dried mud, a fallen ladder, and uprooted shrubs."
 geo:
 id: 23822
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0440-16.JPG
     thumb: /files/thumbnails/14fb29fcc8a80614fb29fcc8abe8.jpg
     url: /files/original/14fb29fcc8a80614fb29fcc8abe8.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with damaged homes surrounded by standing floodwater, scattered debris, and uprooted trees, with a river, bridge, and industrial structures in the background."
 geo:
 id: 21654
 item_type: Still Image

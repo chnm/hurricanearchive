@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0119.JPG
     thumb: /files/thumbnails/14fb2a555d32bc14fb2a555d369c.jpg
     url: /files/original/14fb2a555d32bc14fb2a555d369c.jpg
+    alt:
+      en: "Debris field in a pine forest with scattered roofing panels, splintered wood, and a fallen power pole leaning against tall trees, likely storm damage."
 geo:
 id: 4806
 item_type: Still Image

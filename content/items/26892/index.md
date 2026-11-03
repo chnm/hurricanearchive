@@ -21,6 +21,8 @@ files:
     original_filename: girlsposingforcamera98_762ad1b45f.jpg
     thumb: /files/thumbnails/14fb29d66a46fe14fb29d66a4b10.jpg
     url: /files/original/14fb29d66a46fe14fb29d66a4b10.jpg
+    alt:
+      en: "Black-and-white yearbook photo of four young women in patterned dresses posing together in front of a draped curtain backdrop, captioned as Chalon Daggons, Careisha Steele, Deyonica Peterson, and Angelicia Salinas."
 geo:
 id: 26892
 item_type: Still Image

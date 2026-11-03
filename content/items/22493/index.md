@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1334Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5ec0a0214fb29f5ec1295.jpg
     url: /files/original/14fb29f5ec0a0214fb29f5ec1295.jpg
+    alt:
+      en: "Severe flooding submerges a house up to its roofline, with power lines and poles leaning over the murky water under an overcast sky."
 geo:
 id: 22493
 item_type: Still Image

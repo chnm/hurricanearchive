@@ -21,6 +21,8 @@ files:
     original_filename: 09270011plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec322e8d14fb29ec323269.jpg
     url: /files/original/14fb29ec322e8d14fb29ec323269.jpg
+    alt:
+      en: "A debris-strewn rural road stretches toward the horizon, flanked by storm-damaged, leaning trees and brush, with wooden utility poles standing along the left side under a hazy blue sky."
 geo:
 id: 23973
 item_type: Still Image

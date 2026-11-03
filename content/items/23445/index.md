@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0108abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef66c9be14fb29ef66cda4.jpg
     url: /files/original/14fb29ef66c9be14fb29ef66cda4.jpg
+    alt:
+      en: "A decoy duck floats in murky, rippling brown water, with small twigs caught on its back and faint reflections visible on the surface."
 geo:
 id: 23445
 item_type: Still Image

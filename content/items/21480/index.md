@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0273-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fe5c546a14fb29fe5c584e.jpg
     url: /files/original/14fb29fe5c546a14fb29fe5c584e.jpg
+    alt:
+      en: "Aerial view of a densely packed above-ground cemetery with rows of white and weathered tombs and mausoleums, palm trees, and adjacent rooftops including a red-tiled apartment building."
 geo:
 id: 21480
 item_type: Still Image

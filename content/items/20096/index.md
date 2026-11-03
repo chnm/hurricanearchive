@@ -21,6 +21,8 @@ files:
     original_filename: Picture 193cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b5803a814fb2a0b5807e9.jpg
     url: /files/original/14fb2a0b5803a814fb2a0b5807e9.jpg
+    alt:
+      en: "A grassy roadside park with tall pine trees, several uprooted or snapped and leaning amid the standing ones, picnic tables, a stone bench, and a small sign near the road."
 geo:
 id: 20096
 item_type: Still Image

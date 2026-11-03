@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5881_232d1879e4.jpg
     thumb: /files/thumbnails/14fb2a15fbfd3f14fb2a15fc0143.jpg
     url: /files/original/14fb2a15fbfd3f14fb2a15fc0143.jpg
+    alt:
+      en: "Three women wear traditional Canary Islands costumes with wide black hats, white headscarves, and colorful bodices in orange, red, and blue-striped fabric."
 geo:
 id: 16283
 item_type: Still Image

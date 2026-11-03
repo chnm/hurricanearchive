@@ -20,6 +20,8 @@ files:
     original_filename: 2456720183_948b753d05.
     thumb: /files/thumbnails/14fb29c89ae1f214fb29c89ae3a5.jpg
     url: /files/original/14fb29c89ae1f214fb29c89ae3a5.jpg
+    alt:
+      en: "Construction site showing a long concrete trench with exposed rebar, wooden bracing, orange safety netting, and a \"Caution\" tape-wrapped traffic cone; workers stand nearby along a waterfront."
 geo:
 id: 34900
 item_type: Still Image

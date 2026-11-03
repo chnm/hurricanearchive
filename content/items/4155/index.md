@@ -21,6 +21,8 @@ files:
     original_filename: P1010022.JPG
     thumb: /files/thumbnails/14fb2a575b81b914fb2a575b85ad.jpg
     url: /files/original/14fb2a575b81b914fb2a575b85ad.jpg
+    alt:
+      en: "Aerial view of a coastal community reduced to scattered debris and bare foundations along a sandy shoreline, with a grid of empty streets and a single vehicle visible on the road."
 geo:
 id: 4155
 item_type: Still Image

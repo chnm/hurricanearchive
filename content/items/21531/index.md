@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0285-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fdc003e714fb29fdc007c4.jpg
     url: /files/original/14fb29fdc003e714fb29fdc007c4.jpg
+    alt:
+      en: "Aerial view of a flooded ballfield and street with floodwater covering bleachers and a light pole, as a small motorboat carrying several people navigates the submerged roadway past utility poles."
 geo:
 id: 21531
 item_type: Still Image

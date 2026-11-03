@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28295.jpg
     thumb: /files/thumbnails/14fb2a6926783614fb2a69267c1c.jpg
     url: /files/original/14fb2a6926783614fb2a69267c1c.jpg
+    alt:
+      en: "Brick building with a collapsed, twisted metal roof structure exposed above, a damaged tree in the foreground, and a person in a dark raincoat walking along a ramp beside the structure."
 geo:
   address: ''
   lat: 0.0

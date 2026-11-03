@@ -24,6 +24,8 @@ files:
     original_filename: P1010070.JPG
     thumb: /files/thumbnails/14fb2a5a89162914fb2a5a891a0c.jpg
     url: /files/original/14fb2a5a89162914fb2a5a891a0c.jpg
+    alt:
+      en: "Single-story brick house with a severely buckled and collapsed garage door, bare trees in the background, and spray-painted search-and-rescue markings near the front entrance."
 geo:
 id: 3635
 item_type: Still Image

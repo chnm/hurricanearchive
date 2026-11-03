@@ -21,6 +21,8 @@ files:
     original_filename: P1010161empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed9011dc14fb29ed9015c0.jpg
     url: /files/original/14fb29ed9011dc14fb29ed9015c0.jpg
+    alt:
+      en: "Viewed through a vehicle window, a scorched landscape with charred ground and debris, a leaning utility pole with wires, and surviving trees in the background under a hazy sky."
 geo:
 id: 23720
 item_type: Still Image

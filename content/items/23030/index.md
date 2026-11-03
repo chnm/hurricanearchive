@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040OEP.JPG
     thumb: /files/thumbnails/14fb29f1fcc04914fb29f1fcc436.jpg
     url: /files/original/14fb29f1fcc04914fb29f1fcc436.jpg
+    alt:
+      en: "Several \"Cruise America\" rental RVs, including a Ford-cab motorhome labeled \"1-800-RV4RENT\" and \"Majestic,\" parked on a grassy lot, one decorated with a Mount Rushmore graphic."
 geo:
 id: 23030
 item_type: Still Image

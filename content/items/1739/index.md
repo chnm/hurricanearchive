@@ -26,6 +26,8 @@ files:
     original_filename: SabinePassPostOffice_f457badbee.jpg
     thumb: /files/thumbnails/14fb2a6eff23f214fb2a6eff27ce.jpg
     url: /files/original/14fb2a6eff23f214fb2a6eff27ce.jpg
+    alt:
+      en: "Damaged, sagging building with a collapsed roof and peeling paint, with a hand-painted sign reading \"U.S. POST SABINE PASS\" leaning against the structure, surrounded by debris and cinder blocks."
 geo:
   address: ''
   lat: 30.148461

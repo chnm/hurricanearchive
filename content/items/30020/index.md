@@ -20,6 +20,8 @@ files:
     original_filename: pics+2006-07+155_b24ecd941b.jpg
     thumb: /files/thumbnails/14fb29ce1505fa14fb29ce1509e1.jpg
     url: /files/original/14fb29ce1505fa14fb29ce1509e1.jpg
+    alt:
+      en: "Chain-link fence surrounds an empty street lined with brick housing units, debris piles, and tarp-covered roofs, with a speed limit sign and bare trees in the background."
 geo:
 id: 30020
 item_type: Still Image

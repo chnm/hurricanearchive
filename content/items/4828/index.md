@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0143.JPG
     thumb: /files/thumbnails/14fb2a554289f814fb2a55428def.jpg
     url: /files/original/14fb2a554289f814fb2a55428def.jpg
+    alt:
+      en: "Storm-damaged roof with torn-up shingles, exposed wooden framing, and a bent metal vent pipe, surrounded by fallen trees and debris scattered across the yard below."
 geo:
 id: 4828
 item_type: Still Image

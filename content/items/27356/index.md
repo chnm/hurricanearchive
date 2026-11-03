@@ -23,6 +23,8 @@ files:
     original_filename: 163135526_dd50efbfc9.jpg
     thumb: /files/thumbnails/14fb29d41c0cca14fb29d41c10a6.jpg
     url: /files/original/14fb29d41c0cca14fb29d41c10a6.jpg
+    alt:
+      en: "White house siding covered with multicolored handprints in rows, beneath spray-painted search-and-rescue markings forming an X with codes \"9-N,\" \"NF,\" and \"CTS\"; shuttered window and trees visible nearby."
 geo:
   address: ''
   lat: 29.84064

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 049.jpg
     thumb: /files/thumbnails/14fb2a2261fea814fb2a22620579.jpg
     url: /files/original/14fb2a2261fea814fb2a22620579.jpg
+    alt:
+      en: "Debris and splintered wood piled along a roadside, with tall pine trees showing storm damage and scorched, browning needles against a clear blue sky."
 geo:
 id: 12001
 item_type: Still Image

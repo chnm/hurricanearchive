@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1025.JPG
     thumb: /files/thumbnails/14fb2a57c66afc14fb2a57c66ee0.jpg
     url: /files/original/14fb2a57c66afc14fb2a57c66ee0.jpg
+    alt:
+      en: "A crowd gathers around a flatbed trailer marked \"54,\" loading black dogs while a man in a dark uniform and bucket hat with sunglasses stands watch in the foreground."
 geo:
 id: 4099
 item_type: Still Image

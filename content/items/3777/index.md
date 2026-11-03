@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 057.jpg
     thumb: /files/thumbnails/14fb2a59c5bd9814fb2a59c5c175.jpg
     url: /files/original/14fb2a59c5bd9814fb2a59c5c175.jpg
+    alt:
+      en: "Elevated metal building with storm-damaged siding and twisted roof panels, exposing its support pillars and debris-strewn interior, with wreckage scattered on the ground below."
 geo:
 id: 3777
 item_type: Still Image

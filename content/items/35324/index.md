@@ -18,6 +18,8 @@ files:
     original_filename: 60_14d60872de.jpg
     thumb: /files/thumbnails/14fb29c65dafe614fb29c65db3cb.jpg
     url: /files/original/14fb29c65dafe614fb29c65db3cb.jpg
+    alt:
+      en: "Two women in matching dark blue swimsuits, white tights, and red capes pose near elaborate puppet theater-like stage sets decorated with orange fringe, pink and blue backdrops, and small figures."
 geo:
   address: new orleans, la
   lat: 29.95324

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011.JPG
     thumb: /files/thumbnails/14fb2a00fac78814fb2a00facb6e.jpg
     url: /files/original/14fb2a00fac78814fb2a00facb6e.jpg
+    alt:
+      en: "View from inside a helicopter doorway, showing a soldier in camouflage gear and helmet with tactical backpack, looking out over an airfield with parked vehicles and a tree-lined landscape below."
 geo:
 id: 21040
 item_type: Still Image

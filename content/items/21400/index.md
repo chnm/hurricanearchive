@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0246-9-25.JPG
     thumb: /files/thumbnails/14fb29ff05d3b314fb29ff05d795.jpg
     url: /files/original/14fb29ff05d3b314fb29ff05d795.jpg
+    alt:
+      en: "Aerial view of a flooded farmhouse surrounded by water, with surrounding fields showing storm-flattened crops and muddy patches."
 geo:
 id: 21400
 item_type: Still Image

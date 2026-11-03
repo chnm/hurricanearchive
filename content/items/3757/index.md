@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 037.jpg
     thumb: /files/thumbnails/14fb2a59d3d06914fb2a59d3d446.jpg
     url: /files/original/14fb2a59d3d06914fb2a59d3d446.jpg
+    alt:
+      en: "A bare, storm-stripped tree stands beside an empty road and debris pile, with damaged multi-story buildings visible in the background under a clear blue sky."
 geo:
 id: 3757
 item_type: Still Image

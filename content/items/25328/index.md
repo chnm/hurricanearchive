@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2055superdome.JPG
     thumb: /files/thumbnails/14fb29df0cc53014fb29df0cc928.jpg
     url: /files/original/14fb29df0cc53014fb29df0cc928.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms assist evacuees, including a woman in red boots and plaid clothing, boarding an aircraft on a wet tarmac."
 geo:
 id: 25328
 item_type: Still Image

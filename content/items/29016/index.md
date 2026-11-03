@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0519.JPG
     thumb: /files/thumbnails/14fb29d0a5947514fb29d0a59859.jpg
     url: /files/original/14fb29d0a5947514fb29d0a59859.jpg
+    alt:
+      en: "A military helicopter with spinning rotor blades hovers low near a runway, seen through white metal support structures, with trees and a chain-link fence in the background."
 geo:
 id: 29016
 item_type: Still Image

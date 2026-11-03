@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0119cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef49f08314fb29ef49f42c.jpg
     url: /files/original/14fb29ef49f08314fb29ef49f42c.jpg
+    alt:
+      en: "Man with gray beard and tousled hair wears an earplug and holds a Nikon camera, looking down at its screen while riding in an aircraft above a green, river-lined landscape."
 geo:
 id: 23468
 item_type: Still Image

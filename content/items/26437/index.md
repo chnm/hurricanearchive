@@ -20,6 +20,8 @@ files:
     original_filename: breezeway 2_92dd36b005.JPG
     thumb: /files/thumbnails/14fb29d8673ff814fb29d8674d94.jpg
     url: /files/original/14fb29d8673ff814fb29d8674d94.jpg
+    alt:
+      en: "Debris-strewn breezeway of a storm-damaged apartment building, with exposed ceiling joists, torn siding panels, and scattered drywall fragments leading to an open doorway revealing trees outside."
 geo:
   address: 15235 Oneal Rd
   lat: 30.47064

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28389.jpg
     thumb: /files/thumbnails/14fb2a6ca62dd514fb2a6ca63136.jpg
     url: /files/original/14fb2a6ca62dd514fb2a6ca63136.jpg
+    alt:
+      en: "Two men in caps hold a triangular stainless steel fish release device while speaking with a third man wearing a purple shirt, aboard a shrimp boat with coiled ropes in the background."
 geo:
   address: ''
   lat: 0.0

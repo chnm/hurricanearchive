@@ -21,6 +21,8 @@ files:
     original_filename: debris northeast.jpg
     thumb: /files/thumbnails/14fb2a207ec99414fb2a207ecd7a.jpg
     url: /files/original/14fb2a207ec99414fb2a207ecd7a.jpg
+    alt:
+      en: "Flat rooftops of adjoining buildings seen through heavy fog, with torn roofing material and scattered debris near a damaged section in the center; a partial sign reading \"Hancock Bank\" is visible in the hazy background."
 geo:
 id: 13089
 item_type: Still Image

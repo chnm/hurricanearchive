@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5692_82b59e2ec4.jpg
     thumb: /files/thumbnails/14fb2a1707475c14fb2a17074b42.jpg
     url: /files/original/14fb2a1707475c14fb2a17074b42.jpg
+    alt:
+      en: "Sepia-toned portrait of a man in a light-colored suit jacket and collared shirt, facing the camera against a plain backdrop; the worn photograph has creases and small stains throughout."
 geo:
 id: 15123
 item_type: Still Image

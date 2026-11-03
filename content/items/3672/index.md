@@ -24,6 +24,8 @@ files:
     original_filename: P1010109.JPG
     thumb: /files/thumbnails/14fb2a5a3032f414fb2a5a30382d.jpg
     url: /files/original/14fb2a5a3032f414fb2a5a30382d.jpg
+    alt:
+      en: "A brick house with a severely damaged roof, shingles torn away in large patches exposing the underlayment, two chimney vents, and spray-painted search-and-rescue markings on the garage door."
 geo:
 id: 3672
 item_type: Still Image

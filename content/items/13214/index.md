@@ -21,6 +21,8 @@ files:
     original_filename: 208 roof peel.jpg
     thumb: /files/thumbnails/14fb2a1f3dd4df14fb2a1f3dd8c5.jpg
     url: /files/original/14fb2a1f3dd4df14fb2a1f3dd8c5.jpg
+    alt:
+      en: "White industrial building with its roof structure partially torn away, exposing wooden trusses, with a chain-link fence in front and trees and utility poles in the background."
 geo:
 id: 13214
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6521_b56b9526f2.jpg
     thumb: /files/thumbnails/14fb29d3e3564914fb29d3e35a25.jpg
     url: /files/original/14fb29d3e3564914fb29d3e35a25.jpg
+    alt:
+      en: "A laughing girl in a white shirt sits beside a man in glasses and a polo shirt holding a birthday cake with lit candles, as another young man looks on from behind."
 geo:
   address: ''
   lat: 30.03106

@@ -21,6 +21,8 @@ files:
     original_filename: S4300093alero.JPG
     thumb: /files/thumbnails/14fb2a1558344614fb2a1558381a.jpg
     url: /files/original/14fb2a1558344614fb2a1558381a.jpg
+    alt:
+      en: "Three men in military camouflage uniforms stand before a whiteboard listing parish names (Orleans, Jefferson, St. Bernard, Plaquemines, Washington, St. Tammany, Tangipahoa) with handwritten numerical data, maps visible on the wall behind them."
 geo:
 id: 18727
 item_type: Still Image

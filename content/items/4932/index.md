@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0274.JPG
     thumb: /files/thumbnails/14fb2a54e6e17c14fb2a54e6e566.jpg
     url: /files/original/14fb2a54e6e17c14fb2a54e6e566.jpg
+    alt:
+      en: "Single-story white house with damaged roofline and scattered debris, surrounded by trees with broken limbs and a grassy, overgrown yard, under a partly cloudy sky."
 geo:
 id: 4932
 item_type: Still Image

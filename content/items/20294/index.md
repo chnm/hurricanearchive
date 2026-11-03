@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0142-18.JPG
     thumb: /files/thumbnails/14fb2a09d0146a14fb2a09d018b1.jpg
     url: /files/original/14fb2a09d0146a14fb2a09d018b1.jpg
+    alt:
+      en: "A uniformed service member with a U.S. flag patch crouches amid massive broken concrete slabs with exposed rebar, while a dog on a chain stands nearby in the rubble."
 geo:
 id: 20294
 item_type: Still Image

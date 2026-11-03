@@ -21,6 +21,8 @@ files:
     original_filename: 170 flooding2.jpg
     thumb: /files/thumbnails/14fb2a1f90e8e814fb2a1f90efea.jpg
     url: /files/original/14fb2a1f90e8e814fb2a1f90efea.jpg
+    alt:
+      en: "View through a rain-streaked car windshield of a flooded street lined with utility poles, power lines, and houses, with traffic signals dangling above the submerged roadway."
 geo:
 id: 13178
 item_type: Still Image

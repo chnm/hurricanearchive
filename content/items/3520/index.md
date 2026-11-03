@@ -24,6 +24,8 @@ files:
     original_filename: P1010095.JPG
     thumb: /files/thumbnails/14fb2a5b303d1014fb2a5b3040f7.jpg
     url: /files/original/14fb2a5b303d1014fb2a5b3040f7.jpg
+    alt:
+      en: "A large palm tree stands in front of a white house with boarded-up windows, beside a blue \"Black Knight Services\" van and a street-side pile of storm debris and discarded belongings."
 geo:
 id: 3520
 item_type: Still Image

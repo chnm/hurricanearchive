@@ -21,6 +21,8 @@ files:
     original_filename: MVC-026S.JPG
     thumb: /files/thumbnails/14fb2a5f8965fa14fb2a5f896a1c.jpg
     url: /files/original/14fb2a5f8965fa14fb2a5f896a1c.jpg
+    alt:
+      en: "Shelving unit with stacked cardboard storage boxes, a plywood shelf holding old mechanical tools and photographic equipment, with corrugated metal paneling visible in the background."
 geo:
 id: 2937
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0087cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efa94a9114fb29efa94e77.jpg
     url: /files/original/14fb29efa94a9114fb29efa94e77.jpg
+    alt:
+      en: "Aerial view of flooded, hazy landscape with submerged fields, a tree-lined ridge or levee, and expanses of still water blending into fog on the horizon."
 geo:
 id: 23400
 item_type: Still Image

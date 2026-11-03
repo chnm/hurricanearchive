@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28617.jpg
     thumb: /files/thumbnails/14fb2a682982df14fb2a68298624.jpg
     url: /files/original/14fb2a682982df14fb2a68298624.jpg
+    alt:
+      en: "A jumbled pile of bent metal street signs and poles, including blue signs reading \"Valmont\" and \"Tchoupitoulas,\" along with a stop sign and other debris."
 geo:
   address: ''
   lat: 0.0

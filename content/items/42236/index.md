@@ -23,6 +23,8 @@ files:
     original_filename: ConveyorTransport_b0f3ee9d8a.jpg
     thumb: /files/thumbnails/14fb29c2a7f60a14fb29c2a7f9fd.jpg
     url: /files/original/14fb29c2a7f60a14fb29c2a7f9fd.jpg
+    alt:
+      en: "Workers guide a pet carrier containing a dog up a conveyor ramp onto a trailer, with stacks of empty animal crates and onlookers in the background, part of a hurricane animal rescue effort."
 geo:
 id: 42236
 item_type: Still Image

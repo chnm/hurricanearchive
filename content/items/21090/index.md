@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0175-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a00a2cec014fb2a00a2d29e.jpg
     url: /files/original/14fb2a00a2cec014fb2a00a2d29e.jpg
+    alt:
+      en: "Silhouettes of several people walking past a window or opening, framed by dark structural beams and branches, with a sunlit area visible in the background."
 geo:
 id: 21090
 item_type: Still Image

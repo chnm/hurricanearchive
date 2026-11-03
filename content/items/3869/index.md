@@ -21,6 +21,8 @@ files:
     original_filename: 100_0162.JPG
     thumb: /files/thumbnails/14fb2a59292b8814fb2a59292f6f.jpg
     url: /files/original/14fb2a59292b8814fb2a59292f6f.jpg
+    alt:
+      en: "A man in an orange life vest and blue uniform photographs floodwaters from a boat, with submerged trees, a partially flooded house, and another rescue boat visible in the background."
 geo:
 id: 3869
 item_type: Still Image

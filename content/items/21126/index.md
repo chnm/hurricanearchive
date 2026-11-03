@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0181-21.JPG
     thumb: /files/thumbnails/14fb2a006c8b2e14fb2a006c8f13.jpg
     url: /files/original/14fb2a006c8b2e14fb2a006c8f13.jpg
+    alt:
+      en: "A camouflage military Humvee drives past a large house with boarded-up windows, shaded by oak trees with fallen leaves and debris scattered on the ground."
 geo:
 id: 21126
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of Copy of DSC 0212.JPG
     thumb: /files/thumbnails/14fb2a0af0e98214fb2a0af0ed5f.jpg
     url: /files/original/14fb2a0af0e98214fb2a0af0ed5f.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with collapsed roofs, scattered debris, and stripped trees stretching toward a distant waterline, illustrating widespread storm damage."
 geo:
 id: 20175
 item_type: Still Image

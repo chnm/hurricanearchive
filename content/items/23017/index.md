@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027OEP.JPG
     thumb: /files/thumbnails/14fb29f20eda5514fb29f20ede38.jpg
     url: /files/original/14fb29f20eda5514fb29f20ede38.jpg
+    alt:
+      en: "Crowded parking lot filled with cars, SUVs, and trailers (one marked \"R2C3V Support\"), with large tan military-style tents and a brick building visible in the background."
 geo:
 id: 23017
 item_type: Still Image

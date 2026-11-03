@@ -21,6 +21,8 @@ files:
     original_filename: 133.jpg
     thumb: /files/thumbnails/14fb2a6075ca0a14fb2a6075cdef.jpg
     url: /files/original/14fb2a6075ca0a14fb2a6075cdef.jpg
+    alt:
+      en: "A child's drawing featuring blue outlined clouds, the text \"Jamiya 6\" in red, a red spiral rose with a green stem, and several pink heart shapes surrounding it."
 geo:
 id: 2711
 item_type: Still Image

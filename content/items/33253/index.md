@@ -23,6 +23,8 @@ files:
     original_filename: 1231252384_b8ba50dafc.jpg
     thumb: /files/thumbnails/14fb29cb23228014fb29cb232630.jpg
     url: /files/original/14fb29cb23228014fb29cb232630.jpg
+    alt:
+      en: "Weathered purple shotgun house with the address \"524\" above a double glass-paneled door, showing a dark horizontal flood stain across its siding and brick steps leading to a side entrance."
 geo:
 id: 33253
 item_type: Still Image

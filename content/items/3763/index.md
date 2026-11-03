@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 043.jpg
     thumb: /files/thumbnails/14fb2a59d0c74814fb2a59d0cb35.jpg
     url: /files/original/14fb2a59d0c74814fb2a59d0cb35.jpg
+    alt:
+      en: "Damaged, leafless trees with broken branches stand amid storm debris, with a concrete step, scattered rubble, and a greenish structure visible in the background under a clear blue sky."
 geo:
 id: 3763
 item_type: Still Image

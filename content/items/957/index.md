@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28722.jpg
     thumb: /files/thumbnails/14fb2a6bcd787814fb2a6bcd7c5e.jpg
     url: /files/original/14fb2a6bcd787814fb2a6bcd7c5e.jpg
+    alt:
+      en: "A woman in a teal shirt and gray pants inspects a leather horse halter outdoors, with parked vehicles and a large building visible in the background."
 geo:
   address: ''
   lat: 0.0

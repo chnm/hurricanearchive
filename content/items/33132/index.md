@@ -20,6 +20,8 @@ files:
     original_filename: 100_5062_e0cf4a0ca4.JPG
     thumb: /files/thumbnails/14fb29cbe392d714fb29cbe396c7.jpg
     url: /files/original/14fb29cbe392d714fb29cbe396c7.jpg
+    alt:
+      en: "Exterior wall corner of a stucco building marked with a spray-painted orange \"X\" search symbol, along with handwritten notes \"9-12,\" \"9.8,\" \"DCFR,\" and \"WA,\" beside a \"Smoking Not Permitted\" sign."
 geo:
   address: 730 East Beach Blvd, Long Beach, MS
   lat: 0.0

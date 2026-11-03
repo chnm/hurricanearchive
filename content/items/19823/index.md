@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d9c3dd514fb2a0d9ce17f.jpg
     url: /files/original/14fb2a0d9c3dd514fb2a0d9ce17f.jpg
+    alt:
+      en: "Group of nine people, mostly in military-style brown shirts and camouflage pants, pose outdoors in front of tan tent structures, with a red ladder visible among them."
 geo:
 id: 19823
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0428.JPG
     thumb: /files/thumbnails/14fb2a5405cfdf14fb2a5405d3c5.jpg
     url: /files/original/14fb2a5405cfdf14fb2a5405d3c5.jpg
+    alt:
+      en: "A white pickup truck parked on a concrete slab amid widespread hurricane debris, with scattered rubble, flattened foundations, and twisted metal stretching toward the horizon under a hazy sky."
 geo:
 id: 5083
 item_type: Still Image

@@ -17,6 +17,8 @@ files:
     original_filename: Bama Tornando.jpg
     thumb: /files/thumbnails/9973ea9c496d088e885b87ea554d3a7e.jpg
     url: /files/original/9973ea9c496d088e885b87ea554d3a7e.jpg
+    alt:
+      en: "Debris from a collapsed structure, including splintered wood, twisted metal, and a large damaged roof section, lies scattered under an overcast sky with bare trees in the background."
 geo:
 id: 45967
 item_type: Still Image

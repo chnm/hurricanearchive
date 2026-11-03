@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (46).JPG
     thumb: /files/thumbnails/14fb2a5d6188e114fb2a5d618cc6.jpg
     url: /files/original/14fb2a5d6188e114fb2a5d618cc6.jpg
+    alt:
+      en: "A large fallen tree and scattered debris, including a partially buried vehicle, cover the yard in front of a two-story house, with another damaged tree in the foreground."
 geo:
 id: 3196
 item_type: Still Image

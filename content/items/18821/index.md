@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a150b1f3e14fb2a150b2318.jpg
     url: /files/original/14fb2a150b1f3e14fb2a150b2318.jpg
+    alt:
+      en: "Aerial view of a devastated neighborhood with rows of house foundations stripped bare, scattered debris, standing floodwater, and only a few structures and trees still standing amid empty lots."
 geo:
 id: 18821
 item_type: Still Image

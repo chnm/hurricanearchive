@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0271downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14331dd314fb2a143321b9.jpg
     url: /files/original/14fb2a14331dd314fb2a143321b9.jpg
+    alt:
+      en: "Aerial view of a rail yard with numerous shipping containers, trailers, and flatbed chassis, including units marked \"CSX\" and \"STAX,\" arranged beside multiple parallel train tracks."
 geo:
 id: 18921
 item_type: Still Image

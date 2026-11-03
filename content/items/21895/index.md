@@ -21,6 +21,8 @@ files:
     original_filename: School at Empire LA.jpgsatellite
     thumb: /files/thumbnails/14fb29fb29e60314fb29fb29e9e9.jpg
     url: /files/original/14fb29fb29e60314fb29fb29e9e9.jpgsatellite
+    alt:
+      en: "Aerial view of a flooded school complex with submerged buildings and sports fields, surrounded by debris-strewn land and stranded boats along the shoreline."
 geo:
 id: 21895
 item_type: Still Image

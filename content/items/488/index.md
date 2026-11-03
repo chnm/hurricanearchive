@@ -26,6 +26,8 @@ files:
     original_filename: Rita1_2203_copy_89eed92c13.jpg
     thumb: /files/thumbnails/14fb2a6fb8e99c14fb2a6fb8ed82.jpg
     url: /files/original/14fb2a6fb8e99c14fb2a6fb8ed82.jpg
+    alt:
+      en: "Black-and-white photo of a stilt house surrounded by floodwater, with a playground slide and swing set partially submerged nearby, under an overcast sky."
 geo:
   address: ''
   lat: 29.4037123110325

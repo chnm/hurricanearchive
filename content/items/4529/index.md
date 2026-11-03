@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0741.JPG
     thumb: /files/thumbnails/14fb2a570e9b0a14fb2a570e9ef0.jpg
     url: /files/original/14fb2a570e9b0a14fb2a570e9ef0.jpg
+    alt:
+      en: "A tan sedan parked on a dirt road near a damaged house on stilts, with scattered debris, a small building, and bare trees under a clear blue sky."
 geo:
 id: 4529
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 1439837542_7a6e520c71.
     thumb: /files/thumbnails/14fb29cbcba6f014fb29cbcbaad5.jpg
     url: /files/original/14fb29cbcba6f014fb29cbcbaad5.jpg
+    alt:
+      en: "A displaced floating dock sits grounded along a tree-lined riverbank, surrounded by murky brown water under a hazy sky."
 geo:
   address: ''
   lat: 29.95916

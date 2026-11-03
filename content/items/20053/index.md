@@ -21,6 +21,8 @@ files:
     original_filename: Picture 150cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b8c5dfb14fb2a0b8c61e1.jpg
     url: /files/original/14fb2a0b8c5dfb14fb2a0b8c61e1.jpg
+    alt:
+      en: "A fallen utility pole leans diagonally across railroad tracks near an industrial building, with shipping containers, a parked car, and overhead power lines visible in the background."
 geo:
 id: 20053
 item_type: Still Image

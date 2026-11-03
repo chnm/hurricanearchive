@@ -23,6 +23,8 @@ files:
     original_filename: 2326893196_ea4f0fe34e.
     thumb: /files/thumbnails/14fb29ca08648014fb29ca08685b.jpg
     url: /files/original/14fb29ca08648014fb29ca08685b.jpg
+    alt:
+      en: "A muddy, water-logged dirt road winds through a wooded area with fallen branches and debris, with a white car parked near the tree line in the background."
 geo:
   address: ''
   lat: 30.23564

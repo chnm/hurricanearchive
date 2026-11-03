@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0293.JPG
     thumb: /files/thumbnails/14fb2a54cdc8b214fb2a54cdcc98.jpg
     url: /files/original/14fb2a54cdc8b214fb2a54cdcc98.jpg
+    alt:
+      en: "Interior of a storm-damaged room with a ceiling fan and light fixture hanging down amid torn insulation, debris, and collapsed materials covering the floor."
 geo:
 id: 4951
 item_type: Still Image

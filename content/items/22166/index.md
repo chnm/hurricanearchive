@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-19-18AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f945a70414fb29f945aaea.jpg
     url: /files/original/14fb29f945a70414fb29f945aaea.jpg
+    alt:
+      en: "Heavy rain obscures a parking lot full of vehicles, with trees, utility poles, and a building faintly visible in the hazy background."
 geo:
 id: 22166
 item_type: Still Image

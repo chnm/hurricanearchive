@@ -21,6 +21,8 @@ files:
     original_filename: MVC-023S.JPG
     thumb: /files/thumbnails/14fb2a5f571d6a14fb2a5f571faa.jpg
     url: /files/original/14fb2a5f571d6a14fb2a5f571faa.jpg
+    alt:
+      en: "Navy aircraft tail section marked \"PP\" and \"146898\" with a star-and-stripe emblem, parked beside a building, showing visible damage to the tail fin and wing."
 geo:
 id: 2968
 item_type: Still Image

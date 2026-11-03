@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1320Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f627ab0614fb29f627b0a5.jpg
     url: /files/original/14fb29f627ab0614fb29f627b0a5.jpg
+    alt:
+      en: "Floodwaters submerge a brick building and surrounding trees, viewed through a rain-streaked window with a utility line crossing the frame; a yellow structure is visible in the distance."
 geo:
 id: 22479
 item_type: Still Image

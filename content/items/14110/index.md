@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0012.JPG
     thumb: /files/thumbnails/14fb2a1bb82bcd14fb2a1bb82fb2.jpg
     url: /files/original/14fb2a1bb82bcd14fb2a1bb82fb2.jpg
+    alt:
+      en: "Dimly lit presentation slide reading \"Law Enforcement Aviation Support\" with a photo of a helicopter, alongside six law enforcement badge or patch emblems displayed in a grid."
 geo:
   address: ''
   lat: 0.0

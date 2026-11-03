@@ -21,6 +21,8 @@ files:
     original_filename: _MG_7123_0ebdde2cd4.JPG
     thumb: /files/thumbnails/14fb29d32f16b014fb29d32f1a92.jpg
     url: /files/original/14fb29d32f16b014fb29d32f1a92.jpg
+    alt:
+      en: "Three young children wearing blue helmets sit on bicycles on a grassy field, with tall trees and a clear sky in the background."
 geo:
   address: ''
   lat: 29.95493

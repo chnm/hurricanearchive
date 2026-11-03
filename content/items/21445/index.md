@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0258-9-25-2.JPG
     thumb: /files/thumbnails/14fb29feb7d90614fb29feb7dce3.jpg
     url: /files/original/14fb29feb7d90614fb29feb7dce3.jpg
+    alt:
+      en: "Flooded roadway lined with trees and utility poles, vehicles partially submerged in standing water, with buildings and a bridge visible along the street."
 geo:
 id: 21445
 item_type: Still Image

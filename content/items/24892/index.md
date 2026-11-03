@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0967superdome.JPG
     thumb: /files/thumbnails/14fb29e40724d314fb29e40728b5.jpg
     url: /files/original/14fb29e40724d314fb29e40728b5.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms load folded cots into the back of a green truck, passing them between each other inside a covered loading area."
 geo:
 id: 24892
 item_type: Still Image

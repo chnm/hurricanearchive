@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0161abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef1c1d8314fb29ef1c2168.jpg
     url: /files/original/14fb29ef1c1d8314fb29ef1c2168.jpg
+    alt:
+      en: "Flooded landscape with trees partially submerged in standing water, surrounded by debris, dried grass, and a concrete slab in the foreground under an overcast sky."
 geo:
 id: 23525
 item_type: Still Image

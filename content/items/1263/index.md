@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28412.jpg
     thumb: /files/thumbnails/14fb2a69fd86ae14fb2a69fde082.jpg
     url: /files/original/14fb2a69fd86ae14fb2a69fde082.jpg
+    alt:
+      en: "A police officer directs traffic along a coastal roadway lined with vehicles, including a black pickup, gray truck, and sedans, with a body of water in the background."
 geo:
   address: ''
   lat: 0.0

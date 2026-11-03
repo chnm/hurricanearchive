@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060cropengineers.jpg
     thumb: /files/thumbnails/14fb2a10653f4a14fb2a10654308.jpg
     url: /files/original/14fb2a10653f4a14fb2a10654308.jpg
+    alt:
+      en: "A man in military camouflage fatigues and a tan hard hat stands wearing work gloves amid debris and construction materials at a cleanup or demolition site."
 geo:
 id: 19413
 item_type: Still Image

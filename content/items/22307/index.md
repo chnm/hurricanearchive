@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1118Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7ba8c2214fb29f7ba929e.jpg
     url: /files/original/14fb29f7ba8c2214fb29f7ba929e.jpg
+    alt:
+      en: "A blurry, dark nighttime photo of a boat partially submerged in floodwater, with people wearing orange life jackets visible among equipment and coiled yellow rope on deck."
 geo:
 id: 22307
 item_type: Still Image

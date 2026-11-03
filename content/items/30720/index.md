@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7417.JPG
     thumb: /files/thumbnails/14fb29ccb06a1914fb29ccb06e01.jpg
     url: /files/original/14fb29ccb06a1914fb29ccb06e01.jpg
+    alt:
+      en: "A white sedan partially buried under fallen tree branches and debris, with damage visible on the hood and side panel, parked in a wooded area."
 geo:
 id: 30720
 item_type: Still Image

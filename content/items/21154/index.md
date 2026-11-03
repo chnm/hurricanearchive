@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0187-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0051c36914fb2a0051c74e.jpg
     url: /files/original/14fb2a0051c36914fb2a0051c74e.jpg
+    alt:
+      en: "Aerial view of a flooded roadway with military trucks and small boats parked along the pavement, surrounded by submerged marshland and downed utility poles."
 geo:
 id: 21154
 item_type: Still Image

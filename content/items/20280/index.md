@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0111-18.JPG
     thumb: /files/thumbnails/14fb2a0a1a31ac14fb2a0a1a34ba.jpg
     url: /files/original/14fb2a0a1a31ac14fb2a0a1a34ba.jpg
+    alt:
+      en: "Devastated neighborhood with collapsed homes, debris, and flooded streets; a person in camouflage walks along a rusted metal barrier near standing water, with damaged trees in the background."
 geo:
 id: 20280
 item_type: Still Image

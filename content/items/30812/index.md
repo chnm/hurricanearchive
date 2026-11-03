@@ -21,6 +21,8 @@ files:
     original_filename: folsom rust & reds 1.JPG
     thumb: /files/thumbnails/14fb29cc5155dc14fb29cc5159b9.jpg
     url: /files/original/14fb29cc5155dc14fb29cc5159b9.jpg
+    alt:
+      en: "Rural roadside view of a storm-damaged barn with partially collapsed roof framing and a smaller leaning outbuilding nearby, surrounded by overgrown grass and trees."
 geo:
 id: 30812
 item_type: Still Image

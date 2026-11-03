@@ -17,6 +17,8 @@ files:
     original_filename: l_42aa98af01204c1bcamp on lakeview dr_f5ce45b569.aad7e4f788a34a6d.jpg
     thumb: /files/thumbnails/14fb29c4ddeaa014fb29c4ddee7f.jpg
     url: /files/original/14fb29c4ddeaa014fb29c4ddee7f.jpg
+    alt:
+      en: "An older man in a striped shirt and jeans sits on a screened porch beside a small table, surrounded by mismatched chairs, buckets, and a cart, with buildings visible through the windows."
 geo:
   address: ''
   lat: 30.29702

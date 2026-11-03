@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7410.JPG
     thumb: /files/thumbnails/14fb29ccc3dc1b14fb29ccc3dfbc.jpg
     url: /files/original/14fb29ccc3dc1b14fb29ccc3dfbc.jpg
+    alt:
+      en: "Long pine tree branches with green needles have fallen onto a dark red vehicle, partially covering its body and windows."
 geo:
 id: 30713
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0008_eb033d313b.jpg
     thumb: /files/thumbnails/14fb29c26cadc314fb29c26cb116.jpg
     url: /files/original/14fb29c26cadc314fb29c26cb116.jpg
+    alt:
+      en: "Black-and-white photo of two ornate, octagonal Victorian-style houses with pagoda-like roofs and wraparound balconies, set behind iron fences with cars parked along the street, 1977."
 geo:
 id: 43086
 item_type: Still Image

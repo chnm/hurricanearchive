@@ -21,6 +21,8 @@ files:
     original_filename: cooling tower end.jpg
     thumb: /files/thumbnails/14fb2a208daf7e14fb2a208db541.jpg
     url: /files/original/14fb2a208daf7e14fb2a208db541.jpg
+    alt:
+      en: "Rooftop cooling tower with louvered vents stands amid storm debris, overlooking a damaged cityscape with scattered rubble, a water tower, and partially destroyed buildings under an overcast sky."
 geo:
 id: 13076
 item_type: Still Image

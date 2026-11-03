@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-11-10A.jpg
     thumb: /files/thumbnails/14fb29e86d9a0014fb29e86d9df0.jpg
     url: /files/original/14fb29e86d9a0014fb29e86d9df0.jpg
+    alt:
+      en: "White two-story house with a gabled roof and porch, damaged roofing material, stands beside a tall metal tower with loose, dangling wires under an overcast sky."
 geo:
 id: 24363
 item_type: Still Image

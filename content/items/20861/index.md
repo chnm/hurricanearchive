@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0135-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a02a9cee614fb2a02a9dcf7.jpg
     url: /files/original/14fb2a02a9cee614fb2a02a9dcf7.jpg
+    alt:
+      en: "A dark green mobile home sits beside floodwater littered with debris, with a small boat grounded nearby and storm-damaged, leafless trees lining the shore under a cloudy sky."
 geo:
 id: 20861
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0246-9-18.JPG
     thumb: /files/thumbnails/14fb2a0a99fa8514fb2a0a9a11d1.jpg
     url: /files/original/14fb2a0a99fa8514fb2a0a9a11d1.jpg
+    alt:
+      en: "A military helicopter with rotating blades sits on a ship's flight deck near open water, with a crew member in a purple flight suit walking nearby and another in a yellow jacket and helmet in the foreground."
 geo:
 id: 20225
 item_type: Still Image

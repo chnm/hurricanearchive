@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0535Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f52ba61e14fb29f52baa05.jpg
     url: /files/original/14fb29f52ba61e14fb29f52baa05.jpg
+    alt:
+      en: "White van parked on a flooded street during heavy rain, with a tree branch lying across its hood and a lamppost visible amid the storm's dense gray haze."
 geo:
 id: 22584
 item_type: Still Image

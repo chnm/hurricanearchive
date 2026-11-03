@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6697_12282da8c9.JPG
     thumb: /files/thumbnails/14fb29d328837d14fb29d3288762.jpg
     url: /files/original/14fb29d328837d14fb29d3288762.jpg
+    alt:
+      en: "Backlit crowd silhouetted against a bright sky at an outdoor event, with flags, a tall light tower, and scaffolding structures visible in the background."
 geo:
   address: ''
   lat: 29.91685

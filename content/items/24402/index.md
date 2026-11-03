@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-23-22A.jpg
     thumb: /files/thumbnails/14fb29e83cb3f214fb29e83cc1fa.jpg
     url: /files/original/14fb29e83cb3f214fb29e83cc1fa.jpg
+    alt:
+      en: "Rain-streaked parking lot with several SUVs and pickup trucks parked amid heavy, blowing rain, a blank white sign on a post, and trees barely visible through the storm haze in the background."
 geo:
 id: 24402
 item_type: Still Image

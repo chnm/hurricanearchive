@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0585Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f504599914fb29f5045d7e.jpg
     url: /files/original/14fb29f504599914fb29f5045d7e.jpg
+    alt:
+      en: "Floodwaters surround a large columned building with a bare flagpole, while two people in a boat wait near a brick wall topped with razor wire and a \"No Trespassing\" sign in the foreground."
 geo:
 id: 22621
 item_type: Still Image

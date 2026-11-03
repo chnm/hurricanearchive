@@ -20,6 +20,8 @@ files:
     original_filename: 1282481704_d498090b87.jpg
     thumb: /files/thumbnails/14fb29cb8d35ce14fb29cb8d39c2.jpg
     url: /files/original/14fb29cb8d35ce14fb29cb8d39c2.jpg
+    alt:
+      en: "A pile of debris, including sheet metal and roofing material, sits on the ground near a wooden utility pole with power lines, trees, and a cloudy sky in the background."
 geo:
 id: 33208
 item_type: Still Image

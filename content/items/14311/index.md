@@ -21,6 +21,8 @@ files:
     original_filename: aerials22.jpg
     thumb: /files/thumbnails/14fb2a19dbd24114fb2a19dbd628.jpg
     url: /files/original/14fb2a19dbd24114fb2a19dbd628.jpg
+    alt:
+      en: "Aerial view of a storm-damaged house with partially collapsed roof and exposed framing, driveway with parked vehicles, surrounded by debris and a second damaged structure in the background."
 geo:
 id: 14311
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010015.JPG
     thumb: /files/thumbnails/14fb29fc4eba3114fb29fc4ebe17.jpg
     url: /files/original/14fb29fc4eba3114fb29fc4ebe17.jpg
+    alt:
+      en: "A forklift vehicle carries a large shrink-wrapped and strapped cargo load on a pallet across a paved airfield or tarmac, with a driver visible in the cab and buildings and trees in the background."
 geo:
 id: 21713
 item_type: Still Image

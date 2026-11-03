@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0365-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fce984bc14fb29fce988a0.jpg
     url: /files/original/14fb29fce984bc14fb29fce988a0.jpg
+    alt:
+      en: "Aerial view of a flooded industrial area with submerged buildings, a railroad track running alongside, scattered vehicles, and a building marked \"SOUTHERN\" partially underwater."
 geo:
 id: 21633
 item_type: Still Image

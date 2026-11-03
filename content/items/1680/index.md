@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27843.jpg
     thumb: /files/thumbnails/14fb2a66e05f5114fb2a66e062cc.jpg
     url: /files/original/14fb2a66e05f5114fb2a66e062cc.jpg
+    alt:
+      en: "A pickup truck loaded with scrap aluminum debris, with one man standing atop the pile and another beside the truck, set against power lines, a flagpole, and buildings in New Orleans."
 geo:
   address: ''
   lat: 0.0

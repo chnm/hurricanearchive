@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (24).JPG
     thumb: /files/thumbnails/14fb2a5d06fb7c14fb2a5d0705af.jpg
     url: /files/original/14fb2a5d06fb7c14fb2a5d0705af.jpg
+    alt:
+      en: "Cracked dried mud covers a yard littered with debris, with a damaged house, chain-link fence, and white porch columns in the background."
 geo:
 id: 3260
 item_type: Still Image

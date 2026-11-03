@@ -21,6 +21,8 @@ files:
     original_filename: S4300235MSriver.JPG
     thumb: /files/thumbnails/14fb2a138dcf7714fb2a138dd427.jpg
     url: /files/original/14fb2a138dcf7714fb2a138dd427.jpg
+    alt:
+      en: "Two blue-and-white patrol-style boats speed across choppy river water, kicking up wakes, with docked barges and a tree-lined shoreline visible under an overcast sky."
 geo:
 id: 19034
 item_type: Still Image

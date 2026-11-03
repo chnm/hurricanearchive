@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0215.JPG
     thumb: /files/thumbnails/14fb29ffa4ae0114fb29ffa4b1df.jpg
     url: /files/original/14fb29ffa4ae0114fb29ffa4b1df.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with debris-covered streets, damaged roofs, scattered rubble, and stripped trees extending toward the horizon under a hazy sky."
 geo:
 id: 21282
 item_type: Still Image

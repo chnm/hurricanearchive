@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p1_08_42810011ce.jpg
     thumb: /files/thumbnails/14fb2a177572f814fb2a1775770f.jpg
     url: /files/original/14fb2a177572f814fb2a1775770f.jpg
+    alt:
+      en: "A faded 1982 color photo at Audubon Zoo shows a woman and two young children watching two flamingos standing at the edge of a dark pond, with wooden walkways and lush greenery in the background."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

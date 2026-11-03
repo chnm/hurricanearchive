@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2039superdome.JPG
     thumb: /files/thumbnails/14fb29df35f75714fb29df36016e.jpg
     url: /files/original/14fb29df35f75714fb29df36016e.jpg
+    alt:
+      en: "Blurry close-up of a person in a camouflage jacket with an arm around another individual, set against an indistinct background."
 geo:
 id: 25312
 item_type: Still Image

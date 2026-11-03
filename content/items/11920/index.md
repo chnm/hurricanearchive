@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 042.jpg
     thumb: /files/thumbnails/14fb2a22b95be814fb2a22b95fcc.jpg
     url: /files/original/14fb2a22b95be814fb2a22b95fcc.jpg
+    alt:
+      en: "A coastal road covered in sand and debris with a damaged palm tree, a pickup truck driving along the wet pavement, and a choppy gray sea under an overcast sky; dated 2005/09/24."
 geo:
 id: 11920
 item_type: Still Image

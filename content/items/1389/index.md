@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27937.jpg
     thumb: /files/thumbnails/14fb2a692606f514fb2a69260ae0.jpg
     url: /files/original/14fb2a692606f514fb2a69260ae0.jpg
+    alt:
+      en: "Street sign reading \"Girod\" mounted on a metal pole, photographed from below against a clear blue sky, with another damaged or bent sign partially visible underneath."
 geo:
   address: ''
   lat: 0.0

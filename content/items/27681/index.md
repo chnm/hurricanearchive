@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6707_937a3b0e4f.JPG
     thumb: /files/thumbnails/14fb29d31c7a5c14fb29d31ca2fc.jpg
     url: /files/original/14fb29d31c7a5c14fb29d31ca2fc.jpg
+    alt:
+      en: "Vintage photograph of a man and woman standing arm-in-arm outside a home, with bare trees and a house visible in the background, the image faded and worn with age."
 geo:
   address: ''
   lat: 30.03106

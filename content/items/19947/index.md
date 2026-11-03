@@ -21,6 +21,8 @@ files:
     original_filename: Picture 044cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c30fa8c14fb2a0c3100e1.jpg
     url: /files/original/14fb2a0c30fa8c14fb2a0c3100e1.jpg
+    alt:
+      en: "Blurry, motion-streaked photo of a brick building with debris and fallen leaves scattered across the grass and walkway; a person in a red shirt and tan shorts stands near the entrance."
 geo:
 id: 19947
 item_type: Still Image

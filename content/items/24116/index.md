@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea849bf014fb29ea849fd2.jpg
     url: /files/original/14fb29ea849bf014fb29ea849fd2.jpg
+    alt:
+      en: "Aerial view of a flooded coastal town with widespread storm damage, including a partially collapsed house, scattered debris, leafless trees, and standing floodwater surrounding buildings and vehicles."
 geo:
 id: 24116
 item_type: Still Image

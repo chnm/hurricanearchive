@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8587.jpg
     thumb: /files/thumbnails/14fb2a65df191c14fb2a65df1d01.jpg
     url: /files/original/14fb2a65df191c14fb2a65df1d01.jpg
+    alt:
+      en: "Storm-wrecked houses with stripped siding and exposed framing stand amid scattered debris and standing water, with a helicopter visible in the sky above."
 geo:
 id: 2497
 item_type: Still Image

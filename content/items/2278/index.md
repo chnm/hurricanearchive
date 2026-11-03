@@ -26,6 +26,8 @@ files:
     original_filename: DSC03366_d488a79c49.JPG
     thumb: /files/thumbnails/14fb2a6d63665914fb2a6d636a3e.jpg
     url: /files/original/14fb2a6d63665914fb2a6d636a3e.jpg
+    alt:
+      en: "Two people ride in the open bed of a black pickup truck on a city street, with a silver SUV and brick buildings in the background, evacuating along Josephine St."
 geo:
   address: ''
   lat: 29.9357092643849

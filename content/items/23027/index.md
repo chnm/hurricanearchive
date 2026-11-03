@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037OEP.JPG
     thumb: /files/thumbnails/14fb29f202889b14fb29f2028abc.jpg
     url: /files/original/14fb29f202889b14fb29f2028abc.jpg
+    alt:
+      en: "Row of RVs and motorhomes, including one labeled \"Cruise America,\" parked on a grassy lot with a tree, light pole, and two uniformed individuals walking nearby under a clear sky."
 geo:
 id: 23027
 item_type: Still Image

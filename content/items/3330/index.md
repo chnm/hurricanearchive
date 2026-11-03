@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (88).jpg
     thumb: /files/thumbnails/14fb2a5c61bbed14fb2a5c61bfda.jpg
     url: /files/original/14fb2a5c61bbed14fb2a5c61bfda.jpg
+    alt:
+      en: "Street flooded with receding water littered with hundreds of dead fish, debris, and storm wreckage along a curb, with damaged houses and downed power lines in the background."
 geo:
 id: 3330
 item_type: Still Image

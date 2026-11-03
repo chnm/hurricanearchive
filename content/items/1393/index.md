@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28413.jpg
     thumb: /files/thumbnails/14fb2a69238a7614fb2a69238e52.jpg
     url: /files/original/14fb2a69238a7614fb2a69238e52.jpg
+    alt:
+      en: "Police officers in uniform direct a line of vehicles on a raised roadway, with an orange traffic cone and cardboard box in the foreground."
 geo:
   address: ''
   lat: 0.0

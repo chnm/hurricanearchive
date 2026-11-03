@@ -21,6 +21,8 @@ files:
     original_filename: Picture 217cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b30a37414fb2a0b30a760.jpg
     url: /files/original/14fb2a0b30a37414fb2a0b30a760.jpg
+    alt:
+      en: "A residential yard strewn with fallen branches and scattered dead leaves, with a basketball hoop, house, and trees with broken limbs visible in the background."
 geo:
 id: 20120
 item_type: Still Image

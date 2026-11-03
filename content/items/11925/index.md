@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 047.jpg
     thumb: /files/thumbnails/14fb2a22b45af014fb2a22b45ecd.jpg
     url: /files/original/14fb2a22b45af014fb2a22b45ecd.jpg
+    alt:
+      en: "Storm debris and damaged pavement line a parking area near a Sears store and an O'Charley's sign, with an orange traffic barrel on the curb; dated 2005/09/24."
 geo:
 id: 11925
 item_type: Still Image

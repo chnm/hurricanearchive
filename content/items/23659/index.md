@@ -21,6 +21,8 @@ files:
     original_filename: P1010100empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee08550a14fb29ee0858f0.jpg
     url: /files/original/14fb29ee08550a14fb29ee0858f0.jpg
+    alt:
+      en: "Empty paved road lined with toppled utility poles, scattered debris, and scorched vegetation, with yellow caution tape marking damaged areas along the shoulder."
 geo:
 id: 23659
 item_type: Still Image

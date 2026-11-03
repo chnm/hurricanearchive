@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1282Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f670f45b14fb29f670f840.jpg
     url: /files/original/14fb29f670f45b14fb29f670f840.jpg
+    alt:
+      en: "Damaged corner of a house's roofline where siding and trim have torn away, exposing twisted metal framework, antenna mast, and bent cables against an overcast sky."
 geo:
 id: 22441
 item_type: Still Image

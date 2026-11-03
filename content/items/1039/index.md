@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28279.jpg
     thumb: /files/thumbnails/14fb2a6b4bee9414fb2a6b4bf279.jpg
     url: /files/original/14fb2a6b4bee9414fb2a6b4bf279.jpg
+    alt:
+      en: "Wooden post spray-painted with \"BYC KEEP AWAY FROM POOL\" lies atop a cracked concrete slab amid storm debris, with skeletal trees and a damaged building in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Our location 20050925.JPG
     thumb: /files/thumbnails/14fb2a1b0b2b8714fb2a1b0b2f6d.jpg
     url: /files/original/14fb2a1b0b2b8714fb2a1b0b2f6d.jpg
+    alt:
+      en: "Tourist map of Cameron and Calcasieu Parishes, Louisiana, highlighting roads, refuges, and Gulf Coast beaches, with a \"You Are Here\" marker pointing to a location near Sabine Lake."
 geo:
   address: ''
   lat: 0.0

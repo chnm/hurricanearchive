@@ -23,6 +23,8 @@ files:
     original_filename: 2326075203_809373682a.
     thumb: /files/thumbnails/14fb29c9f3d99314fb29c9f3dd5e.jpg
     url: /files/original/14fb29c9f3d99314fb29c9f3dd5e.jpg
+    alt:
+      en: "Downed utility poles and tangled power lines lean across a grassy roadside in front of damaged houses, with vehicles passing on the adjacent street under a partly cloudy sky."
 geo:
   address: ''
   lat: 30.22586

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28301.jpg
     thumb: /files/thumbnails/14fb2a6888c4a714fb2a6888c88e.jpg
     url: /files/original/14fb2a6888c4a714fb2a6888c88e.jpg
+    alt:
+      en: "Damaged wooden structure of the Ohr-O'Keefe Museum stands exposed with its frame and glass panels visible, surrounded by debris-strewn ground and bare trees in the foreground."
 geo:
   address: ''
   lat: 0.0

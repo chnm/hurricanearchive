@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28082.jpg
     thumb: /files/thumbnails/14fb2a6b1663f014fb2a6b1667d6.jpg
     url: /files/original/14fb2a6b1663f014fb2a6b1667d6.jpg
+    alt:
+      en: "A weathered orange \"EXIT\" sign with an arrow and checkered stripe stands on a post amid dry shrubs, with a fallen tree, a paved road, and high-rise buildings in the background."
 geo:
   address: ''
   lat: 0.0

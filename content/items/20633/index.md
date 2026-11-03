@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046H.JPG
     thumb: /files/thumbnails/14fb2a058abd7014fb2a058ac52c.jpg
     url: /files/original/14fb2a058abd7014fb2a058ac52c.jpg
+    alt:
+      en: "A soldier in camouflage uniform poses smiling between two women in matching white tank tops and orange shorts, while another woman in the foreground photographs the scene with a cell phone, in a dimly lit tent setting."
 geo:
 id: 20633
 item_type: Still Image

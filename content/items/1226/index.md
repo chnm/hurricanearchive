@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28180.jpg
     thumb: /files/thumbnails/14fb2a6a430c1014fb2a6a431284.jpg
     url: /files/original/14fb2a6a430c1014fb2a6a431284.jpg
+    alt:
+      en: "Bare, storm-damaged trees stand amid scattered debris and rubble, with only the support columns remaining of a destroyed building in the background."
 geo:
   address: ''
   lat: 0.0

@@ -23,6 +23,8 @@ files:
     original_filename: 2326889826_f2cd20c6fc.
     thumb: /files/thumbnails/14fb29c9fa64f814fb29c9fa68dd.jpg
     url: /files/original/14fb29c9fa64f814fb29c9fa68dd.jpg
+    alt:
+      en: "Close-up of a dark SUV door decorated with a South Carolina Task Force 1 Urban Search & Rescue emblem and a yellow stripe reading \"URBAN SEARCH & RESCUE.\""
 geo:
   address: ''
   lat: 30.22586

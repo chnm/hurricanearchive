@@ -21,6 +21,8 @@ files:
     original_filename: 129.jpg
     thumb: /files/thumbnails/14fb2a6078757014fb2a60787956.jpg
     url: /files/original/14fb2a6078757014fb2a60787956.jpg
+    alt:
+      en: "Child's crayon drawing signed \"Michael,\" depicting a blue house, a green apple tree, a butterfly, a yellow sun, and grass, under a mostly blank white sky."
 geo:
 id: 2706
 item_type: Still Image

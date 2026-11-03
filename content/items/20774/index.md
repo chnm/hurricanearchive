@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0075H.JPG
     thumb: /files/thumbnails/14fb2a03d72e5e14fb2a03d77047.jpg
     url: /files/original/14fb2a03d72e5e14fb2a03d77047.jpg
+    alt:
+      en: "Group of people playing foosball indoors at night, with two women in orange \"Hooters\" uniforms and men in casual and military clothing gathered around the table, drinks nearby."
 geo:
 id: 20774
 item_type: Still Image

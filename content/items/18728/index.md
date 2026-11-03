@@ -21,6 +21,8 @@ files:
     original_filename: S4300094alero.JPG
     thumb: /files/thumbnails/14fb2a1557bb2514fb2a1557bf0b.jpg
     url: /files/original/14fb2a1557bb2514fb2a1557bf0b.jpg
+    alt:
+      en: "Four soldiers in camouflage uniforms gather around a table with a Dell laptop, coolers, and supplies in a tiled room, with an American flag standing in the background."
 geo:
 id: 18728
 item_type: Still Image

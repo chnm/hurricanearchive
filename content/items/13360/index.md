@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4862_8069a9596f.jpg
     thumb: /files/thumbnails/14fb2a1e35ff3f14fb2a1e36031e.jpg
     url: /files/original/14fb2a1e35ff3f14fb2a1e36031e.jpg
+    alt:
+      en: "Yearbook page for Joseph J. Davies Elementary School featuring a pelican mascot logo, school colors (Hunter Green and Khaki), a staff group photo, and an exterior building photo with the motto \"The Way School Should Be.\""
 geo:
 id: 13360
 item_type: Still Image

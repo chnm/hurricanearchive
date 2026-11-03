@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0198-2-9-26.JPG
     thumb: /files/thumbnails/14fb29fffb151614fb29fffb19d8.jpg
     url: /files/original/14fb29fffb151614fb29fffb19d8.jpg
+    alt:
+      en: "Group of people sitting and standing in a yard outside a house, with laundry hanging on a clothesline and a window fan visible, a car's hood and mirror in the foreground."
 geo:
 id: 21210
 item_type: Still Image

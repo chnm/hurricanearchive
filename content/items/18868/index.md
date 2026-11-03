@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0084grandisle.JPG
     thumb: /files/thumbnails/14fb2a14ce9e3914fb2a14cea1e4.jpg
     url: /files/original/14fb2a14ce9e3914fb2a14cea1e4.jpg
+    alt:
+      en: "Aerial view from a helicopter showing a storm-damaged coastal landscape with debris scattered among shrubs, a paved road with military vehicles, and a wide waterway bordered by marshland."
 geo:
 id: 18868
 item_type: Still Image

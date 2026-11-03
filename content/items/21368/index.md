@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0238-21.JPG
     thumb: /files/thumbnails/14fb29ff2bd7c914fb29ff2bdbb1.jpg
     url: /files/original/14fb29ff2bd7c914fb29ff2bdbb1.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with a large brick institutional complex featuring blue tarp-covered roofs, surrounded by houses, parked military vehicles, buses, and a parking lot."
 geo:
 id: 21368
 item_type: Still Image

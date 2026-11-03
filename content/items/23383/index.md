@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0079cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efbdcdd114fb29efbded19.jpg
     url: /files/original/14fb29efbdcdd114fb29efbded19.jpg
+    alt:
+      en: "Aerial view of a marshy, tree-covered island surrounded by murky water, with patches of snow or ice and what appears to be a partially submerged structure along the shoreline."
 geo:
 id: 23383
 item_type: Still Image

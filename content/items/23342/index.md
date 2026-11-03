@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0056cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efe21b9514fb29efe21f7d.jpg
     url: /files/original/14fb29efe21b9514fb29efe21f7d.jpg
+    alt:
+      en: "Large tan military cargo truck driving through standing floodwater, with its reflection visible on the water's surface and a driver seen through the windshield."
 geo:
 id: 23342
 item_type: Still Image

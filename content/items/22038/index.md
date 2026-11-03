@@ -21,6 +21,8 @@ files:
     original_filename: Picture 369-J2.jpg
     thumb: /files/thumbnails/14fb29f9f09c2c14fb29f9f0a00f.jpg
     url: /files/original/14fb29f9f09c2c14fb29f9f0a00f.jpg
+    alt:
+      en: "A man sits smiling in the cab of a military-style truck with an open yellow door, large side mirrors, and round headlights visible on the green vehicle body."
 geo:
 id: 22038
 item_type: Still Image

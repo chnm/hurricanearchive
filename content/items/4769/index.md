@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0468.JPG
     thumb: /files/thumbnails/14fb2a55ad36a614fb2a55ad3f6c.jpg
     url: /files/original/14fb2a55ad36a614fb2a55ad3f6c.jpg
+    alt:
+      en: "A rusted metal beam and a measuring tape stand amid broken brick and concrete debris, with a damaged brick wall in the background."
 geo:
 id: 4769
 item_type: Still Image

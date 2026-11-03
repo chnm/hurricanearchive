@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0107.JPG
     thumb: /files/thumbnails/14fb2a5585001614fb2a55850332.jpg
     url: /files/original/14fb2a5585001614fb2a55850332.jpg
+    alt:
+      en: "A storm-damaged building with a collapsed window frame and broken siding, partially obscured by a large pile of dead branches and debris in the foreground."
 geo:
 id: 4795
 item_type: Still Image

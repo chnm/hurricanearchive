@@ -17,6 +17,8 @@ files:
     original_filename: cbk.jpg
     thumb: /files/thumbnails/efc60aeb24f5a29f29de6b0230b1344d.jpg
     url: /files/original/efc60aeb24f5a29f29de6b0230b1344d.jpg
+    alt:
+      en: "A two-story house with a newly rebuilt front section in reddish-orange siding and white trim, flanked by a palm tree and neighboring buildings, with debris piled near the street."
 geo:
   address: ''
   lat: 0.0

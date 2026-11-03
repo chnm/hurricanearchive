@@ -21,6 +21,8 @@ files:
     original_filename: Lunch at NAS NO (Belle Chasse)NASneworleans.jpg
     thumb: /files/thumbnails/14fb29f247a71a14fb29f247ab17.jpg
     url: /files/original/14fb29f247a71a14fb29f247ab17.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms sit at tables eating MRE rations inside a hangar, with a blue boom lift, utility vehicles, and trucks visible in the background."
 geo:
 id: 22986
 item_type: Still Image

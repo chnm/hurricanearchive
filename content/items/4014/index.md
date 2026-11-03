@@ -21,6 +21,8 @@ files:
     original_filename: DSC01121.JPG
     thumb: /files/thumbnails/14fb2a5885863d14fb2a58858a23.jpg
     url: /files/original/14fb2a5885863d14fb2a58858a23.jpg
+    alt:
+      en: "A group of U.S. Coast Guard personnel in orange life vests push a cart down a flooded roadway toward a small boat at the water's edge, with submerged trees visible across the floodwaters."
 geo:
 id: 4014
 item_type: Still Image

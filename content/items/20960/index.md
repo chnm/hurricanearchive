@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0157-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a01514f2d14fb2a01515316.jpg
     url: /files/original/14fb2a01514f2d14fb2a01515316.jpg
+    alt:
+      en: "Aerial view of a median-divided roadway lined with damaged buildings, scattered palm trees, and vehicles parked at odd angles on both sides of the street."
 geo:
 id: 20960
 item_type: Still Image

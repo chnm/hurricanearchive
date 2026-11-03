@@ -23,6 +23,8 @@ files:
     original_filename: Hurricane Katrina Pic_cf91410bcf.jpg
     thumb: /files/thumbnails/14fb29c278a90d14fb29c278acf2.jpg
     url: /files/original/14fb29c278a90d14fb29c278acf2.jpg
+    alt:
+      en: "Hand-painted plywood signs on a New Orleans storefront with defiant, humorous messages about staying through Katrina, guarding the home with \"two shotguns and a claw hammer,\" cooking \"dog gumbo,\" and a dated note (9/4/05) addressed to Carnival krewes."
 geo:
   address: ''
   lat: 29.84064

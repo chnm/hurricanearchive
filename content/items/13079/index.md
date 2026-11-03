@@ -21,6 +21,8 @@ files:
     original_filename: courtyard end debris.jpg
     thumb: /files/thumbnails/14fb2a208bd6f814fb2a208bdad3.jpg
     url: /files/original/14fb2a208bd6f814fb2a208bdad3.jpg
+    alt:
+      en: "Aerial view of a mud-covered courtyard littered with scattered debris, overturned trash bins, and torn materials, with a white van parked near a brick building."
 geo:
 id: 13079
 item_type: Still Image

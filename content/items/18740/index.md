@@ -21,6 +21,8 @@ files:
     original_filename: S4300209alero.JPG
     thumb: /files/thumbnails/14fb2a154a486114fb2a154a4c45.jpg
     url: /files/original/14fb2a154a486114fb2a154a4c45.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms and orange safety vests distribute boxed MRE meal rations from a staging area with vehicles and canopy tents in the background, trees lining the horizon."
 geo:
 id: 18740
 item_type: Still Image

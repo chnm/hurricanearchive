@@ -21,6 +21,8 @@ files:
     original_filename: MVC-004S.JPG
     thumb: /files/thumbnails/14fb2a5f7c495714fb2a5f7c4d3c.jpg
     url: /files/original/14fb2a5f7c495714fb2a5f7c4d3c.jpg
+    alt:
+      en: "Damaged metal building labeled \"Aircraft Pavilion,\" with torn and buckled siding, exposed framing, and debris near the entrance archways."
 geo:
 id: 2949
 item_type: Still Image

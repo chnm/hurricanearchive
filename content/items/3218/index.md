@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (66).JPG
     thumb: /files/thumbnails/14fb2a5d3afd2514fb2a5d3b0106.jpg
     url: /files/original/14fb2a5d3afd2514fb2a5d3b0106.jpg
+    alt:
+      en: "Interior of a dark, cluttered storage space with discarded furniture, a bed frame, and appliances piled up, with a van visible through an open garage door in the background."
 geo:
 id: 3218
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-20-19AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f945129b14fb29f9451681.jpg
     url: /files/original/14fb29f945129b14fb29f9451681.jpg
+    alt:
+      en: "Vehicles parked in a lot amid heavy rain and fog, with power lines, a tree, and low buildings barely visible in the hazy background."
 geo:
 id: 22167
 item_type: Still Image

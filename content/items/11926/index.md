@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 048.jpg
     thumb: /files/thumbnails/14fb2a22b3ce5614fb2a22b3d235.jpg
     url: /files/original/14fb2a22b3ce5614fb2a22b3d235.jpg
+    alt:
+      en: "Storm-damaged storefront with broken glass entrances and orange debris netting sits behind a large bare tree, with an eroded grassy median and cracked sidewalk in the foreground; dated 2005/09/24."
 geo:
 id: 11926
 item_type: Still Image

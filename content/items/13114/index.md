@@ -21,6 +21,8 @@ files:
     original_filename: garage wind.jpg
     thumb: /files/thumbnails/14fb2a2056730514fb2a205676e2.jpg
     url: /files/original/14fb2a2056730514fb2a205676e2.jpg
+    alt:
+      en: "Rain-lashed view from under a covered parking structure, with wind-driven sheets of water obscuring an adjacent multi-level garage and railing in the distance."
 geo:
 id: 13114
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: TommyCooke-6271_9f9424ad65.jpg
     thumb: /files/thumbnails/14fb29dd94f0af14fb29dd94f49e.jpg
     url: /files/original/14fb29dd94f0af14fb29dd94f49e.jpg
+    alt:
+      en: "Water-damaged wedding portrait in an ornate frame, showing a bride and groom in white attire, with extensive mold and discoloration obscuring much of the photo's surface."
 geo:
 id: 25480
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0234downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14abffe114fb2a14ac03c6.jpg
     url: /files/original/14fb2a14abffe114fb2a14ac03c6.jpg
+    alt:
+      en: "Aerial view of a river city with a large steel truss bridge spanning the water, barges and boats on the river, a riverside park with tents, and dense urban rooftops in the foreground under hazy sky."
 geo:
 id: 18884
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (9).JPG
     thumb: /files/thumbnails/14fb2a5dd15f1c14fb2a5dd16302.jpg
     url: /files/original/14fb2a5dd15f1c14fb2a5dd16302.jpg
+    alt:
+      en: "View from inside a vehicle down a quiet residential street lined with tall trees, showing storm debris piled along the roadside and a speed limit sign near the curb."
 geo:
 id: 3123
 item_type: Still Image

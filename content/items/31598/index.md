@@ -21,6 +21,8 @@ files:
     original_filename: 051207NOLA202RWlg_c98b42bc64.jpg
     thumb: /files/thumbnails/14fb29cc191d7d14fb29cc192160.jpg
     url: /files/original/14fb29cc191d7d14fb29cc192160.jpg
+    alt:
+      en: "Black-and-white photo of a man in a hat and sunglasses raising his arm during a jazz funeral procession, with musicians playing clarinets and saxophones behind him and city skyscrapers in the background."
 geo:
 id: 31598
 item_type: Still Image

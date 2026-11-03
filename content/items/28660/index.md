@@ -23,6 +23,8 @@ files:
     original_filename: 158169332_2cf4ee9689.jpg
     thumb: /files/thumbnails/14fb29d1e3c26a14fb29d1e3c64f.jpg
     url: /files/original/14fb29d1e3c26a14fb29d1e3c64f.jpg
+    alt:
+      en: "Massive debris field of splintered wood, cinder blocks, and household items piled across a cleared lot, with damaged houses and trees visible in the background."
 geo:
 id: 28660
 item_type: Still Image

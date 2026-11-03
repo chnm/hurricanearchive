@@ -21,6 +21,8 @@ files:
     original_filename: BC prepares tp meet with.JPG
     thumb: /files/thumbnails/14fb2a1bdd55fd14fb2a1bdd59e3.jpg
     url: /files/original/14fb2a1bdd55fd14fb2a1bdd59e3.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms stand among red utility trucks and military vehicles lined along a road, with downed tree branches and debris scattered on the grass nearby."
 geo:
   address: ''
   lat: 0.0

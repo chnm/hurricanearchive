@@ -21,6 +21,8 @@ files:
     original_filename: 09140028.JPG
     thumb: /files/thumbnails/14fb29e96dbcfa14fb29e96dc1d2.jpg
     url: /files/original/14fb29e96dbcfa14fb29e96dc1d2.jpg
+    alt:
+      en: "A single-story brick house with a gray shingled roof sits behind a low brick wall, flanked by two rounded green trees, with a dirt lot in the foreground and utility poles in the background."
 geo:
 id: 24247
 item_type: Still Image

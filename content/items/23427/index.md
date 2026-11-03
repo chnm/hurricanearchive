@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0098cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef7d0de714fb29ef7d11cd.jpg
     url: /files/original/14fb29ef7d0de714fb29ef7d11cd.jpg
+    alt:
+      en: "Close-up of a military helicopter crew member wearing a helmet with microphone and dark visor, patches visible on uniform, with helicopter rotor blade and sky in background."
 geo:
 id: 23427
 item_type: Still Image

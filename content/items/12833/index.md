@@ -21,6 +21,8 @@ files:
     original_filename: 3731 Magazine.Help me find my cat.jpg
     thumb: /files/thumbnails/14fb2a21a280e814fb2a21a284cf.jpg
     url: /files/original/14fb2a21a280e814fb2a21a284cf.jpg
+    alt:
+      en: "Storefront with a striped awning, its windows covered in handwritten signs reading \"HELP ME FIND MY CAT\" and messages about animal rescue, with a dark shape near the entrance."
 geo:
 id: 12833
 item_type: Still Image

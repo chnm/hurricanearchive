@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1411superdome.JPG
     thumb: /files/thumbnails/14fb29e3e4d8b814fb29e3e4dc95.jpg
     url: /files/original/14fb29e3e4d8b814fb29e3e4dc95.jpg
+    alt:
+      en: "Nighttime scene outside a building with \"SMG\" signage, where uniformed military personnel stand near a crowd of people, including some in yellow rain ponchos gathered behind a metal barricade."
 geo:
 id: 24916
 item_type: Still Image

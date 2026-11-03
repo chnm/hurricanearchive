@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2176superdome.JPG
     thumb: /files/thumbnails/14fb29e477b2a314fb29e477b784.jpg
     url: /files/original/14fb29e477b2a314fb29e477b784.jpg
+    alt:
+      en: "Dimly lit interior space with green park benches, scattered water bottles and litter on the floor, a group of people standing and waiting, one man wearing a shirt reading \"HELP!\", and a uniformed soldier standing nearby."
 geo:
 id: 24836
 item_type: Still Image

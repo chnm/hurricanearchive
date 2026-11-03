@@ -21,6 +21,8 @@ files:
     original_filename: Picture 020neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ed100c4f14fb29ed101034.jpg
     url: /files/original/14fb29ed100c4f14fb29ed101034.jpg
+    alt:
+      en: "Three uniformed service members in camouflage and desert fatigues help an elderly woman down porch steps outside a damaged house, one carrying a plastic bag for her."
 geo:
 id: 23789
 item_type: Still Image

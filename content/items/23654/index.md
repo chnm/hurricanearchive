@@ -21,6 +21,8 @@ files:
     original_filename: P1010095empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee104a0a14fb29ee104df0.jpg
     url: /files/original/14fb29ee104a0a14fb29ee104df0.jpg
+    alt:
+      en: "Man wearing sunglasses drives a large vehicle, hand on the steering wheel, passing a gray GMC 2500 HD pickup truck amid trees and debris in the background."
 geo:
 id: 23654
 item_type: Still Image

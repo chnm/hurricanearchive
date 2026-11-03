@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_OVER_THE_SUPER_05CDV_4d806cca78.jpg
     thumb: /files/thumbnails/14fb2a665c3e8b14fb2a665c426f.jpg
     url: /files/original/14fb2a665c3e8b14fb2a665c426f.jpg
+    alt:
+      en: "A man in a dark blue Coast Guard uniform wears a headset and looks out an aircraft window, holding a handheld radio, with an aerial view of a damaged urban landscape visible below."
 geo:
 id: 2430
 item_type: Still Image

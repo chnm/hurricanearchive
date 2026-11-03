@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0135-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a02a248a114fb2a02a24c86.jpg
     url: /files/original/14fb2a02a248a114fb2a02a24c86.jpg
+    alt:
+      en: "Aerial view of a flooded school campus and football stadium surrounded by storm-damaged trees and widespread standing floodwater extending to the horizon."
 geo:
 id: 20863
 item_type: Still Image

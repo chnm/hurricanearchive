@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (11).jpg
     thumb: /files/thumbnails/14fb2a5d12d20014fb2a5d12d5de.jpg
     url: /files/original/14fb2a5d12d20014fb2a5d12d5de.jpg
+    alt:
+      en: "Collapsed and debris-strewn homes line a canal with a blue drawbridge in the background, under a clear sky, with a maroon vehicle parked at lower left."
 geo:
 id: 3246
 item_type: Still Image

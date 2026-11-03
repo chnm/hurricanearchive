@@ -21,6 +21,8 @@ files:
     original_filename: CampusTechFee04 (11)-5_0e991b4324.jpg
     thumb: /files/thumbnails/14fb2a1720218214fb2a17202561.jpg
     url: /files/original/14fb2a1720218214fb2a17202561.jpg
+    alt:
+      en: "A young woman in a lab setting uses a pipette while holding a small glass vial, with a beaker and other lab supplies visible on the counter beside her."
 geo:
 id: 15102
 item_type: Still Image

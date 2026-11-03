@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0432.JPG
     thumb: /files/thumbnails/14fb2a53f7875814fb2a53f78b79.jpg
     url: /files/original/14fb2a53f7875814fb2a53f78b79.jpg
+    alt:
+      en: "Debris pile on sand featuring a rusted metal beam, broken brick-patterned siding panel, chunks of concrete, insulation, and scattered wreckage from a destroyed structure."
 geo:
 id: 5087
 item_type: Still Image

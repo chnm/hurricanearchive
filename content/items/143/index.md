@@ -26,6 +26,8 @@ files:
     original_filename: 180pxStructural_Bridge_Damage_b36091c1ae.jpg
     thumb: /files/thumbnails/14fb2a70dd8efd14fb2a70dd92e3.jpg
     url: /files/original/14fb2a70dd8efd14fb2a70dd92e3.jpg
+    alt:
+      en: "Aerial view of a long bridge spanning a bay, with multiple sections collapsed or missing, leaving gaps in the roadway above the water, coastline and buildings visible along the shore."
 geo:
   address: ''
   lat: 30.145127183376097

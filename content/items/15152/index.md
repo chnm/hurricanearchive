@@ -21,6 +21,8 @@ files:
     original_filename: Easter60s_769e3e0713.jpg
     thumb: /files/thumbnails/14fb2a16e67af514fb2a16e67ed6.jpg
     url: /files/original/14fb2a16e67af514fb2a16e67ed6.jpg
+    alt:
+      en: "A convertible car with two women in elaborate Easter hats and a driver in sunglasses moves down Canal St., passing storefronts including Lerner Shops, Sutton's, and Rubenstein's."
 geo:
   address: ''
   lat: 37.77123

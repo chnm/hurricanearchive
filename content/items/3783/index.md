@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 063.jpg
     thumb: /files/thumbnails/14fb2a59a3309214fb2a59a336bb.jpg
     url: /files/original/14fb2a59a3309214fb2a59a336bb.jpg
+    alt:
+      en: "Debris field with scattered rubble, a collapsed structure, and bare trees under a clear sky; a white water tower stands at right beside a dirt road."
 geo:
 id: 3783
 item_type: Still Image

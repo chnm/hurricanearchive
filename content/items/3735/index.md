@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 015.jpg
     thumb: /files/thumbnails/14fb2a59f112fc14fb2a59f116df.jpg
     url: /files/original/14fb2a59f112fc14fb2a59f116df.jpg
+    alt:
+      en: "Damaged two-story house with light blue siding, missing roof shingles, and a broken window; \"NO TRESPASSING\" spray-painted in red on the wall, with debris scattered on the ground below."
 geo:
 id: 3735
 item_type: Still Image

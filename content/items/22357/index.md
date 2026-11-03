@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1173Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f70a92f414fb29f70a96da.jpg
     url: /files/original/14fb29f70a92f414fb29f70a96da.jpg
+    alt:
+      en: "Heavy rain and floodwaters surround a brick entrance with pillars, an iron fence, and a lamppost, with a brick building visible behind an arched gateway in the storm's gray haze."
 geo:
 id: 22357
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 1972chalmettebasket ball_ea52ae69a5.jpg
     thumb: /files/thumbnails/14fb29d79d9eec14fb29d79da217.jpg
     url: /files/original/14fb29d79d9eec14fb29d79da217.jpg
+    alt:
+      en: "Three black-and-white photos of Chalmette High School basketball players in defensive stances (numbers 32 and 42) and a crowd scene with player number 40, accompanied by printed captions identifying team members."
 geo:
 id: 26820
 item_type: Still Image

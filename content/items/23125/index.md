@@ -21,6 +21,8 @@ files:
     original_filename: 09110002delaware.JPG
     thumb: /files/thumbnails/14fb29f17639df14fb29f1763d93.jpg
     url: /files/original/14fb29f17639df14fb29f1763d93.jpg
+    alt:
+      en: "Three military cargo planes line a tarmac with support vehicles nearby, framed by distant trees under a clear sky, with an orange curb and drainage grate in the foreground."
 geo:
 id: 23125
 item_type: Still Image

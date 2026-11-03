@@ -23,6 +23,8 @@ files:
     original_filename: 1438868268_0a7adee28b.
     thumb: /files/thumbnails/14fb29cbad6a5014fb29cbad6e32.jpg
     url: /files/original/14fb29cbad6a5014fb29cbad6e32.jpg
+    alt:
+      en: "Rusted hull of the \"S.S. Hurricane Camille\" shrimp boat sits grounded in a grassy field beside a roadway, with a car side mirror visible in the foreground and a billboard in the background."
 geo:
 id: 33193
 item_type: Still Image

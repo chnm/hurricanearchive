@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28061.jpg
     thumb: /files/thumbnails/14fb2a6c90becd14fb2a6c90c2b2.jpg
     url: /files/original/14fb2a6c90becd14fb2a6c90c2b2.jpg
+    alt:
+      en: "A man in a khaki uniform and brown cap bends over to examine a mud-covered toy castle on a green mat, surrounded by debris and large concrete pipes in a storm-damaged lot."
 geo:
   address: ''
   lat: 0.0

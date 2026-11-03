@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2182_d6de491255.JPG
     thumb: /files/thumbnails/14fb2a70d5a83e14fb2a70d5ac21.jpg
     url: /files/original/14fb2a70d5a83e14fb2a70d5ac21.jpg
+    alt:
+      en: "Damaged storefront of a former Shell gas station with shattered windows, broken glass debris on the ground, and a visible address sign reading \"1546 Robert E. Lee\" above the entrance."
 geo:
   address: ''
   lat: 30.030902

@@ -21,6 +21,8 @@ files:
     original_filename: aerials108.jpg
     thumb: /files/thumbnails/14fb2a1a590f9014fb2a1a591381.jpg
     url: /files/original/14fb2a1a590f9014fb2a1a591381.jpg
+    alt:
+      en: "Aerial view of a long pier or dock structure extending into a body of water, surrounded by sparse trees, open green fields, and scattered debris, with buildings visible in the background."
 geo:
 id: 14266
 item_type: Still Image

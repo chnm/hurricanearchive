@@ -25,12 +25,16 @@ files:
     original_filename: GoodShepherd_JohanLowe_07_ba099bce6b.jpg
     thumb: /files/thumbnails/14fb2a163a1c4f14fb2a163a203d.jpg
     url: /files/original/14fb2a163a1c4f14fb2a163a203d.jpg
+    alt:
+      en: "Three children sit together on a black leather couch: a teenage boy in a red shirt with arms stretched along the back cushions, a toddler girl in a denim dress, and a young boy in a red \"U.S. Polo Assn.\" shirt."
   - fullsize: /files/fullsize/14fb2a1638380614fb2a16383bea.jpg
     id: 12454
     mime: image/jpeg
     original_filename: GoodShepherd_JohanLowe_09_c4700557b6.jpg
     thumb: /files/thumbnails/14fb2a1638380614fb2a16383bea.jpg
     url: /files/original/14fb2a1638380614fb2a16383bea.jpg
+    alt:
+      en: "Three siblings sit together on a black leather couch: an older boy in a black shirt smiles behind a younger boy in a navy and red shirt, while a baby girl in a pale green outfit with pink bow hair clips sits between them."
 geo:
 id: 15466
 item_type: Still Image

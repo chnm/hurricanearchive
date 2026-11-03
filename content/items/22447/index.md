@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1288Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f669a76514fb29f669ab4b.jpg
     url: /files/original/14fb29f669a76514fb29f669ab4b.jpg
+    alt:
+      en: "Floodwaters submerge a residential street, covering yards and partially swallowing a blue house, with utility poles and tree branches rising above the murky water."
 geo:
 id: 22447
 item_type: Still Image

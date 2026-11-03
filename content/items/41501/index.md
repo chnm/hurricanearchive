@@ -20,6 +20,8 @@ files:
     original_filename: Katrina332_78390af619.jpg
     thumb: /files/thumbnails/14fb29c3ed275714fb29c3ed2b3c.jpg
     url: /files/original/14fb29c3ed275714fb29c3ed2b3c.jpg
+    alt:
+      en: "Construction crew with a crane working along a breached section of the 17th Street Canal wall, with gravel piles, a water-filled canal, and a distant high-rise building under a clear sky."
 geo:
   address: ''
   lat: 29.71923

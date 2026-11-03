@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-10-8A.jpg
     thumb: /files/thumbnails/14fb29e8c0a9dd14fb29e8c0b692.jpg
     url: /files/original/14fb29e8c0a9dd14fb29e8c0b692.jpg
+    alt:
+      en: "Aerial view of a flooded commercial and residential area with submerged streets, warehouses, and parking lots surrounded by floodwater, a river visible in the background."
 geo:
 id: 24317
 item_type: Still Image

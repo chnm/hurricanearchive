@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0954superdome.JPG
     thumb: /files/thumbnails/14fb29e41c737014fb29e41c77dd.jpg
     url: /files/original/14fb29e41c737014fb29e41c77dd.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms, wearing badges and patrol caps, talk with a civilian man under a covered walkway, while a line of people with luggage waits nearby."
 geo:
 id: 24880
 item_type: Still Image

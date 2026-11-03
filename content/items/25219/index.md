@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1918superdome.JPG
     thumb: /files/thumbnails/14fb29e0c4f65214fb29e0c4fa42.jpg
     url: /files/original/14fb29e0c4f65214fb29e0c4fa42.jpg
+    alt:
+      en: "Military helicopter marked \"20\" parked on pavement with crew visible inside, while two camouflaged soldiers with gear and a rifle crouch in the foreground parking lot."
 geo:
 id: 25219
 item_type: Still Image

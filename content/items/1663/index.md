@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28711.jpg
     thumb: /files/thumbnails/14fb2a6731f52514fb2a6731fc57.jpg
     url: /files/original/14fb2a6731f52514fb2a6731fc57.jpg
+    alt:
+      en: "A man in a cap and purple T-shirt holds a lead rope attached to a chestnut horse standing in a metal-paneled stall at an animal rescue facility."
 geo:
   address: ''
   lat: 0.0

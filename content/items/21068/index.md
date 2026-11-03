@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2182.JPG
     thumb: /files/thumbnails/14fb2a00b66b4614fb2a00b66efb.jpg
     url: /files/original/14fb2a00b66b4614fb2a00b66efb.jpg
+    alt:
+      en: "Interior view of a military helicopter cockpit with illuminated green instrument panels, two uniformed crew members in silhouette, and a runway with another helicopter visible through the windshield."
 geo:
 id: 21068
 item_type: Still Image

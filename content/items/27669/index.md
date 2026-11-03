@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7119_60c159d7b4.JPG
     thumb: /files/thumbnails/14fb29d332d5c314fb29d332d9a9.jpg
     url: /files/original/14fb29d332d5c314fb29d332d9a9.jpg
+    alt:
+      en: "A young woman with red hair smiles on a wooden dock, wearing a white t-shirt, with a red life vest hanging on a piling and waterfront buildings visible behind her."
 geo:
   address: ''
   lat: 29.91685

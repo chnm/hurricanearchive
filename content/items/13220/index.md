@@ -21,6 +21,8 @@ files:
     original_filename: 215 glass.jpg
     thumb: /files/thumbnails/14fb2a1f36c89714fb2a1f36cc7b.jpg
     url: /files/original/14fb2a1f36c89714fb2a1f36cc7b.jpg
+    alt:
+      en: "Close-up of shattered glass fragments scattered across a stone or brick surface, with jagged shards reflecting light in shades of clear and green."
 geo:
 id: 13220
 item_type: Still Image

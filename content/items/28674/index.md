@@ -25,6 +25,8 @@ files:
     original_filename: 157377577_b6cfcde4b5.jpg
     thumb: /files/thumbnails/14fb29d1ca38b114fb29d1ca3c8f.jpg
     url: /files/original/14fb29d1ca38b114fb29d1ca3c8f.jpg
+    alt:
+      en: "A makeshift memorial of PVC pipes and scattered debris sits on a grassy roadside, with a handwritten sign reading \"Happy Birthday Joe\" beside it, houses and parked cars in the background."
 geo:
 id: 28674
 item_type: Still Image

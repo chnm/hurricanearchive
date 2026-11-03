@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0458.JPG
     thumb: /files/thumbnails/14fb2a53d94e5e14fb2a53d958c2.jpg
     url: /files/original/14fb2a53d94e5e14fb2a53d958c2.jpg
+    alt:
+      en: "Flat rooftop with scattered debris, including white ventilation pipes and damaged panels, overlooking a cleared lot with storm debris and a distant tree line under a hazy sky."
 geo:
 id: 5113
 item_type: Still Image

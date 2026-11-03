@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1663superdome.JPG
     thumb: /files/thumbnails/14fb29e27869c314fb29e2786dab.jpg
     url: /files/original/14fb29e27869c314fb29e2786dab.jpg
+    alt:
+      en: "Two men in dark shirts, one in camouflage pants, stand along a railing atop a large curved concrete structure, with the tail section of an aircraft visible nearby and a tree in the foreground."
 geo:
 id: 25077
 item_type: Still Image

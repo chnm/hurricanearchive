@@ -23,6 +23,8 @@ files:
     original_filename: 336698288_77d283c1dc.jpg
     thumb: /files/thumbnails/14fb29d54d831c14fb29d54d85b0.jpg
     url: /files/original/14fb29d54d831c14fb29d54d85b0.jpg
+    alt:
+      en: "Debris-strewn landscape with overturned sheet metal and twisted structures in the foreground, standing water across flattened ground, and sparse trees under an overcast gray sky in the distance."
 geo:
 id: 27309
 item_type: Still Image

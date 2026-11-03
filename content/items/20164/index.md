@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of 09140004.JPG
     thumb: /files/thumbnails/14fb2a0afbfdbd14fb2a0afc04a4.jpg
     url: /files/original/14fb2a0afbfdbd14fb2a0afc04a4.jpg
+    alt:
+      en: "A tree-lined street with storm debris scattered across the pavement leads toward an elevated highway overpass, with two vehicles approaching under a clear blue sky."
 geo:
 id: 20164
 item_type: Still Image

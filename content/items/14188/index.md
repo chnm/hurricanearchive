@@ -21,6 +21,8 @@ files:
     original_filename: SPC Rayshawn Riley.JPG
     thumb: /files/thumbnails/14fb2a1abd10ca14fb2a1abd14af.jpg
     url: /files/original/14fb2a1abd10ca14fb2a1abd14af.jpg
+    alt:
+      en: "A soldier in woodland camouflage fatigues with \"RILEY\" and \"U.S. ARMY\" name tapes stands in a cafeteria, with tables, chairs, and a dated timestamp reading \"09.24.2005\" in the corner."
 geo:
   address: ''
   lat: 0.0

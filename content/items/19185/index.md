@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 095.jpg
     thumb: /files/thumbnails/14fb2a1213e24514fb2a1213e62b.jpg
     url: /files/original/14fb2a1213e24514fb2a1213e62b.jpg
+    alt:
+      en: "A debris-covered street strewn with dried leaves, fallen branches, and mud, flanked by trees, utility poles, and a white fence, with houses visible in the background under a clear sky."
 geo:
 id: 19185
 item_type: Still Image

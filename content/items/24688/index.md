@@ -21,6 +21,8 @@ files:
     original_filename: 20051011-A-2421S-0034jrbpresvisit.jpg
     thumb: /files/thumbnails/14fb29e58c9fc714fb29e58ca39b.jpg
     url: /files/original/14fb29e58c9fc714fb29e58ca39b.jpg
+    alt:
+      en: "A military officer in camouflage fatigues walks alongside a man in a light blue shirt and dark pants on an airfield, with a helicopter marked \"UNITED STATES OF AMERICA\" and a U.S. flag in the background."
 geo:
 id: 24688
 item_type: Still Image

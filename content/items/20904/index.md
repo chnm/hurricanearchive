@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0144-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0217051c14fb2a0217092c.jpg
     url: /files/original/14fb2a0217051c14fb2a0217092c.jpg
+    alt:
+      en: "Aerial view of widespread flooding with submerged trees, damaged structures, scattered debris, and a partially visible sign reading \"First United ... Church,\" under a hazy gray sky."
 geo:
 id: 20904
 item_type: Still Image

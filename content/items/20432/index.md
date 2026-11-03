@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014H.JPG
     thumb: /files/thumbnails/14fb2a0764bb6714fb2a0764c03e.jpg
     url: /files/original/14fb2a0764bb6714fb2a0764c03e.jpg
+    alt:
+      en: "A man and woman stand close together under strings of warm, glowing lights in a dim tent-like venue, the woman reaching toward his chest as they talk."
 geo:
 id: 20432
 item_type: Still Image

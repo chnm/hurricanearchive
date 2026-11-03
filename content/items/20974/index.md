@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0160-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a0138658014fb2a01386964.jpg
     url: /files/original/14fb2a0138658014fb2a01386964.jpg
+    alt:
+      en: "Aerial view of a red-roofed building (signage partially reading \"P... za ... ut\") beside a large warehouse, with debris piles, toppled utility poles, scattered vehicles, and bare trees lining a roadway below."
 geo:
 id: 20974
 item_type: Still Image

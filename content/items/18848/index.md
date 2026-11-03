@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0067ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a14ed57b814fb2a14ed5b90.jpg
     url: /files/original/14fb2a14ed57b814fb2a14ed5b90.jpg
+    alt:
+      en: "Aerial view of a flat residential neighborhood with scattered houses, warehouses, and bare trees, a blue water tower, railway tracks, and industrial smokestacks visible in the hazy distance."
 geo:
 id: 18848
 item_type: Still Image

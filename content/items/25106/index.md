@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1693superdome.JPG
     thumb: /files/thumbnails/14fb29e247c4ee14fb29e247c8d3.jpg
     url: /files/original/14fb29e247c4ee14fb29e247c8d3.jpg
+    alt:
+      en: "Rows of military police personnel in camouflage fatigues stand at attention on a brick plaza, wearing \"MP\" armbands and carrying rifles and gear, with military trucks and buildings in the background."
 geo:
 id: 25106
 item_type: Still Image

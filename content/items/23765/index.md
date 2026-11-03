@@ -21,6 +21,8 @@ files:
     original_filename: PICT0079neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed34ec9114fb29ed34f078.jpg
     url: /files/original/14fb29ed34ec9114fb29ed34f078.jpg
+    alt:
+      en: "Mostly blue sky with scattered clouds above a line of weathered freight train cars and highway signs reading \"Airport,\" \"Florida Blvd,\" and \"West End Blvd,\" dated 09.15.2005."
 geo:
 id: 23765
 item_type: Still Image

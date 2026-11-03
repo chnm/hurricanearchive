@@ -23,6 +23,8 @@ files:
     original_filename: 1259921882_1d7a742955.jpg
     thumb: /files/thumbnails/14fb29cb61900014fb29cb619aba.jpg
     url: /files/original/14fb29cb61900014fb29cb619aba.jpg
+    alt:
+      en: "Weathered double wooden doors with peeling paint set into a green wood-sided building, standing on a cracked concrete step with weeds growing along the base."
 geo:
 id: 33231
 item_type: Still Image

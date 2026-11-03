@@ -21,6 +21,8 @@ files:
     original_filename: PICT0084neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed31db8914fb29ed31df6f.jpg
     url: /files/original/14fb29ed31db8914fb29ed31df6f.jpg
+    alt:
+      en: "Interior view from inside a military vehicle, with a person in camouflage uniform and cap pointing out the windshield toward a hazy outdoor scene; dashboard controls visible below, dated 09.15.2005."
 geo:
 id: 23769
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a04f275b814fb2a04f2799c.jpg
     url: /files/original/14fb2a04f275b814fb2a04f2799c.jpg
+    alt:
+      en: "Floodwater surrounds two houses on stilts and a small boat tied to a utility pole, with a reddish-brown structure partially submerged between the homes under a partly cloudy sky."
 geo:
 id: 20697
 item_type: Still Image

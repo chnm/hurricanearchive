@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (2).JPG
     thumb: /files/thumbnails/14fb2a5dc43e4314fb2a5dc44237.jpg
     url: /files/original/14fb2a5dc43e4314fb2a5dc44237.jpg
+    alt:
+      en: "Brick apartment building with plywood-boarded windows and doors, one spray-painted \"Left-Overs Dog Food,\" beside a handmade sign reading \"Looters will be shot, Survivors shot twice.\""
 geo:
 id: 3135
 item_type: Still Image

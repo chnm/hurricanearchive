@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0212-9-25.JPG
     thumb: /files/thumbnails/14fb29ffad679914fb29ffad6b76.jpg
     url: /files/original/14fb29ffad679914fb29ffad6b76.jpg
+    alt:
+      en: "Interior view from inside an aircraft cockpit, showing the silhouette of a crew member wearing a flight helmet and headset, with overhead wiring and a hazy, overcast sky visible through the windshield."
 geo:
 id: 21271
 item_type: Still Image

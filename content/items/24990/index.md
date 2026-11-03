@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1512superdome.JPG
     thumb: /files/thumbnails/14fb29e331551914fb29e33159ab.jpg
     url: /files/original/14fb29e331551914fb29e33159ab.jpg
+    alt:
+      en: "Medical evacuation helicopter marked \"Acadian Ambulance Service, Inc.\" and \"Air-Med\" (tail number N911RS) flying low over a rooftop, with highway overpasses and signage visible below."
 geo:
 id: 24990
 item_type: Still Image

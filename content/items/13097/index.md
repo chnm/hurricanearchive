@@ -21,6 +21,8 @@ files:
     original_filename: during tree at night.jpg
     thumb: /files/thumbnails/14fb2a2068fa7614fb2a2068fe5d.jpg
     url: /files/original/14fb2a2068fa7614fb2a2068fe5d.jpg
+    alt:
+      en: "A dark nighttime scene with a tree branch in the foreground, illuminated by a streetlamp's orange glow and scattered lights reflecting off a wet, textured surface in the background."
 geo:
 id: 13097
 item_type: Still Image

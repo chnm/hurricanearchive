@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0024_8c782963c2.JPG
     thumb: /files/thumbnails/14fb2a6ff5117414fb2a6ff5158c.jpg
     url: /files/original/14fb2a6ff5117414fb2a6ff5158c.jpg
+    alt:
+      en: "A storm-damaged white house with its roof torn open sits amid fallen trees, with a battered white boat resting on debris in the front yard."
 geo:
   address: ''
   lat: 29.878755346037998

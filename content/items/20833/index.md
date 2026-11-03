@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0088-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a035a497a14fb2a035a511c.jpg
     url: /files/original/14fb2a035a497a14fb2a035a511c.jpg
+    alt:
+      en: "A soldier in camouflage uniform and beret, with name tape reading \"DEADY,\" stands on debris-strewn ground in front of floodwaters surrounding houses and a truck in the background."
 geo:
 id: 20833
 item_type: Still Image

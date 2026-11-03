@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1120Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7af1f6514fb29f7af234b.jpg
     url: /files/original/14fb29f7af1f6514fb29f7af234b.jpg
+    alt:
+      en: "Hazy, flooded indoor area with several people in orange life vests near small boats and canoes, set against building walls and a bulletin board in the background."
 geo:
 id: 22309
 item_type: Still Image

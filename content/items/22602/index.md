@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0566Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f515853814fb29f5158926.jpg
     url: /files/original/14fb29f515853814fb29f5158926.jpg
+    alt:
+      en: "Flooded street with a man standing in a small motorboat navigating deep brown water, surrounded by partially submerged power lines, poles, and buildings, with an American flag visible in the background."
 geo:
 id: 22602
 item_type: Still Image

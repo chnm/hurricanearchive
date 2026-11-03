@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 027.jpg
     thumb: /files/thumbnails/14fb2a22c3b60c14fb2a22c3b9eb.jpg
     url: /files/original/14fb2a22c3b60c14fb2a22c3b9eb.jpg
+    alt:
+      en: "A large overturned sign or cabinet labeled \"Boyett's\" lies on a roadway lined with storm-damaged trees, photographed through a rain-speckled windshield dated 2005/09/24."
 geo:
 id: 11905
 item_type: Still Image

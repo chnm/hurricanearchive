@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AshleyHendersen_01_65cd064bf5.jpg
     thumb: /files/thumbnails/14fb2a182ba92a14fb2a182bad31.jpg
     url: /files/original/14fb2a182ba92a14fb2a182bad31.jpg
+    alt:
+      en: "School portrait of a young girl with braided hair adorned with blue ribbons and beads, smiling and wearing a plaid jumper over a white collared shirt; text reads \"Good Shepherd School 2003-2004.\""
 geo:
 id: 14688
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 150cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0df694a514fb2a0df69a31.jpg
     url: /files/original/14fb2a0df694a514fb2a0df69a31.jpg
+    alt:
+      en: "A soldier in camouflage carries a case while walking down a debris-strewn street, with military trucks, parked vehicles, and a brick building nearby, and other uniformed personnel in the background."
 geo:
 id: 19763
 item_type: Still Image

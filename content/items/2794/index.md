@@ -21,6 +21,8 @@ files:
     original_filename: 87.jpg
     thumb: /files/thumbnails/14fb2a602a148014fb2a602a2bf4.jpg
     url: /files/original/14fb2a602a148014fb2a602a2bf4.jpg
+    alt:
+      en: "Child's crayon drawing by \"Kyron, 11 years old\" of a green house, rain and lightning clouds, floodwater, and a stick figure shouting \"Help!!!\" with text describing fear of Hurricane Katrina and relief at being safe in Texas."
 geo:
 id: 2794
 item_type: Still Image

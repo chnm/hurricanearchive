@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012rita.JPG
     thumb: /files/thumbnails/14fb2a11b855d614fb2a11b8597f.jpg
     url: /files/original/14fb2a11b855d614fb2a11b8597f.jpg
+    alt:
+      en: "Several military personnel in camouflage uniforms and two civilians stand near a blue metal railing outside a brick building, with a \"NO PARKING\" sign visible in the foreground."
 geo:
 id: 19233
 item_type: Still Image

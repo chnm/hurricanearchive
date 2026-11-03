@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28128.jpg
     thumb: /files/thumbnails/14fb2a6cded07f14fb2a6cded7d1.jpg
     url: /files/original/14fb2a6cded07f14fb2a6cded7d1.jpg
+    alt:
+      en: "A boat washed ashore amid storm debris near damaged buildings, with a handwritten sign reading \"God Bless You, St. Bernard, the hearts of Slidell are with you.\""
 geo:
   address: ''
   lat: 0.0

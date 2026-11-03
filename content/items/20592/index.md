@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039H.JPG
     thumb: /files/thumbnails/14fb2a05d55c1014fb2a05d59126.jpg
     url: /files/original/14fb2a05d55c1014fb2a05d59126.jpg
+    alt:
+      en: "Nighttime gathering with a group of women in \"Hooters\" tank tops and orange shorts standing behind two men holding cameras and beverages, with string lights glowing in the dark background."
 geo:
 id: 20592
 item_type: Still Image

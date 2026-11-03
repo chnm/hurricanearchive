@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28627.jpg
     thumb: /files/thumbnails/14fb2a6b3a3e0b14fb2a6b3a41f1.jpg
     url: /files/original/14fb2a6b3a3e0b14fb2a6b3a41f1.jpg
+    alt:
+      en: "A sign reading \"Georgetown of New Orleans\" stands amid storm debris, with a damaged building featuring a gold cupola visible in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0061.JPG
     thumb: /files/thumbnails/14fb2a55fe12c514fb2a55fe16a2.jpg
     url: /files/original/14fb2a55fe12c514fb2a55fe16a2.jpg
+    alt:
+      en: "Cleared lot strewn with bricks, debris, and a concrete foundation slab, with scorched trees and parked vehicles visible in the background."
 geo:
 id: 4714
 item_type: Still Image

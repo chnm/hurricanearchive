@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28107.jpg
     thumb: /files/thumbnails/14fb2a6806446514fb2a68064d5d.jpg
     url: /files/original/14fb2a6806446514fb2a68064d5d.jpg
+    alt:
+      en: "Water jets erupting from a flooded canal breach near a low bridge and utility poles, with trees on a small landspit and calm water in the foreground."
 geo:
   address: ''
   lat: 0.0

@@ -23,6 +23,8 @@ files:
     original_filename: 336698415_82c8709d66.jpg
     thumb: /files/thumbnails/14fb29d56ec0f514fb29d56ecd8c.jpg
     url: /files/original/14fb29d56ec0f514fb29d56ecd8c.jpg
+    alt:
+      en: "A large rust-colored barge rests on muddy, debris-strewn ground under a gray sky, with an orange and white 15-passenger Dodge van parked alongside it."
 geo:
 id: 27301
 item_type: Still Image

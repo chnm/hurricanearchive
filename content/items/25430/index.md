@@ -21,6 +21,8 @@ files:
     original_filename: Under the Superdome 3superdome.jpg
     thumb: /files/thumbnails/14fb29ddd5af8114fb29ddd5b365.jpg
     url: /files/original/14fb29ddd5af8114fb29ddd5b365.jpg
+    alt:
+      en: "Floodwater surrounds a parking garage as military personnel wade through water to assist people near a \"Wildlife Enf. Agent\" pickup truck, with military trucks and submerged cars in the background."
 geo:
 id: 25430
 item_type: Still Image

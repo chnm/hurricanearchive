@@ -27,6 +27,8 @@ files:
     original_filename: Waiting To Be Rescued
     thumb: /files/thumbnails/14fb2a6032d86c14fb2a6032eb2f.jpg
     url: /files/original/14fb2a6032d86c14fb2a6032eb2f.jpg
+    alt:
+      en: "Pencil drawing of a flooded neighborhood at night, with rooftops and a tree emerging from the water, people in a small boat, and helicopters shining searchlights; text reads \"11:45 pm, 9th ward\" and \"By Donald.\""
 geo:
 id: 2784
 item_type: Still Image

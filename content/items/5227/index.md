@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0672.JPG
     thumb: /files/thumbnails/14fb2a5348e1d314fb2a5348e5b9.jpg
     url: /files/original/14fb2a5348e1d314fb2a5348e5b9.jpg
+    alt:
+      en: "Interior of a storm-damaged structure with exposed wooden roof framing and rafters, insulation debris, and scattered building materials hanging amid the collapsed ceiling."
 geo:
 id: 5227
 item_type: Still Image

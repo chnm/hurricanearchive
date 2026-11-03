@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0068-16.JPG
     thumb: /files/thumbnails/14fb2a04306ff114fb2a043073cf.jpg
     url: /files/original/14fb2a04306ff114fb2a043073cf.jpg
+    alt:
+      en: "Military trucks, including one marked \"A04,\" parked in a dirt lot, with a person wearing a hard hat standing nearby and a house visible in the background."
 geo:
 id: 20737
 item_type: Still Image

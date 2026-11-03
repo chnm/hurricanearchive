@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0290.JPG
     thumb: /files/thumbnails/14fb2a54d062ec14fb2a54d066c9.jpg
     url: /files/original/14fb2a54d062ec14fb2a54d066c9.jpg
+    alt:
+      en: "Damaged ceiling and wall cavity exposing wooden framing, insulation batts, and torn paper-backed insulation sheeting marked \"CertainTeed,\" with a white door frame visible at left."
 geo:
 id: 4948
 item_type: Still Image

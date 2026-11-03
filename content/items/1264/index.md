@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27877.jpg
     thumb: /files/thumbnails/14fb2a69fc745714fb2a69fc7f7b.jpg
     url: /files/original/14fb2a69fc745714fb2a69fc7f7b.jpg
+    alt:
+      en: "A damaged mobile home with boarded, broken windows and tree debris on its roof, with \"DANGER KEEP OUT\" spray-painted in black near the front door."
 geo:
   address: ''
   lat: 0.0

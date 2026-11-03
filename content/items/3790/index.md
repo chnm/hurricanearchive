@@ -21,6 +21,8 @@ files:
     original_filename: USS Alabama 2.jpg
     thumb: /files/thumbnails/14fb2a599aea9514fb2a599af0a0.jpg
     url: /files/original/14fb2a599aea9514fb2a599af0a0.jpg
+    alt:
+      en: "Battleship USS Alabama (hull number 80) docked on display, with gun turrets and masts visible against a cloudy sky, a grassy field and chain fence in the foreground."
 geo:
 id: 3790
 item_type: Still Image

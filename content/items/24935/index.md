@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1432superdome.JPG
     thumb: /files/thumbnails/14fb29e3b91cea14fb29e3b920cf.jpg
     url: /files/original/14fb29e3b91cea14fb29e3b920cf.jpg
+    alt:
+      en: "Military police officer with a Louisiana National Guard shoulder patch stands watch under a covered walkway, with other soldiers and civilians visible in the background near metal barricades."
 geo:
 id: 24935
 item_type: Still Image

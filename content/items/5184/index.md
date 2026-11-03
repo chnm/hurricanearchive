@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0546.JPG
     thumb: /files/thumbnails/14fb2a5377e8c614fb2a5377ecab.jpg
     url: /files/original/14fb2a5377e8c614fb2a5377ecab.jpg
+    alt:
+      en: "Damaged wooden trellis structure with torn wire mesh netting, overlooking a roadside debris pile and tree line under a clear blue sky."
 geo:
 id: 5184
 item_type: Still Image

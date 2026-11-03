@@ -21,6 +21,8 @@ files:
     original_filename: 20050926044.JPG
     thumb: /files/thumbnails/14fb2a1c70aeb914fb2a1c70b29f.jpg
     url: /files/original/14fb2a1c70aeb914fb2a1c70b29f.jpg
+    alt:
+      en: "A convoy of military trucks travels along a two-lane road lined with debris and downed branches, with a soldier standing between vehicles and power lines crossing overhead."
 geo:
   address: ''
   lat: 0.0

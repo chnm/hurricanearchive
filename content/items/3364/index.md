@@ -21,6 +21,8 @@ files:
     original_filename: SS St. Bernard (5).jpg
     thumb: /files/thumbnails/14fb2a5c2374d614fb2a5c23793f.jpg
     url: /files/original/14fb2a5c2374d614fb2a5c23793f.jpg
+    alt:
+      en: "Damaged convenience store and gas station with boarded windows and debris-strewn lot; two people stand near a pickup truck beside the fuel pumps."
 geo:
 id: 3364
 item_type: Still Image

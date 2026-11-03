@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 527%20(sept12)Picture1.png
     thumb: /files/thumbnails/14fb2a0a6c727314fb2a0a6c7e1e.jpg
     url: /files/original/14fb2a0a6c727314fb2a0a6c7e1e.jpg
+    alt:
+      en: "A person in military-style camouflage operates a small skid-steer loader to clear mud and debris from a street, with a soldier standing nearby and bare trees lining the road."
 geo:
 id: 20254
 item_type: Still Image

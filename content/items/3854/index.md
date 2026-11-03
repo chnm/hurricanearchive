@@ -21,6 +21,8 @@ files:
     original_filename: 100_0147.JPG
     thumb: /files/thumbnails/14fb2a593cc03d14fb2a593cc417.jpg
     url: /files/original/14fb2a593cc03d14fb2a593cc417.jpg
+    alt:
+      en: "Flooded street intersection with submerged traffic lights and utility poles, a radio tower, and a small boat with people near trees on the left, under a hazy gray sky."
 geo:
 id: 3854
 item_type: Still Image

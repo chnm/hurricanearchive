@@ -26,6 +26,8 @@ files:
     original_filename: 2291225385_48ce2544fa.
     thumb: /files/thumbnails/14fb29c996a5a814fb29c996b7fb.jpg
     url: /files/original/14fb29c996a5a814fb29c996b7fb.jpg
+    alt:
+      en: "A blue house raised on wooden pilings, with a cleared, debris-strewn dirt area beneath it; white lattice panels and a ladder are visible on the deck above."
 geo:
   address: ''
   lat: 30.22539

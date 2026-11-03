@@ -21,6 +21,8 @@ files:
     original_filename: PICT0088neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed2dc28714fb29ed2dc670.jpg
     url: /files/original/14fb29ed2dc28714fb29ed2dc670.jpg
+    alt:
+      en: "Street scene with a tall glass high-rise building, traffic light, streetlamp, and parked vehicles including a military jeep, red van, and white SUV; timestamp \"09.15.2005\" visible on left edge."
 geo:
 id: 23772
 item_type: Still Image

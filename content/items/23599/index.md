@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1599neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee90d77814fb29ee90db5e.jpg
     url: /files/original/14fb29ee90d77814fb29ee90db5e.jpg
+    alt:
+      en: "Flooded street scene with a white ABC 26 news SUV and a white sedan with doors open, surrounded by military personnel in camouflage and civilians, trees and floodwater in the background."
 geo:
 id: 23599
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0250-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fee4303c14fb29fee43422.jpg
     url: /files/original/14fb29fee4303c14fb29fee43422.jpg
+    alt:
+      en: "Aerial view of a flooded residential street with submerged cars, debris-strewn yards, damaged rooftops, and downed power lines reflected in standing water."
 geo:
 id: 21412
 item_type: Still Image

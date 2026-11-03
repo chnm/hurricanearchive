@@ -21,6 +21,8 @@ files:
     original_filename: Picture 093satellite.jpg
     thumb: /files/thumbnails/14fb2a13aa79f314fb2a13aa7dd7.jpg
     url: /files/original/14fb2a13aa79f314fb2a13aa7dd7.jpg
+    alt:
+      en: "Black-and-white aerial reconnaissance photo of Lake Forest Mall in Orleans Parish, showing the mall's cloverleaf-shaped roof, surrounding parking lots, roads, and scattered buildings near I-10 and Read Blvd."
 geo:
 id: 19014
 item_type: Still Image

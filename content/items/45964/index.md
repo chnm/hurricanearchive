@@ -17,6 +17,8 @@ files:
     original_filename: mak-home-tree-destroyed.png
     thumb: /files/thumbnails/1a96315466eb613fe7453f6523d9d36e.jpg
     url: /files/original/1a96315466eb613fe7453f6523d9d36e.png
+    alt:
+      en: "A large uprooted tree lies collapsed onto the roof of a brick house, crushing its gabled front and shattering a glass sunroom below."
 geo:
   address: ''
   lat: 30.765439128106

@@ -20,6 +20,8 @@ files:
     original_filename: from_st_cap_5b98a5a2a1.jpg
     thumb: /files/thumbnails/14fb29d5b265ec14fb29d5b269d2.jpg
     url: /files/original/14fb29d5b265ec14fb29d5b269d2.jpg
+    alt:
+      en: "Debris field of collapsed wooden walls, doors, and roofing materials piled beneath elevated storage tanks, with a rusted cylindrical tank and damaged outbuildings visible in the background."
 geo:
   address: ''
   lat: 0.0

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28152.jpg
     thumb: /files/thumbnails/14fb2a6b77775d14fb2a6b777b43.jpg
     url: /files/original/14fb2a6b77775d14fb2a6b777b43.jpg
+    alt:
+      en: "Debris field of broken roofing, shingles, insulation, and scattered wood from a collapsed structure, with a partially damaged house visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

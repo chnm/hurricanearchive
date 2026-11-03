@@ -30,6 +30,8 @@ files:
     original_filename: adcp02-1_aedd515967.jpg
     thumb: /files/thumbnails/14fb29cbececad14fb29cbecf094.jpg
     url: /files/original/14fb29cbececad14fb29cbecf094.jpg
+    alt:
+      en: "Illustrated comic panel showing floodwater surging through a residential street, engulfing a house and partially submerging two vehicles, rendered in teal, black, and white line art."
 geo:
 id: 32519
 item_type: Hyperlink

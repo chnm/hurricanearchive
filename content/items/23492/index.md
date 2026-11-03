@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0133abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef372a6314fb29ef372e3f.jpg
     url: /files/original/14fb29ef372a6314fb29ef372e3f.jpg
+    alt:
+      en: "A single-story white house with a metal roof and screened porch stands behind bare, storm-damaged tree branches, with debris scattered across the bare yard in front."
 geo:
 id: 23492
 item_type: Still Image

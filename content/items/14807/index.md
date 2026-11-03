@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TrinityMiller_03_dce3070432.jpg
     thumb: /files/thumbnails/14fb2a179ae68a14fb2a179aea7a.jpg
     url: /files/original/14fb2a179ae68a14fb2a179aea7a.jpg
+    alt:
+      en: "A young girl in a white top and denim pants stands on a bed with arms outstretched, in front of a purple star-shaped decoration mounted on the wall."
 geo:
 id: 14807
 item_type: Still Image

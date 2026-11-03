@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00138 DSC00138cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5bbb7b714fb29e5bbc230.jpg
     url: /files/original/14fb29e5bbb7b714fb29e5bbc230.jpg
+    alt:
+      en: "A large group of military personnel in camouflage uniforms stands and walks along a paved path beneath bare-branched trees, with a white building visible in the background."
 geo:
 id: 24671
 item_type: Still Image

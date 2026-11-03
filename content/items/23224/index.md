@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 17.jpg
     thumb: /files/thumbnails/14fb29f09abbdf14fb29f09abfc6.jpg
     url: /files/original/14fb29f09abbdf14fb29f09abfc6.jpg
+    alt:
+      en: "Satellite image of the Atlantic basin showing a well-defined hurricane near the Gulf Coast and several tropical disturbances, timestamped 28 Aug 2005 18:19 GMT, courtesy of The Weather Channel."
 geo:
 id: 23224
 item_type: Still Image

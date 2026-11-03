@@ -21,6 +21,8 @@ files:
     original_filename: 43.jpg
     thumb: /files/thumbnails/14fb2a605677d714fb2a60567bbc.jpg
     url: /files/original/14fb2a605677d714fb2a60567bbc.jpg
+    alt:
+      en: "Child's marker drawing of a clown with a white face, red triangular hair, X-shaped eyes, red nose, dark pointed collar, and a plaid outfit with red mittens; \"Tiffany\" is written at the top."
 geo:
 id: 2747
 item_type: Still Image

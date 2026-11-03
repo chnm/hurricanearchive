@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_LelandJackson_01_5e6432cff6.jpg
     thumb: /files/thumbnails/14fb2a17be2fd614fb2a17be33bd.jpg
     url: /files/original/14fb2a17be2fd614fb2a17be33bd.jpg
+    alt:
+      en: "A small stuffed penguin toy with a green head and wings, white belly, yellow beak and feet, and a green bow at its neck, set against a plain gray background."
 geo:
 id: 14785
 item_type: Still Image

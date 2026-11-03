@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0523.JPG
     thumb: /files/thumbnails/14fb29d0a3180314fb29d0a31bd7.jpg
     url: /files/original/14fb29d0a3180314fb29d0a31bd7.jpg
+    alt:
+      en: "Interior view of a military aircraft's troop compartment, showing fold-down canvas seats with metal frames and several personnel in camouflage uniforms with Air Force patches visible."
 geo:
 id: 29019
 item_type: Still Image

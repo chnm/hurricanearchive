@@ -21,6 +21,8 @@ files:
     original_filename: 18.jpg
     thumb: /files/thumbnails/14fb2a607082cc14fb2a607086b5.jpg
     url: /files/original/14fb2a607082cc14fb2a607086b5.jpg
+    alt:
+      en: "Child's marker drawing of a multicolored rainbow and heart in the sky, two blue star bursts, and a row of purple and pink tulips with a yellow sunflower above green grass, labeled \"karione.\""
 geo:
 id: 2719
 item_type: Still Image

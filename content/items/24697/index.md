@@ -21,6 +21,8 @@ files:
     original_filename: 09160021superdome.JPG
     thumb: /files/thumbnails/14fb29e582ff7b14fb29e5830363.jpg
     url: /files/original/14fb29e582ff7b14fb29e5830363.jpg
+    alt:
+      en: "A large domed stadium with a discolored, weathered roof stands amid an urban skyline, with a teal building and high-rise visible nearby under an overcast sky."
 geo:
 id: 24697
 item_type: Still Image

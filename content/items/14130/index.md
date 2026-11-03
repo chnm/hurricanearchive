@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0029.JPG
     thumb: /files/thumbnails/14fb2a1ba1cc4314fb2a1ba1d028.jpg
     url: /files/original/14fb2a1ba1cc4314fb2a1ba1d028.jpg
+    alt:
+      en: "A man in a U.S. Army camouflage uniform with a nameplate reading \"REYNOLDS,\" a chaplain's cross insignia, and lieutenant colonel rank, standing indoors near tables and chairs; timestamp reads 09.20.2005 17:13."
 geo:
   address: ''
   lat: 0.0

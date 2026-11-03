@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0175-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a00a1a5fa14fb2a00a1a9d6.jpg
     url: /files/original/14fb2a00a1a5fa14fb2a00a1a9d6.jpg
+    alt:
+      en: "Aerial view of a severely storm-damaged house on a small patch of land surrounded by floodwater, with a collapsed roof section, scattered debris, and a tractor parked in the muddy yard."
 geo:
 id: 21092
 item_type: Still Image

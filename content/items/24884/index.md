@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0959superdome.JPG
     thumb: /files/thumbnails/14fb29e414f5c914fb29e414fdbf.jpg
     url: /files/original/14fb29e414f5c914fb29e414fdbf.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues unload folded cots from a covered truck inside a loading dock area, with several more soldiers visible in the truck's interior."
 geo:
 id: 24884
 item_type: Still Image

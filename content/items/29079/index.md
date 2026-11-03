@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0624.JPG
     thumb: /files/thumbnails/14fb29d02de20c14fb29d02de5f2.jpg
     url: /files/original/14fb29d02de20c14fb29d02de5f2.jpg
+    alt:
+      en: "A severely damaged two-story house has collapsed and tilted forward off its foundation, with splintered boards and debris piled beneath its siding, against a clear blue sky and a neighboring house."
 geo:
 id: 29079
 item_type: Still Image

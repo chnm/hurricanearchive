@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0209deadymedia.JPG
     thumb: /files/thumbnails/14fb29f268a73014fb29f268ab15.jpg
     url: /files/original/14fb29f268a73014fb29f268ab15.jpg
+    alt:
+      en: "A soldier in woodland-pattern camouflage fatigues and a black beret stands with arms crossed on a grass field in front of empty bleachers and a press box labeled \"Newman Michael Lupin Field.\""
 geo:
 id: 22961
 item_type: Still Image

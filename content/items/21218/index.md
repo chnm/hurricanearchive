@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0199-9-25.JPG
     thumb: /files/thumbnails/14fb29fff37b9e14fb29fff37f7a.jpg
     url: /files/original/14fb29fff37b9e14fb29fff37f7a.jpg
+    alt:
+      en: "Aerial view of storm-damaged property with numerous downed and snapped trees, a swimming pool, a boardwalk path, and buildings with damaged roofing visible among scattered debris."
 geo:
 id: 21218
 item_type: Still Image

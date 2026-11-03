@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9245.jpg
     thumb: /files/thumbnails/14fb2a60d8a62e14fb2a60d8f455.jpg
     url: /files/original/14fb2a60d8a62e14fb2a60d8f455.jpg
+    alt:
+      en: "An upended shed with its roof askew stands amid a vast field of storm debris, including scattered wood planks, an overturned refrigerator, and bare, damaged trees under a clear blue sky."
 geo:
 id: 2665
 item_type: Still Image

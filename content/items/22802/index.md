@@ -21,6 +21,8 @@ files:
     original_filename: DSC 007017thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f399187814fb29f3991c87.jpg
     url: /files/original/14fb29f399187814fb29f3991c87.jpg
+    alt:
+      en: "Aerial view of a canal lined with levees and green parkland leading to open water, with a construction crane and steel pilings in the foreground and part of a helicopter visible at the edge of the frame."
 geo:
 id: 22802
 item_type: Still Image

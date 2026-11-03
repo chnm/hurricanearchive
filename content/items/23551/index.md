@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0175neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef07831914fb29ef0786ff.jpg
     url: /files/original/14fb29ef07831914fb29ef0786ff.jpg
+    alt:
+      en: "Empty residential street lined with trees and houses, debris piled along the curb, with two dark sedans parked on the right and a flatbed truck visible in the distance."
 geo:
 id: 23551
 item_type: Still Image

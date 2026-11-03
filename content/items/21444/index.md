@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0258-2-9-15.JPG
     thumb: /files/thumbnails/14fb29feb8791814fb29feb87d00.jpg
     url: /files/original/14fb29feb8791814fb29feb87d00.jpg
+    alt:
+      en: "Aerial view of a flood-damaged street with debris-covered pavement, a mud-stained street, an overturned car, a tipped school bus, and storm-damaged buildings with torn roofing."
 geo:
 id: 21444
 item_type: Still Image

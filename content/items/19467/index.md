@@ -21,6 +21,8 @@ files:
     original_filename: Picture 027engineers.jpg
     thumb: /files/thumbnails/14fb2a0fd9d3d214fb2a0fd9da2e.jpg
     url: /files/original/14fb2a0fd9d3d214fb2a0fd9da2e.jpg
+    alt:
+      en: "Side-by-side satellite images of downtown New Orleans near the Superdome, comparing the city on August 28, 2002 with the flooded, smoke-hazed aftermath of Hurricane Katrina on September 2, 2005."
 geo:
 id: 19467
 item_type: Still Image

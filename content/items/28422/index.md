@@ -24,6 +24,8 @@ files:
     original_filename: ramsey_f3b035b7ff.history.jpg
     thumb: /files/thumbnails/14fb29d262a33b14fb29d262afa5.jpg
     url: /files/original/14fb29d262a33b14fb29d262afa5.jpg
+    alt:
+      en: "A man wears an elaborate suit covered in small printed labels and a tall red fur hat reading \"HISTORY,\" with a red scarf, white gloves, and red shoes, standing outdoors near a teal building."
 geo:
 id: 28422
 item_type: Still Image

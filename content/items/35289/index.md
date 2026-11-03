@@ -18,6 +18,8 @@ files:
     original_filename: 24_4da84a4d2a.jpg
     thumb: /files/thumbnails/14fb29c707be0514fb29c707c1de.jpg
     url: /files/original/14fb29c707be0514fb29c707c1de.jpg
+    alt:
+      en: "Nighttime photo of a marching band group in red and white uniforms with matching berets and rifles, posing beside a car, with one member in a tall fur hat twirling drumsticks."
 geo:
   address: new orleans, la
   lat: 29.95324

@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1026.JPG
     thumb: /files/thumbnails/14fb2a57c263f914fb2a57c267da.jpg
     url: /files/original/14fb2a57c263f914fb2a57c267da.jpg
+    alt:
+      en: "Coast Guard personnel assist a woman climbing onto the back of a flatbed truck loaded with dogs and belongings, with uniformed officers and a waterfront dock visible nearby."
 geo:
 id: 4100
 item_type: Still Image

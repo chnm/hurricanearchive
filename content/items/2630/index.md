@@ -24,6 +24,8 @@ files:
     original_filename: 20060302_MG_0610.jpg
     thumb: /files/thumbnails/14fb2a63e0061714fb2a63e009f9.jpg
     url: /files/original/14fb2a63e0061714fb2a63e009f9.jpg
+    alt:
+      en: "Charred, overturned grand piano with exposed internal frame and legs, covered in ash and debris, sitting inside a storm-damaged structure with a broken wooden lattice wall."
 geo:
 id: 2630
 item_type: Still Image

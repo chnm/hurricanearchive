@@ -20,6 +20,8 @@ files:
     original_filename: 2434807784_54d549bf16.
     thumb: /files/thumbnails/14fb29c95c78c614fb29c95c7ab8.jpg
     url: /files/original/14fb29c95c78c614fb29c95c7ab8.jpg
+    alt:
+      en: "A collapsed house with its roof caved in sits amid scattered debris, with a partially standing white house visible in the background and bare, storm-damaged trees overhead."
 geo:
 id: 34709
 item_type: Still Image

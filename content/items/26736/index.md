@@ -21,6 +21,8 @@ files:
     original_filename: JB 5 WWII penpals_4fefe6b967.2.jpg
     thumb: /files/thumbnails/14fb29d819ac9b14fb29d819be12.jpg
     url: /files/original/14fb29d819ac9b14fb29d819be12.jpg
+    alt:
+      en: "Sepia-toned WWII-era photo of a soldier in uniform and cap sitting cross-legged on a wooden bench, with other servicemen gathered behind him near barracks buildings."
 geo:
   address: ''
   lat: 29.91685

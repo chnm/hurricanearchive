@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9170.jpg
     thumb: /files/thumbnails/14fb2a63babacc14fb2a63babe6f.jpg
     url: /files/original/14fb2a63babacc14fb2a63babe6f.jpg
+    alt:
+      en: "A bent, fallen \"STOP\" sign lies amid debris and mud near standing floodwater, with scattered wooden pilings and wreckage stretching across a devastated coastal landscape."
 geo:
 id: 2637
 item_type: Still Image

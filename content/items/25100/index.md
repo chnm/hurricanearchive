@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1687superdome.JPG
     thumb: /files/thumbnails/14fb29e24e023214fb29e24e0792.jpg
     url: /files/original/14fb29e24e023214fb29e24e0792.jpg
+    alt:
+      en: "Rows of soldiers in camouflage uniforms with American flag patches stand in formation on a brick plaza, with military trucks and tall glass office buildings in the background."
 geo:
 id: 25100
 item_type: Still Image

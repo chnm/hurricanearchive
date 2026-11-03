@@ -21,6 +21,8 @@ files:
     original_filename: 789z3806mpcheckpoints.jpg
     thumb: /files/thumbnails/14fb29f3460e0214fb29f3462d76.jpg
     url: /files/original/14fb29f3460e0214fb29f3462d76.jpg
+    alt:
+      en: "Two Military Police soldiers in camouflage uniforms with \"MP\" armbands inspect bags at a checkpoint table, with a \"Build Hope\" banner visible in the background."
 geo:
 id: 22827
 item_type: Still Image

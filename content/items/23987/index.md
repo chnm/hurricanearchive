@@ -21,6 +21,8 @@ files:
     original_filename: 09270025plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec20ec4014fb29ec20f30c.jpg
     url: /files/original/14fb29ec20ec4014fb29ec20f30c.jpg
+    alt:
+      en: "Storm-damaged street with a white pickup truck parked amid debris, a leaning utility pole with sagging wires, and two battered buildings—one tan, one maroon—showing exposed framing and broken siding."
 geo:
 id: 23987
 item_type: Still Image

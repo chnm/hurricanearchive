@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (13).JPG
     thumb: /files/thumbnails/14fb2a5c4d9c3614fb2a5c4da4c0.jpg
     url: /files/original/14fb2a5c4d9c3614fb2a5c4da4c0.jpg
+    alt:
+      en: "Gravel-covered empty lot beside a road with an orange traffic cone and litter, with houses, trees, and power lines visible in the background under a partly cloudy sky."
 geo:
 id: 3347
 item_type: Still Image

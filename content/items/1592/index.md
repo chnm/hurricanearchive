@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28620.jpg
     thumb: /files/thumbnails/14fb2a67a4290914fb2a67a42ede.jpg
     url: /files/original/14fb2a67a4290914fb2a67a42ede.jpg
+    alt:
+      en: "Two blue and white street signs reading \"Valmont\" and \"Tchoupit...\" lie among scattered scrap metal beams and debris."
 geo:
   address: ''
   lat: 0.0

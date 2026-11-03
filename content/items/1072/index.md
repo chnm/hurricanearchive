@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27943.jpg
     thumb: /files/thumbnails/14fb2a6b30e88014fb2a6b30ebe8.jpg
     url: /files/original/14fb2a6b30e88014fb2a6b30ebe8.jpg
+    alt:
+      en: "Tall slender spire rises against a partly cloudy sky, with a damaged billboard below reading \"Someone will win $1 Million!\" and a partial Coca-Cola advertisement, mounted on a weathered pole."
 geo:
   address: ''
   lat: 0.0

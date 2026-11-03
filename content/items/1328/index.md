@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28372.jpg
     thumb: /files/thumbnails/14fb2a697e4ae114fb2a697e4e90.jpg
     url: /files/original/14fb2a697e4ae114fb2a697e4e90.jpg
+    alt:
+      en: "Sang Nguyen sits in the captain's chair of the wheelhouse aboard his shrimp boat Miss Brittany, with the wooden ship's wheel, binoculars, and dock scenery visible through the windows."
 geo:
   address: ''
   lat: 0.0

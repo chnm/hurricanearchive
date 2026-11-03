@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0163mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2f7f2c914fb29f2f7f6b1.jpg
     url: /files/original/14fb29f2f7f2c914fb29f2f7f6b1.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage uniform, armed with a rifle, gestures while speaking to a driver in a car displaying a \"Port of New Orleans\" access pass at a checkpoint."
 geo:
 id: 22870
 item_type: Still Image

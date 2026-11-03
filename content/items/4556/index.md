@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0758.JPG
     thumb: /files/thumbnails/14fb2a570331ee14fb2a570335d2.jpg
     url: /files/original/14fb2a570331ee14fb2a570335d2.jpg
+    alt:
+      en: "Storm-damaged property with a white wooden staircase leading to a missing structure, scattered debris on the grass and driveway, and a partially standing white pergola-like frame on the right."
 geo:
 id: 4556
 item_type: Still Image

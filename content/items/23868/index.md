@@ -21,6 +21,8 @@ files:
     original_filename: S4300224neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecac61d314fb29ecac65ba.jpg
     url: /files/original/14fb29ecac61d314fb29ecac65ba.jpg
+    alt:
+      en: "A police officer with a multi-star badge and \"New Orleans\" patch speaks with a woman as a journalist films nearby; behind them stands a storm-damaged house wrapped in barbed wire and plywood."
 geo:
 id: 23868
 item_type: Still Image

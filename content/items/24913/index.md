@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0988superdome.JPG
     thumb: /files/thumbnails/14fb29e3e9268a14fb29e3e92a4b.jpg
     url: /files/original/14fb29e3e9268a14fb29e3e92a4b.jpg
+    alt:
+      en: "Two uniformed military police officers in camouflage fatigues walk toward the camera along a brick walkway, passing a \"The Times-Picayune\" newspaper box, with parking garage signage and vehicles in the background."
 geo:
 id: 24913
 item_type: Still Image

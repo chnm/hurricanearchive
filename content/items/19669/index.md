@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 056cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e7efecc14fb2a0e7f02a9.jpg
     url: /files/original/14fb2a0e7efecc14fb2a0e7f02a9.jpg
+    alt:
+      en: "A TomTom GPS device mounted on a vehicle dashboard, with a diesel fuel tanker truck marked \"DIESEL FUEL\" and \"FLAMMABLE\" visible through the windshield."
 geo:
 id: 19669
 item_type: Still Image

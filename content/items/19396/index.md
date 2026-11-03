@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a1095009714fb2a1095139a.jpg
     url: /files/original/14fb2a1095009714fb2a1095139a.jpg
+    alt:
+      en: "A yellow Komatsu SK818 skid-steer loader, operated by a person wearing a cap, clears debris including wood planks and scrap metal from a hurricane-damaged site, with partially destroyed buildings visible in the background."
 geo:
 id: 19396
 item_type: Still Image

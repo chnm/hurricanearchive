@@ -26,6 +26,8 @@ files:
     original_filename: 100_6925b_3f85e43676.jpg
     thumb: /files/thumbnails/14fb2a6f797a8414fb2a6f797e61.jpg
     url: /files/original/14fb2a6f797a8414fb2a6f797e61.jpg
+    alt:
+      en: "A large, sprawling oak tree frames a muddy field in City Park dotted with blue and white tents, parked vehicles, and an American flag on a pole in the background."
 geo:
   address: ''
   lat: 30.005653

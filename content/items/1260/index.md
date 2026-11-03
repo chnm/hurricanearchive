@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28598.jpg
     thumb: /files/thumbnails/14fb2a6a04dc4614fb2a6a04e28a.jpg
     url: /files/original/14fb2a6a04dc4614fb2a6a04e28a.jpg
+    alt:
+      en: "A large menorah-shaped sculpture with lantern-like fixtures is mounted on the brick exterior of a building, flanked by a palm tree and bare shrubs in the foreground."
 geo:
   address: ''
   lat: 0.0

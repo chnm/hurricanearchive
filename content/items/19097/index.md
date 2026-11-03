@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 007.jpg
     thumb: /files/thumbnails/14fb2a131a350414fb2a131a38e6.jpg
     url: /files/original/14fb2a131a350414fb2a131a38e6.jpg
+    alt:
+      en: "A tree-lined concrete roadway split by a central landscaped median with a lamppost and rounded hedge, leading to parked vehicles and a stop sign in the distance."
 geo:
 id: 19097
 item_type: Still Image

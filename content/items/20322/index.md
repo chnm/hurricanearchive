@@ -21,6 +21,8 @@ files:
     original_filename: DSC00052.jpg
     thumb: /files/thumbnails/14fb2a09637ddc14fb2a096381c2.jpg
     url: /files/original/14fb2a09637ddc14fb2a096381c2.jpg
+    alt:
+      en: "A white Sheriff's patrol car marked \"E551,\" \"SHERIFF,\" and \"Dial 911\" parked in a lot, with military cargo trucks and a green canopy tent in the background."
 geo:
 id: 20322
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: FWills-1_c24c3aabb1.jpg
     thumb: /files/thumbnails/14fb2a16cf2f2414fb2a16cf3340.jpg
     url: /files/original/14fb2a16cf2f2414fb2a16cf3340.jpg
+    alt:
+      en: "Circa 1900 oval portrait of a woman with dark hair pulled back, wearing a white ruffled-collar blouse, the photograph heavily water-damaged and faded with light staining across the surface."
 geo:
 id: 15159
 item_type: Still Image

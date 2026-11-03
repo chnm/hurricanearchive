@@ -21,6 +21,8 @@ files:
     original_filename: Picture 055engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa919aa14fb2a0fa91d90.jpg
     url: /files/original/14fb2a0fa919aa14fb2a0fa91d90.jpg
+    alt:
+      en: "Aerial view from an airplane wing of a flooded coastal community near Venice, Louisiana, showing submerged homes, four large white storage tanks surrounded by an oil sheen, and a barge along the waterway."
 geo:
 id: 19495
 item_type: Still Image

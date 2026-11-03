@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2198superdome.JPG
     thumb: /files/thumbnails/14fb29e457582c14fb29e4575f55.jpg
     url: /files/original/14fb29e457582c14fb29e4575f55.jpg
+    alt:
+      en: "Armed soldiers in camouflage stand at a building entrance marked \"Regency,\" carrying water bottles past a crowd of evacuees, shopping carts, luggage, and a \"bebe\" shopping bag amid yellow caution tape."
 geo:
 id: 24858
 item_type: Still Image

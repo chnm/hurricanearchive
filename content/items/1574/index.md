@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28456.jpg
     thumb: /files/thumbnails/14fb2a67c9b01f14fb2a67c9b2e0.jpg
     url: /files/original/14fb2a67c9b01f14fb2a67c9b2e0.jpg
+    alt:
+      en: "Damaged casino building with a partially collapsed facade reading \"CASINO,\" surrounded by twisted metal debris, exposed wiring, and tree branches in the foreground."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0104H.JPG
     thumb: /files/thumbnails/14fb29e740f33914fb29e740f713.jpg
     url: /files/original/14fb29e740f33914fb29e740f713.jpg
+    alt:
+      en: "A bald man in a \"Property Of\" t-shirt is on hands and feet in a plank-like pose, supporting two women in Hooters uniforms balanced on his back, all laughing under string lights at night."
 geo:
 id: 24494
 item_type: Still Image

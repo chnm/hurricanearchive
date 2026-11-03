@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea54fc9514fb29ea55007b.jpg
     url: /files/original/14fb29ea54fc9514fb29ea55007b.jpg
+    alt:
+      en: "A mobile home elevated on stilts stands behind a metal-roofed structure and chain-link fence, with floodwater visible on the ground and bare trees framing the scene."
 geo:
 id: 24133
 item_type: Still Image

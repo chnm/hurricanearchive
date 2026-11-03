@@ -20,6 +20,8 @@ files:
     original_filename: 114540125_de7b73995f.jpg
     thumb: /files/thumbnails/14fb29d1b160cd14fb29d1b164b0.jpg
     url: /files/original/14fb29d1b160cd14fb29d1b164b0.jpg
+    alt:
+      en: "Three framed waterfall photographs hang on a water-stained wall, the center one inscribed with the Serenity Prayer text in white script."
 geo:
 id: 28696
 item_type: Still Image

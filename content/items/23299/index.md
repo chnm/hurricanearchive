@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29f00b6c9814fb29f00b7035.jpg
     url: /files/original/14fb29f00b6c9814fb29f00b7035.jpg
+    alt:
+      en: "Collapsed structure with scattered wooden debris, twisted metal roofing, and household items including shoes and a blue sign, with an intact building visible in the background."
 geo:
 id: 23299
 item_type: Still Image

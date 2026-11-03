@@ -26,6 +26,8 @@ files:
     original_filename: 100_1549_1c0ed8a7e2.JPG
     thumb: /files/thumbnails/14fb2a6d4c9b0d14fb2a6d4c9ef3.jpg
     url: /files/original/14fb2a6d4c9b0d14fb2a6d4c9ef3.jpg
+    alt:
+      en: "A folded copy of The Times-Picayune newspaper dated Sunday, August 28, 2005, with the headline \"Katrina Takes Aim,\" lies on a cracked concrete surface amid scattered leaves."
 geo:
   address: ''
   lat: 30.444603967333098

@@ -23,6 +23,8 @@ files:
     original_filename: 1233804272_615ad2a6bd.jpg
     thumb: /files/thumbnails/14fb29cb31c63a14fb29cb31c9a1.jpg
     url: /files/original/14fb29cb31c63a14fb29cb31c9a1.jpg
+    alt:
+      en: "Weathered plywood wall with layers of peeling posters and gray paint overspray, yellow graffiti reading \"BAC,\" beside a wooden slatted building wall and overgrown grass."
 geo:
   address: ''
   lat: 41.8848

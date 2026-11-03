@@ -21,6 +21,8 @@ files:
     original_filename: S4300027zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f16a18514fb2a0f16e48d.jpg
     url: /files/original/14fb2a0f16a18514fb2a0f16e48d.jpg
+    alt:
+      en: "Military flatbed truck loaded with palletized water bottles and boxed supplies, parked in a lot near storm-damaged trees and buildings, with a stadium scoreboard visible in the background."
 geo:
 id: 19573
 item_type: Still Image

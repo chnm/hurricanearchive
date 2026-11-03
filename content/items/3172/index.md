@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (24).JPG
     thumb: /files/thumbnails/14fb2a5d76b7d214fb2a5d76bbb8.jpg
     url: /files/original/14fb2a5d76b7d214fb2a5d76bbb8.jpg
+    alt:
+      en: "A small boat rests on debris-covered ground in front of a damaged yellow house with boarded windows, a large tree trunk nearby, and a partially visible storefront sign reading \"RS\" to the left."
 geo:
 id: 3172
 item_type: Still Image

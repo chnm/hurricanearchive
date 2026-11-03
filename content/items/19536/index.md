@@ -21,6 +21,8 @@ files:
     original_filename: Picture 096engineers.jpg
     thumb: /files/thumbnails/14fb2a0f6333ea14fb2a0f6368b3.jpg
     url: /files/original/14fb2a0f6333ea14fb2a0f6368b3.jpg
+    alt:
+      en: "Black-and-white aerial reconnaissance photo of a dense urban grid near N Causeway Blvd and 17th Street, labeled \"#6 Chalmette Shopping Center, Jefferson Parish,\" dated 04 Sep 05."
 geo:
 id: 19536
 item_type: Still Image

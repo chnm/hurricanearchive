@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-11-10AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f96f419214fb29f970032e.jpg
     url: /files/original/14fb29f96f419214fb29f970032e.jpg
+    alt:
+      en: "White wood-frame building with a gabled roof and front porch, with a tall metal lattice antenna tower beside it under an overcast sky; a chimney is visible in the foreground."
 geo:
 id: 22131
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 2005_0116Image0006_46a2a56ae2.JPG
     thumb: /files/thumbnails/14fb2a7138f1f314fb2a7138f5f1.jpg
     url: /files/original/14fb2a7138f1f314fb2a7138f5f1.jpg
+    alt:
+      en: "A large white cabin cruiser boat sits stranded on grass beside a roadway, its canopy torn, with palm trees, a multistory building, and cloudy sky in the background."
 geo:
   address: ''
   lat: 29.984643

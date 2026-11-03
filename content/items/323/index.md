@@ -26,6 +26,8 @@ files:
     original_filename: 032_dance_stop_12e9642641.jpg
     thumb: /files/thumbnails/14fb2a703b615414fb2a703b6539.jpg
     url: /files/original/14fb2a703b615414fb2a703b6539.jpg
+    alt:
+      en: "Storm debris, including strips of metal siding or roofing, litters the sidewalk and street outside a brick storefront with a \"DANCE STOP Dance Centre\" sign at 101."
 geo:
   address: ''
   lat: 30.651656

@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9539.jpg
     thumb: /files/thumbnails/14fb2a64481a3c14fb2a64481e20.jpg
     url: /files/original/14fb2a64481a3c14fb2a64481e20.jpg
+    alt:
+      en: "Red brick church facade with a white stone cross above a striped awning over the entrance; the glass doors reveal the building's rear wall missing, exposing rubble and sky beyond."
 geo:
 id: 2603
 item_type: Still Image

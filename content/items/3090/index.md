@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (1).JPG
     thumb: /files/thumbnails/14fb2a5e15183714fb2a5e151c1a.jpg
     url: /files/original/14fb2a5e15183714fb2a5e151c1a.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with a nametag reading \"RANDALL\" sits at a desk using a keyboard and mouse, surrounded by laptops, printers, and stacks of paperwork in an office setting."
 geo:
 id: 3090
 item_type: Still Image

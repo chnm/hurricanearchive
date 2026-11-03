@@ -24,6 +24,8 @@ files:
     original_filename: P1010138.JPG
     thumb: /files/thumbnails/14fb2a5a1af2fe14fb2a5a1af6e4.jpg
     url: /files/original/14fb2a5a1af2fe14fb2a5a1af6e4.jpg
+    alt:
+      en: "Large, mature oak trees with sprawling branches arch over a sidewalk along a tree-lined street, with houses, parked cars, a utility pole, and a \"Bus Stop\" sign visible nearby."
 geo:
 id: 3695
 item_type: Still Image

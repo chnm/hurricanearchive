@@ -21,6 +21,8 @@ files:
     original_filename: Damaged Platform with an Oil Slick.jpg
     thumb: /files/thumbnails/14fb29fb66351514fb29fb6638fa.jpg
     url: /files/original/14fb29fb66351514fb29fb6638fa.jpg
+    alt:
+      en: "Aerial view of a damaged offshore platform with collapsed walkways and storage tanks surrounded by dark water, with an oil slick visible nearby."
 geo:
 id: 21841
 item_type: Still Image

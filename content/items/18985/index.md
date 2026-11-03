@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2147rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13dc550414fb2a13dc5ad2.jpg
     url: /files/original/14fb2a13dc550414fb2a13dc5ad2.jpg
+    alt:
+      en: "Aerial view of a shingled rooftop with two parallel cables running diagonally across it, and part of a person in camouflage clothing and a helmet visible at the top edge, likely from inside a rescue helicopter."
 geo:
 id: 18985
 item_type: Still Image

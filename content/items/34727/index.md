@@ -20,6 +20,8 @@ files:
     original_filename: 2420900451_429746eeac.
     thumb: /files/thumbnails/14fb29c929293214fb29c92934ec.jpg
     url: /files/original/14fb29c929293214fb29c92934ec.jpg
+    alt:
+      en: "Church sign reading \"Canal St. Presbyterian Church,\" with Bible verse Isaiah 43:2, worship time, and a phone number for assistance, set against a brick building and iron fence."
 geo:
   address: ''
   lat: 29.97632

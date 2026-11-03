@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0132abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef3866b714fb29ef386a92.jpg
     url: /files/original/14fb29ef3866b714fb29ef386a92.jpg
+    alt:
+      en: "A cluster of trees with sparse, discolored foliage stands in a dry field, with a wooden fence post and dead grasses in the foreground and partly cloudy blue sky above."
 geo:
 id: 23490
 item_type: Still Image

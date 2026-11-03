@@ -21,6 +21,8 @@ files:
     original_filename: 100_0108.JPG
     thumb: /files/thumbnails/14fb2a5961442e14fb2a59614813.jpg
     url: /files/original/14fb2a5961442e14fb2a59614813.jpg
+    alt:
+      en: "Two military helicopters sit on a grassy strip of land along a waterway, with a long low bridge visible in the hazy background and a boat mast crossing the foreground."
 geo:
 id: 3821
 item_type: Still Image

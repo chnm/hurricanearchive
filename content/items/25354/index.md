@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2081superdome.JPG
     thumb: /files/thumbnails/14fb29deb8d02f14fb29deb8d40a.jpg
     url: /files/original/14fb29deb8d02f14fb29deb8d40a.jpg
+    alt:
+      en: "Group of people in military and civilian clothing bent over together on a paved lot, with blurred industrial structures and greenery in the background."
 geo:
 id: 25354
 item_type: Still Image

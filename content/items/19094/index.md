@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 004.jpg
     thumb: /files/thumbnails/14fb2a1328db3b14fb2a1328e05a.jpg
     url: /files/original/14fb2a1328db3b14fb2a1328e05a.jpg
+    alt:
+      en: "A group of soldiers in camouflage uniforms, carrying rifles, stand together on a paved path near trees and grass, with a dark-colored car partially visible in the foreground."
 geo:
 id: 19094
 item_type: Still Image

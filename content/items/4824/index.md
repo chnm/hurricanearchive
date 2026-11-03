@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0139.JPG
     thumb: /files/thumbnails/14fb2a5545394414fb2a55453d30.jpg
     url: /files/original/14fb2a5545394414fb2a55453d30.jpg
+    alt:
+      en: "Storm debris covers a damaged roof, with fallen trees, dried pine needles, scattered branches, and a blue plastic container amid the wreckage."
 geo:
 id: 4824
 item_type: Still Image

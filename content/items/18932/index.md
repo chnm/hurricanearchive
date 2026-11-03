@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0282downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1423f97c14fb2a1423fd64.jpg
     url: /files/original/14fb2a1423f97c14fb2a1423fd64.jpg
+    alt:
+      en: "Aerial view of a large stadium-like building with extensive roof damage exposing sections of the structure, surrounded by debris on the ground and green fields nearby."
 geo:
 id: 18932
 item_type: Still Image

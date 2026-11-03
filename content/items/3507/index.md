@@ -24,6 +24,8 @@ files:
     original_filename: P1010081.JPG
     thumb: /files/thumbnails/14fb2a5b476f4114fb2a5b477325.jpg
     url: /files/original/14fb2a5b476f4114fb2a5b477325.jpg
+    alt:
+      en: "Large two-story colonnaded building with dormer windows and a chimney, surrounded by storm-damaged trees, fallen branches, and a trash receptacle labeled \"Clean Team\" in the foreground."
 geo:
 id: 3507
 item_type: Still Image

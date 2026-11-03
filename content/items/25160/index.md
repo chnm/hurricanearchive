@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1770superdome.JPG
     thumb: /files/thumbnails/14fb29e1b0be9e14fb29e1b0c287.jpg
     url: /files/original/14fb29e1b0be9e14fb29e1b0c287.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather near a tan tent structure behind a red cordon tape, with a multi-story building visible in the background under a hazy sky."
 geo:
 id: 25160
 item_type: Still Image

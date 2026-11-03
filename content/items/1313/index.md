@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28045.jpg
     thumb: /files/thumbnails/14fb2a69bcf20814fb2a69bcf5ee.jpg
     url: /files/original/14fb2a69bcf20814fb2a69bcf5ee.jpg
+    alt:
+      en: "Single-story white building with a row of windows, showing a distinct horizontal high-water stain line across the exterior wall from flooding."
 geo:
   address: ''
   lat: 0.0

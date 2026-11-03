@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033.JPG
     thumb: /files/thumbnails/14fb2a00f735c514fb2a00f739bb.jpg
     url: /files/original/14fb2a00f735c514fb2a00f739bb.jpg
+    alt:
+      en: "A military Black Hawk helicopter sits on a grassy field in front of bleachers and a press box labeled \"Newman Michael Lupin Field.\""
 geo:
 id: 21043
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0158.JPG
     thumb: /files/thumbnails/14fb2a592c57da14fb2a592c5bb9.jpg
     url: /files/original/14fb2a592c57da14fb2a592c5bb9.jpg
+    alt:
+      en: "A flooded residential street lined with trees and a white house, with a small boat carrying two people navigating the water in the distance."
 geo:
 id: 3865
 item_type: Still Image

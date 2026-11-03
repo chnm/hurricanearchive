@@ -24,6 +24,8 @@ files:
     original_filename: P1010012.JPG
     thumb: /files/thumbnails/14fb2a5bae756014fb2a5bae7946.jpg
     url: /files/original/14fb2a5bae756014fb2a5bae7946.jpg
+    alt:
+      en: "A paved road curves past a grassy, debris-strewn slope with a stop sign, scattered storm wreckage, trees, and small guardhouse-like structures near a levee entrance."
 geo:
 id: 3445
 item_type: Still Image

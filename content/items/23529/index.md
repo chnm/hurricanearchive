@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0165abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef1854fc14fb29ef1858db.jpg
     url: /files/original/14fb29ef1854fc14fb29ef1858db.jpg
+    alt:
+      en: "A pickup truck lies overturned on its side amid storm debris, with dried grass and branches tangled in its undercarriage, surrounded by scattered wreckage and bare trees."
 geo:
 id: 23529
 item_type: Still Image

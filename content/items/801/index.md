@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27878.jpg
     thumb: /files/thumbnails/14fb2a6cf0625214fb2a6cf0a295.jpg
     url: /files/original/14fb2a6cf0625214fb2a6cf0a295.jpg
+    alt:
+      en: "A large uprooted oak tree lies collapsed across a white mobile home, crushing its roof; spray-painted \"DANGER KEEP OUT\" warning marks the exterior wall near the door."
 geo:
   address: ''
   lat: 0.0

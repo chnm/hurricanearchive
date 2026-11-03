@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1029Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f906145b14fb29f9061836.jpg
     url: /files/original/14fb29f906145b14fb29f9061836.jpg
+    alt:
+      en: "Close-up of a military vehicle's grille and headlights in the foreground, with a U.S. Army Black Hawk helicopter parked on a grassy lawn beside a paved path in the background."
 geo:
 id: 22222
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 066engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa07b2d14fb2a0fa07f12.jpg
     url: /files/original/14fb2a0fa07b2d14fb2a0fa07f12.jpg
+    alt:
+      en: "Aerial view of a drawbridge (identified as Galliano Bridge) with its span raised over a waterway, showing the control house, lift towers, and roadway approaches with a few vehicles nearby."
 geo:
 id: 19506
 item_type: Still Image

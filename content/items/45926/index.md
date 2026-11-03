@@ -20,6 +20,8 @@ files:
     original_filename: tumblr_ld1ur4PeCw1qahclpo1_500.jpg
     thumb: /files/thumbnails/d8a71fb7952416a606ce2982fe7a1a8d.jpg
     url: /files/original/d8a71fb7952416a606ce2982fe7a1a8d.jpg
+    alt:
+      en: "A weathered single-story house with blue trim and support posts, boarded windows, red spray-painted markings on the porch wall, and a small figure standing near the front steps under a dark, cloudy sky."
 geo:
 id: 45926
 item_type: Still Image

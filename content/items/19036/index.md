@@ -21,6 +21,8 @@ files:
     original_filename: 527chinookPicture3.png
     thumb: /files/thumbnails/14fb2a138c928614fb2a138c970e.jpg
     url: /files/original/14fb2a138c928614fb2a138c970e.jpg
+    alt:
+      en: "Six soldiers in camouflage uniforms, some wearing sunglasses and berets and carrying rifles, pose in front of a military helicopter on a tarmac."
 geo:
 id: 19036
 item_type: Still Image

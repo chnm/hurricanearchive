@@ -21,6 +21,8 @@ files:
     original_filename: aerials127.jpg
     thumb: /files/thumbnails/14fb2a1a2837b114fb2a1a283f7e.jpg
     url: /files/original/14fb2a1a2837b114fb2a1a283f7e.jpg
+    alt:
+      en: "Aerial view of a dense debris field of splintered lumber and wreckage covering a cleared area, surrounded by trees with a small patch of standing woods at the center."
 geo:
 id: 14287
 item_type: Still Image

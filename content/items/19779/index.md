@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 166cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd63ed514fb2a0dd642bb.jpg
     url: /files/original/14fb2a0dd63ed514fb2a0dd642bb.jpg
+    alt:
+      en: "People in military camouflage uniforms and civilian clothing sit and stand in the open bed of a large military transport truck, viewed from behind with another uniformed person standing on the ground nearby."
 geo:
 id: 19779
 item_type: Still Image

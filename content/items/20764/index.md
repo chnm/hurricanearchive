@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0073-9-25.JPG
     thumb: /files/thumbnails/14fb2a040ca35414fb2a040cbbf0.jpg
     url: /files/original/14fb2a040ca35414fb2a040cbbf0.jpg
+    alt:
+      en: "Aerial view of a flooded coastal road and neighborhood, with damaged rooftops, downed trees, scattered debris, and boats washed ashore amid standing floodwater."
 geo:
 id: 20764
 item_type: Still Image

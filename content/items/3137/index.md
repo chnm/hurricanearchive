@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (4).JPG
     thumb: /files/thumbnails/14fb2a5dc2dae114fb2a5dc2e6a6.jpg
     url: /files/original/14fb2a5dc2dae114fb2a5dc2e6a6.jpg
+    alt:
+      en: "Piles of discarded household debris—furniture, mattresses, appliances, and carpeting—line a residential street beneath large trees, with brick homes visible in the background."
 geo:
 id: 3137
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0065-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a044b4b1114fb2a044b4ef1.jpg
     url: /files/original/14fb2a044b4b1114fb2a044b4ef1.jpg
+    alt:
+      en: "A man in military camouflage uniform and sunglasses stands beside a large truck, holding a chain and lighting a cigarette, with a residential street showing storm debris and damaged homes in the background."
 geo:
 id: 20724
 item_type: Still Image

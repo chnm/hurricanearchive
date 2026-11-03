@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 018cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ea31a0914fb2a0ea31df0.jpg
     url: /files/original/14fb2a0ea31a0914fb2a0ea31df0.jpg
+    alt:
+      en: "Military personnel and a civilian stand near a large olive-drab tent displaying an Oregon state flag, with small utility vehicles and wooden shipping crates in the foreground."
 geo:
 id: 19631
 item_type: Still Image

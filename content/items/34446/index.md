@@ -23,6 +23,8 @@ files:
     original_filename: 2326888106_d00b58d771.
     thumb: /files/thumbnails/14fb29c9fd81af14fb29c9fd8596.jpg
     url: /files/original/14fb29c9fd81af14fb29c9fd8596.jpg
+    alt:
+      en: "Debris-strewn ground covered in broken wood planks and splintered boards, with bare, storm-damaged trees and a partially intact house raised on pilings in the background under an overcast sky."
 geo:
   address: ''
   lat: 30.22586

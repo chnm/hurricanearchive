@@ -21,6 +21,8 @@ files:
     original_filename: FWills-2_16bdbab943.jpg
     thumb: /files/thumbnails/14fb2a16ce7f6714fb2a16ce834d.jpg
     url: /files/original/14fb2a16ce7f6714fb2a16ce834d.jpg
+    alt:
+      en: "Heavily water-damaged circa 1900 portrait photograph of a mustached man wearing a peaked cap with insignia and a dark uniform with white collar, his face obscured by mold and staining."
 geo:
 id: 15160
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC00993.JPG
     thumb: /files/thumbnails/14fb2a58c045f014fb2a58c049d5.jpg
     url: /files/original/14fb2a58c045f014fb2a58c049d5.jpg
+    alt:
+      en: "Group of U.S. Coast Guard personnel in uniforms and caps, one wearing a bulletproof vest, standing outside a brick building while speaking with two civilian men; timestamp \"3:55 PM\" overlaid in corner."
 geo:
 id: 3957
 item_type: Still Image

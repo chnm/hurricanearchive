@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6517_9e930a153c.jpg
     thumb: /files/thumbnails/14fb29d3ad879114fb29d3ad8b74.jpg
     url: /files/original/14fb29d3ad879114fb29d3ad8b74.jpg
+    alt:
+      en: "Two young women, one in a white dress and one in a pink dress, stand at a table lighting a unity candle flanked by silver candlesticks, with wedding décor and a curtained window behind them."
 geo:
   address: ''
   lat: 29.68805

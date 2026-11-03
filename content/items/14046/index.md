@@ -21,6 +21,8 @@ files:
     original_filename: 20050928026.JPG
     thumb: /files/thumbnails/14fb2a1c09f01914fb2a1c09f3fe.jpg
     url: /files/original/14fb2a1c09f01914fb2a1c09f3fe.jpg
+    alt:
+      en: "Chain-link fence with debris caught in the mesh, overlooking a damaged lot with scattered metal sheeting, a partially visible vehicle, and trees in the background."
 geo:
   address: ''
   lat: 0.0

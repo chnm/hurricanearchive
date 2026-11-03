@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.050.JPG
     thumb: /files/thumbnails/14fb29dcf8303514fb29dcf83410.jpg
     url: /files/original/14fb29dcf8303514fb29dcf83410.jpg
+    alt:
+      en: "Hand-painted cardboard sign with a skull-and-crossbones graphic reading \"MOLD Threatens Your Health\" and \"Keep Yourself Safe,\" listing mold hazards and safety tips like wearing a Tyvek suit and contacting \"Jennie\" before entering contaminated areas."
 geo:
 id: 25631
 item_type: Still Image

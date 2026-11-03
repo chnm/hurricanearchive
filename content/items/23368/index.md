@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0072abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efc83b6814fb29efc83f4d.jpg
     url: /files/original/14fb29efc83b6814fb29efc83f4d.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand on a roadway near a skid-steer loader, one talking on a radio, with pickup trucks, power lines, and a suspended traffic light in the background."
 geo:
 id: 23368
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2420877211_cf8a35c6bc.
     thumb: /files/thumbnails/14fb29c90ccc8a14fb29c90cd06f.jpg
     url: /files/original/14fb29c90ccc8a14fb29c90cd06f.jpg
+    alt:
+      en: "A weathered pale green wooden door with paned glass windows, set in a wood-sided building, with peeling paint and visible trees and another window through the glass panes."
 geo:
 id: 34737
 item_type: Still Image

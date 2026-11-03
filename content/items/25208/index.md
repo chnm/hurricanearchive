@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1907superdome.JPG
     thumb: /files/thumbnails/14fb29e0de0c2514fb29e0de51cc.jpg
     url: /files/original/14fb29e0de0c2514fb29e0de51cc.jpg
+    alt:
+      en: "A U.S. Army medical evacuation helicopter marked \"2431\" with red cross symbols hovers low over a parking lot, with soldiers visible inside and one seated on the landing skid; bottled water pallets sit nearby."
 geo:
 id: 25208
 item_type: Still Image

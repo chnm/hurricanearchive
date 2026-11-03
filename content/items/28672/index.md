@@ -23,6 +23,8 @@ files:
     original_filename: 157448563_50579556ed.jpg
     thumb: /files/thumbnails/14fb29d1cd3bc514fb29d1cd41c8.jpg
     url: /files/original/14fb29d1cd3bc514fb29d1cd41c8.jpg
+    alt:
+      en: "A white duplex house with two dark doors and arched windows, spray-painted with search-and-rescue markings and messages including \"2 dogs trapped in backyard\" and profanity."
 geo:
 id: 28672
 item_type: Still Image

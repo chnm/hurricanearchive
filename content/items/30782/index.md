@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7683.JPG
     thumb: /files/thumbnails/14fb29cc7ea17314fb29cc7ea563.jpg
     url: /files/original/14fb29cc7ea17314fb29cc7ea563.jpg
+    alt:
+      en: "A yellow tracked excavator with a grapple/claw attachment grips a cut log beneath large leaning oak trees, with cleared ground and dense brush in the background."
 geo:
 id: 30782
 item_type: Still Image

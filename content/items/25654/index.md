@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.118.JPG
     thumb: /files/thumbnails/14fb29dce2f62e14fb29dce2f9af.jpg
     url: /files/original/14fb29dce2f62e14fb29dce2f9af.jpg
+    alt:
+      en: "A stuffed Donald Duck, dog, and Minnie Mouse toy perch atop a black mailbox numbered 7234, beneath a red-and-white \"POSTED Private Property\" no-trespassing sign on a stucco wall."
 geo:
 id: 25654
 item_type: Still Image

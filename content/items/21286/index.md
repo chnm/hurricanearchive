@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0217-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffa2162614fb29ffa21a12.jpg
     url: /files/original/14fb29ffa2162614fb29ffa21a12.jpg
+    alt:
+      en: "Aerial view of a residential area with two intact houses, a skeletal frame of a structure stripped of walls, and a scattered debris pile from a collapsed building, surrounded by green lawns and roads."
 geo:
 id: 21286
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28395.jpg
     thumb: /files/thumbnails/14fb2a6cc0109714fb2a6cc01435.jpg
     url: /files/original/14fb2a6cc0109714fb2a6cc01435.jpg
+    alt:
+      en: "Two men shake hands on a shrimp boat deck draped with green netting, one holding a round cardboard timing device and stainless steel fish release used in shrimp nets."
 geo:
   address: ''
   lat: 0.0

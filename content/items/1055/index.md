@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28505.jpg
     thumb: /files/thumbnails/14fb2a6b412e2714fb2a6b41359a.jpg
     url: /files/original/14fb2a6b412e2714fb2a6b41359a.jpg
+    alt:
+      en: "A man wearing a cap, glasses, and a protective face mask inspects a heavily mold-covered wall and window with tattered curtains and blinds in a storm-damaged room."
 geo:
   address: ''
   lat: 0.0

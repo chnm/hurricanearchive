@@ -24,6 +24,8 @@ files:
     original_filename: P1010014.JPG
     thumb: /files/thumbnails/14fb2a5bac2f8114fb2a5bac3364.jpg
     url: /files/original/14fb2a5bac2f8114fb2a5bac3364.jpg
+    alt:
+      en: "A large uprooted tree trunk lies on a suburban lawn, while a nearby house's roof is partially covered with blue tarps, with another damaged, leaning tree visible in the background."
 geo:
 id: 3448
 item_type: Still Image

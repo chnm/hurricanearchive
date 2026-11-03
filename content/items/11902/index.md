@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 024.jpg
     thumb: /files/thumbnails/14fb2a22c5445f14fb2a22c54846.jpg
     url: /files/original/14fb2a22c5445f14fb2a22c54846.jpg
+    alt:
+      en: "Damaged storefront sign with broken letters (\"P\" and \"U\" visible) above a row of portable storage/office units and a generator trailer in a mostly empty parking lot, dated 2005/09/24."
 geo:
 id: 11902
 item_type: Still Image

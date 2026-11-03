@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 035.jpg
     thumb: /files/thumbnails/14fb2a226c9bdb14fb2a226c9fc0.jpg
     url: /files/original/14fb2a226c9bdb14fb2a226c9fc0.jpg
+    alt:
+      en: "A boat lies wedged upright among debris and snapped pine trees along a roadside, with scattered wood planks, insulation, and torn plastic strewn across the storm-damaged ground."
 geo:
 id: 11987
 item_type: Still Image

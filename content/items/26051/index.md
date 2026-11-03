@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6967_bf0e770260.jpg
     thumb: /files/thumbnails/14fb29db85804714fb29db85842d.jpg
     url: /files/original/14fb29db85804714fb29db85842d.jpg
+    alt:
+      en: "A person wearing a white head covering and a robe decorated with religious imagery, including a figure with a radiant halo, text, and symbolic illustrations, stands amid construction debris and wooden beams."
 geo:
   address: ''
   lat: 29.91685

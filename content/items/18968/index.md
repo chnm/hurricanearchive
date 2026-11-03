@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2130rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13ee749314fb2a13ee7881.jpg
     url: /files/original/14fb2a13ee749314fb2a13ee7881.jpg
+    alt:
+      en: "A helicopter crew member in camouflage uniform and flight helmet looks out an open door toward floodwaters below, with a rescue hoist and harness hanging beside submerged houses and cars."
 geo:
 id: 18968
 item_type: Still Image

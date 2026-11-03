@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0062engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a1056af9d14fb2a1056b400.jpg
     url: /files/original/14fb2a1056af9d14fb2a1056b400.jpg
+    alt:
+      en: "A broken bridge span over water, with orange and white barricades marking the damaged section, as a man with a radio stands in foreground and uniformed personnel confer nearby."
 geo:
 id: 19419
 item_type: Still Image

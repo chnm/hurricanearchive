@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0086-9-25.JPG
     thumb: /files/thumbnails/14fb2a0377c32b14fb2a0377c98a.jpg
     url: /files/original/14fb2a0377c32b14fb2a0377c98a.jpg
+    alt:
+      en: "Aerial view of a flood-damaged coastal property with a two-story white house still standing amid scattered debris, while an adjacent slab-foundation home has been completely washed away, leaving only its concrete pad in the floodwaters beyond the road."
 geo:
 id: 20824
 item_type: Still Image

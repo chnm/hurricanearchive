@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2202superdome.JPG
     thumb: /files/thumbnails/14fb29e45236b114fb29e4523a8a.jpg
     url: /files/original/14fb29e45236b114fb29e4523a8a.jpg
+    alt:
+      en: "A man in camouflage military gear and a hydration backpack lifts a shrink-wrapped pack of bottled water from a large stack of similar water packs on a dark, wet floor."
 geo:
 id: 24862
 item_type: Still Image

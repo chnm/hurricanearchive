@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28102.jpg
     thumb: /files/thumbnails/14fb2a6cc78de714fb2a6cc791cc.jpg
     url: /files/original/14fb2a6cc78de714fb2a6cc791cc.jpg
+    alt:
+      en: "Billboards atop a structure show a Coca-Cola advertisement, a \"Showcase Showdown\" promotion, and a Harrah's New Orleans sign, with \"Superdome\" lettering visible below."
 geo:
   address: ''
   lat: 0.0

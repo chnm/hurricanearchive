@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (64).JPG
     thumb: /files/thumbnails/14fb2a5d5189ea14fb2a5d518ddb.jpg
     url: /files/original/14fb2a5d5189ea14fb2a5d518ddb.jpg
+    alt:
+      en: "Interior of a damaged building strewn with debris, including a large overturned appliance, cardboard boxes, broken furniture, and scattered wood, with exposed brick and rotted walls."
 geo:
 id: 3216
 item_type: Still Image

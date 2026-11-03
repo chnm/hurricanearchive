@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28066.jpg
     thumb: /files/thumbnails/14fb2a69e06fbd14fb2a69e08185.jpg
     url: /files/original/14fb2a69e06fbd14fb2a69e08185.jpg
+    alt:
+      en: "A wrecked boat hull lies overturned amid storm debris, with houses and trees visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

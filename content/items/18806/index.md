@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036grandisle.JPG
     thumb: /files/thumbnails/14fb2a1531f50f14fb2a1531f8e7.jpg
     url: /files/original/14fb2a1531f50f14fb2a1531f8e7.jpg
+    alt:
+      en: "Aerial view of a coastal shoreline showing scattered debris and piles of lumber across sandy and grassy areas, with several surviving stilt houses standing amid the wreckage near the ocean."
 geo:
 id: 18806
 item_type: Still Image

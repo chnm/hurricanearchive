@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0251downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1490f19c14fb2a1490f586.jpg
     url: /files/original/14fb2a1490f19c14fb2a1490f586.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood, with debris-covered streets, stripped trees, and homes missing roofs or partially collapsed, stretching toward a hazy horizon with a river and industrial structures."
 geo:
 id: 18901
 item_type: Still Image

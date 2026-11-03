@@ -24,6 +24,8 @@ files:
     original_filename: P1010058.JPG
     thumb: /files/thumbnails/14fb2a5b86751b14fb2a5b867900.jpg
     url: /files/original/14fb2a5b86751b14fb2a5b867900.jpg
+    alt:
+      en: "A dense tangle of bare, broken tree branches blocks the foreground, obscuring the entrance to a damaged house with a red tile roof and a dark, open doorway."
 geo:
 id: 3484
 item_type: Still Image

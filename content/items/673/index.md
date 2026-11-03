@@ -26,6 +26,8 @@ files:
     original_filename: AF008301_bbc52461b7.JPG
     thumb: /files/thumbnails/14fb2a6f2d501d14fb2a6f2d5403.jpg
     url: /files/original/14fb2a6f2d501d14fb2a6f2d5403.jpg
+    alt:
+      en: "A single-story house with boarded-up windows and a front porch with white columns, surrounded by a dead, debris-strewn lawn and a small stone bench in the yard."
 geo:
   address: ''
   lat: 29.9419104756455

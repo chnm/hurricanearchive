@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1278Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6750c2f14fb29f6750ee3.jpg
     url: /files/original/14fb29f6750c2f14fb29f6750ee3.jpg
+    alt:
+      en: "A man in camouflage military fatigues floats in murky floodwater, wearing inflated yellow flotation devices and goggles pushed up on his forehead."
 geo:
 id: 22437
 item_type: Still Image

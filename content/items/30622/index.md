@@ -27,6 +27,8 @@ files:
     original_filename: downtownparking_0451e8cb4f.JPG
     thumb: /files/thumbnails/14fb29ccd2a67614fb29ccd2aa4c.jpg
     url: /files/original/14fb29ccd2a67614fb29ccd2aa4c.jpg
+    alt:
+      en: "Holiday Inn high-rise with a large clarinet mural on its facade; military Humvees and jeeps are parked on the street below near a sign reading \"Downtown Parking.\""
 geo:
   address: ''
   lat: 0.0

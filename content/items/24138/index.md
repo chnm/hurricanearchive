@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea5137f114fb29ea513bd6.jpg
     url: /files/original/14fb29ea5137f114fb29ea513bd6.jpg
+    alt:
+      en: "A single-story white house with a metal roof and dark shutters sits surrounded by floodwater, with a pickup truck partially submerged nearby and power lines overhead under a cloudy sky."
 geo:
 id: 24138
 item_type: Still Image

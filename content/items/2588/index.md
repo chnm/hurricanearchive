@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9317.jpg
     thumb: /files/thumbnails/14fb2a6482e6e014fb2a6482ed93.jpg
     url: /files/original/14fb2a6482e6e014fb2a6482ed93.jpg
+    alt:
+      en: "A mud-caked, broken violin body with visible f-holes lies on a debris-covered floor beside a weathered wooden spinning top with pink and purple paint."
 geo:
 id: 2588
 item_type: Still Image

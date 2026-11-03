@@ -21,6 +21,8 @@ files:
     original_filename: 1_ccee13de0d.jpg
     thumb: /files/thumbnails/14fb29c62cc0d114fb29c62cc4d8.jpg
     url: /files/original/14fb29c62cc0d114fb29c62cc4d8.jpg
+    alt:
+      en: "Interior of the Saturn Bar packed with eclectic decor, including paintings lining a balcony railing, hanging glass lamps, trophies, photos, and assorted bric-a-brac crowding the shelves below."
 geo:
   address: 3067 Saint Claude Ave, New Orleans, LA
   lat: 29.96784

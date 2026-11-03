@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011.JPG
     thumb: /files/thumbnails/14fb2a07e9e31714fb2a07e9e6fd.jpg
     url: /files/original/14fb2a07e9e31714fb2a07e9e6fd.jpg
+    alt:
+      en: "A man in military camouflage uniform sits beside a man wearing a white cap and red \"México\" t-shirt typing on a laptop, at a table with papers, a pen, and a folder in an office-like room."
 geo:
 id: 20409
 item_type: Still Image

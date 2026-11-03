@@ -21,6 +21,8 @@ files:
     original_filename: Picture 219cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b2e249d14fb2a0b2e2883.jpg
     url: /files/original/14fb2a0b2e249d14fb2a0b2e2883.jpg
+    alt:
+      en: "A residential street lined with large oak trees and hedges, with piles of storm debris and fallen leaves along the roadside; a military-style truck is parked ahead on the pavement."
 geo:
 id: 20122
 item_type: Still Image

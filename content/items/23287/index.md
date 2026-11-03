@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29f01cc3de14fb29f01cca9f.jpg
     url: /files/original/14fb29f01cc3de14fb29f01cca9f.jpg
+    alt:
+      en: "Aerial view of a flooded marsh landscape with a displaced, storm-damaged house resting amid the wetland grasses near the water's edge."
 geo:
 id: 23287
 item_type: Still Image

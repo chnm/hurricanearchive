@@ -21,6 +21,8 @@ files:
     original_filename: J2 (12).JPG
     thumb: /files/thumbnails/14fb2a11515f2a14fb2a1151630f.jpg
     url: /files/original/14fb2a11515f2a14fb2a1151630f.jpg
+    alt:
+      en: "A dusty dark-colored Chevrolet pickup truck with a Washington D.C. license plate reading \"GA244708\" is parked on grass, with a brick building and bare trees visible in the background."
 geo:
 id: 19292
 item_type: Still Image

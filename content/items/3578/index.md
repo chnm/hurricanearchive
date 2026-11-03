@@ -24,6 +24,8 @@ files:
     original_filename: P1010005.JPG
     thumb: /files/thumbnails/14fb2a5abc23e914fb2a5abc27cf.jpg
     url: /files/original/14fb2a5abc23e914fb2a5abc27cf.jpg
+    alt:
+      en: "Interior of a refrigerator filled with spoiled food, moldy containers, bottles, cans, and an egg carton, all covered in dirt, grime, and flies after storm damage."
 geo:
 id: 3578
 item_type: Still Image

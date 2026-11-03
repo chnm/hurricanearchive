@@ -21,6 +21,8 @@ files:
     original_filename: 09180025plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec40070a14fb29ec400ae7.jpg
     url: /files/original/14fb29ec40070a14fb29ec400ae7.jpg
+    alt:
+      en: "A pickup truck sits nearly submerged in floodwater, with only its cab and bed visible, surrounded by debris and a tree-lined, trash-strewn bank in the background."
 geo:
 id: 23955
 item_type: Still Image

@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BZA_33f517242b.jpg
     thumb: /files/thumbnails/14fb2a66b4912b14fb2a66b4947e.jpg
     url: /files/original/14fb2a66b4912b14fb2a66b4947e.jpg
+    alt:
+      en: "Aerial view of a Coast Guard rescue swimmer in a red suit and helmet assisting an elderly man and woman in floodwaters, with a wooden fence and plank debris nearby."
 geo:
 id: 2402
 item_type: Still Image

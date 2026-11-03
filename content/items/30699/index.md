@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7396.JPG
     thumb: /files/thumbnails/14fb29cccd512114fb29cccd5508.jpg
     url: /files/original/14fb29cccd512114fb29cccd5508.jpg
+    alt:
+      en: "Large tree with a mix of green and bare, storm-damaged branches looms over the edge of a dark-shingled roof against a clear blue sky."
 geo:
 id: 30699
 item_type: Still Image

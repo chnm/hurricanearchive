@@ -21,6 +21,8 @@ files:
     original_filename: sc0230b255_3fda3ee2e3.jpg
     thumb: /files/thumbnails/14fb29c282c0ac14fb29c282c48f.jpg
     url: /files/original/14fb29c282c0ac14fb29c282c48f.jpg
+    alt:
+      en: "Vintage Polaroid-style photo of a smiling woman and an older man seated together at a restaurant table, each raising a glass in a toast, with place settings and glassware visible before them."
 geo:
   address: ''
   lat: 0.0

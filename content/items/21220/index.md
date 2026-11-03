@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0200-21.JPG
     thumb: /files/thumbnails/14fb29fff2339614fb29fff2377b.jpg
     url: /files/original/14fb29fff2339614fb29fff2377b.jpg
+    alt:
+      en: "Three military personnel in camouflage uniforms stand conversing beside a military Humvee parked near a residential building, with an American flag patch visible on one soldier's sleeve."
 geo:
 id: 21220
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 337-J2.jpg
     thumb: /files/thumbnails/14fb29fa2ba52214fb29fa2ba907.jpg
     url: /files/original/14fb29fa2ba52214fb29fa2ba907.jpg
+    alt:
+      en: "A red pickup truck parked on a grassy lot near a toppled stop sign and discarded appliance, with damaged houses and utility poles in the background under a partly cloudy sky."
 geo:
 id: 22006
 item_type: Still Image

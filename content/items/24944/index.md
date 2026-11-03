@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1455superdome.JPG
     thumb: /files/thumbnails/14fb29e3a8915014fb29e3a8952c.jpg
     url: /files/original/14fb29e3a8915014fb29e3a8952c.jpg
+    alt:
+      en: "Military cargo truck with soldiers riding in back drives through floodwater beneath an overpass, with a blue bus and parked cars visible nearby."
 geo:
 id: 24944
 item_type: Still Image

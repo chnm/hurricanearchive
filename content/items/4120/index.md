@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0006.JPG
     thumb: /files/thumbnails/14fb2a57a1601e14fb2a57a16404.jpg
     url: /files/original/14fb2a57a1601e14fb2a57a16404.jpg
+    alt:
+      en: "A rusted, grounded fishing boat with a white cabin rests amid dry grass and trees beyond a rocky shoreline, with a \"Warning Do Not Anchor Or Dredge\" sign posted nearby."
 geo:
 id: 4120
 item_type: Still Image

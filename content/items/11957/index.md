@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 004.jpg
     thumb: /files/thumbnails/14fb2a228ce85914fb2a228cec31.jpg
     url: /files/original/14fb2a228ce85914fb2a228cec31.jpg
+    alt:
+      en: "Storm debris piles along a roadside, including broken furniture, lumber, and household items, with damaged trees and a partially collapsed building in the background."
 geo:
 id: 11957
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0142-9-18.JPG
     thumb: /files/thumbnails/14fb2a09ce73e514fb2a09ce77c9.jpg
     url: /files/original/14fb2a09ce73e514fb2a09ce77c9.jpg
+    alt:
+      en: "A uniformed service member in camouflage, wearing a U.S. flag patch, crouches amid large slabs of broken concrete and twisted rebar, with a dog nearby in the rubble."
 geo:
 id: 20295
 item_type: Still Image

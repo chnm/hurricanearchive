@@ -21,6 +21,8 @@ files:
     original_filename: MVC-022S.JPG
     thumb: /files/thumbnails/14fb2a5f8d536314fb2a5f8d55cc.jpg
     url: /files/original/14fb2a5f8d536314fb2a5f8d55cc.jpg
+    alt:
+      en: "Interior of a storage area or vehicle with stacked gray rectangular boxes or cases arranged in rows, under a riveted metal ceiling with a vent and hanging fabric."
 geo:
 id: 2933
 item_type: Still Image

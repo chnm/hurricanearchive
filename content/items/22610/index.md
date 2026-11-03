@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0574Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f50d74fd14fb29f50d78e4.jpg
     url: /files/original/14fb29f50d74fd14fb29f50d78e4.jpg
+    alt:
+      en: "Floodwaters surround a multi-story residential building, submerging a children's plastic playset and a lamppost, with floating debris near shrubs along the waterline."
 geo:
 id: 22610
 item_type: Still Image

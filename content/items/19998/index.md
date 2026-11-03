@@ -21,6 +21,8 @@ files:
     original_filename: Picture 095cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bc526aa14fb2a0bc52a90.jpg
     url: /files/original/14fb2a0bc526aa14fb2a0bc52a90.jpg
+    alt:
+      en: "A boat sits stranded on a guardrail along a debris-strewn street, with a military Humvee parked nearby and power lines and damaged buildings in the background."
 geo:
 id: 19998
 item_type: Still Image

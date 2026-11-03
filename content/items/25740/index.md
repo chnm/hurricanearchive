@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-17KPlate70's_221b6388ce.jpg
     thumb: /files/thumbnails/14fb29dc817a1114fb29dc817efb.jpg
     url: /files/original/14fb29dc817a1114fb29dc817efb.jpg
+    alt:
+      en: "Water-damaged and peeling vintage color photograph of a toddler with curly hair, wearing a white ruffled dress and white socks, seated on a wicker chair outdoors."
 geo:
 id: 25740
 item_type: Still Image

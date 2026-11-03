@@ -20,6 +20,8 @@ files:
     original_filename: 2298629654_441780d17c.
     thumb: /files/thumbnails/14fb29c7d30d8c14fb29c7d31447.jpg
     url: /files/original/14fb29c7d30d8c14fb29c7d31447.jpg
+    alt:
+      en: "Group of people unloading bicycles from a large cargo truck or shipping container, with several men inside passing bikes down to others on the ground, one wearing a shirt reading \"Schwegmann.\""
 geo:
 id: 34997
 item_type: Still Image

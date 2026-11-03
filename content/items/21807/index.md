@@ -21,6 +21,8 @@ files:
     original_filename: katrina 077.jpg
     thumb: /files/thumbnails/14fb29fb86a46814fb29fb86a847.jpg
     url: /files/original/14fb29fb86a46814fb29fb86a847.jpg
+    alt:
+      en: "Large domed stadium with a damaged roof section exposing its underlying structure, viewed from an elevated highway with a parked car, pedestrians, and pine trees in the foreground."
 geo:
 id: 21807
 item_type: Still Image

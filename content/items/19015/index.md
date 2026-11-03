@@ -21,6 +21,8 @@ files:
     original_filename: Picture 094satellite.jpg
     thumb: /files/thumbnails/14fb2a13a842ae14fb2a13a847a6.jpg
     url: /files/original/14fb2a13a842ae14fb2a13a847a6.jpg
+    alt:
+      en: "Aerial reconnaissance photo near UNO and Lakefront Arena in Orleans Parish, showing flooded streets including Waldor Dr and Leon C. Simon Dr, dated 04 Sep 05, marked UNCLASSIFIED."
 geo:
 id: 19015
 item_type: Still Image

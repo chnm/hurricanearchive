@@ -24,6 +24,8 @@ files:
     original_filename: P1010036.JPG
     thumb: /files/thumbnails/14fb2a5aa518c514fb2a5aa51ca3.jpg
     url: /files/original/14fb2a5aa518c514fb2a5aa51ca3.jpg
+    alt:
+      en: "Close-up of an embossed metal relief panel depicting a biblical Last Supper-style scene with robed figures, partially covered in mud and dried leaves, framed by ornate decorative molding."
 geo:
 id: 3605
 item_type: Still Image

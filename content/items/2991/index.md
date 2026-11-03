@@ -21,6 +21,8 @@ files:
     original_filename: 100_0240.JPG
     thumb: /files/thumbnails/14fb2a5f260d4d14fb2a5f261131.jpg
     url: /files/original/14fb2a5f260d4d14fb2a5f261131.jpg
+    alt:
+      en: "Interior of a submarine control room with valves, gauges, and pipes, featuring a \"Snorkel System U.S.S. Drum (SS228)\" control panel and a chart table with a map."
 geo:
 id: 2991
 item_type: Still Image

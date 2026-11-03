@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032cameronS&R.JPG
     thumb: /files/thumbnails/14fb29e9b1421514fb29e9b1454a.jpg
     url: /files/original/14fb29e9b1421514fb29e9b1454a.jpg
+    alt:
+      en: "Aerial view of a narrow coastal peninsula with scattered marsh ponds, a straight access road, and scorched vegetation between open water and the Gulf, under hazy sky."
 geo:
 id: 24212
 item_type: Still Image

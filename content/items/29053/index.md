@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-22.jpg
     thumb: /files/thumbnails/14fb29d065b82e14fb29d065bc09.jpg
     url: /files/original/14fb29d065b82e14fb29d065bc09.jpg
+    alt:
+      en: "Aerial view of a military staging area with rows of covered equipment bays, parked buses and trucks, green tents, and a large hangar labeled \"Air National Guard,\" surrounded by grass and forest."
 geo:
 id: 29053
 item_type: Still Image

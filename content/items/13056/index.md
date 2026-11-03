@@ -21,6 +21,8 @@ files:
     original_filename: before tying on 2.jpg
     thumb: /files/thumbnails/14fb2a20b92cf814fb2a20b93095.jpg
     url: /files/original/14fb2a20b92cf814fb2a20b93095.jpg
+    alt:
+      en: "A man in sunglasses secures red fuel containers among speaker-like equipment labeled \"SRB\" mounted on a vehicle's roof rack, with a propeller also visible on the rack."
 geo:
 id: 13056
 item_type: Still Image

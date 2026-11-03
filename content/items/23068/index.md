@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0078OEP.JPG
     thumb: /files/thumbnails/14fb29f1a5bd5814fb29f1a5c144.jpg
     url: /files/original/14fb29f1a5bd5814fb29f1a5c144.jpg
+    alt:
+      en: "A man in military camouflage uniform sits on a stool under a tent, being interviewed by a seated man in a white T-shirt while a woman films with a video camera nearby on grass."
 geo:
 id: 23068
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 100_6921b_462e246ed3.jpg
     thumb: /files/thumbnails/14fb2a6f7160df14fb2a6f7164c3.jpg
     url: /files/original/14fb2a6f7160df14fb2a6f7164c3.jpg
+    alt:
+      en: "Severely damaged curved metal roof structure with twisted teal panels and exposed trusses, a utility pole with security cameras nearby, and palm trees visible behind a low wall in the foreground."
 geo:
   address: ''
   lat: 30.005653

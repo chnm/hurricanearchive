@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0148-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a020057cf14fb2a02005bb4.jpg
     url: /files/original/14fb2a020057cf14fb2a02005bb4.jpg
+    alt:
+      en: "Brick church with stained-glass windows and a cross above the entrance, two people walking along the sidewalk amid storm debris scattered across the dried lawn."
 geo:
 id: 20918
 item_type: Still Image

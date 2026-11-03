@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0128-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e615e5b114fb29e615e9cf.jpg
     url: /files/original/14fb29e615e5b114fb29e615e9cf.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters submerging a low-rise building complex, surrounding trees, and a roadway, with only rooftops and treetops visible above the murky water."
 geo:
 id: 24620
 item_type: Still Image

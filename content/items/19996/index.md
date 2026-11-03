@@ -21,6 +21,8 @@ files:
     original_filename: Picture 093cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bc7263d14fb2a0bc72a23.jpg
     url: /files/original/14fb2a0bc7263d14fb2a0bc72a23.jpg
+    alt:
+      en: "Elevated highway overpass with a distant city skyline, a weathered blank billboard on the right, power lines, and a concrete barrier wall in the foreground under a partly cloudy sky."
 geo:
 id: 19996
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials101.jpg
     thumb: /files/thumbnails/14fb2a1a615e5f14fb2a1a616244.jpg
     url: /files/original/14fb2a1a615e5f14fb2a1a616244.jpg
+    alt:
+      en: "Aerial view of a devastated coastal neighborhood with scorched, leafless trees, collapsed structures, and a swimming pool amid debris-covered lots, bordered by a muddy river."
 geo:
 id: 14259
 item_type: Still Image

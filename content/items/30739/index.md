@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7440.JPG
     thumb: /files/thumbnails/14fb29cca141ca14fb29cca145bb.jpg
     url: /files/original/14fb29cca141ca14fb29cca145bb.jpg
+    alt:
+      en: "Wooded area with several large trees uprooted and fallen trunks lying across a grassy clearing, their exposed root balls visible amid scattered branches and debris."
 geo:
 id: 30739
 item_type: Still Image

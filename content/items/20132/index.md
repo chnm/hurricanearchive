@@ -21,6 +21,8 @@ files:
     original_filename: Picture 229cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b1e546014fb2a0b1e5895.jpg
     url: /files/original/14fb2a0b1e546014fb2a0b1e5895.jpg
+    alt:
+      en: "A large military-style cargo truck with camouflage paint sits parked in a residential driveway, a man standing in its open rear bed, with houses and trees in the background under a clear sky."
 geo:
 id: 20132
 item_type: Still Image

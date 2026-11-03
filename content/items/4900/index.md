@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0219.JPG
     thumb: /files/thumbnails/14fb2a5503b32e14fb2a5503b6ec.jpg
     url: /files/original/14fb2a5503b32e14fb2a5503b6ec.jpg
+    alt:
+      en: "A damaged cinder block wall stands partially collapsed amid debris, surrounded by bare trees and a chain-link fence, with scattered cinder blocks on green matting nearby."
 geo:
 id: 4900
 item_type: Still Image

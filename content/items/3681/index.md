@@ -24,6 +24,8 @@ files:
     original_filename: P1010119.JPG
     thumb: /files/thumbnails/14fb2a5a25c5fc14fb2a5a25c9e2.jpg
     url: /files/original/14fb2a5a25c5fc14fb2a5a25c9e2.jpg
+    alt:
+      en: "Severely damaged house with exposed plywood walls and missing siding, its brick veneer collapsed into broken slabs scattered across the yard, set against a clear blue sky."
 geo:
 id: 3681
 item_type: Still Image

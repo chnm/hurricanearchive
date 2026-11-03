@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0348_fa5ba0cb03.JPG
     thumb: /files/thumbnails/14fb2a701b54a414fb2a701b57e1.jpg
     url: /files/original/14fb2a701b54a414fb2a701b57e1.jpg
+    alt:
+      en: "A weathered vinyl record with peeling, water-damaged paper label and sleeve lies outdoors on sandy ground near pine needles, its surface warped and cracked from exposure."
 geo:
   address: ''
   lat: 30.417887641071204

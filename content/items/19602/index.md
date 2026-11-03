@@ -21,6 +21,8 @@ files:
     original_filename: 09240003rita.JPG
     thumb: /files/thumbnails/14fb2a0ed9e61a14fb2a0ed9ea3a.jpg
     url: /files/original/14fb2a0ed9e61a14fb2a0ed9ea3a.jpg
+    alt:
+      en: "A hazy, open grassy field with scattered trees and a paved path in the foreground, with low institutional buildings visible in the background."
 geo:
 id: 19602
 item_type: Still Image

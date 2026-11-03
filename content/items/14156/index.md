@@ -21,6 +21,8 @@ files:
     original_filename: Local and military planning meeting.JPG
     thumb: /files/thumbnails/14fb2a1b5b7ce714fb2a1b5b80c7.jpg
     url: /files/original/14fb2a1b5b7ce714fb2a1b5b80c7.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms and civilians gather beside a tan Chevrolet Silverado pickup truck on a roadway, with power lines and trees visible in the background."
 geo:
   address: ''
   lat: 0.0

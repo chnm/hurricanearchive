@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0070medics.JPG
     thumb: /files/thumbnails/14fb29e5c66af314fb29e5c67256.jpg
     url: /files/original/14fb29e5c66af314fb29e5c67256.jpg
+    alt:
+      en: "A U.S. Army soldier in woodland camouflage uniform, nametag \"McGREGOR,\" rolls up a sleeve, standing near medical supply boxes and gauze wrap."
 geo:
 id: 24660
 item_type: Still Image

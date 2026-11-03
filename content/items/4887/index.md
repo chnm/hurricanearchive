@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0206.JPG
     thumb: /files/thumbnails/14fb2a550dfb0d14fb2a550dfef3.jpg
     url: /files/original/14fb2a550dfb0d14fb2a550dfef3.jpg
+    alt:
+      en: "A waterfront scene with a calm inlet, a house elevated on stilts in the background, and a cleared, grassy yard with scattered fallen trees and debris in the foreground."
 geo:
 id: 4887
 item_type: Still Image

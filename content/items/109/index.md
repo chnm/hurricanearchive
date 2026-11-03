@@ -26,6 +26,8 @@ files:
     original_filename: 2062_cb5bd9b19d.jpg
     thumb: /files/thumbnails/14fb2a7107944a14fb2a7107a39c.jpg
     url: /files/original/14fb2a7107944a14fb2a7107a39c.jpg
+    alt:
+      en: "Two people paddle a small boat across floodwater submerging a roadway, with an empty elevated bridge, traffic lights, and a \"WRONG WAY\" sign visible in the foreground."
 geo:
   address: ''
   lat: 29.9805129170606

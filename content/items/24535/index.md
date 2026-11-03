@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0111-9-25.JPG
     thumb: /files/thumbnails/14fb29e6ec6b2b14fb29e6ec6d6d.jpg
     url: /files/original/14fb29e6ec6b2b14fb29e6ec6d6d.jpg
+    alt:
+      en: "Aerial view of a flattened, roofless house surrounded by floodwater, with scattered debris, downed trees, and a damaged structure visible among the submerged landscape."
 geo:
 id: 24535
 item_type: Still Image

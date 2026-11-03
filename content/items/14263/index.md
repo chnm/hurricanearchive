@@ -21,6 +21,8 @@ files:
     original_filename: aerials105.jpg
     thumb: /files/thumbnails/14fb2a1a5bc6b414fb2a1a5bcab7.jpg
     url: /files/original/14fb2a1a5bc6b414fb2a1a5bcab7.jpg
+    alt:
+      en: "Aerial view of a destroyed building reduced to its foundation and scattered debris, surrounded by bare, storm-damaged trees and a winding paved road."
 geo:
 id: 14263
 item_type: Still Image

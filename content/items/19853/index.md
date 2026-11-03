@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d2436f414fb2a0d2439e1.jpg
     url: /files/original/14fb2a0d2436f414fb2a0d2439e1.jpg
+    alt:
+      en: "Close-up of a man wearing a white hard hat labeled \"YAMMARINO,\" dark safety glasses, and a brown shirt, standing at a construction site with wooden framing and yellow scaffolding visible behind him."
 geo:
 id: 19853
 item_type: Still Image

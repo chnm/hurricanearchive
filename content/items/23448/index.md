@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0109cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef63c48314fb29ef63c869.jpg
     url: /files/original/14fb29ef63c48314fb29ef63c869.jpg
+    alt:
+      en: "Aerial view from a helicopter of a winding river lined with dense green forest, a small boat visible in the water, with a crew member's silhouette and headset in the foreground."
 geo:
 id: 23448
 item_type: Still Image

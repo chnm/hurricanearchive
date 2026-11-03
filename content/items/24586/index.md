@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0122-16.JPG
     thumb: /files/thumbnails/14fb29e668955514fb29e6689886.jpg
     url: /files/original/14fb29e668955514fb29e6689886.jpg
+    alt:
+      en: "Two men in military flight suits sit inside an aircraft cockpit; one talks on a cell phone while the other looks upward, with \"HOLD\" lettering visible on the canopy frame above."
 geo:
 id: 24586
 item_type: Still Image

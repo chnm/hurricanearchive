@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-05_7f341ee51b.jpg
     thumb: /files/thumbnails/14fb2a1667d77414fb2a1667dbc3.jpg
     url: /files/original/14fb2a1667d77414fb2a1667dbc3.jpg
+    alt:
+      en: "Damaged photograph of a person in a pink top holding a small kitten, the image heavily degraded with water staining and discoloration obscuring much of the background."
 geo:
 id: 15342
 item_type: Still Image

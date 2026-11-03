@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 002.jpg
     thumb: /files/thumbnails/14fb2a59fd819214fb2a59fd8577.jpg
     url: /files/original/14fb2a59fd819214fb2a59fd8577.jpg
+    alt:
+      en: "Debris and storm-damaged trees line a street intersection, with a red STOP sign visible at right and scattered wreckage along the roadside under a clear blue sky."
 geo:
 id: 3722
 item_type: Still Image

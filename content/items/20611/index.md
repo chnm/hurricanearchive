@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043-15.JPG
     thumb: /files/thumbnails/14fb2a05a8370914fb2a05a83aed.jpg
     url: /files/original/14fb2a05a8370914fb2a05a83aed.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rooftops surrounded by standing water, downed power lines, and debris-covered trees and streets."
 geo:
 id: 20611
 item_type: Still Image

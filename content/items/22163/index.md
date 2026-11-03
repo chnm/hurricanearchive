@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-16-15AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f948b21914fb29f948b804.jpg
     url: /files/original/14fb29f948b21914fb29f948b804.jpg
+    alt:
+      en: "Flooded parking lot with several vehicles submerged to their wheel wells in murky water, a lit lamppost standing amid the flood, and trees and power lines barely visible through heavy rain and fog."
 geo:
 id: 22163
 item_type: Still Image

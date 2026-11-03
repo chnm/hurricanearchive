@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0224-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff8f17cf14fb29ff8f1bac.jpg
     url: /files/original/14fb29ff8f17cf14fb29ff8f1bac.jpg
+    alt:
+      en: "Aerial view of a flood-damaged neighborhood with collapsed roofs, debris-strewn yards, and defoliated trees, surrounded by empty streets and a river in the background."
 geo:
 id: 21308
 item_type: Still Image

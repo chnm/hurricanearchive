@@ -21,6 +21,8 @@ files:
     original_filename: Picture 282-J2.jpg
     thumb: /files/thumbnails/14fb29fae14b6b14fb29fae1533e.jpg
     url: /files/original/14fb29fae14b6b14fb29fae1533e.jpg
+    alt:
+      en: "Highway overpass scene with a green exit sign reading \"Elysian... NEX...\" a helicopter in the sky, a bridge and city skyline in the distance, and a military-style truck and SUV on the road."
 geo:
 id: 21951
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1297Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f660844414fb29f6608821.jpg
     url: /files/original/14fb29f660844414fb29f6608821.jpg
+    alt:
+      en: "Floodwater surrounds a building's brick support pillars up to the roofline, with storm-damaged shingles exposing wood beneath; a gable sign reads \"Post Support Center, Security - Billeting - Information.\""
 geo:
 id: 22456
 item_type: Still Image

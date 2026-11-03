@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064.JPG
     thumb: /files/thumbnails/14fb2a00e2ed6f14fb2a00e2f154.jpg
     url: /files/original/14fb2a00e2ed6f14fb2a00e2f154.jpg
+    alt:
+      en: "Aerial view of a large military helicopter marked \"MARINES\" parked in a dirt-worn field, with several people standing near its fuselage and rotor blades casting long shadows across the grass."
 geo:
 id: 21046
 item_type: Still Image

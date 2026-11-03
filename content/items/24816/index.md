@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2138superdome.JPG
     thumb: /files/thumbnails/14fb29e49a0a5b14fb29e49a0e40.jpg
     url: /files/original/14fb29e49a0a5b14fb29e49a0e40.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms stand near a metal cart stacked with bottled water, one with a nametag reading \"Procell,\" in a dimly lit indoor hallway."
 geo:
 id: 24816
 item_type: Still Image

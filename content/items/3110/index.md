@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (13).JPG
     thumb: /files/thumbnails/14fb2a5de03d2b14fb2a5de04110.jpg
     url: /files/original/14fb2a5de03d2b14fb2a5de04110.jpg
+    alt:
+      en: "A hand-lettered cardboard sign nailed to a wooden utility pole reads \"(CLOSED) Exceptions: Contractors, Business Owners w/ photo pass, Resident Owners w/ pass, Relief Workers – Orleans Parish,\" surrounded by trees and flowering shrubs."
 geo:
 id: 3110
 item_type: Still Image

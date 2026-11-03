@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0119gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cf0fb3814fb2a0cf10c66.jpg
     url: /files/original/14fb2a0cf0fb3814fb2a0cf10c66.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms and white hard hats install large plywood panels on an interior wall, standing on ladders, with partial text reading \"1-800-640-8...\" visible on the wood."
 geo:
 id: 19887
 item_type: Still Image

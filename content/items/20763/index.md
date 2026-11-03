@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0073-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a040deb6414fb2a040def4a.jpg
     url: /files/original/14fb2a040deb6414fb2a040def4a.jpg
+    alt:
+      en: "Aerial view of widespread flooding with submerged roads, debris-strewn lots, damaged buildings, and a water tower rising above the inundated landscape under hazy skies."
 geo:
 id: 20763
 item_type: Still Image

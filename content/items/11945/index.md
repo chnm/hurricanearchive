@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 067.jpg
     thumb: /files/thumbnails/14fb2a22a5da7a14fb2a22a5de57.jpg
     url: /files/original/14fb2a22a5da7a14fb2a22a5de57.jpg
+    alt:
+      en: "A Salvation Army Emergency Disaster Services truck (Western Pennsylvania Division) parked in a lot, with four people talking nearby and a stadium ramp visible in the background; dated 2005/09/24."
 geo:
 id: 11945
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1267Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f67cd92d14fb29f67cde43.jpg
     url: /files/original/14fb29f67cd92d14fb29f67cde43.jpg
+    alt:
+      en: "A person wearing a red plaid sweater and bandana is escorted down a stairwell by military personnel in camouflage and tan uniforms, one placing a hand on the railing."
 geo:
 id: 22428
 item_type: Still Image

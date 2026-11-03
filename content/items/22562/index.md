@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1851Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f545a93314fb29f545ad19.jpg
     url: /files/original/14fb29f545a93314fb29f545ad19.jpg
+    alt:
+      en: "Aerial view of a severely flooded residential and industrial neighborhood, with only rooftops, treetops, and power lines visible above the dark floodwaters covering streets and yards."
 geo:
 id: 22562
 item_type: Still Image

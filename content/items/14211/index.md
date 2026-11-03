@@ -21,6 +21,8 @@ files:
     original_filename: flooded jackson barracks.JPG
     thumb: /files/thumbnails/14fb2a1a9431f614fb2a1a9439c4.jpg
     url: /files/original/14fb2a1a9431f614fb2a1a9439c4.jpg
+    alt:
+      en: "Severe flooding submerges a street and building in heavy rain, with only rooftops, trees, and power lines visible above the murky water, along with floating debris in the foreground."
 geo:
   address: ''
   lat: 0.0

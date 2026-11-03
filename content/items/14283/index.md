@@ -21,6 +21,8 @@ files:
     original_filename: aerials123.jpg
     thumb: /files/thumbnails/14fb2a1a374c9114fb2a1a375055.jpg
     url: /files/original/14fb2a1a374c9114fb2a1a375055.jpg
+    alt:
+      en: "Aerial view of a two-story house with a green roof standing on a narrow peninsula, surrounded by debris and a damaged dock, with floodwater encircling the property."
 geo:
 id: 14283
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28670.jpg
     thumb: /files/thumbnails/14fb2a69022d1114fb2a69023114.jpg
     url: /files/original/14fb2a69022d1114fb2a69023114.jpg
+    alt:
+      en: "Three women stand with a brown horse in a gravel lot beside a livestock trailer and parked vehicles, part of the US Humane Society Animal Rescue Depot at Lamar-Dixon Fairgrounds in Gonzales, La."
 geo:
   address: ''
   lat: 0.0

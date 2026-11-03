@@ -21,6 +21,8 @@ files:
     original_filename: 45th ID TOC.JPG
     thumb: /files/thumbnails/14fb29e912066b14fb29e9120a52.jpg
     url: /files/original/14fb29e912066b14fb29e9120a52.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work at laptops along tables labeled with role signs such as \"BATTLE MAJOR,\" \"ENG,\" \"J-3 AIR,\" \"JAG,\" and \"TOC SGM\" in a fluorescent-lit command post room, dated 09.21.2005 11:25."
 geo:
 id: 24280
 item_type: Still Image

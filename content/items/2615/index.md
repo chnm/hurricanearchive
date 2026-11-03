@@ -24,6 +24,8 @@ files:
     original_filename: 20060209_MG_0368.jpg
     thumb: /files/thumbnails/14fb2a64226fed14fb2a64227723.jpg
     url: /files/original/14fb2a64226fed14fb2a64227723.jpg
+    alt:
+      en: "Elaborately decorated Mardi Gras float featuring a painted Willie Wonka-style \"Sugar Daddy\" figure in top hat, surrounded by handmade signs reading \"Chocolate City,\" \"Chocolate Covered Crayfish,\" and \"Your Ad Here,\" amid tinsel and American flag decorations."
 geo:
 id: 2615
 item_type: Still Image

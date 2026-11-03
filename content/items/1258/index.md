@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28438.jpg
     thumb: /files/thumbnails/14fb2a6a066dc014fb2a6a0671a6.jpg
     url: /files/original/14fb2a6a066dc014fb2a6a0671a6.jpg
+    alt:
+      en: "Damaged storefront with exposed steel framing and a collapsed facade, fenced off, with a parked car and a green dumpster labeled \"WM\" in the foreground lot."
 geo:
   address: ''
   lat: 0.0

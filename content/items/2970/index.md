@@ -21,6 +21,8 @@ files:
     original_filename: MVC-025S.JPG
     thumb: /files/thumbnails/14fb2a5f44791214fb2a5f447ced.jpg
     url: /files/original/14fb2a5f44791214fb2a5f447ced.jpg
+    alt:
+      en: "A damaged Navy aircraft with \"PP\" on the tail and \"NAVY VC-3 126275\" markings, its tail fin and rear fuselage crumpled and torn, parked outdoors among other planes."
 geo:
 id: 2970
 item_type: Still Image

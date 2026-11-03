@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011-9-25.JPG
     thumb: /files/thumbnails/14fb2a07f28b8c14fb2a07f28f72.jpg
     url: /files/original/14fb2a07f28b8c14fb2a07f28f72.jpg
+    alt:
+      en: "A bald man with glasses and a beard sits at a kitchen table holding a sandwich, with a glass of ice water, red cooler jug, and papers nearby; another person is partially visible at right."
 geo:
 id: 20408
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 2379860343_ed585a4ba8.
     thumb: /files/thumbnails/14fb29ca19f9c414fb29ca19fda1.jpg
     url: /files/original/14fb29ca19f9c414fb29ca19fda1.jpg
+    alt:
+      en: "Front entrance of a house with a decorative glass door flanked by tall windows, surrounded by storm debris including a fallen trash can, broken foam pieces, and scattered boards on the ground."
 geo:
   address: ''
   lat: 30.22894

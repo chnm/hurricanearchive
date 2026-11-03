@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0183-21.JPG
     thumb: /files/thumbnails/14fb2a006728bf14fb2a00672c9b.jpg
     url: /files/original/14fb2a006728bf14fb2a00672c9b.jpg
+    alt:
+      en: "Two soldiers in camouflage fatigues with tactical vests stand between a civilian man and woman, posing together outdoors near a military vehicle and dumpster."
 geo:
 id: 21134
 item_type: Still Image

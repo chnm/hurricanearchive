@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28437.jpg
     thumb: /files/thumbnails/14fb2a6d10271b14fb2a6d102b01.jpg
     url: /files/original/14fb2a6d10271b14fb2a6d102b01.jpg
+    alt:
+      en: "Damaged storefront reading \"Always Food Center\" with boarded and fenced-off entrance, exposed roof trusses, and an empty parking lot in front."
 geo:
   address: ''
   lat: 0.0

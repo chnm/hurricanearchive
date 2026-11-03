@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042cameronS&R.JPG
     thumb: /files/thumbnails/14fb29f004501b14fb29f0045401.jpg
     url: /files/original/14fb29f004501b14fb29f0045401.jpg
+    alt:
+      en: "Aerial view of a hazy, calm waterway with several small vessels near a long stone jetty or breakwater extending across the water under overcast, foggy skies."
 geo:
 id: 23304
 item_type: Still Image

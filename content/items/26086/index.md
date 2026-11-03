@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7053_be9b1d7517.jpg
     thumb: /files/thumbnails/14fb29db4e898914fb29db4e8ee7.jpg
     url: /files/original/14fb29db4e898914fb29db4e8ee7.jpg
+    alt:
+      en: "Vintage sepia-toned photograph of a multi-story Gothic-style administration building with arched windows, fronted by trees and shrubs, with several classic automobiles parked on the dirt lot in the foreground."
 geo:
   address: ''
   lat: 29.91685

@@ -18,6 +18,8 @@ files:
     original_filename: 10_8f91797a25.jpg
     thumb: /files/thumbnails/14fb29c741bdc014fb29c741c737.jpg
     url: /files/original/14fb29c741bdc014fb29c741c737.jpg
+    alt:
+      en: "A young blonde woman in a red beret and white-and-red marching band uniform smiles while seated inside a dimly lit vehicle at night."
 geo:
   address: new orleans, la
   lat: 29.95324

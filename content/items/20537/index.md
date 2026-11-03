@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030-9-25.JPG
     thumb: /files/thumbnails/14fb2a0657faed14fb2a0657fed2.jpg
     url: /files/original/14fb2a0657faed14fb2a0657fed2.jpg
+    alt:
+      en: "Aerial view of a flooded rural community with scattered houses surrounded by standing water, downed trees, and debris, bordered by a highway in the foreground."
 geo:
 id: 20537
 item_type: Still Image

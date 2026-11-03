@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (17).JPG
     thumb: /files/thumbnails/14fb2a5d8dd9a714fb2a5d8de63b.jpg
     url: /files/original/14fb2a5d8dd9a714fb2a5d8de63b.jpg
+    alt:
+      en: "Military Humvees parked on a debris-strewn street beneath trees and traffic signals, with an orange traffic cone and a person in fatigues nearby, viewed through a car windshield."
 geo:
 id: 3164
 item_type: Still Image

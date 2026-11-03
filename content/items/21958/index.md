@@ -21,6 +21,8 @@ files:
     original_filename: Picture 289-J2.jpg
     thumb: /files/thumbnails/14fb29fad5e58614fb29fad5e72c.jpg
     url: /files/original/14fb29fad5e58614fb29fad5e72c.jpg
+    alt:
+      en: "Flooded urban area with submerged streets and palm trees, viewed from a concrete bridge railing; a sign reading \"Economy Motor Lodge\" stands amid standing water, with city buildings and overpasses in the background."
 geo:
 id: 21958
 item_type: Still Image

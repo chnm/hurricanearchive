@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2006superdome.JPG
     thumb: /files/thumbnails/14fb29df6c19e514fb29df6c2150.jpg
     url: /files/original/14fb29df6c19e514fb29df6c2150.jpg
+    alt:
+      en: "Military personnel in camouflage and flight suits stand near the open rear ramp of a large aircraft on a wet tarmac, with onlookers visible in the background."
 geo:
 id: 25279
 item_type: Still Image

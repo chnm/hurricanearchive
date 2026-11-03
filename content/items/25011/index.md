@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1533superdome.JPG
     thumb: /files/thumbnails/14fb29e2ede1cc14fb29e2ede811.jpg
     url: /files/original/14fb29e2ede1cc14fb29e2ede811.jpg
+    alt:
+      en: "A military helicopter marked \"585\" sits on a rooftop helipad as several people, including a uniformed officer, walk toward it; a building in the background reads \"Delgado Community Charity School of Nursing.\""
 geo:
 id: 25011
 item_type: Still Image

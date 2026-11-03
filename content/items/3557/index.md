@@ -24,6 +24,8 @@ files:
     original_filename: P1010133.JPG
     thumb: /files/thumbnails/14fb2a5ad534c414fb2a5ad55feb.jpg
     url: /files/original/14fb2a5ad534c414fb2a5ad55feb.jpg
+    alt:
+      en: "Storefront of \"Uzza's\" restaurant with a red, white, and green striped awning above closed metal double doors, with handwritten \"vacation time\" text on the door and a gold horse-head hitching post nearby."
 geo:
 id: 3557
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0180-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0075377f14fb2a00753b65.jpg
     url: /files/original/14fb2a0075377f14fb2a00753b65.jpg
+    alt:
+      en: "Dimly lit interior scene (image rotated 90 degrees) showing three people seated or leaning in a dark wood-paneled room, with a chain-link pattern and faint window light visible in the background."
 geo:
 id: 21120
 item_type: Still Image

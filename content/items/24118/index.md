@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea8249e214fb29ea824e3f.jpg
     url: /files/original/14fb29ea8249e214fb29ea824e3f.jpg
+    alt:
+      en: "Brick ranch-style house with boarded-up windows and a chimney, surrounded by standing floodwater reflecting the structure, with a small American flag planted in the grass nearby."
 geo:
 id: 24118
 item_type: Still Image

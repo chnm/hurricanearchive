@@ -21,6 +21,8 @@ files:
     original_filename: Picture 175cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b6e763014fb2a0b6e7ae6.jpg
     url: /files/original/14fb2a0b6e763014fb2a0b6e7ae6.jpg
+    alt:
+      en: "Industrial waterfront scene with storage tanks and damaged structures in the foreground, a wide river, a distant bridge, and port facilities under a partly cloudy sky."
 geo:
 id: 20078
 item_type: Still Image

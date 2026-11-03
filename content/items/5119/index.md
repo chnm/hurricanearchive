@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0481.JPG
     thumb: /files/thumbnails/14fb2a53d4d94414fb2a53d4dd22.jpg
     url: /files/original/14fb2a53d4d94414fb2a53d4dd22.jpg
+    alt:
+      en: "A partially constructed wooden house with exposed framing and a finished siding section on the right, set in a dirt and grass yard surrounded by trees under a clear blue sky."
 geo:
 id: 5119
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-006S.JPG
     thumb: /files/thumbnails/14fb2a5fa8bc8014fb2a5fa8c06c.jpg
     url: /files/original/14fb2a5fa8bc8014fb2a5fa8c06c.jpg
+    alt:
+      en: "A large ceramic electrical insulator with tiered, bell-shaped disks mounted on a wall near a doorway, with red-painted flooring and white baseboards visible below."
 geo:
 id: 2883
 item_type: Still Image

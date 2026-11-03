@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a57ae8a7214fb2a57ae8e58.jpg
     url: /files/original/14fb2a57ae8a7214fb2a57ae8e58.jpg
+    alt:
+      en: "Group of people, including officials and security personnel, walking along a gravel road past an \"EXIT ONLY\" sign, with heavy equipment, trucks, and a chain-link fence in the background."
 geo:
 id: 4108
 item_type: Still Image

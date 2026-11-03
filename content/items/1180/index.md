@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28694.jpg
     thumb: /files/thumbnails/14fb2a6a9ded7a14fb2a6a9df160.jpg
     url: /files/original/14fb2a6a9ded7a14fb2a6a9df160.jpg
+    alt:
+      en: "A dark horse with a red halter peers over a metal stall gate marked \"DO NOT WALK,\" with a clipboard holding handwritten notes hanging on the gate below."
 geo:
   address: ''
   lat: 0.0

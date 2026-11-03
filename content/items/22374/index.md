@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1196Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6f1885c14fb29f6f18c39.jpg
     url: /files/original/14fb29f6f1885c14fb29f6f18c39.jpg
+    alt:
+      en: "Dimly lit nighttime scene on a boat, with one man wearing an orange life vest and another crouched over equipment, illuminated by a strip of small lights amid surrounding darkness and water."
 geo:
 id: 22374
 item_type: Still Image

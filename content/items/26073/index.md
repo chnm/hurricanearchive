@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7024_3e32f8810c.jpg
     thumb: /files/thumbnails/14fb29db626dda14fb29db6271c1.jpg
     url: /files/original/14fb29db626dda14fb29db6271c1.jpg
+    alt:
+      en: "Black-and-white photo of a horse-drawn parade float decorated with large paper sunflowers and a \"Sunflowers\" sign, carrying three costumed figures, with a man holding the sign standing beside it."
 geo:
   address: ''
   lat: 29.87876

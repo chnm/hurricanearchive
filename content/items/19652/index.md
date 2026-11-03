@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 039cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e8d600214fb2a0e8d63e7.jpg
     url: /files/original/14fb2a0e8d600214fb2a0e8d63e7.jpg
+    alt:
+      en: "Two men in camouflage uniforms stand at the open back of a semi-trailer loaded with bagged \"Pure Ice\" cube ice, with a Tennessee license plate visible on the truck."
 geo:
 id: 19652
 item_type: Still Image

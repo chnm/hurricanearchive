@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 068.jpg
     thumb: /files/thumbnails/14fb2a1298fbd314fb2a12993e48.jpg
     url: /files/original/14fb2a1298fbd314fb2a12993e48.jpg
+    alt:
+      en: "Photo taken through a vehicle windshield shows a building with storm-damaged upper floors, exposed framing, and torn siding, behind a closed wrought-iron security gate under a partly cloudy sky."
 geo:
 id: 19158
 item_type: Still Image

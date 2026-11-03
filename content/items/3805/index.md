@@ -21,6 +21,8 @@ files:
     original_filename: 100_0085.JPG
     thumb: /files/thumbnails/14fb2a5977612014fb2a59776506.jpg
     url: /files/original/14fb2a5977612014fb2a59776506.jpg
+    alt:
+      en: "Storm-damaged buildings with exposed framing and missing walls surround a lot filled with U-Haul moving trucks and trailers, with debris scattered across the pavement and grass in the foreground."
 geo:
 id: 3805
 item_type: Still Image

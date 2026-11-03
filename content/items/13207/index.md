@@ -21,6 +21,8 @@ files:
     original_filename: 201 tree damage.jpg
     thumb: /files/thumbnails/14fb2a1f5271e014fb2a1f5275c5.jpg
     url: /files/original/14fb2a1f5271e014fb2a1f5275c5.jpg
+    alt:
+      en: "Flooded roadside field with several utility poles leaning at sharp angles, power lines sagging between them, trees and distant buildings along the horizon under an overcast sky."
 geo:
 id: 13207
 item_type: Still Image

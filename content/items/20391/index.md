@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009-20.JPG
     thumb: /files/thumbnails/14fb2a0813543314fb2a08136141.jpg
     url: /files/original/14fb2a0813543314fb2a08136141.jpg
+    alt:
+      en: "Interior hallway with a half-height partition wall, a wooden door labeled \"220,\" a handwritten sign reading \"TASK FORCE DEFENDER,\" and wall-mounted piping with an electrical box above."
 geo:
 id: 20391
 item_type: Still Image

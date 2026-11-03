@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0396.JPG
     thumb: /files/thumbnails/14fb2a543c76ed14fb2a543c7ad2.jpg
     url: /files/original/14fb2a543c76ed14fb2a543c7ad2.jpg
+    alt:
+      en: "A yellow tape measure stretches across a wooden post with a bolt and eye hook, measuring its height against a backdrop of bare trees and a partly cloudy sky."
 geo:
 id: 5051
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 167 wall peel.jpg
     thumb: /files/thumbnails/14fb2a1f999a3e14fb2a1f999e24.jpg
     url: /files/original/14fb2a1f999a3e14fb2a1f999e24.jpg
+    alt:
+      en: "Collapsed brick building with exposed steel support beams, surrounded by scattered debris and twisted metal roofing, trees visible in the background."
 geo:
 id: 13175
 item_type: Still Image

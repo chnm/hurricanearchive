@@ -21,6 +21,8 @@ files:
     original_filename: Picture 165cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b81e6f114fb2a0b81ead8.jpg
     url: /files/original/14fb2a0b81e6f114fb2a0b81ead8.jpg
+    alt:
+      en: "Debris-covered water surface with floating algae and a small wooden platform holding a blue container, near a dark rocky shoreline reflecting sunlight."
 geo:
 id: 20068
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 115.jpg
     thumb: /files/thumbnails/14fb2a11ce6e8614fb2a11ce726d.jpg
     url: /files/original/14fb2a11ce6e8614fb2a11ce726d.jpg
+    alt:
+      en: "Damaged storefront of a \"Furniture Factory Outlet\" with a twisted metal awning, broken windows, and debris-covered ground littered with charred materials."
 geo:
 id: 19205
 item_type: Still Image

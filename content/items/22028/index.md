@@ -21,6 +21,8 @@ files:
     original_filename: Picture 359-J2.jpg
     thumb: /files/thumbnails/14fb29fa01272e14fb29fa012bc5.jpg
     url: /files/original/14fb29fa01272e14fb29fa012bc5.jpg
+    alt:
+      en: "Workers in camouflage pants clear fallen, debris-laden tree branches along a street, with one shirtless man in orange pants using a chainsaw amid the dried foliage."
 geo:
 id: 22028
 item_type: Still Image

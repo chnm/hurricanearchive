@@ -21,6 +21,8 @@ files:
     original_filename: blinds2.jpg
     thumb: /files/thumbnails/14fb2a1efd418c14fb2a1efd5b64.jpg
     url: /files/original/14fb2a1efd418c14fb2a1efd5b64.jpg
+    alt:
+      en: "Close-up of tangled, curved window blind slats in white and gray tones, piled together with a blurred interior room visible in the background."
 geo:
 id: 13238
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300050neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecfe93ff14fb29ecfe97e6.jpg
     url: /files/original/14fb29ecfe93ff14fb29ecfe97e6.jpg
+    alt:
+      en: "A military truck carrying two uniformed personnel drives through deep floodwaters alongside a large white trailer truck, with an overpass visible in the hazy background."
 geo:
 id: 23805
 item_type: Still Image

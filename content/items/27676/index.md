@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6700_5a75b3359c.JPG
     thumb: /files/thumbnails/14fb29d324f20e14fb29d324f674.jpg
     url: /files/original/14fb29d324f20e14fb29d324f674.jpg
+    alt:
+      en: "Black-and-white group photo of neighborhood children posed on and around a playground slide, with a corrugated-metal shed and monkey bars in the background."
 geo:
   address: ''
   lat: 29.95493

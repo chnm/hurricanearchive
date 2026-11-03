@@ -21,6 +21,8 @@ files:
     original_filename: courtyard wind.jpg
     thumb: /files/thumbnails/14fb2a208b3ab814fb2a208b3e9a.jpg
     url: /files/original/14fb2a208b3ab814fb2a208b3e9a.jpg
+    alt:
+      en: "A brick courtyard engulfed in heavy wind-driven rain and fog, with flagpoles bending, trees swaying, potted plants in the foreground, and a decorative metal archway standing amid the storm."
 geo:
 id: 13080
 item_type: Still Image

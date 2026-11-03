@@ -21,6 +21,8 @@ files:
     original_filename: MVC-014S.JPG
     thumb: /files/thumbnails/14fb2a5f92140614fb2a5f92169c.jpg
     url: /files/original/14fb2a5f92140614fb2a5f92169c.jpg
+    alt:
+      en: "Cluttered storage room with shelving units, a wooden desk piled with papers and tools, a flexible metal ductwork hose, and various boxes and containers scattered throughout."
 geo:
 id: 2925
 item_type: Still Image

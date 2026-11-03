@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27936.jpg
     thumb: /files/thumbnails/14fb2a6a020d7b14fb2a6a02110e.jpg
     url: /files/original/14fb2a6a020d7b14fb2a6a02110e.jpg
+    alt:
+      en: "Blue street sign reading \"W Stadium Dr\" mounted at an angle on a metal pole, set against a partly cloudy sky with trees and a building visible in the background."
 geo:
   address: ''
   lat: 0.0

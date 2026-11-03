@@ -21,6 +21,8 @@ files:
     original_filename: 09270035plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec05a3e914fb29ec05a7cd.jpg
     url: /files/original/14fb29ec05a3e914fb29ec05a7cd.jpg
+    alt:
+      en: "Two men in a sheriff's department shirt and military camouflage walk along a debris-strewn road lined with damaged, leafless trees, each carrying a bottle of water."
 geo:
 id: 23997
 item_type: Still Image

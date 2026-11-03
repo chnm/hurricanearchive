@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1316Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f63eea6514fb29f63eee4a.jpg
     url: /files/original/14fb29f63eea6514fb29f63eee4a.jpg
+    alt:
+      en: "Floodwaters almost completely submerge a house, leaving only its peaked roof visible above the water, with utility poles, trees, and buildings partially flooded in the background."
 geo:
 id: 22475
 item_type: Still Image

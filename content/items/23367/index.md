@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0071cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efc8cfd614fb29efc8d3b4.jpg
     url: /files/original/14fb29efc8cfd614fb29efc8d3b4.jpg
+    alt:
+      en: "Aerial view of open water with subtle rippling waves and faint sheens of color reflecting across the surface."
 geo:
 id: 23367
 item_type: Still Image

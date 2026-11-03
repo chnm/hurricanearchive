@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28003.jpg
     thumb: /files/thumbnails/14fb2a69f0298f14fb2a69f02d93.jpg
     url: /files/original/14fb2a69f0298f14fb2a69f02d93.jpg
+    alt:
+      en: "Interior room cluttered with mold-covered, water-damaged furniture, including chairs, a mattress, and a dresser, with two framed pictures still hanging on a stained wall."
 geo:
   address: ''
   lat: 0.0

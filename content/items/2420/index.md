@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C6M_a5e00ed243.jpg
     thumb: /files/thumbnails/14fb2a6686066f14fb2a668646b3.jpg
     url: /files/original/14fb2a6686066f14fb2a668646b3.jpg
+    alt:
+      en: "Two Coast Guard personnel in navy uniforms distribute supplies at a van, one handing over canned goods, with MRE cartons stacked in the foreground labeled \"Meal, Ready-to-Eat.\""
 geo:
 id: 2420
 item_type: Still Image

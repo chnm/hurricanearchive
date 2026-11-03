@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018-9-25.JPG
     thumb: /files/thumbnails/14fb2a070ba09414fb2a070ba479.jpg
     url: /files/original/14fb2a070ba09414fb2a070ba479.jpg
+    alt:
+      en: "A man wearing a brown collared shirt with a Louisiana ID badge speaks into a microphone held by another person, with onlookers visible in the background under a shaded structure."
 geo:
 id: 20460
 item_type: Still Image

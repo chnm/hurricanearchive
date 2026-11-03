@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28371.jpg
     thumb: /files/thumbnails/14fb2a6818ac7414fb2a6818b059.jpg
     url: /files/original/14fb2a6818ac7414fb2a6818b059.jpg
+    alt:
+      en: "A man in a cap and \"Key West\" t-shirt sits in the wheelhouse of a shrimp boat, beside a large wooden ship's wheel, binoculars, and other navigational equipment."
 geo:
   address: ''
   lat: 0.0

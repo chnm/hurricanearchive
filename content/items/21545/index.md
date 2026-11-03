@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0290-9-25.JPG
     thumb: /files/thumbnails/14fb29fdadcc6814fb29fdadd04d.jpg
     url: /files/original/14fb29fdadcc6814fb29fdadd04d.jpg
+    alt:
+      en: "Aerial view of floodwaters surrounding a dense tree line, with a residential street, buildings, and a body of water visible in the background."
 geo:
 id: 21545
 item_type: Still Image

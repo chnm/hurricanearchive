@@ -21,6 +21,8 @@ files:
     original_filename: katrina 018.jpg
     thumb: /files/thumbnails/14fb29fbfc2db514fb29fbfc3a29.jpg
     url: /files/original/14fb29fbfc2db514fb29fbfc3a29.jpg
+    alt:
+      en: "A white military-style helicopter with spinning rotor blades flies near a large curved structure against a gray sky, with a visible crew member inside; timestamp \"2 4:52 PM\" is overlaid in red."
 geo:
 id: 21750
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2297841987_b901a80eb4.
     thumb: /files/thumbnails/14fb29c7d18ad714fb29c7d18ebe.jpg
     url: /files/original/14fb29c7d18ad714fb29c7d18ebe.jpg
+    alt:
+      en: "Large pile of salvaged bicycles behind a chain-link fence, with four people examining and sorting them beside an orange traffic barrel and a blue \"Werner Enterprises\" trailer."
 geo:
 id: 34998
 item_type: Still Image

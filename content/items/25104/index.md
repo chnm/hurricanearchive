@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1691superdome.JPG
     thumb: /files/thumbnails/14fb29e2499d7614fb29e249a15c.jpg
     url: /files/original/14fb29e2499d7614fb29e249a15c.jpg
+    alt:
+      en: "Rows of soldiers in camouflage fatigues with American flag patches and rifles stand in formation outdoors near military trucks and a garage structure."
 geo:
 id: 25104
 item_type: Still Image

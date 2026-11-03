@@ -21,6 +21,8 @@ files:
     original_filename: 115.jpg
     thumb: /files/thumbnails/14fb2a6085291214fb2a60853daa.jpg
     url: /files/original/14fb2a6085291214fb2a60853daa.jpg
+    alt:
+      en: "Hand-drawn diagram titled \"Clothes Distribution\" showing size categories (toddlers, men, boys, women), queue lines marked \"Open\" with person limits, and tallies of women, family, and men groups; signed Reginald, age 14, Sept-14-05."
 geo:
 id: 2691
 item_type: Still Image

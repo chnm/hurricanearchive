@@ -25,6 +25,8 @@ files:
     original_filename: 157417395_2d44817776.jpg
     thumb: /files/thumbnails/14fb29d1cacd1514fb29d1cad0f3.jpg
     url: /files/original/14fb29d1cacd1514fb29d1cad0f3.jpg
+    alt:
+      en: "A makeshift memorial with scattered flowers, balloons, and a handwritten sign sits on a grassy median, with bagged debris piled nearby along a residential street."
 geo:
 id: 28673
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Behind the Superdome 5superdome.jpg
     thumb: /files/thumbnails/14fb29e532c15e14fb29e532c62d.jpg
     url: /files/original/14fb29e532c15e14fb29e532c62d.jpg
+    alt:
+      en: "Flooded city street with numerous submerged cars, surrounded by high-rise buildings and a sign advertising Bud and Coca-Cola, reflecting standing floodwater throughout the scene."
 geo:
 id: 24744
 item_type: Still Image

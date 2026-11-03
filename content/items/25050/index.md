@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1575superdome.JPG
     thumb: /files/thumbnails/14fb29e2a5b36414fb29e2a5b741.jpg
     url: /files/original/14fb29e2a5b36414fb29e2a5b741.jpg
+    alt:
+      en: "A convoy of military Humvees and a white bus drive along a partially submerged roadway, with flooded cars and street signs visible in the deep water beyond."
 geo:
 id: 25050
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: Picture+034_51239b366a.jpg
     thumb: /files/thumbnails/14fb29ce02acd514fb29ce030799.jpg
     url: /files/original/14fb29ce02acd514fb29ce030799.jpg
+    alt:
+      en: "Collapsed roof and debris of a destroyed house, with the roofline folded down onto a pile of broken wood, bricks, and cinder blocks; other houses are visible in the background."
 geo:
 id: 30029
 item_type: Still Image

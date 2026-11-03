@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29e99c2fb014fb29e99c337f.jpg
     url: /files/original/14fb29e99c2fb014fb29e99c337f.jpg
+    alt:
+      en: "Vast expanse of murky, flat floodwater under a hazy gray sky, with a faint line of debris and distant structures visible along the horizon."
 geo:
 id: 24217
 item_type: Still Image

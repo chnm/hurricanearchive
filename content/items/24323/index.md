@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-16-14A.jpg
     thumb: /files/thumbnails/14fb29e8b9c11014fb29e8b9c501.jpg
     url: /files/original/14fb29e8b9c11014fb29e8b9c501.jpg
+    alt:
+      en: "Aerial view of a flooded city neighborhood, with streets, rooftops, and apartment buildings submerged in brown floodwater, trees and power lines poking above the surface."
 geo:
 id: 24323
 item_type: Still Image

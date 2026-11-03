@@ -21,6 +21,8 @@ files:
     original_filename: S4300222neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecae943614fb29ecae981b.jpg
     url: /files/original/14fb29ecae943614fb29ecae981b.jpg
+    alt:
+      en: "Flooded house with downed power lines and a leaning utility pole, surrounded by scattered debris including tires, a cooler, and wooden boards floating in murky water."
 geo:
 id: 23866
 item_type: Still Image

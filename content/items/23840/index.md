@@ -21,6 +21,8 @@ files:
     original_filename: S4300179stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece3c7e914fb29ece3cbcf.jpg
     url: /files/original/14fb29ece3c7e914fb29ece3cbcf.jpg
+    alt:
+      en: "Brick house with a damaged shingled roof, a dislodged white roof vent lying loose on the slope, and a round attic vent, with a vehicle roof visible in the foreground."
 geo:
 id: 23840
 item_type: Still Image

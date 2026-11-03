@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003H.JPG
     thumb: /files/thumbnails/14fb2a08a114cf14fb2a08a14b68.jpg
     url: /files/original/14fb2a08a114cf14fb2a08a14b68.jpg
+    alt:
+      en: "Three young adults play pool indoors at night; a man in an \"ARMY\" shirt watches another lean in to take a shot, while a woman in a \"Hooters\" tank top holds a cue."
 geo:
 id: 20345
 item_type: Still Image

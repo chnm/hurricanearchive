@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0080-15.JPG
     thumb: /files/thumbnails/14fb2a03bdec9314fb2a03bdf07a.jpg
     url: /files/original/14fb2a03bdec9314fb2a03bdf07a.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with storm-damaged houses, including structures with roofs torn off, exposed framing, and debris scattered across yards and streets."
 geo:
 id: 20793
 item_type: Still Image

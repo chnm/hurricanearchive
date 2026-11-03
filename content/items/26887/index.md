@@ -21,6 +21,8 @@ files:
     original_filename: 98marchingband_fa8e14aa83.jpg
     thumb: /files/thumbnails/14fb29d68bdc4614fb29d68be255.jpg
     url: /files/original/14fb29d68bdc4614fb29d68be255.jpg
+    alt:
+      en: "Black-and-white yearbook photo of a marching band in white uniforms and plumed hats playing clarinets and trumpets on a football field, with a snare drum visible in an adjacent photo."
 geo:
 id: 26887
 item_type: Still Image

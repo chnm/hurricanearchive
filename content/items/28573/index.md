@@ -20,6 +20,8 @@ files:
     original_filename: 176014486_6d80738761.jpg
     thumb: /files/thumbnails/14fb29d244774c14fb29d2447b30.jpg
     url: /files/original/14fb29d244774c14fb29d2447b30.jpg
+    alt:
+      en: "Navy blue t-shirt with a fleur-de-lis crescent emblem and bold text reading \"N.O.P.D. Not Our Problem Dude, Hurricane Katrina 2005.\""
 geo:
 id: 28573
 item_type: Still Image

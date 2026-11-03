@@ -23,6 +23,8 @@ files:
     original_filename: 336693472_bfc7fb9c64.jpg
     thumb: /files/thumbnails/14fb29d513a98c14fb29d513aaa6.jpg
     url: /files/original/14fb29d513a98c14fb29d513aaa6.jpg
+    alt:
+      en: "Water-damaged interior with a blue table holding scattered items, yellow curtains on a window, and a white door with visible dirt and stains on the wall."
 geo:
 id: 27317
 item_type: Still Image

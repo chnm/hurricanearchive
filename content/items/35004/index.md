@@ -20,6 +20,8 @@ files:
     original_filename: 2298628046_71ed5cb844.
     thumb: /files/thumbnails/14fb29c7976a8814fb29c7976e56.jpg
     url: /files/original/14fb29c7976a8814fb29c7976e56.jpg
+    alt:
+      en: "A man stands in the open back of a cargo truck handling a bicycle, assisted by another person, while three onlookers watch from the ground; the truck bears \"Werner Enterprises\" signage."
 geo:
 id: 35004
 item_type: Still Image

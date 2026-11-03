@@ -21,6 +21,8 @@ files:
     original_filename: admissions 1994_323d0e4b1c.jpg
     thumb: /files/thumbnails/14fb29d6cd644e14fb29d6cd682c.jpg
     url: /files/original/14fb29d6cd644e14fb29d6cd682c.jpg
+    alt:
+      en: "Black-and-white yearbook portrait of a woman with short dark hair and earrings, wearing a dark jacket, posed in front of a brick wall with a shelf holding a potted plant."
 geo:
 id: 26877
 item_type: Still Image

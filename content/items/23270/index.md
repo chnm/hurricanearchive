@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29f030a80f14fb29f030abf5.jpg
     url: /files/original/14fb29f030a80f14fb29f030abf5.jpg
+    alt:
+      en: "Damaged gas station canopy with twisted, collapsed metal supports hanging over a \"Spirit\" fuel pump, with boarded-up windows on the station building and an \"Ice\" sign visible."
 geo:
 id: 23270
 item_type: Still Image

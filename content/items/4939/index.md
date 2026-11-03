@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0281.JPG
     thumb: /files/thumbnails/14fb2a54e0b3e914fb2a54e0b7c9.jpg
     url: /files/original/14fb2a54e0b3e914fb2a54e0b7c9.jpg
+    alt:
+      en: "Damaged roofline of a small white outbuilding with exposed, rotted eaves, a cracked window, and weathered, stained siding, set beside overhanging trees."
 geo:
 id: 4939
 item_type: Still Image

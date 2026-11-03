@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 032.jpg
     thumb: /files/thumbnails/14fb2a12da602114fb2a12da6679.jpg
     url: /files/original/14fb2a12da602114fb2a12da6679.jpg
+    alt:
+      en: "A military Humvee equipped with a satellite dish and communications equipment is parked near canopy tents; a California National Guard emblem sign and uniformed personnel are visible nearby."
 geo:
 id: 19122
 item_type: Still Image

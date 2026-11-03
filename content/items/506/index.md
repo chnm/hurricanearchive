@@ -26,6 +26,8 @@ files:
     original_filename: jitb_367551a182.jpg
     thumb: /files/thumbnails/14fb2a6faa07bd14fb2a6faa0ba2.jpg
     url: /files/original/14fb2a6faa07bd14fb2a6faa0ba2.jpg
+    alt:
+      en: "A large Jack in the Box sign lies collapsed on an SUV in a parking lot, with a Super 8 Motel building and a Mobil sign visible in the background."
 geo:
   address: ''
   lat: 30.0387460356084

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0295.JPG
     thumb: /files/thumbnails/14fb2a54cc710b14fb2a54cc74f1.jpg
     url: /files/original/14fb2a54cc710b14fb2a54cc74f1.jpg
+    alt:
+      en: "Interior view of an attic or roofline showing exposed wooden rafters, strips of peeling tape or insulation backing hanging down, and a water-stained, discolored wall or ceiling panel below."
 geo:
 id: 4953
 item_type: Still Image

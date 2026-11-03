@@ -24,6 +24,8 @@ files:
     original_filename: P1010076.JPG
     thumb: /files/thumbnails/14fb2a5a8355f314fb2a5a8360fa.jpg
     url: /files/original/14fb2a5a8355f314fb2a5a8360fa.jpg
+    alt:
+      en: "A weathered gold-toned trophy with a basketball finial, fluted column, and two winged figures flanking its base, inscribed \"'63 Toys For Tots Bowl 2nd,\" set against a concrete block wall."
 geo:
 id: 3641
 item_type: Still Image

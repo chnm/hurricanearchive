@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7436.JPG
     thumb: /files/thumbnails/14fb29cca3975414fb29cca39b38.jpg
     url: /files/original/14fb29cca3975414fb29cca39b38.jpg
+    alt:
+      en: "Fallen tree limbs and branches lie across a yard beside a dark blue house with a metal roof and screened porch, with lens flare visible in the sunlight."
 geo:
 id: 30735
 item_type: Still Image

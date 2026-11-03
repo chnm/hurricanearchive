@@ -21,6 +21,8 @@ files:
     original_filename: DSC00064.jpg
     thumb: /files/thumbnails/14fb2a094cc27014fb2a094cc655.jpg
     url: /files/original/14fb2a094cc27014fb2a094cc655.jpg
+    alt:
+      en: "A military service member in uniform hands a bag of bottled water to a woman in a purple shirt and white hat, with a car trunk full of water bottles and a green military truck in the background."
 geo:
 id: 20325
 item_type: Still Image

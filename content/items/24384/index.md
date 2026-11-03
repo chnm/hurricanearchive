@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-05-4A.jpg
     thumb: /files/thumbnails/14fb29e859076c14fb29e8590b51.jpg
     url: /files/original/14fb29e859076c14fb29e8590b51.jpg
+    alt:
+      en: "Floodwaters submerge a parking lot with several vehicles partially underwater, as heavy rain and fog obscure trees and power lines in the background, with a lit streetlamp in the foreground."
 geo:
 id: 24384
 item_type: Still Image

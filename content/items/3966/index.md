@@ -21,6 +21,8 @@ files:
     original_filename: DSC01044.JPG
     thumb: /files/thumbnails/14fb2a58b2276814fb2a58b22b44.jpg
     url: /files/original/14fb2a58b2276814fb2a58b22b44.jpg
+    alt:
+      en: "Parking lot scene with RVs and a blue canopy tent sheltering people at a table, a dark green minivan parked nearby, and a damaged grassy embankment with a barn-style building reading \"R&O Restaurant\" in the background."
 geo:
 id: 3966
 item_type: Still Image

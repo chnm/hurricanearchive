@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0294downtownnola.JPG
     thumb: /files/thumbnails/14fb2a141b699314fb2a141b6d5c.jpg
     url: /files/original/14fb2a141b699314fb2a141b6d5c.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with scattered houses, bare lots, debris, and parked cars along empty streets, showing storm damage and cleared vegetation."
 geo:
 id: 18938
 item_type: Still Image

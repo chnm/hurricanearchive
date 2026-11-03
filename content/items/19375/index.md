@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2234engineers.JPG
     thumb: /files/thumbnails/14fb2a10ad54b014fb2a10ad5895.jpg
     url: /files/original/14fb2a10ad54b014fb2a10ad5895.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms, one wearing a hard hat with ear protection, confer amid storm debris and fallen branches, with damaged houses visible in the background."
 geo:
 id: 19375
 item_type: Still Image

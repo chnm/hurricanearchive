@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034M.JPG
     thumb: /files/thumbnails/14fb2a061ce18d14fb2a061ce573.jpg
     url: /files/original/14fb2a061ce18d14fb2a061ce573.jpg
+    alt:
+      en: "Damaged gas station canopy with twisted, collapsed metal paneling hanging over a Spirit fuel pump, with boarded-up windows on the adjacent store building, likely storm damage."
 geo:
 id: 20563
 item_type: Still Image

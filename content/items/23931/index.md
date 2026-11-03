@@ -21,6 +21,8 @@ files:
     original_filename: 09180001plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec53b73f14fb29ec53bb20.jpg
     url: /files/original/14fb29ec53b73f14fb29ec53bb20.jpg
+    alt:
+      en: "View from inside a military vehicle on a bridge, with a Humvee and a white SUV traveling ahead, a black SUV in the adjacent lane, and marshland visible beyond the guardrails."
 geo:
 id: 23931
 item_type: Still Image

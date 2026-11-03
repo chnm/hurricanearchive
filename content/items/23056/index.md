@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0066OEP.JPG
     thumb: /files/thumbnails/14fb29f1b2a76814fb29f1b2ab4b.jpg
     url: /files/original/14fb29f1b2a76814fb29f1b2ab4b.jpg
+    alt:
+      en: "Three men sit or perch outside a brick building reading phones and a laptop, beneath a sign reading \"Louisiana Military Department, Office of Homeland Security & Emergency Preparedness, Department of Public Safety & Corrections,\" with a memorial wreath on the wall."
 geo:
 id: 23056
 item_type: Still Image

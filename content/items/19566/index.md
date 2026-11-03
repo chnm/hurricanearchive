@@ -21,6 +21,8 @@ files:
     original_filename: S4300020zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f29f98414fb2a0f29ff9e.jpg
     url: /files/original/14fb2a0f29f98414fb2a0f29ff9e.jpg
+    alt:
+      en: "Six semi-trucks in varying colors (teal, red, maroon, blue, blue, white) parked side by side in an empty lot, with trailers and tall pine trees visible behind them under a hazy sky."
 geo:
 id: 19566
 item_type: Still Image

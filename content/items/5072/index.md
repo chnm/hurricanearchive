@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0417.JPG
     thumb: /files/thumbnails/14fb2a5418e78014fb2a5418eb63.jpg
     url: /files/original/14fb2a5418e78014fb2a5418eb63.jpg
+    alt:
+      en: "Debris-strewn roadside with a partially collapsed wooden structure, scattered wreckage, and storm-damaged houses in the background under a clear blue sky."
 geo:
 id: 5072
 item_type: Still Image

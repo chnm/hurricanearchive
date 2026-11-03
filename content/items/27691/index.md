@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6716_5b74afa017.JPG
     thumb: /files/thumbnails/14fb29d2ee7a7214fb29d2ee7e57.jpg
     url: /files/original/14fb29d2ee7a7214fb29d2ee7e57.jpg
+    alt:
+      en: "Black-and-white photo of a young girl in a short-sleeved dress, hat, and Mary Jane shoes, smiling while posing on concrete steps beside a wrought-iron railing and a house with wood siding."
 geo:
   address: ''
   lat: 29.84064

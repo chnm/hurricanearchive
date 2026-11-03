@@ -21,6 +21,8 @@ files:
     original_filename: MVC-028S.JPG
     thumb: /files/thumbnails/14fb2a5fbbbf0714fb2a5fbbc0e3.jpg
     url: /files/original/14fb2a5fbbbf0714fb2a5fbbc0e3.jpg
+    alt:
+      en: "A small chapel altar draped in a purple cloth embroidered with \"HOLY\" repeated, set with an open Bible, candlesticks, a chalice, flowers, and a crucifix, with religious artwork on the wall behind."
 geo:
 id: 2871
 item_type: Still Image

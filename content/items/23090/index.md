@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0100OEP.JPG
     thumb: /files/thumbnails/14fb29f195f13b14fb29f195f520.jpg
     url: /files/original/14fb29f195f13b14fb29f195f520.jpg
+    alt:
+      en: "Office workspace filled with uniformed military personnel and civilians at cubicles and desks, with a \"Homeland Security Advisory System\" chart on the wall and a glass-walled media room with cameras and a U.S. flag visible in the background."
 geo:
 id: 23090
 item_type: Still Image

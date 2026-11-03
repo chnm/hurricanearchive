@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1076Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f88bf10e14fb29f88bf950.jpg
     url: /files/original/14fb29f88bf10e14fb29f88bf950.jpg
+    alt:
+      en: "Flooded parking lot with several vehicles submerged up to their wheel wells, surrounded by heavy rain and fog obscuring background buildings and trees."
 geo:
 id: 22265
 item_type: Still Image

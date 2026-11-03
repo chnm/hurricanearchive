@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lower Garden (1).JPG
     thumb: /files/thumbnails/14fb2a5dbb95b414fb2a5dbb9998.jpg
     url: /files/original/14fb2a5dbb95b414fb2a5dbb9998.jpg
+    alt:
+      en: "Damaged theater marquee with partial letters \"T S\" visible, covered in blue tarp, debris scattered on street and sidewalk near a lamppost, with a church steeple in the background."
 geo:
 id: 3144
 item_type: Still Image

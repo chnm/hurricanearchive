@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0076-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a03d4ac0014fb2a03d4afe6.jpg
     url: /files/original/14fb2a03d4ac0014fb2a03d4afe6.jpg
+    alt:
+      en: "Two cowboys on horseback face each other in a grassy field, wearing hats, chaps, and holding coiled lassos, with a barn and truck visible in the background."
 geo:
 id: 20775
 item_type: Still Image

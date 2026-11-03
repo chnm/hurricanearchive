@@ -23,6 +23,8 @@ files:
     original_filename: 053_1b9a9a6ac5.JPG
     thumb: /files/thumbnails/14fb29c27c2bd714fb29c27c33d7.jpg
     url: /files/original/14fb29c27c2bd714fb29c27c33d7.jpg
+    alt:
+      en: "A crashed red helicopter lies on its side on a grassy bank of Bayou St. John, with the brick \"American Can\" building visible behind it."
 geo:
   address: 4173 Toulouse St
   lat: 29.9794

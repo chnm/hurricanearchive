@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012.JPG
     thumb: /files/thumbnails/14fb2a1382962514fb2a1382a112.jpg
     url: /files/original/14fb2a1382962514fb2a1382a112.jpg
+    alt:
+      en: "View from inside a helicopter's open door, with a soldier in camouflage gear and backpack in the foreground, looking down over a wooded area and a staging ground with tents and vehicles below."
 geo:
 id: 19048
 item_type: Still Image

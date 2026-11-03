@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2047superdome.JPG
     thumb: /files/thumbnails/14fb29df1879bc14fb29df187ef6.jpg
     url: /files/original/14fb29df1879bc14fb29df187ef6.jpg
+    alt:
+      en: "Chain-link fence with a \"Restricted Area\" sign in a parking lot, where a uniformed military person and others stand near several white vans, including one marked \"Acadian\" shuttle service."
 geo:
 id: 25320
 item_type: Still Image

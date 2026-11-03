@@ -21,6 +21,8 @@ files:
     original_filename: Behind the Superdomesuperdome.jpg
     thumb: /files/thumbnails/14fb29e5309be314fb29e5309f9f.jpg
     url: /files/original/14fb29e5309be314fb29e5309f9f.jpg
+    alt:
+      en: "Floodwaters submerge a parking lot of partially sunken cars and trucks near downtown buildings, with a large military vehicle parked on higher ground to the right."
 geo:
 id: 24745
 item_type: Still Image

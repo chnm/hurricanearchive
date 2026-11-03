@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-02-0Abatonrouge.jpg
     thumb: /files/thumbnails/14fb2a1547db6f14fb2a1547df4d.jpg
     url: /files/original/14fb2a1547db6f14fb2a1547df4d.jpg
+    alt:
+      en: "Aerial view of a sprawling shopping mall complex surrounded by large parking lots, with a suburban cityscape, scattered buildings, and roads extending into the hazy distance."
 geo:
 id: 18772
 item_type: Still Image

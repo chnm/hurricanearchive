@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00783 DSC00783cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5aa6b7d14fb29e5aa6f55.jpg
     url: /files/original/14fb29e5aa6b7d14fb29e5aa6f55.jpg
+    alt:
+      en: "A group of military personnel in desert and woodland camouflage uniforms, along with a few civilians, climb a staircase toward a large multi-paned window, backlit by bright daylight."
 geo:
 id: 24682
 item_type: Still Image

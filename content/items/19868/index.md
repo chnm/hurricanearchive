@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d109d3b14fb2a0d10a125.jpg
     url: /files/original/14fb2a0d109d3b14fb2a0d10a125.jpg
+    alt:
+      en: "Silhouette of a person in camouflage clothing working atop a wooden roof frame, backlit by bright sunlight with a lens flare, against a partly cloudy sky."
 geo:
 id: 19868
 item_type: Still Image

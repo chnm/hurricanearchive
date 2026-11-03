@@ -21,6 +21,8 @@ files:
     original_filename: new orleans patrol.JPG
     thumb: /files/thumbnails/14fb2a1a7efcd814fb2a1a7f00bd.jpg
     url: /files/original/14fb2a1a7efcd814fb2a1a7f00bd.jpg
+    alt:
+      en: "Debris-strewn city street lined with historic buildings and palm trees, street sign reading \"Canal,\" with standing water visible in the distance and no pedestrians present."
 geo:
   address: ''
   lat: 0.0

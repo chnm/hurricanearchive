@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7424.JPG
     thumb: /files/thumbnails/14fb29cca9e05214fb29cca9e431.jpg
     url: /files/original/14fb29cca9e05214fb29cca9e431.jpg
+    alt:
+      en: "A woman in a red cap and blue striped tank top photographs storm damage in a wooded area, with downed trees and branches scattered on the ground and a calico cat nearby."
 geo:
 id: 30727
 item_type: Still Image

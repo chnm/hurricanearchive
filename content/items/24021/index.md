@@ -21,6 +21,8 @@ files:
     original_filename: 14ocleadS&R.ss hneworleans
     thumb: /files/thumbnails/14fb29ebe8648314fb29ebe86867.jpg
     url: /files/original/14fb29ebe8648314fb29ebe86867.ss_hneworleans
+    alt:
+      en: "Rescue workers in navy blue uniforms kneel on a street sorting equipment, including an orange case and red bag, while military personnel in camouflage stand nearby beside an iron fence."
 geo:
 id: 24021
 item_type: Still Image

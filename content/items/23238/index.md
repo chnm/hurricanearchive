@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 3.jpg
     thumb: /files/thumbnails/14fb29f0888e3814fb29f08899eb.jpg
     url: /files/original/14fb29f0888e3814fb29f08899eb.jpg
+    alt:
+      en: "Satellite weather map of the Atlantic Ocean and Gulf Coast showing a tropical storm system with swirling cloud formations, timestamped 27 Aug 2005 21:20 GMT / 05:20 PM EDT, with a Weather Channel logo."
 geo:
 id: 23238
 item_type: Still Image

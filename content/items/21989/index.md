@@ -21,6 +21,8 @@ files:
     original_filename: Picture 320-J2.jpg
     thumb: /files/thumbnails/14fb29fa4e481b14fb29fa4e4f55.jpg
     url: /files/original/14fb29fa4e481b14fb29fa4e4f55.jpg
+    alt:
+      en: "Group of workers in dark shirts and jeans gathered near portable toilets and equipment under a covered outdoor area, with one man walking across a brick pavement in the foreground."
 geo:
 id: 21989
 item_type: Still Image

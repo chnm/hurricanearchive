@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2035superdome.JPG
     thumb: /files/thumbnails/14fb29df45170314fb29df451ae6.jpg
     url: /files/original/14fb29df45170314fb29df451ae6.jpg
+    alt:
+      en: "Elderly woman in a hospital gown, carrying an IV bag, is helped along by military personnel and others near a chain-link fence, with a document held up before her."
 geo:
 id: 25308
 item_type: Still Image

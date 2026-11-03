@@ -21,6 +21,8 @@ files:
     original_filename: J2 (36).JPG
     thumb: /files/thumbnails/14fb2a1133fd4b14fb2a11340133.jpg
     url: /files/original/14fb2a1133fd4b14fb2a11340133.jpg
+    alt:
+      en: "Aerial view of a multi-lane road running alongside a tree-lined, flooded drainage canal, with a bent streetlight leaning over the pavement and debris scattered along the shoulder."
 geo:
 id: 19318
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2195superdome.JPG
     thumb: /files/thumbnails/14fb29e462703d14fb29e4627a07.jpg
     url: /files/original/14fb29e462703d14fb29e4627a07.jpg
+    alt:
+      en: "Nighttime scene of a flooded street with a dark sedan and a charter bus labeled \"Young\" (unit 114) partially submerged in standing water, with additional buses parked alongside."
 geo:
 id: 24855
 item_type: Still Image

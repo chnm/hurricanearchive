@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28246.jpg
     thumb: /files/thumbnails/14fb2a6b611fd214fb2a6b612455.jpg
     url: /files/original/14fb2a6b611fd214fb2a6b612455.jpg
+    alt:
+      en: "Large multi-story hotel/casino building stands behind a damaged \"Bombay Bicycle Club Restaurant & Bar\" sign, with storm debris, a school bus, and vehicles scattered across the cleared lot in front."
 geo:
   address: ''
   lat: 0.0

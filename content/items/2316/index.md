@@ -26,6 +26,8 @@ files:
     original_filename: hk21_81df73a8b1.jpg
     thumb: /files/thumbnails/14fb2a6d57205a14fb2a6d572bea.jpg
     url: /files/original/14fb2a6d57205a14fb2a6d572bea.jpg
+    alt:
+      en: "Multi-story brick apartment building with exposed roof framing and debris from storm damage, wrought-iron balcony railings, and a plywood-boarded fence under a clear blue sky."
 geo:
   address: ''
   lat: 30.016378453880897

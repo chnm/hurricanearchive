@@ -26,6 +26,8 @@ files:
     original_filename: 17th_Street_Canal_1_6c96d74aec.jpg
     thumb: /files/thumbnails/14fb2a707317fe14fb2a70731bdb.jpg
     url: /files/original/14fb2a707317fe14fb2a70731bdb.jpg
+    alt:
+      en: "A damaged brick house stands amid debris-strewn, muddy ground, with yellow caution tape scattered across the lot and other storm-damaged structures visible in the background under a clear sky."
 geo:
   address: ''
   lat: 30.065367

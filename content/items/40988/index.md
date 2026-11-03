@@ -20,6 +20,8 @@ files:
     original_filename: Helicopter_db4517568e.jpg
     thumb: /files/thumbnails/14fb29c4b818dc14fb29c4b81cc2.jpg
     url: /files/original/14fb29c4b818dc14fb29c4b81cc2.jpg
+    alt:
+      en: "A large red helicopter lies overturned on its side in a grassy field, with landing gear wheels exposed in the air and visible dents and scratches on its fuselage."
 geo:
   address: ''
   lat: 0.0

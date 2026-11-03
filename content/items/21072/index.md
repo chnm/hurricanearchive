@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2186.JPG
     thumb: /files/thumbnails/14fb2a00b2fc7614fb2a00b3005c.jpg
     url: /files/original/14fb2a00b2fc7614fb2a00b3005c.jpg
+    alt:
+      en: "View from inside a helicopter cockpit, with a crew member's helmeted head in the foreground, looking out over a runway toward a damaged elevated highway structure and a crowd of people gathered near parked vehicles."
 geo:
 id: 21072
 item_type: Still Image

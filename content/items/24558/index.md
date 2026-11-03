@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0116-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e6b2a0d314fb29e6b2a595.jpg
     url: /files/original/14fb29e6b2a0d314fb29e6b2a595.jpg
+    alt:
+      en: "Aerial view of floodwater covering a landscape, with scattered clumps of trees or shrubs poking above the water's surface and faint linear shadows visible on the right side."
 geo:
 id: 24558
 item_type: Still Image

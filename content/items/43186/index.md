@@ -20,6 +20,8 @@ files:
     original_filename: room 7_c4217f8d40.jpg
     thumb: /files/thumbnails/14fb29c224594a14fb29c2246115.jpg
     url: /files/original/14fb29c224594a14fb29c2246115.jpg
+    alt:
+      en: "Split image showing attic rafters with exposed insulation and ductwork on the left, and a close-up of a damaged, debris-covered ceiling panel on the right, consistent with a partial ceiling collapse."
 geo:
   address: ''
   lat: 30.02053

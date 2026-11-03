@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_LoganPage_05_f0330fa806.jpg
     thumb: /files/thumbnails/14fb2a163daa2f14fb2a163dae15.jpg
     url: /files/original/14fb2a163daa2f14fb2a163dae15.jpg
+    alt:
+      en: "Studio portrait of a smiling baby seated against a white backdrop, wrapped in a white feather boa and wearing a purple and white beaded necklace, with \"Olan Mills © 96\" printed in the corner."
 geo:
 id: 15462
 item_type: Still Image

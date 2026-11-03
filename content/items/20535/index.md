@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030-20.JPG
     thumb: /files/thumbnails/14fb2a066440f614fb2a066444da.jpg
     url: /files/original/14fb2a066440f614fb2a066444da.jpg
+    alt:
+      en: "Four women wearing matching \"Danny's Cajun Catering, White Castle, La.\" t-shirts serve food into to-go containers with gloved hands at a catering line under a tent."
 geo:
 id: 20535
 item_type: Still Image

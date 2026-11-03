@@ -24,6 +24,8 @@ files:
     original_filename: AB Mardi Gras 1971_7cbaaa66bb.jpg
     thumb: /files/thumbnails/14fb29d95b164314fb29d95b1a28.jpg
     url: /files/original/14fb29d95b164314fb29d95b1a28.jpg
+    alt:
+      en: "Vintage photo of three people in elaborate feathered Mardi Gras costumes standing beside a parked car on a street with old buildings, dated December 1971."
 geo:
   address: ''
   lat: 29.91685

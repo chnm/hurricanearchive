@@ -23,6 +23,8 @@ files:
     original_filename: 160511333_dd3e9e812d.jpg
     thumb: /files/thumbnails/14fb29d21b38a314fb29d21b3c89.jpg
     url: /files/original/14fb29d21b38a314fb29d21b3c89.jpg
+    alt:
+      en: "Damaged structure with \"1608 Tennessee\" painted on its side, debris and torn insulation exposed, standing beside a road where vehicles pass and a bridge truss rises in the background."
 geo:
 id: 28617
 item_type: Still Image

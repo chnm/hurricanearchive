@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d98822014fb2a0d988486.jpg
     url: /files/original/14fb2a0d98822014fb2a0d988486.jpg
+    alt:
+      en: "Group of nine people, some in military fatigues and others in casual clothing, pose together in front of large canvas tents on grass, with a stepladder and folding cot nearby."
 geo:
 id: 19825
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0262Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4bbe7d314fb29f4bbebb7.jpg
     url: /files/original/14fb29f4bbe7d314fb29f4bbebb7.jpg
+    alt:
+      en: "A row of white vehicles—a pickup truck, an SUV with open rear hatch, and a sedan—parked along a street with wood mulch debris nearby, dated 09.15.2005."
 geo:
 id: 22694
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 0012.JPG
     thumb: /files/thumbnails/14fb2a5bd1dcd414fb2a5bd21074.jpg
     url: /files/original/14fb2a5bd1dcd414fb2a5bd21074.jpg
+    alt:
+      en: "Dark, nearly unlit street scene at dusk in Gentilly, with tree silhouettes framing a dim sky and a few distant lights marking the only visible illumination amid widespread power outage."
 geo:
 id: 3431
 item_type: Still Image

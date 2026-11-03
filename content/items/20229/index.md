@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0251-18.JPG
     thumb: /files/thumbnails/14fb2a0a90f67d14fb2a0a90fa62.jpg
     url: /files/original/14fb2a0a90f67d14fb2a0a90fa62.jpg
+    alt:
+      en: "Silhouette of a helmeted figure in the foreground, viewed from within a cockpit or vehicle, with the sun glaring through a windshield and a green light reflection near the bottom left."
 geo:
 id: 20229
 item_type: Still Image

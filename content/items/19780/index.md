@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 167cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd5b62414fb2a0dd5ba0b.jpg
     url: /files/original/14fb2a0dd5b62414fb2a0dd5ba0b.jpg
+    alt:
+      en: "White pickup truck labeled \"Louisiana La SAR\" with a wire cage in its bed holding rescued animals, parked near a bridge as two men in uniform stand beside it."
 geo:
 id: 19780
 item_type: Still Image

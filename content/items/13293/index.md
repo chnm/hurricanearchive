@@ -24,6 +24,8 @@ files:
     original_filename: wieser_d8515eca93.neighborhood.trailer5.jpg
     thumb: /files/thumbnails/14fb2a1e5a2f9e14fb2a1e5a3382.jpg
     url: /files/original/14fb2a1e5a2f9e14fb2a1e5a3382.jpg
+    alt:
+      en: "A red flatbed truck with tires in its bed sits parked on a grassy roadside in a quiet residential street lined with houses, trees, and utility poles."
 geo:
 id: 13293
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0539Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5279b3e14fb29f5279f25.jpg
     url: /files/original/14fb29f5279b3e14fb29f5279f25.jpg
+    alt:
+      en: "A camper or RV trailer floats partially submerged in brown floodwater beside a brick building, with other flooded structures visible in the rainy background."
 geo:
 id: 22588
 item_type: Still Image

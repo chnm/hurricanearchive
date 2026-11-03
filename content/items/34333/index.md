@@ -24,6 +24,8 @@ files:
     original_filename: French Market 1_a7917677b4.tiff
     thumb: /files/thumbnails/14fb29ca4d2f0114fb29ca4d36d0.jpg
     url: /files/original/14fb29ca4d2f0114fb29ca4d36d0.tiff
+    alt:
+      en: "Sepia-toned photograph (mounted on a worn gray album page) of a long row of men in white aprons and caps standing at a counter, with a menu board listing items like \"OYSTER COMBO,\" \"ROAST BEEF,\" and \"FRIED FISH\" with prices."
 geo:
 id: 34333
 item_type: Still Image

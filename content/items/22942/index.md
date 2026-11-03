@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048media.JPG
     thumb: /files/thumbnails/14fb29f291945114fb29f29199f9.jpg
     url: /files/original/14fb29f291945114fb29f29199f9.jpg
+    alt:
+      en: "A man wearing headphones operates a professional video camera (branded \"Ikegami\") from an aircraft, filming an aerial view of flooded neighborhoods, trees, and a river below."
 geo:
 id: 22942
 item_type: Still Image

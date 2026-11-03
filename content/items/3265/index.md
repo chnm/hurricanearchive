@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (29).JPG
     thumb: /files/thumbnails/14fb2a5cff370d14fb2a5cff3b1a.jpg
     url: /files/original/14fb2a5cff370d14fb2a5cff3b1a.jpg
+    alt:
+      en: "Cracked, dried mud covers the ground in an interlocking pattern of curled, plate-like segments separated by deep dark fissures, with scattered debris embedded in the surface."
 geo:
 id: 3265
 item_type: Still Image

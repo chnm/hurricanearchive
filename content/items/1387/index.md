@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28691.jpg
     thumb: /files/thumbnails/14fb2a6927153a14fb2a69271950.jpg
     url: /files/original/14fb2a6927153a14fb2a69271950.jpg
+    alt:
+      en: "A woman in a pink top stands before horse stalls marked with blue numbers, where box fans hang to cool the animals and a clipboard with notes is attached to the gate."
 geo:
   address: ''
   lat: 0.0

@@ -24,6 +24,8 @@ files:
     original_filename: P1010024.JPG
     thumb: /files/thumbnails/14fb2a5ba438fd14fb2a5ba43ce1.jpg
     url: /files/original/14fb2a5ba438fd14fb2a5ba43ce1.jpg
+    alt:
+      en: "A wide canal with small fishing boats docked along the left shore, an orange floating containment boom stretched across the water, and jets of water spraying up in the background near utility poles and trees."
 geo:
 id: 3456
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: Twisted FDL 2007_2b63ee5c5a.jpg
     thumb: /files/thumbnails/14fb29c513119214fb29c5131570.jpg
     url: /files/original/14fb29c513119214fb29c5131570.jpg
+    alt:
+      en: "Hammered stainless steel fleur-de-lis pendant with a textured, twisted design, stamped \"68\" and \"JD,\" hanging from a dark cord against a blurred blue background."
 geo:
   address: ''
   lat: 0.0

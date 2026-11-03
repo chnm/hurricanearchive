@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0129-21-2.JPG
     thumb: /files/thumbnails/14fb29e60e0f4814fb29e60e132f.jpg
     url: /files/original/14fb29e60e0f4814fb29e60e132f.jpg
+    alt:
+      en: "A man in U.S. Army camouflage fatigues, with a nametag partially reading \"MON,\" smiles while holding a partially eaten yellow apple, seated near computer monitors."
 geo:
 id: 24624
 item_type: Still Image

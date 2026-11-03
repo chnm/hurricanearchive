@@ -26,6 +26,8 @@ files:
     original_filename: debris_8996656dde.jpg
     thumb: /files/thumbnails/14fb2a6d59f2b314fb2a6d59f695.jpg
     url: /files/original/14fb2a6d59f2b314fb2a6d59f695.jpg
+    alt:
+      en: "Debris piles line a roadway near a four-way stop, with a white pickup truck and a hand-painted \"K-D EATS\" food sign in the foreground, and damaged trees and utility poles in the background."
 geo:
   address: ''
   lat: 29.728011161944703

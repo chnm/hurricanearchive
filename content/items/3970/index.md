@@ -21,6 +21,8 @@ files:
     original_filename: DSC01053.JPG
     thumb: /files/thumbnails/14fb2a58af00a414fb2a58af0482.jpg
     url: /files/original/14fb2a58af00a414fb2a58af0482.jpg
+    alt:
+      en: "Under a covered walkway, an improvised camp with green tarps and tents, stacked Huggies boxes, water bottles, a duffel bag, and an orange Igloo cooler; a plywood panel with red spray-painted text stands at right."
 geo:
 id: 3970
 item_type: Still Image

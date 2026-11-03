@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28318.jpg
     thumb: /files/thumbnails/14fb2a6d3499b414fb2a6d349d9a.jpg
     url: /files/original/14fb2a6d3499b414fb2a6d349d9a.jpg
+    alt:
+      en: "Heavily storm-damaged building with exposed framing and stripped walls stands amid scattered debris and bare trees, its upper floors partially intact above a collapsed lower structure."
 geo:
   address: ''
   lat: 0.0

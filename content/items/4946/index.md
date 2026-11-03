@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0288.JPG
     thumb: /files/thumbnails/14fb2a54d2184514fb2a54d21c2c.jpg
     url: /files/original/14fb2a54d2184514fb2a54d21c2c.jpg
+    alt:
+      en: "Interior view of an attic or crawlspace showing exposed wooden roof framing and beams with discolored fiberglass insulation batts hanging down, suggesting water damage."
 geo:
 id: 4946
 item_type: Still Image

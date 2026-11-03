@@ -24,6 +24,8 @@ files:
     original_filename: P1010149.JPG
     thumb: /files/thumbnails/14fb2a5a11ef2414fb2a5a11f302.jpg
     url: /files/original/14fb2a5a11ef2414fb2a5a11f302.jpg
+    alt:
+      en: "Weathered white front door with an oval etched-glass panel, flanked by a house number plaque reading \"6555\" and a small \"Welcome\" mailbox, with visible horizontal water stains on the stucco wall."
 geo:
 id: 3704
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20050927002.JPG
     thumb: /files/thumbnails/14fb2a1c6b98ef14fb2a1c6b9c97.jpg
     url: /files/original/14fb2a1c6b98ef14fb2a1c6b9c97.jpg
+    alt:
+      en: "Military trucks parked on a dirt lot near a row of yellow portable toilets, with a man in camouflage standing by one truck under an overcast, foggy sky."
 geo:
   address: ''
   lat: 0.0

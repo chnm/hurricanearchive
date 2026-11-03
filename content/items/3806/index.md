@@ -21,6 +21,8 @@ files:
     original_filename: 100_0086.JPG
     thumb: /files/thumbnails/14fb2a5976bd2314fb2a5976c108.jpg
     url: /files/original/14fb2a5976bd2314fb2a5976c108.jpg
+    alt:
+      en: "Storm-damaged brick and stucco apartment buildings with torn roofing and exposed walls, surrounded by debris, a leaning utility pole, broken fencing, and a red dumpster on a grassy lawn."
 geo:
 id: 3806
 item_type: Still Image

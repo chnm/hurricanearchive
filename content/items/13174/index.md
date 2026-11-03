@@ -21,6 +21,8 @@ files:
     original_filename: 166 cars buried.jpg
     thumb: /files/thumbnails/14fb2a1f9b1cdb14fb2a1f9b20c2.jpg
     url: /files/original/14fb2a1f9b1cdb14fb2a1f9b20c2.jpg
+    alt:
+      en: "White cars nearly buried under collapsed metal roofing, beams, and debris beside a brick-pillared structure, with trees and overcast sky in the background."
 geo:
 id: 13174
 item_type: Still Image

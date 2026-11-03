@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2175superdome.JPG
     thumb: /files/thumbnails/14fb29e478c43d14fb29e478cbcd.jpg
     url: /files/original/14fb29e478c43d14fb29e478cbcd.jpg
+    alt:
+      en: "Dimly lit interior hallway with scattered water bottles and debris on the floor, empty metal benches in the foreground, a group of people standing near a doorway, and armed personnel seated at right."
 geo:
 id: 24835
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1085Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8454a1914fb29f8454dfd.jpg
     url: /files/original/14fb29f8454a1914fb29f8454dfd.jpg
+    alt:
+      en: "Dark interior view through a doorway, with floodwater covering the floor and reflecting light from the bright opening ahead; small windows are visible along the walls."
 geo:
 id: 22274
 item_type: Still Image

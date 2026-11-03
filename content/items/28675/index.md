@@ -25,6 +25,8 @@ files:
     original_filename: 157300448_be2a93c0d3.jpg
     thumb: /files/thumbnails/14fb29d1c9b3ee14fb29d1c9b7c9.jpg
     url: /files/original/14fb29d1c9b3ee14fb29d1c9b7c9.jpg
+    alt:
+      en: "Large curved stadium exterior with vertical paneling, a metal pole and lights in foreground, trees below, and city high-rises in the background under a cloudy sky."
 geo:
 id: 28675
 item_type: Still Image

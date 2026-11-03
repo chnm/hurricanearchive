@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-13-11A.jpg
     thumb: /files/thumbnails/14fb29e8a97fa914fb29e8a98382.jpg
     url: /files/original/14fb29e8a97fa914fb29e8a98382.jpg
+    alt:
+      en: "A red minivan partially submerged in floodwater beside a fallen tree, with a building visible in the background and a side mirror visible in the foreground."
 geo:
 id: 24337
 item_type: Still Image

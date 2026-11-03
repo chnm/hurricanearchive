@@ -21,6 +21,8 @@ files:
     original_filename: P1010148empireS&R.JPG
     thumb: /files/thumbnails/14fb29edb1806414fb29edb18380.jpg
     url: /files/original/14fb29edb1806414fb29edb18380.jpg
+    alt:
+      en: "A road leading toward an overhead sign reading \"EMPIRE, LA - DOULLUT CANAL BRIDGE,\" with storm debris scattered along the roadside and a dirty windshield in the foreground."
 geo:
 id: 23707
 item_type: Still Image

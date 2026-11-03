@@ -24,6 +24,8 @@ files:
     original_filename: P1010096.JPG
     thumb: /files/thumbnails/14fb2a5b2ecf9614fb2a5b2ed37c.jpg
     url: /files/original/14fb2a5b2ecf9614fb2a5b2ed37c.jpg
+    alt:
+      en: "Elevated white house with a screened front porch, gabled roof, and ground-level garage openings, flanked by trees and a palm tree, with a \"Clover\" street sign visible nearby."
 geo:
 id: 3521
 item_type: Still Image

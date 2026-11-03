@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (69).jpg
     thumb: /files/thumbnails/14fb2a5c795f7c14fb2a5c796399.jpg
     url: /files/original/14fb2a5c795f7c14fb2a5c796399.jpg
+    alt:
+      en: "A large rust-streaked barge marked \"ING 472T\" sits grounded beside a flooded canal, surrounded by storm-damaged homes, downed power lines, and debris-strewn banks."
 geo:
 id: 3309
 item_type: Still Image

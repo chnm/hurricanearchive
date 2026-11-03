@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0176abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef06cb8e14fb29ef06cf7c.jpg
     url: /files/original/14fb29ef06cb8e14fb29ef06cf7c.jpg
+    alt:
+      en: "Two men stand on a brick-walled porch, one in a gray-blue cap and shirt looking down, the other in a striped shirt holding a cigarette, with a flowering plant partially obscuring the foreground."
 geo:
 id: 23552
 item_type: Still Image

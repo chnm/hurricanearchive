@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 019.jpg
     thumb: /files/thumbnails/14fb2a22ca2a2714fb2a22ca2de7.jpg
     url: /files/original/14fb2a22ca2a2714fb2a22ca2de7.jpg
+    alt:
+      en: "A collapsed, wind-mangled sign structure lies in a parking lot in front of a shopping center labeled \"Village Square,\" with damaged roofing visible in the background; dated 2005/09/24."
 geo:
 id: 11897
 item_type: Still Image

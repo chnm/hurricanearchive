@@ -24,6 +24,8 @@ files:
     original_filename: P1010017.JPG
     thumb: /files/thumbnails/14fb2a5aad9fcc14fb2a5aada3a7.jpg
     url: /files/original/14fb2a5aad9fcc14fb2a5aada3a7.jpg
+    alt:
+      en: "A large uprooted tree lies across a cracked concrete surface in front of a brick house, with scattered branches and debris covering the yard and porch area."
 geo:
 id: 3590
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010021.JPG
     thumb: /files/thumbnails/14fb2a5ba824a114fb2a5ba82883.jpg
     url: /files/original/14fb2a5ba824a114fb2a5ba82883.jpg
+    alt:
+      en: "A barren, debris-strewn lot stripped of former homes, with scattered rubble, a toppled container, and a steel beam in the foreground; damaged houses and bare trees line the background."
 geo:
 id: 3453
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046-16.JPG
     thumb: /files/thumbnails/14fb2a05904d2e14fb2a05905114.jpg
     url: /files/original/14fb2a05904d2e14fb2a05905114.jpg
+    alt:
+      en: "Storm-damaged neighborhood with a collapsed white building, scattered debris and wood planks on a grassy lot, leaning utility poles, and a body of water in the background."
 geo:
 id: 20629
 item_type: Still Image

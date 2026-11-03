@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1624neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee79933c14fb29ee799722.jpg
     url: /files/original/14fb29ee79933c14fb29ee799722.jpg
+    alt:
+      en: "Damaged building with torn rooftop and exposed debris, four flagpoles flying flags out front, a bent palm tree, a railroad crossing sign, and people gathered on the sidewalk below."
 geo:
 id: 23611
 item_type: Still Image

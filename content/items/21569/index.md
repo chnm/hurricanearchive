@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0305-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd80854d14fb29fd808931.jpg
     url: /files/original/14fb29fd80854d14fb29fd808931.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with several houses surrounded by brown floodwater, submerged fences, a swing set, and scattered trees."
 geo:
 id: 21569
 item_type: Still Image

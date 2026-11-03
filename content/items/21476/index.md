@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0271-9-25.JPG
     thumb: /files/thumbnails/14fb29fe64030614fb29fe6406eb.jpg
     url: /files/original/14fb29fe64030614fb29fe6406eb.jpg
+    alt:
+      en: "Aerial view of a flooded roadway with vehicles, including emergency and military trucks, lined up along a partially submerged road, while other vehicles sit stranded in the floodwaters nearby."
 geo:
 id: 21476
 item_type: Still Image

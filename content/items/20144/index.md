@@ -21,6 +21,8 @@ files:
     original_filename: Picture 241cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b0ece5014fb2a0b0ed22e.jpg
     url: /files/original/14fb2a0b0ece5014fb2a0b0ed22e.jpg
+    alt:
+      en: "A concrete residential street lined with trees, with storm debris and fallen branches scattered along the grassy roadside; green grass grows through cracks in the pavement."
 geo:
 id: 20144
 item_type: Still Image

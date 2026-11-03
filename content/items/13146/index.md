@@ -21,6 +21,8 @@ files:
     original_filename: windy debris.jpg
     thumb: /files/thumbnails/14fb2a2000cf2214fb2a2000d68e.jpg
     url: /files/original/14fb2a2000cf2214fb2a2000d68e.jpg
+    alt:
+      en: "Rain-soaked parking lot in heavy fog, with a chain-link fence, light poles, and a tall tower silhouette barely visible; scattered debris lies near the fence line."
 geo:
 id: 13146
 item_type: Still Image

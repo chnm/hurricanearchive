@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (76).JPG
     thumb: /files/thumbnails/14fb2a5d2d5b7c14fb2a5d2d5f58.jpg
     url: /files/original/14fb2a5d2d5b7c14fb2a5d2d5f58.jpg
+    alt:
+      en: "Abandoned storefront with a red-and-white sign, broken windows, and debris scattered across a gravel lot, with a canopy structure and bare trees in the background."
 geo:
 id: 3229
 item_type: Still Image

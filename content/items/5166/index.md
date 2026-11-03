@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0528.JPG
     thumb: /files/thumbnails/14fb2a53999bf514fb2a5399b5f0.jpg
     url: /files/original/14fb2a53999bf514fb2a5399b5f0.jpg
+    alt:
+      en: "Empty concrete slab foundation with charred wooden posts marking its perimeter, surrounded by patchy grass, with a parked car and tree line visible in the background."
 geo:
 id: 5166
 item_type: Still Image

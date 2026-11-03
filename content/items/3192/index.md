@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (42).JPG
     thumb: /files/thumbnails/14fb2a5d63a7c714fb2a5d63abc0.jpg
     url: /files/original/14fb2a5d63a7c714fb2a5d63abc0.jpg
+    alt:
+      en: "Cleared lot with demolition equipment, including a yellow excavator and an orange \"Asplundh\" bucket truck, in front of a partially damaged building; two parked cars in foreground."
 geo:
 id: 3192
 item_type: Still Image

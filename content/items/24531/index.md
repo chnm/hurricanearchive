@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0111-16.JPG
     thumb: /files/thumbnails/14fb29e6f2ff1614fb29e6f302e7.jpg
     url: /files/original/14fb29e6f2ff1614fb29e6f302e7.jpg
+    alt:
+      en: "Damaged concrete bridge section with exposed rebar and a traffic cone marked with orange flagging tape, as workers in safety vests examine the structure nearby."
 geo:
 id: 24531
 item_type: Still Image

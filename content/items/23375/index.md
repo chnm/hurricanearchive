@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0075cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efc34dfe14fb29efc351e4.jpg
     url: /files/original/14fb29efc34dfe14fb29efc351e4.jpg
+    alt:
+      en: "Aerial view of extensively flooded coastal land with scattered trees, a small building, and submerged fields under a hazy gray sky, marshland visible in the distance."
 geo:
 id: 23375
 item_type: Still Image

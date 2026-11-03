@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0566.JPG
     thumb: /files/thumbnails/14fb2a5696a74314fb2a5696ab2a.jpg
     url: /files/original/14fb2a5696a74314fb2a5696ab2a.jpg
+    alt:
+      en: "A damaged, debris-strewn wooded yard with stripped and broken trees, scattered plastic bags caught in branches, and a stone path leading through the dry, cleared undergrowth."
 geo:
 id: 4637
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0579Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f50a314b14fb29f50a3530.jpg
     url: /files/original/14fb29f50a314b14fb29f50a3530.jpg
+    alt:
+      en: "A large splintered tree trunk lies broken in floodwater beside a brick building with white columns and balcony railings, a person visible standing in the shadowed doorway behind it."
 geo:
 id: 22615
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4980_6cb6d39038.jpg
     thumb: /files/thumbnails/14fb2a1e1f1c7a14fb2a1e1f2062.jpg
     url: /files/original/14fb2a1e1f1c7a14fb2a1e1f2062.jpg
+    alt:
+      en: "Black textured photo album cover with an oval cutout displaying a family photo of an older woman, teens, and a young child gathered together, with the brand name \"Always\" printed in the corner."
 geo:
 id: 13387
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 1282498644_8da72fdd06.jpg
     thumb: /files/thumbnails/14fb29cb8b91b414fb29cb8b97e9.jpg
     url: /files/original/14fb29cb8b91b414fb29cb8b97e9.jpg
+    alt:
+      en: "Boarded-up single-story houses with peeling paint line a quiet residential street, utility poles and wires overhead, a \"SALE\" sign posted near the porch, and overgrown grass in the yards."
 geo:
 id: 33210
 item_type: Still Image

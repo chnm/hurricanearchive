@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 008.jpg
     thumb: /files/thumbnails/14fb2a22e460c514fb2a22e467c9.jpg
     url: /files/original/14fb2a22e460c514fb2a22e467c9.jpg
+    alt:
+      en: "Shrimp boats, some listing or partially sunk, crowd a narrow waterway lined with trees, with hull number 658577 visible; photo dated 2005/09/24."
 geo:
 id: 11886
 item_type: Still Image

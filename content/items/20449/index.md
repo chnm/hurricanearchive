@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a071edf6114fb2a071ee345.jpg
     url: /files/original/14fb2a071edf6114fb2a071ee345.jpg
+    alt:
+      en: "Flooded yard surrounding a red house on stilts with a white wheelchair ramp, a pickup truck and ATV parked nearby, and wind-bent trees under a cloudy sky."
 geo:
 id: 20449
 item_type: Still Image

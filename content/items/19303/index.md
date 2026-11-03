@@ -21,6 +21,8 @@ files:
     original_filename: J2 (22).JPG
     thumb: /files/thumbnails/14fb2a11441bcd14fb2a114423e0.jpg
     url: /files/original/14fb2a11441bcd14fb2a114423e0.jpg
+    alt:
+      en: "Aerial view of a flat coastal town with grid-patterned streets, scattered trees, warehouses, and a river lined with ships in the distance; vegetation appears scorched or storm-damaged throughout."
 geo:
 id: 19303
 item_type: Still Image

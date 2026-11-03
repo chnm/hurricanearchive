@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 101cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dc800e514fb2a0dc804ca.jpg
     url: /files/original/14fb2a0dc800e514fb2a0dc804ca.jpg
+    alt:
+      en: "Large white boat with visible damage and weathered hull sits on gravel ground, viewed through a vehicle window with a crane visible in the background."
 geo:
 id: 19798
 item_type: Still Image

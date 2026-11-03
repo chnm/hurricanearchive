@@ -26,6 +26,8 @@ files:
     original_filename: Picture_063_edf0a3ae28.jpg
     thumb: /files/thumbnails/14fb2a7097d3f114fb2a7097dbd2.jpg
     url: /files/original/14fb2a7097d3f114fb2a7097dbd2.jpg
+    alt:
+      en: "A person with reddish hair wears a respirator mask while handling a large black garbage bag, standing in a kitchen with photos and mementos pinned to the walls behind them."
 geo:
   address: ''
   lat: 29.938343

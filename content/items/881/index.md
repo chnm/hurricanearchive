@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28606.jpg
     thumb: /files/thumbnails/14fb2a6c85f75a14fb2a6c85fb40.jpg
     url: /files/original/14fb2a6c85f75a14fb2a6c85fb40.jpg
+    alt:
+      en: "A white house with a curved, rounded front section and multiple windows shows weathered water staining on its exterior walls, with a man standing on the front steps amid overgrown dead vegetation."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 053.jpg
     thumb: /files/thumbnails/14fb2a12c3dda114fb2a12c3e182.jpg
     url: /files/original/14fb2a12c3dda114fb2a12c3e182.jpg
+    alt:
+      en: "Close-up of a woodland camouflage uniform shoulder patch featuring a circular insignia with a quartered cross design in olive green and black thread."
 geo:
 id: 19143
 item_type: Still Image

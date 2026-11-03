@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0303.JPG
     thumb: /files/thumbnails/14fb2a54c77fbc14fb2a54c783a2.jpg
     url: /files/original/14fb2a54c77fbc14fb2a54c783a2.jpg
+    alt:
+      en: "Storm-damaged residential street with a bare, wind-stripped tree in the foreground, debris piled near curbs, and two people standing near a house with a boarded window."
 geo:
 id: 4961
 item_type: Still Image

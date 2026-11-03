@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0685.JPG
     thumb: /files/thumbnails/14fb2a533a78db14fb2a533a7cc0.jpg
     url: /files/original/14fb2a533a78db14fb2a533a7cc0.jpg
+    alt:
+      en: "A storm-damaged house with a beige siding and a collapsed roof section exposing wooden beams, with a large fallen tree and broken branches piled against the structure."
 geo:
 id: 5240
 item_type: Still Image

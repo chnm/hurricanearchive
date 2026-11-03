@@ -20,6 +20,8 @@ files:
     original_filename: mariesbar_1c7b461fee.jpg
     thumb: /files/thumbnails/14fb29c308164c14fb29c3081a31.jpg
     url: /files/original/14fb29c308164c14fb29c3081a31.jpg
+    alt:
+      en: "Two-story wooden building with green trim, its lower facade exposing old hand-painted signs reading \"Walter Patrolia Beer Parlor, Cigars Cigarettes Tobacco\" and \"Drink JAX, Best Beer in Town,\" dated 06/08/2009."
 geo:
   address: ''
   lat: 0.0

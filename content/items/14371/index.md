@@ -21,6 +21,8 @@ files:
     original_filename: aerials8.jpg
     thumb: /files/thumbnails/14fb2a198bfd8b14fb2a198c063b.jpg
     url: /files/original/14fb2a198bfd8b14fb2a198c063b.jpg
+    alt:
+      en: "Aerial view of widespread storm debris and splintered wood covering the ground on both sides of a railroad track, with trees and scattered rubble extending into the distance."
 geo:
 id: 14371
 item_type: Still Image

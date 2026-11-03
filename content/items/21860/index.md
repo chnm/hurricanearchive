@@ -21,6 +21,8 @@ files:
     original_filename: Exxon Mobil - Looking North.jpg
     thumb: /files/thumbnails/14fb29fb5a120914fb29fb5a15e5.jpg
     url: /files/original/14fb29fb5a120914fb29fb5a15e5.jpg
+    alt:
+      en: "Aerial view of the Exxon Mobil refinery complex with storage tanks and processing units, bordered by a flooded residential grid and waterways under hazy skies."
 geo:
 id: 21860
 item_type: Still Image

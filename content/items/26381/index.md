@@ -21,6 +21,8 @@ files:
     original_filename: RhinaKissee-5922_5655568713.jpg
     thumb: /files/thumbnails/14fb29d90bf3a914fb29d90bf615.jpg
     url: /files/original/14fb29d90bf3a914fb29d90bf615.jpg
+    alt:
+      en: "Bathroom with an oval soaking tub surrounded by a painted mural of stone walls, trees, and an iron gate, decorated with holiday greenery, gold-wrapped gifts, and folded towels."
 geo:
   address: 3709 Palmisano Blvd., Chalmette, LA
   lat: 29.95079

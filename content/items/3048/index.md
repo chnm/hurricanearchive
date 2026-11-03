@@ -21,6 +21,8 @@ files:
     original_filename: 100_0297.JPG
     thumb: /files/thumbnails/14fb2a5e5537bd14fb2a5e553ba3.jpg
     url: /files/original/14fb2a5e5537bd14fb2a5e553ba3.jpg
+    alt:
+      en: "A gray Navy battleship moored at a dock under a clear blue sky, with a person walking across a gangway toward the vessel and gun turrets and mast structures visible on deck."
 geo:
 id: 3048
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0545.JPG
     thumb: /files/thumbnails/14fb2a5379483d14fb2a53794c22.jpg
     url: /files/original/14fb2a5379483d14fb2a53794c22.jpg
+    alt:
+      en: "Wooden post-and-beam structure with diagonal braces stands on a concrete slab, with a distant highway overpass and trees visible under a clear blue sky."
 geo:
 id: 5183
 item_type: Still Image

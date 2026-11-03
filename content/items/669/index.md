@@ -26,6 +26,8 @@ files:
     original_filename: 020_18_eda7208a91.jpg
     thumb: /files/thumbnails/14fb2a6f2e982614fb2a6f2e9c14.jpg
     url: /files/original/14fb2a6f2e982614fb2a6f2e9c14.jpg
+    alt:
+      en: "Red two-story building at the corner of Magazine and Jackson Avenue with a partially collapsed roof and damaged upper wall, windows boarded, parked cars and debris along the street in front, under a cloudy sky."
 geo:
   address: ''
   lat: 29.951067479461596

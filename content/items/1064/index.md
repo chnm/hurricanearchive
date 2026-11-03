@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28632.jpg
     thumb: /files/thumbnails/14fb2a6b37fff614fb2a6b3803e4.jpg
     url: /files/original/14fb2a6b37fff614fb2a6b3803e4.jpg
+    alt:
+      en: "A stack of metal scaffolding pipes with circular flanged joints, with a roll of yellow caution tape reading \"NO...\" resting on top of the pile."
 geo:
   address: ''
   lat: 0.0

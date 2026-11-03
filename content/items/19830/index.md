@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d847f0d14fb2a0d84822f.jpg
     url: /files/original/14fb2a0d847f0d14fb2a0d84822f.jpg
+    alt:
+      en: "A soldier in camouflage uniform films another man coiling a cable with a Sony video camera, amid outdoor equipment, work lights, and a tent city encampment."
 geo:
 id: 19830
 item_type: Still Image

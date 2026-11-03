@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028tolbertmedia.JPG
     thumb: /files/thumbnails/14fb29f2aba0f914fb29f2aba4d1.jpg
     url: /files/original/14fb29f2aba0f914fb29f2aba4d1.jpg
+    alt:
+      en: "A man aboard an aircraft holds a video camera with a wind-muffled microphone, filming through an open door as an aerial cityscape of trees and buildings stretches below."
 geo:
 id: 22926
 item_type: Still Image

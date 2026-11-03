@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (28).JPG
     thumb: /files/thumbnails/14fb2a5d7471e614fb2a5d7475d4.jpg
     url: /files/original/14fb2a5d7471e614fb2a5d7475d4.jpg
+    alt:
+      en: "A storm-damaged building with boarded and broken windows sits behind a large fallen tree and debris piles, photographed from inside a vehicle with the side mirror visible in the foreground."
 geo:
 id: 3176
 item_type: Still Image

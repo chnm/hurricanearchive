@@ -26,6 +26,8 @@ files:
     original_filename: r57870_158447_82a4ab9118.jpg
     thumb: /files/thumbnails/14fb2a70e6201714fb2a70e62407.jpg
     url: /files/original/14fb2a70e6201714fb2a70e62407.jpg
+    alt:
+      en: "Aerial view of several orange Coast Guard flat boats carrying rescue workers navigating floodwaters between rooftops, with a partially submerged boat floating nearby."
 geo:
   address: ''
   lat: 29.9549345496561

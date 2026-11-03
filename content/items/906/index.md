@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28538.jpg
     thumb: /files/thumbnails/14fb2a6c5a789314fb2a6c5a8649.jpg
     url: /files/original/14fb2a6c5a789314fb2a6c5a8649.jpg
+    alt:
+      en: "Storefront with green-framed bay windows and double doors beneath three arched fanlight windows on a cream and salmon-colored building, a street lamp and parking meter stand on the sidewalk."
 geo:
   address: ''
   lat: 0.0

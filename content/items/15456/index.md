@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TylerColeman_03_8dafc9deb9.jpg
     thumb: /files/thumbnails/14fb2a16487a9314fb2a16487d5d.jpg
     url: /files/original/14fb2a16487a9314fb2a16487d5d.jpg
+    alt:
+      en: "Two young boys smile for a photo at Chuck E. Cheese, one wearing a birthday crown, standing before a tropical beach-themed mural."
 geo:
 id: 15456
 item_type: Still Image

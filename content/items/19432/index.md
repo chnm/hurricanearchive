@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0115engineers.JPG
     thumb: /files/thumbnails/14fb2a102926cb14fb2a10292f5b.jpg
     url: /files/original/14fb2a102926cb14fb2a10292f5b.jpg
+    alt:
+      en: "A military truck parked on a bridge with a soldier in camouflage and a man in civilian clothes standing nearby, while two more vehicles wait behind on the roadway."
 geo:
 id: 19432
 item_type: Still Image

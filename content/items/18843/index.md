@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0065grandisle.JPG
     thumb: /files/thumbnails/14fb2a14f3e13014fb2a14f3e517.jpg
     url: /files/original/14fb2a14f3e13014fb2a14f3e517.jpg
+    alt:
+      en: "Aerial view of a coastal neighborhood with elevated beach houses, where a massive swath of splintered wood and storm debris separates the homes from the shoreline."
 geo:
 id: 18843
 item_type: Still Image

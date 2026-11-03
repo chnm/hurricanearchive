@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0404_71a4a6ca13.JPG
     thumb: /files/thumbnails/14fb2a70180c6a14fb2a70181046.jpg
     url: /files/original/14fb2a70180c6a14fb2a70181046.jpg
+    alt:
+      en: "A severely damaged yellow school bus, marked \"Pass Christian Public Schools,\" lies tilted on its side amid debris and gravel near a metal building and railroad tracks."
 geo:
   address: ''
   lat: 30.3278420010727

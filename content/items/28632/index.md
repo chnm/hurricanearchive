@@ -25,6 +25,8 @@ files:
     original_filename: 158885505_691c956e67.jpg
     thumb: /files/thumbnails/14fb29d202071d14fb29d2020ae9.jpg
     url: /files/original/14fb29d202071d14fb29d2020ae9.jpg
+    alt:
+      en: "Severely damaged house with collapsed walls and exposed interior debris, spray-painted \"2520 GPS\" on a window panel, sits beside a wrecked maroon car with its trunk smashed open."
 geo:
 id: 28632
 item_type: Still Image

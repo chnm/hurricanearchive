@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0158abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef1ec12b14fb29ef1ec506.jpg
     url: /files/original/14fb29ef1ec12b14fb29ef1ec506.jpg
+    alt:
+      en: "A storm-damaged single-story building labeled \"WEST END GROCERY\" with a missing roof shingles and debris, surrounded by dead grass, a collapsed chain-link fence, and scattered wreckage."
 geo:
 id: 23522
 item_type: Still Image

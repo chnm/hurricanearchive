@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-14-13A.jpg
     thumb: /files/thumbnails/14fb29e900a51714fb29e900a8c5.jpg
     url: /files/original/14fb29e900a51714fb29e900a8c5.jpg
+    alt:
+      en: "Floodwaters submerge a parking lot and street, with numerous cars partially underwater near multi-story buildings; a large military vehicle sits parked beside a flooded overpass."
 geo:
 id: 24294
 item_type: Still Image

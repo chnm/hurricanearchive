@@ -21,6 +21,8 @@ files:
     original_filename: 100_0175.JPG
     thumb: /files/thumbnails/14fb2a591dcbf814fb2a591dcfd2.jpg
     url: /files/original/14fb2a591dcbf814fb2a591dcfd2.jpg
+    alt:
+      en: "Floodwater submerges a residential street with houses and trees, nearly covering a dark-colored vehicle with only its rear roofline visible above the surface."
 geo:
 id: 3882
 item_type: Still Image

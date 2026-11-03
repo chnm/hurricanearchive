@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1564superdome.JPG
     thumb: /files/thumbnails/14fb29e2b817c514fb29e2b81c2a.jpg
     url: /files/original/14fb29e2b817c514fb29e2b81c2a.jpg
+    alt:
+      en: "Four men in military camouflage uniforms gather around laptop computers inside a tent, with supply boxes, radios, and equipment visible on the cluttered table in front of them."
 geo:
 id: 25039
 item_type: Still Image

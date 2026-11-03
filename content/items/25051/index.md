@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1576superdome.JPG
     thumb: /files/thumbnails/14fb29e2a4f14a14fb29e2a4f4ef.jpg
     url: /files/original/14fb29e2a4f14a14fb29e2a4f4ef.jpg
+    alt:
+      en: "A convoy of military Humvees, marked \"772 229MP\" and \"X302,\" drives up a dry ramp from a deeply flooded roadway lined with partially submerged cars and a minivan."
 geo:
 id: 25051
 item_type: Still Image

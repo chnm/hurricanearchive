@@ -21,6 +21,8 @@ files:
     original_filename: PICT0244Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c1fc6414fb29f4c20051.jpg
     url: /files/original/14fb29f4c1fc6414fb29f4c20051.jpg
+    alt:
+      en: "A large fallen tree limb rests on the damaged roof and porch of a white clapboard house, with a brick chimney and exposed rafters visible; date stamp reads 09.15.2005."
 geo:
 id: 22686
 item_type: Still Image

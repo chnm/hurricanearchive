@@ -24,6 +24,8 @@ files:
     original_filename: SW 1970 flood 2_395a71fed3.jpg
     thumb: /files/thumbnails/14fb29d7ed3a2914fb29d7ed4011.jpg
     url: /files/original/14fb29d7ed3a2914fb29d7ed4011.jpg
+    alt:
+      en: "Faded vintage photo taken from under a porch awning, looking out through a chain-link fence and tree branches at a flooded street with two people wading through standing water."
 geo:
   address: ''
   lat: 29.87876

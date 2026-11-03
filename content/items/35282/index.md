@@ -18,6 +18,8 @@ files:
     original_filename: 18_60043aacc0.jpg
     thumb: /files/thumbnails/14fb29c71557f214fb29c7155bd8.jpg
     url: /files/original/14fb29c71557f214fb29c7155bd8.jpg
+    alt:
+      en: "Street parade with a marching band in red and white uniforms carrying flags, lined by spectators under large oak trees, with a cyclist and onlookers in the foreground."
 geo:
   address: new orleans, la
   lat: 29.95324

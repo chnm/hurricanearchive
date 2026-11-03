@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28381.jpg
     thumb: /files/thumbnails/14fb2a6c6cab6b14fb2a6c6caf4e.jpg
     url: /files/original/14fb2a6c6cab6b14fb2a6c6caf4e.jpg
+    alt:
+      en: "A handwritten cardboard timing dial with numbers and notes mounted on a wooden post, with a stainless steel fish release clip nearby, viewed through a boat's windows overlooking a dock."
 geo:
   address: ''
   lat: 0.0

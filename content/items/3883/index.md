@@ -21,6 +21,8 @@ files:
     original_filename: 100_0176.JPG
     thumb: /files/thumbnails/14fb2a591d339d14fb2a591d3833.jpg
     url: /files/original/14fb2a591d339d14fb2a591d3833.jpg
+    alt:
+      en: "Floodwaters surround a brick building labeled \"Charles J. Hemenway Hall,\" with a large tree in the foreground and a partially submerged green toy vehicle floating nearby."
 geo:
 id: 3883
 item_type: Still Image

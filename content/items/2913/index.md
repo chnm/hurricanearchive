@@ -21,6 +21,8 @@ files:
     original_filename: MVC-002S.JPG
     thumb: /files/thumbnails/14fb2a5f98827114fb2a5f9886aa.jpg
     url: /files/original/14fb2a5f98827114fb2a5f9886aa.jpg
+    alt:
+      en: "A structure or fixture draped in clear plastic sheeting inside a dimly lit, unfinished interior space, with exposed wall framing and concrete floor visible in the background."
 geo:
 id: 2913
 item_type: Still Image

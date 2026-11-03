@@ -21,6 +21,8 @@ files:
     original_filename: IMG 3924superdome.JPG
     thumb: /files/thumbnails/14fb29de34d35d14fb29de34db47.jpg
     url: /files/original/14fb29de34d35d14fb29de34db47.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand among a crowd of civilians on an elevated highway overpass, with a military truck and cases of bottled water nearby, and a tall high-rise building visible in the hazy background."
 geo:
 id: 25400
 item_type: Still Image

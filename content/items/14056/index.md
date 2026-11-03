@@ -21,6 +21,8 @@ files:
     original_filename: 20050929029.JPG
     thumb: /files/thumbnails/14fb2a1bfb21a414fb2a1bfb257e.jpg
     url: /files/original/14fb2a1bfb21a414fb2a1bfb257e.jpg
+    alt:
+      en: "Four men stand on a gravel lot near a green wooden gate and utility trailer, including a soldier in desert camouflage with an American flag patch and a shirtless man holding a small box."
 geo:
   address: ''
   lat: 0.0

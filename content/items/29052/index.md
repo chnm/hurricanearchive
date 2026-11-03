@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-21.jpg
     thumb: /files/thumbnails/14fb29d0674e4414fb29d0675229.jpg
     url: /files/original/14fb29d0674e4414fb29d0675229.jpg
+    alt:
+      en: "Aerial view of a staging area with rows of parked buses, military vehicles, open-sided canopy shelters, and a red cross-marked building, surrounded by green fields and forest."
 geo:
 id: 29052
 item_type: Still Image

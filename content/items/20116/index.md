@@ -21,6 +21,8 @@ files:
     original_filename: Picture 213cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b36e88414fb2a0b36ec72.jpg
     url: /files/original/14fb2a0b36e88414fb2a0b36ec72.jpg
+    alt:
+      en: "An open grassy lot with bare, storm-damaged trees and scattered debris piles, bordered by a paved road with a truck bed visible at right under a clear blue sky."
 geo:
 id: 20116
 item_type: Still Image

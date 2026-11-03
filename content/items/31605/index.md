@@ -21,6 +21,8 @@ files:
     original_filename: 051207NOLA077RWlg_cf592aacf8.jpg
     thumb: /files/thumbnails/14fb29cc10e08f14fb29cc10e472.jpg
     url: /files/original/14fb29cc10e08f14fb29cc10e472.jpg
+    alt:
+      en: "Black-and-white photo outside Gallier Hall's columned entrance: two men embrace while a third in a suit carries a briefcase, and a man holding a brass instrument sits on the steps nearby."
 geo:
 id: 31605
 item_type: Still Image

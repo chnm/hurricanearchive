@@ -21,6 +21,8 @@ files:
     original_filename: P1010109empireS&R.JPG
     thumb: /files/thumbnails/14fb29edf5aa7d14fb29edf5ae5b.jpg
     url: /files/original/14fb29edf5aa7d14fb29edf5ae5b.jpg
+    alt:
+      en: "Two military Humvees with whip antennas parked in a grassy field beside two tall guyed radio antenna masts, with scrubland and trees visible in the hazy background."
 geo:
 id: 23668
 item_type: Still Image

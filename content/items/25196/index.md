@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1821superdome.JPG
     thumb: /files/thumbnails/14fb29e121889114fb29e1218c74.jpg
     url: /files/original/14fb29e121889114fb29e1218c74.jpg
+    alt:
+      en: "Medical personnel and soldiers carry a patient on a stretcher toward a military medevac helicopter marked with a red cross and \"332,\" with another marked \"2431\" parked nearby."
 geo:
 id: 25196
 item_type: Still Image

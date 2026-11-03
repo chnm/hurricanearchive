@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0690.JPG
     thumb: /files/thumbnails/14fb2a533671dc14fb2a533675e9.jpg
     url: /files/original/14fb2a533671dc14fb2a533675e9.jpg
+    alt:
+      en: "Interior of a corrugated metal storage shed with a plywood floor, showing an open doorway and a partial sign reading \"Parkin...\" propped against the wall."
 geo:
 id: 5245
 item_type: Still Image

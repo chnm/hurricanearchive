@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0461.JPG
     thumb: /files/thumbnails/14fb2a55b65f4b14fb2a55b66287.jpg
     url: /files/original/14fb2a55b65f4b14fb2a55b66287.jpg
+    alt:
+      en: "Debris field with scattered household items, twisted metal, and broken trees under a clear blue sky; a person walks through the wreckage in the background."
 geo:
 id: 4762
 item_type: Still Image

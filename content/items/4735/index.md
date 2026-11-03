@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0082.JPG
     thumb: /files/thumbnails/14fb2a55d3f62214fb2a55d401fa.jpg
     url: /files/original/14fb2a55d3f62214fb2a55d401fa.jpg
+    alt:
+      en: "Debris field with broken bricks, splintered wood planks, and chunks of concrete scattered across bare dirt; the photographer's shadow, holding a camera, falls across the rubble in the foreground."
 geo:
 id: 4735
 item_type: Still Image

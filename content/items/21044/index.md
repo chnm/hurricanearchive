@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0051.JPG
     thumb: /files/thumbnails/14fb2a00f5596914fb2a00f56115.jpg
     url: /files/original/14fb2a00f5596914fb2a00f56115.jpg
+    alt:
+      en: "Close-up profile of a helicopter crew member wearing a flight helmet with visor and boom microphone, a patch on the uniform collar, with green grass visible in the background."
 geo:
 id: 21044
 item_type: Still Image

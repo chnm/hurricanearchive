@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8815.jpg
     thumb: /files/thumbnails/14fb2a65841aaf14fb2a65841e93.jpg
     url: /files/original/14fb2a65841aaf14fb2a65841e93.jpg
+    alt:
+      en: "A red sedan sits displaced against a buckled, storm-damaged white house, surrounded by piles of debris, splintered wood, and twisted metal under a clear blue sky."
 geo:
 id: 2544
 item_type: Still Image

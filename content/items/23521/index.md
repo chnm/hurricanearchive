@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0157abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef20460d14fb29ef2049f1.jpg
     url: /files/original/14fb29ef20460d14fb29ef2049f1.jpg
+    alt:
+      en: "Floodwater submerges the brick support columns of a covered walkway beneath a brick school building, with debris and broken branches floating in the water; a yellow \"No Loitering\" sign is mounted on one column."
 geo:
 id: 23521
 item_type: Still Image

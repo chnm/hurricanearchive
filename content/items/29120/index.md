@@ -24,6 +24,8 @@ files:
     original_filename: 8196926-R1-030-13A.jpg
     thumb: /files/thumbnails/14fb29cf29dc3714fb29cf29df7a.jpg
     url: /files/original/14fb29cf29dc3714fb29cf29df7a.jpg
+    alt:
+      en: "A man in a black shirt stands near a parked helicopter on a tarmac, with another helicopter carrying a water bucket flying overhead and pallets of bottled water staged nearby."
 geo:
 id: 29120
 item_type: Still Image

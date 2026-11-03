@@ -21,6 +21,8 @@ files:
     original_filename: S4300234MSriver.JPG
     thumb: /files/thumbnails/14fb2a138e8ed114fb2a138e92be.jpg
     url: /files/original/14fb2a138e8ed114fb2a138e92be.jpg
+    alt:
+      en: "Choppy gray river water under an overcast sky, with industrial structures, storage tanks, and scattered trees lining the distant shoreline."
 geo:
 id: 19033
 item_type: Still Image

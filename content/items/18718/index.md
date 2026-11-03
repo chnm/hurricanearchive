@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007alero.JPG
     thumb: /files/thumbnails/14fb2a1564a53c14fb2a1564a921.jpg
     url: /files/original/14fb2a1564a53c14fb2a1564a921.jpg
+    alt:
+      en: "Aerial view of a military staging area with rows of green trucks and vehicles, large red-and-white striped tents, a school bus, and a warehouse building beside a pond, surrounded by trees."
 geo:
 id: 18718
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-026S.JPG
     thumb: /files/thumbnails/14fb2a5f9e1c1014fb2a5f9e2021.jpg
     url: /files/original/14fb2a5f9e1c1014fb2a5f9e2021.jpg
+    alt:
+      en: "Rows of gray industrial electrical control units with dials, switches, and gauges fill a shipboard compartment with a red-painted metal floor and overhead piping."
 geo:
 id: 2903
 item_type: Still Image

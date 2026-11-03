@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-07_ab5298bd58.jpg
     thumb: /files/thumbnails/14fb2a1666973014fb2a16669b1f.jpg
     url: /files/original/14fb2a1666973014fb2a16669b1f.jpg
+    alt:
+      en: "A young child with light hair sits on a rock in a wooded area, smiling and saluting, with dense green foliage in the background and a metal structure visible at the edge of the frame."
 geo:
 id: 15344
 item_type: Still Image

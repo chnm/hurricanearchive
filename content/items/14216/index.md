@@ -21,6 +21,8 @@ files:
     original_filename: jackson barracks armory collapse.JPG
     thumb: /files/thumbnails/14fb2a1a8a741414fb2a1a8a77f8.jpg
     url: /files/original/14fb2a1a8a741414fb2a1a8a77f8.jpg
+    alt:
+      en: "Collapsed roof section lying flat on the ground next to a brick building, with chain-link fencing in the foreground and trees surrounding the site; image dated 09.26.2005."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 137cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e15877f14fb2a0e158b63.jpg
     url: /files/original/14fb2a0e15877f14fb2a0e158b63.jpg
+    alt:
+      en: "Storm-damaged brick house with partially collapsed roof and scattered debris, including a section of white corrugated metal roofing, in a residential yard with trees and a cleared, debris-strewn street in the foreground."
 geo:
 id: 19750
 item_type: Still Image

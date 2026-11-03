@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28509.jpg
     thumb: /files/thumbnails/14fb2a69cb37c714fb2a69cb3bad.jpg
     url: /files/original/14fb2a69cb37c714fb2a69cb3bad.jpg
+    alt:
+      en: "A man wearing a cap, mask, and gloves cleans mold and grime from a window and blinds inside a storm-damaged room, with heavy staining visible on the surrounding walls."
 geo:
   address: ''
   lat: 0.0

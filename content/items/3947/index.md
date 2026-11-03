@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58cab8ee14fb2a58cabcd4.jpg
     url: /files/original/14fb2a58cab8ee14fb2a58cabcd4.jpg
+    alt:
+      en: "Several military helicopters, including Marine One, parked on a grassy strip beyond a body of water, with an aluminum boat labeled \"LA 8967 ER\" in the foreground."
 geo:
 id: 3947
 item_type: Still Image

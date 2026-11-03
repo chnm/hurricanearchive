@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0137cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef2f123a14fb29ef2f1617.jpg
     url: /files/original/14fb29ef2f123a14fb29ef2f1617.jpg
+    alt:
+      en: "Silhouetted military crew member wearing headset and flight suit with American flag patch looks down inside an aircraft, with a green, tree-lined landscape visible through the open doorway."
 geo:
 id: 23501
 item_type: Still Image

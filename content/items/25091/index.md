@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1676superdome.JPG
     thumb: /files/thumbnails/14fb29e26b21f014fb29e26b25d6.jpg
     url: /files/original/14fb29e26b21f014fb29e26b25d6.jpg
+    alt:
+      en: "Military Police personnel in camouflage uniforms with \"MP\" armbands march in formation on a paved area, with a school bus and buildings visible in the background."
 geo:
 id: 25091
 item_type: Still Image

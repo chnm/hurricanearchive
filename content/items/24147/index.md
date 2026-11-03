@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea47243314fb29ea47280f.jpg
     url: /files/original/14fb29ea47243314fb29ea47280f.jpg
+    alt:
+      en: "Military front-loader tractor (marked \"225GP 527E C27\") plows through flooded, muddy streets lined with debris-covered bare trees and storm-damaged houses, including an overturned boat on a rooftop."
 geo:
 id: 24147
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1692superdome.JPG
     thumb: /files/thumbnails/14fb29e248f19b14fb29e248f582.jpg
     url: /files/original/14fb29e248f19b14fb29e248f582.jpg
+    alt:
+      en: "Rows of military police in camouflage uniforms stand at attention on a brick plaza, wearing \"MP\" armbands and carrying rifles, with a canvas-covered truck visible behind them."
 geo:
 id: 25105
 item_type: Still Image

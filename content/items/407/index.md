@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0424_cf1a308427.JPG
     thumb: /files/thumbnails/14fb2a70165ecb14fb2a701662b1.jpg
     url: /files/original/14fb2a70165ecb14fb2a701662b1.jpg
+    alt:
+      en: "Bare, wind-stripped oak trees line a sand-covered yard beside an iron fence with stone posts, tire tracks crisscrossing the pale ground under an overcast sky."
 geo:
   address: ''
   lat: 30.3349538819886

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0537.JPG
     thumb: /files/thumbnails/14fb2a5382989f14fb2a53829c85.jpg
     url: /files/original/14fb2a5382989f14fb2a53829c85.jpg
+    alt:
+      en: "A weathered wooden plank lies on sandy ground with a yellow measuring tape stretched across it, surrounded by scattered twigs, pine cones, and debris, with a boot visible at the edge."
 geo:
 id: 5175
 item_type: Still Image

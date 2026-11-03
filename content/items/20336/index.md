@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002H.JPG
     thumb: /files/thumbnails/14fb2a08bbfe7914fb2a08bc0251.jpg
     url: /files/original/14fb2a08bbfe7914fb2a08bc0251.jpg
+    alt:
+      en: "A uniformed U.S. Army soldier with a nametag reading \"Derry\" poses between two smiling women wearing Hooters tank tops from the Baton Rouge and Siegen Lane locations, standing in front of a plywood backdrop."
 geo:
 id: 20336
 item_type: Still Image

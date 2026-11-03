@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28215.jpg
     thumb: /files/thumbnails/14fb2a6b2113e614fb2a6b2117cc.jpg
     url: /files/original/14fb2a6b2113e614fb2a6b2117cc.jpg
+    alt:
+      en: "A large satellite dish lies toppled against trees beside a chain-link fence, with scattered storm debris, a yellow diamond caution sign, and damaged pines along a roadside."
 geo:
   address: ''
   lat: 0.0

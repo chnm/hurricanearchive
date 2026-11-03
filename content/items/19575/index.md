@@ -21,6 +21,8 @@ files:
     original_filename: S4300029zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f08e35414fb2a0f08e8e6.jpg
     url: /files/original/14fb2a0f08e35414fb2a0f08e8e6.jpg
+    alt:
+      en: "A balled-up piece of blue plaid fabric with a palm tree print wedged on dark asphalt pavement between pieces of weathered metal or machinery equipment."
 geo:
 id: 19575
 item_type: Still Image

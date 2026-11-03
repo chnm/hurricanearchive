@@ -21,6 +21,8 @@ files:
     original_filename: DSC01076.JPG
     thumb: /files/thumbnails/14fb2a58a554c814fb2a58a558a3.jpg
     url: /files/original/14fb2a58a554c814fb2a58a558a3.jpg
+    alt:
+      en: "Floodwaters submerge a roadway and partially cover street signs near a raised highway bridge, with streetlights rising from the water and trees lining the background under an overcast sky."
 geo:
 id: 3986
 item_type: Still Image

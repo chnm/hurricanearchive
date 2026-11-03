@@ -21,6 +21,8 @@ files:
     original_filename: Picture 155cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b87a3cd14fb2a0b87a73a.jpg
     url: /files/original/14fb2a0b87a3cd14fb2a0b87a73a.jpg
+    alt:
+      en: "A paved road runs alongside a grassy, debris-strewn shoulder with a white bird standing in the grass; industrial structures and power lines are visible in the background."
 geo:
 id: 20058
 item_type: Still Image

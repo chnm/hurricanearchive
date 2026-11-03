@@ -21,6 +21,8 @@ files:
     original_filename: SD 1905_9d1d5bedea.jpg
     thumb: /files/thumbnails/14fb29d7d7d50a14fb29d7d7da00.jpg
     url: /files/original/14fb29d7d7d50a14fb29d7d7da00.jpg
+    alt:
+      en: "Sepia-toned portrait of a young woman in a high-collared white dress standing beside a large tree trunk, with wooded foliage behind her; the photo shows pink staining and surface damage."
 geo:
   address: ''
   lat: 29.91685

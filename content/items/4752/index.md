@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0262.JPG
     thumb: /files/thumbnails/14fb2a55bea33514fb2a55bea71a.jpg
     url: /files/original/14fb2a55bea33514fb2a55bea71a.jpg
+    alt:
+      en: "Two-story apartment building with storm-damaged siding and boarded sections, surrounded by scattered debris and broken trees; a person walks along the street in the foreground."
 geo:
 id: 4752
 item_type: Still Image

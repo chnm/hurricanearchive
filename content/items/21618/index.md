@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0352-21.JPG
     thumb: /files/thumbnails/14fb29fd0767bb14fb29fd076b9a.jpg
     url: /files/original/14fb29fd0767bb14fb29fd076b9a.jpg
+    alt:
+      en: "Interior of an operations room with people in military camouflage uniforms seated at desks with laptops, set against blue-tiled walls with exit signs and overhead fixtures."
 geo:
 id: 21618
 item_type: Still Image

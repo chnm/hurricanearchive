@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1119Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7b6aedb14fb29f7b737a0.jpg
     url: /files/original/14fb29f7b6aedb14fb29f7b737a0.jpg
+    alt:
+      en: "Blurry, dim photo of small motorboats filled with floodwater inside a building, with a person wearing an orange life vest visible among the boats and gear."
 geo:
 id: 22308
 item_type: Still Image

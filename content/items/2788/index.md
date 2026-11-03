@@ -27,6 +27,8 @@ files:
     original_filename: Tree Falling On Car
     thumb: /files/thumbnails/14fb2a602e94c714fb2a602e9871.jpg
     url: /files/original/14fb2a602e94c714fb2a602e9871.jpg
+    alt:
+      en: "Hand-drawn illustration of a large tree fallen across the roof of a car parked between two brick buildings labeled \"1780½\" and \"1730½,\" with \"JOSHUA 15\" written at the top."
 geo:
 id: 2788
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28553.jpg
     thumb: /files/thumbnails/14fb2a6a055c6314fb2a6a056048.jpg
     url: /files/original/14fb2a6a055c6314fb2a6a056048.jpg
+    alt:
+      en: "Floodwater rushes across a street in the Lakeview District, viewed from inside a vehicle beside a truck marked \"384,\" with homes and trees lining the flooded road ahead."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 09280003plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec01cfa014fb29ec01d384.jpg
     url: /files/original/14fb29ec01cfa014fb29ec01d384.jpg
+    alt:
+      en: "A man in military camouflage sleeps on a concrete platform beside a brown dog resting on green painted steps, with a backpack and jacket draped over a chair and railing nearby."
 geo:
 id: 24001
 item_type: Still Image

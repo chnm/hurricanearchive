@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010M.JPG
     thumb: /files/thumbnails/14fb2a07fbe93814fb2a07fbed1e.jpg
     url: /files/original/14fb2a07fbe93814fb2a07fbed1e.jpg
+    alt:
+      en: "Dimly lit office hallway with a wooden door labeled \"NURSES OFFICE\" standing open, leading to a second doorway with a window and blinds beyond; a chair and table sit in the foreground."
 geo:
 id: 20403
 item_type: Still Image

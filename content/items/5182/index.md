@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0544.JPG
     thumb: /files/thumbnails/14fb2a537a932314fb2a537a967c.jpg
     url: /files/original/14fb2a537a932314fb2a537a967c.jpg
+    alt:
+      en: "A tall, splintered tree trunk stands broken in the foreground, with a wooden picnic pavilion structure and pine trees visible under a clear blue sky in the background."
 geo:
 id: 5182
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (27).JPG
     thumb: /files/thumbnails/14fb2a5d74eafe14fb2a5d74eedd.jpg
     url: /files/original/14fb2a5d74eafe14fb2a5d74eedd.jpg
+    alt:
+      en: "A white wood-frame house with a decorative gable and columned porch stands damaged, with boarded windows and a yard covered in debris and dried mud from flooding."
 geo:
 id: 3175
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-06-4Abatonrouge.jpg
     thumb: /files/thumbnails/14fb2a15457e1e14fb2a154581fb.jpg
     url: /files/original/14fb2a15457e1e14fb2a154581fb.jpg
+    alt:
+      en: "Aerial view of a wooded suburban neighborhood with scattered homes, a pond, and a golf course, bordered by a multi-lane highway with sparse traffic under a hazy sky."
 geo:
 id: 18776
 item_type: Still Image

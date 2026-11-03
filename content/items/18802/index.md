@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033cameron.JPG
     thumb: /files/thumbnails/14fb2a1534796114fb2a15347d47.jpg
     url: /files/original/14fb2a1534796114fb2a15347d47.jpg
+    alt:
+      en: "Aerial view of a small waterside facility with several buildings, a tall antenna tower, a dock extending into brown water, and a gravel road leading through grassy, tree-lined land."
 geo:
 id: 18802
 item_type: Still Image

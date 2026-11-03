@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28710.jpg
     thumb: /files/thumbnails/14fb2a6882029c14fb2a68820689.jpg
     url: /files/original/14fb2a6882029c14fb2a68820689.jpg
+    alt:
+      en: "A man in a cap and plaid shorts holds the lead rope of a chestnut horse inside a metal animal pen at the Humane Society rescue depot in Gonzales, La."
 geo:
   address: ''
   lat: 0.0

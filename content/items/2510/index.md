@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8626.jpg
     thumb: /files/thumbnails/14fb2a65cf413d14fb2a65d003f8.jpg
     url: /files/original/14fb2a65cf413d14fb2a65d003f8.jpg
+    alt:
+      en: "A handwritten plywood sign reading \"REBUILD CAPTAIN'S BAR A.S.A.P.\" covered with signatures and messages from well-wishers, propped on posts amid storm debris and cinder blocks."
 geo:
 id: 2510
 item_type: Still Image

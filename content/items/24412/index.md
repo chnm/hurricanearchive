@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0089-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e82d685814fb29e82d6bd1.jpg
     url: /files/original/14fb29e82d685814fb29e82d6bd1.jpg
+    alt:
+      en: "An armadillo stands amid grass and fallen tree debris, partially shaded by overhanging branches with sparse green leaves."
 geo:
 id: 24412
 item_type: Still Image

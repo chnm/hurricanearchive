@@ -21,6 +21,8 @@ files:
     original_filename: Picture 036engineers.jpg
     thumb: /files/thumbnails/14fb2a0fcedc0814fb2a0fcedffa.jpg
     url: /files/original/14fb2a0fcedc0814fb2a0fcedffa.jpg
+    alt:
+      en: "Aerial view of a storm-damaged school campus with stripped roofs and debris, surrounded by denuded trees, flooded fields, and scattered destroyed buildings in the Port Sulfer, LA area."
 geo:
 id: 19476
 item_type: Still Image

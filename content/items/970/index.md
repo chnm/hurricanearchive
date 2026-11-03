@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28293.jpg
     thumb: /files/thumbnails/14fb2a6b9b456a14fb2a6b9b494e.jpg
     url: /files/original/14fb2a6b9b456a14fb2a6b9b494e.jpg
+    alt:
+      en: "Storm-damaged building with twisted metal canopy framework and exposed walls, surrounded by scattered debris and a large tree, with a taller structure visible in the background."
 geo:
   address: ''
   lat: 0.0

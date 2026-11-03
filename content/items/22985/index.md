@@ -21,6 +21,8 @@ files:
     original_filename: LTC Caton at NAS NONASneworleans.jpg
     thumb: /files/thumbnails/14fb29f24a6ddc14fb29f24a71c2.jpg
     url: /files/original/14fb29f24a6ddc14fb29f24a71c2.jpg
+    alt:
+      en: "Group of uniformed military personnel in camouflage fatigues gather outside a building near room 105, conversing beneath an overhead fan, with a bulletin board and trash can nearby."
 geo:
 id: 22985
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: DSC00729_d37dae8cae.JPG
     thumb: /files/thumbnails/14fb2a6e74730f14fb2a6e7476f4.jpg
     url: /files/original/14fb2a6e74730f14fb2a6e7476f4.jpg
+    alt:
+      en: "Aerial view of floodwater covering Gravier Street behind Charity Hospital in New Orleans, with several people wading through the water, one appearing to be transported on a makeshift wooden pallet raft near a parking garage entrance."
 geo:
   address: ''
   lat: 29.9551948278245

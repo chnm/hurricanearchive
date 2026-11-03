@@ -26,6 +26,8 @@ files:
     original_filename: 100_0100_816c5d45d1.JPG
     thumb: /files/thumbnails/14fb2a6f8ad12314fb2a6f8ad508.jpg
     url: /files/original/14fb2a6f8ad12314fb2a6f8ad508.jpg
+    alt:
+      en: "A tattered American flag hangs from a makeshift pole amid storm debris, fallen trees, and the remains of a destroyed structure in Bay Saint Louis, Mississippi."
 geo:
   address: ''
   lat: 0.0

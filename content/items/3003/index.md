@@ -21,6 +21,8 @@ files:
     original_filename: 100_0252.JPG
     thumb: /files/thumbnails/14fb2a5f123a0414fb2a5f123de9.jpg
     url: /files/original/14fb2a5f123a0414fb2a5f123de9.jpg
+    alt:
+      en: "Elevated anti-aircraft gun barrels and mast of a decommissioned naval warship, with a wide river or bay and grassy marshland visible in the background under a clear blue sky."
 geo:
 id: 3003
 item_type: Still Image

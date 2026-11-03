@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28403.jpg
     thumb: /files/thumbnails/14fb2a6a75d20114fb2a6a75d5e5.jpg
     url: /files/original/14fb2a6a75d20114fb2a6a75d5e5.jpg
+    alt:
+      en: "A laminated sign in Vietnamese, detailing a free bus schedule to a food stamp office and the DRC in Ocean Springs, is taped to a wooden piling with ropes and a green shrimp boat behind it."
 geo:
   address: ''
   lat: 0.0

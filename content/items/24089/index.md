@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eaeb4ca514fb29eaeb508b.jpg
     url: /files/original/14fb29eaeb4ca514fb29eaeb508b.jpg
+    alt:
+      en: "A soldier in camouflage fatigues crouches atop a military vehicle while a news reporter holds a \"KATC 3\" branded microphone toward him, with a television camera visible overhead."
 geo:
 id: 24089
 item_type: Still Image

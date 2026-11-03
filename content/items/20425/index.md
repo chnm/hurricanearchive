@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013H.JPG
     thumb: /files/thumbnails/14fb2a0789a39614fb2a0789a77b.jpg
     url: /files/original/14fb2a0789a39614fb2a0789a77b.jpg
+    alt:
+      en: "Four young adults smile and interact indoors at night, with two women wearing \"Hooters\" tank tops; string lights hang from the dark ceiling above them."
 geo:
 id: 20425
 item_type: Still Image

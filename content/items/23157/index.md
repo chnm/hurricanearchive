@@ -21,6 +21,8 @@ files:
     original_filename: 20051003-A-3780B-257NewMexicoNG.jpg
     thumb: /files/thumbnails/14fb29f14b93aa14fb29f14b9791.jpg
     url: /files/original/14fb29f14b93aa14fb29f14b9791.jpg
+    alt:
+      en: "A soldier in camouflage and an orange safety vest watches a helicopter hovering overhead with a cargo sling, while another helicopter and stacked sandbags are visible in the field beyond."
 geo:
 id: 23157
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300016zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f2ee15414fb2a0f2ee539.jpg
     url: /files/original/14fb2a0f2ee15414fb2a0f2ee539.jpg
+    alt:
+      en: "Two men in camouflage military caps stand in a parking lot, one speaking and gesturing with an arm extended; a semi-truck trailer labeled \"XTRA Lease\" and storm-damaged trees are visible in the background."
 geo:
 id: 19562
 item_type: Still Image

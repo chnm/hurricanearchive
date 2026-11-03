@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0109.JPG
     thumb: /files/thumbnails/14fb2a558009b714fb2a55800d2e.jpg
     url: /files/original/14fb2a558009b714fb2a55800d2e.jpg
+    alt:
+      en: "Damaged exterior wall of a building with siding torn away, exposing wooden studs and insulation debris, set against patchy grass in the foreground."
 geo:
 id: 4797
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1035Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8dbef1e14fb29f8dc258b.jpg
     url: /files/original/14fb29f8dbef1e14fb29f8dc258b.jpg
+    alt:
+      en: "Military UH-60 Black Hawk helicopter parked on a grassy lawn with rotor blades extended, a uniformed crew member visible in the open side door, trees and buildings in the background."
 geo:
 id: 22228
 item_type: Still Image

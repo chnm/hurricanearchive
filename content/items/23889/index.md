@@ -21,6 +21,8 @@ files:
     original_filename: picture 10stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec9a5ef714fb29ec9a62ef.jpg
     url: /files/original/14fb29ec9a5ef714fb29ec9a62ef.jpg
+    alt:
+      en: "Debris-lined residential street with a fallen stop sign, bare trees, parked vehicles, and large piles of storm debris along the curb under a hazy sky."
 geo:
 id: 23889
 item_type: Still Image

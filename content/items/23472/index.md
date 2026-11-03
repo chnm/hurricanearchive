@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0122cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef4773ad14fb29ef477793.jpg
     url: /files/original/14fb29ef4773ad14fb29ef477793.jpg
+    alt:
+      en: "Aerial view of a flooded marshland with patches of algae-covered water and scattered dead trees, bordered by a tree line and distant open water under a clear sky."
 geo:
 id: 23472
 item_type: Still Image

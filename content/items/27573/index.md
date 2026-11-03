@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7154_d9ae6e592e.jpg
     thumb: /files/thumbnails/14fb29d357250814fb29d35728e2.jpg
     url: /files/original/14fb29d357250814fb29d35728e2.jpg
+    alt:
+      en: "A smiling girl covered in shaving cream, wearing a red shirt and black shorts, stands amid a crowd of similarly cream-covered people at an outdoor nighttime gathering."
 geo:
   address: ''
   lat: 29.91685

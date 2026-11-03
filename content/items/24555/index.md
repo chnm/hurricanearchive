@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0115-9-25.JPG
     thumb: /files/thumbnails/14fb29e6bd799114fb29e6bd7d77.jpg
     url: /files/original/14fb29e6bd799114fb29e6bd7d77.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters covering flat land, with scattered shrubs, utility poles, and a small cluster of trees partially submerged across the inundated landscape."
 geo:
 id: 24555
 item_type: Still Image

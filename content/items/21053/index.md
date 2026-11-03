@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0225.JPG
     thumb: /files/thumbnails/14fb2a00db61ef14fb2a00db65d3.jpg
     url: /files/original/14fb2a00db61ef14fb2a00db65d3.jpg
+    alt:
+      en: "Silhouette of a person in military gear and helmet climbing through an aircraft doorway, with a cable and mounted hardware visible in the foreground and a grassy area outside."
 geo:
 id: 21053
 item_type: Still Image

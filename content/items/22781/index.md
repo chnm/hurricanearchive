@@ -21,6 +21,8 @@ files:
     original_filename: S4300137Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3f8ef3714fb29f3f8f434.jpg
     url: /files/original/14fb29f3f8ef3714fb29f3f8f434.jpg
+    alt:
+      en: "Storm-damaged manufactured home knocked askew off its foundation, with a fallen tree leaning against its side, a torn roof, and debris scattered across the muddy yard."
 geo:
 id: 22781
 item_type: Still Image

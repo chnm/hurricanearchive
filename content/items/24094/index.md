@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eae6767c14fb29eae6832c.jpg
     url: /files/original/14fb29eae6767c14fb29eae6832c.jpg
+    alt:
+      en: "A soldier in camouflage lies atop a military vehicle while a news crew with a \"KATC 3\" branded microphone and camera reaches in to interview him."
 geo:
 id: 24094
 item_type: Still Image

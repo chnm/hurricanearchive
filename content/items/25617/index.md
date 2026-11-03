@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.022.JPG
     thumb: /files/thumbnails/14fb29dd21dfc414fb29dd21e3aa.jpg
     url: /files/original/14fb29dd21dfc414fb29dd21e3aa.jpg
+    alt:
+      en: "Weathered blue clapboard house facade with spray-painted orange text reading \"NO DOGS SEEN FW 10-18,\" beside a wrought-iron porch rail and screened window."
 geo:
 id: 25617
 item_type: Still Image

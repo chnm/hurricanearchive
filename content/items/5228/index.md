@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0673.JPG
     thumb: /files/thumbnails/14fb2a5345801b14fb2a534582be.jpg
     url: /files/original/14fb2a5345801b14fb2a534582be.jpg
+    alt:
+      en: "A storm-damaged house with a steep gable roof and tall white chimney stands amid debris-strewn ground and tall pine trees, its siding and porch visibly damaged."
 geo:
 id: 5228
 item_type: Still Image

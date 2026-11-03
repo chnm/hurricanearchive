@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29e9b3d5b414fb29e9b3d948.jpg
     url: /files/original/14fb29e9b3d5b414fb29e9b3d948.jpg
+    alt:
+      en: "A hazy, flooded coastal landscape with a faint, distant shoreline visible under an overcast gray sky, the foreground dominated by still floodwater."
 geo:
 id: 24211
 item_type: Still Image

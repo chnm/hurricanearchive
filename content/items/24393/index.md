@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-14-13A.jpg
     thumb: /files/thumbnails/14fb29e84c966314fb29e84c9a48.jpg
     url: /files/original/14fb29e84c966314fb29e84c9a48.jpg
+    alt:
+      en: "Several vehicles submerged up to their windows in floodwater in a parking lot, with heavy rain and fog obscuring trees and power lines in the background."
 geo:
 id: 24393
 item_type: Still Image

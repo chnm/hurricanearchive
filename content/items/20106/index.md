@@ -21,6 +21,8 @@ files:
     original_filename: Picture 203cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b50401614fb2a0b5043f9.jpg
     url: /files/original/14fb2a0b50401614fb2a0b5043f9.jpg
+    alt:
+      en: "A brick building with large windows and palm trees, where two people stand near the entrance under a large tree; a military-style vehicle is parked on the street, and debris lies scattered on the lawn in the foreground."
 geo:
 id: 20106
 item_type: Still Image

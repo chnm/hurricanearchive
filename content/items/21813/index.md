@@ -21,6 +21,8 @@ files:
     original_filename: katrina 083.jpg
     thumb: /files/thumbnails/14fb29fb81bae214fb29fb81bed0.jpg
     url: /files/original/14fb29fb81bae214fb29fb81bed0.jpg
+    alt:
+      en: "Shoe store aisle filled with hundreds of fallen shoeboxes and sneakers scattered across the floor between shelving units, with signage for \"Quality Boots\" and \"Men's\" visible; timestamp reads 5:05 PM."
 geo:
 id: 21813
 item_type: Still Image

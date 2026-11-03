@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009H.JPG
     thumb: /files/thumbnails/14fb2a080a55d914fb2a080a59bf.jpg
     url: /files/original/14fb2a080a55d914fb2a080a59bf.jpg
+    alt:
+      en: "Two women in white Hooters tank tops stand with a bald man in a black \"Property of Hooters XXXtasy Ranch\" t-shirt, holding a Budweiser can and a plastic cup, with string lights in the background."
 geo:
 id: 20395
 item_type: Still Image

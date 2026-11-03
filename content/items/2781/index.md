@@ -21,6 +21,8 @@ files:
     original_filename: 75.jpg
     thumb: /files/thumbnails/14fb2a6035be7114fb2a6035d346.jpg
     url: /files/original/14fb2a6035be7114fb2a6035d346.jpg
+    alt:
+      en: "Child's crayon drawing of a tall orange house with a pink roof, blue and red windows, a yellow door, flowers, and a green lawn under a blue sky, labeled \"New Orleans,\" \"Nikki's,\" and \"8 Yrs Old.\""
 geo:
 id: 2781
 item_type: Still Image

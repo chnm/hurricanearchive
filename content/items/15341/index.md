@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-04_45a5538667.jpg
     thumb: /files/thumbnails/14fb2a1668640c14fb2a166867e9.jpg
     url: /files/original/14fb2a1668640c14fb2a166867e9.jpg
+    alt:
+      en: "Young boy in a camouflage jacket and hat aims a compound bow with an arrow in a backyard, the photograph damaged by water stains and emulsion deterioration."
 geo:
 id: 15341
 item_type: Still Image

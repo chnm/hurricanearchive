@@ -21,6 +21,8 @@ files:
     original_filename: Hanger 5-5 NAS NONASneworleans.jpg
     thumb: /files/thumbnails/14fb29f24dd4cc14fb29f24dd8aa.jpg
     url: /files/original/14fb29f24dd4cc14fb29f24dd8aa.jpg
+    alt:
+      en: "Four military personnel in camouflage uniforms converse near laptops and office equipment inside a hangar workspace, with a \"No Smoking\" sign and exposed pipes visible on the brick wall behind them."
 geo:
 id: 22982
 item_type: Still Image

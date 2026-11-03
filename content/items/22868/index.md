@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0161mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2faf7fa14fb29f2fafc78.jpg
     url: /files/original/14fb29f2faf7fa14fb29f2fafc78.jpg
+    alt:
+      en: "A soldier in camouflage uniform with a rifle slung over his shoulder speaks with a man seated in a vehicle displaying a \"Port of New Orleans Port Access Pass\" sticker on the windshield."
 geo:
 id: 22868
 item_type: Still Image

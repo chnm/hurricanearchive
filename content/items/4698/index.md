@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0089.JPG
     thumb: /files/thumbnails/14fb2a561464d614fb2a561468bc.jpg
     url: /files/original/14fb2a561464d614fb2a561468bc.jpg
+    alt:
+      en: "A large white boat lies overturned and damaged on cleared, muddy ground surrounded by bare trees, with debris scattered nearby under a clear blue sky."
 geo:
 id: 4698
 item_type: Still Image

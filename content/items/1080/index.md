@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28097.jpg
     thumb: /files/thumbnails/14fb2a6b24d0b014fb2a6b24d496.jpg
     url: /files/original/14fb2a6b24d0b014fb2a6b24d496.jpg
+    alt:
+      en: "A dark wood-sided house with blue tarps covering damaged sections of its roof, surrounded by trees, a chain-link fence, and concrete roadblocks in the yard."
 geo:
   address: ''
   lat: 0.0

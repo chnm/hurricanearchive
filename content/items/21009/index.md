@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0167-21.JPG
     thumb: /files/thumbnails/14fb2a011606a614fb2a01160a8b.jpg
     url: /files/original/14fb2a011606a614fb2a01160a8b.jpg
+    alt:
+      en: "A shaded, tree-lined road with debris along the shoulders and a van with brake lights on driving ahead, overhung by dense tree canopy on both sides."
 geo:
 id: 21009
 item_type: Still Image

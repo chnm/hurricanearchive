@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0181-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a006be34414fb2a006be72a.jpg
     url: /files/original/14fb2a006be34414fb2a006be72a.jpg
+    alt:
+      en: "Aerial view of a flooded road submerged in brown floodwater, with a displaced building, scattered debris, and downed poles along the roadside, surrounded by marshland."
 geo:
 id: 21127
 item_type: Still Image

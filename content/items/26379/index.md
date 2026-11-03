@@ -21,6 +21,8 @@ files:
     original_filename: _MG_5915_6797a661b5.JPG
     thumb: /files/thumbnails/14fb29d90ed05914fb29d90ed43f.jpg
     url: /files/original/14fb29d90ed05914fb29d90ed43f.jpg
+    alt:
+      en: "Severely water-damaged and mold-spotted portrait photograph of a young child's face, with dark staining obscuring much of the image and the paper edges curling and cracked."
 geo:
   address: 3709 Palmisano Blvd., Chalmette, LA
   lat: 29.95079

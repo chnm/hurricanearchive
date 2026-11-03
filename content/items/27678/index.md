@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6703_efd21ad1db.JPG
     thumb: /files/thumbnails/14fb29d322176a14fb29d3221b4c.jpg
     url: /files/original/14fb29d322176a14fb29d3221b4c.jpg
+    alt:
+      en: "Hand-tinted vintage studio portrait of a smiling woman in a yellow dress and pearls, a man in a white sailor uniform and cap, and a young child seated between them holding a small ball."
 geo:
   address: ''
   lat: 29.95493

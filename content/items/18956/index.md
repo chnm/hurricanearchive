@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2116rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a14029c2814fb2a1402a711.jpg
     url: /files/original/14fb2a14029c2814fb2a1402a711.jpg
+    alt:
+      en: "Interior view of a helicopter cockpit from behind, showing a pilot in a helmet labeled \"#47\" seated amid instrument panels, gauges, and switches, with bright white sky visible through the windshield."
 geo:
 id: 18956
 item_type: Still Image

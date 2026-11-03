@@ -21,6 +21,8 @@ files:
     original_filename: slide8.jpg
     thumb: /files/thumbnails/14fb2a1930d53714fb2a1930d891.jpg
     url: /files/original/14fb2a1930d53714fb2a1930d891.jpg
+    alt:
+      en: "Collapsed sections of the U.S. Hwy. 90 bridge at Bay St. Louis stretch into the water, with broken concrete pilings in the foreground and a uniformed figure standing at right."
 geo:
 id: 14418
 item_type: Still Image

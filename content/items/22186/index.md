@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0993Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f932a69714fb29f932b1d3.jpg
     url: /files/original/14fb29f932a69714fb29f932b1d3.jpg
+    alt:
+      en: "A camouflage military Chevrolet Blazer with a yellow \"CONVOY FOLLOWS\" sign on its front bumper drives through an intersection, with ambulances and a \"City of New Orleans Municipal Training Academy\" sign visible nearby."
 geo:
 id: 22186
 item_type: Still Image

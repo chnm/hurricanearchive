@@ -23,6 +23,8 @@ files:
     original_filename: 158855287_2d8a7ec4d7.jpg
     thumb: /files/thumbnails/14fb29d1fe47f214fb29d1fe4bdb.jpg
     url: /files/original/14fb29d1fe47f214fb29d1fe4bdb.jpg
+    alt:
+      en: "Debris-strewn lot in the Lower 9th Ward with two tires, a rusted wooden box, and a gray safe sitting on cracked pavement amid storm wreckage and standing water."
 geo:
 id: 28636
 item_type: Still Image

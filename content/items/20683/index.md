@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0056-9-25.JPG
     thumb: /files/thumbnails/14fb2a050e08c714fb2a050e0cad.jpg
     url: /files/original/14fb2a050e08c714fb2a050e0cad.jpg
+    alt:
+      en: "Aerial view of storm-damaged rural property with collapsed sheds, scattered debris, a stripped-roof building, and flooded fields surrounding the structures."
 geo:
 id: 20683
 item_type: Still Image

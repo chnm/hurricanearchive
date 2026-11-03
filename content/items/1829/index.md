@@ -26,6 +26,8 @@ files:
     original_filename: 17th_street_canl_pumping_station_flooded_2cf051538b.JPG
     thumb: /files/thumbnails/14fb2a6ebb639514fb2a6ebb677a.jpg
     url: /files/original/14fb2a6ebb639514fb2a6ebb677a.jpg
+    alt:
+      en: "A long brick building with a sloped green roof and diagonal metal support beams sits at the water's edge, its structure reflected in the still, flooded canal beneath a clear blue sky."
 geo:
   address: ''
   lat: 29.987426868181196

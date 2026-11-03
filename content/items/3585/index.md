@@ -24,6 +24,8 @@ files:
     original_filename: P1010012.JPG
     thumb: /files/thumbnails/14fb2a5ab1d01814fb2a5ab1d3fd.jpg
     url: /files/original/14fb2a5ab1d01814fb2a5ab1d3fd.jpg
+    alt:
+      en: "Large fallen tree limbs crush the roof of a weathered wood-sided house, with a Carrier window air conditioning unit and broken windows visible on the damaged exterior wall."
 geo:
 id: 3585
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: closebroussard_615b87beb1.jpg
     thumb: /files/thumbnails/14fb29cc31b18414fb29cc31b56b.jpg
     url: /files/original/14fb29cc31b18414fb29cc31b56b.jpg
+    alt:
+      en: "Close-up of a water-damaged photograph showing a smiling man with gray hair wearing a blue collared shirt, the print scarred by peeling, staining, and tears from flood exposure."
 geo:
   address: 1342 Mandolin St
   lat: 0.0

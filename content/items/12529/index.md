@@ -24,6 +24,8 @@ files:
     original_filename: neighborhood1_dbcb8e10ba.jpg
     thumb: /files/thumbnails/14fb2a2215c27314fb2a2215c72b.jpg
     url: /files/original/14fb2a2215c27314fb2a2215c72b.jpg
+    alt:
+      en: "View from a balcony railing over rooftops toward Bank Street, with standing floodwater visible among bare trees, utility poles, and lines between houses."
 geo:
   address: Bank Street and Tulane Ave, New Orleans, LA
   lat: 29.95657

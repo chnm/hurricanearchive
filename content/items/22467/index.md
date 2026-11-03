@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1308Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6509cf014fb29f650a0d3.jpg
     url: /files/original/14fb29f6509cf014fb29f650a0d3.jpg
+    alt:
+      en: "Floodwaters submerge a parking lot and partially cover a Ryder moving truck trailer reading \"Together, We're Going Places,\" with a building rooftop and storm-bent trees visible in the background."
 geo:
 id: 22467
 item_type: Still Image

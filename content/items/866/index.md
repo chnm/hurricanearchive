@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28135.jpg
     thumb: /files/thumbnails/14fb2a6c920eaf14fb2a6c92128d.jpg
     url: /files/original/14fb2a6c920eaf14fb2a6c92128d.jpg
+    alt:
+      en: "A large boat sits stranded on land amid storm debris, with a damaged house and scattered rubble in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

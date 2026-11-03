@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 036cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e92705514fb2a0e9276cd.jpg
     url: /files/original/14fb2a0e92705514fb2a0e9276cd.jpg
+    alt:
+      en: "A large paved lot with rows of military trucks parked in the distance, a metal canopy structure marked \"10\" on the right, and stacked wooden crates nearby under a partly cloudy sky."
 geo:
 id: 19649
 item_type: Still Image

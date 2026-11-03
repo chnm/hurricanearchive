@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0090-15.JPG
     thumb: /files/thumbnails/14fb29e811b94514fb29e811bedb.jpg
     url: /files/original/14fb29e811b94514fb29e811bedb.jpg
+    alt:
+      en: "Aerial view of a single-story house with a dark shingled roof, surrounded by a debris-strewn lot, a damaged boat on a trailer, two vehicles, and a vacant, rubble-covered field."
 geo:
 id: 24416
 item_type: Still Image

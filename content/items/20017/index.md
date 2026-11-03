@@ -21,6 +21,8 @@ files:
     original_filename: Picture 114cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba9d03414fb2a0baa1e02.jpg
     url: /files/original/14fb2a0ba9d03414fb2a0baa1e02.jpg
+    alt:
+      en: "A large boat with a teal-painted hull and cabin lies tipped on its side on a grassy strip beside a road, its underside and rusted red hull exposed."
 geo:
 id: 20017
 item_type: Still Image

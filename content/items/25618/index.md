@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.023.JPG
     thumb: /files/thumbnails/14fb29dd20267d14fb29dd202a60.jpg
     url: /files/original/14fb29dd20267d14fb29dd202a60.jpg
+    alt:
+      en: "Collapsed house with shattered roof and walls caving inward, spray-painted search-and-rescue markings reading \"16.9 1/8 NE\" on the siding, debris and a chair scattered in front along the street."
 geo:
 id: 25618
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010156empireS&R.JPG
     thumb: /files/thumbnails/14fb29eda07e7f14fb29eda08264.jpg
     url: /files/original/14fb29eda07e7f14fb29eda08264.jpg
+    alt:
+      en: "Large white and gray boat beached on land amid storm debris, with a fallen utility pole leaning into floodwater and damaged trees surrounding the scene."
 geo:
 id: 23715
 item_type: Still Image

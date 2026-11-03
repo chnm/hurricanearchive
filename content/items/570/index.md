@@ -26,6 +26,8 @@ files:
     original_filename: 100_0107_66d716a6c3.JPG
     thumb: /files/thumbnails/14fb2a6f84806214fb2a6f848445.jpg
     url: /files/original/14fb2a6f84806214fb2a6f848445.jpg
+    alt:
+      en: "A \"John McDonald Realty - For Rent\" sign stands amid storm debris and scattered belongings on a cleared, sandy lot, with a damaged green house and bare trees in the background."
 geo:
   address: ''
   lat: 0.0

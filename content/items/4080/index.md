@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0969.JPG
     thumb: /files/thumbnails/14fb2a580326d614fb2a58032e9f.jpg
     url: /files/original/14fb2a580326d614fb2a58032e9f.jpg
+    alt:
+      en: "Nighttime scene of five U.S. Coast Guard personnel in blue uniforms loading boxes and gear into the back of a trailer, with one person standing inside the cargo area."
 geo:
 id: 4080
 item_type: Still Image

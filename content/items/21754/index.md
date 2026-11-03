@@ -21,6 +21,8 @@ files:
     original_filename: katrina 022.jpg
     thumb: /files/thumbnails/14fb29fbf30fd214fb29fbf313db.jpg
     url: /files/original/14fb29fbf30fd214fb29fbf313db.jpg
+    alt:
+      en: "Collapsed metal canopy structure with twisted support beams lies in front of a \"Transmissions Inc\" building, its boarded-up windows visible amid storm wreckage in the parking lot."
 geo:
 id: 21754
 item_type: Still Image

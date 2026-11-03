@@ -21,6 +21,8 @@ files:
     original_filename: aerials54.jpg
     thumb: /files/thumbnails/14fb2a19bb9da614fb2a19bba18d.jpg
     url: /files/original/14fb2a19bb9da614fb2a19bba18d.jpg
+    alt:
+      en: "Aerial view of a wooded residential area reduced to scattered debris and rubble, surrounded by scorched or defoliated trees, with a cleared green lawn in the foreground."
 geo:
 id: 14343
 item_type: Still Image

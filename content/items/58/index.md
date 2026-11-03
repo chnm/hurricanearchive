@@ -26,6 +26,8 @@ files:
     original_filename: googlefloodmap_4146101ac1.jpg
     thumb: /files/thumbnails/14fb2a713262cd14fb2a713265da.jpg
     url: /files/original/14fb2a713262cd14fb2a713265da.jpg
+    alt:
+      en: "Satellite map of New Orleans and surrounding areas with light blue overlay indicating flood extent, overlaid with highways, streets, and neighborhood labels like Kenner, Harahan, and Metairie."
 geo:
   address: ''
   lat: 29.958304

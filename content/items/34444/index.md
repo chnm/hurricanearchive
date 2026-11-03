@@ -23,6 +23,8 @@ files:
     original_filename: 2326889444_cc26417ea0.
     thumb: /files/thumbnails/14fb29ca00a48e14fb29ca00a874.jpg
     url: /files/original/14fb29ca00a48e14fb29ca00a874.jpg
+    alt:
+      en: "A white Sheriff's patrol car with \"DIAL 911\" marked on its trunk is parked beside a large pile of storm debris, with damaged structures and trees in the background."
 geo:
   address: ''
   lat: 30.21747

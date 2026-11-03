@@ -26,6 +26,8 @@ files:
     original_filename: 050922051005_Hurricane_Rita_90_7c0a9cd419.jpg
     thumb: /files/thumbnails/14fb2a6eb48e1214fb2a6eb491f2.jpg
     url: /files/original/14fb2a6eb48e1214fb2a6eb491f2.jpg
+    alt:
+      en: "A large rectangular sign structure, stripped of its advertising panels, lies collapsed on its side near a \"East 105 Texas\" highway marker, with trees and houses in the background."
 geo:
   address: ''
   lat: 30.115295

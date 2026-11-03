@@ -17,6 +17,8 @@ files:
     original_filename: Dina.kitchen.postKatrina.jpeg
     thumb: /files/thumbnails/f017c29f87fd07cbd6422a78b632fcaf.jpg
     url: /files/original/f017c29f87fd07cbd6422a78b632fcaf.jpeg
+    alt:
+      en: "Flood-damaged kitchen with blackened cabinets, a stained refrigerator, and scattered debris; a stove with two towels still folded over its handle stands amid the wreckage."
 geo:
   address: ''
   lat: 30.0022101025

@@ -21,6 +21,8 @@ files:
     original_filename: katrina 001.jpg
     thumb: /files/thumbnails/14fb29fc15e05914fb29fc15e43e.jpg
     url: /files/original/14fb29fc15e05914fb29fc15e43e.jpg
+    alt:
+      en: "Two young men in olive-colored shirts, one wearing a camouflage jacket, pose closely together indoors at night; a timestamp reading \"5 10:08 PM\" appears in the lower right corner."
 geo:
 id: 21733
 item_type: Still Image

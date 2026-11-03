@@ -21,6 +21,8 @@ files:
     original_filename: before looking cel tower.jpg
     thumb: /files/thumbnails/14fb2a20e2ea3114fb2a20e2f0a3.jpg
     url: /files/original/14fb2a20e2ea3114fb2a20e2f0a3.jpg
+    alt:
+      en: "Empty rooftop parking deck with painted parking lines, overlooking a tall lattice cell tower and a smaller antenna tower in the distance under a cloudy sky."
 geo:
 id: 13041
 item_type: Still Image

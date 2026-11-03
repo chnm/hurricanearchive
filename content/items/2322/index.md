@@ -26,6 +26,8 @@ files:
     original_filename: Jim__Evelyn_Fountain_0893a09490.png
     thumb: /files/thumbnails/14fb2a6d5255e614fb2a6d5259cc.jpg
     url: /files/original/14fb2a6d5255e614fb2a6d5259cc.jpg
+    alt:
+      en: "An elderly man and woman sit side by side in plastic chairs outdoors, with two small white dogs on the man's lap, in front of a garage door marked with a spray-painted X."
 geo:
   address: ''
   lat: 30.342352

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28274.jpg
     thumb: /files/thumbnails/14fb2a690b8ad814fb2a690b8eb8.jpg
     url: /files/original/14fb2a690b8ad814fb2a690b8eb8.jpg
+    alt:
+      en: "Storm-damaged multi-story building with collapsed sections and debris, a fallen uprooted tree, scattered rubble, a yellow fire hydrant, and a parked vehicle in a cleared lot, under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

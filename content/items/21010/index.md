@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0168-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0115117414fb2a01151487.jpg
     url: /files/original/14fb2a0115117414fb2a01151487.jpg
+    alt:
+      en: "A single-story white house with a rusted tin roof and green-trimmed windows stands amid dead grass and bare trees, with a damaged white staircase and scattered debris in the foreground."
 geo:
 id: 21010
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 024cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c5e197214fb2a0c5e1d53.jpg
     url: /files/original/14fb2a0c5e197214fb2a0c5e1d53.jpg
+    alt:
+      en: "Suburban street scene with fallen tree branches and storm debris scattered across the grass and road, a military Humvee and parked cars nearby, and a \"STOP\" sign in the foreground."
 geo:
 id: 19928
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (12).JPG
     thumb: /files/thumbnails/14fb2a5c4e7abe14fb2a5c4e7ea3.jpg
     url: /files/original/14fb2a5c4e7abe14fb2a5c4e7ea3.jpg
+    alt:
+      en: "Gravel lot in foreground with a row of damaged houses, bare trees, utility poles, and parked vehicles visible across the street under a partly cloudy sky."
 geo:
 id: 3346
 item_type: Still Image

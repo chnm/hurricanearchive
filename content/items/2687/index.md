@@ -21,6 +21,8 @@ files:
     original_filename: 110.jpg
     thumb: /files/thumbnails/14fb2a6090137614fb2a6090174b.jpg
     url: /files/original/14fb2a6090137614fb2a6090174b.jpg
+    alt:
+      en: "Child's drawing labeled \"Chelsey 10\" showing a brown house with windows and door, gray clouds, a yellow sun, eight stick figures, and two wavy bands of water in teal and blue."
 geo:
 id: 2687
 item_type: Still Image

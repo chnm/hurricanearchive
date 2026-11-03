@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27850.jpg
     thumb: /files/thumbnails/14fb2a6ab7cd7e14fb2a6ab7d164.jpg
     url: /files/original/14fb2a6ab7cd7e14fb2a6ab7d164.jpg
+    alt:
+      en: "Large oak tree draped with Spanish moss towers over a white house with a porch, set on a grassy lawn near Chauvin, Louisiana."
 geo:
   address: ''
   lat: 0.0

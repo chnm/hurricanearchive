@@ -20,6 +20,8 @@ files:
     original_filename: Neighborhood outside Venetian Isles, LA.JPG
     thumb: /files/thumbnails/14fb29d596e84a14fb29d596ec2f.jpg
     url: /files/original/14fb29d596e84a14fb29d596ec2f.jpg
+    alt:
+      en: "View from inside a vehicle driving through a neighborhood with debris piles along the roadside, mobile homes or trailers positioned on lots, and houses in the background under a clear sky."
 geo:
 id: 27262
 item_type: Still Image

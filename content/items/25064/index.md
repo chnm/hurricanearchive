@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1638superdome.JPG
     thumb: /files/thumbnails/14fb29e292c32614fb29e292c6d0.jpg
     url: /files/original/14fb29e292c32614fb29e292c6d0.jpg
+    alt:
+      en: "Flooded parking lot and railroad tracks in front of the Superdome, its roof damaged and stripped in sections, next to a teal-paneled building; a billboard reading \"that innovate Tulane\" stands at left."
 geo:
 id: 25064
 item_type: Still Image

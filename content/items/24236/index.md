@@ -21,6 +21,8 @@ files:
     original_filename: 09140017.JPG
     thumb: /files/thumbnails/14fb29e97a83f314fb29e97a8bb7.jpg
     url: /files/original/14fb29e97a83f314fb29e97a8bb7.jpg
+    alt:
+      en: "Dark pickup truck with a severely shattered windshield and debris on the hood, parked near military Humvees and buildings in the background; a person in camouflage stands beside it."
 geo:
 id: 24236
 item_type: Still Image

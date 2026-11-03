@@ -23,6 +23,8 @@ files:
     original_filename: 2326889184_57d1cc6070.
     thumb: /files/thumbnails/14fb29ca0acd7e14fb29ca0ad164.jpg
     url: /files/original/14fb29ca0acd7e14fb29ca0ad164.jpg
+    alt:
+      en: "Storm-deposited marsh grass covers the ground, strewn with wood debris, a white plate, and a rusted metal spike, with a barge visible on the water in the background."
 geo:
   address: ''
   lat: 30.22586

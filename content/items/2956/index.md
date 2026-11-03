@@ -21,6 +21,8 @@ files:
     original_filename: MVC-011S.JPG
     thumb: /files/thumbnails/14fb2a5f77fffd14fb2a5f7803f8.jpg
     url: /files/original/14fb2a5f77fffd14fb2a5f7803f8.jpg
+    alt:
+      en: "A barge with a crane sits on sunlit water beside a large gray naval vessel, its gun turrets visible in the foreground, with a distant shoreline on the horizon."
 geo:
 id: 2956
 item_type: Still Image

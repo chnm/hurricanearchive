@@ -18,6 +18,8 @@ files:
     original_filename: post card 10_866b5073b3.JPG
     thumb: /files/thumbnails/14fb29c45466a714fb29c45469d1.jpg
     url: /files/original/14fb29c45466a714fb29c45469d1.jpg
+    alt:
+      en: "Handwritten index card titled \"Poor Boy's\" describing a favorite po'boy sandwich recipe (shrimp, no mayo, extra pickles, hot sauce, two tomatoes), signed with a small smiley doodle."
 geo:
   address: ''
   lat: 0.0

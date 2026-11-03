@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (19).JPG
     thumb: /files/thumbnails/14fb2a5d8c15e214fb2a5d8c1989.jpg
     url: /files/original/14fb2a5d8c15e214fb2a5d8c1989.jpg
+    alt:
+      en: "Damaged storefront of \"Yang's Chinese Restaurant\" with a torn red awning, exposed plywood, broken glass doors, and debris scattered across the sidewalk."
 geo:
 id: 3166
 item_type: Still Image

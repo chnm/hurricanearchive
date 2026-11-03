@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 041.jpg
     thumb: /files/thumbnails/14fb2a22ba463814fb2a22ba4a1e.jpg
     url: /files/original/14fb2a22ba463814fb2a22ba4a1e.jpg
+    alt:
+      en: "A section of asphalt roadway with yellow lane markings has collapsed into a large hole, exposing sand and debris beneath; the photo is timestamped 2005/09/24."
 geo:
 id: 11919
 item_type: Still Image

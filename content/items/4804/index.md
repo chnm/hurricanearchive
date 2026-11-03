@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0117.JPG
     thumb: /files/thumbnails/14fb2a555e6f1314fb2a555e72f9.jpg
     url: /files/original/14fb2a555e6f1314fb2a555e72f9.jpg
+    alt:
+      en: "Wooded lot with a collapsed structure reduced to a pile of debris, surrounded by scattered boards, metal sheeting, and broken trees, with patchy grass in the foreground."
 geo:
 id: 4804
 item_type: Still Image

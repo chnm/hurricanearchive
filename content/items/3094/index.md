@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (13).JPG
     thumb: /files/thumbnails/14fb2a5e1003bd14fb2a5e1007a2.jpg
     url: /files/original/14fb2a5e1003bd14fb2a5e1007a2.jpg
+    alt:
+      en: "Interior of a military Humvee showing the steering wheel, dashboard gauges, and communication radio equipment, with a backpack, cables, and sunglasses visible amid the gear."
 geo:
 id: 3094
 item_type: Still Image

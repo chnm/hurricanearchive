@@ -21,6 +21,8 @@ files:
     original_filename: Picture 030satellite.jpg
     thumb: /files/thumbnails/14fb2a13c1c5c514fb2a13c1c9b3.jpg
     url: /files/original/14fb2a13c1c5c514fb2a13c1c9b3.jpg
+    alt:
+      en: "Side-by-side satellite images of New Orleans labeled August 28, 2002 and September 2, 2005, the latter showing a large plume of smoke rising from the waterfront industrial area along the canal."
 geo:
 id: 19010
 item_type: Still Image

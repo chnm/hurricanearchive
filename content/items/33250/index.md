@@ -23,6 +23,8 @@ files:
     original_filename: 1231398936_217a54b6f3.jpg
     thumb: /files/thumbnails/14fb29cb2ac3df14fb29cb2acebe.jpg
     url: /files/original/14fb29cb2ac3df14fb29cb2acebe.jpg
+    alt:
+      en: "A weathered two-story corner store building with boarded windows and overgrown grass, situated at an intersection with a yellow two-way traffic sign, utility poles, and power lines overhead."
 geo:
   address: ''
   lat: 41.8848

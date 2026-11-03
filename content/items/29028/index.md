@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0552.JPG
     thumb: /files/thumbnails/14fb29d08e257514fb29d08e2951.jpg
     url: /files/original/14fb29d08e257514fb29d08e2951.jpg
+    alt:
+      en: "A UH-60 Black Hawk helicopter marked \"United States Army\" sits parked on a concrete tarmac with rotor blades spinning, its side doors open; other aircraft and a hangar structure are visible in the background."
 geo:
 id: 29028
 item_type: Still Image

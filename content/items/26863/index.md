@@ -21,6 +21,8 @@ files:
     original_filename: fighting owl band_884528a5ce.jpg
     thumb: /files/thumbnails/14fb29d71022bd14fb29d71024bf.jpg
     url: /files/original/14fb29d71022bd14fb29d71024bf.jpg
+    alt:
+      en: "Black and white yearbook photo of the Chalmette High School marching band in uniform on bleachers, with \"Fighting Owl Band\" lettering and a name list of members below."
 geo:
 id: 26863
 item_type: Still Image

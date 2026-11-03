@@ -26,6 +26,8 @@ files:
     original_filename: 34883_1c9ff9fd73.jpg
     thumb: /files/thumbnails/14fb2a6d7dad9214fb2a6d7db178.jpg
     url: /files/original/14fb2a6d7dad9214fb2a6d7db178.jpg
+    alt:
+      en: "Smiling elderly man in a white T-shirt holds three stacked foam food containers and plastic bags marked \"American Red Cross,\" standing in front of a red pickup truck."
 geo:
   address: ''
   lat: 31.11879

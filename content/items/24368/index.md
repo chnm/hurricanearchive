@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-16-15A.jpg
     thumb: /files/thumbnails/14fb29e867e78014fb29e867edaa.jpg
     url: /files/original/14fb29e867e78014fb29e867edaa.jpg
+    alt:
+      en: "Blurry, abstract photo with a pale green and beige textured surface in the foreground beneath a hazy view of a railed staircase or balcony structure in muted blue-gray tones."
 geo:
 id: 24368
 item_type: Still Image

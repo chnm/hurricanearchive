@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICAN_KATRI_05C0Y_40ad03e876.jpg
     thumb: /files/thumbnails/14fb2a6666f69d14fb2a6666fe38.jpg
     url: /files/original/14fb2a6666f69d14fb2a6666fe38.jpg
+    alt:
+      en: "Two Coast Guard personnel in dark coveralls, one wearing a white hard hat with \"USCG\" patch on his back, stand beside large storage tanks and a calm waterway at the Bass Oil Facility in Venice, La."
 geo:
 id: 2428
 item_type: Still Image

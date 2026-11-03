@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026-20.JPG
     thumb: /files/thumbnails/14fb2a0695201d14fb2a06952403.jpg
     url: /files/original/14fb2a0695201d14fb2a06952403.jpg
+    alt:
+      en: "Volunteers in matching gray T-shirts and caps serve food into styrofoam containers at a buffet-style steam table, with a \"Classic SYSCO\" deli paper box visible on the red-covered table."
 geo:
 id: 20511
 item_type: Still Image

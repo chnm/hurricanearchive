@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2106superdome.JPG
     thumb: /files/thumbnails/14fb29e4bd86ec14fb29e4bd8add.jpg
     url: /files/original/14fb29e4bd86ec14fb29e4bd8add.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms converse at night, one writing in a notebook, with a third soldier standing in the background."
 geo:
 id: 24784
 item_type: Still Image

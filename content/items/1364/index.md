@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28058.jpg
     thumb: /files/thumbnails/14fb2a694adac214fb2a694adea7.jpg
     url: /files/original/14fb2a694adac214fb2a694adea7.jpg
+    alt:
+      en: "Mud-cracked ground strewn with debris, including a large cylindrical tank, concrete block, and a green-and-gray Fisher Price toy castle, with houses and a bridge structure visible in the background."
 geo:
   address: ''
   lat: 0.0

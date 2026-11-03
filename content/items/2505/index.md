@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8616.jpg
     thumb: /files/thumbnails/14fb2a65d61cec14fb2a65d620d3.jpg
     url: /files/original/14fb2a65d61cec14fb2a65d620d3.jpg
+    alt:
+      en: "Remnants of a wooden pergola frame stand amid debris and dried grass, with a grounded white boat spray-painted \"DO NOT DESTROY 504-606-6350\" resting in the background under a clear sky."
 geo:
 id: 2505
 item_type: Still Image

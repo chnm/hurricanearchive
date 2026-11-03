@@ -26,6 +26,8 @@ files:
     original_filename: Rita1_2062_702864e295.jpg
     thumb: /files/thumbnails/14fb2a6fba4cfa14fb2a6fba6c3b.jpg
     url: /files/original/14fb2a6fba4cfa14fb2a6fba6c3b.jpg
+    alt:
+      en: "Flood-damaged house with boarded-up windows, American flags, and piles of debris on its porch, reflected in standing floodwater; a mailbox reading \"GOD BLESS U.S.\" stands in the water."
 geo:
   address: ''
   lat: 29.402515917576096

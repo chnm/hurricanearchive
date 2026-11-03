@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AlisenReed_03_9427fcc2fb.jpg
     thumb: /files/thumbnails/14fb2a1835864b14fb2a18358a30.jpg
     url: /files/original/14fb2a1835864b14fb2a18358a30.jpg
+    alt:
+      en: "A young girl in a white uniform shirt with \"GSS\" embroidered on it and a plaid skirt sits smiling in a classroom, surrounded by a bookshelf of children's books and stuffed animal puppets."
 geo:
 id: 14683
 item_type: Still Image

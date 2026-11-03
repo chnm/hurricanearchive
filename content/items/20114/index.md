@@ -21,6 +21,8 @@ files:
     original_filename: Picture 211cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b38b93f14fb2a0b38bd27.jpg
     url: /files/original/14fb2a0b38b93f14fb2a0b38bd27.jpg
+    alt:
+      en: "Green street sign pole in foreground with a grassy lawn, trees, and a sidewalk; a blue and a red car are parked on a curved driveway near a house in the background."
 geo:
 id: 20114
 item_type: Still Image

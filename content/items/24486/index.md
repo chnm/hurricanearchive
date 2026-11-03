@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0103-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e74b634814fb29e74b66ef.jpg
     url: /files/original/14fb29e74b634814fb29e74b66ef.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses partially submerged in murky water, surrounded by bare, storm-damaged trees and scattered debris."
 geo:
 id: 24486
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0082abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efb9f1c014fb29efba0373.jpg
     url: /files/original/14fb29efb9f1c014fb29efba0373.jpg
+    alt:
+      en: "Man in plaid shirt, jeans, and ball cap with glasses and mustache stands with hands on hips, looking out over floodwaters surrounding trees and a partially submerged structure."
 geo:
 id: 23388
 item_type: Still Image

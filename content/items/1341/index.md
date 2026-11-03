@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28051.jpg
     thumb: /files/thumbnails/14fb2a696cc0b114fb2a696cc497.jpg
     url: /files/original/14fb2a696cc0b114fb2a696cc497.jpg
+    alt:
+      en: "Damaged elevated highway overpass with exposed rebar and dangling debris, as workers and a skid-steer loader clear concrete rubble below; a green exit sign reads \"City Park Av, Metairie Rd.\""
 geo:
   address: ''
   lat: 0.0

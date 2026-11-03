@@ -21,6 +21,8 @@ files:
     original_filename: P1010168empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed6d5df314fb29ed6d6216.jpg
     url: /files/original/14fb29ed6d5df314fb29ed6d6216.jpg
+    alt:
+      en: "A damaged mobile home with a collapsed roof section sits beside a flooded, debris-strewn roadside, with large trees fallen across the structure and downed power lines nearby."
 geo:
 id: 23727
 item_type: Still Image

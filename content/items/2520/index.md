@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8694.jpg
     thumb: /files/thumbnails/14fb2a65c4784614fb2a65c47c3e.jpg
     url: /files/original/14fb2a65c4784614fb2a65c47c3e.jpg
+    alt:
+      en: "A black sedan lies impaled and tilted atop a bent iron fence, with another car lodged vertically behind it, set against a brick apartment building and bare trees."
 geo:
 id: 2520
 item_type: Still Image

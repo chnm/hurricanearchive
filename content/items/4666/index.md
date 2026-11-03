@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0617.JPG
     thumb: /files/thumbnails/14fb2a565a969c14fb2a565a9a82.jpg
     url: /files/original/14fb2a565a969c14fb2a565a9a82.jpg
+    alt:
+      en: "A large pile of broken tree branches and debris sits beside a covered porch with a red rocking chair and lawn mower, with more fallen limbs tangled in trees nearby."
 geo:
 id: 4666
 item_type: Still Image

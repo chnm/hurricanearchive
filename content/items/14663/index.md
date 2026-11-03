@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_Alexia Wilson pics01_43d23abb34.jpg
     thumb: /files/thumbnails/14fb2a187b9ce714fb2a187ba429.jpg
     url: /files/original/14fb2a187b9ce714fb2a187ba429.jpg
+    alt:
+      en: "Faded Polaroid of four school children, each holding a small white object, posing together in a classroom in front of a whiteboard with partially visible handwritten notes."
 geo:
 id: 14663
 item_type: Still Image

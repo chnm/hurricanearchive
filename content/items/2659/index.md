@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9231.jpg
     thumb: /files/thumbnails/14fb2a61c46dca14fb2a61c4a07d.jpg
     url: /files/original/14fb2a61c46dca14fb2a61c4a07d.jpg
+    alt:
+      en: "Overturned, rusted school lockers—purple and tan—lie scattered amid debris and a fallen tree branch, with the storm-damaged shell of Cameron Elementary School visible in the background."
 geo:
 id: 2659
 item_type: Still Image

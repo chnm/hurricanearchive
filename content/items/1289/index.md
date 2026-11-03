@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28614.jpg
     thumb: /files/thumbnails/14fb2a69d41af714fb2a69d41ed7.jpg
     url: /files/original/14fb2a69d41af714fb2a69d41ed7.jpg
+    alt:
+      en: "Two blue road signs tilted on a grassy roadside, one reading \"Hurricane Evacuation Route\" with an arrow, the other \"For Information Tune Radio To 870 AM 101.9 FM,\" with plastic debris on the ground nearby."
 geo:
   address: ''
   lat: 0.0

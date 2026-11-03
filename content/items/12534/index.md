@@ -24,6 +24,8 @@ files:
     original_filename: kitchen_6b80d3c08c.jpg
     thumb: /files/thumbnails/14fb2a2212347714fb2a22123865.jpg
     url: /files/original/14fb2a2212347714fb2a22123865.jpg
+    alt:
+      en: "Left: flooded kitchen with water-stained cabinets, open drawers, and items scattered on counters near a gas stove. Right: same kitchen later, showing a refrigerator toppled face-down amid debris and boxes."
 geo:
   address: ''
   lat: 29.95657

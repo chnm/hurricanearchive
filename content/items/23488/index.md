@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0131abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef39885314fb29ef398f7b.jpg
     url: /files/original/14fb29ef39885314fb29ef398f7b.jpg
+    alt:
+      en: "A flooded residential area with a single-story house surrounded by standing water, a boat on a trailer partially submerged in the foreground, and bare, storm-damaged trees in the background."
 geo:
 id: 23488
 item_type: Still Image

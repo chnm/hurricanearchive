@@ -20,6 +20,8 @@ files:
     original_filename: Picture+033_117439d411.jpg
     thumb: /files/thumbnails/14fb29ce04343c14fb29ce043820.jpg
     url: /files/original/14fb29ce04343c14fb29ce043820.jpg
+    alt:
+      en: "A concrete slab with decorative tile flooring and brick steps—remnants of a demolished house's front porch—stands overgrown with weeds, with a damaged home visible in the background."
 geo:
 id: 30028
 item_type: Still Image

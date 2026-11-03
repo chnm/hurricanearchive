@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2129rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13f0b8e414fb2a13f0bcc8.jpg
     url: /files/original/14fb2a13f0b8e414fb2a13f0bcc8.jpg
+    alt:
+      en: "Aerial view from a helicopter interior showing a crew member in a dark helmet labeled \"Henderson J.\" looking down at floodwaters covering a street, with trees and rooftops partially submerged below."
 geo:
 id: 18967
 item_type: Still Image

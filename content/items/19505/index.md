@@ -21,6 +21,8 @@ files:
     original_filename: Picture 065engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa16a5114fb2a0fa16de0.jpg
     url: /files/original/14fb2a0fa16a5114fb2a0fa16de0.jpg
+    alt:
+      en: "Aerial view of a flooded New Orleans neighborhood near EP Nunez Community College, showing submerged streets, rooftops, and debris surrounded by standing floodwater, with a canal and levee visible in the background."
 geo:
 id: 19505
 item_type: Still Image

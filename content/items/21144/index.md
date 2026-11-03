@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0185-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a005b57bf14fb2a005b5bbe.jpg
     url: /files/original/14fb2a005b57bf14fb2a005b5bbe.jpg
+    alt:
+      en: "Aerial view of a two-lane road lined with military trucks and personnel, bordered by extensive floodwaters covering surrounding fields and marsh grass."
 geo:
 id: 21144
 item_type: Still Image

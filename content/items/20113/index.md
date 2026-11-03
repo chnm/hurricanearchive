@@ -21,6 +21,8 @@ files:
     original_filename: Picture 210cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b39b71814fb2a0b39baff.jpg
     url: /files/original/14fb2a0b39b71814fb2a0b39baff.jpg
+    alt:
+      en: "A single-story house with a garage sits behind a grassy lawn, framed by mature trees including a palm, with a sidewalk and street in the foreground."
 geo:
 id: 20113
 item_type: Still Image

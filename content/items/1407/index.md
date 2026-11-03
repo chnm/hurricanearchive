@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27882.jpg
     thumb: /files/thumbnails/14fb2a69110af814fb2a69110ed8.jpg
     url: /files/original/14fb2a69110af814fb2a69110ed8.jpg
+    alt:
+      en: "Interior hallway of a storm-damaged trailer with debris-covered floor, exposed wiring, a broom leaning against wood paneling, and two landscape pictures hung on the wall."
 geo:
   address: ''
   lat: 0.0

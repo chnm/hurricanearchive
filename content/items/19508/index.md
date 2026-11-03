@@ -21,6 +21,8 @@ files:
     original_filename: Picture 068engineers.jpg
     thumb: /files/thumbnails/14fb2a0f9d8eec14fb2a0f9d92db.jpg
     url: /files/original/14fb2a0f9d8eec14fb2a0f9d92db.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with debris-strewn yards beside a large flat-roofed commercial building and empty parking lots, with downed trees and storm damage visible throughout."
 geo:
 id: 19508
 item_type: Still Image

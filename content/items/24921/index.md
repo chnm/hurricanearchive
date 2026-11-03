@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1416superdome.JPG
     thumb: /files/thumbnails/14fb29e3e025c914fb29e3e029af.jpg
     url: /files/original/14fb29e3e025c914fb29e3e029af.jpg
+    alt:
+      en: "Group of soldiers in camouflage fatigues with 82nd Airborne and American flag patches standing near a glass \"PUSH\" door, one wearing a backpack, in what appears to be an indoor facility."
 geo:
 id: 24921
 item_type: Still Image

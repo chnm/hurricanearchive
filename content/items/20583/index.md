@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038-20.JPG
     thumb: /files/thumbnails/14fb2a05ea043d14fb2a05ea2b99.jpg
     url: /files/original/14fb2a05ea043d14fb2a05ea2b99.jpg
+    alt:
+      en: "A woman wearing a red and black cap and a gray t-shirt reading \"Benny's Cajun Country, White Castle, La.\" stands near a red crate, with a pale wall and blue-toned backdrop behind her."
 geo:
 id: 20583
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0508.JPG
     thumb: /files/thumbnails/14fb29d107642314fb29d1077902.jpg
     url: /files/original/14fb29d107642314fb29d1077902.jpg
+    alt:
+      en: "Group of people seated around a table playing cards, with water bottles, a food tray, and cash visible; a \"Right-to-Know Information\" safety sign hangs on the wall behind them."
 geo:
 id: 29008
 item_type: Still Image

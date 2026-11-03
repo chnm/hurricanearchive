@@ -21,6 +21,8 @@ files:
     original_filename: DSC01052.JPG
     thumb: /files/thumbnails/14fb2a58b0470a14fb2a58b04af8.jpg
     url: /files/original/14fb2a58b0470a14fb2a58b04af8.jpg
+    alt:
+      en: "Under an overpass or covered structure, several people in dark uniforms sort supplies including bottled water cases and cardboard boxes, with a yellow dome tent and duffel bags nearby; timestamp reads \"4 5:23PM.\""
 geo:
 id: 3969
 item_type: Still Image

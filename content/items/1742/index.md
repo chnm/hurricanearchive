@@ -26,6 +26,8 @@ files:
     original_filename: VidorChurchOfChristRita_71a160af87.jpg
     thumb: /files/thumbnails/14fb2a6efdcc4114fb2a6efdd02f.jpg
     url: /files/original/14fb2a6efdcc4114fb2a6efdd02f.jpg
+    alt:
+      en: "Brick church building with a tall triangular glass window section, the glass broken and frames damaged, with \"Vidor Church of Christ\" lettering on the facade below."
 geo:
   address: ''
   lat: 30.148461

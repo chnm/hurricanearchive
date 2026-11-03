@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0366-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fce8a23c14fb29fce8a61e.jpg
     url: /files/original/14fb29fce8a23c14fb29fce8a61e.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with mobile homes and houses along a diagonal road, surrounded by trees and scattered debris, with parked cars and standing water visible in some yards."
 geo:
 id: 21634
 item_type: Still Image

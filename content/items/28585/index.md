@@ -23,6 +23,8 @@ files:
     original_filename: 162618043_681750545b.jpg
     thumb: /files/thumbnails/14fb29d2390fdb14fb29d23913bf.jpg
     url: /files/original/14fb29d2390fdb14fb29d23913bf.jpg
+    alt:
+      en: "Abandoned house in Lakeshore, New Orleans, with a damaged screen door marked by orange spray-painted search symbols, broken windows, and debris scattered on the porch amid overgrown weeds."
 geo:
 id: 28585
 item_type: Still Image

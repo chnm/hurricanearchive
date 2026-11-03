@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (64).jpg
     thumb: /files/thumbnails/14fb2a5ca0127914fb2a5ca01cf1.jpg
     url: /files/original/14fb2a5ca0127914fb2a5ca01cf1.jpg
+    alt:
+      en: "Debris field with a partially submerged yellow vehicle labeled \"Exotic Princess,\" scattered wood and household wreckage, standing floodwater, and bare, damaged trees under a clear sky."
 geo:
 id: 3304
 item_type: Still Image

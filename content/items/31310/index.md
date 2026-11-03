@@ -27,6 +27,8 @@ files:
     original_filename: renesdad_1f3eee3df4.jpg
     thumb: /files/thumbnails/14fb29cc34d22614fb29cc34dbc3.jpg
     url: /files/original/14fb29cc34d22614fb29cc34dbc3.jpg
+    alt:
+      en: "A water-damaged photograph of a smiling man in a blue short-sleeve shirt, its top edge torn away, mounted on a weathered cardboard backing."
 geo:
   address: 1342 Mandolin St
   lat: 0.0

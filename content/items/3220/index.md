@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (68).JPG
     thumb: /files/thumbnails/14fb2a5d392c6214fb2a5d393048.jpg
     url: /files/original/14fb2a5d392c6214fb2a5d393048.jpg
+    alt:
+      en: "Two damaged residential houses with front porches stand amid debris, fallen branches, and dead vegetation, with a dusty sedan parked in the driveway and a large bare tree in the foreground."
 geo:
 id: 3220
 item_type: Still Image

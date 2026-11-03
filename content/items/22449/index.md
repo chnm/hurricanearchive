@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1290Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f665bfab14fb29f665c683.jpg
     url: /files/original/14fb29f665bfab14fb29f665c683.jpg
+    alt:
+      en: "White two-story house with a garage, its lower level submerged in murky floodwater that nearly reaches the porch ceiling; a sign marked \"40\" is partially covered by the rising water."
 geo:
 id: 22449
 item_type: Still Image

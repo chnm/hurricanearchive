@@ -26,6 +26,8 @@ files:
     original_filename: katrina17_716f4f4f33.jpg
     thumb: /files/thumbnails/14fb2a714523bb14fb2a7145279a.jpg
     url: /files/original/14fb2a714523bb14fb2a7145279a.jpg
+    alt:
+      en: "Floodwaters submerge the courtyard of St. Dominic school in Lakeview, reaching a statue's torso between large brick and stone columns, with reflections visible in the standing water."
 geo:
   address: ''
   lat: 29.951082

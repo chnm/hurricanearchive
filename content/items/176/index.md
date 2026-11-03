@@ -26,6 +26,8 @@ files:
     original_filename: katrina6_6de0b506cb.jpg
     thumb: /files/thumbnails/14fb2a70b8305b14fb2a70b832fb.jpg
     url: /files/original/14fb2a70b8305b14fb2a70b832fb.jpg
+    alt:
+      en: "A flooded street in New Orleans with a partially submerged car beside a house whose roof has collapsed, surrounded by floodwater reflecting the sky and debris."
 geo:
   address: ''
   lat: 29.9662374308524

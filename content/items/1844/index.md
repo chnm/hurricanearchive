@@ -26,6 +26,8 @@ files:
     original_filename: holly5_138c40cd37.JPG
     thumb: /files/thumbnails/14fb2a6eaeb40714fb2a6eaeb7ef.jpg
     url: /files/original/14fb2a6eaeb40714fb2a6eaeb7ef.jpg
+    alt:
+      en: "A debris-strewn coastal landscape with standing floodwater pools, scattered wreckage, and utility poles stretching toward the horizon under a clear blue sky, viewed from a roadside."
 geo:
   address: ''
   lat: 29.7720140938343

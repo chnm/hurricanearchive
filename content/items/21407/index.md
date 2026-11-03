@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0248-9-25.JPG
     thumb: /files/thumbnails/14fb29fef0201d14fb29fef03913.jpg
     url: /files/original/14fb29fef0201d14fb29fef03913.jpg
+    alt:
+      en: "Aerial view of a flooded rural neighborhood with houses, trailers, and vehicles partially submerged in brown floodwater, surrounded by green fields and a paved road."
 geo:
 id: 21407
 item_type: Still Image

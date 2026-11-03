@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0279downtownnola.JPG
     thumb: /files/thumbnails/14fb2a142652e914fb2a142656d2.jpg
     url: /files/original/14fb2a142652e914fb2a142656d2.jpg
+    alt:
+      en: "Aerial view of storm-damaged property with scattered trees (some green, some scorched brown), downed branches, debris on the ground, a brown rooftop, and a parked boat at the edge of the frame."
 geo:
 id: 18929
 item_type: Still Image

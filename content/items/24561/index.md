@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0117-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e6ab924614fb29e6ab96a5.jpg
     url: /files/original/14fb29e6ab924614fb29e6ab96a5.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands on a gravel road beside tall reeds, looking out at floodwaters submerging a stand of dead and leafless trees."
 geo:
 id: 24561
 item_type: Still Image

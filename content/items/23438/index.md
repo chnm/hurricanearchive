@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0104cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef6ec43114fb29ef6ec81b.jpg
     url: /files/original/14fb29ef6ec43114fb29ef6ec81b.jpg
+    alt:
+      en: "A uniformed service member wearing a headset and flight gear looks out from an open aircraft door over a dense green forested landscape below."
 geo:
 id: 23438
 item_type: Still Image

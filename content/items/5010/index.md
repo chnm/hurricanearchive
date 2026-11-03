@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0355.JPG
     thumb: /files/thumbnails/14fb2a546dc76a14fb2a546dcb50.jpg
     url: /files/original/14fb2a546dc76a14fb2a546dcb50.jpg
+    alt:
+      en: "Wooden frame of a partially constructed or storm-damaged building, with a diagonal support beam in the foreground and broken, stripped trees visible in the background under an overcast sky."
 geo:
 id: 5010
 item_type: Still Image

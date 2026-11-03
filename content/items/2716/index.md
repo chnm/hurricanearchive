@@ -21,6 +21,8 @@ files:
     original_filename: 15.jpg
     thumb: /files/thumbnails/14fb2a607276ac14fb2a60727a9a.jpg
     url: /files/original/14fb2a607276ac14fb2a60727a9a.jpg
+    alt:
+      en: "Child's crayon and marker drawing titled \"Katrina, We Survived Katrine!\" showing storm clouds, floodwater with a car and trees submerged, and two figures with speech bubbles reading \"Man look at my car\" and \"Man this downbad.\""
 geo:
 id: 2716
 item_type: Still Image

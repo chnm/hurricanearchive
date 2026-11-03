@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0251.JPG
     thumb: /files/thumbnails/14fb2a55cb897f14fb2a55cb8d6b.jpg
     url: /files/original/14fb2a55cb897f14fb2a55cb8d6b.jpg
+    alt:
+      en: "A yellow tape measure extends vertically down a stained interior wall with a tiled corner alcove to the left and an electrical outlet near the bottom."
 geo:
 id: 4741
 item_type: Still Image

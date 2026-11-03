@@ -21,6 +21,8 @@ files:
     original_filename: S4300046neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed02fafc14fb29ed02fee2.jpg
     url: /files/original/14fb29ed02fafc14fb29ed02fee2.jpg
+    alt:
+      en: "A New Orleans Police \"Education & Training\" patrol car drives through deep floodwater on a city street, with waves splashing up around its wheels and a \"No Parking Any Time\" sign visible nearby."
 geo:
 id: 23801
 item_type: Still Image

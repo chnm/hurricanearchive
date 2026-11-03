@@ -21,6 +21,8 @@ files:
     original_filename: 100_0170.JPG
     thumb: /files/thumbnails/14fb2a59226d7c14fb2a59227158.jpg
     url: /files/original/14fb2a59226d7c14fb2a59227158.jpg
+    alt:
+      en: "Flooded residential street with small boats carrying rescue workers in orange life vests, surrounded by downed tree branches and a partially submerged house."
 geo:
 id: 3877
 item_type: Still Image

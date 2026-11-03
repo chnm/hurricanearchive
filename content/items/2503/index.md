@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8609.jpg
     thumb: /files/thumbnails/14fb2a65d833f014fb2a65d837d5.jpg
     url: /files/original/14fb2a65d833f014fb2a65d837d5.jpg
+    alt:
+      en: "Severely damaged two-story house with exposed roof trusses, collapsed walls, and a kitchen with cabinets left hanging; debris and cinder blocks litter the ground below."
 geo:
 id: 2503
 item_type: Still Image

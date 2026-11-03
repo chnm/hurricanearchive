@@ -21,6 +21,8 @@ files:
     original_filename: NewOrleans4.jpgsatellite
     thumb: /files/thumbnails/14fb29fb41ed8914fb29fb41f16f.jpg
     url: /files/original/14fb29fb41ed8914fb29fb41f16f.jpgsatellite
+    alt:
+      en: "Side-by-side satellite images of a New Orleans waterfront neighborhood, dated August 28, 2002 and September 2, 2005, with the later image showing smoke rising from a fire along the canal."
 geo:
 id: 21887
 item_type: Still Image

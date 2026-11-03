@@ -26,6 +26,8 @@ files:
     original_filename: Rita_048_46003f3459.jpg
     thumb: /files/thumbnails/14fb2a6f58d1da14fb2a6f58d577.jpg
     url: /files/original/14fb2a6f58d1da14fb2a6f58d577.jpg
+    alt:
+      en: "A damaged tamales restaurant with a fallen tree across its green roof, debris scattered in front, and a crane visible nearby amid storm wreckage."
 geo:
   address: ''
   lat: 30.281836

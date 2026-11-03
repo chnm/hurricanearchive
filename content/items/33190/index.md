@@ -23,6 +23,8 @@ files:
     original_filename: 1438867818_571441c94f.
     thumb: /files/thumbnails/14fb29cbb63a5f14fb29cbb63dbf.jpg
     url: /files/original/14fb29cbb63a5f14fb29cbb63dbf.jpg
+    alt:
+      en: "Elevated concrete building with its ground-floor walls stripped away, leaving exposed support columns; a yellow fire hydrant stands on the grassy curb in front, with a boat visible through the open structure beyond."
 geo:
 id: 33190
 item_type: Still Image

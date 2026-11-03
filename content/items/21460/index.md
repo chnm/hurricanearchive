@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0266-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe8b5ebf14fb29fe8b62a5.jpg
     url: /files/original/14fb29fe8b5ebf14fb29fe8b62a5.jpg
+    alt:
+      en: "Aerial view of a flooded highway with two submerged gas stations (one marked Chevron), a fire truck, partially submerged vehicles, and nearby houses surrounded by floodwater."
 geo:
 id: 21460
 item_type: Still Image

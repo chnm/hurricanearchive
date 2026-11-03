@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0561.JPG
     thumb: /files/thumbnails/14fb2a56a724e014fb2a56a72746.jpg
     url: /files/original/14fb2a56a724e014fb2a56a72746.jpg
+    alt:
+      en: "Debris field with scattered sheet metal, wood, and household items under large oak trees; a truck and pickup are parked nearby on a road in the background."
 geo:
 id: 4632
 item_type: Still Image

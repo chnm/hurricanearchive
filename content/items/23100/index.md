@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110OEP.JPG
     thumb: /files/thumbnails/14fb29f190253a14fb29f190292c.jpg
     url: /files/original/14fb29f190253a14fb29f190292c.jpg
+    alt:
+      en: "Young woman with curly hair, wearing a dark hoodie and khaki capris, stands smiling in an office cubicle beside a desk with a computer monitor and keyboard."
 geo:
 id: 23100
 item_type: Still Image

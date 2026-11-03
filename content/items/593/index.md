@@ -26,6 +26,8 @@ files:
     original_filename: 100_6913_0c112295a7.JPG
     thumb: /files/thumbnails/14fb2a6f6ddc6514fb2a6f6de04a.jpg
     url: /files/original/14fb2a6f6ddc6514fb2a6f6de04a.jpg
+    alt:
+      en: "Damaged, leafless trees stand behind a yellow \"RATE'S COVE\" sign on a metal frame, with scattered debris on the ground; date stamp reads 01/09/2006."
 geo:
   address: ''
   lat: 30.005653

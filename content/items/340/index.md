@@ -26,6 +26,8 @@ files:
     original_filename: redbridge2_ddb5562c86.jpg
     thumb: /files/thumbnails/14fb2a7032ded014fb2a7032e26b.jpg
     url: /files/original/14fb2a7032ded014fb2a7032e26b.jpg
+    alt:
+      en: "A small red footbridge crosses a narrow stream surrounded by massive piles of storm debris, broken wood, and household wreckage beneath bare, wind-damaged trees."
 geo:
   address: ''
   lat: 0.0

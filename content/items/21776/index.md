@@ -21,6 +21,8 @@ files:
     original_filename: katrina 046.jpg
     thumb: /files/thumbnails/14fb29fbc9ffc114fb29fbca03a6.jpg
     url: /files/original/14fb29fbc9ffc114fb29fbca03a6.jpg
+    alt:
+      en: "Elevated highway overpass with concrete barrier wall in foreground, overlooking a flooded street below with construction equipment and a partially dismantled bridge structure, city skyline visible in background."
 geo:
 id: 21776
 item_type: Still Image

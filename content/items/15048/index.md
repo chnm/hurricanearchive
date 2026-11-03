@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p1_01_4040125997.jpg
     thumb: /files/thumbnails/14fb2a1786dcb314fb2a1786e0a8.jpg
     url: /files/original/14fb2a1786dcb314fb2a1786e0a8.jpg
+    alt:
+      en: "Faded 1980s color photo of kindergarten children in white graduation caps holding letter signs on stage, with a banner reading \"Kindergarten Graduation 1983\" behind them."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

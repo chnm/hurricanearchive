@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28523.jpg
     thumb: /files/thumbnails/14fb2a69db273214fb2a69db2b35.jpg
     url: /files/original/14fb2a69db273214fb2a69db2b35.jpg
+    alt:
+      en: "A dust-covered, damaged sedan sits abandoned on a curb amid debris and dirt, with downed trees, storm wreckage, and a drainage canal visible in the background."
 geo:
   address: ''
   lat: 0.0

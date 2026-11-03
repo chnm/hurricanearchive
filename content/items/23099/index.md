@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0109OEP.JPG
     thumb: /files/thumbnails/14fb29f190bdf114fb29f190c16e.jpg
     url: /files/original/14fb29f190bdf114fb29f190c16e.jpg
+    alt:
+      en: "Blurry indoor photo of a person with long dark hair wearing a dark top, standing in an office-like space with cubicle partitions and a framed picture on the wall behind them."
 geo:
 id: 23099
 item_type: Still Image

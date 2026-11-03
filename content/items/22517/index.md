@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1358Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5b2bb3814fb29f5b2bf1f.jpg
     url: /files/original/14fb29f5b2bb3814fb29f5b2bf1f.jpg
+    alt:
+      en: "Floodwaters submerge a neighborhood, with partially visible rooftops, utility poles, and trees in the background; in the foreground, a piece of machinery with curved hoses sits mostly underwater amid choppy waves."
 geo:
 id: 22517
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.115.JPG
     thumb: /files/thumbnails/14fb29dce3e7e614fb29dce3ebc9.jpg
     url: /files/original/14fb29dce3e7e614fb29dce3ebc9.jpg
+    alt:
+      en: "Damaged single-story house with warped vinyl siding, twisted porch railings, and collapsed overhang, surrounded by overgrown grass and pink wildflowers."
 geo:
 id: 25653
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0296.JPG
     thumb: /files/thumbnails/14fb2a5e568d6f14fb2a5e56941b.jpg
     url: /files/original/14fb2a5e568d6f14fb2a5e56941b.jpg
+    alt:
+      en: "Close-up of the bow of USS Alabama (hull number 60), docked at a pier, with draft markings visible on the hull and gun barrels and rigging above."
 geo:
 id: 3047
 item_type: Still Image

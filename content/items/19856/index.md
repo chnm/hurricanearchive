@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d20ea7314fb2a0d20ee52.jpg
     url: /files/original/14fb2a0d20ea7314fb2a0d20ee52.jpg
+    alt:
+      en: "A worker in camouflage pants and a white hard hat stands on scaffolding, fastening wooden rafters to the sloped wall of a structure under construction, with trees in the background."
 geo:
 id: 19856
 item_type: Still Image

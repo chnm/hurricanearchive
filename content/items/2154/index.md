@@ -26,6 +26,8 @@ files:
     original_filename: Grandmother_by_the_ruins_d605f7568b.jpg
     thumb: /files/thumbnails/14fb2a6d96361114fb2a6d9639ea.jpg
     url: /files/original/14fb2a6d96361114fb2a6d9639ea.jpg
+    alt:
+      en: "An elderly woman sits in a chair beside a large tree, looking out over a debris-strewn, foundation-only lot toward the beach, with an American flag planted amid the wreckage."
 geo:
   address: ''
   lat: 30.2947575606294

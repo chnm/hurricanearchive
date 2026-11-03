@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0132-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a02f1734c14fb2a02f25d98.jpg
     url: /files/original/14fb2a02f1734c14fb2a02f25d98.jpg
+    alt:
+      en: "A rural field with dry grass and a wire fence in the foreground, backed by a dense line of trees with sparse foliage, partially obscuring a low structure with wooden railings behind them."
 geo:
 id: 20846
 item_type: Still Image

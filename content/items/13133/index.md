@@ -21,6 +21,8 @@ files:
     original_filename: south bank building end.jpg
     thumb: /files/thumbnails/14fb2a20313d1a14fb2a203140f6.jpg
     url: /files/original/14fb2a20313d1a14fb2a203140f6.jpg
+    alt:
+      en: "Multi-story concrete building with damaged rooftop structure and exposed framework, seen through heavy fog with bare tree branches and utility poles in the foreground."
 geo:
 id: 13133
 item_type: Still Image

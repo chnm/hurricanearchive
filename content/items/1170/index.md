@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28656.jpg
     thumb: /files/thumbnails/14fb2a6ab001ea14fb2a6ab005dc.jpg
     url: /files/original/14fb2a6ab001ea14fb2a6ab005dc.jpg
+    alt:
+      en: "A man in a cap and tan shirt tends to animal crates on wood shavings, with wire cages, two box fans, and orange extension cords in a metal-walled fairground stall."
 geo:
   address: ''
   lat: 0.0

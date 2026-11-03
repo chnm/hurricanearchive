@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0114-9-25.JPG
     thumb: /files/thumbnails/14fb29e6cb74f114fb29e6cb934e.jpg
     url: /files/original/14fb29e6cb74f114fb29e6cb934e.jpg
+    alt:
+      en: "Aerial view of sunlit, rippling water with a dark, shadowed area in the lower left corner; no text or identifiable landmarks visible."
 geo:
 id: 24550
 item_type: Still Image

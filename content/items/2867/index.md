@@ -21,6 +21,8 @@ files:
     original_filename: MVC-024S.JPG
     thumb: /files/thumbnails/14fb2a5fc0c5e214fb2a5fc0c9b7.jpg
     url: /files/original/14fb2a5fc0c5e214fb2a5fc0c9b7.jpg
+    alt:
+      en: "Interior utility room viewed through a metal security gate, showing exposed pipes, electrical conduits, a wall-mounted sink, and a dark wall opening with wiring."
 geo:
 id: 2867
 item_type: Still Image

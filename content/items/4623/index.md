@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0049.JPG
     thumb: /files/thumbnails/14fb2a56b7643014fb2a56b764ec.jpg
     url: /files/original/14fb2a56b7643014fb2a56b764ec.jpg
+    alt:
+      en: "Storm-damaged yard with snapped trees leaning against a wooden fence, scattered debris and trash covering the ground, and a brick house partially visible at left."
 geo:
 id: 4623
 item_type: Still Image

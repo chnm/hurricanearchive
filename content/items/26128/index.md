@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5739_6d38350b04.jpg
     thumb: /files/thumbnails/14fb29da53822814fb29da53860d.jpg
     url: /files/original/14fb29da53822814fb29da53860d.jpg
+    alt:
+      en: "Close-up of an infant's face in profile, wearing a white outfit with a pink bow, with some eye discharge visible near the left eye and dark hair tied back."
 geo:
 id: 26128
 item_type: Still Image

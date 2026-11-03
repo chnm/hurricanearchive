@@ -27,6 +27,8 @@ files:
     original_filename: clevelandst_bd7a693d7b.JPG
     thumb: /files/thumbnails/14fb29cc064be214fb29cc064fd1.jpg
     url: /files/original/14fb29cc064be214fb29cc064fd1.jpg
+    alt:
+      en: "Yellow house with red door at 3438 Cleveland St, porch covered in handwritten notes, photos, flowers, and ribbons; blue steps with yellow tape and painted hearts on the foundation."
 geo:
   address: 3428 Cleveland St
   lat: 0.0

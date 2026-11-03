@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7422.JPG
     thumb: /files/thumbnails/14fb29ccab95b114fb29ccab9996.jpg
     url: /files/original/14fb29ccab95b114fb29ccab9996.jpg
+    alt:
+      en: "A large fallen tree trunk rests diagonally across smaller trees and dense green foliage, with sunlight filtering through the leaves and branches scattered on the ground below."
 geo:
 id: 30725
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1882.JPG
     thumb: /files/thumbnails/14fb2a136de45714fb2a136defcd.jpg
     url: /files/original/14fb2a136de45714fb2a136defcd.jpg
+    alt:
+      en: "Aerial view of a large military helicopter parked in a grassy field with a line of people walking toward it, while a highway lined with parked ambulances and emergency vehicles runs alongside the field."
 geo:
 id: 19069
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 060.jpg
     thumb: /files/thumbnails/14fb2a12bab43514fb2a12bab81a.jpg
     url: /files/original/14fb2a12bab43514fb2a12bab81a.jpg
+    alt:
+      en: "A uniformed service member in camouflage and a cap stands facing away, overlooking a staging area with washers, dryers, a red dumpster marked \"236-20,\" stacked boxes, cleaning supplies, and a warehouse."
 geo:
 id: 19150
 item_type: Still Image

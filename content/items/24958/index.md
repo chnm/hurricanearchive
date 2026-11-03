@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1474superdome.JPG
     thumb: /files/thumbnails/14fb29e399612514fb29e399650b.jpg
     url: /files/original/14fb29e399612514fb29e399650b.jpg
+    alt:
+      en: "Military vehicles and soldiers in camouflage gather on a brick plaza near elevated highways, with a helicopter flying overhead and a bronze statue in the background."
 geo:
 id: 24958
 item_type: Still Image

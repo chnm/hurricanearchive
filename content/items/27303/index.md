@@ -23,6 +23,8 @@ files:
     original_filename: 336698728_73d7493844.jpg
     thumb: /files/thumbnails/14fb29d5665f8214fb29d566674f.jpg
     url: /files/original/14fb29d5665f8214fb29d566674f.jpg
+    alt:
+      en: "Several cars sit haphazardly on a grassy median beneath large trees, surrounded by scattered debris, with a damaged streetscape and overcast sky in the background."
 geo:
 id: 27303
 item_type: Still Image

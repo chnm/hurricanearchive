@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003OEP.JPG
     thumb: /files/thumbnails/14fb29f233c43114fb29f233c817.jpg
     url: /files/original/14fb29f233c43114fb29f233c817.jpg
+    alt:
+      en: "A military helicopter sits parked on a grassy field with baseball diamonds and a soccer goal, surrounded by a chain-link fence, trees, and buildings in the background under a clear sky."
 geo:
 id: 22993
 item_type: Still Image

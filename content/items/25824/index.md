@@ -21,6 +21,8 @@ files:
     original_filename: chalmettecup_5415431d7c.jpg
     thumb: /files/thumbnails/14fb29dbef40b214fb29dbf0023e.jpg
     url: /files/original/14fb29dbef40b214fb29dbf0023e.jpg
+    alt:
+      en: "Three men stand on a stage wearing fishing tournament shirts branded Triton, with sponsor banners including Oberto Red Fish Cup visible in the background."
 geo:
 id: 25824
 item_type: Still Image

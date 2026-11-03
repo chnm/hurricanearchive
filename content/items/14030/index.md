@@ -21,6 +21,8 @@ files:
     original_filename: 20050927019.JPG
     thumb: /files/thumbnails/14fb2a1c59f22d14fb2a1c59f709.jpg
     url: /files/original/14fb2a1c59f22d14fb2a1c59f709.jpg
+    alt:
+      en: "A man in a navy FEMA polo shirt holding a clipboard converses with a soldier in desert camouflage uniform, standing in a paved lot near bleachers and a chain-link fence."
 geo:
   address: ''
   lat: 0.0

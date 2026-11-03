@@ -21,6 +21,8 @@ files:
     original_filename: 20050929002.JPG
     thumb: /files/thumbnails/14fb2a1c0485ac14fb2a1c048991.jpg
     url: /files/original/14fb2a1c0485ac14fb2a1c048991.jpg
+    alt:
+      en: "Marshy wetland with tall golden grasses in the foreground, scattered bare shrubs, and standing water under an overcast sky; a dark object partially obscures the upper right corner."
 geo:
   address: ''
   lat: 0.0

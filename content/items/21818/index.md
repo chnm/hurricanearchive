@@ -21,6 +21,8 @@ files:
     original_filename: '#4 small.jpg'
     thumb: /files/thumbnails/14fb29fb7de45d14fb29fb7de843.jpg
     url: /files/original/14fb29fb7de45d14fb29fb7de843.jpg
+    alt:
+      en: "Aerial black-and-white photograph of a flooded roadway intersection, with scattered debris and markers along the shoulders and surrounding vegetation submerged in water."
 geo:
 id: 21818
 item_type: Still Image

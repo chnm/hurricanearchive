@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9299.jpg
     thumb: /files/thumbnails/14fb2a649788f714fb2a64978cdb.jpg
     url: /files/original/14fb2a649788f714fb2a64978cdb.jpg
+    alt:
+      en: "Shattered window frame with hanging blind slats and jagged glass shards, overlooking a pile of debris and rubble under a clear blue sky."
 geo:
 id: 2583
 item_type: Still Image

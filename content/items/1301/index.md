@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28448.jpg
     thumb: /files/thumbnails/14fb2a69c7926814fb2a69c7964f.jpg
     url: /files/original/14fb2a69c7926814fb2a69c7964f.jpg
+    alt:
+      en: "Storm-damaged building with a bent metal awning and collapsed tent-like canopy structure, surrounded by debris and a large leafless tree, with a gray concrete wall visible behind."
 geo:
   address: ''
   lat: 0.0

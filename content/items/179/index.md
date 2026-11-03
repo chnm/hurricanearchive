@@ -26,6 +26,8 @@ files:
     original_filename: katrina11_008f9e1337.jpg
     thumb: /files/thumbnails/14fb2a70b5887014fb2a70b5a1bb.jpg
     url: /files/original/14fb2a70b5887014fb2a70b5a1bb.jpg
+    alt:
+      en: "A twin-rotor Chinook helicopter hovers over a flooded shoreline carrying a large sling-load of sandbags, with other helicopters and dust visible in the hazy background."
 geo:
   address: ''
   lat: 30.035216603131698

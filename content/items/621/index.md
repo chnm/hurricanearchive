@@ -26,6 +26,8 @@ files:
     original_filename: Rita_055_174a4d5d49.jpg
     thumb: /files/thumbnails/14fb2a6f580d8c14fb2a6f581178.jpg
     url: /files/original/14fb2a6f580d8c14fb2a6f581178.jpg
+    alt:
+      en: "A two-story white house with severe storm damage, its roof partially torn off and large fallen trees across it; orange spray-painted search-and-rescue markings are visible on the siding."
 geo:
   address: ''
   lat: 30.281836

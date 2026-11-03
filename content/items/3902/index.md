@@ -21,6 +21,8 @@ files:
     original_filename: 100_0199.JPG
     thumb: /files/thumbnails/14fb2a590cdaec14fb2a590cdf95.jpg
     url: /files/original/14fb2a590cdaec14fb2a590cdf95.jpg
+    alt:
+      en: "Floodwaters submerge single-story houses up to their rooflines, with a large tree partially underwater in the foreground and calm water reflecting the surrounding structures and sky."
 geo:
 id: 3902
 item_type: Still Image

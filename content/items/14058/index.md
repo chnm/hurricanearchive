@@ -21,6 +21,8 @@ files:
     original_filename: 20050929032.JPG
     thumb: /files/thumbnails/14fb2a1bf9b69714fb2a1bf9bae1.jpg
     url: /files/original/14fb2a1bf9b69714fb2a1bf9bae1.jpg
+    alt:
+      en: "A soldier in camouflage uniform with \"Elliot\" nametag stands beside a military Humvee under a camo tarp, with a dog resting underneath the vehicle and a cooler and backpack nearby."
 geo:
   address: ''
   lat: 0.0

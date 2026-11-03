@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0008.JPG
     thumb: /files/thumbnails/14fb2a582dc23b14fb2a582dc622.jpg
     url: /files/original/14fb2a582dc23b14fb2a582dc622.jpg
+    alt:
+      en: "Damaged wooden docks covered in debris extend into brown water, with two uniformed figures walking along them amid a storm-wrecked waterfront littered with wreckage and bare trees."
 geo:
 id: 4059
 item_type: Still Image

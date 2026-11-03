@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043medics.JPG
     thumb: /files/thumbnails/14fb29e5d2f31b14fb29e5d2f702.jpg
     url: /files/original/14fb29e5d2f31b14fb29e5d2f702.jpg
+    alt:
+      en: "Dimly lit room with several people in camouflage military uniforms working at laptops and reviewing paperwork, with a water bottle, supply boxes, and a cooler visible on the desks nearby."
 geo:
 id: 24648
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0537Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5297f8014fb29f5298385.jpg
     url: /files/original/14fb29f5297f8014fb29f5298385.jpg
+    alt:
+      en: "Heavy wind-driven rain and fog obscure a flooded street, with a white vehicle and wind-whipped trees in the foreground and a two-story building barely visible in the background."
 geo:
 id: 22586
 item_type: Still Image

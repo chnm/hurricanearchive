@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 079.jpg
     thumb: /files/thumbnails/14fb2a127a8d8314fb2a127a9169.jpg
     url: /files/original/14fb2a127a8d8314fb2a127a9169.jpg
+    alt:
+      en: "Storm-damaged street corner with broken tree limbs and debris scattered across the road and median, large oak trees overhead, and street signs reading \"Esplanade\" and \"De Soto\" near a columned house."
 geo:
 id: 19169
 item_type: Still Image

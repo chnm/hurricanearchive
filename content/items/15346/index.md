@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-10_32f28c33d8.jpg
     thumb: /files/thumbnails/14fb2a166556fc14fb2a16655adb.jpg
     url: /files/original/14fb2a166556fc14fb2a16655adb.jpg
+    alt:
+      en: "Water-damaged photo of five women in formal dresses standing behind a tiered wedding cake, with heavy mold and discoloration obscuring much of the image."
 geo:
 id: 15346
 item_type: Still Image

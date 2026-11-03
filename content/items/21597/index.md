@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0331-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd3d77a514fb29fd4133cc.jpg
     url: /files/original/14fb29fd3d77a514fb29fd4133cc.jpg
+    alt:
+      en: "Aerial view of a flooded industrial oil or gas facility with storage tanks, pipelines, and processing equipment surrounded by standing floodwater, with a refinery complex visible in the background."
 geo:
 id: 21597
 item_type: Still Image

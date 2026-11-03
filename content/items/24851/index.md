@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2191superdome.JPG
     thumb: /files/thumbnails/14fb29e468c10e14fb29e468c4f3.jpg
     url: /files/original/14fb29e468c10e14fb29e468c4f3.jpg
+    alt:
+      en: "An elderly man sits in a folding camp chair strapped to a brass luggage cart beside a cooler, with National Guard soldiers in camouflage standing nearby outside the \"Superdome\" entrance at night."
 geo:
 id: 24851
 item_type: Still Image

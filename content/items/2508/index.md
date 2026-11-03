@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8623.jpg
     thumb: /files/thumbnails/14fb2a65d296e014fb2a65d29ab6.jpg
     url: /files/original/14fb2a65d296e014fb2a65d29ab6.jpg
+    alt:
+      en: "A storm-damaged house on pilings with a partially collapsed roof and torn siding, beside leaning utility poles, dead vegetation, and scattered debris under an overcast sky."
 geo:
 id: 2508
 item_type: Still Image

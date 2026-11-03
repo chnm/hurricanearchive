@@ -20,6 +20,8 @@ files:
     original_filename: 5 - Robert E_947ea87ec2. Lee 15.JPG
     thumb: /files/thumbnails/14fb29c4ae5ee914fb29c4ae62d0.jpg
     url: /files/original/14fb29c4ae5ee914fb29c4ae62d0.jpg
+    alt:
+      en: "A quiet, empty street lined with large brick houses and trees under a partly cloudy sky, with a bike lane marking visible on the pavement in the Lake Vista subdivision."
 geo:
   address: ''
   lat: 0.0

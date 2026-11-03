@@ -21,6 +21,8 @@ files:
     original_filename: katrina 037.jpg
     thumb: /files/thumbnails/14fb29fbe02eba14fb29fbe032c3.jpg
     url: /files/original/14fb29fbe02eba14fb29fbe032c3.jpg
+    alt:
+      en: "A man in a tan t-shirt eats food with chopsticks from a foil-wrapped container in a parking garage, with sleeping bags, other people, and a vehicle visible in the background; timestamp reads 2:47 PM."
 geo:
 id: 21768
 item_type: Still Image

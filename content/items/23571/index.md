@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0192abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eebe426214fb29eebe4640.jpg
     url: /files/original/14fb29eebe426214fb29eebe4640.jpg
+    alt:
+      en: "A flood-damaged house with a blue roof stands partially collapsed in murky floodwater, its support beams tilted, surrounded by bare trees under an overcast sky."
 geo:
 id: 23571
 item_type: Still Image

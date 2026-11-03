@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-23-21A.jpg
     thumb: /files/thumbnails/14fb29e89da6ca14fb29e89daab2.jpg
     url: /files/original/14fb29e89da6ca14fb29e89daab2.jpg
+    alt:
+      en: "View from inside a military vehicle driving through a deeply flooded city street, with another military truck ahead, submerged cars along the curb, and high-rise buildings lining the road."
 geo:
 id: 24347
 item_type: Still Image

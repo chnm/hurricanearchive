@@ -21,6 +21,8 @@ files:
     original_filename: incoming patient.JPG
     thumb: /files/thumbnails/14fb2a1a8b8e3014fb2a1a8b99a2.jpg
     url: /files/original/14fb2a1a8b8e3014fb2a1a8b99a2.jpg
+    alt:
+      en: "A man in a wheelchair is attended by a woman in a red hat and a soldier in camouflage with an \"S.R.T.\" cap, beside an Acadian ambulance and parked vehicles."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_JohanLowe_06_8a8b66ddff.jpg
     thumb: /files/thumbnails/14fb2a163156cd14fb2a16315aa9.jpg
     url: /files/original/14fb2a163156cd14fb2a16315aa9.jpg
+    alt:
+      en: "Water-stained walls with peeling paint surround a child's playroom, where a wooden toy chest, plastic crates, and a \"Days of the Week\" poster sit jumbled together beneath letter and number magnets spelling \"JOHAN.\""
 geo:
 id: 15472
 item_type: Still Image

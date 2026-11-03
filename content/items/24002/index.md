@@ -21,6 +21,8 @@ files:
     original_filename: 09280004plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec00be3514fb29ec00c229.jpg
     url: /files/original/14fb29ec00be3514fb29ec00c229.jpg
+    alt:
+      en: "A man in camouflage pants and a brown t-shirt lies asleep on a concrete ledge beside a red chair piled with gear, while a brown dog sleeps on green steps nearby."
 geo:
 id: 24002
 item_type: Still Image

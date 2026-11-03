@@ -21,6 +21,8 @@ files:
     original_filename: Picture 199cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b53704b14fb2a0b53743b.jpg
     url: /files/original/14fb2a0b53704b14fb2a0b53743b.jpg
+    alt:
+      en: "Grassy roadside slope with a metal guardrail in the foreground and a row of wind-damaged pine trees with broken branches along the top of the hill, water visible in the distance under a clear blue sky."
 geo:
 id: 20102
 item_type: Still Image

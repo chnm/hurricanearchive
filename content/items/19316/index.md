@@ -21,6 +21,8 @@ files:
     original_filename: J2 (34).JPG
     thumb: /files/thumbnails/14fb2a1136cbe314fb2a1136cfc4.jpg
     url: /files/original/14fb2a1136cbe314fb2a1136cfc4.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rooftops and treetops emerging from floodwaters on both sides of a canal lined by a levee."
 geo:
 id: 19316
 item_type: Still Image

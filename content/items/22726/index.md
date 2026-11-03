@@ -21,6 +21,8 @@ files:
     original_filename: PICT0657Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f463278e14fb29f4632b73.jpg
     url: /files/original/14fb29f463278e14fb29f4632b73.jpg
+    alt:
+      en: "Brick duplex carport with four cars parked under a shared roof, labeled \"U 12 U\" and \"U 11 U,\" with boarded windows and scattered leaves on the lawn, dated 09.15.2005."
 geo:
 id: 22726
 item_type: Still Image

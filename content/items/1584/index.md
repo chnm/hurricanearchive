@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27993.jpg
     thumb: /files/thumbnails/14fb2a67bc111114fb2a67bc14f7.jpg
     url: /files/original/14fb2a67bc111114fb2a67bc14f7.jpg
+    alt:
+      en: "A weathered \"School Speed Limit 20\" sign for 2 blocks stands amid fallen branches and debris, with a damaged house visible in the background under a pale sky."
 geo:
   address: ''
   lat: 0.0

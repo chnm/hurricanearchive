@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28669.jpg
     thumb: /files/thumbnails/14fb2a6abd6e9e14fb2a6abd7279.jpg
     url: /files/original/14fb2a6abd6e9e14fb2a6abd7279.jpg
+    alt:
+      en: "Three women stand with a thin brown horse on a paved lot, with a livestock trailer and truck parked behind them."
 geo:
   address: ''
   lat: 0.0

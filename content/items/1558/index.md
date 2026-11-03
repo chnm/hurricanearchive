@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28098.jpg
     thumb: /files/thumbnails/14fb2a6803145c14fb2a6803180e.jpg
     url: /files/original/14fb2a6803145c14fb2a6803180e.jpg
+    alt:
+      en: "A house with a blue tarp covering its storm-damaged roof, next to another home with ornate white trim and a boarded-up window, utility lines and a pole crossing the scene."
 geo:
   address: ''
   lat: 0.0

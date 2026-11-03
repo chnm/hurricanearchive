@@ -21,6 +21,8 @@ files:
     original_filename: Under the Superdome 12superdome.jpg
     thumb: /files/thumbnails/14fb29dddd9f2914fb29dddda309.jpg
     url: /files/original/14fb29dddd9f2914fb29dddda309.jpg
+    alt:
+      en: "Flooded street scene viewed from under an overpass, with a military-style truck carrying passengers through deep water, a man wading nearby, and partially submerged cars parked along the roadway."
 geo:
 id: 25427
 item_type: Still Image

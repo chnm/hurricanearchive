@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0149.JPG
     thumb: /files/thumbnails/14fb2a553b44c614fb2a553b496b.jpg
     url: /files/original/14fb2a553b44c614fb2a553b496b.jpg
+    alt:
+      en: "A large fallen tree trunk lies across a debris-strewn, overgrown area with dense brush, dried branches, and scattered household items including a red bucket and metal frame."
 geo:
 id: 4834
 item_type: Still Image

@@ -18,6 +18,8 @@ files:
     original_filename: 31_999d8049e7.jpg
     thumb: /files/thumbnails/14fb29c6e1823e14fb29c6e18688.jpg
     url: /files/original/14fb29c6e1823e14fb29c6e18688.jpg
+    alt:
+      en: "Group of five people in matching white and red \"9\" costumes and berets pose together on a street, holding drinks, with a pink two-story house and power lines in the background."
 geo:
   address: new orleans, la
   lat: 29.95324

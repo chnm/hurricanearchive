@@ -21,6 +21,8 @@ files:
     original_filename: P1010196empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed3ea84514fb29ed3eb012.jpg
     url: /files/original/14fb29ed3ea84514fb29ed3eb012.jpg
+    alt:
+      en: "Debris-strewn dirt road leading past a damaged metal warehouse and elevated houses, with scattered wreckage, downed trees, and power lines amid storm-damaged structures under a clear sky."
 geo:
 id: 23755
 item_type: Still Image

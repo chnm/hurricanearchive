@@ -21,6 +21,8 @@ files:
     original_filename: 101-02_14357b9878.jpg
     thumb: /files/thumbnails/14fb2a21c620b114fb2a21c62497.jpg
     url: /files/original/14fb2a21c620b114fb2a21c62497.jpg
+    alt:
+      en: "Group portrait of the Minor family posed together at a celebration, with gold balloon arches and a brick wall behind them; a seated older man is at the center front."
 geo:
 id: 12687
 item_type: Still Image

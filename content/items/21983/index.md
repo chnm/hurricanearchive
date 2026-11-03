@@ -21,6 +21,8 @@ files:
     original_filename: Picture 314-J2.jpg
     thumb: /files/thumbnails/14fb29fa9cd78614fb29fa9cdb6e.jpg
     url: /files/original/14fb29fa9cd78614fb29fa9cdb6e.jpg
+    alt:
+      en: "City skyline with a domed stadium, high-rise buildings, and a communications tower, viewed from beneath an overpass with a concrete highway barrier in the foreground."
 geo:
 id: 21983
 item_type: Still Image

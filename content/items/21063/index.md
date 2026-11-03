@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1883.JPG
     thumb: /files/thumbnails/14fb2a00bcfe4214fb2a00bd0220.jpg
     url: /files/original/14fb2a00bcfe4214fb2a00bd0220.jpg
+    alt:
+      en: "Aerial view of a military helicopter down in a grassy field beside a highway overpass, with a group of people walking near the wreckage and vehicles passing on the road above."
 geo:
 id: 21063
 item_type: Still Image

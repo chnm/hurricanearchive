@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0111-21.JPG
     thumb: /files/thumbnails/14fb29e6ee2d0814fb29e6ee3b19.jpg
     url: /files/original/14fb29e6ee2d0814fb29e6ee3b19.jpg
+    alt:
+      en: "Indoor scene of a group of military personnel in camouflage uniforms standing in a circle, conversing with a woman in a pink tank top, near a table with a laptop and maps on the wall."
 geo:
 id: 24533
 item_type: Still Image

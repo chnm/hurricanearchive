@@ -21,6 +21,8 @@ files:
     original_filename: 123.jpg
     thumb: /files/thumbnails/14fb2a607aea3114fb2a607aee1b.jpg
     url: /files/original/14fb2a607aea3114fb2a607aee1b.jpg
+    alt:
+      en: "Child's drawing of three green trees with brown trunks on a green hill, with rows of small black and blue marks across the top of the page."
 geo:
 id: 2700
 item_type: Still Image

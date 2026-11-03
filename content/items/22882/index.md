@@ -21,6 +21,8 @@ files:
     original_filename: NO 004majortodd.jpg
     thumb: /files/thumbnails/14fb29f2ee580a14fb29f2ee5bef.jpg
     url: /files/original/14fb29f2ee580a14fb29f2ee5bef.jpg
+    alt:
+      en: "Blurry aerial photo, likely taken through an aircraft window, showing a hazy cityscape with a tall building silhouette and a diagonal streak, possibly a contrail or wing edge, crossing the frame."
 geo:
 id: 22882
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0476.JPG
     thumb: /files/thumbnails/14fb2a55a0e5b914fb2a55a0e99e.jpg
     url: /files/original/14fb2a55a0e5b914fb2a55a0e99e.jpg
+    alt:
+      en: "Downed trees and splintered branches lie tangled across a cleared area, with strips of plastic sheeting and fabric caught in the debris; bare, broken trees stand in the background under a clear blue sky."
 geo:
 id: 4777
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Halloween04-3_74e7dfb6ef.jpg
     thumb: /files/thumbnails/14fb2a171e893214fb2a171e8d0a.jpg
     url: /files/original/14fb2a171e893214fb2a171e8d0a.jpg
+    alt:
+      en: "Four adults pose indoors wearing festive hats, including Mickey Mouse ears and a black graduation-style robe; one wears a white t-shirt reading \"Nunez Community College,\" with Halloween decorations visible nearby."
 geo:
 id: 15103
 item_type: Still Image

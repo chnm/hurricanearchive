@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0088.JPG
     thumb: /files/thumbnails/14fb2a5615514014fb2a56155733.jpg
     url: /files/original/14fb2a5615514014fb2a56155733.jpg
+    alt:
+      en: "Roadside view from inside a moving vehicle showing storm-damaged trees, scattered debris, and fallen branches along a sidewalk under a clear blue sky."
 geo:
 id: 4697
 item_type: Still Image

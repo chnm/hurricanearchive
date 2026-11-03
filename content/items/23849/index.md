@@ -21,6 +21,8 @@ files:
     original_filename: S4300188stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecd25d7814fb29ecd2615f.jpg
     url: /files/original/14fb29ecd25d7814fb29ecd2615f.jpg
+    alt:
+      en: "Black Ford SUV with Texas plate 77W YR2 parked in a muddy driveway beside a storm-damaged brick house with a detached gutter, surrounded by dried mud and debris."
 geo:
 id: 23849
 item_type: Still Image

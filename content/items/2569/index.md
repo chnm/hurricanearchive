@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9059.jpg
     thumb: /files/thumbnails/14fb2a651b0ae914fb2a651b0ece.jpg
     url: /files/original/14fb2a651b0ae914fb2a651b0ece.jpg
+    alt:
+      en: "Two-story blue house with a water stain line, front yard filled with salvaged furniture, chairs, and a hand-painted \"FEMA HELP DESK — THE ANSWER IS NO!\" sign beside a \"HOUSE FOR SALE\" placard."
 geo:
 id: 2569
 item_type: Still Image

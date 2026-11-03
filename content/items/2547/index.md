@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8829.jpg
     thumb: /files/thumbnails/14fb2a656cc54214fb2a656ccac9.jpg
     url: /files/original/14fb2a656cc54214fb2a656ccac9.jpg
+    alt:
+      en: "A severely damaged house with a collapsed porch and exposed debris, surrounded by scattered furniture, a wrecked car, and household wreckage, with bare trees and industrial towers in the background."
 geo:
 id: 2547
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0163.JPG
     thumb: /files/thumbnails/14fb2a5532295f14fb2a55322d44.jpg
     url: /files/original/14fb2a5532295f14fb2a55322d44.jpg
+    alt:
+      en: "Interior wall under construction or repair, showing exposed wooden studs, OSB board panels, metal framing brackets, reflective foil insulation on the left side, and a textured popcorn ceiling above."
 geo:
 id: 4844
 item_type: Still Image

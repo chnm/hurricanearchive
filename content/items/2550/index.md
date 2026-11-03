@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8841.jpg
     thumb: /files/thumbnails/14fb2a6567e92d14fb2a6567ed04.jpg
     url: /files/original/14fb2a6567e92d14fb2a6567ed04.jpg
+    alt:
+      en: "An RTA \"BUS STOP\" sign stands amid storm debris, a leaning utility pole, and a severely damaged house with a partially collapsed roof under a clear blue sky."
 geo:
 id: 2550
 item_type: Still Image

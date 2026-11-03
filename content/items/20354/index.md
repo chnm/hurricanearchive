@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004M.JPG
     thumb: /files/thumbnails/14fb2a0874efa814fb2a08750314.jpg
     url: /files/original/14fb2a0874efa814fb2a08750314.jpg
+    alt:
+      en: "A gloved medic in camouflage uniform administers a vaccination into the arm of a person wearing a tan t-shirt, with another uniformed individual seated nearby watching."
 geo:
 id: 20354
 item_type: Still Image

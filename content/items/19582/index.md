@@ -21,6 +21,8 @@ files:
     original_filename: S4300036zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ef7cc4714fb2a0ef7d02c.jpg
     url: /files/original/14fb2a0ef7cc4714fb2a0ef7d02c.jpg
+    alt:
+      en: "A U.S. Navy helicopter with a tiger-striped tail boom flies against a grey sky, its rotor blades blurred in motion and landing gear extended."
 geo:
 id: 19582
 item_type: Still Image

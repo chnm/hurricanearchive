@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28305.jpg
     thumb: /files/thumbnails/14fb2a6c356eee14fb2a6c3572d2.jpg
     url: /files/original/14fb2a6c356eee14fb2a6c3572d2.jpg
+    alt:
+      en: "Severely damaged multi-story building with exposed wooden support beams and twisted metal framing, surrounded by debris and bare storm-damaged trees."
 geo:
   address: ''
   lat: 0.0

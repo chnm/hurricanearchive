@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 058cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e7a673814fb2a0e7a6b1b.jpg
     url: /files/original/14fb2a0e7a673814fb2a0e7a6b1b.jpg
+    alt:
+      en: "A large outdoor staging area with semi trucks, including one labeled \"STAR\" and another \"PD'S,\" parked near open-sided canopy structures, as a person in an orange vest pulls a small cart loaded with supplies across the pavement."
 geo:
 id: 19671
 item_type: Still Image

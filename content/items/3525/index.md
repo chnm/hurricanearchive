@@ -24,6 +24,8 @@ files:
     original_filename: P1010100.JPG
     thumb: /files/thumbnails/14fb2a5b2b35f914fb2a5b2b39de.jpg
     url: /files/original/14fb2a5b2b35f914fb2a5b2b39de.jpg
+    alt:
+      en: "Damaged two-story house with a hand-painted banner reading \"NO VEGAS, MAYOR NAGIN! C'MON, GENTILLY - YA'LL REBUILD! (CHER)\" hung on its screened porch, with storm debris and broken furniture piled outside."
 geo:
 id: 3525
 item_type: Still Image

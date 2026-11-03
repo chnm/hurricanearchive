@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0429.JPG
     thumb: /files/thumbnails/14fb2a5402e9f014fb2a5402edca.jpg
     url: /files/original/14fb2a5402e9f014fb2a5402edca.jpg
+    alt:
+      en: "A torn black banner reading \"The Inn by the Sea\" in white script lettering lies draped over a wooden beam on a concrete surface."
 geo:
 id: 5084
 item_type: Still Image

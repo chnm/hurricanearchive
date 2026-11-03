@@ -26,6 +26,8 @@ files:
     original_filename: e6_ca099b33ba.jpg
     thumb: /files/thumbnails/14fb2a6d88174e14fb2a6d881c11.jpg
     url: /files/original/14fb2a6d88174e14fb2a6d881c11.jpg
+    alt:
+      en: "Nearly empty grocery store shelves with yellow price tags, only a single package of Thomas' bread remaining on one shelf, with a \"Save-Rite\" sign visible above in the background."
 geo:
   address: ''
   lat: 31.107036956407104

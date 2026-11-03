@@ -21,6 +21,8 @@ files:
     original_filename: PICT0858Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f455da8714fb29f455e3b0.jpg
     url: /files/original/14fb29f455da8714fb29f455e3b0.jpg
+    alt:
+      en: "Damaged white building labeled \"Sheriff's Office St. Bernard Parish,\" surrounded by debris, fallen trees, and large metal storage containers; empty muddy lot in foreground, dated 09.15.2005."
 geo:
 id: 22736
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0351-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd08c33e14fb29fd08cdf7.jpg
     url: /files/original/14fb29fd08c33e14fb29fd08cdf7.jpg
+    alt:
+      en: "Aerial view of a flooded area with a metal building roof in the foreground, a person wading through murky water, a satellite dish partially submerged, and trees surrounded by floodwater."
 geo:
 id: 21617
 item_type: Still Image

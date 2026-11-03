@@ -21,6 +21,8 @@ files:
     original_filename: Slidell LTC3.jpg
     thumb: /files/thumbnails/14fb29fb11d4c514fb29fb11d8ab.jpg
     url: /files/original/14fb29fb11d4c514fb29fb11d8ab.jpg
+    alt:
+      en: "Aerial view of a large flat-roofed industrial building complex with damaged structures, scattered debris, downed trees, and a cluster of small damaged bungalows nearby, illustrating storm damage."
 geo:
 id: 21902
 item_type: Still Image

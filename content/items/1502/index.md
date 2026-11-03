@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28672.jpg
     thumb: /files/thumbnails/14fb2a6856f6ca14fb2a6856faaf.jpg
     url: /files/original/14fb2a6856f6ca14fb2a6856faaf.jpg
+    alt:
+      en: "Two women stand with a rescued horse outside a trailer, one in a pink tank top holding its halter, the other in a yellow shirt and purple bandana holding a lead rope."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 294-J2.jpg
     thumb: /files/thumbnails/14fb29fad1be1c14fb29fad1c544.jpg
     url: /files/original/14fb29fad1be1c14fb29fad1c544.jpg
+    alt:
+      en: "Floodwater nearly submerges a street sign reading \"ONE WAY\" and \"DO NOT ENTER,\" with only the sign and post visible above the still water, alongside a brick wall and greenery."
 geo:
 id: 21963
 item_type: Still Image

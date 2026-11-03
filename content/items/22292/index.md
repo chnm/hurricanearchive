@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1103Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7e9b8f514fb29f7e9bcda.jpg
     url: /files/original/14fb29f7e9b8f514fb29f7e9bcda.jpg
+    alt:
+      en: "Floodwaters submerge a street and building entrance, with debris, a partially submerged vehicle roof, and scattered containers floating in the murky water under a large tree."
 geo:
 id: 22292
 item_type: Still Image

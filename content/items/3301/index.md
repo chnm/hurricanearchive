@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (61).jpg
     thumb: /files/thumbnails/14fb2a5ca5bf3214fb2a5ca5c31e.jpg
     url: /files/original/14fb2a5ca5bf3214fb2a5ca5c31e.jpg
+    alt:
+      en: "Flooded street littered with storm debris, uprooted trees, and an overturned car amid collapsed structures, with a lone white house standing intact in the background."
 geo:
 id: 3301
 item_type: Still Image

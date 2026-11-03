@@ -21,6 +21,8 @@ files:
     original_filename: P1010173empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed6269cf14fb29ed626db4.jpg
     url: /files/original/14fb29ed6269cf14fb29ed626db4.jpg
+    alt:
+      en: "Flood-damaged neighborhood with mud-covered ground, debris, and a tilted \"Delta Ave\" street sign near storm-battered houses and a leaning utility pole."
 geo:
 id: 23732
 item_type: Still Image

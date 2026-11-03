@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0019.JPG
     thumb: /files/thumbnails/14fb2a56e6c27a14fb2a56e6c751.jpg
     url: /files/original/14fb2a56e6c27a14fb2a56e6c751.jpg
+    alt:
+      en: "A large rusted dumpster overflows with storm debris—splintered wood, roofing shingles, and twisted materials—while bare, storm-damaged trees and partially collapsed houses stand in the background under a cloudy sky."
 geo:
 id: 4593
 item_type: Still Image

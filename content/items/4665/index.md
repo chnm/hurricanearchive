@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0616.JPG
     thumb: /files/thumbnails/14fb2a565b947414fb2a565b985a.jpg
     url: /files/original/14fb2a565b947414fb2a565b985a.jpg
+    alt:
+      en: "A pink single-story house with severe roof damage, its metal panels and wooden framing torn open and exposed, with a snapped tree trunk leaning against the siding below boarded-up windows."
 geo:
 id: 4665
 item_type: Still Image

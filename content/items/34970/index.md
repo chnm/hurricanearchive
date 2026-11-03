@@ -23,6 +23,8 @@ files:
     original_filename: 2297851981_0655cda62c.
     thumb: /files/thumbnails/14fb29c81c72af14fb29c81c7695.jpg
     url: /files/original/14fb29c81c72af14fb29c81c7695.jpg
+    alt:
+      en: "Group of people standing in a gravel lot beside a fenced area with parked bicycles, with vehicles, traffic cones, and buildings in the background under an overcast sky."
 geo:
 id: 34970
 item_type: Still Image

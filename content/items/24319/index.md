@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-12-10A.jpg
     thumb: /files/thumbnails/14fb29e8bd472514fb29e8bd4bbe.jpg
     url: /files/original/14fb29e8bd472514fb29e8bd4bbe.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with a submerged football field and oval track, surrounded by dense housing and a large building with a red roof nearby."
 geo:
 id: 24319
 item_type: Still Image

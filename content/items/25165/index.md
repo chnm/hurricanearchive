@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1775superdome.JPG
     thumb: /files/thumbnails/14fb29e1868e5b14fb29e1869261.jpg
     url: /files/original/14fb29e1868e5b14fb29e1869261.jpg
+    alt:
+      en: "Group of military personnel, security officers, and civilians stand near a fenced building with a sign reading \"RESTRICTED AREA – AUTHORIZED PERSONS ONLY,\" with haze or smoke visible in the air."
 geo:
 id: 25165
 item_type: Still Image

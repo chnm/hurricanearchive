@@ -21,6 +21,8 @@ files:
     original_filename: Lionell Powell_5847_64352d947a.jpg
     thumb: /files/thumbnails/14fb29d924d81c14fb29d924dc7c.jpg
     url: /files/original/14fb29d924d81c14fb29d924dc7c.jpg
+    alt:
+      en: "Aged wedding photograph of a bride in a lace gown seated amid groomsmen in white tuxedos with blue sashes, the image surface damaged and discolored with water and mold stains."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

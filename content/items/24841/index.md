@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2181superdome.JPG
     thumb: /files/thumbnails/14fb29e473423414fb29e4734617.jpg
     url: /files/original/14fb29e473423414fb29e4734617.jpg
+    alt:
+      en: "Two men in military camouflage pants and tan t-shirts stack cardboard MRE ration boxes and water bottles at night, one wearing a camo cap and backpack straps with white gloves."
 geo:
 id: 24841
 item_type: Still Image

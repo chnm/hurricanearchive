@@ -23,6 +23,8 @@ files:
     original_filename: 162117840_dc7d565e38.jpg
     thumb: /files/thumbnails/14fb29d225d8f314fb29d225dcd7.jpg
     url: /files/original/14fb29d225d8f314fb29d225dcd7.jpg
+    alt:
+      en: "Rows of white mobile homes line a grassy field under an overcast sky, with a brick building and trees visible in the background."
 geo:
 id: 28607
 item_type: Still Image

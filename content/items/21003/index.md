@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0166-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a011e2f1514fb2a011e38cc.jpg
     url: /files/original/14fb2a011e2f1514fb2a011e38cc.jpg
+    alt:
+      en: "A small pickup truck lies overturned on its side amid debris and dried brush, its engine compartment exposed, with bare trees in the background."
 geo:
 id: 21003
 item_type: Still Image

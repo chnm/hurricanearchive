@@ -21,6 +21,8 @@ files:
     original_filename: 09240004rita.JPG
     thumb: /files/thumbnails/14fb2a0ed7706e14fb2a0ed77454.jpg
     url: /files/original/14fb2a0ed7706e14fb2a0ed77454.jpg
+    alt:
+      en: "Storm debris and fallen tree branches litter a gravel road near a bent sign, with striped event tents and a quonset hut visible in the background under overcast skies."
 geo:
 id: 19603
 item_type: Still Image

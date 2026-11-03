@@ -26,6 +26,8 @@ files:
     original_filename: 030218051140_d3dd3d11dd.JPG
     thumb: /files/thumbnails/14fb2a6d9a586a14fb2a6d9a5c40.jpg
     url: /files/original/14fb2a6d9a586a14fb2a6d9a5c40.jpg
+    alt:
+      en: "A family gathers around a picnic table on a screened porch, eating takeout meals from styrofoam containers with Mountain Dew cans, Sprite, and juice boxes; a child wears a paper birthday crown."
 geo:
   address: ''
   lat: 30.135425

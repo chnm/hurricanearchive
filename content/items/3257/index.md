@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (21).JPG
     thumb: /files/thumbnails/14fb2a5d09a4a314fb2a5d09a88a.jpg
     url: /files/original/14fb2a5d09a4a314fb2a5d09a88a.jpg
+    alt:
+      en: "Waterfront view of a devastated shoreline with scattered debris and damaged structures among trees, a few vehicles parked near the water's edge, and a small buoy floating offshore."
 geo:
 id: 3257
 item_type: Still Image

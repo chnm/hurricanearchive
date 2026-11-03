@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010OEP.JPG
     thumb: /files/thumbnails/14fb29f22c967a14fb29f22c9a5f.jpg
     url: /files/original/14fb29f22c967a14fb29f22c9a5f.jpg
+    alt:
+      en: "Aerial view of a crowded parking lot filled with cars and media satellite trucks, with additional RVs and satellite dishes visible near low buildings in the background under a clear blue sky."
 geo:
 id: 23000
 item_type: Still Image

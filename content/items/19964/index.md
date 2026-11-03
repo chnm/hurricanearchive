@@ -21,6 +21,8 @@ files:
     original_filename: Picture 061cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0be8ae7014fb2a0be8b257.jpg
     url: /files/original/14fb2a0be8ae7014fb2a0be8b257.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand on a sidewalk near a brick building at the corner of St. Charles, with a blue street sign and orange directional sign visible above them."
 geo:
 id: 19964
 item_type: Still Image

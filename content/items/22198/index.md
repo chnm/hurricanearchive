@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1005Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f925e76714fb29f925eb4e.jpg
     url: /files/original/14fb29f925e76714fb29f925eb4e.jpg
+    alt:
+      en: "Military Humvee drives through an entrance gate marked \"Area C,\" with a uniformed soldier directing traffic nearby and a sign reading \"Military Police Advisory\" mounted on the brick wall."
 geo:
 id: 22198
 item_type: Still Image

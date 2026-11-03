@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 104cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e348f7314fb2a0e349352.jpg
     url: /files/original/14fb2a0e348f7314fb2a0e349352.jpg
+    alt:
+      en: "A divided roadway with a debris-strewn median, large trees, utility poles, and a \"DO NOT BLOCK\" sign, with a front-end loader clearing branches in the distance."
 geo:
 id: 19717
 item_type: Still Image

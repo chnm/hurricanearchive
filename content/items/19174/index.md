@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 084.jpg
     thumb: /files/thumbnails/14fb2a1266002914fb2a12661248.jpg
     url: /files/original/14fb2a1266002914fb2a12661248.jpg
+    alt:
+      en: "City Park entrance with a \"Directory\" sign and map, bordered by a line of trees with storm-damaged branches and debris scattered along the curb and grass."
 geo:
 id: 19174
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 789z3812cajundome.jpg
     thumb: /files/thumbnails/14fb29f320184214fb29f3201c27.jpg
     url: /files/original/14fb29f320184214fb29f3201c27.jpg
+    alt:
+      en: "Two military police in camouflage stand behind a metal barricade near a sign listing prohibited items (guns, knives, alcohol, drugs, lighters), while a man in a white shirt sits writing on paper beside a cardboard sign and book."
 geo:
 id: 22833
 item_type: Still Image

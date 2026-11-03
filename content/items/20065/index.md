@@ -21,6 +21,8 @@ files:
     original_filename: Picture 162cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b83560b14fb2a0b8359f7.jpg
     url: /files/original/14fb2a0b83560b14fb2a0b8359f7.jpg
+    alt:
+      en: "Floodwater with surface debris and foam covers a low-lying area, with a damaged industrial building, scattered wreckage, and distant structures along the water's edge under a partly cloudy sky."
 geo:
 id: 20065
 item_type: Still Image

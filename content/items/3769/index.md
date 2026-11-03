@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 049.jpg
     thumb: /files/thumbnails/14fb2a59cd17da14fb2a59cd1bc7.jpg
     url: /files/original/14fb2a59cd17da14fb2a59cd1bc7.jpg
+    alt:
+      en: "Severely damaged multi-story building with exposed metal framing and debris, a construction vehicle and fencing in the foreground lot, under a clear blue sky."
 geo:
 id: 3769
 item_type: Still Image

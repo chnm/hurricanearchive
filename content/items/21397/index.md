@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0245-9-25.JPG
     thumb: /files/thumbnails/14fb29ff08bd8114fb29ff08c177.jpg
     url: /files/original/14fb29ff08bd8114fb29ff08c177.jpg
+    alt:
+      en: "Aerial view of flooded farmland and a rural homestead, with scattered houses, barns, and a tree-lined road surrounded by widespread standing floodwater."
 geo:
 id: 21397
 item_type: Still Image

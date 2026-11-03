@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0085OEP.JPG
     thumb: /files/thumbnails/14fb29f1a1878c14fb29f1a18b72.jpg
     url: /files/original/14fb29f1a1878c14fb29f1a18b72.jpg
+    alt:
+      en: "Man in a white cap and navy polo shirt sits on a concrete walkway talking with a woman in a sleeveless top, both barefoot-shoed and cross-legged, with a Dr Pepper can nearby and stone trash receptacles behind them."
 geo:
 id: 23075
 item_type: Still Image

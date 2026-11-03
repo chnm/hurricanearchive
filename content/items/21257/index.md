@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0208.JPG
     thumb: /files/thumbnails/14fb29ffbc4d4414fb29ffbc5133.jpg
     url: /files/original/14fb29ffbc4d4414fb29ffbc5133.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with rows of collapsed houses reduced to scattered debris, a few surviving trees, and streets littered with wreckage and overturned vehicles."
 geo:
 id: 21257
 item_type: Still Image

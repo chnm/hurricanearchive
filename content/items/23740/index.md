@@ -21,6 +21,8 @@ files:
     original_filename: P1010181empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed53d1ee14fb29ed53d5cc.jpg
     url: /files/original/14fb29ed53d1ee14fb29ed53d5cc.jpg
+    alt:
+      en: "A large rusted metal barge marked \"MCO 360\" sits grounded on dried mud, stranded far from water with trees lining the background."
 geo:
 id: 23740
 item_type: Still Image

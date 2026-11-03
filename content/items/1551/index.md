@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28385.jpg
     thumb: /files/thumbnails/14fb2a680bba7214fb2a680bbe57.jpg
     url: /files/original/14fb2a680bba7214fb2a680bbe57.jpg
+    alt:
+      en: "Man wearing a cap and \"Key West, Florida\" t-shirt stands at a wooden ship's wheel in a boat's wheelhouse, holding a round cardboard shrimp net timing device, with binoculars and windows visible behind him."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0577Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f50b7d3b14fb29f50b8129.jpg
     url: /files/original/14fb29f50b7d3b14fb29f50b8129.jpg
+    alt:
+      en: "Floodwater submerges a grassy area with a palm tree, flagpole, and brick wall partially underwater, with a green field and trees visible in the background under an overcast sky."
 geo:
 id: 22613
 item_type: Still Image

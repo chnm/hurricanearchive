@@ -21,6 +21,8 @@ files:
     original_filename: Delgado C.C. 2.jpg
     thumb: /files/thumbnails/14fb29fb64c5fb14fb29fb64ca2d.jpg
     url: /files/original/14fb29fb64c5fb14fb29fb64ca2d.jpg
+    alt:
+      en: "Aerial view of a flooded New Orleans neighborhood near Delgado Community College, with submerged streets, homes, a baseball field, and a nearby racetrack surrounded by floodwater."
 geo:
 id: 21843
 item_type: Still Image

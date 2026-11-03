@@ -26,6 +26,8 @@ files:
     original_filename: 1279844135_f17f1c3c38.jpg
     thumb: /files/thumbnails/14fb29cbf9fa0614fb29cbf9fdeb.jpg
     url: /files/original/14fb29cbf9fa0614fb29cbf9fdeb.jpg
+    alt:
+      en: "A storefront window sign reads \"The Almost Going Out of Business Sale - waiting for SBA loan, waiting for Insurance, waiting for Grant Money, waiting for Hell To Freeze... until then... 20 to 70% OFF,\" with credit card decals below."
 geo:
 id: 32142
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-001S.JPG
     thumb: /files/thumbnails/14fb2a5fac0bff14fb2a5fac0fd8.jpg
     url: /files/original/14fb2a5fac0bff14fb2a5fac0fd8.jpg
+    alt:
+      en: "Interior of a ship's compartment with gauges, dials, control panels, and periscope-like equipment, featuring a red-painted floor and labeled \"E B 301 C\" on the wall."
 geo:
 id: 2878
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 074engineers.jpg
     thumb: /files/thumbnails/14fb2a0f98630814fb2a0f9866ed.jpg
     url: /files/original/14fb2a0f98630814fb2a0f9866ed.jpg
+    alt:
+      en: "Aerial view of a flooded urban neighborhood with a church, parking garages, and rows of houses surrounded by brown floodwater; overlay text reads \"WNIRS Miss#:LA-037-05A - 06Sep05 - XAVIER SURVEY N 29 57 57 W 90 06 27 DTM: 06 Sep 2005 06:52:56.\""
 geo:
 id: 19514
 item_type: Still Image

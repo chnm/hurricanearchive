@@ -26,6 +26,8 @@ files:
     original_filename: truck_1_040e3238dc.jpg
     thumb: /files/thumbnails/14fb2a6d6a34b314fb2a6d6a3894.jpg
     url: /files/original/14fb2a6d6a34b314fb2a6d6a3894.jpg
+    alt:
+      en: "A maroon pickup truck sits on a roadway surrounded by fallen trees and broken branches, with large tree trunks and dense green foliage filling the scene."
 geo:
   address: ''
   lat: 31.652811

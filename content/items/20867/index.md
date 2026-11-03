@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0136-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a028dbbb614fb2a028e2a34.jpg
     url: /files/original/14fb2a028dbbb614fb2a028e2a34.jpg
+    alt:
+      en: "A herd of cattle gathers in the shaded yard of a white clapboard house beneath large trees, with a utility pole visible against the sky in the background."
 geo:
 id: 20867
 item_type: Still Image

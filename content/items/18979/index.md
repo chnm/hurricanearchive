@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2141rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13e3888914fb2a13e38c74.jpg
     url: /files/original/14fb2a13e3888914fb2a13e38c74.jpg
+    alt:
+      en: "Aerial view of a U.S. Army UH-1 helicopter marked with red cross symbols and the number 2431, parked on a rooftop with shingles visible around it."
 geo:
 id: 18979
 item_type: Still Image

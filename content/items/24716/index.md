@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-18-17Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e563362d14fb29e5633c30.jpg
     url: /files/original/14fb29e563362d14fb29e5633c30.jpg
+    alt:
+      en: "Floodwater submerges vehicles and a bus beneath an overpass as a large military-style truck crowded with evacuees drives through the water, while people wait near a boat in the foreground."
 geo:
 id: 24716
 item_type: Still Image

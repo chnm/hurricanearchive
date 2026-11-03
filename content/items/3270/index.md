@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (33).jpg
     thumb: /files/thumbnails/14fb2a5ce977c314fb2a5ce97baa.jpg
     url: /files/original/14fb2a5ce977c314fb2a5ce97baa.jpg
+    alt:
+      en: "Collapsed homes reduced to splintered wood debris line a flooded street, with leaning utility poles, bare trees, and standing muddy water reflecting the wreckage."
 geo:
 id: 3270
 item_type: Still Image

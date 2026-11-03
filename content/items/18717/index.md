@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006alero.JPG
     thumb: /files/thumbnails/14fb2a15655cc814fb2a156560ae.jpg
     url: /files/original/14fb2a15655cc814fb2a156560ae.jpg
+    alt:
+      en: "Aerial view of a large staging area beside a sports complex, with rows of military trucks and Humvees, large striped tents, modular trailers, and a pond, with visible banners for \"West Jefferson Medical Center\" and \"Falcon Air Shop.\""
 geo:
 id: 18717
 item_type: Still Image

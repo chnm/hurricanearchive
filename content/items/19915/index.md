@@ -21,6 +21,8 @@ files:
     original_filename: Picture 011cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c8092a314fb2a0c80967e.jpg
     url: /files/original/14fb2a0c8092a314fb2a0c80967e.jpg
+    alt:
+      en: "Grassy field with trees in foreground, a white house and damaged, overturned structures or debris in the background, under a partly cloudy sky."
 geo:
 id: 19915
 item_type: Still Image

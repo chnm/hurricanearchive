@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28700.jpg
     thumb: /files/thumbnails/14fb2a6d03d54014fb2a6d03d929.jpg
     url: /files/original/14fb2a6d03d54014fb2a6d03d929.jpg
+    alt:
+      en: "A gray horse wearing a dark halter stands behind metal fence rails in a covered livestock pen, its head visible through the bars."
 geo:
   address: ''
   lat: 0.0

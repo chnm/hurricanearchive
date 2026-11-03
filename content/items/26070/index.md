@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7014_e5bb35517a.jpg
     thumb: /files/thumbnails/14fb29db68030d14fb29db6806f2.jpg
     url: /files/original/14fb29db68030d14fb29db6806f2.jpg
+    alt:
+      en: "Black-and-white photograph of a surgical team in masks, caps, and gowns performing an operation in an operating room, with nurses attending nearby tables of instruments and a wall clock above."
 geo:
   address: ''
   lat: 29.87876

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 261-J2.jpg
     thumb: /files/thumbnails/14fb29faf23c0014fb29faf243bf.jpg
     url: /files/original/14fb29faf23c0014fb29faf243bf.jpg
+    alt:
+      en: "Water gushes from a large pipe into a concrete-walled basin, splashing against the sides, with a metal building and blue sky in the background."
 geo:
 id: 21930
 item_type: Still Image

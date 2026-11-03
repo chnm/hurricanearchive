@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064engineers.JPG
     thumb: /files/thumbnails/14fb2a104d8e2d14fb2a104d91de.jpg
     url: /files/original/14fb2a104d8e2d14fb2a104d91de.jpg
+    alt:
+      en: "A soldier in a yellow hard hat and desert camouflage uniform (name tape \"MADDEN\") stands on a debris-strewn dirt road, with a Komatsu skid-steer loader, military dump truck, and scattered storm wreckage nearby."
 geo:
 id: 19422
 item_type: Still Image

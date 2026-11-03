@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6622_88f4a57f78.JPG
     thumb: /files/thumbnails/14fb29d2c70e6d14fb29d2c71279.jpg
     url: /files/original/14fb29d2c70e6d14fb29d2c71279.jpg
+    alt:
+      en: "A white single-story house with a dark gabled roof, arched front windows, and a small red sign on the lawn, with hedges along the sidewalk and a quiet street in the foreground."
 geo:
   address: ''
   lat: 29.91685

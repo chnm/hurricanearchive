@@ -21,6 +21,8 @@ files:
     original_filename: Picture 198cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b54145914fb2a0b541c23.jpg
     url: /files/original/14fb2a0b54145914fb2a0b541c23.jpg
+    alt:
+      en: "Grassy lot with scattered trees, several downed branches and debris piles among the trees, a fallen limb in the foreground grass, and a paved road with curb in front."
 geo:
 id: 20101
 item_type: Still Image

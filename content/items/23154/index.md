@@ -21,6 +21,8 @@ files:
     original_filename: 20051003-A-3780B-198mobilePAO
     thumb: /files/thumbnails/14fb29f14dc60014fb29f14dc9e6.jpg
     url: /files/original/14fb29f14dc60014fb29f14dc9e6
+    alt:
+      en: "Soldiers in camouflage uniforms load large white sandbags using a military forklift on a grassy field under an overcast sky."
 geo:
 id: 23154
 item_type: Still Image

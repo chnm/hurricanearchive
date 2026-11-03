@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0206mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2f1bd9c14fb29f2f1c220.jpg
     url: /files/original/14fb29f2f1bd9c14fb29f2f1c220.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms stand on a debris-strewn sidewalk, one holding a rifle, with downed power lines, bare trees, and a fire hydrant visible in the background."
 geo:
 id: 22878
 item_type: Still Image

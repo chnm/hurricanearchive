@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0251-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fedbe19714fb29fedbebf2.jpg
     url: /files/original/14fb29fedbe19714fb29fedbebf2.jpg
+    alt:
+      en: "Aerial view of floodwaters submerging a rural property, with only the rooftops of three buildings visible above water, surrounded by partially submerged trees and fence lines."
 geo:
 id: 21417
 item_type: Still Image

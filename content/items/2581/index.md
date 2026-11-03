@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9104.jpg
     thumb: /files/thumbnails/14fb2a649c959f14fb2a649c9eeb.jpg
     url: /files/original/14fb2a649c959f14fb2a649c9eeb.jpg
+    alt:
+      en: "Brick building exterior with a damaged white door marked in orange spray paint, beside a boarded window and a plywood sign reading \"Dr. Morgan D.D.S. Has Moved #780-7006.\""
 geo:
 id: 2581
 item_type: Still Image

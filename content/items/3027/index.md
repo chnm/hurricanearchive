@@ -21,6 +21,8 @@ files:
     original_filename: 100_0276.JPG
     thumb: /files/thumbnails/14fb2a5eb2212014fb2a5eb22700.jpg
     url: /files/original/14fb2a5eb2212014fb2a5eb22700.jpg
+    alt:
+      en: "Gray battleship with multiple gun turrets and superstructure docked at a museum site, with a green industrial generator labeled \"1200H\" and concrete blocks on the grass nearby."
 geo:
 id: 3027
 item_type: Still Image

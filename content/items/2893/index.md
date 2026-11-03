@@ -21,6 +21,8 @@ files:
     original_filename: MVC-016S.JPG
     thumb: /files/thumbnails/14fb2a5fa48e6d14fb2a5fa4925a.jpg
     url: /files/original/14fb2a5fa48e6d14fb2a5fa4925a.jpg
+    alt:
+      en: "Large industrial machine or turbine painted light gray, featuring a round inspection window, attached pipes and valves, with a metal railing in the foreground."
 geo:
 id: 2893
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 348972217_51ff4290ea.
     thumb: /files/thumbnails/14fb29d5bbd33914fb29d5bbd720.jpg
     url: /files/original/14fb29d5bbd33914fb29d5bbd720.jpg
+    alt:
+      en: "A damaged metal fire station building with twisted siding and bent supports, displaying a banner reading \"Vermilion Parish 7th Ward Vol. Fire Dept. Intracoastal City Sub Station,\" with a fire hydrant and \"No Parking\" sign nearby."
 geo:
   address: ''
   lat: 29.78551

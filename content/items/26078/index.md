@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7039_29dc5d193d.jpg
     thumb: /files/thumbnails/14fb29db5d1c9914fb29db5d2087.jpg
     url: /files/original/14fb29db5d1c9914fb29db5d2087.jpg
+    alt:
+      en: "A nun speaks with Mrs. Lyndon Johnson and other adults as children holding violins and sheet music look on in a sunlit classroom filled with onlookers."
 geo:
   address: ''
   lat: 29.91685

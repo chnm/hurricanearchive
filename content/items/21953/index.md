@@ -21,6 +21,8 @@ files:
     original_filename: Picture 284-J2.jpg
     thumb: /files/thumbnails/14fb29fadd135d14fb29fadd16c4.jpg
     url: /files/original/14fb29fadd135d14fb29fadd16c4.jpg
+    alt:
+      en: "Blurred view from a moving vehicle over a bridge guardrail, showing a neighborhood with a white stepped-gable building, rooftops, power lines, and trees under a partly cloudy sky."
 geo:
 id: 21953
 item_type: Still Image

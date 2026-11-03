@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-12-10AneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ebe5ebdc14fb29ebe5efbe.jpg
     url: /files/original/14fb29ebe5ebdc14fb29ebe5efbe.jpg
+    alt:
+      en: "Floodwater surrounds a parked red SUV and a submerged car with a fallen tree across it, photographed from inside another vehicle with its side mirror visible, reflecting a multi-story building."
 geo:
 id: 24023
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27842.jpg
     thumb: /files/thumbnails/14fb2a6894b8b614fb2a6894bc9b.jpg
     url: /files/original/14fb2a6894b8b614fb2a6894bc9b.jpg
+    alt:
+      en: "A blue pickup truck piled high with scrap metal and debris, with one man standing atop the load and another man beside the truck, parked on grass near a building and flagpole."
 geo:
   address: ''
   lat: 0.0

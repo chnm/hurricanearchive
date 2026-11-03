@@ -21,6 +21,8 @@ files:
     original_filename: Picture 136cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b9905b714fb2a0b99099f.jpg
     url: /files/original/14fb2a0b9905b714fb2a0b99099f.jpg
+    alt:
+      en: "Damaged industrial building with a collapsed metal structure inside, chain-link fence in front, railroad tracks, and a grassy field with a white bucket in the foreground."
 geo:
 id: 20039
 item_type: Still Image

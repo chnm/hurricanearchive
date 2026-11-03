@@ -21,6 +21,8 @@ files:
     original_filename: A mess at Jack BrksJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f93eee6614fb29f93efae9.jpg
     url: /files/original/14fb29f93eee6614fb29f93efae9.jpg
+    alt:
+      en: "A darkened doorway reveals overturned furniture and debris inside a room, next to a wall sign reading \"137 STAIRS.\""
 geo:
 id: 22174
 item_type: Still Image

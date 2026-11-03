@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0550.JPG
     thumb: /files/thumbnails/14fb2a537312f214fb2a537316bc.jpg
     url: /files/original/14fb2a537312f214fb2a537316bc.jpg
+    alt:
+      en: "Erosion has washed away soil along the edge of a concrete slab foundation, exposing the base and creating gaps beneath a wooden support post, with sandy ground and scattered debris nearby."
 geo:
 id: 5188
 item_type: Still Image

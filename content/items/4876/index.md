@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0195.JPG
     thumb: /files/thumbnails/14fb2a5514d84c14fb2a5514ddd8.jpg
     url: /files/original/14fb2a5514d84c14fb2a5514ddd8.jpg
+    alt:
+      en: "View from under a wooden gazebo-style structure with a lattice wall, overlooking a marshy waterway lined with autumn trees under an overcast sky."
 geo:
 id: 4876
 item_type: Still Image

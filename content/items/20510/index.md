@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0695d7a514fb2a0695db8b.jpg
     url: /files/original/14fb2a0695d7a514fb2a0695db8b.jpg
+    alt:
+      en: "A light blue mobile home sits partially submerged in floodwater, surrounded by trees, marsh grass, and a utility pole, under an overcast sky."
 geo:
 id: 20510
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-24-23AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f956da9514fb29f956de84.jpg
     url: /files/original/14fb29f956da9514fb29f956de84.jpg
+    alt:
+      en: "Metal handrails flank a flooded stairwell, with dark water rippling below and reflections of a tree visible on its surface."
 geo:
 id: 22144
 item_type: Still Image

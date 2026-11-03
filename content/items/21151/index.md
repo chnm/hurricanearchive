@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0187-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a0055841514fb2a00558be4.jpg
     url: /files/original/14fb2a0055841514fb2a00558be4.jpg
+    alt:
+      en: "Aerial view of a flattened coastal neighborhood with collapsed homes, scattered debris, downed power lines, and damaged trees, foreground partially obscured by a dark shadow."
 geo:
 id: 21151
 item_type: Still Image

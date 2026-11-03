@@ -21,6 +21,8 @@ files:
     original_filename: 176 flooding4.jpg
     thumb: /files/thumbnails/14fb2a1f88722f14fb2a1f88760e.jpg
     url: /files/original/14fb2a1f88722f14fb2a1f88760e.jpg
+    alt:
+      en: "A flooded street submerges the roadway entirely, with utility poles, street signs reading \"P\" with a no-parking symbol, trees, and houses lining both sides amid heavy fog in the distance."
 geo:
 id: 13184
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: J2 (25).JPG
     thumb: /files/thumbnails/14fb2a11408cc914fb2a11409172.jpg
     url: /files/original/14fb2a11408cc914fb2a11409172.jpg
+    alt:
+      en: "Blurry aerial view of a residential neighborhood with houses, rooftops, driveways, and trees, the motion blur obscuring fine details."
 geo:
 id: 19306
 item_type: Still Image

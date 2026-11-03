@@ -21,6 +21,8 @@ files:
     original_filename: Soldier quarters.JPG
     thumb: /files/thumbnails/14fb2a1ab0d8b214fb2a1ab0dc98.jpg
     url: /files/original/14fb2a1ab0d8b214fb2a1ab0dc98.jpg
+    alt:
+      en: "Dimly lit interior space with rows of cots, pillows, and personal belongings arranged on the floor, suggesting temporary sleeping quarters; a bulletin board reading \"Cavalier Life\" is visible on the right."
 geo:
   address: ''
   lat: 0.0

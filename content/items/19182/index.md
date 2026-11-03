@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 092.jpg
     thumb: /files/thumbnails/14fb2a121d57c314fb2a121d91a1.jpg
     url: /files/original/14fb2a121d57c314fb2a121d91a1.jpg
+    alt:
+      en: "A tall red stone monument topped with a white statue stands amid trees with storm-damaged, browning foliage, while a camouflage-clad figure and scattered debris, including a trash can and fallen branches, line the path nearby."
 geo:
 id: 19182
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2309992149_cfe23ade6d.
     thumb: /files/thumbnails/14fb29c9b0c25214fb29c9b0c42c.jpg
     url: /files/original/14fb29c9b0c25214fb29c9b0c42c.jpg
+    alt:
+      en: "Flooded backyard with fallen tree branches floating in standing water, an above-ground pool, and houses visible through storm-damaged pine trees in the background."
 geo:
 id: 34495
 item_type: Still Image

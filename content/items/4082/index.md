@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0980.JPG
     thumb: /files/thumbnails/14fb2a5800c59f14fb2a5800cb4b.jpg
     url: /files/original/14fb2a5800c59f14fb2a5800cb4b.jpg
+    alt:
+      en: "Glass-and-steel high-rise with its mirrored curtain wall torn away in sections, exposing bare concrete floors and structural beams, reflecting a parking lot and storm-damaged trees below."
 geo:
 id: 4082
 item_type: Still Image

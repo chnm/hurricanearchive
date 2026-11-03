@@ -26,6 +26,8 @@ files:
     original_filename: PA120078_0ac58cf137.JPG
     thumb: /files/thumbnails/14fb2a6d4f18a214fb2a6d4f2000.jpg
     url: /files/original/14fb2a6d4f18a214fb2a6d4f2000.jpg
+    alt:
+      en: "Ruins of a brick house reduced to rubble, with charred chimneys still standing amid scattered debris and twisted metal fencing, under a pale sky."
 geo:
   address: ''
   lat: 29.9788029409262

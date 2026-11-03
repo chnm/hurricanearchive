@@ -21,6 +21,8 @@ files:
     original_filename: aerials21.jpg
     thumb: /files/thumbnails/14fb2a19dcc5f914fb2a19dcce15.jpg
     url: /files/original/14fb2a19dcc5f914fb2a19dcce15.jpg
+    alt:
+      en: "Aerial view of storm-damaged rural property with a collapsed house roof, scattered debris, fallen trees, and a small pond, surrounded by sparse pine trees."
 geo:
 id: 14310
 item_type: Still Image

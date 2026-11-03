@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1392Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5771c9b14fb29f577207f.jpg
     url: /files/original/14fb29f5771c9b14fb29f577207f.jpg
+    alt:
+      en: "Two adjacent multi-story buildings seen from above, a red brick structure with green-trimmed windows and a white clapboard-sided building, with a shadowed courtyard between them."
 geo:
 id: 22547
 item_type: Still Image

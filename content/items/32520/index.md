@@ -30,6 +30,8 @@ files:
     original_filename: adc01_71f10c1955.jpg
     thumb: /files/thumbnails/14fb29cbec3cf214fb29cbec40d9.jpg
     url: /files/original/14fb29cbec3cf214fb29cbec40d9.jpg
+    alt:
+      en: "Illustrated map of New Orleans streets with five framed portrait photos of different individuals overlaid, representing the cast of characters featured in the webcomic."
 geo:
 id: 32520
 item_type: Hyperlink

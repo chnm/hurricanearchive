@@ -21,6 +21,8 @@ files:
     original_filename: Slidell LTC2.jpg
     thumb: /files/thumbnails/14fb29fb1274f414fb29fb1278cd.jpg
     url: /files/original/14fb29fb1274f414fb29fb1278cd.jpg
+    alt:
+      en: "Aerial view of a damaged town near Slidell, Louisiana, showing a large warehouse building, roads, a marina with boats, and widespread tree damage from the hurricane."
 geo:
 id: 21901
 item_type: Still Image

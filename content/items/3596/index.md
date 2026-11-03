@@ -24,6 +24,8 @@ files:
     original_filename: P1010023.JPG
     thumb: /files/thumbnails/14fb2a5aaa449b14fb2a5aaa488a.jpg
     url: /files/original/14fb2a5aaa449b14fb2a5aaa488a.jpg
+    alt:
+      en: "Porcelain figurine of a boy in a teal sweater listening to a headless hooded figure playing a mandolin, both seated under a mushroom-shaped canopy, with visible cracks and water staining."
 geo:
 id: 3596
 item_type: Still Image

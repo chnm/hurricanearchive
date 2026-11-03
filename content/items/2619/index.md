@@ -24,6 +24,8 @@ files:
     original_filename: 20060210_MG_0476.jpg
     thumb: /files/thumbnails/14fb2a6418023414fb2a64180975.jpg
     url: /files/original/14fb2a6418023414fb2a64180975.jpg
+    alt:
+      en: "Two people dressed in blue tarp costumes for Mardi Gras, one wearing a baby doll in a container on her head with a sign reading \"Ste. Inundate, Patron Saint of Babies in Rubbermaid,\" the other holding a sign reading \"Our Lady of the Breach, Patron Saint of the Army Corp of Engineers.\""
 geo:
 id: 2619
 item_type: Still Image

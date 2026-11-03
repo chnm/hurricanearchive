@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140009.JPG
     thumb: /files/thumbnails/14fb2a0a853da014fb2a0a8547f7.jpg
     url: /files/original/14fb2a0a853da014fb2a0a8547f7.jpg
+    alt:
+      en: "Demolished building with exposed brick, insulation, and plywood paneling above a large pile of broken concrete blocks and debris, with a rusted steel beam lying across the wreckage."
 geo:
 id: 20235
 item_type: Still Image

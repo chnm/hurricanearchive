@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward 9-18-11.JPG
     thumb: /files/thumbnails/14fb2a219df30614fb2a219df6bf.jpg
     url: /files/original/14fb2a219df30614fb2a219df6bf.jpg
+    alt:
+      en: "Damaged single-story house with a partially collapsed, debris-covered roof and scattered rubble in the yard, with a paved road and utility pole in the foreground."
 geo:
 id: 12834
 item_type: Still Image

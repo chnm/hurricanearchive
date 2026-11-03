@@ -20,6 +20,8 @@ files:
     original_filename: 2457563922_481f4e5a4b.
     thumb: /files/thumbnails/14fb29c8dea41c14fb29c8dea7f9.jpg
     url: /files/original/14fb29c8dea41c14fb29c8dea7f9.jpg
+    alt:
+      en: "Large excavated pit with muddy, dark churned earth and standing water at the bottom, surrounded by a flat cleared field with a tree line visible in the distance."
 geo:
 id: 34864
 item_type: Still Image

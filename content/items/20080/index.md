@@ -21,6 +21,8 @@ files:
     original_filename: Picture 177cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b6a9ed714fb2a0b6aa2bc.jpg
     url: /files/original/14fb2a0b6a9ed714fb2a0b6aa2bc.jpg
+    alt:
+      en: "Military Humvee with canvas canopy carries two uniformed soldiers down a highway, photographed from a following vehicle with a guardrail and distant buildings under a clear sky."
 geo:
 id: 20080
 item_type: Still Image

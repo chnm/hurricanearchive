@@ -21,6 +21,8 @@ files:
     original_filename: Picture 185cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b63a22a14fb2a0b63a610.jpg
     url: /files/original/14fb2a0b63a22a14fb2a0b63a610.jpg
+    alt:
+      en: "Row of concrete barriers lines a grassy median beside a road, with sparse trees, parked cars, and a large building visible in the background under a partly cloudy sky."
 geo:
 id: 20088
 item_type: Still Image

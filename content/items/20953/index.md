@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0155-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0157943214fb2a01579814.jpg
     url: /files/original/14fb2a0157943214fb2a01579814.jpg
+    alt:
+      en: "Aerial view of storm-damaged terrain with a collapsed structure tangled among bare, debris-filled trees, surrounded by scattered rubble, concrete slabs, and downed utility poles."
 geo:
 id: 20953
 item_type: Still Image

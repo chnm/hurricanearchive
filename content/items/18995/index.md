@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2157rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d3723c14fb2a13d37a09.jpg
     url: /files/original/14fb2a13d3723c14fb2a13d37a09.jpg
+    alt:
+      en: "Aerial view from a helicopter looking down on a figure in uniform with a blue pack standing on a shingled rooftop, with a dark structural beam visible in the foreground."
 geo:
 id: 18995
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: bassfishing_pic_340b5db462.jpg
     thumb: /files/thumbnails/14fb29dbf792bc14fb29dbf796a1.jpg
     url: /files/original/14fb29dbf792bc14fb29dbf796a1.jpg
+    alt:
+      en: "A man fishing from a \"Tracker\" bass boat on calm water, reeling in a large bass that leaps from the surface with a splash, trees lining the shoreline behind him."
 geo:
 id: 25821
 item_type: Still Image

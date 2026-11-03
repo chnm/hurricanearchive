@@ -24,6 +24,8 @@ files:
     original_filename: 0004.JPG
     thumb: /files/thumbnails/14fb2a5c0772b214fb2a5c077696.jpg
     url: /files/original/14fb2a5c0772b214fb2a5c077696.jpg
+    alt:
+      en: "Nighttime street view with piles of storm debris curbside in front of houses, illuminated by headlights, with distant streetlights and a dark blue dusk sky overhead."
 geo:
 id: 3423
 item_type: Still Image

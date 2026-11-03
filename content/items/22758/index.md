@@ -21,6 +21,8 @@ files:
     original_filename: S4300114Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4306fc614fb29f43073ab.jpg
     url: /files/original/14fb29f4306fc614fb29f43073ab.jpg
+    alt:
+      en: "A large fallen tree with sawn branches rests on a pickup truck and sedan parked side by side, their rear ends crushed beneath the trunk and limbs."
 geo:
 id: 22758
 item_type: Still Image

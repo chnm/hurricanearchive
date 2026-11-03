@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0313stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eeb55b8b14fb29eeb55d8d.jpg
     url: /files/original/14fb29eeb55b8b14fb29eeb55d8d.jpg
+    alt:
+      en: "Two mud-covered vehicles, a Honda CR-V with its rear hatch open and a minivan, sit in a thick, cracked layer of dried mud in front of a brick house with a red spray-painted X marking."
 geo:
 id: 23578
 item_type: Still Image

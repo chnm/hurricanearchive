@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0184abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eed382a014fb29eed38705.jpg
     url: /files/original/14fb29eed382a014fb29eed38705.jpg
+    alt:
+      en: "Two men stand beside floodwaters surrounded by debris and bare trees; one in overalls and a camo cap looks on while the other, in a striped shirt, points toward the water."
 geo:
 id: 23562
 item_type: Still Image

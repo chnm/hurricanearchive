@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6527_7b2de6428f.jpg
     thumb: /files/thumbnails/14fb29d410bb2214fb29d410bf03.jpg
     url: /files/original/14fb29d410bb2214fb29d410bf03.jpg
+    alt:
+      en: "A woman in a dark coat walks a dog on a leash along a suburban street near a large house, with children in winter gear and a ladder visible in the foreground."
 geo:
   address: ''
   lat: 29.91685

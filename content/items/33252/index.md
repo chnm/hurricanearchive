@@ -23,6 +23,8 @@ files:
     original_filename: 1231327908_1ae93b41ce.jpg
     thumb: /files/thumbnails/14fb29cb24dba514fb29cb24df82.jpg
     url: /files/original/14fb29cb24dba514fb29cb24df82.jpg
+    alt:
+      en: "A weathered two-story corner building with a small second-floor balcony, orange doors, and a hand-painted \"Tony's\" sign listing cold beer, cigarettes, coffee, and sandwiches; a pile of fresh lumber sits on the sidewalk out front."
 geo:
 id: 33252
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0092abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef947d3a14fb29ef94811e.jpg
     url: /files/original/14fb29ef947d3a14fb29ef94811e.jpg
+    alt:
+      en: "Aerial view of extensive floodwater covering fields and surrounding several houses and trailers, with a line of trees in the background under an overcast sky."
 geo:
 id: 23408
 item_type: Still Image

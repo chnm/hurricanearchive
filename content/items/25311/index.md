@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2038superdome.JPG
     thumb: /files/thumbnails/14fb29df3d6b4f14fb29df3d703c.jpg
     url: /files/original/14fb29df3d6b4f14fb29df3d703c.jpg
+    alt:
+      en: "Military personnel and volunteers assist patients, including an elderly woman in a hospital gown with an IV line, near a chain-link fence and loading area stocked with supply boxes."
 geo:
 id: 25311
 item_type: Still Image

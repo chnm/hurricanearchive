@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29eae3cc7b14fb29eae3cf16.jpg
     url: /files/original/14fb29eae3cc7b14fb29eae3cf16.jpg
+    alt:
+      en: "Aerial view of a coastal marsh landscape with patches of flooded, muddy terrain and white sediment deposits, bordered by a tree-lined strip of land and a faint road."
 geo:
 id: 24095
 item_type: Still Image

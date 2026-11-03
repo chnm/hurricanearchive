@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0057-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a050b4dc214fb2a050b519f.jpg
     url: /files/original/14fb2a050b4dc214fb2a050b519f.jpg
+    alt:
+      en: "Silhouetted profile of a person wearing sunglasses and a striped shirt, seated near an open vehicle window overlooking a flooded, hazy landscape."
 geo:
 id: 20686
 item_type: Still Image

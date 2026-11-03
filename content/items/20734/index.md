@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0067-9-25.JPG
     thumb: /files/thumbnails/14fb2a0432735e14fb2a0432c385.jpg
     url: /files/original/14fb2a0432735e14fb2a0432c385.jpg
+    alt:
+      en: "Aerial view of floodwater submerging a wooded area, with bare and partially drowned trees lining a visible boundary between open water and a denser treed shoreline."
 geo:
 id: 20734
 item_type: Still Image

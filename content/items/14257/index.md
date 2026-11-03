@@ -21,6 +21,8 @@ files:
     original_filename: aerials10.jpg
     thumb: /files/thumbnails/14fb2a1a632b3114fb2a1a632f16.jpg
     url: /files/original/14fb2a1a632b3114fb2a1a632f16.jpg
+    alt:
+      en: "Aerial view of two vehicles stopped at a crossroads surrounded by widespread debris, fallen trees, and scattered wreckage across the landscape."
 geo:
 id: 14257
 item_type: Still Image

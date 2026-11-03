@@ -21,6 +21,8 @@ files:
     original_filename: DSC01150.JPG
     thumb: /files/thumbnails/14fb2a585c86cd14fb2a585c8bb8.jpg
     url: /files/original/14fb2a585c86cd14fb2a585c8bb8.jpg
+    alt:
+      en: "A uniformed service member in camouflage and sunglasses holds a rifle in the foreground, with a damaged high-rise building bearing a \"Galleria\" sign visible in the background under a clear sky."
 geo:
 id: 4033
 item_type: Still Image

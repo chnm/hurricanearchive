@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0101.JPG
     thumb: /files/thumbnails/14fb2a55924e0e14fb2a559251f7.jpg
     url: /files/original/14fb2a55924e0e14fb2a559251f7.jpg
+    alt:
+      en: "A large fallen pine tree with reddish-brown needles lies across a debris-strewn yard, with a collapsed roof structure on the left and an overturned appliance or vehicle on the right."
 geo:
 id: 4789
 item_type: Still Image

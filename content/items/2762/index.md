@@ -21,6 +21,8 @@ files:
     original_filename: 57.jpg
     thumb: /files/thumbnails/14fb2a604d5a1c14fb2a604d5e01.jpg
     url: /files/original/14fb2a604d5a1c14fb2a604d5e01.jpg
+    alt:
+      en: "Child's crayon drawing of a blue house with windows and a bicycle outline, labeled \"Jonatran age 5\" and \"New Orleans\" in red and purple text, with yellow streaks across the background."
 geo:
 id: 2762
 item_type: Still Image

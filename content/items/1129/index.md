@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27995.jpg
     thumb: /files/thumbnails/14fb2a6ae073fb14fb2a6ae077e1.jpg
     url: /files/original/14fb2a6ae073fb14fb2a6ae077e1.jpg
+    alt:
+      en: "A large uprooted tree lies across a sidewalk amid debris and broken concrete slabs, with houses and other fallen trees visible in the background under a hazy sky."
 geo:
   address: ''
   lat: 0.0

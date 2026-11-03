@@ -21,6 +21,8 @@ files:
     original_filename: LionelPowell-5843_485f06bccc.jpg
     thumb: /files/thumbnails/14fb29d9153eb514fb29d915429a.jpg
     url: /files/original/14fb29d9153eb514fb29d915429a.jpg
+    alt:
+      en: "A wedding party poses before a heart-shaped floral arch, with the bride and groom in white at center, surrounded by bridesmaids in blue satin gowns, groomsmen in white tuxedos, and young flower girls and a ring bearer seated in front; the photo shows significant water damage along its edges."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

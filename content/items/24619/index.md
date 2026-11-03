@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0128-21.JPG
     thumb: /files/thumbnails/14fb29e617ae0214fb29e617b1e9.jpg
     url: /files/original/14fb29e617ae0214fb29e617b1e9.jpg
+    alt:
+      en: "Several U.S. Army soldiers in camouflage fatigues stand and walk near a parked Humvee on a paved street, with brick walls and trees in the background."
 geo:
 id: 24619
 item_type: Still Image

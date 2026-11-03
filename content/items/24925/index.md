@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1420superdome.JPG
     thumb: /files/thumbnails/14fb29e3daa68714fb29e3daa97e.jpg
     url: /files/original/14fb29e3daa68714fb29e3daa97e.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand near an \"Event Services\" golf cart and a military truck loaded with evacuees under a covered structure, with a crowd gathered above."
 geo:
 id: 24925
 item_type: Still Image

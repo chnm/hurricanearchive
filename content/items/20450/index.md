@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017-20.JPG
     thumb: /files/thumbnails/14fb2a071e2bbc14fb2a071e2fa0.jpg
     url: /files/original/14fb2a071e2bbc14fb2a071e2fa0.jpg
+    alt:
+      en: "A man in military camouflage fatigues with an American flag patch eats from a styrofoam tray containing rice, peas, and a roll, seated at a table under a large tent."
 geo:
 id: 20450
 item_type: Still Image

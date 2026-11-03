@@ -21,6 +21,8 @@ files:
     original_filename: 09210016iwojima.JPG
     thumb: /files/thumbnails/14fb2a11750e1b14fb2a11751201.jpg
     url: /files/original/14fb2a11750e1b14fb2a11751201.jpg
+    alt:
+      en: "A large gray military amphibious assault ship with a flight deck and tall superstructure sails across open water, with a tree-lined shoreline visible in the distance."
 geo:
 id: 19266
 item_type: Still Image

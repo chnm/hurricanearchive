@@ -21,6 +21,8 @@ files:
     original_filename: Picture 070cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bde21a214fb2a0bde2588.jpg
     url: /files/original/14fb2a0bde21a214fb2a0bde2588.jpg
+    alt:
+      en: "A convoy of military vehicles, including a Humvee with an orange warning triangle, travels along a highway bridge under a partly cloudy sky, viewed from inside another vehicle."
 geo:
 id: 19973
 item_type: Still Image

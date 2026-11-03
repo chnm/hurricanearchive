@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0447.JPG
     thumb: /files/thumbnails/14fb2a53e6a4ea14fb2a53e6a8d0.jpg
     url: /files/original/14fb2a53e6a4ea14fb2a53e6a8d0.jpg
+    alt:
+      en: "Concrete slab foundation remains after a structure was destroyed, with a blue drain cover, scattered debris, and bare, damaged trees in the background."
 geo:
 id: 5102
 item_type: Still Image

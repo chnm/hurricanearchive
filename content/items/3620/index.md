@@ -24,6 +24,8 @@ files:
     original_filename: P1010054.JPG
     thumb: /files/thumbnails/14fb2a5a9ba14514fb2a5a9ba520.jpg
     url: /files/original/14fb2a5a9ba14514fb2a5a9ba520.jpg
+    alt:
+      en: "Empty interior room with a reflective tiled floor, cinderblock walls, and a row of large windows with venetian blinds letting in bright light; ceiling tiles are missing in places."
 geo:
 id: 3620
 item_type: Still Image

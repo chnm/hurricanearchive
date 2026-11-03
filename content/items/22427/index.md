@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1266Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f67d6ecc14fb29f67d72a9.jpg
     url: /files/original/14fb29f67d6ecc14fb29f67d72a9.jpg
+    alt:
+      en: "Rain-streaked window view of a white clapboard building and fence, with floodwater visible pooling in the yard and street beyond."
 geo:
 id: 22427
 item_type: Still Image

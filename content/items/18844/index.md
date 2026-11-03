@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0065ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a14f31a1614fb2a14f31ded.jpg
     url: /files/original/14fb2a14f31a1614fb2a14f31ded.jpg
+    alt:
+      en: "Aerial view of a low-rise residential neighborhood with a blue-legged \"ARABI\" water tower, industrial buildings and a river visible in the hazy background."
 geo:
 id: 18844
 item_type: Still Image

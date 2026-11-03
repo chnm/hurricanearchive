@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28111.jpg
     thumb: /files/thumbnails/14fb2a69be80f414fb2a69be88d1.jpg
     url: /files/original/14fb2a69be80f414fb2a69be88d1.jpg
+    alt:
+      en: "A vintage blue car sits buried under debris, fallen branches, and twisted corrugated metal roofing, with two damaged houses visible in the background."
 geo:
   address: ''
   lat: 0.0

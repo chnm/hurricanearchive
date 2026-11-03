@@ -20,6 +20,8 @@ files:
     original_filename: 114539111_7837cc0122.jpg
     thumb: /files/thumbnails/14fb29d186eb9114fb29d186f1a6.jpg
     url: /files/original/14fb29d186eb9114fb29d186f1a6.jpg
+    alt:
+      en: "Water-damaged room with peeling, stained wood paneling, a torn curtain hanging from a barred window, an overturned wooden chair, and a wall-mounted telephone with dangling cord."
 geo:
 id: 28701
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0057OEP.JPG
     thumb: /files/thumbnails/14fb29f1be2fa414fb29f1be3391.jpg
     url: /files/original/14fb29f1be2fa414fb29f1be3391.jpg
+    alt:
+      en: "Outdoor media/work setup with folding camp chairs, a cooler, camera tripods, and audio equipment on a grassy area, with a man in sunglasses using a laptop nearby."
 geo:
 id: 23047
 item_type: Still Image

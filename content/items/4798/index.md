@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0110.JPG
     thumb: /files/thumbnails/14fb2a557da9b414fb2a557dad8f.jpg
     url: /files/original/14fb2a557da9b414fb2a557dad8f.jpg
+    alt:
+      en: "Exposed wood ceiling joists and beams, likely from storm or water damage, with a black plastic tarp draped over a section and a white support post in the foreground."
 geo:
 id: 4798
 item_type: Still Image

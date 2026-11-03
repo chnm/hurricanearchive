@@ -21,6 +21,8 @@ files:
     original_filename: 09240024rita.JPG
     thumb: /files/thumbnails/14fb2a0eaa0b9814fb2a0eaa0f4e.jpg
     url: /files/original/14fb2a0eaa0b9814fb2a0eaa0f4e.jpg
+    alt:
+      en: "Large blue-and-white striped event tent sags and partially collapses on a wooden platform with benches, surrounded by muddy, flooded ground and a \"Southwest\" warehouse building in the background."
 geo:
 id: 19623
 item_type: Still Image

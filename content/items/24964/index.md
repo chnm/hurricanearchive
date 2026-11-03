@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1482superdome.JPG
     thumb: /files/thumbnails/14fb29e3919aa514fb29e391a13a.jpg
     url: /files/original/14fb29e3919aa514fb29e391a13a.jpg
+    alt:
+      en: "A U.S. Army aviator in flight helmet and gear stands beside a military helicopter, with bottled water and supplies visible stacked inside the open cargo door."
 geo:
 id: 24964
 item_type: Still Image

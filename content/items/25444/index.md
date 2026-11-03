@@ -21,6 +21,8 @@ files:
     original_filename: S4300065.JPG
     thumb: /files/thumbnails/14fb29dd9e956e14fb29dd9e9cd4.jpg
     url: /files/original/14fb29dd9e956e14fb29dd9e9cd4.jpg
+    alt:
+      en: "Close-up of a military Chinook helicopter's fuselage and rotor blade on a tarmac, with a uniformed service member standing nearby and support vehicles parked in the background."
 geo:
 id: 25444
 item_type: Still Image

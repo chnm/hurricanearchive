@@ -21,6 +21,8 @@ files:
     original_filename: S4300056superdome.JPG
     thumb: /files/thumbnails/14fb29ddf9cfcd14fb29ddf9d3bd.jpg
     url: /files/original/14fb29ddf9cfcd14fb29ddf9d3bd.jpg
+    alt:
+      en: "Large crowd gathered outside the New Orleans Centre building, with metal barricades, stacked water bottles, National Guard members, and American and Texas flags visible near the entrance."
 geo:
 id: 25415
 item_type: Still Image

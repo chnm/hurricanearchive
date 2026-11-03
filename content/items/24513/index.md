@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0108-21.JPG
     thumb: /files/thumbnails/14fb29e73126d514fb29e7312ab2.jpg
     url: /files/original/14fb29e73126d514fb29e7312ab2.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work at folding tables set up as a command center, with desk signs reading \"JAG,\" \"ENG,\" \"ENGINEER,\" and \"J-3 AIR\" amid laptops, papers, and equipment cases."
 geo:
 id: 24513
 item_type: Still Image

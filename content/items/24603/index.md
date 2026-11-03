@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0125-21-2.JPG
     thumb: /files/thumbnails/14fb29e63b888d14fb29e63b8c71.jpg
     url: /files/original/14fb29e63b888d14fb29e63b8c71.jpg
+    alt:
+      en: "A man in a woodland camouflage U.S. Air Force uniform with a nametape reading \"ALBERT\" looks off to the side in a dimly lit indoor setting."
 geo:
 id: 24603
 item_type: Still Image

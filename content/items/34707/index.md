@@ -20,6 +20,8 @@ files:
     original_filename: 2433989617_8feffa89a5.
     thumb: /files/thumbnails/14fb29c962347f14fb29c9623858.jpg
     url: /files/original/14fb29c962347f14fb29c9623858.jpg
+    alt:
+      en: "A wrecked white car with \"EuroSport VR\" lettering and a mangled green truck chassis sit amid debris on a shoreline, with a calm bay and distant city skyline in the background."
 geo:
 id: 34707
 item_type: Still Image

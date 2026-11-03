@@ -21,6 +21,8 @@ files:
     original_filename: DSC01071.JPG
     thumb: /files/thumbnails/14fb2a58a83e9c14fb2a58a84292.jpg
     url: /files/original/14fb2a58a83e9c14fb2a58a84292.jpg
+    alt:
+      en: "Rescue workers in life vests navigate boats through a flooded street lined with traffic lights, trees, and buildings, with a timestamp reading \"5 9:34 AM\" in the corner."
 geo:
 id: 3981
 item_type: Still Image

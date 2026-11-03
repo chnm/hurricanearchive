@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-41_26a3ee0db3.jpg
     thumb: /files/thumbnails/14fb2a16195f1414fb2a161962f9.jpg
     url: /files/original/14fb2a16195f1414fb2a161962f9.jpg
+    alt:
+      en: "Water-damaged close-up photo of a smiling bride and groom at their wedding, the image edges deteriorated and discolored with visible mold or water staining."
 geo:
 id: 15507
 item_type: Still Image

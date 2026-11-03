@@ -21,6 +21,8 @@ files:
     original_filename: Picture1.png
     thumb: /files/thumbnails/14fb29fc2bd64e14fb29fc2bda35.jpg
     url: /files/original/14fb29fc2bd64e14fb29fc2bda35.jpg
+    alt:
+      en: "Three men in camouflage pants stand in a muddy, debris-covered clearing, one operating a chainsaw, surrounded by large fallen trees and broken branches from storm damage."
 geo:
 id: 21724
 item_type: Still Image

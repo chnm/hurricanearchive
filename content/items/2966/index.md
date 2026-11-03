@@ -21,6 +21,8 @@ files:
     original_filename: MVC-021S.JPG
     thumb: /files/thumbnails/14fb2a5f5d591014fb2a5f5d5d33.jpg
     url: /files/original/14fb2a5f5d591014fb2a5f5d5d33.jpg
+    alt:
+      en: "A damaged Navy aircraft marked \"146898,\" \"USS MIDWAY NAVY VFP-63,\" with a torn and crumpled wing, parked on pavement."
 geo:
 id: 2966
 item_type: Still Image

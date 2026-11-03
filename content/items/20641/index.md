@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048-15.JPG
     thumb: /files/thumbnails/14fb2a057ca2a614fb2a057ca68b.jpg
     url: /files/original/14fb2a057ca2a614fb2a057ca68b.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses partially submerged in murky water, surrounded by damaged trees, floating debris, and submerged vehicles; a large building with columns stands in the background."
 geo:
 id: 20641
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0296.JPG
     thumb: /files/thumbnails/14fb2a54cb927c14fb2a54cb9657.jpg
     url: /files/original/14fb2a54cb927c14fb2a54cb9657.jpg
+    alt:
+      en: "Interior view of a basement or crawlspace showing exposed wooden ceiling joists, electrical wiring, and a water-stained white wall with visible mold spots and damage."
 geo:
 id: 4954
 item_type: Still Image

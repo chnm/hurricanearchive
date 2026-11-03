@@ -21,6 +21,8 @@ files:
     original_filename: Picture 197cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b54a8c014fb2a0b54b083.jpg
     url: /files/original/14fb2a0b54a8c014fb2a0b54b083.jpg
+    alt:
+      en: "Grassy roadside area with tall pine trees, some downed branches and tree debris piled on the ground, a paved road in the foreground, and a highway overpass visible in the distance."
 geo:
 id: 20100
 item_type: Still Image

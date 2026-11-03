@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2239engineers.JPG
     thumb: /files/thumbnails/14fb2a10a8387714fb2a10a83c5e.jpg
     url: /files/original/14fb2a10a8387714fb2a10a83c5e.jpg
+    alt:
+      en: "Man in camouflage military uniform and white hard hat sits inside a vehicle cab with an open yellow door, looking out at tree branches resting against the vehicle."
 geo:
 id: 19378
 item_type: Still Image

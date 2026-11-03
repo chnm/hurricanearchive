@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0231.JPG
     thumb: /files/thumbnails/14fb2a54fa52f814fb2a54fa56df.jpg
     url: /files/original/14fb2a54fa52f814fb2a54fa56df.jpg
+    alt:
+      en: "Debris field from storm damage, including a foundation outline of cinder blocks, scattered appliances, and household wreckage amid dead grass, with bare trees in the background."
 geo:
 id: 4912
 item_type: Still Image

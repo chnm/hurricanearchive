@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0124.JPG
     thumb: /files/thumbnails/14fb2a5556f97814fb2a5556fd5e.jpg
     url: /files/original/14fb2a5556f97814fb2a5556fd5e.jpg
+    alt:
+      en: "A large fallen tree crushes the roof and side of a white house, with broken branches and debris scattered across the yard; a small American flag stands near a propane tank in the foreground."
 geo:
 id: 4811
 item_type: Still Image

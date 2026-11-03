@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0059engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a10705f1b14fb2a107070ad.jpg
     url: /files/original/14fb2a10705f1b14fb2a107070ad.jpg
+    alt:
+      en: "A damaged bridge section over water, with a man in a \"Grand Isle\" cap and radio harness in the foreground, military personnel in camouflage gathered near orange safety barriers, and vehicles parked on the roadway."
 geo:
 id: 19412
 item_type: Still Image

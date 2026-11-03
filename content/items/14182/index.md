@@ -21,6 +21,8 @@ files:
     original_filename: SGT Womack 26SEP2005.JPG
     thumb: /files/thumbnails/14fb2a1adec80f14fb2a1adecbee.jpg
     url: /files/original/14fb2a1adec80f14fb2a1adecbee.jpg
+    alt:
+      en: "A man wearing glasses and a camouflage military uniform with a \"WOMACK\" name tape and \"U.S. ARMY\" patch, with a chain-link fence and brick building in the background; the photo is timestamped 09.26.2005."
 geo:
   address: ''
   lat: 0.0

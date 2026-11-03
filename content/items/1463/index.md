@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28644.jpg
     thumb: /files/thumbnails/14fb2a6890b5ad14fb2a6890b995.jpg
     url: /files/original/14fb2a6890b5ad14fb2a6890b995.jpg
+    alt:
+      en: "Cardboard OfficeMax boxes, a plastic-wrapped bundle, and a \"Packaging Peanuts\" box sit on a sidewalk, with a blue street sign reading \"Chief of Police Patrick A. Boudreaux\" mounted on a brick wall behind."
 geo:
   address: ''
   lat: 0.0

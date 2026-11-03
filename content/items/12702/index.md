@@ -21,6 +21,8 @@ files:
     original_filename: 102-20A_2fdc241d1b.jpg
     thumb: /files/thumbnails/14fb2a21ae440314fb2a21ae47ea.jpg
     url: /files/original/14fb2a21ae440314fb2a21ae47ea.jpg
+    alt:
+      en: "Two people hold up a large printed portrait of a man in a dark suit, white shirt, and wide-brimmed hat, rendered in a sepia-toned sketch style."
 geo:
 id: 12702
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0101-21.JPG
     thumb: /files/thumbnails/14fb29e75e766b14fb29e75e7a52.jpg
     url: /files/original/14fb29e75e766b14fb29e75e7a52.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work at tables with laptops and paperwork in a makeshift operations center, with desk signs reading \"J-3 PLANS\" and \"JAG\" visible among tangled cables and equipment."
 geo:
 id: 24475
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: schoolspirit_eef43f8794.jpg
     thumb: /files/thumbnails/14fb29d780b01414fb29d780b3fa.jpg
     url: /files/original/14fb29d780b01414fb29d780b3fa.jpg
+    alt:
+      en: "A 1975 Chalmette High School yearbook page with five photos of teachers and students in classrooms and an assembly, alongside text describing the faculty's role in school life."
 geo:
 id: 26841
 item_type: Still Image

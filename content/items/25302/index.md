@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2029superdome.JPG
     thumb: /files/thumbnails/14fb29df4d76d914fb29df4d8351.jpg
     url: /files/original/14fb29df4d76d914fb29df4d8351.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms carry a person on a stretcher across a wet roadway, with an elevated highway overpass visible in the background."
 geo:
 id: 25302
 item_type: Still Image

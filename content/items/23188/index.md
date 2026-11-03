@@ -21,6 +21,8 @@ files:
     original_filename: P1010008delaware.JPG
     thumb: /files/thumbnails/14fb29f0fa6c2e14fb29f0fa7013.jpg
     url: /files/original/14fb29f0fa6c2e14fb29f0fa7013.jpg
+    alt:
+      en: "Military personnel and a civilian stand among large shrink-wrapped and strapped cargo pallets on an airport tarmac, with camouflage-covered military trucks parked behind them."
 geo:
 id: 23188
 item_type: Still Image

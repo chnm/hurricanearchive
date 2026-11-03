@@ -23,6 +23,8 @@ files:
     original_filename: katrina-eyewall-view-08-29-2005b_b006d28bdb.jpg
     thumb: /files/thumbnails/14fb29c34e698114fb29c34e711f.jpg
     url: /files/original/14fb29c34e698114fb29c34e711f.jpg
+    alt:
+      en: "Aerial view of Hurricane Katrina's eyewall, showing a vast expanse of white storm clouds layered beneath a deep blue sky, photographed from a NOAA hurricane hunter aircraft."
 geo:
 id: 42097
 item_type: Still Image

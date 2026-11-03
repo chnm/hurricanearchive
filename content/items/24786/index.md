@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2108superdome.JPG
     thumb: /files/thumbnails/14fb29e4bc332a14fb29e4bc3711.jpg
     url: /files/original/14fb29e4bc332a14fb29e4bc3711.jpg
+    alt:
+      en: "Several soldiers in camouflage uniforms stand in a dark, covered area near a truck marked \"Shreveport Fire,\" while a civilian in a Harley-Davidson \"Riding Free\" shirt walks past on the right."
 geo:
 id: 24786
 item_type: Still Image

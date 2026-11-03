@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0277downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1429261614fb2a142929c0.jpg
     url: /files/original/14fb2a1429261614fb2a142929c0.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with debris-covered roofs, bare trees, and empty streets, including a gas station and self-storage facility along a nearby road."
 geo:
 id: 18927
 item_type: Still Image

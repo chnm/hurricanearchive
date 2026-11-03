@@ -21,6 +21,8 @@ files:
     original_filename: GBuckley-6199_e36e2a4f65.jpg
     thumb: /files/thumbnails/14fb2a16bcea5514fb2a16bcee3a.jpg
     url: /files/original/14fb2a16bcea5514fb2a16bcee3a.jpg
+    alt:
+      en: "Black-and-white photo of five people posed before a sparkling aluminum Christmas tree: a woman and four girls, with one seated cross-legged in front, all smiling for the camera."
 geo:
 id: 15176
 item_type: Still Image

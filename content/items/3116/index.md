@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (2).JPG
     thumb: /files/thumbnails/14fb2a5ddad07714fb2a5ddad460.jpg
     url: /files/original/14fb2a5ddad07714fb2a5ddad460.jpg
+    alt:
+      en: "Damaged building with exposed rust-colored metal support beams and a partially collapsed roof, parked cars in the foreground, and a street sign near the wreckage."
 geo:
 id: 3116
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 055.jpg
     thumb: /files/thumbnails/14fb29cc76ed3914fb29cc76f127.jpg
     url: /files/original/14fb29cc76ed3914fb29cc76f127.jpg
+    alt:
+      en: "A storm-damaged wooden house with large fallen trees and debris covering its roof and yard, with freshly cut logs stacked in the foreground."
 geo:
 id: 30790
 item_type: Still Image

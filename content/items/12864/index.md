@@ -21,6 +21,8 @@ files:
     original_filename: patrick hesp9-14-05.JPG
     thumb: /files/thumbnails/14fb2a2161da3914fb2a2161dc6c.jpg
     url: /files/original/14fb2a2161da3914fb2a2161dc6c.jpg
+    alt:
+      en: "Silhouetted bare, storm-damaged trees stand against a hazy sky with a large orange sun glowing low on the horizon."
 geo:
 id: 12864
 item_type: Still Image

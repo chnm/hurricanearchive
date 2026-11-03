@@ -23,6 +23,8 @@ files:
     original_filename: 336696265_9194086393.jpg
     thumb: /files/thumbnails/14fb29d4e44ad514fb29d4e44e29.jpg
     url: /files/original/14fb29d4e44ad514fb29d4e44e29.jpg
+    alt:
+      en: "Gravel lot in a residential neighborhood under an overcast sky, with utility poles and power lines, scattered houses with damaged roofs, and trees in the background."
 geo:
 id: 27326
 item_type: Still Image

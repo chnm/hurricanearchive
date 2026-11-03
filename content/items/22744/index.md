@@ -21,6 +21,8 @@ files:
     original_filename: PICT0866Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f449d43a14fb29f449d81f.jpg
     url: /files/original/14fb29f449d43a14fb29f449d81f.jpg
+    alt:
+      en: "Military vehicles and equipment, including camouflage trucks and trailers marked \"OMS #13,\" parked behind a chain-link fence, photographed from inside another military vehicle; dated 09.15.2005."
 geo:
 id: 22744
 item_type: Still Image

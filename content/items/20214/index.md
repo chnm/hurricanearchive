@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0151.JPG
     thumb: /files/thumbnails/14fb2a0ab1fdc314fb2a0ab20221.jpg
     url: /files/original/14fb2a0ab1fdc314fb2a0ab20221.jpg
+    alt:
+      en: "Flood-damaged street strewn with debris and a wrecked van, with leaning utility poles and a tilted streetlight; a military-style bulldozer clears wreckage beneath storm-damaged trees."
 geo:
 id: 20214
 item_type: Still Image

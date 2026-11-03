@@ -23,6 +23,8 @@ files:
     original_filename: 209499929_1468e16dfd.
     thumb: /files/thumbnails/14fb29d420f88b14fb29d420fc70.jpg
     url: /files/original/14fb29d420f88b14fb29d420fc70.jpg
+    alt:
+      en: "Damaged single-story house with a rusted metal roof sits off its foundation, surrounded by overgrown grass, trees, and scattered debris in the yard."
 geo:
   address: ''
   lat: 29.84064

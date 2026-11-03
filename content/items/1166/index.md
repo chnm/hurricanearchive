@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28313.jpg
     thumb: /files/thumbnails/14fb2a6ab397af14fb2a6ab39b8b.jpg
     url: /files/original/14fb2a6ab397af14fb2a6ab39b8b.jpg
+    alt:
+      en: "Collapsed building structure with exposed wooden framing and a twisted metal roof canopy, surrounded by rubble, broken foam blocks, and debris scattered across the ground."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0009.JPG
     thumb: /files/thumbnails/14fb2a0aeafbea14fb2a0aeaffdd.jpg
     url: /files/original/14fb2a0aeafbea14fb2a0aeaffdd.jpg
+    alt:
+      en: "Aerial view of a riverside military-style campus with barracks and institutional buildings, parking lots, and green fields, bordered by a tree line and a wide river with farmland beyond."
 geo:
 id: 20179
 item_type: Still Image

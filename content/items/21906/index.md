@@ -21,6 +21,8 @@ files:
     original_filename: Texaco Inc - Looking South.jpg
     thumb: /files/thumbnails/14fb29fb0e3cb514fb29fb0e409b.jpg
     url: /files/original/14fb29fb0e3cb514fb29fb0e409b.jpg
+    alt:
+      en: "Aerial view of a Texaco tank farm with numerous cylindrical storage tanks along a waterway, bordered by a bridge, residential streets, and docked barges."
 geo:
 id: 21906
 item_type: Still Image

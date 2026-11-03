@@ -21,6 +21,8 @@ files:
     original_filename: RB girl 1947_172bca1b1e.jpg
     thumb: /files/thumbnails/14fb29d7faed5114fb29d7fe3599.jpg
     url: /files/original/14fb29d7faed5114fb29d7fe3599.jpg
+    alt:
+      en: "Aged, cracked photograph of a young girl in a white dress and hat standing near a pavilion with columns, ironwork railings, and trees in the background."
 geo:
   address: ''
   lat: 29.87876

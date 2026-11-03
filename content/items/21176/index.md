@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0191-9-25.JPG
     thumb: /files/thumbnails/14fb2a0033e0ce14fb2a0034249d.jpg
     url: /files/original/14fb2a0033e0ce14fb2a0034249d.jpg
+    alt:
+      en: "Aerial view of military trucks driving along a flooded roadway surrounded by submerged fields, with trees and utility poles partially underwater on either side."
 geo:
 id: 21176
 item_type: Still Image

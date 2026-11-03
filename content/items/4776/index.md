@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0475.JPG
     thumb: /files/thumbnails/14fb2a55a22b9814fb2a55a231aa.jpg
     url: /files/original/14fb2a55a22b9814fb2a55a231aa.jpg
+    alt:
+      en: "An overturned truck lies amid storm debris near a utility pole, with downed trees, scattered litter, and a fallen log in the foreground under a clear blue sky."
 geo:
 id: 4776
 item_type: Still Image

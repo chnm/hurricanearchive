@@ -21,6 +21,8 @@ files:
     original_filename: MVC-001S.JPG
     thumb: /files/thumbnails/14fb2a5ffc845514fb2a5ffc8858.jpg
     url: /files/original/14fb2a5ffc845514fb2a5ffc8858.jpg
+    alt:
+      en: "A military jet aircraft parked on pavement in a lot, with a large hangar displaying a U.S. roundel insignia and ship superstructures visible in the background; an orange traffic cone sits in the foreground."
 geo:
 id: 2810
 item_type: Still Image

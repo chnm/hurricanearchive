@@ -21,6 +21,8 @@ files:
     original_filename: MVC-009S.JPG
     thumb: /files/thumbnails/14fb2a5ff6626314fb2a5ff66650.jpg
     url: /files/original/14fb2a5ff6626314fb2a5ff66650.jpg
+    alt:
+      en: "Crumpled metal wreckage, possibly from a small aircraft, lies on a paved road beside stacked tires, with a tree and chain-link fence in the background near a grassy lawn."
 geo:
 id: 2818
 item_type: Still Image

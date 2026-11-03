@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0264-9-25.JPG
     thumb: /files/thumbnails/14fb29fe8e218c14fb29fe8e2571.jpg
     url: /files/original/14fb29fe8e218c14fb29fe8e2571.jpg
+    alt:
+      en: "Aerial view of a flooded residential and commercial area with houses, metal buildings, and sheds surrounded by brown floodwater, trees, and a small boat carrying two people navigating the inundated street."
 geo:
 id: 21457
 item_type: Still Image

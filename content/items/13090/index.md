@@ -21,6 +21,8 @@ files:
     original_filename: during courtyard3.jpg
     thumb: /files/thumbnails/14fb2a207ce55314fb2a207ce93a.jpg
     url: /files/original/14fb2a207ce55314fb2a207ce93a.jpg
+    alt:
+      en: "Heavy wind-driven rain sweeps through a courtyard with bending trees, empty benches, and a white gazebo with steps, seen through a doorway with a newspaper box reading \"The Sun Herald Times\" in the foreground."
 geo:
 id: 13090
 item_type: Still Image

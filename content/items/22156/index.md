@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-09-8AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f94d7a6914fb29f94d7eb5.jpg
     url: /files/original/14fb29f94d7a6914fb29f94d7eb5.jpg
+    alt:
+      en: "Several vehicles nearly submerged in murky floodwaters, with a streetlamp and tree in the foreground and power lines visible under a hazy, overcast sky."
 geo:
 id: 22156
 item_type: Still Image

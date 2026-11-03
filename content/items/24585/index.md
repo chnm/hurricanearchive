@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0121-9-25.JPG
     thumb: /files/thumbnails/14fb29e669cd0914fb29e669d0d4.jpg
     url: /files/original/14fb29e669cd0914fb29e669d0d4.jpg
+    alt:
+      en: "Aerial view of murky floodwater covering a roadway, with a partially submerged road sign and debris visible near the waterline and trees along the edge."
 geo:
 id: 24585
 item_type: Still Image

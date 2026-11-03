@@ -21,6 +21,8 @@ files:
     original_filename: GBuckley-6195_265a88fc88.jpg
     thumb: /files/thumbnails/14fb2a16c0a19414fb2a16c0a6ad.jpg
     url: /files/original/14fb2a16c0a19414fb2a16c0a6ad.jpg
+    alt:
+      en: "A woman in a floral-print dress and glasses stands beside a boy in a plaid shirt and tan pants on a lawn in front of a single-story house with hedges."
 geo:
 id: 15173
 item_type: Still Image

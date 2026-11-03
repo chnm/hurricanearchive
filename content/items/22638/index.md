@@ -21,6 +21,8 @@ files:
     original_filename: Looking out of Jack Brks 2Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4e8cca914fb29f4e8d430.jpg
     url: /files/original/14fb29f4e8cca914fb29f4e8d430.jpg
+    alt:
+      en: "View through an open exit door of a building reveals extensive floodwater submerging the surrounding area, with debris floating on the water's surface and bare trees visible in the background."
 geo:
 id: 22638
 item_type: Still Image

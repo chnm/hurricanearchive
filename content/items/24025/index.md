@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-15-13AneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ebdc36c314fb29ebdc9b52.jpg
     url: /files/original/14fb29ebdc36c314fb29ebdc9b52.jpg
+    alt:
+      en: "Flooded street lined with buildings and bare trees, viewed from a boat with a pole and dark fabric in the foreground, water reflecting the bright sky."
 geo:
 id: 24025
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20050926017.JPG
     thumb: /files/thumbnails/14fb29e920405c14fb29e9204442.jpg
     url: /files/original/14fb29e920405c14fb29e9204442.jpg
+    alt:
+      en: "Downed utility poles and tangled power lines along a roadside, with a bucket truck and tractor assisting repair crews; a mailbox labeled \"American Press\" stands in the foreground."
 geo:
 id: 24271
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010019.JPG
     thumb: /files/thumbnails/14fb2a5baa1fd714fb2a5baa282a.jpg
     url: /files/original/14fb2a5baa1fd714fb2a5baa282a.jpg
+    alt:
+      en: "A plywood-boarded storefront entrance with a handwritten sign reading \"CLOSED DUE TO FIRE, THANKS FOR 15 YEARS!! HOPE TO SEE YOU SOON!! Mr. Ed\" and a smaller note stating \"We Will Be Back.\""
 geo:
 id: 3451
 item_type: Still Image

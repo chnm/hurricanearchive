@@ -21,6 +21,8 @@ files:
     original_filename: 100_0227.JPG
     thumb: /files/thumbnails/14fb2a58d8a4a514fb2a58d8a87f.jpg
     url: /files/original/14fb2a58d8a4a514fb2a58d8a87f.jpg
+    alt:
+      en: "Waterfront scene with debris piles, damaged structures, and a leaning communications tower in the background; an orange containment boom floats on the water, viewed over a concrete barrier."
 geo:
 id: 3930
 item_type: Still Image

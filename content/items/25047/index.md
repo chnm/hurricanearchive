@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1572superdome.JPG
     thumb: /files/thumbnails/14fb29e2a8437b14fb29e2a84759.jpg
     url: /files/original/14fb29e2a8437b14fb29e2a84759.jpg
+    alt:
+      en: "Flooded parking lot filled with partially submerged civilian cars and military vehicles, including Humvees and camouflage trucks, with a person wading through the water near the center."
 geo:
 id: 25047
 item_type: Still Image

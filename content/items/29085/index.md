@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0631.JPG
     thumb: /files/thumbnails/14fb29d00f208014fb29d00f2461.jpg
     url: /files/original/14fb29d00f208014fb29d00f2461.jpg
+    alt:
+      en: "A severely tilted white house with red trim, its structure visibly collapsing and siding buckled, with caution tape strung across the front and a partial address \"4717 S\" visible on the siding."
 geo:
 id: 29085
 item_type: Still Image

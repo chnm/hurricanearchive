@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0312-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd72ef6714fb29fd72f34b.jpg
     url: /files/original/14fb29fd72ef6714fb29fd72f34b.jpg
+    alt:
+      en: "Aerial view of a flooded residential street with houses surrounded by standing water, scattered debris on a strip of grass, and a red vehicle partially submerged near trees."
 geo:
 id: 21576
 item_type: Still Image

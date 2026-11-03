@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 014.jpg
     thumb: /files/thumbnails/14fb2a22da678f14fb2a22da6bcc.jpg
     url: /files/original/14fb2a22da678f14fb2a22da6bcc.jpg
+    alt:
+      en: "Marina with damaged boat storage shelters and docks, boats scattered among wooden pilings in calm water, dated 2005/09/24 in the corner."
 geo:
 id: 11892
 item_type: Still Image

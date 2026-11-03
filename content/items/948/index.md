@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28737.jpg
     thumb: /files/thumbnails/14fb2a6bfb65fc14fb2a6bfb69e2.jpg
     url: /files/original/14fb2a6bfb65fc14fb2a6bfb69e2.jpg
+    alt:
+      en: "Metal animal pen gate with handwritten signs reading \"No Dog Walking, Cats Get Scared,\" \"No Dog Walking in This Aisle,\" and \"Wait Here to Admit Cats,\" at an animal rescue depot."
 geo:
   address: ''
   lat: 0.0

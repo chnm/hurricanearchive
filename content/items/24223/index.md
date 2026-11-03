@@ -21,6 +21,8 @@ files:
     original_filename: 09140004.JPG
     thumb: /files/thumbnails/14fb29e99371d614fb29e99375b2.jpg
     url: /files/original/14fb29e99371d614fb29e99375b2.jpg
+    alt:
+      en: "Debris-strewn road leads toward an elevated highway overpass under clear blue sky, with vehicles approaching and a dark tarp or cover partially obstructing the right side of the frame."
 geo:
 id: 24223
 item_type: Still Image

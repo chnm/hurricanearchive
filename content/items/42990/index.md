@@ -23,6 +23,8 @@ files:
     original_filename: 1184640_a24649ba26.jpg
     thumb: /files/thumbnails/14fb29c275af8d14fb29c275b372.jpg
     url: /files/original/14fb29c275af8d14fb29c275b372.jpg
+    alt:
+      en: "Two Louisiana National Guardsmen in camouflage uniforms stand near a vehicle outside the Louisiana Superdome, its curved domed roof visible in the background."
 geo:
 id: 42990
 item_type: Still Image

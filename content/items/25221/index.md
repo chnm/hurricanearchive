@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1920superdome.JPG
     thumb: /files/thumbnails/14fb29e0c3296914fb29e0c32d6b.jpg
     url: /files/original/14fb29e0c3296914fb29e0c32d6b.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms on a painted parking lot; one kneels with a large backpack and bedroll, the other crouches nearby with a rifle beside an ammunition can."
 geo:
 id: 25221
 item_type: Still Image

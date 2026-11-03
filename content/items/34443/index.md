@@ -23,6 +23,8 @@ files:
     original_filename: 2326072699_e5867d008e.
     thumb: /files/thumbnails/14fb29ca049bf614fb29ca049fda.jpg
     url: /files/original/14fb29ca049bf614fb29ca049fda.jpg
+    alt:
+      en: "Mud-splattered white SUV labeled \"Fire & Rescue Service\" with red stripe, parked under an elevated highway overpass with people standing nearby."
 geo:
   address: ''
   lat: 30.22586

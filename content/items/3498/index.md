@@ -24,6 +24,8 @@ files:
     original_filename: P1010072.JPG
     thumb: /files/thumbnails/14fb2a5b676d2814fb2a5b67710d.jpg
     url: /files/original/14fb2a5b676d2814fb2a5b67710d.jpg
+    alt:
+      en: "Empty coastal road beside a seawall, with a sparse, wind-damaged tree and a tall streetlight in the foreground, and calm water stretching toward a distant shoreline with small structures."
 geo:
 id: 3498
 item_type: Still Image

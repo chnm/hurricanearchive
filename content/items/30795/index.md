@@ -21,6 +21,8 @@ files:
     original_filename: Picture 060.jpg
     thumb: /files/thumbnails/14fb29cc71ffc814fb29cc7203ab.jpg
     url: /files/original/14fb29cc71ffc814fb29cc7203ab.jpg
+    alt:
+      en: "Storm-damaged roadside with snapped and fallen trees, scattered debris, and a partially crushed camper amid broken branches along a paved road under a blue sky."
 geo:
 id: 30795
 item_type: Still Image

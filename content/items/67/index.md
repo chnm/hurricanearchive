@@ -26,6 +26,8 @@ files:
     original_filename: 100_5407_56fecdc524.JPG
     thumb: /files/thumbnails/14fb2a7126d74514fb2a7126db29.jpg
     url: /files/original/14fb2a7126d74514fb2a7126db29.jpg
+    alt:
+      en: "Debris and broken concrete slabs piled beside a coastal road, with a yellow excavator working near the shoreline under a clear blue sky; dated 09/26/2005."
 geo:
   address: ''
   lat: 29.989731411577104

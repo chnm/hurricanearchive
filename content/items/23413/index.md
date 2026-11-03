@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef8b5b8614fb29ef8b5f65.jpg
     url: /files/original/14fb29ef8b5b8614fb29ef8b5f65.jpg
+    alt:
+      en: "A flooded barn with a damaged, partially collapsed roof sits surrounded by floodwater, with fence posts and wire barely visible above the water's surface in the foreground."
 geo:
 id: 23413
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p1_05_5fb8f2d095.jpg
     thumb: /files/thumbnails/14fb2a177d691514fb2a177d6cfa.jpg
     url: /files/original/14fb2a177d691514fb2a177d6cfa.jpg
+    alt:
+      en: "A young girl in a white outfit dances on a front lawn with one arm raised, in a tree-lined suburban neighborhood with houses in the background, early 1980s."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

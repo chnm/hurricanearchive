@@ -21,6 +21,8 @@ files:
     original_filename: new orleans patrol2.JPG
     thumb: /files/thumbnails/14fb2a1a7bed9914fb2a1a7befcb.jpg
     url: /files/original/14fb2a1a7bed9914fb2a1a7befcb.jpg
+    alt:
+      en: "Flooded city street lined with palm trees and traffic lights reflected in standing water, with the Marriott hotel and other high-rise buildings visible in the background; timestamp \"3:50 PM\" overlays the photo."
 geo:
   address: ''
   lat: 0.0

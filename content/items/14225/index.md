@@ -21,6 +21,8 @@ files:
     original_filename: relief 4.JPG
     thumb: /files/thumbnails/14fb2a1a75420814fb2a1a75452d.jpg
     url: /files/original/14fb2a1a75420814fb2a1a75452d.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues loads bottled water into a car trunk at an outdoor distribution site with a blue canopy tent, stacked supply boxes, and a cargo truck in the background."
 geo:
   address: ''
   lat: 0.0

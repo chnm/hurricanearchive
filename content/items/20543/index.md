@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0648bf5e14fb2a0648c343.jpg
     url: /files/original/14fb2a0648bf5e14fb2a0648c343.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with a damaged house missing roof shingles, surrounded by standing floodwater, debris piles, fallen trees, and patches of grass forming small islands."
 geo:
 id: 20543
 item_type: Still Image

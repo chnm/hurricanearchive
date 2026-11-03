@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1566superdome.JPG
     thumb: /files/thumbnails/14fb29e2b2a16814fb29e2b2a54c.jpg
     url: /files/original/14fb29e2b2a16814fb29e2b2a54c.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather closely inside a tan canvas tent, leaning over to view computer monitors on a desk, with a blue vehicle visible through the tent's open flap."
 geo:
 id: 25041
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6522_46ae952445.jpg
     thumb: /files/thumbnails/14fb29d3ce09fd14fb29d3ce0de0.jpg
     url: /files/original/14fb29d3ce09fd14fb29d3ce0de0.jpg
+    alt:
+      en: "Five family members sit outdoors on folding chairs at a wedding reception, with sheer white curtains behind them; the date \"'98 7 20\" is stamped in the corner."
 geo:
   address: ''
   lat: 29.95493

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1185Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6fd00f414fb29f6fd0522.jpg
     url: /files/original/14fb29f6fd00f414fb29f6fd0522.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and an orange life vest stands on a military vehicle partially submerged in dark water at night, holding a rope attached to another vehicle."
 geo:
 id: 22368
 item_type: Still Image

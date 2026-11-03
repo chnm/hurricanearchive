@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0223.JPG
     thumb: /files/thumbnails/14fb2a137a0bfe14fb2a137a0fe3.jpg
     url: /files/original/14fb2a137a0bfe14fb2a137a0fe3.jpg
+    alt:
+      en: "A helicopter crew member wearing a flight helmet, goggles, and tactical vest sits near the open door, with coiled cables in the foreground and a grassy lawn and building visible outside."
 geo:
 id: 19058
 item_type: Still Image

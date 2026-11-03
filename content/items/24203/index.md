@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29e9ce8af214fb29e9ce8ec5.jpg
     url: /files/original/14fb29e9ce8af214fb29e9ce8ec5.jpg
+    alt:
+      en: "Three men ride a red tractor through a flooded roadway lined with trees, with water rippling around the large tires as it moves forward."
 geo:
 id: 24203
 item_type: Still Image

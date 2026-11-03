@@ -21,6 +21,8 @@ files:
     original_filename: begin front courtyard2.jpg
     thumb: /files/thumbnails/14fb2a20a25bf514fb2a20a25fdb.jpg
     url: /files/original/14fb2a20a25bf514fb2a20a25fdb.jpg
+    alt:
+      en: "Empty courtyard with wind-bent trees, benches, and a white gazebo barely visible through heavy rain and fog; a newspaper vending box reading \"The New York Times\" sits in the foreground."
 geo:
 id: 13063
 item_type: Still Image

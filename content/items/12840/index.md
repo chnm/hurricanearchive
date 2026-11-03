@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward 9-18-6.JPG
     thumb: /files/thumbnails/14fb2a218b1d4f14fb2a218b2136.jpg
     url: /files/original/14fb2a218b1d4f14fb2a218b2136.jpg
+    alt:
+      en: "Floodwater surrounds a damaged house with a partially collapsed roof, bare and leafy trees in the background, under an overcast sky."
 geo:
 id: 12840
 item_type: Still Image

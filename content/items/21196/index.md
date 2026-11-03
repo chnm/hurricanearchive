@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0195-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a00087b4214fb2a00087f27.jpg
     url: /files/original/14fb2a00087b4214fb2a00087f27.jpg
+    alt:
+      en: "Two men outdoors, one in an orange plaid shirt drinking from a Bud Light bottle, another in a cap and sunglasses nearby, with tree branches and a bright sky in the background."
 geo:
 id: 21196
 item_type: Still Image

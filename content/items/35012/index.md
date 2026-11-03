@@ -20,6 +20,8 @@ files:
     original_filename: 2297822693_947d110522.
     thumb: /files/thumbnails/14fb29c77a797a14fb29c77a7d56.jpg
     url: /files/original/14fb29c77a797a14fb29c77a7d56.jpg
+    alt:
+      en: "A young man in a cap and work shirt with a \"Schlitz\" name patch kneels beside a cardboard box in a workshop filled with bicycles, milk crates, and spare parts."
 geo:
 id: 35012
 item_type: Still Image

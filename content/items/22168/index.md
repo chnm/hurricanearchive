@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-21-20AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f944766414fb29f9447a49.jpg
     url: /files/original/14fb29f944766414fb29f9447a49.jpg
+    alt:
+      en: "Heavy rain obscures a parking lot of several SUVs and trucks, with power lines, utility poles, and distant buildings faintly visible through the downpour."
 geo:
 id: 22168
 item_type: Still Image

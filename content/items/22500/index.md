@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1341Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5ce175b14fb29f5ce1b41.jpg
     url: /files/original/14fb29f5ce175b14fb29f5ce1b41.jpg
+    alt:
+      en: "Floodwater submerges a street and partially covers traffic signals and utility poles, with wind-bent trees and a gray, overcast sky in the background."
 geo:
 id: 22500
 item_type: Still Image

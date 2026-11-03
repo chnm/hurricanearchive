@@ -21,6 +21,8 @@ files:
     original_filename: DSC01172.JPG
     thumb: /files/thumbnails/14fb2a583c560614fb2a583c59da.jpg
     url: /files/original/14fb2a583c560614fb2a583c59da.jpg
+    alt:
+      en: "Large domed stadium with a weathered roof seen from a highway, with helicopters parked near its base, trees in the foreground, and a timestamp reading \"7 10:23 AM\" in the corner."
 geo:
 id: 4047
 item_type: Still Image

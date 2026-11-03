@@ -27,6 +27,8 @@ files:
     original_filename: Sugar And Spice
     thumb: /files/thumbnails/14fb2a6071b36814fb2a6071b74e.jpg
     url: /files/original/14fb2a6071b36814fb2a6071b74e.jpg
+    alt:
+      en: "A child's crayon drawing shows three green trees on a grassy field under a blue sky with clouds, birds, and a sun, with the handwritten text \"Sugar in spice in texas.\""
 geo:
 id: 2717
 item_type: Still Image

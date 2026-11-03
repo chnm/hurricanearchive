@@ -21,6 +21,8 @@ files:
     original_filename: 100-15_c679a94f98.jpg
     thumb: /files/thumbnails/14fb2a21d8fa1a14fb2a21d8fe00.jpg
     url: /files/original/14fb2a21d8fa1a14fb2a21d8fe00.jpg
+    alt:
+      en: "Faded vintage photograph of a family gathering indoors, with several children and adults in light-colored clothing, two young girls eating food, and a wood-paneled room visible in the background."
 geo:
 id: 12667
 item_type: Still Image

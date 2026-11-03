@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 173cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd1bec114fb2a0dd1c2a7.jpg
     url: /files/original/14fb2a0dd1bec114fb2a0dd1c2a7.jpg
+    alt:
+      en: "A high-rise office building with a dark glass curtain wall, many panes shattered or missing with debris hanging from the frames; green tree branches are visible in the foreground."
 geo:
 id: 19786
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27860.jpg
     thumb: /files/thumbnails/14fb2a6751c7de14fb2a6751cbaf.jpg
     url: /files/original/14fb2a6751c7de14fb2a6751cbaf.jpg
+    alt:
+      en: "Flooded yard on Rouen Street near Chauvin, Louisiana, with standing water surrounding a white house, a boat on a trailer, and a dark pickup truck parked in the driveway."
 geo:
   address: ''
   lat: 0.0

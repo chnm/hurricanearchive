@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0298-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd95660914fb29fd956c68.jpg
     url: /files/original/14fb29fd95660914fb29fd956c68.jpg
+    alt:
+      en: "Aerial view of a flooded football stadium and surrounding buildings, with bleachers and goal posts partially submerged amid floodwaters extending toward nearby homes and fields."
 geo:
 id: 21562
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 1SG Lawrence Marold.JPG
     thumb: /files/thumbnails/14fb29e92d62d614fb29e92d66c7.jpg
     url: /files/original/14fb29e92d62d614fb29e92d66c7.jpg
+    alt:
+      en: "Man in U.S. Army woodland camouflage uniform with name tape reading \"MAROLD\" stands outside a building with a pebbled concrete facade; timestamp reads 09.26.2005 14:27."
 geo:
 id: 24264
 item_type: Still Image

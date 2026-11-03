@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1915superdome.JPG
     thumb: /files/thumbnails/14fb29e0cbf6b114fb29e0cbfc1d.jpg
     url: /files/original/14fb29e0cbf6b114fb29e0cbfc1d.jpg
+    alt:
+      en: "Military helicopter marked \"O-21930\" parked on pavement, with a uniformed crew member seated in the open cockpit amid visible gear including a first aid bag and fire extinguisher."
 geo:
 id: 25216
 item_type: Still Image

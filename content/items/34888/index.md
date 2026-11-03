@@ -20,6 +20,8 @@ files:
     original_filename: 2456726243_557cf48860.
     thumb: /files/thumbnails/14fb29c8b46db314fb29c8b47199.jpg
     url: /files/original/14fb29c8b46db314fb29c8b47199.jpg
+    alt:
+      en: "A yellow excavator with tracks sits on muddy, disturbed ground, its bucket lowered into the dirt, with a line of trees and blue sky in the background."
 geo:
 id: 34888
 item_type: Still Image

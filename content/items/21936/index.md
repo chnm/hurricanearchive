@@ -21,6 +21,8 @@ files:
     original_filename: Picture 267-J2.jpg
     thumb: /files/thumbnails/14fb29faed30e014fb29faed34c6.jpg
     url: /files/original/14fb29faed30e014fb29faed34c6.jpg
+    alt:
+      en: "Floodwater pools against a long concrete seawall near an industrial facility with smokestacks, with coiled hoses, equipment, and a vehicle parked along the wet roadway under power lines."
 geo:
 id: 21936
 item_type: Still Image

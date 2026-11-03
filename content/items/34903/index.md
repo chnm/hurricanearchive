@@ -20,6 +20,8 @@ files:
     original_filename: 2457540832_f6caa5a37d.
     thumb: /files/thumbnails/14fb29c895ae6014fb29c895b00b.jpg
     url: /files/original/14fb29c895ae6014fb29c895b00b.jpg
+    alt:
+      en: "Construction site with a yellow excavator and bulldozer moving earth near large black pipes laid in a trench, with a chain-link fence, palm trees, and city buildings in the background."
 geo:
 id: 34903
 item_type: Still Image

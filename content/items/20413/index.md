@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a07c51f2414fb2a07c56eaa.jpg
     url: /files/original/14fb2a07c51f2414fb2a07c56eaa.jpg
+    alt:
+      en: "A single-story building with a blue tarp covering storm-damaged roof, painted sign reading \"Suire's Grocery & Restaurant\" and an alligator mural on the wall, with three cars parked in front."
 geo:
 id: 20413
 item_type: Still Image

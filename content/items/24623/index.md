@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0129-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e60efc3b14fb29e60effc8.jpg
     url: /files/original/14fb29e60efc3b14fb29e60effc8.jpg
+    alt:
+      en: "A white single-story house surrounded by floodwater, with a damaged porch, a basketball hoop, and fallen trees in the background under a clear sky."
 geo:
 id: 24623
 item_type: Still Image

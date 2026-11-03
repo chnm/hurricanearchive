@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28093.jpg
     thumb: /files/thumbnails/14fb2a6949b1f714fb2a6949b5df.jpg
     url: /files/original/14fb2a6949b1f714fb2a6949b5df.jpg
+    alt:
+      en: "Damaged McDonald's sign with bent golden arches atop a pole, the lower letter panel missing, set against a gray sky and crossed by power lines."
 geo:
   address: ''
   lat: 0.0

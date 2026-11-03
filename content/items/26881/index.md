@@ -21,6 +21,8 @@ files:
     original_filename: 98administration_25d74c6f15.jpg
     thumb: /files/thumbnails/14fb29d6c283f214fb29d6c28b53.jpg
     url: /files/original/14fb29d6c283f214fb29d6c28b53.jpg
+    alt:
+      en: "Black-and-white yearbook photo of four smiling administrators standing before shelves of owl figurines, captioned \"The four administrators, Mr. Serigne, Ms. Mundt, Mr. Warner, and Mr. Suhor pose at the start of a great school year.\""
 geo:
 id: 26881
 item_type: Still Image

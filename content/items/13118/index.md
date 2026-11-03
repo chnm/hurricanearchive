@@ -21,6 +21,8 @@ files:
     original_filename: george 3.jpg
     thumb: /files/thumbnails/14fb2a205006d114fb2a20500aba.jpg
     url: /files/original/14fb2a205006d114fb2a20500aba.jpg
+    alt:
+      en: "A person wearing a helmet, goggles, and a yellow and black jacket leans over a metal railing, with a blurred structure visible in the hazy background."
 geo:
 id: 13118
 item_type: Still Image

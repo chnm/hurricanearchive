@@ -21,6 +21,8 @@ files:
     original_filename: MVC-014S.JPG
     thumb: /files/thumbnails/14fb2a5f75e28414fb2a5f75f2ff.jpg
     url: /files/original/14fb2a5f75e28414fb2a5f75f2ff.jpg
+    alt:
+      en: "A Coast Guard helicopter marked \"2\" and \"U.S. COAST GUARD\" sits on a grassy display mount, with another small aircraft and city buildings visible in the background under a clear blue sky."
 geo:
 id: 2959
 item_type: Still Image

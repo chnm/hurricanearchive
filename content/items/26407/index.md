@@ -24,6 +24,8 @@ files:
     original_filename: HS 6 Sazerac Bar 1934_eb4e739380.jpg
     thumb: /files/thumbnails/14fb29d88dc6b614fb29d88dccc3.jpg
     url: /files/original/14fb29d88dc6b614fb29d88dccc3.jpg
+    alt:
+      en: "Sepia-toned 1934 photograph of five uniformed bartenders behind the counter at Sazerac Bar, with two men in suits and hats standing at the bar; signage reads \"5¢,\" \"Gin Fizz a Specialty,\" and \"Regal Lager on Tap.\""
 geo:
   address: ''
   lat: 29.91685

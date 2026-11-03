@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0226-9-25.JPG
     thumb: /files/thumbnails/14fb29ff87487114fb29ff874c57.jpg
     url: /files/original/14fb29ff87487114fb29ff874c57.jpg
+    alt:
+      en: "Aerial view of a rural property with a single-story house, a storage shed, a carport with a rusted roof, and a trailer, surrounded by mowed grass, farmland, and a roadside drainage canal."
 geo:
 id: 21318
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1255Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f698a25f14fb29f698a642.jpg
     url: /files/original/14fb29f698a25f14fb29f698a642.jpg
+    alt:
+      en: "Three people in military camouflage uniforms sit around a table with water bottles and papers, one speaking on a cell phone, with a map labeled \"Louisiana\" mounted on the wall behind them."
 geo:
 id: 22416
 item_type: Still Image

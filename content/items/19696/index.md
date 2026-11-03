@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 083cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e55605f14fb2a0e556446.jpg
     url: /files/original/14fb2a0e55605f14fb2a0e556446.jpg
+    alt:
+      en: "Dead, browned shrubs and fallen branches line a curb beneath a large tree with green leaves, with a partially visible sign reading \"RT\" in the background and a palm tree and debris-strewn field beyond."
 geo:
 id: 19696
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: looking north2.jpg
     thumb: /files/thumbnails/14fb2a2043e54b14fb2a2043e8fb.jpg
     url: /files/original/14fb2a2043e54b14fb2a2043e8fb.jpg
+    alt:
+      en: "Heavy rain and fog obscure a view from an elevated balcony overlooking low buildings, a streetlight, and a highway overpass in the distance."
 geo:
 id: 13126
 item_type: Still Image

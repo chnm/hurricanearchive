@@ -21,6 +21,8 @@ files:
     original_filename: Lakeview 10-29-3.JPG
     thumb: /files/thumbnails/14fb2a21675a6114fb2a21675e42.jpg
     url: /files/original/14fb2a21675a6114fb2a21675e42.jpg
+    alt:
+      en: "An overturned boat lies amid storm debris in front of a damaged house, with bare, mud-coated trees and a fallen fence in the background."
 geo:
 id: 12858
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2153_eac8f7b7d8.JPG
     thumb: /files/thumbnails/14fb2a70d784a614fb2a70d7888a.jpg
     url: /files/original/14fb2a70d784a614fb2a70d7888a.jpg
+    alt:
+      en: "Textured ceiling with extensive dark mold staining spreading across its surface, viewed near a ceiling fan with light fixtures and a yellow wall with a window below."
 geo:
   address: ''
   lat: 30.030902

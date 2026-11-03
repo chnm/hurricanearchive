@@ -21,6 +21,8 @@ files:
     original_filename: Resupply 2 at NAS NONASneworleans.jpg
     thumb: /files/thumbnails/14fb29f243fdd614fb29f24401ba.jpg
     url: /files/original/14fb29f243fdd614fb29f24401ba.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms and orange safety vests push a stacked pallet of supplies across a paved lot, as a yellow forklift and large piles of crated goods sit under open-sided canopy structures nearby."
 geo:
 id: 22989
 item_type: Still Image

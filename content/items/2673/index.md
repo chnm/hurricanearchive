@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9275.jpg
     thumb: /files/thumbnails/14fb2a60a0646c14fb2a60a0685a.jpg
     url: /files/original/14fb2a60a0646c14fb2a60a0685a.jpg
+    alt:
+      en: "Flooded cattle pasture with a leaning wooden gate and fence posts standing in standing water, dried grass visible on low ridges, under a pale evening sky."
 geo:
 id: 2673
 item_type: Still Image

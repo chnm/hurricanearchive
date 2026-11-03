@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29f01b2ca714fb29f01b308d.jpg
     url: /files/original/14fb29f01b2ca714fb29f01b308d.jpg
+    alt:
+      en: "A police car sits on a flooded road beside a displaced mobile home resting at an angle in standing water, with a man standing near it and a livestock trailer in the foreground."
 geo:
 id: 23289
 item_type: Still Image

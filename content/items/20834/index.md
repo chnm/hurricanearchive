@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0088-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a03588a5a14fb2a03589be9.jpg
     url: /files/original/14fb2a03588a5a14fb2a03589be9.jpg
+    alt:
+      en: "Aerial view of a flooded, storm-ravaged coastal landscape with debris-strewn, leafless trees, scattered destroyed structures, and a submerged roadway running through standing floodwater."
 geo:
 id: 20834
 item_type: Still Image

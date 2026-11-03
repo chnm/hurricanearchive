@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7470.JPG
     thumb: /files/thumbnails/14fb29cc954d9014fb29cc955176.jpg
     url: /files/original/14fb29cc954d9014fb29cc955176.jpg
+    alt:
+      en: "View from inside a car stuck in heavy traffic, with a long line of trucks and SUVs ahead on a commercial strip featuring Burger King and McDonald's signs."
 geo:
 id: 30757
 item_type: Still Image

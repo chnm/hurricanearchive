@@ -21,6 +21,8 @@ files:
     original_filename: P1010028delaware.JPG
     thumb: /files/thumbnails/14fb29f0b2a04d14fb29f0b2c26a.jpg
     url: /files/original/14fb29f0b2a04d14fb29f0b2c26a.jpg
+    alt:
+      en: "Nighttime scene of a ramp or gangway leading up to a dark structure, illuminated by a single overhead light, with a lit \"H\" sign and arrows visible to the left and scattered distant lights in the background."
 geo:
 id: 23208
 item_type: Still Image

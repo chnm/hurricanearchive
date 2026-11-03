@@ -21,6 +21,8 @@ files:
     original_filename: WO1 Sutton.JPG
     thumb: /files/thumbnails/14fb2a1aa1b07e14fb2a1aa1b48c.jpg
     url: /files/original/14fb2a1aa1b07e14fb2a1aa1b48c.jpg
+    alt:
+      en: "A soldier in woodland camouflage uniform labeled \"SUTTON\" and \"U.S. ARMY\" studies a map while standing indoors near a window, with another man in civilian clothes visible nearby."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 092cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e3c093514fb2a0e3c0cef.jpg
     url: /files/original/14fb2a0e3c093514fb2a0e3c0cef.jpg
+    alt:
+      en: "A park path lined with trees, some browned and damaged, leads to a reddish stone monument topped with a white statue; two camouflage-clad figures walk along the path near scattered debris."
 geo:
 id: 19705
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2310193615_7c1e79c505.
     thumb: /files/thumbnails/14fb29c9b4234b14fb29c9b4272a.jpg
     url: /files/original/14fb29c9b4234b14fb29c9b4272a.jpg
+    alt:
+      en: "Silhouetted figures stand before a glowing Mardi Gras float adorned with illuminated white and blue swirling decorations, set against a dark night sky."
 geo:
 id: 34492
 item_type: Still Image

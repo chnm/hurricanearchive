@@ -21,6 +21,8 @@ files:
     original_filename: Mountcarmelacademy034_05163d70f8.jpg
     thumb: /files/thumbnails/14fb29d2b8f79014fb29d2b8fb86.jpg
     url: /files/original/14fb29d2b8f79014fb29d2b8fb86.jpg
+    alt:
+      en: "Typed document titled \"Mount Carmel Carmelettes are National Champions,\" detailing the dance team's results at a 2007 national competition in Orlando, including category winners and team achievements."
 geo:
   address: ''
   lat: 29.91685

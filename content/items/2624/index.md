@@ -24,6 +24,8 @@ files:
     original_filename: 20060301_MG_0492.jpg
     thumb: /files/thumbnails/14fb2a63f7d96814fb2a63f91069.jpg
     url: /files/original/14fb2a63f7d96814fb2a63f91069.jpg
+    alt:
+      en: "Mardi Gras paraders wear costumes resembling house rooftops with blue fringe \"floodwater,\" some holding \"RESCUE ME\" signs, marching down a French Quarter street lined with balconied buildings."
 geo:
 id: 2624
 item_type: Still Image

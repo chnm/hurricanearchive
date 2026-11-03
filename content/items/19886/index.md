@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0118gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cf19cd914fb2a0cf1a0be.jpg
     url: /files/original/14fb2a0cf19cd914fb2a0cf1a0be.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms and white hard hats work on ladders installing plywood paneling along an interior wall, while others in tan uniforms observe from below in a dimly lit building."
 geo:
 id: 19886
 item_type: Still Image

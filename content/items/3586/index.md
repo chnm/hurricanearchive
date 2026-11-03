@@ -24,6 +24,8 @@ files:
     original_filename: P1010013.JPG
     thumb: /files/thumbnails/14fb2a5ab1011814fb2a5ab104fc.jpg
     url: /files/original/14fb2a5ab1011814fb2a5ab104fc.jpg
+    alt:
+      en: "A large pile of flood-damaged debris—including a couch, mattresses, drywall, and household items—sits curbside in front of brick houses, with a bare tree and power lines overhead."
 geo:
 id: 3586
 item_type: Still Image

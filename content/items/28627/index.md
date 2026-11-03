@@ -23,6 +23,8 @@ files:
     original_filename: 158897194_e72379b84f.jpg
     thumb: /files/thumbnails/14fb29d207f88614fb29d207fa05.jpg
     url: /files/original/14fb29d207f88614fb29d207fa05.jpg
+    alt:
+      en: "A hand-lettered sign reading \"NO TRASH HERE (use new pile)\" stands amid debris, a tire, and an orange traffic cone, with a damaged house and parked van in the background."
 geo:
 id: 28627
 item_type: Still Image

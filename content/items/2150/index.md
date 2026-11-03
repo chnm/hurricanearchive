@@ -26,6 +26,8 @@ files:
     original_filename: 030216050600_4a152b667d.JPG
     thumb: /files/thumbnails/14fb2a6d99b08c14fb2a6d99b44e.jpg
     url: /files/original/14fb2a6d99b08c14fb2a6d99b44e.jpg
+    alt:
+      en: "Cluttered back porch with multiple broken and leaning window frames, overturned furniture, a wicker chair, and debris scattered across a wooden table beneath wraparound windows."
 geo:
   address: ''
   lat: 30.135425

@@ -24,6 +24,8 @@ files:
     original_filename: 03-28-~3_f1af2c84b4.1.jpg
     thumb: /files/thumbnails/14fb29d881376e14fb29d8813b52.jpg
     url: /files/original/14fb29d881376e14fb29d8813b52.jpg
+    alt:
+      en: "Vintage black-and-white photo of the Old State Capitol in Baton Rouge, a castle-like Gothic Revival building with turrets, framed by trees and an iron fence, captioned \"The Old Capital, Baton Rouge.\""
 geo:
   address: ''
   lat: 29.87876

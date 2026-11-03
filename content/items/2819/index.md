@@ -21,6 +21,8 @@ files:
     original_filename: MVC-010S.JPG
     thumb: /files/thumbnails/14fb2a5ff5d5cc14fb2a5ff5d9b1.jpg
     url: /files/original/14fb2a5ff5d5cc14fb2a5ff5d9b1.jpg
+    alt:
+      en: "Damaged military aircraft with exposed internal wiring and torn fuselage panels parked on a tarmac, another plane's tail fin visible in the background."
 geo:
 id: 2819
 item_type: Still Image

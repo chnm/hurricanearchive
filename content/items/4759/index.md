@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0269.JPG
     thumb: /files/thumbnails/14fb2a55b8bbe914fb2a55b8bfcf.jpg
     url: /files/original/14fb2a55b8bbe914fb2a55b8bfcf.jpg
+    alt:
+      en: "Interior view of a building's exposed roof structure, showing wooden rafters, plywood sheathing, and insulation, with white paneling along one sloped section."
 geo:
 id: 4759
 item_type: Still Image

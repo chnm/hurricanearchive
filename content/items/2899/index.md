@@ -21,6 +21,8 @@ files:
     original_filename: MVC-022S.JPG
     thumb: /files/thumbnails/14fb2a5fa10c3614fb2a5fa1101b.jpg
     url: /files/original/14fb2a5fa10c3614fb2a5fa1101b.jpg
+    alt:
+      en: "Interior of a mechanical or engine room with gray pipes, valves, gauges, and a large compressor or pump unit, lit dimly with narrow walkways on either side."
 geo:
 id: 2899
 item_type: Still Image

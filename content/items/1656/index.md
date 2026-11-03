@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28008.jpg
     thumb: /files/thumbnails/14fb2a673e7e1214fb2a673e81f5.jpg
     url: /files/original/14fb2a673e7e1214fb2a673e81f5.jpg
+    alt:
+      en: "Large rusted steel sheet pile panels stacked at a construction site near the 17th Street Canal breach, with a person and parked vehicles visible in the background."
 geo:
   address: ''
   lat: 0.0

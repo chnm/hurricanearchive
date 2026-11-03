@@ -23,6 +23,8 @@ files:
     original_filename: 336698361_eece6b0edf.jpg
     thumb: /files/thumbnails/14fb29d563a04314fb29d563a09a.jpg
     url: /files/original/14fb29d563a04314fb29d563a09a.jpg
+    alt:
+      en: "Debris-strewn cleared lot with scattered wood and rubble, a large rust-colored shipping container or barge structure at right, sparse damaged trees, and an overcast gray sky."
 geo:
 id: 27304
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 98faces5_20329bd927.jpg
     thumb: /files/thumbnails/14fb29d69e889d14fb29d69e8c9b.jpg
     url: /files/original/14fb29d69e889d14fb29d69e8c9b.jpg
+    alt:
+      en: "Yearbook page with sixteen senior portraits of students in maroon caps and gowns against blue backdrops, each captioned with a name including Brynne Billingsley, Adam Blum, and Timothy Cobden."
 geo:
 id: 26885
 item_type: Still Image

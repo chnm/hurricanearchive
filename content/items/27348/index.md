@@ -23,6 +23,8 @@ files:
     original_filename: 221564179_f049e42b00.jpg
     thumb: /files/thumbnails/14fb29d42e361e14fb29d42e3a04.jpg
     url: /files/original/14fb29d42e361e14fb29d42e3a04.jpg
+    alt:
+      en: "Heavy, congested traffic fills multiple lanes of a highway at dusk, with a \"CFI\" tractor-trailer and numerous cars backed up in both directions under a pastel sky."
 geo:
   address: ''
   lat: 30.07522

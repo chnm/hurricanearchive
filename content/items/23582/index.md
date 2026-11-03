@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0332stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eea26cb014fb29eea2708d.jpg
     url: /files/original/14fb29eea26cb014fb29eea2708d.jpg
+    alt:
+      en: "A boat with its gray cover partially torn away rests atop the slanted roof of a brick house, with a silver sedan parked on the street below amid storm debris."
 geo:
 id: 23582
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0088MSriver.JPG
     thumb: /files/thumbnails/14fb2a14c207c214fb2a14c20ba1.jpg
     url: /files/original/14fb2a14c207c214fb2a14c20ba1.jpg
+    alt:
+      en: "Aerial view of a wide river with a tugboat pushing a barge, lined by a long industrial wharf and warehouses, with a sprawling cityscape extending to the hazy horizon."
 geo:
 id: 18875
 item_type: Still Image

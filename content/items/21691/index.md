@@ -21,6 +21,8 @@ files:
     original_filename: FH000022.jpg
     thumb: /files/thumbnails/14fb29fc65b04e14fb29fc65b434.jpg
     url: /files/original/14fb29fc65b04e14fb29fc65b434.jpg
+    alt:
+      en: "A man in a maroon tank top, bandana, and sunglasses stirs a large steaming metal cooking pot with a long paddle, outdoors near a truck and stacked supply boxes."
 geo:
 id: 21691
 item_type: Still Image

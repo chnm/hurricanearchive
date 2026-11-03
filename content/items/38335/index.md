@@ -20,6 +20,8 @@ files:
     original_filename: Twisted waterline FDL 2007_e2fdd5cce7.jpg
     thumb: /files/thumbnails/14fb29c511f47614fb29c511f85e.jpg
     url: /files/original/14fb29c511f47614fb29c511f85e.jpg
+    alt:
+      en: "A metal fleur-de-lis sculpture with twisted, weathered petals sits atop a wooden stand, displayed in a room with a framed picture and fireplace visible in the background."
 geo:
   address: ''
   lat: 0.0

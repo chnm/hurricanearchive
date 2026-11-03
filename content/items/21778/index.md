@@ -21,6 +21,8 @@ files:
     original_filename: katrina 048.jpg
     thumb: /files/thumbnails/14fb29fbc832f614fb29fbc836db.jpg
     url: /files/original/14fb29fbc832f614fb29fbc836db.jpg
+    alt:
+      en: "Elevated highway overpass with a \"Road Work Ahead\" sign, leading toward a domed stadium and teal-paneled building under a hazy blue sky."
 geo:
 id: 21778
 item_type: Still Image

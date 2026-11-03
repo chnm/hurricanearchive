@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2120superdome.JPG
     thumb: /files/thumbnails/14fb29e4aa8f3914fb29e4aa9249.jpg
     url: /files/original/14fb29e4aa8f3914fb29e4aa9249.jpg
+    alt:
+      en: "Three U.S. Army soldiers in camouflage uniforms hold small dogs on leashes outside a large building, with other people and a military vehicle visible in the background."
 geo:
 id: 24798
 item_type: Still Image

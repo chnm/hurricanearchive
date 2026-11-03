@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28709.jpg
     thumb: /files/thumbnails/14fb2a6d3afe0b14fb2a6d3b0d3c.jpg
     url: /files/original/14fb2a6d3afe0b14fb2a6d3b0d3c.jpg
+    alt:
+      en: "A man wearing a yellow \"The Humane Society of the United States\" T-shirt holds a bag of apples while standing in an animal stall aisle, with others visible in the background."
 geo:
   address: ''
   lat: 0.0

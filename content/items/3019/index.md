@@ -21,6 +21,8 @@ files:
     original_filename: 100_0268.JPG
     thumb: /files/thumbnails/14fb2a5ecd3eed14fb2a5ecd42d1.jpg
     url: /files/original/14fb2a5ecd3eed14fb2a5ecd42d1.jpg
+    alt:
+      en: "Bow of a decommissioned submarine, hull number 228, displayed on a grassy museum lot, showing rusted black lower hull with draft markings and torpedo tube doors beneath a white-painted upper hull."
 geo:
 id: 3019
 item_type: Still Image

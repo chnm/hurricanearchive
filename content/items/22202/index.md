@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1009Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f923343014fb29f9233815.jpg
     url: /files/original/14fb29f923343014fb29f9233815.jpg
+    alt:
+      en: "A soldier in camouflage uniform with \"PAO\" armband holds a video camera beside a military Humvee on a tree-lined street, with other vehicles and utility poles in the background."
 geo:
 id: 22202
 item_type: Still Image

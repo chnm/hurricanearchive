@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7461.JPG
     thumb: /files/thumbnails/14fb29cc9a798614fb29cc9a7d63.jpg
     url: /files/original/14fb29cc9a798614fb29cc9a7d63.jpg
+    alt:
+      en: "A close-up, upside-down view of a calico cat's face peeking out from inside a cardboard box, with visible air holes and a patterned fabric item nearby."
 geo:
 id: 30748
 item_type: Still Image

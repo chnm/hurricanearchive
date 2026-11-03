@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0147-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0208d6f514fb2a0208dadc.jpg
     url: /files/original/14fb2a0208d6f514fb2a0208dadc.jpg
+    alt:
+      en: "Floodwater covers a field and roadway, submerging debris including cinder blocks, metal fencing, and household items, with bare trees lining the horizon under an overcast sky."
 geo:
 id: 20914
 item_type: Still Image

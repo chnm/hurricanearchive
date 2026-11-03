@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-25-23Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e54967f814fb29e5496bde.jpg
     url: /files/original/14fb29e54967f814fb29e5496bde.jpg
+    alt:
+      en: "A Black Hawk helicopter flies low over a staging area filled with stacked cardboard boxes, folding tables, military trucks, and personnel in fatigues near a dark trailer."
 geo:
 id: 24737
 item_type: Still Image

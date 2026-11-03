@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0121-21-2.JPG
     thumb: /files/thumbnails/14fb29e66d2c8814fb29e66d3037.jpg
     url: /files/original/14fb29e66d2c8814fb29e66d3037.jpg
+    alt:
+      en: "A man in a U.S. Air Force camouflage uniform with a name tape reading \"Albert\" looks down intently at a computer monitor."
 geo:
 id: 24582
 item_type: Still Image

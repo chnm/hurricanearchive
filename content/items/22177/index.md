@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0090Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f93c17fd14fb29f93c1beb.jpg
     url: /files/original/14fb29f93c17fd14fb29f93c1beb.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with debris-strewn yards, tarped and discolored rooftops, scattered vehicles, and rows of houses along grid-patterned streets."
 geo:
 id: 22177
 item_type: Still Image

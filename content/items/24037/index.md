@@ -21,6 +21,8 @@ files:
     original_filename: Bob's Katrina Pic 031neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb4c8ee414fb29eb4c93b0.jpg
     url: /files/original/14fb29eb4c8ee414fb29eb4c93b0.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand on pavement near a green equipment case and semi-trailers, one labeled \"Southwest Charter Lines, Southwest Services, Equipment Rentals.\""
 geo:
 id: 24037
 item_type: Still Image

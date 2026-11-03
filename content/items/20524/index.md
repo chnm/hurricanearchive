@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0687840e14fb2a06878ec2.jpg
     url: /files/original/14fb2a0687840e14fb2a06878ec2.jpg
+    alt:
+      en: "Aerial view of widespread floodwaters covering a roadway and parking lot, with submerged vehicles, utility poles, uprooted trees, and debris scattered across the inundated landscape."
 geo:
 id: 20524
 item_type: Still Image

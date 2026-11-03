@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 068cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e6cb31614fb2a0e6cb5e6.jpg
     url: /files/original/14fb2a0e6cb31614fb2a0e6cb5e6.jpg
+    alt:
+      en: "Damaged building with exposed roof structure and torn siding seen through a wrought-iron gate, photographed from inside a vehicle with a dashboard-mounted GPS device visible in the foreground."
 geo:
 id: 19681
 item_type: Still Image

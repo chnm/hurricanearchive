@@ -21,6 +21,8 @@ files:
     original_filename: london-canal10-29.jpg
     thumb: /files/thumbnails/14fb2a2166ae8514fb2a2166b26b.jpg
     url: /files/original/14fb2a2166ae8514fb2a2166b26b.jpg
+    alt:
+      en: "A tree-lined street with a cleared gravel lot, scattered rocks, a utility pole, and houses in the background under a hazy sky."
 geo:
 id: 12859
 item_type: Still Image

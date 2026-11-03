@@ -21,6 +21,8 @@ files:
     original_filename: 3.jpg
     thumb: /files/thumbnails/14fb2a6062680714fb2a60626bec.jpg
     url: /files/original/14fb2a6062680714fb2a60626bec.jpg
+    alt:
+      en: "Child's crayon drawing of a tall blue house with red-outlined windows and a chimney emitting smoke, flanked by two trees with red dots and red flowers, under a blue scalloped sky; \"Cicra 8\" is written at top left."
 geo:
 id: 2732
 item_type: Still Image

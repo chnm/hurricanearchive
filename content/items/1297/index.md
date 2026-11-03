@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28205.jpg
     thumb: /files/thumbnails/14fb2a69cc1e3114fb2a69cc2216.jpg
     url: /files/original/14fb2a69cc1e3114fb2a69cc2216.jpg
+    alt:
+      en: "Cinder block foundation of a destroyed house displays the number \"116\" and a tattered American flag draped across a low wall, surrounded by bare, storm-damaged trees."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0174.JPG
     thumb: /files/thumbnails/14fb2a5525df4c14fb2a5525e32a.jpg
     url: /files/original/14fb2a5525df4c14fb2a5525e32a.jpg
+    alt:
+      en: "A small gray metal shed with its door open, a stepladder set up inside near the doorway, surrounded by trees and shrubs, with a wooden deck or ramp visible in the foreground."
 geo:
 id: 4855
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0306-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd7dc02414fb29fd7dc409.jpg
     url: /files/original/14fb29fd7dc02414fb29fd7dc409.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses, a mobile home, and a swing set partially submerged in brown floodwater, surrounded by trees with only rooftops and upper structures visible."
 geo:
 id: 21570
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 56.jpg
     thumb: /files/thumbnails/14fb2a604dea9d14fb2a604dee7f.jpg
     url: /files/original/14fb2a604dea9d14fb2a604dee7f.jpg
+    alt:
+      en: "Hand-drawn crayon sketch of an American flag on a pole, with a blue star field and red-and-white stripes, captioned \"Kermiana II\" in red at the top."
 geo:
 id: 2761
 item_type: Still Image

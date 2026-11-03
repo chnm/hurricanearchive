@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (10).JPG
     thumb: /files/thumbnails/14fb2a5dcd1f2414fb2a5dcd6964.jpg
     url: /files/original/14fb2a5dcd1f2414fb2a5dcd6964.jpg
+    alt:
+      en: "A wooden, barn-style building with a red \"R & C Restaurant\" sign and an upper-level deck, photographed through a vehicle's windshield with a flatbed trailer in the foreground."
 geo:
 id: 3126
 item_type: Still Image

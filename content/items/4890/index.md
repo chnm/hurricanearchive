@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0209.JPG
     thumb: /files/thumbnails/14fb2a550c748a14fb2a550c7870.jpg
     url: /files/original/14fb2a550c748a14fb2a550c7870.jpg
+    alt:
+      en: "A waterfront property with a wooden bulkhead and dock along a calm waterway, with bare soil and scattered debris on the bank, trees lining the far shore, and an elevated house visible at right."
 geo:
 id: 4890
 item_type: Still Image

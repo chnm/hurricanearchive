@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0947superdome.JPG
     thumb: /files/thumbnails/14fb29e4362dd614fb29e4363472.jpg
     url: /files/original/14fb29e4362dd614fb29e4363472.jpg
+    alt:
+      en: "Two men in woodland camouflage military uniforms converse, the nearer wearing a garrison cap and American flag shoulder patch labeled \"MAGEE,\" the other's cap marked \"S.R.T.\""
 geo:
 id: 24873
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (10).JPG
     thumb: /files/thumbnails/14fb2a5da6b8e914fb2a5da6bcd0.jpg
     url: /files/original/14fb2a5da6b8e914fb2a5da6bcd0.jpg
+    alt:
+      en: "White van parked in the driveway of a two-story house with a balcony, surrounded by palm trees, with front steps leading up to the porch."
 geo:
 id: 3157
 item_type: Still Image

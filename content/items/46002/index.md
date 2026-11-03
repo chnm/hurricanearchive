@@ -24,6 +24,8 @@ files:
     original_filename: Katrina Kollage hab.jpg
     thumb: /files/thumbnails/4a8261a60456468f590466578072bf98.jpg
     url: /files/original/4a8261a60456468f590466578072bf98.jpg
+    alt:
+      en: "A Mardi Gras-style jester mask outlined in purple over a collage of Hurricane Katrina newspaper headlines, including \"SOS,\" \"Catastrophic,\" \"Thousands,\" and \"A Living Hell.\""
 geo:
   address: ''
   lat: 29.921613319696

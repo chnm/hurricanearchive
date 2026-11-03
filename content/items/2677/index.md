@@ -21,6 +21,8 @@ files:
     original_filename: 101.jpg
     thumb: /files/thumbnails/14fb2a609bb71f14fb2a609bbb03.jpg
     url: /files/original/14fb2a609bb71f14fb2a609bbb03.jpg
+    alt:
+      en: "Child's drawing labeled \"Thomas\" featuring a green house with a window, door, and peaked roof, a purple flower, a blue elongated cloud, a scribbled blue shape in the corner, and a vertical row of blue oval marks."
 geo:
 id: 2677
 item_type: Still Image

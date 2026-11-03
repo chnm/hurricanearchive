@@ -17,6 +17,8 @@ files:
     original_filename: IMG_8894.jpeg
     thumb: /files/thumbnails/a4cb0eff54d70bd0d56189385419c5b7.jpg
     url: /files/original/a4cb0eff54d70bd0d56189385419c5b7.jpeg
+    alt:
+      en: "A clear glass vase with a diamond-cut crystal pattern and curved hourglass shape sits on a wooden surface, with a green chair back and framed picture visible behind it."
 geo:
 id: 45984
 item_type: Still Image

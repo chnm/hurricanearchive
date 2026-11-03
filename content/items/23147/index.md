@@ -21,6 +21,8 @@ files:
     original_filename: 20051001-A-2421S-005mobilePAO.jpg
     thumb: /files/thumbnails/14fb29f1535da414fb29f153656c.jpg
     url: /files/original/14fb29f1535da414fb29f153656c.jpg
+    alt:
+      en: "A woman wearing a white shirt and gloves crouches on a debris-covered floor, sorting through salvaged items including papers, electronics, and small objects in a damaged room."
 geo:
 id: 23147
 item_type: Still Image

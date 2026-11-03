@@ -21,6 +21,8 @@ files:
     original_filename: during look south2.jpg
     thumb: /files/thumbnails/14fb2a2074b81014fb2a2074bbf5.jpg
     url: /files/original/14fb2a2074b81014fb2a2074bbf5.jpg
+    alt:
+      en: "Empty intersection shrouded in heavy fog or rain, with trees bending in the wind, a stop sign, and historic arched-window buildings lining the street."
 geo:
 id: 13094
 item_type: Still Image

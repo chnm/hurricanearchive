@@ -21,6 +21,8 @@ files:
     original_filename: 11.jpg
     thumb: /files/thumbnails/14fb2a0105310f14fb2a010534f5.jpg
     url: /files/original/14fb2a0105310f14fb2a010534f5.jpg
+    alt:
+      en: "A crew member wearing a helmet and flight suit with a U.S. flag patch looks out from an open helicopter door over a flooded, tree-covered town below."
 geo:
 id: 21028
 item_type: Still Image

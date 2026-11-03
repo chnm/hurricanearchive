@@ -21,6 +21,8 @@ files:
     original_filename: Picture 051.jpg
     thumb: /files/thumbnails/14fb29cc7a63c114fb29cc7a67a6.jpg
     url: /files/original/14fb29cc7a63c114fb29cc7a67a6.jpg
+    alt:
+      en: "View from inside a car window of large fallen trees and tangled branches blocking the roadside, with surrounding forest and a partly cloudy sky visible beyond the debris."
 geo:
 id: 30786
 item_type: Still Image

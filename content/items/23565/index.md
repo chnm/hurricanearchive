@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0187abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eec5aea514fb29eec5b2ba.jpg
     url: /files/original/14fb29eec5aea514fb29eec5b2ba.jpg
+    alt:
+      en: "A man in a cap, sunglasses, and plaid shirt stands inside a water-damaged room with stained, peeling walls, holding a picture frame in a gutted interior."
 geo:
 id: 23565
 item_type: Still Image

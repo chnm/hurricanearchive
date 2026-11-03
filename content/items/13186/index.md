@@ -21,6 +21,8 @@ files:
     original_filename: 177 flooding6.jpg
     thumb: /files/thumbnails/14fb2a1f84f3d914fb2a1f84f7bf.jpg
     url: /files/original/14fb2a1f84f3d914fb2a1f84f7bf.jpg
+    alt:
+      en: "A white building with striped awnings and a damaged roof stands partially submerged in floodwater, surrounded by bare and leafy trees under an overcast sky."
 geo:
 id: 13186
 item_type: Still Image

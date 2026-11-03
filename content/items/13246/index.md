@@ -21,6 +21,8 @@ files:
     original_filename: enough with the palm tree.jpg
     thumb: /files/thumbnails/14fb2a1eb2d06314fb2a1eb2d75d.jpg
     url: /files/original/14fb2a1eb2d06314fb2a1eb2d75d.jpg
+    alt:
+      en: "Close-up of a wet palm tree frond with thin, spiky green leaves, small green berries visible in the lower left corner, set against an overexposed grayish-white sky."
 geo:
 id: 13246
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5712_371262de6a.jpg
     thumb: /files/thumbnails/14fb29da98936614fb29da989ff2.jpg
     url: /files/original/14fb29da98936614fb29da989ff2.jpg
+    alt:
+      en: "Heavily water-damaged and mold-spotted photograph of a man wearing glasses holding an infant in a hooded outfit, with much of the image obscured by white mottled staining and emulsion loss."
 geo:
 id: 26116
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1497superdome.JPG
     thumb: /files/thumbnails/14fb29e355fe1514fb29e3560205.jpg
     url: /files/original/14fb29e355fe1514fb29e3560205.jpg
+    alt:
+      en: "A U.S. Air Force service member in camouflage uniform, name tape \"Schulz,\" speaks into a handheld radio receiver while seated in a military vehicle, with another uniformed person visible in the background."
 geo:
 id: 24979
 item_type: Still Image

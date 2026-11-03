@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110-21.JPG
     thumb: /files/thumbnails/14fb29e6ff162b14fb29e6ff1852.jpg
     url: /files/original/14fb29e6ff162b14fb29e6ff1852.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work at laptop-equipped tables in a command center room with signs reading \"J-1,\" \"J-4,\" \"J-3,\" and \"BRIEFING ROOM\" above doorways, with a round map table in the foreground."
 geo:
 id: 24526
 item_type: Still Image

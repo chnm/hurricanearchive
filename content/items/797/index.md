@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28250.jpg
     thumb: /files/thumbnails/14fb2a6cf744ea14fb2a6cf748ce.jpg
     url: /files/original/14fb2a6cf744ea14fb2a6cf748ce.jpg
+    alt:
+      en: "Debris field with scattered wood, metal, and rubble beneath a large empty sign frame and leaning utility poles with tangled wires, under an overcast sky."
 geo:
   address: ''
   lat: 0.0

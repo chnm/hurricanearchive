@@ -21,6 +21,8 @@ files:
     original_filename: 09140043neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec5512d514fb29ec552228.jpg
     url: /files/original/14fb29ec5512d514fb29ec552228.jpg
+    alt:
+      en: "Military Humvees with antennas drive along a long causeway bridge over open water, with a dark vehicle canopy visible in the foreground on the right."
 geo:
 id: 23930
 item_type: Still Image

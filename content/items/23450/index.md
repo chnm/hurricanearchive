@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef62900c14fb29ef6293e8.jpg
     url: /files/original/14fb29ef62900c14fb29ef6293e8.jpg
+    alt:
+      en: "A uniformed crew member wearing a headset looks out from a helicopter over a winding river surrounded by dense green forest below."
 geo:
 id: 23450
 item_type: Still Image

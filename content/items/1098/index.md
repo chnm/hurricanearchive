@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28355.jpg
     thumb: /files/thumbnails/14fb2a6b13524314fb2a6b1356ec.jpg
     url: /files/original/14fb2a6b13524314fb2a6b1356ec.jpg
+    alt:
+      en: "Collapsed concrete-slab sections of the Ocean Springs Bridge tilt into the water of Biloxi harbor, with a lone light pole leaning amid the broken spans under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

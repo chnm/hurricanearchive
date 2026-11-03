@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-16-15AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f96182c814fb29f96186ac.jpg
     url: /files/original/14fb29f96182c814fb29f96186ac.jpg
+    alt:
+      en: "Blurry photograph showing a greenish, water-stained surface in the foreground with a faint reflection of a staircase and railing structure visible above, suggesting flood damage at Jackson Barracks."
 geo:
 id: 22136
 item_type: Still Image

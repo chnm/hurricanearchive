@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1552superdome.JPG
     thumb: /files/thumbnails/14fb29e2d951ba14fb29e2d95594.jpg
     url: /files/original/14fb29e2d951ba14fb29e2d95594.jpg
+    alt:
+      en: "Two people walk across an empty elevated concrete deck with warning lights and painted lane markings; an elevated highway, palm trees, and high-rise buildings are visible in the background, with a banner reading \"WHO'S ROLLING WITH THE WAVE THIS YEAR!\""
 geo:
 id: 25030
 item_type: Still Image

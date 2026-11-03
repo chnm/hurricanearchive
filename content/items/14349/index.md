@@ -21,6 +21,8 @@ files:
     original_filename: aerials6.jpg
     thumb: /files/thumbnails/14fb2a19ad3cab14fb2a19ad4090.jpg
     url: /files/original/14fb2a19ad3cab14fb2a19ad4090.jpg
+    alt:
+      en: "Aerial view of a coastal area devastated by hurricane winds, with widespread tree loss, debris fields, and damaged structures stretching toward the shoreline, a water tower visible near the center."
 geo:
 id: 14349
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010005delaware.JPG
     thumb: /files/thumbnails/14fb29f1242fcc14fb29f12433a8.jpg
     url: /files/original/14fb29f1242fcc14fb29f12433a8.jpg
+    alt:
+      en: "Interior view of a bus with blue seats, occupied by several people in camouflage military uniforms, some facing each other in conversation; a red emergency handle and \"EMERGENCY EXIT\" sign are visible near the rear."
 geo:
 id: 23184
 item_type: Still Image

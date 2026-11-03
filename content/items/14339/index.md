@@ -21,6 +21,8 @@ files:
     original_filename: aerials50.jpg
     thumb: /files/thumbnails/14fb2a19c3113c14fb2a19c315cf.jpg
     url: /files/original/14fb2a19c3113c14fb2a19c315cf.jpg
+    alt:
+      en: "Aerial view of a damaged waterfront community, showing rows of storm-wrecked piers and docks extending into the water alongside a shoreline of debris and stripped, broken trees."
 geo:
 id: 14339
 item_type: Still Image

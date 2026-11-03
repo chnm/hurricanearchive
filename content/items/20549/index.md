@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a063d541d14fb2a063d5834.jpg
     url: /files/original/14fb2a063d541d14fb2a063d5834.jpg
+    alt:
+      en: "Aerial view of a flooded rural neighborhood with a two-story house surrounded by standing water, downed trees, and debris, with a paved road running alongside the flooded land."
 geo:
 id: 20549
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0319.JPG
     thumb: /files/thumbnails/14fb2a54abcc0514fb2a54abcf14.jpg
     url: /files/original/14fb2a54abcc0514fb2a54abcf14.jpg
+    alt:
+      en: "A manufactured home raised on a foundation with damaged white siding and broken windows, viewed from beneath an adjacent elevated structure; debris and a cinder block pier are visible in the dirt yard."
 geo:
 id: 4974
 item_type: Still Image

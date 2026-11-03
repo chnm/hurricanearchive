@@ -20,6 +20,8 @@ files:
     original_filename: 1281642249_416f55d20c.jpg
     thumb: /files/thumbnails/14fb29cb96670e14fb29cb966af3.jpg
     url: /files/original/14fb29cb96670e14fb29cb966af3.jpg
+    alt:
+      en: "A man wearing a mask and gloves stands amid a large pile of debris and rubble in a field, with power lines, houses, and overgrown greenery visible in the background."
 geo:
 id: 33203
 item_type: Still Image

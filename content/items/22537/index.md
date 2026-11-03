@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1379Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f58f024314fb29f58f0625.jpg
     url: /files/original/14fb29f58f024314fb29f58f0625.jpg
+    alt:
+      en: "Floodwaters submerge a single-story house up to its roofline, with a boat labeled \"Triton\" visible nearby and utility poles and downed power lines amid bare, storm-damaged trees under an overcast sky."
 geo:
 id: 22537
 item_type: Still Image

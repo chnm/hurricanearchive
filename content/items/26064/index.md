@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7002_88aca1daef.jpg
     thumb: /files/thumbnails/14fb29db72459314fb29db724978.jpg
     url: /files/original/14fb29db72459314fb29db724978.jpg
+    alt:
+      en: "Black-and-white photo of a two-story building labeled \"St. Louis School,\" with people on the balcony and a row of men in suits standing along the sidewalk in front."
 geo:
   address: ''
   lat: 29.87876

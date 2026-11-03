@@ -21,6 +21,8 @@ files:
     original_filename: Picture 157cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b85ea1414fb2a0b85ee02.jpg
     url: /files/original/14fb2a0b85ea1414fb2a0b85ee02.jpg
+    alt:
+      en: "Flooded industrial lot with standing water reflecting chain-link fencing and utility poles, large coiled pipes or hoses, and a dark barn-like structure in the background under a clear sky."
 geo:
 id: 20060
 item_type: Still Image

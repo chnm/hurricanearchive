@@ -26,6 +26,8 @@ files:
     original_filename: kat2_ee25c766f8.JPG
     thumb: /files/thumbnails/14fb2a6d8548bb14fb2a6d854ca2.jpg
     url: /files/original/14fb2a6d8548bb14fb2a6d854ca2.jpg
+    alt:
+      en: "Group of people wearing yellow party hats gathered around round tables in a shelter common room, with cake trays, cups, and a bottle of root beer on the table, and folding chairs arranged nearby."
 geo:
   address: ''
   lat: 31.1046852937585

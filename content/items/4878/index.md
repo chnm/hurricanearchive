@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0197.JPG
     thumb: /files/thumbnails/14fb2a55136f7b14fb2a55137360.jpg
     url: /files/original/14fb2a55136f7b14fb2a55137360.jpg
+    alt:
+      en: "A yellow tape measure stretched across a weathered wooden post, showing markings from 1 to 9 inches, with a lattice deck railing and staircase visible in the background."
 geo:
 id: 4878
 item_type: Still Image

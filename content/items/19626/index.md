@@ -21,6 +21,8 @@ files:
     original_filename: 261st-3 at TF Pelican J-6 deskgillslong.jpg
     thumb: /files/thumbnails/14fb2a0ea6bc5e14fb2a0ea6bf78.jpg
     url: /files/original/14fb2a0ea6bc5e14fb2a0ea6bf78.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms gather around tables with laptops and radios in a large hall, with a sign reading \"Task Force Defender\" visible on an upper balcony."
 geo:
 id: 19626
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 110cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e30edf614fb2a0e30f1dc.jpg
     url: /files/original/14fb2a0e30edf614fb2a0e30f1dc.jpg
+    alt:
+      en: "Two silhouetted figures stand in a debris-strewn parking lot beside a large military truck, with a \"Arabi Self Storage,\" \"Winn-Dixie,\" and \"Furniture Factory Outlet\" sign visible against a blue sky."
 geo:
 id: 19723
 item_type: Still Image

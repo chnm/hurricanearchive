@@ -27,6 +27,8 @@ files:
     original_filename: 2292013378_4ff126abb3.
     thumb: /files/thumbnails/14fb29c998cc1914fb29c998d00a.jpg
     url: /files/original/14fb29c998cc1914fb29c998d00a.jpg
+    alt:
+      en: "Elevated blue house on wooden pilings with white lattice railings, surrounded by piles of dried marsh grass, broken boards, and debris cleared from beneath the structure."
 geo:
   address: ''
   lat: 30.22539

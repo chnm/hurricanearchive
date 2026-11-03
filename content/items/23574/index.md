@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0195abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eebc1f9e14fb29eebc2384.jpg
     url: /files/original/14fb29eebc1f9e14fb29eebc2384.jpg
+    alt:
+      en: "Man in orange plaid shirt, sunglasses, and cap smiling in profile outdoors, with a Bud Light bottle and another person's arm visible in the foreground."
 geo:
 id: 23574
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28121.jpg
     thumb: /files/thumbnails/14fb2a6c95797614fb2a6c957d62.jpg
     url: /files/original/14fb2a6c95797614fb2a6c957d62.jpg
+    alt:
+      en: "A man in a cap stands amid storm debris before a severely damaged brick building with a gaping hole and collapsed wooden framing, part of the 17th Street Canal breach damage in Lakeview, New Orleans."
 geo:
   address: ''
   lat: 0.0

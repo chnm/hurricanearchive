@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea051d0914fb29ea0520bd.jpg
     url: /files/original/14fb29ea051d0914fb29ea0520bd.jpg
+    alt:
+      en: "Aerial view of a long elevated highway bridge curving across flooded marshland and open water under a hazy gray sky, with scattered trees and industrial structures visible along the shoreline."
 geo:
 id: 24181
 item_type: Still Image

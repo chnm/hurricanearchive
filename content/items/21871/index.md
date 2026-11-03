@@ -21,6 +21,8 @@ files:
     original_filename: Industrial Canal.jpg
     thumb: /files/thumbnails/14fb29fb50101f14fb29fb501404.jpg
     url: /files/original/14fb29fb50101f14fb29fb501404.jpg
+    alt:
+      en: "Aerial black-and-white photo showing a breached levee along a canal, with floodwater submerging a residential neighborhood of houses and trees on the left side."
 geo:
 id: 21871
 item_type: Still Image

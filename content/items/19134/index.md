@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 044.jpg
     thumb: /files/thumbnails/14fb2a12cca70614fb2a12ccabc5.jpg
     url: /files/original/14fb2a12cca70614fb2a12ccabc5.jpg
+    alt:
+      en: "A man in camouflage military uniform and sunglasses stands in front of a blue and white bus labeled \"Arkansas Air National Guard.\""
 geo:
 id: 19134
 item_type: Still Image

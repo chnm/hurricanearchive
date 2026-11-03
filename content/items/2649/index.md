@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9212.jpg
     thumb: /files/thumbnails/14fb2a6341c67d14fb2a6341edd7.jpg
     url: /files/original/14fb2a6341c67d14fb2a6341edd7.jpg
+    alt:
+      en: "A rusted folding chair and pot sit on muddy sand beside floodwater, with a partially submerged blue van and scattered storm debris in the background."
 geo:
 id: 2649
 item_type: Still Image

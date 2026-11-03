@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28390.jpg
     thumb: /files/thumbnails/14fb2a67fb425d14fb2a67fb4643.jpg
     url: /files/original/14fb2a67fb425d14fb2a67fb4643.jpg
+    alt:
+      en: "A man in a baseball cap and purple \"Key West\" T-shirt holds a stainless steel fish release device, standing before fishing nets and a boat with partial text reading \"TER ANTO\" visible behind him."
 geo:
   address: ''
   lat: 0.0

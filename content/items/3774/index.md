@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 054.jpg
     thumb: /files/thumbnails/14fb2a59ca550d14fb2a59ca58f2.jpg
     url: /files/original/14fb2a59ca550d14fb2a59ca58f2.jpg
+    alt:
+      en: "An overturned boat lies in a debris-strewn field, with a damaged industrial facility and bare, storm-stripped trees visible in the background under a clear blue sky."
 geo:
 id: 3774
 item_type: Still Image

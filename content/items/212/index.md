@@ -26,6 +26,8 @@ files:
     original_filename: 2074934_4a98dcbe0b.jpe
     thumb: /files/thumbnails/14fb2a7083228714fb2a70832659.jpg
     url: /files/original/14fb2a7083228714fb2a70832659.jpg
+    alt:
+      en: "A small boat with several people, including one lying down, moves through floodwaters beneath a highway sign reading \"West End Blvd, Canal Blvd, Exit Only.\""
 geo:
   address: ''
   lat: 30.002253

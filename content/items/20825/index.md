@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0086H.JPG
     thumb: /files/thumbnails/14fb2a037507e914fb2a03750bcf.jpg
     url: /files/original/14fb2a037507e914fb2a03750bcf.jpg
+    alt:
+      en: "A dimly lit nighttime scene showing a woman in a Hooters uniform with promotional stickers on her shoulder, bending forward, while a man in a shirt reading \"PROPER VIXTASY\" stands nearby."
 geo:
 id: 20825
 item_type: Still Image

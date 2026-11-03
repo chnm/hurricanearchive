@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi537.JPG
     thumb: /files/thumbnails/14fb2a2255809b14fb2a22558487.jpg
     url: /files/original/14fb2a2255809b14fb2a22558487.jpg
+    alt:
+      en: "A man with gray hair in a light purple checked shirt bends forward in the foreground, with onlookers and a brick building visible behind him."
 geo:
 id: 12014
 item_type: Still Image

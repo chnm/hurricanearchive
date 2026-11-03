@@ -26,6 +26,8 @@ files:
     original_filename: 100_0101_bb6b1b9a9e.JPG
     thumb: /files/thumbnails/14fb2a6f87628014fb2a6f87665a.jpg
     url: /files/original/14fb2a6f87628014fb2a6f87665a.jpg
+    alt:
+      en: "A severely damaged house with a partially collapsed roof stands behind a wooden bed frame holding a striped flag, surrounded by scattered debris on a dirt lot."
 geo:
   address: ''
   lat: 0.0

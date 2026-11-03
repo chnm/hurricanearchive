@@ -21,6 +21,8 @@ files:
     original_filename: Picture 012engineers.jpg
     thumb: /files/thumbnails/14fb2a0fec697414fb2a0fec6d59.jpg
     url: /files/original/14fb2a0fec697414fb2a0fec6d59.jpg
+    alt:
+      en: "A paved road alongside a canal is blocked by fallen trees and debris, with a bulldozer and two men, one carrying a chainsaw, working to clear the path."
 geo:
 id: 19452
 item_type: Still Image

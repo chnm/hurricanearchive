@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0130.JPG
     thumb: /files/thumbnails/14fb2a5553bd7f14fb2a5553c160.jpg
     url: /files/original/14fb2a5553bd7f14fb2a5553c160.jpg
+    alt:
+      en: "A backyard basketball hoop stands beside a fallen, uprooted tree lying across a grassy clearing, with a dense wooded area in the background."
 geo:
 id: 4815
 item_type: Still Image

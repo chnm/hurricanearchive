@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0409-16.JPG
     thumb: /files/thumbnails/14fb29fcd0cbd414fb29fcd0cfb8.jpg
     url: /files/original/14fb29fcd0cbd414fb29fcd0cfb8.jpg
+    alt:
+      en: "A U.S. Army soldier wearing woodland camouflage and dark protective goggles sits inside a helicopter, an American flag patch visible on his sleeve, with grass and trees seen through the open door."
 geo:
 id: 21646
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28651.jpg
     thumb: /files/thumbnails/14fb2a68834aac14fb2a68834e90.jpg
     url: /files/original/14fb2a68834aac14fb2a68834e90.jpg
+    alt:
+      en: "Outdoor tent at an animal rescue depot with green signs reading \"FIND LOST PET,\" \"NO PET ADOPTIONS AT THIS FACILITY,\" and \"OPEN 8-8\"; people stand at folding tables near a \"LOST CHECK IN\" sign."
 geo:
   address: ''
   lat: 0.0

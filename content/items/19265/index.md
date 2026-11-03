@@ -21,6 +21,8 @@ files:
     original_filename: 09210015iwojima.JPG
     thumb: /files/thumbnails/14fb2a1175ecb714fb2a1175f09a.jpg
     url: /files/original/14fb2a1175ecb714fb2a1175f09a.jpg
+    alt:
+      en: "Wide view of a hazy waterway with calm green water, distant industrial port cranes and structures along the far shoreline, and a thin line of trees under a pale blue sky with scattered clouds."
 geo:
 id: 19265
 item_type: Still Image

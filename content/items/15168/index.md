@@ -21,6 +21,8 @@ files:
     original_filename: GBuckley-6190_7dbfd11ef7.jpg
     thumb: /files/thumbnails/14fb2a16c730d314fb2a16c734c6.jpg
     url: /files/original/14fb2a16c730d314fb2a16c734c6.jpg
+    alt:
+      en: "Vintage sepia-toned group photo of a girls' and women's basketball team wearing \"SM CYO\" uniforms, posed with two coaches in military-style attire, holding a trophy and ball in front."
 geo:
 id: 15168
 item_type: Still Image

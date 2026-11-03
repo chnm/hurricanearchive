@@ -23,6 +23,8 @@ files:
     original_filename: 158169378_1e28fc2d15.jpg
     thumb: /files/thumbnails/14fb29d1e4ef1d14fb29d1e4f30b.jpg
     url: /files/original/14fb29d1e4ef1d14fb29d1e4f30b.jpg
+    alt:
+      en: "Debris-strewn lot with a partially collapsed house and piles of hurricane wreckage; the number \"2041\" is stenciled on the cracked, mud-covered pavement in the foreground."
 geo:
 id: 28658
 item_type: Still Image

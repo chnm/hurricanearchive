@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0248-18.JPG
     thumb: /files/thumbnails/14fb2a0a9453b114fb2a0a94cd4b.jpg
     url: /files/original/14fb2a0a9453b114fb2a0a94cd4b.jpg
+    alt:
+      en: "A military Black Hawk helicopter, numbered 994, sits on a ship's flight deck with rotors spinning, while a deck crew member in blue signals nearby as water stretches out behind."
 geo:
 id: 20227
 item_type: Still Image

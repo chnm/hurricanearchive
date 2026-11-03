@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0021.JPG
     thumb: /files/thumbnails/14fb2a57813e9514fb2a5781427b.jpg
     url: /files/original/14fb2a57813e9514fb2a5781427b.jpg
+    alt:
+      en: "Storm-damaged building with stripped roofing and exposed framing sits beside a two-lane road, with bare, broken trees and debris scattered across the lot in the foreground."
 geo:
 id: 4135
 item_type: Still Image

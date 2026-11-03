@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0029.JPG
     thumb: /files/thumbnails/14fb2a577b0ab814fb2a577b0ea7.jpg
     url: /files/original/14fb2a577b0ab814fb2a577b0ea7.jpg
+    alt:
+      en: "Weathered wooden pilings in foreground frame a muddy waterway, with a distant harbor of fishing boats, docks, and utility poles under a clear blue sky."
 geo:
 id: 4143
 item_type: Still Image

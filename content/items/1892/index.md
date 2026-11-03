@@ -26,6 +26,8 @@ files:
     original_filename: refridge_3af4367544.jpg
     thumb: /files/thumbnails/14fb2a6e6a05ad14fb2a6e6a11ba.jpg
     url: /files/original/14fb2a6e6a05ad14fb2a6e6a11ba.jpg
+    alt:
+      en: "An empty white refrigerator with its doors open sits discarded on the front lawn of a green house, surrounded by bushes and a large cut tree stump."
 geo:
   address: ''
   lat: 31.245138

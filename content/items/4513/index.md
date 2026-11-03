@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0725.JPG
     thumb: /files/thumbnails/14fb2a57187c0714fb2a57187ff5.jpg
     url: /files/original/14fb2a57187c0714fb2a57187ff5.jpg
+    alt:
+      en: "A yellow tape measure stretched horizontally across a weathered wooden support post, showing markings from 1 to 10 inches, with an outdoor structure and trees visible in the background."
 geo:
 id: 4513
 item_type: Still Image

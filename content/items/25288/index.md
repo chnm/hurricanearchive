@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2015superdome.JPG
     thumb: /files/thumbnails/14fb29df61f05514fb29df61f41c.jpg
     url: /files/original/14fb29df61f05514fb29df61f41c.jpg
+    alt:
+      en: "Military personnel in camouflage and flight suits assist evacuees, including a woman in a wheelchair and a man on crutches, toward a large Chinook helicopter on a paved tarmac."
 geo:
 id: 25288
 item_type: Still Image

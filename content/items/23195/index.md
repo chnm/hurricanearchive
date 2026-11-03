@@ -21,6 +21,8 @@ files:
     original_filename: P1010015delaware.JPG
     thumb: /files/thumbnails/14fb29f0f0eb4914fb29f0f0ef14.jpg
     url: /files/original/14fb29f0f0eb4914fb29f0f0ef14.jpg
+    alt:
+      en: "A forklift-style military vehicle carries a pallet of shrink-wrapped and strapped supplies across a paved airfield lot, with a driver visible in the cab and buildings and trees in the background."
 geo:
 id: 23195
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28197.jpg
     thumb: /files/thumbnails/14fb2a6736413e14fb2a67364523.jpg
     url: /files/original/14fb2a6736413e14fb2a67364523.jpg
+    alt:
+      en: "Flattened sandy lot crisscrossed with tire tracks, with a line of bare, storm-damaged trees and a utility pole in the background under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

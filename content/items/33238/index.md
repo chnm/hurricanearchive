@@ -23,6 +23,8 @@ files:
     original_filename: 1252063529_23ee90c8c1.jpg
     thumb: /files/thumbnails/14fb29cb5198c614fb29cb519cab.jpg
     url: /files/original/14fb29cb5198c614fb29cb519cab.jpg
+    alt:
+      en: "Close-up of a weathered metal surface with a horizontal band of rust, dried marsh grass, and debris marking a flood line, bordered by lighter rust-speckled metal above and below."
 geo:
 id: 33238
 item_type: Still Image

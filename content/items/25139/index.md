@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1746superdome.JPG
     thumb: /files/thumbnails/14fb29e1eaf54a14fb29e1eaf9dd.jpg
     url: /files/original/14fb29e1eaf54a14fb29e1eaf9dd.jpg
+    alt:
+      en: "A group of military personnel in camouflage uniforms and PHI Air Medical crew members in black flight suits carry a patient on a stretcher toward a military helicopter."
 geo:
 id: 25139
 item_type: Still Image

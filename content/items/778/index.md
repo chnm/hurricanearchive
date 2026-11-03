@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27913.jpg
     thumb: /files/thumbnails/14fb2a6d15474e14fb2a6d154ea7.jpg
     url: /files/original/14fb2a6d15474e14fb2a6d154ea7.jpg
+    alt:
+      en: "A woman in denim overalls and yellow rubber gloves stands amid a mud-covered floor in a flood-damaged kitchen, with a cabinet of dishes and debris visible around her."
 geo:
   address: ''
   lat: 0.0

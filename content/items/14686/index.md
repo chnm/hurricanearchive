@@ -21,6 +21,8 @@ files:
     original_filename: isenReGoodShepherd_AndrewJoseph_03_1bdd8f369a.jpg
     thumb: /files/thumbnails/14fb2a1831a33914fb2a1831a6ef.jpg
     url: /files/original/14fb2a1831a33914fb2a1831a6ef.jpg
+    alt:
+      en: "A boy in a navy polo shirt with \"GS\" embroidered on it sits smiling in a classroom, beside a bookshelf of children's books and stuffed animal puppets on a table."
 geo:
 id: 14686
 item_type: Still Image

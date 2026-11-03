@@ -21,6 +21,8 @@ files:
     original_filename: J2 (26).JPG
     thumb: /files/thumbnails/14fb2a113ed91a14fb2a113f0683.jpg
     url: /files/original/14fb2a113ed91a14fb2a113f0683.jpg
+    alt:
+      en: "Hazy, blurred aerial view of an industrial waterfront with cranes, a blue water tower, and a transmission tower, with a helicopter flying overhead in the gray sky."
 geo:
 id: 19307
 item_type: Still Image

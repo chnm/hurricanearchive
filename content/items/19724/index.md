@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 111cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e303a5614fb2a0e303e3b.jpg
     url: /files/original/14fb2a0e303a5614fb2a0e303e3b.jpg
+    alt:
+      en: "Military Humvees and a tank parked in a debris-strewn lot with a sheriff's truck and white pickup nearby, uniformed personnel standing beside the vehicles under a partly cloudy sky."
 geo:
 id: 19724
 item_type: Still Image

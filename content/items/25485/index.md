@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6164_4f61f349a2.jpg
     thumb: /files/thumbnails/14fb29dd9013ec14fb29dd9016e6.jpg
     url: /files/original/14fb29dd9013ec14fb29dd9016e6.jpg
+    alt:
+      en: "A severely water-damaged portrait photograph, with streaks, mold, and discoloration obscuring most of the image except for the subject's eyes, forehead, and dark hair."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

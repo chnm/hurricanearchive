@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0239.JPG
     thumb: /files/thumbnails/14fb29ff18667e14fb29ff186a64.jpg
     url: /files/original/14fb29ff18667e14fb29ff186a64.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses surrounded by standing water, collapsed roofs, scattered debris, and one large intact warehouse-style building amid damaged homes and trees."
 geo:
 id: 21373
 item_type: Still Image

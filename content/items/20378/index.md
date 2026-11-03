@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007H.JPG
     thumb: /files/thumbnails/14fb2a083ac37514fb2a083ac75a.jpg
     url: /files/original/14fb2a083ac37514fb2a083ac75a.jpg
+    alt:
+      en: "Group of people socializing around a pool table in a dimly lit tent, with a man in an Army T-shirt holding a cue and a woman in an orange \"Hooters\" tank top and shorts nearby."
 geo:
 id: 20378
 item_type: Still Image

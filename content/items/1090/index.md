@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28200.jpg
     thumb: /files/thumbnails/14fb2a6b19654114fb2a6b196927.jpg
     url: /files/original/14fb2a6b19654114fb2a6b196927.jpg
+    alt:
+      en: "Storm-stripped, leafless trees stand beside a concrete barrier spray-painted \"WAVELAND AVE,\" with debris scattered across the barren landscape under a blue sky."
 geo:
   address: ''
   lat: 0.0

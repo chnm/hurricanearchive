@@ -21,6 +21,8 @@ files:
     original_filename: LAANG-Photo-06.jpg
     thumb: /files/thumbnails/14fb29d076ff1914fb29d07702ff.jpg
     url: /files/original/14fb29d076ff1914fb29d07702ff.jpg
+    alt:
+      en: "Soldiers in camouflage gather on a tarmac under a steel canopy, surrounded by duffel bags, cases, and supply boxes, with a bus labeled \"T L S Brothers\" and \"Lucky Streak\" parked nearby."
 geo:
 id: 29037
 item_type: Still Image

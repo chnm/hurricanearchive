@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0071abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efc9644314fb29efc9681a.jpg
     url: /files/original/14fb29efc9644314fb29efc9681a.jpg
+    alt:
+      en: "Military flatbed truck carrying a skid-steer loader parked on a damaged roadside, with a uniformed serviceman standing beside it; a Phillips 66 sign and storm-damaged debris are visible nearby."
 geo:
 id: 23366
 item_type: Still Image

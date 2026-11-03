@@ -20,6 +20,8 @@ files:
     original_filename: Lakeview 2.JPG
     thumb: /files/thumbnails/14fb29d5a032b214fb29d5a034be.jpg
     url: /files/original/14fb29d5a032b214fb29d5a034be.jpg
+    alt:
+      en: "Storm-damaged residential street lined with large, leaning trees and scattered debris, with wet pavement and small houses visible in the background under an overcast sky."
 geo:
 id: 27254
 item_type: Still Image

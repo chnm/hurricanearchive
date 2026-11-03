@@ -24,6 +24,8 @@ files:
     original_filename: P1010116.JPG
     thumb: /files/thumbnails/14fb2a5a28716814fb2a5a28754d.jpg
     url: /files/original/14fb2a5a28716814fb2a5a28754d.jpg
+    alt:
+      en: "A broken utility pole leans against the side of a white multi-story building, with transformers and crossarms tilted at an angle; a second intact pole stands nearby amid power lines."
 geo:
 id: 3678
 item_type: Still Image

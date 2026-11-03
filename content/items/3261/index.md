@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (25).JPG
     thumb: /files/thumbnails/14fb2a5d057a9814fb2a5d05a2d0.jpg
     url: /files/original/14fb2a5d057a9814fb2a5d05a2d0.jpg
+    alt:
+      en: "A yellow single-story house with a white picket fence porch shows a spray-painted search-and-rescue marking (\"4-13, 2, TFW, NE\") on its front door, with a cracked, dried mud-covered yard in the foreground."
 geo:
 id: 3261
 item_type: Still Image

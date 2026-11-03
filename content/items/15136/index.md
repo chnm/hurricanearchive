@@ -21,6 +21,8 @@ files:
     original_filename: IMG_6272_fe2a38ebd0.jpg
     thumb: /files/thumbnails/14fb2a16fa654614fb2a16fa692e.jpg
     url: /files/original/14fb2a16fa654614fb2a16fa692e.jpg
+    alt:
+      en: "A hot dog-shaped \"Lucky Dogs\" food cart with a Coca-Cola umbrella displays a menu board at night, as people with Mardi Gras beads gather nearby on a New Orleans street."
 geo:
   address: ''
   lat: 37.77123

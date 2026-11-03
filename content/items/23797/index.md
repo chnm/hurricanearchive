@@ -21,6 +21,8 @@ files:
     original_filename: S4300042neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed05546a14fb29ed055857.jpg
     url: /files/original/14fb29ed05546a14fb29ed055857.jpg
+    alt:
+      en: "Flooded downtown street littered with fallen tree branches and debris, reflecting high-rise buildings in standing water, with military vehicles parked along the curb near a fire hydrant."
 geo:
 id: 23797
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.057.JPG
     thumb: /files/thumbnails/14fb29dcc4fb8814fb29dcc4ff77.jpg
     url: /files/original/14fb29dcc4fb8814fb29dcc4ff77.jpg
+    alt:
+      en: "A white sign mounted on a pole reads \"SAW LEVEE BREAK? Wanted: Witnesses Photos/Video. CALL TOLL FREE 866-360-3065,\" with a street intersection and buildings visible in the background."
 geo:
 id: 25673
 item_type: Still Image

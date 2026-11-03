@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7429.JPG
     thumb: /files/thumbnails/14fb29cca5cd9814fb29cca5d17d.jpg
     url: /files/original/14fb29cca5cd9814fb29cca5d17d.jpg
+    alt:
+      en: "A fallen tree with dense green leaves and branches covers a vehicle, with its silver roof rack and dark windows visible beneath the debris."
 geo:
 id: 30732
 item_type: Still Image

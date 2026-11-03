@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29f019f45214fb29f019fdfd.jpg
     url: /files/original/14fb29f019f45214fb29f019fdfd.jpg
+    alt:
+      en: "Aerial view of marshy wetlands with eroded grassy islands surrounded by churning, foam-streaked blue-gray water, with a small dock structure visible along the right edge."
 geo:
 id: 23291
 item_type: Still Image

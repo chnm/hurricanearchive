@@ -21,6 +21,8 @@ files:
     original_filename: Flood heights marked.6000 Blk West End Blvd.jpg
     thumb: /files/thumbnails/14fb2a216de9a914fb2a216ded94.jpg
     url: /files/original/14fb2a216de9a914fb2a216ded94.jpg
+    alt:
+      en: "A damaged two-story house with boarded windows and a spray-painted flood height marking on its exterior wall, surrounded by piles of debris in the yard."
 geo:
 id: 12853
 item_type: Still Image

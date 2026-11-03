@@ -21,6 +21,8 @@ files:
     original_filename: 09140039neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec5a65cf14fb29ec5a6a66.jpg
     url: /files/original/14fb29ec5a65cf14fb29ec5a6a66.jpg
+    alt:
+      en: "Damaged building with boarded-up windows and doors and a partially stripped shingle roof sits beside railroad tracks, viewed over a concrete highway barrier with a streetlight and power lines overhead."
 geo:
 id: 23926
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: DSCN0041_a19b5048e0.JPG
     thumb: /files/thumbnails/14fb2a57208c4714fb2a5720904a.jpg
     url: /files/original/14fb2a57208c4714fb2a5720904a.jpg
+    alt:
+      en: "A storm-damaged two-story house at 1719 N. Claiborne Ave with collapsed roofing and debris, surrounded by a chain-link fence, horse-drawn carriages, and a distant church steeple."
 geo:
   address: 1719 N. Claiborne Ave.
   lat: 0.0

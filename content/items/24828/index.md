@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2150superdome.JPG
     thumb: /files/thumbnails/14fb29e484e40c14fb29e484ec23.jpg
     url: /files/original/14fb29e484e40c14fb29e484ec23.jpg
+    alt:
+      en: "Two men in military uniforms and life vests sit atop stacked crates (labeled \"5052-004\") floating on floodwater outside a building with a \"Hornets' Nest Official Team Store\" sign."
 geo:
 id: 24828
 item_type: Still Image

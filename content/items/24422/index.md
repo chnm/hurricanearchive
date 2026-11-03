@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0091-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e807d43514fb29e807d81a.jpg
     url: /files/original/14fb29e807d43514fb29e807d81a.jpg
+    alt:
+      en: "Three women in white shirts and jeans walk along a paved road beside a flooded canal lined with trees, photographed from inside a military vehicle with a visible side mirror and guardrail."
 geo:
 id: 24422
 item_type: Still Image

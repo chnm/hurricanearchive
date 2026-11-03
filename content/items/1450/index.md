@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28432.jpg
     thumb: /files/thumbnails/14fb2a689ad6b114fb2a689ada8d.jpg
     url: /files/original/14fb2a689ad6b114fb2a689ada8d.jpg
+    alt:
+      en: "A weathered angel figurine and small metal candlestick stand on a concrete surface amid debris, including wooden slats, dried branches, and a pinecone."
 geo:
   address: ''
   lat: 0.0

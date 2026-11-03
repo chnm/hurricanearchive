@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-18-16A.jpg
     thumb: /files/thumbnails/14fb29e8b71d6514fb29e8b7214a.jpg
     url: /files/original/14fb29e8b71d6514fb29e8b7214a.jpg
+    alt:
+      en: "Aerial view of a highway overpass with scattered debris and lined with people and belongings along the shoulder, a green sign reading \"Carondelet St / St Charles Ave\" visible, surrounded by floodwater and damaged structures below."
 geo:
 id: 24325
 item_type: Still Image

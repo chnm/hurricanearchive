@@ -21,6 +21,8 @@ files:
     original_filename: BG Jones.JPG
     thumb: /files/thumbnails/14fb2a1bd9d48814fb2a1bd9dccd.jpg
     url: /files/original/14fb2a1bd9d48814fb2a1bd9dccd.jpg
+    alt:
+      en: "Man in military camouflage uniform with nameplate reading \"JONES\" and U.S. Army patch, standing indoors near a window with blinds, papers visible in foreground."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 105cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bb53b4414fb2a0bb53f29.jpg
     url: /files/original/14fb2a0bb53b4414fb2a0bb53f29.jpg
+    alt:
+      en: "A uniformed man wearing a cap sits inside a military vehicle, with a side mirror labeled \"WORK AREA\" visible and a row of stacked tires seen through the opposite doorway."
 geo:
 id: 20008
 item_type: Still Image

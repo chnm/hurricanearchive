@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0098-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e790529e14fb29e790566e.jpg
     url: /files/original/14fb29e790529e14fb29e790566e.jpg
+    alt:
+      en: "Cattle graze along a flooded roadside, with a black cow standing near a road sign while other cattle wander near a submerged fence and buildings partially underwater in the background."
 geo:
 id: 24458
 item_type: Still Image

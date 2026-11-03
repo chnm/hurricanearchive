@@ -21,6 +21,8 @@ files:
     original_filename: 100_0160.JPG
     thumb: /files/thumbnails/14fb2a592b2f0714fb2a592b32ec.jpg
     url: /files/original/14fb2a592b2f0714fb2a592b32ec.jpg
+    alt:
+      en: "Floodwaters submerge a street and tree trunks beside a tall concrete bell tower, with pine trees and a partially visible vehicle reflecting in the still water under a pale sky."
 geo:
 id: 3867
 item_type: Still Image

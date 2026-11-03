@@ -21,6 +21,8 @@ files:
     original_filename: at night.jpg
     thumb: /files/thumbnails/14fb2a2124981914fb2a21249ae6.jpg
     url: /files/original/14fb2a2124981914fb2a21249ae6.jpg
+    alt:
+      en: "Night scene with a lit streetlamp, trees silhouetted against a pale building, and a glowing doorway, with raindrops visible in the dark, rain-slicked street in the foreground."
 geo:
 id: 13022
 item_type: Still Image

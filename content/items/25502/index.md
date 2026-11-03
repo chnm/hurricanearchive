@@ -21,6 +21,8 @@ files:
     original_filename: EvaDow-3-3_8744d2bb4b.jpg
     thumb: /files/thumbnails/14fb29dd698f7014fb29dd699355.jpg
     url: /files/original/14fb29dd698f7014fb29dd699355.jpg
+    alt:
+      en: "A young woman in a floral dress poses beside a red car decorated with paper stars, streamers, and balloons for a school \"Ring Day\" celebration, with vehicles and houses in the background."
 geo:
 id: 25502
 item_type: Still Image

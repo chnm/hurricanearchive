@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0222-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff949faf14fb29ff94a39d.jpg
     url: /files/original/14fb29ff949faf14fb29ff94a39d.jpg
+    alt:
+      en: "Aerial view of a flooded rural farmland with scattered homes, barns, and outbuildings surrounded by standing floodwater, while adjacent fields remain green and dry."
 geo:
 id: 21301
 item_type: Still Image

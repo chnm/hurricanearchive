@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-18-16AneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eba17b1714fb29eba17efc.jpg
     url: /files/original/14fb29eba17b1714fb29eba17efc.jpg
+    alt:
+      en: "Urban park scene with large trees stripped of leaves and scattered broken branches on the ground, high-rise buildings visible in the background under a hazy sky."
 geo:
 id: 24028
 item_type: Still Image

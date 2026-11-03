@@ -21,6 +21,8 @@ files:
     original_filename: Picture 015cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c6d0b0b14fb2a0c6d2351.jpg
     url: /files/original/14fb2a0c6d0b0b14fb2a0c6d2351.jpg
+    alt:
+      en: "Damaged structures with collapsed roofs and scattered debris sit behind a chain-link fence, with storm-damaged trees and a grassy foreground visible from a moving vehicle."
 geo:
 id: 19919
 item_type: Still Image

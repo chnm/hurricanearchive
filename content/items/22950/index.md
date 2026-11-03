@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0183media.JPG
     thumb: /files/thumbnails/14fb29f28156c514fb29f2815aab.jpg
     url: /files/original/14fb29f28156c514fb29f2815aab.jpg
+    alt:
+      en: "Two civilians, a man in a striped shirt and a woman in a dark top, pose with two soldiers in camouflage uniforms and gear, standing in front of military vehicles outdoors."
 geo:
 id: 22950
 item_type: Still Image

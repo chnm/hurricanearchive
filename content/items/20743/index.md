@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0069-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a042b267014fb2a042b2a56.jpg
     url: /files/original/14fb2a042b267014fb2a042b2a56.jpg
+    alt:
+      en: "Aerial view of a flooded roadway surrounded by submerged trees and fields, with a damaged car wash building and scattered storm debris visible in the standing floodwater."
 geo:
 id: 20743
 item_type: Still Image

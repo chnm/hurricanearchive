@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0322-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd61374e14fb29fd613b31.jpg
     url: /files/original/14fb29fd61374e14fb29fd613b31.jpg
+    alt:
+      en: "Aerial view of a flooded rural community, with mobile homes and houses surrounded by floodwaters, a submerged red car, and trees partially underwater, bordered by a green agricultural field."
 geo:
 id: 21587
 item_type: Still Image

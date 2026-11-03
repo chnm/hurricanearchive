@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0043.JPG
     thumb: /files/thumbnails/14fb2a56bc13d614fb2a56bc17bb.jpg
     url: /files/original/14fb2a56bc13d614fb2a56bc17bb.jpg
+    alt:
+      en: "Storm-damaged structure with a collapsed roof, exposed plywood decking, broken tree limbs with brown needles, scattered lumber, and torn silver insulation hanging from the debris."
 geo:
 id: 4617
 item_type: Still Image

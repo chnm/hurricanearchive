@@ -27,6 +27,8 @@ files:
     original_filename: stupid tax_f862a36265.jpg
     thumb: /files/thumbnails/14fb29ccdd82f614fb29ccdd86ef.jpg
     url: /files/original/14fb29ccdd82f614fb29ccdd86ef.jpg
+    alt:
+      en: "A concrete barrier spray-painted with \"Stupid Tax\" sits beside a pile of sand, traffic cones, and rusted construction equipment on a debris-strewn New Orleans street."
 geo:
   address: ''
   lat: 0.0

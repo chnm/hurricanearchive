@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1484superdome.JPG
     thumb: /files/thumbnails/14fb29e38bb99e14fb29e38bbf50.jpg
     url: /files/original/14fb29e38bb99e14fb29e38bbf50.jpg
+    alt:
+      en: "A military medical evacuation helicopter marked with a red cross and \"2533\" sits on pavement with two helmeted crew members standing beside it, tall city buildings visible in the background."
 geo:
 id: 24966
 item_type: Still Image

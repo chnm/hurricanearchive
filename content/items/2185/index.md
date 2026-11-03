@@ -26,6 +26,8 @@ files:
     original_filename: b18_abbb3ae817.jpg
     thumb: /files/thumbnails/14fb2a6d803c1814fb2a6d803ffd.jpg
     url: /files/original/14fb2a6d803c1814fb2a6d803ffd.jpg
+    alt:
+      en: "A bent, nearly stripped palm tree stands amid scattered storm debris and collapsed structures, with dark storm clouds looming overhead after Hurricane Charley."
 geo:
   address: ''
   lat: 27.18608

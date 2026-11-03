@@ -21,6 +21,8 @@ files:
     original_filename: DSC00046.jpg
     thumb: /files/thumbnails/14fb2a096ab49b14fb2a096b04a7.jpg
     url: /files/original/14fb2a096ab49b14fb2a096b04a7.jpg
+    alt:
+      en: "A man loads bags of ice into a military truck bed littered with dry leaves, with a military vehicle marked \"225GP\" and a supply truck loaded with bottled water in the background."
 geo:
 id: 20321
 item_type: Still Image

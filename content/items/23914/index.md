@@ -21,6 +21,8 @@ files:
     original_filename: 09140013neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec69b15c14fb29ec69b542.jpg
     url: /files/original/14fb29ec69b15c14fb29ec69b542.jpg
+    alt:
+      en: "Abandoned Spur gas station with fuel pumps under a canopy, scattered cardboard boxes and debris on the ground, and vehicles parked near the darkened convenience store entrance."
 geo:
 id: 23914
 item_type: Still Image

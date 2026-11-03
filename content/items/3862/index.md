@@ -21,6 +21,8 @@ files:
     original_filename: 100_0155.JPG
     thumb: /files/thumbnails/14fb2a5933476314fb2a59334c04.jpg
     url: /files/original/14fb2a5933476314fb2a59334c04.jpg
+    alt:
+      en: "Floodwater surrounds a large tree and submerges the lower portions of nearby houses, with bare and leafy branches hanging over the murky water's surface."
 geo:
 id: 3862
 item_type: Still Image

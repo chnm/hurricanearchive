@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27979.jpg
     thumb: /files/thumbnails/14fb2a69cd2f9814fb2a69cd3375.jpg
     url: /files/original/14fb2a69cd2f9814fb2a69cd3375.jpg
+    alt:
+      en: "A man wearing a cap and gloves adjusts a yellow pole near street signs reading \"ROAD WORK AHEAD,\" \"WEST INTERSTATE 610,\" and \"EAST INTERSTATE 610,\" with a boarded-up building in the background."
 geo:
   address: ''
   lat: 0.0

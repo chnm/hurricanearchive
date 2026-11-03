@@ -27,6 +27,8 @@ files:
     original_filename: '&ldquo;bell South&rdquo;'
     thumb: /files/thumbnails/14fb2a602cdf2814fb2a602ce309.jpg
     url: /files/original/14fb2a602cdf2814fb2a602ce309.jpg
+    alt:
+      en: "Child's crayon drawing of a tall \"BellSouth\" office building with rows of windows, a tornado funnel and clouds in the sky, and a wavy blue line of water below, signed \"Domonique, 12.\""
 geo:
 id: 2790
 item_type: Still Image

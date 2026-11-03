@@ -24,6 +24,8 @@ files:
     original_filename: neighborhood2_ef4d8b0061.jpg
     thumb: /files/thumbnails/14fb2a221447a014fb2a221454be.jpg
     url: /files/original/14fb2a221447a014fb2a221454be.jpg
+    alt:
+      en: "Floodwater submerges a city street lined with buildings and utility poles, with debris floating on the surface and a partially legible \"NO TRE...\" sign visible on a wall in the background."
 geo:
   address: ''
   lat: 29.95657

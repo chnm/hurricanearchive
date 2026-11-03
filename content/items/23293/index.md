@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29f01890d314fb29f0189a25.jpg
     url: /files/original/14fb29f01890d314fb29f0189a25.jpg
+    alt:
+      en: "A police car with lights flashing sits in a flooded roadway beside a tilted mobile home, with standing floodwater surrounding the structure and vehicles and trailers lined up along the road."
 geo:
 id: 23293
 item_type: Still Image

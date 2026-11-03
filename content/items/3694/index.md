@@ -24,6 +24,8 @@ files:
     original_filename: P1010137.JPG
     thumb: /files/thumbnails/14fb2a5a1bd0f614fb2a5a1bd194.jpg
     url: /files/original/14fb2a5a1bd0f614fb2a5a1bd194.jpg
+    alt:
+      en: "Two-story Victorian house with a turret, its roof and conical turret top covered in blue and gray tarps for temporary hurricane damage repair, surrounded by tree branches."
 geo:
 id: 3694
 item_type: Still Image

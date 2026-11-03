@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1202Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6e5e65b14fb29f6e5f26a.jpg
     url: /files/original/14fb29f6e5e65b14fb29f6e5f26a.jpg
+    alt:
+      en: "A nighttime scene of a person wearing camouflage clothing and an orange life vest in dark water, reaching up to grip the edge of a green boat with a life preserver and yellow cord visible."
 geo:
 id: 22380
 item_type: Still Image

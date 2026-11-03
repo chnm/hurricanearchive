@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0123-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e648dc6514fb29e648e04c.jpg
     url: /files/original/14fb29e648dc6514fb29e648e04c.jpg
+    alt:
+      en: "A soldier in woodland camouflage uniform with a U.S. flag patch and sunglasses stands with a rifle slung on his shoulder, touching his face, while another person in light-colored clothing walks by in the background."
 geo:
 id: 24592
 item_type: Still Image

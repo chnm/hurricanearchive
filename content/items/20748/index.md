@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0070-9-25.JPG
     thumb: /files/thumbnails/14fb2a0425c7d714fb2a0425e8f2.jpg
     url: /files/original/14fb2a0425c7d714fb2a0425e8f2.jpg
+    alt:
+      en: "Aerial view of a flooded town with widespread storm damage, showing a partially collapsed brick church, submerged buildings with torn roofs, scattered debris, and bare trees surrounded by standing floodwater."
 geo:
 id: 20748
 item_type: Still Image

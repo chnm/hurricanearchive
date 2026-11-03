@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1826superdome.JPG
     thumb: /files/thumbnails/14fb29e11119e014fb29e1111c6a.jpg
     url: /files/original/14fb29e11119e014fb29e1111c6a.jpg
+    alt:
+      en: "Aerial view of the Superdome and surrounding streets submerged in floodwater, with a nearby billboard reading \"Someone will win $1 Million!\" and a Coca-Cola sign below it."
 geo:
 id: 25200
 item_type: Still Image

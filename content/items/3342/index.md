@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Press conference.JPG
     thumb: /files/thumbnails/14fb2a5c53203b14fb2a5c532421.jpg
     url: /files/original/14fb2a5c53203b14fb2a5c532421.jpg
+    alt:
+      en: "A crowd of television news camera operators with tripod-mounted cameras (including NBC) gathered outdoors at a press conference, with photographers and onlookers in the foreground and brick buildings behind."
 geo:
 id: 3342
 item_type: Still Image

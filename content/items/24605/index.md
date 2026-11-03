@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0125-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e638b9fe14fb29e638bdd5.jpg
     url: /files/original/14fb29e638b9fe14fb29e638bdd5.jpg
+    alt:
+      en: "Aerial view of a flooded roadway with a visible stop sign partly submerged, utility poles leaning in the water, scattered uprooted trees, and a building along the shoreline at right."
 geo:
 id: 24605
 item_type: Still Image

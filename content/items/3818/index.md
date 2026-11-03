@@ -21,6 +21,8 @@ files:
     original_filename: 100_0105.JPG
     thumb: /files/thumbnails/14fb2a5965092a14fb2a59650cac.jpg
     url: /files/original/14fb2a5965092a14fb2a59650cac.jpg
+    alt:
+      en: "A gravel lot scattered with litter and shopping carts where a crowd of people shelter under umbrellas, with vehicles, institutional buildings, and a uniformed police officer nearby."
 geo:
 id: 3818
 item_type: Still Image

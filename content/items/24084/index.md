@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eaf2e19914fb29eaf2e3e7.jpg
     url: /files/original/14fb29eaf2e19914fb29eaf2e3e7.jpg
+    alt:
+      en: "A soldier in camouflage uniform, lying on a military vehicle, is interviewed with a KATC 3 microphone while a cameraman films from above; other people and equipment are visible nearby."
 geo:
 id: 24084
 item_type: Still Image

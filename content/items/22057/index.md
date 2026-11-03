@@ -21,6 +21,8 @@ files:
     original_filename: Picture 388-J2.jpg
     thumb: /files/thumbnails/14fb29f9c9f4d714fb29f9c9f8bd.jpg
     url: /files/original/14fb29f9c9f4d714fb29f9c9f8bd.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with an 82nd Airborne patch and American flag patch holds a stack of four Domino's Pizza boxes in a large hall filled with cots and other people."
 geo:
 id: 22057
 item_type: Still Image

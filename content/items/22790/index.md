@@ -21,6 +21,8 @@ files:
     original_filename: S4300146Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3de405314fb29f3de4440.jpg
     url: /files/original/14fb29f3de405314fb29f3de4440.jpg
+    alt:
+      en: "Large bare-branched tree dominates a gravel lot beside a weathered wooden building and a damaged mobile home, with scattered debris and parked trucks visible in the background."
 geo:
 id: 22790
 item_type: Still Image

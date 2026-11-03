@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-03-2A.jpg
     thumb: /files/thumbnails/14fb29e85bbe8c14fb29e85bc270.jpg
     url: /files/original/14fb29e85bbe8c14fb29e85bc270.jpg
+    alt:
+      en: "Floodwater rises over brick steps and a metal handrail beside a large column, with debris floating on the surface as waves churn nearby."
 geo:
 id: 24382
 item_type: Still Image

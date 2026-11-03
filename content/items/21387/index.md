@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0243-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff0ef6d014fb29ff0efab7.jpg
     url: /files/original/14fb29ff0ef6d014fb29ff0efab7.jpg
+    alt:
+      en: "Aerial view of storm-damaged houses with roof debris and fallen trees, surrounded by floodwater, scattered boats, and downed power lines along a rural road."
 geo:
 id: 21387
 item_type: Still Image

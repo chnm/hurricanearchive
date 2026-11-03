@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1664superdome.JPG
     thumb: /files/thumbnails/14fb29e277937814fb29e2779b1a.jpg
     url: /files/original/14fb29e277937814fb29e2779b1a.jpg
+    alt:
+      en: "Three men stand along a railing atop a large concrete structure, with a dark tail fin or antenna structure visible to the right against a hazy sky."
 geo:
 id: 25078
 item_type: Still Image

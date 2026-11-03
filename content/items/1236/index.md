@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28570.jpg
     thumb: /files/thumbnails/14fb2a6a30779414fb2a6a307b7a.jpg
     url: /files/original/14fb2a6a30779414fb2a6a307b7a.jpg
+    alt:
+      en: "Weathered building overhang with orange spray-painted \"X\" marking stands over a concrete slab, overlooking a debris-strewn empty lot under a clear sky."
 geo:
   address: ''
   lat: 0.0

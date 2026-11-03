@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0422.JPG
     thumb: /files/thumbnails/14fb2a5414251414fb2a541428f9.jpg
     url: /files/original/14fb2a5414251414fb2a541428f9.jpg
+    alt:
+      en: "Storm-damaged forest with tall pine trees stripped of branches, many downed trunks and uprooted debris covering the ground, under a clear blue sky."
 geo:
 id: 5077
 item_type: Still Image

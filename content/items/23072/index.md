@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0082OEP.JPG
     thumb: /files/thumbnails/14fb29f1a392cf14fb29f1a396bf.jpg
     url: /files/original/14fb29f1a392cf14fb29f1a396bf.jpg
+    alt:
+      en: "Under a white canopy tent on a grassy area, two people interview a man in military fatigues, holding a microphone and camera, with parked cars and orange traffic cones visible in the background."
 geo:
 id: 23072
 item_type: Still Image

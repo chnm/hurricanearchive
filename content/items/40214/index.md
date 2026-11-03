@@ -20,6 +20,8 @@ files:
     original_filename: poboyfest_d9fd649cf8.jpg
     thumb: /files/thumbnails/14fb29c506238714fb29c506276c.jpg
     url: /files/original/14fb29c506238714fb29c506276c.jpg
+    alt:
+      en: "A young man in a light green t-shirt and cap stands beside a large sign reading \"Interactive History Presentation: Oak Street During the Time of the Poor Boy,\" listing a schedule of panel discussions and exhibits."
 geo:
   address: Oak Street
   lat: 29.9533

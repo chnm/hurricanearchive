@@ -26,6 +26,8 @@ files:
     original_filename: katrina20_56a0f133a7.jpg
     thumb: /files/thumbnails/14fb2a71443d4d14fb2a71444139.jpg
     url: /files/original/14fb2a71443d4d14fb2a71444139.jpg
+    alt:
+      en: "Flooded street beside a multi-story building, with a military transport truck and several people standing along a railing above the standing floodwater."
 geo:
   address: ''
   lat: 0.0

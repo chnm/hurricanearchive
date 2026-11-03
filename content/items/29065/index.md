@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0596.JPG
     thumb: /files/thumbnails/14fb29d0535c3214fb29d0540b73.jpg
     url: /files/original/14fb29d0535c3214fb29d0540b73.jpg
+    alt:
+      en: "A dark underpass or elevated structure at night, with a row of dim overhead lights receding into the distance and several parked cars, including a red sedan, visible near a metal stairway."
 geo:
 id: 29065
 item_type: Still Image

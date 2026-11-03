@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0382.JPG
     thumb: /files/thumbnails/14fb2a545015a914fb2a54501986.jpg
     url: /files/original/14fb2a545015a914fb2a54501986.jpg
+    alt:
+      en: "Bare wooden support posts stand on a concrete slab amid storm debris, with a damaged pine forest and collapsed structures visible in the background."
 geo:
 id: 5037
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0483.JPG
     thumb: /files/thumbnails/14fb2a53d3f2dd14fb2a53d3f6be.jpg
     url: /files/original/14fb2a53d3f2dd14fb2a53d3f6be.jpg
+    alt:
+      en: "Two houses with storm-damaged roofs and exposed framing sit amid tall pine trees, with debris scattered across the grassy yard and an open-sided covered porch structure in the foreground."
 geo:
 id: 5121
 item_type: Still Image

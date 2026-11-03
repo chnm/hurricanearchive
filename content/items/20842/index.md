@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0131-21.JPG
     thumb: /files/thumbnails/14fb2a0319a71b14fb2a0319adc5.jpg
     url: /files/original/14fb2a0319a71b14fb2a0319adc5.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand near a Humvee parked on a residential street, with food and drinks on the vehicle's hood, brick wall and trees in the background."
 geo:
 id: 20842
 item_type: Still Image

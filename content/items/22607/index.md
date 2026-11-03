@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0571Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f510613114fb29f510650f.jpg
     url: /files/original/14fb29f510613114fb29f510650f.jpg
+    alt:
+      en: "Floodwaters submerge a two-story white building with columned porches and surrounding trees, with a partially submerged boat and a person on a small craft visible near a brick building on the right."
 geo:
 id: 22607
 item_type: Still Image

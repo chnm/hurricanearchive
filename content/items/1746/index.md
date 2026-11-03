@@ -26,6 +26,8 @@ files:
     original_filename: OrangeFirstBaptistEst1857_ade7d100cb.jpg
     thumb: /files/thumbnails/14fb2a6efbad7114fb2a6efbb157.jpg
     url: /files/original/14fb2a6efbad7114fb2a6efbb157.jpg
+    alt:
+      en: "Collapsed brick building with exposed wooden framing, a staircase leading to rubble-strewn floor, and debris scattered throughout the storm-damaged structure."
 geo:
   address: ''
   lat: 30.148461

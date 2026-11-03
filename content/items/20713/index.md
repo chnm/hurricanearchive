@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a04b55bdc14fb2a04b5746b.jpg
     url: /files/original/14fb2a04b55bdc14fb2a04b5746b.jpg
+    alt:
+      en: "Flooded farmland with numerous white ducks wading in standing water amid damaged metal sheds and debris, with a rusted swing set frame in the foreground and a wider flooded waterway behind."
 geo:
 id: 20713
 item_type: Still Image

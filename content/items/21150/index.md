@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0186-9-25.JPG
     thumb: /files/thumbnails/14fb2a0057126a14fb2a00571650.jpg
     url: /files/original/14fb2a0057126a14fb2a00571650.jpg
+    alt:
+      en: "Aerial view of a convoy of military trucks and small boats traveling along a road surrounded by extensive floodwater, with a leaning utility pole and submerged marsh grass nearby."
 geo:
 id: 21150
 item_type: Still Image

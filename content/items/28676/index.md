@@ -23,6 +23,8 @@ files:
     original_filename: 157300437_38bc07251c.jpg
     thumb: /files/thumbnails/14fb29d1c8e8e014fb29d1c8ecb8.jpg
     url: /files/original/14fb29d1c8e8e014fb29d1c8ecb8.jpg
+    alt:
+      en: "A closed McDonald's restaurant with its windows boarded up in plywood, overgrown grass in front, and a small red sign reading \"EMPLOYEES\" posted near the entrance."
 geo:
 id: 28676
 item_type: Still Image

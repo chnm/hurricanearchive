@@ -20,6 +20,8 @@ files:
     original_filename: DSC_0005_d26338bf4d.JPG
     thumb: /files/thumbnails/14fb29cc0b394e14fb29cc0b3d33.jpg
     url: /files/original/14fb29cc0b394e14fb29cc0b3d33.jpg
+    alt:
+      en: "Two-story peach-colored building labeled \"Slidell City Hall\" with boarded-up windows and balcony doors, flanked by flowering crepe myrtle trees and a brick-lined walkway."
 geo:
   address: ''
   lat: 0.0

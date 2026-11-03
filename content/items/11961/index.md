@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 008.jpg
     thumb: /files/thumbnails/14fb2a228a1d9814fb2a228a217e.jpg
     url: /files/original/14fb2a228a1d9814fb2a228a217e.jpg
+    alt:
+      en: "A brick building labeled \"Masonic Temple\" with broken windows, its entrance buried under a large pile of debris, splintered wood, and a crushed silver car."
 geo:
 id: 11961
 item_type: Still Image

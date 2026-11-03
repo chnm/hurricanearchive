@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 035cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e93c2c214fb2a0e93c6a7.jpg
     url: /files/original/14fb2a0e93c2c214fb2a0e93c6a7.jpg
+    alt:
+      en: "Military Humvees parked in a row on pavement, with a satellite dish-equipped communications vehicle in the foreground and a warehouse building in the background; two uniformed personnel stand near traffic cones at right."
 geo:
 id: 19648
 item_type: Still Image

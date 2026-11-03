@@ -24,6 +24,8 @@ files:
     original_filename: P1010078.JPG
     thumb: /files/thumbnails/14fb2a5b4a9f6c14fb2a5b4aa351.jpg
     url: /files/original/14fb2a5b4a9f6c14fb2a5b4aa351.jpg
+    alt:
+      en: "Weathered concrete deer statue with peeling paint stands in a yard covered in dead grass, in front of a white mobile home with wrought-iron railings and a rusted mailbox."
 geo:
 id: 3504
 item_type: Still Image

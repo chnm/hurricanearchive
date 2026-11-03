@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0506.JPG
     thumb: /files/thumbnails/14fb2a53c7b48914fb2a53c7b86e.jpg
     url: /files/original/14fb2a53c7b48914fb2a53c7b86e.jpg
+    alt:
+      en: "A yellow tape measure extends diagonally across wood plank paneling with orange sealant along the seams, with an electrical outlet and blue cover plate mounted at the upper left."
 geo:
 id: 5144
 item_type: Still Image

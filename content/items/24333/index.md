@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-09-7A.jpg
     thumb: /files/thumbnails/14fb29e8adec2514fb29e8adf00a.jpg
     url: /files/original/14fb29e8adec2514fb29e8adf00a.jpg
+    alt:
+      en: "Large military helicopter with rotors spinning sits on a rooftop helipad, with two people standing near its tail amid a backdrop of multi-story city buildings."
 geo:
 id: 24333
 item_type: Still Image

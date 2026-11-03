@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 013cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ea5a64a14fb2a0ea5aa91.jpg
     url: /files/original/14fb2a0ea5a64a14fb2a0ea5aa91.jpg
+    alt:
+      en: "A dark green UH-60 Black Hawk helicopter numbered 600 sits on a grassy field, with Quonset-style metal hangar buildings and trees in the background."
 geo:
 id: 19627
 item_type: Still Image

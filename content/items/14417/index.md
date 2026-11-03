@@ -21,6 +21,8 @@ files:
     original_filename: slide7.jpg
     thumb: /files/thumbnails/14fb2a1931691214fb2a19316cf6.jpg
     url: /files/original/14fb2a1931691214fb2a19316cf6.jpg
+    alt:
+      en: "A black K-9 search dog stands atop storm debris, sniffing through wreckage of wood, insulation, and branches; red text reads \"K-9 Search team, Body search, 1 week after storm.\""
 geo:
 id: 14417
 item_type: Still Image

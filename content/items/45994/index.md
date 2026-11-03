@@ -17,6 +17,8 @@ files:
     original_filename: images.jpeg
     thumb: /files/thumbnails/65f738543fefae2ae607786843bcdeb2.jpg
     url: /files/original/65f738543fefae2ae607786843bcdeb2.jpeg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood, with streets submerged and rooftops of houses visible above the floodwaters, a city skyline faintly seen in the distance."
 geo:
   address: United States
   lat: 29.954934549656144

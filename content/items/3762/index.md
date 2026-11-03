@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 042.jpg
     thumb: /files/thumbnails/14fb2a59d14ff514fb2a59d153e2.jpg
     url: /files/original/14fb2a59d14ff514fb2a59d153e2.jpg
+    alt:
+      en: "Street view of a city intersection with a parking garage, hotel towers, a large guitar-shaped structure, traffic lights, and a clear blue sky overhead."
 geo:
 id: 3762
 item_type: Still Image

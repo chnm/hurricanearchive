@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1129Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7843d3614fb29f7844119.jpg
     url: /files/original/14fb29f7843d3614fb29f7844119.jpg
+    alt:
+      en: "Blurry, dark photograph of a person in dark clothing surrounded by equipment and gear, with a bright triangular light source illuminating part of the scene."
 geo:
 id: 22317
 item_type: Still Image

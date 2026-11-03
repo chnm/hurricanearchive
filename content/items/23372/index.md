@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0074abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efc5b70914fb29efc5baef.jpg
     url: /files/original/14fb29efc5b70914fb29efc5baef.jpg
+    alt:
+      en: "A man wearing a cowboy hat sits atop a dark brown horse on a grassy lot, with a Phillips 66 gas station, trucks, and trees visible in the background."
 geo:
 id: 23372
 item_type: Still Image

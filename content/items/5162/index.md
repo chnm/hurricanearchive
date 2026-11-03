@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0524.JPG
     thumb: /files/thumbnails/14fb2a53aa853314fb2a53aa8916.jpg
     url: /files/original/14fb2a53aa853314fb2a53aa8916.jpg
+    alt:
+      en: "Concrete slab foundation with scattered support piers, remnants of a destroyed structure, surrounded by grass and a tree line under a clear blue sky."
 geo:
 id: 5162
 item_type: Still Image

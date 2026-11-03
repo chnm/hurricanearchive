@@ -26,6 +26,8 @@ files:
     original_filename: 007_05_2d274e2ff1.jpg
     thumb: /files/thumbnails/14fb2a6de6585d14fb2a6de65d09.jpg
     url: /files/original/14fb2a6de6585d14fb2a6de65d09.jpg
+    alt:
+      en: "A massive rusted barge marked \"ING 4727\" sits grounded amid storm debris in the Lower Ninth Ward, with a damaged car, scattered wreckage, and a school bus visible nearby."
 geo:
   address: ''
   lat: 0.0

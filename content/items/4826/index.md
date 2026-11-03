@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0141.JPG
     thumb: /files/thumbnails/14fb2a5543be7e14fb2a5543c25b.jpg
     url: /files/original/14fb2a5543be7e14fb2a5543c25b.jpg
+    alt:
+      en: "Interior view of a damaged attic with exposed wooden rafters, a torn silver metal duct, scattered insulation, debris, and dried pine branches strewn across the floor."
 geo:
 id: 4826
 item_type: Still Image

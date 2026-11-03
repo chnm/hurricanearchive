@@ -21,6 +21,8 @@ files:
     original_filename: J2 (58).JPG
     thumb: /files/thumbnails/14fb2a1109b9f414fb2a1109bddb.jpg
     url: /files/original/14fb2a1109b9f414fb2a1109bddb.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood with multicolored rooftops and tree-lined streets, overlooking a river with a bridge and downtown skyscrapers in the background."
 geo:
 id: 19342
 item_type: Still Image

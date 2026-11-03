@@ -21,6 +21,8 @@ files:
     original_filename: NO 017majortodd.jpg
     thumb: /files/thumbnails/14fb29f2e0f8b914fb29f2e105a8.jpg
     url: /files/original/14fb29f2e0f8b914fb29f2e105a8.jpg
+    alt:
+      en: "Tarmac with skid marks leads toward a military helicopter marked with a red cross, while a large crowd of evacuees gathers near vehicles and police in the background."
 geo:
 id: 22895
 item_type: Still Image

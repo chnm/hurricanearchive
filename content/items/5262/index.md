@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0707.JPG
     thumb: /files/thumbnails/14fb2a5326545514fb2a53265bc8.jpg
     url: /files/original/14fb2a5326545514fb2a53265bc8.jpg
+    alt:
+      en: "Storm-damaged trees, snapped trunks, and fallen debris surround a small white house along a roadside, with power lines and poles overhead and scattered litter in the foreground."
 geo:
 id: 5262
 item_type: Still Image

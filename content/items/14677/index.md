@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AlijahOConnor_05_730317acfb.jpg
     thumb: /files/thumbnails/14fb2a183d9ff214fb2a183da44c.jpg
     url: /files/original/14fb2a183d9ff214fb2a183da44c.jpg
+    alt:
+      en: "A young boy in a green polo shirt and navy pants sits smiling in a classroom, with a bookshelf of children's books and a coat rack holding animal puppets nearby."
 geo:
 id: 14677
 item_type: Still Image

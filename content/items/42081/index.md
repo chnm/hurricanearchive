@@ -23,6 +23,8 @@ files:
     original_filename: Wingate1_bc23800556.jpg
     thumb: /files/thumbnails/14fb29c39a810514fb29c39a90d9.jpg
     url: /files/original/14fb29c39a810514fb29c39a90d9.jpg
+    alt:
+      en: "Damaged house exterior with the garage door torn open, revealing a dark, debris-filled interior; the address \"5769\" is marked on the siding, with scaffolding visible in the foreground."
 geo:
   address: ''
   lat: 30.01853

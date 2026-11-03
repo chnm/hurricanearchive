@@ -21,6 +21,8 @@ files:
     original_filename: 3_214f2903af.jpg
     thumb: /files/thumbnails/14fb29c5fc5a1314fb29c5fc5df4.jpg
     url: /files/original/14fb29c5fc5a1314fb29c5fc5df4.jpg
+    alt:
+      en: "Menu page from Dempsey's listing policies, appetizers, beer and soft drink prices, draft beer options, service fees, and operating hours for Tuesday through Saturday, closed Sunday and Monday."
 geo:
   address: 738 poland ave, new orleans, la
   lat: 29.96118

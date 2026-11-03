@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0030.JPG
     thumb: /files/thumbnails/14fb2a1bb205ef14fb2a1bb209ce.jpg
     url: /files/original/14fb2a1bb205ef14fb2a1bb209ce.jpg
+    alt:
+      en: "Interior of a large warehouse or hangar set up as a temporary shelter, with rows of cots, air mattresses, and personal belongings, while people in uniform rest or stand among the cluttered space at night."
 geo:
   address: ''
   lat: 0.0

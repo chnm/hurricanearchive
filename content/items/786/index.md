@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27906.jpg
     thumb: /files/thumbnails/14fb2a6d09a91714fb2a6d09acf7.jpg
     url: /files/original/14fb2a6d09a91714fb2a6d09acf7.jpg
+    alt:
+      en: "A white station wagon, heavily weathered with peeling paint and rust, sits abandoned on a gravel surface near overgrown bushes and a manhole cover."
 geo:
   address: ''
   lat: 0.0

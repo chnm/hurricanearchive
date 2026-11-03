@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2031superdome.JPG
     thumb: /files/thumbnails/14fb29df4a7d5a14fb29df4a8140.jpg
     url: /files/original/14fb29df4a7d5a14fb29df4a8140.jpg
+    alt:
+      en: "A man in a brown t-shirt runs while giving a thumbs-up, with uniformed personnel in camouflage and a large military vehicle visible in the background."
 geo:
 id: 25304
 item_type: Still Image

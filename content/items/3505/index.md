@@ -24,6 +24,8 @@ files:
     original_filename: P1010079.JPG
     thumb: /files/thumbnails/14fb2a5b49b90a14fb2a5b49bcef.jpg
     url: /files/original/14fb2a5b49b90a14fb2a5b49bcef.jpg
+    alt:
+      en: "A heavily mud-caked Mercury Quest minivan sits abandoned in a driveway, with a flood-damaged brick house, bare trees, and spray-painted search markings visible in the background."
 geo:
 id: 3505
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1058Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8a4f54614fb29f8a4f90b.jpg
     url: /files/original/14fb29f8a4f54614fb29f8a4f90b.jpg
+    alt:
+      en: "Heavy fog blankets a parking lot with several vehicles, a streetlamp, and trees in the foreground, with power lines and indistinct buildings fading into the mist beyond."
 geo:
 id: 22247
 item_type: Still Image

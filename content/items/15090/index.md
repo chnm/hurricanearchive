@@ -21,6 +21,8 @@ files:
     original_filename: 9 11 02 (24)-11_6e3afebcf9.jpg
     thumb: /files/thumbnails/14fb2a1736a85514fb2a1736ac17.jpg
     url: /files/original/14fb2a1736a85514fb2a1736ac17.jpg
+    alt:
+      en: "A group of students, some wearing red, white, and purple shirts, gather around a large black memorial bell mounted on a metal stand in an outdoor parking lot area."
 geo:
 id: 15090
 item_type: Still Image

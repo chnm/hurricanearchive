@@ -24,6 +24,8 @@ files:
     original_filename: P1010068.JPG
     thumb: /files/thumbnails/14fb2a5a8c84d514fb2a5a8c88ba.jpg
     url: /files/original/14fb2a5a8c84d514fb2a5a8c88ba.jpg
+    alt:
+      en: "Row of damaged houses with a massive pile of debris—furniture, mattresses, appliances, and trash bags—heaped along the curb in front of them under a clear blue sky."
 geo:
 id: 3633
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1356Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5b8354b14fb29f5b848df.jpg
     url: /files/original/14fb29f5b8354b14fb29f5b848df.jpg
+    alt:
+      en: "Floodwaters submerge a row of storage units marked \"FMS #13,\" with only rooftops and a red-and-white pyramid structure visible above the water under a heavy, overcast sky."
 geo:
 id: 22515
 item_type: Still Image

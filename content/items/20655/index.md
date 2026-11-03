@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0050H.JPG
     thumb: /files/thumbnails/14fb2a0565510914fb2a056554ef.jpg
     url: /files/original/14fb2a0565510914fb2a056554ef.jpg
+    alt:
+      en: "Nighttime scene with several women in white \"Hooters\" tank tops, one reading \"Siegen,\" standing near a man in camouflage military uniform and others in dark clothing, lit by distant string lights."
 geo:
 id: 20655
 item_type: Still Image

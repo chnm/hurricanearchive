@@ -23,6 +23,8 @@ files:
     original_filename: 1266241642_c177e4085a.jpg
     thumb: /files/thumbnails/14fb29cb76d26714fb29cb76d64e.jpg
     url: /files/original/14fb29cb76d26714fb29cb76d64e.jpg
+    alt:
+      en: "Church marquee reading \"Historic Second Baptist Church\" with a reader board displaying \"Stormy Weather, Mark 4:35-4\" and service times, set atop a brick wall under a cloudy sky."
 geo:
   address: ''
   lat: 30.36332

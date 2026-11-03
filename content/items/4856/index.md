@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0175.JPG
     thumb: /files/thumbnails/14fb2a5525663514fb2a55256a24.jpg
     url: /files/original/14fb2a5525663514fb2a55256a24.jpg
+    alt:
+      en: "A white sunroom addition with large windows attached to a house, surrounded by tall pine trees, shrubs, and a view of another structure and tarps in the background."
 geo:
 id: 4856
 item_type: Still Image

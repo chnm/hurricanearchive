@@ -26,6 +26,8 @@ files:
     original_filename: Front_of_House_78b2dd737c.jpg
     thumb: /files/thumbnails/14fb2a6e88ea3714fb2a6e88edee.jpg
     url: /files/original/14fb2a6e88ea3714fb2a6e88edee.jpg
+    alt:
+      en: "A damaged brick ranch house with barred windows, a torn and patched roof, dead landscaping, and scattered debris including roofing material in the yard."
 geo:
   address: ''
   lat: 29.998653

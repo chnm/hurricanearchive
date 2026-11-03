@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28628.jpg
     thumb: /files/thumbnails/14fb2a681e68d914fb2a681e6cbe.jpg
     url: /files/original/14fb2a681e68d914fb2a681e6cbe.jpg
+    alt:
+      en: "Damaged brick building with a boarded-up window, seen behind a wooden picket fence with a black metal gate bearing an \"EXIT ONLY\" sign, amid scattered debris and fallen branches."
 geo:
   address: ''
   lat: 0.0

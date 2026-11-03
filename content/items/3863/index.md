@@ -21,6 +21,8 @@ files:
     original_filename: 100_0156.JPG
     thumb: /files/thumbnails/14fb2a592f39ea14fb2a592f3dcc.jpg
     url: /files/original/14fb2a592f39ea14fb2a592f3dcc.jpg
+    alt:
+      en: "Floodwater submerges a residential street, covering the lower floors of houses and a church while trees and utility poles rise above the water line under a clear blue sky."
 geo:
 id: 3863
 item_type: Still Image

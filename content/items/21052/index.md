@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0224.JPG
     thumb: /files/thumbnails/14fb2a00dc735414fb2a00dc7739.jpg
     url: /files/original/14fb2a00dc735414fb2a00dc7739.jpg
+    alt:
+      en: "A figure wearing military-style gear, helmet, and backpack leans forward inside what appears to be an aircraft, working near equipment with cables, with bright light and blurred greenery visible outside."
 geo:
 id: 21052
 item_type: Still Image

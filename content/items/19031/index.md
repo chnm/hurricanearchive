@@ -21,6 +21,8 @@ files:
     original_filename: S4300212MSriver.JPG
     thumb: /files/thumbnails/14fb2a13911dd814fb2a1391235d.jpg
     url: /files/original/14fb2a13911dd814fb2a1391235d.jpg
+    alt:
+      en: "Wide river view with a city skyline and high-rise buildings on the left bank, docked barges on the right bank, and overcast gray skies above."
 geo:
 id: 19031
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015-20.JPG
     thumb: /files/thumbnails/14fb2a075477e014fb2a07550cd4.jpg
     url: /files/original/14fb2a075477e014fb2a07550cd4.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with a U.S. flag patch sits at a table eating a meal from a compartmented foam tray, with other people and a large tent structure visible in the background."
 geo:
 id: 20435
 item_type: Still Image

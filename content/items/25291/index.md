@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2018superdome.JPG
     thumb: /files/thumbnails/14fb29df5dcf8414fb29df5dd369.jpg
     url: /files/original/14fb29df5dcf8414fb29df5dd369.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms assist civilians, including a woman bent over and another carrying a handbag, toward a large helicopter with spinning rotor blades on a wet tarmac."
 geo:
 id: 25291
 item_type: Still Image

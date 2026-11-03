@@ -21,6 +21,8 @@ files:
     original_filename: 09280009plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebf3b4bb14fb29ebf3b897.jpg
     url: /files/original/14fb29ebf3b4bb14fb29ebf3b897.jpg
+    alt:
+      en: "A large yellow front-end loader sits in front of a damaged brick building with a sign reading \"Cameron Parish Police Jury, 110 Smith Circle,\" amid debris and a palm tree."
 geo:
 id: 24007
 item_type: Still Image

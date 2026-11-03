@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27881.jpg
     thumb: /files/thumbnails/14fb2a675a3e4014fb2a675a421c.jpg
     url: /files/original/14fb2a675a3e4014fb2a675a421c.jpg
+    alt:
+      en: "Interior of a damaged trailer with a cloth-draped sofa and an adjacent cushioned bench cluttered with tins, boxes, and tools, set against exposed insulation and paneled walls."
 geo:
   address: ''
   lat: 0.0

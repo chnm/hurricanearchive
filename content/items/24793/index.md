@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2115superdome.JPG
     thumb: /files/thumbnails/14fb29e4b1ac8a14fb29e4b1b06f.jpg
     url: /files/original/14fb29e4b1ac8a14fb29e4b1b06f.jpg
+    alt:
+      en: "Nighttime scene showing three men in camouflage military uniforms walking across a dark parking area, with an ambulance marked \"SUPERVISOR\" and \"EMS-1\" visible in the background."
 geo:
 id: 24793
 item_type: Still Image

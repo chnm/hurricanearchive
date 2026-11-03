@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2020superdome.JPG
     thumb: /files/thumbnails/14fb29df5ba8eb14fb29df5bacd6.jpg
     url: /files/original/14fb29df5ba8eb14fb29df5bacd6.jpg
+    alt:
+      en: "A man in a brown t-shirt and glasses holds a young child against his shoulder, his hand resting on the child's back, amid a crowd outdoors under a pale sky."
 geo:
 id: 25293
 item_type: Still Image

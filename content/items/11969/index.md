@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 016.jpg
     thumb: /files/thumbnails/14fb2a228468f614fb2a22846cdc.jpg
     url: /files/original/14fb2a228468f614fb2a22846cdc.jpg
+    alt:
+      en: "Inside a large white tent, volunteers and visitors gather around tables and shopping carts filled with supplies, with stacked boxes visible in the background."
 geo:
 id: 11969
 item_type: Still Image

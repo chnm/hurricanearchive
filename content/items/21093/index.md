@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0175-9-25.JPG
     thumb: /files/thumbnails/14fb2a00a11d4b14fb2a00a12128.jpg
     url: /files/original/14fb2a00a11d4b14fb2a00a12128.jpg
+    alt:
+      en: "Aerial view of a severely damaged house surrounded by floodwaters, its roof partially collapsed and debris scattered across the muddy yard, with a tractor parked near the wreckage."
 geo:
 id: 21093
 item_type: Still Image

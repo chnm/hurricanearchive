@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0093-15.JPG
     thumb: /files/thumbnails/14fb29e7e6631414fb29e7e666f6.jpg
     url: /files/original/14fb29e7e6631414fb29e7e666f6.jpg
+    alt:
+      en: "Dark, out-of-focus photo with a large silhouetted shape filling the left side, framing a blurred aerial view of a textured, debris-covered landscape in muted greens and browns."
 geo:
 id: 24430
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0257-16.JPG
     thumb: /files/thumbnails/14fb29fecaf87e14fb29fecafc64.jpg
     url: /files/original/14fb29fecaf87e14fb29fecafc64.jpg
+    alt:
+      en: "Aerial view of a military truck in camouflage pattern parked on a street near buildings, with several uniformed personnel standing nearby; a sign numbered \"40\" is visible on the building's upper level."
 geo:
 id: 21438
 item_type: Still Image

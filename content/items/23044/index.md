@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054OEP.JPG
     thumb: /files/thumbnails/14fb29f1c7ca8414fb29f1c7ce2d.jpg
     url: /files/original/14fb29f1c7ca8414fb29f1c7ce2d.jpg
+    alt:
+      en: "White RV labeled \"ULTRASPORT\" with a \"MEDIA SUPPORT CENTER, Media Fellowship International\" banner, parked beside stacked cases of Diet Pepsi and Dr Pepper, a table, cooler, and folding chair in a parking lot."
 geo:
 id: 23044
 item_type: Still Image

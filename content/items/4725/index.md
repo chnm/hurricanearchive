@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0072.JPG
     thumb: /files/thumbnails/14fb2a55e8575f14fb2a55e85b42.jpg
     url: /files/original/14fb2a55e8575f14fb2a55e85b42.jpg
+    alt:
+      en: "Storm-damaged landscape with snapped and stripped trees standing amid scattered debris, broken branches, and litter covering the bare ground under a clear blue sky."
 geo:
 id: 4725
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0150-9-18.JPG
     thumb: /files/thumbnails/14fb2a0ab4e05d14fb2a0ab4e442.jpg
     url: /files/original/14fb2a0ab4e05d14fb2a0ab4e442.jpg
+    alt:
+      en: "An overturned, crushed car lies flipped beneath a fallen tree trunk, surrounded by scattered debris, sheet metal, and storm wreckage."
 geo:
 id: 20211
 item_type: Still Image

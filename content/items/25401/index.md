@@ -21,6 +21,8 @@ files:
     original_filename: IMG 3925superdome.JPG
     thumb: /files/thumbnails/14fb29de3382c814fb29de3387c0.jpg
     url: /files/original/14fb29de3382c814fb29de3387c0.jpg
+    alt:
+      en: "Soldiers in camouflage fatigues gather in a parking lot near stacked water bottles, with military vehicles and a highway overpass visible in the background, suggesting a relief distribution point."
 geo:
 id: 25401
 item_type: Still Image

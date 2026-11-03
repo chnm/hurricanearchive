@@ -20,6 +20,8 @@ files:
     original_filename: 124_South_Cortez_NOLA_2831d49c4c.jpg
     thumb: /files/thumbnails/14fb29cbd940a714fb29cbd94496.jpg
     url: /files/original/14fb29cbd940a714fb29cbd94496.jpg
+    alt:
+      en: "Weathered mint-green house at 124 South Cortez Street with peeling paint, a screened front door, and cracked concrete steps where small weeds grow through the gaps."
 geo:
   address: ''
   lat: 29.97191

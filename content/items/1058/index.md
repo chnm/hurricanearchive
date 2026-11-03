@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28362.jpg
     thumb: /files/thumbnails/14fb2a6b3c4d4c14fb2a6b3c513d.jpg
     url: /files/original/14fb2a6b3c4d4c14fb2a6b3c513d.jpg
+    alt:
+      en: "Collapsed concrete sections of the Ocean Springs Bridge lie at broken angles over the water in Biloxi harbor, with a bent streetlight and patches of marsh grass in the foreground under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

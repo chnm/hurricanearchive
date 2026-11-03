@@ -21,6 +21,8 @@ files:
     original_filename: Next to the Superdome 3superdome.jpg
     thumb: /files/thumbnails/14fb29de21c63b14fb29de21ee20.jpg
     url: /files/original/14fb29de21c63b14fb29de21ee20.jpg
+    alt:
+      en: "Military vehicles and camouflage-clad personnel standing in floodwaters beside a large building, with a side mirror reflecting a tree against a bright sky."
 geo:
 id: 25408
 item_type: Still Image

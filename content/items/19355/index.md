@@ -21,6 +21,8 @@ files:
     original_filename: 527%20(sept12)Picture1engineers.png
     thumb: /files/thumbnails/14fb2a10de633a14fb2a10de67f7.jpg
     url: /files/original/14fb2a10de633a14fb2a10de67f7.jpg
+    alt:
+      en: "A military operator drives a compact skid-steer loader down a mud-covered street lined with debris and bare trees, with a person in camouflage standing at right and traffic lights visible in the background."
 geo:
 id: 19355
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: DSCN0439_53e63adab7.JPG
     thumb: /files/thumbnails/14fb2a6e762c5514fb2a6e763040.jpg
     url: /files/original/14fb2a6e762c5514fb2a6e763040.jpg
+    alt:
+      en: "Concrete slab foundations remain where buildings once stood near the coast, with scattered debris and a line of trees in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: 114540170_11934cb108.jpg
     thumb: /files/thumbnails/14fb29d1b53cd214fb29d1b540df.jpg
     url: /files/original/14fb29d1b53cd214fb29d1b540df.jpg
+    alt:
+      en: "Framed Serenity Prayer print with waterfall imagery hangs on a stained, water-damaged wall, flanked by other picture frames with fogged or discolored glass."
 geo:
 id: 28694
 item_type: Still Image

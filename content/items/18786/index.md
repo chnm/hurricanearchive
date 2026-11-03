@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2215bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a153e969c14fb2a153e9a88.jpg
     url: /files/original/14fb2a153e969c14fb2a153e9a88.jpg
+    alt:
+      en: "A military officer in ACU camouflage shakes hands with a line of uniformed Army and Air Force personnel standing in formation outdoors, with military trucks and a photographer visible in the background."
 geo:
 id: 18786
 item_type: Still Image

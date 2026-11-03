@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2081superdome.JPG
     thumb: /files/thumbnails/14fb29e51d42fa14fb29e51d4be9.jpg
     url: /files/original/14fb29e51d42fa14fb29e51d4be9.jpg
+    alt:
+      en: "A group of people stand in a dim hallway facing an exit door lit with a sign reading \"exit Claiborne Avenue,\" with figures visible outside in daylight."
 geo:
 id: 24759
 item_type: Still Image

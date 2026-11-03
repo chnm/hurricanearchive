@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2184.JPG
     thumb: /files/thumbnails/14fb2a13533c6714fb2a1353404d.jpg
     url: /files/original/14fb2a13533c6714fb2a1353404d.jpg
+    alt:
+      en: "Interior view of an aircraft cockpit showing an illuminated instrument panel with green digital gauges, labeled switches including \"AUX COM PANEL\" and \"BLADE DE-ICE,\" with a runway visible through the windshield."
 geo:
 id: 19077
 item_type: Still Image

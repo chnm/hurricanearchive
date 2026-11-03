@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0022-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a06d402e014fb2a06d406de.jpg
     url: /files/original/14fb2a06d402e014fb2a06d406de.jpg
+    alt:
+      en: "Military-style vehicle driving through deep floodwater on a roadway, with a side mirror reflecting the scene and water splashing up near a faded yellow road line."
 geo:
 id: 20486
 item_type: Still Image

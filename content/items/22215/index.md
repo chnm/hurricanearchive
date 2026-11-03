@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1022Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f912979914fb29f91298ec.jpg
     url: /files/original/14fb29f912979914fb29f91298ec.jpg
+    alt:
+      en: "A military Black Hawk helicopter with rotors spinning sits on a paved area, surrounded by soldiers in camouflage, with parked trucks and trees in the background under an overcast sky."
 geo:
 id: 22215
 item_type: Still Image

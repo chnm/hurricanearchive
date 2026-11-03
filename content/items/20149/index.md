@@ -21,6 +21,8 @@ files:
     original_filename: Picture 246cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b0b1d3014fb2a0b0b211f.jpg
     url: /files/original/14fb2a0b0b1d3014fb2a0b0b211f.jpg
+    alt:
+      en: "A military-style camouflage dump truck with six large tires drives along a roadway, with a driver visible in the cab and a concrete barrier and clear blue sky in the background."
 geo:
 id: 20149
 item_type: Still Image

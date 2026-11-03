@@ -21,6 +21,8 @@ files:
     original_filename: end debris1.jpg
     thumb: /files/thumbnails/14fb2a20673d4c14fb2a20674125.jpg
     url: /files/original/14fb2a20673d4c14fb2a20674125.jpg
+    alt:
+      en: "Mangled sheet metal and twisted debris piled on a rain-soaked parking garage level, with numbered \"RESERVED\" parking signs and a cable railing visible in the misty background."
 geo:
 id: 13098
 item_type: Still Image

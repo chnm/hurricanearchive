@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28376.jpg
     thumb: /files/thumbnails/14fb2a6add6ca814fb2a6add7440.jpg
     url: /files/original/14fb2a6add6ca814fb2a6add7440.jpg
+    alt:
+      en: "Man in a cap and \"Key West\" T-shirt sits in a boat's wheelhouse beside a wooden ship's wheel, with binoculars, radios, and wiring visible amid the cabin's windows."
 geo:
   address: ''
   lat: 0.0

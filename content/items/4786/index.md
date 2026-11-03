@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0098.JPG
     thumb: /files/thumbnails/14fb2a55942e6314fb2a55943246.jpg
     url: /files/original/14fb2a55942e6314fb2a55943246.jpg
+    alt:
+      en: "Storm-damaged structure with a brick and concrete chimney base still standing amid collapsed metal roofing panels, fallen tree branches, and scattered debris."
 geo:
 id: 4786
 item_type: Still Image

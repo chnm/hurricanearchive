@@ -18,6 +18,8 @@ files:
     original_filename: 8_4eabc3f39a.jpg
     thumb: /files/thumbnails/14fb29c746087514fb29c7460c49.jpg
     url: /files/original/14fb29c746087514fb29c7460c49.jpg
+    alt:
+      en: "Two-story Victorian house with ornate white gingerbread trim, double balconies with turned balusters, hanging ferns, an American flag, and a second decorative flag, framed by flowering plants."
 geo:
   address: new orleans, la
   lat: 29.95324

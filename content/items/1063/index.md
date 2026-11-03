@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28773.jpg
     thumb: /files/thumbnails/14fb2a6b38984414fb2a6b389c33.jpg
     url: /files/original/14fb2a6b38984414fb2a6b389c33.jpg
+    alt:
+      en: "A white pickup truck labeled \"Response Vehicle\" tows a large orange \"Godwin Power\" generator unit on a trailer along a highway, viewed through a vehicle's windshield."
 geo:
   address: ''
   lat: 0.0

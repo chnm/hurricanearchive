@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2061superdome.JPG
     thumb: /files/thumbnails/14fb29defd528614fb29defd566d.jpg
     url: /files/original/14fb29defd528614fb29defd566d.jpg
+    alt:
+      en: "Service members in camouflage uniforms support a man in a blue shirt between them, with a crowd gathered near an elevated highway overpass in the background."
 geo:
 id: 25334
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1114Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7ca93fc14fb29f7ca998f.jpg
     url: /files/original/14fb29f7ca93fc14fb29f7ca998f.jpg
+    alt:
+      en: "Blurry, dark interior photo of shelving holding red and yellow bundled items, with a bright hazy light source on the left side of the frame."
 geo:
 id: 22303
 item_type: Still Image

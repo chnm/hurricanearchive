@@ -21,6 +21,8 @@ files:
     original_filename: fightingowlstakeabreak_f79ed1e628.jpg
     thumb: /files/thumbnails/14fb29d6f4478614fb29d6f47631.jpg
     url: /files/original/14fb29d6f4478614fb29d6f47631.jpg
+    alt:
+      en: "Yearbook page with three black-and-white photos: close-up of marching band members' legs and shoes, and a nighttime parade shot of the Fighting Owl Band holding round signs spelling \"OWLS.\""
 geo:
 id: 26868
 item_type: Still Image

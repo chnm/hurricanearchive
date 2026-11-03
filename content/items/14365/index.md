@@ -21,6 +21,8 @@ files:
     original_filename: aerials74.jpg
     thumb: /files/thumbnails/14fb2a19925fa014fb2a19926a80.jpg
     url: /files/original/14fb2a19925fa014fb2a19926a80.jpg
+    alt:
+      en: "Aerial view of a coastal neighborhood showing storm-damaged houses, downed trees, scattered debris, and a blue tarp covering part of a roof, with a sandy beach running along the shoreline."
 geo:
 id: 14365
 item_type: Still Image

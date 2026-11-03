@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28248.jpg
     thumb: /files/thumbnails/14fb2a6754c06814fb2a6754c44a.jpg
     url: /files/original/14fb2a6754c06814fb2a6754c44a.jpg
+    alt:
+      en: "Debris-strewn street with a \"Two Hour Parking\" sign in the foreground, a white semi-truck with flatbed trailer, damaged buildings, and scattered storm wreckage along the curb and sidewalk."
 geo:
   address: ''
   lat: 0.0

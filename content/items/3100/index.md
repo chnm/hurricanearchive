@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (5).JPG
     thumb: /files/thumbnails/14fb2a5e0a589114fb2a5e0a5c72.jpg
     url: /files/original/14fb2a5e0a589114fb2a5e0a5c72.jpg
+    alt:
+      en: "Interior of a large military-style tent set up as temporary shelter, with rows of folding cots, black storage cases, mesh window flaps, and a bright doorway at the far end."
 geo:
 id: 3100
 item_type: Still Image

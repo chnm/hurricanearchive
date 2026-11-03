@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0045medics.JPG
     thumb: /files/thumbnails/14fb29e5d1be9514fb29e5d1c27b.jpg
     url: /files/original/14fb29e5d1be9514fb29e5d1c27b.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and latex gloves administers a vaccination shot to a young man's arm in a tiled room, with other uniformed personnel visible in the background."
 geo:
 id: 24650
 item_type: Still Image

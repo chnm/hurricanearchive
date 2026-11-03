@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1686superdome.JPG
     thumb: /files/thumbnails/14fb29e251906014fb29e2519c1f.jpg
     url: /files/original/14fb29e251906014fb29e2519c1f.jpg
+    alt:
+      en: "Rows of uniformed soldiers in camouflage fatigues and caps stand in formation, with military trucks and tactical vehicles parked behind them near a building."
 geo:
 id: 25099
 item_type: Still Image

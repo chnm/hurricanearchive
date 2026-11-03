@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-24_8796d46e14.jpg
     thumb: /files/thumbnails/14fb2a162ec84c14fb2a162ecc2f.jpg
     url: /files/original/14fb2a162ec84c14fb2a162ecc2f.jpg
+    alt:
+      en: "Two young girls sit smiling on wet sand at Biloxi Beach in 1980, one in a dark swimsuit with orange trim, the other in a yellow shirt with red trim, their reflections visible in the shallow water."
 geo:
 id: 15496
 item_type: Still Image

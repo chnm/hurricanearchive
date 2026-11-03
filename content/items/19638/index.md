@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 025cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e9cbc5214fb2a0e9cc37a.jpg
     url: /files/original/14fb2a0e9cbc5214fb2a0e9cc37a.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms walk through an indoor staging area with orange traffic cones and a sign reading \"In-Processing Units,\" set within a warehouse-style building marked \"No Smoking.\""
 geo:
 id: 19638
 item_type: Still Image

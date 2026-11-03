@@ -21,6 +21,8 @@ files:
     original_filename: Picture 360-J2.jpg
     thumb: /files/thumbnails/14fb29f9fe62f014fb29f9ff16e5.jpg
     url: /files/original/14fb29f9fe62f014fb29f9ff16e5.jpg
+    alt:
+      en: "A person in camouflage clothing is partially visible amid dense, dried brown foliage and branches, with a gloved hand holding a plastic bottle."
 geo:
 id: 22029
 item_type: Still Image

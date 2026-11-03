@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-012_0cf1217467.jpg
     thumb: /files/thumbnails/14fb2a16acb50b14fb2a16acb8b4.jpg
     url: /files/original/14fb2a16acb50b14fb2a16acb8b4.jpg
+    alt:
+      en: "First-grade students stand on an outdoor stage under a yellow and black awning, wearing matching \"Children Around the World\" T-shirts with straw hats, bandanas, and denim shorts for a school fair performance."
 geo:
 id: 15274
 item_type: Still Image

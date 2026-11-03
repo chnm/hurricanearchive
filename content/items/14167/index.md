@@ -21,6 +21,8 @@ files:
     original_filename: MPs with water.JPG
     thumb: /files/thumbnails/14fb2a1b17f28414fb2a1b17fdf4.jpg
     url: /files/original/14fb2a1b17f28414fb2a1b17fdf4.jpg
+    alt:
+      en: "Military police in camouflage uniforms stand near a yellow tent and vehicles, including a Humvee and an \"Acadian Ambulance Paramedic Supervisor\" truck, in a parking lot beside the Superdome."
 geo:
   address: ''
   lat: 0.0

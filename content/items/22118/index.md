@@ -21,6 +21,8 @@ files:
     original_filename: 1st Floor flood at Jack Brks 2Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f9795d2a14fb29f979619d.jpg
     url: /files/original/14fb29f9795d2a14fb29f979619d.jpg
+    alt:
+      en: "Grainy, dimly lit interior view of a flooded first floor, with a white vehicle roof visible in the foreground and windows showing faint light in the background."
 geo:
 id: 22118
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0196abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eebb7b9a14fb29eebb7f81.jpg
     url: /files/original/14fb29eebb7b9a14fb29eebb7f81.jpg
+    alt:
+      en: "Two men sit in the bed of a pickup truck, one wearing sunglasses and a cap with a plaid orange shirt, holding a Bud Light bottle, with trees and a cloudy sky in the background."
 geo:
 id: 23575
 item_type: Still Image

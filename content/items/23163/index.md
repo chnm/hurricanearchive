@@ -21,6 +21,8 @@ files:
     original_filename: 261st on C-130delaware.jpg
     thumb: /files/thumbnails/14fb29f147ee5a14fb29f147f24a.jpg
     url: /files/original/14fb29f147ee5a14fb29f147f24a.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms sit along the side of a C-130 aircraft's cargo hold, with a military vehicle loaded in the center and red cargo netting visible along the wall."
 geo:
 id: 23163
 item_type: Still Image

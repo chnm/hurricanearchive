@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0012.JPG
     thumb: /files/thumbnails/14fb2a582bc69714fb2a582bca75.jpg
     url: /files/original/14fb2a582bc69714fb2a582bca75.jpg
+    alt:
+      en: "A wide river under a partly cloudy sky, spanned by three steel truss bridges with a central swing-span section raised above the water."
 geo:
 id: 4062
 item_type: Still Image

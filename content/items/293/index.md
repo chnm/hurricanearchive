@@ -26,6 +26,8 @@ files:
     original_filename: 015_west_park_91f3473a05.jpg
     thumb: /files/thumbnails/14fb2a704b547214fb2a704b58e3.jpg
     url: /files/original/14fb2a704b547214fb2a704b58e3.jpg
+    alt:
+      en: "Roadside view of a park with a row of trees, some snapped or broken, downed branches on the ground beneath power lines, across a street with worn pavement markings."
 geo:
   address: ''
   lat: 30.651656

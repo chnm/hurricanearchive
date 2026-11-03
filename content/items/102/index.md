@@ -26,6 +26,8 @@ files:
     original_filename: onlyinneworleans_eff17593d7.jpg
     thumb: /files/thumbnails/14fb2a710dd1f214fb2a710dd5d7.jpg
     url: /files/original/14fb2a710dd1f214fb2a710dd5d7.jpg
+    alt:
+      en: "Hand-painted plywood sign reading \"DON'T TRY. I AM SLEEPING INSIDE WITH A BIG DOG, AN UGLY WOMAN, TWO SHOTGUNS AND A CLAW HAMMER,\" posted on a wall with faded spray-painted text behind it."
 geo:
   address: ''
   lat: 29.968504

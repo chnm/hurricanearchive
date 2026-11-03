@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0953superdome.JPG
     thumb: /files/thumbnails/14fb29e41dbfae14fb29e41dc6c4.jpg
     url: /files/original/14fb29e41dbfae14fb29e41dc6c4.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms and black garrison caps stand at attention near a teal-colored building, with one nametag reading \"Cullen\" and civilians visible in the background."
 geo:
 id: 24879
 item_type: Still Image

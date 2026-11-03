@@ -26,6 +26,8 @@ files:
     original_filename: DSC01073_178f3bee7b.JPG
     thumb: /files/thumbnails/14fb2a6db5807614fb2a6db586d3.jpg
     url: /files/original/14fb2a6db5807614fb2a6db586d3.jpg
+    alt:
+      en: "Two men stand on a flat rooftop with satellite equipment and boxes, overlooking the damaged dome of the Louisiana Superdome with its weathered, patchwork roof visible in the background."
 geo:
   address: ''
   lat: 29.9506212693763

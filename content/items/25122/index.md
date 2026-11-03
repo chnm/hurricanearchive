@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1725superdome.JPG
     thumb: /files/thumbnails/14fb29e222937314fb29e2229750.jpg
     url: /files/original/14fb29e222937314fb29e2229750.jpg
+    alt:
+      en: "Group of military personnel and medical staff in camouflage and scrubs carrying a patient on a stretcher with medical equipment across a wet parking lot, as onlookers in uniform stand nearby."
 geo:
 id: 25122
 item_type: Still Image

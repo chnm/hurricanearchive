@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0514.JPG
     thumb: /files/thumbnails/14fb2a53baf94e14fb2a53bafd3b.jpg
     url: /files/original/14fb2a53baf94e14fb2a53bafd3b.jpg
+    alt:
+      en: "Cleared waterfront lot with sparse trees, a concrete slab foundation, and patchy grass under a clear blue sky, with a lake and distant structures visible in the background."
 geo:
 id: 5152
 item_type: Still Image

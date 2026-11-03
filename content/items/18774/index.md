@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-04-2Abatonrouge.jpg
     thumb: /files/thumbnails/14fb2a154687ad14fb2a15468b8a.jpg
     url: /files/original/14fb2a154687ad14fb2a15468b8a.jpg
+    alt:
+      en: "Aerial view of a suburban area with scattered houses, industrial buildings, a highway, and surrounding farmland and trees under a hazy sky, taken through an aircraft window."
 geo:
 id: 18774
 item_type: Still Image

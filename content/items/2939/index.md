@@ -21,6 +21,8 @@ files:
     original_filename: MVC-028S.JPG
     thumb: /files/thumbnails/14fb2a5f86034214fb2a5f860733.jpg
     url: /files/original/14fb2a5f86034214fb2a5f860733.jpg
+    alt:
+      en: "A stack of worn brass or metal nameplates, one marked \"OPEN,\" fanned out on a concrete floor with a yellow handwritten tag resting on top."
 geo:
 id: 2939
 item_type: Still Image

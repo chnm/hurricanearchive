@@ -21,6 +21,8 @@ files:
     original_filename: 100_0131.JPG
     thumb: /files/thumbnails/14fb2a5948e32b14fb2a5948e710.jpg
     url: /files/original/14fb2a5948e32b14fb2a5948e710.jpg
+    alt:
+      en: "Flooded boatyard with damaged and capsized boats scattered in muddy water, a metal boat railing in the foreground, and debris-strewn docks beside a concrete wall under a hazy sky."
 geo:
 id: 3840
 item_type: Still Image

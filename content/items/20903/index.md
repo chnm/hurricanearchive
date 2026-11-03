@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0144-21.JPG
     thumb: /files/thumbnails/14fb2a0217e3cd14fb2a0217e798.jpg
     url: /files/original/14fb2a0217e3cd14fb2a0217e798.jpg
+    alt:
+      en: "Military Humvee marked \"HQ-38\" with open rear door parked on a roadway, while uniformed soldiers in camouflage gather and walk nearby under utility poles and power lines."
 geo:
 id: 20903
 item_type: Still Image

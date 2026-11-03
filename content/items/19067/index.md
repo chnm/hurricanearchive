@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1879.JPG
     thumb: /files/thumbnails/14fb2a1372f40e14fb2a1372f936.jpg
     url: /files/original/14fb2a1372f40e14fb2a1372f936.jpg
+    alt:
+      en: "Aerial view of a dual-rotor military helicopter landed in a grassy, terraced interchange cloverleaf beneath an elevated highway marked \"Causeway Blvd South,\" with several small figures standing nearby."
 geo:
 id: 19067
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0153-21-2.JPG
     thumb: /files/thumbnails/14fb2a0167b9f614fb2a0167bddc.jpg
     url: /files/original/14fb2a0167b9f614fb2a0167bddc.jpg
+    alt:
+      en: "Five men in military camouflage uniforms stand in a row on a floor with \"NATIONAL GUARD\" lettering, in front of a wall displaying a \"Certificate of Achievement\" plaque and a \"1Co B415th\" banner."
 geo:
 id: 20941
 item_type: Still Image

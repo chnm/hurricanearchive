@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5686_eb83a2aede.jpg
     thumb: /files/thumbnails/14fb2a1708f4ed14fb2a1708f8d1.jpg
     url: /files/original/14fb2a1708f4ed14fb2a1708f8d1.jpg
+    alt:
+      en: "Two gold ornate frames hinged together, each holding an antique black-and-white photograph: a solemn baby in a diaper on the left, and a young child in a buttoned jacket with a bow on the right."
 geo:
 id: 15121
 item_type: Still Image

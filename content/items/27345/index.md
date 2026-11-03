@@ -23,6 +23,8 @@ files:
     original_filename: 267994433_ec536bccd8.jpg
     thumb: /files/thumbnails/14fb29d438a78d14fb29d438ab73.jpg
     url: /files/original/14fb29d438a78d14fb29d438ab73.jpg
+    alt:
+      en: "A wooden boardwalk collapsed and buckled along the water's edge, with bent metal railings and lampposts twisted sideways; a large building, likely a casino and hotel, stands in the background."
 geo:
 id: 27345
 item_type: Still Image

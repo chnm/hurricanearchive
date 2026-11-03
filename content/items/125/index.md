@@ -26,6 +26,8 @@ files:
     original_filename: tank468_65f3d69552.jpg
     thumb: /files/thumbnails/14fb2a70ee223614fb2a70ee2623.jpg
     url: /files/original/14fb2a70ee223614fb2a70ee2623.jpg
+    alt:
+      en: "An armored \"STATE POLICE TACTICAL UNIT\" vehicle carrying armed officers moves down a debris-strewn street as a crowd of displaced residents gathers along the roadside."
 geo:
   address: ''
   lat: 29.916852233070202

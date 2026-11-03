@@ -20,6 +20,8 @@ files:
     original_filename: bett car on ground pic NOLA_269a26eea2.jpg
     thumb: /files/thumbnails/14fb29cb0adc6714fb29cb0ae048.jpg
     url: /files/original/14fb29cb0adc6714fb29cb0ae048.jpg
+    alt:
+      en: "Large group of volunteers wearing dust masks and work gloves pose together atop and around a car on a muddy lot, with one man raising his fist triumphantly."
 geo:
   address: ''
   lat: 29.94214

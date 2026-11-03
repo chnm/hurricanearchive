@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 077.jpg
     thumb: /files/thumbnails/14fb2a127c2f6714fb2a127c343f.jpg
     url: /files/original/14fb2a127c2f6714fb2a127c343f.jpg
+    alt:
+      en: "Damaged wooden fence leaning over a debris-strewn sidewalk, with a \"Neighborhood Watch\" warning sign on a pole and a vehicle side mirror visible at right."
 geo:
 id: 19167
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 025engineers.jpg
     thumb: /files/thumbnails/14fb2a0fde3ef214fb2a0fde42d0.jpg
     url: /files/original/14fb2a0fde3ef214fb2a0fde42d0.jpg
+    alt:
+      en: "Soldiers in camouflage stand guard near large stacks of bottled water and boxed supplies in a paved lot, with a truss bridge and warehouse buildings visible in the background; the photo is dated SEP 3 2005."
 geo:
 id: 19465
 item_type: Still Image

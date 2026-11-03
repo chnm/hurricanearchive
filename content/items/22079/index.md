@@ -21,6 +21,8 @@ files:
     original_filename: Picture 410-J2.jpg
     thumb: /files/thumbnails/14fb29f99730c214fb29f99734a7.jpg
     url: /files/original/14fb29f99730c214fb29f99734a7.jpg
+    alt:
+      en: "A man in military camouflage pants and a tan t-shirt sits in a folding chair on grass, looking down at a small object in his hands, with a white box and notepad beside him."
 geo:
 id: 22079
 item_type: Still Image

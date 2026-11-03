@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0597.JPG
     thumb: /files/thumbnails/14fb29d0511a2c14fb29d0511e11.jpg
     url: /files/original/14fb29d0511a2c14fb29d0511e11.jpg
+    alt:
+      en: "Hand-painted boards beneath an \"Oriental Rugs, Antique and New\" sign, covered in spray-painted messages including \"Don't try. I am inside a big ugly woman sleeping with two shotguns and a claw hammer\" and references to carnival krewes."
 geo:
 id: 29066
 item_type: Still Image

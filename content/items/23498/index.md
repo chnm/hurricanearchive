@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0136abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef33bbad14fb29ef33bf88.jpg
     url: /files/original/14fb29ef33bbad14fb29ef33bf88.jpg
+    alt:
+      en: "A herd of cattle gathers in a shaded yard beneath large oak trees beside a white wood-sided house, with a utility pole visible in the background."
 geo:
 id: 23498
 item_type: Still Image

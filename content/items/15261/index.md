@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-23_0d4fd432ed.jpg
     thumb: /files/thumbnails/14fb2a16b6823214fb2a16b68617.jpg
     url: /files/original/14fb2a16b6823214fb2a16b68617.jpg
+    alt:
+      en: "Nine men pose in a grassy field holding shovels, one tied with a yellow ribbon, for a groundbreaking ceremony, with trees and a cloudy sky in the background; date stamp reads 4/17/04."
 geo:
 id: 15261
 item_type: Still Image

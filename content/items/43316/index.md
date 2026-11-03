@@ -23,6 +23,8 @@ files:
     original_filename: aKatrina at 101 Brushfire.jpg
     thumb: /files/thumbnails/14fb29c1e74b8614fb29c1e74f6c.jpg
     url: /files/original/14fb29c1e74b8614fb29c1e74f6c.jpg
+    alt:
+      en: "Floodwater submerges a residential yard, covering a vehicle and an inflatable pool, with wind-blown trees and a house visible under a gray, stormy sky."
 geo:
   address: ''
   lat: 30.22807

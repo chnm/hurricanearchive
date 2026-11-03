@@ -24,6 +24,8 @@ files:
     original_filename: DSCN0658.JPG
     thumb: /files/thumbnails/14fb29cfa0199e14fb29cfa02925.jpg
     url: /files/original/14fb29cfa0199e14fb29cfa02925.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather outside a brick building under a covered entrance, with one soldier wearing a tactical vest in the foreground and a man in civilian athletic wear standing nearby."
 geo:
 id: 29099
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27885.jpg
     thumb: /files/thumbnails/14fb2a6d1cfb7f14fb2a6d1cff64.jpg
     url: /files/original/14fb2a6d1cfb7f14fb2a6d1cff64.jpg
+    alt:
+      en: "Man in cap, t-shirt, jeans, and boots stands in doorway of damaged mobile home with foil-covered window and spray-painted \"NGER EP OUT\" warning on the siding."
 geo:
   address: ''
   lat: 0.0

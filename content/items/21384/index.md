@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0242-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff1194e614fb29ff1198cb.jpg
     url: /files/original/14fb29ff1194e614fb29ff1198cb.jpg
+    alt:
+      en: "Aerial view of an industrial refinery or gas processing plant surrounded by floodwaters, with storage tanks, towers, and piping partially submerged; cattle graze on a grassy, unflooded strip in the foreground."
 geo:
 id: 21384
 item_type: Still Image

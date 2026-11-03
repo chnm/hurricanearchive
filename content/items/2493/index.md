@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8571.jpg
     thumb: /files/thumbnails/14fb2a65e57bc914fb2a65e57fa5.jpg
     url: /files/original/14fb2a65e57bc914fb2a65e57fa5.jpg
+    alt:
+      en: "Overturned white shrimp trawler with shattered pilothouse windows rests amid scattered debris in a boatyard, with other damaged vessels visible in the background under a blue sky."
 geo:
 id: 2493
 item_type: Still Image

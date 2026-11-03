@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0478.JPG
     thumb: /files/thumbnails/14fb2a53d71f2314fb2a53d72306.jpg
     url: /files/original/14fb2a53d71f2314fb2a53d72306.jpg
+    alt:
+      en: "A single-story pink house with a partially constructed deck or porch addition sits among tall pine trees, with a debris-strewn, overgrown yard and a mailbox in the foreground."
 geo:
 id: 5116
 item_type: Still Image

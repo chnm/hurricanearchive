@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0158-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a013ed1c414fb2a013ed94c.jpg
     url: /files/original/14fb2a013ed1c414fb2a013ed94c.jpg
+    alt:
+      en: "Damaged single-story building labeled \"WEST END GROCERY\" with a missing window screen and scattered debris, including a fallen chain-link fence, in the foreground amid storm wreckage."
 geo:
 id: 20966
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0282-9-25.JPG
     thumb: /files/thumbnails/14fb29fdd002a914fb29fdd00839.jpg
     url: /files/original/14fb29fdd002a914fb29fdd00839.jpg
+    alt:
+      en: "A large cylindrical metal pipe or tower lies fallen across a flooded, tree-lined landscape, its segmented, rusted sections extending into the distance."
 geo:
 id: 21520
 item_type: Still Image

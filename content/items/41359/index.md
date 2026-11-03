@@ -20,6 +20,8 @@ files:
     original_filename: Katrina t-shirt_3a1dc5a3fa.jpg
     thumb: /files/thumbnails/14fb29c414a11214fb29c414ab47.jpg
     url: /files/original/14fb29c414a11214fb29c414ab47.jpg
+    alt:
+      en: "Close-up of a white T-shirt with hand-lettered black text reading, \"I survived KATRINA & all I have left is this lousy T-shirt.. (Seriously...this is it...)\"."
 geo:
   address: 2000 lakeshore drive
   lat: 29.92957

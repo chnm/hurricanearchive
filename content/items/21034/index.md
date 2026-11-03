@@ -21,6 +21,8 @@ files:
     original_filename: DSC00688.JPG
     thumb: /files/thumbnails/14fb2a0101a0cd14fb2a0101a831.jpg
     url: /files/original/14fb2a0101a0cd14fb2a0101a831.jpg
+    alt:
+      en: "A military helicopter with a red cross emblem flies against a blue sky with scattered clouds, silhouetted beside a utility pole; the date \"SEP 16 2004\" is stamped in the lower right corner."
 geo:
 id: 21034
 item_type: Still Image

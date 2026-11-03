@@ -21,6 +21,8 @@ files:
     original_filename: P1010138empireS&R.JPG
     thumb: /files/thumbnails/14fb29edcb720f14fb29edcb7757.jpg
     url: /files/original/14fb29edcb720f14fb29edcb7757.jpg
+    alt:
+      en: "Flooded industrial facility with a large storage tank, metal building, and pipework surrounded by standing floodwater, debris, and bare trees, with a utility pole and power lines in the foreground."
 geo:
 id: 23697
 item_type: Still Image

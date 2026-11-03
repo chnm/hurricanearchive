@@ -21,6 +21,8 @@ files:
     original_filename: cheerleaders_17655d799d.jpg
     thumb: /files/thumbnails/14fb29d77bd3ff14fb29d77bd7e3.jpg
     url: /files/original/14fb29d77bd3ff14fb29d77bd7e3.jpg
+    alt:
+      en: "Three majorettes in matching hats and uniforms with maroon trim pose mid-routine on a field, saluting with one hand raised, from the 1978 Chalmette High School yearbook."
 geo:
 id: 26844
 item_type: Still Image

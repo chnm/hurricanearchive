@@ -21,6 +21,8 @@ files:
     original_filename: S4300190stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecd130be14fb29ecd134a4.jpg
     url: /files/original/14fb29ecd130be14fb29ecd134a4.jpg
+    alt:
+      en: "Overturned vehicle exposing its undercarriage—exhaust system, axles, and drivetrain—with a residential house roof visible in the background."
 geo:
 id: 23851
 item_type: Still Image

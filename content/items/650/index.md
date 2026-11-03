@@ -26,6 +26,8 @@ files:
     original_filename: 012_10A_d1dda1a5e4.jpg
     thumb: /files/thumbnails/14fb2a6f3b6eb914fb2a6f3b729e.jpg
     url: /files/original/14fb2a6f3b6eb914fb2a6f3b729e.jpg
+    alt:
+      en: "Empty downtown street between high-rise buildings with scattered debris, parked cars, and a pedestrian pulling luggage near traffic signals, shortly after Hurricane Katrina."
 geo:
   address: ''
   lat: 29.952926666596998

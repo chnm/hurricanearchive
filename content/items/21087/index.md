@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0174-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a00a4c68014fb2a00a4ca5c.jpg
     url: /files/original/14fb2a00a4c68014fb2a00a4ca5c.jpg
+    alt:
+      en: "Aerial view of floodwaters submerging a rural property, with bare trees, a fence line, a utility pole, and scattered debris visible above the murky green water."
 geo:
 id: 21087
 item_type: Still Image

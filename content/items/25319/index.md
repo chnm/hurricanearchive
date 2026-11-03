@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2046superdome.JPG
     thumb: /files/thumbnails/14fb29df198b1714fb29df198efc.jpg
     url: /files/original/14fb29df198b1714fb29df198efc.jpg
+    alt:
+      en: "A group of people, including an elderly man and others carrying bags, walk hunched together across a roadway, with one wearing a blue medical glove and a child visible in the background."
 geo:
 id: 25319
 item_type: Still Image

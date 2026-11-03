@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0171-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0107b56514fb2a0107b94c.jpg
     url: /files/original/14fb2a0107b56514fb2a0107b94c.jpg
+    alt:
+      en: "An entire roof structure, torn from its house, lies upside-down in a flooded roadside ditch, surrounded by debris and bare trees in the background."
 geo:
 id: 21022
 item_type: Still Image

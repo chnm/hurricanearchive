@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003-16.JPG
     thumb: /files/thumbnails/14fb2a08ab9a1514fb2a08ab9df6.jpg
     url: /files/original/14fb2a08ab9a1514fb2a08ab9df6.jpg
+    alt:
+      en: "A person in camouflage military uniform and helmet kneels in a grassy field, handling a cable or wire, with vehicles and trees visible along a road in the background."
 geo:
 id: 20339
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28370.jpg
     thumb: /files/thumbnails/14fb2a67b9c35714fb2a67b9ca55.jpg
     url: /files/original/14fb2a67b9c35714fb2a67b9ca55.jpg
+    alt:
+      en: "Man in a cap and purple t-shirt sits in the wood-paneled wheelhouse of a shrimp boat, gesturing while talking, with a round window and \"VIET PR...\" signage visible outside."
 geo:
   address: ''
   lat: 0.0

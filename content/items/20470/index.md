@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019H.JPG
     thumb: /files/thumbnails/14fb2a07027de014fb2a070281bb.jpg
     url: /files/original/14fb2a07027de014fb2a070281bb.jpg
+    alt:
+      en: "A young man in an orange \"Oklahoma State\" T-shirt stands beside a woman in a white and orange tank top holding a drink, both indoors under string lights."
 geo:
 id: 20470
 item_type: Still Image

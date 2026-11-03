@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2244engineers.JPG
     thumb: /files/thumbnails/14fb2a10a1479214fb2a10a14f1d.jpg
     url: /files/original/14fb2a10a1479214fb2a10a14f1d.jpg
+    alt:
+      en: "Two men in camouflage military uniforms stand amid storm debris and fallen tree branches, one holding a chainsaw, with hard hats nearby and boarded-up colorful houses in the background."
 geo:
 id: 19383
 item_type: Still Image

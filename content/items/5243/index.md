@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0688.JPG
     thumb: /files/thumbnails/14fb2a53389c6814fb2a5338a04f.jpg
     url: /files/original/14fb2a53389c6814fb2a5338a04f.jpg
+    alt:
+      en: "A yellow tape measure spans a wooden beam atop a concrete block wall, with a rusted bolt and debris visible in the background."
 geo:
 id: 5243
 item_type: Still Image

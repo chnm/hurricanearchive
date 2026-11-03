@@ -21,6 +21,8 @@ files:
     original_filename: chinook.JPG
     thumb: /files/thumbnails/14fb2a1a9821f114fb2a1a982952.jpg
     url: /files/original/14fb2a1a9821f114fb2a1a982952.jpg
+    alt:
+      en: "A CH-47 Chinook helicopter sits on a rooftop helipad as uniformed personnel assist civilians, including one in a wheelchair, near the aircraft; city buildings and an elevated highway are visible in the background."
 geo:
   address: ''
   lat: 0.0

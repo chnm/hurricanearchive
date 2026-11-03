@@ -21,6 +21,8 @@ files:
     original_filename: MVC-020S.JPG
     thumb: /files/thumbnails/14fb2a5f8ec4dd14fb2a5f8ec8cb.jpg
     url: /files/original/14fb2a5f8ec4dd14fb2a5f8ec8cb.jpg
+    alt:
+      en: "Storage area with metal shelving holding rolled white tubes or pipes, stacked file storage boxes, and a large insulated duct running overhead."
 geo:
 id: 2931
 item_type: Still Image

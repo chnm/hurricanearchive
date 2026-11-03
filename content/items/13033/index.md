@@ -21,6 +21,8 @@ files:
     original_filename: before court sculpt.jpg
     thumb: /files/thumbnails/14fb2a20f6339f14fb2a20f64249.jpg
     url: /files/original/14fb2a20f6339f14fb2a20f64249.jpg
+    alt:
+      en: "A decorative metal pergola with leaf-shaped panels lines a paved walkway beside a shallow reflecting pool, with benches, trash bin, shrubs, and trees along the path."
 geo:
 id: 13033
 item_type: Still Image

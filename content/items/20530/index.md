@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0670a25614fb2a0670a639.jpg
     url: /files/original/14fb2a0670a25614fb2a0670a639.jpg
+    alt:
+      en: "Aerial view of a flooded rural landscape with a submerged roadway, a partially collapsed house missing its roof section, a round above-ground pool, and scattered debris surrounded by standing floodwater and trees."
 geo:
 id: 20530
 item_type: Still Image

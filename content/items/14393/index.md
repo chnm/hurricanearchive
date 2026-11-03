@@ -21,6 +21,8 @@ files:
     original_filename: slide10.jpg
     thumb: /files/thumbnails/14fb2a194deefe14fb2a194df7e4.jpg
     url: /files/original/14fb2a194deefe14fb2a194df7e4.jpg
+    alt:
+      en: "A weathered wooden pier extends into calm water under a clear sky, with a person in an orange jacket standing midway; text reads \"Pier at Pete Fountain's home.\""
 geo:
 id: 14393
 item_type: Still Image

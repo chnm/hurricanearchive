@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043OEP.JPG
     thumb: /files/thumbnails/14fb29f1f9901714fb29f1f99864.jpg
     url: /files/original/14fb29f1f9901714fb29f1f99864.jpg
+    alt:
+      en: "Several RVs and motorhomes, including a white Fleetwood camper, parked on a grassy field under a clear sky, with another striped motorhome and trailer visible in the background."
 geo:
 id: 23033
 item_type: Still Image

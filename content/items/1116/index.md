@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27942.jpg
     thumb: /files/thumbnails/14fb2a6aed220314fb2a6aed293f.jpg
     url: /files/original/14fb2a6aed220314fb2a6aed293f.jpg
+    alt:
+      en: "Superdome dome and a tall sign tower with \"Someone will win $1 Million!\" and Coca-Cola billboards, beside a \"Yield Ahead\" road sign under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

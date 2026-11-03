@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0449.JPG
     thumb: /files/thumbnails/14fb2a53e4f37514fb2a53e4f75b.jpg
     url: /files/original/14fb2a53e4f37514fb2a53e4f75b.jpg
+    alt:
+      en: "A yellow measuring tape extends diagonally across a boundary between cracked, paint-chipped pavement and sand, with a rusty metal rod and footprints visible in the sand."
 geo:
 id: 5104
 item_type: Still Image

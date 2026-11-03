@@ -21,6 +21,8 @@ files:
     original_filename: 100_0096.JPG
     thumb: /files/thumbnails/14fb2a596cc8a514fb2a596ccc94.jpg
     url: /files/original/14fb2a596cc8a514fb2a596ccc94.jpg
+    alt:
+      en: "Two smiling boys and two men ride in a speedboat with a Honda outboard motor, wake trailing behind on open water under a clear sky; one man wears a Coast Guard life vest, another a \"University of New Orleans\" shirt."
 geo:
 id: 3812
 item_type: Still Image

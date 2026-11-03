@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5765_cdb130f962.jpg
     thumb: /files/thumbnails/14fb29da1d03a914fb29da1d0d48.jpg
     url: /files/original/14fb29da1d03a914fb29da1d0d48.jpg
+    alt:
+      en: "Framed photograph of a white single-story cottage with a green shingled roof, two front dormer windows, decorative wraparound porch, and landscaped front yard with shrubs and trees in the background."
 geo:
 id: 26146
 item_type: Still Image

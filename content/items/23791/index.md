@@ -21,6 +21,8 @@ files:
     original_filename: Picture 022neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ed0de35b14fb29ed0de743.jpg
     url: /files/original/14fb29ed0de35b14fb29ed0de743.jpg
+    alt:
+      en: "A young boy wearing a large orange life vest smiles at the camera while riding in a boat on floodwaters, with partially submerged buildings and trees visible in the background."
 geo:
 id: 23791
 item_type: Still Image

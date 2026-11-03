@@ -21,6 +21,8 @@ files:
     original_filename: 184 indunated neighbourhood.jpg
     thumb: /files/thumbnails/14fb2a1f799bc414fb2a1f799faa.jpg
     url: /files/original/14fb2a1f799bc414fb2a1f799faa.jpg
+    alt:
+      en: "Flooded street with standing water surrounding a light green house, with downed tree branches and debris scattered near a utility pole and overhead power lines under an overcast sky."
 geo:
 id: 13191
 item_type: Still Image

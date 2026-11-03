@@ -23,6 +23,8 @@ files:
     original_filename: 1261288318_73a23dfcc2.jpg
     thumb: /files/thumbnails/14fb29cb6a989014fb29cb6b3437.jpg
     url: /files/original/14fb29cb6a989014fb29cb6b3437.jpg
+    alt:
+      en: "Search and rescue markings spray-painted on a wooden wall: \"9.24\" above a September calendar, \"FL1\" at left, a crossed-out circle symbol, all overlaid with an orange X; a black mailbox hangs to the right."
 geo:
 id: 33227
 item_type: Still Image

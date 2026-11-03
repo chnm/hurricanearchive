@@ -21,6 +21,8 @@ files:
     original_filename: S4300243stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eca32ebe14fb29eca332ac.jpg
     url: /files/original/14fb29eca32ebe14fb29eca332ac.jpg
+    alt:
+      en: "Blurry, motion-affected photograph of a muddy ground area with a dark animal-like shape in the foreground and a reddish-brown post or pole rising from the mud in the background."
 geo:
 id: 23878
 item_type: Still Image

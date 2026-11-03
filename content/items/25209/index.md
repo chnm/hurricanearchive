@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1908superdome.JPG
     thumb: /files/thumbnails/14fb29e0dc14f614fb29e0dc1c85.jpg
     url: /files/original/14fb29e0dc14f614fb29e0dc1c85.jpg
+    alt:
+      en: "A U.S. Army medevac helicopter marked \"2431\" with a red cross hovers low in a parking area, with soldiers aboard, as a crowd of people watches from an elevated walkway in the background."
 geo:
 id: 25209
 item_type: Still Image

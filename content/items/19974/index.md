@@ -21,6 +21,8 @@ files:
     original_filename: Picture 071cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bdd375414fb2a0bdd3b39.jpg
     url: /files/original/14fb2a0bdd375414fb2a0bdd3b39.jpg
+    alt:
+      en: "A suburban skyline viewed over a concrete barrier, with bare and leafy trees, scattered rooftops, power lines, utility poles, and a distant McDonald's sign under a clear blue sky."
 geo:
 id: 19974
 item_type: Still Image

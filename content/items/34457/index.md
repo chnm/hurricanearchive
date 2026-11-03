@@ -23,6 +23,8 @@ files:
     original_filename: 2326893402_defd1c22de.
     thumb: /files/thumbnails/14fb29c9f256d814fb29c9f25abd.jpg
     url: /files/original/14fb29c9f256d814fb29c9f25abd.jpg
+    alt:
+      en: "Large pile of splintered wood debris and lumber floats on floodwater behind a row of two-story houses, with bare trees and overcast sky in the background."
 geo:
   address: ''
   lat: 30.2254

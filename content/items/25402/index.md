@@ -21,6 +21,8 @@ files:
     original_filename: IMG 3926superdome.JPG
     thumb: /files/thumbnails/14fb29de327ad614fb29de327d0f.jpg
     url: /files/original/14fb29de327ad614fb29de327d0f.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms sit on cots and stand near a large yellow-and-white tent set up outdoors, with duffel bags, gear, and a parking structure visible in the background."
 geo:
 id: 25402
 item_type: Still Image

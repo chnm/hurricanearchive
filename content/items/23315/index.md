@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046cameron2 (1)S&R.JPG
     thumb: /files/thumbnails/14fb29effbcaa714fb29effbce8c.jpg
     url: /files/original/14fb29effbcaa714fb29effbce8c.jpg
+    alt:
+      en: "Aerial view of a coastal town devastated by hurricane flooding, with debris-covered streets, stripped trees, scattered structures, standing floodwater, and a water tower reading \"CAMERON\" amid an estuary landscape."
 geo:
 id: 23315
 item_type: Still Image

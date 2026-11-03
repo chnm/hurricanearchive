@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 024.jpg
     thumb: /files/thumbnails/14fb2a59e0730c14fb2a59e077f9.jpg
     url: /files/original/14fb2a59e0730c14fb2a59e077f9.jpg
+    alt:
+      en: "Street view from inside a vehicle showing storm-damaged buildings with torn roofing and debris along a roadside, power lines overhead, and a clear blue sky."
 geo:
 id: 3744
 item_type: Still Image

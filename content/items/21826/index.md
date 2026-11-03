@@ -21,6 +21,8 @@ files:
     original_filename: 20050904MS-EO A1170-RC-26B ORLEANS PARISH HURRICANE KATRINA.jpg
     thumb: /files/thumbnails/14fb29fb78723214fb29fb787619.jpg
     url: /files/original/14fb29fb78723214fb29fb787619.jpg
+    alt:
+      en: "Aerial black-and-white reconnaissance photo of flooded streets near UNO and Lakefront Arena in Orleans Parish, with Waldor Dr and Leon C. Simon Dr submerged, dated Sept. 4, 2005."
 geo:
 id: 21826
 item_type: Still Image

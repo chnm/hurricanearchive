@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-14-13AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f94a000a14fb29f94a03e9.jpg
     url: /files/original/14fb29f94a000a14fb29f94a03e9.jpg
+    alt:
+      en: "Several vehicles sit submerged up to their windows in murky floodwater during a storm, with power lines and wind-blown trees barely visible through heavy rain and fog in the background."
 geo:
 id: 22161
 item_type: Still Image

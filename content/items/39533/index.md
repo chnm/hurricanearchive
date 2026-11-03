@@ -20,6 +20,8 @@ files:
     original_filename: endymion2_f9068f9bbd.JPG
     thumb: /files/thumbnails/14fb29c50de91914fb29c50deb2e.jpg
     url: /files/original/14fb29c50de91914fb29c50deb2e.jpg
+    alt:
+      en: "Crowd of costumed parade-goers along Orleans Avenue, including two smiling women with beaded necklaces and drinks in front of a person wearing a tall teal furry hat adorned with sunglasses and a rose."
 geo:
   address: 4630 orleans ave.
   lat: 29.98332

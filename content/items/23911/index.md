@@ -21,6 +21,8 @@ files:
     original_filename: 09140010neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec6bc87914fb29ec6bd1a5.jpg
     url: /files/original/14fb29ec6bc87914fb29ec6bd1a5.jpg
+    alt:
+      en: "A white and blue speedboat labeled \"Chetola\" sits stranded on debris-covered ground amid broken tree branches and a damaged multi-story building in the background."
 geo:
 id: 23911
 item_type: Still Image

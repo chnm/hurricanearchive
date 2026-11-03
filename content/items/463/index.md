@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0381_3b70a47812.JPG
     thumb: /files/thumbnails/14fb2a6fcd7fe414fb2a6fcd83ca.jpg
     url: /files/original/14fb2a6fcd7fe414fb2a6fcd83ca.jpg
+    alt:
+      en: "Only a concrete foundation remains of a house, surrounded by scattered debris and charred, leafless trees stripped by hurricane winds, with an empty paved area in the foreground."
 geo:
   address: ''
   lat: 30.356286425251202

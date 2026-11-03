@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d7581a714fb2a0d75d2d1.jpg
     url: /files/original/14fb2a0d7581a714fb2a0d75d2d1.jpg
+    alt:
+      en: "Two men in camouflage pants and hard hats stand inside a wood-framed building under construction, with a row of plumbing fixtures along one wall and a trailer visible through the open doorway."
 geo:
 id: 19839
 item_type: Still Image

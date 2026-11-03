@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0132cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef37d63914fb29ef37dc66.jpg
     url: /files/original/14fb29ef37d63914fb29ef37dc66.jpg
+    alt:
+      en: "Aerial view of a staging area with striped circus-style tents, Quonset-style shelters, parked vehicles, and a main building, surrounded by green fields, ponds, and dense treelines."
 geo:
 id: 23491
 item_type: Still Image

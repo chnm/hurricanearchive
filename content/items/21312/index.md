@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0224.JPG
     thumb: /files/thumbnails/14fb29ff8bf35c14fb29ff8bf742.jpg
     url: /files/original/14fb29ff8bf35c14fb29ff8bf742.jpg
+    alt:
+      en: "Aerial view of a storm-damaged neighborhood with collapsed roofs, debris-strewn streets, and scattered vehicles, with a river and distant industrial skyline visible in the background."
 geo:
 id: 21312
 item_type: Still Image

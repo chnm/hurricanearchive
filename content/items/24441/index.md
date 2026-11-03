@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0095-15.JPG
     thumb: /files/thumbnails/14fb29e7ae4e4c14fb29e7ae5231.jpg
     url: /files/original/14fb29e7ae4e4c14fb29e7ae5231.jpg
+    alt:
+      en: "Dark silhouette of a figure's arm and shoulder in the foreground, partially obscuring a blurred aerial view of a wooded or debris-covered landscape below."
 geo:
 id: 24441
 item_type: Still Image

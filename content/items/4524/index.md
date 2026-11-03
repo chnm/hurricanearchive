@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0736.JPG
     thumb: /files/thumbnails/14fb2a5711f0af14fb2a5711f49d.jpg
     url: /files/original/14fb2a5711f0af14fb2a5711f49d.jpg
+    alt:
+      en: "Exposed attic framing with wooden rafters, joists, and plywood sheathing, showing a metal truss plate and electrical wiring running between the beams, with sunlight filtering through gaps in the roof."
 geo:
 id: 4524
 item_type: Still Image

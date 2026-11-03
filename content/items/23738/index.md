@@ -21,6 +21,8 @@ files:
     original_filename: P1010179empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed5544e814fb29ed554c3b.jpg
     url: /files/original/14fb29ed5544e814fb29ed554c3b.jpg
+    alt:
+      en: "Debris field of splintered wood, scattered boards, and downed trees surrounds a small elevated house on stilts, with a guardrail and damaged trees in the background under a clear sky."
 geo:
 id: 23738
 item_type: Still Image

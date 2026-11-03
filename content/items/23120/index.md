@@ -21,6 +21,8 @@ files:
     original_filename: 051003-A-2604S-0014WestVirginiaNG.jpg
     thumb: /files/thumbnails/14fb29f17b0fa414fb29f17b1414.jpg
     url: /files/original/14fb29f17b0fa414fb29f17b1414.jpg
+    alt:
+      en: "A uniformed soldier in camouflage and a boonie hat bends down to interact with a young girl in a white top and jeans, with a trailer and tarp-covered structure in the background."
 geo:
 id: 23120
 item_type: Still Image

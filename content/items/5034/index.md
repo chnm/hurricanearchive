@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0379.JPG
     thumb: /files/thumbnails/14fb2a54525f6c14fb2a5452641e.jpg
     url: /files/original/14fb2a54525f6c14fb2a5452641e.jpg
+    alt:
+      en: "Skeletal wooden frame of a structure under construction or repair, with a concrete slab foundation, surrounded by storm-damaged, leafless trees and scattered debris on the ground."
 geo:
 id: 5034
 item_type: Still Image

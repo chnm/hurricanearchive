@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0155-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a015b3bd614fb2a015b4799.jpg
     url: /files/original/14fb2a015b3bd614fb2a015b4799.jpg
+    alt:
+      en: "Aerial view of multiple long, parallel apartment or barracks-style buildings with flat roofs, surrounded by sparse vegetation, parking areas with scattered cars, and adjacent streets."
 geo:
 id: 20950
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2298623602_6db9f9128d.
     thumb: /files/thumbnails/14fb29c7e542cd14fb29c7e546b1.jpg
     url: /files/original/14fb29c7e542cd14fb29c7e546b1.jpg
+    alt:
+      en: "A man with glasses and short brown hair, wearing a dark t-shirt, stands holding a bicycle beside a black vehicle, with tree branches visible overhead."
 geo:
 id: 34993
 item_type: Still Image

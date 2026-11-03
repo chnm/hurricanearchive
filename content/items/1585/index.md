@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27958.jpg
     thumb: /files/thumbnails/14fb2a67bab96114fb2a67babd46.jpg
     url: /files/original/14fb2a67bab96114fb2a67babd46.jpg
+    alt:
+      en: "Man standing beside a folded evacuee cot outside the Superdome, with a water truck and the stadium's curved exterior visible in the background."
 geo:
   address: ''
   lat: 0.0

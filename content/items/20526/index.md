@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028H.JPG
     thumb: /files/thumbnails/14fb2a0679738014fb2a06797765.jpg
     url: /files/original/14fb2a0679738014fb2a06797765.jpg
+    alt:
+      en: "Woman in a white and orange tank top plays air hockey at night, reaching for a red puck on the table, with string lights glowing in the dark background and another person's arm visible in the foreground."
 geo:
 id: 20526
 item_type: Still Image

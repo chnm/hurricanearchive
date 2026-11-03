@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0087-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a03710caa14fb2a03711090.jpg
     url: /files/original/14fb2a03710caa14fb2a03711090.jpg
+    alt:
+      en: "A soldier in camouflage uniform and beret stands with arms crossed on muddy ground, with floodwater surrounding nearby houses and submerged vehicles in the background."
 geo:
 id: 20827
 item_type: Still Image

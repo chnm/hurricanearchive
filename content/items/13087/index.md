@@ -21,6 +21,8 @@ files:
     original_filename: debris courtyard north.jpg
     thumb: /files/thumbnails/14fb2a2084d91314fb2a2084de3a.jpg
     url: /files/original/14fb2a2084d91314fb2a2084de3a.jpg
+    alt:
+      en: "A debris-strewn industrial courtyard with scattered rubble, torn metal sheeting, and litter covering the pavement near storage containers and a yellow-striped barrier gate."
 geo:
 id: 13087
 item_type: Still Image

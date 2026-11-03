@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0100-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e77c59c814fb29e77c5da2.jpg
     url: /files/original/14fb29e77c59c814fb29e77c5da2.jpg
+    alt:
+      en: "Cattle, some lying and some standing, gather along a muddy roadside next to a flooded ditch and grassy field, with power lines and trees visible under a cloudy sky."
 geo:
 id: 24469
 item_type: Still Image

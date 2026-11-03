@@ -21,6 +21,8 @@ files:
     original_filename: MVC-001S.JPG
     thumb: /files/thumbnails/14fb2a5fe0b2e614fb2a5fe0b689.jpg
     url: /files/original/14fb2a5fe0b2e614fb2a5fe0b689.jpg
+    alt:
+      en: "Interior of a ship with a heavy watertight door frame opening onto a rusted, debris-covered compartment with machinery, pipes, and a tarp on the floor."
 geo:
 id: 2844
 item_type: Still Image

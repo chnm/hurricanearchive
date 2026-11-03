@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-duckoystergumbo_312afdd5a4.jpg
     thumb: /files/thumbnails/14fb29dc02810a14fb29dc028534.jpg
     url: /files/original/14fb29dc02810a14fb29dc028534.jpg
+    alt:
+      en: "Cookbook page for \"Wild Duck and Oyster Gumbo\" by Celie Robin, listing ingredients and preparation steps, with a decorative line drawing of a flower-filled basket at the bottom."
 geo:
 id: 25818
 item_type: Still Image

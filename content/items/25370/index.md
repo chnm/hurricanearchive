@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2095superdome.JPG
     thumb: /files/thumbnails/14fb29dea1967914fb29dea19a5e.jpg
     url: /files/original/14fb29dea1967914fb29dea19a5e.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms watch a military helicopter on a rooftop helipad, with city buildings, including one labeled \"VA Medical Center,\" visible in the background."
 geo:
 id: 25370
 item_type: Still Image

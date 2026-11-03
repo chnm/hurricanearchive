@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0229downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14bbccf314fb2a14bbd67d.jpg
     url: /files/original/14fb2a14bbccf314fb2a14bbd67d.jpg
+    alt:
+      en: "Aerial view of a downtown city grid with flat-roofed commercial buildings, parking lots, scattered vehicles, and a tree-lined boulevard leading toward a distant City Hall building."
 geo:
 id: 18879
 item_type: Still Image

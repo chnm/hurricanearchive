@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 025.jpg
     thumb: /files/thumbnails/14fb2a227995b814fb2a2279999d.jpg
     url: /files/original/14fb2a227995b814fb2a2279999d.jpg
+    alt:
+      en: "A damaged bridge roadway ends abruptly at broken concrete and debris, with rows of exposed support pilings extending into the water toward a distant shoreline under a clear blue sky."
 geo:
 id: 11978
 item_type: Still Image

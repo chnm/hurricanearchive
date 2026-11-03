@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0738.JPG
     thumb: /files/thumbnails/14fb2a5710e72014fb2a5710eb06.jpg
     url: /files/original/14fb2a5710e72014fb2a5710eb06.jpg
+    alt:
+      en: "Interior view of storm-damaged attic/ceiling with exposed wooden rafters, black roofing underlayment, pink insulation, and torn drywall with peeling green and white paint below."
 geo:
 id: 4526
 item_type: Still Image

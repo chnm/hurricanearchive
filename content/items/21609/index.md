@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0342-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd22d1dc14fb29fd22d5c2.jpg
     url: /files/original/14fb29fd22d1dc14fb29fd22d5c2.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with a road running through submerged marshland, several shrimp boats and smaller vessels scattered in the floodwaters, and damaged buildings near the shoreline."
 geo:
 id: 21609
 item_type: Still Image

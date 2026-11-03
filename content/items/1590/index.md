@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28528.jpg
     thumb: /files/thumbnails/14fb2a67b5107d14fb2a67b5149d.jpg
     url: /files/original/14fb2a67b5107d14fb2a67b5149d.jpg
+    alt:
+      en: "Two men stand beside a Domino's Pizza delivery cart marked \"Now Hiring\" and \"Now Open,\" one holding a pizza box, with construction debris and an excavator in the background."
 geo:
   address: ''
   lat: 0.0

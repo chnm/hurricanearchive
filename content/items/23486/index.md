@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0130abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef3b122314fb29ef3b1609.jpg
     url: /files/original/14fb29ef3b122314fb29ef3b1609.jpg
+    alt:
+      en: "A white single-story house surrounded by floodwater reaching its windowsills, with a damaged front door, broken porch railings, and debris floating nearby; bare trees line the background."
 geo:
 id: 23486
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi542.JPG
     thumb: /files/thumbnails/14fb2a22525c2014fb2a22525ffb.jpg
     url: /files/original/14fb2a22525c2014fb2a22525ffb.jpg
+    alt:
+      en: "A man in a light blue shirt walks alongside a woman in a gray suit outdoors near a brick building, with a partially visible sign reading \"Salute Your Helping Hands\" and onlookers nearby."
 geo:
 id: 12019
 item_type: Still Image

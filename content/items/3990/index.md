@@ -21,6 +21,8 @@ files:
     original_filename: DSC01080.JPG
     thumb: /files/thumbnails/14fb2a58a28e0614fb2a58a291ec.jpg
     url: /files/original/14fb2a58a28e0614fb2a58a291ec.jpg
+    alt:
+      en: "Flooded residential street with a street sign reading \"Florida Blvd,\" submerged houses and trees, and two people in a small motorboat wearing life jackets; timestamp \"5 9:48 AM\" overlaid in the corner."
 geo:
 id: 3990
 item_type: Still Image

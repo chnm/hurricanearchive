@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0172neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef0b3fde14fb29ef0b43c3.jpg
     url: /files/original/14fb29ef0b3fde14fb29ef0b43c3.jpg
+    alt:
+      en: "Quiet residential street lined with trees and stucco houses, large piles of debris and discarded household items heaped along the curb, with utility poles and power lines overhead."
 geo:
 id: 23546
 item_type: Still Image

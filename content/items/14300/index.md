@@ -21,6 +21,8 @@ files:
     original_filename: aerials141.jpg
     thumb: /files/thumbnails/14fb2a19e9d1aa14fb2a19ea0132.jpg
     url: /files/original/14fb2a19e9d1aa14fb2a19ea0132.jpg
+    alt:
+      en: "Aerial view of waterfront properties reduced to concrete slabs and bare support posts after a hurricane, with scattered debris, a trampoline, docks, and surrounding trees showing storm damage."
 geo:
 id: 14300
 item_type: Still Image

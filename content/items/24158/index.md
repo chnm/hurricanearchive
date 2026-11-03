@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea33d1cd14fb29ea33d5b2.jpg
     url: /files/original/14fb29ea33d1cd14fb29ea33d5b2.jpg
+    alt:
+      en: "Military convoy trucks drive through a flooded road, splashing water, with a boarded-up house and bare trees in the background under a cloudy sky."
 geo:
 id: 24158
 item_type: Still Image

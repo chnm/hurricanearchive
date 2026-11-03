@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0188.JPG
     thumb: /files/thumbnails/14fb2a5518e1a214fb2a5518e581.jpg
     url: /files/original/14fb2a5518e1a214fb2a5518e581.jpg
+    alt:
+      en: "Blurry close-up of a wooden surface with a diagonal white edge or strip crossing the frame, with a light-colored textured object visible near the top."
 geo:
 id: 4869
 item_type: Still Image

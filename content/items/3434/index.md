@@ -24,6 +24,8 @@ files:
     original_filename: P1010001.JPG
     thumb: /files/thumbnails/14fb2a5bc2f4f114fb2a5bc32172.jpg
     url: /files/original/14fb2a5bc2f4f114fb2a5bc32172.jpg
+    alt:
+      en: "A brick one-story house at 1337 Melody Dr. in Metairie with a blue tarp covering storm-damaged roof sections, surrounded by broken tree limbs and debris on the lawn."
 geo:
 id: 3434
 item_type: Still Image

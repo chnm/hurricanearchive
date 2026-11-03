@@ -21,6 +21,8 @@ files:
     original_filename: henderberg5_82ff5a990b.jpg
     thumb: /files/thumbnails/14fb29c97ea9c614fb29c97eadad.jpg
     url: /files/original/14fb29c97ea9c614fb29c97eadad.jpg
+    alt:
+      en: "Weathered two-tiered aboveground tomb inscribed \"M. KOENIG,\" with a person lying feet-first in the upper vault and another crouched in the lower opening, in St. Louis Cemetery No. 7."
 geo:
   address: 3500 St. Claude Ave., New Orleans, LA
   lat: 0.0

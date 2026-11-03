@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (57).jpg
     thumb: /files/thumbnails/14fb2a5cad478014fb2a5cad4c51.jpg
     url: /files/original/14fb2a5cad478014fb2a5cad4c51.jpg
+    alt:
+      en: "A man in a blue shirt holds a microphone near storm debris, floodwater, and leaning utility poles, with a white SUV marked \"ANIMAL RESCUE\" and the \"Burch Tire Co.\" building in the background."
 geo:
 id: 3296
 item_type: Still Image

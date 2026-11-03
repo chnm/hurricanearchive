@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0552.JPG
     thumb: /files/thumbnails/14fb2a5371f5bf14fb2a5371f9b9.jpg
     url: /files/original/14fb2a5371f5bf14fb2a5371f9b9.jpg
+    alt:
+      en: "A pond surrounded by tall marsh grass, with a dirt path in the foreground, scattered trees, and a raised highway bridge visible in the background under a clear sky."
 geo:
 id: 5190
 item_type: Still Image

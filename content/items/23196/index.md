@@ -21,6 +21,8 @@ files:
     original_filename: P1010016delaware.JPG
     thumb: /files/thumbnails/14fb29f0e6d37114fb29f0e6d755.jpg
     url: /files/original/14fb29f0e6d37114fb29f0e6d755.jpg
+    alt:
+      en: "A military cargo plane on a tarmac with its rear ramp lowered, as a truck is loaded inside while several uniformed personnel stand nearby."
 geo:
 id: 23196
 item_type: Still Image

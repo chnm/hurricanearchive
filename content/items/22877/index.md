@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0205mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2f2e61814fb29f2f2ea00.jpg
     url: /files/original/14fb29f2f2e61814fb29f2f2ea00.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms and caps stand on a debris-strewn street, one holding a rifle, with damaged trees, downed branches, and houses in the background."
 geo:
 id: 22877
 item_type: Still Image

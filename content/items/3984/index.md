@@ -21,6 +21,8 @@ files:
     original_filename: DSC01074.JPG
     thumb: /files/thumbnails/14fb2a58a66a0914fb2a58a66de6.jpg
     url: /files/original/14fb2a58a66a0914fb2a58a66de6.jpg
+    alt:
+      en: "Floodwaters submerge a roadway up to the base of a highway sign reading \"TO Interstate 10, Interstate 610,\" with a small boat carrying people in red life jackets navigating past partially submerged trees."
 geo:
 id: 3984
 item_type: Still Image

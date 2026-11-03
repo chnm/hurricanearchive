@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0068-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a042e663b14fb2a042e6a25.jpg
     url: /files/original/14fb2a042e663b14fb2a042e6a25.jpg
+    alt:
+      en: "Aerial view of a flooded coastal road surrounded by submerged land, downed power lines, uprooted trees, and scattered storm debris, with floodwaters extending to the horizon."
 geo:
 id: 20739
 item_type: Still Image

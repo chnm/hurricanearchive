@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 133cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e1b289c14fb2a0e1b2c9d.jpg
     url: /files/original/14fb2a0e1b289c14fb2a0e1b2c9d.jpg
+    alt:
+      en: "Close-up of a military flight suit with patches, including an American flag, a \"Renegade Assault\" patch, and a name tag reading \"Ken C. Franks, US Army,\" with a helicopter visible in the background."
 geo:
 id: 19746
 item_type: Still Image

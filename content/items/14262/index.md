@@ -21,6 +21,8 @@ files:
     original_filename: aerials104.jpg
     thumb: /files/thumbnails/14fb2a1a5daaf614fb2a1a5daedc.jpg
     url: /files/original/14fb2a1a5daaf614fb2a1a5daedc.jpg
+    alt:
+      en: "Aerial view of a flattened house site with scattered debris near a road, surrounded by muddy, flooded ground and stripped, broken trees."
 geo:
 id: 14262
 item_type: Still Image

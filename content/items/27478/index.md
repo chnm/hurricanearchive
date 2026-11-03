@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6504_0b2b56311e.jpg
     thumb: /files/thumbnails/14fb29d41a4ba514fb29d41a4f8b.jpg
     url: /files/original/14fb29d41a4ba514fb29d41a4f8b.jpg
+    alt:
+      en: "A backyard swimming pool covered in debris and leaves, framed by overgrown greenery and a wooden lattice pergola, with a date stamp reading 9/13/05 in the corner."
 geo:
   address: ''
   lat: 29.84064

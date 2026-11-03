@@ -21,6 +21,8 @@ files:
     original_filename: PICT0308Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4b9731414fb29f4b976fa.jpg
     url: /files/original/14fb29f4b9731414fb29f4b976fa.jpg
+    alt:
+      en: "Small brick gatehouse with a tiled roof and the number \"33\" above its window, flanked by hedges, with a military truck and parked car nearby; dated 09.15.2005."
 geo:
 id: 22697
 item_type: Still Image

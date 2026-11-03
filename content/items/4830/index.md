@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0145.JPG
     thumb: /files/thumbnails/14fb2a5540828a14fb2a55408670.jpg
     url: /files/original/14fb2a5540828a14fb2a55408670.jpg
+    alt:
+      en: "Concrete pier foundations stand amid storm debris where a house once stood, with a collapsed roof section at left and scattered wood, metal, and insulation covering the ground."
 geo:
 id: 4830
 item_type: Still Image

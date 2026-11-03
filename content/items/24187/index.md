@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29e9fcb2a914fb29e9fcb68d.jpg
     url: /files/original/14fb29e9fcb2a914fb29e9fcb68d.jpg
+    alt:
+      en: "Aerial view of a flooded coastal marsh landscape with a long low bridge crossing a wide waterway, surrounded by waterlogged vegetation and scattered small structures under a hazy sky."
 geo:
 id: 24187
 item_type: Still Image

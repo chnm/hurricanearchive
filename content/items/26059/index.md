@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6990_09b8688c15.jpg
     thumb: /files/thumbnails/14fb29db75b43914fb29db75b817.jpg
     url: /files/original/14fb29db75b43914fb29db75b817.jpg
+    alt:
+      en: "Large group portrait of Black men and boys in suits holding American flags, posed on the steps of a Roman Catholic church decorated with bunting, with two priests standing among them."
 geo:
   address: ''
   lat: 29.80252

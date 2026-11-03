@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6506_6873e16996.jpg
     thumb: /files/thumbnails/14fb29d418fbd514fb29d418ffb1.jpg
     url: /files/original/14fb29d418fbd514fb29d418ffb1.jpg
+    alt:
+      en: "A residential street lined with large oak trees shows piles of storm debris and fallen branches along the curbs, with a few distant figures walking down the road; a timestamp reads \"10 19 05.\""
 geo:
   address: ''
   lat: 29.91685

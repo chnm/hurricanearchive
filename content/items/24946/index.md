@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1457superdome.JPG
     thumb: /files/thumbnails/14fb29e3a6a91414fb29e3a6ae19.jpg
     url: /files/original/14fb29e3a6a91414fb29e3a6ae19.jpg
+    alt:
+      en: "Five soldiers in camouflage uniforms, some with \"MP\" armbands, pose on a flooded street near a \"SUPERDOME\" parking sign, with sheriff's deputies and floodwaters visible behind them."
 geo:
 id: 24946
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.120.JPG
     thumb: /files/thumbnails/14fb29dce1157614fb29dce1195b.jpg
     url: /files/original/14fb29dce1157614fb29dce1195b.jpg
+    alt:
+      en: "Dark, gutted interior of a building with exposed framing, viewed through a doorway toward a decorative wrought-iron window grate showing greenery outside."
 geo:
 id: 25656
 item_type: Still Image

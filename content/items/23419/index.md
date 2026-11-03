@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0096abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef83d62e14fb29ef83da18.jpg
     url: /files/original/14fb29ef83d62e14fb29ef83da18.jpg
+    alt:
+      en: "A dark cow walks along a paved road beside extensive floodwater covering fields, with a bent \"55\" speed limit sign and submerged fence posts visible near the water's edge."
 geo:
 id: 23419
 item_type: Still Image

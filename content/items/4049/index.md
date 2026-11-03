@@ -21,6 +21,8 @@ files:
     original_filename: DSC01175.JPG
     thumb: /files/thumbnails/14fb2a5838108814fb2a5838146d.jpg
     url: /files/original/14fb2a5838108814fb2a5838146d.jpg
+    alt:
+      en: "Floodwaters submerge a highway and surrounding area near a domed stadium and downtown high-rises, with partially submerged cars visible among trees and a guardrail in the foreground."
 geo:
 id: 4049
 item_type: Still Image

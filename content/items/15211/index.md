@@ -20,6 +20,8 @@ files:
     original_filename: 9_54afcea548.jpg
     thumb: /files/thumbnails/14fb2a165724cc14fb2a165728b1.jpg
     url: /files/original/14fb2a165724cc14fb2a165728b1.jpg
+    alt:
+      en: "A young man wearing a gray cap and blue striped shirt sits in a recliner, holding a CD, while a gray-and-white cat rests on his lap."
 geo:
   address: Friscoville Ave.
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 028.jpg
     thumb: /files/thumbnails/14fb2a22c3258b14fb2a22c3296a.jpg
     url: /files/original/14fb2a22c3258b14fb2a22c3296a.jpg
+    alt:
+      en: "A storm-damaged storefront with a collapsed red metal roof and broken signage reading \"...O STATI...\", debris scattered beneath, in an empty parking lot; dated 2005/09/24."
 geo:
 id: 11906
 item_type: Still Image

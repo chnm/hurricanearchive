@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0275downtownnola.JPG
     thumb: /files/thumbnails/14fb2a142a94d314fb2a142a98a0.jpg
     url: /files/original/14fb2a142a94d314fb2a142a98a0.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood surrounding a circular lagoon, with scorched trees, debris-covered lots, and damaged rooftops visible, a larger body of water and distant coastline in the background under hazy sky."
 geo:
 id: 18925
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0984superdome.JPG
     thumb: /files/thumbnails/14fb29e3f0aef514fb29e3f0b1af.jpg
     url: /files/original/14fb29e3f0aef514fb29e3f0b1af.jpg
+    alt:
+      en: "A man in military camouflage uniform and another in a white tank top help lift a person wearing a white t-shirt into a wheelchair beside an open van door."
 geo:
 id: 24909
 item_type: Still Image

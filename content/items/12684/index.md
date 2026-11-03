@@ -21,6 +21,8 @@ files:
     original_filename: 100-28_46880da8f1.jpg
     thumb: /files/thumbnails/14fb2a21c8475a14fb2a21c84b3e.jpg
     url: /files/original/14fb2a21c8475a14fb2a21c84b3e.jpg
+    alt:
+      en: "Program cover for the Oliver Bush, Sr. Playground dedication ceremony, featuring a man's portrait and text reading \"Corner Caffin & Florida Avenues, January 30, 1982, 10:00 A.M., Ernest N. Morial, Mayor, City of New Orleans.\""
 geo:
 id: 12684
 item_type: Still Image

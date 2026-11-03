@@ -21,6 +21,8 @@ files:
     original_filename: Picture 015engineers.jpg
     thumb: /files/thumbnails/14fb2a0fe988fc14fb2a0fe993d4.jpg
     url: /files/original/14fb2a0fe988fc14fb2a0fe993d4.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms work on a large rusted pipe and yellow metal structure, with a bulldozer and debris nearby under a clear blue sky crossed by power lines."
 geo:
 id: 19455
 item_type: Still Image

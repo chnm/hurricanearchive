@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006tentcity.JPG
     thumb: /files/thumbnails/14fb2a0da9d76014fb2a0da9db45.jpg
     url: /files/original/14fb2a0da9d76014fb2a0da9db45.jpg
+    alt:
+      en: "Three men in camouflage pants and tan t-shirts stand and walk between rows of large tan canvas tents set up in a tent city, with one man securing a tent flap and another crouching in the background."
 geo:
 id: 19816
 item_type: Still Image

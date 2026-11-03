@@ -21,6 +21,8 @@ files:
     original_filename: S4300178stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece4642214fb29ece46806.jpg
     url: /files/original/14fb29ece4642214fb29ece46806.jpg
+    alt:
+      en: "A debris-covered car with its trunk full of dried mud and brush sits in a driveway in front of a storm-damaged house with a plywood-covered door and window, cracked dried mud covering the ground."
 geo:
 id: 23839
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d86379914fb2a0d863b7b.jpg
     url: /files/original/14fb2a0d86379914fb2a0d863b7b.jpg
+    alt:
+      en: "Two men in sweat-stained t-shirts and camouflage pants walk along a wooden boardwalk past a row of tan tent structures, one carrying cables or hoses, at an outdoor relief camp."
 geo:
 id: 19829
 item_type: Still Image

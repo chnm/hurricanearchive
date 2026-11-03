@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28409.jpg
     thumb: /files/thumbnails/14fb2a6c364d8514fb2a6c36519f.jpg
     url: /files/original/14fb2a6c364d8514fb2a6c36519f.jpg
+    alt:
+      en: "Roadside signs on dual posts: a round blue sign with an upward arrow reading \"Hurricane Evacuation Route,\" above a square sign reading \"For Information Tune Radio To 870 AM 101.9 FM,\" set against grass and trees."
 geo:
   address: ''
   lat: 0.0

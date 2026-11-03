@@ -21,6 +21,8 @@ files:
     original_filename: michaell riess_53898ae05b.jpg
     thumb: /files/thumbnails/14fb29d733a05514fb29d733a435.jpg
     url: /files/original/14fb29d733a05514fb29d733a435.jpg
+    alt:
+      en: "Yearbook page featuring a young man in a suit and tie posed outdoors near a historic building, alongside a printed biography under the heading \"Mr. Chalmette\" describing Michael Riess's school activities and honors."
 geo:
 id: 26855
 item_type: Still Image

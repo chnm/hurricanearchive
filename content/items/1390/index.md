@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28552.jpg
     thumb: /files/thumbnails/14fb2a6925823514fb2a69258623.jpg
     url: /files/original/14fb2a6925823514fb2a69258623.jpg
+    alt:
+      en: "A large truck labeled \"PRENTICE 384\" drives through a flooded street under a concrete overpass, with a car's side mirror and windshield visible in the foreground."
 geo:
   address: ''
   lat: 0.0

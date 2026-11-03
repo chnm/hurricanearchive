@@ -21,6 +21,8 @@ files:
     original_filename: New Orleans from I-10 2superdome.jpg
     thumb: /files/thumbnails/14fb29de30943314fb29de309c2f.jpg
     url: /files/original/14fb29de30943314fb29de309c2f.jpg
+    alt:
+      en: "View of the New Orleans skyline and Superdome from an elevated I-10 highway, with a green exit sign reading \"St\" and \"Only,\" a street lamp, and a truck mirror in the foreground."
 geo:
 id: 25403
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 058cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0beb0fa814fb2a0beb138f.jpg
     url: /files/original/14fb2a0beb0fa814fb2a0beb138f.jpg
+    alt:
+      en: "Dense tangle of tree branches with dried, curled leaves in the foreground, partially obscuring the white railing and columns of a porch or balcony on a building in the background."
 geo:
 id: 19961
 item_type: Still Image

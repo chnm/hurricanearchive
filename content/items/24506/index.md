@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0107-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e7370a5714fb29e7370e34.jpg
     url: /files/original/14fb29e7370a5714fb29e7370e34.jpg
+    alt:
+      en: "A small motorboat with three men speeds across a marshy waterway, kicking up a wake, with bare and storm-damaged trees lining the bank under an overcast sky."
 geo:
 id: 24506
 item_type: Still Image

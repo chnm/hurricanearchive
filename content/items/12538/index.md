@@ -24,6 +24,8 @@ files:
     original_filename: overpass-prisoners-lg_0a15639b5b.jpg
     thumb: /files/thumbnails/14fb2a220d92d514fb2a220d96bb.jpg
     url: /files/original/14fb2a220d92d514fb2a220d96bb.jpg
+    alt:
+      en: "Elevated roadway strewn with litter and debris, lined with seated evacuees in orange prison jumpsuits, as floodwater submerges the street and buildings in the distance."
 geo:
 id: 12538
 item_type: Still Image

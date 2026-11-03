@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0143abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef2adc5814fb29ef2ae03e.jpg
     url: /files/original/14fb29ef2adc5814fb29ef2ae03e.jpg
+    alt:
+      en: "Floodwater surrounds a damaged single-story house with torn siding and a partially submerged white car, set against a backdrop of bare trees under an overcast sky."
 geo:
 id: 23507
 item_type: Still Image

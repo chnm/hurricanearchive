@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6187_9cb075efe6.jpg
     thumb: /files/thumbnails/14fb29dd82a82514fb29dd82ac0d.jpg
     url: /files/original/14fb29dd82a82514fb29dd82ac0d.jpg
+    alt:
+      en: "Water-damaged holiday portrait of two young children in red jumpers with white collars, a boy wearing a necklace reading \"DAVID,\" set against a Christmas tree backdrop, with discoloration and emulsion damage across their faces."
 geo:
 id: 25495
 item_type: Still Image

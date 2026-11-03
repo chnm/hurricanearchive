@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018rita.JPG
     thumb: /files/thumbnails/14fb2a11af206a14fb2a11af244f.jpg
     url: /files/original/14fb2a11af206a14fb2a11af244f.jpg
+    alt:
+      en: "A man in military camouflage uniform with a sidearm holster stands gesturing while speaking, with another person's head visible in the foreground and a \"PARKING\" sign painted on the pavement behind a chain-link fence."
 geo:
 id: 19239
 item_type: Still Image

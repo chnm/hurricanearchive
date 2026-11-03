@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2206superdome.JPG
     thumb: /files/thumbnails/14fb29de527c2e14fb29de5291d3.jpg
     url: /files/original/14fb29de527c2e14fb29de5291d3.jpg
+    alt:
+      en: "Military truck loaded with Camelbak boxes and a \"Potable Water Only\" tanker trailer parked outside a stadium, with armed soldiers and debris nearby beneath signs marked \"A,\" \"B,\" and \"H.\""
 geo:
 id: 25391
 item_type: Still Image

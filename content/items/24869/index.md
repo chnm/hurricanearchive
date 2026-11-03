@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003superdome.JPG
     thumb: /files/thumbnails/14fb29e4475f9514fb29e447637c.jpg
     url: /files/original/14fb29e4475f9514fb29e447637c.jpg
+    alt:
+      en: "Group of military personnel gathered around a table with radios and water bottles in a small room, with a large wall map and American flag in the background."
 geo:
 id: 24869
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0105OEP.JPG
     thumb: /files/thumbnails/14fb29f193324f14fb29f193362f.jpg
     url: /files/original/14fb29f193324f14fb29f193362f.jpg
+    alt:
+      en: "Military personnel in fatigues stand and converse in a busy office filled with cubicles covered in papers and notes, with a sign reading \"LSU Hospital System\" visible on one workstation."
 geo:
 id: 23095
 item_type: Still Image

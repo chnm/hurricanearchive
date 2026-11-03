@@ -21,6 +21,8 @@ files:
     original_filename: London Avenue.jpg
     thumb: /files/thumbnails/14fb29fb494bce14fb29fb494fb3.jpg
     url: /files/original/14fb29fb494bce14fb29fb494fb3.jpg
+    alt:
+      en: "Aerial black-and-white photograph of a residential neighborhood bisected by a canal, with dense rows of houses, tree-lined streets, and a bridge crossing the waterway."
 geo:
 id: 21878
 item_type: Still Image

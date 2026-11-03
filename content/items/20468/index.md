@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019-9-25.JPG
     thumb: /files/thumbnails/14fb2a0704f9e314fb2a0704fdc6.jpg
     url: /files/original/14fb2a0704f9e314fb2a0704fdc6.jpg
+    alt:
+      en: "Two U.S. Army soldiers in different camouflage uniforms converse face-to-face outdoors; the soldier on the left wears a nametag reading \"TANGUY,\" with vehicles and a building visible in the background."
 geo:
 id: 20468
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-03-1A.jpg
     thumb: /files/thumbnails/14fb29e8c733d214fb29e8c737b8.jpg
     url: /files/original/14fb29e8c733d214fb29e8c737b8.jpg
+    alt:
+      en: "Aerial view of a water park with multiple swimming pools, winding water slides, and a lazy river, situated beside a highway and surrounded by grassy fields and trees."
 geo:
 id: 24310
 item_type: Still Image

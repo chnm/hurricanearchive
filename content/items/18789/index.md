@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025grandisle.JPG
     thumb: /files/thumbnails/14fb2a153d084b14fb2a153d0c26.jpg
     url: /files/original/14fb2a153d084b14fb2a153d0c26.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with houses on stilts, damaged structures, debris-strewn lots, and a long bridge crossing the bay in the background."
 geo:
 id: 18789
 item_type: Still Image

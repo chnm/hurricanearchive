@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2030superdome.JPG
     thumb: /files/thumbnails/14fb29df4ca3f214fb29df4ca7d9.jpg
     url: /files/original/14fb29df4ca3f214fb29df4ca7d9.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms carry a person on a stretcher across a wet pavement area, with a person in a blue jumpsuit and yellow helmet standing nearby."
 geo:
 id: 25303
 item_type: Still Image

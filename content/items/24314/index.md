@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-07-5A.jpg
     thumb: /files/thumbnails/14fb29e8c2b7b414fb29e8c2c1bd.jpg
     url: /files/original/14fb29e8c2b7b414fb29e8c2c1bd.jpg
+    alt:
+      en: "Aerial view of a large shopping center with an L-shaped strip mall, expansive parking lots, and a nearby highway, surrounded by forested land and scattered rural buildings."
 geo:
 id: 24314
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0050media.JPG
     thumb: /files/thumbnails/14fb29f29011c514fb29f290159d.jpg
     url: /files/original/14fb29f29011c514fb29f290159d.jpg
+    alt:
+      en: "Two men in silhouette inside a helicopter, one operating a large shoulder-mounted video camera and the other wearing a flight helmet and gloves, with a green field and fenced area visible outside."
 geo:
 id: 22944
 item_type: Still Image

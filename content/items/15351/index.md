@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-16_f13abeda54.jpg
     thumb: /files/thumbnails/14fb2a166274e514fb2a166279d4.jpg
     url: /files/original/14fb2a166274e514fb2a166279d4.jpg
+    alt:
+      en: "A young girl wearing white-framed glasses smiles while hugging a stuffed toy, her face partially obscured by water or mold damage distorting the photograph's surface."
 geo:
 id: 15351
 item_type: Still Image

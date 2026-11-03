@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0416_f15f75e331.JPG
     thumb: /files/thumbnails/14fb2a7017a2e814fb2a7017a6d7.jpg
     url: /files/original/14fb2a7017a2e814fb2a7017a6d7.jpg
+    alt:
+      en: "A hand-painted \"THANK YOU!!\" sign and an American flag are mounted on a storm-damaged tree stump, surrounded by debris and bare earth from storm cleanup."
 geo:
   address: ''
   lat: 30.31362

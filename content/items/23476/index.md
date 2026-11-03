@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0125abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef451a4714fb29ef451e2d.jpg
     url: /files/original/14fb29ef451a4714fb29ef451e2d.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with a US flag patch holds a water bottle while standing roadside, with a line of vehicles parked along the shoulder in the background."
 geo:
 id: 23476
 item_type: Still Image

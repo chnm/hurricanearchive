@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1127Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f79cf9c714fb29f79cfdaa.jpg
     url: /files/original/14fb29f79cf9c714fb29f79cfdaa.jpg
+    alt:
+      en: "Blurry, overexposed photo of several people wearing red life jackets standing in floodwater near a boat, with bright light washing out part of the scene."
 geo:
 id: 22315
 item_type: Still Image

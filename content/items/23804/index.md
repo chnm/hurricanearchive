@@ -21,6 +21,8 @@ files:
     original_filename: S4300049neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed008a2c14fb29ed008e12.jpg
     url: /files/original/14fb29ed008a2c14fb29ed008e12.jpg
+    alt:
+      en: "Flooded underpass with a partially submerged car near storefronts, viewed from beneath a parking structure or overpass; a truck's taillights glow red in the foreground."
 geo:
 id: 23804
 item_type: Still Image

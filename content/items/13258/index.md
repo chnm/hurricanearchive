@@ -21,6 +21,8 @@ files:
     original_filename: northbound traffic.jpg
     thumb: /files/thumbnails/14fb2a1e8b3ea514fb2a1e8b4364.jpg
     url: /files/original/14fb2a1e8b3ea514fb2a1e8b4364.jpg
+    alt:
+      en: "Heavy northbound traffic backed up on a two-lane highway lined with trees, with a \"Mill Creek\" sign and a \"96\" route marker visible along the roadside."
 geo:
 id: 13258
 item_type: Still Image

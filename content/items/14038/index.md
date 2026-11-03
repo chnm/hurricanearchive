@@ -21,6 +21,8 @@ files:
     original_filename: 20050928003.JPG
     thumb: /files/thumbnails/14fb2a1c16a38614fb2a1c16e35b.jpg
     url: /files/original/14fb2a1c16a38614fb2a1c16e35b.jpg
+    alt:
+      en: "A man in military camouflage uniform with glasses and a name tape reading \"SISTRUNK\" stands indoors, with sousaphones and office equipment visible in the background."
 geo:
   address: ''
   lat: 0.0

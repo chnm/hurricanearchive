@@ -25,6 +25,8 @@ files:
     original_filename: 157265060_26eedff2de.jpg
     thumb: /files/thumbnails/14fb29d1c79ce314fb29d1c7a0c9.jpg
     url: /files/original/14fb29d1c79ce314fb29d1c7a0c9.jpg
+    alt:
+      en: "A makeshift memorial of wooden crosses, rosary beads, a clock, and red flowers arranged on grass beneath a tree, with small framed photos and mementos placed at the tree's base."
 geo:
 id: 28678
 item_type: Still Image

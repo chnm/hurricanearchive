@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (52).jpg
     thumb: /files/thumbnails/14fb2a5cb3070e14fb2a5cb30af5.jpg
     url: /files/original/14fb2a5cb3070e14fb2a5cb30af5.jpg
+    alt:
+      en: "Two men stand near a camera tripod on a debris-strewn street in the Lower Ninth Ward, with a collapsed house and standing floodwater behind them, and an SUV labeled \"ANIMAL\" parked nearby."
 geo:
 id: 3291
 item_type: Still Image

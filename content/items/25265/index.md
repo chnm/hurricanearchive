@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1992superdome.JPG
     thumb: /files/thumbnails/14fb29dfbcb6cf14fb29dfbcbf32.jpg
     url: /files/original/14fb29dfbcb6cf14fb29dfbcbf32.jpg
+    alt:
+      en: "Military personnel assist civilians boarding a twin-rotor helicopter on a wet tarmac, with one man carrying a red duffel bag up the rear ramp."
 geo:
 id: 25265
 item_type: Still Image

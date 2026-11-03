@@ -21,6 +21,8 @@ files:
     original_filename: 527(sepr12)Picture3engineers.png
     thumb: /files/thumbnails/14fb2a10dc408014fb2a10dc4464.jpg
     url: /files/original/14fb2a10dc408014fb2a10dc4464.jpg
+    alt:
+      en: "A man wearing protective gloves lifts a large fallen tree branch amid storm debris, with damaged homes and vehicles visible in the background under a clear sky."
 geo:
 id: 19357
 item_type: Still Image

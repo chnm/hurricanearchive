@@ -24,6 +24,8 @@ files:
     original_filename: P1010027.JPG
     thumb: /files/thumbnails/14fb2a5ba16a7414fb2a5ba16e58.jpg
     url: /files/original/14fb2a5ba16a7414fb2a5ba16e58.jpg
+    alt:
+      en: "A severely damaged house with its foundation collapsed, brick piers crumbled, and siding torn away, marked with orange spray-painted search-and-rescue symbols; debris and rubble surround the structure."
 geo:
 id: 3459
 item_type: Still Image

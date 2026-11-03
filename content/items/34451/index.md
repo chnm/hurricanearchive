@@ -23,6 +23,8 @@ files:
     original_filename: 2326890472_94fffc260e.
     thumb: /files/thumbnails/14fb29c9f8423514fb29c9f84612.jpg
     url: /files/original/14fb29c9f8423514fb29c9f84612.jpg
+    alt:
+      en: "A small wooden shed sits askew at the edge of a rural road, swept there by floodwaters, surrounded by tall pine trees and storm debris under a partly cloudy sky."
 geo:
   address: ''
   lat: 30.22586

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front.JPG
     thumb: /files/thumbnails/14fb2a5dbc1a7c14fb2a5dbc1e60.jpg
     url: /files/original/14fb2a5dbc1a7c14fb2a5dbc1e60.jpg
+    alt:
+      en: "A tan pickup truck and sedan parked near a single-story house, with a large pile of storm debris—including wood, metal, and wrapped bundles—dumped on the gravel driveway in front."
 geo:
 id: 3143
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0141abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef2c62d914fb29ef2c66bf.jpg
     url: /files/original/14fb29ef2c62d914fb29ef2c66bf.jpg
+    alt:
+      en: "A yellow mobile home with shattered windows sits partially submerged in floodwater, surrounded by bare trees and debris, with a paved road visible in the foreground."
 geo:
 id: 23505
 item_type: Still Image

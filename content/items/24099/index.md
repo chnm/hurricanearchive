@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eada6aec14fb29eada6ed3.jpg
     url: /files/original/14fb29eada6aec14fb29eada6ed3.jpg
+    alt:
+      en: "A worker in camouflage and an orange hard hat uses a Stihl chainsaw to cut a large fallen tree limb while several photographers and videographers with cameras document the scene."
 geo:
 id: 24099
 item_type: Still Image

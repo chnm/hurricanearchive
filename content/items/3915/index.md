@@ -21,6 +21,8 @@ files:
     original_filename: 100_0212.JPG
     thumb: /files/thumbnails/14fb2a58ec5c6014fb2a58ec6045.jpg
     url: /files/original/14fb2a58ec5c6014fb2a58ec6045.jpg
+    alt:
+      en: "A flooded tennis court enclosed by a chain-link fence, with a bent light pole, submerged debris, and damaged buildings in the background under a clear sky, as a helicopter flies overhead."
 geo:
 id: 3915
 item_type: Still Image

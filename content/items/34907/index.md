@@ -20,6 +20,8 @@ files:
     original_filename: 2456707271_a5e1123917.
     thumb: /files/thumbnails/14fb29c88dc33914fb29c88dc827.jpg
     url: /files/original/14fb29c88dc33914fb29c88dc827.jpg
+    alt:
+      en: "Two excavators work along a muddy riverbank, one loaded onto a barge in the water, with dense trees lining the shore under a partly cloudy sky."
 geo:
 id: 34907
 item_type: Still Image

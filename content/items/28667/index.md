@@ -26,6 +26,8 @@ files:
     original_filename: 158072477_bcfa1d4591.jpg
     thumb: /files/thumbnails/14fb29d1da557d14fb29d1da5a9f.jpg
     url: /files/original/14fb29d1da557d14fb29d1da5a9f.jpg
+    alt:
+      en: "Abandoned storm-damaged house with boarded windows and spray-painted search markings on the siding, surrounded by overgrown grass and a chain-link fence, with a flatter-roofed building beside it."
 geo:
 id: 28667
 item_type: Still Image

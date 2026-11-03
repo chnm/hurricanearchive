@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0240-9-25.JPG
     thumb: /files/thumbnails/14fb29ff15a3af14fb29ff15a78f.jpg
     url: /files/original/14fb29ff15a3af14fb29ff15a78f.jpg
+    alt:
+      en: "Aerial view of a flooded industrial refinery complex with storage tanks and piping surrounded by extensive floodwater, with a piece of yellow excavation equipment partially submerged nearby."
 geo:
 id: 21377
 item_type: Still Image

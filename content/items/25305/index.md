@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2032superdome.JPG
     thumb: /files/thumbnails/14fb29df49f4ae14fb29df49f89e.jpg
     url: /files/original/14fb29df49f4ae14fb29df49f89e.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues carry a person on a stretcher across a wet outdoor surface, assisted by a man in a blue flight suit and yellow helmet, with an elevated highway visible in the background."
 geo:
 id: 25305
 item_type: Still Image

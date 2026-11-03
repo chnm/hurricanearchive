@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0194-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a001f20e914fb2a001f345f.jpg
     url: /files/original/14fb2a001f20e914fb2a001f345f.jpg
+    alt:
+      en: "Man in orange plaid shirt and cap drinking a Bud Light beer outdoors, with bare trees and sky visible in the background."
 geo:
 id: 21191
 item_type: Still Image

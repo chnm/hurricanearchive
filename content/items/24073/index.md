@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eb05f02214fb29eb05f408.jpg
     url: /files/original/14fb29eb05f02214fb29eb05f408.jpg
+    alt:
+      en: "A soldier in camouflage fatigues walks across a lot at dusk, holding a water bottle, with a large military flatbed truck and heavy equipment parked nearby under pine trees."
 geo:
 id: 24073
 item_type: Still Image

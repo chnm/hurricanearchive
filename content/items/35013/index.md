@@ -20,6 +20,8 @@ files:
     original_filename: 2297801989_392e4b63c1.
     thumb: /files/thumbnails/14fb29c77950a814fb29c779548d.jpg
     url: /files/original/14fb29c77950a814fb29c779548d.jpg
+    alt:
+      en: "Two men stand beside a blue Werner trailer truck marked \"43412,\" with warning text about wide turns and courteous drivers; a house with a tarp-covered roof and debris are visible in the background."
 geo:
 id: 35013
 item_type: Still Image

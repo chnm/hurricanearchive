@@ -21,6 +21,8 @@ files:
     original_filename: picture 3stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec89003a14fb29ec8904c0.jpg
     url: /files/original/14fb29ec89003a14fb29ec8904c0.jpg
+    alt:
+      en: "Flooded residential street lined with single-story homes, debris piles, and uprooted trees, with standing water reflecting a clear blue sky and a boat visible in the distance."
 geo:
 id: 23897
 item_type: Still Image

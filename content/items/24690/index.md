@@ -21,6 +21,8 @@ files:
     original_filename: 20051011-A-2421S-0126jrbpresvisit.jpg
     thumb: /files/thumbnails/14fb29e58a177914fb29e58a1b53.jpg
     url: /files/original/14fb29e58a177914fb29e58a1b53.jpg
+    alt:
+      en: "A man in a blue shirt reaches to shake hands with a crowd of outstretched arms, with a building reading \"RESERVE BASE NEW ORL...\" visible in the background."
 geo:
 id: 24690
 item_type: Still Image

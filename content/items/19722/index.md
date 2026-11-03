@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 109cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e31c4c014fb2a0e31c8a6.jpg
     url: /files/original/14fb2a0e31c4c014fb2a0e31c8a6.jpg
+    alt:
+      en: "A lone chair and a small picnic table sit on a debris-strewn sidewalk beside a road, with storm-damaged buildings, a collapsed carport, and wrecked vehicles visible in the background."
 geo:
 id: 19722
 item_type: Still Image

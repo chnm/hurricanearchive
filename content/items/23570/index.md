@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0191abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eec04c2e14fb29eec050ed.jpg
     url: /files/original/14fb29eec04c2e14fb29eec050ed.jpg
+    alt:
+      en: "Interior of a flood-damaged home with collapsed flooring, scattered debris and mud, standing water, a dangling ceiling fan, and a person in a green shirt standing amid the wreckage."
 geo:
 id: 23570
 item_type: Still Image

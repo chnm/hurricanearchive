@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1698superdome.JPG
     thumb: /files/thumbnails/14fb29e23df1a214fb29e23e171b.jpg
     url: /files/original/14fb29e23df1a214fb29e23e171b.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with an \"MP\" armband and flashlight attached to his vest writes on a notepad, with other uniformed personnel visible blurred in the background."
 geo:
 id: 25111
 item_type: Still Image

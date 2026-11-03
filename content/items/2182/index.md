@@ -26,6 +26,8 @@ files:
     original_filename: c14_a99c934528.jpg
     thumb: /files/thumbnails/14fb2a6d820d1114fb2a6d8210b6.jpg
     url: /files/original/14fb2a6d820d1114fb2a6d8210b6.jpg
+    alt:
+      en: "Two people embrace in a warm hug, one wearing a vest with partial text reading \"aster Relief,\" set against a red and tan background suggesting an indoor shelter space."
 geo:
   address: ''
   lat: 27.18608

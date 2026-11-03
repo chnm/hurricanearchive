@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0579.JPG
     thumb: /files/thumbnails/14fb2a56799eb114fb2a5679a29d.jpg
     url: /files/original/14fb2a56799eb114fb2a5679a29d.jpg
+    alt:
+      en: "A yellow tape measure extends vertically across a brick-topped ledge, measuring from about 38 to 46 inches, next to a broken piece of mirror with a shaped edge resting on the damaged structure."
 geo:
 id: 4650
 item_type: Still Image

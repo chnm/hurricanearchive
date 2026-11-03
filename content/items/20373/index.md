@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007-20.JPG
     thumb: /files/thumbnails/14fb2a08514ff714fb2a085153de.jpg
     url: /files/original/14fb2a08514ff714fb2a085153de.jpg
+    alt:
+      en: "Man in military camouflage uniform with glasses, name patch reading \"ARR,\" and \"ARMY\" tape, working with wires near a laptop, in a room with tables and other uniformed personnel in the background."
 geo:
 id: 20373
 item_type: Still Image

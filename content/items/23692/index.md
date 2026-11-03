@@ -21,6 +21,8 @@ files:
     original_filename: P1010133empireS&R.JPG
     thumb: /files/thumbnails/14fb29edd7abd214fb29edd7afbc.jpg
     url: /files/original/14fb29edd7abd214fb29edd7afbc.jpg
+    alt:
+      en: "Large muddy pool of standing water beside a dirt road, surrounded by sparse marsh grass, debris, and trees with sparse foliage, likely from storm flooding."
 geo:
 id: 23692
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2068superdome.JPG
     thumb: /files/thumbnails/14fb29dee83f8e14fb29dee84373.jpg
     url: /files/original/14fb29dee83f8e14fb29dee84373.jpg
+    alt:
+      en: "A man in a brown shirt and camouflage pants firmly grips the arm of a younger man wearing a black shirt and an orange, yellow, and blue \"Harlem Globetrotters\" cap, with others in military camouflage visible in the background on wet pavement."
 geo:
 id: 25341
 item_type: Still Image

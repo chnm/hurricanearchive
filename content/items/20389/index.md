@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009-15.JPG
     thumb: /files/thumbnails/14fb2a082a303814fb2a082a341c.jpg
     url: /files/original/14fb2a082a303814fb2a082a341c.jpg
+    alt:
+      en: "Aerial view of a riverside institutional campus with rows of grey-roofed buildings and dormitories, surrounded by lawns and trees, with a wide brown river and flat farmland in the background."
 geo:
 id: 20389
 item_type: Still Image

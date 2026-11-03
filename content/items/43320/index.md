@@ -23,6 +23,8 @@ files:
     original_filename: boats.jpg
     thumb: /files/thumbnails/14fb29c1dab38414fb29c1dab769.jpg
     url: /files/original/14fb29c1dab38414fb29c1dab769.jpg
+    alt:
+      en: "A large white cabin cruiser sits beached and tilted on a lawn beside a canal, with a second boat stranded atop a damaged boat lift across the water; a house with a torn roof stands in the background."
 geo:
   address: ''
   lat: 30.22807

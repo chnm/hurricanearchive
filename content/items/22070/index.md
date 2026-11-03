@@ -21,6 +21,8 @@ files:
     original_filename: Picture 401-J2.jpg
     thumb: /files/thumbnails/14fb29f9b0145714fb29f9b016e8.jpg
     url: /files/original/14fb29f9b0145714fb29f9b016e8.jpg
+    alt:
+      en: "A man in a tan t-shirt and camouflage pants works on military equipment, holding a wrench near a fuel cap, while a second man in uniform looks on from behind."
 geo:
 id: 22070
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010111empireS&R.JPG
     thumb: /files/thumbnails/14fb29edf47dc014fb29edf481a8.jpg
     url: /files/original/14fb29edf47dc014fb29edf481a8.jpg
+    alt:
+      en: "Flat gravel rooftop of a brick building with a tall antenna mast and guy wires, with two fallen HVAC condenser units lying on their sides near the building wall, and trees and vehicles visible in the background."
 geo:
 id: 23670
 item_type: Still Image

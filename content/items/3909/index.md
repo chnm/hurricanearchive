@@ -21,6 +21,8 @@ files:
     original_filename: 100_0206.JPG
     thumb: /files/thumbnails/14fb2a58facf2514fb2a58fad4b5.jpg
     url: /files/original/14fb2a58facf2514fb2a58fad4b5.jpg
+    alt:
+      en: "A U.S. Coast Guard member stands in a motorized boat loaded with gear, floating over a flooded area where only the top of a \"No Parking Any Time\" sign remains visible above the water."
 geo:
 id: 3909
 item_type: Still Image

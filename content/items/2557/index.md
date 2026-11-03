@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8897.jpg
     thumb: /files/thumbnails/14fb2a6556ec3e14fb2a6556f024.jpg
     url: /files/original/14fb2a6556ec3e14fb2a6556f024.jpg
+    alt:
+      en: "Rows of discarded, damaged refrigerators with doors removed sit in a dirt lot, surrounded by scattered debris, as a large flock of seagulls perches and circles overhead against a clear sky."
 geo:
 id: 2557
 item_type: Still Image

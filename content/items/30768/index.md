@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7649.JPG
     thumb: /files/thumbnails/14fb29cc8d29ae14fb29cc8d2d95.jpg
     url: /files/original/14fb29cc8d29ae14fb29cc8d2d95.jpg
+    alt:
+      en: "A gold minivan drives on a gravel road through a heavily damaged forest, with snapped trees, scattered branches, and stumps lining both sides under a partly cloudy sky."
 geo:
 id: 30768
 item_type: Still Image

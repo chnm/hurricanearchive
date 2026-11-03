@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 080.jpg
     thumb: /files/thumbnails/14fb2a1279d9e714fb2a1279ddcb.jpg
     url: /files/original/14fb2a1279d9e714fb2a1279ddcb.jpg
+    alt:
+      en: "Abandoned Shell gas station with storm debris scattered across the lot, a blue sedan parked near the pumps, and storm-damaged homes visible across the street under a partly cloudy sky."
 geo:
 id: 19170
 item_type: Still Image

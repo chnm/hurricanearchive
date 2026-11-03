@@ -24,6 +24,8 @@ files:
     original_filename: P1010093.JPG
     thumb: /files/thumbnails/14fb2a5b32b66414fb2a5b32b99f.jpg
     url: /files/original/14fb2a5b32b66414fb2a5b32b99f.jpg
+    alt:
+      en: "Flood-damaged carport or porch area with a visible waterline staining the walls, scattered debris and leaves on the concrete floor, and water-stained furniture piled near a red interior door."
 geo:
 id: 3518
 item_type: Still Image

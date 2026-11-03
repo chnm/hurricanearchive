@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 134cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e1a616a14fb2a0e1a654f.jpg
     url: /files/original/14fb2a0e1a616a14fb2a0e1a654f.jpg
+    alt:
+      en: "Dashboard view from inside a vehicle following a military-style truck down a tree-lined street littered with dead branches and debris, with historic brick and shuttered buildings on either side."
 geo:
 id: 19747
 item_type: Still Image

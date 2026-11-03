@@ -26,6 +26,8 @@ files:
     original_filename: image_826208_ce0a856d6e.jpg
     thumb: /files/thumbnails/14fb2a6d84bc2314fb2a6d84c009.jpg
     url: /files/original/14fb2a6d84bc2314fb2a6d84c009.jpg
+    alt:
+      en: "A collapsed water tower reading \"WELCOME TO ARCADIA\" lies toppled amid downed trees and twisted metal framework after storm damage."
 geo:
   address: ''
   lat: 27.186075

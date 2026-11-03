@@ -23,6 +23,8 @@ files:
     original_filename: 1233804288_0d7bb4f038.jpg
     thumb: /files/thumbnails/14fb29cb2cd72f14fb29cb2cd9f1.jpg
     url: /files/original/14fb29cb2cd72f14fb29cb2cd9f1.jpg
+    alt:
+      en: "A weathered security-barred door reading \"SNOW BALLS\" above a plywood panel, set in a worn, paint-peeling wooden storefront wall with a partially visible poster to the right."
 geo:
   address: ''
   lat: 41.8848

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048H.JPG
     thumb: /files/thumbnails/14fb2a0577b9a114fb2a0577bd06.jpg
     url: /files/original/14fb2a0577b9a114fb2a0577bd06.jpg
+    alt:
+      en: "A woman with dark hair, wearing a white and orange Hooters uniform with \"Baton Rouge\" text, leans over writing on the shaved head of a man in the foreground."
 geo:
 id: 20645
 item_type: Still Image

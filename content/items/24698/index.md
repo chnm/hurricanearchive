@@ -21,6 +21,8 @@ files:
     original_filename: 09160022superdome.JPG
     thumb: /files/thumbnails/14fb29e57d960c14fb29e57da3a5.jpg
     url: /files/original/14fb29e57d960c14fb29e57da3a5.jpg
+    alt:
+      en: "Exterior view of the Superdome's curved roof alongside a dark high-rise building, with a helicopter, parked vehicles, and uniformed personnel gathered near the structure below."
 geo:
 id: 24698
 item_type: Still Image

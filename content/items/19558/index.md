@@ -21,6 +21,8 @@ files:
     original_filename: S4300012zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f3add5314fb2a0f3ae137.jpg
     url: /files/original/14fb2a0f3add5314fb2a0f3ae137.jpg
+    alt:
+      en: "A person wearing a camouflage military uniform and cap holds a handheld radio to their ear, seated inside a tent with olive-green canvas walls."
 geo:
 id: 19558
 item_type: Still Image

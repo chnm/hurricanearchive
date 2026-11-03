@@ -21,6 +21,8 @@ files:
     original_filename: before heading south.jpg
     thumb: /files/thumbnails/14fb2a20e4213514fb2a20e4251b.jpg
     url: /files/original/14fb2a20e4213514fb2a20e4251b.jpg
+    alt:
+      en: "Street scene with green traffic lights over an intersection, a \"DIXIE GAS\" sign listing prices (Regular 246.9, Super 256.9, Premium 266.9), and a cloudy sky overhead."
 geo:
 id: 13040
 item_type: Still Image

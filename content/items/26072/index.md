@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7023_d4c76fc9f2.jpg
     thumb: /files/thumbnails/14fb29db634c7014fb29db635055.jpg
     url: /files/original/14fb29db634c7014fb29db635055.jpg
+    alt:
+      en: "Black-and-white photo of a Mardi Gras parade float shaped like a globe on a rocky mound, with a banner reading \"FRIENDSHIP TO THE WORLD,\" carrying costumed riders holding flags."
 geo:
   address: ''
   lat: 29.87876

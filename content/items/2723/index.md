@@ -27,6 +27,8 @@ files:
     original_filename: Reliant Center
     thumb: /files/thumbnails/14fb2a606d15b914fb2a606d1a6d.jpg
     url: /files/original/14fb2a606d15b914fb2a606d1a6d.jpg
+    alt:
+      en: "Child's crayon drawing titled \"Reliant Center\" showing rows of simple stick figures standing in green rectangular frames (beds), signed \"Reginald Sept 14-09, Age 14.\""
 geo:
 id: 2723
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials75.jpg
     thumb: /files/thumbnails/14fb2a19914f9214fb2a19915379.jpg
     url: /files/original/14fb2a19914f9214fb2a19915379.jpg
+    alt:
+      en: "Aerial view of a coastal neighborhood with widespread storm damage, showing stripped trees, debris-covered lots, and a shoreline in the background."
 geo:
 id: 14366
 item_type: Still Image

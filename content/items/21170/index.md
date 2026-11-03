@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0190-9-25.JPG
     thumb: /files/thumbnails/14fb2a0046198414fb2a00461d6d.jpg
     url: /files/original/14fb2a0046198414fb2a00461d6d.jpg
+    alt:
+      en: "Aerial view of a flooded highway with military trucks, small boats, and a few people stationed along the roadway, surrounded by floodwater and partially submerged vegetation."
 geo:
 id: 21170
 item_type: Still Image

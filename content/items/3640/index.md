@@ -24,6 +24,8 @@ files:
     original_filename: P1010075.JPG
     thumb: /files/thumbnails/14fb2a5a84d7e014fb2a5a84dc66.jpg
     url: /files/original/14fb2a5a84d7e014fb2a5a84dc66.jpg
+    alt:
+      en: "A weathered decorative plaque of a girl riding a carousel horse under a canopy, lying debris-strewn on pavement alongside a broken dish lid and bent metal rods."
 geo:
 id: 3640
 item_type: Still Image

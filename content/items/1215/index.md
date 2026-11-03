@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28652.jpg
     thumb: /files/thumbnails/14fb2a6a5f262b14fb2a6a5f2b2c.jpg
     url: /files/original/14fb2a6a5f262b14fb2a6a5f2b2c.jpg
+    alt:
+      en: "A white \"ENTER HERE\" sign on a stand stands near a fenced area with a golf cart, parked vehicles, and uniformed men standing in a lot at the Lamar-Dixon Fairgrounds animal rescue depot."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0404Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f93872a014fb29f93876a2.jpg
     url: /files/original/14fb29f93872a014fb29f93876a2.jpg
+    alt:
+      en: "Woman with an ID badge and sunglasses talks with a man in a military flight suit and camouflage cap on a grassy lawn, with brick barracks buildings and parked vehicles in the background."
 geo:
 id: 22181
 item_type: Still Image

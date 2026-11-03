@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0051.JPG
     thumb: /files/thumbnails/14fb2a137e8ff014fb2a137e93d5.jpg
     url: /files/original/14fb2a137e8ff014fb2a137e93d5.jpg
+    alt:
+      en: "Close-up profile of a helicopter crew member wearing a visored flight helmet with mounted equipment, a patch on the uniform shoulder, set against a grassy field background."
 geo:
 id: 19051
 item_type: Still Image

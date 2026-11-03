@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047H.JPG
     thumb: /files/thumbnails/14fb2a0580cf1714fb2a0580d2fc.jpg
     url: /files/original/14fb2a0580cf1714fb2a0580d2fc.jpg
+    alt:
+      en: "A young woman in a Hooters tank top writes on a bald man's head with a marker, red text already visible near his temple, in a dimly lit setting with small background lights."
 geo:
 id: 20639
 item_type: Still Image

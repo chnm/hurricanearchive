@@ -21,6 +21,8 @@ files:
     original_filename: RhinaKissee-5923_10f9bb6c22.jpg
     thumb: /files/thumbnails/14fb29d909b41b14fb29d909b82f.jpg
     url: /files/original/14fb29d909b41b14fb29d909b82f.jpg
+    alt:
+      en: "A man and woman stand arm in arm on a lawn in front of a large house, with a \"Tour Home\" sign decorated with a red bow placed in front of them."
 geo:
   address: 3709 Palmisano Blvd., Chalmette, LA
   lat: 29.95079

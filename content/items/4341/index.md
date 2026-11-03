@@ -26,6 +26,8 @@ files:
     original_filename: forkedislandbridges_604f88eda8.jpg
     thumb: /files/thumbnails/14fb2a5736576614fb2a57365b4b.jpg
     url: /files/original/14fb2a5736576614fb2a57365b4b.jpg
+    alt:
+      en: "View from atop Forked Island Bridge on Hwy 82 looking south, with the road descending toward flooded fields and tree lines beneath a hazy, overcast sky."
 geo:
   address: Hwy 35 and hwy 82
   lat: 29.83707

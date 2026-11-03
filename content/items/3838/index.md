@@ -21,6 +21,8 @@ files:
     original_filename: 100_0129.JPG
     thumb: /files/thumbnails/14fb2a594a5a1314fb2a594a5df8.jpg
     url: /files/original/14fb2a594a5a1314fb2a594a5df8.jpg
+    alt:
+      en: "Several fishing boats, including ones named \"Miss Beulah\" and \"Rebecca Marie,\" sit grounded amid debris-strewn, oily water with bare trees lining the shore behind them."
 geo:
 id: 3838
 item_type: Still Image

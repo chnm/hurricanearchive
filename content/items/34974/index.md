@@ -20,6 +20,8 @@ files:
     original_filename: 2298640402_f096c761e5.
     thumb: /files/thumbnails/14fb29c817fa7e14fb29c817fe60.jpg
     url: /files/original/14fb29c817fa7e14fb29c817fe60.jpg
+    alt:
+      en: "A man in a green T-shirt, red bandana, and sunglasses sits in a doorway with a weathered blue metal door, surrounded by brick walls and plants, with another person visible behind him."
 geo:
 id: 34974
 item_type: Still Image

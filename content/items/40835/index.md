@@ -20,6 +20,8 @@ files:
     original_filename: Luna_96461f89fd.jpg
     thumb: /files/thumbnails/14fb29c4d33ce014fb29c4d340c6.jpg
     url: /files/original/14fb29c4d33ce014fb29c4d340c6.jpg
+    alt:
+      en: "A tabby cat with a white chest sits on a colorful patterned blanket, looking off to the side against a plain wall background."
 geo:
 id: 40835
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 100_5319_da8221fe00.JPG
     thumb: /files/thumbnails/14fb2a7119685014fb2a71196c36.jpg
     url: /files/original/14fb2a7119685014fb2a71196c36.jpg
+    alt:
+      en: "A high-rise glass office building in Metairie with numerous shattered and missing windowpanes, photographed through overhead power lines and a traffic signal pole, dated 09/22/2005."
 geo:
   address: ''
   lat: 30.005653

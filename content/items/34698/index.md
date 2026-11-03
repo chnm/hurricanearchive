@@ -20,6 +20,8 @@ files:
     original_filename: 2434808190_d9c14e710b.
     thumb: /files/thumbnails/14fb29c974c35c14fb29c974c741.jpg
     url: /files/original/14fb29c974c35c14fb29c974c741.jpg
+    alt:
+      en: "A man in a dark hoodie and jeans photographs debris from a demolished structure, with white support columns, scattered rubble, and bare trees surrounding a cleared concrete slab."
 geo:
 id: 34698
 item_type: Still Image

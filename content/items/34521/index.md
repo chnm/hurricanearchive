@@ -27,6 +27,8 @@ files:
     original_filename: 2292018990_4748399d8b.
     thumb: /files/thumbnails/14fb29c9950f5414fb29c9951339.jpg
     url: /files/original/14fb29c9950f5414fb29c9951339.jpg
+    alt:
+      en: "A dark, snake-like form lies among scattered dried grass and debris, with a white shell fragment and a thin stick nearby on the ground."
 geo:
   address: ''
   lat: 30.22539

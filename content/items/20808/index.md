@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0083-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a03a1aa0314fb2a03a1b3d5.jpg
     url: /files/original/14fb2a03a1aa0314fb2a03a1b3d5.jpg
+    alt:
+      en: "Man in a plaid shirt, cap reading \"Tire Repair,\" and glasses stands with hand on hip beside floodwater surrounding houses, debris, and a half-submerged tire."
 geo:
 id: 20808
 item_type: Still Image

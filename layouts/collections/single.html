@@ -2,7 +2,7 @@
 {{- $term := index site.Taxonomies.collections .Params.slug -}}
 {{- $items := false -}}{{- with $term }}{{ $items = .Pages }}{{ end -}}
 <div id="heading">
-	<div class="heading">  <h2>  </h2>
+	<div class="heading">  <h1>{{ .Title }}</h1>
 	</div>
 </div>
 <div id="primary">

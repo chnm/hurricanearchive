@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0582Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f50697bc14fb29f5069b97.jpg
     url: /files/original/14fb29f50697bc14fb29f5069b97.jpg
+    alt:
+      en: "Three vehicles parked outside a brick building are submerged up to their windows in murky floodwater, with a number \"4\" visible above the garage entrance."
 geo:
 id: 22618
 item_type: Still Image

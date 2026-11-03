@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0097-21.JPG
     thumb: /files/thumbnails/14fb29e795ad0814fb29e795b0f4.jpg
     url: /files/original/14fb29e795ad0814fb29e795b0f4.jpg
+    alt:
+      en: "A man in U.S. Army camouflage fatigues and cap sits at an outdoor table with a clipboard, pen, walkie-talkie, insect repellent spray, and a Gatorade bottle nearby."
 geo:
 id: 24454
 item_type: Still Image

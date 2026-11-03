@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0072-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a04158a6814fb2a04158e4d.jpg
     url: /files/original/14fb2a04158a6814fb2a04158e4d.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand near a skid-steer loader on a street, with a white pickup truck and power lines visible in the background under an overcast sky."
 geo:
 id: 20757
 item_type: Still Image

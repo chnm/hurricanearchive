@@ -21,6 +21,8 @@ files:
     original_filename: 09140012neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec6a4d8f14fb29ec6a5175.jpg
     url: /files/original/14fb29ec6a4d8f14fb29ec6a5175.jpg
+    alt:
+      en: "Military Humvees travel a debris-strewn street past a \"DO NOT BLOCK INTERSECTION\" sign, with a red pickup truck, damaged trees, and a scorched neighborhood visible in the background."
 geo:
 id: 23913
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1772superdome.JPG
     thumb: /files/thumbnails/14fb29e195015c14fb29e1954266.jpg
     url: /files/original/14fb29e195015c14fb29e1954266.jpg
+    alt:
+      en: "Four military personnel in camouflage uniforms stand in a parking garage, with a billboard reading \"Bud Light\" and tents visible in the background."
 geo:
 id: 25162
 item_type: Still Image

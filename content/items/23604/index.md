@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1607neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee8b6eb714fb29ee8b729d.jpg
     url: /files/original/14fb29ee8b6eb714fb29ee8b729d.jpg
+    alt:
+      en: "A man in a camouflage cap and sunglasses stands with a young girl wearing orange hair ties, surrounded by others on a paved street, with military-style equipment visible nearby."
 geo:
 id: 23604
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0093Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d5894a14fb29f4d58d28.jpg
     url: /files/original/14fb29f4d5894a14fb29f4d58d28.jpg
+    alt:
+      en: "A bare-branched tree stands behind a chain-link fence in front of a damaged brick building with a partially collapsed roof; debris litters the ground, with the date \"09.15.2005\" stamped in the corner."
 geo:
 id: 22658
 item_type: Still Image

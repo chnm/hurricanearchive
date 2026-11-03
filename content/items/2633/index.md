@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9161.jpg
     thumb: /files/thumbnails/14fb2a63cf423814fb2a63d0031d.jpg
     url: /files/original/14fb2a63cf423814fb2a63d0031d.jpg
+    alt:
+      en: "Tattered American flag flies over the skeletal wooden frame of a destroyed structure, with a \"KABIN FOR RENT\" sign and scattered debris covering the barren coastal ground near the ocean."
 geo:
 id: 2633
 item_type: Still Image

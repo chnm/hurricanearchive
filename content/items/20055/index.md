@@ -21,6 +21,8 @@ files:
     original_filename: Picture 152cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b8a818b14fb2a0b8a8570.jpg
     url: /files/original/14fb2a0b8a818b14fb2a0b8a8570.jpg
+    alt:
+      en: "Large concrete cylindrical pipe or tank sitting partially submerged in muddy floodwater, with grass visible in the background."
 geo:
 id: 20055
 item_type: Still Image

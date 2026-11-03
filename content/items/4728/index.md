@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0075.JPG
     thumb: /files/thumbnails/14fb2a55e3d43614fb2a55e3da1d.jpg
     url: /files/original/14fb2a55e3d43614fb2a55e3da1d.jpg
+    alt:
+      en: "Damaged houses with exposed framing and debris-covered yards line a dirt road, with stripped trees and storm wreckage scattered across the property under a clear blue sky."
 geo:
 id: 4728
 item_type: Still Image

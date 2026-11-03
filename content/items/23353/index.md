@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0062abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efd2bca414fb29efd324c4.jpg
     url: /files/original/14fb29efd2bca414fb29efd324c4.jpg
+    alt:
+      en: "A large military truck marked \"225GP\" and \"M8090\" drives along a flooded road as several soldiers in fatigues walk nearby through standing water, with submerged fields in the background."
 geo:
 id: 23353
 item_type: Still Image

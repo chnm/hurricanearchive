@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f319f41a14fb29f319f7fe.jpg
     url: /files/original/14fb29f319f41a14fb29f319f7fe.jpg
+    alt:
+      en: "A uniformed military police officer in camouflage, sunglasses, and a cap checks identification through the open window of a white van at a roadside checkpoint, with road signs for US 90 East and LA 611 visible nearby."
 geo:
 id: 22838
 item_type: Still Image

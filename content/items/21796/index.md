@@ -21,6 +21,8 @@ files:
     original_filename: katrina 066.jpg
     thumb: /files/thumbnails/14fb29fbb889dc14fb29fbb88dc9.jpg
     url: /files/original/14fb29fbb889dc14fb29fbb88dc9.jpg
+    alt:
+      en: "Flooded city street lined with palm trees and multistory buildings, including a Marriott hotel, with a traffic light and storefronts partially submerged in brown floodwater; timestamp reads 3:50 PM."
 geo:
 id: 21796
 item_type: Still Image

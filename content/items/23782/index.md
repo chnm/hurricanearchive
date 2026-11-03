@@ -21,6 +21,8 @@ files:
     original_filename: PICT0878neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed216b2e14fb29ed22cb0f.jpg
     url: /files/original/14fb29ed216b2e14fb29ed22cb0f.jpg
+    alt:
+      en: "A soldier in camouflage uniform and cap rides in a military vehicle down a quiet city street lined with balconied buildings, with a traffic cone and streetlight visible; image dated 09.15.2005."
 geo:
 id: 23782
 item_type: Still Image

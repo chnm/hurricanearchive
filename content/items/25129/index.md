@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1736superdome.JPG
     thumb: /files/thumbnails/14fb29e21b793814fb29e21b7d5f.jpg
     url: /files/original/14fb29e21b793814fb29e21b7d5f.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues carry a patient on a stretcher toward a truck, while a woman in a jacket labeled \"PHI Air Medical\" looks on in a parking lot."
 geo:
 id: 25129
 item_type: Still Image

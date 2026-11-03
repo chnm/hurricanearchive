@@ -20,6 +20,8 @@ files:
     original_filename: 2297842803_53a640ef9d.
     thumb: /files/thumbnails/14fb29c7f60d3914fb29c7f63b96.jpg
     url: /files/original/14fb29c7f60d3914fb29c7f63b96.jpg
+    alt:
+      en: "Group of people standing and walking on a gravel lot, one carrying a bicycle, near a chain-link fence lined with parked bikes and a blue metal structure, with bare trees in the background."
 geo:
 id: 34989
 item_type: Still Image

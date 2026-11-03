@@ -21,6 +21,8 @@ files:
     original_filename: 100_0112.JPG
     thumb: /files/thumbnails/14fb2a595da46314fb2a595da848.jpg
     url: /files/original/14fb2a595da46314fb2a595da848.jpg
+    alt:
+      en: "A group of uniformed personnel, including several wearing \"USCG\" jackets and body armor, stand gathered in a parking lot near a white truck under a bright, overcast sky."
 geo:
 id: 3824
 item_type: Still Image

@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BW7_c39bc43e00.jpg
     thumb: /files/thumbnails/14fb2a66b90c1014fb2a66b90feb.jpg
     url: /files/original/14fb2a66b90c1014fb2a66b90feb.jpg
+    alt:
+      en: "Coast Guard rescue crew members and paramedics, one wearing a \"Newman's Ambulance Medic\" shirt, carry an elderly woman from a helicopter onto a stretcher at an airfield."
 geo:
 id: 2397
 item_type: Still Image

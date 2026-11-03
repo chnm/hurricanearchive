@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0398.JPG
     thumb: /files/thumbnails/14fb2a543873e114fb2a543877c7.jpg
     url: /files/original/14fb2a543873e114fb2a543877c7.jpg
+    alt:
+      en: "Debris field with a blue barrel, a wooden frame structure, scattered white panels, and broken trees, with a thinned forest of bare, damaged trees in the background."
 geo:
 id: 5053
 item_type: Still Image

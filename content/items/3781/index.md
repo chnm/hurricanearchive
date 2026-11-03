@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 061.jpg
     thumb: /files/thumbnails/14fb2a59b1987314fb2a59b19c5c.jpg
     url: /files/original/14fb2a59b1987314fb2a59b19c5c.jpg
+    alt:
+      en: "Debris field with collapsed structures, scattered rubble, and downed trees under a clear blue sky, remnants of power lines hanging overhead."
 geo:
 id: 3781
 item_type: Still Image

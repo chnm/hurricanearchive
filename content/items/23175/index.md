@@ -21,6 +21,8 @@ files:
     original_filename: Inprocessing4delaware.jpg
     thumb: /files/thumbnails/14fb29f13e636314fb29f13e6743.jpg
     url: /files/original/14fb29f13e636314fb29f13e6743.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms stand and sit in a large indoor hall with folding chairs and a blank projector screen, name tapes including \"Begley\" and \"Carden\" visible on uniforms during an inprocessing session."
 geo:
 id: 23175
 item_type: Still Image

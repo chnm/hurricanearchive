@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28648.jpg
     thumb: /files/thumbnails/14fb2a6d3dd48014fb2a6d3dd85a.jpg
     url: /files/original/14fb2a6d3dd48014fb2a6d3dd85a.jpg
+    alt:
+      en: "A green sign under a tent reads \"NO PET ADOPTIONS AT THIS FACILITY. TO ADOPT CONTACT: LASPCA (LA-SPCA.ORG) OR YOUR LOCAL ANIMAL SHELTER,\" with a folding chair, table, and people nearby at the animal rescue depot."
 geo:
   address: ''
   lat: 0.0

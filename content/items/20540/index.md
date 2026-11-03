@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031-15.JPG
     thumb: /files/thumbnails/14fb2a0652a89a14fb2a0652ac2f.jpg
     url: /files/original/14fb2a0652a89a14fb2a0652ac2f.jpg
+    alt:
+      en: "Aerial view of a row of houses with gabled rooftops surrounded by floodwater covering streets and yards, with scattered trees and utility lines visible throughout."
 geo:
 id: 20540
 item_type: Still Image

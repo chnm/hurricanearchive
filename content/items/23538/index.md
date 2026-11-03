@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0168neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef1348b814fb29ef134c3a.jpg
     url: /files/original/14fb29ef1348b814fb29ef134c3a.jpg
+    alt:
+      en: "Debris-lined street with piles of dried vegetation and discarded items along the curb, shaded by overhanging trees, with a red-tiled roof building visible in the background."
 geo:
 id: 23538
 item_type: Still Image

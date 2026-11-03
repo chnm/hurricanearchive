@@ -21,6 +21,8 @@ files:
     original_filename: 100_0281.JPG
     thumb: /files/thumbnails/14fb2a5e8c1a1e14fb2a5e8c1e0b.jpg
     url: /files/original/14fb2a5e8c1a1e14fb2a5e8c1e0b.jpg
+    alt:
+      en: "Large gray military ship with radar tower and gun turrets sits in a dry dock channel beside a crane on the dock, with bright sun flaring in a clear blue sky."
 geo:
 id: 3032
 item_type: Still Image

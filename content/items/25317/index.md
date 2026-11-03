@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2044superdome.JPG
     thumb: /files/thumbnails/14fb29df1afaa814fb29df1afe7a.jpg
     url: /files/original/14fb29df1afaa814fb29df1afe7a.jpg
+    alt:
+      en: "A soldier in camouflage embraces a woman carrying a yellow plastic bag, with a young boy and another uniformed man nearby, near a chain-link fence and a \"Level 3\" parking sign."
 geo:
 id: 25317
 item_type: Still Image

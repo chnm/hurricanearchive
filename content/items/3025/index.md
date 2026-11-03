@@ -21,6 +21,8 @@ files:
     original_filename: 100_0274.JPG
     thumb: /files/thumbnails/14fb2a5eb60ccb14fb2a5eb610af.jpg
     url: /files/original/14fb2a5eb60ccb14fb2a5eb610af.jpg
+    alt:
+      en: "A metal bracket holds an inverted bell-shaped light fixture base hanging beneath a granite ledge, with a person's boots visible on a concrete surface nearby."
 geo:
 id: 3025
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 1_ff70671ff2.jpg
     thumb: /files/thumbnails/14fb29d3a381e414fb29d3a385ca.jpg
     url: /files/original/14fb29d3a381e414fb29d3a385ca.jpg
+    alt:
+      en: "Four children in matching white \"ST. DOMINIC CC\" shirts stand smiling in a living room, posed in front of a fireplace mantel with framed artwork and family photos on the wall above."
 geo:
   address: ''
   lat: 29.91685

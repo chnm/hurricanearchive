@@ -21,6 +21,8 @@ files:
     original_filename: S4300120Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f42941fd14fb29f42945e1.jpg
     url: /files/original/14fb29f42941fd14fb29f42945e1.jpg
+    alt:
+      en: "A brick wall topped with coiled razor wire runs along a road, with a hip-roofed brick building and trees visible behind it under a cloudy sky."
 geo:
 id: 22764
 item_type: Still Image

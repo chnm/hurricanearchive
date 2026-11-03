@@ -21,6 +21,8 @@ files:
     original_filename: Picture 128cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b9f107014fb2a0b9f1425.jpg
     url: /files/original/14fb2a0b9f107014fb2a0b9f1425.jpg
+    alt:
+      en: "Viewed through a vehicle's windshield, a large boat lies stranded and tilted on dry land amid debris and downed power lines, with the silhouette of a person's head in the foreground."
 geo:
 id: 20031
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Hanger 5-6 NAS NONASneworleans.jpg
     thumb: /files/thumbnails/14fb29f24cb7b314fb29f24cbb95.jpg
     url: /files/original/14fb29f24cb7b314fb29f24cbb95.jpg
+    alt:
+      en: "Large warehouse-like hangar with a wide open concrete floor marked off by orange traffic cones, a trash bin and stacked produce boxes in the foreground, and tables with people and paperwork along the back wall."
 geo:
 id: 22983
 item_type: Still Image

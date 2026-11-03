@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0072OEP.JPG
     thumb: /files/thumbnails/14fb29f1a9d00814fb29f1a9d7ce.jpg
     url: /files/original/14fb29f1a9d00814fb29f1a9d7ce.jpg
+    alt:
+      en: "A seated young man in a white T-shirt is interviewed outdoors, with a woman holding a boom microphone and video camera on one side and a man in military camouflage taking notes on the other."
 geo:
 id: 23062
 item_type: Still Image

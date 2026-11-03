@@ -21,6 +21,8 @@ files:
     original_filename: 179 flooding7.jpg
     thumb: /files/thumbnails/14fb2a1f80835814fb2a1f80873e.jpg
     url: /files/original/14fb2a1f80835814fb2a1f80873e.jpg
+    alt:
+      en: "A silver sedan sits partially submerged in floodwater on a street, with only its roof, trunk, and license plate (J02-LYL) visible above the water, near a red STOP sign and surrounded by trees."
 geo:
 id: 13187
 item_type: Still Image

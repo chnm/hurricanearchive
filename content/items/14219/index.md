@@ -21,6 +21,8 @@ files:
     original_filename: matejowsky.JPG
     thumb: /files/thumbnails/14fb2a1a81b65214fb2a1a81ba36.jpg
     url: /files/original/14fb2a1a81b65214fb2a1a81ba36.jpg
+    alt:
+      en: "A smiling man in camouflage U.S. Army fatigues with a name tape reading \"MATEJOWSKY\" poses indoors near a flip chart covered in handwritten notes and a trash bin."
 geo:
   address: ''
   lat: 0.0

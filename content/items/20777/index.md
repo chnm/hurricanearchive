@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0076-9-25.JPG
     thumb: /files/thumbnails/14fb2a03d1be3114fb2a03d1c20d.jpg
     url: /files/original/14fb2a03d1be3114fb2a03d1c20d.jpg
+    alt:
+      en: "Blurry, out-of-focus silhouette of a helicopter against a hazy greenish-gray sky, with its tail rotor and main rotor blades faintly visible."
 geo:
 id: 20777
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TameraConey_03_b1153db5a7.jpg
     thumb: /files/thumbnails/14fb2a17a7401e14fb2a17a74403.jpg
     url: /files/original/14fb2a17a7401e14fb2a17a74403.jpg
+    alt:
+      en: "Worn photograph of a smiling woman in a plaid jacket holding an infant dressed in a pink and white outfit, posed against a rustic wood-paneled backdrop."
 geo:
 id: 14798
 item_type: Still Image

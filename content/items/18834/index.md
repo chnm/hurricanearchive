@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0055westend.JPG
     thumb: /files/thumbnails/14fb2a15004a7714fb2a15004e5c.jpg
     url: /files/original/14fb2a15004a7714fb2a15004e5c.jpg
+    alt:
+      en: "Aerial view of a marina with storm-damaged covered boat slips, torn roofing, and scattered debris, surrounded by docked sailboats and a larger boathouse along the waterway."
 geo:
 id: 18834
 item_type: Still Image

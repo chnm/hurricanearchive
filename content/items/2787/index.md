@@ -27,6 +27,8 @@ files:
     original_filename: '&ldquo;rip New Orleans&rdquo;'
     thumb: /files/thumbnails/14fb2a602f211e14fb2a602f2504.jpg
     url: /files/original/14fb2a602f211e14fb2a602f2504.jpg
+    alt:
+      en: "Child's marker drawing titled \"R.I.P. New Orleans\" showing four smiling stick figures labeled Dhaz, To-To, Nziki, and Davion beneath rows of building facades, with neighborhood names like 9th Ward, 7th Ward, 8th Ward, 3rd Ward, Home, Love, Justice, and Peace written below."
 geo:
 id: 2787
 item_type: Still Image

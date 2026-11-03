@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0671.JPG
     thumb: /files/thumbnails/14fb29cf9484c014fb29cf94855b.jpg
     url: /files/original/14fb29cf9484c014fb29cf94855b.jpg
+    alt:
+      en: "Line of cars with brake lights on in slow-moving traffic along a tree-lined street, with a blue Chevrolet sedan bearing license plate FYW 072 in the foreground."
 geo:
 id: 29102
 item_type: Still Image

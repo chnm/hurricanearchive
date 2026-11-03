@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 15.jpg
     thumb: /files/thumbnails/14fb29f09bb9b714fb29f09bbda2.jpg
     url: /files/original/14fb29f09bb9b714fb29f09bbda2.jpg
+    alt:
+      en: "Color-enhanced satellite map of a large hurricane with a well-defined eye over the Gulf of Mexico, timestamped 28 Aug 2005 20:02 GMT, with Gulf Coast cities including New Orleans, Mobile, and Panama City labeled."
 geo:
 id: 23222
 item_type: Still Image

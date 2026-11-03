@@ -18,6 +18,8 @@ files:
     original_filename: 53_1914478ea9.jpg
     thumb: /files/thumbnails/14fb29c68bc4cc14fb29c68bc8b1.jpg
     url: /files/original/14fb29c68bc4cc14fb29c68bc8b1.jpg
+    alt:
+      en: "A man in light blue clothing stands in a green doorway of a weathered white building with exposed brick, giving a peace sign; an orange-and-white barricade and rail cars line the street nearby."
 geo:
   address: new orleans, la
   lat: 29.95324

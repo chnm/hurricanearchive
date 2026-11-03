@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046cameronS&R.JPG
     thumb: /files/thumbnails/14fb29effaa5bf14fb29effaa9a5.jpg
     url: /files/original/14fb29effaa5bf14fb29effaa9a5.jpg
+    alt:
+      en: "Storm-damaged building labeled \"Admiralty\" with collapsed roofing, scattered wood debris, a leaning utility pole, and a bent \"One Way\" sign, surrounded by thick mud covering the street."
 geo:
 id: 23317
 item_type: Still Image

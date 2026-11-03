@@ -21,6 +21,8 @@ files:
     original_filename: 09270032plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec09456414fb29ec094945.jpg
     url: /files/original/14fb29ec09456414fb29ec094945.jpg
+    alt:
+      en: "Two uniformed men walk down a debris-strewn road at sunset, with downed trees, a snapped utility pole, and storm-damaged buildings lining either side."
 geo:
 id: 23994
 item_type: Still Image

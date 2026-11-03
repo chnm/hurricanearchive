@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0058abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efdcca4714fb29efdcd338.jpg
     url: /files/original/14fb29efdcca4714fb29efdcd338.jpg
+    alt:
+      en: "A white single-story house with a brown roof sits surrounded by floodwater that reaches its windows, with a small boat docked beside it and trees and a power line in the background."
 geo:
 id: 23345
 item_type: Still Image

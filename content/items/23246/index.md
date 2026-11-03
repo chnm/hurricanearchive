@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 37.jpg
     thumb: /files/thumbnails/14fb29f05447bc14fb29f0544ba0.jpg
     url: /files/original/14fb29f05447bc14fb29f0544ba0.jpg
+    alt:
+      en: "Weather satellite map of Mexico and the Gulf Coast showing a hurricane with intense orange and purple cloud bands near the Texas-Mexico border, dated 29 Aug 2005, 12:21 GMT, from The Weather Channel."
 geo:
 id: 23246
 item_type: Still Image

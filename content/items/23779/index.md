@@ -21,6 +21,8 @@ files:
     original_filename: PICT0875neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed27371614fb29ed273af8.jpg
     url: /files/original/14fb29ed27371614fb29ed273af8.jpg
+    alt:
+      en: "A boat on a trailer sits lodged against a fence in front of a house, with \"Mark's Wheeler Shop\" sign visible behind; date stamp reads 09.15.2005."
 geo:
 id: 23779
 item_type: Still Image

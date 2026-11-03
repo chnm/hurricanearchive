@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0045tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d1d9c9c14fb2a0d1da081.jpg
     url: /files/original/14fb2a0d1d9c9c14fb2a0d1da081.jpg
+    alt:
+      en: "Workers in military-style camouflage pants and brown t-shirts, wearing white hard hats, construct a wooden-framed building using a metal scaffold, with trees and sky in the background."
 geo:
 id: 19859
 item_type: Still Image

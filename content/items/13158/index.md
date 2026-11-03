@@ -21,6 +21,8 @@ files:
     original_filename: 148 using a flash in a hurricane.jpg
     thumb: /files/thumbnails/14fb2a1fda999814fb2a1fda9cba.jpg
     url: /files/original/14fb2a1fda999814fb2a1fda9cba.jpg
+    alt:
+      en: "Nighttime scene with heavy wind-driven rain illuminated by flash, appearing as streaks against darkness, with a curb and pavement visible in the foreground and a brick wall corner at right."
 geo:
 id: 13158
 item_type: Still Image

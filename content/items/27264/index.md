@@ -20,6 +20,8 @@ files:
     original_filename: Post Katrina French Market.JPG
     thumb: /files/thumbnails/14fb29d595003914fb29d5950412.jpg
     url: /files/original/14fb29d595003914fb29d5950412.jpg
+    alt:
+      en: "Street view of the French Market archway entrance with \"FRENCH MARKET\" lettering, a stop sign in the foreground, a parked car, a cyclist, and covered market stalls along the street."
 geo:
 id: 27264
 item_type: Still Image

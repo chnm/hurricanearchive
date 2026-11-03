@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0307.JPG
     thumb: /files/thumbnails/14fb2a13761d5114fb2a13762119.jpg
     url: /files/original/14fb2a13761d5114fb2a13762119.jpg
+    alt:
+      en: "Interior view of a helicopter cabin with a crew member wearing a helmet and visor, a mounted fire extinguisher visible on the wall, and the open side door frame in the foreground."
 geo:
 id: 19063
 item_type: Still Image

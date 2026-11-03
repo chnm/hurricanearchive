@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f315165814fb29f3151a34.jpg
     url: /files/original/14fb29f315165814fb29f3151a34.jpg
+    alt:
+      en: "A soldier in camouflage checks identification through the window of a silver Ford F-150 truck at a checkpoint, while a reporter and cameraman stand nearby recording the scene."
 geo:
 id: 22842
 item_type: Still Image

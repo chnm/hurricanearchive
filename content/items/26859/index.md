@@ -21,6 +21,8 @@ files:
     original_filename: KJ Mardi Gras_60ae68a3b3. 2 PCT.jpg
     thumb: /files/thumbnails/14fb29d720aff414fb29d720decc.jpg
     url: /files/original/14fb29d720aff414fb29d720decc.jpg
+    alt:
+      en: "Black-and-white street scene with two girls in decorative kimono-style costumes standing near adults on a sidewalk lined with storefronts, part of a Mardi Gras gathering in New Orleans."
 geo:
   address: ''
   lat: 29.91685

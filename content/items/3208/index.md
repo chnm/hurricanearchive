@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (57).JPG
     thumb: /files/thumbnails/14fb2a5d5a303214fb2a5d5a3462.jpg
     url: /files/original/14fb2a5d5a303214fb2a5d5a3462.jpg
+    alt:
+      en: "View from inside a vehicle on a rain-spotted windshield, looking out at an elevated highway interchange with green overhead signs, debris scattered along the roadside, and a pickup truck ahead."
 geo:
 id: 3208
 item_type: Still Image

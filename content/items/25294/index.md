@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2021superdome.JPG
     thumb: /files/thumbnails/14fb29df5a02a714fb29df5a0a6b.jpg
     url: /files/original/14fb29df5a02a714fb29df5a0a6b.jpg
+    alt:
+      en: "Seen from behind, a man in a tan t-shirt and camouflage pants embraces a man in a striped shirt carrying a child, with other uniformed personnel standing nearby on a concrete surface."
 geo:
 id: 25294
 item_type: Still Image

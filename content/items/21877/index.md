@@ -21,6 +21,8 @@ files:
     original_filename: London Avenue small.jpg
     thumb: /files/thumbnails/14fb29fb4a074214fb29fb4a0b27.jpg
     url: /files/original/14fb29fb4a074214fb29fb4a0b27.jpg
+    alt:
+      en: "Aerial black-and-white photograph of a residential neighborhood bisected by a straight canal, with dense rows of houses, trees, and streets on either side."
 geo:
 id: 21877
 item_type: Still Image

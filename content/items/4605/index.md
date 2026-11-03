@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0031.JPG
     thumb: /files/thumbnails/14fb2a56c5701b14fb2a56c5740b.jpg
     url: /files/original/14fb2a56c5701b14fb2a56c5740b.jpg
+    alt:
+      en: "Debris and uprooted trees, draped with shredded insulation and fabric, lie scattered across a storm-damaged lot beneath a cloudy sky, with a partially visible house in the background."
 geo:
 id: 4605
 item_type: Still Image

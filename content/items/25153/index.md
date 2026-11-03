@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1763superdome.JPG
     thumb: /files/thumbnails/14fb29e1d5dc9514fb29e1d5e09c.jpg
     url: /files/original/14fb29e1d5dc9514fb29e1d5e09c.jpg
+    alt:
+      en: "Military personnel in fatigues pass cases of Nestlé Pure Life bottled water near a helicopter, with its rotor blade visible overhead during relief operations."
 geo:
 id: 25153
 item_type: Still Image

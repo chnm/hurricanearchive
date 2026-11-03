@@ -26,6 +26,8 @@ files:
     original_filename: HPIM0013_e01feb5abe.JPG
     thumb: /files/thumbnails/14fb2a6e7e1edd14fb2a6e7e22c1.jpg
     url: /files/original/14fb2a6e7e1edd14fb2a6e7e22c1.jpg
+    alt:
+      en: "A red brick house and an adjacent white wood-sided house with storm-damaged exteriors, surrounded by a muddy, debris-strewn yard littered with broken furniture and tree branches."
 geo:
   address: ''
   lat: 30.002253

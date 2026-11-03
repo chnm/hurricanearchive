@@ -21,6 +21,8 @@ files:
     original_filename: 09110007delaware.JPG
     thumb: /files/thumbnails/14fb29f172945814fb29f172983d.jpg
     url: /files/original/14fb29f172945814fb29f172983d.jpg
+    alt:
+      en: "Three men in camouflage military uniforms sit and stand inside the cargo hold of a military aircraft, with red webbed jump seats, cargo netting, and supplies visible nearby; a sign reads \"EMERGENCY EXIT GROUND AND DITCHING USE ONLY.\""
 geo:
 id: 23130
 item_type: Still Image

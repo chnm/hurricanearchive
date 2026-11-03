@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2156rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d477f114fb2a13d48097.jpg
     url: /files/original/14fb2a13d477f114fb2a13d48097.jpg
+    alt:
+      en: "Close-up of a textured brick or shingle surface in the foreground, with an out-of-focus dark background showing vertical shapes and faint light spots."
 geo:
 id: 18994
 item_type: Still Image

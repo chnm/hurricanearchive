@@ -21,6 +21,8 @@ files:
     original_filename: P1010152empireS&R.JPG
     thumb: /files/thumbnails/14fb29eda66dc814fb29eda671ad.jpg
     url: /files/original/14fb29eda66dc814fb29eda671ad.jpg
+    alt:
+      en: "Two shrimp boats, one named \"Mayflower,\" sit grounded beside a narrow canal next to a paved road, their outrigger rigging hung with dark netting, surrounded by scorched, debris-strewn banks."
 geo:
 id: 23711
 item_type: Still Image

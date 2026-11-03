@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0274downtownnola.JPG
     thumb: /files/thumbnails/14fb2a142b419714fb2a142b4559.jpg
     url: /files/original/14fb2a142b419714fb2a142b4559.jpg
+    alt:
+      en: "Aerial view of a rail yard with multiple parallel tracks holding freight cars and tanker cars, heavy equipment working on track repairs, and storm-damaged trees along the yard's edge."
 geo:
 id: 18924
 item_type: Still Image

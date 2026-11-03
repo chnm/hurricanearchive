@@ -20,6 +20,8 @@ files:
     original_filename: 2456562537_72b05530b8.
     thumb: /files/thumbnails/14fb29c87976d114fb29c879800b.jpg
     url: /files/original/14fb29c87976d114fb29c879800b.jpg
+    alt:
+      en: "Aerial view of Lake Cataouatche Levee, showing a dark water channel alongside an earthen levee with patches of green vegetation and surrounding marshland."
 geo:
 id: 34925
 item_type: Still Image

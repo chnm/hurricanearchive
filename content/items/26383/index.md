@@ -21,6 +21,8 @@ files:
     original_filename: RhinaKissee-5924_6e84ed50d1.jpg
     thumb: /files/thumbnails/14fb29d908be1414fb29d908c207.jpg
     url: /files/original/14fb29d908be1414fb29d908c207.jpg
+    alt:
+      en: "Three women stand close together in a garage holding sparklers and drinks, smiling for the camera, with other people and festive décor visible in the background."
 geo:
   address: 3728 Palmisano Blvd., Chalmette, LA
   lat: 29.95094

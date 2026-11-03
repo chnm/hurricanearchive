@@ -21,6 +21,8 @@ files:
     original_filename: Picture 075cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bd88c5e14fb2a0bd896f8.jpg
     url: /files/original/14fb2a0bd88c5e14fb2a0bd896f8.jpg
+    alt:
+      en: "Concrete highway overpass with multiple barrier walls and a paved roadway with a yellow line, flanked by streetlights, trees, and a partly cloudy blue sky."
 geo:
 id: 19978
 item_type: Still Image

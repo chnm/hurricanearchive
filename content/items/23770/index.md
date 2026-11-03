@@ -21,6 +21,8 @@ files:
     original_filename: PICT0085neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed30b2b514fb29ed30b69a.jpg
     url: /files/original/14fb29ed30b2b514fb29ed30b69a.jpg
+    alt:
+      en: "View from inside a military vehicle's open door, with a side mirror reflecting a soldier, overlooking an elevated highway, domed stadium, and city skyline; dated 09.15.2005."
 geo:
 id: 23770
 item_type: Still Image

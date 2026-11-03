@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 043.jpg
     thumb: /files/thumbnails/14fb2a12cdc8e014fb2a12cdd01c.jpg
     url: /files/original/14fb2a12cdc8e014fb2a12cdd01c.jpg
+    alt:
+      en: "Military staging area under open-sided canopy shelters, with a green telehandler forklift, camouflage Humvees, a wheel loader, a blue semi-truck, and a uniformed service member walking across the lot."
 geo:
 id: 19133
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2456720175_e0520cadf1.
     thumb: /files/thumbnails/14fb29c8cc24b014fb29c8cc2895.jpg
     url: /files/original/14fb29c8cc24b014fb29c8cc2895.jpg
+    alt:
+      en: "A crawler crane labeled \"MANTIS\" uses a vibratory pile driver to install a piling at a marina construction site, with sailboat masts visible in the background."
 geo:
 id: 34879
 item_type: Still Image

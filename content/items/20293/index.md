@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0140-9-18.JPG
     thumb: /files/thumbnails/14fb2a09d2bccc14fb2a09d2d412.jpg
     url: /files/original/14fb2a09d2bccc14fb2a09d2d412.jpg
+    alt:
+      en: "A thin reddish-brown dog on a chain stands amid storm debris, perched on an overturned appliance lid near broken concrete slabs and rusted metal fragments."
 geo:
 id: 20293
 item_type: Still Image

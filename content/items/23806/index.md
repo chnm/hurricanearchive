@@ -21,6 +21,8 @@ files:
     original_filename: S4300051neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecfdb94e14fb29ecfdbd33.jpg
     url: /files/original/14fb29ecfdb94e14fb29ecfdbd33.jpg
+    alt:
+      en: "Floodwater surrounds a building entrance decorated with a large New Orleans Hornets basketball mural and \"HORNETS.COM\" banners, viewed through a vehicle's side mirror in the foreground."
 geo:
 id: 23806
 item_type: Still Image

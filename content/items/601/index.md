@@ -26,6 +26,8 @@ files:
     original_filename: IMG_1498_8707281714.JPG
     thumb: /files/thumbnails/14fb2a6f69392e14fb2a6f693d14.jpg
     url: /files/original/14fb2a6f69392e14fb2a6f693d14.jpg
+    alt:
+      en: "Storm-damaged church with a tall red gable façade, broken stained-glass windows, and a large cross; two people approach the debris-strewn entrance under a clear blue sky."
 geo:
   address: ''
   lat: 29.8085319067757

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28564.jpg
     thumb: /files/thumbnails/14fb2a68dde79614fb2a68ddeb5f.jpg
     url: /files/original/14fb2a68dde79614fb2a68ddeb5f.jpg
+    alt:
+      en: "Single-story brick house with a tiled roof sits amid a debris-strewn, muddy lot, with bare trees and scattered wreckage under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

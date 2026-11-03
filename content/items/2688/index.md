@@ -21,6 +21,8 @@ files:
     original_filename: 112.jpg
     thumb: /files/thumbnails/14fb2a608df79514fb2a608dfc98.jpg
     url: /files/original/14fb2a608df79514fb2a608dfc98.jpg
+    alt:
+      en: "Child's blue-ink drawing of an airplane with a propeller nose, rows of oval windows, and elaborate decorated wings; the pilot's name \"annie\" appears on the tail fin, with \"Bascal age 10\" signed below."
 geo:
 id: 2688
 item_type: Still Image

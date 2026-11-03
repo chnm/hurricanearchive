@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001tentcity.JPG
     thumb: /files/thumbnails/14fb2a0db0037a14fb2a0db00b39.jpg
     url: /files/original/14fb2a0db0037a14fb2a0db00b39.jpg
+    alt:
+      en: "A row of tan, arched canvas shelters with doors stands along a paved walkway, with a metal folding chair outside one entrance and supplies piled on the grass nearby."
 geo:
 id: 19808
 item_type: Still Image

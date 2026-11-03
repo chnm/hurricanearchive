@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28075.jpg
     thumb: /files/thumbnails/14fb2a6c9c667b14fb2a6c9c6a60.jpg
     url: /files/original/14fb2a6c9c667b14fb2a6c9c6a60.jpg
+    alt:
+      en: "A bent \"ONE WAY\" street sign folded into a V-shape atop its metal post, with a brick wall and bare trees in the background."
 geo:
   address: ''
   lat: 0.0

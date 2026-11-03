@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0612.JPG
     thumb: /files/thumbnails/14fb2a5662e57114fb2a5662e956.jpg
     url: /files/original/14fb2a5662e57114fb2a5662e956.jpg
+    alt:
+      en: "Pink single-story house with a red roof partially torn off exposing the rafters, debris piled on the front lawn, and a camper trailer parked in the driveway under blue skies."
 geo:
 id: 4661
 item_type: Still Image

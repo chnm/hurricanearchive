@@ -21,6 +21,8 @@ files:
     original_filename: Picture 016engineers.jpg
     thumb: /files/thumbnails/14fb2a0fe84afc14fb2a0fe8508f.jpg
     url: /files/original/14fb2a0fe84afc14fb2a0fe8508f.jpg
+    alt:
+      en: "Military personnel in camouflage and brown uniforms operate a tracked bulldozer and guide a cable attached to rusted metal beams amid storm debris, with a concrete barrier and bare trees in the background."
 geo:
 id: 19456
 item_type: Still Image

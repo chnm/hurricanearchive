@@ -21,6 +21,8 @@ files:
     original_filename: MVC-008S.JPG
     thumb: /files/thumbnails/14fb2a5fa7c28e14fb2a5fa7c67b.jpg
     url: /files/original/14fb2a5fa7c28e14fb2a5fa7c67b.jpg
+    alt:
+      en: "Interior view through a riveted metal hatch or doorway into a dimly lit mechanical compartment, with a bare lightbulb illuminating pipes, cables, and a vertical support rod."
 geo:
 id: 2885
 item_type: Still Image

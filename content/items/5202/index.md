@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0647.JPG
     thumb: /files/thumbnails/14fb2a536862d814fb2a536866c6.jpg
     url: /files/original/14fb2a536862d814fb2a536866c6.jpg
+    alt:
+      en: "Storm-damaged house with a partially collapsed roof behind a cinderblock wall spray-painted \"IF ABLE SAVE FOUNDATION\" and \"NOT LIKE BLUE,\" surrounded by debris, bare trees, and scattered rubble."
 geo:
 id: 5202
 item_type: Still Image

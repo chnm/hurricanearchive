@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0100cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef7a339b14fb29ef7a3db3.jpg
     url: /files/original/14fb29ef7a339b14fb29ef7a3db3.jpg
+    alt:
+      en: "A military crew member wearing camouflage fatigues, a headset, and a harness with radio equipment sits inside an aircraft, with a hazy aerial view of land below through the window."
 geo:
 id: 23431
 item_type: Still Image

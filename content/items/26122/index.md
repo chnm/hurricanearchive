@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5724_1103c84407.jpg
     thumb: /files/thumbnails/14fb29da71363914fb29da713a12.jpg
     url: /files/original/14fb29da71363914fb29da713a12.jpg
+    alt:
+      en: "Damaged, water-stained vintage photo of five people seated outdoors, with heavy surface deterioration and tearing obscuring the upper portion of the image; a small \"67\" is printed at the lower left edge."
 geo:
 id: 26122
 item_type: Still Image

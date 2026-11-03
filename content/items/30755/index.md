@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7468.JPG
     thumb: /files/thumbnails/14fb29cc965b1514fb29cc965ef0.jpg
     url: /files/original/14fb29cc965b1514fb29cc965ef0.jpg
+    alt:
+      en: "View from inside a moving car, seat belt crossing the frame, with a highway, trees, a pickup truck, and side mirror visible through the windows."
 geo:
 id: 30755
 item_type: Still Image

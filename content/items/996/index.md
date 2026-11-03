@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28291.jpg
     thumb: /files/thumbnails/14fb2a6b7c2e1314fb2a6b7c31f8.jpg
     url: /files/original/14fb2a6b7c2e1314fb2a6b7c31f8.jpg
+    alt:
+      en: "Skeletal remains of a multi-story wood-framed building stripped to its studs and trusses, surrounded by storm debris and scattered metal wreckage on the ground."
 geo:
   address: ''
   lat: 0.0

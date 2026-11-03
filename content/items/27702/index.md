@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6618_5d08993738.JPG
     thumb: /files/thumbnails/14fb29d2cd112214fb29d2cd1508.jpg
     url: /files/original/14fb29d2cd112214fb29d2cd1508.jpg
+    alt:
+      en: "Printed campaign card with a blue-toned photo of James E. Comiskey and a letter asking for support in his re-election as Tax Assessor for Wards 1-2-3, dated for the November 4, 1967 election."
 geo:
   address: ''
   lat: 29.95493

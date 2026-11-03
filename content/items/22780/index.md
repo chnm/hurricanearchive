@@ -21,6 +21,8 @@ files:
     original_filename: S4300136Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4007ac214fb29f4007ea7.jpg
     url: /files/original/14fb29f4007ac214fb29f4007ea7.jpg
+    alt:
+      en: "A fallen tree branch lies on a grassy roadside near a utility box and light pole, with storm debris scattered around buildings with blue roofs in the background."
 geo:
 id: 22780
 item_type: Still Image

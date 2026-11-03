@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0173neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef0a039514fb29ef0a077b.jpg
     url: /files/original/14fb29ef0a039514fb29ef0a077b.jpg
+    alt:
+      en: "Residential street lined with houses, utility poles, and overhanging trees; piles of debris and discarded items sit curbside along the road in daylight."
 geo:
 id: 23548
 item_type: Still Image

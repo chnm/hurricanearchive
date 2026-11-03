@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28140.jpg
     thumb: /files/thumbnails/14fb2a6755ed0c14fb2a6755f0f7.jpg
     url: /files/original/14fb2a6755ed0c14fb2a6755f0f7.jpg
+    alt:
+      en: "A damaged handicapped parking sign, its surface scraped and faded, stands amid storm debris, with scattered wreckage and downed structures covering the grassy field behind it."
 geo:
   address: ''
   lat: 0.0

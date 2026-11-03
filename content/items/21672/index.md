@@ -21,6 +21,8 @@ files:
     original_filename: FH000008.jpg
     thumb: /files/thumbnails/14fb29fca4dd9614fb29fca4e5cc.jpg
     url: /files/original/14fb29fca4dd9614fb29fca4e5cc.jpg
+    alt:
+      en: "A large black cauldron filled with a rice and sausage dish, likely jambalaya, sits outdoors on gravel with a long-handled stirring utensil resting inside."
 geo:
 id: 21672
 item_type: Still Image

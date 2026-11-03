@@ -26,6 +26,8 @@ files:
     original_filename: 100_6950b_1c7c5cf2fa.jpg
     thumb: /files/thumbnails/14fb2a6f32767714fb2a6f327a5b.jpg
     url: /files/original/14fb2a6f32767714fb2a6f327a5b.jpg
+    alt:
+      en: "Fire-damaged house with white siding showing a distinct horizontal charring line, a rusted metal chimney, collapsed roof framing, and a dark sedan parked beside the ruins, surrounded by bare trees."
 geo:
   address: ''
   lat: 30.005653

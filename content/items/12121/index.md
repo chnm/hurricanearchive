@@ -17,6 +17,8 @@ files:
     original_filename: 2005112843253A_5_c9bac5b68a.jpg
     thumb: /files/thumbnails/14fb2a2248c91814fb2a2248cd0c.jpg
     url: /files/original/14fb2a2248c91814fb2a2248cd0c.jpg
+    alt:
+      en: "Storm-damaged structure with collapsed roof and scattered debris, surrounded by bare, storm-stripped trees and a grassy yard; a white vehicle is visible in the background."
 geo:
   address: 507 Main Street
   lat: 30.31478

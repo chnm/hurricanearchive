@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 021.jpg
     thumb: /files/thumbnails/14fb2a227edd0614fb2a227ee0e6.jpg
     url: /files/original/14fb2a227edd0614fb2a227ee0e6.jpg
+    alt:
+      en: "A gutted commercial strip mall with collapsed roofing and exposed steel framework stands beyond an empty parking lot, with two pickup trucks parked nearby and trees lining the background."
 geo:
 id: 11974
 item_type: Still Image

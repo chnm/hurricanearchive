@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0173.JPG
     thumb: /files/thumbnails/14fb2a0aa46ffb14fb2a0aa47758.jpg
     url: /files/original/14fb2a0aa46ffb14fb2a0aa47758.jpg
+    alt:
+      en: "Aerial view of a hazy coastal town with dense tree cover and scattered buildings, overlooking a wide river or bay with a large vessel anchored offshore."
 geo:
 id: 20220
 item_type: Still Image

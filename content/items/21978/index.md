@@ -21,6 +21,8 @@ files:
     original_filename: Picture 309-J2.jpg
     thumb: /files/thumbnails/14fb29fabce57314fb29fabce957.jpg
     url: /files/original/14fb29fabce57314fb29fabce957.jpg
+    alt:
+      en: "Empty highway foreground with a concrete barrier, leading to a city skyline of high-rise buildings and a parking garage, with a helicopter flying in the clear blue sky above."
 geo:
 id: 21978
 item_type: Still Image

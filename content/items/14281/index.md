@@ -21,6 +21,8 @@ files:
     original_filename: aerials121.jpg
     thumb: /files/thumbnails/14fb2a1a3def2a14fb2a1a3df310.jpg
     url: /files/original/14fb2a1a3def2a14fb2a1a3df310.jpg
+    alt:
+      en: "Aerial view of a devastated residential area with scattered debris, splintered trees, and destroyed homes, while a blue house and dirt road remain visible in the foreground."
 geo:
 id: 14281
 item_type: Still Image

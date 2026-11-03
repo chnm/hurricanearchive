@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0205-9-25.JPG
     thumb: /files/thumbnails/14fb29ffd5fe3c14fb29ffd60222.jpg
     url: /files/original/14fb29ffd5fe3c14fb29ffd60222.jpg
+    alt:
+      en: "Aerial view of a rural residential area with scattered storm damage, including houses missing roof sections, a collapsed structure reduced to debris, downed trees, and uprooted vegetation across green fields."
 geo:
 id: 21243
 item_type: Still Image

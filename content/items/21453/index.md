@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0260.JPG
     thumb: /files/thumbnails/14fb29fe99fe2f14fb29fe9a020b.jpg
     url: /files/original/14fb29fe99fe2f14fb29fe9a020b.jpg
+    alt:
+      en: "Aerial view of a storm-damaged street lined with buildings missing roof sections, scattered debris, and several vehicles parked along the dirt-covered road."
 geo:
 id: 21453
 item_type: Still Image

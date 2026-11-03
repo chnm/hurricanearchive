@@ -21,6 +21,8 @@ files:
     original_filename: S4300241stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eca45b8014fb29eca45f5e.jpg
     url: /files/original/14fb29eca45b8014fb29eca45f5e.jpg
+    alt:
+      en: "An alligator lies in cracked mud near scattered scrap metal and crane debris beside a roadway, with a shallow puddle in the foreground."
 geo:
 id: 23876
 item_type: Still Image

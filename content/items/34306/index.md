@@ -20,6 +20,8 @@ files:
     original_filename: photo_NO-city-hall-housing-is-a-human-right_566a5c6dd4.jpg
     thumb: /files/thumbnails/14fb29ca514bca14fb29ca526edc.jpg
     url: /files/original/14fb29ca514bca14fb29ca526edc.jpg
+    alt:
+      en: "A group of people stand in a line holding a banner reading \"HOUSING IS A HUMAN RIGHT,\" with another partially visible sign in the background, in front of a modern building."
 geo:
 id: 34306
 item_type: Still Image

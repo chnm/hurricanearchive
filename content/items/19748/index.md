@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 135cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e19158f14fb2a0e191955.jpg
     url: /files/original/14fb2a0e19158f14fb2a0e191955.jpg
+    alt:
+      en: "Military truck driving down a tree-lined street past balconied buildings, viewed through a vehicle windshield with wipers visible; a street sign reads \"Chartres.\""
 geo:
 id: 19748
 item_type: Still Image

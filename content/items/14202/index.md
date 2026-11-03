@@ -21,6 +21,8 @@ files:
     original_filename: backhoe with sludge.JPG
     thumb: /files/thumbnails/14fb2a1a9e436614fb2a1a9e474c.jpg
     url: /files/original/14fb2a1a9e436614fb2a1a9e474c.jpg
+    alt:
+      en: "A CAT backhoe loader pushes thick black sludge on a flooded street, with downed tree branches and a brick house visible in the background."
 geo:
   address: ''
   lat: 0.0

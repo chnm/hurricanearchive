@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28357.jpg
     thumb: /files/thumbnails/14fb2a6ca472e614fb2a6ca476d9.jpg
     url: /files/original/14fb2a6ca472e614fb2a6ca476d9.jpg
+    alt:
+      en: "A large statue of a human figure lies toppled on patchy grass, surrounded by debris and collapsed structures near the shoreline, with damaged buildings visible in the background."
 geo:
   address: ''
   lat: 0.0

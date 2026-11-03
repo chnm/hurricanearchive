@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0092H.JPG
     thumb: /files/thumbnails/14fb29e7f0d2b814fb29e7f0dcca.jpg
     url: /files/original/14fb29e7f0d2b814fb29e7f0dcca.jpg
+    alt:
+      en: "A man in military camouflage uniform bends down with a group, including two women in matching orange and white Hooters-style uniforms with name tag stickers, on a plywood floor as onlookers watch."
 geo:
 id: 24429
 item_type: Still Image

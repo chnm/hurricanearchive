@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0320.JPG
     thumb: /files/thumbnails/14fb2a54ab0bdf14fb2a54ab0fb8.jpg
     url: /files/original/14fb2a54ab0bdf14fb2a54ab0fb8.jpg
+    alt:
+      en: "View from beneath an elevated structure showing a white-sided house with damaged, peeling siding and broken windows, set on a dirt and sparse grass lot with support beams in the foreground."
 geo:
 id: 4975
 item_type: Still Image

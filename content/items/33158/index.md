@@ -20,6 +20,8 @@ files:
     original_filename: Oak & marsh grass 9-16-07_975652387a.jpg
     thumb: /files/thumbnails/14fb29cbda000714fb29cbda03ec.jpg
     url: /files/original/14fb29cbda000714fb29cbda03ec.jpg
+    alt:
+      en: "A bare, dead oak tree stands amid tall green marsh grass, with clumps of dried grass and debris caught high in its branches, against a partly cloudy sky."
 geo:
   address: ''
   lat: 30.28279

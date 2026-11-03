@@ -21,6 +21,8 @@ files:
     original_filename: NAS NONASneworleans.jpg
     thumb: /files/thumbnails/14fb29f245c6bf14fb29f245caa6.jpg
     url: /files/original/14fb29f245c6bf14fb29f245caa6.jpg
+    alt:
+      en: "Five men in military camouflage uniforms stand on pavement in front of a wooden gazebo and a two-story building with large windows, with tents visible in the background."
 geo:
 id: 22988
 item_type: Still Image

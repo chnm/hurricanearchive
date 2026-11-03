@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1040Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8cd28b114fb29f8cd2c55.jpg
     url: /files/original/14fb29f8cd28b114fb29f8cd2c55.jpg
+    alt:
+      en: "A military Black Hawk helicopter sits on a landing pad with rotors spinning, parked near a grassy field and roadway, with trees, a red pickup truck, and other vehicles in the background."
 geo:
 id: 22233
 item_type: Still Image

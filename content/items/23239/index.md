@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 30.jpg
     thumb: /files/thumbnails/14fb29f086292614fb29f0862d0b.jpg
     url: /files/original/14fb29f086292614fb29f0862d0b.jpg
+    alt:
+      en: "Satellite weather map showing a large hurricane with a defined eye over the Gulf of Mexico near Florida, with additional storm systems across the Caribbean; timestamp reads \"29 Aug 2005 03:35 GMT / 28 Aug 2005 11:35 PM EDT.\""
 geo:
 id: 23239
 item_type: Still Image

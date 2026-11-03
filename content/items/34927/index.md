@@ -20,6 +20,8 @@ files:
     original_filename: 2457398290_f1fbc49f96.
     thumb: /files/thumbnails/14fb29c8781f2614fb29c878230b.jpg
     url: /files/original/14fb29c8781f2614fb29c878230b.jpg
+    alt:
+      en: "A large excavator with an extended boom works along a muddy dredged embankment beside a dirt road, with power lines and a hazy horizon in the background; timestamp \"11-10-2007\" appears in the corner."
 geo:
 id: 34927
 item_type: Still Image

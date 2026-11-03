@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0281downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14249d8914fb2a1424a167.jpg
     url: /files/original/14fb2a14249d8914fb2a1424a167.jpg
+    alt:
+      en: "Aerial, motion-blurred view of murky green water meeting a debris-strewn shoreline, with a dark shadow in the water and scattered objects along the muddy bank."
 geo:
 id: 18931
 item_type: Still Image

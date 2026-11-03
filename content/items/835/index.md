@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27976.jpg
     thumb: /files/thumbnails/14fb2a6cb2d40314fb2a6cb2d7e3.jpg
     url: /files/original/14fb2a6cb2d40314fb2a6cb2d7e3.jpg
+    alt:
+      en: "Abandoned building with support columns stained by dark, dirty high-water marks; debris and overgrown weeds litter the ground beneath the elevated structure."
 geo:
   address: ''
   lat: 0.0

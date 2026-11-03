@@ -23,6 +23,8 @@ files:
     original_filename: 336695755_af43681888.jpg
     thumb: /files/thumbnails/14fb29d477cff114fb29d477d3d3.jpg
     url: /files/original/14fb29d477cff114fb29d477d3d3.jpg
+    alt:
+      en: "A large vehicle or trailer lies overturned against a utility pole with street signs, near a hedge-lined green house, under an overcast sky."
 geo:
 id: 27340
 item_type: Still Image

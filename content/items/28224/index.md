@@ -27,6 +27,8 @@ files:
     original_filename: brandis_place_HURRICANE_ART021_b005933132.JPG
     thumb: /files/thumbnails/14fb29d2a4baea14fb29d2a4becf.jpg
     url: /files/original/14fb29d2a4baea14fb29d2a4becf.jpg
+    alt:
+      en: "Seated man writes on a postcard at a small table, surrounded by exposed wall studs, old pipes, and informational signs in a gutted house interior."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

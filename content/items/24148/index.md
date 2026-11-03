@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea46802314fb29ea46840a.jpg
     url: /files/original/14fb29ea46802314fb29ea46840a.jpg
+    alt:
+      en: "A single-story building with boarded-up windows stands surrounded by floodwater, with downed tree branches and tall trees in the background under an overcast sky."
 geo:
 id: 24148
 item_type: Still Image

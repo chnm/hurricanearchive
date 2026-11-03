@@ -26,6 +26,8 @@ files:
     original_filename: kat6_08b973123c.JPG
     thumb: /files/thumbnails/14fb2a6d912d4c14fb2a6d9133ba.jpg
     url: /files/original/14fb2a6d912d4c14fb2a6d9133ba.jpg
+    alt:
+      en: "Five American Red Cross volunteers, some wearing vests, caps, and ID badges, pose together outside a brick building near a door labeled \"ENTRANCE SHELTER\" at the Citronelle, Alabama Hurricane Katrina shelter."
 geo:
   address: ''
   lat: 31.107036956407104

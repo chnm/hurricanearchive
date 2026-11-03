@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28177.jpg
     thumb: /files/thumbnails/14fb2a689d0d8114fb2a689d23c4.jpg
     url: /files/original/14fb2a689d0d8114fb2a689d23c4.jpg
+    alt:
+      en: "A damaged, water-stained photo album with baby pictures lies atop debris outdoors, its pages warped and discolored from flood exposure."
 geo:
   address: ''
   lat: 0.0

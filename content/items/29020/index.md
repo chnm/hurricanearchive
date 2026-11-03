@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0527.JPG
     thumb: /files/thumbnails/14fb29d0a1df6314fb29d0a1e36a.jpg
     url: /files/original/14fb29d0a1df6314fb29d0a1e36a.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with numerous blue tarps covering rooftops amid trees, with a school bus and large building visible in the foreground."
 geo:
 id: 29020
 item_type: Still Image

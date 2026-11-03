@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2088superdome.JPG
     thumb: /files/thumbnails/14fb29e4fe9f5e14fb29e4febbab.jpg
     url: /files/original/14fb29e4fe9f5e14fb29e4febbab.jpg
+    alt:
+      en: "Two uniformed Air Force personnel sit near a green utility cart loaded with duffel bags, beside an elevator marked \"Accessible Elevator\" and a \"No Smoking\" sign."
 geo:
 id: 24766
 item_type: Still Image

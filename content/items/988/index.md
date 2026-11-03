@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28039.jpg
     thumb: /files/thumbnails/14fb2a6b86a3a114fb2a6b86a735.jpg
     url: /files/original/14fb2a6b86a3a114fb2a6b86a735.jpg
+    alt:
+      en: "Close-up of a rusted metal bracket with a drilled hole and bolt, marked with chalk writing, resting on gravel in sunlight and shadow."
 geo:
   address: ''
   lat: 0.0

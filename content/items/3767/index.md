@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 047.jpg
     thumb: /files/thumbnails/14fb2a59ce34e914fb2a59ce38cf.jpg
     url: /files/original/14fb2a59ce34e914fb2a59ce38cf.jpg
+    alt:
+      en: "Multi-story parking garage of a \"Resort & Casino\" building with debris piled along its lower level, a wooden fence in front, and a highway overpass crossing above."
 geo:
 id: 3767
 item_type: Still Image

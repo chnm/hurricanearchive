@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28560.jpg
     thumb: /files/thumbnails/14fb2a6b5264d914fb2a6b5268be.jpg
     url: /files/original/14fb2a6b5264d914fb2a6b5268be.jpg
+    alt:
+      en: "Two-story white house and adjacent brick duplex surrounded by storm debris, downed branches, and bare dirt under a clear sky, with a damaged garage structure in the background."
 geo:
   address: ''
   lat: 0.0

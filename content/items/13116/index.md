@@ -21,6 +21,8 @@ files:
     original_filename: george tying down gas.jpg
     thumb: /files/thumbnails/14fb2a2054dd0c14fb2a2054e0b5.jpg
     url: /files/original/14fb2a2054dd0c14fb2a2054e0b5.jpg
+    alt:
+      en: "A man leans over a vehicle's roof rack, securing red gas containers mounted alongside auxiliary lights, with a tree-lined road visible in the background."
 geo:
 id: 13116
 item_type: Still Image

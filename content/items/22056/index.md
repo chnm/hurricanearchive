@@ -21,6 +21,8 @@ files:
     original_filename: Picture 387-J2.jpg
     thumb: /files/thumbnails/14fb29f9cc7d2a14fb29f9cc810e.jpg
     url: /files/original/14fb29f9cc7d2a14fb29f9cc810e.jpg
+    alt:
+      en: "A man in military camouflage pants and a tan t-shirt sits on a cot polishing a boot, surrounded by sleeping bags, backpacks, and stacked cardboard boxes in a cluttered storage or barracks area."
 geo:
 id: 22056
 item_type: Still Image

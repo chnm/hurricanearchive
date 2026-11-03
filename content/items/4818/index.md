@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0133.JPG
     thumb: /files/thumbnails/14fb2a554c51d514fb2a554c5539.jpg
     url: /files/original/14fb2a554c51d514fb2a554c5539.jpg
+    alt:
+      en: "Debris field with a collapsed roof structure, scattered white panels, and cinder blocks on bare ground, surrounded by a damaged pine forest with broken branches."
 geo:
 id: 4818
 item_type: Still Image

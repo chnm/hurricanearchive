@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_ErykahMorris_06_16eab65c95.jpg
     thumb: /files/thumbnails/14fb2a17d3ce5414fb2a17d3d209.jpg
     url: /files/original/14fb2a17d3ce5414fb2a17d3d209.jpg
+    alt:
+      en: "A smiling young girl in a plaid jumper school uniform sits in a chair beside a round table, with a bookshelf of children's books and stuffed animal puppets nearby."
 geo:
 id: 14770
 item_type: Still Image

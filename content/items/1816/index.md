@@ -26,6 +26,8 @@ files:
     original_filename: NOLA_after_Katrina_Oct_2005_178_f9b35243c1.jpg
     thumb: /files/thumbnails/14fb2a6ec2472b14fb2a6ec24b10.jpg
     url: /files/original/14fb2a6ec2472b14fb2a6ec24b10.jpg
+    alt:
+      en: "Storm-damaged roof with fallen tree limbs and debris scattered across it, a sign reading \"RE/MAX Chris Miller\" posted in the foreground rubble, trees in the background."
 geo:
   address: ''
   lat: 30.382353217669603

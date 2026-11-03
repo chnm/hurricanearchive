@@ -24,6 +24,8 @@ files:
     original_filename: JA 10 Grandparents 1948_e23768ebc9.jpg
     thumb: /files/thumbnails/14fb29d832fbb714fb29d832ff9d.jpg
     url: /files/original/14fb29d832fbb714fb29d832ff9d.jpg
+    alt:
+      en: "Vintage black-and-white snapshot of a man in a suit and a woman in a white dress and hat, standing together indoors holding glasses, photographed with aged, creased borders."
 geo:
   address: ''
   lat: 29.87876

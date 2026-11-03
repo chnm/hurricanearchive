@@ -21,6 +21,8 @@ files:
     original_filename: S4300089bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a139413b014fb2a139416c8.jpg
     url: /files/original/14fb2a139413b014fb2a139416c8.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather inside a hangar near an aircraft, with a news camera operator and boom microphone recording an interview, and a flip chart and ladder visible in the background."
 geo:
 id: 19028
 item_type: Still Image

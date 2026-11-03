@@ -26,6 +26,8 @@ files:
     original_filename: johnsonsbayou_33c06b3644.JPG
     thumb: /files/thumbnails/14fb2a6ead068c14fb2a6ead0a59.jpg
     url: /files/original/14fb2a6ead068c14fb2a6ead0a59.jpg
+    alt:
+      en: "A statue of a soldier stands before Johnson Bayou School, its red roof and beige exterior visible, with a flagpole flying the American flag at half-staff above another flag."
 geo:
   address: ''
   lat: 29.765569486667

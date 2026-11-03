@@ -21,6 +21,8 @@ files:
     original_filename: 100_0166.JPG
     thumb: /files/thumbnails/14fb2a5926707e14fb2a59267464.jpg
     url: /files/original/14fb2a5926707e14fb2a59267464.jpg
+    alt:
+      en: "Floodwater submerges a residential street up to rooftops, with power lines and utility poles rising above the water and storm-damaged trees along the shoreline."
 geo:
 id: 3873
 item_type: Still Image

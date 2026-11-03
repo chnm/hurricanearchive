@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005M.JPG
     thumb: /files/thumbnails/14fb2a0859debe14fb2a0859e2a3.jpg
     url: /files/original/14fb2a0859debe14fb2a0859e2a3.jpg
+    alt:
+      en: "A man in a brown sleeveless shirt applies an adhesive bandage to his upper arm after what appears to be an injection, with another man in military camouflage seated nearby in an indoor room."
 geo:
 id: 20364
 item_type: Still Image

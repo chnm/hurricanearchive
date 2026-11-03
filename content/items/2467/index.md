@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8492.jpg
     thumb: /files/thumbnails/14fb2a6642dda714fb2a6642e18d.jpg
     url: /files/original/14fb2a6642dda714fb2a6642e18d.jpg
+    alt:
+      en: "Weathered wooden pilings stand in calm water where waterfront homes once stood, with a tattered American flag on a post amid debris and straw in the foreground, a distant bridge on the horizon."
 geo:
 id: 2467
 item_type: Still Image

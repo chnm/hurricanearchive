@@ -24,6 +24,8 @@ files:
     original_filename: P1010041.JPG
     thumb: /files/thumbnails/14fb2a5b96222014fb2a5b962605.jpg
     url: /files/original/14fb2a5b96222014fb2a5b962605.jpg
+    alt:
+      en: "Two storm-damaged houses with boarded windows and orange \"SR\" spray-paint markings stand behind bare, salt-damaged trees, with cut tree trunks and debris scattered across a barren, muddy yard."
 geo:
 id: 3472
 item_type: Still Image

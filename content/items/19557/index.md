@@ -21,6 +21,8 @@ files:
     original_filename: S4300011zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f3c255914fb2a0f3c293c.jpg
     url: /files/original/14fb2a0f3c255914fb2a0f3c293c.jpg
+    alt:
+      en: "A young man wearing a camouflage military cap with a rank insignia and a brown t-shirt stands outdoors, looking off to the side, with an empty paved parking lot and a trailer visible in the background."
 geo:
 id: 19557
 item_type: Still Image

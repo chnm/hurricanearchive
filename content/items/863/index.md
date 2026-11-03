@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28531.jpg
     thumb: /files/thumbnails/14fb2a6c9444f414fb2a6c9448de.jpg
     url: /files/original/14fb2a6c9444f414fb2a6c9448de.jpg
+    alt:
+      en: "A man distributes pizza boxes to a group of workers on a rubble-strewn street in downtown New Orleans, beside a Domino's Pizza cart with a \"Now Open\" sign."
 geo:
   address: ''
   lat: 0.0

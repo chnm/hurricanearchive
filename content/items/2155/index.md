@@ -26,6 +26,8 @@ files:
     original_filename: Stairway_to_Heavnowhere_8c95f7e1a0.JPG
     thumb: /files/thumbnails/14fb2a6d95964a14fb2a6d9599e1.jpg
     url: /files/original/14fb2a6d95964a14fb2a6d9599e1.jpg
+    alt:
+      en: "A freestanding brick staircase and short wall remain on a cleared lot, surrounded by bare, storm-damaged trees, a parked RV, and piles of dirt in the background."
 geo:
   address: ''
   lat: 30.294535230988

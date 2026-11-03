@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eaf5399614fb29eaf54397.jpg
     url: /files/original/14fb29eaf5399614fb29eaf54397.jpg
+    alt:
+      en: "A bent \"Benjamin St\" sign stands beside a mud-covered street littered with uprooted trees and debris, as a front-end loader works near flood-damaged homes in the background."
 geo:
 id: 24082
 item_type: Still Image

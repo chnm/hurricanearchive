@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0254.JPG
     thumb: /files/thumbnails/14fb2a55c96aa014fb2a55c96e85.jpg
     url: /files/original/14fb2a55c96aa014fb2a55c96e85.jpg
+    alt:
+      en: "A cluttered wooden bed piled with plastic bags, boxes, and miscellaneous belongings in a bedroom with two framed pictures on the wall and a window with blinds."
 geo:
 id: 4744
 item_type: Still Image

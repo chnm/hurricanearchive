@@ -18,6 +18,8 @@ files:
     original_filename: 56_0db93b2d5d.jpg
     thumb: /files/thumbnails/14fb29c67ccbc514fb29c67cd757.jpg
     url: /files/original/14fb29c67ccbc514fb29c67cd757.jpg
+    alt:
+      en: "Two people in elaborate costumes pose together: one wears a bronze metallic outfit with long fringed hair and beaded jewelry, the other a white feathered gown with a large sparkling blue headdress."
 geo:
   address: new orleans, la
   lat: 29.95324

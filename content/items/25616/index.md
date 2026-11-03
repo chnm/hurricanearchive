@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.019.JPG
     thumb: /files/thumbnails/14fb29dd23a4bf14fb29dd23a8a3.jpg
     url: /files/original/14fb29dd23a4bf14fb29dd23a8a3.jpg
+    alt:
+      en: "Spray-painted search-and-rescue markings on a house's siding, reading \"SPCA,\" \"big brown dog under house,\" a date \"9/25/05,\" \"moved to porch,\" alongside a black \"TFW\" marking."
 geo:
 id: 25616
 item_type: Still Image

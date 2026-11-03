@@ -24,6 +24,8 @@ files:
     original_filename: DSCN0652.JPG
     thumb: /files/thumbnails/14fb29cff10e3014fb29cff1114f.jpg
     url: /files/original/14fb29cff10e3014fb29cff1114f.jpg
+    alt:
+      en: "A tan military Humvee marked \"Military Police\" pulls up beside an olive-green fuel tanker truck labeled \"Diesel Fuel Flammable\" in a paved lot behind a brick building and wooden fence."
 geo:
 id: 29093
 item_type: Still Image

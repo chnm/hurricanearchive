@@ -20,6 +20,8 @@ files:
     original_filename: 114539276_4aa5c85b35.jpg
     thumb: /files/thumbnails/14fb29d172eb8114fb29d172ef66.jpg
     url: /files/original/14fb29d172eb8114fb29d172ef66.jpg
+    alt:
+      en: "Interior room with pink walls and ceiling heavily covered in dark mold growth; a small framed picture hangs on the wall, with a wooden plank and outlet visible below."
 geo:
 id: 28710
 item_type: Still Image

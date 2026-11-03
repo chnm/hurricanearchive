@@ -21,6 +21,8 @@ files:
     original_filename: cel tower end.jpg
     thumb: /files/thumbnails/14fb2a209065cd14fb2a20906eb2.jpg
     url: /files/original/14fb2a209065cd14fb2a20906eb2.jpg
+    alt:
+      en: "Storm-damaged brick buildings with torn roofing and debris sit beneath a tall lattice cell tower, with bare trees and overcast sky in the background."
 geo:
 id: 13073
 item_type: Still Image

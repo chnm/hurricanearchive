@@ -21,6 +21,8 @@ files:
     original_filename: PICT0854Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f459cf3f14fb29f459d326.jpg
     url: /files/original/14fb29f459cf3f14fb29f459d326.jpg
+    alt:
+      en: "A military-style skid steer loader sits on a flatbed trailer ramp near storm-damaged houses with bare and browning trees, a brick wall, and a utility pole; dated 09.15.2005."
 geo:
 id: 22732
 item_type: Still Image

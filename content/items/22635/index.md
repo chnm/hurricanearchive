@@ -21,6 +21,8 @@ files:
     original_filename: Jackson Barracks 2Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4eccf4014fb29f4ecd318.jpg
     url: /files/original/14fb29f4eccf4014fb29f4ecd318.jpg
+    alt:
+      en: "Muddy floodwater surrounds a white clapboard building with a submerged vehicle and shrubbery visible near the entrance, with dumpster lids and a lamppost partly submerged in the foreground."
 geo:
 id: 22635
 item_type: Still Image

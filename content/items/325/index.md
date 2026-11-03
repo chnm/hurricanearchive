@@ -26,6 +26,8 @@ files:
     original_filename: 034_historic_deridder_c07c87674e.jpg
     thumb: /files/thumbnails/14fb2a70385c1c14fb2a7038602a.jpg
     url: /files/original/14fb2a70385c1c14fb2a7038602a.jpg
+    alt:
+      en: "Storm-damaged brick storefronts line a downtown street, with one building's facade partially collapsed to reveal a red interior wall and rubble, while neighboring shops have windows boarded with plywood."
 geo:
   address: ''
   lat: 30.651656

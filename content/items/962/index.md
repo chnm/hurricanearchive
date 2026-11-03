@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28004.jpg
     thumb: /files/thumbnails/14fb2a6ba558d014fb2a6ba55d0f.jpg
     url: /files/original/14fb2a6ba558d014fb2a6ba55d0f.jpg
+    alt:
+      en: "Interior view of a storm-damaged home crowded with mildewed, dust-covered furniture, including chairs and an upholstered sofa, with a kitchen area visible through an archway."
 geo:
   address: ''
   lat: 0.0

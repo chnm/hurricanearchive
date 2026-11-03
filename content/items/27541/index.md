@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7111_c7b8c8b6e1.jpg
     thumb: /files/thumbnails/14fb29d38647b314fb29d3864ee3.jpg
     url: /files/original/14fb29d38647b314fb29d3864ee3.jpg
+    alt:
+      en: "Three women wearing Mardi Gras beads smile and chat on a city street beneath a \"ONE WAY\" sign, with green and gold decorations and other pedestrians visible in the background."
 geo:
   address: ''
   lat: 29.84064

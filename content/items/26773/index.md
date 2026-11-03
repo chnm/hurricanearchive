@@ -24,6 +24,8 @@ files:
     original_filename: WC 1940s family_aea91828ec.jpg
     thumb: /files/thumbnails/14fb29d7dc782214fb29d7dc7c1e.jpg
     url: /files/original/14fb29d7dc782214fb29d7dc7c1e.jpg
+    alt:
+      en: "Sepia-toned group portrait of six adults—five women and one man—standing in a row outdoors in front of trees, dressed in 1940s attire."
 geo:
   address: ''
   lat: 29.91685

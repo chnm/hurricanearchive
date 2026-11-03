@@ -21,6 +21,8 @@ files:
     original_filename: picture 7stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec77538814fb29ec775d75.jpg
     url: /files/original/14fb29ec77538814fb29ec775d75.jpg
+    alt:
+      en: "Flooded parking lot with cracked, mud-covered pavement in the foreground, fronting a strip mall with visible signs for A-1 Appliance, Dollar General, and CVS/pharmacy under a clear sky."
 geo:
 id: 23901
 item_type: Still Image

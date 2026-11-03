@@ -21,6 +21,8 @@ files:
     original_filename: 09160020superdome.JPG
     thumb: /files/thumbnails/14fb29e5845ef414fb29e5846976.jpg
     url: /files/original/14fb29e5845ef414fb29e5846976.jpg
+    alt:
+      en: "Large domed stadium with a weathered, stained roof and curved metal exterior, seen past a highway overpass and streetlights, with city high-rises in the background."
 geo:
 id: 24696
 item_type: Still Image

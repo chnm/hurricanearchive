@@ -21,6 +21,8 @@ files:
     original_filename: PICT0685Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f461434b14fb29f4614731.jpg
     url: /files/original/14fb29f461434b14fb29f4614731.jpg
+    alt:
+      en: "Interior of an abandoned, storm-damaged room with two worn wooden chairs and a settee against a stained, water-marked wall, debris scattered across the floor, and an open door letting in light; dated 09.15.2005."
 geo:
 id: 22728
 item_type: Still Image

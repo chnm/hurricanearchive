@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1425superdome.JPG
     thumb: /files/thumbnails/14fb29e3c6611a14fb29e3c67bdd.jpg
     url: /files/original/14fb29e3c6611a14fb29e3c67bdd.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms help an elderly woman climb down from a military truck as evacuees wait nearby in floodwater under a covered structure."
 geo:
 id: 24929
 item_type: Still Image

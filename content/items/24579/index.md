@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0120-21.JPG
     thumb: /files/thumbnails/14fb29e670eb1f14fb29e670ef05.jpg
     url: /files/original/14fb29e670eb1f14fb29e670ef05.jpg
+    alt:
+      en: "Sideways photo of a man wearing glasses and a military camouflage uniform with an American flag patch and a nameplate reading \"Arlington,\" standing indoors near a blurred poster or screen."
 geo:
 id: 24579
 item_type: Still Image

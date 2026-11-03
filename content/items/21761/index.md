@@ -21,6 +21,8 @@ files:
     original_filename: katrina 029.jpg
     thumb: /files/thumbnails/14fb29fbea3cfb14fb29fbea8687.jpg
     url: /files/original/14fb29fbea3cfb14fb29fbea8687.jpg
+    alt:
+      en: "Rooftop parking garage overlooking a city skyline with a \"VA Medical Center\" building, a column of dark smoke rising in the distance, and a line of uniformed people seated along a fence; timestamp reads 8:52 PM."
 geo:
 id: 21761
 item_type: Still Image

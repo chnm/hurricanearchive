@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0732.JPG
     thumb: /files/thumbnails/14fb2a5713ec6714fb2a5713f043.jpg
     url: /files/original/14fb2a5713ec6714fb2a5713f043.jpg
+    alt:
+      en: "Interior view of an attic or roof structure with exposed wooden beams and rafters, a metal flexible duct, insulation, and visible storm damage including a torn green wall panel."
 geo:
 id: 4520
 item_type: Still Image

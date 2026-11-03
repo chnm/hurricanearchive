@@ -21,6 +21,8 @@ files:
     original_filename: katrina 023.jpg
     thumb: /files/thumbnails/14fb29fbf1fa8f14fb29fbf1ff53.jpg
     url: /files/original/14fb29fbf1fa8f14fb29fbf1ff53.jpg
+    alt:
+      en: "Brick Wendy's restaurant with storm-damaged upper facade exposing structural framework, located next to an empty parking lot with power lines overhead."
 geo:
 id: 21755
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0865Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f44b109114fb29f44b1477.jpg
     url: /files/original/14fb29f44b109114fb29f44b1477.jpg
+    alt:
+      en: "Military vehicles and trailers, including a camouflage trailer and tanker truck, parked in a fenced lot behind a chain-link fence, viewed from inside another military vehicle; dated 09.15.2005."
 geo:
 id: 22743
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC01134.JPG
     thumb: /files/thumbnails/14fb2a5864e4b714fb2a5864e897.jpg
     url: /files/original/14fb2a5864e4b714fb2a5864e897.jpg
+    alt:
+      en: "Railroad tracks curve along a flooded area strewn with debris, including a red shopping cart and scattered bottles, with a brick building and trees in the background under a hazy sky."
 geo:
 id: 4023
 item_type: Still Image

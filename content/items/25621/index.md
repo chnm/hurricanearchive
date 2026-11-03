@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.029.JPG
     thumb: /files/thumbnails/14fb29dd18f8c414fb29dd18fd86.jpg
     url: /files/original/14fb29dd18f8c414fb29dd18fd86.jpg
+    alt:
+      en: "A white travel trailer on blocks sits beside a storm-damaged house with a tangled pile of broken branches, a displaced \"ICE\" sign resting atop the roof, and bare, wind-stripped trees in the background."
 geo:
 id: 25621
 item_type: Still Image

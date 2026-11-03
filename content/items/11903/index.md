@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 025.jpg
     thumb: /files/thumbnails/14fb2a22c4bf9714fb2a22c4c386.jpg
     url: /files/original/14fb2a22c4bf9714fb2a22c4c386.jpg
+    alt:
+      en: "Empty strip mall parking lot with storm debris piled near storefronts including \"Craft Mart,\" \"Sprint Store,\" and \"Books-A-Million,\" photographed through a vehicle's side mirror, dated 2005/09/24."
 geo:
 id: 11903
 item_type: Still Image

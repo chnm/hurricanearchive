@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2103superdome.JPG
     thumb: /files/thumbnails/14fb29e4c1bb3514fb29e4c1bf17.jpg
     url: /files/original/14fb29e4c1bb3514fb29e4c1bf17.jpg
+    alt:
+      en: "A woman in a blue top crouches beside a person wearing a rainbow clown wig, surrounded by children and makeshift tents in a dim indoor space, suggesting a shelter setting."
 geo:
 id: 24781
 item_type: Still Image

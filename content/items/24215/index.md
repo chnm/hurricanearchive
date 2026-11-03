@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29e9a224d314fb29e9a22e50.jpg
     url: /files/original/14fb29e9a224d314fb29e9a22e50.jpg
+    alt:
+      en: "Red International Harvester \"Turbo\" tractor driving through floodwaters, carrying three men standing on its frame near a tree-lined bank."
 geo:
 id: 24215
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: FH000013-9-23.jpg
     thumb: /files/thumbnails/14fb29fc70fc6f14fb29fc710056.jpg
     url: /files/original/14fb29fc70fc6f14fb29fc710056.jpg
+    alt:
+      en: "Photograph taken from inside a vehicle, side mirror visible, showing a mobile home park with scattered debris, an overturned shed, and dried vegetation under a hazy sky."
 geo:
 id: 21681
 item_type: Still Image

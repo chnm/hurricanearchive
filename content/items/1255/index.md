@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28579.jpg
     thumb: /files/thumbnails/14fb2a6a08ea4814fb2a6a08ee2d.jpg
     url: /files/original/14fb2a6a08ea4814fb2a6a08ee2d.jpg
+    alt:
+      en: "Rows of large white sandbags with straps lie on a gravel surface near Lake Pontchartrain, with trucks and equipment visible along the horizon under a clear sky."
 geo:
   address: ''
   lat: 0.0

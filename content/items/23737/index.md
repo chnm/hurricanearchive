@@ -21,6 +21,8 @@ files:
     original_filename: P1010178empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed56370b14fb29ed563af0.jpg
     url: /files/original/14fb29ed56370b14fb29ed563af0.jpg
+    alt:
+      en: "Debris-strewn field with scattered wood, metal, and plastic wreckage in the foreground, while several large fishing boats, including one named \"Sea Flower,\" sit stranded onshore in the background."
 geo:
 id: 23737
 item_type: Still Image

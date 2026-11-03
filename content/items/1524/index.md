@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28535.jpg
     thumb: /files/thumbnails/14fb2a68276b3714fb2a68276f1e.jpg
     url: /files/original/14fb2a68276b3714fb2a68276f1e.jpg
+    alt:
+      en: "Two men stand beside a Domino's Pizza delivery tricycle with \"Now Hiring\" and \"Now Open\" signs, on a street with rubble, orange safety fencing, and a CAT excavator in the background."
 geo:
   address: ''
   lat: 0.0

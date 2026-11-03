@@ -21,6 +21,8 @@ files:
     original_filename: katrina 061.jpg
     thumb: /files/thumbnails/14fb29fbbbd17f14fb29fbbbd55b.jpg
     url: /files/original/14fb29fbbbd17f14fb29fbbbd55b.jpg
+    alt:
+      en: "Empty city street lined with high-rise buildings and storm-damaged, leafless trees, with debris scattered on the pavement; a street sign reads \"St. Charles Ave.\""
 geo:
 id: 21791
 item_type: Still Image

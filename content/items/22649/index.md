@@ -21,6 +21,8 @@ files:
     original_filename: More Jackson Barracks 8Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4db9f7314fb29f4dba358.jpg
     url: /files/original/14fb29f4db9f7314fb29f4dba358.jpg
+    alt:
+      en: "Street lamp stands amid deep floodwater submerging several vehicles and a covered boat, with utility poles and trees barely visible through heavy rain and fog."
 geo:
 id: 22649
 item_type: Still Image

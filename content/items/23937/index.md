@@ -21,6 +21,8 @@ files:
     original_filename: 09180007plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec4d641a14fb29ec4d6800.jpg
     url: /files/original/14fb29ec4d641a14fb29ec4d6800.jpg
+    alt:
+      en: "Grassy roadside embankment with a flooded ditch, power lines, and stranded barges carrying cranes resting on the grass beyond, under a clear blue sky."
 geo:
 id: 23937
 item_type: Still Image

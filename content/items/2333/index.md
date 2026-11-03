@@ -26,6 +26,8 @@ files:
     original_filename: 100_1526_06fcf17a65.JPG
     thumb: /files/thumbnails/14fb2a6d4c1a2c14fb2a6d4c1e12.jpg
     url: /files/original/14fb2a6d4c1a2c14fb2a6d4c1e12.jpg
+    alt:
+      en: "A small motorboat named \"Miss Lucy\" sits stranded on dry ground and pavement in front of a weathered two-story house with wrought-iron balcony railings, debris left by floodwaters."
 geo:
   address: ''
   lat: 30.4448999521135

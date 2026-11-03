@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-24-23A.jpg
     thumb: /files/thumbnails/14fb29e8d649c214fb29e8d6b5f5.jpg
     url: /files/original/14fb29e8d649c214fb29e8d6b5f5.jpg
+    alt:
+      en: "Flooded city street with numerous cars submerged to their windows, high-rise office buildings in the background, and a sign displaying \"Bud\" and \"Coca-Cola\" logos above the water."
 geo:
 id: 24304
 item_type: Still Image

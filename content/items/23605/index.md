@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1611neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee8acab014fb29ee8ace96.jpg
     url: /files/original/14fb29ee8acab014fb29ee8ace96.jpg
+    alt:
+      en: "A soldier in camouflage pants and tan t-shirt stands on a military vehicle in a flooded city street, with a convoy of military trucks and downtown high-rise buildings visible in the background."
 geo:
 id: 23605
 item_type: Still Image

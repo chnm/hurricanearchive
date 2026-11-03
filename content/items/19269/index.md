@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0091iwojima.JPG
     thumb: /files/thumbnails/14fb2a11694cde14fb2a11695209.jpg
     url: /files/original/14fb2a11694cde14fb2a11695209.jpg
+    alt:
+      en: "Aerial view of a city skyline along a wide river, with a gray military vessel and a white cruise ship (\"Ecstasy\") docked at piers in the foreground under a hazy sky."
 geo:
 id: 19269
 item_type: Still Image

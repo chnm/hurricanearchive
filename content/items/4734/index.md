@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0081.JPG
     thumb: /files/thumbnails/14fb2a55d71fea14fb2a55d723cf.jpg
     url: /files/original/14fb2a55d71fea14fb2a55d723cf.jpg
+    alt:
+      en: "Debris pile of discarded clothing, bricks, and rubble beside a weathered wooden plank, with a yellow measuring tape laid across the scene amid storm wreckage."
 geo:
 id: 4734
 item_type: Still Image

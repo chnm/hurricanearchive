@@ -21,6 +21,8 @@ files:
     original_filename: DSC01055.JPG
     thumb: /files/thumbnails/14fb2a58add00a14fb2a58add3e7.jpg
     url: /files/original/14fb2a58add00a14fb2a58add3e7.jpg
+    alt:
+      en: "Piles of storm debris and red mattresses sit behind a chain-link fence topped with barbed wire, with a high-rise building, houses, a white tent, and uniformed personnel visible in the background."
 geo:
 id: 3972
 item_type: Still Image

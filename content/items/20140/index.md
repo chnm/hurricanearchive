@@ -21,6 +21,8 @@ files:
     original_filename: Picture 237cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b12d3b914fb2a0b12d79e.jpg
     url: /files/original/14fb2a0b12d3b914fb2a0b12d79e.jpg
+    alt:
+      en: "Two men in military camouflage uniforms stand outdoors under a damaged tree, one holding work gloves and small boxes, with storm debris, a residential street, and parked cars visible in the background."
 geo:
 id: 20140
 item_type: Still Image

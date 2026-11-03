@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0463.JPG
     thumb: /files/thumbnails/14fb2a55b49f2d14fb2a55b4a170.jpg
     url: /files/original/14fb2a55b49f2d14fb2a55b4a170.jpg
+    alt:
+      en: "Flattened foundation surrounded by scattered brick rubble and storm debris, with broken trees and a pickup truck visible in the background under a clear sky."
 geo:
 id: 4764
 item_type: Still Image

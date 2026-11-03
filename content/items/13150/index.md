@@ -21,6 +21,8 @@ files:
     original_filename: 140 rita at night2.jpg
     thumb: /files/thumbnails/14fb2a1ff4d60714fb2a1ff4d6c2.jpg
     url: /files/original/14fb2a1ff4d60714fb2a1ff4d6c2.jpg
+    alt:
+      en: "Nighttime scene with heavy precipitation illuminated by camera flash, showing a wet paved road, a street sign, and a distant glowing light amid dark, blurred surroundings."
 geo:
 id: 13150
 item_type: Still Image

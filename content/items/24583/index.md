@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0121-21.JPG
     thumb: /files/thumbnails/14fb29e66b699514fb29e66b6ee6.jpg
     url: /files/original/14fb29e66b699514fb29e66b6ee6.jpg
+    alt:
+      en: "Blurred, motion-streaked photograph with horizontal bands of dark green, tan, and pale blue-gray tones, suggesting movement past a landscape or structure."
 geo:
 id: 24583
 item_type: Still Image

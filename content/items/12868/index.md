@@ -21,6 +21,8 @@ files:
     original_filename: Yacht club 10-29-1.jpg
     thumb: /files/thumbnails/14fb2a215cdd0d14fb2a215ce138.jpg
     url: /files/original/14fb2a215cdd0d14fb2a215ce138.jpg
+    alt:
+      en: "Sailboats and other small vessels piled haphazardly on land amid damaged trees, their masts tilted at various angles, with debris scattered across the ground."
 geo:
 id: 12868
 item_type: Still Image

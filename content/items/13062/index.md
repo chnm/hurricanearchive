@@ -21,6 +21,8 @@ files:
     original_filename: begin front courtyard.jpg
     thumb: /files/thumbnails/14fb2a20a3176914fb2a20a31b4e.jpg
     url: /files/original/14fb2a20a3176914fb2a20a31b4e.jpg
+    alt:
+      en: "Heavy rain and wind lash a brick courtyard with trees bending sideways, a gazebo, benches, and a trellis structure, with historic buildings barely visible through the downpour."
 geo:
 id: 13062
 item_type: Still Image

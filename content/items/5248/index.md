@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0693.JPG
     thumb: /files/thumbnails/14fb2a5333ce3f14fb2a5333d225.jpg
     url: /files/original/14fb2a5333ce3f14fb2a5333d225.jpg
+    alt:
+      en: "Side of a manufactured home with tan vinyl siding, two windows, and an electrical meter box with exposed wiring and a thick cable running diagonally across the wall; trees visible in the background."
 geo:
 id: 5248
 item_type: Still Image

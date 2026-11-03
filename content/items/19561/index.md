@@ -21,6 +21,8 @@ files:
     original_filename: S4300015zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f32c39e14fb2a0f32c771.jpg
     url: /files/original/14fb2a0f32c39e14fb2a0f32c771.jpg
+    alt:
+      en: "Man wearing a camouflage cap and tan t-shirt gestures with his arm outstretched while holding a walkie-talkie, standing in a parking lot with semi-trucks and storm-damaged trees in the background."
 geo:
 id: 19561
 item_type: Still Image

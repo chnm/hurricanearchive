@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1743superdome.JPG
     thumb: /files/thumbnails/14fb29e1f29b3914fb29e1f29e97.jpg
     url: /files/original/14fb29e1f29b3914fb29e1f29e97.jpg
+    alt:
+      en: "Military personnel and civilians in camouflage uniforms carry a patient on a stretcher with medical equipment, surrounded by a van and concrete structure in an outdoor setting."
 geo:
 id: 25136
 item_type: Still Image

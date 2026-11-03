@@ -25,12 +25,16 @@ files:
     original_filename: Dot Benge_5777_7db8007cb6.jpg
     thumb: /files/thumbnails/14fb29da00ffa914fb29da01038e.jpg
     url: /files/original/14fb29da00ffa914fb29da01038e.jpg
+    alt:
+      en: "Elderly bearded man with glasses stands on a balcony, wearing navy suspenders, holding a framed vintage photo of his father on Canal Street with a visible \"7UP\" sign in the background."
   - fullsize: /files/fullsize/14fb29d9ff28bd14fb29d9ff2cb7.jpg
     id: 22761
     mime: image/jpeg
     original_filename: Dot Benge_5775_5f8f878b60.jpg
     thumb: /files/thumbnails/14fb29d9ff28bd14fb29d9ff2cb7.jpg
     url: /files/original/14fb29d9ff28bd14fb29d9ff2cb7.jpg
+    alt:
+      en: "Elderly bearded man with glasses stands on a shaded porch, holding a framed black-and-white photograph of his father on Canal Street."
 geo:
 id: 26151
 item_type: Still Image

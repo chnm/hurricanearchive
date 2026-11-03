@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2165rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d0327114fb2a13d03656.jpg
     url: /files/original/14fb2a13d0327114fb2a13d03656.jpg
+    alt:
+      en: "Two uniformed crew members in helmets and gloves operate a hoist control panel aboard a helicopter above floodwaters, with submerged rooftops and houses visible below."
 geo:
 id: 19000
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20060102_MG_9558.jpg
     thumb: /files/thumbnails/14fb2a642a2f2f14fb2a642a3316.jpg
     url: /files/original/14fb2a642a2f2f14fb2a642a3316.jpg
+    alt:
+      en: "Painter at an outdoor easel captures a devastated residential street on canvas, with a collapsed house, abandoned car, and debris visible behind him in the Lower 9th Ward."
 geo:
 id: 2614
 item_type: Still Image

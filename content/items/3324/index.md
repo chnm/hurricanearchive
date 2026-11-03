@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (82).jpg
     thumb: /files/thumbnails/14fb2a5c686fc514fb2a5c687bb9.jpg
     url: /files/original/14fb2a5c686fc514fb2a5c687bb9.jpg
+    alt:
+      en: "Yellow and black building marked \"Fats Domino Publishing\" and \"FD,\" address 1208, with search-and-rescue markings on the wall, fronted by a mud-caked yard, iron fence, and an abandoned, dirt-covered car."
 geo:
 id: 3324
 item_type: Still Image

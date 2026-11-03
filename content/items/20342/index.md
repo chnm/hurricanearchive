@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003-20.JPG
     thumb: /files/thumbnails/14fb2a08a6667a14fb2a08a66a54.jpg
     url: /files/original/14fb2a08a6667a14fb2a08a66a54.jpg
+    alt:
+      en: "Aerial view of a large warehouse-style room set up as an operations center, with rows of folding tables holding laptops, phones, and paperwork, staffed by uniformed personnel; desk signs read \"J3,\" \"J4/J8,\" and \"SMD.\""
 geo:
 id: 20342
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (49).jpg
     thumb: /files/thumbnails/14fb2a5cb96dd614fb2a5cb97b12.jpg
     url: /files/original/14fb2a5cb96dd614fb2a5cb97b12.jpg
+    alt:
+      en: "Row of severely damaged, collapsed houses with broken roofs and scattered debris, standing water in the foreground with an overturned car roof and submerged pole, and bare trees under a hazy sky."
 geo:
 id: 3287
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 384884877_52bc0abe08.
     thumb: /files/thumbnails/14fb29d29b723314fb29d29b7618.jpg
     url: /files/original/14fb29d29b723314fb29d29b7618.jpg
+    alt:
+      en: "Three smiling adults pose indoors, a man in a black shirt with his arms around two women, one in a butterfly-print top holding a red cup, the other in glasses and a cream shawl holding a plate of food."
 geo:
   address: ''
   lat: 30.01333

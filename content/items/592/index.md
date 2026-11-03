@@ -26,6 +26,8 @@ files:
     original_filename: Tylertown4_032_fec6a645f0.jpg
     thumb: /files/thumbnails/14fb2a6f6e7c8314fb2a6f6e8071.jpg
     url: /files/original/14fb2a6f6e7c8314fb2a6f6e8071.jpg
+    alt:
+      en: "A young woman with reddish-blonde hair, wearing a red shirt, kneels outdoors holding a black and tan dog with a numbered tag reading \"8\" around its neck, set against a dry grass field and wooded backdrop."
 geo:
   address: ''
   lat: 31.1376032700213

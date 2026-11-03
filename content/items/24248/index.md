@@ -21,6 +21,8 @@ files:
     original_filename: 09140029.JPG
     thumb: /files/thumbnails/14fb29e96cb89014fb29e96cbb3b.jpg
     url: /files/original/14fb29e96cb89014fb29e96cbb3b.jpg
+    alt:
+      en: "Damaged power lines droop low across an empty street, with a boarded-up KFC building and storm debris visible under a clear blue sky."
 geo:
 id: 24248
 item_type: Still Image

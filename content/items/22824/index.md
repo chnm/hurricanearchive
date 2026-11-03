@@ -21,6 +21,8 @@ files:
     original_filename: 10mpcheckpoints.jpg
     thumb: /files/thumbnails/14fb29f35529bb14fb29f3552d38.jpg
     url: /files/original/14fb29f35529bb14fb29f3552d38.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands guard holding a rifle on a dirt road, with rows of white travel trailers labeled \"Wilderness\" parked in the background."
 geo:
 id: 22824
 item_type: Still Image

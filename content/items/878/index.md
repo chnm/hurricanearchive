@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28484.jpg
     thumb: /files/thumbnails/14fb2a6c88ba3114fb2a6c88be20.jpg
     url: /files/original/14fb2a6c88ba3114fb2a6c88be20.jpg
+    alt:
+      en: "Cluttered bedroom with a bicycle, blue plastic basket, and bed piled with bags and a stuffed animal; a Chicago Bulls poster hangs on the wall above the headboard."
 geo:
   address: ''
   lat: 0.0

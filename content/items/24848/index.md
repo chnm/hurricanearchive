@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2188superdome.JPG
     thumb: /files/thumbnails/14fb29e46b3d9f14fb29e46b4183.jpg
     url: /files/original/14fb29e46b3d9f14fb29e46b4183.jpg
+    alt:
+      en: "Nighttime photo of a bus with \"American Tours\" painted on its side in reflective lettering, with two silhouetted figures standing in front of it."
 geo:
 id: 24848
 item_type: Still Image

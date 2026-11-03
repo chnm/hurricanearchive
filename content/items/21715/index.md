@@ -21,6 +21,8 @@ files:
     original_filename: P1010018.JPG
     thumb: /files/thumbnails/14fb29fc484a2f14fb29fc484e13.jpg
     url: /files/original/14fb29fc484a2f14fb29fc484e13.jpg
+    alt:
+      en: "Military cargo plane with rear loading ramp open on a tarmac, with a group of uniformed personnel standing near the ramp and a person filming with a camera to the side."
 geo:
 id: 21715
 item_type: Still Image

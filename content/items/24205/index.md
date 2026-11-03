@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29e9c88bda14fb29e9c88f3d.jpg
     url: /files/original/14fb29e9c88bda14fb29e9c88f3d.jpg
+    alt:
+      en: "Aerial view of extensive flooding over flat terrain under a hazy gray sky, with faint lines marking submerged roads or fence lines and patches of darker debris scattered across the water's surface."
 geo:
 id: 24205
 item_type: Still Image

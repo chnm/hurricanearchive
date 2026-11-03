@@ -21,6 +21,8 @@ files:
     original_filename: DSC01101.JPG
     thumb: /files/thumbnails/14fb2a588eb50d14fb2a588eb8e5.jpg
     url: /files/original/14fb2a588eb50d14fb2a588eb8e5.jpg
+    alt:
+      en: "A person wearing an orange life vest and navy boonie hat sits in a small boat navigating floodwaters, with partially submerged houses and trees visible in the background; timestamp reads \"6 10:02 AM.\""
 geo:
 id: 4003
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010026delaware.JPG
     thumb: /files/thumbnails/14fb29f0c7ee7414fb29f0c82ab5.jpg
     url: /files/original/14fb29f0c7ee7414fb29f0c82ab5.jpg
+    alt:
+      en: "Aerial view through an airplane window of a shopping mall complex with a JCPenney store, surrounded by large parking lots with scattered cars and patches of trees."
 geo:
 id: 23206
 item_type: Still Image

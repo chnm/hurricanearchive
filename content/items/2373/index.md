@@ -27,6 +27,8 @@ files:
     original_filename: 249112_bd3e392996.jpg
     thumb: /files/thumbnails/14fb2a66d3bfe114fb2a66d3c798.jpg
     url: /files/original/14fb2a66d3bfe114fb2a66d3c798.jpg
+    alt:
+      en: "Several people kneel and lean over a dolphin wrapped in cloth inside a cramped vessel interior, steadying it for transport to the beach for release."
 geo:
 id: 2373
 item_type: Still Image

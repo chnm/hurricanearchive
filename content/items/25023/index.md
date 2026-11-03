@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1545superdome.JPG
     thumb: /files/thumbnails/14fb29e2e3423c14fb29e2e34622.jpg
     url: /files/original/14fb29e2e3423c14fb29e2e34622.jpg
+    alt:
+      en: "A Coast Guard helicopter sits on a rooftop helipad as a crew member in a flight suit walks away and a group of evacuees carrying bags crosses the pad, with the Delgado Community College Charity School of Nursing building visible in the background."
 geo:
 id: 25023
 item_type: Still Image

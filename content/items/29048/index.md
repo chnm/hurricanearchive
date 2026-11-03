@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-17.jpg
     thumb: /files/thumbnails/14fb29d06a3c0e14fb29d06a3ff9.jpg
     url: /files/original/14fb29d06a3c0e14fb29d06a3ff9.jpg
+    alt:
+      en: "Rows of Army soldiers in camouflage uniforms stand at attention on a tarmac with rifles and packed duffel bags at their feet, listening to an officer under a canvas awning before deploying on a Katrina relief mission."
 geo:
 id: 29048
 item_type: Still Image

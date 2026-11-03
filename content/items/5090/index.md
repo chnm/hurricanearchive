@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0435.JPG
     thumb: /files/thumbnails/14fb2a53f4cb6914fb2a53f4cf2d.jpg
     url: /files/original/14fb2a53f4cb6914fb2a53f4cf2d.jpg
+    alt:
+      en: "A rusted orange metal beam or panel measured with a yellow tape measure, resting on concrete with sand or debris in the background."
 geo:
 id: 5090
 item_type: Still Image

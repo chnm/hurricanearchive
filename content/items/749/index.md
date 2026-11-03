@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27925.jpg
     thumb: /files/thumbnails/14fb2a6d4164af14fb2a6d416894.jpg
     url: /files/original/14fb2a6d4164af14fb2a6d416894.jpg
+    alt:
+      en: "Large yellow crane parked near the Superdome in New Orleans, with a maroon SUV and street sign reading \"La Se...\" in the foreground under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

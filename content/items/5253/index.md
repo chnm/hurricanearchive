@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0698.JPG
     thumb: /files/thumbnails/14fb2a532d969514fb2a532d9a6d.jpg
     url: /files/original/14fb2a532d969514fb2a532d9a6d.jpg
+    alt:
+      en: "Close-up view beneath a damaged roof overhang, showing exposed wooden rafters, splintered beams, and torn sheathing, with white siding, a window, and a shutter visible below."
 geo:
 id: 5253
 item_type: Still Image

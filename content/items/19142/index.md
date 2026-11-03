@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 052.jpg
     thumb: /files/thumbnails/14fb2a12c50e4314fb2a12c5121e.jpg
     url: /files/original/14fb2a12c50e4314fb2a12c5121e.jpg
+    alt:
+      en: "Close-up of a woodland camouflage military uniform sleeve, showing a round unit patch with a sunburst design, an \"ARMY\" name tape, and a rank tab, with a plastic dog tag silencer hanging nearby."
 geo:
 id: 19142
 item_type: Still Image

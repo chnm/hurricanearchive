@@ -21,6 +21,8 @@ files:
     original_filename: 102-09_d7be5c908a.jpg
     thumb: /files/thumbnails/14fb2a21c3427814fb2a21c3465d.jpg
     url: /files/original/14fb2a21c3427814fb2a21c3465d.jpg
+    alt:
+      en: "Vintage-toned photo of a man with a mustache in a striped polo shirt, standing near open French doors with wooden shutters, in an indoor setting with built-in shelving."
 geo:
 id: 12691
 item_type: Still Image

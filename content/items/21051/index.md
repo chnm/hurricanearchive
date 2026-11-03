@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0223.JPG
     thumb: /files/thumbnails/14fb2a00dd230f14fb2a00dd51a0.jpg
     url: /files/original/14fb2a00dd230f14fb2a00dd51a0.jpg
+    alt:
+      en: "A helicopter crew member wearing a flight helmet, goggles, and tactical vest sits inside the aircraft, with a grassy lawn and building visible through the open doorway behind him."
 geo:
 id: 21051
 item_type: Still Image

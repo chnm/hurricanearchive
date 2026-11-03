@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023-9-25.JPG
     thumb: /files/thumbnails/14fb2a06a1fa8c14fb2a06a1feb6.jpg
     url: /files/original/14fb2a06a1fa8c14fb2a06a1feb6.jpg
+    alt:
+      en: "Aerial view of a mobile home park with trailers scattered off their foundations amid trees and power lines, likely storm damage."
 geo:
 id: 20495
 item_type: Still Image

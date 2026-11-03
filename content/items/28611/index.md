@@ -23,6 +23,8 @@ files:
     original_filename: 162062807_3868d89f5e.jpg
     thumb: /files/thumbnails/14fb29d223587a14fb29d2235c5f.jpg
     url: /files/original/14fb29d223587a14fb29d2235c5f.jpg
+    alt:
+      en: "A mannequin-like figure with wild dark hair and a yellow raincoat labeled \"Katrina Fountain,\" standing before a house with a blue \"Our Mayor\" campaign sign and a microphone nearby."
 geo:
 id: 28611
 item_type: Still Image

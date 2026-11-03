@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0407.JPG
     thumb: /files/thumbnails/14fb2a542c35b314fb2a542c3998.jpg
     url: /files/original/14fb2a542c35b314fb2a542c3998.jpg
+    alt:
+      en: "A yellow tape measure hangs from a wooden beam, extending downward past bare, seed-pod-laden tree branches against a clear blue sky."
 geo:
 id: 5062
 item_type: Still Image

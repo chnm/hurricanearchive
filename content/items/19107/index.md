@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 017.jpg
     thumb: /files/thumbnails/14fb2a1309960514fb2a130999d6.jpg
     url: /files/original/14fb2a1309960514fb2a130999d6.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand near a large olive-drab tent with an \"State of Oregon\" flag, surrounded by wooden crates and small utility carts on a paved lot."
 geo:
 id: 19107
 item_type: Still Image

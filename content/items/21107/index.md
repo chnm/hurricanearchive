@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0178-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a00946ece14fb2a009474c1.jpg
     url: /files/original/14fb2a00946ece14fb2a009474c1.jpg
+    alt:
+      en: "Aerial view of a row of storm-damaged houses surrounded by scattered debris, overturned cars, and mud-covered ground, with a railroad yard visible in the background."
 geo:
 id: 21107
 item_type: Still Image

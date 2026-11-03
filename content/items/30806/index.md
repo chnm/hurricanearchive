@@ -21,6 +21,8 @@ files:
     original_filename: Picture 077.jpg
     thumb: /files/thumbnails/14fb29cc5cfd7a14fb29cc5d015d.jpg
     url: /files/original/14fb29cc5cfd7a14fb29cc5d015d.jpg
+    alt:
+      en: "Snapped and fallen trees line both sides of a paved road, with a red vehicle driving ahead; a mailbox reading \"Gaines\" stands near the debris, viewed from inside a car."
 geo:
 id: 30806
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: J2 (55).JPG
     thumb: /files/thumbnails/14fb2a110e294d14fb2a110e2d33.jpg
     url: /files/original/14fb2a110e294d14fb2a110e2d33.jpg
+    alt:
+      en: "Aerial view of a dense urban riverfront district with a cathedral and park, a historic market building, rows of parked RVs and cars, railroad tracks, and a rocky levee along a river."
 geo:
 id: 19339
 item_type: Still Image

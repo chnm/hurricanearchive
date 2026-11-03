@@ -21,6 +21,8 @@ files:
     original_filename: 09200002J6.JPG
     thumb: /files/thumbnails/14fb29f991f15914fb29f991f548.jpg
     url: /files/original/14fb29f991f15914fb29f991f548.jpg
+    alt:
+      en: "A military Humvee with camouflage canvas top and tall antennas parked in a grassy field, with a man in fatigues standing beside it."
 geo:
 id: 22087
 item_type: Still Image

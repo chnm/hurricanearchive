@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (54).jpg
     thumb: /files/thumbnails/14fb2a5cb1de4a14fb2a5cb1e230.jpg
     url: /files/original/14fb2a5cb1de4a14fb2a5cb1e230.jpg
+    alt:
+      en: "Overturned and damaged cars sit on muddy grass beside a large oak tree, with a collapsed house and a strip mall bearing a partially legible \"CHICKEN\" sign in the background."
 geo:
 id: 3293
 item_type: Still Image

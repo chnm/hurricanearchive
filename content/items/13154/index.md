@@ -21,6 +21,8 @@ files:
     original_filename: 144 george at night.jpg
     thumb: /files/thumbnails/14fb2a1fe4fac814fb2a1fe4fec0.jpg
     url: /files/original/14fb2a1fe4fac814fb2a1fe4fec0.jpg
+    alt:
+      en: "A man in a yellow and black rain jacket, dark pants, and a headlamp stands holding a camera between a red car and a black SUV with its rear hatch open, on a wet garage floor at night."
 geo:
 id: 13154
 item_type: Still Image

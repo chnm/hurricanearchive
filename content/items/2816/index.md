@@ -21,6 +21,8 @@ files:
     original_filename: MVC-007S.JPG
     thumb: /files/thumbnails/14fb2a5ff74cb614fb2a5ff7509b.jpg
     url: /files/original/14fb2a5ff74cb614fb2a5ff7509b.jpg
+    alt:
+      en: "Close-up of a damaged aircraft tail section with red and white paint and a military roundel insignia, the horizontal stabilizer bent and torn, set against a clear blue sky."
 geo:
 id: 2816
 item_type: Still Image

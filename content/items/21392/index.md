@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0244-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff0ba38214fb29ff0ba76f.jpg
     url: /files/original/14fb29ff0ba38214fb29ff0ba76f.jpg
+    alt:
+      en: "Aerial view of a storm-damaged neighborhood with collapsed roofs, scattered debris, downed trees, and vehicles buried under rubble along a debris-strewn street."
 geo:
 id: 21392
 item_type: Still Image

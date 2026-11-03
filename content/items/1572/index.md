@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28517.jpg
     thumb: /files/thumbnails/14fb2a67cc27a514fb2a67cc2c38.jpg
     url: /files/original/14fb2a67cc27a514fb2a67cc2c38.jpg
+    alt:
+      en: "A weathered wooden picket fence with an \"EXIT ONLY\" sign stands in front of a damaged silver sedan and a brick apartment building, with debris and tangled vines scattered along the fence line."
 geo:
   address: ''
   lat: 0.0

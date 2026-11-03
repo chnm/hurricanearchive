@@ -20,6 +20,8 @@ files:
     original_filename: pics+2006-07+152_98b88faf83.jpg
     thumb: /files/thumbnails/14fb29ce1a87c514fb29ce1a8bab.jpg
     url: /files/original/14fb29ce1a87c514fb29ce1a8bab.jpg
+    alt:
+      en: "Damaged brick and vinyl-sided buildings with missing roof sections and broken windows sit behind a chain-link fence, with a sign reading \"Camille Village 452-0444\" posted in front."
 geo:
 id: 30015
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: katrina 003.jpg
     thumb: /files/thumbnails/14fb29fc13fff514fb29fc1403db.jpg
     url: /files/original/14fb29fc13fff514fb29fc1403db.jpg
+    alt:
+      en: "Floodwater covers a parking lot and fenced area near a large teal-paneled building, with several people wading through the water and trees partially submerged; an elevated highway and billboards appear in the background."
 geo:
 id: 21735
 item_type: Still Image

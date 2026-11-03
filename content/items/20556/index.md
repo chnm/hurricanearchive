@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033H.JPG
     thumb: /files/thumbnails/14fb2a06309f5514fb2a0630a33b.jpg
     url: /files/original/14fb2a06309f5514fb2a0630a33b.jpg
+    alt:
+      en: "Group of men in casual and military-style clothing standing and sitting under a tent, watching a small TV, with women in matching \"Geaux Tigers\" tank tops and orange shorts nearby."
 geo:
 id: 20556
 item_type: Still Image

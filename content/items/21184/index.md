@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0193-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a002c3da014fb2a002c4193.jpg
     url: /files/original/14fb2a002c3da014fb2a002c4193.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood with collapsed houses, scattered debris, and standing floodwater, surrounded by trees and a hazy skyline with a water tower in the distance."
 geo:
 id: 21184
 item_type: Still Image

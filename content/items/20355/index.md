@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005 crop.jpg
     thumb: /files/thumbnails/14fb2a0872767614fb2a08727a59.jpg
     url: /files/original/14fb2a0872767614fb2a08727a59.jpg
+    alt:
+      en: "Close-up profile of a man in camouflage fatigues wearing dark sunglasses and a yellow earplug, with a Nikon camera strap around his neck, inside a dimly lit vehicle interior."
 geo:
 id: 20355
 item_type: Still Image

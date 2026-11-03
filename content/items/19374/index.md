@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2233engineers.JPG
     thumb: /files/thumbnails/14fb2a10ae0c3814fb2a10ae101d.jpg
     url: /files/original/14fb2a10ae0c3814fb2a10ae101d.jpg
+    alt:
+      en: "A worker in camouflage clothing, a yellow hard hat, safety goggles, and a dust mask uses a Stihl chainsaw to cut through a mass of fallen tree branches near power lines."
 geo:
 id: 19374
 item_type: Still Image

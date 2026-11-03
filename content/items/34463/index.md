@@ -23,6 +23,8 @@ files:
     original_filename: 2326886726_36eea3396c.
     thumb: /files/thumbnails/14fb29c9e78f5a14fb29c9e79340.jpg
     url: /files/original/14fb29c9e78f5a14fb29c9e79340.jpg
+    alt:
+      en: "A utility bucket truck parked on a damaged street amid storm debris, with piles of broken wood and materials along the roadside and houses visible among bare trees."
 geo:
   address: ''
   lat: 30.22586

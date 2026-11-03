@@ -21,6 +21,8 @@ files:
     original_filename: Picture 098engineers.jpg
     thumb: /files/thumbnails/14fb2a0f5c288714fb2a0f5c3150.jpg
     url: /files/original/14fb2a0f5c288714fb2a0f5c3150.jpg
+    alt:
+      en: "Aerial view of an extensively flooded residential neighborhood, with houses, trees, and streets submerged in dark water, surrounding a large building with a light-colored roof and an adjacent elevated walkway."
 geo:
 id: 19538
 item_type: Still Image

@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C6J_fed66de5e6.jpg
     thumb: /files/thumbnails/14fb2a6687bb8714fb2a6687bf62.jpg
     url: /files/original/14fb2a6687bb8714fb2a6687bf62.jpg
+    alt:
+      en: "Two uniformed Coast Guard members wearing masks and gloves carry out damaged furniture, including wooden chairs and a brass pitcher, from a storm-wrecked home with collapsed ceiling insulation hanging above."
 geo:
 id: 2419
 item_type: Still Image

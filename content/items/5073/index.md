@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0418.JPG
     thumb: /files/thumbnails/14fb2a5417f18714fb2a5417f554.jpg
     url: /files/original/14fb2a5417f18714fb2a5417f554.jpg
+    alt:
+      en: "Rows of white support pillars stand amid storm debris and downed trees, with scattered wreckage, an air conditioning unit, and a body of water visible in the background under a clear sky."
 geo:
 id: 5073
 item_type: Still Image

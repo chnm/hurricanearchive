@@ -24,6 +24,8 @@ files:
     original_filename: P1010036a.JPG
     thumb: /files/thumbnails/14fb2a5b9994d814fb2a5b99989f.jpg
     url: /files/original/14fb2a5b9994d814fb2a5b99989f.jpg
+    alt:
+      en: "Hand-painted plywood signs propped against debris in a yard read \"LIKE A BAD NEIGHBOR, STATE FARM IS NOWHERE,\" with storm-damaged trees and a wooden fence in the background."
 geo:
 id: 3467
 item_type: Still Image

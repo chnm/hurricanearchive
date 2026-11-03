@@ -21,6 +21,8 @@ files:
     original_filename: slide11.jpg
     thumb: /files/thumbnails/14fb2a194d752614fb2a194d790f.jpg
     url: /files/original/14fb2a194d752614fb2a194d790f.jpg
+    alt:
+      en: "An American flag hangs amid storm-damaged, leafless trees and debris along a roadside, with scattered wreckage covering the ground."
 geo:
 id: 14394
 item_type: Still Image

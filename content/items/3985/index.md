@@ -21,6 +21,8 @@ files:
     original_filename: DSC01075.JPG
     thumb: /files/thumbnails/14fb2a58a5d98b14fb2a58a5dd69.jpg
     url: /files/original/14fb2a58a5d98b14fb2a58a5dd69.jpg
+    alt:
+      en: "Floodwater submerges a street, with a large fallen tree leaning across the water and a traffic signal visible among its branches; houses and trees line the flooded background under a gray sky."
 geo:
 id: 3985
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1038Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8d3489814fb29f8d34c7d.jpg
     url: /files/original/14fb29f8d3489814fb29f8d34c7d.jpg
+    alt:
+      en: "A military Black Hawk helicopter sits parked on a grassy lawn, its rotor blades extended, with a uniformed crew member visible in the cockpit and trees lining the background."
 geo:
 id: 22231
 item_type: Still Image

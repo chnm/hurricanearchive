@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0080-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a03bc101f14fb2a03bc189c.jpg
     url: /files/original/14fb2a03bc101f14fb2a03bc189c.jpg
+    alt:
+      en: "Aerial view of extensive flooding with scattered debris among submerged trees, a partially flooded road curving through the landscape, and standing water stretching to the horizon."
 geo:
 id: 20795
 item_type: Still Image

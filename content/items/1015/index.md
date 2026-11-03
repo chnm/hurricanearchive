@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28312.jpg
     thumb: /files/thumbnails/14fb2a6b683f8e14fb2a6b684375.jpg
     url: /files/original/14fb2a6b683f8e14fb2a6b684375.jpg
+    alt:
+      en: "Severely storm-damaged building with its roof peeled back, exposed insulation, and twisted metal framing, surrounded by scattered debris and downed trees."
 geo:
   address: ''
   lat: 0.0

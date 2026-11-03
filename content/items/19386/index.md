@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2247engineers.JPG
     thumb: /files/thumbnails/14fb2a109df5dc14fb2a109dfad6.jpg
     url: /files/original/14fb2a109df5dc14fb2a109dfad6.jpg
+    alt:
+      en: "Four soldiers in camouflage uniforms and hard hats, one marked \"Express,\" stand near storm debris and fenced houses, with shoulder patches reading \"U.S. Army\" visible."
 geo:
 id: 19386
 item_type: Still Image

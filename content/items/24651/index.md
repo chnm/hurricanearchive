@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046medics.JPG
     thumb: /files/thumbnails/14fb29e5d10ede14fb29e5d112c4.jpg
     url: /files/original/14fb29e5d10ede14fb29e5d112c4.jpg
+    alt:
+      en: "A medical worker in camouflage fatigues and latex gloves administers a vaccination to a woman's upper arm, with shelves of medical supplies visible in the background."
 geo:
 id: 24651
 item_type: Still Image

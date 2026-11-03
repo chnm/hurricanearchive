@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0345.JPG
     thumb: /files/thumbnails/14fb2a5486920714fb2a5486a97e.jpg
     url: /files/original/14fb2a5486920714fb2a5486a97e.jpg
+    alt:
+      en: "Damaged building reduced to exposed wooden frame and bare walls, with scattered debris, a stripped deck platform, and piles of wood planks in the foreground; a person works near the structure amid storm-damaged trees."
 geo:
 id: 5000
 item_type: Still Image

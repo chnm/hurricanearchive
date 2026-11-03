@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7658.JPG
     thumb: /files/thumbnails/14fb29cc866b7c14fb29cc866f68.jpg
     url: /files/original/14fb29cc866b7c14fb29cc866f68.jpg
+    alt:
+      en: "A storm-damaged house with a blue tarp covering part of its roof, surrounded by fallen trees, uprooted stumps, and scattered debris from hurricane winds."
 geo:
 id: 30777
 item_type: Still Image

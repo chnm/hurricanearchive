@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0255-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fed235cf14fb29fed239bb.jpg
     url: /files/original/14fb29fed235cf14fb29fed239bb.jpg
+    alt:
+      en: "Aerial view of a damaged residential neighborhood with many homes missing sections of roof, surrounded by scattered debris and green trees amid the destruction."
 geo:
 id: 21430
 item_type: Still Image

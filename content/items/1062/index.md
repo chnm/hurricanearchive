@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28766.jpg
     thumb: /files/thumbnails/14fb2a6b39cae414fb2a6b39cccb.jpg
     url: /files/original/14fb2a6b39cae414fb2a6b39cccb.jpg
+    alt:
+      en: "Covered outdoor pavilions with green steel supports at an animal rescue depot, with stacked wire kennels, cardboard boxes, parked cars, and a small group of people gathered in the distance."
 geo:
   address: ''
   lat: 0.0

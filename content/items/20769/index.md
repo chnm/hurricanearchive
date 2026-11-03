@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0074-9-25.JPG
     thumb: /files/thumbnails/14fb2a03fa431714fb2a03fa46fa.jpg
     url: /files/original/14fb2a03fa431714fb2a03fa46fa.jpg
+    alt:
+      en: "Aerial view of a flooded coastal town with a curved bridge, submerged roads, downed trees, scattered debris, and damaged buildings along a waterway."
 geo:
 id: 20769
 item_type: Still Image

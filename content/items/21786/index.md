@@ -21,6 +21,8 @@ files:
     original_filename: katrina 056.jpg
     thumb: /files/thumbnails/14fb29fbbf154314fb29fbbf1923.jpg
     url: /files/original/14fb29fbbf154314fb29fbbf1923.jpg
+    alt:
+      en: "Floodwater submerges a street and parked cars in a downtown area, with high-rise office buildings in the background and storm-damaged trees and a highway guardrail in the foreground."
 geo:
 id: 21786
 item_type: Still Image

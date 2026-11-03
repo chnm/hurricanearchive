@@ -18,6 +18,8 @@ files:
     original_filename: 87_1b712a15d7.jpg
     thumb: /files/thumbnails/14fb29c636075d14fb29c63611fd.jpg
     url: /files/original/14fb29c636075d14fb29c63611fd.jpg
+    alt:
+      en: "Concert flyer for \"Fitz of Depression & Starfish\" at Pussy Cat Caverns, Oct. 27 Thursday 9PM, featuring two costumed figures posed before a house graphic, with text promoting an oyster bar, mud wrestling, roller derby, and other attractions."
 geo:
   address: Piety and Burgundy
   lat: 29.95324

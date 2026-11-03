@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p2_06_8e7299dbb6.jpg
     thumb: /files/thumbnails/14fb2a1749795f14fb2a17497f34.jpg
     url: /files/original/14fb2a1749795f14fb2a17497f34.jpg
+    alt:
+      en: "Four young children pose around a flowering tree in a front yard, with a brick ranch-style house, hedges, and a boat on a trailer visible in the background."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

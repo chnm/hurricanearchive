@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2148rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13dac4ab14fb2a13dac912.jpg
     url: /files/original/14fb2a13dac4ab14fb2a13dac912.jpg
+    alt:
+      en: "Aerial view from a hovering helicopter of a soldier in camouflage and a helmet being hoisted up on a rescue cable above floodwaters, with a second uniformed crew member assisting from the helicopter's open door."
 geo:
 id: 18986
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7459.JPG
     thumb: /files/thumbnails/14fb29cc9b7f2714fb29cc9b830d.jpg
     url: /files/original/14fb29cc9b7f2714fb29cc9b830d.jpg
+    alt:
+      en: "A single-story house with a metal roof stands amid storm-damaged trees, with broken branches scattered across the yard and leaning against the structure; a paved road runs along the foreground."
 geo:
 id: 30746
 item_type: Still Image

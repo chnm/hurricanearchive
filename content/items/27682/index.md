@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6708_4d6971b5e6.JPG
     thumb: /files/thumbnails/14fb29d31a68dd14fb29d31a6e4a.jpg
     url: /files/original/14fb29d31a68dd14fb29d31a6e4a.jpg
+    alt:
+      en: "A man and woman smile for the camera indoors, both wearing Mardi Gras beads, with the man in a dark sweater and the woman in a white top with a teal turtleneck."
 geo:
   address: ''
   lat: 29.91685

@@ -21,6 +21,8 @@ files:
     original_filename: S4300182stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecd64d8114fb29ecd65106.jpg
     url: /files/original/14fb29ecd64d8114fb29ecd65106.jpg
+    alt:
+      en: "A rusted brown pickup truck, partially buried in dried debris and branches, sits damaged with a crumpled tailgate area in front of a shingled roof."
 geo:
 id: 23843
 item_type: Still Image

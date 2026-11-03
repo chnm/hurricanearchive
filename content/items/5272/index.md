@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0717.JPG
     thumb: /files/thumbnails/14fb2a5314baa714fb2a5314be8c.jpg
     url: /files/original/14fb2a5314baa714fb2a5314be8c.jpg
+    alt:
+      en: "A large pine tree snapped and splintered at its base lies amid scattered branches, debris, and litter on a cleared forest floor, with intact pine woods in the background."
 geo:
 id: 5272
 item_type: Still Image

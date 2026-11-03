@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29e9d797cd14fb29e9d7bd2c.jpg
     url: /files/original/14fb29e9d797cd14fb29e9d7bd2c.jpg
+    alt:
+      en: "Aerial view of a long low bridge spanning a wide waterway, surrounded by flooded marshland and scattered industrial buildings under a hazy sky."
 geo:
 id: 24198
 item_type: Still Image

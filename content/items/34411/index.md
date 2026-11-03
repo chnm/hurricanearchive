@@ -27,6 +27,8 @@ files:
     original_filename: 2380730274_51f0d8e30c.
     thumb: /files/thumbnails/14fb29ca2a569c14fb29ca2a5a80.jpg
     url: /files/original/14fb29ca2a569c14fb29ca2a5a80.jpg
+    alt:
+      en: "Aerial view of Oak Harbor Marina in Slidell, showing hundreds of boats piled against the bulkhead amid debris, with surrounding buildings, parking lots, and a canal visible."
 geo:
   address: ''
   lat: 30.23849

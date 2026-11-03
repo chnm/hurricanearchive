@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0218-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffa02f9f14fb29ffa031fb.jpg
     url: /files/original/14fb29ffa02f9f14fb29ffa031fb.jpg
+    alt:
+      en: "Aerial view of storm-damaged structures with scattered debris and twisted metal roofing beside an open field, a muddy pond, and a narrow drainage channel."
 geo:
 id: 21289
 item_type: Still Image

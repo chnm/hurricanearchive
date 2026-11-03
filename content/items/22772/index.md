@@ -21,6 +21,8 @@ files:
     original_filename: S4300128Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4194ecc14fb29f41952b3.jpg
     url: /files/original/14fb29f4194ecc14fb29f41952b3.jpg
+    alt:
+      en: "Dirt lot with scattered debris leads to a chain-link fence and metal barrier gate, behind which sits a row of warehouse-style buildings marked \"211\" with open bay doors and posted signs including \"No Smoking.\""
 geo:
 id: 22772
 item_type: Still Image

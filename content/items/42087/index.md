@@ -23,6 +23,8 @@ files:
     original_filename: Wingate2_6cf0153462.jpg
     thumb: /files/thumbnails/14fb29c36e50ab14fb29c36e548e.jpg
     url: /files/original/14fb29c36e50ab14fb29c36e548e.jpg
+    alt:
+      en: "A large fallen tree limb crushes the roof of a brick house, with storm debris scattered across the yard and yellow caution tape strung across the scene."
 geo:
   address: ''
   lat: 30.0185

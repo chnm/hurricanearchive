@@ -20,6 +20,8 @@ files:
     original_filename: 114535605_2fa4bd6c9e.jpg
     thumb: /files/thumbnails/14fb29d161ac5314fb29d161b038.jpg
     url: /files/original/14fb29d161ac5314fb29d161b038.jpg
+    alt:
+      en: "Exterior view of the Superdome with a large banner reading \"REOPENING 9-24-2006 GO SAINTS,\" trees and smaller buildings in the foreground, under a partly cloudy sky."
 geo:
 id: 28715
 item_type: Still Image

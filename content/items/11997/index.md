@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 045.jpg
     thumb: /files/thumbnails/14fb2a2265167414fb2a22651a51.jpg
     url: /files/original/14fb2a2265167414fb2a22651a51.jpg
+    alt:
+      en: "Storm-damaged roadside with snapped pine trees, scattered debris, and overturned or wrecked vehicles along a two-lane road under a clear blue sky."
 geo:
 id: 11997
 item_type: Still Image

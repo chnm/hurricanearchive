@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28092.jpg
     thumb: /files/thumbnails/14fb2a69d2531614fb2a69d25b31.jpg
     url: /files/original/14fb2a69d2531614fb2a69d25b31.jpg
+    alt:
+      en: "Damaged McDonald's golden arches sign with torn banner, framed by numerous utility poles and overhead power lines against a hazy sky."
 geo:
   address: ''
   lat: 0.0

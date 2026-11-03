@@ -26,6 +26,8 @@ files:
     original_filename: 017_15_1cd86a7d1b.jpg
     thumb: /files/thumbnails/14fb2a6f3669f814fb2a6f3671b2.jpg
     url: /files/original/14fb2a6f3669f814fb2a6f3671b2.jpg
+    alt:
+      en: "Deep floodwater fills a city street outside the Superdome, with partially submerged cars, a \"Bud\" and \"Coca-Cola\" sign, and people wading through the water near downtown buildings."
 geo:
   address: ''
   lat: 29.952257363233002

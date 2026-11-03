@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0187.JPG
     thumb: /files/thumbnails/14fb2a004f199814fb2a004f1d86.jpg
     url: /files/original/14fb2a004f199814fb2a004f1d86.jpg
+    alt:
+      en: "Aerial view of a devastated coastal neighborhood with collapsed and skeletal house frames, scattered debris, downed power lines, and damaged trees lining a waterlogged street."
 geo:
 id: 21156
 item_type: Still Image

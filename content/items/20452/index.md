@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017-9-25.JPG
     thumb: /files/thumbnails/14fb2a0713b4c314fb2a0713b8cc.jpg
     url: /files/original/14fb2a0713b4c314fb2a0713b8cc.jpg
+    alt:
+      en: "Man wearing a dark shirt with an ID badge speaks into a microphone, gesturing with his hand, while others stand nearby under a covered outdoor structure."
 geo:
 id: 20452
 item_type: Still Image

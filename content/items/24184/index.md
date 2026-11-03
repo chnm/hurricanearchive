@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea01e55d14fb29ea01e913.jpg
     url: /files/original/14fb29ea01e55d14fb29ea01e913.jpg
+    alt:
+      en: "Roadside view of a storm-damaged building with its roof torn off and debris scattered inside, framed by trees and tall grass, with a La Quinta billboard visible overhead."
 geo:
 id: 24184
 item_type: Still Image

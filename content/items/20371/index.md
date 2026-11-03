@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007-15.JPG
     thumb: /files/thumbnails/14fb2a085399b614fb2a08539da5.jpg
     url: /files/original/14fb2a085399b614fb2a08539da5.jpg
+    alt:
+      en: "A service member wearing a flight helmet and olive drab flight suit with an American flag patch looks out from an open aircraft doorway toward a parking lot with military trucks and buildings."
 geo:
 id: 20371
 item_type: Still Image

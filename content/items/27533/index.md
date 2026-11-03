@@ -24,6 +24,8 @@ files:
     original_filename: 8_7f23568070.jpg
     thumb: /files/thumbnails/14fb29d3919b8014fb29d391ab99.jpg
     url: /files/original/14fb29d3919b8014fb29d391ab99.jpg
+    alt:
+      en: "Six girls pose smiling in a kitchen with large windows and potted plants; five wear matching white T-shirts with a sun logo and name tags, while one wears a patterned tank top."
 geo:
   address: ''
   lat: 29.87876

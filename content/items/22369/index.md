@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1186Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6fb787514fb29f6fb7e67.jpg
     url: /files/original/14fb29f6fb787514fb29f6fb7e67.jpg
+    alt:
+      en: "A uniformed service member wearing a camouflage uniform and an orange life vest stands in a military vehicle submerged in dark water at night, gripping a cable line."
 geo:
 id: 22369
 item_type: Still Image

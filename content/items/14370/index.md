@@ -21,6 +21,8 @@ files:
     original_filename: aerials79.jpg
     thumb: /files/thumbnails/14fb2a198d425b14fb2a198d4661.jpg
     url: /files/original/14fb2a198d425b14fb2a198d4661.jpg
+    alt:
+      en: "Aerial view of a coastal community with scattered buildings, boats docked along a marina, surrounded by marshland, winding waterways, and patches of damaged trees."
 geo:
 id: 14370
 item_type: Still Image

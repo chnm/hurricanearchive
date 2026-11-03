@@ -21,6 +21,8 @@ files:
     original_filename: Picture 059engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa5b2d214fb2a0fa5b6b0.jpg
     url: /files/original/14fb2a0fa5b2d214fb2a0fa5b6b0.jpg
+    alt:
+      en: "Aerial view of an industrial complex with flat-roofed warehouse buildings, parked tractor-trailers and tanker trucks, stacked lumber piles, and surrounding parking lots, with fallen and snapped trees scattered across the grounds."
 geo:
 id: 19499
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010083.JPG
     thumb: /files/thumbnails/14fb2a5a7a826514fb2a5a7a8650.jpg
     url: /files/original/14fb2a5a7a826514fb2a5a7a8650.jpg
+    alt:
+      en: "Brick ranch-style homes line a residential street, their lawns stripped of grass and littered with debris, palm trees and bare-branched trees standing among the storm-damaged properties under a hazy sky."
 geo:
 id: 3647
 item_type: Still Image

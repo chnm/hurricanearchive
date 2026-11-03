@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d9ede9414fb2a0d9ee109.jpg
     url: /files/original/14fb2a0d9ede9414fb2a0d9ee109.jpg
+    alt:
+      en: "Man in a brown shirt reaching to adjust a gray electrical panel mounted on a canvas tent wall, with a digital thermostat and wiring visible below."
 geo:
 id: 19822
 item_type: Still Image

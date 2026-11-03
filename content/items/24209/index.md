@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29e9b6d39e14fb29e9b6d6c5.jpg
     url: /files/original/14fb29e9b6d39e14fb29e9b6d6c5.jpg
+    alt:
+      en: "A red International Harvester tractor labeled \"Turbo\" carries three men through a flooded roadway lined with trees, water splashing around its large tires."
 geo:
 id: 24209
 item_type: Still Image

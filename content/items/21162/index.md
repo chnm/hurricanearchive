@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0189-21.JPG
     thumb: /files/thumbnails/14fb2a004b976f14fb2a004b9b4c.jpg
     url: /files/original/14fb2a004b976f14fb2a004b9b4c.jpg
+    alt:
+      en: "A woman holds a Fox News Channel microphone toward a soldier in camouflage uniform as she interviews him outdoors, with another uniformed service member standing nearby in the background."
 geo:
 id: 21162
 item_type: Still Image

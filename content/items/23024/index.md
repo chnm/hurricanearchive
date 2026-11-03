@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034OEP.JPG
     thumb: /files/thumbnails/14fb29f2046f0d14fb29f2047708.jpg
     url: /files/original/14fb29f2046f0d14fb29f2047708.jpg
+    alt:
+      en: "Rooftop communications equipment including satellite dishes, antennas, and a security camera mounted on metal brackets, with trees and a clear sky visible in the background."
 geo:
 id: 23024
 item_type: Still Image

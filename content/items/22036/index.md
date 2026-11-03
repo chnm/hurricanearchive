@@ -21,6 +21,8 @@ files:
     original_filename: Picture 367-J2.jpg
     thumb: /files/thumbnails/14fb29f9f391cc14fb29f9f395b1.jpg
     url: /files/original/14fb29f9f391cc14fb29f9f395b1.jpg
+    alt:
+      en: "Military personnel in fatigues stand near a dark sedan abandoned behind an iron fence, with a green front-loader and trailer parked in a debris-strewn lot beside weathered houses and a STOP sign."
 geo:
 id: 22036
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-016_248ba5a11d.jpg
     thumb: /files/thumbnails/14fb2a16aa865414fb2a16aa8a3c.jpg
     url: /files/original/14fb2a16aa865414fb2a16aa8a3c.jpg
+    alt:
+      en: "Seven children smiling in a backyard swimming pool lined with brick coping, with colorful pool noodles floating nearby and a wooden fence in the background."
 geo:
 id: 15276
 item_type: Still Image

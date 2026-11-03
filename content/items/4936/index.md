@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0278.JPG
     thumb: /files/thumbnails/14fb2a54e320d214fb2a54e324b0.jpg
     url: /files/original/14fb2a54e320d214fb2a54e324b0.jpg
+    alt:
+      en: "Close-up of a weathered shingle roofline and white fascia board on a house, with overhanging tree branches and a window visible below."
 geo:
 id: 4936
 item_type: Still Image

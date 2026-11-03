@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0281-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fdd9961314fb29fdd99aef.jpg
     url: /files/original/14fb29fdd9961314fb29fdd99aef.jpg
+    alt:
+      en: "Aerial view of a flooded residential and commercial area with homes, a warehouse, and vehicles partially submerged in brown floodwater, with a two-lane road running along the right side."
 geo:
 id: 21515
 item_type: Still Image

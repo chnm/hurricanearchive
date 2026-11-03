@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0085.JPG
     thumb: /files/thumbnails/14fb2a56201e6814fb2a5620224e.jpg
     url: /files/original/14fb2a56201e6814fb2a5620224e.jpg
+    alt:
+      en: "Damaged single-story building with a partially collapsed facade and exposed interior, set behind a mound of debris-strewn dirt, with a flagpole, bare and leafy trees, and a utility pole nearby under a clear blue sky."
 geo:
 id: 4694
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010022delaware.JPG
     thumb: /files/thumbnails/14fb29f0d0683214fb29f0d06c18.jpg
     url: /files/original/14fb29f0d0683214fb29f0d06c18.jpg
+    alt:
+      en: "Interior of a military cargo aircraft loaded with a tactical vehicle, red equipment boxes, bottled water cases, and a tan duffel bag, with a service member visible near the vehicle's cab."
 geo:
 id: 23202
 item_type: Still Image

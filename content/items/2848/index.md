@@ -21,6 +21,8 @@ files:
     original_filename: MVC-005S.JPG
     thumb: /files/thumbnails/14fb2a5fdcd45214fb2a5fdcd835.jpg
     url: /files/original/14fb2a5fdcd45214fb2a5fdcd835.jpg
+    alt:
+      en: "Vintage barber-style chair sits on a red floor in a small white-painted room with curved metal walls, with two dark jackets hanging nearby, an electric fan, and various items on a built-in counter."
 geo:
 id: 2848
 item_type: Still Image

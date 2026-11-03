@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1031Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f902096b14fb29f9020d9d.jpg
     url: /files/original/14fb29f902096b14fb29f9020d9d.jpg
+    alt:
+      en: "A camouflage military pickup truck with a canvas-covered bed parked on grass in front of a white two-story balconied building and a brick structure."
 geo:
 id: 22224
 item_type: Still Image

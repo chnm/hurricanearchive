@@ -21,6 +21,8 @@ files:
     original_filename: 100-16_7f268c26e7.jpg
     thumb: /files/thumbnails/14fb2a21d71e1f14fb2a21d864d2.jpg
     url: /files/original/14fb2a21d71e1f14fb2a21d864d2.jpg
+    alt:
+      en: "Vintage photograph of a seated woman and man posing closely together at a crowded event, with the man holding a pipe, surrounded by other audience members in the background."
 geo:
 id: 12668
 item_type: Still Image

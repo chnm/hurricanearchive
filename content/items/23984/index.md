@@ -21,6 +21,8 @@ files:
     original_filename: 09270022plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec26af7414fb29ec26b35a.jpg
     url: /files/original/14fb29ec26af7414fb29ec26b35a.jpg
+    alt:
+      en: "Shrimp boats sit docked at a waterfront harbor, with flooded pavement, debris, and a fallen metal structure in the foreground near a drainage canal."
 geo:
 id: 23984
 item_type: Still Image

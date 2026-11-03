@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27867.jpg
     thumb: /files/thumbnails/14fb2a6b6b026814fb2a6b6b065f.jpg
     url: /files/original/14fb2a6b6b026814fb2a6b6b065f.jpg
+    alt:
+      en: "A young person stands in a small boat using a pole amid floodwaters surrounding a raised house, while a man watches from the porch steps."
 geo:
   address: ''
   lat: 0.0

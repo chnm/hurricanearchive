@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0582.JPG
     thumb: /files/thumbnails/14fb2a5672cd0a14fb2a5672d0ed.jpg
     url: /files/original/14fb2a5672cd0a14fb2a5672d0ed.jpg
+    alt:
+      en: "Debris and broken tree limbs cover the ground beneath large oak trees, with scattered litter and wreckage strewn across the landscape under a clear blue sky."
 geo:
 id: 4653
 item_type: Still Image

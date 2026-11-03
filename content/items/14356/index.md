@@ -21,6 +21,8 @@ files:
     original_filename: aerials66.jpg
     thumb: /files/thumbnails/14fb2a19a33ea614fb2a19a34291.jpg
     url: /files/original/14fb2a19a33ea614fb2a19a34291.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential area with collapsed and debris-strewn houses, bare and broken trees, muddy ground, and an elevated highway overpass in the background."
 geo:
 id: 14356
 item_type: Still Image

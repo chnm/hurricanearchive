@@ -23,6 +23,8 @@ files:
     original_filename: brown derby.jpg
     thumb: /files/thumbnails/0cf8c821f77ae63ec1b759a70fb7b6d8.jpg
     url: /files/original/0cf8c821f77ae63ec1b759a70fb7b6d8.jpg
+    alt:
+      en: "Storefront of Brown Derby restaurant with signs for Fanta 99¢, 7UP $1.49/99¢, fried chicken $3.59, \"OPEN\" sign, handicap reserved parking, under a brick-patterned awning."
 geo:
   address: 3401 Baronne Street, New Orleans, La 70115
   lat: 29.9301642

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28699.jpg
     thumb: /files/thumbnails/14fb2a6a5ddb3f14fb2a6a5dde2d.jpg
     url: /files/original/14fb2a6a5ddb3f14fb2a6a5dde2d.jpg
+    alt:
+      en: "A gray horse wearing a halter peers through metal fencing inside a covered animal shelter pen, with another stall visible in the background."
 geo:
   address: ''
   lat: 0.0

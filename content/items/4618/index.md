@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0044.JPG
     thumb: /files/thumbnails/14fb2a56bac01114fb2a56bac3f8.jpg
     url: /files/original/14fb2a56bac01114fb2a56bac3f8.jpg
+    alt:
+      en: "A large fallen tree with tangled branches lies atop a damaged structure, its roof torn open with exposed wooden beams and splintered siding visible beneath a cloudy sky."
 geo:
 id: 4618
 item_type: Still Image

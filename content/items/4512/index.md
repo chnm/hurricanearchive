@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0724.JPG
     thumb: /files/thumbnails/14fb2a571908a614fb2a57190c84.jpg
     url: /files/original/14fb2a571908a614fb2a57190c84.jpg
+    alt:
+      en: "A yellow tape measure (Komelon brand) wrapped around a wooden post, showing measurements of about 1 to 5 inches, with a debris-strewn open structure and damaged buildings visible in the background."
 geo:
 id: 4512
 item_type: Still Image

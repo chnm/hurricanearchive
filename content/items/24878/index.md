@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0952superdome.JPG
     thumb: /files/thumbnails/14fb29e41e99ae14fb29e41e9d8a.jpg
     url: /files/original/14fb29e41e99ae14fb29e41e9d8a.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms, one with a cap reading \"S.R.T.,\" converse near a doorway with teal-painted walls, while a crowd of civilians, including a man in a Chicago White Sox cap, waits nearby."
 geo:
 id: 24878
 item_type: Still Image

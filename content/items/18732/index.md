@@ -21,6 +21,8 @@ files:
     original_filename: S4300098alero.JPG
     thumb: /files/thumbnails/14fb2a1554a26414fb2a1554a64a.jpg
     url: /files/original/14fb2a1554a26414fb2a1554a64a.jpg
+    alt:
+      en: "Red Cross and other volunteers in vests distribute meals from foam containers and coolers at an outdoor table, with military personnel and palm trees in the background."
 geo:
 id: 18732
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: katrina 076.jpg
     thumb: /files/thumbnails/14fb29fb9bdf2414fb29fb9c2ad1.jpg
     url: /files/original/14fb29fb9bdf2414fb29fb9c2ad1.jpg
+    alt:
+      en: "Flooded downtown street lined with high-rise buildings and trees, with a \"Welcome to New Orleans Downtown\" sign standing amid floodwater and scattered storm debris."
 geo:
 id: 21806
 item_type: Still Image

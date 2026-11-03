@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28571.jpg
     thumb: /files/thumbnails/14fb2a68ccac1c14fb2a68ccaffe.jpg
     url: /files/original/14fb2a68ccac1c14fb2a68ccaffe.jpg
+    alt:
+      en: "A man stands on the porch of a storm-damaged house, its door frame marked with an orange X and \"9-27,\" while a debris-strewn, flood-damaged landscape stretches out in the background."
 geo:
   address: ''
   lat: 0.0

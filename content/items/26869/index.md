@@ -21,6 +21,8 @@ files:
     original_filename: 1991homecomingcourt_13e84134b5.jpg
     thumb: /files/thumbnails/14fb29d6e3315614fb29d6e3353f.jpg
     url: /files/original/14fb29d6e3315614fb29d6e3353f.jpg
+    alt:
+      en: "Yearbook page titled \"1991 Homecoming Court\" featuring nine black-and-white photos of young women in formal attire holding flowers, each posed before a large letter \"C,\" with names printed below including Queen Rebekka Boudreaux and First Maid Stacie Twiggs."
 geo:
 id: 26869
 item_type: Still Image

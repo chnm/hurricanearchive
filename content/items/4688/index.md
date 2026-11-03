@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0639.JPG
     thumb: /files/thumbnails/14fb2a5621cbff14fb2a5621cfe5.jpg
     url: /files/original/14fb2a5621cbff14fb2a5621cfe5.jpg
+    alt:
+      en: "Dark wooden ceiling or roof deck with a circular hole exposing light and wood framing above, an electrical junction box and wires mounted on the boards, and a white cable running along the surface."
 geo:
 id: 4688
 item_type: Still Image

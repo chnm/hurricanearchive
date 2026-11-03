@@ -20,6 +20,8 @@ files:
     original_filename: 2298646258_34c2331062.
     thumb: /files/thumbnails/14fb29c822121b14fb29c8221600.jpg
     url: /files/original/14fb29c822121b14fb29c8221600.jpg
+    alt:
+      en: "A group of people stand around the open back of a truck loaded with bicycles, with several men inside helping to load or unload them, on a residential street with power lines and houses visible."
 geo:
 id: 34967
 item_type: Still Image

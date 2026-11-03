@@ -21,6 +21,8 @@ files:
     original_filename: MVC-027S.JPG
     thumb: /files/thumbnails/14fb2a5f41875a14fb2a5f418b35.jpg
     url: /files/original/14fb2a5f41875a14fb2a5f418b35.jpg
+    alt:
+      en: "Close-up of a dark blue military aircraft with a white star-and-bars insignia on its fuselage, parked beside a white jet, under a clear blue sky."
 geo:
 id: 2972
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: J2 (37).JPG
     thumb: /files/thumbnails/14fb2a113272e014fb2a113276cd.jpg
     url: /files/original/14fb2a113272e014fb2a113276cd.jpg
+    alt:
+      en: "Aerial view of trees with mixed green and brown foliage surrounding a dark-colored roof, with utility wires running vertically through the canopy and a paved road visible at the right edge."
 geo:
 id: 19319
 item_type: Still Image

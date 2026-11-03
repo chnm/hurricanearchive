@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0173-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a00a819c514fb2a00a81daa.jpg
     url: /files/original/14fb2a00a819c514fb2a00a81daa.jpg
+    alt:
+      en: "Aerial view of extensive flooding covering farmland and a submerged road, with bare trees rising from the floodwaters and debris from a damaged structure visible among the trees in the foreground."
 geo:
 id: 21082
 item_type: Still Image

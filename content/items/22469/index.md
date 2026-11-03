@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1310Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f64d28af14fb29f64d3971.jpg
     url: /files/original/14fb29f64d28af14fb29f64d3971.jpg
+    alt:
+      en: "A flooded street with a partially submerged Ryder box truck beside a brick building, windblown trees in the foreground, and rain obscuring the gray sky."
 geo:
 id: 22469
 item_type: Still Image

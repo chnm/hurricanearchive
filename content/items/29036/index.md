@@ -21,6 +21,8 @@ files:
     original_filename: LAANG-Photo-05.jpg
     thumb: /files/thumbnails/14fb29d07d3d4314fb29d07d4026.jpg
     url: /files/original/14fb29d07d3d4314fb29d07d4026.jpg
+    alt:
+      en: "Rows of damaged metal canopy structures with torn, hanging fabric roofing stand over an empty airfield tarmac, with low buildings visible in the background under a partly cloudy sky."
 geo:
 id: 29036
 item_type: Still Image

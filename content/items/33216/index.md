@@ -23,6 +23,8 @@ files:
     original_filename: 1267588078_17ee15550f.jpg
     thumb: /files/thumbnails/14fb29cb83206214fb29cb832444.jpg
     url: /files/original/14fb29cb83206214fb29cb832444.jpg
+    alt:
+      en: "Interior of a storm-damaged apartment with the roof torn open exposing wooden beams and insulation, debris scattered amid furniture, a wall-mounted AC unit, and a hanging light fixture."
 geo:
 id: 33216
 item_type: Still Image

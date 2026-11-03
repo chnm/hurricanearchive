@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1414superdome.JPG
     thumb: /files/thumbnails/14fb29e3e1d36614fb29e3e1d74b.jpg
     url: /files/original/14fb29e3e1d36614fb29e3e1d74b.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms standing near an escalator in an indoor space, with two men pushing a metal cart loaded with folded cots or tables."
 geo:
 id: 24919
 item_type: Still Image

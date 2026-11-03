@@ -21,6 +21,8 @@ files:
     original_filename: yearbookcover1994_f7ad597e7a.jpg
     thumb: /files/thumbnails/14fb29d6d2290114fb29d6d230cc.jpg
     url: /files/original/14fb29d6d2290114fb29d6d230cc.jpg
+    alt:
+      en: "Maroon 1994 Chalmette High School yearbook cover titled \"Owls in Focus,\" featuring a banner headline, cracked stone-like block numerals, illustrated owls, a flagpole, and the name Carole Mundt."
 geo:
 id: 26875
 item_type: Still Image

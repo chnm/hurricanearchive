@@ -21,6 +21,8 @@ files:
     original_filename: P1010034.JPG
     thumb: /files/thumbnails/14fb2a5754850914fb2a57548bcc.jpg
     url: /files/original/14fb2a5754850914fb2a57548bcc.jpg
+    alt:
+      en: "Aerial view of a flat, debris-scattered landscape with scorched trees, two small ponds, and scattered rubble across open fields, suggesting storm damage."
 geo:
 id: 4163
 item_type: Still Image

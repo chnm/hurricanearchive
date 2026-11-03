@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BZ1_df1b116c6f.jpg
     thumb: /files/thumbnails/14fb2a66b602f114fb2a66b606c9.jpg
     url: /files/original/14fb2a66b602f114fb2a66b606c9.jpg
+    alt:
+      en: "Two U.S. Coast Guard crew members in orange life vests pull an orange rescue skiff through a flooded, tree-lined New Orleans street lined with damaged houses and downed branches."
 geo:
 id: 2401
 item_type: Still Image

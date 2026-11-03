@@ -21,6 +21,8 @@ files:
     original_filename: 100_0103.JPG
     thumb: /files/thumbnails/14fb2a5965eb4614fb2a5965ef2b.jpg
     url: /files/original/14fb2a5965eb4614fb2a5965ef2b.jpg
+    alt:
+      en: "Military helicopter parked on a grassy strip of land beyond calm water, viewed through a boat's window frame and handrail, under an overcast sky."
 geo:
 id: 3817
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: StephsRoomKatrina_2b3726fded.jpg
     thumb: /files/thumbnails/14fb29c551255a14fb29c551293f.jpg
     url: /files/original/14fb29c551255a14fb29c551293f.jpg
+    alt:
+      en: "A flood-damaged bedroom shows a stained mattress and box spring with a green pillow and patterned bedding, resting above an exposed lower mattress covered in water stains and mold, on dark wood flooring."
 geo:
   address: 4920 Magnolia Street
   lat: 29.93685

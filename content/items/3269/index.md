@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (32).jpg
     thumb: /files/thumbnails/14fb2a5cee498c14fb2a5cee4db9.jpg
     url: /files/original/14fb2a5cee498c14fb2a5cee4db9.jpg
+    alt:
+      en: "Debris-covered street with a collapsed roof and scattered wreckage beside standing floodwater, a leaning utility pole, and a gas price sign reading \"255,\" \"275,\" and \"297\" in front of the \"Burch\" building."
 geo:
 id: 3269
 item_type: Still Image

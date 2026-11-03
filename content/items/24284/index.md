@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-04-3A.jpg
     thumb: /files/thumbnails/14fb29e90c4bb914fb29e90c50b9.jpg
     url: /files/original/14fb29e90c4bb914fb29e90c50b9.jpg
+    alt:
+      en: "Large tan and white relief tent set up in a parking lot, with two helicopters flying overhead, parked vehicles, traffic cones, and city buildings in the background under a cloudy sky."
 geo:
 id: 24284
 item_type: Still Image

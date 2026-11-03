@@ -20,6 +20,8 @@ files:
     original_filename: 2433989371_3f52d495da.
     thumb: /files/thumbnails/14fb29c96bae6f14fb29c96bb6ee.jpg
     url: /files/original/14fb29c96bae6f14fb29c96bb6ee.jpg
+    alt:
+      en: "A damaged open-air structure with a roof held up by pillars stands amid storm debris near the water, with a teal sedan parked on the sandy ground nearby."
 geo:
 id: 34704
 item_type: Still Image

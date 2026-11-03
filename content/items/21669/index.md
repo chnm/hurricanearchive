@@ -21,6 +21,8 @@ files:
     original_filename: FH000007-9-23.jpg
     thumb: /files/thumbnails/14fb29fca8b9d214fb29fca8c74d.jpg
     url: /files/original/14fb29fca8b9d214fb29fca8c74d.jpg
+    alt:
+      en: "A damaged single-story building with broken windows and siding stands amid muddy, debris-strewn ground, with overturned trailers and military trucks visible nearby under a hazy sky."
 geo:
 id: 21669
 item_type: Still Image

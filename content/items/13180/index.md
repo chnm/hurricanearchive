@@ -21,6 +21,8 @@ files:
     original_filename: 172 extreme flooding.jpg
     thumb: /files/thumbnails/14fb2a1f8df04614fb2a1f8df40b.jpg
     url: /files/original/14fb2a1f8df04614fb2a1f8df40b.jpg
+    alt:
+      en: "Flooded street with rising brown water surrounding a \"No Parking\" sign and a yellow \"15 FT 3 IN\" clearance sign, with a teal-trimmed brick building in the foreground and trees along a flooded wall in the background."
 geo:
 id: 13180
 item_type: Still Image

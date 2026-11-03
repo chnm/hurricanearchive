@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a05b13d5314fb2a05b14137.jpg
     url: /files/original/14fb2a05b13d5314fb2a05b14137.jpg
+    alt:
+      en: "A police car and officers stand near a flooded manufactured home with tree debris, floodwater pooling along the roadside amid storm damage."
 geo:
 id: 20606
 item_type: Still Image

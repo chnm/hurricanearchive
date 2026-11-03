@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026M.JPG
     thumb: /files/thumbnails/14fb2a06920f3314fb2a06921318.jpg
     url: /files/original/14fb2a06920f3314fb2a06921318.jpg
+    alt:
+      en: "A two-story brick building with a hipped roof stands behind a chain-link fence, with large uprooted and fallen trees scattered across the overgrown yard in front."
 geo:
 id: 20515
 item_type: Still Image

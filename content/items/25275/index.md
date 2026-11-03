@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2002superdome.JPG
     thumb: /files/thumbnails/14fb29df89675114fb29df896b36.jpg
     url: /files/original/14fb29df89675114fb29df896b36.jpg
+    alt:
+      en: "A man in camouflage pants and a tan shirt carries a child over a concrete barrier on an airfield tarmac, with the landing gear of a large aircraft visible in the background."
 geo:
 id: 25275
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: stoplight magazine st_2f4a338681.jpg
     thumb: /files/thumbnails/14fb29ccd448dc14fb29ccd44c2d.jpg
     url: /files/original/14fb29ccd448dc14fb29ccd44c2d.jpg
+    alt:
+      en: "A damaged teal traffic signal with amber and red lenses lies among debris, surrounded by broken concrete, wood planks, and scattered rubble."
 geo:
 id: 30620
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0160-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0134899114fb2a013497a7.jpg
     url: /files/original/14fb2a0134899114fb2a013497a7.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with a white picket fence partially submerged, downed trees and power lines, a road along the right edge, and vehicles stranded in the murky floodwaters."
 geo:
 id: 20977
 item_type: Still Image

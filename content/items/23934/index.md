@@ -21,6 +21,8 @@ files:
     original_filename: 09180004plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec51bf7314fb29ec51c359.jpg
     url: /files/original/14fb29ec51bf7314fb29ec51c359.jpg
+    alt:
+      en: "Elevated highway with a military vehicle and civilian cars traveling toward a city skyline, debris along the median, and a green \"Howard Ave\" exit sign overhead."
 geo:
 id: 23934
 item_type: Still Image

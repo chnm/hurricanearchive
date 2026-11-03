@@ -21,6 +21,8 @@ files:
     original_filename: 138 wind and rain2.jpg
     thumb: /files/thumbnails/14fb2a1ffae90814fb2a1ffaeced.jpg
     url: /files/original/14fb2a1ffae90814fb2a1ffaeced.jpg
+    alt:
+      en: "Sideways photo of a rainy scene with visible streaks of falling rain, a brick walkway or wall, green grass, palm fronds, and trees against an overcast sky."
 geo:
 id: 13148
 item_type: Still Image

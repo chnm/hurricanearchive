@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2131rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13ed0d5214fb2a13ed1138.jpg
     url: /files/original/14fb2a13ed0d5214fb2a13ed1138.jpg
+    alt:
+      en: "A military crew member in camouflage uniform, helmet, and visor gives a thumbs-up gesture inside a helicopter, with an American flag patch visible on the shoulder."
 geo:
 id: 18969
 item_type: Still Image

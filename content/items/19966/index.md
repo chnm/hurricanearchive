@@ -21,6 +21,8 @@ files:
     original_filename: Picture 063cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0be5e7ad14fb2a0be5eb93.jpg
     url: /files/original/14fb2a0be5e7ad14fb2a0be5eb93.jpg
+    alt:
+      en: "Close-up of a large domed roof with patchy yellow and gray weathering, atop a curved building wall made of vertical metal panels, set against a clear blue sky."
 geo:
 id: 19966
 item_type: Still Image

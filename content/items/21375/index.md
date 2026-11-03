@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0240-21.JPG
     thumb: /files/thumbnails/14fb29ff16d82b14fb29ff16dc10.jpg
     url: /files/original/14fb29ff16d82b14fb29ff16dc10.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood with scattered debris, stripped and collapsed houses, and a large barge washed inland, with an industrial complex visible in the hazy background."
 geo:
 id: 21375
 item_type: Still Image

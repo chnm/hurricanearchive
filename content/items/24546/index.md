@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0113-9-25.JPG
     thumb: /files/thumbnails/14fb29e6d356b314fb29e6d35a98.jpg
     url: /files/original/14fb29e6d356b314fb29e6d35a98.jpg
+    alt:
+      en: "Aerial view of a flooded roadway with double yellow lines, surrounded by floodwaters and partially submerged trees and vegetation along both sides."
 geo:
 id: 24546
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: KJ Baseball St Anthony_deaf7b6902.jpg
     thumb: /files/thumbnails/14fb29d727d75114fb29d727db39.jpg
     url: /files/original/14fb29d727d75114fb29d727db39.jpg
+    alt:
+      en: "Sepia-toned team portrait of thirteen young men in \"SA\" sweaters and \"S.T.A.\" caps, arranged in two rows with one kneeling player holding a trophy; a man in clerical attire stands at the back."
 geo:
   address: ''
   lat: 29.91685

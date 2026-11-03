@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0206.JPG
     thumb: /files/thumbnails/14fb29ffcc3c8614fb29ffcc406c.jpg
     url: /files/original/14fb29ffcc3c8614fb29ffcc406c.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood with scattered debris, foundations stripped of houses, standing floodwater, and abandoned vehicles lining streets amid surviving trees."
 geo:
 id: 21248
 item_type: Still Image

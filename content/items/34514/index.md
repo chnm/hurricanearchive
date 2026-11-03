@@ -27,6 +27,8 @@ files:
     original_filename: 2291269889_ea5922de4e.
     thumb: /files/thumbnails/14fb29c99b7f5414fb29c99b833a.jpg
     url: /files/original/14fb29c99b7f5414fb29c99b833a.jpg
+    alt:
+      en: "Damaged blue-sided structure with exposed wooden framing and torn screens where the front porch once stood, surrounded by debris, dried brush, and a small palm plant."
 geo:
   address: ''
   lat: 30.22539

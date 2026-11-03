@@ -20,6 +20,8 @@ files:
     original_filename: 1281653683_5b71b77630.jpg
     thumb: /files/thumbnails/14fb29cb9ab83b14fb29cb9abc20.jpg
     url: /files/original/14fb29cb9ab83b14fb29cb9abc20.jpg
+    alt:
+      en: "Interior of a damaged, gutted building with exposed wooden framing and brick walls, floor scattered with debris, trophies, a red ball, old picture frames, and bolt cutters."
 geo:
 id: 33200
 item_type: Still Image

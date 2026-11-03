@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046OEP.JPG
     thumb: /files/thumbnails/14fb29f1f6d8e714fb29f1f6dcd2.jpg
     url: /files/original/14fb29f1f6d8e714fb29f1f6dcd2.jpg
+    alt:
+      en: "Satellite news trucks with large dish antennas, including an Isuzu truck labeled \"danblackstudios,\" parked in a lot with orange traffic cones, surrounding cars, and a white tent in the background."
 geo:
 id: 23036
 item_type: Still Image

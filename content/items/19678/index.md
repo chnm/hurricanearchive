@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 065cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e706d2a14fb2a0e70710f.jpg
     url: /files/original/14fb2a0e706d2a14fb2a0e70710f.jpg
+    alt:
+      en: "Crumpled red and gray metal roofing panels lie torn apart on pavement, surrounded by scattered insulation, debris, and yellow caution tape in a damaged parking area."
 geo:
 id: 19678
 item_type: Still Image

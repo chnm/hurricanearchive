@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 007.jpg
     thumb: /files/thumbnails/14fb2a22e5a80c14fb2a22e5abf7.jpg
     url: /files/original/14fb2a22e5a80c14fb2a22e5abf7.jpg
+    alt:
+      en: "Fishing boats and shrimp trawlers, some listing or run aground, crowd a narrow river channel lined with trees, with overcast skies above; timestamp reads 2005/09/24."
 geo:
 id: 11885
 item_type: Still Image

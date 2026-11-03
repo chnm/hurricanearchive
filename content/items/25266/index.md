@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1993superdome.JPG
     thumb: /files/thumbnails/14fb29dfb8c20314fb29dfb92b8a.jpg
     url: /files/original/14fb29dfb8c20314fb29dfb92b8a.jpg
+    alt:
+      en: "A military Chinook helicopter sits on a wet helipad with rotors spinning as uniformed personnel assist a civilian up the rear ramp, with an elevated highway and city buildings in the background."
 geo:
 id: 25266
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0012.JPG
     thumb: /files/thumbnails/14fb2a56ed974514fb2a56ed9b59.jpg
     url: /files/original/14fb2a56ed974514fb2a56ed9b59.jpg
+    alt:
+      en: "Debris-strewn coastal lot with scattered storm wreckage, a leaning utility pole, and bare, wind-damaged trees along a wet dirt road near the water's edge."
 geo:
 id: 4586
 item_type: Still Image

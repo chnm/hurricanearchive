@@ -27,6 +27,8 @@ files:
     original_filename: 2380073091_71ef635c71.
     thumb: /files/thumbnails/14fb29ca4488ac14fb29ca448c99.jpg
     url: /files/original/14fb29ca4488ac14fb29ca448c99.jpg
+    alt:
+      en: "Water-stained bathroom cabinet or ledge with teal-painted walls and surface, showing streaked mineral residue and grime from flood damage."
 geo:
   address: ''
   lat: 30.22894

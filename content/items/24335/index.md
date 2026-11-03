@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-11-9A.jpg
     thumb: /files/thumbnails/14fb29e8ac046614fb29e8ac07f2.jpg
     url: /files/original/14fb29e8ac046614fb29e8ac07f2.jpg
+    alt:
+      en: "Military personnel stand atop large armored vehicles parked in deep floodwater beside a building, with a truck side mirror reflecting a tree in the foreground."
 geo:
 id: 24335
 item_type: Still Image

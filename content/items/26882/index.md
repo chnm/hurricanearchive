@@ -21,6 +21,8 @@ files:
     original_filename: 98faces_5f3dab6973.jpg
     thumb: /files/thumbnails/14fb29d6b9a20014fb29d6bde6b5.jpg
     url: /files/original/14fb29d6b9a20014fb29d6bde6b5.jpg
+    alt:
+      en: "Yearbook page with sixteen senior portraits of graduates in maroon caps and gowns, each labeled with a name: Saucier, Scallon, Schallenberg, Schule, Scott, Showalter, Smith, Smith, Stein, Stephenson, Stoute, St. Romain, Tate, Taylor, Tedesco, and Turnage."
 geo:
 id: 26882
 item_type: Still Image

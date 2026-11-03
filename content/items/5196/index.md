@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0641.JPG
     thumb: /files/thumbnails/14fb2a536d34e914fb2a536d38d6.jpg
     url: /files/original/14fb2a536d34e914fb2a536d38d6.jpg
+    alt:
+      en: "Collapsed roof structure of a house with exposed wooden trusses and rafters, surrounded by scattered debris including insulation, siding, and broken materials, with trees visible in the background."
 geo:
 id: 5196
 item_type: Still Image

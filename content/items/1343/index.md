@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28359.jpg
     thumb: /files/thumbnails/14fb2a696b0f3714fb2a696b131c.jpg
     url: /files/original/14fb2a696b0f3714fb2a696b131c.jpg
+    alt:
+      en: "Collapsed sections of a concrete bridge or causeway lie twisted and broken into the water, with debris and rubble scattered along the rocky shoreline in the foreground."
 geo:
   address: ''
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: DSC01638_7e49493fe2.JPG
     thumb: /files/thumbnails/14fb29c4b9785114fb29c4b97c37.jpg
     url: /files/original/14fb29c4b9785114fb29c4b97c37.jpg
+    alt:
+      en: "Two men in white shirts stand in a debris-strewn yard beside a blue house, surrounded by fallen tree branches and limbs, with a boarded window visible on the home's front door."
 geo:
   address: ''
   lat: 29.95656

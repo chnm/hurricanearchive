@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0240-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff17746114fb29ff17784d.jpg
     url: /files/original/14fb29ff17746114fb29ff17784d.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with collapsed and damaged rooftops partially submerged in standing water, surrounded by power lines, utility poles, and a large body of water in the background."
 geo:
 id: 21374
 item_type: Still Image

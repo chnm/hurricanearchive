@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward 9-18-5.JPG
     thumb: /files/thumbnails/14fb2a2190fb5614fb2a2190ff23.jpg
     url: /files/original/14fb2a2190fb5614fb2a2190ff23.jpg
+    alt:
+      en: "A light-colored house with storm-damaged roofing stands amid debris, with a leaning utility pole and dangling power lines in the foreground and muddy, flood-stained ground covering the yard and street."
 geo:
 id: 12839
 item_type: Still Image

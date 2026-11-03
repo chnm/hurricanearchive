@@ -21,6 +21,8 @@ files:
     original_filename: 09270006plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec35dbb614fb29ec35df9c.jpg
     url: /files/original/14fb29ec35dbb614fb29ec35df9c.jpg
+    alt:
+      en: "Overturned trailer and tangled debris, including a leaning utility pole and downed wires, lie beside a murky waterway, with bare trees lining the far bank."
 geo:
 id: 23968
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 161 twisted junk.jpg
     thumb: /files/thumbnails/14fb2a1faac25414fb2a1faac638.jpg
     url: /files/original/14fb2a1faac25414fb2a1faac638.jpg
+    alt:
+      en: "Twisted sheet metal roofing torn apart and hanging from a damaged structure, with utility poles, power lines, and scattered debris in the foreground under an overcast sky."
 geo:
 id: 13169
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-006S.JPG
     thumb: /files/thumbnails/14fb2a5f96b20614fb2a5f96b5f3.jpg
     url: /files/original/14fb2a5f96b20614fb2a5f96b5f3.jpg
+    alt:
+      en: "Museum room with white walls covered in framed black-and-white photographs and documents, a weathered American flag with visible stars mounted on the right wall, and a glass display case on a blue stand in the foreground."
 geo:
 id: 2917
 item_type: Still Image

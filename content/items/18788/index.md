@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2217bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a153d853a14fb2a153d891f.jpg
     url: /files/original/14fb2a153d853a14fb2a153d891f.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms gather outdoors near open-sided hangar structures and trucks, with one man gesturing while speaking and another photographing the scene."
 geo:
 id: 18788
 item_type: Still Image

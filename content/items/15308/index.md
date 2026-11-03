@@ -21,6 +21,8 @@ files:
     original_filename: PPeabody-5_052f96efcd.jpg
     thumb: /files/thumbnails/14fb2a169e676314fb2a169e6b49.jpg
     url: /files/original/14fb2a169e676314fb2a169e6b49.jpg
+    alt:
+      en: "A priest in white vestments stands between a man and woman at a church altar, with a crucifix on the wall behind them; the woman holds a certificate."
 geo:
 id: 15308
 item_type: Still Image

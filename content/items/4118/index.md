@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0004.JPG
     thumb: /files/thumbnails/14fb2a57a36f5514fb2a57a3733f.jpg
     url: /files/original/14fb2a57a36f5514fb2a57a3733f.jpg
+    alt:
+      en: "Two large fishing trawlers sit stranded on dry land along a shoreline, masts and rigging silhouetted against a pale sky, with \"CAMINADA BAY\" visible on the larger vessel's hull."
 geo:
 id: 4118
 item_type: Still Image

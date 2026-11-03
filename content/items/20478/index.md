@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020M.JPG
     thumb: /files/thumbnails/14fb2a06ecd4a514fb2a06ecdafc.jpg
     url: /files/original/14fb2a06ecd4a514fb2a06ecdafc.jpg
+    alt:
+      en: "Concrete bridge railing overlooks a wide waterway, with a damaged railroad trestle, downed trees, and debris along the shoreline amid a wooded landscape under a hazy sky."
 geo:
 id: 20478
 item_type: Still Image

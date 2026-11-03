@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0189cowanmedia.JPG
     thumb: /files/thumbnails/14fb29f26df25114fb29f26df69a.jpg
     url: /files/original/14fb29f26df25114fb29f26df69a.jpg
+    alt:
+      en: "A reporter holds a Fox News microphone up to a soldier in camouflage fatigues as another uniformed service member stands in the background on a paved outdoor walkway."
 geo:
 id: 22956
 item_type: Still Image

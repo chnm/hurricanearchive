@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005.JPG
     thumb: /files/thumbnails/14fb2a085c575814fb2a085c5b3d.jpg
     url: /files/original/14fb2a085c575814fb2a085c5b3d.jpg
+    alt:
+      en: "People sit at tables with open laptops, water bottles, and a banana in a classroom setting, with a whiteboard visible in the background."
 geo:
 id: 20362
 item_type: Still Image

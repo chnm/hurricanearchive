@@ -21,6 +21,8 @@ files:
     original_filename: Picture 029satellite.jpg
     thumb: /files/thumbnails/14fb2a13c363bc14fb2a13c367a1.jpg
     url: /files/original/14fb2a13c363bc14fb2a13c367a1.jpg
+    alt:
+      en: "Side-by-side satellite images of New Orleans, Louisiana along the Industrial Canal, comparing dry streets and a shipyard on August 28, 2002 to widespread flooding submerging homes and the surrounding neighborhood on September 2, 2005, after Hurricane Katrina."
 geo:
 id: 19009
 item_type: Still Image

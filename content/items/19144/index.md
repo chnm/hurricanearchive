@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 054.jpg
     thumb: /files/thumbnails/14fb2a12c31e3014fb2a12c32223.jpg
     url: /files/original/14fb2a12c31e3014fb2a12c32223.jpg
+    alt:
+      en: "A smiling woman in military camouflage sits at a desk labeled \"City Hall Mayor's Office\" and \"Mayor,\" with a \"Check In\" sign nearby, while uniformed personnel work in the background among ladders and whiteboards."
 geo:
 id: 19144
 item_type: Still Image

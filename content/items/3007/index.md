@@ -21,6 +21,8 @@ files:
     original_filename: 100_0256.JPG
     thumb: /files/thumbnails/14fb2a5ef7871414fb2a5ef78af9.jpg
     url: /files/original/14fb2a5ef7871414fb2a5ef78af9.jpg
+    alt:
+      en: "Outdoor military aviation museum lot with fighter jets on display, a large battleship superstructure in the background, and storm-damaged metal panels and debris scattered across the grass and pavement in the foreground."
 geo:
 id: 3007
 item_type: Still Image

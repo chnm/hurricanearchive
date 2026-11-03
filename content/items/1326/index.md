@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28637.jpg
     thumb: /files/thumbnails/14fb2a698388e914fb2a6983a913.jpg
     url: /files/original/14fb2a698388e914fb2a6983a913.jpg
+    alt:
+      en: "High-rise glass curtain wall in downtown New Orleans with numerous broken windows, some boarded with plywood, and interior lights visible through the damaged panes."
 geo:
   address: ''
   lat: 0.0

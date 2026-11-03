@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035grandisle.JPG
     thumb: /files/thumbnails/14fb2a15328d5814fb2a15329135.jpg
     url: /files/original/14fb2a15328d5814fb2a15329135.jpg
+    alt:
+      en: "Aerial view of a coastal community devastated by hurricane flooding, showing rows of damaged homes and mobile structures, scattered wood debris, and heavy equipment clearing wreckage near the shoreline."
 geo:
 id: 18805
 item_type: Still Image

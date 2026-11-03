@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7458.JPG
     thumb: /files/thumbnails/14fb29cc9c3e8614fb29cc9c426c.jpg
     url: /files/original/14fb29cc9c3e8614fb29cc9c426c.jpg
+    alt:
+      en: "Motion-blurred roadside view of a wooded area with dense green trees and undergrowth, with broken branches and fallen limbs scattered along the shoulder of the road."
 geo:
 id: 30745
 item_type: Still Image

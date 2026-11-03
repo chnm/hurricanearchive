@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0016.JPG
     thumb: /files/thumbnails/14fb2a56eb1ac014fb2a56eb1eac.jpg
     url: /files/original/14fb2a56eb1ac014fb2a56eb1eac.jpg
+    alt:
+      en: "Storm-damaged neighborhood street lined with debris, a boarded-up house with partially torn-off roof, a bent chain-link fence, and scattered wreckage beneath trees still standing with green leaves."
 geo:
 id: 4590
 item_type: Still Image

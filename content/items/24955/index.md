@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1470superdome.JPG
     thumb: /files/thumbnails/14fb29e39bc27214fb29e39bc646.jpg
     url: /files/original/14fb29e39bc27214fb29e39bc646.jpg
+    alt:
+      en: "Four soldiers in camouflage uniforms walk across a brick plaza between military trucks, with city skyscrapers silhouetted against a hazy morning sky in the background."
 geo:
 id: 24955
 item_type: Still Image

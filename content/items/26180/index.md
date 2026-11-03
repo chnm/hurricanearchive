@@ -33,24 +33,32 @@ files:
     original_filename: battle7_5903b8c97a.jpg
     thumb: /files/thumbnails/14fb29d9b97e4d14fb29d9b984e7.jpg
     url: /files/original/14fb29d9b97e4d14fb29d9b984e7.jpg
+    alt:
+      en: "Reenactors in period military uniforms with muskets stand in formation outdoors, with a drummer visible at the right, recreating a scene from the Battle of New Orleans."
   - fullsize: /files/fullsize/14fb29d9b815d614fb29d9b81e43.jpg
     id: 22788
     mime: image/jpeg
     original_filename: battle8_cce52e31cf.jpg
     thumb: /files/thumbnails/14fb29d9b815d614fb29d9b81e43.jpg
     url: /files/original/14fb29d9b815d614fb29d9b81e43.jpg
+    alt:
+      en: "A large white plantation-style mansion with columned porches and a central cupola, seen across an open lawn with a tall obelisk monument visible to the left."
   - fullsize: /files/fullsize/14fb29d9b2329e14fb29d9b23670.jpg
     id: 22789
     mime: image/jpeg
     original_filename: battle9_913f49fb8c.jpg
     thumb: /files/thumbnails/14fb29d9b2329e14fb29d9b23670.jpg
     url: /files/original/14fb29d9b2329e14fb29d9b23670.jpg
+    alt:
+      en: "A large tree with hanging Spanish moss overlooks an open field of golden-hued grass, with a white building partially visible in the background."
   - fullsize: /files/fullsize/14fb29d9b157dd14fb29d9b15bc3.jpg
     id: 22790
     mime: image/jpeg
     original_filename: battle10_441555ada1.jpg
     thumb: /files/thumbnails/14fb29d9b157dd14fb29d9b15bc3.jpg
     url: /files/original/14fb29d9b157dd14fb29d9b15bc3.jpg
+    alt:
+      en: "A group of military reenactors in early 19th-century uniforms with tall hats march in formation carrying rifles with bayonets, recreating a scene from the Battle of New Orleans."
 geo:
 id: 26180
 item_type: Still Image

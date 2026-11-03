@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0327-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd4c8b3414fb29fd4c925b.jpg
     url: /files/original/14fb29fd4c8b3414fb29fd4c925b.jpg
+    alt:
+      en: "Aerial view of a corrugated metal quonset-style structure and a partially framed building roof surrounded by muddy floodwater, with trees visible at the water's edge."
 geo:
 id: 21593
 item_type: Still Image

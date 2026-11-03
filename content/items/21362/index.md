@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0237-21.JPG
     thumb: /files/thumbnails/14fb29ff369eff14fb29ff36a2e5.jpg
     url: /files/original/14fb29ff369eff14fb29ff36a2e5.jpg
+    alt:
+      en: "Aerial view of an urban residential block with multi-story buildings featuring slate roofs and dormer windows, parking lots with vehicles, a courtyard with manicured hedges, and a blue tarp covering part of one rooftop."
 geo:
 id: 21362
 item_type: Still Image

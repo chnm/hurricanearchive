@@ -23,6 +23,8 @@ files:
     original_filename: 158259469_3b5f7716cb.jpg
     thumb: /files/thumbnails/14fb29d1e9349814fb29d1e93ed8.jpg
     url: /files/original/14fb29d1e9349814fb29d1e93ed8.jpg
+    alt:
+      en: "A damaged white single-story house with a bent, sagging metal awning over its porch, window air conditioners, and a collapsed chain-link fence surrounded by overgrown grass; address number 2234 is visible on the door frame."
 geo:
 id: 28650
 item_type: Still Image

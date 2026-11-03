@@ -21,6 +21,8 @@ files:
     original_filename: katrina 005.jpg
     thumb: /files/thumbnails/14fb29fc1144ed14fb29fc1148d0.jpg
     url: /files/original/14fb29fc1144ed14fb29fc1148d0.jpg
+    alt:
+      en: "Rows of cots with personnel resting or sitting amid backpacks, cardboard boxes, and water bottles inside a concrete parking garage set up as a temporary shelter, with a tent and uniformed figures in the background."
 geo:
 id: 21737
 item_type: Still Image

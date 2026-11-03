@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2208conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11bd5a6614fb2a11bd5e4b.jpg
     url: /files/original/14fb2a11bd5a6614fb2a11bd5e4b.jpg
+    alt:
+      en: "Entrance to \"New Orleans Centre\" with a large glass canopy, an American flag hanging beside it, plywood covering a window, and military personnel and barricades at street level."
 geo:
 id: 19227
 item_type: Still Image

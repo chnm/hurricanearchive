@@ -20,6 +20,8 @@ files:
     original_filename: 1281643855_9bb2377870.jpg
     thumb: /files/thumbnails/14fb29cb8619ef14fb29cb861dd4.jpg
     url: /files/original/14fb29cb8619ef14fb29cb861dd4.jpg
+    alt:
+      en: "A man wearing a face mask stands amid a large pile of debris, including sheet metal, wood, and a bathtub, with power lines, trees, and a cloudy sky in the background."
 geo:
 id: 33214
 item_type: Still Image

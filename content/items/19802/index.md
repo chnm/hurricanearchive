@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 105cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dbe52a714fb2a0dbe5686.jpg
     url: /files/original/14fb2a0dbe52a714fb2a0dbe5686.jpg
+    alt:
+      en: "A uniformed man in a military-style cap sits inside a vehicle, viewed from a side window with tires stacked outside and a wrecked structure visible in the background."
 geo:
 id: 19802
 item_type: Still Image

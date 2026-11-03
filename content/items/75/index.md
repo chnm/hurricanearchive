@@ -26,6 +26,8 @@ files:
     original_filename: 100_5720_350365cc76.JPG
     thumb: /files/thumbnails/14fb2a71206ba914fb2a71207385.jpg
     url: /files/original/14fb2a71206ba914fb2a71207385.jpg
+    alt:
+      en: "Abandoned shopping cart sits in a mud-covered parking lot outside a storm-damaged strip mall with boarded windows, dated 11/02/2005."
 geo:
   address: ''
   lat: 30.005653

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 370-J2.jpg
     thumb: /files/thumbnails/14fb29f9f02e7014fb29f9f02ed3.jpg
     url: /files/original/14fb29f9f02e7014fb29f9f02ed3.jpg
+    alt:
+      en: "A fallen utility pole rests diagonally across an overturned vehicle in a yard strewn with debris, with a damaged house and bare tree in the background."
 geo:
 id: 22039
 item_type: Still Image

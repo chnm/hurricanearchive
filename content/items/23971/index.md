@@ -21,6 +21,8 @@ files:
     original_filename: 09270009plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec336ec114fb29ec3372a7.jpg
     url: /files/original/14fb29ec336ec114fb29ec3372a7.jpg
+    alt:
+      en: "Barren, debris-strewn field with large leafless trees, an overturned vehicle, and scattered wreckage under a gray sky, with floodwater pooling in the foreground."
 geo:
 id: 23971
 item_type: Still Image

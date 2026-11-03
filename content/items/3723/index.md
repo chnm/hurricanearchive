@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 003.jpg
     thumb: /files/thumbnails/14fb2a59fcdd8f14fb2a59fce261.jpg
     url: /files/original/14fb2a59fcdd8f14fb2a59fce261.jpg
+    alt:
+      en: "A large oak tree with sprawling bare branches frames a damaged house covered with a blue tarp roof and plywood-boarded windows, set against a clear blue sky."
 geo:
 id: 3723
 item_type: Still Image

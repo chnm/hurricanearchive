@@ -21,6 +21,8 @@ files:
     original_filename: J2 (52).JPG
     thumb: /files/thumbnails/14fb2a1114c2df14fb2a1114c71f.jpg
     url: /files/original/14fb2a1114c2df14fb2a1114c71f.jpg
+    alt:
+      en: "Aerial view of a downtown city street lined with high-rise buildings including a Wyndham Hotel and a Saks Fifth Avenue store, with military vehicles and emergency trucks parked along the roadway."
 geo:
 id: 19336
 item_type: Still Image

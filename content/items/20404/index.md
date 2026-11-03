@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011-15.JPG
     thumb: /files/thumbnails/14fb2a07fadfab14fb2a07fae3fb.jpg
     url: /files/original/14fb2a07fadfab14fb2a07fae3fb.jpg
+    alt:
+      en: "Aerial view from inside a helicopter, looking down past a silhouetted figure wearing an American flag patch, toward a green, flooded landscape below."
 geo:
 id: 20404
 item_type: Still Image

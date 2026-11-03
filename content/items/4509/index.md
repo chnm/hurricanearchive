@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0721.JPG
     thumb: /files/thumbnails/14fb2a571a836b14fb2a571a8758.jpg
     url: /files/original/14fb2a571a836b14fb2a571a8758.jpg
+    alt:
+      en: "Elevated house on tall pilings with damaged roofline and exposed framing on the right side, surrounded by debris and bare trees in the yard."
 geo:
 id: 4509
 item_type: Still Image

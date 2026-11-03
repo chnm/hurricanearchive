@@ -23,6 +23,8 @@ files:
     original_filename: 1226148328_e44ea90a28.jpg
     thumb: /files/thumbnails/14fb29cb10dd7f14fb29cb10e14c.jpg
     url: /files/original/14fb29cb10dd7f14fb29cb10e14c.jpg
+    alt:
+      en: "Mural on a yellow cinder-block wall depicting groceries like cigarettes, beer, Pampers, cereal, and detergent, with hand-painted text reading \"NO LOITERING,\" \"24 hrs. daily,\" \"HOT DOGS,\" \"LEG QTRS.,\" and \"RIB EYE STEAK,\" beneath an official \"No Loitering\" sign."
 geo:
 id: 33258
 item_type: Still Image

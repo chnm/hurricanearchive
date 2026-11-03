@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0018.JPG
     thumb: /files/thumbnails/14fb2a0a37577514fb2a0a375c6e.jpg
     url: /files/original/14fb2a0a37577514fb2a0a375c6e.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses surrounded by standing water, scattered trees, and a curving highway in the hazy distance."
 geo:
 id: 20268
 item_type: Still Image

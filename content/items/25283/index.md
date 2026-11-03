@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2010superdome.JPG
     thumb: /files/thumbnails/14fb29df67c7c714fb29df67cbaf.jpg
     url: /files/original/14fb29df67c7c714fb29df67cbaf.jpg
+    alt:
+      en: "Military personnel assist an elderly woman in a wheelchair and others with bags near an \"Acadian Shuttle\" van in a parking lot, as part of evacuation efforts."
 geo:
 id: 25283
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-25-23A.jpg
     thumb: /files/thumbnails/14fb29e89b2ac314fb29e89b3471.jpg
     url: /files/original/14fb29e89b2ac314fb29e89b3471.jpg
+    alt:
+      en: "A Black Hawk helicopter flies low over a staging area filled with cardboard boxes, folding tables, military vehicles, and personnel in camouflage uniforms under a clear sky."
 geo:
 id: 24349
 item_type: Still Image

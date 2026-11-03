@@ -21,6 +21,8 @@ files:
     original_filename: PPeabody-6_cee01483ed.jpg
     thumb: /files/thumbnails/14fb2a169d346a14fb2a169d36c7.jpg
     url: /files/original/14fb2a169d346a14fb2a169d36c7.jpg
+    alt:
+      en: "Backyard gathering under a covered patio decorated with white balloons, with guests seated at tables and a buffet spread, trees and a wooden fence visible beyond the yard."
 geo:
 id: 15309
 item_type: Still Image

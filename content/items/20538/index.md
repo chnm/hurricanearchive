@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030H.JPG
     thumb: /files/thumbnails/14fb2a0656558e14fb2a06565bf3.jpg
     url: /files/original/14fb2a0656558e14fb2a06565bf3.jpg
+    alt:
+      en: "A nighttime scene under a tent with string lights, showing a young woman in an orange and white outfit playing foosball, with a blurred arm of another player in the foreground."
 geo:
 id: 20538
 item_type: Still Image

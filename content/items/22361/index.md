@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1178Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f707eb6d14fb29f707ef52.jpg
     url: /files/original/14fb29f707eb6d14fb29f707ef52.jpg
+    alt:
+      en: "Men in camouflage uniforms and an orange life vest work on an outboard motor inside a flat-bottomed boat indoors, surrounded by oil bottles, life rings, and equipment, near a sign reading \"125 STAIRS.\""
 geo:
 id: 22361
 item_type: Still Image

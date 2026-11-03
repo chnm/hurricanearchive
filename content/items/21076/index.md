@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0172-21.JPG
     thumb: /files/thumbnails/14fb2a00ade9b814fb2a00aded8c.jpg
     url: /files/original/14fb2a00ade9b814fb2a00aded8c.jpg
+    alt:
+      en: "Empty residential street lined with trees and power lines, with large piles of debris and discarded household items heaped along the curb on the right side."
 geo:
 id: 21076
 item_type: Still Image

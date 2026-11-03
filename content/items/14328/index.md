@@ -21,6 +21,8 @@ files:
     original_filename: aerials40.jpg
     thumb: /files/thumbnails/14fb2a19d0422a14fb2a19d04604.jpg
     url: /files/original/14fb2a19d0422a14fb2a19d04604.jpg
+    alt:
+      en: "Aerial view of a waterfront residential area with scattered homes amid debris, fallen trees, and damaged structures along canals and inlets, showing widespread storm destruction."
 geo:
 id: 14328
 item_type: Still Image

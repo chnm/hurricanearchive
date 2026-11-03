@@ -20,6 +20,8 @@ files:
     original_filename: 2456726239_1fa4fe2f58.
     thumb: /files/thumbnails/14fb29c8a81c0a14fb29c8a821f3.jpg
     url: /files/original/14fb29c8a81c0a14fb29c8a821f3.jpg
+    alt:
+      en: "A yellow CAT excavator with tracks digs into thick mud, its bucket lowered into the dredged earth, with a muddy cleared field and tree line in the background."
 geo:
 id: 34893
 item_type: Still Image

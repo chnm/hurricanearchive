@@ -21,6 +21,8 @@ files:
     original_filename: S4300067zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0eebbcce14fb2a0eebc0bd.jpg
     url: /files/original/14fb2a0eebbcce14fb2a0eebc0bd.jpg
+    alt:
+      en: "A New Orleans Saints fleur-de-lis logo, in black, gold, and white, painted on an exterior wall panel."
 geo:
 id: 19589
 item_type: Still Image

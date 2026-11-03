@@ -21,6 +21,8 @@ files:
     original_filename: 100_0148.JPG
     thumb: /files/thumbnails/14fb2a593c378214fb2a593c3b69.jpg
     url: /files/original/14fb2a593c378214fb2a593c3b69.jpg
+    alt:
+      en: "Bow of a boat moving through extensive floodwaters, with submerged trees, a single-story brick building, and a tall lattice radio tower visible ahead under a hazy sky."
 geo:
 id: 3855
 item_type: Still Image

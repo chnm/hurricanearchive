@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0201_2c41532308.JPG
     thumb: /files/thumbnails/14fb29cd613dd814fb29cd6141bd.jpg
     url: /files/original/14fb29cd613dd814fb29cd6141bd.jpg
+    alt:
+      en: "A heavily rusted and corroded handgun lies on a grassy lawn, its metal surfaces coated in orange rust and dark grime, with the rubber grip still partially intact."
 geo:
 id: 30056
 item_type: Still Image

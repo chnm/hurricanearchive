@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a05822e8914fb2a0582326e.jpg
     url: /files/original/14fb2a05822e8914fb2a0582326e.jpg
+    alt:
+      en: "Aerial view of a flooded coastal highway stretching into the distance, with surrounding marshland submerged under floodwater and a few vehicles visible on the partially exposed roadway."
 geo:
 id: 20637
 item_type: Still Image

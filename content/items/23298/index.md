@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29f00c7bd214fb29f00c7d5f.jpg
     url: /files/original/14fb29f00c7bd214fb29f00c7d5f.jpg
+    alt:
+      en: "A mobile home partially submerged in floodwater beside a road, with a police patrol car and uniformed officers standing nearby, and pickup trucks parked along the street."
 geo:
 id: 23298
 item_type: Still Image

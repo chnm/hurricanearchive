@@ -21,6 +21,8 @@ files:
     original_filename: 34.jpg
     thumb: /files/thumbnails/14fb2a605edbbc14fb2a605edf99.jpg
     url: /files/original/14fb2a605edbbc14fb2a605edf99.jpg
+    alt:
+      en: "Handwritten blue-ink narrative describing Hurricane Katrina's destruction and harsh treatment at the Superdome, accompanied by a simple black-ink sketch labeled \"Super Dome,\" signed \"Bienda.\""
 geo:
 id: 2737
 item_type: Still Image

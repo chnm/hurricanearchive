@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-21-19A.jpg
     thumb: /files/thumbnails/14fb29e8b48e0314fb29e8b491c2.jpg
     url: /files/original/14fb29e8b48e0314fb29e8b491c2.jpg
+    alt:
+      en: "Large curved domed stadium beside a parking lot with police vehicles, emergency trucks, and orange medical helicopters, with a city skyline in the background."
 geo:
 id: 24327
 item_type: Still Image

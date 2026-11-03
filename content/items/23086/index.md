@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0096OEP.JPG
     thumb: /files/thumbnails/14fb29f198277f14fb29f1982b5d.jpg
     url: /files/original/14fb29f198277f14fb29f1982b5d.jpg
+    alt:
+      en: "Busy emergency operations center filled with cubicles covered in papers and maps, where civilians and military personnel in camouflage uniforms work and converse near wall-mounted monitors and a Homeland Security Advisory System chart."
 geo:
 id: 23086
 item_type: Still Image

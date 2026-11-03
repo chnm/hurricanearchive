@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0283-9-25.JPG
     thumb: /files/thumbnails/14fb29fdc66ead14fb29fdc6881f.jpg
     url: /files/original/14fb29fdc66ead14fb29fdc6881f.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters submerging a roadway and utility poles, with scattered rooftops, trees, and a guardrail partially visible above the water's surface."
 geo:
 id: 21524
 item_type: Still Image

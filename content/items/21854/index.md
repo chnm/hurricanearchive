@@ -21,6 +21,8 @@ files:
     original_filename: E.P. Nunez Community College2.jpg
     thumb: /files/thumbnails/14fb29fb5e1ced14fb29fb5e20da.jpg
     url: /files/original/14fb29fb5e1ced14fb29fb5e20da.jpg
+    alt:
+      en: "Aerial view of a flooded residential and commercial area, with streets submerged, standing water surrounding buildings and rooftops, and debris scattered amid damaged trees and structures."
 geo:
 id: 21854
 item_type: Still Image

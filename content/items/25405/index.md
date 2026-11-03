@@ -21,6 +21,8 @@ files:
     original_filename: New Orleans from I-10 4superdome.jpg
     thumb: /files/thumbnails/14fb29de2ce73614fb29de2d8328.jpg
     url: /files/original/14fb29de2ce73614fb29de2d8328.jpg
+    alt:
+      en: "Elevated highway with guardrails and light poles in foreground, overlooking the Superdome's domed roof and nearby arena buildings against a clear sky, with city high-rises in the distance."
 geo:
 id: 25405
 item_type: Still Image

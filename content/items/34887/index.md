@@ -20,6 +20,8 @@ files:
     original_filename: 2456720193_d088a74af1.
     thumb: /files/thumbnails/14fb29c8b6137814fb29c8b6175d.jpg
     url: /files/original/14fb29c8b6137814fb29c8b6175d.jpg
+    alt:
+      en: "Construction site with freshly poured dark concrete slab framed by wooden forms, rebar grid nearby, gravel ground, a traffic cone, and yellow \"caution\" tape strung in front of a corrugated metal wall."
 geo:
 id: 34887
 item_type: Still Image

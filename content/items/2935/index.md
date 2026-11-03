@@ -21,6 +21,8 @@ files:
     original_filename: MVC-024S.JPG
     thumb: /files/thumbnails/14fb2a5f8b36ef14fb2a5f8b3ad4.jpg
     url: /files/original/14fb2a5f8b36ef14fb2a5f8b3ad4.jpg
+    alt:
+      en: "Shelving unit holding a large round brass/metal disc, a dark circular plaque with inscribed text, assorted metal canisters, a metal toolbox, and other storage containers."
 geo:
 id: 2935
 item_type: Still Image

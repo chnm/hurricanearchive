@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1010.JPG
     thumb: /files/thumbnails/14fb2a57dae61e14fb2a57daef4b.jpg
     url: /files/original/14fb2a57dae61e14fb2a57daef4b.jpg
+    alt:
+      en: "Wet parking lot and street scene with pickup trucks, trailers, and boats parked near a mid-rise building, a lone uniformed figure standing in the foreground, and city skyline visible in the distance."
 geo:
 id: 4093
 item_type: Still Image

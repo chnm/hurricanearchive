@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DannishDanionGreen_07_38d0222b6f.jpg
     thumb: /files/thumbnails/14fb2a180e333714fb2a180e371e.jpg
     url: /files/original/14fb2a180e333714fb2a180e371e.jpg
+    alt:
+      en: "Aged studio portrait of four children posing together against a mottled dark backdrop, the seated girl in front wearing a visor and glasses while the others stand with hands on her shoulders."
 geo:
 id: 14707
 item_type: Still Image

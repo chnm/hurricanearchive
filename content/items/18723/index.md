@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015alero.JPG
     thumb: /files/thumbnails/14fb2a1560214d14fb2a15602534.jpg
     url: /files/original/14fb2a1560214d14fb2a15602534.jpg
+    alt:
+      en: "Aerial view from a helicopter looking down on a line of vehicles queued along a tree-lined road, with a person walking near the cars and a wooded landscape stretching to the horizon."
 geo:
 id: 18723
 item_type: Still Image

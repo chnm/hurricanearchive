@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0393_aee9d8b011.JPG
     thumb: /files/thumbnails/14fb2a700dba2d14fb2a700dbe13.jpg
     url: /files/original/14fb2a700dba2d14fb2a700dbe13.jpg
+    alt:
+      en: "A marble rolling pin with wooden handles lies broken in two pieces atop a cracked, debris-strewn concrete surface."
 geo:
   address: ''
   lat: 30.3396948489742

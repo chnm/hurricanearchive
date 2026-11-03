@@ -21,6 +21,8 @@ files:
     original_filename: IMG 3922superdome.JPG
     thumb: /files/thumbnails/14fb29de39637814fb29de3981c4.jpg
     url: /files/original/14fb29de39637814fb29de3981c4.jpg
+    alt:
+      en: "Large crowd gathered along an elevated walkway outside a domed stadium, with military personnel, supply crates, fuel cans, and a white tent set up in the foreground parking area."
 geo:
 id: 25398
 item_type: Still Image

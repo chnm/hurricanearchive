@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27970.jpg
     thumb: /files/thumbnails/14fb2a69c0087214fb2a69c00d1d.jpg
     url: /files/original/14fb2a69c0087214fb2a69c00d1d.jpg
+    alt:
+      en: "Four cars covered in dried mud and debris line a curb beneath bare, dirt-coated trees, with a large brick school building in the background showing similar dirty high-water staining."
 geo:
   address: ''
   lat: 0.0

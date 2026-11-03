@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0617f81a14fb2a0617fbff.jpg
     url: /files/original/14fb2a0617f81a14fb2a0617fbff.jpg
+    alt:
+      en: "Livestock trailer with Louisiana plate \"E892401\" sits on a flooded road beside a house and guardrail, with standing water visible in the surrounding yard and fields."
 geo:
 id: 20570
 item_type: Still Image

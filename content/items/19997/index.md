@@ -21,6 +21,8 @@ files:
     original_filename: Picture 094cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bc6209f14fb2a0bc62b58.jpg
     url: /files/original/14fb2a0bc6209f14fb2a0bc62b58.jpg
+    alt:
+      en: "A boat sits stranded atop a damaged low-rise building beside a large warehouse structure, with power lines and poles in the foreground above a grassy embankment."
 geo:
 id: 19997
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 006.jpg
     thumb: /files/thumbnails/14fb2a228b810114fb2a228b84e3.jpg
     url: /files/original/14fb2a228b810114fb2a228b84e3.jpg
+    alt:
+      en: "Large storm-damaged oak trees lean over a debris-strewn street lined with piles of broken wood and wreckage, with parked cars and buildings visible in the background."
 geo:
 id: 11959
 item_type: Still Image

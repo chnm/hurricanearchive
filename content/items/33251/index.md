@@ -23,6 +23,8 @@ files:
     original_filename: 1231398956_a7e71f5593.jpg
     thumb: /files/thumbnails/14fb29cb27220814fb29cb27f182.jpg
     url: /files/original/14fb29cb27220814fb29cb27f182.jpg
+    alt:
+      en: "A two-story white building with a \"LUCKY SUPER MARKET\" sign stands on a street corner, its ground floor wrapped in Tyvek and covered with Lowe's logo tags, with Dunbar's restaurant visible beside it."
 geo:
   address: ''
   lat: 41.8848

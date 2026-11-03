@@ -20,6 +20,8 @@ files:
     original_filename: 12 - Wildair 2_286678eaf7.JPG
     thumb: /files/thumbnails/14fb29c487f8c114fb29c487fcad.jpg
     url: /files/original/14fb29c487f8c114fb29c487fcad.jpg
+    alt:
+      en: "Empty lot with a bare concrete slab foundation overgrown with weeds, flanked by surrounding houses and trees under a hazy sky."
 geo:
   address: ''
   lat: 0.0

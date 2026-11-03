@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2057superdome.JPG
     thumb: /files/thumbnails/14fb29df0ab55914fb29df0abcc0.jpg
     url: /files/original/14fb29df0ab55914fb29df0abcc0.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms assist civilians, including an elderly man and a child, boarding a military aircraft on a wet tarmac, with an elevated highway visible in the background."
 geo:
 id: 25330
 item_type: Still Image

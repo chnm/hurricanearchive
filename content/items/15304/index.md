@@ -21,6 +21,8 @@ files:
     original_filename: CHenderson-4_691b6f160e.jpg
     thumb: /files/thumbnails/14fb2a16a3a13e14fb2a16a3a63a.jpg
     url: /files/original/14fb2a16a3a13e14fb2a16a3a63a.jpg
+    alt:
+      en: "A woman and young boy pose for a photo with a person in a Peter Rabbit costume, set against a Peter Rabbit storybook-themed backdrop with text visible in the background."
 geo:
 id: 15304
 item_type: Still Image

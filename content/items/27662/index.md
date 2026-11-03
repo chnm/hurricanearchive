@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6485_e1380514ad.JPG
     thumb: /files/thumbnails/14fb29d3409e8314fb29d340a269.jpg
     url: /files/original/14fb29d3409e8314fb29d340a269.jpg
+    alt:
+      en: "Family members play in a paved backyard outside a house, with a man reaching to catch a football, a woman crouched on steps, and two boys facing each other near a third child running with the ball."
 geo:
   address: ''
   lat: 29.84064

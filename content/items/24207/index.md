@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29e9bb916f14fb29e9bb9555.jpg
     url: /files/original/14fb29e9bb916f14fb29e9bb9555.jpg
+    alt:
+      en: "Large uprooted tree lies on its side in a grassy field, its massive root ball exposed, with bare, storm-damaged branches spread across the ground near a parking lot and buildings."
 geo:
 id: 24207
 item_type: Still Image

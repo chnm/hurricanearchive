@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0045-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0597e21714fb2a0597e5fd.jpg
     url: /files/original/14fb2a0597e21714fb2a0597e5fd.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with damaged buildings, rusted metal roofs, scattered debris, a small truck, and surrounding marshland submerged in brown floodwater."
 geo:
 id: 20624
 item_type: Still Image

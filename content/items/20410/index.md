@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011H.JPG
     thumb: /files/thumbnails/14fb2a07e5b13614fb2a07e5b51a.jpg
     url: /files/original/14fb2a07e5b13614fb2a07e5b51a.jpg
+    alt:
+      en: "Two women in Hooters uniforms and a man in an orange Oklahoma t-shirt play air hockey together in a dimly lit room."
 geo:
 id: 20410
 item_type: Still Image

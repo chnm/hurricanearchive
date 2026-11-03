@@ -21,6 +21,8 @@ files:
     original_filename: aerials97.jpg
     thumb: /files/thumbnails/14fb2a19597cca14fb2a195980db.jpg
     url: /files/original/14fb2a19597cca14fb2a195980db.jpg
+    alt:
+      en: "Aerial view of a house with storm-damaged roof sections surrounded by a debris field, snapped trees, and scattered wreckage from a wind-cleared swath through the surrounding forest."
 geo:
 id: 14388
 item_type: Still Image

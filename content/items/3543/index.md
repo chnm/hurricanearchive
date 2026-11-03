@@ -24,6 +24,8 @@ files:
     original_filename: P1010118.JPG
     thumb: /files/thumbnails/14fb2a5ae90fd514fb2a5ae913bb.jpg
     url: /files/original/14fb2a5ae90fd514fb2a5ae913bb.jpg
+    alt:
+      en: "Tree-lined street with storm-damaged, partially defoliated branches arching over the road; debris piles and a dump truck line the curb, with a \"No Parking Bus Zone\" sign on the right."
 geo:
 id: 3543
 item_type: Still Image

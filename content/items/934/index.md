@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28310.jpg
     thumb: /files/thumbnails/14fb2a6c1ba63714fb2a6c1baa1c.jpg
     url: /files/original/14fb2a6c1ba63714fb2a6c1baa1c.jpg
+    alt:
+      en: "Storm-damaged building with exposed yellow insulation and twisted metal roofing, surrounded by scattered debris and bare, wind-stripped trees under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

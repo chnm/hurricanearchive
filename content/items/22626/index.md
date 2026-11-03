@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0590Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f501258b14fb29f5012971.jpg
     url: /files/original/14fb29f501258b14fb29f5012971.jpg
+    alt:
+      en: "A military officer in camouflage uniform stands beside floodwaters, with a two-story brick building featuring a columned porch and balcony partially submerged in the background, surrounded by storm-damaged trees."
 geo:
 id: 22626
 item_type: Still Image

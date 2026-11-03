@@ -26,6 +26,8 @@ files:
     original_filename: forkedislandbridgenw_86ecd535cf.jpg
     thumb: /files/thumbnails/14fb2a57376cad14fb2a57377093.jpg
     url: /files/original/14fb2a57376cad14fb2a57377093.jpg
+    alt:
+      en: "View from Forked Island Bridge showing extensive floodwaters covering fields beyond a treeline along the Intercoastal Waterway, under an overcast sky with distant buildings and power lines visible."
 geo:
   address: ''
   lat: 29.83111

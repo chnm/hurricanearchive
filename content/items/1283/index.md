@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27953.jpg
     thumb: /files/thumbnails/14fb2a69d802b914fb2a69d8069f.jpg
     url: /files/original/14fb2a69d802b914fb2a69d8069f.jpg
+    alt:
+      en: "Exterior of the New Orleans Superdome's curved metal roof and concrete base, with a white tanker truck, red dumpster, and wooden sawhorse-style bench on the pavement below."
 geo:
   address: ''
   lat: 0.0

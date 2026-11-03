@@ -21,6 +21,8 @@ files:
     original_filename: GBuckley-6201_e3258e29c2.jpg
     thumb: /files/thumbnails/14fb2a16b8e78114fb2a16b8ef1c.jpg
     url: /files/original/14fb2a16b8e78114fb2a16b8ef1c.jpg
+    alt:
+      en: "Black-and-white photo of an elderly woman with curly gray hair and glasses, seated in a wicker chair wearing a dark dress, with a hat resting on a mantel behind her."
 geo:
 id: 15178
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0155abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef22786c14fb29ef227c50.jpg
     url: /files/original/14fb29ef22786c14fb29ef227c50.jpg
+    alt:
+      en: "Large bare tree with scattered dead leaves stands amid debris-strewn, muddy ground in front of a red brick building and a church with a steeple, with a damaged metal sheet leaning against the tree trunk."
 geo:
 id: 23519
 item_type: Still Image

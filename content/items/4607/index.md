@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0033.JPG
     thumb: /files/thumbnails/14fb2a56c3b2ea14fb2a56c3b6cc.jpg
     url: /files/original/14fb2a56c3b2ea14fb2a56c3b6cc.jpg
+    alt:
+      en: "Storm-damaged brick house with a single-car garage door dented inward, surrounded by downed tree limbs, scattered storm debris, and trash covering the driveway and yard."
 geo:
 id: 4607
 item_type: Still Image

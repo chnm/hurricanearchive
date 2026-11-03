@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1242Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6a9f50c14fb29f6a9fb59.jpg
     url: /files/original/14fb29f6a9f50c14fb29f6a9fb59.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather in an office room with desks, computer monitors, and wall clocks, with a door marked \"208\" and a \"Restricted Area Warning\" sign in the background."
 geo:
 id: 22410
 item_type: Still Image

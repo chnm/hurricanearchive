@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7654.JPG
     thumb: /files/thumbnails/14fb29cc89f59114fb29cc89f96f.jpg
     url: /files/original/14fb29cc89f59114fb29cc89f96f.jpg
+    alt:
+      en: "A gravel road lined with tall pine trees and piles of storm debris, with a silver minivan (license plate LVZ-583) parked along the roadside amid cleared fallen branches."
 geo:
 id: 30773
 item_type: Still Image

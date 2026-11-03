@@ -21,6 +21,8 @@ files:
     original_filename: geraldos crew.jpg
     thumb: /files/thumbnails/14fb2a1e9955e614fb2a1e995986.jpg
     url: /files/original/14fb2a1e9955e614fb2a1e995986.jpg
+    alt:
+      en: "A white \"CCI\" news van with a satellite dish and a black pickup truck are parked outside a two-story brick building with a covered walkway, as people unload equipment in the rain."
 geo:
 id: 13251
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 96.jpg
     thumb: /files/thumbnails/14fb2a6002141f14fb2a60021804.jpg
     url: /files/original/14fb2a6002141f14fb2a60021804.jpg
+    alt:
+      en: "Child's marker drawing with \"Tyeisha, 10 year old\" written at top; a large heart striped in rainbow colors pierced by an arrow, plus two smaller hearts split in half—one blue and red, one orange and purple."
 geo:
 id: 2804
 item_type: Still Image

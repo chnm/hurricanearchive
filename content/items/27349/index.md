@@ -23,6 +23,8 @@ files:
     original_filename: 221566275_a975ace33c.jpg
     thumb: /files/thumbnails/14fb29d4286da314fb29d4287a85.jpg
     url: /files/original/14fb29d4286da314fb29d4287a85.jpg
+    alt:
+      en: "Side mirror view of a car reflecting a congested highway packed with vehicles at a standstill, with traffic lights, power lines, and a billboard reading \"World's deadliest office\" visible overhead."
 geo:
   address: ''
   lat: 29.99828

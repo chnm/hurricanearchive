@@ -21,6 +21,8 @@ files:
     original_filename: Picture 269-J2.jpg
     thumb: /files/thumbnails/14fb29faebecec14fb29faebf0a2.jpg
     url: /files/original/14fb29faebecec14fb29faebf0a2.jpg
+    alt:
+      en: "A gray SUV parked on a road beside a concrete flood wall, with a red corrugated hose draining water that rushes across the pavement nearby."
 geo:
 id: 21938
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0077.JPG
     thumb: /files/thumbnails/14fb2a55de207814fb2a55de245e.jpg
     url: /files/original/14fb2a55de207814fb2a55de245e.jpg
+    alt:
+      en: "Debris-strewn lot with scattered trash, broken trees, and a damaged house with a blue tarp roof in the background, under a clear blue sky."
 geo:
 id: 4730
 item_type: Still Image

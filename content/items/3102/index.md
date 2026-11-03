@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (7).JPG
     thumb: /files/thumbnails/14fb2a5e01089514fb2a5e010e68.jpg
     url: /files/original/14fb2a5e01089514fb2a5e010e68.jpg
+    alt:
+      en: "A service member in woodland camouflage uniform and cap walks along a wooden-plank path between rows of connected tan canvas military tents, with trees and a striped tent visible in the background."
 geo:
 id: 3102
 item_type: Still Image

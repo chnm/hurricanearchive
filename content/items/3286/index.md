@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (48).jpg
     thumb: /files/thumbnails/14fb2a5cbb538b14fb2a5cbb576f.jpg
     url: /files/original/14fb2a5cbb538b14fb2a5cbb576f.jpg
+    alt:
+      en: "Debris-strewn lot with several wrecked and overturned vehicles, including an upside-down Chevrolet truck, scattered rubble, and damaged houses visible among trees in the background."
 geo:
 id: 3286
 item_type: Still Image

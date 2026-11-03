@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8583.jpg
     thumb: /files/thumbnails/14fb2a65e19fc414fb2a65e1a3a7.jpg
     url: /files/original/14fb2a65e19fc414fb2a65e1a3a7.jpg
+    alt:
+      en: "Two women walk away from a severely storm-damaged house with plywood-patched walls, a collapsed carport, and debris scattered across the yard; address numbers \"3006\" and \"2993 Ridgeway\" are handwritten on the siding."
 geo:
 id: 2496
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0026tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d73343614fb2a0d73372d.jpg
     url: /files/original/14fb2a0d73343614fb2a0d73372d.jpg
+    alt:
+      en: "Two workers in camouflage pants and hard hats move through a wooden building frame, with rows of plumbing fixtures mounted along one wall and a truck visible through an open doorway."
 geo:
 id: 19840
 item_type: Still Image

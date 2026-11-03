@@ -26,6 +26,8 @@ files:
     original_filename: IMG_1055_6276f5a186.jpg
     thumb: /files/thumbnails/14fb2a6f675cc714fb2a6f6760a6.jpg
     url: /files/original/14fb2a6f675cc714fb2a6f6760a6.jpg
+    alt:
+      en: "A massive pile of storm debris—splintered wood, insulation, and household items—buried against the remains of a house's gable end, under a sky streaked with rippled clouds."
 geo:
   address: ''
   lat: 29.951082

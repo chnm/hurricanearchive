@@ -21,6 +21,8 @@ files:
     original_filename: FH000005-9-23.jpg
     thumb: /files/thumbnails/14fb29fcb9e95f14fb29fcb9ed33.jpg
     url: /files/original/14fb29fcb9e95f14fb29fcb9ed33.jpg
+    alt:
+      en: "Military-style trucks, trailers, and tanker equipment parked behind a chain-link fence in a debris-strewn lot, with a building marked \"FMS #13\" visible in the background."
 geo:
 id: 21665
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2309933075_9290a7d757.
     thumb: /files/thumbnails/14fb29c9a8afe214fb29c9a8b3c1.jpg
     url: /files/original/14fb29c9a8afe214fb29c9a8b3c1.jpg
+    alt:
+      en: "Devastated lakefront property with a storm-stripped palm tree, collapsed pier pilings, and scattered debris on a sand-covered lot, a helicopter visible in the hazy sky above."
 geo:
   address: 237 Debbie Dr.
   lat: 30.22539

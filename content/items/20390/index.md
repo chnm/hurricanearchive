@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0814791c14fb2a08147d72.jpg
     url: /files/original/14fb2a0814791c14fb2a08147d72.jpg
+    alt:
+      en: "Two camouflage military Humvees parked outside a metal warehouse building, one with its hood raised and a cardboard box on the hood, near a sign reading \"Thibodeaux Feeds Inc.\""
 geo:
 id: 20390
 item_type: Still Image

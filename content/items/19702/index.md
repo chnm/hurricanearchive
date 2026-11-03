@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 089cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e3f067014fb2a0e3f0a55.jpg
     url: /files/original/14fb2a0e3f067014fb2a0e3f0a55.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms gather around two military Humvees parked on a debris-strewn street, with one studying a map and others talking, amid storm-damaged trees and houses in the background."
 geo:
 id: 19702
 item_type: Still Image

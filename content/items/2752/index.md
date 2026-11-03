@@ -27,6 +27,8 @@ files:
     original_filename: '&ldquo;house After Katrina'
     thumb: /files/thumbnails/14fb2a6053302e14fb2a60533415.jpg
     url: /files/original/14fb2a6053302e14fb2a60533415.jpg
+    alt:
+      en: "Child's drawing titled \"House after Katrina\" showing a brown house with a cracked window beneath storm clouds with lightning bolts, above wavy blue floodwater lines; signed \"Denisha, 14.\""
 geo:
 id: 2752
 item_type: Still Image

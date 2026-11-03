@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0386.JPG
     thumb: /files/thumbnails/14fb2a544ce71014fb2a544ceafd.jpg
     url: /files/original/14fb2a544ce71014fb2a544ceafd.jpg
+    alt:
+      en: "A damaged residential lot with tall pine trees, a blue sedan parked on a debris-covered driveway, and scattered storm wreckage across the bare yard."
 geo:
 id: 5041
 item_type: Still Image

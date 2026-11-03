@@ -23,6 +23,8 @@ files:
     original_filename: 2297849371_4c5740f8d4.
     thumb: /files/thumbnails/14fb29c809ad1e14fb29c809b0f9.jpg
     url: /files/original/14fb29c809ad1e14fb29c809b0f9.jpg
+    alt:
+      en: "Group of people loading a wooden table into the back of a large moving truck marked \"WERNER,\" with a bicycle nearby and a house and trees in the background."
 geo:
 id: 34982
 item_type: Still Image

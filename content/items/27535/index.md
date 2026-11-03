@@ -24,6 +24,8 @@ files:
     original_filename: 10_5905ca7c83.jpg
     thumb: /files/thumbnails/14fb29d38d532414fb29d38d5bdc.jpg
     url: /files/original/14fb29d38d532414fb29d38d5bdc.jpg
+    alt:
+      en: "Casie James holds a small pumpkin while standing between her two brothers amid piles of pumpkins at an outdoor market stall, with pedestrians and buildings visible in the background."
 geo:
   address: ''
   lat: 29.80252

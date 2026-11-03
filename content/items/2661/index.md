@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9235.jpg
     thumb: /files/thumbnails/14fb2a6130676314fb2a61306b43.jpg
     url: /files/original/14fb2a6130676314fb2a61306b43.jpg
+    alt:
+      en: "Rows of red auditorium seats buried under piles of broken cinder blocks and debris beneath a partially collapsed roof, with a \"Family Dollar\" sign visible across the street."
 geo:
 id: 2661
 item_type: Still Image

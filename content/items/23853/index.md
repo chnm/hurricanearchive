@@ -21,6 +21,8 @@ files:
     original_filename: S4300192stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecce409914fb29ecce447f.jpg
     url: /files/original/14fb29ecce409914fb29ecce447f.jpg
+    alt:
+      en: "Large boat hull wedged against a tree trunk in front of a house, with a brick building, green trash bin, and small table visible nearby, illustrating storm-surge debris displacement."
 geo:
 id: 23853
 item_type: Still Image

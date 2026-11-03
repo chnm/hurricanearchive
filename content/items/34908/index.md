@@ -20,6 +20,8 @@ files:
     original_filename: 2457529334_e7eda15f93.
     thumb: /files/thumbnails/14fb29c88b427314fb29c88b4657.jpg
     url: /files/original/14fb29c88b427314fb29c88b4657.jpg
+    alt:
+      en: "Two excavators work along a riverbank, one scooping soil and rock from an embankment, with dense trees lining the far shore and murky water flowing in the foreground."
 geo:
 id: 34908
 item_type: Still Image

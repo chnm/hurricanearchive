@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2098superdome.JPG
     thumb: /files/thumbnails/14fb29de97f04c14fb29de97f423.jpg
     url: /files/original/14fb29de97f04c14fb29de97f423.jpg
+    alt:
+      en: "Camouflage-clad shoulder in foreground with a large military helicopter parked on a wet tarmac, set against a backdrop of tall city buildings under an overcast sky."
 geo:
 id: 25373
 item_type: Still Image

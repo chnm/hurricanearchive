@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-01-00A.jpg
     thumb: /files/thumbnails/14fb29e911433d14fb29e9114afd.jpg
     url: /files/original/14fb29e911433d14fb29e9114afd.jpg
+    alt:
+      en: "Elevated highway overpass crowded with numerous people standing along the roadway, viewed from behind palm fronds and a concrete pillar in the foreground, with cars passing beneath under a cloudy sky."
 geo:
 id: 24281
 item_type: Still Image

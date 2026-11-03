@@ -21,6 +21,8 @@ files:
     original_filename: 051207NOLA157RWlg_bde0004651.jpg
     thumb: /files/thumbnails/14fb29cc14ef6414fb29cc14f349.jpg
     url: /files/original/14fb29cc14ef6414fb29cc14f349.jpg
+    alt:
+      en: "Black-and-white photo of pallbearers in dark suits carrying a wooden casket down stone steps outside a building entrance, with mourners following behind."
 geo:
   address: 545 Saint Charles Ave
   lat: 29.9489

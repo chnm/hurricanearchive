@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28582.jpg
     thumb: /files/thumbnails/14fb2a6cf8bc2e14fb2a6cf8bfb1.jpg
     url: /files/original/14fb2a6cf8bc2e14fb2a6cf8bfb1.jpg
+    alt:
+      en: "A fallen street sign pole lies in the dirt, with intersecting blue signs reading \"Lakeshore Dr.\" and \"Robert E. Lee Blvd.\""
 geo:
   address: ''
   lat: 0.0

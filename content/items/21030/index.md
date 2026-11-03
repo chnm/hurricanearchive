@@ -21,6 +21,8 @@ files:
     original_filename: BH 1.jpg
     thumb: /files/thumbnails/14fb2a0104046014fb2a0104084e.jpg
     url: /files/original/14fb2a0104046014fb2a0104084e.jpg
+    alt:
+      en: "A United States Army Black Hawk helicopter, marked \"994,\" sits on a tarmac with rotors spinning as a uniformed crew member walks toward the open side door."
 geo:
 id: 21030
 item_type: Still Image

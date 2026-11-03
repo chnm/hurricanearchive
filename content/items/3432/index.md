@@ -24,6 +24,8 @@ files:
     original_filename: MS1.JPG
     thumb: /files/thumbnails/14fb2a5bc59a5914fb2a5bc59e3f.jpg
     url: /files/original/14fb2a5bc59a5914fb2a5bc59e3f.jpg
+    alt:
+      en: "A man sits on the hood of a damaged car amid widespread storm debris, with splintered wood, a wrecked vehicle, and stripped trees scattered across the devastated landscape."
 geo:
 id: 3432
 item_type: Still Image

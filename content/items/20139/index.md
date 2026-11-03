@@ -21,6 +21,8 @@ files:
     original_filename: Picture 236cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b13643e14fb2a0b136835.jpg
     url: /files/original/14fb2a0b13643e14fb2a0b136835.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and a cap stands beside military Humvees on a debris-strewn street, with bare, storm-damaged trees and houses visible in the background."
 geo:
 id: 20139
 item_type: Still Image

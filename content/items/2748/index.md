@@ -21,6 +21,8 @@ files:
     original_filename: 44.jpg
     thumb: /files/thumbnails/14fb2a605589a114fb2a60558d7d.jpg
     url: /files/original/14fb2a605589a114fb2a60558d7d.jpg
+    alt:
+      en: "Child's crayon drawing of a sunny landscape with a tree and house on dry land next to floodwaters where a car floats; text reads \"Hurricane Katrina took away everty from New Orleans,\" by Iriane, age 10."
 geo:
 id: 2748
 item_type: Still Image

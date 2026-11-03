@@ -23,6 +23,8 @@ files:
     original_filename: 162495535_8f113c1343.jpg
     thumb: /files/thumbnails/14fb29d23412d814fb29d23416be.jpg
     url: /files/original/14fb29d23412d814fb29d23416be.jpg
+    alt:
+      en: "Damaged brick house porch with broken, debris-covered metal and cane chairs, shattered multi-pane window, and an open white front door, all showing storm damage and rubble."
 geo:
 id: 28591
 item_type: Still Image

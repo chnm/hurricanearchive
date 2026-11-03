@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6943_6fd1ce18b2.jpg
     thumb: /files/thumbnails/14fb29db8c656514fb29db8c694a.jpg
     url: /files/original/14fb29db8c656514fb29db8c694a.jpg
+    alt:
+      en: "Large crowd gathered for a groundbreaking ceremony, with a flag-draped platform, wooden fencing, and houses in the background; handwritten caption reads \"Breaking of the ground for the new Corpus Christi School, May 12, 1918.\""
 geo:
   address: ''
   lat: 29.91685

@@ -21,6 +21,8 @@ files:
     original_filename: dawn windy.jpg
     thumb: /files/thumbnails/14fb2a2086745f14fb2a2086797c.jpg
     url: /files/original/14fb2a2086745f14fb2a2086797c.jpg
+    alt:
+      en: "Heavy wind-driven rain streaks across a brick courtyard with red potted plants, trees bending in the storm, and a decorative wheel sculpture visible on the left."
 geo:
 id: 13086
 item_type: Still Image

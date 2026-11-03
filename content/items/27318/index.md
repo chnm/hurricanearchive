@@ -23,6 +23,8 @@ files:
     original_filename: 336696736_c06254ae1d.jpg
     thumb: /files/thumbnails/14fb29d510d83b14fb29d510dc9c.jpg
     url: /files/original/14fb29d510d83b14fb29d510dc9c.jpg
+    alt:
+      en: "Storm debris including fallen trees, scattered lumber, and a leaning utility pole line a damaged street, with a dented car and truck parked amid the wreckage."
 geo:
 id: 27318
 item_type: Still Image

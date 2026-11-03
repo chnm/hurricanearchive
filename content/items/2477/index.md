@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8545.jpg
     thumb: /files/thumbnails/14fb2a661c464e14fb2a661c4a32.jpg
     url: /files/original/14fb2a661c464e14fb2a661c4a32.jpg
+    alt:
+      en: "Utility worker in a bucket truck repairs power lines above a storm-damaged blue house, with a boat stranded in debris and a fallen tree nearby, Slidell, Louisiana, November 2005."
 geo:
 id: 2477
 item_type: Still Image

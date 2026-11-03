@@ -23,6 +23,8 @@ files:
     original_filename: 160511178_769c1c3bc6.jpg
     thumb: /files/thumbnails/14fb29d219a76114fb29d219b613.jpg
     url: /files/original/14fb29d219a76114fb29d219b613.jpg
+    alt:
+      en: "Damaged house with collapsed roof and siding torn away, spray-painted with \"GPS\" and \"129,\" a window air conditioner, broken windows, and overgrown grass in the foreground."
 geo:
 id: 28619
 item_type: Still Image

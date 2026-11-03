@@ -23,6 +23,8 @@ files:
     original_filename: Wingate rebuilt4_d0da890d48.jpg
     thumb: /files/thumbnails/14fb29c28abef714fb29c28ac849.jpg
     url: /files/original/14fb29c28abef714fb29c28ac849.jpg
+    alt:
+      en: "A street view from inside a vehicle showing a residential neighborhood with a vacant lot, a raised house with exterior stairs, utility poles, and a trash bin along the curb under a partly cloudy sky."
 geo:
   address: 5769 Wingate Drive
   lat: 0.0

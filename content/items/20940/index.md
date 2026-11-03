@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0153-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a01685df914fb2a016861de.jpg
     url: /files/original/14fb2a01685df914fb2a016861de.jpg
+    alt:
+      en: "Collapsed building reduced to a pile of twisted metal roofing, splintered wood, and debris beside a road, with bare trees, utility poles, and standing floodwater visible in the background under an overcast sky."
 geo:
 id: 20940
 item_type: Still Image

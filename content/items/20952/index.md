@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0155-21.JPG
     thumb: /files/thumbnails/14fb2a0158693214fb2a01586edb.jpg
     url: /files/original/14fb2a0158693214fb2a01586edb.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms lean toward a vehicle window, one with a nametag reading \"RAYL\" and the other with a \"U.S. ARMY\" patch, seen from inside the car."
 geo:
 id: 20952
 item_type: Still Image

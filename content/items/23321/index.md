@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eff7cb7214fb29eff7cf58.jpg
     url: /files/original/14fb29eff7cb7214fb29eff7cf58.jpg
+    alt:
+      en: "Flooded roadway with pickup trucks driving through high water, viewed past a large vehicle's side mirror reflecting a person's face, with partially submerged trees lining the road."
 geo:
 id: 23321
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 336696193_2ae8ac0eca.jpg
     thumb: /files/thumbnails/14fb29d51a840d14fb29d51a8c1d.jpg
     url: /files/original/14fb29d51a840d14fb29d51a8c1d.jpg
+    alt:
+      en: "Damaged single-story house with boarded and broken windows, a torn screen door, and faded red spray-painted markings on the siding, surrounded by overgrown weeds and a gravel lot."
 geo:
 id: 27314
 item_type: Still Image

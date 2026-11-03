@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0117-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e69ecb2514fb29e69f4058.jpg
     url: /files/original/14fb29e69ecb2514fb29e69f4058.jpg
+    alt:
+      en: "Aerial view of floodwater covering a landscape, with scattered patches of vegetation, submerged trees, and faint linear structures visible beneath the water's surface."
 geo:
 id: 24563
 item_type: Still Image

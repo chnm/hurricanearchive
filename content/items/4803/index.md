@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0116.JPG
     thumb: /files/thumbnails/14fb2a555ee05b14fb2a555ee439.jpg
     url: /files/original/14fb2a555ee05b14fb2a555ee439.jpg
+    alt:
+      en: "Collapsed roof and scattered debris from a destroyed structure lie among pine trees, with a snapped tree trunk bent over the wreckage and dead, browned foliage surrounding the site."
 geo:
 id: 4803
 item_type: Still Image

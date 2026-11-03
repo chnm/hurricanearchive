@@ -21,6 +21,8 @@ files:
     original_filename: Picture 014cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c70afa814fb2a0c70c72a.jpg
     url: /files/original/14fb2a0c70afa814fb2a0c70c72a.jpg
+    alt:
+      en: "Blurred, motion-captured photo of a grassy slope with a young tree, stone retaining wall, parked dark van, and houses in the background."
 geo:
 id: 19918
 item_type: Still Image

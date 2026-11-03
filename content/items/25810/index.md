@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-5822_ca299d6ab1.jpg
     thumb: /files/thumbnails/14fb29dc107c4614fb29dc10802b.jpg
     url: /files/original/14fb29dc107c4614fb29dc10802b.jpg
+    alt:
+      en: "Thatched palm-frond hut with a dark doorway, a galvanized metal tub labeled \"Poor Man's Bath Tub\" out front, and a washboard set in another tub beside a \"Souvenir\" sign."
 geo:
 id: 25810
 item_type: Still Image

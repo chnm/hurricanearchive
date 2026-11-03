@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1879.JPG
     thumb: /files/thumbnails/14fb2a00bf140314fb2a00bf1926.jpg
     url: /files/original/14fb2a00bf140314fb2a00bf1926.jpg
+    alt:
+      en: "Aerial view of a twin-rotor military helicopter landed on a grassy, circular median near a highway overpass, with a few people standing nearby and a \"Causeway Blvd South\" exit sign visible on the road above."
 geo:
 id: 21060
 item_type: Still Image

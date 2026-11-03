@@ -21,6 +21,8 @@ files:
     original_filename: before blue sky2.jpg
     thumb: /files/thumbnails/14fb2a2101975714fb2a21019b3d.jpg
     url: /files/original/14fb2a2101975714fb2a21019b3d.jpg
+    alt:
+      en: "Sideways photo (taken from a vehicle) of a two-lane highway lined with trees under a blue sky with scattered clouds, with a few cars traveling on the road."
 geo:
 id: 13027
 item_type: Still Image

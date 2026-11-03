@@ -21,6 +21,8 @@ files:
     original_filename: crowd1_070b5d09b0.jpg
     thumb: /files/thumbnails/14fb29d9fc28ce14fb29d9fc2b57.jpg
     url: /files/original/14fb29d9fc28ce14fb29d9fc2b57.jpg
+    alt:
+      en: "Crowd of attendees gathers in a banquet hall decorated with balloons and chandeliers, browsing tables set up along the walls at the Taste of St. Bernard event."
 geo:
 id: 26158
 item_type: Still Image

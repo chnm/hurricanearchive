@@ -20,6 +20,8 @@ files:
     original_filename: pt_bar_dorm_a5ac22fc8d.jpg
     thumb: /files/thumbnails/14fb29d590ca6414fb29d590ce53.jpg
     url: /files/original/14fb29d590ca6414fb29d590ce53.jpg
+    alt:
+      en: "Storm-damaged elevated white house with exposed exterior stairs, boarded windows, and debris-strewn yard; a neighboring damaged building and bare trees stand nearby under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

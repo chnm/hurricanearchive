@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1367Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5a4959714fb29f5a498c9.jpg
     url: /files/original/14fb29f5a4959714fb29f5a498c9.jpg
+    alt:
+      en: "Floodwater submerges a street lamp and surrounds buildings, with a cupola-topped roof and utility poles visible under a heavily overcast sky."
 geo:
 id: 22526
 item_type: Still Image

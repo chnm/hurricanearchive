@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (58).JPG
     thumb: /files/thumbnails/14fb2a5d5997db14fb2a5d599bc2.jpg
     url: /files/original/14fb2a5d5997db14fb2a5d599bc2.jpg
+    alt:
+      en: "Industrial warehouse buildings with damaged roofing, surrounded by chain-link fencing and utility poles, viewed from a roadway with a concrete barrier in the foreground."
 geo:
 id: 3209
 item_type: Still Image

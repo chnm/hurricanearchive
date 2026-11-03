@@ -20,6 +20,8 @@ files:
     original_filename: 1282485162_beecdbfbda.jpg
     thumb: /files/thumbnails/14fb29cb8de1aa14fb29cb8de587.jpg
     url: /files/original/14fb29cb8de1aa14fb29cb8de587.jpg
+    alt:
+      en: "Large debris pile of scrap metal, cardboard, and demolition waste with an excavator claw arm positioned above it, surrounded by overgrown grass, utility poles, trees, and a house in the background."
 geo:
 id: 33207
 item_type: Still Image

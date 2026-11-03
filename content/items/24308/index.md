@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-01-00A.jpg
     thumb: /files/thumbnails/14fb29e8ca873214fb29e8ca8b18.jpg
     url: /files/original/14fb29e8ca873214fb29e8ca8b18.jpg
+    alt:
+      en: "Aerial view of a university campus featuring a large football stadium labeled \"LSU,\" a round domed arena, academic buildings, and surrounding trees and roads, photographed from an aircraft window."
 geo:
 id: 24308
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea23afc214fb29ea23b39f.jpg
     url: /files/original/14fb29ea23afc214fb29ea23b39f.jpg
+    alt:
+      en: "Military vehicle's side mirror and railing frame a view of a flooded two-lane road with a yellow center line, trees lining one side, and an oncoming car in the distance."
 geo:
 id: 24168
 item_type: Still Image

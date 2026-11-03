@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28549.jpg
     thumb: /files/thumbnails/14fb2a6cfa1b5014fb2a6cfa1f6b.jpg
     url: /files/original/14fb2a6cfa1b5014fb2a6cfa1f6b.jpg
+    alt:
+      en: "Flooded underpass beneath a concrete overpass, with two vehicles partially submerged in standing water, photographed from inside a car with its side mirror visible in the foreground."
 geo:
   address: ''
   lat: 0.0

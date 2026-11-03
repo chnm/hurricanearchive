@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0186-21.JPG
     thumb: /files/thumbnails/14fb2a0058374714fb2a00583b2f.jpg
     url: /files/original/14fb2a0058374714fb2a00583b2f.jpg
+    alt:
+      en: "A group of people, including a soldier in camouflage with an American flag patch and a woman holding a notepad, stand talking outside a red building with tan doors."
 geo:
 id: 21148
 item_type: Still Image

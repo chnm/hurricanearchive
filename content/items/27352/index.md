@@ -23,6 +23,8 @@ files:
     original_filename: 209499878_ad05bc1724.
     thumb: /files/thumbnails/14fb29d4221d6714fb29d422220b.jpg
     url: /files/original/14fb29d4221d6714fb29d422220b.jpg
+    alt:
+      en: "A small boat sits stranded on dry land, surrounded by tall grass and weeds, with a windshield and seating visible, trees lining the horizon under a cloudy sky."
 geo:
   address: ''
   lat: 29.87176

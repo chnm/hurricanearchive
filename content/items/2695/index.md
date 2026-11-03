@@ -21,6 +21,8 @@ files:
     original_filename: 119.jpg
     thumb: /files/thumbnails/14fb2a60817bbd14fb2a60817f9b.jpg
     url: /files/original/14fb2a60817bbd14fb2a60817f9b.jpg
+    alt:
+      en: "Child's drawing of a hurricane/tornado funnel with clouds, rain, and swirling wind lines above wavy ocean and land lines, captioned \"Katrina Kid's Art\" and signed \"La'Trell.\""
 geo:
 id: 2695
 item_type: Still Image

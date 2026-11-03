@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0757.JPG
     thumb: /files/thumbnails/14fb2a57039f4614fb2a5703a32b.jpg
     url: /files/original/14fb2a57039f4614fb2a5703a32b.jpg
+    alt:
+      en: "Storm-damaged property with only wooden framing and white fencing left standing amid two tall pine trees, scattered debris, and a battered palm tree under a partly cloudy sky."
 geo:
 id: 4555
 item_type: Still Image

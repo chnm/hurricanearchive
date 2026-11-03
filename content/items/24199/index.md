@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29e9d6b5cc14fb29e9d6b9ad.jpg
     url: /files/original/14fb29e9d6b5cc14fb29e9d6b9ad.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters covering flat terrain, with faint tree lines on the horizon and small patches of vegetation or debris breaking the water's surface."
 geo:
 id: 24199
 item_type: Still Image

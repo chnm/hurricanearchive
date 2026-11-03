@@ -21,6 +21,8 @@ files:
     original_filename: P1010002delaware.JPG
     thumb: /files/thumbnails/14fb29f12e740b14fb29f12e77f0.jpg
     url: /files/original/14fb29f12e740b14fb29f12e77f0.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms sit at a table with a computer monitor and storage bins labeled \"Label Other End,\" one reviewing paperwork; a folding chair in the foreground reads \"150TH.\""
 geo:
 id: 23182
 item_type: Still Image

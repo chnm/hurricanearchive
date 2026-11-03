@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1332Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5ee7eb814fb29f5ee829a.jpg
     url: /files/original/14fb29f5ee7eb814fb29f5ee829a.jpg
+    alt:
+      en: "Floodwater submerges a residential area up to rooftop level, with trees and a partially visible house roof emerging from the water under an overcast, stormy sky."
 geo:
 id: 22491
 item_type: Still Image

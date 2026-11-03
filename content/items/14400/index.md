@@ -21,6 +21,8 @@ files:
     original_filename: slide18.jpg
     thumb: /files/thumbnails/14fb2a19437cfa14fb2a19437f56.jpg
     url: /files/original/14fb2a19437cfa14fb2a19437f56.jpg
+    alt:
+      en: "Storm-damaged yard with fallen tree limbs and debris surrounding a lawnmower, with a handwritten sign reading \"102 LEOPOLD, THE THORPS WERE HERE, 713-464-7151\" attached to a tree trunk."
 geo:
 id: 14400
 item_type: Still Image

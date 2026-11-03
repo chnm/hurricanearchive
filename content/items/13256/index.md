@@ -21,6 +21,8 @@ files:
     original_filename: levee dock.jpg
     thumb: /files/thumbnails/14fb2a1e933b7a14fb2a1e933f5f.jpg
     url: /files/original/14fb2a1e933b7a14fb2a1e933f5f.jpg
+    alt:
+      en: "A metal dock structure with a dark cylindrical piling stands in floodwater, with a distant shoreline lined by trees, buildings, and utility poles under an overcast sky."
 geo:
 id: 13256
 item_type: Still Image

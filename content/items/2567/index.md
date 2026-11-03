@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9056.jpg
     thumb: /files/thumbnails/14fb2a652b929014fb2a652b9674.jpg
     url: /files/original/14fb2a652b929014fb2a652b9674.jpg
+    alt:
+      en: "Heavily damaged two-story house with collapsed roof, caved-in walls, and scattered debris covering the yard, including a staircase and porch railing knocked askew; spray-painted \"424\" search marking visible on the fallen roof section."
 geo:
 id: 2567
 item_type: Still Image

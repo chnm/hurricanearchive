@@ -21,6 +21,8 @@ files:
     original_filename: 112306NOLA134RWlg_4bc2cfcffd.jpg
     thumb: /files/thumbnails/14fb29cc2a54ea14fb29cc2a58c9.jpg
     url: /files/original/14fb29cc2a54ea14fb29cc2a58c9.jpg
+    alt:
+      en: "Black-and-white photo of two riders on horseback silhouetted against the sky at a racetrack, with a rail fence and grandstand lights visible in the background."
 geo:
 id: 31587
 item_type: Still Image

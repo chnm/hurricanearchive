@@ -21,6 +21,8 @@ files:
     original_filename: 20050928055.JPG
     thumb: /files/thumbnails/14fb2a1c05d6e314fb2a1c05d970.jpg
     url: /files/original/14fb2a1c05d6e314fb2a1c05d970.jpg
+    alt:
+      en: "A group of military personnel in camouflage and desert fatigues gather around a sheet of paper held by one man, standing in a gymnasium with a partially visible banner reading \"JAC\" in the background."
 geo:
   address: ''
   lat: 0.0

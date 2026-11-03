@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8731.jpg
     thumb: /files/thumbnails/14fb2a65bee49114fb2a65bee872.jpg
     url: /files/original/14fb2a65bee49114fb2a65bee872.jpg
+    alt:
+      en: "Men unload crates from a trailer beside a severely storm-damaged house with a collapsed, tilted roof, a shrimp boat and fishing nets in the foreground, Delacroix, Louisiana, November 2005."
 geo:
 id: 2524
 item_type: Still Image

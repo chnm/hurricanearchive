@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1198Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6ee7cf514fb29f6ee821a.jpg
     url: /files/original/14fb29f6ee7cf514fb29f6ee821a.jpg
+    alt:
+      en: "Nighttime flood scene with a person in an orange life vest wading through dark water while holding a cardboard box labeled \"V2,\" as two people on a boat nearby look on."
 geo:
 id: 22376
 item_type: Still Image

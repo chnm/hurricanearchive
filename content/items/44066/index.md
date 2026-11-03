@@ -20,6 +20,8 @@ files:
     original_filename: Hurricane Photo 1_29ff8f6e33.jpg
     thumb: /files/thumbnails/14fb29c1d6d3ac14fb29c1d6d788.jpg
     url: /files/original/14fb29c1d6d3ac14fb29c1d6d788.jpg
+    alt:
+      en: "Pile of flood-damaged furniture and belongings on a lawn in front of a brick house, including a \"State Farm\" sign and wooden crates spray-painted \"Katrina Was Here.\""
 geo:
   address: 4609 Lake Como
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0659.JPG
     thumb: /files/thumbnails/14fb2a5360260114fb2a53602a39.jpg
     url: /files/original/14fb2a5360260114fb2a53602a39.jpg
+    alt:
+      en: "Collapsed cinder block structure with its roof torn off, surrounded by scattered wooden debris, broken boards, and insulation, set against a backdrop of trees and a wooden deck."
 geo:
 id: 5214
 item_type: Still Image

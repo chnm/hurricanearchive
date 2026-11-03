@@ -24,6 +24,8 @@ files:
     original_filename: mary_770090eda9.jpg
     thumb: /files/thumbnails/14fb2a220ca88214fb2a220cac68.jpg
     url: /files/original/14fb2a220ca88214fb2a220cac68.jpg
+    alt:
+      en: "A woman sits on a concrete step beside a railing, resting her arm on a dark bag, wearing a patterned short-sleeve shirt and light skirt with sandals."
 geo:
 id: 12539
 item_type: Still Image

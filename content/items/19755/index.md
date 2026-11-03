@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 142cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e002db414fb2a0e00319a.jpg
     url: /files/original/14fb2a0e002db414fb2a0e00319a.jpg
+    alt:
+      en: "Photo taken through a car windshield shows a large fallen tree limb resting on parked vehicles, including a Ford pickup truck, with a columned building visible in the background."
 geo:
 id: 19755
 item_type: Still Image

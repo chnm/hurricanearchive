@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00117 DSC00117cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5be8d0114fb29e5be90d6.jpg
     url: /files/original/14fb29e5be8d0114fb29e5be90d6.jpg
+    alt:
+      en: "A U.S. Army general with the nametag \"Landreneau\" speaks with men in uniform and casual clothing outdoors near portable toilets, a water tank, and bare trees, with debris visible in the background."
 geo:
 id: 24667
 item_type: Still Image

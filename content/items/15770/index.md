@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5869_7ce789b8df.jpg
     thumb: /files/thumbnails/14fb2a160a4a9a14fb2a160a4e7f.jpg
     url: /files/original/14fb2a160a4a9a14fb2a160a4e7f.jpg
+    alt:
+      en: "Aged color photo of a white steel boat hull under construction, raised on supports in a wooded yard, with handwritten caption reading \"Boat Building, Built 1981.\""
 geo:
 id: 15770
 item_type: Still Image

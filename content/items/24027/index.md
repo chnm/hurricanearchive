@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-17-15AneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ebb8064514fb29ebb80d65.jpg
     url: /files/original/14fb29ebb8064514fb29ebb80d65.jpg
+    alt:
+      en: "Fallen tree branches and debris cover a roadside, photographed from inside a moving vehicle with its side mirror visible, city buildings seen in the background through the trees."
 geo:
 id: 24027
 item_type: Still Image

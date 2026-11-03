@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea6e99b114fb29ea6ea14e.jpg
     url: /files/original/14fb29ea6e99b114fb29ea6ea14e.jpg
+    alt:
+      en: "Aerial view of a flood-ravaged coastal town with debris-strewn streets, stripped trees, standing floodwater, and storage tanks near a river, showing widespread hurricane damage."
 geo:
 id: 24121
 item_type: Still Image

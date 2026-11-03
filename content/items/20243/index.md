@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140017.JPG
     thumb: /files/thumbnails/14fb2a0a79fc6914fb2a0a7a0065.jpg
     url: /files/original/14fb2a0a79fc6914fb2a0a7a0065.jpg
+    alt:
+      en: "Dark Ford pickup truck with a heavily shattered windshield and debris on the hood, parked near military Humvees and trucks on a grassy area with houses and trees in the background."
 geo:
 id: 20243
 item_type: Still Image

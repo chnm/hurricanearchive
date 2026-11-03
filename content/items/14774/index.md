@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_KaitlinGlapion_05_c4fb696ca9.jpg
     thumb: /files/thumbnails/14fb2a17cee25b14fb2a17cee63f.jpg
     url: /files/original/14fb2a17cee25b14fb2a17cee63f.jpg
+    alt:
+      en: "Four people pose against a brick wall: a woman in a blue shirt, a girl in a white dress with a pearl necklace, an older woman in a plaid blouse, and a younger girl in a blue floral dress."
 geo:
 id: 14774
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d5b733914fb2a0d5b79e8.jpg
     url: /files/original/14fb2a0d5b733914fb2a0d5b79e8.jpg
+    alt:
+      en: "Silhouette of a worker holding a tool, standing on roof framing beams against a partly cloudy sky, viewed from below through the exposed wooden rafters."
 geo:
 id: 19845
 item_type: Still Image

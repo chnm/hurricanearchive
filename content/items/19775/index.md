@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 162cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd9dc6b14fb2a0dd9e05b.jpg
     url: /files/original/14fb2a0dd9dc6b14fb2a0dd9e05b.jpg
+    alt:
+      en: "A man in a white shirt glances back at the camera while a woman carrying two Nikon cameras walks ahead; a cameraman with a shoulder-mounted camera and a soldier in fatigues stand nearby amid parked vehicles."
 geo:
 id: 19775
 item_type: Still Image

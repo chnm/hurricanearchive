@@ -21,6 +21,8 @@ files:
     original_filename: 188 driving.jpg
     thumb: /files/thumbnails/14fb2a1f75276114fb2a1f752f2e.jpg
     url: /files/original/14fb2a1f75276114fb2a1f752f2e.jpg
+    alt:
+      en: "Close-up view from a moving vehicle, showing a wet, dark car body with a white decal edge above churning, splashing floodwater below."
 geo:
 id: 13195
 item_type: Still Image

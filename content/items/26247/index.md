@@ -21,6 +21,8 @@ files:
     original_filename: AB New Orleans 1950s 1_7b149a2e67.jpg
     thumb: /files/thumbnails/14fb29d958864914fb29d9588a0a.jpg
     url: /files/original/14fb29d958864914fb29d9588a0a.jpg
+    alt:
+      en: "Black-and-white photo of a young woman and man standing beside a parked sedan on a city street lined with wooden houses and a cargo truck, labeled \"George + Gaile\" in blue ink above."
 geo:
   address: ''
   lat: 29.95493

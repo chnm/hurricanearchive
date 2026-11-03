@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2163rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d1a95d14fb2a13d1ad47.jpg
     url: /files/original/14fb2a13d1a95d14fb2a13d1ad47.jpg
+    alt:
+      en: "Aerial view from a hovering rescue helicopter showing a crew member's boot on the aircraft's edge, with another helmeted crew member below, overlooking a flooded street and rooftop."
 geo:
 id: 18998
 item_type: Still Image

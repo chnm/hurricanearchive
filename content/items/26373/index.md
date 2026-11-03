@@ -21,6 +21,8 @@ files:
     original_filename: LionelPowell-5833_079faf68d6.jpg
     thumb: /files/thumbnails/14fb29d9207f1f14fb29d9208304.jpg
     url: /files/original/14fb29d9207f1f14fb29d9208304.jpg
+    alt:
+      en: "A heavily weathered and water-damaged photograph of a man in a cream-colored suit, with the text \"From This Day Forward\" overlaid across the deteriorated image."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

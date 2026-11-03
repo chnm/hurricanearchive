@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28506.jpg
     thumb: /files/thumbnails/14fb2a6ccefff614fb2a6ccf0398.jpg
     url: /files/original/14fb2a6ccefff614fb2a6ccf0398.jpg
+    alt:
+      en: "A man wearing a face mask and gloves measures a mold-covered wall near a window with a tape measure, with damaged blinds and curtains visible, likely assessing hurricane damage."
 geo:
   address: ''
   lat: 0.0

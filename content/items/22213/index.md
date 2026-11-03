@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1020Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f914e2bd14fb29f914ee48.jpg
     url: /files/original/14fb29f914e2bd14fb29f914ee48.jpg
+    alt:
+      en: "A military Black Hawk helicopter sits on a landing pad as uniformed personnel load gear nearby, with parked trucks and trees in the background."
 geo:
 id: 22213
 item_type: Still Image

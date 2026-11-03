@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004medics.JPG
     thumb: /files/thumbnails/14fb29e5ff18a914fb29e5ff2325.jpg
     url: /files/original/14fb29e5ff18a914fb29e5ff2325.jpg
+    alt:
+      en: "A uniformed U.S. Army medic wearing latex gloves administers a shoulder injection to a seated man in a brown T-shirt, with an illuminated \"EXIT\" sign visible in the background."
 geo:
 id: 24633
 item_type: Still Image

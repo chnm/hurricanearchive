@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0133rita.JPG
     thumb: /files/thumbnails/14fb2a11a52e2914fb2a11a53210.jpg
     url: /files/original/14fb2a11a52e2914fb2a11a53210.jpg
+    alt:
+      en: "A tree-lined street in front of a large white Southern-style house with columned porches, with a \"Lane Closed Ahead\" sign and orange traffic cones set up near scattered storm debris."
 geo:
 id: 19248
 item_type: Still Image

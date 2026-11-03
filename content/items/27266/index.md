@@ -20,6 +20,8 @@ files:
     original_filename: Remains of Treasure Chest Casino.JPG
     thumb: /files/thumbnails/14fb29d5932f8614fb29d5933362.jpg
     url: /files/original/14fb29d5932f8614fb29d5933362.jpg
+    alt:
+      en: "Viewed through a vehicle window, a foggy scene shows a large grounded vessel surrounded by scaffolding, with wind-bent palm trees and orange construction fencing along a debris-strewn roadside."
 geo:
 id: 27266
 item_type: Still Image

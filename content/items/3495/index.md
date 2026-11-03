@@ -24,6 +24,8 @@ files:
     original_filename: P1010069.JPG
     thumb: /files/thumbnails/14fb2a5b7773f014fb2a5b7777cc.jpg
     url: /files/original/14fb2a5b7773f014fb2a5b7777cc.jpg
+    alt:
+      en: "Dense tangle of dead, leafless tree branches fills the foreground, partially obscuring a damaged house with a tiled roof and a dark, open gap where siding or wall material has been torn away."
 geo:
 id: 3495
 item_type: Still Image

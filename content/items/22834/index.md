@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f31eaacc14fb29f31eaed3.jpg
     url: /files/original/14fb29f31eaacc14fb29f31eaed3.jpg
+    alt:
+      en: "Soldier in camouflage uniform carrying a rifle walks past a white Ford van on a road, with a grassy field, trees, and industrial buildings in the background."
 geo:
 id: 22834
 item_type: Still Image

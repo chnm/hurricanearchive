@@ -21,6 +21,8 @@ files:
     original_filename: Doorway at Jack Brks 3Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f533a6be14fb29f533aaa3.jpg
     url: /files/original/14fb29f533a6be14fb29f533aaa3.jpg
+    alt:
+      en: "A dark doorway framed by shadowed walls opens onto a flooded interior space, with still water reflecting a pale, overcast sky beyond."
 geo:
 id: 22576
 item_type: Still Image

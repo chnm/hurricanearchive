@@ -27,6 +27,8 @@ files:
     original_filename: 2310200477_35584a3eab.
     thumb: /files/thumbnails/14fb29c9b7c4d114fb29c9b7c8ae.jpg
     url: /files/original/14fb29c9b7c4d114fb29c9b7c8ae.jpg
+    alt:
+      en: "A horse-drawn carriage with passengers travels down a French Quarter street lined with balconied buildings, shuttered windows, and an American flag hanging from a balcony."
 geo:
   address: ''
   lat: 30.22586

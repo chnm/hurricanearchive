@@ -21,6 +21,8 @@ files:
     original_filename: EvaDow-1-3_4fcc698028.jpg
     thumb: /files/thumbnails/14fb29dd805e6314fb29dd806246.jpg
     url: /files/original/14fb29dd805e6314fb29dd806246.jpg
+    alt:
+      en: "Group photo of approximately 20 teenagers and adults posing outdoors in front of a brick building covered in blooming purple flowers, wearing casual summer clothing including t-shirts, shorts, and caps."
 geo:
 id: 25496
 item_type: Still Image

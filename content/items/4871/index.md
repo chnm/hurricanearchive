@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0190.JPG
     thumb: /files/thumbnails/14fb2a5517dfe914fb2a5517e3c4.jpg
     url: /files/original/14fb2a5517dfe914fb2a5517e3c4.jpg
+    alt:
+      en: "A corrugated metal panel with a cracked section and dirt stains, measured with a yellow tape measure, set beneath exposed wooden ceiling beams."
 geo:
 id: 4871
 item_type: Still Image

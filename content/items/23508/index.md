@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0144abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef29751314fb29ef2978ec.jpg
     url: /files/original/14fb29ef29751314fb29ef2978ec.jpg
+    alt:
+      en: "A cemetery strewn with dried marsh grass and debris, with granite headstones bearing the surname \"Winch\" visible among scattered flowers, a small chapel-like structure, and a tree line beyond a chain-link fence."
 geo:
 id: 23508
 item_type: Still Image

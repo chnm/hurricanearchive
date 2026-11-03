@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6619_8f893bcf07.JPG
     thumb: /files/thumbnails/14fb29d2caea7914fb29d2caee5e.jpg
     url: /files/original/14fb29d2caea7914fb29d2caee5e.jpg
+    alt:
+      en: "A wooden camp house on stilts over a grassy marsh, with three people leaning out an open window waving, and a staircase leading up to the porch."
 geo:
   address: lake pontchartrain
   lat: 30.20379

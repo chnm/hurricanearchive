@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2203superdome.JPG
     thumb: /files/thumbnails/14fb29de58fa6f14fb29de58fe4a.jpg
     url: /files/original/14fb29de58fa6f14fb29de58fe4a.jpg
+    alt:
+      en: "Group of U.S. Army soldiers in camouflage uniforms, one with \"WILLIAMS U.S. ARMY\" name tape, standing and conversing near a concrete overpass with trash bags piled nearby and a highway visible in the background."
 geo:
 id: 25388
 item_type: Still Image

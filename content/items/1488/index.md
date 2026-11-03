@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28141.jpg
     thumb: /files/thumbnails/14fb2a6872c34b14fb2a6872c6d2.jpg
     url: /files/original/14fb2a6872c34b14fb2a6872c6d2.jpg
+    alt:
+      en: "A large uprooted tree lies across the yard and against a damaged single-story house with a partially stripped roof and a covered front porch, debris scattered on the dry grass."
 geo:
   address: ''
   lat: 0.0

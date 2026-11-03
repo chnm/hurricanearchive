@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.021.JPG
     thumb: /files/thumbnails/14fb29dcd1591014fb29dcd15ccc.jpg
     url: /files/original/14fb29dcd1591014fb29dcd15ccc.jpg
+    alt:
+      en: "A white travel trailer labeled \"by Forest River\" with wooden entry steps, alongside a wheel wrapped in blue tarp, a wooden chair, a small folding table, and a leaning mirror frame on the ground."
 geo:
 id: 25666
 item_type: Still Image

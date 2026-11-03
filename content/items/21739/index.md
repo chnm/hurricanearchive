@@ -21,6 +21,8 @@ files:
     original_filename: katrina 007.jpg
     thumb: /files/thumbnails/14fb29fc0ca35a14fb29fc0ca73c.jpg
     url: /files/original/14fb29fc0ca35a14fb29fc0ca73c.jpg
+    alt:
+      en: "Rows of military cots fill a parking garage, with uniformed personnel resting amid backpacks, water bottles, and supply boxes labeled \"Water Meals Plus.\""
 geo:
 id: 21739
 item_type: Still Image

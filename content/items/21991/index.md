@@ -21,6 +21,8 @@ files:
     original_filename: Picture 322-J2.jpg
     thumb: /files/thumbnails/14fb29fa47fe0214fb29fa4801e7.jpg
     url: /files/original/14fb29fa47fe0214fb29fa4801e7.jpg
+    alt:
+      en: "Wide city street lined with palm trees, traffic cones, and parked vehicles including satellite trucks, with debris scattered on the sidewalks and multi-story buildings in the background."
 geo:
 id: 21991
 item_type: Still Image

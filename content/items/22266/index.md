@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1077Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f885704114fb29f8857424.jpg
     url: /files/original/14fb29f885704114fb29f8857424.jpg
+    alt:
+      en: "Several vehicles partially submerged in floodwater during a storm, with heavy rain and fog obscuring trees, power lines, and buildings in the background."
 geo:
 id: 22266
 item_type: Still Image

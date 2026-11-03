@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0139-9-18.JPG
     thumb: /files/thumbnails/14fb2a09e945f714fb2a09e949a4.jpg
     url: /files/original/14fb2a09e945f714fb2a09e949a4.jpg
+    alt:
+      en: "Close-up of a row of weathered, rust-streaked corrugated metal sheeting, with additional debris and fencing visible in the blurred background."
 geo:
 id: 20291
 item_type: Still Image

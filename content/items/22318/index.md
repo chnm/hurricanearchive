@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1131Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f770142714fb29f7701847.jpg
     url: /files/original/14fb29f770142714fb29f7701847.jpg
+    alt:
+      en: "Floodwater rushes through a glass-paneled doorway into a dark interior space, with rippling murky water covering the floor and visible outside through the open door."
 geo:
 id: 22318
 item_type: Still Image

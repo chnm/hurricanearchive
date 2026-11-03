@@ -21,6 +21,8 @@ files:
     original_filename: Venice LA.jpgsatellite
     thumb: /files/thumbnails/14fb29fb04810e14fb29fb0484f3.jpg
     url: /files/original/14fb29fb04810e14fb29fb0484f3.jpgsatellite
+    alt:
+      en: "Aerial view of extensive flooding in Venice, LA, with submerged buildings, scattered debris, and dead vegetation surrounding roads and waterways after a hurricane."
 geo:
 id: 21916
 item_type: Still Image

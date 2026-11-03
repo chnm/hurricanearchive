@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0078-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a03c955d214fb2a03c96e9e.jpg
     url: /files/original/14fb2a03c955d214fb2a03c96e9e.jpg
+    alt:
+      en: "Aerial view of a brick church with a white bell tower still standing amid extensive floodwaters, surrounded by debris, downed trees, and submerged structures in the aftermath of a hurricane."
 geo:
 id: 20785
 item_type: Still Image

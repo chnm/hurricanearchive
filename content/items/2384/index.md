@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_RITA_05CA1_cd64087dd7.jpg
     thumb: /files/thumbnails/14fb2a66c80d2c14fb2a66c81121.jpg
     url: /files/original/14fb2a66c80d2c14fb2a66c81121.jpg
+    alt:
+      en: "A Coast Guard officer in an orange life vest and ball cap watches over a flood-water cleanup site, where a large rusted oil tank sits surrounded by containment booms and airboats with workers."
 geo:
 id: 2384
 item_type: Still Image

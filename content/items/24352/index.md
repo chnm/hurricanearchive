@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-00-0.jpg
     thumb: /files/thumbnails/14fb29e896e14f14fb29e896e577.jpg
     url: /files/original/14fb29e896e14f14fb29e896e577.jpg
+    alt:
+      en: "White multi-story wood-sided buildings with balconies and damaged shingle roofing, tangled wires draping from a nearby metal lattice tower under an overcast sky."
 geo:
 id: 24352
 item_type: Still Image

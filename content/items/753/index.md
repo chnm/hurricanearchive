@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28683.jpg
     thumb: /files/thumbnails/14fb2a6d3cced614fb2a6d3cd2b2.jpg
     url: /files/original/14fb2a6d3cced614fb2a6d3cd2b2.jpg
+    alt:
+      en: "A brown horse with a pink halter stands in a metal pen, with a clipboard holding a handwritten note hanging from the gate."
 geo:
   address: ''
   lat: 0.0

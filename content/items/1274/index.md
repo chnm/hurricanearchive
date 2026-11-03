@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27923.jpg
     thumb: /files/thumbnails/14fb2a69e8bd5214fb2a69e8c172.jpg
     url: /files/original/14fb2a69e8bd5214fb2a69e8c172.jpg
+    alt:
+      en: "Storefront windows boarded with plywood sheets, spray-painted with \"LOUISIANA\" in red and a partially visible orange design, set against a damaged building facade."
 geo:
   address: ''
   lat: 0.0

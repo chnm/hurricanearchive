@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2167rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13cc6f8214fb2a13cc7470.jpg
     url: /files/original/14fb2a13cc6f8214fb2a13cc7470.jpg
+    alt:
+      en: "A helicopter crew member in flight gear and helmet operates a hoist line from an open aircraft door, with flooded rooftops and submerged streets visible below."
 geo:
 id: 19002
 item_type: Still Image

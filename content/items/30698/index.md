@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7395.JPG
     thumb: /files/thumbnails/14fb29cccde59014fb29cccde96d.jpg
     url: /files/original/14fb29cccde59014fb29cccde96d.jpg
+    alt:
+      en: "Storm-damaged trees with broken, bare branches stand against a clear blue sky, with the dark edge of a rooftop visible in the lower right corner."
 geo:
 id: 30698
 item_type: Still Image

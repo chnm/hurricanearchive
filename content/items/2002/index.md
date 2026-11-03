@@ -26,6 +26,8 @@ files:
     original_filename: 018_18_1030cd5492.jpg
     thumb: /files/thumbnails/14fb2a6dc9156114fb2a6dc91946.jpg
     url: /files/original/14fb2a6dc9156114fb2a6dc91946.jpg
+    alt:
+      en: "A large rusted tugboat with a white pilothouse and tire fenders sits stranded on dry land under a clear blue sky, its hull marked with partial lettering \"63.\""
 geo:
   address: ''
   lat: 0.0

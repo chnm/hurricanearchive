@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28213.jpg
     thumb: /files/thumbnails/14fb2a6849d21c14fb2a6849d61b.jpg
     url: /files/original/14fb2a6849d21c14fb2a6849d61b.jpg
+    alt:
+      en: "A large white boat rests upside down atop a chain-link fence amid storm-damaged trees; fence signs read \"No Smoking\" and \"Warning: High Pressure Underground Gas Line, 467-9248.\""
 geo:
   address: ''
   lat: 0.0

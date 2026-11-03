@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0073cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efc6727d14fb29efc67663.jpg
     url: /files/original/14fb29efc6727d14fb29efc67663.jpg
+    alt:
+      en: "Aerial view of flooded marshland with a narrow sand barrier island in the distance, water channels cutting through grassy wetlands below."
 geo:
 id: 23371
 item_type: Still Image

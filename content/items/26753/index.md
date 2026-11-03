@@ -24,6 +24,8 @@ files:
     original_filename: SW 1970 flood 1_4c15dd915e.jpg
     thumb: /files/thumbnails/14fb29d7f1ef4014fb29d7f1f326.jpg
     url: /files/original/14fb29d7f1ef4014fb29d7f1f326.jpg
+    alt:
+      en: "Two men stand in a flooded street with a dog, water reaching their shins, utility poles and houses lining the submerged road behind them."
 geo:
   address: ''
   lat: 29.91685

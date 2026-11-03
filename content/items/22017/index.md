@@ -21,6 +21,8 @@ files:
     original_filename: Picture 348-J2.jpg
     thumb: /files/thumbnails/14fb29fa13f98514fb29fa13fd5b.jpg
     url: /files/original/14fb29fa13f98514fb29fa13fd5b.jpg
+    alt:
+      en: "Debris-strewn street with a \"ONE WAY\" sign, abandoned cars, and a \"DO NOT ENTER\" sign, lined by damaged buildings including one marked \"4961,\" under a clear blue sky."
 geo:
 id: 22017
 item_type: Still Image

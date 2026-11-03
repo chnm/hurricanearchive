@@ -21,6 +21,8 @@ files:
     original_filename: 20050930002.JPG
     thumb: /files/thumbnails/14fb2a1beb74ae14fb2a1beb7895.jpg
     url: /files/original/14fb2a1beb74ae14fb2a1beb7895.jpg
+    alt:
+      en: "A printed sign taped to a wall reads \"1140TH WORSHIP SERVICE, TONIGHT AT 2000 HOURS, ON THE ARENA FLOOR,\" partially overlapping another paper sign behind it."
 geo:
   address: ''
   lat: 0.0

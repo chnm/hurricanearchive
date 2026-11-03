@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1153Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f741ff5914fb29f742033e.jpg
     url: /files/original/14fb29f741ff5914fb29f742033e.jpg
+    alt:
+      en: "Two men paddle a small motorless boat through floodwater in heavy rain, with a house and wind-blown tree visible behind them."
 geo:
 id: 22338
 item_type: Still Image

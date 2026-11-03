@@ -21,6 +21,8 @@ files:
     original_filename: Picture 060engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa4ff2514fb2a0fa5030a.jpg
     url: /files/original/14fb2a0fa4ff2514fb2a0fa5030a.jpg
+    alt:
+      en: "Aerial view of a flooded New Orleans neighborhood near Delgado Community College, with submerged streets, houses, school buildings, a running track, and a cemetery visible amid widespread floodwater."
 geo:
 id: 19500
 item_type: Still Image

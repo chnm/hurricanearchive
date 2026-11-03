@@ -21,6 +21,8 @@ files:
     original_filename: EvaDow-2-3_21034b1a8f.jpg
     thumb: /files/thumbnails/14fb29dd6cbf9e14fb29dd6cc383.jpg
     url: /files/original/14fb29dd6cbf9e14fb29dd6cc383.jpg
+    alt:
+      en: "A young child splashes playfully in a small round yellow wading pool set up on a lawn, with a chain-link fence visible in the background."
 geo:
 id: 25499
 item_type: Still Image

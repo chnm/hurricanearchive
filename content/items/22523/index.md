@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1364Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5a7c8f114fb29f5a7ccd7.jpg
     url: /files/original/14fb29f5a7c8f114fb29f5a7ccd7.jpg
+    alt:
+      en: "Several military jets, partially submerged in floodwater, with tail numbers and markings visible, including \"020\" and a star insignia; flooded rooftops and overcast sky in the background."
 geo:
 id: 22523
 item_type: Still Image

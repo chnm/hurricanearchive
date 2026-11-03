@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0142abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef2b844a14fb29ef2b8c1b.jpg
     url: /files/original/14fb29ef2b844a14fb29ef2b8c1b.jpg
+    alt:
+      en: "A single-story house raised on a low foundation stands beside floodwater and storm debris, with damaged trees, downed branches, and a paved road in the foreground under a cloudy sky."
 geo:
 id: 23506
 item_type: Still Image

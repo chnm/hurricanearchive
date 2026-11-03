@@ -8,9 +8,11 @@
 */ -}}
 {{- range . -}}
   {{- if .html -}}
-    {{ .text | safeHTML }}
+    {{ .text | replaceRE `'\\"([^'"]*)\\"'` `"$1"` | safeHTML }}{{/* a few exports wrapped attributes as '\"...\"' */}}
   {{- else -}}
-    {{- range (split .text "\n\n") -}}
+    {{- /* The export kept some escapes literally (\r\n, \'); undo them before splitting. */ -}}
+    {{- $t := .text | replaceRE `\\r\\n|\\n` "\n" | replaceRE `\\r` "" | replaceRE `\\('|")` "$1" -}}
+    {{- range (split $t "\n\n") -}}
       {{- with (trim . " \t\r\n") }}<p>{{ . }}</p>{{ end -}}
     {{- end -}}
   {{- end -}}

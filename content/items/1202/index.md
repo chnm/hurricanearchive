@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28325.jpg
     thumb: /files/thumbnails/14fb2a6a6c5e6f14fb2a6a6c6262.jpg
     url: /files/original/14fb2a6a6c5e6f14fb2a6a6c6262.jpg
+    alt:
+      en: "Storm-damaged building with exposed steel framing and a partially collapsed roof stands amid leafless trees, with debris, scattered metal panels, and construction equipment littering the ground."
 geo:
   address: ''
   lat: 0.0

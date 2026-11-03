@@ -21,6 +21,8 @@ files:
     original_filename: PICT0211Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c54bd314fb29f4c54fb8.jpg
     url: /files/original/14fb29f4c54bd314fb29f4c54fb8.jpg
+    alt:
+      en: "A residential street lined with oak trees and small white houses, with piles of storm debris and discarded furniture at the curb; a dated stamp reads \"09.15.2005.\""
 geo:
 id: 22681
 item_type: Still Image

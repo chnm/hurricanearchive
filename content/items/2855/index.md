@@ -21,6 +21,8 @@ files:
     original_filename: MVC-012S.JPG
     thumb: /files/thumbnails/14fb2a5fd53f4e14fb2a5fd54334.jpg
     url: /files/original/14fb2a5fd53f4e14fb2a5fd54334.jpg
+    alt:
+      en: "Interior storage room with a stool on a raised platform, stacked cardboard boxes, and numerous black trash bags piled on the floor."
 geo:
 id: 2855
 item_type: Still Image

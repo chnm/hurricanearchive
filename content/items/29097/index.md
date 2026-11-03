@@ -24,6 +24,8 @@ files:
     original_filename: DSCN0656.JPG
     thumb: /files/thumbnails/14fb29cfa2ea0514fb29cfa45441.jpg
     url: /files/original/14fb29cfa2ea0514fb29cfa45441.jpg
+    alt:
+      en: "Military Humvees, one marked \"MILITARY POLICE\" and another numbered \"52,\" parked on a concrete lot under large trees, with a trailer and directional arrow sign visible in the background."
 geo:
 id: 29097
 item_type: Still Image

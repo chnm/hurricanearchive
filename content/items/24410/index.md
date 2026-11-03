@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0089-15.JPG
     thumb: /files/thumbnails/14fb29e8310c7c14fb29e8310f37.jpg
     url: /files/original/14fb29e8310c7c14fb29e8310f37.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with debris-strewn yards, fallen trees, scattered vehicles including a yellow school bus, and houses showing roof damage along quiet streets."
 geo:
 id: 24410
 item_type: Still Image

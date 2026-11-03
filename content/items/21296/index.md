@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0220-9-25.JPG
     thumb: /files/thumbnails/14fb29ff97898e14fb29ff978d6c.jpg
     url: /files/original/14fb29ff97898e14fb29ff978d6c.jpg
+    alt:
+      en: "Aerial view of a flooded farm property with submerged buildings, trees, and what appear to be horses standing in floodwater, bordered by unflooded crop fields."
 geo:
 id: 21296
 item_type: Still Image

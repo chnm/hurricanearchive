@@ -21,6 +21,8 @@ files:
     original_filename: DSC01057.JPG
     thumb: /files/thumbnails/14fb2a58ac8fc814fb2a58ac93b8.jpg
     url: /files/original/14fb2a58ac8fc814fb2a58ac93b8.jpg
+    alt:
+      en: "Several camping tents set up on a grassy area beside a building, with a portable generator, \"No Parking Any Time\" sign, American flag, and a red pickup truck in the foreground."
 geo:
 id: 3974
 item_type: Still Image

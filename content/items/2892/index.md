@@ -21,6 +21,8 @@ files:
     original_filename: MVC-015S.JPG
     thumb: /files/thumbnails/14fb2a5fa4f00f14fb2a5fa4f3f4.jpg
     url: /files/original/14fb2a5fa4f00f14fb2a5fa4f3f4.jpg
+    alt:
+      en: "Interior mechanical room with white walls, red-painted floor, a metal ladder, and a network of gray and red pipes, valves, and gauges connected to industrial equipment."
 geo:
 id: 2892
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28714.jpg
     thumb: /files/thumbnails/14fb2a6c2b5ff614fb2a6c2b6398.jpg
     url: /files/original/14fb2a6c2b5ff614fb2a6c2b6398.jpg
+    alt:
+      en: "A woman in a cap and purple shirt holds a lead rope and offers a treat to a brown horse with a tan halter inside a metal-paneled stable stall."
 geo:
   address: ''
   lat: 0.0

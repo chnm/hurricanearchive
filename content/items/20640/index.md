@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047M.JPG
     thumb: /files/thumbnails/14fb2a057e775014fb2a057e7b2c.jpg
     url: /files/original/14fb2a057e775014fb2a057e7b2c.jpg
+    alt:
+      en: "A military medical worker wearing camouflage fatigues and latex gloves administers a vaccination to a woman's upper arm, with shelves of supplies visible in the background."
 geo:
 id: 20640
 item_type: Still Image

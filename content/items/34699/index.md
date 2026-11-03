@@ -20,6 +20,8 @@ files:
     original_filename: 2433987195_5d272c6c4d.
     thumb: /files/thumbnails/14fb29c972fa8014fb29c972fe9c.jpg
     url: /files/original/14fb29c972fa8014fb29c972fe9c.jpg
+    alt:
+      en: "Debris field of broken lumber, boards, and splintered branches covering the ground beneath large trees, with scattered wreckage extending into the distance."
 geo:
 id: 34699
 item_type: Still Image

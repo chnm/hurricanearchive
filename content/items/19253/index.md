@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0138rita.JPG
     thumb: /files/thumbnails/14fb2a119d315e14fb2a119d3543.jpg
     url: /files/original/14fb2a119d315e14fb2a119d3543.jpg
+    alt:
+      en: "Large moss-draped oak trees frame a residential street lined with historic houses, with scattered dry leaves and debris covering the ground."
 geo:
 id: 19253
 item_type: Still Image

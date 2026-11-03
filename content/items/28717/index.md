@@ -20,6 +20,8 @@ files:
     original_filename: 114536172_79ddef0cef.jpg
     thumb: /files/thumbnails/14fb29d15e05f614fb29d15e089b.jpg
     url: /files/original/14fb29d15e05f614fb29d15e089b.jpg
+    alt:
+      en: "Narrow hallway with mold or water-damage spots covering the walls, leading to a window and doorway at the end; a metal floor grate is visible in the foreground."
 geo:
 id: 28717
 item_type: Still Image

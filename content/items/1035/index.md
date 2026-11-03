@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27851.jpg
     thumb: /files/thumbnails/14fb2a6b4edd9814fb2a6b4ee4ac.jpg
     url: /files/original/14fb2a6b4edd9814fb2a6b4ee4ac.jpg
+    alt:
+      en: "A large oak tree draped in Spanish moss spreads over a grassy lawn, with a tall conifer and a small house visible in the background under a pale sky."
 geo:
   address: ''
   lat: 0.0

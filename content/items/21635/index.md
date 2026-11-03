@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0367-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fce790e514fb29fce794c7.jpg
     url: /files/original/14fb29fce790e514fb29fce794c7.jpg
+    alt:
+      en: "Two people walk away from the camera across a paved lot, one in camouflage pants carrying a shoulder bag, the other holding a notebook, with large tanker trucks parked in the background."
 geo:
 id: 21635
 item_type: Still Image

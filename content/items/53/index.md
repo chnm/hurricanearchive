@@ -26,6 +26,8 @@ files:
     original_filename: DSC00845_17edde2bbd.jpg
     thumb: /files/thumbnails/14fb2a713690cb14fb2a71369489.jpg
     url: /files/original/14fb2a713690cb14fb2a71369489.jpg
+    alt:
+      en: "Damaged gymnasium interior with empty bleachers, a basketball hoop, and a mud-covered floor strewn with debris, warped flooring, and trash cans near the entrance."
 geo:
   address: ''
   lat: 29.993002284551103

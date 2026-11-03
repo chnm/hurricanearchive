@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1124Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7a78e6c14fb29f7a7924c.jpg
     url: /files/original/14fb29f7a78e6c14fb29f7a7924c.jpg
+    alt:
+      en: "Dark, blurry interior scene with a red fuel container and a white \"Johns...\" branded outboard motor in the foreground, with bright reflected light visible in the upper left corner."
 geo:
 id: 22313
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010091.JPG
     thumb: /files/thumbnails/14fb2a5b34f7e014fb2a5b34fc4b.jpg
     url: /files/original/14fb2a5b34f7e014fb2a5b34fc4b.jpg
+    alt:
+      en: "Two tall palm trees frame a light blue two-story house with a dark roof and chimney, with a white van parked in the driveway and storm debris scattered across the yard."
 geo:
 id: 3516
 item_type: Still Image

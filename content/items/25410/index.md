@@ -21,6 +21,8 @@ files:
     original_filename: Next to the Superdome 5superdome.jpg
     thumb: /files/thumbnails/14fb29de0c1c8b14fb29de0c2071.jpg
     url: /files/original/14fb29de0c1c8b14fb29de0c2071.jpg
+    alt:
+      en: "A red minivan partially submerged in floodwater beside a fallen, leafless tree with tangled branches, viewed through a vehicle's side mirror near a building."
 geo:
 id: 25410
 item_type: Still Image

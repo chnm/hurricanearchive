@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1617neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee8a326114fb29ee8a3647.jpg
     url: /files/original/14fb29ee8a326114fb29ee8a3647.jpg
+    alt:
+      en: "A military transport truck carrying numerous evacuees, including police officers, wades through deep floodwaters past submerged vehicles and buildings in a flooded city street."
 geo:
 id: 23606
 item_type: Still Image

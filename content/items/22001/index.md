@@ -21,6 +21,8 @@ files:
     original_filename: Picture 332-J2.jpg
     thumb: /files/thumbnails/14fb29fa34076b14fb29fa340b4b.jpg
     url: /files/original/14fb29fa34076b14fb29fa340b4b.jpg
+    alt:
+      en: "A weathered house exterior with a large brown tarp and colorful fabric draped from the upper balcony, beside a white staircase and satellite dish mounted on the railing."
 geo:
 id: 22001
 item_type: Still Image

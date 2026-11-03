@@ -26,6 +26,8 @@ files:
     original_filename: 1225714694_2a9be8db0b.jpg
     thumb: /files/thumbnails/14fb29cb0ceba914fb29cb0cf36e.jpg
     url: /files/original/14fb29cb0ceba914fb29cb0cf36e.jpg
+    alt:
+      en: "Abandoned yellow building with open metal security doors revealing a dark interior, weathered walls, dried plants growing out front, and a utility pole with power lines in the background."
 geo:
   address: ''
   lat: 0.0

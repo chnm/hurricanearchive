@@ -21,6 +21,8 @@ files:
     original_filename: 20050927021.JPG
     thumb: /files/thumbnails/14fb2a1c5910a814fb2a1c59148d.jpg
     url: /files/original/14fb2a1c5910a814fb2a1c59148d.jpg
+    alt:
+      en: "Military personnel and a backhoe loader unload supply boxes from several tractor-trailers parked in a lot, with concrete parking bumpers and trees in the background."
 geo:
   address: ''
   lat: 0.0

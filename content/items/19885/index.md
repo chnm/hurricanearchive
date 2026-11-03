@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0117gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cf487d014fb2a0cf48ad7.jpg
     url: /files/original/14fb2a0cf487d014fb2a0cf48ad7.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms construct a plywood wall over a wall-mounted projection screen displaying \"MORE OXYGEN\" and a sharperimage.com ad, using ladders and hand tools in a room with a Louisiana map and computer workstations."
 geo:
 id: 19885
 item_type: Still Image

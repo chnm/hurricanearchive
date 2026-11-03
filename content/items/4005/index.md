@@ -21,6 +21,8 @@ files:
     original_filename: DSC01105.JPG
     thumb: /files/thumbnails/14fb2a588d364c14fb2a588d3a31.jpg
     url: /files/original/14fb2a588d364c14fb2a588d3a31.jpg
+    alt:
+      en: "A U.S. Coast Guard member in an orange life vest and bucket hat stands on a boat, surveying a flooded street lined with trees and a submerged streetlight."
 geo:
 id: 4005
 item_type: Still Image

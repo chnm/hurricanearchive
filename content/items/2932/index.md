@@ -21,6 +21,8 @@ files:
     original_filename: MVC-021S.JPG
     thumb: /files/thumbnails/14fb2a5f8e440014fb2a5f8e47e3.jpg
     url: /files/original/14fb2a5f8e440014fb2a5f8e47e3.jpg
+    alt:
+      en: "Storage shelving unit filled with binders, tubes, and cardboard boxes, with a large metal support column in the foreground and a concrete floor below."
 geo:
 id: 2932
 item_type: Still Image

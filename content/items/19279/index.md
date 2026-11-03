@@ -21,6 +21,8 @@ files:
     original_filename: S4300198iwojima.JPG
     thumb: /files/thumbnails/14fb2a115e338214fb2a115e375b.jpg
     url: /files/original/14fb2a115e338214fb2a115e375b.jpg
+    alt:
+      en: "Rows of empty blue-topped tables and chairs fill a shipboard galley or mess hall, with a few people seated eating in the background near a kitchen serving area."
 geo:
 id: 19279
 item_type: Still Image

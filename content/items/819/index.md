@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27949.jpg
     thumb: /files/thumbnails/14fb2a6cdb55d014fb2a6cdb5e35.jpg
     url: /files/original/14fb2a6cdb55d014fb2a6cdb5e35.jpg
+    alt:
+      en: "Two fallen banners lie on pavement beside a metal pole, one reading \"New Orleans Hornets\" with a hornet mascot logo, the other advertising \"Bud Light.\""
 geo:
   address: ''
   lat: 0.0

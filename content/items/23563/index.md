@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0185abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eeced78b14fb29eecf1361.jpg
     url: /files/original/14fb29eeced78b14fb29eecf1361.jpg
+    alt:
+      en: "Two men in caps and casual clothing stand beside floodwater, one pointing toward debris—including a piece of corrugated metal roofing and dried brush—washed along the shoreline, with bare trees in the background."
 geo:
 id: 23563
 item_type: Still Image

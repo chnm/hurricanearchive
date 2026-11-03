@@ -21,6 +21,8 @@ files:
     original_filename: PICT0298Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4ba45f414fb29f4ba49da.jpg
     url: /files/original/14fb29f4ba45f414fb29f4ba49da.jpg
+    alt:
+      en: "Parking lot with several vehicles including a military truck and portable toilets, bordered by a brick building and houses, with the timestamp \"09.15.2005\" visible in the corner."
 geo:
 id: 22696
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 365-J2.jpg
     thumb: /files/thumbnails/14fb29f9f50cf014fb29f9f5108a.jpg
     url: /files/original/14fb29f9f50cf014fb29f9f5108a.jpg
+    alt:
+      en: "A man in a camouflage military uniform and cap, wearing glasses and a mustache, stands with arms crossed beside a wrought-iron fence in front of a weathered yellow wooden building."
 geo:
 id: 22034
 item_type: Still Image

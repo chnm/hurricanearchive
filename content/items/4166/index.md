@@ -21,6 +21,8 @@ files:
     original_filename: P1010037.JPG
     thumb: /files/thumbnails/14fb2a5752a4b314fb2a5752a899.jpg
     url: /files/original/14fb2a5752a4b314fb2a5752a899.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with most homes reduced to concrete slabs and skeletal frames, scattered debris, and scorched, leafless trees lining a grid of streets."
 geo:
 id: 4166
 item_type: Still Image

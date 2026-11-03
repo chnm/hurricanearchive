@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0454.JPG
     thumb: /files/thumbnails/14fb2a53dd7f7c14fb2a53dd8a21.jpg
     url: /files/original/14fb2a53dd7f7c14fb2a53dd8a21.jpg
+    alt:
+      en: "Devastated coastal landscape strewn with debris and scattered wreckage, an excavator working amid rubble, with scorched, leafless trees and a hazy sky in the background."
 geo:
 id: 5109
 item_type: Still Image

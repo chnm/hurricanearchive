@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5878_3c9256d159.jpg
     thumb: /files/thumbnails/14fb2a15fe75e014fb2a15fe79c4.jpg
     url: /files/original/14fb2a15fe75e014fb2a15fe79c4.jpg
+    alt:
+      en: "Man in a blue sweatshirt and cap holds a handmade wooden boat model in front of vinyl siding; a handwritten label reads \"Charles Robin Jr. Boat Builder.\""
 geo:
 id: 15777
 item_type: Still Image

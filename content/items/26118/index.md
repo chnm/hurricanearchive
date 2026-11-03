@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5715_500cc980f1.jpg
     thumb: /files/thumbnails/14fb29da8ea95314fb29da8f008d.jpg
     url: /files/original/14fb29da8ea95314fb29da8f008d.jpg
+    alt:
+      en: "Two people in traditional Spanish Isleño costumes—a man in black vestcoat with red sash and white boots, a woman in black widow's dress with red-trimmed cape—stand beside a Fairmont Hotels podium."
 geo:
 id: 26118
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0295.JPG
     thumb: /files/thumbnails/14fb2a5e59d32514fb2a5e59d709.jpg
     url: /files/original/14fb2a5e59d32514fb2a5e59d709.jpg
+    alt:
+      en: "Bow of the USS Alabama against a clear blue sky, with \"ALABAMA\" painted on the hull, anti-aircraft gun barrels, a crane arm, and a small red flag flying near the rigging."
 geo:
 id: 3046
 item_type: Still Image

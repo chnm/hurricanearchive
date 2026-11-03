@@ -21,6 +21,8 @@ files:
     original_filename: MVC-019S.JPG
     thumb: /files/thumbnails/14fb2a5fa31b6814fb2a5fa31f50.jpg
     url: /files/original/14fb2a5fa31b6814fb2a5fa31f50.jpg
+    alt:
+      en: "Industrial engine room with large insulated pipes, valve wheels, and gauges, enclosed by black metal railings; a person stands in the background near yellow piping."
 geo:
 id: 2896
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2457505110_8df541e169.
     thumb: /files/thumbnails/14fb29c87d991814fb29c87d9cfb.jpg
     url: /files/original/14fb29c87d991814fb29c87d9cfb.jpg
+    alt:
+      en: "A large dragline crane with a lattice boom empties a bucket of dirt or debris onto a mound of earth, set against an overcast sky."
 geo:
 id: 34921
 item_type: Still Image

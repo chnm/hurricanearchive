@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 005.jpg
     thumb: /files/thumbnails/14fb2a59fb283014fb2a59fb2c16.jpg
     url: /files/original/14fb2a59fb283014fb2a59fb2c16.jpg
+    alt:
+      en: "A storm-damaged house with a partially collapsed front porch and exposed foundation, surrounded by eroded, debris-covered ground and bare trees under a clear blue sky."
 geo:
 id: 3725
 item_type: Still Image

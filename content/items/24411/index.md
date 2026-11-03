@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0089-16.JPG
     thumb: /files/thumbnails/14fb29e82f408b14fb29e83001b5.jpg
     url: /files/original/14fb29e82f408b14fb29e83001b5.jpg
+    alt:
+      en: "Sideways photo taken from inside a vehicle, with a person wearing glasses in the foreground and another figure in camouflage clothing visible through the window, overlooking a debris field under a bright sky."
 geo:
 id: 24411
 item_type: Still Image

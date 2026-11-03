@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d81424314fb2a0d81464a.jpg
     url: /files/original/14fb2a0d81424314fb2a0d81464a.jpg
+    alt:
+      en: "Unfinished wooden-frame building with exposed roof trusses and plywood walls, showing a row of installed showerheads and soap dispensers along a long communal bathing area with PVC plumbing."
 geo:
 id: 19833
 item_type: Still Image

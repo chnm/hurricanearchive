@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28123.jpg
     thumb: /files/thumbnails/14fb2a6aeb67ff14fb2a6aeb6cd1.jpg
     url: /files/original/14fb2a6aeb67ff14fb2a6aeb6cd1.jpg
+    alt:
+      en: "A helicopter with a suspended cable flies above a utility pole and power lines, where several birds perch, with trees and a structure visible below against a plain sky."
 geo:
   address: ''
   lat: 0.0

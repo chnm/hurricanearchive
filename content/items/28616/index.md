@@ -23,6 +23,8 @@ files:
     original_filename: 161990677_20137ee5cf.jpg
     thumb: /files/thumbnails/14fb29d21bec4514fb29d21bf02b.jpg
     url: /files/original/14fb29d21bec4514fb29d21bf02b.jpg
+    alt:
+      en: "Weathered statue of Jesus with raised hands stands in front of a light green wooden house, surrounded by lush greenery and magnolia trees."
 geo:
 id: 28616
 item_type: Still Image

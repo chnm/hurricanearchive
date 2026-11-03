@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0327.JPG
     thumb: /files/thumbnails/14fb2a54a4885514fb2a54a48c39.jpg
     url: /files/original/14fb2a54a4885514fb2a54a48c39.jpg
+    alt:
+      en: "Wooden steps and a deck lead toward a house with a steeply pitched shingled roof under construction, with raised foundations and snapped trees visible in the background."
 geo:
 id: 4982
 item_type: Still Image

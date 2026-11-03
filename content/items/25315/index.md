@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2042superdome.JPG
     thumb: /files/thumbnails/14fb29df1caf7b14fb29df1cb361.jpg
     url: /files/original/14fb29df1caf7b14fb29df1cb361.jpg
+    alt:
+      en: "Two men in camouflage military uniforms, one wearing a bandana under his cap, lean over a concrete barrier near a runway or tarmac where an aircraft's landing gear is visible."
 geo:
 id: 25315
 item_type: Still Image

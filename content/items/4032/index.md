@@ -21,6 +21,8 @@ files:
     original_filename: DSC01149.JPG
     thumb: /files/thumbnails/14fb2a585db31a14fb2a585db70e.jpg
     url: /files/original/14fb2a585db31a14fb2a585db70e.jpg
+    alt:
+      en: "Storm-damaged \"storehouse\" building with torn metal roofing hanging off and scattered across the parking lot and lawn, a \"Borders\" store visible in the background under clear skies."
 geo:
 id: 4032
 item_type: Still Image

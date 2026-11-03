@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6699_16b3ad1948.JPG
     thumb: /files/thumbnails/14fb29d3269f4d14fb29d326acac.jpg
     url: /files/original/14fb29d3269f4d14fb29d326acac.jpg
+    alt:
+      en: "A tricycle-style ice cream cart with a front icebox labeled \"ICE CREAM\" sits on a sidewalk as a vendor and several children gather around it in front of a row of houses."
 geo:
   address: ''
   lat: 29.993

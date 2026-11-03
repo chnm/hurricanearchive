@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0113-21.JPG
     thumb: /files/thumbnails/14fb29e6d4c1e614fb29e6d4c5ca.jpg
     url: /files/original/14fb29e6d4c1e614fb29e6d4c5ca.jpg
+    alt:
+      en: "A U.S. Army officer in camouflage fatigues gestures while speaking with a group of civilians and soldiers gathered indoors, with equipment and boxes visible in the dimly lit background."
 geo:
 id: 24544
 item_type: Still Image

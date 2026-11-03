@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.045.JPG
     thumb: /files/thumbnails/14fb29dcfa646214fb29dcfa6662.jpg
     url: /files/original/14fb29dcfa646214fb29dcfa6662.jpg
+    alt:
+      en: "A handmade white fabric banner hangs from metal poles, reading \"Brought To You BY\" in painted letters and \"EMERGENCY COMMUNITIES\" in colorful patterned fabric appliqué letters."
 geo:
 id: 25628
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 385042709_81f565d0dd.
     thumb: /files/thumbnails/14fb29d28ef1b114fb29d28f0e4a.jpg
     url: /files/original/14fb29d28ef1b114fb29d28f0e4a.jpg
+    alt:
+      en: "Interior wall with exposed studs and mold-stained insulation, a strip of \"Legion Oaks\" tape marking the waterline, and torn \"Home Insulation\" packaging above."
 geo:
 id: 28255
 item_type: Still Image

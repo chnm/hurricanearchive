@@ -21,6 +21,8 @@ files:
     original_filename: CPT Baillie 2 Oct 05.JPG
     thumb: /files/thumbnails/14fb2a1bc5ae5f14fb2a1bc5b243.jpg
     url: /files/original/14fb2a1bc5ae5f14fb2a1bc5b243.jpg
+    alt:
+      en: "Man in U.S. Army camouflage uniform with \"BAILLIE\" nametape poses before a bulletin board displaying a Louisiana map and a flyer about counseling support after Hurricane Katrina, dated 10.02.2005."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 052.jpg
     thumb: /files/thumbnails/14fb2a59cb898a14fb2a59cb8d6e.jpg
     url: /files/original/14fb2a59cb898a14fb2a59cb8d6e.jpg
+    alt:
+      en: "A storm-damaged house with its front wall collapsed and roof sagging, surrounded by scattered debris, broken trees, and fabric caught in bare branches."
 geo:
 id: 3772
 item_type: Still Image

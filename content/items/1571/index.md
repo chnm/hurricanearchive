@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28502.jpg
     thumb: /files/thumbnails/14fb2a67cd546f14fb2a67cd5842.jpg
     url: /files/original/14fb2a67cd546f14fb2a67cd5842.jpg
+    alt:
+      en: "Two-story brick and yellow-sided house with dark shutters, a covered porch, and a search/rescue marking reading \"CNTF 98 1400\" spray-painted on the roof's gable end."
 geo:
   address: ''
   lat: 0.0

@@ -24,6 +24,8 @@ files:
     original_filename: P1010026.JPG
     thumb: /files/thumbnails/14fb2a5ba1fed714fb2a5ba202bc.jpg
     url: /files/original/14fb2a5ba1fed714fb2a5ba202bc.jpg
+    alt:
+      en: "Damaged white house with boarded window marked in orange spray paint \"9-21\" and \"NE 1 0\" inside an X, surrounded by a large pile of dead branches and debris."
 geo:
 id: 3458
 item_type: Still Image

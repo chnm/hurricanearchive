@@ -20,6 +20,8 @@ files:
     original_filename: pt_dock_bridge_e4e3130782.jpg
     thumb: /files/thumbnails/14fb29d5b075fd14fb29d5b079e3.jpg
     url: /files/original/14fb29d5b075fd14fb29d5b079e3.jpg
+    alt:
+      en: "Damaged dock at Pilottown, LA, with broken concrete and wooden planks jutting into the water, debris-covered structures, and boats moored in the background under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

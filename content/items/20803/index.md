@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0082-15.JPG
     thumb: /files/thumbnails/14fb2a03b3b15e14fb2a03b3b40f.jpg
     url: /files/original/14fb2a03b3b15e14fb2a03b3b40f.jpg
+    alt:
+      en: "Aerial view of a residential complex with storm-damaged roofs exposing wooden beams, surrounded by scattered vehicles, trees, and a waterway in the foreground."
 geo:
 id: 20803
 item_type: Still Image

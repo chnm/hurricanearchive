@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039-20.JPG
     thumb: /files/thumbnails/14fb2a05de22e814fb2a05de26c4.jpg
     url: /files/original/14fb2a05de22e814fb2a05de26c4.jpg
+    alt:
+      en: "Blurred photo of a person in military camouflage fatigues with an American flag patch on the chest, looking off to the side, with a map or chart visible on a screen in the background."
 geo:
 id: 20589
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0214-21.JPG
     thumb: /files/thumbnails/14fb29ffa84b7214fb29ffa84f57.jpg
     url: /files/original/14fb29ffa84b7214fb29ffa84f57.jpg
+    alt:
+      en: "A woman with windblown hair in a dark top stands in the foreground on a grassy field, while military personnel in camouflage uniforms and helmets, along with a man in civilian clothes, stand behind her."
 geo:
 id: 21278
 item_type: Still Image

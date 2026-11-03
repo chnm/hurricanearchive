@@ -21,6 +21,8 @@ files:
     original_filename: 09140031.JPG
     thumb: /files/thumbnails/14fb29e96a94a014fb29e96a987c.jpg
     url: /files/original/14fb29e96a94a014fb29e96a987c.jpg
+    alt:
+      en: "Roadside view over a yellow guardrail of overgrown shrubs and trees in front of a red-roofed house and a white house with green trim marked with an \"X\" search symbol, under power lines and blue sky."
 geo:
 id: 24250
 item_type: Still Image

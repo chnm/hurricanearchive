@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ead9b51614fb29ead9bb2e.jpg
     url: /files/original/14fb29ead9b51614fb29ead9bb2e.jpg
+    alt:
+      en: "Aerial view of flooded marshland with patches of pale sediment or debris coating the water's surface, bordered by a narrow strip of green and brown vegetation and a dirt path."
 geo:
 id: 24100
 item_type: Still Image

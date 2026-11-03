@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (3).JPG
     thumb: /files/thumbnails/14fb2a5d73685b14fb2a5d736c41.jpg
     url: /files/original/14fb2a5d73685b14fb2a5d736c41.jpg
+    alt:
+      en: "White box trucks parked in front of a two-story house with boarded windows and a balcony, surrounded by bare trees and dry, overgrown yard debris."
 geo:
 id: 3178
 item_type: Still Image

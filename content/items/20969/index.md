@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0158-9-25.JPG
     thumb: /files/thumbnails/14fb2a013c261c14fb2a013c2a03.jpg
     url: /files/original/14fb2a013c261c14fb2a013c2a03.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters covering farmland, with submerged fields, scattered vegetation patches, and a partially visible tree line or levee cutting diagonally across the water."
 geo:
 id: 20969
 item_type: Still Image

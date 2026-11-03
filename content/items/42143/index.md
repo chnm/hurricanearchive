@@ -23,6 +23,8 @@ files:
     original_filename: Mom's house_8c9e06f137.JPG
     thumb: /files/thumbnails/14fb29c33eb21814fb29c33eb69e.jpg
     url: /files/original/14fb29c33eb21814fb29c33eb69e.jpg
+    alt:
+      en: "A large pile of removed bricks sits on a concrete porch beside an aluminum ladder, with exposed black wall sheathing marked \"KOTE\" and a window above."
 geo:
   address: Lynnette Dr
   lat: 29.98656

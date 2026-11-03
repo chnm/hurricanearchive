@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1854Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f53f236214fb29f53f2748.jpg
     url: /files/original/14fb29f53f236214fb29f53f2748.jpg
+    alt:
+      en: "Aerial view of a severely flooded neighborhood with only rooftops visible above the water, scattered debris piles, and a large warehouse building partially submerged, with downed power lines crossing the scene."
 geo:
 id: 22565
 item_type: Still Image

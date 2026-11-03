@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28621.jpg
     thumb: /files/thumbnails/14fb2a6811dac514fb2a6811deab.jpg
     url: /files/original/14fb2a6811dac514fb2a6811deab.jpg
+    alt:
+      en: "Two blue street signs reading \"S. Clark\" and \"Tulane Av\" lie amid a pile of debris, scrap metal poles, and other discarded signage."
 geo:
   address: ''
   lat: 0.0

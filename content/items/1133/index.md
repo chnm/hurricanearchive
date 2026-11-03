@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28633.jpg
     thumb: /files/thumbnails/14fb2a6adb2a8414fb2a6adb2e60.jpg
     url: /files/original/14fb2a6adb2a8414fb2a6adb2e60.jpg
+    alt:
+      en: "Rows of worn, rusted metal scaffolding clamps or connectors stacked together, their painted surfaces flaking in shades of white, yellow, blue, and green, showing heavy corrosion and wear."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: random_a774b25e29.jpg
     thumb: /files/thumbnails/14fb29d7864d2114fb29d7865109.jpg
     url: /files/original/14fb29d7864d2114fb29d7865109.jpg
+    alt:
+      en: "Black-and-white group photo of teenage boys posed on a stage with patterned curtains, one wearing a crown and robe; three rows stand, kneel, and sit cross-legged for this 1975 Chalmette High School yearbook picture."
 geo:
 id: 26835
 item_type: Still Image

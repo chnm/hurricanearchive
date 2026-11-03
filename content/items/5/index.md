@@ -26,6 +26,8 @@ files:
     original_filename: gas1_ce2aa79346.jpg
     thumb: /files/thumbnails/14fb2a717bdec514fb2a717be2ab.jpg
     url: /files/original/14fb2a717bdec514fb2a717be2ab.jpg
+    alt:
+      en: "Damaged gas station canopy with rusted exposed framing and debris scattered on the ground; a handwritten sign reads \"OPEN Come IN\" near the entrance."
 geo:
   address: ''
   lat: 29.945415337104503

@@ -20,6 +20,8 @@ files:
     original_filename: peterinhaiti_842aca88e3.jpg
     thumb: /files/thumbnails/14fb29c30e633214fb29c30e7161.jpg
     url: /files/original/14fb29c30e633214fb29c30e7161.jpg
+    alt:
+      en: "Man wearing headphones and a plaid shirt sits inside an aircraft cabin, gesturing with his hand near two round windows and a partially visible passenger beside him."
 geo:
   address: ''
   lat: 0.0

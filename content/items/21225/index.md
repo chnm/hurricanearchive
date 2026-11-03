@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0201-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffebd0e914fb29ffebd505.jpg
     url: /files/original/14fb29ffebd0e914fb29ffebd505.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood showing storm damage, with uprooted trees, a snapped utility pole, scattered debris, a tarp-covered pool, and a collapsed fence in the backyards."
 geo:
 id: 21225
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 98 maroonmemories_bc077827c0.jpg
     thumb: /files/thumbnails/14fb29d6c7e4bc14fb29d6c7e67f.jpg
     url: /files/original/14fb29d6c7e4bc14fb29d6c7e67f.jpg
+    alt:
+      en: "A yearbook page with a formal dance photo of a couple, a student in athletic wear, and italic text introducing the \"Maroon Memories\" staff and their 1994-1995 yearbook theme."
 geo:
 id: 26880
 item_type: Still Image

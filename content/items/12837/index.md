@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward 9-18-2.JPG
     thumb: /files/thumbnails/14fb2a219aca6a14fb2a219ace4f.jpg
     url: /files/original/14fb2a219aca6a14fb2a219ace4f.jpg
+    alt:
+      en: "Collapsed and severely damaged houses with debris scattered across muddy ground, their roofs and walls caved in, under an overcast sky."
 geo:
 id: 12837
 item_type: Still Image

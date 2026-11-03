@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021media.JPG
     thumb: /files/thumbnails/14fb29f2ade2ea14fb29f2ade6d8.jpg
     url: /files/original/14fb29f2ade2ea14fb29f2ade6d8.jpg
+    alt:
+      en: "A man wearing a headset and sunglasses operates a large video camera aboard a helicopter, filming an aerial view of a sprawling city below under a clear sky."
 geo:
 id: 22923
 item_type: Still Image

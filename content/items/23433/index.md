@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0101cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef762d9b14fb29ef7636b1.jpg
     url: /files/original/14fb29ef762d9b14fb29ef7636b1.jpg
+    alt:
+      en: "A uniformed service member wearing a headset and harness sits near the open door of an aircraft, with a hazy aerial view of land below through the window."
 geo:
 id: 23433
 item_type: Still Image

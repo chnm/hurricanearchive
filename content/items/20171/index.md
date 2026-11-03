@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of 09140013.JPG
     thumb: /files/thumbnails/14fb2a0af4506314fb2a0af45441.jpg
     url: /files/original/14fb2a0af4506314fb2a0af45441.jpg
+    alt:
+      en: "Abandoned gas station with \"Spur Self Serve\" fuel pumps, debris and cardboard boxes scattered on the ground, and vehicles parked near the darkened convenience store entrance."
 geo:
 id: 20171
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1007Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f924840914fb29f92487ef.jpg
     url: /files/original/14fb29f924840914fb29f92487ef.jpg
+    alt:
+      en: "A soldier in camouflage uniform and beret directs traffic at an intersection, with a line of cars including a blue sports car and SUVs waiting, and a \"Speed Limit 35\" sign visible nearby."
 geo:
 id: 22200
 item_type: Still Image

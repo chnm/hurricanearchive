@@ -21,6 +21,8 @@ files:
     original_filename: 100_0183.JPG
     thumb: /files/thumbnails/14fb2a591920f014fb2a591924d7.jpg
     url: /files/original/14fb2a591920f014fb2a591924d7.jpg
+    alt:
+      en: "Floodwater submerges a residential street up to the rooflines of houses, with a stop sign partially underwater and downed trees and power lines visible against a hazy sky."
 geo:
 id: 3890
 item_type: Still Image

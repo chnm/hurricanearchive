@@ -21,6 +21,8 @@ files:
     original_filename: DSC01092.JPG
     thumb: /files/thumbnails/14fb2a58920a9814fb2a58920e76.jpg
     url: /files/original/14fb2a58920a9814fb2a58920e76.jpg
+    alt:
+      en: "Floodwater submerges a street intersection with traffic lights, a \"SPEED LIMIT 20\" sign, and streetlights, with a church bell tower and statue visible amid surrounding trees and buildings."
 geo:
 id: 3999
 item_type: Still Image

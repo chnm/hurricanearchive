@@ -21,6 +21,8 @@ files:
     original_filename: Boats next to I-10 in NOneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb5ca65314fb29eb5caa39.jpg
     url: /files/original/14fb29eb5ca65314fb29eb5caa39.jpg
+    alt:
+      en: "Two boats stranded on dry, browned grass beneath an elevated highway overpass, with a large pine tree and distant radio tower visible under a clear sky."
 geo:
 id: 24036
 item_type: Still Image

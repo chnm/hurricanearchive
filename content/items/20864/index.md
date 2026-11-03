@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0135-9-25.JPG
     thumb: /files/thumbnails/14fb2a02a12b8e14fb2a02a12f74.jpg
     url: /files/original/14fb2a02a12b8e14fb2a02a12f74.jpg
+    alt:
+      en: "Aerial view of a flooded school campus and football field with bleachers, surrounded by brown, dead vegetation and widespread standing floodwater extending to the horizon."
 geo:
 id: 20864
 item_type: Still Image

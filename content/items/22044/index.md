@@ -21,6 +21,8 @@ files:
     original_filename: Picture 375-J2.jpg
     thumb: /files/thumbnails/14fb29f9e9259d14fb29f9e928d4.jpg
     url: /files/original/14fb29f9e9259d14fb29f9e928d4.jpg
+    alt:
+      en: "A National Guard member in camouflage uniform stands beside a dark pickup truck bearing a \"National Guard\" door decal, holding a rifle, with a teal plastic barrel and residential houses in the background."
 geo:
 id: 22044
 item_type: Still Image

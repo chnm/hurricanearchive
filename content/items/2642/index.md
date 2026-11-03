@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9184.jpg
     thumb: /files/thumbnails/14fb2a6386e27114fb2a6386ee03.jpg
     url: /files/original/14fb2a6386e27114fb2a6386ee03.jpg
+    alt:
+      en: "Bent wooden pilings with cables and cross braces lean over shallow floodwater on a sandy beach, one marked with a hand-painted \"LEAVE PILING\" sign and a \"NO TRESPASSING\" notice."
 geo:
 id: 2642
 item_type: Still Image

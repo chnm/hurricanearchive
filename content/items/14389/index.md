@@ -21,6 +21,8 @@ files:
     original_filename: aerials98.jpg
     thumb: /files/thumbnails/14fb2a19562d5d14fb2a19563142.jpg
     url: /files/original/14fb2a19562d5d14fb2a19563142.jpg
+    alt:
+      en: "Aerial view of a storm-damaged house with a partially collapsed roof and exposed framing, surrounded by snapped and uprooted trees and scattered debris."
 geo:
 id: 14389
 item_type: Still Image

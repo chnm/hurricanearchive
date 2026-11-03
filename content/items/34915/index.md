@@ -20,6 +20,8 @@ files:
     original_filename: 2457529332_6f605fedbc.
     thumb: /files/thumbnails/14fb29c88361a114fb29c8836369.jpg
     url: /files/original/14fb29c88361a114fb29c8836369.jpg
+    alt:
+      en: "Excavators and heavy machinery work along a muddy pond amid piles of dirt and gravel, with dense trees lining the background under a clear sky."
 geo:
 id: 34915
 item_type: Still Image

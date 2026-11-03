@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0236downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14a7fccb14fb2a14a800b1.jpg
     url: /files/original/14fb2a14a7fccb14fb2a14a800b1.jpg
+    alt:
+      en: "Aerial view of a dense urban block with varied rooftops—flat, gabled, and tiled—interspersed with rooftop HVAC units, small courtyard greenery, and narrow streets separating the buildings."
 geo:
 id: 18886
 item_type: Still Image

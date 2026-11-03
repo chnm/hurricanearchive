@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28071.jpg
     thumb: /files/thumbnails/14fb2a67982eeb14fb2a679832d1.jpg
     url: /files/original/14fb2a67982eeb14fb2a679832d1.jpg
+    alt:
+      en: "A tilted green \"West End Park\" sign stands in a dirt lot, with a stop sign, utility poles, power lines, and brick-walled houses visible in the background."
 geo:
   address: ''
   lat: 0.0

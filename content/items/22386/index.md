@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1213Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6dc288414fb29f6dc2c6a.jpg
     url: /files/original/14fb29f6dc288414fb29f6dc2c6a.jpg
+    alt:
+      en: "Blurry, tilted photo of a dark stairwell interior with a lit window visible through metal railings, suggesting motion during capture."
 geo:
 id: 22386
 item_type: Still Image

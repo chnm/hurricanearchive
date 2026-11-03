@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2115rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a1407915814fb2a14079616.jpg
     url: /files/original/14fb2a1407915814fb2a14079616.jpg
+    alt:
+      en: "Interior of a military helicopter with crew members in camouflage uniforms and helmets seated inside, one marked with a red cross patch, surrounded by equipment, a camo duffel bag, and a cooler."
 geo:
 id: 18955
 item_type: Still Image

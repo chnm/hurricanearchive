@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Uptown (5).JPG
     thumb: /files/thumbnails/14fb2a5db28ddd14fb2a5db291c1.jpg
     url: /files/original/14fb2a5db28ddd14fb2a5db291c1.jpg
+    alt:
+      en: "Interior room with warped, buckled flooring and debris covering the floor, a small dark table against the wall, a closet door on the left, and a window with blinds on the right."
 geo:
 id: 3153
 item_type: Still Image

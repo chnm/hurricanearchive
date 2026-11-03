@@ -26,6 +26,8 @@ files:
     original_filename: DSC02982_ad6f992018.JPG
     thumb: /files/thumbnails/14fb2a702534ee14fb2a702538ca.jpg
     url: /files/original/14fb2a702534ee14fb2a702538ca.jpg
+    alt:
+      en: "A dense, swirling sky glows an eerie purple-gray as storm clouds linger over a silhouetted tree line and rooftops in Mobile, Alabama, during Hurricane Katrina's aftermath."
 geo:
   address: ''
   lat: 30.619595704519902

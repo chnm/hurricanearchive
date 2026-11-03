@@ -26,6 +26,8 @@ files:
     original_filename: 2louisiana_003_b514fc81d3.jpg
     thumb: /files/thumbnails/14fb2a6f68106c14fb2a6f681448.jpg
     url: /files/original/14fb2a6f68106c14fb2a6f681448.jpg
+    alt:
+      en: "Pink and green cottage facade with two shuttered French doors flanked by metal panels, an orange spray-painted X search marking reading \"9-11, 3-505, NG, ØA\" on the wall between them."
 geo:
   address: ''
   lat: 0.0

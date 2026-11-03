@@ -24,6 +24,8 @@ files:
     original_filename: P1010142.JPG
     thumb: /files/thumbnails/14fb2a5ac8857a14fb2a5ac88d3f.jpg
     url: /files/original/14fb2a5ac8857a14fb2a5ac88d3f.jpg
+    alt:
+      en: "A massive pile of debris and rubble looms behind a street intersection with a stop sign, traffic signals, service advertisement signs, and vehicles including a flatbed truck waiting at the corner."
 geo:
 id: 3566
 item_type: Still Image

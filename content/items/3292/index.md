@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (53).jpg
     thumb: /files/thumbnails/14fb2a5cb272a914fb2a5cb2768f.jpg
     url: /files/original/14fb2a5cb272a914fb2a5cb2768f.jpg
+    alt:
+      en: "Man stands near a camera on a tripod being filmed on a debris-strewn street, with collapsed houses, leaning utility poles, standing floodwater, and a bare tree in the background."
 geo:
 id: 3292
 item_type: Still Image

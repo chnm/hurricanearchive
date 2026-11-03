@@ -21,6 +21,8 @@ files:
     original_filename: Doorway at Jack Brks 2Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f534824f14fb29f534856c.jpg
     url: /files/original/14fb29f534824f14fb29f534856c.jpg
+    alt:
+      en: "Floodwater fills a doorway with metal handles, the water surface rippling against a dark green floor or carpet in the foreground."
 geo:
 id: 22575
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Bob's Katrina Pic 045neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb4abf0514fb29eb4ac2ed.jpg
     url: /files/original/14fb29eb4abf0514fb29eb4ac2ed.jpg
+    alt:
+      en: "Debris pile with a crushed teal car, scattered building materials, and a military Humvee parked nearby; a person in camouflage stands in the foreground near a red truck."
 geo:
 id: 24039
 item_type: Still Image

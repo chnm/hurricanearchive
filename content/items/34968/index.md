@@ -20,6 +20,8 @@ files:
     original_filename: 2297848643_79c8b8c133.
     thumb: /files/thumbnails/14fb29c81ed3eb14fb29c81ed7d1.jpg
     url: /files/original/14fb29c81ed3eb14fb29c81ed7d1.jpg
+    alt:
+      en: "Group of people gathered outdoors near bicycles and a chain-link fence, with a man in a gray \"Center Grove Trojans\" T-shirt in the foreground and a cream-colored building and trees in the background."
 geo:
 id: 34968
 item_type: Still Image

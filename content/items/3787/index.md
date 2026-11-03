@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 067.jpg
     thumb: /files/thumbnails/14fb2a599e92a414fb2a599e95f7.jpg
     url: /files/original/14fb2a599e92a414fb2a599e95f7.jpg
+    alt:
+      en: "View through a chain-link safety fence atop a bridge, looking out over a wide body of water with a distant tree-lined shoreline, utility poles, and a small boat under a clear blue sky."
 geo:
 id: 3787
 item_type: Still Image

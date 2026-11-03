@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0151-21.JPG
     thumb: /files/thumbnails/14fb2a0173c55614fb2a0173c93c.jpg
     url: /files/original/14fb2a0173c55614fb2a0173c93c.jpg
+    alt:
+      en: "A military officer in camouflage fatigues and cap stands on a grassy lot speaking with a woman in a black top holding a notebook, with heavy equipment, sandbags, and a construction site visible in the background."
 geo:
 id: 20932
 item_type: Still Image

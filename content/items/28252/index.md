@@ -27,6 +27,8 @@ files:
     original_filename: 384684809_385a2fb560.
     thumb: /files/thumbnails/14fb29d294db2614fb29d294df0a.jpg
     url: /files/original/14fb29d294db2614fb29d294df0a.jpg
+    alt:
+      en: "Artificial turf arranged in curving, organic patterns across the wooden floor of a gutted, stripped-down room with exposed studs and framing."
 geo:
   address: ''
   lat: 30.01333

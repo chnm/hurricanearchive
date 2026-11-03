@@ -23,6 +23,8 @@ files:
     original_filename: 162555164_8e0de4550c.jpg
     thumb: /files/thumbnails/14fb29d236397814fb29d2363d5e.jpg
     url: /files/original/14fb29d236397814fb29d2363d5e.jpg
+    alt:
+      en: "A weathered, rusted basketball hoop stands without a net in an overgrown grassy field, surrounded by trees with houses visible in the background."
 geo:
 id: 28589
 item_type: Still Image

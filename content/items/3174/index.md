@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (26).JPG
     thumb: /files/thumbnails/14fb2a5d756fc314fb2a5d7573ac.jpg
     url: /files/original/14fb2a5d756fc314fb2a5d7573ac.jpg
+    alt:
+      en: "Pink two-story house behind a white picket fence, with a street sign reading \"Burkes\" and a traffic signal in front; debris, fallen leaves, and a downed tree branch cover the street."
 geo:
 id: 3174
 item_type: Still Image

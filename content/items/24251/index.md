@@ -21,6 +21,8 @@ files:
     original_filename: 09140032.JPG
     thumb: /files/thumbnails/14fb29e969ae2d14fb29e969b211.jpg
     url: /files/original/14fb29e969ae2d14fb29e969b211.jpg
+    alt:
+      en: "Elevated view down a mud-covered street labeled \"St. Claude Ave,\" lined with houses, utility poles, and railroad tracks, with debris and construction barrels scattered along the median."
 geo:
 id: 24251
 item_type: Still Image

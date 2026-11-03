@@ -21,6 +21,8 @@ files:
     original_filename: 09140043.JPG
     thumb: /files/thumbnails/14fb29e933b2fb14fb29e933b698.jpg
     url: /files/original/14fb29e933b2fb14fb29e933b698.jpg
+    alt:
+      en: "Military Humvee vehicles with antennas drive along a long causeway bridge over open water, with the edge of a canvas-covered vehicle visible in the foreground."
 geo:
 id: 24262
 item_type: Still Image

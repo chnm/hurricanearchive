@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0082H.JPG
     thumb: /files/thumbnails/14fb2a03a3c25b14fb2a03a486a9.jpg
     url: /files/original/14fb2a03a3c25b14fb2a03a486a9.jpg
+    alt:
+      en: "Woman in white tank top and orange shorts signs an orange T-shirt at a table holding beer cans, energy drinks, and a \"Joe's Crab Shack\" bag, with a group of onlookers behind her."
 geo:
 id: 20807
 item_type: Still Image

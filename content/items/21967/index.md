@@ -21,6 +21,8 @@ files:
     original_filename: Picture 298-J2.jpg
     thumb: /files/thumbnails/14fb29facdea3e14fb29facdee1c.jpg
     url: /files/original/14fb29facdea3e14fb29facdee1c.jpg
+    alt:
+      en: "A white box truck sits abandoned on a debris-strewn highway, with a green overhead sign reading \"10 East Slidell\" and other vehicles visible on the road beyond."
 geo:
 id: 21967
 item_type: Still Image

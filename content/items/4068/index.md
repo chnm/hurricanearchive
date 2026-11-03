@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0021.JPG
     thumb: /files/thumbnails/14fb2a58271ba514fb2a58271f8a.jpg
     url: /files/original/14fb2a58271ba514fb2a58271f8a.jpg
+    alt:
+      en: "A mud-covered street with deep tire tracks winds past storm-damaged homes, downed power lines, and debris, with a shirtless person standing near a leaning utility pole."
 geo:
 id: 4068
 item_type: Still Image

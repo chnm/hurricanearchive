@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 11 sun no 2 .jpg
     thumb: /files/thumbnails/14fb2a0a72682a14fb2a0a727160.jpg
     url: /files/original/14fb2a0a72682a14fb2a0a727160.jpg
+    alt:
+      en: "Soldiers in camouflage stand near the corner of Bourbon Street beside a red building, while civilians sit and gather on the sidewalk outside an open doorway under a balcony."
 geo:
 id: 20249
 item_type: Still Image

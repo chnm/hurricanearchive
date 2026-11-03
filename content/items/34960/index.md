@@ -20,6 +20,8 @@ files:
     original_filename: 2417085882_6459f09f98.
     thumb: /files/thumbnails/14fb29c828572014fb29c8285b03.jpg
     url: /files/original/14fb29c828572014fb29c8285b03.jpg
+    alt:
+      en: "Aerial view of a large cleared construction or landfill site with dark excavated earth, a small pond, access roads, and small equipment visible, bordered by green forest and farmland."
 geo:
 id: 34960
 item_type: Still Image

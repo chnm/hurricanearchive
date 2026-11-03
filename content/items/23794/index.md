@@ -21,6 +21,8 @@ files:
     original_filename: Picture2neworleansS&R.png
     thumb: /files/thumbnails/14fb29ed074c3314fb29ed075018.jpg
     url: /files/original/14fb29ed074c3314fb29ed075018.jpg
+    alt:
+      en: "Severe storm damage with a collapsed house, exposed roof shingles, and widespread debris scattered across the yard, surrounded by bare trees under a partly cloudy sky."
 geo:
 id: 23794
 item_type: Still Image

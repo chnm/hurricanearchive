@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0115abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef5a50ea14fb29ef5a54cf.jpg
     url: /files/original/14fb29ef5a50ea14fb29ef5a54cf.jpg
+    alt:
+      en: "A herd of cattle stands and walks along a two-lane road flanked by extensive floodwaters, with downed trees and utility poles visible in the inundated landscape beyond."
 geo:
 id: 23459
 item_type: Still Image

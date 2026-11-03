@@ -21,6 +21,8 @@ files:
     original_filename: MVC-015S.JPG
     thumb: /files/thumbnails/14fb2a5fd274a014fb2a5fd27887.jpg
     url: /files/original/14fb2a5fd274a014fb2a5fd27887.jpg
+    alt:
+      en: "Shelving unit displaying a collection of antique cameras, folding bellows cameras, and photographic equipment, with a small framed black-and-white portrait photo mounted on the wall nearby."
 geo:
 id: 2858
 item_type: Still Image

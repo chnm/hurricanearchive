@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_Alexia_Wilson_Blanket06_b9bdd0314e.jpg
     thumb: /files/thumbnails/14fb2a18758dfe14fb2a18759546.jpg
     url: /files/original/14fb2a18758dfe14fb2a18759546.jpg
+    alt:
+      en: "Close-up of a printed fleece blanket featuring a cartoon girl with brown hair and blue eyes, set against a pink and yellow background with blue lettering."
 geo:
 id: 14669
 item_type: Still Image

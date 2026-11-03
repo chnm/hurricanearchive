@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037grandisle.JPG
     thumb: /files/thumbnails/14fb2a1531703c14fb2a1531741f.jpg
     url: /files/original/14fb2a1531703c14fb2a1531741f.jpg
+    alt:
+      en: "Aerial view of a coastal shoreline with houses on stilts, scattered storm debris, and a driftwood-strewn beach beside calm gray water under a hazy sky."
 geo:
 id: 18807
 item_type: Still Image

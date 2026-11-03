@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2102superdome.JPG
     thumb: /files/thumbnails/14fb29de8d359914fb29de8d38da.jpg
     url: /files/original/14fb29de8d359914fb29de8d38da.jpg
+    alt:
+      en: "A twin-rotor military helicopter hovers low over a rooftop helipad, with multi-story buildings, an elevated highway, and a sign reading \"Delgado Community College Charity School of Nursing\" in the background."
 geo:
 id: 25377
 item_type: Still Image

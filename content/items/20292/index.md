@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0140-18.JPG
     thumb: /files/thumbnails/14fb2a09d77e0914fb2a09d781ed.jpg
     url: /files/original/14fb2a09d77e0914fb2a09d781ed.jpg
+    alt:
+      en: "A small brown dog on a leash stands atop debris, including a round metal lid and broken concrete slabs, amid hurricane wreckage."
 geo:
 id: 20292
 item_type: Still Image

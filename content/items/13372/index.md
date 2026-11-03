@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4942_650b0c7ae9.jpg
     thumb: /files/thumbnails/14fb2a1e29f39014fb2a1e29f780.jpg
     url: /files/original/14fb2a1e29f39014fb2a1e29f780.jpg
+    alt:
+      en: "Vintage school portrait of a young girl with dark pigtails and a bow, smiling in a white blouse with a green pinafore featuring embroidered figures."
 geo:
 id: 13372
 item_type: Still Image

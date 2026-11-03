@@ -20,6 +20,8 @@ files:
     original_filename: 2421711778_40bbcb46f7.
     thumb: /files/thumbnails/14fb29c92ae66814fb29c92aea84.jpg
     url: /files/original/14fb29c92ae66814fb29c92aea84.jpg
+    alt:
+      en: "A man in a gray jacket and jeans walks through a storm-damaged room filled with overturned furniture, debris, and dirt, with sunlight filtering through tattered curtains."
 geo:
   address: ''
   lat: 29.99774

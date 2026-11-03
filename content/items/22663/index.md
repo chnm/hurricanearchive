@@ -21,6 +21,8 @@ files:
     original_filename: PICT0098Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d2b6d414fb29f4d2bab1.jpg
     url: /files/original/14fb29f4d2b6d414fb29f4d2bab1.jpg
+    alt:
+      en: "Mud-covered street and lawn with large trees, a lamppost, and historic two-story buildings with columned porches in the background; a small red outhouse sits near one structure. Timestamp reads 09.15.2005."
 geo:
 id: 22663
 item_type: Still Image

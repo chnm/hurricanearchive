@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (77).JPG
     thumb: /files/thumbnails/14fb2a5d2c6d3914fb2a5d2c7126.jpg
     url: /files/original/14fb2a5d2c6d3914fb2a5d2c7126.jpg
+    alt:
+      en: "Storefront with a sign reading \"MID CITY AUTOMOTIVE AND TOWING, LLC,\" surrounded by debris, scrap metal, tires, and a damaged vehicle shell piled outside amid storm wreckage."
 geo:
 id: 3230
 item_type: Still Image

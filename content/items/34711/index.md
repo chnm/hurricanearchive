@@ -20,6 +20,8 @@ files:
     original_filename: 2434804290_f4f94cf51c.
     thumb: /files/thumbnails/14fb29c959d9fc14fb29c959dde1.jpg
     url: /files/original/14fb29c959d9fc14fb29c959dde1.jpg
+    alt:
+      en: "Debris-strewn lot with piles of broken cinder blocks and rubble near a large tree, a body of water and distant tree line visible beyond, with a grassy foreground and paved path."
 geo:
 id: 34711
 item_type: Still Image

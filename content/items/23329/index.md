@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0051abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eff12c8814fb29eff1306c.jpg
     url: /files/original/14fb29eff12c8814fb29eff1306c.jpg
+    alt:
+      en: "A tractor or heavy vehicle drives through a deeply flooded road, throwing up large sprays of water on both sides, with trees and power lines lining the roadway under an overcast sky."
 geo:
 id: 23329
 item_type: Still Image

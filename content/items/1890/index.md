@@ -26,6 +26,8 @@ files:
     original_filename: gaslines_48cf4d5114.JPG
     thumb: /files/thumbnails/14fb2a6e6c728714fb2a6e6c772f.jpg
     url: /files/original/14fb2a6e6c728714fb2a6e6c772f.jpg
+    alt:
+      en: "A large crowd of people wait in line at a gas station canopy holding red gas containers, with a uniformed man standing watch and a \"Yield\" sign in the foreground."
 geo:
   address: ''
   lat: 31.245138

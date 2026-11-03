@@ -21,6 +21,8 @@ files:
     original_filename: Picture 048engineers.jpg
     thumb: /files/thumbnails/14fb2a0fadad4314fb2a0fadb129.jpg
     url: /files/original/14fb2a0fadad4314fb2a0fadb129.jpg
+    alt:
+      en: "Aerial view from a small aircraft's wing of extensive flooding around homes and a roadway along a river levee, with a dark oil sheen visible on the water's surface."
 geo:
 id: 19488
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 2005_1031Image0015edited_057223d8da.JPG
     thumb: /files/thumbnails/14fb2a6d6d9b1514fb2a6d6d9ef0.jpg
     url: /files/original/14fb2a6d6d9b1514fb2a6d6d9ef0.jpg
+    alt:
+      en: "A smiling young man at a nighttime street gathering wears a large costume shaped like a giant FEMA check, made out to \"Two Thousand\" dollars with a \"Temporary Housing\" memo, signed \"Michael Brown.\""
 geo:
   address: ''
   lat: 29.960548970379698

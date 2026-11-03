@@ -21,6 +21,8 @@ files:
     original_filename: S4300112Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f432446714fb29f432484d.jpg
     url: /files/original/14fb29f432446714fb29f432484d.jpg
+    alt:
+      en: "Debris piles—furniture, boxes, and household items—line a street beside a brick wall topped with razor wire, with utility poles and damaged buildings in the background."
 geo:
 id: 22756
 item_type: Still Image

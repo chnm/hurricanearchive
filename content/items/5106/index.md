@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0451.JPG
     thumb: /files/thumbnails/14fb2a53e224f614fb2a53e2924d.jpg
     url: /files/original/14fb2a53e224f614fb2a53e2924d.jpg
+    alt:
+      en: "Aerial view of concrete slab foundations outlined with wooden forms, with debris and vehicles scattered in the background, suggesting storm-damaged structures cleared to their base."
 geo:
 id: 5106
 item_type: Still Image

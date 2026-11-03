@@ -24,6 +24,8 @@ files:
     original_filename: HS 2 Huey Long Bridge_445e06ad5c.jpg
     thumb: /files/thumbnails/14fb29d8b3bba314fb29d8b3bfdc.jpg
     url: /files/original/14fb29d8b3bba314fb29d8b3bfdc.jpg
+    alt:
+      en: "Vintage sepia-toned photo of a large crowd, including children and bicycles, gathered beneath the steel trusswork of the Huey P. Long Bridge during its 1934 dedication ceremony."
 geo:
   address: ''
   lat: 29.91685

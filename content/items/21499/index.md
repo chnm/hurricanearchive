@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0277-9-25.JPG
     thumb: /files/thumbnails/14fb29fe2069fb14fb29fe206de0.jpg
     url: /files/original/14fb29fe2069fb14fb29fe206de0.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with murky brown water surrounding rooftops, trees, and a swimming pool, with a red vehicle parked on a driveway above the waterline."
 geo:
 id: 21499
 item_type: Still Image

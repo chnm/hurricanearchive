@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0229-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff7a00d114fb29ff7a04b6.jpg
     url: /files/original/14fb29ff7a00d114fb29ff7a04b6.jpg
+    alt:
+      en: "Aerial view of a flooded farm field with submerged trucks, tractors, trailers loaded with produce, scattered farm equipment, and debris surrounded by floodwater."
 geo:
 id: 21329
 item_type: Still Image

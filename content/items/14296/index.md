@@ -21,6 +21,8 @@ files:
     original_filename: aerials138.jpg
     thumb: /files/thumbnails/14fb2a19fe3d9514fb2a19fe4822.jpg
     url: /files/original/14fb2a19fe3d9514fb2a19fe4822.jpg
+    alt:
+      en: "Aerial view of a storm-damaged building reduced to its concrete slab and metal framing, situated beside a dock and waterway, with scattered debris and surrounding trees."
 geo:
 id: 14296
 item_type: Still Image

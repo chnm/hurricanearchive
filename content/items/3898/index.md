@@ -21,6 +21,8 @@ files:
     original_filename: 100_0195.JPG
     thumb: /files/thumbnails/14fb2a59122c3a14fb2a5912302f.jpg
     url: /files/original/14fb2a59122c3a14fb2a5912302f.jpg
+    alt:
+      en: "Floodwater submerges the base of a large oak tree and partially covers a green \"U.S. Government Property\" sign and a \"No Trespassing\" sign; a blurred finger is visible in the foreground."
 geo:
 id: 3898
 item_type: Still Image

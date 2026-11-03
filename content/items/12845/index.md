@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward florida13.jpg
     thumb: /files/thumbnails/14fb2a2178d84c14fb2a2178dc2a.jpg
     url: /files/original/14fb2a2178d84c14fb2a2178dc2a.jpg
+    alt:
+      en: "Debris-strewn lot with scattered wood, rubble, and damaged trees under power lines, with a utility pole and sparse dry grass in the foreground."
 geo:
 id: 12845
 item_type: Still Image

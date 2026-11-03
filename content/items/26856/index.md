@@ -21,6 +21,8 @@ files:
     original_filename: miss doris voitier_75cf6ac583.jpg
     thumb: /files/thumbnails/14fb29d731098914fb29d7310c64.jpg
     url: /files/original/14fb29d731098914fb29d7310c64.jpg
+    alt:
+      en: "Yearbook page with a black-and-white portrait of a smiling woman with short hair, captioned \"Miss Doris Voitier... B.S., University of New Orleans, M.Ed., University of New Orleans.\""
 geo:
 id: 26856
 item_type: Still Image

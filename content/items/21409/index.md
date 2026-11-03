@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0249-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fee8e7ba14fb29fee8f2a8.jpg
     url: /files/original/14fb29fee8e7ba14fb29fee8f2a8.jpg
+    alt:
+      en: "Aerial view of a flooded rural area with submerged houses, barns, and trees surrounded by floodwater, and a stranded shrimp boat resting among partly submerged vegetation."
 geo:
 id: 21409
 item_type: Still Image

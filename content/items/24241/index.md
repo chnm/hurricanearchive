@@ -21,6 +21,8 @@ files:
     original_filename: 09140022.JPG
     thumb: /files/thumbnails/14fb29e9765db114fb29e9766196.jpg
     url: /files/original/14fb29e9765db114fb29e9766196.jpg
+    alt:
+      en: "A parking lot between brick buildings with several vehicles, including a red pickup truck, red SUV, black sedan, black SUV, and military Humvee, with two men in camouflage pants standing nearby."
 geo:
 id: 24241
 item_type: Still Image

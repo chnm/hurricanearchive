@@ -23,6 +23,8 @@ files:
     original_filename: 2389425235_fa91953710.jpg
     thumb: /files/thumbnails/14fb29c7616af514fb29c7616ed4.jpg
     url: /files/original/14fb29c7616af514fb29c7616ed4.jpg
+    alt:
+      en: "Damaged house with mauve siding, broken window panes, and spray-painted markings \"9-21\" and \"NE\" on the wall; overgrown grass and weeds in front, with debris scattered below the window."
 geo:
 id: 35165
 item_type: Still Image

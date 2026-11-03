@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046-15.JPG
     thumb: /files/thumbnails/14fb2a0592d19e14fb2a0592d57d.jpg
     url: /files/original/14fb2a0592d19e14fb2a0592d57d.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rooftops surrounded by standing water, scattered debris, and railroad tracks running alongside the inundated streets."
 geo:
 id: 20628
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0106-21.JPG
     thumb: /files/thumbnails/14fb29e739d8e014fb29e739dcbe.jpg
     url: /files/original/14fb29e739d8e014fb29e739dcbe.jpg
+    alt:
+      en: "Two men in military camouflage uniforms with American flag patches, one leaning forward and touching the other's head, photographed at an angle in a dimly lit indoor setting."
 geo:
 id: 24502
 item_type: Still Image

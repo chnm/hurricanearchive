@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1362Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5ac318314fb29f5ac3569.jpg
     url: /files/original/14fb29f5ac318314fb29f5ac3569.jpg
+    alt:
+      en: "Floodwater submerges a roadway and partially covered structures beneath a dark, storm-filled sky, with a utility tower and power lines visible at right and a person's profile in the foreground."
 geo:
 id: 22521
 item_type: Still Image

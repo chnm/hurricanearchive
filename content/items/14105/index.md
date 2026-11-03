@@ -21,6 +21,8 @@ files:
     original_filename: Confirming that all is secure.JPG
     thumb: /files/thumbnails/14fb2a1bbd82a914fb2a1bbd868f.jpg
     url: /files/original/14fb2a1bbd82a914fb2a1bbd868f.jpg
+    alt:
+      en: "A military helicopter sits on pavement with its tail rotor visible, while a man in a white \"United Way\" shirt talks with a uniformed pilot wearing a helmet; a pickup truck is parked in the background."
 geo:
   address: ''
   lat: 0.0

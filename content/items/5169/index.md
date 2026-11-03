@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0531.JPG
     thumb: /files/thumbnails/14fb2a53895e8314fb2a538963bb.jpg
     url: /files/original/14fb2a53895e8314fb2a538963bb.jpg
+    alt:
+      en: "A damaged wooden dock with broken pilings stands in calm water, with a large crane and tree line visible on the far shore under a clear sky."
 geo:
 id: 5169
 item_type: Still Image

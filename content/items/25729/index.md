@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-04KPandpresnixon_a55d9df260.jpg
     thumb: /files/thumbnails/14fb29dc9b9dda14fb29dc9ba1b8.jpg
     url: /files/original/14fb29dc9b9dda14fb29dc9ba1b8.jpg
+    alt:
+      en: "Water-damaged photograph of a young girl in a sequined outfit standing beside a person wearing a Nixon mask and suit, with a car visible in the background; the print's edges are heavily deteriorated."
 geo:
 id: 25729
 item_type: Still Image

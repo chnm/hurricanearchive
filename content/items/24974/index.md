@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1492superdome.JPG
     thumb: /files/thumbnails/14fb29e35da67a14fb29e35daa5f.jpg
     url: /files/original/14fb29e35da67a14fb29e35daa5f.jpg
+    alt:
+      en: "Three soldiers in camouflage fatigues with U.S. flag patches converse near a military vehicle marked \"Louisiana National Guard,\" one holding a water bottle, with crime scene tape and a billboard in the background."
 geo:
 id: 24974
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0121.JPG
     thumb: /files/thumbnails/14fb2a59535ebe14fb2a5953645f.jpg
     url: /files/original/14fb2a59535ebe14fb2a5953645f.jpg
+    alt:
+      en: "Damaged stilt houses with torn roofs and exposed framing stand along a shoreline, viewed across open water, with bare and sparse trees in the background under an overcast sky."
 geo:
 id: 3830
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1495superdome.JPG
     thumb: /files/thumbnails/14fb29e359a36914fb29e359ac67.jpg
     url: /files/original/14fb29e359a36914fb29e359ac67.jpg
+    alt:
+      en: "Four soldiers in camouflage uniforms, one with an \"MP\" armband, stand talking on an overpass near a large sloped metal roof structure, with parked cars and a police vehicle visible below."
 geo:
 id: 24977
 item_type: Still Image

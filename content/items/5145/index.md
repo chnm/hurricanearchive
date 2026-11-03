@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0507.JPG
     thumb: /files/thumbnails/14fb2a53c7146e14fb2a53c71855.jpg
     url: /files/original/14fb2a53c7146e14fb2a53c71855.jpg
+    alt:
+      en: "Wooden post-and-beam structure with visible joints and nails, set against a bright blue sky; greenery and a parked car are visible in the background below the beams."
 geo:
 id: 5145
 item_type: Still Image

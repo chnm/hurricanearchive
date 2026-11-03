@@ -21,6 +21,8 @@ files:
     original_filename: Looking out of Jack BrksJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4e82fe214fb29f4e833c6.jpg
     url: /files/original/14fb29f4e82fe214fb29f4e833c6.jpg
+    alt:
+      en: "Open exit door of a building reveals extensive floodwater outside, submerging trees, utility poles, and debris, with a lit red \"EXIT\" sign above the doorway."
 geo:
 id: 22639
 item_type: Still Image

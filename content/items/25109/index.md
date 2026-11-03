@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1696superdome.JPG
     thumb: /files/thumbnails/14fb29e2419b3114fb29e2419f0c.jpg
     url: /files/original/14fb29e2419b3114fb29e2419f0c.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand outdoors near military vehicles; the foreground soldier, wearing an \"MP\" armband and carrying a flashlight, reads a small notebook while the other looks on."
 geo:
 id: 25109
 item_type: Still Image

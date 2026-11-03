@@ -23,6 +23,8 @@ files:
     original_filename: 2380707924_6f3ef27b99.
     thumb: /files/thumbnails/14fb29ca1dca1114fb29ca1dcdf6.jpg
     url: /files/original/14fb29ca1dca1114fb29ca1dcdf6.jpg
+    alt:
+      en: "A mud- and debris-covered upright piano stands in a flood-damaged room, its surface caked in dried silt, with boarded windows and a water-stained floor visible around it."
 geo:
   address: ''
   lat: 30.22894

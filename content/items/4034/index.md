@@ -21,6 +21,8 @@ files:
     original_filename: DSC01151.JPG
     thumb: /files/thumbnails/14fb2a585af43014fb2a585af816.jpg
     url: /files/original/14fb2a585af43014fb2a585af816.jpg
+    alt:
+      en: "A tall glass office building with a curved facade rises behind trees, viewed from a roadway with a metal guardrail and an electrical transmission tower in the foreground; timestamp reads 9:17 AM."
 geo:
 id: 4034
 item_type: Still Image

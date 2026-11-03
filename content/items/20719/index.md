@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a049d494614fb2a049d4cdb.jpg
     url: /files/original/14fb2a049d494614fb2a049d4cdb.jpg
+    alt:
+      en: "A large, sprawling oak tree stands on a small patch of land surrounded by floodwater, with a white bench partially submerged near its base and additional trees visible in the hazy background."
 geo:
 id: 20719
 item_type: Still Image

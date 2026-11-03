@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28490.jpg
     thumb: /files/thumbnails/14fb2a6ca5130414fb2a6ca516e9.jpg
     url: /files/original/14fb2a6ca5130414fb2a6ca516e9.jpg
+    alt:
+      en: "A dark stairwell descends toward a partially open door with orange spray-painted markings, with debris scattered on the steps and landing below."
 geo:
   address: ''
   lat: 0.0

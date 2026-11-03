@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4875_4c61f1788f.jpg
     thumb: /files/thumbnails/14fb2a1e3330af14fb2a1e33348f.jpg
     url: /files/original/14fb2a1e3330af14fb2a1e33348f.jpg
+    alt:
+      en: "Bride in a white dress and wide-brimmed hat carrying a floral bouquet stands arm-in-arm with a groom in a white suit, beneath a decorated floral arch."
 geo:
 id: 13364
 item_type: Still Image

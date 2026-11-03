@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0543.JPG
     thumb: /files/thumbnails/14fb2a537b400314fb2a537b43ec.jpg
     url: /files/original/14fb2a537b400314fb2a537b43ec.jpg
+    alt:
+      en: "A diagonal wooden beam braces against a vertical wooden post, measured with a yellow tape measure, with debris and trees visible along a roadside in the background."
 geo:
 id: 5181
 item_type: Still Image

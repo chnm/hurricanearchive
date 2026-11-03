@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0974superdome.JPG
     thumb: /files/thumbnails/14fb29e3fd63ae14fb29e3fd66e5.jpg
     url: /files/original/14fb29e3fd63ae14fb29e3fd66e5.jpg
+    alt:
+      en: "A man in a wheelchair is attended by a woman in a red hat and a soldier in camouflage, with an \"Acadian\" ambulance and other vehicles parked behind them."
 geo:
 id: 24899
 item_type: Still Image

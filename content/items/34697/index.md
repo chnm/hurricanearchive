@@ -20,6 +20,8 @@ files:
     original_filename: 2433994153_d65ef7dec0.
     thumb: /files/thumbnails/14fb29c97629e714fb29c9762e8e.jpg
     url: /files/original/14fb29c97629e714fb29c9762e8e.jpg
+    alt:
+      en: "A house wrapped in blue tarps and a white trailer sit beneath large overhanging trees, with a black car parked on a paved driveway in front."
 geo:
 id: 34697
 item_type: Still Image

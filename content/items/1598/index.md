@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28475.jpg
     thumb: /files/thumbnails/14fb2a679928dc14fb2a67992cc2.jpg
     url: /files/original/14fb2a679928dc14fb2a67992cc2.jpg
+    alt:
+      en: "An older man sits on a makeshift bedroll in a crowded shelter, resting his hand near a young girl in a blue dress who cradles a sleeping toddler beside him, with storage bins and bedding filling the background."
 geo:
   address: ''
   lat: 0.0

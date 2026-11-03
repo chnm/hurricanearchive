@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-018-7A.jpg
     thumb: /files/thumbnails/14fb29cf4ebb5014fb29cf4ebf41.jpg
     url: /files/original/14fb29cf4ebb5014fb29cf4ebf41.jpg
+    alt:
+      en: "Aerial view of a residential and industrial area with a river and bridge in the background, showing warehouses, scattered trees, and a grid of streets and houses under a hazy sky."
 geo:
 id: 29114
 item_type: Still Image

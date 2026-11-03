@@ -27,6 +27,8 @@ files:
     original_filename: 2326882230_66ab08826a.
     thumb: /files/thumbnails/14fb29c9d4489c14fb29c9d44c72.jpg
     url: /files/original/14fb29c9d4489c14fb29c9d44c72.jpg
+    alt:
+      en: "A wide expanse of calm water stretches toward a distant shoreline lined with scattered buildings, utility poles, and bare trees under a pale, hazy sky."
 geo:
   address: ''
   lat: 30.20382

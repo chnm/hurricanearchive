@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0156-9-25.JPG
     thumb: /files/thumbnails/14fb2a0152359514fb2a0152397c.jpg
     url: /files/original/14fb2a0152359514fb2a0152397c.jpg
+    alt:
+      en: "Aerial view of flooded coastal land with dead, defoliated trees, scattered debris, and standing water surrounding a straight paved road cutting through the marshy terrain."
 geo:
 id: 20959
 item_type: Still Image

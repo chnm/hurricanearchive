@@ -18,6 +18,8 @@ files:
     original_filename: 17_194d8d0544.jpg
     thumb: /files/thumbnails/14fb29c716b37d14fb29c716b762.jpg
     url: /files/original/14fb29c716b37d14fb29c716b762.jpg
+    alt:
+      en: "Three people in elaborate costume attire pose together: a man in a pink satin jacket and powdered wig, a woman in a gold strapless gown with gold gloves, and a woman in a blue satin dress with teal wig and fur-trimmed cape."
 geo:
   address: new orleans, la
   lat: 29.95324

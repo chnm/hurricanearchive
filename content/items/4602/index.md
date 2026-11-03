@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0028.JPG
     thumb: /files/thumbnails/14fb2a56c7777e14fb2a56c77b65.jpg
     url: /files/original/14fb2a56c7777e14fb2a56c77b65.jpg
+    alt:
+      en: "Paved road running through a devastated residential area, lined with debris piles, snapped and stripped trees, and stacks of storm wreckage on both sides under an overcast sky."
 geo:
 id: 4602
 item_type: Still Image

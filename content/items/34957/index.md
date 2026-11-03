@@ -20,6 +20,8 @@ files:
     original_filename: 2417109420_b7151aa591.
     thumb: /files/thumbnails/14fb29c82daa1614fb29c82dadf6.jpg
     url: /files/original/14fb29c82daa1614fb29c82dadf6.jpg
+    alt:
+      en: "Aerial map view labeled \"Great New Orleans\" showing the Mississippi River's winding course through the city, with numbered highway markers, roads, and surrounding terrain."
 geo:
 id: 34957
 item_type: Still Image

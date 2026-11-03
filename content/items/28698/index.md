@@ -20,6 +20,8 @@ files:
     original_filename: 114540328_540ccac26d.jpg
     thumb: /files/thumbnails/14fb29d1a9c00414fb29d1aa0d33.jpg
     url: /files/original/14fb29d1a9c00414fb29d1aa0d33.jpg
+    alt:
+      en: "Mold-covered walls surround a wrecked room with an overturned wooden table and chairs, debris-strewn floor, a brick fireplace with mirror, and a soiled couch in the foreground."
 geo:
 id: 28698
 item_type: Still Image

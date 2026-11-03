@@ -18,6 +18,8 @@ files:
     original_filename: 15_c675280bfd.jpg
     thumb: /files/thumbnails/14fb29c721dc8114fb29c721e060.jpg
     url: /files/original/14fb29c721dc8114fb29c721e060.jpg
+    alt:
+      en: "Sepia-toned photo of a man sitting on an ornate wrought-iron balcony, holding a small child on his lap, with a street, parked cars, and houses visible below."
 geo:
   address: new orleans, la
   lat: 0.0

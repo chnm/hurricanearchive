@@ -21,6 +21,8 @@ files:
     original_filename: Picture 004cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0cb8c85314fb2a0cb8cc3a.jpg
     url: /files/original/14fb2a0cb8c85314fb2a0cb8cc3a.jpg
+    alt:
+      en: "Interior view from a vehicle showing a person in camouflage attire and cap eating with a fork, a bottled water labeled \"Nestlé Pure Life\" in the foreground, and storm-damaged houses with bare trees visible through the window."
 geo:
 id: 19908
 item_type: Still Image

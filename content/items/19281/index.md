@@ -21,6 +21,8 @@ files:
     original_filename: S4300200iwojima.JPG
     thumb: /files/thumbnails/14fb2a115ccc2f14fb2a115cd015.jpg
     url: /files/original/14fb2a115ccc2f14fb2a115cd015.jpg
+    alt:
+      en: "Interior corridor of a ship with overhead pipes, insulated ductwork, and electrical panels; a coiled black hose hangs on the right wall, and two crew members stand near a watertight doorway ahead."
 geo:
 id: 19281
 item_type: Still Image

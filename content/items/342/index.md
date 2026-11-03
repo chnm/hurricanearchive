@@ -26,6 +26,8 @@ files:
     original_filename: 1015200512_6008c5ce1f.jpg
     thumb: /files/thumbnails/14fb2a703128de14fb2a70312cce.jpg
     url: /files/original/14fb2a703128de14fb2a70312cce.jpg
+    alt:
+      en: "A wooden chair sits amid storm debris and broken boards outside a storefront with a \"La Vie Nouveau Salon\" sign painted on its window."
 geo:
   address: ''
   lat: 30.446993

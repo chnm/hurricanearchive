@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea26c0aa14fb29ea26c488.jpg
     url: /files/original/14fb29ea26c0aa14fb29ea26c488.jpg
+    alt:
+      en: "Aerial view of a flattened coastal community, with only scattered debris, bare concrete slabs, and leaning utility poles remaining amid flooded marshland and a narrow roadway."
 geo:
 id: 24166
 item_type: Still Image

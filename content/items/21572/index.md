@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0308-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd7b44a114fb29fd7b4780.jpg
     url: /files/original/14fb29fd7b44a114fb29fd7b4780.jpg
+    alt:
+      en: "Aerial view of a flooded school complex and surrounding neighborhood, with brick buildings, a baseball field, and parked trucks partially submerged in brown floodwater amid trees."
 geo:
 id: 21572
 item_type: Still Image

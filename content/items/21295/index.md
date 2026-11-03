@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0220-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff9829b714fb29ff982d87.jpg
     url: /files/original/14fb29ff9829b714fb29ff982d87.jpg
+    alt:
+      en: "Aerial view of a flooded farm property with submerged houses, outbuildings, and a trailer surrounded by brown floodwater, bordered by cultivated fields and trees, with two horses visible standing in the water."
 geo:
 id: 21295
 item_type: Still Image

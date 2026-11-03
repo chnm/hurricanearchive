@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0171-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a01068c9d14fb2a01069083.jpg
     url: /files/original/14fb2a01068c9d14fb2a01069083.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with a metal-roofed house and scattered debris surrounded by floodwater and bare, partially submerged trees."
 geo:
 id: 21024
 item_type: Still Image

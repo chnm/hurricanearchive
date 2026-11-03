@@ -21,6 +21,8 @@ files:
     original_filename: Picture 050.jpg
     thumb: /files/thumbnails/14fb29cc7aec7414fb29cc7af057.jpg
     url: /files/original/14fb29cc7aec7414fb29cc7af057.jpg
+    alt:
+      en: "View from inside a car through the side window of a large fallen tree with dry, withered leaves blocking the road, its branches reaching toward a nearby house's rooftop."
 geo:
 id: 30785
 item_type: Still Image

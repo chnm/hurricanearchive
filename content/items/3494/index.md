@@ -24,6 +24,8 @@ files:
     original_filename: P1010068.JPG
     thumb: /files/thumbnails/14fb2a5b78438d14fb2a5b784ab4.jpg
     url: /files/original/14fb2a5b78438d14fb2a5b784ab4.jpg
+    alt:
+      en: "A rusted wheelchair, labeled \"Rolls by Invacare,\" lies abandoned amid a tangle of fallen tree branches and dry leaves, with a building visible in the background."
 geo:
 id: 3494
 item_type: Still Image

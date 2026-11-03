@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2048superdome.JPG
     thumb: /files/thumbnails/14fb29df172dcf14fb29df1734f8.jpg
     url: /files/original/14fb29df172dcf14fb29df1734f8.jpg
+    alt:
+      en: "A crowd of evacuees carrying backpacks and bags moves across a wet outdoor pavement, assisted by soldiers in camouflage uniforms, with two men in t-shirts in the foreground."
 geo:
 id: 25321
 item_type: Still Image

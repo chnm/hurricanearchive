@@ -26,6 +26,8 @@ files:
     original_filename: HouseDamage_6e865b18e6.jpg
     thumb: /files/thumbnails/14fb2a6ec66d6114fb2a6ec6713d.jpg
     url: /files/original/14fb2a6ec66d6114fb2a6ec6713d.jpg
+    alt:
+      en: "A large fallen tree leans across the roof and front porch of a single-story house, with tall pine trees surrounding the yard and a brick chimney visible on the right side."
 geo:
   address: ''
   lat: 30.084112

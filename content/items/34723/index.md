@@ -23,6 +23,8 @@ files:
     original_filename: 2421713500_ec91749f9d.
     thumb: /files/thumbnails/14fb29c93997e614fb29c939a36a.jpg
     url: /files/original/14fb29c93997e614fb29c939a36a.jpg
+    alt:
+      en: "Debris pile including wood scraps, insulation, and broken fixtures stacked along a curb near a dark hedge, with a street, trees, and distant houses in the background."
 geo:
   address: ''
   lat: 29.99774

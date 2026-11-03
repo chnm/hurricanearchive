@@ -18,6 +18,8 @@ files:
     original_filename: 20_fea9df538f.jpg
     thumb: /files/thumbnails/14fb29c7106e6614fb29c710724c.jpg
     url: /files/original/14fb29c7106e6614fb29c710724c.jpg
+    alt:
+      en: "Four women in matching red berets, white jackets with a red logo, and red pants pose with toy guns in front of a parade float, with a dog and onlookers nearby."
 geo:
   address: new orleans, la
   lat: 29.95324

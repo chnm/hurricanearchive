@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28537.jpg
     thumb: /files/thumbnails/14fb2a692aec9414fb2a692af07a.jpg
     url: /files/original/14fb2a692aec9414fb2a692af07a.jpg
+    alt:
+      en: "Group of responders in matching uniforms resting in folding chairs beneath a covered sidewalk, near a pole with an American flag and handmade signs reading \"Home of the Water Wizards, Task Force 1\" with mileage markers to various cities."
 geo:
   address: ''
   lat: 0.0

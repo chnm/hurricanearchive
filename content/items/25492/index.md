@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6182_5e1eb55771.jpg
     thumb: /files/thumbnails/14fb29dd854bb214fb29dd854f97.jpg
     url: /files/original/14fb29dd854bb214fb29dd854f97.jpg
+    alt:
+      en: "Studio portrait of a toddler boy with blond hair, his face obscured by extensive water damage and mold-like blistering spots across the photograph's surface."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

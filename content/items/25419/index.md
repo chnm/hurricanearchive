@@ -21,6 +21,8 @@ files:
     original_filename: S4300214superdome.JPG
     thumb: /files/thumbnails/14fb29ddeb3c4e14fb29ddeb41eb.jpg
     url: /files/original/14fb29ddeb3c4e14fb29ddeb41eb.jpg
+    alt:
+      en: "Hazy cityscape with the damaged, discolored dome of the Superdome visible behind tall office towers and smaller buildings in the foreground."
 geo:
 id: 25419
 item_type: Still Image

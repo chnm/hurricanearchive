@@ -20,6 +20,8 @@ files:
     original_filename: 1281661211_ed67db7ba6.jpg
     thumb: /files/thumbnails/14fb29cba0e04a14fb29cba0e4af.jpg
     url: /files/original/14fb29cba0e04a14fb29cba0e4af.jpg
+    alt:
+      en: "A man in a white t-shirt and jeans sits on a makeshift brick seat amid a yard strewn with storm debris, with a wheelbarrow and scattered wreckage visible behind him."
 geo:
 id: 33198
 item_type: Still Image

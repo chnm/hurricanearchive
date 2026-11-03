@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041OEP.JPG
     thumb: /files/thumbnails/14fb29f1fbfdd214fb29f1fc02b6.jpg
     url: /files/original/14fb29f1fbfdd214fb29f1fc02b6.jpg
+    alt:
+      en: "Row of rental RVs and motorhomes parked on grass, including one with \"1-800-RV4RENT Majestic\" branding and a Mount Rushmore graphic, with young trees and a paved road alongside."
 geo:
 id: 23031
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0211-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffb171c014fb29ffb178a5.jpg
     url: /files/original/14fb29ffb171c014fb29ffb178a5.jpg
+    alt:
+      en: "Close-up of a military uniform sleeve bearing an American flag patch, with a gloved hand clipping a carabiner to webbing gear inside what appears to be an aircraft interior."
 geo:
 id: 21267
 item_type: Still Image

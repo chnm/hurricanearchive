@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0076grandisle.JPG
     thumb: /files/thumbnails/14fb2a14e1e2a014fb2a14e1e678.jpg
     url: /files/original/14fb2a14e1e2a014fb2a14e1e678.jpg
+    alt:
+      en: "Aerial view of a two-lane highway cutting through a cleared, debris-strewn landscape, with scattered wreckage, downed power lines, and patches of surviving vegetation on both sides of the road."
 geo:
 id: 18859
 item_type: Still Image

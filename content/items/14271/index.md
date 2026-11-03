@@ -21,6 +21,8 @@ files:
     original_filename: aerials112.jpg
     thumb: /files/thumbnails/14fb2a1a517a5d14fb2a1a517f11.jpg
     url: /files/original/14fb2a1a517a5d14fb2a1a517f11.jpg
+    alt:
+      en: "Aerial view of a storm-damaged house on stilts surrounded by scattered debris and fallen trees, with a dense wooded area and a flooded brown waterway visible nearby."
 geo:
 id: 14271
 item_type: Still Image

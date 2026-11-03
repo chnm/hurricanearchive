@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0565Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5167b1314fb29f5167f70.jpg
     url: /files/original/14fb29f5167b1314fb29f5167f70.jpg
+    alt:
+      en: "Floodwater submerges a neighborhood street, with only rooftops, a tilted utility pole, and treetops visible above the waterline under an overcast sky."
 geo:
 id: 22601
 item_type: Still Image

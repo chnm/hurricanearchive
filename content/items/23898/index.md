@@ -21,6 +21,8 @@ files:
     original_filename: picture 4stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec88257614fb29ec88295b.jpg
     url: /files/original/14fb29ec88257614fb29ec88295b.jpg
+    alt:
+      en: "A damaged single-story brick and siding house with a collapsed garage wall, surrounded by flooded, debris-covered pavement and a chain-link fence under a clear blue sky."
 geo:
 id: 23898
 item_type: Still Image

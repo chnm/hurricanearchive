@@ -21,6 +21,8 @@ files:
     original_filename: S4300225jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecab296014fb29ecab5c67.jpg
     url: /files/original/14fb29ecab296014fb29ecab5c67.jpg
+    alt:
+      en: "A Jefferson Parish Sheriff's Office truck (D494) parked on a flooded street, with an officer standing beside it and a group of responders loading a boat near flood-damaged homes."
 geo:
 id: 23869
 item_type: Still Image

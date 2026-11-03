@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1949superdome.JPG
     thumb: /files/thumbnails/14fb29e0374ff214fb29e0375350.jpg
     url: /files/original/14fb29e0374ff214fb29e0375350.jpg
+    alt:
+      en: "A large CH-47 Chinook helicopter sits on a rooftop helipad with a smaller helicopter flying in the hazy sky, multi-story buildings and an elevated highway visible in the background."
 geo:
 id: 25251
 item_type: Still Image

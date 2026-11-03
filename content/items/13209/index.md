@@ -21,6 +21,8 @@ files:
     original_filename: 203 sign down.jpg
     thumb: /files/thumbnails/14fb2a1f50d7cf14fb2a1f50dbb5.jpg
     url: /files/original/14fb2a1f50d7cf14fb2a1f50dbb5.jpg
+    alt:
+      en: "A brick building with a satellite dish on its metal roof, beside a toppled street sign leaning at an angle amid trees and shrubs, photographed through a hazy, rain-streaked window."
 geo:
 id: 13209
 item_type: Still Image

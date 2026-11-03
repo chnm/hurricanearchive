@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0045OEP.JPG
     thumb: /files/thumbnails/14fb29f1f79c2e14fb29f1f7a015.jpg
     url: /files/original/14fb29f1f79c2e14fb29f1f7a015.jpg
+    alt:
+      en: "Row of RVs and motorhomes, including a \"Cruise America\" rental branded \"1-800-RV4RENT,\" parked on grass with coiled hoses, water bottle cases, and trash bins alongside, cars and a radio tower visible in the background."
 geo:
 id: 23035
 item_type: Still Image

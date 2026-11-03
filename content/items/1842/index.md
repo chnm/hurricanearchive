@@ -26,6 +26,8 @@ files:
     original_filename: holly3_a3fc932beb.JPG
     thumb: /files/thumbnails/14fb2a6eb2d0d314fb2a6eb2d4b8.jpg
     url: /files/original/14fb2a6eb2d0d314fb2a6eb2d4b8.jpg
+    alt:
+      en: "A debris-strewn dirt road stretches toward utility poles on the horizon, with a large standing pool of water alongside it and scattered wreckage covering the surrounding ground."
 geo:
   address: ''
   lat: 29.771529831403097

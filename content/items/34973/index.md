@@ -20,6 +20,8 @@ files:
     original_filename: 2298639460_af56ab76d0.
     thumb: /files/thumbnails/14fb29c8196d7e14fb29c8197185.jpg
     url: /files/original/14fb29c8196d7e14fb29c8197185.jpg
+    alt:
+      en: "A group of people stand on a street watching others load furniture into the back of a large moving truck, with utility poles and power lines overhead and residential houses in the background."
 geo:
 id: 34973
 item_type: Still Image

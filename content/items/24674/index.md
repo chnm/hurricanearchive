@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00141 DSC00141cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5b899df14fb29e5b89dc4.jpg
     url: /files/original/14fb29e5b899df14fb29e5b89dc4.jpg
+    alt:
+      en: "Group of men, including military personnel in camouflage uniforms and civilians, stand talking in a gravel lot, with storm-damaged buildings, twisted metal roofing, and a bare tree in the background."
 geo:
 id: 24674
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28575.jpg
     thumb: /files/thumbnails/14fb2a6b4d4e1614fb2a6b4d51f4.jpg
     url: /files/original/14fb2a6b4d4e1614fb2a6b4d51f4.jpg
+    alt:
+      en: "Debris-strewn lot with scattered twisted metal, wood, and household wreckage in front of a brick multi-unit building and a white house, under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

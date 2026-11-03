@@ -21,6 +21,8 @@ files:
     original_filename: S4300180stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece32bb314fb29ece348ef.jpg
     url: /files/original/14fb29ece32bb314fb29ece348ef.jpg
+    alt:
+      en: "Single-story brick building with a sign reading \"This [is] the generation of them that seek him... Psalms 24:6 KJ,\" surrounded by mud-covered ground and debris from flooding."
 geo:
 id: 23841
 item_type: Still Image

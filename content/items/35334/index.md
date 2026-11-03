@@ -21,6 +21,8 @@ files:
     original_filename: 75_9c19962fb3.jpg
     thumb: /files/thumbnails/14fb29c642017914fb29c642055f.jpg
     url: /files/original/14fb29c642017914fb29c642055f.jpg
+    alt:
+      en: "Group of six people pose inside Bubba's Produce Co. Inc., with produce boxes, a bicycle, and shelving visible around them beneath the store's painted sign."
 geo:
   address: 400 Marigny St New Orleans
   lat: 29.96189

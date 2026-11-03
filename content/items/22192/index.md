@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0999Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f92affc214fb29f92b03a8.jpg
     url: /files/original/14fb29f92affc214fb29f92b03a8.jpg
+    alt:
+      en: "Convoy of military vehicles, including a camouflage pickup truck and a large flatbed truck with an acetylene tank, moves down a street past a police car and a brick guard booth."
 geo:
 id: 22192
 item_type: Still Image

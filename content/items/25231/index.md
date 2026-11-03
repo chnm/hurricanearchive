@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1930superdome.JPG
     thumb: /files/thumbnails/14fb29e09d5f7d14fb29e09d6584.jpg
     url: /files/original/14fb29e09d5f7d14fb29e09d6584.jpg
+    alt:
+      en: "A military Chinook helicopter rests on a tarmac with soldiers exiting its rear ramp, while an armed, helmeted soldier carrying a backpack walks across the pavement nearby."
 geo:
 id: 25231
 item_type: Still Image

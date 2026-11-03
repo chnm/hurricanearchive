@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6711_813cef5814.JPG
     thumb: /files/thumbnails/14fb29d3134a8814fb29d31353fb.jpg
     url: /files/original/14fb29d3134a8814fb29d31353fb.jpg
+    alt:
+      en: "Black-and-white photo of four children fishing on a dock by a river, with a bucket and jar nearby and grassy banks and buildings in the background."
 geo:
   address: ''
   lat: 29.87876

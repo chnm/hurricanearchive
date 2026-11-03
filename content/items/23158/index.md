@@ -21,6 +21,8 @@ files:
     original_filename: 20051003-A-3780B-264NewMexicoNG.jpg
     thumb: /files/thumbnails/14fb29f14b16b514fb29f14b1aa4.jpg
     url: /files/original/14fb29f14b16b514fb29f14b1aa4.jpg
+    alt:
+      en: "A soldier in camouflage uniform and orange safety vest raises both arms to guide an approaching helicopter, with stacked sandbags visible on the grass nearby."
 geo:
 id: 23158
 item_type: Still Image

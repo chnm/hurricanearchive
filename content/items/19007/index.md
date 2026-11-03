@@ -21,6 +21,8 @@ files:
     original_filename: Picture 027satellite.jpg
     thumb: /files/thumbnails/14fb2a13c75b1314fb2a13c76168.jpg
     url: /files/original/14fb2a13c75b1314fb2a13c76168.jpg
+    alt:
+      en: "Side-by-side satellite views of New Orleans comparing August 28, 2002 to September 2, 2005, with the Superdome visible; the later image shows widespread flooding and darkened, water-covered streets after Hurricane Katrina."
 geo:
 id: 19007
 item_type: Still Image

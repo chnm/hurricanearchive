@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28272.jpg
     thumb: /files/thumbnails/14fb2a6bf39ee314fb2a6bf3a63c.jpg
     url: /files/original/14fb2a6bf39ee314fb2a6bf3a63c.jpg
+    alt:
+      en: "Damaged domed church building with a storm-battered roof, missing sections of siding, and debris scattered across the grounds, alongside a freestanding cross-topped sign structure in the foreground."
 geo:
   address: ''
   lat: 0.0

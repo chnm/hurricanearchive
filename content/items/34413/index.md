@@ -23,6 +23,8 @@ files:
     original_filename: 2380709844_ef30ce6a78.
     thumb: /files/thumbnails/14fb29ca28192a14fb29ca282c5d.jpg
     url: /files/original/14fb29ca28192a14fb29ca282c5d.jpg
+    alt:
+      en: "Backyard littered with storm debris, including an overturned sink, terracotta planters, broken fencing, a damaged air conditioning unit, and scattered patio furniture against brick houses."
 geo:
   address: ''
   lat: 30.23512

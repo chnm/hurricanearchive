@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28038.jpg
     thumb: /files/thumbnails/14fb2a6a63c3e014fb2a6a63c7c4.jpg
     url: /files/original/14fb2a6a63c3e014fb2a6a63c7c4.jpg
+    alt:
+      en: "A partially buried white car sits amid storm debris, with a collapsed, rusted rooftop structure and scattered wood wreckage behind it; damaged houses stand in the background."
 geo:
   address: ''
   lat: 0.0

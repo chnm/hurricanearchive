@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6526_3e7d836f6d.jpg
     thumb: /files/thumbnails/14fb29d4130cc014fb29d413124c.jpg
     url: /files/original/14fb29d4130cc014fb29d413124c.jpg
+    alt:
+      en: "Two people wave and smile from atop a Mardi Gras float decorated with a space-themed design featuring a painted astronaut and starry, galaxy-colored panels."
 geo:
   address: ''
   lat: 29.91685

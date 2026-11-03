@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006H.JPG
     thumb: /files/thumbnails/14fb2a085504e614fb2a085508c5.jpg
     url: /files/original/14fb2a085504e614fb2a085508c5.jpg
+    alt:
+      en: "A group of people gather around a pool table at night; in the foreground a man in an \"ARMY\" t-shirt stands near a woman in an orange \"Hooters\" tank top and shorts holding a cue stick."
 geo:
 id: 20369
 item_type: Still Image

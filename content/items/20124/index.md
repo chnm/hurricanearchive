@@ -21,6 +21,8 @@ files:
     original_filename: Picture 221cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b2c53df14fb2a0b2c57c4.jpg
     url: /files/original/14fb2a0b2c53df14fb2a0b2c57c4.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms clear fallen tree branches and debris from a yard in front of houses, with a large damaged tree and scattered leaves covering the ground."
 geo:
 id: 20124
 item_type: Still Image

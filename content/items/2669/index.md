@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9260.jpg
     thumb: /files/thumbnails/14fb2a60a4772414fb2a60a47b0a.jpg
     url: /files/original/14fb2a60a4772414fb2a60a47b0a.jpg
+    alt:
+      en: "A red wooden house with a green metal roof sits displaced and tilted beside a flooded ditch along a highway shoulder, with utility poles and a passing truck visible in the background."
 geo:
 id: 2669
 item_type: Still Image

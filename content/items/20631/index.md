@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a058d498e14fb2a058d4d73.jpg
     url: /files/original/14fb2a058d498e14fb2a058d4d73.jpg
+    alt:
+      en: "Aerial view of a flooded coastal roadway with several vehicles traveling along it, surrounded by submerged marshland and leaning utility poles under a gray, overcast sky."
 geo:
 id: 20631
 item_type: Still Image

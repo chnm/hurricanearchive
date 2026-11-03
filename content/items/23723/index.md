@@ -21,6 +21,8 @@ files:
     original_filename: P1010164empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed85f63714fb29ed85fa14.jpg
     url: /files/original/14fb29ed85f63714fb29ed85fa14.jpg
+    alt:
+      en: "View through a vehicle window of a storm-damaged marshy landscape, with uprooted and broken trees, muddy ground, scattered debris, and white wreckage visible in the background."
 geo:
 id: 23723
 item_type: Still Image

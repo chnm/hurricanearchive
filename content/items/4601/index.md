@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0027.JPG
     thumb: /files/thumbnails/14fb2a56c8003614fb2a56c807fb.jpg
     url: /files/original/14fb2a56c8003614fb2a56c807fb.jpg
+    alt:
+      en: "Empty street intersection lined with storm-damaged, leafless trees and stripped bark, flanked by \"ROAD CLOSED\" barricades and cleared debris fields where homes once stood."
 geo:
 id: 4601
 item_type: Still Image

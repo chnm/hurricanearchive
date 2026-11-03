@@ -20,6 +20,8 @@ files:
     original_filename: 2420898703_034f08ee38.
     thumb: /files/thumbnails/14fb29c94cff6c14fb29c94d0352.jpg
     url: /files/original/14fb29c94cff6c14fb29c94d0352.jpg
+    alt:
+      en: "Dark, dimly lit church interior with rows of wooden pews, stained glass windows on either side, and two banners depicting religious figures hanging on the walls near the front."
 geo:
   address: ''
   lat: 29.97632

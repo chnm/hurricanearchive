@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28211.jpg
     thumb: /files/thumbnails/14fb2a695377a314fb2a69537b74.jpg
     url: /files/original/14fb2a695377a314fb2a69537b74.jpg
+    alt:
+      en: "A large boat lies overturned and wedged among trees beside a chain-link fence with a yellow \"WARNING\" sign reading \"467-9248,\" amid storm-damaged, browned vegetation."
 geo:
   address: ''
   lat: 0.0

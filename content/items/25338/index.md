@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2065superdome.JPG
     thumb: /files/thumbnails/14fb29def0cc9714fb29def0d1f5.jpg
     url: /files/original/14fb29def0cc9714fb29def0d1f5.jpg
+    alt:
+      en: "Two men in military uniforms assist a young man wearing an orange \"Harlem Globetrotters\" cap, who presses a water bottle to his forehead while being supported by the arms."
 geo:
 id: 25338
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: scan0002_6a6fe7033f.jpg
     thumb: /files/thumbnails/14fb2a6d4d229514fb2a6d4d27a7.jpg
     url: /files/original/14fb2a6d4d229514fb2a6d4d27a7.jpg
+    alt:
+      en: "A gym floor strewn with scattered debris, clothing, and trash around exercise machines, with large windows in the background showing outdoor light."
 geo:
   address: ''
   lat: 30.372875188117998

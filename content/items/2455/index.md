@@ -24,6 +24,8 @@ files:
     original_filename: 20050901_MG_7957.jpg
     thumb: /files/thumbnails/14fb2a66578fde14fb2a66579382.jpg
     url: /files/original/14fb2a66578fde14fb2a66579382.jpg
+    alt:
+      en: "Rooftop view of damaged copper and shingle roofing with an open hatch exposing rafters and a hanging light bulb, overlooking a cityscape of historic buildings under a clear sky."
 geo:
 id: 2455
 item_type: Still Image

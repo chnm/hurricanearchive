@@ -27,6 +27,8 @@ files:
     original_filename: 2292072342_d342b17bf0.
     thumb: /files/thumbnails/14fb29c99ef7c714fb29c99ef9be.jpg
     url: /files/original/14fb29c99ef7c714fb29c99ef9be.jpg
+    alt:
+      en: "A debris-strewn yard with a car's grille and roofline buried under storm wreckage, dried grass, and splintered wood, set against damaged houses and bare tree trunks."
 geo:
   address: ''
   lat: 30.22539

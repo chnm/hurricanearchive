@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110-9-25.JPG
     thumb: /files/thumbnails/14fb29e6fae9df14fb29e6faedc1.jpg
     url: /files/original/14fb29e6fae9df14fb29e6faedc1.jpg
+    alt:
+      en: "Aerial view of extensive floodwater covering fields and what appears to be a submerged cemetery with visible grave markers, surrounded by bare, storm-damaged trees and a partially collapsed metal-roofed structure."
 geo:
 id: 24528
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014.JPG
     thumb: /files/thumbnails/14fb2a0771ce8314fb2a0771d370.jpg
     url: /files/original/14fb2a0771ce8314fb2a0771d370.jpg
+    alt:
+      en: "Four people seated at tables with laptops and water bottles in an office-like room, with empty rolling chairs in the foreground and storage cabinets along the back wall."
 geo:
 id: 20431
 item_type: Still Image

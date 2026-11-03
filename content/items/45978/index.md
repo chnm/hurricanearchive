@@ -17,6 +17,8 @@ files:
     original_filename: dennis baud.jpg
     thumb: /files/thumbnails/9bf996142f28b42bfeef9f0885c23451.jpg
     url: /files/original/9bf996142f28b42bfeef9f0885c23451.jpg
+    alt:
+      en: "A man stands with a dog in front of a white FEMA trailer displaying a mounted deer head, a Confederate flag, and a hand-painted sign reading \"YOU LOOT WE SHOOT.\""
 geo:
   address: Waveland, Mississippi
   lat: 30.2868632

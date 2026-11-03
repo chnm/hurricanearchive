@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1581superdome.JPG
     thumb: /files/thumbnails/14fb29e29d02f514fb29e29d06db.jpg
     url: /files/original/14fb29e29d02f514fb29e29d06db.jpg
+    alt:
+      en: "Military Humvee with headlights on, marked \"SSG WILLIA,\" drives on a wet road past parked school buses and a Military Police vehicle, with floodwaters submerging cars and trucks in the background."
 geo:
 id: 25056
 item_type: Still Image

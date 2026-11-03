@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27849.jpg
     thumb: /files/thumbnails/14fb2a69102c5c14fb2a69103042.jpg
     url: /files/original/14fb2a69102c5c14fb2a69103042.jpg
+    alt:
+      en: "Large, sprawling oak tree draped with Spanish moss stands in an open grassy field, with smaller trees and a pale sky in the background."
 geo:
   address: ''
   lat: 0.0

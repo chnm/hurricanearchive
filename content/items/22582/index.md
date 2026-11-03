@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0533Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f52dc4f714fb29f52dc8db.jpg
     url: /files/original/14fb29f52dc4f714fb29f52dc8db.jpg
+    alt:
+      en: "Floodwater submerges a street and yard in front of a brick house during heavy rain, with wrought-iron fencing and brick posts partially underwater and visibility obscured by fog or mist."
 geo:
 id: 22582
 item_type: Still Image

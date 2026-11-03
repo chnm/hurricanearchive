@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8736.jpg
     thumb: /files/thumbnails/14fb2a65bb8d4e14fb2a65bb9b3d.jpg
     url: /files/original/14fb2a65bb8d4e14fb2a65bb9b3d.jpg
+    alt:
+      en: "Devastated remains of concrete-block house foundations and stairways (one marked \"502\") surrounded by scattered debris, standing water, and bare, storm-stripped trees in a flat marshland landscape."
 geo:
 id: 2526
 item_type: Still Image

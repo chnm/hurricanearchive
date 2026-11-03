@@ -26,6 +26,8 @@ files:
     original_filename: 17th_st_canal_and_metairie_rd_orleans_parish_flooded_jeff_levee_high__dry_dcfd45a5e5.JPG
     thumb: /files/thumbnails/14fb2a6ebc1f0914fb2a6ebc22ee.jpg
     url: /files/original/14fb2a6ebc1f0914fb2a6ebc22ee.jpg
+    alt:
+      en: "A flooded canal lined with power line towers and a concrete levee wall on the left, trees along the right bank, and calm water reflecting the blue sky and distant bridge."
 geo:
   address: ''
   lat: 29.9792490244952

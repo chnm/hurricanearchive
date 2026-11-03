@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TiaRobinson_03_e50051a8d1.jpg
     thumb: /files/thumbnails/14fb2a17a014a614fb2a17a01c8e.jpg
     url: /files/original/14fb2a17a014a614fb2a17a01c8e.jpg
+    alt:
+      en: "Children seated at blue and red tables in a classroom, working with colorful activity cards and sorting materials, while an adult assists them; other children stand nearby wearing matching school T-shirts."
 geo:
 id: 14804
 item_type: Still Image

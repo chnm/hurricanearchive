@@ -23,6 +23,8 @@ files:
     original_filename: animalrescue_a6867989b5.JPG
     thumb: /files/thumbnails/14fb2a248230f214fb2a248234e2.jpg
     url: /files/original/14fb2a248230f214fb2a248234e2.jpg
+    alt:
+      en: "A partially open wooden shed door reveals cluttered shelves and debris inside, with a deceased dog lying near the threshold amid dirt and scattered items."
 geo:
 id: 11508
 item_type: Still Image

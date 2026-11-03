@@ -21,6 +21,8 @@ files:
     original_filename: dawn street looking south.jpg
     thumb: /files/thumbnails/14fb2a2086fd0a14fb2a208700f0.jpg
     url: /files/original/14fb2a2086fd0a14fb2a208700f0.jpg
+    alt:
+      en: "Heavy rain and wind blur a street intersection lined by a tall arched-window building, with trees bending sideways and a street lamp in the foreground."
 geo:
 id: 13085
 item_type: Still Image

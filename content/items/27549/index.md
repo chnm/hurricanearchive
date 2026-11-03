@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7136_e7cdb2c30f.jpg
     thumb: /files/thumbnails/14fb29d37b683714fb29d37b6d43.jpg
     url: /files/original/14fb29d37b683714fb29d37b6d43.jpg
+    alt:
+      en: "A young boy in a light blue shirt and tie stands between his grandparents, an elderly woman in a black-and-white cardigan and an elderly man in a navy blazer, outdoors in front of greenery."
 geo:
   address: ''
   lat: 29.87876

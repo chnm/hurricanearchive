@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1236Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6b33dcc14fb29f6b341b1.jpg
     url: /files/original/14fb29f6b33dcc14fb29f6b341b1.jpg
+    alt:
+      en: "Hazy, overexposed photo of a flooded area with a pole or antenna structure rising from the water, and blurred foliage silhouetted in the foreground."
 geo:
 id: 22404
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1133Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f765a68014fb29f765aa65.jpg
     url: /files/original/14fb29f765a68014fb29f765aa65.jpg
+    alt:
+      en: "Floodwaters submerge multiple vehicles up to their rooftops near trees and a building, with murky water covering the entire street."
 geo:
 id: 22320
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2147superdome.JPG
     thumb: /files/thumbnails/14fb29e48d8a2814fb29e48d8d77.jpg
     url: /files/original/14fb29e48d8a2814fb29e48d8d77.jpg
+    alt:
+      en: "Two men in military camouflage uniforms stand talking near a flooded area beside a large white trailer, with folding chairs and standing water visible in the foreground."
 geo:
 id: 24825
 item_type: Still Image

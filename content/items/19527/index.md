@@ -21,6 +21,8 @@ files:
     original_filename: Picture 087engineers.jpg
     thumb: /files/thumbnails/14fb2a0f895a0414fb2a0f895f36.jpg
     url: /files/original/14fb2a0f895a0414fb2a0f895f36.jpg
+    alt:
+      en: "Aerial view of Slidell, Louisiana after Hurricane Katrina, showing flooded waterways, debris-strewn boat yard, damaged buildings, and stripped trees; timestamp reads 09.05.2005 18:00."
 geo:
 id: 19527
 item_type: Still Image

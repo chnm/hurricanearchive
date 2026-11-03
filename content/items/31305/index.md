@@ -27,6 +27,8 @@ files:
     original_filename: butterflies_d7d03a3fae.jpg
     thumb: /files/thumbnails/14fb29cc379ccd14fb29cc37a0b3.jpg
     url: /files/original/14fb29cc379ccd14fb29cc37a0b3.jpg
+    alt:
+      en: "Mold-stained jewelry boxes and tins piled on a wooden surface, with open boxes revealing butterfly-shaped brooches and pins amid water-damaged packaging and debris."
 geo:
   address: 1342 Mandolin St.
   lat: 0.0

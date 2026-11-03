@@ -20,6 +20,8 @@ files:
     original_filename: Lakeview 8.JPG
     thumb: /files/thumbnails/14fb29d599226e14fb29d599264d.jpg
     url: /files/original/14fb29d599226e14fb29d599264d.jpg
+    alt:
+      en: "Damaged single-story house with a partially stripped roof stands beside piles of storm debris and a spray-painted car marked with an X, with another damaged home visible in the background."
 geo:
 id: 27260
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 162589853_91d00f4298.jpg
     thumb: /files/thumbnails/14fb29d236c60e14fb29d236c9fc.jpg
     url: /files/original/14fb29d236c60e14fb29d236c9fc.jpg
+    alt:
+      en: "An overgrown playground with a blue and orange climbing structure and slide sits on a worn green rubber surface, surrounded by tall grass, bare trees, and distant houses under a cloudy sky."
 geo:
 id: 28588
 item_type: Still Image

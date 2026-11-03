@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0622.JPG
     thumb: /files/thumbnails/14fb29d03cb07214fb29d03cb448.jpg
     url: /files/original/14fb29d03cb07214fb29d03cb448.jpg
+    alt:
+      en: "A burned-out, rusted car sits amid charred debris on a residential street, with a blue tarp covering a damaged roof and houses visible in the background under a clear sky."
 geo:
 id: 29077
 item_type: Still Image

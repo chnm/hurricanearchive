@@ -27,6 +27,8 @@ files:
     original_filename: 2380073211_9d1640ba51.
     thumb: /files/thumbnails/14fb29ca33840914fb29ca3387f3.jpg
     url: /files/original/14fb29ca33840914fb29ca3387f3.jpg
+    alt:
+      en: "Close-up of storm-damaged roof eaves with exposed plywood sheathing and insulation, above a lush green hedge that survived the floodwaters."
 geo:
   address: ''
   lat: 30.22894

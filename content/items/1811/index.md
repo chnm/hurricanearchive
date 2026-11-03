@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0488_80f4961c6f.JPG
     thumb: /files/thumbnails/14fb2a6ec5d12214fb2a6ec5d508.jpg
     url: /files/original/14fb2a6ec5d12214fb2a6ec5d508.jpg
+    alt:
+      en: "Floodwater surrounds a white, two-story house with columned porches, reflecting the structure and surrounding greenery on its still surface."
 geo:
   address: ''
   lat: 29.981033338736196

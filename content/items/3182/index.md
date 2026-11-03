@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (33).JPG
     thumb: /files/thumbnails/14fb2a5d70947614fb2a5d70a5f2.jpg
     url: /files/original/14fb2a5d70947614fb2a5d70a5f2.jpg
+    alt:
+      en: "A damaged \"Robert Fresh Market\" storefront with boarded-up roof sections, situated behind a mostly empty, debris-strewn parking lot with scattered tree limbs and leaves."
 geo:
 id: 3182
 item_type: Still Image

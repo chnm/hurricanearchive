@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7043_8edd5f60b8.jpg
     thumb: /files/thumbnails/14fb29db5aca8c14fb29db5ad0e9.jpg
     url: /files/original/14fb29db5aca8c14fb29db5ad0e9.jpg
+    alt:
+      en: "A large crowd gathers before a bunting-draped platform at Xavier University's dedication ceremony, with clergy, officials, and a uniformed band assembled near a stone building."
 geo:
   address: ''
   lat: 29.91685

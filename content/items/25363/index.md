@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2090superdome.JPG
     thumb: /files/thumbnails/14fb29dea5ef6314fb29dea5f34a.jpg
     url: /files/original/14fb29dea5ef6314fb29dea5f34a.jpg
+    alt:
+      en: "Wet concrete walkway and parking area with painted lane markings, a chain-link fence gate, and a blurred dark tire tread in the foreground; a building with vinyl siding stands at right."
 geo:
 id: 25363
 item_type: Still Image

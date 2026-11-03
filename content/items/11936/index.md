@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 058.jpg
     thumb: /files/thumbnails/14fb2a22ac276814fb2a22ac339d.jpg
     url: /files/original/14fb2a22ac276814fb2a22ac339d.jpg
+    alt:
+      en: "Storm-damaged gas station canopy with bent blue and yellow support beams, surrounded by debris, with a building reading \"White Pillars\" visible in the background; dated 2005/09/24."
 geo:
 id: 11936
 item_type: Still Image

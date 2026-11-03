@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6615_1fee0ca8ad.jpg
     thumb: /files/thumbnails/14fb29d2d14d2914fb29d2d15110.jpg
     url: /files/original/14fb29d2d14d2914fb29d2d15110.jpg
+    alt:
+      en: "Black-and-white photo of a young woman in a letterman sweater sitting on a concrete post near a lakefront sign reading \"HELP! Keep the Lakefront Clean, put your waste-paper here, Orleans Levee Board.\""
 geo:
   address: ''
   lat: 29.84064

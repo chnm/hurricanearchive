@@ -21,6 +21,8 @@ files:
     original_filename: _MG_5007-sm_38c094aaf8.jpg
     thumb: /files/thumbnails/14fb2a1a6cc41e14fb2a1a6cc85d.jpg
     url: /files/original/14fb2a1a6cc41e14fb2a1a6cc85d.jpg
+    alt:
+      en: "Vintage studio portrait of an older woman seated in a dark dress with a floral brooch, photographed against a painted floral backdrop; identified as Olevia Brown Moore."
 geo:
 id: 14247
 item_type: Still Image

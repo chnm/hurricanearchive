@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DannishDanionGreen_01_ff8f8572be.jpg
     thumb: /files/thumbnails/14fb2a1816a11814fb2a1816a52a.jpg
     url: /files/original/14fb2a1816a11814fb2a1816a52a.jpg
+    alt:
+      en: "Worn photograph of two children, Danion and Dannisha Green, posing with Santa Claus in front of a backdrop with crossed candy canes and a \"Santa's Workshop\" sign; the boy wears a white \"Mecca\" sweatshirt."
 geo:
 id: 14701
 item_type: Still Image

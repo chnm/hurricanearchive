@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0243-21.JPG
     thumb: /files/thumbnails/14fb29ff0e2bc114fb29ff0e2fa5.jpg
     url: /files/original/14fb29ff0e2bc114fb29ff0e2fa5.jpg
+    alt:
+      en: "Aerial view of a breached levee along a canal, with twisted floodwall sections and debris-strewn, flattened neighborhoods extending into the distance."
 geo:
 id: 21388
 item_type: Still Image

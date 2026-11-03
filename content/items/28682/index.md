@@ -23,6 +23,8 @@ files:
     original_filename: 157224423_a5d234a950.jpg
     thumb: /files/thumbnails/14fb29d1c5188914fb29d1c51c70.jpg
     url: /files/original/14fb29d1c5188914fb29d1c51c70.jpg
+    alt:
+      en: "Row of damaged houses along a cracked, overgrown street in the Lower Ninth Ward, with a teal car parked at the curb and faded search-and-rescue markings spray-painted on one home's wall."
 geo:
 id: 28682
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: PICT0688Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f45bda9214fb29f45bde82.jpg
     url: /files/original/14fb29f45bda9214fb29f45bde82.jpg
+    alt:
+      en: "A decorative black wrought-iron bracket holds a white street sign reading \"COL SHERIDAN\" in green lettering, mounted on a cream-colored building with balcony railings above, dated 09.15.2005."
 geo:
 id: 22730
 item_type: Still Image

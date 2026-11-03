@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 527%20(sept12)Picture2.png
     thumb: /files/thumbnails/14fb2a0a6b261914fb2a0a6b29fc.jpg
     url: /files/original/14fb2a0a6b261914fb2a0a6b29fc.jpg
+    alt:
+      en: "A front-end loader clears fallen trees and debris, with downed power lines tangled in the branches above and a pile of dead vegetation in the foreground."
 geo:
 id: 20255
 item_type: Still Image

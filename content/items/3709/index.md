@@ -24,6 +24,8 @@ files:
     original_filename: P1010155.JPG
     thumb: /files/thumbnails/14fb2a5a0c153514fb2a5a0c1928.jpg
     url: /files/original/14fb2a5a0c153514fb2a5a0c1928.jpg
+    alt:
+      en: "Yellow corner house with green shutters and doors covered by a blue tarp roof, at the intersection of Burgundy and St. Ferdinand streets, with potted palms and trash bags on the sidewalk."
 geo:
 id: 3709
 item_type: Still Image

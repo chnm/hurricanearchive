@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1760superdome.JPG
     thumb: /files/thumbnails/14fb29e1ded8ad14fb29e1dedc92.jpg
     url: /files/original/14fb29e1ded8ad14fb29e1dedc92.jpg
+    alt:
+      en: "Pilot wearing a camouflage flight suit, helmet, and microphone boom sits strapped into the cockpit of a military helicopter, visible through the riveted metal window frame."
 geo:
 id: 25150
 item_type: Still Image

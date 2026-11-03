@@ -26,6 +26,8 @@ files:
     original_filename: 2005_0116Image0009_b14d78786e.JPG
     thumb: /files/thumbnails/14fb2a7139d7a514fb2a7139db80.jpg
     url: /files/original/14fb2a7139d7a514fb2a7139db80.jpg
+    alt:
+      en: "Debris and a damaged appliance pile in front of a brick house with boarded windows, a tattered American flag standing amid the wreckage."
 geo:
   address: ''
   lat: 0.0

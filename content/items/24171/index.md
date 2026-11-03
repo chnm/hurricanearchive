@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea20a2c414fb29ea20a694.jpg
     url: /files/original/14fb29ea20a2c414fb29ea20a694.jpg
+    alt:
+      en: "Aerial view of a flattened coastal community reduced to scattered debris and bare foundations, with flooded marshland and a narrow barrier beach stretching along the shoreline."
 geo:
 id: 24171
 item_type: Still Image

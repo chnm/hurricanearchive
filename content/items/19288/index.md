@@ -21,6 +21,8 @@ files:
     original_filename: USS Iwo Jimaiwojima.JPG
     thumb: /files/thumbnails/14fb2a11543a1414fb2a11543dcc.jpg
     url: /files/original/14fb2a11543a1414fb2a11543dcc.jpg
+    alt:
+      en: "Gray naval vessel, the USS Iwo Jima, docked along a riverfront beside the \"Riverwalk\" building, with a city skyline including the Sheraton, Hilton, and Marriott hotels in the background."
 geo:
 id: 19288
 item_type: Still Image

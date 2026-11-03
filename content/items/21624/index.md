@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0356-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fcf2120014fb29fcf215e4.jpg
     url: /files/original/14fb29fcf2120014fb29fcf215e4.jpg
+    alt:
+      en: "Aerial view of a flooded marshland and winding river, with grassy wetlands partially submerged under floodwater and scattered trees along the shoreline."
 geo:
 id: 21624
 item_type: Still Image

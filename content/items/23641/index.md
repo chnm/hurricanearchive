@@ -21,6 +21,8 @@ files:
     original_filename: P1010082empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee22c5d214fb29ee22d962.jpg
     url: /files/original/14fb29ee22c5d214fb29ee22d962.jpg
+    alt:
+      en: "Brick church with bell tower surrounded by floodwater, with a submerged fire hydrant, debris, and bare trees in the foreground under an overcast sky."
 geo:
 id: 23641
 item_type: Still Image

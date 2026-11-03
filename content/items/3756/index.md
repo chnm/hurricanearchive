@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 036.jpg
     thumb: /files/thumbnails/14fb2a59d4514414fb2a59d45523.jpg
     url: /files/original/14fb2a59d4514414fb2a59d45523.jpg
+    alt:
+      en: "Damaged building with a red roof, shattered windows, and debris-covered walls, surrounded by storm-littered grounds and bare trees under a clear blue sky."
 geo:
 id: 3756
 item_type: Still Image

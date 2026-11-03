@@ -29,18 +29,24 @@ files:
     original_filename: chalbfld_355122fa7f.jpg
     thumb: /files/thumbnails/14fb29d9a9575114fb29d9a95b34.jpg
     url: /files/original/14fb29d9a9575114fb29d9a95b34.jpg
+    alt:
+      en: "Aerial view of a riverboat docked near a monument with a row of white columns and a tall obelisk, surrounded by green lawns along the riverbank."
   - fullsize: /files/fullsize/14fb29d9a8077a14fb29d9a80b60.jpg
     id: 22798
     mime: image/jpeg
     original_filename: img0007_29a7b95a1f.jpg
     thumb: /files/thumbnails/14fb29d9a8077a14fb29d9a80b60.jpg
     url: /files/original/14fb29d9a8077a14fb29d9a80b60.jpg
+    alt:
+      en: "A large blue artillery cannon on wheels sits on a wooden platform, with a historic plantation-style house and open lawn visible in the background beneath overhanging, moss-draped tree branches."
   - fullsize: /files/fullsize/14fb29d9a5063e14fb29d9a50a18.jpg
     id: 22799
     mime: image/jpeg
     original_filename: tpic4_d2dc8493a9.jpg
     thumb: /files/thumbnails/14fb29d9a5063e14fb29d9a50a18.jpg
     url: /files/original/14fb29d9a5063e14fb29d9a50a18.jpg
+    alt:
+      en: "Reenactors in historical military uniforms stand near a cannon on a grassy field, with smoke rising in the background amid tall trees."
 geo:
 id: 26183
 item_type: Still Image

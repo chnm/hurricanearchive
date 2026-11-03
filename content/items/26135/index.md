@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5750_3cffd07164.jpg
     thumb: /files/thumbnails/14fb29da48a37714fb29da48a764.jpg
     url: /files/original/14fb29da48a37714fb29da48a764.jpg
+    alt:
+      en: "Aged, water-damaged photograph of a man in glasses and a scarf holding a young child outdoors in a park setting with trees in the background."
 geo:
 id: 26135
 item_type: Still Image

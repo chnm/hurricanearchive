@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0221.JPG
     thumb: /files/thumbnails/14fb29ff953fd214fb29ff9543ae.jpg
     url: /files/original/14fb29ff953fd214fb29ff9543ae.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with rows of homes reduced to scattered debris and splintered wood, some roofs still intact, amid surviving trees and streets, photographed from an aircraft with part of the fuselage visible in the frame."
 geo:
 id: 21300
 item_type: Still Image

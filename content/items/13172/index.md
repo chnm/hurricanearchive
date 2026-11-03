@@ -21,6 +21,8 @@ files:
     original_filename: 164 tree down1.jpg
     thumb: /files/thumbnails/14fb2a1fa1357114fb2a1fa13957.jpg
     url: /files/original/14fb2a1fa1357114fb2a1fa13957.jpg
+    alt:
+      en: "A large tree has fallen across a residential street, crushing a parked car and scattering branches and debris near a stop sign and houses in the background."
 geo:
 id: 13172
 item_type: Still Image

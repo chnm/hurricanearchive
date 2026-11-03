@@ -24,6 +24,8 @@ files:
     original_filename: P1010002.JPG
     thumb: /files/thumbnails/14fb2a5bc1974414fb2a5bc19b2a.jpg
     url: /files/original/14fb2a5bc1974414fb2a5bc19b2a.jpg
+    alt:
+      en: "Tall pine and oak trees with broken, splintered branches and sparse foliage stand against a clear blue sky above a house roof partially covered with a blue tarp."
 geo:
 id: 3435
 item_type: Still Image

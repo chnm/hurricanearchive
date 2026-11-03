@@ -26,6 +26,8 @@ files:
     original_filename: flood_GC_92405_d0f23519db.jpg
     thumb: /files/thumbnails/14fb2a6e75420714fb2a6e754614.jpg
     url: /files/original/14fb2a6e75420714fb2a6e754614.jpg
+    alt:
+      en: "Before-and-after comparison of a flooded highway with a person in a small boat near a Conoco and Family Dollar sign, and the same road later cleared with a truck driving past."
 geo:
   address: ''
   lat: 29.561855

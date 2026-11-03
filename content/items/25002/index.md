@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1524superdome.JPG
     thumb: /files/thumbnails/14fb29e302a11e14fb29e302a4e7.jpg
     url: /files/original/14fb29e302a11e14fb29e302a4e7.jpg
+    alt:
+      en: "A military medical helicopter marked \"2533\" with a red cross hovers low near an elevated highway, with a large column of black smoke rising behind it against an overcast sky."
 geo:
 id: 25002
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 1.jpg
     thumb: /files/thumbnails/14fb2a609f02ac14fb2a609f0691.jpg
     url: /files/original/14fb2a609f02ac14fb2a609f0691.jpg
+    alt:
+      en: "Child's crayon drawing labeled \"Domonique 12,\" showing a smiling figure wearing a red \"What!\" t-shirt and blue pants, standing near a basketball hoop, an orange basketball, a tree, clouds, and a sun."
 geo:
 id: 2674
 item_type: Still Image

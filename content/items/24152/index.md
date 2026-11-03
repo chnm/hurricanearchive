@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea389c0c14fb29ea389fea.jpg
     url: /files/original/14fb29ea389c0c14fb29ea389fea.jpg
+    alt:
+      en: "Military front-loader marked \"225GP 527E C 27\" drives through flooded, mud-covered street, with storm-damaged trees and houses in the background."
 geo:
 id: 24152
 item_type: Still Image

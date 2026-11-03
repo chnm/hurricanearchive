@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a055acc0714fb2a055acfed.jpg
     url: /files/original/14fb2a055acc0714fb2a055acfed.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters submerging a rural roadway, utility poles, and a damaged house with a torn roof, surrounded by debris, downed trees, and scattered wreckage."
 geo:
 id: 20665
 item_type: Still Image

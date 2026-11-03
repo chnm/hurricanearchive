@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0034H.JPG
     thumb: /files/thumbnails/14fb2a061e2fd314fb2a061e315c.jpg
     url: /files/original/14fb2a061e2fd314fb2a061e315c.jpg
+    alt:
+      en: "Dimly lit indoor gathering with people standing and conversing; a woman in front wears a white \"Hooters Geaux Tigers\" tank top with orange shorts, and a man nearby wears a gray \"Kicker\" t-shirt."
 geo:
 id: 20562
 item_type: Still Image

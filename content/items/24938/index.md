@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1435superdome.JPG
     thumb: /files/thumbnails/14fb29e3b11e8c14fb29e3b12273.jpg
     url: /files/original/14fb29e3b11e8c14fb29e3b12273.jpg
+    alt:
+      en: "Military truck with a soldier at the wheel moves through a deeply flooded city street, surrounded by partially submerged cars, a bus, and police vehicles beneath an overpass."
 geo:
 id: 24938
 item_type: Still Image

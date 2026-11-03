@@ -21,6 +21,8 @@ files:
     original_filename: katrina 054.jpg
     thumb: /files/thumbnails/14fb29fbc14dd114fb29fbc151b6.jpg
     url: /files/original/14fb29fbc14dd114fb29fbc151b6.jpg
+    alt:
+      en: "A flooded city street lined with office buildings, trees, and shrubs reflected in standing water, with parked vehicles partially submerged near the curb; timestamp \"3 3:02 PM\" overlays the bottom right corner."
 geo:
 id: 21784
 item_type: Still Image

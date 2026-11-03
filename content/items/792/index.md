@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28304.jpg
     thumb: /files/thumbnails/14fb2a6d0279b514fb2a6d027d9b.jpg
     url: /files/original/14fb2a6d0279b514fb2a6d027d9b.jpg
+    alt:
+      en: "Storm-damaged museum building with collapsed roof sections and exposed framing, surrounded by scattered debris and a large wind-stripped tree in the foreground."
 geo:
   address: ''
   lat: 0.0

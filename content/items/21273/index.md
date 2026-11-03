@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0213-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ffabf49e14fb29ffabf883.jpg
     url: /files/original/14fb29ffabf49e14fb29ffabf883.jpg
+    alt:
+      en: "Aerial view of a coastal neighborhood with widespread storm damage, showing collapsed roofs, scattered debris, bare lots, and a water tower visible along the shoreline."
 geo:
 id: 21273
 item_type: Still Image

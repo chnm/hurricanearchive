@@ -21,6 +21,8 @@ files:
     original_filename: 102-03_b06cba036c.jpg
     thumb: /files/thumbnails/14fb2a222c167114fb2a222c1a57.jpg
     url: /files/original/14fb2a222c167114fb2a222c1a57.jpg
+    alt:
+      en: "Faded snapshot of a man in a maroon \"Cambridge\" sweatshirt and a man in a striped shirt with sunglasses and a cap, standing together outdoors with two children in the foreground, a house and car visible behind them."
 geo:
 id: 12412
 item_type: Still Image

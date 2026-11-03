@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28504.jpg
     thumb: /files/thumbnails/14fb2a6ac8d60c14fb2a6ac8d9e9.jpg
     url: /files/original/14fb2a6ac8d60c14fb2a6ac8d9e9.jpg
+    alt:
+      en: "Two men walk along a street past a damaged, debris-strewn neighborhood with bare and scorched trees, a parked car, and empty lots in Ward 7, New Orleans."
 geo:
   address: ''
   lat: 0.0

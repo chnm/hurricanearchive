@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1586superdome.JPG
     thumb: /files/thumbnails/14fb29e296763d14fb29e2967b8a.jpg
     url: /files/original/14fb29e296763d14fb29e2967b8a.jpg
+    alt:
+      en: "Flooded city street beside the Superdome, with partially submerged cars, streetlights, and a highway overpass visible under a blue sky; a street sign reads \"La Sa[lle].\""
 geo:
 id: 25061
 item_type: Still Image

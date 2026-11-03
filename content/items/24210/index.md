@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29e9b5292c14fb29e9b52d1a.jpg
     url: /files/original/14fb29e9b5292c14fb29e9b52d1a.jpg
+    alt:
+      en: "Flat, flooded expanse of muddy, water-covered terrain stretches to a hazy horizon under an overcast gray sky, with a dark shape partially visible at the right edge of the frame."
 geo:
 id: 24210
 item_type: Still Image

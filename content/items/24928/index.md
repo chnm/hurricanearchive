@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1423superdome.JPG
     thumb: /files/thumbnails/14fb29e3c7b23b14fb29e3c8f34f.jpg
     url: /files/original/14fb29e3c7b23b14fb29e3c8f34f.jpg
+    alt:
+      en: "Military personnel in camouflage stand guard as a truck loaded with evacuees arrives at a flooded parking structure, with a submerged bus and vehicles visible in deep floodwater nearby."
 geo:
 id: 24928
 item_type: Still Image

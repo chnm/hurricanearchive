@@ -21,6 +21,8 @@ files:
     original_filename: end look south2.jpg
     thumb: /files/thumbnails/14fb2a2060c17114fb2a2060c786.jpg
     url: /files/original/14fb2a2060c17114fb2a2060c786.jpg
+    alt:
+      en: "Elevated view of a deserted downtown street and plaza under hazy skies, with bare trees, scattered debris, boarded-up storefronts, and brick buildings lining the wet pavement."
 geo:
 id: 13104
 item_type: Still Image

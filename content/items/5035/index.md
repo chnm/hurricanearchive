@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0380.JPG
     thumb: /files/thumbnails/14fb2a5451e27014fb2a5451e66e.jpg
     url: /files/original/14fb2a5451e27014fb2a5451e66e.jpg
+    alt:
+      en: "Skeletal wooden framework of a structure stripped of walls and roof, with a staircase leading to an elevated platform, set on a concrete slab amid fallen trees and storm debris."
 geo:
 id: 5035
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0588.JPG
     thumb: /files/thumbnails/14fb2a5666022114fb2a56660605.jpg
     url: /files/original/14fb2a5666022114fb2a56660605.jpg
+    alt:
+      en: "Large oak tree with sprawling branches stands amid storm debris, including scattered dry brush, broken limbs, and remnants of structures in the background."
 geo:
 id: 4659
 item_type: Still Image

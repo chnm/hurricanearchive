@@ -21,6 +21,8 @@ files:
     original_filename: Picture 090engineers.jpg
     thumb: /files/thumbnails/14fb2a0f84f75414fb2a0f84fd25.jpg
     url: /files/original/14fb2a0f84f75414fb2a0f84fd25.jpg
+    alt:
+      en: "Aerial view of widespread flooding covering a university campus and surrounding neighborhood, with submerged buildings, rooftops, and streets visible amid dark floodwaters."
 geo:
 id: 19530
 item_type: Still Image

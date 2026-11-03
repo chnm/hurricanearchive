@@ -21,6 +21,8 @@ files:
     original_filename: P1010068empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee67dac514fb29ee67deaa.jpg
     url: /files/original/14fb29ee67dac514fb29ee67deaa.jpg
+    alt:
+      en: "Roadway with a car in the distance, flanked by a grassy ditch and power lines, with large barges washed ashore on the embankment beyond."
 geo:
 id: 23627
 item_type: Still Image

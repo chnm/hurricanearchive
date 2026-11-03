@@ -24,6 +24,8 @@ files:
     original_filename: 121.jpg
     thumb: /files/thumbnails/14fb2a607c362d14fb2a607c3a0b.jpg
     url: /files/original/14fb2a607c362d14fb2a607c3a0b.jpg
+    alt:
+      en: "Child's crayon drawing of a car and a flatbed truck on a two-lane road, with yellow clouds and a sun above; signed \"Derick, 11\" in the top corner."
 geo:
 id: 2698
 item_type: Still Image

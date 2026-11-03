@@ -23,6 +23,8 @@ files:
     original_filename: 336694179_c12321e5c5.jpg
     thumb: /files/thumbnails/14fb29d518ecd914fb29d518edf6.jpg
     url: /files/original/14fb29d518ecd914fb29d518edf6.jpg
+    alt:
+      en: "A small single-story house with cream siding, a red trim roofline, and a green-framed front door; the windows are boarded with plywood, with dead brush and fallen branches in the overgrown yard."
 geo:
 id: 27315
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_01_7d6f3a467a.jpg
     thumb: /files/thumbnails/14fb2a1800af5e14fb2a1800b2ce.jpg
     url: /files/original/14fb2a1800af5e14fb2a1800b2ce.jpg
+    alt:
+      en: "Two young girls pose indoors for a photo, one in a long blue dress and the other in a yellow dress, both with decorative hair bows, standing in front of framed pictures on a wall."
 geo:
 id: 14752
 item_type: Still Image

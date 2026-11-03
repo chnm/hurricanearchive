@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28314.jpg
     thumb: /files/thumbnails/14fb2a68864c0714fb2a68864feb.jpg
     url: /files/original/14fb2a68864c0714fb2a68864feb.jpg
+    alt:
+      en: "Storm-damaged building with exposed wooden framing and a corrugated metal roof, surrounded by piles of debris, foam blocks, and scattered wreckage from hurricane destruction."
 geo:
   address: ''
   lat: 0.0

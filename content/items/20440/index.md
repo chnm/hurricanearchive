@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015M.JPG
     thumb: /files/thumbnails/14fb2a0731513b14fb2a07315520.jpg
     url: /files/original/14fb2a0731513b14fb2a07315520.jpg
+    alt:
+      en: "Large institutional building with a classical columned entrance and pediment, flanked by multi-story wings with balconies; a white SUV is parked near trimmed hedges on a grassy lawn."
 geo:
 id: 20440
 item_type: Still Image

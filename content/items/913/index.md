@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28764.jpg
     thumb: /files/thumbnails/14fb2a6c41c0f314fb2a6c41c4da.jpg
     url: /files/original/14fb2a6c41c0f314fb2a6c41c4da.jpg
+    alt:
+      en: "Whiteboard sign reading \"Messages: ALL volunteers must wear long pants and closed toe shoes\" stands outdoors near two women at the Lamar-Dixon Fairgrounds animal rescue depot."
 geo:
   address: ''
   lat: 0.0

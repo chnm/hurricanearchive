@@ -20,6 +20,8 @@ files:
     original_filename: pics+2006-07+106_eb6b7560a2.jpg
     thumb: /files/thumbnails/14fb29ce1cc62914fb29ce1cc9fa.jpg
     url: /files/original/14fb29ce1cc62914fb29ce1cc9fa.jpg
+    alt:
+      en: "A green street sign reading \"HURRICANE CIR\" stands on a metal pole beside a paved road, with pine trees and a grassy roadside in the background."
 geo:
 id: 30014
 item_type: Still Image

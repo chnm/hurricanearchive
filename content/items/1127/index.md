@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27980.jpg
     thumb: /files/thumbnails/14fb2a6ae278dc14fb2a6ae27f5a.jpg
     url: /files/original/14fb2a6ae278dc14fb2a6ae27f5a.jpg
+    alt:
+      en: "A man in a cap and gloves points to road signs reading \"ROAD WORK AHEAD,\" \"WEST Interstate 610,\" and \"EAST Interstate 610,\" with a boarded-up building in the background."
 geo:
   address: ''
   lat: 0.0

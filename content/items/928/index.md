@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28192.jpg
     thumb: /files/thumbnails/14fb2a6c27198614fb2a6c271d53.jpg
     url: /files/original/14fb2a6c27198614fb2a6c271d53.jpg
+    alt:
+      en: "A sand-covered lot with a standing water pool, debris piles, and bare storm-damaged trees in the background; a person in a blue shirt stands near a utility pole."
 geo:
   address: ''
   lat: 0.0

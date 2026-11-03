@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a108551a414fb2a108555bd.jpg
     url: /files/original/14fb2a108551a414fb2a108555bd.jpg
+    alt:
+      en: "A military dump truck and front-end loader clear storm debris—twisted sheet metal, broken wood, and household wreckage—from a damaged mobile home park under a hazy sky."
 geo:
 id: 19408
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 1Katrina 142_405d281865.jpg
     thumb: /files/thumbnails/14fb29c4c7b6c014fb29c4c7ba07.jpg
     url: /files/original/14fb29c4c7b6c014fb29c4c7ba07.jpg
+    alt:
+      en: "A large fallen pine tree pierces the upper floor of a two-story house, with its trunk angled down through broken roofing and siding, surrounded by storm debris and other downed trees in the yard."
 geo:
   address: ''
   lat: 30.49609

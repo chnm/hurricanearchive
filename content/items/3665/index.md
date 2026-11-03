@@ -24,6 +24,8 @@ files:
     original_filename: P1010102.JPG
     thumb: /files/thumbnails/14fb2a5a40268714fb2a5a402a6b.jpg
     url: /files/original/14fb2a5a40268714fb2a5a402a6b.jpg
+    alt:
+      en: "Collapsed metal carport structure with twisted roofing panels lying atop several damaged cars, including a maroon sedan and blue coupe, parked on a concrete lot near a chain-link fence and building."
 geo:
 id: 3665
 item_type: Still Image

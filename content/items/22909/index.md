@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012karrmedia.JPG
     thumb: /files/thumbnails/14fb29f2bc8a4314fb29f2bc8e23.jpg
     url: /files/original/14fb29f2bc8a4314fb29f2bc8e23.jpg
+    alt:
+      en: "A bald man in military fatigues leans toward an open helicopter door, holding a small digital camera as he looks out over a landscape of red-roofed buildings and trees below."
 geo:
 id: 22909
 item_type: Still Image

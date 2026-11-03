@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2223engineers.JPG
     thumb: /files/thumbnails/14fb2a10bbe0b914fb2a10bbea2d.jpg
     url: /files/original/14fb2a10bbe0b914fb2a10bbea2d.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms clear fallen trees and debris from a street, with a small boat visible among the branches and two civilians watching nearby."
 geo:
 id: 19365
 item_type: Still Image

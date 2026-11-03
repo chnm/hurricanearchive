@@ -24,6 +24,8 @@ files:
     original_filename: P1010085.JPG
     thumb: /files/thumbnails/14fb2a5a6e481414fb2a5a6e4bf8.jpg
     url: /files/original/14fb2a5a6e481414fb2a5a6e4bf8.jpg
+    alt:
+      en: "Tall pine trees against a blue sky, with a prominent snapped and splintered branch stub visible on the central trunk and browned, storm-damaged needles throughout the canopy."
 geo:
 id: 3649
 item_type: Still Image

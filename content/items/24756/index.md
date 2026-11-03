@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2078superdome.JPG
     thumb: /files/thumbnails/14fb29e522e27314fb29e5231a2b.jpg
     url: /files/original/14fb29e522e27314fb29e5231a2b.jpg
+    alt:
+      en: "An elderly woman in a blue shirt and hat stands behind a metal barricade talking with two U.S. Army soldiers, surrounded by stacked cases of bottled water."
 geo:
 id: 24756
 item_type: Still Image

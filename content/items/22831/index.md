@@ -21,6 +21,8 @@ files:
     original_filename: 789z3810cajundome.jpg
     thumb: /files/thumbnails/14fb29f3225e2614fb29f322620a.jpg
     url: /files/original/14fb29f3225e2614fb29f322620a.jpg
+    alt:
+      en: "Two military police officers lean over a metal barricade speaking with a man crouched on the ground reviewing paperwork, near a sign listing prohibited items including guns, knives, alcohol, and drugs."
 geo:
 id: 22831
 item_type: Still Image

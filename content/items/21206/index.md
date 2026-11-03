@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0197-21.JPG
     thumb: /files/thumbnails/14fb29fffe7b1a14fb29fffe7f01.jpg
     url: /files/original/14fb29fffe7b1a14fb29fffe7f01.jpg
+    alt:
+      en: "A Fox News reporter holds a microphone toward a man in military camouflage uniform and cap during an outdoor interview, with a cameraman filming nearby in front of a red building with a \"National Rent-A-Fence\" sign."
 geo:
 id: 21206
 item_type: Still Image

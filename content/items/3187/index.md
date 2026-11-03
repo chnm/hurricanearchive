@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (38).JPG
     thumb: /files/thumbnails/14fb2a5d6856a814fb2a5d685a8e.jpg
     url: /files/original/14fb2a5d6856a814fb2a5d685a8e.jpg
+    alt:
+      en: "A man in a white protective coverall stands beside a white Land Cruiser truck parked on a debris-strewn street lined with large trees and storm-damaged branches."
 geo:
 id: 3187
 item_type: Still Image

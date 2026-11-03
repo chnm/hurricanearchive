@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28065.jpg
     thumb: /files/thumbnails/14fb2a681c3a5b14fb2a681c3e43.jpg
     url: /files/original/14fb2a681c3a5b14fb2a681c3e43.jpg
+    alt:
+      en: "Two damaged boats rest amid scattered wooden debris on pavement, with trees and rooftops visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

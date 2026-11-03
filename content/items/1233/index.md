@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28565.jpg
     thumb: /files/thumbnails/14fb2a6a37892c14fb2a6a378fb8.jpg
     url: /files/original/14fb2a6a37892c14fb2a6a378fb8.jpg
+    alt:
+      en: "A heavily damaged white van with a crushed roof and shattered windshield sits amid storm debris in front of a two-story brick house, with high-rise buildings visible in the background."
 geo:
   address: ''
   lat: 0.0

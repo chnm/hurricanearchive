@@ -21,6 +21,8 @@ files:
     original_filename: S4300140Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3f578b814fb29f3f57c9f.jpg
     url: /files/original/14fb29f3f578b814fb29f3f57c9f.jpg
+    alt:
+      en: "A military flatbed truck tilts precariously with a rust-colored shipping container sliding off its bed, parked near a building labeled \"FMS #13,\" behind a chain-link fence."
 geo:
 id: 22784
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-09-7A.jpg
     thumb: /files/thumbnails/14fb29e870304c14fb29e8703510.jpg
     url: /files/original/14fb29e870304c14fb29e8703510.jpg
+    alt:
+      en: "Grainy, heavily noised photo showing a dark green surface with faint white spray-painted markings and numbers on the right side, with windows visible in the upper background."
 geo:
 id: 24361
 item_type: Still Image

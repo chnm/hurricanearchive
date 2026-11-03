@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063-16.JPG
     thumb: /files/thumbnails/14fb2a04c0d70314fb2a04c0dafd.jpg
     url: /files/original/14fb2a04c0d70314fb2a04c0dafd.jpg
+    alt:
+      en: "A man in military fatigues and a hard hat operates a yellow Komatsu SK818 skid steer loader amid debris, with military trucks parked in the background."
 geo:
 id: 20712
 item_type: Still Image

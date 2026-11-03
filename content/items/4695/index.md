@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0086.JPG
     thumb: /files/thumbnails/14fb2a5618e0f114fb2a5618e4e9.jpg
     url: /files/original/14fb2a5618e0f114fb2a5618e4e9.jpg
+    alt:
+      en: "View from inside a vehicle through the windshield of a damaged, skeletal multi-story building surrounded by leafless, storm-stripped trees, with sandy terrain and a road in the foreground."
 geo:
 id: 4695
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0274-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe4dd87f14fb29fe4ddd6c.jpg
     url: /files/original/14fb29fe4dd87f14fb29fe4ddd6c.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rooftops, a truck, sheds, and fences surrounded by murky brown floodwater submerging yards and streets."
 geo:
 id: 21485
 item_type: Still Image

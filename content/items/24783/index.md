@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2105superdome.JPG
     thumb: /files/thumbnails/14fb29e4bf251c14fb29e4bf28ce.jpg
     url: /files/original/14fb29e4bf251c14fb29e4bf28ce.jpg
+    alt:
+      en: "Dimly lit interior scene with several people standing near metal barricades, including a man in a \"Harley-D\" t-shirt in the foreground and others in uniform near a wet concrete floor."
 geo:
 id: 24783
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: swept_24456ee944.jpg
     thumb: /files/thumbnails/14fb2a70e4ad1c14fb2a70e4b100.jpg
     url: /files/original/14fb2a70e4ad1c14fb2a70e4b100.jpg
+    alt:
+      en: "Three people wade through turbulent floodwaters as a house tilts precariously behind them, partially collapsed amid the surging waves on the Mississippi Gulf Coast."
 geo:
   address: ''
   lat: 30.3918303280881

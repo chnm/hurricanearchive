@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1417superdome.JPG
     thumb: /files/thumbnails/14fb29e3de509714fb29e3de52c6.jpg
     url: /files/original/14fb29e3de509714fb29e3de52c6.jpg
+    alt:
+      en: "Group of U.S. Army soldiers in camouflage uniforms standing indoors near a staircase, with name tapes reading \"Bellas\" and \"Smith\" visible, one soldier gesturing upward."
 geo:
 id: 24922
 item_type: Still Image

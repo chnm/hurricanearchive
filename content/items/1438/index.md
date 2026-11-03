@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28194.jpg
     thumb: /files/thumbnails/14fb2a68b22ead14fb2a68b24654.jpg
     url: /files/original/14fb2a68b22ead14fb2a68b24654.jpg
+    alt:
+      en: "Barren, debris-strewn landscape with dead, storm-stripped trees and utility poles, a person standing near a cleared road, and a white car parked in the distance under a blue sky."
 geo:
   address: ''
   lat: 0.0

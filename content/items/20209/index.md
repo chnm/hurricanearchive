@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0145-9-18.JPG
     thumb: /files/thumbnails/14fb2a0ab66ac814fb2a0ab66ead.jpg
     url: /files/original/14fb2a0ab66ac814fb2a0ab66ead.jpg
+    alt:
+      en: "A soldier in camouflage fatigues walks along a gravel levee beside a dog, overlooking a flood-damaged industrial area with debris, mud, and storage containers under a hazy sky."
 geo:
 id: 20209
 item_type: Still Image

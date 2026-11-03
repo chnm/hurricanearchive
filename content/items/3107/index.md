@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (10).JPG
     thumb: /files/thumbnails/14fb2a5de27f3314fb2a5de28319.jpg
     url: /files/original/14fb2a5de27f3314fb2a5de28319.jpg
+    alt:
+      en: "View from inside a car through the windshield of a debris-covered road with piles of dirt, a guardrail, streetlights, and utility poles, with a wrought-iron fence and trees lining the roadside."
 geo:
 id: 3107
 item_type: Still Image

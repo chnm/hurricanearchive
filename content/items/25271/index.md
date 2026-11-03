@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1998superdome.JPG
     thumb: /files/thumbnails/14fb29dfa8224514fb29dfa82516.jpg
     url: /files/original/14fb29dfa8224514fb29dfa82516.jpg
+    alt:
+      en: "Military personnel and medics assist evacuees, including a woman carrying a child, amid parked ambulances labeled \"Acadian\" and \"Lake Charles Memorial Hospital Shuttle\" in a parking area."
 geo:
 id: 25271
 item_type: Still Image

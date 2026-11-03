@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1994superdome.JPG
     thumb: /files/thumbnails/14fb29dfb6c10b14fb29dfb6cb37.jpg
     url: /files/original/14fb29dfb6c10b14fb29dfb6cb37.jpg
+    alt:
+      en: "A military Chinook helicopter with rotors spinning sits on a wet rooftop helipad as people board through its rear ramp, with a parking garage and city buildings visible in the background."
 geo:
 id: 25267
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09270015plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec2deaa214fb29ec2dee90.jpg
     url: /files/original/14fb29ec2deaa214fb29ec2dee90.jpg
+    alt:
+      en: "Destroyed canopy structure and scattered debris cover a cracked concrete lot, with bare trees, utility poles, and a partially visible \"No Parking on Shoulder\" sign along the roadside."
 geo:
 id: 23977
 item_type: Still Image

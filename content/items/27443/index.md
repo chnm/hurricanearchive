@@ -21,6 +21,8 @@ files:
     original_filename: DADDY Spur Gas Baseball Team 1937 - ORIGINAL_bfc1710546.JPG
     thumb: /files/thumbnails/14fb29d41ae3fe14fb29d41ae7db.jpg
     url: /files/original/14fb29d41ae3fe14fb29d41ae7db.jpg
+    alt:
+      en: "Sepia-toned 1937 team photo of boys in \"Spur Gas\" jerseys and caps posed before a house with their coach and sponsor, a toy tanker truck labeled \"Spur Gas\" and baseball gear displayed in front."
 geo:
   address: 918 Papworth Avenue, Metairie
   lat: 30.00126

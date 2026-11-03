@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0041.JPG
     thumb: /files/thumbnails/14fb2a56be84b714fb2a56be8893.jpg
     url: /files/original/14fb2a56be84b714fb2a56be8893.jpg
+    alt:
+      en: "Snapped pine trees and a splintered tree trunk lie amid storm debris and green undergrowth, with house rooftops visible in the background under a gray sky."
 geo:
 id: 4615
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0155.JPG
     thumb: /files/thumbnails/14fb2a01564c2814fb2a0156500d.jpg
     url: /files/original/14fb2a01564c2814fb2a0156500d.jpg
+    alt:
+      en: "Aerial view of a multi-building apartment complex with parallel rectangular roofs, scattered parked cars, surrounding streets, and patches of trees and bare ground."
 geo:
 id: 20955
 item_type: Still Image

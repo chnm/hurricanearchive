@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6705_1c02203345.JPG
     thumb: /files/thumbnails/14fb29d31dcbb414fb29d31dcf98.jpg
     url: /files/original/14fb29d31dcbb414fb29d31dcf98.jpg
+    alt:
+      en: "An older man wearing glasses sits between two young boys on a bench in a backyard, with a chain-link fence and house siding in the background."
 geo:
   address: ''
   lat: 29.87876

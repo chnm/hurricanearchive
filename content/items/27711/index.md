@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6632_39c4a75d3a.JPG
     thumb: /files/thumbnails/14fb29d2bacc3914fb29d2bad114.jpg
     url: /files/original/14fb29d2bacc3914fb29d2bad114.jpg
+    alt:
+      en: "Damaged black-and-white wedding photo of two couples standing beneath a pergola in a garden, the women holding bouquets, with visible creases and tears across the print."
 geo:
   address: ''
   lat: 29.87876

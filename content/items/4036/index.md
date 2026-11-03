@@ -21,6 +21,8 @@ files:
     original_filename: DSC01154.JPG
     thumb: /files/thumbnails/14fb2a58580ad614fb2a585813b8.jpg
     url: /files/original/14fb2a58580ad614fb2a585813b8.jpg
+    alt:
+      en: "Two uniformed officers crouch behind concrete barriers on an elevated highway, one aiming a weapon, with a city skyline and trees in the background under a clear blue sky; timestamp reads 9:28 AM."
 geo:
 id: 4036
 item_type: Still Image

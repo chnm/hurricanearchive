@@ -24,6 +24,8 @@ files:
     original_filename: 20060210_MG_0475.jpg
     thumb: /files/thumbnails/14fb2a641b31e514fb2a641b35cb.jpg
     url: /files/original/14fb2a641b31e514fb2a641b35cb.jpg
+    alt:
+      en: "Three people wear chef hats and \"M.R.E.\" (Meal Ready-to-Eat) sandwich-board costumes satirizing Katrina relief, with mock menus like \"Katrina Mud Pie\" and \"FEMA Mumbo Gumbo,\" on a French Quarter street during Mardi Gras."
 geo:
 id: 2618
 item_type: Still Image

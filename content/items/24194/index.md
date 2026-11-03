@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029cameronS&R.JPG
     thumb: /files/thumbnails/14fb29e9de79ae14fb29e9de7d8d.jpg
     url: /files/original/14fb29e9de79ae14fb29e9de7d8d.jpg
+    alt:
+      en: "Aerial view of a flooded marshland with a red-legged water tower, storage tanks, and a small building situated along a narrow strip of land surrounded by floodwaters."
 geo:
 id: 24194
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0103.JPG
     thumb: /files/thumbnails/14fb2a558bdbc814fb2a558bdfae.jpg
     url: /files/original/14fb2a558bdbc814fb2a558bdfae.jpg
+    alt:
+      en: "Debris pile including a broken lounge chair, overturned red barrel, yellow helmet, and plastic bucket scattered on the ground near a fallen tree and dense brush."
 geo:
 id: 4791
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials137.jpg
     thumb: /files/thumbnails/14fb2a1a01050b14fb2a1a010a21.jpg
     url: /files/original/14fb2a1a01050b14fb2a1a010a21.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings reduced to scattered debris and bare concrete foundations, surrounded by green lawns, trees, and paved walkways."
 geo:
 id: 14295
 item_type: Still Image

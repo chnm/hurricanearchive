@@ -21,6 +21,8 @@ files:
     original_filename: Picture 058.jpg
     thumb: /files/thumbnails/14fb29cc74748f14fb29cc747873.jpg
     url: /files/original/14fb29cc74748f14fb29cc747873.jpg
+    alt:
+      en: "A paved road lined with storm-damaged trees, fallen logs, and cleared branches, with a red car driving ahead and the hood of a maroon vehicle visible in the foreground."
 geo:
 id: 30793
 item_type: Still Image

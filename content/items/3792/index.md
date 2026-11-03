@@ -21,6 +21,8 @@ files:
     original_filename: USS Alabama 4.jpg
     thumb: /files/thumbnails/14fb2a5994655d14fb2a59946937.jpg
     url: /files/original/14fb2a5994655d14fb2a59946937.jpg
+    alt:
+      en: "The battleship USS Alabama is docked, with its large gun turrets, masts, and radar towers visible against a cloudy sky, a construction crane and grassy field in the foreground."
 geo:
 id: 3792
 item_type: Still Image

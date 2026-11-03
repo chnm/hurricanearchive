@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0249-9-25.JPG
     thumb: /files/thumbnails/14fb29fee6e75114fb29fee6eb37.jpg
     url: /files/original/14fb29fee6e75114fb29fee6eb37.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with rooftops, trees, and docks partially submerged in murky brown water, with a boat visible among the debris near the shoreline."
 geo:
 id: 21410
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0284.JPG
     thumb: /files/thumbnails/14fb2a5e86946914fb2a5e86984e.jpg
     url: /files/original/14fb2a5e86946914fb2a5e86984e.jpg
+    alt:
+      en: "Close-up of a gray naval ship's bow marked \"60,\" with an anchor chain running through a hawsepipe and draft marking numbers visible near the waterline; buildings and vehicles appear in the background."
 geo:
 id: 3035
 item_type: Still Image

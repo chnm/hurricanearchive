@@ -24,6 +24,8 @@ files:
     original_filename: LAANG-Photo-20.jpg
     thumb: /files/thumbnails/14fb29d06801e514fb29d06805cb.jpg
     url: /files/original/14fb29d06801e514fb29d06805cb.jpg
+    alt:
+      en: "A CH-47 Chinook helicopter hovers overhead carrying slung cargo loads, as soldiers in camouflage uniforms and helmets watch from the tarmac below, with a cargo plane visible in the background."
 geo:
 id: 29051
 item_type: Still Image

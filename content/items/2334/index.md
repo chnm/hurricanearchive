@@ -26,6 +26,8 @@ files:
     original_filename: 100_1544_14c4611938.JPG
     thumb: /files/thumbnails/14fb2a6d4b957114fb2a6d4ba08c.jpg
     url: /files/original/14fb2a6d4b957114fb2a6d4ba08c.jpg
+    alt:
+      en: "An empty wheelchair sits amid mud, debris, and scattered trash in a loading dock area, with a visible water line staining the brick wall beneath a \"Receiving\" sign."
 geo:
   address: ''
   lat: 30.4454179233169

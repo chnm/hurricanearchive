@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1059Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8a4550914fb29f8a458ee.jpg
     url: /files/original/14fb29f8a4550914fb29f8a458ee.jpg
+    alt:
+      en: "Dark, hazy photograph of a pickup truck's rear end with a ladder rack, parked beside another vehicle in heavy fog or smoke."
 geo:
 id: 22248
 item_type: Still Image

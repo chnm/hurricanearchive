@@ -20,6 +20,8 @@ files:
     original_filename: n49700884_31417504_1273_1ba6be3c36.jpg
     thumb: /files/thumbnails/14fb29c4cd2c3d14fb29c4cd3019.jpg
     url: /files/original/14fb29c4cd2c3d14fb29c4cd3019.jpg
+    alt:
+      en: "A woman with sunglasses and a red floral shirt sits on a boat bench, holding a drink can, with open water visible behind her."
 geo:
   address: ''
   lat: 30.00856

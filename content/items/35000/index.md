@@ -20,6 +20,8 @@ files:
     original_filename: 2298621264_aae6f34c84.
     thumb: /files/thumbnails/14fb29c7ce5c4214fb29c7ce6029.jpg
     url: /files/original/14fb29c7ce5c4214fb29c7ce6029.jpg
+    alt:
+      en: "Two women stand near a chain-link fence beside a blue trailer, with bicycles and tarps piled against the fence; one trailer sticker reads \"Wabash Duraplate.\""
 geo:
 id: 35000
 item_type: Still Image

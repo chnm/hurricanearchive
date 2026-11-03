@@ -21,6 +21,8 @@ files:
     original_filename: Picture 349-J2.jpg
     thumb: /files/thumbnails/14fb29fa103aa014fb29fa1040a3.jpg
     url: /files/original/14fb29fa103aa014fb29fa1040a3.jpg
+    alt:
+      en: "Debris-covered street with an abandoned, mud-caked car near a graffiti-tagged building, with floodwater still standing further down the road beside houses and utility poles."
 geo:
 id: 22018
 item_type: Still Image

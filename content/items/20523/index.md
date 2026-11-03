@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028-20.JPG
     thumb: /files/thumbnails/14fb2a068882ac14fb2a0688880d.jpg
     url: /files/original/14fb2a068882ac14fb2a0688880d.jpg
+    alt:
+      en: "Volunteers in white t-shirts and caps serve food under a tent, with trays of rice visible and a smiling woman in the foreground holding a foam container."
 geo:
 id: 20523
 item_type: Still Image

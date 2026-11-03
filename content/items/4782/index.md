@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0094.JPG
     thumb: /files/thumbnails/14fb2a5596744d14fb2a55967826.jpg
     url: /files/original/14fb2a5596744d14fb2a55967826.jpg
+    alt:
+      en: "Collapsed structure with a flattened roof and scattered debris lies beneath damaged trees with browned foliage, a small cinder block structure and fencing visible in the foreground."
 geo:
 id: 4782
 item_type: Still Image

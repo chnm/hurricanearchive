@@ -21,6 +21,8 @@ files:
     original_filename: S4300149stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecfa65f514fb29ecfa69d1.jpg
     url: /files/original/14fb29ecfa65f514fb29ecfa69d1.jpg
+    alt:
+      en: "Damaged Rally's fast food restaurant with storm-stripped trees, downed branches, and an abandoned car in the lot, roof and signage battered by hurricane winds."
 geo:
 id: 23810
 item_type: Still Image

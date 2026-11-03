@@ -21,6 +21,8 @@ files:
     original_filename: S4300087bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a139817cc14fb2a13981dcb.jpg
     url: /files/original/14fb2a139817cc14fb2a13981dcb.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms, including an officer in a beret, converse with civilians inside a hangar-like building, with a boom microphone visible overhead."
 geo:
 id: 19026
 item_type: Still Image

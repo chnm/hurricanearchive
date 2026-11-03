@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1670superdome.JPG
     thumb: /files/thumbnails/14fb29e272113514fb29e2721903.jpg
     url: /files/original/14fb29e272113514fb29e2721903.jpg
+    alt:
+      en: "Rows of soldiers in woodland camouflage uniforms, carrying rifles and gear, march across a brick plaza with city buildings, including the VA Medical Center and Delgado Community College, in the background."
 geo:
 id: 25084
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28583.jpg
     thumb: /files/thumbnails/14fb2a6c33c14d14fb2a6c33c532.jpg
     url: /files/original/14fb2a6c33c14d14fb2a6c33c532.jpg
+    alt:
+      en: "A bent, fallen street sign reading \"Lakeshore Dr.\" and \"Robert E. Lee Blvd.\" lies on a muddy pole in the Lakeview District."
 geo:
   address: ''
   lat: 0.0

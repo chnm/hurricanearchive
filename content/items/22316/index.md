@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1128Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f79afa3414fb29f79afe1a.jpg
     url: /files/original/14fb29f79afa3414fb29f79afe1a.jpg
+    alt:
+      en: "Blurry, hazy photo of people in red life vests near small motorboats with life rings aboard, indoors in a dim, foggy room with shuttered windows."
 geo:
 id: 22316
 item_type: Still Image

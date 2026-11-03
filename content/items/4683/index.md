@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0634.JPG
     thumb: /files/thumbnails/14fb2a5635ce2b14fb2a5635d20f.jpg
     url: /files/original/14fb2a5635ce2b14fb2a5635d20f.jpg
+    alt:
+      en: "A white metal filing cabinet sits between two polka-dot armchairs against a green wall, topped with a brass vase of yellow flowers, near floral curtains and a basketball on the floor."
 geo:
 id: 4683
 item_type: Still Image

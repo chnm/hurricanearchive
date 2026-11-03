@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 130cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e1e4d0c14fb2a0e1e50f0.jpg
     url: /files/original/14fb2a0e1e4d0c14fb2a0e1e50f0.jpg
+    alt:
+      en: "Military trucks pass through gated entrance archways reading \"NO EXIT,\" \"EXIT AFTER 7th RACE,\" and \"EXIT,\" with a two-story building, trees, a boat, and debris visible in an empty paved lot."
 geo:
 id: 19743
 item_type: Still Image

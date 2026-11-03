@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BZY_af7f642e8c.jpg
     thumb: /files/thumbnails/14fb2a66b23e4614fb2a66b2422b.jpg
     url: /files/original/14fb2a66b23e4614fb2a66b2422b.jpg
+    alt:
+      en: "A man carrying a backpack jumps from a rescue boat onto a grassy patch of land, while uniformed responders assist from the boat amid floodwaters surrounding houses."
 geo:
 id: 2404
 item_type: Still Image

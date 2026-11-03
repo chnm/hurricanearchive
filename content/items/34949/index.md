@@ -20,6 +20,8 @@ files:
     original_filename: 2438608935_b1e22fcd73.
     thumb: /files/thumbnails/14fb29c83b421d14fb29c83b43e9.jpg
     url: /files/original/14fb29c83b421d14fb29c83b43e9.jpg
+    alt:
+      en: "Construction site with a yellow excavator loading a blue dump truck, a bulldozer nearby, and a metal sheet pile wall in the background; date stamp reads 03/18/06."
 geo:
 id: 34949
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28452.jpg
     thumb: /files/thumbnails/14fb2a6cc0cbcb14fb2a6cc0cfb7.jpg
     url: /files/original/14fb2a6cc0cbcb14fb2a6cc0cfb7.jpg
+    alt:
+      en: "Severely damaged building facade with exposed metal framing and brick sections, a hanging light fixture, and a partially intact \"Coldest Beer\" sign above the wreckage."
 geo:
   address: ''
   lat: 0.0

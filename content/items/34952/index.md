@@ -20,6 +20,8 @@ files:
     original_filename: 2433962581_163e0c8bf4.
     thumb: /files/thumbnails/14fb29c833f95714fb29c833fd1e.jpg
     url: /files/original/14fb29c833f95714fb29c833fd1e.jpg
+    alt:
+      en: "Aerial satellite view labeled \"Project Site & Borrow Pit,\" showing a residential neighborhood, roads, open fields, a golf course, and surrounding wetlands with a compass marker in the upper right."
 geo:
 id: 34952
 item_type: Still Image

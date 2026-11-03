@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_LoganPage_04_a38810cf0e.jpg
     thumb: /files/thumbnails/14fb2a163b877614fb2a163b8b5a.jpg
     url: /files/original/14fb2a163b877614fb2a163b8b5a.jpg
+    alt:
+      en: "School portrait of a young girl in pigtails wearing a checkered Good Shepherd School uniform, smiling in front of a classroom backdrop; text reads \"Good Shepherd 2001.\""
 geo:
 id: 15464
 item_type: Still Image

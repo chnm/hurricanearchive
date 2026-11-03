@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0503.JPG
     thumb: /files/thumbnails/14fb2a53c9372614fb2a53c93b14.jpg
     url: /files/original/14fb2a53c9372614fb2a53c93b14.jpg
+    alt:
+      en: "A yellow Komelon tape measure extends alongside a bent metal bracket attached to a wooden beam, with scattered pine needles visible below."
 geo:
 id: 5141
 item_type: Still Image

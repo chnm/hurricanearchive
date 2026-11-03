@@ -21,6 +21,8 @@ files:
     original_filename: 09240018rita.JPG
     thumb: /files/thumbnails/14fb2a0eb1832514fb2a0eb1870a.jpg
     url: /files/original/14fb2a0eb1832514fb2a0eb1870a.jpg
+    alt:
+      en: "Gravel road through a storm-damaged site with collapsed red-and-white and blue-and-white striped tents, a Ryder truck, utility poles, and a Welch rental container under an overcast sky."
 geo:
 id: 19617
 item_type: Still Image

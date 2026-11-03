@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0027_e03f05f7c3.JPG
     thumb: /files/thumbnails/14fb2a6ff05caa14fb2a6ff0692e.jpg
     url: /files/original/14fb2a6ff05caa14fb2a6ff0692e.jpg
+    alt:
+      en: "A hand-painted plywood sign reading \"BLVD OF BROKEN DREAMS\" with a small American flag stands amid fallen tree trunks and storm debris, with a \"PRIVATE PROPERTY\" sign and trailer visible in the background."
 geo:
   address: ''
   lat: 29.916852233070202

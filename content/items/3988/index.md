@@ -21,6 +21,8 @@ files:
     original_filename: DSC01078.JPG
     thumb: /files/thumbnails/14fb2a58a4280d14fb2a58a42bf4.jpg
     url: /files/original/14fb2a58a4280d14fb2a58a42bf4.jpg
+    alt:
+      en: "Floodwater submerges a highway interchange beneath overhead green signs reading \"Interstate 10 West Baton Rouge\" and \"Interstate 10 East New Orleans Business District, Exit Only,\" with vehicles and structures partly submerged in the background."
 geo:
 id: 3988
 item_type: Still Image

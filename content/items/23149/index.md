@@ -21,6 +21,8 @@ files:
     original_filename: 20051001-A-2421S-006mobilePAO.jpg
     thumb: /files/thumbnails/14fb29f152292114fb29f15230ee.jpg
     url: /files/original/14fb29f152292114fb29f15230ee.jpg
+    alt:
+      en: "A man stands in a water-damaged hallway holding a framed photo of children, with mold-stained walls and other family portraits hanging nearby."
 geo:
 id: 23149
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0107-9-25.JPG
     thumb: /files/thumbnails/14fb29e734829314fb29e73489d5.jpg
     url: /files/original/14fb29e734829314fb29e73489d5.jpg
+    alt:
+      en: "Aerial view of flood-ravaged land with roofless buildings, a propane tank, scattered debris, and a school bus stranded amid submerged, storm-stripped trees and brush."
 geo:
 id: 24509
 item_type: Still Image

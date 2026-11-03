@@ -23,6 +23,8 @@ files:
     original_filename: 336697872_3f98bbfc1d.jpg
     thumb: /files/thumbnails/14fb29d52c4c4514fb29d52c4fb7.jpg
     url: /files/original/14fb29d52c4c4514fb29d52c4fb7.jpg
+    alt:
+      en: "A large rusted barge marked \"ING 4727\" sits beached on a debris-strewn street, with downed trees, power lines, and a damaged house visible in the background under an overcast sky."
 geo:
 id: 27311
 item_type: Still Image

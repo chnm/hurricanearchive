@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1592hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee95153014fb29ee95190f.jpg
     url: /files/original/14fb29ee95153014fb29ee95190f.jpg
+    alt:
+      en: "High-rise glass towers with one building showing extensive storm damage, including broken windows and tattered material hanging from multiple floors; trees and a neighboring intact skyscraper in foreground."
 geo:
 id: 23592
 item_type: Still Image

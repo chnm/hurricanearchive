@@ -17,6 +17,8 @@ files:
     original_filename: KatrinaCleanup10_05 (7).JPG
     thumb: /files/thumbnails/ba6f6b2403b26b56104d94428b7b8f51.jpg
     url: /files/original/ba6f6b2403b26b56104d94428b7b8f51.JPG
+    alt:
+      en: "A disheveled apartment room with dark blue walls, posters and a tapestry hanging crooked, a window air conditioner, and furniture overturned amid scattered debris and papers on the floor."
 geo:
   address: 737 Greenwood Dr, New Orleans, LA 70124
   lat: 29.9871779

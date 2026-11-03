@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6449_ec2ff51ae8.jpg
     thumb: /files/thumbnails/14fb29d368c99b14fb29d368cd81.jpg
     url: /files/original/14fb29d368c99b14fb29d368cd81.jpg
+    alt:
+      en: "Three people wearing green top hats and festive attire ride on a float strung with colorful Mardi Gras beads during the Irish-Italian parade in New Orleans."
 geo:
   address: ''
   lat: 29.84064

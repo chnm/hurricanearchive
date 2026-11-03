@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0987superdome.JPG
     thumb: /files/thumbnails/14fb29e3eb842614fb29e3eb8899.jpg
     url: /files/original/14fb29e3eb842614fb29e3eb8899.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms walk along a brick pathway lined with trees and planters, with parking garage signage and vehicles visible in the background."
 geo:
 id: 24912
 item_type: Still Image

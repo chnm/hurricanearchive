@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0264.JPG
     thumb: /files/thumbnails/14fb2a55bb387114fb2a55bb3c57.jpg
     url: /files/original/14fb2a55bb387114fb2a55bb3c57.jpg
+    alt:
+      en: "Two-story apartment buildings with storm-damaged siding and exposed plywood, surrounded by large piles of debris, broken furniture, and wreckage scattered across the parking lot."
 geo:
 id: 4754
 item_type: Still Image

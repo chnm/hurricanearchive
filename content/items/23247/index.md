@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 38.jpg
     thumb: /files/thumbnails/14fb29f050832614fb29f05086ff.jpg
     url: /files/original/14fb29f050832614fb29f05086ff.jpg
+    alt:
+      en: "Satellite weather map of a hurricane over the Gulf of Mexico near the Louisiana coast, with color-coded intensity bands, dated 29 Aug 2005 13:00 GMT / 09:00 AM EDT, credited to The Weather Channel."
 geo:
 id: 23247
 item_type: Still Image

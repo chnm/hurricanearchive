@@ -20,6 +20,8 @@ files:
     original_filename: 2380071313_b1516a0e54.
     thumb: /files/thumbnails/14fb29ca3f087d14fb29ca3f0c63.jpg
     url: /files/original/14fb29ca3f087d14fb29ca3f0c63.jpg
+    alt:
+      en: "Two-story house with tan siding and a palm tree in the front yard, with a red pickup truck and a white car parked in the driveway."
 geo:
   address: ''
   lat: 30.22437

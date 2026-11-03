@@ -21,6 +21,8 @@ files:
     original_filename: aerials9.jpg
     thumb: /files/thumbnails/14fb2a1977978514fb2a19779a76.jpg
     url: /files/original/14fb2a1977978514fb2a19779a76.jpg
+    alt:
+      en: "Aerial view of a wide swath of storm debris running alongside railroad tracks and a road, with sparse, damaged trees bordering the wreckage on the right side."
 geo:
 id: 14380
 item_type: Still Image

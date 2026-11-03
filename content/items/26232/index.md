@@ -24,6 +24,8 @@ files:
     original_filename: AB Carnival Ball 1957_c3447c6c81.jpg
     thumb: /files/thumbnails/14fb29d991bbf014fb29d991bfbf.jpg
     url: /files/original/14fb29d991bbf014fb29d991bfbf.jpg
+    alt:
+      en: "Sepia-toned photograph of a Carnival Ball, with a masked king and queen in elaborate costumes leading a procession across a dance floor, flanked by two masked attendants and a court of guests, beneath banners reading \"1947\" and \"1957.\""
 geo:
 id: 26232
 item_type: Still Image

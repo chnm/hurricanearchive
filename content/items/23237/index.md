@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 29.jpg
     thumb: /files/thumbnails/14fb29f0895d4514fb29f0896a6c.jpg
     url: /files/original/14fb29f0895d4514fb29f0896a6c.jpg
+    alt:
+      en: "Weather satellite map of the Atlantic Ocean and Gulf Coast showing a large hurricane near the Gulf, dated 29 Aug 2005 03:18 GMT, with The Weather Channel logo in the corner."
 geo:
 id: 23237
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (6).JPG
     thumb: /files/thumbnails/14fb2a5d57acfb14fb2a5d57afc2.jpg
     url: /files/original/14fb2a5d57acfb14fb2a5d57afc2.jpg
+    alt:
+      en: "Empty street lined with a damaged, weathered building reading \"Riccas Architectural Sales,\" with a parked car near the entrance and utility poles along the road under a clear sky."
 geo:
 id: 3211
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-014-5A.jpg
     thumb: /files/thumbnails/14fb29cf62806214fb29cf628e94.jpg
     url: /files/original/14fb29cf62806214fb29cf628e94.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with streets submerged, rooftops and treetops rising above the water, and a large multi-story building visible in the distance."
 geo:
 id: 29112
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials1.jpg
     thumb: /files/thumbnails/14fb2a1a65375f14fb2a1a653b8e.jpg
     url: /files/original/14fb2a1a65375f14fb2a1a653b8e.jpg
+    alt:
+      en: "Aerial view of a coastal area showing widespread destruction, with stripped, debris-covered lots and barren trees extending inland from a sandy shoreline and roadway."
 geo:
 id: 14256
 item_type: Still Image

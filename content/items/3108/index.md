@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (11).JPG
     thumb: /files/thumbnails/14fb2a5de1a09114fb2a5de1a478.jpg
     url: /files/original/14fb2a5de1a09114fb2a5de1a478.jpg
+    alt:
+      en: "Piles of debris, trash bins, and discarded furniture line a residential driveway between large houses, viewed through a car window with the side mirror visible in the foreground."
 geo:
 id: 3108
 item_type: Still Image

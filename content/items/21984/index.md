@@ -21,6 +21,8 @@ files:
     original_filename: Picture 315-J2.jpg
     thumb: /files/thumbnails/14fb29fa990f0614fb29fa9912eb.jpg
     url: /files/original/14fb29fa990f0614fb29fa9912eb.jpg
+    alt:
+      en: "City skyline with high-rise buildings and a construction crane, viewed from a highway underpass with a concrete barrier and streetlight in the foreground."
 geo:
 id: 21984
 item_type: Still Image

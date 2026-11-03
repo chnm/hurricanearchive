@@ -20,6 +20,8 @@ files:
     original_filename: 2420879201_2f58142205.
     thumb: /files/thumbnails/14fb29c8f1933a14fb29c8f19718.jpg
     url: /files/original/14fb29c8f1933a14fb29c8f19718.jpg
+    alt:
+      en: "White refrigerator standing against a peeling, mint-green painted wall in a bare room, with a bright window to the right and a plastic bag and cardboard box nearby on the floor."
 geo:
 id: 34741
 item_type: Still Image

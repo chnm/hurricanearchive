@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0440_d497917f45.JPG
     thumb: /files/thumbnails/14fb2a6fcaaa5114fb2a6fcaae94.jpg
     url: /files/original/14fb2a6fcaaa5114fb2a6fcaae94.jpg
+    alt:
+      en: "Broken concrete slabs and foundation remnants of the Pass Christian Yacht Club lie exposed along the coastline, with exposed rebar, scattered debris, and the sea visible in the background."
 geo:
   address: ''
   lat: 30.353916372297

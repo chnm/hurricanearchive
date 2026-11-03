@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2252engineers.JPG
     thumb: /files/thumbnails/14fb2a109b6da714fb2a109b717e.jpg
     url: /files/original/14fb2a109b6da714fb2a109b717e.jpg
+    alt:
+      en: "A worker in a tan t-shirt, dark pants, and hard hat uses an orange and white Stihl chainsaw to cut through a large tree stump beside a house, with wood chips flying."
 geo:
 id: 19389
 item_type: Still Image

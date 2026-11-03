@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2132rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13ec711d14fb2a13ec7502.jpg
     url: /files/original/14fb2a13ec711d14fb2a13ec7502.jpg
+    alt:
+      en: "A helmeted military pilot in camouflage uniform with an American flag patch sits in a helicopter cockpit, surrounded by instrument panels and gauges, with a cloudy sky visible through the windshield."
 geo:
 id: 18970
 item_type: Still Image

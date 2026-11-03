@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0388.JPG
     thumb: /files/thumbnails/14fb2a544acc2914fb2a544ad00e.jpg
     url: /files/original/14fb2a544acc2914fb2a544ad00e.jpg
+    alt:
+      en: "Storm-damaged wooded area littered with debris, broken trees, and scattered wreckage, including a blue barrel, wooden window frame, and assorted rubble on bare ground."
 geo:
 id: 5043
 item_type: Still Image

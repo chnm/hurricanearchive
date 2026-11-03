@@ -21,6 +21,8 @@ files:
     original_filename: 09210007J6.JPG
     thumb: /files/thumbnails/14fb29f98c78fd14fb29f98c7cd5.jpg
     url: /files/original/14fb29f98c78fd14fb29f98c7cd5.jpg
+    alt:
+      en: "Two tall telescoping antenna masts with guy wires rise against a blue sky, with a military Humvee parked nearby amid trees and a utility pole in the background."
 geo:
 id: 22096
 item_type: Still Image

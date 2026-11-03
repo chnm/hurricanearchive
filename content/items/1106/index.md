@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28083.jpg
     thumb: /files/thumbnails/14fb2a6af98a8a14fb2a6af98e70.jpg
     url: /files/original/14fb2a6af98a8a14fb2a6af98e70.jpg
+    alt:
+      en: "A weathered red \"EXIT\" sign with arrow stands on a post amid overgrown shrubs, with a large leaning tree trunk and distant high-rise buildings visible against the sky."
 geo:
   address: ''
   lat: 0.0

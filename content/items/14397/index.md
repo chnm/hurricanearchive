@@ -21,6 +21,8 @@ files:
     original_filename: slide15.jpg
     thumb: /files/thumbnails/14fb2a194b1bbd14fb2a194b1fa2.jpg
     url: /files/original/14fb2a194b1bbd14fb2a194b1fa2.jpg
+    alt:
+      en: "A wooden wall marked with a large black spray-painted X, orange text reading \"14 Sept 05,\" and yellow markings reading \"DMV SAR\" alongside two circled slash symbols."
 geo:
 id: 14397
 item_type: Still Image

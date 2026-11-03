@@ -21,6 +21,8 @@ files:
     original_filename: Picture 238cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b118bab14fb2a0b118f8b.jpg
     url: /files/original/14fb2a0b118bab14fb2a0b118f8b.jpg
+    alt:
+      en: "Large uprooted tree lies across a front yard, its trunk arching over the damaged roof of a brick house, with scattered broken branches and debris covering the grass and sidewalk."
 geo:
 id: 20141
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 071cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e67014614fb2a0e67052c.jpg
     url: /files/original/14fb2a0e67014614fb2a0e67052c.jpg
+    alt:
+      en: "Storm-damaged building with a partially collapsed roof and exposed metal framing, viewed through a car windshield, with debris scattered across the empty parking lot."
 geo:
 id: 19684
 item_type: Still Image

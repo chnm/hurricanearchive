@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0070H.JPG
     thumb: /files/thumbnails/14fb2a04223a2c14fb2a042245da.jpg
     url: /files/original/14fb2a04223a2c14fb2a042245da.jpg
+    alt:
+      en: "A smiling young woman with short dark hair and glasses, wearing a white Hooters tank top, stands as a man in military camouflage uniform pins something on her shoulder strap."
 geo:
 id: 20749
 item_type: Still Image

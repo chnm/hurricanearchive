@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8740.jpg
     thumb: /files/thumbnails/14fb2a65b79db914fb2a65b7a19e.jpg
     url: /files/original/14fb2a65b79db914fb2a65b7a19e.jpg
+    alt:
+      en: "Severely storm-damaged house numbered 5705 on stilts, with torn porch and debris piled below; a leaning shed is spray-painted \"WE PAY TAXES\" and \"TAKE CARE AMERICA FIRE.\""
 geo:
 id: 2527
 item_type: Still Image

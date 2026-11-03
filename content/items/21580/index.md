@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0316-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd6cbff314fb29fd6cc381.jpg
     url: /files/original/14fb29fd6cbff314fb29fd6cc381.jpg
+    alt:
+      en: "Aerial view of floodwater surrounding two houses and a storage shed amid farmland, with boats, a truck, and a swing set partially submerged near the water's edge."
 geo:
 id: 21580
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011M.JPG
     thumb: /files/thumbnails/14fb2a07d9a4f314fb2a07d9e1c0.jpg
     url: /files/original/14fb2a07d9a4f314fb2a07d9e1c0.jpg
+    alt:
+      en: "Break room interior with a Coca-Cola vending machine and a snack vending machine, a microwave and mini-fridge, folding table with chairs, a cooler, and a \"THIS IS NOT ENTRANCE\" sign on a door."
 geo:
 id: 20411
 item_type: Still Image

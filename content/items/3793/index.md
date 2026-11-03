@@ -21,6 +21,8 @@ files:
     original_filename: USS Alabama 5.jpg
     thumb: /files/thumbnails/14fb2a599341bd14fb2a5993543c.jpg
     url: /files/original/14fb2a599341bd14fb2a5993543c.jpg
+    alt:
+      en: "Open grassy field with a chain-link barrier in the foreground, a dark military aircraft parked at right, and a hangar building labeled \"AIRCRAFT PAVILION\" with small planes in front, under a cloudy sky."
 geo:
 id: 3793
 item_type: Still Image

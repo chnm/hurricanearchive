@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0017.JPG
     thumb: /files/thumbnails/14fb2a5783848a14fb2a578388cc.jpg
     url: /files/original/14fb2a5783848a14fb2a578388cc.jpg
+    alt:
+      en: "Debris-strewn waterfront lot with a damaged white warehouse on the left and a cluster of fishing boat masts and rigging visible against a clear blue sky in the background."
 geo:
 id: 4131
 item_type: Still Image

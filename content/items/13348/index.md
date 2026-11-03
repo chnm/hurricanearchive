@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4807_b53f6b2b9f.jpg
     thumb: /files/thumbnails/14fb2a1e433f6314fb2a1e434348.jpg
     url: /files/original/14fb2a1e433f6314fb2a1e434348.jpg
+    alt:
+      en: "Three people pose for a photo in a brick plaza, with a girl seated holding a purple backpack, a woman in a denim shirt, and a boy in a green \"65\" sweatshirt; people and tables are visible in the background near a stone building."
 geo:
 id: 13348
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28110.jpg
     thumb: /files/thumbnails/14fb2a696e761a14fb2a696e7a00.jpg
     url: /files/original/14fb2a696e761a14fb2a696e7a00.jpg
+    alt:
+      en: "A rusted, overturned car hood lies amid dead brush and dried palm fronds, with a damaged, collapsed rooftop structure visible in the background."
 geo:
   address: ''
   lat: 0.0

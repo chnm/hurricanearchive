@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1745superdome.JPG
     thumb: /files/thumbnails/14fb29e1ec0d2f14fb29e1ec10d2.jpg
     url: /files/original/14fb29e1ec0d2f14fb29e1ec10d2.jpg
+    alt:
+      en: "PHI Air Medical crew members in black jumpsuits and military personnel in camouflage carry a stretcher through standing floodwater toward a yellow medical helicopter, with a large military helicopter parked nearby."
 geo:
 id: 25138
 item_type: Still Image

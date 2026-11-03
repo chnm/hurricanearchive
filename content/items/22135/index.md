@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-15-14AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f962791214fb29f9627cbb.jpg
     url: /files/original/14fb29f962791214fb29f9627cbb.jpg
+    alt:
+      en: "Floodwater nearly submerges vehicles, with only their rooftops visible, while a white building with a glass door sits partially underwater in the background."
 geo:
 id: 22135
 item_type: Still Image

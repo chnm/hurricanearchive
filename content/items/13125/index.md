@@ -21,6 +21,8 @@ files:
     original_filename: looking north.jpg
     thumb: /files/thumbnails/14fb2a20471e8814fb2a2047253f.jpg
     url: /files/original/14fb2a20471e8814fb2a2047253f.jpg
+    alt:
+      en: "View from an elevated parking structure through heavy rain and fog, looking north over low industrial buildings, a streetlight, and distant rooftops obscured by mist."
 geo:
 id: 13125
 item_type: Still Image

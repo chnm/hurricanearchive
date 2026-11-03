@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 170cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd38b9d14fb2a0dd38f7e.jpg
     url: /files/original/14fb2a0dd38b9d14fb2a0dd38f7e.jpg
+    alt:
+      en: "Upper stories of a tall modern skyscraper with stepped setbacks, blue-tinted glass windows, and gray stone cladding, topped with gold-colored paneling and antenna structures, set against a clear blue sky."
 geo:
 id: 19783
 item_type: Still Image

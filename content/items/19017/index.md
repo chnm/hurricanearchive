@@ -21,6 +21,8 @@ files:
     original_filename: Picture 096satellite.jpg
     thumb: /files/thumbnails/14fb2a13a41afd14fb2a13a41eb8.jpg
     url: /files/original/14fb2a13a41afd14fb2a13a41eb8.jpg
+    alt:
+      en: "Black-and-white aerial reconnaissance photo of a street grid near Chalmette Shopping Center, Jefferson Parish, labeled 17th Street and N Causeway Blvd, with annotated coordinates and RC-26B source data."
 geo:
 id: 19017
 item_type: Still Image

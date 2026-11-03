@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0024cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea27e58514fb29ea27e96b.jpg
     url: /files/original/14fb29ea27e58514fb29ea27e96b.jpg
+    alt:
+      en: "Aerial view of flooded marshland with patches of dry, brown vegetation surrounded by blue water, scattered debris visible across the grassy areas."
 geo:
 id: 24165
 item_type: Still Image

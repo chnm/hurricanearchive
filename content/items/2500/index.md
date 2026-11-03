@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8593.jpg
     thumb: /files/thumbnails/14fb2a65db835e14fb2a65db8745.jpg
     url: /files/original/14fb2a65db835e14fb2a65db8745.jpg
+    alt:
+      en: "A hand-painted sign reading \"MAY ALL THE CAMPS REST IN PEACE\" stands on a utility pole amid storm debris, overlooking a bay filled with bare wooden pilings where waterfront camps once stood."
 geo:
 id: 2500
 item_type: Still Image

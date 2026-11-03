@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27903.jpg
     thumb: /files/thumbnails/14fb2a6896ef0d14fb2a6896f2dd.jpg
     url: /files/original/14fb2a6896ef0d14fb2a6896f2dd.jpg
+    alt:
+      en: "A roadway leads toward a steel truss bridge with an overhead sign reading \"Huey P. Long Bridge, built under the administration of Gov. Huey P. Long and Gov. Oscar K. Allen,\" cars visible on the road."
 geo:
   address: ''
   lat: 0.0

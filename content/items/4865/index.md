@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0184.JPG
     thumb: /files/thumbnails/14fb2a551dabe514fb2a551dafdf.jpg
     url: /files/original/14fb2a551dabe514fb2a551dafdf.jpg
+    alt:
+      en: "Elevated house with pale green siding and white trim, raised on wooden stilts above a lattice-enclosed lower level, with a covered porch and white railings; pine trees surround the property."
 geo:
 id: 4865
 item_type: Still Image

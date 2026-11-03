@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0753.JPG
     thumb: /files/thumbnails/14fb2a570698ce14fb2a57069cad.jpg
     url: /files/original/14fb2a570698ce14fb2a57069cad.jpg
+    alt:
+      en: "Debris-strewn pavement and grass near a waterway, with scattered building materials, pipes, and storm wreckage; damaged structures and trees visible in the background."
 geo:
 id: 4551
 item_type: Still Image

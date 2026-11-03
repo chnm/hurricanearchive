@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0848666514fb2a08487ddd.jpg
     url: /files/original/14fb2a0848666514fb2a08487ddd.jpg
+    alt:
+      en: "A man seen in profile standing in a doorway, wearing a white polo shirt and yellow-and-black pants, arms crossed, in a dimly lit room with a framed picture on the wall behind him."
 geo:
 id: 20375
 item_type: Still Image

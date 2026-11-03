@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0059-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a05009c2c14fb2a0500a013.jpg
     url: /files/original/14fb2a05009c2c14fb2a0500a013.jpg
+    alt:
+      en: "Aerial view of a flooded industrial waterfront with storage tanks, shipping containers, a dumpster labeled \"FLW,\" downed power lines, and a partially submerged house, with grounded fishing vessels visible across the water."
 geo:
 id: 20693
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 255cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b032a7314fb2a0b032e59.jpg
     url: /files/original/14fb2a0b032a7314fb2a0b032e59.jpg
+    alt:
+      en: "Two workers in waders and hard hats stand in a flooded concrete channel beside a large outflow pipe, with debris floating nearby and a utility pole visible in the background."
 geo:
 id: 20158
 item_type: Still Image

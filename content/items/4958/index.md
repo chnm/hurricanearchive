@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0300.JPG
     thumb: /files/thumbnails/14fb2a54c96a6814fb2a54c96bca.jpg
     url: /files/original/14fb2a54c96a6814fb2a54c96bca.jpg
+    alt:
+      en: "Interior view of an attic or roof structure showing exposed wooden rafters, joists, and diagonal support beams, with sheathing and insulation visible between the framing."
 geo:
 id: 4958
 item_type: Still Image

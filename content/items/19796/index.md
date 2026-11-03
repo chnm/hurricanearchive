@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 058cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dc96c1314fb2a0dc96ff8.jpg
     url: /files/original/14fb2a0dc96c1314fb2a0dc96ff8.jpg
+    alt:
+      en: "Dense, blurry tangle of bare tree branches with dried, curled leaves fills the foreground, partially obscuring a white multi-story house with railed balconies visible in the upper right background."
 geo:
 id: 19796
 item_type: Still Image

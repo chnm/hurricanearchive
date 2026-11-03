@@ -21,6 +21,8 @@ files:
     original_filename: GBuckley-6197_f26cbde947.jpg
     thumb: /files/thumbnails/14fb2a16be6cf414fb2a16be70d9.jpg
     url: /files/original/14fb2a16be6cf414fb2a16be70d9.jpg
+    alt:
+      en: "Two young children in matching cowboy costumes with floral shirts, suspenders, holsters, and felt hats stand on a lawn in front of a white house flanked by tall shrubs."
 geo:
 id: 15174
 item_type: Still Image

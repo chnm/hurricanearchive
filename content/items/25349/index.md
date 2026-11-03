@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2076superdome.JPG
     thumb: /files/thumbnails/14fb29ded1adef14fb29ded1b1d2.jpg
     url: /files/original/14fb29ded1adef14fb29ded1b1d2.jpg
+    alt:
+      en: "Two men in foreground tend to a person lying on the ground near a curb, while a man in military camouflage fatigues stands nearby next to a chain-link fence marked \"exit\" and \"Level 3.\""
 geo:
 id: 25349
 item_type: Still Image

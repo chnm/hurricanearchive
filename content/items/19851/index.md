@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d25d7d914fb2a0d25dbbe.jpg
     url: /files/original/14fb2a0d25d7d914fb2a0d25dbbe.jpg
+    alt:
+      en: "Man in a white hard hat and sunglasses stands in an unfinished wood-framed structure with exposed pipes, while a person in camouflage uniform and cap films with a video camera through a cutout in the wall behind him."
 geo:
 id: 19851
 item_type: Still Image

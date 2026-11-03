@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-02-0AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f976ffcf14fb29f97703b5.jpg
     url: /files/original/14fb29f976ffcf14fb29f97703b5.jpg
+    alt:
+      en: "Floodwater submerges a residential street, covering cars, a bus, and partially engulfing houses, with a small rescue boat carrying people in life vests navigating between buildings."
 geo:
 id: 22122
 item_type: Still Image

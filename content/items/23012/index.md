@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0022OEP.JPG
     thumb: /files/thumbnails/14fb29f215aa7014fb29f215ae51.jpg
     url: /files/original/14fb29f215aa7014fb29f215ae51.jpg
+    alt:
+      en: "Row of RVs and satellite trucks (including one marked \"Party Time\" and another with a \"NEXTEL\" banner) parked in a lot with police vehicles, cars, and uniformed personnel standing nearby."
 geo:
 id: 23012
 item_type: Still Image

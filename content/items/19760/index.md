@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 147cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dfa9de014fb2a0dfaa1cd.jpg
     url: /files/original/14fb2a0dfa9de014fb2a0dfaa1cd.jpg
+    alt:
+      en: "Military compound with brick buildings, a Humvee and pickup truck parked outside, fallen trees and downed branches scattered across the lawn, and scorched debris in the foreground grass."
 geo:
 id: 19760
 item_type: Still Image

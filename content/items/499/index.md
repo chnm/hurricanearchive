@@ -26,6 +26,8 @@ files:
     original_filename: Mississippi_Etc_047_dda9b28b0f.jpg
     thumb: /files/thumbnails/14fb2a6faed9cd14fb2a6faeddb0.jpg
     url: /files/original/14fb2a6faed9cd14fb2a6faeddb0.jpg
+    alt:
+      en: "Collapsed gas station canopy with a \"Bud / Now Open\" banner draped across the bent metal roof, surrounded by caution tape, downed tree debris, and storm wreckage under a clear blue sky."
 geo:
   address: ''
   lat: 29.938343

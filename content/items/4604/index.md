@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0030.JPG
     thumb: /files/thumbnails/14fb2a56c5fcb214fb2a56c60481.jpg
     url: /files/original/14fb2a56c5fcb214fb2a56c60481.jpg
+    alt:
+      en: "Storm-damaged lot with bare, broken trees, scattered debris including a \"Plastic Sheeting\" box, and demolition equipment visible in the distance under a partly cloudy sky."
 geo:
 id: 4604
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27991.jpg
     thumb: /files/thumbnails/14fb2a697d1e7714fb2a697d261e.jpg
     url: /files/original/14fb2a697d1e7714fb2a697d261e.jpg
+    alt:
+      en: "Debris-strewn street with leafless, storm-damaged trees scattered across the ground, a yellow \"20 MPH\" speed limit sign, and white houses with damaged roofs in the background."
 geo:
   address: ''
   lat: 0.0

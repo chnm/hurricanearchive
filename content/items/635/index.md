@@ -26,6 +26,8 @@ files:
     original_filename: Manuels_pet_alligator_04a9c7a46e.jpg
     thumb: /files/thumbnails/14fb2a6f500b4e14fb2a6f500f34.jpg
     url: /files/original/14fb2a6f500b4e14fb2a6f500f34.jpg
+    alt:
+      en: "A cement alligator statue floats in murky floodwater surrounded by submerged plants, with trees and sky reflected on the water's surface."
 geo:
   address: ''
   lat: 30.342352

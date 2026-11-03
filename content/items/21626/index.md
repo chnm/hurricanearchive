@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0359-21.JPG
     thumb: /files/thumbnails/14fb29fcf05c9f14fb29fcf06085.jpg
     url: /files/original/14fb29fcf05c9f14fb29fcf06085.jpg
+    alt:
+      en: "Blurred photo of a man in military camouflage uniform standing near a blue-tiled wall, with a wall-mounted unit cooler and red piping visible overhead in the background."
 geo:
 id: 21626
 item_type: Still Image

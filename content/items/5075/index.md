@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0420.JPG
     thumb: /files/thumbnails/14fb2a54168e1214fb2a541691f7.jpg
     url: /files/original/14fb2a54168e1214fb2a541691f7.jpg
+    alt:
+      en: "Waterfront properties along a canal lie in ruins, with collapsed roofs and debris scattered across docks, framed by tall pine trees under a hazy sky."
 geo:
 id: 5075
 item_type: Still Image

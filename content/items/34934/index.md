@@ -20,6 +20,8 @@ files:
     original_filename: 2456569303_35b193fde8.
     thumb: /files/thumbnails/14fb29c864062a14fb29c8640a46.jpg
     url: /files/original/14fb29c864062a14fb29c8640a46.jpg
+    alt:
+      en: "A large cleared dirt field with excavators and dump trucks at work, trees lining the horizon under an overcast sky; date stamp reads 11 10 2007."
 geo:
 id: 34934
 item_type: Still Image

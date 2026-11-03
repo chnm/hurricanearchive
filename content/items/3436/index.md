@@ -24,6 +24,8 @@ files:
     original_filename: P1010003.JPG
     thumb: /files/thumbnails/14fb2a5bbe4e2014fb2a5bbe9628.jpg
     url: /files/original/14fb2a5bbe4e2014fb2a5bbe9628.jpg
+    alt:
+      en: "A single-story house with a brick chimney and basketball hoop stands beside large trees with sparse, damaged branches against a clear blue sky, power lines crossing overhead."
 geo:
 id: 3436
 item_type: Still Image

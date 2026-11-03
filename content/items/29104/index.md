@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0674.JPG
     thumb: /files/thumbnails/14fb29cf92cc0f14fb29cf92cfe7.jpg
     url: /files/original/14fb29cf92cc0f14fb29cf92cfe7.jpg
+    alt:
+      en: "View from inside a vehicle on a tree-lined street with cars queued ahead, including a gray Toyota Corolla with license plate MYR 916, under a canopy of overhanging oak branches."
 geo:
 id: 29104
 item_type: Still Image

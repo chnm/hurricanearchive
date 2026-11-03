@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0297.JPG
     thumb: /files/thumbnails/14fb2a54cb11c114fb2a54cb157a.jpg
     url: /files/original/14fb2a54cb11c114fb2a54cb157a.jpg
+    alt:
+      en: "Interior view of a basement or crawlspace showing exposed wooden ceiling joists with splintered wood hanging down, alongside a stained, water-damaged plaster wall with visible mold spotting and a painted trim line."
 geo:
 id: 4955
 item_type: Still Image

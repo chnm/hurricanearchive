@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2154superdome.JPG
     thumb: /files/thumbnails/14fb29e47b57fb14fb29e47b5bdf.jpg
     url: /files/original/14fb29e47b57fb14fb29e47b5bdf.jpg
+    alt:
+      en: "A soldier in camouflage uniform and vest holds an M4 rifle while riding on a boat through floodwaters, with a military truck and submerged trees visible behind him near an elevated highway."
 geo:
 id: 24832
 item_type: Still Image

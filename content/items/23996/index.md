@@ -21,6 +21,8 @@ files:
     original_filename: 09270034plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec07d67914fb29ec07da4d.jpg
     url: /files/original/14fb29ec07d67914fb29ec07da4d.jpg
+    alt:
+      en: "Empty paved road lined with storm-damaged buildings, stripped trees, debris, and a white cylindrical water tank, under an overcast gray sky."
 geo:
 id: 23996
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 1248145206_fbb9bbcdb1.jpg
     thumb: /files/thumbnails/14fb29cb353c3814fb29cb354595.jpg
     url: /files/original/14fb29cb353c3814fb29cb354595.jpg
+    alt:
+      en: "White door numbered \"6458\" set within a gray-framed entryway with decorative pediment, flanked by wall-mounted lanterns, with a paper notice taped near the handle and a wrought-iron gate at right."
 geo:
 id: 33243
 item_type: Still Image

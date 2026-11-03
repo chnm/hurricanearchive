@@ -21,6 +21,8 @@ files:
     original_filename: 190 cars flooded.jpg
     thumb: /files/thumbnails/14fb2a1f6e380f14fb2a1f6e3bf8.jpg
     url: /files/original/14fb2a1f6e380f14fb2a1f6e3bf8.jpg
+    alt:
+      en: "Floodwater submerges a residential street, with a silver pickup truck and several other vehicles partially underwater; houses, a wooden fence, and trees line the flooded road under an overcast sky."
 geo:
 id: 13197
 item_type: Still Image

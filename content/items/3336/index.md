@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Press conference (3).JPG
     thumb: /files/thumbnails/14fb2a5c591a6c14fb2a5c591efc.jpg
     url: /files/original/14fb2a5c591a6c14fb2a5c591efc.jpg
+    alt:
+      en: "A crowd of press photographers and videographers with tripods and cameras stand outdoors on a plaza, facing away from the viewer toward an unseen speaker, with trees and a building in the background."
 geo:
 id: 3336
 item_type: Still Image

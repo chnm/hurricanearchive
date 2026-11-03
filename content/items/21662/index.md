@@ -21,6 +21,8 @@ files:
     original_filename: FH000003.jpg
     thumb: /files/thumbnails/14fb29fcbf097014fb29fcbf0d56.jpg
     url: /files/original/14fb29fcbf097014fb29fcbf0d56.jpg
+    alt:
+      en: "Rows of boats displaced onto a highway median, photographed from inside a moving vehicle with its side mirror visible, an SUV passing in the adjacent lane."
 geo:
 id: 21662
 item_type: Still Image

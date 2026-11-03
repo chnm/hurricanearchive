@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0852ab8514fb2a0852af6a.jpg
     url: /files/original/14fb2a0852ab8514fb2a0852af6a.jpg
+    alt:
+      en: "A group of people stands outside a white building near a video camera on a tripod, with a green street sign and a \"Sheraton\" awning visible overhead; a car's rooftop is in the foreground."
 geo:
 id: 20372
 item_type: Still Image

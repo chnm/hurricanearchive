@@ -26,6 +26,8 @@ files:
     original_filename: 100_2792_8a12882bff.JPG
     thumb: /files/thumbnails/14fb2a707f387814fb2a707f3c5c.jpg
     url: /files/original/14fb2a707f387814fb2a707f3c5c.jpg
+    alt:
+      en: "A large tree has snapped and fallen onto a house roof, its trunk and branches crushing the structure amid dense, storm-damaged foliage and overturned patio chairs in the yard."
 geo:
   address: ''
   lat: 29.984643

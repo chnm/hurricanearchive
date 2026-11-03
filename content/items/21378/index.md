@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0240.JPG
     thumb: /files/thumbnails/14fb29ff15039514fb29ff150771.jpg
     url: /files/original/14fb29ff15039514fb29ff150771.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with submerged and collapsed houses, scattered debris, and utility poles rising from floodwaters that stretch toward a distant river or lake."
 geo:
 id: 21378
 item_type: Still Image

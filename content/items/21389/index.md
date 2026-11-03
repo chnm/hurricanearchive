@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0243-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff0d937314fb29ff0d9759.jpg
     url: /files/original/14fb29ff0d937314fb29ff0d9759.jpg
+    alt:
+      en: "Aerial view of a flooded industrial refinery complex with tanks, pipes, and smokestacks surrounded by standing floodwater, with cattle grazing on higher ground in the foreground."
 geo:
 id: 21389
 item_type: Still Image

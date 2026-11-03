@@ -20,6 +20,8 @@ files:
     original_filename: 2297832723_ebb55d0b56.
     thumb: /files/thumbnails/14fb29c7ca072c14fb29c7ca0fd4.jpg
     url: /files/original/14fb29c7ca072c14fb29c7ca0fd4.jpg
+    alt:
+      en: "Several people stand near a cluster of bicycles and a metal trash can outside a building, with a dark pickup truck parked nearby and trees and another structure in the background."
 geo:
 id: 35002
 item_type: Still Image

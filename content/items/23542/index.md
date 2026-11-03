@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0170neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef0dacd514fb29ef0db0af.jpg
     url: /files/original/14fb29ef0dacd514fb29ef0db0af.jpg
+    alt:
+      en: "Tree-lined residential street with a blue pickup truck parked on a grassy curb, debris and storm wreckage piled along the roadside, and a yellow curve warning sign visible ahead."
 geo:
 id: 23542
 item_type: Still Image

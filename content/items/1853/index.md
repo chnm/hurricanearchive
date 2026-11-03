@@ -26,6 +26,8 @@ files:
     original_filename: johnny_in_playpen_01b5e5f374.jpg
     thumb: /files/thumbnails/14fb2a6ea8fb8914fb2a6ea8ffac.jpg
     url: /files/original/14fb2a6ea8fb8914fb2a6ea8ffac.jpg
+    alt:
+      en: "Faded Polaroid of a baby with curly hair resting chin on folded hands, wearing a striped outfit, with visible water damage and discoloration from flooding."
 geo:
   address: ''
   lat: 30.009063

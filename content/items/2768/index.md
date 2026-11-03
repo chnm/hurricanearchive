@@ -24,6 +24,8 @@ files:
     original_filename: 63.jpg
     thumb: /files/thumbnails/14fb2a6047d85514fb2a6047dc3c.jpg
     url: /files/original/14fb2a6047d85514fb2a6047dc3c.jpg
+    alt:
+      en: "Hand-drawn diagram titled \"Clothes Distribution\" depicting three open distribution booths with clothing sizes by category, changing room stalls below, and lines of stick figures labeled Women, Family, and Men; signed Reginald, age 14, Sept-14-05."
 geo:
 id: 2768
 item_type: Still Image

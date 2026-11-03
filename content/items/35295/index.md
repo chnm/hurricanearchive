@@ -18,6 +18,8 @@ files:
     original_filename: 30_ec864a94bb.jpg
     thumb: /files/thumbnails/14fb29c6e7db3414fb29c6e7df1a.jpg
     url: /files/original/14fb29c6e7db3414fb29c6e7df1a.jpg
+    alt:
+      en: "Four costumed performers in black outfits with white sunglasses and arrow-through-head props sing into microphones in a basement venue, with a drum kit reading \"FLOCK OF\" visible behind them."
 geo:
   address: new orleans, la
   lat: 29.95324

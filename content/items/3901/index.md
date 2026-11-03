@@ -21,6 +21,8 @@ files:
     original_filename: 100_0198.JPG
     thumb: /files/thumbnails/14fb2a590d6f5f14fb2a590d7338.jpg
     url: /files/original/14fb2a590d6f5f14fb2a590d7338.jpg
+    alt:
+      en: "Floodwater submerges a residential street lined with large oak trees, their branches arching overhead, as a small boat carrying people in life jackets moves through the water in the distance."
 geo:
 id: 3901
 item_type: Still Image

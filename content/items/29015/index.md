@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0518.JPG
     thumb: /files/thumbnails/14fb29d0a6840b14fb29d0a6adae.jpg
     url: /files/original/14fb29d0a6840b14fb29d0a6adae.jpg
+    alt:
+      en: "A military helicopter, likely a Black Hawk, sits on a tarmac with rotors spinning, set against a backdrop of trees and a construction crane in the distance."
 geo:
 id: 29015
 item_type: Still Image

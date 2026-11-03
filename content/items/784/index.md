@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27847.jpg
     thumb: /files/thumbnails/14fb2a6d0c9bd114fb2a6d0c9f1e.jpg
     url: /files/original/14fb2a6d0c9bd114fb2a6d0c9f1e.jpg
+    alt:
+      en: "A printed sign taped to a glass door reads \"WE ARE SOLD OUT. PLEASE CALL MARRIOTT'S TOLL FREE RESERVATIONS FOR AVAILABILITY IN OTHER AREAS 1-800-228-9290,\" with trees reflected in the glass."
 geo:
   address: ''
   lat: 0.0

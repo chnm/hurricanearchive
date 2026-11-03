@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0121.JPG
     thumb: /files/thumbnails/14fb2a555ac9b414fb2a555acd97.jpg
     url: /files/original/14fb2a555ac9b414fb2a555acd97.jpg
+    alt:
+      en: "A damaged roof covered in pine needles and debris, with a large fallen tree trunk resting across it; roof vents are exposed and bare trees surround the site."
 geo:
 id: 4808
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: courtyard wind2.jpg
     thumb: /files/thumbnails/14fb2a208a7f3f14fb2a208a8544.jpg
     url: /files/original/14fb2a208a7f3f14fb2a208a8544.jpg
+    alt:
+      en: "Heavy rain and fog obscure a courtyard with a decorative archway, flagpoles, potted plants, and trees, the brick pavement slick with water during a storm."
 geo:
 id: 13081
 item_type: Still Image

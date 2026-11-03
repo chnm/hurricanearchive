@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6491_4d41dc0695.JPG
     thumb: /files/thumbnails/14fb29d337695514fb29d3376d5c.jpg
     url: /files/original/14fb29d337695514fb29d3376d5c.jpg
+    alt:
+      en: "Three children stand on a grassy shoreline beside Lake Pontchartrain, with boats and a parked car visible along the water's edge behind them under a partly cloudy sky."
 geo:
   address: ''
   lat: 29.91685

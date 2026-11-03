@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0082-9-25.JPG
     thumb: /files/thumbnails/14fb2a03aec1b814fb2a03aec466.jpg
     url: /files/original/14fb2a03aec1b814fb2a03aec466.jpg
+    alt:
+      en: "Aerial view of a flooded rural area with a two-lane road partially submerged, scattered storm debris, downed trees, and a severely damaged house on stilts surrounded by floodwater."
 geo:
 id: 20806
 item_type: Still Image

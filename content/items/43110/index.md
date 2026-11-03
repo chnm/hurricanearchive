@@ -20,6 +20,8 @@ files:
     original_filename: StLouis_c8479102fe.jpg
     thumb: /files/thumbnails/14fb29c237886514fb29c2379161.jpg
     url: /files/original/14fb29c237886514fb29c2379161.jpg
+    alt:
+      en: "Weathered above-ground tomb with classical detailing rises behind a crumbling brick cemetery wall at St. Louis Cemetery, New Orleans, with modern city skyscrapers visible in the background."
 geo:
 id: 43110
 item_type: Still Image

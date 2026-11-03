@@ -21,6 +21,8 @@ files:
     original_filename: 09210017J6.JPG
     thumb: /files/thumbnails/14fb29f98a36f914fb29f98a3adf.jpg
     url: /files/original/14fb29f98a36f914fb29f98a3adf.jpg
+    alt:
+      en: "Large rusted metal barge or storage container beside a gravel lot strewn with debris, with a military-style vehicle and radio towers visible in the background under a blue sky."
 geo:
 id: 22099
 item_type: Still Image

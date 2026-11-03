@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0161-21.JPG
     thumb: /files/thumbnails/14fb2a0131d27714fb2a0131d65b.jpg
     url: /files/original/14fb2a0131d27714fb2a0131d65b.jpg
+    alt:
+      en: "A man in a military camouflage uniform, cap, and rifle slung over his shoulder speaks with a driver seated in a maroon SUV displaying a \"Port of New Orleans Port Access Pass\" sticker on the window."
 geo:
 id: 20981
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028-9-25.JPG
     thumb: /files/thumbnails/14fb2a0685d12c14fb2a0685d4e1.jpg
     url: /files/original/14fb2a0685d12c14fb2a0685d4e1.jpg
+    alt:
+      en: "Aerial view of extensive floodwater submerging roads and land, with a partially visible highway, scattered vehicles on dry pavement, downed power lines, uprooted trees, and debris floating in the water."
 geo:
 id: 20525
 item_type: Still Image

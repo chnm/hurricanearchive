@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2159conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11c7b46314fb2a11c7b848.jpg
     url: /files/original/14fb2a11c7b46314fb2a11c7b848.jpg
+    alt:
+      en: "Military Humvees and troop trucks fill a debris-strewn city intersection, with soldiers gathered on a grassy median and a helicopter flying over downtown high-rises in the background."
 geo:
 id: 19214
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09140036neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec5d096a14fb29ec5d0d4e.jpg
     url: /files/original/14fb29ec5d096a14fb29ec5d0d4e.jpg
+    alt:
+      en: "Elevated view of a residential neighborhood with mixed rooftops, scattered trees, and utility poles under a hazy sky, with a wooden railing visible in the foreground."
 geo:
 id: 23923
 item_type: Still Image

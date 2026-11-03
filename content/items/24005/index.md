@@ -21,6 +21,8 @@ files:
     original_filename: 09280007plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebf75e0314fb29ebf761de.jpg
     url: /files/original/14fb29ebf75e0314fb29ebf761de.jpg
+    alt:
+      en: "Raised white concrete crypts with American flags in foreground, military Humvee and sheriff's patrol car parked behind, with storm-damaged buildings and debris in the background."
 geo:
 id: 24005
 item_type: Still Image

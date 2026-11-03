@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0589.JPG
     thumb: /files/thumbnails/14fb2a5663ef0914fb2a5663f2e7.jpg
     url: /files/original/14fb2a5663ef0914fb2a5663f2e7.jpg
+    alt:
+      en: "Empty concrete slab foundation remains of a demolished building, surrounded by debris, scattered lumber, and storm-damaged trees with broken limbs under a partly cloudy sky."
 geo:
 id: 4660
 item_type: Still Image

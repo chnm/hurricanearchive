@@ -27,6 +27,8 @@ files:
     original_filename: 2310193609_91668345a5.
     thumb: /files/thumbnails/14fb29c9b57ede14fb29c9b582cd.jpg
     url: /files/original/14fb29c9b57ede14fb29c9b582cd.jpg
+    alt:
+      en: "Rows of above-ground tombs and mausoleums with ornate stone crosses and statuary line a grassy cemetery path, with tall trees and an overcast sky in the background."
 geo:
 id: 34490
 item_type: Still Image

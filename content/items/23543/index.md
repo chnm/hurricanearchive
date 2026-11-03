@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0171abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef0d203e14fb29ef0d2419.jpg
     url: /files/original/14fb29ef0d203e14fb29ef0d2419.jpg
+    alt:
+      en: "A collapsed roof structure lies entirely torn from its foundation, resting upside-down in floodwater and debris, with damaged trees and a partially intact house visible in the background."
 geo:
 id: 23543
 item_type: Still Image

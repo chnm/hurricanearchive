@@ -21,6 +21,8 @@ files:
     original_filename: crowd1_60911d86de.jpg
     thumb: /files/thumbnails/14fb29db9b471e14fb29db9b4b03.jpg
     url: /files/original/14fb29db9b471e14fb29db9b4b03.jpg
+    alt:
+      en: "Crowd of attendees mingling in a large hall decorated with balloons and chandeliers, with vendor tables set up along the sides for a community food event."
 geo:
 id: 26023
 item_type: Still Image

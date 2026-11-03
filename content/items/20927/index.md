@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0150-21-2.JPG
     thumb: /files/thumbnails/14fb2a01e00e9714fb2a01e013c9.jpg
     url: /files/original/14fb2a01e00e9714fb2a01e013c9.jpg
+    alt:
+      en: "A person in camouflage military uniform and glasses, viewed from behind, sits in auditorium-style seating reading a folded newspaper."
 geo:
 id: 20927
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09110013delaware.JPG
     thumb: /files/thumbnails/14fb29f16b4b3114fb29f16b4f15.jpg
     url: /files/original/14fb29f16b4b3114fb29f16b4f15.jpg
+    alt:
+      en: "Two men in military camouflage uniforms sit in the cargo area of an aircraft, secured with red cargo netting and straps visible overhead and behind them."
 geo:
 id: 23136
 item_type: Still Image

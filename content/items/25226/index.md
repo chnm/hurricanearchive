@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1925superdome.JPG
     thumb: /files/thumbnails/14fb29e0a5c9c114fb29e0a5e68b.jpg
     url: /files/original/14fb29e0a5c9c114fb29e0a5e68b.jpg
+    alt:
+      en: "A twin-rotor military helicopter sits on a rooftop helipad with its rotors spinning, set against a hazy cityscape with elevated highways and high-rise buildings in the background."
 geo:
 id: 25226
 item_type: Still Image

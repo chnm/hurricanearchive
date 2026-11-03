@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1021Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f913601414fb29f9136404.jpg
     url: /files/original/14fb29f913601414fb29f9136404.jpg
+    alt:
+      en: "Military helicopter with rotors spinning sits on pavement as uniformed personnel load gear nearby, with parked trucks, trees, and buildings in the background on a grassy field."
 geo:
 id: 22214
 item_type: Still Image

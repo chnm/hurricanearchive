@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1878.JPG
     thumb: /files/thumbnails/14fb2a00cced8014fb2a00ccf166.jpg
     url: /files/original/14fb2a00cced8014fb2a00ccf166.jpg
+    alt:
+      en: "Aerial view of a highway interchange with a large twin-rotor military helicopter (Chinook) landed on the grassy median, surrounded by trees, roadways, and nearby buildings labeled \"Causeway Blvd.\""
 geo:
 id: 21059
 item_type: Still Image

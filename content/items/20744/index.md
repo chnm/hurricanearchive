@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0069-9-25.JPG
     thumb: /files/thumbnails/14fb2a04298c6b14fb2a04299052.jpg
     url: /files/original/14fb2a04298c6b14fb2a04299052.jpg
+    alt:
+      en: "Aerial view of a flooded coastal road lined with trees, power lines, and debris, with boats washed ashore near a marina on the opposite bank."
 geo:
 id: 20744
 item_type: Still Image

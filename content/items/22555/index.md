@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1844Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f54f26f114fb29f54f2d37.jpg
     url: /files/original/14fb29f54f26f114fb29f54f2d37.jpg
+    alt:
+      en: "Aerial view of a flooded residential and industrial area, with only rooftops visible above the water, scattered debris, submerged vehicles, and a building marked \"FMS #13.\""
 geo:
 id: 22555
 item_type: Still Image

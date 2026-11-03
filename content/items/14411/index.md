@@ -21,6 +21,8 @@ files:
     original_filename: slide31.jpg
     thumb: /files/thumbnails/14fb2a1936a1da14fb2a1936a5c3.jpg
     url: /files/original/14fb2a1936a1da14fb2a1936a5c3.jpg
+    alt:
+      en: "A white concrete staircase with black iron railings stands alone amid debris, spray-painted \"NOTE-1 9-2-05\" and \"504 S. BEACH - ALL OK!\" with wreckage and bare trees surrounding it."
 geo:
 id: 14411
 item_type: Still Image

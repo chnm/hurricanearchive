@@ -21,6 +21,8 @@ files:
     original_filename: MVC-015S.JPG
     thumb: /files/thumbnails/14fb2a5f919d8814fb2a5f91a16e.jpg
     url: /files/original/14fb2a5f919d8814fb2a5f91a16e.jpg
+    alt:
+      en: "Stainless steel commercial kitchen with a long serving counter, overhead exhaust hoods, and large cooking pots, set in a room with white walls and a red floor."
 geo:
 id: 2926
 item_type: Still Image

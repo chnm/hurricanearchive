@@ -21,6 +21,8 @@ files:
     original_filename: AB Pontchartrain Beach 1974_3d306fbc48. 2 TIF.jpg
     thumb: /files/thumbnails/14fb29d945a12714fb29d945a50c.jpg
     url: /files/original/14fb29d945a12714fb29d945a50c.jpg
+    alt:
+      en: "Black-and-white photo of a woman in sunglasses sitting on a striped blanket on a sandy beach, with another person lying in the sand nearby and buildings along a boardwalk in the background; \"Cecelia\" is handwritten at the top."
 geo:
   address: ''
   lat: 29.87876

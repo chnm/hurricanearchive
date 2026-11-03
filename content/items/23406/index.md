@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0091abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef9867ce14fb29ef9868eb.jpg
     url: /files/original/14fb29ef9867ce14fb29ef9868eb.jpg
+    alt:
+      en: "Three women in white shirts and jeans walk along a paved road beside a flooded ditch lined with trees, photographed from inside a vehicle with a visible side mirror."
 geo:
 id: 23406
 item_type: Still Image

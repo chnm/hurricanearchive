@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7049_cc039f19f2.jpg
     thumb: /files/thumbnails/14fb29db56cfd514fb29db56d3b6.jpg
     url: /files/original/14fb29db56cfd514fb29db56d3b6.jpg
+    alt:
+      en: "Multi-story stone building with gothic-style windows along Palmetto Street, cross atop a central gable, and vintage cars parked at the curb in front."
 geo:
   address: ''
   lat: 29.87876

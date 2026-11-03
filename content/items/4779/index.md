@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0091.JPG
     thumb: /files/thumbnails/14fb2a559c155814fb2a559c1943.jpg
     url: /files/original/14fb2a559c155814fb2a559c1943.jpg
+    alt:
+      en: "A tilted stop sign stands in front of a storm-damaged house with a partially collapsed roof, surrounded by bare, broken trees and debris-strewn ground."
 geo:
 id: 4779
 item_type: Still Image

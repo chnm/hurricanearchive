@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28697.jpg
     thumb: /files/thumbnails/14fb2a6b95338a14fb2a6b953725.jpg
     url: /files/original/14fb2a6b95338a14fb2a6b953725.jpg
+    alt:
+      en: "Two horses, one tan with a white blaze and one gray, peer through metal stall gates with halters on, inside a barn at an animal rescue shelter."
 geo:
   address: ''
   lat: 0.0

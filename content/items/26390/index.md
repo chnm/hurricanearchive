@@ -21,6 +21,8 @@ files:
     original_filename: RhinaKissee-5927_06297d059a.jpg
     thumb: /files/thumbnails/14fb29d8f46e3514fb29d8f4819a.jpg
     url: /files/original/14fb29d8f46e3514fb29d8f4819a.jpg
+    alt:
+      en: "Vintage color photograph of an older boy and girl seated together holding a baby on a couch, the boy in a white shirt, the girl in overalls, with wood paneling visible behind them."
 geo:
   address: 3709 Palmisano Blvd., Chalmette, LA
   lat: 29.95079

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 072.jpg
     thumb: /files/thumbnails/14fb2a22a244c914fb2a22a248c5.jpg
     url: /files/original/14fb2a22a244c914fb2a22a248c5.jpg
+    alt:
+      en: "A damaged greenhouse-like structure with a torn, flapping white covering and exposed metal frame, surrounded by scattered debris and fallen plastic sheeting on the grass, pine trees in the background, photographed from inside a vehicle with the side mirror visible; date stamp reads 2005/09/24."
 geo:
 id: 11950
 item_type: Still Image

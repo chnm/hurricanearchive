@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0038.JPG
     thumb: /files/thumbnails/14fb2a56c10b5814fb2a56c10f41.jpg
     url: /files/original/14fb2a56c10b5814fb2a56c10f41.jpg
+    alt:
+      en: "A large fallen tree with browned leaves lies across a chain-link fence in a backyard, surrounded by storm-damaged trees and scattered debris."
 geo:
 id: 4612
 item_type: Still Image

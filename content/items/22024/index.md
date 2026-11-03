@@ -21,6 +21,8 @@ files:
     original_filename: Picture 355-J2.jpg
     thumb: /files/thumbnails/14fb29fa06162614fb29fa062547.jpg
     url: /files/original/14fb29fa06162614fb29fa062547.jpg
+    alt:
+      en: "Military personnel in camouflage and emergency responders in orange work amid downed trees and debris, with an American flag patch visible on one uniform's sleeve."
 geo:
 id: 22024
 item_type: Still Image

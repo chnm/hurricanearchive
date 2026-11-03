@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0203-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ffe662a814fb29ffe6668f.jpg
     url: /files/original/14fb29ffe662a814fb29ffe6668f.jpg
+    alt:
+      en: "Aerial view of a flattened neighborhood with only concrete foundation slabs remaining, surrounded by debris, standing water, damaged trees, scattered vehicles, and a military Humvee on the street."
 geo:
 id: 21231
 item_type: Still Image

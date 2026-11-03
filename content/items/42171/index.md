@@ -20,6 +20,8 @@ files:
     original_filename: 101_2251_fe425290b3.JPG
     thumb: /files/thumbnails/14fb29c2f7fcdf14fb29c2f82e7b.jpg
     url: /files/original/14fb29c2f7fcdf14fb29c2f82e7b.jpg
+    alt:
+      en: "Two people pose for a photo beneath a glittery \"Mardi Gras\" sign, the man in a Saints jersey and the woman in a \"Peace Love Saints\" shirt with beaded necklace, dated 01/14/2010."
 geo:
 id: 42171
 item_type: Still Image

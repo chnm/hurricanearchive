@@ -26,6 +26,8 @@ files:
     original_filename: c32_1f7616ea27.jpg
     thumb: /files/thumbnails/14fb2a6d80c4d214fb2a6d80c8ad.jpg
     url: /files/original/14fb2a6d80c4d214fb2a6d80c8ad.jpg
+    alt:
+      en: "Storm-damaged mobile home with a large section of siding torn loose and bent outward, exposing wooden wall framing beneath, debris scattered on the ground below."
 geo:
   address: ''
   lat: 27.18608

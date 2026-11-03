@@ -21,6 +21,8 @@ files:
     original_filename: P1010126empireS&R.JPG
     thumb: /files/thumbnails/14fb29ede5fb5114fb29ede6013a.jpg
     url: /files/original/14fb29ede5fb5114fb29ede6013a.jpg
+    alt:
+      en: "A wooded area with standing trees showing storm damage, surrounded by fallen branches and debris on the ground, with a gravel-and-dirt path running through dry grass in the foreground."
 geo:
 id: 23685
 item_type: Still Image

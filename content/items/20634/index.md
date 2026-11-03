@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046M.JPG
     thumb: /files/thumbnails/14fb2a0589755514fb2a0589793a.jpg
     url: /files/original/14fb2a0589755514fb2a0589793a.jpg
+    alt:
+      en: "A woman in a brown shirt looks away while a gloved medical worker in camouflage military fatigues administers a shot to her upper arm, with shelves of supplies visible in the background."
 geo:
 id: 20634
 item_type: Still Image

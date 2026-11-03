@@ -21,6 +21,8 @@ files:
     original_filename: Picture 061.jpg
     thumb: /files/thumbnails/14fb29cc6e6f8a14fb29cc6e736f.jpg
     url: /files/original/14fb29cc6e6f8a14fb29cc6e736f.jpg
+    alt:
+      en: "Paved rural road lined with snapped and uprooted trees, cut logs, and storm debris; a brick chimney stands exposed near a fence on the right under a clear blue sky."
 geo:
 id: 30796
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20050930-A-3780B-42mobilePAO.jpg
     thumb: /files/thumbnails/14fb29f156727d14fb29f156764e.jpg
     url: /files/original/14fb29f156727d14fb29f156764e.jpg
+    alt:
+      en: "Military personnel in fatigues distribute bottled water and supplies under a tent in a strip mall parking lot, with storefronts reading \"Video World+ Rental\" and \"Nails\" visible in the background."
 geo:
 id: 23142
 item_type: Still Image

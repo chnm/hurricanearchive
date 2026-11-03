@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0102-15.JPG
     thumb: /files/thumbnails/14fb29e758fa0514fb29e759454a.jpg
     url: /files/original/14fb29e758fa0514fb29e759454a.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood centered on a pink church with a white steeple, surrounded by rooftops, trees, utility poles, a parking lot, and parked vehicles."
 geo:
 id: 24479
 item_type: Still Image

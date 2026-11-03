@@ -21,6 +21,8 @@ files:
     original_filename: katrina 058.jpg
     thumb: /files/thumbnails/14fb29fbbd929614fb29fbbd96eb.jpg
     url: /files/original/14fb29fbbd929614fb29fbbd96eb.jpg
+    alt:
+      en: "A young man in a brown t-shirt and camouflage pants sits in the cockpit of a military helicopter at night, holding onto the open canopy frame; a timestamp reads \"5 9:51 PM.\""
 geo:
 id: 21788
 item_type: Still Image

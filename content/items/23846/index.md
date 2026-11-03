@@ -21,6 +21,8 @@ files:
     original_filename: S4300185stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecd41abb14fb29ecd41e98.jpg
     url: /files/original/14fb29ecd41abb14fb29ecd41e98.jpg
+    alt:
+      en: "Black SUV parked in a muddy, debris-covered yard in front of a brick house with storm-damaged roof and gutters; dried marsh grass and scattered debris surround a white mailbox post reading \"4520.\""
 geo:
 id: 23846
 item_type: Still Image

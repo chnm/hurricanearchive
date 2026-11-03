@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28056.jpg
     thumb: /files/thumbnails/14fb2a6cc37b3314fb2a6cc37fbd.jpg
     url: /files/original/14fb2a6cc37b3314fb2a6cc37fbd.jpg
+    alt:
+      en: "A weathered plastic Fisher-Price toy castle lies on muddy, debris-strewn ground, surrounded by scattered wood planks, metal pieces, and small bits of trash."
 geo:
   address: ''
   lat: 0.0

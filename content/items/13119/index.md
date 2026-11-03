@@ -21,6 +21,8 @@ files:
     original_filename: george roof rack.jpg
     thumb: /files/thumbnails/14fb2a204e918214fb2a204e95e0.jpg
     url: /files/original/14fb2a204e918214fb2a204e95e0.jpg
+    alt:
+      en: "A man attaches red cables and equipment to a vehicle's roof rack loaded with gas cans and amber emergency lights, with a \"Stop-A-Snak\" market sign visible in the background."
 geo:
 id: 13119
 item_type: Still Image

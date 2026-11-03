@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0303-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd838a8014fb29fd838e62.jpg
     url: /files/original/14fb29fd838a8014fb29fd838e62.jpg
+    alt:
+      en: "Aerial view of a flooded sports complex with bleachers, a press box, and fencing partially submerged in brown floodwater, surrounded by trees and a nearby roadway with parked vehicles."
 geo:
 id: 21567
 item_type: Still Image

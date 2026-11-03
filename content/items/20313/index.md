@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0246-9-18.JPG
     thumb: /files/thumbnails/14fb2a0987873e14fb2a09878c19.jpg
     url: /files/original/14fb2a0987873e14fb2a09878c19.jpg
+    alt:
+      en: "A military helicopter with spinning rotor blades sits on a ship's flight deck, with a crew member in a purple jacket and helmet walking nearby, while a person in a yellow jacket and helmet stands in the foreground."
 geo:
 id: 20313
 item_type: Still Image

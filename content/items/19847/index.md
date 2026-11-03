@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d497c5e14fb2a0d4a2465.jpg
     url: /files/original/14fb2a0d497c5e14fb2a0d4a2465.jpg
+    alt:
+      en: "Construction workers in white hard hats frame a wooden roof structure, viewed from below through the exposed beams against a clear blue sky."
 geo:
 id: 19847
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-08-7A.jpg
     thumb: /files/thumbnails/14fb29e8557d6714fb29e855815a.jpg
     url: /files/original/14fb29e8557d6714fb29e855815a.jpg
+    alt:
+      en: "Floodwaters submerge a parking lot with several vehicles partially underwater, their rooftops and rear windows visible amid murky water, as haze and wind obscure background trees and buildings."
 geo:
 id: 24387
 item_type: Still Image

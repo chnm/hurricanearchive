@@ -21,6 +21,8 @@ files:
     original_filename: Picture 239cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b110eaa14fb2a0b111290.jpg
     url: /files/original/14fb2a0b110eaa14fb2a0b111290.jpg
+    alt:
+      en: "A blurry, motion-captured view of a concrete sidewalk running between strips of green grass, with scattered debris visible in the foreground."
 geo:
 id: 20142
 item_type: Still Image

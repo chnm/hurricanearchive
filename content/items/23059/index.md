@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0069OEP.JPG
     thumb: /files/thumbnails/14fb29f1ad84f914fb29f1ad88f2.jpg
     url: /files/original/14fb29f1ad84f914fb29f1ad88f2.jpg
+    alt:
+      en: "A seated man in a white t-shirt interviews a military service member in camouflage uniform under a tent, while a woman films with a camera and boom microphone nearby on a grassy lot."
 geo:
 id: 23059
 item_type: Still Image

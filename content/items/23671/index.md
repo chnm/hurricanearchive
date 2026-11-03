@@ -21,6 +21,8 @@ files:
     original_filename: P1010112empireS&R.JPG
     thumb: /files/thumbnails/14fb29edf3c14714fb29edf3c631.jpg
     url: /files/original/14fb29edf3c14714fb29edf3c631.jpg
+    alt:
+      en: "Office desk with a military-style radio transceiver and handset, papers, and supplies; an open door labeled \"Administrative Director\" leads to a hallway with room 204, and a bookshelf with files sits behind."
 geo:
 id: 23671
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC01097.JPG
     thumb: /files/thumbnails/14fb2a58901e9514fb2a58902271.jpg
     url: /files/original/14fb2a58901e9514fb2a58902271.jpg
+    alt:
+      en: "Four men in dark blue uniforms pose on the lowered tailgate and in the doorway of a box truck, one wearing a USCG name badge; a timestamp reading \"6:43 PM\" appears in the corner."
 geo:
 id: 4002
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-004S.JPG
     thumb: /files/thumbnails/14fb2a5fddfe9f14fb2a5fde04e8.jpg
     url: /files/original/14fb2a5fddfe9f14fb2a5fde04e8.jpg
+    alt:
+      en: "A narrow interior corridor lined with black barred cell doors and white metal cabinets, with overhead pipes, a metal stool, and a red floor; a mesh panel with printed text lines the wall on the right."
 geo:
 id: 2847
 item_type: Still Image

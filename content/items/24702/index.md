@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-04-3Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e579459414fb29e5794979.jpg
     url: /files/original/14fb29e579459414fb29e5794979.jpg
+    alt:
+      en: "Two helicopters fly above a parking lot with tents, traffic cones, and parked vehicles, with a large curved building and distant cityscape under a cloudy sky."
 geo:
 id: 24702
 item_type: Still Image

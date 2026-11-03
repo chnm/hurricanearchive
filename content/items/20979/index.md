@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0160.JPG
     thumb: /files/thumbnails/14fb2a013305f614fb2a013306f0.jpg
     url: /files/original/14fb2a013305f614fb2a013306f0.jpg
+    alt:
+      en: "Aerial view of a red-roofed building (partial text \"Pizza Hut\" visible) beside a debris-strewn road, with a large warehouse, scattered storm wreckage, and utility poles nearby."
 geo:
 id: 20979
 item_type: Still Image

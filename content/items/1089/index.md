@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27969.jpg
     thumb: /files/thumbnails/14fb2a6b1a389614fb2a6b1a3d17.jpg
     url: /files/original/14fb2a6b1a389614fb2a6b1a3d17.jpg
+    alt:
+      en: "Multi-story building facade with large windows, several panes shattered or damaged, above an entrance reading \"Dominion Tower\" and \"New Orleans Centre.\""
 geo:
   address: ''
   lat: 0.0

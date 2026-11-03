@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0713.JPG
     thumb: /files/thumbnails/14fb2a531965ac14fb2a53196991.jpg
     url: /files/original/14fb2a531965ac14fb2a53196991.jpg
+    alt:
+      en: "A sandy, debris-strewn yard bordered by tall pine trees stripped of branches, with one tree bent and uprooted, likely from hurricane wind damage; a house with beige siding stands at right."
 geo:
 id: 5268
 item_type: Still Image

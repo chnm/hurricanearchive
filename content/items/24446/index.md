@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0095H.JPG
     thumb: /files/thumbnails/14fb29e7a68a9014fb29e7a6bdf9.jpg
     url: /files/original/14fb29e7a68a9014fb29e7a6bdf9.jpg
+    alt:
+      en: "Group of people indoors at night, including two women in white \"Hooters\" tank tops with name tags reading \"Erin\" and \"Tianna,\" standing near a wooden table with others nearby."
 geo:
 id: 24446
 item_type: Still Image

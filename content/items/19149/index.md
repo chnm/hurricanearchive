@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 059.jpg
     thumb: /files/thumbnails/14fb2a12bccb3014fb2a12bcd2fd.jpg
     url: /files/original/14fb2a12bccb3014fb2a12bcd2fd.jpg
+    alt:
+      en: "A military helicopter flies over a paved lot with a canvas-covered Humvee and other equipment in the foreground, with a row of portable toilets and buildings in the background."
 geo:
 id: 19149
 item_type: Still Image

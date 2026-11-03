@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28485.jpg
     thumb: /files/thumbnails/14fb2a6cab139e14fb2a6cab15af.jpg
     url: /files/original/14fb2a6cab139e14fb2a6cab15af.jpg
+    alt:
+      en: "Cluttered bedroom with an unmade brass bed covered in scattered clothes, a stuffed dog, and small items; a floral valance hangs above mini blinds, with dressers and bags visible nearby."
 geo:
   address: ''
   lat: 0.0

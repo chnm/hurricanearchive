@@ -26,6 +26,8 @@ files:
     original_filename: 2326885044_f7b225b3cd.
     thumb: /files/thumbnails/14fb29c9d02e0514fb29c9d031eb.jpg
     url: /files/original/14fb29c9d02e0514fb29c9d031eb.jpg
+    alt:
+      en: "Damaged buildings with torn roofing and debris line a street, with scattered wreckage and fallen materials spread across the adjacent grassy lot under a partly cloudy sky."
 geo:
   address: ''
   lat: 30.22586

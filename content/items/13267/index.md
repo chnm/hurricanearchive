@@ -21,6 +21,8 @@ files:
     original_filename: traffic3.jpg
     thumb: /files/thumbnails/14fb2a1e6d6ad114fb2a1e6d6ebb.jpg
     url: /files/original/14fb2a1e6d6ad114fb2a1e6d6ebb.jpg
+    alt:
+      en: "A long line of vehicles backed up along a grassy highway median under a cloudy sky, with an empty opposite lane and scattered trees in the background."
 geo:
 id: 13267
 item_type: Still Image

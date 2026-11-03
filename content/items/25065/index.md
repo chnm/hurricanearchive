@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1639superdome.JPG
     thumb: /files/thumbnails/14fb29e291cca614fb29e291d084.jpg
     url: /files/original/14fb29e291cca614fb29e291d084.jpg
+    alt:
+      en: "A small helicopter hovers beside the damaged, patchwork roof of the Superdome, its curved surface showing extensive torn and missing panels against a clear blue sky."
 geo:
 id: 25065
 item_type: Still Image
