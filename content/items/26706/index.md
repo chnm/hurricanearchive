@@ -21,6 +21,8 @@ files:
     original_filename: JA 8 Sailor Hawaii WWII_2804310b82.jpg
     thumb: /files/thumbnails/14fb29d83491d314fb29d83495b8.jpg
     url: /files/original/14fb29d83491d314fb29d83495b8.jpg
+    alt:
+      en: "Sepia-toned photograph of a man in a white navy uniform with a dark tie, standing on a dirt path with palm trees and low buildings in the background."
 geo:
   address: ''
   lat: 29.91685

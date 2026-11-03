@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110engineers.JPG
     thumb: /files/thumbnails/14fb2a102d783914fb2a102e0ef2.jpg
     url: /files/original/14fb2a102d783914fb2a102e0ef2.jpg
+    alt:
+      en: "Close-up of a concrete road surface with double yellow lane markings, taken at an angle, with construction barricades and metal scaffolding visible along the right edge."
 geo:
 id: 19430
 item_type: Still Image

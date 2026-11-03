@@ -21,6 +21,8 @@ files:
     original_filename: 1434 Marais St. You Loot, We Shoot.jpg
     thumb: /files/thumbnails/14fb2a21a883a614fb2a21a8878b.jpg
     url: /files/original/14fb2a21a883a614fb2a21a8878b.jpg
+    alt:
+      en: "Weathered house facade with teal shutters and warning graffiti reading \"YOU LOOT WE SHOOT\" spray-painted on a boarded window, with a wrought iron balcony railing in the foreground."
 geo:
 id: 12830
 item_type: Still Image

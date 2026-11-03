@@ -21,6 +21,8 @@ files:
     original_filename: S4300153stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf7ed3e14fb29ecf7f131.jpg
     url: /files/original/14fb29ecf7ed3e14fb29ecf7f131.jpg
+    alt:
+      en: "Mud-covered street lined with brick ranch houses and trees, a white van parked at the curb, debris scattered along the roadside, and a \"SPEED LIMIT 20\" sign visible on the right."
 geo:
 id: 23814
 item_type: Still Image

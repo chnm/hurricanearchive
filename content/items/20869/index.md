@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0136-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0287a07814fb2a0287bc8b.jpg
     url: /files/original/14fb2a0287a07814fb2a0287bc8b.jpg
+    alt:
+      en: "Aerial view of a flooded school complex with a visible football field and bleachers, surrounded by widespread standing floodwater and storm-damaged trees across the surrounding landscape."
 geo:
 id: 20869
 item_type: Still Image

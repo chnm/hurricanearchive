@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0128cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef410b7114fb29ef410f58.jpg
     url: /files/original/14fb29ef410b7114fb29ef410f58.jpg
+    alt:
+      en: "Aerial view of a green marshland or swamp dotted with cypress trees, dark water channels, and numerous white wading birds in flight over the vegetation."
 geo:
 id: 23483
 item_type: Still Image

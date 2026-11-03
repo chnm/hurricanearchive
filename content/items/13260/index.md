@@ -21,6 +21,8 @@ files:
     original_filename: rita begins.jpg
     thumb: /files/thumbnails/14fb2a1e826d5214fb2a1e827137.jpg
     url: /files/original/14fb2a1e826d5214fb2a1e827137.jpg
+    alt:
+      en: "Murky floodwaters rise around a partially submerged pier with lamp posts, under a hazy, overcast sky with trees faintly visible along the shoreline."
 geo:
 id: 13260
 item_type: Still Image

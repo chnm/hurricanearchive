@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0300-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd87c82114fb29fd87cbfc.jpg
     url: /files/original/14fb29fd87c82114fb29fd87cbfc.jpg
+    alt:
+      en: "Aerial view of a flooded small town with a church, cemetery, and brick buildings surrounded by floodwater, with a water tower reading \"ERATH\" and flooded farmland in the background."
 geo:
 id: 21564
 item_type: Still Image

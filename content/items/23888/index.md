@@ -21,6 +21,8 @@ files:
     original_filename: image009neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ec9ad42b14fb29ec9ad808.jpg
     url: /files/original/14fb29ec9ad42b14fb29ec9ad808.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand amid flood-damaged debris in a large interior space, with overturned furniture, mud-covered floors, and colorful banners hanging from the teal-painted walls above."
 geo:
 id: 23888
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials16.jpg
     thumb: /files/thumbnails/14fb2a19e313ce14fb2a19e317ae.jpg
     url: /files/original/14fb2a19e313ce14fb2a19e317ae.jpg
+    alt:
+      en: "Aerial view of storm-damaged houses along a winding waterway, with debris, stripped trees, and a building with a blue roof amid widespread destruction."
 geo:
 id: 14305
 item_type: Still Image

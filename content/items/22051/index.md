@@ -21,6 +21,8 @@ files:
     original_filename: Picture 382-J2.jpg
     thumb: /files/thumbnails/14fb29f9d30ad814fb29f9d30ebd.jpg
     url: /files/original/14fb29f9d30ad814fb29f9d30ebd.jpg
+    alt:
+      en: "A man in a brown t-shirt and camouflage pants sits on a cot using a laptop, surrounded by military gear, backpacks, and folded cots lining a large indoor hallway."
 geo:
 id: 22051
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-030S.JPG
     thumb: /files/thumbnails/14fb2a5f845d8014fb2a5f846167.jpg
     url: /files/original/14fb2a5f845d8014fb2a5f846167.jpg
+    alt:
+      en: "A folding chair sits amid piles of tangled cables and debris on a wet floor, with metal shelving along the wall and a large support pillar in the background."
 geo:
 id: 2941
 item_type: Still Image

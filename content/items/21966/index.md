@@ -21,6 +21,8 @@ files:
     original_filename: Picture 297-J2.jpg
     thumb: /files/thumbnails/14fb29face5b7814fb29face5f5e.jpg
     url: /files/original/14fb29face5b7814fb29face5f5e.jpg
+    alt:
+      en: "A yellow bus travels on an elevated highway strewn with scattered debris and litter, with a green directional sign and city buildings visible in the background."
 geo:
 id: 21966
 item_type: Still Image

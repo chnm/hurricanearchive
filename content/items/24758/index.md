@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2080superdome.JPG
     thumb: /files/thumbnails/14fb29e51ea2eb14fb29e51ea65d.jpg
     url: /files/original/14fb29e51ea2eb14fb29e51ea65d.jpg
+    alt:
+      en: "A smiling U.S. Army soldier with a name tag reading \"Rowland\" stands beside large wrapped pallets of bottled water (Nirvana brand), with a \"Please Exit Gates H or F\" sign visible in the background."
 geo:
 id: 24758
 item_type: Still Image

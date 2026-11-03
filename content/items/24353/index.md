@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-01-00A.jpg
     thumb: /files/thumbnails/14fb29e892456e14fb29e8924954.jpg
     url: /files/original/14fb29e892456e14fb29e8924954.jpg
+    alt:
+      en: "Floodwater fills a narrow gap between a white clapboard building and a red brick building, with a small red house partially submerged in the background; a finger partially obscures the top left corner."
 geo:
 id: 24353
 item_type: Still Image

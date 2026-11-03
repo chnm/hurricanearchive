@@ -21,6 +21,8 @@ files:
     original_filename: P1010007delaware.JPG
     thumb: /files/thumbnails/14fb29f103765314fb29f1037e9e.jpg
     url: /files/original/14fb29f103765314fb29f1037e9e.jpg
+    alt:
+      en: "A group of soldiers in camouflage uniforms sit and stand in a waiting room with folding chairs, backpacks, and water bottles, near a door marked \"EXIT\" and a framed aircraft photo on the wall."
 geo:
 id: 23186
 item_type: Still Image

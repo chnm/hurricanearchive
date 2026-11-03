@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (53).JPG
     thumb: /files/thumbnails/14fb2a5d5bd9de14fb2a5d5bddbe.jpg
     url: /files/original/14fb2a5d5bd9de14fb2a5d5bddbe.jpg
+    alt:
+      en: "Fallen tree limbs and debris cover a grassy median and sidewalk along a residential street, with a snapped utility pole and scattered dry leaves in the foreground."
 geo:
 id: 3204
 item_type: Still Image

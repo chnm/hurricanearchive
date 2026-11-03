@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110-16.JPG
     thumb: /files/thumbnails/14fb29e721623414fb29e7216665.jpg
     url: /files/original/14fb29e721623414fb29e7216665.jpg
+    alt:
+      en: "Close-up of a concrete road surface with double yellow lane markings, taken at an angle, with guardrail and traffic barrier equipment visible at the edge of the frame."
 geo:
 id: 24524
 item_type: Still Image

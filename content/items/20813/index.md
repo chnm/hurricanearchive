@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0084-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a039a687714fb2a039a6c54.jpg
     url: /files/original/14fb2a039a687714fb2a039a6c54.jpg
+    alt:
+      en: "Man in a plaid shirt, cap, and glasses stands with hands on hips beside floodwater surrounding a mobile home, outbuildings, and a partially submerged shed."
 geo:
 id: 20813
 item_type: Still Image

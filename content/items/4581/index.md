@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0007.JPG
     thumb: /files/thumbnails/14fb2a56f16dca14fb2a56f171af.jpg
     url: /files/original/14fb2a56f16dca14fb2a56f171af.jpg
+    alt:
+      en: "A severely damaged house partially collapsed into a massive pile of debris, with scattered wood, household items, and broken furniture covering the surrounding yard; bare trees and a neighboring house stand in the background."
 geo:
 id: 4581
 item_type: Still Image

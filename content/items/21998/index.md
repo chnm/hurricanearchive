@@ -21,6 +21,8 @@ files:
     original_filename: Picture 329-J2.jpg
     thumb: /files/thumbnails/14fb29fa370e9c14fb29fa381525.jpg
     url: /files/original/14fb29fa370e9c14fb29fa381525.jpg
+    alt:
+      en: "Damaged market structure with torn white canopy awnings hanging from a metal frame, debris scattered on the ground, and yellow bollards in the foreground."
 geo:
 id: 21998
 item_type: Still Image

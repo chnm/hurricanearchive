@@ -21,6 +21,8 @@ files:
     original_filename: Helping handneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ee6de94214fb29ee6ded27.jpg
     url: /files/original/14fb29ee6de94214fb29ee6ded27.jpg
+    alt:
+      en: "A soldier in camouflage bends down to shake hands with a young child in a yellow shirt on a debris-strewn street, with military vehicles and other uniformed personnel in the background."
 geo:
 id: 23620
 item_type: Still Image

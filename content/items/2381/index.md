@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_RITA_05C4G_c0a0b38cf1.jpg
     thumb: /files/thumbnails/14fb2a66cb5d5d14fb2a66cb6597.jpg
     url: /files/original/14fb2a66cb5d5d14fb2a66cb6597.jpg
+    alt:
+      en: "A uniformed Coast Guard pilot leans into a C-130 cockpit, stowing a green duffel bag near the instrument panel and headset, with a rain-streaked window visible behind her."
 geo:
 id: 2381
 item_type: Still Image

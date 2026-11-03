@@ -21,6 +21,8 @@ files:
     original_filename: 20050929001.JPG
     thumb: /files/thumbnails/14fb2a1c05318214fb2a1c05356b.jpg
     url: /files/original/14fb2a1c05318214fb2a1c05356b.jpg
+    alt:
+      en: "Four U.S. Army soldiers in camouflage and desert uniforms stand talking on grass beside a flatbed military trailer loaded with a yellow Komatsu SK815 skid steer and large tires."
 geo:
   address: ''
   lat: 0.0

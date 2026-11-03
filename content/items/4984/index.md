@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0329.JPG
     thumb: /files/thumbnails/14fb2a54a0567114fb2a54a05ea1.jpg
     url: /files/original/14fb2a54a0567114fb2a54a05ea1.jpg
+    alt:
+      en: "A storm-damaged house with white vinyl siding and a dark shingled roof, showing exposed wood framing and missing fascia along the eaves, with a wooden staircase visible at left."
 geo:
 id: 4984
 item_type: Still Image

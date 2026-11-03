@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1137Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f75ccf1714fb29f75cd2f6.jpg
     url: /files/original/14fb29f75ccf1714fb29f75cd2f6.jpg
+    alt:
+      en: "Floodwaters submerge a residential street, with several vehicles nearly covered and only rooftops and cabs visible, while a white house stands partially flooded in the background amid trees."
 geo:
 id: 22324
 item_type: Still Image

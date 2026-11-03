@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2092superdome.JPG
     thumb: /files/thumbnails/14fb29dea3b92d14fb29dea3bd0e.jpg
     url: /files/original/14fb29dea3b92d14fb29dea3bd0e.jpg
+    alt:
+      en: "Rear view of a twin-rotor military helicopter on a wet tarmac with its loading ramp down, several uniformed personnel standing inside, and high-rise buildings visible in the background."
 geo:
 id: 25365
 item_type: Still Image

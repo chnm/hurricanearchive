@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1069Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8980ef514fb29f89812e7.jpg
     url: /files/original/14fb29f8980ef514fb29f89812e7.jpg
+    alt:
+      en: "Blurry photo of several soldiers in camouflage uniforms standing and sitting near a case of bottled water, with a dimly lit building visible in the background."
 geo:
 id: 22258
 item_type: Still Image

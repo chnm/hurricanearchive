@@ -27,6 +27,8 @@ files:
     original_filename: 2291198213_8885aea651.
     thumb: /files/thumbnails/14fb29c987daf914fb29c987dedd.jpg
     url: /files/original/14fb29c987daf914fb29c987dedd.jpg
+    alt:
+      en: "Collapsed wooden structure with exposed support beams, scattered debris, and an overturned white appliance in the foreground; a debris-filled bayou and distant buildings visible in the background."
 geo:
   address: ''
   lat: 30.22561

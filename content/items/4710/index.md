@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0057.JPG
     thumb: /files/thumbnails/14fb2a5604d31d14fb2a5604d702.jpg
     url: /files/original/14fb2a5604d31d14fb2a5604d702.jpg
+    alt:
+      en: "Cleared, debris-strewn lot with scattered rubble and a concrete foundation slab, bare trees, utility poles, and parked vehicles along the road under a clear blue sky."
 geo:
 id: 4710
 item_type: Still Image

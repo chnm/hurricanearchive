@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0282.JPG
     thumb: /files/thumbnails/14fb2a54de583314fb2a54de73f9.jpg
     url: /files/original/14fb2a54de583314fb2a54de73f9.jpg
+    alt:
+      en: "Interior view through a damaged doorway reveals a room with charred debris, scattered insulation, and a fallen cabinet door, with white exterior siding visible on the right."
 geo:
 id: 4940
 item_type: Still Image

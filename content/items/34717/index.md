@@ -20,6 +20,8 @@ files:
     original_filename: 2420900663_60aad70755.
     thumb: /files/thumbnails/14fb29c9514b1614fb29c9514f00.jpg
     url: /files/original/14fb29c9514b1614fb29c9514f00.jpg
+    alt:
+      en: "A dusty black sedan sits parked at a curb beside a utility pole, in front of a tan building with white doors and windows, with bare dirt patches and a sidewalk in the foreground."
 geo:
   address: ''
   lat: 29.97632

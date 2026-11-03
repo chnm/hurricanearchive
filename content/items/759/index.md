@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28292.jpg
     thumb: /files/thumbnails/14fb2a6d36d7cd14fb2a6d36dbaa.jpg
     url: /files/original/14fb2a6d36d7cd14fb2a6d36dbaa.jpg
+    alt:
+      en: "Damaged metal-framed structure of the Ohr-O'Keefe Museum stands exposed around a large tree, with debris, bricks, and scattered rubble covering the ground after Hurricane Katrina."
 geo:
   address: ''
   lat: 0.0

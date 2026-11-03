@@ -21,6 +21,8 @@ files:
     original_filename: katrina 040.jpg
     thumb: /files/thumbnails/14fb29fbd678ad14fb29fbd68340.jpg
     url: /files/original/14fb29fbd678ad14fb29fbd68340.jpg
+    alt:
+      en: "A young man in a tan t-shirt and camouflage pants sits with a stethoscope around his neck and a blue medical glove on one hand, inside a tent with supplies and equipment in the background."
 geo:
 id: 21770
 item_type: Still Image

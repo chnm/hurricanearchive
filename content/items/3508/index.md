@@ -24,6 +24,8 @@ files:
     original_filename: P1010082.JPG
     thumb: /files/thumbnails/14fb2a5b46234d14fb2a5b462732.jpg
     url: /files/original/14fb2a5b46234d14fb2a5b462732.jpg
+    alt:
+      en: "Damaged two-story building with a tarp-covered roof and large black bull statue atop a pole sign reading \"Oysters Shrimp, Plate Lunches Dinners, Po-Boy Sandwiches,\" with storm debris piled in front."
 geo:
 id: 3508
 item_type: Still Image

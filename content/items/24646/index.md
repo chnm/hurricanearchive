@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041medics.JPG
     thumb: /files/thumbnails/14fb29e5d5778114fb29e5d57b73.jpg
     url: /files/original/14fb29e5d5778114fb29e5d57b73.jpg
+    alt:
+      en: "Several people in military camouflage uniforms gather indoors near a table with a laptop, water bottle, and medical supplies, with a cooler and first-aid materials visible in the background."
 geo:
 id: 24646
 item_type: Still Image

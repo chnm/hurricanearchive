@@ -23,6 +23,8 @@ files:
     original_filename: 2379870815_3dd1aa8ea2.
     thumb: /files/thumbnails/14fb29ca166fac14fb29ca167392.jpg
     url: /files/original/14fb29ca166fac14fb29ca167392.jpg
+    alt:
+      en: "Flood-damaged den with mud-covered floor, overturned ornate tables, scattered debris, a wilted potted plant, and purple silk flowers amid the wreckage near white paneled walls and windows."
 geo:
   address: ''
   lat: 30.22894

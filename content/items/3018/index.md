@@ -21,6 +21,8 @@ files:
     original_filename: 100_0267.JPG
     thumb: /files/thumbnails/14fb2a5ecef45814fb2a5ecefd96.jpg
     url: /files/original/14fb2a5ecef45814fb2a5ecefd96.jpg
+    alt:
+      en: "Large metal warehouse-style building with severely torn and peeled siding panels along its lower walls, exposing interior framing and stacked lumber, set against a clear blue sky."
 geo:
 id: 3018
 item_type: Still Image

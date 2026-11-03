@@ -21,6 +21,8 @@ files:
     original_filename: 09160019superdome.JPG
     thumb: /files/thumbnails/14fb29e585511714fb29e58554fc.jpg
     url: /files/original/14fb29e585511714fb29e58554fc.jpg
+    alt:
+      en: "Cityscape view from an elevated highway showing the domed stadium roof in the distance, mid-rise buildings, and a street-level storefront with signage reading \"Southern Leather & Shoe Co.\" and \"Goodyear.\""
 geo:
 id: 24695
 item_type: Still Image

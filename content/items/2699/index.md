@@ -24,6 +24,8 @@ files:
     original_filename: 122.jpg
     thumb: /files/thumbnails/14fb2a607b960914fb2a607b99ef.jpg
     url: /files/original/14fb2a607b960914fb2a607b99ef.jpg
+    alt:
+      en: "Child's drawing titled \"Texas\" with a sun, clouds, green birds in flight, two animals, a bird, and a square sandwich on a grassy hill; signed \"Shermanika, 9 year old.\""
 geo:
 id: 2699
 item_type: Still Image

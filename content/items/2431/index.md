@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_VESSEL_RECOVER_05CIA_d65b6db925.jpg
     thumb: /files/thumbnails/14fb2a665afe5714fb2a665b0234.jpg
     url: /files/original/14fb2a665afe5714fb2a665b0234.jpg
+    alt:
+      en: "Two Coast Guard officers in navy uniforms and ball caps review documents on a clipboard while standing in shallow water near a damaged shrimp boat and crane barge in a bayou."
 geo:
 id: 2431
 item_type: Still Image

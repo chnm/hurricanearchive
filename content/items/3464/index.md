@@ -24,6 +24,8 @@ files:
     original_filename: P1010034.JPG
     thumb: /files/thumbnails/14fb2a5b9b3a7e14fb2a5b9b3e6e.jpg
     url: /files/original/14fb2a5b9b3a7e14fb2a5b9b3e6e.jpg
+    alt:
+      en: "A white Mack dump truck with its bed raised empties debris onto a massive pile of tree limbs and branches along a roadside collection site."
 geo:
 id: 3464
 item_type: Still Image

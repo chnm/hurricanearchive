@@ -21,6 +21,8 @@ files:
     original_filename: DSC 030317thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f363a85314fb29f363ad70.jpg
     url: /files/original/14fb29f363a85314fb29f363ad70.jpg
+    alt:
+      en: "Aerial, slightly blurred view of a wide canal lined with concrete levees running between residential neighborhoods, with a small bridge crossing the waterway in the distance and open water beyond."
 geo:
 id: 22816
 item_type: Still Image

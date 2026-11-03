@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1584superdome.JPG
     thumb: /files/thumbnails/14fb29e299d2c714fb29e299d6ab.jpg
     url: /files/original/14fb29e299d2c714fb29e299d6ab.jpg
+    alt:
+      en: "A camouflage military truck loaded with supply boxes drives through deep floodwater, creating a wake, with a submerged landscape and partially visible vehicles in the background."
 geo:
 id: 25059
 item_type: Still Image

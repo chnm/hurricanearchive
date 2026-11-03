@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2140rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13e4578214fb2a13e45b67.jpg
     url: /files/original/14fb2a13e4578214fb2a13e45b67.jpg
+    alt:
+      en: "Aerial view of a U.S. Army medical helicopter (marked \"2431\" with red cross symbols) landed on a shingled rooftop, with \"HELP\" and \"100 PEOPLE\" painted on the roof nearby and floodwater surrounding the building."
 geo:
 id: 18978
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7474.JPG
     thumb: /files/thumbnails/14fb29cc933e5e14fb29cc93423b.jpg
     url: /files/original/14fb29cc933e5e14fb29cc93423b.jpg
+    alt:
+      en: "Fallen trees and tangled branches block a wooded path, with downed power or utility lines visible among the debris, illustrating storm damage to the forest."
 geo:
 id: 30760
 item_type: Still Image

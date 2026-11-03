@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0126-21-2.JPG
     thumb: /files/thumbnails/14fb29e634447114fb29e6345c0d.jpg
     url: /files/original/14fb29e634447114fb29e6345c0d.jpg
+    alt:
+      en: "A man in woodland-pattern military camouflage uniform and cap, with an American flag patch and name tape reading \"KARR,\" stands in profile near folding chairs and tables against a blue tiled wall."
 geo:
 id: 24608
 item_type: Still Image

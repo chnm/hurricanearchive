@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0152mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f3040a0d14fb29f30410a6.jpg
     url: /files/original/14fb29f3040a0d14fb29f30410a6.jpg
+    alt:
+      en: "A man in a white t-shirt and cap walks beside a red SUV with a sign reading \"Absolutely Amazing Ancient Earth Treasures, NOLA, (504) 314-6969,\" while a driver hands him paperwork and a soldier stands in the background."
 geo:
 id: 22859
 item_type: Still Image

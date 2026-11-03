@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8921.jpg
     thumb: /files/thumbnails/14fb2a654c01b514fb2a654c4424.jpg
     url: /files/original/14fb2a654c01b514fb2a654c4424.jpg
+    alt:
+      en: "Two workers in white protective suits, helmets, and respirator masks sort spoiled food into plastic sheeting amid rows of discarded refrigerators at a hurricane debris dump."
 geo:
 id: 2562
 item_type: Still Image

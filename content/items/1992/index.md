@@ -26,6 +26,8 @@ files:
     original_filename: 003_01_546fd3ae2d.jpg
     thumb: /files/thumbnails/14fb2a6deccc3c14fb2a6decd021.jpg
     url: /files/original/14fb2a6deccc3c14fb2a6decd021.jpg
+    alt:
+      en: "Debris and collapsed structures fill a residential lot in the Lower Ninth Ward, with surviving houses, bare trees, and a utility pole standing amid the wreckage under a clear sky."
 geo:
   address: ''
   lat: 0.0

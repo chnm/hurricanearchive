@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 014cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ea4d35e14fb2a0ea4d747.jpg
     url: /files/original/14fb2a0ea4d35e14fb2a0ea4d747.jpg
+    alt:
+      en: "A military Black Hawk helicopter, marked \"613,\" sits on a concrete pad with three uniformed personnel standing near its nose, with a large white tent and trees in the background."
 geo:
 id: 19628
 item_type: Still Image

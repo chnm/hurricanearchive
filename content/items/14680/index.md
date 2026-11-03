@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AlisenReed_01_87236d1d83.jpg
     thumb: /files/thumbnails/14fb2a183a97c914fb2a183a9bb8.jpg
     url: /files/original/14fb2a183a97c914fb2a183a9bb8.jpg
+    alt:
+      en: "A smiling man in glasses holds a laughing toddler wearing a denim hat and overalls, both posed indoors near a wooden bed headboard."
 geo:
 id: 14680
 item_type: Still Image

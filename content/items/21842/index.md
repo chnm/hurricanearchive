@@ -21,6 +21,8 @@ files:
     original_filename: Delacroix LA.jpg
     thumb: /files/thumbnails/14fb29fb654eac14fb29fb655291.jpg
     url: /files/original/14fb29fb654eac14fb29fb655291.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community in Delacroix, LA, showing a narrow peninsula with storm-damaged buildings, debris, and stripped trees surrounded by marshland and open water."
 geo:
 id: 21842
 item_type: Still Image

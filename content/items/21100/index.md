@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0176.JPG
     thumb: /files/thumbnails/14fb2a009bef2f14fb2a009bf315.jpg
     url: /files/original/14fb2a009bef2f14fb2a009bf315.jpg
+    alt:
+      en: "Aerial view of a hazy city skyline with high-rise buildings in the distance, a river and bridge to the left, and a sprawling low-rise residential neighborhood with trees in the foreground."
 geo:
 id: 21100
 item_type: Still Image

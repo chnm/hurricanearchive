@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001superdome.JPG
     thumb: /files/thumbnails/14fb29e448f9a814fb29e448fd86.jpg
     url: /files/original/14fb29e448f9a814fb29e448fd86.jpg
+    alt:
+      en: "Group of military personnel seated around a table covered with papers, water bottles, and radio equipment, with a large area map pinned to the wall behind them."
 geo:
 id: 24867
 item_type: Still Image

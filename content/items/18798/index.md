@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031cameron.JPG
     thumb: /files/thumbnails/14fb2a1537b93814fb2a1537bd1d.jpg
     url: /files/original/14fb2a1537b93814fb2a1537bd1d.jpg
+    alt:
+      en: "Calm sea stretching to a hazy horizon under a pale blue sky, with rippling parallel wave lines and a faint structure visible in the distance on the right."
 geo:
 id: 18798
 item_type: Still Image

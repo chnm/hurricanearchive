@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0291.JPG
     thumb: /files/thumbnails/14fb2a54cf14ac14fb2a54cf188b.jpg
     url: /files/original/14fb2a54cf14ac14fb2a54cf188b.jpg
+    alt:
+      en: "Interior roof framing with exposed wooden rafters, insulation batts, and metal flashing, with a yellow measuring tape stretched horizontally across the beams."
 geo:
 id: 4949
 item_type: Still Image

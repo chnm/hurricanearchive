@@ -21,6 +21,8 @@ files:
     original_filename: aerials124.jpg
     thumb: /files/thumbnails/14fb2a1a310e0d14fb2a1a311312.jpg
     url: /files/original/14fb2a1a310e0d14fb2a1a311312.jpg
+    alt:
+      en: "Aerial view of a damaged house with exposed roof framing surrounded by dense trees, with scattered debris and torn structural materials visible in the surrounding wooded hillside."
 geo:
 id: 14284
 item_type: Still Image

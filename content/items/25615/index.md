@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.018.JPG
     thumb: /files/thumbnails/14fb29dd26e49d14fb29dd26e881.jpg
     url: /files/original/14fb29dd26e49d14fb29dd26e881.jpg
+    alt:
+      en: "A \"DO NOT ENTER\" sign mounted upside-down stands before a turquoise house marked \"1501,\" its boarded porch spray-painted with rescue/search notations like \"9/27 Small Dog,\" \"No Dogs Seen,\" and \"HSUS 9/28.\""
 geo:
 id: 25615
 item_type: Still Image

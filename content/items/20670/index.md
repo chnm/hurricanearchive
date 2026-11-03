@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a054ce7ea14fb2a054cebcf.jpg
     url: /files/original/14fb2a054ce7ea14fb2a054cebcf.jpg
+    alt:
+      en: "Floodwaters surround a single-story house, submerging a red pickup truck and boat near a large tree, with water reaching up to the porch railing."
 geo:
 id: 20670
 item_type: Still Image

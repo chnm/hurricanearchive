@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0677.JPG
     thumb: /files/thumbnails/14fb2a53426a2d14fb2a53426ddc.jpg
     url: /files/original/14fb2a53426a2d14fb2a53426ddc.jpg
+    alt:
+      en: "A rural roadside with tall pine trees, a bent and broken tree trunk, scattered storm debris on the ground, and a green mailbox in the foreground."
 geo:
 id: 5232
 item_type: Still Image

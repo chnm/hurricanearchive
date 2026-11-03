@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0666.JPG
     thumb: /files/thumbnails/14fb2a5359908e14fb2a53599473.jpg
     url: /files/original/14fb2a5359908e14fb2a53599473.jpg
+    alt:
+      en: "Damaged house with a partially collapsed roof surrounded by tall pine trees, scattered debris, and a chain-link fence in the foreground, with another house visible in the background."
 geo:
 id: 5221
 item_type: Still Image

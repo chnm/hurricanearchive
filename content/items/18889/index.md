@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0239downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14a28b5514fb2a14a2927e.jpg
     url: /files/original/14fb2a14a28b5514fb2a14a2927e.jpg
+    alt:
+      en: "Aerial view of a storm-damaged New Orleans neighborhood, showing houses with missing shingles and tarped roofs, debris-strewn streets and yards, a military vehicle at an intersection, and a sign reading \"Mike's Fo[od].\""
 geo:
 id: 18889
 item_type: Still Image

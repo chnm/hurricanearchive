@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0271-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe65b85d14fb29fe65bc4a.jpg
     url: /files/original/14fb29fe65b85d14fb29fe65bc4a.jpg
+    alt:
+      en: "Aerial view of floodwaters covering a roadway, with numerous vehicles, including military-style trucks, lined up along the submerged road and small clusters stranded in the water nearby."
 geo:
 id: 21475
 item_type: Still Image

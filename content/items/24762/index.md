@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2084superdome.JPG
     thumb: /files/thumbnails/14fb29e512282d14fb29e5122c63.jpg
     url: /files/original/14fb29e512282d14fb29e5122c63.jpg
+    alt:
+      en: "Group of people sitting and lying on the floor along a wall near a \"MEN\" restroom sign, with bedding and belongings scattered nearby in a dimly lit interior space."
 geo:
 id: 24762
 item_type: Still Image

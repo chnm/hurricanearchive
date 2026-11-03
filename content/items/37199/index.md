@@ -21,6 +21,8 @@ files:
     original_filename: Ole Time Mardi Gras_5b8cdaa62b.jpg
     thumb: /files/thumbnails/14fb29c569e9fe14fb29c569ede4.jpg
     url: /files/original/14fb29c569e9fe14fb29c569ede4.jpg
+    alt:
+      en: "Black-and-white Mardi Gras photo of a costumed group, including a masked woman and a young man in a baby carriage drinking from a bottle, surrounded by onlookers on a city street."
 geo:
   address: 3639 Annunciation St
   lat: 0.0

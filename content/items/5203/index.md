@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0648.JPG
     thumb: /files/thumbnails/14fb2a5367f96f14fb2a5367fd4d.jpg
     url: /files/original/14fb2a5367f96f14fb2a5367fd4d.jpg
+    alt:
+      en: "Storm-damaged property with a concrete block foundation wall, uprooted trees and debris scattered across bare ground, downed fencing, and a partially damaged house visible in the background."
 geo:
 id: 5203
 item_type: Still Image

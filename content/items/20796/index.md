@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0080-9-25.JPG
     thumb: /files/thumbnails/14fb2a03bafed114fb2a03bb02da.jpg
     url: /files/original/14fb2a03bafed114fb2a03bb02da.jpg
+    alt:
+      en: "Aerial view of a flooded coastal landscape with debris scattered among submerged trees, a waterlogged roadway, and standing water covering fields and marshland."
 geo:
 id: 20796
 item_type: Still Image

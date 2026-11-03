@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 046.jpg
     thumb: /files/thumbnails/14fb2a2264997014fb2a22649d56.jpg
     url: /files/original/14fb2a2264997014fb2a22649d56.jpg
+    alt:
+      en: "Debris field of a demolished building with a pickup truck and scattered rubble, trees stripped of leaves in the background, and a hand-painted sign reading \"PRIVATE PROPERTY LOOTERS = SHOT\" in the foreground."
 geo:
 id: 11998
 item_type: Still Image

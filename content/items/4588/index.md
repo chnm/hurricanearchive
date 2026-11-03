@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0014.JPG
     thumb: /files/thumbnails/14fb2a56ec571514fb2a56ec5af3.jpg
     url: /files/original/14fb2a56ec571514fb2a56ec5af3.jpg
+    alt:
+      en: "Uprooted tree and piles of storm debris cover the ground beside a white house with a blue tarp covering its damaged roof."
 geo:
 id: 4588
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0390.JPG
     thumb: /files/thumbnails/14fb2a5448d85014fb2a5448dc37.jpg
     url: /files/original/14fb2a5448d85014fb2a5448dc37.jpg
+    alt:
+      en: "Tall pine trees with browned needles stand amid scattered storm debris, including broken wood, sheet metal, and household items strewn across the ground."
 geo:
 id: 5045
 item_type: Still Image

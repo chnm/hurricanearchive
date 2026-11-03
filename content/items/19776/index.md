@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 163cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd7dcd814fb2a0dd7e0b5.jpg
     url: /files/original/14fb2a0dd7dcd814fb2a0dd7e0b5.jpg
+    alt:
+      en: "Three soldiers in military uniforms walk along a sidewalk past brick and white clapboard buildings, with debris scattered on the grass nearby; one wears desert camouflage and two wear woodland camouflage."
 geo:
 id: 19776
 item_type: Still Image

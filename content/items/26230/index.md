@@ -21,6 +21,8 @@ files:
     original_filename: AB Bunkie_901848bc10.jpg
     thumb: /files/thumbnails/14fb29d9957a6a14fb29d995a9d8.jpg
     url: /files/original/14fb29d9957a6a14fb29d995a9d8.jpg
+    alt:
+      en: "Sepia-toned vintage photo of a young girl standing beside a toddler seated on a tricycle in a grassy field, with bare trees and a fence line in the background."
 geo:
   address: ''
   lat: 29.91685

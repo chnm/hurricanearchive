@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0093cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef8eaede14fb29ef8eb2c5.jpg
     url: /files/original/14fb29ef8eaede14fb29ef8eb2c5.jpg
+    alt:
+      en: "Aerial view of flooded farmland and rural roads, with scattered homes along a straight roadway and fields partially submerged in floodwater, agricultural furrow patterns visible beneath the water's surface."
 geo:
 id: 23411
 item_type: Still Image

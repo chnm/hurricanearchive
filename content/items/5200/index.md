@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0645.JPG
     thumb: /files/thumbnails/14fb2a536a4ee814fb2a536a52d5.jpg
     url: /files/original/14fb2a536a4ee814fb2a536a52d5.jpg
+    alt:
+      en: "Storm-damaged house with missing roof section exposing attic framing, torn siding, and a banner hanging from a window; debris, broken furniture, and scattered wood cover the yard."
 geo:
 id: 5200
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 1 - St_115a5ca919. Charles 1.JPG
     thumb: /files/thumbnails/14fb29c4b4d13f14fb29c4b4d525.jpg
     url: /files/original/14fb29c4b4d13f14fb29c4b4d525.jpg
+    alt:
+      en: "A large Gothic-style brick church tower with a streetcar on tracks along a tree-lined St. Charles Avenue, with parked cars and traffic cones nearby at dusk."
 geo:
   address: ''
   lat: 0.0

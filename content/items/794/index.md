@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28245.jpg
     thumb: /files/thumbnails/14fb2a6cfae66314fb2a6cfaea4b.jpg
     url: /files/original/14fb2a6cfae66314fb2a6cfaea4b.jpg
+    alt:
+      en: "A makeshift tent and hanging uniforms set up on a grassy median in a Wal-Mart parking lot, with a Virginia State Police vehicle and other emergency trucks nearby."
 geo:
   address: ''
   lat: 0.0

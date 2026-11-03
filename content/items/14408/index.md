@@ -21,6 +21,8 @@ files:
     original_filename: slide28.jpg
     thumb: /files/thumbnails/14fb2a1938bca014fb2a1938c04c.jpg
     url: /files/original/14fb2a1938bca014fb2a1938c04c.jpg
+    alt:
+      en: "Storm-damaged yellow house partially obscured by fallen tree limbs and downed power lines, with scattered debris and cut tree trunks covering the yard and roadside."
 geo:
 id: 14408
 item_type: Still Image

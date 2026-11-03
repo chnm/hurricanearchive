@@ -20,6 +20,8 @@ files:
     original_filename: NewCoast_af9141454d.JPG
     thumb: /files/thumbnails/14fb29cb06a6ef14fb29cb06ae50.jpg
     url: /files/original/14fb29cb06a6ef14fb29cb06ae50.jpg
+    alt:
+      en: "Interior of a storm-damaged house with a collapsed ceiling and roof beams exposed, debris and an overturned appliance piled on the floor, and a water-stained \"Official Map of Louisiana\" still hanging on the wall."
 geo:
   address: Lakeview
   lat: 29.64987

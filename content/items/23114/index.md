@@ -21,6 +21,8 @@ files:
     original_filename: 051002-A-9722M-081MarylandNG.jpg
     thumb: /files/thumbnails/14fb29f182aaad14fb29f182ae93.jpg
     url: /files/original/14fb29f182aaad14fb29f182ae93.jpg
+    alt:
+      en: "A man in a camouflage cap and sunglasses writes on a clipboard beside a red U.S. Xpress semi-truck, with another man leaning out the open cab window; the door reads \"U.S. XPRESS, Chattanooga, TN.\""
 geo:
 id: 23114
 item_type: Still Image

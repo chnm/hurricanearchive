@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0157mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2fea52214fb29f2fea906.jpg
     url: /files/original/14fb29f2fea52214fb29f2fea906.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms, some carrying rifles, stand on a street talking with a man in a white shirt and shorts, while another man holds a video camera in the background; debris litters the roadside."
 geo:
 id: 22864
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0258-9-25.JPG
     thumb: /files/thumbnails/14fb29feb7488114fb29feb74c68.jpg
     url: /files/original/14fb29feb7488114fb29feb74c68.jpg
+    alt:
+      en: "Flooded city street with vehicles partially submerged in water, trees lining the sidewalk, and buildings visible along the roadside under an overcast sky."
 geo:
 id: 21446
 item_type: Still Image

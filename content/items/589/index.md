@@ -26,6 +26,8 @@ files:
     original_filename: 100_0108_d50a53f64d.JPG
     thumb: /files/thumbnails/14fb2a6f7204e414fb2a6f7208ca.jpg
     url: /files/original/14fb2a6f7204e414fb2a6f7208ca.jpg
+    alt:
+      en: "Storm-damaged gas station and convenience store with broken windows and missing walls, surrounded by debris, a crushed car, and stripped, leafless trees under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

@@ -23,6 +23,8 @@ files:
     original_filename: 6034_f286073b31.JPG
     thumb: /files/thumbnails/14fb29c2982dce14fb29c29831b3.jpg
     url: /files/original/14fb29c2982dce14fb29c29831b3.jpg
+    alt:
+      en: "A \"Speed Limit 55\" sign stands beside a flooded roadway lined with houses and bare trees under an overcast sky, with floodwaters covering the surrounding fields."
 geo:
   address: ''
   lat: 0.0

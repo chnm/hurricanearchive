@@ -21,6 +21,8 @@ files:
     original_filename: 100_0191.JPG
     thumb: /files/thumbnails/14fb2a591646b814fb2a59164a9d.jpg
     url: /files/original/14fb2a591646b814fb2a59164a9d.jpg
+    alt:
+      en: "A two-story gray stucco house with floodwater submerging its first floor windows and doors, with another flooded house and bare trees visible under a clear blue sky."
 geo:
 id: 3895
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0207-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ffc72ff914fb29ffc733d1.jpg
     url: /files/original/14fb29ffc72ff914fb29ffc733d1.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood with homes reduced to scattered debris, a few surviving trees, overturned vehicles, and a grid of empty streets extending toward the coastline."
 geo:
 id: 21249
 item_type: Still Image

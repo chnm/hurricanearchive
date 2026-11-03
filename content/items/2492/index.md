@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8570.jpg
     thumb: /files/thumbnails/14fb2a65e6a87814fb2a65e6ac60.jpg
     url: /files/original/14fb2a65e6a87814fb2a65e6ac60.jpg
+    alt:
+      en: "Capsized shrimp trawler marked \"...EET SUZY\" lists against a dock piling amid other wrecked and listing boats in murky water, with masts and rigging visible under a cloudy sky."
 geo:
 id: 2492
 item_type: Still Image

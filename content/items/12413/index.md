@@ -21,6 +21,8 @@ files:
     original_filename: 100-04_1eadecef22.jpg
     thumb: /files/thumbnails/14fb2a222acba914fb2a222ace60.jpg
     url: /files/original/14fb2a222acba914fb2a222ace60.jpg
+    alt:
+      en: "Vintage Polaroid of a man and woman smiling together near a decorated table with a cake, set in a kitchen doorway with louvered doors in the background."
 geo:
 id: 12413
 item_type: Still Image

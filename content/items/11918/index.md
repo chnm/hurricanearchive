@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 040.jpg
     thumb: /files/thumbnails/14fb2a22bae65114fb2a22baea3f.jpg
     url: /files/original/14fb2a22bae65114fb2a22baea3f.jpg
+    alt:
+      en: "Storm-damaged palm trees with stripped fronds line a debris-covered beach road beside a flooded waterway, with a ship stranded on the distant shoreline under a hazy sky; dated 2005/09/24."
 geo:
 id: 11918
 item_type: Still Image

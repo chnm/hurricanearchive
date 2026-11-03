@@ -21,6 +21,8 @@ files:
     original_filename: train station end2.jpg
     thumb: /files/thumbnails/14fb2a202bf38914fb2a202bf76e.jpg
     url: /files/original/14fb2a202bf38914fb2a202bf76e.jpg
+    alt:
+      en: "Storm-damaged brick train station with a partially collapsed roof and exposed rafters, surrounded by scattered debris, a dumpster, and downed power lines; a \"Master Brake & Axle Service\" sign appears on an adjacent building."
 geo:
 id: 13136
 item_type: Still Image

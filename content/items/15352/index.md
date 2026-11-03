@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-17_7d94ca98b4.jpg
     thumb: /files/thumbnails/14fb2a16617afb14fb2a16617ee1.jpg
     url: /files/original/14fb2a16617afb14fb2a16617ee1.jpg
+    alt:
+      en: "Water-damaged photograph of a blonde child with a red headband and red nose paint, wearing a dark top, the image heavily distorted by swirling brown, orange, and yellow chemical staining."
 geo:
 id: 15352
 item_type: Still Image

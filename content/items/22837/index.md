@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f31bb14a14fb29f31bb52e.jpg
     url: /files/original/14fb29f31bb14a14fb29f31bb52e.jpg
+    alt:
+      en: "A soldier in camouflage uniform and sunglasses leans into the window of a white van to speak with the driver, with road signs for Highway 90 and LA 611 visible in the background."
 geo:
 id: 22837
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0529.JPG
     thumb: /files/thumbnails/14fb2a5393eb5014fb2a5393ef33.jpg
     url: /files/original/14fb2a5393eb5014fb2a5393ef33.jpg
+    alt:
+      en: "Concrete surface inscribed with \"DR\" and a date resembling \"7-1-85,\" along with partial initials \"DA,\" surrounded by handprint impressions and small pebbles."
 geo:
 id: 5167
 item_type: Still Image

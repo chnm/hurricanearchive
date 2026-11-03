@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DayshaCamp_02_a5f14c0d49.jpg
     thumb: /files/thumbnails/14fb2a1804da2a14fb2a1804dd09.jpg
     url: /files/original/14fb2a1804da2a14fb2a1804dd09.jpg
+    alt:
+      en: "A girl in a white \"GSS\" polo shirt and plaid skirt sits smiling and holding a small trophy, beside a children's bookshelf and round table."
 geo:
 id: 14751
 item_type: Still Image

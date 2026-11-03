@@ -21,6 +21,8 @@ files:
     original_filename: J2 (56).JPG
     thumb: /files/thumbnails/14fb2a110c3d4014fb2a110c4125.jpg
     url: /files/original/14fb2a110c3d4014fb2a110c4125.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with rooftops, trees, and streets, featuring \"HELP\" and \"GOV\" spray-painted in large letters on the pavement at an intersection."
 geo:
 id: 19340
 item_type: Still Image

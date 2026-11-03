@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1948superdome.JPG
     thumb: /files/thumbnails/14fb29e03c973614fb29e03cdb79.jpg
     url: /files/original/14fb29e03c973614fb29e03cdb79.jpg
+    alt:
+      en: "A large military Chinook helicopter sits on a rooftop helipad with personnel nearby, while a smaller helicopter flies overhead against an overcast sky, with city buildings including \"Delgado Community College\" visible in the background."
 geo:
 id: 25250
 item_type: Still Image

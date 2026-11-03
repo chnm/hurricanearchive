@@ -24,6 +24,8 @@ files:
     original_filename: P1010006.JPG
     thumb: /files/thumbnails/14fb2a5bbb8e6a14fb2a5bbb99a1.jpg
     url: /files/original/14fb2a5bbb8e6a14fb2a5bbb99a1.jpg
+    alt:
+      en: "Damaged appliances including a water heater, stove, and refrigerators sit curbside along a residential street, with a tarp-covered roof and storm debris visible among nearby houses."
 geo:
 id: 3438
 item_type: Still Image

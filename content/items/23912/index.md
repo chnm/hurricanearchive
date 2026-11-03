@@ -21,6 +21,8 @@ files:
     original_filename: 09140011neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec6b051f14fb29ec6b0906.jpg
     url: /files/original/14fb29ec6b051f14fb29ec6b0906.jpg
+    alt:
+      en: "A bent street sign post leans sharply in a grassy area, with a city bus (\"Crown Jewels\" ad) tilted off the road nearby, and a red house and green garage visible across the street."
 geo:
 id: 23912
 item_type: Still Image

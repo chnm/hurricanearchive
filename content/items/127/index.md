@@ -26,6 +26,8 @@ files:
     original_filename: kat13_wideweb__430x355_03853c34ba.jpg
     thumb: /files/thumbnails/14fb2a70ed246314fb2a70ed2848.jpg
     url: /files/original/14fb2a70ed246314fb2a70ed2848.jpg
+    alt:
+      en: "Aerial view of a rooftop with several people, scattered belongings including an American flag and blankets, and chalk writing reading \"The Water is Rising Pleas\" visible below them."
 geo:
   address: ''
   lat: 0.0

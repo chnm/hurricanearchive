@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 063.jpg
     thumb: /files/thumbnails/14fb2a12b5eddc14fb2a12b5f2ee.jpg
     url: /files/original/14fb2a12b5eddc14fb2a12b5f2ee.jpg
+    alt:
+      en: "Street view from inside a vehicle showing a residential road covered in dried mud and debris, with historic wooden houses, fallen tree branches, and utility poles with tangled wires lining the sidewalk."
 geo:
 id: 19153
 item_type: Still Image

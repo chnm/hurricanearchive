@@ -21,6 +21,8 @@ files:
     original_filename: Picture 131cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b9c1b2214fb2a0b9c1e84.jpg
     url: /files/original/14fb2a0b9c1b2214fb2a0b9c1e84.jpg
+    alt:
+      en: "Two large boats stranded on a grassy lot, resting on their hulls with damaged railings and torn fabric, set against a backdrop of debris and bare trees."
 geo:
 id: 20034
 item_type: Still Image

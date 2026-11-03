@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TameraConey_06_e5b1bf0931.jpg
     thumb: /files/thumbnails/14fb2a17a3845014fb2a17a38b23.jpg
     url: /files/original/14fb2a17a3845014fb2a17a38b23.jpg
+    alt:
+      en: "Tamera Coney and her grandfather Clyde A. Olivier Sr. stand together on a sidewalk in front of a red and yellow RTA streetcar numbered 2007, with Tamera holding a stuffed animal."
 geo:
 id: 14801
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials51.jpg
     thumb: /files/thumbnails/14fb2a19bf241914fb2a19bf27a6.jpg
     url: /files/original/14fb2a19bf241914fb2a19bf27a6.jpg
+    alt:
+      en: "Aerial view of a destroyed waterfront structure reduced to its foundation and support pilings, surrounded by scorched, leafless trees and debris-strewn ground near a body of water."
 geo:
 id: 14340
 item_type: Still Image

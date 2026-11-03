@@ -26,6 +26,8 @@ files:
     original_filename: Julias_grandson_6d8c101e25.jpg
     thumb: /files/thumbnails/14fb2a6d53442114fb2a6d534807.jpg
     url: /files/original/14fb2a6d53442114fb2a6d534807.jpg
+    alt:
+      en: "A boy in a yellow life vest sits in a small boat on floodwater, with a partially submerged red building and trees surrounded by water in the background."
 geo:
   address: ''
   lat: 30.342352

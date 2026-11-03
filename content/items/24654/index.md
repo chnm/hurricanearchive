@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0055medics.JPG
     thumb: /files/thumbnails/14fb29e5cdbd1c14fb29e5cdc101.jpg
     url: /files/original/14fb29e5cdbd1c14fb29e5cdc101.jpg
+    alt:
+      en: "A person in military camouflage fatigues with a U.S. flag patch and \"PREDOM\" nametape handles medical syringes and vials arranged on a tray, photographed sideways."
 geo:
 id: 24654
 item_type: Still Image

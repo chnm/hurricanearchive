@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0067grandisle.JPG
     thumb: /files/thumbnails/14fb2a14f066cd14fb2a14f06ab2.jpg
     url: /files/original/14fb2a14f066cd14fb2a14f06ab2.jpg
+    alt:
+      en: "Aerial view of a rock jetty extending into coastal waters, with a submerged brick structure, surrounding marshland, and scattered buildings visible in the background; aircraft wheel and wing edge visible in foreground."
 geo:
 id: 18847
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: mr wayne warner principal_ee9233f317.jpg
     thumb: /files/thumbnails/14fb29d737841714fb29d737884a.jpg
     url: /files/original/14fb29d737841714fb29d737884a.jpg
+    alt:
+      en: "A man in a suit and tie speaks at a podium labeled \"CHS,\" with decorative banners and a \"1983\" sign in the background; caption identifies him as Mr. Wayne Warner, Principal."
 geo:
 id: 26853
 item_type: Still Image

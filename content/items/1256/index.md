@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28334.jpg
     thumb: /files/thumbnails/14fb2a6a0832bc14fb2a6a0836a1.jpg
     url: /files/original/14fb2a6a0832bc14fb2a6a0836a1.jpg
+    alt:
+      en: "Wooden boardwalk leads toward a storm-damaged building surrounded by fallen trees and scattered debris, with bare trees and ruined structures visible in the background."
 geo:
   address: ''
   lat: 0.0

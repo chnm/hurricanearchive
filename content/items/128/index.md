@@ -26,6 +26,8 @@ files:
     original_filename: Katrina_Bush4714900_8e1eba5893.jpg
     thumb: /files/thumbnails/14fb2a70ec5d3a14fb2a70ec6120.jpg
     url: /files/original/14fb2a70ec5d3a14fb2a70ec6120.jpg
+    alt:
+      en: "A military helicopter marked \"United States of America\" flies over a flooded neighborhood, with rooftops and trees surrounded by floodwater below."
 geo:
   address: ''
   lat: 0.0

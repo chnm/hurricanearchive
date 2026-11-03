@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0656.JPG
     thumb: /files/thumbnails/14fb2a5361c01914fb2a5361c3f5.jpg
     url: /files/original/14fb2a5361c01914fb2a5361c3f5.jpg
+    alt:
+      en: "A damaged single-story house with a red shingle roof stands beside piles of storm debris and a partially built cinder block wall, with broken pine trees in the background."
 geo:
 id: 5211
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: J2 (57).JPG
     thumb: /files/thumbnails/14fb2a110af53d14fb2a110af922.jpg
     url: /files/original/14fb2a110af53d14fb2a110af922.jpg
+    alt:
+      en: "Aerial view of a dense urban neighborhood with rooftops, a parking lot, and a few parked vehicles, captured in low light with long shadows across streets and buildings."
 geo:
 id: 19341
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 002.jpg
     thumb: /files/thumbnails/14fb2a22903df914fb2a229041df.jpg
     url: /files/original/14fb2a22903df914fb2a229041df.jpg
+    alt:
+      en: "Overturned, flipped vehicles lie partially submerged in roadside floodwater, surrounded by scattered debris, fallen trees, and wreckage, with a line of trees and a pickup truck visible in the background."
 geo:
 id: 11955
 item_type: Still Image

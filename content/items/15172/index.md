@@ -21,6 +21,8 @@ files:
     original_filename: GBuckley-6194_1a84c51a98.jpg
     thumb: /files/thumbnails/14fb2a16c39f2614fb2a16c3a353.jpg
     url: /files/original/14fb2a16c39f2614fb2a16c3a353.jpg
+    alt:
+      en: "Black-and-white photo of a family group outside a house on Mardi Gras Day: a girl in a cowgirl costume, a boy, a baby in a jumper chair, a boy dressed as a police officer, and a woman holding a camera."
 geo:
 id: 15172
 item_type: Still Image

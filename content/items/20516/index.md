@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0691441e14fb2a06914804.jpg
     url: /files/original/14fb2a0691441e14fb2a06914804.jpg
+    alt:
+      en: "Flooded rural road with a truck and trailer driving through standing water, a parked pickup submerged to its wheels, and a leaning utility pole with downed lines amid flattened, waterlogged grass."
 geo:
 id: 20516
 item_type: Still Image

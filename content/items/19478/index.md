@@ -21,6 +21,8 @@ files:
     original_filename: Picture 038engineers.jpg
     thumb: /files/thumbnails/14fb2a0fcd3f0014fb2a0fcd42dc.jpg
     url: /files/original/14fb2a0fcd3f0014fb2a0fcd42dc.jpg
+    alt:
+      en: "Aerial view of the Chalmette Refining facility with numerous large white storage tanks amid surrounding flooded residential neighborhoods, taken looking west; overlay text reads \"Chalmette Refining – Looking West Lat/Lon: 2955.00N/08956.00W.\""
 geo:
 id: 19478
 item_type: Still Image

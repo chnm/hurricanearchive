@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0050westend.JPG
     thumb: /files/thumbnails/14fb2a1508f4a014fb2a1508f9a0.jpg
     url: /files/original/14fb2a1508f4a014fb2a1508f9a0.jpg
+    alt:
+      en: "Aerial view of a marina with orderly docked boats on the left, contrasted with dozens of sailboats piled haphazardly onshore and damaged rooftops on the right, showing storm devastation."
 geo:
 id: 18824
 item_type: Still Image

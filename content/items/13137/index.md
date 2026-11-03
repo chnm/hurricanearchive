@@ -21,6 +21,8 @@ files:
     original_filename: tree courtyard end.jpg
     thumb: /files/thumbnails/14fb2a20281da714fb2a20284d8b.jpg
     url: /files/original/14fb2a20281da714fb2a20284d8b.jpg
+    alt:
+      en: "An uprooted small tree lies across a brick courtyard, its exposed root ball resting on brick steps and its trunk and branches extending toward a building's stone column and entrance."
 geo:
 id: 13137
 item_type: Still Image

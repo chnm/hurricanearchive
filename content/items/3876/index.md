@@ -21,6 +21,8 @@ files:
     original_filename: 100_0169.JPG
     thumb: /files/thumbnails/14fb2a5924077a14fb2a59240b5f.jpg
     url: /files/original/14fb2a5924077a14fb2a59240b5f.jpg
+    alt:
+      en: "Floodwater surrounds a house with roofs nearly submerged, as a yellow and blue children's playground slide stands on a debris-covered concrete surface near the waterline."
 geo:
 id: 3876
 item_type: Still Image

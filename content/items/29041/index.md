@@ -21,6 +21,8 @@ files:
     original_filename: LAANG-Photo-10.jpg
     thumb: /files/thumbnails/14fb29d06eff7d14fb29d06f025e.jpg
     url: /files/original/14fb29d06eff7d14fb29d06f025e.jpg
+    alt:
+      en: "A New Hampshire state flag flies above a large open-sided hangar staging area filled with military personnel, cots, supply crates, and a multi-wheeled utility vehicle, with helicopters visible in the background."
 geo:
 id: 29041
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20050929026.JPG
     thumb: /files/thumbnails/14fb2a1bfdb97c14fb2a1bfdeb95.jpg
     url: /files/original/14fb2a1bfdb97c14fb2a1bfdeb95.jpg
+    alt:
+      en: "Two military camouflage trucks parked near a damaged, roofless building, with an American flag flying on a pole and two soldiers in fatigues walking nearby across a dirt lot."
 geo:
   address: ''
   lat: 0.0

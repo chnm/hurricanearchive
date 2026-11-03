@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0992Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f934aea114fb29f934b1ed.jpg
     url: /files/original/14fb29f934aea114fb29f934b1ed.jpg
+    alt:
+      en: "Camouflage military truck with a \"Convoy Follows\" sign leads a procession down a street under red traffic lights, with a soldier directing traffic near a brick-pillared fence."
 geo:
 id: 22185
 item_type: Still Image

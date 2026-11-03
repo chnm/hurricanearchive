@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0230-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff77e20c14fb29ff77e613.jpg
     url: /files/original/14fb29ff77e20c14fb29ff77e613.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with debris-covered streets, stripped trees, and homes showing roof damage, set against a hazy horizon."
 geo:
 id: 21331
 item_type: Still Image

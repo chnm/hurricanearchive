@@ -23,6 +23,8 @@ files:
     original_filename: 163301508_73b1dc8f67.jpg
     thumb: /files/thumbnails/14fb29d4202d7c14fb29d4203160.jpg
     url: /files/original/14fb29d4202d7c14fb29d4203160.jpg
+    alt:
+      en: "Brick storefront for \"Original Man Barber Shop,\" with a crescent moon and star logo, hours listed, and a \"Will is Back\" sign above; a glass door displays a phone number and barber shop illustrations."
 geo:
   address: ''
   lat: 29.84064

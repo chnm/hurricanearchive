@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8892.jpg
     thumb: /files/thumbnails/14fb2a6558ad5914fb2a6558b145.jpg
     url: /files/original/14fb2a6558ad5914fb2a6558b145.jpg
+    alt:
+      en: "A white Bobcat S250 skid-steer loader with a claw attachment moves a discarded refrigerator amid rows of gutted appliances, while a flock of seagulls circles overhead at the Katrina debris dump."
 geo:
 id: 2556
 item_type: Still Image

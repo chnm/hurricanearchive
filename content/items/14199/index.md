@@ -21,6 +21,8 @@ files:
     original_filename: UH-60 off load.JPG
     thumb: /files/thumbnails/14fb2a1aa272dc14fb2a1aa2785a.jpg
     url: /files/original/14fb2a1aa272dc14fb2a1aa2785a.jpg
+    alt:
+      en: "A UH-60 Black Hawk helicopter sits on a grassy median near a parking lot as several people, including a soldier in camouflage, walk across the grass toward parked trucks and a nearby building."
 geo:
   address: ''
   lat: 0.0

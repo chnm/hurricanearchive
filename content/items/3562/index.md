@@ -24,6 +24,8 @@ files:
     original_filename: P1010138.JPG
     thumb: /files/thumbnails/14fb2a5aceaf2e14fb2a5aceb311.jpg
     url: /files/original/14fb2a5aceaf2e14fb2a5aceb311.jpg
+    alt:
+      en: "Snapped and fallen trees lie scattered across a grassy area near a road, with broken trunks and a lone streetlamp standing amid the debris under an overcast sky."
 geo:
 id: 3562
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0311.JPG
     thumb: /files/thumbnails/14fb2a54ba3bce14fb2a54ba3fd4.jpg
     url: /files/original/14fb2a54ba3bce14fb2a54ba3fd4.jpg
+    alt:
+      en: "A storm-damaged yard with a large tree stripped of branches on one side, fallen limbs scattered across the grass, and a house with a blue tarp on its roof in the background."
 geo:
 id: 4969
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea199c0614fb29ea199fe1.jpg
     url: /files/original/14fb29ea199c0614fb29ea199fe1.jpg
+    alt:
+      en: "A military front-loader plows through thick mud past a mud-covered Jeep stuck in the muck, with a damaged house marked with a search-and-rescue X in the background."
 geo:
 id: 24173
 item_type: Still Image

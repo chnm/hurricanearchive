@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0124gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cdc833d14fb2a0cdc86fc.jpg
     url: /files/original/14fb2a0cdc833d14fb2a0cdc86fc.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms and hard hats construct a large plywood screen or barrier indoors, using ladders, with laptops and projectors set up on tables below."
 geo:
 id: 19892
 item_type: Still Image

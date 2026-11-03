@@ -24,6 +24,8 @@ files:
     original_filename: SF crewboat 1_ec5e859e7a.jpg
     thumb: /files/thumbnails/14fb29d7a210e314fb29d7a23fde.jpg
     url: /files/original/14fb29d7a210e314fb29d7a23fde.jpg
+    alt:
+      en: "A green and white crewboat with a tall antenna mast moves through calm water, with a low marshy shoreline visible in the background under a hazy sky."
 geo:
   address: ''
   lat: 29.87876

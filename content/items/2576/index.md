@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9083.jpg
     thumb: /files/thumbnails/14fb2a64d4e00914fb2a64d4e179.jpg
     url: /files/original/14fb2a64d4e00914fb2a64d4e179.jpg
+    alt:
+      en: "A handwritten \"Scenic Route\" sign with an arrow stands on a residential street beside a severely storm-damaged house with debris piles and bare, broken trees."
 geo:
 id: 2576
 item_type: Still Image

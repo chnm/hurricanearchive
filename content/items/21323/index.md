@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0228-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff80fbb614fb29ff80ff95.jpg
     url: /files/original/14fb29ff80fbb614fb29ff80ff95.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood showing heavily damaged rooftops, scattered debris, and fallen trees along tree-lined streets, with several structures missing portions of their roofs."
 geo:
 id: 21323
 item_type: Still Image

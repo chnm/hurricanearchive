@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 152cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0de0fd7314fb2a0de1028a.jpg
     url: /files/original/14fb2a0de0fd7314fb2a0de1028a.jpg
+    alt:
+      en: "A military officer in camouflage fatigues walks across a lawn being filmed by a cameraman, with storm-damaged trees, brick buildings, and parked vehicles including a Jeep Wrangler in the foreground."
 geo:
 id: 19765
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-011S.JPG
     thumb: /files/thumbnails/14fb2a5fa67ab914fb2a5fa67e71.jpg
     url: /files/original/14fb2a5fa67ab914fb2a5fa67e71.jpg
+    alt:
+      en: "Interior room with red painted floor and pale green walls, viewed through a grid-patterned metal grate or fence, showing white machinery, canisters, and a diagonal support beam."
 geo:
 id: 2888
 item_type: Still Image

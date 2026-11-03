@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0166.JPG
     thumb: /files/thumbnails/14fb2a552c4f5414fb2a552c533b.jpg
     url: /files/original/14fb2a552c4f5414fb2a552c533b.jpg
+    alt:
+      en: "Close-up of a wooden support beam resting on a concrete foundation, with a yellow tape measure positioned vertically to measure the gap near a bolted metal bracket."
 geo:
 id: 4847
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2122rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13f9d07814fb2a13f9d454.jpg
     url: /files/original/14fb2a13f9d07814fb2a13f9d454.jpg
+    alt:
+      en: "Aerial view of a military medical helicopter landed on an apartment building rooftop painted with \"HELP\" in large letters, with a crew member standing nearby amid storm-damaged buildings."
 geo:
 id: 18960
 item_type: Still Image

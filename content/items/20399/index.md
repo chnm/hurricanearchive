@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0804c09714fb2a0804c47c.jpg
     url: /files/original/14fb2a0804c09714fb2a0804c47c.jpg
+    alt:
+      en: "Man with glasses and a mustache, wearing a white polo shirt, holds a small piece of food while standing near a pink towel and yellow bag indoors."
 geo:
 id: 20399
 item_type: Still Image

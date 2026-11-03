@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-06_9df186d5a9.jpg
     thumb: /files/thumbnails/14fb2a16673f1d14fb2a16674303.jpg
     url: /files/original/14fb2a16673f1d14fb2a16674303.jpg
+    alt:
+      en: "A young, red-haired boy in a red shirt and overalls smiles joyfully, raising a fist in excitement, photographed against a textured, moss-and-lichen-covered tree with a blurred riverbank in the background."
 geo:
 id: 15343
 item_type: Still Image

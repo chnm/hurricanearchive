@@ -21,6 +21,8 @@ files:
     original_filename: Picture 013cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c7683ce14fb2a0c769012.jpg
     url: /files/original/14fb2a0c7683ce14fb2a0c769012.jpg
+    alt:
+      en: "Empty, slightly blurred residential street with a curb and grassy median, lined by damaged, leafless trees, utility poles with power lines, and a streetlight, under a pale blue sky."
 geo:
 id: 19917
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053-9-25.JPG
     thumb: /files/thumbnails/14fb2a0558f29014fb2a05592300.jpg
     url: /files/original/14fb2a0558f29014fb2a05592300.jpg
+    alt:
+      en: "Aerial view of a severely flooded rural area with a damaged house partially submerged, surrounded by debris, downed trees, and a road disappearing into floodwaters."
 geo:
 id: 20666
 item_type: Still Image

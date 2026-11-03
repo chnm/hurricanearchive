@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017OEP.JPG
     thumb: /files/thumbnails/14fb29f21af59214fb29f21af975.jpg
     url: /files/original/14fb29f21af59214fb29f21af975.jpg
+    alt:
+      en: "Parking lot with news satellite trucks, cars, and white canopy tents set up for media coverage, with camera crews and people gathered near equipment in the foreground."
 geo:
 id: 23007
 item_type: Still Image

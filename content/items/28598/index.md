@@ -23,6 +23,8 @@ files:
     original_filename: 162411495_b1e30e5b75.jpg
     thumb: /files/thumbnails/14fb29d22e505114fb29d22e5435.jpg
     url: /files/original/14fb29d22e505114fb29d22e5435.jpg
+    alt:
+      en: "A massive uprooted tree lies toppled in front of a brick house, its exposed roots tangled with debris, while overgrown grass and shrubs surround the damaged yard and sidewalk."
 geo:
 id: 28598
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8580.jpg
     thumb: /files/thumbnails/14fb2a65e27e5614fb2a65e2823b.jpg
     url: /files/original/14fb2a65e27e5614fb2a65e2823b.jpg
+    alt:
+      en: "A two-story brick house with its exterior wall torn away, exposing a bedroom with a wooden headboard and dresser; debris, dead branches, and plants litter the ground below."
 geo:
 id: 2495
 item_type: Still Image

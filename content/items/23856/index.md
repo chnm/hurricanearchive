@@ -21,6 +21,8 @@ files:
     original_filename: S4300205neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecc812e214fb29ecc816c8.jpg
     url: /files/original/14fb29ecc812e214fb29ecc816c8.jpg
+    alt:
+      en: "Firefighters battle a structure fire at a wooden building, with fire trucks and hoses in the street and a large \"Packaging\" building in the background amid thick smoke."
 geo:
 id: 23856
 item_type: Still Image

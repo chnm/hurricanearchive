@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0280downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1425977314fb2a14259b57.jpg
     url: /files/original/14fb2a1425977314fb2a14259b57.jpg
+    alt:
+      en: "Aerial view of an industrial area with warehouse buildings, parked vans and trucks, scattered debris, and the shadow of the aircraft cast across one rooftop."
 geo:
 id: 18930
 item_type: Still Image

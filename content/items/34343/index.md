@@ -27,6 +27,8 @@ files:
     original_filename: 2380908508_c7f6b0c874.
     thumb: /files/thumbnails/14fb29ca46bb0514fb29ca46beea.jpg
     url: /files/original/14fb29ca46bb0514fb29ca46beea.jpg
+    alt:
+      en: "A cluttered, flood-damaged garage workshop with a metal filing cabinet, scattered tools, a yellow bucket, red-handled bolt cutters, and debris covering the floor."
 geo:
   address: ''
   lat: 30.22894

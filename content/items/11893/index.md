@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 015.jpg
     thumb: /files/thumbnails/14fb2a22cdb7ef14fb2a22cdbbd5.jpg
     url: /files/original/14fb2a22cdb7ef14fb2a22cdbbd5.jpg
+    alt:
+      en: "Partially sunken and damaged boats sit tilted in a marina with empty wooden docks, surrounded by floodwater and debris; a flooded road and date stamp \"2005/09/24\" appear in the foreground."
 geo:
 id: 11893
 item_type: Still Image

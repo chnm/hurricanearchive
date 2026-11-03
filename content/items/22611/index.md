@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0575Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f50c9e3314fb29f50ca21a.jpg
     url: /files/original/14fb29f50c9e3314fb29f50ca21a.jpg
+    alt:
+      en: "White columns and a brick archway surrounded by floodwater, with a hanging sign reading \"MAJ COPPLE\" and \"11L\" marked on the brick wall nearby."
 geo:
 id: 22611
 item_type: Still Image

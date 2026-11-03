@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1336Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5deaaaf14fb29f5e4105c.jpg
     url: /files/original/14fb29f5deaaaf14fb29f5e4105c.jpg
+    alt:
+      en: "Floodwaters submerge a building up to its rooftop peak, with only the gabled end visible above the murky, turbulent water line amid partially submerged trees."
 geo:
 id: 22495
 item_type: Still Image

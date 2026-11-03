@@ -21,6 +21,8 @@ files:
     original_filename: aerials3.jpg
     thumb: /files/thumbnails/14fb2a19d8159014fb2a19d81966.jpg
     url: /files/original/14fb2a19d8159014fb2a19d81966.jpg
+    alt:
+      en: "Aerial view of a coastal area with a sandy shoreline and a dense expanse of trees stripped bare or defoliated, with two white houses standing amid the damaged landscape."
 geo:
 id: 14316
 item_type: Still Image

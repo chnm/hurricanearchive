@@ -21,6 +21,8 @@ files:
     original_filename: J2 (11).JPG
     thumb: /files/thumbnails/14fb2a1151fb6514fb2a1151ff45.jpg
     url: /files/original/14fb2a1151fb6514fb2a1151ff45.jpg
+    alt:
+      en: "Close-up of a car's windshield and roof showing storm damage, including a dented and rusted roof panel and cracked glass near the top of the windshield, with trees visible in the background."
 geo:
 id: 19291
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward 9-18-7.JPG
     thumb: /files/thumbnails/14fb2a2187a6c814fb2a2187aabc.jpg
     url: /files/original/14fb2a2187a6c814fb2a2187aabc.jpg
+    alt:
+      en: "Debris-strewn landscape of flattened and damaged buildings, scattered wreckage, and a small white church spire standing amid the destruction, with bare trees under a hazy sky."
 geo:
 id: 12841
 item_type: Still Image

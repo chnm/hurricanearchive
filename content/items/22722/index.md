@@ -21,6 +21,8 @@ files:
     original_filename: PICT0620Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f46bd60014fb29f46bd9ea.jpg
     url: /files/original/14fb29f46bd60014fb29f46bd9ea.jpg
+    alt:
+      en: "Two-story brick buildings with white columned balconies stand behind a large pile of dead tree branches and debris on a lawn, with a concrete walkway in the foreground; date stamp reads 09.15.2005."
 geo:
 id: 22722
 item_type: Still Image

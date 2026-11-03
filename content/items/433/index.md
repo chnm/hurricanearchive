@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0008_1d56692348.JPG
     thumb: /files/thumbnails/14fb2a6ffeec5114fb2a6ffeefab.jpg
     url: /files/original/14fb2a6ffeec5114fb2a6ffeefab.jpg
+    alt:
+      en: "Severely damaged stucco house shifted off its foundation, with broken windows, exposed wood framing, and debris scattered in the yard; spray-painted warnings read \"DANGER,\" \"This building is TILTED,\" \"UNSTABLE,\" and \"DANGER UNSTABLE.\""
 geo:
   address: ''
   lat: 29.916852233070202

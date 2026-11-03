@@ -20,6 +20,8 @@ files:
     original_filename: Picture+039_3aea950101.jpg
     thumb: /files/thumbnails/14fb29ce00600514fb29ce0063ea.jpg
     url: /files/original/14fb29ce00600514fb29ce0063ea.jpg
+    alt:
+      en: "Close-up of storm debris in New Orleans' Lower Ninth Ward, showing a cracked white porcelain fixture, wooden boards, and a rusted metal hardware piece scattered among broken plaster and rubble."
 geo:
 id: 30030
 item_type: Still Image

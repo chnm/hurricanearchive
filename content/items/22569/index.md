@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1858Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f53bcc2914fb29f53bd00f.jpg
     url: /files/original/14fb29f53bcc2914fb29f53bd00f.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with a central green lawn and flagpole, surrounded by damaged buildings, downed trees, and standing water in the streets."
 geo:
 id: 22569
 item_type: Still Image

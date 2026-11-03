@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0045.JPG
     thumb: /files/thumbnails/14fb2a56ba5a8814fb2a56ba5e6f.jpg
     url: /files/original/14fb2a56ba5a8814fb2a56ba5e6f.jpg
+    alt:
+      en: "A person's arm holds a yellow tape measure against a wall marked with a horizontal water stain line, with visible mold or discoloration below it and a closet doorway to the left."
 geo:
 id: 4619
 item_type: Still Image

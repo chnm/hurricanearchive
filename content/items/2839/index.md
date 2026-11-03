@@ -21,6 +21,8 @@ files:
     original_filename: MVC-030S.JPG
     thumb: /files/thumbnails/14fb2a5fe3c78314fb2a5fe3cb68.jpg
     url: /files/original/14fb2a5fe3c78314fb2a5fe3cb68.jpg
+    alt:
+      en: "Interior of a storm-damaged building with exposed steel framing, torn ceiling panels, and debris, with a tilted blue \"Alabama Medal of Honor Recipients\" display board still mounted on the wall."
 geo:
 id: 2839
 item_type: Still Image

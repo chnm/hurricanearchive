@@ -26,6 +26,8 @@ files:
     original_filename: 100_5763_eab144401e.JPG
     thumb: /files/thumbnails/14fb2a711c822414fb2a711c8d45.jpg
     url: /files/original/14fb2a711c822414fb2a711c8d45.jpg
+    alt:
+      en: "A red-roofed lighthouse stands beside the burned, skeletal remains of a yacht club building along a waterfront, with dead grass and a marina in the foreground, dated 11/05/2005."
 geo:
   address: ''
   lat: 30.005653

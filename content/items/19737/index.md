@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 124cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e25309414fb2a0e253479.jpg
     url: /files/original/14fb2a0e25309414fb2a0e253479.jpg
+    alt:
+      en: "A cameraman films two soldiers in camouflage uniforms standing in a parking lot, with a damaged building, military Humvee, and palm trees visible in the background under a clear sky."
 geo:
 id: 19737
 item_type: Still Image

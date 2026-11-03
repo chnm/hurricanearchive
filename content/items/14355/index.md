@@ -21,6 +21,8 @@ files:
     original_filename: aerials65.jpg
     thumb: /files/thumbnails/14fb2a19a4c54714fb2a19a4c919.jpg
     url: /files/original/14fb2a19a4c54714fb2a19a4c919.jpg
+    alt:
+      en: "Aerial view of a devastated residential area with only concrete foundations and slabs remaining, surrounded by bare, damaged trees and scattered debris."
 geo:
 id: 14355
 item_type: Still Image

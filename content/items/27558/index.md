@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6448_e5cd985349.jpg
     thumb: /files/thumbnails/14fb29d36b905a14fb29d36b9440.jpg
     url: /files/original/14fb29d36b905a14fb29d36b9440.jpg
+    alt:
+      en: "Group of young women in white \"Rhythm\" dance team uniforms and caps pose with a woman in a white hoodie on a residential street, with small houses, a bare tree, and bystanders in the background."
 geo:
   address: ''
   lat: 29.91685

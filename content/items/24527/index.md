@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e6fdc04c14fb29e6fdc42b.jpg
     url: /files/original/14fb29e6fdc04c14fb29e6fdc42b.jpg
+    alt:
+      en: "Aerial view of a flooded landscape with submerged trees, a damaged metal-roofed structure with debris, and what appears to be a partially submerged cemetery with visible vault slabs and a statue."
 geo:
 id: 24527
 item_type: Still Image

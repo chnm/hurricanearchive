@@ -20,6 +20,8 @@ files:
     original_filename: billatvis_eec1a415f4.gif
     thumb: /files/thumbnails/14fb29c33b00d914fb29c33b04b6.jpg
     url: /files/original/14fb29c33b00d914fb29c33b04b6.jpg
+    alt:
+      en: "No image content is visible to describe, as no actual photograph was provided for analysis."
 geo:
   address: ''
   lat: 0.0

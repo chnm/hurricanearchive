@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0994Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f931a4d714fb29f931a8bc.jpg
     url: /files/original/14fb29f931a4d714fb29f931a8bc.jpg
+    alt:
+      en: "A green \"Blue Bird\" bus with headlights on drives down a wet street under overcast skies, passing a \"City of New Orleans Municipal Training Academy Police Education Division\" sign, with military trucks and vehicles parked nearby."
 geo:
 id: 22187
 item_type: Still Image

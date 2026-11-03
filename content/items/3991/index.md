@@ -21,6 +21,8 @@ files:
     original_filename: DSC01081.JPG
     thumb: /files/thumbnails/14fb2a58a178c614fb2a58a17cae.jpg
     url: /files/original/14fb2a58a178c614fb2a58a17cae.jpg
+    alt:
+      en: "A large oak tree stands in floodwater beside a submerged house, with bare branches draped in moss reflected on the water's surface; a blue light fixture is visible in the foreground."
 geo:
 id: 3991
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 105-06_4ef87c450a.jpg
     thumb: /files/thumbnails/14fb2a1e47deca14fb2a1e47e2af.jpg
     url: /files/original/14fb2a1e47deca14fb2a1e47e2af.jpg
+    alt:
+      en: "Black-and-white street view of a tree- and palm-lined median on St. Bernard Avenue at Tonti Street, with a fire hydrant in the foreground and houses and parked cars along the road."
 geo:
 id: 13343
 item_type: Still Image

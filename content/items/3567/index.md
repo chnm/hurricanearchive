@@ -24,6 +24,8 @@ files:
     original_filename: P1010142a.JPG
     thumb: /files/thumbnails/14fb2a5ac7c22f14fb2a5ac7ca01.jpg
     url: /files/original/14fb2a5ac7c22f14fb2a5ac7ca01.jpg
+    alt:
+      en: "Massive pile of hurricane debris behind a traffic light and street signs reading \"To Causeway Blvd,\" \"One Way,\" and \"Begin Bike Route,\" with a roadside \"Gentle Interior Removal\" sign in the foreground."
 geo:
 id: 3567
 item_type: Still Image

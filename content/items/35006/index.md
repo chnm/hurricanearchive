@@ -20,6 +20,8 @@ files:
     original_filename: 2297839269_b85a06d5d6.
     thumb: /files/thumbnails/14fb29c780b12614fb29c780b50d.jpg
     url: /files/original/14fb29c780b12614fb29c780b50d.jpg
+    alt:
+      en: "A woman stands beside several parked bicycles and vehicles, including a black SUV, an RV, and a silver pickup truck, in a yard surrounded by trees and houses."
 geo:
 id: 35006
 item_type: Still Image

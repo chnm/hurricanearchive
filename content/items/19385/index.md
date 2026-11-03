@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2246engineers.JPG
     thumb: /files/thumbnails/14fb2a109ed8e514fb2a109edc42.jpg
     url: /files/original/14fb2a109ed8e514fb2a109edc42.jpg
+    alt:
+      en: "Four soldiers in camouflage uniforms wear hard hats, one marked \"EXPRESS,\" while standing amid fallen tree debris in front of a damaged pink house with boarded windows."
 geo:
 id: 19385
 item_type: Still Image

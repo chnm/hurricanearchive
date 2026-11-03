@@ -21,6 +21,8 @@ files:
     original_filename: PICT0862Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f45101f114fb29f45105de.jpg
     url: /files/original/14fb29f45101f114fb29f45105de.jpg
+    alt:
+      en: "Dead grass and bare trees surround a sign reading \"214th Engineering Installation Squadron, Louisiana Air National Guard,\" with debris piles, power lines, and buildings in the background; dated 09.15.2005."
 geo:
 id: 22740
 item_type: Still Image

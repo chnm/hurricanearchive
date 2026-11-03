@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0632.JPG
     thumb: /files/thumbnails/14fb29d007f11014fb29d007f4f4.jpg
     url: /files/original/14fb29d007f11014fb29d007f4f4.jpg
+    alt:
+      en: "A \"Go Mini's Mini Storage On The Go\" portable storage container has \"HELP\" spray-painted in large letters on its side, with a van parked in front and trees and buildings in the background."
 geo:
 id: 29086
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: begin front street1.jpg
     thumb: /files/thumbnails/14fb2a20a1891514fb2a20a18cfb.jpg
     url: /files/original/14fb2a20a1891514fb2a20a18cfb.jpg
+    alt:
+      en: "Heavy wind-driven rain obscures a historic two-story corner building with arched windows, while nearby trees bend sharply in the wind along an empty, wet street."
 geo:
 id: 13064
 item_type: Still Image

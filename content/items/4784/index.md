@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0096.JPG
     thumb: /files/thumbnails/14fb2a55957a5014fb2a55957e36.jpg
     url: /files/original/14fb2a55957a5014fb2a55957e36.jpg
+    alt:
+      en: "A wooden dock extends along a calm waterway lined with trees and a stone retaining wall, with a house visible across the water under a clear sky."
 geo:
 id: 4784
 item_type: Still Image

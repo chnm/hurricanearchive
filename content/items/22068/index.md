@@ -21,6 +21,8 @@ files:
     original_filename: Picture 399-J2.jpg
     thumb: /files/thumbnails/14fb29f9b1ff1e14fb29f9b20303.jpg
     url: /files/original/14fb29f9b1ff1e14fb29f9b20303.jpg
+    alt:
+      en: "Military vehicles parked beside and inside a large olive-drab tent shelter with open canvas doors, set on pavement near a brick building, with a ladder and portable toilets visible in the background."
 geo:
 id: 22068
 item_type: Still Image

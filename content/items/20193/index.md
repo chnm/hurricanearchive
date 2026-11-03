@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0109.JPG
     thumb: /files/thumbnails/14fb2a0ace50f114fb2a0ace54d5.jpg
     url: /files/original/14fb2a0ace50f114fb2a0ace54d5.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood with collapsed roofs, scattered debris, and bare lots between surviving houses and trees, showing widespread storm damage across city blocks."
 geo:
 id: 20193
 item_type: Still Image

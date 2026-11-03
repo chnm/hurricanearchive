@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1690superdome.JPG
     thumb: /files/thumbnails/14fb29e24bb8b814fb29e24bbc44.jpg
     url: /files/original/14fb29e24bb8b814fb29e24bbc44.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and a black cap, wearing an MP armband with an eagle insignia, stands in profile with other uniformed personnel blurred in the background."
 geo:
 id: 25103
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28558.jpg
     thumb: /files/thumbnails/14fb2a670ee39c14fb2a670ee6b4.jpg
     url: /files/original/14fb2a670ee39c14fb2a670ee6b4.jpg
+    alt:
+      en: "Storm-damaged residential street in the Lakeview District, lined with debris, fallen trees, and scattered vehicles, with houses showing roof damage under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

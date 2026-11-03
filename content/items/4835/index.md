@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0150.JPG
     thumb: /files/thumbnails/14fb2a553abc1e14fb2a553ac003.jpg
     url: /files/original/14fb2a553abc1e14fb2a553ac003.jpg
+    alt:
+      en: "A large fallen tree trunk rests diagonally across a wooden bench or structure, surrounded by dense green foliage and scattered dry branches on the ground."
 geo:
 id: 4835
 item_type: Still Image

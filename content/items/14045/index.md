@@ -21,6 +21,8 @@ files:
     original_filename: 20050928025.JPG
     thumb: /files/thumbnails/14fb2a1c0b391b14fb2a1c0b3d10.jpg
     url: /files/original/14fb2a1c0b391b14fb2a1c0b3d10.jpg
+    alt:
+      en: "Industrial building alongside scattered sheet metal debris and twisted guardrails, with standing water and a lone pine tree under an overcast sky, suggesting storm damage."
 geo:
   address: ''
   lat: 0.0

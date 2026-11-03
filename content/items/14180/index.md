@@ -21,6 +21,8 @@ files:
     original_filename: SGT Spencer.JPG
     thumb: /files/thumbnails/14fb2a1ae23ceb14fb2a1ae240cf.jpg
     url: /files/original/14fb2a1ae23ceb14fb2a1ae240cf.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage uniform, armed with a rifle, gestures while speaking to a driver in a vehicle displaying a \"Port of New Orleans\" access pass sticker."
 geo:
   address: ''
   lat: 0.0

@@ -24,6 +24,8 @@ files:
     original_filename: P1010003.jpg
     thumb: /files/thumbnails/14fb2a5abdf88a14fb2a5abdfc70.jpg
     url: /files/original/14fb2a5abdf88a14fb2a5abdfc70.jpg
+    alt:
+      en: "A white refrigerator sits abandoned on a curb with both doors open, revealing spoiled food, bottles, and cans inside, while more debris and jugs are scattered on the ground beneath it."
 geo:
 id: 3576
 item_type: Still Image

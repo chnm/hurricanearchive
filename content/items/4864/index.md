@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0183.JPG
     thumb: /files/thumbnails/14fb2a551ee44514fb2a551ee82b.jpg
     url: /files/original/14fb2a551ee44514fb2a551ee82b.jpg
+    alt:
+      en: "Elevated green house on wooden stilts with a white metal roof and covered porches, with a boat parked underneath and bare trees in the background."
 geo:
 id: 4864
 item_type: Still Image

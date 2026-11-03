@@ -20,6 +20,8 @@ files:
     original_filename: 2457398292_3b9170353a.
     thumb: /files/thumbnails/14fb29c87af19914fb29c87af57e.jpg
     url: /files/original/14fb29c87af19914fb29c87af57e.jpg
+    alt:
+      en: "Bulldozer grading an earthen levee or berm beside a canal, with power lines and a white truck in the background under overcast sky; date stamp reads 11-11-2007."
 geo:
 id: 34924
 item_type: Still Image

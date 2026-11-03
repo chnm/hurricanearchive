@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0203mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2f42e2614fb29f2f4320c.jpg
     url: /files/original/14fb29f2f42e2614fb29f2f4320c.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand beside a military vehicle, one wearing sunglasses and a nametag reading \"McKee,\" with an American flag patch visible on the other soldier's shoulder."
 geo:
 id: 22875
 item_type: Still Image

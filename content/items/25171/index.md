@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1781superdome.JPG
     thumb: /files/thumbnails/14fb29e17a7c4b14fb29e17a842d.jpg
     url: /files/original/14fb29e17a7c4b14fb29e17a842d.jpg
+    alt:
+      en: "Two women embrace tightly in a comforting hug while a young boy holding a water bottle and an older man in a striped shirt stand nearby under a covered structure."
 geo:
 id: 25171
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-023_c7337a52de.jpg
     thumb: /files/thumbnails/14fb2a16a73adb14fb2a16a77981.jpg
     url: /files/original/14fb2a16a73adb14fb2a16a77981.jpg
+    alt:
+      en: "A man and three young children ride in a purple gondola on an amusement park ride, with green trees visible in the background and a date stamp reading '05 4 17."
 geo:
 id: 15279
 item_type: Still Image

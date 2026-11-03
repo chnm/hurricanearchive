@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0507.JPG
     thumb: /files/thumbnails/14fb29d1134d5814fb29d1138e29.jpg
     url: /files/original/14fb29d1134d5814fb29d1138e29.jpg
+    alt:
+      en: "Two men sit by a row of gray lockers labeled \"Graham\" and \"Dantin,\" one in a black \"Bayou Militia\" T-shirt, the other in a blue tank top with a tattooed arm resting on a table."
 geo:
 id: 29007
 item_type: Still Image

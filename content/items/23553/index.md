@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0176neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef062b7014fb29ef062f55.jpg
     url: /files/original/14fb29ef062b7014fb29ef062f55.jpg
+    alt:
+      en: "Residential street lined with trees and utility poles, debris piled along the curbs and sidewalks, with a large truck parked further down the road and a \"SPEED LIMIT 20\" sign visible."
 geo:
 id: 23553
 item_type: Still Image

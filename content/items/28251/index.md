@@ -27,6 +27,8 @@ files:
     original_filename: 384684813_1c34fb2858.
     thumb: /files/thumbnails/14fb29d29755da14fb29d2975adb.jpg
     url: /files/original/14fb29d29755da14fb29d2975adb.jpg
+    alt:
+      en: "A gutted, wood-framed bathroom with a comic-illustrated t-shirt hanging from the ceiling beams above a window, alongside a bathtub, toilet, sink, and a tarnished metal screen on the tiled floor."
 geo:
   address: ''
   lat: 30.01333

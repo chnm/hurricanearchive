@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0191-21.JPG
     thumb: /files/thumbnails/14fb2a003c1d2214fb2a003c3181.jpg
     url: /files/original/14fb2a003c1d2214fb2a003c3181.jpg
+    alt:
+      en: "A soldier in camouflage uniform gestures while shouting, arms outstretched toward a woman holding a Fox News microphone, as a man with a camera stands nearby outdoors."
 geo:
 id: 21174
 item_type: Still Image

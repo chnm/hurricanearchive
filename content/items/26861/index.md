@@ -21,6 +21,8 @@ files:
     original_filename: mrs_8ecfa787a3.bettypolkmoody.jpg
     thumb: /files/thumbnails/14fb29d717b58514fb29d717cb77.jpg
     url: /files/original/14fb29d717b58514fb29d717cb77.jpg
+    alt:
+      en: "Black-and-white yearbook portrait of a smiling woman with short wavy hair wearing a dark blouse with a tie neckline, captioned \"1938 — 1992,\" beside a printed tribute text dedicating the 1991-92 yearbook to her memory."
 geo:
 id: 26861
 item_type: Still Image

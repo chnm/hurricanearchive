@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8635.jpg
     thumb: /files/thumbnails/14fb2a65cd6c9514fb2a65cd707a.jpg
     url: /files/original/14fb2a65cd6c9514fb2a65cd707a.jpg
+    alt:
+      en: "Hand-painted signs reading \"Welcome Home New Orleans, community kitchen, FREE MEALS\" stand in a park setting with people gathered at tables under trees decorated with colorful ribbon streamers."
 geo:
 id: 2512
 item_type: Still Image

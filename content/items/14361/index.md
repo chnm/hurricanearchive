@@ -21,6 +21,8 @@ files:
     original_filename: aerials70.jpg
     thumb: /files/thumbnails/14fb2a1997989114fb2a19979c78.jpg
     url: /files/original/14fb2a1997989114fb2a19979c78.jpg
+    alt:
+      en: "Aerial view of a long pier or pipeline structure extending into open water, with a small platform building near its end and a distant shoreline visible under a hazy sky."
 geo:
 id: 14361
 item_type: Still Image

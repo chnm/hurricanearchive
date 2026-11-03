@@ -20,6 +20,8 @@ files:
     original_filename: 2 - Robert E_589b8079d9. Lee 6.jpg
     thumb: /files/thumbnails/14fb29c4b2d97a14fb29c4b2dd5e.jpg
     url: /files/original/14fb29c4b2d97a14fb29c4b2dd5e.jpg
+    alt:
+      en: "A tree-lined street intersection in Lakeview with a \"Lil' Easy 19\" transit sign, parked cars, houses, and a commercial building under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

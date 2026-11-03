@@ -21,6 +21,8 @@ files:
     original_filename: Picture 317-J2.jpg
     thumb: /files/thumbnails/14fb29fa84033e14fb29fa84da09.jpg
     url: /files/original/14fb29fa84033e14fb29fa84da09.jpg
+    alt:
+      en: "Underneath an elevated highway supported by large concrete pillars, with several parked cars visible in the shaded area and a green interstate route sign mounted on one of the columns."
 geo:
 id: 21986
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1458superdome.JPG
     thumb: /files/thumbnails/14fb29e3a5c2a914fb29e3a5c7a9.jpg
     url: /files/original/14fb29e3a5c2a914fb29e3a5c7a9.jpg
+    alt:
+      en: "Silhouetted figures walk up a dry concrete ramp away from a deeply flooded street lined with partially submerged parked cars and streetlights under an elevated roadway."
 geo:
 id: 24947
 item_type: Still Image

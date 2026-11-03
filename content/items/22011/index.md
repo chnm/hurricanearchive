@@ -21,6 +21,8 @@ files:
     original_filename: Picture 342-J2.jpg
     thumb: /files/thumbnails/14fb29fa24c55314fb29fa24d935.jpg
     url: /files/original/14fb29fa24c55314fb29fa24d935.jpg
+    alt:
+      en: "Military cargo truck parked on a grassy roadside near storm-damaged, burned-out buildings, with debris scattered across the lawn and power lines overhead."
 geo:
 id: 22011
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28094.jpg
     thumb: /files/thumbnails/14fb2a6ca0314c14fb2a6ca03531.jpg
     url: /files/original/14fb2a6ca0314c14fb2a6ca03531.jpg
+    alt:
+      en: "Damaged McDonald's sign against a blue sky, with the golden arches intact but the lower rectangular frame stripped of panels, leaving exposed metal struts and a partial red \"'s\" lettering remnant."
 geo:
   address: ''
   lat: 0.0

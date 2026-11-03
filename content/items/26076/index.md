@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7032_e08f9a8bd5.jpg
     thumb: /files/thumbnails/14fb29db5e89d114fb29db5e8ba5.jpg
     url: /files/original/14fb29db5e89d114fb29db5e8ba5.jpg
+    alt:
+      en: "Sepia-toned photograph of a wooden Catholic church with a tall steeple, covered entrance porch, and picket fence, with a utility pole and trees nearby and a child standing by the fence."
 geo:
   address: ''
   lat: 29.87876

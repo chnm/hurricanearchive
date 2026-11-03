@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ea932bc014fb29ea932fa6.jpg
     url: /files/original/14fb29ea932bc014fb29ea932fa6.jpg
+    alt:
+      en: "Front view of a heavy-duty truck cab marked \"CCC\" on the grille, with amber roof-mounted beacon lights and two people visible through the windshield behind the wipers."
 geo:
 id: 24108
 item_type: Still Image

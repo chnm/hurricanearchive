@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (62).JPG
     thumb: /files/thumbnails/14fb2a5d54aa8714fb2a5d54ae61.jpg
     url: /files/original/14fb2a5d54aa8714fb2a5d54ae61.jpg
+    alt:
+      en: "A boarded-up doorway and window on a white house, with spray-painted warning text reading \"LOOK NOTE LOOTER + TRESPASSER WILL BE SHOT!\" beside a black metal porch railing."
 geo:
 id: 3214
 item_type: Still Image

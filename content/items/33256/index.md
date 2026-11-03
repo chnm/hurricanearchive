@@ -23,6 +23,8 @@ files:
     original_filename: 1226263344_6b5d1961db.jpg
     thumb: /files/thumbnails/14fb29cb15bc6914fb29cb15c2fd.jpg
     url: /files/original/14fb29cb15bc6914fb29cb15c2fd.jpg
+    alt:
+      en: "Collapsed roof timbers and debris fill a storm-damaged storefront, with an open glass door at left, scattered wood planks, rusted metal sheets, and a small potted plant amid the wreckage."
 geo:
 id: 33256
 item_type: Still Image

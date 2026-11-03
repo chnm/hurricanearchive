@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1910superdome.JPG
     thumb: /files/thumbnails/14fb29e0d8928c14fb29e0d89672.jpg
     url: /files/original/14fb29e0d8928c14fb29e0d89672.jpg
+    alt:
+      en: "Soldiers in camouflage fatigues carry rifles, backpacks, and gear as they disembark from a military helicopter parked on a concrete lot, with stacked boxes visible in the background."
 geo:
 id: 25211
 item_type: Still Image

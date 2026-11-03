@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0030_8949c39568.JPG
     thumb: /files/thumbnails/14fb2a6feae5a714fb2a6feae9f2.jpg
     url: /files/original/14fb2a6feae5a714fb2a6feae9f2.jpg
+    alt:
+      en: "White sand beach strewn with storm debris—driftwood, twigs, and scattered wreckage—extending to a calm gray sea under an overcast sky, with a distant pier visible on the horizon."
 geo:
   address: ''
   lat: 29.993002284551103

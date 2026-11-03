@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0255.JPG
     thumb: /files/thumbnails/14fb2a55c538c714fb2a55c861df.jpg
     url: /files/original/14fb2a55c538c714fb2a55c861df.jpg
+    alt:
+      en: "Damaged bathroom with a stained bathtub and floral shower curtain, a grimy toilet, and water-damaged walls showing extensive discoloration and debris throughout."
 geo:
 id: 4745
 item_type: Still Image

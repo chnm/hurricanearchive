@@ -21,6 +21,8 @@ files:
     original_filename: DSCN1514.JPG
     thumb: /files/thumbnails/14fb2a1b9e056314fb2a1b9e0948.jpg
     url: /files/original/14fb2a1b9e056314fb2a1b9e0948.jpg
+    alt:
+      en: "A U.S. Army officer with a single-star insignia and nametag \"DEERING\" sits in a library-like room with magazine shelves, computer monitors, and a red chair visible behind him; dated 09.21.2005."
 geo:
   address: ''
   lat: 0.0

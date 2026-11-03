@@ -21,6 +21,8 @@ files:
     original_filename: museumbg_828ca03edc.jpg
     thumb: /files/thumbnails/14fb29d9da841a14fb29d9db35f8.jpg
     url: /files/original/14fb29d9da841a14fb29d9db35f8.jpg
+    alt:
+      en: "Faded photo of a white single-story house with a wraparound columned porch, dormer windows, and damaged roof shingles, set among trees along a walkway."
 geo:
 id: 26170
 item_type: Still Image

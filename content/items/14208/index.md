@@ -21,6 +21,8 @@ files:
     original_filename: communication van.JPG
     thumb: /files/thumbnails/14fb2a1a97660f14fb2a1a976a09.jpg
     url: /files/original/14fb2a1a97660f14fb2a1a976a09.jpg
+    alt:
+      en: "A GMC communication van with emergency lights, antennas, and a bright license plate light sits parked beneath silhouetted trees under a glowing orange and pink dusk sky."
 geo:
   address: ''
   lat: 0.0

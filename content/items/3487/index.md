@@ -24,6 +24,8 @@ files:
     original_filename: P1010061.JPG
     thumb: /files/thumbnails/14fb2a5b835c5e14fb2a5b83603a.jpg
     url: /files/original/14fb2a5b835c5e14fb2a5b83603a.jpg
+    alt:
+      en: "A mud-caked sofa with a patterned blanket sits amid debris, flanked by two wooden cable spools and scattered trash including beer cans, spray paint, and torn insulation bags."
 geo:
 id: 3487
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0129-9-25.JPG
     thumb: /files/thumbnails/14fb29e609b26114fb29e609b645.jpg
     url: /files/original/14fb29e609b26114fb29e609b645.jpg
+    alt:
+      en: "Aerial view of a flooded rural landscape with a submerged road running diagonally through marshland, scattered trees, debris, and standing floodwater extending to the horizon."
 geo:
 id: 24627
 item_type: Still Image

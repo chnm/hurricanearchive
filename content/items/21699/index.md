@@ -21,6 +21,8 @@ files:
     original_filename: FH000028-9-23.jpg
     thumb: /files/thumbnails/14fb29fc5d46d214fb29fc5d4a1b.jpg
     url: /files/original/14fb29fc5d46d214fb29fc5d4a1b.jpg
+    alt:
+      en: "Storm-damaged residential street with a collapsed garage roof, an overturned vehicle resting against the debris, and a dry, mud-covered yard strewn with branches and debris."
 geo:
 id: 21699
 item_type: Still Image

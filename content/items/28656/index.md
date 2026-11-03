@@ -23,6 +23,8 @@ files:
     original_filename: 158169391_06bb1000de.jpg
     thumb: /files/thumbnails/14fb29d1e6fe5814fb29d1e7023d.jpg
     url: /files/original/14fb29d1e6fe5814fb29d1e7023d.jpg
+    alt:
+      en: "A storm-damaged house with a collapsed porch and scattered debris stands amid mud and standing water, with a partially demolished neighboring structure visible to the left."
 geo:
 id: 28656
 item_type: Still Image

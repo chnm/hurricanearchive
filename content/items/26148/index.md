@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5767_ffb4fffbb5.jpg
     thumb: /files/thumbnails/14fb29da095ba114fb29da096054.jpg
     url: /files/original/14fb29da095ba114fb29da096054.jpg
+    alt:
+      en: "Framed black-and-white photograph of an infant in a white christening gown with a cross necklace, seated in a wicker chair; a small label with handwritten marks rests at the chair's base."
 geo:
 id: 26148
 item_type: Still Image

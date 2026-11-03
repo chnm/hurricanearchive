@@ -21,6 +21,8 @@ files:
     original_filename: Picture 208cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b48d65f14fb2a0b48d7a7.jpg
     url: /files/original/14fb2a0b48d65f14fb2a0b48d7a7.jpg
+    alt:
+      en: "Houses with roof damage exposing plywood underlayment, set on a grassy hill with palm trees in the foreground, under a partly cloudy sky."
 geo:
 id: 20111
 item_type: Still Image

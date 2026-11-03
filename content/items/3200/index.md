@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (5).JPG
     thumb: /files/thumbnails/14fb2a5d5e4ab114fb2a5d5e4e8f.jpg
     url: /files/original/14fb2a5d5e4ab114fb2a5d5e4e8f.jpg
+    alt:
+      en: "A white utility trailer sits parked beside a staircase leading to a two-story building with arched doorways and iron-railed balconies, with a pickup truck visible nearby and dry leaves scattered on the ground."
 geo:
 id: 3200
 item_type: Still Image

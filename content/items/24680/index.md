@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00781 DSC00781cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5b3141a14fb29e5b317ff.jpg
     url: /files/original/14fb29e5b3141a14fb29e5b317ff.jpg
+    alt:
+      en: "Military officers in camouflage uniforms shake hands amid a group of onlookers in a parking lot, with a damaged building, storm-stripped trees, and downed power lines visible in the background."
 geo:
 id: 24680
 item_type: Still Image

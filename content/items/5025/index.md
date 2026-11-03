@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0370.JPG
     thumb: /files/thumbnails/14fb2a545e0ec414fb2a545e12e2.jpg
     url: /files/original/14fb2a545e0ec414fb2a545e12e2.jpg
+    alt:
+      en: "A storm-damaged house reduced to its wooden support posts and foundation slab, with debris scattered across the concrete and gravel yard; the number \"301\" is marked on a post at left."
 geo:
 id: 5025
 item_type: Still Image

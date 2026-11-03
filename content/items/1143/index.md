@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28349.jpg
     thumb: /files/thumbnails/14fb2a6ad0711314fb2a6ad074fc.jpg
     url: /files/original/14fb2a6ad0711314fb2a6ad074fc.jpg
+    alt:
+      en: "A dark fabric garment, possibly a casino employee shirt, lies crumpled against a tree trunk amid fallen leaves, debris, and tangled wire fencing, with a \"Cruise\" logo patch visible nearby."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-32_0fb98f5055.jpg
     thumb: /files/thumbnails/14fb2a1628e8c414fb2a1628ecaa.jpg
     url: /files/original/14fb2a1628e8c414fb2a1628ecaa.jpg
+    alt:
+      en: "A young red-haired boy in a navy T-shirt leans on a stone wall, gazing off to the side, with a blurred sandy landscape in the background."
 geo:
 id: 15500
 item_type: Still Image

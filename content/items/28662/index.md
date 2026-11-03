@@ -25,6 +25,8 @@ files:
     original_filename: 158072461_a6dc96eaaa.jpg
     thumb: /files/thumbnails/14fb29d1e197e514fb29d1e19bcb.jpg
     url: /files/original/14fb29d1e197e514fb29d1e19bcb.jpg
+    alt:
+      en: "Collapsed house with a fallen utility pole leaning across its caved-in roof, surrounded by overgrown grass and debris, with a chain-link fence in the foreground and other houses visible nearby."
 geo:
 id: 28662
 item_type: Still Image

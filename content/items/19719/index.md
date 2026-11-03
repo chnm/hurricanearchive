@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 106cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e3381f314fb2a0e3385d9.jpg
     url: /files/original/14fb2a0e3381f314fb2a0e3385d9.jpg
+    alt:
+      en: "Deserted storm-damaged street lined with debris, downed power lines, and scattered shoes, with a \"Welcome to St. Bernard Parish\" sign and Rally's and AutoZone signage visible amid storefronts."
 geo:
 id: 19719
 item_type: Still Image

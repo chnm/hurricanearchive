@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0107H.JPG
     thumb: /files/thumbnails/14fb29e7331ab114fb29e7331f89.jpg
     url: /files/original/14fb29e7331ab114fb29e7331f89.jpg
+    alt:
+      en: "A man in military camouflage uniform and beret poses with five women wearing Hooters uniforms, with string lights visible in the dark background."
 geo:
 id: 24510
 item_type: Still Image

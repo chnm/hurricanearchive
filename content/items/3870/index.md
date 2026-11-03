@@ -21,6 +21,8 @@ files:
     original_filename: 100_0163.JPG
     thumb: /files/thumbnails/14fb2a59281a2a14fb2a59281e19.jpg
     url: /files/original/14fb2a59281a2a14fb2a59281e19.jpg
+    alt:
+      en: "Floodwaters submerge houses up to their rooflines, with only rooftops visible above the water; a helicopter flies in the hazy sky above, and trees line the flooded neighborhood."
 geo:
 id: 3870
 item_type: Still Image

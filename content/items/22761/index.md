@@ -21,6 +21,8 @@ files:
     original_filename: S4300117Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f42c27fb14fb29f42c2be9.jpg
     url: /files/original/14fb29f42c27fb14fb29f42c2be9.jpg
+    alt:
+      en: "A collapsed brick wall lies in broken segments along a street, with power lines, utility poles, trees, and houses visible in the background; part of the foreground is obscured by dark equipment."
 geo:
 id: 22761
 item_type: Still Image

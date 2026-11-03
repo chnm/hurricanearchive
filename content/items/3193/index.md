@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (43).JPG
     thumb: /files/thumbnails/14fb2a5d630f6f14fb2a5d631352.jpg
     url: /files/original/14fb2a5d630f6f14fb2a5d631352.jpg
+    alt:
+      en: "Debris-strewn empty lot in front of a damaged, teal-trimmed storefront reading \"Danny's Seafood,\" with a boarded window and an abandoned multi-story building beyond."
 geo:
 id: 3193
 item_type: Still Image

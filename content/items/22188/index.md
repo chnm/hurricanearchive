@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0995Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f9310c8d14fb29f931106f.jpg
     url: /files/original/14fb29f9310c8d14fb29f931106f.jpg
+    alt:
+      en: "Military convoy of large tan tanker trucks with headlights on, passing through a gated entrance near a brick guardhouse and building under an overcast sky."
 geo:
 id: 22188
 item_type: Still Image

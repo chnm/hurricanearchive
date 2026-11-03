@@ -21,6 +21,8 @@ files:
     original_filename: P1010195empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed42209b14fb29ed424231.jpg
     url: /files/original/14fb29ed42209b14fb29ed424231.jpg
+    alt:
+      en: "A blue and yellow metal bridge railing, strewn with storm debris, overlooks a canal leading to a lock structure, with a damaged elevated house and downed trees in the background."
 geo:
 id: 23754
 item_type: Still Image

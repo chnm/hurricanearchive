@@ -20,6 +20,8 @@ files:
     original_filename: Lake Villa_cfbf2b48c6.jpg
     thumb: /files/thumbnails/14fb2a165937f214fb2a16593fbe.jpg
     url: /files/original/14fb2a165937f214fb2a16593fbe.jpg
+    alt:
+      en: "Row of white travel trailers, including one labeled \"Dutchmen,\" parked on blocks beside a muddy, debris-strewn yard with trash cans and bare trees, dated 02.03.2006."
 geo:
   address: ''
   lat: 30.00991

@@ -21,6 +21,8 @@ files:
     original_filename: LTC Mouton briefing the mediarita.jpg
     thumb: /files/thumbnails/14fb2a1195235e14fb2a11952750.jpg
     url: /files/original/14fb2a1195235e14fb2a11952750.jpg
+    alt:
+      en: "A soldier in camouflage uniform with a \"Mountain\" tab, 10th Mountain Division patch, and American flag patch stands in profile, facing a man in a black polo shirt writing on a notepad."
 geo:
 id: 19259
 item_type: Still Image

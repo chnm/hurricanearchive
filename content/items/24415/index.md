@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0089H.JPG
     thumb: /files/thumbnails/14fb29e824fe2c14fb29e8269377.jpg
     url: /files/original/14fb29e824fe2c14fb29e8269377.jpg
+    alt:
+      en: "Two women wearing white Hooters tank tops reading \"Siegen Lane, Baton Rouge II, LA,\" standing in a dimly lit outdoor setting with string lights visible in the background."
 geo:
 id: 24415
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9306.jpg
     thumb: /files/thumbnails/14fb2a648e38a414fb2a648e3c61.jpg
     url: /files/original/14fb2a648e38a414fb2a648e3c61.jpg
+    alt:
+      en: "Plywood board covering a window, spray-painted with the message \"I Told you We Should've Moved to DENVER!\", set into a brick house with maroon shutters and a bare shrub nearby."
 geo:
 id: 2585
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-001S.JPG
     thumb: /files/thumbnails/14fb2a5f990b7414fb2a5f990f5a.jpg
     url: /files/original/14fb2a5f990b7414fb2a5f990f5a.jpg
+    alt:
+      en: "Interior view through a large open freight-elevator or loading doorway into a dark room with black pillars and a partially visible poster; a metal ladder and ornate bench sit on the dusty concrete floor nearby."
 geo:
 id: 2912
 item_type: Still Image

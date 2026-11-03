@@ -26,6 +26,8 @@ files:
     original_filename: 100_5841_e6133bb842.JPG
     thumb: /files/thumbnails/14fb2a711439ae14fb2a71143d66.jpg
     url: /files/original/14fb2a711439ae14fb2a71143d66.jpg
+    alt:
+      en: "Brick church with a white steeple whose spire is bent and damaged, set against a clear blue sky, with a sign reading \"Edgewater Baptist Church\" near the entrance below."
 geo:
   address: ''
   lat: 30.005653

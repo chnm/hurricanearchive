@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0020.JPG
     thumb: /files/thumbnails/14fb2a0ae6b2db14fb2a0ae6ba55.jpg
     url: /files/original/14fb2a0ae6b2db14fb2a0ae6ba55.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood with rooftops and trees lining streets, bordered by a body of water, photographed from an aircraft with part of the plane's structure visible in frame."
 geo:
 id: 20183
 item_type: Still Image

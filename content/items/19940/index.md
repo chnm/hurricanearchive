@@ -21,6 +21,8 @@ files:
     original_filename: Picture 036cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c477b9314fb2a0c477f74.jpg
     url: /files/original/14fb2a0c477b9314fb2a0c477f74.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand on grass near a military vehicle, with a damaged Rite Aid Pharmacy building and scattered debris visible in the background."
 geo:
 id: 19940
 item_type: Still Image

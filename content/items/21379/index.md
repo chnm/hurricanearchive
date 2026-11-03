@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0241-21.JPG
     thumb: /files/thumbnails/14fb29ff14637c14fb29ff146758.jpg
     url: /files/original/14fb29ff14637c14fb29ff146758.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with rows of foundations stripped bare, scattered debris, and abandoned cars along grid-patterned streets, with intact houses and trees visible in the background."
 geo:
 id: 21379
 item_type: Still Image

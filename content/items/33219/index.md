@@ -17,6 +17,8 @@ files:
     original_filename: 1267499686_5525736cee.jpg
     thumb: /files/thumbnails/14fb29cb7af50714fb29cb7af8ad.jpg
     url: /files/original/14fb29cb7af50714fb29cb7af8ad.jpg
+    alt:
+      en: "Stenciled street art of an American flag with a blue square replacing the stars and a fleur-de-lis over the stripes, captioned \"WE ARE NOT OK\" and dated \"8.29.2007.\""
 geo:
 id: 33219
 item_type: Still Image

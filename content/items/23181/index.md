@@ -21,6 +21,8 @@ files:
     original_filename: P1010001delaware.JPG
     thumb: /files/thumbnails/14fb29f12f009d14fb29f12f0481.jpg
     url: /files/original/14fb29f12f009d14fb29f12f0481.jpg
+    alt:
+      en: "Group of soldiers in camouflage uniforms gathered inside a large hall with folding chairs, some standing and talking near a table while others sit, with a helicopter mural and unit banner visible on the wall behind them."
 geo:
 id: 23181
 item_type: Still Image

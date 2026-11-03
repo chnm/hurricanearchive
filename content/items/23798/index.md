@@ -21,6 +21,8 @@ files:
     original_filename: S4300043neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed04b83914fb29ed04bc17.jpg
     url: /files/original/14fb29ed04b83914fb29ed04bc17.jpg
+    alt:
+      en: "Military trucks drive through a flooded city street lined with high-rise buildings, with water splashing up around their tires as they pass through an intersection."
 geo:
 id: 23798
 item_type: Still Image

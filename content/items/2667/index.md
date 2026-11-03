@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9251.jpg
     thumb: /files/thumbnails/14fb2a60a7e6ea14fb2a60a7eda6.jpg
     url: /files/original/14fb2a60a7e6ea14fb2a60a7eda6.jpg
+    alt:
+      en: "Displaced concrete grave vaults and a rusted metal casket lid lie scattered across dry grass, with a wooden stake marker and a fallen tree in the background."
 geo:
 id: 2667
 item_type: Still Image

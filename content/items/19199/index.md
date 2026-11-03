@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 109.jpg
     thumb: /files/thumbnails/14fb2a11e063e114fb2a11e06ae7.jpg
     url: /files/original/14fb2a11e063e114fb2a11e06ae7.jpg
+    alt:
+      en: "A lone chair and a plastic picnic table sit on a sidewalk beside a debris-strewn lot with damaged structures, railroad tracks, wrecked vehicles, and downed power lines in the background."
 geo:
 id: 19199
 item_type: Still Image

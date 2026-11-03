@@ -24,6 +24,8 @@ files:
     original_filename: P1010053.JPG
     thumb: /files/thumbnails/14fb2a5a9c25fb14fb2a5a9c29e0.jpg
     url: /files/original/14fb2a5a9c25fb14fb2a5a9c29e0.jpg
+    alt:
+      en: "A large \"Periodic Table of the Elements\" chart from Science Kit & Boreal Laboratories leans against a brick wall, propped by a metal bar, on a dirty tiled floor near a doorway."
 geo:
 id: 3619
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2088superdome.JPG
     thumb: /files/thumbnails/14fb29dea8b9ff14fb29dea8bde4.jpg
     url: /files/original/14fb29dea8b9ff14fb29dea8bde4.jpg
+    alt:
+      en: "A CH-47 Chinook helicopter sits on a rooftop helipad with rotors spinning as several uniformed personnel stand at its rear loading ramp, elevated highways and city buildings visible in the background."
 geo:
 id: 25361
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1165Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f72aceff14fb29f72ad2e4.jpg
     url: /files/original/14fb29f72aceff14fb29f72ad2e4.jpg
+    alt:
+      en: "Flooded yard shrouded in heavy rain and fog, with floodwater submerging a lamppost base, mailbox, iron fence, and bare trees in front of a building."
 geo:
 id: 22349
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a061ae9cd14fb2a061aedab.jpg
     url: /files/original/14fb2a061ae9cd14fb2a061aedab.jpg
+    alt:
+      en: "Silhouette of a person with windblown hair looking out of an aircraft's open door at a flooded, muddy landscape below."
 geo:
 id: 20566
 item_type: Still Image

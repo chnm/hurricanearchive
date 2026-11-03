@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0241downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14a0601914fb2a14a063ff.jpg
     url: /files/original/14fb2a14a0601914fb2a14a063ff.jpg
+    alt:
+      en: "Aerial view of a devastated neighborhood with only building foundations and scattered debris remaining in the foreground, while intact houses and trees stand in the background."
 geo:
 id: 18891
 item_type: Still Image

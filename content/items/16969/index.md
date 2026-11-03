@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5896_b59549ec09.jpg
     thumb: /files/thumbnails/14fb2a15acc67314fb2a15acca4a.jpg
     url: /files/original/14fb2a15acc67314fb2a15acca4a.jpg
+    alt:
+      en: "Cover of a souvenir program titled \"Blessing of the Shrimp Fleet,\" listing Ysloskey (Aug. 4, 1974) and Delacroix Island (Aug. 11, 1974), with a signature and a photo of two women, Diane D'Avy and Diane Hooley, standing before palm fronds."
 geo:
 id: 16969
 item_type: Still Image

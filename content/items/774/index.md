@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28327.jpg
     thumb: /files/thumbnails/14fb2a6d1b49fb14fb2a6d1b4de0.jpg
     url: /files/original/14fb2a6d1b49fb14fb2a6d1b4de0.jpg
+    alt:
+      en: "Severely storm-damaged building with exposed wooden framing and insulation, elevated on pilings, surrounded by debris and bare trees, with another damaged structure visible in the background."
 geo:
   address: ''
   lat: 0.0

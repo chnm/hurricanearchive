@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0165.JPG
     thumb: /files/thumbnails/14fb2a09be7cc514fb2a09be80a7.jpg
     url: /files/original/14fb2a09be7cc514fb2a09be80a7.jpg
+    alt:
+      en: "Aerial view of a hazy city skyline with high-rise buildings and a domed stadium with partially damaged roofing, surrounded by highways and industrial areas under an overcast sky."
 geo:
 id: 20302
 item_type: Still Image

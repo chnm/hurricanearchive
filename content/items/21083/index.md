@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0173-9-25.JPG
     thumb: /files/thumbnails/14fb2a00a7911814fb2a00a794fe.jpg
     url: /files/original/14fb2a00a7911814fb2a00a794fe.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters covering fields and roadways, with bare trees emerging from the water and damaged structures partially submerged near a tree line."
 geo:
 id: 21083
 item_type: Still Image

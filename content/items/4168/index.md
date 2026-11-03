@@ -21,6 +21,8 @@ files:
     original_filename: P1010039.JPG
     thumb: /files/thumbnails/14fb2a5751685514fb2a57516c3b.jpg
     url: /files/original/14fb2a5751685514fb2a57516c3b.jpg
+    alt:
+      en: "Aerial view of a narrow barrier beach separating the ocean from an inland lagoon, with scattered debris visible along the sandy strip between the shoreline and marshy wetlands."
 geo:
 id: 4168
 item_type: Still Image

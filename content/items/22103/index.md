@@ -21,6 +21,8 @@ files:
     original_filename: 09210021J6.JPG
     thumb: /files/thumbnails/14fb29f9864c0a14fb29f98657ba.jpg
     url: /files/original/14fb29f9864c0a14fb29f98657ba.jpg
+    alt:
+      en: "Military Humvee with multiple tall antennas parked on grassy ground near a dirt area, with a towboat pushing barges labeled \"SC\" and \"Ingram Barge Co.\" visible on the water behind it."
 geo:
 id: 22103
 item_type: Still Image

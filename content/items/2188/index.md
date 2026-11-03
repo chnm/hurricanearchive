@@ -26,6 +26,8 @@ files:
     original_filename: d24_353e7414aa.JPG
     thumb: /files/thumbnails/14fb2a6d7cc34814fb2a6d7cc82e.jpg
     url: /files/original/14fb2a6d7cc34814fb2a6d7cc82e.jpg
+    alt:
+      en: "A woman in a tan suit shakes hands with a man wearing a red cap and Red Cross vest at a desk covered in maps and paperwork, with other staff and a wall chart labeled \"SHELTERS\" in the background."
 geo:
   address: ''
   lat: 27.18608

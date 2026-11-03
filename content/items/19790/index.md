@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 177cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dce3a6414fb2a0dce3e23.jpg
     url: /files/original/14fb2a0dce3a6414fb2a0dce3e23.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with shattered windows, torn roofing, and debris scattered across a rooftop; several workers in white stand near damaged equipment below."
 geo:
 id: 19790
 item_type: Still Image

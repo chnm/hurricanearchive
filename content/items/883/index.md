@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28095.jpg
     thumb: /files/thumbnails/14fb2a6c847c8b14fb2a6c848070.jpg
     url: /files/original/14fb2a6c847c8b14fb2a6c848070.jpg
+    alt:
+      en: "A house with storm-damaged siding and a blue tarp covering part of its roof, seen through trees and power lines, with a camper and truck parked nearby."
 geo:
   address: ''
   lat: 0.0

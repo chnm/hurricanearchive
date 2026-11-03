@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28068.jpg
     thumb: /files/thumbnails/14fb2a6c396a4514fb2a6c396e57.jpg
     url: /files/original/14fb2a6c396a4514fb2a6c396e57.jpg
+    alt:
+      en: "Street signs for \"Robert E. Lee Blvd\" and \"Pontchartrain Blvd\" lean askew near a bent \"No Turn\" sign, with storm debris, bare trees, and a damaged house in the background."
 geo:
   address: ''
   lat: 0.0

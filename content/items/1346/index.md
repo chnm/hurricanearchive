@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28514.jpg
     thumb: /files/thumbnails/14fb2a6968aa2814fb2a6968ae05.jpg
     url: /files/original/14fb2a6968aa2814fb2a6968ae05.jpg
+    alt:
+      en: "A man wearing a cap, protective face mask, and gloves carries a blue plastic basket filled with items along a sidewalk in front of a brick building with bare trees and scattered debris."
 geo:
   address: ''
   lat: 0.0

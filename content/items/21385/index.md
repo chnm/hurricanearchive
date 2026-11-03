@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0242-9-25.JPG
     thumb: /files/thumbnails/14fb29ff10ed0214fb29ff10f0df.jpg
     url: /files/original/14fb29ff10ed0214fb29ff10f0df.jpg
+    alt:
+      en: "Aerial view of a flooded industrial facility with storage tanks and piping surrounded by standing water, with cattle grazing in an adjacent green field in the foreground."
 geo:
 id: 21385
 item_type: Still Image

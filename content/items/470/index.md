@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0313_e8ea33cfc4.JPG
     thumb: /files/thumbnails/14fb2a6fc7f28714fb2a6fc7f652.jpg
     url: /files/original/14fb2a6fc7f28714fb2a6fc7f652.jpg
+    alt:
+      en: "A boat sits grounded on dirt and grass beside a street, beneath overhanging trees, in front of a large multi-story building with many broken windows."
 geo:
   address: ''
   lat: 29.9549345496561

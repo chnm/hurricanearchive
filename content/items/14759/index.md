@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_09_1598cb21e7.jpg
     thumb: /files/thumbnails/14fb2a17e0897a14fb2a17e08d5f.jpg
     url: /files/original/14fb2a17e0897a14fb2a17e08d5f.jpg
+    alt:
+      en: "Young girl in a school uniform with white blouse, navy tie and skirt, hair in decorated puffs, stands on a sidewalk in front of a house with a porch and a parked car nearby."
 geo:
 id: 14759
 item_type: Still Image

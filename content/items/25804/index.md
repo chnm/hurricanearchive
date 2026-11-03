@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-5794_f9f7d4d6ff.jpg
     thumb: /files/thumbnails/14fb29dc1c60f114fb29dc1c7452.jpg
     url: /files/original/14fb29dc1c60f114fb29dc1c7452.jpg
+    alt:
+      en: "Group of nine people posing indoors at a formal event, several women holding single yellow roses, standing behind a table set with wine glasses; date stamp \"3 4\" visible in bottom corner."
 geo:
 id: 25804
 item_type: Still Image

@@ -17,6 +17,8 @@ files:
     original_filename: 1267587754_153fa170fb.jpg
     thumb: /files/thumbnails/14fb29cb81c0e414fb29cb81d03b.jpg
     url: /files/original/14fb29cb81c0e414fb29cb81d03b.jpg
+    alt:
+      en: "Collapsed structure with a green wooden ladder or shutter amid scattered debris, broken pottery, wood planks, and twisted metal pipes, with a damaged building wall and siding visible in the background."
 geo:
 id: 33217
 item_type: Still Image

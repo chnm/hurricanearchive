@@ -21,6 +21,8 @@ files:
     original_filename: 100_0161.JPG
     thumb: /files/thumbnails/14fb2a592a871d14fb2a592a8b00.jpg
     url: /files/original/14fb2a592a871d14fb2a592a8b00.jpg
+    alt:
+      en: "A small motorboat carrying two people navigates floodwaters beneath bare, partially submerged trees, with a flooded house roofline visible in the background."
 geo:
 id: 3868
 item_type: Still Image

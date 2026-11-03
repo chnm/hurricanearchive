@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 061.jpg
     thumb: /files/thumbnails/14fb2a12b8fecb14fb2a12b90a80.jpg
     url: /files/original/14fb2a12b8fecb14fb2a12b90a80.jpg
+    alt:
+      en: "A diesel generator powers appliances and a washing machine outdoors, with jugs of Clorox bleach and Tide detergent nearby, a cinder block, and a red \"236-20\" dumpster in the background."
 geo:
 id: 19151
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0069-16.JPG
     thumb: /files/thumbnails/14fb2a042bd62b14fb2a042bda10.jpg
     url: /files/original/14fb2a042bd62b14fb2a042bda10.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms and hard hats stand on a gravel road near military trucks, with houses and a pickup truck visible in the background."
 geo:
 id: 20742
 item_type: Still Image

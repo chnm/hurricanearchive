@@ -26,6 +26,8 @@ files:
     original_filename: 028_28_54bed52600.JPG
     thumb: /files/thumbnails/14fb2a6f80b8e914fb2a6f80bcd4.jpg
     url: /files/original/14fb2a6f80b8e914fb2a6f80bcd4.jpg
+    alt:
+      en: "Skeletal remains of a large A-frame building reduced to its rust-red steel frame, with torn metal roofing and twisted debris scattered on the ground amid damaged trees."
 geo:
   address: ''
   lat: 30.374646

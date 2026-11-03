@@ -24,6 +24,8 @@ files:
     original_filename: P1010105.JPG
     thumb: /files/thumbnails/14fb2a5b06d4d914fb2a5b070d20.jpg
     url: /files/original/14fb2a5b06d4d914fb2a5b070d20.jpg
+    alt:
+      en: "Underside of an elevated house with white support columns and a visible horizontal water stain line across the lower wall, seen through a chain-link fence surrounded by bare dirt and debris."
 geo:
 id: 3530
 item_type: Still Image

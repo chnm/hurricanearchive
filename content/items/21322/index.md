@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0227-9-25.JPG
     thumb: /files/thumbnails/14fb29ff82a36114fb29ff82abfb.jpg
     url: /files/original/14fb29ff82a36114fb29ff82abfb.jpg
+    alt:
+      en: "Aerial view (rotated) of a flooded industrial facility with rows of cylindrical storage tanks, large cable spools, and piping equipment surrounded by standing floodwater and trees."
 geo:
 id: 21322
 item_type: Still Image

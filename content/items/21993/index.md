@@ -21,6 +21,8 @@ files:
     original_filename: Picture 324-J2.jpg
     thumb: /files/thumbnails/14fb29fa3d984114fb29fa3d9bf9.jpg
     url: /files/original/14fb29fa3d984114fb29fa3d9bf9.jpg
+    alt:
+      en: "Blurred outdoor scene with several people in dark uniforms near a bench, red and white emergency vehicles, and a building with arched windows in the background, framed by green shrubs in the foreground."
 geo:
 id: 21993
 item_type: Still Image

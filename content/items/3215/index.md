@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (63).JPG
     thumb: /files/thumbnails/14fb2a5d52688814fb2a5d52d8b6.jpg
     url: /files/original/14fb2a5d52688814fb2a5d52d8b6.jpg
+    alt:
+      en: "Interior of a damaged building cluttered with debris, including a plastic chair, potted plant, wooden cabinet, air conditioning unit, shop vacuum, and a black equipment case on a dirty floor."
 geo:
 id: 3215
 item_type: Still Image

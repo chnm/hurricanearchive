@@ -24,6 +24,8 @@ files:
     original_filename: Lyndel house (1) (2)_bdd74513a7.jpg
     thumb: /files/thumbnails/14fb29ca68c82214fb29ca68cc08.jpg
     url: /files/original/14fb29ca68c82214fb29ca68cc08.jpg
+    alt:
+      en: "Devastated living room with peeling, water-stained walls, a collapsed ceiling, and debris covering the floor; a light fixture hangs above scattered papers, a gold ornament, and a framed picture still on the wall."
 geo:
   address: ''
   lat: 0.0

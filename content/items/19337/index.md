@@ -21,6 +21,8 @@ files:
     original_filename: J2 (53).JPG
     thumb: /files/thumbnails/14fb2a1114267814fb2a11142a5c.jpg
     url: /files/original/14fb2a1114267814fb2a11142a5c.jpg
+    alt:
+      en: "Aerial view of a downtown city street lined with high-rise buildings, including one labeled \"Sheraton\" and another \"DoubleTree,\" with numerous vehicles, including white trucks, parked along the road."
 geo:
 id: 19337
 item_type: Still Image

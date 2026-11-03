@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0683.JPG
     thumb: /files/thumbnails/14fb2a533bb15014fb2a533bb536.jpg
     url: /files/original/14fb2a533bb15014fb2a533bb536.jpg
+    alt:
+      en: "Damaged asphalt shingle roof covered with scattered pine needles and debris, with a white fascia board along the edge; a road, parked vehicle, and trees are visible in the background."
 geo:
 id: 5238
 item_type: Still Image

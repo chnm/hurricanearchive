@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-11-10A.jpg
     thumb: /files/thumbnails/14fb29e9048fd114fb29e90493b6.jpg
     url: /files/original/14fb29e9048fd114fb29e90493b6.jpg
+    alt:
+      en: "Military personnel and rescue workers wade through deep floodwater near a \"Wildlife\" enforcement truck and military vehicles, assisting civilians beneath an elevated highway overpass."
 geo:
 id: 24291
 item_type: Still Image

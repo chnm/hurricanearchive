@@ -21,6 +21,8 @@ files:
     original_filename: Picture 296-J2.jpg
     thumb: /files/thumbnails/14fb29facee81d14fb29faceebf5.jpg
     url: /files/original/14fb29facee81d14fb29faceebf5.jpg
+    alt:
+      en: "Floodwaters surround a multi-story white building and low industrial structure, submerging streets and utility poles, with a bridge and traffic signals visible in the background under a clear blue sky."
 geo:
 id: 21965
 item_type: Still Image

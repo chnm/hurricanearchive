@@ -21,6 +21,8 @@ files:
     original_filename: 100_0190.JPG
     thumb: /files/thumbnails/14fb2a5916db1c14fb2a5916df02.jpg
     url: /files/original/14fb2a5916db1c14fb2a5916df02.jpg
+    alt:
+      en: "Three military helicopters sit on a grassy field near rows of large white sandbags, with dump trucks and personnel visible in the background under a clear sky."
 geo:
 id: 3894
 item_type: Still Image

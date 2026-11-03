@@ -21,6 +21,8 @@ files:
     original_filename: MVC-016S.JPG
     thumb: /files/thumbnails/14fb2a5f911ca914fb2a5f912096.jpg
     url: /files/original/14fb2a5f911ca914fb2a5f912096.jpg
+    alt:
+      en: "Stainless steel bar counter with rows of drinking glasses and beer tap handles, backed by white diamond-patterned metal security grates over the wall."
 geo:
 id: 2927
 item_type: Still Image

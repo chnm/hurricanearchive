@@ -25,12 +25,16 @@ files:
     original_filename: Dot Benge_5721_3aa6589b13.jpg
     thumb: /files/thumbnails/14fb29da774c5114fb29da775034.jpg
     url: /files/original/14fb29da774c5114fb29da775034.jpg
+    alt:
+      en: "Water-damaged family photo with heavy mold and discoloration obscuring most details; a man in a white shirt, likely Ramon Felippe Esteves, stands with a child in a striped shirt beside him."
   - fullsize: /files/fullsize/14fb29da730ac714fb29da730f3e.jpg
     id: 22714
     mime: image/jpeg
     original_filename: Dot Benge_5722_8bf523753b.jpg
     thumb: /files/thumbnails/14fb29da730ac714fb29da730f3e.jpg
     url: /files/original/14fb29da730ac714fb29da730f3e.jpg
+    alt:
+      en: "Severely water-damaged photograph showing two people, one in a light-colored shirt and another in a striped shirt, their faces and clothing obscured by heavy mold, staining, and emulsion damage."
 geo:
 id: 26121
 item_type: Still Image

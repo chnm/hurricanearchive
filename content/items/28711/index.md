@@ -20,6 +20,8 @@ files:
     original_filename: 114539661_bafd0c0ea4.jpg
     thumb: /files/thumbnails/14fb29d16e78ce14fb29d16e7cbd.jpg
     url: /files/original/14fb29d16e78ce14fb29d16e7cbd.jpg
+    alt:
+      en: "Interior of a flood-damaged car showing dirty, mildew-stained seats, a chunk of concrete debris on the driver's seat, and a yellow plastic fuse box or storage case wedged against the door."
 geo:
 id: 28711
 item_type: Still Image

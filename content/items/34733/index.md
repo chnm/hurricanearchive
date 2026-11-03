@@ -20,6 +20,8 @@ files:
     original_filename: 2421694808_2fbcb3eeab.
     thumb: /files/thumbnails/14fb29c919405e14fb29c91968a0.jpg
     url: /files/original/14fb29c919405e14fb29c91968a0.jpg
+    alt:
+      en: "A weathered mobile home with corrugated metal siding stands on blocks, surrounded by trees, plastic chairs, a small table, buckets, and scattered wood planks in a grassy yard."
 geo:
 id: 34733
 item_type: Still Image

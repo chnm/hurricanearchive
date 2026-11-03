@@ -18,6 +18,8 @@ files:
     original_filename: 22_add4308878.jpg
     thumb: /files/thumbnails/14fb29c70c2e6f14fb29c70c3256.jpg
     url: /files/original/14fb29c70c2e6f14fb29c70c3256.jpg
+    alt:
+      en: "Marching band members in red and white uniforms with red berets walk down a tree-lined street, carrying rifles and a large cymbal, with \"Pussycat\" written on one baton and historic houses in the background."
 geo:
   address: new orleans, la
   lat: 29.95324

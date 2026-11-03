@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7012_dd1fd2f73f.jpg
     thumb: /files/thumbnails/14fb29db6cae0114fb29db6cb1e5.jpg
     url: /files/original/14fb29db6cae0114fb29db6cb1e5.jpg
+    alt:
+      en: "Sepia-toned photograph of a graduating class of nurses in white uniforms and caps, each holding a diploma, posed in three rows outside a building with potted plants nearby."
 geo:
   address: ''
   lat: 29.95493

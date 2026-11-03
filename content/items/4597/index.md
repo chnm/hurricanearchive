@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0023.JPG
     thumb: /files/thumbnails/14fb2a56cdf3d314fb2a56d4bc6d.jpg
     url: /files/original/14fb2a56cdf3d314fb2a56d4bc6d.jpg
+    alt:
+      en: "Sandy, debris-strewn beach with a concrete seawall in the foreground, a yellow flatbed truck and \"ROAD CLOSED\" barricade on the road beyond, and storm-damaged, leafless trees with scattered debris piles in the background."
 geo:
 id: 4597
 item_type: Still Image

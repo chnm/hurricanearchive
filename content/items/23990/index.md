@@ -21,6 +21,8 @@ files:
     original_filename: 09270028plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec1c1ec314fb29ec1c2299.jpg
     url: /files/original/14fb29ec1c1ec314fb29ec1c2299.jpg
+    alt:
+      en: "A white single-story house stands amid storm debris, with a muddy, flooded yard in front, a chain-link fence, downed tree branches, and a piece of twisted corrugated metal roofing leaning nearby."
 geo:
 id: 23990
 item_type: Still Image

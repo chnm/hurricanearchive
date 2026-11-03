@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0113OEP.JPG
     thumb: /files/thumbnails/14fb29f18d601714fb29f18d6406.jpg
     url: /files/original/14fb29f18d601714fb29f18d6406.jpg
+    alt:
+      en: "A man lies on an office floor resting his head on his hand, eyes closed, near stacked \"Copy Paper\" boxes, while another person's legs rest on a desk chair nearby."
 geo:
 id: 23103
 item_type: Still Image

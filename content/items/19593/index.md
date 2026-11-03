@@ -21,6 +21,8 @@ files:
     original_filename: S4300072zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ee7dcd214fb2a0ee7e0b6.jpg
     url: /files/original/14fb2a0ee7dcd214fb2a0ee7e0b6.jpg
+    alt:
+      en: "Black and silver helicopter with registration N230CA parked on a grassy field, with a goalpost visible in the background."
 geo:
 id: 19593
 item_type: Still Image

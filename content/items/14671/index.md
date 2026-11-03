@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AlexisMorgan_02_380c0f659c.jpg
     thumb: /files/thumbnails/14fb2a18710d0b14fb2a1871147a.jpg
     url: /files/original/14fb2a18710d0b14fb2a1871147a.jpg
+    alt:
+      en: "A young girl in a school uniform sits on a small chair holding a baby doll in a pink outfit, smiling beside a bookshelf of children's books and a round table."
 geo:
 id: 14671
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: USS Alabama 8.jpg
     thumb: /files/thumbnails/14fb2a597f24a314fb2a597f2dc9.jpg
     url: /files/original/14fb2a597f24a314fb2a597f2dc9.jpg
+    alt:
+      en: "Wide grassy field under a cloudy sky, with a naval ship and military aircraft, including a dark bomber plane, visible near buildings in the distance."
 geo:
 id: 3796
 item_type: Still Image

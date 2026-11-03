@@ -21,6 +21,8 @@ files:
     original_filename: Picture 082engineers.jpg
     thumb: /files/thumbnails/14fb2a0f933b0814fb2a0f933ef4.jpg
     url: /files/original/14fb2a0f933b0814fb2a0f933ef4.jpg
+    alt:
+      en: "Aerial view of a flooded highway interchange with elevated roadways surrounded by floodwaters, submerged trees, and overpasses, with the surrounding landscape entirely underwater."
 geo:
 id: 19522
 item_type: Still Image

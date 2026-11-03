@@ -21,6 +21,8 @@ files:
     original_filename: aerials30.jpg
     thumb: /files/thumbnails/14fb2a19d78d8c14fb2a19d7910b.jpg
     url: /files/original/14fb2a19d78d8c14fb2a19d7910b.jpg
+    alt:
+      en: "Aerial view of a \"Family Dollar\" store with storm-damaged roof and debris scattered across the parking lot, surrounded by flooded, debris-strewn land and parked vehicles."
 geo:
 id: 14317
 item_type: Still Image

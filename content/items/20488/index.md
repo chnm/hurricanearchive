@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0022-9-25.JPG
     thumb: /files/thumbnails/14fb2a06d1c92514fb2a06d1d083.jpg
     url: /files/original/14fb2a06d1c92514fb2a06d1d083.jpg
+    alt:
+      en: "Aerial view of a storm-damaged neighborhood with scattered buildings, downed trees, and leaning utility poles with sagging power lines amid debris-covered yards."
 geo:
 id: 20488
 item_type: Still Image

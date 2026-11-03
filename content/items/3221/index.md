@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (69).JPG
     thumb: /files/thumbnails/14fb2a5d389be514fb2a5d389fcb.jpg
     url: /files/original/14fb2a5d389be514fb2a5d389fcb.jpg
+    alt:
+      en: "View from inside a car of storm-damaged trees and debris near a building marked \"...TY CENTER,\" with a \"Buckle Up It's the Law\" sticker visible on the dashboard."
 geo:
 id: 3221
 item_type: Still Image

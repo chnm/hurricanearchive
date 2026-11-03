@@ -24,6 +24,8 @@ files:
     original_filename: KJ Mardi Gras_783f5e3abf. 3 (mules) PCT.jpg
     thumb: /files/thumbnails/14fb29d7148a3c14fb29d7148d77.jpg
     url: /files/original/14fb29d7148a3c14fb29d7148d77.jpg
+    alt:
+      en: "Black-and-white photo of a Mardi Gras float with large decorative figures moving down a street in New Orleans, flanked by crowds of onlookers and multi-story buildings."
 geo:
   address: ''
   lat: 29.91685

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f30f155614fb29f30f192f.jpg
     url: /files/original/14fb29f30f155614fb29f30f192f.jpg
+    alt:
+      en: "A camouflage-uniformed service member in the foreground watches a group of military personnel and a police officer conversing near Humvees on a grassy roadside, with a red \"DO NOT ENTER\" sign nearby."
 geo:
 id: 22849
 item_type: Still Image

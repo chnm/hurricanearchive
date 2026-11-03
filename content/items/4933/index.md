@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0275.JPG
     thumb: /files/thumbnails/14fb2a54e5051e14fb2a54e65cbe.jpg
     url: /files/original/14fb2a54e5051e14fb2a54e65cbe.jpg
+    alt:
+      en: "Single-story house with tan siding, partially obscured by fallen tree limbs on the roof and yard; a chain-link fence runs along the side, with storm debris scattered across the grass."
 geo:
 id: 4933
 item_type: Still Image

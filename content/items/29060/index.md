@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0566.JPG
     thumb: /files/thumbnails/14fb29d05e30ac14fb29d05e348b.jpg
     url: /files/original/14fb29d05e30ac14fb29d05e348b.jpg
+    alt:
+      en: "A pale green house collapsed off its foundation, with its porch and front section crumbling into debris; a spray-painted orange \"X\" marks the siding, and a stop sign stands nearby."
 geo:
 id: 29060
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9564.jpg
     thumb: /files/thumbnails/14fb2a643515e914fb2a643519cc.jpg
     url: /files/original/14fb2a643515e914fb2a643519cc.jpg
+    alt:
+      en: "A freestanding concrete staircase leads nowhere amid scattered debris and collapsed houses, with bare trees and a partly cloudy sky above the storm-damaged landscape."
 geo:
 id: 2610
 item_type: Still Image

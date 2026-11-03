@@ -21,6 +21,8 @@ files:
     original_filename: katrina 043.jpg
     thumb: /files/thumbnails/14fb29fbce689714fb29fbce6c4b.jpg
     url: /files/original/14fb29fbce689714fb29fbce6c4b.jpg
+    alt:
+      en: "A dual-rotor military helicopter (Chinook) hovers low over a rooftop helipad, with a cityscape of high-rise buildings visible in the background under a hazy sky."
 geo:
 id: 21773
 item_type: Still Image

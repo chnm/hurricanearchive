@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 8.jpg
     thumb: /files/thumbnails/14fb29f04824a414fb29f0482882.jpg
     url: /files/original/14fb29f04824a414fb29f0482882.jpg
+    alt:
+      en: "Satellite and radar image of a large hurricane with a defined eye over the Gulf of Mexico, approaching the Gulf Coast; timestamp reads \"28 Aug 2005 17:01 GMT / 28 Aug 2005 01:01 PM EDT.\""
 geo:
 id: 23252
 item_type: Still Image

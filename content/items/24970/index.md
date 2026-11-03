@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1488superdome.JPG
     thumb: /files/thumbnails/14fb29e381addb14fb29e381b992.jpg
     url: /files/original/14fb29e381addb14fb29e381b992.jpg
+    alt:
+      en: "A military medevac helicopter marked \"2533\" with a red cross sits on a helipad, rotors spinning, with an elevated highway and multistory buildings in the background."
 geo:
 id: 24970
 item_type: Still Image

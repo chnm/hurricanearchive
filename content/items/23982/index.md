@@ -21,6 +21,8 @@ files:
     original_filename: 09270020plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec282a4c14fb29ec282e32.jpg
     url: /files/original/14fb29ec282a4c14fb29ec282e32.jpg
+    alt:
+      en: "A large bare tree stands in an open field strewn with storm debris, including an overturned vehicle and scattered wreckage, under an overcast sky."
 geo:
 id: 23982
 item_type: Still Image

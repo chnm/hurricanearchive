@@ -21,6 +21,8 @@ files:
     original_filename: J2 (7).JPG
     thumb: /files/thumbnails/14fb2a10f8183614fb2a10f81c1a.jpg
     url: /files/original/14fb2a10f8183614fb2a10f81c1a.jpg
+    alt:
+      en: "A white NYPD SUV with blue stripe and emblem parked at a curb, with a fenced building and trees visible in the blurred background."
 geo:
 id: 19347
 item_type: Still Image

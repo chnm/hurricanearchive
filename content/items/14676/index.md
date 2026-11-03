@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AlijahOConnor_04_fa02614b5f.jpg
     thumb: /files/thumbnails/14fb2a183e9dcc14fb2a183ea1b1.jpg
     url: /files/original/14fb2a183e9dcc14fb2a183ea1b1.jpg
+    alt:
+      en: "Studio portrait of a baby lying on a blue furry blanket, wearing a denim cap, a navy-and-white plaid outfit, and white booties."
 geo:
 id: 14676
 item_type: Still Image

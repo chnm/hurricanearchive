@@ -21,6 +21,8 @@ files:
     original_filename: palm tree with flash.jpg
     thumb: /files/thumbnails/14fb2a1e8989ec14fb2a1e899ccc.jpg
     url: /files/original/14fb2a1e8989ec14fb2a1e899ccc.jpg
+    alt:
+      en: "Close-up of a palm tree's fronds and small green seed clusters, photographed with flash against a grayish sky background."
 geo:
 id: 13259
 item_type: Still Image

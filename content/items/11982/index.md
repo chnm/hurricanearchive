@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 030.jpg
     thumb: /files/thumbnails/14fb2a22760a6e14fb2a22760f8c.jpg
     url: /files/original/14fb2a22760a6e14fb2a22760f8c.jpg
+    alt:
+      en: "A gas station canopy with a \"FoodMart\" Texaco sign stands amid storm wreckage, with a large pile of splintered wood, debris, and broken building materials covering the pavement below."
 geo:
 id: 11982
 item_type: Still Image

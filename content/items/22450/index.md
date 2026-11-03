@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1291Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f66513db14fb29f66517c0.jpg
     url: /files/original/14fb29f66513db14fb29f66517c0.jpg
+    alt:
+      en: "Floodwater submerges a residential street and chain-link fences amid trees, with several people standing near a vehicle in the rain beside houses in the background."
 geo:
 id: 22450
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 017engineers.jpg
     thumb: /files/thumbnails/14fb2a0fe79f2c14fb2a0fe7a311.jpg
     url: /files/original/14fb2a0fe79f2c14fb2a0fe7a311.jpg
+    alt:
+      en: "A front-end loader with a large bucket clears piles of fallen tree branches and debris from a street, with a damaged tree and houses visible in the background."
 geo:
 id: 19457
 item_type: Still Image

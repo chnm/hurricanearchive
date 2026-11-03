@@ -21,6 +21,8 @@ files:
     original_filename: 1LT Cleighton 8OCT05.JPG
     thumb: /files/thumbnails/14fb29e9321be214fb29e9321fc5.jpg
     url: /files/original/14fb29e9321be214fb29e9321fc5.jpg
+    alt:
+      en: "A man in woodland camouflage military uniform stands before a large American flag backdrop; his name tape reads \"Timothy M. Cleighton, 1LT, U.S. Army.\" Timestamp in corner reads 10.08.2005 14:23."
 geo:
 id: 24263
 item_type: Still Image

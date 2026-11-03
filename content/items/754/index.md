@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28005.jpg
     thumb: /files/thumbnails/14fb2a6d3c461b14fb2a6d3c4a01.jpg
     url: /files/original/14fb2a6d3c461b14fb2a6d3c4a01.jpg
+    alt:
+      en: "Small motorboat with two people navigates debris-strewn water near a concrete bridge span and steel sheet piling at the 17th Street Canal breach, with a crane visible in the background."
 geo:
   address: ''
   lat: 0.0

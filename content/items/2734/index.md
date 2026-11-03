@@ -24,6 +24,8 @@ files:
     original_filename: 31.jpg
     thumb: /files/thumbnails/14fb2a6061470814fb2a60614aee.jpg
     url: /files/original/14fb2a6061470814fb2a60614aee.jpg
+    alt:
+      en: "Child's crayon drawing showing rows of stick figures above a shelf labeled \"Coors Lite\" and \"root Beer,\" with more figures and sun-like shapes below; signed \"reginald Age 14 - Sept 14-05.\""
 geo:
 id: 2734
 item_type: Still Image

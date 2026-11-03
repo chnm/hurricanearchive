@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (4).JPG
     thumb: /files/thumbnails/14fb2a5c4528af14fb2a5c452c92.jpg
     url: /files/original/14fb2a5c4528af14fb2a5c452c92.jpg
+    alt:
+      en: "Large debris field of storm-damaged trees and branches with a yellow excavator working the pile; a dump truck and worker in an orange safety vest stand nearby on a gravel lot."
 geo:
 id: 3353
 item_type: Still Image

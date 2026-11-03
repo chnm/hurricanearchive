@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28000.jpg
     thumb: /files/thumbnails/14fb2a687435ec14fb2a687439de.jpg
     url: /files/original/14fb2a687435ec14fb2a687439de.jpg
+    alt:
+      en: "Silver minivan with \"SPCA\" and \"SPCA Animal Rescue\" hand-painted on its rear windows, parked on a dirt lot near a storm-damaged house and bare, broken trees."
 geo:
   address: ''
   lat: 0.0

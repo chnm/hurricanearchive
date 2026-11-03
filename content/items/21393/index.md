@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0244-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff0b1ec414fb29ff0b22a2.jpg
     url: /files/original/14fb29ff0b1ec414fb29ff0b22a2.jpg
+    alt:
+      en: "Aerial view of a rural property with a white metal-roofed house surrounded by large trees, with surrounding fields and yard partially flooded with standing water."
 geo:
 id: 21393
 item_type: Still Image

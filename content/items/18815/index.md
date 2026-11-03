@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a15109f6514fb2a1510a58e.jpg
     url: /files/original/14fb2a15109f6514fb2a1510a58e.jpg
+    alt:
+      en: "Aerial view of a sprawling residential neighborhood with damaged rooftops, debris-strewn yards, and sparse vegetation, with a blue water tower and distant waterway visible under a hazy sky."
 geo:
 id: 18815
 item_type: Still Image

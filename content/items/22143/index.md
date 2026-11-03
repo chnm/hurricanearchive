@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-23-22AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f9579dda14fb29f957a1c5.jpg
     url: /files/original/14fb29f9579dda14fb29f957a1c5.jpg
+    alt:
+      en: "Floodwater submerges a street and partially covers a vehicle, viewed through an open doorway, with brick buildings and bare trees visible in the background under an overcast sky."
 geo:
 id: 22143
 item_type: Still Image

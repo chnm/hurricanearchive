@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1898.JPG
     thumb: /files/thumbnails/14fb2a1367003814fb2a136703d2.jpg
     url: /files/original/14fb2a1367003814fb2a136703d2.jpg
+    alt:
+      en: "Aerial view of a runway with a dual-rotor helicopter positioned near its threshold, bordered by expansive green grass fields."
 geo:
 id: 19072
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0229.JPG
     thumb: /files/thumbnails/14fb2a54fb607214fb2a54fb6456.jpg
     url: /files/original/14fb2a54fb607214fb2a54fb6456.jpg
+    alt:
+      en: "Debris field with scattered cinder blocks, broken appliances, and wood fragments spread across a cleared lot, with damaged pine trees and an overcast sky in the background."
 geo:
 id: 4910
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1936superdome.JPG
     thumb: /files/thumbnails/14fb29e08593de14fb29e08599fa.jpg
     url: /files/original/14fb29e08593de14fb29e08599fa.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms and helmets, carrying large backpacks, walk across a concrete lot marked with yellow curves, with multi-story buildings visible in the hazy background."
 geo:
 id: 25238
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0964superdome.JPG
     thumb: /files/thumbnails/14fb29e40b7bf114fb29e40b88a8.jpg
     url: /files/original/14fb29e40b7bf114fb29e40b88a8.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues load and carry folded aluminum ladders or cots at the back of a canvas-covered truck, with several crouched inside the vehicle handling dark equipment."
 geo:
 id: 24889
 item_type: Still Image

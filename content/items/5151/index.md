@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0513.JPG
     thumb: /files/thumbnails/14fb2a53bb919a14fb2a53bb9580.jpg
     url: /files/original/14fb2a53bb919a14fb2a53bb9580.jpg
+    alt:
+      en: "A tan sedan parked on a grassy area near a lakeshore lined with sparse pine trees, with a paved walkway and concrete posts visible in the background under a clear blue sky."
 geo:
 id: 5151
 item_type: Still Image

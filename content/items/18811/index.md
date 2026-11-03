@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a152ca79614fb2a152cab7b.jpg
     url: /files/original/14fb2a152ca79614fb2a152cab7b.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with scattered houses, damaged roofs, debris, and large warehouse buildings with torn metal roofing in the foreground, showing storm damage."
 geo:
 id: 18811
 item_type: Still Image

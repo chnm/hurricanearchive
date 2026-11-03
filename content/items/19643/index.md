@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 030cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e98a09814fb2a0e98a47b.jpg
     url: /files/original/14fb2a0e98a09814fb2a0e98a47b.jpg
+    alt:
+      en: "A soldier in camouflage uniform and cap stands at the rear of a military cargo truck loaded with shrink-wrapped pallets of bottled water and supplies, its canvas tarp cover rolled back."
 geo:
 id: 19643
 item_type: Still Image

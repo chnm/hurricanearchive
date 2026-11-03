@@ -27,6 +27,8 @@ files:
     original_filename: Rescue
     thumb: /files/thumbnails/14fb2a600183a814fb2a6001878c.jpg
     url: /files/original/14fb2a600183a814fb2a6001878c.jpg
+    alt:
+      en: "Child's crayon drawing of a boat with red and blue flags floating on blue water under a sun and clouds, labeled \"John S. age 9\" in the corner."
 geo:
 id: 2805
 item_type: Still Image

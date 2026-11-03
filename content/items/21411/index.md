@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0249.JPG
     thumb: /files/thumbnails/14fb29fee627f714fb29fee62bdd.jpg
     url: /files/original/14fb29fee627f714fb29fee62bdd.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with submerged cars, debris-covered streets, damaged rooftops, and standing floodwater surrounding houses and utility poles."
 geo:
 id: 21411
 item_type: Still Image

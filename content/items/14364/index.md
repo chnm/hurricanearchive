@@ -21,6 +21,8 @@ files:
     original_filename: aerials73.jpg
     thumb: /files/thumbnails/14fb2a19944ff714fb2a19945b54.jpg
     url: /files/original/14fb2a19944ff714fb2a19945b54.jpg
+    alt:
+      en: "Aerial view of a coastal town with a sandy shoreline, scattered damaged buildings, and defoliated trees extending inland, with a water tower visible in the distance."
 geo:
 id: 14364
 item_type: Still Image

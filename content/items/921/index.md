@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28244.jpg
     thumb: /files/thumbnails/14fb2a6c32f63e14fb2a6c32fa22.jpg
     url: /files/original/14fb2a6c32f63e14fb2a6c32fa22.jpg
+    alt:
+      en: "A makeshift tent and drying clothes on a grassy median near parked vehicles, including a \"Virginia State Police\" bus, in a Waveland, Mississippi Wal-Mart parking lot."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eaf6f24614fb29eaf71840.jpg
     url: /files/original/14fb29eaf6f24614fb29eaf71840.jpg
+    alt:
+      en: "Aerial view of a storm-damaged coastal town with a water tower reading \"CAMERON,\" surrounded by debris, flooded streets, and a Family Dollar store amid wrecked buildings and marshland."
 geo:
 id: 24081
 item_type: Still Image

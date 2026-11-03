@@ -21,6 +21,8 @@ files:
     original_filename: Parking Lot at Jack Brks 2Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4379f1a14fb29f437a303.jpg
     url: /files/original/14fb29f4379f1a14fb29f437a303.jpg
+    alt:
+      en: "Floodwaters submerge several vehicles in a parking lot, with only rooftops visible above the churning water, while a street lamp and tree stand in the foreground under a hazy, overcast sky."
 geo:
 id: 22751
 item_type: Still Image

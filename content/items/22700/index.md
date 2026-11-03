@@ -21,6 +21,8 @@ files:
     original_filename: PICT0529Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4aa233914fb29f4aa99cf.jpg
     url: /files/original/14fb29f4aa233914fb29f4aa99cf.jpg
+    alt:
+      en: "White house with a lattice-enclosed entry porch labeled \"Col. Johnson\" and street number 32, exposed roof edge showing \"84 Lumber Company\" tarp, with a leaning utility pole and blue tarps visible in the yard behind."
 geo:
 id: 22700
 item_type: Still Image

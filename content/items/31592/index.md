@@ -21,6 +21,8 @@ files:
     original_filename: 061207NOLA011RWlg_3805115f74.jpg
     thumb: /files/thumbnails/14fb29cc2279b114fb29cc227d97.jpg
     url: /files/original/14fb29cc2279b114fb29cc227d97.jpg
+    alt:
+      en: "A woman covers her mouth in shock outside Salon D'Malta, where a framed memorial photo, candles, flowers, and stuffed animals form a tribute on a small table by the entrance."
 geo:
 id: 31592
 item_type: Still Image

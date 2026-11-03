@@ -26,6 +26,8 @@ files:
     original_filename: 100_0104_f34ee54c69.JPG
     thumb: /files/thumbnails/14fb2a6f852c3314fb2a6f853017.jpg
     url: /files/original/14fb2a6f852c3314fb2a6f853017.jpg
+    alt:
+      en: "Storm debris in Bay Saint Louis, Mississippi, with a damaged vehicle and splintered wood scattered among bare trees, bicycles and household items piled in the foreground."
 geo:
   address: ''
   lat: 0.0

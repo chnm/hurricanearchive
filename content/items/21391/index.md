@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0243.JPG
     thumb: /files/thumbnails/14fb29ff0c572514fb29ff0c5b12.jpg
     url: /files/original/14fb29ff0c572514fb29ff0c5b12.jpg
+    alt:
+      en: "Aerial view of storm-damaged houses with torn roofs and scattered debris, surrounded by flooded, flattened fields and fallen trees, with boats and wreckage strewn across the water."
 geo:
 id: 21391
 item_type: Still Image

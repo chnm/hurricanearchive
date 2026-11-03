@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1376Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5918cce14fb29f59190b3.jpg
     url: /files/original/14fb29f5918cce14fb29f59190b3.jpg
+    alt:
+      en: "Floodwaters surround a building with a boat near its porch, under a stormy sky with damaged trees and utility poles in the background."
 geo:
 id: 22535
 item_type: Still Image

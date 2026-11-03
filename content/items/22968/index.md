@@ -21,6 +21,8 @@ files:
     original_filename: Frank Superdomemedia.jpg
     thumb: /files/thumbnails/14fb29f261b25314fb29f261b631.jpg
     url: /files/original/14fb29f261b25314fb29f261b631.jpg
+    alt:
+      en: "A man wearing a headset operates a video camera from a high vantage point overlooking the Superdome's damaged roof and the New Orleans skyline, with a bridge visible in the distance."
 geo:
 id: 22968
 item_type: Still Image

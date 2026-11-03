@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0534.JPG
     thumb: /files/thumbnails/14fb2a5384652714fb2a53846953.jpg
     url: /files/original/14fb2a5384652714fb2a53846953.jpg
+    alt:
+      en: "Wooden post-and-beam framework of a structure under construction on a concrete slab, with diagonal braces, a debris pile, and trees under a clear blue sky in the background."
 geo:
 id: 5172
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 339-J2.jpg
     thumb: /files/thumbnails/14fb29fa2972c014fb29fa2976a6.jpg
     url: /files/original/14fb29fa2972c014fb29fa2976a6.jpg
+    alt:
+      en: "A severely damaged blue house with a partially collapsed wall and roof, debris scattered on the lawn, and a white SUV parked beside it behind a black iron fence."
 geo:
 id: 22008
 item_type: Still Image

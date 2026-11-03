@@ -27,6 +27,8 @@ files:
     original_filename: 2292061346_4830d5e501.
     thumb: /files/thumbnails/14fb29c9a26ede14fb29c9a27290.jpg
     url: /files/original/14fb29c9a26ede14fb29c9a27290.jpg
+    alt:
+      en: "A debris-strewn yard with a storm-damaged car buried in dried grass and wreckage, flanked by battered houses and bare trees under a clear sky."
 geo:
   address: Terry Drive
   lat: 0.0

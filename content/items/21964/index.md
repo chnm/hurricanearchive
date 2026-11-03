@@ -21,6 +21,8 @@ files:
     original_filename: Picture 295-J2.jpg
     thumb: /files/thumbnails/14fb29fad01ee814fb29fad022c7.jpg
     url: /files/original/14fb29fad01ee814fb29fad022c7.jpg
+    alt:
+      en: "A soldier in camouflage, a woman in a white cap and blouse, and a man in a black shirt stand on a bridge overlooking a flooded street lined with houses and utility poles."
 geo:
 id: 21964
 item_type: Still Image

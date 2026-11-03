@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2092superdome.JPG
     thumb: /files/thumbnails/14fb29e4e2f50514fb29e4e302cf.jpg
     url: /files/original/14fb29e4e2f50514fb29e4e302cf.jpg
+    alt:
+      en: "A large dented metal panel bearing a \"Carrier\" logo rests against a concrete barrier on a rain-slicked brick walkway overlooking a city street with parked cars below."
 geo:
 id: 24770
 item_type: Still Image

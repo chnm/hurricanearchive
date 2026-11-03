@@ -21,6 +21,8 @@ files:
     original_filename: S4300204iwojima.JPG
     thumb: /files/thumbnails/14fb2a115784f414fb2a115788d8.jpg
     url: /files/original/14fb2a115784f414fb2a115788d8.jpg
+    alt:
+      en: "A service member in camouflage fatigues climbs a metal ladder through a hatchway aboard a ship, gripping the handrail, with a sign reading \"FEMALE BERTHING\" visible on the bulkhead."
 geo:
 id: 19285
 item_type: Still Image

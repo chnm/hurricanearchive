@@ -21,6 +21,8 @@ files:
     original_filename: 100_0142.JPG
     thumb: /files/thumbnails/14fb2a5940218b14fb2a59402570.jpg
     url: /files/original/14fb2a5940218b14fb2a59402570.jpg
+    alt:
+      en: "A multi-story condominium building with storm-damaged exterior stucco torn away exposing insulation, a charred roof, and bent balcony railings, with a boat named \"Cajun Magic\" docked in front."
 geo:
 id: 3850
 item_type: Still Image

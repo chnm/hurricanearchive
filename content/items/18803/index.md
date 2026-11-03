@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033grandisle.JPG
     thumb: /files/thumbnails/14fb2a1533e8fb14fb2a1533ecd2.jpg
     url: /files/original/14fb2a1533e8fb14fb2a1533ecd2.jpg
+    alt:
+      en: "Aerial view of a coastal community with scattered houses on stilts, debris-strewn lots, and a damaged pier with exposed pilings leading into the bay, under a hazy sky."
 geo:
 id: 18803
 item_type: Still Image

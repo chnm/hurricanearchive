@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1058.JPG
     thumb: /files/thumbnails/14fb2a57aad95514fb2a57aadd3c.jpg
     url: /files/original/14fb2a57aad95514fb2a57aadd3c.jpg
+    alt:
+      en: "Group of uniformed Coast Guard personnel and civilians stand in a paved courtyard outside a two-story building, with a man in a white shirt talking to someone wearing a \"USCG\" vest."
 geo:
 id: 4111
 item_type: Still Image

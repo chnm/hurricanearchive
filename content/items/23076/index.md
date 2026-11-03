@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0086OEP.JPG
     thumb: /files/thumbnails/14fb29f1a0cc1914fb29f1a0cfff.jpg
     url: /files/original/14fb29f1a0cc1914fb29f1a0cfff.jpg
+    alt:
+      en: "Two people stand under a white canopy tent on grass, one seated, with bags hanging from the frame; parked vehicles, a satellite dish, and buildings are visible in the background."
 geo:
 id: 23076
 item_type: Still Image

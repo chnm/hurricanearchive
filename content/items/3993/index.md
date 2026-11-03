@@ -21,6 +21,8 @@ files:
     original_filename: DSC01083.JPG
     thumb: /files/thumbnails/14fb2a589a47ed14fb2a589bc55f.jpg
     url: /files/original/14fb2a589a47ed14fb2a589bc55f.jpg
+    alt:
+      en: "A Coast Guard responder with a megaphone and life vest sits on a boat surveying a flooded residential street, with submerged houses, a half-drowned tree, and a helicopter flying overhead."
 geo:
 id: 3993
 item_type: Still Image

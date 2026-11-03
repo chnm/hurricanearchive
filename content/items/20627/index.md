@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0045M.JPG
     thumb: /files/thumbnails/14fb2a0594022f14fb2a05940616.jpg
     url: /files/original/14fb2a0594022f14fb2a05940616.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and latex gloves administers an injection into the upper arm of a young man wearing a black T-shirt, inside a tiled room with medical supplies visible nearby."
 geo:
 id: 20627
 item_type: Still Image

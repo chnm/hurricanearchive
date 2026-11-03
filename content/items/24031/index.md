@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-21-19AneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb72544314fb29eb730fd5.jpg
     url: /files/original/14fb29eb72544314fb29eb730fd5.jpg
+    alt:
+      en: "Empty parking lot and street with scattered debris, leading to a damaged, burned-out building; a \"Rainbow Lanes\" bowling sign stands on the right under a clear blue sky."
 geo:
 id: 24031
 item_type: Still Image

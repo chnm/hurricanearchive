@@ -21,6 +21,8 @@ files:
     original_filename: katrina 078.jpg
     thumb: /files/thumbnails/14fb29fb85f0bc14fb29fb85f4aa.jpg
     url: /files/original/14fb29fb85f0bc14fb29fb85f4aa.jpg
+    alt:
+      en: "Ransacked Walmart store aisle with overturned shelves, scattered merchandise, and empty cardboard boxes littering the floor beneath signs reading \"Socks & Hosiery,\" \"Always Low Prices,\" and \"Great Value.\""
 geo:
 id: 21808
 item_type: Still Image

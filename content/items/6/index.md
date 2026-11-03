@@ -26,6 +26,8 @@ files:
     original_filename: DSCN0406_361ca37539.JPG
     thumb: /files/thumbnails/14fb2a717ad01a14fb2a717ad533.jpg
     url: /files/original/14fb2a717ad01a14fb2a717ad533.jpg
+    alt:
+      en: "Several large shrimp boats sit grounded on grass near a dock, surrounded by scattered debris, two trucks, and tangled rigging, with one vessel's hull marked \"Captner.\""
 geo:
   address: ''
   lat: 29.7333774982371

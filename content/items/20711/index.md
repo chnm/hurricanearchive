@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0062H.JPG
     thumb: /files/thumbnails/14fb2a04c31d0b14fb2a04c320e6.jpg
     url: /files/original/14fb2a04c31d0b14fb2a04c320e6.jpg
+    alt:
+      en: "A smiling man in a gray t-shirt embraces a woman in a white tank top reading \"HOO...\" and orange shorts beside a foosball table, with another man and string lights in the background."
 geo:
 id: 20711
 item_type: Still Image

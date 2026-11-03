@@ -20,6 +20,8 @@ files:
     original_filename: 2421695140_a49af94efd.
     thumb: /files/thumbnails/14fb29c8e721b214fb29c8e725a0.jpg
     url: /files/original/14fb29c8e721b214fb29c8e725a0.jpg
+    alt:
+      en: "A white corrugated-metal trailer or mobile structure raised on blocks, with multiple windows, a decorative fork and spoon on its side, and a green plastic chair and table outside, surrounded by trees."
 geo:
 id: 34751
 item_type: Still Image

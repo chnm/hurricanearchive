@@ -21,6 +21,8 @@ files:
     original_filename: Picture 253cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b04ad1514fb2a0b04b0fb.jpg
     url: /files/original/14fb2a0b04ad1514fb2a0b04b0fb.jpg
+    alt:
+      en: "Large sheets of metal roofing or siding torn off and crumpled on the ground beside a concrete wall, with power lines, utility poles, and two pickup trucks visible in the background under a partly cloudy sky."
 geo:
 id: 20156
 item_type: Still Image

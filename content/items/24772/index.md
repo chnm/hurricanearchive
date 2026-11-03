@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2094superdome.JPG
     thumb: /files/thumbnails/14fb29e4d71d1114fb29e4d75195.jpg
     url: /files/original/14fb29e4d71d1114fb29e4d75195.jpg
+    alt:
+      en: "Aerial view of a flooded city street littered with twisted sheet metal debris, with two parked cars and a person inspecting wreckage near a low wall."
 geo:
 id: 24772
 item_type: Still Image

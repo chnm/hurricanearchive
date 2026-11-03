@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28674.jpg
     thumb: /files/thumbnails/14fb2a6b89374914fb2a6b893b2d.jpg
     url: /files/original/14fb2a6b89374914fb2a6b893b2d.jpg
+    alt:
+      en: "Three women attend to a brown horse outside a trailer at an animal rescue depot, one in a pink tank top holding its halter, another in yellow, and one in teal reaching toward its muzzle."
 geo:
   address: ''
   lat: 0.0

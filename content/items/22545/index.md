@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1390Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f57956c214fb29f5795aa7.jpg
     url: /files/original/14fb29f57956c214fb29f5795aa7.jpg
+    alt:
+      en: "Floodwater surrounds brick and clapboard buildings, submerging their lower floors, with a rooftop HVAC unit floating in the dark water between structures."
 geo:
 id: 22545
 item_type: Still Image

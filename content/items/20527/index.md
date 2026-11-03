@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028M.JPG
     thumb: /files/thumbnails/14fb2a0677757c14fb2a067780b8.jpg
     url: /files/original/14fb2a0677757c14fb2a067780b8.jpg
+    alt:
+      en: "Roadside view of storm-damaged commercial buildings reduced to bare metal and wood framing, with scattered debris, an overgrown lot, and a large billboard structure in the foreground."
 geo:
 id: 20527
 item_type: Still Image

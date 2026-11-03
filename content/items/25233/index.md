@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1932superdome.JPG
     thumb: /files/thumbnails/14fb29e09a0a6b14fb29e09a0e4f.jpg
     url: /files/original/14fb29e09a0a6b14fb29e09a0e4f.jpg
+    alt:
+      en: "A military CH-47 Chinook helicopter sits on a tarmac with its rear ramp lowered as two camouflage-clad soldiers in helmets, carrying packs and weapons, exit and walk away from the aircraft."
 geo:
 id: 25233
 item_type: Still Image

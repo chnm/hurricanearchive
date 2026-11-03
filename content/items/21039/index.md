@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003.JPG
     thumb: /files/thumbnails/14fb2a00fbb9b414fb2a00fbcb51.jpg
     url: /files/original/14fb2a00fbb9b414fb2a00fbcb51.jpg
+    alt:
+      en: "Person in camouflage military uniform and helmet kneeling in a grassy field, handling dark cables or wires, with vehicles and palm trees visible along a roadway in the background."
 geo:
 id: 21039
 item_type: Still Image

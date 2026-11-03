@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0210deadymedia.JPG
     thumb: /files/thumbnails/14fb29f2675b3914fb29f2675f1f.jpg
     url: /files/original/14fb29f2675b3914fb29f2675f1f.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and a black beret poses on a grassy field, with empty metal bleachers and a press box reading \"Newman Michael Lupin Field\" in the background."
 geo:
 id: 22962
 item_type: Still Image

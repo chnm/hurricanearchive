@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0509.JPG
     thumb: /files/thumbnails/14fb29d0cc542414fb29d0cc5800.jpg
     url: /files/original/14fb29d0cc542414fb29d0cc5800.jpg
+    alt:
+      en: "Staging area with a military vehicle labeled \"M3\" in the foreground, a blue Chevrolet pickup truck, a forklift, tarp-covered equipment, portable toilets, and a large open-sided canopy structure numbered \"11\" under a clear sky."
 geo:
 id: 29009
 item_type: Still Image

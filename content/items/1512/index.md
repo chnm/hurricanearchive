@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28347.jpg
     thumb: /files/thumbnails/14fb2a684cd75514fb2a684ce2ba.jpg
     url: /files/original/14fb2a684cd75514fb2a684ce2ba.jpg
+    alt:
+      en: "Multi-story building with shattered windows and torn facade stands heavily damaged behind bare, storm-bent trees, with debris scattered across the ground and a green dumpster nearby."
 geo:
   address: ''
   lat: 0.0

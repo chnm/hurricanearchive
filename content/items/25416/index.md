@@ -21,6 +21,8 @@ files:
     original_filename: S4300059superdome.JPG
     thumb: /files/thumbnails/14fb29ddf8900314fb29ddf8976a.jpg
     url: /files/original/14fb29ddf8900314fb29ddf8976a.jpg
+    alt:
+      en: "Large outdoor pile of discarded folding chairs, shopping carts, coolers, luggage racks, and debris in a parking area beside a domed stadium, with office towers visible in the background."
 geo:
 id: 25416
 item_type: Still Image

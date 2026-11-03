@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0489.JPG
     thumb: /files/thumbnails/14fb2a53d0a36c14fb2a53d0a74e.jpg
     url: /files/original/14fb2a53d0a36c14fb2a53d0a74e.jpg
+    alt:
+      en: "A yellow tape measure, extended to about 21 inches, held against the corner trim of a house with pink fiber-cement siding, showing gaps and wear along the damaged edge."
 geo:
 id: 5127
 item_type: Still Image

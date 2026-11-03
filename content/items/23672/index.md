@@ -21,6 +21,8 @@ files:
     original_filename: P1010113empireS&R.JPG
     thumb: /files/thumbnails/14fb29edf237d914fb29edf23bbe.jpg
     url: /files/original/14fb29edf237d914fb29edf23bbe.jpg
+    alt:
+      en: "Military-style Harris field radio with handset sits on an office desk near a door labeled \"Administrative Director,\" with a bookshelf of binders and files in the background."
 geo:
 id: 23672
 item_type: Still Image

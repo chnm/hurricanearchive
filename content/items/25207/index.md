@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1891superdome.JPG
     thumb: /files/thumbnails/14fb29e0e3f34114fb29e0e3fa95.jpg
     url: /files/original/14fb29e0e3f34114fb29e0e3fa95.jpg
+    alt:
+      en: "Aerial view of the Superdome with its damaged roof and a large crowd gathered outside, surrounded by flooded streets, parked vehicles, helicopters on an adjacent lot, and an elevated highway overpass in the foreground."
 geo:
 id: 25207
 item_type: Still Image

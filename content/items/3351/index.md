@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (2).JPG
     thumb: /files/thumbnails/14fb2a5c47f73214fb2a5c47fb1a.jpg
     url: /files/original/14fb2a5c47f73214fb2a5c47fb1a.jpg
+    alt:
+      en: "A large pile of storm debris, including uprooted trees and branches, lines a street in a residential neighborhood, with houses and power lines visible in the background under a partly cloudy sky."
 geo:
 id: 3351
 item_type: Still Image

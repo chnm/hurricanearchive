@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1263Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f680726414fb29f6808168.jpg
     url: /files/original/14fb29f680726414fb29f6808168.jpg
+    alt:
+      en: "View through a rain-streaked window of a flooded street with a porticoed building, floating debris and sandbags visible amid the heavy downpour."
 geo:
 id: 22424
 item_type: Still Image

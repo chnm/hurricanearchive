@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0258-16.JPG
     thumb: /files/thumbnails/14fb29feb9963314fb29feb99a43.jpg
     url: /files/original/14fb29feb9963314fb29feb99a43.jpg
+    alt:
+      en: "A U.S. Army Black Hawk helicopter marked \"994\" sits on a helipad with rotors spinning, as a soldier in fatigues stands near its open side door, with buildings and power lines in the background."
 geo:
 id: 21443
 item_type: Still Image

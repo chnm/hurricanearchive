@@ -21,6 +21,8 @@ files:
     original_filename: end look south3.jpg
     thumb: /files/thumbnails/14fb2a205eb7be14fb2a205ebbae.jpg
     url: /files/original/14fb2a205eb7be14fb2a205ebbae.jpg
+    alt:
+      en: "Elevated view of a flooded, debris-strewn downtown intersection with an overturned trailer, scattered wreckage, and wet streets surrounded by multi-story brick buildings under hazy skies."
 geo:
 id: 13105
 item_type: Still Image

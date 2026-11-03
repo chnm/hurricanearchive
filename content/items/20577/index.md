@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037-20.JPG
     thumb: /files/thumbnails/14fb2a05f1b97914fb2a05f1bd5b.jpg
     url: /files/original/14fb2a05f1b97914fb2a05f1bd5b.jpg
+    alt:
+      en: "A person in a red cap and white T-shirt reading \"White Castle, LA\" looks down at a red wire crab or crawfish trap in the foreground."
 geo:
 id: 20577
 item_type: Still Image

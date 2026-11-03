@@ -21,6 +21,8 @@ files:
     original_filename: IPerez-6043_3e7edc5ccc.jpg
     thumb: /files/thumbnails/14fb2a16cd82af14fb2a16cdb2dc.jpg
     url: /files/original/14fb2a16cd82af14fb2a16cdb2dc.jpg
+    alt:
+      en: "A group of women seated at a dinner table with plates, soup bowls, and a Coca-Cola bottle, while a standing woman in a maroon dress leans in among the seated group at a crowded indoor gathering."
 geo:
 id: 15161
 item_type: Still Image

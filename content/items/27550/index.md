@@ -21,6 +21,8 @@ files:
     original_filename: _MG_7131_1cb8d2d1a7.jpg
     thumb: /files/thumbnails/14fb29d377c28c14fb29d378092b.jpg
     url: /files/original/14fb29d377c28c14fb29d378092b.jpg
+    alt:
+      en: "Two children in jester-style Mardi Gras costumes with purple and yellow pointed hats sit in a blue wagon decorated with a beaded garland, in front of shrubs and a building."
 geo:
   address: ''
   lat: 29.72622

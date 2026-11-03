@@ -21,6 +21,8 @@ files:
     original_filename: NO 003majortodd.jpg
     thumb: /files/thumbnails/14fb29f2ef138314fb29f2ef1769.jpg
     url: /files/original/14fb29f2ef138314fb29f2ef1769.jpg
+    alt:
+      en: "Hazy, overcast view of a distant skyline barely visible through thick fog or mist, with a faint horizontal line crossing the gray sky above calm water."
 geo:
 id: 22881
 item_type: Still Image

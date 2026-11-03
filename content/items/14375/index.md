@@ -21,6 +21,8 @@ files:
     original_filename: aerials83.jpg
     thumb: /files/thumbnails/14fb2a19863a0c14fb2a19863e0a.jpg
     url: /files/original/14fb2a19863a0c14fb2a19863e0a.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with a large wooded area showing widespread tree damage, with downed trees and debris scattered throughout, alongside rooftops and a road."
 geo:
 id: 14375
 item_type: Still Image

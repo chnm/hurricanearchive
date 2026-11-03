@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0126-9-25.JPG
     thumb: /files/thumbnails/14fb29e629918c14fb29e6299571.jpg
     url: /files/original/14fb29e629918c14fb29e6299571.jpg
+    alt:
+      en: "Aerial view of a widespread flood with partially submerged trees, a utility pole, and heavily damaged structures with exposed roof framing and debris scattered across the water."
 geo:
 id: 24611
 item_type: Still Image

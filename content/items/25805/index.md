@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-5796_8624e7e866.jpg
     thumb: /files/thumbnails/14fb29dc1a4c3714fb29dc1a5332.jpg
     url: /files/original/14fb29dc1a4c3714fb29dc1a5332.jpg
+    alt:
+      en: "Two docents in traditional Isleño costume present to seated elementary school students beside a poster display and American flag, under a banner reading \"W. S... Elementary.\""
 geo:
 id: 25805
 item_type: Still Image

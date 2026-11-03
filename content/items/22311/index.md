@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1122Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7a8d28814fb29f7a8d66e.jpg
     url: /files/original/14fb29f7a8d28814fb29f7a8d66e.jpg
+    alt:
+      en: "Blurred, motion-distorted photograph showing dark shapes with red and yellow highlights against murky water, suggesting debris or submerged objects at Jackson Barracks."
 geo:
 id: 22311
 item_type: Still Image

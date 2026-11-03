@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (12).JPG
     thumb: /files/thumbnails/14fb2a5dcb989a14fb2a5dcb9c80.jpg
     url: /files/original/14fb2a5dcb989a14fb2a5dcb9c80.jpg
+    alt:
+      en: "A line of dump trucks loaded with debris travels down a street lined with orange traffic cones, past storm-damaged trees and a handwritten sign reading \"POVS TRUCKS\" with a directional arrow."
 geo:
 id: 3128
 item_type: Still Image

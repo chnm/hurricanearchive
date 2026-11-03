@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0232downtownnola.JPG
     thumb: /files/thumbnails/14fb2a14ada98d14fb2a14adad8f.jpg
     url: /files/original/14fb2a14ada98d14fb2a14adad8f.jpg
+    alt:
+      en: "Aerial view of downtown New Orleans with high-rise buildings including the Marriott, Sheraton, and Hotel Monteleone, surrounded by lower rooftops of the French Quarter under a hazy sky."
 geo:
 id: 18882
 item_type: Still Image

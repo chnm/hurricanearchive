@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1601hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee8efca414fb29ee8f0088.jpg
     url: /files/original/14fb29ee8efca414fb29ee8f0088.jpg
+    alt:
+      en: "High-rise Hyatt hotel with curved glass facade severely damaged, countless windows shattered and curtains or fabric blown out and hanging from the openings across many floors."
 geo:
 id: 23601
 item_type: Still Image

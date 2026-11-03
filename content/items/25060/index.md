@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1585superdome.JPG
     thumb: /files/thumbnails/14fb29e297536214fb29e297577d.jpg
     url: /files/original/14fb29e297536214fb29e297577d.jpg
+    alt:
+      en: "Military convoy of camouflage trucks and a bus navigate a deeply flooded city street, passing submerged cars near a \"Garage 6\" sign and elevated highway overpass."
 geo:
 id: 25060
 item_type: Still Image

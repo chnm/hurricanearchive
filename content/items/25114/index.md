@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1701superdome.JPG
     thumb: /files/thumbnails/14fb29e2397b4614fb29e2397f60.jpg
     url: /files/original/14fb29e2397b4614fb29e2397f60.jpg
+    alt:
+      en: "Military Police soldiers in camouflage uniforms with \"MP\" armbands gather in a group, armed with rifles, with buildings visible in the background."
 geo:
 id: 25114
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010144.JPG
     thumb: /files/thumbnails/14fb2a5ac5ca5a14fb2a5ac5ce41.jpg
     url: /files/original/14fb2a5ac5ca5a14fb2a5ac5ce41.jpg
+    alt:
+      en: "Massive pile of storm debris including mattresses, wood, and a boat trailer near the top, bordered by orange plastic safety fencing on a grassy lot."
 geo:
 id: 3569
 item_type: Still Image

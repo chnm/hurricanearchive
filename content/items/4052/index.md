@@ -21,6 +21,8 @@ files:
     original_filename: DSC01180.JPG
     thumb: /files/thumbnails/14fb2a5834fbaa14fb2a5834ff8c.jpg
     url: /files/original/14fb2a5834fbaa14fb2a5834ff8c.jpg
+    alt:
+      en: "Downtown city skyline with high-rise buildings and a domed stadium, viewed from an elevated highway, with floodwater visible covering a street below and a person wearing a camouflage cap in the foreground."
 geo:
 id: 4052
 item_type: Still Image

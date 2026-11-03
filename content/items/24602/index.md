@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0125-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e63c72e014fb29e63c76c5.jpg
     url: /files/original/14fb29e63c72e014fb29e63c76c5.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with an American flag patch stands roadside holding a water bottle, with a line of parked vehicles visible along the road behind him."
 geo:
 id: 24602
 item_type: Still Image

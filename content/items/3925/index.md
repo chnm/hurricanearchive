@@ -21,6 +21,8 @@ files:
     original_filename: 100_0222.JPG
     thumb: /files/thumbnails/14fb2a58dc22e414fb2a58dc26c9.jpg
     url: /files/original/14fb2a58dc22e414fb2a58dc26c9.jpg
+    alt:
+      en: "Flooded street lined with two-story brick buildings, their lower floors submerged in murky water that mirrors the structures, trees, and a clear blue sky above."
 geo:
 id: 3925
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0188abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eec43ba014fb29eec43f85.jpg
     url: /files/original/14fb29eec43ba014fb29eec43f85.jpg
+    alt:
+      en: "Two men examine framed photographs rescued from storm debris, standing outside a damaged home surrounded by wreckage, fallen trees, and standing floodwater."
 geo:
 id: 23566
 item_type: Still Image

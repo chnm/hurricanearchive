@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f311bb3114fb29f311bf15.jpg
     url: /files/original/14fb29f311bb3114fb29f311bf15.jpg
+    alt:
+      en: "A man in a camouflage cap speaks to a driver through a truck window while a bald cameraman films with a WBRZ Channel 2 news camera, as another man looks on nearby."
 geo:
 id: 22846
 item_type: Still Image

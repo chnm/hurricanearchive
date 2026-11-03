@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1311Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f648041a14fb29f64807ff.jpg
     url: /files/original/14fb29f648041a14fb29f64807ff.jpg
+    alt:
+      en: "Floodwater submerges a street with only lamp post tops visible above the surface, as a small boat carrying a person in a yellow jacket navigates past partially submerged buildings and a \"Sheriff's Office Sub Station\" sign."
 geo:
 id: 22470
 item_type: Still Image

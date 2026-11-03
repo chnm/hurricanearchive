@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0073abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efc70ad214fb29efc70eb2.jpg
     url: /files/original/14fb29efc70ad214fb29efc70eb2.jpg
+    alt:
+      en: "A man in a cowboy hat and chaps sits on a dark horse holding a coiled rope, with a grassy yard, trees, trampoline, and parked trucks in the background."
 geo:
 id: 23370
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: KJ Snow 64-04_2387814656.2.jpg
     thumb: /files/thumbnails/14fb29d6558d3c14fb29d6559b95.jpg
     url: /files/original/14fb29d6558d3c14fb29d6559b95.jpg
+    alt:
+      en: "Two decorative white wooden reindeer with wreaths stand on a snowy front lawn as a man in a dark jacket checks a truck and another person photographs the scene across the street."
 geo:
   address: ''
   lat: 29.95493

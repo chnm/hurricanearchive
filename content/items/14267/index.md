@@ -21,6 +21,8 @@ files:
     original_filename: aerials109.jpg
     thumb: /files/thumbnails/14fb2a1a58735714fb2a1a587740.jpg
     url: /files/original/14fb2a1a58735714fb2a1a587740.jpg
+    alt:
+      en: "Aerial view of storm-damaged waterfront property with a collapsed building, scattered debris, bare trees, and vehicles parked on cleared land beside a murky river."
 geo:
 id: 14267
 item_type: Still Image

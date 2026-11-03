@@ -21,6 +21,8 @@ files:
     original_filename: Picture 092engineers.jpg
     thumb: /files/thumbnails/14fb2a0f7ca28e14fb2a0f7ca677.jpg
     url: /files/original/14fb2a0f7ca28e14fb2a0f7ca677.jpg
+    alt:
+      en: "Aerial surveillance photo of flooded New Orleans neighborhood near Bundy Rd and I-10, showing a Sam's Club/Wal-Mart building surrounded by water alongside submerged residential streets."
 geo:
 id: 19532
 item_type: Still Image

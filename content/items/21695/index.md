@@ -21,6 +21,8 @@ files:
     original_filename: FH000026-9-23.jpg
     thumb: /files/thumbnails/14fb29fc61d29514fb29fc61df22.jpg
     url: /files/original/14fb29fc61d29514fb29fc61df22.jpg
+    alt:
+      en: "Small white single-story house with a dark roof sits amid a bare, debris-strewn lot, with downed branches, a utility pole, and dried vegetation visible, photographed through a car windshield."
 geo:
 id: 21695
 item_type: Still Image

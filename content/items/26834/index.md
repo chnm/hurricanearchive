@@ -21,6 +21,8 @@ files:
     original_filename: SF shrimp_85e2367584.jpg
     thumb: /files/thumbnails/14fb29d78700c214fb29d78704a6.jpg
     url: /files/original/14fb29d78700c214fb29d78704a6.jpg
+    alt:
+      en: "Two people stand on the deck of a shrimp boat holding a catch of shrimp over a wooden sorting table, with marshland and open water visible in the background."
 geo:
   address: ''
   lat: 29.91685

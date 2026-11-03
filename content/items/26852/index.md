@@ -21,6 +21,8 @@ files:
     original_filename: slow dancing_ec1905dfa7.jpg
     thumb: /files/thumbnails/14fb29d73902c814fb29d73906af.jpg
     url: /files/original/14fb29d73902c814fb29d73906af.jpg
+    alt:
+      en: "A young man in a dark tuxedo and a woman in a purple patterned dress slow dance closely, surrounded by other couples dancing at what appears to be a school prom."
 geo:
 id: 26852
 item_type: Still Image

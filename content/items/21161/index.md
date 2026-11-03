@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0189-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a004c1c3214fb2a004c2013.jpg
     url: /files/original/14fb2a004c1c3214fb2a004c2013.jpg
+    alt:
+      en: "Two men stand outdoors under a bare tree, one holding wooden slats, with a grassy field and scattered debris, including a piece of twisted metal roofing, visible in the background."
 geo:
 id: 21161
 item_type: Still Image

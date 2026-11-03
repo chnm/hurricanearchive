@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0694.JPG
     thumb: /files/thumbnails/14fb2a5333226a14fb2a53332650.jpg
     url: /files/original/14fb2a5333226a14fb2a53332650.jpg
+    alt:
+      en: "Storm debris including rolled insulation, broken shutters, and fallen tree branches piled on a wooden deck railing, with a damaged window frame visible in the background."
 geo:
 id: 5249
 item_type: Still Image

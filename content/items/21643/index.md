@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0406-16.JPG
     thumb: /files/thumbnails/14fb29fcd57d2114fb29fcd58717.jpg
     url: /files/original/14fb29fcd57d2114fb29fcd58717.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand near a vehicle, one wearing a helmet and gesturing, viewed through a vehicle window with a brick building and trees in the background."
 geo:
 id: 21643
 item_type: Still Image

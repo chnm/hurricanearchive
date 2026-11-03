@@ -21,6 +21,8 @@ files:
     original_filename: Picture 099engineers.jpg
     thumb: /files/thumbnails/14fb2a0f59d5c414fb2a0f59d9a9.jpg
     url: /files/original/14fb2a0f59d5c414fb2a0f59d9a9.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with submerged streets and buildings, including a multi-story structure and school, surrounded by brown floodwaters, with an unflooded road visible in the foreground."
 geo:
 id: 19539
 item_type: Still Image

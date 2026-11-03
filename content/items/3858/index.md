@@ -21,6 +21,8 @@ files:
     original_filename: 100_0151.JPG
     thumb: /files/thumbnails/14fb2a593a052d14fb2a593a0913.jpg
     url: /files/original/14fb2a593a052d14fb2a593a0913.jpg
+    alt:
+      en: "Flooded street scene with a Shell gas station and \"Federico's Family Florist\" storefront partially submerged in murky water, with utility poles, trees, and buildings visible in the background under a clear sky."
 geo:
 id: 3858
 item_type: Still Image

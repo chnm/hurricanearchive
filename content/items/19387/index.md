@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2250engineers.JPG
     thumb: /files/thumbnails/14fb2a109cfd4614fb2a109d0020.jpg
     url: /files/original/14fb2a109cfd4614fb2a109d0020.jpg
+    alt:
+      en: "A man in a tan shirt and camouflage pants uses a chainsaw to cut fallen tree limbs piled near a white house, with an old pickup truck parked nearby amid storm debris."
 geo:
 id: 19387
 item_type: Still Image

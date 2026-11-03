@@ -27,6 +27,8 @@ files:
     original_filename: veras_8fc2182316.jpg
     thumb: /files/thumbnails/14fb2a717d943b14fb2a717d9810.jpg
     url: /files/original/14fb2a717d943b14fb2a717d9810.jpg
+    alt:
+      en: "Debris-strewn shoreline with a damaged, leaning tree and a weathered sign on a wooden post, overlooking a body of water with a distant bridge and cranes under a clear blue sky."
 geo:
   address: ''
   lat: 30.44699

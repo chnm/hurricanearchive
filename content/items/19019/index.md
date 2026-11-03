@@ -21,6 +21,8 @@ files:
     original_filename: S4300080bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a13a0783114fb2a13a07c16.jpg
     url: /files/original/14fb2a13a0783114fb2a13a07c16.jpg
+    alt:
+      en: "Large group of military personnel in camouflage and tan uniforms gathered outdoors under open-air metal shelters, some carrying cardboard \"Trinity\" boxes, with buses parked nearby."
 geo:
 id: 19019
 item_type: Still Image

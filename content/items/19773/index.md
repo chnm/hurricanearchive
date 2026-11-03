@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 160cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ddb14d914fb2a0ddb18c0.jpg
     url: /files/original/14fb2a0ddb14d914fb2a0ddb18c0.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms converse beside a parked car, with a \"Caution Helicopter Landing Area\" sign, fallen tree debris, and brick buildings in the background."
 geo:
 id: 19773
 item_type: Still Image

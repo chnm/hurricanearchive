@@ -21,6 +21,8 @@ files:
     original_filename: FH000004-9-23.jpg
     thumb: /files/thumbnails/14fb29fcbd5fc614fb29fcbd63ac.jpg
     url: /files/original/14fb29fcbd5fc614fb29fcbd63ac.jpg
+    alt:
+      en: "A manufactured home with damaged, peeling roof shingles sits raised on blocks beside a fallen utility pole leaning against it, surrounded by debris and bare trees, viewed from inside a vehicle with a side mirror in the foreground."
 geo:
 id: 21663
 item_type: Still Image

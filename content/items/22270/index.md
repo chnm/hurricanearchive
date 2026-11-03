@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1081Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f853f9e314fb29f853fcf5.jpg
     url: /files/original/14fb29f853f9e314fb29f853fcf5.jpg
+    alt:
+      en: "Blurry interior photo through a glass window showing floodwater covering the floor, with windows and dim light visible in the background and two indistinct figures near the foreground."
 geo:
 id: 22270
 item_type: Still Image

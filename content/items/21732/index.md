@@ -21,6 +21,8 @@ files:
     original_filename: honore.jpg
     thumb: /files/thumbnails/14fb29fc167c8f14fb29fc168075.jpg
     url: /files/original/14fb29fc167c8f14fb29fc168075.jpg
+    alt:
+      en: "A soldier in camouflage uniform and sunglasses sits in a military vehicle on a city street, with a storefront reading \"VISION OPTICAL\" visible in the background."
 geo:
 id: 21732
 item_type: Still Image

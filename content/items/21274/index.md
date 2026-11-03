@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0213-21.JPG
     thumb: /files/thumbnails/14fb29ffaac40b14fb29ffaac7e7.jpg
     url: /files/original/14fb29ffaac40b14fb29ffaac7e7.jpg
+    alt:
+      en: "A press photographer in shorts adjusts his camera equipment on a grassy field while a woman and several people in military fatigues and flight gear stand nearby, with trees and a building in the background."
 geo:
 id: 21274
 item_type: Still Image

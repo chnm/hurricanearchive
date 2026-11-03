@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0126-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e62d469614fb29e62d4a7a.jpg
     url: /files/original/14fb29e62d469614fb29e62d4a7a.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters submerging a residential area, with a storm-damaged house missing walls, a collapsed structure caught in trees, utility poles, and debris scattered across the water."
 geo:
 id: 24610
 item_type: Still Image

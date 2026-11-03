@@ -27,6 +27,8 @@ files:
     original_filename: creature_7d48127408.jpg.JPG
     thumb: /files/thumbnails/14fb29d15435a814fb29d15439be.jpg
     url: /files/original/14fb29d15435a814fb29d15439be.jpg
+    alt:
+      en: "A sculptural creature made of plastic bags and tape-wrapped tool legs, with tubing connecting it to jugs of colored liquid on a concrete floor."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

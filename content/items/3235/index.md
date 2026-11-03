@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (81).JPG
     thumb: /files/thumbnails/14fb2a5d28a89914fb2a5d28ac80.jpg
     url: /files/original/14fb2a5d28a89914fb2a5d28ac80.jpg
+    alt:
+      en: "Collapsed building with rusted corrugated metal roofing crumpled into piles of debris, a utility pole standing amid the wreckage, with power lines and a clear sky above."
 geo:
 id: 3235
 item_type: Still Image

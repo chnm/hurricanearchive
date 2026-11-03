@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0203-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffe4e3fd14fb29ffe4e7e2.jpg
     url: /files/original/14fb29ffe4e3fd14fb29ffe4e7e2.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with several uprooted and broken trees scattered across yards near two brick houses, with a two-lane road and intact homes visible alongside storm debris."
 geo:
 id: 21233
 item_type: Still Image

@@ -25,6 +25,8 @@ files:
     original_filename: 158012050_20b9df1252.jpg
     thumb: /files/thumbnails/14fb29d1d0976014fb29d1d09b6a.jpg
     url: /files/original/14fb29d1d0976014fb29d1d09b6a.jpg
+    alt:
+      en: "Abandoned pink single-story house with a damaged porch and overgrown yard, spray-painted with \"PLEASE BULLDOZE\" across the boarded front, flanked by white houses on a debris-strewn street."
 geo:
 id: 28671
 item_type: Still Image

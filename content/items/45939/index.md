@@ -20,6 +20,8 @@ files:
     original_filename: admin3.jpg
     thumb: /files/thumbnails/18ccb30cb6e629b033bb57f3d2a6f438.jpg
     url: /files/original/18ccb30cb6e629b033bb57f3d2a6f438.jpg
+    alt:
+      en: "A brick building with a central bell tower and cross, fronted by a landscaped courtyard with palm trees, a statue, and a paved walkway leading to an iron entrance gate."
 geo:
   address: 5500 Paris Avenue
   lat: 30.0144435

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005tentcity.JPG
     thumb: /files/thumbnails/14fb2a0dab7d2a14fb2a0dab810c.jpg
     url: /files/original/14fb2a0dab7d2a14fb2a0dab810c.jpg
+    alt:
+      en: "Two men in sweat-stained t-shirts and camouflage pants walk along a wooden boardwalk between rows of large tan tent structures, with other workers and supply crates visible in the background."
 geo:
 id: 19814
 item_type: Still Image

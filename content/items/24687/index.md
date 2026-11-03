@@ -21,6 +21,8 @@ files:
     original_filename: 111-1172 IMGcameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e58d61ca14fb29e58d66da.jpg
     url: /files/original/14fb29e58d61ca14fb29e58d66da.jpg
+    alt:
+      en: "Large group of military personnel in camouflage uniforms and civilians pose on the steps of a building marked \"119 Smith Circle,\" beside a stone obelisk monument commemorating the Battle of Calcasieu Pass."
 geo:
 id: 24687
 item_type: Still Image

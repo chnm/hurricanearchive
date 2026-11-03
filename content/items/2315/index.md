@@ -26,6 +26,8 @@ files:
     original_filename: firehouse1_d3c9c0359c.jpg
     thumb: /files/thumbnails/14fb2a6d57fed114fb2a6d5802b5.jpg
     url: /files/original/14fb2a6d57fed114fb2a6d5802b5.jpg
+    alt:
+      en: "Firehouse 4 with a fire truck in its bay, American and Texas flags flying, palm trees, and a landscaped lawn with red flowers in front of the building."
 geo:
   address: ''
   lat: 29.729799972602194

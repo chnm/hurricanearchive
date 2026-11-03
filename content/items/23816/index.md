@@ -21,6 +21,8 @@ files:
     original_filename: S4300155stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf6c0c014fb29ecf6c46c.jpg
     url: /files/original/14fb29ecf6c0c014fb29ecf6c46c.jpg
+    alt:
+      en: "Blurry photo of a brick house with two arched entryways, one boarded with plywood, debris piled in front and a reddish roof visible in the background."
 geo:
 id: 23816
 item_type: Still Image

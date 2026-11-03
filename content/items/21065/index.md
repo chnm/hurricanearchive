@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1898.JPG
     thumb: /files/thumbnails/14fb2a00bb96fa14fb2a00bb9ada.jpg
     url: /files/original/14fb2a00bb96fa14fb2a00bb9ada.jpg
+    alt:
+      en: "Aerial view of a runway with a twin-rotor helicopter positioned at the far end, flanked by large grassy fields on either side of the paved strip."
 geo:
 id: 21065
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 174cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd0a98214fb2a0dd0ad60.jpg
     url: /files/original/14fb2a0dd0a98214fb2a0dd0ad60.jpg
+    alt:
+      en: "High-rise building with numerous broken and boarded windows on upper floors, a streetlight and tree in the foreground, and a green-roofed structure at the base."
 geo:
 id: 19787
 item_type: Still Image

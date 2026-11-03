@@ -20,6 +20,8 @@ files:
     original_filename: Slidell, LA_8711d025fb.JPG
     thumb: /files/thumbnails/14fb29d874499b14fb29d8748c47.jpg
     url: /files/original/14fb29d874499b14fb29d8748c47.jpg
+    alt:
+      en: "Waterfront scene in Slidell, LA, showing a canal lined with storm debris, boats pushed onto piles of wreckage near damaged homes, with a wooden dock in the foreground."
 geo:
   address: Moonraker Rd
   lat: 0.0

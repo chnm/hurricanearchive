@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 108.jpg
     thumb: /files/thumbnails/14fb2a11eafab714fb2a11eafdd9.jpg
     url: /files/original/14fb2a11eafab714fb2a11eafdd9.jpg
+    alt:
+      en: "Debris-strewn street in Arabi, Louisiana, with a damaged water tower, railroad crossing signal, scattered wreckage, and a minivan parked near storm-damaged buildings under a clear sky."
 geo:
 id: 19198
 item_type: Still Image

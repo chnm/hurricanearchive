@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5677-_f655266866.jpg
     thumb: /files/thumbnails/14fb2a1700be6b14fb2a1700c99b.jpg
     url: /files/original/14fb2a1700be6b14fb2a1700c99b.jpg
+    alt:
+      en: "Two women stand together indoors near a decorated mantel; one wears a black turtleneck dress and white knit cap, the other a floral vest and skirt over a white top."
 geo:
 id: 15129
 item_type: Still Image

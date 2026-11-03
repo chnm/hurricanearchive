@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0440crop.jpg
     thumb: /files/thumbnails/14fb29fcc77b5014fb29fcc77f35.jpg
     url: /files/original/14fb29fcc77b5014fb29fcc77f35.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses scattered and displaced amid standing floodwater, debris, and downed trees, with a river, bridge, and industrial structures visible in the background."
 geo:
 id: 21655
 item_type: Still Image

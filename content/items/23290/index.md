@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29f01aa09b14fb29f01aa7dd.jpg
     url: /files/original/14fb29f01aa09b14fb29f01aa7dd.jpg
+    alt:
+      en: "Damaged corrugated metal siding and roofing hangs torn and bent from a building, with a red cylindrical tank labeled \"JET\" visible against the sky in the background."
 geo:
 id: 23290
 item_type: Still Image

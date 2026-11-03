@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0170-9-18.JPG
     thumb: /files/thumbnails/14fb2a09a8541514fb2a09a857f2.jpg
     url: /files/original/14fb2a09a8541514fb2a09a857f2.jpg
+    alt:
+      en: "A man in military camouflage sits inside a helicopter doorway near a brown dog licking its nose on the grass, with a water bottle nearby."
 geo:
 id: 20304
 item_type: Still Image

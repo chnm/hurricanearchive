@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0956superdome.JPG
     thumb: /files/thumbnails/14fb29e416ed4214fb29e416f127.jpg
     url: /files/original/14fb29e416ed4214fb29e416f127.jpg
+    alt:
+      en: "Several military personnel in camouflage fatigues load folding cots and metal equipment into the back of a canvas-covered truck."
 geo:
 id: 24882
 item_type: Still Image

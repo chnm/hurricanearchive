@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0602.JPG
     thumb: /files/thumbnails/14fb29d04bc4fc14fb29d04bc8e0.jpg
     url: /files/original/14fb29d04bc4fc14fb29d04bc8e0.jpg
+    alt:
+      en: "Nighttime city street intersection with glowing traffic signals, streetlights, and illuminated building facades lining both sides of an empty roadway."
 geo:
 id: 29070
 item_type: Still Image

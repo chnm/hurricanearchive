@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6710_bfb52df828.JPG
     thumb: /files/thumbnails/14fb29d31688d914fb29d3168cb5.jpg
     url: /files/original/14fb29d31688d914fb29d3168cb5.jpg
+    alt:
+      en: "Black-and-white close-up photo of two smiling young children, identified as Derek Cumminskey and Stephanie Fontaine, standing outdoors in front of trees and shrubbery, 1972, New Orleans."
 geo:
   address: ''
   lat: 29.95493

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0744.JPG
     thumb: /files/thumbnails/14fb2a570d1c5514fb2a570d2042.jpg
     url: /files/original/14fb2a570d1c5514fb2a570d2042.jpg
+    alt:
+      en: "Storm-damaged trees with broken branches stand near the bare wooden and metal framework of a building under construction or repair, with debris scattered across the grassy lot and a black metal fence in the foreground."
 geo:
 id: 4542
 item_type: Still Image

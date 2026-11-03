@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 007.jpg
     thumb: /files/thumbnails/14fb2a59f9b91c14fb2a59f9bd08.jpg
     url: /files/original/14fb2a59f9b91c14fb2a59f9bd08.jpg
+    alt:
+      en: "A severely damaged house with collapsed walls and exposed debris sits beside a quiet paved road, with a stop sign and leaning tree branches in the foreground under a clear blue sky."
 geo:
 id: 3727
 item_type: Still Image

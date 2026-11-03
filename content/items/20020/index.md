@@ -21,6 +21,8 @@ files:
     original_filename: Picture 117cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba7eba114fb2a0ba7ef83.jpg
     url: /files/original/14fb2a0ba7eba114fb2a0ba7ef83.jpg
+    alt:
+      en: "A large boat sits stranded on grass beside a concrete floodwall, with a rusted barrel and a yellow sign nearby, and a paved road in the foreground."
 geo:
 id: 20020
 item_type: Still Image

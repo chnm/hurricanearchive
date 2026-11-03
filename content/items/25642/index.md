@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.077.JPG
     thumb: /files/thumbnails/14fb29dcedda8014fb29dcedddfb.jpg
     url: /files/original/14fb29dcedda8014fb29dcedddfb.jpg
+    alt:
+      en: "Ornate weathered ironwork with floral and leaf scrollwork frames a partially open door on a pale yellow house, with a metal \"Anheuser-Busch\" keg visible at the entrance."
 geo:
 id: 25642
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0581.JPG
     thumb: /files/thumbnails/14fb2a5673da9e14fb2a5673de64.jpg
     url: /files/original/14fb2a5673da9e14fb2a5673de64.jpg
+    alt:
+      en: "Debris field with broken concrete blocks, scattered wood, and household wreckage in the foreground, bordered by orange plastic fencing, with storm-damaged trees and distant buildings under a clear blue sky."
 geo:
 id: 4652
 item_type: Still Image

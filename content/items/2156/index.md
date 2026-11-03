@@ -26,6 +26,8 @@ files:
     original_filename: street_level_f6a2c59035.JPG
     thumb: /files/thumbnails/14fb2a6d94cb0c14fb2a6d94ceb8.jpg
     url: /files/original/14fb2a6d94cb0c14fb2a6d94ceb8.jpg
+    alt:
+      en: "Debris-strewn sandy lot with a damaged concrete pedestal structure, broken pavement slabs, and scattered rubble, with two people walking near a grassy shoreline and water in the background."
 geo:
   address: ''
   lat: 30.3128757317195

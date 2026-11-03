@@ -21,6 +21,8 @@ files:
     original_filename: S4300215neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecb9b1aa14fb29ecb9b591.jpg
     url: /files/original/14fb29ecb9b1aa14fb29ecb9b591.jpg
+    alt:
+      en: "Flooded street scene with a submerged sedan, several vans parked near a large brick building, downed branches, and a \"St Claude Ave\" street sign visible above the floodwater."
 geo:
 id: 23859
 item_type: Still Image

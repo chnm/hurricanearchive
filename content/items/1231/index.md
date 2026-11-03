@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28424.jpg
     thumb: /files/thumbnails/14fb2a6a3c84ac14fb2a6a3c8892.jpg
     url: /files/original/14fb2a6a3c84ac14fb2a6a3c8892.jpg
+    alt:
+      en: "Damaged house exterior with gray vertical siding spray-painted with messages including \"509 Brown,\" \"State Farm,\" \"Flood IN2,\" and \"Heidi Bug,\" with pink insulation exposed under the roofline."
 geo:
   address: ''
   lat: 0.0

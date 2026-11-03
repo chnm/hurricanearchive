@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0105-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e73d443814fb29e73d4c71.jpg
     url: /files/original/14fb29e73d443814fb29e73d4c71.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with submerged homes, bare trees, and scattered debris, water covering streets and yards up to rooftops."
 geo:
 id: 24497
 item_type: Still Image

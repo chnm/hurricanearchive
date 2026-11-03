@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (1).JPG
     thumb: /files/thumbnails/14fb2a5dcedc9614fb2a5dcef5ef.jpg
     url: /files/original/14fb2a5dcedc9614fb2a5dcef5ef.jpg
+    alt:
+      en: "Military Humvees and personnel block a road beside a multi-story building, with orange traffic cones and \"STOP\" and \"ROAD CLOSED\" signs marking the checkpoint, photographed from inside a vehicle."
 geo:
 id: 3125
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1893.JPG
     thumb: /files/thumbnails/14fb2a00bc65ec14fb2a00bc69f7.jpg
     url: /files/original/14fb2a00bc65ec14fb2a00bc69f7.jpg
+    alt:
+      en: "Aerial view from inside a helicopter, with \"EMERGENCY\" lettering on the airframe, overlooking a riverside complex with large empty parking lots, buildings, a riverboat casino, and a flooded neighborhood across the water."
 geo:
 id: 21064
 item_type: Still Image

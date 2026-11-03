@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5752_a55d436080.jpg
     thumb: /files/thumbnails/14fb29da43ecc414fb29da43f0a8.jpg
     url: /files/original/14fb29da43ecc414fb29da43f0a8.jpg
+    alt:
+      en: "Vintage color photo of two men in straw hats standing on grass in front of a large fig tree; the younger man wears a white outfit, the older man a gray shirt and dark trousers."
 geo:
 id: 26136
 item_type: Still Image

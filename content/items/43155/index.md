@@ -20,6 +20,8 @@ files:
     original_filename: CIMG0185_3f224f0af1.jpg
     thumb: /files/thumbnails/14fb29c2300c0e14fb29c23059b5.jpg
     url: /files/original/14fb29c2300c0e14fb29c23059b5.jpg
+    alt:
+      en: "A flood-damaged bedroom with a mud-covered floor, soaked mattress and bedding, a wooden bed frame, and a clear plastic storage drawer, debris and clothing scattered throughout."
 geo:
   address: 13929 tudo dr. new orleans la
   lat: 30.04048

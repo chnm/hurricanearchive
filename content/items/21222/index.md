@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0200-9-25.JPG
     thumb: /files/thumbnails/14fb29fff09d7d14fb29fff0a15a.jpg
     url: /files/original/14fb29fff09d7d14fb29fff0a15a.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential property with downed trees, scattered debris, snapped power lines, and two vehicles parked near a house, bordered by a body of water in the background."
 geo:
 id: 21222
 item_type: Still Image

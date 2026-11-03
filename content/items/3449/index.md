@@ -24,6 +24,8 @@ files:
     original_filename: P1010017.JPG
     thumb: /files/thumbnails/14fb2a5bab741314fb2a5bab77f8.jpg
     url: /files/original/14fb2a5bab741314fb2a5bab77f8.jpg
+    alt:
+      en: "Storm-damaged trees with snapped trunks and bare branches stand near a brick ranch house, with debris piles, a yellow \"Pot-O-Gold\" portable toilet, and a parked camper trailer along the street."
 geo:
 id: 3449
 item_type: Still Image

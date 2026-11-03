@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0567.JPG
     thumb: /files/thumbnails/14fb29d05d6d6814fb29d05d7573.jpg
     url: /files/original/14fb29d05d6d6814fb29d05d7573.jpg
+    alt:
+      en: "A collapsed house with pale blue-green siding, its front porch column and foundation crumbled, leaving broken wood, debris, and a brick staircase amid downed utility lines."
 geo:
 id: 29061
 item_type: Still Image

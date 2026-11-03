@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1719superdome.JPG
     thumb: /files/thumbnails/14fb29e2288e3714fb29e228bd22.jpg
     url: /files/original/14fb29e2288e3714fb29e228bd22.jpg
+    alt:
+      en: "A military helicopter with rotors spinning sits parked on a rooftop lot under a cloudy sky, with highway overpasses visible in the background."
 geo:
 id: 25119
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 100_6927_8c9bc03372.JPG
     thumb: /files/thumbnails/14fb2a6f78f99d14fb2a6f78fe3a.jpg
     url: /files/original/14fb2a6f78f99d14fb2a6f78fe3a.jpg
+    alt:
+      en: "Tents, tarps, and makeshift shelters set up on bare ground beneath a concrete highway overpass, with portable toilets visible in the background; image dated 01/12/2006."
 geo:
   address: ''
   lat: 30.005653

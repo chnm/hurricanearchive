@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0140abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef2cef7014fb29ef2cf357.jpg
     url: /files/original/14fb29ef2cef7014fb29ef2cf357.jpg
+    alt:
+      en: "A flooded single-story house with water reaching window level, a leaning utility pole, an overturned boat, and debris floating in the water, with a submerged road in the foreground."
 geo:
 id: 23504
 item_type: Still Image

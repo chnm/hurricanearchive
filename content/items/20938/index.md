@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0152-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a016a4a0014fb2a016a4de5.jpg
     url: /files/original/14fb2a016a4a0014fb2a016a4de5.jpg
+    alt:
+      en: "Aerial view of flood-damaged land with stripped, leafless trees, scattered debris, standing water pools, and what appears to be a collapsed structure's foundation near a larger flooded waterway."
 geo:
 id: 20938
 item_type: Still Image

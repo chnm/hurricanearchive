@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 056.jpg
     thumb: /files/thumbnails/14fb2a59c81ae214fb2a59c81ec8.jpg
     url: /files/original/14fb2a59c81ae214fb2a59c81ec8.jpg
+    alt:
+      en: "Collapsed metal building with twisted steel framing and roof debris, standing on pilings, next to an intact structure with a green roof; a red pickup truck is parked on the dirt road in front under a clear blue sky."
 geo:
 id: 3776
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Medical processing2delaware.jpg
     thumb: /files/thumbnails/14fb29f1362a8214fb29f1362e67.jpg
     url: /files/original/14fb29f1362a8214fb29f1362e67.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather at a table set up for medical processing, with supply boxes labeled \"United States Postal Service\" and medical sharps containers visible, while others wait in line nearby."
 geo:
 id: 23179
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1083Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f849742614fb29f8497809.jpg
     url: /files/original/14fb29f849742614fb29f8497809.jpg
+    alt:
+      en: "Blurry, out-of-focus photo of a dark object with two small reflective points, possibly electronic equipment, set against a tan-colored background."
 geo:
 id: 22272
 item_type: Still Image

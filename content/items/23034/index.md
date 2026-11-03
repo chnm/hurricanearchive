@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044OEP.JPG
     thumb: /files/thumbnails/14fb29f1f84fd714fb29f1f854b4.jpg
     url: /files/original/14fb29f1f84fd714fb29f1f854b4.jpg
+    alt:
+      en: "Parked vehicles and a large satellite-dish-equipped production truck sit on a grassy lot near a white tent, with a motorhome's awning extended in the foreground under clear skies."
 geo:
 id: 23034
 item_type: Still Image

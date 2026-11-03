@@ -26,6 +26,8 @@ files:
     original_filename: katrina18_1870901eb8.jpg
     thumb: /files/thumbnails/14fb2a7144aaa414fb2a7144ae90.jpg
     url: /files/original/14fb2a7144aaa414fb2a7144ae90.jpg
+    alt:
+      en: "Floodwater surrounds a brick house and leaning tree beside a breached, pale-colored levee wall, with calm water stretching into the distance under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

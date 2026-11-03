@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-07-6A.jpg
     thumb: /files/thumbnails/14fb29e856aa1a14fb29e856b12b.jpg
     url: /files/original/14fb29e856aa1a14fb29e856b12b.jpg
+    alt:
+      en: "Flooded street with several vehicles submerged up to their windows in murky brown water, viewed past a tree and lamppost under a hazy, overcast sky."
 geo:
 id: 24386
 item_type: Still Image

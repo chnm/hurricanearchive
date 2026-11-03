@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0532.JPG
     thumb: /files/thumbnails/14fb2a5387593014fb2a5387a527.jpg
     url: /files/original/14fb2a5387593014fb2a5387a527.jpg
+    alt:
+      en: "Skeletal wooden frame of a building under construction or repair stands near a waterfront, with a pile of storm debris and downed branches in the foreground beside a two-lane road."
 geo:
 id: 5170
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 064.jpg
     thumb: /files/thumbnails/14fb2a12a9e6c214fb2a12a9f37e.jpg
     url: /files/original/14fb2a12a9e6c214fb2a12a9f37e.jpg
+    alt:
+      en: "Damaged metal roof panels peeled back and twisted atop a multi-story building with large windows, surrounded by trees, flagpoles, and a partly cloudy blue sky."
 geo:
 id: 19154
 item_type: Still Image

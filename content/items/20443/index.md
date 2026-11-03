@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016-20.JPG
     thumb: /files/thumbnails/14fb2a072b460114fb2a072b4e1c.jpg
     url: /files/original/14fb2a072b460114fb2a072b4e1c.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with an American flag patch and nametag \"RANDALL\" eats from a styrofoam tray of food inside a large tent, with tables and chairs visible in the background."
 geo:
 id: 20443
 item_type: Still Image

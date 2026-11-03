@@ -21,6 +21,8 @@ files:
     original_filename: S4300184stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecd4c68a14fb29ecd4ca70.jpg
     url: /files/original/14fb29ecd4c68a14fb29ecd4ca70.jpg
+    alt:
+      en: "Black SUV parked in a mud-covered driveway beside brick houses, surrounded by uprooted shrubs, debris, and a thick layer of dried silt left by floodwaters."
 geo:
 id: 23845
 item_type: Still Image

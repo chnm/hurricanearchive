@@ -21,6 +21,8 @@ files:
     original_filename: LAANG-Photo-11.jpg
     thumb: /files/thumbnails/14fb29d06e6a1b14fb29d06e6df6.jpg
     url: /files/original/14fb29d06e6a1b14fb29d06e6df6.jpg
+    alt:
+      en: "Military personnel in camouflage and black t-shirts sit and stand amid scattered gear, backpacks, and boots, with rifles stacked in a pyramid formation; a \"Prevost\" bus is parked behind them."
 geo:
 id: 29042
 item_type: Still Image

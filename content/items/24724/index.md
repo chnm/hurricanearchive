@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-26-25Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e55a590d14fb29e55a5cee.jpg
     url: /files/original/14fb29e55a590d14fb29e55a5cee.jpg
+    alt:
+      en: "Flooded parking area with numerous cars submerged to varying depths, several people wading through waist-deep water, and buildings visible in the background under a darkened sky."
 geo:
 id: 24724
 item_type: Still Image

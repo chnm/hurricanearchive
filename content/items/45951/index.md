@@ -20,6 +20,8 @@ files:
     original_filename: Sprite.jpg
     thumb: /files/thumbnails/05a552224480a1a30a50f6af9fde89db.jpg
     url: /files/original/05a552224480a1a30a50f6af9fde89db.jpg
+    alt:
+      en: "A wooden chair is tangled upside down in a brass chandelier above a damaged, water-stained table holding a plate, Coca-Cola and Sprite boxes, amid peeling, mold-stained wallpaper."
 geo:
   address: ''
   lat: 30.011389646346

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 069engineers.jpg
     thumb: /files/thumbnails/14fb2a0f9cb82114fb2a0f9cbc07.jpg
     url: /files/original/14fb2a0f9cb82114fb2a0f9cbc07.jpg
+    alt:
+      en: "Aerial view of a flooded industrial area with warehouses, rows of school buses, and residential streets submerged in brown floodwater, with an elevated highway bridge in the background."
 geo:
 id: 19509
 item_type: Still Image

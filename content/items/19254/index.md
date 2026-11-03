@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0140rita.JPG
     thumb: /files/thumbnails/14fb2a119c952514fb2a119c990b.jpg
     url: /files/original/14fb2a119c952514fb2a119c990b.jpg
+    alt:
+      en: "Hand-painted plywood detour sign reading \"ALL TRAFFIC\" with an orange arrow, propped against oil drums near official road signs for \"JCT LA 611-1\" and \"No Parking\" at a chain-link fenced lot."
 geo:
 id: 19254
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29e9cb320a14fb29e9cb381b.jpg
     url: /files/original/14fb29e9cb320a14fb29e9cb381b.jpg
+    alt:
+      en: "A flat, muted landscape of waterlogged ground stretching to a hazy horizon under an overcast gray sky, with faint tire or drag marks visible across the wet terrain."
 geo:
 id: 24204
 item_type: Still Image

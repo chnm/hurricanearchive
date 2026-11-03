@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0013.JPG
     thumb: /files/thumbnails/14fb2a56ed0ea314fb2a56ed127d.jpg
     url: /files/original/14fb2a56ed0ea314fb2a56ed127d.jpg
+    alt:
+      en: "Debris-strewn roadside with piles of splintered wood and wreckage around bare, damaged trees; a muddy road curves through the devastated landscape under an overcast sky."
 geo:
 id: 4587
 item_type: Still Image

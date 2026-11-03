@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1860Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f53a841f14fb29f53a8803.jpg
     url: /files/original/14fb29f53a841f14fb29f53a8803.jpg
+    alt:
+      en: "Aerial view of a flooded residential complex with historic brick buildings around a central lawn and flagpole flying an American flag, surrounded by storm-damaged trees and standing floodwater throughout the surrounding streets."
 geo:
 id: 22571
 item_type: Still Image

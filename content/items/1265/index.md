@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28016.jpg
     thumb: /files/thumbnails/14fb2a69fb8ee114fb2a69fb92c6.jpg
     url: /files/original/14fb2a69fb8ee114fb2a69fb92c6.jpg
+    alt:
+      en: "Debris field with a collapsed house and scattered rubble beside standing brick homes, under a clear blue sky with high-rise buildings in the distant background."
 geo:
   address: ''
   lat: 0.0

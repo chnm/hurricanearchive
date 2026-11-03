@@ -21,6 +21,8 @@ files:
     original_filename: delarondesign_15683acae5.jpg
     thumb: /files/thumbnails/14fb29d9f6267214fb29d9f64637.jpg
     url: /files/original/14fb29d9f6267214fb29d9f64637.jpg
+    alt:
+      en: "A brown historical marker titled \"Site of DE LA RONDE HOUSE\" describes the 1805 house built by Pierre Denis de la Ronde, used as a British hospital during the 1815 Battle of New Orleans."
 geo:
 id: 26160
 item_type: Still Image

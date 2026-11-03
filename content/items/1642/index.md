@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27875.jpg
     thumb: /files/thumbnails/14fb2a674e176414fb2a674e1b47.jpg
     url: /files/original/14fb2a674e176414fb2a674e1b47.jpg
+    alt:
+      en: "A man in a cap and sunglasses shakes hands with a woman while handing her papers, standing in floodwater near a house, with boats and a person visible in the background."
 geo:
   address: ''
   lat: 0.0

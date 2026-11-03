@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00780 DSC00780cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5b48b0414fb29e5b4a669.jpg
     url: /files/original/14fb29e5b48b0414fb29e5b4a669.jpg
+    alt:
+      en: "Two military officers in camouflage uniforms shake hands amid a group of civilians and other service members gathered in a parking lot, with storm-damaged buildings and debris visible in the background."
 geo:
 id: 24679
 item_type: Still Image

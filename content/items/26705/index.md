@@ -24,6 +24,8 @@ files:
     original_filename: JA 7 Sailor Finland 1944_64a27a5a9a.jpg
     thumb: /files/thumbnails/14fb29d835456b14fb29d8354951.jpg
     url: /files/original/14fb29d835456b14fb29d8354951.jpg
+    alt:
+      en: "Sepia-toned vintage photograph of a man in a white sailor uniform standing among large tree trunks and roots, arms outstretched, with a crack visible across the aged photo paper."
 geo:
   address: ''
   lat: 29.91685

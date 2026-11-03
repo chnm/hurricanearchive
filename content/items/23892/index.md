@@ -21,6 +21,8 @@ files:
     original_filename: picture 13stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec977cce14fb29ec9780b4.jpg
     url: /files/original/14fb29ec977cce14fb29ec9780b4.jpg
+    alt:
+      en: "Water-stained interior room with paneled walls showing mold and discoloration, a framed document, a small decorative plaque, and a picture frame hanging on the walls, with a doorway visible on the right."
 geo:
 id: 23892
 item_type: Still Image

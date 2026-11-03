@@ -21,6 +21,8 @@ files:
     original_filename: 20051001007.JPG
     thumb: /files/thumbnails/14fb2a1be95da714fb2a1be9618d.jpg
     url: /files/original/14fb2a1be95da714fb2a1be9618d.jpg
+    alt:
+      en: "A tall press box tower with a mascot logo of a horse and letter \"M\" stands against a cloudy sky, with stadium light poles nearby and heavy equipment vehicles parked in the foreground."
 geo:
   address: ''
   lat: 0.0

@@ -26,6 +26,8 @@ files:
     original_filename: BSLhistoricalsociety_b020c15ce7.jpg
     thumb: /files/thumbnails/14fb2a705bd80114fb2a705bdbe5.jpg
     url: /files/original/14fb2a705bd80114fb2a705bdbe5.jpg
+    alt:
+      en: "Overgrown courtyard with wrought-iron furniture and a palm tree, a chain-link fence separating it from debris piles and a semi-trailer reading \"American Catastrophe\" in the background."
 geo:
   address: ''
   lat: 30.3109677385397

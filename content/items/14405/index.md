@@ -21,6 +21,8 @@ files:
     original_filename: slide23.jpg
     thumb: /files/thumbnails/14fb2a193bbce914fb2a193bc0cd.jpg
     url: /files/original/14fb2a193bbce914fb2a193bc0cd.jpg
+    alt:
+      en: "Storm-damaged backyard deck and pergola with fallen tree limbs tangled in overhead beams, surrounded by a wooden fence; text overlay reads \"Fran and Mike's house, Back yard, deck.\""
 geo:
 id: 14405
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5748_42b0991d05.jpg
     thumb: /files/thumbnails/14fb29da50985414fb29da509c37.jpg
     url: /files/original/14fb29da50985414fb29da509c37.jpg
+    alt:
+      en: "Group of people seated on a decorated boat decked with ribbons and netting, with a young girl in the foreground and men in hats and sunglasses, river and docks visible in the background."
 geo:
 id: 26132
 item_type: Still Image

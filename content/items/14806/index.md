@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TrinityMiller_02_964476b521.jpg
     thumb: /files/thumbnails/14fb2a179c420614fb2a179c4625.jpg
     url: /files/original/14fb2a179c420614fb2a179c4625.jpg
+    alt:
+      en: "A young girl with white hair bows stands in a hallway doorway, wearing a white polo shirt and dark pants, with a small backpack and sneakers placed on the carpet nearby."
 geo:
 id: 14806
 item_type: Still Image

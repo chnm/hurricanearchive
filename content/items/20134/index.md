@@ -21,6 +21,8 @@ files:
     original_filename: Picture 231cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b1ca2e614fb2a0b1ca6ca.jpg
     url: /files/original/14fb2a0b1ca2e614fb2a0b1ca6ca.jpg
+    alt:
+      en: "Three men in camouflage military uniforms stand outdoors near a brick house with storm debris scattered on the ground, one holding a water bottle, with tree branches overhead."
 geo:
 id: 20134
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 11.jpg
     thumb: /files/thumbnails/14fb2a6091fc3e14fb2a609207a4.jpg
     url: /files/original/14fb2a6091fc3e14fb2a609207a4.jpg
+    alt:
+      en: "Child's marker drawing featuring a large red heart at center, surrounded by numerous stars in red, yellow, and blue, small hearts, a yellow sun, a brown four-legged animal, and green grass along the bottom."
 geo:
 id: 2686
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 123cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e25f7be14fb2a0e25fba4.jpg
     url: /files/original/14fb2a0e25f7be14fb2a0e25fba4.jpg
+    alt:
+      en: "Two military personnel in camouflage uniforms walk across a large paved lot toward a red-roofed pavilion, with a fenced area, palm trees, and buildings in the background under a clear blue sky."
 geo:
 id: 19736
 item_type: Still Image

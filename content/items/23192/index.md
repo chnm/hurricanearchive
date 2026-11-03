@@ -21,6 +21,8 @@ files:
     original_filename: P1010012delaware.JPG
     thumb: /files/thumbnails/14fb29f0f4465614fb29f0f44a3d.jpg
     url: /files/original/14fb29f0f4465614fb29f0f44a3d.jpg
+    alt:
+      en: "Two military cargo planes parked on an airport tarmac with a fuel truck and two people walking nearby, under a clear blue sky."
 geo:
 id: 23192
 item_type: Still Image

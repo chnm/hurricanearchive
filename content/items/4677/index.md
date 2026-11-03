@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0628.JPG
     thumb: /files/thumbnails/14fb2a5641782d14fb2a56417c12.jpg
     url: /files/original/14fb2a5641782d14fb2a56417c12.jpg
+    alt:
+      en: "A grassy yard with two parked vans—one blue, one white—beside a tree line and bushes, with a weathered wooden post in the foreground and a house visible at right."
 geo:
 id: 4677
 item_type: Still Image

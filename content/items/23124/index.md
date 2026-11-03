@@ -21,6 +21,8 @@ files:
     original_filename: 09110001delaware.JPG
     thumb: /files/thumbnails/14fb29f176be7314fb29f176c258.jpg
     url: /files/original/14fb29f176be7314fb29f176c258.jpg
+    alt:
+      en: "Military cargo plane with rear loading ramp open parked on an airfield tarmac, with pickup trucks, a military vehicle, and several people standing nearby; tree line visible in the background."
 geo:
 id: 23124
 item_type: Still Image

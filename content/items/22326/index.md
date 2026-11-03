@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1139Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f757deee14fb29f757eda1.jpg
     url: /files/original/14fb29f757deee14fb29f757eda1.jpg
+    alt:
+      en: "A tan SUV sits mostly submerged in floodwater outside a brick building with white columns and an iron fence, with propane tanks visible along the fence line."
 geo:
 id: 22326
 item_type: Still Image

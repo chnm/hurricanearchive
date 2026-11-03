@@ -21,6 +21,8 @@ files:
     original_filename: Grand Isle, LAengineers.jpg
     thumb: /files/thumbnails/14fb2a1001ae5714fb2a1001b39e.jpg
     url: /files/original/14fb2a1001ae5714fb2a1001b39e.jpg
+    alt:
+      en: "A man in military fatigues and a hard hat operates a yellow skid-steer loader amid massive piles of storm debris, with damaged houses visible in the background."
 geo:
 id: 19440
 item_type: Still Image

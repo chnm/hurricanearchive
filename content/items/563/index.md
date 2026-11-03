@@ -26,6 +26,8 @@ files:
     original_filename: Katrina_017_c44646b66d.jpg
     thumb: /files/thumbnails/14fb2a6f8b80e014fb2a6f8b84c5.jpg
     url: /files/original/14fb2a6f8b80e014fb2a6f8b84c5.jpg
+    alt:
+      en: "Sheets of twisted metal roofing with exposed yellow insulation lie scattered across a grassy yard, tangled among fallen branches near trees and a white porch railing."
 geo:
   address: ''
   lat: 30.566088

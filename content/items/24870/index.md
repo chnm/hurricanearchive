@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0944superdome.JPG
     thumb: /files/thumbnails/14fb29e443a8d014fb29e443b1b0.jpg
     url: /files/original/14fb29e443a8d014fb29e443b1b0.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms, caps, and badges stand in a lobby near a stone wall inscribed \"STATE OF LOUISIANA,\" with cardboard boxes and a folding table nearby."
 geo:
 id: 24870
 item_type: Still Image

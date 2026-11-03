@@ -21,6 +21,8 @@ files:
     original_filename: DSC01061.JPG
     thumb: /files/thumbnails/14fb2a58ab4f8f14fb2a58ab5374.jpg
     url: /files/original/14fb2a58ab4f8f14fb2a58ab5374.jpg
+    alt:
+      en: "A man in a dark uniform with an American flag patch bends over a white cooler among several coolers, water bottles, and folding chairs near a parked travel trailer; timestamp reads 5:34 PM."
 geo:
 id: 3976
 item_type: Still Image

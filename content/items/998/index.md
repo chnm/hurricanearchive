@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28556.jpg
     thumb: /files/thumbnails/14fb2a6b7836c114fb2a6b783a9d.jpg
     url: /files/original/14fb2a6b7836c114fb2a6b783a9d.jpg
+    alt:
+      en: "Storm-damaged duplex homes with shingled upper walls stand amid a large pile of debris and broken furniture scattered across a driveway and yard, with bare trees and a clear sky beyond."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: P1010071empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee64df6a14fb29ee64e518.jpg
     url: /files/original/14fb29ee64df6a14fb29ee64e518.jpg
+    alt:
+      en: "Rusted barge or vessel hull sits beached beside a cracked concrete slab littered with scattered rebar and metal rods, with overgrown grass and trees framing the scene under a clear sky."
 geo:
 id: 23630
 item_type: Still Image

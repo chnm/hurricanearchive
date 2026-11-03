@@ -21,6 +21,8 @@ files:
     original_filename: P1010009.JPG
     thumb: /files/thumbnails/14fb29fc55152114fb29fc5518fd.jpg
     url: /files/original/14fb29fc55152114fb29fc5518fd.jpg
+    alt:
+      en: "Military cargo plane with rear loading ramp open sits on a tarmac, surrounded by trucks and uniformed personnel, with painted taxi lines curving across the pavement in the foreground."
 geo:
 id: 21708
 item_type: Still Image

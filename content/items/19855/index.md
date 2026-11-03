@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d22af7714fb2a0d22b35c.jpg
     url: /files/original/14fb2a0d22af7714fb2a0d22b35c.jpg
+    alt:
+      en: "A person in military camouflage films with a Sony video camera as a man in a white hard hat and sunglasses speaks while gripping scaffolding inside a wood-framed building under construction."
 geo:
 id: 19855
 item_type: Still Image

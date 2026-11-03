@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0276engineers.JPG
     thumb: /files/thumbnails/14fb2a100af4b714fb2a100af89d.jpg
     url: /files/original/14fb2a100af4b714fb2a100af89d.jpg
+    alt:
+      en: "Dusk view of a flood- and debris-covered street lined with dormant trees and storm-damaged houses, with abandoned cars along the curb and a backhoe loader, lights on, parked on the road ahead."
 geo:
 id: 19433
 item_type: Still Image

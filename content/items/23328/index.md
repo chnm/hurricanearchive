@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0050cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eff3206f14fb29eff32451.jpg
     url: /files/original/14fb29eff3206f14fb29eff32451.jpg
+    alt:
+      en: "Military front-loader carrying four large metal barrels in its bucket drives past storm-damaged buildings and standing floodwater, with a \"Hibernia Bank 24 Hour ATM\" sign visible in the background."
 geo:
 id: 23328
 item_type: Still Image

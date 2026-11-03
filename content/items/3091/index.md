@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (10).JPG
     thumb: /files/thumbnails/14fb2a5e14399914fb2a5e143d8c.jpg
     url: /files/original/14fb2a5e14399914fb2a5e143d8c.jpg
+    alt:
+      en: "Two men in military fatigues play pool under a large striped tent, with a foosball table and partial sign reading \"Katrina...Rita\" visible in the background."
 geo:
 id: 3091
 item_type: Still Image

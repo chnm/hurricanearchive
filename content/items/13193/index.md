@@ -21,6 +21,8 @@ files:
     original_filename: 186 truck flooded.jpg
     thumb: /files/thumbnails/14fb2a1f77ceed14fb2a1f77d2d4.jpg
     url: /files/original/14fb2a1f77ceed14fb2a1f77d2d4.jpg
+    alt:
+      en: "A blue pickup truck stands in floodwater beside a trailer loaded with tires and discarded appliances, with houses and trees in the background."
 geo:
 id: 13193
 item_type: Still Image

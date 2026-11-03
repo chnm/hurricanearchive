@@ -21,6 +21,8 @@ files:
     original_filename: Picture 216cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b316e8314fb2a0b317269.jpg
     url: /files/original/14fb2a0b316e8314fb2a0b317269.jpg
+    alt:
+      en: "Debris-strewn concrete street lined with a damaged two-story house and broken tree limbs, with several figures gathered near fallen branches in the distance."
 geo:
 id: 20119
 item_type: Still Image

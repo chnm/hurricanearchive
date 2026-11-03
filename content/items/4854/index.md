@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0173.JPG
     thumb: /files/thumbnails/14fb2a5526e4f214fb2a5526e8d7.jpg
     url: /files/original/14fb2a5526e4f214fb2a5526e8d7.jpg
+    alt:
+      en: "A house with light-colored vinyl siding and a triangular gable vent, attached to a lean-to structure with a corrugated roof covered in fallen pine needles and debris, pine trees visible in the background."
 geo:
 id: 4854
 item_type: Still Image

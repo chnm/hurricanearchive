@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 031.jpg
     thumb: /files/thumbnails/14fb2a12db236314fb2a12db2749.jpg
     url: /files/original/14fb2a12db236314fb2a12db2749.jpg
+    alt:
+      en: "Seated service member in camouflage pants and tan shirt gives a \"shaka\" hand sign beneath a California Republic flag hung on a military tent, with two uniformed personnel standing nearby."
 geo:
 id: 19121
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1931superdome.JPG
     thumb: /files/thumbnails/14fb29e09b928914fb29e09b996a.jpg
     url: /files/original/14fb29e09b928914fb29e09b996a.jpg
+    alt:
+      en: "Soldiers in camouflage fatigues carrying gear and weapons disembark from a military helicopter onto a paved landing pad, with an elevated highway and buildings visible in the background."
 geo:
 id: 25232
 item_type: Still Image

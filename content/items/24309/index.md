@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-02-0A.jpg
     thumb: /files/thumbnails/14fb29e8c8c61014fb29e8c8c9f3.jpg
     url: /files/original/14fb29e8c8c61014fb29e8c8c9f3.jpg
+    alt:
+      en: "Aerial view of a sprawling shopping mall complex with large parking lots, surrounded by roads, scattered trees, and a hazy cityscape extending to the horizon."
 geo:
 id: 24309
 item_type: Still Image

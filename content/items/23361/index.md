@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0066abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efcd0d8014fb29efcd1166.jpg
     url: /files/original/14fb29efcd0d8014fb29efcd1166.jpg
+    alt:
+      en: "Young man in a backwards cap and plaid shirt smiles at the camera, seated in the foreground with knees drawn up, as military-style trucks sit parked near a gas station canopy behind him."
 geo:
 id: 23361
 item_type: Still Image

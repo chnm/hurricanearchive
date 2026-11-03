@@ -21,6 +21,8 @@ files:
     original_filename: 28.jpg
     thumb: /files/thumbnails/14fb2a6065618d14fb2a60656572.jpg
     url: /files/original/14fb2a6065618d14fb2a60656572.jpg
+    alt:
+      en: "Child's marker drawing of a tall blue house with a pointed roof and X-patterned windows, flanked by two trees, under a line of dark blue clouds with a yellow sun, with scribbled figures along the ground."
 geo:
 id: 2730
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Medical processingdelaware.jpg
     thumb: /files/thumbnails/14fb29f13052c214fb29f13056a8.jpg
     url: /files/original/14fb29f13052c214fb29f13056a8.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms sit at a table with a laptop, paperwork, and medical supplies including alcohol wipes, gauze, and syringes, with other uniformed personnel working at tables in the background."
 geo:
 id: 23180
 item_type: Still Image

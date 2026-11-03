@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2210conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11bbc84a14fb2a11bbcc12.jpg
     url: /files/original/14fb2a11bbc84a14fb2a11bbcc12.jpg
+    alt:
+      en: "A man reads a picture book to children seated on the ground amid trash-strewn pavement, with soldiers in camouflage standing guard nearby and a red water cooler visible."
 geo:
 id: 19229
 item_type: Still Image

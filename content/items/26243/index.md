@@ -21,6 +21,8 @@ files:
     original_filename: AB Mardi Gras 71_a7c628037d.jpg
     thumb: /files/thumbnails/14fb29d95e234e14fb29d95e2741.jpg
     url: /files/original/14fb29d95e234e14fb29d95e2741.jpg
+    alt:
+      en: "Three people in elaborate Mardi Gras costumes and sunglasses pose on Bourbon Street, New Orleans, with a \"Cabaret Theatre\" sign and crowd visible behind them, 1971."
 geo:
   address: ''
   lat: 29.87876

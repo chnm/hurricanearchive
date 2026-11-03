@@ -21,6 +21,8 @@ files:
     original_filename: Stairwell at Jack BrkslJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f3b361ee14fb29f3b36615.jpg
     url: /files/original/14fb29f3b361ee14fb29f3b36615.jpg
+    alt:
+      en: "Metal stairwell railings descending into dark, flood-level water, with a tree trunk reflection visible in the submerged area ahead."
 geo:
 id: 22796
 item_type: Still Image

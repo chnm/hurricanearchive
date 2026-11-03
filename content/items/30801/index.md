@@ -21,6 +21,8 @@ files:
     original_filename: Picture 072.jpg
     thumb: /files/thumbnails/14fb29cc665da614fb29cc666182.jpg
     url: /files/original/14fb29cc665da614fb29cc666182.jpg
+    alt:
+      en: "A dark-colored SUV drives along a dirt driveway past a wood-sided house, surrounded by tall trees with broken branches and scattered storm debris."
 geo:
 id: 30801
 item_type: Still Image

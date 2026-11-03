@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-03-2Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e57a3fe414fb29e57a4368.jpg
     url: /files/original/14fb29e57a3fe414fb29e57a4368.jpg
+    alt:
+      en: "A military medical Black Hawk helicopter hovers low over a parking lot, with a uniformed man watching from the ground near vans, trucks, and a parking garage."
 geo:
 id: 24701
 item_type: Still Image

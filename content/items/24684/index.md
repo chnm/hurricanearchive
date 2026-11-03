@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00788 DSC00788cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5921c0014fb29e5921fe5.jpg
     url: /files/original/14fb29e5921c0014fb29e5921fe5.jpg
+    alt:
+      en: "A man in civilian clothes stands on the back of a military flatbed truck holding an overhead roll bar, surrounded by uniformed service members, with bare, storm-damaged trees in the background."
 geo:
 id: 24684
 item_type: Still Image

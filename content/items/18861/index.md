@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0078grandisle.JPG
     thumb: /files/thumbnails/14fb2a14ddba0f14fb2a14ddbdf3.jpg
     url: /files/original/14fb2a14ddba0f14fb2a14ddbdf3.jpg
+    alt:
+      en: "Aerial view from a helicopter, with part of the landing gear visible, showing a coastal road running alongside a waterway, surrounded by debris-strewn land and scattered damaged structures amid sparse vegetation."
 geo:
 id: 18861
 item_type: Still Image

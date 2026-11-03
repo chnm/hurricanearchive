@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (4).JPG
     thumb: /files/thumbnails/14fb2a5e0b4e9f14fb2a5e0b5620.jpg
     url: /files/original/14fb2a5e0b4e9f14fb2a5e0b5620.jpg
+    alt:
+      en: "Row of tan Quonset-style tent shelters along a gravel road, with trash cans, utility poles, and a trailer in the foreground under a clear sky."
 geo:
 id: 3099
 item_type: Still Image

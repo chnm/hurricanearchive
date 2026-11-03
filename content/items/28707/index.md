@@ -20,6 +20,8 @@ files:
     original_filename: 114539610_5fd194d26c.jpg
     thumb: /files/thumbnails/14fb29d17c129914fb29d17c1682.jpg
     url: /files/original/14fb29d17c129914fb29d17c1682.jpg
+    alt:
+      en: "A residential street with a damaged roof on a brick house, a parked silver sedan, a wooden fence, trash bags on the grass, and bare trees under an overcast sky."
 geo:
 id: 28707
 item_type: Still Image

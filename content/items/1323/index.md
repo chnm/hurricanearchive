@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28367.jpg
     thumb: /files/thumbnails/14fb2a6990db4c14fb2a6990e30c.jpg
     url: /files/original/14fb2a6990db4c14fb2a6990e30c.jpg
+    alt:
+      en: "Weathered wooden piling on a shrimp boat deck with a yellow handwritten notice in Vietnamese, surrounded by coiled ropes, netting, a ladder, and the boat's partially visible painted name \"CAPT.\""
 geo:
   address: ''
   lat: 0.0

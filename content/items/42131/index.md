@@ -20,6 +20,8 @@ files:
     original_filename: 2010 062_3abc53ba7a.jpg
     thumb: /files/thumbnails/14fb29c3415c0c14fb29c3415f86.jpg
     url: /files/original/14fb29c3415c0c14fb29c3415f86.jpg
+    alt:
+      en: "Two people smiling at night outdoors, the man wearing a hooded jacket and multiple Mardi Gras bead necklaces, with parking lot lights and buildings visible in the background."
 geo:
 id: 42131
 item_type: Still Image

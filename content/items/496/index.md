@@ -26,6 +26,8 @@ files:
     original_filename: Mississippi_Etc_017_8d5707c7af.jpg
     thumb: /files/thumbnails/14fb2a6fb3d14814fb2a6fb3d529.jpg
     url: /files/original/14fb2a6fb3d14814fb2a6fb3d529.jpg
+    alt:
+      en: "A woman in a hat walks a black dog on leash along a road beside a cleared, debris-strewn lot with bare, storm-damaged trees and a wrecked pickup truck under a clear blue sky."
 geo:
   address: ''
   lat: 29.938343

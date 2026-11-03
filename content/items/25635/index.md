@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.057.JPG
     thumb: /files/thumbnails/14fb29dcf565a214fb29dcf56972.jpg
     url: /files/original/14fb29dcf565a214fb29dcf56972.jpg
+    alt:
+      en: "Large yellow letter \"R\" with blue trim leans against a metal structure beside a dark green bucket planted with yellow and purple pansies."
 geo:
 id: 25635
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28315.jpg
     thumb: /files/thumbnails/14fb2a672cba0f14fb2a672cbdf5.jpg
     url: /files/original/14fb2a672cba0f14fb2a672cbdf5.jpg
+    alt:
+      en: "Severely damaged building with exposed structural framing and twisted metal, its peaked roof sections still standing amid scattered debris and wreckage on the ground."
 geo:
   address: ''
   lat: 0.0

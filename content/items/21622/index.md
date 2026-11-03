@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0354-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fcfecaf014fb29fcfeced2.jpg
     url: /files/original/14fb29fcfecaf014fb29fcfeced2.jpg
+    alt:
+      en: "Murky, sediment-laden river with a red channel marker buoy near the far bank, bordered by dense trees and brush along the shoreline."
 geo:
 id: 21622
 item_type: Still Image

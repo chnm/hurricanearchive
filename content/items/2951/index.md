@@ -21,6 +21,8 @@ files:
     original_filename: MVC-006S.JPG
     thumb: /files/thumbnails/14fb2a5f7b4b8814fb2a5f7b4f66.jpg
     url: /files/original/14fb2a5f7b4b8814fb2a5f7b4f66.jpg
+    alt:
+      en: "View from the deck of a battleship looking forward toward its main gun turrets and superstructure, with the ship's mast and antenna rising against a clear blue sky, water and a distant shoreline visible beyond."
 geo:
 id: 2951
 item_type: Still Image

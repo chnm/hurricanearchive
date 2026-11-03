@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27927.jpg
     thumb: /files/thumbnails/14fb2a6a93fb5114fb2a6a9409d5.jpg
     url: /files/original/14fb2a6a93fb5114fb2a6a9409d5.jpg
+    alt:
+      en: "Sign reading \"New Orleans Centre at the Dome, Parking\" mounted on a concrete building corner, with a security camera and a blank illuminated display box nearby, set against a blue sky."
 geo:
   address: ''
   lat: 0.0

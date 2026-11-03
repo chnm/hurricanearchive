@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1673superdome.JPG
     thumb: /files/thumbnails/14fb29e26ef1be14fb29e26ef23b.jpg
     url: /files/original/14fb29e26ef1be14fb29e26ef23b.jpg
+    alt:
+      en: "Soldiers in woodland camouflage uniforms, one wearing a cap marked \"S.R.T.\" and another with a backpack labeled \"US,\" walk across a brick plaza with other uniformed personnel in the background."
 geo:
 id: 25087
 item_type: Still Image

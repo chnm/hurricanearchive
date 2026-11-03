@@ -21,6 +21,8 @@ files:
     original_filename: MVC-014S.JPG
     thumb: /files/thumbnails/14fb2a5fd31c9114fb2a5fd32076.jpg
     url: /files/original/14fb2a5fd31c9114fb2a5fd32076.jpg
+    alt:
+      en: "A mannequin dressed in a white sailor uniform stands beside a metal workstation with filing drawers, two glass bottles, and an electronic control panel with dials and switches."
 geo:
 id: 2857
 item_type: Still Image

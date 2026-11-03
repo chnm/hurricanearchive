@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 010.jpg
     thumb: /files/thumbnails/14fb2a22888f4a14fb2a22889347.jpg
     url: /files/original/14fb2a22888f4a14fb2a22889347.jpg
+    alt:
+      en: "Pavement torn apart and sand exposed along a coastal roadway, with debris, a crane, and buildings in the background under an overcast sky."
 geo:
 id: 11963
 item_type: Still Image

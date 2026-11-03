@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0153.JPG
     thumb: /files/thumbnails/14fb2a55386e6d14fb2a55387252.jpg
     url: /files/original/14fb2a55386e6d14fb2a55387252.jpg
+    alt:
+      en: "A large fallen tree with browned, withered foliage rests against a brick building, with its trunk and branches sprawled across a metal fence and surrounding debris."
 geo:
 id: 4838
 item_type: Still Image

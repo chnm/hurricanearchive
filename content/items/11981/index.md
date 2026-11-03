@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 029.jpg
     thumb: /files/thumbnails/14fb2a22775b8814fb2a22775f6e.jpg
     url: /files/original/14fb2a22775b8814fb2a22775f6e.jpg
+    alt:
+      en: "Debris-strewn lot beside a damaged Texaco FoodMart gas station, with a nearby building stripped down to its wooden frame and roof, signage reading \"ATM,\" \"FoodMart,\" and \"Comfort Inn\" still standing."
 geo:
 id: 11981
 item_type: Still Image

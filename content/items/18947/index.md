@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0310causeway.JPG
     thumb: /files/thumbnails/14fb2a14102a4e14fb2a14102e2d.jpg
     url: /files/original/14fb2a14102a4e14fb2a14102e2d.jpg
+    alt:
+      en: "Aerial view of twin parallel causeway bridges stretching across open water with scattered vehicles, disappearing into a hazy horizon."
 geo:
 id: 18947
 item_type: Still Image

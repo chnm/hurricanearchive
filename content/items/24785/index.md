@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2107superdome.JPG
     thumb: /files/thumbnails/14fb29e4bcbfc914fb29e4bcc3ae.jpg
     url: /files/original/14fb29e4bcbfc914fb29e4bcc3ae.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands in the foreground at night, with two ambulances and several people visible behind him in a parking area, their headlights and emergency markings illuminated in the darkness."
 geo:
 id: 24785
 item_type: Still Image

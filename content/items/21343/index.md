@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0232-9-25.JPG
     thumb: /files/thumbnails/14fb29ff4c2b1c14fb29ff4c2f02.jpg
     url: /files/original/14fb29ff4c2b1c14fb29ff4c2f02.jpg
+    alt:
+      en: "Aerial view of a flooded rural area with scattered mobile homes, trucks, and a school bus partially submerged amid trees and murky floodwaters along a riverbank."
 geo:
 id: 21343
 item_type: Still Image

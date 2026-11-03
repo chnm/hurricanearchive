@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea52ba9914fb29ea52be80.jpg
     url: /files/original/14fb29ea52ba9914fb29ea52be80.jpg
+    alt:
+      en: "Aerial view of a flooded coastal area with damaged boats run aground near a debris-strewn shoreline, surrounded by submerged marshland and scattered storm wreckage."
 geo:
 id: 24136
 item_type: Still Image

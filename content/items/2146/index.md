@@ -26,6 +26,8 @@ files:
     original_filename: 030318093340_28764a11df.JPG
     thumb: /files/thumbnails/14fb2a6d9e039914fb2a6d9e0638.jpg
     url: /files/original/14fb2a6d9e039914fb2a6d9e0638.jpg
+    alt:
+      en: "Collapsed metal roof and awning of a Dairy Queen restaurant, with twisted panels hanging over a red fenced patio area, storm debris scattered on the ground."
 geo:
   address: ''
   lat: 30.135425

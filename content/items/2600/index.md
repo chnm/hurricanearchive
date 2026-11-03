@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9531.jpg
     thumb: /files/thumbnails/14fb2a6450f1b914fb2a6450f59d.jpg
     url: /files/original/14fb2a6450f1b914fb2a6450f59d.jpg
+    alt:
+      en: "An overturned red Mack truck cab lies amid debris, with a mattress tangled in its wreckage, surrounded by piles of splintered wood and a damaged house in the background."
 geo:
 id: 2600
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2456726245_3b9ec19817.
     thumb: /files/thumbnails/14fb29c8a024c714fb29c8a02bae.jpg
     url: /files/original/14fb29c8a024c714fb29c8a02bae.jpg
+    alt:
+      en: "A muddy excavation site with cracked earth and wooden planks embedded in the ground, flanked by a yellow Komatsu excavator and another construction vehicle, with trees lining the background."
 geo:
 id: 34896
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0292.JPG
     thumb: /files/thumbnails/14fb2a5e63cba014fb2a5e63cf7f.jpg
     url: /files/original/14fb2a5e63cba014fb2a5e63cf7f.jpg
+    alt:
+      en: "Close-up of a gray naval ship's bow marked with \"60,\" moored at a dock beside calm water under a clear blue sky, with draft marks visible near the waterline."
 geo:
 id: 3043
 item_type: Still Image

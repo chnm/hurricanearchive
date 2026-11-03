@@ -21,6 +21,8 @@ files:
     original_filename: Delgado C.C..jpg
     thumb: /files/thumbnails/14fb29fb64490814fb29fb644ce9.jpg
     url: /files/original/14fb29fb64490814fb29fb644ce9.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood and campus buildings, with brown floodwater submerging streets and houses, rows of parked vehicles, and scattered storm debris among bare, damaged trees."
 geo:
 id: 21844
 item_type: Still Image

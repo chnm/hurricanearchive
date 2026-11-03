@@ -21,6 +21,8 @@ files:
     original_filename: S4300092alero.JPG
     thumb: /files/thumbnails/14fb2a1559c8e314fb2a1559cb27.jpg
     url: /files/original/14fb2a1559c8e314fb2a1559cb27.jpg
+    alt:
+      en: "Three U.S. Army soldiers in camouflage uniforms huddle closely together on a staircase, looking downward at something off-frame; one name tape reads \"BELGARD.\""
 geo:
 id: 18726
 item_type: Still Image

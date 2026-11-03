@@ -21,6 +21,8 @@ files:
     original_filename: katrina 011.jpg
     thumb: /files/thumbnails/14fb29fc04faf114fb29fc04fed0.jpg
     url: /files/original/14fb29fc04faf114fb29fc04fed0.jpg
+    alt:
+      en: "Close-up selfie of a young man in woodland camouflage uniform and cap, resting against a pillow, with a crowded indoor space and other people visible in the background; a timestamp reads \"2:46 PM.\""
 geo:
 id: 21743
 item_type: Still Image

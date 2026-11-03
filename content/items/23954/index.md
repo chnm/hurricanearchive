@@ -21,6 +21,8 @@ files:
     original_filename: 09180024plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec409b6a14fb29ec409f51.jpg
     url: /files/original/14fb29ec409b6a14fb29ec409f51.jpg
+    alt:
+      en: "A dark sedan sits partially submerged in murky floodwater, surrounded by storm-damaged trees, scattered debris, and downed power lines in the foreground."
 geo:
 id: 23954
 item_type: Still Image

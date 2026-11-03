@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1729superdome.JPG
     thumb: /files/thumbnails/14fb29e21e95da14fb29e21e99b7.jpg
     url: /files/original/14fb29e21e95da14fb29e21e99b7.jpg
+    alt:
+      en: "Military personnel and a medical worker in scrubs assist a patient across a flooded rooftop helipad toward waiting yellow medical helicopters and a military helicopter with an armed guard."
 geo:
 id: 25126
 item_type: Still Image

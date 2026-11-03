@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1149Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f744f1cb14fb29f744fca8.jpg
     url: /files/original/14fb29f744f1cb14fb29f744fca8.jpg
+    alt:
+      en: "Floodwaters nearly submerge two parked cars, with only their rooftops and upper windows visible above the murky water, set against a brick and white-column building facade."
 geo:
 id: 22336
 item_type: Still Image

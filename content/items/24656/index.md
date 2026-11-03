@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0057medics.JPG
     thumb: /files/thumbnails/14fb29e5cb5fdc14fb29e5cb63f4.jpg
     url: /files/original/14fb29e5cb5fdc14fb29e5cb63f4.jpg
+    alt:
+      en: "A man in a U.S. Army camouflage uniform, with \"U.S. Army\" visible on a sleeve tab, stands indoors near a tiled wall; the photo is oriented sideways with him appearing to lean horizontally."
 geo:
 id: 24656
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58c8482114fb2a58c84c06.jpg
     url: /files/original/14fb2a58c8482114fb2a58c84c06.jpg
+    alt:
+      en: "Coast Guard personnel in uniform stand facing a man in a light button-down shirt as a photographer captures the moment; a two-story building and parked trucks are visible in the background, timestamped 3:51 PM."
 geo:
 id: 3951
 item_type: Still Image

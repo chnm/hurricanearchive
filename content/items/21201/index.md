@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0196-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a0005628014fb2a00056666.jpg
     url: /files/original/14fb2a0005628014fb2a00056666.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with flooded streets, collapsed and scattered homes, submerged vehicles, and widespread debris stretching toward a distant tree line and water tower."
 geo:
 id: 21201
 item_type: Still Image

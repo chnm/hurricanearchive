@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2024superdome.JPG
     thumb: /files/thumbnails/14fb29df54bc8f14fb29df54c06e.jpg
     url: /files/original/14fb29df54bc8f14fb29df54c06e.jpg
+    alt:
+      en: "Military personnel assist a line of evacuees, including a person in a wheelchair, boarding a large Chinook helicopter on a wet tarmac, with a highway overpass visible in the background."
 geo:
 id: 25297
 item_type: Still Image

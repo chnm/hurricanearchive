@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea565c1014fb29ea565ff5.jpg
     url: /files/original/14fb29ea565c1014fb29ea565ff5.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with a large metal-roofed warehouse standing partially submerged in murky water, surrounded by damaged homes, leafless trees, and scattered debris."
 geo:
 id: 24131
 item_type: Still Image

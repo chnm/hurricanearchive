@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0131-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a031a9bf514fb2a031a9fda.jpg
     url: /files/original/14fb2a031a9bf514fb2a031a9fda.jpg
+    alt:
+      en: "A flood-damaged single-story house with a metal roof sits partially submerged in standing floodwater, with a boat on a trailer floating nearby and trees surrounding the property."
 geo:
 id: 20841
 item_type: Still Image

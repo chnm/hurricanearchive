@@ -24,6 +24,8 @@ files:
     original_filename: in the cabildo.jpg
     thumb: /files/thumbnails/14fb29cc5086d714fb29cc508abe.jpg
     url: /files/original/14fb29cc5086d714fb29cc508abe.jpg
+    alt:
+      en: "Black-and-white photo of a young boy crouching beside an old cannon mounted on a wooden carriage in a courtyard, with another cannon barrel in the foreground and a balcony above."
 geo:
 id: 30813
 item_type: Still Image

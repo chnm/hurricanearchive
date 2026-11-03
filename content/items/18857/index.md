@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0074grandisle.JPG
     thumb: /files/thumbnails/14fb2a14e3615014fb2a14e36535.jpg
     url: /files/original/14fb2a14e3615014fb2a14e36535.jpg
+    alt:
+      en: "Aerial view of a storm-damaged coastal landscape with scattered debris, downed trees, and a small collapsed structure between a roadway and a body of water."
 geo:
 id: 18857
 item_type: Still Image

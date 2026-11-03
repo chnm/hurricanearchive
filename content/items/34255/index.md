@@ -24,6 +24,8 @@ files:
     original_filename: MaryXmas03 (15) (2)_e776ef2e9a.jpg
     thumb: /files/thumbnails/14fb29ca62d65514fb29ca62dcea.jpg
     url: /files/original/14fb29ca62d65514fb29ca62dcea.jpg
+    alt:
+      en: "A group gathers in a kitchen during a Christmas celebration, with one man wearing a Santa hat, as others stand and sit around a table set with food and drinks."
 geo:
   address: ''
   lat: 0.0

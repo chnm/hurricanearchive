@@ -20,6 +20,8 @@ files:
     original_filename: liv pl2_eb227da803.jpg
     thumb: /files/thumbnails/14fb29c4d0c04c14fb29c4d0c433.jpg
     url: /files/original/14fb29c4d0c04c14fb29c4d0c433.jpg
+    alt:
+      en: "Floodwater completely still beneath trees and a residential rooftop, creating a near-perfect mirrored reflection of the branches and sky on the water's surface."
 geo:
   address: 340 e. livingston pl
   lat: 0.0

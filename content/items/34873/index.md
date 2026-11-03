@@ -20,6 +20,8 @@ files:
     original_filename: 2457563912_2fdabc7090.
     thumb: /files/thumbnails/14fb29c8d4061814fb29c8d409f8.jpg
     url: /files/original/14fb29c8d4061814fb29c8d409f8.jpg
+    alt:
+      en: "Construction site with wooden forms and rebar laid out in a trench, piles of excavated dirt nearby, and several people working amid surrounding trees and grass."
 geo:
 id: 34873
 item_type: Still Image

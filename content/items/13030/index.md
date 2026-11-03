@@ -21,6 +21,8 @@ files:
     original_filename: before building to sW.jpg
     thumb: /files/thumbnails/14fb2a20fa271914fb2a20fa2b00.jpg
     url: /files/original/14fb2a20fa271914fb2a20fa2b00.jpg
+    alt:
+      en: "Two-story corner building with arched upper windows, ground-floor storefronts boarded with plywood, partial signage reading \"St...B...,\" and street-level trees along an empty sidewalk and road."
 geo:
 id: 13030
 item_type: Still Image

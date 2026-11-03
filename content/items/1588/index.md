@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28469.jpg
     thumb: /files/thumbnails/14fb2a67b6a6a514fb2a67b6aa8a.jpg
     url: /files/original/14fb2a67b6a6a514fb2a67b6aa8a.jpg
+    alt:
+      en: "A child sleeps on a mattress on the floor under a Mickey Mouse blanket, surrounded by pillows, luggage, a blue balloon, and personal belongings in a crowded shelter space."
 geo:
   address: ''
   lat: 0.0

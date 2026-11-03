@@ -24,6 +24,8 @@ files:
     original_filename: P1010041b.JPG
     thumb: /files/thumbnails/14fb2a5aa1a78a14fb2a5aa1aa0d.jpg
     url: /files/original/14fb2a5aa1a78a14fb2a5aa1aa0d.jpg
+    alt:
+      en: "Close-up of a wooden trophy with gold figurines and brass plaques reading \"LHSAA\" and \"Class AAAA State Champions 1971,\" displayed alongside other trophies."
 geo:
 id: 3611
 item_type: Still Image

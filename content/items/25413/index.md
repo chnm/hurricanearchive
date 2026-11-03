@@ -21,6 +21,8 @@ files:
     original_filename: S4300054superdome.JPG
     thumb: /files/thumbnails/14fb29ddfc0de414fb29ddfc11ca.jpg
     url: /files/original/14fb29ddfc0de414fb29ddfc11ca.jpg
+    alt:
+      en: "Rows of metal barricades and folding chairs surround piles of debris and trash, with a crowd of people and National Guard troops gathered near high-rise buildings under a sign reading \"N.O.P.D. Police Line Do Not Cross.\""
 geo:
 id: 25413
 item_type: Still Image

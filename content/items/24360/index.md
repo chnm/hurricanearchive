@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-08-6A.jpg
     thumb: /files/thumbnails/14fb29e87410cc14fb29e8741422.jpg
     url: /files/original/14fb29e87410cc14fb29e8741422.jpg
+    alt:
+      en: "Floodwater submerges a parking lot and the lower floors of a white building with balconies, with only the roof of a vehicle and its amber warning light visible above the surface."
 geo:
 id: 24360
 item_type: Still Image

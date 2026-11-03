@@ -21,6 +21,8 @@ files:
     original_filename: aerials7.jpg
     thumb: /files/thumbnails/14fb2a1998dcb614fb2a1998e09b.jpg
     url: /files/original/14fb2a1998dcb614fb2a1998e09b.jpg
+    alt:
+      en: "Aerial view of a severely damaged residential area with collapsed homes, scattered debris, and downed trees lining dirt roads, with green metal roofing visible among the wreckage."
 geo:
 id: 14360
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 031_washington__first_st_c8437d0a48.jpg
     thumb: /files/thumbnails/14fb2a703c287c14fb2a703c2c61.jpg
     url: /files/original/14fb2a703c287c14fb2a703c2c61.jpg
+    alt:
+      en: "Storm-damaged brick storefront with boarded windows and a torn canopy, hand-painted plywood signs reading \"Relief teams from all over the U.S. - Thank you for being here! God Bless! -ChriPat\" beneath a \"JOUBAN\" sign."
 geo:
   address: ''
   lat: 30.651656

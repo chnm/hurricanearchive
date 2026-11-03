@@ -21,6 +21,8 @@ files:
     original_filename: 143 rita at night 2.jpg
     thumb: /files/thumbnails/14fb2a1fe7682c14fb2a1fe76bcd.jpg
     url: /files/original/14fb2a1fe7682c14fb2a1fe76bcd.jpg
+    alt:
+      en: "Dark nighttime scene with water droplets on the camera lens, a faint red light in the distance, and a curb visible in the foreground."
 geo:
 id: 13153
 item_type: Still Image

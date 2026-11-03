@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0708.JPG
     thumb: /files/thumbnails/14fb2a5325b10e14fb2a5325b76f.jpg
     url: /files/original/14fb2a5325b10e14fb2a5325b76f.jpg
+    alt:
+      en: "Storm-damaged yard with large felled tree trunks and a cut stump in the foreground, debris scattered across bare ground, and a house partially obscured by downed branches and bare trees in the background."
 geo:
 id: 5263
 item_type: Still Image

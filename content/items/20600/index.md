@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0041-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a05bf090214fb2a05bf0b76.jpg
     url: /files/original/14fb2a05bf090214fb2a05bf0b76.jpg
+    alt:
+      en: "A flood-damaged mobile home with a partially collapsed carport sits beside standing floodwater, as police vehicles and officers gather on the adjacent road."
 geo:
 id: 20600
 item_type: Still Image

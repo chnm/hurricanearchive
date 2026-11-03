@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6631_2dca56aeaf.JPG
     thumb: /files/thumbnails/14fb29d2bb8b9514fb29d2bb8f85.jpg
     url: /files/original/14fb29d2bb8b9514fb29d2bb8f85.jpg
+    alt:
+      en: "Creased black-and-white photo of a bride holding a bouquet and a groom in a suit standing on a sidewalk beside a parked car, with trees and buildings in the background."
 geo:
   address: ''
   lat: 29.87876

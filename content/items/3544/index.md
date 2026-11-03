@@ -24,6 +24,8 @@ files:
     original_filename: P1010119.JPG
     thumb: /files/thumbnails/14fb2a5ae8026d14fb2a5ae80647.jpg
     url: /files/original/14fb2a5ae8026d14fb2a5ae80647.jpg
+    alt:
+      en: "Tree-lined street with bare and partly leafed branches overhead, several large dump trucks and trailers parked roadside amid cut branches and debris, and a pickup truck driving down the otherwise empty road under a clear blue sky."
 geo:
 id: 3544
 item_type: Still Image

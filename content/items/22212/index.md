@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1019Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f915d8c314fb29f915e092.jpg
     url: /files/original/14fb29f915d8c314fb29f915e092.jpg
+    alt:
+      en: "A military Black Hawk helicopter in olive drab camouflage sits on a grassy lawn, with a uniformed crew member visible through the open side door, and a brick building and trees in the background."
 geo:
 id: 22212
 item_type: Still Image

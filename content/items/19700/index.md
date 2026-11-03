@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 087cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e428bea14fb2a0e428edc.jpg
     url: /files/original/14fb2a0e428bea14fb2a0e428edc.jpg
+    alt:
+      en: "A small boat, mostly hidden beneath a massive pile of fallen tree branches and dried leaves, sits wedged against a large tree trunk along a debris-covered roadside."
 geo:
 id: 19700
 item_type: Still Image

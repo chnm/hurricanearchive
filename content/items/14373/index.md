@@ -21,6 +21,8 @@ files:
     original_filename: aerials81.jpg
     thumb: /files/thumbnails/14fb2a1988ffb414fb2a19890904.jpg
     url: /files/original/14fb2a1988ffb414fb2a19890904.jpg
+    alt:
+      en: "Aerial view of a large white-roofed building with a crowded parking lot, surrounded by sparse, damaged trees and bare ground, situated beside a two-lane highway."
 geo:
 id: 14373
 item_type: Still Image

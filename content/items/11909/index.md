@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 031.jpg
     thumb: /files/thumbnails/14fb2a22c1a6ca14fb2a22c1aab0.jpg
     url: /files/original/14fb2a22c1a6ca14fb2a22c1aab0.jpg
+    alt:
+      en: "Storm debris, twisted metal panels, and a fallen light pole litter a parking lot in front of a damaged strip mall with Smoothie King, The UPS Store, and Alltel signage; dated 2005/09/24."
 geo:
 id: 11909
 item_type: Still Image

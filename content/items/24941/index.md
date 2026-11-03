@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1442superdome.JPG
     thumb: /files/thumbnails/14fb29e3ac658014fb29e3ac6967.jpg
     url: /files/original/14fb29e3ac658014fb29e3ac6967.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms assist a man to the ground near a truck, surrounded by MRE food packets and supplies, with onlookers' legs visible in the background."
 geo:
 id: 24941
 item_type: Still Image

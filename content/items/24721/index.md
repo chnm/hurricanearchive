@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-23-22Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e55c700a14fb29e55c73fd.jpg
     url: /files/original/14fb29e55c700a14fb29e55c73fd.jpg
+    alt:
+      en: "Flooded city street with submerged trees and bollards, several partially underwater vehicles including a pickup truck carrying people, beneath an elevated highway overpass and a tall dark high-rise building."
 geo:
 id: 24721
 item_type: Still Image

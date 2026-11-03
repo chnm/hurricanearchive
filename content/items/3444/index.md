@@ -24,6 +24,8 @@ files:
     original_filename: P1010011.JPG
     thumb: /files/thumbnails/14fb2a5bb0025614fb2a5bb00612.jpg
     url: /files/original/14fb2a5bb0025614fb2a5bb00612.jpg
+    alt:
+      en: "A residential street shaded by a large oak tree, with power lines overhead, parked cars along the roadside, and a red stop sign visible near the intersection ahead."
 geo:
 id: 3444
 item_type: Still Image

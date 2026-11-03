@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1641superdome.JPG
     thumb: /files/thumbnails/14fb29e28b817a14fb29e28b854e.jpg
     url: /files/original/14fb29e28b817a14fb29e28b854e.jpg
+    alt:
+      en: "A small helicopter flies over the damaged, torn roof of the Louisiana Superdome, with its membrane stripped away in patches revealing the underlying structure."
 geo:
 id: 25067
 item_type: Still Image

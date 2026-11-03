@@ -21,6 +21,8 @@ files:
     original_filename: Picture 190cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b5bb16314fb2a0b5bb8dd.jpg
     url: /files/original/14fb2a0b5bb16314fb2a0b5bb8dd.jpg
+    alt:
+      en: "Grassy roadside area with damaged, leaning trees and scattered debris under a partly cloudy sky, with a low wall bearing partially legible text and a paved road in the foreground."
 geo:
 id: 20093
 item_type: Still Image

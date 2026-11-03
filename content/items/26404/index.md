@@ -21,6 +21,8 @@ files:
     original_filename: HS 3 Pontchartrain Beach_dd20d5eb47.jpg
     thumb: /files/thumbnails/14fb29d8aedf8d14fb29d8aee36c.jpg
     url: /files/original/14fb29d8aedf8d14fb29d8aee36c.jpg
+    alt:
+      en: "Sepia-toned 1950 photo of three people riding a small boat-shaped amusement car on a track at Pontchartrain Beach, with palm trees and other ride cars visible in the background."
 geo:
   address: ''
   lat: 29.91685

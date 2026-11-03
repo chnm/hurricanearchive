@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28073.jpg
     thumb: /files/thumbnails/14fb2a69d591e114fb2a69d595c7.jpg
     url: /files/original/14fb2a69d591e114fb2a69d595c7.jpg
+    alt:
+      en: "A bent \"One Way\" street sign folded at a sharp angle on its pole, standing in an empty paved lot with brick buildings and bare trees in the background."
 geo:
   address: ''
   lat: 0.0

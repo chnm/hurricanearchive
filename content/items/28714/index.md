@@ -20,6 +20,8 @@ files:
     original_filename: 114535377_2dcea05718.jpg
     thumb: /files/thumbnails/14fb29d162d51f14fb29d162d904.jpg
     url: /files/original/14fb29d162d51f14fb29d162d904.jpg
+    alt:
+      en: "Aerial view of a white RV with an awning extended and a dark pickup truck parked on grass beneath an elevated roadway, with railroad tracks and support pillars visible in the background."
 geo:
 id: 28714
 item_type: Still Image

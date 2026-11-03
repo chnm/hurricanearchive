@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28693.jpg
     thumb: /files/thumbnails/14fb2a68722b2814fb2a68722e88.jpg
     url: /files/original/14fb2a68722b2814fb2a68722e88.jpg
+    alt:
+      en: "A gray dappled horse peers through metal stall bars next to a white box fan mounted on the wall, with blue rope tied nearby, inside a covered animal shelter."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: P1010143empireS&R.JPG
     thumb: /files/thumbnails/14fb29edba398614fb29edba3d6b.jpg
     url: /files/original/14fb29edba398614fb29edba3d6b.jpg
+    alt:
+      en: "Flood debris including snapped trees, scattered wreckage, and a bent metal sign post standing in murky standing water, with a dark object obscuring the upper right corner of the frame."
 geo:
 id: 23702
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0025.JPG
     thumb: /files/thumbnails/14fb2a56c9f02314fb2a56c9f40a.jpg
     url: /files/original/14fb2a56c9f02314fb2a56c9f40a.jpg
+    alt:
+      en: "A sandy beach strewn with debris and a large blackened tree branch, facing a multi-story building with stripped bare trees in front, under a partly cloudy sky."
 geo:
 id: 4599
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials120.jpg
     thumb: /files/thumbnails/14fb2a1a41fff614fb2a1a42047c.jpg
     url: /files/original/14fb2a1a41fff614fb2a1a42047c.jpg
+    alt:
+      en: "Aerial view of storm-damaged waterfront properties with debris-strewn yards, a partially submerged boat in muddy water, collapsed roofs, and scattered wreckage surrounding surviving houses."
 geo:
 id: 14280
 item_type: Still Image

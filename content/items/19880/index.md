@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0112gillslong.JPG
     thumb: /files/thumbnails/14fb2a0d01f1db14fb2a0d01f5c1.jpg
     url: /files/original/14fb2a0d01f1db14fb2a0d01f5c1.jpg
+    alt:
+      en: "Aerial view of a large grassy compound with multiple striped event tents, a central building surrounded by parked cars, scattered trees, and a hazy tree-lined horizon in the background."
 geo:
 id: 19880
 item_type: Still Image

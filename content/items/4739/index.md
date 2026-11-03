@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0249.JPG
     thumb: /files/thumbnails/14fb2a55cce51014fb2a55cce900.jpg
     url: /files/original/14fb2a55cce51014fb2a55cce900.jpg
+    alt:
+      en: "Damaged house siding with exposed plywood sheathing and bent, peeled-back vinyl panels, beside a wooden chest filled with blue bedding and a green shrub in the foreground."
 geo:
 id: 4739
 item_type: Still Image

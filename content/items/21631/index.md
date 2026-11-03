@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0362-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fceb7ab314fb29fceb7e25.jpg
     url: /files/original/14fb29fceb7ab314fb29fceb7e25.jpg
+    alt:
+      en: "Aerial view of a crowded fishing harbor with dozens of shrimp boats tightly packed together along a muddy river, some listing or run aground amid flooded marsh grass and debris."
 geo:
 id: 21631
 item_type: Still Image

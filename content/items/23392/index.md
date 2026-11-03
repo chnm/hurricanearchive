@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0083cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efb7429e14fb29efb74672.jpg
     url: /files/original/14fb29efb7429e14fb29efb74672.jpg
+    alt:
+      en: "Sideways-oriented photo of a flat, marshy coastal landscape with patches of water, sparse vegetation, and a tree line under an overcast sky."
 geo:
 id: 23392
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1037Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8d5770f14fb29f8d57af4.jpg
     url: /files/original/14fb29f8d5770f14fb29f8d57af4.jpg
+    alt:
+      en: "A military helicopter with a crew member visible in the open side door sits on a grassy lawn, its rotor blades spread above, with trees and a storage building in the background."
 geo:
 id: 22230
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: howland.JPG
     thumb: /files/thumbnails/14fb2a1a8c6ce714fb2a1a8c6fc5.jpg
     url: /files/original/14fb2a1a8c6ce714fb2a1a8c6fc5.jpg
+    alt:
+      en: "A soldier in camouflage fatigues wearing glasses, with name tape \"HOWLAND\" and \"U.S. ARMY\" patches visible, standing indoors in front of a whiteboard and another person in the background."
 geo:
   address: ''
   lat: 0.0

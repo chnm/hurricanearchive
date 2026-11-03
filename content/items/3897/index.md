@@ -21,6 +21,8 @@ files:
     original_filename: 100_0194.JPG
     thumb: /files/thumbnails/14fb2a5913be7214fb2a5913c257.jpg
     url: /files/original/14fb2a5913be7214fb2a5913c257.jpg
+    alt:
+      en: "Four U.S. Coast Guard personnel in orange life vests walk down a debris-strewn road leading into floodwaters that submerge trees, street signs, and lampposts under a clear blue sky."
 geo:
 id: 3897
 item_type: Still Image

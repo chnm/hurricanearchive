@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8818.jpg
     thumb: /files/thumbnails/14fb2a6572fab114fb2a6572fe97.jpg
     url: /files/original/14fb2a6572fab114fb2a6572fe97.jpg
+    alt:
+      en: "An overturned, rusted car lies flipped on its roof amid mud and debris, with a storm-damaged house—its roof collapsed and windows broken—standing in the background."
 geo:
 id: 2545
 item_type: Still Image

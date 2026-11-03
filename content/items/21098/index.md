@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0176-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a009d5a5214fb2a009d5e41.jpg
     url: /files/original/14fb2a009d5a5214fb2a009d5e41.jpg
+    alt:
+      en: "Aerial view of a flooded residential street with a submerged roof, scattered debris, a utility pole, and a lone figure standing in murky floodwater near a partially visible road."
 geo:
 id: 21098
 item_type: Still Image

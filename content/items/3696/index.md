@@ -24,6 +24,8 @@ files:
     original_filename: P1010139.JPG
     thumb: /files/thumbnails/14fb2a5a1806a514fb2a5a18091d.jpg
     url: /files/original/14fb2a5a1806a514fb2a5a18091d.jpg
+    alt:
+      en: "A historic house with ornate white trim, decorative chimney caps, and a brick chimney, its roof covered in blue tarp for storm damage protection, with trees and scaffolding in the foreground."
 geo:
 id: 3696
 item_type: Still Image

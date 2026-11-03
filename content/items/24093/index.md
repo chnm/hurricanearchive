@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eae848a714fb29eae84b45.jpg
     url: /files/original/14fb29eae848a714fb29eae84b45.jpg
+    alt:
+      en: "Camouflage military Humvee with open doors and a cardboard box on its hood parked outside a metal warehouse, with two uniformed soldiers standing nearby and a \"Thibodeaux Feeds Inc.\" sign on the building."
 geo:
 id: 24093
 item_type: Still Image

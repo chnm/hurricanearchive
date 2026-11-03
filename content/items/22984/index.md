@@ -21,6 +21,8 @@ files:
     original_filename: Hanger 5-7 NAS NONASneworleans.jpg
     thumb: /files/thumbnails/14fb29f24c044214fb29f24c07f4.jpg
     url: /files/original/14fb29f24c044214fb29f24c07f4.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand in a large hangar-like operations center, with state flags (Wisconsin, West Virginia, North Carolina, Delaware, Washington D.C.) mounted on the wall behind them and personnel working at tables with laptops nearby."
 geo:
 id: 22984
 item_type: Still Image

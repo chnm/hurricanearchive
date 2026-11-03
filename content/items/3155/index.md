@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Uptown.JPG
     thumb: /files/thumbnails/14fb2a5daf400a14fb2a5db001ab.jpg
     url: /files/original/14fb2a5daf400a14fb2a5db001ab.jpg
+    alt:
+      en: "Interior room with extensive ceiling damage, plaster and paint peeling away to expose the underlying structure, with a ceiling fan still hanging intact amid the wreckage."
 geo:
 id: 3155
 item_type: Still Image

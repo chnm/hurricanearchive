@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0092cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef91ed2514fb29ef91f106.jpg
     url: /files/original/14fb29ef91ed2514fb29ef91f106.jpg
+    alt:
+      en: "Aerial view of extensive flooding across a rural agricultural landscape, with scattered farmhouses and outbuildings surrounded by water-logged fields divided by a straight roadway."
 geo:
 id: 23409
 item_type: Still Image

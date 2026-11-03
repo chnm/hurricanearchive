@@ -26,6 +26,8 @@ files:
     original_filename: DSCN1399_ace73056bb.JPG
     thumb: /files/thumbnails/14fb2a6efb0d5514fb2a6efb1139.jpg
     url: /files/original/14fb2a6efb0d5514fb2a6efb1139.jpg
+    alt:
+      en: "A young girl with braided hair and a pink dress smiles next to an older boy in a green shirt holding a coloring book, surrounded by bedding and shelter supplies."
 geo:
   address: ''
   lat: 30.0101725993596

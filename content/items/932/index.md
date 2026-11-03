@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28251.jpg
     thumb: /files/thumbnails/14fb2a6c230aa314fb2a6c230e89.jpg
     url: /files/original/14fb2a6c230aa314fb2a6c230e89.jpg
+    alt:
+      en: "A fallen street sign reading \"Reynoir St.\" leans at an angle in the foreground, with a large multi-story \"Beau Rivage\" casino building and parked vehicles in the background."
 geo:
   address: ''
   lat: 0.0

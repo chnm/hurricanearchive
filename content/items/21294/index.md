@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0219.JPG
     thumb: /files/thumbnails/14fb29ff98c9bd14fb29ff98cda1.jpg
     url: /files/original/14fb29ff98c9bd14fb29ff98cda1.jpg
+    alt:
+      en: "Aerial view of a severely damaged residential neighborhood with homes stripped of roofs, scattered debris, and uprooted trees, with a water tower visible on the horizon."
 geo:
 id: 21294
 item_type: Still Image

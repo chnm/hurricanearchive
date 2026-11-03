@@ -23,6 +23,8 @@ files:
     original_filename: 2326892624_3db6b0cfc3.
     thumb: /files/thumbnails/14fb29ca0b718e14fb29ca0b756a.jpg
     url: /files/original/14fb29ca0b718e14fb29ca0b756a.jpg
+    alt:
+      en: "Muddy, debris-covered yard with uprooted grasses and palms in front of a brick house, surrounded by tall pine trees under a clear sky."
 geo:
   address: ''
   lat: 30.22586

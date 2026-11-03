@@ -21,6 +21,8 @@ files:
     original_filename: Picture 411-J2.jpg
     thumb: /files/thumbnails/14fb29f996716b14fb29f996754b.jpg
     url: /files/original/14fb29f996716b14fb29f996754b.jpg
+    alt:
+      en: "A soldier in camouflage uniform sits at a table typing on a laptop, surrounded by maps, coolers, water bottles, and papers in a makeshift command center."
 geo:
 id: 22080
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7408.JPG
     thumb: /files/thumbnails/14fb29ccc4fcdc14fb29ccc500b9.jpg
     url: /files/original/14fb29ccc4fcdc14fb29ccc500b9.jpg
+    alt:
+      en: "A large fallen tree branch rests across a car's windshield and roof, surrounded by dense green foliage."
 geo:
 id: 30711
 item_type: Still Image

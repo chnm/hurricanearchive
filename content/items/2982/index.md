@@ -21,6 +21,8 @@ files:
     original_filename: 100_0231.JPG
     thumb: /files/thumbnails/14fb2a5f34186e14fb2a5f341c53.jpg
     url: /files/original/14fb2a5f34186e14fb2a5f341c53.jpg
+    alt:
+      en: "A decommissioned submarine on display, its weathered gray hull and conning tower with periscopes rising against a clear blue sky, with city buildings visible in the distance."
 geo:
 id: 2982
 item_type: Still Image

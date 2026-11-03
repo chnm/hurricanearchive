@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0689b97e14fb2a0689ca1c.jpg
     url: /files/original/14fb2a0689b97e14fb2a0689ca1c.jpg
+    alt:
+      en: "A leaning utility pole with a transformer and sagging power lines stands amid floodwaters that submerge trees, fence posts, and part of a metal building in the background."
 geo:
 id: 20522
 item_type: Still Image

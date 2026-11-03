@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_KaitlinGlapion_03_bf818d2c6c.jpg
     thumb: /files/thumbnails/14fb2a17cae1a214fb2a17cae746.jpg
     url: /files/original/14fb2a17cae1a214fb2a17cae746.jpg
+    alt:
+      en: "A woman in sunglasses and a white blazer smiles while standing in a motel room with two beds, nightstands, lamps, and a telephone visible in the background."
 geo:
 id: 14776
 item_type: Still Image

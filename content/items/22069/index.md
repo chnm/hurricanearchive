@@ -21,6 +21,8 @@ files:
     original_filename: Picture 400-J2.jpg
     thumb: /files/thumbnails/14fb29f9b0c74914fb29f9b0ca8c.jpg
     url: /files/original/14fb29f9b0c74914fb29f9b0ca8c.jpg
+    alt:
+      en: "Two men in military uniforms stand beside the front of a large green military truck marked \"225GP 527E,\" parked inside a fabric-covered maintenance shelter with a red air compressor nearby."
 geo:
 id: 22069
 item_type: Still Image

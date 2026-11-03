@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0155-9-25.JPG
     thumb: /files/thumbnails/14fb2a0156e85c14fb2a0156ec4e.jpg
     url: /files/original/14fb2a0156e85c14fb2a0156ec4e.jpg
+    alt:
+      en: "Aerial view of storm-damaged structures with collapsed roofs and scattered debris near a line of bare, wind-stripped trees, with concrete slabs and muddy ground visible in the foreground."
 geo:
 id: 20954
 item_type: Still Image

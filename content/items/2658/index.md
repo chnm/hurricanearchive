@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9228.jpg
     thumb: /files/thumbnails/14fb2a6224d93914fb2a6224e4ab.jpg
     url: /files/original/14fb2a6224d93914fb2a6224e4ab.jpg
+    alt:
+      en: "Overturned blue classroom chairs and desks lie amid debris and twisted metal beams in front of a storm-wrecked school building with its walls stripped away, under a clear blue sky."
 geo:
 id: 2658
 item_type: Still Image

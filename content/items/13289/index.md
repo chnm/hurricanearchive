@@ -24,6 +24,8 @@ files:
     original_filename: marionwieser_be327f1aa9.trailer3_bw.jpg
     thumb: /files/thumbnails/14fb2a1e684f8914fb2a1e685267.jpg
     url: /files/original/14fb2a1e684f8914fb2a1e685267.jpg
+    alt:
+      en: "A young man sits on the wooden steps of a trailer, with a large American flag mounted beside the stairs and a bucket and cooler nearby."
 geo:
 id: 13289
 item_type: Still Image

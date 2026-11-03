@@ -24,6 +24,8 @@ files:
     original_filename: P1010076.JPG
     thumb: /files/thumbnails/14fb2a5b4deaf914fb2a5b4deeda.jpg
     url: /files/original/14fb2a5b4deaf914fb2a5b4deeda.jpg
+    alt:
+      en: "Damaged arena exterior with torn metal siding and exposed roof trusses, seen behind a chain-link fence, trees, and light poles under a clear blue sky."
 geo:
 id: 3502
 item_type: Still Image

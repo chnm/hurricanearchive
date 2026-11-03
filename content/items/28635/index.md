@@ -25,6 +25,8 @@ files:
     original_filename: 158855301_8fc61b7b7d.jpg
     thumb: /files/thumbnails/14fb29d1fee04014fb29d1fee424.jpg
     url: /files/original/14fb29d1fee04014fb29d1fee424.jpg
+    alt:
+      en: "Damaged brick building with \"VIEW\" spray-painted on the wall, a dark empty window, and fallen utility poles with insulators and wires in the foreground."
 geo:
 id: 28635
 item_type: Still Image

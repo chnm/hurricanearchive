@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1500superdome.JPG
     thumb: /files/thumbnails/14fb29e353eaf314fb29e353efbb.jpg
     url: /files/original/14fb29e353eaf314fb29e353efbb.jpg
+    alt:
+      en: "Two men in camouflage and uniform lean against a police vehicle hood covered with maps, one on a phone, as a military helicopter flies overhead in an overcast sky."
 geo:
 id: 24981
 item_type: Still Image

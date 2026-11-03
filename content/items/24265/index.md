@@ -21,6 +21,8 @@ files:
     original_filename: 1SG Robinson.JPG
     thumb: /files/thumbnails/14fb29e92be06914fb29e92be43d.jpg
     url: /files/original/14fb29e92be06914fb29e92be43d.jpg
+    alt:
+      en: "A man in military camouflage uniform and cap stands outdoors at night, gesturing with one hand while a rifle is slung across his back, photographed against a dark, mostly unlit background."
 geo:
 id: 24265
 item_type: Still Image

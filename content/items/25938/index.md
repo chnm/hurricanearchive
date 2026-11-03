@@ -20,6 +20,8 @@ files:
     original_filename: Katrina 3_057cb8f8bc.jpg
     thumb: /files/thumbnails/14fb29dbb6a9f614fb29dbb6adaa.jpg
     url: /files/original/14fb29dbb6a9f614fb29dbb6adaa.jpg
+    alt:
+      en: "A red damaged car sits in a dirt yard beside the collapsed wooden frame of a carport, with debris scattered nearby; the photo is dated 09/19/2005."
 geo:
   address: ''
   lat: 0.0

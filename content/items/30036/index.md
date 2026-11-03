@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0350_4bf7320ab4.jpg
     thumb: /files/thumbnails/14fb29cdabdf6014fb29cdabe354.jpg
     url: /files/original/14fb29cdabdf6014fb29cdabe354.jpg
+    alt:
+      en: "A damaged brick and stucco church building with a painted white cross, its rear corner collapsed, stands behind a sign reading \"Saint Luke Baptist Church,\" surrounded by debris."
 geo:
 id: 30036
 item_type: Still Image

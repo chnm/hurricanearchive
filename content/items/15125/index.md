@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5663-1_d6e40980f5.jpg
     thumb: /files/thumbnails/14fb2a1704f9b914fb2a1704fd9f.jpg
     url: /files/original/14fb2a1704f9b914fb2a1704fd9f.jpg
+    alt:
+      en: "Three people—a young man in glasses, a woman in a patterned top, and an older man wearing a white shirt with decorative pins—stand together in a kitchen with light wood cabinetry."
 geo:
 id: 15125
 item_type: Still Image

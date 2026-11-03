@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0057M.JPG
     thumb: /files/thumbnails/14fb2a0509178414fb2a05091b66.jpg
     url: /files/original/14fb2a0509178414fb2a05091b66.jpg
+    alt:
+      en: "A man in a U.S. Army camouflage uniform, visible \"ARMY\" tape on the sleeve, stands near a tiled wall; the photo is oriented sideways."
 geo:
 id: 20688
 item_type: Still Image

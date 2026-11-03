@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-23-22AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f943171914fb29f9431ad1.jpg
     url: /files/original/14fb29f943171914fb29f9431ad1.jpg
+    alt:
+      en: "Vehicles parked in a lot during heavy wind and rain, with a blank illuminated sign and traffic light visible through the storm's haze, trees bending in the background."
 geo:
 id: 22170
 item_type: Still Image

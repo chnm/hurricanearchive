@@ -21,6 +21,8 @@ files:
     original_filename: Picture 077engineers.jpg
     thumb: /files/thumbnails/14fb2a0f965c0f14fb2a0f965f93.jpg
     url: /files/original/14fb2a0f965c0f14fb2a0f965f93.jpg
+    alt:
+      en: "Aerial view of a raised highway surrounded by extensive floodwaters and storm-damaged trees, with a cluster of industrial buildings and equipment visible on the left side near the road."
 geo:
 id: 19517
 item_type: Still Image

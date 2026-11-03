@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0072-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a04146e9914fb2a04147170.jpg
     url: /files/original/14fb2a04146e9914fb2a04147170.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with widespread storm damage, submerged roads, scattered debris, and bare trees rising from standing floodwater."
 geo:
 id: 20758
 item_type: Still Image

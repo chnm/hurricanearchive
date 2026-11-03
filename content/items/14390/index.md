@@ -21,6 +21,8 @@ files:
     original_filename: aerials99.jpg
     thumb: /files/thumbnails/14fb2a1951f77c14fb2a1951fb75.jpg
     url: /files/original/14fb2a1951f77c14fb2a1951fb75.jpg
+    alt:
+      en: "Aerial view of a storm-damaged wooded area with a concrete foundation remaining where a structure once stood, surrounded by fallen and snapped trees and a winding dirt road."
 geo:
 id: 14390
 item_type: Still Image

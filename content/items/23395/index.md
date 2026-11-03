@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0085abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efb477bc14fb29efb47ba2.jpg
     url: /files/original/14fb29efb477bc14fb29efb47ba2.jpg
+    alt:
+      en: "Man in a plaid shirt, jeans, and a \"Paul's Tire\" cap stands with hands on hips beside a flooded yard with a submerged mobile home, shed, and scattered debris in muddy water."
 geo:
 id: 23395
 item_type: Still Image

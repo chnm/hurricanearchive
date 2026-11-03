@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9227.jpg
     thumb: /files/thumbnails/14fb2a626ec79514fb2a626ecb79.jpg
     url: /files/original/14fb2a626ec79514fb2a626ecb79.jpg
+    alt:
+      en: "Collapsed metal roofing, twisted beams, and scattered debris surround a bare tree in front of a damaged school building with exposed interior walls under a clear blue sky."
 geo:
 id: 2657
 item_type: Still Image

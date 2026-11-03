@@ -21,6 +21,8 @@ files:
     original_filename: Wind damage at Jack BrksJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f3a552d814fb29f3a556be.jpg
     url: /files/original/14fb29f3a552d814fb29f3a556be.jpg
+    alt:
+      en: "White two-story building with a gabled roof and porch, overcast sky above, and a tall metal lattice tower with damaged, dangling wires beside it."
 geo:
 id: 22798
 item_type: Still Image

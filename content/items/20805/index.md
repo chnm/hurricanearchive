@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0082-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a03b0ce1714fb2a03b0e361.jpg
     url: /files/original/14fb2a03b0ce1714fb2a03b0e361.jpg
+    alt:
+      en: "Aerial view of a flooded coastal road lined with debris-strewn, defoliated trees; a damaged house on stilts stands amid standing water, with scattered wreckage and submerged structures throughout the landscape."
 geo:
 id: 20805
 item_type: Still Image

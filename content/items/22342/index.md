@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1157Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f73603ae14fb29f7360784.jpg
     url: /files/original/14fb29f73603ae14fb29f7360784.jpg
+    alt:
+      en: "Blurry, out-of-focus close-up of a person's head and shoulder, with a light-colored wall in the background and a hint of red fabric at the lower edge."
 geo:
 id: 22342
 item_type: Still Image

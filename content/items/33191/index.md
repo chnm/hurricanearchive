@@ -23,6 +23,8 @@ files:
     original_filename: 1438011657_3b82c89355.
     thumb: /files/thumbnails/14fb29cbb2bf7f14fb29cbb2c363.jpg
     url: /files/original/14fb29cbb2bf7f14fb29cbb2c363.jpg
+    alt:
+      en: "Cracked, empty parking lot with faded lane markings and weeds growing through the pavement, bordered by a low concrete wall, light poles, and trees under a partly cloudy sky."
 geo:
 id: 33191
 item_type: Still Image

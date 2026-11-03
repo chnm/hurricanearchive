@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28774.jpg
     thumb: /files/thumbnails/14fb2a67c1df6e14fb2a67c1e351.jpg
     url: /files/original/14fb2a67c1df6e14fb2a67c1e351.jpg
+    alt:
+      en: "A dark pickup truck and another vehicle drive down a paved road past orange traffic cones toward a fenced entrance with banners, leading to a green-roofed building complex."
 geo:
   address: ''
   lat: 0.0

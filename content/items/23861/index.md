@@ -21,6 +21,8 @@ files:
     original_filename: S4300217neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecb59eee14fb29ecb5a2cb.jpg
     url: /files/original/14fb29ecb59eee14fb29ecb5a2cb.jpg
+    alt:
+      en: "A wooden utility pole with a blue \"St Claude Ave\" street sign stands amid floodwater, surrounded by submerged, withered vegetation and debris floating on the water's surface."
 geo:
 id: 23861
 item_type: Still Image

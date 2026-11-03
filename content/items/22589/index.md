@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0540Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f526f73c14fb29f526fb21.jpg
     url: /files/original/14fb29f526f73c14fb29f526fb21.jpg
+    alt:
+      en: "Floodwaters nearly submerge a white vehicle, with only its roof and upper windows visible, while a trailer and brick building partially flood in the background."
 geo:
 id: 22589
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4837_3a60d63a95.jpg
     thumb: /files/thumbnails/14fb2a1e3ec4cf14fb2a1e3ef3bb.jpg
     url: /files/original/14fb2a1e3ec4cf14fb2a1e3ef3bb.jpg
+    alt:
+      en: "A crowd raises their hands toward a lit, decorated Mardi Gras parade float with riders on top, photographed at dusk beneath tree branches and a traffic signal."
 geo:
   address: new oreleans
   lat: 29.97464

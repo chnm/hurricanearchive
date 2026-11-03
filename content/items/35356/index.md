@@ -21,6 +21,8 @@ files:
     original_filename: 7_53e7d62458.jpg
     thumb: /files/thumbnails/14fb29c60c1fbe14fb29c60c230f.jpg
     url: /files/original/14fb29c60c1fbe14fb29c60c230f.jpg
+    alt:
+      en: "Framed black-and-white photo of a young football player in a #8 jersey mid-throw, inscribed in blue ink \"To the boys at the Saturn Bar, Archie,\" with a signature below."
 geo:
   address: 3067 Saint Claude Ave, New Orleans, LA
   lat: 29.96784

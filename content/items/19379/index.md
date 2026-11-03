@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2240engineers.JPG
     thumb: /files/thumbnails/14fb2a10a70fad14fb2a10a713cf.jpg
     url: /files/original/14fb2a10a70fad14fb2a10a713cf.jpg
+    alt:
+      en: "Profile view of a man in woodland-pattern military camouflage uniform and matching patrol cap, with patches visible on his collar and shoulder, standing outdoors against a wooded background."
 geo:
 id: 19379
 item_type: Still Image

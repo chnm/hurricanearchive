@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1659superdome.JPG
     thumb: /files/thumbnails/14fb29e2839e7014fb29e283a261.jpg
     url: /files/original/14fb29e2839e7014fb29e283a261.jpg
+    alt:
+      en: "Military trucks parked in floodwater near a building, with soldiers in fatigues standing atop the vehicles; a metal barricade reading \"No Parking on Street, Official Vehicles Only\" is partially submerged."
 geo:
 id: 25073
 item_type: Still Image

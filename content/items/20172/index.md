@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of 09140014.JPG
     thumb: /files/thumbnails/14fb2a0af3bbfd14fb2a0af3bfda.jpg
     url: /files/original/14fb2a0af3bbfd14fb2a0af3bfda.jpg
+    alt:
+      en: "A large uprooted tree lies across a yard, its exposed root ball and fallen trunk dominating the foreground, with a leaning utility pole and a blue house visible behind it."
 geo:
 id: 20172
 item_type: Still Image

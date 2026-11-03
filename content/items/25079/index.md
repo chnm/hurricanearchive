@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1665superdome.JPG
     thumb: /files/thumbnails/14fb29e276c40314fb29e276c7ea.jpg
     url: /files/original/14fb29e276c40314fb29e276c7ea.jpg
+    alt:
+      en: "Three men, two in camouflage pants, stand at a railing atop a sloped concrete wall, with the tail section of a small aircraft visible behind them against a hazy sky."
 geo:
 id: 25079
 item_type: Still Image

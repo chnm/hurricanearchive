@@ -23,6 +23,8 @@ files:
     original_filename: 2326065063_b018344661.
     thumb: /files/thumbnails/14fb29c9dd873614fb29c9dd8b32.jpg
     url: /files/original/14fb29c9dd873614fb29c9dd8b32.jpg
+    alt:
+      en: "Debris-strewn lot with scattered lumber and rubble, utility poles and dangling wires, bare trees, and an Igloo cooler in the foreground, with no standing homes visible."
 geo:
   address: ''
   lat: 30.23382

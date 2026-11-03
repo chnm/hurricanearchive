@@ -24,6 +24,8 @@ files:
     original_filename: Vice Presidential Visit
     thumb: /files/thumbnails/14fb2a5809025c14fb2a580a7697.jpg
     url: /files/original/14fb2a5809025c14fb2a580a7697.jpg
+    alt:
+      en: "Outdoors on a paved lot, a gray-haired man in a blue shirt and khakis stands among a group as several onlookers, including a woman in pink, film him with handheld video cameras; portable toilets line the background."
 geo:
 id: 4077
 item_type: Still Image

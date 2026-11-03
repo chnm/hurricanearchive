@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1890superdome.JPG
     thumb: /files/thumbnails/14fb29e0e9451314fb29e0e948f8.jpg
     url: /files/original/14fb29e0e9451314fb29e0e948f8.jpg
+    alt:
+      en: "Aerial view of the Superdome with its damaged roof, alongside a city skyline, elevated highways, and flooded streets and buildings in the foreground."
 geo:
 id: 25206
 item_type: Still Image

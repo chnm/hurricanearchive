@@ -21,6 +21,8 @@ files:
     original_filename: Picture 108cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bb0f18a14fb2a0bb0fca6.jpg
     url: /files/original/14fb2a0bb0f18a14fb2a0bb0fca6.jpg
+    alt:
+      en: "A military-style vehicle drives down a debris-strewn road past a capsized sailboat and utility poles, with storm wreckage scattered along the roadside."
 geo:
 id: 20011
 item_type: Still Image

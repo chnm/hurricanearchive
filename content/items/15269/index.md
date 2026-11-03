@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-024_e97619af06.jpg
     thumb: /files/thumbnails/14fb2a16b1b7fb14fb2a16b1bfc8.jpg
     url: /files/original/14fb2a16b1b7fb14fb2a16b1bfc8.jpg
+    alt:
+      en: "Group of adults and children pose on a driveway with Mardi Gras beads and a boy in an Incredibles costume, parked SUVs and brick houses in the background."
 geo:
 id: 15269
 item_type: Still Image

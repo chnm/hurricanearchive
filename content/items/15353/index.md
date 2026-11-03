@@ -25,12 +25,16 @@ files:
     original_filename: IMcCormick-18_80ca330765.jpg
     thumb: /files/thumbnails/14fb2a1660c75714fb2a1660cb3d.jpg
     url: /files/original/14fb2a1660c75714fb2a1660cb3d.jpg
+    alt:
+      en: "A child's face peeks through a cutout carnival photo board designed as a heavyset woman's body labeled \"The Ava DuPoys,\" against a red-striped backdrop at Circus World."
   - fullsize: /files/fullsize/14fb2a165e831114fb2a165e86f7.jpg
     id: 12424
     mime: image/jpeg
     original_filename: IMcCormick-19_93c01f85d6.jpg
     thumb: /files/thumbnails/14fb2a165e831114fb2a165e86f7.jpg
     url: /files/original/14fb2a165e831114fb2a165e86f7.jpg
+    alt:
+      en: "Weathered photo of a cartoon strongman figure with a child's face superimposed, holding a barbell, next to partial text reading \"...kinny ...Atlas\" and \"World's.\""
 geo:
 id: 15353
 item_type: Still Image

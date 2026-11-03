@@ -21,6 +21,8 @@ files:
     original_filename: 158 mayors office.jpg
     thumb: /files/thumbnails/14fb2a1fb3e41a14fb2a1fb3e7ff.jpg
     url: /files/original/14fb2a1fb3e41a14fb2a1fb3e7ff.jpg
+    alt:
+      en: "Elevator interior with marble-patterned walls, a round indicator dial, emergency call panel, and a cardboard box on the floor, viewed at an angle showing ceiling framing and insulation."
 geo:
 id: 13166
 item_type: Still Image

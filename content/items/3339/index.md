@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Press conference (6).JPG
     thumb: /files/thumbnails/14fb2a5c56c97f14fb2a5c56cd64.jpg
     url: /files/original/14fb2a5c56c97f14fb2a5c56cd64.jpg
+    alt:
+      en: "A group of men in military and police uniforms stand at an outdoor press conference behind a wooden podium labeled \"Hyatt Regency New Orleans,\" with a cluster of microphones in the foreground."
 geo:
 id: 3339
 item_type: Still Image

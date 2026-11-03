@@ -27,6 +27,8 @@ files:
     original_filename: '&ldquo;dream House&rdquo;'
     thumb: /files/thumbnails/14fb2a605bc2ee14fb2a605bc6d6.jpg
     url: /files/original/14fb2a605bc2ee14fb2a605bc6d6.jpg
+    alt:
+      en: "Crayon drawing of a two-story house with yellow windows and red doors, a gray roof, and a fence in front, under a cloud, sun, and birds; text reads \"Zeisha 15 years old\" and \"My Dream House.\""
 geo:
 id: 2740
 item_type: Still Image

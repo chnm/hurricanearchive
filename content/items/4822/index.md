@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0137.JPG
     thumb: /files/thumbnails/14fb2a5546ad6e14fb2a5546b40d.jpg
     url: /files/original/14fb2a5546ad6e14fb2a5546b40d.jpg
+    alt:
+      en: "Concrete support piers, broken tile and debris, and PVC pipes scattered across a dirt lot strewn with dried pine needles, likely remnants of a demolished structure."
 geo:
 id: 4822
 item_type: Still Image

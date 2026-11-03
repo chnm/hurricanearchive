@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0138-9-25.JPG
     thumb: /files/thumbnails/14fb2a022ede6114fb2a022ee309.jpg
     url: /files/original/14fb2a022ede6114fb2a022ee309.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with torn roofing and debris-strewn grounds beside a flooded athletic field with yellow goalposts, surrounded by floodwater and downed trees."
 geo:
 id: 20881
 item_type: Still Image

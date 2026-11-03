@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0661.JPG
     thumb: /files/thumbnails/14fb2a535ded7114fb2a535df156.jpg
     url: /files/original/14fb2a535ded7114fb2a535df156.jpg
+    alt:
+      en: "Storm-damaged houses with exposed cinder block foundations and stripped wooden framing stand amid scattered debris, broken furniture, and snapped trees under an overcast sky."
 geo:
 id: 5216
 item_type: Still Image

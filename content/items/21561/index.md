@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0297-9-25.JPG
     thumb: /files/thumbnails/14fb29fd96f4b414fb29fd96fdff.jpg
     url: /files/original/14fb29fd96f4b414fb29fd96fdff.jpg
+    alt:
+      en: "Aerial view of a severely flooded town with a submerged football field and stadium, warehouse buildings surrounded by floodwater, and farmland extending to the horizon under hazy skies."
 geo:
 id: 21561
 item_type: Still Image

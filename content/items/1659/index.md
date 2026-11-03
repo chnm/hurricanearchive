@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28182.jpg
     thumb: /files/thumbnails/14fb2a6739eb8314fb2a6739f295.jpg
     url: /files/original/14fb2a6739eb8314fb2a6739f295.jpg
+    alt:
+      en: "A man in a blue shirt and cap stands on a black-and-white checkered tile slab talking on a phone, with a debris-strewn, flattened landscape and the sea visible behind him."
 geo:
   address: ''
   lat: 0.0

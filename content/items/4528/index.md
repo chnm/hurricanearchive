@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0740.JPG
     thumb: /files/thumbnails/14fb2a570f180914fb2a570f1be7.jpg
     url: /files/original/14fb2a570f180914fb2a570f1be7.jpg
+    alt:
+      en: "A rural dirt road lined with bare trees and scattered debris, leading past elevated houses on stilts, with a utility pole and power lines under a hazy sky."
 geo:
 id: 4528
 item_type: Still Image

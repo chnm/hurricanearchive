@@ -20,6 +20,8 @@ files:
     original_filename: 2417085884_a7b3c740dc.
     thumb: /files/thumbnails/14fb29c826ff7e14fb29c8270367.jpg
     url: /files/original/14fb29c826ff7e14fb29c8270367.jpg
+    alt:
+      en: "Aerial view of a large debris disposal or landfill site with heavy equipment, dark mounded material, a small pond, and cleared earth bordered by forest and green fields."
 geo:
 id: 34961
 item_type: Still Image

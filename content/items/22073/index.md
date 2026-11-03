@@ -21,6 +21,8 @@ files:
     original_filename: Picture 404-J2.jpg
     thumb: /files/thumbnails/14fb29f9a115b414fb29f9a11999.jpg
     url: /files/original/14fb29f9a115b414fb29f9a11999.jpg
+    alt:
+      en: "Military cargo truck with a canvas-covered bed parked in a lot; a soldier in camouflage and sunglasses stands on the running board while others sit in the truck bed near a striped tent."
 geo:
 id: 22073
 item_type: Still Image

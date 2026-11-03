@@ -24,6 +24,8 @@ files:
     original_filename: P1010120.JPG
     thumb: /files/thumbnails/14fb2a5ae73b3014fb2a5ae73f18.jpg
     url: /files/original/14fb2a5ae73b3014fb2a5ae73f18.jpg
+    alt:
+      en: "A large storm-damaged tree with broken, mostly bare branches stands in front of a long two-story school building, with green shrubs and palms lining the facade under a clear blue sky."
 geo:
 id: 3545
 item_type: Still Image

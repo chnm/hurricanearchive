@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0257Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f939978814fb29f9399b66.jpg
     url: /files/original/14fb29f939978814fb29f9399b66.jpg
+    alt:
+      en: "Aerial view of a military camouflage truck parked on a street beside rows of buildings with pitched roofs, with several uniformed soldiers standing nearby, including one labeled \"40.\""
 geo:
 id: 22179
 item_type: Still Image

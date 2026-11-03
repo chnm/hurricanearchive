@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28340.jpg
     thumb: /files/thumbnails/14fb2a6af6e48114fb2a6af6ead7.jpg
     url: /files/original/14fb2a6af6e48114fb2a6af6ead7.jpg
+    alt:
+      en: "Bent and twisted metal structural beams frame a view of storm-damaged buildings and debris, with bare trees and scattered wreckage covering the ground beyond."
 geo:
   address: ''
   lat: 0.0

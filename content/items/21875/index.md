@@ -21,6 +21,8 @@ files:
     original_filename: LSU Dental School.jpg
     thumb: /files/thumbnails/14fb29fb4bb1ec14fb29fb4bb4d1.jpg
     url: /files/original/14fb29fb4bb1ec14fb29fb4bb4d1.jpg
+    alt:
+      en: "Aerial view of large institutional buildings surrounded by extensive floodwater, with submerged parking areas, scattered trees, and a few vehicles partially underwater near the entrance."
 geo:
 id: 21875
 item_type: Still Image

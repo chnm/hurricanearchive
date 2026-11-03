@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-10-9Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e56cefe214fb29e56cf3d2.jpg
     url: /files/original/14fb29e56cefe214fb29e56cf3d2.jpg
+    alt:
+      en: "Flooded city street beneath an overpass, with military trucks and a pickup navigating deep water as people, including soldiers, gather near the vehicles; high-rise buildings line the background."
 geo:
 id: 24708
 item_type: Still Image

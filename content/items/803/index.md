@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28715.jpg
     thumb: /files/thumbnails/14fb2a6cecd0b014fb2a6cecd78c.jpg
     url: /files/original/14fb2a6cecd0b014fb2a6cecd78c.jpg
+    alt:
+      en: "A man in a cap offers a tennis ball to a chestnut horse inside a metal livestock pen at the animal rescue depot."
 geo:
   address: ''
   lat: 0.0

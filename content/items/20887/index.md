@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0140-21.JPG
     thumb: /files/thumbnails/14fb2a0227e28014fb2a0227e668.jpg
     url: /files/original/14fb2a0227e28014fb2a0227e668.jpg
+    alt:
+      en: "Hand-painted black sign reading \"ALL TRAFFIC\" with an orange arrow points right, propped against a makeshift barricade of metal drums and wood near a chain-link fence; nearby street signs read \"JCT LA 611-1\" and \"No Parking.\""
 geo:
 id: 20887
 item_type: Still Image

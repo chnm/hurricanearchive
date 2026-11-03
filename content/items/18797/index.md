@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030grandisle.JPG
     thumb: /files/thumbnails/14fb2a1538269214fb2a15382a7f.jpg
     url: /files/original/14fb2a1538269214fb2a15382a7f.jpg
+    alt:
+      en: "Aerial view of a long low bridge crossing gray-green water, connecting to a narrow sandy island with scattered buildings, under a hazy overcast sky."
 geo:
 id: 18797
 item_type: Still Image

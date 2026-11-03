@@ -21,6 +21,8 @@ files:
     original_filename: 145 night time bank damage.jpg
     thumb: /files/thumbnails/14fb2a1fe0f3bd14fb2a1fe0f7a3.jpg
     url: /files/original/14fb2a1fe0f3bd14fb2a1fe0f7a3.jpg
+    alt:
+      en: "Nighttime photo of a flooded bank drive-through with water covering the ground, metal pillars and teller stations visible, and green shrubbery in the foreground."
 geo:
 id: 13155
 item_type: Still Image

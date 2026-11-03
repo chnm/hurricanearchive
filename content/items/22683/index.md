@@ -21,6 +21,8 @@ files:
     original_filename: PICT0229Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c3b1c514fb29f4c3b5b5.jpg
     url: /files/original/14fb29f4c3b1c514fb29f4c3b5b5.jpg
+    alt:
+      en: "A white wooden house with horizontal siding, a screened front porch, and a sign reading \"MAJ TRAYLOR,\" numbered \"22,\" surrounded by lush tropical plants, dated 09.15.2005."
 geo:
 id: 22683
 item_type: Still Image

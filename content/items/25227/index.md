@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1926superdome.JPG
     thumb: /files/thumbnails/14fb29e0a304f214fb29e0a30a4a.jpg
     url: /files/original/14fb29e0a304f214fb29e0a30a4a.jpg
+    alt:
+      en: "A dark military Chinook helicopter sits on a rooftop helipad with yellow circular markings, with an elevated highway and city buildings visible in the hazy background."
 geo:
 id: 25227
 item_type: Still Image

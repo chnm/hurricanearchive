@@ -26,6 +26,8 @@ files:
     original_filename: msg11304512822_2fdd52d5d5.jpg
     thumb: /files/thumbnails/14fb2a7031b19414fb2a7031bc62.jpg
     url: /files/original/14fb2a7031b19414fb2a7031bc62.jpg
+    alt:
+      en: "A young girl walks across a vast pile of discarded clothing and cardboard boxes in front of a brick building with a \"CLOSED\" sign, with laundry hanging on a lattice fence nearby."
 geo:
   address: ''
   lat: 29.9549345496561

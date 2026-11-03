@@ -20,6 +20,8 @@ files:
     original_filename: 2434809148_ad8e7eb6da.
     thumb: /files/thumbnails/14fb29c97b3fc914fb29c97b4719.jpg
     url: /files/original/14fb29c97b3fc914fb29c97b4719.jpg
+    alt:
+      en: "A large bare tree stands in front of a damaged two-story white house with exposed framing, missing siding, and boarded sections, surrounded by debris and overgrown grass."
 geo:
 id: 34694
 item_type: Still Image

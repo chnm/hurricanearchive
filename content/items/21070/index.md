@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2184.JPG
     thumb: /files/thumbnails/14fb2a00b486d914fb2a00b48abf.jpg
     url: /files/original/14fb2a00b486d914fb2a00b48abf.jpg
+    alt:
+      en: "Interior view of a military helicopter cockpit, showing an illuminated instrument panel with green gauges, switches labeled \"AUX COM PANEL\" and \"BLADE DE-ICE,\" and a hazy runway visible through the windshield."
 geo:
 id: 21070
 item_type: Still Image

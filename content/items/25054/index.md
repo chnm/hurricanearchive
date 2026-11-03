@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1579superdome.JPG
     thumb: /files/thumbnails/14fb29e2a08c8414fb29e2a0a1e6.jpg
     url: /files/original/14fb29e2a08c8414fb29e2a0a1e6.jpg
+    alt:
+      en: "Military Humvees (marked \"773 239 MP\" and \"X404\") and buses drive on a flooded road beside deep standing floodwater, with a partially submerged car visible in the background."
 geo:
 id: 25054
 item_type: Still Image

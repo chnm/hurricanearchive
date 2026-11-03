@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0459.JPG
     thumb: /files/thumbnails/14fb2a53d87aa914fb2a53d87e8e.jpg
     url: /files/original/14fb2a53d87aa914fb2a53d87e8e.jpg
+    alt:
+      en: "Cleared concrete slabs mark where buildings once stood amid storm debris, with an excavator working near the shoreline and a bare tree silhouetted against the setting sun."
 geo:
 id: 5114
 item_type: Still Image

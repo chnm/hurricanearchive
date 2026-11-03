@@ -21,6 +21,8 @@ files:
     original_filename: 227 unshattered glass1.jpg
     thumb: /files/thumbnails/14fb2a1f1cb5b014fb2a1f1cbad2.jpg
     url: /files/original/14fb2a1f1cb5b014fb2a1f1cbad2.jpg
+    alt:
+      en: "A frosted glass lamp globe, intact and unbroken, lies on its side atop a corrugated metal surface, surrounded by debris and a piece of curled, weathered material."
 geo:
 id: 13232
 item_type: Still Image

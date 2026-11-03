@@ -33,24 +33,32 @@ files:
     original_filename: Jeff Chauppetta_6411_8d55fc803d.jpg
     thumb: /files/thumbnails/14fb29db4726e614fb29db472acb.jpg
     url: /files/original/14fb29db4726e614fb29db472acb.jpg
+    alt:
+      en: "Belair Cemetery scene with two yellow bowl-shaped planters, a small red shrine, a white cross, and a headstone surrounded by tall bare and leafy trees on bare ground."
   - fullsize: /files/fullsize/14fb29db43c3f714fb29db43c7da.jpg
     id: 22668
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6412_46e34ef32f.jpg
     thumb: /files/thumbnails/14fb29db43c3f714fb29db43c7da.jpg
     url: /files/original/14fb29db43c3f714fb29db43c7da.jpg
+    alt:
+      en: "A white cross monument on a pedestal stands in a wooded cemetery clearing, with a blue bucket visible nearby; the photo's edges show heavy orange and purple discoloration."
   - fullsize: /files/fullsize/14fb29db40e35114fb29db415473.jpg
     id: 22669
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6414_d529cd0523.jpg
     thumb: /files/thumbnails/14fb29db40e35114fb29db415473.jpg
     url: /files/original/14fb29db40e35114fb29db415473.jpg
+    alt:
+      en: "A young woman in a blue graduation cap and gown stands smiling on the porch of a brick house with a striped awning, surrounded by potted plants."
   - fullsize: /files/fullsize/14fb29db3e47b914fb29db3e4b9c.jpg
     id: 22670
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6415_b5eb269054.jpg
     thumb: /files/thumbnails/14fb29db3e47b914fb29db3e4b9c.jpg
     url: /files/original/14fb29db3e47b914fb29db3e4b9c.jpg
+    alt:
+      en: "A man wearing a dark hat and vest crouches in front of a wall covered with Elvis Presley posters and memorabilia; the photo's edges show water or chemical damage."
 geo:
 id: 26104
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 1980 Dedication of E_637ff3b83c.~0003-20.jpg
     thumb: /files/thumbnails/14fb2a173509e014fb2a17350dc1.jpg
     url: /files/original/14fb2a173509e014fb2a17350dc1.jpg
+    alt:
+      en: "A man in a suit with a boutonniere speaks at a podium microphone on an outdoor balcony, with several seated men in suits visible behind a white railing."
 geo:
 id: 15091
 item_type: Still Image

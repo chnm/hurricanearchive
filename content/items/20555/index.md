@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033-9-25.JPG
     thumb: /files/thumbnails/14fb2a063468b514fb2a06346f8c.jpg
     url: /files/original/14fb2a063468b514fb2a06346f8c.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with scattered storm-damaged buildings, missing roof sections, a pink house, trucks, and standing floodwater covering roads and fields."
 geo:
 id: 20555
 item_type: Still Image

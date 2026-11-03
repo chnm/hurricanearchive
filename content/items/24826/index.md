@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2148superdome.JPG
     thumb: /files/thumbnails/14fb29e48be3cc14fb29e48bf3e9.jpg
     url: /files/original/14fb29e48be3cc14fb29e48bf3e9.jpg
+    alt:
+      en: "National Guard members in camouflage uniforms stand in floodwater beside a military truck loaded with evacuees, as a man lifts a backpack into the vehicle near a building marked \"HORNETS.COM.\""
 geo:
 id: 24826
 item_type: Still Image

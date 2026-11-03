@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2136rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13e83f6514fb2a13e84310.jpg
     url: /files/original/14fb2a13e83f6514fb2a13e84310.jpg
+    alt:
+      en: "Aerial view from a helicopter looking down at two uniformed personnel walking across a shingled rooftop with gear nearby, floodwater visible in the surrounding area below."
 geo:
 id: 18974
 item_type: Still Image

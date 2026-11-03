@@ -21,6 +21,8 @@ files:
     original_filename: CSA-2005-09-14-093425neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb49155714fb29eb49193d.jpg
     url: /files/original/14fb29eb49155714fb29eb49193d.jpg
+    alt:
+      en: "Floodwaters fill a downtown street lined with high-rise buildings, submerging parked cars up to their windows as a military vehicle drives through the water in the foreground."
 geo:
 id: 24041
 item_type: Still Image

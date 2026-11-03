@@ -24,6 +24,8 @@ files:
     original_filename: EV 2 Family 1912_19fb95b28c.jpg
     thumb: /files/thumbnails/14fb29d8de530714fb29d8de56eb.jpg
     url: /files/original/14fb29d8de530714fb29d8de56eb.jpg
+    alt:
+      en: "Black-and-white 1912 group portrait of an extended family arranged in rows, seated and standing before American flags and palm fronds, with handwritten names and arrows added above each person."
 geo:
   address: ''
   lat: 29.95493

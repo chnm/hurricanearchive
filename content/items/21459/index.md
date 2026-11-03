@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0265-9-25.JPG
     thumb: /files/thumbnails/14fb29fe8c607d14fb29fe8c6463.jpg
     url: /files/original/14fb29fe8c607d14fb29fe8c6463.jpg
+    alt:
+      en: "Aerial view of a flooded small town with streets submerged in brown water, surrounding homes, a gas station with a red and blue canopy, and nearby green fields and trees."
 geo:
 id: 21459
 item_type: Still Image

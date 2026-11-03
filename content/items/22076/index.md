@@ -21,6 +21,8 @@ files:
     original_filename: Picture 407-J2.jpg
     thumb: /files/thumbnails/14fb29f99a49ab14fb29f99a4d75.jpg
     url: /files/original/14fb29f99a49ab14fb29f99a4d75.jpg
+    alt:
+      en: "A shirtless man dries off with a towel beside a folding table, with a military camouflage tanker truck and a crane visible in the background near a blue tarp-covered structure."
 geo:
 id: 22076
 item_type: Still Image

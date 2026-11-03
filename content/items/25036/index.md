@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1559superdome.JPG
     thumb: /files/thumbnails/14fb29e2ce097e14fb29e2ce130b.jpg
     url: /files/original/14fb29e2ce097e14fb29e2ce130b.jpg
+    alt:
+      en: "A military helicopter with rotors spinning sits on a rooftop helipad as a soldier in camouflage uniform watches, with an elevated highway and city buildings visible in the background."
 geo:
 id: 25036
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0187.JPG
     thumb: /files/thumbnails/14fb2a5917fc1714fb2a59180017.jpg
     url: /files/original/14fb2a5917fc1714fb2a59180017.jpg
+    alt:
+      en: "Photo taken through a car windshield shows a damaged high-rise with broken windows behind an Exxon gas station with \"On the Run\" convenience store signage, a sheriff's patrol car and officer in the foreground."
 geo:
 id: 3892
 item_type: Still Image

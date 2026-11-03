@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0500.JPG
     thumb: /files/thumbnails/14fb2a53caa63f14fb2a53caaa2c.jpg
     url: /files/original/14fb2a53caa63f14fb2a53caaa2c.jpg
+    alt:
+      en: "Partially constructed building with pink vinyl siding, featuring an open doorway revealing unfinished wood framing inside, a large horizontal support beam overhead, and bare trees against a blue sky."
 geo:
 id: 5138
 item_type: Still Image

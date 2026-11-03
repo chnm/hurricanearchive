@@ -24,6 +24,8 @@ files:
     original_filename: P1010131.JPG
     thumb: /files/thumbnails/14fb2a5ad8885114fb2a5ad88c34.jpg
     url: /files/original/14fb2a5ad8885114fb2a5ad88c34.jpg
+    alt:
+      en: "Weathered white restaurant building with a \"RESTAURANT\" sign, striped red-green-white awning over a closed metal door, flanked by glass block windows, with outdoor seating and a potted palm out front."
 geo:
 id: 3555
 item_type: Still Image

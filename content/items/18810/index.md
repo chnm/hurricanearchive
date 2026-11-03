@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039grandisle.JPG
     thumb: /files/thumbnails/14fb2a152dc4ad14fb2a152dc893.jpg
     url: /files/original/14fb2a152dc4ad14fb2a152dc893.jpg
+    alt:
+      en: "Aerial view of a narrow barrier island peninsula with elevated stilt houses lining a sandy beach strewn with storm debris, water visible on both sides of the land strip."
 geo:
 id: 18810
 item_type: Still Image

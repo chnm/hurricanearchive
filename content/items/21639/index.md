@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0383-16.JPG
     thumb: /files/thumbnails/14fb29fcdcb1f214fb29fcdcb640.jpg
     url: /files/original/14fb29fcdcb1f214fb29fcdcb640.jpg
+    alt:
+      en: "Storm-damaged single-story brick house with a torn roof, scattered debris, and dangling power lines; a dead, leafless tree branch and an overturned toy car sit in front amid downed foliage."
 geo:
 id: 21639
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: WC grandfather 1923_0f23f73e67.jpg
     thumb: /files/thumbnails/14fb29d7da1ae314fb29d7da1ec1.jpg
     url: /files/original/14fb29d7da1ae314fb29d7da1ec1.jpg
+    alt:
+      en: "Sepia-toned 1923 photograph of three people standing before a split-rail fence, a man in a suit and hat, a boy in a shirt and tie, and a woman in a hat and dress."
 geo:
   address: ''
   lat: 29.95493

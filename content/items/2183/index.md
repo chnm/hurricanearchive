@@ -26,6 +26,8 @@ files:
     original_filename: d20_e75e13af70.JPG
     thumb: /files/thumbnails/14fb2a6d8145a714fb2a6d81498d.jpg
     url: /files/original/14fb2a6d8145a714fb2a6d81498d.jpg
+    alt:
+      en: "Five volunteers in gray and white T-shirts, two wearing baseball caps, stand talking near a doorway with stacked cardboard moving boxes labeled by room."
 geo:
   address: ''
   lat: 27.18608

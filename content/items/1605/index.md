@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28460.jpg
     thumb: /files/thumbnails/14fb2a677c513c14fb2a677c5709.jpg
     url: /files/original/14fb2a677c513c14fb2a677c5709.jpg
+    alt:
+      en: "Collapsed concrete highway bridge sections, with guardrails and lane markings visible, lie broken and tilted into the water near rubble-strewn shoreline, a lone streetlight still standing amid the wreckage."
 geo:
   address: ''
   lat: 0.0

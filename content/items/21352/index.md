@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0234-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff427f5614fb29ff428347.jpg
     url: /files/original/14fb29ff427f5614fb29ff428347.jpg
+    alt:
+      en: "Aerial view of an industrial facility with large spherical storage tanks and extensive piping surrounded by floodwater, with stacked pipes and debris floating in the foreground."
 geo:
 id: 21352
 item_type: Still Image

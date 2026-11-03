@@ -21,6 +21,8 @@ files:
     original_filename: MVC-032S.JPG
     thumb: /files/thumbnails/14fb2a5fae51d914fb2a5fae55bf.jpg
     url: /files/original/14fb2a5fae51d914fb2a5fae55bf.jpg
+    alt:
+      en: "Interior of a damaged storage closet with metal shelving, a cardboard tube, and scattered debris; a torn red-and-tan striped flag hangs from a shelf bracket, with lockers numbered 25 and 26 nearby."
 geo:
 id: 2875
 item_type: Still Image

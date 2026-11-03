@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0173-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a00a936d514fb2a00a93abc.jpg
     url: /files/original/14fb2a00a936d514fb2a00a93abc.jpg
+    alt:
+      en: "Storm-damaged blue house with exterior siding torn away and floodwater surrounding its foundation, debris and downed branches scattered across the yard under a dark sky."
 geo:
 id: 21080
 item_type: Still Image

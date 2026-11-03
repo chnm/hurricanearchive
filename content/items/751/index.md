@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28144.jpg
     thumb: /files/thumbnails/14fb2a6d3eab3f14fb2a6d3eaf24.jpg
     url: /files/original/14fb2a6d3eab3f14fb2a6d3eaf24.jpg
+    alt:
+      en: "Debris field of a collapsed structure amid snapped, leafless trees, with scattered wreckage, downed power lines, and an orange traffic cone along a dirt road."
 geo:
   address: ''
   lat: 0.0

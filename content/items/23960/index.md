@@ -21,6 +21,8 @@ files:
     original_filename: 09180030plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec3c539814fb29ec3c577e.jpg
     url: /files/original/14fb29ec3c539814fb29ec3c577e.jpg
+    alt:
+      en: "Flooded roadside area with submerged vehicles and debris scattered among standing water, bare and leafing trees, and a damaged green metal frame structure near a paved road."
 geo:
 id: 23960
 item_type: Still Image

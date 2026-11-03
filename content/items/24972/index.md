@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1490superdome.JPG
     thumb: /files/thumbnails/14fb29e362730814fb29e36276f4.jpg
     url: /files/original/14fb29e362730814fb29e36276f4.jpg
+    alt:
+      en: "Military medical helicopter marked \"2533\" with a red cross, hovering above a rooftop helipad with yellow markings, elevated highway and city buildings visible in the background."
 geo:
 id: 24972
 item_type: Still Image

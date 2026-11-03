@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2079superdome.JPG
     thumb: /files/thumbnails/14fb29dec303d414fb29dec30784.jpg
     url: /files/original/14fb29dec303d414fb29dec30784.jpg
+    alt:
+      en: "Military personnel in camouflage and flight suits assist an elderly man and a woman across a wet parking lot, carrying a duffel bag, with an elevated highway and a \"Read any good chicken labels lately?\" billboard in the background."
 geo:
 id: 25352
 item_type: Still Image

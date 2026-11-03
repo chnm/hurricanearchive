@@ -26,6 +26,8 @@ files:
     original_filename: Fire_on_New_Orleans_Waterfront_a0df1a7791.jpg
     thumb: /files/thumbnails/14fb2a70e28ce514fb2a70e2922e.jpg
     url: /files/original/14fb2a70e28ce514fb2a70e2922e.jpg
+    alt:
+      en: "Aerial view of large plumes of black and white smoke rising from a fire along a waterfront industrial area, with a river, roadway, and distant city skyline visible in the background."
 geo:
   address: ''
   lat: 29.9549345496561

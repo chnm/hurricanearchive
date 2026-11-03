@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4931_1_ea2a7ac6c7.jpg
     thumb: /files/thumbnails/14fb2a1e2f3ecb14fb2a1e30006d.jpg
     url: /files/original/14fb2a1e2f3ecb14fb2a1e30006d.jpg
+    alt:
+      en: "Aged color portrait photograph of a young woman with short, curled dark hair, wearing a dark button-up collared shirt, set against a plain light background; the print shows yellowing and creases from age."
 geo:
 id: 13370
 item_type: Still Image

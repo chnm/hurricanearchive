@@ -21,6 +21,8 @@ files:
     original_filename: Picture 362-J2.jpg
     thumb: /files/thumbnails/14fb29f9f794ee14fb29f9f798d1.jpg
     url: /files/original/14fb29f9f794ee14fb29f9f798d1.jpg
+    alt:
+      en: "Several people in camouflage military uniforms clear fallen tree branches and debris from a storm-damaged outdoor area, with downed limbs scattered across the ground."
 geo:
 id: 22031
 item_type: Still Image

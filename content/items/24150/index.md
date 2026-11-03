@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea449c1a14fb29ea44a7d0.jpg
     url: /files/original/14fb29ea449c1a14fb29ea44a7d0.jpg
+    alt:
+      en: "Aerial view of flooded marshland and wetlands, with a narrow strip of land and tree line separating stretches of blue water dotted with patches of vegetation."
 geo:
 id: 24150
 item_type: Still Image

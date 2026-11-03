@@ -21,6 +21,8 @@ files:
     original_filename: S4300044neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed041fea14fb29ed0423c7.jpg
     url: /files/original/14fb29ed041fea14fb29ed0423c7.jpg
+    alt:
+      en: "Military trucks drive through a flooded city street lined with trees and parked cars, with office buildings and a traffic light visible in the background."
 geo:
 id: 23799
 item_type: Still Image

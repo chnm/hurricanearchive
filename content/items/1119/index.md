@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28077.jpg
     thumb: /files/thumbnails/14fb2a6ae8d01414fb2a6ae8d3fb.jpg
     url: /files/original/14fb2a6ae8d01414fb2a6ae8d3fb.jpg
+    alt:
+      en: "A fallen menu board advertising \"Coca-Cola\" and food items lies overturned on a parking lot surface near curbing and a planted median, with debris scattered nearby."
 geo:
   address: ''
   lat: 0.0

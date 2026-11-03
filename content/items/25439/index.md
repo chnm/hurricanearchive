@@ -21,6 +21,8 @@ files:
     original_filename: ssgdunnpicsuperdome.jpg
     thumb: /files/thumbnails/14fb29ddb10e6314fb29ddb3f97b.jpg
     url: /files/original/14fb29ddb10e6314fb29ddb3f97b.jpg
+    alt:
+      en: "An elderly man wrapped in a blue blanket, with a medical IV band on his wrist, sits beside a smiling woman in a tan t-shirt inside what appears to be a sports arena or convention space."
 geo:
 id: 25439
 item_type: Still Image

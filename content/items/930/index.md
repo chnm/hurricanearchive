@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27938.jpg
     thumb: /files/thumbnails/14fb2a6c24950f14fb2a6c2498f3.jpg
     url: /files/original/14fb2a6c24950f14fb2a6c2498f3.jpg
+    alt:
+      en: "Street signs for \"Girod\" and \"W Stadium Dr\" mounted on a pole in front of the Louisiana Superdome's curved exterior, with palm trees and small trees lining the sidewalk under a clear sky."
 geo:
   address: ''
   lat: 0.0

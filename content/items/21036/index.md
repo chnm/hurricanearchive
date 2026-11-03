@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2249.JPG
     thumb: /files/thumbnails/14fb2a00fe4d9d14fb2a00fe5183.jpg
     url: /files/original/14fb2a00fe4d9d14fb2a00fe5183.jpg
+    alt:
+      en: "Two men in camouflage military uniforms wearing aviation headsets with boom microphones sit inside an aircraft, one with a U.S. flag patch visible on his sleeve."
 geo:
 id: 21036
 item_type: Still Image

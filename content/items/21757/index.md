@@ -21,6 +21,8 @@ files:
     original_filename: katrina 025.jpg
     thumb: /files/thumbnails/14fb29fbf08f5b14fb29fbf09341.jpg
     url: /files/original/14fb29fbf08f5b14fb29fbf09341.jpg
+    alt:
+      en: "Elevated parking garage with chain-link fencing in the foreground overlooks a city skyline of high-rise office towers, a curved stadium structure, and a school bus, with smoke visible in the distant sky."
 geo:
 id: 21757
 item_type: Still Image

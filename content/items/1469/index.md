@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27868.jpg
     thumb: /files/thumbnails/14fb2a688987e714fb2a68898bce.jpg
     url: /files/original/14fb2a688987e714fb2a68898bce.jpg
+    alt:
+      en: "A flooded yard surrounds a single-story house, with a person standing in a small boat near the porch steps and another figure walking down the stairs into the water."
 geo:
   address: ''
   lat: 0.0

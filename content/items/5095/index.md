@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0440.JPG
     thumb: /files/thumbnails/14fb2a53ecda5014fb2a53ecde35.jpg
     url: /files/original/14fb2a53ecda5014fb2a53ecde35.jpg
+    alt:
+      en: "Debris-strewn, cleared lot with scattered wood planks and rubble, stripped and broken trees, an excavator working in the distance, and a partially constructed building under a pale sky."
 geo:
 id: 5095
 item_type: Still Image

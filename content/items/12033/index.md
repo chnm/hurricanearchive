@@ -20,6 +20,8 @@ files:
     original_filename: Katrina - Piranah_7db1526eaa.JPG
     thumb: /files/thumbnails/14fb2a224f315d14fb2a224f3543.jpg
     url: /files/original/14fb2a224f315d14fb2a224f3543.jpg
+    alt:
+      en: "A black cat with glowing eyes peers out from an attic space amid exposed wooden beams and pink insulation, with daylight visible through a broken roof opening above."
 geo:
   address: 4902 Arts Street
   lat: 30.00948

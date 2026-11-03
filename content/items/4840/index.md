@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0159.JPG
     thumb: /files/thumbnails/14fb2a5536efb614fb2a5536f39e.jpg
     url: /files/original/14fb2a5536efb614fb2a5536f39e.jpg
+    alt:
+      en: "Interior wall cavity between wooden studs, coated in white mold or debris, with a measuring tape stretched across the top and a wooden support structure visible at the bottom."
 geo:
 id: 4840
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6486_f0fa39b226.jpg
     thumb: /files/thumbnails/14fb29d33f0de314fb29d33f11c9.jpg
     url: /files/original/14fb29d33f0de314fb29d33f11c9.jpg
+    alt:
+      en: "Backyard patio with a children's basketball hoop and playhouse, wrought iron chairs, a young tree, and flower beds in front of a light-colored house with a bay window; date stamp reads 10/2/1998."
 geo:
   address: ''
   lat: 29.87876

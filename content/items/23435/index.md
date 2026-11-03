@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0102cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef7369f914fb29ef736d95.jpg
     url: /files/original/14fb29ef7369f914fb29ef736d95.jpg
+    alt:
+      en: "A uniformed service member wearing a headset and harness sits inside an aircraft, with an aerial view of green terrain visible through the window."
 geo:
 id: 23435
 item_type: Still Image

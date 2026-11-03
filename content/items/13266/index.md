@@ -21,6 +21,8 @@ files:
     original_filename: traffic2.jpg
     thumb: /files/thumbnails/14fb2a1e747d5514fb2a1e748535.jpg
     url: /files/original/14fb2a1e747d5514fb2a1e748535.jpg
+    alt:
+      en: "Traffic on a highway with several yellow school buses and cars passing alongside a concrete barrier, with trees and a utility pole visible in the background."
 geo:
 id: 13266
 item_type: Still Image

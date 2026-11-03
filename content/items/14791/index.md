@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TalijahGrowe_01_ad16e96919.jpg
     thumb: /files/thumbnails/14fb2a17b3403f14fb2a17b343c9.jpg
     url: /files/original/14fb2a17b3403f14fb2a17b343c9.jpg
+    alt:
+      en: "Studio portrait of a man in a white shirt standing behind a woman and young girl, both wearing pink tops, seated in front of a painted forest backdrop; the girl wears pink ribbons in her braided hair."
 geo:
 id: 14791
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0262.JPG
     thumb: /files/thumbnails/14fb2a5edd833a14fb2a5edd8907.jpg
     url: /files/original/14fb2a5edd833a14fb2a5edd8907.jpg
+    alt:
+      en: "Close-up of weathered corrugated metal with several rust-rimmed holes of varying sizes, surrounded by raised, bubbled texture and streaks of orange corrosion."
 geo:
 id: 3013
 item_type: Still Image

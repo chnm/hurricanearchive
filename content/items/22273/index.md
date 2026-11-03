@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1084Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f846ea5114fb29f846ebed.jpg
     url: /files/original/14fb29f846ea5114fb29f846ebed.jpg
+    alt:
+      en: "Dark interior view through a large open doorway, with floodwater visible rising up to the threshold and faint window lights illuminating the surrounding darkened room."
 geo:
 id: 22273
 item_type: Still Image

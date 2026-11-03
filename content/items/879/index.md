@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28080.jpg
     thumb: /files/thumbnails/14fb2a6c87cbf714fb2a6c87cfdc.jpg
     url: /files/original/14fb2a6c87cbf714fb2a6c87cfdc.jpg
+    alt:
+      en: "Abandoned Rally's drive-thru restaurant with sign reading \"Rally's Burgers Fries Colas,\" surrounded by debris, mud, and storm-damaged trees under scaffolding."
 geo:
   address: ''
   lat: 0.0

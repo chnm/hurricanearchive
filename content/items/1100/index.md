@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28492.jpg
     thumb: /files/thumbnails/14fb2a6b0dde9514fb2a6b0de27a.jpg
     url: /files/original/14fb2a6b0dde9514fb2a6b0de27a.jpg
+    alt:
+      en: "Interior room with extensive mold damage covering the walls, lace curtains, and window blinds; a collapsed, water-damaged couch sits beneath a broken window overlooking debris outside."
 geo:
   address: ''
   lat: 0.0

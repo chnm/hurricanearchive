@@ -21,6 +21,8 @@ files:
     original_filename: Picture 350-J2.jpg
     thumb: /files/thumbnails/14fb29fa0ce75814fb29fa0cfa37.jpg
     url: /files/original/14fb29fa0ce75814fb29fa0cfa37.jpg
+    alt:
+      en: "Weathered cinder-block garage with a barred security door and painted signage reading \"Mon–Sat 7am–6pm Ph. 949-8151\" and address \"4961,\" a discarded tire and bowls on the sidewalk out front."
 geo:
 id: 22019
 item_type: Still Image

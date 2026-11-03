@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.025.JPG
     thumb: /files/thumbnails/14fb29dccdfb8914fb29dccdff6a.jpg
     url: /files/original/14fb29dccdfb8914fb29dccdff6a.jpg
+    alt:
+      en: "Raised double shotgun house with pale yellow siding and light blue trim, adorned with numerous hanging baskets and planters of colorful petunias, address plaques reading \"3468\" and \"3470 Esplanade\" on the columns."
 geo:
 id: 25667
 item_type: Still Image

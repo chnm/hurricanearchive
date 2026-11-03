@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0068OEP.JPG
     thumb: /files/thumbnails/14fb29f1aea5fc14fb29f1aea9d9.jpg
     url: /files/original/14fb29f1aea5fc14fb29f1aea9d9.jpg
+    alt:
+      en: "Outdoors on a grassy lot, a camerawoman films a man in a white t-shirt reviewing papers on a tall chair while a man in military camouflage holds a clipboard beside him."
 geo:
 id: 23058
 item_type: Still Image

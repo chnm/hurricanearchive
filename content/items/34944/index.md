@@ -20,6 +20,8 @@ files:
     original_filename: 2457383784_84a8648b81.
     thumb: /files/thumbnails/14fb29c849f09e14fb29c84ce2bd.jpg
     url: /files/original/14fb29c849f09e14fb29c84ce2bd.jpg
+    alt:
+      en: "Aerial view of a long, dark canal running parallel to a grassy levee and roadway, with wooded land to the right and open fields to the left; caption reads \"Lake Cataouatche Levee.\""
 geo:
 id: 34944
 item_type: Still Image

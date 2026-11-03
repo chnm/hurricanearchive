@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-51_d8bae78e07.jpg
     thumb: /files/thumbnails/14fb2a1614bbef14fb2a1614bfd4.jpg
     url: /files/original/14fb2a1614bbef14fb2a1614bfd4.jpg
+    alt:
+      en: "Weathered, water-damaged photograph of a young man in a Civil War-era military uniform and hat, with an American flag image overlapping the bottom portion of the print."
 geo:
 id: 15509
 item_type: Still Image

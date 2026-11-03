@@ -21,6 +21,8 @@ files:
     original_filename: Picture 053.jpg
     thumb: /files/thumbnails/14fb29cc78d17614fb29cc78d567.jpg
     url: /files/original/14fb29cc78d17614fb29cc78d567.jpg
+    alt:
+      en: "View from inside a car through the side window of fallen trees and downed branches covering the ground, with a rooftop visible in the background through the debris."
 geo:
 id: 30788
 item_type: Still Image

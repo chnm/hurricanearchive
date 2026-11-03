@@ -21,6 +21,8 @@ files:
     original_filename: S4300053.JPG
     thumb: /files/thumbnails/14fb2a133d888614fb2a133dc74d.jpg
     url: /files/original/14fb2a133d888614fb2a133dc74d.jpg
+    alt:
+      en: "Silhouette of a military helicopter with spinning rotor blades flying low in an overcast sky, passing above a double-headed streetlight pole."
 geo:
 id: 19084
 item_type: Still Image

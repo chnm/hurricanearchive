@@ -18,6 +18,8 @@ files:
     original_filename: post card 7_bb6038e148.JPG
     thumb: /files/thumbnails/14fb29c45ab75314fb29c45abaaa.jpg
     url: /files/original/14fb29c45ab75314fb29c45abaaa.jpg
+    alt:
+      en: "Handwritten card responding to a hurricane experiences prompt, reading: \"My favorite po-boys are the roast beef po-boy from Acme Oyster House. They also have really good hot sausage & fried shrimp po-boys.\""
 geo:
   address: ''
   lat: 0.0

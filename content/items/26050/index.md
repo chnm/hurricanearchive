@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6962_ecd9e7a84c.jpg
     thumb: /files/thumbnails/14fb29db86c07914fb29db86c45f.jpg
     url: /files/original/14fb29db86c07914fb29db86c45f.jpg
+    alt:
+      en: "Sepia-toned studio portrait of an older woman standing with hands clasped at her waist, wearing a long light-colored dress with a high collar, in front of a draped backdrop with props nearby."
 geo:
   address: ''
   lat: 29.80252

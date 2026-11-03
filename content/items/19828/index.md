@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015gillslong.JPG
     thumb: /files/thumbnails/14fb2a0d88a3a514fb2a0d88aa7f.jpg
     url: /files/original/14fb2a0d88a3a514fb2a0d88aa7f.jpg
+    alt:
+      en: "Large multi-story cream-colored building with a classical columned entrance and pediment, fronted by a manicured lawn, shrubs, and a flagpole, with a white SUV parked near the entrance."
 geo:
 id: 19828
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0316_6e38db96e7.JPG
     thumb: /files/thumbnails/14fb2a6fc71f2014fb2a6fc72a0d.jpg
     url: /files/original/14fb2a6fc71f2014fb2a6fc72a0d.jpg
+    alt:
+      en: "A pink shotgun-style house with a damaged porch roof stands behind a large pile of discarded belongings, including mattresses, furniture, and debris left on the street after flooding."
 geo:
   address: ''
   lat: 29.916852233070202

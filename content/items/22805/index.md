@@ -21,6 +21,8 @@ files:
     original_filename: DSC 007317thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f382672114fb29f3826b04.jpg
     url: /files/original/14fb29f382672114fb29f3826b04.jpg
+    alt:
+      en: "Aerial view of a coastal neighborhood with a muddy canal and breached seawall, damaged roofs covered in blue tarps, surrounded by green lawns and a hazy horizon over the water."
 geo:
 id: 22805
 item_type: Still Image

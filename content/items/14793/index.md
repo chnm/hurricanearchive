@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TalijahGrowe_03_971b39944e.jpg
     thumb: /files/thumbnails/14fb2a17aaaad814fb2a17aaaebd.jpg
     url: /files/original/14fb2a17aaaad814fb2a17aaaebd.jpg
+    alt:
+      en: "Three young children pose together indoors in a home living room, the two older girls smiling and embracing while a toddler in a green shirt stands beside them near toys and a stroller."
 geo:
 id: 14793
 item_type: Still Image

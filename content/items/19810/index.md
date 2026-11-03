@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002tentcity.JPG
     thumb: /files/thumbnails/14fb2a0dae3c2514fb2a0dae4002.jpg
     url: /files/original/14fb2a0dae3c2514fb2a0dae4002.jpg
+    alt:
+      en: "A row of tan, arch-shaped canvas tent shelters with doors and windows sits on a wooden-plank walkway, with a folding chair outside one entrance and a worker visible in the distance."
 geo:
 id: 19810
 item_type: Still Image

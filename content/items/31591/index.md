@@ -21,6 +21,8 @@ files:
     original_filename: 060207NOLA02RWlg_562b11c8c8.jpg
     thumb: /files/thumbnails/14fb29cc23c1bb14fb29cc23c5a0.jpg
     url: /files/original/14fb29cc23c1bb14fb29cc23c5a0.jpg
+    alt:
+      en: "Two pigeons perch side by side on the ornately decorated roofline of a weathered Victorian-era house, its carved brackets and trim visible against an overcast sky."
 geo:
 id: 31591
 item_type: Still Image

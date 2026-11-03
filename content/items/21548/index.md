@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0292-16.JPG
     thumb: /files/thumbnails/14fb29fda85e2a14fb29fda86210.jpg
     url: /files/original/14fb29fda85e2a14fb29fda86210.jpg
+    alt:
+      en: "A worker wearing a red hard hat operates a Caterpillar skid-steer loader, pushing thick gray sludge across a cracked, mud-covered surface, with another loader and a parked car visible nearby."
 geo:
 id: 21548
 item_type: Still Image

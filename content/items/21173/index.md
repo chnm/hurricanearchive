@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0191-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0041d80e14fb2a0041dbe2.jpg
     url: /files/original/14fb2a0041d80e14fb2a0041dbe2.jpg
+    alt:
+      en: "Flood-damaged home interior with the floor collapsed into standing water and debris, a ceiling fan still hanging above, and a person in a green shirt standing amid wreckage near a doorway."
 geo:
 id: 21173
 item_type: Still Image

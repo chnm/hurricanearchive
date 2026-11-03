@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0307.JPG
     thumb: /files/thumbnails/14fb2a54c3a4c814fb2a54c3aa5b.jpg
     url: /files/original/14fb2a54c3a4c814fb2a54c3aa5b.jpg
+    alt:
+      en: "Single-story brick house with a maroon pickup truck and a car partially up on a curb in the driveway, set among pine trees with a wooden fence and paved street in the foreground."
 geo:
 id: 4965
 item_type: Still Image

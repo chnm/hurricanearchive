@@ -23,6 +23,8 @@ files:
     original_filename: 1438012117_a189caf82f.
     thumb: /files/thumbnails/14fb29cbc8405714fb29cbc84401.jpg
     url: /files/original/14fb29cbc8405714fb29cbc84401.jpg
+    alt:
+      en: "Tall construction cranes line the side of a long bridge over open water, photographed from inside a car with the side mirror visible in the foreground."
 geo:
   address: ''
   lat: 29.95916

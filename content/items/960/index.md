@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28145.jpg
     thumb: /files/thumbnails/14fb2a6ba7398914fb2a6ba73d6f.jpg
     url: /files/original/14fb2a6ba7398914fb2a6ba73d6f.jpg
+    alt:
+      en: "A worker in an orange safety vest and hard hat walks down a debris-strewn dirt road lined with dead trees and scattered storm wreckage."
 geo:
   address: ''
   lat: 0.0

@@ -23,6 +23,8 @@ files:
     original_filename: 1439836646_70be7fc3ef.
     thumb: /files/thumbnails/14fb29cbca62d414fb29cbca66b6.jpg
     url: /files/original/14fb29cbca62d414fb29cbca66b6.jpg
+    alt:
+      en: "View from a boat railing across murky water toward curled slabs of broken concrete flooring and a brick building reading \"YOU ARE BEAUTIFUL,\" with rail tank cars parked alongside."
 geo:
   address: ''
   lat: 29.95916

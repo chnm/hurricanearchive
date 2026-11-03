@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eafe6c6214fb29eafe7048.jpg
     url: /files/original/14fb29eafe6c6214fb29eafe7048.jpg
+    alt:
+      en: "A military front-loader vehicle clears debris on a mud-covered street lined with dead, leafless trees and damaged houses in the background."
 geo:
 id: 24077
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0091-15.JPG
     thumb: /files/thumbnails/14fb29e80bc2f114fb29e80bf697.jpg
     url: /files/original/14fb29e80bc2f114fb29e80bf697.jpg
+    alt:
+      en: "Aerial view of a single house with a dark shingled roof surrounded by cleared, debris-strewn lots, with scattered vehicles, a boat on a trailer, and empty streets nearby."
 geo:
 id: 24421
 item_type: Still Image

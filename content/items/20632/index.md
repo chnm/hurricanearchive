@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046-9-25.JPG
     thumb: /files/thumbnails/14fb2a058bfda214fb2a058c0569.jpg
     url: /files/original/14fb2a058bfda214fb2a058c0569.jpg
+    alt:
+      en: "Aerial view of a flooded coastal roadway submerged in gray floodwater, with utility poles leaning at angles, scattered debris, and several vehicles parked near a bend in the road."
 geo:
 id: 20632
 item_type: Still Image

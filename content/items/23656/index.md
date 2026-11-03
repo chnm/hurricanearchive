@@ -21,6 +21,8 @@ files:
     original_filename: P1010097empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee0ab25e14fb29ee0ab645.jpg
     url: /files/original/14fb29ee0ab25e14fb29ee0ab645.jpg
+    alt:
+      en: "Industrial storage tanks, one heavily rusted and another intact with a domed roof, stand amid standing water and storm debris, with power lines crossing overhead."
 geo:
 id: 23656
 item_type: Still Image

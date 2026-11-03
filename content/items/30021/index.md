@@ -20,6 +20,8 @@ files:
     original_filename: pics+2006-07+156_0c15f44c80.jpg
     thumb: /files/thumbnails/14fb29ce136af914fb29ce1379d4.jpg
     url: /files/original/14fb29ce136af914fb29ce1379d4.jpg
+    alt:
+      en: "A chain-link fence with a metal post stands in front of a brick building with boarded and broken windows, its bare dirt yard scattered with debris."
 geo:
 id: 30021
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_CarlRobinson_04_952ec70329.jpg
     thumb: /files/thumbnails/14fb2a18176b5c14fb2a18177d2d.jpg
     url: /files/original/14fb2a18176b5c14fb2a18177d2d.jpg
+    alt:
+      en: "A young boy in a green polo shirt embroidered with \"GSS\" sits smiling on a small chair in a classroom, beside a bookshelf of children's books and a table with stuffed animal puppets."
 geo:
 id: 14700
 item_type: Still Image

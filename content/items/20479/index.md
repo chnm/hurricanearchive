@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021-15.JPG
     thumb: /files/thumbnails/14fb2a06eb873a14fb2a06eb8b20.jpg
     url: /files/original/14fb2a06eb873a14fb2a06eb8b20.jpg
+    alt:
+      en: "Aerial view from an aircraft window of a dense residential neighborhood with tree-lined streets and rooftops, with a body of water visible along the right edge of the frame."
 geo:
 id: 20479
 item_type: Still Image

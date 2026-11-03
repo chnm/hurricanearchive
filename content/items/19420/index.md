@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063cropengineers.jpg
     thumb: /files/thumbnails/14fb2a10555ec414fb2a10556061.jpg
     url: /files/original/14fb2a10555ec414fb2a10556061.jpg
+    alt:
+      en: "A soldier in desert camouflage uniform and helmet operates a yellow Komatsu skid-steer loader on a gravel lot, with military cargo trucks and storm debris in the background."
 geo:
 id: 19420
 item_type: Still Image

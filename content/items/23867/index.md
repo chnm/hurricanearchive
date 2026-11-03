@@ -21,6 +21,8 @@ files:
     original_filename: S4300223neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecacfe0a14fb29ecad01ef.jpg
     url: /files/original/14fb29ecacfe0a14fb29ecad01ef.jpg
+    alt:
+      en: "Street sign for \"St Claude Ave\" and \"Tennessee\" mounted on a wooden utility pole, surrounded by extensive floodwater submerging the surrounding area."
 geo:
 id: 23867
 item_type: Still Image

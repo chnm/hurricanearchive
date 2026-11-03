@@ -21,6 +21,8 @@ files:
     original_filename: Picture 390-J2.jpg
     thumb: /files/thumbnails/14fb29f9bc9d4714fb29f9bca12c.jpg
     url: /files/original/14fb29f9bc9d4714fb29f9bca12c.jpg
+    alt:
+      en: "A man in a tan t-shirt sleeps on a cot with a crossword puzzle book on his chest, surrounded by storage bins, water bottles, a Zapp's chips box, and camping gear."
 geo:
 id: 22059
 item_type: Still Image

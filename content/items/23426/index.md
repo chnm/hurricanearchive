@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0098cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ef7da25014fb29ef7da634.jpg
     url: /files/original/14fb29ef7da25014fb29ef7da634.jpg
+    alt:
+      en: "A helmeted aircrew member wearing a microphone and flight vest sits beneath an aircraft's tail section, with a runway and cloudy sky visible in the background."
 geo:
 id: 23426
 item_type: Still Image

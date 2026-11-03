@@ -21,6 +21,8 @@ files:
     original_filename: _MG_7153_d9fbfb1baf.jpg
     thumb: /files/thumbnails/14fb29d35b02b214fb29d35b04e1.jpg
     url: /files/original/14fb29d35b02b214fb29d35b04e1.jpg
+    alt:
+      en: "A softball pitcher mid-windup on the mound, with an infielder crouched nearby, a scoreboard reading \"Strike\" and \"Out,\" and parked cars beyond the outfield fence."
 geo:
   address: ''
   lat: 29.84064

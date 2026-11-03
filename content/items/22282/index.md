@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1093Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f82187df14fb29f8218bc4.jpg
     url: /files/original/14fb29f82187df14fb29f8218bc4.jpg
+    alt:
+      en: "Heavy wind-driven rain obscures a flooded street, with a decorative fence and lattice wall in the foreground and houses and bare trees faintly visible through the storm haze."
 geo:
 id: 22282
 item_type: Still Image

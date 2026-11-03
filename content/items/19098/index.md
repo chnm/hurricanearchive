@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 008.jpg
     thumb: /files/thumbnails/14fb2a1317295014fb2a13172be5.jpg
     url: /files/original/14fb2a1317295014fb2a13172be5.jpg
+    alt:
+      en: "A large tree with a split, broken trunk stands in a grassy yard, its upper branches still leafy, with two pickup trucks parked nearby under hazy, sunlit skies."
 geo:
 id: 19098
 item_type: Still Image

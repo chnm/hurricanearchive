@@ -30,6 +30,8 @@ files:
     original_filename: adcp01-1_c1d28eaefd.jpg
     thumb: /files/thumbnails/14fb29cbed84fc14fb29cbed88e2.jpg
     url: /files/original/14fb29cbed84fc14fb29cbed88e2.jpg
+    alt:
+      en: "Black-and-white illustrated spiral resembling a hurricane's swirling cloud bands, set against a teal-green background representing water."
 geo:
 id: 32518
 item_type: Hyperlink

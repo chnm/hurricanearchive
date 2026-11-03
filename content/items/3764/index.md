@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 044.jpg
     thumb: /files/thumbnails/14fb2a59d04a5114fb2a59d04e3e.jpg
     url: /files/original/14fb2a59d04a5114fb2a59d04e3e.jpg
+    alt:
+      en: "A storm-damaged two-story house stands amid bare, battered trees, with debris scattered across the yard and a sandy path leading to the street."
 geo:
 id: 3764
 item_type: Still Image

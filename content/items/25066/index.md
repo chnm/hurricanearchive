@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1640superdome.JPG
     thumb: /files/thumbnails/14fb29e28e7ae614fb29e28e7ecb.jpg
     url: /files/original/14fb29e28e7ae614fb29e28e7ecb.jpg
+    alt:
+      en: "A small helicopter hovers near the damaged, weathered roof of the Superdome, with patches of exposed material visible across its curved surface."
 geo:
 id: 25066
 item_type: Still Image

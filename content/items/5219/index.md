@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0664.JPG
     thumb: /files/thumbnails/14fb2a535c2c5b14fb2a535c3040.jpg
     url: /files/original/14fb2a535c2c5b14fb2a535c3040.jpg
+    alt:
+      en: "Devastated residential street with collapsed homes, scattered debris, and stripped trees; a car sits amid rubble near a concrete block foundation in the foreground."
 geo:
 id: 5219
 item_type: Still Image

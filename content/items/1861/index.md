@@ -26,6 +26,8 @@ files:
     original_filename: 7746890R103516_40d68efa3f.jpg
     thumb: /files/thumbnails/14fb2a6e9d2e6914fb2a6e9d324c.jpg
     url: /files/original/14fb2a6e9d2e6914fb2a6e9d324c.jpg
+    alt:
+      en: "A man in military camouflage uniform and sunglasses stands on a sidewalk beside extensive standing floodwater, with partially submerged trees and a building visible in the background."
 geo:
   address: ''
   lat: 30.0285289126579

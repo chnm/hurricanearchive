@@ -21,6 +21,8 @@ files:
     original_filename: Picture 371-J2.jpg
     thumb: /files/thumbnails/14fb29f9eebcde14fb29f9eebd6c.jpg
     url: /files/original/14fb29f9eebcde14fb29f9eebd6c.jpg
+    alt:
+      en: "A neighborhood street corner with a \"STOP ALL WAY\" sign and \"LITTER FREE ZONE\" sign on a utility pole, cracked pavement, a parked car, and a row of small houses under a clear sky."
 geo:
 id: 22040
 item_type: Still Image

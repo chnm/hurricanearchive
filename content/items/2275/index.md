@@ -26,6 +26,8 @@ files:
     original_filename: DSC03363_89a356b05a.JPG
     thumb: /files/thumbnails/14fb2a6d65ebba14fb2a6d65f316.jpg
     url: /files/original/14fb2a6d65ebba14fb2a6d65f316.jpg
+    alt:
+      en: "Three men walk on a city sidewalk past a pile of sandbags and a fire hydrant, with parked cars, street lamps, and brick buildings lining the street."
 geo:
   address: ''
   lat: 29.9356720745457

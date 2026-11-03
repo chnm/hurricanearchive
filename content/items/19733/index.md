@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 120cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e2858ee14fb2a0e285cd3.jpg
     url: /files/original/14fb2a0e2858ee14fb2a0e285cd3.jpg
+    alt:
+      en: "A person in military camouflage uniform walks across a large empty concrete lot as yellow smoke billows nearby, with damaged trees, houses, and a chain-link fence in the background."
 geo:
 id: 19733
 item_type: Still Image

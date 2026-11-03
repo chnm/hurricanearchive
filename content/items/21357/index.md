@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0235-9-25.JPG
     thumb: /files/thumbnails/14fb29ff3bb74314fb29ff3bbb22.jpg
     url: /files/original/14fb29ff3bb74314fb29ff3bbb22.jpg
+    alt:
+      en: "Aerial view of a flooded industrial refinery with storage tanks, tall distillation towers, and pipelines surrounded by standing floodwater, with green fields visible in the background under a hazy sky."
 geo:
 id: 21357
 item_type: Still Image

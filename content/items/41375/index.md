@@ -20,6 +20,8 @@ files:
     original_filename: P1010070_da04837c65.JPG
     thumb: /files/thumbnails/14fb29c401757114fb29c4019a42.jpg
     url: /files/original/14fb29c401757114fb29c4019a42.jpg
+    alt:
+      en: "Two volunteers stand near a silver car, holding water bottles beside muddy rubber boots and debris piled on the ground, with downed power lines and storm wreckage visible behind them."
 geo:
   address: 7224 patricia street
   lat: 29.9657

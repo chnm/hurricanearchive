@@ -21,6 +21,8 @@ files:
     original_filename: 1991 homecoming court_d9b69d6dfd.jpg
     thumb: /files/thumbnails/14fb29d71e023b14fb29d71e064b.jpg
     url: /files/original/14fb29d71e023b14fb29d71e064b.jpg
+    alt:
+      en: "A yearbook page titled \"1991 Homecoming Court\" with three black-and-white photos of young women holding flowers, posing before a large letter \"C\" backdrop: Queen Rebekka Boudreaux, First Maid Stacie Twiggs, and Maid Christie Cantrell."
 geo:
 id: 26860
 item_type: Still Image

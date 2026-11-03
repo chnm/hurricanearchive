@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.072.JPG
     thumb: /files/thumbnails/14fb29dcf1e74214fb29dcf1eb27.jpg
     url: /files/original/14fb29dcf1e74214fb29dcf1eb27.jpg
+    alt:
+      en: "A heap of storm debris—furniture, cardboard, pipes, and household items—piled on a street in front of a damaged house with missing siding and a travel trailer alongside."
 geo:
 id: 25640
 item_type: Still Image

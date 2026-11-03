@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1565superdome.JPG
     thumb: /files/thumbnails/14fb29e2b675ac14fb29e2b679a3.jpg
     url: /files/original/14fb29e2b675ac14fb29e2b679a3.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather inside a dome-shaped tent equipped with laptops, water bottles, and office supplies, with several men conferring near folding tables."
 geo:
 id: 25040
 item_type: Still Image

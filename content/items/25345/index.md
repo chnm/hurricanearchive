@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2072superdome.JPG
     thumb: /files/thumbnails/14fb29ded7954714fb29ded799b4.jpg
     url: /files/original/14fb29ded7954714fb29ded799b4.jpg
+    alt:
+      en: "Two men support an injured or exhausted man between them, one wearing a blue medical glove, while military personnel in camouflage work in the background near a vehicle ramp."
 geo:
 id: 25345
 item_type: Still Image

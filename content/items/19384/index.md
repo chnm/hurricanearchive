@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2245engineers.JPG
     thumb: /files/thumbnails/14fb2a10a0b33214fb2a10a0b717.jpg
     url: /files/original/14fb2a10a0b33214fb2a10a0b717.jpg
+    alt:
+      en: "Military personnel in camouflage and desert fatigues stand near a tree-covered sidewalk, with boarded-up pastel-colored houses visible in the background, likely surveying hurricane damage."
 geo:
 id: 19384
 item_type: Still Image

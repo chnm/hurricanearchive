@@ -26,6 +26,8 @@ files:
     original_filename: Living_Right_4c58c8cb51.png
     thumb: /files/thumbnails/14fb2a6f5385ab14fb2a6f5389fc.jpg
     url: /files/original/14fb2a6f5385ab14fb2a6f5389fc.jpg
+    alt:
+      en: "A large splintered tree trunk lies fallen in a grassy yard just beside a tan pickup truck, with several people standing nearby observing the damage amid surrounding woods."
 geo:
   address: ''
   lat: 30.342352

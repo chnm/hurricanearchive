@@ -21,6 +21,8 @@ files:
     original_filename: 128.jpg
     thumb: /files/thumbnails/14fb2a6078dee214fb2a6078e2c7.jpg
     url: /files/original/14fb2a6078dee214fb2a6078e2c7.jpg
+    alt:
+      en: "Child's drawing in red marker of a butterfly with heart-patterned wings and curly antennae, signed \"Jamiya\" with the number \"6\" below."
 geo:
 id: 2705
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0079H.JPG
     thumb: /files/thumbnails/14fb2a03bebb8e14fb2a03bed24d.jpg
     url: /files/original/14fb2a03bebb8e14fb2a03bed24d.jpg
+    alt:
+      en: "A bald man in a light shirt sits in foreground shadow near wooden picnic tables holding beer bottles and clothing, while a woman stands at a counter beneath string lights in the dim background."
 geo:
 id: 20792
 item_type: Still Image

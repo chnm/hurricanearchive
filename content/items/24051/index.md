@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eb34e80514fb29eb34ebe8.jpg
     url: /files/original/14fb29eb34e80514fb29eb34ebe8.jpg
+    alt:
+      en: "A soldier in camouflage uniform with a partially visible nametag stands beside a military vehicle, speaking with two people in the foreground, one wearing a red shirt and the other a white sweater."
 geo:
 id: 24051
 item_type: Still Image

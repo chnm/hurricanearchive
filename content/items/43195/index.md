@@ -20,6 +20,8 @@ files:
     original_filename: 100_0092_65b5730733.jpg
     thumb: /files/thumbnails/14fb29c21f0fc514fb29c21f17fc.jpg
     url: /files/original/14fb29c21f0fc514fb29c21f17fc.jpg
+    alt:
+      en: "A small dark curly-haired dog sits on a multicolored crocheted blanket, with a date stamp reading 05/31/2006 in the corner."
 geo:
   address: ''
   lat: 29.88571

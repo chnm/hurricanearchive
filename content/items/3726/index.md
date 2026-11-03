@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 006.jpg
     thumb: /files/thumbnails/14fb2a59fa2e4214fb2a59fa3228.jpg
     url: /files/original/14fb2a59fa2e4214fb2a59fa3228.jpg
+    alt:
+      en: "Wide view of a calm bay with a distant city skyline and cranes, remnants of a broken wooden pier or pilings lining a sandy shore in the foreground."
 geo:
 id: 3726
 item_type: Still Image

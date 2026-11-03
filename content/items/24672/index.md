@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00139 DSC00139cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5baf73c14fb29e5baff01.jpg
     url: /files/original/14fb29e5baf73c14fb29e5baff01.jpg
+    alt:
+      en: "Two men in military camouflage uniforms with American flag patches walk alongside two civilians in casual attire, with portable toilets, vehicles, a Sheriff's truck, and a brick building in the background."
 geo:
 id: 24672
 item_type: Still Image

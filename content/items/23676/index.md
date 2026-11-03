@@ -21,6 +21,8 @@ files:
     original_filename: P1010117empireS&R.JPG
     thumb: /files/thumbnails/14fb29edeed67714fb29edeeda5d.jpg
     url: /files/original/14fb29edeed67714fb29edeeda5d.jpg
+    alt:
+      en: "Floodwater covers a road and yard area with a collapsed structure and debris in the water, surrounded by trees, utility poles, and power lines under an overcast sky."
 geo:
 id: 23676
 item_type: Still Image

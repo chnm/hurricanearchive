@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29f005889014fb29f0058c6d.jpg
     url: /files/original/14fb29f005889014fb29f0058c6d.jpg
+    alt:
+      en: "Debris field of storm-damaged structures, including twisted sheet metal, broken wood planks, rusted perforated panels, and a metal bucket, with a pair of sneakers visible among the wreckage."
 geo:
 id: 23303
 item_type: Still Image

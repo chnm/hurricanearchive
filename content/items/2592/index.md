@@ -24,6 +24,8 @@ files:
     original_filename: 20051204_MG_9445.jpg
     thumb: /files/thumbnails/14fb2a647011a014fb2a64701b57.jpg
     url: /files/original/14fb2a647011a014fb2a64701b57.jpg
+    alt:
+      en: "Broken wooden pilings and concrete rubble mark the remains of a municipal fishing pier, with a man fishing nearby and transmission towers stretching across calm water in the distance."
 geo:
 id: 2592
 item_type: Still Image

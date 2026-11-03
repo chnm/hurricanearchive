@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-06-5A.jpg
     thumb: /files/thumbnails/14fb29e909fa2a14fb29e909fe07.jpg
     url: /files/original/14fb29e909fa2a14fb29e909fe07.jpg
+    alt:
+      en: "Military personnel in fatigues form a line to unload cases of bottled water from a Black Hawk helicopter parked on a paved lot, with trees visible in the background."
 geo:
 id: 24286
 item_type: Still Image

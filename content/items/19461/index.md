@@ -21,6 +21,8 @@ files:
     original_filename: Picture 021engineers.jpg
     thumb: /files/thumbnails/14fb2a0fe3fdaf14fb2a0fe40195.jpg
     url: /files/original/14fb2a0fe3fdaf14fb2a0fe40195.jpg
+    alt:
+      en: "A man wearing an orange life vest holds a young child up to a window cut into a house's attic wall, where another child looks out, reaching toward the toddler's hand."
 geo:
 id: 19461
 item_type: Still Image

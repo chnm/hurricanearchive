@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0404.JPG
     thumb: /files/thumbnails/14fb2a542ea29c14fb2a542ea680.jpg
     url: /files/original/14fb2a542ea29c14fb2a542ea680.jpg
+    alt:
+      en: "A wide wooden plank, likely salvaged debris, measured diagonally with a yellow tape measure showing markings up to 12 inches, with a debris-strewn yard and patio chairs visible in the background."
 geo:
 id: 5059
 item_type: Still Image

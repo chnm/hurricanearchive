@@ -20,6 +20,8 @@ files:
     original_filename: 2420899133_58975f7eeb.
     thumb: /files/thumbnails/14fb29c9554e4014fb29c955521d.jpg
     url: /files/original/14fb29c9554e4014fb29c955521d.jpg
+    alt:
+      en: "Interior of a damaged, abandoned building with a rusted metal wall, a wooden counter, scattered debris on the floor, and a glass door below an illuminated \"EXIT\" sign."
 geo:
   address: ''
   lat: 29.97632

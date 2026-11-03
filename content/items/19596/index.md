@@ -21,6 +21,8 @@ files:
     original_filename: S4300075zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ee479da14fb2a0ee47dbf.jpg
     url: /files/original/14fb2a0ee479da14fb2a0ee47dbf.jpg
+    alt:
+      en: "Black and white helicopter marked \"N900HH\" parked on a grass field, with a man in a red shirt standing by its open door and another person walking nearby; buildings and trees line the background."
 geo:
 id: 19596
 item_type: Still Image

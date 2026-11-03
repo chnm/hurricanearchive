@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.005.JPG
     thumb: /files/thumbnails/14fb29dd31139114fb29dd311776.jpg
     url: /files/original/14fb29dd31139114fb29dd311776.jpg
+    alt:
+      en: "Weathered gabled roof with peeling white siding, a slate-tiled lower roof, and a dislodged louvered vent, overgrown with vines and flanked by utility wires."
 geo:
 id: 25611
 item_type: Still Image

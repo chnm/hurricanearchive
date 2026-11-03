@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0021.JPG
     thumb: /files/thumbnails/14fb2a1ba35b5714fb2a1ba35fc3.jpg
     url: /files/original/14fb2a1ba35b5714fb2a1ba35fc3.jpg
+    alt:
+      en: "Two men in camouflage military uniforms sit at a table in an office, one with a visible nametag reading \"Jones\"; a window with vertical blinds and trees outside is behind them, and the timestamp \"09.20.2005 13:28\" appears at right."
 geo:
   address: ''
   lat: 0.0

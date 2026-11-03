@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001.JPG
     thumb: /files/thumbnails/14fb2a00fca3f814fb2a00fca7dc.jpg
     url: /files/original/14fb2a00fca3f814fb2a00fca7dc.jpg
+    alt:
+      en: "Soldier in camouflage fatigues and helmet, wearing a parachute harness with an American flag patch on the sleeve, standing on dry grass with a line extending toward buildings in the background."
 geo:
 id: 21038
 item_type: Still Image

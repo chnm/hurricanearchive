@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2188.JPG
     thumb: /files/thumbnails/14fb2a135138e914fb2a13513ccf.jpg
     url: /files/original/14fb2a135138e914fb2a13513ccf.jpg
+    alt:
+      en: "A person in a military flight suit, helmet, gloves, and knee pads stands on a grassy field, gesturing with one hand, in front of a chain-link fence and a brick building labeled \"Amalgamated Transit Union Local 1560.\""
 geo:
 id: 19080
 item_type: Still Image

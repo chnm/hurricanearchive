@@ -21,6 +21,8 @@ files:
     original_filename: S4300240stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eca4ebfa14fb29eca4efe9.jpg
     url: /files/original/14fb29eca4ebfa14fb29eca4efe9.jpg
+    alt:
+      en: "Paved road surface with a faded white edge line, bordered by muddy shoulder and standing water reflecting the sky."
 geo:
 id: 23875
 item_type: Still Image

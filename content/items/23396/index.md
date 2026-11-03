@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0085cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efb3953114fb29efb39920.jpg
     url: /files/original/14fb29efb3953114fb29efb39920.jpg
+    alt:
+      en: "Aerial view of a mottled, frost-covered marsh landscape with patches of dark water, muddy ground, and a dense clump of green vegetation in the lower left corner."
 geo:
 id: 23396
 item_type: Still Image

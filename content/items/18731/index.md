@@ -21,6 +21,8 @@ files:
     original_filename: S4300097alero.JPG
     thumb: /files/thumbnails/14fb2a15552b1214fb2a15552ef7.jpg
     url: /files/original/14fb2a15552b1214fb2a15552ef7.jpg
+    alt:
+      en: "Red Cross volunteers in white shirts and vests serve food from large coolers into foam containers, with military personnel and palm trees visible in the background."
 geo:
 id: 18731
 item_type: Still Image

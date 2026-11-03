@@ -21,6 +21,8 @@ files:
     original_filename: 106.jpg
     thumb: /files/thumbnails/14fb2a6098292a14fb2a60982d10.jpg
     url: /files/original/14fb2a6098292a14fb2a60982d10.jpg
+    alt:
+      en: "A child's drawing featuring a large blue outlined shape enclosing dense scribbles in green, yellow, and multicolor crayon or marker, with handwritten text in the upper right corner."
 geo:
 id: 2682
 item_type: Still Image

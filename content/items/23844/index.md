@@ -21,6 +21,8 @@ files:
     original_filename: S4300183stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecd56e7b14fb29ecd57269.jpg
     url: /files/original/14fb29ecd56e7b14fb29ecd57269.jpg
+    alt:
+      en: "Brick house with a dark pickup truck parked in front, surrounded by thick mud, debris, and a tilted mailbox post, with a dirt road running alongside."
 geo:
 id: 23844
 item_type: Still Image

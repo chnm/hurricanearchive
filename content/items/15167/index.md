@@ -21,6 +21,8 @@ files:
     original_filename: IPerez-6142_2f3e44b482.jpg
     thumb: /files/thumbnails/14fb2a16c7c91b14fb2a16c7cd02.jpg
     url: /files/original/14fb2a16c7c91b14fb2a16c7cd02.jpg
+    alt:
+      en: "Older man with gray hair stands against a brick wall, wearing a tan jacket over a plaid shirt, holding a carved and painted wooden cardinal mounted on a wood block."
 geo:
 id: 15167
 item_type: Still Image

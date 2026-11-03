@@ -21,6 +21,8 @@ files:
     original_filename: 09280016plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ebedf9ed14fb29ebedfdca.jpg
     url: /files/original/14fb29ebedf9ed14fb29ebedfdca.jpg
+    alt:
+      en: "Two men in a military uniform and civilian clothing stand amid storm debris, surveying a collapsed brick structure and scattered rubble beneath a large bare tree."
 geo:
 id: 24014
 item_type: Still Image

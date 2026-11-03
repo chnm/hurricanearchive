@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1742superdome.JPG
     thumb: /files/thumbnails/14fb29e1f57e9114fb29e1f5932b.jpg
     url: /files/original/14fb29e1f57e9114fb29e1f5932b.jpg
+    alt:
+      en: "Group of military personnel in camouflage fatigues and a civilian carry a patient on a stretcher with medical tubing and an oxygen bag, with a white van parked in the background."
 geo:
 id: 25135
 item_type: Still Image

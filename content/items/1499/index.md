@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28337.jpg
     thumb: /files/thumbnails/14fb2a68662b6d14fb2a68662fad.jpg
     url: /files/original/14fb2a68662b6d14fb2a68662fad.jpg
+    alt:
+      en: "Twisted metal structural beams rest atop a damaged brick pillar amid fallen tree branches and debris, with buildings visible in the background."
 geo:
   address: ''
   lat: 0.0

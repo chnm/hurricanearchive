@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0985superdome.JPG
     thumb: /files/thumbnails/14fb29e3ed9e6514fb29e3eda24b.jpg
     url: /files/original/14fb29e3ed9e6514fb29e3eda24b.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and beret helps two men lift a person from a wheelchair into a van, with a \"HomeHealthcare, Inc.\" t-shirt visible on one man's back."
 geo:
 id: 24910
 item_type: Still Image

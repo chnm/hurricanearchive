@@ -21,6 +21,8 @@ files:
     original_filename: Picture 299-J2.jpg
     thumb: /files/thumbnails/14fb29facd5d9e14fb29facd6184.jpg
     url: /files/original/14fb29facd5d9e14fb29facd6184.jpg
+    alt:
+      en: "Equipment cases, a folding chair, and a satellite dish sit atop a concrete highway barrier, with a vehicle nearby and city high-rise buildings in the background."
 geo:
 id: 21968
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 100_0125.JPG
     thumb: /files/thumbnails/14fb2a594dd85314fb2a594ddc3a.jpg
     url: /files/original/14fb2a594dd85314fb2a594ddc3a.jpg
+    alt:
+      en: "A waterfront strewn with storm wreckage—collapsed wooden structures, a stranded boat, and torn netting—stands beneath leafless trees and utility poles along a calm gray waterway."
 geo:
 id: 3834
 item_type: Still Image

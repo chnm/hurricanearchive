@@ -24,6 +24,8 @@ files:
     original_filename: SD 1880s_c84295ba58.jpg
     thumb: /files/thumbnails/14fb29d7d8c75d14fb29d7d8cb07.jpg
     url: /files/original/14fb29d7d8c75d14fb29d7d8cb07.jpg
+    alt:
+      en: "Sepia-toned studio portrait of an elderly man with a long white beard in a striped suit, seated beside an elderly woman in round glasses wearing a dark jacket over a patterned blouse."
 geo:
   address: ''
   lat: 29.87876

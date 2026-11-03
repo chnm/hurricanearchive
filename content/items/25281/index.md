@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2008superdome.JPG
     thumb: /files/thumbnails/14fb29df69fa2714fb29df69fe07.jpg
     url: /files/original/14fb29df69fa2714fb29df69fe07.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms assist evacuees, including a child, a woman, and an elderly woman in a wheelchair, near an \"Acadian Shuttle\" van in a wet parking lot."
 geo:
 id: 25281
 item_type: Still Image

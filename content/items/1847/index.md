@@ -26,6 +26,8 @@ files:
     original_filename: jb3_2bbef365f3.JPG
     thumb: /files/thumbnails/14fb2a6eac365e14fb2a6eac3b5e.jpg
     url: /files/original/14fb2a6eac365e14fb2a6eac3b5e.jpg
+    alt:
+      en: "Stripped storefront-style building with a red metal roof, exposed wall studs, and a single glass door, fronted by a dirt lot and patch of grass—damage from Hurricane Rita under repair."
 geo:
   address: ''
   lat: 29.7619931096015

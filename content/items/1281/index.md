@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28462.jpg
     thumb: /files/thumbnails/14fb2a69d9af0814fb2a69d9b437.jpg
     url: /files/original/14fb2a69d9af0814fb2a69d9b437.jpg
+    alt:
+      en: "A weathered bronze boot-shaped sculpture inscribed \"Harry Reeks,\" mounted on a concrete base overlooking a calm body of water with a distant shoreline."
 geo:
   address: ''
   lat: 0.0

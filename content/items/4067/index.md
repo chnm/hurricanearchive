@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0020.JPG
     thumb: /files/thumbnails/14fb2a5827ea9b14fb2a5827ee81.jpg
     url: /files/original/14fb2a5827ea9b14fb2a5827ee81.jpg
+    alt:
+      en: "Two men in camouflage military uniforms and a shirtless man in boots walk along a debris-covered street near a white house, with fallen tree branches, mud-cracked pavement, and a downed power line visible."
 geo:
 id: 4067
 item_type: Still Image

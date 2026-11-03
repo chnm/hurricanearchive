@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1792superdome.JPG
     thumb: /files/thumbnails/14fb29e167ba0b14fb29e167be09.jpg
     url: /files/original/14fb29e167ba0b14fb29e167be09.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms, a woman in a black cardigan, a man in a yellow polo shirt, and a police officer stand conversing outdoors near a parked vehicle and a yellow bus."
 geo:
 id: 25180
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: LTG Blum greeting troops.JPG
     thumb: /files/thumbnails/14fb2a1b6891fb14fb2a1b6895e0.jpg
     url: /files/original/14fb2a1b6891fb14fb2a1b6895e0.jpg
+    alt:
+      en: "A soldier in digital camouflage and a black beret gestures while speaking with another soldier in desert camouflage; a \"Follow Me\" truck and parking lot are visible in the background, with a camera lens in the foreground."
 geo:
   address: ''
   lat: 0.0

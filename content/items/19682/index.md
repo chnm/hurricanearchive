@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 069cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e6a9ed714fb2a0e6aa2bc.jpg
     url: /files/original/14fb2a0e6a9ed714fb2a0e6aa2bc.jpg
+    alt:
+      en: "Empty paved lot with entrance gates reading \"NO EXIT\" and \"EXIT AFTER 7th RACE,\" a stranded boat and jet ski, scattered chairs, and storm-damaged houses in the background."
 geo:
 id: 19682
 item_type: Still Image

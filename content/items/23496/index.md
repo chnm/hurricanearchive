@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0135abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef34f02914fb29ef34f40f.jpg
     url: /files/original/14fb29ef34f02914fb29ef34f40f.jpg
+    alt:
+      en: "A dark green mobile home sits beside floodwater littered with debris, with a small aluminum boat nearby and bare, storm-damaged trees under a cloudy sky."
 geo:
 id: 23496
 item_type: Still Image

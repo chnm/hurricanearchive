@@ -26,6 +26,8 @@ files:
     original_filename: 100_0561_e2df69fc1c.jpg
     thumb: /files/thumbnails/14fb2a710e5aa114fb2a710e5e86.jpg
     url: /files/original/14fb2a710e5aa114fb2a710e5e86.jpg
+    alt:
+      en: "A large plywood sign nailed to a tree reads \"STATE-FARM ADJUSTER DAVID THORN Trying to SCREW ME,\" surrounded by storm debris piled along a tree-lined street."
 geo:
   address: ''
   lat: 29.952659

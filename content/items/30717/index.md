@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7414.JPG
     thumb: /files/thumbnails/14fb29ccbf171814fb29ccbf1afe.jpg
     url: /files/original/14fb29ccbf171814fb29ccbf1afe.jpg
+    alt:
+      en: "A metal roof with a large broken tree limb resting across it, surrounded by damaged trees with stripped branches against a clear blue sky."
 geo:
 id: 30717
 item_type: Still Image

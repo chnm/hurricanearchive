@@ -21,6 +21,8 @@ files:
     original_filename: Picture 209cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b420dba14fb2a0b42119f.jpg
     url: /files/original/14fb2a0b420dba14fb2a0b42119f.jpg
+    alt:
+      en: "Young palm trees supported by metal stakes stand on a grassy slope in front of houses, with a taller pine tree between them."
 geo:
 id: 20112
 item_type: Still Image

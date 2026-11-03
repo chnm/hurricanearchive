@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0050-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a05662bcb14fb2a05662fa2.jpg
     url: /files/original/14fb2a05662bcb14fb2a05662fa2.jpg
+    alt:
+      en: "A flooded rural road lined with trees and utility poles, with military-style trucks plowing through deep water, sending large splashes into the air."
 geo:
 id: 20654
 item_type: Still Image

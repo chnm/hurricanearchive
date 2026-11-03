@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0099OEP.JPG
     thumb: /files/thumbnails/14fb29f19681c014fb29f196859c.jpg
     url: /files/original/14fb29f19681c014fb29f196859c.jpg
+    alt:
+      en: "Office workspace filled with cubicles where military personnel in camouflage uniforms and civilians work at computer monitors, with several people standing and conversing near desks cluttered with papers and supplies."
 geo:
 id: 23089
 item_type: Still Image

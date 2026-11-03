@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5714_fb04ce22f0.jpg
     thumb: /files/thumbnails/14fb29da92c61814fb29da92c9fd.jpg
     url: /files/original/14fb29da92c61814fb29da92c9fd.jpg
+    alt:
+      en: "An older man with a white beard, cap, and glasses stands on a covered sidewalk holding a sign reading \"Voodoo Cemetery Tour Today, 10:30 AM & 1:30 PM,\" near \"The Corner Oyster Bar & Grill.\""
 geo:
 id: 26117
 item_type: Still Image

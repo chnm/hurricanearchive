@@ -21,6 +21,8 @@ files:
     original_filename: CSA-2005-09-14-093425.jpg
     thumb: /files/thumbnails/14fb2a0afcc3e014fb2a0afcd25a.jpg
     url: /files/original/14fb2a0afcc3e014fb2a0afcd25a.jpg
+    alt:
+      en: "Flooded city street surrounded by high-rise buildings, with numerous parked cars submerged in brown floodwater and a military vehicle driving through the water in the foreground."
 geo:
 id: 20163
 item_type: Still Image

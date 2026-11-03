@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0299westend.JPG
     thumb: /files/thumbnails/14fb2a1416290a14fb2a14162db8.jpg
     url: /files/original/14fb2a1416290a14fb2a14162db8.jpg
+    alt:
+      en: "Aerial view of a storm-damaged marina with sailboats scattered or sunk among docks, and rows of waterfront buildings with heavily damaged, torn-open roofs along the shoreline."
 geo:
 id: 18942
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 0009.JPG
     thumb: /files/thumbnails/14fb2a5bdb84a214fb2a5bdb8889.jpg
     url: /files/original/14fb2a5bdb84a214fb2a5bdb8889.jpg
+    alt:
+      en: "A large tree silhouetted against a darkening blue sky arches over a quiet residential street in Gentilly, with houses, power lines, and a car visible along the dim roadside."
 geo:
 id: 3428
 item_type: Still Image

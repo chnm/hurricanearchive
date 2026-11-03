@@ -26,6 +26,8 @@ files:
     original_filename: katrina4_b1fea28b56.jpg
     thumb: /files/thumbnails/14fb2a70bae62c14fb2a70baea13.jpg
     url: /files/original/14fb2a70bae62c14fb2a70baea13.jpg
+    alt:
+      en: "Floodwater submerges a street lined with houses and power lines, viewed from the bed of a pickup truck, with a large building partially flooded in the background."
 geo:
   address: ''
   lat: 29.9664605010992

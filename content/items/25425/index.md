@@ -21,6 +21,8 @@ files:
     original_filename: Under the Superdome 10superdome.jpg
     thumb: /files/thumbnails/14fb29dde1e5f514fb29dde1e9d8.jpg
     url: /files/original/14fb29dde1e5f514fb29dde1e9d8.jpg
+    alt:
+      en: "Aerial view of people boarding a large military-style truck beside floodwater near a concrete structure, with several individuals helping others climb aboard amid scattered belongings."
 geo:
 id: 25425
 item_type: Still Image

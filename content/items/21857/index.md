@@ -21,6 +21,8 @@ files:
     original_filename: EO A0014.TIF
     thumb: /files/thumbnails/14fb29fb5c57ec14fb29fb5c5bd1.jpg
     url: /files/original/14fb29fb5c57ec14fb29fb5c5bd1.TIF
+    alt:
+      en: "Black-and-white aerial view of a river or canal dividing a dense residential neighborhood with tree-lined streets on the left from industrial docks, warehouses, and rail yards on the right; barges are visible in the waterway."
 geo:
 id: 21857
 item_type: Still Image

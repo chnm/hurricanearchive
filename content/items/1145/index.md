@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28208.jpg
     thumb: /files/thumbnails/14fb2a6acabb2a14fb2a6acabef3.jpg
     url: /files/original/14fb2a6acabb2a14fb2a6acabef3.jpg
+    alt:
+      en: "A makeshift wooden shelf holds a bowl, bottles, and figurines against a sandy, rubble-strewn lot; below, a sign reading \"116\" sits atop a sign that says \"Seaside.\""
 geo:
   address: ''
   lat: 0.0

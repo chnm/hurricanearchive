@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27888.jpg
     thumb: /files/thumbnails/14fb2a66da001614fb2a66da03ff.jpg
     url: /files/original/14fb2a66da001614fb2a66da03ff.jpg
+    alt:
+      en: "A man in a green shirt and rubber boots stands amid a massive fallen oak tree that has crushed a trailer, with debris, wooden planks, and orange safety netting scattered around."
 geo:
   address: ''
   lat: 0.0

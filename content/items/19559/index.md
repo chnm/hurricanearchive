@@ -21,6 +21,8 @@ files:
     original_filename: S4300013zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f37b57914fb2a0f37c54a.jpg
     url: /files/original/14fb2a0f37b57914fb2a0f37c54a.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with a name tape reading \"COLLINS\" and \"U.S. ARMY\" stands through the roof hatch of a military vehicle, trees and light towers visible in the background."
 geo:
 id: 19559
 item_type: Still Image

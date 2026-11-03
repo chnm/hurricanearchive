@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28526.jpg
     thumb: /files/thumbnails/14fb2a6b2f197d14fb2a6b2f1d4f.jpg
     url: /files/original/14fb2a6b2f197d14fb2a6b2f1d4f.jpg
+    alt:
+      en: "Damaged roof structure exposing wooden rafters and beams, with a section of the roofing removed to reveal blue sky; crumbling plaster wall visible on the left."
 geo:
   address: ''
   lat: 0.0

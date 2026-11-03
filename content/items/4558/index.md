@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0760.JPG
     thumb: /files/thumbnails/14fb2a5701edc314fb2a5701f1b1.jpg
     url: /files/original/14fb2a5701edc314fb2a5701f1b1.jpg
+    alt:
+      en: "Storm-damaged lot with the skeletal wood frame of a collapsed structure, scattered debris, and snapped, leafless trees along a paved road under a partly cloudy sky."
 geo:
 id: 4558
 item_type: Still Image

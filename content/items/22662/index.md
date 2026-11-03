@@ -21,6 +21,8 @@ files:
     original_filename: PICT0097Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d33f7b14fb29f4d34361.jpg
     url: /files/original/14fb29f4d33f7b14fb29f4d34361.jpg
+    alt:
+      en: "A tall white flagpole with an American flag stands on a mowed lawn in front of storm-damaged two-story brick buildings with columned porches, dated 09.15.2005."
 geo:
 id: 22662
 item_type: Still Image

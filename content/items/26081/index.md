@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7044_8e1b5cce0e.jpg
     thumb: /files/thumbnails/14fb29db59559d14fb29db596117.jpg
     url: /files/original/14fb29db59559d14fb29db596117.jpg
+    alt:
+      en: "Black-and-white photo of clergy and dignitaries seated on a bunting-draped grandstand before a large crowd, with American flags hanging on the stone building behind them during Xavier University's 1933 dedication ceremony."
 geo:
   address: ''
   lat: 29.91685

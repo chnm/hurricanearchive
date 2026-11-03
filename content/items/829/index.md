@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28117.jpg
     thumb: /files/thumbnails/14fb2a6cc6c2d314fb2a6cc6c6b8.jpg
     url: /files/original/14fb2a6cc6c2d314fb2a6cc6c6b8.jpg
+    alt:
+      en: "A man in a uniform stands amid rubble and debris, surveying damage to a brick building with a collapsed roof section, near the 17th Street Canal breach in Lakeview, New Orleans."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0145-9-18.JPG
     thumb: /files/thumbnails/14fb2a09cc231414fb2a09cc3902.jpg
     url: /files/original/14fb2a09cc231414fb2a09cc3902.jpg
+    alt:
+      en: "A soldier in camouflage fatigues walks along a gravel levee beside a reddish-brown dog, overlooking a debris-strewn, muddy landscape with damaged structures and a bridge in the background."
 geo:
 id: 20297
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0116abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef5772c114fb29ef5776a5.jpg
     url: /files/original/14fb29ef5772c114fb29ef5776a5.jpg
+    alt:
+      en: "A long line of trucks waits on a rural road beside a flooded canal, with a uniformed officer and another man standing near the front vehicle talking."
 geo:
 id: 23461
 item_type: Still Image

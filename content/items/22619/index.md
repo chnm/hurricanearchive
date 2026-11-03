@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0583Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f50616de14fb29f5061ab7.jpg
     url: /files/original/14fb29f50616de14fb29f5061ab7.jpg
+    alt:
+      en: "Floodwater surrounds a two-story brick building with white columned balconies, submerging its lower level and a hedge, with a flagpole rising from the water in the foreground."
 geo:
 id: 22619
 item_type: Still Image

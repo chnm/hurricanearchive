@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (5).JPG
     thumb: /files/thumbnails/14fb2a5c43928914fb2a5c43966c.jpg
     url: /files/original/14fb2a5c43928914fb2a5c43966c.jpg
+    alt:
+      en: "A red dump truck and a CAT excavator work at a large debris pile, with another truck and downed trees in the background under a partly cloudy sky."
 geo:
 id: 3354
 item_type: Still Image

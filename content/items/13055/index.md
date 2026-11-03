@@ -21,6 +21,8 @@ files:
     original_filename: before truck.jpg
     thumb: /files/thumbnails/14fb2a20b9e4cb14fb2a20b9e826.jpg
     url: /files/original/14fb2a20b9e4cb14fb2a20b9e826.jpg
+    alt:
+      en: "Black SUV with roof-mounted lights and equipment parked in a lot, displaying a \"SKYWARN\" decal on the door and a \"Wilcan\" sticker, with a radio tower and another car visible nearby."
 geo:
 id: 13055
 item_type: Still Image

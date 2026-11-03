@@ -21,6 +21,8 @@ files:
     original_filename: Floating ants.JPG
     thumb: /files/thumbnails/14fb2a1b96a4c114fb2a1b96a721.jpg
     url: /files/original/14fb2a1b96a4c114fb2a1b96a721.jpg
+    alt:
+      en: "A large cluster of fire ants forms a floating mass on murky floodwater, clinging together near strands of grass and debris at the water's edge."
 geo:
   address: ''
   lat: 0.0

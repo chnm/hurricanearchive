@@ -21,6 +21,8 @@ files:
     original_filename: 151 port arthur damage1.jpg
     thumb: /files/thumbnails/14fb2a1fbdf98814fb2a1fbdfd6c.jpg
     url: /files/original/14fb2a1fbdf98814fb2a1fbdfd6c.jpg
+    alt:
+      en: "Damaged brick building with broken windows and exposed framing, debris scattered on the wet street below, with a power line and trees visible in the background."
 geo:
 id: 13161
 item_type: Still Image

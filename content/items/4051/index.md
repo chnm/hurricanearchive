@@ -21,6 +21,8 @@ files:
     original_filename: DSC01179.JPG
     thumb: /files/thumbnails/14fb2a58360d0914fb2a583610ee.jpg
     url: /files/original/14fb2a58360d0914fb2a583610ee.jpg
+    alt:
+      en: "A flooded city street lined with high-rise buildings, with several partially submerged cars and a boat floating in the brown floodwater; a timestamp reads \"7 10:24 AM.\""
 geo:
 id: 4051
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 105.jpg
     thumb: /files/thumbnails/14fb2a11fb7d6814fb2a11fb814a.jpg
     url: /files/original/14fb2a11fb7d6814fb2a11fb814a.jpg
+    alt:
+      en: "A leaning utility pole with a \"Speed Limit 35\" sign stands amid fallen tree branches and debris, with a damaged brick house and scattered rubble visible in the background."
 geo:
 id: 19195
 item_type: Still Image

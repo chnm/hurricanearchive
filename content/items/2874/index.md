@@ -21,6 +21,8 @@ files:
     original_filename: MVC-031S.JPG
     thumb: /files/thumbnails/14fb2a5fb0867814fb2a5fb08a5f.jpg
     url: /files/original/14fb2a5fb0867814fb2a5fb08a5f.jpg
+    alt:
+      en: "Interior of a metal storage locker or cabinet with numbered shelf compartments (15, 16) holding round pans or lids, coiled wiring, and a dark cloth item, viewed through a narrow opening."
 geo:
 id: 2874
 item_type: Still Image

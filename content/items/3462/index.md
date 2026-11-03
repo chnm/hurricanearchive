@@ -24,6 +24,8 @@ files:
     original_filename: P1010032.jpg
     thumb: /files/thumbnails/14fb2a5b9dab5e14fb2a5b9daf44.jpg
     url: /files/original/14fb2a5b9dab5e14fb2a5b9daf44.jpg
+    alt:
+      en: "A broken acoustic guitar, snapped at the neck with loose strings dangling, lies atop a cracked layer of dried mud coating a lawn—residue left by Hurricane Katrina floodwaters."
 geo:
 id: 3462
 item_type: Still Image

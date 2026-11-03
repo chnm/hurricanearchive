@@ -24,6 +24,8 @@ files:
     original_filename: 7_e038712551.jpg
     thumb: /files/thumbnails/14fb29d392620814fb29d392665a.jpg
     url: /files/original/14fb29d392620814fb29d392665a.jpg
+    alt:
+      en: "A group of nine smiling girls in matching white shirts and pink scarves pose together outdoors near a metal barricade, with trees and a building visible in the background."
 geo:
   address: ''
   lat: 29.91685

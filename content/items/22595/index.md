@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0546Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f52181f914fb29f5218510.jpg
     url: /files/original/14fb29f52181f914fb29f5218510.jpg
+    alt:
+      en: "A white camper trailer lies tipped on its side in deep floodwater beside a brick building, with another vehicle partially submerged in the background."
 geo:
 id: 22595
 item_type: Still Image

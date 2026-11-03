@@ -24,6 +24,8 @@ files:
     original_filename: 12_961b895bd1.jpg
     thumb: /files/thumbnails/14fb29d38ba98414fb29d38bad62.jpg
     url: /files/original/14fb29d38ba98414fb29d38bad62.jpg
+    alt:
+      en: "A group of smiling girls in swimsuits stand together outdoors near a grassy levee, with trees and a road visible in the background; date stamp reads 8/22/99."
 geo:
   address: ''
   lat: 29.84064

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (3).JPG
     thumb: /files/thumbnails/14fb2a5dc38a9d14fb2a5dc38e83.jpg
     url: /files/original/14fb2a5dc38a9d14fb2a5dc38e83.jpg
+    alt:
+      en: "Viewed through a car windshield with \"Buckle Up It's the Law\" sticker, a residential street shows a pile of storm-damaged furniture and debris, including a mattress and overturned chairs, piled on a curb."
 geo:
 id: 3136
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010113.JPG
     thumb: /files/thumbnails/14fb2a5a29ffb614fb2a5a2a039b.jpg
     url: /files/original/14fb2a5a29ffb614fb2a5a2a039b.jpg
+    alt:
+      en: "A large tree snapped and bent by hurricane winds leans over a pile of storm debris in front of damaged houses, under a partly cloudy blue sky."
 geo:
 id: 3676
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6948_09020d3a2b.jpg
     thumb: /files/thumbnails/14fb29db8d485214fb29db8d4bd0.jpg
     url: /files/original/14fb29db8d485214fb29db8d4bd0.jpg
+    alt:
+      en: "A group of children in white uniforms stand on stone steps holding percussion instruments—triangles, tambourines, a xylophone, and a snare drum—posing for a band portrait."
 geo:
   address: ''
   lat: 29.87876

@@ -21,6 +21,8 @@ files:
     original_filename: S4300104alero.JPG
     thumb: /files/thumbnails/14fb2a154c8e3c14fb2a154c9222.jpg
     url: /files/original/14fb2a154c8e3c14fb2a154c9222.jpg
+    alt:
+      en: "Side of a white AT&T trailer with the company's striped globe logo and \"AT&T\" lettering, parked near military-style covered trucks and trees in the background."
 geo:
 id: 18738
 item_type: Still Image

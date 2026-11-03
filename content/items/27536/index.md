@@ -21,6 +21,8 @@ files:
     original_filename: 11_3f5373a8e8.jpg
     thumb: /files/thumbnails/14fb29d38c64ee14fb29d38c68d3.jpg
     url: /files/original/14fb29d38c64ee14fb29d38c68d3.jpg
+    alt:
+      en: "A man and a young girl wearing an ornate gold headdress and beads pose together, surrounded by strands of Mardi Gras beads hanging nearby."
 geo:
   address: ''
   lat: 29.84064

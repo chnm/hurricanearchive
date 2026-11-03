@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29f016721214fb29f01679e7.jpg
     url: /files/original/14fb29f016721214fb29f01679e7.jpg
+    alt:
+      en: "Debris field of splintered wood, twisted metal roofing panels, and scattered household items piled against a damaged structure, with power lines and a clear sky in the background."
 geo:
 id: 23294
 item_type: Still Image

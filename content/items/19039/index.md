@@ -21,6 +21,8 @@ files:
     original_filename: DSC00686.JPG
     thumb: /files/thumbnails/14fb2a138a801314fb2a138a83f9.jpg
     url: /files/original/14fb2a138a801314fb2a138a83f9.jpg
+    alt:
+      en: "A military medical helicopter marked \"1745\" with a red cross insignia hovers low near a grassy area lined with trees, date-stamped \"SEP 16 2004\" in the corner."
 geo:
 id: 19039
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: LTG Blum and MG Landreneau.JPG
     thumb: /files/thumbnails/14fb2a1b6a42e214fb2a1b6a4783.jpg
     url: /files/original/14fb2a1b6a42e214fb2a1b6a4783.jpg
+    alt:
+      en: "Two U.S. Army generals in digital camouflage uniforms and black berets with three-star insignia converse outdoors near parked vehicles and a traffic cone; a news microphone is visible in the foreground, with a timestamp reading 09.29.2005 12:30."
 geo:
   address: ''
   lat: 0.0

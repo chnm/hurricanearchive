@@ -21,6 +21,8 @@ files:
     original_filename: slide17.jpg
     thumb: /files/thumbnails/14fb2a1946844514fb2a194688eb.jpg
     url: /files/original/14fb2a1946844514fb2a194688eb.jpg
+    alt:
+      en: "Collapsed structure with a black roof folded onto debris-covered ground, surrounded by bare, storm-damaged trees; scattered wreckage and household items litter the foreground."
 geo:
 id: 14399
 item_type: Still Image

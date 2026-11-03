@@ -21,6 +21,8 @@ files:
     original_filename: Picture 035cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c4890d614fb2a0c4894b8.jpg
     url: /files/original/14fb2a0c4890d614fb2a0c4894b8.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather around a truck bed loaded with bottled water and a chainsaw, with one service member carrying a rifle, during apparent hurricane relief efforts."
 geo:
 id: 19939
 item_type: Still Image

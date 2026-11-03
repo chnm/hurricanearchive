@@ -26,6 +26,8 @@ files:
     original_filename: looting_at_walmart_2542da6550.jpg
     thumb: /files/thumbnails/14fb2a70e1696f14fb2a70e16d4b.jpg
     url: /files/original/14fb2a70e1696f14fb2a70e16d4b.jpg
+    alt:
+      en: "Interior of a ransacked Wal-Mart with merchandise strewn across the floor; a shirtless man crouches holding a rifle while another man walks past carrying a bag, amid disordered clothing racks and shelves."
 geo:
   address: ''
   lat: 29.878755346037998

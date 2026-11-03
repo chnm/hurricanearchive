@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7445.JPG
     thumb: /files/thumbnails/14fb29cc9ccb2714fb29cc9ccf04.jpg
     url: /files/original/14fb29cc9ccb2714fb29cc9ccf04.jpg
+    alt:
+      en: "A large fallen tree rests against a wooden cabin with a metal roof, its branches covering the roofline and porch, with blue-shuttered windows visible beneath the debris."
 geo:
 id: 30744
 item_type: Still Image

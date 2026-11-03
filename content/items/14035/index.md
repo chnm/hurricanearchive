@@ -21,6 +21,8 @@ files:
     original_filename: 20050927033.JPG
     thumb: /files/thumbnails/14fb2a1c4a848814fb2a1c4a886b.jpg
     url: /files/original/14fb2a1c4a848814fb2a1c4a886b.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms load bottled water and supply boxes into a car trunk, with palletized bags of goods and trees in the background under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

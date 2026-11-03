@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019media.JPG
     thumb: /files/thumbnails/14fb29f2ae9e6314fb29f2aea244.jpg
     url: /files/original/14fb29f2ae9e6314fb29f2aea244.jpg
+    alt:
+      en: "Man wearing a headset, microphone, and sunglasses sits in a helicopter operating a video camera equipped with a monitor, with an aerial view of a sprawling city below."
 geo:
 id: 22922
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-012S.JPG
     thumb: /files/thumbnails/14fb2a5fa618e814fb2a5fa61cc4.jpg
     url: /files/original/14fb2a5fa618e814fb2a5fa61cc4.jpg
+    alt:
+      en: "Interior view through a wire cage enclosure showing mechanical equipment, valves, and red piping along a curved white wall, with a dark railing and reddish floor in the foreground."
 geo:
 id: 2889
 item_type: Still Image

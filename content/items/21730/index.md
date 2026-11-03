@@ -21,6 +21,8 @@ files:
     original_filename: flag.jpg
     thumb: /files/thumbnails/14fb29fc18ab0714fb29fc18aeec.jpg
     url: /files/original/14fb29fc18ab0714fb29fc18aeec.jpg
+    alt:
+      en: "A group of people ride in the back of a military truck, with one man raising his fist in the air; a folded flag lies beside them."
 geo:
 id: 21730
 item_type: Still Image

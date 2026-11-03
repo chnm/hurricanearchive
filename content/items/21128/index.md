@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0181-9-25.JPG
     thumb: /files/thumbnails/14fb2a006b56ae14fb2a006b5a94.jpg
     url: /files/original/14fb2a006b56ae14fb2a006b5a94.jpg
+    alt:
+      en: "Aerial view of a flooded roadway partially covered in sediment, with a displaced building, scattered debris, and downed utility poles surrounded by murky floodwater."
 geo:
 id: 21128
 item_type: Still Image

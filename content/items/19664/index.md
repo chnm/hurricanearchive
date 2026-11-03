@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 051cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e84b5ad14fb2a0e84bd79.jpg
     url: /files/original/14fb2a0e84b5ad14fb2a0e84bd79.jpg
+    alt:
+      en: "Close-up of a military uniform sleeve in woodland camouflage, featuring a shoulder patch with an artillery projectile and burst design, a rank chevron, and a radio clipped to the collar."
 geo:
 id: 19664
 item_type: Still Image

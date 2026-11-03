@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (3).jpg
     thumb: /files/thumbnails/14fb2a5cfd337314fb2a5cfd811b.jpg
     url: /files/original/14fb2a5cfd337314fb2a5cfd811b.jpg
+    alt:
+      en: "Overturned vehicle and parked cars beneath a large tree in a grassy lot, with a damaged storefront building and power lines visible in the background under a clear sky."
 geo:
 id: 3266
 item_type: Still Image

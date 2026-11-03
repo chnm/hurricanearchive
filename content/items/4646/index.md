@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0575.JPG
     thumb: /files/thumbnails/14fb2a56860a7e14fb2a5686134a.jpg
     url: /files/original/14fb2a56860a7e14fb2a5686134a.jpg
+    alt:
+      en: "Debris field cordoned off by orange plastic safety fencing, with large oak trees and a grassy clearing in the foreground under a clear sky."
 geo:
 id: 4646
 item_type: Still Image

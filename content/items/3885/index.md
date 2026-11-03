@@ -21,6 +21,8 @@ files:
     original_filename: 100_0178.JPG
     thumb: /files/thumbnails/14fb2a591c0ad814fb2a591c0eb5.jpg
     url: /files/original/14fb2a591c0ad814fb2a591c0eb5.jpg
+    alt:
+      en: "Flooded street intersection with traffic lights and street signs reading \"Kenilworth,\" \"Canal,\" and \"New Orleans Museum of Art,\" with a stucco house, downed tree branches, and church signs partly submerged."
 geo:
 id: 3885
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: NO 016majortodd.jpg
     thumb: /files/thumbnails/14fb29f2e35c4b14fb29f2e3602f.jpg
     url: /files/original/14fb29f2e35c4b14fb29f2e3602f.jpg
+    alt:
+      en: "Blurry photo of a tarmac with tire marks, a yellow emergency vehicle, a large crowd of people gathered near a hangar building, with an aircraft wing visible in the foreground."
 geo:
 id: 22894
 item_type: Still Image

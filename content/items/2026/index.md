@@ -26,6 +26,8 @@ files:
     original_filename: house21a_d33ceb0526.jpg
     thumb: /files/thumbnails/14fb2a6db09ec414fb2a6db0a2aa.jpg
     url: /files/original/14fb2a6db09ec414fb2a6db0a2aa.jpg
+    alt:
+      en: "A single-story house with a light-colored exterior and dark roof, shaded by large trees, with a minivan parked in the driveway and a grassy front yard."
 geo:
   address: ''
   lat: 29.936936521280202

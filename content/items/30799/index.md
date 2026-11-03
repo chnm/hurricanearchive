@@ -21,6 +21,8 @@ files:
     original_filename: Picture 064.jpg
     thumb: /files/thumbnails/14fb29cc69013a14fb29cc690520.jpg
     url: /files/original/14fb29cc69013a14fb29cc690520.jpg
+    alt:
+      en: "View through a car windshield covered in cracked, web-like debris, with a hand near the dashboard, showing a two-lane road lined with storm-damaged, broken trees."
 geo:
 id: 30799
 item_type: Still Image

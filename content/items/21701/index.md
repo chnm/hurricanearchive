@@ -21,6 +21,8 @@ files:
     original_filename: Helping hand.jpg
     thumb: /files/thumbnails/14fb29fc5c291c14fb29fc5c2d0a.jpg
     url: /files/original/14fb29fc5c291c14fb29fc5c2d0a.jpg
+    alt:
+      en: "A soldier in camouflage kneels down to offer a hand to a young child in a yellow dress, with military vehicles and other soldiers visible in the background."
 geo:
 id: 21701
 item_type: Still Image

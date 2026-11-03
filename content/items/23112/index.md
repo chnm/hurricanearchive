@@ -21,6 +21,8 @@ files:
     original_filename: 051002-A-7045A-022MarylandNG.jpg
     thumb: /files/thumbnails/14fb29f1849aa114fb29f1849e86.jpg
     url: /files/original/14fb29f1849aa114fb29f1849e86.jpg
+    alt:
+      en: "A person in military camouflage uniform hands a document to a driver leaning out of a red U.S. Xpress semi-truck cab labeled \"Chattanooga, TN.\""
 geo:
 id: 23112
 item_type: Still Image

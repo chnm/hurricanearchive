@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0238.JPG
     thumb: /files/thumbnails/14fb29ff2d37ea14fb29ff2d3f23.jpg
     url: /files/original/14fb29ff2d37ea14fb29ff2d3f23.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses submerged to their roofs, scattered debris, downed trees, and a large metal-roofed building standing amid dark standing floodwater."
 geo:
 id: 21367
 item_type: Still Image

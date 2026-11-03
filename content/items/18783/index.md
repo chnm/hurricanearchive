@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2212bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a1541212f14fb2a15412514.jpg
     url: /files/original/14fb2a1541212f14fb2a15412514.jpg
+    alt:
+      en: "A military officer in fatigues descends the stairs of a small jet, greeted by a woman in a flight suit, while others in uniform stand nearby, one holding a camera with a large telephoto lens."
 geo:
 id: 18783
 item_type: Still Image

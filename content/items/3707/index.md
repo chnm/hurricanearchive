@@ -24,6 +24,8 @@ files:
     original_filename: P1010153.JPG
     thumb: /files/thumbnails/14fb2a5a0df78314fb2a5a0df966.jpg
     url: /files/original/14fb2a5a0df78314fb2a5a0df966.jpg
+    alt:
+      en: "Rows of yard signs advertising house gutting, demolition, tree removal, and repair services line a grassy curbside near houses and trees, reflecting post-storm recovery efforts in a residential neighborhood."
 geo:
 id: 3707
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Talbert 02media.jpg
     thumb: /files/thumbnails/14fb29f2579a8514fb29f2579e6b.jpg
     url: /files/original/14fb29f2579a8514fb29f2579e6b.jpg
+    alt:
+      en: "A man wearing an earplug and wristwatch looks down while operating a video camera with a furry microphone, filming aerial footage of a residential neighborhood below."
 geo:
 id: 22977
 item_type: Still Image

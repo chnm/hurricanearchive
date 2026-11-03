@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28732.jpg
     thumb: /files/thumbnails/14fb2a675ee54514fb2a675ee92b.jpg
     url: /files/original/14fb2a675ee54514fb2a675ee92b.jpg
+    alt:
+      en: "Three veterinary staff in scrubs examine a cat on a blue-draped table, surrounded by medical supplies, cages, and IV stands at an animal rescue triage station."
 geo:
   address: ''
   lat: 0.0

@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C6P_1fa6a144a1.jpg
     thumb: /files/thumbnails/14fb2a668352e214fb2a668356cc.jpg
     url: /files/original/14fb2a668352e214fb2a668356cc.jpg
+    alt:
+      en: "A man in a U.S. Coast Guard cap, mask, and work gloves hands photographs to a woman in sunglasses and a striped shirt, with piles of storm debris and a damaged house behind them."
 geo:
 id: 2421
 item_type: Still Image

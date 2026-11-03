@@ -20,6 +20,8 @@ files:
     original_filename: hurricane_762b7e77b9.jpg
     thumb: /files/thumbnails/14fb29d854315b14fb29d854369e.jpg
     url: /files/original/14fb29d854315b14fb29d854369e.jpg
+    alt:
+      en: "Two men paddle a small boat through deep floodwaters past a brick house and partially submerged cars, with a cypress tree rising from the water nearby."
 geo:
 id: 26576
 item_type: Still Image

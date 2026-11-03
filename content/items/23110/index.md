@@ -21,6 +21,8 @@ files:
     original_filename: 051002-A-7045A-015MarylandNG.jpg
     thumb: /files/thumbnails/14fb29f186c91614fb29f186ccfd.jpg
     url: /files/original/14fb29f186c91614fb29f186ccfd.jpg
+    alt:
+      en: "A person in military fatigues climbs into a white Freightliner semi-truck cab, with a line of trailers, including one marked \"XTRA,\" parked under a clear sky."
 geo:
 id: 23110
 item_type: Still Image

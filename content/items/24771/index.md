@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2093superdome.JPG
     thumb: /files/thumbnails/14fb29e4ded11014fb29e4ded556.jpg
     url: /files/original/14fb29e4ded11014fb29e4ded556.jpg
+    alt:
+      en: "Aerial view of a flooded city street littered with torn metal roofing and debris after a storm, with a man photographing the scene near a parked white car and a \"Bud/Coca-Cola\" sign."
 geo:
 id: 24771
 item_type: Still Image

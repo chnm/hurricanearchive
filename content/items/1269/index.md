@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28189.jpg
     thumb: /files/thumbnails/14fb2a69f91a4d14fb2a69f91e61.jpg
     url: /files/original/14fb2a69f91a4d14fb2a69f91e61.jpg
+    alt:
+      en: "Rows of wooden pilings stand along a sandy, eroded shoreline leading into calm coastal water, with bare, storm-damaged trees lining the beach in the background."
 geo:
   address: ''
   lat: 0.0

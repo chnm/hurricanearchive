@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0256-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fecd6d3014fb29fecd7119.jpg
     url: /files/original/14fb29fecd6d3014fb29fecd7119.jpg
+    alt:
+      en: "Aerial view of floodwaters submerging houses up to their rooflines, with only treetops and a second structure's gabled roof visible above the water's surface."
 geo:
 id: 21435
 item_type: Still Image

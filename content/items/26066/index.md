@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7009_5834a20335.jpg
     thumb: /files/thumbnails/14fb29db70a58514fb29db70bc19.jpg
     url: /files/original/14fb29db70a58514fb29db70bc19.jpg
+    alt:
+      en: "Sepia-toned team photo of thirteen numbered baseball players, some in uniform, mounted on black paper with handwritten captions reading \"Straight College '19\" and \"Played 4. Won 4.\""
 geo:
   address: ''
   lat: 29.80252

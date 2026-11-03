@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1995superdome.JPG
     thumb: /files/thumbnails/14fb29dfb36cea14fb29dfb37462.jpg
     url: /files/original/14fb29dfb36cea14fb29dfb37462.jpg
+    alt:
+      en: "Military personnel in fatigues help an injured civilian using a crutch board onto a large military helicopter, while another person carrying a backpack follows behind on the wet tarmac."
 geo:
 id: 25268
 item_type: Still Image

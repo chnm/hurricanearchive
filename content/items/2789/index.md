@@ -21,6 +21,8 @@ files:
     original_filename: 82.jpg
     thumb: /files/thumbnails/14fb2a602dd92114fb2a602ddcfb.jpg
     url: /files/original/14fb2a602dd92114fb2a602ddcfb.jpg
+    alt:
+      en: "Child's crayon drawing of a blue flower with green leaves and stem, labeled \"Tyonna 9,\" with handwritten text reading \"I express myself by being a artist! Thanks you AV for being a good friend!\""
 geo:
 id: 2789
 item_type: Still Image

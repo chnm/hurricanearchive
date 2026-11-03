@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6629_4bbc99e090.JPG
     thumb: /files/thumbnails/14fb29d2cc0ca814fb29d2cc1906.jpg
     url: /files/original/14fb29d2cc0ca814fb29d2cc1906.jpg
+    alt:
+      en: "A weathered \"Sample Ballot\" for the Second Primary Election, January 9, 1960, Democrat, Parish of Orleans, listing candidates for Governor, Lieutenant Governor, and other state offices with handwritten vote tallies."
 geo:
   address: ''
   lat: 29.993

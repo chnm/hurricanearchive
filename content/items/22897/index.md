@@ -21,6 +21,8 @@ files:
     original_filename: NO 019majortodd.jpg
     thumb: /files/thumbnails/14fb29f2da908714fb29f2da9468.jpg
     url: /files/original/14fb29f2da908714fb29f2da9468.jpg
+    alt:
+      en: "A military medevac helicopter marked \"1747\" with a red cross sits on a tarmac as a uniformed crew member gestures toward it; two people carrying boxes walk nearby, industrial buildings visible in the background."
 geo:
 id: 22897
 item_type: Still Image

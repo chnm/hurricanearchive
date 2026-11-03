@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 039.jpg
     thumb: /files/thumbnails/14fb2a59d2cac514fb2a59d2cea3.jpg
     url: /files/original/14fb2a59d2cac514fb2a59d2cea3.jpg
+    alt:
+      en: "A large oak tree frames a sandy, debris-strewn lot with a bus stop sign in the foreground, while damaged structures and bare trees stand under a clear blue sky in the background."
 geo:
 id: 3759
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (11).JPG
     thumb: /files/thumbnails/14fb2a5d9d782014fb2a5d9daafe.jpg
     url: /files/original/14fb2a5d9d782014fb2a5d9daafe.jpg
+    alt:
+      en: "View through a car window of a two-story house with a white balcony railing, boarded-up windows and doors, and overgrown palm trees and shrubs in the front yard."
 geo:
 id: 3158
 item_type: Still Image

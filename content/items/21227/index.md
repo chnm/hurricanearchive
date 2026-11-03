@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0201.JPG
     thumb: /files/thumbnails/14fb29ffe9d15f14fb29ffe9d53b.jpg
     url: /files/original/14fb29ffe9d15f14fb29ffe9d53b.jpg
+    alt:
+      en: "Aerial view of a devastated neighborhood with rows of flattened houses reduced to concrete slabs and scattered debris, surrounded by trees and standing floodwater."
 geo:
 id: 21227
 item_type: Still Image

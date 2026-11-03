@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0254-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fed48b4114fb29fed48f2f.jpg
     url: /files/original/14fb29fed48b4114fb29fed48f2f.jpg
+    alt:
+      en: "Aerial view of a damaged residential neighborhood with rows of houses showing stripped or missing roof shingles, scattered debris, and bare, broken trees mixed with patches of green foliage."
 geo:
 id: 21426
 item_type: Still Image

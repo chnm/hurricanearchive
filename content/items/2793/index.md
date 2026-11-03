@@ -27,6 +27,8 @@ files:
     original_filename: Rescue
     thumb: /files/thumbnails/14fb2a602acff114fb2a602ad3ea.jpg
     url: /files/original/14fb2a602acff114fb2a602ad3ea.jpg
+    alt:
+      en: "Child's crayon drawing titled \"New Orleans City\" showing a blue rescue helicopter with sun, gray tornado, a house with floodwaters, and an alligator, turtle, dog, and bird near the water; signed \"By: Jaleel.\""
 geo:
 id: 2793
 item_type: Still Image

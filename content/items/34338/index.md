@@ -27,6 +27,8 @@ files:
     original_filename: 2380072463_20d21e73c3.
     thumb: /files/thumbnails/14fb29ca4c526b14fb29ca4c5450.jpg
     url: /files/original/14fb29ca4c526b14fb29ca4c5450.jpg
+    alt:
+      en: "Interior room with a wooden armoire against a red wall showing a distinct water stain line partway up, with a wooden file box of papers and a green plant in the foreground."
 geo:
   address: ''
   lat: 30.22894

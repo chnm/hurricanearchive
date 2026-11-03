@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05CDS_0e38207ddc.jpg
     thumb: /files/thumbnails/14fb2a667ad16314fb2a667ad548.jpg
     url: /files/original/14fb2a667ad16314fb2a667ad548.jpg
+    alt:
+      en: "Several people's hands clean an oil-covered alligator with soapy rags, its jaw taped shut, on a wooden surface outdoors."
 geo:
 id: 2424
 item_type: Still Image

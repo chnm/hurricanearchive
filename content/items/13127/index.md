@@ -21,6 +21,8 @@ files:
     original_filename: looking north3.jpg
     thumb: /files/thumbnails/14fb2a203e8e7d14fb2a203e9261.jpg
     url: /files/original/14fb2a203e8e7d14fb2a203e9261.jpg
+    alt:
+      en: "Foggy, rain-soaked view from a train platform overlooking railroad tracks, a chain-link fence, and a parking lot with a few parked cars, trees, and distant buildings obscured by heavy mist."
 geo:
 id: 13127
 item_type: Still Image

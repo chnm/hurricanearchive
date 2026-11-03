@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0747.JPG
     thumb: /files/thumbnails/14fb2a570aab8314fb2a570aaf60.jpg
     url: /files/original/14fb2a570aab8314fb2a570aaf60.jpg
+    alt:
+      en: "Waterfront property with storm-damaged structures, including a partially collapsed roofed platform and an exposed wooden frame, surrounded by palm trees along a canal under an overcast sky."
 geo:
 id: 4545
 item_type: Still Image

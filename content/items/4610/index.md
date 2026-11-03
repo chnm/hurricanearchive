@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0036.JPG
     thumb: /files/thumbnails/14fb2a56c2093114fb2a56c20d1f.jpg
     url: /files/original/14fb2a56c2093114fb2a56c20d1f.jpg
+    alt:
+      en: "Single-story brick house with a damaged roof and a large fallen tree resting against its side, surrounded by a chain-link fence, debris, and storm-damaged trees in the yard."
 geo:
 id: 4610
 item_type: Still Image

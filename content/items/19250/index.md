@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0135rita.JPG
     thumb: /files/thumbnails/14fb2a11a1c35514fb2a11a1c744.jpg
     url: /files/original/14fb2a11a1c35514fb2a11a1c744.jpg
+    alt:
+      en: "Large oak trees with sprawling branches shade a grassy park area, with scattered debris and fallen branches on the ground and a paved path in the foreground."
 geo:
 id: 19250
 item_type: Still Image

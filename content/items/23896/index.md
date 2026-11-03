@@ -21,6 +21,8 @@ files:
     original_filename: picture 2stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec8b3d1714fb29ec8b3e41.jpg
     url: /files/original/14fb29ec8b3d1714fb29ec8b3e41.jpg
+    alt:
+      en: "Mud-caked street with a dried, cracked silt coating leads to a fire hydrant, flanked by storm-damaged houses with boarded windows and a partially visible orange truck at left."
 geo:
 id: 23896
 item_type: Still Image

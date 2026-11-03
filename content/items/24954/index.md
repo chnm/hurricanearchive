@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1469superdome.JPG
     thumb: /files/thumbnails/14fb29e39c760614fb29e39c79eb.jpg
     url: /files/original/14fb29e39c760614fb29e39c79eb.jpg
+    alt:
+      en: "Close-up of a military truck's front end with headlight on and license plate \"225GP 5275,\" parked on a brick paved area with city skyscrapers visible in the hazy background."
 geo:
 id: 24954
 item_type: Still Image

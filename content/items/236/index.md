@@ -26,6 +26,8 @@ files:
     original_filename: 9_9528508cf8.jpg
     thumb: /files/thumbnails/14fb2a706e66d214fb2a706e6aaf.jpg
     url: /files/original/14fb2a706e66d214fb2a706e6aaf.jpg
+    alt:
+      en: "A single-story brick and stucco home with a severely damaged roof, where large fallen tree limbs rest on the collapsed and exposed rafters above the garage and entryway."
 geo:
   address: ''
   lat: 30.065367

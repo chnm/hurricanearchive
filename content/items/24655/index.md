@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0056medics.JPG
     thumb: /files/thumbnails/14fb29e5cc1fcd14fb29e5cc26ff.jpg
     url: /files/original/14fb29e5cc1fcd14fb29e5cc26ff.jpg
+    alt:
+      en: "Four people in military camouflage uniforms gather around a styrofoam cooler and supplies, working closely together indoors near tiled walls, with a name tag reading \"McGREGOR\" visible on one uniform."
 geo:
 id: 24655
 item_type: Still Image

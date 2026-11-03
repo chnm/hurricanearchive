@@ -21,6 +21,8 @@ files:
     original_filename: Picture 174cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b76a81914fb2a0b76d2c6.jpg
     url: /files/original/14fb2a0b76a81914fb2a0b76d2c6.jpg
+    alt:
+      en: "A police K-9 SUV marked \"CAUTION POLICE K-9\" is parked on pavement near a grassy lot where a bulldozer clears storm debris and demolished building materials under a partly cloudy sky."
 geo:
 id: 20077
 item_type: Still Image

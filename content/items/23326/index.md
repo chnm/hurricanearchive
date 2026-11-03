@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049cameronS&R.JPG
     thumb: /files/thumbnails/14fb29eff4a6f014fb29eff4aad6.jpg
     url: /files/original/14fb29eff4a6f014fb29eff4aad6.jpg
+    alt:
+      en: "Rows of mud-stained, color-coded file folders sit exposed in damaged filing cabinet drawers amid storm debris, with twisted metal, cables, and torn building materials surrounding the wreckage."
 geo:
 id: 23326
 item_type: Still Image

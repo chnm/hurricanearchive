@@ -27,6 +27,8 @@ files:
     original_filename: shoebaby_a2bafe6db7.jpg
     thumb: /files/thumbnails/14fb29cc33677f14fb29cc337116.jpg
     url: /files/original/14fb29cc33677f14fb29cc337116.jpg
+    alt:
+      en: "A black-and-white salvaged baby photo of Rene Broussard in a white outfit, held by a hand, resting on pavement beside a dark boot."
 geo:
   address: 1342 Mandolin St
   lat: 0.0

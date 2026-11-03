@@ -21,6 +21,8 @@ files:
     original_filename: 136.jpg
     thumb: /files/thumbnails/14fb2a60738e1714fb2a60738fd8.jpg
     url: /files/original/14fb2a60738e1714fb2a60738fd8.jpg
+    alt:
+      en: "A child's drawing labeled \"Christopher 7,\" showing a red house with a triangular roof colored blue and scribbled over with red marker swirls, plus a small flag or sign attached near the roofline."
 geo:
 id: 2714
 item_type: Still Image

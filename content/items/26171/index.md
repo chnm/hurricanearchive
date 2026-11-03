@@ -25,12 +25,16 @@ files:
     original_filename: PGWinners_58d4149756.jpg
     thumb: /files/thumbnails/14fb29d9d8853114fb29d9d88cb5.jpg
     url: /files/original/14fb29d9d8853114fb29d9d88cb5.jpg
+    alt:
+      en: "Two men in matching yellow and blue shirts raise trophies overhead while standing outdoors, with flags and a sunny sky in the background."
   - fullsize: /files/fullsize/14fb29d9d1cf4214fb29d9d1d23a.jpg
     id: 22778
     mime: image/jpeg
     original_filename: redfishcatch_965f7eb624.jpg
     thumb: /files/thumbnails/14fb29d9d1cf4214fb29d9d1d23a.jpg
     url: /files/original/14fb29d9d1cf4214fb29d9d1d23a.jpg
+    alt:
+      en: "Two men on a fishing boat, one holding up a large red fish caught during the Oberto Red Fish Cup Tournament, 2005, with another man holding a fishing rod nearby."
 geo:
 id: 26171
 item_type: Still Image

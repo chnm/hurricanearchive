@@ -20,6 +20,8 @@ files:
     original_filename: 9 - Wildair 1_58950f3196.JPG
     thumb: /files/thumbnails/14fb29c4a2fb1e14fb29c4a305a1.jpg
     url: /files/original/14fb29c4a2fb1e14fb29c4a305a1.jpg
+    alt:
+      en: "A row of houses on Wildair Drive under a clear sky, including a small yellow cottage, white single-story homes, and two houses elevated on concrete pilings, with a wide grassy lawn in front."
 geo:
   address: ''
   lat: 0.0

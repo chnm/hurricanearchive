@@ -20,6 +20,8 @@ files:
     original_filename: August 2009 011_3162299d38.JPG
     thumb: /files/thumbnails/14fb29c4da225614fb29c4da3349.jpg
     url: /files/original/14fb29c4da225614fb29c4da3349.jpg
+    alt:
+      en: "A metal sculpture resembling a hurricane symbol, mounted on a brick wall, featuring a rusted fleur-de-lis design at its center."
 geo:
   address: ''
   lat: 0.0

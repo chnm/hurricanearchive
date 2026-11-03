@@ -21,6 +21,8 @@ files:
     original_filename: J2 (10).JPG
     thumb: /files/thumbnails/14fb2a1152708914fb2a11527476.jpg
     url: /files/original/14fb2a1152708914fb2a11527476.jpg
+    alt:
+      en: "Mud-caked police vehicles, including a marked cruiser and a pickup truck labeled \"MP 12,\" sit in standing floodwater outside a brick building, with debris floating nearby."
 geo:
 id: 19290
 item_type: Still Image

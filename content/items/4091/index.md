@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0998.JPG
     thumb: /files/thumbnails/14fb2a57e56b4214fb2a57e57245.jpg
     url: /files/original/14fb2a57e56b4214fb2a57e57245.jpg
+    alt:
+      en: "A chain-link and barbed-wire fence encloses a field of storm debris, including a Yamaha personal watercraft, a boat, dried vegetation, and scattered trash, with a grassy berm and utility poles in the background."
 geo:
 id: 4091
 item_type: Still Image

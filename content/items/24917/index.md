@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1412superdome.JPG
     thumb: /files/thumbnails/14fb29e3e3fe0214fb29e3e401e1.jpg
     url: /files/original/14fb29e3e3fe0214fb29e3e401e1.jpg
+    alt:
+      en: "Nighttime scene outside the Superdome with a uniformed guard and group of people, some in yellow rain slickers, standing behind metal barricades near a red trash bin."
 geo:
 id: 24917
 item_type: Still Image

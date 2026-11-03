@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 006.jpg
     thumb: /files/thumbnails/14fb2a131c2cd914fb2a131c3499.jpg
     url: /files/original/14fb2a131c2cd914fb2a131c3499.jpg
+    alt:
+      en: "A tree-lined paved driveway splits around a rounded hedge with a lamppost in the center median, with parked cars and open lawns visible in the background."
 geo:
 id: 19096
 item_type: Still Image

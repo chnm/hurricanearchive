@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28566.jpg
     thumb: /files/thumbnails/14fb2a6895558b14fb2a689558d1.jpg
     url: /files/original/14fb2a6895558b14fb2a689558d1.jpg
+    alt:
+      en: "A damaged house with a sagging roof and broken windows sits amid thick mud, debris, and standing water, with a pickup truck and flattened structures visible in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0553.JPG
     thumb: /files/thumbnails/14fb29d08d52ae14fb29d08d5671.jpg
     url: /files/original/14fb29d08d52ae14fb29d08d5671.jpg
+    alt:
+      en: "A UH-60 Black Hawk helicopter marked \"UNITED STATES ARMY\" sits on a tarmac with rotors spinning, while two soldiers in camouflage stand nearby, one photographing it and another wearing a helmet."
 geo:
 id: 29029
 item_type: Still Image

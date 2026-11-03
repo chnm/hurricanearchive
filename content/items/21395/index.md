@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0244.JPG
     thumb: /files/thumbnails/14fb29ff09ee2b14fb29ff09f209.jpg
     url: /files/original/14fb29ff09ee2b14fb29ff09f209.jpg
+    alt:
+      en: "Aerial view of a neighborhood with severely damaged houses, scattered debris, overturned vehicles, and downed trees lining a street covered in standing floodwater."
 geo:
 id: 21395
 item_type: Still Image

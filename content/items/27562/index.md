@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6447_8f86920cba.jpg
     thumb: /files/thumbnails/14fb29d367a89f14fb29d367ac9f.jpg
     url: /files/original/14fb29d367a89f14fb29d367ac9f.jpg
+    alt:
+      en: "Six people pose outside St. Maria Goretti Church, including a girl in a white First Communion dress and veil and a boy in a blazer, with a carved stone sign reading \"ST MARIA GORETTI CHURCH\" behind them."
 geo:
   address: ''
   lat: 29.87876

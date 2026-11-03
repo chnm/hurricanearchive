@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0091OEP.JPG
     thumb: /files/thumbnails/14fb29f19c325114fb29f19c3636.jpg
     url: /files/original/14fb29f19c325114fb29f19c3636.jpg
+    alt:
+      en: "A news crew works under a green canopy tent in a parking lot, with a cameraman filming a man in a yellow shirt while a woman checks her phone; CNN-labeled equipment cases sit nearby."
 geo:
 id: 23081
 item_type: Still Image

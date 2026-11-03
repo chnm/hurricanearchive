@@ -21,6 +21,8 @@ files:
     original_filename: S4300099alero.JPG
     thumb: /files/thumbnails/14fb2a155411e814fb2a155415d6.jpg
     url: /files/original/14fb2a155411e814fb2a155415d6.jpg
+    alt:
+      en: "Red Cross volunteers in vests distribute meals from red and white insulated food containers at an outdoor relief station, with military vehicles and palm trees visible in the background."
 geo:
 id: 18733
 item_type: Still Image

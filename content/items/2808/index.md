@@ -21,6 +21,8 @@ files:
     original_filename: quiltTXrowA0006.jpg
     thumb: /files/thumbnails/14fb2a5ffd5f0514fb2a5ffd62ea.jpg
     url: /files/original/14fb2a5ffd5f0514fb2a5ffd62ea.jpg
+    alt:
+      en: "Child's drawing of a flooded house with two barred windows, a submerged shopping cart in blue water, and five small crown-like sketches with \"R\" lettering along the top edge."
 geo:
 id: 2808
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efe5a98914fb29efe5ad6f.jpg
     url: /files/original/14fb29efe5a98914fb29efe5ad6f.jpg
+    alt:
+      en: "Floodwater surrounds a one-story house and submerges a red pickup truck nearly to its windows, with a tree and utility pole rising from the water in the background."
 geo:
 id: 23336
 item_type: Still Image

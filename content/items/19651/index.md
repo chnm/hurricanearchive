@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 038cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e8ebb9714fb2a0e8ebf7c.jpg
     url: /files/original/14fb2a0e8ebb9714fb2a0e8ebf7c.jpg
+    alt:
+      en: "Close-up of a U.S. Army camouflage uniform sleeve bearing a shoulder patch with an embroidered wolf-head design, with \"ARMY\" tape visible on the chest pocket below."
 geo:
 id: 19651
 item_type: Still Image

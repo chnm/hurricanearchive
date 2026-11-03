@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013OEP.JPG
     thumb: /files/thumbnails/14fb29f226a37014fb29f226d2b9.jpg
     url: /files/original/14fb29f226a37014fb29f226d2b9.jpg
+    alt:
+      en: "Aerial view of a parking lot with a media crew under a green canopy filming an interview, surrounded by parked vehicles including two police cars, with cones and grassy medians nearby."
 geo:
 id: 23003
 item_type: Still Image

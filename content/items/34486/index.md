@@ -27,6 +27,8 @@ files:
     original_filename: 2310200457_f3f1ffe286.
     thumb: /files/thumbnails/14fb29c9b8803f14fb29c9b8842c.jpg
     url: /files/original/14fb29c9b8803f14fb29c9b8842c.jpg
+    alt:
+      en: "A foggy nighttime riverside scene with a lit bridge spanning the water, city lights and a tall building in the distance, and a paved walkway with mooring bollards and a railing in the foreground."
 geo:
   address: ''
   lat: 30.22586

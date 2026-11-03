@@ -20,6 +20,8 @@ files:
     original_filename: 2420898873_bd6652e74c.
     thumb: /files/thumbnails/14fb29c953e34514fb29c953e6e5.jpg
     url: /files/original/14fb29c953e34514fb29c953e6e5.jpg
+    alt:
+      en: "Dark interior of a church sanctuary with rows of wooden pews, a central aisle, and faded banners depicting religious figures hanging on either side of the altar area."
 geo:
   address: ''
   lat: 29.97632

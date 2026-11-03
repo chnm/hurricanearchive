@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_JohanLowe_02_02986f9570.jpg
     thumb: /files/thumbnails/14fb2a1634e0d014fb2a1634e4a6.jpg
     url: /files/original/14fb2a1634e0d014fb2a1634e4a6.jpg
+    alt:
+      en: "A studio portrait of a smiling baby sitting cross-legged on a carpet, wearing a white polo shirt and denim shorts, against a white backdrop splattered with colorful paint."
 geo:
 id: 15469
 item_type: Still Image

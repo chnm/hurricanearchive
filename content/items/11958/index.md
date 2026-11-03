@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 005.jpg
     thumb: /files/thumbnails/14fb2a228c1d3414fb2a228c211a.jpg
     url: /files/original/14fb2a228c1d3414fb2a228c211a.jpg
+    alt:
+      en: "A storm-damaged single-story building missing part of its roof, with piles of wood debris and a crushed vehicle in front, surrounded by bare, broken trees."
 geo:
 id: 11958
 item_type: Still Image

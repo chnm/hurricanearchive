@@ -21,6 +21,8 @@ files:
     original_filename: CecileRobin-5905_2238bf1e44.jpg
     thumb: /files/thumbnails/14fb2a1589ac4c14fb2a1589b13b.jpg
     url: /files/original/14fb2a1589ac4c14fb2a1589b13b.jpg
+    alt:
+      en: "Outdoor craft fair with tables displaying carved wooden duck decoys and a detailed dollhouse, a handwritten \"Borderlon Crafters\" sign above, visitors browsing nearby under bare trees."
 geo:
 id: 16974
 item_type: Still Image

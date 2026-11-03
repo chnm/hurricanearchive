@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea60f8c114fb29ea60fc95.jpg
     url: /files/original/14fb29ea60f8c114fb29ea60fc95.jpg
+    alt:
+      en: "Aerial view of a flooded town with a metal-roofed building submerged to its walls, surrounded by muddy floodwater, debris, bare trees, and damaged structures in the background."
 geo:
 id: 24126
 item_type: Still Image

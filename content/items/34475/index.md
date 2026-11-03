@@ -27,6 +27,8 @@ files:
     original_filename: 2326880496_3c297624d7.
     thumb: /files/thumbnails/14fb29c9d5c36114fb29c9d5c745.jpg
     url: /files/original/14fb29c9d5c36114fb29c9d5c745.jpg
+    alt:
+      en: "A dirt road strewn with debris and fallen trees where houses once stood, with a four-wheeler and a partially visible white vehicle reading \"Protect - Promote Quality Of Life\" in the foreground."
 geo:
   address: ''
   lat: 30.20935

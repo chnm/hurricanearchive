@@ -21,6 +21,8 @@ files:
     original_filename: 100_0254.JPG
     thumb: /files/thumbnails/14fb2a5f08549514fb2a5f087707.jpg
     url: /files/original/14fb2a5f08549514fb2a5f087707.jpg
+    alt:
+      en: "Large metal warehouse building with storm-damaged siding and roof panels torn loose, sitting beside a dirt lot with debris, a covered walkway, and a distant city skyline under clear blue sky."
 geo:
 id: 3005
 item_type: Still Image

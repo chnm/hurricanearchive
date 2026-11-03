@@ -23,6 +23,8 @@ files:
     original_filename: 2326959658_1cef3a2ddd.
     thumb: /files/thumbnails/14fb29ca0e153814fb29ca0e190c.jpg
     url: /files/original/14fb29ca0e153814fb29ca0e190c.jpg
+    alt:
+      en: "Bare, storm-damaged trees and a concrete slab mark a cleared residential lot, with debris piles and partially intact houses visible in the background under a pale sky."
 geo:
   address: ''
   lat: 30.23864

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042-15.JPG
     thumb: /files/thumbnails/14fb2a05b44a5d14fb2a05b4516e.jpg
     url: /files/original/14fb2a05b44a5d14fb2a05b4516e.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with debris-strewn rooftops, downed trees, scattered power lines, and a boat resting on a rooftop among the wreckage."
 geo:
 id: 20605
 item_type: Still Image

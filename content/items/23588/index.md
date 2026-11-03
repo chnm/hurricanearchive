@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1588hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee98511614fb29ee9854fb.jpg
     url: /files/original/14fb29ee98511614fb29ee9854fb.jpg
+    alt:
+      en: "High-rise building with a \"HYATT\" sign at top, facade heavily damaged with shattered windows and curtains or fabric blown out and tattered across multiple floors."
 geo:
 id: 23588
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0070M.JPG
     thumb: /files/thumbnails/14fb2a041d88d714fb2a041d8ca6.jpg
     url: /files/original/14fb2a041d88d714fb2a041d8ca6.jpg
+    alt:
+      en: "A woman in U.S. Army camouflage fatigues, with a nametape reading \"McGregor\" and an American flag patch, applies a bandage to her arm near medical supply boxes."
 geo:
 id: 20750
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002-15.JPG
     thumb: /files/thumbnails/14fb2a08c7a43b14fb2a08c7a821.jpg
     url: /files/original/14fb2a08c7a43b14fb2a08c7a821.jpg
+    alt:
+      en: "A military helicopter marked with red cross symbols sits on a paved landing area, rotors blurred in motion, with Quonset-style buildings and trees in the background under a partly cloudy sky."
 geo:
 id: 20332
 item_type: Still Image

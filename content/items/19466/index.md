@@ -21,6 +21,8 @@ files:
     original_filename: Picture 026engineers.jpg
     thumb: /files/thumbnails/14fb2a0fdcf32f14fb2a0fdcfad2.jpg
     url: /files/original/14fb2a0fdcf32f14fb2a0fdcfad2.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms, one wearing an orange safety vest, stand near a white sedan and truck on a roadway, with stacked bottled water and supply boxes piled along the roadside."
 geo:
 id: 19466
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0062tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d09c16d14fb2a0d09c551.jpg
     url: /files/original/14fb2a0d09c16d14fb2a0d09c551.jpg
+    alt:
+      en: "A woman wearing a white hard hat smiles while viewed through the wooden framing of a structure under construction, with a tent or tarp visible in the background."
 geo:
 id: 19873
 item_type: Still Image

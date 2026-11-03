@@ -21,6 +21,8 @@ files:
     original_filename: Picture 060cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0be9565e14fb2a0be96048.jpg
     url: /files/original/14fb2a0be9565e14fb2a0be96048.jpg
+    alt:
+      en: "A white car parked in front of a house with a columned porch entrance boarded up with plywood bearing spray-painted text, the building's walls covered in dense ivy."
 geo:
 id: 19963
 item_type: Still Image

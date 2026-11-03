@@ -21,6 +21,8 @@ files:
     original_filename: flying debris1.jpg
     thumb: /files/thumbnails/14fb2a2058d82414fb2a2058dc0a.jpg
     url: /files/original/14fb2a2058d82414fb2a2058dc0a.jpg
+    alt:
+      en: "Heavy wind and rain obscure a rooftop view of buildings and a street, with debris visibly flying through the air amid the storm's intensity."
 geo:
 id: 13111
 item_type: Still Image

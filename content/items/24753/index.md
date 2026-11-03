@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2075superdome.JPG
     thumb: /files/thumbnails/14fb29e527c43014fb29e527c816.jpg
     url: /files/original/14fb29e527c43014fb29e527c816.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with an 82nd Airborne patch and American flag emblem sits on a folding chair indoors, with pallets of bottled water and other seated soldiers visible in the background."
 geo:
 id: 24753
 item_type: Still Image

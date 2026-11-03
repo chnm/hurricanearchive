@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Press conference (5).JPG
     thumb: /files/thumbnails/14fb2a5c5788db14fb2a5c578cc1.jpg
     url: /files/original/14fb2a5c5788db14fb2a5c578cc1.jpg
+    alt:
+      en: "Press conference with a man in a striped shirt speaking at a podium crowded with microphones, flanked by military and Coast Guard officials, in front of a \"Hyatt Regency New Orleans\" sign."
 geo:
 id: 3338
 item_type: Still Image

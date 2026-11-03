@@ -21,6 +21,8 @@ files:
     original_filename: P1010080empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee24d50e14fb29ee24d8f6.jpg
     url: /files/original/14fb29ee24d50e14fb29ee24d8f6.jpg
+    alt:
+      en: "Flooded roadside field with standing water, scattered debris, and bare-branched trees, bordered by a sidewalk and street in the foreground under a hazy sky."
 geo:
 id: 23639
 item_type: Still Image

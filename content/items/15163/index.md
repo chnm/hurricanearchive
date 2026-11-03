@@ -21,6 +21,8 @@ files:
     original_filename: IPerez-6045_4aec54c7fc.jpg
     thumb: /files/thumbnails/14fb2a16cb85f614fb2a16cb9480.jpg
     url: /files/original/14fb2a16cb85f614fb2a16cb9480.jpg
+    alt:
+      en: "A man in a gray shirt stands holding a carved duck decoy in an indoor meeting room, with another man seated nearby and tables displaying carved birds and supplies."
 geo:
 id: 15163
 item_type: Still Image

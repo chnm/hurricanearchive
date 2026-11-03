@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 040.jpg
     thumb: /files/thumbnails/14fb2a2269a63314fb2a2269aa18.jpg
     url: /files/original/14fb2a2269a63314fb2a2269aa18.jpg
+    alt:
+      en: "Severely storm-damaged elevated building with exposed roof framing and collapsed support beams, surrounded by debris, with a \"No Parking Any Time\" sign and palm trees in the foreground."
 geo:
 id: 11992
 item_type: Still Image

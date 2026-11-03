@@ -21,6 +21,8 @@ files:
     original_filename: before bank.jpg
     thumb: /files/thumbnails/14fb2a211bcb3c14fb2a211bcf1e.jpg
     url: /files/original/14fb2a211bcb3c14fb2a211bcf1e.jpg
+    alt:
+      en: "Upward view of a tall concrete office building with rows of reflective windows in a grid pattern, set against a partly cloudy sky."
 geo:
 id: 13024
 item_type: Still Image

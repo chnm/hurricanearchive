@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28323.jpg
     thumb: /files/thumbnails/14fb2a675982c614fb2a675986cd.jpg
     url: /files/original/14fb2a675982c614fb2a675986cd.jpg
+    alt:
+      en: "Storm-damaged building left standing on stilts amid scattered debris, with bare trees and a partially collapsed structure in the background under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

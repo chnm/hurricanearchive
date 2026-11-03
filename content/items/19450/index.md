@@ -21,6 +21,8 @@ files:
     original_filename: Picture 010engineers.jpg
     thumb: /files/thumbnails/14fb2a0fee884a14fb2a0fee8c31.jpg
     url: /files/original/14fb2a0fee884a14fb2a0fee8c31.jpg
+    alt:
+      en: "Workers cut branches from a large fallen tree at dusk, with two men perched on the trunk using chainsaws while others stand below holding rope; a stop sign and houses are visible in the background."
 geo:
 id: 19450
 item_type: Still Image

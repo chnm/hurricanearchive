@@ -26,6 +26,8 @@ files:
     original_filename: 2066_a23a3697a0.jpg
     thumb: /files/thumbnails/14fb2a70fd84f714fb2a70fd88d1.jpg
     url: /files/original/14fb2a70fd84f714fb2a70fd88d1.jpg
+    alt:
+      en: "Two news screenshots of people wading through chest-deep floodwater in New Orleans after Hurricane Katrina, with captions describing one as \"looting\" (AP) and the other as \"finding\" (AFP) bread and soda."
 geo:
   address: ''
   lat: 29.9457128262899

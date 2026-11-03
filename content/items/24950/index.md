@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1463superdome.JPG
     thumb: /files/thumbnails/14fb29e3a3171614fb29e3a31b5a.jpg
     url: /files/original/14fb29e3a3171614fb29e3a31b5a.jpg
+    alt:
+      en: "Floodwaters submerge a city street lined with partially submerged parked cars, with tall high-rise buildings, including one labeled \"BELLSOUTH,\" visible in the background under a hazy sky."
 geo:
 id: 24950
 item_type: Still Image

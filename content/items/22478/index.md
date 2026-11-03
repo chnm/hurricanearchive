@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1319Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f630f16214fb29f630f834.jpg
     url: /files/original/14fb29f630f16214fb29f630f834.jpg
+    alt:
+      en: "Floodwater surrounds a brick building with trees partially submerged, photographed through a rain-streaked window with a utility line crossing the scene under an overcast sky."
 geo:
 id: 22478
 item_type: Still Image

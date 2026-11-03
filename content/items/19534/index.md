@@ -21,6 +21,8 @@ files:
     original_filename: Picture 094engineers.jpg
     thumb: /files/thumbnails/14fb2a0f6b7e8f14fb2a0f6b8276.jpg
     url: /files/original/14fb2a0f6b7e8f14fb2a0f6b8276.jpg
+    alt:
+      en: "Black-and-white aerial reconnaissance photo of flooded streets near UNO and Lakefront Arena in Orleans Parish, showing submerged roads (Waldor Dr, Leon C. Simon Dr), buildings, and surrounding neighborhoods, dated 04 Sep 05."
 geo:
 id: 19534
 item_type: Still Image

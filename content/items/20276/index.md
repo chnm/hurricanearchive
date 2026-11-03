@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0081-18.JPG
     thumb: /files/thumbnails/14fb2a0a2584cb14fb2a0a2588ae.jpg
     url: /files/original/14fb2a0a2584cb14fb2a0a2588ae.jpg
+    alt:
+      en: "A CAT backhoe loader pushes thick black mud/debris on a flooded street, with downed tree branches and brick houses in the background."
 geo:
 id: 20276
 item_type: Still Image

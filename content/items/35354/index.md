@@ -21,6 +21,8 @@ files:
     original_filename: 5_bac4b4961d.jpg
     thumb: /files/thumbnails/14fb29c61bf2d114fb29c61bf6a7.jpg
     url: /files/original/14fb29c61bf2d114fb29c61bf6a7.jpg
+    alt:
+      en: "Bumper sticker with a red heart and blue text reading \"I ♥ THE GOOD TIMES AT SATURN BAR, 3067 ST. CLAUDE AVE., NEW ORLEANS\" on a white background."
 geo:
   address: 3067 Saint Claude Ave, New Orleans, LA
   lat: 29.96784

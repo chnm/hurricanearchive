@@ -30,6 +30,8 @@ files:
     original_filename: adc07_a5acf8ee03.jpg
     thumb: /files/thumbnails/14fb29cbe7a19814fb29cbe7a586.jpg
     url: /files/original/14fb29cbe7a19814fb29cbe7a586.jpg
+    alt:
+      en: "Illustrated comic panel showing a flooded street with a partially submerged car in front of \"Calho[un] Spirits & Deli,\" as a man in an apron exclaims \"Uh-oh\" to another figure near the doorway."
 geo:
 id: 32671
 item_type: Hyperlink

@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1038.JPG
     thumb: /files/thumbnails/14fb2a57b1e58814fb2a57b1ebd2.jpg
     url: /files/original/14fb2a57b1e58814fb2a57b1ebd2.jpg
+    alt:
+      en: "Highway scene beneath an overpass with school buses, a Budget rental truck, scattered debris, and crowds of people gathered near a green highway sign reading \"I-10 West, N.O. Int'l Airport, Baton Rouge.\""
 geo:
 id: 4106
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1557superdome.JPG
     thumb: /files/thumbnails/14fb29e2d166e614fb29e2d16c48.jpg
     url: /files/original/14fb29e2d166e614fb29e2d16c48.jpg
+    alt:
+      en: "A military Black Hawk helicopter with rotors spinning sits on a rooftop helipad, with an elevated highway, palm trees, and a church steeple visible in the background."
 geo:
 id: 25034
 item_type: Still Image

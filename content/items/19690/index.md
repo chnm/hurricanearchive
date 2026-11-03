@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 077cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e59d4ba14fb2a0e59d89e.jpg
     url: /files/original/14fb2a0e59d4ba14fb2a0e59d89e.jpg
+    alt:
+      en: "Street view taken from inside a vehicle, showing a damaged wooden fence, scattered debris, and overgrown vegetation along a sidewalk; a \"Neighborhood Watch\" warning sign stands on a utility pole at left."
 geo:
 id: 19690
 item_type: Still Image

@@ -25,12 +25,16 @@ files:
     original_filename: CHenderson-1_f7292e41ec.jpg
     thumb: /files/thumbnails/14fb2a16a65c3c14fb2a16a66023.jpg
     url: /files/original/14fb2a16a65c3c14fb2a16a66023.jpg
+    alt:
+      en: "Hand-tinted portrait of a smiling young girl with short curly hair and blue eyes, heavily water-damaged with extensive discoloration and emulsion loss obscuring much of the image."
   - fullsize: /files/fullsize/14fb2a16a55a8514fb2a16a55e69.jpg
     id: 12371
     mime: image/jpeg
     original_filename: CHenderson-2_10a7244b7f.jpg
     thumb: /files/thumbnails/14fb2a16a55a8514fb2a16a55e69.jpg
     url: /files/original/14fb2a16a55a8514fb2a16a55e69.jpg
+    alt:
+      en: "Heavily water-damaged photograph of a young child with curly hair seated, wearing a light-colored top, the image faded and distorted with blotchy discoloration throughout."
 geo:
 id: 15302
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eafbd03c14fb29eafbf2b5.jpg
     url: /files/original/14fb29eafbd03c14fb29eafbf2b5.jpg
+    alt:
+      en: "A U.S. Army soldier with the name \"Miletello\" on his uniform is interviewed by a KATC 3 news reporter holding a branded microphone, while a cameraman films the scene from a military vehicle."
 geo:
 id: 24079
 item_type: Still Image

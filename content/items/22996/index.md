@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006OEP.JPG
     thumb: /files/thumbnails/14fb29f231bccc14fb29f231c0b2.jpg
     url: /files/original/14fb29f231bccc14fb29f231c0b2.jpg
+    alt:
+      en: "A large tree casts shade over a grassy field, with a person resting against its trunk; a chain-link fence and another tree stand in the background."
 geo:
 id: 22996
 item_type: Still Image

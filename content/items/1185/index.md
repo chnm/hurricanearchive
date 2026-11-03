@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27873.jpg
     thumb: /files/thumbnails/14fb2a6a97854a14fb2a6a978930.jpg
     url: /files/original/14fb2a6a97854a14fb2a6a978930.jpg
+    alt:
+      en: "Man in a cap and a woman review paperwork on a clipboard outside a flooded house, with boats floating in standing floodwater behind them."
 geo:
   address: ''
   lat: 0.0

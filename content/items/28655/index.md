@@ -23,6 +23,8 @@ files:
     original_filename: 158194165_57b7a25f66.jpg
     thumb: /files/thumbnails/14fb29d1e8947c14fb29d1e89861.jpg
     url: /files/original/14fb29d1e8947c14fb29d1e89861.jpg
+    alt:
+      en: "Small action figures arranged standing and lying on a concrete ledge in front of a large fallen log, with piles of storm debris and damaged trees in the background."
 geo:
 id: 28655
 item_type: Still Image

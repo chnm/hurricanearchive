@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28146.jpg
     thumb: /files/thumbnails/14fb2a6a71e2f414fb2a6a71ec7c.jpg
     url: /files/original/14fb2a6a71e2f414fb2a6a71ec7c.jpg
+    alt:
+      en: "A worker in an orange safety vest and striped pants stands on a debris-strewn dirt road, surrounded by storm-damaged trees and scattered wreckage from Hurricane Katrina."
 geo:
   address: ''
   lat: 0.0

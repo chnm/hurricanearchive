@@ -24,6 +24,8 @@ files:
     original_filename: 20060301_MG_0494.jpg
     thumb: /files/thumbnails/14fb2a63f47ad714fb2a63f484c6.jpg
     url: /files/original/14fb2a63f47ad714fb2a63f484c6.jpg
+    alt:
+      en: "A man in a costume with Mardi Gras beads, sunglasses, and a cap stands beside a shopping cart loaded with boxed appliances and a sign reading \"THE VERY, VERY FIRST RESPONDERS.\""
 geo:
 id: 2625
 item_type: Still Image

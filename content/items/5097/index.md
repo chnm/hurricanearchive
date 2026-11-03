@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0442.JPG
     thumb: /files/thumbnails/14fb2a53eafded14fb2a53eb0532.jpg
     url: /files/original/14fb2a53eafded14fb2a53eb0532.jpg
+    alt:
+      en: "Debris field of broken wooden framing and boards, likely from a destroyed structure, scattered across a muddy, flooded surface with a concrete slab visible in the background."
 geo:
 id: 5097
 item_type: Still Image

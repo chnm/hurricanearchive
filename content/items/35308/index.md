@@ -18,6 +18,8 @@ files:
     original_filename: 45_e1cdefa069.jpg
     thumb: /files/thumbnails/14fb29c6bb704014fb29c6bb73c4.jpg
     url: /files/original/14fb29c6bb704014fb29c6bb73c4.jpg
+    alt:
+      en: "Two people in elaborate costume makeup and attire pose together: a woman wears a sequined floral bra top and ornate headpiece, while the man beside her has dramatic star-patterned eye makeup and a black feathered collar."
 geo:
   address: new orleans, la
   lat: 29.95324

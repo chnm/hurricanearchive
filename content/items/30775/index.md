@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7656.JPG
     thumb: /files/thumbnails/14fb29cc88191114fb29cc8820de.jpg
     url: /files/original/14fb29cc88191114fb29cc8820de.jpg
+    alt:
+      en: "A silver minivan drives down a gravel road lined with storm-damaged, uprooted trees and debris, with a partially visible \"Woods Hole Inn\" sign standing among the wreckage."
 geo:
 id: 30775
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0154abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef2308ea14fb29ef230cce.jpg
     url: /files/original/14fb29ef2308ea14fb29ef230cce.jpg
+    alt:
+      en: "Collapsed building with a buckled metal roof surrounded by debris, tangled dried vegetation, and scattered wood, with an intact warehouse and other structures visible in the background."
 geo:
 id: 23518
 item_type: Still Image

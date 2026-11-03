@@ -20,6 +20,8 @@ files:
     original_filename: 2457566238_4655d73f07.
     thumb: /files/thumbnails/14fb29c8d0ddb814fb29c8d0e19e.jpg
     url: /files/original/14fb29c8d0ddb814fb29c8d0e19e.jpg
+    alt:
+      en: "Barges loaded with dark cargo sit on a waterway beneath a large steel truss bridge, with cranes operating on the barges and water traffic visible in the background."
 geo:
 id: 34876
 item_type: Still Image

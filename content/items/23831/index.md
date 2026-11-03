@@ -21,6 +21,8 @@ files:
     original_filename: S4300170stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece9b71914fb29ece9baff.jpg
     url: /files/original/14fb29ece9b71914fb29ece9baff.jpg
+    alt:
+      en: "A brick house with mud-streaked walls and shutters, its window broken, sits beside two vehicles pushed into a steep, tilted pile against the structure, debris and dried mud covering the yard."
 geo:
 id: 23831
 item_type: Still Image

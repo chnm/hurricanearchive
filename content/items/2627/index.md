@@ -24,6 +24,8 @@ files:
     original_filename: 20060301_MG_0496.jpg
     thumb: /files/thumbnails/14fb2a63eca7af14fb2a63ecabb8.jpg
     url: /files/original/14fb2a63eca7af14fb2a63ecabb8.jpg
+    alt:
+      en: "Two people in elaborate costumes covered with mail envelopes and shipping labels, wearing postal-themed top hats reading \"got mail?\", standing on steps outside a building."
 geo:
 id: 2627
 item_type: Still Image

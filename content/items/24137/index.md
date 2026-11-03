@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea51e3c814fb29ea51ebef.jpg
     url: /files/original/14fb29ea51e3c814fb29ea51ebef.jpg
+    alt:
+      en: "A military-style front-loader tractor (marked \"225GP 527E C 27\") clears mud and debris from a flooded street, with storm-damaged homes and a wrecked boat visible in the background."
 geo:
 id: 24137
 item_type: Still Image

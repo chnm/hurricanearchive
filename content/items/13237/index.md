@@ -21,6 +21,8 @@ files:
     original_filename: bigger waves.jpg
     thumb: /files/thumbnails/14fb2a1f01a5c514fb2a1f01ac24.jpg
     url: /files/original/14fb2a1f01a5c514fb2a1f01ac24.jpg
+    alt:
+      en: "Choppy, wind-driven waves fill a wide body of water under a hazy gray sky, with a distant tree line, utility poles, and low buildings visible along the shore."
 geo:
 id: 13237
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: KATRINA AT SHOP 010_01e0039d44.jpg
     thumb: /files/thumbnails/14fb29c1d5812614fb29c1d587d8.jpg
     url: /files/original/14fb29c1d5812614fb29c1d587d8.jpg
+    alt:
+      en: "A man on a ladder works to remove a large, buckled metal garage door from an automotive shop's entrance, with vehicles visible inside the dark interior."
 geo:
   address: 91 Oaklawn Drive
   lat: 29.98389

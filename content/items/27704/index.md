@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6620_ac0ebe38b4.JPG
     thumb: /files/thumbnails/14fb29d2c97f4514fb29d2c9838d.jpg
     url: /files/original/14fb29d2c97f4514fb29d2c9838d.jpg
+    alt:
+      en: "A man and woman stand together at night in front of a house with arched windows, the woman in a cream blouse and maroon skirt, the man in a maroon blazer over a white shirt."
 geo:
   address: ''
   lat: 29.91685

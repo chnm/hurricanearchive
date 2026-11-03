@@ -21,6 +21,8 @@ files:
     original_filename: 20050927-A-9748H-020mobilePAO.jpg
     thumb: /files/thumbnails/14fb29f156eb7914fb29f156ef5e.jpg
     url: /files/original/14fb29f156eb7914fb29f156ef5e.jpg
+    alt:
+      en: "Soldier in camouflage uniform stands guard with a rifle on a debris-strewn street, with damaged buildings, downed utility poles, and tangled wires visible in the background."
 geo:
 id: 23141
 item_type: Still Image

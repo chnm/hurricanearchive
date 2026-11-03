@@ -20,6 +20,8 @@ files:
     original_filename: 2_25df925fc4.jpg
     thumb: /files/thumbnails/14fb2a1655408514fb2a165544ad.jpg
     url: /files/original/14fb2a1655408514fb2a165544ad.jpg
+    alt:
+      en: "Bride and groom, identified as Justin and Andre', stand together at the altar holding hands, with a bridesmaid and candles visible in the background of the wedding ceremony."
 geo:
   address: Friscoville Ave.
   lat: 0.0

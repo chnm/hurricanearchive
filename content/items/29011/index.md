@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0511.JPG
     thumb: /files/thumbnails/14fb29d0c8743814fb29d0c8781c.jpg
     url: /files/original/14fb29d0c8743814fb29d0c8781c.jpg
+    alt:
+      en: "A military helicopter with its rotor blades spinning sits on a paved airfield, with a tree line and overcast sky in the background."
 geo:
 id: 29011
 item_type: Still Image

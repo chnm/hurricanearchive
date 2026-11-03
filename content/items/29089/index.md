@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0635.JPG
     thumb: /files/thumbnails/14fb29cffed92214fb29cffedf2c.jpg
     url: /files/original/14fb29cffed92214fb29cffedf2c.jpg
+    alt:
+      en: "Row of white shotgun-style bungalow houses with columned porches and boarded windows, a utility pole with yellow tape in the foreground, and debris scattered along the empty street."
 geo:
 id: 29089
 item_type: Still Image

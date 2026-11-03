@@ -21,6 +21,8 @@ files:
     original_filename: Picture4.png
     thumb: /files/thumbnails/14fb29fc28e49414fb29fc28e884.jpg
     url: /files/original/14fb29fc28e49414fb29fc28e884.jpg
+    alt:
+      en: "A yellow backhoe works on a residential street under repair, with torn-up pavement and gravel visible alongside brick houses and bare trees under a blue sky."
 geo:
 id: 21727
 item_type: Still Image

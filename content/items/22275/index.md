@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1086Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f83581f114fb29f83585d8.jpg
     url: /files/original/14fb29f83581f114fb29f83585d8.jpg
+    alt:
+      en: "Dark, blurry photo showing boats with outboard motors floating on floodwater, with orange life vests and a yellow tarp visible on board."
 geo:
 id: 22275
 item_type: Still Image

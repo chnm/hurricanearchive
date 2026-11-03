@@ -21,6 +21,8 @@ files:
     original_filename: 9_d97a28749e.jpg
     thumb: /files/thumbnails/14fb29c5f2ae0314fb29c5f2b1ea.jpg
     url: /files/original/14fb29c5f2ae0314fb29c5f2b1ea.jpg
+    alt:
+      en: "Framed youth baseball team photo in maroon uniforms with \"K\" caps, arranged in three rows with three adult coaches standing behind; a metal plaque below reads \"Jack Dempsey's 1984.\""
 geo:
   address: 738 poland ave, new orleans, la
   lat: 29.96118

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0276-9-25.JPG
     thumb: /files/thumbnails/14fb29fe2b274b14fb29fe2b2b12.jpg
     url: /files/original/14fb29fe2b274b14fb29fe2b2b12.jpg
+    alt:
+      en: "Aerial view of a flooded residential street with houses surrounded by brown floodwater, a truck partially submerged, and dry pavement visible on the opposite side of the road."
 geo:
 id: 21495
 item_type: Still Image

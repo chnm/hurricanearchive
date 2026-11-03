@@ -26,6 +26,8 @@ files:
     original_filename: 030318090724_5bbaac7b45.JPG
     thumb: /files/thumbnails/14fb2a6da049cd14fb2a6da05389.jpg
     url: /files/original/14fb2a6da049cd14fb2a6da05389.jpg
+    alt:
+      en: "A downed utility pole with tangled wires lies across a residential street corner near a fire hydrant, with a large white house topped by blue tarp roofing in the background."
 geo:
   address: ''
   lat: 30.135425

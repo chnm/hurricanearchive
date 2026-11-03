@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0139-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a022d9aff14fb2a022d9ee4.jpg
     url: /files/original/14fb2a022d9aff14fb2a022d9ee4.jpg
+    alt:
+      en: "A floodwater-surrounded house with a leaning utility pole and overturned boats nearby, bare trees and a gravel roadside in the foreground under a partly cloudy sky."
 geo:
 id: 20882
 item_type: Still Image

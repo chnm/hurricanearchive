@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1031.JPG
     thumb: /files/thumbnails/14fb2a57b8020c14fb2a57b80dce.jpg
     url: /files/original/14fb2a57b8020c14fb2a57b80dce.jpg
+    alt:
+      en: "Large crowd gathered on a litter-strewn grassy median near a highway overpass as a military helicopter hovers overhead, with school buses, a Budget rental truck, and portable toilets parked along the roadside."
 geo:
 id: 4103
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 7265930-R1-026-11A_99afcc3554.jpg
     thumb: /files/thumbnails/14fb29ccf2df2814fb29ccf2e303.jpg
     url: /files/original/14fb29ccf2df2814fb29ccf2e303.jpg
+    alt:
+      en: "A red pickup truck with storm damage sits in a driveway, partially covered by fallen tree branches, with a house and a person in a red shirt visible in the background."
 geo:
   address: 409 Norton Ave, Arabi LA
   lat: 0.0

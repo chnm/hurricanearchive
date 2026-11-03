@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2027superdome.JPG
     thumb: /files/thumbnails/14fb29df504f9b14fb29df505373.jpg
     url: /files/original/14fb29df504f9b14fb29df505373.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms carry a patient on a stretcher across wet pavement toward a large Chinook helicopter, with a man in a blue flight suit and yellow helmet guiding them."
 geo:
 id: 25300
 item_type: Still Image

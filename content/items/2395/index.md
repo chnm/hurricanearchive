@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BVM_bc35132db2.jpg
     thumb: /files/thumbnails/14fb2a66ba967d14fb2a66ba9a62.jpg
     url: /files/original/14fb2a66ba967d14fb2a66ba9a62.jpg
+    alt:
+      en: "Aerial view of a Coast Guard rescue swimmer in an orange suit and blue helmet guiding a woman into a hoist basket above floodwaters."
 geo:
 id: 2395
 item_type: Still Image

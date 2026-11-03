@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0034.JPG
     thumb: /files/thumbnails/14fb2a5774779a14fb2a57747b73.jpg
     url: /files/original/14fb2a5774779a14fb2a57747b73.jpg
+    alt:
+      en: "A rusted fishing trawler named \"Lola Frances,\" registered in Corpus Christi, TX, sits stranded on a grassy shoreline amid bare trees, with calm water and a flying seagull in the foreground."
 geo:
 id: 4148
 item_type: Still Image

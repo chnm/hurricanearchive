@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0306.JPG
     thumb: /files/thumbnails/14fb2a54c48e0514fb2a54c49927.jpg
     url: /files/original/14fb2a54c48e0514fb2a54c49927.jpg
+    alt:
+      en: "A house with a tan roof and cream siding stands beneath trees with broken or sparse branches, set against a partly cloudy sky crossed by a power line."
 geo:
 id: 4964
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0056-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0511432214fb2a051146fb.jpg
     url: /files/original/14fb2a0511432214fb2a051146fb.jpg
+    alt:
+      en: "A blue inflatable kiddie pool floats partially submerged in floodwater, surrounded by debris, dead brush, and a white cylindrical object, with a muddy, waterlogged landscape in the background."
 geo:
 id: 20681
 item_type: Still Image

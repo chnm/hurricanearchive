@@ -21,6 +21,8 @@ files:
     original_filename: MVC-023S.JPG
     thumb: /files/thumbnails/14fb2a5f8be6aa14fb2a5f8bea90.jpg
     url: /files/original/14fb2a5f8be6aa14fb2a5f8bea90.jpg
+    alt:
+      en: "Rows of metal shelving in a storage room hold white archival boxes, dark green binders, and stacked cardboard boxes, with overhead pipes and fluorescent lighting visible along the ceiling."
 geo:
 id: 2934
 item_type: Still Image

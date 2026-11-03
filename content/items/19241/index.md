@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020rita.JPG
     thumb: /files/thumbnails/14fb2a11aaf64a14fb2a11aafa2e.jpg
     url: /files/original/14fb2a11aaf64a14fb2a11aafa2e.jpg
+    alt:
+      en: "A person wearing a cap and glasses, seen in silhouette, sits inside a vehicle or aircraft looking out toward a bright blue sky visible through an open hatch or door."
 geo:
 id: 19241
 item_type: Still Image

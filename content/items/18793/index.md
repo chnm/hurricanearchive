@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028grandisle.JPG
     thumb: /files/thumbnails/14fb2a153a938714fb2a153a9764.jpg
     url: /files/original/14fb2a153a938714fb2a153a9764.jpg
+    alt:
+      en: "Aerial view of a long low bridge over calm coastal water, with storm-damaged homes, debris, and broken docks lining the shoreline in the foreground and a barrier island visible in the hazy distance."
 geo:
 id: 18793
 item_type: Still Image

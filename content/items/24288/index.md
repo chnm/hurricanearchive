@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-08-7A.jpg
     thumb: /files/thumbnails/14fb29e9083cf414fb29e90840d9.jpg
     url: /files/original/14fb29e9083cf414fb29e90840d9.jpg
+    alt:
+      en: "A row of dark pickup trucks and vans, with license plate reading \"V5\" and \"09368\" visible, parked on wet pavement beside a helicopter's rotor blades and tail, city buildings in the background."
 geo:
 id: 24288
 item_type: Still Image

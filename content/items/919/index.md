@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28548.jpg
     thumb: /files/thumbnails/14fb2a6c348c6914fb2a6c34904e.jpg
     url: /files/original/14fb2a6c348c6914fb2a6c34904e.jpg
+    alt:
+      en: "Street scene in downtown New Orleans with a dark pickup truck parked near a theater marquee, a \"Continential Wigs\" sign, a parking sign, and a lamppost along the sidewalk."
 geo:
   address: ''
   lat: 0.0

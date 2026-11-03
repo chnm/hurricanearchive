@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2157hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f045561314fb29f0455a64.jpg
     url: /files/original/14fb29f045561314fb29f0455a64.jpg
+    alt:
+      en: "High-rise building with a curved glass facade severely damaged, with countless broken windows and shredded curtains or fabric billowing out from the openings on multiple floors."
 geo:
 id: 23255
 item_type: Still Image

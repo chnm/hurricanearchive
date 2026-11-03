@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward 9-18-9 b.JPG
     thumb: /files/thumbnails/14fb2a217b032a14fb2a217b06b8.jpg
     url: /files/original/14fb2a217b032a14fb2a217b06b8.jpg
+    alt:
+      en: "Collapsed building reduced to scattered debris and twisted metal, with a scorched, leafless tree standing beside the ruins under a clear sky."
 geo:
 id: 12842
 item_type: Still Image

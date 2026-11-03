@@ -21,6 +21,8 @@ files:
     original_filename: 09280002plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec03524314fb29ec035629.jpg
     url: /files/original/14fb29ec03524314fb29ec035629.jpg
+    alt:
+      en: "A dog rests on green steps beside a building, while a man in camouflage leans over a nearby wall; a backpack sits on a chair and tools lean against the wall."
 geo:
 id: 24000
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28148.jpg
     thumb: /files/thumbnails/14fb2a688f30f714fb2a688f34c3.jpg
     url: /files/original/14fb2a688f30f714fb2a688f34c3.jpg
+    alt:
+      en: "Collapsed house with shingled roof lying on the ground, exposing wooden framing, amid scattered debris; two dormer windows stand upright nearby, with bare trees in the background."
 geo:
   address: ''
   lat: 0.0

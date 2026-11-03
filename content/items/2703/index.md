@@ -27,6 +27,8 @@ files:
     original_filename: Bird
     thumb: /files/thumbnails/14fb2a60799a5614fb2a60799e3c.jpg
     url: /files/original/14fb2a60799a5614fb2a60799e3c.jpg
+    alt:
+      en: "Child's marker drawing of a bird with a purple body, pink and black square shapes, rainbow-colored wing, and orange feet, titled \"Ray is Rayhon\" in orange lettering at the top."
 geo:
 id: 2703
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0194-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a002331e514fb2a002335c9.jpg
     url: /files/original/14fb2a002331e514fb2a002335c9.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with homes reduced to scattered debris, standing floodwater, submerged vehicles, and a surviving blue house amid otherwise destroyed structures."
 geo:
 id: 21190
 item_type: Still Image

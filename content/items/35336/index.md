@@ -21,6 +21,8 @@ files:
     original_filename: 77_8d82c0b65f.jpg
     thumb: /files/thumbnails/14fb29c63ee28114fb29c63ee667.jpg
     url: /files/original/14fb29c63ee28114fb29c63ee667.jpg
+    alt:
+      en: "Two people pose in a produce storage area amid stacked mesh bags of onions and wooden pallets, with flattened cardboard boxes and a wall-mounted air conditioner visible in the background."
 geo:
   address: 400 Marigny St New Orleans
   lat: 29.96189

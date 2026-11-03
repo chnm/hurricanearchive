@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0336-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd2a7e2314fb29fd2a81ff.jpg
     url: /files/original/14fb29fd2a7e2314fb29fd2a81ff.jpg
+    alt:
+      en: "Aerial view of extensively flooded farmland divided by raised levee roads, with patches of orange and green vegetation visible through standing water, backed by a tree line and body of water under a hazy sky."
 geo:
 id: 21604
 item_type: Still Image

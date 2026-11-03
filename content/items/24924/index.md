@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1419superdome.JPG
     thumb: /files/thumbnails/14fb29e3dc300914fb29e3dc33ee.jpg
     url: /files/original/14fb29e3dc300914fb29e3dc33ee.jpg
+    alt:
+      en: "Military police in camouflage uniforms stand behind metal barricades near a sign reading \"Authorized Vehicles Only,\" with civilians and palm trees visible beyond the fence."
 geo:
 id: 24924
 item_type: Still Image

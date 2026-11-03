@@ -21,6 +21,8 @@ files:
     original_filename: DSC01181.JPG
     thumb: /files/thumbnails/14fb2a583453ba14fb2a583457a0.jpg
     url: /files/original/14fb2a583453ba14fb2a583457a0.jpg
+    alt:
+      en: "Street scene outside a Greyhound bus station, with military personnel and a camouflage Humvee parked near a sedan, portable toilets, RVs, a pickup truck, and an ambulance visible; tall high-rise building in background."
 geo:
 id: 4053
 item_type: Still Image

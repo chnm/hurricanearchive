@@ -27,6 +27,8 @@ files:
     original_filename: 2292017572_ae6a278af3.
     thumb: /files/thumbnails/14fb29c9946f3b14fb29c9947321.jpg
     url: /files/original/14fb29c9946f3b14fb29c9947321.jpg
+    alt:
+      en: "Debris-strewn ground floor beneath wooden support beams, littered with broken boards, dried marsh grass, and scattered trash; white houses and boats visible in the background."
 geo:
   address: ''
   lat: 30.22539

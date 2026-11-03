@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-09-7A.jpg
     thumb: /files/thumbnails/14fb29e8c18c3314fb29e8c192d0.jpg
     url: /files/original/14fb29e8c18c3314fb29e8c192d0.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood with grid-pattern streets, rooftops, trees, and green lawns, with a highway overpass visible in the upper left corner."
 geo:
 id: 24316
 item_type: Still Image

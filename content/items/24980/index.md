@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1499superdome.JPG
     thumb: /files/thumbnails/14fb29e355562b14fb29e3555a10.jpg
     url: /files/original/14fb29e355562b14fb29e3555a10.jpg
+    alt:
+      en: "Two uniformed officials—one in a Louisiana wildlife and fisheries uniform, the other in camouflage military fatigues—speak into radios beside a dark SUV with a map spread across its hood."
 geo:
 id: 24980
 item_type: Still Image

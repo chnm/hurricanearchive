@@ -21,6 +21,8 @@ files:
     original_filename: FH000003-9-23.jpg
     thumb: /files/thumbnails/14fb29fcc2286614fb29fcc22c4b.jpg
     url: /files/original/14fb29fcc2286614fb29fcc22c4b.jpg
+    alt:
+      en: "Damaged residential buildings and a leaning utility pole stand amid debris-strewn, dried-out lawns, with scattered rubble and dead shrubs in the foreground under a hazy sky."
 geo:
 id: 21661
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0180-21.JPG
     thumb: /files/thumbnails/14fb2a00747ff614fb2a007483dc.jpg
     url: /files/original/14fb2a00747ff614fb2a007483dc.jpg
+    alt:
+      en: "Interior view of a military vehicle from the back seat, showing a uniformed service member driving, hand on the steering wheel, with a paper bag of food on the dashboard."
 geo:
 id: 21121
 item_type: Still Image

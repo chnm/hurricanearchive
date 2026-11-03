@@ -21,6 +21,8 @@ files:
     original_filename: E.P. Nunez Community College - Chalmette.jpg
     thumb: /files/thumbnails/14fb29fb5f41d414fb29fb600383.jpg
     url: /files/original/14fb29fb5f41d414fb29fb600383.jpg
+    alt:
+      en: "Aerial view of flooded industrial buildings with damaged metal roofs, scattered debris, and a large parking lot of flood-submerged vehicles nearby."
 geo:
 id: 21852
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1757superdome.JPG
     thumb: /files/thumbnails/14fb29e1e2787c14fb29e1e27c67.jpg
     url: /files/original/14fb29e1e2787c14fb29e1e27c67.jpg
+    alt:
+      en: "A helicopter pilot in camouflage uniform and helmet sits in the cockpit gripping a flight control stick, with instrument panels visible and a panel labeled \"NO HANDLE\" beside the seat."
 geo:
 id: 25147
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0260.JPG
     thumb: /files/thumbnails/14fb2a55c1178214fb2a55c12746.jpg
     url: /files/original/14fb2a55c1178214fb2a55c12746.jpg
+    alt:
+      en: "Storm-damaged condominium building with broken windows, plywood covering a section of the upper floor, and debris scattered on the ground near shrubs and an empty parking lot."
 geo:
 id: 4750
 item_type: Still Image

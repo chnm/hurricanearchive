@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28398.jpg
     thumb: /files/thumbnails/14fb2a67685d3014fb2a67686253.jpg
     url: /files/original/14fb2a67685d3014fb2a67686253.jpg
+    alt:
+      en: "A man stands on a wooden dock beside the shrimp boat \"Miss Brittany,\" docked at port Biloxi, MS, with green nets, rigging, and an orange life ring visible on deck."
 geo:
   address: ''
   lat: 0.0

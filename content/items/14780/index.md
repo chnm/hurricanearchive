@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_KennedeGlapion_02_e6cc3f6c54.jpg
     thumb: /files/thumbnails/14fb2a17c5414914fb2a17c546cd.jpg
     url: /files/original/14fb2a17c5414914fb2a17c546cd.jpg
+    alt:
+      en: "Family portrait at a church altar: a mother in a maroon dress, a father in a white shirt holding an infant in a christening gown, and a young girl in a floral dress standing in front, with crosses and floral arrangements in the background."
 geo:
 id: 14780
 item_type: Still Image

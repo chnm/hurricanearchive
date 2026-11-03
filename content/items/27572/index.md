@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7157_0d3e250db2.jpg
     thumb: /files/thumbnails/14fb29d357e8e214fb29d35832d8.jpg
     url: /files/original/14fb29d357e8e214fb29d35832d8.jpg
+    alt:
+      en: "Three girls make playful faces on a sunny lawn in front of a house, with one in denim overalls, one in a yellow shirt having her cheeks pulled, and one in a striped dress giving bunny ears."
 geo:
   address: ''
   lat: 29.91685

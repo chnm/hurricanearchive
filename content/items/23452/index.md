@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0111cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef6172f114fb29ef6176d7.jpg
     url: /files/original/14fb29ef6172f114fb29ef6176d7.jpg
+    alt:
+      en: "Aerial view from a helicopter of a winding river lined with dense green trees, with a small boat traveling downstream; a helmeted crew member is visible in the foreground."
 geo:
 id: 23452
 item_type: Still Image

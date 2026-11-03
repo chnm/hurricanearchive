@@ -21,6 +21,8 @@ files:
     original_filename: dried swamp.jpg
     thumb: /files/thumbnails/14fb2a1ec21bdc14fb2a1ec21fc0.jpg
     url: /files/original/14fb2a1ec21bdc14fb2a1ec21fc0.jpg
+    alt:
+      en: "Dried, flooded swampland with numerous dead tree stumps and branches protruding from shallow water, bordered by a dense green tree line under a pale sky."
 geo:
 id: 13243
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0119-9-25.JPG
     thumb: /files/thumbnails/14fb29e67e86a414fb29e67e8a8a.jpg
     url: /files/original/14fb29e67e86a414fb29e67e8a8a.jpg
+    alt:
+      en: "Aerial view of floodwater submerging a pickup truck and surrounding trees, with murky greenish water covering the landscape and bare branches protruding above the surface."
 geo:
 id: 24576
 item_type: Still Image

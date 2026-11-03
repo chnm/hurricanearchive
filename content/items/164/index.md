@@ -26,6 +26,8 @@ files:
     original_filename: 5_d44927c2e5.jpg
     thumb: /files/thumbnails/14fb2a70c76e8d14fb2a70c77271.jpg
     url: /files/original/14fb2a70c76e8d14fb2a70c77271.jpg
+    alt:
+      en: "Damaged storefront with a collapsed, twisted awning hanging from the ceiling, exposed support beams, and a partial sign reading \"R O\" above cracked plaster walls."
 geo:
   address: ''
   lat: 0.0

@@ -18,6 +18,8 @@ files:
     original_filename: 33_815205e520.jpg
     thumb: /files/thumbnails/14fb29c6de82e914fb29c6de86cc.jpg
     url: /files/original/14fb29c6de82e914fb29c6de86cc.jpg
+    alt:
+      en: "A man in a white shirt and dark red pants climbs a rope suspended from the ceiling, holding a white feather boa, while a crowd gathers below in a decorated room with a small lit Christmas tree."
 geo:
   address: new orleans, la
   lat: 29.95324

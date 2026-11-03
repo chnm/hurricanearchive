@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2204superdome.JPG
     thumb: /files/thumbnails/14fb29e44e49f114fb29e44e4db9.jpg
     url: /files/original/14fb29e44e49f114fb29e44e4db9.jpg
+    alt:
+      en: "Nighttime scene with soldiers in fatigues standing near a flooded street and a bus labeled \"MTI Limo & Shuttle Services,\" with stacked water bottles and cardboard boxes of supplies in the foreground."
 geo:
 id: 24864
 item_type: Still Image

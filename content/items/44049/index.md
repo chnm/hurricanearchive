@@ -20,6 +20,8 @@ files:
     original_filename: HIST 2603 scan_8b063b3e64.jpg
     thumb: /files/thumbnails/14fb29c1d7f0c314fb29c1d7f49c.jpg
     url: /files/original/14fb29c1d7f0c314fb29c1d7f49c.jpg
+    alt:
+      en: "Mold-streaked wall and collapsed shelving above a debris pile of damaged books and papers, including one titled \"You Won't Believe Your Eyes,\" with a bucket visible in the dark background."
 geo:
   address: ''
   lat: 29.95493

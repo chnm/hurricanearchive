@@ -21,6 +21,8 @@ files:
     original_filename: 09180011plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec4a420314fb29ec4a51cb.jpg
     url: /files/original/14fb29ec4a420314fb29ec4a51cb.jpg
+    alt:
+      en: "A divided highway with a grassy median, utility poles and lines running alongside, debris scattered on the shoulder, and snapped or bent trees visible in the distance under a hazy sky."
 geo:
 id: 23941
 item_type: Still Image

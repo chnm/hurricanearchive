@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1902rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a140a023514fb2a140a0612.jpg
     url: /files/original/14fb2a140a023514fb2a140a0612.jpg
+    alt:
+      en: "A military Black Hawk helicopter, tail number 813, parked on a tarmac with several uniformed personnel standing nearby, trees and a large metal building in the background."
 geo:
 id: 18952
 item_type: Still Image

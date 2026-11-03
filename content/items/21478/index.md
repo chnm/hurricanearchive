@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0272-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe620bdb14fb29fe622a22.jpg
     url: /files/original/14fb29fe620bdb14fb29fe622a22.jpg
+    alt:
+      en: "Aerial view of a flooded roadway lined with military vehicles and trucks, surrounded by floodwater submerging trees, buildings, and scattered boats in the distance."
 geo:
 id: 21478
 item_type: Still Image

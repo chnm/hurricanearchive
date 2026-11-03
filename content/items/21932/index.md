@@ -21,6 +21,8 @@ files:
     original_filename: Picture 263-J2.jpg
     thumb: /files/thumbnails/14fb29faf0d4aa14fb29faf0dc79.jpg
     url: /files/original/14fb29faf0d4aa14fb29faf0dc79.jpg
+    alt:
+      en: "Water gushes forcefully from a pipe into a concrete-lined canal, creating foam and spray, with bare trees, a utility pole, and a blue water tank visible beyond the canal walls under a clear sky."
 geo:
 id: 21932
 item_type: Still Image

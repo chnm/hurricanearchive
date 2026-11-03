@@ -21,6 +21,8 @@ files:
     original_filename: katrina 016.jpg
     thumb: /files/thumbnails/14fb29fc01326314fb29fc013649.jpg
     url: /files/original/14fb29fc01326314fb29fc013649.jpg
+    alt:
+      en: "Two men sit inside the cockpit of a military helicopter at night, one in a camouflage uniform and cap with a U.S. Army patch, the other in a brown T-shirt holding the flight controls."
 geo:
 id: 21748
 item_type: Still Image

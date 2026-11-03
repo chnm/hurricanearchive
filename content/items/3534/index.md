@@ -24,6 +24,8 @@ files:
     original_filename: P1010110.JPG
     thumb: /files/thumbnails/14fb2a5af87d2f14fb2a5af8f6d0.jpg
     url: /files/original/14fb2a5af87d2f14fb2a5af8f6d0.jpg
+    alt:
+      en: "Front porch of a house at 2636, its boarded-up entrance covered in spray-painted rescue notes reading \"Animals,\" \"SPCA,\" \"Fish Inside,\" and \"Fed 9/29 HSU,\" with concrete steps leading up between white columns."
 geo:
 id: 3534
 item_type: Still Image

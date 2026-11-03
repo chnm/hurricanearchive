@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef8a8c7d14fb29ef8a91fe.jpg
     url: /files/original/14fb29ef8a8c7d14fb29ef8a91fe.jpg
+    alt:
+      en: "Aerial view of flat farmland divided into rectangular fields, many flooded with standing water, with a straight road and scattered farm buildings under a hazy sky."
 geo:
 id: 23414
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010199empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed3be17914fb29ed3be560.jpg
     url: /files/original/14fb29ed3be17914fb29ed3be560.jpg
+    alt:
+      en: "Floodwater covers a debris-strewn shoreline, with scattered lumber and wreckage along an embankment, dead and stripped trees reflected in the still water, and power lines overhead."
 geo:
 id: 23758
 item_type: Still Image

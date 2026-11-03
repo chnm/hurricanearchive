@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0178-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0090a96e14fb2a0090ad49.jpg
     url: /files/original/14fb2a0090a96e14fb2a0090ad49.jpg
+    alt:
+      en: "Aerial view of a flooded roadway submerged in murky water, with partially submerged trees, power lines, and a faint road marking with yellow lane stripes visible beneath the surface."
 geo:
 id: 21110
 item_type: Still Image

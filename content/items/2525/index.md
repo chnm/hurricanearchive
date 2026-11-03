@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8733.jpg
     thumb: /files/thumbnails/14fb2a65be05f114fb2a65be09d7.jpg
     url: /files/original/14fb2a65be05f114fb2a65be09d7.jpg
+    alt:
+      en: "A debris-strewn lot with a toppled metal stairway, a person walking a dog, bare storm-damaged trees, and a surviving building marked \"4929\" in the background."
 geo:
 id: 2525
 item_type: Still Image

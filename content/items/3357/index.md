@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (8).JPG
     thumb: /files/thumbnails/14fb2a5c3e79cd14fb2a5c3e9bdf.jpg
     url: /files/original/14fb2a5c3e79cd14fb2a5c3e9bdf.jpg
+    alt:
+      en: "Large piles of storm debris and uprooted trees line a cleared lot, with a damaged house and power lines visible in the background under a clear blue sky."
 geo:
 id: 3357
 item_type: Still Image

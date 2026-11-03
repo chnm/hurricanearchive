@@ -21,6 +21,8 @@ files:
     original_filename: S4300063.JPG
     thumb: /files/thumbnails/14fb2a133be0d614fb2a133bed1d.jpg
     url: /files/original/14fb2a133be0d614fb2a133bed1d.jpg
+    alt:
+      en: "Interior of a military helicopter's cargo bay, loaded with a large shrink-wrapped pallet of bottled water, surrounded by red cargo netting and exposed metal fuselage framework."
 geo:
 id: 19085
 item_type: Still Image

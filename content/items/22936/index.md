@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042cowanmedia.JPG
     thumb: /files/thumbnails/14fb29f29c2fee14fb29f29c3645.jpg
     url: /files/original/14fb29f29c2fee14fb29f29c3645.jpg
+    alt:
+      en: "Profile view of a U.S. Army soldier in woodland camouflage uniform and sunglasses, wearing a cap and shoulder harness, standing near a military vehicle with gear strapped to it."
 geo:
 id: 22936
 item_type: Still Image

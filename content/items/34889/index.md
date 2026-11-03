@@ -20,6 +20,8 @@ files:
     original_filename: 2456723141_26710862e7.
     thumb: /files/thumbnails/14fb29c8b39ed214fb29c8b3a29f.jpg
     url: /files/original/14fb29c8b39ed214fb29c8b3a29f.jpg
+    alt:
+      en: "A paved marina walkway lined with concrete bollards and lampposts, with numerous docked sailboats and a blue building labeled \"...LLY'S\" visible in the background under a partly cloudy sky."
 geo:
 id: 34889
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2456562501_feba2192ee.
     thumb: /files/thumbnails/14fb29c85d50ab14fb29c85d5506.jpg
     url: /files/original/14fb29c85d50ab14fb29c85d5506.jpg
+    alt:
+      en: "Aerial view of the Lake Cataouatche Levee construction site, showing a large cleared dirt area bordered by green fields, roads, and water, with the caption \"Lake Cataouatche Levee\" and date 09.05.07."
 geo:
 id: 34936
 item_type: Still Image

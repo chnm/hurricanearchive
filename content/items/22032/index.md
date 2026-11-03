@@ -21,6 +21,8 @@ files:
     original_filename: Picture 363-J2.jpg
     thumb: /files/thumbnails/14fb29f9f70c3b14fb29f9f71020.jpg
     url: /files/original/14fb29f9f70c3b14fb29f9f71020.jpg
+    alt:
+      en: "A man wearing safety glasses and a camouflage cap uses a green and purple chainsaw to cut through a large tree trunk, with sawdust flying and dense foliage in the background."
 geo:
 id: 22032
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: dot benge_5771_2406b76712.jpg
     thumb: /files/thumbnails/14fb29da08001514fb29da0803fa.jpg
     url: /files/original/14fb29da08001514fb29da0803fa.jpg
+    alt:
+      en: "Black-and-white close-up photo of two young girls, one blonde and one with dark curly hair, cheek to cheek and smiling, displayed in a weathered, rust-spotted metal frame."
 geo:
 id: 26149
 item_type: Still Image

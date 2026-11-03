@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28397.jpg
     thumb: /files/thumbnails/14fb2a6ad4222314fb2a6ad42609.jpg
     url: /files/original/14fb2a6ad4222314fb2a6ad42609.jpg
+    alt:
+      en: "A man stands on a wooden dock beside the shrimp boat \"Miss Brittney,\" its hull painted navy with tires as bumpers, rigging and nets visible above, docked under a cloudy sky."
 geo:
   address: ''
   lat: 0.0

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27857.jpg
     thumb: /files/thumbnails/14fb2a6899cd2114fb2a6899d106.jpg
     url: /files/original/14fb2a6899cd2114fb2a6899d106.jpg
+    alt:
+      en: "Family group standing on grass beneath a \"ROUEN ST.\" street sign, holding a large wooden sign reading \"HAVE WE Been forgotten\" in red paint."
 geo:
   address: ''
   lat: 0.0

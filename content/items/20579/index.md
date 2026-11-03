@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037-9-25.JPG
     thumb: /files/thumbnails/14fb2a05f0467f14fb2a05f04a65.jpg
     url: /files/original/14fb2a05f0467f14fb2a05f04a65.jpg
+    alt:
+      en: "Aerial view of murky, greenish-brown floodwater with faint wave patterns, a submerged utility pole and wires visible near the center, and tree debris in the bottom right corner."
 geo:
 id: 20579
 item_type: Still Image

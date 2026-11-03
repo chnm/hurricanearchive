@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28745.jpg
     thumb: /files/thumbnails/14fb2a6b16f85714fb2a6b16fc3b.jpg
     url: /files/original/14fb2a6b16f85714fb2a6b16fc3b.jpg
+    alt:
+      en: "Three containers—a black basin, a small bucket of gravel, and a larger white bucket—holding rescued goldfish and fish tank supplies on a purple tray."
 geo:
   address: ''
   lat: 0.0

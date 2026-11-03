@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a055e8cbb14fb2a055e909a.jpg
     url: /files/original/14fb2a055e8cbb14fb2a055e909a.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with a white mobile home missing its skirting and a small outbuilding with a partially stripped roof, surrounded by standing floodwater, downed trees, and debris near a roadway."
 geo:
 id: 20661
 item_type: Still Image

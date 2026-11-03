@@ -21,6 +21,8 @@ files:
     original_filename: J2 (60).JPG
     thumb: /files/thumbnails/14fb2a11024cdd14fb2a11024f0c.jpg
     url: /files/original/14fb2a11024cdd14fb2a11024f0c.jpg
+    alt:
+      en: "Aerial view of a city street intersection with varied rooftops, a military truck and blue pickup on the road, trees, and empty sidewalks."
 geo:
 id: 19345
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2457540818_510a1e2ad4.
     thumb: /files/thumbnails/14fb29c8c965ba14fb29c8c9699e.jpg
     url: /files/original/14fb29c8c965ba14fb29c8c9699e.jpg
+    alt:
+      en: "Construction site with concrete support walls and exposed rebar framing a deep excavated channel, flanked by steel beams and scaffolding, with equipment and dirt mounds visible in the background."
 geo:
 id: 34882
 item_type: Still Image

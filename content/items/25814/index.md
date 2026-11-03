@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-paella02_8c7c6cf26a.jpg
     thumb: /files/thumbnails/14fb29dc0c15b414fb29dc0c1e1f.jpg
     url: /files/original/14fb29dc0c15b414fb29dc0c1e1f.jpg
+    alt:
+      en: "Cookbook page 309 from the \"Vegetables, Rice & Pasta\" section, showing printed recipes for Creole Jambalaya by Evelyn Thompson and Paella by Bertin B. Esteves, Jr., with ingredients and instructions listed."
 geo:
 id: 25814
 item_type: Still Image

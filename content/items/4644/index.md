@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0573.JPG
     thumb: /files/thumbnails/14fb2a5687b98a14fb2a5687c1d5.jpg
     url: /files/original/14fb2a5687b98a14fb2a5687c1d5.jpg
+    alt:
+      en: "Debris pile of dried leaves, broken insulation, and torn material sits beside a cracked concrete slab, with sunlight casting shadows across the scene."
 geo:
 id: 4644
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 336698209_d0c2d38307.jpg
     thumb: /files/thumbnails/14fb29d576b73d14fb29d5775d55.jpg
     url: /files/original/14fb29d576b73d14fb29d5775d55.jpg
+    alt:
+      en: "Muddy, debris-strewn landscape with collapsed wooden structures and standing pools of water in the foreground, distant buildings visible on the horizon under an overcast sky."
 geo:
 id: 27300
 item_type: Still Image

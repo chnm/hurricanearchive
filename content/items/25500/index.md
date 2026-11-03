@@ -21,6 +21,8 @@ files:
     original_filename: EvaDow-3_fcd048c40d.jpg
     thumb: /files/thumbnails/14fb29dd6baa5b14fb29dd6bae40.jpg
     url: /files/original/14fb29dd6baa5b14fb29dd6bae40.jpg
+    alt:
+      en: "Vintage color photo of a young girl in a maroon dress and a taller boy in a plaid shirt standing arm-in-arm on a lawn in front of a brick house with azalea bushes."
 geo:
 id: 25500
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2456707291_db747d7591.
     thumb: /files/thumbnails/14fb29c88264ae14fb29c8826f6a.jpg
     url: /files/original/14fb29c88264ae14fb29c8826f6a.jpg
+    alt:
+      en: "Construction site with workers in hard hats along a corrugated metal retaining wall, concrete support columns, rebar grids, and stacked metal pipes, with billboards visible in the background."
 geo:
 id: 34916
 item_type: Still Image

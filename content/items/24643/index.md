@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038medics.JPG
     thumb: /files/thumbnails/14fb29e5d7927214fb29e5d79658.jpg
     url: /files/original/14fb29e5d7927214fb29e5d79658.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms gather around styrofoam coolers holding medical supplies, including a box labeled \"Alcohol Swabs,\" with other service members visible in the background."
 geo:
 id: 24643
 item_type: Still Image

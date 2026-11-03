@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8541.jpg
     thumb: /files/thumbnails/14fb2a6620287d14fb2a66202c61.jpg
     url: /files/original/14fb2a6620287d14fb2a66202c61.jpg
+    alt:
+      en: "A crushed, debris-filled sedan sits beneath an aluminum skiff boat, surrounded by scattered lumber and wreckage with trees in the background."
 geo:
 id: 2476
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: IMG_1066_cd7d9a072c.JPG
     thumb: /files/thumbnails/14fb29c2a9e20f14fb29c2a9e5f5.jpg
     url: /files/original/14fb29c2a9e20f14fb29c2a9e5f5.jpg
+    alt:
+      en: "A red octagonal stop sign with white border and lettering, spray-painted in black beneath \"STOP\" with the words \"NA GIN NOW,\" mounted on a pole near a balcony with hanging plants."
 geo:
 id: 42232
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7159_10c79430dd.jpg
     thumb: /files/thumbnails/14fb29d36090c014fb29d36094a6.jpg
     url: /files/original/14fb29d36090c014fb29d36094a6.jpg
+    alt:
+      en: "Group of five posing outdoors at Mardi Gras 1999 in New Orleans, with a man in sunglasses and a cap, a woman and three young girls in face paint and costumes with polka-dot patterns and beads."
 geo:
   address: ''
   lat: 29.95493

@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-05-3AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f974bdd614fb29f974c282.jpg
     url: /files/original/14fb29f974bdd614fb29f974c282.jpg
+    alt:
+      en: "Floodwater surrounds a white house, with floating debris including cushions, a tire, and wooden panels, and a submerged porch railing visible in the background."
 geo:
 id: 22125
 item_type: Still Image

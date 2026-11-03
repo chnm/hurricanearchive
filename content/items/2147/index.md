@@ -26,6 +26,8 @@ files:
     original_filename: 030216050446_8117693d33.JPG
     thumb: /files/thumbnails/14fb2a6d9b852614fb2a6d9b88fa.jpg
     url: /files/original/14fb2a6d9b852614fb2a6d9b88fa.jpg
+    alt:
+      en: "Ceiling with a large rectangular hole exposing wooden rafters, surrounded by water-stained white tiles and old floral wallpaper, above blue wainscoting walls."
 geo:
   address: ''
   lat: 30.135425

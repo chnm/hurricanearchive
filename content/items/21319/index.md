@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0226.JPG
     thumb: /files/thumbnails/14fb29ff8694da14fb29ff8698b7.jpg
     url: /files/original/14fb29ff8694da14fb29ff8698b7.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with stripped and uprooted trees, debris-covered roofs, scattered rubble, and empty streets lined with houses."
 geo:
 id: 21319
 item_type: Still Image

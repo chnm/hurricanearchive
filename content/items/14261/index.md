@@ -21,6 +21,8 @@ files:
     original_filename: aerials103.jpg
     thumb: /files/thumbnails/14fb2a1a5e956014fb2a1a5e9936.jpg
     url: /files/original/14fb2a1a5e956014fb2a1a5e9936.jpg
+    alt:
+      en: "Aerial view of a coastal property reduced to concrete slabs and scattered debris, surrounded by leafless, storm-damaged trees, with a roadway and body of water in the background."
 geo:
 id: 14261
 item_type: Still Image

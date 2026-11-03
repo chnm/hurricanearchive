@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-006-1A.jpg
     thumb: /files/thumbnails/14fb29cf85d64714fb29cf85da46.jpg
     url: /files/original/14fb29cf85d64714fb29cf85da46.jpg
+    alt:
+      en: "Aerial view from an aircraft window of a city skyline with a domed stadium, surrounded by flooded streets and neighborhoods with standing water between houses and trees."
 geo:
 id: 29108
 item_type: Still Image

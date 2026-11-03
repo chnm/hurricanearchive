@@ -21,6 +21,8 @@ files:
     original_filename: Bogalusa LA HWY 10 East heading South.jpg
     thumb: /files/thumbnails/14fb29fb69616914fb29fb696545.jpg
     url: /files/original/14fb29fb69616914fb29fb696545.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with scattered houses, trees, and a straight highway running through, with blue tarps visible on several rooftops and a sports field in the background."
 geo:
 id: 21835
 item_type: Still Image

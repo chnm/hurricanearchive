@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0991Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f935697914fb29f9356d5e.jpg
     url: /files/original/14fb29f935697914fb29f9356d5e.jpg
+    alt:
+      en: "A military police car and two Acadian ambulances (numbered 173 and 144) are parked on a street near a fenced compound with metal buildings under an overcast sky."
 geo:
 id: 22184
 item_type: Still Image

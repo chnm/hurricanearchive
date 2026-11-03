@@ -21,6 +21,8 @@ files:
     original_filename: katrina 014.jpg
     thumb: /files/thumbnails/14fb29fc02a94a14fb29fc02ad38.jpg
     url: /files/original/14fb29fc02a94a14fb29fc02ad38.jpg
+    alt:
+      en: "A large American flag hangs from the concrete ceiling of a parking garage used as a shelter, with cots, bags, and belongings crowded in the foreground; timestamp reads 5:15 PM."
 geo:
 id: 21746
 item_type: Still Image

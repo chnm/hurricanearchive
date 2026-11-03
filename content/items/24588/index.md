@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0122-21-2.JPG
     thumb: /files/thumbnails/14fb29e665ecfe14fb29e665f0dd.jpg
     url: /files/original/14fb29e665ecfe14fb29e665f0dd.jpg
+    alt:
+      en: "Two people in military camouflage uniforms sit at a desk in an office with blue tiled walls, one reading papers while office equipment and chairs surround them."
 geo:
 id: 24588
 item_type: Still Image

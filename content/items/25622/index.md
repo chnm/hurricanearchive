@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.031.JPG
     thumb: /files/thumbnails/14fb29dd172fe614fb29dd1733ca.jpg
     url: /files/original/14fb29dd172fe614fb29dd1733ca.jpg
+    alt:
+      en: "Hand-painted plywood signs reading \"Welcome to the Made With Love Cafe,\" \"Community,\" \"We Need Lumber Plywood,\" and \"Freestore Hours\" stand outside white relief tents, with a \"Free Internet Long Distance\" sign overhead."
 geo:
 id: 25622
 item_type: Still Image

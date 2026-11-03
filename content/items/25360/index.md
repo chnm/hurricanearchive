@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2087superdome.JPG
     thumb: /files/thumbnails/14fb29deacf3a414fb29deacf788.jpg
     url: /files/original/14fb29deacf3a414fb29deacf788.jpg
+    alt:
+      en: "A military CH-47 Chinook helicopter marked \"GA-NG 20295\" sits on wet pavement as several people in uniform help others board via its rear ramp, with an elevated highway visible in the background."
 geo:
 id: 25360
 item_type: Still Image

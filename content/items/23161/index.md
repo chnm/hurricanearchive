@@ -21,6 +21,8 @@ files:
     original_filename: 261st enroute to Louisianadelaware.jpg
     thumb: /files/thumbnails/14fb29f148ffbd14fb29f1490746.jpg
     url: /files/original/14fb29f148ffbd14fb29f1490746.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms stand and talk on an airfield tarmac beside a U.S. Air Force C-130 aircraft marked \"0206,\" with its cargo door open."
 geo:
 id: 23161
 item_type: Still Image

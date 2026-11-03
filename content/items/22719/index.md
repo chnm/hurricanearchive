@@ -21,6 +21,8 @@ files:
     original_filename: PICT0617Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f471edd414fb29f471f1fa.jpg
     url: /files/original/14fb29f471edd414fb29f471f1fa.jpg
+    alt:
+      en: "Two-story brick building with a two-tier white-columned porch, its roof partially collapsed and missing at the gable end, exposing rafters; date stamp reads 09.15.2005."
 geo:
 id: 22719
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 1281620545_ddda6e64d7.jpg
     thumb: /files/thumbnails/14fb29cb97ed9314fb29cb97f17a.jpg
     url: /files/original/14fb29cb97ed9314fb29cb97f17a.jpg
+    alt:
+      en: "A crane-equipped truck loads debris and tree branches into a dump truck bed while a worker in a safety vest and hardhat watches, with a pile of cardboard debris in the foreground."
 geo:
 id: 33202
 item_type: Still Image

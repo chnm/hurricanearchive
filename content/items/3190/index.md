@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (40).JPG
     thumb: /files/thumbnails/14fb2a5d65499514fb2a5d657767.jpg
     url: /files/original/14fb2a5d65499514fb2a5d657767.jpg
+    alt:
+      en: "A red and white box truck parked in a driveway beside a house with a teal garage door and an upstairs balcony, surrounded by scattered dry leaves and debris."
 geo:
 id: 3190
 item_type: Still Image

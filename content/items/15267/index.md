@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-004_00_6f3bc08ba3.jpg
     thumb: /files/thumbnails/14fb2a16b336bc14fb2a16b33a99.jpg
     url: /files/original/14fb2a16b336bc14fb2a16b33a99.jpg
+    alt:
+      en: "Four young girls in matching ivory satin dance costumes with pale blue floral trim and matching flower headbands pose together on stage, a date stamp reading \"05 5 31\" visible in the corner."
 geo:
 id: 15267
 item_type: Still Image

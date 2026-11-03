@@ -21,6 +21,8 @@ files:
     original_filename: J2 (31).JPG
     thumb: /files/thumbnails/14fb2a1138cf5814fb2a1138d33f.jpg
     url: /files/original/14fb2a1138cf5814fb2a1138d33f.jpg
+    alt:
+      en: "Aerial view of a flooded school courtyard with mud-covered ground, scattered picnic tables and benches, bare trees, and collapsed, twisted metal roofing from storm-damaged walkways and buildings."
 geo:
 id: 19313
 item_type: Still Image

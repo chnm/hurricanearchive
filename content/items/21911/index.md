@@ -21,6 +21,8 @@ files:
     original_filename: UNO - Lakefront Arena.jpg
     thumb: /files/thumbnails/14fb29fb0ac28014fb29fb0ac62c.jpg
     url: /files/original/14fb29fb0ac28014fb29fb0ac62c.jpg
+    alt:
+      en: "Aerial view of the UNO Lakefront Arena complex with a damaged, debris-covered roof, surrounded by empty parking lots, tennis courts, and floodwater encroaching on the surrounding grounds."
 geo:
 id: 21911
 item_type: Still Image

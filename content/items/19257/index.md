@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0144rita.JPG
     thumb: /files/thumbnails/14fb2a119970ce14fb2a11997491.jpg
     url: /files/original/14fb2a119970ce14fb2a11997491.jpg
+    alt:
+      en: "Military Humvee marked \"HQ-38\" with open door parked on a road, as uniformed soldiers gather and walk nearby amid utility poles and power lines."
 geo:
 id: 19257
 item_type: Still Image

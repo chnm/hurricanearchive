@@ -21,6 +21,8 @@ files:
     original_filename: 100-23_38ec6da793.jpg
     thumb: /files/thumbnails/14fb2a21d0099614fb2a21d00efe.jpg
     url: /files/original/14fb2a21d0099614fb2a21d00efe.jpg
+    alt:
+      en: "Worn and creased sepia-toned photograph of a smiling young child standing in a wooden crib, with handwritten caption \"one year old\" below the image."
 geo:
 id: 12675
 item_type: Still Image

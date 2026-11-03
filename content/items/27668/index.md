@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7117_ccc2569262.JPG
     thumb: /files/thumbnails/14fb29d334873814fb29d3348b1d.jpg
     url: /files/original/14fb29d334873814fb29d3348b1d.jpg
+    alt:
+      en: "Three people stand beneath a domed, column-lined gazebo decorated with garland, with trees and blue sky visible through the structure and green grass in the foreground."
 geo:
   address: ''
   lat: 29.91685

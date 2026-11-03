@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006-20.JPG
     thumb: /files/thumbnails/14fb2a085658b114fb2a08565c83.jpg
     url: /files/original/14fb2a085658b114fb2a08565c83.jpg
+    alt:
+      en: "A soldier in camouflage fatigues with a name tape reading \"KARR\" sits working with wires or cables, an open toolbox nearby, in a room filled with folding tables, laptops, papers, and office chairs."
 geo:
 id: 20367
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 09110012delaware.JPG
     thumb: /files/thumbnails/14fb29f16c5c9814fb29f16c607a.jpg
     url: /files/original/14fb29f16c5c9814fb29f16c607a.jpg
+    alt:
+      en: "Several men in camouflage military uniforms sit inside the dim cargo interior of a military aircraft, one giving a thumbs-up, with red cargo straps and equipment visible overhead."
 geo:
 id: 23135
 item_type: Still Image

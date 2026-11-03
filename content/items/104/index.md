@@ -26,6 +26,8 @@ files:
     original_filename: aerial2_3d4bd13643.jpg
     thumb: /files/thumbnails/14fb2a710b844d14fb2a710b8827.jpg
     url: /files/original/14fb2a710b844d14fb2a710b8827.jpg
+    alt:
+      en: "Aerial view of flooded New Orleans East, with rows of rooftops surrounded by floodwater stretching toward the horizon and a distant commercial district also submerged."
 geo:
   address: ''
   lat: 29.993002284551103

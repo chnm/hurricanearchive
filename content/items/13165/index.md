@@ -21,6 +21,8 @@ files:
     original_filename: 157 authorized only.jpg
     thumb: /files/thumbnails/14fb2a1fb566b914fb2a1fb5758f.jpg
     url: /files/original/14fb2a1fb566b914fb2a1fb5758f.jpg
+    alt:
+      en: "A black rectangular sign mounted on a white wall reads \"AUTHORIZED PERSONNEL ONLY\" in white capital letters, photographed at an angle with some glare spots visible on its surface."
 geo:
 id: 13165
 item_type: Still Image

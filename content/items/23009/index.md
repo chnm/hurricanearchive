@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019OEP.JPG
     thumb: /files/thumbnails/14fb29f21888a014fb29f2188c84.jpg
     url: /files/original/14fb29f21888a014fb29f2188c84.jpg
+    alt:
+      en: "Crowded parking lot with numerous vehicles, an RV labeled \"Media Support Center,\" white canopy tents, and traffic cones, set in front of large institutional buildings under a clear sky."
 geo:
 id: 23009
 item_type: Still Image

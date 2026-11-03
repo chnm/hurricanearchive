@@ -23,6 +23,8 @@ files:
     original_filename: 159310048_18c3a758f6.jpg
     thumb: /files/thumbnails/14fb29d20e0c1714fb29d20e1028.jpg
     url: /files/original/14fb29d20e0c1714fb29d20e1028.jpg
+    alt:
+      en: "A rusted metal knight statue with a shield stands in a garden bed beside a pink teddy bear figurine, surrounded by broken terracotta roof tiles and leafy plants."
 geo:
 id: 28623
 item_type: Still Image

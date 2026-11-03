@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8520.jpg
     thumb: /files/thumbnails/14fb2a6605855e14fb2a66058af0.jpg
     url: /files/original/14fb2a6605855e14fb2a66058af0.jpg
+    alt:
+      en: "Elevated house stripped to its frame and collapsing onto stilts, with exposed roof trusses and debris scattered around a damaged tree and a bed frame below."
 geo:
 id: 2484
 item_type: Still Image

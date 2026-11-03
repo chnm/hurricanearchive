@@ -21,6 +21,8 @@ files:
     original_filename: PICT0531Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4a741e914fb29f4a746a9.jpg
     url: /files/original/14fb29f4a741e914fb29f4a746a9.jpg
+    alt:
+      en: "White house with lattice porch screen and a street sign reading \"COL JOHNSON,\" with military Humvees and supply boxes parked along the street, dated 09.15.2005."
 geo:
 id: 22701
 item_type: Still Image

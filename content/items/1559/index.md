@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28053.jpg
     thumb: /files/thumbnails/14fb2a68018d7114fb2a6801918c.jpg
     url: /files/original/14fb2a68018d7114fb2a6801918c.jpg
+    alt:
+      en: "A large yellow crawler crane with an extended lattice boom stands on a dirt site near stacked reddish-brown shipping containers, with a worker in a hard hat standing nearby."
 geo:
   address: ''
   lat: 0.0

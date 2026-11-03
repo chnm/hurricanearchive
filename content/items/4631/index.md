@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0560.JPG
     thumb: /files/thumbnails/14fb2a56a9713614fb2a56a974fd.jpg
     url: /files/original/14fb2a56a9713614fb2a56a974fd.jpg
+    alt:
+      en: "Rows of concrete cinder-block piers stand amid cleared, debris-strewn ground where a structure once stood, with scattered rubble, trees, and distant houses visible in the background."
 geo:
 id: 4631
 item_type: Still Image

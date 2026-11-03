@@ -21,6 +21,8 @@ files:
     original_filename: P1010180empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed548d5c14fb29ed549143.jpg
     url: /files/original/14fb29ed548d5c14fb29ed549143.jpg
+    alt:
+      en: "Flattened debris field with scattered wreckage and vehicles sits beyond muddy, standing water and dead, leafless shrubs in the foreground, under a clear sky."
 geo:
 id: 23739
 item_type: Still Image

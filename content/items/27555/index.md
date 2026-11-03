@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6442_f3a405935d.jpg
     thumb: /files/thumbnails/14fb29d36dd63014fb29d36dda17.jpg
     url: /files/original/14fb29d36dd63014fb29d36dda17.jpg
+    alt:
+      en: "A young woman in a white t-shirt and khaki shorts smiles while holding a large bunch of colorful balloons, standing outside near an arched brick building and trees."
 geo:
   address: ''
   lat: 29.91685

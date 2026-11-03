@@ -21,6 +21,8 @@ files:
     original_filename: 91.jpg
     thumb: /files/thumbnails/14fb2a601c5f3e14fb2a601c6321.jpg
     url: /files/original/14fb2a601c5f3e14fb2a601c6321.jpg
+    alt:
+      en: "Child's drawing of a sun and clouds in a blue sky above a green ground, framed by a stylized fence of green X-shapes, with the handwritten caption \"New Orleans after the storm.\""
 geo:
 id: 2799
 item_type: Still Image

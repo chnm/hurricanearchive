@@ -21,6 +21,8 @@ files:
     original_filename: 100_0172.JPG
     thumb: /files/thumbnails/14fb2a5920db4a14fb2a5920df20.jpg
     url: /files/original/14fb2a5920db4a14fb2a5920df20.jpg
+    alt:
+      en: "Floodwater submerges a strip mall's lower storefronts up to the awnings, with a streetlamp pole standing partially underwater in the foreground and red diamond-shaped signs visible above the waterline."
 geo:
 id: 3879
 item_type: Still Image

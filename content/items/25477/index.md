@@ -21,6 +21,8 @@ files:
     original_filename: KrisharaJohnson-1-2_aefb6c3a23.jpg
     thumb: /files/thumbnails/14fb29dd9872d314fb29dd9876b9.jpg
     url: /files/original/14fb29dd9872d314fb29dd9876b9.jpg
+    alt:
+      en: "Two men in white baptismal robes stand in a church baptismal pool with a young girl dressed in white, a hand holding a microphone visible at left, with decorative lettering on the wall behind them."
 geo:
 id: 25477
 item_type: Still Image

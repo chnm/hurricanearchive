@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_KyraBowens_02_13324c0fb3.jpg
     thumb: /files/thumbnails/14fb2a17c0686314fb2a17c06c49.jpg
     url: /files/original/14fb2a17c0686314fb2a17c06c49.jpg
+    alt:
+      en: "A man in a flat cap and argyle sweater stands behind four young girls wearing matching maroon cardigans, white shirts, and red hair ribbons in a living room."
 geo:
 id: 14783
 item_type: Still Image

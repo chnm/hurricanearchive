@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1764superdome.JPG
     thumb: /files/thumbnails/14fb29e1d1619b14fb29e1d1684b.jpg
     url: /files/original/14fb29e1d1619b14fb29e1d1684b.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms form a line passing cases of bottled water (Nestlé Pure Life) beneath the rotor and fuselage of a helicopter."
 geo:
 id: 25154
 item_type: Still Image

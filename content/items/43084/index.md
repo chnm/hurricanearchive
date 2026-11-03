@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0007_9a11c4b621.jpg
     thumb: /files/thumbnails/14fb29c26e2be614fb29c26e2fdc.jpg
     url: /files/original/14fb29c26e2be614fb29c26e2fdc.jpg
+    alt:
+      en: "Black-and-white photo of a large cargo ship docked at the Port of New Orleans, with twin smokestacks and \"...S LINES\" lettering visible on its hull, framed by shrubs and dockside sheds."
 geo:
 id: 43084
 item_type: Still Image

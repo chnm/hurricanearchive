@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28160.jpg
     thumb: /files/thumbnails/14fb2a68da22dd14fb2a68da26ba.jpg
     url: /files/original/14fb2a68da22dd14fb2a68da26ba.jpg
+    alt:
+      en: "Interior of a storm-damaged house stripped to studs, with debris-covered floor, broken furniture, and a bent metal lamp fixture in the foreground."
 geo:
   address: ''
   lat: 0.0

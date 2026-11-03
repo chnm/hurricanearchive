@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eadb24ad14fb29eadb2c30.jpg
     url: /files/original/14fb29eadb24ad14fb29eadb2c30.jpg
+    alt:
+      en: "Man in a camouflage bucket hat and sunglasses wears a white towel around his neck and holds a Nikon camera, standing before a military vehicle stenciled \"ENGR BN.\""
 geo:
 id: 24098
 item_type: Still Image

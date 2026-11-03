@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C1A_307af0229c.jpg
     thumb: /files/thumbnails/14fb2a66a72cb914fb2a66a7309c.jpg
     url: /files/original/14fb2a66a72cb914fb2a66a7309c.jpg
+    alt:
+      en: "A man in a gray tank top leans over a table, writing on an ax handle labeled \"KATRINA,\" with water bottles, cups, and other people seated in the background."
 geo:
 id: 2409
 item_type: Still Image

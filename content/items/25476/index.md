@@ -21,6 +21,8 @@ files:
     original_filename: KrisharaJohnson-_53123f5b45.jpg
     thumb: /files/thumbnails/14fb29dd9964eb14fb29dd9968d0.jpg
     url: /files/original/14fb29dd9964eb14fb29dd9968d0.jpg
+    alt:
+      en: "Cover of a children's \"Jesus Loves Me Bible,\" featuring colorful title text and an illustration of Jesus surrounded by smiling children, set against a yellow striped background."
 geo:
 id: 25476
 item_type: Still Image

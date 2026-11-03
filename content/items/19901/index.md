@@ -21,6 +21,8 @@ files:
     original_filename: HPIM0882gillslong.JPG
     thumb: /files/thumbnails/14fb2a0ccb43cb14fb2a0ccb47b0.jpg
     url: /files/original/14fb2a0ccb43cb14fb2a0ccb47b0.jpg
+    alt:
+      en: "Three women in Hooters uniforms (Siegen Lane, Baton Rouge II, LA) pose with a man in U.S. Army camouflage fatigues wearing \"I Love Hooters\" pins and a \"Simon\" name tape, inside a building with cinder block walls and an exit sign."
 geo:
 id: 19901
 item_type: Still Image

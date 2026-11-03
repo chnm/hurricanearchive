@@ -21,6 +21,8 @@ files:
     original_filename: P1010020delaware.JPG
     thumb: /files/thumbnails/14fb29f0dbed4c14fb29f0dc2377.jpg
     url: /files/original/14fb29f0dbed4c14fb29f0dc2377.jpg
+    alt:
+      en: "View from inside a military cargo plane's open rear ramp, with crew members in flight suits standing on the loading platform, overlooking a tarmac where a forklift carries cargo near distant hangars."
 geo:
 id: 23200
 item_type: Still Image

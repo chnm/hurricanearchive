@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6998_55cde3eb88.jpg
     thumb: /files/thumbnails/14fb29db730cba14fb29db73109e.jpg
     url: /files/original/14fb29db730cba14fb29db73109e.jpg
+    alt:
+      en: "Black-and-white studio portrait of a woman in a robe adorned with religious images holding a book and pointing upward, beside a young girl holding flowers and the robe's train."
 geo:
   address: ''
   lat: 29.64987

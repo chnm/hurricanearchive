@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28425.jpg
     thumb: /files/thumbnails/14fb2a6901a46314fb2a6901a848.jpg
     url: /files/original/14fb2a6901a46314fb2a6901a848.jpg
+    alt:
+      en: "The concrete foundation of a destroyed building remains with brick steps leading up to where an entrance once stood, surrounded by fallen trees and snapped trunks from storm damage."
 geo:
   address: ''
   lat: 0.0

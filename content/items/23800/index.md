@@ -21,6 +21,8 @@ files:
     original_filename: S4300045neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed038b8314fb29ed038f85.jpg
     url: /files/original/14fb29ed038b8314fb29ed038f85.jpg
+    alt:
+      en: "Military truck plows through a deeply flooded street past storefronts and debris, viewed from inside another military vehicle with its canvas-covered hood visible in the foreground."
 geo:
 id: 23800
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0221.JPG
     thumb: /files/thumbnails/14fb2a5501655d14fb2a55016942.jpg
     url: /files/original/14fb2a5501655d14fb2a55016942.jpg
+    alt:
+      en: "Remains of a partially collapsed cinder block wall stand amid scattered concrete blocks and debris, with storm-damaged, broken trees and a green tarp-covered ground in the background."
 geo:
 id: 4902
 item_type: Still Image

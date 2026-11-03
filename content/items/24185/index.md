@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea01024c14fb29ea01062f.jpg
     url: /files/original/14fb29ea01024c14fb29ea01062f.jpg
+    alt:
+      en: "A military-style front-loader tractor pushes thick mud and debris in a flooded residential street, with a partially submerged SUV and a brick house with arched doorways in the background."
 geo:
 id: 24185
 item_type: Still Image

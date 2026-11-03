@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0205.JPG
     thumb: /files/thumbnails/14fb2a550e7be914fb2a550e7fd0.jpg
     url: /files/original/14fb2a550e7be914fb2a550e7fd0.jpg
+    alt:
+      en: "Fallen trees and debris, including a collapsed metal structure, litter a wooded area near a body of water, with broken branches scattered across the muddy ground in the foreground."
 geo:
 id: 4886
 item_type: Still Image

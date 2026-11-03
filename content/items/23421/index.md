@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0096stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ef826afd14fb29ef826ee3.jpg
     url: /files/original/14fb29ef826afd14fb29ef826ee3.jpg
+    alt:
+      en: "Blurred aerial view of a mud-covered landscape with cracked, dried silt, a curved concrete walkway, gravel beds, and rounded shrubs, showing flood damage to a paved garden path."
 geo:
 id: 23421
 item_type: Still Image

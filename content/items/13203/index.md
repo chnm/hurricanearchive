@@ -21,6 +21,8 @@ files:
     original_filename: 197 escape.jpg
     thumb: /files/thumbnails/14fb2a1f5a8ba214fb2a1f5a8f87.jpg
     url: /files/original/14fb2a1f5a8ba214fb2a1f5a8f87.jpg
+    alt:
+      en: "A vehicle's side step and running board are visible above turbulent, muddy floodwater, with reflections of power lines and trees in the car's body panel."
 geo:
 id: 13203
 item_type: Still Image

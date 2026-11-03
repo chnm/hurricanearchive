@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1574superdome.JPG
     thumb: /files/thumbnails/14fb29e2a6e7e014fb29e2a6ebc7.jpg
     url: /files/original/14fb29e2a6e7e014fb29e2a6ebc7.jpg
+    alt:
+      en: "A convoy of camouflage military trucks moves down a deeply flooded city street lined with submerged cars, trees, and a parking garage, with an elevated highway overpass in the background."
 geo:
 id: 25049
 item_type: Still Image

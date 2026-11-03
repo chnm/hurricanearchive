@@ -21,6 +21,8 @@ files:
     original_filename: woods hole lane katrina2.jpg
     thumb: /files/thumbnails/14fb29cc424ccd14fb29cc4250b3.jpg
     url: /files/original/14fb29cc424ccd14fb29cc4250b3.jpg
+    alt:
+      en: "A gravel road with a minivan parked beside scattered storm debris and fallen trees, with a wooden \"Woods Hole Inn\" sign standing among broken branches to the right."
 geo:
 id: 30824
 item_type: Still Image

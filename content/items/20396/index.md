@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009M.JPG
     thumb: /files/thumbnails/14fb2a080915a914fb2a0809198b.jpg
     url: /files/original/14fb2a080915a914fb2a0809198b.jpg
+    alt:
+      en: "Blurry interior view of a room with an orange door, a second doorway with glass panels, beige walls, and a red chair near a light-colored table in the foreground."
 geo:
 id: 20396
 item_type: Still Image

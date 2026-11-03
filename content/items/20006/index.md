@@ -21,6 +21,8 @@ files:
     original_filename: Picture 103cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bb6835214fb2a0bb68738.jpg
     url: /files/original/14fb2a0bb6835214fb2a0bb68738.jpg
+    alt:
+      en: "Gravel-edged road seen from beside a military-style vehicle, lined by power lines, a concrete flood wall, and debris including an overturned boat, with a boat sitting in floodwater further down the road."
 geo:
 id: 20006
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27964.jpg
     thumb: /files/thumbnails/14fb2a6965915b14fb2a6965955a.jpg
     url: /files/original/14fb2a6965915b14fb2a6965955a.jpg
+    alt:
+      en: "Exterior of the New Orleans Superdome with a fallen Hornets banner and metal pole lying on the ground in the foreground, near shadowed open bays beneath the building."
 geo:
   address: ''
   lat: 0.0

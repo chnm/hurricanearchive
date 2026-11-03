@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0196-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0004a70f14fb2a0004aaf6.jpg
     url: /files/original/14fb2a0004a70f14fb2a0004aaf6.jpg
+    alt:
+      en: "Two men sit in the back of a truck bed, one wearing sunglasses and a cap with his hand on the other man's shoulder, a Bud Light bottle nearby, with trees and a cleared landscape in the background."
 geo:
 id: 21202
 item_type: Still Image

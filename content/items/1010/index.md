@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28402.jpg
     thumb: /files/thumbnails/14fb2a6b6bae7714fb2a6b6bb226.jpg
     url: /files/original/14fb2a6b6bae7714fb2a6b6bb226.jpg
+    alt:
+      en: "Several orange-hulled shrimp boats, including one named \"Hung Le,\" are docked together at a marina under a dark, cloudy sky, their tall rigging masts rising above the water."
 geo:
   address: ''
   lat: 0.0

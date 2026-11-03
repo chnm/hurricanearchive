@@ -23,6 +23,8 @@ files:
     original_filename: 336697070_72c6e8130a.jpg
     thumb: /files/thumbnails/14fb29d46c017614fb29d46c05d0.jpg
     url: /files/original/14fb29d46c017614fb29d46c05d0.jpg
+    alt:
+      en: "Debris-strewn muddy field with a broken, collapsed levee wall in the background, scattered litter and a tire in the foreground, and industrial silos visible on the horizon under a cloudy sky."
 geo:
 id: 27341
 item_type: Still Image

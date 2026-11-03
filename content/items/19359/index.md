@@ -21,6 +21,8 @@ files:
     original_filename: 769(sept12)Picture3engineers.png
     thumb: /files/thumbnails/14fb2a10d664de14fb2a10d668c4.jpg
     url: /files/original/14fb2a10d664de14fb2a10d668c4.jpg
+    alt:
+      en: "A group of people in military-style uniforms stand amid storm debris and fallen tree limbs, with an overturned red boat nearby and a yellow building in the background."
 geo:
 id: 19359
 item_type: Still Image

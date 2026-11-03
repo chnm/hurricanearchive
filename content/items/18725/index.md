@@ -21,6 +21,8 @@ files:
     original_filename: S4300091alero.JPG
     thumb: /files/thumbnails/14fb2a155cb43e14fb2a155cb8c2.jpg
     url: /files/original/14fb2a155cb43e14fb2a155cb8c2.jpg
+    alt:
+      en: "Several men in military camouflage uniforms gather around tables covered with papers, laptops, and phones in a room with large windows and maps posted on the walls."
 geo:
 id: 18725
 item_type: Still Image

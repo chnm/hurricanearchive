@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0112-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e6e26bc314fb29e6e26f7a.jpg
     url: /files/original/14fb29e6e26bc314fb29e6e26f7a.jpg
+    alt:
+      en: "Aerial view of a flooded structure's foundation outlined by scattered debris—broken bricks, roofing material, and cinder blocks—surrounded by murky brown floodwater and bare trees."
 geo:
 id: 24540
 item_type: Still Image

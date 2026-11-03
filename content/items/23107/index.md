@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0117OEP.JPG
     thumb: /files/thumbnails/14fb29f18939e614fb29f1893dcc.jpg
     url: /files/original/14fb29f18939e614fb29f1893dcc.jpg
+    alt:
+      en: "A man in military camouflage uniform sits at a desk reading a Dell computer monitor displaying an email message, surrounded by a cubicle covered in sticky notes and papers."
 geo:
 id: 23107
 item_type: Still Image

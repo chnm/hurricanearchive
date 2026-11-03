@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0080-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a03bd19b014fb2a03bd2ae0.jpg
     url: /files/original/14fb2a03bd19b014fb2a03bd2ae0.jpg
+    alt:
+      en: "Floodwaters surround a single-story house and carport with a pickup truck, submerging the lower structure amid trees, with farmland and grain silos visible in the distance under an overcast sky."
 geo:
 id: 20794
 item_type: Still Image

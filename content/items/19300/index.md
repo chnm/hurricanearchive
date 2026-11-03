@@ -21,6 +21,8 @@ files:
     original_filename: J2 (2).JPG
     thumb: /files/thumbnails/14fb2a1147ff2314fb2a11480307.jpg
     url: /files/original/14fb2a1147ff2314fb2a11480307.jpg
+    alt:
+      en: "Aerial view of a Navy aircraft carrier docked alongside a city waterfront, with several helicopters on its deck, crew members in colored vests, and high-rise buildings visible in the background."
 geo:
 id: 19300
 item_type: Still Image

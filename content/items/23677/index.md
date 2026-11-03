@@ -21,6 +21,8 @@ files:
     original_filename: P1010118empireS&R.JPG
     thumb: /files/thumbnails/14fb29edee598214fb29edee5d67.jpg
     url: /files/original/14fb29edee598214fb29edee5d67.jpg
+    alt:
+      en: "Flooded neighborhood with a white mobile home partially submerged in standing water, its roof damaged, surrounded by trees, power lines, and a wider flooded landscape beyond, viewed from an elevated roadway."
 geo:
 id: 23677
 item_type: Still Image

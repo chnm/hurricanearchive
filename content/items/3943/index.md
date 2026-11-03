@@ -21,6 +21,8 @@ files:
     original_filename: DSC00962.JPG
     thumb: /files/thumbnails/14fb2a58ce27ff14fb2a58ce2b7e.jpg
     url: /files/original/14fb2a58ce27ff14fb2a58ce2b7e.jpg
+    alt:
+      en: "Two military helicopters parked on a grassy strip beside a calm body of water, with a long low bridge visible on the horizon under an overcast sky; timestamp reads 5:07 PM."
 geo:
 id: 3943
 item_type: Still Image

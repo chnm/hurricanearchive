@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2185.JPG
     thumb: /files/thumbnails/14fb2a00b3e6be14fb2a00b3eaa4.jpg
     url: /files/original/14fb2a00b3e6be14fb2a00b3eaa4.jpg
+    alt:
+      en: "View from inside a helicopter cockpit, with an airman's shoulder and American flag patch in the foreground, overlooking a runway and a crowd of people gathered near a damaged building in the distance."
 geo:
 id: 21071
 item_type: Still Image

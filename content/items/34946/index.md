@@ -20,6 +20,8 @@ files:
     original_filename: 2438608781_fdc090e567.
     thumb: /files/thumbnails/14fb29c83ec62a14fb29c83eca10.jpg
     url: /files/original/14fb29c83ec62a14fb29c83eca10.jpg
+    alt:
+      en: "Aerial view of a straight canal lined with floodwalls running through a residential neighborhood with sparse, leafless trees, bordered by a body of water in the distance; dated 02/07/06."
 geo:
 id: 34946
 item_type: Still Image

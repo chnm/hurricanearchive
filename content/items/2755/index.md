@@ -21,6 +21,8 @@ files:
     original_filename: 50.jpg
     thumb: /files/thumbnails/14fb2a6051ad9114fb2a6051b186.jpg
     url: /files/original/14fb2a6051ad9114fb2a6051b186.jpg
+    alt:
+      en: "Child's crayon drawing labeled \"Trinity-4,\" featuring a large purple outlined shape, scattered circles and lines in blue and red, cross-like marks, and a dark scribbled blob with yellow accents."
 geo:
 id: 2755
 item_type: Still Image

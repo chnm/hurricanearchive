@@ -21,6 +21,8 @@ files:
     original_filename: 09140034neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec5e49a514fb29ec5e4d8a.jpg
     url: /files/original/14fb29ec5e49a514fb29ec5e4d8a.jpg
+    alt:
+      en: "Debris-strewn street lined with damaged houses, a leaning corrugated metal fence, and a fire hydrant, with a military vehicle in the foreground and a \"Cash Houses\" sign visible near the sidewalk."
 geo:
 id: 23921
 item_type: Still Image

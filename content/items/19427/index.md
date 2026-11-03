@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0089engineers.JPG
     thumb: /files/thumbnails/14fb2a103c00bd14fb2a103c03b7.jpg
     url: /files/original/14fb2a103c00bd14fb2a103c03b7.jpg
+    alt:
+      en: "Two men in military fatigues and caps sit inside a covered vehicle, with debris and wreckage visible through the open window behind them."
 geo:
 id: 19427
 item_type: Still Image

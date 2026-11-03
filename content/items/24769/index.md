@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2091superdome.JPG
     thumb: /files/thumbnails/14fb29e4e4459514fb29e4e44979.jpg
     url: /files/original/14fb29e4e4459514fb29e4e44979.jpg
+    alt:
+      en: "Wet city street lined with parked vehicles and office towers after a storm, with downed tree limbs, scattered debris, and a Budweiser/Coca-Cola sign visible amid high-rise buildings."
 geo:
 id: 24769
 item_type: Still Image

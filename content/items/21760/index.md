@@ -21,6 +21,8 @@ files:
     original_filename: katrina 028.jpg
     thumb: /files/thumbnails/14fb29fbebda3c14fb29fbebde22.jpg
     url: /files/original/14fb29fbebda3c14fb29fbebde22.jpg
+    alt:
+      en: "Rooftop parking structure with a line of uniformed personnel near a fence, overlooking a downtown skyline and a large curved domed building at dusk; timestamp \"2 8:52 PM\" overlaid in red."
 geo:
 id: 21760
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0243-9-25.JPG
     thumb: /files/thumbnails/14fb29ff0ce3c214fb29ff0ce79f.jpg
     url: /files/original/14fb29ff0ce3c214fb29ff0ce79f.jpg
+    alt:
+      en: "Aerial view of a flooded industrial refinery with numerous pipes, storage tanks, and towers surrounded by standing water, bordered by a levee road and open flooded fields with grazing cattle in the foreground."
 geo:
 id: 21390
 item_type: Still Image

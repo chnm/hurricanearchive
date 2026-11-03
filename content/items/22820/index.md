@@ -21,6 +21,8 @@ files:
     original_filename: S430023017thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f35cf8c614fb29f35d0088.jpg
     url: /files/original/14fb29f35cf8c614fb29f35d0088.jpg
+    alt:
+      en: "Floodwater fills a canal beside a concrete levee, with damaged homes, scattered debris, and fallen trees along the shoreline; two people stand near a brick house with a destroyed garage."
 geo:
 id: 22820
 item_type: Still Image

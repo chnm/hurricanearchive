@@ -23,6 +23,8 @@ files:
     original_filename: _MG_6975_40649d4061.jpg
     thumb: /files/thumbnails/14fb29db82f80814fb29db82fbea.jpg
     url: /files/original/14fb29db82f80814fb29db82fbea.jpg
+    alt:
+      en: "Five girls in white First Communion dresses and veils stand in a row holding prayer books, posed in front of a brick wall with shuttered windows."
 geo:
   address: ''
   lat: 29.87876

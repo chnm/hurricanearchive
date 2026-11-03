@@ -21,6 +21,8 @@ files:
     original_filename: 09180012plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec499b9714fb29ec499fec.jpg
     url: /files/original/14fb29ec499b9714fb29ec499fec.jpg
+    alt:
+      en: "Runway and road in foreground with a debris field beyond, including damaged mobile homes and scattered wreckage amid trees, under a clear sky."
 geo:
 id: 23942
 item_type: Still Image

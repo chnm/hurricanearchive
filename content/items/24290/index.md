@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-10-9A.jpg
     thumb: /files/thumbnails/14fb29e906221c14fb29e90625fa.jpg
     url: /files/original/14fb29e906221c14fb29e90625fa.jpg
+    alt:
+      en: "Flooded city street beneath an overpass, with military trucks and a pickup truck navigating deep water as uniformed personnel and civilians unload supplies, skyscrapers visible in the background."
 geo:
 id: 24290
 item_type: Still Image

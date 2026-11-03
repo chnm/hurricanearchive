@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1462superdome.JPG
     thumb: /files/thumbnails/14fb29e3a4579214fb29e3a45b60.jpg
     url: /files/original/14fb29e3a4579214fb29e3a45b60.jpg
+    alt:
+      en: "Flooded city street lined with partially submerged cars and streetlights, with high-rise buildings, including one labeled \"WellSouth,\" visible in the hazy background."
 geo:
 id: 24949
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28483.jpg
     thumb: /files/thumbnails/14fb2a69c90d3414fb2a69c91119.jpg
     url: /files/original/14fb2a69c90d3414fb2a69c91119.jpg
+    alt:
+      en: "Cluttered bedroom with an unmade bed covered in laundry, a stuffed monkey toy, and a plastic basket; a Chicago Bulls poster hangs above the headboard, with a mirrored dresser near the window."
 geo:
   address: ''
   lat: 0.0

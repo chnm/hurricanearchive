@@ -21,6 +21,8 @@ files:
     original_filename: 102-10_42c2c45f53.jpg
     thumb: /files/thumbnails/14fb2a21c13efd14fb2a21c142db.jpg
     url: /files/original/14fb2a21c13efd14fb2a21c142db.jpg
+    alt:
+      en: "A woman in a red-and-white striped sleeveless top and white pants sits against a brick wall, gold bracelet on her wrist, looking down with one leg crossed over the other."
 geo:
 id: 12692
 item_type: Still Image

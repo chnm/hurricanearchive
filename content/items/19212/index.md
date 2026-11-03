@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 122.jpg
     thumb: /files/thumbnails/14fb2a11c9899c14fb2a11c98d24.jpg
     url: /files/original/14fb2a11c9899c14fb2a11c98d24.jpg
+    alt:
+      en: "A military helicopter hovers low over a paved lot, with storm-damaged trees, houses, and a radio tower visible in the background under a partly cloudy sky."
 geo:
 id: 19212
 item_type: Still Image

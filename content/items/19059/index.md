@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0224.JPG
     thumb: /files/thumbnails/14fb2a13796fd614fb2a137973ae.jpg
     url: /files/original/14fb2a13796fd614fb2a137973ae.jpg
+    alt:
+      en: "A person in military flight gear and helmet leans out of an aircraft doorway, gripping equipment near the open hatch, with bright daylight visible outside."
 geo:
 id: 19059
 item_type: Still Image

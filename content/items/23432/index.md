@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0101abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef78627114fb29ef786a58.jpg
     url: /files/original/14fb29ef78627114fb29ef786a58.jpg
+    alt:
+      en: "The body of a reddish-brown animal lies partially submerged in dry marsh grass near a body of water, its white underbelly visible against the dried vegetation."
 geo:
 id: 23432
 item_type: Still Image

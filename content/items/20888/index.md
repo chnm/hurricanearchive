@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0140-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0226b9b614fb2a0226bd9c.jpg
     url: /files/original/14fb2a0226b9b614fb2a0226bd9c.jpg
+    alt:
+      en: "Aerial view of a storm-damaged house with partially missing roofing, surrounded by bare, debris-strewn trees and extensive floodwater covering the surrounding yard and roadways."
 geo:
 id: 20888
 item_type: Still Image

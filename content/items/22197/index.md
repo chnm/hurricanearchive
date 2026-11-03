@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1004Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f927009414fb29f927047b.jpg
     url: /files/original/14fb29f927009414fb29f927047b.jpg
+    alt:
+      en: "A military police car labeled \"Police\" and \"MP17\" is parked at an intersection under a red traffic light, with a Humvee approaching a brick gate entrance in the background."
 geo:
 id: 22197
 item_type: Still Image

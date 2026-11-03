@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (40).jpg
     thumb: /files/thumbnails/14fb2a5cc6f59014fb2a5cc6f982.jpg
     url: /files/original/14fb2a5cc6f59014fb2a5cc6f982.jpg
+    alt:
+      en: "A devastated residential street with standing floodwater and massive piles of splintered wood debris from collapsed houses; a person in a red cap wades through the water amid leaning utility poles."
 geo:
 id: 3278
 item_type: Still Image

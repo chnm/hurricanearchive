@@ -21,6 +21,8 @@ files:
     original_filename: S4300156stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf5f57a14fb29ecf5f957.jpg
     url: /files/original/14fb29ecf5f57a14fb29ecf5f957.jpg
+    alt:
+      en: "Close-up of a car's open trunk with license plate \"HMK 819,\" parked behind another vehicle in a driveway, with a brick house and green trash bin in the background."
 geo:
 id: 23817
 item_type: Still Image

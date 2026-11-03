@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0046.JPG
     thumb: /files/thumbnails/14fb2a1bada6b414fb2a1badaa98.jpg
     url: /files/original/14fb2a1bada6b414fb2a1badaa98.jpg
+    alt:
+      en: "Three men in military camouflage and brown t-shirts stand near a tan tanker truck marked \"FLAMMABLE, NO SMOKING WITHIN 50 FT,\" with a silver tarp draped over equipment and trees in the background."
 geo:
   address: ''
   lat: 0.0

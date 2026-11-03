@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0130-21.JPG
     thumb: /files/thumbnails/14fb2a032aaa7014fb2a032aae57.jpg
     url: /files/original/14fb2a032aaa7014fb2a032aae57.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms converse near a chain-link fence and a \"HEADQUARTERS\" sign, with a cardboard \"SALUTE AREA\" marker and parked vehicles visible in the background."
 geo:
 id: 20838
 item_type: Still Image

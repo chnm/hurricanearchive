@@ -21,6 +21,8 @@ files:
     original_filename: Picture 057engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa70e5b14fb2a0fa7124b.jpg
     url: /files/original/14fb2a0fa70e5b14fb2a0fa7124b.jpg
+    alt:
+      en: "Aerial view of a commercial complex with a long motel building, warehouses, and a parking lot filled with semi-trucks and trailers, surrounded by dense forest and scattered residential houses."
 geo:
 id: 19497
 item_type: Still Image

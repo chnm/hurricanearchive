@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1818superdome.JPG
     thumb: /files/thumbnails/14fb29e12623e314fb29e12627d0.jpg
     url: /files/original/14fb29e12623e314fb29e12627d0.jpg
+    alt:
+      en: "Military personnel and medical staff transport a patient on a gurney, using a manual resuscitator bag, while rain-soaked bystanders look on near a parked vehicle."
 geo:
 id: 25193
 item_type: Still Image

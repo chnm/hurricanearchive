@@ -21,6 +21,8 @@ files:
     original_filename: 20050904MS-EO A1146-RC-26B ORLEANS PARISH HURRICANE KATRINA.jpg
     thumb: /files/thumbnails/14fb29fb7a046c14fb29fb7a0851.jpg
     url: /files/original/14fb29fb7a046c14fb29fb7a0851.jpg
+    alt:
+      en: "Aerial black-and-white surveillance photo of flooded streets in Orleans Parish near Bundy Rd and I-10, showing a large retail building (Sam's Club/Wal-Mart) and surrounding submerged residential rooftops after Hurricane Katrina."
 geo:
 id: 21824
 item_type: Still Image

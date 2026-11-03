@@ -21,6 +21,8 @@ files:
     original_filename: Picture 059cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bea148914fb2a0bea19a1.jpg
     url: /files/original/14fb2a0bea148914fb2a0bea19a1.jpg
+    alt:
+      en: "A white and green patrol SUV with roof lights parked near a damaged building, with scattered debris, trash, and a blue tarp littering the foreground pavement and grass strip."
 geo:
 id: 19962
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-014_0fd1f4b5a5.jpg
     thumb: /files/thumbnails/14fb2a16add5cd14fb2a16add9af.jpg
     url: /files/original/14fb2a16add5cd14fb2a16add9af.jpg
+    alt:
+      en: "Volunteers work along a long wooden barrier structure in marsh waters, packing discarded Christmas trees and brush into the fencing to help rebuild eroded wetlands, with a small boat and marsh grasses nearby."
 geo:
 id: 15273
 item_type: Still Image

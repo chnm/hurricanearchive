@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27962.jpg
     thumb: /files/thumbnails/14fb2a6c70725e14fb2a6c707644.jpg
     url: /files/original/14fb2a6c70725e14fb2a6c707644.jpg
+    alt:
+      en: "Exterior view of the Superdome's curved metal roof and concrete lower façade, with a fallen metal pole and a purple Hornets banner lying on the pavement in the foreground."
 geo:
   address: ''
   lat: 0.0

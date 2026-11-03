@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0125-21.JPG
     thumb: /files/thumbnails/14fb29e63994a514fb29e639988a.jpg
     url: /files/original/14fb29e63994a514fb29e639988a.jpg
+    alt:
+      en: "Blurred, motion-streaked photo of several people in camouflage military uniforms indoors under bright ceiling lights, likely captured mid-movement."
 geo:
 id: 24604
 item_type: Still Image

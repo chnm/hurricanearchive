@@ -21,6 +21,8 @@ files:
     original_filename: 20051011-A-2421S-0122jrbpresvisit.jpg
     thumb: /files/thumbnails/14fb29e58b9df414fb29e58ba1da.jpg
     url: /files/original/14fb29e58b9df414fb29e58ba1da.jpg
+    alt:
+      en: "A man in a blue shirt reaches to shake hands with a crowd behind barricades at a \"Reserve Base New Orleans\" facility, with military personnel and bystanders gathered nearby."
 geo:
 id: 24689
 item_type: Still Image

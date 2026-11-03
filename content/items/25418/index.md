@@ -21,6 +21,8 @@ files:
     original_filename: S4300062superdome.JPG
     thumb: /files/thumbnails/14fb29ddf1066114fb29ddf1581a.jpg
     url: /files/original/14fb29ddf1066114fb29ddf1581a.jpg
+    alt:
+      en: "Floodwater fills a street between a multi-story building and a parking garage, submerging cars and uprooted trees, with military Humvees parked on an upper garage level; a partially visible \"Macy's\" sign appears in the background."
 geo:
 id: 25418
 item_type: Still Image

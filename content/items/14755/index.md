@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_04_0c69230f41.jpg
     thumb: /files/thumbnails/14fb2a17ec026214fb2a17ec0646.jpg
     url: /files/original/14fb2a17ec026214fb2a17ec0646.jpg
+    alt:
+      en: "A man kneels beside a young girl dressed in a white angel costume with wings, tiara, and star wand, posing in front of a row of large trophies."
 geo:
 id: 14755
 item_type: Still Image

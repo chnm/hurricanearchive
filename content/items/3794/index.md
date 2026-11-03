@@ -21,6 +21,8 @@ files:
     original_filename: USS Alabama 6.jpg
     thumb: /files/thumbnails/14fb2a5983f92214fb2a5983fd06.jpg
     url: /files/original/14fb2a5983f92214fb2a5983fd06.jpg
+    alt:
+      en: "Large naval gun mounted on a raised platform with chain-link barriers, displayed on a grassy field, with a battleship visible in the background under a cloudy sky."
 geo:
 id: 3794
 item_type: Still Image

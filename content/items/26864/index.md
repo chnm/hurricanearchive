@@ -21,6 +21,8 @@ files:
     original_filename: wittieststacietwiggsgaveydealminana_d5f989506e.jpg
     thumb: /files/thumbnails/14fb29d7099e9214fb29d709a2dc.jpg
     url: /files/original/14fb29d7099e9214fb29d709a2dc.jpg
+    alt:
+      en: "Black-and-white yearbook photo captioned \"Wittiest,\" showing a young man sitting in a large tree and a young woman standing beside it, with the names Stacie Twiggs and Tavey deAlminana below."
 geo:
 id: 26864
 item_type: Still Image

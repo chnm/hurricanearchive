@@ -23,6 +23,8 @@ files:
     original_filename: 163080677_4487fe9360.jpg
     thumb: /files/thumbnails/14fb29d23e957d14fb29d23e9af8.jpg
     url: /files/original/14fb29d23e957d14fb29d23e9af8.jpg
+    alt:
+      en: "Abandoned brick colonnade with a faded \"Rite Aid\" sign on boarded windows, visible water stain lines on the walls, and debris scattered across the cracked pavement."
 geo:
 id: 28579
 item_type: Still Image

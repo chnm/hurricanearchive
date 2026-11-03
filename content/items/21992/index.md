@@ -21,6 +21,8 @@ files:
     original_filename: Picture 323-J2.jpg
     thumb: /files/thumbnails/14fb29fa41aa8114fb29fa41adc8.jpg
     url: /files/original/14fb29fa41aa8114fb29fa41adc8.jpg
+    alt:
+      en: "Two white SUVs with emergency light bars on their roofs are parked along a street in front of a stone building with barred windows."
 geo:
 id: 21992
 item_type: Still Image

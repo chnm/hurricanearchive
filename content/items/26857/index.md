@@ -21,6 +21,8 @@ files:
     original_filename: antoineduplessismostpopular_58584307ba.jpg
     thumb: /files/thumbnails/14fb29d72c30a514fb29d72cd4e1.jpg
     url: /files/original/14fb29d72c30a514fb29d72cd4e1.jpg
+    alt:
+      en: "Yearbook page featuring a black-and-white photo of a young man in a light-colored suit and sunglasses, alongside a printed biography titled \"Antoine Duplessis\" under the heading \"Most Popular.\""
 geo:
 id: 26857
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58bb4eec14fb2a58bb5297.jpg
     url: /files/original/14fb2a58bb4eec14fb2a58bb5297.jpg
+    alt:
+      en: "A line of U.S. Coast Guard personnel in uniforms and tactical vests stand outside a tent, greeting a man in a white shirt who shakes hands with one member; timestamp reads 3:55 PM."
 geo:
 id: 3960
 item_type: Still Image

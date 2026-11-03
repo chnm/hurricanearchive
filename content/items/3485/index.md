@@ -24,6 +24,8 @@ files:
     original_filename: P1010059.JPG
     thumb: /files/thumbnails/14fb2a5b856f7214fb2a5b857358.jpg
     url: /files/original/14fb2a5b856f7214fb2a5b857358.jpg
+    alt:
+      en: "Interior of a storm-damaged apartment with collapsed, peeling wood paneling and insulation hanging from the ceiling, a torn sofa, a cable spool, laundry baskets, and debris scattered across the floor."
 geo:
 id: 3485
 item_type: Still Image

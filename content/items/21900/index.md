@@ -21,6 +21,8 @@ files:
     original_filename: Slidell LTC.jpg
     thumb: /files/thumbnails/14fb29fb133ffe14fb29fb1343e2.jpg
     url: /files/original/14fb29fb133ffe14fb29fb1343e2.jpg
+    alt:
+      en: "Aerial view of Slidell, Louisiana post-hurricane, showing flooded roadways, scattered boats in a marina, damaged trees, and a large building with a white roof, timestamped 09.05.2005 18:00."
 geo:
 id: 21900
 item_type: Still Image

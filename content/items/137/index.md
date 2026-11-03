@@ -26,6 +26,8 @@ files:
     original_filename: xin_260902051141710190976_76dd019574.jpg
     thumb: /files/thumbnails/14fb2a70e3086f14fb2a70e30b3f.jpg
     url: /files/original/14fb2a70e3086f14fb2a70e30b3f.jpg
+    alt:
+      en: "Aerial view of a person being hoisted by helicopter cable above floodwaters, wearing a rescue harness with a red and blue pack, surrounded by submerged rooftops and rippling water below."
 geo:
   address: ''
   lat: 0.0

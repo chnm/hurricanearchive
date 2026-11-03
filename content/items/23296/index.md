@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040cameronS&R.JPG
     thumb: /files/thumbnails/14fb29f00e7cfb14fb29f00e80e1.jpg
     url: /files/original/14fb29f00e7cfb14fb29f00e80e1.jpg
+    alt:
+      en: "Aerial view of a debris-strewn shoreline where muddy water meets a sandy, grass-covered bank scattered with scattered trash and containers; a dark blurred shape partially obscures the lower left corner."
 geo:
 id: 23296
 item_type: Still Image

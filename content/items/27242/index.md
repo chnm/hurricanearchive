@@ -20,6 +20,8 @@ files:
     original_filename: 9th Ward 1.JPG
     thumb: /files/thumbnails/14fb29d5ae808d14fb29d5ae87a4.jpg
     url: /files/original/14fb29d5ae808d14fb29d5ae87a4.jpg
+    alt:
+      en: "Storm-damaged single-story houses with collapsed walls and stripped roofing stand amid scattered debris, with an overturned vehicle and a vertical-lift bridge visible in the background under an overcast sky."
 geo:
 id: 27242
 item_type: Still Image

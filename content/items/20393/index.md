@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009-9-25.JPG
     thumb: /files/thumbnails/14fb2a080b9dee14fb2a080ba1be.jpg
     url: /files/original/14fb2a080b9dee14fb2a080ba1be.jpg
+    alt:
+      en: "Blurry, sideways photo of a woman with short blonde hair in a light blue shirt, seated at a table with dishes and decorative items in the background."
 geo:
 id: 20393
 item_type: Still Image

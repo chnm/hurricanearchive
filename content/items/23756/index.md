@@ -21,6 +21,8 @@ files:
     original_filename: P1010197empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed3dd95214fb29ed3de115.jpg
     url: /files/original/14fb29ed3dd95214fb29ed3de115.jpg
+    alt:
+      en: "A white wooden church with a tall steeple stands largely intact amid storm debris, surrounded by bare trees, scattered wreckage, and a muddy, flooded roadside."
 geo:
 id: 23756
 item_type: Still Image

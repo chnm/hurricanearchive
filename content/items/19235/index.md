@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014rita.JPG
     thumb: /files/thumbnails/14fb2a11b6e68314fb2a11b6ea71.jpg
     url: /files/original/14fb2a11b6e68314fb2a11b6ea71.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms and civilians gather outdoors near a blue metal railing and stone pillar, with one man in a dark polo shirt writing on a notepad."
 geo:
 id: 19235
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0330.JPG
     thumb: /files/thumbnails/14fb2a549c06e414fb2a549c0ac9.jpg
     url: /files/original/14fb2a549c06e414fb2a549c0ac9.jpg
+    alt:
+      en: "A damaged white house with a wooden exterior staircase leading to an upper deck, missing gutter and fascia boards, and storm debris scattered on the muddy ground below."
 geo:
 id: 4985
 item_type: Still Image

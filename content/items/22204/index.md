@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1011Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f92176fd14fb29f9217ae3.jpg
     url: /files/original/14fb29f92176fd14fb29f9217ae3.jpg
+    alt:
+      en: "Soldiers in camouflage load gear into a U.S. Army helicopter parked on a grassy lot, with parked cars in the foreground and trees and buildings in the background."
 geo:
 id: 22204
 item_type: Still Image

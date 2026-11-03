@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1304Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f657e54a14fb29f657f9cb.jpg
     url: /files/original/14fb29f657e54a14fb29f657f9cb.jpg
+    alt:
+      en: "Floodwaters nearly submerge buildings with only their metal roofs visible above the waterline, utility poles rising from the water, as a small boat with a person in a yellow jacket navigates the flooded street under a gray, overcast sky."
 geo:
 id: 22463
 item_type: Still Image

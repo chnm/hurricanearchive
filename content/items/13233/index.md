@@ -21,6 +21,8 @@ files:
     original_filename: 228 unshattered2.jpg
     thumb: /files/thumbnails/14fb2a1f1b890014fb2a1f1b9c05.jpg
     url: /files/original/14fb2a1f1b890014fb2a1f1b9c05.jpg
+    alt:
+      en: "Debris from storm damage including bent metal roofing or siding panels, a torn white material, and an intact frosted glass light fixture globe resting among the wreckage."
 geo:
 id: 13233
 item_type: Still Image

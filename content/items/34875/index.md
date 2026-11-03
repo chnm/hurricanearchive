@@ -20,6 +20,8 @@ files:
     original_filename: 2457566254_adb725e99a.
     thumb: /files/thumbnails/14fb29c8d1627e14fb29c8d16665.jpg
     url: /files/original/14fb29c8d1627e14fb29c8d16665.jpg
+    alt:
+      en: "Industrial waterfront scene with several red cranes, barges, and a tugboat docked along a rusted hull, with a person standing on a barge marked \"90\" under an overcast sky."
 geo:
 id: 34875
 item_type: Still Image

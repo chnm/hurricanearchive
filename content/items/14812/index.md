@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TrinityMiller_07_c1c0c2007c.jpg
     thumb: /files/thumbnails/14fb2a178b1eb714fb2a178b2281.jpg
     url: /files/original/14fb2a178b1eb714fb2a178b2281.jpg
+    alt:
+      en: "A young girl with two orange and red ribbon bows in her hair smiles broadly while wearing a colorful flower lei, photographed indoors at an upward angle."
 geo:
 id: 14812
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2083superdome.JPG
     thumb: /files/thumbnails/14fb29deb5f20214fb29deb5f5e7.jpg
     url: /files/original/14fb29deb5f20214fb29deb5f5e7.jpg
+    alt:
+      en: "Four people in camouflage and flight suits support two civilians between them while walking across a wet, open paved area, one carrying a Wilson duffel bag, with an elevated highway in the background."
 geo:
 id: 25356
 item_type: Still Image

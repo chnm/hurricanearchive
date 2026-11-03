@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1727superdome.JPG
     thumb: /files/thumbnails/14fb29e22110cb14fb29e22114b1.jpg
     url: /files/original/14fb29e22110cb14fb29e22114b1.jpg
+    alt:
+      en: "Medical personnel in scrubs and military fatigues lift an elderly patient on a stretcher with medical equipment, surrounded by a white van in the background."
 geo:
 id: 25124
 item_type: Still Image

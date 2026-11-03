@@ -21,6 +21,8 @@ files:
     original_filename: Picture 102engineers.jpg
     thumb: /files/thumbnails/14fb2a0f54fbdf14fb2a0f54ffc4.jpg
     url: /files/original/14fb2a0f54fbdf14fb2a0f54ffc4.jpg
+    alt:
+      en: "Aerial view of a university campus showing several multi-story buildings with heavily damaged roofs—missing membranes and exposed insulation—along with scattered debris on walkways and lawns below."
 geo:
 id: 19542
 item_type: Still Image

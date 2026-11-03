@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea02bb9314fb29ea02bf78.jpg
     url: /files/original/14fb29ea02bb9314fb29ea02bf78.jpg
+    alt:
+      en: "Aerial view of a flattened coastal landscape with scattered debris, standing floodwater, utility poles, and a yellow construction vehicle amid marshland stretching toward the horizon."
 geo:
 id: 24183
 item_type: Still Image

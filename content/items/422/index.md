@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0288_ad773ea7e1.JPG
     thumb: /files/thumbnails/14fb2a7006198714fb2a70061d69.jpg
     url: /files/original/14fb2a7006198714fb2a70061d69.jpg
+    alt:
+      en: "Three blue street signs on a pole read \"Florida Av,\" \"Elysian Fields Av,\" and \"Hope,\" mounted beneath a concrete overpass in New Orleans."
 geo:
   address: ''
   lat: 29.993002284551103

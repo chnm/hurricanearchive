@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0025.JPG
     thumb: /files/thumbnails/14fb2a577e3ee314fb2a577e42bb.jpg
     url: /files/original/14fb2a577e3ee314fb2a577e42bb.jpg
+    alt:
+      en: "A weathered white shrimp boat named \"Aveugle Oulett\" rests beside a damaged dock littered with broken concrete and debris, with power lines crossing overhead and marshland in the distance."
 geo:
 id: 4139
 item_type: Still Image

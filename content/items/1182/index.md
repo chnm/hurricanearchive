@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28198.jpg
     thumb: /files/thumbnails/14fb2a6a99ee4c14fb2a6a99f232.jpg
     url: /files/original/14fb2a6a99ee4c14fb2a6a99f232.jpg
+    alt:
+      en: "A sandy, debris-strewn lot with a makeshift wooden post-and-rail barrier in the foreground, while snapped and stripped trees line the horizon under a clear sky."
 geo:
   address: ''
   lat: 0.0

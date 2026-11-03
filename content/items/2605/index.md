@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9544.jpg
     thumb: /files/thumbnails/14fb2a64430e8c14fb2a6443117e.jpg
     url: /files/original/14fb2a64430e8c14fb2a6443117e.jpg
+    alt:
+      en: "Exterior wall of a Family Dentistry building spray-painted with handwritten animal rescue information, including directions to St. Claude and Press St., a note that evacuated animals were shipped to Lamar Dixon and California, and \"St. Bernard Parish.\""
 geo:
 id: 2605
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010063.JPG
     thumb: /files/thumbnails/14fb2a5b817fdb14fb2a5b8183c9.jpg
     url: /files/original/14fb2a5b817fdb14fb2a5b8183c9.jpg
+    alt:
+      en: "Damaged bathroom with green tile walls streaked with grime, a torn floral shower curtain, and a collapsed, water-stained ceiling exposing wooden beams and pipes above."
 geo:
 id: 3489
 item_type: Still Image

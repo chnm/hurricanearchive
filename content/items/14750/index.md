@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DayshaCamp_01_c2366f1686.jpg
     thumb: /files/thumbnails/14fb2a180621ba14fb2a18062520.jpg
     url: /files/original/14fb2a180621ba14fb2a18062520.jpg
+    alt:
+      en: "A small gold-toned trophy figure of a graduate in cap and gown, mounted on a round pedestal and white base with a plaque reading \"All Saints School, Kindergarten, 2001.\""
 geo:
 id: 14750
 item_type: Still Image

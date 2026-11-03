@@ -21,6 +21,8 @@ files:
     original_filename: lobby debris.jpg
     thumb: /files/thumbnails/14fb2a204ae45514fb2a204ae839.jpg
     url: /files/original/14fb2a204ae45514fb2a204ae839.jpg
+    alt:
+      en: "Devastated building lobby with collapsed ceiling tiles, exposed ductwork and wiring, scattered debris, and crumpled copper-colored metal sheeting covering the ash-strewn floor."
 geo:
 id: 13122
 item_type: Still Image

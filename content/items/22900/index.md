@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2219media.JPG
     thumb: /files/thumbnails/14fb29f2d60c9514fb29f2d61077.jpg
     url: /files/original/14fb29f2d60c9514fb29f2d61077.jpg
+    alt:
+      en: "A man in a pink shirt writes on a notepad while seated under a canopy with several U.S. Army soldiers in camouflage uniforms, one with a nametag reading \"LEWIS.\""
 geo:
 id: 22900
 item_type: Still Image

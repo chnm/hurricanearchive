@@ -23,6 +23,8 @@ files:
     original_filename: 2297847861_ce69067f0c.
     thumb: /files/thumbnails/14fb29c815c05f14fb29c815c43a.jpg
     url: /files/original/14fb29c815c05f14fb29c815c43a.jpg
+    alt:
+      en: "Group of people and bicycles inside a long, dim corrugated metal tunnel or truck trailer, with one man holding up a BMX bike and another person's blonde hair and shoulder visible in the foreground."
 geo:
 id: 34976
 item_type: Still Image

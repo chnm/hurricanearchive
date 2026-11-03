@@ -26,6 +26,8 @@ files:
     original_filename: boat_18842a89c1.jpg
     thumb: /files/thumbnails/14fb2a705715a314fb2a70571988.jpg
     url: /files/original/14fb2a705715a314fb2a70571988.jpg
+    alt:
+      en: "A large white boat rests on its hull in a grassy yard beside a tree, deposited far from the water, with a street lamp and buildings visible in the background."
 geo:
   address: ''
   lat: 30.022138031277596

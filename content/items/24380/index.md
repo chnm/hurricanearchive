@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-01-00A.jpg
     thumb: /files/thumbnails/14fb29e85d2d9f14fb29e85d3185.jpg
     url: /files/original/14fb29e85d2d9f14fb29e85d3185.jpg
+    alt:
+      en: "Dark, shadowed interior of a culvert or underpass framing a bright rectangular opening ahead, through which floodwater and a dim, pale landscape are visible, with pronounced film grain throughout."
 geo:
 id: 24380
 item_type: Still Image

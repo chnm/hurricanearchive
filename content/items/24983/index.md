@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1502superdome.JPG
     thumb: /files/thumbnails/14fb29e34702d014fb29e34708b6.jpg
     url: /files/original/14fb29e34702d014fb29e34708b6.jpg
+    alt:
+      en: "Four soldiers in camouflage uniforms stand talking in a parking lot outside the curved exterior wall of the Superdome, with vehicles and a small crowd visible in the background."
 geo:
 id: 24983
 item_type: Still Image

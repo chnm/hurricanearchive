@@ -21,6 +21,8 @@ files:
     original_filename: 165 roof peel.jpg
     thumb: /files/thumbnails/14fb2a1fa02fc914fb2a1fa03d71.jpg
     url: /files/original/14fb2a1fa02fc914fb2a1fa03d71.jpg
+    alt:
+      en: "Exterior view of a white house with storm-damaged roofing, showing torn red metal panels peeled back to expose dark wooden rafters, with overhead power lines against a pale sky."
 geo:
 id: 13173
 item_type: Still Image

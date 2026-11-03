@@ -21,6 +21,8 @@ files:
     original_filename: BetsyPlay04 (5)-4_c0cf99058f.jpg
     thumb: /files/thumbnails/14fb2a172b09b114fb2a172b0d95.jpg
     url: /files/original/14fb2a172b09b114fb2a172b0d95.jpg
+    alt:
+      en: "A theatrical cast in costume takes a bow on a stage set designed as house facades, with a projected screen reading \"An Evening With Betsy, Voices From the Storm.\""
 geo:
 id: 15099
 item_type: Still Image

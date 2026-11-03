@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28547.jpg
     thumb: /files/thumbnails/14fb2a691eb22114fb2a691eb608.jpg
     url: /files/original/14fb2a691eb22114fb2a691eb608.jpg
+    alt:
+      en: "A \"Water Out\" emergency drying trailer with yellow ventilation tubes parked outside a multistory New Orleans building with balconies, advertising water damage and flood recovery services."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 051003-A-2604S-0010WestVirginiaNG.jpg
     thumb: /files/thumbnails/14fb29f17cc4f814fb29f17ccd08.jpg
     url: /files/original/14fb29f17cc4f814fb29f17ccd08.jpg
+    alt:
+      en: "A man in camouflage military fatigues and cap leans into the bed of a pickup truck, handing out bottled water and supplies, with another uniformed person visible in the blurred background near grassy terrain."
 geo:
 id: 23118
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20050930007.JPG
     thumb: /files/thumbnails/14fb2a1bea20f414fb2a1bea24e4.jpg
     url: /files/original/14fb2a1bea20f414fb2a1bea24e4.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms stand near a tarp-covered truck loaded with boxes and \"Troy-Bilt\" pressure washers, with a green storage container and paperwork nearby in a parking lot."
 geo:
   address: ''
   lat: 0.0

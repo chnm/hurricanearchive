@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a08571fc914fb2a085723ae.jpg
     url: /files/original/14fb2a08571fc914fb2a085723ae.jpg
+    alt:
+      en: "A soldier in camouflage fatigues walks across a lot in dim evening light, carrying a water bottle, with large military flatbed trucks and pine trees in the background."
 geo:
 id: 20366
 item_type: Still Image

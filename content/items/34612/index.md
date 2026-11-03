@@ -24,6 +24,8 @@ files:
     original_filename: henderberg_37c4892a2d.jpg
     thumb: /files/thumbnails/14fb29c983b8b214fb29c983bc97.jpg
     url: /files/original/14fb29c983b8b214fb29c983bc97.jpg
+    alt:
+      en: "Woman in a white afro wig and red sequined dress poses with an older man wearing a black T-shirt reading \"REPENT! YOU F***ING SAVAGES, REPENT!\" at a crowded indoor party."
 geo:
   address: 3500 St. Claude Ave., New Orleans, LA
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 09200003J6.JPG
     thumb: /files/thumbnails/14fb29f991785414fb29f9917c2e.jpg
     url: /files/original/14fb29f991785414fb29f9917c2e.jpg
+    alt:
+      en: "A military Humvee parked in a grassy field beneath two tall guyed antenna masts with multiple support wires, set against a hazy sky with sparse trees on the horizon."
 geo:
 id: 22088
 item_type: Still Image

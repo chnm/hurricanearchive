@@ -21,6 +21,8 @@ files:
     original_filename: Near Brother Martin HS New Orleans.jpg
     thumb: /files/thumbnails/14fb29fb45ecbf14fb29fb45f09d.jpg
     url: /files/original/14fb29fb45ecbf14fb29fb45f09d.jpg
+    alt:
+      en: "Aerial view of a flooded New Orleans neighborhood near Brother Martin High School, with submerged streets, houses surrounded by brown floodwater, and a large school complex partially underwater beside a canal."
 geo:
 id: 21882
 item_type: Still Image

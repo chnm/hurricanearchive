@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0807c9f214fb2a0807cda0.jpg
     url: /files/original/14fb2a0807c9f214fb2a0807cda0.jpg
+    alt:
+      en: "Military Humvee with hood raised parked in front of a metal warehouse building, with soldiers in camouflage uniforms standing nearby; signage for \"Thibodeaux Feeds Inc.\" visible on the building."
 geo:
 id: 20397
 item_type: Still Image

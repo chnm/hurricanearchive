@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28733.jpg
     thumb: /files/thumbnails/14fb2a6856470e14fb2a68564af3.jpg
     url: /files/original/14fb2a6856470e14fb2a68564af3.jpg
+    alt:
+      en: "Three volunteers in scrubs attend to a cat on a makeshift examination table draped in blue, surrounded by supplies, kennels, and medical equipment at an animal rescue operation."
 geo:
   address: ''
   lat: 0.0

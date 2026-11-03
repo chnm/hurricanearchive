@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2220media.JPG
     thumb: /files/thumbnails/14fb29f2d5292914fb29f2d52a12.jpg
     url: /files/original/14fb29f2d5292914fb29f2d52a12.jpg
+    alt:
+      en: "A man in a white shirt films with a video camera while sitting under a canopy next to a woman in U.S. Army camouflage uniform, with an open paved lot and light towers visible outside."
 geo:
 id: 22901
 item_type: Still Image

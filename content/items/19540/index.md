@@ -21,6 +21,8 @@ files:
     original_filename: Picture 100engineers.jpg
     thumb: /files/thumbnails/14fb2a0f58b4ec14fb2a0f58b8ac.jpg
     url: /files/original/14fb2a0f58b4ec14fb2a0f58b8ac.jpg
+    alt:
+      en: "Aerial view of a nursing home complex with a turquoise metal roof, surrounded by parking lots, a pyramid-roofed building, and nearby streets with scattered vehicles."
 geo:
 id: 19540
 item_type: Still Image

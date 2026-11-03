@@ -26,6 +26,8 @@ files:
     original_filename: 336698022_7fb342e59f.jpg
     thumb: /files/thumbnails/14fb29d5b9432f14fb29d5b94714.jpg
     url: /files/original/14fb29d5b9432f14fb29d5b94714.jpg
+    alt:
+      en: "A large rusted barge marked \"ING 4727\" lies grounded amid storm debris, with downed power lines overhead and the wreckage of a collapsed structure scattered across the muddy ground."
 geo:
 id: 27079
 item_type: Still Image

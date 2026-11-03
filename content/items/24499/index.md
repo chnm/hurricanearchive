@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0105H.JPG
     thumb: /files/thumbnails/14fb29e73bf3cb14fb29e73bf7ba.jpg
     url: /files/original/14fb29e73bf3cb14fb29e73bf7ba.jpg
+    alt:
+      en: "Two smiling young women in white tank tops pose with a U.S. Army soldier in camouflage uniform and black beret, who sticks out his tongue for the photo."
 geo:
 id: 24499
 item_type: Still Image

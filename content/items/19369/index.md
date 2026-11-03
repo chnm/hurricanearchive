@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2228engineers.JPG
     thumb: /files/thumbnails/14fb2a10b1f63d14fb2a10b1fa23.jpg
     url: /files/original/14fb2a10b1f63d14fb2a10b1fa23.jpg
+    alt:
+      en: "A person in camouflage military jacket, red chainsaw safety chaps, yellow hard hat, and ear protection uses a red and black Homelite chainsaw to cut branches from a fallen tree amid dense woods."
 geo:
 id: 19369
 item_type: Still Image

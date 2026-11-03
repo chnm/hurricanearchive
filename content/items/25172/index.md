@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1782superdome.JPG
     thumb: /files/thumbnails/14fb29e177208914fb29e17725fc.jpg
     url: /files/original/14fb29e177208914fb29e17725fc.jpg
+    alt:
+      en: "Two people embrace in a comforting hug, surrounded by a young boy holding a water bottle and an older man in a striped yellow shirt, under a covered structure."
 geo:
 id: 25172
 item_type: Still Image

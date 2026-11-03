@@ -21,6 +21,8 @@ files:
     original_filename: CHenderson-3_5e10311971.jpg
     thumb: /files/thumbnails/14fb2a16a4b68014fb2a16a4ba64.jpg
     url: /files/original/14fb2a16a4b68014fb2a16a4ba64.jpg
+    alt:
+      en: "Weathered black-and-white photograph of an older woman in a floral dress and a man in military uniform and cap standing arm in arm in front of a house with a gabled roof and shrubbery."
 geo:
 id: 15303
 item_type: Still Image

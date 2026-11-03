@@ -21,6 +21,8 @@ files:
     original_filename: katrina 072.jpg
     thumb: /files/thumbnails/14fb29fbade1a414fb29fbae8655.jpg
     url: /files/original/14fb29fbade1a414fb29fbae8655.jpg
+    alt:
+      en: "A multi-story brick building with a partially collapsed upper wall and exposed roof framing, surrounded by piles of rubble and debris, photographed through a vehicle window with a timestamp reading \"3 4:13 PM.\""
 geo:
 id: 21802
 item_type: Still Image

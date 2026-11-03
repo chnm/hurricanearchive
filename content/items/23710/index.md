@@ -21,6 +21,8 @@ files:
     original_filename: P1010151empireS&R.JPG
     thumb: /files/thumbnails/14fb29eda898de14fb29eda89d1b.jpg
     url: /files/original/14fb29eda898de14fb29eda89d1b.jpg
+    alt:
+      en: "Flooded roadway lined with storm debris, downed power lines, and boats washed ashore amid damaged trees, with standing water along the roadside ditch."
 geo:
 id: 23710
 item_type: Still Image

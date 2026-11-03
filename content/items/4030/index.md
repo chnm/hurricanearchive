@@ -21,6 +21,8 @@ files:
     original_filename: DSC01145.JPG
     thumb: /files/thumbnails/14fb2a585f0abb14fb2a585f0ea1.jpg
     url: /files/original/14fb2a585f0abb14fb2a585f0ea1.jpg
+    alt:
+      en: "Uniformed personnel in boonie hats and tactical vests gather under an RV awning, seated in folding chairs with rifles and life jackets nearby, timestamped 8:26 AM."
 geo:
 id: 4030
 item_type: Still Image

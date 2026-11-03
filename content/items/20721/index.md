@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064-9-25.JPG
     thumb: /files/thumbnails/14fb2a0455676314fb2a04556f4a.jpg
     url: /files/original/14fb2a0455676314fb2a04556f4a.jpg
+    alt:
+      en: "Aerial view of a flooded residential area, with murky water submerging streets and yards, bare and damaged trees rising from the water, and scattered debris visible throughout."
 geo:
 id: 20721
 item_type: Still Image

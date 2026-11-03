@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 013.jpg
     thumb: /files/thumbnails/14fb2a22dd268814fb2a22dd2a6b.jpg
     url: /files/original/14fb2a22dd268814fb2a22dd2a6b.jpg
+    alt:
+      en: "A large white boat sits on blocks in a boatyard beside a damaged blue metal building reading \"KREMER MARINE,\" with sailboats and torn rigging in the water nearby; dated 2005/09/24."
 geo:
 id: 11891
 item_type: Still Image

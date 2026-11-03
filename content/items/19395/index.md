@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035engineers.JPG
     thumb: /files/thumbnails/14fb2a1095efbc14fb2a1095f3a1.jpg
     url: /files/original/14fb2a1095efbc14fb2a1095f3a1.jpg
+    alt:
+      en: "Military personnel in fatigues use a wheeled lift to clear an uprooted tree stump and gravel debris from a brick building's entrance, with another soldier visible in the background."
 geo:
 id: 19395
 item_type: Still Image

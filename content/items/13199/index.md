@@ -21,6 +21,8 @@ files:
     original_filename: 192 scared dogs2.jpg
     thumb: /files/thumbnails/14fb2a1f6998c414fb2a1f699ca6.jpg
     url: /files/original/14fb2a1f6998c414fb2a1f699ca6.jpg
+    alt:
+      en: "A tan dog with pointed ears stands alone on a wet, empty road, looking toward the camera with scattered debris visible on the pavement around it."
 geo:
 id: 13199
 item_type: Still Image

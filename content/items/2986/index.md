@@ -21,6 +21,8 @@ files:
     original_filename: 100_0235.JPG
     thumb: /files/thumbnails/14fb2a5f2e945514fb2a5f2e983a.jpg
     url: /files/original/14fb2a5f2e945514fb2a5f2e983a.jpg
+    alt:
+      en: "Interior passageway of a ship or submarine, lined with metal machinery, pipes, gauges, and valves, with two large circular hatch doors on either side and red storage lockers along the dark floor."
 geo:
 id: 2986
 item_type: Still Image

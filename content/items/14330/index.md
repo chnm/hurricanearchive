@@ -21,6 +21,8 @@ files:
     original_filename: aerials42.jpg
     thumb: /files/thumbnails/14fb2a19ce116114fb2a19ce15c7.jpg
     url: /files/original/14fb2a19ce116114fb2a19ce15c7.jpg
+    alt:
+      en: "Aerial view of a storm-damaged property with collapsed roofing and debris scattered across the yard, surrounded by a curving road, trees, and a small pond."
 geo:
 id: 14330
 item_type: Still Image

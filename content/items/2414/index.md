@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C3J_cf5cc92d96.jpg
     thumb: /files/thumbnails/14fb2a669725f714fb2a669729da.jpg
     url: /files/original/14fb2a669725f714fb2a669729da.jpg
+    alt:
+      en: "Two Coast Guard responders in dark uniforms, caps, and sunglasses kneel at the edge of an oily, blackened pool, using gloved hands to collect a water sample into a small jar."
 geo:
 id: 2414
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28763.jpg
     thumb: /files/thumbnails/14fb2a6989099514fb2a698912a2.jpg
     url: /files/original/14fb2a6989099514fb2a698912a2.jpg
+    alt:
+      en: "Whiteboards propped on a sidewalk display handwritten messages, including one reading \"MESSAGES: ALL volunteers must wear long pants and closed toe shoes,\" with a chain-link fence and supplies in the background."
 geo:
   address: ''
   lat: 0.0

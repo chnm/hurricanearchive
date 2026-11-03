@@ -21,6 +21,8 @@ files:
     original_filename: 100_0290.JPG
     thumb: /files/thumbnails/14fb2a5e70ae0914fb2a5e70b1ee.jpg
     url: /files/original/14fb2a5e70ae0914fb2a5e70b1ee.jpg
+    alt:
+      en: "Close-up of the bow of the gray battleship USS Alabama, with the ship's name painted in large white letters and a vertical draft scale and ladder rungs visible on the hull."
 geo:
 id: 3041
 item_type: Still Image

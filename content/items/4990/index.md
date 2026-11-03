@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0335.JPG
     thumb: /files/thumbnails/14fb2a54982bbc14fb2a54983f7c.jpg
     url: /files/original/14fb2a54982bbc14fb2a54983f7c.jpg
+    alt:
+      en: "A damaged single-story house with a partially stripped roof stands amid storm debris and broken, leafless trees along a residential street, with scattered rubble and a collapsed structure nearby."
 geo:
 id: 4990
 item_type: Still Image

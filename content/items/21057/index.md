@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0308.JPG
     thumb: /files/thumbnails/14fb2a00d5dc4614fb2a00d5e02b.jpg
     url: /files/original/14fb2a00d5dc4614fb2a00d5e02b.jpg
+    alt:
+      en: "Interior view of a military helicopter cabin showing a mounted fire extinguisher, riveted metal paneling, and a seated crew member wearing a flight helmet and uniform with a U.S. flag patch."
 geo:
 id: 21057
 item_type: Still Image

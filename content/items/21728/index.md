@@ -21,6 +21,8 @@ files:
     original_filename: Puppy.bmp
     thumb: /files/thumbnails/14fb29fc26c48914fb29fc26c5bd.jpg
     url: /files/original/14fb29fc26c48914fb29fc26c5bd.jpg
+    alt:
+      en: "A black puppy with white paws and chest sits on gravelly ground, looking up at the camera with its tail curled upward."
 geo:
 id: 21728
 item_type: Still Image

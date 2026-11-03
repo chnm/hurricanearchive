@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9215.jpg
     thumb: /files/thumbnails/14fb2a62df19bf14fb2a62df1ea1.jpg
     url: /files/original/14fb2a62df19bf14fb2a62df1ea1.jpg
+    alt:
+      en: "A yellow newspaper box labeled \"American Press\" stands on a post beside a cleared, debris-strewn lot with scattered concrete blocks, rubble, and bare trees under a clear blue sky."
 geo:
 id: 2651
 item_type: Still Image

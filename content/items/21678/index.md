@@ -21,6 +21,8 @@ files:
     original_filename: FH000011.jpg
     thumb: /files/thumbnails/14fb29fc74fbac14fb29fc74ff8f.jpg
     url: /files/original/14fb29fc74fbac14fb29fc74ff8f.jpg
+    alt:
+      en: "Damaged single-story building with a collapsed awning and debris, surrounded by dried, cracked mud and parked cars in a storm-damaged lot, with a water tower visible in the background."
 geo:
 id: 21678
 item_type: Still Image

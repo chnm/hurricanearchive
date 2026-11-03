@@ -21,6 +21,8 @@ files:
     original_filename: S4300038zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ef40b9e14fb2a0ef40f7c.jpg
     url: /files/original/14fb2a0ef40b9e14fb2a0ef40f7c.jpg
+    alt:
+      en: "Military personnel load bottled water pallets near a US Army Black Hawk helicopter on a tarmac, with a medical evacuation helicopter and another aircraft flying overhead in the background."
 geo:
 id: 19584
 item_type: Still Image

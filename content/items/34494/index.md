@@ -27,6 +27,8 @@ files:
     original_filename: 2310193619_59ae134427.
     thumb: /files/thumbnails/14fb29c9b28d1f14fb29c9b29105.jpg
     url: /files/original/14fb29c9b28d1f14fb29c9b29105.jpg
+    alt:
+      en: "St. Louis Cathedral's triple spires rise above Jackson Square, with an equestrian statue, palm trees, and manicured lawns in front under a clear blue sky."
 geo:
 id: 34494
 item_type: Still Image

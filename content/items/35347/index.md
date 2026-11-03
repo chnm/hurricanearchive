@@ -18,6 +18,8 @@ files:
     original_filename: 90_d6fd36d362.jpg
     thumb: /files/thumbnails/14fb29c62e918d14fb29c62e956e.jpg
     url: /files/original/14fb29c62e918d14fb29c62e956e.jpg
+    alt:
+      en: "Black and white flyer with a jagged border advertising \"Torture King: The Incredible Torture Show,\" featuring an illustrated muscular figure pierced with blades, priced at $5, promising \"See!,\" \"Live!,\" and \"Real!\" acts."
 geo:
   address: new orleans, la
   lat: 29.95324

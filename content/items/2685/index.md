@@ -21,6 +21,8 @@ files:
     original_filename: 109.jpg
     thumb: /files/thumbnails/14fb2a6093317e14fb2a60939d47.jpg
     url: /files/original/14fb2a6093317e14fb2a60939d47.jpg
+    alt:
+      en: "Abstract marker drawing with bold black outlines dividing sections of blue, pink, magenta, purple, green, and yellow; signed \"James Age 10\" in the lower left corner."
 geo:
 id: 2685
 item_type: Still Image

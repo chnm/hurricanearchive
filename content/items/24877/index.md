@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0951superdome.JPG
     thumb: /files/thumbnails/14fb29e42064df14fb29e42068c4.jpg
     url: /files/original/14fb29e42064df14fb29e42068c4.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms, armed with holstered pistols and batons, stand talking under a covered walkway near a teal \"SECURITY\" booth, with civilians and a \"NOTICE\" rules sign nearby."
 geo:
 id: 24877
 item_type: Still Image

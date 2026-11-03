@@ -20,6 +20,8 @@ files:
     original_filename: pics+2006-07+153_c192bd3eff.jpg
     thumb: /files/thumbnails/14fb29ce19a53f14fb29ce19a924.jpg
     url: /files/original/14fb29ce19a53f14fb29ce19a924.jpg
+    alt:
+      en: "Rows of damaged, single-story brick housing units with blue tarps covering their roofs, surrounded by debris-strewn streets and a pile of rubble; a \"Speed Limit 20\" sign stands in the foreground."
 geo:
 id: 30016
 item_type: Still Image

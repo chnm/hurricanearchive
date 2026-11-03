@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1794superdome.JPG
     thumb: /files/thumbnails/14fb29e156f37a14fb29e156f75e.jpg
     url: /files/original/14fb29e156f37a14fb29e156f75e.jpg
+    alt:
+      en: "Two soldiers in woodland camouflage uniforms converse with a woman in a gray shirt and black cardigan on an outdoor paved area, with a military truck and parking structure in the background."
 geo:
 id: 25182
 item_type: Still Image

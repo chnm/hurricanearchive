@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (46).jpg
     thumb: /files/thumbnails/14fb2a5cbf3b4214fb2a5cbf3f27.jpg
     url: /files/original/14fb2a5cbf3b4214fb2a5cbf3f27.jpg
+    alt:
+      en: "Rows of storm-damaged, overturned and crushed vehicles, including a Chevrolet truck, sit amid scattered debris and rubble on a grassy lot, with damaged houses visible under trees in the background."
 geo:
 id: 3284
 item_type: Still Image

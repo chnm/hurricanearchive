@@ -18,6 +18,8 @@ files:
     original_filename: 14_daf5f6cde1.jpg
     thumb: /files/thumbnails/14fb29c7394d2f14fb29c7395115.jpg
     url: /files/original/14fb29c7394d2f14fb29c7395115.jpg
+    alt:
+      en: "A nighttime parade group in matching red-and-white marching band uniforms and berets, with a central drummer playing a snare drum, posing together outdoors."
 geo:
   address: new orleans, la
   lat: 29.95324

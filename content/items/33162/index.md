@@ -20,6 +20,8 @@ files:
     original_filename: Hurricane symbol esoteric 11-3-07_ba59ba0102.jpg
     thumb: /files/thumbnails/14fb29cbd85fd414fb29cbd865f5.jpg
     url: /files/original/14fb29cbd85fd414fb29cbd865f5.jpg
+    alt:
+      en: "A round steel hurricane symbol sculpture with a horizontal weld bead, mounted on a brick wall marking the storm surge height, as a woman looks on inside the building."
 geo:
   address: ''
   lat: 30.27456

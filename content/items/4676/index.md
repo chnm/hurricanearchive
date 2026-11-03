@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0627.JPG
     thumb: /files/thumbnails/14fb2a5642b47a14fb2a5642b864.jpg
     url: /files/original/14fb2a5642b47a14fb2a5642b864.jpg
+    alt:
+      en: "Quiet residential street intersection with parked cars, a low building with a white picket fence in the background, green lawns, utility poles and power lines under a clear blue sky."
 geo:
 id: 4676
 item_type: Still Image

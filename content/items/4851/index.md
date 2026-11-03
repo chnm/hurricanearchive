@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0170.JPG
     thumb: /files/thumbnails/14fb2a5528a9f514fb2a5528add4.jpg
     url: /files/original/14fb2a5528a9f514fb2a5528add4.jpg
+    alt:
+      en: "Single-story brick ranch house with a covered front porch, surrounded by bare trees and a dirt/debris-covered yard; a wheelbarrow sits on the left and a trash bin on the right."
 geo:
 id: 4851
 item_type: Still Image

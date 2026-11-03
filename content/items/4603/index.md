@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0029.JPG
     thumb: /files/thumbnails/14fb2a56c6d95114fb2a56c6e353.jpg
     url: /files/original/14fb2a56c6d95114fb2a56c6e353.jpg
+    alt:
+      en: "Debris field with fallen trees, scattered rubble, and orange straps or fabric caught in broken branches, bordered by a paved road under an overcast sky."
 geo:
 id: 4603
 item_type: Still Image

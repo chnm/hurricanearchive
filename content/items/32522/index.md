@@ -30,6 +30,8 @@ files:
     original_filename: adc03_fe61cfeb23.jpg
     thumb: /files/thumbnails/14fb29cbeafcb814fb29cbeb009d.jpg
     url: /files/original/14fb29cbeafcb814fb29cbeb009d.jpg
+    alt:
+      en: "Illustrated panel from the webcomic \"A.D.: New Orleans After the Deluge\" showing a young boy with glasses looking upward, surrounded by swirling cloud-like line patterns in purple tones."
 geo:
 id: 32522
 item_type: Hyperlink

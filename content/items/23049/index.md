@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0059OEP.JPG
     thumb: /files/thumbnails/14fb29f1ba346714fb29f1bc8cee.jpg
     url: /files/original/14fb29f1ba346714fb29f1bc8cee.jpg
+    alt:
+      en: "Outdoor media setup with camera tripods, director's chairs, and equipment cases; one man rests on the grass while another works at a laptop nearby, parked cars visible in the background."
 geo:
 id: 23049
 item_type: Still Image

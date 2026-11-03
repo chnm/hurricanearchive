@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1032Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f9009e4214fb29f900a223.jpg
     url: /files/original/14fb29f9009e4214fb29f900a223.jpg
+    alt:
+      en: "A line of military cargo trucks with canvas-covered beds parked beneath large oak trees beside a brick house, with soldiers in fatigues standing nearby."
 geo:
 id: 22225
 item_type: Still Image

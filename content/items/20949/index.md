@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0155-16.JPG
     thumb: /files/thumbnails/14fb2a015e274114fb2a015e2b25.jpg
     url: /files/original/14fb2a015e274114fb2a015e2b25.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with rooftops and debris surrounded by floodwater, bordered by a tree line and open water in the distance."
 geo:
 id: 20949
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0189.JPG
     thumb: /files/thumbnails/14fb2a551860bd14fb2a551864ae.jpg
     url: /files/original/14fb2a551860bd14fb2a551864ae.jpg
+    alt:
+      en: "Interior view of wood-framed wall and ceiling joists with metal hurricane straps, a yellow measuring tape stretched horizontally across the studs showing marks up to about 25 inches."
 geo:
 id: 4870
 item_type: Still Image

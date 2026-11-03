@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28032.jpg
     thumb: /files/thumbnails/14fb2a6c07a82d14fb2a6c07ac24.jpg
     url: /files/original/14fb2a6c07a82d14fb2a6c07ac24.jpg
+    alt:
+      en: "Debris-strewn cleared lot with a painting of a house lying face-up amid gravel and rubble, houses and bare trees visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

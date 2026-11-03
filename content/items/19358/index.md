@@ -21,6 +21,8 @@ files:
     original_filename: 527(sept12)Picture4engineers.png
     thumb: /files/thumbnails/14fb2a10da972014fb2a10daa104.jpg
     url: /files/original/14fb2a10da972014fb2a10daa104.jpg
+    alt:
+      en: "A man wearing protective chainsaw chaps bends over a fallen tree, operating a chainsaw amid storm debris, with damaged houses visible in the background."
 geo:
 id: 19358
 item_type: Still Image

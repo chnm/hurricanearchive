@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-09-8A.jpg
     thumb: /files/thumbnails/14fb29e906e93d14fb29e906ed22.jpg
     url: /files/original/14fb29e906e93d14fb29e906ed22.jpg
+    alt:
+      en: "Military-style canvas-covered trucks parked beside floodwaters that submerge a school bus and other vehicles, with a person standing on a nearby elevated walkway."
 geo:
 id: 24289
 item_type: Still Image

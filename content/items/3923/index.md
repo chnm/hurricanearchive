@@ -21,6 +21,8 @@ files:
     original_filename: 100_0220.JPG
     thumb: /files/thumbnails/14fb2a58ddb52714fb2a58ddb905.jpg
     url: /files/original/14fb2a58ddb52714fb2a58ddb905.jpg
+    alt:
+      en: "Floodwater submerges a residential street lined with brick row houses featuring red metal fire escapes, with cars nearly covered by water and utility poles rising from the flood under a clear blue sky."
 geo:
 id: 3923
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: tippedship_d4db43ac22.jpg
     thumb: /files/thumbnails/14fb2a7166f62614fb2a7166fa41.jpg
     url: /files/original/14fb2a7166f62614fb2a7166fa41.jpg
+    alt:
+      en: "A large boat lies capsized on its side along a wooden piling dock, its hull resting partly in the water, with a grassy shoreline and a \"Mobil Lubricants\" sign visible in the background."
 geo:
   address: ''
   lat: 29.725924175870098

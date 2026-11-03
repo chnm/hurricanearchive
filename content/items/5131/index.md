@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0493.JPG
     thumb: /files/thumbnails/14fb2a53cde60e14fb2a53cde9fb.jpg
     url: /files/original/14fb2a53cde60e14fb2a53cde9fb.jpg
+    alt:
+      en: "Damaged roof section with torn black shingles exposing plywood decking, broken branches lodged in the gap, and a yellow tape measure held across the hole by a person's hand."
 geo:
 id: 5131
 item_type: Still Image

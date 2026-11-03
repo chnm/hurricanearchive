@@ -26,6 +26,8 @@ files:
     original_filename: katrina_045_36aeae39b9.jpg
     thumb: /files/thumbnails/14fb2a6da69e8814fb2a6da6a26d.jpg
     url: /files/original/14fb2a6da69e8814fb2a6da6a26d.jpg
+    alt:
+      en: "A woman wearing a face mask, white shirt, shorts, and polka-dot rain boots stands in waist-deep floodwater on a tree-lined residential street, with a submerged pickup truck and flooded houses in the background."
 geo:
   address: ''
   lat: 29.968553

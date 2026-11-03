@@ -21,6 +21,8 @@ files:
     original_filename: PCDV0174Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d88e8214fb29f4d8925f.jpg
     url: /files/original/14fb29f4d88e8214fb29f4d8925f.jpg
+    alt:
+      en: "A chain-link fenced yard with two large metal HVAC units on concrete pads, a jet ski parked near the fence, a small building with a metal chimney pipe, and a tree in the foreground."
 geo:
 id: 22653
 item_type: Still Image

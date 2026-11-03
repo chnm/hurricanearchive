@@ -21,6 +21,8 @@ files:
     original_filename: Picture 249cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b088e1614fb2a0b089668.jpg
     url: /files/original/14fb2a0b088e1614fb2a0b089668.jpg
+    alt:
+      en: "Railroad tracks run alongside a debris-strewn roadside with scattered trash and gravel, a yellow CAT excavator bucket in the foreground, and dump trucks parked near a white building in the distance under a clear sky."
 geo:
 id: 20152
 item_type: Still Image

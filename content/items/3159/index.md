@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (12).JPG
     thumb: /files/thumbnails/14fb2a5d9a9b1514fb2a5d9a9e02.jpg
     url: /files/original/14fb2a5d9a9b1514fb2a5d9a9e02.jpg
+    alt:
+      en: "A two-story wood-frame house with storm-damaged siding and boarded windows stands behind tall palm trees, with a red pickup truck parked in front on a debris-strewn yard."
 geo:
 id: 3159
 item_type: Still Image

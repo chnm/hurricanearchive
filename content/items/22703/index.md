@@ -21,6 +21,8 @@ files:
     original_filename: PICT0551Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4a15c1e14fb29f4a1645c.jpg
     url: /files/original/14fb29f4a15c1e14fb29f4a1645c.jpg
+    alt:
+      en: "Two brick buildings with white columned porches and balconies, storm debris and fallen leaves scattered across the lawn, a green trash bin by the entrance marked \"14,\" dated 09.15.2005."
 geo:
 id: 22703
 item_type: Still Image

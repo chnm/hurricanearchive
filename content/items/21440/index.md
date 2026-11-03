@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0257-9-25-2.JPG
     thumb: /files/thumbnails/14fb29febc64bb14fb29febc68a0.jpg
     url: /files/original/14fb29febc64bb14fb29febc68a0.jpg
+    alt:
+      en: "Aerial view of a flooded town with houses, a gas station canopy, and commercial buildings submerged in brown floodwater; a sign reading \"Champagne's\" market rises above the waterline."
 geo:
 id: 21440
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28387.jpg
     thumb: /files/thumbnails/14fb2a69642a1a14fb2a696431e2.jpg
     url: /files/original/14fb2a69642a1a14fb2a696431e2.jpg
+    alt:
+      en: "A man in a purple \"Key West\" t-shirt and cap stands beneath large hanging fishing nets, with a shrimp boat and dock equipment, including a white laundry basket, visible behind him."
 geo:
   address: ''
   lat: 0.0

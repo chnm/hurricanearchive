@@ -21,6 +21,8 @@ files:
     original_filename: 100_0173.JPG
     thumb: /files/thumbnails/14fb2a59202f6d14fb2a59203352.jpg
     url: /files/original/14fb2a59202f6d14fb2a59203352.jpg
+    alt:
+      en: "Two small motorboats carrying people in life jackets navigate a flooded street past submerged traffic lights, with a brick building and leaning trees in the background."
 geo:
 id: 3880
 item_type: Still Image

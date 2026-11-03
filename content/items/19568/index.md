@@ -21,6 +21,8 @@ files:
     original_filename: S4300022zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f239b5114fb2a0f239f36.jpg
     url: /files/original/14fb2a0f239b5114fb2a0f239f36.jpg
+    alt:
+      en: "A military helicopter marked with a red cross medical symbol flies against a clear blue sky, its rotor blades blurred with motion and skid landing gear visible beneath the fuselage."
 geo:
 id: 19568
 item_type: Still Image

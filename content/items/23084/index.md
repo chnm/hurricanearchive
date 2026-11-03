@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094OEP.JPG
     thumb: /files/thumbnails/14fb29f199c17e14fb29f199c565.jpg
     url: /files/original/14fb29f199c17e14fb29f199c565.jpg
+    alt:
+      en: "Emergency operations center with rows of busy cubicles and staff at computers, a projected briefing outline reading \"OUTLINE: SUMMARY, STORM LOCATION, WEATHER EFFECTS...\" and news broadcast feeds on a large wall screen, American flag in corner."
 geo:
 id: 23084
 item_type: Still Image

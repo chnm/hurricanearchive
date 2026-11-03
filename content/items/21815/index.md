@@ -21,6 +21,8 @@ files:
     original_filename: katrina 085.jpg
     thumb: /files/thumbnails/14fb29fb807aaf14fb29fb807e8c.jpg
     url: /files/original/14fb29fb807aaf14fb29fb807e8c.jpg
+    alt:
+      en: "Flooded street between high-rise office towers with shattered windows, an American flag on a pole standing in standing water, and timestamp \"5:28 PM\" overlaid in red."
 geo:
 id: 21815
 item_type: Still Image

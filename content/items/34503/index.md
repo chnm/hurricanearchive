@@ -27,6 +27,8 @@ files:
     original_filename: 2292067134_fa14c9ec62.
     thumb: /files/thumbnails/14fb29c9a5b26a14fb29c9a5b648.jpg
     url: /files/original/14fb29c9a5b26a14fb29c9a5b648.jpg
+    alt:
+      en: "Debris-filled bayou with two small boats floating amid scattered wooden planks, surrounded by elevated waterfront houses with white railings and trees under a clear sky."
 geo:
   address: Jacquelin
   lat: 30.22539

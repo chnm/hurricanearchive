@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27983.jpg
     thumb: /files/thumbnails/14fb2a6c515ee814fb2a6c5162b4.jpg
     url: /files/original/14fb2a6c515ee814fb2a6c5162b4.jpg
+    alt:
+      en: "A faded \"DO NOT ENTER\" road sign lies fallen on the ground amid dry grass and leaves, its white and red surface streaked with dirt and stains."
 geo:
   address: ''
   lat: 0.0

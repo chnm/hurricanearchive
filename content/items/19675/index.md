@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 062cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e7761fd14fb2a0e7765ee.jpg
     url: /files/original/14fb2a0e7761fd14fb2a0e7765ee.jpg
+    alt:
+      en: "Two portable washing machines set up outdoors, connected with hoses and cinder block supports, surrounded by Clorox and Tide detergent bottles, a red dumpster, and stacked cardboard boxes."
 geo:
 id: 19675
 item_type: Still Image

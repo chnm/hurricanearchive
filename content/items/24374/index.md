@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-22-21A.jpg
     thumb: /files/thumbnails/14fb29e86355bc14fb29e86359a2.jpg
     url: /files/original/14fb29e86355bc14fb29e86359a2.jpg
+    alt:
+      en: "Open exterior doorway beside a cinderblock wall with a red \"EXIT\" sign above, revealing floodwater submerging the parking lot and debris outside, with bare trees and power lines in the background."
 geo:
 id: 24374
 item_type: Still Image

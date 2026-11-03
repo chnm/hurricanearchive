@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0246.JPG
     thumb: /files/thumbnails/14fb2a54edfd5c14fb2a54ee012f.jpg
     url: /files/original/14fb2a54edfd5c14fb2a54ee012f.jpg
+    alt:
+      en: "Debris field with a broken concrete block foundation piece, surrounded by scattered roofing shingles, dried leaves, twigs, and patches of grass."
 geo:
 id: 4927
 item_type: Still Image

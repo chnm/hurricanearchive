@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28108.jpg
     thumb: /files/thumbnails/14fb2a6b18500014fb2a6b1853f3.jpg
     url: /files/original/14fb2a6b18500014fb2a6b1853f3.jpg
+    alt:
+      en: "Water surges through the 17th Street Canal breach near a damaged white trailer, with power lines and trees visible along the Lakeview shoreline in New Orleans."
 geo:
   address: ''
   lat: 0.0

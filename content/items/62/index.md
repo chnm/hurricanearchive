@@ -26,6 +26,8 @@ files:
     original_filename: refugeessuperdome_053b17b5f4.jpg
     thumb: /files/thumbnails/14fb2a712d3b2014fb2a712e6d4f.jpg
     url: /files/original/14fb2a712d3b2014fb2a712e6d4f.jpg
+    alt:
+      en: "People wade through floodwater carrying children and belongings toward a large domed stadium in the background, with a concrete barrier wall along the flooded street."
 geo:
   address: ''
   lat: 29.958304

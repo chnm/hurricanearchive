@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea672df714fb29ea6731db.jpg
     url: /files/original/14fb29ea672df714fb29ea6731db.jpg
+    alt:
+      en: "A worker in camouflage jacket, orange chaps, and a red hard hat uses a Stihl chainsaw to cut a fallen tree, while another person films the scene with a video camera nearby."
 geo:
 id: 24124
 item_type: Still Image

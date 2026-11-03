@@ -27,6 +27,8 @@ files:
     original_filename: 2326879426_ffc22a4cc9.
     thumb: /files/thumbnails/14fb29c9d34eba14fb29c9d35291.jpg
     url: /files/original/14fb29c9d34eba14fb29c9d35291.jpg
+    alt:
+      en: "Utility poles and power lines cross a hazy sky above a tree line, with strips of torn plastic or fabric caught on the wires; the lower portion of the image is obscured by a solid gray overlay."
 geo:
   address: ''
   lat: 30.20382

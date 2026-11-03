@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0037.JPG
     thumb: /files/thumbnails/14fb2a56c1902114fb2a56c19410.jpg
     url: /files/original/14fb2a56c1902114fb2a56c19410.jpg
+    alt:
+      en: "Brick house with a damaged roof and fallen tree debris across its side, surrounded by broken trees, a chain-link fence, and an overgrown yard under a cloudy sky."
 geo:
 id: 4611
 item_type: Still Image

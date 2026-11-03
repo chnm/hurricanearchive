@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (9).JPG
     thumb: /files/thumbnails/14fb2a5d15d73214fb2a5d15db17.jpg
     url: /files/original/14fb2a5d15d73214fb2a5d15db17.jpg
+    alt:
+      en: "Empty, debris-strewn street with downed tree branches scattered across pavement and median, streetlights and traffic signals overhead, a parked car to the left, and a green \"Orleans Ave\" street sign visible."
 geo:
 id: 3242
 item_type: Still Image

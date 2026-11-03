@@ -23,6 +23,8 @@ files:
     original_filename: 158897174_c9685923bc.jpg
     thumb: /files/thumbnails/14fb29d203932014fb29d2039554.jpg
     url: /files/original/14fb29d203932014fb29d2039554.jpg
+    alt:
+      en: "Row of plastic bins and buckets on wooden pallets for boot and glove decontamination, with a handwritten sign reading \"DECONTAMINATION DECONTAMINATION\" beside a house marked with search X-code \"9/13.\""
 geo:
 id: 28630
 item_type: Still Image

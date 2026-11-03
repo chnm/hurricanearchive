@@ -21,6 +21,8 @@ files:
     original_filename: before street west.jpg
     thumb: /files/thumbnails/14fb2a20c05e5914fb2a20c0623d.jpg
     url: /files/original/14fb2a20c05e5914fb2a20c0623d.jpg
+    alt:
+      en: "Sidewalk beneath a covered walkway with metal awnings attached to a brick building, where a person in a white shirt and jeans walks past trees and greenery lining the street."
 geo:
 id: 13049
 item_type: Still Image

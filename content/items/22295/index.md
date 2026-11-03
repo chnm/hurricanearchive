@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1106Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7e5fd3114fb29f7e60b5d.jpg
     url: /files/original/14fb29f7e5fd3114fb29f7e60b5d.jpg
+    alt:
+      en: "Silhouette of a person wearing a life vest standing in a doorway, looking out over floodwaters filled with floating debris."
 geo:
 id: 22295
 item_type: Still Image

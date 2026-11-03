@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1491superdome.JPG
     thumb: /files/thumbnails/14fb29e361151714fb29e3611775.jpg
     url: /files/original/14fb29e361151714fb29e3611775.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms work inside a military tent equipped with folding tables, laptops, and luggage; a nametag reads \"Morrow\" on the uniform of the man walking toward the camera."
 geo:
 id: 24973
 item_type: Still Image

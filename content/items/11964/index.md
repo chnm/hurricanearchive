@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 011.jpg
     thumb: /files/thumbnails/14fb2a2287fec014fb2a228802a4.jpg
     url: /files/original/14fb2a2287fec014fb2a228802a4.jpg
+    alt:
+      en: "Damaged bridge roadway with twisted guardrails and debris near the water's edge, with remaining bridge pilings extending into the bay and a worker in a hard hat and safety vest standing nearby."
 geo:
 id: 11964
 item_type: Still Image

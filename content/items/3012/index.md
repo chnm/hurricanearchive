@@ -21,6 +21,8 @@ files:
     original_filename: 100_0261.JPG
     thumb: /files/thumbnails/14fb2a5ee039ac14fb2a5ee03d8d.jpg
     url: /files/original/14fb2a5ee039ac14fb2a5ee03d8d.jpg
+    alt:
+      en: "Close-up of a weathered metal surface with streaks of rust, pitting, and small corroded holes across a gray-brown textured background."
 geo:
 id: 3012
 item_type: Still Image

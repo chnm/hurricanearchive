@@ -27,6 +27,8 @@ files:
     original_filename: 2309933551_aa031ce549.
     thumb: /files/thumbnails/14fb29c9ab20c314fb29c9ab24a9.jpg
     url: /files/original/14fb29c9ab20c314fb29c9ab24a9.jpg
+    alt:
+      en: "A man in a \"Slidell Bowling Association\" shirt and a dog stand on a storm-damaged concrete slab foundation, with scattered debris, a long wooden pier, and a hazy lake in the background."
 geo:
   address: 237 Debbie Dr.
   lat: 30.22539

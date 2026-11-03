@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 044cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e8a240414fb2a0e8a27e9.jpg
     url: /files/original/14fb2a0e8a240414fb2a0e8a27e9.jpg
+    alt:
+      en: "Man in camouflage military uniform and sunglasses stands in front of a dark blue bus labeled \"Arkansas Air National Guard\" across the top, with \"Emergency Exit\" signs visible on its windows."
 geo:
 id: 19657
 item_type: Still Image

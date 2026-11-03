@@ -21,6 +21,8 @@ files:
     original_filename: 052507NOLA10RWlg_41a07939ca.jpg
     thumb: /files/thumbnails/14fb29cc1c789a14fb29cc1c7c8a.jpg
     url: /files/original/14fb29cc1c789a14fb29cc1c7c8a.jpg
+    alt:
+      en: "Silhouette of a firefighter in helmet and gear standing before a burning structure, smoke and flames illuminating the dark scene around charred debris."
 geo:
 id: 31594
 item_type: Still Image

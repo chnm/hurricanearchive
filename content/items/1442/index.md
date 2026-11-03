@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28646.jpg
     thumb: /files/thumbnails/14fb2a68aae50c14fb2a68aaeca3.jpg
     url: /files/original/14fb2a68aae50c14fb2a68aaeca3.jpg
+    alt:
+      en: "Silver SUV with \"LASPCA ANIMAL RESCUE\" hand-lettered on its rear window, parked at the Lamar-Dixon Fairgrounds animal rescue depot with crates and canopy structures in the background."
 geo:
   address: ''
   lat: 0.0

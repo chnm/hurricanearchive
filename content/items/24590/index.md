@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0122-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e65e95ad14fb29e65e9c6a.jpg
     url: /files/original/14fb29e65e95ad14fb29e65e9c6a.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with submerged houses, a long low-rise building, bare trees rising from brown floodwater, and scattered debris across the landscape."
 geo:
 id: 24590
 item_type: Still Image

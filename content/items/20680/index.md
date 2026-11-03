@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0055M.JPG
     thumb: /files/thumbnails/14fb2a0513ee4e14fb2a05145a30.jpg
     url: /files/original/14fb2a0513ee4e14fb2a05145a30.jpg
+    alt:
+      en: "A person in military camouflage fatigues with a U.S. flag patch handles syringes and vials from a supply box, the image oriented sideways."
 geo:
 id: 20680
 item_type: Still Image

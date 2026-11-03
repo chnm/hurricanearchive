@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a05a0763014fb2a05a07b13.jpg
     url: /files/original/14fb2a05a0763014fb2a05a07b13.jpg
+    alt:
+      en: "Police car parked beside a flooded mobile home as two officers stand talking near the entrance, with a flatbed trailer and floodwater visible along the roadside."
 geo:
 id: 20617
 item_type: Still Image

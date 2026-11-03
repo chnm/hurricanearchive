@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0098OEP.JPG
     thumb: /files/thumbnails/14fb29f197068614fb29f1970a62.jpg
     url: /files/original/14fb29f197068614fb29f1970a62.jpg
+    alt:
+      en: "Crowded office with rows of cubicles where workers sit at computers and phones, beneath large projection screens displaying news broadcasts, weather radar, and a \"Serious Incidents\" map of Louisiana with injury and fatality statistics."
 geo:
 id: 23088
 item_type: Still Image

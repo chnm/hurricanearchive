@@ -21,6 +21,8 @@ files:
     original_filename: Picture 024engineers.jpg
     thumb: /files/thumbnails/14fb2a0fe0df6f14fb2a0fe0e885.jpg
     url: /files/original/14fb2a0fe0df6f14fb2a0fe0e885.jpg
+    alt:
+      en: "Several men in military and civilian clothing help lift a woman onto a truck bed, with a \"Hart Medical EMS\" ambulance and debris-strewn lot in the background."
 geo:
 id: 19464
 item_type: Still Image

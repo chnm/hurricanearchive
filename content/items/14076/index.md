@@ -21,6 +21,8 @@ files:
     original_filename: 20051001009.JPG
     thumb: /files/thumbnails/14fb2a1be769c614fb2a1be76dab.jpg
     url: /files/original/14fb2a1be769c614fb2a1be76dab.jpg
+    alt:
+      en: "Exterior of a Louisiana National Guard armory building with \"LOUISIANA NATIONAL...\" lettering, a flagpole, and a sign reading \"Louisiana Army National Guard Company A 2D Battalion 156th Infantry (Mechanized),\" with two SUVs parked in front."
 geo:
   address: ''
   lat: 0.0

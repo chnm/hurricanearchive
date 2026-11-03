@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_CameronSimms_04_271a4fe771.jpg
     thumb: /files/thumbnails/14fb2a181ca0fc14fb2a181ca7eb.jpg
     url: /files/original/14fb2a181ca0fc14fb2a181ca7eb.jpg
+    alt:
+      en: "A smiling boy in a green polo shirt with \"GSS\" lettering sits wearing a backpack, in a classroom with a bookshelf of children's books, a stuffed monkey, and a round table."
 geo:
 id: 14696
 item_type: Still Image

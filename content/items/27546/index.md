@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7128_813736268c.jpg
     thumb: /files/thumbnails/14fb29d3809a4014fb29d3809e26.jpg
     url: /files/original/14fb29d3809a4014fb29d3809e26.jpg
+    alt:
+      en: "A priest in white vestments baptizes an infant over a font labeled \"Fountain of Water Spring,\" as parents look on and a bystander photographs the ceremony."
 geo:
   address: ''
   lat: 29.80252

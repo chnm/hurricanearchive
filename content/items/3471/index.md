@@ -24,6 +24,8 @@ files:
     original_filename: P1010040.JPG
     thumb: /files/thumbnails/14fb2a5b96be6414fb2a5b96c23b.jpg
     url: /files/original/14fb2a5b96be6414fb2a5b96c23b.jpg
+    alt:
+      en: "Debris pile of broken wooden chairs with turned legs, caked in dried mud and white residue, surrounded by scattered paper, metal pipes, and a discarded soda bottle."
 geo:
 id: 3471
 item_type: Still Image

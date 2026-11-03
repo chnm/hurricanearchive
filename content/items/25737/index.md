@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-12KPandbrianonboat_c7c8e77f8e.jpg
     thumb: /files/thumbnails/14fb29dc8ac82614fb29dc8acc0b.jpg
     url: /files/original/14fb29dc8ac82614fb29dc8acc0b.jpg
+    alt:
+      en: "Severely water-damaged snapshot of two children seated on a boat at sea, with a girl in a white t-shirt and a boy in a yellow shirt, the photo's edges heavily eroded and discolored."
 geo:
 id: 25737
 item_type: Still Image

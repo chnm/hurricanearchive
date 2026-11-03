@@ -20,6 +20,8 @@ files:
     original_filename: 2456720171_789305f464.
     thumb: /files/thumbnails/14fb29c8a1cb2214fb29c8a1cf08.jpg
     url: /files/original/14fb29c8a1cb2214fb29c8a1cf08.jpg
+    alt:
+      en: "Large blue industrial panels mounted on wooden supports stand above a flooded, debris-strewn lot, with pipelines and structural beams visible in the foreground and background."
 geo:
 id: 34895
 item_type: Still Image

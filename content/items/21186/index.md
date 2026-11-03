@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0193-21.JPG
     thumb: /files/thumbnails/14fb2a0029c13f14fb2a0029c503.jpg
     url: /files/original/14fb2a0029c13f14fb2a0029c503.jpg
+    alt:
+      en: "A Fox News reporter holds a microphone toward a smiling man in military camouflage uniform as a cameraman films, with other uniformed personnel and bystanders visible nearby."
 geo:
 id: 21186
 item_type: Still Image

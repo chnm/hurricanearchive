@@ -21,6 +21,8 @@ files:
     original_filename: LeoSchaeffer3B_960f76763f.jpg
     thumb: /files/thumbnails/14fb29dd3cde3414fb29dd3cee62.jpg
     url: /files/original/14fb29dd3cde3414fb29dd3cee62.jpg
+    alt:
+      en: "A cracked, debris-strewn parking lot with a handicap parking sign, yellow bollards, and a car perched atop one bollard; damaged buildings and trees are visible in the background."
 geo:
 id: 25545
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2417116966_41e6211c67.
     thumb: /files/thumbnails/14fb29c82b604014fb29c82b6425.jpg
     url: /files/original/14fb29c82b604014fb29c82b6425.jpg
+    alt:
+      en: "Aerial view of a long levee or canal construction site, with a clear blue waterway on one side and a muddy brown channel on the other, separated by a raised earthen embankment with visible erosion control matting."
 geo:
 id: 34958
 item_type: Still Image

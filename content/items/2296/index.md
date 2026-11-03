@@ -26,6 +26,8 @@ files:
     original_filename: PICT2285_72e3172e98.JPG
     thumb: /files/thumbnails/14fb2a6d5ce17714fb2a6d5ce8de.jpg
     url: /files/original/14fb2a6d5ce17714fb2a6d5ce8de.jpg
+    alt:
+      en: "Storm surge waves crash around large oak trees on a flooded lawn, with debris scattered across a parking lot and grass in the foreground under a hazy gray sky."
 geo:
   address: ''
   lat: 30.306503259848803

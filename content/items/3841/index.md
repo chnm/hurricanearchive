@@ -21,6 +21,8 @@ files:
     original_filename: 100_0133.JPG
     thumb: /files/thumbnails/14fb2a59479f0714fb2a5947a2f5.jpg
     url: /files/original/14fb2a59479f0714fb2a5947a2f5.jpg
+    alt:
+      en: "A house with a blue metal roof and white porch stands partially surrounded by floodwater near a damaged dock, with stripped, storm-damaged trees lining the shoreline behind it."
 geo:
 id: 3841
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1172Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f70d51dd14fb29f70d55c1.jpg
     url: /files/original/14fb29f70d51dd14fb29f70d55c1.jpg
+    alt:
+      en: "Floodwaters surge past brick gateposts, a lamppost, and an iron fence in front of a brick building, with wind-whipped trees and rain visible in the stormy scene."
 geo:
 id: 22356
 item_type: Still Image

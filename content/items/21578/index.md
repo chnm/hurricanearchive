@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0313-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd7063b814fb29fd706a35.jpg
     url: /files/original/14fb29fd7063b814fb29fd706a35.jpg
+    alt:
+      en: "Aerial view of a flooded residential property with brick house, carport, and trailer, surrounded by rising floodwater that submerges a dock, fencing, and part of the yard."
 geo:
 id: 21578
 item_type: Still Image

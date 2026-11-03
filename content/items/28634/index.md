@@ -25,6 +25,8 @@ files:
     original_filename: 158885479_cc1d4a9990.jpg
     thumb: /files/thumbnails/14fb29d200808114fb29d2008463.jpg
     url: /files/original/14fb29d200808114fb29d2008463.jpg
+    alt:
+      en: "A damaged mailbox reading \"SPRING\" hangs on a chain-link fence in front of a debris-strewn property with scattered wood, rubble, and a collapsed structure."
 geo:
 id: 28634
 item_type: Still Image

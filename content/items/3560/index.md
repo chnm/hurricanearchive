@@ -24,6 +24,8 @@ files:
     original_filename: P1010136.JPG
     thumb: /files/thumbnails/14fb2a5ad1689c14fb2a5ad16c81.jpg
     url: /files/original/14fb2a5ad1689c14fb2a5ad16c81.jpg
+    alt:
+      en: "A large fallen tree trunk with exposed cut branches lies across a grassy park area near a paved path, surrounded by other still-standing trees in the background."
 geo:
 id: 3560
 item_type: Still Image

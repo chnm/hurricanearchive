@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27968.jpg
     thumb: /files/thumbnails/14fb2a6af3745814fb2a6af3783b.jpg
     url: /files/original/14fb2a6af3745814fb2a6af3783b.jpg
+    alt:
+      en: "A closed gray double door marked \"DANGER\" in red text, set into a stone building facade, with sandbags lined along the base of the doorway."
 geo:
   address: ''
   lat: 0.0

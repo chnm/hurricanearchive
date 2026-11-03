@@ -21,6 +21,8 @@ files:
     original_filename: DSC00963.JPG
     thumb: /files/thumbnails/14fb2a58cd50cb14fb2a58cd54b0.jpg
     url: /files/original/14fb2a58cd50cb14fb2a58cd54b0.jpg
+    alt:
+      en: "Two U.S. Coast Guard personnel in navy caps and tactical vests, one wearing sunglasses, stand outdoors near a building; a timestamp reads \"5:07 PM\" in the corner."
 geo:
 id: 3944
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: guy with umbrella_6b4b147a55.jpg
     thumb: /files/thumbnails/14fb29d744a4fa14fb29d744a896.jpg
     url: /files/original/14fb29d744a4fa14fb29d744a896.jpg
+    alt:
+      en: "A student twirls a decorated umbrella with fruit designs and ribbons while dancing in front of a crowd, with pom-poms visible in the foreground, from the Chalmette High School 1984 yearbook."
 geo:
 id: 26849
 item_type: Still Image

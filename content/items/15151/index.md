@@ -21,6 +21,8 @@ files:
     original_filename: Arthur on Horse_67d598c523.jpg
     thumb: /files/thumbnails/14fb2a16e80d2c14fb2a16e81111.jpg
     url: /files/original/14fb2a16e80d2c14fb2a16e81111.jpg
+    alt:
+      en: "Sepia-toned photo of a young child in a cowboy hat and striped shirt smiling while seated on a saddled pony, with a wooden house and metal porch chair in the background."
 geo:
   address: ''
   lat: 37.77123

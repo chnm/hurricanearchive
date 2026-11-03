@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0128-9-25.JPG
     thumb: /files/thumbnails/14fb29e614dc0114fb29e614e33a.jpg
     url: /files/original/14fb29e614dc0114fb29e614e33a.jpg
+    alt:
+      en: "Aerial view of a flooded roadway and submerged buildings surrounded by bare, storm-damaged trees, with a small boat navigating the floodwaters near a partially visible road sign."
 geo:
 id: 24621
 item_type: Still Image

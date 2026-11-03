@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052westend.JPG
     thumb: /files/thumbnails/14fb2a15060ab614fb2a15060e9b.jpg
     url: /files/original/14fb2a15060ab614fb2a15060e9b.jpg
+    alt:
+      en: "Aerial view of a marina with numerous docked boats and sailboats along floating piers, some vessels appearing damaged or partially submerged, with dark water surrounding the dock system."
 geo:
 id: 18828
 item_type: Still Image

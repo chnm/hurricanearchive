@@ -20,6 +20,8 @@ files:
     original_filename: kayla_3659ab4568.jpg
     thumb: /files/thumbnails/14fb29c4d626d714fb29c4d62aaf.jpg
     url: /files/original/14fb29c4d626d714fb29c4d62aaf.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood bisected by a straight roadway, with scattered houses, rooftops, trees, and a larger institutional building complex near the center."
 geo:
   address: 225 Carnation Ave.
   lat: 0.0

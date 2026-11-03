@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0032_5200664a41.JPG
     thumb: /files/thumbnails/14fb2a6fdce68314fb2a6fdceaa2.jpg
     url: /files/original/14fb2a6fdce68314fb2a6fdceaa2.jpg
+    alt:
+      en: "A bent and partially collapsed black metal fence runs alongside scattered debris, broken wood beams, torn fabric, and litter covering the bare ground, with leafless trees in the background."
 geo:
   address: ''
   lat: 29.993002284551103

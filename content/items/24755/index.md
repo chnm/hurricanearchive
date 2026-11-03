@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2077superdome.JPG
     thumb: /files/thumbnails/14fb29e523c8e014fb29e523ccc6.jpg
     url: /files/original/14fb29e523c8e014fb29e523ccc6.jpg
+    alt:
+      en: "Soldiers in camouflage stand behind metal barricades near stacked cases of bottled water, with a woman in a blue hat and a young man in a white shirt nearby; a sign reads \"Exit Claiborne.\""
 geo:
 id: 24755
 item_type: Still Image

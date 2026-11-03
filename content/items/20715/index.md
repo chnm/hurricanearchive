@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063-9-25.JPG
     thumb: /files/thumbnails/14fb2a04ab1ec714fb2a04ab4c2e.jpg
     url: /files/original/14fb2a04ab1ec714fb2a04ab4c2e.jpg
+    alt:
+      en: "Aerial view of a flooded landscape with a partially submerged road, scattered debris, fallen trees, and utility poles surrounded by murky water."
 geo:
 id: 20715
 item_type: Still Image

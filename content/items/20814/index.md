@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0084-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0399a91314fb2a0399acfb.jpg
     url: /files/original/14fb2a0399a91314fb2a0399acfb.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential area with standing water covering foundations, bare storm-stripped trees, scattered debris, and a truck with forklift parked along a cleared road."
 geo:
 id: 20814
 item_type: Still Image

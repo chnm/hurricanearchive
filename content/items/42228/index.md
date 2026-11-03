@@ -20,6 +20,8 @@ files:
     original_filename: beads_de622924a7.jpg
     thumb: /files/thumbnails/14fb29c2ada73514fb29c2adaa8d.jpg
     url: /files/original/14fb29c2ada73514fb29c2adaa8d.jpg
+    alt:
+      en: "A damaged yellow house with green trim, address 2041, stands behind a large pile of debris including broken wood, a mattress, and scattered Mardi Gras beads in various colors."
 geo:
 id: 42228
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0061tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d0af5f014fb2a0d0af9de.jpg
     url: /files/original/14fb2a0d0af5f014fb2a0d0af9de.jpg
+    alt:
+      en: "A woman wearing a white hard hat smiles and looks upward, seen through the wooden framing of a structure under construction, with corrugated panels visible in the background."
 geo:
 id: 19872
 item_type: Still Image

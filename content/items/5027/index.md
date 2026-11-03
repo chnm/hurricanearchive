@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0372.JPG
     thumb: /files/thumbnails/14fb2a5457be0914fb2a5457c1ef.jpg
     url: /files/original/14fb2a5457be0914fb2a5457c1ef.jpg
+    alt:
+      en: "Collapsed wooden fence sections and scattered boards lie amid mulch and debris, with damaged tree branches and structures visible in the background."
 geo:
 id: 5027
 item_type: Still Image

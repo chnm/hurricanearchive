@@ -21,6 +21,8 @@ files:
     original_filename: 04.08 N.O.045.JPG
     thumb: /files/thumbnails/14fb29dccb678d14fb29dccb6b9b.jpg
     url: /files/original/14fb29dccb678d14fb29dccb6b9b.jpg
+    alt:
+      en: "Corner of a light blue wood-sided building with dark blue trim, featuring a painted white door numbered \"2300,\" a decorative porch post, and a covered porch overhang."
 geo:
 id: 25669
 item_type: Still Image

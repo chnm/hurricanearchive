@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.051.JPG
     thumb: /files/thumbnails/14fb29dcf7690114fb29dcf76ce7.jpg
     url: /files/original/14fb29dcf7690114fb29dcf76ce7.jpg
+    alt:
+      en: "A bearded man in a plaid shirt and cap faces a young boy across a table set up for chess, with a clock, carved pieces, a ceramic stein draped in Mardi Gras beads, and a bowl between them."
 geo:
 id: 25632
 item_type: Still Image

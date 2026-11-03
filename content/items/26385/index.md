@@ -21,6 +21,8 @@ files:
     original_filename: RhinaKissee-5926_72c1262089.jpg
     thumb: /files/thumbnails/14fb29d90422bd14fb29d90426a3.jpg
     url: /files/original/14fb29d90422bd14fb29d90426a3.jpg
+    alt:
+      en: "Four people stand together outdoors in falling snow behind a partially built snowman, with houses, vehicles, and bare trees visible in the background; one wears a \"Shelton Football\" sweatshirt."
 geo:
   address: ''
   lat: 29.94661

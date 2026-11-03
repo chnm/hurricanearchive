@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0171-9-25.JPG
     thumb: /files/thumbnails/14fb2a0105e4ba14fb2a0105e898.jpg
     url: /files/original/14fb2a0105e4ba14fb2a0105e898.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with a metal-roofed house partially submerged among bare trees, surrounded by debris and floating wreckage in murky water."
 geo:
 id: 21025
 item_type: Still Image

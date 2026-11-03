@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0644.JPG
     thumb: /files/thumbnails/14fb2a536b5c6214fb2a536b6047.jpg
     url: /files/original/14fb2a536b5c6214fb2a536b6047.jpg
+    alt:
+      en: "Debris and broken tree branches litter the shoreline of a calm waterway, with tall pine trees leaning at angles and scattered wood planks and rubble along the bank."
 geo:
 id: 5199
 item_type: Still Image

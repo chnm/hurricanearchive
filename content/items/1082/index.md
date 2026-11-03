@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28519.jpg
     thumb: /files/thumbnails/14fb2a6b22f05414fb2a6b22f442.jpg
     url: /files/original/14fb2a6b22f05414fb2a6b22f442.jpg
+    alt:
+      en: "A man in a gray shirt and tan pants attaches a white \"EXIT ONLY\" sign to a wooden fence post beside a black metal gate."
 geo:
   address: ''
   lat: 0.0

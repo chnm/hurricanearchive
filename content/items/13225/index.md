@@ -21,6 +21,8 @@ files:
     original_filename: 220 brandy.jpg
     thumb: /files/thumbnails/14fb2a1f2ce45b14fb2a1f2ce82c.jpg
     url: /files/original/14fb2a1f2ce45b14fb2a1f2ce82c.jpg
+    alt:
+      en: "An empty Paul Masson VSOP Grande Amber Brandy bottle lies on its side amid torn, mud-caked debris and scattered leaves on a cracked asphalt surface."
 geo:
 id: 13225
 item_type: Still Image

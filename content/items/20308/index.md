@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0175.JPG
     thumb: /files/thumbnails/14fb2a099c9e6a14fb2a099ca248.jpg
     url: /files/original/14fb2a099c9e6a14fb2a099ca248.jpg
+    alt:
+      en: "Aerial view of a hazy city skyline with high-rise buildings and a domed stadium in the distance, overlooking dense residential neighborhoods with trees and rooftops in the foreground, alongside a river and bridge on the left."
 geo:
 id: 20308
 item_type: Still Image

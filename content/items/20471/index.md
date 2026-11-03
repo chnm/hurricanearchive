@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019M.JPG
     thumb: /files/thumbnails/14fb2a0700431d14fb2a07004702.jpg
     url: /files/original/14fb2a0700431d14fb2a07004702.jpg
+    alt:
+      en: "Twin concrete highway bridges with low parapet walls cross a waterway lined with dense green trees under a clear blue sky, with a dashed yellow road marking visible in the foreground."
 geo:
 id: 20471
 item_type: Still Image

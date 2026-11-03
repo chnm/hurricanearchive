@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140008.JPG
     thumb: /files/thumbnails/14fb2a0a8632fb14fb2a0a8636e1.jpg
     url: /files/original/14fb2a0a8632fb14fb2a0a8636e1.jpg
+    alt:
+      en: "Military Humvee convoy drives down a debris-strewn residential street lined with modest houses and parked civilian vehicles, photographed from inside a following military vehicle."
 geo:
 id: 20234
 item_type: Still Image

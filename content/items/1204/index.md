@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27887.jpg
     thumb: /files/thumbnails/14fb2a6a6aacf114fb2a6a6ab0d5.jpg
     url: /files/original/14fb2a6a6aacf114fb2a6a6ab0d5.jpg
+    alt:
+      en: "A large fallen oak tree crushes the corrugated metal siding and roof of a trailer home, with roosters perched among the tangled branches near the damaged structure."
 geo:
   address: ''
   lat: 0.0

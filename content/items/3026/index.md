@@ -21,6 +21,8 @@ files:
     original_filename: 100_0275.JPG
     thumb: /files/thumbnails/14fb2a5eb3f9ab14fb2a5eb3fd91.jpg
     url: /files/original/14fb2a5eb3f9ab14fb2a5eb3fd91.jpg
+    alt:
+      en: "Precast concrete beams and girders with exposed anchor bolts lie stacked at a storage yard, with rebar, coiled cable, and a damaged wooden post among the debris."
 geo:
 id: 3026
 item_type: Still Image

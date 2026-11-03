@@ -21,6 +21,8 @@ files:
     original_filename: Picture 038cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c3ef45514fb2a0c3efda2.jpg
     url: /files/original/14fb2a0c3ef45514fb2a0c3efda2.jpg
+    alt:
+      en: "A person in military-style clothing sits in a chair holding a weapon near an intersection, with two other people standing nearby and mismatched chairs set out on the street amid storm debris and a boarded-up building."
 geo:
 id: 19942
 item_type: Still Image

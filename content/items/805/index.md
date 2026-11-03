@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28158.jpg
     thumb: /files/thumbnails/14fb2a6ceab48814fb2a6ceab9e5.jpg
     url: /files/original/14fb2a6ceab48814fb2a6ceab9e5.jpg
+    alt:
+      en: "White work van with roof rack sits abandoned on cracked, dried mud near a roadside, with a two-story house and bare trees visible in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 47.jpg
     thumb: /files/thumbnails/14fb2a6053d43b14fb2a6053d819.jpg
     url: /files/original/14fb2a6053d43b14fb2a6053d819.jpg
+    alt:
+      en: "Child's drawing labeled \"Tyree 2,\" featuring dense blue scribbles and loops with some brown shading, set against a blank white background."
 geo:
 id: 2751
 item_type: Still Image

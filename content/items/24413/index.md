@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0089-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e82b297c14fb29e82b2d5e.jpg
     url: /files/original/14fb29e82b297c14fb29e82b2d5e.jpg
+    alt:
+      en: "Aerial view of a flattened coastal community with debris-strewn lots, scattered rooftops, and bare trees standing amid standing floodwater, with a road and marshland in the distance."
 geo:
 id: 24413
 item_type: Still Image

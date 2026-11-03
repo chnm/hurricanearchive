@@ -21,6 +21,8 @@ files:
     original_filename: 102-05_f120d3e4e9.jpg
     thumb: /files/thumbnails/14fb2a22289bfe14fb2a2228aa8b.jpg
     url: /files/original/14fb2a22289bfe14fb2a2228aa8b.jpg
+    alt:
+      en: "A man in a plaid shirt sits with both hands raised, surrounded by a cluttered room with food containers, a tray table, beaded necklaces, and clothing hanging in the background."
 geo:
 id: 12416
 item_type: Still Image

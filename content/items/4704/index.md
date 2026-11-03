@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0313.JPG
     thumb: /files/thumbnails/14fb2a560af8f614fb2a560b0302.jpg
     url: /files/original/14fb2a560af8f614fb2a560b0302.jpg
+    alt:
+      en: "Two damaged boats, one red-hulled and one white with a windshield frame, lie overturned amid dense green brush and trees, likely storm debris."
 geo:
 id: 4704
 item_type: Still Image

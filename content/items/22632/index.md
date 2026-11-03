@@ -21,6 +21,8 @@ files:
     original_filename: JB front doorJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4eee73f14fb29f4eeea24.jpg
     url: /files/original/14fb29f4eee73f14fb29f4eeea24.jpg
+    alt:
+      en: "Flooded street viewed through an open doorway, with a submerged car and floating debris surrounded by muddy water, bare trees and a brick building visible in the background."
 geo:
 id: 22632
 item_type: Still Image

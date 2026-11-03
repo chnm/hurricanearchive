@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0122-9-25.JPG
     thumb: /files/thumbnails/14fb29e64b6c9314fb29e64b7088.jpg
     url: /files/original/14fb29e64b6c9314fb29e64b7088.jpg
+    alt:
+      en: "Aerial view of widespread flooding submerging houses, a long low building, trees, and roads, with debris floating in the murky water and a dark lens obstruction in the upper portion of the frame."
 geo:
 id: 24591
 item_type: Still Image

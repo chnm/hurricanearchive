@@ -21,6 +21,8 @@ files:
     original_filename: 101MSD-DSC00116 DSC00116cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e5c1deb914fb29e5c1e29f.jpg
     url: /files/original/14fb29e5c1deb914fb29e5c1e29f.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms gathered outside a white building marked \"119 Smith Circle,\" with a monument visible in the foreground and more soldiers standing near the entrance steps."
 geo:
 id: 24666
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0451_f86ec59d63.JPG
     thumb: /files/thumbnails/14fb2a7015bad514fb2a7015c4a7.jpg
     url: /files/original/14fb2a7015bad514fb2a7015c4a7.jpg
+    alt:
+      en: "Debris-strewn waterfront with broken docks, rusted metal, chunks of concrete, scattered wood, and a discarded mattress piled near the water's edge; a calm harbor with boats lies in the background."
 geo:
   address: ''
   lat: 30.353916372297

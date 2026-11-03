@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0015H.JPG
     thumb: /files/thumbnails/14fb2a073c29b814fb2a073c2d9e.jpg
     url: /files/original/14fb2a073c29b814fb2a073c2d9e.jpg
+    alt:
+      en: "Dimly lit indoor gathering with several people; a woman in a white tank top holds a pen, while another woman's shirt displays an \"I ♥ HOOTERS\" button; string lights glow in the background."
 geo:
 id: 20439
 item_type: Still Image

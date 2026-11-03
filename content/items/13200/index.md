@@ -21,6 +21,8 @@ files:
     original_filename: 193 street flooding.jpg
     thumb: /files/thumbnails/14fb2a1f67383b14fb2a1f673f37.jpg
     url: /files/original/14fb2a1f67383b14fb2a1f673f37.jpg
+    alt:
+      en: "A flooded street lined with trees submerges a stop sign, fire hydrant, and yard signs, with a white house visible on the right and floating debris on the water's surface."
 geo:
 id: 13200
 item_type: Still Image

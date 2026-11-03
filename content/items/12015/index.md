@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi538.JPG
     thumb: /files/thumbnails/14fb2a2254f40b14fb2a2254f7e9.jpg
     url: /files/original/14fb2a2254f40b14fb2a2254f7e9.jpg
+    alt:
+      en: "A smiling woman in a gray suit and a man in a blue shirt greet children outdoors near temporary buildings and a school bus, with a partial sign reading \"A NATIONAL\" visible in the background."
 geo:
 id: 12015
 item_type: Still Image

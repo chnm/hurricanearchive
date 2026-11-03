@@ -24,6 +24,8 @@ files:
     original_filename: 0006.JPG
     thumb: /files/thumbnails/14fb2a5c04178d14fb2a5c041b73.jpg
     url: /files/original/14fb2a5c04178d14fb2a5c041b73.jpg
+    alt:
+      en: "Nighttime street view from a vehicle's headlights, showing a residential intersection with a wooden fence, piles of debris along the curbs, parked cars, and small houses, with a stop sign visible at left."
 geo:
 id: 3425
 item_type: Still Image

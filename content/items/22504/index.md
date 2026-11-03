@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1345Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5cb410714fb29f5cb44eb.jpg
     url: /files/original/14fb29f5cb410714fb29f5cb44eb.jpg
+    alt:
+      en: "Floodwater surrounds dark tree trunks in the foreground, with storm-damaged trees leaning over a partially submerged building visible in the misty background under an overcast sky."
 geo:
 id: 22504
 item_type: Still Image

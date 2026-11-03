@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002OEP.JPG
     thumb: /files/thumbnails/14fb29f234cf5414fb29f234dc38.jpg
     url: /files/original/14fb29f234cf5414fb29f234dc38.jpg
+    alt:
+      en: "A military helicopter sits parked on a grassy sports field with a soccer goal in the foreground, surrounded by a chain-link fence, trees, and buildings in the background under a clear sky."
 geo:
 id: 22992
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2256neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f03b617e14fb29f03b655b.jpg
     url: /files/original/14fb29f03b617e14fb29f03b655b.jpg
+    alt:
+      en: "Front porch of a single-story house with curved brick steps, white wrought-iron railings, a weathered white door, and a leaning \"Support Our Troops\" yard sign beside the steps."
 geo:
 id: 23260
 item_type: Still Image

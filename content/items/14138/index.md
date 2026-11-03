@@ -21,6 +21,8 @@ files:
     original_filename: HQ 45th IN BDE.JPG
     thumb: /files/thumbnails/14fb2a1b8ccac514fb2a1b8cd247.jpg
     url: /files/original/14fb2a1b8ccac514fb2a1b8cd247.jpg
+    alt:
+      en: "Row of military Humvees and trucks, including one marked with a red cross, parked in a lot beside a multi-story beige building; timestamp reads 09.21.2005 11:20."
 geo:
   address: ''
   lat: 0.0

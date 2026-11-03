@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0443.JPG
     thumb: /files/thumbnails/14fb2a53ea32d414fb2a53ea36b2.jpg
     url: /files/original/14fb2a53ea32d414fb2a53ea36b2.jpg
+    alt:
+      en: "A person's hand holds a yellow tape measure against a wooden beam fitted with two metal joist hangers, measuring roughly 17 inches, with debris and a plastic container visible in the background."
 geo:
 id: 5098
 item_type: Still Image

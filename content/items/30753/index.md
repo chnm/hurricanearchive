@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7466.JPG
     thumb: /files/thumbnails/14fb29cc97937f14fb29cc97975e.jpg
     url: /files/original/14fb29cc97937f14fb29cc97975e.jpg
+    alt:
+      en: "View from inside a vehicle driving down a narrow two-lane road lined with trees, with guardrails and a yellow caution sign visible ahead; a driver's hand grips the steering wheel, dashboard clock reads 12:56."
 geo:
 id: 30753
 item_type: Still Image

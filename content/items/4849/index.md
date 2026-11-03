@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0168.JPG
     thumb: /files/thumbnails/14fb2a552a024014fb2a552a09b7.jpg
     url: /files/original/14fb2a552a024014fb2a552a09b7.jpg
+    alt:
+      en: "A yellow tape measure extends across exposed oriented strand board wall studs, held by a hand on the right, with reflective insulation visible beyond the framing."
 geo:
 id: 4849
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300024zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f1ef5d114fb2a0f1ef9b6.jpg
     url: /files/original/14fb2a0f1ef5d114fb2a0f1ef9b6.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and sunglasses fills large water jugs from a military \"POTABLE WATER ONLY\" tanker trailer marked \"C26T,\" with Humvees lined up in the background."
 geo:
 id: 19570
 item_type: Still Image

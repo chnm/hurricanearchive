@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004-9-25.JPG
     thumb: /files/thumbnails/14fb2a08892a1a14fb2a0889382b.jpg
     url: /files/original/14fb2a08892a1a14fb2a0889382b.jpg
+    alt:
+      en: "A man wearing glasses sits at a table in dim light, reaching toward a glass jar, with a carton of eggs, bottled water, and metal plates visible nearby."
 geo:
 id: 20351
 item_type: Still Image

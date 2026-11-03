@@ -21,6 +21,8 @@ files:
     original_filename: aerials114.jpg
     thumb: /files/thumbnails/14fb2a1a4d0bca14fb2a1a4d0fac.jpg
     url: /files/original/14fb2a1a4d0bca14fb2a1a4d0fac.jpg
+    alt:
+      en: "Aerial view of homes on stilts along a winding waterway, surrounded by barren, storm-damaged trees and cleared land."
 geo:
 id: 14273
 item_type: Still Image

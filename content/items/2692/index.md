@@ -21,6 +21,8 @@ files:
     original_filename: 116.jpg
     thumb: /files/thumbnails/14fb2a608459e814fb2a60845e21.jpg
     url: /files/original/14fb2a608459e814fb2a60845e21.jpg
+    alt:
+      en: "Child's crayon drawing of a house outlined in yellow over heavy blue scribbles, with a door, window, and doorknob, and the name \"Christopher\" written at the top."
 geo:
 id: 2692
 item_type: Still Image

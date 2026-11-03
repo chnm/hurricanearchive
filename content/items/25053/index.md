@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1578superdome.JPG
     thumb: /files/thumbnails/14fb29e2a1623814fb29e2a1660e.jpg
     url: /files/original/14fb29e2a1623814fb29e2a1660e.jpg
+    alt:
+      en: "Military Humvees marked \"X302\" and \"X404\" lead a convoy through floodwaters past a school bus, with additional vehicles submerged in the background."
 geo:
 id: 25053
 item_type: Still Image

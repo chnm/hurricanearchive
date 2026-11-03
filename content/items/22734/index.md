@@ -21,6 +21,8 @@ files:
     original_filename: PICT0856Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f457b84114fb29f457bc26.jpg
     url: /files/original/14fb29f457b84114fb29f457bc26.jpg
+    alt:
+      en: "Riveted metal vehicle surface in foreground overlooks a fenced lot with scattered debris, a storage trailer tipped on its side, houses, and bare trees under a hazy sky; date stamp reads 09.15.2005."
 geo:
 id: 22734
 item_type: Still Image

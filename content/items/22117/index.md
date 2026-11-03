@@ -21,6 +21,8 @@ files:
     original_filename: 09140028Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f97a3bb914fb29f97a3f9e.jpg
     url: /files/original/14fb29f97a3bb914fb29f97a3f9e.jpg
+    alt:
+      en: "A single-story brick house with a damaged roof sits behind a low brick wall, flanked by two rounded trees, with a dirt lot in the foreground and power lines overhead."
 geo:
 id: 22117
 item_type: Still Image

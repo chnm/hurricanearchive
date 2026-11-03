@@ -30,6 +30,8 @@ files:
     original_filename: adc06_67133e1d58.jpg
     thumb: /files/thumbnails/14fb29cbe84d6b14fb29cbe8515a.jpg
     url: /files/original/14fb29cbe84d6b14fb29cbe8515a.jpg
+    alt:
+      en: "Comic-style illustration of a windblown reporter wearing a cap labeled \"CNN,\" holding a microphone with the same logo, speaking amid rain and debris with a fence visible behind her."
 geo:
 id: 32525
 item_type: Hyperlink

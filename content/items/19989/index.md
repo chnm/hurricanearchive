@@ -21,6 +21,8 @@ files:
     original_filename: Picture 086cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bcdc96014fb2a0bcdd30b.jpg
     url: /files/original/14fb2a0bcdc96014fb2a0bcdd30b.jpg
+    alt:
+      en: "Concrete highway overpass supported by columns, with an auto repair shop and white van visible underneath; grassy roadside and transmission towers appear in the background under a blue sky."
 geo:
 id: 19989
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: NO 013majortodd.jpg
     thumb: /files/thumbnails/14fb29f2e611ae14fb29f2e63bb2.jpg
     url: /files/original/14fb29f2e611ae14fb29f2e63bb2.jpg
+    alt:
+      en: "Cockpit view from an approaching aircraft of a runway marked \"36\" ending at water's edge, with a crowd of people, vehicles, and emergency equipment gathered beside the tarmac."
 geo:
 id: 22891
 item_type: Still Image

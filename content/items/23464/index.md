@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0117cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef513d5514fb29ef514135.jpg
     url: /files/original/14fb29ef513d5514fb29ef514135.jpg
+    alt:
+      en: "Bearded man wearing an earplug looks down at a Nikon camera in his hands while seated inside an aircraft, with a blurred river and treeline visible through the open door behind him."
 geo:
 id: 23464
 item_type: Still Image

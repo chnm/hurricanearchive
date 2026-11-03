@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0357_c10b5f8b51.JPG
     thumb: /files/thumbnails/14fb2a701a2b3e14fb2a701a2f1a.jpg
     url: /files/original/14fb2a701a2b3e14fb2a701a2f1a.jpg
+    alt:
+      en: "A white clapboard church with a tin roof and small steeple stands damaged after a storm, its siding spray-painted \"DO NOT DESTROY HISTORICAL BUILDING BUILT 1868 BY C. LAFONTAINE BAYOU CADDY.\""
 geo:
   address: ''
   lat: 30.297017883372

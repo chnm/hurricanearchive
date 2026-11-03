@@ -20,6 +20,8 @@ files:
     original_filename: pt_dock_bridge_c38231458e.jpg
     thumb: /files/thumbnails/14fb29dd350ae714fb29dd350ecc.jpg
     url: /files/original/14fb29dd350ae714fb29dd350ecc.jpg
+    alt:
+      en: "Damaged dock with broken concrete sections, scattered wooden planks, and twisted metal supports leading to boats moored in dark water, with a radio tower visible in the background."
 geo:
   address: ''
   lat: 29.15216

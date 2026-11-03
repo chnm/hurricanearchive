@@ -26,6 +26,8 @@ files:
     original_filename: 025_23A_a5ae911b62.jpg
     thumb: /files/thumbnails/14fb2a6f3a6e6314fb2a6f3a75ca.jpg
     url: /files/original/14fb2a6f3a6e6314fb2a6f3a75ca.jpg
+    alt:
+      en: "A light-colored sedan lies completely flipped onto its roof on a street, parked beside another car, with a glass-paneled building in the background."
 geo:
   address: ''
   lat: 29.952108628540298

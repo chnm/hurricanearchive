@@ -21,6 +21,8 @@ files:
     original_filename: Jo Ellen Smith Convalescent Center.jpg
     thumb: /files/thumbnails/14fb29fb4e19f214fb29fb4e1dd6.jpg
     url: /files/original/14fb29fb4e19f214fb29fb4e1dd6.jpg
+    alt:
+      en: "Aerial view of the Jo Ellen Smith Convalescent Center complex with flat-roofed buildings, surrounding parking lots, green lawns, trees, and a road, overlaid with timestamp \"05 Sep 2005 15:56:40\" and coordinates."
 geo:
 id: 21873
 item_type: Still Image

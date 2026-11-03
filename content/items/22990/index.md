@@ -21,6 +21,8 @@ files:
     original_filename: Resupply at NAS NONASneworleans.jpg
     thumb: /files/thumbnails/14fb29f237001a14fb29f2370400.jpg
     url: /files/original/14fb29f237001a14fb29f2370400.jpg
+    alt:
+      en: "Damaged open-air warehouse structures with torn roofing labeled \"12\" and \"11,\" surrounded by stacked supply pallets, traffic cones, and a yellow loader on a concrete lot."
 geo:
 id: 22990
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28001.jpg
     thumb: /files/thumbnails/14fb2a6756895514fb2a67568d27.jpg
     url: /files/original/14fb2a6756895514fb2a67568d27.jpg
+    alt:
+      en: "A silver minivan with \"ANIMAL RESCUE SPCA\" written on its windows is parked on a dirt road, with storm-damaged houses and bare trees visible in the background."
 geo:
   address: ''
   lat: 0.0

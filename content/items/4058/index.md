@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0003.JPG
     thumb: /files/thumbnails/14fb2a5830a6ba14fb2a5830aa8d.jpg
     url: /files/original/14fb2a5830a6ba14fb2a5830aa8d.jpg
+    alt:
+      en: "A heavily damaged railroad bascule bridge with its counterweight and trusses raised at an odd angle, two workers in hard hats standing on the control tower platform above calm water."
 geo:
 id: 4058
 item_type: Still Image

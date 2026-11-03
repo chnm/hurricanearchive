@@ -26,6 +26,8 @@ files:
     original_filename: 0303180908260_b96a457bf0.JPG
     thumb: /files/thumbnails/14fb2a6d62743c14fb2a6d627822.jpg
     url: /files/original/14fb2a6d62743c14fb2a6d627822.jpg
+    alt:
+      en: "Row of white bungalow-style houses on Park Street with a damaged, rusted metal roof on one home; a red fire hydrant, power lines, and trees line the quiet street under a clear blue sky."
 geo:
   address: ''
   lat: 30.135425

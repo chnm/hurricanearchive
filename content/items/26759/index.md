@@ -24,6 +24,8 @@ files:
     original_filename: SW 1973 Atlanta_e629211a66.jpg
     thumb: /files/thumbnails/14fb29d7e8450d14fb29d7e848f2.jpg
     url: /files/original/14fb29d7e8450d14fb29d7e848f2.jpg
+    alt:
+      en: "Vintage, overlaid photograph of a group of people standing on a sidewalk in front of a building with a \"Howell House\" sign, with a bus parked nearby."
 geo:
   address: ''
   lat: 29.84064

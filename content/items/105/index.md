@@ -26,6 +26,8 @@ files:
     original_filename: katrinaGULFPORT_BILOXI_BRIDGE_242c171e3b.JPG
     thumb: /files/thumbnails/14fb2a710aefde14fb2a710af3c1.jpg
     url: /files/original/14fb2a710aefde14fb2a710af3c1.jpg
+    alt:
+      en: "Aerial view of a long bridge spanning a wide bay, with large sections of the roadway missing or collapsed near the shoreline, leaving isolated support piers standing in the water."
 geo:
   address: ''
   lat: 30.448673679287598

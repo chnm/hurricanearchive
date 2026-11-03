@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_WILM_05CHD_9f363bcb89.jpg
     thumb: /files/thumbnails/14fb2a66c4871214fb2a66c48b01.jpg
     url: /files/original/14fb2a66c4871214fb2a66c48b01.jpg
+    alt:
+      en: "A 47-foot motor life boat marked \"47222\" is hoisted on a large boat lift at a dock, with three men nearby and Miami high-rise buildings visible in the background."
 geo:
 id: 2386
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-07-6Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e575cf1e14fb29e575d2fc.jpg
     url: /files/original/14fb29e575cf1e14fb29e575d2fc.jpg
+    alt:
+      en: "Group of uniformed personnel and responders gathered on a wet loading dock ramp between two trucks, with a white van parked nearby and an overcast sky above."
 geo:
 id: 24705
 item_type: Still Image

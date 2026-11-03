@@ -20,6 +20,8 @@ files:
     original_filename: 2420897239_c07c82a56e.
     thumb: /files/thumbnails/14fb29c9321bfc14fb29c9321fe0.jpg
     url: /files/original/14fb29c9321bfc14fb29c9321fe0.jpg
+    alt:
+      en: "Residential street with large piles of storm debris and broken building materials along the roadside, parked cars, a utility pole with wires, and houses with sloped roofs beneath a partly cloudy sky."
 geo:
   address: ''
   lat: 29.99774

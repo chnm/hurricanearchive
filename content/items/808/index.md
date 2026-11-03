@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28478.jpg
     thumb: /files/thumbnails/14fb2a6ce8c0a414fb2a6ce8c489.jpg
     url: /files/original/14fb2a6ce8c0a414fb2a6ce8c489.jpg
+    alt:
+      en: "Interior stairwell with a carpeted staircase and white painted handrails, both heavily stained with mold or water damage; the walls show dark discoloration from flooding."
 geo:
   address: ''
   lat: 0.0

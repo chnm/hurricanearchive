@@ -24,6 +24,8 @@ files:
     original_filename: P1010118.JPG
     thumb: /files/thumbnails/14fb2a5a26816e14fb2a5a268555.jpg
     url: /files/original/14fb2a5a26816e14fb2a5a268555.jpg
+    alt:
+      en: "Storm-damaged house with plywood-covered walls and missing brick veneer, surrounded by debris, fallen bricks, and a displaced window frame on the ground."
 geo:
 id: 3680
 item_type: Still Image

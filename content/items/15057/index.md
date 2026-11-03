@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p2_02_2ba2cf2698.jpg
     thumb: /files/thumbnails/14fb2a176e8b2814fb2a176e8f0c.jpg
     url: /files/original/14fb2a176e8b2814fb2a176e8f0c.jpg
+    alt:
+      en: "Young boy playing a violin in a room with a wall displaying two oval silhouette portraits and a framed photograph, with a dresser visible to the left."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

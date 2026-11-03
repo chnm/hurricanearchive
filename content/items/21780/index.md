@@ -21,6 +21,8 @@ files:
     original_filename: katrina 050.jpg
     thumb: /files/thumbnails/14fb29fbc70e1714fb29fbc711f9.jpg
     url: /files/original/14fb29fbc70e1714fb29fbc711f9.jpg
+    alt:
+      en: "Flooded downtown city street with several cars and a van partially submerged in brown water, surrounded by high-rise buildings; timestamp \"3:02 PM\" overlaid in corner."
 geo:
 id: 21780
 item_type: Still Image

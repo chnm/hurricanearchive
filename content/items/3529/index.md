@@ -24,6 +24,8 @@ files:
     original_filename: P1010104.JPG
     thumb: /files/thumbnails/14fb2a5b0c93d514fb2a5b0c97ac.jpg
     url: /files/original/14fb2a5b0c93d514fb2a5b0c97ac.jpg
+    alt:
+      en: "Spray-painted message on the siding of a damaged house reads \"9/18 4 CATS URGENT IN ATTIC, SPCA 9/25 1 CAT TAKEN LEMAR,\" with the home raised on cinder block piers."
 geo:
 id: 3529
 item_type: Still Image

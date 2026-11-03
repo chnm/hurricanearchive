@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0101-9-25.JPG
     thumb: /files/thumbnails/14fb29e75cacba14fb29e75cb167.jpg
     url: /files/original/14fb29e75cacba14fb29e75cb167.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with scattered houses, downed trees, and debris surrounded by standing floodwater extending to the horizon."
 geo:
 id: 24477
 item_type: Still Image

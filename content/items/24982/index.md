@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1501superdome.JPG
     thumb: /files/thumbnails/14fb29e350149314fb29e3501c04.jpg
     url: /files/original/14fb29e350149314fb29e3501c04.jpg
+    alt:
+      en: "A military helicopter with a Black Hawk-style silhouette flies against a partly cloudy sky, its rotor blades blurred in motion and landing gear visible beneath the fuselage."
 geo:
 id: 24982
 item_type: Still Image

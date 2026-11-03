@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0561Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f51edf2b14fb29f51ee311.jpg
     url: /files/original/14fb29f51edf2b14fb29f51ee311.jpg
+    alt:
+      en: "Blurry, fog-obscured photo of a red brick building with a white truck or van parked near its entrance and a white boat in the foreground, overhead power lines crossing the facade."
 geo:
 id: 22597
 item_type: Still Image

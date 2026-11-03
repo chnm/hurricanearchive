@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1383Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f589f5ad14fb29f589f9bb.jpg
     url: /files/original/14fb29f589f5ad14fb29f589f9bb.jpg
+    alt:
+      en: "Floodwater submerges a chain-link fence and the lower walls of a brick building, with a white trailer partially underwater and debris floating near a storm-bent tree."
 geo:
 id: 22540
 item_type: Still Image

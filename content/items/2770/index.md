@@ -21,6 +21,8 @@ files:
     original_filename: 65.jpg
     thumb: /files/thumbnails/14fb2a6045ffca14fb2a604603b0.jpg
     url: /files/original/14fb2a6045ffca14fb2a604603b0.jpg
+    alt:
+      en: "A crayon drawing of a red cross symbol with the handwritten text \"American Red Cross\" in black beneath it."
 geo:
 id: 2770
 item_type: Still Image

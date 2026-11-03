@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_LoganPage_07_940071ce6b.jpg
     thumb: /files/thumbnails/14fb2a163ec74e14fb2a163ecb33.jpg
     url: /files/original/14fb2a163ec74e14fb2a163ecb33.jpg
+    alt:
+      en: "Smiling young girl in a school uniform with a white collared shirt and plaid jumper, hair styled with braids and blue and green bow clips, posed against a painted classroom backdrop."
 geo:
 id: 15461
 item_type: Still Image

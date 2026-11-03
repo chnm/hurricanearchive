@@ -33,24 +33,32 @@ files:
     original_filename: Jeff Chauppetta_6433_84c002dae4.jpg
     thumb: /files/thumbnails/14fb29dacb74d114fb29dacb78b2.jpg
     url: /files/original/14fb29dacb74d114fb29dacb78b2.jpg
+    alt:
+      en: "Child's drawing in purple and black pen on lined paper showing a boat with four passengers (labeled K, R, J, H) floating near a smaller vessel carrying a car, with city buildings and smoke in the background."
   - fullsize: /files/fullsize/14fb29dac9b25114fb29dac9b47f.jpg
     id: 22688
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6433_e3ad49a27c.jpg
     thumb: /files/thumbnails/14fb29dac9b25114fb29dac9b47f.jpg
     url: /files/original/14fb29dac9b25114fb29dac9b47f.jpg
+    alt:
+      en: "Child's drawing in purple and black pen on lined paper showing a boat with passengers labeled with initials (K, R, J, H), floating near a smaller boat with an airplane and car, and a city skyline with smoke."
   - fullsize: /files/fullsize/14fb29dac68f4314fb29dac6a135.jpg
     id: 22689
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6434_d82c936ee9.jpg
     thumb: /files/thumbnails/14fb29dac68f4314fb29dac6a135.jpg
     url: /files/original/14fb29dac68f4314fb29dac6a135.jpg
+    alt:
+      en: "Hand-drawn illustration on lined paper of a school bus with star-patterned windows and a driver, beside five labeled stick-figure children (K, R, M, H, J) walking with bags, one wearing a cowboy hat."
   - fullsize: /files/fullsize/14fb29dac3a17e14fb29dac3af79.jpg
     id: 22690
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6435_850bc795b4.jpg
     thumb: /files/thumbnails/14fb29dac3a17e14fb29dac3af79.jpg
     url: /files/original/14fb29dac3a17e14fb29dac3af79.jpg
+    alt:
+      en: "Child's hand-drawn pen illustration on lined paper showing a large twin-rotor helicopter with figures labeled Kenny, Michelle, Hethar, Rosdie, and Uncle Jeff walking toward it, alongside a separate figure labeled \"H.J.\""
 geo:
 id: 26109
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0515_7689777d52.JPG
     thumb: /files/thumbnails/14fb2a6eb8346614fb2a6eb83ae4.jpg
     url: /files/original/14fb2a6eb8346614fb2a6eb83ae4.jpg
+    alt:
+      en: "Two cats, one orange and one cream-and-gray, stand on a wooden porch deck looking out at floodwaters covering the yard and street beyond, with a white brick pillar and submerged plants nearby."
 geo:
   address: ''
   lat: 29.9809961658498

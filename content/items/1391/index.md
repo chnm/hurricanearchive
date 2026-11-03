@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28599.jpg
     thumb: /files/thumbnails/14fb2a6924ce9014fb2a6924d276.jpg
     url: /files/original/14fb2a6924ce9014fb2a6924d276.jpg
+    alt:
+      en: "A large outdoor menorah sculpture stands mounted on a brick building, with bare trees, shrubs, and a low structure visible in the background."
 geo:
   address: ''
   lat: 0.0

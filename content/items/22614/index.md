@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0578Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f50acd8814fb29f50ad168.jpg
     url: /files/original/14fb29f50acd8814fb29f50ad168.jpg
+    alt:
+      en: "Two-story brick building with white columned balconies, its roof torn open where a large fallen tree rests against the structure, surrounded by floodwater."
 geo:
 id: 22614
 item_type: Still Image

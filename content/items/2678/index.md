@@ -21,6 +21,8 @@ files:
     original_filename: 102.jpg
     thumb: /files/thumbnails/14fb2a609b2a8914fb2a609b2e64.jpg
     url: /files/original/14fb2a609b2a8914fb2a609b2e64.jpg
+    alt:
+      en: "Child's drawing in marker depicting a red truck with black wheels, a yellow sun with rays, and a tower-like structure with a thatched roof, labeled \"Tuwuan Minor 10.\""
 geo:
 id: 2678
 item_type: Still Image

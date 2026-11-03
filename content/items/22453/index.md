@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1294Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f662aec414fb29f662b2aa.jpg
     url: /files/original/14fb29f662aec414fb29f662b2aa.jpg
+    alt:
+      en: "Floodwaters submerge a neighborhood up to rooftops, with a person in a yellow jacket standing in a small boat beside downed power lines and partially visible houses under an overcast sky."
 geo:
 id: 22453
 item_type: Still Image

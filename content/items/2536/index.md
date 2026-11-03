@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8773.jpg
     thumb: /files/thumbnails/14fb2a65971ee914fb2a659722cf.jpg
     url: /files/original/14fb2a65971ee914fb2a659722cf.jpg
+    alt:
+      en: "Damaged yellow mobile home with red spray-painted messages reading \"We'll miss you!\" and \"Good Bye Trailer,\" surrounded by a wrecked car, scattered bicycles, and debris."
 geo:
 id: 2536
 item_type: Still Image

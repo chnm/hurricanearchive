@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0075OEP.JPG
     thumb: /files/thumbnails/14fb29f1a78a2314fb29f1a78e09.jpg
     url: /files/original/14fb29f1a78a2314fb29f1a78e09.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage uniform, name tape reading \"Cowan,\" is interviewed under a tent, with a handheld recording device held near him."
 geo:
 id: 23065
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20050926027.JPG
     thumb: /files/thumbnails/14fb29e91b882414fb29e91b8f25.jpg
     url: /files/original/14fb29e91b882414fb29e91b8f25.jpg
+    alt:
+      en: "A military-style truck drives through a deeply flooded road lined with trees and power lines, water splashing up around its front wheel as it moves forward."
 geo:
 id: 24274
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0082-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a03b27ba314fb2a03b27f88.jpg
     url: /files/original/14fb2a03b27ba314fb2a03b27f88.jpg
+    alt:
+      en: "Man in a plaid shirt, jeans, and ballcap with glasses stands in profile, hand on hip, surveying floodwaters surrounding a partially submerged structure and trees."
 geo:
 id: 20804
 item_type: Still Image

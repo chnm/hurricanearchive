@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8574.jpg
     thumb: /files/thumbnails/14fb2a65e46e5214fb2a65e4722f.jpg
     url: /files/original/14fb2a65e46e5214fb2a65e4722f.jpg
+    alt:
+      en: "A rusted shrimp trawler named \"St. Joseph, New Orleans, LA\" lies grounded on a grassy levee amid debris, its rigging and masts tilted against a cloudy sky."
 geo:
 id: 2494
 item_type: Still Image

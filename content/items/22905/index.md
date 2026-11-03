@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2237media.JPG
     thumb: /files/thumbnails/14fb29f2c6dfd414fb29f2c75e06.jpg
     url: /files/original/14fb29f2c6dfd414fb29f2c75e06.jpg
+    alt:
+      en: "A soldier in camouflage with the name \"Lewis\" on his uniform speaks into a microphone held by a reporter in a pink shirt, while a cameraman films nearby; storm debris and boarded-up houses are visible behind them."
 geo:
 id: 22905
 item_type: Still Image

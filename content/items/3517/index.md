@@ -24,6 +24,8 @@ files:
     original_filename: P1010092.JPG
     thumb: /files/thumbnails/14fb2a5b33eaff14fb2a5b33ee23.jpg
     url: /files/original/14fb2a5b33eaff14fb2a5b33ee23.jpg
+    alt:
+      en: "Raised white two-story house with a screened front porch and gabled roof, numbered \"2682,\" standing on brick piers with a white van parked beneath, surrounded by bare trees."
 geo:
 id: 3517
 item_type: Still Image

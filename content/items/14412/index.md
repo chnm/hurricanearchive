@@ -21,6 +21,8 @@ files:
     original_filename: slide36.jpg
     thumb: /files/thumbnails/14fb2a1935e15114fb2a1935e535.jpg
     url: /files/original/14fb2a1935e15114fb2a1935e535.jpg
+    alt:
+      en: "Skeletal wooden frame of a multi-story structure stripped to its beams and support posts, with tattered debris hanging from the floors and tall pine trees standing behind it against an overcast sky."
 geo:
 id: 14412
 item_type: Still Image

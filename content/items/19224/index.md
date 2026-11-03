@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2171conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11c0bc3914fb2a11c0bfbc.jpg
     url: /files/original/14fb2a11c0bc3914fb2a11c0bfbc.jpg
+    alt:
+      en: "Soldier in woodland camouflage uniform with \"TALLEY\" nametag and American flag patch gestures while holding a water bottle and radio, standing on pavement with a yellow road line visible."
 geo:
 id: 19224
 item_type: Still Image

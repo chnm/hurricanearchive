@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0228.JPG
     thumb: /files/thumbnails/14fb2a54fbdd7614fb2a54fbe147.jpg
     url: /files/original/14fb2a54fbdd7614fb2a54fbe147.jpg
+    alt:
+      en: "Debris pile of household appliances, broken furniture, and building materials on a concrete slab, with a damaged structure and storm-stripped trees in the background."
 geo:
 id: 4909
 item_type: Still Image

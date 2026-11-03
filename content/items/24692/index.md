@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 101MSD-DSC00163 DSC00163cameronpresvisit.JPG
     thumb: /files/thumbnails/14fb29e58842cd14fb29e58846b2.jpg
     url: /files/original/14fb29e58842cd14fb29e58846b2.jpg
+    alt:
+      en: "A man in a desert camouflage military uniform and cap reaches down to shake hands with another man in a dark jacket climbing up onto a vehicle, with bare trees and blue sky in the background."
 geo:
 id: 24692
 item_type: Still Image

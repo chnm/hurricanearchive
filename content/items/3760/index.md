@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 040.jpg
     thumb: /files/thumbnails/14fb2a59d23a4914fb2a59d23e26.jpg
     url: /files/original/14fb2a59d23a4914fb2a59d23e26.jpg
+    alt:
+      en: "Large bare and partially leafed oak trees frame an open lot with debris piles, a chain-link fence, and houses in the background under a clear blue sky."
 geo:
 id: 3760
 item_type: Still Image

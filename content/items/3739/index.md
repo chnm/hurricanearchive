@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 019.jpg
     thumb: /files/thumbnails/14fb2a59e63ff614fb2a59e643db.jpg
     url: /files/original/14fb2a59e63ff614fb2a59e643db.jpg
+    alt:
+      en: "Collapsed wood-frame house with exposed interior and roofline, surrounded by scattered debris and bare trees under a clear blue sky; a car side mirror is visible in the foreground."
 geo:
 id: 3739
 item_type: Still Image

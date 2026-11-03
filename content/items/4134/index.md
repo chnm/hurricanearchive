@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0020.JPG
     thumb: /files/thumbnails/14fb2a5781cb2e14fb2a5781cf14.jpg
     url: /files/original/14fb2a5781cb2e14fb2a5781cf14.jpg
+    alt:
+      en: "A roadside sign reading \"FRESH SHRIMP, NEVER FROZEN, FROM OUR BOAT\" stands near a debris-strewn ditch, with damaged buildings and a utility crew truck visible in the background."
 geo:
 id: 4134
 item_type: Still Image

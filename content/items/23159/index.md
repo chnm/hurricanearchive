@@ -21,6 +21,8 @@ files:
     original_filename: 20051003-A-3780B-271NewMexicoNG.jpg
     thumb: /files/thumbnails/14fb29f14a5f2a14fb29f14a631b.jpg
     url: /files/original/14fb29f14a5f2a14fb29f14a631b.jpg
+    alt:
+      en: "A soldier in camouflage and an orange safety vest signals toward a red and black helicopter hovering low over a grassy field stacked with large sandbags, as two other soldiers approach in the background."
 geo:
 id: 23159
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0163-9-25.JPG
     thumb: /files/thumbnails/14fb2a012abc2d14fb2a012ac013.jpg
     url: /files/original/14fb2a012abc2d14fb2a012ac013.jpg
+    alt:
+      en: "Aerial view of marshland or flooded wetlands, with patches of golden-brown grasses scattered across greenish, shallow water."
 geo:
 id: 20989
 item_type: Still Image

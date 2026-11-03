@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6985_a4bf7b3f05.jpg
     thumb: /files/thumbnails/14fb29db7d607314fb29db7d6458.jpg
     url: /files/original/14fb29db7d607314fb29db7d6458.jpg
+    alt:
+      en: "Aged, creased photograph of three nuns standing on a porch behind rows of young girls in white dresses, some holding candles, posed on wooden steps outdoors."
 geo:
   address: ''
   lat: 29.80252

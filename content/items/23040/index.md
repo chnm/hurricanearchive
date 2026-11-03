@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0050OEP.JPG
     thumb: /files/thumbnails/14fb29f1e9ca8b14fb29f1ea036e.jpg
     url: /files/original/14fb29f1e9ca8b14fb29f1ea036e.jpg
+    alt:
+      en: "Several RVs and a decaled \"Fan Van\" bus reading \"See It On The Radio\" and \"740 AM\" are parked on a grassy field, with trees and radio towers in the background."
 geo:
 id: 23040
 item_type: Still Image

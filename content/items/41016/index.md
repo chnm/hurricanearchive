@@ -20,6 +20,8 @@ files:
     original_filename: 11 - Warrington 2_2dc81df950.JPG
     thumb: /files/thumbnails/14fb29c49d771114fb29c49d8272.jpg
     url: /files/original/14fb29c49d771114fb29c49d8272.jpg
+    alt:
+      en: "A gutted house with a green-columned porch stands beside an empty concrete lot, with a white house further back nearly swallowed by overgrown trees and brush."
 geo:
   address: ''
   lat: 0.0

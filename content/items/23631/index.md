@@ -21,6 +21,8 @@ files:
     original_filename: P1010072empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee5d8c4c14fb29ee5dba7e.jpg
     url: /files/original/14fb29ee5d8c4c14fb29ee5dba7e.jpg
+    alt:
+      en: "A hazy, debris-strewn shoreline with overturned machinery and scattered wreckage in the foreground, a person walking through tall grass near a large rusted barge, and a body of water visible in the background."
 geo:
 id: 23631
 item_type: Still Image

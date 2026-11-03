@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0083abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efb7ee4014fb29efb7f225.jpg
     url: /files/original/14fb29efb7ee4014fb29efb7f225.jpg
+    alt:
+      en: "Man wearing a plaid shirt, cap reading \"Tire Repair,\" and glasses stands with hands on hips beside floodwater surrounding damaged buildings, debris, and tires in a rural setting."
 geo:
 id: 23391
 item_type: Still Image

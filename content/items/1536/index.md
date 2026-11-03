@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27992.jpg
     thumb: /files/thumbnails/14fb2a681a717814fb2a681a7556.jpg
     url: /files/original/14fb2a681a717814fb2a681a7556.jpg
+    alt:
+      en: "A debris-strewn residential lot with fallen tree limbs, bare trees, and a \"20\" speed limit sign, surrounded by storm-damaged houses under a clear sky."
 geo:
   address: ''
   lat: 0.0

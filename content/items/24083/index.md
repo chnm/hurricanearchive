@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eaf400fe14fb29eaf404e2.jpg
     url: /files/original/14fb29eaf400fe14fb29eaf404e2.jpg
+    alt:
+      en: "White water tower with \"I ♥ ABBEVILLE\" painted on it, rising above a large tree and rooftops against an overcast sky."
 geo:
 id: 24083
 item_type: Still Image

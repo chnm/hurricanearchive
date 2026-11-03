@@ -23,6 +23,8 @@ files:
     original_filename: Katrina 1_0c78a57a29.JPG
     thumb: /files/thumbnails/14fb29c2d7b23e14fb29c2d7bfb1.jpg
     url: /files/original/14fb29c2d7b23e14fb29c2d7bfb1.jpg
+    alt:
+      en: "An old sedan sits beside a damaged, weathered house with a window air conditioner and crooked siding; debris, a chain-link fence, and a crane are visible in the background under a clear blue sky."
 geo:
   address: ''
   lat: 29.97382

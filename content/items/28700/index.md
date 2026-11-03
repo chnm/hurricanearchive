@@ -20,6 +20,8 @@ files:
     original_filename: 114540049_5c2ccb5f6d.jpg
     thumb: /files/thumbnails/14fb29d18998e514fb29d1899cca.jpg
     url: /files/original/14fb29d18998e514fb29d1899cca.jpg
+    alt:
+      en: "A group of volunteers wearing protective masks and gloves, with shirts reading \"Illinois State,\" \"We Ain't Got Time To Breathe,\" and \"Making a Difference,\" line up to enter a brick house."
 geo:
 id: 28700
 item_type: Still Image

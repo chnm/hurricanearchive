@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28173.jpg
     thumb: /files/thumbnails/14fb2a6c06c9e014fb2a6c06ce4b.jpg
     url: /files/original/14fb2a6c06c9e014fb2a6c06ce4b.jpg
+    alt:
+      en: "A woman holding a push broom stands on a debris-strewn street in front of a storm-damaged house with an American flag on its porch, in the Sundance housing development after Hurricane Katrina."
 geo:
   address: ''
   lat: 0.0

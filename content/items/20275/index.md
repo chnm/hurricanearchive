@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0077-9-18.JPG
     thumb: /files/thumbnails/14fb2a0a29288614fb2a0a293054.jpg
     url: /files/original/14fb2a0a29288614fb2a0a293054.jpg
+    alt:
+      en: "A man in military camouflage fatigues and sunglasses reaches to close the door of a military vehicle, with trees and a muddy, flood-damaged landscape visible in the background."
 geo:
 id: 20275
 item_type: Still Image

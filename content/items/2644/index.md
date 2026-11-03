@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9189.jpg
     thumb: /files/thumbnails/14fb2a637bd7e414fb2a637be961.jpg
     url: /files/original/14fb2a637bd7e414fb2a637be961.jpg
+    alt:
+      en: "A handwritten sign reading \"2452 Brant, Craig & Patty Broussard, We will rebuild! Do not bulldoze slab\" stands amid a storm-flattened neighborhood of concrete slabs and scattered debris under a clear sky."
 geo:
 id: 2644
 item_type: Still Image

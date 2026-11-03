@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28434.jpg
     thumb: /files/thumbnails/14fb2a6b50941d14fb2a6b509803.jpg
     url: /files/original/14fb2a6b50941d14fb2a6b509803.jpg
+    alt:
+      en: "A hand-painted plywood sign reads \"FREE COUNSELING for WAVELAND come VENT with us,\" standing beside a man in a hard hat amid storm-damaged trees and debris, with a \"St. Clare Sunday Mass\" trailer sign in the background."
 geo:
   address: ''
   lat: 0.0

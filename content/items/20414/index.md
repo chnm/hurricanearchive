@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012-20.JPG
     thumb: /files/thumbnails/14fb2a07c277a714fb2a07c27f6a.jpg
     url: /files/original/14fb2a07c277a714fb2a07c27f6a.jpg
+    alt:
+      en: "A man in military camouflage uniform with an American flag patch sits under a large tent, eating from a foam tray of food that includes peas, rice, and a cookie, with a Diet Coke can nearby."
 geo:
 id: 20414
 item_type: Still Image

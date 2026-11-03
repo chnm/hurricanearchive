@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0090-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e810abbe14fb29e810cfda.jpg
     url: /files/original/14fb29e810abbe14fb29e810cfda.jpg
+    alt:
+      en: "Decomposing animal carcass lies on a muddy, debris-strewn bank beside calm floodwater, surrounded by dried grass and reeds."
 geo:
 id: 24417
 item_type: Still Image

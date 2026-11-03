@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0118.JPG
     thumb: /files/thumbnails/14fb2a555dcd3b14fb2a555dd6cd.jpg
     url: /files/original/14fb2a555dcd3b14fb2a555dd6cd.jpg
+    alt:
+      en: "Collapsed structure reduced to scattered debris and roofing, resting atop rows of concrete support blocks, surrounded by a wooded lot with damaged, broken trees."
 geo:
 id: 4805
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TrinityMiller_05_ed4e4fdd94.jpg
     thumb: /files/thumbnails/14fb2a1790537314fb2a179058cc.jpg
     url: /files/original/14fb2a1790537314fb2a179058cc.jpg
+    alt:
+      en: "Overhead view of a young girl in a pink toy Jeep on grass, smiling up at an adult in camouflage and black pants standing beside her, holding her raised hand."
 geo:
 id: 14810
 item_type: Still Image

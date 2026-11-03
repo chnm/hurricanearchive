@@ -23,6 +23,8 @@ files:
     original_filename: 1279845759_fb9a888466.jpg
     thumb: /files/thumbnails/14fb29cc04967e14fb29cc049a64.jpg
     url: /files/original/14fb29cc04967e14fb29cc049a64.jpg
+    alt:
+      en: "A twilight view of a cathedral with twin steeples and a central clock tower, illuminated by rows of flickering torches and candles on the lawn below during a vigil."
 geo:
 id: 32134
 item_type: Still Image

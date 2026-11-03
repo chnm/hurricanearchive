@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0293-9-25.JPG
     thumb: /files/thumbnails/14fb29fda2ccd014fb29fda2d0b4.jpg
     url: /files/original/14fb29fda2ccd014fb29fda2d0b4.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters submerging fields and fence lines, with a cell phone tower and trees rising above the water, and a white rooftop partially visible among the treetops."
 geo:
 id: 21552
 item_type: Still Image

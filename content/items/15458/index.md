@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_LoganPage_02_fb7f89b9c3.jpg
     thumb: /files/thumbnails/14fb2a1646245414fb2a164631cd.jpg
     url: /files/original/14fb2a1646245414fb2a164631cd.jpg
+    alt:
+      en: "A young girl in a school uniform with a white blouse and black jumper smiles for a studio portrait, her braided hair adorned with white ribbons and blue beads, against a painted garden backdrop."
 geo:
 id: 15458
 item_type: Still Image

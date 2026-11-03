@@ -21,6 +21,8 @@ files:
     original_filename: Baggage being loadeddelaware.jpg
     thumb: /files/thumbnails/14fb29f142fd1714fb29f14300fd.jpg
     url: /files/original/14fb29f142fd1714fb29f14300fd.jpg
+    alt:
+      en: "A forklift transports a wrapped pallet of supplies across an airport tarmac, with hangar buildings in the background and shrink-wrapped cargo pallets stacked in the foreground."
 geo:
 id: 23170
 item_type: Still Image

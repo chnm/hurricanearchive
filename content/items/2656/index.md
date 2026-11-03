@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9224.jpg
     thumb: /files/thumbnails/14fb2a62b1d70d14fb2a62b1daec.jpg
     url: /files/original/14fb2a62b1d70d14fb2a62b1daec.jpg
+    alt:
+      en: "A glass basketball backboard and rusted metal support structure hang suspended against a clear blue sky, with storm debris, bare trees, and a damaged building visible below."
 geo:
 id: 2656
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1162Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f72e9b6014fb29f72e9f5f.jpg
     url: /files/original/14fb29f72e9b6014fb29f72e9f5f.jpg
+    alt:
+      en: "Floodwater surges across a yard toward a brick house, with a wrought-iron fence and tangled power lines in the foreground and wind-blown trees overhead."
 geo:
 id: 22346
 item_type: Still Image

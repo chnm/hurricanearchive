@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1329Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5f644d714fb29f5f648bc.jpg
     url: /files/original/14fb29f5f644d714fb29f5f648bc.jpg
+    alt:
+      en: "Severe flooding submerges rooftops and debris beneath a hazy sky, with a blue water tower labeled \"ARABI\" standing above bare, storm-damaged trees in the background."
 geo:
 id: 22488
 item_type: Still Image

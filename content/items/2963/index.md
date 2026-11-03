@@ -21,6 +21,8 @@ files:
     original_filename: MVC-018S.JPG
     thumb: /files/thumbnails/14fb2a5f6d677214fb2a5f6d6b56.jpg
     url: /files/original/14fb2a5f6d677214fb2a5f6d6b56.jpg
+    alt:
+      en: "Close-up of a military aircraft's fuselage numbered \"602,\" with a large jagged hole punched through the metal near \"JET DANGER\" markings, parked on pavement."
 geo:
 id: 2963
 item_type: Still Image

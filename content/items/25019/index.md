@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1541superdome.JPG
     thumb: /files/thumbnails/14fb29e2e5d25814fb29e2e5d633.jpg
     url: /files/original/14fb29e2e5d25814fb29e2e5d633.jpg
+    alt:
+      en: "Silhouette of a helicopter in flight, viewed from below against a cloudy sky, with its tail rotor and landing gear visible."
 geo:
 id: 25019
 item_type: Still Image

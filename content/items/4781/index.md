@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0093.JPG
     thumb: /files/thumbnails/14fb2a5596ddb814fb2a5596e197.jpg
     url: /files/original/14fb2a5596ddb814fb2a5596e197.jpg
+    alt:
+      en: "Storm-damaged property with a partially collapsed house roof, scattered debris including furniture, and pine trees with browned, dead needles surrounding the scene under a clear blue sky."
 geo:
 id: 4781
 item_type: Still Image

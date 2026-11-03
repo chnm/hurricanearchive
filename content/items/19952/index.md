@@ -21,6 +21,8 @@ files:
     original_filename: Picture 049cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bfec77b14fb2a0bfecb62.jpg
     url: /files/original/14fb2a0bfec77b14fb2a0bfecb62.jpg
+    alt:
+      en: "Two-story historic houses, one blue-gray with a columned porch and broken windows, the other pink, surrounded by large oak trees with storm debris and fallen branches covering the yard."
 geo:
 id: 19952
 item_type: Still Image

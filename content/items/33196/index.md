@@ -23,6 +23,8 @@ files:
     original_filename: 1438011907_f07e17848e.
     thumb: /files/thumbnails/14fb29cba642cb14fb29cba64dbd.jpg
     url: /files/original/14fb29cba642cb14fb29cba64dbd.jpg
+    alt:
+      en: "Bent traffic signal poles stand empty of lights above a sandy lot, with scattered streetlights and a tree line under a partly cloudy sky."
 geo:
 id: 33196
 item_type: Still Image

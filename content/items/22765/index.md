@@ -21,6 +21,8 @@ files:
     original_filename: S4300121Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4273e9314fb29f427426b.jpg
     url: /files/original/14fb29f4273e9314fb29f427426b.jpg
+    alt:
+      en: "Brick building with a collapsed, caved-in roof section at the corner of Fourth St and Avenue C, behind a chain-link fence, with a stop sign and street signs in the foreground."
 geo:
 id: 22765
 item_type: Still Image

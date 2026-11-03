@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5734_030307d6f2.jpg
     thumb: /files/thumbnails/14fb29da625c2a14fb29da62600d.jpg
     url: /files/original/14fb29da625c2a14fb29da62600d.jpg
+    alt:
+      en: "Damaged vintage photograph of a man with dark glasses and short curly hair wearing a light-colored shirt, with significant water damage and tearing; \"FEB 69\" printed at the bottom."
 geo:
 id: 26125
 item_type: Still Image

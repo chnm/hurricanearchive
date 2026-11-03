@@ -21,6 +21,8 @@ files:
     original_filename: P1010147empireS&R.JPG
     thumb: /files/thumbnails/14fb29edb31d9514fb29edb32179.jpg
     url: /files/original/14fb29edb31d9514fb29edb32179.jpg
+    alt:
+      en: "A snapped, leaning utility pole frames a flooded, debris-strewn landscape with collapsed buildings, scattered wreckage, and standing floodwater along a road."
 geo:
 id: 23706
 item_type: Still Image

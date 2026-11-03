@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2202superdome.JPG
     thumb: /files/thumbnails/14fb29de59dce814fb29de59e0ca.jpg
     url: /files/original/14fb29de59dce814fb29de59e0ca.jpg
+    alt:
+      en: "Military personnel and a \"STATE POLICE\" officer stand on a brick plaza near an elevated highway, with armed police and soldiers in camouflage gathered around folding chairs and scattered debris."
 geo:
 id: 25387
 item_type: Still Image

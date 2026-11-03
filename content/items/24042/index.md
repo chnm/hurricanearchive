@@ -21,6 +21,8 @@ files:
     original_filename: CSA-2005-09-15-091220neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb48697f14fb29eb486d65.jpg
     url: /files/original/14fb29eb48697f14fb29eb486d65.jpg
+    alt:
+      en: "Silhouette of a person atop a military-style vehicle equipped with a large weapon or equipment mount, set against a dusky sky crisscrossed by power lines and a transmission tower."
 geo:
 id: 24042
 item_type: Still Image

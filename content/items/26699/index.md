@@ -24,6 +24,8 @@ files:
     original_filename: JA 1 1948 aunt Biddy_05f801c492.jpg
     thumb: /files/thumbnails/14fb29d84e7e8b14fb29d84e82bd.jpg
     url: /files/original/14fb29d84e7e8b14fb29d84e82bd.jpg
+    alt:
+      en: "Black-and-white 1948 portrait of a smiling young woman with voluminous dark hair, pearl earrings, and a dark dress, inscribed in cursive \"Love, Biddy\" across the lower right."
 geo:
   address: ''
   lat: 29.91685

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0976superdome.JPG
     thumb: /files/thumbnails/14fb29e3f9f92c14fb29e3f9fc1a.jpg
     url: /files/original/14fb29e3f9f92c14fb29e3f9fc1a.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands near metal police barricades reading \"NOPD Police Line Do Not Cross,\" with an Acadian ambulance truck and parked cars in the background."
 geo:
 id: 24901
 item_type: Still Image

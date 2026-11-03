@@ -21,6 +21,8 @@ files:
     original_filename: Dillard University.jpg
     thumb: /files/thumbnails/14fb29fb615b3114fb29fb615f0e.jpg
     url: /files/original/14fb29fb615b3114fb29fb615f0e.jpg
+    alt:
+      en: "Aerial view of Dillard University's flooded campus, with brick buildings surrounded by standing floodwater among bare trees, following Hurricane Katrina."
 geo:
 id: 21849
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28201.jpg
     thumb: /files/thumbnails/14fb2a6af4185d14fb2a6af41d1d.jpg
     url: /files/original/14fb2a6af4185d14fb2a6af41d1d.jpg
+    alt:
+      en: "A bent \"Waveland Ave\" street sign leans against a pole amid storm debris, with dead trees and a damaged structure visible in the background under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

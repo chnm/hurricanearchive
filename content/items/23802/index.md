@@ -21,6 +21,8 @@ files:
     original_filename: S4300047neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed024b4014fb29ed024f26.jpg
     url: /files/original/14fb29ed024b4014fb29ed024f26.jpg
+    alt:
+      en: "Nighttime view from inside a vehicle looking out over dark, turbulent floodwater, with the side mirror (reading \"objects in mirror are closer than they appear\") and door frame visible in the foreground."
 geo:
 id: 23802
 item_type: Still Image

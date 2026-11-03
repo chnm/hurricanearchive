@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28242.jpg
     thumb: /files/thumbnails/14fb2a68a4685014fb2a68a46983.jpg
     url: /files/original/14fb2a68a4685014fb2a68a46983.jpg
+    alt:
+      en: "Empty wooden pallets, broken cardboard boxes, and scattered debris fill a parking lot in front of a Wal-Mart Supercenter store, with green dumpsters visible in the background."
 geo:
   address: ''
   lat: 0.0

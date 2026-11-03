@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0016alero.JPG
     thumb: /files/thumbnails/14fb2a155e179814fb2a155e1b7d.jpg
     url: /files/original/14fb2a155e179814fb2a155e1b7d.jpg
+    alt:
+      en: "Aerial view from a helicopter looking down on a line of cars along a tree-lined road, with a bridge and forested landscape visible in the background."
 geo:
 id: 18724
 item_type: Still Image

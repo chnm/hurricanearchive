@@ -21,6 +21,8 @@ files:
     original_filename: P1010128empireS&R.JPG
     thumb: /files/thumbnails/14fb29ede384a814fb29ede3888d.jpg
     url: /files/original/14fb29ede384a814fb29ede3888d.jpg
+    alt:
+      en: "A mobile home knocked off its foundation and tilted precariously beside a road, surrounded by debris and damaged trees, viewed through a vehicle's windshield."
 geo:
 id: 23687
 item_type: Still Image

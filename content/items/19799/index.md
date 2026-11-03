@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 102cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dc65c5f14fb2a0dc66ec5.jpg
     url: /files/original/14fb2a0dc65c5f14fb2a0dc66ec5.jpg
+    alt:
+      en: "A red and white overturned boat hull lies on debris-strewn ground near a concrete wall, surrounded by scattered lumber, trash, and gravel."
 geo:
 id: 19799
 item_type: Still Image

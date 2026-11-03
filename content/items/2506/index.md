@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8619.jpg
     thumb: /files/thumbnails/14fb2a65d4cd1114fb2a65d4d0fe.jpg
     url: /files/original/14fb2a65d4cd1114fb2a65d4d0fe.jpg
+    alt:
+      en: "A damaged teal and white boat with an exposed motor sits beached on barren ground, with the skeletal remains of wooden pilings from destroyed fishing camps lining the shoreline behind it."
 geo:
 id: 2506
 item_type: Still Image

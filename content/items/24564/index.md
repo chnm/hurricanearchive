@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0117-9-25.JPG
     thumb: /files/thumbnails/14fb29e69acbef14fb29e69acfd6.jpg
     url: /files/original/14fb29e69acbef14fb29e69acfd6.jpg
+    alt:
+      en: "Aerial view of a flooded, marshy landscape with scattered patches of vegetation, debris lines, and partially submerged trees casting shadows across the water."
 geo:
 id: 24564
 item_type: Still Image

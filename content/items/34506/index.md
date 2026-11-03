@@ -27,6 +27,8 @@ files:
     original_filename: 2291277581_d3fcc7ad30.
     thumb: /files/thumbnails/14fb29c9a1de2c14fb29c9a1e20a.jpg
     url: /files/original/14fb29c9a1de2c14fb29c9a1e20a.jpg
+    alt:
+      en: "Bayou choked with storm debris—scattered lumber, boat hulls, and wreckage—beneath raised waterfront houses, with a small white motorboat floating amid the wreckage."
 geo:
   address: ''
   lat: 30.22539

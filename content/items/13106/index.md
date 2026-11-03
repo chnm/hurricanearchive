@@ -21,6 +21,8 @@ files:
     original_filename: end northern look.jpg
     thumb: /files/thumbnails/14fb2a205d739814fb2a205d777d.jpg
     url: /files/original/14fb2a205d739814fb2a205d777d.jpg
+    alt:
+      en: "Aerial view of storm-damaged commercial buildings with a partially torn-off roof, scattered debris, and flooded streets lined with shops including a \"Girl Scouts\" storefront and a pawn shop sign in the background."
 geo:
 id: 13106
 item_type: Still Image

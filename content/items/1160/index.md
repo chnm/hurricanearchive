@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28339.jpg
     thumb: /files/thumbnails/14fb2a6ab8d15514fb2a6ab8d333.jpg
     url: /files/original/14fb2a6ab8d15514fb2a6ab8d333.jpg
+    alt:
+      en: "Twisted metal framework from a destroyed structure lies in a debris-strewn lot, with bare trees and damaged buildings visible in the background."
 geo:
   address: ''
   lat: 0.0

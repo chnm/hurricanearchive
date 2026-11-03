@@ -23,6 +23,8 @@ files:
     original_filename: 162411293_7ecf21cf46.jpg
     thumb: /files/thumbnails/14fb29d23032f914fb29d23036d6.jpg
     url: /files/original/14fb29d23032f914fb29d23036d6.jpg
+    alt:
+      en: "A white mobile home trailer raised on blocks sits beside a brick house with a damaged roof, with overhead power lines and trees in the background, in Lakeshore, New Orleans."
 geo:
 id: 28596
 item_type: Still Image

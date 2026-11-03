@@ -26,6 +26,8 @@ files:
     original_filename: Rita1_2076_4bf53eac32.jpg
     thumb: /files/thumbnails/14fb2a6fb989b914fb2a6fb98d9d.jpg
     url: /files/original/14fb2a6fb989b914fb2a6fb98d9d.jpg
+    alt:
+      en: "A woman wades through a flooded street in Chauvin, Louisiana, pulling a small child seated in a yellow plastic pool, with waterlogged buildings and bare trees in the background."
 geo:
   address: ''
   lat: 29.425244985472

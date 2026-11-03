@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28326.jpg
     thumb: /files/thumbnails/14fb2a6bd6c8f014fb2a6bd6ccd5.jpg
     url: /files/original/14fb2a6bd6c8f014fb2a6bd6ccd5.jpg
+    alt:
+      en: "Storm-damaged building with exposed framing and a torn metal canopy roof stands amid scattered debris, with large bare trees and other wrecked structures in the background."
 geo:
   address: ''
   lat: 0.0

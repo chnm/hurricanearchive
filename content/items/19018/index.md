@@ -21,6 +21,8 @@ files:
     original_filename: Picture 097satellite.jpg
     thumb: /files/thumbnails/14fb2a13a1629114fb2a13a1666b.jpg
     url: /files/original/14fb2a13a1629114fb2a13a1666b.jpg
+    alt:
+      en: "Black-and-white aerial reconnaissance photo of Gentilly Woods Mall in Orleans Parish, showing surrounding streets, parking lots, and tree-lined neighborhoods, labeled with coordinates, date, and \"RC-26B\" source markings."
 geo:
 id: 19018
 item_type: Still Image

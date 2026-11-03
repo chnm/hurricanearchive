@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (27).JPG
     thumb: /files/thumbnails/14fb2a5d04181914fb2a5d0421f0.jpg
     url: /files/original/14fb2a5d04181914fb2a5d0421f0.jpg
+    alt:
+      en: "A mud-caked white sedan with a tire lodged on its roof sits crushed against debris and a basin, parked beside a brick house with storm-damaged porch railings and awnings."
 geo:
 id: 3263
 item_type: Still Image

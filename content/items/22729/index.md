@@ -21,6 +21,8 @@ files:
     original_filename: PICT0687Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4606c8214fb29f4607067.jpg
     url: /files/original/14fb29f4606c8214fb29f4607067.jpg
+    alt:
+      en: "Mud- and debris-covered staircase and wooden chair in a flood-damaged interior, with grime-streaked walls and a date stamp reading 09.15.2005."
 geo:
 id: 22729
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 156cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dddc43e14fb2a0dddc81b.jpg
     url: /files/original/14fb2a0dddc43e14fb2a0dddc81b.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues stand near parked vehicles on a debris-strewn street, with civilians nearby and brick buildings in the background, amid storm cleanup."
 geo:
 id: 19769
 item_type: Still Image

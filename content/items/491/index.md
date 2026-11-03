@@ -26,6 +26,8 @@ files:
     original_filename: Rita_2268_copy_662af2ffeb.jpg
     thumb: /files/thumbnails/14fb2a6fb7631c14fb2a6fb7670a.jpg
     url: /files/original/14fb2a6fb7631c14fb2a6fb7670a.jpg
+    alt:
+      en: "Elevated wooden house with a damaged, partially torn tin roof stands on stilts above marshland, spray-painted with \"S.O.S. HELP.\" and \"We're living like the Flinstones, ya dad!!\""
 geo:
   address: ''
   lat: 29.398926652739203

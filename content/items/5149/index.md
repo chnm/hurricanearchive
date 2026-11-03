@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0511.JPG
     thumb: /files/thumbnails/14fb2a53bd5a8914fb2a53bd5e6f.jpg
     url: /files/original/14fb2a53bd5a8914fb2a53bd5e6f.jpg
+    alt:
+      en: "A fallen tree and scattered storm debris litter the yard and roadside in front of a brown two-story house, with a clear blue sky and tall trees in the background."
 geo:
 id: 5149
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 161990753_0fe84839ed.jpg
     thumb: /files/thumbnails/14fb29d21dd46914fb29d21dd84f.jpg
     url: /files/original/14fb29d21dd46914fb29d21dd84f.jpg
+    alt:
+      en: "A quiet residential street with parked vehicles, debris piled near a pink house, and the word \"HELP\" written in chalk on the sidewalk in the foreground."
 geo:
 id: 28614
 item_type: Still Image

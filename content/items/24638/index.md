@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012medics.JPG
     thumb: /files/thumbnails/14fb29e5e3868d14fb29e5e390fb.jpg
     url: /files/original/14fb29e5e3868d14fb29e5e390fb.jpg
+    alt:
+      en: "Two men in military uniforms stand near a table set up with medical supplies, including a sharps container, gauze, and gloves, while a man puts on latex gloves in the background."
 geo:
 id: 24638
 item_type: Still Image

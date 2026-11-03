@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0292-9-25.JPG
     thumb: /files/thumbnails/14fb29fda4fb4b14fb29fda50301.jpg
     url: /files/original/14fb29fda4fb4b14fb29fda50301.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with a submerged barn, fence lines disappearing into brown floodwater, and a partially uprooted tree surrounded by dense green woods."
 geo:
 id: 21550
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0295-9-25.JPG
     thumb: /files/thumbnails/14fb29fd9c2f9714fb29fd9c3375.jpg
     url: /files/original/14fb29fd9c2f9714fb29fd9c3375.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters submerging a residential area, with rooftops, a partially collapsed structure, trees, and what appear to be military vehicles visible along a flooded road."
 geo:
 id: 21557
 item_type: Still Image

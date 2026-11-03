@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1544superdome.JPG
     thumb: /files/thumbnails/14fb29e2e3de7a14fb29e2e3e257.jpg
     url: /files/original/14fb29e2e3de7a14fb29e2e3e257.jpg
+    alt:
+      en: "A group of evacuees walks across an open rooftop or elevated lot toward a rescue worker in a red vest and helmet, with the Delgado Community College Charity School of Nursing building visible behind them."
 geo:
 id: 25022
 item_type: Still Image

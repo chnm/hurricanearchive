@@ -21,6 +21,8 @@ files:
     original_filename: 09180022plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec4254b914fb29ec42589e.jpg
     url: /files/original/14fb29ec4254b914fb29ec42589e.jpg
+    alt:
+      en: "Flooded roadway with a pickup truck and trailer parked at left, leaning utility poles, standing floodwater on both sides, and portable toilets labeled \"GO CANS\" near a stranded boat on the right."
 geo:
 id: 23952
 item_type: Still Image

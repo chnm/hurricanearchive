@@ -21,6 +21,8 @@ files:
     original_filename: 100_0122.JPG
     thumb: /files/thumbnails/14fb2a5950f74714fb2a5950fb32.jpg
     url: /files/original/14fb2a5950f74714fb2a5950fb32.jpg
+    alt:
+      en: "Waterfront view of a devastated shoreline with skeletal building frames, broken pilings, and scattered debris among sparse trees under a hazy sky."
 geo:
 id: 3831
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: Picture_034_dd24dee2b9.jpg
     thumb: /files/thumbnails/14fb2a70f94bbe14fb2a70fa0534.jpg
     url: /files/original/14fb2a70f94bbe14fb2a70fa0534.jpg
+    alt:
+      en: "A mop-headed costumed figure wearing a hard hat is covered in stacked signs reading \"THIS SUCKS! We can help,\" \"ODOR,\" \"MOLD,\" and \"CRESCENT CITY,\" standing near string lights and storage bins."
 geo:
   address: ''
   lat: 29.938343

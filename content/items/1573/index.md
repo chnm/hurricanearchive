@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27972.jpg
     thumb: /files/thumbnails/14fb2a67cab55d14fb2a67cabde8.jpg
     url: /files/original/14fb2a67cab55d14fb2a67cabde8.jpg
+    alt:
+      en: "Brick school building with a marquee sign reading \"WYTHE-EASTERN, DECENCY & ORDER, FOOTBALL SATURDAY EAGLES VS JF AUG, TAD GORMLEY 7:00 PM,\" with dirty high-water marks visible on the facade and overgrown, dead shrubs in front."
 geo:
   address: ''
   lat: 0.0

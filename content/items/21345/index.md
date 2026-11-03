@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0233-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ff4a1fd614fb29ff4a23bd.jpg
     url: /files/original/14fb29ff4a1fd614fb29ff4a23bd.jpg
+    alt:
+      en: "Aerial view of a flood-damaged neighborhood with debris-strewn yards, displaced vehicles, downed power lines, and scattered wreckage surrounding houses with mismatched or missing roofing."
 geo:
 id: 21345
 item_type: Still Image

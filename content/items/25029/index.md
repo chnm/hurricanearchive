@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1551superdome.JPG
     thumb: /files/thumbnails/14fb29e2daad3d14fb29e2dab131.jpg
     url: /files/original/14fb29e2daad3d14fb29e2dab131.jpg
+    alt:
+      en: "Two people wade waist-deep through murky floodwater, viewed from above, their reflections and ripples spreading across the surface around them."
 geo:
 id: 25029
 item_type: Still Image

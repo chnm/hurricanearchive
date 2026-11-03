@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27880.jpg
     thumb: /files/thumbnails/14fb2a68508aa714fb2a68509277.jpg
     url: /files/original/14fb2a68508aa714fb2a68509277.jpg
+    alt:
+      en: "A man in a green shirt and cap stands outside a mobile home crushed by a large fallen oak tree, with uprooted roots visible and vehicles parked nearby."
 geo:
   address: ''
   lat: 0.0

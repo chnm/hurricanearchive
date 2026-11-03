@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28124.jpg
     thumb: /files/thumbnails/14fb2a681df7a314fb2a681dfb7e.jpg
     url: /files/original/14fb2a681df7a314fb2a681dfb7e.jpg
+    alt:
+      en: "A helicopter flies against a hazy sky, carrying a large white bag suspended beneath it by a long cable, with power lines crossing the lower portion of the frame."
 geo:
   address: ''
   lat: 0.0

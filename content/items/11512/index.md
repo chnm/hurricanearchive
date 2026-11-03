@@ -20,6 +20,8 @@ files:
     original_filename: lakevista_c8da718115.nola.resident.jpg
     thumb: /files/thumbnails/14fb2a247eb82414fb2a247ebc09.jpg
     url: /files/original/14fb2a247eb82414fb2a247ebc09.jpg
+    alt:
+      en: "Handwritten survey response describing evacuation from New Orleans to Montgomery, Alabama before Hurricane Katrina, signed \"Thomas Mavor.\""
 geo:
   address: ''
   lat: 30.02197

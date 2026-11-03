@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0154-21.JPG
     thumb: /files/thumbnails/14fb2a0162c0f014fb2a0162c4d4.jpg
     url: /files/original/14fb2a0162c0f014fb2a0162c4d4.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage uniform, helmet, and sunglasses leans toward a vehicle window, examining a document held by the silhouetted driver inside."
 geo:
 id: 20946
 item_type: Still Image

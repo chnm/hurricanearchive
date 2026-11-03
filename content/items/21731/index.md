@@ -21,6 +21,8 @@ files:
     original_filename: hallDSC 0065.jpg
     thumb: /files/thumbnails/14fb29fc17e3db14fb29fc17e7c2.jpg
     url: /files/original/14fb29fc17e3db14fb29fc17e7c2.jpg
+    alt:
+      en: "A woman in military camouflage fatigues with \"U.S. ARMY\" lettering and glasses prepares medical supplies, including vials and small packaged items, at a table while other uniformed people stand in the background."
 geo:
 id: 21731
 item_type: Still Image

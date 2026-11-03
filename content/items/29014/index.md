@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0516.JPG
     thumb: /files/thumbnails/14fb29d0aa434f14fb29d0aa4737.jpg
     url: /files/original/14fb29d0aa434f14fb29d0aa4737.jpg
+    alt:
+      en: "A military helicopter sits on a runway with rotors extended, two uniformed figures standing near its tail, a tree line and chain-link fence visible in the background."
 geo:
 id: 29014
 item_type: Still Image

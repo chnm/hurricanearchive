@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (6).JPG
     thumb: /files/thumbnails/14fb2a5c42b00614fb2a5c42b3eb.jpg
     url: /files/original/14fb2a5c42b00614fb2a5c42b3eb.jpg
+    alt:
+      en: "A yellow CAT excavator clears debris and tree branches into a large pile near damaged houses, with scattered rubble and a gravel lot in the foreground."
 geo:
 id: 3355
 item_type: Still Image

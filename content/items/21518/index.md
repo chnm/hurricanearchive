@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0282-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fdd388b514fb29fdd38c9d.jpg
     url: /files/original/14fb29fdd388b514fb29fdd38c9d.jpg
+    alt:
+      en: "Aerial view of a large cemetery with rows of above-ground tombs and mausoleums arranged in diagonal grid patterns, separated by narrow pathways."
 geo:
 id: 21518
 item_type: Still Image

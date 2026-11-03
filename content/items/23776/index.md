@@ -21,6 +21,8 @@ files:
     original_filename: PICT0092neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed29714a14fb29ed29753f.jpg
     url: /files/original/14fb29ed29714a14fb29ed29753f.jpg
+    alt:
+      en: "Debris-covered street lined with damaged houses and utility poles, with a \"No Truck Route\" sign in the foreground; a date stamp reads \"09.15.2005.\""
 geo:
 id: 23776
 item_type: Still Image

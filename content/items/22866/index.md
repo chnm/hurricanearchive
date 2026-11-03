@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0159mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2fd45ac14fb29f2fd4991.jpg
     url: /files/original/14fb29f2fd45ac14fb29f2fd4991.jpg
+    alt:
+      en: "A soldier in camouflage with a name tape reading \"SPENCER\" stands talking with a man in a white T-shirt and police cap, with a Humvee and other people visible on a roadside behind them."
 geo:
 id: 22866
 item_type: Still Image

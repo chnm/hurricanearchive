@@ -23,6 +23,8 @@ files:
     original_filename: 336695598_0150b36ab4.jpg
     thumb: /files/thumbnails/14fb29d4b4708814fb29d4b4751a.jpg
     url: /files/original/14fb29d4b4708814fb29d4b4751a.jpg
+    alt:
+      en: "Damaged houses with collapsed roofing and orange spray-painted search/rescue markings, surrounded by a chain-link fence, overgrown yard, and utility pole in the foreground."
 geo:
 id: 27329
 item_type: Still Image

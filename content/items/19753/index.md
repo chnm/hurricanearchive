@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 140cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e02271b14fb2a0e022973.jpg
     url: /files/original/14fb2a0e02271b14fb2a0e022973.jpg
+    alt:
+      en: "Street lined with large oak trees and downed branches, military Humvees and trucks parked along the road, a portable toilet, and a blue minivan amid storm debris."
 geo:
 id: 19753
 item_type: Still Image

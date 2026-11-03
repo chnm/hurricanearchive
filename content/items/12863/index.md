@@ -21,6 +21,8 @@ files:
     original_filename: Paris at Crescent. Church with dangling cross.jpeg
     thumb: /files/thumbnails/14fb2a2163bcce14fb2a2163c0bb.jpg
     url: /files/original/14fb2a2163bcce14fb2a2163c0bb.jpg
+    alt:
+      en: "A low church building with a dark roof stands amid trees under a tall flagpole-like structure, its cross appearing bent or dangling at an angle against the sky."
 geo:
 id: 12863
 item_type: Still Image

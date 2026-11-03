@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0202-21.JPG
     thumb: /files/thumbnails/14fb29ffe92d5114fb29ffe93136.jpg
     url: /files/original/14fb29ffe92d5114fb29ffe93136.jpg
+    alt:
+      en: "Close-up, sideways-oriented photo of a person in military camouflage uniform with a reversed U.S. flag patch on the shoulder, head bowed, set against a dimly lit outdoor background."
 geo:
 id: 21228
 item_type: Still Image

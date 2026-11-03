@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-10-8A.jpg
     thumb: /files/thumbnails/14fb29e8ad4c0114fb29e8ad4fe8.jpg
     url: /files/original/14fb29e8ad4c0114fb29e8ad4fe8.jpg
+    alt:
+      en: "Large military helicopter with spinning rotor blades sits on a rooftop helipad, with a city skyline of mid-rise buildings visible in the background under a hazy sky."
 geo:
 id: 24334
 item_type: Still Image

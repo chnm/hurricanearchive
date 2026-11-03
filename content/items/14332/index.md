@@ -21,6 +21,8 @@ files:
     original_filename: aerials44.jpg
     thumb: /files/thumbnails/14fb2a19cc7f1b14fb2a19cc8422.jpg
     url: /files/original/14fb2a19cc7f1b14fb2a19cc8422.jpg
+    alt:
+      en: "Aerial view of a coastal peninsula with scattered trees and sandy shoreline, where numerous homes along the waterways have been reduced to debris and foundations, surrounded by a few structures still standing."
 geo:
 id: 14332
 item_type: Still Image

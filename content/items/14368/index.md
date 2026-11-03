@@ -21,6 +21,8 @@ files:
     original_filename: aerials77.jpg
     thumb: /files/thumbnails/14fb2a198ee05514fb2a198ee43a.jpg
     url: /files/original/14fb2a198ee05514fb2a198ee43a.jpg
+    alt:
+      en: "Aerial view of a rural residential area with scattered houses, a winding road, and numerous downed or stripped trees indicating storm damage, surrounded by green fields."
 geo:
 id: 14368
 item_type: Still Image

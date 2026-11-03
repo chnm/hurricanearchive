@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8876.jpg
     thumb: /files/thumbnails/14fb2a655b0aa714fb2a655b0e8e.jpg
     url: /files/original/14fb2a655b0aa714fb2a655b0e8e.jpg
+    alt:
+      en: "Worker in hard hat, safety vest, and dust mask inspects a clipboard amid a massive pile of discarded white goods—appliances, water heaters, and scrap metal—at an outdoor debris dump site."
 geo:
 id: 2554
 item_type: Still Image

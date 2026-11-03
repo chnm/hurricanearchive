@@ -21,6 +21,8 @@ files:
     original_filename: NO 008majortodd.jpg
     thumb: /files/thumbnails/14fb29f2ea417714fb29f2ea4558.jpg
     url: /files/original/14fb29f2ea417714fb29f2ea4558.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rooftops and treetops emerging from brown floodwaters, alongside taller commercial buildings and a partially submerged roadway."
 geo:
 id: 22886
 item_type: Still Image

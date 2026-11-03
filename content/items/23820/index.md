@@ -21,6 +21,8 @@ files:
     original_filename: S4300159stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecf3ee1314fb29ecf3f1ef.jpg
     url: /files/original/14fb29ecf3ee1314fb29ecf3f1ef.jpg
+    alt:
+      en: "Brick house with a pyramidal roof stands amid storm debris, including an overturned boat, a damaged truck, and scattered wreckage; a search-and-rescue marking is spray-painted on the exterior wall near the door."
 geo:
 id: 23820
 item_type: Still Image

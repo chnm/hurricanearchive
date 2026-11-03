@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6951_fc75ce84ee.jpg
     thumb: /files/thumbnails/14fb29db8a989714fb29db8a9c7c.jpg
     url: /files/original/14fb29db8a989714fb29db8a9c7c.jpg
+    alt:
+      en: "Black-and-white photo of a large outdoor gathering of children in white communion dresses and suits seated in rows in a churchyard, with clergy and altar servers standing among them and adults watching behind."
 geo:
   address: ''
   lat: 29.61167

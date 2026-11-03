@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2201superdome.JPG
     thumb: /files/thumbnails/14fb29de5b387814fb29de5b3c5b.jpg
     url: /files/original/14fb29de5b387814fb29de5b3c5b.jpg
+    alt:
+      en: "A man wearing a \"STATE POLICE\" shirt and carrying a shotgun stands on an elevated roadway with National Guard soldiers in camouflage, near a stacked case of bottled water."
 geo:
 id: 25386
 item_type: Still Image

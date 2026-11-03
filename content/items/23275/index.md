@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035jeffersonparishS&R.JPG
     thumb: /files/thumbnails/14fb29f02868f014fb29f0286cd9.jpg
     url: /files/original/14fb29f02868f014fb29f0286cd9.jpg
+    alt:
+      en: "Damaged Time Saver gas station with collapsed canopy supports and scattered metal debris across the pavement, gas price sign reading $2.199, a nearby truck, and a storm-damaged building in the background."
 geo:
 id: 23275
 item_type: Still Image

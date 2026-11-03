@@ -24,6 +24,8 @@ files:
     original_filename: P1010091.JPG
     thumb: /files/thumbnails/14fb2a5a55d1f814fb2a5a55d5eb.jpg
     url: /files/original/14fb2a5a55d1f814fb2a5a55d5eb.jpg
+    alt:
+      en: "Brick house with a garage door spray-painted \"YO FEMA A LITTLE HELP please,\" debris scattered across the driveway and yard."
 geo:
 id: 3655
 item_type: Still Image

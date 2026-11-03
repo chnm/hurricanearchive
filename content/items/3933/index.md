@@ -21,6 +21,8 @@ files:
     original_filename: 100_0230.JPG
     thumb: /files/thumbnails/14fb2a58d67e7114fb2a58d68267.jpg
     url: /files/original/14fb2a58d67e7114fb2a58d68267.jpg
+    alt:
+      en: "A crowd gathers outdoors near portable toilets and a tractor-trailer with \"Shoprite\" signage, with photographers holding cameras and several people conversing in the foreground."
 geo:
 id: 3933
 item_type: Still Image

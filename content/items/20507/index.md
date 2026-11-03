@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025-9-25.JPG
     thumb: /files/thumbnails/14fb2a069838d514fb2a06983cbc.jpg
     url: /files/original/14fb2a069838d514fb2a06983cbc.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with several houses surrounded by floodwater, their lower floors submerged, amid patches of trees and scattered marsh grass."
 geo:
 id: 20507
 item_type: Still Image

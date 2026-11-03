@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0776.JPG
     thumb: /files/thumbnails/14fb2a56f7979714fb2a56f79b7d.jpg
     url: /files/original/14fb2a56f7979714fb2a56f79b7d.jpg
+    alt:
+      en: "Damaged roadside strip mall with debris piled in front of storefronts, including a partially visible \"King\" sign, surrounded by broken trees and power lines under a cloudy sky."
 geo:
 id: 4574
 item_type: Still Image

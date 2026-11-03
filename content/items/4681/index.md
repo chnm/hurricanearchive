@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0632.JPG
     thumb: /files/thumbnails/14fb2a5638661614fb2a563869fa.jpg
     url: /files/original/14fb2a5638661614fb2a563869fa.jpg
+    alt:
+      en: "Close-up of a white PVC pipe extending from beneath a structure's foundation into a rusted metal container, surrounded by overgrown grass and a cinder block support."
 geo:
 id: 4681
 item_type: Still Image

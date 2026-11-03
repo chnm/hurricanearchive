@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28226.jpg
     thumb: /files/thumbnails/14fb2a6991bddb14fb2a6991c22a.jpg
     url: /files/original/14fb2a6991bddb14fb2a6991c22a.jpg
+    alt:
+      en: "A large bare, storm-damaged tree stands beside a hand-painted plywood sign reading \"SUNDAY MASS 10AM,\" with a quonset hut and parked cars visible in the background."
 geo:
   address: ''
   lat: 0.0

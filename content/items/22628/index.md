@@ -21,6 +21,8 @@ files:
     original_filename: IMG 3918Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4fed1a414fb29f4fed974.jpg
     url: /files/original/14fb29f4fed1a414fb29f4fed974.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with only rooftops visible above dark floodwater, surrounded by debris, downed power lines, and scattered trees."
 geo:
 id: 22628
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 031.jpg
     thumb: /files/thumbnails/14fb2a2275542014fb2a22755fb3.jpg
     url: /files/original/14fb2a2275542014fb2a22755fb3.jpg
+    alt:
+      en: "Rows of white support pillars stand on a concrete slab amid storm-damaged, partially framed buildings, with a scorched pine forest and a fire hydrant in the foreground."
 geo:
 id: 11983
 item_type: Still Image

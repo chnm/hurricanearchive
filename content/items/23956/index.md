@@ -21,6 +21,8 @@ files:
     original_filename: 09180026plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec3eb4dd14fb29ec3eb8bf.jpg
     url: /files/original/14fb29ec3eb4dd14fb29ec3eb8bf.jpg
+    alt:
+      en: "A soldier in camouflage stands on a flooded roadway, with portable toilets labeled \"GO CANS\" and floodwater, downed power lines, and debris-covered trees lining the submerged street."
 geo:
 id: 23956
 item_type: Still Image

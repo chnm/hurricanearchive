@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2208superdome.JPG
     thumb: /files/thumbnails/14fb29de4ad09114fb29de4ae59d.jpg
     url: /files/original/14fb29de4ad09114fb29de4ae59d.jpg
+    alt:
+      en: "Two military police in camouflage uniforms restrain a man face-down on a flooded roadway overpass, with submerged vehicles visible in floodwater behind a concrete barrier."
 geo:
 id: 25393
 item_type: Still Image

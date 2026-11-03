@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004-9-25 (1).JPG
     thumb: /files/thumbnails/14fb2a08928f8514fb2a0892936a.jpg
     url: /files/original/14fb2a08928f8514fb2a0892936a.jpg
+    alt:
+      en: "Sideways photo of a man wearing glasses, seated at a dimly lit table with a carton of eggs, a water bottle, a jar, and stacked plates with utensils nearby."
 geo:
 id: 20349
 item_type: Still Image

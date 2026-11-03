@@ -21,6 +21,8 @@ files:
     original_filename: P1010093empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee14688114fb29ee146c67.jpg
     url: /files/original/14fb29ee14688114fb29ee146c67.jpg
+    alt:
+      en: "Military truck bed holds two flags—an American flag and a blue state flag—as it drives down a damaged road lined with flooded lots, downed power lines, and storm debris."
 geo:
 id: 23652
 item_type: Still Image

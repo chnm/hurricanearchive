@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054H.JPG
     thumb: /files/thumbnails/14fb2a0531d54514fb2a0531db58.jpg
     url: /files/original/14fb2a0531d54514fb2a0531db58.jpg
+    alt:
+      en: "Group gathered around a foosball table in a dim room, with a woman in a \"Hooters Siegen\" tank top and a man in a striped shirt smiling, soda cans and gum visible on the table edge."
 geo:
 id: 20673
 item_type: Still Image

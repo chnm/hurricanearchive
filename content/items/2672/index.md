@@ -24,6 +24,8 @@ files:
     original_filename: 20051203_MG_9273.jpg
     thumb: /files/thumbnails/14fb2a60a110a214fb2a60a11427.jpg
     url: /files/original/14fb2a60a110a214fb2a60a11427.jpg
+    alt:
+      en: "A concrete slab holds a rusted barbecue grill and a small statue of the Virgin Mary in an arched niche, with floodwater and a collapsed fence visible in the background."
 geo:
 id: 2672
 item_type: Still Image

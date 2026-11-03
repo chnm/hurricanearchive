@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0078-9-25.JPG
     thumb: /files/thumbnails/14fb2a03c8469714fb2a03c84a7d.jpg
     url: /files/original/14fb2a03c8469714fb2a03c84a7d.jpg
+    alt:
+      en: "Aerial view of a brick church with a damaged roof standing amid widespread floodwaters, surrounded by debris, downed trees, and a partially submerged roadway."
 geo:
 id: 20786
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1554superdome.JPG
     thumb: /files/thumbnails/14fb29e2d5f2c914fb29e2d5fa06.jpg
     url: /files/original/14fb29e2d5f2c914fb29e2d5fa06.jpg
+    alt:
+      en: "A person in camouflage military uniform assists a woman carrying a plastic bag across a rooftop helipad, with a helicopter, other evacuees, and a Coast Guard rescuer nearby."
 geo:
 id: 25032
 item_type: Still Image

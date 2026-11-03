@@ -21,6 +21,8 @@ files:
     original_filename: Picture 409-J2.jpg
     thumb: /files/thumbnails/14fb29f998615f14fb29f9986546.jpg
     url: /files/original/14fb29f998615f14fb29f9986546.jpg
+    alt:
+      en: "A man in a black sleeveless shirt reading \"Knock You Out\" gives another man a haircut outdoors, with metal railings and a brick building in the background; the seated man flashes a peace sign."
 geo:
 id: 22078
 item_type: Still Image

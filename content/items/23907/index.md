@@ -21,6 +21,8 @@ files:
     original_filename: 09140004neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec6f17e514fb29ec6f1bcb.jpg
     url: /files/original/14fb29ec6f17e514fb29ec6f1bcb.jpg
+    alt:
+      en: "A debris-strewn roadway leads to a damaged overpass with a collapsed section, lined by trees and streetlights under a clear blue sky, with vehicles approaching in the distance."
 geo:
 id: 23907
 item_type: Still Image

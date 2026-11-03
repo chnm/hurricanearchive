@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (48).JPG
     thumb: /files/thumbnails/14fb2a5d5f311c14fb2a5d5f34f8.jpg
     url: /files/original/14fb2a5d5f311c14fb2a5d5f34f8.jpg
+    alt:
+      en: "Row of two-story wooden houses with balconies and fire escapes, a large tree in front surrounded by fallen branches and debris, and a parked dark sedan on the street."
 geo:
 id: 3198
 item_type: Still Image

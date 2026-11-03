@@ -21,6 +21,8 @@ files:
     original_filename: katrina 055.jpg
     thumb: /files/thumbnails/14fb29fbc0770514fb29fbc07ae9.jpg
     url: /files/original/14fb29fbc0770514fb29fbc07ae9.jpg
+    alt:
+      en: "A flooded city street with submerged cars and military trucks, a person wading through waist-deep water, trees lining the road, and high-rise buildings in the background."
 geo:
 id: 21785
 item_type: Still Image

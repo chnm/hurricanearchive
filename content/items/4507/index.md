@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0719.JPG
     thumb: /files/thumbnails/14fb2a571c969a14fb2a571c9a73.jpg
     url: /files/original/14fb2a571c969a14fb2a571c9a73.jpg
+    alt:
+      en: "A white two-story house raised on stilts, with storm-damaged roofing shingles and missing sections, stands beside a small shed and bare trees under a clear blue sky."
 geo:
 id: 4507
 item_type: Still Image

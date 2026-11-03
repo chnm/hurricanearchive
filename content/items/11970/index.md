@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 017.jpg
     thumb: /files/thumbnails/14fb2a22838a6014fb2a22838e45.jpg
     url: /files/original/14fb2a22838a6014fb2a22838e45.jpg
+    alt:
+      en: "Large stacks of palletized, shrink-wrapped goods in a parking lot, with a wooden ladder leaning against one pallet and a partial \"K\" store sign visible in the background."
 geo:
 id: 11970
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0975superdome.JPG
     thumb: /files/thumbnails/14fb29e3fb0d8314fb29e3fb1163.jpg
     url: /files/original/14fb29e3fb0d8314fb29e3fb1163.jpg
+    alt:
+      en: "A soldier in camouflage stands beside metal barricades near an Acadian ambulance and police \"Do Not Cross\" sign, with luggage and bags on the ground and cars passing in the background."
 geo:
 id: 24900
 item_type: Still Image

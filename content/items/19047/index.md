@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011.JPG
     thumb: /files/thumbnails/14fb2a1383450f14fb2a138348f5.jpg
     url: /files/original/14fb2a1383450f14fb2a138348f5.jpg
+    alt:
+      en: "View from inside a helicopter's open side door, showing a service member in camouflage fatigues and helmet wearing a backpack, with a parking lot and tree-covered hills visible below."
 geo:
 id: 19047
 item_type: Still Image

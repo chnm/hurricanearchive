@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0001.JPG
     thumb: /files/thumbnails/14fb2a57a60f1714fb2a57a616dd.jpg
     url: /files/original/14fb2a57a60f1714fb2a57a616dd.jpg
+    alt:
+      en: "A large rusted ship sits stranded amid a dense thicket of bare, leafless trees under a clear sky, with a dirt road in the foreground."
 geo:
 id: 4115
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 14_14_beb55409c1.JPG
     thumb: /files/thumbnails/14fb2a6d8b5b0b14fb2a6d8b5eef.jpg
     url: /files/original/14fb2a6d8b5b0b14fb2a6d8b5eef.jpg
+    alt:
+      en: "A group of people unload boxes and supplies from the open rear hatch of a minivan parked next to a white pickup truck in a gravel lot surrounded by trees."
 geo:
   address: ''
   lat: 31.1046852937585

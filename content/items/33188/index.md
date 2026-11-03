@@ -20,6 +20,8 @@ files:
     original_filename: 1438012549_b07e3c867b.
     thumb: /files/thumbnails/14fb29cbbd23c514fb29cbbd26c6.jpg
     url: /files/original/14fb29cbbd23c514fb29cbbd26c6.jpg
+    alt:
+      en: "A row of storm-damaged buildings with sections wrapped in white Tyvek weatherproofing, open garage bays, and a leaning sign post, set beside an empty road and grassy field under power lines."
 geo:
 id: 33188
 item_type: Still Image

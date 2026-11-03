@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_JohanLowe_10_85a1513a6d.jpg
     thumb: /files/thumbnails/14fb2a1630976714fb2a16309b4d.jpg
     url: /files/original/14fb2a1630976714fb2a16309b4d.jpg
+    alt:
+      en: "A young boy in a dark green \"GSS\" polo shirt and shorts sits smiling on a small chair in a classroom, beside a bookshelf filled with children's books and stuffed animals on a nearby table."
 geo:
 id: 15473
 item_type: Still Image

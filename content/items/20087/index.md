@@ -21,6 +21,8 @@ files:
     original_filename: Picture 184cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b64b38414fb2a0b64b76a.jpg
     url: /files/original/14fb2a0b64b38414fb2a0b64b76a.jpg
+    alt:
+      en: "Military personnel in camouflage gather near helicopters draped with netting, behind a chain-link fence topped with wire, with a brick building and parking lot visible in the background."
 geo:
 id: 20087
 item_type: Still Image

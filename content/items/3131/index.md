@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (15).JPG
     thumb: /files/thumbnails/14fb2a5dc72c1d14fb2a5dc733ee.jpg
     url: /files/original/14fb2a5dc72c1d14fb2a5dc733ee.jpg
+    alt:
+      en: "A large dump truck loaded with debris sits on a gravel lot, viewed through a car windshield, with a wooden observation platform built atop the truck's cab and piles of storm debris in the background."
 geo:
 id: 3131
 item_type: Still Image

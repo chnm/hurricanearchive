@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-22-20AneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb6db2df14fb29eb6db6c8.jpg
     url: /files/original/14fb29eb6db2df14fb29eb6db6c8.jpg
+    alt:
+      en: "Flooded plaza with standing water surrounding a modern building's columned storefront, bare trees rising from grassy planters, and faint spray-painted text visible on the darkened glass windows."
 geo:
 id: 24032
 item_type: Still Image

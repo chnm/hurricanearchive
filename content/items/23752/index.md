@@ -21,6 +21,8 @@ files:
     original_filename: P1010193empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed461c7f14fb29ed462050.jpg
     url: /files/original/14fb29ed461c7f14fb29ed462050.jpg
+    alt:
+      en: "A large boat lies overturned on debris-strewn ground, with \"3 dogs, 3 pigs\" spray-painted on its blue hull alongside directional arrows, amid storm wreckage."
 geo:
 id: 23752
 item_type: Still Image

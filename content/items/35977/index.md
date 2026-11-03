@@ -20,6 +20,8 @@ files:
     original_filename: HOME 1D_47576d8ea4.JPG
     thumb: /files/thumbnails/14fb29c5da62bd14fb29c5da67de.jpg
     url: /files/original/14fb29c5da62bd14fb29c5da67de.jpg
+    alt:
+      en: "Abandoned two-story house with yellowed vinyl siding above a brick lower floor, broken windows, and an open doorway; spray-painted text reading \"HOME This was\" on the brick wall, surrounded by overgrown grass."
 geo:
   address: New Orleans
   lat: 29.84064

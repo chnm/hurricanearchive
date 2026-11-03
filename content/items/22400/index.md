@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1232Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6b8ee7614fb29f6b8f25b.jpg
     url: /files/original/14fb29f6b8ee7614fb29f6b8f25b.jpg
+    alt:
+      en: "Floodwaters submerge a street and buildings, viewed through tree branches and utility lines, with heavy rain obscuring the scene in gray, muted light."
 geo:
 id: 22400
 item_type: Still Image

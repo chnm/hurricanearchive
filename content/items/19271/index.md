@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0093iwojima.JPG
     thumb: /files/thumbnails/14fb2a116618c314fb2a11661ca9.jpg
     url: /files/original/14fb2a116618c314fb2a11661ca9.jpg
+    alt:
+      en: "Aerial view of a downtown skyline along a river, with a steel truss bridge in the foreground, a docked cruise ship and gray naval vessel at the waterfront, and warehouses and high-rise buildings beyond."
 geo:
 id: 19271
 item_type: Still Image

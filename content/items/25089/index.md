@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1675superdome.JPG
     thumb: /files/thumbnails/14fb29e26c141714fb29e26c17fb.jpg
     url: /files/original/14fb29e26c141714fb29e26c17fb.jpg
+    alt:
+      en: "Rows of soldiers in camouflage uniforms, wearing \"MP\" armbands, march across a brick plaza beneath the curved overhang of a large building, with vehicles and power lines visible in the background."
 geo:
 id: 25089
 item_type: Still Image

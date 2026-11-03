@@ -26,6 +26,8 @@ files:
     original_filename: 019_19_9c285ca421.jpg
     thumb: /files/thumbnails/14fb2a6dc85a1014fb2a6dc85dcf.jpg
     url: /files/original/14fb2a6dc85a1014fb2a6dc85dcf.jpg
+    alt:
+      en: "A large white motor yacht sits grounded on a gravel lot beside two parked station wagons, its hull bearing visible damage and a bent mast, with rebar grids laid out in the foreground."
 geo:
   address: ''
   lat: 0.0

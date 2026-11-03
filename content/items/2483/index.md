@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8518.jpg
     thumb: /files/thumbnails/14fb2a6606b5e014fb2a6606b9c6.jpg
     url: /files/original/14fb2a6606b5e014fb2a6606b9c6.jpg
+    alt:
+      en: "Severely storm-damaged house on stilts with collapsed roof framing, exposed insulation, and scattered debris, surrounded by bare trees and floodwater in Slidell, Louisiana."
 geo:
 id: 2483
 item_type: Still Image

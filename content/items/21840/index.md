@@ -21,6 +21,8 @@ files:
     original_filename: Chevron refinery west of Venice.jpg
     thumb: /files/thumbnails/14fb29fb669aa114fb29fb669e83.jpg
     url: /files/original/14fb29fb669aa114fb29fb669e83.jpg
+    alt:
+      en: "Aerial view from beneath an airplane wing of a flooded industrial refinery complex with storage tanks and piping, surrounded by waterlogged marshland and winding waterways."
 geo:
 id: 21840
 item_type: Still Image

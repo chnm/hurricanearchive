@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0066-9-25.JPG
     thumb: /files/thumbnails/14fb2a0436bcb214fb2a0436c0a9.jpg
     url: /files/original/14fb2a0436bcb214fb2a0436c0a9.jpg
+    alt:
+      en: "Aerial view of floodwaters submerging a wooded area, with treetops and scattered debris protruding above the water's surface."
 geo:
 id: 20731
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 34.jpg
     thumb: /files/thumbnails/14fb29f05da59414fb29f05da979.jpg
     url: /files/original/14fb29f05da59414fb29f05da979.jpg
+    alt:
+      en: "Doppler radar map titled \"Doppler Radar 600-Mile\" showing a large storm system with green, yellow, and orange precipitation bands centered over New Orleans, Baton Rouge, Mobile, and the Gulf Coast, dated 29 Aug 2005, 12:39 GMT."
 geo:
 id: 23243
 item_type: Still Image

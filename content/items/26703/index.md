@@ -24,6 +24,8 @@ files:
     original_filename: JA 5 ladies dinning 1946_965d0d0234.jpg
     thumb: /files/thumbnails/14fb29d8385e2314fb29d8386209.jpg
     url: /files/original/14fb29d8385e2314fb29d8386209.jpg
+    alt:
+      en: "Aged, water-damaged photograph of three young women seated at a table in 1940s attire, smiling for the camera, with another woman and dining furnishings visible in the background."
 geo:
   address: ''
   lat: 29.87876

@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0170-18.JPG
     thumb: /files/thumbnails/14fb2a09ba018a14fb2a09ba1c6e.jpg
     url: /files/original/14fb2a09ba018a14fb2a09ba1c6e.jpg
+    alt:
+      en: "A man in military camouflage fatigues sits in the doorway of a helicopter, while a brown dog with its tongue out stands nearby on grass (image oriented sideways)."
 geo:
 id: 20303
 item_type: Still Image

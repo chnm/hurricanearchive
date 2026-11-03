@@ -21,6 +21,8 @@ files:
     original_filename: King Cake04 (40)-7_9083a045ba.jpg
     thumb: /files/thumbnails/14fb2a171d6c0214fb2a171d6fe0.jpg
     url: /files/original/14fb2a171d6c0214fb2a171d6fe0.jpg
+    alt:
+      en: "A group of chefs in white coats and toques stand beside a long table displaying decorated King Cakes topped with purple, green, and gold beads for a 2004 Mardi Gras event."
 geo:
 id: 15104
 item_type: Still Image

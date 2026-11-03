@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0024.JPG
     thumb: /files/thumbnails/14fb2a577edef314fb2a577ee2d9.jpg
     url: /files/original/14fb2a577edef314fb2a577ee2d9.jpg
+    alt:
+      en: "Damaged dock with broken wooden planks and debris in the foreground, with shrimp boats and other vessels moored along the waterfront under a clear blue sky."
 geo:
 id: 4138
 item_type: Still Image

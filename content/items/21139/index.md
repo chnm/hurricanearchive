@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0184-21.JPG
     thumb: /files/thumbnails/14fb2a0062379214fb2a00623b5d.jpg
     url: /files/original/14fb2a0062379214fb2a00623b5d.jpg
+    alt:
+      en: "Two soldiers in camouflage fatigues with tactical vests stand between a man in a striped shirt and a woman in a dark top, posing outdoors near military vehicles and trees."
 geo:
 id: 21139
 item_type: Still Image

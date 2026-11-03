@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TiaRobinson_02_ae538e80f2.jpg
     thumb: /files/thumbnails/14fb2a17a1609714fb2a17a16865.jpg
     url: /files/original/14fb2a17a1609714fb2a17a16865.jpg
+    alt:
+      en: "A young child sits inside a car, glancing toward the camera, with a house, hedges, and a parked vehicle visible through the window in the background."
 geo:
 id: 14803
 item_type: Still Image

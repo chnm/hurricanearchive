@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 058.jpg
     thumb: /files/thumbnails/14fb2a59c1804e14fb2a59c1d8f7.jpg
     url: /files/original/14fb2a59c1804e14fb2a59c1d8f7.jpg
+    alt:
+      en: "Storm-damaged house with broken windows and missing siding, surrounded by debris, fallen branches, and a bent pole, with a car parked in the driveway and a bare, damaged tree line in the background."
 geo:
 id: 3778
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1886superdome.JPG
     thumb: /files/thumbnails/14fb29e10dcf5114fb29e10dd35e.jpg
     url: /files/original/14fb29e10dcf5114fb29e10dd35e.jpg
+    alt:
+      en: "Aerial view of a large curved stadium (Superdome) with crowds of people gathered under an elevated walkway, a school bus and vehicles nearby, and an empty multi-level parking structure in the foreground."
 geo:
 id: 25202
 item_type: Still Image

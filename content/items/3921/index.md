@@ -21,6 +21,8 @@ files:
     original_filename: 100_0218.JPG
     thumb: /files/thumbnails/14fb2a58e0a2fe14fb2a58e0b6cc.jpg
     url: /files/original/14fb2a58e0a2fe14fb2a58e0b6cc.jpg
+    alt:
+      en: "Floodwater submerges single-story buildings up to their roofs, with a small boat caught between structures; tree branches frame the scene under a clear sky."
 geo:
 id: 3921
 item_type: Still Image

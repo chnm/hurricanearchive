@@ -21,6 +21,8 @@ files:
     original_filename: AB Grand Isle_e9464d4b9a.jpg
     thumb: /files/thumbnails/14fb29d984bbce14fb29d984be4a.jpg
     url: /files/original/14fb29d984bbce14fb29d984be4a.jpg
+    alt:
+      en: "Sepia-toned group photo of ten people—men, women, and boys—standing in a grassy field holding fishing rods and a long stringer of fish, with wooded hills in the background; \"Grand Isle\" is handwritten at the top."
 geo:
   address: ''
   lat: 29.87876

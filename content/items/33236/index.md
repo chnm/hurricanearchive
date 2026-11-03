@@ -23,6 +23,8 @@ files:
     original_filename: 1256891941_aaac232db6.jpg
     thumb: /files/thumbnails/14fb29cb56400714fb29cb5643ca.jpg
     url: /files/original/14fb29cb56400714fb29cb5643ca.jpg
+    alt:
+      en: "A CAT 320C excavator tears into a deteriorated two-story wooden building beside rubble, with a blue truck cab, a gray sedan, and a pickup truck parked nearby under overcast skies."
 geo:
 id: 33236
 item_type: Still Image

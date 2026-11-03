@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0321-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd62ed3c14fb29fd62f490.jpg
     url: /files/original/14fb29fd62ed3c14fb29fd62f490.jpg
+    alt:
+      en: "Aerial view of a flooded rural community with houses, mobile homes, sheds, and vehicles submerged in brown floodwater, surrounded by partially flooded farm fields and scattered trees."
 geo:
 id: 21586
 item_type: Still Image

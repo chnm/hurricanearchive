@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0178.JPG
     thumb: /files/thumbnails/14fb2a5522a74314fb2a5522ab28.jpg
     url: /files/original/14fb2a5522a74314fb2a5522ab28.jpg
+    alt:
+      en: "A single-story house with vehicles parked outside sits beyond a muddy pond, surrounded by trees and a debris pile of fallen branches in the foreground."
 geo:
 id: 4859
 item_type: Still Image

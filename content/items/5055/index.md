@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0400.JPG
     thumb: /files/thumbnails/14fb2a543514e014fb2a543518c5.jpg
     url: /files/original/14fb2a543514e014fb2a543518c5.jpg
+    alt:
+      en: "Wooden support posts and beams remain standing amid a cleared concrete slab, surrounded by scattered debris, fallen branches, and household items, with trees in the background."
 geo:
 id: 5055
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: Waiting For The President
     thumb: /files/thumbnails/14fb2a5804d00014fb2a5804e5fa.jpg
     url: /files/original/14fb2a5804d00014fb2a5804e5fa.jpg
+    alt:
+      en: "Large crowd of uniformed personnel and civilians gathered outdoors near mobile trailers labeled \"Porta-King,\" with a small building and tower visible in the background under a clear blue sky."
 geo:
 id: 4079
 item_type: Still Image

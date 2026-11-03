@@ -26,6 +26,8 @@ files:
     original_filename: katrina9_bcde16a573.jpg
     thumb: /files/thumbnails/14fb2a714594f514fb2a71459907.jpg
     url: /files/original/14fb2a714594f514fb2a71459907.jpg
+    alt:
+      en: "A flooded house in Lakeview with only its tiled roof and upper gable visible above the water, surrounded by trees and a larger building in the background."
 geo:
   address: ''
   lat: 29.951082

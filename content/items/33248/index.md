@@ -23,6 +23,8 @@ files:
     original_filename: 1233804262_b31fb2f262.jpg
     thumb: /files/thumbnails/14fb29cb30e72214fb29cb30f2bf.jpg
     url: /files/original/14fb29cb30e72214fb29cb30f2bf.jpg
+    alt:
+      en: "Abandoned two-story wooden building with faded \"K&B Food Store\" signage, boarded windows, and a \"Roof Repairs\" banner, overgrown with vines and surrounded by weeds and debris."
 geo:
   address: ''
   lat: 41.8848

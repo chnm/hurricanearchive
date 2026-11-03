@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0568.JPG
     thumb: /files/thumbnails/14fb29d05a27a214fb29d05a3da1.jpg
     url: /files/original/14fb29d05a27a214fb29d05a3da1.jpg
+    alt:
+      en: "A damaged single-story house with pale green siding and broken windows has shifted off its foundation, with a dark sedan lodged beneath it; debris litters the street alongside a red pickup truck."
 geo:
 id: 29062
 item_type: Still Image

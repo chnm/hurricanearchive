@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0558.JPG
     thumb: /files/thumbnails/14fb2a56ad550714fb2a56ad58e3.jpg
     url: /files/original/14fb2a56ad550714fb2a56ad58e3.jpg
+    alt:
+      en: "Concrete foundation piers stand exposed amid scattered debris where a house once stood, with a mobile home and car parked nearby under bare and leafy trees."
 geo:
 id: 4629
 item_type: Still Image

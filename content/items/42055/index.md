@@ -23,6 +23,8 @@ files:
     original_filename: img007_e61113b191.jpg
     thumb: /files/thumbnails/14fb29c3c5c98614fb29c3c5cf0f.jpg
     url: /files/original/14fb29c3c5c98614fb29c3c5cf0f.jpg
+    alt:
+      en: "Flyer for \"REVOLUTION\" film screenings of a talk by Bob Avakian, listing New Orleans venues and dates in August 2006, with text about Hurricane Katrina's anniversary and a \"RESIST!\" call to action box."
 geo:
   address: ''
   lat: 0.0

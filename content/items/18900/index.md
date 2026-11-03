@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0250downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1493f63b14fb2a1493f6d7.jpg
     url: /files/original/14fb2a1493f63b14fb2a1493f6d7.jpg
+    alt:
+      en: "Aerial view of a severely storm-damaged residential neighborhood, with collapsed roofs, debris-strewn lots, and stripped trees stretching across a grid of streets toward a hazy horizon."
 geo:
 id: 18900
 item_type: Still Image

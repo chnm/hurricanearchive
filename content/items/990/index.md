@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27893.jpg
     thumb: /files/thumbnails/14fb2a6b832cf014fb2a6b8330cb.jpg
     url: /files/original/14fb2a6b832cf014fb2a6b8330cb.jpg
+    alt:
+      en: "Nighttime street scene with a \"Merle St.\" sign in foreground; a Red Cross relief van and fire truck parked near a building, with a small group of people gathered to receive food."
 geo:
   address: ''
   lat: 0.0

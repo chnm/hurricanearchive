@@ -24,6 +24,8 @@ files:
     original_filename: P1010042.JPG
     thumb: /files/thumbnails/14fb2a5aa071a214fb2a5aa07588.jpg
     url: /files/original/14fb2a5aa071a214fb2a5aa07588.jpg
+    alt:
+      en: "A long row of gold and silver sports trophies of varying heights lined up on a wooden bench in front of red metal gym lockers."
 geo:
 id: 3613
 item_type: Still Image

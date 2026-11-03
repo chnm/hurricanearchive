@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0075grandisle.JPG
     thumb: /files/thumbnails/14fb2a14e2c09314fb2a14e2c517.jpg
     url: /files/original/14fb2a14e2c09314fb2a14e2c517.jpg
+    alt:
+      en: "Aerial view of storm-damaged coastal land with scattered debris, stripped and broken trees, and the remains of a small structure, bordered by a road and a levee along the water."
 geo:
 id: 18858
 item_type: Still Image

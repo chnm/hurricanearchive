@@ -21,6 +21,8 @@ files:
     original_filename: MVC-012S.JPG
     thumb: /files/thumbnails/14fb2a5f92f53814fb2a5f92f91d.jpg
     url: /files/original/14fb2a5f92f53814fb2a5f92f91d.jpg
+    alt:
+      en: "Cluttered office interior with a ViewSonic monitor, scattered papers and boxes on desks, a yellow raincoat hanging on the wall, and shelving units in the background."
 geo:
 id: 2923
 item_type: Still Image

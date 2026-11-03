@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1046Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8bc0a1d14fb29f8bc15a3.jpg
     url: /files/original/14fb29f8bc0a1d14fb29f8bc15a3.jpg
+    alt:
+      en: "Two military helicopters silhouetted against an overcast sky, with a utility pole visible at the upper left corner of the frame."
 geo:
 id: 22239
 item_type: Still Image

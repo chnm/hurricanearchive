@@ -21,6 +21,8 @@ files:
     original_filename: P1010136empireS&R.JPG
     thumb: /files/thumbnails/14fb29edcd6d9214fb29edcd70eb.jpg
     url: /files/original/14fb29edcd6d9214fb29edcd70eb.jpg
+    alt:
+      en: "View from inside a military vehicle labeled \"RECON 3\" on the windshield, looking out over floodwaters and widespread debris, with damaged structures and trees in the background."
 geo:
 id: 23695
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0137.JPG
     thumb: /files/thumbnails/14fb2a025c20c614fb2a025c24d1.jpg
     url: /files/original/14fb2a025c20c614fb2a025c24d1.jpg
+    alt:
+      en: "Aerial view of a dense city skyline with numerous high-rise office and residential towers, a construction crane visible in the hazy distance, and streets with vehicles below; the word \"Tulane\" appears on one building's facade."
 geo:
 id: 20877
 item_type: Still Image

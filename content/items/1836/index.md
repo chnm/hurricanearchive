@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0946_0548ef5794.JPG
     thumb: /files/thumbnails/14fb2a6eb6dbcb14fb2a6eb6dfa5.jpg
     url: /files/original/14fb2a6eb6dbcb14fb2a6eb6dfa5.jpg
+    alt:
+      en: "A storm-damaged boat lies overturned on top of a wrecked car in a debris-strewn yard, with orange spray-painted search-and-rescue markings on a nearby house's walls and door frame."
 geo:
   address: ''
   lat: 30.0076269718883

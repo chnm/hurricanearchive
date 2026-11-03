@@ -21,6 +21,8 @@ files:
     original_filename: MVC-007S.JPG
     thumb: /files/thumbnails/14fb2a5fa82c0014fb2a5fa82fec.jpg
     url: /files/original/14fb2a5fa82c0014fb2a5fa82fec.jpg
+    alt:
+      en: "Large artillery shells with yellow tips stored in metal racks within a shipboard magazine, flanked by riveted metal paneling and piping; a partial green sign reading \"R\" appears at left."
 geo:
 id: 2884
 item_type: Still Image

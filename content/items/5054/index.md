@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0399.JPG
     thumb: /files/thumbnails/14fb2a54377ce114fb2a5437879b.jpg
     url: /files/original/14fb2a54377ce114fb2a5437879b.jpg
+    alt:
+      en: "Debris field with a boat marked \"612\" and scattered wreckage, a damaged house with a blue tarp roof in the background, and bare, storm-damaged pine trees throughout."
 geo:
 id: 5054
 item_type: Still Image

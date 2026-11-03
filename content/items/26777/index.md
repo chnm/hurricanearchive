@@ -21,6 +21,8 @@ files:
     original_filename: WC merdian tornado 1900s_6738cfd7ab.jpg
     thumb: /files/thumbnails/14fb29d7d96f0914fb29d7d972f0.jpg
     url: /files/original/14fb29d7d96f0914fb29d7d972f0.jpg
+    alt:
+      en: "Sepia-toned photograph of a devastated home site strewn with debris and splintered wood, with several onlookers standing among the wreckage; handwritten caption reads \"Grand Pa Dunham's Home on 14th st & 10 ave.\""
 geo:
   address: ''
   lat: 29.95493

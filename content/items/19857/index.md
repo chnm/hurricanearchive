@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d204a5014fb2a0d204e32.jpg
     url: /files/original/14fb2a0d204a5014fb2a0d204e32.jpg
+    alt:
+      en: "Four workers in white hard hats and camouflage pants construct a wooden roof frame, using a power drill to secure beams, with trees and blue sky in the background."
 geo:
 id: 19857
 item_type: Still Image

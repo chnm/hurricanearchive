@@ -23,6 +23,8 @@ files:
     original_filename: 336694622_0925355a7a.jpg
     thumb: /files/thumbnails/14fb29d50d098b14fb29d50d2099.jpg
     url: /files/original/14fb29d50d098b14fb29d50d2099.jpg
+    alt:
+      en: "A large tree with fallen branches and debris covers the yard and street in front of a yellow house and a brick building, with a car partially obscured by the broken limbs."
 geo:
 id: 27319
 item_type: Still Image

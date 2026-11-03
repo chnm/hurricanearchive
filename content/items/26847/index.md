@@ -21,6 +21,8 @@ files:
     original_filename: lowell adams valedictory address_442ad935fa.jpg
     thumb: /files/thumbnails/14fb29d7716d6614fb29d7717c97.jpg
     url: /files/original/14fb29d7716d6614fb29d7717c97.jpg
+    alt:
+      en: "Black-and-white yearbook photo of a graduate in cap and gown receiving a diploma from a man in a suit, with accompanying text about the 1979 Chalmette High School commencement and valedictorian Lowell Adams."
 geo:
 id: 26847
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2420898509_fa64a613e3.
     thumb: /files/thumbnails/14fb29c94128e114fb29c9412cc5.jpg
     url: /files/original/14fb29c94128e114fb29c9412cc5.jpg
+    alt:
+      en: "Abandoned building entrance with glass double doors in yellow frames standing open, revealing a dark interior with debris and overturned furniture on the floor; marble-patterned walls flank the doorway."
 geo:
   address: ''
   lat: 29.97632

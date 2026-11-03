@@ -26,6 +26,8 @@ files:
     original_filename: MandevilleSept24_5feetwater_7f527db949.jpeg
     thumb: /files/thumbnails/14fb2a6f0285fa14fb2a6f02896f.jpg
     url: /files/original/14fb2a6f0285fa14fb2a6f02896f.jpg
+    alt:
+      en: "Street sign reading \"Lafitte St\" and \"Lakeshore Dr\" rises above deep floodwater submerging trees and a bench, under an overcast sky."
 geo:
   address: ''
   lat: 30.148461

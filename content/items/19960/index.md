@@ -21,6 +21,8 @@ files:
     original_filename: Picture 057cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0beca5ce14fb2a0beca9b8.jpg
     url: /files/original/14fb2a0beca5ce14fb2a0beca9b8.jpg
+    alt:
+      en: "A uniformed driver in a military vehicle raises his hand near the steering wheel while driving down a tree-lined street, with another military truck visible ahead."
 geo:
 id: 19960
 item_type: Still Image

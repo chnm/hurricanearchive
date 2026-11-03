@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-15-14A.jpg
     thumb: /files/thumbnails/14fb29e84bbf9b14fb29e84bc380.jpg
     url: /files/original/14fb29e84bbf9b14fb29e84bc380.jpg
+    alt:
+      en: "Street flooded with murky water nearly submerging several parked vehicles, with a lamppost, utility poles, and trees visible through heavy rain and mist."
 geo:
 id: 24394
 item_type: Still Image

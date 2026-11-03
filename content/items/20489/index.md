@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0022-20.JPG
     thumb: /files/thumbnails/14fb2a06d0aba614fb2a06d0af8b.jpg
     url: /files/original/14fb2a06d0aba614fb2a06d0af8b.jpg
+    alt:
+      en: "Interior of a large striped relief tent with a food serving station on a steel cart, small American flags on top, as soldiers in camouflage uniforms and civilians in casual clothing gather nearby amid picnic tables and industrial ventilation ducts."
 geo:
 id: 20489
 item_type: Still Image

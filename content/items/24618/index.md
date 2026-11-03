@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0128-21-2.JPG
     thumb: /files/thumbnails/14fb29e6187cf314fb29e61880d8.jpg
     url: /files/original/14fb29e6187cf314fb29e61880d8.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms examine a document together in a dimly lit room, with a laptop bearing a military patch sticker visible in the foreground."
 geo:
 id: 24618
 item_type: Still Image

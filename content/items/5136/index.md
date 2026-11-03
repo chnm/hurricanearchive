@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0498.JPG
     thumb: /files/thumbnails/14fb2a53cb88c914fb2a53cb8ca5.jpg
     url: /files/original/14fb2a53cb88c914fb2a53cb8ca5.jpg
+    alt:
+      en: "A wooden beam with a visible crack running along its length, measured with a yellow tape measure showing markings from 1 to 5 inches, set against a clear blue sky."
 geo:
 id: 5136
 item_type: Still Image

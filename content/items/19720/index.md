@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 107cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e32f17414fb2a0e32f55a.jpg
     url: /files/original/14fb2a0e32f17414fb2a0e32f55a.jpg
+    alt:
+      en: "Military personnel with a crane truck remove storm debris, including an overturned boat, from a damaged roadside near a storage facility and storm-battered buildings."
 geo:
 id: 19720
 item_type: Still Image

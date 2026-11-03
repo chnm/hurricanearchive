@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0520.JPG
     thumb: /files/thumbnails/14fb29d0a4b5e414fb29d0a4b9c9.jpg
     url: /files/original/14fb29d0a4b5e414fb29d0a4b9c9.jpg
+    alt:
+      en: "Soldiers in camouflage fatigues, some wearing hearing-protection headsets, walk across a tarmac toward a U.S. Army Black Hawk helicopter with rotors spinning under a clear blue sky."
 geo:
 id: 29017
 item_type: Still Image

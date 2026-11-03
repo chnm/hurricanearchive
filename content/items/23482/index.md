@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0128abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef41ab9014fb29ef41af77.jpg
     url: /files/original/14fb29ef41ab9014fb29ef41af77.jpg
+    alt:
+      en: "A single-story blue house with a white porch railing stands flooded by murky brown water that nearly reaches its windowsills, surrounded by bare, leafless trees and a utility pole."
 geo:
 id: 23482
 item_type: Still Image

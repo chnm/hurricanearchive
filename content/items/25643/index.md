@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.080.JPG
     thumb: /files/thumbnails/14fb29dcecebde14fb29dcecefc3.jpg
     url: /files/original/14fb29dcecebde14fb29dcecefc3.jpg
+    alt:
+      en: "Small yellow wildflowers growing from a rusted metal bin amid a large pile of debris, including waterlogged papers and cardboard."
 geo:
 id: 25643
 item_type: Still Image

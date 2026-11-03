@@ -21,6 +21,8 @@ files:
     original_filename: Picture 153cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b89aea714fb2a0b89b28d.jpg
     url: /files/original/14fb2a0b89aea714fb2a0b89b28d.jpg
+    alt:
+      en: "Flooded rail yard with standing water covering tracks, a rusted metal pipe and wooden ties in the foreground, and piles of dirt along a distant wall."
 geo:
 id: 20056
 item_type: Still Image

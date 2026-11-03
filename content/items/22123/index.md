@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-03-1AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f9766e3414fb29f9766f50.jpg
     url: /files/original/14fb29f9766e3414fb29f9766f50.jpg
+    alt:
+      en: "Floodwater submerges a residential street, covering vehicles up to their rooftops and reaching the base of nearby houses, with a lamppost and debris floating amid the murky water under an overcast sky."
 geo:
 id: 22123
 item_type: Still Image

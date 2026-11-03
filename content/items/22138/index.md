@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-18-17AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f9600fc614fb29f96013aa.jpg
     url: /files/original/14fb29f9600fc614fb29f96013aa.jpg
+    alt:
+      en: "A row of military-style cots lined with duffel bags, camouflage gear, and clothing fills a narrow hallway, with a desert camo jacket hanging on the wall beneath a framed picture."
 geo:
 id: 22138
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1415superdome.JPG
     thumb: /files/thumbnails/14fb29e3e0c20914fb29e3e0c5ee.jpg
     url: /files/original/14fb29e3e0c20914fb29e3e0c5ee.jpg
+    alt:
+      en: "A group of soldiers in camouflage uniforms stand and gather near an escalator and glass doors in an indoor space, with American flag patches visible on their sleeves."
 geo:
 id: 24920
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0276downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1429c97514fb2a1429cd4e.jpg
     url: /files/original/14fb2a1429c97514fb2a1429cd4e.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential neighborhood with houses missing roof shingles, scattered debris, and browned trees, alongside a row of blue storage unit buildings and a nearby gas station."
 geo:
 id: 18926
 item_type: Still Image

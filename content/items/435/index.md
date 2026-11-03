@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0017_9fcfc9f248.JPG
     thumb: /files/thumbnails/14fb2a6ffc770e14fb2a6ffc7aeb.jpg
     url: /files/original/14fb2a6ffc770e14fb2a6ffc7aeb.jpg
+    alt:
+      en: "A white sign reading \"Lee & ChiChi's NEW PAD, Thank You FEMA, WE WILL SURVIVE! 508 E BEACH BLVD.\" stands near a FEMA trailer, storm-damaged oak trees, and a flying American flag."
 geo:
   address: ''
   lat: 29.916852233070202

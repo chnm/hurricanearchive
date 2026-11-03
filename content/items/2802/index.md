@@ -21,6 +21,8 @@ files:
     original_filename: 94.jpg
     thumb: /files/thumbnails/14fb2a6007e01914fb2a6007e57c.jpg
     url: /files/original/14fb2a6007e01914fb2a6007e57c.jpg
+    alt:
+      en: "Child's crayon drawing of storm funnels labeled \"Storm\" between two trees labeled \"tree\" with roots and grass, captioned \"I will always love New Orleans forever\" and dedicated \"To New Orleans from Iesha age 11 year old Hurricane Katrina.\""
 geo:
 id: 2802
 item_type: Still Image

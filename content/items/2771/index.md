@@ -21,6 +21,8 @@ files:
     original_filename: 66.jpg
     thumb: /files/thumbnails/14fb2a6044e6a214fb2a6044ea7b.jpg
     url: /files/original/14fb2a6044e6a214fb2a6044ea7b.jpg
+    alt:
+      en: "Child's drawing of a simple stick figure in blue and black marker, with handwritten text reading \"'Someone being pulled out of the water' —Age 6.\""
 geo:
 id: 2771
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0186-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0058e70214fb2a0058eae8.jpg
     url: /files/original/14fb2a0058e70214fb2a0058eae8.jpg
+    alt:
+      en: "Two men in caps stand near floodwater surrounded by debris and bare trees, one wearing a green shirt and overalls, the other a striped polo shirt, both looking out across the water."
 geo:
 id: 21147
 item_type: Still Image

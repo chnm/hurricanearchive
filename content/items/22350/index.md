@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1166Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f717d7f514fb29f7291a3d.jpg
     url: /files/original/14fb29f717d7f514fb29f7291a3d.jpg
+    alt:
+      en: "Heavy wind-driven rain obscures a flooded yard with a lamppost, brick structures, iron fencing, and bare trees bending in the storm."
 geo:
 id: 22350
 item_type: Still Image

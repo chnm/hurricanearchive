@@ -21,6 +21,8 @@ files:
     original_filename: S4300083bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a139c47df14fb2a139c4cdb.jpg
     url: /files/original/14fb2a139c47df14fb2a139c4cdb.jpg
+    alt:
+      en: "A person rests with eyes closed, head tilted back against camouflage-patterned gear, wearing a dark shirt and a red wristband, with bright sunlight illuminating the scene."
 geo:
 id: 19022
 item_type: Still Image

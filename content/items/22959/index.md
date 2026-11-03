@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0199media.JPG
     thumb: /files/thumbnails/14fb29f26ae54514fb29f26ae92a.jpg
     url: /files/original/14fb29f26ae54514fb29f26ae92a.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms with American flag patches stand outdoors near a portable toilet and fenced building; one writes on a legal pad while another holds a camera."
 geo:
 id: 22959
 item_type: Still Image

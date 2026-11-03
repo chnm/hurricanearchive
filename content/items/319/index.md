@@ -26,6 +26,8 @@ files:
     original_filename: flag_small_8d10ec1a1a.jpg
     thumb: /files/thumbnails/14fb2a703dc66a14fb2a703dca51.jpg
     url: /files/original/14fb2a703dc66a14fb2a703dca51.jpg
+    alt:
+      en: "A tattered American flag, its stripes shredded into ribbons by wind, hangs from a metal pole against a backdrop of green trees."
 geo:
   address: ''
   lat: 0.0

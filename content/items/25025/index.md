@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1547superdome.JPG
     thumb: /files/thumbnails/14fb29e2e0d17314fb29e2e1eb9c.jpg
     url: /files/original/14fb29e2e0d17314fb29e2e1eb9c.jpg
+    alt:
+      en: "A Coast Guard helicopter with rotor blades extended sits on a rooftop helipad as a group of people walk across the pavement nearby, with multi-story buildings, including one labeled \"Delgado Community College,\" visible in the background."
 geo:
 id: 25025
 item_type: Still Image

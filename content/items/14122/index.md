@@ -21,6 +21,8 @@ files:
     original_filename: DSCF0048.JPG
     thumb: /files/thumbnails/14fb2a1bad1a2a14fb2a1bad1e02.jpg
     url: /files/original/14fb2a1bad1a2a14fb2a1bad1e02.jpg
+    alt:
+      en: "Three men in military camouflage uniforms stand in front of a tan tanker truck marked \"FLAMMABLE, NO SMOKING WITHIN 50 FT\" and placarded \"1993, 3,\" with a tarp and hose visible nearby."
 geo:
   address: ''
   lat: 0.0

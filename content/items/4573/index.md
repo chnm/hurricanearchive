@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0775.JPG
     thumb: /files/thumbnails/14fb2a56f87a1a14fb2a56f87e00.jpg
     url: /files/original/14fb2a56f87a1a14fb2a56f87e00.jpg
+    alt:
+      en: "Storm-damaged tree line with snapped and stripped pines, scattered debris, and broken wood covering the muddy ground near a utility pole."
 geo:
 id: 4573
 item_type: Still Image

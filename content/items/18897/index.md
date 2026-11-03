@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0247downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1499e24e14fb2a1499e9e4.jpg
     url: /files/original/14fb2a1499e24e14fb2a1499e9e4.jpg
+    alt:
+      en: "Aerial view of a severely damaged residential neighborhood with rows of houses stripped to foundations or roofless, debris-covered yards, and a grid of streets extending toward a distant waterway."
 geo:
 id: 18897
 item_type: Still Image

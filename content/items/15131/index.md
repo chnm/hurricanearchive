@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5651_1383021e0d.jpg
     thumb: /files/thumbnails/14fb2a16fddda914fb2a16fddfa0.jpg
     url: /files/original/14fb2a16fddda914fb2a16fddfa0.jpg
+    alt:
+      en: "Black-and-white 1968 photograph of two women standing together indoors in front of floral curtains, one in a light-colored dress and headscarf, the other in a buttoned cardigan with a beaded necklace."
 geo:
 id: 15131
 item_type: Still Image

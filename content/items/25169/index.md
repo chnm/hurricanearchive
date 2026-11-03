@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1779superdome.JPG
     thumb: /files/thumbnails/14fb29e17e85f414fb29e17e8f0f.jpg
     url: /files/original/14fb29e17e85f414fb29e17e8f0f.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms, along with a woman in civilian attire and a man in a light-colored polo shirt, standing together in conversation outdoors near a large building."
 geo:
 id: 25169
 item_type: Still Image

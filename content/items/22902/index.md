@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2222media.JPG
     thumb: /files/thumbnails/14fb29f2d23c4314fb29f2d24028.jpg
     url: /files/original/14fb29f2d23c4314fb29f2d24028.jpg
+    alt:
+      en: "A man in U.S. Army camouflage uniform speaks with a woman writing in a small notebook, both seated under a canopy, with another woman wearing a Nikon camera strap beside them and storm-damaged buildings visible in the background."
 geo:
 id: 22902
 item_type: Still Image

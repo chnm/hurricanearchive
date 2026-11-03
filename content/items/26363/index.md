@@ -21,6 +21,8 @@ files:
     original_filename: Lionell Powell_5829_9b1b3d5e9f.jpg
     thumb: /files/thumbnails/14fb29d931fcc514fb29d93200a9.jpg
     url: /files/original/14fb29d931fcc514fb29d93200a9.jpg
+    alt:
+      en: "Close-up portrait of a smiling woman wearing a beaded headpiece and earrings, likely part of a wedding party; the photo shows significant water damage and deterioration along its edges."
 geo:
   address: Israelite Spiritual Church, 3000 Frenchmen St., New Orleans, LA
   lat: 0.0

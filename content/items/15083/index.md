@@ -20,6 +20,8 @@ files:
     original_filename: Post Katrina 121005 009_cd74cb1c01.jpg
     thumb: /files/thumbnails/14fb2a1737e15014fb2a1737e420.jpg
     url: /files/original/14fb2a1737e15014fb2a1737e420.jpg
+    alt:
+      en: "A stucco house with tall arched windows stands beside a dirt yard where a small green seedling grows near a handwritten \"Garden of the Month\" sign with a drawn flower."
 geo:
   address: ''
   lat: 30.00467

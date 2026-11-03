@@ -21,6 +21,8 @@ files:
     original_filename: 20051003-A-3780B-189NewMexicoNG.jpg
     thumb: /files/thumbnails/14fb29f1500e2c14fb29f1501211.jpg
     url: /files/original/14fb29f1500e2c14fb29f1501211.jpg
+    alt:
+      en: "A military-style front loader with desert camouflage paint lifts large wrapped bundles in a grassy field, while a helicopter hovers in the background and parked vehicles line the tree edge."
 geo:
 id: 23152
 item_type: Still Image

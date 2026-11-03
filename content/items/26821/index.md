@@ -24,6 +24,8 @@ files:
     original_filename: SF crewboat 2_7847b6ead8.jpg
     thumb: /files/thumbnails/14fb29d79b314d14fb29d79b3594.jpg
     url: /files/original/14fb29d79b314d14fb29d79b3594.jpg
+    alt:
+      en: "Aerial view of a crewboat's stern deck loaded with wire-mesh cages, metal pipes, crates, and rigging equipment, with a crew member sitting at the rail and green water surrounding the vessel."
 geo:
   address: ''
   lat: 29.87876

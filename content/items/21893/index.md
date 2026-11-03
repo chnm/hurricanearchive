@@ -21,6 +21,8 @@ files:
     original_filename: One American Energy.jpg
     thumb: /files/thumbnails/14fb29fb35165414fb29fb351acc.jpg
     url: /files/original/14fb29fb35165414fb29fb351acc.jpg
+    alt:
+      en: "Aerial view of an industrial facility with warehouses, trucks, and storage tanks beside a levee and river, surrounded by green agricultural fields; overlay text reads \"WMIRS Miss#LA-037-05A - 07Sep05 - One American Energy - Looking South Lat/Lon: 2956.00N x09022.00W.\""
 geo:
 id: 21893
 item_type: Still Image

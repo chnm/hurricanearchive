@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0961superdome.JPG
     thumb: /files/thumbnails/14fb29e40f32da14fb29e40f36c1.jpg
     url: /files/original/14fb29e40f32da14fb29e40f36c1.jpg
+    alt:
+      en: "Two rows of military personnel in camouflage uniforms form a line, passing folded cots from a canvas-covered truck through a teal-colored loading bay door."
 geo:
 id: 24886
 item_type: Still Image

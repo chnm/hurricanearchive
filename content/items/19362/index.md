@@ -21,6 +21,8 @@ files:
     original_filename: DSC00816engineers.JPG
     thumb: /files/thumbnails/14fb2a10c26e6a14fb2a10c2724f.jpg
     url: /files/original/14fb2a10c26e6a14fb2a10c2724f.jpg
+    alt:
+      en: "A convoy of military trucks travels down a gravel road lined with trees, with a flatbed trailer in front carrying a skid-steer loader and a backhoe, the \"Bobcat\" logo visible on the loader."
 geo:
 id: 19362
 item_type: Still Image

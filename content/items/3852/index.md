@@ -21,6 +21,8 @@ files:
     original_filename: 100_0144.JPG
     thumb: /files/thumbnails/14fb2a593e2f4614fb2a593e332c.jpg
     url: /files/original/14fb2a593e2f4614fb2a593e332c.jpg
+    alt:
+      en: "A damaged concrete pier with a white boat stranded on top, debris scattered along the shoreline, and bare trees under an overcast sky, all reflected in calm floodwater below."
 geo:
 id: 3852
 item_type: Still Image

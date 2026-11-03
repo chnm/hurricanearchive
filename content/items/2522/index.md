@@ -24,6 +24,8 @@ files:
     original_filename: 20051104_MG_8714.jpg
     thumb: /files/thumbnails/14fb2a65c14fe314fb2a65c1dcbe.jpg
     url: /files/original/14fb2a65c14fe314fb2a65c1dcbe.jpg
+    alt:
+      en: "Destroyed home reduced to scattered debris and bare steel pilings, with a plywood sign reading \"Scott Lopez 1501\" propped amid the wreckage under a clear sky."
 geo:
 id: 2522
 item_type: Still Image

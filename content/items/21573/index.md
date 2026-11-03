@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0309-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd7800d514fb29fd78230c.jpg
     url: /files/original/14fb29fd7800d514fb29fd78230c.jpg
+    alt:
+      en: "Aerial view of a flooded football stadium and surrounding sports complex, with stadium seating, lighting towers, and field goal posts partially submerged in brown floodwater, surrounded by trees and additional flooded fields beyond."
 geo:
 id: 21573
 item_type: Still Image

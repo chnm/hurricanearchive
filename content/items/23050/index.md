@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0060OEP.JPG
     thumb: /files/thumbnails/14fb29f1b951ea14fb29f1b955ce.jpg
     url: /files/original/14fb29f1b951ea14fb29f1b955ce.jpg
+    alt:
+      en: "A man lies on the grass beneath a broadcast camera on a tripod, surrounded by lighting equipment, folding chairs, and a cooler under a canopy tent, with parked vehicles visible in the background."
 geo:
 id: 23050
 item_type: Still Image

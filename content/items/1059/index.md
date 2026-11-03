@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28223.jpg
     thumb: /files/thumbnails/14fb2a6b3b99b314fb2a6b3b9d8b.jpg
     url: /files/original/14fb2a6b3b99b314fb2a6b3b9d8b.jpg
+    alt:
+      en: "A sign reading \"St. Clare Catholic Church, Sunday Mass 10 Am, Please Bring Your Own Chair, Father Martin Gillespie-Pastor\" stands behind a pile of broken bricks and a small American flag."
 geo:
   address: ''
   lat: 0.0

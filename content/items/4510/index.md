@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0722.JPG
     thumb: /files/thumbnails/14fb2a571a122a14fb2a571a1618.jpg
     url: /files/original/14fb2a571a122a14fb2a571a1618.jpg
+    alt:
+      en: "Elevated house on stilts with storm-damaged siding and missing porch railing, surrounded by debris, bare dirt, and scattered trees under a hazy sky; a car is parked at left."
 geo:
 id: 4510
 item_type: Still Image

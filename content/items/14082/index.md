@@ -21,6 +21,8 @@ files:
     original_filename: Area Damage.JPG
     thumb: /files/thumbnails/14fb2a1bdf133014fb2a1bdf1716.jpg
     url: /files/original/14fb2a1bdf133014fb2a1bdf1716.jpg
+    alt:
+      en: "A row of utility poles leans at increasing angles alongside a flooded roadway, with floodwater covering the surrounding land and a truck visible in the foreground."
 geo:
   address: ''
   lat: 0.0

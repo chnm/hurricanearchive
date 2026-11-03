@@ -21,6 +21,8 @@ files:
     original_filename: 100_0139.JPG
     thumb: /files/thumbnails/14fb2a5942e07f14fb2a5942e46d.jpg
     url: /files/original/14fb2a5942e07f14fb2a5942e46d.jpg
+    alt:
+      en: "Damaged sailboats crowded together at a marina dock, their masts tangled with rigging and torn sails, surrounded by broken wooden debris and a snapped utility pole in the background."
 geo:
 id: 3847
 item_type: Still Image

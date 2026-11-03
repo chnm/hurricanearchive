@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0358-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fcf152a814fb29fcf1568e.jpg
     url: /files/original/14fb29fcf152a814fb29fcf1568e.jpg
+    alt:
+      en: "Aerial view of a flooded landscape with submerged power lines and poles, a stranded blue vehicle, scattered vegetation, and several people wading through the floodwaters near a tree-lined embankment."
 geo:
 id: 21625
 item_type: Still Image

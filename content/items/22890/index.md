@@ -21,6 +21,8 @@ files:
     original_filename: NO 012majortodd.jpg
     thumb: /files/thumbnails/14fb29f2e6f20714fb29f2e6f5e4.jpg
     url: /files/original/14fb29f2e6f20714fb29f2e6f5e4.jpg
+    alt:
+      en: "Hazy aerial view of a city skyline with high-rise buildings partially obscured by smoke or heavy atmospheric haze, with a curving elevated highway and low-rise urban sprawl in the foreground."
 geo:
 id: 22890
 item_type: Still Image

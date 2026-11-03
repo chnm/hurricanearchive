@@ -26,6 +26,8 @@ files:
     original_filename: aerial1_0fd4c13826.jpg
     thumb: /files/thumbnails/14fb2a710ce7a314fb2a710ceb87.jpg
     url: /files/original/14fb2a710ce7a314fb2a710ceb87.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rows of houses surrounded by dark floodwater, scattered trees, and a raised roadway running diagonally through the scene."
 geo:
   address: ''
   lat: 29.929605

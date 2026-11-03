@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8836.jpg
     thumb: /files/thumbnails/14fb2a6569600f14fb2a65696400.jpg
     url: /files/original/14fb2a6569600f14fb2a65696400.jpg
+    alt:
+      en: "Damaged white house with search-and-rescue markings reading \"1/8,\" an X in a box, \"9-13,\" and \"Possible Body\" spray-painted in blue, surrounded by storm debris and a wrecked blue house."
 geo:
 id: 2549
 item_type: Still Image

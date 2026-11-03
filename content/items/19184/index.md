@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 094.jpg
     thumb: /files/thumbnails/14fb2a1214e01b14fb2a1214e45a.jpg
     url: /files/original/14fb2a1214e01b14fb2a1214e45a.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms stand and converse on a debris-strewn street, with a wrought-iron fence, storm-damaged trees, and houses visible in the background."
 geo:
 id: 19184
 item_type: Still Image

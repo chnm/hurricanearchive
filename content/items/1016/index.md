@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28253.jpg
     thumb: /files/thumbnails/14fb2a6b67459e14fb2a6b6749e9.jpg
     url: /files/original/14fb2a6b67459e14fb2a6b6749e9.jpg
+    alt:
+      en: "Collapsed red tile roof and scattered debris surround a fallen green \"Beach Blvd.\" street sign, with utility poles and power lines against a cloudy sky."
 geo:
   address: ''
   lat: 0.0

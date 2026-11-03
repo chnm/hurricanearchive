@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0292engineers.JPG
     thumb: /files/thumbnails/14fb2a1008fcef14fb2a100900d4.jpg
     url: /files/original/14fb2a1008fcef14fb2a100900d4.jpg
+    alt:
+      en: "Two Caterpillar skid-steer loaders push thick gray mud or silt across a cracked, sediment-covered surface, with a worker in a red hard hat operating the nearer machine and a dark sedan parked in the background."
 geo:
 id: 19435
 item_type: Still Image

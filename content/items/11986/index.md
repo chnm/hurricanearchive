@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 034.jpg
     thumb: /files/thumbnails/14fb2a226e7c3414fb2a226e801a.jpg
     url: /files/original/14fb2a226e7c3414fb2a226e801a.jpg
+    alt:
+      en: "Debris field of splintered lumber and broken household items piled along a roadside, with snapped and stripped pine trees in the background from storm damage."
 geo:
 id: 11986
 item_type: Still Image

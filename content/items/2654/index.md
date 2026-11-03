@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9220.jpg
     thumb: /files/thumbnails/14fb2a62c5352814fb2a62c53916.jpg
     url: /files/original/14fb2a62c5352814fb2a62c53916.jpg
+    alt:
+      en: "A basketball hoop and backboard stand intact against a clear blue sky above a severely damaged school building with a collapsed roof and debris scattered below."
 geo:
 id: 2654
 item_type: Still Image

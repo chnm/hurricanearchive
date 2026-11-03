@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1437superdome.JPG
     thumb: /files/thumbnails/14fb29e3b0244114fb29e3b0287d.jpg
     url: /files/original/14fb29e3b0244114fb29e3b0287d.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands on the hood of a military vehicle in floodwater, speaking on a phone, while men look on and a blue bus sits in the background."
 geo:
 id: 24939
 item_type: Still Image

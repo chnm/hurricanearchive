@@ -21,6 +21,8 @@ files:
     original_filename: train station end.jpg
     thumb: /files/thumbnails/14fb2a202dd3e914fb2a202dd7c3.jpg
     url: /files/original/14fb2a202dd3e914fb2a202dd7c3.jpg
+    alt:
+      en: "Storm-damaged brick train station with sections of its roof torn away exposing wooden rafters, debris scattered across the brick courtyard, and overturned trash bins in heavy fog and rain."
 geo:
 id: 13135
 item_type: Still Image

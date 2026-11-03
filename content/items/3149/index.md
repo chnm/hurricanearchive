@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Uptown (1).JPG
     thumb: /files/thumbnails/14fb2a5db6553e14fb2a5db65656.jpg
     url: /files/original/14fb2a5db6553e14fb2a5db65656.jpg
+    alt:
+      en: "Damaged interior room with a white mantel fireplace, a framed painting above it, torn plastic sheeting draped over furniture, debris on the floor, and a dark wooden armoire in the background."
 geo:
 id: 3149
 item_type: Still Image

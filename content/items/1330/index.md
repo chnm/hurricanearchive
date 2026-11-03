@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28233.jpg
     thumb: /files/thumbnails/14fb2a697c17b214fb2a697c1b97.jpg
     url: /files/original/14fb2a697c17b214fb2a697c1b97.jpg
+    alt:
+      en: "A hand-lettered sign listing \"RADIOS, MICROWAVE, SNACKS, COFFEE\" hangs beside a photo of a tented Wal-Mart structure, both mounted in a dark frame suspended from wires against a tan tent ceiling."
 geo:
   address: ''
   lat: 0.0

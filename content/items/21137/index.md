@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0184-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a006437eb14fb2a006440a3.jpg
     url: /files/original/14fb2a006437eb14fb2a006440a3.jpg
+    alt:
+      en: "Severely damaged homes with collapsed roofs and scattered debris line a flooded street, with a utility pole and parked vehicles visible amid standing water and surrounding trees."
 geo:
 id: 21137
 item_type: Still Image

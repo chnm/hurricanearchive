@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 096.jpg
     thumb: /files/thumbnails/14fb2a1212ca2314fb2a1212ce53.jpg
     url: /files/original/14fb2a1212ca2314fb2a1212ce53.jpg
+    alt:
+      en: "Weathered wooden privacy fence stands in front of a multi-unit gray siding building with barred windows and doors; bare ground with scattered leaves and debris lies in the foreground."
 geo:
 id: 19186
 item_type: Still Image

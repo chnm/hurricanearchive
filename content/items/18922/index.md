@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0272downtownnola.JPG
     thumb: /files/thumbnails/14fb2a142cea1c14fb2a142cf2b6.jpg
     url: /files/original/14fb2a142cea1c14fb2a142cf2b6.jpg
+    alt:
+      en: "Aerial view of a rail yard and trucking facility with multiple freight train cars, semi-trailers marked CSX, and parked trucks and equipment arranged along tracks and a paved lot."
 geo:
 id: 18922
 item_type: Still Image

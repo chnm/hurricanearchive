@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TylerColeman_02_71d8d9010c.jpg
     thumb: /files/thumbnails/14fb2a164a697214fb2a164a6e15.jpg
     url: /files/original/14fb2a164a697214fb2a164a6e15.jpg
+    alt:
+      en: "Children peer smiling through the front window of a streetcar numbered 944, marked \"CAR HOUSE SPECIAL,\" with a colorful mural visible behind them inside the car."
 geo:
 id: 15454
 item_type: Still Image

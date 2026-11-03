@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0077grandisle.JPG
     thumb: /files/thumbnails/14fb2a14de990714fb2a14de9ccf.jpg
     url: /files/original/14fb2a14de990714fb2a14de9ccf.jpg
+    alt:
+      en: "Aerial view of a two-lane road running through a cleared, debris-strewn landscape, with scattered wreckage, downed trees, and patches of surviving greenery lining both sides."
 geo:
 id: 18860
 item_type: Still Image

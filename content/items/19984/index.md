@@ -21,6 +21,8 @@ files:
     original_filename: Picture 081cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bd45e8314fb2a0bd46251.jpg
     url: /files/original/14fb2a0bd45e8314fb2a0bd46251.jpg
+    alt:
+      en: "A white sedan parked along a flooded roadside lined with trees, with standing water and debris-covered dry grass in the foreground."
 geo:
 id: 19984
 item_type: Still Image

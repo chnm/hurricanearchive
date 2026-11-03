@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2135rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13ea4a7b14fb2a13ea4efd.jpg
     url: /files/original/14fb2a13ea4a7b14fb2a13ea4efd.jpg
+    alt:
+      en: "Aerial view of flooded apartment buildings with a military helicopter and rescue workers on rooftops; \"HELP 12 PEOPLE\" is painted on one roof in white letters."
 geo:
 id: 18973
 item_type: Still Image

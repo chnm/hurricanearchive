@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002superdome.JPG
     thumb: /files/thumbnails/14fb29e44822da14fb29e44826c9.jpg
     url: /files/original/14fb29e44822da14fb29e44826c9.jpg
+    alt:
+      en: "Group of military personnel seated around a table with water bottles, radios, and paperwork, planning before a large wall map marked with storm surge heights and flood zone annotations."
 geo:
 id: 24868
 item_type: Still Image

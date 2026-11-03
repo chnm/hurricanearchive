@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0081H.JPG
     thumb: /files/thumbnails/14fb2a03b61a2c14fb2a03b61d1b.jpg
     url: /files/original/14fb2a03b61a2c14fb2a03b61d1b.jpg
+    alt:
+      en: "A man in U.S. Army camouflage fatigues with \"I ❤ Hooters\" buttons talks with a woman wearing a white \"Hooters Geaux Tigers\" tank top at a wooden bar counter."
 geo:
 id: 20802
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Refrig. Free Food.jpg
     thumb: /files/thumbnails/14fb2a2160658014fb2a21606981.jpg
     url: /files/original/14fb2a2160658014fb2a21606981.jpg
+    alt:
+      en: "An old refrigerator stands outdoors with \"Free Food\" spray-painted in red on its door, set against a blurred outdoor background."
 geo:
 id: 12865
 item_type: Still Image

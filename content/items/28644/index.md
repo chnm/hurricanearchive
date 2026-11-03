@@ -25,6 +25,8 @@ files:
     original_filename: 158724164_5f5cfcdbc8.jpg
     thumb: /files/thumbnails/14fb29d1f2fe1d14fb29d1f3043f.jpg
     url: /files/original/14fb29d1f2fe1d14fb29d1f3043f.jpg
+    alt:
+      en: "Stacked pallets of canned goods arranged in a pyramid shape, surrounded by scattered loose cans, debris, and a large trash bin, with a damaged brick building and collapsed structures in the background."
 geo:
 id: 28644
 item_type: Still Image

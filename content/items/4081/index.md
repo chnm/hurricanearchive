@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0979.JPG
     thumb: /files/thumbnails/14fb2a5802157114fb2a58021954.jpg
     url: /files/original/14fb2a5802157114fb2a58021954.jpg
+    alt:
+      en: "A high-rise glass office building with extensive storm damage, showing several shattered window sections exposing bare concrete floors and structural supports, debris scattered on the ground below."
 geo:
 id: 4081
 item_type: Still Image

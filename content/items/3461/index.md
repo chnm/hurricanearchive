@@ -24,6 +24,8 @@ files:
     original_filename: P1010029.JPG
     thumb: /files/thumbnails/14fb2a5b9e7e3c14fb2a5b9e8227.jpg
     url: /files/original/14fb2a5b9e7e3c14fb2a5b9e8227.jpg
+    alt:
+      en: "A debris-cleared residential street lined with large mounds of dried mud and storm debris piled along the curbs, with houses, trees, and a few parked vehicles visible in the background."
 geo:
 id: 3461
 item_type: Still Image

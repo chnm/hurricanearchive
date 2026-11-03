@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7657.JPG
     thumb: /files/thumbnails/14fb29cc873da914fb29cc87424a.jpg
     url: /files/original/14fb29cc873da914fb29cc87424a.jpg
+    alt:
+      en: "Single-story house with a blue tarp partially covering its damaged roof, surrounded by fallen trees and scattered storm debris, viewed through tangled broken branches."
 geo:
 id: 30776
 item_type: Still Image

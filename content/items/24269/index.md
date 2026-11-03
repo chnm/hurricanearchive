@@ -21,6 +21,8 @@ files:
     original_filename: 20050926007.JPG
     thumb: /files/thumbnails/14fb29e924d3e714fb29e924d7cc.jpg
     url: /files/original/14fb29e924d3e714fb29e924d7cc.jpg
+    alt:
+      en: "A line of utility and emergency vehicles, including an Altec bucket truck, military Humvee, fire truck, and pickup trucks, queued on a roadway with a tractor-trailer passing alongside."
 geo:
 id: 24269
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0107-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e7356c6d14fb29e73570b5.jpg
     url: /files/original/14fb29e7356c6d14fb29e73570b5.jpg
+    alt:
+      en: "Aerial view of a flooded landscape with submerged buildings, a tipped school bus, a large tank, and debris scattered among dead trees and brush."
 geo:
 id: 24508
 item_type: Still Image

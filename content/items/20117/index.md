@@ -21,6 +21,8 @@ files:
     original_filename: Picture 214cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b36542814fb2a0b365804.jpg
     url: /files/original/14fb2a0b36542814fb2a0b365804.jpg
+    alt:
+      en: "A residential street with a single-story house partially obscured by large trees, one of which has fallen and lies across the yard; trucks are parked along the curb under a clear blue sky."
 geo:
 id: 20117
 item_type: Still Image

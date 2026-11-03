@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012H.JPG
     thumb: /files/thumbnails/14fb2a07aef82d14fb2a07aefdad.jpg
     url: /files/original/14fb2a07aef82d14fb2a07aefdad.jpg
+    alt:
+      en: "Two women in matching orange and white uniforms play air hockey while a young man in an \"Oklahoma State\" t-shirt looks down at a handheld device beside the table."
 geo:
 id: 20418
 item_type: Still Image

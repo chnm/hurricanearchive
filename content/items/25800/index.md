@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-5786_bcd3211195.jpg
     thumb: /files/thumbnails/14fb29dc2c900114fb29dc2c93e6.jpg
     url: /files/original/14fb29dc2c900114fb29dc2c93e6.jpg
+    alt:
+      en: "White Creole-style cottage with a dormered roof and wraparound porch sits behind a bed of yellow daylilies, with a blue bell stand labeled \"Isleños\" in the foreground."
 geo:
 id: 25800
 item_type: Still Image

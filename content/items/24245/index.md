@@ -21,6 +21,8 @@ files:
     original_filename: 09140026.JPG
     thumb: /files/thumbnails/14fb29e973ae6d14fb29e973b24a.jpg
     url: /files/original/14fb29e973ae6d14fb29e973b24a.jpg
+    alt:
+      en: "A leaning, leafless tree beside a sidewalk on a brick building complex, with a military truck, utility poles with tangled wires, and a camouflage canopy visible in the background."
 geo:
 id: 24245
 item_type: Still Image

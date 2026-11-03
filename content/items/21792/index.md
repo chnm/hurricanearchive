@@ -21,6 +21,8 @@ files:
     original_filename: katrina 062.jpg
     thumb: /files/thumbnails/14fb29fbbb298814fb29fbbb2d6e.jpg
     url: /files/original/14fb29fbbb298814fb29fbbb2d6e.jpg
+    alt:
+      en: "Nighttime photo of a man in military camouflage uniform and cap seated in a helicopter cockpit, surrounded by instrument panels and wiring; a timestamp reads \"5 9:52 PM\" in the corner."
 geo:
 id: 21792
 item_type: Still Image

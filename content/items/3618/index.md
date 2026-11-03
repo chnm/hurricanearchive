@@ -24,6 +24,8 @@ files:
     original_filename: P1010052.JPG
     thumb: /files/thumbnails/14fb2a5a9cc22e14fb2a5a9cc613.jpg
     url: /files/original/14fb2a5a9cc22e14fb2a5a9cc613.jpg
+    alt:
+      en: "Gutted classroom interior with exposed ceiling grid and ductwork, blue and white tiled walls, a stained tile floor, and a bulletin board with photos propped against an open doorway."
 geo:
 id: 3618
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2067superdome.JPG
     thumb: /files/thumbnails/14fb29e52d78be14fb29e52d7db3.jpg
     url: /files/original/14fb29e52d78be14fb29e52d7db3.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms sit on folding chairs on artificial turf, with a large screen displaying a football player in the background and other people visible in the dim interior."
 geo:
 id: 24747
 item_type: Still Image

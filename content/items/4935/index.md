@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0277.JPG
     thumb: /files/thumbnails/14fb2a54e3a59814fb2a54e3a975.jpg
     url: /files/original/14fb2a54e3a59814fb2a54e3a975.jpg
+    alt:
+      en: "White-framed multi-pane window with visible cracks in the upper panes, reflecting a residential street with houses, a camper trailer, and a person taking the photo."
 geo:
 id: 4935
 item_type: Still Image

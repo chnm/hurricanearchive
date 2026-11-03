@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1135Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f763aacf14fb29f763aee0.jpg
     url: /files/original/14fb29f763aacf14fb29f763aee0.jpg
+    alt:
+      en: "Floodwaters submerge multiple vehicles up to their rooflines in a parking area lined with trees, with buildings visible in the misty background."
 geo:
 id: 22322
 item_type: Still Image

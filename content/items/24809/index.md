@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2131superdome.JPG
     thumb: /files/thumbnails/14fb29e49eec2314fb29e49ef00f.jpg
     url: /files/original/14fb29e49eec2314fb29e49ef00f.jpg
+    alt:
+      en: "Flooded parking garage with military trucks and a small boat ferrying evacuees, soldiers wading through water, and a dog sitting in a plastic bin in the foreground."
 geo:
 id: 24809
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010132empireS&R.JPG
     thumb: /files/thumbnails/14fb29edd9f98914fb29edd9fd70.jpg
     url: /files/original/14fb29edd9f98914fb29edd9fd70.jpg
+    alt:
+      en: "Storm-damaged houses with torn roofing and debris sit amid dead, browned vegetation and a wooden utility pole, with downed power lines overhead."
 geo:
 id: 23691
 item_type: Still Image

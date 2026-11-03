@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 128cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e20b16114fb2a0e20bc41.jpg
     url: /files/original/14fb2a0e20b16114fb2a0e20bc41.jpg
+    alt:
+      en: "Military cargo truck marked \"225GP 769 EN B 35\" carries soldiers and civilians under a canvas canopy through a parking area, with bare trees and an \"EXIT\" gate sign in the background."
 geo:
 id: 19741
 item_type: Still Image

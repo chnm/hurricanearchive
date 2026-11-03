@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0436.JPG
     thumb: /files/thumbnails/14fb2a53f3f86814fb2a53f3fc63.jpg
     url: /files/original/14fb2a53f3f86814fb2a53f3fc63.jpg
+    alt:
+      en: "Debris of a collapsed metal staircase structure lies twisted on a sandy, cleared lot, with heavy equipment and scattered wreckage visible in the background."
 geo:
 id: 5091
 item_type: Still Image

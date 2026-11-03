@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0190abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eec25ae914fb29eec25faf.jpg
     url: /files/original/14fb29eec25ae914fb29eec25faf.jpg
+    alt:
+      en: "Interior of a storm-damaged room seen through a shattered window, with an overturned dryer, water-stained cabinets, rusted furniture, and peeling walls."
 geo:
 id: 23568
 item_type: Still Image

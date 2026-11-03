@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 27.jpg
     thumb: /files/thumbnails/14fb29f08e5e3d14fb29f08e621d.jpg
     url: /files/original/14fb29f08e5e3d14fb29f08e621d.jpg
+    alt:
+      en: "Satellite view of a large, well-defined hurricane with a visible eye over the Gulf of Mexico, approaching the coastline; NOAA logo appears in the upper right corner."
 geo:
 id: 23235
 item_type: Still Image

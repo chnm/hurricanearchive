@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0761.JPG
     thumb: /files/thumbnails/14fb2a57017c9414fb2a57018068.jpg
     url: /files/original/14fb2a57017c9414fb2a57018068.jpg
+    alt:
+      en: "Debris field with debarked trees and splintered wood framing, strips of insulation and fabric caught high in branches, and scattered trash on the ground near a roadside."
 geo:
 id: 4559
 item_type: Still Image

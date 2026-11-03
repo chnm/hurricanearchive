@@ -21,6 +21,8 @@ files:
     original_filename: 20050927010.JPG
     thumb: /files/thumbnails/14fb2a1c6376f414fb2a1c63e1e7.jpg
     url: /files/original/14fb2a1c6376f414fb2a1c63e1e7.jpg
+    alt:
+      en: "A soldier in desert camouflage uniform, with \"HERNDON\" and \"U.S. ARMY\" name tapes, holds a phone to his ear while seated at a table with a white cup nearby."
 geo:
   address: ''
   lat: 0.0

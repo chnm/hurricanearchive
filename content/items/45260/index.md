@@ -22,6 +22,8 @@ files:
     original_filename: img005_14d4d84cee.jpg
     thumb: /files/thumbnails/14fb29c1cc566f14fb29c1cc5aa0.jpg
     url: /files/original/14fb29c1cc566f14fb29c1cc5aa0.jpg
+    alt:
+      en: "Interior of a storm-damaged room with collapsed ceiling, exposed pink and yellow insulation, charred debris, and a mini-blind hanging in a window; wall reads \"I want to sleep.\""
 geo:
 id: 45260
 item_type: Still Image

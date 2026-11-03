@@ -21,6 +21,8 @@ files:
     original_filename: slide3.jpg
     thumb: /files/thumbnails/14fb2a1937495614fb2a19374d23.jpg
     url: /files/original/14fb2a1937495614fb2a19374d23.jpg
+    alt:
+      en: "Grassy highway embankment with two utility poles, a partial overpass in the background, and text overlay reading \"High water mark, I-10 & Hwy 603, 8 miles from the coast.\""
 geo:
 id: 14410
 item_type: Still Image

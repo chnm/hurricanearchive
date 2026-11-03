@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0152.JPG
     thumb: /files/thumbnails/14fb2a5538f7dc14fb2a5538fee9.jpg
     url: /files/original/14fb2a5538f7dc14fb2a5538fee9.jpg
+    alt:
+      en: "Fallen and broken pine trees lean against surrounding trees above dense green shrubs, with a wooden structure partially visible at the lower left, set against a clear blue sky."
 geo:
 id: 4837
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2243engineers.JPG
     thumb: /files/thumbnails/14fb2a10a2263014fb2a10a22a15.jpg
     url: /files/original/14fb2a10a2263014fb2a10a22a15.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms and caps stand in profile outdoors, one wearing sunglasses, with additional uniformed personnel and storm-damaged buildings visible in the background."
 geo:
 id: 19382
 item_type: Still Image

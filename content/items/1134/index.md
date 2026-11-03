@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28054.jpg
     thumb: /files/thumbnails/14fb2a6ada635914fb2a6ada6736.jpg
     url: /files/original/14fb2a6ada635914fb2a6ada6736.jpg
+    alt:
+      en: "A large crawler crane with an extended lattice boom stands on a dirt lot near stacked rust-colored barrier blocks, with a worker in white standing nearby watching the equipment."
 geo:
   address: ''
   lat: 0.0

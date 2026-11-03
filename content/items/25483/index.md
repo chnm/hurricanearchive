@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6159_b934dfd02e.jpg
     thumb: /files/thumbnails/14fb29dd91fb2c14fb29dd91ff05.jpg
     url: /files/original/14fb29dd91fb2c14fb29dd91ff05.jpg
+    alt:
+      en: "Water-damaged studio portrait of two young children with dark hair and large eyes, wearing light-colored outfits, their faces obscured by streaks of peeling emulsion and mold."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

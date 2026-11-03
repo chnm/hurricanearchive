@@ -21,6 +21,8 @@ files:
     original_filename: FH000006-9-23.jpg
     thumb: /files/thumbnails/14fb29fcb6d46814fb29fcb6d84d.jpg
     url: /files/original/14fb29fcb6d46814fb29fcb6d84d.jpg
+    alt:
+      en: "Heavy military trucks and a tilted storage container sit behind a chain-link fence in a debris-strewn lot, with a building marked \"FMS #13\" in the background under a hazy sky."
 geo:
 id: 21667
 item_type: Still Image

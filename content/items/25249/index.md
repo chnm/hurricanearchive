@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1947superdome.JPG
     thumb: /files/thumbnails/14fb29e046c11614fb29e046c4fc.jpg
     url: /files/original/14fb29e046c11614fb29e046c4fc.jpg
+    alt:
+      en: "A large military helicopter sits on a rooftop helipad with several uniformed personnel nearby, while a second helicopter flies overhead in a gray, overcast sky above city buildings and a highway overpass."
 geo:
 id: 25249
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010036.JPG
     thumb: /files/thumbnails/14fb2a57534c9b14fb2a57535081.jpg
     url: /files/original/14fb2a57534c9b14fb2a57535081.jpg
+    alt:
+      en: "Aerial view of a devastated rural landscape with barren, debris-strewn ground, stripped and broken trees, scattered foundations where structures once stood, and emergency vehicles lined up along a road."
 geo:
 id: 4165
 item_type: Still Image

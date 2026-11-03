@@ -21,6 +21,8 @@ files:
     original_filename: 100_0093.JPG
     thumb: /files/thumbnails/14fb2a5971fac214fb2a5971fea0.jpg
     url: /files/original/14fb2a5971fac214fb2a5971fea0.jpg
+    alt:
+      en: "View through a vehicle's windshield of a white travel trailer labeled \"Explorer\" hitched to a pickup truck, with a military Chinook helicopter parked nearby on a coastal roadway under a clear sky."
 geo:
 id: 3809
 item_type: Still Image

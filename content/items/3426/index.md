@@ -24,6 +24,8 @@ files:
     original_filename: 0007.JPG
     thumb: /files/thumbnails/14fb2a5c00bc6014fb2a5c00c230.jpg
     url: /files/original/14fb2a5c00bc6014fb2a5c00c230.jpg
+    alt:
+      en: "Dusk view of a debris-strewn residential street with scattered vehicles, piles of rubble, and a white FEMA trailer parked among houses, framed by tangled overhead power lines."
 geo:
 id: 3426
 item_type: Still Image

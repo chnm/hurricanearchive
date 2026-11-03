@@ -21,6 +21,8 @@ files:
     original_filename: bulldozer on street.JPG
     thumb: /files/thumbnails/14fb2a1a99040314fb2a1a9907e9.jpg
     url: /files/original/14fb2a1a99040314fb2a1a9907e9.jpg
+    alt:
+      en: "A bulldozer clears a debris-strewn street lined with damaged trees, leaning utility poles, and a wrecked van amid storm wreckage."
 geo:
   address: ''
   lat: 0.0

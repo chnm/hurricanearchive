@@ -21,6 +21,8 @@ files:
     original_filename: MVC-027S.JPG
     thumb: /files/thumbnails/14fb2a5fe6fb9e14fb2a5fe70015.jpg
     url: /files/original/14fb2a5fe6fb9e14fb2a5fe70015.jpg
+    alt:
+      en: "A military patrol boat with mounted machine guns and antennas sits on a trailer inside a damaged warehouse, with an American flag displayed on its bow and a partial vehicle visible in the foreground."
 geo:
 id: 2836
 item_type: Still Image

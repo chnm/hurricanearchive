@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029media.JPG
     thumb: /files/thumbnails/14fb29f2aae57614fb29f2aae95c.jpg
     url: /files/original/14fb29f2aae57614fb29f2aae95c.jpg
+    alt:
+      en: "Interior of an aircraft with two people wearing green aviation headsets with boom microphones; a man in the foreground holds a radio handset near a bank of antenna-equipped communication devices."
 geo:
 id: 22927
 item_type: Still Image

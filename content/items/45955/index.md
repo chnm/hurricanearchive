@@ -20,6 +20,8 @@ files:
     original_filename: HPIM1525.JPG
     thumb: /files/thumbnails/df86471fddb7071b1548260967d6b25b.jpg
     url: /files/original/df86471fddb7071b1548260967d6b25b.JPG
+    alt:
+      en: "A nighttime yard scene with a man and two girls playing with purple and green pool noodles near a white picket fence; image dated 08/27/2012."
 geo:
 id: 45955
 item_type: Still Image

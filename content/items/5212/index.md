@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0657.JPG
     thumb: /files/thumbnails/14fb2a5361376314fb2a53613b48.jpg
     url: /files/original/14fb2a5361376314fb2a53613b48.jpg
+    alt:
+      en: "Concrete block foundation spray-painted \"IF ABLE\" stands amid storm debris, splintered wood, and a surviving staircase, with pine trees in the background."
 geo:
 id: 5212
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ending look north.jpg
     thumb: /files/thumbnails/14fb2a205b21f914fb2a205b25de.jpg
     url: /files/original/14fb2a205b21f914fb2a205b25de.jpg
+    alt:
+      en: "Heavy rain and dense fog obscure a cityscape viewed from a rooftop, with flat roofs, utility poles, and a light-colored building visible in the foreground amid storm conditions."
 geo:
 id: 13109
 item_type: Still Image

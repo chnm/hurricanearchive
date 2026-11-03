@@ -24,6 +24,8 @@ files:
     original_filename: MaryXmas03 (19) (2)_04bb52f8cf.jpg
     thumb: /files/thumbnails/14fb29ca6171c514fb29ca6175ab.jpg
     url: /files/original/14fb29ca6171c514fb29ca6175ab.jpg
+    alt:
+      en: "Rita Kane and Daniel Kane smile for a photo in a kitchen, with a lace-curtained window and potted plants in the background, Christmas 2002."
 geo:
   address: ''
   lat: 0.0

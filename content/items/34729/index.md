@@ -20,6 +20,8 @@ files:
     original_filename: 2420898025_ae33ee28b5.
     thumb: /files/thumbnails/14fb29c92575db14fb29c9257bfc.jpg
     url: /files/original/14fb29c92575db14fb29c9257bfc.jpg
+    alt:
+      en: "Interior hallway with stained, water-damaged walls showing a discolored boundary line, a wooden door with a small vent, and an illuminated \"EXIT\" sign mounted above the doorway."
 geo:
   address: ''
   lat: 29.97632

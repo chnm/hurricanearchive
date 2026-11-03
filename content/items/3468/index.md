@@ -24,6 +24,8 @@ files:
     original_filename: P1010037.JPG
     thumb: /files/thumbnails/14fb2a5b98bdf714fb2a5b98c1d3.jpg
     url: /files/original/14fb2a5b98bdf714fb2a5b98c1d3.jpg
+    alt:
+      en: "A handwritten cardboard sign propped on the ground reads \"House Gutting Service 504.913.5126 Insured,\" with vehicles, concrete steps, and debris visible in the background."
 geo:
 id: 3468
 item_type: Still Image

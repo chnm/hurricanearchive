@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0127cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef4243df14fb29ef4247c6.jpg
     url: /files/original/14fb29ef4243df14fb29ef4247c6.jpg
+    alt:
+      en: "A man wearing a military uniform and headset sits aboard an aircraft, looking out over a forested landscape stretching to the horizon below."
 geo:
 id: 23481
 item_type: Still Image

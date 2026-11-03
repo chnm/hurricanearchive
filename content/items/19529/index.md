@@ -21,6 +21,8 @@ files:
     original_filename: Picture 089engineers.jpg
     thumb: /files/thumbnails/14fb2a0f85e80914fb2a0f85ec67.jpg
     url: /files/original/14fb2a0f85e80914fb2a0f85ec67.jpg
+    alt:
+      en: "Aerial view of downtown New Orleans flooded after Hurricane Katrina, with an interstate highway running through standing floodwater surrounding buildings; timestamp reads 09.05.2005 17:35."
 geo:
 id: 19529
 item_type: Still Image

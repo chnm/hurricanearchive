@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28544.jpg
     thumb: /files/thumbnails/14fb2a6753265414fb2a67532a39.jpg
     url: /files/original/14fb2a6753265414fb2a67532a39.jpg
+    alt:
+      en: "Large yellow flexible ventilation ducts run from portable trailer-mounted units up the side of a multi-story building, with a street lamp and American flag visible nearby."
 geo:
   address: ''
   lat: 0.0

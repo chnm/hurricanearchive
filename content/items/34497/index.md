@@ -27,6 +27,8 @@ files:
     original_filename: 2309934661_73dc5c8d13.
     thumb: /files/thumbnails/14fb29c9acf96314fb29c9acfd3b.jpg
     url: /files/original/14fb29c9acf96314fb29c9acfd3b.jpg
+    alt:
+      en: "Eddie Lewis walks along a path of boards amid storm debris covering a neighborhood, with damaged houses on stilts and a yellow \"Slow\" sign visible nearby."
 geo:
   address: ''
   lat: 30.22539

@@ -26,6 +26,8 @@ files:
     original_filename: SabinePassHomeStormSurge2_e2ad5bc84a.jpg
     thumb: /files/thumbnails/14fb2a6f006a5614fb2a6f006e43.jpg
     url: /files/original/14fb2a6f006a5614fb2a6f006e43.jpg
+    alt:
+      en: "A white dryer with its door open sits amid storm debris on a grassy lot, surrounded by scattered rubble and the collapsed remains of a house."
 geo:
   address: ''
   lat: 30.148461

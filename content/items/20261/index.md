@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC00062.jpg
     thumb: /files/thumbnails/14fb2a0a48b93014fb2a0a48baf0.jpg
     url: /files/original/14fb2a0a48b93014fb2a0a48baf0.jpg
+    alt:
+      en: "Military personnel in camouflage unload supplies from an olive-green canvas-covered truck in a parking lot, with a dark pickup truck in the foreground and a storefront reading \"Warehouse\" in the background."
 geo:
 id: 20261
 item_type: Still Image

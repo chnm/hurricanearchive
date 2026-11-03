@@ -26,6 +26,8 @@ files:
     original_filename: 100_1524_6e55184c54.JPG
     thumb: /files/thumbnails/14fb2a6d487cdd14fb2a6d488089.jpg
     url: /files/original/14fb2a6d487cdd14fb2a6d488089.jpg
+    alt:
+      en: "Two-story cream-colored house with its roof torn off, exposing splintered wood framing and debris, broken windows, and a damaged balcony railing, with a neighboring yellow house beside it."
 geo:
   address: ''
   lat: 30.4451219401091

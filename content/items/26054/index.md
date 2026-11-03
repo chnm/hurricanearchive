@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6978_f23acf2615.jpg
     thumb: /files/thumbnails/14fb29db81ae0114fb29db81cc1b.jpg
     url: /files/original/14fb29db81ae0114fb29db81cc1b.jpg
+    alt:
+      en: "Sepia-toned studio portrait of two children in First Communion attire, a girl in a white dress and veil holding an umbrella and a boy in a white suit holding a hat, mounted on a brown cardboard frame with the \"Rex Studio, New Orleans, LA\" stamp below."
 geo:
   address: ''
   lat: 29.95493

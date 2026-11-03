@@ -23,6 +23,8 @@ files:
     original_filename: 2326892330_5a819f4d9d.
     thumb: /files/thumbnails/14fb29c9fb0ce714fb29c9fb10cd.jpg
     url: /files/original/14fb29c9fb0ce714fb29c9fb10cd.jpg
+    alt:
+      en: "Flooded dirt road along the Pearl River blocked by fallen trees and debris, with dense woods on both sides and the hood of a vehicle visible in the foreground."
 geo:
   address: ''
   lat: 30.23397

@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0371_22e5791ab0.JPG
     thumb: /files/thumbnails/14fb2a7019779014fb2a70197b86.jpg
     url: /files/original/14fb2a7019779014fb2a70197b86.jpg
+    alt:
+      en: "Two white statues, one of Jesus and one of Mary, stand upright beneath a large, storm-damaged tree surrounded by fallen branches, debris, and a blue tarp."
 geo:
   address: ''
   lat: 30.297017883372

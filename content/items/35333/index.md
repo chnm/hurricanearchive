@@ -21,6 +21,8 @@ files:
     original_filename: 74_049ecb1ab3.jpg
     thumb: /files/thumbnails/14fb29c643812c14fb29c645223c.jpg
     url: /files/original/14fb29c643812c14fb29c645223c.jpg
+    alt:
+      en: "A woman in a red outfit and fur-trimmed jacket reclines playfully atop stacked mesh bags of onions labeled \"Onions,\" while a man in a hard hat stands among more onion bags in a warehouse."
 geo:
   address: 400 Marigny St New Orleans
   lat: 29.96189

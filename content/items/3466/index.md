@@ -24,6 +24,8 @@ files:
     original_filename: P1010036.JPG
     thumb: /files/thumbnails/14fb2a5b9a214f14fb2a5b9a2535.jpg
     url: /files/original/14fb2a5b9a214f14fb2a5b9a2535.jpg
+    alt:
+      en: "A large uprooted tree lies across the roof of a brick house, with two dust-covered, debris-strewn vehicles parked in the yard amid scattered branches and dried mud."
 geo:
 id: 3466
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0045-9-25.JPG
     thumb: /files/thumbnails/14fb2a0596d89114fb2a0596dc76.jpg
     url: /files/original/14fb2a0596d89114fb2a0596dc76.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with damaged metal-roofed buildings, scattered debris, and a small truck surrounded by standing floodwater and submerged vegetation."
 geo:
 id: 20625
 item_type: Still Image

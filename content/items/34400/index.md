@@ -23,6 +23,8 @@ files:
     original_filename: 2380072595_6e0d20a37f.
     thumb: /files/thumbnails/14fb29ca3e5cae14fb29ca3e60a2.jpg
     url: /files/original/14fb29ca3e5cae14fb29ca3e60a2.jpg
+    alt:
+      en: "A backyard scene with a fallen wooden fence and scattered boards near a tree, with a canal and dock visible in the background amid overgrown shrubs."
 geo:
   address: ''
   lat: 30.22894

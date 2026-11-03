@@ -23,6 +23,8 @@ files:
     original_filename: 2421713914_d15d0f5187.
     thumb: /files/thumbnails/14fb29c922ebff14fb29c922efcd.jpg
     url: /files/original/14fb29c922ebff14fb29c922efcd.jpg
+    alt:
+      en: "A weathered sign reading \"Lakeview Presbyterian Church, Church School - 9:15 AM, Morning Worship - 10:30 AM\" hangs on an ornate iron gate in front of a brick church building."
 geo:
   address: ''
   lat: 29.99774

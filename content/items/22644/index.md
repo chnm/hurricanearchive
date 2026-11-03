@@ -21,6 +21,8 @@ files:
     original_filename: More Jackson Barracks 3Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4e2aa1714fb29f4e2adfd.jpg
     url: /files/original/14fb29f4e2aa1714fb29f4e2adfd.jpg
+    alt:
+      en: "Floodwater submerges a residential street, covering vehicles and yards up to rooftops of nearby homes, with power lines, trees, and a partially visible trailer rising above the water."
 geo:
 id: 22644
 item_type: Still Image

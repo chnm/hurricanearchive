@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0224-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff8d2bc814fb29ff8d2fa6.jpg
     url: /files/original/14fb29ff8d2bc814fb29ff8d2fa6.jpg
+    alt:
+      en: "Aerial view of extensive flooding covering farmland, with a submerged house, barn, and scattered trees rising from the floodwaters; a strip of unflooded green field remains in the lower left corner."
 geo:
 id: 21310
 item_type: Still Image

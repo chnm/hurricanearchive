@@ -21,6 +21,8 @@ files:
     original_filename: DSC01088.JPG
     thumb: /files/thumbnails/14fb2a5894e0e914fb2a5894e4cf.jpg
     url: /files/original/14fb2a5894e0e914fb2a5894e4cf.jpg
+    alt:
+      en: "A pink and purple toy Power Wheels Jeep floats partially submerged in floodwater, with downed trees, debris, and a house roof visible in the background; timestamp reads \"5 11:34 AM.\""
 geo:
 id: 3996
 item_type: Still Image

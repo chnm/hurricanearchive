@@ -26,6 +26,8 @@ files:
     original_filename: MCA_60709fea24.jpg
     thumb: /files/thumbnails/14fb2a70b74c9314fb2a70b75082.jpg
     url: /files/original/14fb2a70b74c9314fb2a70b75082.jpg
+    alt:
+      en: "Floodwaters surround Mount Carmel Academy, submerging trees and reflecting the brick building, with a partially submerged sign reading \"BIG CITY\" floating in the water."
 geo:
   address: ''
   lat: 29.9138764383176

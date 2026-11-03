@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0276-16.JPG
     thumb: /files/thumbnails/14fb29fe34120b14fb29fe3415ee.jpg
     url: /files/original/14fb29fe34120b14fb29fe3415ee.jpg
+    alt:
+      en: "A debris-covered residential street at dusk, coated in dried mud or ash, with tire tracks running through it, parked cars along the curb, bare trees, and a backhoe working in the distance."
 geo:
 id: 21492
 item_type: Still Image

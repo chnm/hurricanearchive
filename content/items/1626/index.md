@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28262.jpg
     thumb: /files/thumbnails/14fb2a675b19fa14fb2a675b1cdc.jpg
     url: /files/original/14fb2a675b19fa14fb2a675b1cdc.jpg
+    alt:
+      en: "Fallen brown sign reading \"George E. Ohr Arts and Cultural Center\" lies on debris-strewn ground near a chain-link fence, with a tall building and trailer marked \"...lfport, MS 8-863-3232\" in the background."
 geo:
   address: ''
   lat: 0.0

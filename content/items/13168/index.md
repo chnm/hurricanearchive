@@ -21,6 +21,8 @@ files:
     original_filename: 160 bricks.jpg
     thumb: /files/thumbnails/14fb2a1fab721214fb2a1fab75f7.jpg
     url: /files/original/14fb2a1fab721214fb2a1fab75f7.jpg
+    alt:
+      en: "Large pile of broken red bricks and debris in front of a damaged building with a white door and peeling paint, with murky floodwater pooling in the foreground."
 geo:
 id: 13168
 item_type: Still Image

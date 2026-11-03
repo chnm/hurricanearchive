@@ -24,6 +24,8 @@ files:
     original_filename: P1010088.JPG
     thumb: /files/thumbnails/14fb2a5b379a4314fb2a5b379f34.jpg
     url: /files/original/14fb2a5b379a4314fb2a5b379f34.jpg
+    alt:
+      en: "A two-story raised white house with a screened porch sits at the corner of Clover and Lotus streets, flanked by tall palm trees and oak trees, with a chain-link fence and masonry gateposts in front."
 geo:
 id: 3514
 item_type: Still Image

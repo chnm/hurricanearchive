@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BV4_7d5efb7661.jpg
     thumb: /files/thumbnails/14fb2a66bbf5f814fb2a66bc022c.jpg
     url: /files/original/14fb2a66bbf5f814fb2a66bc022c.jpg
+    alt:
+      en: "Aerial view of a flooded New Orleans neighborhood with submerged streets and tree canopies, an interrupted elevated highway interchange, and dark smoke rising near the horizon."
 geo:
 id: 2394
 item_type: Still Image

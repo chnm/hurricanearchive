@@ -20,6 +20,8 @@ files:
     original_filename: scan0001_07a81b8131.jpg
     thumb: /files/thumbnails/14fb29c4c1bb5b14fb29c4c1bf3b.jpg
     url: /files/original/14fb29c4c1bb5b14fb29c4c1bf3b.jpg
+    alt:
+      en: "Open refrigerator with spoiled, moldy food on shelves, including a dark liquid-filled glass and jug, next to a white kitchen cabinet."
 geo:
   address: 2629 Buccaneer Dr. Marrero
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 354-J2.jpg
     thumb: /files/thumbnails/14fb29fa08a95b14fb29fa08ad28.jpg
     url: /files/original/14fb29fa08a95b14fb29fa08ad28.jpg
+    alt:
+      en: "A person in camouflage clothing uses a chainsaw to cut through a large fallen tree amid a dense pile of debris and dried branches."
 geo:
 id: 22023
 item_type: Still Image

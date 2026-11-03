@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0599.JPG
     thumb: /files/thumbnails/14fb29d04d43b414fb29d04d4796.jpg
     url: /files/original/14fb29d04d43b414fb29d04d4796.jpg
+    alt:
+      en: "A military Humvee with headlights on, marked \"23\" and \"TP 20,\" parked on a street at night near illuminated buildings, trees, and an American flag."
 geo:
 id: 29068
 item_type: Still Image

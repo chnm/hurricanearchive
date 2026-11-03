@@ -21,6 +21,8 @@ files:
     original_filename: COL Patricia Prechter.JPG
     thumb: /files/thumbnails/14fb2a1bce4ce214fb2a1bce50c6.jpg
     url: /files/original/14fb2a1bce4ce214fb2a1bce50c6.jpg
+    alt:
+      en: "Woman with shoulder-length blonde hair wears a U.S. Army camouflage uniform with \"PRECHTER\" and \"U.S. ARMY\" name tapes, seated indoors; timestamp reads 09.24.2005."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2069superdome.JPG
     thumb: /files/thumbnails/14fb29dee4cd1f14fb29dee4d0fd.jpg
     url: /files/original/14fb29dee4cd1f14fb29dee4d0fd.jpg
+    alt:
+      en: "Two men in camouflage military uniforms, one wearing blue gloves, support an injured man in a white shirt and shorts as they walk across a wet pavement area."
 geo:
 id: 25342
 item_type: Still Image

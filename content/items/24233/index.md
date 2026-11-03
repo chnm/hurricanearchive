@@ -21,6 +21,8 @@ files:
     original_filename: 09140014.JPG
     thumb: /files/thumbnails/14fb29e97c7f9814fb29e97c8384.jpg
     url: /files/original/14fb29e97c7f9814fb29e97c8384.jpg
+    alt:
+      en: "A large uprooted tree lies across a yard, its exposed root ball tilted on one side and branches sprawled toward a blue house, with a leaning utility pole and rusted metal debris nearby."
 geo:
 id: 24233
 item_type: Still Image

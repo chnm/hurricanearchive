@@ -21,6 +21,8 @@ files:
     original_filename: Picture 009engineers.jpg
     thumb: /files/thumbnails/14fb2a0ff0ebcf14fb2a0ff0efb5.jpg
     url: /files/original/14fb2a0ff0ebcf14fb2a0ff0efb5.jpg
+    alt:
+      en: "A military relief worker in camouflage uniform hands a bottled water and ration box to an elderly man, with a case of water bottles visible on a ledge nearby."
 geo:
 id: 19449
 item_type: Still Image

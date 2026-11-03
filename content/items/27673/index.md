@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6696_3587745ed9.JPG
     thumb: /files/thumbnails/14fb29d32d0f4114fb29d32d1327.jpg
     url: /files/original/14fb29d32d0f4114fb29d32d1327.jpg
+    alt:
+      en: "Dense crowd of festivalgoers in sun hats and caps faces a stage with a peaked roof, flags, and a partially visible \"SANYO\" banner under a bright white sky."
 geo:
   address: ''
   lat: 29.84064

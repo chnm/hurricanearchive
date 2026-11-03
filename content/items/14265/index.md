@@ -21,6 +21,8 @@ files:
     original_filename: aerials107.jpg
     thumb: /files/thumbnails/14fb2a1a59b39114fb2a1a59b776.jpg
     url: /files/original/14fb2a1a59b39114fb2a1a59b776.jpg
+    alt:
+      en: "Aerial view of a flattened, debris-strewn landscape with scattered wreckage, standing water, and the remains of a small structure, surrounded by bare, storm-damaged trees; a roadway runs along the right edge."
 geo:
 id: 14265
 item_type: Still Image

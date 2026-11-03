@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28671.jpg
     thumb: /files/thumbnails/14fb2a6a0aa78c14fb2a6a0aab60.jpg
     url: /files/original/14fb2a6a0aa78c14fb2a6a0aab60.jpg
+    alt:
+      en: "Two women stand with a chestnut horse wearing a rope halter, one in a pink tank top with sunglasses, the other in a yellow shirt and purple bandana, inside a barn near a trailer."
 geo:
   address: ''
   lat: 0.0

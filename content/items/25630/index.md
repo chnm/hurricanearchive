@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.049.JPG
     thumb: /files/thumbnails/14fb29dcf8c87f14fb29dcf8cc5c.jpg
     url: /files/original/14fb29dcf8c87f14fb29dcf8cc5c.jpg
+    alt:
+      en: "A colorful dragon-shaped kite with outstretched wings hangs in front of a handmade fabric banner reading \"...BY EMERGE[NT] COMMUNIT[Y],\" mounted on a metal frame structure."
 geo:
 id: 25630
 item_type: Still Image

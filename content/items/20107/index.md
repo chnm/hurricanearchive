@@ -21,6 +21,8 @@ files:
     original_filename: Picture 204cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b4dd89e14fb2a0b4ddc83.jpg
     url: /files/original/14fb2a0b4dd89e14fb2a0b4ddc83.jpg
+    alt:
+      en: "A white pickup truck drives past a blue sign reading \"University of New Orleans Lakefront Campus,\" with brick buildings and trees in the background."
 geo:
 id: 20107
 item_type: Still Image

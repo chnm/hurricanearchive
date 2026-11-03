@@ -21,6 +21,8 @@ files:
     original_filename: 100-27_27c503f482.jpg
     thumb: /files/thumbnails/14fb2a21c8eb5e14fb2a21c8ef44.jpg
     url: /files/original/14fb2a21c8eb5e14fb2a21c8ef44.jpg
+    alt:
+      en: "Vintage sepia-toned portrait of a young girl with her hair styled up, wearing a plaid dress with a white collar and a small hoop earring, smiling gently at the camera."
 geo:
 id: 12680
 item_type: Still Image

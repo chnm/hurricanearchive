@@ -21,6 +21,8 @@ files:
     original_filename: DSC01170.JPG
     thumb: /files/thumbnails/14fb2a583d9a1314fb2a583d9df8.jpg
     url: /files/original/14fb2a583d9a1314fb2a583d9df8.jpg
+    alt:
+      en: "Flooded area near a large domed stadium with a damaged roof, viewed from a highway; a billboard advertising \"Earl Turner\" and Coca-Cola stands nearby, with debris and shipping containers in the foreground."
 geo:
 id: 4045
 item_type: Still Image

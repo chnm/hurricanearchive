@@ -21,6 +21,8 @@ files:
     original_filename: katrina 064.jpg
     thumb: /files/thumbnails/14fb29fbb9aad114fb29fbb9aeb5.jpg
     url: /files/original/14fb29fbb9aad114fb29fbb9aeb5.jpg
+    alt:
+      en: "Deserted, debris-strewn Canal Street in New Orleans, with standing water in the distance, historic buildings lining both sides, and a street sign reading \"Canal\" visible among traffic lights and palm trees."
 geo:
 id: 21794
 item_type: Still Image

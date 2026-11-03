@@ -17,6 +17,8 @@ files:
     original_filename: hurrican issac.jpg
     thumb: /files/thumbnails/b61614c5ad33ba23a1e0dc2efefa0b96.jpg
     url: /files/original/b61614c5ad33ba23a1e0dc2efefa0b96.jpg
+    alt:
+      en: "Floodwaters submerge a residential street, covering vehicles up to their wheel wells, with single-story brick homes and a mailbox surrounded by water under an overcast sky."
 geo:
   address: Lemoyne Dr. Laplace 70068
   lat: 30.088355

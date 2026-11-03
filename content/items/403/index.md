@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0382_f77d628633.JPG
     thumb: /files/thumbnails/14fb2a701879bf14fb2a70187da1.jpg
     url: /files/original/14fb2a701879bf14fb2a70187da1.jpg
+    alt:
+      en: "A low concrete wall, remnant of a demolished house, spray-painted with \"WE SHALL RETURN,\" stands amid storm debris, bare trees, and an overturned trailer."
 geo:
   address: ''
   lat: 30.325471259328104

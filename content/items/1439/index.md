@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28653.jpg
     thumb: /files/thumbnails/14fb2a68af22f714fb2a68af26d1.jpg
     url: /files/original/14fb2a68af22f714fb2a68af26d1.jpg
+    alt:
+      en: "A paper flyer taped to a green metal post reads \"US Public Health Service Heat Stress Recommendations,\" listing tips for preventing heat illness while working outdoors."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 165cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd6c79014fb2a0dd6cb6c.jpg
     url: /files/original/14fb2a0dd6c79014fb2a0dd6cb6c.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms gather around a military transport truck, with civilians seated in the covered truck bed, in front of a brick building with a green roof."
 geo:
 id: 19778
 item_type: Still Image

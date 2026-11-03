@@ -21,6 +21,8 @@ files:
     original_filename: kidcrawf_9f8456284f.jpg
     thumb: /files/thumbnails/14fb29d9dcc3e714fb29d9dcc612.jpg
     url: /files/original/14fb29d9dcc3e714fb29d9dcc612.jpg
+    alt:
+      en: "Two young children stand near a booth with painted crawfish and marsh grass decorations, while an adult in sunglasses looks on at the outdoor festival."
 geo:
 id: 26168
 item_type: Still Image

@@ -2,7 +2,7 @@
 {{ if eq .Data.Plural "collections" }}
 	{{/* Collections browse — every collection record (incl. empty ones), newest id first. */}}
 	<div id="heading">
-		<div class="heading">  <h2> Collections </h2>
+		<div class="heading">  <h1> Collections </h1>
 		</div>
 	</div>
 	<div id="collections">
@@ -23,7 +23,7 @@
 {{ else }}
 	{{/* Tag cloud — popularity buckets matching the legacy .v-popular … .vvvvvvvvv-popular sizes. */}}
 	<div id="heading">
-		<div class="heading">  <h2> Browse Items by Tag </h2>
+		<div class="heading">  <h1> Browse Items by Tag </h1>
 		</div>
 	</div>
 	{{ $max := 1 }}

@@ -26,6 +26,8 @@ files:
     original_filename: SpainStreet_4d1a5da55e.jpg.JPG
     thumb: /files/thumbnails/14fb29d5c9c6c314fb29d5c9cbb6.jpg
     url: /files/original/14fb29d5c9c6c314fb29d5c9cbb6.jpg
+    alt:
+      en: "A debris-filled light blue \"Thunderbird\" boat with Louisiana plate LA 0732 YK sits abandoned on a grassy curb beside a weathered wooden door reading \"Don't Block Drive, No Parking.\""
 geo:
   address: 1800 Spain Street
   lat: 0.0

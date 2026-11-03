@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1422superdome.JPG
     thumb: /files/thumbnails/14fb29e3cae10e14fb29e3cae538.jpg
     url: /files/original/14fb29e3cae10e14fb29e3cae538.jpg
+    alt:
+      en: "A large military-style truck carries a group of people through deep floodwaters beneath an overpass, passing a parked bus and a nearly submerged car in the background."
 geo:
 id: 24927
 item_type: Still Image

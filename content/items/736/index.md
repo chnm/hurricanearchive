@@ -26,6 +26,8 @@ files:
     original_filename: scan001_cdb198b338.jpg
     thumb: /files/thumbnails/14fb2a6f15201414fb2a6f1523ee.jpg
     url: /files/original/14fb2a6f15201414fb2a6f1523ee.jpg
+    alt:
+      en: "Large uprooted tree lies toppled in front of a blue house with white shuttered windows, its massive root ball exposed, with a neighboring white house visible to the right."
 geo:
   address: ''
   lat: 30.009063

@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58ca2c5a14fb2a58ca303e.jpg
     url: /files/original/14fb2a58ca2c5a14fb2a58ca303e.jpg
+    alt:
+      en: "A man resembling President Bush stands among a crowd of uniformed Coast Guard personnel in ball caps, with one holding a camera; a timestamp reads \"3:50 PM.\""
 geo:
 id: 3948
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0978superdome.JPG
     thumb: /files/thumbnails/14fb29e3f787d614fb29e3f78b42.jpg
     url: /files/original/14fb29e3f787d614fb29e3f78b42.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms conversing outside a teal building with a \"SECURITY\" sign, while civilians stand and sit nearby."
 geo:
 id: 24903
 item_type: Still Image

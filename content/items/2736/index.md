@@ -21,6 +21,8 @@ files:
     original_filename: 33.jpg
     thumb: /files/thumbnails/14fb2a60602dda14fb2a606031c0.jpg
     url: /files/original/14fb2a60602dda14fb2a606031c0.jpg
+    alt:
+      en: "Hand-drawn red crayon sketch of a heart with two arrows pointing to it, accompanied by the handwritten text \"Let God be with you\" and signed \"Gary e 116.\""
 geo:
 id: 2736
 item_type: Still Image

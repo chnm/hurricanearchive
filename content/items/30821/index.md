@@ -24,6 +24,8 @@ files:
     original_filename: scan0116.jpg
     thumb: /files/thumbnails/14fb29cc45b3b814fb29cc45b79c.jpg
     url: /files/original/14fb29cc45b3b814fb29cc45b79c.jpg
+    alt:
+      en: "Black-and-white snapshot of a woman in a floral dress standing with her arm around a young boy in shorts, posed on a grassy curb with wooden houses and a utility pole behind them."
 geo:
 id: 30821
 item_type: Still Image

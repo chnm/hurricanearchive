@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28209.jpg
     thumb: /files/thumbnails/14fb2a6b3e8f4e14fb2a6b3e9713.jpg
     url: /files/original/14fb2a6b3e8f4e14fb2a6b3e9713.jpg
+    alt:
+      en: "Cinderblock foundation remnants hold a makeshift memorial display with a mug, bowl, bottles, and figurines atop a wall marked \"116,\" alongside a sign reading \"Seaside,\" amid sandy, debris-strewn aftermath."
 geo:
   address: ''
   lat: 0.0

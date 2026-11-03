@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (2).jpg
     thumb: /files/thumbnails/14fb2a5d0b080c14fb2a5d0b0bea.jpg
     url: /files/original/14fb2a5d0b080c14fb2a5d0b0bea.jpg
+    alt:
+      en: "A yellow and black building with \"FD\" and a star painted on its facade, address \"1208,\" surrounded by a metal fence; a damaged car sits parked in front amid rubble and debris."
 geo:
 id: 3255
 item_type: Still Image

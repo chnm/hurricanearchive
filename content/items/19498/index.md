@@ -21,6 +21,8 @@ files:
     original_filename: Picture 058engineers.jpg
     thumb: /files/thumbnails/14fb2a0fa6628714fb2a0fa6666d.jpg
     url: /files/original/14fb2a0fa6628714fb2a0fa6666d.jpg
+    alt:
+      en: "Aerial view of a flooded urban area with high-rise buildings surrounded by dark floodwater, elevated highways, and a parking garage filled with submerged and stranded vehicles."
 geo:
 id: 19498
 item_type: Still Image

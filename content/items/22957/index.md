@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0190cowanmedia.JPG
     thumb: /files/thumbnails/14fb29f26d562f14fb29f26d5a06.jpg
     url: /files/original/14fb29f26d562f14fb29f26d5a06.jpg
+    alt:
+      en: "A Fox News reporter holds a microphone toward a uniformed service member while a cameraman films the interview outside a fenced building."
 geo:
 id: 22957
 item_type: Still Image

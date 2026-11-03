@@ -21,6 +21,8 @@ files:
     original_filename: DSC01091.JPG
     thumb: /files/thumbnails/14fb2a5892ba5114fb2a5892be2f.jpg
     url: /files/original/14fb2a5892ba5114fb2a5892be2f.jpg
+    alt:
+      en: "A U.S. Coast Guard member in an orange life vest rides in a small boat marked \"LA-3524-FJ\" through a flooded street, with traffic lights and a \"Canal Blvd\" street sign partially submerged ahead."
 geo:
 id: 3998
 item_type: Still Image

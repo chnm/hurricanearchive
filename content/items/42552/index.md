@@ -23,6 +23,8 @@ files:
     original_filename: Wingate3_5561805ede.jpg
     thumb: /files/thumbnails/14fb29c28c031814fb29c28c06fe.jpg
     url: /files/original/14fb29c28c031814fb29c28c06fe.jpg
+    alt:
+      en: "Damaged single-story house with a boarded-up window and partially stripped roof, two abandoned cars with broken windows parked in front behind a chain-link fence."
 geo:
   address: 5769 Wingate Drive
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (82).JPG
     thumb: /files/thumbnails/14fb2a5d1bce2014fb2a5d1bd206.jpg
     url: /files/original/14fb2a5d1bce2014fb2a5d1bd206.jpg
+    alt:
+      en: "A worker wearing a hard hat and mask sits in a chair on a closed road beside traffic cones and a \"ROAD WORK 1500 FT\" sign, with a \"CONSTRUCTION AHEAD\" sign and streetlights lining the road."
 geo:
 id: 3236
 item_type: Still Image

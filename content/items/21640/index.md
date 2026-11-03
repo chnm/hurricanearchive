@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0389-16.JPG
     thumb: /files/thumbnails/14fb29fcdb76d414fb29fcdb7bab.jpg
     url: /files/original/14fb29fcdb76d414fb29fcdb7bab.jpg
+    alt:
+      en: "An abandoned baby stroller sits on a debris-covered walkway beside a brick building with a weathered white garage door, overgrown with dried vines."
 geo:
 id: 21640
 item_type: Still Image

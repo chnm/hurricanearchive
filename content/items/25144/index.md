@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1754superdome.JPG
     thumb: /files/thumbnails/14fb29e1e57db414fb29e1e5819a.jpg
     url: /files/original/14fb29e1e57db414fb29e1e5819a.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms unload cardboard boxes labeled \"MRE\" and \"Do Not Freeze\" from the back of a vehicle, passing supplies hand to hand."
 geo:
 id: 25144
 item_type: Still Image

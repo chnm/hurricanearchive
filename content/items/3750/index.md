@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 030.jpg
     thumb: /files/thumbnails/14fb2a59daf81f14fb2a59db083b.jpg
     url: /files/original/14fb2a59daf81f14fb2a59db083b.jpg
+    alt:
+      en: "Long row of heavily damaged commercial buildings with exposed steel framing and torn metal siding, debris scattered along the roadside under a clear blue sky."
 geo:
 id: 3750
 item_type: Still Image

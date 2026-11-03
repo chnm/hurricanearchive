@@ -21,6 +21,8 @@ files:
     original_filename: S4300208alero.JPG
     thumb: /files/thumbnails/14fb2a154acd2814fb2a154ad10d.jpg
     url: /files/original/14fb2a154acd2814fb2a154ad10d.jpg
+    alt:
+      en: "Military personnel in fatigues and orange safety vests direct traffic and organize stacked supply boxes on pallets at a roadside distribution point, with a line of cars and a STOP sign cone in the foreground."
 geo:
 id: 18739
 item_type: Still Image

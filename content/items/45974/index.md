@@ -17,6 +17,8 @@ files:
     original_filename: lacie.JPG
     thumb: /files/thumbnails/e2a8bd21cc4a149c0c622617843d506f.jpg
     url: /files/original/e2a8bd21cc4a149c0c622617843d506f.JPG
+    alt:
+      en: "Brick house with a cracked, mud-covered yard and patchy grass, debris scattered near the entrance, photographed through a vehicle window in the foreground."
 geo:
 id: 45974
 item_type: Still Image

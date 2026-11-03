@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0138-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a025ac53714fb2a025ac924.jpg
     url: /files/original/14fb2a025ac53714fb2a025ac924.jpg
+    alt:
+      en: "A mobile home has washed off its foundation and sits askew beside a debris-strewn rural road, with cattle, a hay bale, and a pickup truck visible nearby under a partly cloudy sky."
 geo:
 id: 20878
 item_type: Still Image

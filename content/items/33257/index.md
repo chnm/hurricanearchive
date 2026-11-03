@@ -23,6 +23,8 @@ files:
     original_filename: 1226148270_a6a7e721cf.jpg
     thumb: /files/thumbnails/14fb29cb12545114fb29cb125837.jpg
     url: /files/original/14fb29cb12545114fb29cb125837.jpg
+    alt:
+      en: "Weathered exterior wall reading \"Safari Supermarket\" in red letters, with electrical boxes, conduit, and dark water stains streaking across the white-painted cinder block surface."
 geo:
 id: 33257
 item_type: Still Image

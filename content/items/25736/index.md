@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-11maryjaneathouse1980's_87bb29c131.jpg
     thumb: /files/thumbnails/14fb29dc8ce6f714fb29dc8ceb0c.jpg
     url: /files/original/14fb29dc8ce6f714fb29dc8ceb0c.jpg
+    alt:
+      en: "Water-damaged, discolored photo of a woman in a light blue dress standing in a living room, with another person's hand on her shoulder, near curtains, furniture, and wrapped gifts."
 geo:
 id: 25736
 item_type: Still Image

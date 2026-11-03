@@ -21,6 +21,8 @@ files:
     original_filename: IMG_6288_783ffdef6f.jpg
     thumb: /files/thumbnails/14fb2a16f5d5b214fb2a16f5dcac.jpg
     url: /files/original/14fb2a16f5d5b214fb2a16f5dcac.jpg
+    alt:
+      en: "Crowded Bourbon Street lined with wrought-iron balconies and neon signs reading \"Galatoire's,\" \"Felix's,\" and \"Blues Club,\" with pedestrians wearing Mardi Gras beads filling the street below."
 geo:
   address: ''
   lat: 37.77123

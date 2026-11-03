@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a07f8db3714fb2a07f8e4d1.jpg
     url: /files/original/14fb2a07f8db3714fb2a07f8e4d1.jpg
+    alt:
+      en: "Man in a camouflage bucket hat, sunglasses, and red shirt wears a towel around his neck and holds a Nikon camera, standing before a military vehicle marked \"GP ENGR BN.\""
 geo:
 id: 20405
 item_type: Still Image

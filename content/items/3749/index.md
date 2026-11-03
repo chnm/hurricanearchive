@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 029.jpg
     thumb: /files/thumbnails/14fb2a59dc343214fb2a59dc3818.jpg
     url: /files/original/14fb2a59dc343214fb2a59dc3818.jpg
+    alt:
+      en: "A multi-story building with its exterior walls stripped away, exposing twisted metal framing and debris, with storm wreckage scattered across the ground in front under a clear blue sky."
 geo:
 id: 3749
 item_type: Still Image

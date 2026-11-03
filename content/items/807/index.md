@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28374.jpg
     thumb: /files/thumbnails/14fb2a6ce98fa014fb2a6ce99386.jpg
     url: /files/original/14fb2a6ce98fa014fb2a6ce99386.jpg
+    alt:
+      en: "Man in a cap and \"Key West\" T-shirt stands beside the large wooden steering wheel inside a shrimp boat's wheelhouse, with windows, gauges, and wiring visible overhead."
 geo:
   address: ''
   lat: 0.0

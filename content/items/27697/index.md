@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6614_182905eda1.JPG
     thumb: /files/thumbnails/14fb29d2d252d314fb29d2d25e95.jpg
     url: /files/original/14fb29d2d252d314fb29d2d25e95.jpg
+    alt:
+      en: "Black-and-white photo of a young man in a graduation-style gown and a woman in a white robe holding a book, standing outside a brick church building."
 geo:
   address: ''
   lat: 29.87876

@@ -21,6 +21,8 @@ files:
     original_filename: CB Betsey bogalusa_b2832e770e.jpg
     thumb: /files/thumbnails/14fb29d8ebaaba14fb29d8ebae48.jpg
     url: /files/original/14fb29d8ebaaba14fb29d8ebae48.jpg
+    alt:
+      en: "Black-and-white photo of a flooded residential street in Bogalusa, Louisiana after Hurricane Betsy, with water surrounding raised houses, a partly submerged car, and people standing near a porch."
 geo:
   address: ''
   lat: 29.87876

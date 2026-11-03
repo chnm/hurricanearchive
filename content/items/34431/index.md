@@ -23,6 +23,8 @@ files:
     original_filename: 2326960886_31bfcbe9db.
     thumb: /files/thumbnails/14fb29ca0ec10214fb29ca0ec4e8.jpg
     url: /files/original/14fb29ca0ec10214fb29ca0ec4e8.jpg
+    alt:
+      en: "Car side mirror reflecting a person taking a photo, with a debris-strewn landscape, damaged wooden pier, and standing water visible in the background under an overcast sky."
 geo:
   address: ''
   lat: 30.23864

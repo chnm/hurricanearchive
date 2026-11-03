@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 149cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0df8aa0514fb2a0df8adeb.jpg
     url: /files/original/14fb2a0df8aa0514fb2a0df8adeb.jpg
+    alt:
+      en: "A military Black Hawk helicopter hovers low over a paved helipad near damaged trees and homes, with a crew member visible in the open side door."
 geo:
 id: 19762
 item_type: Still Image

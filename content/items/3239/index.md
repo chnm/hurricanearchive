@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (85).JPG
     thumb: /files/thumbnails/14fb2a5d18a1e214fb2a5d18a5c2.jpg
     url: /files/original/14fb2a5d18a1e214fb2a5d18a5c2.jpg
+    alt:
+      en: "Strip mall with \"COLORTYME\" sign and a partially obscured \"THRIFT CITY\" sign on the building facade, several box trucks parked at loading docks, a teal sedan in the foreground, under a partly cloudy sky."
 geo:
 id: 3239
 item_type: Still Image

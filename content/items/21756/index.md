@@ -21,6 +21,8 @@ files:
     original_filename: katrina 024.jpg
     thumb: /files/thumbnails/14fb29fbf1336014fb29fbf13747.jpg
     url: /files/original/14fb29fbf1336014fb29fbf13747.jpg
+    alt:
+      en: "Debris-strewn plaza or walkway with scattered trash, people standing and walking amid the litter, a statue and light poles in the background, and an elevated highway overpass visible beyond."
 geo:
 id: 21756
 item_type: Still Image

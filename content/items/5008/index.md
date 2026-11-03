@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0353.JPG
     thumb: /files/thumbnails/14fb2a546eec4e14fb2a546ef032.jpg
     url: /files/original/14fb2a546eec4e14fb2a546ef032.jpg
+    alt:
+      en: "Storm debris and fallen trees surround a damaged structure near a creek, with scattered wreckage including a blue tarp, boards, and corrugated metal in the foreground."
 geo:
 id: 5008
 item_type: Still Image

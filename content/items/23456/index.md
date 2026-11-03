@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0113cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef5d4e0a14fb29ef5d523a.jpg
     url: /files/original/14fb29ef5d4e0a14fb29ef5d523a.jpg
+    alt:
+      en: "A boat travels along a calm waterway lined with dense green trees on both banks, under a clear blue sky, with a tree branch visible in the foreground."
 geo:
 id: 23456
 item_type: Still Image

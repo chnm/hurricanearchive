@@ -21,6 +21,8 @@ files:
     original_filename: J2 (30).JPG
     thumb: /files/thumbnails/14fb2a1139b1d514fb2a1139b5ba.jpg
     url: /files/original/14fb2a1139b1d514fb2a1139b5ba.jpg
+    alt:
+      en: "Overexposed, blurred aerial view of a landscape with rows of buildings, scattered debris, and sparse vegetation, taken from a moving vehicle or aircraft under bright, hazy light."
 geo:
 id: 19312
 item_type: Still Image

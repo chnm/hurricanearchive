@@ -21,6 +21,8 @@ files:
     original_filename: aerials80.jpg
     thumb: /files/thumbnails/14fb2a198b17c414fb2a198b1ba8.jpg
     url: /files/original/14fb2a198b17c414fb2a198b1ba8.jpg
+    alt:
+      en: "Aerial view of storm-damaged structures surrounded by debris and fallen trees, with a parking lot and buildings visible in the upper left and wooded areas nearby."
 geo:
 id: 14372
 item_type: Still Image

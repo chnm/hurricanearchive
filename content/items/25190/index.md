@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1813superdome.JPG
     thumb: /files/thumbnails/14fb29e128a46014fb29e128ac25.jpg
     url: /files/original/14fb29e128a46014fb29e128ac25.jpg
+    alt:
+      en: "Silhouette of a military helicopter parked on pavement at sunset, with an elevated highway and trees in the background and a person standing near its nose."
 geo:
 id: 25190
 item_type: Still Image

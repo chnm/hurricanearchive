@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1842Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f56ee0a814fb29f56ee54b.jpg
     url: /files/original/14fb29f56ee0a814fb29f56ee54b.jpg
+    alt:
+      en: "Aerial view of a neighborhood submerged in floodwater, with only rooftops, treetops, and utility poles visible above the surface; a larger building and scattered debris appear in the upper portion."
 geo:
 id: 22553
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: Picture_043_7752536741.jpg
     thumb: /files/thumbnails/14fb2a70f57ec714fb2a70f582b0.jpg
     url: /files/original/14fb2a70f57ec714fb2a70f582b0.jpg
+    alt:
+      en: "Two people pose outdoors at night; a man in glasses wears a white sheet costume reading \"MS GULF GHOST,\" while a woman in camouflage attire and green eye makeup smiles beside him, with string lights decorating a house roofline behind them."
 geo:
   address: ''
   lat: 29.938343

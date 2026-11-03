@@ -21,6 +21,8 @@ files:
     original_filename: NO 015majortodd.jpg
     thumb: /files/thumbnails/14fb29f2e4525214fb29f2e45638.jpg
     url: /files/original/14fb29f2e4525214fb29f2e45638.jpg
+    alt:
+      en: "Aerial view of a crowd gathered on a litter-strewn roadway, with people clustered in groups amid scattered debris, boxes, and long cast shadows."
 geo:
 id: 22893
 item_type: Still Image

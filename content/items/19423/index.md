@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0068engineers.JPG
     thumb: /files/thumbnails/14fb2a10495f6614fb2a10496387.jpg
     url: /files/original/14fb2a10495f6614fb2a10496387.jpg
+    alt:
+      en: "Military trucks, one marked \"A04\" and another \"MC066,\" parked in a row near elevated beach houses, with a person wearing a hard hat visible in the background."
 geo:
 id: 19423
 item_type: Still Image

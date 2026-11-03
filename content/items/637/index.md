@@ -26,6 +26,8 @@ files:
     original_filename: Fernando_TVE_61a9fc7419.png
     thumb: /files/thumbnails/14fb2a6f4de65214fb2a6f4dea2d.jpg
     url: /files/original/14fb2a6f4de65214fb2a6f4dea2d.jpg
+    alt:
+      en: "A man in a striped polo shirt operates a shoulder-mounted video camera on a tripod along a roadside, with open fields and power lines visible under a clear blue sky."
 geo:
   address: ''
   lat: 30.342352

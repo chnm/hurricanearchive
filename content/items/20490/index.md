@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0022H.JPG
     thumb: /files/thumbnails/14fb2a06cec51b14fb2a06cec900.jpg
     url: /files/original/14fb2a06cec51b14fb2a06cec900.jpg
+    alt:
+      en: "A person wearing a Hooters uniform holds a red cup, photographed at night with string lights glowing in the dark background."
 geo:
 id: 20490
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0756.JPG
     thumb: /files/thumbnails/14fb2a57048d7d14fb2a57049164.jpg
     url: /files/original/14fb2a57048d7d14fb2a57049164.jpg
+    alt:
+      en: "A yellow tape measure hangs vertically from a wooden beam against a blue sky, with a pine tree visible in the background below."
 geo:
 id: 4554
 item_type: Still Image

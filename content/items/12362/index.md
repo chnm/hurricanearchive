@@ -20,6 +20,8 @@ files:
     original_filename: johnson_2a4999b7f7.hakim.jpg
     thumb: /files/thumbnails/14fb2a2232152f14fb2a22321ee0.jpg
     url: /files/original/14fb2a2232152f14fb2a22321ee0.jpg
+    alt:
+      en: "Handwritten postcard in pencil describing fear during Hurricane Katrina, signed by Hakim Johnson, age 4 years 11 months, expressing worry about children separated from their families."
 geo:
 id: 12362
 item_type: Still Image

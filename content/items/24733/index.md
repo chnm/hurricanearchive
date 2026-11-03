@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-10-8Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e54cbf3614fb29e54cc31e.jpg
     url: /files/original/14fb29e54cbf3614fb29e54cc31e.jpg
+    alt:
+      en: "Military helicopter with spinning rotors parked on a rooftop helipad, with a city skyline of medical center buildings visible in the background under a hazy sky."
 geo:
 id: 24733
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0108H.JPG
     thumb: /files/thumbnails/14fb29e72e1b5914fb29e72e2327.jpg
     url: /files/original/14fb29e72e1b5914fb29e72e2327.jpg
+    alt:
+      en: "Four women in matching Hooters uniforms (white tops, orange shorts) pose with a man in military camouflage uniform and beret, inside a dimly lit tent strung with lights."
 geo:
 id: 24516
 item_type: Still Image

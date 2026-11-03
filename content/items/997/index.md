@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27933.jpg
     thumb: /files/thumbnails/14fb2a6b7a4db514fb2a6b7a519b.jpg
     url: /files/original/14fb2a6b7a4db514fb2a6b7a519b.jpg
+    alt:
+      en: "Square tree-grate cover embedded in a brick sidewalk, reading \"Louisiana Superdome,\" with a debris-filled opening containing dirt, leaves, and a discarded can."
 geo:
   address: ''
   lat: 0.0

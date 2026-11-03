@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28477.jpg
     thumb: /files/thumbnails/14fb2a69d8e54b14fb2a69d8e922.jpg
     url: /files/original/14fb2a69d8e54b14fb2a69d8e922.jpg
+    alt:
+      en: "A man stands in the doorway of a brick building between two entrances marked \"6418\" and \"6420,\" with an orange search-and-rescue symbol spray-painted on the dark door."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a070c737614fb2a070c775b.jpg
     url: /files/original/14fb2a070c737614fb2a070c775b.jpg
+    alt:
+      en: "A man wearing a Louisiana Homeland Security badge gestures with his hands while speaking into a microphone held by another person, with others standing in the background on a paved lot."
 geo:
 id: 20459
 item_type: Still Image

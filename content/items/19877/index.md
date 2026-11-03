@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0109gillslong.JPG
     thumb: /files/thumbnails/14fb2a0d062f9014fb2a0d063377.jpg
     url: /files/original/14fb2a0d062f9014fb2a0d063377.jpg
+    alt:
+      en: "Aerial view of a large institutional complex with multiple beige buildings, surrounded by parking lots, open fields, and clusters of trees, with several large striped event tents set up in a grassy area under a hazy sky."
 geo:
 id: 19877
 item_type: Still Image

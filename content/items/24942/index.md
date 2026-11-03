@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1451superdome.JPG
     thumb: /files/thumbnails/14fb29e3ab6b9114fb29e3ab7bfb.jpg
     url: /files/original/14fb29e3ab6b9114fb29e3ab7bfb.jpg
+    alt:
+      en: "Young man in a tan t-shirt and camouflage pants smiles while standing on the field inside a large domed stadium, holding a flashlight and camo bag, with empty seating visible behind him."
 geo:
 id: 24942
 item_type: Still Image

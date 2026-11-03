@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0254.JPG
     thumb: /files/thumbnails/14fb29fed2ca4014fb29fed2ce1d.jpg
     url: /files/original/14fb29fed2ca4014fb29fed2ce1d.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood with heavily damaged rooftops, scattered debris, and bare or broken trees, consistent with hurricane destruction."
 geo:
 id: 21429
 item_type: Still Image

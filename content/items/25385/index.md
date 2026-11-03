@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2200superdome.JPG
     thumb: /files/thumbnails/14fb29de5c0f4014fb29de5c1325.jpg
     url: /files/original/14fb29de5c0f4014fb29de5c1325.jpg
+    alt:
+      en: "A soldier in digital camouflage and a dark beret leans on a military vehicle, head bowed and resting against his hand, with a water bottle and notebook nearby."
 geo:
 id: 25385
 item_type: Still Image

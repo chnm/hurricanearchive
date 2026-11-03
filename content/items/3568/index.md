@@ -24,6 +24,8 @@ files:
     original_filename: P1010143.JPG
     thumb: /files/thumbnails/14fb2a5ac6a16a14fb2a5ac6a50f.jpg
     url: /files/original/14fb2a5ac6a16a14fb2a5ac6a50f.jpg
+    alt:
+      en: "A traffic signal and street signs reading \"ONE WAY\" and \"BEGIN BIKE ROUTE\" stand before a massive pile of hurricane debris, with orange safety fencing and damaged yard signs in the foreground."
 geo:
 id: 3568
 item_type: Still Image

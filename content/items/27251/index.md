@@ -20,6 +20,8 @@ files:
     original_filename: House outside Venetian Isles.JPG
     thumb: /files/thumbnails/14fb29d5a2d85714fb29d5a2dc35.jpg
     url: /files/original/14fb29d5a2d85714fb29d5a2dc35.jpg
+    alt:
+      en: "A single-story stucco house with a garage door spray-painted \"Family OK - Mike Debbie\" and \"Valuables Removed,\" with boarded sections and a trash bin in the driveway."
 geo:
 id: 27251
 item_type: Still Image

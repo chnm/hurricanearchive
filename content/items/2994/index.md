@@ -21,6 +21,8 @@ files:
     original_filename: 100_0243.JPG
     thumb: /files/thumbnails/14fb2a5f2434ca14fb2a5f2438a7.jpg
     url: /files/original/14fb2a5f2434ca14fb2a5f2438a7.jpg
+    alt:
+      en: "Densely packed submarine or ship control room equipment, featuring gray metal consoles, gauges, dials, a green indicator screen, switches, and a network of conduits and braided cables."
 geo:
 id: 2994
 item_type: Still Image

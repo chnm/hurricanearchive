@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28426.jpg
     thumb: /files/thumbnails/14fb2a66e2eefd14fb2a66e2f32e.jpg
     url: /files/original/14fb2a66e2eefd14fb2a66e2f32e.jpg
+    alt:
+      en: "A concrete surface with peeling reddish-brown covering, yellow staining, and a rusted bolt protruding near the edge of a slab."
 geo:
   address: ''
   lat: 0.0

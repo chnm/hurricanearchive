@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0363-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fceab7fd14fb29fceac44b.jpg
     url: /files/original/14fb29fceab7fd14fb29fceac44b.jpg
+    alt:
+      en: "Aerial view of a small motorboat with two people speeding across a wide, muddy river, leaving a long white wake, with tree-lined banks and a partially submerged sign visible along the shore."
 geo:
 id: 21632
 item_type: Still Image

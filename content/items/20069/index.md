@@ -21,6 +21,8 @@ files:
     original_filename: Picture 166cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b81373c14fb2a0b813b1b.jpg
     url: /files/original/14fb2a0b81373c14fb2a0b813b1b.jpg
+    alt:
+      en: "Blurred, motion-captured photo of a person riding a motorcycle or similar vehicle, hands gripping the handlebars, with wet pavement and grass visible in the background."
 geo:
 id: 20069
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 1252063515_5e833d46dc.jpg
     thumb: /files/thumbnails/14fb29cb4d493514fb29cb4d4eea.jpg
     url: /files/original/14fb29cb4d493514fb29cb4d4eea.jpg
+    alt:
+      en: "Weathered metal door with two round knobs and a small red \"WARNING\" sticker, set in a brick wall; rust stains streak across the lower portion of the door."
 geo:
 id: 33240
 item_type: Still Image

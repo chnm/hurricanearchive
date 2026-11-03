@@ -26,6 +26,8 @@ files:
     original_filename: a15_597eab13ed.jpg
     thumb: /files/thumbnails/14fb2a6d82ef5114fb2a6d82f33f.jpg
     url: /files/original/14fb2a6d82ef5114fb2a6d82f33f.jpg
+    alt:
+      en: "Four young volunteers in red American Red Cross vests crouch beside large red storage containers on a sidewalk, with a fifth girl in a white shirt standing nearby, trees and AC units in the background."
 geo:
   address: ''
   lat: 27.18608

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2133rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13eba9f214fb2a13ebadd8.jpg
     url: /files/original/14fb2a13eba9f214fb2a13ebadd8.jpg
+    alt:
+      en: "Interior view of a helicopter cockpit with a uniformed crew member wearing a helmet and headset, an American flag patch on his sleeve, surrounded by instrument panels and a fire extinguisher."
 geo:
 id: 18971
 item_type: Still Image

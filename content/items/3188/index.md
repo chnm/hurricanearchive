@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (39).JPG
     thumb: /files/thumbnails/14fb2a5d66f72f14fb2a5d66fb15.jpg
     url: /files/original/14fb2a5d66f72f14fb2a5d66fb15.jpg
+    alt:
+      en: "A yellow wood-frame house with ornate white trim and boarded-up windows stands behind a wrought-iron fence, with a large red dumpster and dead vegetation in the overgrown front yard."
 geo:
 id: 3188
 item_type: Still Image

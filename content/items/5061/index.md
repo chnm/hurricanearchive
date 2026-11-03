@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0406.JPG
     thumb: /files/thumbnails/14fb2a542d27d014fb2a542d2bb4.jpg
     url: /files/original/14fb2a542d27d014fb2a542d2bb4.jpg
+    alt:
+      en: "Storm-damaged yard with a collapsed wooden structure draped in torn fabric, scattered metal roofing panels, overturned chairs, and debris covering the ground near a waterway."
 geo:
 id: 5061
 item_type: Still Image

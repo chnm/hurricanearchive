@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7051_02c3e4be33.jpg
     thumb: /files/thumbnails/14fb29db552a1214fb29db552e5f.jpg
     url: /files/original/14fb29db552a1214fb29db552e5f.jpg
+    alt:
+      en: "Stone building entrance with an arched wooden door and three adjacent arched window alcoves, leading to a sloped-roof arcade and stone steps below."
 geo:
   address: ''
   lat: 29.87876

@@ -21,6 +21,8 @@ files:
     original_filename: S4300210alero.JPG
     thumb: /files/thumbnails/14fb2a1549812f14fb2a15498516.jpg
     url: /files/original/14fb2a1549812f14fb2a15498516.jpg
+    alt:
+      en: "Several people in camouflage uniforms and orange safety vests gather near parked vehicles in a staging area, with portable toilets and blue canopy tents visible among trees in the background."
 geo:
 id: 18741
 item_type: Still Image

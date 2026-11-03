@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4804_1_fb0dead0ae.jpg
     thumb: /files/thumbnails/14fb2a1e44124f14fb2a1e441637.jpg
     url: /files/original/14fb2a1e44124f14fb2a1e441637.jpg
+    alt:
+      en: "Outdoor gathering at Audubon Zoo with people seated on lawn chairs and blankets under trees, a classical columned structure and blue banner visible in the background."
 geo:
 id: 13347
 item_type: Still Image

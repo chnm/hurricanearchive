@@ -21,6 +21,8 @@ files:
     original_filename: Picture 109cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0baf3e2f14fb2a0baf420a.jpg
     url: /files/original/14fb2a0baf3e2f14fb2a0baf420a.jpg
+    alt:
+      en: "A capsized sailboat with its mast extended across a roadside embankment, debris scattered nearby, as a military vehicle drives past on the adjacent road."
 geo:
 id: 20012
 item_type: Still Image

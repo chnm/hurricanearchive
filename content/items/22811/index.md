@@ -21,6 +21,8 @@ files:
     original_filename: DSC 028417thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f3681ea214fb29f3683d15.jpg
     url: /files/original/14fb29f3681ea214fb29f3683d15.jpg
+    alt:
+      en: "Aerial view of a coastal neighborhood with storm-damaged trees and buildings, a curving roadway, and a canal with murky brown water flowing into the gulf."
 geo:
 id: 22811
 item_type: Still Image

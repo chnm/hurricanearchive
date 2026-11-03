@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2110superdome.JPG
     thumb: /files/thumbnails/14fb29e4ba7ebf14fb29e4ba8277.jpg
     url: /files/original/14fb29e4ba7ebf14fb29e4ba8277.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms stand near an open Pafford Emergency Medical Services disaster relief truck, with an EMT worker seated at its rear and supplies stacked inside at night."
 geo:
 id: 24788
 item_type: Still Image

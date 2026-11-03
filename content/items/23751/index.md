@@ -21,6 +21,8 @@ files:
     original_filename: P1010192empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed47166014fb29ed471a46.jpg
     url: /files/original/14fb29ed47166014fb29ed471a46.jpg
+    alt:
+      en: "Still, murky water reflects pale sky, with bare branches and dried marsh grasses emerging from the surface and lining the shoreline at the edges of the frame."
 geo:
 id: 23751
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28063.jpg
     thumb: /files/thumbnails/14fb2a6b33aadb14fb2a6b33b543.jpg
     url: /files/original/14fb2a6b33aadb14fb2a6b33b543.jpg
+    alt:
+      en: "A man in a cap and tan work clothes holds a plastic bag containing a Fisher Price toy castle, standing amid debris and damaged homes following a levee breach."
 geo:
   address: ''
   lat: 0.0

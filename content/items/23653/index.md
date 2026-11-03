@@ -21,6 +21,8 @@ files:
     original_filename: P1010094empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee115bbb14fb29ee11634d.jpg
     url: /files/original/14fb29ee115bbb14fb29ee11634d.jpg
+    alt:
+      en: "A white pickup truck lies overturned on its side in floodwater beside a debris-strewn roadway, with a capsized boat visible in the water behind it and bare, storm-damaged trees lining the background."
 geo:
 id: 23653
 item_type: Still Image

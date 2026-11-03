@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0222.JPG
     thumb: /files/thumbnails/14fb2a54feea6d14fb2a54feee52.jpg
     url: /files/original/14fb2a54feea6d14fb2a54feee52.jpg
+    alt:
+      en: "Collapsed building with a tilted roof and scattered debris lies on a concrete foundation, surrounded by bare, storm-damaged trees and overgrown grass."
 geo:
 id: 4903
 item_type: Still Image

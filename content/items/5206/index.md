@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0651.JPG
     thumb: /files/thumbnails/14fb2a5365cee414fb2a5365d2cc.jpg
     url: /files/original/14fb2a5365cee414fb2a5365d2cc.jpg
+    alt:
+      en: "Severely damaged exterior wall of a mobile home with siding torn away, exposing wooden studs, insulation, and interior debris; partial text \"COMPL\" visible on a banner, with house number \"09\" shown near a light fixture."
 geo:
 id: 5206
 item_type: Still Image

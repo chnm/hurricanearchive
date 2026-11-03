@@ -21,6 +21,8 @@ files:
     original_filename: image005neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ec9bf14514fb29ec9bf526.jpg
     url: /files/original/14fb29ec9bf14514fb29ec9bf526.jpg
+    alt:
+      en: "Two cars, a maroon sedan and a blue coupe, sit parked in a cracked, debris-strewn lot in front of a damaged building with a teal roof under a clear blue sky."
 geo:
 id: 23886
 item_type: Still Image

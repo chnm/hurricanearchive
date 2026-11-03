@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1480superdome.JPG
     thumb: /files/thumbnails/14fb29e39415f914fb29e3941f6a.jpg
     url: /files/original/14fb29e39415f914fb29e3941f6a.jpg
+    alt:
+      en: "Overcast parking lot staging area with military and rescue vehicles, personnel in fatigues, tents, and orange barriers; a \"New Bacardi Silver\" billboard and \"ATTENTION:\" sign are visible in the background."
 geo:
 id: 24963
 item_type: Still Image

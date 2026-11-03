@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1279Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6736cfe14fb29f67370e7.jpg
     url: /files/original/14fb29f6736cfe14fb29f67370e7.jpg
+    alt:
+      en: "A man wearing a camouflage jacket, yellow life vest, hat, and glasses wades through chest-deep floodwater in front of a white house with shuttered windows."
 geo:
 id: 22438
 item_type: Still Image

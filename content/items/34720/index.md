@@ -20,6 +20,8 @@ files:
     original_filename: 2420897467_ea22875ba3.
     thumb: /files/thumbnails/14fb29c943343614fb29c943381a.jpg
     url: /files/original/14fb29c943343614fb29c943381a.jpg
+    alt:
+      en: "Dimly lit stage area with heavy gold curtains partially drawn, revealing a bright light source behind; scattered debris and chairs visible in the dark foreground."
 geo:
   address: ''
   lat: 29.97632

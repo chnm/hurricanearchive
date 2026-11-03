@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0536.JPG
     thumb: /files/thumbnails/14fb2a5383197d14fb2a53831d63.jpg
     url: /files/original/14fb2a5383197d14fb2a53831d63.jpg
+    alt:
+      en: "A yellow tape measure extended along a wooden board, measuring up to about 18 inches, with a person's hand holding the tape case at the edge."
 geo:
 id: 5174
 item_type: Still Image

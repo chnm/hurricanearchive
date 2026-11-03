@@ -21,6 +21,8 @@ files:
     original_filename: S4300187stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecd2f1eb14fb29ecd2f5c7.jpg
     url: /files/original/14fb29ecd2f1eb14fb29ecd2f5c7.jpg
+    alt:
+      en: "Brick house with a hipped roof, viewed from inside a vehicle, surrounded by thick dried mud, debris, and an uprooted shrub, with a black pickup truck parked nearby."
 geo:
 id: 23848
 item_type: Still Image

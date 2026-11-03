@@ -21,6 +21,8 @@ files:
     original_filename: P1010141empireS&R.JPG
     thumb: /files/thumbnails/14fb29edc101e414fb29edc105c9.jpg
     url: /files/original/14fb29edc101e414fb29edc105c9.jpg
+    alt:
+      en: "Flooded landscape with a submerged pickup truck, downed power lines, scattered debris, and storm-damaged trees reflecting in brown standing water."
 geo:
 id: 23700
 item_type: Still Image

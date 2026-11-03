@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0154-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a016410c114fb2a016414a7.jpg
     url: /files/original/14fb2a016410c114fb2a016414a7.jpg
+    alt:
+      en: "Collapsed building with a twisted metal roof and debris of wood, insulation, and storm wrack piled around it, with an intact metal warehouse and other structures visible in the background under a partly cloudy sky."
 geo:
 id: 20945
 item_type: Still Image

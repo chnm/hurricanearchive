@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0040tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d23b58b14fb2a0d23b8ff.jpg
     url: /files/original/14fb2a0d23b58b14fb2a0d23b8ff.jpg
+    alt:
+      en: "A man wearing a white hard hat labeled \"Yammarino,\" dark sunglasses, and a tan T-shirt stands at a construction site, holding a yellow scaffolding pole, with wooden framing visible behind him."
 geo:
 id: 19854
 item_type: Still Image

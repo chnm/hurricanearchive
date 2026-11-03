@@ -24,6 +24,8 @@ files:
     original_filename: 20050905_MG_8153.jpg
     thumb: /files/thumbnails/14fb2a664d8f4614fb2a664d932c.jpg
     url: /files/original/14fb2a664d8f4614fb2a664d932c.jpg
+    alt:
+      en: "An overturned, gutted car lies beside a massive splintered tree trunk, with debris, a fallen utility pole, and wreckage scattered across the muddy ground."
 geo:
 id: 2461
 item_type: Still Image

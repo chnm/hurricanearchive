@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C07_21e601032d.jpg
     thumb: /files/thumbnails/14fb2a66ac2ea014fb2a66ac360d.jpg
     url: /files/original/14fb2a66ac2ea014fb2a66ac360d.jpg
+    alt:
+      en: "A uniformed officer walks along a debris-strewn street covered in mud and splintered wood, with downed trees and wreckage of the destroyed Coast Guard Station Gulfport visible in the background."
 geo:
 id: 2406
 item_type: Still Image

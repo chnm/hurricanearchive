@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28218.jpg
     thumb: /files/thumbnails/14fb2a69674f8114fb2a69675721.jpg
     url: /files/original/14fb2a69674f8114fb2a69675721.jpg
+    alt:
+      en: "A metal roof structure has collapsed intact onto the ground amid bare, storm-damaged trees and scattered debris, with a small gabled section still partially upright."
 geo:
   address: ''
   lat: 0.0

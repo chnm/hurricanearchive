@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28308.jpg
     thumb: /files/thumbnails/14fb2a6874ddd314fb2a6874e1b9.jpg
     url: /files/original/14fb2a6874ddd314fb2a6874e1b9.jpg
+    alt:
+      en: "Severely damaged building reduced to exposed steel framing and debris, with two men standing amid rubble of scattered lumber, metal, and sand below the collapsed structure."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0360stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eea0603914fb29eea0653f.jpg
     url: /files/original/14fb29eea0603914fb29eea0653f.jpg
+    alt:
+      en: "A debris-strewn dirt path runs alongside a canal, with collapsed structures, scattered wood, and damaged trees lining the bank; a chain-link fence stands in the foreground."
 geo:
 id: 23584
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 384-J2.jpg
     thumb: /files/thumbnails/14fb29f9d1e64714fb29f9d1e9dd.jpg
     url: /files/original/14fb29f9d1e64714fb29f9d1e9dd.jpg
+    alt:
+      en: "A woman in camouflage pants and a tan t-shirt sits on a cot in a crowded shelter space, reading a book, with a binder of papers open on another cot and personal belongings scattered on the floor nearby."
 geo:
 id: 22053
 item_type: Still Image

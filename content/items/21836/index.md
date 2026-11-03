@@ -21,6 +21,8 @@ files:
     original_filename: Bogalusa LTC.jpg
     thumb: /files/thumbnails/14fb29fb68e84f14fb29fb68ec35.jpg
     url: /files/original/14fb29fb68e84f14fb29fb68ec35.jpg
+    alt:
+      en: "Aerial view of a commercial and residential area in Bogalusa, Louisiana, showing a long motel-like building, a parking lot with trucks and trailers, scattered houses, and surrounding pine forest with some storm-damaged trees."
 geo:
 id: 21836
 item_type: Still Image

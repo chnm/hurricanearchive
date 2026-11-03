@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0192-21.JPG
     thumb: /files/thumbnails/14fb2a0030436114fb2a003047f8.jpg
     url: /files/original/14fb2a0030436114fb2a003047f8.jpg
+    alt:
+      en: "A reporter holds a Fox News microphone toward a uniformed military man gesturing while speaking, as other soldiers and a cameraman stand nearby on a paved area outdoors."
 geo:
 id: 21180
 item_type: Still Image

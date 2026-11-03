@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a068ef42414fb2a068ef80a.jpg
     url: /files/original/14fb2a068ef42414fb2a068ef80a.jpg
+    alt:
+      en: "Aerial view of a flat-roofed building with a partially re-shingled roof surrounded by floodwater, with several pickup trucks parked beside it and a road and submerged trees in the background."
 geo:
 id: 20518
 item_type: Still Image

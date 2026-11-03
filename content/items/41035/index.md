@@ -20,6 +20,8 @@ files:
     original_filename: 3 - Robert E_f9a705f5bd. Lee 5.JPG
     thumb: /files/thumbnails/14fb29c478176f14fb29c47818fc.jpg
     url: /files/original/14fb29c478176f14fb29c47818fc.jpg
+    alt:
+      en: "A busy strip mall parking lot under a blue sky with scattered clouds, featuring stores like Walgreens, Franco's Athletic Club, Subway, and Goodwill, with numerous parked cars and flowering shrubs in the foreground."
 geo:
   address: ''
   lat: 0.0

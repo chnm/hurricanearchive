@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0182-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a006aca1814fb2a006acdff.jpg
     url: /files/original/14fb2a006aca1814fb2a006acdff.jpg
+    alt:
+      en: "Two men walk through a flooded yard beside a storm-damaged house with peeling siding, broken windows, and debris including bricks and an outdoor AC unit scattered about."
 geo:
 id: 21129
 item_type: Still Image

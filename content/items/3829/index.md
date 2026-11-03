@@ -21,6 +21,8 @@ files:
     original_filename: 100_0120.JPG
     thumb: /files/thumbnails/14fb2a5956751414fb2a595678fa.jpg
     url: /files/original/14fb2a5956751414fb2a595678fa.jpg
+    alt:
+      en: "Waterfront view of a storm-damaged shoreline with debris, a stranded red boat, downed trees, utility poles, and scattered wreckage along the bank."
 geo:
 id: 3829
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 1995 Groundbreaking-14_a2ed73333b.jpg
     thumb: /files/thumbnails/14fb2a172cedfa14fb2a172cf1d4.jpg
     url: /files/original/14fb2a172cedfa14fb2a172cf1d4.jpg
+    alt:
+      en: "Two men in suits stand on a grassy lot beneath a banner reading \"FUTURE HOME OF NUNEZ COMMUNITY COLLEGE LIBRARY AND CLASSROOM BUILDING,\" with trees and a house visible in the background."
 geo:
 id: 15097
 item_type: Still Image

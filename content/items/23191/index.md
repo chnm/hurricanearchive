@@ -21,6 +21,8 @@ files:
     original_filename: P1010011delaware.JPG
     thumb: /files/thumbnails/14fb29f0f4fa0714fb29f0f4fde1.jpg
     url: /files/original/14fb29f0f4fa0714fb29f0f4fde1.jpg
+    alt:
+      en: "Three people stand with a camera on a tripod on an airport tarmac, with hangar buildings, trees, and a small utility vehicle in the background."
 geo:
 id: 23191
 item_type: Still Image

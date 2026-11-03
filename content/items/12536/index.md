@@ -24,6 +24,8 @@ files:
     original_filename: back-yard_4e53147211.jpg
     thumb: /files/thumbnails/14fb2a22106f7014fb2a22107355.jpg
     url: /files/original/14fb2a22106f7014fb2a22107355.jpg
+    alt:
+      en: "Damaged two-story house with a wooden deck detached and collapsing, surrounded by debris, broken railings, and a large palm frond in the foreground."
 geo:
   address: ''
   lat: 29.95657

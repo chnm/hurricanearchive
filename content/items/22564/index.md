@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1853Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f542752914fb29f542790e.jpg
     url: /files/original/14fb29f542752914fb29f542790e.jpg
+    alt:
+      en: "Aerial view of severe flooding submerging rooftops of homes and a large warehouse building, with debris, shipping containers, and fallen trees scattered across the dark floodwaters."
 geo:
 id: 22564
 item_type: Still Image

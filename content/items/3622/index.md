@@ -24,6 +24,8 @@ files:
     original_filename: P1010056.JPG
     thumb: /files/thumbnails/14fb2a5a9a610614fb2a5a9a64e9.jpg
     url: /files/original/14fb2a5a9a610614fb2a5a9a64e9.jpg
+    alt:
+      en: "Damaged interior wall with white subway tile baseboard giving way above to exposed brick and patched tile, an electrical outlet box visible, and a terrazzo floor leading through an open doorway."
 geo:
 id: 3622
 item_type: Still Image

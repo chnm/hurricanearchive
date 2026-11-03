@@ -21,6 +21,8 @@ files:
     original_filename: Picture 372-J2.jpg
     thumb: /files/thumbnails/14fb29f9ee157914fb29f9ee1a30.jpg
     url: /files/original/14fb29f9ee157914fb29f9ee1a30.jpg
+    alt:
+      en: "Debris pile beside a brick building includes an overturned blue go-kart, tangled vegetation, and scattered wood, with a military-style green vehicle parked nearby and a low brick wall damaged along the yard."
 geo:
 id: 22041
 item_type: Still Image

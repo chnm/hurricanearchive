@@ -21,6 +21,8 @@ files:
     original_filename: P1010103empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee05347514fb29ee05385b.jpg
     url: /files/original/14fb29ee05347514fb29ee05385b.jpg
+    alt:
+      en: "A severely storm-damaged mobile home, numbered 26368, with its roof caved in and walls buckled, sits amid a debris-strewn yard with a tractor, trees, and a downed utility pole."
 geo:
 id: 23662
 item_type: Still Image

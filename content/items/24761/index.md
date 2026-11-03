@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2083superdome.JPG
     thumb: /files/thumbnails/14fb29e51652e614fb29e517c0d6.jpg
     url: /files/original/14fb29e51652e614fb29e517c0d6.jpg
+    alt:
+      en: "Group of people standing in a dim hallway near restroom signs marked \"MEN,\" \"WOMEN,\" and \"RESTROOMS,\" with accessibility symbols on the wall."
 geo:
 id: 24761
 item_type: Still Image

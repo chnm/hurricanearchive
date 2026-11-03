@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28461.jpg
     thumb: /files/thumbnails/14fb2a6821c64d14fb2a6821ca32.jpg
     url: /files/original/14fb2a6821c64d14fb2a6821ca32.jpg
+    alt:
+      en: "Collapsed concrete highway bridge spans tilted into the water at Biloxi harbor, with a lone streetlight standing amid the wreckage and debris scattered along the shoreline."
 geo:
   address: ''
   lat: 0.0

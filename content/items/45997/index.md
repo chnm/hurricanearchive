@@ -17,6 +17,8 @@ files:
     original_filename: KATRINA.jpg
     thumb: /files/thumbnails/fecf61858b39f9f39cca9ddde01f080c.jpg
     url: /files/original/fecf61858b39f9f39cca9ddde01f080c.jpg
+    alt:
+      en: "Two young women embrace at night amid illuminated fountain jets, one wearing a black top with jeans, the other in a black and pink top with shorts, both in bandanas."
 geo:
 id: 45997
 item_type: Still Image

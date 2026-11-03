@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0135-9-18.JPG
     thumb: /files/thumbnails/14fb2a0ac660b214fb2a0ac6621d.jpg
     url: /files/original/14fb2a0ac660b214fb2a0ac6621d.jpg
+    alt:
+      en: "A bent \"No Dumping, $500 Fine\" sign leans sharply over floodwater at the edge of a marshy, debris-strewn landscape with eroded banks and dry grass in the background."
 geo:
 id: 20201
 item_type: Still Image

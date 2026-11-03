@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0121cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef47f49014fb29ef47f874.jpg
     url: /files/original/14fb29ef47f49014fb29ef47f874.jpg
+    alt:
+      en: "Aerial view of a flooded marshland or swamp with dead tree stumps protruding from the water, bordered by dense green vegetation and a treeline, with clear blue sky above."
 geo:
 id: 23471
 item_type: Still Image

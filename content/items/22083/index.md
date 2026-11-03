@@ -21,6 +21,8 @@ files:
     original_filename: Picture 414-J2.jpg
     thumb: /files/thumbnails/14fb29f99446db14fb29f9944ac6.jpg
     url: /files/original/14fb29f99446db14fb29f9944ac6.jpg
+    alt:
+      en: "A group of men in military uniforms and t-shirts stand together in stadium bleachers near a \"SECTION 213\" sign, with towels and gear draped over the railings below."
 geo:
 id: 22083
 item_type: Still Image

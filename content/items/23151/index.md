@@ -21,6 +21,8 @@ files:
     original_filename: 20051001-A-2421S-009mobilePAO.jpg
     thumb: /files/thumbnails/14fb29f15096e014fb29f1509ac5.jpg
     url: /files/original/14fb29f15096e014fb29f1509ac5.jpg
+    alt:
+      en: "A person stands in a sunlit doorway of a debris-strewn, abandoned room, facing outside; muddy floors, scattered wires, and tilted picture frames line the damaged interior walls."
 geo:
 id: 23151
 item_type: Still Image

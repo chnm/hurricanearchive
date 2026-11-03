@@ -24,6 +24,8 @@ files:
     original_filename: P1010114.JPG
     thumb: /files/thumbnails/14fb2a5af13b5614fb2a5af13f3c.jpg
     url: /files/original/14fb2a5af13b5614fb2a5af13f3c.jpg
+    alt:
+      en: "Sand-covered street littered with debris, coiled cables, and large concrete pipes, with damaged houses and crisscrossing power lines in the background under a clear sky."
 geo:
 id: 3538
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1493superdome.JPG
     thumb: /files/thumbnails/14fb29e35c470314fb29e35c4ae8.jpg
     url: /files/original/14fb29e35c470314fb29e35c4ae8.jpg
+    alt:
+      en: "Three soldiers in camouflage fatigues converse beside a dark GMC C6500 truck; one wears an \"MP\" armband and holds a water bottle, with name tapes reading \"Vincent\" visible."
 geo:
 id: 24975
 item_type: Still Image

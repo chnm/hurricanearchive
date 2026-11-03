@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 001.jpg
     thumb: /files/thumbnails/14fb2a1330dbb914fb2a13311900.jpg
     url: /files/original/14fb2a1330dbb914fb2a13311900.jpg
+    alt:
+      en: "A man in U.S. Army camouflage uniform and cap sits in the driver's seat of a vehicle, hand on the steering wheel, with an American flag patch visible on his sleeve."
 geo:
 id: 19091
 item_type: Still Image

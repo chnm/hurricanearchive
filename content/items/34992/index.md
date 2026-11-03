@@ -23,6 +23,8 @@ files:
     original_filename: 2297831561_e744355c96.
     thumb: /files/thumbnails/14fb29c7ec9d2314fb29c7ed7960.jpg
     url: /files/original/14fb29c7ec9d2314fb29c7ed7960.jpg
+    alt:
+      en: "A gravel lot filled with rows of parked bicycles behind a chain-link fence, with several people standing nearby, traffic cones, a blue tarp, and buildings and power lines in the background."
 geo:
 id: 34992
 item_type: Still Image

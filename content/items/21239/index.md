@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0204-9-25.JPG
     thumb: /files/thumbnails/14fb29ffddf50b14fb29ffddf8ad.jpg
     url: /files/original/14fb29ffddf50b14fb29ffddf8ad.jpg
+    alt:
+      en: "Aerial view of a storm-damaged residential and commercial area, showing houses with missing or torn roof shingles, large warehouse buildings with metal roofing, scattered debris, and uprooted or snapped trees throughout the surrounding yards."
 geo:
 id: 21239
 item_type: Still Image

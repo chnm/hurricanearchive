@@ -21,6 +21,8 @@ files:
     original_filename: Picture 044engineers.jpg
     thumb: /files/thumbnails/14fb2a0fc5a13e14fb2a0fc5a523.jpg
     url: /files/original/14fb2a0fc5a13e14fb2a0fc5a523.jpg
+    alt:
+      en: "Aerial view of an Exxon Mobil refinery complex with storage tanks and industrial units, bordered by a dense residential grid partially flooded, with a river visible at the bottom."
 geo:
 id: 19484
 item_type: Still Image

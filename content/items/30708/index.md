@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7405.JPG
     thumb: /files/thumbnails/14fb29ccc6fc6c14fb29ccc70052.jpg
     url: /files/original/14fb29ccc6fc6c14fb29ccc70052.jpg
+    alt:
+      en: "A fallen tree with dense green leafy branches covers a tan or silver car, crushing its hood and windshield area while surrounding it almost entirely."
 geo:
 id: 30708
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials24.jpg
     thumb: /files/thumbnails/14fb2a19da47d914fb2a19da4bc4.jpg
     url: /files/original/14fb2a19da47d914fb2a19da4bc4.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with torn roofing beside a rural road, surrounded by wooded land and scattered debris piles."
 geo:
 id: 14313
 item_type: Still Image

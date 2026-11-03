@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094-9-25.JPG
     thumb: /files/thumbnails/14fb29e7b132aa14fb29e7b13690.jpg
     url: /files/original/14fb29e7b132aa14fb29e7b13690.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with a large metal-roofed building intact in the foreground, surrounded by destroyed homes, scattered debris, and floodwater throughout the neighborhood."
 geo:
 id: 24439
 item_type: Still Image

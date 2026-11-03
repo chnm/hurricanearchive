@@ -24,6 +24,8 @@ files:
     original_filename: JA 9 Catillion 1946_d245560b23.jpg
     thumb: /files/thumbnails/14fb29d833da4b14fb29d833de31.jpg
     url: /files/original/14fb29d833da4b14fb29d833de31.jpg
+    alt:
+      en: "A young woman smiles for the camera in a voluminous, tiered ruffled cotillion ball gown with puffed sleeves and a pendant necklace, standing indoors near a sign reading \"HOURS.\""
 geo:
   address: ''
   lat: 29.87876

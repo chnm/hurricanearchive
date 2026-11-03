@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1002Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f928b2e314fb29f928bab6.jpg
     url: /files/original/14fb29f928b2e314fb29f928bab6.jpg
+    alt:
+      en: "Military camouflage pickup truck and a white police car with lights on cross an intersection near brick buildings, with a Humvee and traffic signals showing red in the background under a cloudy sky."
 geo:
 id: 22195
 item_type: Still Image

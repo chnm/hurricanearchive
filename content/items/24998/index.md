@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1520superdome.JPG
     thumb: /files/thumbnails/14fb29e31a38e314fb29e31a3bef.jpg
     url: /files/original/14fb29e31a38e314fb29e31a3bef.jpg
+    alt:
+      en: "Military personnel load duffel bags and gear near a Black Hawk helicopter (tail number 585) parked on a tarmac, with palm trees and a multi-story building visible in the background."
 geo:
 id: 24998
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010033.JPG
     thumb: /files/thumbnails/14fb2a5755734714fb2a5755772c.jpg
     url: /files/original/14fb2a5755734714fb2a5755772c.jpg
+    alt:
+      en: "Aerial view through an aircraft window of a flattened coastal town, with debris-strewn lots, bare trees, and standing floodwater stretching to the horizon."
 geo:
 id: 4162
 item_type: Still Image

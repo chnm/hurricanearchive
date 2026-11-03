@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (87).JPG
     thumb: /files/thumbnails/14fb2a5d16449914fb2a5d16486f.jpg
     url: /files/original/14fb2a5d16449914fb2a5d16486f.jpg
+    alt:
+      en: "View from inside a vehicle on a tree-lined street showing a flatbed truck hauling heavy equipment, with a large \"disaster relief\" trailer and other vehicles ahead in traffic."
 geo:
 id: 3241
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: guarding_bb24f5229b.jpg
     thumb: /files/thumbnails/14fb29c57a660c14fb29c57a69f1.jpg
     url: /files/original/14fb29c57a660c14fb29c57a69f1.jpg
+    alt:
+      en: "A large tanker trailer labeled \"Militia guarding the fuel truck\" sits parked near a building, with a uniformed figure standing nearby and a dark vehicle in the foreground."
 geo:
 id: 36394
 item_type: Still Image

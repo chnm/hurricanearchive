@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0231-21.JPG
     thumb: /files/thumbnails/14fb29ff5d6e5f14fb29ff5da0d6.jpg
     url: /files/original/14fb29ff5d6e5f14fb29ff5da0d6.jpg
+    alt:
+      en: "Aerial view of a city skyline with high-rise buildings including the Marriott and Sheraton hotels and Hotel Monteleone, overlooking dense rows of lower rooftops in the foreground under a hazy sky."
 geo:
 id: 21337
 item_type: Still Image

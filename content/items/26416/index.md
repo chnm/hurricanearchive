@@ -24,6 +24,8 @@ files:
     original_filename: NH_54dbfe5164. Young man PCT.jpg
     thumb: /files/thumbnails/14fb29d8786c6d14fb29d8787268.jpg
     url: /files/original/14fb29d8786c6d14fb29d8787268.jpg
+    alt:
+      en: "Vintage photograph of a young man in a light-colored suit and hat, holding gloves and a cane, posing in front of a painted studio backdrop."
 geo:
   address: ''
   lat: 29.91685

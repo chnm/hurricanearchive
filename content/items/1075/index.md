@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27956.jpg
     thumb: /files/thumbnails/14fb2a6b2d065814fb2a6b2d09a3.jpg
     url: /files/original/14fb2a6b2d065814fb2a6b2d09a3.jpg
+    alt:
+      en: "Exterior of the Superdome with its curved metal roof panels, a water tanker truck, a red dumpster, and an empty folding cot in the foreground on a debris-strewn lot."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 093engineers.jpg
     thumb: /files/thumbnails/14fb2a0f74c74f14fb2a0f74cb35.jpg
     url: /files/original/14fb2a0f74c74f14fb2a0f74cb35.jpg
+    alt:
+      en: "Aerial reconnaissance photo of Lake Forest Mall in Orleans Parish, showing the mall building, parking lots, and surrounding streets, with overlaid labels for I-10 and Read Blvd."
 geo:
 id: 19533
 item_type: Still Image

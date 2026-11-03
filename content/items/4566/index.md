@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0768.JPG
     thumb: /files/thumbnails/14fb2a56fcc79614fb2a56fccb50.jpg
     url: /files/original/14fb2a56fcc79614fb2a56fccb50.jpg
+    alt:
+      en: "A bent flagpole still flying an American flag leans over storm debris near a damaged waterfront pavilion, with scattered wreckage and bare trees in the foreground."
 geo:
 id: 4566
 item_type: Still Image

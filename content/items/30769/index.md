@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7650.JPG
     thumb: /files/thumbnails/14fb29cc8c5ea114fb29cc8c627f.jpg
     url: /files/original/14fb29cc8c5ea114fb29cc8c627f.jpg
+    alt:
+      en: "A gravel road lined with storm-damaged trees and debris, with a silver minivan parked beside a wooden \"Woods Hole Inn\" sign amid fallen branches and uprooted stumps."
 geo:
 id: 30769
 item_type: Still Image

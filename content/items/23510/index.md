@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0146abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef28252a14fb29ef282910.jpg
     url: /files/original/14fb29ef28252a14fb29ef282910.jpg
+    alt:
+      en: "Floodwater submerges a field, with debris including furniture, appliances, and household items scattered across the surface; bare, storm-damaged trees line the horizon under an overcast sky."
 geo:
 id: 23510
 item_type: Still Image

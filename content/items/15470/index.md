@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_JohanLowe_05_78c591487b.jpg
     thumb: /files/thumbnails/14fb2a16333afe14fb2a16333ee7.jpg
     url: /files/original/14fb2a16333afe14fb2a16333ee7.jpg
+    alt:
+      en: "A young boy stands smiling in a formal outfit with a lavender satin vest and bow tie, white shirt, shorts, and knee-high socks, posed in front of sheer white curtains."
 geo:
 id: 15470
 item_type: Still Image

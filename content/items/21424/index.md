@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0253-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fed6950914fb29fed69686.jpg
     url: /files/original/14fb29fed6950914fb29fed69686.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with homes submerged to roofline, streets and yards underwater, power lines poking above the floodwater, and vehicles parked on a partially flooded driveway."
 geo:
 id: 21424
 item_type: Still Image

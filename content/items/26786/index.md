@@ -21,6 +21,8 @@ files:
     original_filename: SD wedding 1950s_22b23d3dbd. 2 TIF.jpg
     thumb: /files/thumbnails/14fb29d7cdb5b614fb29d7cdb994.jpg
     url: /files/original/14fb29d7cdb5b614fb29d7cdb994.jpg
+    alt:
+      en: "Black-and-white photo of John A. Donner, his son Alvin F. Donner, and Clothilde R. Donner standing together in front of a house, all dressed formally for Alvin's wedding day."
 geo:
   address: ''
   lat: 29.91685

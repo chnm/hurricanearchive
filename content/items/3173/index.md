@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (25).JPG
     thumb: /files/thumbnails/14fb2a5d75d93614fb2a5d75dd17.jpg
     url: /files/original/14fb2a5d75d93614fb2a5d75dd17.jpg
+    alt:
+      en: "Storm-damaged street scene with debris scattered across a cracked road and sidewalk, palm trees in front of houses, and a white car parked amid fallen branches."
 geo:
 id: 3173
 item_type: Still Image

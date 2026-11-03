@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4972_deb9ae709c.jpg
     thumb: /files/thumbnails/14fb2a1e220c9d14fb2a1e221083.jpg
     url: /files/original/14fb2a1e220c9d14fb2a1e221083.jpg
+    alt:
+      en: "Seven family members pose together indoors against wood-paneled walls, with one woman holding a cordless telephone; the group includes men and women of varying ages, smiling for the camera."
 geo:
 id: 13381
 item_type: Still Image

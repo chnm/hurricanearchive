@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0409.JPG
     thumb: /files/thumbnails/14fb2a542a97c714fb2a542a9bad.jpg
     url: /files/original/14fb2a542a97c714fb2a542a9bad.jpg
+    alt:
+      en: "A yellow tape measure stretched across a wooden post, showing markings from 1 to 8 inches, with a chain-link fence and wooden steps visible in the background."
 geo:
 id: 5064
 item_type: Still Image

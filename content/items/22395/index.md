@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1227Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6be58e314fb29f6be5cc8.jpg
     url: /files/original/14fb29f6be58e314fb29f6be5cc8.jpg
+    alt:
+      en: "Floodwaters nearly submerge a neighborhood, with only rooftops and chimneys visible above the water; debris and an overturned appliance float nearby amid heavy rain."
 geo:
 id: 22395
 item_type: Still Image

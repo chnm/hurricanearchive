@@ -21,6 +21,8 @@ files:
     original_filename: P1010018delaware.JPG
     thumb: /files/thumbnails/14fb29f0dde67b14fb29f0ddedc2.jpg
     url: /files/original/14fb29f0dde67b14fb29f0ddedc2.jpg
+    alt:
+      en: "A military cargo plane with its rear ramp lowered sits on an airfield tarmac, as a group of uniformed personnel gather near the open hatch while a photographer records the scene."
 geo:
 id: 23198
 item_type: Still Image

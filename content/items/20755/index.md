@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0071M.JPG
     thumb: /files/thumbnails/14fb2a0417534e14fb2a04175734.jpg
     url: /files/original/14fb2a0417534e14fb2a04175734.jpg
+    alt:
+      en: "Woman in U.S. Army woodland camouflage uniform with \"PRECHTER\" nametape and black boots, smiling while standing in a hallway with glass doors and staircase visible behind her."
 geo:
 id: 20755
 item_type: Still Image

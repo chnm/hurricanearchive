@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036rita.JPG
     thumb: /files/thumbnails/14fb2a11aa524214fb2a11aa5628.jpg
     url: /files/original/14fb2a11aa524214fb2a11aa5628.jpg
+    alt:
+      en: "A woman wearing glasses, a dark cap, and a gray t-shirt sits inside the open cargo door of a military helicopter, smiling toward the camera."
 geo:
 id: 19242
 item_type: Still Image

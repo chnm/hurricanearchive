@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0203.JPG
     thumb: /files/thumbnails/14fb2a0995ed7a14fb2a0995f2f6.jpg
     url: /files/original/14fb2a0995ed7a14fb2a0995f2f6.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood with only bare foundation slabs remaining, scattered debris, standing floodwater, downed trees, wrecked cars, and a military Humvee on the street."
 geo:
 id: 20309
 item_type: Still Image

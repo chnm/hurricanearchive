@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8926.jpg
     thumb: /files/thumbnails/14fb2a6539671614fb2a65396adb.jpg
     url: /files/original/14fb2a6539671614fb2a65396adb.jpg
+    alt:
+      en: "Stacked rows of crushed, compacted refrigerators and scrap metal bales form a large wall-like mound at a disaster debris dump, with trees visible in the background."
 geo:
 id: 2564
 item_type: Still Image

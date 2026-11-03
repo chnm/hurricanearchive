@@ -21,6 +21,8 @@ files:
     original_filename: london-cnal10-29-2.JPG
     thumb: /files/thumbnails/14fb2a2165ef2d14fb2a2165f6fa.jpg
     url: /files/original/14fb2a2165ef2d14fb2a2165f6fa.jpg
+    alt:
+      en: "Several cars are buried in thick sand and debris in front of a house, with downed trees and a hazy sky in the background."
 geo:
 id: 12860
 item_type: Still Image

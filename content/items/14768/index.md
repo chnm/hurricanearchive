@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_ErykahMorris_04_e672052f31.jpg
     thumb: /files/thumbnails/14fb2a17d5c9d314fb2a17d5cdb9.jpg
     url: /files/original/14fb2a17d5c9d314fb2a17d5cdb9.jpg
+    alt:
+      en: "Vintage photo of a woman with curly hair in a yellow floral top smiling down at a baby wearing a matching headband, both surrounded by soft white fabric or fur."
 geo:
 id: 14768
 item_type: Still Image

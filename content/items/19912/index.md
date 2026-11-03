@@ -21,6 +21,8 @@ files:
     original_filename: Picture 008cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c83e5f414fb2a0c83e9db.jpg
     url: /files/original/14fb2a0c83e5f414fb2a0c83e9db.jpg
+    alt:
+      en: "Row of brick Tudor-style townhomes with storm-damaged trees, broken branches, and scattered leaves on the lawn; a concrete utility pole stands in the foreground under a clear blue sky."
 geo:
 id: 19912
 item_type: Still Image

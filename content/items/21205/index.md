@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0197-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a00022e7214fb2a00023258.jpg
     url: /files/original/14fb2a00022e7214fb2a00023258.jpg
+    alt:
+      en: "Two people walk along a paved path near industrial buildings and large concrete silos marked \"VFC,\" with red pipes and metal structures in the background."
 geo:
 id: 21205
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-12-11AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f94bccd514fb29f94bd0bb.jpg
     url: /files/original/14fb29f94bccd514fb29f94bd0bb.jpg
+    alt:
+      en: "Severe flooding submerges several vehicles up to their windows in a parking area, with murky brown floodwater churning in heavy rain and a person's hand gesturing in the foreground."
 geo:
 id: 22159
 item_type: Still Image

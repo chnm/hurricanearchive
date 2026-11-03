@@ -21,6 +21,8 @@ files:
     original_filename: SD wedding 1950s_bb776ad229.jpg
     thumb: /files/thumbnails/14fb29d7ccf65514fb29d7ccfa3c.jpg
     url: /files/original/14fb29d7ccf65514fb29d7ccfa3c.jpg
+    alt:
+      en: "Black-and-white photo of a man in a suit and a woman in a hat and corsage standing arm-in-arm in front of a house, Algiers, Louisiana, 1950s."
 geo:
   address: ''
   lat: 29.95493

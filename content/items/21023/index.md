@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0171-21.JPG
     thumb: /files/thumbnails/14fb2a0107193d14fb2a01071d3e.jpg
     url: /files/original/14fb2a0107193d14fb2a01071d3e.jpg
+    alt:
+      en: "A large pile of discarded household items—including a red mattress pad, blue pool noodles, scissors, a beach mat, and green cots—sits curbside in front of a brick house."
 geo:
 id: 21023
 item_type: Still Image

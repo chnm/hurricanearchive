@@ -21,6 +21,8 @@ files:
     original_filename: 8196926-R1-002-00A.jpg
     thumb: /files/thumbnails/14fb29cf8e41da14fb29cf8e45bd.jpg
     url: /files/original/14fb29cf8e41da14fb29cf8e45bd.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with rooftops and treetops poking above brown floodwater, extending toward a river and distant unflooded city in the background."
 geo:
 id: 29106
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0174-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a00a6165314fb2a00a61a31.jpg
     url: /files/original/14fb2a00a6165314fb2a00a61a31.jpg
+    alt:
+      en: "Floodwaters surround a carport structure and mobile home, with a mailbox partially submerged in the foreground and bare trees silhouetted against a dim sky."
 geo:
 id: 21085
 item_type: Still Image

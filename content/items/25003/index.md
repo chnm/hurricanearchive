@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1525superdome.JPG
     thumb: /files/thumbnails/14fb29e301c18c14fb29e301ca4c.jpg
     url: /files/original/14fb29e301c18c14fb29e301ca4c.jpg
+    alt:
+      en: "A military medevac helicopter with a red cross marking hovers over a parking lot, with a large plume of black smoke rising behind it near an elevated highway and overpass."
 geo:
 id: 25003
 item_type: Still Image

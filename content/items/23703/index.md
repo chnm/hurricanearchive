@@ -21,6 +21,8 @@ files:
     original_filename: P1010144empireS&R.JPG
     thumb: /files/thumbnails/14fb29edb631a614fb29edb642f8.jpg
     url: /files/original/14fb29edb631a614fb29edb642f8.jpg
+    alt:
+      en: "Flooded street with leaning utility poles and tangled wires, a partially submerged \"Polling Place\" sign, and storm debris including a damaged building and boat near the waterline."
 geo:
 id: 23703
 item_type: Still Image

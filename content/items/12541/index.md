@@ -24,6 +24,8 @@ files:
     original_filename: bag-lady_c2b4b58491.jpg
     thumb: /files/thumbnails/14fb2a2209f15614fb2a2209f53c.jpg
     url: /files/original/14fb2a2209f15614fb2a2209f53c.jpg
+    alt:
+      en: "A person sits on a concrete barrier beneath a guardrail, wearing a hooded jacket and cap, surrounded by plastic milk crates, garbage bags, and clothing, with a plastic bag held in their hands."
 geo:
 id: 12541
 item_type: Still Image

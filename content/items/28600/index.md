@@ -23,6 +23,8 @@ files:
     original_filename: 162358687_aac60c88b1.jpg
     thumb: /files/thumbnails/14fb29d22b185814fb29d22b1c4a.jpg
     url: /files/original/14fb29d22b185814fb29d22b1c4a.jpg
+    alt:
+      en: "A long metal building with its roof painted as an American flag, standing in a grassy lot with power lines and a muddy pool of water in the foreground."
 geo:
 id: 28600
 item_type: Still Image

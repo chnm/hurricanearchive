@@ -24,6 +24,8 @@ files:
     original_filename: P1010146.JPG
     thumb: /files/thumbnails/14fb2a5ac42c6414fb2a5ac4304a.jpg
     url: /files/original/14fb2a5ac42c6414fb2a5ac4304a.jpg
+    alt:
+      en: "A massive pile of storm debris including a maroon office chair, insulation, broken wood, plastic containers, and a red plastic toy or container, set against a clear blue sky."
 geo:
 id: 3571
 item_type: Still Image

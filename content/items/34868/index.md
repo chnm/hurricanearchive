@@ -20,6 +20,8 @@ files:
     original_filename: 2456732511_734ee552e7.
     thumb: /files/thumbnails/14fb29c8dbc9d314fb29c8dbcdb8.jpg
     url: /files/original/14fb29c8dbc9d314fb29c8dbcdb8.jpg
+    alt:
+      en: "A large black and white semi-truck with a dump trailer parked on a paved road, with a surveyor's orange marker stake in the foreground amid dry grass and trees lining the horizon."
 geo:
 id: 34868
 item_type: Still Image

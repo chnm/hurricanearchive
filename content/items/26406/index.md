@@ -21,6 +21,8 @@ files:
     original_filename: HS 5 AIrline Hwy 1940s_1c3846a6e9.jpg
     thumb: /files/thumbnails/14fb29d8924c7614fb29d8924fac.jpg
     url: /files/original/14fb29d8924c7614fb29d8924fac.jpg
+    alt:
+      en: "Weathered sepia-toned photo of a two-lane highway with vintage cars and trucks, utility poles, billboards, and a \"Regal's\" sign near roadside businesses, with railroad tracks in the foreground."
 geo:
   address: ''
   lat: 29.87876

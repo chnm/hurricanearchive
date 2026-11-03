@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (83).jpg
     thumb: /files/thumbnails/14fb2a5c67aefb14fb2a5c67b2e1.jpg
     url: /files/original/14fb2a5c67aefb14fb2a5c67b2e1.jpg
+    alt:
+      en: "Yellow and black building with \"FD\" and \"Fats Domino Publishing\" signage at 1208, two mud-caked cars parked out front, cracked dried mud covering the ground, and a spray-painted X marking on the porch wall."
 geo:
 id: 3325
 item_type: Still Image

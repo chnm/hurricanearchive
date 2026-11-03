@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28746.jpg
     thumb: /files/thumbnails/14fb2a6cb22ff714fb2a6cb233dd.jpg
     url: /files/original/14fb2a6cb22ff714fb2a6cb233dd.jpg
+    alt:
+      en: "A yellow and white snake coiled inside a purple plastic \"Petmate Kennel Cab\" pet carrier, visible through its wire door with a pink leash attached."
 geo:
   address: ''
   lat: 0.0

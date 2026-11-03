@@ -21,6 +21,8 @@ files:
     original_filename: 100-17_3dae9cfdea.jpg
     thumb: /files/thumbnails/14fb2a21d61bee14fb2a21d61fd5.jpg
     url: /files/original/14fb2a21d61bee14fb2a21d61fd5.jpg
+    alt:
+      en: "An older man in a plaid shirt sits at a table with a pink tablecloth, while a woman in a yellow blouse stands behind him, near a window and potted plants."
 geo:
 id: 12669
 item_type: Still Image

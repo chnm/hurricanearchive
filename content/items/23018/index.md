@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028OEP.JPG
     thumb: /files/thumbnails/14fb29f20d8a7614fb29f20d8e62.jpg
     url: /files/original/14fb29f20d8a7614fb29f20d8e62.jpg
+    alt:
+      en: "Parking lot filled with cars, RVs with satellite dishes, trucks, and a white tent, set against a brick building and tree-lined hills in the background."
 geo:
 id: 23018
 item_type: Still Image

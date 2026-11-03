@@ -27,6 +27,8 @@ files:
     original_filename: The Tragic Of Storm Katrina
     thumb: /files/thumbnails/14fb2a602960dd14fb2a602964b6.jpg
     url: /files/original/14fb2a602960dd14fb2a602964b6.jpg
+    alt:
+      en: "Child's marker drawing titled \"The Tragic Of Storm Katrina\" showing a windmill beside a textured dark patterned structure, with wavy blue and black lines representing floodwater below; signed \"Reginald, Age 14, Sept 14-05.\""
 geo:
 id: 2795
 item_type: Still Image

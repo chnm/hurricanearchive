@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0085-9-25.JPG
     thumb: /files/thumbnails/14fb2a0381ea3014fb2a0381f247.jpg
     url: /files/original/14fb2a0381ea3014fb2a0381f247.jpg
+    alt:
+      en: "Aerial view of a flooded coastal community with debris-strewn, waterlogged streets, scattered storm-damaged structures, leafless trees, and a communications tower rising above the surrounding marshland."
 geo:
 id: 20820
 item_type: Still Image

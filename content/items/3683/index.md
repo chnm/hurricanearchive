@@ -24,6 +24,8 @@ files:
     original_filename: P1010122.JPG
     thumb: /files/thumbnails/14fb2a5a243f7d14fb2a5a24526d.jpg
     url: /files/original/14fb2a5a243f7d14fb2a5a24526d.jpg
+    alt:
+      en: "A wrought-iron fence snagged with mattresses, fabric, and debris stands in front of a damaged brick building with its roof partially torn open, surrounded by scattered rubble and litter."
 geo:
 id: 3683
 item_type: Still Image

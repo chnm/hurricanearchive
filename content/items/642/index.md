@@ -26,6 +26,8 @@ files:
     original_filename: bagdad_rd_before_and_after_40f754a199.jpg
     thumb: /files/thumbnails/14fb2a6f4ca63214fb2a6f4caa2e.jpg
     url: /files/original/14fb2a6f4ca63214fb2a6f4caa2e.jpg
+    alt:
+      en: "Before-and-after views of a white house: the top photo shows a tidy lawn and porch, while the bottom photo shows a large fallen tree crushing the roof and scattering debris across the yard."
 geo:
   address: ''
   lat: 30.254396476749502

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 104cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bb5f2d714fb2a0bb5f6d3.jpg
     url: /files/original/14fb2a0bb5f2d714fb2a0bb5f6d3.jpg
+    alt:
+      en: "Sideways photo (rotated 90 degrees) of a gravel road lined with utility poles and power lines, with green grass, trees, and a blue sky with scattered clouds in the background."
 geo:
 id: 20007
 item_type: Still Image

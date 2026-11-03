@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0199-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fff582f214fb29fff586e2.jpg
     url: /files/original/14fb29fff582f214fb29fff586e2.jpg
+    alt:
+      en: "Aerial view (sideways-oriented photo) of a devastated residential area with foundations stripped bare, scattered debris, a stranded vehicle, and downed trees, with partially intact homes visible in the background."
 geo:
 id: 21215
 item_type: Still Image

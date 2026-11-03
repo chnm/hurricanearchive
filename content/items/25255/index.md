@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1982superdome.JPG
     thumb: /files/thumbnails/14fb29e01e884d14fb29e01e92f7.jpg
     url: /files/original/14fb29e01e884d14fb29e01e92f7.jpg
+    alt:
+      en: "Rear view of a CH-47 Chinook helicopter with rear loading ramp down, parked on a wet tarmac with a multi-story building and billboard in the background."
 geo:
 id: 25255
 item_type: Still Image

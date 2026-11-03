@@ -21,6 +21,8 @@ files:
     original_filename: Picture 225cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b2848eb14fb2a0b284cd1.jpg
     url: /files/original/14fb2a0b2848eb14fb2a0b284cd1.jpg
+    alt:
+      en: "Two men in camouflage pants clear a fallen tree blocking a road, one shirtless operating a chainsaw while the other watches; military vehicles are parked in the background."
 geo:
 id: 20128
 item_type: Still Image

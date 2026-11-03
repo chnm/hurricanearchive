@@ -27,6 +27,8 @@ files:
     original_filename: 2326882748_9547df3cb2.
     thumb: /files/thumbnails/14fb29c9b9b0e514fb29c9b9b4ca.jpg
     url: /files/original/14fb29c9b9b0e514fb29c9b9b4ca.jpg
+    alt:
+      en: "A sailboat lists heavily near a damaged dock piled with scattered lumber and debris, with waterfront homes and another boat visible along the shoreline in the background."
 geo:
   address: ''
   lat: 30.22586

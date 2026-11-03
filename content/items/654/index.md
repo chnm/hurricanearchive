@@ -26,6 +26,8 @@ files:
     original_filename: 019_17_9dd2a35bc2.jpg
     thumb: /files/thumbnails/14fb2a6f379a8014fb2a6f379e65.jpg
     url: /files/original/14fb2a6f379a8014fb2a6f379e65.jpg
+    alt:
+      en: "Devastated street in New Orleans's Ninth Ward with collapsed houses and debris, leaning utility poles, and an orange \"N.O.P.D. Police Line Do Not Cross\" barricade blocking the road."
 geo:
   address: ''
   lat: 29.9650477144129

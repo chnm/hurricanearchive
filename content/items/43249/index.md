@@ -20,6 +20,8 @@ files:
     original_filename: livingroom2_5a53e02d71.jpg
     thumb: /files/thumbnails/14fb29c215f07714fb29c215f454.jpg
     url: /files/original/14fb29c215f07714fb29c215f454.jpg
+    alt:
+      en: "Devastated family room coated in dried mud, with overturned furniture, a collapsed built-in shelving unit, and debris scattered across the floor after flooding."
 geo:
   address: 3825 Palmisano Blvd.
   lat: 29.95151

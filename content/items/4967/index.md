@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0309.JPG
     thumb: /files/thumbnails/14fb2a54be3eda14fb2a54be42bf.jpg
     url: /files/original/14fb2a54be3eda14fb2a54be42bf.jpg
+    alt:
+      en: "Storm-damaged wooded lot with a leaning, broken tree trunk, scattered fallen branches and browned foliage, behind a chain-link fence and rusty metal pipe railing."
 geo:
 id: 4967
 item_type: Still Image

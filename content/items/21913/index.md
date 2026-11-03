@@ -21,6 +21,8 @@ files:
     original_filename: UNO - South Side of Campus.jpg
     thumb: /files/thumbnails/14fb29fb09535314fb29fb095710.jpg
     url: /files/original/14fb29fb09535314fb29fb095710.jpg
+    alt:
+      en: "Aerial view of a flooded university campus and surrounding neighborhood, with buildings, trees, and streets submerged in brown floodwater; a dense grid of rooftops extends into the distance."
 geo:
 id: 21913
 item_type: Still Image

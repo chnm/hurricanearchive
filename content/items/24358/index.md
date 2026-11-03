@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-06-4A.jpg
     thumb: /files/thumbnails/14fb29e877507b14fb29e8775443.jpg
     url: /files/original/14fb29e877507b14fb29e8775443.jpg
+    alt:
+      en: "Floodwater fills the lower level of a white two-story building with balconies, where three people stand on the upper gallery, one waving, as the ground floor below remains submerged."
 geo:
 id: 24358
 item_type: Still Image

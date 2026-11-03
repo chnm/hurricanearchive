@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0158-21.JPG
     thumb: /files/thumbnails/14fb2a013d775514fb2a013d7dd5.jpg
     url: /files/original/14fb2a013d775514fb2a013d7dd5.jpg
+    alt:
+      en: "A U.S. Army soldier in woodland camouflage uniform with a name tape reading \"RAYL\" and an American flag patch stands on a roadway, wearing sunglasses and a cap, with vehicles and trees in the background."
 geo:
 id: 20967
 item_type: Still Image

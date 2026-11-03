@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9561.jpg
     thumb: /files/thumbnails/14fb2a643ada2714fb2a643ade0c.jpg
     url: /files/original/14fb2a643ada2714fb2a643ade0c.jpg
+    alt:
+      en: "A badly crushed blue car lies buried in debris outside a brick building with broken windows and a basketball hoop, surrounded by scattered wood and wreckage."
 geo:
 id: 2608
 item_type: Still Image

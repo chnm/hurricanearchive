@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0166-21.JPG
     thumb: /files/thumbnails/14fb2a011d4dd014fb2a011d5293.jpg
     url: /files/original/14fb2a011d4dd014fb2a011d5293.jpg
+    alt:
+      en: "Debris-strewn residential street lined with trees and power lines, a parked van and SUV along the curb, and discarded mattresses piled on the roadside; a \"Speed Limit 25\" sign stands near the sidewalk."
 geo:
 id: 21004
 item_type: Still Image

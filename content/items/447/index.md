@@ -26,6 +26,8 @@ files:
     original_filename: fema_trailer_2a02ed65ca.JPG
     thumb: /files/thumbnails/14fb2a6fda2f6514fb2a6fda3349.jpg
     url: /files/original/14fb2a6fda2f6514fb2a6fda3349.jpg
+    alt:
+      en: "A hand-drawn, brightly colored illustration of a white camper trailer decorated with Christmas garlands, lights, and a wreath, with Santa Claus climbing onto its snowy roof at night."
 geo:
   address: ''
   lat: 30.446993

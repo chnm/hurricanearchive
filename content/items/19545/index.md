@@ -21,6 +21,8 @@ files:
     original_filename: Picture 019zephyrfield.jpg
     thumb: /files/thumbnails/14fb2a0f50f0ed14fb2a0f50f5d7.jpg
     url: /files/original/14fb2a0f50f0ed14fb2a0f50f5d7.jpg
+    alt:
+      en: "A woman in a safety vest and camouflage pants stands beside stacked boxes of diapers and relief supplies on a grassy field, with a stadium grandstand visible in the background."
 geo:
 id: 19545
 item_type: Still Image

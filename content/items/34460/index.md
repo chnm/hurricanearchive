@@ -20,6 +20,8 @@ files:
     original_filename: 2326067347_28293cc499.
     thumb: /files/thumbnails/14fb29c9eb733714fb29c9eb771d.jpg
     url: /files/original/14fb29c9eb733714fb29c9eb771d.jpg
+    alt:
+      en: "Storm-damaged buildings with collapsed roofing and scattered debris surround an open grassy lot, with utility poles and wires crossing a cloudy sky overhead."
 geo:
   address: ''
   lat: 30.22586

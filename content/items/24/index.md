@@ -26,6 +26,8 @@ files:
     original_filename: foto14_3bb58f0fb9.jpg
     thumb: /files/thumbnails/14fb2a7146257a14fb2a71462959.jpg
     url: /files/original/14fb2a7146257a14fb2a71462959.jpg
+    alt:
+      en: "Aerial view of a flooded New Orleans neighborhood, rows of submerged houses and streets extending toward a river and distant downtown skyline under a hazy sky."
 geo:
   address: ''
   lat: 29.951082

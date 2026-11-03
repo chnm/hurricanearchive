@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_DOLPHIN_RESCUE_05C8Y_c864ad0bd2.jpg
     thumb: /files/thumbnails/14fb2a66d1791614fb2a66d17cf2.jpg
     url: /files/original/14fb2a66d1791614fb2a66d17cf2.jpg
+    alt:
+      en: "Several people wade through murky, debris-filled floodwater supporting a large dolphin, while a uniformed serviceman and a woman look on from the water's edge near dead, storm-damaged trees."
 geo:
 id: 2376
 item_type: Still Image

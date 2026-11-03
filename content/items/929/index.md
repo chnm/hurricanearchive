@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28159.jpg
     thumb: /files/thumbnails/14fb2a6c26366d14fb2a6c263b14.jpg
     url: /files/original/14fb2a6c26366d14fb2a6c263b14.jpg
+    alt:
+      en: "Gutted room with exposed wood framing, debris-covered floor, a damaged gold light fixture lying on the ground, and a torn piece of fabric hanging from a broken window."
 geo:
   address: ''
   lat: 0.0

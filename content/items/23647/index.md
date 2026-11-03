@@ -21,6 +21,8 @@ files:
     original_filename: P1010088empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee190bc914fb29ee190fa2.jpg
     url: /files/original/14fb29ee190bc914fb29ee190fa2.jpg
+    alt:
+      en: "Military Humvee with tall antennas stopped on a flooded, debris-strewn road beside a white pickup truck (marked \"2A42\"), with a man leaning against the truck; downed trees and standing floodwater line the roadside."
 geo:
 id: 23647
 item_type: Still Image

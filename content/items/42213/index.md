@@ -23,6 +23,8 @@ files:
     original_filename: Katrina 10_3b71c9ff38.jpg
     thumb: /files/thumbnails/14fb29c2af022a14fb29c2af060f.jpg
     url: /files/original/14fb29c2af022a14fb29c2af060f.jpg
+    alt:
+      en: "Gutted building interior with exposed wood stud framing and ceiling joists, a ceiling fan hanging amid the beams, concrete floor, and bright light entering through a doorway on the left."
 geo:
   address: ''
   lat: 30.02067

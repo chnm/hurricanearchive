@@ -24,6 +24,8 @@ files:
     original_filename: P1010069.JPG
     thumb: /files/thumbnails/14fb2a5a8b933d14fb2a5a8b969b.jpg
     url: /files/original/14fb2a5a8b933d14fb2a5a8b969b.jpg
+    alt:
+      en: "A statue of Mary stands amid yellow planters and dried shrubs, overlooking a withered sego palm with brown fronds spread across the ground nearby."
 geo:
 id: 3634
 item_type: Still Image

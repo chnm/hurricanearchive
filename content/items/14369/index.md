@@ -21,6 +21,8 @@ files:
     original_filename: aerials78.jpg
     thumb: /files/thumbnails/14fb2a198e24df14fb2a198e28d0.jpg
     url: /files/original/14fb2a198e24df14fb2a198e28d0.jpg
+    alt:
+      en: "Aerial view of a residential apartment complex with multiple buildings showing storm-damaged roofs, surrounded by curving access roads, parking areas, and dense tree cover."
 geo:
 id: 14369
 item_type: Still Image

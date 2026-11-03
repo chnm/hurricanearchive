@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0291_5b5483d41e.JPG
     thumb: /files/thumbnails/14fb2a7002f90014fb2a7002fcdb.jpg
     url: /files/original/14fb2a7002f90014fb2a7002fcdb.jpg
+    alt:
+      en: "Close-up of a bus exterior with a red-and-white striped panel and a painted American flag decal, the metal surface streaked with grime and a visible flood line crossing through the flag."
 geo:
   address: ''
   lat: 29.9549345496561

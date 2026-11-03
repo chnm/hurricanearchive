@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0058-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0507fe8114fb2a0508023b.jpg
     url: /files/original/14fb2a0507fe8114fb2a0508023b.jpg
+    alt:
+      en: "A white house with a brown roof sits partially submerged in floodwater, with a small boat moored beside it and trees and a utility pole visible in the background."
 geo:
 id: 20689
 item_type: Still Image

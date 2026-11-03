@@ -24,6 +24,8 @@ files:
     original_filename: P1010115.JPG
     thumb: /files/thumbnails/14fb2a5af0704d14fb2a5af0743f.jpg
     url: /files/original/14fb2a5af0704d14fb2a5af0743f.jpg
+    alt:
+      en: "Storm-damaged blue storefront of T-H Grocery at 3700 Clematis St, with upper floor siding stripped to plywood, painted seafood platter and poboy signs, boarded door, and \"No Loitering\" sign in barred window."
 geo:
 id: 3539
 item_type: Still Image

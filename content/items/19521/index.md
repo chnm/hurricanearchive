@@ -21,6 +21,8 @@ files:
     original_filename: Picture 081engineers.jpg
     thumb: /files/thumbnails/14fb2a0f93b41e14fb2a0f93b7fc.jpg
     url: /files/original/14fb2a0f93b41e14fb2a0f93b7fc.jpg
+    alt:
+      en: "Aerial view of the Houma, LA Civic Center complex with large parking lots, a river, surrounding neighborhoods, and fields, dated 09/05/2005."
 geo:
 id: 19521
 item_type: Still Image

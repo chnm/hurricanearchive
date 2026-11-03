@@ -21,6 +21,8 @@ files:
     original_filename: MVC-013S.JPG
     thumb: /files/thumbnails/14fb2a5f76db1014fb2a5f76def6.jpg
     url: /files/original/14fb2a5f76db1014fb2a5f76def6.jpg
+    alt:
+      en: "Interior of an industrial or military vessel showing a large round hatch with a spoked wheel, flanked by red-outlined square hatches, pipes, and weathered metal paneling."
 geo:
 id: 2958
 item_type: Still Image

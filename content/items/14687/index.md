@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_AshleyHendersen_02_1a1f831431.jpg
     thumb: /files/thumbnails/14fb2a182e5b7c14fb2a182ef568.jpg
     url: /files/original/14fb2a182e5b7c14fb2a182ef568.jpg
+    alt:
+      en: "A young girl wearing a white blouse and navy jumper stands near a microphone stand, glancing to the side with a slight smile, against a wood-paneled wall."
 geo:
 id: 14687
 item_type: Still Image

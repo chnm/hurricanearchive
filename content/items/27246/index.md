@@ -20,6 +20,8 @@ files:
     original_filename: Breach from 17th ST bridge.JPG
     thumb: /files/thumbnails/14fb29d5a8524c14fb29d5a85632.jpg
     url: /files/original/14fb29d5a8524c14fb29d5a85632.jpg
+    alt:
+      en: "A barge-mounted crane with extended articulated arm sits in a canal lined with riprap and concrete floodwalls, viewed from atop a bridge railing under bright sunlight."
 geo:
 id: 27246
 item_type: Still Image

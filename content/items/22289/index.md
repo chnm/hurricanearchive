@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1100Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7ecb66114fb29f7ecba47.jpg
     url: /files/original/14fb29f7ecb66114fb29f7ecba47.jpg
+    alt:
+      en: "Heavy flooding engulfs a street during a storm, with murky water covering a submerged vehicle in the foreground and buildings barely visible through dense rain and fog in the background."
 geo:
 id: 22289
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: P1010096empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee0bdb2f14fb29ee0bdf15.jpg
     url: /files/original/14fb29ee0bdb2f14fb29ee0bdf15.jpg
+    alt:
+      en: "Collapsed electrical substation and leaning utility poles with tangled wires beside a debris-strewn roadside, viewed from inside a vehicle with a damaged side mirror."
 geo:
 id: 23655
 item_type: Still Image

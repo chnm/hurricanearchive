@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0126.JPG
     thumb: /files/thumbnails/14fb2a5554f5db14fb2a5554f9c1.jpg
     url: /files/original/14fb2a5554f5db14fb2a5554f9c1.jpg
+    alt:
+      en: "Elevated house with blue vinyl siding on wooden pilings, with one side partially unfinished showing exposed black wrap material, surrounded by a dry, debris-strewn yard and pine trees."
 geo:
 id: 4813
 item_type: Still Image

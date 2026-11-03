@@ -27,6 +27,8 @@ files:
     original_filename: 385028117_9af83616b4.
     thumb: /files/thumbnails/14fb29d2878f9614fb29d2879356.jpg
     url: /files/original/14fb29d2878f9614fb29d2879356.jpg
+    alt:
+      en: "Small house-shaped cutouts made from salvaged political signs stand on wire stakes in a grassy yard, with a brick house and several people gathered on its porch in the background."
 geo:
 id: 28258
 item_type: Still Image

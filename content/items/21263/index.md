@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0210-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ffb64aae14fb29ffb64e97.jpg
     url: /files/original/14fb29ffb64aae14fb29ffb64e97.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood with only foundation slabs remaining, scattered debris, an overturned school bus, and a few surviving houses and trees amid the wreckage."
 geo:
 id: 21263
 item_type: Still Image

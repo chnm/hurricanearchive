@@ -21,6 +21,8 @@ files:
     original_filename: Picture 188cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b5ecdc614fb2a0b5ed1ce.jpg
     url: /files/original/14fb2a0b5ecdc614fb2a0b5ed1ce.jpg
+    alt:
+      en: "Roadside grassy field with scattered uprooted and fallen trees, a metal guardrail in the foreground, and a paved road running alongside under a clear blue sky."
 geo:
 id: 20091
 item_type: Still Image

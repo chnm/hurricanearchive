@@ -21,6 +21,8 @@ files:
     original_filename: P1010019delaware.JPG
     thumb: /files/thumbnails/14fb29f0dcfe1514fb29f0dd01fa.jpg
     url: /files/original/14fb29f0dcfe1514fb29f0dd01fa.jpg
+    alt:
+      en: "Interior view through the open rear cargo ramp of a military aircraft, with a crew member standing at the edge as personnel outside guide a tarp-covered pallet toward the plane on the tarmac."
 geo:
 id: 23199
 item_type: Still Image

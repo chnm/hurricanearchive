@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140018.JPG
     thumb: /files/thumbnails/14fb2a0a78523714fb2a0a7856a1.jpg
     url: /files/original/14fb2a0a78523714fb2a0a7856a1.jpg
+    alt:
+      en: "A dark Ford Ranger pickup truck with a shattered, caved-in windshield parked on a street, with two soldiers in camouflage uniforms standing nearby amid storm debris."
 geo:
 id: 20244
 item_type: Still Image

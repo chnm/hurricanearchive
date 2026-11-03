@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2254engineers.JPG
     thumb: /files/thumbnails/14fb2a109900ac14fb2a10990491.jpg
     url: /files/original/14fb2a109900ac14fb2a10990491.jpg
+    alt:
+      en: "A man wearing a hard hat with an American flag sticker operates a Bobcat skid-steer loader bearing a \"NationsRent\" decal, while a man in camouflage fatigues stands beside the machine."
 geo:
 id: 19391
 item_type: Still Image

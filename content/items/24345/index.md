@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-21-19A.jpg
     thumb: /files/thumbnails/14fb29e8a142bb14fb29e8a1475a.jpg
     url: /files/original/14fb29e8a142bb14fb29e8a1475a.jpg
+    alt:
+      en: "Storm-damaged commercial area with a burned, roofless building in the background and an empty parking lot in the foreground; a partial sign reading \"RAINBOW LANES WEST\" is visible on the right."
 geo:
 id: 24345
 item_type: Still Image

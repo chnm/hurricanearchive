@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2023superdome.JPG
     thumb: /files/thumbnails/14fb29df55583914fb29df555c1f.jpg
     url: /files/original/14fb29df55583914fb29df555c1f.jpg
+    alt:
+      en: "Military personnel assist elderly evacuees, one in a pink hospital gown, toward the open loading ramp of a helicopter, with a wheelchair nearby on the wet pavement."
 geo:
 id: 25296
 item_type: Still Image

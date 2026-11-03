@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1238Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6b08e7214fb29f6b09257.jpg
     url: /files/original/14fb29f6b08e7214fb29f6b09257.jpg
+    alt:
+      en: "Military personnel in fatigues and brown t-shirts gather around a conference table covered with papers, notebooks, and charts, with \"Conference Room\" and \"Authorized Personnel Only\" signs visible on doors in the background."
 geo:
 id: 22406
 item_type: Still Image

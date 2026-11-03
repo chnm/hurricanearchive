@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0230-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ff73b40a14fb29ff748295.jpg
     url: /files/original/14fb29ff73b40a14fb29ff748295.jpg
+    alt:
+      en: "Aerial view of a murky waterway with an iridescent oil sheen spreading across its surface, bordered by dense green trees and a small structure on the shoreline."
 geo:
 id: 21333
 item_type: Still Image

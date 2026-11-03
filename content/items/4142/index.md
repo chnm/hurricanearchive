@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0028.JPG
     thumb: /files/thumbnails/14fb2a577c5a9214fb2a577c5e79.jpg
     url: /files/original/14fb2a577c5a9214fb2a577c5e79.jpg
+    alt:
+      en: "Debris and broken wooden pilings scattered along a muddy shoreline, with a row of intact dock posts and distant boats and industrial structures visible across the water under a clear blue sky."
 geo:
 id: 4142
 item_type: Still Image

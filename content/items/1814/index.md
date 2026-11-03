@@ -26,6 +26,8 @@ files:
     original_filename: NOLA_after_Katrina_Oct_2005_076_de1fd513ae.jpg
     thumb: /files/thumbnails/14fb2a6ec3be0c14fb2a6ec3c1ef.jpg
     url: /files/original/14fb2a6ec3be0c14fb2a6ec3c1ef.jpg
+    alt:
+      en: "A large elevated house on pilings with a blue metal roof stands heavily damaged along a waterfront, with exterior walls torn away exposing interior rooms, surrounded by palm trees and calm water."
 geo:
   address: ''
   lat: 30.353916372297

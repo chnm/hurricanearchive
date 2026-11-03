@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0180.JPG
     thumb: /files/thumbnails/14fb2a006e82ec14fb2a006e86d4.jpg
     url: /files/original/14fb2a006e82ec14fb2a006e86d4.jpg
+    alt:
+      en: "Aerial view of a flood-damaged neighborhood with collapsed and displaced houses, scattered debris, standing water, and surrounding trees, with a river and distant structures visible on the horizon."
 geo:
 id: 21124
 item_type: Still Image

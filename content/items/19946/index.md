@@ -21,6 +21,8 @@ files:
     original_filename: Picture 043cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c3239ad14fb2a0c325085.jpg
     url: /files/original/14fb2a0c3239ad14fb2a0c325085.jpg
+    alt:
+      en: "Street corner scene with a \"Jena\" street sign, large trees with sparse, browned leaves, debris and litter scattered across the grass, and a house with a columned porch in the background."
 geo:
 id: 19946
 item_type: Still Image

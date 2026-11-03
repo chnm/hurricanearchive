@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.127.JPG
     thumb: /files/thumbnails/14fb29dcdf2eef14fb29dcdf3377.jpg
     url: /files/original/14fb29dcdf2eef14fb29dcdf3377.jpg
+    alt:
+      en: "Ornate Victorian-style house raised on pilings, with mint-green trim, decorative balustrades, and multiple windows boarded with plywood; a \"We're home!\" sign stands near the front gate."
 geo:
 id: 25657
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: SabinePassHome_28d30e68c7.jpg
     thumb: /files/thumbnails/14fb2a6f00dca914fb2a6f00e068.jpg
     url: /files/original/14fb2a6f00dca914fb2a6f00e068.jpg
+    alt:
+      en: "A collapsed roof covered in fallen tree branches, with large uprooted trees leaning over the damaged structure; green grass is visible in the foreground."
 geo:
   address: ''
   lat: 30.148461

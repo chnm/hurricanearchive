@@ -21,6 +21,8 @@ files:
     original_filename: S4300186stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ecd3920114fb29ecd395ec.jpg
     url: /files/original/14fb29ecd3920114fb29ecd395ec.jpg
+    alt:
+      en: "Brick house with eroded foundation and a garden hose reel, surrounded by thick mud and standing water; a collapsed white metal frame lies in the mud, with storm-damaged buildings visible in the background."
 geo:
 id: 23847
 item_type: Still Image

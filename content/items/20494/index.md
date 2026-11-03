@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a06bee95914fb2a06beed3d.jpg
     url: /files/original/14fb2a06bee95914fb2a06beed3d.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with mobile homes and houses surrounded by brown floodwater, interspersed with patches of green trees and scattered debris."
 geo:
 id: 20494
 item_type: Still Image

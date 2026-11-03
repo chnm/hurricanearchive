@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28421.jpg
     thumb: /files/thumbnails/14fb2a6b5118e514fb2a6b511cca.jpg
     url: /files/original/14fb2a6b5118e514fb2a6b511cca.jpg
+    alt:
+      en: "Damaged metal-sided building with spray-painted text reading \"KEEP OUT SHOOT TO KILL\" and a white cross, debris and scattered wreckage piled in front."
 geo:
   address: ''
   lat: 0.0

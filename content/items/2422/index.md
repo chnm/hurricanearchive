@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05CDM_f249bd0a9e.jpg
     thumb: /files/thumbnails/14fb2a667ecefe14fb2a667ed7aa.jpg
     url: /files/original/14fb2a667ecefe14fb2a667ed7aa.jpg
+    alt:
+      en: "A worker in protective gear and gloves places white absorbent pads onto oil-coated mud and water amid charred, debris-strewn marshland."
 geo:
 id: 2422
 item_type: Still Image

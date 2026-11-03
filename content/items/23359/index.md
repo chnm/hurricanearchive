@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0065abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efce326b14fb29efce3650.jpg
     url: /files/original/14fb29efce326b14fb29efce3650.jpg
+    alt:
+      en: "A man in camouflage military fatigues and sunglasses stands beside a large truck, holding chains over his shoulder and lighting a cigarette, with damaged roadside signs and houses visible in the background."
 geo:
 id: 23359
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0022cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ea350e2014fb29ea351401.jpg
     url: /files/original/14fb29ea350e2014fb29ea351401.jpg
+    alt:
+      en: "Aerial view of a flooded coastal area with debris, downed utility poles, and remnants of building foundations and piers scattered along a narrow strip of land surrounded by water."
 geo:
 id: 24156
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: oursign_da9aa1e002.gif
     thumb: /files/thumbnails/14fb2a6da5b8f814fb2a6da5bc13.jpg
     url: /files/original/14fb2a6da5b8f814fb2a6da5bc13.jpg
+    alt:
+      en: "Floodwaters submerge an interstate highway, with a house partially floating in the water near a raised wooden sign and a lone tree in the misty background."
 geo:
   address: ''
   lat: 30.224439238648202

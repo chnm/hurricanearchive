@@ -21,6 +21,8 @@ files:
     original_filename: 09270001plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec3a86c514fb29ec3a8aaa.jpg
     url: /files/original/14fb29ec3a86c514fb29ec3a8aaa.jpg
+    alt:
+      en: "An alligator's head and eyes break the calm surface of murky water, with a small insect perched on its snout and clouds reflected around it."
 geo:
 id: 23963
 item_type: Still Image

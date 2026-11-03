@@ -24,6 +24,8 @@ files:
     original_filename: SF Oil Rig_ef1b3731b5.jpg
     thumb: /files/thumbnails/14fb29d79624c614fb29d79628ab.jpg
     url: /files/original/14fb29d79624c614fb29d79628ab.jpg
+    alt:
+      en: "A jack-up oil rig stands on tall support legs above green Gulf of Mexico waters, with a crane extended across its deck, photographed from the Eurma Jane crewboat nearby."
 geo:
   address: ''
   lat: 29.87876

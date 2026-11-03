@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0097cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef8028ff14fb29ef802ce4.jpg
     url: /files/original/14fb29ef8028ff14fb29ef802ce4.jpg
+    alt:
+      en: "Aerial view of a flat agricultural landscape under hazy sky, with a straight road bisecting fields, some flooded with standing water, interspersed with scattered trees and small structures."
 geo:
 id: 23424
 item_type: Still Image

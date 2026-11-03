@@ -21,6 +21,8 @@ files:
     original_filename: EV 1 1876 Farmer_8424309ba6.jpg
     thumb: /files/thumbnails/14fb29d8e0034d14fb29d8e00b7a.jpg
     url: /files/original/14fb29d8e0034d14fb29d8e00b7a.jpg
+    alt:
+      en: "Sepia-toned portrait of a mustached man in a wide-brimmed hat and loose white shirt, standing in a garden with one hand resting on a long-handled tool amid flowering plants."
 geo:
   address: ''
   lat: 29.84064

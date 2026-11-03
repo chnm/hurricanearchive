@@ -18,6 +18,8 @@ files:
     original_filename: 80_5b06cae7f2.jpg
     thumb: /files/thumbnails/14fb29c63be51c14fb29c63be8ff.jpg
     url: /files/original/14fb29c63be51c14fb29c63be8ff.jpg
+    alt:
+      en: "Two people in Halloween costumes pose for a photo: one wears a bee costume with antennae and striped wings, the other wears a bat-shaped headpiece, red wig, and vampire makeup with fake blood."
 geo:
   address: new orleans, la
   lat: 29.95324

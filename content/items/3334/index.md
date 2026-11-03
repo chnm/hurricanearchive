@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Press conference (1).JPG
     thumb: /files/thumbnails/14fb2a5c5b1e9d14fb2a5c5b26ca.jpg
     url: /files/original/14fb2a5c5b1e9d14fb2a5c5b26ca.jpg
+    alt:
+      en: "A group of television camera operators with large shoulder-mounted cameras on tripods, along with other press members and bystanders, gathered outdoors near trees and buildings for a press conference."
 geo:
 id: 3334
 item_type: Still Image

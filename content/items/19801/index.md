@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 104cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dc0d5e714fb2a0dc0d94d.jpg
     url: /files/original/14fb2a0dc0d5e714fb2a0dc0d94d.jpg
+    alt:
+      en: "Sideways-oriented photo of a gravel road lined with utility poles and power lines, grassy shoulders, and trees under a blue sky with scattered clouds."
 geo:
 id: 19801
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0109-9-25.JPG
     thumb: /files/thumbnails/14fb29e729234c14fb29e729271a.jpg
     url: /files/original/14fb29e729234c14fb29e729271a.jpg
+    alt:
+      en: "Aerial view of widespread flooding submerging a rural landscape, with bare trees rising from brown water, scattered debris, a collapsed open-sided structure, and remnants of buildings partially underwater."
 geo:
 id: 24521
 item_type: Still Image

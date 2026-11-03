@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0502.JPG
     thumb: /files/thumbnails/14fb29d12e198b14fb29d12e1f14.jpg
     url: /files/original/14fb29d12e198b14fb29d12e1f14.jpg
+    alt:
+      en: "Rows of cots with sleeping bags fill a large warehouse-like space, with several people resting while others in military fatigues stand and move among the cots in the background."
 geo:
 id: 29005
 item_type: Still Image

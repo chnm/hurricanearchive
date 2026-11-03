@@ -21,6 +21,8 @@ files:
     original_filename: LeoSchaeffer4C_2e921ad089.jpg
     thumb: /files/thumbnails/14fb29dd36bc6114fb29dd36c045.jpg
     url: /files/original/14fb29dd36bc6114fb29dd36c045.jpg
+    alt:
+      en: "Business card for Leo A. Schaeffer IV, Store Director of Winn-Dixie at 3300 Paris Road, Chalmette, LA 70043, with phone, fax, and website listed below."
 geo:
 id: 25549
 item_type: Still Image

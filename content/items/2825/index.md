@@ -21,6 +21,8 @@ files:
     original_filename: MVC-016S.JPG
     thumb: /files/thumbnails/14fb2a5ff0733f14fb2a5ff0772f.jpg
     url: /files/original/14fb2a5ff0733f14fb2a5ff0772f.jpg
+    alt:
+      en: "A white cylindrical aircraft fuselage or escape pod mounted on a wheeled metal trailer, parked on pavement near a fenced lot with a jet fighter and other aircraft parts in the background."
 geo:
 id: 2825
 item_type: Still Image

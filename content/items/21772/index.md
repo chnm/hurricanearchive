@@ -21,6 +21,8 @@ files:
     original_filename: katrina 042.jpg
     thumb: /files/thumbnails/14fb29fbd1317414fb29fbd13558.jpg
     url: /files/original/14fb29fbd1317414fb29fbd13558.jpg
+    alt:
+      en: "A military Chinook helicopter sits on a rooftop helipad as uniformed personnel assist people, including one in a wheelchair, toward it, with elevated highways and city buildings in the background."
 geo:
 id: 21772
 item_type: Still Image

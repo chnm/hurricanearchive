@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0090abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef9a456b14fb29ef9a4d37.jpg
     url: /files/original/14fb29ef9a456b14fb29ef9a4d37.jpg
+    alt:
+      en: "Decomposed carcass of a large animal lies on a muddy, debris-strewn bank beside calm floodwater, surrounded by dried grass and reeds."
 geo:
 id: 23404
 item_type: Still Image

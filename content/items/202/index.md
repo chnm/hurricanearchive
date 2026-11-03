@@ -26,6 +26,8 @@ files:
     original_filename: DSC00535_2c8024c535.JPG
     thumb: /files/thumbnails/14fb2a7091280a14fb2a7091359d.jpg
     url: /files/original/14fb2a7091280a14fb2a7091359d.jpg
+    alt:
+      en: "A downed utility pole leans at a steep angle over a fallen tree beside a road, with power lines sagging and a blue street sign visible in the background; timestamp reads 11:38AM."
 geo:
   address: ''
   lat: 29.935820833819104

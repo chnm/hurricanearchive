@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0160abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef1d55ee14fb29ef1d59d3.jpg
     url: /files/original/14fb29ef1d55ee14fb29ef1d59d3.jpg
+    alt:
+      en: "A flood-damaged house with buckled siding and a bent window frame stands partially surrounded by standing water, with scattered debris, a fallen fence, and a leaning utility pole in the foreground."
 geo:
 id: 23524
 item_type: Still Image

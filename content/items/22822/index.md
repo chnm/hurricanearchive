@@ -21,6 +21,8 @@ files:
     original_filename: S430023217thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f35a87eb14fb29f35a8bd0.jpg
     url: /files/original/14fb29f35a87eb14fb29f35a8bd0.jpg
+    alt:
+      en: "Flooded waterway alongside a concrete levee wall, with damaged houses behind it showing collapsed garage doors, exposed framing, and storm debris piled against bare trees."
 geo:
 id: 22822
 item_type: Still Image

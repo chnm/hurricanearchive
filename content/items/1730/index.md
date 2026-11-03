@@ -26,6 +26,8 @@ files:
     original_filename: HollyBeachDestruction_36fee5e0c4.jpg
     thumb: /files/thumbnails/14fb2a6f0586a814fb2a6f058a84.jpg
     url: /files/original/14fb2a6f0586a814fb2a6f058a84.jpg
+    alt:
+      en: "A fallen green street sign reading \"Cameron 10\" lies amid storm debris and standing floodwater, with scattered wreckage extending toward the horizon under a partly cloudy sky."
 geo:
   address: ''
   lat: 30.148461

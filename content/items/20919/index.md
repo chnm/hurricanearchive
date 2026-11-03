@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0148-21.JPG
     thumb: /files/thumbnails/14fb2a01fcfe4214fb2a01fd0228.jpg
     url: /files/original/14fb2a01fcfe4214fb2a01fd0228.jpg
+    alt:
+      en: "A soldier in camouflage fatigues stands on a road beside a STOP sign, with a rifle slung over his shoulder and vehicles and grass visible in the background."
 geo:
 id: 20919
 item_type: Still Image

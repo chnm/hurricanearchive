@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0177-2-9-15.JPG
     thumb: /files/thumbnails/14fb2a009b2fd714fb2a009b33bc.jpg
     url: /files/original/14fb2a009b2fd714fb2a009b33bc.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential block with scattered debris, overturned vehicles, and houses with missing or stripped roofing amid muddy, cleared lots."
 geo:
 id: 21101
 item_type: Still Image

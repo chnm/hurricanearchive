@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0088OEP.JPG
     thumb: /files/thumbnails/14fb29f19ee1a814fb29f19ee586.jpg
     url: /files/original/14fb29f19ee1a814fb29f19ee586.jpg
+    alt:
+      en: "Under a green canopy tent, a camera crew sets up broadcast equipment including a video camera on a tripod, lighting, and CNN-branded equipment cases, with a parking lot and police car visible in the background."
 geo:
 id: 23078
 item_type: Still Image

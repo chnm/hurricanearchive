@@ -21,6 +21,8 @@ files:
     original_filename: Picture 156cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b86bcee14fb2a0b86c0d0.jpg
     url: /files/original/14fb2a0b86bcee14fb2a0b86c0d0.jpg
+    alt:
+      en: "Floodwater pooled on pavement reflects a building and chain-link fence, with debris and a dark tarp visible on the grass beyond, and diagonal wires crossing the scene."
 geo:
 id: 20059
 item_type: Still Image

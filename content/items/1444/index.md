@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28303.jpg
     thumb: /files/thumbnails/14fb2a68a6fd8714fb2a68a7193c.jpg
     url: /files/original/14fb2a68a6fd8714fb2a68a7193c.jpg
+    alt:
+      en: "Storm-damaged building skeleton stands amid bare trees and scattered debris, with raised concrete slab foundations and scattered wreckage covering the sandy ground in the foreground."
 geo:
   address: ''
   lat: 0.0

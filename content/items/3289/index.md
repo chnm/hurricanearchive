@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (50).jpg
     thumb: /files/thumbnails/14fb2a5cb6cfaf14fb2a5cb6d37f.jpg
     url: /files/original/14fb2a5cb6cfaf14fb2a5cb6d37f.jpg
+    alt:
+      en: "A flooded, debris-strewn lot with a boat washed into standing water, damaged houses, and bare trees, with a steel drawbridge visible in the background."
 geo:
 id: 3289
 item_type: Still Image

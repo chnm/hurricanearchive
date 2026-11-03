@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0579bc9a14fb2a0579c07f.jpg
     url: /files/original/14fb2a0579bc9a14fb2a0579c07f.jpg
+    alt:
+      en: "Aerial view of murky, rippled floodwater covering a submerged area, with patches of debris or vegetation visible just beneath the surface."
 geo:
 id: 20643
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29ea31747b14fb29ea317860.jpg
     url: /files/original/14fb29ea31747b14fb29ea317860.jpg
+    alt:
+      en: "Aerial view of flooded coastal wetlands with patches of marsh grass, scattered tree lines, and a narrow strip of exposed land surrounded by expansive sheets of standing water."
 geo:
 id: 24160
 item_type: Still Image

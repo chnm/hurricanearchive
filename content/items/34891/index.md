@@ -20,6 +20,8 @@ files:
     original_filename: 2457557568_c9ead22a02.
     thumb: /files/thumbnails/14fb29c8b1687914fb29c8b16c5d.jpg
     url: /files/original/14fb29c8b1687914fb29c8b16c5d.jpg
+    alt:
+      en: "A yellow Komatsu excavator loads debris into a red and white dump truck on a muddy cleared lot, with trees lining the background."
 geo:
 id: 34891
 item_type: Still Image

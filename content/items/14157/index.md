@@ -21,6 +21,8 @@ files:
     original_filename: Local officials compare information.JPG
     thumb: /files/thumbnails/14fb2a1b55874f14fb2a1b5589c6.jpg
     url: /files/original/14fb2a1b55874f14fb2a1b5589c6.jpg
+    alt:
+      en: "Two men stand outdoors near a roadside, one in a gray shirt and blue cap holding a small device, gesturing toward the other man in a white T-shirt with printed text and tan cap, with bare trees and a pond in the background."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0031-9-25.JPG
     thumb: /files/thumbnails/14fb2a06470a0414fb2a06470de8.jpg
     url: /files/original/14fb2a06470a0414fb2a06470de8.jpg
+    alt:
+      en: "Aerial view of a flooded rural neighborhood with a house missing roof shingles, scattered debris piles, snapped trees, and a two-lane road running alongside extensive standing floodwater."
 geo:
 id: 20544
 item_type: Still Image

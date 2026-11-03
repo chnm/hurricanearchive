@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28380.jpg
     thumb: /files/thumbnails/14fb2a6cc95e9e14fb2a6cc96283.jpg
     url: /files/original/14fb2a6cc95e9e14fb2a6cc96283.jpg
+    alt:
+      en: "Man in a cap and t-shirt stands inside a shrimp boat's wheelhouse, gesturing toward a round cardboard timing device mounted near the windows, with binoculars and a wooden ship's wheel nearby."
 geo:
   address: ''
   lat: 0.0

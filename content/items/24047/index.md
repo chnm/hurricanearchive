@@ -21,6 +21,8 @@ files:
     original_filename: DSC00052neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb3d01d114fb29eb3d05b2.jpg
     url: /files/original/14fb29eb3d01d114fb29eb3d05b2.jpg
+    alt:
+      en: "A white Sheriff patrol car marked \"E551,\" \"SHERIFF,\" and \"Dial 911\" parked in front of military cargo trucks and a green canopy tent, with several people nearby."
 geo:
 id: 24047
 item_type: Still Image

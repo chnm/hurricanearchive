@@ -21,6 +21,8 @@ files:
     original_filename: DSC01124.JPG
     thumb: /files/thumbnails/14fb2a58815c3614fb2a58816012.jpg
     url: /files/original/14fb2a58815c3614fb2a58816012.jpg
+    alt:
+      en: "Flooded stable building with murky water filling the aisle between stalls, a sign reading \"New Orleans Equestrian Center Boarder Rules\" posted on the wall, timestamp \"6 11:35 AM\" visible in corner."
 geo:
 id: 4016
 item_type: Still Image

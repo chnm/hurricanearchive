@@ -21,6 +21,8 @@ files:
     original_filename: loss of copper roof.jpg
     thumb: /files/thumbnails/14fb2a2034912414fb2a20349455.jpg
     url: /files/original/14fb2a2034912414fb2a20349455.jpg
+    alt:
+      en: "Damaged brick building entrance with plywood covering a missing section of roofline, broken glass doors, and debris scattered across the entryway and walkway."
 geo:
 id: 13131
 item_type: Still Image

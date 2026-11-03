@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0214-9-25.JPG
     thumb: /files/thumbnails/14fb29ffa67abe14fb29ffa67ea4.jpg
     url: /files/original/14fb29ffa67abe14fb29ffa67ea4.jpg
+    alt:
+      en: "Interior view of an aircraft cockpit, shot through metal framework, showing a helmeted pilot at the controls with instrument panels and a visible \"WARNING, SEAT TILT RELEASE\" label nearby."
 geo:
 id: 21280
 item_type: Still Image

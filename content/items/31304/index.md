@@ -27,6 +27,8 @@ files:
     original_filename: renesroom_fa2b0b5dc8.jpg
     thumb: /files/thumbnails/14fb29cc392b3114fb29cc392f0c.jpg
     url: /files/original/14fb29cc392b3114fb29cc392f0c.jpg
+    alt:
+      en: "Bedroom wall covered in black mold and water stains, hung with photographs, posters, and a framed painting, above a cluttered floor of clothing and debris."
 geo:
   address: 1342 Mandolin St.
   lat: 0.0

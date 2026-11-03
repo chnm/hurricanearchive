@@ -1,0 +1,7 @@
+{{- $out := slice -}}
+{{- range site.Data.geo -}}
+	{{- $p := dict "id" .id "lat" .lat "lng" .lng "url" .url "zoom" .zoom "title" .title -}}
+	{{- with site.GetPage (printf "/items/%v" .id) }}{{ $p = merge $p (dict "title" (partial "item-title.html" .)) }}{{ end -}}
+	{{- $out = $out | append $p -}}
+{{- end -}}
+{{- $out | jsonify -}}

@@ -21,6 +21,8 @@ files:
     original_filename: 09240008rita.JPG
     thumb: /files/thumbnails/14fb2a0ed3c33e14fb2a0ed3c723.jpg
     url: /files/original/14fb2a0ed3c33e14fb2a0ed3c723.jpg
+    alt:
+      en: "A gravel driveway lined with young saplings leads toward a large, mature oak tree enclosed by a black metal fence, with a small sign reading \"Lone Oak Cemetery\" visible beneath its canopy."
 geo:
 id: 19607
 item_type: Still Image

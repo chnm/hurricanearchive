@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0058OEP.JPG
     thumb: /files/thumbnails/14fb29f1bd261814fb29f1bd29fd.jpg
     url: /files/original/14fb29f1bd261814fb29f1bd29fd.jpg
+    alt:
+      en: "Outdoor film or news crew setup with director's chairs, camera tripods, and a cooler on dry grass; one man lies on the ground while others sit and stand nearby, with parked cars in the background."
 geo:
 id: 23048
 item_type: Still Image

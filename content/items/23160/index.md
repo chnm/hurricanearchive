@@ -21,6 +21,8 @@ files:
     original_filename: 20051003-A-3780B-271mobilePAO.jpg
     thumb: /files/thumbnails/14fb29f149ceac14fb29f149d293.jpg
     url: /files/original/14fb29f149ceac14fb29f149d293.jpg
+    alt:
+      en: "A red and black helicopter hovers low over a grassy field near stacked sandbags, as a soldier in camouflage and an orange safety vest signals toward it while two others approach in the background."
 geo:
 id: 23160
 item_type: Still Image

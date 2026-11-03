@@ -26,6 +26,8 @@ files:
     original_filename: DSC02080_aad5ef70d8.JPG
     thumb: /files/thumbnails/14fb2a6ea970b314fb2a6ea974a3.jpg
     url: /files/original/14fb2a6ea970b314fb2a6ea974a3.jpg
+    alt:
+      en: "A flood-damaged bedroom with a mud-stained bed pushed near the ceiling, surrounded by debris, muddy boots, books, and scattered belongings as a man sorts through items below."
 geo:
   address: ''
   lat: 30.009063

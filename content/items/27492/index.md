@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6523_4488dda38e.jpg
     thumb: /files/thumbnails/14fb29d3ee3e7314fb29d3ee4259.jpg
     url: /files/original/14fb29d3ee3e7314fb29d3ee4259.jpg
+    alt:
+      en: "A man in a brown suit and black turtleneck stands with his arm around a young woman in a white blouse and gray skirt, posed before a silver backdrop with red poinsettias and text reading \"Mount Carmel Academy Father Daughter Dinner Dec 3 '06.\""
 geo:
   address: ''
   lat: 29.87876

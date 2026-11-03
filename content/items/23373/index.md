@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0074cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efc499f314fb29efc49dda.jpg
     url: /files/original/14fb29efc499f314fb29efc49dda.jpg
+    alt:
+      en: "Aerial view of a flood-damaged rural property with scattered debris, collapsed structures, standing floodwater, and bare, storm-damaged trees along a muddy roadway."
 geo:
 id: 23373
 item_type: Still Image

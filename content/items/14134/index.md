@@ -21,6 +21,8 @@ files:
     original_filename: DSCN1516.JPG
     thumb: /files/thumbnails/14fb2a1b99b81314fb2a1b99bca7.jpg
     url: /files/original/14fb2a1b99b81314fb2a1b99bca7.jpg
+    alt:
+      en: "A soldier in camouflage uniform with a handheld GPS device and ammo pouch stands before a damaged neighborhood with downed power lines and a large house; the photo is dated 09.21.2005."
 geo:
   address: ''
   lat: 0.0

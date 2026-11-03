@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28455.jpg
     thumb: /files/thumbnails/14fb2a696c303314fb2a696c3426.jpg
     url: /files/original/14fb2a696c303314fb2a696c3426.jpg
+    alt:
+      en: "Storm-damaged casino building with a \"CASINO\" sign still intact above heavily wrecked debris, torn metal, and exposed structural wreckage, flanked by bare tree branches."
 geo:
   address: ''
   lat: 0.0

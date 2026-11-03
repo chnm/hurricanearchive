@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1107Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7e3fc9314fb29f7e4007a.jpg
     url: /files/original/14fb29f7e3fc9314fb29f7e4007a.jpg
+    alt:
+      en: "Severe flooding engulfs a street during heavy rain, with water submerging a lamppost and fence, a brick building barely visible through the storm haze in the background."
 geo:
 id: 22296
 item_type: Still Image

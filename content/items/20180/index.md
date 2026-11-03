@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0012.JPG
     thumb: /files/thumbnails/14fb2a0aea119614fb2a0aea157e.jpg
     url: /files/original/14fb2a0aea119614fb2a0aea157e.jpg
+    alt:
+      en: "Aerial view from an aircraft window, with a dark silhouette of a person's shoulder bearing an American flag patch in the foreground, overlooking a green landscape of trees, fields, and scattered buildings below."
 geo:
 id: 20180
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0051westend.JPG
     thumb: /files/thumbnails/14fb2a15077dc614fb2a150781a7.jpg
     url: /files/original/14fb2a15077dc614fb2a150781a7.jpg
+    alt:
+      en: "Aerial view of a marina with numerous docked sailboats, many listing or partially sunken, alongside rows of boathouses with damaged roofs, showing storm destruction along the waterfront."
 geo:
 id: 18826
 item_type: Still Image

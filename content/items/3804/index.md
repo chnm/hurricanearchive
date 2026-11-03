@@ -21,6 +21,8 @@ files:
     original_filename: 100_0083.JPG
     thumb: /files/thumbnails/14fb2a5979caf314fb2a5979ce09.jpg
     url: /files/original/14fb2a5979caf314fb2a5979ce09.jpg
+    alt:
+      en: "Two modern high-rise buildings with glass and tiled facades against a clear blue sky, one with vertical fluted columns near its top and a glass canopy below."
 geo:
 id: 3804
 item_type: Still Image

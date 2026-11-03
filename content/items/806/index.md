@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28654.jpg
     thumb: /files/thumbnails/14fb2a6cea1c3814fb2a6cea201f.jpg
     url: /files/original/14fb2a6cea1c3814fb2a6cea201f.jpg
+    alt:
+      en: "A gray metal gate or partition with a handwritten sign reading \"PREVENT DOG FIGHTS!\" alongside taped-up photos, papers, and snack packets at an animal rescue depot."
 geo:
   address: ''
   lat: 0.0

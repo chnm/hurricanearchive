@@ -21,6 +21,8 @@ files:
     original_filename: DSC 006917thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f39b3f1614fb29f39b42fb.jpg
     url: /files/original/14fb29f39b3f1614fb29f39b42fb.jpg
+    alt:
+      en: "Aerial view of a canal lined with a reinforced concrete floodwall, with damaged homes, scattered debris, and two workers standing on the embankment beside riprap stones."
 geo:
 id: 22801
 item_type: Still Image

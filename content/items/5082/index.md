@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0427.JPG
     thumb: /files/thumbnails/14fb2a540aaa2714fb2a540aad98.jpg
     url: /files/original/14fb2a540aaa2714fb2a540aad98.jpg
+    alt:
+      en: "Several blue hotel-style key fobs with room numbers, a bundle of keys, and a white tag reading \"DKS\" lie scattered on a broken concrete slab amid storm debris."
 geo:
 id: 5082
 item_type: Still Image

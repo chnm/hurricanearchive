@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037H.JPG
     thumb: /files/thumbnails/14fb2a05ee8aec14fb2a05ee8ed2.jpg
     url: /files/original/14fb2a05ee8aec14fb2a05ee8ed2.jpg
+    alt:
+      en: "Five women in matching Hooters uniforms (reading \"Hooters Siegen Lane, Baton Rouge II, LA\") pose for a nighttime group photo with a seated man, as another man in the foreground takes their picture with a camera."
 geo:
 id: 20580
 item_type: Still Image

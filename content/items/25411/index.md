@@ -21,6 +21,8 @@ files:
     original_filename: Next to the Superdome 6superdome.jpg
     thumb: /files/thumbnails/14fb29de005d7a14fb29de00615d.jpg
     url: /files/original/14fb29de005d7a14fb29de00615d.jpg
+    alt:
+      en: "Floodwaters submerge a parking structure near the Superdome, with several cars and trucks partially underwater beneath the covered garage, photographed from a boat."
 geo:
 id: 25411
 item_type: Still Image

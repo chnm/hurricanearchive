@@ -21,6 +21,8 @@ files:
     original_filename: Picture 033cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c4be24114fb2a0c4bf869.jpg
     url: /files/original/14fb2a0c4be24114fb2a0c4bf869.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms gathered around a Humvee hood, studying a map, with a multi-story building and trees in the background."
 geo:
 id: 19937
 item_type: Still Image

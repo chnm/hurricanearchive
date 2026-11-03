@@ -21,6 +21,8 @@ files:
     original_filename: RLivaduais-R001-007_00_747f6a3309.jpg
     thumb: /files/thumbnails/14fb2a16b05c7814fb2a16b06056.jpg
     url: /files/original/14fb2a16b05c7814fb2a16b06056.jpg
+    alt:
+      en: "Two men hold up largemouth bass at an outdoor weigh-in station, with a crowd, trucks, and a sign reading \"Caernarvon Pro Te...\" visible in the background."
 geo:
 id: 15271
 item_type: Still Image

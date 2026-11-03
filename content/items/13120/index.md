@@ -21,6 +21,8 @@ files:
     original_filename: george tying on gas.jpg
     thumb: /files/thumbnails/14fb2a204de5ac14fb2a204de992.jpg
     url: /files/original/14fb2a204de5ac14fb2a204de992.jpg
+    alt:
+      en: "A man leans over a vehicle's roof rack, resting his arms on red plastic gas containers secured with rope, with a radio antenna and headlights visible below against a clear sky."
 geo:
 id: 13120
 item_type: Still Image

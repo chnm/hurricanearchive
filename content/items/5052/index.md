@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0397.JPG
     thumb: /files/thumbnails/14fb2a543bc40314fb2a543bcfa7.jpg
     url: /files/original/14fb2a543bc40314fb2a543bcfa7.jpg
+    alt:
+      en: "Bare concrete slab foundation littered with debris, including a blue horseshoe and a dark bottle, surrounded by scattered wood, wires, and storm wreckage."
 geo:
 id: 5052
 item_type: Still Image

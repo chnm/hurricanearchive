@@ -21,6 +21,8 @@ files:
     original_filename: GBuckley-6198_fee9ab89f8.jpg
     thumb: /files/thumbnails/14fb2a16bdc53914fb2a16bdc8ea.jpg
     url: /files/original/14fb2a16bdc53914fb2a16bdc8ea.jpg
+    alt:
+      en: "Vintage black-and-white photo of three girls in costume—one in a floral bonnet and dress, one as a clown, and one as a cowgirl—labeled in handwriting below the image."
 geo:
 id: 15175
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: POD line.JPG
     thumb: /files/thumbnails/14fb2a1b03d78714fb2a1b03f8fe.jpg
     url: /files/original/14fb2a1b03d78714fb2a1b03f8fe.jpg
+    alt:
+      en: "Military personnel stand under canopy tents near pallets of bottled water, ice, and MRE boxes at an outdoor distribution point, with a line of service members waiting nearby, dated 09.26.2005."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1548superdome.JPG
     thumb: /files/thumbnails/14fb29e2ddbe3314fb29e2ddc219.jpg
     url: /files/original/14fb29e2ddbe3314fb29e2ddc219.jpg
+    alt:
+      en: "A U.S. Coast Guard orange-and-white helicopter, marked \"28,\" sits on a rooftop helipad with landing light on, multi-story buildings visible in the background."
 geo:
 id: 25026
 item_type: Still Image

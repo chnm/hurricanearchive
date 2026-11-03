@@ -21,6 +21,8 @@ files:
     original_filename: PICT0082neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed32682414fb29ed326c09.jpg
     url: /files/original/14fb29ed32682414fb29ed326c09.jpg
+    alt:
+      en: "View from inside a military vehicle through an open door, with a side mirror reflecting a uniformed occupant; a debris-strewn empty highway and distant city skyline are visible, dated 09.15.2005."
 geo:
 id: 23768
 item_type: Still Image

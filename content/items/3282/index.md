@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (44).jpg
     thumb: /files/thumbnails/14fb2a5cc242c514fb2a5cc246aa.jpg
     url: /files/original/14fb2a5cc242c514fb2a5cc246aa.jpg
+    alt:
+      en: "Row of flood-damaged, debris-covered vehicles—including an overturned Chevrolet truck—lines a grassy lot littered with rubble, with wrecked houses visible among trees in the background."
 geo:
 id: 3282
 item_type: Still Image

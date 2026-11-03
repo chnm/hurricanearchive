@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0124-9-25.JPG
     thumb: /files/thumbnails/14fb29e63d788c14fb29e63d7c71.jpg
     url: /files/original/14fb29e63d788c14fb29e63d7c71.jpg
+    alt:
+      en: "Aerial view of a flooded landscape with submerged roads, scattered bare trees, and a utility pole with power lines rising above the brownish-green floodwaters."
 geo:
 id: 24601
 item_type: Still Image

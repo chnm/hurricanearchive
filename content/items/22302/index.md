@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1113Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7cb494c14fb29f7cca5e2.jpg
     url: /files/original/14fb29f7cb494c14fb29f7cca5e2.jpg
+    alt:
+      en: "Dim, hazy interior view of stacked shelving holding red and yellow items, possibly life vests or packaged goods, with a shuttered window visible in the background."
 geo:
 id: 22302
 item_type: Still Image

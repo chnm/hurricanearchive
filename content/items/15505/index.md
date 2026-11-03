@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-38_91541995ce.jpg
     thumb: /files/thumbnails/14fb2a161b628e14fb2a161b667e.jpg
     url: /files/original/14fb2a161b628e14fb2a161b667e.jpg
+    alt:
+      en: "Young woman with long dark hair smiling, wearing a pink dress with red trim and ribbons, hands clasped in front, standing indoors near a patterned wall."
 geo:
 id: 15505
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: EvaDow-4_b54f65d68d.jpg
     thumb: /files/thumbnails/14fb29dd660d4714fb29dd66112a.jpg
     url: /files/original/14fb29dd660d4714fb29dd66112a.jpg
+    alt:
+      en: "Aged, water-damaged color photo of a multigenerational family gathered around a dining table with cake and teacups, smiling for a birthday celebration in a wood-paneled room with striped curtains."
 geo:
 id: 25506
 item_type: Still Image

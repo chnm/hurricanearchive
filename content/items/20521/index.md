@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027M.JPG
     thumb: /files/thumbnails/14fb2a068b329b14fb2a068b5ac5.jpg
     url: /files/original/14fb2a068b329b14fb2a068b5ac5.jpg
+    alt:
+      en: "Roadside view of a severely damaged building with its roof torn off and debris scattered inside, framed by trees and pampas grass, with a La Quinta billboard visible above."
 geo:
 id: 20521
 item_type: Still Image

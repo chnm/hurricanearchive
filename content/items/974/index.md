@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28319.jpg
     thumb: /files/thumbnails/14fb2a6b9755e814fb2a6b9759c6.jpg
     url: /files/original/14fb2a6b9755e814fb2a6b9759c6.jpg
+    alt:
+      en: "Storm-damaged building with exposed steel framing and missing walls, surrounded by scattered debris and bare tree branches under a pale sky."
 geo:
   address: ''
   lat: 0.0

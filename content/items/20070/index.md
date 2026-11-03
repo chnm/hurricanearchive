@@ -21,6 +21,8 @@ files:
     original_filename: Picture 167cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b80cdc314fb2a0b80d1b1.jpg
     url: /files/original/14fb2a0b80cdc314fb2a0b80d1b1.jpg
+    alt:
+      en: "A man wearing a navy blue \"path.\" t-shirt and lanyard holds a camera while standing near floodwater, with a rusted pipeline, debris, and grassy wetland visible in the background."
 geo:
 id: 20070
 item_type: Still Image

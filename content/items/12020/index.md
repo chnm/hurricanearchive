@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisit528.JPG
     thumb: /files/thumbnails/14fb2a2251a48d14fb2a2251a872.jpg
     url: /files/original/14fb2a2251a48d14fb2a2251a872.jpg
+    alt:
+      en: "Two uniformed officers stand atop a brick school building's flat roof while a crowd of reporters with cameras and microphones gathers below near a flagpole, cordoned off by caution tape."
 geo:
 id: 12020
 item_type: Still Image

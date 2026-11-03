@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0242downtownnola.JPG
     thumb: /files/thumbnails/14fb2a149edb3214fb2a149ee259.jpg
     url: /files/original/14fb2a149edb3214fb2a149ee259.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood with only building slabs and scattered debris remaining, a few surviving trees, stranded vehicles, and a corrugated metal barrier running beside a muddy canal."
 geo:
 id: 18892
 item_type: Still Image

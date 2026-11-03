@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038M.JPG
     thumb: /files/thumbnails/14fb2a05e28d8714fb2a05e2916d.jpg
     url: /files/original/14fb2a05e28d8714fb2a05e2916d.jpg
+    alt:
+      en: "A military medical worker in camouflage uniform prepares vaccination supplies, including syringes and \"Alcohol Swabs,\" on styrofoam coolers while a uniformed service member looks on."
 geo:
 id: 20587
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 191 scared dogs1.jpg
     thumb: /files/thumbnails/14fb2a1f6d4dc214fb2a1f6d51a8.jpg
     url: /files/original/14fb2a1f6d4dc214fb2a1f6d51a8.jpg
+    alt:
+      en: "Two dogs stand on a flooded street lined with houses and trees, viewed through a vehicle's windshield, with standing water covering the surrounding yards and road edges."
 geo:
 id: 13198
 item_type: Still Image

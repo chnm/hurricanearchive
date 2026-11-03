@@ -26,6 +26,8 @@ files:
     original_filename: c28_233d9eff40.jpg
     thumb: /files/thumbnails/14fb2a6d88983f14fb2a6d889c18.jpg
     url: /files/original/14fb2a6d88983f14fb2a6d889c18.jpg
+    alt:
+      en: "Three young women in American Red Cross vests and shirts stand by a Red Cross vehicle, loading bottled water and a cooler onto a hand truck during disaster relief efforts."
 geo:
   address: ''
   lat: 27.203872

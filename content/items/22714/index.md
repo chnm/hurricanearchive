@@ -21,6 +21,8 @@ files:
     original_filename: PICT0612Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f47911ac14fb29f479159b.jpg
     url: /files/original/14fb29f47911ac14fb29f479159b.jpg
+    alt:
+      en: "Brick-walled compound with topped razor wire, green bleacher-style steps in foreground, a tall flagpole flying the American flag, large white buildings, a palm tree, and a brick house, dated 09.15.2005."
 geo:
 id: 22714
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 20050930-A-3780B-54mobilePAO.jpg
     thumb: /files/thumbnails/14fb29f155d75214fb29f155de05.jpg
     url: /files/original/14fb29f155d75214fb29f155de05.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms unload bagged ice and bottled water from a pickup truck in a strip mall parking lot, with a \"World Rental\" sign visible on the building behind them."
 geo:
 id: 23143
 item_type: Still Image

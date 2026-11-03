@@ -21,6 +21,8 @@ files:
     original_filename: 102-07_305e67303d.jpg
     thumb: /files/thumbnails/14fb2a222734af14fb2a22273895.jpg
     url: /files/original/14fb2a222734af14fb2a22273895.jpg
+    alt:
+      en: "A woman with short dark hair makes a playful face, sticking out her tongue with hands raised near her head, wearing a teal top in a room with a bookshelf and framed pictures."
 geo:
 id: 12418
 item_type: Still Image

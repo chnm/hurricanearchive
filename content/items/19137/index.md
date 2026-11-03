@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 047.jpg
     thumb: /files/thumbnails/14fb2a12c999f314fb2a12c99dd9.jpg
     url: /files/original/14fb2a12c999f314fb2a12c99dd9.jpg
+    alt:
+      en: "Close-up of a camouflage-painted military vehicle's hull with tools and fittings, a flag with a star emblem flying above, set against a metal building and pine tree."
 geo:
 id: 19137
 item_type: Still Image

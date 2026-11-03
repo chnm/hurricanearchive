@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0100.JPG
     thumb: /files/thumbnails/14fb2a5592ee3714fb2a5592f210.jpg
     url: /files/original/14fb2a5592ee3714fb2a5592f210.jpg
+    alt:
+      en: "Storm-damaged brick building with a collapsed, debris-covered roof, braced by a diagonal wooden support beam; broken trees and scattered rubble surround the structure."
 geo:
 id: 4788
 item_type: Still Image

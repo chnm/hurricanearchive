@@ -27,6 +27,8 @@ files:
     original_filename: bradish artlovers_2021322ed3.JPG
     thumb: /files/thumbnails/14fb29d143706e14fb29d1441d80.jpg
     url: /files/original/14fb29d143706e14fb29d1441d80.jpg
+    alt:
+      en: "Five people stand talking in a backyard with lit tiki torches and a bamboo fence, the group dressed in floral and patterned shirts at an evening outdoor gathering."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

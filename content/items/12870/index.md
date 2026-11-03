@@ -21,6 +21,8 @@ files:
     original_filename: Yacht club 10-29-3.JPG
     thumb: /files/thumbnails/14fb2a2155e05514fb2a2155e440.jpg
     url: /files/original/14fb2a2155e05514fb2a2155e440.jpg
+    alt:
+      en: "Debris-covered ground with a damaged boat, a brick chimney, and scattered wreckage beneath a large tree, remnants of storm destruction at a yacht club."
 geo:
 id: 12870
 item_type: Still Image

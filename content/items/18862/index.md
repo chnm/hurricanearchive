@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0079grandisle.JPG
     thumb: /files/thumbnails/14fb2a14dc0a4a14fb2a14dc0c73.jpg
     url: /files/original/14fb2a14dc0a4a14fb2a14dc0c73.jpg
+    alt:
+      en: "Aerial view from a helicopter (landing gear visible in foreground) showing a coastal community reduced to cleared lots and scattered debris, with a few surviving houses, downed trees, and a waterway lined with greenery in the background."
 geo:
 id: 18862
 item_type: Still Image

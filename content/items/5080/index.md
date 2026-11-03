@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0425.JPG
     thumb: /files/thumbnails/14fb2a54103d6114fb2a54104167.jpg
     url: /files/original/14fb2a54103d6114fb2a54104167.jpg
+    alt:
+      en: "A tall pine tree lies snapped and leaning at an angle amid a debris field of broken branches, scattered wood, and storm wreckage in a thinned pine forest."
 geo:
 id: 5080
 item_type: Still Image

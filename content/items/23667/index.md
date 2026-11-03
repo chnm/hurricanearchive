@@ -21,6 +21,8 @@ files:
     original_filename: P1010108empireS&R.JPG
     thumb: /files/thumbnails/14fb29edf6276d14fb29edf62b53.jpg
     url: /files/original/14fb29edf6276d14fb29edf62b53.jpg
+    alt:
+      en: "Military Humvees parked in a grassy field beside two tall guyed antenna masts with multiple support wires, set against a hazy sky and distant tree line."
 geo:
 id: 23667
 item_type: Still Image

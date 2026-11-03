@@ -20,6 +20,8 @@ files:
     original_filename: 2457557590_82e643c0db.
     thumb: /files/thumbnails/14fb29c89e2b4e14fb29c89e2f29.jpg
     url: /files/original/14fb29c89e2b4e14fb29c89e2f29.jpg
+    alt:
+      en: "Excavator arm digging through thick gray mud and silt, with trees lining the background and a partly cleared embankment visible behind the dredged area."
 geo:
 id: 34897
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27935.jpg
     thumb: /files/thumbnails/14fb2a6869996a14fb2a68699d4f.jpg
     url: /files/original/14fb2a6869996a14fb2a68699d4f.jpg
+    alt:
+      en: "A bent white sign reading \"Employee Parking Overflow\" attached to a green chain-link fence, with a parking lot, trees, and overpass visible in the background under a partly cloudy sky."
 geo:
   address: ''
   lat: 0.0

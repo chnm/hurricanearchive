@@ -21,6 +21,8 @@ files:
     original_filename: katrina 032.jpg
     thumb: /files/thumbnails/14fb29fbe5339014fb29fbe53776.jpg
     url: /files/original/14fb29fbe5339014fb29fbe53776.jpg
+    alt:
+      en: "Group of soldiers in camouflage uniforms pose together in three rows outside a large domed stadium, with tents, trucks, and stacked supply boxes visible in the background; a timestamp reads \"6 9:44 AM.\""
 geo:
 id: 21764
 item_type: Still Image

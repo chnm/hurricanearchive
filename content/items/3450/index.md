@@ -24,6 +24,8 @@ files:
     original_filename: P1010018.JPG
     thumb: /files/thumbnails/14fb2a5baacc1f14fb2a5baad9e1.jpg
     url: /files/original/14fb2a5baacc1f14fb2a5baad9e1.jpg
+    alt:
+      en: "A large pine tree lies diagonally across the roof of a single-story brick house, with its trunk severed nearby and debris scattered amid the surrounding shrubs."
 geo:
 id: 3450
 item_type: Still Image

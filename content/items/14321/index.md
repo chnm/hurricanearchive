@@ -21,6 +21,8 @@ files:
     original_filename: aerials34.jpg
     thumb: /files/thumbnails/14fb2a19d4c22014fb2a19d4c60e.jpg
     url: /files/original/14fb2a19d4c22014fb2a19d4c60e.jpg
+    alt:
+      en: "Aerial view of a storm-damaged house with a partially collapsed roof and debris scattered across the property, surrounded by sparse, stripped trees."
 geo:
 id: 14321
 item_type: Still Image

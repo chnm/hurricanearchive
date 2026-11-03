@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28704.jpg
     thumb: /files/thumbnails/14fb2a673c293514fb2a673c2ccf.jpg
     url: /files/original/14fb2a673c293514fb2a673c2ccf.jpg
+    alt:
+      en: "Two women share a laughing embrace outside a horse trailer, one wearing a baseball cap and \"Torch Run Law Enforcement\" T-shirt, the other in a pink tank top, at the Lamar-Dixon rescued-horse barn."
 geo:
   address: ''
   lat: 0.0

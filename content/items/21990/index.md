@@ -21,6 +21,8 @@ files:
     original_filename: Picture 321-J2.jpg
     thumb: /files/thumbnails/14fb29fa4b41c914fb29fa4b45ac.jpg
     url: /files/original/14fb29fa4b41c914fb29fa4b45ac.jpg
+    alt:
+      en: "A city street lined with multi-story buildings and palm trees, with cars parked and driving, orange traffic barrels, and scattered debris piled on the sidewalk."
 geo:
 id: 21990
 item_type: Still Image

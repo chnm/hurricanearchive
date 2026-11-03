@@ -21,6 +21,8 @@ files:
     original_filename: J2 (18).JPG
     thumb: /files/thumbnails/14fb2a114c0dda14fb2a114c11c1.jpg
     url: /files/original/14fb2a114c0dda14fb2a114c11c1.jpg
+    alt:
+      en: "Quiet French Quarter street lined with wrought-iron balconies and shuttered shops, including \"Old Opera House\" and \"Court of Two Sisters Restaurant,\" with scattered debris, parked vehicles, and a few pedestrians walking down the road."
 geo:
 id: 19298
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0056engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a1082cce114fb2a1082d029.jpg
     url: /files/original/14fb2a1082cce114fb2a1082d029.jpg
+    alt:
+      en: "A front-end loader dumps debris into a rusted dump truck bed amid piles of wood, corrugated metal, and wreckage from demolished structures."
 geo:
 id: 19410
 item_type: Still Image

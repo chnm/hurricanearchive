@@ -21,6 +21,8 @@ files:
     original_filename: P1010155empireS&R.JPG
     thumb: /files/thumbnails/14fb29eda197ba14fb29eda19b9f.jpg
     url: /files/original/14fb29eda197ba14fb29eda19b9f.jpg
+    alt:
+      en: "Flooded, debris-strewn lot with scattered trees and standing water in the foreground, with industrial storage tanks and a blue building visible in the background under power lines."
 geo:
 id: 23714
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7659.JPG
     thumb: /files/thumbnails/14fb29cc84f0eb14fb29cc84f48a.jpg
     url: /files/original/14fb29cc84f0eb14fb29cc84f48a.jpg
+    alt:
+      en: "A single-story house with red shutters and a blue tarp patch on its roof, surrounded by fallen trees and storm debris scattered across the yard."
 geo:
 id: 30778
 item_type: Still Image

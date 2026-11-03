@@ -21,6 +21,8 @@ files:
     original_filename: 100_0233.JPG
     thumb: /files/thumbnails/14fb2a5f31d68e14fb2a5f31da5b.jpg
     url: /files/original/14fb2a5f31d68e14fb2a5f31da5b.jpg
+    alt:
+      en: "Interior view of a submarine's torpedo room, seen through metal bars, featuring valves, gauges, large fans, polished torpedo tube hatches, and a partially legible \"Torpedo Room\" placard."
 geo:
 id: 2984
 item_type: Still Image

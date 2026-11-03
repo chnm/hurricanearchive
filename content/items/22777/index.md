@@ -21,6 +21,8 @@ files:
     original_filename: S4300133Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f404ef1314fb29f404f2f9.jpg
     url: /files/original/14fb29f404ef1314fb29f404f2f9.jpg
+    alt:
+      en: "Brick building with a partially collapsed roof and walls, exposing interior framing, with piles of broken cinder blocks and debris scattered in the muddy foreground."
 geo:
 id: 22777
 item_type: Still Image

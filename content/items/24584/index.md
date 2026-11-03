@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0121-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e66a9bea14fb29e66a9fe3.jpg
     url: /files/original/14fb29e66a9bea14fb29e66a9fe3.jpg
+    alt:
+      en: "Aerial view of floodwater submerging a roadway, with sunlight glinting off the rippled water's surface on one side and a paved road lined by trees visible on the other."
 geo:
 id: 24584
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 050831_new_orleans_7dbd32ffe7.jpg
     thumb: /files/thumbnails/14fb2a70e08acf14fb2a70e08f40.jpg
     url: /files/original/14fb2a70e08acf14fb2a70e08f40.jpg
+    alt:
+      en: "A young man wearing a \"Jesuit\" shirt wades through floodwater while carrying two orange cats in a clear plastic storage container with a blue lid."
 geo:
   address: ''
   lat: 29.916852233070202

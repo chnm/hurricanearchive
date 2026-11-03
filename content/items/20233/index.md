@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140007.JPG
     thumb: /files/thumbnails/14fb2a0a885d8a14fb2a0a886170.jpg
     url: /files/original/14fb2a0a885d8a14fb2a0a886170.jpg
+    alt:
+      en: "Debris-covered street in a residential neighborhood lined with white houses, with a sediment-caked road, parked cars, bare trees, and utility poles against a hazy sky."
 geo:
 id: 20233
 item_type: Still Image

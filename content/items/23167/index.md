@@ -21,6 +21,8 @@ files:
     original_filename: Awaiting aircraftdelaware.jpg
     thumb: /files/thumbnails/14fb29f145d37b14fb29f145d756.jpg
     url: /files/original/14fb29f145d37b14fb29f145d756.jpg
+    alt:
+      en: "Six soldiers in camouflage uniforms stand near a military truck with a canvas-covered cargo bed in a parking lot, handling supplies while other vehicles wait nearby under a bright sky."
 geo:
 id: 23167
 item_type: Still Image

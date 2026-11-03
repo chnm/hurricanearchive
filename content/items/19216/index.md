@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2161conventionctr.JPG
     thumb: /files/thumbnails/14fb2a11c67bfe14fb2a11c67fd8.jpg
     url: /files/original/14fb2a11c67bfe14fb2a11c67fd8.jpg
+    alt:
+      en: "Military Police Humvee parked on a debris-strewn street, with soldiers standing beside a line of camouflage military trucks and gathering on a grassy area in the background."
 geo:
 id: 19216
 item_type: Still Image

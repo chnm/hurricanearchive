@@ -21,6 +21,8 @@ files:
     original_filename: 100_0109.JPG
     thumb: /files/thumbnails/14fb2a595f3a8314fb2a595f3e72.jpg
     url: /files/original/14fb2a595f3a8314fb2a595f3e72.jpg
+    alt:
+      en: "Two military helicopters parked on a grassy shoreline beyond a calm waterway, viewed from a Coast Guard boat with an antenna in the foreground and a long bridge visible in the distance."
 geo:
 id: 3822
 item_type: Still Image

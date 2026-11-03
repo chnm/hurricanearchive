@@ -27,6 +27,8 @@ files:
     original_filename: MidCityrents_1e7ae63226.JPG
     thumb: /files/thumbnails/14fb29cc087a5b14fb29cc087e41.jpg
     url: /files/original/14fb29cc087a5b14fb29cc087e41.jpg
+    alt:
+      en: "A \"FOR RENT\" sign with a phone number is posted on the cream-colored wooden siding of a house, with a handwritten note below listing \"Shotgun 1000\" and \"Studio 500\" as monthly rents."
 geo:
   address: Ponce de leon Street
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: More Jackson Barracks 9Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4db1aac14fb29f4db1e9c.jpg
     url: /files/original/14fb29f4db1aac14fb29f4db1e9c.jpg
+    alt:
+      en: "Street submerged in floodwater with several partially sunken vehicles, a lit lamppost, and utility poles with power lines visible through heavy rain and fog."
 geo:
 id: 22650
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300026zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f1a481e14fb2a0f1a5c63.jpg
     url: /files/original/14fb2a0f1a481e14fb2a0f1a5c63.jpg
+    alt:
+      en: "Flatbed truck loaded with pallets of bottled water (Crystal Geyser and other brands) wrapped in plastic, parked in a lot with handicap-parking signs, trees, and storm debris in the background."
 geo:
 id: 19572
 item_type: Still Image

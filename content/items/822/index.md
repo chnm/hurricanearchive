@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27963.jpg
     thumb: /files/thumbnails/14fb2a6cd52bd014fb2a6cd52fb5.jpg
     url: /files/original/14fb2a6cd52bd014fb2a6cd52fb5.jpg
+    alt:
+      en: "Exterior view of the Superdome's curved roof and open ground-level arcade, with a fallen metal pole and discarded banners reading \"Hornets\" lying on the pavement in the foreground."
 geo:
   address: ''
   lat: 0.0

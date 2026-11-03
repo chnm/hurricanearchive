@@ -21,6 +21,8 @@ files:
     original_filename: Picture 085cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bcf14f014fb2a0bcf1904.jpg
     url: /files/original/14fb2a0bcf14f014fb2a0bcf1904.jpg
+    alt:
+      en: "View from a moving vehicle over a concrete bridge barrier, looking out toward a river with docked barges, industrial cranes, and a tree-lined shoreline under a hazy sky."
 geo:
 id: 19988
 item_type: Still Image

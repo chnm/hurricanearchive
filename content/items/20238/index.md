@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 09140012.JPG
     thumb: /files/thumbnails/14fb2a0a828d9414fb2a0a82917a.jpg
     url: /files/original/14fb2a0a828d9414fb2a0a82917a.jpg
+    alt:
+      en: "Military Humvees travel down a debris-strewn street past a \"DO NOT BLOCK INTERSECTION\" sign and a red pickup truck, with damaged trees and houses lining the road."
 geo:
 id: 20238
 item_type: Still Image

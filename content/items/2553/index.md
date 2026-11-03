@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8875.jpg
     thumb: /files/thumbnails/14fb2a655be94514fb2a655bed28.jpg
     url: /files/original/14fb2a655be94514fb2a655bed28.jpg
+    alt:
+      en: "A worker in a hard hat operates a grapple-arm truck, lifting a discarded refrigerator amid rows of abandoned appliances at an outdoor disposal site under a clear blue sky."
 geo:
 id: 2553
 item_type: Still Image

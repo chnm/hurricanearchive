@@ -26,6 +26,8 @@ files:
     original_filename: 9_9ede9b535b.jpg
     thumb: /files/thumbnails/14fb2a706cccc614fb2a706cd0a6.jpg
     url: /files/original/14fb2a706cccc614fb2a706cd0a6.jpg
+    alt:
+      en: "A brick house with severe roof damage, large fallen tree limbs resting on the collapsed section, and debris scattered across the lawn and driveway."
 geo:
   address: ''
   lat: 30.065367

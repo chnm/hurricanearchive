@@ -21,6 +21,8 @@ files:
     original_filename: S4300033zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0ef9f2ee14fb2a0ef9f6d3.jpg
     url: /files/original/14fb2a0ef9f2ee14fb2a0ef9f6d3.jpg
+    alt:
+      en: "Two stainless steel Wascomat front-loading washing machines side by side, with laundry detergent buckets and boxes on the floor nearby."
 geo:
 id: 19579
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Uptown (4).JPG
     thumb: /files/thumbnails/14fb2a5db3265914fb2a5db32a0e.jpg
     url: /files/original/14fb2a5db3265914fb2a5db32a0e.jpg
+    alt:
+      en: "Interior of a damaged room with collapsed, water-stained ceiling panels, exposed beige walls, and debris piled on the floor near a window with white blinds and sheer curtains."
 geo:
 id: 3152
 item_type: Still Image

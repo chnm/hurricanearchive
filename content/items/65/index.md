@@ -26,6 +26,8 @@ files:
     original_filename: 135923main_katrinaposter_bba6382b9f.gif
     thumb: /files/thumbnails/14fb2a71278af314fb2a71278ece.jpg
     url: /files/original/14fb2a71278af314fb2a71278ece.jpg
+    alt:
+      en: "A NASA poster titled \"Hurricane Katrina\" featuring a large satellite image of the spiraling storm over the Gulf of Mexico, alongside two smaller aerial photos showing flooding in New Orleans."
 geo:
   address: ''
   lat: 30.435893

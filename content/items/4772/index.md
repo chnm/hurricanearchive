@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0471.JPG
     thumb: /files/thumbnails/14fb2a55a8637a14fb2a55a86750.jpg
     url: /files/original/14fb2a55a8637a14fb2a55a86750.jpg
+    alt:
+      en: "Cleared lot with scattered debris, broken concrete slabs, and brick pavers, surrounded by bare and leafy trees under a clear blue sky, with a blue tarp hanging in the foliage."
 geo:
 id: 4772
 item_type: Still Image

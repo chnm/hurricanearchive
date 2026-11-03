@@ -21,6 +21,8 @@ files:
     original_filename: IMG_6278_a73e7d42c1.jpg
     thumb: /files/thumbnails/14fb2a16f2670e14fb2a16f26af2.jpg
     url: /files/original/14fb2a16f2670e14fb2a16f26af2.jpg
+    alt:
+      en: "A costumed king figure in white robes and crown stands atop an ornate Mardi Gras parade float decorated with gold tigers and a crown canopy, with city buildings and storefronts in the background."
 geo:
   address: ''
   lat: 37.77123

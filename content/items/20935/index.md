@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0152-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a016e9b1d14fb2a016e9f11.jpg
     url: /files/original/14fb2a016e9b1d14fb2a016e9f11.jpg
+    alt:
+      en: "A severely damaged structure with a twisted metal roof and collapsed siding stands amid debris and standing water, with a small red building visible in the background under bare trees."
 geo:
 id: 20935
 item_type: Still Image

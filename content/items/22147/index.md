@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-00-0Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f9536fc414fb29f95373aa.jpg
     url: /files/original/14fb29f9536fc414fb29f95373aa.jpg
+    alt:
+      en: "Grainy photo of a flooded area with a light-colored structure, possibly a doorway with handles, reflected in standing water surrounded by dark, textured ground."
 geo:
 id: 22147
 item_type: Still Image

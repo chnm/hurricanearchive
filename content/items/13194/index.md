@@ -21,6 +21,8 @@ files:
     original_filename: 187 flooding8.jpg
     thumb: /files/thumbnails/14fb2a1f76f82414fb2a1f76fc07.jpg
     url: /files/original/14fb2a1f76f82414fb2a1f76fc07.jpg
+    alt:
+      en: "Floodwater submerges a street and yard, covering tree trunks and the base of a stop sign post, with a house and utility poles visible in the background."
 geo:
 id: 13194
 item_type: Still Image

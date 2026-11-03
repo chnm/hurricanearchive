@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0183-9-25.JPG
     thumb: /files/thumbnails/14fb2a0065291f14fb2a00652d05.jpg
     url: /files/original/14fb2a0065291f14fb2a00652d05.jpg
+    alt:
+      en: "Aerial view of a flooded two-lane road leading into floodwaters, with leaning utility poles and scattered debris along the submerged roadway."
 geo:
 id: 21136
 item_type: Still Image

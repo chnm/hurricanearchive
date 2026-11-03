@@ -20,6 +20,8 @@ files:
     original_filename: Lakeview 3.JPG
     thumb: /files/thumbnails/14fb29d59da64d14fb29d59daa32.jpg
     url: /files/original/14fb29d59da64d14fb29d59daa32.jpg
+    alt:
+      en: "A car sits propped up against a large tree, its front end lifted off the ground, with a brick house visible in the background."
 geo:
 id: 27255
 item_type: Still Image

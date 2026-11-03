@@ -24,6 +24,8 @@ files:
     original_filename: P1010151.JPG
     thumb: /files/thumbnails/14fb2a5a11108614fb2a5a11146b.jpg
     url: /files/original/14fb2a5a11108614fb2a5a11146b.jpg
+    alt:
+      en: "A weathered American flag hangs from a porch pole in front of a storm-damaged house marked with spray-painted search-and-rescue symbols, including \"535,\" \"AAA,\" \"9/24,\" and an X, with a mailbox numbered 6533 nearby."
 geo:
 id: 3705
 item_type: Still Image

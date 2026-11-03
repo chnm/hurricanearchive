@@ -21,6 +21,8 @@ files:
     original_filename: Picture 031engineers.jpg
     thumb: /files/thumbnails/14fb2a0fd4779614fb2a0fd47b7c.jpg
     url: /files/original/14fb2a0fd4779614fb2a0fd47b7c.jpg
+    alt:
+      en: "Side-by-side aerial views of a New Orleans neighborhood along a canal and golf course, comparing August 28, 2002 with September 2, 2005, when widespread flooding submerged streets and homes after Hurricane Katrina."
 geo:
 id: 19471
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0095-21.JPG
     thumb: /files/thumbnails/14fb29e7acac7b14fb29e7acb05a.jpg
     url: /files/original/14fb29e7acac7b14fb29e7acb05a.jpg
+    alt:
+      en: "A man in woodland camouflage military uniform and matching cap holds up his hand toward the camera, with a nametape reading \"GULLEY\" and \"U.S. ARMY\" visible on his chest."
 geo:
 id: 24443
 item_type: Still Image

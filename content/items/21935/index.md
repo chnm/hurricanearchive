@@ -21,6 +21,8 @@ files:
     original_filename: Picture 266-J2.jpg
     thumb: /files/thumbnails/14fb29faee464d14fb29faee4a14.jpg
     url: /files/original/14fb29faee464d14fb29faee4a14.jpg
+    alt:
+      en: "A capsized boat rests on grass beside a concrete floodwall and roadway, with industrial conveyor structures and storage domes visible in the background under a clear sky."
 geo:
 id: 21935
 item_type: Still Image

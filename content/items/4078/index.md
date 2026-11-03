@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0045.JPG
     thumb: /files/thumbnails/14fb2a5807be3d14fb2a5807c223.jpg
     url: /files/original/14fb2a5807be3d14fb2a5807c223.jpg
+    alt:
+      en: "A group of men and women stand outdoors in a parking area near portable toilets and a light pole, with two men shaking hands at the center while a woman films with a handheld camcorder in the foreground."
 geo:
 id: 4078
 item_type: Still Image

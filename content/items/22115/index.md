@@ -21,6 +21,8 @@ files:
     original_filename: 09140026Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f97cb86614fb29f97cbc32.jpg
     url: /files/original/14fb29f97cb86614fb29f97cbc32.jpg
+    alt:
+      en: "A leaning, leafless tree bends over a sidewalk near brick buildings, with a camouflage-patterned truck and tarp visible among utility poles and tangled wires in the background."
 geo:
 id: 22115
 item_type: Still Image

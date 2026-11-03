@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2019superdome.JPG
     thumb: /files/thumbnails/14fb29df5c5cd414fb29df5c606f.jpg
     url: /files/original/14fb29df5c5cd414fb29df5c606f.jpg
+    alt:
+      en: "Evacuees being guided toward a military helicopter on a tarmac, with a uniformed service member directing them forward; a visible t-shirt reads \"Protect Our Vote.\""
 geo:
 id: 25292
 item_type: Still Image

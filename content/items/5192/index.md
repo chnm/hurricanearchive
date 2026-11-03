@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0554.JPG
     thumb: /files/thumbnails/14fb2a5370f01014fb2a5370f3f6.jpg
     url: /files/original/14fb2a5370f01014fb2a5370f3f6.jpg
+    alt:
+      en: "Open grassy field with scattered trees in the background under a clear blue sky; debris, including torn orange and white fabric, hangs from a tree branch in the foreground."
 geo:
 id: 5192
 item_type: Still Image

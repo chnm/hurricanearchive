@@ -21,6 +21,8 @@ files:
     original_filename: S4300086bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a13992b3614fb2a13992f1c.jpg
     url: /files/original/14fb2a13992b3614fb2a13992f1c.jpg
+    alt:
+      en: "A U.S. Army general in digital camouflage uniform and beret, name tape reading \"HONORE,\" speaks with other service members and a civilian woman in an outdoor lot with vehicles and tents."
 geo:
 id: 19025
 item_type: Still Image

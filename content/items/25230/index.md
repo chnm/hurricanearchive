@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1929superdome.JPG
     thumb: /files/thumbnails/14fb29e09e387e14fb29e09e4009.jpg
     url: /files/original/14fb29e09e387e14fb29e09e4009.jpg
+    alt:
+      en: "A large military helicopter sits on a rooftop helipad as armed soldiers in camouflage run across the tarmac, with elevated highways, palm trees, and city buildings visible in the background."
 geo:
 id: 25230
 item_type: Still Image

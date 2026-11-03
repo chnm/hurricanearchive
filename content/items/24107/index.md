@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0012stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea947f8014fb29ea9483a9.jpg
     url: /files/original/14fb29ea947f8014fb29ea9483a9.jpg
+    alt:
+      en: "Military front-end loader (marked \"225GP 527E C27\") plows through a flooded, mud-covered street lined with bare trees and damaged houses, with debris piled against a brick home in the background."
 geo:
 id: 24107
 item_type: Still Image

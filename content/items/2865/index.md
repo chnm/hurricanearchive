@@ -21,6 +21,8 @@ files:
     original_filename: MVC-022S.JPG
     thumb: /files/thumbnails/14fb2a5fc4a3fa14fb2a5fc4a870.jpg
     url: /files/original/14fb2a5fc4a3fa14fb2a5fc4a870.jpg
+    alt:
+      en: "A metal tool resembling a valve or wheel mechanism rests inside an open wooden crate with a hinged lid, surrounded by industrial machinery in a dimly lit interior space."
 geo:
 id: 2865
 item_type: Still Image

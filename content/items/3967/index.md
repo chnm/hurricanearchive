@@ -21,6 +21,8 @@ files:
     original_filename: DSC01046.JPG
     thumb: /files/thumbnails/14fb2a58b19ac914fb2a58b19eae.jpg
     url: /files/original/14fb2a58b19ac914fb2a58b19eae.jpg
+    alt:
+      en: "A CH-47 Chinook helicopter in silhouette carries a large sling-load bag beneath it against a hazy sky, with a second helicopter visible in the distance near rooftop structures below."
 geo:
 id: 3967
 item_type: Still Image

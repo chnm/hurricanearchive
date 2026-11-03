@@ -21,6 +21,8 @@ files:
     original_filename: aerials52.jpg
     thumb: /files/thumbnails/14fb2a19bdf70b14fb2a19bdfaf1.jpg
     url: /files/original/14fb2a19bdf70b14fb2a19bdfaf1.jpg
+    alt:
+      en: "Aerial view of a storm-damaged wooded area with scattered scorched and defoliated trees, sandy cleared patches, and debris scattered among the remaining trunks and brush."
 geo:
 id: 14341
 item_type: Still Image

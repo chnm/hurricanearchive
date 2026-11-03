@@ -21,6 +21,8 @@ files:
     original_filename: 105-04_a8126e694d.jpg
     thumb: /files/thumbnails/14fb2a1e49656014fb2a1e49693d.jpg
     url: /files/original/14fb2a1e49656014fb2a1e49693d.jpg
+    alt:
+      en: "Black-and-white street scene of North Claiborne Avenue at Desire Street, New Orleans, 1949, showing an Esso gas station, parked cars, pedestrians, and modest houses along a wide, empty road."
 geo:
 id: 13341
 item_type: Still Image

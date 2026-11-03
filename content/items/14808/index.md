@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_TrinityMiller_01_583c1a5e87.jpg
     thumb: /files/thumbnails/14fb2a1799b20014fb2a1799b5ec.jpg
     url: /files/original/14fb2a1799b20014fb2a1799b5ec.jpg
+    alt:
+      en: "A young girl in a plaid school uniform sits smiling near a bookshelf stocked with children's books, including \"The Cat in the Hat,\" with stuffed animals and a classroom table nearby."
 geo:
 id: 14808
 item_type: Still Image

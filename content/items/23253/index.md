@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 9.jpg
     thumb: /files/thumbnails/14fb29f0478c5014fb29f047903a.jpg
     url: /files/original/14fb29f0478c5014fb29f047903a.jpg
+    alt:
+      en: "Satellite weather map of the Atlantic and Gulf Coast showing a large hurricane near Florida, with timestamp \"28 Aug 2005 15:16 GMT / 11:16 AM EDT\" and The Weather Channel logo."
 geo:
 id: 23253
 item_type: Still Image

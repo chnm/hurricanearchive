@@ -23,6 +23,8 @@ files:
     original_filename: 336698111_7786731d2b.jpg
     thumb: /files/thumbnails/14fb29d5b31f2214fb29d5b32b7b.jpg
     url: /files/original/14fb29d5b31f2214fb29d5b32b7b.jpg
+    alt:
+      en: "Debris-strewn muddy field with scattered trash, twisted metal sheeting, and a collapsed low wall or levee section in the background under an overcast sky."
 geo:
 id: 27122
 item_type: Still Image

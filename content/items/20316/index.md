@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0248-9-18.JPG
     thumb: /files/thumbnails/14fb2a097e26d114fb2a097e2ab1.jpg
     url: /files/original/14fb2a097e26d114fb2a097e2ab1.jpg
+    alt:
+      en: "A military helicopter marked \"994\" sits with rotors spinning on a ship's flight deck near water, as a crew member in a blue jacket and helmet signals near the open side door."
 geo:
 id: 20316
 item_type: Still Image

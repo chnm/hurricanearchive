@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2117superdome.JPG
     thumb: /files/thumbnails/14fb29e4b0703814fb29e4b074a1.jpg
     url: /files/original/14fb29e4b0703814fb29e4b074a1.jpg
+    alt:
+      en: "Two U.S. Army soldiers in camouflage uniforms, nametags reading \"Reed\" and \"Price,\" sit on a small utility cart branded \"United Rentals\" inside a dimly lit warehouse or loading area."
 geo:
 id: 24795
 item_type: Still Image

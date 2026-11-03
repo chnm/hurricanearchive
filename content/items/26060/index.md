@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6993_902d7ec3aa.jpg
     thumb: /files/thumbnails/14fb29db74e92414fb29db74ed09.jpg
     url: /files/original/14fb29db74e92414fb29db74ed09.jpg
+    alt:
+      en: "Large group of formally dressed men, women, and children posed in rows outside a wooden church, with a partially visible sign reading \"Peoples M... Church\" and \"2nd A... People's.\""
 geo:
   address: ''
   lat: 29.91685

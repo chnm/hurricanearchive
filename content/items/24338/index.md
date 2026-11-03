@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-14-12A.jpg
     thumb: /files/thumbnails/14fb29e8a8d0b214fb29e8a8d3cd.jpg
     url: /files/original/14fb29e8a8d0b214fb29e8a8d3cd.jpg
+    alt:
+      en: "Floodwater submerges a parking garage and street, with several cars partially underwater beneath a covered structure, viewed from the deck of a boat in the foreground."
 geo:
 id: 24338
 item_type: Still Image

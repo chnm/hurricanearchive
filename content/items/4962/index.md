@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0304.JPG
     thumb: /files/thumbnails/14fb2a54c702c414fb2a54c708ac.jpg
     url: /files/original/14fb2a54c702c414fb2a54c708ac.jpg
+    alt:
+      en: "A single-story ranch house with storm-damaged roof shingles, surrounded by broken and leaning trees, with scattered debris on the lawn and driveway."
 geo:
 id: 4962
 item_type: Still Image

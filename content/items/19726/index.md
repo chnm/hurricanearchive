@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 113cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e2dd2e914fb2a0e2dd6cf.jpg
     url: /files/original/14fb2a0e2dd2e914fb2a0e2dd6cf.jpg
+    alt:
+      en: "Interior of a warehouse with collapsed metal roofing panels, scattered cardboard boxes, and standing water covering the debris-strewn floor, illuminated by skylights in the background."
 geo:
 id: 19726
 item_type: Still Image

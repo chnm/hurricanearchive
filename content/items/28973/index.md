@@ -30,6 +30,8 @@ files:
     original_filename: closeup chair_a722e4c2bf.jpg.JPG
     thumb: /files/thumbnails/14fb29d1374a3214fb29d1374db8.jpg
     url: /files/original/14fb29d1374a3214fb29d1374db8.jpg
+    alt:
+      en: "A wooden chair wedged in a tree holds a stack of children's books leaning against its back, including titles like \"Masks Around the World,\" \"City Signs,\" and \"If I Ran the Zoo.\""
 geo:
   address: 2426 Bradish Place
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4963_1_d805dc258d.jpg
     thumb: /files/thumbnails/14fb2a1e23589014fb2a1e235c75.jpg
     url: /files/original/14fb2a1e23589014fb2a1e235c75.jpg
+    alt:
+      en: "Vintage black-and-white photograph of a young girl in a white dress standing before a brick building with two multi-pane windows and a drainpipe; the print's corners show aged, peeling mounting residue."
 geo:
 id: 13379
 item_type: Still Image

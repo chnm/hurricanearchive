@@ -21,6 +21,8 @@ files:
     original_filename: P1010169empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed6bdb5914fb29ed6bdf39.jpg
     url: /files/original/14fb29ed6bdb5914fb29ed6bdf39.jpg
+    alt:
+      en: "Debris-filled standing water surrounded by charred wreckage and twisted metal beams, with greenery and bare trees in the background under a hazy sky."
 geo:
 id: 23728
 item_type: Still Image

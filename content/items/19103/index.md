@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 013.jpg
     thumb: /files/thumbnails/14fb2a130e751c14fb2a130e77a4.jpg
     url: /files/original/14fb2a130e751c14fb2a130e77a4.jpg
+    alt:
+      en: "A dark green military helicopter, marked \"600,\" sits parked on a grassy field near a Quonset-style hut, with trees and a clear sky in the background."
 geo:
 id: 19103
 item_type: Still Image

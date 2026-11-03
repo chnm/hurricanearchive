@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0139-9-25.JPG
     thumb: /files/thumbnails/14fb2a0229d82114fb2a0229de33.jpg
     url: /files/original/14fb2a0229d82114fb2a0229de33.jpg
+    alt:
+      en: "Aerial view of a flooded school complex with a submerged football field and goal posts, collapsed bleachers, scattered debris, and damaged roofs on surrounding buildings."
 geo:
 id: 20885
 item_type: Still Image

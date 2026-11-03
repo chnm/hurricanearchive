@@ -23,6 +23,8 @@ files:
     original_filename: 2326959502_01458bb744.
     thumb: /files/thumbnails/14fb29ca0d59af14fb29ca0d5d9d.jpg
     url: /files/original/14fb29ca0d59af14fb29ca0d5d9d.jpg
+    alt:
+      en: "Man in a car looks through the window at a severely storm-damaged house with a collapsed roof and debris scattered around, including an overturned white pickup truck."
 geo:
   address: ''
   lat: 30.23864

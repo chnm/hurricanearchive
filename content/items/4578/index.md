@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0004.JPG
     thumb: /files/thumbnails/14fb2a56f4689d14fb2a56f46b3d.jpg
     url: /files/original/14fb2a56f4689d14fb2a56f46b3d.jpg
+    alt:
+      en: "A large pile of storm debris—including splintered wood, roofing materials, and household items—sits beside a damaged chimney, with stripped trees and a dumpster nearby along an empty street."
 geo:
 id: 4578
 item_type: Still Image

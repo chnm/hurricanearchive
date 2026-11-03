@@ -24,6 +24,8 @@ files:
     original_filename: P1010111.JPG
     thumb: /files/thumbnails/14fb2a5af6440d14fb2a5af647f2.jpg
     url: /files/original/14fb2a5af6440d14fb2a5af647f2.jpg
+    alt:
+      en: "Statue of the Virgin Mary atop a brick pedestal in front of a storm-damaged house marked with \"SPCA\" search-and-rescue spray paint, surrounded by bare trees and debris."
 geo:
 id: 3535
 item_type: Still Image

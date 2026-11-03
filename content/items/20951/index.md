@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0155-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a015a0c5214fb2a015a10b3.jpg
     url: /files/original/14fb2a015a0c5214fb2a015a10b3.jpg
+    alt:
+      en: "A bare, leafless tree stands in front of a brick building and church with a steeple, surrounded by storm debris, scattered dead grass, and a bent sheet of metal roofing leaning against the trunk."
 geo:
 id: 20951
 item_type: Still Image

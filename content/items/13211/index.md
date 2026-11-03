@@ -21,6 +21,8 @@ files:
     original_filename: 205 building.jpg
     thumb: /files/thumbnails/14fb2a1f4c2e5f14fb2a1f4c3242.jpg
     url: /files/original/14fb2a1f4c2e5f14fb2a1f4c3242.jpg
+    alt:
+      en: "Damaged brick building with a collapsed metal staircase or fire escape hanging from its side, surrounded by trees and a bent guardrail in the foreground, under an overcast sky."
 geo:
 id: 13211
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC01093.JPG
     thumb: /files/thumbnails/14fb2a58916e6a14fb2a58917243.jpg
     url: /files/original/14fb2a58916e6a14fb2a58917243.jpg
+    alt:
+      en: "A white statue of a robed figure stands partially submerged in brown floodwater in front of a brick building labeled \"NEW ORLEANS PUB...RARY, ROBT. E. SMITH BRANCH,\" with bare branches and a damaged glass canopy nearby."
 geo:
 id: 4000
 item_type: Still Image

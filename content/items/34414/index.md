@@ -23,6 +23,8 @@ files:
     original_filename: 2379891291_6faeab91ef.
     thumb: /files/thumbnails/14fb29ca2676a314fb29ca267a89.jpg
     url: /files/original/14fb29ca2676a314fb29ca267a89.jpg
+    alt:
+      en: "Aerial view of a flooded waterfront subdivision with houses arranged along a curved canal, surrounded by widespread standing water and marshland; date stamp \"8/31/2\" visible in corner."
 geo:
   address: ''
   lat: 30.23512

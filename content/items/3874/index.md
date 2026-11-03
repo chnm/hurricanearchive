@@ -21,6 +21,8 @@ files:
     original_filename: 100_0167.JPG
     thumb: /files/thumbnails/14fb2a5925b12314fb2a5925b50d.jpg
     url: /files/original/14fb2a5925b12314fb2a5925b50d.jpg
+    alt:
+      en: "Floodwater submerges the lower portion of a brick building, with large tree branches hanging over the water and debris, including a white object and blue material, floating near the surface."
 geo:
 id: 3874
 item_type: Still Image

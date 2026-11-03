@@ -20,6 +20,8 @@ files:
     original_filename: 2298638798_7fd3a89762.
     thumb: /files/thumbnails/14fb29c8167bc814fb29c8168284.jpg
     url: /files/original/14fb29c8167bc814fb29c8168284.jpg
+    alt:
+      en: "A woman in a lavender shirt leans over a small pink children's bicycle beside a chain-link fence, while a man in a black shirt with a bicycle tattoo stands nearby holding another bike's handlebars."
 geo:
 id: 34975
 item_type: Still Image

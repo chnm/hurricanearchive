@@ -20,6 +20,8 @@ files:
     original_filename: Hurricane symbol waves 11-26-07_41d40dd6b7.JPG
     thumb: /files/thumbnails/14fb29cbd29df314fb29cbd2a1da.jpg
     url: /files/original/14fb29cbd29df314fb29cbd2a1da.jpg
+    alt:
+      en: "A crescent-shaped steel plaque mounted on a brick wall, featuring a horizontal welded wavy line across its center to symbolize a floodwater line."
 geo:
   address: ''
   lat: 30.28279

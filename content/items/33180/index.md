@@ -23,6 +23,8 @@ files:
     original_filename: 2038263929_0b22e9c0c2.jpg
     thumb: /files/thumbnails/14fb29cbd0409514fb29cbd0722c.jpg
     url: /files/original/14fb29cbd0409514fb29cbd0722c.jpg
+    alt:
+      en: "A fire-damaged, boarded-up corner building with a weathered \"Holiday Inn\" directional sign and a \"Do Not Enter\" sign nearby, set against a clear blue sky and utility poles."
 geo:
   address: ''
   lat: 29.95916

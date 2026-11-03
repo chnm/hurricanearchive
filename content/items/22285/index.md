@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1096Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f808923714fb29f8089a09.jpg
     url: /files/original/14fb29f808923714fb29f8089a09.jpg
+    alt:
+      en: "Floodwaters submerge a street and yard under heavy rain, with a partially sunken object and debris floating near a utility pole, trees and a building visible through the mist."
 geo:
 id: 22285
 item_type: Still Image

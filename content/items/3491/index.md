@@ -24,6 +24,8 @@ files:
     original_filename: P1010065.JPG
     thumb: /files/thumbnails/14fb2a5b80092814fb2a5b801118.jpg
     url: /files/original/14fb2a5b80092814fb2a5b801118.jpg
+    alt:
+      en: "Fire-damaged room with charred wood-paneled walls and torn ceiling insulation hanging overhead, debris-covered floor with a blackened television, soot-stained furniture, and a braided rug."
 geo:
 id: 3491
 item_type: Still Image

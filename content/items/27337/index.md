@@ -23,6 +23,8 @@ files:
     original_filename: 336694865_941e2f661b.jpg
     thumb: /files/thumbnails/14fb29d48c105014fb29d48c1439.jpg
     url: /files/original/14fb29d48c105014fb29d48c1439.jpg
+    alt:
+      en: "A large, leafless tree has fallen onto a pink house, with its branches covering the front porch and windows; overgrown grass and a chain-link fence surround the property under a cloudy sky."
 geo:
 id: 27337
 item_type: Still Image

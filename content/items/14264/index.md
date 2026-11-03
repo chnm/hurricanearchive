@@ -21,6 +21,8 @@ files:
     original_filename: aerials106.jpg
     thumb: /files/thumbnails/14fb2a1a5b075a14fb2a1a5b0b3c.jpg
     url: /files/original/14fb2a1a5b075a14fb2a1a5b0b3c.jpg
+    alt:
+      en: "Aerial view of a severely damaged property with a collapsed structure, debris scattered across the ground, a dark in-ground pool, and surrounding trees stripped bare, next to a paved road."
 geo:
 id: 14264
 item_type: Still Image

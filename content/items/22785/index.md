@@ -21,6 +21,8 @@ files:
     original_filename: S4300141Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3f4bd4414fb29f3f4c12a.jpg
     url: /files/original/14fb29f3f4bd4414fb29f3f4c12a.jpg
+    alt:
+      en: "Damaged mobile home with shattered windows and torn siding, surrounded by debris, cinder blocks, and a dead tree, behind a chain-link fence."
 geo:
 id: 22785
 item_type: Still Image

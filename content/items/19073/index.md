@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1899.JPG
     thumb: /files/thumbnails/14fb2a1362b70714fb2a1362bad3.jpg
     url: /files/original/14fb2a1362b70714fb2a1362bad3.jpg
+    alt:
+      en: "A helicopter sits at the far end of a paved runway bordered by grass, with a tree line and hazy sky in the background."
 geo:
 id: 19073
 item_type: Still Image

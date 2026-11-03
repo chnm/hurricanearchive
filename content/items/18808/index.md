@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0038grandisle.JPG
     thumb: /files/thumbnails/14fb2a153091a114fb2a15309586.jpg
     url: /files/original/14fb2a153091a114fb2a15309586.jpg
+    alt:
+      en: "Aerial view of a storm-damaged coastline with debris scattered across sand and grass, elevated houses on stilts, and a calm gray sea with gentle waves."
 geo:
 id: 18808
 item_type: Still Image

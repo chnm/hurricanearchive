@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28034.jpg
     thumb: /files/thumbnails/14fb2a68d77b5714fb2a68d77f3b.jpg
     url: /files/original/14fb2a68d77b5714fb2a68d77f3b.jpg
+    alt:
+      en: "A tall concrete floodwall panel with exposed aggregate and a vertical rod stands beside a canal, with sandbags on the bank and a gravel road leading to houses in the distance."
 geo:
   address: ''
   lat: 0.0

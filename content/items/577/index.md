@@ -26,6 +26,8 @@ files:
     original_filename: 029_29_97a0241365.JPG
     thumb: /files/thumbnails/14fb2a6f7eb5fa14fb2a6f7eb9de.jpg
     url: /files/original/14fb2a6f7eb5fa14fb2a6f7eb9de.jpg
+    alt:
+      en: "Storm-damaged church with a collapsed, torn metal roof and a cross still standing atop the structure, surrounded by debris, downed trees, and wreckage scattered across the ground."
 geo:
   address: ''
   lat: 30.374646

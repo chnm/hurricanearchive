@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049M.JPG
     thumb: /files/thumbnails/14fb2a056db10714fb2a056db543.jpg
     url: /files/original/14fb2a056db10714fb2a056db543.jpg
+    alt:
+      en: "View from a bridge over a wide river, with industrial cranes and docked ships visible in the hazy distance along the far shore."
 geo:
 id: 20652
 item_type: Still Image

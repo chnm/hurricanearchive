@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0198abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eeb76cea14fb29eeb770b0.jpg
     url: /files/original/14fb29eeb76cea14fb29eeb770b0.jpg
+    alt:
+      en: "Group of people sitting and standing in a yard in front of a house with a clothesline of drying garments, a window fan, and lawn chairs, with a truck visible in the foreground."
 geo:
 id: 23577
 item_type: Still Image

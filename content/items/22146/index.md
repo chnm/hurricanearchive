@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-26-25AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f9554c3714fb29f955501d.jpg
     url: /files/original/14fb29f9554c3714fb29f955501d.jpg
+    alt:
+      en: "View through a green-framed multi-pane window showing a flooded landscape outside, with bare trees, utility poles, and standing water visible under an overcast sky."
 geo:
 id: 22146
 item_type: Still Image

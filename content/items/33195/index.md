@@ -23,6 +23,8 @@ files:
     original_filename: 1438868598_264490fcdf.
     thumb: /files/thumbnails/14fb29cbaa489814fb29cbaa49eb.jpg
     url: /files/original/14fb29cbaa489814fb29cbaa49eb.jpg
+    alt:
+      en: "A roadside scene with a tall, stripped sign frame missing its panels, a golden-arches sign in the background, and a \"Brooks Plumbing, Inc.\" billboard beside an empty lot."
 geo:
 id: 33195
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0360-16.JPG
     thumb: /files/thumbnails/14fb29fcee434d14fb29fcee4734.jpg
     url: /files/original/14fb29fcee434d14fb29fcee4734.jpg
+    alt:
+      en: "A chain-link fence lines a dirt path beside a canal, with storm debris and damaged structures scattered along the opposite bank under bare, broken trees."
 geo:
 id: 21628
 item_type: Still Image

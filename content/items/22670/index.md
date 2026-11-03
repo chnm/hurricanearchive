@@ -21,6 +21,8 @@ files:
     original_filename: PICT0140Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4cdcb0c14fb29f4cdcef3.jpg
     url: /files/original/14fb29f4cdcb0c14fb29f4cdcef3.jpg
+    alt:
+      en: "White house with screened porch featuring arched windows, an American flag, a \"LTC JONES\" sign, and house number \"19,\" dated 09.15.2005."
 geo:
 id: 22670
 item_type: Still Image

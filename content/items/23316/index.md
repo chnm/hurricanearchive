@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0046cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29effb3a2814fb29effb3e0d.jpg
     url: /files/original/14fb29effb3a2814fb29effb3e0d.jpg
+    alt:
+      en: "Aerial view of a flood-damaged coastal town with debris-strewn streets, stripped trees, standing water, and a water tower labeled \"Cameron\" amid widespread storm destruction."
 geo:
 id: 23316
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (17).JPG
     thumb: /files/thumbnails/14fb2a5dc5e41114fb2a5dc5e7f5.jpg
     url: /files/original/14fb2a5dc5e41114fb2a5dc5e7f5.jpg
+    alt:
+      en: "A large pile of storm debris, including trees and branches, with a yellow excavator working on it, set against a gravel lot and blue sky with clouds."
 geo:
 id: 3133
 item_type: Still Image

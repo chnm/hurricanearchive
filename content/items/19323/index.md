@@ -21,6 +21,8 @@ files:
     original_filename: J2 (40).JPG
     thumb: /files/thumbnails/14fb2a1129f33f14fb2a1129fd46.jpg
     url: /files/original/14fb2a1129f33f14fb2a1129fd46.jpg
+    alt:
+      en: "Aerial view of a wooded area with mixed bare and green-leaved trees alongside a paved road, with utility lines crossing diagonally and a streetlight visible near the roadside."
 geo:
 id: 19323
 item_type: Still Image

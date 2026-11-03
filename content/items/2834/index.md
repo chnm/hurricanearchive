@@ -21,6 +21,8 @@ files:
     original_filename: MVC-025S.JPG
     thumb: /files/thumbnails/14fb2a5fe8822c14fb2a5fe88612.jpg
     url: /files/original/14fb2a5fe8822c14fb2a5fe88612.jpg
+    alt:
+      en: "A model airplane with a dark red fuselage hangs suspended from the ceiling of a building, with rows of windows showing a clear blue sky in the background."
 geo:
 id: 2834
 item_type: Still Image

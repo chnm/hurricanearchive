@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-12_df0b60a0f9.jpg
     thumb: /files/thumbnails/14fb2a16640ef214fb2a166412d8.jpg
     url: /files/original/14fb2a16640ef214fb2a166412d8.jpg
+    alt:
+      en: "Close-up of a sleeping infant in a white bonnet and outfit, photographed against a red background; the photograph shows significant water damage and warping."
 geo:
 id: 15348
 item_type: Still Image

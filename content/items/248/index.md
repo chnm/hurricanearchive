@@ -26,6 +26,8 @@ files:
     original_filename: inside_311e67f0b0.bmp
     thumb: /files/thumbnails/14fb2a7066172314fb2a70661ac3.jpg
     url: /files/original/14fb2a7066172314fb2a70661ac3.jpg
+    alt:
+      en: "Interior of a storm-damaged home with sagging, water-stained insulation hanging from the ceiling, collapsed pink fiberglass batting on the floor, and mold-streaked walls surrounding a doorway."
 geo:
   address: ''
   lat: 30.009063

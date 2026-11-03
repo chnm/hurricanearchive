@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1553superdome.JPG
     thumb: /files/thumbnails/14fb29e2d883d714fb29e2d88b46.jpg
     url: /files/original/14fb29e2d883d714fb29e2d88b46.jpg
+    alt:
+      en: "A uniformed military member directs a woman carrying bags across an open paved lot, with other evacuees and high-rise buildings visible in the background near the Superdome."
 geo:
 id: 25031
 item_type: Still Image

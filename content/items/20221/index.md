@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0175.JPG
     thumb: /files/thumbnails/14fb2a0aa3acb614fb2a0aa3b09c.jpg
     url: /files/original/14fb2a0aa3acb614fb2a0aa3b09c.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood with tree-lined streets stretching toward a hazy downtown skyline, bridge, and river in the distance."
 geo:
 id: 20221
 item_type: Still Image

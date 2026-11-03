@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28036.jpg
     thumb: /files/thumbnails/14fb2a689bf3c214fb2a689bf7a6.jpg
     url: /files/original/14fb2a689bf3c214fb2a689bf7a6.jpg
+    alt:
+      en: "A lone shoe lies on gravel beside a large concrete wall, with a canal and distant tree line visible in the background under a hazy sky."
 geo:
   address: ''
   lat: 0.0

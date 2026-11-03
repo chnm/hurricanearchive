@@ -21,6 +21,8 @@ files:
     original_filename: MVC-005S.JPG
     thumb: /files/thumbnails/14fb2a5f97179414fb2a5f971b74.jpg
     url: /files/original/14fb2a5f97179414fb2a5f971b74.jpg
+    alt:
+      en: "Interior wall with exposed brick and concrete block sections separated by vertical metal studs, revealing structural damage or renovation in progress."
 geo:
 id: 2916
 item_type: Still Image

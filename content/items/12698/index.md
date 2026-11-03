@@ -21,6 +21,8 @@ files:
     original_filename: 102-16_c0814f5cce.jpg
     thumb: /files/thumbnails/14fb2a21b34f2114fb2a21b35306.jpg
     url: /files/original/14fb2a21b34f2114fb2a21b35306.jpg
+    alt:
+      en: "A man in a purple striped shirt and a woman in a yellow lace top smile for the camera indoors, standing near a cabinet with papers and a flower arrangement."
 geo:
 id: 12698
 item_type: Still Image

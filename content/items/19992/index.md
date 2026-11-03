@@ -21,6 +21,8 @@ files:
     original_filename: Picture 089cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bc9d1a314fb2a0bc9d589.jpg
     url: /files/original/14fb2a0bc9d1a314fb2a0bc9d589.jpg
+    alt:
+      en: "Highway overpass wall with chain-link fence above, behind which scattered and toppled shipping containers lie in a rail yard, with a transmission tower and billboard visible in the distance."
 geo:
 id: 19992
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010031.JPG
     thumb: /files/thumbnails/14fb2a5aa7722514fb2a5aa7760a.jpg
     url: /files/original/14fb2a5aa7722514fb2a5aa7760a.jpg
+    alt:
+      en: "A ceramic figurine of three kittens in a basket, soiled with mud and debris, surrounded by salvaged dishware, pitchers, and household items piled outdoors after flooding."
 geo:
 id: 3601
 item_type: Still Image

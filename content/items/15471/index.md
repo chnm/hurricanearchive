@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_JohanLowe_04_e61add86bd.jpg
     thumb: /files/thumbnails/14fb2a16327ba414fb2a16327f8a.jpg
     url: /files/original/14fb2a16327ba414fb2a16327f8a.jpg
+    alt:
+      en: "A young boy wearing a newsboy cap and blue sweater smiles while holding drumsticks at a drum kit, with cymbals and a curtained wall behind him."
 geo:
 id: 15471
 item_type: Still Image

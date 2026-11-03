@@ -21,6 +21,8 @@ files:
     original_filename: MVC-004S.JPG
     thumb: /files/thumbnails/14fb2a5ff9f05b14fb2a5ff9f440.jpg
     url: /files/original/14fb2a5ff9f05b14fb2a5ff9f440.jpg
+    alt:
+      en: "Twin-engine propeller aircraft with red, white, and blue markings parked on an empty paved lot, with grass and distant buildings visible under a clear blue sky."
 geo:
 id: 2813
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0568.JPG
     thumb: /files/thumbnails/14fb2a5694d68314fb2a5694ddce.jpg
     url: /files/original/14fb2a5694d68314fb2a5694ddce.jpg
+    alt:
+      en: "Debris field with scattered leaves, broken furniture, a shattered glass panel, and a plastic bottle, next to a brick paved area and concrete block, likely storm wreckage."
 geo:
 id: 4639
 item_type: Still Image

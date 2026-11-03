@@ -21,6 +21,8 @@ files:
     original_filename: MVC-018S.JPG
     thumb: /files/thumbnails/14fb2a5f90558614fb2a5f905965.jpg
     url: /files/original/14fb2a5f90558614fb2a5f905965.jpg
+    alt:
+      en: "A dimly lit storage room with a large metal support column, shelves of boxes and rolled papers, and cardboard file boxes stacked on a dark floor."
 geo:
 id: 2929
 item_type: Still Image

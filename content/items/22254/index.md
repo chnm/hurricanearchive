@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1065Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f89bf62714fb29f89bfe2c.jpg
     url: /files/original/14fb29f89bf62714fb29f89bfe2c.jpg
+    alt:
+      en: "Silhouette of a shaved-head figure in the foreground looks out over a brick wall topped with razor wire toward fog-shrouded buildings and trees, power lines crossing the misty sky above."
 geo:
 id: 22254
 item_type: Still Image

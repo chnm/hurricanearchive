@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 106cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0db5007814fb2a0db5045e.jpg
     url: /files/original/14fb2a0db5007814fb2a0db5045e.jpg
+    alt:
+      en: "A person in camouflage sits in a military vehicle, viewed from behind through its window frame, with stranded boats piled outside and an emblem visible on one boat's hull."
 geo:
 id: 19803
 item_type: Still Image

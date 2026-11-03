@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0201-21.JPG
     thumb: /files/thumbnails/14fb29ffed4c4214fb29ffed5199.jpg
     url: /files/original/14fb29ffed4c4214fb29ffed5199.jpg
+    alt:
+      en: "Two uniformed military personnel in camouflage fatigues stand beside a vehicle in low light, one wearing a cap with a visible American flag patch on the sleeve of the other."
 geo:
 id: 21224
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1049Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f8b3a05a14fb29f8b3ad11.jpg
     url: /files/original/14fb29f8b3a05a14fb29f8b3ad11.jpg
+    alt:
+      en: "Two helicopters fly low over a grassy field with a running track, near a row of parked cars and a wooden utility pole, under overcast skies."
 geo:
 id: 22242
 item_type: Still Image

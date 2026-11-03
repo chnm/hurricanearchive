@@ -21,6 +21,8 @@ files:
     original_filename: giant c end.jpg
     thumb: /files/thumbnails/14fb2a204c287c14fb2a204c2c60.jpg
     url: /files/original/14fb2a204c287c14fb2a204c2c60.jpg
+    alt:
+      en: "Aerial view from a bridge or platform showing a large red \"C\"-shaped object lying on debris-strewn ground, with a chain-link fence and grass visible nearby."
 geo:
 id: 13121
 item_type: Still Image

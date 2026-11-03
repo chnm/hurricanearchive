@@ -21,6 +21,8 @@ files:
     original_filename: Jackson Barracks 3Jacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f4ec3ac514fb29f4ec3eab.jpg
     url: /files/original/14fb29f4ec3ac514fb29f4ec3eab.jpg
+    alt:
+      en: "Floodwater submerges the ground floor of a white, two-story building with a columned balcony, with debris and a floating platform visible on the water's surface."
 geo:
 id: 22636
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0077cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efc1004b14fb29efc10431.jpg
     url: /files/original/14fb29efc1004b14fb29efc10431.jpg
+    alt:
+      en: "Aerial view of extensive flooding over flat farmland, with a raised road and levee cutting diagonally across the submerged landscape under a hazy, overcast sky."
 geo:
 id: 23379
 item_type: Still Image

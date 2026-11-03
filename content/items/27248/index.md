@@ -20,6 +20,8 @@ files:
     original_filename: Entering Gulfport, MS.JPG
     thumb: /files/thumbnails/14fb29d5a6ac9414fb29d5a6b24b.jpg
     url: /files/original/14fb29d5a6ac9414fb29d5a6b24b.jpg
+    alt:
+      en: "Photo taken from inside a vehicle shows a severely damaged, roofless building with exposed structural supports, a \"DO NOT ENTER\" sign, and traffic cones, with the Grand Casino hotel tower visible in the background."
 geo:
 id: 27248
 item_type: Still Image

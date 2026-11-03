@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 100cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dc902a014fb2a0dc90686.jpg
     url: /files/original/14fb2a0dc902a014fb2a0dc90686.jpg
+    alt:
+      en: "Gravel rail yard with tracks running alongside a chain-link fence draped in torn plastic sheeting, fronting a corrugated metal warehouse with damaged siding; weeds grow through the gravel."
 geo:
 id: 19797
 item_type: Still Image

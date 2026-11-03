@@ -24,6 +24,8 @@ files:
     original_filename: P1010053.JPG
     thumb: /files/thumbnails/14fb2a5b904e5514fb2a5b90523b.jpg
     url: /files/original/14fb2a5b904e5514fb2a5b90523b.jpg
+    alt:
+      en: "Storm-damaged storefront of Ferrara's Super Market with collapsed awning, boarded windows, and scattered debris behind caution tape in an empty parking lot."
 geo:
 id: 3479
 item_type: Still Image

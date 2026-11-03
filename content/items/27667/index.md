@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6492_60d405a752.JPG
     thumb: /files/thumbnails/14fb29d3350ff914fb29d33513cd.jpg
     url: /files/original/14fb29d3350ff914fb29d33513cd.jpg
+    alt:
+      en: "A man and woman reach out to a young, red-haired child in a driveway lined with parked vehicles, with a brick and white house visible in the background."
 geo:
   address: ''
   lat: 29.87876

@@ -21,6 +21,8 @@ files:
     original_filename: restaurant copper end.jpg
     thumb: /files/thumbnails/14fb2a20325e0c14fb2a203261ed.jpg
     url: /files/original/14fb2a20325e0c14fb2a203261ed.jpg
+    alt:
+      en: "Interior of a storm-damaged restaurant seen through a shattered storefront window, with a collapsed copper vent hood lying amid debris and glass near overturned tables and chairs."
 geo:
 id: 13132
 item_type: Still Image

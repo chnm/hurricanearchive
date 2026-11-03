@@ -24,6 +24,8 @@ files:
     original_filename: EV 5 Grandfather 1912_74dbd0dade.A.jpg
     thumb: /files/thumbnails/14fb29d8c9f0e114fb29d8c9f39d.jpg
     url: /files/original/14fb29d8c9f0e114fb29d8c9f39d.jpg
+    alt:
+      en: "Sepia-toned studio portrait of a young boy in a dark double-breasted suit holding a prayer book and rosary, with a floral sash, a decorated chair, and candle beside him; \"My loving father\" is handwritten at the top."
 geo:
   address: ''
   lat: 29.91685

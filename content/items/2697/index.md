@@ -21,6 +21,8 @@ files:
     original_filename: 120.jpg
     thumb: /files/thumbnails/14fb2a607cbae614fb2a607cbecc.jpg
     url: /files/original/14fb2a607cbae614fb2a607cbecc.jpg
+    alt:
+      en: "Child's marker drawing of a woman with dark pigtails, earrings, and red lips, labeled \"My Mom\" in a box below; \"La'Trell 7\" is written in pink at the top."
 geo:
 id: 2697
 item_type: Still Image

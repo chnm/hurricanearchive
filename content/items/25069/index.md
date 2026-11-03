@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1649superdome.JPG
     thumb: /files/thumbnails/14fb29e289cc0814fb29e289cfee.jpg
     url: /files/original/14fb29e289cc0814fb29e289cfee.jpg
+    alt:
+      en: "Large domed stadium with a curved gray exterior and white roof, seen from an elevated highway, with flooded streets, parked vehicles, and buses visible below near the building's entrance."
 geo:
 id: 25069
 item_type: Still Image

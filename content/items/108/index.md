@@ -26,6 +26,8 @@ files:
     original_filename: military_57c147ce32.jpg
     thumb: /files/thumbnails/14fb2a7108a56114fb2a7108aa00.jpg
     url: /files/original/14fb2a7108a56114fb2a7108aa00.jpg
+    alt:
+      en: "Armed soldiers in camouflage sit atop a military armored vehicle on a city street, while several people sit on the ground nearby with bags, and two men stand talking in the foreground."
 geo:
   address: ''
   lat: 29.916852233070202

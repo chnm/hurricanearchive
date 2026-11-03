@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 060cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e79175a14fb2a0e791b3f.jpg
     url: /files/original/14fb2a0e79175a14fb2a0e791b3f.jpg
+    alt:
+      en: "A uniformed service member in camouflage and boots stands facing a warehouse area with stacked washers and dryers, cleaning supplies, cinder blocks, a generator, and a large orange dumpster labeled \"236-20.\""
 geo:
 id: 19673
 item_type: Still Image

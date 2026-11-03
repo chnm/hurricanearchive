@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0275-9-25.JPG
     thumb: /files/thumbnails/14fb29fe36407614fb29fe36445b.jpg
     url: /files/original/14fb29fe36407614fb29fe36445b.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood, with streets submerged in water, rooftops of houses and trailers surrounded by trees, and a boat navigating between the structures."
 geo:
 id: 21490
 item_type: Still Image

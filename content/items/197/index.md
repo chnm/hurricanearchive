@@ -26,6 +26,8 @@ files:
     original_filename: katrina_pictures_136a4e0143.jpg
     thumb: /files/thumbnails/14fb2a7092ea8614fb2a7092ee6a.jpg
     url: /files/original/14fb2a7092ea8614fb2a7092ee6a.jpg
+    alt:
+      en: "A house with beige vinyl siding and brown trim, marked with a spray-painted red \"X\" search symbol, dated 9-13, with \"NE\" and \"0\" indicating no fatalities found inside."
 geo:
   address: ''
   lat: 0.0

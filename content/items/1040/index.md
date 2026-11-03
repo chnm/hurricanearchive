@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28171.jpg
     thumb: /files/thumbnails/14fb2a6b4b61fe14fb2a6b4b65e2.jpg
     url: /files/original/14fb2a6b4b61fe14fb2a6b4b65e2.jpg
+    alt:
+      en: "Street sign reading \"Annison Way\" and \"Hunter Hollow\" atop a black pole with ornate scrollwork, debris tangled around its base, with houses and bare trees in the background."
 geo:
   address: ''
   lat: 0.0

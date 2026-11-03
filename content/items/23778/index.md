@@ -21,6 +21,8 @@ files:
     original_filename: PICT0874neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed27c3aa14fb29ed27c798.jpg
     url: /files/original/14fb29ed27c3aa14fb29ed27c798.jpg
+    alt:
+      en: "A mud-covered street lined with houses and power lines, a \"DO NOT ENTER\" sign on the right, dated 09.15.2005 in the corner."
 geo:
 id: 23778
 item_type: Still Image

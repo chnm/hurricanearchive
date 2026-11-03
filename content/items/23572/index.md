@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0193abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eebd969114fb29eebd9a6a.jpg
     url: /files/original/14fb29eebd969114fb29eebd9a6a.jpg
+    alt:
+      en: "A coyote trots across an open grassy field strewn with storm debris, including a crumpled sheet of corrugated metal roofing and uprooted trees in the background."
 geo:
 id: 23572
 item_type: Still Image

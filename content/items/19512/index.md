@@ -21,6 +21,8 @@ files:
     original_filename: Picture 072engineers.jpg
     thumb: /files/thumbnails/14fb2a0f9a5ad514fb2a0f9a5eb9.jpg
     url: /files/original/14fb2a0f9a5ad514fb2a0f9a5eb9.jpg
+    alt:
+      en: "Aerial view of a flooded university campus and surrounding neighborhood, with standing water covering streets and grounds around academic buildings, dormitories, and tree-lined residential blocks."
 geo:
 id: 19512
 item_type: Still Image

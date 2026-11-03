@@ -21,6 +21,8 @@ files:
     original_filename: MVC-010S.JPG
     thumb: /files/thumbnails/14fb2a5fa6fb6114fb2a5fa6ff47.jpg
     url: /files/original/14fb2a5fa6fb6114fb2a5fa6ff47.jpg
+    alt:
+      en: "Spiral staircase viewed from above, with a chrome handrail curving downward, metal bar railings, diamond-plate steps, and orange-painted walls visible through the stairwell."
 geo:
 id: 2887
 item_type: Still Image

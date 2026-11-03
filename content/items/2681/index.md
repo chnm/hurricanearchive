@@ -21,6 +21,8 @@ files:
     original_filename: 105.jpg
     thumb: /files/thumbnails/14fb2a6099984214fb2a60999c27.jpg
     url: /files/original/14fb2a6099984214fb2a60999c27.jpg
+    alt:
+      en: "Child's pencil drawing labeled \"By: Jaleel Sylvester, 9\" showing a large muscular figure with long hair standing between a pickup truck and a tow truck, with a small remote-control device in the corner."
 geo:
 id: 2681
 item_type: Still Image

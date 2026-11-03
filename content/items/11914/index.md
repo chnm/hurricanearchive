@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 036.jpg
     thumb: /files/thumbnails/14fb2a22be224e14fb2a22be262a.jpg
     url: /files/original/14fb2a22be224e14fb2a22be262a.jpg
+    alt:
+      en: "Collapsed roof and scattered brick debris cover the lot of a storm-damaged building with red awnings, with trucks and heavy equipment visible in the background; dated 2005/09/24."
 geo:
 id: 11914
 item_type: Still Image

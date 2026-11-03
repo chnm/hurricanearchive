@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0203.JPG
     thumb: /files/thumbnails/14fb2a5510145b14fb2a55101b59.jpg
     url: /files/original/14fb2a5510145b14fb2a55101b59.jpg
+    alt:
+      en: "A yellow tape measure extends vertically across a cracked concrete slab, highlighting a wide horizontal crack running through the surface."
 geo:
 id: 4884
 item_type: Still Image

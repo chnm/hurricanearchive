@@ -21,6 +21,8 @@ files:
     original_filename: 141 our hidey hole.jpg
     thumb: /files/thumbnails/14fb2a1ff363b714fb2a1ff3679b.jpg
     url: /files/original/14fb2a1ff363b714fb2a1ff3679b.jpg
+    alt:
+      en: "Dimly lit interior of a parking garage with a dark-colored car parked near concrete pillars, its taillights glowing red, and a bright lens flare partially obscuring the scene."
 geo:
 id: 13151
 item_type: Still Image

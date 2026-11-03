@@ -26,6 +26,8 @@ files:
     original_filename: 100_0510_edited1_6640d10941.jpg
     thumb: /files/thumbnails/14fb2a71286d6814fb2a7128714f.jpg
     url: /files/original/14fb2a71286d6814fb2a7128714f.jpg
+    alt:
+      en: "A large upside-down root beer mug sign reading \"ROOT BEER\" and \"Frostop\" sits atop a green pole beside a blank, battered billboard, set against a clear blue sky."
 geo:
   address: ''
   lat: 0.0

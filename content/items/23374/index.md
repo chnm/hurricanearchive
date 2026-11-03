@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0075abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efc3e2a014fb29efc3e64c.jpg
     url: /files/original/14fb29efc3e2a014fb29efc3e64c.jpg
+    alt:
+      en: "A cowboy wearing a tan hat and chaps sits on a dark horse holding a coiled lasso, with trees, parked vehicles, and buildings visible in the background under a cloudy sky."
 geo:
 id: 23374
 item_type: Still Image

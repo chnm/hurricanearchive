@@ -21,6 +21,8 @@ files:
     original_filename: Picture 333-J2.jpg
     thumb: /files/thumbnails/14fb29fa3357bd14fb29fa335b92.jpg
     url: /files/original/14fb29fa3357bd14fb29fa335b92.jpg
+    alt:
+      en: "Damaged structures with weathered wooden siding and torn white paneling, partially obscured by overgrown tree branches and vines, with debris and tarps visible in the background."
 geo:
 id: 22002
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2207superdome.JPG
     thumb: /files/thumbnails/14fb29de4d873914fb29de4da5d4.jpg
     url: /files/original/14fb29de4d873914fb29de4da5d4.jpg
+    alt:
+      en: "A shirtless man with a white cloth wrapped around his head walks past a military truck toward floodwaters, with debris, trash, and discarded water bottles scattered across the wet pavement."
 geo:
 id: 25392
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 159309997_3b109bf850.jpg
     thumb: /files/thumbnails/14fb29d20b590e14fb29d20b5cf3.jpg
     url: /files/original/14fb29d20b590e14fb29d20b5cf3.jpg
+    alt:
+      en: "A pyramid of stacked paint cans topped with a green gloved hand holding a spatula, set in a yard with chain-link fencing and houses in the background."
 geo:
 id: 28624
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0193-9-25.JPG
     thumb: /files/thumbnails/14fb2a0025d11d14fb2a0025d5c7.jpg
     url: /files/original/14fb2a0025d11d14fb2a0025d5c7.jpg
+    alt:
+      en: "Aerial view (shown sideways) of military trucks and small boats parked on a flooded roadway, surrounded by extensive floodwaters with scattered trees and brush visible throughout the submerged landscape."
 geo:
 id: 21188
 item_type: Still Image

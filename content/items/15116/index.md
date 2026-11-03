@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5660_8821f7805f.jpg
     thumb: /files/thumbnails/14fb2a170ea96714fb2a170ead4e.jpg
     url: /files/original/14fb2a170ea96714fb2a170ead4e.jpg
+    alt:
+      en: "Black-and-white photo of a grassy open field with bare, leafless trees in the foreground and a row of small houses and a church visible in the background."
 geo:
 id: 15116
 item_type: Still Image

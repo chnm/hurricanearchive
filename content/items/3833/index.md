@@ -21,6 +21,8 @@ files:
     original_filename: 100_0124.JPG
     thumb: /files/thumbnails/14fb2a594e748814fb2a594e786f.jpg
     url: /files/original/14fb2a594e748814fb2a594e786f.jpg
+    alt:
+      en: "Damaged waterfront boatyard with a stripped metal-roofed building, a partially sunken boat near a dock, and another boat tilted on a hoist labeled \"BOAT YARD,\" surrounded by storm debris and battered trees."
 geo:
 id: 3833
 item_type: Still Image

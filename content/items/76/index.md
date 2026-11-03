@@ -26,6 +26,8 @@ files:
     original_filename: 100_5734_6fbf4e78b5.JPG
     thumb: /files/thumbnails/14fb2a711eea2114fb2a711eee07.jpg
     url: /files/original/14fb2a711eea2114fb2a711eee07.jpg
+    alt:
+      en: "Collapsed brick and concrete building reduced to rubble, with twisted rebar and debris piled high, a scorched wall with empty window frames still standing, and palm trees in the background."
 geo:
   address: ''
   lat: 30.005653

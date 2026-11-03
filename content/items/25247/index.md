@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1945superdome.JPG
     thumb: /files/thumbnails/14fb29e0531a0814fb29e056a073.jpg
     url: /files/original/14fb29e0531a0814fb29e056a073.jpg
+    alt:
+      en: "A CH-47 Chinook military helicopter sits on a rooftop helipad while uniformed personnel unload supplies nearby, with stacked water bottle cases and city buildings, including Delgado Community College, visible in the background."
 geo:
 id: 25247
 item_type: Still Image

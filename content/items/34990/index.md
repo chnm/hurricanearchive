@@ -20,6 +20,8 @@ files:
     original_filename: 2298633862_652f4fb73a.
     thumb: /files/thumbnails/14fb29c7f1989014fb29c7f19c6b.jpg
     url: /files/original/14fb29c7f1989014fb29c7f19c6b.jpg
+    alt:
+      en: "A group of people stand on a gravel lot near piles of discarded bicycle wheels and tires, with a blue house, bare trees, and utility poles in the background."
 geo:
 id: 34990
 item_type: Still Image

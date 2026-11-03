@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0078.JPG
     thumb: /files/thumbnails/14fb2a55dd16f114fb2a55dd1ad1.jpg
     url: /files/original/14fb2a55dd16f114fb2a55dd1ad1.jpg
+    alt:
+      en: "A yellow tape measure, marked from 2 to 8 inches, stands upright against a background of broken concrete debris and scattered dirt."
 geo:
 id: 4731
 item_type: Still Image

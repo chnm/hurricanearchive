@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0282-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fdd11be614fb29fdd127c9.jpg
     url: /files/original/14fb29fdd11be614fb29fdd127c9.jpg
+    alt:
+      en: "Aerial view of a tall industrial smokestack rising from flooded, tree-lined terrain, with standing floodwater and agricultural fields visible in the background."
 geo:
 id: 21519
 item_type: Still Image

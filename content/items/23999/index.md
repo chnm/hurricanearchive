@@ -21,6 +21,8 @@ files:
     original_filename: 09280001plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec046b9814fb29ec046f5d.jpg
     url: /files/original/14fb29ec046b9814fb29ec046f5d.jpg
+    alt:
+      en: "A large white institutional building marked \"119 Smith Circle\" above its entrance, with green steps leading up to the door, flanked by raised garden beds and a bare tree in the foreground."
 geo:
 id: 23999
 item_type: Still Image

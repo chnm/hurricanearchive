@@ -21,6 +21,8 @@ files:
     original_filename: E.H. Phillips Junior High.jpg
     thumb: /files/thumbnails/14fb29fb60901d14fb29fb6093f9.jpg
     url: /files/original/14fb29fb60901d14fb29fb6093f9.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood surrounding E.H. Phillips Junior High, with school buildings, a multi-story structure, and homes submerged in murky floodwater, a road and bridge visible at bottom."
 geo:
 id: 21851
 item_type: Still Image

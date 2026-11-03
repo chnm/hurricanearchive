@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28280.jpg
     thumb: /files/thumbnails/14fb2a6920f66f14fb2a6920fa54.jpg
     url: /files/original/14fb2a6920f66f14fb2a6920fa54.jpg
+    alt:
+      en: "Two museum employees stand on sandy, debris-strewn ground before a severely damaged building with exposed steel framework and broken trees, under an overcast sky."
 geo:
   address: ''
   lat: 0.0

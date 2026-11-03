@@ -20,6 +20,8 @@ files:
     original_filename: GardenQ_2234081c8b.jpg
     thumb: /files/thumbnails/14fb29c23df08b14fb29c23df471.jpg
     url: /files/original/14fb29c23df08b14fb29c23df471.jpg
+    alt:
+      en: "Black-and-white photo of two-story stucco and wood-sided houses with gabled roofs, arched porch windows, and decorative eaves, with trees and power lines in the foreground."
 geo:
 id: 43106
 item_type: Still Image

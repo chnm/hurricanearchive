@@ -21,6 +21,8 @@ files:
     original_filename: 09140008neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec6dcbf014fb29ec6dcfd3.jpg
     url: /files/original/14fb29ec6dcbf014fb29ec6dcfd3.jpg
+    alt:
+      en: "Military vehicle driving down a debris-strewn residential street, with a pink house, abandoned cars, and overgrown lots visible along the road, photographed from inside another military vehicle."
 geo:
 id: 23909
 item_type: Still Image

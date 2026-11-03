@@ -21,6 +21,8 @@ files:
     original_filename: DSC 009717thstreetcanal.JPG
     thumb: /files/thumbnails/14fb29f3760d9914fb29f376117c.jpg
     url: /files/original/14fb29f3760d9914fb29f376117c.jpg
+    alt:
+      en: "Aerial view of a breached canal lined with concrete floodwalls, bordered by severely storm-damaged houses, debris, and barren trees, with repair vehicles and workers along the canal's edge."
 geo:
 id: 22808
 item_type: Still Image

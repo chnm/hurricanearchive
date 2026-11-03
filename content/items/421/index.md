@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_DSC_0284_99fb87f240.JPG
     thumb: /files/thumbnails/14fb2a7006c94514fb2a7006cd2a.jpg
     url: /files/original/14fb2a7006c94514fb2a7006cd2a.jpg
+    alt:
+      en: "Numerous boats piled haphazardly on a damaged dock beneath large trees, with a wooden pier and calm water in the foreground, illustrating storm damage at Lake Pontchartrain."
 geo:
   address: ''
   lat: 29.9549345496561

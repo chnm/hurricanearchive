@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8778.jpg
     thumb: /files/thumbnails/14fb2a65934aac14fb2a65934e92.jpg
     url: /files/original/14fb2a65934aac14fb2a65934e92.jpg
+    alt:
+      en: "Three shrimp trawlers sit stranded on marshland amid mud, dead grass, and debris, with a discarded plastic crate filled with water in the foreground."
 geo:
 id: 2538
 item_type: Still Image

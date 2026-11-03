@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 026.jpg
     thumb: /files/thumbnails/14fb2a12e3e74114fb2a12e3f0f5.jpg
     url: /files/original/14fb2a12e3e74114fb2a12e3f0f5.jpg
+    alt:
+      en: "Blurred, motion-streaked photo of people standing near stacked luggage, duffel bags, and storage containers inside a building, with an illuminated exit sign visible above a doorway in the background."
 geo:
 id: 19116
 item_type: Still Image

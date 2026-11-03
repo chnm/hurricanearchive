@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0208.JPG
     thumb: /files/thumbnails/14fb2a550ced9914fb2a550cf17f.jpg
     url: /files/original/14fb2a550ced9914fb2a550cf17f.jpg
+    alt:
+      en: "A white cabin cruiser boat sits stranded on land amid storm debris, surrounded by broken trees, scattered boards, and marshland in the background under an overcast sky."
 geo:
 id: 4889
 item_type: Still Image

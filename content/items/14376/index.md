@@ -21,6 +21,8 @@ files:
     original_filename: aerials84.jpg
     thumb: /files/thumbnails/14fb2a19854fb914fb2a1985562c.jpg
     url: /files/original/14fb2a19854fb914fb2a1985562c.jpg
+    alt:
+      en: "Aerial view of rows of townhouse-style buildings with brown roofs arranged along curved streets, with debris scattered across lawns and parking areas."
 geo:
 id: 14376
 item_type: Still Image

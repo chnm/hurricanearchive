@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0267-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe894f9214fb29fe895379.jpg
     url: /files/original/14fb29fe894f9214fb29fe895379.jpg
+    alt:
+      en: "Aerial view of a flooded Chevron gas station with submerged pumps and canopy, surrounded by floodwaters covering a parking lot where several vehicles sit partially underwater."
 geo:
 id: 21463
 item_type: Still Image

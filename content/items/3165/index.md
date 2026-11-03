@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (18).JPG
     thumb: /files/thumbnails/14fb2a5d8d55e314fb2a5d8d59c9.jpg
     url: /files/original/14fb2a5d8d55e314fb2a5d8d59c9.jpg
+    alt:
+      en: "Damaged corner storefront reading \"Joe's Lawnmower Shop 821-2350,\" with boarded and barred windows, scattered debris, a trash can, and wooden barriers in front of the building."
 geo:
 id: 3165
 item_type: Still Image

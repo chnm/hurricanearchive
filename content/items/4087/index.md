@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0988.JPG
     thumb: /files/thumbnails/14fb2a57f39d2914fb2a57f3f855.jpg
     url: /files/original/14fb2a57f39d2914fb2a57f3f855.jpg
+    alt:
+      en: "Street corner at \"W Esplanade Ave\" and \"Jim St\" with a large tree shedding broken branches onto the sidewalk and lawn, while a nearby house's roof appears partially collapsed or tarped behind it."
 geo:
 id: 4087
 item_type: Still Image

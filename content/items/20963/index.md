@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0157-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0146725f14fb2a0146939e.jpg
     url: /files/original/14fb2a0146725f14fb2a0146939e.jpg
+    alt:
+      en: "Aerial view of flooded marshland with patches of grass and water, a distant tree line, and an offshore oil platform visible on the horizon under a hazy sky."
 geo:
 id: 20963
 item_type: Still Image

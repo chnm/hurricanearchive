@@ -21,6 +21,8 @@ files:
     original_filename: 09180029plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec3cff7814fb29ec3d0357.jpg
     url: /files/original/14fb29ec3cff7814fb29ec3d0357.jpg
+    alt:
+      en: "Military Humvee drives down a flooded street past a collapsed, storm-damaged building, with a leaning utility pole, downed power lines, and a pickup truck towing a trailer in the background."
 geo:
 id: 23959
 item_type: Still Image

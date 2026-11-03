@@ -20,6 +20,8 @@ files:
     original_filename: 2438609071_0fad15b66a.
     thumb: /files/thumbnails/14fb29c83db4cb14fb29c83db8af.jpg
     url: /files/original/14fb29c83db4cb14fb29c83db8af.jpg
+    alt:
+      en: "A yellow excavator marked \"Peake Construction\" loads debris into a blue dump truck, as a worker in a safety vest and hard hat stands nearby on a dirt and rubble site; dated 03/18/06."
 geo:
 id: 34947
 item_type: Still Image

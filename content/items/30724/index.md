@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7421.JPG
     thumb: /files/thumbnails/14fb29ccac39b714fb29ccac3d9c.jpg
     url: /files/original/14fb29ccac39b714fb29ccac3d9c.jpg
+    alt:
+      en: "A brown wood-sided house with a brick chimney stands amid fallen trees and scattered branches, with green treetops and a clear blue sky in the background."
 geo:
 id: 30724
 item_type: Still Image

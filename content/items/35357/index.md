@@ -21,6 +21,8 @@ files:
     original_filename: 10_5824c24fa5.jpg
     thumb: /files/thumbnails/14fb29c606567914fb29c6065a5c.jpg
     url: /files/original/14fb29c606567914fb29c6065a5c.jpg
+    alt:
+      en: "Black-and-white nighttime photo of four people posing on a sidewalk beneath an illuminated \"Saturn Bar\" sign, with a striped awning and parked truck in the background."
 geo:
   address: 3067 Saint Claude Ave, New Orleans, LA
   lat: 29.96784

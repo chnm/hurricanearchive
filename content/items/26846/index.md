@@ -21,6 +21,8 @@ files:
     original_filename: steve luke best groomed_3d4a2da8d7.jpg
     thumb: /files/thumbnails/14fb29d776cccd14fb29d776d4c8.jpg
     url: /files/original/14fb29d776cccd14fb29d776d4c8.jpg
+    alt:
+      en: "Yearbook page with a photo of a young man in a light suit and patterned tie, captioned \"Steve Luke — Best Groomed,\" alongside text describing his sports and student council activities."
 geo:
 id: 26846
 item_type: Still Image

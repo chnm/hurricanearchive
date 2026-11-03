@@ -26,6 +26,8 @@ files:
     original_filename: Izzy_sm684_b142cf5a69.jpg
     thumb: /files/thumbnails/14fb2a6e664cc914fb2a6e6650a6.jpg
     url: /files/original/14fb2a6e664cc914fb2a6e6650a6.jpg
+    alt:
+      en: "Floodwaters surround a \"Seaport Taxi\" dock sign and platform near a large ship's bow, with a waterfront building complex in the background, during Hurricane Isabel in Baltimore, Maryland."
 geo:
   address: ''
   lat: 39.29591

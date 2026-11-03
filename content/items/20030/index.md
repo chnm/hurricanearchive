@@ -21,6 +21,8 @@ files:
     original_filename: Picture 127cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba0b57714fb2a0ba0b850.jpg
     url: /files/original/14fb2a0ba0b57714fb2a0ba0b850.jpg
+    alt:
+      en: "A large white boat with a red-orange hull lies capsized on its side in a grassy, gravel-covered lot, with a blue structure visible in the background."
 geo:
 id: 20030
 item_type: Still Image

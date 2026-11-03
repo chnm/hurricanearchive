@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 022cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e9ef56314fb2a0e9efa67.jpg
     url: /files/original/14fb2a0e9ef56314fb2a0e9efa67.jpg
+    alt:
+      en: "Two beige \"VANTEX\" portable toilets in foreground, with parked trucks, military tents, a white dome tent, and a flagpole in a paved staging area backed by trees under a clear sky."
 geo:
 id: 19635
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2151rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13d8e84b14fb2a13d8ec28.jpg
     url: /files/original/14fb2a13d8e84b14fb2a13d8ec28.jpg
+    alt:
+      en: "Crew members lean out of a helicopter's open doorway equipped with a hoist, looking down at flooded rooftops and streets of a neighborhood below."
 geo:
 id: 18989
 item_type: Still Image

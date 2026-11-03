@@ -26,6 +26,8 @@ files:
     original_filename: Damage_7ed44bdbe1.JPG
     thumb: /files/thumbnails/14fb2a7062d20414fb2a7062d80c.jpg
     url: /files/original/14fb2a7062d20414fb2a7062d80c.jpg
+    alt:
+      en: "Nighttime, upward-angled view of a two-story building corner with light blue vinyl siding, white eaves, and a window; exposed wiring and electrical boxes are visible near a plywood-patched section of the wall."
 geo:
   address: ''
   lat: 29.920768

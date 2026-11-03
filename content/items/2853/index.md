@@ -21,6 +21,8 @@ files:
     original_filename: MVC-010S.JPG
     thumb: /files/thumbnails/14fb2a5fd713f414fb2a5fd717d9.jpg
     url: /files/original/14fb2a5fd713f414fb2a5fd717d9.jpg
+    alt:
+      en: "A black and gold plaque mounted on a white wall reads: \"U.S. LIGHT CRUISER No CL-63 MOBILE, HULL No 391, BUILT BY NEWPORT NEWS SHIPBUILDING AND DRY DOCK CO., 1943.\""
 geo:
 id: 2853
 item_type: Still Image

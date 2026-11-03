@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28346.jpg
     thumb: /files/thumbnails/14fb2a6777bbb314fb2a6777bf97.jpg
     url: /files/original/14fb2a6777bbb314fb2a6777bf97.jpg
+    alt:
+      en: "Heavily damaged multi-story building with exposed metal framing, shattered windows, and debris, seen through bare tree branches and a collapsed metal staircase structure in the foreground."
 geo:
   address: ''
   lat: 0.0

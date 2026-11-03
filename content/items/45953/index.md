@@ -19,6 +19,8 @@ files:
     original_filename: Mud-movie-boat-in-a-tree.jpg
     thumb: /files/thumbnails/8bf295f224377878460307201cef9385.jpg
     url: /files/original/8bf295f224377878460307201cef9385.jpg
+    alt:
+      en: "Two boys stand in a wooded area looking up at a boat lodged high in the branches of a tree, likely deposited there by floodwaters."
 geo:
   address: ''
   lat: 30.42559546940074

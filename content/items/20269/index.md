@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0020.JPG
     thumb: /files/thumbnails/14fb2a0a35f01114fb2a0a3605b4.jpg
     url: /files/original/14fb2a0a35f01114fb2a0a3605b4.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood with closely packed houses and tree cover along a shoreline, with dark shadowed areas framing the top of the photo."
 geo:
 id: 20269
 item_type: Still Image

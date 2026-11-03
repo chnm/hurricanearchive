@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0290downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1420c96114fb2a1420cd3a.jpg
     url: /files/original/14fb2a1420c96114fb2a1420cd3a.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with houses, trees, and a street, showing the shadow of a helicopter cast across the rooftops and pavement below."
 geo:
 id: 18934
 item_type: Still Image

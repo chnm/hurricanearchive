@@ -21,6 +21,8 @@ files:
     original_filename: 171 flooding3.jpg
     thumb: /files/thumbnails/14fb2a1f8ede6214fb2a1f8ee246.jpg
     url: /files/original/14fb2a1f8ede6214fb2a1f8ee246.jpg
+    alt:
+      en: "Floodwater submerges a residential yard, surrounding a yellow truck and white car parked near a house, with bare trees, utility poles, and overcast sky in the background."
 geo:
 id: 13179
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0145.JPG
     thumb: /files/thumbnails/14fb2a0ab5cea414fb2a0ab5d27e.jpg
     url: /files/original/14fb2a0ab5cea414fb2a0ab5d27e.jpg
+    alt:
+      en: "A soldier in camouflage fatigues walks along a gravel embankment followed by a dog, with a flood-damaged industrial area, debris, and standing water visible in the background."
 geo:
 id: 20210
 item_type: Still Image

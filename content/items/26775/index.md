@@ -21,6 +21,8 @@ files:
     original_filename: WC family history_47efb1681d.jpg
     thumb: /files/thumbnails/14fb29d7dae9d914fb29d7daedca.jpg
     url: /files/original/14fb29d7dae9d914fb29d7daedca.jpg
+    alt:
+      en: "Handwritten page in blue ink titled \"David Chatham,\" recounting a family history beginning with 4th great grandfather Thomas Dunnam's 1850s migration from England to the Carolinas and Mississippi."
 geo:
   address: ''
   lat: 29.95493

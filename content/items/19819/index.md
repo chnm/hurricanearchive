@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008gillslong.JPG
     thumb: /files/thumbnails/14fb2a0da518d014fb2a0da51cb7.jpg
     url: /files/original/14fb2a0da518d014fb2a0da51cb7.jpg
+    alt:
+      en: "Sideways photo taken from a low angle showing two silhouetted helmeted figures in the foreground, with a cloud-filled sky above and a green landscape visible below."
 geo:
 id: 19819
 item_type: Still Image

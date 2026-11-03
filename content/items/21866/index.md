@@ -21,6 +21,8 @@ files:
     original_filename: Houma Civic Center.jpg
     thumb: /files/thumbnails/14fb29fb54327614fb29fb54365d.jpg
     url: /files/original/14fb29fb54327614fb29fb54365d.jpg
+    alt:
+      en: "Aerial view of the Houma Civic Center complex with its large parking lots and orange-roofed building, surrounded by roads, green fields, and a nearby neighborhood, with a river visible in the background."
 geo:
 id: 21866
 item_type: Still Image

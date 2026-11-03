@@ -26,6 +26,8 @@ files:
     original_filename: ministorage_fc1cf2ef8d.JPG
     thumb: /files/thumbnails/14fb2a6da8406514fb2a6da8444a.jpg
     url: /files/original/14fb2a6da8406514fb2a6da8444a.jpg
+    alt:
+      en: "Collapsed mini storage building with twisted metal roofing and debris scattered behind a chain-link fence, set against an overcast sky and overgrown grass lot."
 geo:
   address: ''
   lat: 29.864207

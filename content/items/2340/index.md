@@ -26,6 +26,8 @@ files:
     original_filename: 100_1546_5260aaf359.JPG
     thumb: /files/thumbnails/14fb2a6d47b57514fb2a6d47b95a.jpg
     url: /files/original/14fb2a6d47b57514fb2a6d47b95a.jpg
+    alt:
+      en: "A soldier in camouflage fatigues and cap sits on a chair beside a backpack and rifle, outside a sign reading \"Memorial Medical Center, Tenet Louisiana HealthSys... Baptist Campus Parking,\" amid storm debris."
 geo:
   address: ''
   lat: 30.444825956002695

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0307-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fd7c83a014fb29fd7c87fa.jpg
     url: /files/original/14fb29fd7c83a014fb29fd7c87fa.jpg
+    alt:
+      en: "Aerial view of a flooded rural area with mobile homes on stilts surrounded by floodwater, trees, and a cluster of semi-trucks with trailers parked in a partially submerged field."
 geo:
 id: 21571
 item_type: Still Image

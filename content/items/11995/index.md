@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 043.jpg
     thumb: /files/thumbnails/14fb2a2266438c14fb2a226655ee.jpg
     url: /files/original/14fb2a2266438c14fb2a226655ee.jpg
+    alt:
+      en: "Scattered debris, splintered wood, and an overturned camper litter a lot surrounded by snapped and stripped trees, with a black plastic barrel standing upright in the foreground."
 geo:
 id: 11995
 item_type: Still Image

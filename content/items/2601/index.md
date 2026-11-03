@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9536.jpg
     thumb: /files/thumbnails/14fb2a644ea5a314fb2a644ea984.jpg
     url: /files/original/14fb2a644ea5a314fb2a644ea984.jpg
+    alt:
+      en: "A large pile of crushed white goods—refrigerators, washers, and other appliances—sits partially submerged in muddy floodwater at a scrapyard under a clear blue sky."
 geo:
 id: 2601
 item_type: Still Image

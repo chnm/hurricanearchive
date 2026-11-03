@@ -21,6 +21,8 @@ files:
     original_filename: S4300124Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f41f034e14fb29f41f0734.jpg
     url: /files/original/14fb29f41f034e14fb29f41f0734.jpg
+    alt:
+      en: "Military armored vehicles, including a tan-colored APC marked with the number \"1310,\" parked outdoors near a brick building and a white shipping container, with a fallen metal ramp on the ground."
 geo:
 id: 22768
 item_type: Still Image

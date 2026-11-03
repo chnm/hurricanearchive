@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1509superdome.JPG
     thumb: /files/thumbnails/14fb29e33c933c14fb29e33c9730.jpg
     url: /files/original/14fb29e33c933c14fb29e33c9730.jpg
+    alt:
+      en: "Two military helicopters flying in an overcast gray sky above city buildings and a flagpole, with their silhouettes visible against the clouds."
 geo:
 id: 24987
 item_type: Still Image

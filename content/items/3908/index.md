@@ -21,6 +21,8 @@ files:
     original_filename: 100_0205.JPG
     thumb: /files/thumbnails/14fb2a58fd3db714fb2a58fd419c.jpg
     url: /files/original/14fb2a58fd3db714fb2a58fd419c.jpg
+    alt:
+      en: "Row of several SUVs and trucks submerged up to their wheel wells in floodwater, parked near railroad tracks with trees and a rooftop visible in the background."
 geo:
 id: 3908
 item_type: Still Image

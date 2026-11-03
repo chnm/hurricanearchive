@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a08c60df114fb2a08c61201.jpg
     url: /files/original/14fb2a08c60df114fb2a08c61201.jpg
+    alt:
+      en: "Bearded man with glasses and a towel around his neck checks his wristwatch while holding a blue water bottle, with a camera and press-photographer badge hanging from his vest."
 geo:
 id: 20333
 item_type: Still Image

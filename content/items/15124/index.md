@@ -21,6 +21,8 @@ files:
     original_filename: EMinor-5693_0393c9eab5.jpg
     thumb: /files/thumbnails/14fb2a1705f78a14fb2a1705fb78.jpg
     url: /files/original/14fb2a1705f78a14fb2a1705fb78.jpg
+    alt:
+      en: "Elderly woman with short gray hair, wearing a teal cardigan over a navy outfit, seated indoors with hands clasped, surrounded by furniture and household decor."
 geo:
 id: 15124
 item_type: Still Image

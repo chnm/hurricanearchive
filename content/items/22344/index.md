@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1159Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f734467314fb29f7344a57.jpg
     url: /files/original/14fb29f734467314fb29f7344a57.jpg
+    alt:
+      en: "Blurry, motion-affected close-up of a smiling person's face against a tan-colored wall, with a light-colored shirt visible on their shoulder."
 geo:
 id: 22344
 item_type: Still Image

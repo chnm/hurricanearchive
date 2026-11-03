@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0208-9-25.JPG
     thumb: /files/thumbnails/14fb29ffbd4b1914fb29ffbd4f02.jpg
     url: /files/original/14fb29ffbd4b1914fb29ffbd4f02.jpg
+    alt:
+      en: "Close-up, sideways view of a person in military-style camouflage uniform with a U.S. flag patch, wearing a dark helmet and gloves, inside a vehicle or aircraft interior."
 geo:
 id: 21256
 item_type: Still Image

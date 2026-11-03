@@ -21,6 +21,8 @@ files:
     original_filename: PICT0608Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f48484e814fb29f48488cc.jpg
     url: /files/original/14fb29f48484e814fb29f48488cc.jpg
+    alt:
+      en: "A brick perimeter wall topped with razor wire runs along a two-story brick building with columned porches; beyond it, a large uprooted tree lies across a grassy slope. Date stamp reads 09.15.2005."
 geo:
 id: 22710
 item_type: Still Image

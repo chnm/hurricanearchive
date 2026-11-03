@@ -21,6 +21,8 @@ files:
     original_filename: katrina 009.jpg
     thumb: /files/thumbnails/14fb29fc06ad6314fb29fc06b04e.jpg
     url: /files/original/14fb29fc06ad6314fb29fc06b04e.jpg
+    alt:
+      en: "Floodwater covers a parking lot marked \"Lot 4\" as people wade through waist-deep water near submerged cars, with an elevated highway crowded with onlookers in the background."
 geo:
 id: 21741
 item_type: Still Image

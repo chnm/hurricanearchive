@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7041_2284153865.jpg
     thumb: /files/thumbnails/14fb29db5c807a14fb29db5c844c.jpg
     url: /files/original/14fb29db5c807a14fb29db5c844c.jpg
+    alt:
+      en: "Black-and-white photo of a large crowd filling stadium bleachers, many in hats and coats, with a flag visible in the background and a railing in the foreground."
 geo:
   address: ''
   lat: 29.87876

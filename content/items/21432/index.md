@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0255-9-25.JPG
     thumb: /files/thumbnails/14fb29fed06ce214fb29fed070d2.jpg
     url: /files/original/14fb29fed06ce214fb29fed070d2.jpg
+    alt:
+      en: "Aerial view of a flooded town with a raised road and railway crossing surrounded by floodwater, submerged trees, utility poles, and a small boat near the center."
 geo:
 id: 21432
 item_type: Still Image

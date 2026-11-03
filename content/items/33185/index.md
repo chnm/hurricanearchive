@@ -23,6 +23,8 @@ files:
     original_filename: 1438009993_829a41aac3.
     thumb: /files/thumbnails/14fb29cbc38d4914fb29cbc3912f.jpg
     url: /files/original/14fb29cbc38d4914fb29cbc3912f.jpg
+    alt:
+      en: "Abandoned multi-story motel with boarded windows and a chain-link fence surrounding an empty, overgrown parking lot; a faded sign reads \"Special\" and a banner advertises \"the Best Choice in Spray-On Liner.\""
 geo:
 id: 33185
 item_type: Still Image

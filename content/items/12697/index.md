@@ -21,6 +21,8 @@ files:
     original_filename: 102-15_3bbb89c5a8.jpg
     thumb: /files/thumbnails/14fb2a21b50cfb14fb2a21b51ec6.jpg
     url: /files/original/14fb2a21b50cfb14fb2a21b51ec6.jpg
+    alt:
+      en: "Elderly man with a gray beard, wearing a dark cap and dark jacket, smiling for the camera indoors near a curtained window."
 geo:
 id: 12697
 item_type: Still Image

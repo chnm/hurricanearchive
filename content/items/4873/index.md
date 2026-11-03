@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0192.JPG
     thumb: /files/thumbnails/14fb2a5516bee714fb2a5516c2cb.jpg
     url: /files/original/14fb2a5516bee714fb2a5516c2cb.jpg
+    alt:
+      en: "Interior view of an attic roof structure with exposed wooden trusses and rafters, reinforced with metal mending plates, and a brass ceiling fixture with chain hanging from the center beam."
 geo:
 id: 4873
 item_type: Still Image

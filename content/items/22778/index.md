@@ -21,6 +21,8 @@ files:
     original_filename: S4300134Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f402a16414fb29f402a549.jpg
     url: /files/original/14fb29f402a16414fb29f402a549.jpg
+    alt:
+      en: "Two mud-caked sedans sit in a cracked, dried mud lot in front of a long, single-story building with damaged siding and a bent metal roof, with utility poles and a cloudy sky behind."
 geo:
 id: 22778
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials142.jpg
     thumb: /files/thumbnails/14fb2a19e9163c14fb2a19e91a22.jpg
     url: /files/original/14fb2a19e9163c14fb2a19e91a22.jpg
+    alt:
+      en: "Aerial view of a coastal waterway lined with docks and debris, surrounded by storm-damaged, defoliated trees and marshland under a hazy sky."
 geo:
 id: 14301
 item_type: Still Image

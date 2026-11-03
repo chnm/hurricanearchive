@@ -21,6 +21,8 @@ files:
     original_filename: RhinaKissee-5925_fd05de069a.jpg
     thumb: /files/thumbnails/14fb29d90671f214fb29d9068d67.jpg
     url: /files/original/14fb29d90671f214fb29d9068d67.jpg
+    alt:
+      en: "A young woman in a striped scarf and tan jacket stands beside a young man in a navy shirt, both smiling on a lawn in front of suburban houses as light snow falls."
 geo:
   address: 3709 Palmisano Blvd., Chalmette, LA
   lat: 29.95079

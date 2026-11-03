@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008tentcity.JPG
     thumb: /files/thumbnails/14fb2a0da3da3614fb2a0da3de22.jpg
     url: /files/original/14fb2a0da3da3614fb2a0da3de22.jpg
+    alt:
+      en: "Woman in a white tank top and gray sweatpants smiles while standing beside a red ladder inside a large white tent, with electrical panels and cables visible in the background."
 geo:
 id: 19820
 item_type: Still Image

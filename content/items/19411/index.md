@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0058engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a107ea66e14fb2a107ecd07.jpg
     url: /files/original/14fb2a107ea66e14fb2a107ecd07.jpg
+    alt:
+      en: "A man in a dark cap and radio gear gestures in the foreground near a damaged bridge section over water, while military personnel and a civilian observe the broken roadway and barricades in the background."
 geo:
 id: 19411
 item_type: Still Image

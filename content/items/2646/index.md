@@ -24,6 +24,8 @@ files:
     original_filename: 20051202_MG_9197.jpg
     thumb: /files/thumbnails/14fb2a636f018114fb2a636f1a92.jpg
     url: /files/original/14fb2a636f018114fb2a636f1a92.jpg
+    alt:
+      en: "Weathered and bent road signs reading \"Cameron Parish 510\" and \"Speed Limit,\" mounted on a rusted pole against a clear blue sky, with storm debris scattered along the roadside."
 geo:
 id: 2646
 item_type: Still Image

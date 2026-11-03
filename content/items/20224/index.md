@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0246-18.JPG
     thumb: /files/thumbnails/14fb2a0a9bdaeb14fb2a0a9c146b.jpg
     url: /files/original/14fb2a0a9bdaeb14fb2a0a9c146b.jpg
+    alt:
+      en: "A military helicopter with rotors spinning sits on a ship's flight deck near water, with a crew member in purple gear walking nearby and a figure in a yellow jacket and helmet in the foreground."
 geo:
 id: 20224
 item_type: Still Image

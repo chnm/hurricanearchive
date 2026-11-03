@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (23).JPG
     thumb: /files/thumbnails/14fb2a5d851d6714fb2a5d8520c8.jpg
     url: /files/original/14fb2a5d851d6714fb2a5d8520c8.jpg
+    alt:
+      en: "A three-story building with faded tan siding and a metal awning over blue double doors, a \"NO\" sign on the wall, a yellow fire hydrant out front, and debris scattered across the street."
 geo:
 id: 3171
 item_type: Still Image

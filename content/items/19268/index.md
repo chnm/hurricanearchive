@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0090iwojima.JPG
     thumb: /files/thumbnails/14fb2a116aeec514fb2a116af39d.jpg
     url: /files/original/14fb2a116aeec514fb2a116af39d.jpg
+    alt:
+      en: "Aerial view of a city skyline along a wide river, with a gray military vessel docked at the waterfront and a small boat creating a wake in the water below."
 geo:
 id: 19268
 item_type: Still Image

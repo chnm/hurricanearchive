@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 050.jpg
     thumb: /files/thumbnails/14fb2a12c6b01414fb2a12c6b3fb.jpg
     url: /files/original/14fb2a12c6b01414fb2a12c6b3fb.jpg
+    alt:
+      en: "Close-up of a woolland camouflage uniform shoulder with a circular patch depicting crossed fire axes, an orange mesh strap visible, and trucks parked in the background."
 geo:
 id: 19140
 item_type: Still Image

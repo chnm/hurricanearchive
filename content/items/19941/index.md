@@ -21,6 +21,8 @@ files:
     original_filename: Picture 037cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c4271cd14fb2a0c427890.jpg
     url: /files/original/14fb2a0c4271cd14fb2a0c427890.jpg
+    alt:
+      en: "Three men in military camouflage uniforms stand and lean near a Humvee under bare trees, with a fourth man in a tan shirt in the foreground; debris litters the grass behind them."
 geo:
 id: 19941
 item_type: Still Image

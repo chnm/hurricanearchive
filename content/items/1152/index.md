@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28420.jpg
     thumb: /files/thumbnails/14fb2a6ac340bf14fb2a6ac348d0.jpg
     url: /files/original/14fb2a6ac340bf14fb2a6ac348d0.jpg
+    alt:
+      en: "Storm-damaged house with collapsed walls and exposed roof framing stands amid floodwater and widespread debris, with a stripped tree in the foreground, in Slidell, Louisiana after Hurricane Katrina."
 geo:
   address: ''
   lat: 0.0

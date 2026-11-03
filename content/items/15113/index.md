@@ -21,6 +21,8 @@ files:
     original_filename: Minor-5647_23349e8acc.jpg
     thumb: /files/thumbnails/14fb2a17120eae14fb2a17121294.jpg
     url: /files/original/14fb2a17120eae14fb2a17121294.jpg
+    alt:
+      en: "Aged portrait photograph of a man wearing a dark wide-brimmed hat, dark suit, and tie with a mustache, posed against a plain backdrop."
 geo:
 id: 15113
 item_type: Still Image

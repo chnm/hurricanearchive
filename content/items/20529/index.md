@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029-20.JPG
     thumb: /files/thumbnails/14fb2a0671fa0414fb2a0671fde8.jpg
     url: /files/original/14fb2a0671fa0414fb2a0671fde8.jpg
+    alt:
+      en: "Four women in matching gray T-shirts reading \"Danny's Cajun Catering, Bringing the Best of Louisiana to You, White Castle, La.\" serve food under a tent, smiling as they work."
 geo:
 id: 20529
 item_type: Still Image

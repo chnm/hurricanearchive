@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (84).jpg
     thumb: /files/thumbnails/14fb2a5c66c0cd14fb2a5c66c4a9.jpg
     url: /files/original/14fb2a5c66c0cd14fb2a5c66c4a9.jpg
+    alt:
+      en: "Debris-strewn street with wind-blown grass draped over rooftops, two people standing amid wreckage, a damaged vehicle, and broken boat fragments in the foreground."
 geo:
 id: 3326
 item_type: Still Image

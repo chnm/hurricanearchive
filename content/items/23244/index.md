@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 35.jpg
     thumb: /files/thumbnails/14fb29f05afe0b14fb29f05b01f0.jpg
     url: /files/original/14fb29f05afe0b14fb29f05b01f0.jpg
+    alt:
+      en: "Satellite weather map of the Gulf of Mexico and Atlantic region showing storm systems in orange and pink, dated 29 Aug 2005 09:16 GMT, credited to The Weather Channel/weather.com."
 geo:
 id: 23244
 item_type: Still Image

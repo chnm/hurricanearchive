@@ -20,6 +20,8 @@ files:
     original_filename: tina visit 007.jpg
     thumb: /files/thumbnails/399f15e19879e30bebbb148de1a4a461.jpg
     url: /files/original/399f15e19879e30bebbb148de1a4a461.jpg
+    alt:
+      en: "Two-story brown house with wooden garage door and exterior staircase; a decorative X marking is mounted on the wall beside the front door, with flower beds lining the walkway."
 geo:
   address: ''
   lat: 29.961094176695

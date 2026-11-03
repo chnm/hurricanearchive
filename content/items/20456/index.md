@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018-15.JPG
     thumb: /files/thumbnails/14fb2a070e925014fb2a070e962d.jpg
     url: /files/original/14fb2a070e925014fb2a070e962d.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses and streets submerged in standing water, a highway and overpass visible in the hazy background."
 geo:
 id: 20456
 item_type: Still Image

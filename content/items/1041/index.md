@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28030.jpg
     thumb: /files/thumbnails/14fb2a6b4a6fe414fb2a6b4a9081.jpg
     url: /files/original/14fb2a6b4a6fe414fb2a6b4a9081.jpg
+    alt:
+      en: "Gravel-covered ground with a small cross made of debris in the foreground, leading back to a flooded area and damaged houses amid downed trees under a clear sky."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: aerials45.jpg
     thumb: /files/thumbnails/14fb2a19c9b47214fb2a19c9b880.jpg
     url: /files/original/14fb2a19c9b47214fb2a19c9b880.jpg
+    alt:
+      en: "Aerial view of a narrow waterway lined with trees, with one large house still standing near the shore while surrounding properties show extensive storm damage and debris."
 geo:
 id: 14333
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: RhinaKissee-5921_d33eb4e874.jpg
     thumb: /files/thumbnails/14fb29d90d70e414fb29d90d8788.jpg
     url: /files/original/14fb29d90d70e414fb29d90d8788.jpg
+    alt:
+      en: "White mantel decorated with a nativity scene and gold drapery beneath a framed family portrait, flanked below by gold cherub statues holding trumpets beside a marble fireplace."
 geo:
   address: 3709 Palmisano Blvd., Chalmette, LA
   lat: 29.95079

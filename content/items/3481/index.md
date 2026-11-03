@@ -24,6 +24,8 @@ files:
     original_filename: P1010055.JPG
     thumb: /files/thumbnails/14fb2a5b8abe8114fb2a5b8ac267.jpg
     url: /files/original/14fb2a5b8abe8114fb2a5b8ac267.jpg
+    alt:
+      en: "A storm-damaged single-story house with boarded windows and a spray-painted X marking on its facade, surrounded by broken, leafless tree branches scattered across the yard."
 geo:
 id: 3481
 item_type: Still Image

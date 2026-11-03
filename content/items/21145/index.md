@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0185-9-25.JPG
     thumb: /files/thumbnails/14fb2a005a329714fb2a005a37ec.jpg
     url: /files/original/14fb2a005a329714fb2a005a37ec.jpg
+    alt:
+      en: "Aerial view of a two-lane road surrounded by floodwater, with a line of military trucks and a Humvee parked along the roadside and small boats nearby amid submerged marshland."
 geo:
 id: 21145
 item_type: Still Image

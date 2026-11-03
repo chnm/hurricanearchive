@@ -24,6 +24,8 @@ files:
     original_filename: P1010012a.JPG
     thumb: /files/thumbnails/14fb2a5bada27d14fb2a5bada664.jpg
     url: /files/original/14fb2a5bada27d14fb2a5bada664.jpg
+    alt:
+      en: "Residential street lined with storm debris—furniture, refrigerators, and tree branches—piled at curbs, with a blue-tarped roof, parked vehicles, and an excavator in the distance near the levee."
 geo:
 id: 3446
 item_type: Still Image

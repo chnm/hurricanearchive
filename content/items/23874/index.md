@@ -21,6 +21,8 @@ files:
     original_filename: S4300239stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eca570c514fb29eca574b4.jpg
     url: /files/original/14fb29eca570c514fb29eca574b4.jpg
+    alt:
+      en: "A flooded highway with a concrete median barrier disappearing into floodwaters, several boats stranded on the submerged road, and a hazy industrial skyline visible in the distance."
 geo:
 id: 23874
 item_type: Still Image

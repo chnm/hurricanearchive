@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eb1c91a114fb29eb1c9a48.jpg
     url: /files/original/14fb29eb1c91a114fb29eb1c9a48.jpg
+    alt:
+      en: "Two people stand near a military-style vehicle under a canopy, with trees and a road visible in the background; the photo is rotated sideways."
 geo:
 id: 24065
 item_type: Still Image

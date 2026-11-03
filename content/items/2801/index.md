@@ -21,6 +21,8 @@ files:
     original_filename: 93.jpg
     thumb: /files/thumbnails/14fb2a6009a90414fb2a6009aceb.jpg
     url: /files/original/14fb2a6009a90414fb2a6009aceb.jpg
+    alt:
+      en: "Child's marker drawing labeled \"Mya,\" featuring a tree, a blue house, a dark sun, clouds, a butterfly, and a row of seven smiling stick figures standing on a green wavy ground line."
 geo:
 id: 2801
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0115-18.JPG
     thumb: /files/thumbnails/14fb2a0a14d9fb14fb2a0a14dde0.jpg
     url: /files/original/14fb2a0a14d9fb14fb2a0a14dde0.jpg
+    alt:
+      en: "Debris field with scattered wreckage and a vehicle beside a damaged concrete structure, with pine trees and dry grass along a roadway."
 geo:
 id: 20283
 item_type: Still Image

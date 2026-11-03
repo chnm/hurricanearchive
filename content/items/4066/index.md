@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0019.JPG
     thumb: /files/thumbnails/14fb2a58291b3214fb2a58291f18.jpg
     url: /files/original/14fb2a58291b3214fb2a58291f18.jpg
+    alt:
+      en: "Flood-damaged garage with stripped drywall exposing studs, scattered debris, lumber, coolers, and buckets covering the floor, a truck parked inside, and a sign reading \"ASSHOLE'S GARAGE\" above the doorway."
 geo:
 id: 4066
 item_type: Still Image

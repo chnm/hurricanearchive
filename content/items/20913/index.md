@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0146-9-25.JPG
     thumb: /files/thumbnails/14fb2a020b769b14fb2a020b7acc.jpg
     url: /files/original/14fb2a020b769b14fb2a020b7acc.jpg
+    alt:
+      en: "Aerial view of widespread flooding submerging a roadway, trees, and scattered storm-damaged structures, including a red house with a green roof, under a hazy gray sky."
 geo:
 id: 20913
 item_type: Still Image

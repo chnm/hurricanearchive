@@ -20,6 +20,8 @@ files:
     original_filename: Katrina052_221dbcfda7.jpg
     thumb: /files/thumbnails/14fb29c3f984e014fb29c3f98b3e.jpg
     url: /files/original/14fb29c3f984e014fb29c3f98b3e.jpg
+    alt:
+      en: "A single-story house with boarded windows and storm-damaged siding, debris scattered across the yard, and a person in a red shirt walking along the driveway."
 geo:
   address: 7224 patricia street
   lat: 29.9657

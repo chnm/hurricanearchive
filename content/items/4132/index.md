@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0018.JPG
     thumb: /files/thumbnails/14fb2a5782f02214fb2a5782f3fe.jpg
     url: /files/original/14fb2a5782f02214fb2a5782f3fe.jpg
+    alt:
+      en: "Shrimp boats with tall rigging masts docked along a waterfront, with a white pickup truck parked on a gravel lot nearby; a car side mirror is visible in the foreground."
 geo:
 id: 4132
 item_type: Still Image

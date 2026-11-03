@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (23).JPG
     thumb: /files/thumbnails/14fb2a5d07f71f14fb2a5d07fb03.jpg
     url: /files/original/14fb2a5d07f71f14fb2a5d07fb03.jpg
+    alt:
+      en: "Wide river or canal with a tugboat and barge on the left, two navigational buoys in the water, and a low shoreline lined with trees, houses, and power lines under a hazy sky."
 geo:
 id: 3259
 item_type: Still Image

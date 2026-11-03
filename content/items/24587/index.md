@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0122-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e667870414fb29e6678aeb.jpg
     url: /files/original/14fb29e667870414fb29e6678aeb.jpg
+    alt:
+      en: "Sideways photo of a person in camouflage clothing in the foreground, with a white utility truck parked on a rain-streaked road behind them."
 geo:
 id: 24587
 item_type: Still Image

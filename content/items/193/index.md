@@ -26,6 +26,8 @@ files:
     original_filename: Oct2935_c0405863b7.JPG
     thumb: /files/thumbnails/14fb2a7096f16a14fb2a7096f54e.jpg
     url: /files/original/14fb2a7096f16a14fb2a7096f54e.jpg
+    alt:
+      en: "Windshield of a vehicle with \"HOPE\" painted in red, partially silhouetted figure holding a firearm visible through the open door, trees in the background."
 geo:
   address: ''
   lat: 29.938343

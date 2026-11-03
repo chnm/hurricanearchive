@@ -27,6 +27,8 @@ files:
     original_filename: sideporch_ef9a0dcedd.JPG
     thumb: /files/thumbnails/14fb29cc053e7314fb29cc054252.jpg
     url: /files/original/14fb29cc053e7314fb29cc054252.jpg
+    alt:
+      en: "Side porch of a yellow house with white railings, where a blue beam is spray-painted with a heart, chicken figures, and the name \"Helen\"; a car and trees are visible beyond the fence."
 geo:
   address: 3438 Cleveland St
   lat: 0.0

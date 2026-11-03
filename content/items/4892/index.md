@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0211.JPG
     thumb: /files/thumbnails/14fb2a550b34d514fb2a550b3837.jpg
     url: /files/original/14fb2a550b34d514fb2a550b3837.jpg
+    alt:
+      en: "Elevated green house on stilts with a wraparound porch, surrounded by tall pine trees, a chain-link fence, and scattered debris on bare ground."
 geo:
 id: 4892
 item_type: Still Image

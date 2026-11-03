@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28169.jpg
     thumb: /files/thumbnails/14fb2a69142c5f14fb2a69143bff.jpg
     url: /files/original/14fb2a69142c5f14fb2a69143bff.jpg
+    alt:
+      en: "Street sign reading \"Hunter Hollow\" at a residential intersection, with storm-damaged trees, scattered debris, and houses in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

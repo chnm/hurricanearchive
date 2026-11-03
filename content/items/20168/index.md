@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of 09140010.JPG
     thumb: /files/thumbnails/14fb2a0af75d6614fb2a0af7614c.jpg
     url: /files/original/14fb2a0af75d6614fb2a0af7614c.jpg
+    alt:
+      en: "A beached motorboat with red, white, and blue stripes lies tilted amid storm debris and fallen branches, with a damaged multi-story building visible in the background."
 geo:
 id: 20168
 item_type: Still Image

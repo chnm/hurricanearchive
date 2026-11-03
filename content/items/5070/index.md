@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0415.JPG
     thumb: /files/thumbnails/14fb2a541abc1514fb2a541ac4ff.jpg
     url: /files/original/14fb2a541abc1514fb2a541ac4ff.jpg
+    alt:
+      en: "A boat washed ashore amid storm debris and broken trees, with a tree trunk marked \"612\" and \"county\" in spray paint, scattered lumber and wreckage covering the ground."
 geo:
 id: 5070
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 50647223_fdf6ab52aa_o_61390facce.jpg
     thumb: /files/thumbnails/14fb2a6da35ad014fb2a6da35f47.jpg
     url: /files/original/14fb2a6da35ad014fb2a6da35f47.jpg
+    alt:
+      en: "Damaged living room with a stained fireplace mantel cluttered with small items, a black flag with a red skull-and-crossbones on the wall, and debris including a TV and wooden boards piled near a couch."
 geo:
   address: ''
   lat: 29.967129708835

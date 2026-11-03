@@ -24,6 +24,8 @@ files:
     original_filename: SD 1954 couple_6fd8b44975.jpg
     thumb: /files/thumbnails/14fb29d7d2b10614fb29d7d2b4eb.jpg
     url: /files/original/14fb29d7d2b10614fb29d7d2b4eb.jpg
+    alt:
+      en: "Black-and-white photo of a smiling man in a light suit and a woman in a strapless floral-embellished gown with corsage and necklace, standing together indoors; a child peeks from behind a chair nearby."
 geo:
   address: ''
   lat: 29.993

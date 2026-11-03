@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0258.JPG
     thumb: /files/thumbnails/14fb29feb6a0b914fb29feb6a47b.jpg
     url: /files/original/14fb29feb6a0b914fb29feb6a47b.jpg
+    alt:
+      en: "Aerial view of a flood-damaged neighborhood with standing muddy water, an overturned car, a school bus, scattered debris, and heavily damaged rooftops and buildings."
 geo:
 id: 21447
 item_type: Still Image

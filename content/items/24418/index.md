@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0090-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e80e3b4414fb29e80e57d7.jpg
     url: /files/original/14fb29e80e3b4414fb29e80e57d7.jpg
+    alt:
+      en: "Aerial view of a flood-ravaged property with a collapsed roof, scattered debris, and downed power lines surrounded by standing floodwater and bare, storm-damaged trees."
 geo:
 id: 24418
 item_type: Still Image

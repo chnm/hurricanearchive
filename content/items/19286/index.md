@@ -21,6 +21,8 @@ files:
     original_filename: USS Iwo Jima2iwojima.JPG
     thumb: /files/thumbnails/14fb2a115644b814fb2a1156489e.jpg
     url: /files/original/14fb2a115644b814fb2a1156489e.jpg
+    alt:
+      en: "A gray naval amphibious assault ship docked along a riverside pier, with the \"Riverwalk\" building and a dense city skyline of high-rise buildings in the background."
 geo:
 id: 19286
 item_type: Still Image

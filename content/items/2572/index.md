@@ -24,6 +24,8 @@ files:
     original_filename: 20051201_MG_9071.jpg
     thumb: /files/thumbnails/14fb2a6500670814fb2a650071cf.jpg
     url: /files/original/14fb2a6500670814fb2a650071cf.jpg
+    alt:
+      en: "Uprooted tree stumps and debris surround a muddy, flooded area near a damaged brick house with a tarped roof; construction barricades and a truck sit at left near a cleared road."
 geo:
 id: 2572
 item_type: Still Image

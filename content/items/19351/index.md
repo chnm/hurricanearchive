@@ -21,6 +21,8 @@ files:
     original_filename: 002engineers.JPG
     thumb: /files/thumbnails/14fb2a10e2a71114fb2a10e2aaf6.jpg
     url: /files/original/14fb2a10e2a71114fb2a10e2aaf6.jpg
+    alt:
+      en: "Two men in military uniforms operate a portable table saw cutting a wooden board in a parking lot, with military trucks and a generator visible nearby."
 geo:
 id: 19351
 item_type: Still Image

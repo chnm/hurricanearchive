@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DannishDanionGreen_10_56d939d088.jpg
     thumb: /files/thumbnails/14fb2a1807530814fb2a180755b9.jpg
     url: /files/original/14fb2a1807530814fb2a180755b9.jpg
+    alt:
+      en: "Two children in school uniforms sit side by side on small chairs near a bookshelf and table with stuffed animals, in a classroom corner."
 geo:
 id: 14710
 item_type: Still Image

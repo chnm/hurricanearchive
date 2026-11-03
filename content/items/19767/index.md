@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 154cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ddecdcf14fb2a0dded1ae.jpg
     url: /files/original/14fb2a0ddecdcf14fb2a0dded1ae.jpg
+    alt:
+      en: "Group of military personnel in camouflage uniforms conversing on a grassy lawn in front of a brick house, with fallen tree debris and a military vehicle visible in the background."
 geo:
 id: 19767
 item_type: Still Image

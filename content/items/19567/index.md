@@ -21,6 +21,8 @@ files:
     original_filename: S4300021zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f24fc4014fb2a0f250379.jpg
     url: /files/original/14fb2a0f24fc4014fb2a0f250379.jpg
+    alt:
+      en: "Two small shaggy dogs on leashes sit together on pavement, with a vehicle tire visible in the background."
 geo:
 id: 19567
 item_type: Still Image

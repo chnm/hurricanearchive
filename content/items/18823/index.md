@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0050ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a1509a84a14fb2a1509ac30.jpg
     url: /files/original/14fb2a1509a84a14fb2a1509ac30.jpg
+    alt:
+      en: "Aerial view of a flood-ravaged neighborhood with collapsed homes, scattered debris, standing water, and bare trees, with a levee and truck visible in the foreground."
 geo:
 id: 18823
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28436.jpg
     thumb: /files/thumbnails/14fb2a6c15e21114fb2a6c15ebef.jpg
     url: /files/original/14fb2a6c15e21114fb2a6c15ebef.jpg
+    alt:
+      en: "Exterior of a Wal-Mart Supercenter with missing letters in its sign, boarded entrance doors, a chain-link fence, and a green dumpster in the empty parking lot."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 338-J2.jpg
     thumb: /files/thumbnails/14fb29fa2a842014fb29fa2a8806.jpg
     url: /files/original/14fb29fa2a842014fb29fa2a8806.jpg
+    alt:
+      en: "Storm-damaged tree limbs and debris piled on a grassy median in front of shotgun houses and a corner building labeled \"GROCERY,\" with a pickup truck and sedan parked along the street."
 geo:
 id: 22007
 item_type: Still Image

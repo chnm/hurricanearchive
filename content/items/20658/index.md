@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0051H.JPG
     thumb: /files/thumbnails/14fb2a056224c514fb2a056228a8.jpg
     url: /files/original/14fb2a056224c514fb2a056228a8.jpg
+    alt:
+      en: "Woman in a white tank top gestures toward the camera at a wooden table, with men in camouflage military uniforms seated behind her among beer cans and bandanas."
 geo:
 id: 20658
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-023S.JPG
     thumb: /files/thumbnails/14fb2a5fc1a2a814fb2a5fc1a684.jpg
     url: /files/original/14fb2a5fc1a2a814fb2a5fc1a684.jpg
+    alt:
+      en: "Industrial workshop interior with dark red floor, gray machinery and workbenches, black support columns, and overhead yellow ductwork and white piping."
 geo:
 id: 2866
 item_type: Still Image

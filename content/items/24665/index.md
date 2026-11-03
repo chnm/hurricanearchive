@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0095medics.JPG
     thumb: /files/thumbnails/14fb29e5c286b214fb29e5c28a88.jpg
     url: /files/original/14fb29e5c286b214fb29e5c28a88.jpg
+    alt:
+      en: "A man in camouflage U.S. Army fatigues and matching cap, with a colonel's insignia pin, raises his hand with palm facing the camera; a name tape reading \"...GULLY\" is visible on his uniform."
 geo:
 id: 24665
 item_type: Still Image

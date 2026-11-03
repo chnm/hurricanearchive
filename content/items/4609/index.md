@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0035.JPG
     thumb: /files/thumbnails/14fb2a56c28df914fb2a56c291e8.jpg
     url: /files/original/14fb2a56c28df914fb2a56c291e8.jpg
+    alt:
+      en: "A large fallen tree lies across the damaged roof of a brick house, with debris, a downspout, and storm wreckage scattered in the yard below."
 geo:
 id: 4609
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: ferraras_3f8d139b40.jpg
     thumb: /files/thumbnails/14fb2a70596f2c14fb2a705972e1.jpg
     url: /files/original/14fb2a70596f2c14fb2a705972e1.jpg
+    alt:
+      en: "Damaged storefront of \"Ferrara's Super Market\" with a partially collapsed awning, debris scattered on the cracked pavement, and a leaning utility pole with tangled wires overhead."
 geo:
   address: ''
   lat: 30.020354455970498

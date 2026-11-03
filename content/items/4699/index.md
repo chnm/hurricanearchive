@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0090.JPG
     thumb: /files/thumbnails/14fb2a5612cead14fb2a5612d960.jpg
     url: /files/original/14fb2a5612cead14fb2a5612d960.jpg
+    alt:
+      en: "Debris-strewn field with broken trees and scattered white wreckage fragments amid patchy grass and bare dirt, set against a clear blue sky."
 geo:
 id: 4699
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1328Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5facde614fb29f5fad41c.jpg
     url: /files/original/14fb29f5facde614fb29f5fad41c.jpg
+    alt:
+      en: "Severe flooding submerges a street and surrounding area, with a military aircraft and debris floating in the murky water under overcast, rainy skies."
 geo:
 id: 22487
 item_type: Still Image

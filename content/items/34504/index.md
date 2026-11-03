@@ -27,6 +27,8 @@ files:
     original_filename: 2292070870_1c90ab7f8f.
     thumb: /files/thumbnails/14fb29c9a49db514fb29c9a4a100.jpg
     url: /files/original/14fb29c9a49db514fb29c9a4a100.jpg
+    alt:
+      en: "Elevated blue house on pilings with white lattice railings, its lower level and yard filled with storm debris, broken wood, and dried grass; neighboring houses and trees visible behind."
 geo:
   address: ''
   lat: 30.22539

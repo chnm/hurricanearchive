@@ -20,6 +20,8 @@ files:
     original_filename: 2456723149_7c4d741409.
     thumb: /files/thumbnails/14fb29c8980d4e14fb29c8983312.jpg
     url: /files/original/14fb29c8980d4e14fb29c8983312.jpg
+    alt:
+      en: "A checkered-pattern boardwalk runs alongside a marina with docked boats, leading toward a riverboat-style building with a large \"BALLY'S CASINO\" sign, under a clear sky."
 geo:
 id: 34902
 item_type: Still Image

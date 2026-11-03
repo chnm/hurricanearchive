@@ -27,6 +27,8 @@ files:
     original_filename: 2291202087_f97eee8e8f.
     thumb: /files/thumbnails/14fb29c989c32314fb29c989c709.jpg
     url: /files/original/14fb29c989c32314fb29c989c709.jpg
+    alt:
+      en: "Underside of a raised house, its pale blue siding visible above wooden support posts, with scattered debris—broken wood planks, wiring, and metal scraps—piled beneath the structure."
 geo:
   address: ''
   lat: 30.22539

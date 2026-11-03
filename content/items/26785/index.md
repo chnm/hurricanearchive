@@ -21,6 +21,8 @@ files:
     original_filename: SD new home algiers_261ebf0916.jpg
     thumb: /files/thumbnails/14fb29d7ce906314fb29d7ce9448.jpg
     url: /files/original/14fb29d7ce906314fb29d7ce9448.jpg
+    alt:
+      en: "A small, single-story white house with dark shutters, a central front door, and a short porch with steps, set on a raised foundation with grass and bare landscaping beds in front."
 geo:
   address: ''
   lat: 30.03106

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1287Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f66a89e614fb29f66a8df1.jpg
     url: /files/original/14fb29f66a89e614fb29f66a8df1.jpg
+    alt:
+      en: "Floodwater submerges a street and the lower floors of white and brick buildings, with a partially visible hatch or sign floating above the waterline and trees and utility poles in the background."
 geo:
 id: 22446
 item_type: Still Image

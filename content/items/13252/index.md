@@ -21,6 +21,8 @@ files:
     original_filename: getting more windy.jpg
     thumb: /files/thumbnails/14fb2a1e98250114fb2a1e9828e8.jpg
     url: /files/original/14fb2a1e98250114fb2a1e9828e8.jpg
+    alt:
+      en: "A metal pier walkway with lampposts extends into storm-churned water under a gray sky, with windblown palm fronds and grass in the foreground, rain streaking the camera lens."
 geo:
 id: 13252
 item_type: Still Image

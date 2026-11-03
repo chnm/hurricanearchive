@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0215.JPG
     thumb: /files/thumbnails/14fb2a55088cd414fb2a550890da.jpg
     url: /files/original/14fb2a55088cd414fb2a550890da.jpg
+    alt:
+      en: "A concrete footing or pier base is measured with a yellow tape measure showing about 31 inches across its top, with a wooden post stub and debris nearby on muddy ground."
 geo:
 id: 4896
 item_type: Still Image

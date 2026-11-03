@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035cameronS&R.JPG
     thumb: /files/thumbnails/14fb29f02b721414fb29f02b75fa.jpg
     url: /files/original/14fb29f02b721414fb29f02b75fa.jpg
+    alt:
+      en: "Aerial view of a coastal community reduced to scattered pilings and foundation slabs, with floodwater pooling in the grid of former streets along a sandy shoreline under a hazy sky."
 geo:
 id: 23274
 item_type: Still Image

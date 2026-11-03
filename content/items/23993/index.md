@@ -21,6 +21,8 @@ files:
     original_filename: 09270031plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec1525ff14fb29ec1529e1.jpg
     url: /files/original/14fb29ec1525ff14fb29ec1529e1.jpg
+    alt:
+      en: "Two overturned \"White Knight Gulf Coast Seafood Inc.\" fish trailers and a collapsed mobile home lie amid storm debris near bare trees, with a flooded roadway and downed cable in the foreground."
 geo:
 id: 23993
 item_type: Still Image

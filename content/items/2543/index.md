@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8810.jpg
     thumb: /files/thumbnails/14fb2a6586686114fb2a65866c45.jpg
     url: /files/original/14fb2a6586686114fb2a65866c45.jpg
+    alt:
+      en: "Devastated homes with collapsed walls and a crushed truck stand amid scattered debris, broken bricks, pipes, and an overturned bathtub in the foreground."
 geo:
 id: 2543
 item_type: Still Image

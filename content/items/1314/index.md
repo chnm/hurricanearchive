@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28749.jpg
     thumb: /files/thumbnails/14fb2a69bc424a14fb2a69bc4a18.jpg
     url: /files/original/14fb2a69bc424a14fb2a69bc4a18.jpg
+    alt:
+      en: "A large lizard, likely a monitor, rests inside a white wire cage with bedding, part of the animal rescue operation at Lamar-Dixon Fairgrounds."
 geo:
   address: ''
   lat: 0.0

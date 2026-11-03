@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7130_c0791fe995.jpg
     thumb: /files/thumbnails/14fb29d37eabeb14fb29d37eafd3.jpg
     url: /files/original/14fb29d37eabeb14fb29d37eafd3.jpg
+    alt:
+      en: "A woman holds a toddler while a young girl sits on a low, twisted tree branch above them, in a park setting with mulched ground and trees in the background."
 geo:
   address: ''
   lat: 29.91685

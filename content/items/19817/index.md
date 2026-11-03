@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007gillslong.JPG
     thumb: /files/thumbnails/14fb2a0da68fb914fb2a0da69a9c.jpg
     url: /files/original/14fb2a0da68fb914fb2a0da69a9c.jpg
+    alt:
+      en: "A crew member wearing a helmet and flight suit with an American flag patch looks out the open door of a helicopter toward a base with buildings, trucks, and a grassy field below."
 geo:
 id: 19817
 item_type: Still Image

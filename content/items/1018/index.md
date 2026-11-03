@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28594.jpg
     thumb: /files/thumbnails/14fb2a6b65848714fb2a6b6588b4.jpg
     url: /files/original/14fb2a6b65848714fb2a6b6588b4.jpg
+    alt:
+      en: "A large white boat sits beached on broken wooden planks and debris, its hull stained and peeling, with handmade signs reading \"Help Wanted\" and \"Fishing Captain\" propped nearby amid palm trees."
 geo:
   address: ''
   lat: 0.0

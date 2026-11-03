@@ -24,6 +24,8 @@ files:
     original_filename: P1010035.jpg
     thumb: /files/thumbnails/14fb2a5aa5c0b214fb2a5aa5c48f.jpg
     url: /files/original/14fb2a5aa5c0b214fb2a5aa5c48f.jpg
+    alt:
+      en: "A mud-splattered relief plaque depicting The Last Supper, framed in ornate silver and brown, lies discarded among dead leaves and debris beside an empty orange Crush soda bottle."
 geo:
 id: 3604
 item_type: Still Image

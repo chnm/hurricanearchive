@@ -18,6 +18,8 @@ files:
     original_filename: 62_ca4fc7fcff.jpg
     thumb: /files/thumbnails/14fb29c65aba4b14fb29c65abec7.jpg
     url: /files/original/14fb29c65aba4b14fb29c65abec7.jpg
+    alt:
+      en: "Three people pose at a cluttered bar counter, a man in an open blue shirt and two women, one in a tie-dye dress and floral hat; a \"New Orleans Jazz and Heritage Festival\" poster and snack bags hang nearby."
 geo:
   address: new orleans, la
   lat: 29.95324

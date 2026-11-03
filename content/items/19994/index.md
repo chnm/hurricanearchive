@@ -21,6 +21,8 @@ files:
     original_filename: Picture 091cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bc8a10914fb2a0bc8a4f8.jpg
     url: /files/original/14fb2a0bc8a10914fb2a0bc8a4f8.jpg
+    alt:
+      en: "View from a vehicle window showing a concrete barrier wall in the foreground, with elevated highway overpasses, power line towers, and industrial buildings visible in the background."
 geo:
 id: 19994
 item_type: Still Image

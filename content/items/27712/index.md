@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6625_9024c6d1e1.JPG
     thumb: /files/thumbnails/14fb29d2b9da1b14fb29d2b9ddf7.jpg
     url: /files/original/14fb29d2b9da1b14fb29d2b9ddf7.jpg
+    alt:
+      en: "Printed invitation card, stained with age spots, announcing the formal dedication of James E. Comiskey Playground (Comiskey Park) on Sunday, September 24, 1972, at Jefferson Davis Parkway and Baudin."
 geo:
   address: ''
   lat: 29.84064

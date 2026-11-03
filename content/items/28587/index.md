@@ -23,6 +23,8 @@ files:
     original_filename: 162618011_a39b715b74.jpg
     thumb: /files/thumbnails/14fb29d23798ef14fb29d2379cd4.jpg
     url: /files/original/14fb29d23798ef14fb29d2379cd4.jpg
+    alt:
+      en: "Bent stop sign and \"ONE WAY\" sign on a leaning pole beside an overgrown, cracked street lined with damaged houses in Lakeshore, New Orleans."
 geo:
 id: 28587
 item_type: Still Image

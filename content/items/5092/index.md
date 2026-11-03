@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0437.JPG
     thumb: /files/thumbnails/14fb2a53f1f4fa14fb2a53f1f8d1.jpg
     url: /files/original/14fb2a53f1f4fa14fb2a53f1f8d1.jpg
+    alt:
+      en: "Debris-strewn sandy lot with concrete slab foundations, scattered wreckage, and bare dead trees along the shoreline; excavators work in the background under a hazy sky."
 geo:
 id: 5092
 item_type: Still Image

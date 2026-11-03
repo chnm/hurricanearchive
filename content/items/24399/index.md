@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-20-19A.jpg
     thumb: /files/thumbnails/14fb29e841d92814fb29e841dd0c.jpg
     url: /files/original/14fb29e841d92814fb29e841dd0c.jpg
+    alt:
+      en: "Vehicles parked in a lot during heavy rain, with low visibility obscuring distant buildings and trees, power lines strung overhead."
 geo:
 id: 24399
 item_type: Still Image

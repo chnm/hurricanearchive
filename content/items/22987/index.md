@@ -21,6 +21,8 @@ files:
     original_filename: Meeting outside freq ofc NAS NONASneworleans.jpg
     thumb: /files/thumbnails/14fb29f2470add14fb29f2470ec2.jpg
     url: /files/original/14fb29f2470add14fb29f2470ec2.jpg
+    alt:
+      en: "Group of military personnel in camouflage and desert fatigues gather under a covered walkway outside a building, with an orange traffic cone and ceiling fans visible nearby."
 geo:
 id: 22987
 item_type: Still Image

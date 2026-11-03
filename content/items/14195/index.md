@@ -21,6 +21,8 @@ files:
     original_filename: Site name.JPG
     thumb: /files/thumbnails/14fb2a1ab4d47c14fb2a1ab4d866.jpg
     url: /files/original/14fb2a1ab4d47c14fb2a1ab4d866.jpg
+    alt:
+      en: "A sign reading \"Cameron Prairie National Wildlife Refuge, Office and Visitor Center\" stands on a lawn, with military vehicles and uniformed personnel gathered in the parking lot behind it."
 geo:
   address: ''
   lat: 0.0

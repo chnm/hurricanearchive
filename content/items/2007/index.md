@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0057_ff4a3c5f96.JPG
     thumb: /files/thumbnails/14fb2a6dc1e97414fb2a6dc201a3.jpg
     url: /files/original/14fb2a6dc1e97414fb2a6dc201a3.jpg
+    alt:
+      en: "A fallen pine tree with broken branches lies across a severely damaged mobile home, its torn metal siding and roofing exposed, with a wall-mounted \"Friedrich\" air conditioning unit visible."
 geo:
   address: ''
   lat: 30.2340057846354

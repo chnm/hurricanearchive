@@ -21,6 +21,8 @@ files:
     original_filename: LeoSchaeffer3C_d79526dfbb.jpg
     thumb: /files/thumbnails/14fb29dd3b5b9f14fb29dd3b5f84.jpg
     url: /files/original/14fb29dd3b5b9f14fb29dd3b5f84.jpg
+    alt:
+      en: "Storm-damaged supermarket entrance with \"...ermarket\" signage, showing collapsed metal shelving, scattered debris, and rubble covering the floor and parking area."
 geo:
 id: 25546
 item_type: Still Image

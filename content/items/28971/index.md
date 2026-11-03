@@ -31,6 +31,8 @@ files:
     original_filename: falsestate_69da4e93c3.jpg.JPG
     thumb: /files/thumbnails/14fb29d14b29d314fb29d14b2b7b.jpg
     url: /files/original/14fb29d14b29d314fb29d14b2b7b.jpg
+    alt:
+      en: "A wooden tower spelling \"FALSESTATE\" with string lights stands beside a weathered building, as several people gather and converse nearby in a grassy outdoor area."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

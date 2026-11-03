@@ -21,6 +21,8 @@ files:
     original_filename: J2 (23).JPG
     thumb: /files/thumbnails/14fb2a11424fe714fb2a11425294.jpg
     url: /files/original/14fb2a11424fe714fb2a11425294.jpg
+    alt:
+      en: "Aerial view of a large cargo tanker navigating a wide river, with barges docked along the far shore and weathered industrial warehouses lining the near bank amid scattered trees."
 geo:
 id: 19304
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0123gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cddcd0414fb2a0cddecc2.jpg
     url: /files/original/14fb2a0cddcd0414fb2a0cddecc2.jpg
+    alt:
+      en: "Workers in military fatigues and white hard hats install large plywood panels over a wall using ladders, with a faint projected image reading \"priceline.com\" visible on the wall above."
 geo:
 id: 19891
 item_type: Still Image

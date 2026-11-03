@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0261-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe966a4714fb29fe97453c.jpg
     url: /files/original/14fb29fe966a4714fb29fe97453c.jpg
+    alt:
+      en: "Aerial view of a flooded residential street with houses and trees partially submerged, power lines overhead, and a school bus stranded in standing water near a tree."
 geo:
 id: 21454
 item_type: Still Image

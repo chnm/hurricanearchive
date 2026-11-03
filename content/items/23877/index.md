@@ -21,6 +21,8 @@ files:
     original_filename: S4300242stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eca3b38814fb29eca3b779.jpg
     url: /files/original/14fb29eca3b38814fb29eca3b779.jpg
+    alt:
+      en: "An alligator statue or figure lies in cracked mud near a rusted metal pole, surrounded by scattered debris, scrap metal, and a shallow puddle reflecting the scene."
 geo:
 id: 23877
 item_type: Still Image

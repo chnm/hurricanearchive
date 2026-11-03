@@ -21,6 +21,8 @@ files:
     original_filename: MVC-021S.JPG
     thumb: /files/thumbnails/14fb2a5fec71be14fb2a5fec75a4.jpg
     url: /files/original/14fb2a5fec71be14fb2a5fec75a4.jpg
+    alt:
+      en: "A retired military jet with folded wings marked \"125\" sits parked on grass, its landing gear resting on the ground under a clear blue sky."
 geo:
 id: 2830
 item_type: Still Image

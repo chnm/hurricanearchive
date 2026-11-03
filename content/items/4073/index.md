@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0034.JPG
     thumb: /files/thumbnails/14fb2a5811cdee14fb2a5811d1d3.jpg
     url: /files/original/14fb2a5811cdee14fb2a5811d1d3.jpg
+    alt:
+      en: "A small motorboat with people aboard moves across choppy water in front of a long low bridge whose deck sections are damaged and tilted downward in several places."
 geo:
 id: 4073
 item_type: Still Image

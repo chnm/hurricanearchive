@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0019-20.JPG
     thumb: /files/thumbnails/14fb2a0707247014fb2a07072855.jpg
     url: /files/original/14fb2a0707247014fb2a07072855.jpg
+    alt:
+      en: "A man in military camouflage fatigues with a U.S. flag patch eats from a compartmentalized styrofoam tray of food, seated at a table inside a large tent structure with string lights overhead."
 geo:
 id: 20466
 item_type: Still Image

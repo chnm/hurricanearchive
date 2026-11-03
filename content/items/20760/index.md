@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0072H.JPG
     thumb: /files/thumbnails/14fb2a041192a614fb2a041196f1.jpg
     url: /files/original/14fb2a041192a614fb2a041196f1.jpg
+    alt:
+      en: "Close-up of a smiling young woman with short dark hair and glasses standing beside a man in a camouflage jacket, who gestures with his hand near her shoulder."
 geo:
 id: 20760
 item_type: Still Image

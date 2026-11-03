@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0171neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ef0c8bdb14fb29ef0c8fb3.jpg
     url: /files/original/14fb29ef0c8bdb14fb29ef0c8fb3.jpg
+    alt:
+      en: "Large pile of discarded household belongings—including a mattress, laundry baskets, a beach mat, scissors, and cots—heaped in front of a brick house, with clothing hung to dry in the background."
 geo:
 id: 23544
 item_type: Still Image

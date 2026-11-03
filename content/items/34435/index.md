@@ -23,6 +23,8 @@ files:
     original_filename: 2326960258_f738b66b1d.
     thumb: /files/thumbnails/14fb29ca0c197914fb29ca0c1d5d.jpg
     url: /files/original/14fb29ca0c197914fb29ca0c1d5d.jpg
+    alt:
+      en: "Large brick two-story house with a gray roof, its front lawn piled with debris, damaged furniture, and household items; a canal and guardrail appear in the foreground."
 geo:
   address: ''
   lat: 30.22444

@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 016.jpg
     thumb: /files/thumbnails/14fb2a59ef3dcb14fb2a59f0041c.jpg
     url: /files/original/14fb2a59ef3dcb14fb2a59f0041c.jpg
+    alt:
+      en: "Damaged teal house with collapsed roof and debris scattered across the yard, surrounded by bare, storm-stripped trees and a large mound of sand or rubble in the foreground."
 geo:
 id: 3736
 item_type: Still Image

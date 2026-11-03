@@ -21,6 +21,8 @@ files:
     original_filename: DSCN1515.JPG
     thumb: /files/thumbnails/14fb2a1b9b948414fb2a1b9bbaea.jpg
     url: /files/original/14fb2a1b9b948414fb2a1b9bbaea.jpg
+    alt:
+      en: "A soldier in camouflage uniform and sunglasses with nametag \"McKee\" stands before a residential street with a damaged house and military Humvee, dated 09.21.2005."
 geo:
   address: ''
   lat: 0.0

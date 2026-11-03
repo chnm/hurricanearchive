@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2084superdome.JPG
     thumb: /files/thumbnails/14fb29deb1720814fb29deb175ee.jpg
     url: /files/original/14fb29deb1720814fb29deb175ee.jpg
+    alt:
+      en: "Three men in military camouflage and flight suits assist an elderly man, carrying him by the arms across a paved lot beneath an elevated highway overpass."
 geo:
 id: 25357
 item_type: Still Image

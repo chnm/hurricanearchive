@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.140.JPG
     thumb: /files/thumbnails/14fb29dcdbb1a214fb29dcdbb8ba.jpg
     url: /files/original/14fb29dcdbb1a214fb29dcdbb8ba.jpg
+    alt:
+      en: "Damaged house numbered \"5015\" partially obscured by dead, brown tree branches and leaves, with exposed wooden siding and a white door visible through the debris."
 geo:
 id: 25659
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 002.jpg
     thumb: /files/thumbnails/14fb2a22ed9cd814fb2a22edb302.jpg
     url: /files/original/14fb2a22ed9cd814fb2a22edb302.jpg
+    alt:
+      en: "Several boats, including sailboats and a motor cruiser, sit along a wooded riverbank, with one sailboat listing heavily against the shoreline amid storm-damaged trees; timestamp reads 2005/09/24."
 geo:
 id: 11880
 item_type: Still Image

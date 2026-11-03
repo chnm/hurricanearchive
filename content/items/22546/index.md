@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1391Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f57834de14fb29f5784441.jpg
     url: /files/original/14fb29f57834de14fb29f5784441.jpg
+    alt:
+      en: "White clapboard building with a gabled roof stands partially submerged in dark floodwater beside a brick building, under an overcast gray sky."
 geo:
 id: 22546
 item_type: Still Image

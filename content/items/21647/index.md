@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0409crop.jpg
     thumb: /files/thumbnails/14fb29fccf0c5314fb29fccf1246.jpg
     url: /files/original/14fb29fccf0c5314fb29fccf1246.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage uniform wears dark tactical goggles while seated inside a military helicopter, with green fields visible through the open doorway behind him."
 geo:
 id: 21647
 item_type: Still Image

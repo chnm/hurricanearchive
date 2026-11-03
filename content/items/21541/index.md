@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0288-9-25.JPG
     thumb: /files/thumbnails/14fb29fdb19ef614fb29fdb1a2e9.jpg
     url: /files/original/14fb29fdb19ef614fb29fdb1a2e9.jpg
+    alt:
+      en: "Aerial view of a flooded rural landscape with a tall industrial smokestack, dense tree cover, a flooded field, and scattered homes and buildings surrounded by standing floodwater."
 geo:
 id: 21541
 item_type: Still Image

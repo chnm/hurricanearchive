@@ -21,6 +21,8 @@ files:
     original_filename: Picture 220cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b2d366214fb2a0b2d3a47.jpg
     url: /files/original/14fb2a0b2d366214fb2a0b2d3a47.jpg
+    alt:
+      en: "Two men in military camouflage uniforms and sunglasses stand near a large olive-drab military truck, with additional personnel and a tree-lined residential street visible in the background."
 geo:
 id: 20123
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: before me.jpg
     thumb: /files/thumbnails/14fb2a20d7988314fb2a20d79c68.jpg
     url: /files/original/14fb2a20d7988314fb2a20d79c68.jpg
+    alt:
+      en: "A man wearing glasses and a dark T-shirt stands on a rooftop parking deck with numbered \"RESERVED\" spaces, overlooking rooftops, trees, and a water tower labeled \"Gulfport.\""
 geo:
 id: 13046
 item_type: Still Image

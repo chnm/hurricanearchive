@@ -23,6 +23,8 @@ files:
     original_filename: Brett's House_b19bf502ce.jpg
     thumb: /files/thumbnails/14fb29c2773ed414fb29c27747ed.jpg
     url: /files/original/14fb29c2773ed414fb29c27747ed.jpg
+    alt:
+      en: "Storm-damaged house with debris-filled yard, fallen tree limbs, trash bags piled in a pickup truck bed, and a white wicker chair sitting in the muddy driveway."
 geo:
   address: 407 Felicity Street
   lat: 30.33033

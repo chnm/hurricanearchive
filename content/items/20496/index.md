@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023H.JPG
     thumb: /files/thumbnails/14fb2a06a0e32e14fb2a06a0e543.jpg
     url: /files/original/14fb2a06a0e32e14fb2a06a0e543.jpg
+    alt:
+      en: "Two people play air hockey at a dimly lit arcade table with string lights overhead; the woman wears a white tank top with an orange logo, and the man wears camouflage fatigues and holds a beer can."
 geo:
 id: 20496
 item_type: Still Image

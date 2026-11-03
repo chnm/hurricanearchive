@@ -21,6 +21,8 @@ files:
     original_filename: Picture 247cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b0aafd614fb2a0b0ab3c4.jpg
     url: /files/original/14fb2a0b0aafd614fb2a0b0ab3c4.jpg
+    alt:
+      en: "A large military tanker truck with multiple heavy-duty tires drives on a roadway, with a driver visible in the cab and a damaged building structure in the background."
 geo:
 id: 20150
 item_type: Still Image

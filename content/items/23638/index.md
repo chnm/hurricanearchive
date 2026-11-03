@@ -21,6 +21,8 @@ files:
     original_filename: P1010079empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee25f9f714fb29ee25fddc.jpg
     url: /files/original/14fb29ee25f9f714fb29ee25fddc.jpg
+    alt:
+      en: "Devastated landscape with leaning utility poles and sagging power lines, scattered debris, and uprooted trees, with a line of green trees and more wreckage visible in the background."
 geo:
 id: 23638
 item_type: Still Image

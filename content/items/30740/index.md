@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7441.JPG
     thumb: /files/thumbnails/14fb29cca0826c14fb29cca08651.jpg
     url: /files/original/14fb29cca0826c14fb29cca08651.jpg
+    alt:
+      en: "A paved road blocked by fallen trees and broken branches, with snapped utility poles and dangling wires amid dense roadside woods under a clear blue sky."
 geo:
 id: 30740
 item_type: Still Image

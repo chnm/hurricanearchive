@@ -21,6 +21,8 @@ files:
     original_filename: 09140017Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f983e61214fb29f983e9f8.jpg
     url: /files/original/14fb29f983e61214fb29f983e9f8.jpg
+    alt:
+      en: "A dark Ford pickup truck with a severely shattered windshield and debris on the hood sits on a lawn, with military Humvees and a brick building visible in the background."
 geo:
 id: 22106
 item_type: Still Image

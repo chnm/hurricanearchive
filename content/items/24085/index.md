@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29eaf126a714fb29eaf12a8e.jpg
     url: /files/original/14fb29eaf126a714fb29eaf12a8e.jpg
+    alt:
+      en: "Aerial view of a flooded marshland with a dredging barge working near a narrow spit of land, and an excavator operating on a grassy peninsula amid scattered dead vegetation and open water."
 geo:
 id: 24085
 item_type: Still Image

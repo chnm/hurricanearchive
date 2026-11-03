@@ -21,6 +21,8 @@ files:
     original_filename: P1010025delaware.JPG
     thumb: /files/thumbnails/14fb29f0c9905014fb29f0c99436.jpg
     url: /files/original/14fb29f0c9905014fb29f0c99436.jpg
+    alt:
+      en: "Aerial view through an aircraft window of a golf course with ponds, sand bunkers, and tree-lined fairways, with buildings and water visible in the hazy distance."
 geo:
 id: 23205
 item_type: Still Image

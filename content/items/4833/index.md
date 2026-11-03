@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0148.JPG
     thumb: /files/thumbnails/14fb2a553bd92914fb2a553bdd1b.jpg
     url: /files/original/14fb2a553bd92914fb2a553bdd1b.jpg
+    alt:
+      en: "A hand holds a yellow tape measure amid debris including a broken egg carton, a blue \"Boston\" labeled bottle, bricks, and scattered pine needles on rubble."
 geo:
 id: 4833
 item_type: Still Image

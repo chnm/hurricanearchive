@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1016Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f91c77ad14fb29f91c7b92.jpg
     url: /files/original/14fb29f91c77ad14fb29f91c7b92.jpg
+    alt:
+      en: "A U.S. Army Black Hawk helicopter sits on a grassy lawn in front of brick buildings lined with oak trees, with a person visible in the open side door."
 geo:
 id: 22209
 item_type: Still Image

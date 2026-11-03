@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0053OEP.JPG
     thumb: /files/thumbnails/14fb29f1d3e51c14fb29f1d3fccd.jpg
     url: /files/original/14fb29f1d3e51c14fb29f1d3fccd.jpg
+    alt:
+      en: "A satellite production truck labeled \"danblackstudios Satellite Productions\" parked on grass, with a canopy tent, folding chairs, coolers, water bottles, and supplies set up alongside."
 geo:
 id: 23043
 item_type: Still Image

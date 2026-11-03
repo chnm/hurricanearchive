@@ -21,6 +21,8 @@ files:
     original_filename: aerials95.jpg
     thumb: /files/thumbnails/14fb2a1967a72e14fb2a1967b4b6.jpg
     url: /files/original/14fb2a1967a72e14fb2a1967b4b6.jpg
+    alt:
+      en: "Aerial view of a suburban landscape with widespread tree damage, scattered houses, a water tower, and a sports field, likely from hurricane destruction."
 geo:
 id: 14386
 item_type: Still Image

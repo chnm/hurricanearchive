@@ -21,6 +21,8 @@ files:
     original_filename: 100_0180.JPG
     thumb: /files/thumbnails/14fb2a591ace8a14fb2a591ad266.jpg
     url: /files/original/14fb2a591ace8a14fb2a591ad266.jpg
+    alt:
+      en: "Floodwater submerges a residential street up to the rooflines of houses, with a small boat carrying a person navigating the water near partially submerged trees and homes."
 geo:
 id: 3887
 item_type: Still Image

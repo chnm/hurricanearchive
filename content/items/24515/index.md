@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0108-9-25.JPG
     thumb: /files/thumbnails/14fb29e72edab814fb29e72ede9e.jpg
     url: /files/original/14fb29e72edab814fb29e72ede9e.jpg
+    alt:
+      en: "Aerial view of a flooded wooded area with a collapsed structure reduced to scattered lumber and white roofing panels, surrounded by dead trees and murky floodwater with a partially submerged vehicle nearby."
 geo:
 id: 24515
 item_type: Still Image

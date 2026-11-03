@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05C6D_58b76467d6.jpg
     thumb: /files/thumbnails/14fb2a66887f2514fb2a668882a4.jpg
     url: /files/original/14fb2a66887f2514fb2a668882a4.jpg
+    alt:
+      en: "A U.S. Coast Guard member in uniform and sunglasses hands a bag of ice to a man seated in a red pickup truck outside a brick building."
 geo:
 id: 2418
 item_type: Still Image

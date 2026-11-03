@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0014.JPG
     thumb: /files/thumbnails/14fb2a1ba9befa14fb2a1ba9c2d9.jpg
     url: /files/original/14fb2a1ba9befa14fb2a1ba9c2d9.jpg
+    alt:
+      en: "Military personnel in camouflage and desert fatigues speak with reporters holding notepads and microphones, while a cameraman films; a red pickup truck is in the foreground and a brick building behind, timestamped 09.19.2005 13:33."
 geo:
   address: ''
   lat: 0.0

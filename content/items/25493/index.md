@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6183_2d81d880fc.jpg
     thumb: /files/thumbnails/14fb29dd8451c814fb29dd8455ac.jpg
     url: /files/original/14fb29dd8451c814fb29dd8455ac.jpg
+    alt:
+      en: "A clergyman in white and gold vestments shakes hands with a young man in a red shirt and tie, the photograph marred by water damage and discoloration."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

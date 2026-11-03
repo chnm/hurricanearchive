@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1989superdome.JPG
     thumb: /files/thumbnails/14fb29dfe1fa0e14fb29dfe1fdf1.jpg
     url: /files/original/14fb29dfe1fa0e14fb29dfe1fdf1.jpg
+    alt:
+      en: "Young child wrapped in a light-colored blanket leans out the window of an Acadian Ambulance Service of New Orleans vehicle (unit 325) while a person in military fatigues sits in the driver's seat behind them."
 geo:
 id: 25262
 item_type: Still Image

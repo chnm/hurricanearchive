@@ -24,6 +24,8 @@ files:
     original_filename: DSCN0659.JPG
     thumb: /files/thumbnails/14fb29cf98615e14fb29cf988f37.jpg
     url: /files/original/14fb29cf98615e14fb29cf988f37.jpg
+    alt:
+      en: "Three military personnel in flight suits and camouflage uniforms converse outdoors near a hedge, with a brick building, trees, and a parked vehicle visible in the background."
 geo:
 id: 29100
 item_type: Still Image

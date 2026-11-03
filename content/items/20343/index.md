@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0003-9-18.JPG
     thumb: /files/thumbnails/14fb2a08a54d4c14fb2a08a5522b.jpg
     url: /files/original/14fb2a08a54d4c14fb2a08a5522b.jpg
+    alt:
+      en: "A man in military camouflage uniform gestures while speaking to two women with backpacks, in a room with wall maps labeled \"TF Jefferson\" and \"TF Plaquemine\" and status reports posted behind them."
 geo:
 id: 20343
 item_type: Still Image

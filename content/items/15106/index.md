@@ -21,6 +21,8 @@ files:
     original_filename: March7a (23)-6_c9f8c49676.jpg
     thumb: /files/thumbnails/14fb2a171bf12b14fb2a171bf511.jpg
     url: /files/original/14fb2a171bf12b14fb2a171bf511.jpg
+    alt:
+      en: "A woman stands holding an open picture book while reading to two seated women, in a room decorated with a colorful children's mural of sea creatures and a pirate ship."
 geo:
 id: 15106
 item_type: Still Image

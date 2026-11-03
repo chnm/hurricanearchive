@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0350-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd0b18c214fb29fd0b1ca8.jpg
     url: /files/original/14fb29fd0b18c214fb29fd0b1ca8.jpg
+    alt:
+      en: "Blurry, sideways photo of a boat stranded on land amid debris, with metal railings or masts in the foreground and overgrown vegetation beyond a concrete wall."
 geo:
 id: 21616
 item_type: Still Image

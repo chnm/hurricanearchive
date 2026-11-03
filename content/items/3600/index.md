@@ -24,6 +24,8 @@ files:
     original_filename: P1010030.JPG
     thumb: /files/thumbnails/14fb2a5aa802ac14fb2a5aa80688.jpg
     url: /files/original/14fb2a5aa802ac14fb2a5aa80688.jpg
+    alt:
+      en: "A small bride-and-groom figurine stands amid debris, wedged between an Ivory detergent bottle and other discarded household items like cups and jars."
 geo:
 id: 3600
 item_type: Still Image

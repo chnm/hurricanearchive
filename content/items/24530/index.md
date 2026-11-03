@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0111-15.JPG
     thumb: /files/thumbnails/14fb29e6f390be14fb29e6f39368.jpg
     url: /files/original/14fb29e6f390be14fb29e6f39368.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with rows of homes reduced to scattered debris and splintered wood, surviving houses interspersed with damaged roofs, and streets covered in wreckage."
 geo:
 id: 24530
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0265.JPG
     thumb: /files/thumbnails/14fb2a55bab3b314fb2a55bab790.jpg
     url: /files/original/14fb2a55bab3b314fb2a55bab790.jpg
+    alt:
+      en: "Storm-damaged apartment buildings with missing roof shingles and exposed plywood, surrounded by scattered debris and broken lumber in the parking lot, with a dark pickup truck parked nearby."
 geo:
 id: 4755
 item_type: Still Image

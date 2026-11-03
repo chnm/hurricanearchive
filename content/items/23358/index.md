@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efcecead14fb29efced289.jpg
     url: /files/original/14fb29efcecead14fb29efced289.jpg
+    alt:
+      en: "A soldier in camouflage uniform with \"Stuever, U.S. Army\" nametape stands on a flooded road amid storm debris, with a water tower reading \"Cameron\" visible in the background."
 geo:
 id: 23358
 item_type: Still Image

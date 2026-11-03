@@ -21,6 +21,8 @@ files:
     original_filename: 09180015plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec470b8314fb29ec470f68.jpg
     url: /files/original/14fb29ec470b8314fb29ec470f68.jpg
+    alt:
+      en: "Blue metal warehouse building with peeled-back roof panels and exposed red steel framing, surrounded by scattered debris, downed trees, and a chain-link fence, with a mobile home visible in the background."
 geo:
 id: 23945
 item_type: Still Image

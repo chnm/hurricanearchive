@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0073medics.JPG
     thumb: /files/thumbnails/14fb29e5c418e614fb29e5c41ccd.jpg
     url: /files/original/14fb29e5c418e614fb29e5c41ccd.jpg
+    alt:
+      en: "A military medic wearing camouflage fatigues and white gloves administers a shot to a young woman's upper arm while another uniformed man looks on in the background."
 geo:
 id: 24663
 item_type: Still Image

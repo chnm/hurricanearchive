@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (12).jpg
     thumb: /files/thumbnails/14fb2a5d1235cc14fb2a5d1239a9.jpg
     url: /files/original/14fb2a5d1235cc14fb2a5d1239a9.jpg
+    alt:
+      en: "Flooded roadway and debris-strewn landscape with a large orange barge stranded amid trees, a fallen utility pole, and damaged buildings in the background, reflecting widespread storm destruction."
 geo:
 id: 3247
 item_type: Still Image

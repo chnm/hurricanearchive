@@ -21,6 +21,8 @@ files:
     original_filename: Picture 110cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bae7ae114fb2a0bae7ec6.jpg
     url: /files/original/14fb2a0bae7ae114fb2a0bae7ec6.jpg
+    alt:
+      en: "A sailboat with its mast and rigging intact lies beached and tilted on its side, with \"NEW ORLEANS, LA\" visible on the hull, surrounded by muddy, debris-strewn ground."
 geo:
 id: 20013
 item_type: Still Image

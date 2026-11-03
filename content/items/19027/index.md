@@ -21,6 +21,8 @@ files:
     original_filename: S4300088bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a1395957c14fb2a13959960.jpg
     url: /files/original/14fb2a1395957c14fb2a13959960.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms gather inside an aircraft hangar, with a military jet marked \"JZ\" visible in the background and a boom microphone held overhead for filming."
 geo:
 id: 19027
 item_type: Still Image

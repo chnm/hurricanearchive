@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0192-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a002e77d014fb2a002e7bac.jpg
     url: /files/original/14fb2a002e77d014fb2a002e7bac.jpg
+    alt:
+      en: "Aerial view of a roadway submerged by floodwaters on both sides, with military vehicles and boats parked along the pavement and scattered trees rising from the water."
 geo:
 id: 21181
 item_type: Still Image

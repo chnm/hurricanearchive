@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 064.jpg
     thumb: /files/thumbnails/14fb2a59a235c814fb2a59a239ac.jpg
     url: /files/original/14fb2a59a235c814fb2a59a239ac.jpg
+    alt:
+      en: "Collapsed and debris-strewn buildings lie among bare and partially leafed trees, with scattered wreckage, tangled wires, and litter covering the ground in the foreground."
 geo:
 id: 3784
 item_type: Still Image

@@ -18,6 +18,8 @@ files:
     original_filename: 44_fc76cc4c05.jpg
     thumb: /files/thumbnails/14fb29c6bda2a314fb29c6bda8c7.jpg
     url: /files/original/14fb29c6bda2a314fb29c6bda8c7.jpg
+    alt:
+      en: "Gutted interior of a storm-damaged building with exposed brick, charred walls, a toilet amid debris, a folding chair, coiled garden hose, and a \"Tortilla Chips\" box box on the debris-covered floor."
 geo:
   address: new orleans, la
   lat: 29.95324

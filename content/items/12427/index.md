@@ -21,6 +21,8 @@ files:
     original_filename: 100-10_36f2cb2df4.jpg
     thumb: /files/thumbnails/14fb2a221bc62214fb2a221bc920.jpg
     url: /files/original/14fb2a221bc62214fb2a221bc920.jpg
+    alt:
+      en: "Theodore Bush, Sr., Irene B. Simmons, and Vonda Simmons stand beside a brown car in front of a house, dressed in Easter attire, 1973."
 geo:
 id: 12427
 item_type: Still Image

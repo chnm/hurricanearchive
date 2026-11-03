@@ -26,6 +26,8 @@ files:
     original_filename: Resize_of_Reexposure_of_DSC_0442_8262f22d04.JPG
     thumb: /files/thumbnails/14fb2a6fcb6cd114fb2a6fcb70de.jpg
     url: /files/original/14fb2a6fcb6cd114fb2a6fcb70de.jpg
+    alt:
+      en: "A tattered flag hangs from a tall wooden pole silhouetted against a cloudy sky, with a smaller cross-shaped post visible in the distance as the sun sets behind the clouds."
 geo:
   address: ''
   lat: 30.3989375576187

@@ -21,6 +21,8 @@ files:
     original_filename: S4300221neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecb28a0614fb29ecb28deb.jpg
     url: /files/original/14fb29ecb28a0614fb29ecb28deb.jpg
+    alt:
+      en: "Flooded alley between buildings with a partially submerged car, downed fence and debris, and an aluminum flat-bottom boat with a Yamaha outboard motor in the foreground."
 geo:
 id: 23865
 item_type: Still Image

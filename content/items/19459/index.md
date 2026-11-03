@@ -21,6 +21,8 @@ files:
     original_filename: Picture 019engineers.jpg
     thumb: /files/thumbnails/14fb2a0fe55d2c14fb2a0fe56111.jpg
     url: /files/original/14fb2a0fe55d2c14fb2a0fe56111.jpg
+    alt:
+      en: "A woman in a brown uniform and orange safety vest stands holding a package of diapers beside stacked boxes of diapers and supplies, with a sports stadium and grandstand visible in the background."
 geo:
 id: 19459
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0057-9-25.JPG
     thumb: /files/thumbnails/14fb2a050a4fe514fb2a050a5487.jpg
     url: /files/original/14fb2a050a4fe514fb2a050a5487.jpg
+    alt:
+      en: "Silhouette of a person wearing round sunglasses and a striped shirt, lying back against a pillow near a bright window or aircraft opening, with another figure partially visible behind them."
 geo:
 id: 20687
 item_type: Still Image

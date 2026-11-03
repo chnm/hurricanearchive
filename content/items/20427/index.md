@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a078609ee14fb2a07860dd3.jpg
     url: /files/original/14fb2a078609ee14fb2a07860dd3.jpg
+    alt:
+      en: "Man wearing sunglasses, a camouflage cap, and dark t-shirt sits with a camera, in front of a green vehicle or structure marked with the number \"2,\" a blurred hand visible in the foreground."
 geo:
 id: 20427
 item_type: Still Image

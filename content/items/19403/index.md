@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a1089a5a614fb2a1089a98b.jpg
     url: /files/original/14fb2a1089a5a614fb2a1089a98b.jpg
+    alt:
+      en: "A Komatsu Galeo skid steer loader (model KM050065) operated by a hard-hatted worker clears debris amid piles of storm wreckage, with elevated coastal houses visible in the background."
 geo:
 id: 19403
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: MVC-004S.JPG
     thumb: /files/thumbnails/14fb2a5f9784f014fb2a5f9788d5.jpg
     url: /files/original/14fb2a5f9784f014fb2a5f9788d5.jpg
+    alt:
+      en: "Empty institutional hallway with a concrete floor, white brick walls, and a closed double door beneath an illuminated \"EXIT\" sign; metal framing studs line a wall opening on the left."
 geo:
 id: 2915
 item_type: Still Image

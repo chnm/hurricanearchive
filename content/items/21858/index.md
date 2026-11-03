@@ -21,6 +21,8 @@ files:
     original_filename: EO A0017.TIF
     thumb: /files/thumbnails/14fb29fb5b2b2f14fb29fb5b2f1d.jpg
     url: /files/original/14fb29fb5b2b2f14fb29fb5b2f1d.TIF
+    alt:
+      en: "Black-and-white aerial photograph showing a river or waterway with a road running alongside it, docks or piers along the far bank, and forested and agricultural land parcels beyond."
 geo:
 id: 21858
 item_type: Still Image

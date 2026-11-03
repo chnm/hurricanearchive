@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0027lakecharles.JPG
     thumb: /files/thumbnails/14fb2a153b628214fb2a153b665f.jpg
     url: /files/original/14fb2a153b628214fb2a153b665f.jpg
+    alt:
+      en: "Aerial view of a highway with heavy traffic in one direction, flanked by overpasses, a railroad crossing, and dense forest with a golf course in the background."
 geo:
 id: 18792
 item_type: Still Image

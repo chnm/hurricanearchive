@@ -21,6 +21,8 @@ files:
     original_filename: 35.jpg
     thumb: /files/thumbnails/14fb2a605e4b3514fb2a605e4f1c.jpg
     url: /files/original/14fb2a605e4b3514fb2a605e4f1c.jpg
+    alt:
+      en: "Colored pencil drawing of the Tasmanian Devil (Taz) baring his teeth with a raised fist, signed \"Bronquise\" and dated 9/8/05, with a red scribbled design in the corner."
 geo:
 id: 2738
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0023OEP.JPG
     thumb: /files/thumbnails/14fb29f213cbef14fb29f213d1e0.jpg
     url: /files/original/14fb29f213cbef14fb29f213d1e0.jpg
+    alt:
+      en: "Media trucks with satellite dishes, white canopy tents, and parked vehicles fill an outdoor staging area near a multi-story brick building, suggesting a press or relief operations site."
 geo:
 id: 23013
 item_type: Still Image

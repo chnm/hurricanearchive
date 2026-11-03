@@ -21,6 +21,8 @@ files:
     original_filename: 09140030neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec6757eb14fb29ec675bcf.jpg
     url: /files/original/14fb29ec6757eb14fb29ec675bcf.jpg
+    alt:
+      en: "Military Humvee and truck drive down a debris-strewn street lined with storm-damaged buildings, downed trees, and tangled power lines; a \"Gasco\" sign is visible in the background."
 geo:
 id: 23917
 item_type: Still Image

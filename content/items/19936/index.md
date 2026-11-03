@@ -21,6 +21,8 @@ files:
     original_filename: Picture 032cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0c4e8bb214fb2a0c4e8f94.jpg
     url: /files/original/14fb2a0c4e8bb214fb2a0c4e8f94.jpg
+    alt:
+      en: "Historical marker for \"Faubourg Bouligny\" stands on a grassy median strewn with trash bags, a shopping cart, and debris near a \"St. Charles Ave\" street sign, with a church steeple visible in the background."
 geo:
 id: 19936
 item_type: Still Image

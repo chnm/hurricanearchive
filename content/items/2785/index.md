@@ -24,6 +24,8 @@ files:
     original_filename: Rescu
     thumb: /files/thumbnails/14fb2a60310f8414fb2a60311360.jpg
     url: /files/original/14fb2a60310f8414fb2a60311360.jpg
+    alt:
+      en: "Child's marker drawing of a green camouflage military-style rescue truck with a canvas-covered cargo bed, titled \"Rescu\" and signed \"By Donald, Age 12.\""
 geo:
 id: 2785
 item_type: Still Image

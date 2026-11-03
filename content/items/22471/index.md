@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1312Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f646cf9d14fb29f646d382.jpg
     url: /files/original/14fb29f646cf9d14fb29f646d382.jpg
+    alt:
+      en: "Floodwaters submerge a street, with only rooftops, lamp posts, and power lines visible above the waterline; a small boat carries people navigating through the rough, debris-strewn water under an overcast sky."
 geo:
 id: 22471
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 114536228_985bdcd8fa.jpg
     thumb: /files/thumbnails/14fb29d15d0ebc14fb29d15d1285.jpg
     url: /files/original/14fb29d15d0ebc14fb29d15d1285.jpg
+    alt:
+      en: "A stained interior wall with mold spots, a taped paper reading \"After every miracle there is life\" above a newspaper clipping, with a blue and black jacket hanging to the left."
 geo:
 id: 28718
 item_type: Still Image

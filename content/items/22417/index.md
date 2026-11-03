@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1256Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6962df314fb29f6963184.jpg
     url: /files/original/14fb29f6962df314fb29f6963184.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms sit around a table in an office, one woman on a phone call, with a map labeled \"Louisiana\" on the wall and water bottles and equipment on the table."
 geo:
 id: 22417
 item_type: Still Image

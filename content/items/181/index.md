@@ -26,6 +26,8 @@ files:
     original_filename: katrina15_b6bdf84b37.jpg
     thumb: /files/thumbnails/14fb2a70ab491114fb2a70ab4cf8.jpg
     url: /files/original/14fb2a70ab491114fb2a70ab4cf8.jpg
+    alt:
+      en: "Flooded parking lot in front of a strip mall with storefronts including \"A-1 Appliance,\" cars partially submerged in muddy water, and a person standing in a small boat near the shoreline."
 geo:
   address: ''
   lat: 29.9393909896555

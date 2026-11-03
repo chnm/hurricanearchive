@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0250-9-25.JPG
     thumb: /files/thumbnails/14fb29fee142ca14fb29fee14a47.jpg
     url: /files/original/14fb29fee142ca14fb29fee14a47.jpg
+    alt:
+      en: "Aerial view of a flooded residential area with submerged yards, scattered trees, a partially visible house with a teal-and-white roof, and widespread standing floodwater covering roads and land."
 geo:
 id: 21414
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: 2326892884_c381baf81d.
     thumb: /files/thumbnails/14fb29ca06803614fb29ca06841c.jpg
     url: /files/original/14fb29ca06803614fb29ca06841c.jpg
+    alt:
+      en: "Muddy, flooded road leading to a large light-colored house surrounded by storm-damaged trees, with a car's side mirror visible in the foreground under a clear blue sky."
 geo:
   address: ''
   lat: 30.22586

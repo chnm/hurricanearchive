@@ -24,6 +24,8 @@ files:
     original_filename: P1010148.JPG
     thumb: /files/thumbnails/14fb2a5a12c20014fb2a5a12c5e3.jpg
     url: /files/original/14fb2a5a12c20014fb2a5a12c5e3.jpg
+    alt:
+      en: "Two-story suburban house with beige siding and a covered front porch, surrounded by bare trees and a yard strewn with debris and storm damage."
 geo:
 id: 3703
 item_type: Still Image

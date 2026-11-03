@@ -21,6 +21,8 @@ files:
     original_filename: P1010185empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed4e4b9014fb29ed4e5198.jpg
     url: /files/original/14fb29ed4e4b9014fb29ed4e5198.jpg
+    alt:
+      en: "Two boats stranded on dry land amid storm debris and stripped trees, with a muddy, cracked flat extending into the foreground marked by wooden posts."
 geo:
 id: 23744
 item_type: Still Image

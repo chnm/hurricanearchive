@@ -21,6 +21,8 @@ files:
     original_filename: DSC00959.JPG
     thumb: /files/thumbnails/14fb2a58d09abb14fb2a58d09e90.jpg
     url: /files/original/14fb2a58d09abb14fb2a58d09e90.jpg
+    alt:
+      en: "A dark green helicopter marked \"United States of America\" sits on a grassy strip beside water, with two people standing nearby and a long bridge visible on the horizon."
 geo:
 id: 3940
 item_type: Still Image

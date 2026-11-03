@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (8).JPG
     thumb: /files/thumbnails/14fb2a5dc01bf514fb2a5dc01fdb.jpg
     url: /files/original/14fb2a5dc01bf514fb2a5dc01fdb.jpg
+    alt:
+      en: "Photo taken from inside a vehicle window showing storm-damaged building with torn awning fabric, a sign reading \"Said's on the Lake,\" a utility pole, and debris scattered on the ground."
 geo:
 id: 3141
 item_type: Still Image

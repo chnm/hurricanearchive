@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0017.JPG
     thumb: /files/thumbnails/14fb2a56ea24b414fb2a56ea2899.jpg
     url: /files/original/14fb2a56ea24b414fb2a56ea2899.jpg
+    alt:
+      en: "Storm-damaged residential lot with scattered debris and collapsed structures behind a chain-link fence, stripped trees, and a brick house with a broken window at right."
 geo:
 id: 4591
 item_type: Still Image

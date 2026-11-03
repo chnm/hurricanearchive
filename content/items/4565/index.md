@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0767.JPG
     thumb: /files/thumbnails/14fb2a56fda28614fb2a56fda5fd.jpg
     url: /files/original/14fb2a56fda28614fb2a56fda5fd.jpg
+    alt:
+      en: "Debris-strewn lot with a broken wooden utility pole, scattered flooring tiles, and a white pipe lying in overgrown grass, with damaged trees in the background."
 geo:
 id: 4565
 item_type: Still Image

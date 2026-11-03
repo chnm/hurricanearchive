@@ -26,6 +26,8 @@ files:
     original_filename: PineForestBaptChurchVidor_94654b5976.jpg
     thumb: /files/thumbnails/14fb2a6efe416814fb2a6efe454e.jpg
     url: /files/original/14fb2a6efe416814fb2a6efe454e.jpg
+    alt:
+      en: "A brick church with white columned portico has its front steps and entryway collapsed and tilted forward onto the lawn, with a \"Pine Forest\" sign visible at right."
 geo:
   address: ''
   lat: 30.148461

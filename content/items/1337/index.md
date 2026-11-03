@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28232.jpg
     thumb: /files/thumbnails/14fb2a697438aa14fb2a69743c91.jpg
     url: /files/original/14fb2a697438aa14fb2a69743c91.jpg
+    alt:
+      en: "A hand-lettered board listing \"RADIOS, MICROWAVE, SNACKS, COFFEE\" hangs beside a photo of a tented Wal-Mart building with a traffic cone in front, suspended from a tent ceiling."
 geo:
   address: ''
   lat: 0.0

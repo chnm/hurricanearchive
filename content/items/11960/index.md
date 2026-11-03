@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 007.jpg
     thumb: /files/thumbnails/14fb2a228b040c14fb2a228b07eb.jpg
     url: /files/original/14fb2a228b040c14fb2a228b07eb.jpg
+    alt:
+      en: "A dark blue police patrol car, marked \"Emergency 911 Police Patrol 25,\" sits abandoned with its wheels removed, resting on blocks outside a damaged building with debris scattered nearby."
 geo:
 id: 11960
 item_type: Still Image

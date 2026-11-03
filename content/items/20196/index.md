@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0113.JPG
     thumb: /files/thumbnails/14fb2a0acb22e414fb2a0acb2914.jpg
     url: /files/original/14fb2a0acb22e414fb2a0acb2914.jpg
+    alt:
+      en: "Aerial view of a heavily damaged residential neighborhood with storm-stripped trees and debris-covered rooftops, a helicopter hovering in the hazy sky above, with a body of water visible on the horizon."
 geo:
 id: 20196
 item_type: Still Image

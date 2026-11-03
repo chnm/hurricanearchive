@@ -21,6 +21,8 @@ files:
     original_filename: 100_0141.JPG
     thumb: /files/thumbnails/14fb2a59412f0d14fb2a594132eb.jpg
     url: /files/original/14fb2a59412f0d14fb2a594132eb.jpg
+    alt:
+      en: "Hazy waterfront marina with several docked motorboats and sailboats, a multi-story condominium building with balconies on the left, and a glass office building in the background under an overcast sky."
 geo:
 id: 3849
 item_type: Still Image

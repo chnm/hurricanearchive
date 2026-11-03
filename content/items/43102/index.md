@@ -20,6 +20,8 @@ files:
     original_filename: IMG_a649ebd053.jpg
     thumb: /files/thumbnails/14fb29c24a02bc14fb29c24a3958.jpg
     url: /files/original/14fb29c24a02bc14fb29c24a3958.jpg
+    alt:
+      en: "Black-and-white photo of St. Louis Cemetery in New Orleans, with a statue atop a domed mausoleum rising behind weathered tombs and a wrought-iron fence in the foreground."
 geo:
 id: 43102
 item_type: Still Image

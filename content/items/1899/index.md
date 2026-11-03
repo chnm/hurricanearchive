@@ -26,6 +26,8 @@ files:
     original_filename: 051023__Hurricane_Wilma_015_a21befbe00.jpg
     thumb: /files/thumbnails/14fb2a6e622e5f14fb2a6e623244.jpg
     url: /files/original/14fb2a6e622e5f14fb2a6e623244.jpg
+    alt:
+      en: "Large uprooted tree lies across a residential driveway and street, its exposed root ball beside a sidewalk, with a mailbox numbered \"2460\" and a yellow house visible in the background; a bent palm tree also appears damaged."
 geo:
   address: ''
   lat: 25.463811966833703

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0152-21-2.JPG
     thumb: /files/thumbnails/14fb2a016c97aa14fb2a016c9b8e.jpg
     url: /files/original/14fb2a016c97aa14fb2a016c9b8e.jpg
+    alt:
+      en: "A seated service member in camouflage reads a newspaper open to Hurricane Katrina coverage, with headlines on relief debit card confusion and Bush's Gulf Coast visit, while others sit nearby in a hall."
 geo:
 id: 20936
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 25.jpg
     thumb: /files/thumbnails/14fb29f093da8814fb29f093e17e.jpg
     url: /files/original/14fb29f093da8814fb29f093e17e.jpg
+    alt:
+      en: "Satellite radar image of a large hurricane over the Gulf of Mexico, with a defined eye and spiraling orange, yellow, and purple bands, timestamped 29 Aug 2005 00:22 GMT / 28 Aug 2005 08:22 PM EDT, credited to The Weather Channel."
 geo:
 id: 23233
 item_type: Still Image

@@ -23,6 +23,8 @@ files:
     original_filename: 2298630214_7918e798b4.
     thumb: /files/thumbnails/14fb29c7c7965114fb29c7c79a37.jpg
     url: /files/original/14fb29c7c7965114fb29c7c79a37.jpg
+    alt:
+      en: "A young woman with short dark hair, earrings, and tattooed arms gestures while smiling, standing before a large chain-link fence crowded with bicycles stacked in front of a light-colored building."
 geo:
 id: 35003
 item_type: Still Image

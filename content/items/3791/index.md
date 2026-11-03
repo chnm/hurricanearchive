@@ -21,6 +21,8 @@ files:
     original_filename: USS Alabama 3.jpg
     thumb: /files/thumbnails/14fb2a5996cea114fb2a5996ed58.jpg
     url: /files/original/14fb2a5996cea114fb2a5996ed58.jpg
+    alt:
+      en: "Battleship USS Alabama, marked with \"60\" on its hull, displays multiple large gun turrets along its deck; a tall crane and several tanks are visible nearby on the grass."
 geo:
 id: 3791
 item_type: Still Image

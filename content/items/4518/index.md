@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0730.JPG
     thumb: /files/thumbnails/14fb2a5715385714fb2a57153c3c.jpg
     url: /files/original/14fb2a5715385714fb2a57153c3c.jpg
+    alt:
+      en: "Small white wooden shed with a peaked, shingled roof housing a green cylindrical tank and a red pump mechanism, set on a wooden platform amid grass and debris."
 geo:
 id: 4518
 item_type: Still Image

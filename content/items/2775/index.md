@@ -27,6 +27,8 @@ files:
     original_filename: People Laying Flat By Superdome
     thumb: /files/thumbnails/14fb2a603e9f3c14fb2a603ea328.jpg
     url: /files/original/14fb2a603e9f3c14fb2a603ea328.jpg
+    alt:
+      en: "Child's drawing of three rain clouds with falling raindrops above rows of colorful stick-figure people standing beside a large rounded building labeled with the number 13 and the name \"Michelle.\""
 geo:
 id: 2775
 item_type: Still Image

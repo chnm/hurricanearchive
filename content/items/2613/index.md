@@ -24,6 +24,8 @@ files:
     original_filename: 20060101_MG_9571.jpg
     thumb: /files/thumbnails/14fb2a642cf5f714fb2a642cf9db.jpg
     url: /files/original/14fb2a642cf5f714fb2a642cf9db.jpg
+    alt:
+      en: "Collapsed, roofless house with displaced siding spray-painted \"EDNA ROBIN,\" surrounded by debris and bare trees under a clear blue sky."
 geo:
 id: 2613
 item_type: Still Image

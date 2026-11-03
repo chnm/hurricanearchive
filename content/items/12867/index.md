@@ -21,6 +21,8 @@ files:
     original_filename: Yacht club 10-27-4.JPG
     thumb: /files/thumbnails/14fb2a215e678114fb2a215e6b64.jpg
     url: /files/original/14fb2a215e678114fb2a215e6b64.jpg
+    alt:
+      en: "A chaotic pile of wrecked sailboats and motorboats with broken masts, stacked and overturned on a debris-strewn lot under a clear blue sky."
 geo:
 id: 12867
 item_type: Still Image

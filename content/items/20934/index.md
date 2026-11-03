@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0151-9-25.JPG
     thumb: /files/thumbnails/14fb2a0170cbe014fb2a0170cfc3.jpg
     url: /files/original/14fb2a0170cbe014fb2a0170cfc3.jpg
+    alt:
+      en: "Aerial view of extensive flooding across flat marshland, with scattered debris, uprooted trees, submerged structures, and a partially flooded dirt road cutting through the water."
 geo:
 id: 20934
 item_type: Still Image

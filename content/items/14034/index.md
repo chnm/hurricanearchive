@@ -21,6 +21,8 @@ files:
     original_filename: 20050927030.JPG
     thumb: /files/thumbnails/14fb2a1c4c880514fb2a1c4c8d6d.jpg
     url: /files/original/14fb2a1c4c880514fb2a1c4c8d6d.jpg
+    alt:
+      en: "Three men in military camouflage uniforms stand talking in a parking lot, with a military dump truck and a tan commercial building visible in the background."
 geo:
   address: ''
   lat: 0.0

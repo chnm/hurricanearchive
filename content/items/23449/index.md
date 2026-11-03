@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0110abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef63246714fb29ef63284d.jpg
     url: /files/original/14fb29ef63246714fb29ef63284d.jpg
+    alt:
+      en: "A mud-covered road lined with floodwater and debris, with trucks and onlookers gathered near a flatbed trailer, power lines, and submerged fields in the background."
 geo:
 id: 23449
 item_type: Still Image

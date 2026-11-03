@@ -21,6 +21,8 @@ files:
     original_filename: FH000025-9-23.jpg
     thumb: /files/thumbnails/14fb29fc6385e314fb29fc6389a3.jpg
     url: /files/original/14fb29fc6385e314fb29fc6389a3.jpg
+    alt:
+      en: "An empty, debris-strewn lot between two houses, with a concrete foundation slab, scattered rubble, dead vegetation, and a parked car visible to the right."
 geo:
 id: 21693
 item_type: Still Image

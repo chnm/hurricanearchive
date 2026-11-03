@@ -21,6 +21,8 @@ files:
     original_filename: Pat Simon and Matt Clough of WAFBmedia.JPG
     thumb: /files/thumbnails/14fb29f25e02d414fb29f25e06ba.jpg
     url: /files/original/14fb29f25e02d414fb29f25e06ba.jpg
+    alt:
+      en: "Two men in military-style uniforms smile for the camera inside an aircraft cabin, with a forested landscape visible through the window; a timestamp reads \"09.19.2005 13:11.\""
 geo:
 id: 22972
 item_type: Still Image

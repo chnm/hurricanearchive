@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0042-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a05ae19f114fb2a05ae37fb.jpg
     url: /files/original/14fb2a05ae19f114fb2a05ae37fb.jpg
+    alt:
+      en: "Aerial view of a flooded rural community with a mobile home surrounded by standing water, scattered storm debris, a stranded truck, submerged cars, and cattle grazing in flooded fields nearby."
 geo:
 id: 20607
 item_type: Still Image

@@ -18,6 +18,8 @@ files:
     original_filename: 50_24a477a25c.jpg
     thumb: /files/thumbnails/14fb29c69b858c14fb29c69bcca7.jpg
     url: /files/original/14fb29c69b858c14fb29c69bcca7.jpg
+    alt:
+      en: "Abandoned two-story stucco building with broken windows, overgrown with weeds and brush, bearing a faded \"Nora's Restaurant\" sign and graffiti reading \"Lil-T\"; a red boat hull sits in the foreground."
 geo:
   address: new orleans, la
   lat: 29.95324

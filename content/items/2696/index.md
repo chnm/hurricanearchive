@@ -21,6 +21,8 @@ files:
     original_filename: 12.jpg
     thumb: /files/thumbnails/14fb2a607f33e914fb2a60802807.jpg
     url: /files/original/14fb2a607f33e914fb2a60802807.jpg
+    alt:
+      en: "Child's crayon drawing of a sailboat with a red triangular sail on blue water under a red sun, with scattered red and blue dots in the sky; text reads \"Shandrelia, 10 years old.\""
 geo:
 id: 2696
 item_type: Still Image

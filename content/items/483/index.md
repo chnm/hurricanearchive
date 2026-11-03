@@ -26,6 +26,8 @@ files:
     original_filename: _MG_2166_98de364bdb.jpg
     thumb: /files/thumbnails/14fb2a6fbea20314fb2a6fbea5e6.jpg
     url: /files/original/14fb2a6fbea20314fb2a6fbea5e6.jpg
+    alt:
+      en: "Black-and-white photo of two pirogues on a driveway beside a flooded street in Chauvin, Louisiana, with houses, power lines, and trees reflected in the standing water."
 geo:
   address: ''
   lat: 29.6785080910336

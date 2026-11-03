@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BZD_61c7da9914.jpg
     thumb: /files/thumbnails/14fb2a66b39dbf14fb2a66b3a1a4.jpg
     url: /files/original/14fb2a66b39dbf14fb2a66b3a1a4.jpg
+    alt:
+      en: "Aerial view of people sitting on rooftops amid floodwaters, including a Coast Guard rescue swimmer in a red suit communicating by radio, with trash bags and debris nearby on the shingles."
 geo:
 id: 2403
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1934superdome.JPG
     thumb: /files/thumbnails/14fb29e08e699d14fb29e08e7310.jpg
     url: /files/original/14fb29e08e699d14fb29e08e7310.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms carrying packs walk across a concrete lot near a parking structure, with a banner reading \"Check Out Who's Rolling With the Wave This Year\" visible in the background."
 geo:
 id: 25236
 item_type: Still Image

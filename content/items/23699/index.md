@@ -21,6 +21,8 @@ files:
     original_filename: P1010140empireS&R.JPG
     thumb: /files/thumbnails/14fb29edc4322a14fb29edc4360d.jpg
     url: /files/original/14fb29edc4322a14fb29edc4360d.jpg
+    alt:
+      en: "A uniformed man in a cap drives a military vehicle marked \"RECON 3,\" looking out at flooded streets with submerged cars and debris-strewn trees."
 geo:
 id: 23699
 item_type: Still Image

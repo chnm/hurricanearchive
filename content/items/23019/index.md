@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029OEP.JPG
     thumb: /files/thumbnails/14fb29f20b63d314fb29f20b67b8.jpg
     url: /files/original/14fb29f20b63d314fb29f20b67b8.jpg
+    alt:
+      en: "Parking lot filled with cars, trucks, a satellite dish, and RVs, with a white tent nearby and a tree-lined hill in the background under a hazy sky."
 geo:
 id: 23019
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28442.jpg
     thumb: /files/thumbnails/14fb2a680b260b14fb2a680b29f2.jpg
     url: /files/original/14fb2a680b260b14fb2a680b29f2.jpg
+    alt:
+      en: "Rear of a white camper trailer with a handwritten \"For Hire: Carpenter, Chain Saw, Heavy Equip\" sign, rust streaks, and various stickers, parked on a road."
 geo:
   address: ''
   lat: 0.0

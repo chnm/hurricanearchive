@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0191.JPG
     thumb: /files/thumbnails/14fb2a0033406714fb2a0033444d.jpg
     url: /files/original/14fb2a0033406714fb2a0033444d.jpg
+    alt:
+      en: "Aerial view through a hazy window of a flood-damaged neighborhood, with one intact house standing amid scattered debris, collapsed roofs, and standing water, surrounded by trees and a distant water tower."
 geo:
 id: 21177
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: _MG_6483_4fae9cbc67.jpg
     thumb: /files/thumbnails/14fb29d342445114fb29d3424837.jpg
     url: /files/original/14fb29d342445114fb29d3424837.jpg
+    alt:
+      en: "Two-story gray house with white-trimmed windows, black shutters, and an arched entryway, partially obscured by trees; a timestamp reads \"10 21 '98\" in the corner."
 geo:
   address: ''
   lat: 29.84064

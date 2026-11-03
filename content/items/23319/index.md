@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29eff9270614fb29eff92aec.jpg
     url: /files/original/14fb29eff9270614fb29eff92aec.jpg
+    alt:
+      en: "Aerial view of a flattened coastal town after a hurricane, with debris-strewn streets, scattered damaged structures, bare trees, a water tower, and floodwaters surrounding the area near a wide river."
 geo:
 id: 23319
 item_type: Still Image

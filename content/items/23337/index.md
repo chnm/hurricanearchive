@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29efe51cfb14fb29efe520d6.jpg
     url: /files/original/14fb29efe51cfb14fb29efe520d6.jpg
+    alt:
+      en: "A U.S. Army Black Hawk helicopter marked with a red cross and \"733\" sits parked on a concrete pad, with a Quonset-style hangar and trees in the background."
 geo:
 id: 23337
 item_type: Still Image

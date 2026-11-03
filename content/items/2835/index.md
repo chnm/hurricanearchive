@@ -21,6 +21,8 @@ files:
     original_filename: MVC-026S.JPG
     thumb: /files/thumbnails/14fb2a5fe7bb0014fb2a5fe7c447.jpg
     url: /files/original/14fb2a5fe7bb0014fb2a5fe7c447.jpg
+    alt:
+      en: "A red target drone aircraft marked \"NAVY KDB-1\" hangs suspended from the ceiling of a hangar with exposed steel trusses and beams."
 geo:
 id: 2835
 item_type: Still Image

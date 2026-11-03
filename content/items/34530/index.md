@@ -27,6 +27,8 @@ files:
     original_filename: 2277255507_ad212b56e4.
     thumb: /files/thumbnails/14fb29c985a83614fb29c985aed4.jpg
     url: /files/original/14fb29c985a83614fb29c985aed4.jpg
+    alt:
+      en: "Storm-damaged home office debris including broken furniture, a monitor, file cabinets, and scattered papers, with wooden pilings and water visible in the background."
 geo:
   address: ''
   lat: 30.22539

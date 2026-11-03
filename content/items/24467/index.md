@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0099H.JPG
     thumb: /files/thumbnails/14fb29e7831a2514fb29e7831e0d.jpg
     url: /files/original/14fb29e7831a2514fb29e7831e0d.jpg
+    alt:
+      en: "A man in camouflage military uniform smiles while standing beside a smiling young woman wearing a white tank top with a name tag reading \"Tianna,\" another person visible in the foreground."
 geo:
 id: 24467
 item_type: Still Image

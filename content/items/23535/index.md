@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0167abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef14f9cc14fb29ef14fdb8.jpg
     url: /files/original/14fb29ef14f9cc14fb29ef14fdb8.jpg
+    alt:
+      en: "Storm debris, broken tree limbs, and scattered concrete slabs cover an open lot, with a damaged white house and bare, storm-stripped trees in the background under a clear sky."
 geo:
 id: 23535
 item_type: Still Image

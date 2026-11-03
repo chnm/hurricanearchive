@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1823superdome.JPG
     thumb: /files/thumbnails/14fb29e11a789414fb29e11a8726.jpg
     url: /files/original/14fb29e11a789414fb29e11a8726.jpg
+    alt:
+      en: "Military Black Hawk helicopter marked with a red cross and \"332,\" on a rooftop helipad as personnel move a patient on a stretcher; another medevac helicopter, \"2431,\" sits nearby."
 geo:
 id: 25197
 item_type: Still Image

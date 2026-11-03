@@ -21,6 +21,8 @@ files:
     original_filename: P1010166empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed6f26dd14fb29ed6f2ac1.jpg
     url: /files/original/14fb29ed6f26dd14fb29ed6f2ac1.jpg
+    alt:
+      en: "A small house sits knocked off its foundation and tilted beside a floodwater-filled ditch, with downed power lines and debris-strewn trees along the roadside."
 geo:
 id: 23725
 item_type: Still Image

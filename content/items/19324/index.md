@@ -21,6 +21,8 @@ files:
     original_filename: J2 (41).JPG
     thumb: /files/thumbnails/14fb2a1127f1d114fb2a1127f5b7.jpg
     url: /files/original/14fb2a1127f1d114fb2a1127f5b7.jpg
+    alt:
+      en: "Aerial view of elevated highway overpasses crossing floodwaters, with a submerged parking lot, flooded streets, and partially inundated buildings visible below."
 geo:
 id: 19324
 item_type: Still Image

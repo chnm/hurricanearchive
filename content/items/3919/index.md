@@ -21,6 +21,8 @@ files:
     original_filename: 100_0216.JPG
     thumb: /files/thumbnails/14fb2a58e3b62614fb2a58e3bdf2.jpg
     url: /files/original/14fb2a58e3b62614fb2a58e3bdf2.jpg
+    alt:
+      en: "A wooden-hulled boat named \"Patrician\" from New Orleans sits stranded on a pile of storm debris and broken lumber, with a palm tree and damaged buildings visible in the background."
 geo:
 id: 3919
 item_type: Still Image

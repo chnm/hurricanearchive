@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a05f0fe0514fb2a05f101e9.jpg
     url: /files/original/14fb2a05f0fe0514fb2a05f101e9.jpg
+    alt:
+      en: "Aerial view of murky green-brown floodwater with a partially submerged utility pole and power lines, a small patch of vegetation visible in the bottom right corner."
 geo:
 id: 20578
 item_type: Still Image

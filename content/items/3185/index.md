@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (36).JPG
     thumb: /files/thumbnails/14fb2a5d6adef814fb2a5d6ae733.jpg
     url: /files/original/14fb2a5d6adef814fb2a5d6ae733.jpg
+    alt:
+      en: "A debris-strewn lot with an overturned blue boat and scattered rubble in front of a storm-damaged strip mall with a partially legible \"Daiquiri\" sign."
 geo:
 id: 3185
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 1588neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29eb47514614fb29eb475827.jpg
     url: /files/original/14fb29eb47514614fb29eb475827.jpg
+    alt:
+      en: "High-rise Hyatt hotel with storm-damaged curtain-wall façade, many windows shattered and curtains/fabric blowing out of the broken openings, with the rooftop \"HYATT\" sign visible against an overcast sky."
 geo:
 id: 24043
 item_type: Still Image

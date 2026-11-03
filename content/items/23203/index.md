@@ -21,6 +21,8 @@ files:
     original_filename: P1010023delaware.JPG
     thumb: /files/thumbnails/14fb29f0ce52c914fb29f0ce56ac.jpg
     url: /files/original/14fb29f0ce52c914fb29f0ce56ac.jpg
+    alt:
+      en: "Two service members in camouflage uniforms work inside the cargo area of a military aircraft, with visible wiring, a red warning light, and mechanical equipment including what appears to be loading rails overhead."
 geo:
 id: 23203
 item_type: Still Image

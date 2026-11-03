@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0960superdome.JPG
     thumb: /files/thumbnails/14fb29e412888214fb29e4128c68.jpg
     url: /files/original/14fb29e412888214fb29e4128c68.jpg
+    alt:
+      en: "Military personnel in camouflage uniforms form two lines in a loading dock, passing folded cot frames hand-to-hand from a canvas-covered truck parked at the entrance."
 geo:
 id: 24885
 item_type: Still Image

@@ -28,6 +28,8 @@ files:
     original_filename: 158724171_f63b9458e2.jpg
     thumb: /files/thumbnails/14fb29d1f3d10014fb29d1f3d4f2.jpg
     url: /files/original/14fb29d1f3d10014fb29d1f3d4f2.jpg
+    alt:
+      en: "A hand holds a can labeled \"Filtered Drinking Water, 12 FL OZ (355 mL)\" in front of piles of empty aluminum cans scattered on cardboard flats on the ground."
 geo:
 id: 28643
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: MS2.jpg
     thumb: /files/thumbnails/14fb2a5bc4851314fb2a5bc488fb.jpg
     url: /files/original/14fb2a5bc4851314fb2a5bc488fb.jpg
+    alt:
+      en: "A man stands beside a tan pickup truck next to a \"Season's Greetings\" sign, with bare, storm-damaged trees and debris visible in the background."
 geo:
 id: 3433
 item_type: Still Image

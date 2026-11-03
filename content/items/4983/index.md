@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0328.JPG
     thumb: /files/thumbnails/14fb2a54a3dc8214fb2a54a3e067.jpg
     url: /files/original/14fb2a54a3dc8214fb2a54a3e067.jpg
+    alt:
+      en: "A storm-damaged house with white vinyl siding and a dark shingled roof, its porch structure collapsed into broken wooden beams and supports around cinder block columns."
 geo:
 id: 4983
 item_type: Still Image

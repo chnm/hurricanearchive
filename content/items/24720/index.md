@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-22-21Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e55d141014fb29e55d17fe.jpg
     url: /files/original/14fb29e55d141014fb29e55d17fe.jpg
+    alt:
+      en: "Deeply flooded city street at dusk with partially submerged cars, trees, and street signs reading \"ONE WAY,\" skyscrapers in background, and a \"SUPERDOME Parking Office\" sign at right."
 geo:
 id: 24720
 item_type: Still Image

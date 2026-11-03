@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0011cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ead8e84414fb29ead8f229.jpg
     url: /files/original/14fb29ead8e84414fb29ead8f229.jpg
+    alt:
+      en: "Aerial view of a storm-damaged industrial site with a collapsed metal building, scattered debris, storage tanks, and muddy flooded ground, with a sign reading \"SEAFOOD\" visible amid the wreckage."
 geo:
 id: 24101
 item_type: Still Image

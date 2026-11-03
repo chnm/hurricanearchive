@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27985.jpg
     thumb: /files/thumbnails/14fb2a6978764214fb2a69787a28.jpg
     url: /files/original/14fb2a6978764214fb2a69787a28.jpg
+    alt:
+      en: "A bent and fallen directional road sign reading \"ONLY\" with turn arrows lies knocked over in dry grass along a roadside, with a white van driving by in the background."
 geo:
   address: ''
   lat: 0.0

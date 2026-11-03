@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0727.JPG
     thumb: /files/thumbnails/14fb2a57174f5514fb2a5717533b.jpg
     url: /files/original/14fb2a57174f5514fb2a5717533b.jpg
+    alt:
+      en: "Underside view of a wood-framed floor or ceiling structure, showing joists, beams, and metal joist hangers, with electrical wiring running alongside the framing."
 geo:
 id: 4515
 item_type: Still Image

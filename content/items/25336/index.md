@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2063superdome.JPG
     thumb: /files/thumbnails/14fb29defa1a9414fb29defa1e79.jpg
     url: /files/original/14fb29defa1a9414fb29defa1e79.jpg
+    alt:
+      en: "Two people crouch on pavement, one in a green sleeveless shirt and the other in a navy shirt and camouflage pants, with others partially visible nearby on a street."
 geo:
 id: 25336
 item_type: Still Image

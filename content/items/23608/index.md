@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1620neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee88fe3914fb29ee8901c3.jpg
     url: /files/original/14fb29ee88fe3914fb29ee8901c3.jpg
+    alt:
+      en: "A military Humvee drives through deep floodwater past a submerged parking lot of cars visible only by their roofs, with a person leaning out the Humvee's window."
 geo:
 id: 23608
 item_type: Still Image

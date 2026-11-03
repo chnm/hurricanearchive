@@ -21,6 +21,8 @@ files:
     original_filename: wind.jpg
     thumb: /files/thumbnails/14fb2a2003d86b14fb2a20046499.jpg
     url: /files/original/14fb2a2003d86b14fb2a20046499.jpg
+    alt:
+      en: "Heavy rain and wind sweep across a brick plaza with potted plants, a decorative metal arbor, and trees bending in the storm, with a building visible in the hazy background."
 geo:
 id: 13145
 item_type: Still Image

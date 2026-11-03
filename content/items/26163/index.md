@@ -21,6 +21,8 @@ files:
     original_filename: foodtaste_2f7cac998f.jpg
     thumb: /files/thumbnails/14fb29d9f0705314fb29d9f07437.jpg
     url: /files/original/14fb29d9f0705314fb29d9f07437.jpg
+    alt:
+      en: "A crowd gathers around a table of food at an outdoor event, with people smiling and reaching toward the spread while a man in a cap serves from the far end."
 geo:
 id: 26163
 item_type: Still Image

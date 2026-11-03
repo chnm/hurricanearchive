@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-21-20AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f95ca2a914fb29f95ca690.jpg
     url: /files/original/14fb29f95ca2a914fb29f95ca690.jpg
+    alt:
+      en: "Open exit door of a tiled building reveals extensive floodwater outside, submerging vehicles and debris up to window level, with downed trees and power lines visible in the distance."
 geo:
 id: 22141
 item_type: Still Image

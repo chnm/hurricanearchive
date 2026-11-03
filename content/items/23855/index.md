@@ -21,6 +21,8 @@ files:
     original_filename: S4300194stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29eccadd9314fb29eccae179.jpg
     url: /files/original/14fb29eccadd9314fb29eccae179.jpg
+    alt:
+      en: "A car stands nearly vertical against the side of a house, wedged between the roofline and siding, amid storm debris, scattered bricks, and charred rubble in the yard."
 geo:
 id: 23855
 item_type: Still Image

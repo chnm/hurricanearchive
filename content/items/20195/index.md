@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0111.JPG
     thumb: /files/thumbnails/14fb2a0acc35fc14fb2a0acc39e0.jpg
     url: /files/original/14fb2a0acc35fc14fb2a0acc39e0.jpg
+    alt:
+      en: "Severely damaged houses with collapsed roofs and scattered debris stand behind a flooded, muddy lot with submerged cars; a uniformed person walks along a rusted metal barrier in the foreground."
 geo:
 id: 20195
 item_type: Still Image

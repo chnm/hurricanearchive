@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010.JPG
     thumb: /files/thumbnails/14fb2a07fee6a814fb2a07feea8d.jpg
     url: /files/original/14fb2a07fee6a814fb2a07feea8d.jpg
+    alt:
+      en: "Two men sit at a table in an office setting, one in military camouflage uniform and the other wearing a red \"México\" shirt and white cap, working with a laptop, papers, and pens."
 geo:
 id: 20401
 item_type: Still Image

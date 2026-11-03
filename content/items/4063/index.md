@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0015.JPG
     thumb: /files/thumbnails/14fb2a582b1ead14fb2a582b228a.jpg
     url: /files/original/14fb2a582b1ead14fb2a582b228a.jpg
+    alt:
+      en: "Waterfront view of a severely collapsed house with its roof caved inward onto splintered supports, standing between an intact gabled home and a partially damaged structure, palm trees lining the shore."
 geo:
 id: 4063
 item_type: Still Image

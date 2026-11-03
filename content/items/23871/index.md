@@ -21,6 +21,8 @@ files:
     original_filename: S4300228neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29eca97bc314fb29eca97fac.jpg
     url: /files/original/14fb29eca97bc314fb29eca97fac.jpg
+    alt:
+      en: "Flooded street lined with trees and buildings, a bent \"SCHOOL SPEED LIMIT 20\" sign and fallen street signs reading \"St. Claude Ave\" in the foreground, debris floating in the water."
 geo:
 id: 23871
 item_type: Still Image

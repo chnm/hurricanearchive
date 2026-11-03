@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-19-18AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f95e2d1f14fb29f95e318b.jpg
     url: /files/original/14fb29f95e2d1f14fb29f95e318b.jpg
+    alt:
+      en: "Heavily grained, textured surface in dark green with an irregular light gray-white patch of mottled discoloration near the top center, resembling a stain or damage mark."
 geo:
 id: 22139
 item_type: Still Image

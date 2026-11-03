@@ -21,6 +21,8 @@ files:
     original_filename: Chalmettebasketballteam_8c30b2f9eb.jpg
     thumb: /files/thumbnails/14fb29d78f398014fb29d78f3d80.jpg
     url: /files/original/14fb29d78f398014fb29d78f3d80.jpg
+    alt:
+      en: "Yearbook page with two photos of Chalmette basketball players in uniforms (numbers 20 and 12) on the court, and a photo of spectators and coaches seated courtside."
 geo:
 id: 26828
 item_type: Still Image

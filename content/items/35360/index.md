@@ -21,6 +21,8 @@ files:
     original_filename: 2_5cdc1fa05e.jpg
     thumb: /files/thumbnails/14fb29c5fe6f0e14fb29c5fe7112.jpg
     url: /files/original/14fb29c5fe6f0e14fb29c5fe7112.jpg
+    alt:
+      en: "Menu page from Dempsey's listing appetizers, bottled and draft beers, soft drinks, dining policies, and operating hours, printed in dark text on a mottled cream-colored background."
 geo:
   address: 738 poland ave, new orleans, la
   lat: 29.96118

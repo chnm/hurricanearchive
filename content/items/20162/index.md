@@ -21,6 +21,8 @@ files:
     original_filename: CSA-2005-09-13-083957.jpg
     thumb: /files/thumbnails/14fb2a0afd908114fb2a0afd9748.jpg
     url: /files/original/14fb2a0afd908114fb2a0afd9748.jpg
+    alt:
+      en: "A group of military personnel in camouflage and maroon berets paddle a black inflatable boat marked \"15\" across floodwaters, with a man in civilian clothes seated among them."
 geo:
 id: 20162
 item_type: Still Image

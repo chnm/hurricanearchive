@@ -21,6 +21,8 @@ files:
     original_filename: COL Pretcher giving shot.JPG
     thumb: /files/thumbnails/14fb2a1bcb62f714fb2a1bcb66dc.jpg
     url: /files/original/14fb2a1bcb62f714fb2a1bcb66dc.jpg
+    alt:
+      en: "A uniformed servicewoman administers an injection into the upper arm of a man wearing an \"Army National Guard\" T-shirt, with two onlookers visible in the background."
 geo:
   address: ''
   lat: 0.0

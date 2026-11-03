@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7681.JPG
     thumb: /files/thumbnails/14fb29cc8162ba14fb29cc816695.jpg
     url: /files/original/14fb29cc8162ba14fb29cc816695.jpg
+    alt:
+      en: "Wooden deck railing in the foreground overlooks a yard with a small wooden shed, a white pickup truck, and a man standing nearby, surrounded by tall trees and shrubs."
 geo:
 id: 30780
 item_type: Still Image

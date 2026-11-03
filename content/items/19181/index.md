@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 091.jpg
     thumb: /files/thumbnails/14fb2a1222db8214fb2a1222df50.jpg
     url: /files/original/14fb2a1222db8214fb2a1222df50.jpg
+    alt:
+      en: "Three U.S. Army soldiers in camouflage uniforms stand around a military Humvee, conversing on a residential street lined with colorful houses, one with boarded-up windows, under a large tree."
 geo:
 id: 19181
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0109-15.JPG
     thumb: /files/thumbnails/14fb29e72d8ebe14fb29e72d968c.jpg
     url: /files/original/14fb29e72d8ebe14fb29e72d968c.jpg
+    alt:
+      en: "Aerial view of a flood-damaged residential neighborhood, with many homes collapsed or torn apart, debris scattered across yards and streets, and scattered green trees among the wreckage."
 geo:
 id: 24517
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_Alexia Wilson pics02_b084b116c8.jpg
     thumb: /files/thumbnails/14fb2a187a8ee614fb2a187a940f.jpg
     url: /files/original/14fb2a187a8ee614fb2a187a940f.jpg
+    alt:
+      en: "A baby in a white sweater sits on Santa Claus's lap in front of a decorated Christmas tree and curtained window."
 geo:
 id: 14666
 item_type: Still Image

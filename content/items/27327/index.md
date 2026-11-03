@@ -23,6 +23,8 @@ files:
     original_filename: 336693818_2b69977bee.jpg
     thumb: /files/thumbnails/14fb29d4d614c514fb29d4d61c32.jpg
     url: /files/original/14fb29d4d614c514fb29d4d61c32.jpg
+    alt:
+      en: "Two grimy, water-stained washer and dryer units with control knobs, draped with soiled towels and dark clothing, set against a dirty wall with a hanging rod above."
 geo:
 id: 27327
 item_type: Still Image

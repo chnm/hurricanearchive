@@ -21,6 +21,8 @@ files:
     original_filename: Picture 007engineers.jpg
     thumb: /files/thumbnails/14fb2a0ff3127c14fb2a0ff3168d.jpg
     url: /files/original/14fb2a0ff3127c14fb2a0ff3168d.jpg
+    alt:
+      en: "A soldier in camouflage uniform and orange chainsaw safety chaps uses a chainsaw to clear fallen tree branches, with two other uniformed men observing nearby amid storm debris."
 geo:
 id: 19447
 item_type: Still Image

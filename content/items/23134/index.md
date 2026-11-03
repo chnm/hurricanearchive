@@ -21,6 +21,8 @@ files:
     original_filename: 09110011delaware.JPG
     thumb: /files/thumbnails/14fb29f16d374114fb29f16d3b27.jpg
     url: /files/original/14fb29f16d374114fb29f16d3b27.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms sit inside a military aircraft, opening MRE food packages, surrounded by red cargo netting, straps, and a water bottle in the foreground."
 geo:
 id: 23134
 item_type: Still Image

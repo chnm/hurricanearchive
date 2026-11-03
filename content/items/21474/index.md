@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0271-2-9-15.JPG
     thumb: /files/thumbnails/14fb29fe67100214fb29fe6713e7.jpg
     url: /files/original/14fb29fe67100214fb29fe6713e7.jpg
+    alt:
+      en: "Aerial view of a dense urban neighborhood with closely packed rooftops of varying colors and materials, trees between buildings, and a street running diagonally through the frame."
 geo:
 id: 21474
 item_type: Still Image

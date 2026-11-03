@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0526.JPG
     thumb: /files/thumbnails/14fb2a53a586c114fb2a53a58c53.jpg
     url: /files/original/14fb2a53a586c114fb2a53a58c53.jpg
+    alt:
+      en: "Concrete slab foundation with scattered wooden stumps where a structure once stood, set in a grassy field with bare trees and a body of water in the background."
 geo:
 id: 5164
 item_type: Still Image

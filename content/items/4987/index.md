@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0332.JPG
     thumb: /files/thumbnails/14fb2a549a709314fb2a549a74a8.jpg
     url: /files/original/14fb2a549a709314fb2a549a74a8.jpg
+    alt:
+      en: "Close-up of storm-damaged house exterior showing a bent white vinyl awning over a window, broken glass, gray shutters, and exposed wood framing above."
 geo:
 id: 4987
 item_type: Still Image

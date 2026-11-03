@@ -20,6 +20,8 @@ files:
     original_filename: 2434802468_8fd3fd1adc.
     thumb: /files/thumbnails/14fb29c9689ebd14fb29c968b5cf.jpg
     url: /files/original/14fb29c9689ebd14fb29c968b5cf.jpg
+    alt:
+      en: "Storm-damaged houses with collapsed roofs and exposed framing surrounded by scattered debris, broken lumber, and cinder blocks, with tall bare trees and overcast sky in the background."
 geo:
 id: 34706
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0546.JPG
     thumb: /files/thumbnails/14fb29d098cd7d14fb29d098d163.jpg
     url: /files/original/14fb29d098cd7d14fb29d098d163.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with numerous houses, many covered by blue tarps on their roofs, interspersed with trees, roads, and scattered vehicles."
 geo:
 id: 29025
 item_type: Still Image

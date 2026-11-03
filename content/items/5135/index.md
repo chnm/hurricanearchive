@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0497.JPG
     thumb: /files/thumbnails/14fb2a53cbee5114fb2a53cbf22f.jpg
     url: /files/original/14fb2a53cbee5114fb2a53cbf22f.jpg
+    alt:
+      en: "A yellow tape measure extends vertically down a wooden beam marked with pencil lines and nail holes, with blue sky and a tree visible in the background."
 geo:
 id: 5135
 item_type: Still Image

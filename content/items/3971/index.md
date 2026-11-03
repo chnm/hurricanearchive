@@ -21,6 +21,8 @@ files:
     original_filename: DSC01054.JPG
     thumb: /files/thumbnails/14fb2a58ae701c14fb2a58ae7403.jpg
     url: /files/original/14fb2a58ae701c14fb2a58ae7403.jpg
+    alt:
+      en: "A \"Weekender\" travel trailer and parked vehicles sit beside a debris pile behind a chain-link fence, with a CAT excavator, a white canopy tent, uniformed personnel, and high-rise buildings in the background."
 geo:
 id: 3971
 item_type: Still Image

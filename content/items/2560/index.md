@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8914.jpg
     thumb: /files/thumbnails/14fb2a6552064f14fb2a65520a96.jpg
     url: /files/original/14fb2a6552064f14fb2a65520a96.jpg
+    alt:
+      en: "A worker in protective coveralls, respirator, hard hat, and safety vest rakes spoiled food and debris onto a tarp near overturned, discarded refrigerators at a Katrina debris dump site."
 geo:
 id: 2560
 item_type: Still Image

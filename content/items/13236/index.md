@@ -21,6 +21,8 @@ files:
     original_filename: atop the levee2.jpg
     thumb: /files/thumbnails/14fb2a1f04470214fb2a1f044ae7.jpg
     url: /files/original/14fb2a1f04470214fb2a1f044ae7.jpg
+    alt:
+      en: "Grassy levee slopes down to a wide river, with a small dock, light poles, and a water tower visible across the choppy water under an overcast sky."
 geo:
 id: 13236
 item_type: Still Image

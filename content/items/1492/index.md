@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28719.jpg
     thumb: /files/thumbnails/14fb2a686d5a1d14fb2a686d5e03.jpg
     url: /files/original/14fb2a686d5a1d14fb2a686d5e03.jpg
+    alt:
+      en: "A man with his arm in a sling holds a glove while a woman in a teal shirt examines a leather animal harness, with vehicles and golf carts parked behind them at the fairgrounds."
 geo:
   address: ''
   lat: 0.0

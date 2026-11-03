@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0089OEP.JPG
     thumb: /files/thumbnails/14fb29f19deb9d14fb29f19df04c.jpg
     url: /files/original/14fb29f19deb9d14fb29f19df04c.jpg
+    alt:
+      en: "Outdoor news crew setup with camera on tripod, folding chairs, and equipment cases marked \"CNN\" and \"5600K,\" with a man in sunglasses standing nearby and two others at a table in the background."
 geo:
 id: 23079
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5759_453ca741da.jpg
     thumb: /files/thumbnails/14fb29da2db68a14fb29da2dca34.jpg
     url: /files/original/14fb29da2db68a14fb29da2dca34.jpg
+    alt:
+      en: "Sepia-toned studio portrait of a young man with combed hair and a mustache, wearing a suit and bow tie, matted and displayed in a wooden picture frame."
 geo:
 id: 26144
 item_type: Still Image

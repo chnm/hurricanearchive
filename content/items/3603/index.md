@@ -24,6 +24,8 @@ files:
     original_filename: P1010033.JPG
     thumb: /files/thumbnails/14fb2a5aa65ce814fb2a5aa660c5.jpg
     url: /files/original/14fb2a5aa65ce814fb2a5aa660c5.jpg
+    alt:
+      en: "A vintage \"Dawn and Her Friends\" dancing doll display case with multiple fashion dolls, lying open on dead brown grass next to a rusted \"Way-Rite\" food scale with a red lid."
 geo:
 id: 3603
 item_type: Still Image

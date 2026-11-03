@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28615.jpg
     thumb: /files/thumbnails/14fb2a6951c23914fb2a6951c611.jpg
     url: /files/original/14fb2a6951c23914fb2a6951c611.jpg
+    alt:
+      en: "A jumbled pile of bent metal poles and damaged street signs, including partial \"S. Clark,\" \"Wash...,\" and a bent red \"STOP\" sign, scattered among scrap metal debris."
 geo:
   address: ''
   lat: 0.0

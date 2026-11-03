@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1224Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6ca745914fb29f6ca956d.jpg
     url: /files/original/14fb29f6ca745914fb29f6ca956d.jpg
+    alt:
+      en: "A flat-bottomed boat marked \"LA 1668 PU\" floats inside a flooded building near an EXIT sign, with one man standing in the boat's bow and another beside it in chest-deep water."
 geo:
 id: 22392
 item_type: Still Image

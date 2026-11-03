@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0057-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a050c768314fb2a050c7a69.jpg
     url: /files/original/14fb2a050c768314fb2a050c7a69.jpg
+    alt:
+      en: "A manufactured home on raised stilts sits surrounded by floodwater, with its skirting panel torn loose; a boat on a trailer and a pickup truck are partially submerged in the foreground."
 geo:
 id: 20685
 item_type: Still Image

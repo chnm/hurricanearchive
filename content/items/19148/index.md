@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 058.jpg
     thumb: /files/thumbnails/14fb2a12bdb96014fb2a12bdbd46.jpg
     url: /files/original/14fb2a12bdb96014fb2a12bdbd46.jpg
+    alt:
+      en: "A wide concrete lot with semi-trucks, including one labeled \"STAR,\" military vehicles under open-sided canopies, and a person in an orange vest pulling a small cart loaded with bagged supplies."
 geo:
 id: 19148
 item_type: Still Image

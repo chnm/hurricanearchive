@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28516.jpg
     thumb: /files/thumbnails/14fb2a67fc3b1114fb2a67fc409c.jpg
     url: /files/original/14fb2a67fc3b1114fb2a67fc409c.jpg
+    alt:
+      en: "Two-story brick apartment building with debris scattered across its lawn, surrounded by trees with damaged, leafless branches; a tall light pole and power lines stand in the foreground under a clear sky."
 geo:
   address: ''
   lat: 0.0

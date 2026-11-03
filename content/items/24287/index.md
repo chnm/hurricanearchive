@@ -21,6 +21,8 @@ files:
     original_filename: 501055-R1-07-6A.jpg
     thumb: /files/thumbnails/14fb29e909274414fb29e9092eeb.jpg
     url: /files/original/14fb29e909274414fb29e9092eeb.jpg
+    alt:
+      en: "Group of uniformed personnel and responders gathered in a wet loading dock area between two trucks, with a white van parked nearby under an overcast sky."
 geo:
 id: 24287
 item_type: Still Image

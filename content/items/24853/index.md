@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2193superdome.JPG
     thumb: /files/thumbnails/14fb29e467425014fb29e4674c37.jpg
     url: /files/original/14fb29e467425014fb29e4674c37.jpg
+    alt:
+      en: "Nighttime photo of a man in camouflage pants, a brown t-shirt, cap, and white gloves standing in front of a \"Limo & Shuttle Services\" bus, with another figure visible in silhouette nearby."
 geo:
 id: 24853
 item_type: Still Image

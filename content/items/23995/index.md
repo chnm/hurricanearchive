@@ -21,6 +21,8 @@ files:
     original_filename: 09270033plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec08860414fb29ec0889ee.jpg
     url: /files/original/14fb29ec08860414fb29ec0889ee.jpg
+    alt:
+      en: "Overturned flatbed truck trailer amid storm debris, with downed trees, scattered power lines, and a felled utility pole in the foreground under an overcast sky."
 geo:
 id: 23995
 item_type: Still Image

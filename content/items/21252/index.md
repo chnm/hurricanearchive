@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0207-9-25.JPG
     thumb: /files/thumbnails/14fb29ffc1219b14fb29ffc12580.jpg
     url: /files/original/14fb29ffc1219b14fb29ffc12580.jpg
+    alt:
+      en: "Aerial view of flat, green agricultural fields divided by narrow drainage canals and roads, with a large flooded or water-covered area visible in the upper portion of the frame."
 geo:
 id: 21252
 item_type: Still Image

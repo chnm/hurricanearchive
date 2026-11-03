@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1812superdome.JPG
     thumb: /files/thumbnails/14fb29e12aa00d14fb29e12aa3e7.jpg
     url: /files/original/14fb29e12aa00d14fb29e12aa3e7.jpg
+    alt:
+      en: "Silhouette of a military helicopter at sunset, with a woman holding a bundle standing nearby and several people in the foreground, against a glowing golden sky."
 geo:
 id: 25189
 item_type: Still Image

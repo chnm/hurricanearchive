@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0703.JPG
     thumb: /files/thumbnails/14fb2a5329a18f14fb2a5329a6fa.jpg
     url: /files/original/14fb2a5329a18f14fb2a5329a6fa.jpg
+    alt:
+      en: "Damaged wooden porch and steps with a cinder block foundation, a bright pink condemned/warning tag posted on a railing post, and scattered debris, lumber, and potted plants in the yard."
 geo:
 id: 5258
 item_type: Still Image

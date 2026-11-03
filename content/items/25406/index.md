@@ -21,6 +21,8 @@ files:
     original_filename: New Orleans from I-10 5superdome.jpg
     thumb: /files/thumbnails/14fb29de2a7b6114fb29de2ae707.jpg
     url: /files/original/14fb29de2a7b6114fb29de2ae707.jpg
+    alt:
+      en: "Large domed stadium with a weathered, discolored roof stands beside an adjacent building with green-tiled walls, viewed under a clear blue sky with a parking lot in the foreground."
 geo:
 id: 25406
 item_type: Still Image

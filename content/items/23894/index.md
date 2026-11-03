@@ -21,6 +21,8 @@ files:
     original_filename: picture 15stbernardparishS&R.jpg
     thumb: /files/thumbnails/14fb29ec939cc514fb29ec93a0a9.jpg
     url: /files/original/14fb29ec939cc514fb29ec93a0a9.jpg
+    alt:
+      en: "A single-story brick house with boarded-up windows and a cracked, mud-covered driveway, surrounded by a barren yard strewn with debris and dead vegetation."
 geo:
 id: 23894
 item_type: Still Image

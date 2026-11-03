@@ -20,6 +20,8 @@ files:
     original_filename: Bunny_684d86e581.jpg
     thumb: /files/thumbnails/14fb29c240c7a014fb29c240cd1c.jpg
     url: /files/original/14fb29c240c7a014fb29c240cd1c.jpg
+    alt:
+      en: "Large papier-mâché rabbit head costume lies in a grassy field, with railroad tracks, parked cars, and small commercial buildings visible in the background."
 geo:
 id: 43104
 item_type: Still Image

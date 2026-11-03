@@ -21,6 +21,8 @@ files:
     original_filename: Picture 083cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bd2996a14fb2a0bd29d50.jpg
     url: /files/original/14fb2a0bd2996a14fb2a0bd29d50.jpg
+    alt:
+      en: "Military vehicles drive through a deeply flooded highway lane beside a concrete median, with water splashing up from the truck ahead and debris scattered on the dry shoulder."
 geo:
 id: 19986
 item_type: Still Image

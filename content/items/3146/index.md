@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lower Garden (3).JPG
     thumb: /files/thumbnails/14fb2a5dba0b4614fb2a5dba0f2b.jpg
     url: /files/original/14fb2a5dba0b4614fb2a5dba0f2b.jpg
+    alt:
+      en: "Interior doorway opens into a storm-damaged room with collapsed ceiling debris, bent metal supports, and torn insulation scattered across the floor amid a white protective mask and wreckage."
 geo:
 id: 3146
 item_type: Still Image

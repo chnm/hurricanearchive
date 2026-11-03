@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_05_cebc920737.jpg
     thumb: /files/thumbnails/14fb2a17e4fa9e14fb2a17e4fe4f.jpg
     url: /files/original/14fb2a17e4fa9e14fb2a17e4fe4f.jpg
+    alt:
+      en: "A baby sits in a small blue plastic wading pool on a concrete patio, with an adult's hand steadying them, beside a weathered house exterior and a hanging planter."
 geo:
 id: 14756
 item_type: Still Image

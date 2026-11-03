@@ -21,6 +21,8 @@ files:
     original_filename: KPatcheco-09KPandmorris_f3d062bd1a.jpg
     thumb: /files/thumbnails/14fb29dc9414b914fb29dc941a3a.jpg
     url: /files/original/14fb29dc9414b914fb29dc941a3a.jpg
+    alt:
+      en: "Water-damaged and discolored photograph of a young child with a tabby cat on their shoulder, sitting at a table with a crayon in hand; the image edges are heavily stained and faded."
 geo:
 id: 25734
 item_type: Still Image

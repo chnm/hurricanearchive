@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 029cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e9940b014fb2a0e994494.jpg
     url: /files/original/14fb2a0e9940b014fb2a0e994494.jpg
+    alt:
+      en: "Interior of a large warehouse-like building with three flags mounted on the upper wall—POW*MIA, Kansas, and New Mexico—above a staging area with cots, bags, folding chairs, and a floor-scrubbing machine."
 geo:
 id: 19642
 item_type: Still Image

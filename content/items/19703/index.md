@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 090cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e3e5c2914fb2a0e3e6270.jpg
     url: /files/original/14fb2a0e3e5c2914fb2a0e3e6270.jpg
+    alt:
+      en: "Three soldiers in camouflage uniforms stand beside two military Humvees parked beneath large trees, consulting a map spread on a vehicle's hood, with historic houses visible in the background."
 geo:
 id: 19703
 item_type: Still Image

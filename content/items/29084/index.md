@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0630.JPG
     thumb: /files/thumbnails/14fb29d016467814fb29d0164c0d.jpg
     url: /files/original/14fb29d016467814fb29d0164c0d.jpg
+    alt:
+      en: "Two orange and white traffic barrels, one marked \"13B70,\" stand beside a collapsed section of pavement revealing a deep hole with exposed concrete and a rusted metal rail, near a sidewalk and chain-link fence."
 geo:
 id: 29084
 item_type: Still Image

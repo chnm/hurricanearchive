@@ -21,6 +21,8 @@ files:
     original_filename: S4300127Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f41a92ec14fb29f41a96d0.jpg
     url: /files/original/14fb29f41a92ec14fb29f41a96d0.jpg
+    alt:
+      en: "Military trucks parked behind a chain-link fence near damaged trees and a house, with a \"No Smoking\" sign visible on the fence in a debris-strewn lot."
 geo:
 id: 22771
 item_type: Still Image

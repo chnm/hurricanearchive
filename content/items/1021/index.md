@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28307.jpg
     thumb: /files/thumbnails/14fb2a6b59461d14fb2a6b594a04.jpg
     url: /files/original/14fb2a6b59461d14fb2a6b594a04.jpg
+    alt:
+      en: "Severely damaged multi-story building with exposed steel framing and debris scattered around the base; two people stand amid the wreckage near a concrete platform."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1270Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f67c26ba14fb29f67c2aad.jpg
     url: /files/original/14fb29f67c26ba14fb29f67c2aad.jpg
+    alt:
+      en: "Small boats navigate floodwaters covering a street lined with utility poles, with a water tower and buildings visible in the misty background under overcast skies."
 geo:
 id: 22429
 item_type: Still Image

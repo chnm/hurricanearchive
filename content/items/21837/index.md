@@ -21,6 +21,8 @@ files:
     original_filename: Canal at I-10.jpg
     thumb: /files/thumbnails/14fb29fb6882da14fb29fb6886ac.jpg
     url: /files/original/14fb29fb6882da14fb29fb6886ac.jpg
+    alt:
+      en: "Aerial view of a flooded urban area with high-rise buildings surrounded by brown floodwater, a parking garage, and a highway overpass intersecting the scene."
 geo:
 id: 21837
 item_type: Still Image

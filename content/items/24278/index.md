@@ -21,6 +21,8 @@ files:
     original_filename: 2LT Carmen Toscano.JPG
     thumb: /files/thumbnails/14fb29e913db0614fb29e913deeb.jpg
     url: /files/original/14fb29e913db0614fb29e913deeb.jpg
+    alt:
+      en: "A man in military uniform and camouflage cap stands under a canopy tent near stacked water bottle pallets, with other service members visible behind him; timestamp reads 09.26.2005 13:23."
 geo:
 id: 24278
 item_type: Still Image

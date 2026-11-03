@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2114superdome.JPG
     thumb: /files/thumbnails/14fb29e4b4928d14fb29e4b49672.jpg
     url: /files/original/14fb29e4b4928d14fb29e4b49672.jpg
+    alt:
+      en: "A group of soldiers in woodland camouflage uniforms gather at night under a concrete structure, one holding a radio handset, with a \"Shreveport Fire Dept\" vehicle visible in the background."
 geo:
 id: 24792
 item_type: Still Image

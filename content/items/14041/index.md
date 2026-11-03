@@ -21,6 +21,8 @@ files:
     original_filename: 20050928006.JPG
     thumb: /files/thumbnails/14fb2a1c10df6414fb2a1c10e34a.jpg
     url: /files/original/14fb2a1c10df6414fb2a1c10e34a.jpg
+    alt:
+      en: "A printed page titled \"528th Engineer Battalion\" with a flooded, tree-lined street photo, Army Corps of Engineers logo, descriptive text about clearing Metairie Rd, and a pen resting above it on a wooden table."
 geo:
   address: ''
   lat: 0.0

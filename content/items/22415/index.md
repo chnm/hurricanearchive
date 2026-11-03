@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1254Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f69a9fe214fb29f69aa605.jpg
     url: /files/original/14fb29f69a9fe214fb29f69aa605.jpg
+    alt:
+      en: "Military personnel in camouflage and tan uniforms work at desks with computers in an office space, with others standing near a doorway and wall clocks visible in the background."
 geo:
 id: 22415
 item_type: Still Image

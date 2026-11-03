@@ -21,6 +21,8 @@ files:
     original_filename: aerials111.jpg
     thumb: /files/thumbnails/14fb2a1a54888414fb2a1a548c2d.jpg
     url: /files/original/14fb2a1a54888414fb2a1a548c2d.jpg
+    alt:
+      en: "Aerial view of a wooded residential area devastated by storm, with homes reduced to scattered debris, fallen trees, and flooded ground throughout the landscape."
 geo:
 id: 14270
 item_type: Still Image

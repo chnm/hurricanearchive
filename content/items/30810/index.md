@@ -21,6 +21,8 @@ files:
     original_filename: Picture 081.jpg
     thumb: /files/thumbnails/14fb29cc53324d14fb29cc533632.jpg
     url: /files/original/14fb29cc53324d14fb29cc533632.jpg
+    alt:
+      en: "Interior view from the back seat of a van traveling on a rural highway, with trees, a metal barn, and another vehicle visible through the windows."
 geo:
 id: 30810
 item_type: Still Image

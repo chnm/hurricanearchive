@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28126.jpg
     thumb: /files/thumbnails/14fb2a692f16b314fb2a692f1a9b.jpg
     url: /files/original/14fb2a692f16b314fb2a692f1a9b.jpg
+    alt:
+      en: "Pickup trucks and emergency personnel gathered along a coastal roadside, with yellow buses and a line of vehicles stopped on the highway under a clear sky."
 geo:
   address: ''
   lat: 0.0

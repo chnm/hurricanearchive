@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-intro_94e3979a66.jpg
     thumb: /files/thumbnails/14fb29dc09e78814fb29dc09eb1f.jpg
     url: /files/original/14fb29dc09e78814fb29dc09eb1f.jpg
+    alt:
+      en: "Scanned page from a spiral-bound cookbook titled \"Introduction,\" describing the Los Isleños Cookbook's origins and purpose, signed by Dorothy L. Benge."
 geo:
 id: 25816
 item_type: Still Image

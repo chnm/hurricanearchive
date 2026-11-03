@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0002abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eb2e9d4014fb29eb2ea49e.jpg
     url: /files/original/14fb29eb2e9d4014fb29eb2ea49e.jpg
+    alt:
+      en: "Bearded man in a red shirt and photographer's vest, with a white towel around his neck, checks his wristwatch while holding a water bottle; a camera hangs around his neck and partial stenciled lettering \"GP ENGR BN\" appears on the vehicle behind him."
 geo:
 id: 24054
 item_type: Still Image

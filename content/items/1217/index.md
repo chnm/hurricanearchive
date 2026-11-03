@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28195.jpg
     thumb: /files/thumbnails/14fb2a6a59044f14fb2a6a590829.jpg
     url: /files/original/14fb2a6a59044f14fb2a6a590829.jpg
+    alt:
+      en: "Debris-strewn lot with a pile of uprooted trees and storm wreckage beside a leaning utility pole, bare dead trees in the background, and a sand-covered road under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

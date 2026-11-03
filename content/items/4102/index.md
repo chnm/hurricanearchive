@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1030.JPG
     thumb: /files/thumbnails/14fb2a57bb1ae114fb2a57bb1ec1.jpg
     url: /files/original/14fb2a57bb1ae114fb2a57bb1ec1.jpg
+    alt:
+      en: "Grassy field with scattered trees, a guardrail, and a crowd of people gathered in the distance near a highway, with city buildings visible on the horizon under a clear blue sky."
 geo:
 id: 4102
 item_type: Still Image

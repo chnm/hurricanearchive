@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0538Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f528a0e914fb29f528a4cf.jpg
     url: /files/original/14fb29f528a0e914fb29f528a4cf.jpg
+    alt:
+      en: "Dark floodwater fills a stairwell leading to closed double doors, with a partially visible sign reading \"...our Children's Future\" mounted above the entrance."
 geo:
 id: 22587
 item_type: Still Image

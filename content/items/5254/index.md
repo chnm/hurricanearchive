@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0699.JPG
     thumb: /files/thumbnails/14fb2a532d032a14fb2a532d09e9.jpg
     url: /files/original/14fb2a532d032a14fb2a532d09e9.jpg
+    alt:
+      en: "Close-up of a plywood ceiling or roof deck with visible wood grain and diagonal support beams, showing scattered brownish water stains suggestive of leakage or moisture damage."
 geo:
 id: 5254
 item_type: Still Image

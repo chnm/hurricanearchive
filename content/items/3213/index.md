@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (61).JPG
     thumb: /files/thumbnails/14fb2a5d554aa014fb2a5d554e87.jpg
     url: /files/original/14fb2a5d554aa014fb2a5d554e87.jpg
+    alt:
+      en: "A rusty wire gate with a \"BAD DOG\" sign featuring a dog illustration, leading to a debris-strewn alley littered with dried leaves and scattered storm wreckage."
 geo:
 id: 3213
 item_type: Still Image

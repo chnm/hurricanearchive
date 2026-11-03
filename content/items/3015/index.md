@@ -21,6 +21,8 @@ files:
     original_filename: 100_0264.JPG
     thumb: /files/thumbnails/14fb2a5edae63314fb2a5edae864.jpg
     url: /files/original/14fb2a5edae63314fb2a5edae864.jpg
+    alt:
+      en: "Close-up of a corroded, dark-painted steel ship hull with large jagged holes rusted through the metal, draft marks \"6,\" \"5,\" \"4,\" \"3,\" \"2,\" and \"0\" stenciled in white and orange above."
 geo:
 id: 3015
 item_type: Still Image

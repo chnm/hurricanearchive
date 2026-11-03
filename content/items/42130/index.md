@@ -23,6 +23,8 @@ files:
     original_filename: 2010 086_67b039f9b5.jpg
     thumb: /files/thumbnails/14fb29c343964c14fb29c3439dc3.jpg
     url: /files/original/14fb29c343964c14fb29c3439dc3.jpg
+    alt:
+      en: "A smiling woman in sunglasses and a black leather jacket stands outdoors amid a street crowd, with tall city buildings and a ladder structure visible in the background."
 geo:
 id: 42130
 item_type: Still Image

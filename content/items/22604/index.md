@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0568Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5134b0e14fb29f5134ef4.jpg
     url: /files/original/14fb29f5134b0e14fb29f5134ef4.jpg
+    alt:
+      en: "Two military personnel in camouflage uniforms ride a boat through deep floodwaters, with partially submerged storefronts visible in the background, including signs for \"Tire Kingdom\" and \"Bopp Law Offices.\""
 geo:
 id: 22604
 item_type: Still Image

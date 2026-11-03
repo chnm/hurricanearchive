@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27957.jpg
     thumb: /files/thumbnails/14fb2a6ae745ad14fb2a6ae74993.jpg
     url: /files/original/14fb2a6ae745ad14fb2a6ae74993.jpg
+    alt:
+      en: "A man in a uniform and cap stands beside a folded tan evacuee cot outside a damaged building, with a water tank and debris visible in the background."
 geo:
   address: ''
   lat: 0.0

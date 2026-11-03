@@ -21,6 +21,8 @@ files:
     original_filename: 100_0234.JPG
     thumb: /files/thumbnails/14fb2a5f300ce214fb2a5f301170.jpg
     url: /files/original/14fb2a5f300ce214fb2a5f301170.jpg
+    alt:
+      en: "Control panel with multiple analog gauges labeled \"AMPERES,\" rotary dials marked \"RAISE/LOWER\" for generator and motor voltage, and a row of yellow-tipped control levers on a submarine's maneuvering room console."
 geo:
 id: 2985
 item_type: Still Image

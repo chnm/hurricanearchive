@@ -26,6 +26,8 @@ files:
     original_filename: CameronLa4_f57303ced9.JPG
     thumb: /files/thumbnails/14fb2a6f03b64e14fb2a6f03b9cc.jpg
     url: /files/original/14fb2a6f03b64e14fb2a6f03b9cc.jpg
+    alt:
+      en: "Aerial view of storm-damaged homes and debris scattered across flooded ground, with a partially intact house in the background and several people wading through standing water."
 geo:
   address: ''
   lat: 30.148461

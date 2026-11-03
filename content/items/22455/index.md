@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1296Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f661245d14fb29f661283b.jpg
     url: /files/original/14fb29f661245d14fb29f661283b.jpg
+    alt:
+      en: "Floodwaters surround a small building labeled \"Post Support Center, Security - Billeting - Information,\" its roof shingles torn away to expose bare plywood beneath."
 geo:
 id: 22455
 item_type: Still Image

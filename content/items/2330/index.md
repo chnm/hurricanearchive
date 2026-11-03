@@ -26,6 +26,8 @@ files:
     original_filename: scan0040_fe99bad9d1.jpg
     thumb: /files/thumbnails/14fb2a6d4dc7c714fb2a6d4dcbaa.jpg
     url: /files/original/14fb2a6d4dc7c714fb2a6d4dcbaa.jpg
+    alt:
+      en: "A large palm tree stands amid floodwater covering a street, with partially submerged street signs, utility poles, and surrounding trees reflected in the still water under a hazy sky."
 geo:
   address: ''
   lat: 30.373467591889497

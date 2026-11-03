@@ -23,6 +23,8 @@ files:
     original_filename: 1438011435_e242b12f60.
     thumb: /files/thumbnails/14fb29cbb9374a14fb29cbb93df7.jpg
     url: /files/original/14fb29cbb9374a14fb29cbb93df7.jpg
+    alt:
+      en: "View from inside a vehicle on a coastal roadway with traffic signals overhead, a car ahead, and a collapsed wooden dock structure lying along the shoreline to the left."
 geo:
 id: 33189
 item_type: Still Image

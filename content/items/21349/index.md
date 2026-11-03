@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0233.JPG
     thumb: /files/thumbnails/14fb29ff45e62d14fb29ff45ea08.jpg
     url: /files/original/14fb29ff45e62d14fb29ff45ea08.jpg
+    alt:
+      en: "Aerial view of a severely storm-damaged residential neighborhood, with houses missing roofs, scattered debris piles, displaced vehicles, and downed power lines lining empty streets."
 geo:
 id: 21349
 item_type: Still Image

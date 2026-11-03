@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0048-9-25.JPG
     thumb: /files/thumbnails/14fb2a0578843514fb2a0578882b.jpg
     url: /files/original/14fb2a0578843514fb2a0578882b.jpg
+    alt:
+      en: "Aerial view of murky, rippled water, with scattered patches of debris or vegetation visible beneath the surface."
 geo:
 id: 20644
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1643neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee723cc814fb29ee7240ae.jpg
     url: /files/original/14fb29ee723cc814fb29ee7240ae.jpg
+    alt:
+      en: "Flooded electrical substation with damaged metal structures and insulators standing in standing water, viewed through a chain-link fence from an elevated highway, with bridges and city buildings in the background."
 geo:
 id: 23616
 item_type: Still Image

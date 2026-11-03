@@ -21,6 +21,8 @@ files:
     original_filename: J2 (6).JPG
     thumb: /files/thumbnails/14fb2a1104334b14fb2a1104372e.jpg
     url: /files/original/14fb2a1104334b14fb2a1104372e.jpg
+    alt:
+      en: "Flooded city street with a parked NYPD Highway Patrol police car and several officers standing on a sidewalk, while a crew member holds a boom microphone with a furry windscreen near a reflecting umbrella light."
 geo:
 id: 19344
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1300Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f65dd68b14fb29f65dda71.jpg
     url: /files/original/14fb29f65dd68b14fb29f65dda71.jpg
+    alt:
+      en: "Floodwaters submerge a street and yard, with a small boat labeled \"Triton\" carrying two people navigating past partially submerged power poles, debris, and bare trees under an overcast sky."
 geo:
 id: 22459
 item_type: Still Image

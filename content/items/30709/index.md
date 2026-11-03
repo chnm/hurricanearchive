@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7406.JPG
     thumb: /files/thumbnails/14fb29ccc65c4e14fb29ccc66034.jpg
     url: /files/original/14fb29ccc65c4e14fb29ccc66034.jpg
+    alt:
+      en: "A white sedan sits partially obscured by fallen tree branches and dense foliage, likely storm debris, with a hedge and bare tree trunks visible in the background."
 geo:
 id: 30709
 item_type: Still Image

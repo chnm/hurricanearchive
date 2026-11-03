@@ -27,6 +27,8 @@ files:
     original_filename: 249145_ecd1e77769.jpg
     thumb: /files/thumbnails/14fb2a66d272f914fb2a66d276de.jpg
     url: /files/original/14fb2a66d272f914fb2a66d276de.jpg
+    alt:
+      en: "Three men in uniforms crouch on a debris-covered surface, examining a red overturned newspaper stand, with one wearing an orange safety vest and ball cap."
 geo:
 id: 2375
 item_type: Still Image

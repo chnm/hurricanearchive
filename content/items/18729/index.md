@@ -21,6 +21,8 @@ files:
     original_filename: S4300095alero.JPG
     thumb: /files/thumbnails/14fb2a15572aa714fb2a15572e8b.jpg
     url: /files/original/14fb2a15572aa714fb2a15572e8b.jpg
+    alt:
+      en: "Volunteers in American Red Cross shirts and a person in military camouflage serve food from large coolers, one lined with plastic and containing sauce, at an outdoor relief station near the Alario Center."
 geo:
 id: 18729
 item_type: Still Image

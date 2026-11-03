@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (86).JPG
     thumb: /files/thumbnails/14fb2a5d178d1514fb2a5d179102.jpg
     url: /files/original/14fb2a5d178d1514fb2a5d179102.jpg
+    alt:
+      en: "Large oak tree with broken branches and debris piled beneath it, surrounded by storm-damaged trees along a roadside clearing."
 geo:
 id: 3240
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: SGT Bruce.JPG
     thumb: /files/thumbnails/14fb2a1ae3f38d14fb2a1ae3f721.jpg
     url: /files/original/14fb2a1ae3f38d14fb2a1ae3f721.jpg
+    alt:
+      en: "Group of military personnel in camouflage and desert fatigues gathered around an outboard motor and olive-drab container in a dimly lit industrial space."
 geo:
   address: ''
   lat: 0.0

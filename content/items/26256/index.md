@@ -24,6 +24,8 @@ files:
     original_filename: AB vintage car 1975_a9744f0fd4.jpg
     thumb: /files/thumbnails/14fb29d93bdb7114fb29d93bdf57.jpg
     url: /files/original/14fb29d93bdb7114fb29d93bdf57.jpg
+    alt:
+      en: "Man in pink shirt and dark pants stands beside a vintage red convertible car with a cream canvas top and wire wheels, parked outdoors near palm trees and other vehicles."
 geo:
   address: ''
   lat: 29.95493

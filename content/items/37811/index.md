@@ -20,6 +20,8 @@ files:
     original_filename: Gustave 3_952bea325a.bmp
     thumb: /files/thumbnails/14fb29c561dfd314fb29c561e3b7.jpg
     url: /files/original/14fb29c561dfd314fb29c561e3b7.jpg
+    alt:
+      en: "Flooded street with storm debris and foam under overcast skies, trees bending in the wind, with flagpoles and a monument visible in the background; timestamp reads SEP 1 2008."
 geo:
   address: 237 Debbie Dr.
   lat: 30.2248

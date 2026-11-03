@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0165.JPG
     thumb: /files/thumbnails/14fb2a0ab165e814fb2a0ab169cd.jpg
     url: /files/original/14fb2a0ab165e814fb2a0ab169cd.jpg
+    alt:
+      en: "Aerial view of a hazy city skyline with a domed stadium, its roof partially damaged, surrounded by downtown high-rises, elevated highways, and industrial rail yards."
 geo:
 id: 20215
 item_type: Still Image

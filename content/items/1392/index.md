@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27876.jpg
     thumb: /files/thumbnails/14fb2a692426ad14fb2a69242a88.jpg
     url: /files/original/14fb2a692426ad14fb2a69242a88.jpg
+    alt:
+      en: "A large uprooted oak tree lies across a white mobile home, crushing part of its roof; a \"DANGER KEEP OUT\" sign is posted on the trailer's side, with a pickup truck parked nearby."
 geo:
   address: ''
   lat: 0.0

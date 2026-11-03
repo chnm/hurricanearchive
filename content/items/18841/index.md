@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0063grandisle.JPG
     thumb: /files/thumbnails/14fb2a14f52d2f14fb2a14f53159.jpg
     url: /files/original/14fb2a14f52d2f14fb2a14f53159.jpg
+    alt:
+      en: "Aerial view of a coastal barrier island with a sandy beach and jetty along the water, scattered scrub vegetation inland, and debris fields of splintered wood and displaced boats strewn across the landscape."
 geo:
 id: 18841
 item_type: Still Image

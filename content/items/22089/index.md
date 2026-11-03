@@ -21,6 +21,8 @@ files:
     original_filename: 09200004J6.JPG
     thumb: /files/thumbnails/14fb29f990ff4014fb29f991031d.jpg
     url: /files/original/14fb29f990ff4014fb29f991031d.jpg
+    alt:
+      en: "A camouflage military Humvee with open doors and raised windshield sits in a grassy field, with a man in fatigues seated inside; tall antennas rise from the rear."
 geo:
 id: 22089
 item_type: Still Image

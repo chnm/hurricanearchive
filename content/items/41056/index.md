@@ -18,6 +18,8 @@ files:
     original_filename: post card 6_ae9ae9590b.JPG
     thumb: /files/thumbnails/14fb29c45f38bc14fb29c45f3ac0.jpg
     url: /files/original/14fb29c45f38bc14fb29c45f3ac0.jpg
+    alt:
+      en: "Handwritten index card describing a favorite po-boy as roast beef or french fry, praising R&O's for serving a french fry po-boy with au jus gravy."
 geo:
   address: ''
   lat: 0.0

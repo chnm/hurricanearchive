@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0064-16.JPG
     thumb: /files/thumbnails/14fb2a04a2446114fb2a04a24845.jpg
     url: /files/original/14fb2a04a2446114fb2a04a24845.jpg
+    alt:
+      en: "A U.S. Army service member in desert camouflage uniform and yellow hard hat stands on a debris-strewn dirt road, with a Komatsu skid-steer loader and military trucks visible nearby amid storm wreckage."
 geo:
 id: 20718
 item_type: Still Image

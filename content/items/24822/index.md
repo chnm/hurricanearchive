@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2144superdome.JPG
     thumb: /files/thumbnails/14fb29e494992d14fb29e494a08e.jpg
     url: /files/original/14fb29e494992d14fb29e494a08e.jpg
+    alt:
+      en: "An airboat carrying several evacuees crosses floodwater past a partially submerged truck, with a military vehicle visible in the foreground."
 geo:
 id: 24822
 item_type: Still Image

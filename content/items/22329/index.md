@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1142Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f753e27a14fb29f753e906.jpg
     url: /files/original/14fb29f753e27a14fb29f753e906.jpg
+    alt:
+      en: "A light-colored SUV sits nearly submerged in floodwater in front of a brick building, with another partially submerged car visible beside it and a wrought-iron fence to the right."
 geo:
 id: 22329
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 012.jpg
     thumb: /files/thumbnails/14fb2a59f3e17714fb2a59f3e569.jpg
     url: /files/original/14fb2a59f3e17714fb2a59f3e569.jpg
+    alt:
+      en: "Waterfront view of a pink two-story house with storm-damaged roof covered by a blue tarp, surrounded by debris-strewn docks and a damaged pier along the water's edge."
 geo:
 id: 3732
 item_type: Still Image

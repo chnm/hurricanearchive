@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0972superdome.JPG
     thumb: /files/thumbnails/14fb29e400d7ec14fb29e400dbd1.jpg
     url: /files/original/14fb29e400d7ec14fb29e400dbd1.jpg
+    alt:
+      en: "A man in a wheelchair is attended by a soldier in camouflage and two other men, with parked vehicles, a metal barricade, and luggage nearby, including a truck marked \"Acadian.\""
 geo:
 id: 24897
 item_type: Still Image

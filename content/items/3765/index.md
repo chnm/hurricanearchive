@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 045.jpg
     thumb: /files/thumbnails/14fb2a59cf176914fb2a59cf1b57.jpg
     url: /files/original/14fb2a59cf176914fb2a59cf1b57.jpg
+    alt:
+      en: "Severely damaged two-story house with exposed framing and partial roof collapse, surrounded by debris and bare, storm-stripped trees under a clear blue sky."
 geo:
 id: 3765
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: hutch_42a713b678.jpg
     thumb: /files/thumbnails/14fb2a2212de0d14fb2a2212e433.jpg
     url: /files/original/14fb2a2212de0d14fb2a2212e433.jpg
+    alt:
+      en: "Two photos of a wooden dining room buffet with blue-patterned plates displayed above; left shows the piece surrounded by dark floodwater, right shows the aftermath with warped wood, grime, and a damaged chair."
 geo:
   address: ''
   lat: 29.95657

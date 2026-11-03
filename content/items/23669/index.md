@@ -21,6 +21,8 @@ files:
     original_filename: P1010110empireS&R.JPG
     thumb: /files/thumbnails/14fb29edf5160f14fb29edf519fc.jpg
     url: /files/original/14fb29edf5160f14fb29edf519fc.jpg
+    alt:
+      en: "Two tall guyed antenna masts rise from a gravel rooftop with support wires fanning out, beside a brick building, with palm trees and shrubs visible in the background."
 geo:
 id: 23669
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300219neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecb456d614fb29ecb45ea3.jpg
     url: /files/original/14fb29ecb456d614fb29ecb45ea3.jpg
+    alt:
+      en: "Flooded single-story house with spray-painted search-and-rescue markings on the siding, a fallen tree against the porch, and standing water reaching the iron fence out front."
 geo:
 id: 23863
 item_type: Still Image

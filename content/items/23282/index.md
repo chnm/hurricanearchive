@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037cameron3S&R.JPG
     thumb: /files/thumbnails/14fb29f022e32a14fb29f022e710.jpg
     url: /files/original/14fb29f022e32a14fb29f022e710.jpg
+    alt:
+      en: "Aerial view of a displaced house stranded in marshland between two bodies of water, its roof damaged, with scattered debris visible along the grassy shoreline."
 geo:
 id: 23282
 item_type: Still Image

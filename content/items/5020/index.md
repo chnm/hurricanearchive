@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0365.JPG
     thumb: /files/thumbnails/14fb2a5465389b14fb2a54653c81.jpg
     url: /files/original/14fb2a5465389b14fb2a54653c81.jpg
+    alt:
+      en: "A broken concrete post or fixture lies on dead leaves near a wooden deck, with a yellow tape measure stretched beside it and an empty wooden box in the background."
 geo:
 id: 5020
 item_type: Still Image

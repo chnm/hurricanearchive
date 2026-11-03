@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0998Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f92c987b14fb29f92c9f68.jpg
     url: /files/original/14fb29f92c987b14fb29f92c9f68.jpg
+    alt:
+      en: "A military truck with headlights on exits through a brick-pillared gate marked \"Area C,\" followed by other vehicles, as a uniformed soldier directs traffic nearby."
 geo:
 id: 22191
 item_type: Still Image

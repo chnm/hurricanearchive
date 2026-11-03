@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0572e31c14fb2a0572e701.jpg
     url: /files/original/14fb2a0572e31c14fb2a0572e701.jpg
+    alt:
+      en: "Floodwater covers a roadway as a white pickup truck drives through, viewed past the side mirror of another vehicle, with submerged trees and additional trucks visible in the background."
 geo:
 id: 20648
 item_type: Still Image

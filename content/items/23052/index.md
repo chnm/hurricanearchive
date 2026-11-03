@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0062OEP.JPG
     thumb: /files/thumbnails/14fb29f1b69ac914fb29f1b69eb7.jpg
     url: /files/original/14fb29f1b69ac914fb29f1b69eb7.jpg
+    alt:
+      en: "Outdoor media encampment with camping chairs, a blue cooler, camera tripods, a reflector screen, and audio equipment on dry grass, with a man using a laptop beside stacked newspapers and gear cases."
 geo:
 id: 23052
 item_type: Still Image

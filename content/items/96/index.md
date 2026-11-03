@@ -26,6 +26,8 @@ files:
     original_filename: 100_5707_cd44d3b403.JPG
     thumb: /files/thumbnails/14fb2a7110f0eb14fb2a7110f4d0.jpg
     url: /files/original/14fb2a7110f0eb14fb2a7110f4d0.jpg
+    alt:
+      en: "Spray-painted white text reading \"LOOTERS WILL BE SHOT\" on a stucco wall beside a window, with tree branches overhanging above; yellow date stamp \"10/30/2005\" in corner."
 geo:
   address: ''
   lat: 30.005653

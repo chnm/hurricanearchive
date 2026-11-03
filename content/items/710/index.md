@@ -26,6 +26,8 @@ files:
     original_filename: int9B_dc0c598148.JPG
     thumb: /files/thumbnails/14fb2a6f229ab314fb2a6f229e98.jpg
     url: /files/original/14fb2a6f229ab314fb2a6f229e98.jpg
+    alt:
+      en: "A young woman in a teal shirt and yellow rubber gloves stands behind a colorful painted ladder-back chair amid a flood-damaged room with mold-stained walls and salvaged furniture."
 geo:
   address: ''
   lat: 0.0

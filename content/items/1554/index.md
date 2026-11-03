@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28503.jpg
     thumb: /files/thumbnails/14fb2a6809e1f814fb2a6809e5d1.jpg
     url: /files/original/14fb2a6809e1f814fb2a6809e5d1.jpg
+    alt:
+      en: "Damaged two-story house with address \"6406\" on the door, showing a broken upstairs window, missing roof shingles exposing the roof deck, and marks spray-painted on the siding near the gable."
 geo:
   address: ''
   lat: 0.0

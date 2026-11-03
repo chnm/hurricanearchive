@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0099cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef7b5c6914fb29ef7b6047.jpg
     url: /files/original/14fb29ef7b5c6914fb29ef7b6047.jpg
+    alt:
+      en: "Military crew member wearing a helmet with visor and headset, in uniform with an American flag patch, positioned near the dark silhouette of an aircraft's vertical stabilizer against a bright sky."
 geo:
 id: 23429
 item_type: Still Image

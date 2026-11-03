@@ -21,6 +21,8 @@ files:
     original_filename: aerials20.jpg
     thumb: /files/thumbnails/14fb2a19de144814fb2a19de183b.jpg
     url: /files/original/14fb2a19de144814fb2a19de183b.jpg
+    alt:
+      en: "Aerial view of a storm-damaged neighborhood with a green-roofed house on stilts surrounded by downed trees and scattered debris, a dump truck and car parked on the adjacent road."
 geo:
 id: 14309
 item_type: Still Image

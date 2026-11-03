@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2025superdome.JPG
     thumb: /files/thumbnails/14fb29df53f0ed14fb29df53f4e5.jpg
     url: /files/original/14fb29df53f0ed14fb29df53f4e5.jpg
+    alt:
+      en: "A large military CH-47 Chinook helicopter sits on wet pavement while uniformed personnel help a group of civilians board through its rear ramp, with an elevated highway visible in the background."
 geo:
 id: 25298
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Superdomesuperdome.jpg
     thumb: /files/thumbnails/14fb29dde48d8014fb29dde4915f.jpg
     url: /files/original/14fb29dde48d8014fb29dde4915f.jpg
+    alt:
+      en: "Wet parking garage ramp area with uniformed personnel and responders gathered near a white van, with a delivery truck parked at left under an overcast sky."
 geo:
 id: 25423
 item_type: Still Image

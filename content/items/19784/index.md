@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 171cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dd2f72e14fb2a0dd2fb15.jpg
     url: /files/original/14fb2a0dd2f72e14fb2a0dd2fb15.jpg
+    alt:
+      en: "A high-rise \"City Hall\" building with a blue-tinted glass facade, several broken windows, stands beside another tall office tower, with trees in the foreground."
 geo:
 id: 19784
 item_type: Still Image

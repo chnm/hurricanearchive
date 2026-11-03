@@ -26,6 +26,8 @@ files:
     original_filename: NOLA_after_Katrina_Oct_2005_112_686e96a1af.jpg
     thumb: /files/thumbnails/14fb2a6ec2ff4514fb2a6ec302e9.jpg
     url: /files/original/14fb2a6ec2ff4514fb2a6ec302e9.jpg
+    alt:
+      en: "A large fallen tree with rust-colored foliage lies across railroad tracks, blocking the path to a damaged white house with a partially torn-off roof in the background."
 geo:
   address: ''
   lat: 30.401306519203597

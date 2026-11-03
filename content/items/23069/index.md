@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0079OEP.JPG
     thumb: /files/thumbnails/14fb29f1a5482f14fb29f1a54c1c.jpg
     url: /files/original/14fb29f1a5482f14fb29f1a54c1c.jpg
+    alt:
+      en: "A man in military camouflage uniform, seated under a canopy tent, is being interviewed by a person holding a recording device, with a camera crew visible nearby and parked vehicles in the background."
 geo:
 id: 23069
 item_type: Still Image

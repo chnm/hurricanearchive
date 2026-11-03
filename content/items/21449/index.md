@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0259-9-25.JPG
     thumb: /files/thumbnails/14fb29feb4c42e14fb29feb4c812.jpg
     url: /files/original/14fb29feb4c42e14fb29feb4c812.jpg
+    alt:
+      en: "Aerial view of coastal buildings with varied rooftops, including shingled, metal, and solar-paneled roofs, alongside a damaged palm tree and power lines, with the ocean visible in the background."
 geo:
 id: 21449
 item_type: Still Image

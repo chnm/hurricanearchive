@@ -20,6 +20,8 @@ files:
     original_filename: Graffitti014_09381a824f.JPG
     thumb: /files/thumbnails/14fb2a1927a74d14fb2a1927adbe.jpg
     url: /files/original/14fb2a1927a74d14fb2a1927adbe.jpg
+    alt:
+      en: "Blue wooden door painted with white panels bearing handwritten graffiti: \"DEMAND Rent Stabilization,\" \"RENT CONTROL NOW,\" and \"ADVERTISE PRE-K RENTS,\" with smaller added comments like \"we miss Jeremy\" and \"long live private property.\""
 geo:
   address: 2600 Royal Street
   lat: 29.96482

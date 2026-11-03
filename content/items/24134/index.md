@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29ea5454ad14fb29ea54588f.jpg
     url: /files/original/14fb29ea5454ad14fb29ea54588f.jpg
+    alt:
+      en: "A person in camouflage gear and an orange hard hat stands near cut tree logs and debris, while a man in a red shirt films the scene with a video camera."
 geo:
 id: 24134
 item_type: Still Image

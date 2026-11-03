@@ -20,6 +20,8 @@ files:
     original_filename: 2457529342_6b96b2c206.
     thumb: /files/thumbnails/14fb29c8898a0d14fb29c8898d12.jpg
     url: /files/original/14fb29c8898a0d14fb29c8898d12.jpg
+    alt:
+      en: "A construction worker in a hard hat stands on a rebar grid within a large wooden formwork, surrounded by steel reinforcement bars and support posts for a concrete foundation."
 geo:
 id: 34909
 item_type: Still Image

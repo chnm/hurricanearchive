@@ -21,6 +21,8 @@ files:
     original_filename: Picture 293-J2.jpg
     thumb: /files/thumbnails/14fb29fad2802314fb29fad28408.jpg
     url: /files/original/14fb29fad2802314fb29fad28408.jpg
+    alt:
+      en: "A flooded street scene with a military Humvee and Budget rental truck near a bridge railing, with partially submerged buildings and a visible \"Holiday Inn\" sign in the background."
 geo:
 id: 21962
 item_type: Still Image

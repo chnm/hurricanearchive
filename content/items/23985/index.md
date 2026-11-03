@@ -21,6 +21,8 @@ files:
     original_filename: 09270023plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec261b0e14fb29ec261ef4.jpg
     url: /files/original/14fb29ec261b0e14fb29ec261ef4.jpg
+    alt:
+      en: "Stone memorial obelisk with plaque in foreground overlooking a devastated lot with debris, bare trees, military Humvees, trucks, and uniformed personnel amid storm wreckage."
 geo:
 id: 23985
 item_type: Still Image

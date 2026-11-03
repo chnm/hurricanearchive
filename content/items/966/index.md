@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27924.jpg
     thumb: /files/thumbnails/14fb2a6ba08f9e14fb2a6ba097bc.jpg
     url: /files/original/14fb2a6ba08f9e14fb2a6ba097bc.jpg
+    alt:
+      en: "Storefront windows boarded with plywood sheets spray-painted with \"LOUISIANA\" and \"MAGAZINE ST,\" set beneath a green-trimmed awning on a street corner."
 geo:
   address: ''
   lat: 0.0

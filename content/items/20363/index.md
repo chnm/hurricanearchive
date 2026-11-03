@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005H.JPG
     thumb: /files/thumbnails/14fb2a085aa9cf14fb2a085aadb5.jpg
     url: /files/original/14fb2a085aa9cf14fb2a085aadb5.jpg
+    alt:
+      en: "Very dark, dimly lit interior scene with two indistinct human figures standing near a pool table, an electric fan, and sloped ceiling beams barely visible in the shadows."
 geo:
 id: 20363
 item_type: Still Image

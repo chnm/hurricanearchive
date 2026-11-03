@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0054-15.JPG
     thumb: /files/thumbnails/14fb2a0552805514fb2a05528374.jpg
     url: /files/original/14fb2a0552805514fb2a05528374.jpg
+    alt:
+      en: "Aerial view of a flooded baseball field complex, with the diamond partially submerged, bleachers and dugouts surrounded by brown floodwater, and rows of partly submerged trees in the background."
 geo:
 id: 20669
 item_type: Still Image

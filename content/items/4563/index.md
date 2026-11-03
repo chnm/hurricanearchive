@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0765.JPG
     thumb: /files/thumbnails/14fb2a56feda8214fb2a56fede67.jpg
     url: /files/original/14fb2a56feda8214fb2a56fede67.jpg
+    alt:
+      en: "Damaged trees with broken branches and debris caught in them, including dark fabric and a partially visible American flag, stand beside the wooden frame of a building under construction."
 geo:
 id: 4563
 item_type: Still Image

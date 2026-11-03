@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0165-21.JPG
     thumb: /files/thumbnails/14fb2a0124ffe214fb2a012503c6.jpg
     url: /files/original/14fb2a0124ffe214fb2a012503c6.jpg
+    alt:
+      en: "Shaded residential street scene with large tree trunks in foreground, a chain-link fence, a house with an American flag on its porch, a blue tarp-covered object, a \"1-800 FLOODED\" sign, and a \"Bus Stop\" sign."
 geo:
 id: 20997
 item_type: Still Image

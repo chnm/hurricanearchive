@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-16-15A.jpg
     thumb: /files/thumbnails/14fb29e84a834c14fb29e84a873f.jpg
     url: /files/original/14fb29e84a834c14fb29e84a873f.jpg
+    alt:
+      en: "Flooded parking lot with several vehicles partially submerged in murky water, a lit streetlamp standing amid the flood, and heavy rain obscuring trees and power lines in the background."
 geo:
 id: 24395
 item_type: Still Image

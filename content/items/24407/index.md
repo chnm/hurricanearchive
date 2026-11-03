@@ -21,6 +21,8 @@ files:
     original_filename: 769th truck in water.JPG
     thumb: /files/thumbnails/14fb29e83400db14fb29e83404c1.jpg
     url: /files/original/14fb29e83400db14fb29e83404c1.jpg
+    alt:
+      en: "A military-style truck plows through a deep, flooded road lined with trees, throwing up large waves of water as it approaches the camera."
 geo:
 id: 24407
 item_type: Still Image

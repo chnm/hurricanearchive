@@ -21,6 +21,8 @@ files:
     original_filename: S4300181stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ece2936114fb29ece29747.jpg
     url: /files/original/14fb29ece2936114fb29ece29747.jpg
+    alt:
+      en: "A white pickup truck lies tilted at a steep angle, wedged against a storm-damaged house with a torn carport roof, scattered debris, and a boat trailer nearby; license plate reads \"HDR 836.\""
 geo:
 id: 23842
 item_type: Still Image

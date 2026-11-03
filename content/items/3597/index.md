@@ -24,6 +24,8 @@ files:
     original_filename: P1010027.JPG
     thumb: /files/thumbnails/14fb2a5aa9bbee14fb2a5aa9bfd2.jpg
     url: /files/original/14fb2a5aa9bbee14fb2a5aa9bfd2.jpg
+    alt:
+      en: "Porcelain and ceramic items—including painted vases, a pitcher, a decorative plate, and a cat figurine—lie on dead grass near a brick ledge, salvaged from a storm-damaged home."
 geo:
 id: 3597
 item_type: Still Image

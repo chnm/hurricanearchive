@@ -21,6 +21,8 @@ files:
     original_filename: Satellite Image 14.jpg
     thumb: /files/thumbnails/14fb29f09c2ee314fb29f09c7150.jpg
     url: /files/original/14fb29f09c2ee314fb29f09c7150.jpg
+    alt:
+      en: "Satellite view of a hurricane's eye, showing a circular clear center surrounded by swirling cloud bands against a pale, textured background."
 geo:
 id: 23221
 item_type: Still Image

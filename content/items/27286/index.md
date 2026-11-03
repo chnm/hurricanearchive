@@ -20,6 +20,8 @@ files:
     original_filename: side_door_3037d57d6e.jpg
     thumb: /files/thumbnails/14fb29d58d038e14fb29d58d0774.jpg
     url: /files/original/14fb29d58d038e14fb29d58d0774.jpg
+    alt:
+      en: "Debris-covered side entrance of a storm-damaged house, with a collapsed porch, scattered wood planks, doors, and furniture piled against the white siding near a boarded window."
 geo:
   address: ''
   lat: 0.0

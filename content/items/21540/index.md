@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0288-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fdb246e014fb29fdb24ac8.jpg
     url: /files/original/14fb29fdb246e014fb29fdb24ac8.jpg
+    alt:
+      en: "Aerial view of a flooded community with houses and buildings partially submerged in brown water, surrounded by dense trees, a tall smokestack, and agricultural fields under a hazy sky."
 geo:
 id: 21540
 item_type: Still Image

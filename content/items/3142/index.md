@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA Lakeview, Lake front (9).JPG
     thumb: /files/thumbnails/14fb2a5dbcaee714fb2a5dbcb2cc.jpg
     url: /files/original/14fb2a5dbcaee714fb2a5dbcb2cc.jpg
+    alt:
+      en: "Vehicles with brake lights on travel a debris-strewn street past an orange diamond-shaped road sign and muddy construction site, with distant high-rise buildings visible under a hazy sky."
 geo:
 id: 3142
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: heading south.jpg
     thumb: /files/thumbnails/14fb2a1e95e30414fb2a1e95e6ea.jpg
     url: /files/original/14fb2a1e95e30414fb2a1e95e6ea.jpg
+    alt:
+      en: "Heavy southbound traffic, including cars and trucks, fills a two-lane highway lined with trees, with a diamond-shaped yellow road sign visible on the grassy shoulder."
 geo:
 id: 13254
 item_type: Still Image

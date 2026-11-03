@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0613.JPG
     thumb: /files/thumbnails/14fb2a5661cc3b14fb2a5661d022.jpg
     url: /files/original/14fb2a5661cc3b14fb2a5661d022.jpg
+    alt:
+      en: "A pale pink house with storm-damaged roofing, exposed wooden rafters, and missing shingles, with a red metal roof section still intact over the front gable; a covered porch and overgrown shrubs stand in front."
 geo:
 id: 4662
 item_type: Still Image

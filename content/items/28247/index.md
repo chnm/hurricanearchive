@@ -27,6 +27,8 @@ files:
     original_filename: '384884879_4409241231.'
     thumb: /files/thumbnails/14fb29d29c61fb14fb29d29c6e33.jpg
     url: /files/original/14fb29d29c61fb14fb29d29c6e33.jpg
+    alt:
+      en: "Pink-painted brick house with a covered porch and address \"1508,\" a man standing in the open doorway, and rows of house-shaped metal yard signs in blue, gray, and red planted in the front lawn."
 geo:
   address: ''
   lat: 30.01333

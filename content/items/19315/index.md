@@ -21,6 +21,8 @@ files:
     original_filename: J2 (33).JPG
     thumb: /files/thumbnails/14fb2a1137604514fb2a11376435.jpg
     url: /files/original/14fb2a1137604514fb2a11376435.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with submerged streets and houses, treetops poking above the water, and a partially flooded bridge crossing a canal."
 geo:
 id: 19315
 item_type: Still Image

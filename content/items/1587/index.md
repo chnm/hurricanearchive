@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28365.jpg
     thumb: /files/thumbnails/14fb2a67b8831914fb2a67b887c2.jpg
     url: /files/original/14fb2a67b8831914fb2a67b887c2.jpg
+    alt:
+      en: "Damaged brick church building with arched window openings and missing glass, a sign reading \"Vietnamese Christian Assembly of God\" out front, with a shopping cart and debris scattered on the grass."
 geo:
   address: ''
   lat: 0.0

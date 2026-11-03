@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0083H.JPG
     thumb: /files/thumbnails/14fb2a039bdb7a14fb2a039bdf58.jpg
     url: /files/original/14fb2a039bdb7a14fb2a039bdf58.jpg
+    alt:
+      en: "A woman in an orange and white uniform signs merchandise at a table with beer and energy drink cans, a \"Joe's Crab Shack\" bag, and orange T-shirts, as onlookers including a man in military fatigues look on."
 geo:
 id: 20811
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 384884883_c3bbcbbf47.
     thumb: /files/thumbnails/14fb29d29e584014fb29d29e5fb0.jpg
     url: /files/original/14fb29d29e584014fb29d29e5fb0.jpg
+    alt:
+      en: "Three candles mounted atop glass and plastic bottles hang from wires in a dark, exposed-beam structure, their flames glowing against the shadowed wooden framework."
 geo:
 id: 28246
 item_type: Still Image

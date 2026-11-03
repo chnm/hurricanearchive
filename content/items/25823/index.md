@@ -21,6 +21,8 @@ files:
     original_filename: Chalmette_a8acd6b994.jpg
     thumb: /files/thumbnails/14fb29dbf5163d14fb29dbf51a1e.jpg
     url: /files/original/14fb29dbf5163d14fb29dbf51a1e.jpg
+    alt:
+      en: "A red covered footbridge arches over a calm waterway lined with bare trees, reflecting in the water below under a soft, hazy sky."
 geo:
 id: 25823
 item_type: Still Image

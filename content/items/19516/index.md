@@ -21,6 +21,8 @@ files:
     original_filename: Picture 076engineers.jpg
     thumb: /files/thumbnails/14fb2a0f96ec1814fb2a0f96efff.jpg
     url: /files/original/14fb2a0f96ec1814fb2a0f96efff.jpg
+    alt:
+      en: "Aerial view of a residential neighborhood with scattered storm-damaged homes, many roofs covered in blue tarps, surrounded by trees, with a water tower and athletic fields visible in the background."
 geo:
 id: 19516
 item_type: Still Image

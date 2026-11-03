@@ -21,6 +21,8 @@ files:
     original_filename: 09270027plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec1d33f914fb29ec1d37de.jpg
     url: /files/original/14fb29ec1d33f914fb29ec1d37de.jpg
+    alt:
+      en: "Muddy, flooded landscape with a damaged white house on the left, a red pickup truck partially submerged near standing water, and debris scattered across the waterlogged ground under an overcast sky."
 geo:
 id: 23989
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 027.jpg
     thumb: /files/thumbnails/14fb2a2278a77714fb2a2278ab5d.jpg
     url: /files/original/14fb2a2278a77714fb2a2278ab5d.jpg
+    alt:
+      en: "Storm-damaged storefront with exposed wood framing and a snapped exterior wall, surrounded by debris, broken lumber, and a pink plastic crate; downed trees lean against the building in the background."
 geo:
 id: 11979
 item_type: Still Image

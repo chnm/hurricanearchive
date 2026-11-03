@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0104-15.JPG
     thumb: /files/thumbnails/14fb29e7486b7214fb29e7487bf1.jpg
     url: /files/original/14fb29e7486b7214fb29e7487bf1.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood centered on a church with a steeple, showing closely packed houses, rooftops of varying colors, trees, and streets with parked cars."
 geo:
 id: 24489
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29eff5e34614fb29eff5e72b.jpg
     url: /files/original/14fb29eff5e34614fb29eff5e72b.jpg
+    alt:
+      en: "White pickup trucks drive through a deeply flooded roadway lined with submerged trees and brush, viewed past the side mirror of a foreground vehicle also navigating the floodwaters."
 geo:
 id: 23324
 item_type: Still Image

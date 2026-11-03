@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0030-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0669002f14fb2a0669035b.jpg
     url: /files/original/14fb2a0669002f14fb2a0669035b.jpg
+    alt:
+      en: "Three men ride a red tractor down a flooded road lined with trees, water spraying from its large tires as it moves forward."
 geo:
 id: 20534
 item_type: Still Image

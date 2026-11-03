@@ -26,6 +26,8 @@ files:
     original_filename: 100_5329_e5a7413ff9.JPG
     thumb: /files/thumbnails/14fb2a71127f3e14fb2a71128322.jpg
     url: /files/original/14fb2a71127f3e14fb2a71128322.jpg
+    alt:
+      en: "Sun rising over the calm waters of Lake Pontchartrain, with pink and orange hues filling the sky; the date \"09/26/2005\" is stamped in the lower right corner."
 geo:
   address: ''
   lat: 30.005653

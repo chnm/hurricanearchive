@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0706.JPG
     thumb: /files/thumbnails/14fb2a5327516e14fb2a53275553.jpg
     url: /files/original/14fb2a5327516e14fb2a53275553.jpg
+    alt:
+      en: "Two parked sedans in the foreground on a residential street, with storm-damaged trees, a blue tarp covering part of a house roof, and a camper trailer visible in the background."
 geo:
 id: 5261
 item_type: Still Image

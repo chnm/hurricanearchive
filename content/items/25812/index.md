@@ -21,6 +21,8 @@ files:
     original_filename: DotBenge-flan_535d043ef3.jpg
     thumb: /files/thumbnails/14fb29dc0e26f414fb29dc0e2c54.jpg
     url: /files/original/14fb29dc0e26f414fb29dc0e2c54.jpg
+    alt:
+      en: "Cookbook page 27 from \"Canary Islands & Spain\" section with recipes for Flan (Carballo) custard by Debbie Carballo and Arroz Con Leche rice pudding, including ingredients and instructions."
 geo:
 id: 25812
 item_type: Still Image

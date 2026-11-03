@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28729.jpg
     thumb: /files/thumbnails/14fb2a6b5571e114fb2a6b5575c7.jpg
     url: /files/original/14fb2a6b5571e114fb2a6b5575c7.jpg
+    alt:
+      en: "A man wearing a stethoscope holds the lead rope of a white horse inside a metal animal pen, with a large fan mounted in the background."
 geo:
   address: ''
   lat: 0.0

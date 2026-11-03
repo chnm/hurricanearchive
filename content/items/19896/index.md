@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0133gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cd484a814fb2a0cd488b5.jpg
     url: /files/original/14fb2a0cd484a814fb2a0cd488b5.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms study a large map labeled \"New Orleans & Vicinity\" marked with \"G2\" and pink highlighted sections, one pointing toward the map's center."
 geo:
 id: 19896
 item_type: Still Image

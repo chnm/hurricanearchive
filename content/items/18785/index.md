@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2214bellechaseJFRB.JPG
     thumb: /files/thumbnails/14fb2a1540003014fb2a1540041e.jpg
     url: /files/original/14fb2a1540003014fb2a1540041e.jpg
+    alt:
+      en: "Military officials in camouflage and flight suits converse on a tarmac beside a white jet, with a photographer capturing the scene and trees visible in the background."
 geo:
 id: 18785
 item_type: Still Image

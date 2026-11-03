@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2066superdome.JPG
     thumb: /files/thumbnails/14fb29deec84e914fb29deec890b.jpg
     url: /files/original/14fb29deec84e914fb29deec890b.jpg
+    alt:
+      en: "A young man in a black shirt and orange \"Harlem Globetrotters\" cap is supported by another man as another person offers him a water bottle, with additional people visible in the background."
 geo:
 id: 25339
 item_type: Still Image

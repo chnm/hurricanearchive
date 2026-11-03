@@ -20,6 +20,8 @@ files:
     original_filename: New Orleans 164_42125bfabe.jpg
     thumb: /files/thumbnails/14fb2a2483c8cc14fb2a2483cb6e.jpg
     url: /files/original/14fb2a2483c8cc14fb2a2483cb6e.jpg
+    alt:
+      en: "A man wades through floodwater carrying a golden retriever, with a damaged home, fallen trees, and workers on a rooftop visible in the background."
 geo:
   address: ''
   lat: 30.03106

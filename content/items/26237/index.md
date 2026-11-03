@@ -24,6 +24,8 @@ files:
     original_filename: AB Little Woods 1950-2_501a7995fe.jpg
     thumb: /files/thumbnails/14fb29d97ac04e14fb29d97ac20a.jpg
     url: /files/original/14fb29d97ac04e14fb29d97ac20a.jpg
+    alt:
+      en: "Black-and-white photo of children on a wooden pier beside water, with sneakers and newspapers scattered on the deck; a sign reads \"PRIVATE KEEP OUT.\""
 geo:
   address: ''
   lat: 29.91685

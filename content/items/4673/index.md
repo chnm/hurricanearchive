@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0624.JPG
     thumb: /files/thumbnails/14fb2a565198b614fb2a56519a60.jpg
     url: /files/original/14fb2a565198b614fb2a56519a60.jpg
+    alt:
+      en: "A large tree with bare, twisted branches and patches of green leaves fills the frame against a clear blue sky, with a glimpse of a building roof visible at the bottom right."
 geo:
 id: 4673
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 076cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e5e3d4f14fb2a0e5e4136.jpg
     url: /files/original/14fb2a0e5e3d4f14fb2a0e5e4136.jpg
+    alt:
+      en: "Street scene viewed through a car windshield showing a black GMC Yukon parked beside a damaged fence and palm tree, with a \"2 Hr Parking Residential Area\" sign and a windshield inspection sticker reading \"Buckle Up Louisiana.\""
 geo:
 id: 19689
 item_type: Still Image

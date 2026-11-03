@@ -18,6 +18,8 @@ files:
     original_filename: 08.jpg
     thumb: /files/thumbnails/62bd8f6f7c1b2bb05f73418d2c5f9fd1.jpg
     url: /files/original/62bd8f6f7c1b2bb05f73418d2c5f9fd1.jpg
+    alt:
+      en: "Corner building with wrought-iron balconies decorated with rainbow flags, umbrellas, and hanging plants, with a \"Good Friends\" sign above the entrance at dusk."
 geo:
   address: French Quarter
   lat: 29.9584426

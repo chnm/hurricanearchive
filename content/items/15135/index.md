@@ -21,6 +21,8 @@ files:
     original_filename: IMG_6271_448c103155.jpg
     thumb: /files/thumbnails/14fb2a16fb8a2714fb2a16fb8fa8.jpg
     url: /files/original/14fb2a16fb8a2714fb2a16fb8fa8.jpg
+    alt:
+      en: "Four men in colorful suits—gray, red, teal, and maroon—stand outside a storefront at 211, several wearing Mardi Gras beads and sunglasses, with \"No Food, No Drinks, No Restrooms\" signs on the glass doors behind them."
 geo:
   address: ''
   lat: 37.77123

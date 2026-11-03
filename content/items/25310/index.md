@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2037superdome.JPG
     thumb: /files/thumbnails/14fb29df41fa5e14fb29df41fe40.jpg
     url: /files/original/14fb29df41fa5e14fb29df41fe40.jpg
+    alt:
+      en: "Military personnel and others help an elderly patient in a hospital gown, carrying an IV bag, across a curb near a chain-link fence and concrete barrier."
 geo:
 id: 25310
 item_type: Still Image

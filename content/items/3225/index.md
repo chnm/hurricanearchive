@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (72).JPG
     thumb: /files/thumbnails/14fb2a5d33c89814fb2a5d33d0c1.jpg
     url: /files/original/14fb2a5d33c89814fb2a5d33d0c1.jpg
+    alt:
+      en: "A storm-damaged used car lot with a sign reading \"USED CARS FOR SALE 822-83...\" sits beside a Victorian-style house, with debris scattered across the lot and street in the foreground."
 geo:
 id: 3225
 item_type: Still Image

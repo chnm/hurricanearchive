@@ -26,6 +26,8 @@ files:
     original_filename: katrina18_668e9e87d5.jpg
     thumb: /files/thumbnails/14fb2a70a3a20414fb2a70a4ba22.jpg
     url: /files/original/14fb2a70a3a20414fb2a70a4ba22.jpg
+    alt:
+      en: "Floodwater surrounds a row of white structures and debris near a tree line, with bare, storm-damaged trees along the water's edge under a hazy sky."
 geo:
   address: ''
   lat: 29.399225762981402

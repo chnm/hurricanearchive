@@ -21,6 +21,8 @@ files:
     original_filename: begin windy3.jpg
     thumb: /files/thumbnails/14fb2a209381c214fb2a209385a9.jpg
     url: /files/original/14fb2a209381c214fb2a209385a9.jpg
+    alt:
+      en: "Sideways photo (needing rotation) of a hazy, fog-shrouded street scene with rooftops, utility poles, and wires, the buildings and background obscured by thick mist or rain."
 geo:
 id: 13070
 item_type: Still Image

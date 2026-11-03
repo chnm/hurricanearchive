@@ -21,6 +21,8 @@ files:
     original_filename: 09140023Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f97ea55414fb29f97ea974.jpg
     url: /files/original/14fb29f97ea55414fb29f97ea974.jpg
+    alt:
+      en: "Soldier in camouflage uniform walks across a parking lot lined with civilian vehicles and military Humvees, set before a columned brick building and bare trees."
 geo:
 id: 22112
 item_type: Still Image

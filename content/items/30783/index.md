@@ -21,6 +21,8 @@ files:
     original_filename: Picture 047.jpg
     thumb: /files/thumbnails/14fb29cc7dd65714fb29cc7dda3e.jpg
     url: /files/original/14fb29cc7dd65714fb29cc7dda3e.jpg
+    alt:
+      en: "Two large trees lean at a steep angle against surrounding woods, their trunks crossing above a dirt path, with a parked minivan visible through the trees in the background."
 geo:
 id: 30783
 item_type: Still Image

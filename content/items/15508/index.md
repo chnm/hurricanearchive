@@ -21,6 +21,8 @@ files:
     original_filename: IMcCormick-42_d45a07dfd3.jpg
     thumb: /files/thumbnails/14fb2a161851ab14fb2a16185586.jpg
     url: /files/original/14fb2a161851ab14fb2a16185586.jpg
+    alt:
+      en: "Vintage hand-tinted photograph of a smiling baby in a pink dress, seated on a crocheted blanket; the print shows significant water damage and surface flaking throughout."
 geo:
 id: 15508
 item_type: Still Image

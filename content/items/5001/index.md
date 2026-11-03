@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0346.JPG
     thumb: /files/thumbnails/14fb2a54846b5e14fb2a54846f44.jpg
     url: /files/original/14fb2a54846b5e14fb2a54846f44.jpg
+    alt:
+      en: "A man walks across the exposed wooden floor foundation of a destroyed house, with debris and a collapsed roof scattered across the yard, while a white metal panel lies in the foreground."
 geo:
 id: 5001
 item_type: Still Image

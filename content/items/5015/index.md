@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0360.JPG
     thumb: /files/thumbnails/14fb2a54682e3714fb2a5468321c.jpg
     url: /files/original/14fb2a54682e3714fb2a5468321c.jpg
+    alt:
+      en: "A yellow tape measure hangs from a wooden beam in a building frame under construction or repair, with bare trees and a cloudy sky visible in the background."
 geo:
 id: 5015
 item_type: Still Image

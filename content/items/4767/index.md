@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0466.JPG
     thumb: /files/thumbnails/14fb2a55b1138514fb2a55b1176b.jpg
     url: /files/original/14fb2a55b1138514fb2a55b1176b.jpg
+    alt:
+      en: "A cleared foundation slab surrounded by scattered bricks, rubble, and debris, with a person standing amid the wreckage and bare trees in the background."
 geo:
 id: 4767
 item_type: Still Image

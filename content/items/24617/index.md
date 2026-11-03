@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0128-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e61a460f14fb29e61a4d05.jpg
     url: /files/original/14fb29e61a460f14fb29e61a4d05.jpg
+    alt:
+      en: "A single-story blue house with a white porch railing stands partially submerged in floodwater, surrounded by bare, leafless trees under a dim sky."
 geo:
 id: 24617
 item_type: Still Image

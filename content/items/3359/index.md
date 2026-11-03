@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview.JPG
     thumb: /files/thumbnails/14fb2a5c379a8414fb2a5c379e94.jpg
     url: /files/original/14fb2a5c379a8414fb2a5c379e94.jpg
+    alt:
+      en: "Worker in protective suit and orange safety vest holds a STOP sign to direct traffic past debris piles, with trucks, cars, and orange cones lining a damaged roadway."
 geo:
 id: 3359
 item_type: Still Image

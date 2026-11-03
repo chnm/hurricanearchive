@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward 9-18-12.JPG
     thumb: /files/thumbnails/14fb2a219cbe5014fb2a219cc234.jpg
     url: /files/original/14fb2a219cbe5014fb2a219cc234.jpg
+    alt:
+      en: "Damaged blue houses with debris scattered in front, a leaning tree stripped of leaves, and an empty street covered in dirt and rubble."
 geo:
 id: 12835
 item_type: Still Image

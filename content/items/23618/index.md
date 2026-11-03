@@ -21,6 +21,8 @@ files:
     original_filename: FEMA boats at Empire, LAempireS&R.jpg
     thumb: /files/thumbnails/14fb29ee7061df14fb29ee70681c.jpg
     url: /files/original/14fb29ee7061df14fb29ee70681c.jpg
+    alt:
+      en: "Aerial view of a narrow flooded roadway with a large helicopter landed on it, surrounded by debris and submerged structures, while a group of people and vehicles gather on the strip of exposed pavement."
 geo:
 id: 23618
 item_type: Still Image

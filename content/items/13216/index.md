@@ -21,6 +21,8 @@ files:
     original_filename: 210 beaumont main.jpg
     thumb: /files/thumbnails/14fb2a1f3a3f1814fb2a1f3a42fd.jpg
     url: /files/original/14fb2a1f3a3f1814fb2a1f3a42fd.jpg
+    alt:
+      en: "Large sheets of twisted metal roofing lie scattered across a downtown street after a storm, with parked cars, traffic signals, and multi-story buildings in the background."
 geo:
 id: 13216
 item_type: Still Image

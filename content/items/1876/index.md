@@ -26,6 +26,8 @@ files:
     original_filename: huricane_046_0babb63af9.jpg
     thumb: /files/thumbnails/14fb2a6e76e7ce14fb2a6e76ebaa.jpg
     url: /files/original/14fb2a6e76e7ce14fb2a6e76ebaa.jpg
+    alt:
+      en: "A flooded New Orleans home with only its rooftop visible above the floodwaters, surrounded by tree branches and the roofs of neighboring houses in the background."
 geo:
   address: ''
   lat: 30.0140373687439

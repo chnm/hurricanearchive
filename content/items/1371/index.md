@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28482.jpg
     thumb: /files/thumbnails/14fb2a69372ada14fb2a69372ecb.jpg
     url: /files/original/14fb2a69372ada14fb2a69372ecb.jpg
+    alt:
+      en: "Flood-damaged room with water-stained walls, an overturned mattress, broken wooden furniture, and debris scattered across the floor."
 geo:
   address: ''
   lat: 0.0

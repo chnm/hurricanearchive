@@ -24,6 +24,8 @@ files:
     original_filename: P1010015.JPG
     thumb: /files/thumbnails/14fb2a5aaeb50414fb2a5aaeb8ec.jpg
     url: /files/original/14fb2a5aaeb50414fb2a5aaeb8ec.jpg
+    alt:
+      en: "A temporary \"STOP\" sign and trash can sit at a street intersection with a non-functioning traffic light, surrounded by storm-damaged trees, houses, and parked cars."
 geo:
 id: 3588
 item_type: Still Image

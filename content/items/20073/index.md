@@ -21,6 +21,8 @@ files:
     original_filename: Picture 170cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b7e4ef614fb2a0b7e52d4.jpg
     url: /files/original/14fb2a0b7e4ef614fb2a0b7e52d4.jpg
+    alt:
+      en: "A damaged, debris-strewn dirt road with standing water and mud, a leaning yellow \"DEAD END\" sign, and utility poles along the horizon."
 geo:
 id: 20073
 item_type: Still Image

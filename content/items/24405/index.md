@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-26-25A.jpg
     thumb: /files/thumbnails/14fb29e837311114fb29e83734f5.jpg
     url: /files/original/14fb29e837311114fb29e83734f5.jpg
+    alt:
+      en: "Hazy, rain-streaked scene with several trucks and a car parked near a blank white sign, utility pole with power lines, and trees barely visible through heavy fog or mist."
 geo:
 id: 24405
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: _MG_5011-sm_57b1555260.jpg
     thumb: /files/thumbnails/14fb2a1a6a732714fb2a1a6a76cb.jpg
     url: /files/original/14fb2a1a6a732714fb2a1a6a76cb.jpg
+    alt:
+      en: "Faded vintage photo of a man and woman lying on a blanket in a grassy field, with a lone tree and distant shoreline in the background."
 geo:
 id: 14248
 item_type: Still Image

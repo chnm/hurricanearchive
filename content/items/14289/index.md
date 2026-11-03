@@ -21,6 +21,8 @@ files:
     original_filename: aerials13.jpg
     thumb: /files/thumbnails/14fb2a1a231f8d14fb2a1a233aab.jpg
     url: /files/original/14fb2a1a231f8d14fb2a1a233aab.jpg
+    alt:
+      en: "Aerial view of widespread storm debris and splintered, uprooted trees scattered across a wooded area, with a railroad track running along the bottom of the scene."
 geo:
 id: 14289
 item_type: Still Image

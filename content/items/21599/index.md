@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0332-9-25-3-9-25.JPG
     thumb: /files/thumbnails/14fb29fd30a63314fb29fd30aa1a.jpg
     url: /files/original/14fb29fd30a63314fb29fd30aa1a.jpg
+    alt:
+      en: "Aerial view of a flooded residential street with brown floodwater surrounding houses, scattered debris, trees, and utility poles with downed lines."
 geo:
 id: 21599
 item_type: Still Image

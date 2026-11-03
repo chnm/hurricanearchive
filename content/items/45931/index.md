@@ -17,6 +17,8 @@ files:
     original_filename: DSC00569.JPG
     thumb: /files/thumbnails/639432642053c03466ddcc5dc052ed56.jpg
     url: /files/original/639432642053c03466ddcc5dc052ed56.JPG
+    alt:
+      en: "Men gather under a blue pop-up tent beside a Shell gas station, with a hand-lettered sign reading \"CHILL THE BARBER\" posted on a nearby utility pole, as one man cuts another's hair."
 geo:
   address: new orleans
   lat: 29.9510658

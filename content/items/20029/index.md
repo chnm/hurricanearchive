@@ -21,6 +21,8 @@ files:
     original_filename: Picture 126cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0ba1b70d14fb2a0ba1ba20.jpg
     url: /files/original/14fb2a0ba1b70d14fb2a0ba1ba20.jpg
+    alt:
+      en: "A toppled utility pole with attached transformers and wires lies across a grassy roadside, while a yellow tractor with attached equipment drives down the adjacent road under a clear blue sky."
 geo:
 id: 20029
 item_type: Still Image

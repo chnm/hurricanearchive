@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2232engineers.JPG
     thumb: /files/thumbnails/14fb2a10aedf1714fb2a10aee2fc.jpg
     url: /files/original/14fb2a10aedf1714fb2a10aee2fc.jpg
+    alt:
+      en: "A worker in camouflage clothing and red chainsaw chaps uses a Stihl chainsaw to clear fallen tree debris, wearing a yellow hard hat, safety glasses, and a dust mask."
 geo:
 id: 19373
 item_type: Still Image

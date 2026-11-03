@@ -24,6 +24,8 @@ files:
     original_filename: Presidential Visit
     thumb: /files/thumbnails/14fb2a58c9039014fb2a58c90775.jpg
     url: /files/original/14fb2a58c9039014fb2a58c90775.jpg
+    alt:
+      en: "A man in a checkered shirt greets a line of uniformed Coast Guard members outdoors near a building, while photographers capture the moment and two onlookers stand on a balcony above."
 geo:
 id: 3950
 item_type: Still Image

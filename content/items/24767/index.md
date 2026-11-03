@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2089superdome.JPG
     thumb: /files/thumbnails/14fb29e4f7e38014fb29e4f809e0.jpg
     url: /files/original/14fb29e4f7e38014fb29e4f809e0.jpg
+    alt:
+      en: "Military Humvees and trucks parked beneath the curved metal overhang of the Superdome on a wet, overcast day, with a building reading \"Delgado Community College\" visible in the background."
 geo:
 id: 24767
 item_type: Still Image

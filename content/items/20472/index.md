@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020-15.JPG
     thumb: /files/thumbnails/14fb2a06febe3214fb2a06fec218.jpg
     url: /files/original/14fb2a06febe3214fb2a06fec218.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood with closely packed rooftops and trees, bordered by a body of water, with dark cloud or aircraft shadows framing parts of the photo."
 geo:
 id: 20472
 item_type: Still Image

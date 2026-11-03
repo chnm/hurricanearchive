@@ -21,6 +21,8 @@ files:
     original_filename: LAANG-Photo-04.jpg
     thumb: /files/thumbnails/14fb29d0806aca14fb29d0806eb0.jpg
     url: /files/original/14fb29d0806aca14fb29d0806eb0.jpg
+    alt:
+      en: "Rows of steel-framed carport structures with torn and partially shredded fabric roofing stand over an empty paved lot, with hangar buildings and a parked truck visible in the background."
 geo:
 id: 29035
 item_type: Still Image

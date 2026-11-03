@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017M.JPG
     thumb: /files/thumbnails/14fb2a0710599e14fb2a07105d84.jpg
     url: /files/original/14fb2a0710599e14fb2a07105d84.jpg
+    alt:
+      en: "Twin parallel concrete highway bridges cross a waterway lined with dense trees, with a motorcycle and two cars visible on the upper roadway against a clear blue sky."
 geo:
 id: 20455
 item_type: Still Image

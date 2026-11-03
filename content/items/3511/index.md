@@ -24,6 +24,8 @@ files:
     original_filename: P1010085.JPG
     thumb: /files/thumbnails/14fb2a5b41125714fb2a5b4116ad.jpg
     url: /files/original/14fb2a5b41125714fb2a5b4116ad.jpg
+    alt:
+      en: "Row of damaged, boarded-up storefronts along Franklin Avenue, with debris scattered on the sidewalk and street, under a street sign reading \"Franklin Av.\""
 geo:
 id: 3511
 item_type: Still Image

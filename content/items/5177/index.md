@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0539.JPG
     thumb: /files/thumbnails/14fb2a537dfb0b14fb2a537dfee2.jpg
     url: /files/original/14fb2a537dfb0b14fb2a537dfee2.jpg
+    alt:
+      en: "A yellow tape measure spans a wooden post, showing a width of about 11 inches; a green bottle cap is nailed to the post above, with trees and water visible in the background."
 geo:
 id: 5177
 item_type: Still Image

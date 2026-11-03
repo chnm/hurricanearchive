@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA, Lakeview (10).JPG
     thumb: /files/thumbnails/14fb2a5c518a1714fb2a5c518dfc.jpg
     url: /files/original/14fb2a5c518a1714fb2a5c518dfc.jpg
+    alt:
+      en: "A yellow Caterpillar wheel loader with trailer sits on bare dirt near a gravel-covered lot, with damaged houses, bare trees, and power lines in the background under a partly cloudy sky."
 geo:
 id: 3344
 item_type: Still Image

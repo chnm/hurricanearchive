@@ -21,6 +21,8 @@ files:
     original_filename: atop the levee1.jpg
     thumb: /files/thumbnails/14fb2a1f05603b14fb2a1f05641b.jpg
     url: /files/original/14fb2a1f05603b14fb2a1f05641b.jpg
+    alt:
+      en: "Grassy levee slopes down to a wide river where a cluster of docked shrimp boats with tall masts line the far bank, with partially submerged debris visible near the shore."
 geo:
 id: 13235
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: darrylbreauxfootball_cf0bab32a1.jpg
     thumb: /files/thumbnails/14fb29d78201cc14fb29d78203ca.jpg
     url: /files/original/14fb29d78201cc14fb29d78203ca.jpg
+    alt:
+      en: "A group of teenage boys pose together in a locker room, several wearing football pads and helmets, one dressed in a cheerleader outfit with pom-poms; caption reads \"H.C. cheerleader Darryl Breaux tantalized members of the Senior Skit.\""
 geo:
 id: 26840
 item_type: Still Image

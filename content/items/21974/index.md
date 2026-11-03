@@ -21,6 +21,8 @@ files:
     original_filename: Picture 305-J2.jpg
     thumb: /files/thumbnails/14fb29fac76a8514fb29fac76e6a.jpg
     url: /files/original/14fb29fac76a8514fb29fac76e6a.jpg
+    alt:
+      en: "A city skyline featuring a large domed stadium with a gray and yellow curved roof, flanked by office buildings, with an elevated highway, overpasses, and a large sign reading \"Welcome St. Wilbert\" in the foreground."
 geo:
 id: 21974
 item_type: Still Image

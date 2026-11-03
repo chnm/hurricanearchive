@@ -20,6 +20,8 @@ files:
     original_filename: 2433991503_ee9dacc886.
     thumb: /files/thumbnails/14fb29c958976814fb29c95899c4.jpg
     url: /files/original/14fb29c958976814fb29c95899c4.jpg
+    alt:
+      en: "Storm-damaged property with a partially collapsed, roofless building under large trees, debris and scattered branches on the ground, yellow caution tape, and a chain-link fence in the foreground."
 geo:
 id: 34712
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 392-J2.jpg
     thumb: /files/thumbnails/14fb29f9b8a9ca14fb29f9b8adaf.jpg
     url: /files/original/14fb29f9b8a9ca14fb29f9b8adaf.jpg
+    alt:
+      en: "A young woman with wet hair and a black t-shirt sits cross-legged on a cot in a shelter, surrounded by sleeping bags, pillows, and camping gear lined up against a wall."
 geo:
 id: 22061
 item_type: Still Image

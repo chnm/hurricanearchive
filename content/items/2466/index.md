@@ -24,6 +24,8 @@ files:
     original_filename: 20051101_MG_8491.jpg
     thumb: /files/thumbnails/14fb2a664421d014fb2a664425b3.jpg
     url: /files/original/14fb2a664421d014fb2a664425b3.jpg
+    alt:
+      en: "A displaced \"Lacassagne's\" delivery trailer rests atop a debris pile, surrounded by storm wreckage, splintered wood, and downed trees along Lakeview Drive in Slidell, Louisiana."
 geo:
 id: 2466
 item_type: Still Image

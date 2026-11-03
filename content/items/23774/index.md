@@ -21,6 +21,8 @@ files:
     original_filename: PICT0090neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ed2bf4b414fb29ed2bf5b6.jpg
     url: /files/original/14fb29ed2bf4b414fb29ed2bf5b6.jpg
+    alt:
+      en: "Street scene dated 09.15.2005 with a military vehicle mirror in foreground, a \"100\" painted on the road, a blue dumpster, a \"Forces Inc.\" moving truck, brick buildings, and a School Speed Limit 20 sign."
 geo:
 id: 23774
 item_type: Still Image

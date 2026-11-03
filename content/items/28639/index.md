@@ -23,6 +23,8 @@ files:
     original_filename: 158786339_20fbf929c2.jpg
     thumb: /files/thumbnails/14fb29d1f7dfc814fb29d1f7e4e4.jpg
     url: /files/original/14fb29d1f7dfc814fb29d1f7e4e4.jpg
+    alt:
+      en: "Storm-damaged neighborhood with debris scattered across a yard and street, a silver car parked near a group of people holding equipment, and a damaged house in the background, Lower 9th Ward, New Orleans."
 geo:
 id: 28639
 item_type: Still Image

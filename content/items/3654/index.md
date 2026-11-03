@@ -24,6 +24,8 @@ files:
     original_filename: P1010090.JPG
     thumb: /files/thumbnails/14fb2a5a56c80114fb2a5a56cbe2.jpg
     url: /files/original/14fb2a5a56c80114fb2a5a56cbe2.jpg
+    alt:
+      en: "Debris-strewn yard in front of a storm-damaged brick house, with a discarded bathtub, broken window frames, buckets, and scattered rubble covering the ground."
 geo:
 id: 3654
 item_type: Still Image

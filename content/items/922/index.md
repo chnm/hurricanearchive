@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28640.jpg
     thumb: /files/thumbnails/14fb2a6c3023b514fb2a6c3027a5.jpg
     url: /files/original/14fb2a6c3023b514fb2a6c3027a5.jpg
+    alt:
+      en: "Two men on ladders work on the metal siding of a building reading \"A ST,\" beside an open wooden-framed structure stacked with lumber."
 geo:
   address: ''
   lat: 0.0

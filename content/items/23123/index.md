@@ -21,6 +21,8 @@ files:
     original_filename: 051003-A-2604S-0030WestVirginiaNG.jpg
     thumb: /files/thumbnails/14fb29f17752d614fb29f17756bd.jpg
     url: /files/original/14fb29f17752d614fb29f17756bd.jpg
+    alt:
+      en: "A man in military camouflage uniform and glasses leans toward another man wearing a white cap and shirt, both handling a cardboard box labeled \"TEMPERATURE,\" with trees visible in the background."
 geo:
 id: 23123
 item_type: Still Image

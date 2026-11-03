@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-04-2A.jpg
     thumb: /files/thumbnails/14fb29e88446ae14fb29e8844a41.jpg
     url: /files/original/14fb29e88446ae14fb29e8844a41.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with brown water submerging a white building's lower windows and doors, with a partially visible rooftop HVAC unit, a floating tire, and two red vehicle roofs peeking above the waterline."
 geo:
 id: 24356
 item_type: Still Image

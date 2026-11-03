@@ -20,6 +20,8 @@ files:
     original_filename: 2421690906_44c3fdc222.
     thumb: /files/thumbnails/14fb29c90e030b14fb29c90e08dc.jpg
     url: /files/original/14fb29c90e030b14fb29c90e08dc.jpg
+    alt:
+      en: "Weathered green wooden house with corrugated metal roof, broken screen door, and a yellow \"REEDA\" sign; house number \"283 53\" marked above the open doorway."
 geo:
 id: 34736
 item_type: Still Image

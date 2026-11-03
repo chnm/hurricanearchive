@@ -21,6 +21,8 @@ files:
     original_filename: S4300014zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f3536a114fb2a0f354d5d.jpg
     url: /files/original/14fb2a0f3536a114fb2a0f354d5d.jpg
+    alt:
+      en: "Close-up of a white emergency vehicle door with \"MIAMI-DADE FIRE RESCUE\" in green lettering, above yellow and green horizontal stripes."
 geo:
 id: 19560
 item_type: Still Image

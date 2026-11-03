@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0010media.JPG
     thumb: /files/thumbnails/14fb29f2c18a6114fb29f2c18f8e.jpg
     url: /files/original/14fb29f2c18a6114fb29f2c18f8e.jpg
+    alt:
+      en: "Woman wearing a headset with boom microphone and safety harness smiles inside an aircraft, with a person in camouflage fatigues bearing a U.S. flag patch seated beside her."
 geo:
 id: 22908
 item_type: Still Image

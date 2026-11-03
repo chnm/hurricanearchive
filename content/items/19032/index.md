@@ -21,6 +21,8 @@ files:
     original_filename: S4300213MSriver.JPG
     thumb: /files/thumbnails/14fb2a13904a6a14fb2a13904e55.jpg
     url: /files/original/14fb2a13904a6a14fb2a13904e55.jpg
+    alt:
+      en: "Waterfront view of the Riverwalk building, labeled \"RIVERWALK,\" along a pier with a row of docked vehicles, set against a city skyline featuring high-rise buildings including a Sheraton and Hilton hotel."
 geo:
 id: 19032
 item_type: Still Image

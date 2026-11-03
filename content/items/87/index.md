@@ -26,6 +26,8 @@ files:
     original_filename: 100_5908_166d97a143.JPG
     thumb: /files/thumbnails/14fb2a7117802614fb2a711787f3.jpg
     url: /files/original/14fb2a7117802614fb2a711787f3.jpg
+    alt:
+      en: "Two high-rise buildings in New Orleans, one dark glass tower with scattered boarded windows and another curved building with a mosaic of broken and intact panes below a partial \"HYATT\" sign, dated 11/15/2005."
 geo:
   address: ''
   lat: 30.005653

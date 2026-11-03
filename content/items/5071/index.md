@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0416.JPG
     thumb: /files/thumbnails/14fb2a5419ba4e14fb2a5419be34.jpg
     url: /files/original/14fb2a5419ba4e14fb2a5419be34.jpg
+    alt:
+      en: "Storm-damaged two-story house with exposed framing and missing siding stands on pilings above a debris-strewn lot, with bare trees and a dirt road in the foreground under a clear sky."
 geo:
 id: 5071
 item_type: Still Image

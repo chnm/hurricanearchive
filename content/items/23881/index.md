@@ -21,6 +21,8 @@ files:
     original_filename: Soldier with BabyneworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eca14a8814fb29eca14e5c.jpg
     url: /files/original/14fb29eca14a8814fb29eca14e5c.jpg
+    alt:
+      en: "A soldier in camouflage uniform and cap gently cradles a young child's head, holding the baby close against a backdrop of dark, rippling floodwater."
 geo:
 id: 23881
 item_type: Still Image

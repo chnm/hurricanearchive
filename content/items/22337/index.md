@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1151Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f743acde14fb29f743b252.jpg
     url: /files/original/14fb29f743acde14fb29f743b252.jpg
+    alt:
+      en: "Two vehicles nearly submerged in floodwater, viewed through overhanging tree branches, with a partially visible street sign and buildings in the hazy background."
 geo:
 id: 22337
 item_type: Still Image

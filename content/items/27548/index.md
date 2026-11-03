@@ -24,6 +24,8 @@ files:
     original_filename: _MG_7129_5fb18805d3.jpg
     thumb: /files/thumbnails/14fb29d37d488914fb29d37d5c21.jpg
     url: /files/original/14fb29d37d488914fb29d37d5c21.jpg
+    alt:
+      en: "A young girl in a red and white checkered dress stands on a lawn in front of a house numbered 500, with purple flowers, a lantern light, and an American flag visible nearby."
 geo:
   address: ''
   lat: 29.87876

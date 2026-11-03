@@ -24,6 +24,8 @@ files:
     original_filename: P1010043.JPG
     thumb: /files/thumbnails/14fb2a5a9f17b314fb2a5a9f1b98.jpg
     url: /files/original/14fb2a5a9f17b314fb2a5a9f1b98.jpg
+    alt:
+      en: "A row of sports trophies with gold and silver figurines lined up on a table in front of pink metal lockers in a locker room."
 geo:
 id: 3614
 item_type: Still Image

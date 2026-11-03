@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0062-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a04cb042a14fb2a04cb0b91.jpg
     url: /files/original/14fb2a04cb042a14fb2a04cb0b91.jpg
+    alt:
+      en: "Aerial view of a washed-out roadway ending abruptly at muddy floodwaters, with a collapsed utility pole, scattered debris, and remnants of a bridge or pier structure submerged nearby."
 geo:
 id: 20709
 item_type: Still Image

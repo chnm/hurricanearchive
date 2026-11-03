@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28624.jpg
     thumb: /files/thumbnails/14fb2a6cdd41ac14fb2a6cdd4592.jpg
     url: /files/original/14fb2a6cdd41ac14fb2a6cdd4592.jpg
+    alt:
+      en: "Damaged roof of a brick house with dark asphalt shingles, cream-colored trim, and a visible hole exposing wooden rafters, with tree shadows cast across the surface."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29efed177814fb29efed201e.jpg
     url: /files/original/14fb29efed177814fb29efed201e.jpg
+    alt:
+      en: "A military-style truck plows through a flooded road lined with trees, sending large splashes of water into the air as two people are visible in the cab."
 geo:
 id: 23330
 item_type: Still Image

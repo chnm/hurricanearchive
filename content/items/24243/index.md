@@ -21,6 +21,8 @@ files:
     original_filename: 09140024.JPG
     thumb: /files/thumbnails/14fb29e974fa6214fb29e974fe38.jpg
     url: /files/original/14fb29e974fa6214fb29e974fe38.jpg
+    alt:
+      en: "Row of portable toilets labeled \"VANTEX\" lines a street beside a storm-damaged white house with a hole in its roof and a large fallen tree limb resting against it, with debris piled nearby."
 geo:
 id: 24243
 item_type: Still Image

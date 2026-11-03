@@ -21,6 +21,8 @@ files:
     original_filename: Picture 283-J2.jpg
     thumb: /files/thumbnails/14fb29fae006b814fb29fae00d7b.jpg
     url: /files/original/14fb29fae006b814fb29fae00d7b.jpg
+    alt:
+      en: "Military Humvees with personnel parked on a roadway in the foreground, overlooking a residential neighborhood with rooftops, trees, and a cloudy sky in the background."
 geo:
 id: 21952
 item_type: Still Image

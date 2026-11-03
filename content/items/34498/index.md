@@ -27,6 +27,8 @@ files:
     original_filename: 2309933823_c6202da62a.
     thumb: /files/thumbnails/14fb29c9ac3dde14fb29c9ac41c3.jpg
     url: /files/original/14fb29c9ac3dde14fb29c9ac41c3.jpg
+    alt:
+      en: "Damaged wooden pier with exposed cross-braced pilings extending into calm water, missing its decking in sections, with a covered platform visible in the distance under a hazy sky."
 geo:
   address: 237 Debbie Drive
   lat: 30.22539

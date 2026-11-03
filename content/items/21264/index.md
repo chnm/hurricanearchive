@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0210-9-25-2.JPG
     thumb: /files/thumbnails/14fb29ffb5a6aa14fb29ffb5aa90.jpg
     url: /files/original/14fb29ffb5a6aa14fb29ffb5aa90.jpg
+    alt:
+      en: "Close-up of a person in desert camouflage uniform with a U.S. flag patch, bending over equipment including a helmet and aerosol can inside a vehicle or aircraft compartment."
 geo:
 id: 21264
 item_type: Still Image

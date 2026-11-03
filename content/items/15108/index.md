@@ -21,6 +21,8 @@ files:
     original_filename: Orientation03 (11)-8_c4a5f090c5.jpg
     thumb: /files/thumbnails/14fb2a171a301414fb2a171a33f2.jpg
     url: /files/original/14fb2a171a301414fb2a171a33f2.jpg
+    alt:
+      en: "A woman in a white shirt helps a seated mother and children review an orange and blue pamphlet in an auditorium, with other attendees seated nearby."
 geo:
 id: 15108
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300007zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f41b90d14fb2a0f41bcf4.jpg
     url: /files/original/14fb2a0f41b90d14fb2a0f41bcf4.jpg
+    alt:
+      en: "A soldier in camouflage leans out of a military vehicle's window, speaking with another soldier holding an open notebook, while a third soldier in a camouflage cap stands nearby."
 geo:
 id: 19553
 item_type: Still Image

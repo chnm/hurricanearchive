@@ -21,6 +21,8 @@ files:
     original_filename: PICT0259Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4bd33c414fb29f4bd37b4.jpg
     url: /files/original/14fb29f4bd33c414fb29f4bd37b4.jpg
+    alt:
+      en: "White sedan and SUV parked along a sidewalk near multi-story brick buildings, with a military Humvee and clothesline visible in the background; date stamp reads 09.15.2005."
 geo:
 id: 22692
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-13-12A.jpg
     thumb: /files/thumbnails/14fb29e86b486714fb29e86b4c4c.jpg
     url: /files/original/14fb29e86b486714fb29e86b4c4c.jpg
+    alt:
+      en: "Floodwater submerges a white house's lower walls and a shrub-topped deck, with muddy water flowing past rooftops of nearby vehicles in the foreground."
 geo:
 id: 24365
 item_type: Still Image

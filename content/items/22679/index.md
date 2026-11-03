@@ -21,6 +21,8 @@ files:
     original_filename: PICT0201Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c66cd414fb29f4c670b2.jpg
     url: /files/original/14fb29f4c66cd414fb29f4c670b2.jpg
+    alt:
+      en: "Damaged single-story buildings and dried brown grass with debris, a \"GAS LINE\" marker post, downed power lines, and a car parked nearby; dated 09.16.2005."
 geo:
 id: 22679
 item_type: Still Image

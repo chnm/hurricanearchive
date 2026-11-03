@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28619.jpg
     thumb: /files/thumbnails/14fb2a6ad7a84814fb2a6ad7ac2d.jpg
     url: /files/original/14fb2a6ad7a84814fb2a6ad7ac2d.jpg
+    alt:
+      en: "A chaotic pile of bent metal poles and street signs, including partial text \"Galvez,\" a red \"DO\" sign fragment, a white \"ON\" sign, and a faded stop sign, scattered in a scrap heap."
 geo:
   address: ''
   lat: 0.0

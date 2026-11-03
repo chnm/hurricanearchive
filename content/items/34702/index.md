@@ -20,6 +20,8 @@ files:
     original_filename: 2434803346_8e58caaa60.
     thumb: /files/thumbnails/14fb29c96eb2cc14fb29c96eba92.jpg
     url: /files/original/14fb29c96eb2cc14fb29c96eba92.jpg
+    alt:
+      en: "Collapsed building with exposed roof framing and scattered debris sits amid trees, with a white box truck parked nearby and cinder blocks stacked on the ground."
 geo:
 id: 34702
 item_type: Still Image

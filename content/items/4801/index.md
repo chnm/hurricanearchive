@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0114.JPG
     thumb: /files/thumbnails/14fb2a55610d3714fb2a55611112.jpg
     url: /files/original/14fb2a55610d3714fb2a55611112.jpg
+    alt:
+      en: "Debris and collapsed structures lie scattered among tall pine trees beside a two-lane road, with scattered boards and metal sheeting visible in the wooded area."
 geo:
 id: 4801
 item_type: Still Image

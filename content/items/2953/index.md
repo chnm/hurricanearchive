@@ -21,6 +21,8 @@ files:
     original_filename: MVC-008S.JPG
     thumb: /files/thumbnails/14fb2a5f7a70ce14fb2a5f7a74b4.jpg
     url: /files/original/14fb2a5f7a70ce14fb2a5f7a74b4.jpg
+    alt:
+      en: "A long low bridge spans a wide body of brownish water under a clear blue sky, with a row of remnant wooden pilings and a damaged dock structure in the foreground."
 geo:
 id: 2953
 item_type: Still Image

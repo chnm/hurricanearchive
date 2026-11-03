@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28087.jpg
     thumb: /files/thumbnails/14fb2a69c6d30e14fb2a69c6d700.jpg
     url: /files/original/14fb2a69c6d30e14fb2a69c6d700.jpg
+    alt:
+      en: "Weathered double doors with Star of David carvings and dark metal handles, a small circular peephole above, and a piece of white paper tucked between the handles."
 geo:
   address: ''
   lat: 0.0

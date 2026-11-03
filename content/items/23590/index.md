@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1590hyattneworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ee96517a14fb29ee965562.jpg
     url: /files/original/14fb29ee96517a14fb29ee965562.jpg
+    alt:
+      en: "High-rise Hyatt hotel with storm-damaged windows, broken glass, and curtains or fabric billowing out of numerous shattered openings across multiple floors; adjacent dark glass buildings flank the scene."
 geo:
 id: 23590
 item_type: Still Image

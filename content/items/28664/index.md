@@ -25,6 +25,8 @@ files:
     original_filename: 158072450_8e9818c3a7.jpg
     thumb: /files/thumbnails/14fb29d1db92fe14fb29d1dbc664.jpg
     url: /files/original/14fb29d1db92fe14fb29d1dbc664.jpg
+    alt:
+      en: "Severely storm-damaged single-story house with a partially collapsed roof, debris scattered across the yard, and an adjacent structure also damaged, set along a quiet street under a partly cloudy sky."
 geo:
 id: 28664
 item_type: Still Image

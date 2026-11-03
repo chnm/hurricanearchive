@@ -24,6 +24,8 @@ files:
     original_filename: P1010129.JPG
     thumb: /files/thumbnails/14fb2a5adc125014fb2a5adc162f.jpg
     url: /files/original/14fb2a5adc125014fb2a5adc162f.jpg
+    alt:
+      en: "Damaged storefronts with broken windows, boarded glass, and debris piled outside a strip mall featuring signs for Mona's Cafe, The Italian Pie, and a wine/salon shop."
 geo:
 id: 3553
 item_type: Still Image

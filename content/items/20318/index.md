@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0251-9-18.JPG
     thumb: /files/thumbnails/14fb2a0976cc6b14fb2a0976d0cb.jpg
     url: /files/original/14fb2a0976cc6b14fb2a0976d0cb.jpg
+    alt:
+      en: "Silhouette of a helmeted person inside a cockpit or vehicle, with the sun glowing brightly through the windshield and a green light reflection visible in the lower left."
 geo:
 id: 20318
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.110.JPG
     thumb: /files/thumbnails/14fb29dce61a3f14fb29dce61e24.jpg
     url: /files/original/14fb29dce61a3f14fb29dce61e24.jpg
+    alt:
+      en: "A severely damaged white wood-frame house with peeling paint, exposed interior, and a rusted tin roof, surrounded by scattered debris and overgrown vegetation, with bare and leafy trees in the background."
 geo:
 id: 25651
 item_type: Still Image

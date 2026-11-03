@@ -26,6 +26,8 @@ files:
     original_filename: houseinswampesther_ec92c1c73a.jpg
     thumb: /files/thumbnails/14fb2a5721c52a14fb2a5721c898.jpg
     url: /files/original/14fb2a5721c52a14fb2a5721c898.jpg
+    alt:
+      en: "A small house with a metal roof sits abandoned among dense trees and palmetto undergrowth in a swampy, overgrown landscape."
 geo:
   address: ''
   lat: 29.84362

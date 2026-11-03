@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0004OEP.JPG
     thumb: /files/thumbnails/14fb29f233185d14fb29f2331c43.jpg
     url: /files/original/14fb29f233185d14fb29f2331c43.jpg
+    alt:
+      en: "A military helicopter sits on a grassy field beside a weathered soccer goal and chain-link fence, with trees and buildings visible in the background under a clear sky."
 geo:
 id: 22994
 item_type: Still Image

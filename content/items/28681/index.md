@@ -25,6 +25,8 @@ files:
     original_filename: 157224367_f21fdf85d0.jpg
     thumb: /files/thumbnails/14fb29d1c5996814fb29d1c59d4e.jpg
     url: /files/original/14fb29d1c5996814fb29d1c59d4e.jpg
+    alt:
+      en: "Green wooden fence gate with a large orange spray-painted X and the numbers \"9/16\" and \"5/8,\" beside a white sign reading \"PATSY P.S. WATCH MY PLACE THEY'RE BREAKING IN.\""
 geo:
 id: 28681
 item_type: Still Image

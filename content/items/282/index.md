@@ -26,6 +26,8 @@ files:
     original_filename: boat_2_204564fc60.jpg
     thumb: /files/thumbnails/14fb2a7053942e14fb2a705397eb.jpg
     url: /files/original/14fb2a7053942e14fb2a705397eb.jpg
+    alt:
+      en: "A large boat sits stranded on a debris-covered roadside beside palm trees, having been swept from Lake Pontchartrain onto Old Hammond Highway."
 geo:
   address: ''
   lat: 30.0200571903003

@@ -17,6 +17,8 @@ files:
     original_filename: download (1)rry.jpg
     thumb: /files/thumbnails/a1da15b7aae454f56c0b4249da7e4921.jpg
     url: /files/original/a1da15b7aae454f56c0b4249da7e4921.jpg
+    alt:
+      en: "A large uprooted tree lies collapsed against a backyard shed and brick house, with debris, broken boards, and scattered branches covering the grass beside a wooden fence."
 geo:
 id: 45904
 item_type: Still Image

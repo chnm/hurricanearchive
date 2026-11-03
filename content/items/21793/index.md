@@ -21,6 +21,8 @@ files:
     original_filename: katrina 063.jpg
     thumb: /files/thumbnails/14fb29fbba56ae14fb29fbba5a8b.jpg
     url: /files/original/14fb29fbba56ae14fb29fbba5a8b.jpg
+    alt:
+      en: "Empty downtown intersection at Canal Street with debris-strewn pavement, a parked police cruiser, fire trucks with a raised ladder near a smoke-damaged Saks Fifth Avenue storefront, and high-rise buildings including a Wyndham hotel."
 geo:
 id: 21793
 item_type: Still Image

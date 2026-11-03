@@ -21,6 +21,8 @@ files:
     original_filename: Picture 079engineers.jpg
     thumb: /files/thumbnails/14fb2a0f94f06914fb2a0f94f457.jpg
     url: /files/original/14fb2a0f94f06914fb2a0f94f457.jpg
+    alt:
+      en: "Aerial view of a collapsed and misaligned drawbridge over water on HWY LA 11, with the roadway sections offset and a barge nearby; part of an aircraft wing is visible in the lower right corner."
 geo:
 id: 19519
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0152abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef24492014fb29ef24638e.jpg
     url: /files/original/14fb29ef24492014fb29ef24638e.jpg
+    alt:
+      en: "A storm-damaged building with its metal roofing and siding twisted and torn apart, standing amid scattered debris, mud, and standing water, with a small red house visible in the background."
 geo:
 id: 23516
 item_type: Still Image

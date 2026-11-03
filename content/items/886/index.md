@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28491.jpg
     thumb: /files/thumbnails/14fb2a6c81254114fb2a6c812927.jpg
     url: /files/original/14fb2a6c81254114fb2a6c812927.jpg
+    alt:
+      en: "Interior of a storm-damaged building showing a dark door marked with orange spray-painted search-and-rescue symbols and \"9-16,\" beside a broken window and debris-covered floor."
 geo:
   address: ''
   lat: 0.0

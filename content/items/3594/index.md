@@ -24,6 +24,8 @@ files:
     original_filename: P1010021.JPG
     thumb: /files/thumbnails/14fb2a5aab3aa214fb2a5aab3e90.jpg
     url: /files/original/14fb2a5aab3aa214fb2a5aab3e90.jpg
+    alt:
+      en: "A ceramic pitcher-shaped lamp, its electrical cord wrapped around the base, sits atop a grimy table amid storm debris including a wicker chair, backpack, and CD case."
 geo:
 id: 3594
 item_type: Still Image

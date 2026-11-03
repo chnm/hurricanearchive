@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0029cameron2S&R.JPG
     thumb: /files/thumbnails/14fb29e9ecc43514fb29e9eccc58.jpg
     url: /files/original/14fb29e9ecc43514fb29e9eccc58.jpg
+    alt:
+      en: "Aerial view of a long bridge spanning a wide river bordered by flooded marshland and scattered vegetation, with a hazy, overcast sky stretching into the distance."
 geo:
 id: 24192
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2168neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f042a4e314fb29f042aa9e.jpg
     url: /files/original/14fb29f042a4e314fb29f042aa9e.jpg
+    alt:
+      en: "A building engulfed in flames with thick black smoke rising above a deserted New Orleans street at the Poydras Street intersection, brick buildings and city high-rises in the background."
 geo:
 id: 23258
 item_type: Still Image

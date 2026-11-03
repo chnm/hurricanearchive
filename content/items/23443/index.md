@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0107abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef68a24d14fb29ef68a639.jpg
     url: /files/original/14fb29ef68a24d14fb29ef68a639.jpg
+    alt:
+      en: "A small aluminum boat with registration \"LA 3833 FL\" speeds across a marsh waterway carrying three men, with bare, storm-damaged trees lining the bank in the background."
 geo:
 id: 23443
 item_type: Still Image

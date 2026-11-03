@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0187cowanmedia.JPG
     thumb: /files/thumbnails/14fb29f279c75014fb29f279cb5c.jpg
     url: /files/original/14fb29f279c75014fb29f279cb5c.jpg
+    alt:
+      en: "A soldier with an \"COWAN\" nametag and American flag patch is interviewed by a Fox News reporter holding a microphone, surrounded by photographers with cameras on a tree-lined sidewalk."
 geo:
 id: 22954
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Lake Charles Guard TOC.JPG
     thumb: /files/thumbnails/14fb2a1b5e62df14fb2a1b5e6e82.jpg
     url: /files/original/14fb2a1b5e62df14fb2a1b5e6e82.jpg
+    alt:
+      en: "Aerial view of a water park and recreation building beside a large parking lot staged with military vehicles and school buses, timestamped 09.26.2005 12:23."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (6).JPG
     thumb: /files/thumbnails/14fb2a5dd4412c14fb2a5dd44518.jpg
     url: /files/original/14fb2a5dd4412c14fb2a5dd44518.jpg
+    alt:
+      en: "A large fallen tree and tangled power lines block a residential street at sunset, with a white house visible in the background amid storm debris."
 geo:
 id: 3120
 item_type: Still Image

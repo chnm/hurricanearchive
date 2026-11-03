@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0074H.JPG
     thumb: /files/thumbnails/14fb2a03ee3f5f14fb2a03eefc1c.jpg
     url: /files/original/14fb2a03ee3f5f14fb2a03eefc1c.jpg
+    alt:
+      en: "A smiling woman with short dark hair and glasses stands close to a man in a military camouflage uniform, who is adjusting or interacting with her clothing near her shoulder."
 geo:
 id: 20770
 item_type: Still Image

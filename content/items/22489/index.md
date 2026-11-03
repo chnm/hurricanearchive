@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1330Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5f26cac14fb29f5f2708e.jpg
     url: /files/original/14fb29f5f26cac14fb29f5f2708e.jpg
+    alt:
+      en: "Severe flooding submerges buildings up to their rooftops, with only a cupola and roof peaks visible above the water; a blue water tower and storm-battered trees loom in the misty background."
 geo:
 id: 22489
 item_type: Still Image

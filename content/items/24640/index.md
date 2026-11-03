@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014medics.JPG
     thumb: /files/thumbnails/14fb29e5dc141f14fb29e5dc3786.jpg
     url: /files/original/14fb29e5dc141f14fb29e5dc3786.jpg
+    alt:
+      en: "A young man in a brown sleeveless shirt receives an injection in his upper arm from a gloved medic in camouflage uniform, with his arm being swabbed before the shot."
 geo:
 id: 24640
 item_type: Still Image

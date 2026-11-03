@@ -50,11 +50,6 @@ function escapeHtml(s) {
   }[c]));
 }
 
-function truncate(s, n) {
-  s = String(s == null ? '' : s);
-  return s.length > n ? s.slice(0, n) + '…' : s;
-}
-
 function cardHTML(d) {
   const url = d.url || '#';
   const title = (d.meta && d.meta.title) || d.url || 'Untitled';
@@ -62,15 +57,15 @@ function cardHTML(d) {
   if (img) {
     return (
       '<div class="item hentry"><div class="item-meta"><div class="item-img">' +
-      '<a href="' + escapeHtml(url) + '"><img src="' + escapeHtml(img) + '" alt="" loading="lazy"></a>' +
-      '<p><a href="' + escapeHtml(url) + '">' + escapeHtml(truncate(title, 20)) + '</a></p>' +
+      '<a href="' + escapeHtml(url) + '"><img src="' + escapeHtml(img) + '" alt="' + escapeHtml(title) + '" loading="lazy"></a>' +
+      '<p><a class="item-card-title" href="' + escapeHtml(url) + '">' + escapeHtml(title) + '</a></p>' +
       '</div></div></div>'
     );
   }
   return (
     '<div class="item hentry"><div class="item-meta"><div class="browse-item-description">' +
-    '<h5><a href="' + escapeHtml(url) + '">' + escapeHtml(title) + '</a></h5></div>' +
-    '<p><a href="' + escapeHtml(url) + '">' + escapeHtml(truncate(title, 20)) + '</a></p>' +
+    '<h2 class="item-card-heading"><a href="' + escapeHtml(url) + '">' + escapeHtml(title) + '</a></h2></div>' +
+    '<p><a class="item-card-title" href="' + escapeHtml(url) + '">' + escapeHtml(title) + '</a></p>' +
     '</div></div>'
   );
 }

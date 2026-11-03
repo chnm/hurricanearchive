@@ -21,6 +21,8 @@ files:
     original_filename: 09140018.JPG
     thumb: /files/thumbnails/14fb29e979eb9f14fb29e979ef85.jpg
     url: /files/original/14fb29e979eb9f14fb29e979ef85.jpg
+    alt:
+      en: "Dark Ford Ranger pickup truck with a severely shattered windshield and debris on the hood, parked on a tree-lined street; two men in military camouflage uniforms stand nearby."
 geo:
 id: 24237
 item_type: Still Image

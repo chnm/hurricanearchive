@@ -24,6 +24,8 @@ files:
     original_filename: P1010116.JPG
     thumb: /files/thumbnails/14fb2a5aeea51414fb2a5aeea904.jpg
     url: /files/original/14fb2a5aeea51414fb2a5aeea904.jpg
+    alt:
+      en: "Damaged two-story brick building with a \"Capital Supermarket\" sign, broken storefront windows, debris, and a Coca-Cola machine behind a chain-link fence."
 geo:
 id: 3540
 item_type: Still Image

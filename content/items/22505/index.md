@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1346Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5cab08314fb29f5cab4a7.jpg
     url: /files/original/14fb29f5cab08314fb29f5cab4a7.jpg
+    alt:
+      en: "Floodwaters surround a brick building with two doorways, with leaning utility poles and a wind-swept tree visible under an overcast sky."
 geo:
 id: 22505
 item_type: Still Image

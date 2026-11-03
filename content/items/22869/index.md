@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0162mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f2fa445714fb29f2fa483e.jpg
     url: /files/original/14fb29f2fa445714fb29f2fa483e.jpg
+    alt:
+      en: "A U.S. Army soldier in camouflage uniform with a rifle slung over his shoulder stands beside a maroon vehicle with a \"Port of New Orleans\" pass displayed on its dashboard."
 geo:
 id: 22869
 item_type: Still Image

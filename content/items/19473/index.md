@@ -21,6 +21,8 @@ files:
     original_filename: Picture 033engineers.jpg
     thumb: /files/thumbnails/14fb2a0fd2f8de14fb2a0fd2fcc3.jpg
     url: /files/original/14fb2a0fd2f8de14fb2a0fd2fcc3.jpg
+    alt:
+      en: "Satellite map overlay titled \"Katrina Damage Assessment and Outages,\" showing color-coded zones for flooding and damage severity along a coastal area, with markers for impassable roads, rail, and bridges."
 geo:
 id: 19473
 item_type: Still Image

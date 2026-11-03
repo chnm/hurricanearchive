@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2206superdome.JPG
     thumb: /files/thumbnails/14fb29e44af9d314fb29e44afe41.jpg
     url: /files/original/14fb29e44af9d314fb29e44afe41.jpg
+    alt:
+      en: "Soldier in camouflage uniform and cap seated with a rifle across his lap, holding a sign reading \"you gotta have FAITH\" with the New Orleans Saints fleur-de-lis logo."
 geo:
 id: 24866
 item_type: Still Image

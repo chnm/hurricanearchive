@@ -20,6 +20,8 @@ files:
     original_filename: Orangs at Audobon Zoo.JPG
     thumb: /files/thumbnails/14fb29d595b7b514fb29d595bba1.jpg
     url: /files/original/14fb29d595b7b514fb29d595bba1.jpg
+    alt:
+      en: "Two orangutans sit perched atop tall wooden posts against a clear blue sky, one wearing a light blue shirt, at what the title identifies as the Audubon Zoo."
 geo:
 id: 27263
 item_type: Still Image

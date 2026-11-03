@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0207.JPG
     thumb: /files/thumbnails/14fb2a550d919d14fb2a550d9583.jpg
     url: /files/original/14fb2a550d919d14fb2a550d9583.jpg
+    alt:
+      en: "Elevated house on stilts beside a boat on a trailer, surrounded by storm-damaged trees, fallen trunks, and dried palm fronds and grasses in a debris-strewn yard."
 geo:
 id: 4888
 item_type: Still Image

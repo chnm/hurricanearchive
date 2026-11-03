@@ -21,6 +21,8 @@ files:
     original_filename: south bank building end2.jpg
     thumb: /files/thumbnails/14fb2a202f1be814fb2a202f1fcd.jpg
     url: /files/original/14fb2a202f1be814fb2a202f1fcd.jpg
+    alt:
+      en: "Damaged multi-story office building with exposed structural framework and shattered windows, labeled \"Sanderp South,\" seen through heavy fog with bare trees and debris in the foreground."
 geo:
 id: 13134
 item_type: Still Image

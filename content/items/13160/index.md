@@ -21,6 +21,8 @@ files:
     original_filename: 150 damage1.jpg
     thumb: /files/thumbnails/14fb2a1fd2c55214fb2a1fd2c934.jpg
     url: /files/original/14fb2a1fd2c55214fb2a1fd2c934.jpg
+    alt:
+      en: "Nighttime storm damage scene with debris, bent wood planks, and overturned green sign reading \"HI\" scattered among trees and a yellow-curbed lot, with buildings in the background."
 geo:
 id: 13160
 item_type: Still Image

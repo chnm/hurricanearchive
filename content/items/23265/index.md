@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2262neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29f0349b8514fb29f0349f6b.jpg
     url: /files/original/14fb29f0349b8514fb29f0349f6b.jpg
+    alt:
+      en: "Boarded-up single-story houses with numbered plywood window covers line a debris-strewn street, with bare trees, utility lines, and a backward-facing stop sign in the foreground."
 geo:
 id: 23265
 item_type: Still Image

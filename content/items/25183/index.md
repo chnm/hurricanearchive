@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1796superdome.JPG
     thumb: /files/thumbnails/14fb29e149618414fb29e1496554.jpg
     url: /files/original/14fb29e149618414fb29e1496554.jpg
+    alt:
+      en: "Four military officers in camouflage uniforms stand in conversation outdoors near a parking structure, with name tags including \"Dabadie\" visible and an American flag patch on one uniform sleeve."
 geo:
 id: 25183
 item_type: Still Image

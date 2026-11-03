@@ -21,6 +21,8 @@ files:
     original_filename: 09140018Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f983559314fb29f9835979.jpg
     url: /files/original/14fb29f983559314fb29f9835979.jpg
+    alt:
+      en: "Dark gray Ford Ranger pickup truck with a severely shattered windshield covered in fallen branches, parked on a tree-lined street as two camouflage-clad soldiers stand nearby."
 geo:
 id: 22107
 item_type: Still Image

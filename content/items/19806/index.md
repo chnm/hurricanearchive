@@ -21,6 +21,8 @@ files:
     original_filename: Copy of Picture 127cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0db1ad2014fb2a0db1b106.jpg
     url: /files/original/14fb2a0db1ad2014fb2a0db1b106.jpg
+    alt:
+      en: "A large boat lies capsized on its side in a grassy, gravel-covered lot, its red-painted hull exposed, with a blue sky and industrial buildings in the background."
 geo:
 id: 19806
 item_type: Still Image

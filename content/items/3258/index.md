@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (22).JPG
     thumb: /files/thumbnails/14fb2a5d0900a214fb2a5d090488.jpg
     url: /files/original/14fb2a5d0900a214fb2a5d090488.jpg
+    alt:
+      en: "Wide river view toward a low shoreline lined with trees, damaged buildings, and debris piles, with two channel marker buoys floating in the water and a mooring post with cable in the foreground."
 geo:
 id: 3258
 item_type: Still Image

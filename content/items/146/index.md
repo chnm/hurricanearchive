@@ -26,6 +26,8 @@ files:
     original_filename: Katrina1615z0508291kg12_bfd9fff978.jpg
     thumb: /files/thumbnails/14fb2a70dcf2d114fb2a70dcf6af.jpg
     url: /files/original/14fb2a70dcf2d114fb2a70dcf6af.jpg
+    alt:
+      en: "Satellite view of a large spiral hurricane approaching the northern Gulf Coast, its clouds stretching over the Gulf of Mexico toward the coastlines of Louisiana, Mississippi, and Florida."
 geo:
   address: ''
   lat: 0.0

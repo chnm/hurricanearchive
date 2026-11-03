@@ -26,6 +26,8 @@ files:
     original_filename: DSC00012a_cb760ba028.JPG
     thumb: /files/thumbnails/14fb2a6fad66dc14fb2a6fad6ab5.jpg
     url: /files/original/14fb2a6fad66dc14fb2a6fad6ab5.jpg
+    alt:
+      en: "A collapsed house with blue tarps covering part of its roof, surrounded by debris and splintered wood, sits along a damaged street with houses and trees in the background; timestamped \"OCT 29 2005.\""
 geo:
   address: ''
   lat: 29.9765724930298

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 345-J2.jpg
     thumb: /files/thumbnails/14fb29fa1bb97c14fb29fa1bbd5c.jpg
     url: /files/original/14fb29fa1bb97c14fb29fa1bbd5c.jpg
+    alt:
+      en: "Flooded street with standing water near a pink raised-porch house and other buildings, a stop sign partly submerged, a van parked at left, and a \"Pat's\" business sign visible on the right."
 geo:
 id: 22014
 item_type: Still Image

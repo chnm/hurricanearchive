@@ -21,6 +21,8 @@ files:
     original_filename: P1010065empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee6a05ee14fb29ee6a4d2c.jpg
     url: /files/original/14fb29ee6a05ee14fb29ee6a4d2c.jpg
+    alt:
+      en: "Military-style vehicle with tall antennas parked on a grassy field near a tree line, with downed logs and debris scattered in the foreground under a hazy sky."
 geo:
 id: 23624
 item_type: Still Image

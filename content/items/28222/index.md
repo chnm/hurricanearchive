@@ -27,6 +27,8 @@ files:
     original_filename: brandis_place_HURRICANE_ART020_15ac7dba18.JPG
     thumb: /files/thumbnails/14fb29d2a6f54c14fb29d2a6f8fc.jpg
     url: /files/original/14fb29d2a6f54c14fb29d2a6f8fc.jpg
+    alt:
+      en: "Detail of an artwork on asphalt felt depicting a silhouetted figure in a long dress holding an upraised object, set against a torn-paper-style background of moon and trees, photographed in a workshop."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0080cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efbc06a114fb29efbc0d48.jpg
     url: /files/original/14fb29efbc06a114fb29efbc0d48.jpg
+    alt:
+      en: "Aerial view of flooded wetlands with scattered patches of marsh grass, bare trees, and narrow strips of muddy land winding through widespread standing water."
 geo:
 id: 23385
 item_type: Still Image

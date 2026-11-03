@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1109Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f7e0d82414fb29f7e0dc14.jpg
     url: /files/original/14fb29f7e0d82414fb29f7e0dc14.jpg
+    alt:
+      en: "Floodwater surrounds a building and iron fence during heavy rain, with a dark gabled structure and lattice-topped wall partially submerged in the storm surge."
 geo:
 id: 22298
 item_type: Still Image

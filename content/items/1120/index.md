@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28136.jpg
     thumb: /files/thumbnails/14fb2a6ae7e1dd14fb2a6ae7e5c9.jpg
     url: /files/original/14fb2a6ae7e1dd14fb2a6ae7e5c9.jpg
+    alt:
+      en: "A large white motorboat sits on blocks beside a collapsed, storm-damaged building with debris scattered across the grass, under a clear blue sky."
 geo:
   address: ''
   lat: 0.0

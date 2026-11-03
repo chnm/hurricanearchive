@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0036M.JPG
     thumb: /files/thumbnails/14fb2a06060fbc14fb2a0606443e.jpg
     url: /files/original/14fb2a06060fbc14fb2a0606443e.jpg
+    alt:
+      en: "Group of young men in tan and camouflage military-style clothing standing in a fluorescent-lit indoor room, with an American flag, wall map, and a sign reading \"BE ON TIME! ON YOUR REST!\" visible in the background."
 geo:
 id: 20575
 item_type: Still Image

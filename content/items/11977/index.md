@@ -21,6 +21,8 @@ files:
     original_filename: Katrina Pictures 024.jpg
     thumb: /files/thumbnails/14fb2a227ad9df14fb2a227addc4.jpg
     url: /files/original/14fb2a227ad9df14fb2a227addc4.jpg
+    alt:
+      en: "Barren, debris-strewn coastal landscape with sparse, damaged trees, scattered sand mounds, and a dirt road, reflecting storm devastation under a hazy sky."
 geo:
 id: 11977
 item_type: Still Image

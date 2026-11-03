@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2033superdome.JPG
     thumb: /files/thumbnails/14fb29df490a7314fb29df490e46.jpg
     url: /files/original/14fb29df490a7314fb29df490e46.jpg
+    alt:
+      en: "Military personnel in camouflage fatigues carry a patient on a stretcher toward the open ramp of a helicopter on a wet tarmac, with a concrete overpass visible in the background."
 geo:
 id: 25306
 item_type: Still Image

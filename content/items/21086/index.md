@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0174-21.JPG
     thumb: /files/thumbnails/14fb2a00a5669014fb2a00a56a76.jpg
     url: /files/original/14fb2a00a5669014fb2a00a56a76.jpg
+    alt:
+      en: "Residential alley with utility poles and tangled overhead wires, framed by trees, a brick fence, and houses with gabled and metal roofs under an overcast sky."
 geo:
 id: 21086
 item_type: Still Image

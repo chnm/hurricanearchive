@@ -21,6 +21,8 @@ files:
     original_filename: MVC-027S.JPG
     thumb: /files/thumbnails/14fb2a5f9db29f14fb2a5f9db68f.jpg
     url: /files/original/14fb2a5f9db29f14fb2a5f9db68f.jpg
+    alt:
+      en: "Rows of large gray industrial equipment cabinets with multiple valves, gauges, and access panels fill a narrow room with a red painted floor and wall-mounted electrical panels in the background."
 geo:
 id: 2904
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 073.jpg
     thumb: /files/thumbnails/14fb2a12839f9714fb2a1283a35d.jpg
     url: /files/original/14fb2a12839f9714fb2a1283a35d.jpg
+    alt:
+      en: "Debris-strewn street viewed from inside a vehicle, with bare trees, a chain-link fence, residential buildings, and a multi-story apartment complex lining the roadway under a partly cloudy sky."
 geo:
 id: 19163
 item_type: Still Image

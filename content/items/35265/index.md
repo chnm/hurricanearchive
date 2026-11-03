@@ -18,6 +18,8 @@ files:
     original_filename: 3_b58dd76849.jpg
     thumb: /files/thumbnails/14fb29c755986d14fb29c755abb1.jpg
     url: /files/original/14fb29c755986d14fb29c755abb1.jpg
+    alt:
+      en: "Two-story cream-colored Victorian house with wraparound porch, iron balcony railings, and a pride flag, situated on a corner lot near a street sign reading \"Pauline.\""
 geo:
   address: poland st, new orleans, la
   lat: 29.96059

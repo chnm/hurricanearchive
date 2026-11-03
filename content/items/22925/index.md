@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0025media.JPG
     thumb: /files/thumbnails/14fb29f2ac77b714fb29f2ac7b9c.jpg
     url: /files/original/14fb29f2ac77b714fb29f2ac7b9c.jpg
+    alt:
+      en: "Aerial view from a helicopter showing a person operating a camera in the foreground, overlooking a domed stadium with a damaged roof, city buildings, and a bridge over a river in the hazy distance."
 geo:
 id: 22925
 item_type: Still Image

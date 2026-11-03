@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28645.jpg
     thumb: /files/thumbnails/14fb2a673844b214fb2a67384896.jpg
     url: /files/original/14fb2a673844b214fb2a67384896.jpg
+    alt:
+      en: "Cardboard OfficeMax moving boxes and a \"Packaging Peanuts\" box sit on the floor of an office near a bookshelf with plaques and books, as items are packed up."
 geo:
   address: ''
   lat: 0.0

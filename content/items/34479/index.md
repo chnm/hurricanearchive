@@ -27,6 +27,8 @@ files:
     original_filename: 2326063595_6113bfe5f2.
     thumb: /files/thumbnails/14fb29c9d16e3b14fb29c9d17220.jpg
     url: /files/original/14fb29c9d16e3b14fb29c9d17220.jpg
+    alt:
+      en: "Interstate highway with vehicles pulled over on both shoulders, orange traffic cones in the roadway, and people gathered near a cluster of trucks; an \"EXIT 50 MPH\" sign stands on the right."
 geo:
   address: ''
   lat: 30.22586

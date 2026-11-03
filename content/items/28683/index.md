@@ -23,6 +23,8 @@ files:
     original_filename: 157224414_387997eab7.jpg
     thumb: /files/thumbnails/14fb29d1c130dc14fb29d1c1389d.jpg
     url: /files/original/14fb29d1c130dc14fb29d1c1389d.jpg
+    alt:
+      en: "Discarded appliances and debris piled on a curb beside a utility pole, with storm-damaged houses, a collapsed roof, and overgrown vacant lots in the Lower 9th Ward, New Orleans."
 geo:
 id: 28683
 item_type: Still Image

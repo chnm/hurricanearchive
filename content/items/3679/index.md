@@ -24,6 +24,8 @@ files:
     original_filename: P1010117.JPG
     thumb: /files/thumbnails/14fb2a5a2719ba14fb2a5a271da2.jpg
     url: /files/original/14fb2a5a2719ba14fb2a5a271da2.jpg
+    alt:
+      en: "Weathered house with a plywood-covered front door spray-painted \"NOT FOR SALE\" in black and yellow, beside a window with closed blinds and the address \"6506\" posted on the siding."
 geo:
 id: 3679
 item_type: Still Image

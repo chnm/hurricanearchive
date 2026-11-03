@@ -21,6 +21,8 @@ files:
     original_filename: FH000014.jpg
     thumb: /files/thumbnails/14fb29fc6d50ed14fb29fc6d54cb.jpg
     url: /files/original/14fb29fc6d50ed14fb29fc6d54cb.jpg
+    alt:
+      en: "Collapsed section of a brick building's roof, caved in behind a chain-link fence, with debris scattered on dry ground and intact trees and buildings in the background; photo taken from inside a vehicle."
 geo:
 id: 21684
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28679.jpg
     thumb: /files/thumbnails/14fb2a68d58b6614fb2a68d58f67.jpg
     url: /files/original/14fb2a68d58b6614fb2a68d58f67.jpg
+    alt:
+      en: "A man in a plaid shirt and dark cap holds a notepad while talking with a woman in a pink tank top and tan shorts, standing on pavement near a fairgrounds parking area."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0007-9-25.JPG
     thumb: /files/thumbnails/14fb2a083e1ac214fb2a083e1ea0.jpg
     url: /files/original/14fb2a083e1ac214fb2a083e1ea0.jpg
+    alt:
+      en: "Sideways photo (rotated 90 degrees) of a man in a white polo shirt and glasses, viewed through a window frame, with a dimly lit interior room visible behind him."
 geo:
 id: 20376
 item_type: Still Image

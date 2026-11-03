@@ -21,6 +21,8 @@ files:
     original_filename: studentsshowsmiles_b02006b7af.jpg
     thumb: /files/thumbnails/14fb29d6fe1c4814fb29d6fe202d.jpg
     url: /files/original/14fb29d6fe1c4814fb29d6fe202d.jpg
+    alt:
+      en: "Black-and-white yearbook page showing three smiling young women, captioned \"Tammy Garcia, Kristy Liccardi, and Angie Lamia show their smiles,\" above a row of dancers' legs captioned \"Students show off the latest dance steps.\""
 geo:
 id: 26867
 item_type: Still Image

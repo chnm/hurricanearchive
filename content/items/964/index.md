@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27865.jpg
     thumb: /files/thumbnails/14fb2a6ba2c15e14fb2a6ba2c927.jpg
     url: /files/original/14fb2a6ba2c15e14fb2a6ba2c927.jpg
+    alt:
+      en: "Floodwaters surround a single-story house with a metal roof as a person stands on a small boat near the porch, while another figure descends the front steps into the water."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: SD Mardi Gras 1972_538040328c.jpg
     thumb: /files/thumbnails/14fb29d7d0c11b14fb29d7d0c4fd.jpg
     url: /files/original/14fb29d7d0c11b14fb29d7d0c4fd.jpg
+    alt:
+      en: "Two men pose on a suburban sidewalk in elaborate satin Mardi Gras costumes and crowned headpieces, one in pale blue, the other in orange and pink, for the 1972 Grela Parade."
 geo:
   address: ''
   lat: 29.87876

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0166abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef161ebf14fb29ef162295.jpg
     url: /files/original/14fb29ef161ebf14fb29ef162295.jpg
+    alt:
+      en: "A white pickup truck lies overturned on its side amid debris and dried brush, its engine compartment exposed and tangled with dead vegetation, with a wooded hillside in the background."
 geo:
 id: 23533
 item_type: Still Image

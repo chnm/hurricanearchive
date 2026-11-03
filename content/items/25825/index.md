@@ -21,6 +21,8 @@ files:
     original_filename: cida-museum-ext_c5aee0edce.jpg
     thumb: /files/thumbnails/14fb29dbedc56a14fb29dbedc94b.jpg
     url: /files/original/14fb29dbedc56a14fb29dbedc94b.jpg
+    alt:
+      en: "Group of people in period costume pose on the steps and porch of a white wooden building with a metal roof, representing the Canary Island Descendants Association Museum in Caernarvon, 2005."
 geo:
 id: 25825
 item_type: Still Image

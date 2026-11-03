@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-01-00AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f952eb0614fb29f952eee3.jpg
     url: /files/original/14fb29f952eb0614fb29f952eee3.jpg
+    alt:
+      en: "A dark, shadowed tunnel or underpass frames a bright rectangular opening showing floodwater and a pale sky beyond, heavy film grain throughout."
 geo:
 id: 22148
 item_type: Still Image

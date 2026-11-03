@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 004.jpg
     thumb: /files/thumbnails/14fb2a22ea436514fb2a22ea474c.jpg
     url: /files/original/14fb2a22ea436514fb2a22ea474c.jpg
+    alt:
+      en: "A large boat marked \"1021265\" lies washed ashore on rocky ground beside a body of water, tilted on its side with rust stains and debris visible on its hull; date stamp reads 2005/09/24."
 geo:
 id: 11882
 item_type: Still Image

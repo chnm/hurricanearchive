@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0671.JPG
     thumb: /files/thumbnails/14fb2a5349a97c14fb2a5349ace6.jpg
     url: /files/original/14fb2a5349a97c14fb2a5349ace6.jpg
+    alt:
+      en: "Storm-damaged yard with a chain-link fence, fallen branches, and piles of brown pine debris scattered beneath tall pine trees; downed logs and a flat dark panel lie in the foreground."
 geo:
 id: 5226
 item_type: Still Image

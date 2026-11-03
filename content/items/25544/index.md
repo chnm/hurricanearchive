@@ -21,6 +21,8 @@ files:
     original_filename: LeoSchaeffer3A_8bdf0e6f48.jpg
     thumb: /files/thumbnails/14fb29dd3dfb4914fb29dd3dff2d.jpg
     url: /files/original/14fb29dd3dfb4914fb29dd3dff2d.jpg
+    alt:
+      en: "A group of people stand together cutting a large rectangular king cake decorated in purple, green, and gold icing, with banners reading \"It takes more than a hurricane to break our spirit\" along the table edge."
 geo:
 id: 25544
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1027Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f90a36f114fb29f90a3c4e.jpg
     url: /files/original/14fb29f90a36f114fb29f90a3c4e.jpg
+    alt:
+      en: "A UH-60 Black Hawk helicopter marked \"UNITED STATES ARMY\" sits on a grassy lawn near brick buildings, viewed past a dark metal railing in the foreground."
 geo:
 id: 22220
 item_type: Still Image

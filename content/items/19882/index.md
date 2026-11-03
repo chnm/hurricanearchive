@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0114gillslong.JPG
     thumb: /files/thumbnails/14fb2a0cfeabe014fb2a0cfeafc0.jpg
     url: /files/original/14fb2a0cfeabe014fb2a0cfeafc0.jpg
+    alt:
+      en: "Aerial view of a large encampment with multiple white and green striped tents, a metal Quonset-style building, a larger institutional building with parking lots, set among green lawns and trees under a hazy sky."
 geo:
 id: 19882
 item_type: Still Image

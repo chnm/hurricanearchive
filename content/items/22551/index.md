@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1396Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f572796a14fb29f5727d4f.jpg
     url: /files/original/14fb29f572796a14fb29f5727d4f.jpg
+    alt:
+      en: "A group of military personnel in camouflage and brown uniforms gather on a rooftop near HVAC units, with a white gabled building and overcast sky in the background."
 geo:
 id: 22551
 item_type: Still Image

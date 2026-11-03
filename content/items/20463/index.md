@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0018M.JPG
     thumb: /files/thumbnails/14fb2a07094b0e14fb2a07094ef7.jpg
     url: /files/original/14fb2a07094b0e14fb2a07094ef7.jpg
+    alt:
+      en: "A concrete highway bridge with guardrails spans dark, swollen water, with dense green trees lining the background under a clear blue sky."
 geo:
 id: 20463
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0586Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5036f4914fb29f503732f.jpg
     url: /files/original/14fb29f5036f4914fb29f503732f.jpg
+    alt:
+      en: "Three men in military camouflage uniforms pose together in front of a brick wall, with floodwaters submerging buildings and a flagpole in the background."
 geo:
 id: 22622
 item_type: Still Image

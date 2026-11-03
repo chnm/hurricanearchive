@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1824superdome.JPG
     thumb: /files/thumbnails/14fb29e115fb0e14fb29e115fe04.jpg
     url: /files/original/14fb29e115fb0e14fb29e115fe04.jpg
+    alt:
+      en: "A military helicopter sits in a large parking lot amid trucks and vehicles, with a Bud Light billboard and highway overpass visible in the background under a hazy sky."
 geo:
 id: 25198
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27864.jpg
     thumb: /files/thumbnails/14fb2a6d45fc2d14fb2a6d46000e.jpg
     url: /files/original/14fb2a6d45fc2d14fb2a6d46000e.jpg
+    alt:
+      en: "A flooded yard surrounds a raised house, with two people standing on the porch steps above the water; a measuring stake marked with pink tape rises from the floodwater in the foreground."
 geo:
   address: ''
   lat: 0.0

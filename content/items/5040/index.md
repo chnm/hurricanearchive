@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0385.JPG
     thumb: /files/thumbnails/14fb2a544d9ab214fb2a544d9e98.jpg
     url: /files/original/14fb2a544d9ab214fb2a544d9e98.jpg
+    alt:
+      en: "A damaged tree-lined street with broken branches and storm debris scattered on the ground, a parked car along the roadside, and a street sign at the intersection ahead."
 geo:
 id: 5040
 item_type: Still Image

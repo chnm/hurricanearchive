@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ef89dcc314fb29ef89e0ab.jpg
     url: /files/original/14fb29ef89dcc314fb29ef89e0ab.jpg
+    alt:
+      en: "Empty debris-strewn parking lot with a damaged strip mall featuring a RadioShack and Winn-Dixie storefront, scattered rubble, overturned truck trailer, and tall light poles under a hazy sky."
 geo:
 id: 23415
 item_type: Still Image

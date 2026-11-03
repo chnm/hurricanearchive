@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0032.JPG
     thumb: /files/thumbnails/14fb2a577891e014fb2a577895f4.jpg
     url: /files/original/14fb2a577891e014fb2a577895f4.jpg
+    alt:
+      en: "A stranded fishing trawler and an overturned boat hull rest on a muddy shoreline across a calm river, with bare trees lining the bank under a hazy sky."
 geo:
 id: 4146
 item_type: Still Image

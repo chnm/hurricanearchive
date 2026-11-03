@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0082neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29efb882ae14fb29efb8868c.jpg
     url: /files/original/14fb29efb882ae14fb29efb8868c.jpg
+    alt:
+      en: "Widespread debris field of a destroyed mobile home community, with twisted metal roofing, scattered lumber, cinder blocks, a sink basin, and straw-like plant debris covering the ground under a clear sky."
 geo:
 id: 23390
 item_type: Still Image

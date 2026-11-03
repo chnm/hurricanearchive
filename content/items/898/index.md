@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27977.jpg
     thumb: /files/thumbnails/14fb2a6c64244714fb2a6c642dc7.jpg
     url: /files/original/14fb2a6c64244714fb2a6c642dc7.jpg
+    alt:
+      en: "Stone wall sign reading \"Physicians Hospital of New Orleans\" with a gold caduceus emblem, fronted by dry, leafless shrubs."
 geo:
   address: ''
   lat: 0.0

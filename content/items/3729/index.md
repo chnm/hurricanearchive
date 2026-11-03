@@ -21,6 +21,8 @@ files:
     original_filename: Storm Pictures From Biloxi  Miss. 009.jpg
     thumb: /files/thumbnails/14fb2a59f5e8d414fb2a59f5ecba.jpg
     url: /files/original/14fb2a59f5e8d414fb2a59f5ecba.jpg
+    alt:
+      en: "Damaged bridge pilings stand in water beside a debris-strewn lot with a stripped tree in foreground, city skyline visible in the distance under a clear sky."
 geo:
 id: 3729
 item_type: Still Image

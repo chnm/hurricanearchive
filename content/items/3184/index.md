@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (35).JPG
     thumb: /files/thumbnails/14fb2a5d6bd4f714fb2a5d6bd8dc.jpg
     url: /files/original/14fb2a5d6bd4f714fb2a5d6bd8dc.jpg
+    alt:
+      en: "Storm-damaged street scene with a blue building labeled \"RESTAURANT,\" boarded-up windows, a fallen newspaper box, and a bent metal gate leaning against the sidewalk under a striped awning."
 geo:
 id: 3184
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: nun st_f5af5efb45.jpg
     thumb: /files/thumbnails/14fb29ccee06d914fb29ccee0abe.jpg
     url: /files/original/14fb29ccee06d914fb29ccee0abe.jpg
+    alt:
+      en: "A wooden utility pole holds a sign reading \"DNA PATERNITY TESTING 228-671-9130\" above a blue street sign labeled \"Nuns,\" with a metal building and power lines in the background."
 geo:
   address: ''
   lat: 0.0

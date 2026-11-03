@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28625.jpg
     thumb: /files/thumbnails/14fb2a6c389b4414fb2a6c389f29.jpg
     url: /files/original/14fb2a6c389b4414fb2a6c389f29.jpg
+    alt:
+      en: "A storm-damaged dormer window on a dark-shingled roof, with one pane broken and exposed roof decking visible nearby, set against a clear blue sky."
 geo:
   address: ''
   lat: 0.0

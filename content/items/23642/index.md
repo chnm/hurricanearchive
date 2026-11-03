@@ -21,6 +21,8 @@ files:
     original_filename: P1010083empireS&R.JPG
     thumb: /files/thumbnails/14fb29ee21106514fb29ee211449.jpg
     url: /files/original/14fb29ee21106514fb29ee211449.jpg
+    alt:
+      en: "Pile of storm debris—splintered wood beams, twisted metal sheeting, and insulation—sits in standing floodwater behind a metal fence, with bare, storm-damaged trees and a flooded shoreline in the background."
 geo:
 id: 23642
 item_type: Still Image

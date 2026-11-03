@@ -21,6 +21,8 @@ files:
     original_filename: DSC01079.JPG
     thumb: /files/thumbnails/14fb2a58a3708314fb2a58a37469.jpg
     url: /files/original/14fb2a58a3708314fb2a58a37469.jpg
+    alt:
+      en: "Floodwater surrounds a partially submerged green highway sign reading \"DOWNTOWN NEW ORLEANS\" with an arrow, in front of a two-story house, viewed from a boat."
 geo:
 id: 3989
 item_type: Still Image

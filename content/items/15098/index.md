@@ -21,6 +21,8 @@ files:
     original_filename: 2001BreastCancerWalk-13_36a57007eb.jpg
     thumb: /files/thumbnails/14fb2a172bd18914fb2a172bd5cd.jpg
     url: /files/original/14fb2a172bd18914fb2a172bd5cd.jpg
+    alt:
+      en: "Group of nine people pose outdoors under trees, most wearing white \"Making Strides\" breast cancer walk T-shirts with pink ribbon logos, with crowds visible in the background."
 geo:
 id: 15098
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28705.jpg
     thumb: /files/thumbnails/14fb2a6891d6a314fb2a6891da88.jpg
     url: /files/original/14fb2a6891d6a314fb2a6891da88.jpg
+    alt:
+      en: "Two women embrace and smile at a horse rescue barn, one wearing a cap and \"Horse Law Enforcement\" T-shirt, the other in a pink tank top, with a trailer visible behind them."
 geo:
   address: ''
   lat: 0.0

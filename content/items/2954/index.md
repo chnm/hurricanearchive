@@ -21,6 +21,8 @@ files:
     original_filename: MVC-009S.JPG
     thumb: /files/thumbnails/14fb2a5f7957a714fb2a5f795b8d.jpg
     url: /files/original/14fb2a5f7957a714fb2a5f795b8d.jpg
+    alt:
+      en: "A vintage military artillery gun mounted on a pedestal display, surrounded by a low chain fence, sits on a grassy lot near a paved road and a small roofed pavilion."
 geo:
 id: 2954
 item_type: Still Image

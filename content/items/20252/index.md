@@ -21,6 +21,8 @@ files:
     original_filename: Copy of 1LT Campbell 27SEP2005.JPG
     thumb: /files/thumbnails/14fb2a0a6eab5414fb2a0a6ebfd5.jpg
     url: /files/original/14fb2a0a6eab5414fb2a0a6ebfd5.jpg
+    alt:
+      en: "A soldier in woodland camouflage uniform and sunglasses, nametape reading \"Campbell,\" stands before storm debris piles and a white columned building; date stamp reads 09.27.2005."
 geo:
 id: 20252
 item_type: Still Image

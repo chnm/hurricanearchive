@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0170abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef10e71b14fb29ef110d98.jpg
     url: /files/original/14fb29ef10e71b14fb29ef110d98.jpg
+    alt:
+      en: "Flooded, debris-strewn clearing with a damaged shed, scattered white panels, and a fallen tree trunk, surrounded by bare, storm-damaged trees under a dim sky."
 geo:
 id: 23541
 item_type: Still Image

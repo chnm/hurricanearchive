@@ -21,6 +21,8 @@ files:
     original_filename: boats in armory.JPG
     thumb: /files/thumbnails/14fb2a1a9a9e1214fb2a1a9aa1f8.jpg
     url: /files/original/14fb2a1a9a9e1214fb2a1a9aa1f8.jpg
+    alt:
+      en: "Flooded interior of an armory with small motorboats loaded with life jackets, men working by boat lights, and a partially visible sign reading \"OUR TROOPS – Families Always.\""
 geo:
   address: ''
   lat: 0.0

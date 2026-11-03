@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0098abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef7e3e8814fb29ef7e426d.jpg
     url: /files/original/14fb29ef7e3e8814fb29ef7e426d.jpg
+    alt:
+      en: "Cattle graze along a flooded roadside, with a black cow standing on the shoulder near a road sign and a metal gate, while floodwater submerges the adjacent field and trees in the background."
 geo:
 id: 23425
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 501058-R1-09-7Asuperdome.jpg
     thumb: /files/thumbnails/14fb29e54f245914fb29e54f29d1.jpg
     url: /files/original/14fb29e54f245914fb29e54f29d1.jpg
+    alt:
+      en: "Large military helicopter with rotors spinning sits on a rooftop helipad, with two people standing near its tail amid a city skyline backdrop in hazy light."
 geo:
 id: 24732
 item_type: Still Image

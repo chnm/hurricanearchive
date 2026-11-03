@@ -27,6 +27,8 @@ files:
     original_filename: 2380907836_cbea184b4c.
     thumb: /files/thumbnails/14fb29ca48aee414fb29ca48b2ca.jpg
     url: /files/original/14fb29ca48aee414fb29ca48b2ca.jpg
+    alt:
+      en: "A damaged Hummer H3 lies overturned on a tow truck's winch cable near a sandy waterfront, with elevated houses on stilts and a wooden piling in the background."
 geo:
   address: ''
   lat: 30.22437

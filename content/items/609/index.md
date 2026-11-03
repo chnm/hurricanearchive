@@ -26,6 +26,8 @@ files:
     original_filename: RaceTrac4_Oct16_2_ffef46a85b.jpg
     thumb: /files/thumbnails/14fb2a6f6332b614fb2a6f633895.jpg
     url: /files/original/14fb2a6f6332b614fb2a6f633895.jpg
+    alt:
+      en: "A damaged gas pump with its casing removed, exposing internal wiring and components, sits beside an open underground tank access hatch at a canopy-covered fueling station."
 geo:
   address: ''
   lat: 30.148461

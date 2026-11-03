@@ -21,6 +21,8 @@ files:
     original_filename: S4300118Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f42b594f14fb29f42b5ce6.jpg
     url: /files/original/14fb29f42b594f14fb29f42b5ce6.jpg
+    alt:
+      en: "Debris and fallen tree branches cover a brick building's entrance, with a damaged porch roof and a green sign reading \"Louisiana Army Communities of Excellence, Catch the Spirit\" mounted on the wall."
 geo:
 id: 22762
 item_type: Still Image

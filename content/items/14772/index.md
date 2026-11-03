@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_IsrealJackson_01_7d7854b6a1.jpg
     thumb: /files/thumbnails/14fb2a17d170dc14fb2a17d174bb.jpg
     url: /files/original/14fb2a17d170dc14fb2a17d174bb.jpg
+    alt:
+      en: "A smiling boy in a navy polo shirt embroidered \"GSS\" and khaki pants sits barefoot on a small chair, surrounded by a bookshelf of children's books and stuffed animal puppets."
 geo:
 id: 14772
 item_type: Still Image

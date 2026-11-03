@@ -21,6 +21,8 @@ files:
     original_filename: KJ Snow 64-04_0768446a55.jpg
     thumb: /files/thumbnails/14fb29d65c403114fb29d65c4375.jpg
     url: /files/original/14fb29d65c403114fb29d65c4375.jpg
+    alt:
+      en: "Black-and-white photo of a snow-covered vintage car parked on a residential street, with two small houses and a snowy lawn in the foreground, Chalmette, Louisiana, 1964."
 geo:
   address: ''
   lat: 29.87876

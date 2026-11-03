@@ -21,6 +21,8 @@ files:
     original_filename: DSC01161.JPG
     thumb: /files/thumbnails/14fb2a5854556014fb2a58545946.jpg
     url: /files/original/14fb2a5854556014fb2a58545946.jpg
+    alt:
+      en: "Street intersection with a Walgreens store featuring a drive-thru pharmacy sign reading \"Check our ad for big savings, digital prints 29¢,\" with cars parked in the lot and traffic lights overhead."
 geo:
 id: 4040
 item_type: Still Image

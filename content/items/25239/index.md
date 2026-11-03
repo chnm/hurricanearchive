@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1937superdome.JPG
     thumb: /files/thumbnails/14fb29e082b16214fb29e082b546.jpg
     url: /files/original/14fb29e082b16214fb29e082b546.jpg
+    alt:
+      en: "A helicopter approaches a rooftop helipad marked with yellow and white lines, with an elevated highway, palm trees, and buildings visible in the hazy background."
 geo:
 id: 25239
 item_type: Still Image

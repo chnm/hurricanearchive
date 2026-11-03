@@ -21,6 +21,8 @@ files:
     original_filename: Oil in water around homes near Bremond LA.jpg
     thumb: /files/thumbnails/14fb29fb385e8914fb29fb38626e.jpg
     url: /files/original/14fb29fb385e8914fb29fb38626e.jpg
+    alt:
+      en: "Aerial view from a small plane's wing of extensive floodwaters submerging homes and trees near a river, with an oily sheen visible on the water's surface alongside a levee road."
 geo:
 id: 21891
 item_type: Still Image

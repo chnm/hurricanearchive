@@ -20,6 +20,8 @@ files:
     original_filename: 2456707277_8fb10ee702.
     thumb: /files/thumbnails/14fb29c88520a214fb29c8852487.jpg
     url: /files/original/14fb29c88520a214fb29c8852487.jpg
+    alt:
+      en: "A CAT excavator arm reaches into a muddy excavation site with steel sheet piling walls along a water channel, surrounded by trees and a cloudy sky."
 geo:
 id: 34913
 item_type: Still Image

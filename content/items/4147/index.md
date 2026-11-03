@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0033.JPG
     thumb: /files/thumbnails/14fb2a5776e09814fb2a5776e47d.jpg
     url: /files/original/14fb2a5776e09814fb2a5776e47d.jpg
+    alt:
+      en: "A capsized, weathered boat lies stranded on a muddy shoreline, with bare trees, power lines, and a bird in flight along the riverbank under a hazy sky."
 geo:
 id: 4147
 item_type: Still Image

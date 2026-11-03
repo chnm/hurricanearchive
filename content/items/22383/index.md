@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1209Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6e1c13114fb29f6e1c407.jpg
     url: /files/original/14fb29f6e1c13114fb29f6e1c407.jpg
+    alt:
+      en: "Interior of a large industrial building completely flooded with dark water reaching up near the open loading dock door, with two \"EXIT\" signs above doors along the walls and a green boat visible in the foreground."
 geo:
 id: 22383
 item_type: Still Image

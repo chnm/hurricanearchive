@@ -20,6 +20,8 @@ files:
     original_filename: 2457557584_a2308985c3.
     thumb: /files/thumbnails/14fb29c8cd0b1914fb29c8cd0eff.jpg
     url: /files/original/14fb29c8cd0b1914fb29c8cd0eff.jpg
+    alt:
+      en: "A yellow and white Troxler nuclear density gauge with a metal measurement probe extended, resting on cracked, dry soil."
 geo:
 id: 34878
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC01136.JPG
     thumb: /files/thumbnails/14fb2a5863527914fb2a5863565f.jpg
     url: /files/original/14fb2a5863527914fb2a5863565f.jpg
+    alt:
+      en: "Flooded street in front of a storm-damaged building with its roof structure exposed, a partially legible \"Canal Blvd. Super Market\" sign, a Bus Stop sign standing in water, and a laundromat visible next door."
 geo:
 id: 4025
 item_type: Still Image

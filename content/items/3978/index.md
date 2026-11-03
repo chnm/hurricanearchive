@@ -21,6 +21,8 @@ files:
     original_filename: DSC01068.JPG
     thumb: /files/thumbnails/14fb2a58aa0b7714fb2a58aa0f52.jpg
     url: /files/original/14fb2a58aa0b7714fb2a58aa0f52.jpg
+    alt:
+      en: "A man in a Coast Guard uniform and orange life vest sits in a small boat navigating floodwater surrounded by trees and partially submerged houses; timestamp reads 9:02 AM."
 geo:
 id: 3978
 item_type: Still Image

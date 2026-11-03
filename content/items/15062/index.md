@@ -21,6 +21,8 @@ files:
     original_filename: Sarma_p2_07_716f102def.jpg
     thumb: /files/thumbnails/14fb2a17393d1014fb2a173940ec.jpg
     url: /files/original/14fb2a17393d1014fb2a173940ec.jpg
+    alt:
+      en: "A young boy stands on a front lawn beside a push lawnmower, with a sidewalk, trees, and houses lining the residential street behind him."
 geo:
   address: 5534 Chamberlain Drive
   lat: 0.0

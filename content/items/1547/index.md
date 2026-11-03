@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28364.jpg
     thumb: /files/thumbnails/14fb2a680ebfb114fb2a680ec3b2.jpg
     url: /files/original/14fb2a680ebfb114fb2a680ec3b2.jpg
+    alt:
+      en: "A partially submerged vehicle floats in floodwaters in front of the Palace Casino, its domed building visible above damaged, water-covered walkways."
 geo:
   address: ''
   lat: 0.0

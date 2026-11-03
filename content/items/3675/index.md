@@ -24,6 +24,8 @@ files:
     original_filename: P1010112.JPG
     thumb: /files/thumbnails/14fb2a5a2ae61e14fb2a5a2aea04.jpg
     url: /files/original/14fb2a5a2ae61e14fb2a5a2aea04.jpg
+    alt:
+      en: "Two orange diamond-shaped traffic signs reading \"ROAD CLOSED AHEAD\" and \"WORKERS AHEAD\" stand on a debris-strewn street lined with trees and houses."
 geo:
 id: 3675
 item_type: Still Image

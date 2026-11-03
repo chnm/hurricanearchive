@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0147-21.JPG
     thumb: /files/thumbnails/14fb2a0207b21314fb2a0207b62b.jpg
     url: /files/original/14fb2a0207b21314fb2a0207b62b.jpg
+    alt:
+      en: "A soldier in camouflage fatigues stands on a debris-strewn road near piles of gravel and a parked truck, with an orange traffic cone and folding chair set up on the grass beside the street."
 geo:
 id: 20915
 item_type: Still Image

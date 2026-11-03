@@ -21,6 +21,8 @@ files:
     original_filename: DianeMerlaine-6177_a0de197379.jpg
     thumb: /files/thumbnails/14fb29dd883d7214fb29dd88419e.jpg
     url: /files/original/14fb29dd883d7214fb29dd88419e.jpg
+    alt:
+      en: "Damaged studio portrait of a young girl and younger boy in plaid and maroon outfits, the photo marred by extensive yellow, black, and reddish water and mold staining."
 geo:
   address: 2720 Jackson Blvd
   lat: 0.0

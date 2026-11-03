@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0564Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f517985114fb29f517aa10.jpg
     url: /files/original/14fb29f517985114fb29f517aa10.jpg
+    alt:
+      en: "Flooded brick building with a sign reading \"Main Exchange\" under its eaves, submerged nearly to the roofline in murky floodwater during heavy rain."
 geo:
 id: 22600
 item_type: Still Image

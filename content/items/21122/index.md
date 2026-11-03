@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0180-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0072ca9d14fb2a0072ce90.jpg
     url: /files/original/14fb2a0072ca9d14fb2a0072ce90.jpg
+    alt:
+      en: "Aerial view of a flooded highway causeway with a displaced mobile home resting on the roadway, downed utility poles, and surrounding marshland submerged in storm water."
 geo:
 id: 21122
 item_type: Still Image

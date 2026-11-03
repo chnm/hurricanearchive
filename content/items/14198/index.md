@@ -21,6 +21,8 @@ files:
     original_filename: TAG house jackson barracks.JPG
     thumb: /files/thumbnails/14fb2a1aa4735214fb2a1aa47737.jpg
     url: /files/original/14fb2a1aa4735214fb2a1aa47737.jpg
+    alt:
+      en: "Two-story brick building with white columned porches and balconies shows storm damage, including a torn roof overhang and a large uprooted tree trunk on the lawn, dated 09.26.2005."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1234Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6b6e71014fb29f6b6eaf6.jpg
     url: /files/original/14fb29f6b6e71014fb29f6b6eaf6.jpg
+    alt:
+      en: "Heavy rain and wind obscure a view of brick buildings with gabled roofs, seen through a window with tree branches and foliage in the foreground, during a storm."
 geo:
 id: 22402
 item_type: Still Image

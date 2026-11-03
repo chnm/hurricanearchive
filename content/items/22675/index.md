@@ -21,6 +21,8 @@ files:
     original_filename: PICT0171Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4c908a014fb29f4c90c86.jpg
     url: /files/original/14fb29f4c908a014fb29f4c90c86.jpg
+    alt:
+      en: "Weathered porch of a white house with an open front door revealing a dark interior, a ceiling fan, and a dresser; a dirty floor, metal railing, and two exterior light fixtures are visible, dated 09.15.2005."
 geo:
 id: 22675
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 155 port arthur damage 5.jpg
     thumb: /files/thumbnails/14fb2a1fb6164d14fb2a1fb61a61.jpg
     url: /files/original/14fb2a1fb6164d14fb2a1fb61a61.jpg
+    alt:
+      en: "Collapsed brick wall scattered across a parking lot, with a \"City Hall\" building visible in the background and grass in the foreground."
 geo:
 id: 13164
 item_type: Still Image

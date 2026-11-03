@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0347.JPG
     thumb: /files/thumbnails/14fb2a54757a2f14fb2a54758294.jpg
     url: /files/original/14fb2a54757a2f14fb2a54758294.jpg
+    alt:
+      en: "A wooden post set into a cracked concrete slab, with a dry leaf and scattered debris nearby, and a patch of dark staining visible in the upper right corner."
 geo:
 id: 5002
 item_type: Still Image

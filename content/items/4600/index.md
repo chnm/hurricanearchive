@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0026.JPG
     thumb: /files/thumbnails/14fb2a56c8cb4214fb2a56c8cf26.jpg
     url: /files/original/14fb2a56c8cb4214fb2a56c8cf26.jpg
+    alt:
+      en: "Wide, debris-strewn sandy beach with scattered driftwood, a damaged multi-story building on the left, construction vehicles along the shoreline, and distant buildings under a partly cloudy sky."
 geo:
 id: 4600
 item_type: Still Image

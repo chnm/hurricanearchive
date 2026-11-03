@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1666superdome.JPG
     thumb: /files/thumbnails/14fb29e276106014fb29e2761444.jpg
     url: /files/original/14fb29e276106014fb29e2761444.jpg
+    alt:
+      en: "Three men in dark shirts and camouflage pants stand at a railing atop a large concrete structure, with the tail section of a black helicopter visible nearby on the rooftop."
 geo:
 id: 25080
 item_type: Still Image

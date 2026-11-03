@@ -21,6 +21,8 @@ files:
     original_filename: bushespasschristianvisi536.JPG
     thumb: /files/thumbnails/14fb2a22588db314fb2a225891df.jpg
     url: /files/original/14fb2a22588db314fb2a225891df.jpg
+    alt:
+      en: "A crowd gathers outdoors near a brick building, with several people wearing white T-shirts reading \"Rebuilding the Pass with Pride,\" while a woman in a gray blazer speaks with others nearby."
 geo:
 id: 12013
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28496.jpg
     thumb: /files/thumbnails/14fb2a69cee57914fb2a69cee8d5.jpg
     url: /files/original/14fb2a69cee57914fb2a69cee8d5.jpg
+    alt:
+      en: "Damaged window with a mud-streaked lace curtain and dirty horizontal blinds above a broken lower sash, framed by a water- and silt-stained wall from flooding."
 geo:
   address: ''
   lat: 0.0

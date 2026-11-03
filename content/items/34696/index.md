@@ -20,6 +20,8 @@ files:
     original_filename: 2434808770_a33bcdd4f8.
     thumb: /files/thumbnails/14fb29c97795d314fb29c97799b9.jpg
     url: /files/original/14fb29c97795d314fb29c97799b9.jpg
+    alt:
+      en: "Storm-damaged homes with collapsed roofs and scattered debris sit among large trees, with a cracked curb and empty street in the foreground."
 geo:
 id: 34696
 item_type: Still Image

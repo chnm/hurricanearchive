@@ -21,6 +21,8 @@ files:
     original_filename: 20.jpg
     thumb: /files/thumbnails/14fb2a606e1b6014fb2a606e1f45.jpg
     url: /files/original/14fb2a606e1b6014fb2a606e1f45.jpg
+    alt:
+      en: "Child's crayon drawing of a playground with a slide, swing set with three figures, and monkey bars, under a sky with clouds, birds, and a smiling sun; signed \"Erick Nikg Age 13.\""
 geo:
 id: 2722
 item_type: Still Image

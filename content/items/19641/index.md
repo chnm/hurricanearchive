@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 028cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e99e0d014fb2a0e99e4b6.jpg
     url: /files/original/14fb2a0e99e0d014fb2a0e99e4b6.jpg
+    alt:
+      en: "Three state flags—Wisconsin (1848), West Virginia, and North Carolina—hang on a beige wall above a tiled brick section with exposed pipes and an \"Emergency Spill Kit\" sign below."
 geo:
 id: 19641
 item_type: Still Image

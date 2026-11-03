@@ -24,6 +24,8 @@ files:
     original_filename: P1010109.JPG
     thumb: /files/thumbnails/14fb2a5afd127e14fb2a5afda24c.jpg
     url: /files/original/14fb2a5afd127e14fb2a5afda24c.jpg
+    alt:
+      en: "A white, weathered square fence post stands amid dry grass, with its matching decorative ball finial knocked off and lying on the ground beside it; a chain-link fence and tree stump are visible behind."
 geo:
 id: 3533
 item_type: Still Image

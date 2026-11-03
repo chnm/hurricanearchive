@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 072.jpg
     thumb: /files/thumbnails/14fb2a1284b8cd14fb2a1284bc8c.jpg
     url: /files/original/14fb2a1284b8cd14fb2a1284bc8c.jpg
+    alt:
+      en: "Large commercial building with red metal roofing damaged and peeled back, surrounded by a debris-strewn parking lot with insulation and roofing fragments scattered near palm trees and a parked car."
 geo:
 id: 19162
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: HS 7 snow 1961_cdcdd2745f.jpg
     thumb: /files/thumbnails/14fb29d887e5c414fb29d887e9aa.jpg
     url: /files/original/14fb29d887e5c414fb29d887e9aa.jpg
+    alt:
+      en: "Vintage color photo of a woman, man, and boy standing in a driveway beside a partially melted snowman, with a brick house and bare tree in the background."
 geo:
   address: ''
   lat: 29.91685

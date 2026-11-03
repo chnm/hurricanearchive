@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28703.jpg
     thumb: /files/thumbnails/14fb2a6b587ef014fb2a6b5882d7.jpg
     url: /files/original/14fb2a6b587ef014fb2a6b5882d7.jpg
+    alt:
+      en: "Two women converse near a horse trailer and barn; one wears a purple \"North Carolina Law Enforcers Torch Run\" shirt, the other a pink tank top with an ID badge and yellow wristband."
 geo:
   address: ''
   lat: 0.0

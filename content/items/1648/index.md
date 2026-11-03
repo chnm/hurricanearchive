@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28659.jpg
     thumb: /files/thumbnails/14fb2a6749d5e514fb2a6749d9cb.jpg
     url: /files/original/14fb2a6749d5e514fb2a6749d9cb.jpg
+    alt:
+      en: "A bald man embraces a tan dog standing on its hind legs in a covered animal shelter area, with wire crates, fans, and other volunteers visible in the background."
 geo:
   address: ''
   lat: 0.0

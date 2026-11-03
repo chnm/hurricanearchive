@@ -26,6 +26,8 @@ files:
     original_filename: Julias_daughter_004f06362e.jpg
     thumb: /files/thumbnails/14fb2a6d53e82914fb2a6d53ec0e.jpg
     url: /files/original/14fb2a6d53e82914fb2a6d53ec0e.jpg
+    alt:
+      en: "A man and woman stand smiling on the steps of a raised house, surrounded by floodwater that submerges the yard and a small tree, with a white bird floating nearby."
 geo:
   address: ''
   lat: 30.342352

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2134rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13eaea9814fb2a13eaef55.jpg
     url: /files/original/14fb2a13eaea9814fb2a13eaef55.jpg
+    alt:
+      en: "Aerial view of two helmeted rescue workers standing on a rooftop beside a blue duffel bag, surrounded by floodwater littered with debris and a partially submerged tree."
 geo:
 id: 18972
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: building-damage_2da133535e.jpg
     thumb: /files/thumbnails/14fb29c592a44114fb29c592a825.jpg
     url: /files/original/14fb29c592a44114fb29c592a825.jpg
+    alt:
+      en: "Interior of a concrete parking structure or building with exposed support columns, debris scattered on the floor, and a torn, flapping plastic or tarp covering over one of the window openings."
 geo:
 id: 36390
 item_type: Still Image

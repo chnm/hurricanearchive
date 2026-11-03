@@ -26,6 +26,8 @@ files:
     original_filename: 100_6919b_fab0bf66df.jpg
     thumb: /files/thumbnails/14fb2a6f78460214fb2a6f7849e6.jpg
     url: /files/original/14fb2a6f78460214fb2a6f7849e6.jpg
+    alt:
+      en: "A rusted, weathered vessel labeled \"S.S. HURRICANE CAMILLE, GULFPORT\" sits grounded on land near bare trees, with orange safety fencing and a building visible in the background."
 geo:
   address: ''
   lat: 30.005653

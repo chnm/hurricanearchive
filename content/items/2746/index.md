@@ -27,6 +27,8 @@ files:
     original_filename: '&ldquo;house Before Katrina"'
     thumb: /files/thumbnails/14fb2a6057b42314fb2a6057b809.jpg
     url: /files/original/14fb2a6057b42314fb2a6057b809.jpg
+    alt:
+      en: "Child's crayon drawing of a house numbered \"14\" with a window featuring yellow curtains and a steaming bowl on the sill, a door, a picket fence, a butterfly, and a smiling sun, labeled \"House Before Katrina\" by Denisha."
 geo:
 id: 2746
 item_type: Still Image

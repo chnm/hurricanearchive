@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-09-7AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f971281d14fb29f9712bf8.jpg
     url: /files/original/14fb29f971281d14fb29f9712bf8.jpg
+    alt:
+      en: "Grainy, dark photo of a flooded floor or road surface with faint white spray-painted markings and numbers, with structural elements visible in the upper background."
 geo:
 id: 22129
 item_type: Still Image

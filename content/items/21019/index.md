@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0170-21.JPG
     thumb: /files/thumbnails/14fb2a010a744b14fb2a010a7830.jpg
     url: /files/original/14fb2a010a744b14fb2a010a7830.jpg
+    alt:
+      en: "A tree-lined residential street with a blue pickup truck parked on the grass, debris and trash bags piled along the curb, and a yellow curve warning sign in the background."
 geo:
 id: 21019
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28015.jpg
     thumb: /files/thumbnails/14fb2a686c7bc914fb2a686c7f6c.jpg
     url: /files/original/14fb2a686c7bc914fb2a686c7f6c.jpg
+    alt:
+      en: "Debris-strewn lot with two white pickup trucks parked beside damaged houses, scattered rubble, a concrete pipe, and a high-rise building visible in the background under a clear sky."
 geo:
   address: ''
   lat: 0.0

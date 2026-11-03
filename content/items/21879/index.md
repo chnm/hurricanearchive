@@ -21,6 +21,8 @@ files:
     original_filename: Loyola University looking North.jpg
     thumb: /files/thumbnails/14fb29fb48368114fb29fb484aca.jpg
     url: /files/original/14fb29fb48368114fb29fb484aca.jpg
+    alt:
+      en: "Aerial view of Loyola University and surrounding New Orleans neighborhood looking north, with visible floodwaters pooling in streets and low-lying areas after the hurricane."
 geo:
 id: 21879
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: J2 (38).JPG
     thumb: /files/thumbnails/14fb2a1130c16514fb2a1130c54c.jpg
     url: /files/original/14fb2a1130c16514fb2a1130c54c.jpg
+    alt:
+      en: "Aerial view of a flooded road lined with debris and fallen branches, partially obscured by a large tree with sparse, damaged limbs in the foreground."
 geo:
 id: 19320
 item_type: Still Image

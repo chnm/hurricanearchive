@@ -17,6 +17,8 @@ files:
     original_filename: 854407452_9b8ec77fbf_94cc4dcbe8.jpg
     thumb: /files/thumbnails/14fb29c566294b14fb29c5662d2d.jpg
     url: /files/original/14fb29c566294b14fb29c5662d2d.jpg
+    alt:
+      en: "Weathered white clapboard house with a broken, boarded window, spray-painted skull and orange X marks on the siding, surrounded by overgrown tree branches and foliage."
 geo:
   address: 8 yosemite dr.
   lat: 29.91718

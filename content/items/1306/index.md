@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28393.jpg
     thumb: /files/thumbnails/14fb2a69c2fed214fb2a69c302c6.jpg
     url: /files/original/14fb2a69c2fed214fb2a69c302c6.jpg
+    alt:
+      en: "Two men stand aboard a shrimp boat deck amid ropes, nets, and buoys; one in a blue shirt writes on a notepad while the other, in a purple shirt, steps over an open hatch."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0087OEP.JPG
     thumb: /files/thumbnails/14fb29f1a0282214fb29f1a02bf3.jpg
     url: /files/original/14fb29f1a0282214fb29f1a02bf3.jpg
+    alt:
+      en: "Outdoor news broadcast setup under a canopy tent, with a cameraman, a woman checking her phone, and a man talking nearby, surrounded by equipment cases labeled \"CNN\" and cables on pavement."
 geo:
 id: 23077
 item_type: Still Image

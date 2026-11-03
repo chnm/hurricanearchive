@@ -21,6 +21,8 @@ files:
     original_filename: 04.05 N.O.044.JPG
     thumb: /files/thumbnails/14fb29dcfaf6df14fb29dcfafac5.jpg
     url: /files/original/14fb29dcfaf6df14fb29dcfafac5.jpg
+    alt:
+      en: "A woman with long reddish dreadlocks, wearing a striped top and black overalls, sprays water into a wooden basin near a model sailing ship and assorted tools."
 geo:
 id: 25627
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0174-9-25.JPG
     thumb: /files/thumbnails/14fb2a00a439e114fb2a00a43dc7.jpg
     url: /files/original/14fb2a00a439e114fb2a00a43dc7.jpg
+    alt:
+      en: "Aerial view of extensive floodwater submerging a rural area, with bare trees, a fence line, scattered debris, and a utility pole protruding above the water's surface."
 geo:
 id: 21088
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: IMG_0091_7cd259d9e1.JPG
     thumb: /files/thumbnails/14fb2a6dc0922914fb2a6dc09611.jpg
     url: /files/original/14fb2a6dc0922914fb2a6dc09611.jpg
+    alt:
+      en: "Overturned and damaged trailer with exposed framing sits on bare ground near wooden steps, debris, and scattered pipes, with a \"P.O. BOX\" business sign and pine trees in the background."
 geo:
   address: ''
   lat: 30.125233517313298

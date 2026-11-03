@@ -21,6 +21,8 @@ files:
     original_filename: Iwo and Cruise Shipiwojima.JPG
     thumb: /files/thumbnails/14fb2a116359cf14fb2a11635db3.jpg
     url: /files/original/14fb2a116359cf14fb2a11635db3.jpg
+    alt:
+      en: "View from a bridge of a city skyline along a wide river, with a white cruise ship and a gray naval vessel docked at the waterfront under an overcast sky."
 geo:
 id: 19275
 item_type: Still Image

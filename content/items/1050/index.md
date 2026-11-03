@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28101.jpg
     thumb: /files/thumbnails/14fb2a6b444a8314fb2a6b4451d8.jpg
     url: /files/original/14fb2a6b444a8314fb2a6b4451d8.jpg
+    alt:
+      en: "Empty, colorful patterned seating sections rise above a damaged stadium wall, with exposed structural supports and a light shining onto the turf below, taken at night inside the Superdome."
 geo:
   address: ''
   lat: 0.0

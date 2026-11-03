@@ -21,6 +21,8 @@ files:
     original_filename: SS NOLA Lower 9th Ward (74).jpg
     thumb: /files/thumbnails/14fb2a5c72fce314fb2a5c72ffcb.jpg
     url: /files/original/14fb2a5c72fce314fb2a5c72ffcb.jpg
+    alt:
+      en: "Aerial view of a muddy canal lined with storm debris and flattened structures, with a vertical-lift bridge in the background and a lone maroon van parked amid the wreckage."
 geo:
 id: 3315
 item_type: Still Image

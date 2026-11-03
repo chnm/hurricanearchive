@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1678superdome.JPG
     thumb: /files/thumbnails/14fb29e267da5e14fb29e267de42.jpg
     url: /files/original/14fb29e267da5e14fb29e267de42.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms stand in a group, one wearing an \"MP\" armband with an eagle emblem patch, amid parked vehicles in the background."
 geo:
 id: 25093
 item_type: Still Image

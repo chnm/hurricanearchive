@@ -21,6 +21,8 @@ files:
     original_filename: 09140025Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f97d48cc14fb29f97d4cbb.jpg
     url: /files/original/14fb29f97d48cc14fb29f97d4cbb.jpg
+    alt:
+      en: "Single-story brick building with several vehicles parked on a gravel lot, dead tree branches piled in the foreground, and a brick tower and trees visible in the background under a clear sky."
 geo:
 id: 22114
 item_type: Still Image

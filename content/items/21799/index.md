@@ -21,6 +21,8 @@ files:
     original_filename: katrina 069.jpg
     thumb: /files/thumbnails/14fb29fbb5888014fb29fbb58c65.jpg
     url: /files/original/14fb29fbb5888014fb29fbb58c65.jpg
+    alt:
+      en: "Debris-strewn train platform beneath a canopy, with a \"No Parking - Passenger Zone\" sign in foreground, tracks littered with trash, and two uniformed figures walking near a building in the background."
 geo:
 id: 21799
 item_type: Still Image

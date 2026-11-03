@@ -21,6 +21,8 @@ files:
     original_filename: Arabi Nursing Home.jpg
     thumb: /files/thumbnails/14fb29fb6b5ad014fb29fb6b62e6.jpg
     url: /files/original/14fb29fb6b5ad014fb29fb6b62e6.jpg
+    alt:
+      en: "Aerial view of a severely flooded residential neighborhood with a large nursing home building surrounded by murky water, submerged houses, trees, and streets, only rooftops visible above the floodwater."
 geo:
 id: 21833
 item_type: Still Image

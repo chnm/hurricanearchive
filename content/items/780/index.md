@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27899.jpg
     thumb: /files/thumbnails/14fb2a6d1219c314fb2a6d122677.jpg
     url: /files/original/14fb2a6d1219c314fb2a6d122677.jpg
+    alt:
+      en: "A man in a checkered shirt stands beside a black-and-white Houma Police patrol car marked \"City of Houma\" and \"Police,\" parked on a residential street with other vehicles and houses in the background."
 geo:
   address: ''
   lat: 0.0

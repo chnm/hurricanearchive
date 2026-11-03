@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 025.jpg
     thumb: /files/thumbnails/14fb2a12e517dd14fb2a12e51bc3.jpg
     url: /files/original/14fb2a12e517dd14fb2a12e51bc3.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms walk across a concrete warehouse floor past orange traffic cones and a sign reading \"In-Processing Units,\" with office furniture and a \"NO SMOKING\" sign visible in the background."
 geo:
 id: 19115
 item_type: Still Image

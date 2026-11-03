@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0243downtownnola.JPG
     thumb: /files/thumbnails/14fb2a149e278714fb2a149e2b6e.jpg
     url: /files/original/14fb2a149e278714fb2a149e2b6e.jpg
+    alt:
+      en: "Aerial view of a flood-damaged neighborhood with debris-covered streets, scattered trees, and a collapsed or displaced section of flooring/boardwalk running alongside a levee near open water."
 geo:
 id: 18893
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 056.jpg
     thumb: /files/thumbnails/14fb2a22adb5c814fb2a22adb9ae.jpg
     url: /files/original/14fb2a22adb5c814fb2a22adb9ae.jpg
+    alt:
+      en: "A severely damaged low-rise building with a collapsed roof and exposed walls, surrounded by scattered debris on the ground; bare tree branches frame the scene, dated 2005/09/24."
 geo:
 id: 11934
 item_type: Still Image

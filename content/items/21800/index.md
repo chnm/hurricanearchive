@@ -21,6 +21,8 @@ files:
     original_filename: katrina 070.jpg
     thumb: /files/thumbnails/14fb29fbb39c6814fb29fbb3a050.jpg
     url: /files/original/14fb29fbb39c6814fb29fbb3a050.jpg
+    alt:
+      en: "A uniformed service member sits inside a military vehicle, looking out the window at a street filled with massive piles of rubble and debris between damaged multi-story buildings."
 geo:
 id: 21800
 item_type: Still Image

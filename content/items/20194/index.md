@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0111-18-9-18.JPG
     thumb: /files/thumbnails/14fb2a0acd599614fb2a0acd5fa5.jpg
     url: /files/original/14fb2a0acd599614fb2a0acd5fa5.jpg
+    alt:
+      en: "Collapsed houses and debris line a flooded, muddy lot with abandoned cars partially submerged in water; a uniformed person walks along a rusted metal barrier in the foreground."
 geo:
 id: 20194
 item_type: Still Image

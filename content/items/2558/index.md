@@ -24,6 +24,8 @@ files:
     original_filename: 20051106_MG_8911.jpg
     thumb: /files/thumbnails/14fb2a6555a51f14fb2a6555af14.jpg
     url: /files/original/14fb2a6555a51f14fb2a6555af14.jpg
+    alt:
+      en: "A large diamond-shaped sign reading \"P&J FREON DEVICES REFRIGERATORS & FREEZERS\" stands before a debris field of discarded appliances, with a crane and seagulls visible under a clear sky."
 geo:
 id: 2558
 item_type: Still Image

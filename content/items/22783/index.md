@@ -21,6 +21,8 @@ files:
     original_filename: S4300139Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f3f787f114fb29f3f78bd4.jpg
     url: /files/original/14fb29f3f787f114fb29f3f78bd4.jpg
+    alt:
+      en: "Military camouflage trucks and trailers, marked \"OMS #13,\" parked behind a chain-link fence with tattered fabric caught on the wire and debris scattered on the gravel lot."
 geo:
 id: 22783
 item_type: Still Image

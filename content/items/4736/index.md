@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0083.JPG
     thumb: /files/thumbnails/14fb2a55d30d3214fb2a55d31139.jpg
     url: /files/original/14fb2a55d30d3214fb2a55d31139.jpg
+    alt:
+      en: "A yellow tape measure stretched across a wooden board laid over dark soil, with numbers visible from 1 to 10, surrounded by dry leaves and dirt."
 geo:
 id: 4736
 item_type: Still Image

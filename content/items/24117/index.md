@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0014stbernardparishS&R.JPG
     thumb: /files/thumbnails/14fb29ea83cd2814fb29ea83d0da.jpg
     url: /files/original/14fb29ea83cd2814fb29ea83d0da.jpg
+    alt:
+      en: "A military-style front-loader (marked \"225GP 527E C-27\") plows through flooded, mud-covered streets past storm-damaged brick homes with stripped trees and debris in the background."
 geo:
 id: 24117
 item_type: Still Image

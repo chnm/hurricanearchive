@@ -20,6 +20,8 @@ files:
     original_filename: 2421693544_3c6b2e5d18.
     thumb: /files/thumbnails/14fb29c91e522614fb29c91e560a.jpg
     url: /files/original/14fb29c91e522614fb29c91e560a.jpg
+    alt:
+      en: "A grimy, abandoned bathtub coated in dried mud and debris sits in a room with peeling teal paint and exposed, water-damaged wood paneling on the walls."
 geo:
   address: ''
   lat: 29.99774

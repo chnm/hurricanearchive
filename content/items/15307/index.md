@@ -21,6 +21,8 @@ files:
     original_filename: PPeabody-3_26a54322ef.jpg
     thumb: /files/thumbnails/14fb2a169f3a4414fb2a169f3e2a.jpg
     url: /files/original/14fb2a169f3a4414fb2a169f3e2a.jpg
+    alt:
+      en: "A bride in a white lace gown and veil stands beside a light-colored car with its door open, holding a bouquet, next to a man in a gray tuxedo, parked in a driveway."
 geo:
 id: 15307
 item_type: Still Image

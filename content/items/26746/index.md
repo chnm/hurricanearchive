@@ -24,6 +24,8 @@ files:
     original_filename: RB French Quarter 1900_8d8084faaa.jpg
     thumb: /files/thumbnails/14fb29d808a06014fb29d808a446.jpg
     url: /files/original/14fb29d808a06014fb29d808a446.jpg
+    alt:
+      en: "Sepia-toned photo of a wood-frame shotgun house with shuttered windows and double doors, a vintage car with a rumble seat parked at the curb in front."
 geo:
   address: ''
   lat: 29.87876

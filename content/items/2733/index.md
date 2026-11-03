@@ -21,6 +21,8 @@ files:
     original_filename: 30.jpg
     thumb: /files/thumbnails/14fb2a6061d39f14fb2a6061d785.jpg
     url: /files/original/14fb2a6061d39f14fb2a6061d785.jpg
+    alt:
+      en: "Child's drawing of a tilted house with a green roof and orange walls, a door reading \"help me,\" hearts, and handwritten text reading \"by Kevinneisha, it was not good in New Orleans, when i got here i was so happy, Love always Texas Love.\""
 geo:
 id: 2733
 item_type: Still Image

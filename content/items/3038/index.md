@@ -21,6 +21,8 @@ files:
     original_filename: 100_0287.JPG
     thumb: /files/thumbnails/14fb2a5e77e92614fb2a5e77ed0a.jpg
     url: /files/original/14fb2a5e77e92614fb2a5e77ed0a.jpg
+    alt:
+      en: "Close-up view of a large ship's gray hull and bow, showing rust streaks and riveted steel plating, docked alongside a pier with water visible below."
 geo:
 id: 3038
 item_type: Still Image

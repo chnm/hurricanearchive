@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a06e3467a14fb2a06e34a60.jpg
     url: /files/original/14fb2a06e3467a14fb2a06e34a60.jpg
+    alt:
+      en: "Aerial view of a mobile home community with damaged roofs, scattered debris, downed power lines, and snapped trees, with floodwater pooling near several trailers."
 geo:
 id: 20482
 item_type: Still Image

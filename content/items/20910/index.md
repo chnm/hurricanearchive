@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0146-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0211603514fb2a02116d1c.jpg
     url: /files/original/14fb2a0211603514fb2a02116d1c.jpg
+    alt:
+      en: "Floodwaters cover a field and partially submerge scattered debris—appliances, furniture, and metal fragments—under an overcast sky, with bare, storm-damaged trees lining the horizon."
 geo:
 id: 20910
 item_type: Still Image

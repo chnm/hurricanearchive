@@ -21,6 +21,8 @@ files:
     original_filename: MVC-008S.JPG
     thumb: /files/thumbnails/14fb2a5ff6cbd414fb2a5ff6cfba.jpg
     url: /files/original/14fb2a5ff6cbd414fb2a5ff6cfba.jpg
+    alt:
+      en: "Damaged aircraft wing with torn metal skin and an external fuel tank hanging beneath it, with a small plane marked \"MARINES\" and industrial structures visible in the background under a clear blue sky."
 geo:
 id: 2817
 item_type: Still Image

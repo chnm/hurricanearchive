@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0003.JPG
     thumb: /files/thumbnails/14fb2a57a4caed14fb2a57a4ced4.jpg
     url: /files/original/14fb2a57a4caed14fb2a57a4ced4.jpg
+    alt:
+      en: "A large rusted fishing trawler named \"Caminada Bay\" sits stranded on dry land along a shoreline, with bare trees and power lines visible in the background under a hazy sky."
 geo:
 id: 4117
 item_type: Still Image

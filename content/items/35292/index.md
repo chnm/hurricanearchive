@@ -18,6 +18,8 @@ files:
     original_filename: 27_99406d9c6b.jpg
     thumb: /files/thumbnails/14fb29c6f84f6414fb29c6f85348.jpg
     url: /files/original/14fb29c6f84f6414fb29c6f85348.jpg
+    alt:
+      en: "Marching band members in red and white uniforms carry rifles and flags featuring a ram emblem during a street parade, with onlookers and bare trees in the background."
 geo:
   address: new orleans, la
   lat: 29.95324

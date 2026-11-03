@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1485superdome.JPG
     thumb: /files/thumbnails/14fb29e3894a9614fb29e3894f99.jpg
     url: /files/original/14fb29e3894a9614fb29e3894f99.jpg
+    alt:
+      en: "Military personnel in flight suits and helmets stand around a parked helicopter on a tarmac, with city skyscrapers visible in the hazy background."
 geo:
 id: 24967
 item_type: Still Image

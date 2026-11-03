@@ -26,6 +26,8 @@ files:
     original_filename: katrina13_1b3fa79b1e.jpg
     thumb: /files/thumbnails/14fb2a70b349a414fb2a70b34d86.jpg
     url: /files/original/14fb2a70b349a414fb2a70b34d86.jpg
+    alt:
+      en: "A dark oil-stained yard and roadway in front of single-story houses, with a teal pickup truck parked near a home, power lines overhead, and a muddy, blackened ground in Chalmette, LA."
 geo:
   address: ''
   lat: 29.945935942595003

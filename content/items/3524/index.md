@@ -24,6 +24,8 @@ files:
     original_filename: P1010099.JPG
     thumb: /files/thumbnails/14fb2a5b2cd00314fb2a5b2cd3e9.jpg
     url: /files/original/14fb2a5b2cd00314fb2a5b2cd3e9.jpg
+    alt:
+      en: "Weathered two-story duplex with a screened front porch, torn screening, graffiti markings near the entrance, mismatched blue and red wooden steps, and an overgrown, debris-strewn yard."
 geo:
 id: 3524
 item_type: Still Image

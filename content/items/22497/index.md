@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1338Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5d1beff14fb29f5d1c7b6.jpg
     url: /files/original/14fb29f5d1beff14fb29f5d1c7b6.jpg
+    alt:
+      en: "Floodwaters surround a long brick building with a gray shingled roof, submerging its lower windows and doors, under an overcast sky with wind-blown trees in the background."
 geo:
 id: 22497
 item_type: Still Image

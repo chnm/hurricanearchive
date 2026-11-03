@@ -21,6 +21,8 @@ files:
     original_filename: IMG_0039.JPG
     thumb: /files/thumbnails/14fb2a580e5d0214fb2a580e60ea.jpg
     url: /files/original/14fb2a580e5d0214fb2a580e60ea.jpg
+    alt:
+      en: "Large group of uniformed personnel, including U.S. Coast Guard members, gather outdoors near Porta King trailers as a helicopter flies overhead in a clear blue sky."
 geo:
 id: 4075
 item_type: Still Image

@@ -24,6 +24,8 @@ files:
     original_filename: P1010133.JPG
     thumb: /files/thumbnails/14fb2a5a1e3a9714fb2a5a1e3e88.jpg
     url: /files/original/14fb2a5a1e3a9714fb2a5a1e3e88.jpg
+    alt:
+      en: "Large white Victorian-style mansion with wraparound double balconies, ornate columns, and a brick chimney, enclosed by an elaborate wrought-iron fence and gate, set against a blue sky with palm trees nearby."
 geo:
 id: 3691
 item_type: Still Image

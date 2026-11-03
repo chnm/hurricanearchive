@@ -21,6 +21,8 @@ files:
     original_filename: J2 (50).JPG
     thumb: /files/thumbnails/14fb2a111994ba14fb2a1119989d.jpg
     url: /files/original/14fb2a111994ba14fb2a1119989d.jpg
+    alt:
+      en: "Aerial view from a helicopter over a river, showing the \"RIVERWALK\" shopping mall, a docked naval ship, and a parking lot filled with military vehicles, with a silhouetted person in the foreground."
 geo:
 id: 19334
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: 89.jpg
     thumb: /files/thumbnails/14fb2a602897e814fb2a602899ac.jpg
     url: /files/original/14fb2a602897e814fb2a602899ac.jpg
+    alt:
+      en: "Child's marker drawing of a green school bus with rows of stick-figure passengers visible through the windows, labeled \"school bus\"; signed \"Shandrelia, Age 10.\""
 geo:
 id: 2796
 item_type: Still Image

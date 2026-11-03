@@ -21,6 +21,8 @@ files:
     original_filename: DSC01130.JPG
     thumb: /files/thumbnails/14fb2a586afeb614fb2a586b029c.jpg
     url: /files/original/14fb2a586afeb614fb2a586b029c.jpg
+    alt:
+      en: "A U.S. Coast Guard member in an orange life vest sits at the bow of a boat navigating a flooded residential street, with a submerged stop sign and boarded-up houses surrounded by floodwater."
 geo:
 id: 4021
 item_type: Still Image

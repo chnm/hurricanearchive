@@ -20,6 +20,8 @@ files:
     original_filename: 2421714900_fd5d2b5900.
     thumb: /files/thumbnails/14fb29c9574dd014fb29c95751b5.jpg
     url: /files/original/14fb29c9574dd014fb29c95751b5.jpg
+    alt:
+      en: "White Toyota pickup truck parked on a street beside a utility pole, with other vehicles, trees, and buildings in the background; a manhole cover and debris lie on the grassy curb nearby."
 geo:
   address: ''
   lat: 29.97632

@@ -20,6 +20,8 @@ files:
     original_filename: 2433989029_4d079b1e9d.
     thumb: /files/thumbnails/14fb29c96d573414fb29c96d5e1e.jpg
     url: /files/original/14fb29c96d573414fb29c96d5e1e.jpg
+    alt:
+      en: "A storm-damaged house with its roof partially torn off stands amid large trees, surrounded by scattered debris, broken wood, and a bent metal fence in the foreground."
 geo:
 id: 34703
 item_type: Still Image

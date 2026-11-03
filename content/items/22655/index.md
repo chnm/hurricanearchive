@@ -21,6 +21,8 @@ files:
     original_filename: PCDV0176Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d74a6414fb29f4d74e43.jpg
     url: /files/original/14fb29f4d74a6414fb29f4d74e43.jpg
+    alt:
+      en: "Storm-damaged covered walkway with twisted metal roofing lies collapsed beside a building, surrounded by debris-strewn bare ground and wind-bent trees under a partly cloudy sky."
 geo:
 id: 22655
 item_type: Still Image

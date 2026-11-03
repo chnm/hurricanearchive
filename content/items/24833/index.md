@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2155superdome.JPG
     thumb: /files/thumbnails/14fb29e47a276c14fb29e47a2b49.jpg
     url: /files/original/14fb29e47a276c14fb29e47a2b49.jpg
+    alt:
+      en: "A man in military fatigues and a camouflage cap holds a rifle mounted on a vehicle, with a concrete wall and the Superdome visible in the background."
 geo:
 id: 24833
 item_type: Still Image

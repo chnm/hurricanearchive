@@ -21,6 +21,8 @@ files:
     original_filename: ES Carville, LA (11).JPG
     thumb: /files/thumbnails/14fb2a5e1366be14fb2a5e136aa0.jpg
     url: /files/original/14fb2a5e1366be14fb2a5e136aa0.jpg
+    alt:
+      en: "A woman stands beside a plywood counter spray-painted with \"Katrina Rita's\" and a red hurricane symbol, inside a large tent with rows of temporary shelters visible outside."
 geo:
 id: 3092
 item_type: Still Image

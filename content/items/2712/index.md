@@ -21,6 +21,8 @@ files:
     original_filename: 134.jpg
     thumb: /files/thumbnails/14fb2a6074c07414fb2a6074c467.jpg
     url: /files/original/14fb2a6074c07414fb2a6074c467.jpg
+    alt:
+      en: "Child's crayon drawing of a house labeled \"Home\" with a smiley face, featuring red oval and orange square windows, a sun in the upper left, and a small car sketched in the lower left corner."
 geo:
 id: 2712
 item_type: Still Image

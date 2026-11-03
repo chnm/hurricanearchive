@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28748.jpg
     thumb: /files/thumbnails/14fb2a69633fc614fb2a6963444b.jpg
     url: /files/original/14fb2a69633fc614fb2a6963444b.jpg
+    alt:
+      en: "A wire animal carrier holds a reptile curled beside white cloth bedding, with straw-covered ground and a wooden cabinet visible in the background."
 geo:
   address: ''
   lat: 0.0

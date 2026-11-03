@@ -24,6 +24,8 @@ files:
     original_filename: P1010149.JPG
     thumb: /files/thumbnails/14fb2a5ac180fd14fb2a5ac18df4.jpg
     url: /files/original/14fb2a5ac180fd14fb2a5ac18df4.jpg
+    alt:
+      en: "A massive pile of storm debris—including wood, furniture, appliances, and scrap metal—dominates a cleared lot, with orange construction fencing and trees visible in the background under a clear sky."
 geo:
 id: 3574
 item_type: Still Image

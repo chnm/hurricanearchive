@@ -21,6 +21,8 @@ files:
     original_filename: Picture 279-J2.jpg
     thumb: /files/thumbnails/14fb29fae434a014fb29fae43894.jpg
     url: /files/original/14fb29fae434a014fb29fae43894.jpg
+    alt:
+      en: "Floodwater surrounds a row of houses and trees, viewed from an elevated highway with concrete barriers in the foreground; port cranes are visible on the horizon under a blue sky."
 geo:
 id: 21948
 item_type: Still Image

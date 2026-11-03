@@ -21,6 +21,8 @@ files:
     original_filename: DSCN2241engineers.JPG
     thumb: /files/thumbnails/14fb2a10a590f714fb2a10a594dc.jpg
     url: /files/original/14fb2a10a590f714fb2a10a594dc.jpg
+    alt:
+      en: "Two soldiers in camouflage uniforms stand on a debris-strewn street, with military trucks and Humvees parked near houses in the background, name tape reading \"U.S. ARMY\" visible on one uniform."
 geo:
 id: 19380
 item_type: Still Image

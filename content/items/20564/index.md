@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a061c31e414fb2a061c35b2.jpg
     url: /files/original/14fb2a061c31e414fb2a061c35b2.jpg
+    alt:
+      en: "Floodwaters surround a small patch of muddy land where cattle graze near a hay bale, with submerged fencing, debris, and farm equipment scattered across the inundated field."
 geo:
 id: 20564
 item_type: Still Image

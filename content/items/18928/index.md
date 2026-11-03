@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0278downtownnola.JPG
     thumb: /files/thumbnails/14fb2a1428339114fb2a1428373b.jpg
     url: /files/original/14fb2a1428339114fb2a1428373b.jpg
+    alt:
+      en: "Aerial view of residential rooftops, bare sandy ground, and scattered trees with some scorched or damaged foliage, along with a utility pole and lines running through the lot."
 geo:
 id: 18928
 item_type: Still Image

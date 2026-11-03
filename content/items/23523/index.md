@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0159abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef1e01c314fb29ef1e05a8.jpg
     url: /files/original/14fb29ef1e01c314fb29ef1e05a8.jpg
+    alt:
+      en: "A flood-damaged single-story house with a metal roof stands partially surrounded by standing water, with broken windows, debris, and downed power lines scattered around it."
 geo:
 id: 23523
 item_type: Still Image

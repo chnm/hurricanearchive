@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27960.jpg
     thumb: /files/thumbnails/14fb2a6b4071ee14fb2a6b4079bb.jpg
     url: /files/original/14fb2a6b4071ee14fb2a6b4079bb.jpg
+    alt:
+      en: "A man in a cap kneels on a sidewalk working on a fallen light pole, with \"Bud Light\" and \"New Orleans Hornets\" banners lying flat on the ground beside him."
 geo:
   address: ''
   lat: 0.0

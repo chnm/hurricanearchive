@@ -24,6 +24,8 @@ files:
     original_filename: MaryXmas03 (21) (2)_871185d0ff.jpg
     thumb: /files/thumbnails/14fb29ca64483d14fb29ca644c06.jpg
     url: /files/original/14fb29ca64483d14fb29ca644c06.jpg
+    alt:
+      en: "Group of children and adults smiling together on the floor of a living room, dressed in patterned clothing, captured in a warmly lit indoor setting during a Christmas gathering."
 geo:
   address: ''
   lat: 0.0

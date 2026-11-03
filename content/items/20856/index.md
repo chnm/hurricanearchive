@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0133.JPG
     thumb: /files/thumbnails/14fb2a02c94e5214fb2a02c9d24e.jpg
     url: /files/original/14fb2a02c94e5214fb2a02c9d24e.jpg
+    alt:
+      en: "Aerial view of a storm-damaged commercial and residential area with stripped gas station canopies, a red-roofed Pizza Hut, scattered debris, and bare lots along intersecting streets."
 geo:
 id: 20856
 item_type: Still Image

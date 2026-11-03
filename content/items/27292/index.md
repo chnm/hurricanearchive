@@ -20,6 +20,8 @@ files:
     original_filename: pt_riv_pltside_9c095973f7.jpg
     thumb: /files/thumbnails/14fb29d5862ebc14fb29d5863580.jpg
     url: /files/original/14fb29d5862ebc14fb29d5863580.jpg
+    alt:
+      en: "Storm-damaged two-story house raised on pilings, with missing roof shingles and scattered debris in the foreground, surrounded by downed trees, bent palm fronds, and a damaged chain-link fence."
 geo:
   address: ''
   lat: 0.0

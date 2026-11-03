@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0039media.JPG
     thumb: /files/thumbnails/14fb29f29d14e214fb29f29d18c7.jpg
     url: /files/original/14fb29f29d14e214fb29f29d18c7.jpg
+    alt:
+      en: "Woman wearing a headset with boom microphone sits inside an aircraft, with another person's arm and equipment labeled \"GHP Batt\" visible nearby."
 geo:
 id: 22935
 item_type: Still Image

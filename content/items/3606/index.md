@@ -24,6 +24,8 @@ files:
     original_filename: P1010037.JPG
     thumb: /files/thumbnails/14fb2a5aa47c8814fb2a5aa4806e.jpg
     url: /files/original/14fb2a5aa47c8814fb2a5aa4806e.jpg
+    alt:
+      en: "Interior of a school gymnasium filled with stacked cardboard boxes, office chairs, and equipment salvaged from flooded classrooms, with championship banners and a scoreboard reading \"Powerade\" and \"Coca-Cola Classic\" visible above."
 geo:
 id: 3606
 item_type: Still Image

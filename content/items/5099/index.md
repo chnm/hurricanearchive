@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0444.JPG
     thumb: /files/thumbnails/14fb2a53e91d8a14fb2a53e9216e.jpg
     url: /files/original/14fb2a53e91d8a14fb2a53e9216e.jpg
+    alt:
+      en: "A yellow tape measure extended across a damaged wooden beam, showing measurements up to about 9 inches, with surrounding debris including plastic sheeting and scattered boards."
 geo:
 id: 5099
 item_type: Still Image

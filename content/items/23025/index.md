@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0035OEP.JPG
     thumb: /files/thumbnails/14fb29f203c33614fb29f203caf5.jpg
     url: /files/original/14fb29f203c33614fb29f203caf5.jpg
+    alt:
+      en: "Row of large beige military-style tents connected by ribbed ducting to a trailer-mounted climate control unit, with orange traffic cones set on the pavement in front."
 geo:
 id: 23025
 item_type: Still Image

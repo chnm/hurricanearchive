@@ -21,6 +21,8 @@ files:
     original_filename: 501059-R1-18-17A.jpg
     thumb: /files/thumbnails/14fb29e8664b5614fb29e8664f3c.jpg
     url: /files/original/14fb29e8664b5614fb29e8664f3c.jpg
+    alt:
+      en: "A row of cots lines a dim hallway, piled with camouflage gear, backpacks, and bags, with a desert-pattern jacket hung on the half-wall and a framed picture on the wall above."
 geo:
 id: 24370
 item_type: Still Image

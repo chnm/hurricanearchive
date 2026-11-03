@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2071superdome.JPG
     thumb: /files/thumbnails/14fb29ded9d43314fb29ded9d71d.jpg
     url: /files/original/14fb29ded9d43314fb29ded9d71d.jpg
+    alt:
+      en: "Two men in camouflage pants and blue protective gloves support a disheveled man in a white T-shirt between them, with an elevated roadway and open pavement visible in the background."
 geo:
 id: 25344
 item_type: Still Image

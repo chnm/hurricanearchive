@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0032M.JPG
     thumb: /files/thumbnails/14fb2a0638fb1e14fb2a06391fa1.jpg
     url: /files/original/14fb2a0638fb1e14fb2a06391fa1.jpg
+    alt:
+      en: "Collapsed metal canopy structure and scattered debris cover a parking lot, with a red car parked nearby and a brick building in the background."
 geo:
 id: 20552
 item_type: Still Image

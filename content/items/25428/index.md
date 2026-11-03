@@ -21,6 +21,8 @@ files:
     original_filename: Under the Superdome 13superdome.jpg
     thumb: /files/thumbnails/14fb29dddbe8d014fb29dddbecb4.jpg
     url: /files/original/14fb29dddbe8d014fb29dddbecb4.jpg
+    alt:
+      en: "Floodwaters submerge a parking lot filled with partially sunken cars, with a few people wading through the murky water near a building and palm trees in the background."
 geo:
 id: 25428
 item_type: Still Image

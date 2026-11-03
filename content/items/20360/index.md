@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0005-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a085e7a1614fb2a085e7e03.jpg
     url: /files/original/14fb2a085e7a1614fb2a085e7e03.jpg
+    alt:
+      en: "Sideways nighttime photo of an older man with gray hair and glasses wearing a brown shirt, standing indoors near a window, with another person's arm and a water bottle visible above him."
 geo:
 id: 20360
 item_type: Still Image

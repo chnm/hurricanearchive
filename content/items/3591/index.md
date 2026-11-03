@@ -24,6 +24,8 @@ files:
     original_filename: P1010018.JPG
     thumb: /files/thumbnails/14fb2a5aad171214fb2a5aad1afe.jpg
     url: /files/original/14fb2a5aad171214fb2a5aad1afe.jpg
+    alt:
+      en: "A wrecked Ford pickup truck with its roof and windshield torn off sits abandoned on a debris-strewn lot, with damaged brick houses visible in the background."
 geo:
 id: 3591
 item_type: Still Image

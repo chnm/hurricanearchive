@@ -27,6 +27,8 @@ files:
     original_filename: sullivan&levine_47d94423b0.jpg.JPG
     thumb: /files/thumbnails/14fb29d15baf2614fb29d15bb30c.jpg
     url: /files/original/14fb29d15baf2614fb29d15bb30c.jpg
+    alt:
+      en: "A tall wooden scaffold tower spelling \"FALSESTATE\" in large letters stands in a yard beside a corrugated metal fence painted with a mural, topped by a small lighthouse-like structure, with razor wire visible above the fence."
 geo:
   address: 2426 Bradish Place
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: 09140010.JPG
     thumb: /files/thumbnails/14fb29e981406614fb29e981444b.jpg
     url: /files/original/14fb29e981406614fb29e981444b.jpg
+    alt:
+      en: "A white speedboat with red, blue, and black striping lies grounded on a debris-strewn embankment, surrounded by broken tree branches and storm wreckage, with a damaged building visible in the background."
 geo:
 id: 24229
 item_type: Still Image

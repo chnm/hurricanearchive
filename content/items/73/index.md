@@ -26,6 +26,8 @@ files:
     original_filename: 100_5704_60b22de5c0.JPG
     thumb: /files/thumbnails/14fb2a712289fb14fb2a71228de1.jpg
     url: /files/original/14fb2a712289fb14fb2a71228de1.jpg
+    alt:
+      en: "Hand-painted plywood signs below an \"Oriental Rugs Antique and New\" storefront sign, with humorous warnings about armed occupants and a message inviting Mardi Gras krewes to return, dated 9/11/05."
 geo:
   address: ''
   lat: 30.005653

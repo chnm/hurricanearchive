@@ -24,6 +24,8 @@ files:
     original_filename: P1010010.JPG
     thumb: /files/thumbnails/14fb2a5ab5bbb914fb2a5ab5bf9d.jpg
     url: /files/original/14fb2a5ab5bbb914fb2a5ab5bf9d.jpg
+    alt:
+      en: "Interior of a storm-damaged home with a stained, rusted mattress amid debris, torn insulation panels, a discolored armchair, and crumbling plaster walls."
 geo:
 id: 3583
 item_type: Still Image

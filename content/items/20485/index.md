@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021M.JPG
     thumb: /files/thumbnails/14fb2a06d8c1e914fb2a06d8c945.jpg
     url: /files/original/14fb2a06d8c1e914fb2a06d8c945.jpg
+    alt:
+      en: "Marshy wetland landscape with a body of water and tree line in the background, power lines crossing the sky, and a distant gas flare emitting flame and dark smoke."
 geo:
 id: 20485
 item_type: Still Image

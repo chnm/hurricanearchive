@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0630.JPG
     thumb: /files/thumbnails/14fb2a563ee9b014fb2a563eed95.jpg
     url: /files/original/14fb2a563ee9b014fb2a563eed95.jpg
+    alt:
+      en: "Storm-damaged trees with broken branches and uprooted trunks lie along a grassy roadside, with a green street sign and utility pole in the foreground under a clear blue sky."
 geo:
 id: 4679
 item_type: Still Image

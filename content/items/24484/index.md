@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0102H.JPG
     thumb: /files/thumbnails/14fb29e74cf4ab14fb29e74cfc7a.jpg
     url: /files/original/14fb29e74cf4ab14fb29e74cfc7a.jpg
+    alt:
+      en: "A bald man in a dark t-shirt does a push-up while two laughing women in Hooters uniforms sit on his back, photographed at night on a wooden platform with string lights overhead."
 geo:
 id: 24484
 item_type: Still Image

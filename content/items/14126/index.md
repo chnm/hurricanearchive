@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0016.JPG
     thumb: /files/thumbnails/14fb2a1ba7bf5e14fb2a1ba7c349.jpg
     url: /files/original/14fb2a1ba7bf5e14fb2a1ba7c349.jpg
+    alt:
+      en: "Flood-damaged room with overturned furniture, a mud-streaked floor, board games and newspapers on a tablecloth-covered table, and an American flag standing in the corner, dated 09.19.2005."
 geo:
   address: ''
   lat: 0.0

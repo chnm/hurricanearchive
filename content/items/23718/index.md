@@ -21,6 +21,8 @@ files:
     original_filename: P1010159empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed9a478d14fb29ed9a4a8f.jpg
     url: /files/original/14fb29ed9a478d14fb29ed9a4a8f.jpg
+    alt:
+      en: "Marsh grasses and standing floodwater surround a grounded shrimp boat, with industrial structures and trees visible in the hazy background."
 geo:
 id: 23718
 item_type: Still Image

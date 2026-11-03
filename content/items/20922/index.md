@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0149-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a01f7a3bb14fb2a01f7a772.jpg
     url: /files/original/14fb2a01f7a3bb14fb2a01f7a772.jpg
+    alt:
+      en: "Two people walk toward the dark open doorway of a brick church with a large white cross mounted above the entrance, debris scattered on the ground amid storm-damaged shrubs."
 geo:
 id: 20922
 item_type: Still Image

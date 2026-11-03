@@ -21,6 +21,8 @@ files:
     original_filename: aerials47.jpg
     thumb: /files/thumbnails/14fb2a19c7ad0e14fb2a19c7b0fd.jpg
     url: /files/original/14fb2a19c7ad0e14fb2a19c7b0fd.jpg
+    alt:
+      en: "Aerial view of a waterfront community with widespread storm damage, showing debris fields where homes once stood, one surviving elevated house, docks along the water, and scattered trees."
 geo:
 id: 14335
 item_type: Still Image

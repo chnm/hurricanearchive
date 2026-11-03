@@ -24,6 +24,8 @@ files:
     original_filename: 2005-28343.jpg
     thumb: /files/thumbnails/14fb2a6c89f2a914fb2a6c89f685.jpg
     url: /files/original/14fb2a6c89f2a914fb2a6c89f685.jpg
+    alt:
+      en: "Severely storm-damaged multi-story building with collapsed awnings, exposed structural framework, and debris scattered below; bare, broken tree branches frame the foreground."
 geo:
   address: ''
   lat: 0.0

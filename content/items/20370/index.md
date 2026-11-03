@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0006M.JPG
     thumb: /files/thumbnails/14fb2a0854320214fb2a085435e6.jpg
     url: /files/original/14fb2a0854320214fb2a085435e6.jpg
+    alt:
+      en: "A man in a brown t-shirt receives a vaccination injection in his upper arm, holding the syringe himself as a small trickle of blood appears at the injection site."
 geo:
 id: 20370
 item_type: Still Image

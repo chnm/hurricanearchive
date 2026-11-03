@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0103cameronS&R.JPG
     thumb: /files/thumbnails/14fb29ef72602214fb29ef726404.jpg
     url: /files/original/14fb29ef72602214fb29ef726404.jpg
+    alt:
+      en: "Aerial view of a damaged wooden platform or dock structure with exposed support beams standing at the edge of a murky waterway, surrounded by dense green marsh vegetation."
 geo:
 id: 23436
 item_type: Still Image

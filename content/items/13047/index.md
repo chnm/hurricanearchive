@@ -21,6 +21,8 @@ files:
     original_filename: before sandbags.jpg
     thumb: /files/thumbnails/14fb2a20c4cece14fb2a20c4dccb.jpg
     url: /files/original/14fb2a20c4cece14fb2a20c4dccb.jpg
+    alt:
+      en: "Sandbags piled near a glass entrance doorway at night, with a floor mat and trash bin visible inside a dimly lit building interior."
 geo:
 id: 13047
 item_type: Still Image

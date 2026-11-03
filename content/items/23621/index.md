@@ -21,6 +21,8 @@ files:
     original_filename: Katrina3786neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29ee6d02d514fb29ee6d06bb.jpg
     url: /files/original/14fb29ee6d02d514fb29ee6d06bb.jpg
+    alt:
+      en: "A military Humvee with a soldier in the turret sits on a residential street, while a person takes a photo nearby; large brick houses line the background."
 geo:
 id: 23621
 item_type: Still Image

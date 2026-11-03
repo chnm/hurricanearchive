@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0051OEP.JPG
     thumb: /files/thumbnails/14fb29f1e66c8114fb29f1e67066.jpg
     url: /files/original/14fb29f1e66c8114fb29f1e67066.jpg
+    alt:
+      en: "Parking lot filled with vehicles, including satellite news trucks and a marked police car under a canopy tent, set against a low office building with a tall radio tower and satellite dishes in the background."
 geo:
 id: 23041
 item_type: Still Image

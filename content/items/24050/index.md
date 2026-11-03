@@ -21,6 +21,8 @@ files:
     original_filename: DSC00064neworleansS&R.jpg
     thumb: /files/thumbnails/14fb29eb36de5e14fb29eb36e5ff.jpg
     url: /files/original/14fb29eb36de5e14fb29eb36e5ff.jpg
+    alt:
+      en: "A soldier in uniform hands bottled water to a woman in a purple shirt and white hat beside an open car trunk full of water bottles, with a military truck parked behind them."
 geo:
 id: 24050
 item_type: Still Image

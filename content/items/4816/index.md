@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0131.JPG
     thumb: /files/thumbnails/14fb2a5552325514fb2a55529599.jpg
     url: /files/original/14fb2a5552325514fb2a55529599.jpg
+    alt:
+      en: "Tall pine trees with sparse, storm-damaged canopies rise above a dense understory of green shrubs and brush beneath a bright blue sky."
 geo:
 id: 4816
 item_type: Still Image

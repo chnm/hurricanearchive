@@ -24,6 +24,8 @@ files:
     original_filename: NH Old Couple_049720e783.jpg
     thumb: /files/thumbnails/14fb29d87c17a614fb29d87c252e.jpg
     url: /files/original/14fb29d87c17a614fb29d87c252e.jpg
+    alt:
+      en: "Grainy black-and-white photo of a man and woman seated on either side of an old console television, each holding a small pet dog, in a living room, 1949."
 geo:
   address: ''
   lat: 29.91685

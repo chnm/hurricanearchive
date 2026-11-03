@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1201Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f6e964f614fb29f6e96885.jpg
     url: /files/original/14fb29f6e964f614fb29f6e96885.jpg
+    alt:
+      en: "A person wearing an orange life vest grips the edge of a dark green boat at night, with a wooden crate marked \"V2\" and an orange life ring visible nearby."
 geo:
 id: 22379
 item_type: Still Image

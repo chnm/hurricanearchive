@@ -27,6 +27,8 @@ files:
     original_filename: 384684816_0f86c1b0f0.
     thumb: /files/thumbnails/14fb29d299868f14fb29d2998d93.jpg
     url: /files/original/14fb29d299868f14fb29d2998d93.jpg
+    alt:
+      en: "Gutted interior room with exposed wood framing, a drooping ceiling fan, large black-and-white mural drawings of figures and houses on the walls, and a translucent photo panel of a man on the left."
 geo:
   address: ''
   lat: 30.01333

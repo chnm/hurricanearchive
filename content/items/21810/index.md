@@ -21,6 +21,8 @@ files:
     original_filename: katrina 080.jpg
     thumb: /files/thumbnails/14fb29fb83aadc14fb29fb83aec2.jpg
     url: /files/original/14fb29fb83aadc14fb29fb83aec2.jpg
+    alt:
+      en: "Devastated grocery store aisle with overturned boxes, scattered cans, and debris-covered floor beneath signs for Stuffing, Rice, Poultry, Beans, and Canned Meat; timestamp reads 4:47 PM."
 geo:
 id: 21810
 item_type: Still Image

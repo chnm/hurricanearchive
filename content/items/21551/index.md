@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0293-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fda3e9e714fb29fda3edc2.jpg
     url: /files/original/14fb29fda3e9e714fb29fda3edc2.jpg
+    alt:
+      en: "Aerial view of a cell phone tower standing in widespread floodwater, with submerged fence lines, power poles, and trees, and a white rooftop barely visible amid partially flooded treetops."
 geo:
 id: 21551
 item_type: Still Image

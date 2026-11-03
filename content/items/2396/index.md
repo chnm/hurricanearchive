@@ -30,6 +30,8 @@ files:
     original_filename: apuscg_HURRICANE_KATR_05BVS_b37608aa2e.jpg
     thumb: /files/thumbnails/14fb2a66b9dee914fb2a66b9e2da.jpg
     url: /files/original/14fb2a66b9dee914fb2a66b9e2da.jpg
+    alt:
+      en: "Survivors, including a woman in a red shirt and several children, sit closely together inside a Coast Guard helicopter's cabin, with instrument panels visible in the background."
 geo:
 id: 2396
 item_type: Still Image

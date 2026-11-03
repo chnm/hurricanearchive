@@ -26,6 +26,8 @@ files:
     original_filename: Rita_018_bea4e335aa.jpg
     thumb: /files/thumbnails/14fb2a6f5c6b4414fb2a6f5c6f02.jpg
     url: /files/original/14fb2a6f5c6b4414fb2a6f5c6f02.jpg
+    alt:
+      en: "A large fallen tree lies across a residential yard, caught on a power line, with tall pines and a house visible in the background along a paved road."
 geo:
   address: ''
   lat: 30.281836

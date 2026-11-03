@@ -21,6 +21,8 @@ files:
     original_filename: PICT0096Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f4d3c05a14fb29f4d3c44e.jpg
     url: /files/original/14fb29f4d3c05a14fb29f4d3c44e.jpg
+    alt:
+      en: "Two-story brick building with white columned galleries and green shutters shows severe roof damage, with bricks collapsed and debris piled near the entrance marked \"4\" and a sign reading \"COL DABADIE.\""
 geo:
 id: 22661
 item_type: Still Image

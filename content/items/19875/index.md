@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0066tentcity.JPG
     thumb: /files/thumbnails/14fb2a0d076fce14fb2a0d0773b8.jpg
     url: /files/original/14fb2a0d076fce14fb2a0d0773b8.jpg
+    alt:
+      en: "Row of large tan canvas Quonset-style tents stretches alongside rows of new HVAC condenser units sitting on wooden pallets, with trees and a cloudy sky in the background."
 geo:
 id: 19875
 item_type: Still Image

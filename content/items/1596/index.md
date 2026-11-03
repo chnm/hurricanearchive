@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28534.jpg
     thumb: /files/thumbnails/14fb2a679d726b14fb2a679d76a2.jpg
     url: /files/original/14fb2a679d726b14fb2a679d76a2.jpg
+    alt:
+      en: "Two men stand beside a Domino's Pizza delivery tricycle cart reading \"Now Hiring\" and \"Now Open,\" with a Caterpillar excavator and boarded-up storefronts in the background on a debris-strewn street."
 geo:
   address: ''
   lat: 0.0

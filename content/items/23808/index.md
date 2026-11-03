@@ -21,6 +21,8 @@ files:
     original_filename: S4300057neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecfbaa1114fb29ecfbadf6.jpg
     url: /files/original/14fb29ecfbaa1114fb29ecfbadf6.jpg
+    alt:
+      en: "Floodwater surrounds a multi-story brick building and submerges parked cars near trees, with the \"Macy's\" and \"New Orleans Centre\" signs visible on an adjacent structure in the background."
 geo:
 id: 23808
 item_type: Still Image

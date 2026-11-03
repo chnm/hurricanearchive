@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0119-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e67f286f14fb29e67f31a9.jpg
     url: /files/original/14fb29e67f286f14fb29e67f31a9.jpg
+    alt:
+      en: "Aerial view of a flooded area with murky green-brown water, a partially submerged pickup truck visible on the right, and bare, debris-draped tree branches along the water's edge."
 geo:
 id: 24575
 item_type: Still Image

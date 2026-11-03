@@ -21,6 +21,8 @@ files:
     original_filename: Picture 391-J2.jpg
     thumb: /files/thumbnails/14fb29f9babce614fb29f9bac0cb.jpg
     url: /files/original/14fb29f9babce614fb29f9bac0cb.jpg
+    alt:
+      en: "A man in a gray T-shirt sits amid cots, sleeping bags, water bottles, and gear in a crowded shelter or barracks, watching a small portable TV while stretching his leg."
 geo:
 id: 22060
 item_type: Still Image

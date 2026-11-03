@@ -21,6 +21,8 @@ files:
     original_filename: Picture 055cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bf137c514fb2a0bf13bac.jpg
     url: /files/original/14fb2a0bf137c514fb2a0bf13bac.jpg
+    alt:
+      en: "A large fallen tree with dried, browned leaves lies in front of a porch with white columns and railings, with a sign reading \"SECURED BY N.O.P.P.\" posted in the yard nearby."
 geo:
 id: 19958
 item_type: Still Image

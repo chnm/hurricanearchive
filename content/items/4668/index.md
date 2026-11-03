@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0619.JPG
     thumb: /files/thumbnails/14fb2a5658318014fb2a56583567.jpg
     url: /files/original/14fb2a5658318014fb2a56583567.jpg
+    alt:
+      en: "A large fallen tree leans against the side of a house, its trunk sawed into sections and resting near a trash bin and RV trailer in the yard."
 geo:
 id: 4668
 item_type: Still Image

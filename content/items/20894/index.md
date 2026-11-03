@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0142-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0220987814fb2a02209bcb.jpg
     url: /files/original/14fb2a0220987814fb2a02209bcb.jpg
+    alt:
+      en: "Elevated house on stilts with debris and dead vegetation piled against its base, standing beside floodwater that has risen to meet a nearby road, with storm-damaged trees in the background."
 geo:
 id: 20894
 item_type: Still Image

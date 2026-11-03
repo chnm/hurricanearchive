@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0021-9-25.JPG
     thumb: /files/thumbnails/14fb2a06e1ac6614fb2a06e1b04c.jpg
     url: /files/original/14fb2a06e1ac6614fb2a06e1b04c.jpg
+    alt:
+      en: "Aerial view of a mobile home community with storm-damaged rooftops, downed power lines and utility poles tilted at angles, and scattered debris among trees and open grassy lots."
 geo:
 id: 20483
 item_type: Still Image

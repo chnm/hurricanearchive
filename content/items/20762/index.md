@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0073-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a040eddaa14fb2a040ee16b.jpg
     url: /files/original/14fb2a040eddaa14fb2a040ee16b.jpg
+    alt:
+      en: "A man wearing a cowboy hat and leather chaps sits atop a dark horse in a grassy yard, holding a coiled rope, with trees, houses, and parked trucks visible in the background."
 geo:
 id: 20762
 item_type: Still Image

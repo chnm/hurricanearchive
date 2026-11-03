@@ -30,6 +30,8 @@ files:
     original_filename: adc02_7383be686a.jpg
     thumb: /files/thumbnails/14fb29cbeb911d14fb29cbeb9502.jpg
     url: /files/original/14fb29cbeb911d14fb29cbeb9502.jpg
+    alt:
+      en: "A purple-line illustration of a man in a cap kneeling beside an open suitcase packed with belongings, reaching toward it amid a cluttered background."
 geo:
 id: 32521
 item_type: Hyperlink

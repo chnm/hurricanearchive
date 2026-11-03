@@ -21,6 +21,8 @@ files:
     original_filename: S4300226neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ecaa17fa14fb29ecaa1be0.jpg
     url: /files/original/14fb29ecaa17fa14fb29ecaa1be0.jpg
+    alt:
+      en: "Flooded residential street with a white car nearly submerged in murky water, houses and parked vehicles partly underwater, and a \"WAY\" street sign visible on a utility pole in the foreground."
 geo:
 id: 23870
 item_type: Still Image

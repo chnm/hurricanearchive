@@ -20,6 +20,8 @@ files:
     original_filename: dogbusters2_a206af94f7.JPG
     thumb: /files/thumbnails/14fb2a24772efb14fb2a247732d7.jpg
     url: /files/original/14fb2a24772efb14fb2a247732d7.jpg
+    alt:
+      en: "Three workers in a debris-filled alley between damaged houses, two kneeling by a crawl space opening with a catch pole nearby, amid scattered rubble, broken tile, and a plastic bucket."
 geo:
 id: 11521
 item_type: Still Image

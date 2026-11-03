@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0044engineersgrandisleengineers.JPG
     thumb: /files/thumbnails/14fb2a109358d014fb2a10935cea.jpg
     url: /files/original/14fb2a109358d014fb2a10935cea.jpg
+    alt:
+      en: "A man in a hard hat and military-style uniform operates a yellow Komatsu skid steer loader (marked \"KM050065\") amid piles of storm debris, with elevated coastal houses visible in the background."
 geo:
 id: 19397
 item_type: Still Image

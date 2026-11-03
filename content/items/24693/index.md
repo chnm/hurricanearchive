@@ -21,6 +21,8 @@ files:
     original_filename: 09140005superdome.JPG
     thumb: /files/thumbnails/14fb29e587681d14fb29e5876c32.jpg
     url: /files/original/14fb29e587681d14fb29e5876c32.jpg
+    alt:
+      en: "A domed stadium roof rises behind a highway barrier wall, with a tall light pole in the foreground and a high-rise building visible to the left under a hazy sky."
 geo:
 id: 24693
 item_type: Still Image

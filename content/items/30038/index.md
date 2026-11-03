@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0353_17271c5529.jpg
     thumb: /files/thumbnails/14fb29cd704e9414fb29cd705278.jpg
     url: /files/original/14fb29cd704e9414fb29cd705278.jpg
+    alt:
+      en: "A row of brick single-story houses with overgrown lawns, cracked sidewalks, and cut tree stumps, showing signs of long-term abandonment and neglect."
 geo:
 id: 30038
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials43.jpg
     thumb: /files/thumbnails/14fb2a19cd3aa414fb2a19cd3e7a.jpg
     url: /files/original/14fb2a19cd3aa414fb2a19cd3e7a.jpg
+    alt:
+      en: "Aerial view of a waterfront neighborhood with storm-damaged homes, exposed roof framing, and debris scattered across yards, surrounded by trees and a winding road along the water's edge."
 geo:
 id: 14331
 item_type: Still Image

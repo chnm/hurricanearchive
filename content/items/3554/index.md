@@ -24,6 +24,8 @@ files:
     original_filename: P1010130.JPG
     thumb: /files/thumbnails/14fb2a5adb202914fb2a5adb240f.jpg
     url: /files/original/14fb2a5adb202914fb2a5adb240f.jpg
+    alt:
+      en: "Two damaged two-story houses, one pink and one light blue, with porches and balconies, stand amid piles of debris and discarded appliances along a street under a clear blue sky."
 geo:
 id: 3554
 item_type: Still Image

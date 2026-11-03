@@ -26,6 +26,8 @@ files:
     original_filename: 100_0097_3ed88aabfd.JPG
     thumb: /files/thumbnails/14fb2a6f8013e114fb2a6f8017c1.jpg
     url: /files/original/14fb2a6f8013e114fb2a6f8017c1.jpg
+    alt:
+      en: "Severely damaged pink single-story house with collapsed porch and torn siding, surrounded by scattered debris; a white picket fence stands partly intact in front."
 geo:
   address: ''
   lat: 0.0

@@ -20,6 +20,8 @@ files:
     original_filename: 2421715190_e88a11f70f.
     thumb: /files/thumbnails/14fb29c94b748814fb29c94b78ea.jpg
     url: /files/original/14fb29c94b748814fb29c94b78ea.jpg
+    alt:
+      en: "A dark SUV with roof racks parked near a curb lined with debris, including a plastic tarp with paint cans, a rusted metal trash bin, and a cardboard sign reading \"VICTORY.\""
 geo:
   address: ''
   lat: 29.97632

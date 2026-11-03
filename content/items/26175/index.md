@@ -21,6 +21,8 @@ files:
     original_filename: sebastopolplantation_a1d5cd5747.jpg
     thumb: /files/thumbnails/14fb29d9beeb4314fb29d9beef29.jpg
     url: /files/original/14fb29d9beeb4314fb29d9beef29.jpg
+    alt:
+      en: "White single-story plantation house with a columned front porch, shaded by large oak trees and flanked by pink blooming shrubs along a stone pathway leading to the entrance."
 geo:
 id: 26175
 item_type: Still Image

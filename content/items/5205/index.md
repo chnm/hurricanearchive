@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0650.JPG
     thumb: /files/thumbnails/14fb2a5366d48b14fb2a5366d870.jpg
     url: /files/original/14fb2a5366d48b14fb2a5366d870.jpg
+    alt:
+      en: "A collapsed house with its roof caved in, exposing a dark-colored vehicle trapped beneath the debris; \"0\" and \"X\" markings spray-painted on the shingles, with a red truck visible in the foreground."
 geo:
 id: 5205
 item_type: Still Image

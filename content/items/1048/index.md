@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28618.jpg
     thumb: /files/thumbnails/14fb2a6b45e80414fb2a6b45ebe9.jpg
     url: /files/original/14fb2a6b45e80414fb2a6b45ebe9.jpg
+    alt:
+      en: "A pile of scrap metal and debris containing discarded street signs reading \"Clark,\" \"Tulane Av,\" and \"Washington,\" among bent poles and metal strips."
 geo:
   address: ''
   lat: 0.0

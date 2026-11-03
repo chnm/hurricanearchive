@@ -21,6 +21,8 @@ files:
     original_filename: Sr. Mstr. Sgt. Harris LAAFNG.JPG
     thumb: /files/thumbnails/14fb2a1aae812b14fb2a1aae92e1.jpg
     url: /files/original/14fb2a1aae812b14fb2a1aae92e1.jpg
+    alt:
+      en: "A soldier in camouflage uniform stands on a road speaking into a radio, with military Humvees and a civilian pickup truck parked nearby, and other personnel visible in the background."
 geo:
   address: ''
   lat: 0.0

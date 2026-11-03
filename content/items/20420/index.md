@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0013-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a07a4f0c114fb2a07a56b1e.jpg
     url: /files/original/14fb2a07a4f0c114fb2a07a56b1e.jpg
+    alt:
+      en: "Front view of a military-style truck cab with \"CCC\" emblem on the grille, amber warning lights on the roof, and two people visible through the windshield behind the wipers."
 geo:
 id: 20420
 item_type: Still Image

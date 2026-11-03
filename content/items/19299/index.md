@@ -21,6 +21,8 @@ files:
     original_filename: J2 (19).JPG
     thumb: /files/thumbnails/14fb2a114b1bc014fb2a114b1fa4.jpg
     url: /files/original/14fb2a114b1bc014fb2a114b1fa4.jpg
+    alt:
+      en: "Empty French Quarter street with wrought-iron balconies, lined with closed shops; signs read \"Big Daddy's Bottomless Topless Table Top Dancing\" and \"The Dark Entry,\" with a pickup truck parked curbside."
 geo:
 id: 19299
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1138Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f759876814fb29f7598b4d.jpg
     url: /files/original/14fb29f759876814fb29f7598b4d.jpg
+    alt:
+      en: "Floodwaters submerge multiple vehicles up to their roofs in front of a white house, with trees and a gray sky in the background."
 geo:
 id: 22325
 item_type: Still Image

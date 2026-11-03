@@ -21,6 +21,8 @@ files:
     original_filename: 100_0159.JPG
     thumb: /files/thumbnails/14fb2a592bbb9d14fb2a592bbf8c.jpg
     url: /files/original/14fb2a592bbb9d14fb2a592bbf8c.jpg
+    alt:
+      en: "Floodwater submerges a gas station and parking lot, with a partially covered \"UNLEADED\" fuel price sign and a Chase bank building visible in the background under a clear blue sky."
 geo:
 id: 3866
 item_type: Still Image

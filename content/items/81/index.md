@@ -26,6 +26,8 @@ files:
     original_filename: 100_5844_19c9c6826a.JPG
     thumb: /files/thumbnails/14fb2a711ae32814fb2a711ae70a.jpg
     url: /files/original/14fb2a711ae32814fb2a711ae70a.jpg
+    alt:
+      en: "Damaged brick and stucco lakefront shelter with partially collapsed walls and roof, surrounded by rubble and braced palm trees; the building's \"WOMEN\" entrance remains visible. Dated 11/11/2005."
 geo:
   address: ''
   lat: 30.005653

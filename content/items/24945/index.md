@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1456superdome.JPG
     thumb: /files/thumbnails/14fb29e3a7975414fb29e3a79b4a.jpg
     url: /files/original/14fb29e3a7975414fb29e3a79b4a.jpg
+    alt:
+      en: "A white school bus parked beside a flooded city street, with several submerged cars—including a red truck, a sedan, and a dark car—surrounded by rising floodwater near a glass-fronted building."
 geo:
 id: 24945
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_KennedeGlapion_01_8505636e2e.jpg
     thumb: /files/thumbnails/14fb2a17c273a914fb2a17c2778e.jpg
     url: /files/original/14fb2a17c273a914fb2a17c2778e.jpg
+    alt:
+      en: "A young girl in a plaid jumper school uniform sits in a classroom corner near a bookshelf of children's books and animal hand puppets on a table."
 geo:
 id: 14781
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: slide5.jpg
     thumb: /files/thumbnails/14fb2a1933e98e14fb2a1933eddb.jpg
     url: /files/original/14fb2a1933e98e14fb2a1933eddb.jpg
+    alt:
+      en: "Search and rescue team members in red and camouflage uniforms stand near an ambulance on a debris-strewn road lined with damaged, leafless trees; a dog sits nearby. Caption reads \"Search team, body search, 1 week after storm.\""
 geo:
 id: 14415
 item_type: Still Image

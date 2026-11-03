@@ -21,6 +21,8 @@ files:
     original_filename: S4300004zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f4886ad14fb2a0f489ad7.jpg
     url: /files/original/14fb2a0f4886ad14fb2a0f489ad7.jpg
+    alt:
+      en: "Three people in military camouflage uniforms sit at a table with computers, radios, and paperwork, one speaking into a handheld radio, with a whiteboard listing personnel numbers in the background."
 geo:
 id: 19550
 item_type: Still Image

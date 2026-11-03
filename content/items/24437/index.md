@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0094-2-9-26.JPG
     thumb: /files/thumbnails/14fb29e7b46ab214fb29e7b46e8b.jpg
     url: /files/original/14fb29e7b46ab214fb29e7b46e8b.jpg
+    alt:
+      en: "A large barn-like structure with a rusted metal roof sits partially submerged in floodwater, its far end collapsed, with fence posts and wire emerging from the water in the foreground."
 geo:
 id: 24437
 item_type: Still Image

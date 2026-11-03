@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0068H.JPG
     thumb: /files/thumbnails/14fb2a042cd02414fb2a042cd3fe.jpg
     url: /files/original/14fb2a042cd02414fb2a042cd3fe.jpg
+    alt:
+      en: "A group of young adults play foosball indoors at night, with a woman in a \"Hooters\" tank top, a man in a gray shirt, and another man in a striped polo shirt visible at the table alongside soda cans."
 geo:
 id: 20741
 item_type: Still Image

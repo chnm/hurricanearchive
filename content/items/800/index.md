@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28311.jpg
     thumb: /files/thumbnails/14fb2a6cf2607b14fb2a6cf2746d.jpg
     url: /files/original/14fb2a6cf2607b14fb2a6cf2746d.jpg
+    alt:
+      en: "Two men stand amid the collapsed steel framework of a storm-damaged building, surveying debris scattered across a concrete platform beneath twisted metal beams and a ruined roof structure."
 geo:
   address: ''
   lat: 0.0

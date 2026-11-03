@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28453.jpg
     thumb: /files/thumbnails/14fb2a6c64b9da14fb2a6c64c07a.jpg
     url: /files/original/14fb2a6c64b9da14fb2a6c64c07a.jpg
+    alt:
+      en: "Bare tree branches obscure a brick building facade with a sign reading \"Bartender\" mounted above the entrance."
 geo:
   address: ''
   lat: 0.0

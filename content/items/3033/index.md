@@ -21,6 +21,8 @@ files:
     original_filename: 100_0282.JPG
     thumb: /files/thumbnails/14fb2a5e8b08bd14fb2a5e8b0ca3.jpg
     url: /files/original/14fb2a5e8b08bd14fb2a5e8b0ca3.jpg
+    alt:
+      en: "A large gray naval ship with multiple gun turrets and antenna masts sits docked beside a walkway, with a crane barge nearby and bright sun flaring across a clear blue sky."
 geo:
 id: 3033
 item_type: Still Image

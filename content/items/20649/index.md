@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0049-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a0571397214fb2a05713d57.jpg
     url: /files/original/14fb2a0571397214fb2a05713d57.jpg
+    alt:
+      en: "Aerial view of murky floodwater covering land, with scattered patches of partially submerged vegetation and shrubs visible breaking the water's surface."
 geo:
 id: 20649
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: IMG_2095_c49c8f8248.jpg
     thumb: /files/thumbnails/14fb2a6f6a370d14fb2a6f6a3aea.jpg
     url: /files/original/14fb2a6f6a370d14fb2a6f6a3aea.jpg
+    alt:
+      en: "A worn stool with a mottled, peeling paint finish holds a folded copy of The Times-Picayune newspaper with the headline \"Katrina Takes Aim,\" a pink fly swatter hanging from the backrest."
 geo:
   address: ''
   lat: 29.981776793542103

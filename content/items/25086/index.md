@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1672superdome.JPG
     thumb: /files/thumbnails/14fb29e270b98f14fb29e270bd80.jpg
     url: /files/original/14fb29e270b98f14fb29e270bd80.jpg
+    alt:
+      en: "Soldiers in camouflage uniforms, some with \"MP\" armbands and rifles, gather on a brick plaza, with tall city buildings and a statue visible in the background."
 geo:
 id: 25086
 item_type: Still Image

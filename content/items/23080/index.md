@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0090OEP.JPG
     thumb: /files/thumbnails/14fb29f19cf98614fb29f19cfd61.jpg
     url: /files/original/14fb29f19cf98614fb29f19cfd61.jpg
+    alt:
+      en: "A TV news crew sets up under a canopy tent in a parking lot, with a cameraman, a woman, and a man in a yellow shirt standing near equipment cases labeled \"CNN.\""
 geo:
 id: 23080
 item_type: Still Image

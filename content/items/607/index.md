@@ -26,6 +26,8 @@ files:
     original_filename: matresswarehouse2p_2b30e938e9.jpg
     thumb: /files/thumbnails/14fb2a6f66013214fb2a6f660517.jpg
     url: /files/original/14fb2a6f66013214fb2a6f660517.jpg
+    alt:
+      en: "Piles of storm-damaged mattresses, insulation, and debris line the edge of an empty parking lot, remnants of a destroyed Mattress Warehouse building; a \"SEARS\" sign is visible on a structure in the background."
 geo:
   address: ''
   lat: 30.148461

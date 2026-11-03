@@ -24,6 +24,8 @@ files:
     original_filename: P1010004.JPG
     thumb: /files/thumbnails/14fb2a5abd44e714fb2a5abd48cc.jpg
     url: /files/original/14fb2a5abd44e714fb2a5abd48cc.jpg
+    alt:
+      en: "Interior of a filthy, mold-covered refrigerator packed with discarded beer bottles and cans, wine bottles, a Kraft barbecue sauce bottle, and a grime-caked Styrofoam Hooters takeout container."
 geo:
 id: 3577
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28353.jpg
     thumb: /files/thumbnails/14fb2a6763aa0314fb2a6763ade7.jpg
     url: /files/original/14fb2a6763aa0314fb2a6763ade7.jpg
+    alt:
+      en: "Skeletal remains of a building's steel framework stand amid storm debris, with torn black insulation hanging from the structure and a person walking through the wreckage; distant high-rise buildings visible through the trees."
 geo:
   address: ''
   lat: 0.0

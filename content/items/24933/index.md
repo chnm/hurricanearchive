@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1430superdome.JPG
     thumb: /files/thumbnails/14fb29e3bc399614fb29e3bc3d7b.jpg
     url: /files/original/14fb29e3bc399614fb29e3bc3d7b.jpg
+    alt:
+      en: "A soldier in camouflage uniform with a rifle gestures while directing a woman carrying bags past a metal barrier, with a sign reading \"Authorized Vehicles Only\" visible nearby."
 geo:
 id: 24933
 item_type: Still Image

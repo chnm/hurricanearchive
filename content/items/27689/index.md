@@ -21,6 +21,8 @@ files:
     original_filename: _MG_6714_b37c39cbd4.JPG
     thumb: /files/thumbnails/14fb29d2fe3dfb14fb29d300b15d.jpg
     url: /files/original/14fb29d2fe3dfb14fb29d300b15d.jpg
+    alt:
+      en: "Black-and-white studio portrait of a young man in a U.S. Navy uniform with a white sailor's cap and dark jumper featuring a striped collar, smiling at the camera."
 geo:
   address: ''
   lat: 29.95493

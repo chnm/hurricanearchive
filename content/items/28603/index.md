@@ -23,6 +23,8 @@ files:
     original_filename: 162358673_e2ecf47af9.jpg
     thumb: /files/thumbnails/14fb29d22849c914fb29d2284daf.jpg
     url: /files/original/14fb29d22849c914fb29d2284daf.jpg
+    alt:
+      en: "Brick church with a white steeple and tarp-covered roof showing storm damage; a sign on the lawn reads \"He Has Risen and So Will We!\""
 geo:
 id: 28603
 item_type: Still Image

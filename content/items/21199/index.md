@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0195-9-25.JPG
     thumb: /files/thumbnails/14fb2a0006837c14fb2a00068763.jpg
     url: /files/original/14fb2a0006837c14fb2a00068763.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with torn-off roofing, a swimming pool, and surrounding grounds littered with uprooted and snapped trees."
 geo:
 id: 21199
 item_type: Still Image

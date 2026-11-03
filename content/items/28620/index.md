@@ -23,6 +23,8 @@ files:
     original_filename: 160511107_be36862a38.jpg
     thumb: /files/thumbnails/14fb29d216d00514fb29d216d5af.jpg
     url: /files/original/14fb29d216d00514fb29d216d5af.jpg
+    alt:
+      en: "Damaged, graffiti-marked house with collapsed walls and debris in overgrown yard; spray-painted \"129 GPS\" on siding and a \"No Truck Route\" sign in foreground."
 geo:
 id: 28620
 item_type: Still Image

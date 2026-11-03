@@ -21,6 +21,8 @@ files:
     original_filename: DCP 7465.JPG
     thumb: /files/thumbnails/14fb29cc98145914fb29cc981847.jpg
     url: /files/original/14fb29cc98145914fb29cc981847.jpg
+    alt:
+      en: "View from inside a car's windshield down a tree-lined road, with an oncoming vehicle in the distance and a yellow-and-black striped marker post on the roadside; dashboard clock reads 12:56."
 geo:
 id: 30752
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 057.jpg
     thumb: /files/thumbnails/14fb2a22ad09f214fb2a22ad0dd7.jpg
     url: /files/original/14fb2a22ad09f214fb2a22ad0dd7.jpg
+    alt:
+      en: "A damaged Holiday Inn hotel with boarded entrances and debris scattered across the parking lot, including broken concrete blocks and a stripped palm tree; a tractor-trailer sits nearby, dated 2005/09/24."
 geo:
 id: 11935
 item_type: Still Image

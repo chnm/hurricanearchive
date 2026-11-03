@@ -20,6 +20,8 @@ files:
     original_filename: 2421692650_487110b977.
     thumb: /files/thumbnails/14fb29c8e9020b14fb29c8e9061b.jpg
     url: /files/original/14fb29c8e9020b14fb29c8e9061b.jpg
+    alt:
+      en: "Interior of a damaged, dilapidated room with peeling pink and green walls, a weathered wooden door frame, and a large convex mirror reflecting a hallway with a floral curtain and debris on the floor."
 geo:
 id: 34748
 item_type: Still Image

@@ -20,6 +20,8 @@ files:
     original_filename: IMG_0209_cf5e0369d4.JPG
     thumb: /files/thumbnails/14fb29cd5c3bcf14fb29cd5c4280.jpg
     url: /files/original/14fb29cd5c3bcf14fb29cd5c4280.jpg
+    alt:
+      en: "Close-up of a weathered film reel labeled \"NO WAY BACK\" and \"PROPERTY OF\" in handwritten and stamped text, with wound film tape visible, resting on a dirty concrete surface."
 geo:
 id: 30057
 item_type: Still Image

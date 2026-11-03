@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2170rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13c9ca1c14fb2a13c9cbf1.jpg
     url: /files/original/14fb2a13c9ca1c14fb2a13c9cbf1.jpg
+    alt:
+      en: "Two crew members wearing military helmets with headsets and microphones stand close together inside the cargo area of a helicopter, one appearing to assist the other with equipment."
 geo:
 id: 19005
 item_type: Still Image

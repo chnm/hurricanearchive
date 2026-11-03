@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0150-21.JPG
     thumb: /files/thumbnails/14fb2a01d2fedc14fb2a01d306a9.jpg
     url: /files/original/14fb2a01d2fedc14fb2a01d306a9.jpg
+    alt:
+      en: "A man in military camouflage uniform with an American flag patch converses with a woman holding papers, standing on a roadway near a parked SUV with emergency lights and a \"90\" highway sign."
 geo:
 id: 20928
 item_type: Still Image

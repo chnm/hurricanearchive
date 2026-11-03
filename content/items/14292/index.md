@@ -21,6 +21,8 @@ files:
     original_filename: aerials134.jpg
     thumb: /files/thumbnails/14fb2a1a11ef4314fb2a1a11f6be.jpg
     url: /files/original/14fb2a1a11ef4314fb2a1a11f6be.jpg
+    alt:
+      en: "Aerial view of a devastated coastal area with rows of destroyed buildings reduced to concrete foundations, surrounded by dead, bare trees and debris scattered across the landscape."
 geo:
 id: 14292
 item_type: Still Image

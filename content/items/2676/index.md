@@ -21,6 +21,8 @@ files:
     original_filename: 100.jpg
     thumb: /files/thumbnails/14fb2a609c479f14fb2a609c4b81.jpg
     url: /files/original/14fb2a609c479f14fb2a609c4b81.jpg
+    alt:
+      en: "Child's crayon and pencil drawing of two smiling adults standing side by side, titled \"A Happy Family in Texas!!\" with a partially erased caption above reading something like \"People who got hurt by hurricane.\""
 geo:
 id: 2676
 item_type: Still Image

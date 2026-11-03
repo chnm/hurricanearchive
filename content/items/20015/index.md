@@ -21,6 +21,8 @@ files:
     original_filename: Picture 112cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0bac217914fb2a0bac255e.jpg
     url: /files/original/14fb2a0bac217914fb2a0bac255e.jpg
+    alt:
+      en: "Overturned small aircraft wing and tail section lying in a grassy roadside ditch, with a concrete retaining wall in the background and a black cable in the foreground grass."
 geo:
 id: 20015
 item_type: Still Image

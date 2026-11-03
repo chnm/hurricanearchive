@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 018.jpg
     thumb: /files/thumbnails/14fb2a22caaec814fb2a22cab2f5.jpg
     url: /files/original/14fb2a22caaec814fb2a22cab2f5.jpg
+    alt:
+      en: "Two large boats, including one named \"Osprey,\" sit stranded on a grassy lawn amid flat grave markers, with damaged hulls and bare trees in the background; dated 2005/09/24."
 geo:
 id: 11896
 item_type: Still Image

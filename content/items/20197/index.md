@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0115-9-18.JPG
     thumb: /files/thumbnails/14fb2a0aca45fd14fb2a0aca49e3.jpg
     url: /files/original/14fb2a0aca45fd14fb2a0aca49e3.jpg
+    alt:
+      en: "A road runs alongside a damaged concrete structure with a jagged, zigzag-cut edge, while scattered debris, a vehicle, and pine trees line the roadside under a pale sky."
 geo:
 id: 20197
 item_type: Still Image

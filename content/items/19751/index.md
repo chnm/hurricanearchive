@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 138cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e147b7e14fb2a0e14816e.jpg
     url: /files/original/14fb2a0e147b7e14fb2a0e14816e.jpg
+    alt:
+      en: "Photo taken through a car windshield with a Louisiana inspection sticker, showing storm-damaged buildings, debris, and scattered vehicles along a roadside, including a brick building with a collapsed canopy."
 geo:
 id: 19751
 item_type: Still Image

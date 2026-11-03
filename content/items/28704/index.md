@@ -20,6 +20,8 @@ files:
     original_filename: 114539364_af0dfd8b9f.jpg
     thumb: /files/thumbnails/14fb29d180ac5114fb29d180b039.jpg
     url: /files/original/14fb29d180ac5114fb29d180b039.jpg
+    alt:
+      en: "Mold-covered walls and ceiling surround a debris-filled room with a rusted desk, overturned bucket, wall clock, and framed document, evidence of severe flood damage from Hurricane Katrina."
 geo:
 id: 28704
 item_type: Still Image

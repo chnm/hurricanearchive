@@ -21,6 +21,8 @@ files:
     original_filename: 20050928004.JPG
     thumb: /files/thumbnails/14fb2a1c15636914fb2a1c15678f.jpg
     url: /files/original/14fb2a1c15636914fb2a1c15678f.jpg
+    alt:
+      en: "A printed document titled \"528th Engineer Battalion\" lies on a wooden table beside a pen, featuring a photo of military trucks on a road and text describing \"Operation Snowplow\" at the 17th Street Canal breach."
 geo:
   address: ''
   lat: 0.0

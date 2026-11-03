@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0149abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29ef26297a14fb29ef262d69.jpg
     url: /files/original/14fb29ef26297a14fb29ef262d69.jpg
+    alt:
+      en: "Two people approach the dark open doorway of a brick church with a white cross mounted above the entrance, storm debris scattered across the ground in front."
 geo:
 id: 23513
 item_type: Still Image

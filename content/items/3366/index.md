@@ -21,6 +21,8 @@ files:
     original_filename: SS St. Bernard (7).jpg
     thumb: /files/thumbnails/14fb2a5c1e56ca14fb2a5c1e5aaf.jpg
     url: /files/original/14fb2a5c1e56ca14fb2a5c1e5aaf.jpg
+    alt:
+      en: "A storm-damaged house with boarded windows and a dark roof sits amid debris and fallen trees, with an overturned boat nearby and a stripped, broken tree line behind it."
 geo:
 id: 3366
 item_type: Still Image

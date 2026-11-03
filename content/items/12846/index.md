@@ -21,6 +21,8 @@ files:
     original_filename: 9th ward florida st5.jpg
     thumb: /files/thumbnails/14fb2a2177b73f14fb2a2177bb25.jpg
     url: /files/original/14fb2a2177b73f14fb2a2177bb25.jpg
+    alt:
+      en: "A debris-strewn street lined with utility poles and tangled power lines, with scattered rubble and sparse bare trees under a clear sky."
 geo:
 id: 12846
 item_type: Still Image

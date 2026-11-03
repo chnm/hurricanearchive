@@ -33,24 +33,32 @@ files:
     original_filename: Jeff Chauppetta_6421_56fc8e4caf.jpg
     thumb: /files/thumbnails/14fb29db213f8a14fb29db214273.jpg
     url: /files/original/14fb29db213f8a14fb29db214273.jpg
+    alt:
+      en: "Man in black shirt and red bandana leans against a fallen tree limb amid extensive storm debris and downed branches, with a white cross visible in the brush behind him."
   - fullsize: /files/fullsize/14fb29db19413314fb29db1c9cb3.jpg
     id: 22676
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6422_3238c70dc9.jpg
     thumb: /files/thumbnails/14fb29db19413314fb29db1c9cb3.jpg
     url: /files/original/14fb29db19413314fb29db1c9cb3.jpg
+    alt:
+      en: "A man wearing a red bandana and dark clothing stands beside a weathered metal cross grave marker in Belair Cemetery, surrounded by storm-damaged trees and debris after Hurricane Katrina."
   - fullsize: /files/fullsize/14fb29db154a6814fb29db15b3a2.jpg
     id: 22677
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6423_df3d1af3fa.jpg
     thumb: /files/thumbnails/14fb29db154a6814fb29db15b3a2.jpg
     url: /files/original/14fb29db154a6814fb29db15b3a2.jpg
+    alt:
+      en: "A photograph taped to a red album page shows a storm-damaged cemetery with fallen trees and debris covering a tomb, surrounded by yellow wildflowers under a clear blue sky."
   - fullsize: /files/fullsize/14fb29db129b8c14fb29db129f6b.jpg
     id: 22678
     mime: image/jpeg
     original_filename: Jeff Chauppetta_6424_84d12a3d06.jpg
     thumb: /files/thumbnails/14fb29db129b8c14fb29db129f6b.jpg
     url: /files/original/14fb29db129b8c14fb29db129f6b.jpg
+    alt:
+      en: "Handmade \"Missing\" flyer with four photos of Charles \"Slim\" Chauppetta, seeking information after Hurricane Katrina; lists contact numbers for his brother, daughter, and son."
 geo:
 id: 26106
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0518.JPG
     thumb: /files/thumbnails/14fb2a53b6e69614fb2a53b6ea7a.jpg
     url: /files/original/14fb2a53b6e69614fb2a53b6ea7a.jpg
+    alt:
+      en: "Close-up of a concrete slab edge with a chipped and cracked corner, revealing exposed aggregate, with green grass growing alongside the base."
 geo:
 id: 5156
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 074.jpg
     thumb: /files/thumbnails/14fb29cc64370214fb29cc643aee.jpg
     url: /files/original/14fb29cc64370214fb29cc643aee.jpg
+    alt:
+      en: "Silver sedan parked on a dirt clearing surrounded by tall pines, with large piles of fallen branches and debris stacked nearby and a wooden building visible at left."
 geo:
 id: 30803
 item_type: Still Image

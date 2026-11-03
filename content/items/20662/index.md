@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0052-9-25.JPG
     thumb: /files/thumbnails/14fb2a055db5e914fb2a055db9cf.jpg
     url: /files/original/14fb2a055db5e914fb2a055db9cf.jpg
+    alt:
+      en: "Aerial view of a flooded rural property with a white mobile home missing wall panels and a smaller outbuilding with a damaged roof, surrounded by floodwater, downed trees, and debris near a partially submerged roadway."
 geo:
 id: 20662
 item_type: Still Image

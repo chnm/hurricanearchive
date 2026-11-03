@@ -21,6 +21,8 @@ files:
     original_filename: slide4.jpg
     thumb: /files/thumbnails/14fb2a1934cc1a14fb2a1934cff3.jpg
     url: /files/original/14fb2a1934cc1a14fb2a1934cff3.jpg
+    alt:
+      en: "A hand-painted sign reading \"CAMP KATRINA\" stands amid tents and scattered debris, with an \"AUTO REPAIR TIRES\" storefront and parked vehicles in the background."
 geo:
 id: 14414
 item_type: Still Image

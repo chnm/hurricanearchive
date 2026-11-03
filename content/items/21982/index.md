@@ -21,6 +21,8 @@ files:
     original_filename: Picture 313-J2.jpg
     thumb: /files/thumbnails/14fb29faa10fc014fb29faa1139c.jpg
     url: /files/original/14fb29faa10fc014fb29faa1139c.jpg
+    alt:
+      en: "View of a city skyline from beneath an overpass, with a green highway sign reading \"Claiborne Ave\" and \"Earhart Blvd\" visible against a clear blue sky."
 geo:
 id: 21982
 item_type: Still Image

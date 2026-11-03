@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28132.jpg
     thumb: /files/thumbnails/14fb2a69d612cc14fb2a69d616a7.jpg
     url: /files/original/14fb2a69d612cc14fb2a69d616a7.jpg
+    alt:
+      en: "Storm-damaged building with a partially collapsed roof and a \"Hardware\" sign, surrounded by piles of debris, scattered lumber, and a utility pole, with green grass in the foreground."
 geo:
   address: ''
   lat: 0.0

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 066.jpg
     thumb: /files/thumbnails/14fb2a22a676b214fb2a22a67a8e.jpg
     url: /files/original/14fb2a22a676b214fb2a22a67a8e.jpg
+    alt:
+      en: "Collapsed metal roof framing and debris piles beside a multi-story building marked \"Santa Mari Del Mar,\" with a date stamp reading \"2005/09/24\" in the corner."
 geo:
 id: 11944
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28363.jpg
     thumb: /files/thumbnails/14fb2a6ae3561b14fb2a6ae35a03.jpg
     url: /files/original/14fb2a6ae3561b14fb2a6ae35a03.jpg
+    alt:
+      en: "Flooded waterfront with a partially submerged vehicle in the foreground and the \"Palace Casino\" building standing damaged above the water, its walkways and pilings exposed amid the floodwaters."
 geo:
   address: ''
   lat: 0.0

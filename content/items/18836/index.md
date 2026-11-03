@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0057ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a14fd008d14fb2a14fd0472.jpg
     url: /files/original/14fb2a14fd008d14fb2a14fd0472.jpg
+    alt:
+      en: "Aerial view of a flooded neighborhood with houses displaced from foundations, debris scattered across muddy water, and streets submerged, showing widespread destruction from hurricane flooding."
 geo:
 id: 18836
 item_type: Still Image

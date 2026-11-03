@@ -21,6 +21,8 @@ files:
     original_filename: 09180023plaqueminesparishS&R.JPG
     thumb: /files/thumbnails/14fb29ec41a8e814fb29ec41acd3.jpg
     url: /files/original/14fb29ec41a8e814fb29ec41acd3.jpg
+    alt:
+      en: "A flooded roadway lined with leaning utility poles and tangled power lines, bordered by floodwater and debris, with a large yellow tracked vehicle partially submerged on the right."
 geo:
 id: 23953
 item_type: Still Image

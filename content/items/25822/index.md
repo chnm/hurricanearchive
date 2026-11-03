@@ -21,6 +21,8 @@ files:
     original_filename: bustshady_15f48020fd.jpg
     thumb: /files/thumbnails/14fb29dbf6a4c714fb29dbf6aca2.jpg
     url: /files/original/14fb29dbf6a4c714fb29dbf6aca2.jpg
+    alt:
+      en: "Three people pose together at an indoor event booth decorated with teal and orange fish-themed decor, with a banner reading \"...Salutes Taste of St. Bernard\" in the background."
 geo:
 id: 25822
 item_type: Still Image

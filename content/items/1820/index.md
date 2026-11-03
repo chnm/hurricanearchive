@@ -26,6 +26,8 @@ files:
     original_filename: Katrina03_ad16efd653.jpg
     thumb: /files/thumbnails/14fb2a6ec1262d14fb2a6ec12a12.jpg
     url: /files/original/14fb2a6ec1262d14fb2a6ec12a12.jpg
+    alt:
+      en: "A metal building with open garage bays and a damaged roll-up door stands under a cloudy sky, with a grassy field and utility pole with signage in the foreground."
 geo:
   address: ''
   lat: 30.0721022485992

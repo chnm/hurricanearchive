@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0261.JPG
     thumb: /files/thumbnails/14fb2a55c010b014fb2a55c0149a.jpg
     url: /files/original/14fb2a55c010b014fb2a55c0149a.jpg
+    alt:
+      en: "Storm-damaged apartment building with plywood-boarded windows and broken trees, beside an empty parking lot littered with debris and a pickup truck parked near a garage."
 geo:
 id: 4751
 item_type: Still Image

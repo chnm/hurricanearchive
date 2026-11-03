@@ -20,6 +20,8 @@ files:
     original_filename: 2456707279_e9c3e1ce6b.
     thumb: /files/thumbnails/14fb29c8879d2814fb29c887a104.jpg
     url: /files/original/14fb29c8879d2814fb29c887a104.jpg
+    alt:
+      en: "A CAT 330B L excavator with its bucket extended over a waterway, dredging material, while a worker in an orange hard hat and backpack stands on a barge platform nearby."
 geo:
 id: 34911
 item_type: Still Image

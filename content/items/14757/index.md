@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_DiJonaiPress_06_75cba7f4c2.jpg
     thumb: /files/thumbnails/14fb2a17e2d34514fb2a17e2d733.jpg
     url: /files/original/14fb2a17e2d34514fb2a17e2d733.jpg
+    alt:
+      en: "A man holds a toddler wearing a birthday hat at an indoor party, standing beside a woman in a denim shirt, with balloons and a \"Happy Birthday\" sign visible in the background."
 geo:
 id: 14757
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0395.JPG
     thumb: /files/thumbnails/14fb2a543d652814fb2a543d6908.jpg
     url: /files/original/14fb2a543d652814fb2a543d6908.jpg
+    alt:
+      en: "Close-up of a wooden structure's exposed framing, showing a plywood panel attached to beams and a support post, with bare trees and sky in the background."
 geo:
 id: 5050
 item_type: Still Image

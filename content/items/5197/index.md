@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0642.JPG
     thumb: /files/thumbnails/14fb2a536ccf6d14fb2a536cd345.jpg
     url: /files/original/14fb2a536ccf6d14fb2a536cd345.jpg
+    alt:
+      en: "Storm-damaged house with torn siding, broken window, and exposed roof framing tangled with debris; a large tarp printed \"84 LUMBER COMPANY\" and \"www.84lumber.com\" hangs beside the structure."
 geo:
 id: 5197
 item_type: Still Image

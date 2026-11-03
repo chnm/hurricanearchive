@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0033OEP.JPG
     thumb: /files/thumbnails/14fb29f2050b3414fb29f2050f54.jpg
     url: /files/original/14fb29f2050b3414fb29f2050f54.jpg
+    alt:
+      en: "Blurry photo taken from a boat deck, with a steering wheel in the foreground and a hazy figure standing near the bow against a backdrop of water, trees, and sky."
 geo:
 id: 23023
 item_type: Still Image

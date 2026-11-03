@@ -21,6 +21,8 @@ files:
     original_filename: Copy of DSC 0016.JPG
     thumb: /files/thumbnails/14fb2a0a3e68ac14fb2a0a3e6c92.jpg
     url: /files/original/14fb2a0a3e68ac14fb2a0a3e6c92.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood with rows of rooftops and trees, bordered by a canal or waterway, captured in dim, overcast lighting."
 geo:
 id: 20267
 item_type: Still Image

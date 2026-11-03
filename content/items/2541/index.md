@@ -24,6 +24,8 @@ files:
     original_filename: 20051105_MG_8793.jpg
     thumb: /files/thumbnails/14fb2a658e300514fb2a658e3410.jpg
     url: /files/original/14fb2a658e300514fb2a658e3410.jpg
+    alt:
+      en: "A storm-damaged house with a leaning utility pole and tangled wires resting on its roof, surrounded by debris, broken trees, and spray-painted markings reading \"133 Camelia\" and \"Delahoussaye.\""
 geo:
 id: 2541
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1850Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f546f14214fb29f546f51e.jpg
     url: /files/original/14fb29f546f14214fb29f546f51e.jpg
+    alt:
+      en: "Aerial view of extensive floodwaters submerging a neighborhood, with green and blue rooftops, brick buildings, trees, and power lines rising above the water."
 geo:
 id: 22561
 item_type: Still Image

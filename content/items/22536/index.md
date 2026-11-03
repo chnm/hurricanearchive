@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1378Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f590834f14fb29f5908728.jpg
     url: /files/original/14fb29f590834f14fb29f5908728.jpg
+    alt:
+      en: "Floodwaters submerge a parking lot and surround a building with a gabled roof, where a motorboat floats alongside the structure and several people stand on a porch area."
 geo:
 id: 22536
 item_type: Still Image

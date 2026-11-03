@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0106-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e73911ac14fb29e7391593.jpg
     url: /files/original/14fb29e73911ac14fb29e7391593.jpg
+    alt:
+      en: "Aerial view of a flooded landscape with a stranded bus or boat-like vehicle sitting amid submerged marsh grasses, surrounded by scattered debris and shrubs poking through the floodwater."
 geo:
 id: 24503
 item_type: Still Image

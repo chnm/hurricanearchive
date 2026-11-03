@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2146rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13de6ded14fb2a13de71d2.jpg
     url: /files/original/14fb2a13de6ded14fb2a13de71d2.jpg
+    alt:
+      en: "Aerial view looking straight down at a shingled rooftop, with two people in military-style uniforms and helmets standing near a raised metal vent pipe along the roofline."
 geo:
 id: 18984
 item_type: Still Image

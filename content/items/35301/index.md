@@ -18,6 +18,8 @@ files:
     original_filename: 35_9aed4eec84.jpg
     thumb: /files/thumbnails/14fb29c6db087f14fb29c6db0c68.jpg
     url: /files/original/14fb29c6db087f14fb29c6db0c68.jpg
+    alt:
+      en: "Person in a Santa hat and red-and-white feathered holiday costume stands facing a refrigerator covered with magnets and a \"PETROLEUM\" sticker, in a cluttered room with a red wall and a framed portrait painting."
 geo:
   address: new orleans, la
   lat: 29.95324

@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 044.jpg
     thumb: /files/thumbnails/14fb2a22b6143f14fb2a22b61823.jpg
     url: /files/original/14fb2a22b6143f14fb2a22b61823.jpg
+    alt:
+      en: "A bare tree stands at the edge of a sandy beach overlooking a choppy, overcast sea, with a date stamp reading \"2005/09/24\" in the corner."
 geo:
 id: 11922
 item_type: Still Image

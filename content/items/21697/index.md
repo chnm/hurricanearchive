@@ -21,6 +21,8 @@ files:
     original_filename: FH000027-9-23.jpg
     thumb: /files/thumbnails/14fb29fc60171114fb29fc601af5.jpg
     url: /files/original/14fb29fc60171114fb29fc601af5.jpg
+    alt:
+      en: "Storm-damaged property with a vehicle overturned against a tree, surrounded by debris and mud, a black pickup truck and camper trailer parked nearby, and a brick house in the background."
 geo:
 id: 21697
 item_type: Still Image

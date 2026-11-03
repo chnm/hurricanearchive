@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0284-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fdc3052d14fb29fdc30912.jpg
     url: /files/original/14fb29fdc3052d14fb29fdc30912.jpg
+    alt:
+      en: "Aerial view of a flooded cemetery with rows of above-ground tombs and mausoleums surrounded by floodwater, alongside submerged buildings and trees in the surrounding neighborhood."
 geo:
 id: 21527
 item_type: Still Image

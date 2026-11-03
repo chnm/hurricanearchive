@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 139cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e1197f914fb2a0e119bdc.jpg
     url: /files/original/14fb2a0e1197f914fb2a0e119bdc.jpg
+    alt:
+      en: "View from inside a vehicle's windshield showing a GPS device mounted on the dash, with a damaged brick wall, fallen debris, and utility poles lining a street outside."
 geo:
 id: 19752
 item_type: Still Image

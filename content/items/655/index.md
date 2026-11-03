@@ -26,6 +26,8 @@ files:
     original_filename: Picture_007_312b7ec117.jpg
     thumb: /files/thumbnails/14fb2a6f37023014fb2a6f370620.jpg
     url: /files/original/14fb2a6f37023014fb2a6f370620.jpg
+    alt:
+      en: "A man in a red shirt and khakis stands on a grassy shoreline, with wooden pilings in calm water and piles of debris and rubble around him under an overcast sky."
 geo:
   address: ''
   lat: 30.0222030568545

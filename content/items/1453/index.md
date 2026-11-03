@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27916.jpg
     thumb: /files/thumbnails/14fb2a6897f0b314fb2a6897f499.jpg
     url: /files/original/14fb2a6897f0b314fb2a6897f499.jpg
+    alt:
+      en: "Flood-damaged living room with mud-stained walls, a dirty tan sectional sofa, scattered pillows and clothing, an orange cooler, potted plants, and a wire shelving unit amid overall storm debris."
 geo:
   address: ''
   lat: 0.0

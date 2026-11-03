@@ -26,6 +26,8 @@ files:
     original_filename: 024_22A_d7f978c7e3.jpg
     thumb: /files/thumbnails/14fb2a6f42ee7414fb2a6f42f25a.jpg
     url: /files/original/14fb2a6f42ee7414fb2a6f42f25a.jpg
+    alt:
+      en: "Yellow single-story house with a hip roof, featuring a beaded and feathered Mardi Gras Indian emblem with a skull and \"Hero\" text mounted above the porch between two doors."
 geo:
   address: ''
   lat: 29.981702448312

@@ -21,6 +21,8 @@ files:
     original_filename: Picture 303-J2.jpg
     thumb: /files/thumbnails/14fb29faca5c4114fb29faca6026.jpg
     url: /files/original/14fb29faca5c4114fb29faca6026.jpg
+    alt:
+      en: "Domed stadium with a partially repaired roof stands amid a city skyline, viewed from an elevated highway overpass in the foreground."
 geo:
 id: 21972
 item_type: Still Image

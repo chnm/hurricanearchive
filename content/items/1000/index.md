@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28199.jpg
     thumb: /files/thumbnails/14fb2a6b7698c214fb2a6b769ca8.jpg
     url: /files/original/14fb2a6b7698c214fb2a6b769ca8.jpg
+    alt:
+      en: "Barren, storm-stripped trees stand near a concrete ramp spray-painted \"Waveland Ave,\" with a red fire hydrant and scattered debris in the foreground under a blue sky."
 geo:
   address: ''
   lat: 0.0

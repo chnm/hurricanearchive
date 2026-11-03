@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0583.JPG
     thumb: /files/thumbnails/14fb2a5671cf3014fb2a5671d31e.jpg
     url: /files/original/14fb2a5671cf3014fb2a5671d31e.jpg
+    alt:
+      en: "A cleared house foundation slab surrounded by scattered debris and large oak trees, with only a concrete pad remaining where a structure once stood."
 geo:
 id: 4654
 item_type: Still Image

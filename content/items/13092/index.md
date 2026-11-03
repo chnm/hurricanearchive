@@ -21,6 +21,8 @@ files:
     original_filename: during look east.jpg
     thumb: /files/thumbnails/14fb2a20797a8c14fb2a20797e72.jpg
     url: /files/original/14fb2a20797a8c14fb2a20797e72.jpg
+    alt:
+      en: "Heavy rain and fog obscure a street view, with a multi-story building, traffic signal, and streetlight faintly visible through the storm, concrete pavement marked with blue tape in the foreground."
 geo:
 id: 13092
 item_type: Still Image

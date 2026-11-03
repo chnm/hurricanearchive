@@ -21,6 +21,8 @@ files:
     original_filename: 105-02_cc1f550534.jpg
     thumb: /files/thumbnails/14fb2a1e4bb6f714fb2a1e4bbadc.jpg
     url: /files/original/14fb2a1e4bb6f714fb2a1e4bbadc.jpg
+    alt:
+      en: "Black-and-white 1954 street view at St. Bernard and N. Claiborne Avenues, showing a bus and parked cars, storefronts including \"Food Circle\" and \"Wholesale Prices,\" utility poles, and a \"No Parking\" sign."
 geo:
 id: 13339
 item_type: Still Image

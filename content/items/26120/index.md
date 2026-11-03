@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5720_7d1632a4ab.jpg
     thumb: /files/thumbnails/14fb29da79115314fb29da791534.jpg
     url: /files/original/14fb29da79115314fb29da791534.jpg
+    alt:
+      en: "A toddler in a white dress stands beside a red Elmo toy and a basket of items, the photograph damaged with heavy water stains and discoloration around the edges."
 geo:
 id: 26120
 item_type: Still Image

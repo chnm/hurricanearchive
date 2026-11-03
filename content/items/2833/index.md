@@ -21,6 +21,8 @@ files:
     original_filename: MVC-024S.JPG
     thumb: /files/thumbnails/14fb2a5fea4f1c14fb2a5fea52e9.jpg
     url: /files/original/14fb2a5fea4f1c14fb2a5fea52e9.jpg
+    alt:
+      en: "A military jet aircraft with twin tails sits on a grassy field under a clear blue sky, its landing gear down and nose pointed toward the camera."
 geo:
 id: 2833
 item_type: Still Image

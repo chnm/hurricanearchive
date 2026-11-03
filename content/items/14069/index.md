@@ -21,6 +21,8 @@ files:
     original_filename: 20050929063.JPG
     thumb: /files/thumbnails/14fb2a1becff1d14fb2a1bed0302.jpg
     url: /files/original/14fb2a1becff1d14fb2a1bed0302.jpg
+    alt:
+      en: "Two uniformed military officers stand outdoors near storm-damaged buildings, one presenting the other with a book titled \"Oregon IV\" by Rick Schafer, with debris and a satellite dish visible in the background."
 geo:
   address: ''
   lat: 0.0

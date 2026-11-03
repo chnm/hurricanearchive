@@ -21,6 +21,8 @@ files:
     original_filename: 69.jpg
     thumb: /files/thumbnails/14fb2a60407a1014fb2a60407dfb.jpg
     url: /files/original/14fb2a60407a1014fb2a60407dfb.jpg
+    alt:
+      en: "Hand-drawn map of Louisiana shaded in orange, with \"New Orleans\" marked near the coast and the text \"I Love New Orleans\" written above; signed \"Joshua, 15\" in the corner."
 geo:
 id: 2774
 item_type: Still Image

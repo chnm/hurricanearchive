@@ -21,6 +21,8 @@ files:
     original_filename: Picture 135cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b99b1a414fb2a0b99b57b.jpg
     url: /files/original/14fb2a0b99b1a414fb2a0b99b57b.jpg
+    alt:
+      en: "Gravel lot with overturned boats and debris scattered near power lines, with a concrete grain elevator and trees in the background under a clear blue sky."
 geo:
 id: 20038
 item_type: Still Image

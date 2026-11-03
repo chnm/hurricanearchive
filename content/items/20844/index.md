@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0131-9-25.JPG
     thumb: /files/thumbnails/14fb2a02fe057414fb2a02fe08f0.jpg
     url: /files/original/14fb2a02fe057414fb2a02fe08f0.jpg
+    alt:
+      en: "Aerial view of storm-damaged buildings with torn roofs and scattered debris surrounded by floodwaters, with a school bus parked nearby and a raised roadway running through flooded, debris-strewn fields."
 geo:
 id: 20844
 item_type: Still Image

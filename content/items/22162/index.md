@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-15-14AJacksonbarracks.jpg
     thumb: /files/thumbnails/14fb29f949737414fb29f9497757.jpg
     url: /files/original/14fb29f949737414fb29f9497757.jpg
+    alt:
+      en: "Flooded street with several vehicles partially submerged in murky brown water, a streetlamp and tree in the foreground, and power lines crossing a hazy, rain-soaked sky."
 geo:
 id: 22162
 item_type: Still Image

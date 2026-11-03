@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-26-24A.jpg
     thumb: /files/thumbnails/14fb29e8b0a98c14fb29e8b0ad63.jpg
     url: /files/original/14fb29e8b0a98c14fb29e8b0ad63.jpg
+    alt:
+      en: "Floodwater submerges a street beneath an overpass, with vehicles partially underwater and groups of people wading through the water near trucks and a stranded crane at dusk."
 geo:
 id: 24331
 item_type: Still Image

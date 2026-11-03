@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0167.JPG
     thumb: /files/thumbnails/14fb2a552acc7e14fb2a552ad096.jpg
     url: /files/original/14fb2a552acc7e14fb2a552ad096.jpg
+    alt:
+      en: "A tape measure extends vertically down a white paneled surface, showing markings from about 76 to 82 inches, with a hand wearing a metal watch visible at the top."
 geo:
 id: 4848
 item_type: Still Image

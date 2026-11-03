@@ -21,6 +21,8 @@ files:
     original_filename: 051207NOLA220RWlg_5fb914d0ac.jpg
     thumb: /files/thumbnails/14fb29cc163b5914fb29cc163f54.jpg
     url: /files/original/14fb29cc163b5914fb29cc163f54.jpg
+    alt:
+      en: "A white hearse drives down a city street following a crowd of mourners in a second line parade, with downtown high-rise buildings in the background."
 geo:
 id: 31600
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: GoodShepherd_KyraBowens_03_ee35e4bca7.jpg
     thumb: /files/thumbnails/14fb2a17becc0b14fb2a17becff1.jpg
     url: /files/original/14fb2a17becc0b14fb2a17becff1.jpg
+    alt:
+      en: "Two young girls in matching plaid school uniforms with green ribbons in their hair sit smiling on chairs beside a bookshelf and table with a hand puppet in a classroom."
 geo:
 id: 14784
 item_type: Still Image

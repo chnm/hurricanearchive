@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1651superdome.JPG
     thumb: /files/thumbnails/14fb29e28649d614fb29e2864dbd.jpg
     url: /files/original/14fb29e28649d614fb29e2864dbd.jpg
+    alt:
+      en: "Large domed stadium with a silver roof and dark paneled sides, seen beside flooded streets with partially submerged vehicles; a person wearing a cap is visible in the foreground."
 geo:
 id: 25071
 item_type: Still Image

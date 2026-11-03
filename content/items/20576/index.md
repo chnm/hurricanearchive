@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0037-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a05fd9b8314fb2a05fd9f6a.jpg
     url: /files/original/14fb2a05fd9b8314fb2a05fd9f6a.jpg
+    alt:
+      en: "A livestock trailer with Louisiana plate E892401 drives down a flooded road past a damaged house, with standing water and storm-battered trees lining the roadside."
 geo:
 id: 20576
 item_type: Still Image

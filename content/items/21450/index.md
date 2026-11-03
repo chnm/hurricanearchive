@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0260-2-9-15.JPG
     thumb: /files/thumbnails/14fb29feb40c9c14fb29feb41081.jpg
     url: /files/original/14fb29feb40c9c14fb29feb41081.jpg
+    alt:
+      en: "Aerial view of a debris-covered street lined with damaged rooftops, scattered vehicles, downed power lines, and storm wreckage along a neighborhood block."
 geo:
 id: 21450
 item_type: Still Image

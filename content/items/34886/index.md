@@ -20,6 +20,8 @@ files:
     original_filename: 2456726231_c4bad46fc8.
     thumb: /files/thumbnails/14fb29c8b7d48f14fb29c8b7d874.jpg
     url: /files/original/14fb29c8b7d48f14fb29c8b7d874.jpg
+    alt:
+      en: "A concrete-lined drainage canal with a narrow stream of water runs alongside a dirt path, bordered by dense green trees under a partly cloudy sky."
 geo:
 id: 34886
 item_type: Still Image

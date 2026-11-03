@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0078-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a03ca6d3c14fb2a03ca7122.jpg
     url: /files/original/14fb2a03ca6d3c14fb2a03ca7122.jpg
+    alt:
+      en: "Aerial view of a shrimp boat stranded on a narrow strip of marsh grass between flooded channels, with four cattle grazing and standing in the surrounding floodwater nearby."
 geo:
 id: 20784
 item_type: Still Image

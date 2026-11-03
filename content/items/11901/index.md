@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 023.jpg
     thumb: /files/thumbnails/14fb2a22c5cd1114fb2a22c5d0f6.jpg
     url: /files/original/14fb2a22c5cd1114fb2a22c5d0f6.jpg
+    alt:
+      en: "A large single-story commercial building with a domed rooftop structure and partially visible \"ISIS\" signage, surrounded by damaged palm trees and debris, with portable toilets and a tent set up in the parking lot, dated 2005/09/24."
 geo:
 id: 11901
 item_type: Still Image

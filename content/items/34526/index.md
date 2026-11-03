@@ -27,6 +27,8 @@ files:
     original_filename: 2291199331_37a729f0d3.
     thumb: /files/thumbnails/14fb29c98e7c8614fb29c98e81a5.jpg
     url: /files/original/14fb29c98e7c8614fb29c98e81a5.jpg
+    alt:
+      en: "Cluttered living room with a fireplace, wall cross and framed pictures, a lamp on a side table, a wooden chest, black recliner, and houseplants amid scattered debris on the floor."
 geo:
   address: ''
   lat: 30.22539

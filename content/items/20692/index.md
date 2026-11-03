@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0059-2-9-26.JPG
     thumb: /files/thumbnails/14fb2a0501cccd14fb2a0501d0a8.jpg
     url: /files/original/14fb2a0501cccd14fb2a0501d0a8.jpg
+    alt:
+      en: "Floodwater submerges a residential area up to the base of houses and a trailer, with trees, utility poles, and power lines standing in the water under a cloudy sky."
 geo:
 id: 20692
 item_type: Still Image

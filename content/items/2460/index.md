@@ -24,6 +24,8 @@ files:
     original_filename: 20050905_MG_8147.jpg
     thumb: /files/thumbnails/14fb2a664e46d214fb2a664e4ab8.jpg
     url: /files/original/14fb2a664e46d214fb2a664e4ab8.jpg
+    alt:
+      en: "Massive piles of splintered wood and storm debris bury two cars and line a devastated street, with damaged houses, bare trees, and downed power lines in the background."
 geo:
 id: 2460
 item_type: Still Image

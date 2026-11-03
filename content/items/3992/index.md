@@ -21,6 +21,8 @@ files:
     original_filename: DSC01082.JPG
     thumb: /files/thumbnails/14fb2a58a0406c14fb2a58a049ae.jpg
     url: /files/original/14fb2a58a0406c14fb2a58a049ae.jpg
+    alt:
+      en: "A responder in a hard hat and orange safety vest sits in a boat holding a bullhorn, surveying flooded houses submerged to their rooflines, with a case of MREs visible in the boat."
 geo:
 id: 3992
 item_type: Still Image

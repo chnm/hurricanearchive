@@ -21,6 +21,8 @@ files:
     original_filename: Picture 141cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b93be8714fb2a0b93c26c.jpg
     url: /files/original/14fb2a0b93be8714fb2a0b93c26c.jpg
+    alt:
+      en: "Cracked, debris-strewn pavement leads to an industrial building complex with damaged roofing and scattered rubble, utility poles lining the street under a partly cloudy sky."
 geo:
 id: 20044
 item_type: Still Image

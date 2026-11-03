@@ -24,6 +24,8 @@ files:
     original_filename: P1010057.JPG
     thumb: /files/thumbnails/14fb2a5a99a23914fb2a5a99a85f.jpg
     url: /files/original/14fb2a5a99a23914fb2a5a99a85f.jpg
+    alt:
+      en: "Gutted interior with exposed metal stud framing and brick-clad support columns along a long open corridor, bare concrete floor, and a drop ceiling with fluorescent lights overhead."
 geo:
 id: 3623
 item_type: Still Image

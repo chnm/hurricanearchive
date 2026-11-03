@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 067.jpg
     thumb: /files/thumbnails/14fb2a129d59ea14fb2a129d5dd0.jpg
     url: /files/original/14fb2a129d59ea14fb2a129d5dd0.jpg
+    alt:
+      en: "Damaged grandstand building with a red roof partially torn off and shattered glass windows, seen through a chain-link fence beyond an overgrown field."
 geo:
 id: 19157
 item_type: Still Image

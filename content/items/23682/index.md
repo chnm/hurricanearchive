@@ -21,6 +21,8 @@ files:
     original_filename: P1010123empireS&R.JPG
     thumb: /files/thumbnails/14fb29ede9ae6e14fb29ede9b253.jpg
     url: /files/original/14fb29ede9ae6e14fb29ede9b253.jpg
+    alt:
+      en: "Flooded roadway and field with submerged trees and a partially submerged truck, power lines overhead, and storm debris scattered across dry grass in the foreground."
 geo:
 id: 23682
 item_type: Still Image

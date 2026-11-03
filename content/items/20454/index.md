@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017H.JPG
     thumb: /files/thumbnails/14fb2a07115b5e14fb2a07115f44.jpg
     url: /files/original/14fb2a07115b5e14fb2a07115f44.jpg
+    alt:
+      en: "Two people play air hockey indoors; a man wears an orange \"Oklahoma State\" t-shirt while a woman in a Hooters uniform with a \"Lauren\" name tag reaches for the puck."
 geo:
 id: 20454
 item_type: Still Image

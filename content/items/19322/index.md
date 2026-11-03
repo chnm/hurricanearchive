@@ -21,6 +21,8 @@ files:
     original_filename: J2 (4).JPG
     thumb: /files/thumbnails/14fb2a112d63f914fb2a112d694b.jpg
     url: /files/original/14fb2a112d63f914fb2a112d694b.jpg
+    alt:
+      en: "Aerial view from an aircraft window of a military ship docked along a river, with helicopters on its deck, a city skyline including a Hilton hotel in the background, and a man in uniform seated near the window."
 geo:
 id: 19322
 item_type: Still Image

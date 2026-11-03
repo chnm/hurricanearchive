@@ -21,6 +21,8 @@ files:
     original_filename: Frank Superdome 02media.jpg
     thumb: /files/thumbnails/14fb29f262565214fb29f2625a76.jpg
     url: /files/original/14fb29f262565214fb29f2625a76.jpg
+    alt:
+      en: "Aerial view from a helicopter of a person wearing a headset operating a video camera, with the damaged, discolored roof of the Louisiana Superdome and the New Orleans skyline visible below, including a bridge spanning the river."
 geo:
 id: 22967
 item_type: Still Image

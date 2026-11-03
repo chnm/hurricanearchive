@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0043M.JPG
     thumb: /files/thumbnails/14fb2a05a155c014fb2a05a159a5.jpg
     url: /files/original/14fb2a05a155c014fb2a05a159a5.jpg
+    alt:
+      en: "Dimly lit indoor office scene with several people in military camouflage uniforms working at desks with laptops, water bottles, and supply boxes under fluorescent ceiling lights."
 geo:
 id: 20616
 item_type: Still Image

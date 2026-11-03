@@ -21,6 +21,8 @@ files:
     original_filename: P1010172empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed654bf414fb29ed654fd9.jpg
     url: /files/original/14fb29ed654bf414fb29ed654fd9.jpg
+    alt:
+      en: "Storm-damaged light blue house with buckled siding and a stripped, broken tree beside it, viewed from the bed of a military-style truck; a \"P&9 Trucking\" sign stands amid scattered debris."
 geo:
 id: 23731
 item_type: Still Image

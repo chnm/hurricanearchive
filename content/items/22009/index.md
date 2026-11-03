@@ -21,6 +21,8 @@ files:
     original_filename: Picture 340-J2.jpg
     thumb: /files/thumbnails/14fb29fa28d2a114fb29fa28d686.jpg
     url: /files/original/14fb29fa28d2a114fb29fa28d686.jpg
+    alt:
+      en: "Rubble and twisted metal remain from a collapsed, fire-damaged building with a corrugated roof, seen across a street with a young tree and green grass in the foreground under a clear sky."
 geo:
 id: 22009
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 2005_1015Image0034_e2591a3807.JPG
     thumb: /files/thumbnails/14fb2a6d70a68114fb2a6d70aa67.jpg
     url: /files/original/14fb2a6d70a68114fb2a6d70aa67.jpg
+    alt:
+      en: "Discarded white refrigerators lined up against a whitewashed brick wall, one marked in colored marker with \"FROM: People of Louisiana,\" \"C.O.D.,\" and \"PLEASE SEND TO: George Bush c/o White House.\""
 geo:
   address: french quarter, new orleans
   lat: 29.9584426

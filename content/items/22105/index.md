@@ -21,6 +21,8 @@ files:
     original_filename: 09140016Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f984dc2014fb29f984e007.jpg
     url: /files/original/14fb29f984dc2014fb29f984e007.jpg
+    alt:
+      en: "Interior of a Ford pickup truck with a shattered windshield, dusty dashboard, and debris on the seats; a brick building and grassy lawn are visible through the windows."
 geo:
 id: 22105
 item_type: Still Image

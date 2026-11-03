@@ -21,6 +21,8 @@ files:
     original_filename: Picture 273-J2.jpg
     thumb: /files/thumbnails/14fb29fae87a1b14fb29fae87e01.jpg
     url: /files/original/14fb29fae87a1b14fb29fae87e01.jpg
+    alt:
+      en: "Floodwater surrounds a brick building and chain-link fence, with submerged trees, utility poles, and a water tower visible across the inundated area under a clear sky."
 geo:
 id: 21942
 item_type: Still Image

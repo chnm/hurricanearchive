@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0028abbevilleS&R.JPG
     thumb: /files/thumbnails/14fb29e9fde34c14fb29e9fde731.jpg
     url: /files/original/14fb29e9fde34c14fb29e9fde731.jpg
+    alt:
+      en: "A flooded landscape with a leaning utility pole and transformer, power lines crossing overhead, large trees partially submerged, and a beige metal building visible in the background."
 geo:
 id: 24186
 item_type: Still Image

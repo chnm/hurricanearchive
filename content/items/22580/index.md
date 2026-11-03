@@ -21,6 +21,8 @@ files:
     original_filename: IMG 0531Jacksonbarracks.JPG
     thumb: /files/thumbnails/14fb29f5300d1d14fb29f530110b.jpg
     url: /files/original/14fb29f5300d1d14fb29f530110b.jpg
+    alt:
+      en: "Floodwaters submerge a residential street, nearly covering a car, with houses, trees, and a boat visible amid heavy rain and fog."
 geo:
 id: 22580
 item_type: Still Image

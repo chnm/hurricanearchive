@@ -21,6 +21,8 @@ files:
     original_filename: Katrina (Candice) 064.jpg
     thumb: /files/thumbnails/14fb2a22a7804414fb2a22a78420.jpg
     url: /files/original/14fb2a22a7804414fb2a22a78420.jpg
+    alt:
+      en: "A storm-damaged Hancock Bank building with boarded windows stands behind a large pile of hurricane debris and a bent metal sign frame, dated 2005/09/24."
 geo:
 id: 11942
 item_type: Still Image

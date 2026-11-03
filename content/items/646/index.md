@@ -26,6 +26,8 @@ files:
     original_filename: FFMSanctuaryKatrina_0030ab971b.jpg
     thumb: /files/thumbnails/14fb2a6f457fb614fb2a6f45870c.jpg
     url: /files/original/14fb2a6f457fb614fb2a6f45870c.jpg
+    alt:
+      en: "Interior of a church sanctuary with rows of wooden pews, several collapsed and overturned, debris scattered near the front, and light streaming through a window opening where stained glass once stood."
 geo:
   address: ''
   lat: 29.9427007071823

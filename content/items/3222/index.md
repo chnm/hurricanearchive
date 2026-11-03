@@ -21,6 +21,8 @@ files:
     original_filename: ES NOLA, Midcity (7).JPG
     thumb: /files/thumbnails/14fb2a5d37fbc914fb2a5d38102a.jpg
     url: /files/original/14fb2a5d37fbc914fb2a5d38102a.jpg
+    alt:
+      en: "A storm-damaged residential street with fallen trees and downed branches blocking the road, flanked by small white houses and utility poles with tangled power lines."
 geo:
 id: 3222
 item_type: Still Image

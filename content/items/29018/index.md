@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0521.JPG
     thumb: /files/thumbnails/14fb29d0a40a1014fb29d0a40df5.jpg
     url: /files/original/14fb29d0a40a1014fb29d0a40df5.jpg
+    alt:
+      en: "Man in woodland-pattern U.S. Air Force uniform with glasses and a safety strap over his shoulder, seated inside an aircraft with cargo straps and gear visible behind him."
 geo:
 id: 29018
 item_type: Still Image

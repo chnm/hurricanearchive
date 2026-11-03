@@ -26,6 +26,8 @@ files:
     original_filename: 02090543new_orleans_burning_28487fca5a.jpg
     thumb: /files/thumbnails/14fb2a70f0917814fb2a70f09552.jpg
     url: /files/original/14fb2a70f0917814fb2a70f09552.jpg
+    alt:
+      en: "Aerial view of a flooded city skyline at dusk, with a bright fire glowing near the horizon and thick black smoke billowing across the sky above submerged streets and buildings."
 geo:
   address: ''
   lat: 29.9192328048421

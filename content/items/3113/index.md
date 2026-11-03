@@ -21,6 +21,8 @@ files:
     original_filename: ES Jefferson Parish (16).JPG
     thumb: /files/thumbnails/14fb2a5ddd647f14fb2a5ddd6866.jpg
     url: /files/original/14fb2a5ddd647f14fb2a5ddd6866.jpg
+    alt:
+      en: "Pallets of canned chicken stacked on wooden skids in a warehouse store, with orange price signs reading \"$1.99 EA\" and \"$3.19 EA\" displayed on the cases."
 geo:
 id: 3113
 item_type: Still Image

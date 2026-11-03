@@ -24,6 +24,8 @@ files:
     original_filename: P1010087.JPG
     thumb: /files/thumbnails/14fb2a5b3c846814fb2a5b3c88b1.jpg
     url: /files/original/14fb2a5b3c846814fb2a5b3c88b1.jpg
+    alt:
+      en: "Residential street lined with damaged houses, some missing roof shingles, with a large pile of debris and lumber on the sidewalk; parked trucks and tangled utility wires line the road."
 geo:
 id: 3513
 item_type: Still Image

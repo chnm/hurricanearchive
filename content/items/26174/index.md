@@ -21,6 +21,8 @@ files:
     original_filename: scenicmap_726d5c84e9.jpg
     thumb: /files/thumbnails/14fb29d9c1184114fb29d9c11bfa.jpg
     url: /files/original/14fb29d9c1184114fb29d9c11bfa.jpg
+    alt:
+      en: "Regional road map of southeastern Louisiana and the Gulf Coast near New Orleans, showing highways, towns, and parks, with star icons marking historic sites and museums including Fort Pike and Chalmette Battlefield."
 geo:
 id: 26174
 item_type: Still Image

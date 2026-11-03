@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0253.JPG
     thumb: /files/thumbnails/14fb2a55ca35bb14fb2a55ca39a0.jpg
     url: /files/original/14fb2a55ca35bb14fb2a55ca39a0.jpg
+    alt:
+      en: "A green door with a 15-pane glass window stands open, revealing a debris-covered interior with an overturned chair; white vinyl siding and door frame show scattered dirt specks."
 geo:
 id: 4743
 item_type: Still Image

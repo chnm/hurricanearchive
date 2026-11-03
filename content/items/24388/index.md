@@ -21,6 +21,8 @@ files:
     original_filename: 501060-R2-09-8A.jpg
     thumb: /files/thumbnails/14fb29e854351c14fb29e8543941.jpg
     url: /files/original/14fb29e854351c14fb29e8543941.jpg
+    alt:
+      en: "Several vehicles submerged to their windows in murky brown floodwater, with a street lamp and tree in the foreground and power lines crossing a hazy sky."
 geo:
 id: 24388
 item_type: Still Image

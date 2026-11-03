@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28125.jpg
     thumb: /files/thumbnails/14fb2a678d7c1014fb2a678d82cb.jpg
     url: /files/original/14fb2a678d7c1014fb2a678d82cb.jpg
+    alt:
+      en: "A helicopter in flight carries a suspended load via a long cable, silhouetted against a hazy sky, with utility poles and wires visible below."
 geo:
   address: ''
   lat: 0.0

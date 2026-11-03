@@ -23,6 +23,8 @@ files:
     original_filename: 162358581_a3a13d7f4d.jpg
     thumb: /files/thumbnails/14fb29d22a83ec14fb29d22a87d2.jpg
     url: /files/original/14fb29d22a83ec14fb29d22a87d2.jpg
+    alt:
+      en: "Storm-damaged building with its ground floor torn open, exposing debris beneath an elevated upper story with balconies; an American flag flies from a pole above the wreckage."
 geo:
 id: 28601
 item_type: Still Image

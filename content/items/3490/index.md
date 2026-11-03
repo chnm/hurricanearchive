@@ -24,6 +24,8 @@ files:
     original_filename: P1010064.JPG
     thumb: /files/thumbnails/14fb2a5b80b0e814fb2a5b80b4fe.jpg
     url: /files/original/14fb2a5b80b0e814fb2a5b80b4fe.jpg
+    alt:
+      en: "Interior doorway with heavy mold staining on a wooden door, surrounded by peeling, water-damaged walls, debris, a tarp, and a bent piece of wood or metal leaning in the frame."
 geo:
 id: 3490
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: S4300002zephyrfield.JPG
     thumb: /files/thumbnails/14fb2a0f4c7f3014fb2a0f4c8331.jpg
     url: /files/original/14fb2a0f4c7f3014fb2a0f4c8331.jpg
+    alt:
+      en: "A man in U.S. Army camouflage uniform with an American flag patch and \"Mountain\" division insignia stands outdoors near trees and a building, with another uniformed person partly visible in the foreground."
 geo:
 id: 19548
 item_type: Still Image

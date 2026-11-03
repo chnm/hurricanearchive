@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0047OEP.JPG
     thumb: /files/thumbnails/14fb29f1f6199614fb29f1f61d73.jpg
     url: /files/original/14fb29f1f6199614fb29f1f61d73.jpg
+    alt:
+      en: "A satellite news truck labeled \"danblackstudios\" with a large dish antenna is parked on grass near a white canopy tent, generator, and a \"No Parking\" sign, cordoned off by orange traffic cones."
 geo:
 id: 23037
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0008-20.JPG
     thumb: /files/thumbnails/14fb2a0835907514fb2a083593ba.jpg
     url: /files/original/14fb2a0835907514fb2a083593ba.jpg
+    alt:
+      en: "A woman in camouflage military uniform with an American flag patch sits at a desk holding a phone to her ear while writing on a notepad; two men in similar uniforms stand in the background."
 geo:
 id: 20382
 item_type: Still Image

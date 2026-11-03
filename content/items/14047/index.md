@@ -21,6 +21,8 @@ files:
     original_filename: 20050928051.JPG
     thumb: /files/thumbnails/14fb2a1c08428614fb2a1c08466b.jpg
     url: /files/original/14fb2a1c08428614fb2a1c08466b.jpg
+    alt:
+      en: "A group of military personnel in camouflage and desert fatigues stand in a circle outdoors, examining a rolled map or atlas held by one soldier; name tapes read \"WEST\" and \"U.S. ARMY.\""
 geo:
   address: ''
   lat: 0.0

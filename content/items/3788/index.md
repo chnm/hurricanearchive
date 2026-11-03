@@ -21,6 +21,8 @@ files:
     original_filename: USS Alabama 1.jpg
     thumb: /files/thumbnails/14fb2a599d331414fb2a599d3681.jpg
     url: /files/original/14fb2a599d331414fb2a599d3681.jpg
+    alt:
+      en: "Camouflage-painted military jet (AF 63-487) mounted on a pole display against a cloudy sky, with a \"Peninsula\" billboard and power lines visible below."
 geo:
 id: 3788
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0682.JPG
     thumb: /files/thumbnails/14fb2a533c4d8214fb2a533c5168.jpg
     url: /files/original/14fb2a533c4d8214fb2a533c5168.jpg
+    alt:
+      en: "A yellow tape measure marking inches 0–7 rests on a weathered wooden beam amid debris, scattered pine needles, broken concrete chunks, and a rusted bolt or nail head."
 geo:
 id: 5237
 item_type: Still Image

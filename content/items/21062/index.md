@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1882.JPG
     thumb: /files/thumbnails/14fb2a00bda24d14fb2a00bda626.jpg
     url: /files/original/14fb2a00bda24d14fb2a00bda626.jpg
+    alt:
+      en: "Aerial view of a military helicopter landed in a grassy field with a line of people walking toward it, while a highway lined with parked ambulances and emergency vehicles runs alongside."
 geo:
 id: 21062
 item_type: Still Image

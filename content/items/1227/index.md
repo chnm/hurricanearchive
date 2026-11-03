@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28706.jpg
     thumb: /files/thumbnails/14fb2a6a41b64514fb2a6a41baa7.jpg
     url: /files/original/14fb2a6a41b64514fb2a6a41baa7.jpg
+    alt:
+      en: "Two people stand arm-in-arm in front of a horse trailer, one wearing a \"Torch Run Law Enforcement\" T-shirt and ASU plaid shorts while holding horse tack, the other in a pink tank top and khaki shorts."
 geo:
   address: ''
   lat: 0.0

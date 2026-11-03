@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0311causeway.JPG
     thumb: /files/thumbnails/14fb2a140e303514fb2a140e341d.jpg
     url: /files/original/14fb2a140e303514fb2a140e341d.jpg
+    alt:
+      en: "Aerial view of two parallel causeway bridges extending over calm blue water into a hazy horizon, with sparse vehicle traffic visible on both spans."
 geo:
 id: 18948
 item_type: Still Image

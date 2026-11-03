@@ -21,6 +21,8 @@ files:
     original_filename: Picture 001conventionctr.jpg
     thumb: /files/thumbnails/14fb2a11babe9a14fb2a11bac920.jpg
     url: /files/original/14fb2a11babe9a14fb2a11bac920.jpg
+    alt:
+      en: "Armed soldiers stand guard in a parking lot stocked with pallets of bottled water and boxed supplies, with a crowd of people and a large building marked \"RIVERWALK\" in the background, dated SEP 3 2005."
 geo:
 id: 19230
 item_type: Still Image

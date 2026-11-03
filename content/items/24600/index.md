@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0124-9-25-2.JPG
     thumb: /files/thumbnails/14fb29e63ef84c14fb29e63f2abb.jpg
     url: /files/original/14fb29e63ef84c14fb29e63f2abb.jpg
+    alt:
+      en: "Aerial view of floodwaters submerging roads and fields, with bare trees, a utility pole with power lines, and street signs partially visible above the waterline."
 geo:
 id: 24600
 item_type: Still Image

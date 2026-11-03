@@ -21,6 +21,8 @@ files:
     original_filename: 501057-R1-13-11A.jpg
     thumb: /files/thumbnails/14fb29e8bbe0f714fb29e8bbe880.jpg
     url: /files/original/14fb29e8bbe0f714fb29e8bbe880.jpg
+    alt:
+      en: "Aerial view of a dense residential neighborhood with floodwater filling streets and surrounding homes, tree canopies and rooftops stretching toward a hazy horizon."
 geo:
 id: 24320
 item_type: Still Image

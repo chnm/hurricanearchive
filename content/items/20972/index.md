@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0159-9-25-2.JPG
     thumb: /files/thumbnails/14fb2a01399ebc14fb2a0139a1c6.jpg
     url: /files/original/14fb2a01399ebc14fb2a0139a1c6.jpg
+    alt:
+      en: "Aerial view of extensive flooding across a low-lying landscape, with scattered debris, damaged structures, and uprooted trees poking through the murky water."
 geo:
 id: 20972
 item_type: Still Image

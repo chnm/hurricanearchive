@@ -21,6 +21,8 @@ files:
     original_filename: Dot Benge_5709_a7887f9e6e.jpg
     thumb: /files/thumbnails/14fb29daa18adb14fb29daa1907f.jpg
     url: /files/original/14fb29daa18adb14fb29daa1907f.jpg
+    alt:
+      en: "Man in period costume with black vest, white shirt, and red sash holds a mop beside a white house with pink flowering bushes; another costumed woman walks nearby near festival tents."
 geo:
 id: 26115
 item_type: Still Image

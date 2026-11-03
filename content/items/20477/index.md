@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0020H.JPG
     thumb: /files/thumbnails/14fb2a06edffe414fb2a06ee03c9.jpg
     url: /files/original/14fb2a06edffe414fb2a06ee03c9.jpg
+    alt:
+      en: "Two people stand at an air hockey table, a man in an orange \"Oklahoma State\" t-shirt holding a paddle, and a woman in a white and orange tank top with a nametag also holding a paddle, in a dimly lit room strung with small lights."
 geo:
 id: 20477
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0190neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29eec1ceae14fb29eec1d29d.jpg
     url: /files/original/14fb29eec1ceae14fb29eec1d29d.jpg
+    alt:
+      en: "Aerial view of a flattened residential neighborhood with damaged and roofless houses scattered among stripped, broken trees, debris-covered yards, and a body of water visible along the horizon."
 geo:
 id: 23569
 item_type: Still Image

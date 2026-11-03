@@ -20,6 +20,8 @@ files:
     original_filename: 114541286_8789185a18.jpg
     thumb: /files/thumbnails/14fb29d18ac59914fb29d18ac9c7.jpg
     url: /files/original/14fb29d18ac59914fb29d18ac9c7.jpg
+    alt:
+      en: "Folded white t-shirts printed with \"Girls Gone Wild\" above two orange hurricane-shaped graphics labeled \"Katrina\" and \"Rita,\" with \"New Orleans\" text beneath."
 geo:
 id: 28699
 item_type: Still Image

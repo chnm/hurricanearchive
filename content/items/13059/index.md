@@ -21,6 +21,8 @@ files:
     original_filename: before looking south.jpg
     thumb: /files/thumbnails/14fb2a20b4342414fb2a20b5bce1.jpg
     url: /files/original/14fb2a20b4342414fb2a20b5bce1.jpg
+    alt:
+      en: "Sideways-oriented street scene showing a paved plaza with trees, lampposts, and brick buildings under a cloudy sky, with a modern building facade in the foreground."
 geo:
 id: 13059
 item_type: Still Image

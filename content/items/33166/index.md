@@ -20,6 +20,8 @@ files:
     original_filename: 100_5066_39b2c521ce.JPG
     thumb: /files/thumbnails/14fb29cbd5ca3214fb29cbd5ce15.jpg
     url: /files/original/14fb29cbd5ca3214fb29cbd5ce15.jpg
+    alt:
+      en: "Two-story stuccoed building labeled \"ADMINISTRATION BUILDING,\" with broken and boarded windows, a boarded doorway, and overgrown shrubs and vines along the front facade."
 geo:
   address: 730 East Beach Blvd, Long Beach, MS
   lat: 0.0

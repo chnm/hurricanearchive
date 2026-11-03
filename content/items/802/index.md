@@ -35,12 +35,16 @@ files:
     original_filename: 2005-28019.jpg
     thumb: /files/thumbnails/14fb2a6cee178414fb2a6cee1b69.jpg
     url: /files/original/14fb2a6cee178414fb2a6cee1b69.jpg
+    alt:
+      en: "Debris field of collapsed homes and uprooted trees near a cleared gravel lot, with a surveying tripod set up on the right, showing storm damage from the 17th Street Canal breach."
   - fullsize: /files/fullsize/14fb2a6658739814fb2a66587604.jpg
     id: 1933
     mime: image/jpeg
     original_filename: 20050905_MG_8137.jpg
     thumb: /files/thumbnails/14fb2a6658739814fb2a66587604.jpg
     url: /files/original/14fb2a6658739814fb2a66587604.jpg
+    alt:
+      en: "A large rust-streaked barge marked \"ING 4727\" sits grounded amid flood debris near a breached canal floodwall, with a stranded school bus, wrecked houses, and a rescue vehicle visible in the devastated neighborhood beyond."
 geo:
   address: ''
   lat: 0.0

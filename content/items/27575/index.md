@@ -21,6 +21,8 @@ files:
     original_filename: _MG_7155_50d0d3349c.jpg
     thumb: /files/thumbnails/14fb29d353a2f114fb29d353a6b3.jpg
     url: /files/original/14fb29d353a2f114fb29d353a6b3.jpg
+    alt:
+      en: "Group photo of a girls' softball team in white \"Vikings\" uniforms with two adult coaches in purple shirts, posed kneeling and standing on a grass field at night."
 geo:
   address: ''
   lat: 29.91685

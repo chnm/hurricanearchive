@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0494.JPG
     thumb: /files/thumbnails/14fb2a53cd652f14fb2a53cd6914.jpg
     url: /files/original/14fb2a53cd652f14fb2a53cd6914.jpg
+    alt:
+      en: "Close-up of a house's horizontal vinyl siding with one damaged panel missing a section, exposing the wall beneath; tree branches cast shadows across the surface."
 geo:
 id: 5132
 item_type: Still Image

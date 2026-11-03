@@ -21,6 +21,8 @@ files:
     original_filename: DSC 2125rescuehelicopter.JPG
     thumb: /files/thumbnails/14fb2a13f6b80914fb2a13f6bc21.jpg
     url: /files/original/14fb2a13f6b80914fb2a13f6bc21.jpg
+    alt:
+      en: "Aerial view of extensively flooded residential neighborhood with submerged cars and streets, a rescue helicopter landed on an apartment rooftop painted with \"HELP\" in white letters."
 geo:
 id: 18963
 item_type: Still Image

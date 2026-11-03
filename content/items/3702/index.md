@@ -24,6 +24,8 @@ files:
     original_filename: P1010147.JPG
     thumb: /files/thumbnails/14fb2a5a136dd014fb2a5a1371b5.jpg
     url: /files/original/14fb2a5a136dd014fb2a5a1371b5.jpg
+    alt:
+      en: "Numerous neckties of various colors and patterns hang from the eaves and railings of a weathered porch, with a stained awning and lattice skirting visible on the damaged house."
 geo:
 id: 3702
 item_type: Still Image

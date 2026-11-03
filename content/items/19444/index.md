@@ -21,6 +21,8 @@ files:
     original_filename: Picture 004engineers.jpg
     thumb: /files/thumbnails/14fb2a0ff808b014fb2a0ff80c8e.jpg
     url: /files/original/14fb2a0ff808b014fb2a0ff80c8e.jpg
+    alt:
+      en: "Mud-covered street littered with debris and downed tree branches, lined by storm-damaged trees and buildings, with a \"Whitney\" bank sign visible in the background under a partly cloudy sky."
 geo:
 id: 19444
 item_type: Still Image

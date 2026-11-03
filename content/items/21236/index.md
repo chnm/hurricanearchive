@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0204-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ffe1fa1a14fb29ffe1fe00.jpg
     url: /files/original/14fb29ffe1fa1a14fb29ffe1fe00.jpg
+    alt:
+      en: "Aerial view of a devastated neighborhood with only concrete foundation slabs remaining, surrounded by scattered debris, downed trees, standing floodwater, and a military Humvee parked on a cleared street."
 geo:
 id: 21236
 item_type: Still Image

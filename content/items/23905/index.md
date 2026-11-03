@@ -21,6 +21,8 @@ files:
     original_filename: 09140002neworleansS&R.JPG
     thumb: /files/thumbnails/14fb29ec71584f14fb29ec715c3d.jpg
     url: /files/original/14fb29ec71584f14fb29ec715c3d.jpg
+    alt:
+      en: "A modern high-rise building with a curved, mirrored glass facade rises behind a lower gray building, with trees in the foreground and a pale sky above."
 geo:
 id: 23905
 item_type: Still Image

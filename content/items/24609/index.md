@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0126-21.JPG
     thumb: /files/thumbnails/14fb29e62eae6b14fb29e6300b34.jpg
     url: /files/original/14fb29e62eae6b14fb29e6300b34.jpg
+    alt:
+      en: "Blurred, motion-streaked photo of several people in camouflage military uniforms standing indoors under fluorescent ceiling lights, holding white papers or cups."
 geo:
 id: 24609
 item_type: Still Image

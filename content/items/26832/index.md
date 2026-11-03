@@ -24,6 +24,8 @@ files:
     original_filename: SF shrimp boat_50ba75fb96.jpg
     thumb: /files/thumbnails/14fb29d78a3c9814fb29d78a407b.jpg
     url: /files/original/14fb29d78a3c9814fb29d78a407b.jpg
+    alt:
+      en: "A shrimp boat with raised outrigger nets moves through open water, photographed from behind the boat's own rigging and netting in the foreground."
 geo:
   address: ''
   lat: 29.87876

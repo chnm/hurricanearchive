@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28736.jpg
     thumb: /files/thumbnails/14fb2a6d26388814fb2a6d263c6d.jpg
     url: /files/original/14fb2a6d26388814fb2a6d263c6d.jpg
+    alt:
+      en: "Handwritten sign taped to a gray wall reads \"ANIMALS TO BE TRANSPORTED TO LSU VET HOSPITAL,\" with leashes and collars hanging nearby at the animal rescue depot."
 geo:
   address: ''
   lat: 0.0

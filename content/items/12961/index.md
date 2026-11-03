@@ -20,6 +20,8 @@ files:
     original_filename: AAV's @ RIverwalk_9aeaedbf18.jpg
     thumb: /files/thumbnails/14fb2a214c591a14fb2a214c5f73.jpg
     url: /files/original/14fb2a214c591a14fb2a214c5f73.jpg
+    alt:
+      en: "Three military armored vehicles (AAVs) parked on a street beneath the \"Riverwalk Marketplace\" archway sign, with white decorative metal arches and trees in the background."
 geo:
   address: ''
   lat: 29.95008

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28041.jpg
     thumb: /files/thumbnails/14fb2a6ac7016b14fb2a6ac7054a.jpg
     url: /files/original/14fb2a6ac7016b14fb2a6ac7054a.jpg
+    alt:
+      en: "Brick church with a tall white steeple and a sign reading \"BS FEST\" and \"AUG 12,\" beside a tall wooden utility pole marked with water-level numbers, under a clear sky."
 geo:
   address: ''
   lat: 0.0

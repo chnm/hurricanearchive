@@ -21,6 +21,8 @@ files:
     original_filename: P1010174empireS&R.JPG
     thumb: /files/thumbnails/14fb29ed614cb514fb29ed61509b.jpg
     url: /files/original/14fb29ed614cb514fb29ed61509b.jpg
+    alt:
+      en: "Damaged wooden houses leaning off their foundations along a debris-strewn street, with downed power lines, scattered branches, and mud coating the road from storm flooding."
 geo:
 id: 23733
 item_type: Still Image

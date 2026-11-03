@@ -26,6 +26,8 @@ files:
     original_filename: 009_09_3046eccedc.jpg
     thumb: /files/thumbnails/14fb2a6dded14214fb2a6dded5c3.jpg
     url: /files/original/14fb2a6dded14214fb2a6dded5c3.jpg
+    alt:
+      en: "A purple car lies overturned amid widespread debris, with a pickup truck and leafless trees in the background; the car's door is marked with handwritten text reading \"5BIISK LSP.\""
 geo:
   address: ''
   lat: 0.0

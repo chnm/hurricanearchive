@@ -20,6 +20,8 @@ files:
     original_filename: 2456726247_872b228caf.
     thumb: /files/thumbnails/14fb29c8b8ce7814fb29c8b8d25d.jpg
     url: /files/original/14fb29c8b8ce7814fb29c8b8d25d.jpg
+    alt:
+      en: "A wide dirt road stretches toward the horizon, flanked by dense green trees on both sides under a clear blue sky, with the front of a dark vehicle visible at the right edge."
 geo:
 id: 34885
 item_type: Still Image

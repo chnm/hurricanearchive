@@ -27,6 +27,8 @@ files:
     original_filename: Rescue
     thumb: /files/thumbnails/14fb2a6071079114fb2a60710b79.jpg
     url: /files/original/14fb2a6071079114fb2a60710b79.jpg
+    alt:
+      en: "Child's crayon drawing of an orange rescue helicopter lowering a basket toward floodwaters, with an apartment building, a turtle, and an alligator nearby; captioned \"By: Jaleel, 9.\""
 geo:
 id: 2718
 item_type: Still Image

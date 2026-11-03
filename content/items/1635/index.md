@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28283.jpg
     thumb: /files/thumbnails/14fb2a6754437514fb2a675448b1.jpg
     url: /files/original/14fb2a6754437514fb2a675448b1.jpg
+    alt:
+      en: "Twisted, curled sheets of metal debris lie in heaps on the ground, with three people standing and talking in the background amid scattered wreckage and trees."
 geo:
   address: ''
   lat: 0.0

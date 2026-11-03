@@ -21,6 +21,8 @@ files:
     original_filename: IMG_1023.JPG
     thumb: /files/thumbnails/14fb2a57ccf27b14fb2a57ccf661.jpg
     url: /files/original/14fb2a57ccf27b14fb2a57ccf661.jpg
+    alt:
+      en: "Uniformed Coast Guard personnel stand near flatbed trucks on a dock, with civilians and a small crane loading supplies in the background under a clear sky."
 geo:
 id: 4097
 item_type: Still Image

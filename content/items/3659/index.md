@@ -24,6 +24,8 @@ files:
     original_filename: P1010095.JPG
     thumb: /files/thumbnails/14fb2a5a4c17fc14fb2a5a4c265c.jpg
     url: /files/original/14fb2a5a4c17fc14fb2a5a4c265c.jpg
+    alt:
+      en: "Debris including discarded refrigerators, a mirror, and a trash bin piled on a lawn beside a bare, storm-damaged tree and basketball hoop, with brick homes in the background."
 geo:
 id: 3659
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: aerials67.jpg
     thumb: /files/thumbnails/14fb2a19a133b314fb2a19a137cc.jpg
     url: /files/original/14fb2a19a133b314fb2a19a137cc.jpg
+    alt:
+      en: "Aerial view of a devastated coastal area with debris fields, stripped trees, and a large white building along the shoreline, with a lagoon and sandy terrain in the foreground."
 geo:
 id: 14357
 item_type: Still Image

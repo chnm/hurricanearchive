@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 145cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0dfbedb914fb2a0dfbf1a1.jpg
     url: /files/original/14fb2a0dfbedb914fb2a0dfbf1a1.jpg
+    alt:
+      en: "A man in a tan t-shirt and camouflage pants and cap stands outside a brick building with white columns, a gray parrot perched on top of his head."
 geo:
 id: 19758
 item_type: Still Image

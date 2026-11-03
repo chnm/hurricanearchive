@@ -21,6 +21,8 @@ files:
     original_filename: DSC 1516superdome.JPG
     thumb: /files/thumbnails/14fb29e31dae8114fb29e31db275.jpg
     url: /files/original/14fb29e31dae8114fb29e31db275.jpg
+    alt:
+      en: "A military Black Hawk helicopter numbered 585 sits on a rooftop parking deck with rotors spinning, a soldier standing by its open door, and a highway overpass and banner reading \"Check Out Who's Rolling With the Wave This Year!\" in the background."
 geo:
 id: 24994
 item_type: Still Image

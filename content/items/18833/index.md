@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0055ninthwardnola.JPG
     thumb: /files/thumbnails/14fb2a1501a22114fb2a1501a6a8.jpg
     url: /files/original/14fb2a1501a22114fb2a1501a6a8.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with houses knocked off their foundations, scattered debris, and standing floodwater covering streets and yards, with surviving trees along the right side."
 geo:
 id: 18833
 item_type: Still Image

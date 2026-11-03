@@ -21,6 +21,8 @@ files:
     original_filename: CPL. William Thompson 023cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0e9e326614fb2a0e9e35fa.jpg
     url: /files/original/14fb2a0e9e326614fb2a0e9e35fa.jpg
+    alt:
+      en: "Exterior view of a building with a tan brick lower section and dark-tinted windows, behind which a larger metal-roofed structure bears the partially visible text \"...NAL GUARD,\" with antennas and a satellite dish on the roof."
 geo:
 id: 19636
 item_type: Still Image

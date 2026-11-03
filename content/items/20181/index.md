@@ -21,6 +21,8 @@ files:
     original_filename: Copy (2) of DSC 0016.JPG
     thumb: /files/thumbnails/14fb2a0ae8a66a14fb2a0ae8aa50.jpg
     url: /files/original/14fb2a0ae8a66a14fb2a0ae8aa50.jpg
+    alt:
+      en: "Aerial view (oriented sideways) of a dense residential neighborhood with closely spaced houses and trees, bordered by a long waterway or canal and a road running alongside it."
 geo:
 id: 20181
 item_type: Still Image

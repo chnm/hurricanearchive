@@ -21,6 +21,8 @@ files:
     original_filename: 104_MG_4858_6104200785.jpg
     thumb: /files/thumbnails/14fb2a1e3a313b14fb2a1e3a3520.jpg
     url: /files/original/14fb2a1e3a313b14fb2a1e3a3520.jpg
+    alt:
+      en: "A man wearing a New York Jets cap and jersey sits in a wooden rocking chair, holding a swaddled newborn baby wrapped in white and blue blankets."
 geo:
 id: 13356
 item_type: Still Image

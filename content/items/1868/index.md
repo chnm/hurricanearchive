@@ -26,6 +26,8 @@ files:
     original_filename: My_parquet_floors_5fd52bd8fc.jpg
     thumb: /files/thumbnails/14fb2a6e7cb3c214fb2a6e7cb799.jpg
     url: /files/original/14fb2a6e7cb3c214fb2a6e7cb799.jpg
+    alt:
+      en: "Close-up of warped parquet wood flooring buckled upward into peaked, tent-like ridges after flood exposure, revealing damaged subflooring beneath the cracked wooden tiles."
 geo:
   address: ''
   lat: 30.005653

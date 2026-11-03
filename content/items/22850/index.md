@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0017mpcheckpoints.JPG
     thumb: /files/thumbnails/14fb29f30e791514fb29f30e7cfa.jpg
     url: /files/original/14fb29f30e791514fb29f30e7cfa.jpg
+    alt:
+      en: "Military Humvees and uniformed soldiers gather with a New Orleans police officer near a \"DO NOT ENTER\" sign on a grassy roadside, with a soldier in the foreground and an orange traffic cone nearby."
 geo:
 id: 22850
 item_type: Still Image

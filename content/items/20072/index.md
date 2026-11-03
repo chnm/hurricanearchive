@@ -21,6 +21,8 @@ files:
     original_filename: Picture 169cplthompson.jpg
     thumb: /files/thumbnails/14fb2a0b7ef2f414fb2a0b7ef6e1.jpg
     url: /files/original/14fb2a0b7ef2f414fb2a0b7ef6e1.jpg
+    alt:
+      en: "Debris and torn, water-damaged materials scattered across a gravel lot, with a chain-link fence visible in the background."
 geo:
 id: 20072
 item_type: Still Image

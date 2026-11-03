@@ -21,6 +21,8 @@ files:
     original_filename: NewOrleans2.jpgsatellite
     thumb: /files/thumbnails/14fb29fb43c61114fb29fb43ca15.jpg
     url: /files/original/14fb29fb43c61114fb29fb43ca15.jpgsatellite
+    alt:
+      en: "Side-by-side satellite images of a New Orleans lakefront neighborhood and marina, comparing May 13, 2001 with September 2, 2005, showing extensive flooding submerging streets and homes after Hurricane Katrina."
 geo:
 id: 21885
 item_type: Still Image

@@ -26,6 +26,8 @@ files:
     original_filename: 7746900R104722_b1849c3df0.jpg
     thumb: /files/thumbnails/14fb2a6e9c386314fb2a6e9c3c49.jpg
     url: /files/original/14fb2a6e9c386314fb2a6e9c3c49.jpg
+    alt:
+      en: "A military helicopter carries a suspended cargo bag over a flooded canal lined with concrete levee walls and bare, storm-damaged trees, with a bridge visible in the distance."
 geo:
   address: ''
   lat: 30.008388808856697

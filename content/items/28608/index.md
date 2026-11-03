@@ -23,6 +23,8 @@ files:
     original_filename: 162117816_0e9326b6e9.jpg
     thumb: /files/thumbnails/14fb29d225254c14fb29d2252936.jpg
     url: /files/original/14fb29d225254c14fb29d2252936.jpg
+    alt:
+      en: "Billboard reading \"RE-ELECT OUR MAYOR RAY NAGIN – REUNITE OUR CITY\" towers over a quiet street with a McDonald's sign, low buildings, and a parked SUV in a near-empty lot."
 geo:
 id: 28608
 item_type: Still Image

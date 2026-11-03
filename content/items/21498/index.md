@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0277-9-25-2.JPG
     thumb: /files/thumbnails/14fb29fe22ea6714fb29fe22ee4b.jpg
     url: /files/original/14fb29fe22ea6714fb29fe22ee4b.jpg
+    alt:
+      en: "Aerial view of a flooded residential neighborhood with brown floodwaters surrounding houses, a few partially submerged vehicles and trucks, a swimming pool, and scattered trees amid the inundated streets and yards."
 geo:
 id: 21498
 item_type: Still Image

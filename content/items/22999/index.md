@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0009OEP.JPG
     thumb: /files/thumbnails/14fb29f22d78f814fb29f22d7cda.jpg
     url: /files/original/14fb29f22d78f814fb29f22d7cda.jpg
+    alt:
+      en: "Parking lot filled with satellite news trucks, including one marked \"WAFB,\" alongside parked cars and RVs, with satellite dishes and camera equipment mounted on vehicle roofs."
 geo:
 id: 22999
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0078M.JPG
     thumb: /files/thumbnails/14fb2a03c414af14fb2a03c41895.jpg
     url: /files/original/14fb2a03c414af14fb2a03c41895.jpg
+    alt:
+      en: "Sideways photo of a soldier in woodland camouflage uniform with \"HALL\" name tape, standing beside another person in a tan shirt, with a \"VITAL RECORDS\" sign visible in the background."
 geo:
 id: 20788
 item_type: Still Image

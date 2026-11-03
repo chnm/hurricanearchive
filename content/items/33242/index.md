@@ -23,6 +23,8 @@ files:
     original_filename: 1248145218_33549b332f.jpg
     thumb: /files/thumbnails/14fb29cb468b1114fb29cb468ef6.jpg
     url: /files/original/14fb29cb468b1114fb29cb468ef6.jpg
+    alt:
+      en: "A two-story gray house with white trim and an arched doorway, surrounded by overgrown grass and shrubs, with a neighboring house and palm trees visible under a partly cloudy sky."
 geo:
 id: 33242
 item_type: Still Image

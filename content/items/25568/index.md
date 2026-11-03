@@ -20,6 +20,8 @@ files:
     original_filename: pt_backview_f96016277a.jpg
     thumb: /files/thumbnails/14fb29dd33038314fb29dd330768.jpg
     url: /files/original/14fb29dd33038314fb29dd330768.jpg
+    alt:
+      en: "Two storm-damaged backbuildings of the Bar Pilots station sit askew on pilings, connected by a weathered wooden boardwalk, with debris strewn beneath; a door reads \"KEEP DOOR CLOSED.\""
 geo:
   address: ''
   lat: 29.26723

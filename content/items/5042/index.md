@@ -21,6 +21,8 @@ files:
     original_filename: DSCN0387.JPG
     thumb: /files/thumbnails/14fb2a544bed2214fb2a544bf107.jpg
     url: /files/original/14fb2a544bed2214fb2a544bf107.jpg
+    alt:
+      en: "Remnants of a destroyed structure with only wooden support posts and beams still standing amid scattered debris, surrounded by a damaged pine forest under an overcast sky."
 geo:
 id: 5042
 item_type: Still Image

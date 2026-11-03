@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28634.jpg
     thumb: /files/thumbnails/14fb2a68158bd314fb2a68158fbe.jpg
     url: /files/original/14fb2a68158bd314fb2a68158fbe.jpg
+    alt:
+      en: "A decorative four-sided street clock stands in the foreground, surrounded by green tree branches, with a tall glass office building reflecting its windows in the background."
 geo:
   address: ''
   lat: 0.0

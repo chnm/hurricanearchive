@@ -24,6 +24,8 @@ files:
     original_filename: 20051103_MG_8631.jpg
     thumb: /files/thumbnails/14fb2a65ce723c14fb2a65ce7620.jpg
     url: /files/original/14fb2a65ce723c14fb2a65ce7620.jpg
+    alt:
+      en: "A hand-painted sign reading \"welcome home NEW ORLEANS community kitchen FREE MEALS\" stands amid trees and Mardi Gras beads, with a man carrying boxes past a community kitchen setup in the background."
 geo:
 id: 2511
 item_type: Still Image

@@ -21,6 +21,8 @@ files:
     original_filename: DSC00055.jpg
     thumb: /files/thumbnails/14fb2a095b07ff14fb2a095b0be3.jpg
     url: /files/original/14fb2a095b07ff14fb2a095b0be3.jpg
+    alt:
+      en: "Two people push a green shopping cart across a parking lot near a Baskin Robbins storefront, with a large truck parked on the left and a gray sedan in the background."
 geo:
 id: 20323
 item_type: Still Image

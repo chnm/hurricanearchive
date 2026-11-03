@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0212-2-9-15.JPG
     thumb: /files/thumbnails/14fb29ffaee26514fb29ffaee64a.jpg
     url: /files/original/14fb29ffaee26514fb29ffaee64a.jpg
+    alt:
+      en: "Aerial view of a devastated residential neighborhood with collapsed roofs, scattered debris, and stripped trees stretching toward a distant waterline and water tower."
 geo:
 id: 21269
 item_type: Still Image

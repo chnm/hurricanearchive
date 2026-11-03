@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0001 corp.jpg
     thumb: /files/thumbnails/14fb2a00fd624b14fb2a00fd6748.jpg
     url: /files/original/14fb2a00fd624b14fb2a00fd6748.jpg
+    alt:
+      en: "A man in military camouflage gear stands outdoors on dry grass, wearing a dark helmet with attached goggles, a life-vest-style harness, and an American flag patch on his sleeve, with military vehicles visible in the background."
 geo:
 id: 21037
 item_type: Still Image

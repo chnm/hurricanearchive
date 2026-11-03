@@ -18,6 +18,8 @@ files:
     original_filename: 43_a611790974.jpg
     thumb: /files/thumbnails/14fb29c6c4f77314fb29c6c4fb0c.jpg
     url: /files/original/14fb29c6c4f77314fb29c6c4fb0c.jpg
+    alt:
+      en: "Gutted interior of a brick building with exposed ceiling joists, two window openings, peeling yellow and pink wall panels, and debris, including a mattress and scattered materials, covering the floor."
 geo:
   address: new orleans, la
   lat: 29.95324

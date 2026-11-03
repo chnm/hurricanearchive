@@ -27,6 +27,8 @@ files:
     original_filename: 2005-27884.jpg
     thumb: /files/thumbnails/14fb2a6bd5988d14fb2a6bd59c50.jpg
     url: /files/original/14fb2a6bd5988d14fb2a6bd59c50.jpg
+    alt:
+      en: "Interior view of a trailer's roof collapsed by a fallen tree, with splintered wooden beams, torn insulation, exposed wiring, and shredded plastic sheeting hanging down."
 geo:
   address: ''
   lat: 0.0

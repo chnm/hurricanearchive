@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0267-9-25.JPG
     thumb: /files/thumbnails/14fb29fe88886c14fb29fe888c53.jpg
     url: /files/original/14fb29fe88886c14fb29fe888c53.jpg
+    alt:
+      en: "Aerial view of a flooded Chevron gas station with submerged pumps and canopy, surrounded by floodwater with several partially submerged vehicles and a fire truck visible on the roadway below."
 geo:
 id: 21464
 item_type: Still Image

@@ -27,6 +27,8 @@ files:
     original_filename: 2005-28099.jpg
     thumb: /files/thumbnails/14fb2a67c7366514fb2a67c73a39.jpg
     url: /files/original/14fb2a67c7366514fb2a67c73a39.jpg
+    alt:
+      en: "A bent blue street sign reading \"La Salle\" mounted on a traffic signal pole, with a tall building and partly cloudy sky in the background."
 geo:
   address: ''
   lat: 0.0

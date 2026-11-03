@@ -21,6 +21,8 @@ files:
     original_filename: DSC 0057cameronS&R.JPG
     thumb: /files/thumbnails/14fb29efdec9d514fb29efdecdbc.jpg
     url: /files/original/14fb29efdec9d514fb29efdecdbc.jpg
+    alt:
+      en: "Interior of a storm-damaged commercial building with collapsed ceiling tiles, dangling wires, scattered cinderblocks, and a visible safe or vault door amid piles of debris."
 geo:
 id: 23344
 item_type: Still Image
