@@ -2,19 +2,18 @@
 
 FROM stagex/pallet-nodejs AS build-stage
 
-# stagex/user-hugo-extended ships the binary inside a directory at
-# /usr/bin/hugo/, named "hugo_exended" (sic — the missing 'x' is upstream's).
-# Copying the dir itself would make /usr/local/bin/hugo a directory, which
-# then fails `RUN hugo` with "Permission denied". Copy the actual file.
-COPY --from=stagex/user-hugo-extended /usr/bin/hugo/hugo_exended /usr/local/bin/hugo
+COPY --from=stagex/user-hugo-extended:0.161.1 /usr/bin/hugo /usr/local/bin/hugo
 
 ARG hugobuildargs
 ENV HUGO_BUILD_ARGS=$hugobuildargs
 
 WORKDIR /app
+
+COPY package.json package-lock.json ./
+RUN npm ci
+
 COPY . .
 
-RUN npm ci
 RUN hugo ${HUGO_BUILD_ARGS}
 # Build the pagefind search index. Restrict the walk to real item pages
 # (items/<id>/index.html — the single-segment glob skips the ~46k two-segment
